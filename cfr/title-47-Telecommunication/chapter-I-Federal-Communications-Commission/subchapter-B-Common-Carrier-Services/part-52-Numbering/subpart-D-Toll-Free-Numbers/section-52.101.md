@@ -1,5 +1,7 @@
 ##### § 52.101 General definitions. #####
 
+Link to an amendment published at 83 FR 53395, Oct. 23, 2018.
+
 As used in this part:
 
 (a) *Number Administration and Service Center (“NASC”).* The entity that provides user support for the Service Management System database and administers the Service Management System database on a day-to-day basis.

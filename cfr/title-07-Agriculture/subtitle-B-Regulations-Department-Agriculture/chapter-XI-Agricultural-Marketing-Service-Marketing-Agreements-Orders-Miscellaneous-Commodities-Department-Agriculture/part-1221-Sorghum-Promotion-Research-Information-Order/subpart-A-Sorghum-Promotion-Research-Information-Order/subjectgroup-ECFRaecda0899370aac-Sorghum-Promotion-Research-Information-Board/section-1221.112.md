@@ -1,7 +1,5 @@
 ##### § 1221.112 Budget and expenses. #####
 
-Link to an amendment published at 83 FR 35106, July 25, 2018.
-
 (a) Prior to the beginning of each fiscal period, and as may be necessary thereafter, the Board shall prepare and submit to the Secretary a budget for the fiscal period covering its anticipated expenses and disbursements in administering this subpart. Each such budget shall include:
 
 (1) A statement of objectives and strategy for each program, plan, or project;
@@ -22,20 +20,18 @@ Link to an amendment published at 83 FR 35106, July 25, 2018.
 
 (f) The Board may accept voluntary contributions, but these shall only be used to pay expenses incurred in the conduct of programs, plans, and projects in accordance with the Order. Such contributions shall be free from any encumbrance by the donor and the Board shall retain complete control of their use.
 
-(g) In accordance with § 1221.118(a), the Board shall deposit funds in a refund escrow account and refrain from allocating this amount for expenditure until the Order is approved by the required referendum except as provided for in § 1221.118.
+(g) The Board shall reimburse the Secretary for all expenses incurred by the Secretary in the implementation, administration, and supervision of the Order, including all referendum costs in connection with the Order.
 
-(h) The Board shall allocate an appropriate amount each year to allow for payment of future referendums.
-
-(i) The Board shall reimburse the Secretary for all expenses incurred by the Secretary in the implementation, administration, and supervision of the Order, including all referendum costs in connection with the Order.
-
-(j) The Board shall determine annually an allocation amount no less than 15 percent but no more than 25 percent of the total assessments collected on all sorghum available for any fiscal period, less the expenses pursuant to paragraph (i), for use by qualified sorghum producer organizations pursuant to § 1221.128 for State programs of generic promotion, research, and information. Amounts allocated by the Board for State generic promotion, research, and information programs will be based on requests submitted to the Board by qualified sorghum producer organizations when it is determined that these requests meet the goals and objectives stated in the Act and Order. The request shall include detailed programs, plans, or projects with budgets. Qualified sorghum producer organizations shall not submit requests for State generic promotion, research, and information programs that exceed the annual allocation amount determined by the Board which shall be the product of:
+(h) The Board shall determine annually an allocation amount no less than 15 percent but no more than 25 percent of the total assessments collected on all sorghum available for any fiscal period, less the expenses pursuant to paragraph (i), for use by qualified sorghum producer organizations pursuant to § 1221.128 for State programs of generic promotion, research, and information. Amounts allocated by the Board for State generic promotion, research, and information programs will be based on requests submitted to the Board by qualified sorghum producer organizations when it is determined that these requests meet the goals and objectives stated in the Act and Order. The request shall include detailed programs, plans, or projects with budgets. Qualified sorghum producer organizations shall not submit requests for State generic promotion, research, and information programs that exceed the annual allocation amount determined by the Board which shall be the product of:
 
 (1) The State's proportional contribution based on reports submitted by first handlers pursuant to § 1221.124(a) to total assessments remitted on all sorghum for the previous fiscal period; multiplied by
 
 (2) The total assessments collected on all sorghum for the previous fiscal period less expenses pursuant to paragraph (i) of this section.
 
-(k) The Board may not expend for administration, maintenance, and functioning of the Board in any fiscal period an amount that exceeds 10 percent of the assessments and other income received by the Board for that fiscal period except for the initial fiscal period. Reimbursements to the Secretary required under paragraph (i) of this section are excluded from this limitation on spending.
+(i) The Board may not expend for administration, maintenance, and functioning of the Board in any fiscal period an amount that exceeds 10 percent of the assessments and other income received by the Board for that fiscal period except for the initial fiscal period. Reimbursements to the Secretary required under paragraph (i) of this section are excluded from this limitation on spending.
 
-(l) The Board shall allocate all other funds available for any fiscal period, to the extent practicable, subject to paragraphs (g), (h), (i), (j), and (k) of this section on programs, plans, or projects, as provided for in § 1221.121.
+(j) The Board shall allocate all other funds available for any fiscal period, to the extent practicable, subject to paragraphs (g), (h), (i), (j), and (k) of this section on programs, plans, or projects, as provided for in § 1221.121.
 
-(m) The Board shall determine annually the allocation of total funds pursuant to this section, with the approval of the Secretary.
+(k) The Board shall determine annually the allocation of total funds pursuant to this section, with the approval of the Secretary.
+
+[73 FR 25407, May 6, 2008, as amended at 83 FR 35106, July 25, 2018]

@@ -1,5 +1,7 @@
 ##### § 52.107 Hoarding. #####
 
+Link to an amendment published at 83 FR 53396, Oct. 23, 2018.
+
 (a) As used in this section, hoarding is the acquisition by a toll free subscriber from a Responsible Organization of more toll free numbers than the toll free subscriber intends to use for the provision of toll free service. The definition of hoarding also includes number brokering, which is the selling of a toll free number by a private entity for a fee.
 
 (1) Toll free subscribers shall not hoard toll free numbers.

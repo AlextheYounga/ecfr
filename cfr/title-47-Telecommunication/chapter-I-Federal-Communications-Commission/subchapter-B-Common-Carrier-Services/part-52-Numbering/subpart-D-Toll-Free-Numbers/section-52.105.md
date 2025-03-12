@@ -1,5 +1,7 @@
 ##### § 52.105 Warehousing. #####
 
+Link to an amendment published at 83 FR 53396, Oct. 23, 2018.
+
 (a) As used in this section, warehousing is the practice whereby Responsible Organizations, either directly or indirectly through an affiliate, reserve toll free numbers from the Service Management System database without having an actual toll free subscriber for whom those numbers are being reserved.
 
 (b) Responsible Organizations shall not warehouse toll free numbers. There shall be a rebuttable presumption that a Responsible Organization is warehousing toll free numbers if:

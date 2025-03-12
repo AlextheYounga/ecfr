@@ -1,5 +1,7 @@
 ##### § 52.103 Lag times. #####
 
+Link to an amendment published at 83 FR 53395, Oct. 23, 2018.
+
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 (1) *Assigned Status.* A toll free number record that has specific subscriber routing information entered by the Responsible Organization in the Service Management System database and is pending activation in the Service Control Points.
