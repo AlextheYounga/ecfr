@@ -24,10 +24,10 @@ The following definitions apply to subparts A and B of this part.
 
 *Processing Official.* The Agency official designated by the approval official as having the authority to accept and process applications for water and waste disposal assistance.
 
-*Rural area.* For the purposes of this SEARCH program, any area not in a city or town with a population of 2,500 or fewer, according to the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data.
+*Rural area.* For the purposes of this SEARCH program, any communities in a city, town, or unincorporated area with populations of 2,500 or fewer inhabitants, according to the most recent decennial Census of the United States (decennial Census).
 
 *State.* Any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Territory of Guam, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, and the U.S. Virgin Islands.
 
 *Technical Assistance.* Supervision, oversight, or training by an organization for the development of an application for financial assistance.
 
-[75 FR 35963, June 24, 2010, as amended at 80 FR 9862, Feb. 24, 2015]
+[75 FR 35963, June 24, 2010, as amended at 80 FR 9862, Feb. 24, 2015; 84 FR 3669, Feb. 13, 2019]

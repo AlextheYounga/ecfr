@@ -1,5 +1,7 @@
 ##### 552.236-70 Definitions. #####
 
+Link to an amendment published at 84 FR 3721, Feb. 13, 2019.
+
 As prescribed in 536.570-1, insert the following clause:
 
 Definitions (APR 1984)

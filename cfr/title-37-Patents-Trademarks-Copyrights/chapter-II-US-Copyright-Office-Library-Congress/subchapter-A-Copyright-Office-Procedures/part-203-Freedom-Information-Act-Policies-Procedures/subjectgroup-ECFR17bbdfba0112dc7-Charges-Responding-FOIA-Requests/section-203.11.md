@@ -1,5 +1,7 @@
 ##### § 203.11 Fees. #####
 
+Link to an amendment published at 84 FR 3701, February 13, 2019.
+
 (a) *In general.* (1) The fee schedule of this section does not apply with respect to the charging of fees for those records for which the Copyright Act requires a fee to be charged. The fees required to be charged are contained in § 201.3 of this chapter, or have been established by the Register of Copyrights or Library of Congress pursuant to the requirements of that section. The Copyright Office will charge for processing requests under FOIA in accordance with the provisions of this section and with the OMB Guidelines. For purposes of assessing fees for processing requests, FOIA establishes three categories of requesters:
 
 (i) Commercial use requesters;

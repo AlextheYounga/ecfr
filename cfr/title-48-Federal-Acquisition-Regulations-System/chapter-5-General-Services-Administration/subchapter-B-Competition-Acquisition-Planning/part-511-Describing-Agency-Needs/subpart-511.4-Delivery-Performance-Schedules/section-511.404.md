@@ -1,5 +1,7 @@
 ##### 511.404 Contract clauses. #####
 
+Link to an amendment published at 84 FR 3716, Feb. 13, 2019.
+
 In supply contracts, the contracting officer shall use the clauses as specified in this section.
 
 (a) *Shelf-life items.* The contracting officer shall use the following clauses in solicitations and contracts that require delivery of shelf-life items within a specified number of months from the date of manufacture or production:

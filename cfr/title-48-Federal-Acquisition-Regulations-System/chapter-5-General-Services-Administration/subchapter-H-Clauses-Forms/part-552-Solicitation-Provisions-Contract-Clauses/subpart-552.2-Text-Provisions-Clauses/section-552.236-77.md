@@ -1,5 +1,7 @@
 ##### 552.236-77 Specifications and Drawings #####
 
+Link to an amendment published at 84 FR 3722, Feb. 13, 2019.
+
 As prescribed in 536.570-8, insert the following clause:
 
 Specifications and Drawings (SEP 1999)

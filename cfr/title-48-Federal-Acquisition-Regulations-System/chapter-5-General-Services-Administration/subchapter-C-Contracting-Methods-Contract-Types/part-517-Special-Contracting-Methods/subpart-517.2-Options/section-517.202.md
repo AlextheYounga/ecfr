@@ -1,5 +1,7 @@
 ##### 517.202 Use of options. #####
 
+Link to an amendment published at 84 FR 3716, Feb. 13, 2019.
+
 (a) *Supplies or services.* (1) Options may be used when they meet one or more of the following objectives:
 
 (i) Reduce procurement lead time and associated costs.

@@ -1,5 +1,7 @@
 ##### 552.236-82 Subcontracts. #####
 
+Link to an amendment published at 84 FR 3722, Feb. 13, 2019.
+
 As prescribed in 536.570-13, insert the following clause:
 
 Subcontracts (APR 1984)

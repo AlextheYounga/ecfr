@@ -1,5 +1,7 @@
 ##### 552.243-71 Equitable Adjustments. #####
 
+Link to an amendment published at 84 FR 3723, Feb. 13, 2019.
+
 As prescribed in 543.205, insert the following clause:
 
 Equitable Adjustments (JAN 2009)

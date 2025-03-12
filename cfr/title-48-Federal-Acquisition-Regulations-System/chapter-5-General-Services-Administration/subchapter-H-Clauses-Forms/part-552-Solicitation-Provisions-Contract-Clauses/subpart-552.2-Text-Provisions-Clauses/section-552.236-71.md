@@ -1,5 +1,7 @@
 ##### 552.236-71 Authorities and Limitations. #####
 
+Link to an amendment published at 84 FR 3721, Feb. 13, 2019.
+
 As prescribed in 536.570-2, insert the following clause:
 
 Authorities and Limitations (APR 1984)

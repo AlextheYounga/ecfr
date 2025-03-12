@@ -1,5 +1,7 @@
 ##### 552.236-78 Shop Drawings, Coordination Drawings, and Schedules. #####
 
+Link to an amendment published at 84 FR 3722, Feb. 13, 2019.
+
 As prescribed in 536.570-9, insert the following clause:
 
 Shop Drawings, Coordination Drawings, and Schedules (SEP 1999)

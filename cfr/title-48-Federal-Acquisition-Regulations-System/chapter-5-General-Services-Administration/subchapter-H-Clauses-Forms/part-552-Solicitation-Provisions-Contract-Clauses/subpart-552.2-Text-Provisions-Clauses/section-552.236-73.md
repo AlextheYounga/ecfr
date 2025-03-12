@@ -1,5 +1,7 @@
 ##### 552.236-73 Basis of Award - Construction Contract. #####
 
+Link to an amendment published at 84 FR 3722, Feb. 13, 2019.
+
 As prescribed in 536.570-4, insert the following provision or the appropriate Alternate:
 
 Basis of Award - Construction Contract (APR 1985)
