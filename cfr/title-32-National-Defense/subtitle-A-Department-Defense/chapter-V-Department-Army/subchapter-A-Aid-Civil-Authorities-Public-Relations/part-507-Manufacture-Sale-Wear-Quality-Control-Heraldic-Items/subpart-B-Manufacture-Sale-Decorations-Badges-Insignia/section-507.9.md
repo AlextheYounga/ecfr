@@ -1,0 +1,7 @@
+##### § 507.9 Reproduction of designs. #####
+
+(a) The photographing or printing of any decoration, service medal, service ribbon, badge, lapel button, insignia, or other device of a design the Secretary of the Army has prescribed for members of the Army to use is authorized, provided that such reproduction does not discredit the U.S. Army and is not used to defraud or misrepresent the identification or status of an individual, organization, society, or other group of persons.
+
+(b) The making or executing in any manner of any engraving, impression, or colorable imitation in the likeness of any decoration, service medal, service ribbon, badge, lapel button, insignia, or other device of a design the Secretary of the Army has prescribed for members of the Army to use is prohibited without prior approval in writing from the Army Trademark Licensing Program.
+
+(c) Except when used to illustrate a particular article that is offered for commercial sale, Army Regulation 360-1, paragraph 8-9e, prohibits the use of Army themes, material, uniforms, or insignia in advertisements and promotions for entertainment-oriented products that could imply Army endorsement of the product. Direct requests to the Chief, Public Affairs (SAPA-ZA), 1500 Army Pentagon, Washington, DC 20310-1500.

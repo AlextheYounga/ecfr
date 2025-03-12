@@ -1,0 +1,5 @@
+##### § 507.10 Incorporation of designs or likenesses of approved designs in commercial articles. #####
+
+(a) Federal law and Army policy restrict the use of military designs. The manufacture of articles for commercial sale that incorporate designs or likenesses of decorations, service medals, service ribbons, and lapel buttons is prohibited. Certain designs or likenesses of insignia, such as badges or organizational insignia, may be incorporated in articles manufactured for commercial sale, provided that the Army Trademark Licensing Program has granted permission in writing as specified in paragraph (b) of this section.
+
+(b) The Army Trademark Licensing Program is responsible for reviewing requests for permission to incorporate certain insignia and other Army-owned marks in articles manufactured for commercial sale. Requests should be directed to the Director, Army Trademark Licensing Program, 2530 Crystal Drive, Suite 12140, Arlington, VA 22202-3934.

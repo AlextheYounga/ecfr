@@ -1,5 +1,7 @@
 ##### § 1215.108 Defining user service requirements. #####
 
+Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
+
 Potential users should become familiar with TDRSS capabilities and constraints, which are detailed in the SNUG, as early as possible. This action allows the user to evaluate the trade-offs available among various TDRSS services, spacecraft design, operations planning, and other significant mission parameters. It is recommended that potential users contact the NIMO as early as possible for assistance in performing the trade studies. When these evaluations have been completed, and the user desires to use TDRSS, the user should initiate a request for TDRSS service.
 
 (a) Initial requests for TDRSS service from non-U.S. Government users shall be addressed to SCaN at NASA Headquarters, as follows: Deputy Associate Administrator: Space Communications and Navigation Division, National Aeronautics and Space Administration, Washington, DC 20546.

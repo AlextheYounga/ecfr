@@ -1,5 +1,7 @@
 ##### § 1215.103 Services. #####
 
+Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
+
 (a) *Standard services.* These are services which TDRSS is capable of providing to low-Earth orbital user spacecraft or other terrestrial users. Data are delivered to WSC or GRGT. A detailed description of services is provided in the GSFC Space Network Users' Guide, 450-SNUG. Contact the Chief, Networks Integration Management Office, at the address in Section 1215.108(d) to obtain a copy of the SNUG.
 
 (1) Tracking service.

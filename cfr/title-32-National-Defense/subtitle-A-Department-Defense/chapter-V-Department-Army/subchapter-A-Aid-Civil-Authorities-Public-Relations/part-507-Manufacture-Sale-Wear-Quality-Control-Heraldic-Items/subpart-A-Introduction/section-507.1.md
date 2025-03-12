@@ -1,0 +1,3 @@
+##### § 507.1 Purpose. #####
+
+This part prescribes the Department of the Army policy governing the manufacture, commercial sale, reproduction, possession, and wear of military decorations, medals, badges, insignia, and their components and appurtenances. It also establishes the Heraldic Quality Control Program to improve the appearance of the Army by controlling the quality of heraldic items purchased from commercial sources.

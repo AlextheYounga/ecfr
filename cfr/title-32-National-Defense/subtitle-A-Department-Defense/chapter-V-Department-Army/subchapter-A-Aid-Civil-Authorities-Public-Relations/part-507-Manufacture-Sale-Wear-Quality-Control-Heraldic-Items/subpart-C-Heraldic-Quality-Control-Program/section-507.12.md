@@ -1,0 +1,3 @@
+##### § 507.12 General. #####
+
+The Heraldic Quality Control Program provides a method for ensuring that controlled heraldic items are manufactured by certified manufacturers in accordance with Government specifications. The design of metal insignia will be an exact duplicate of the design of the Government die or loaned hub from which the certified manufacturer's working die is extracted. The design of textile insignia will be embroidered in accordance with Government-furnished specification and cartoon.

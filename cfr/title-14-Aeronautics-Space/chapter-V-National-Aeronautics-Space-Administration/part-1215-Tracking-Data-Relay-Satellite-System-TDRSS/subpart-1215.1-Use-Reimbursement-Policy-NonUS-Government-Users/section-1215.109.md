@@ -1,5 +1,7 @@
 ##### § 1215.109 Scheduling user service. #####
 
+Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
+
 (a) User service shall be scheduled only by NASA. TDRSS services will be provided in accordance with operational priorities established by the NASA Administrator or his/her designee. See Appendix A for a description of a typical user activity timeline.
 
 (b) Schedule conflict will be resolved in general by application of principles of priority to user service requirements. Services shall be provided either as normally scheduled service or as emergency service. Priorities will be different for emergency service than for normal services.
