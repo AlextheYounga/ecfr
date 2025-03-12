@@ -1,10 +1,10 @@
 ##### 252.247-7002 Revision of prices. #####
 
-As prescribed in 247.270-4(c), use the following clause:
+As prescribed in 247.270-4(b), use the following clause:
 
 Revision of Prices (DEC 1991)
 
-(a) *Definition. Wage adjustment,* as used in this clause, means a change in the wages, salaries, or other terms or conditions of employment which -
+(a) *Definition. Wage adjustment,* as used in this clause, means a change in the wages, salaries, or other terms or conditions of employment which—
 
 (1) Substantially affects the cost of performing this contract;
 
@@ -24,7 +24,7 @@ Revision of Prices (DEC 1991)
 
 (ii) If the demand is made by the Contracting Officer, the Contractor shall furnish the statements and data within 30 days of the delivery of the demand.
 
-(d) *Submission of data.* At the times specified in paragraphs (c)(3)(i) and (ii) of this clause, the Contractor shall submit -
+(d) *Submission of data.* At the times specified in paragraphs (c)(3)(i) and (ii) of this clause, the Contractor shall submit—
 
 (1) A new estimate and breakdown of the unit cost and the proposed prices for the services the Contractor will perform under this contract after the effective date of the price revision, itemized to be consistent with the original negotiations of the contract;
 
@@ -46,7 +46,7 @@ Revision of Prices (DEC 1991)
 
 (g) *Retroactive changes in wages or working conditions.* (1) In the event of a retroactive wage adjustment, the Contractor or the Contracting Officer may request an equitable adjustment in the prices in this contract.
 
-(2) The Contractor shall request a price adjustment within 30 days of any retroactive wage adjustment. The Contractor shall support its request with -
+(2) The Contractor shall request a price adjustment within 30 days of any retroactive wage adjustment. The Contractor shall support its request with—
 
 (i) An estimate of the changes in cost resulting from the retroactive wage adjustment;
 
@@ -60,4 +60,4 @@ Revision of Prices (DEC 1991)
 
 (5) The Contractor shall notify the Contracting Officer in writing of any request by or on behalf of the employees of the Contractor which may result in a retroactive wage adjustment. The notice shall be given within 20 days after the request, or if the request occurs before contract execution, at the time of execution.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50147, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50147, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010; 84 FR 30953, June 28, 2019]

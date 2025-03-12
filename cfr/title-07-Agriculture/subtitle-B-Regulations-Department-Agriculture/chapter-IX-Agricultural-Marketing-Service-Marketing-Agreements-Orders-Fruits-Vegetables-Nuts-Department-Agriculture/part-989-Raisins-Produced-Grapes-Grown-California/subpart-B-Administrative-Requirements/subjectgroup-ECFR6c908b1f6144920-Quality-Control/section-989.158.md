@@ -1,5 +1,7 @@
 ##### § 989.158 Natural condition raisins. #####
 
+Link to an amendment published at 84 FR 30863, June 28, 2019.
+
 (a) *Incoming inspection.* (1)(i) The Committee shall, upon request of a handler who complies with the requirements of this part with respect to inspection points, designate as his inspection point any place (including his plant or receiving station) where the handler receives raisins.
 
 (ii) Each handler shall, at his expense, provide at each of his inspection points reasonably safe and adequate facilities for receiving raisins, drawing samples, and efficient inspection of natural condition raisins. At the time of inspection of any lot, the handler shall, at his expense, provide the inspector with any assistance necessary in the inspection of the raisins, including the movement of individual containers. Each handler, other than a processor, shall maintain with the Committee a current written description, defining the boundaries and other pertinent details, of each of his inspection points. In the event the Committee determines that any inspection point, or any modification thereof, does not comply with the definition or the requirements of this part, it shall notify the handler of the changes necessary for compliance. The handler shall make such changes promptly. In the event any of his inspection points is the same as that of another handler or person receiving raisins or grapes in any form, the handler shall maintain his raisins separate and apart from any other raisins.

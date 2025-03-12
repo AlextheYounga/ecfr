@@ -6,7 +6,7 @@
 
 (c) Applications are valid for 12 months from the date that the Coast Guard approves the application.
 
-(d) The application may be submitted in person, by mail, fax, or other electronic means. A complete MMC application, which is described in §§ 10.225, 10.227, 10.229, and 10.231 may include -
+(d) The application may be submitted in person, by mail, fax, or other electronic means. A complete MMC application, which is described in §§ 10.223, 10.225, 10.227, 10.229, and 10.231 may include—
 
 (1) The application, consent for National Driver Register (NDR) check, and notarized oath on Coast Guard-furnished forms, and the evaluation fee required by § 10.219 of this part;
 
@@ -36,8 +36,8 @@
 
 (g) When a new MMC is issued, the mariner must return any previously issued and unexpired MMC, license, MMD, COR, or STCW endorsement to the Coast Guard, unless the new MMC is being issued to replace a lost or stolen credential.
 
-(h) No MMC will be issued if the applicant fails a chemical test for dangerous drugs as required in §§ 10.225(b)(5), 10.227(d)(5), and 10.231(c)(6).
+(h) No MMC will be issued if the applicant fails a chemical test for dangerous drugs as required in §§ 10.223, 10.225(b)(5), 10.227(d)(5), and 10.231(c)(6).
 
 (i) *Ceremonial licenses.* A mariner may obtain a ceremonial license when applying for his or her credential or Document of Continuity.
 
-[USCG-2004-17914, 78 FR 77888, Dec. 24, 2013]
+[USCG-2004-17914, 78 FR 77888, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]

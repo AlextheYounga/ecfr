@@ -1,6 +1,6 @@
 ##### § 11.1105 General requirements for officer endorsements. #####
 
-(a) To serve on a passenger vessel on international voyages, masters, deck officers, chief engineers and engineer officers, must -
+(a) To serve on a passenger vessel on international voyages, masters, deck officers, chief engineers and engineer officers, must—
 
 (1) Meet the appropriate requirements of the STCW Regulation V/2 and of section A-V/2 of the STCW Code (incorporated by reference, see § 11.102 of this part) as follows:
 
@@ -18,4 +18,6 @@
 
 (c) The Coast Guard will accept onboard training and experience, through evidence of 1 year of sea service within the last 5 years, as meeting the requirements of paragraph (b) of this section.
 
-(d) Personnel serving onboard small passenger vessels engaged in domestic, near-coastal voyages, as defined in § 11.301(h) of this subchapter, are not subject to any obligation for the purpose of this STCW requirement.
+(d) Personnel serving onboard small passenger vessels engaged in domestic, near-coastal voyages, as defined in § 10.107 of this subchapter, are not subject to any obligation for the purpose of this STCW requirement.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019]

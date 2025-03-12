@@ -1,6 +1,6 @@
 ##### § 89.5 Application for a Certificate of Alternative Compliance. #####
 
-(a) The owner, builder, operator, or agent of a vessel of special construction or purpose who believes the vessel cannot fully comply with the Inland Rules light, shape, or sound signal provisions without interference with its special function may apply for a determination that alternative compliance is justified. The application must be in writing, submitted to the Chief of the Marine Safety Division of the Coast Guard District in which the vessel is being built or operated, and include the following information:
+(a) The owner, builder, operator, or agent of a vessel of special construction or purpose who believes the vessel cannot fully comply with the Inland Rules light, shape, or sound signal provisions without interference with its special function may apply for a determination that alternative compliance is justified. The application must be in writing, submitted to the Chief of the Prevention Division of the Coast Guard District in which the vessel is being built or operated, and include the following information:
 
 (1) The name, address, and telephone number of the applicant.
 
@@ -42,4 +42,4 @@
 
 (b) The Coast Guard may request from the applicant additional information concerning the application.
 
-[CGD 80-157, 47 FR 13801, Apr. 1, 1982; 47 FR 18332, Apr. 29, 1982]
+[CGD 80-157, 47 FR 13801, Apr. 1, 1982; 47 FR 18332, Apr. 29, 1982; USCG-2018-0874, 84 FR 30878, June 28, 2019]

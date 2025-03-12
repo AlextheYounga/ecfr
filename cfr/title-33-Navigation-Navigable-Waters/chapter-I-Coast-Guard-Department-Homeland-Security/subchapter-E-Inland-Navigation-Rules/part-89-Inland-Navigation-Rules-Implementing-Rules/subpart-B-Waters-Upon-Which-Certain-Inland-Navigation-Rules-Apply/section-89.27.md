@@ -1,8 +1,8 @@
-##### § 89.27 Waters upon which Inland Rule 24(i) applies. #####
+##### § 89.27 Waters upon which Inland Rule 24(j) applies. #####
 
-(a) Inland Rule 24(i) applies on the Western Rivers and the specified waters listed in § 89.25 (a) through (i).
+(a) Inland Rule 24(j) applies on the Western Rivers and the specified waters listed in § 89.25 (a) through (i).
 
-(b) Inland Rule 24(i) applies on the Gulf Intracoastal Waterway from St. Marks, Florida, to the Rio Grande, Texas, including the Morgan City-Port Allen Alternate Route and the Galveston-Freeport Cutoff, except that a power-driven vessel pushing ahead or towing alongside shall exhibit the lights required by Inland Rule 24(c), while transiting within the following areas:
+(b) Inland Rule 24(j) applies on the Gulf Intracoastal Waterway from St. Marks, Florida, to the Rio Grande, Texas, including the Morgan City-Port Allen Alternate Route and the Galveston-Freeport Cutoff, except that a power-driven vessel pushing ahead or towing alongside shall exhibit the lights required by Inland Rule 24(c), while transiting within the following areas:
 
 (1) St. Andrews Bay from the Hathaway Fixed Bridge at Mile 284.6 East of Harvey Locks (EHL) to the DuPont Fixed Bridge at Mile 295.4 EHL.
 
@@ -28,4 +28,4 @@
 
 (12) Port Isabel and Brownsville Ship Channel south of the Padre Island Causeway Fixed Bridge at Mile 665.1 WHL.
 
-[CGD 91-050, 58 FR 27625, May 10, 1993]
+[CGD 91-050, 58 FR 27625, May 10, 1993, as amended by USCG-2018-0874, 84 FR 30878, June 28, 2019]

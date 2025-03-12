@@ -12,13 +12,13 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 *Captain of the Port (COTP) Zone* means a zone specified in 33 CFR part 3 and, for coastal ports, the seaward extension of that zone to the outer boundary of the exclusive economic zone (EEZ).
 
-*Cargo* means oil that is transported to and off-loaded at a destination by a vessel. It does not include -
+*Cargo* means oil that is transported to and off-loaded at a destination by a vessel. It does not include—
 
 (1) Oil carried in integral tanks, marine portable tanks, or independent tanks for use by machinery, helicopters, and boats carried aboard the vessel, or for use by helicopters that are directly supporting the vessel's primary operations; or
 
 (2) Oil transferred from a towing vessel to a vessel in its tow to operate installed machinery other than the propulsion plant.
 
-*Contract or other approved means* includes -
+*Contract or other approved means* includes—
 
 (1) A written contractual agreement between a vessel owner or operator and an oil spill removal organization. The agreement must identify and ensure the availability of specified personnel and equipment required under this subpart within stipulated response times in the specified geographic areas;
 
@@ -26,7 +26,7 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 (3) Active membership in a local or regional oil spill removal organization that has identified specified personnel and equipment required under this subpart that are available to respond to a discharge within stipulated response times in the specified geographic areas;
 
-(4) A document which -
+(4) A document which—
 
 (i) Identifies the personnel, equipment, and services capable of being provided by the oil spill removal organization within stipulated response times in the specified geographic areas;
 
@@ -36,7 +36,7 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 (iv) Is referenced in the response plan; or
 
-(5) With the written consent of the oil spill removal organization, the identification of an oil spill removal organization with specified equipment and personnel which are available within stipulated response times in the specified geographic areas. This paragraph is an other approved means for only -
+(5) With the written consent of the oil spill removal organization, the identification of an oil spill removal organization with specified equipment and personnel which are available within stipulated response times in the specified geographic areas. This paragraph is an other approved means for only—
 
 (i) A vessel carrying oil as secondary cargo to meet the requirements under § 155.1045(i)(3);
 
@@ -50,9 +50,9 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 *Dispersant-application platform* means the vessel or aircraft outfitted with the dispersant-application equipment acting as the delivery system for the dispersant onto the oil spill.
 
-*Dispersant Mission Planner 2 (DMP2)* means an Internet-downloadable application that estimates EDAC for different dispersant response systems. The NSFCC will use DPMP2 for evaluating OSRO dispersant classification levels.
-
 *Effective daily application capacity* or *EDAC* means the estimated amount of dispersant that can be applied to a discharge by an application system, given the availability of supporting dispersant stockpiles, when operated in accordance with approved standards and within acceptable environmental conditions.
+
+*Estimated Dispersant System Potential Calculator (EDSP)* means an internet-accessible application that estimates EDAC for different dispersant response systems. The NSFCC will use EDSP for evaluating OSRO dispersant classification levels.
 
 *Exclusive economic zone* means the zone contiguous to the territorial sea of United States extending to a distance up to 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.
 
@@ -112,7 +112,7 @@ The western boundary of the Strait of Juan de Fuca higher volume port area in th
 
 *Maximum extent practicable* means the planned capability to respond to a worst case discharge in adverse weather, as contained in a response plan that meets the criteria in this subpart or in a specific plan approved by the Coast Guard.
 
-*Maximum most probable discharge* means a discharge of -
+*Maximum most probable discharge* means a discharge of—
 
 (1) 2,500 barrels of oil for vessels with an oil cargo capacity equal to or greater than 25,000 barrels; or
 
@@ -120,7 +120,7 @@ The western boundary of the Strait of Juan de Fuca higher volume port area in th
 
 *Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, a nearshore area is one extending seaward 12 miles from the line of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter.
 
-*Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions -
+*Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions—
 
 (1) At least 50% of which by volume, distill at a temperature of 340 degrees C (645 degrees F); and
 
@@ -154,13 +154,13 @@ The western boundary of the Strait of Juan de Fuca higher volume port area in th
 
 *Persistent oil* means a petroleum-based oil that does not meet the distillation criteria for a non-persistent oil. For the purposes of this subpart, persistent oils are further classified based on specific gravity as follows:
 
-(1) Group II - specific gravity of less than .85.
+(1) Group II—specific gravity of less than .85.
 
-(2) Group III - specific gravity equal to or greater than .85 and less than .95.
+(2) Group III—specific gravity equal to or greater than .85 and less than .95.
 
-(3) Group IV - specific gravity equal to or greater than .95 and less than or equal to 1.0.
+(3) Group IV—specific gravity equal to or greater than .95 and less than or equal to 1.0.
 
-(4) Group V - specific gravity greater than 1.0.
+(4) Group V—specific gravity greater than 1.0.
 
 *Petroleum oil* means petroleum in any form, including but not limited to, crude oil, fuel oil, sludge, oil residue, and refined products.
 
@@ -204,4 +204,4 @@ The western boundary of the Strait of Juan de Fuca higher volume port area in th
 
 *Worst case discharge* means a discharge in adverse weather conditions of a vessel's entire oil cargo.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45026, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2011-0576, 83 FR 26220, June 6, 2018]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2000-7641, 66 FR 55572, Nov. 2, 2001; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45026, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2011-0576, 83 FR 26220, June 6, 2018; USCG-2018-0874, 84 FR 30880, June 28, 2019]

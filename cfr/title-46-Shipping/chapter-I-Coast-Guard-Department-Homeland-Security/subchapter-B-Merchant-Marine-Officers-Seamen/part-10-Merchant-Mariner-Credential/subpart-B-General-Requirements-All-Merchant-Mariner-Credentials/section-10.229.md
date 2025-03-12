@@ -2,7 +2,7 @@
 
 (a) Upon request and without examination, a mariner may be issued a duplicate credential and medical certificate after submitting an application with an affidavit describing the circumstances of the loss. The Coast Guard will only issue the duplicate credential, MMC and/or medical certificate, after confirming the validity of the mariner's credentials and the validity of the mariner's TWIC.
 
-(b) The duplicate credential will have the same authority, wording, and expiration date as the lost credential. The duplicate issued will be in the form of an MMC. Until April 15, 2014, if a mariner seeks a duplicate of more than one credential, the MMC issued will reflect endorsements for all credentials lost, and the expiration date will match the earliest expiration date of the credentials lost.
+(b) The duplicate credential will have the same authority, wording, and expiration date as the lost credential.
 
 (c) If a person loses a credential by shipwreck or other casualty, a duplicate credential will be issued free of charge. The term “other casualty” includes any damage to a ship caused by collision, explosion, tornado, wreck, flooding, beaching, grounding, or fire; or personal loss associated with a federally declared natural disaster.
 
@@ -12,4 +12,4 @@
 
 (f) Applications for duplicate credentials will not be subject to a criminal record review.
 
-[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77894, Dec. 24, 2013]
+[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77894, Dec. 24, 2013; USCG-2018-0874, 84 FR 30881, June 28, 2019]

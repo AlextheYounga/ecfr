@@ -4,11 +4,11 @@
 
 (b) The QSS must be monitored by the Coast Guard or monitored through a third party that is designated as a Coast Guard-accepted QSS organization.
 
-(c) The Coast Guard-monitored QSS must -
+(c) The Coast Guard-monitored QSS must—
 
 (1) Have a documented quality policy and quality objectives that align with the commitment by the training institution to achieve its missions and goals;
 
-(2) Maintain a manual that documents the objectives, authorities, and responsibilities that are essential controls for the implementation of the QSS, including -
+(2) Maintain a manual that documents the objectives, authorities, and responsibilities that are essential controls for the implementation of the QSS, including—
 
 (i) The core procedures required to meet the missions and goals of the institution;
 
@@ -24,8 +24,8 @@
 
 (e) The Coast Guard will accept documentation from a training institution certified under a national or international Quality Management System Standard as meeting one or more of the requirements listed in paragraph (c) of this section. The documentation must be readily available for inspection upon request.
 
-(f) Coast Guard-approved courses, programs, and training creditable towards an STCW endorsement must meet the requirements of this section by January 1, 2017.
+(f) The Coast Guard will accept company ISM documentation as meeting one or more of the requirements listed in paragraph (c) of this section.
 
-(g) The Coast Guard will accept company ISM documentation as meeting one or more of the requirements listed in paragraph (c) of this section.
+(g) Organizations are subject to audits at least twice in a 5-year period. Organizations must cooperate with Coast Guard audits.
 
-(h) Organizations are subject to audits at least twice in a 5-year period. Organizations must cooperate with Coast Guard audits.
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]

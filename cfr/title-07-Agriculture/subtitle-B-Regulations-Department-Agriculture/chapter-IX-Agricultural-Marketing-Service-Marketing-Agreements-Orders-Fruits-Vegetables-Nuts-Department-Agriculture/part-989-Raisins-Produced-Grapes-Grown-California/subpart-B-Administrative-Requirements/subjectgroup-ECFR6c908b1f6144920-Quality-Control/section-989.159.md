@@ -1,5 +1,7 @@
 ##### § 989.159 Regulation of the handling of raisins subsequent to their acquisition. #####
 
+Link to an amendment published at 84 FR 30863, June 28, 2019.
+
 (a) *Inspection facilities.* At each of the premises where packed raisins are to be inspected each handler shall, at his expense provide reasonably safe and adequate space and other facilities necessary for the proper and efficient inspection of such raisins.
 
 (b) *Identification of inspected raisins.* (1) Each handler shall mark each shipping container with legible code or other identification, satisfactory to the Committee and the inspection service which shall indicate (i) with respect to packed raisins, the date that the raisins in such shipping containers were packed, and (ii) with respect to shipments of natural condition raisins, the date on which such raisins were inspected.

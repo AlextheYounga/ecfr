@@ -4,7 +4,7 @@
 
 (1) The criteria in Table 1 of appendix C of this part are to be used solely for identification of appropriate equipment in a response plan. These criteria reflect conditions used for planning purposes to select mechanical response equipment and are not conditions that would limit response actions or affect normal facility operations.
 
-(2) The response resources must be evaluated considering limitations for the COTP zones in which the facility operates, including but not limited to -
+(2) The response resources must be evaluated considering limitations for the COTP zones in which the facility operates, including but not limited to—
 
 (i) Ice conditions;
 
@@ -16,13 +16,13 @@
 
 (v) Other appropriate environmental conditions as determined by the COTP.
 
-(3) The COTP may reclassify a specific body of water or location within the COTP zone. Any reclassifications will be identified by the COTP in the applicable ACP. Reclassifications may be to -
+(3) The COTP may reclassify a specific body of water or location within the COTP zone. Any reclassifications will be identified by the COTP in the applicable ACP. Reclassifications may be to—
 
 (i) A more stringent operating environment if the prevailing wave conditions exceed the significant wave height criteria during more than 35 percent of the year; or
 
 (ii) A less stringent operating environment if the prevailing wave conditions do not exceed the significant wave height criteria for the less stringent operating environment during more than 35 percent of the year.
 
-(b) Response equipment must -
+(b) Response equipment must—
 
 (1) Meet or exceed the operating criteria listed in Table 1 of appendix C of this part;
 
@@ -30,7 +30,7 @@
 
 (3) Be appropriate for the petroleum oil carried.
 
-(c) The response plan for a facility that handles, stores, or transports Group I through Group IV petroleum oils must identify response resources that are available, by contract or other approved means as described in § 154.1028(a)(1)(4), to respond to the facility's average most probable discharge. The response resources must include, at a minimum -
+(c) The response plan for a facility that handles, stores, or transports Group I through Group IV petroleum oils must identify response resources that are available, by contract or other approved means as described in § 154.1028(a)(1)(4), to respond to the facility's average most probable discharge. The response resources must include, at a minimum—
 
 (1) 1,000 feet of containment boom or two times the length of the largest vessel that regularly conducts petroleum oil transfers to or from the facility, whichever is greater, and the means of deploying and anchoring the boom available at the spill site within 1 hour of the detection of a spill; and
 
@@ -56,7 +56,7 @@
 
 (1) The location of these response resources must be suitable to meet the response times identified in paragraph (f) of this section for the applicable geographic area(s) of operation and response tier.
 
-(2) The response resources must be appropriate for -
+(2) The response resources must be appropriate for—
 
 (i) The volume of the facility's worst case discharge;
 
@@ -70,13 +70,13 @@
 
 (5) When determining response resources necessary to meet the requirements of this section, a portion of those resources must be capable of use in close-to-shore response activities in shallow water. The following percentages of the response equipment identified for the applicable geographic area must be capable of operating in waters of 6 feet or less depth.
 
-(i) Offshore - 10 percent.
+(i) Offshore—10 percent.
 
-(ii) Nearshore/inland/Great Lakes/rivers and canals - 20 percent.
+(ii) Nearshore/inland/Great Lakes/rivers and canals—20 percent.
 
 (6) The COTP may determine that mobilizing response resources to an area beyond the response times indicated in this paragraph invalidates the response plan. In this event, the COTP may impose additional operational restrictions (e.g., limitations on the number of transfers at a facility), or, at the COTP's discretion, the facility may be permitted to operate with temporarily modified response plan development and evaluation criteria (e.g., modified response times, alternate response resources, etc.).
 
-(f) Response equipment identified in a response plan for a facility that handles, stores, or transports Group I through Group IV petroleum oils must be capable of arriving on scene within the times specified in this paragraph for the applicable response tier in a higher volume port area, Great Lakes, and in other areas. Response times for these tiers from the time of discovery of a discharge are -
+(f) Response equipment identified in a response plan for a facility that handles, stores, or transports Group I through Group IV petroleum oils must be capable of arriving on scene within the times specified in this paragraph for the applicable response tier in a higher volume port area, Great Lakes, and in other areas. Response times for these tiers from the time of discovery of a discharge are—
 
 |                                                                                                     |Tier 1 (hrs.)|Tier 2 (hrs.)|Tier 3 (hrs.)|
 |-----------------------------------------------------------------------------------------------------|-------------|-------------|-------------|
@@ -84,7 +84,7 @@
 |                                             Great Lakes                                             |     12      |     36      |     60      |
 |                  All other river and canal, inland, nearshore, and offshore areas                   |     12      |     36      |     60      |
 
-(g) For the purposes of arranging for response resources for a facility that handles, stores, or transports Group I through Group IV petroleum oils, by contract or other approved means as described in § 154.1028(a)(1)-(4), response equipment identified for Tier 1 plan credit must be capable of being mobilized and en route to the scene of a discharge within 2 hours of notification. The notification procedures identified in the plan must provide for notification and authorization of mobilization of identified Tier 1 response resources -
+(g) For the purposes of arranging for response resources for a facility that handles, stores, or transports Group I through Group IV petroleum oils, by contract or other approved means as described in § 154.1028(a)(1)-(4), response equipment identified for Tier 1 plan credit must be capable of being mobilized and en route to the scene of a discharge within 2 hours of notification. The notification procedures identified in the plan must provide for notification and authorization of mobilization of identified Tier 1 response resources—
 
 (1) Either directly or through the qualified individual; and
 
@@ -100,15 +100,13 @@
 
 (i) Sufficient volumes of dispersants for application as required by paragraph (i)(3) of this section. Any dispersants identified in a response plan must be of a type listed on the National Oil and Hazardous Substances Pollution Contingency Plan Product Schedule (which is contained in 40 CFR part 300, and available online from the U.S. Government Printing Office).
 
-(ii) Dispersant-application platforms capable of delivering and applying the dispersant on a discharge in the amounts as required by paragraph (i)(3) of this section. At least 50 percent of each EDAC tier requirement must be achieved through the use of fixed-wing, aircraft-based application platforms. For dispersant-application platforms not detailed within the DMP2, adequacy of performance criteria must be documented by presentation of independent evaluation materials (e.g., field tests and reports of actual use) that record the performance of the platform.
+(ii) Dispersant-application platforms capable of delivering and applying the dispersant on a discharge in the amounts as required by paragraph (i)(3) of this section. At least 50 percent of each EDAC tier requirement must be achieved through the use of fixed-wing, aircraft-based application platforms. For dispersant-application platforms not detailed within the EDSP, adequacy of performance criteria must be documented by presentation of independent evaluation materials (e.g., field tests and reports of actual use) that record the performance of the platform.
 
 (iii) Dispersant-application systems that are consistent in design with, and are capable of applying dispersants within, the performance criteria in ASTM F1413-07 (incorporated by reference, *see* § 154.106). For dispersant-application systems not fully covered by ASTM F1413-07, such as fire monitor-type applicators, adequacy of performance criteria must be documented by presentation of independent evaluation materials (e.g., laboratory tests, field tests, and reports of actual use) that record the design of performance specifications.
 
 (iv) Dispersant-application personnel trained in and capable of applying dispersants according to the recommended procedures contained within ASTM F1737-07 (incorporated by reference, *see* § 154.106).
 
 (3) Dispersant stockpiles, application platforms, and other supporting resources must be available in a quantity and type sufficient to treat a facility's worst-case discharge (as determined by using the criteria in appendix C, section 8) or in quantities sufficient to meet the requirements in Table 154.1045(i) of this section, whichever is the lesser amount.
-
-Table 154.1045(i) - Tiers for Effective Daily Application Capability
 
 |      |Response time for  <br/>completed  <br/>application  <br/>(hours)|Dispersant  <br/>application  <br/>dispersant: oil treated in gallons  <br/>(Gulf Coast)|Dispersant application  <br/>dispersant: oil treated in gallons  <br/>all other U.S.|
 |------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -167,4 +165,4 @@ Gulf Coast Tier 1 is higher due to greater potential spill size and frequency in
 
 (5) Increases in the availability of private response resources.
 
-[CGD 91-036, 61 FR 7917, Feb. 29, 1996, as amended by USCG-2001-8661, 74 FR 45024, Aug. 31, 2009; USCG-2014-0410, 79 FR 38436, July 7, 2014]
+[CGD 91-036, 61 FR 7917, Feb. 29, 1996, as amended by USCG-2001-8661, 74 FR 45024, Aug. 31, 2009; USCG-2014-0410, 79 FR 38436, July 7, 2014; USCG-2018-0874, 84 FR 30880, June 28, 2019]

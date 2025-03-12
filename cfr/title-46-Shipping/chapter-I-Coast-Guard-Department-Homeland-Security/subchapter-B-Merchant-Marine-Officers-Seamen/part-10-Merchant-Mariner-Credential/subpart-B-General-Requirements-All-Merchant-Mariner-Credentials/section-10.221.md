@@ -10,7 +10,7 @@
 
 (iii) A foreign national who is enrolled in the United States Merchant Marine Academy (USMMA).
 
-(b) Beginning April 15, 2009, proof of citizenship or alien status must be submitted to the Transportation Security Administration (TSA) with the applicant's TWIC application in accordance with 49 CFR 1572.17(a)(11). Until April 15, 2009, proof of citizenship or alien status must be submitted by appearing at a Regional Exam Center.
+(b) Proof of citizenship or alien status must be submitted to the Transportation Security Administration (TSA) with the applicant's TWIC application in accordance with 49 CFR 1572.17(a)(11).
 
 (c) TSA and the Coast Guard may reject any evidence of citizenship that is not believed to be authentic. Acceptable evidence of citizenship may be an original or a copy certified as true by the agency responsible for issuing the document of the following:
 
@@ -38,4 +38,4 @@
 
 (4) If the individual is applying for an MMC endorsed only as OUPV of an undocumented vessel, the individual must provide an original of any one of the documents enumerated in paragraphs (c)(1)(i) through (v) or (c)(2)(i) or (ii) of this section, or proof of acceptable alien status as provided in 49 CFR 1572.105.
 
-[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013]
+[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013; USCG-2018-0874, 84 FR 30881, June 28, 2019]

@@ -22,8 +22,6 @@
 
 (2) *Empty/refill exchange* means to pump out the ballast water taken on in ports, estuarine, or territorial waters until the pump(s) lose suction, then refilling the ballast tank(s) with mid-ocean water.
 
-*International Maritime Organization (IMO) ballast water management guidelines* mean the Guidelines for the Control and Management of Ships' Ballast Water to Minimize the Transfer of Harmful Aquatic Organisms and Pathogens (IMO Resolution A.868 (20), adopted November 1997).
-
 *National Ballast Information Clearinghouse (NBIC)* means the National Ballast Information Clearinghouse operated by the Coast Guard and the Smithsonian Environmental Research Center as mandated under the National Invasive Species Act of 1996.
 
 *Port or place of departure* means any port or place in which a vessel is anchored or moored.
@@ -32,10 +30,10 @@
 
 *Seagoing vessel* means a vessel in commercial service that operates beyond the boundary line established by 46 CFR part 7. It does not include a vessel that navigates exclusively on inland waters.
 
-*Shipboard Technology Evaluation Program (STEP)* means a Coast Guard research program intended to facilitate research, development, and shipboard testing of effective BWMS. STEP requirements are located at: *http://www.uscg.mil/environmental\_standards/.*
+*Shipboard Technology Evaluation Program (STEP)* means a Coast Guard research program intended to facilitate research, development, and shipboard testing of effective BWMS. STEP requirements are located at:*http://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Commercial-Regulations-standards-CG-5PS/office-oes/.*
 
 *United States* means the States, the District of Columbia, Guam, American Samoa, the Virgin Islands, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession over which the United States exercises sovereignty.
 
 *Voyage* means any transit by a vessel destined for any United States port or place.
 
-[USCH-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended at 77 FR 33970, June 8, 2012; 80 FR 5330, Jan. 30, 2015]
+[USCH-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended at 77 FR 33970, June 8, 2012; 80 FR 5330, Jan. 30, 2015; USCG-2018-0874, 84 FR 30829, June 28, 2019]

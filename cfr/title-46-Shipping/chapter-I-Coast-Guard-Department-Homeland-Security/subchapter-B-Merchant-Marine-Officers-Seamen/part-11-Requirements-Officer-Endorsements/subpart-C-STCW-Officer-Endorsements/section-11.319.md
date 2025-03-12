@@ -1,6 +1,6 @@
 ##### § 11.319 Requirements to qualify for an STCW endorsement as Officer in Charge of a Navigational Watch (OICNW) of vessels of less than 500 GT (operational level). #####
 
-(a) To qualify for an STCW endorsement as OICNW, an applicant must -
+(a) To qualify for an STCW endorsement as OICNW, an applicant must—
 
 (1) Provide evidence of seagoing service as follows:
 
@@ -40,23 +40,18 @@
 
 (2) Completion of approved training in ECDIS, if serving on a vessel with this equipment.
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/3 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/1 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the credential may include a corresponding limitation.
 
 (d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
 
-Table 1 to § 11.319(d) - STCW Endorsement as Officer in Charge of a Navigational Watch (OICNW) of Vessels of Less Than 500 GT.
+|                                                   Entry path from national endorsements                                                    |Sea service under authority of the endorsement <sup>1</sup>|Competence—STCW  <br/>Table A-II/1 <sup>2</sup>|Training required by this  <br/>section <sup>3</sup>|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------|----------------------------------------------------|
+|                                               Mate oceans or near-coastal, less than 500 GRT                                               |                           None                            |                      Yes                      |                        Yes.                        |
+|                                                 Mate towing vessel oceans or near-coastal                                                  |                           None                            |                      Yes                      |                        Yes.                        |
+|                                              Master oceans or near-coastal, less than 200 GRT                                              |                         6 months                          |                      Yes                      |                        Yes.                        |
+|                                               Mate oceans or near-coastal, less than 200 GRT                                               |                         12 months                         |                      Yes                      |                        Yes.                        |
+|<sup>1</sup> This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.|                                                           |                                               |                                                    |
+|                       <sup>2</sup> Complete any items in paragraph (a)(3) of this section not previously satisfied.                        |                                                           |                                               |                                                    |
+|                       <sup>3</sup> Complete any items in paragraph (a)(4) of this section not previously satisfied.                        |                                                           |                                               |                                                    |
 
-|     Entry path from national endorsements      |Sea service under authority of the endorsement<sup>1</sup>|Competence - STCW  <br/>Table A-II/3<sup>2</sup>|Training required by this  <br/>section<sup>3</sup>|
-|------------------------------------------------|----------------------------------------------------------|------------------------------------------------|---------------------------------------------------|
-| Mate oceans or near-coastal, less than 500 GRT |                           None                           |                      Yes                       |                       Yes.                        |
-|   Mate towing vessel oceans or near-coastal    |                           None                           |                      Yes                       |                       Yes.                        |
-|Master oceans or near-coastal, less than 200 GRT|                         6 months                         |                      Yes                       |                       Yes.                        |
-| Mate oceans or near-coastal, less than 200 GRT |                        12 months                         |                      Yes                       |                       Yes.                        |
-
-<sup>1</sup> This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.
-
-<sup>2</sup> Complete any items in paragraph (a)(2) of this section not previously satisfied.
-
-<sup>3</sup> Complete any items in paragraph (a)(3) of this section not previously satisfied.
-
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]

@@ -1,6 +1,6 @@
 ##### § 402.4 Catastrophic Risk Protection Endorsement Provisions. #####
 
-Department of AgricultureFederal Crop Insurance CorporationCatastrophic Risk Protection Endorsement(This is a continuous endorsement)
+Link to an amendment published at 84 FR 30861, June 28, 2019.Department of AgricultureFederal Crop Insurance CorporationCatastrophic Risk Protection Endorsement(This is a continuous endorsement)
 
 If a conflict exists among the policy, the order of priority is: (1) This Endorsement; (2) Special Provisions; (3) actuarial documents; (4) the Commodity Exchange Price Provisions, if applicable; and (5) any of the policies specified in section 2, with (1) controlling (2), etc.
 

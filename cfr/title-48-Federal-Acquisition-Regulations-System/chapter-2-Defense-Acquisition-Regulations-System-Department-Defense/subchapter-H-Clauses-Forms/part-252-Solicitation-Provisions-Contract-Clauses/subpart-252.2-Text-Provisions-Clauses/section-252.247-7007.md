@@ -1,10 +1,10 @@
 ##### 252.247-7007 Liability and insurance. #####
 
-As prescribed in 247.270-4(d), use the following clause:
+As prescribed in 247.270-4(c), use the following clause:
 
 Liability and Insurance (DEC 1991)
 
-(a) The Contractor shall be -
+(a) The Contractor shall be—
 
 (1) Liable to the Government for loss or damage to property, real and personal, owned by the Government or for which the Government is liable;
 
@@ -18,7 +18,7 @@ Liability and Insurance (DEC 1991)
 
 (2) Determination of liability and responsibility by the Contracting Officer will constitute questions of fact within the meaning of the Disputes clause of this contract.
 
-(c) The general liability and responsibility of the Contractor under this clause are subject only to the following specific limitations. The Contractor is not responsible to the Government for, and does not agree to hold the Government harmless from, loss or damage to property or bodily injury to or death of persons if -
+(c) The general liability and responsibility of the Contractor under this clause are subject only to the following specific limitations. The Contractor is not responsible to the Government for, and does not agree to hold the Government harmless from, loss or damage to property or bodily injury to or death of persons if—
 
 (1) The unseaworthiness of the vessel, or failure or defect of the gear or equipment furnished by the Government, contributed jointly with the fault or negligence of the Contractor in causing such damage, injury, or death; and
 
@@ -28,7 +28,7 @@ Liability and Insurance (DEC 1991)
 
 (2) The damage, injury, or death resulted solely from an act or omission of the Government or its employees, or resulted solely from proper compliance by officers, agents, or employees of the Contractor with specific directions of the Contracting Officer.
 
-(d) The Contractor shall at its own expense acquire and maintain insurance during the term of this contract, as follows -
+(d) The Contractor shall at its own expense acquire and maintain insurance during the term of this contract, as follows—
 
 (1) Standard workmen's compensation and employer's liability insurance and longshoremen's and harbor workers' compensation insurance, or such of these as may be proper under applicable state or Federal statutes.
 
@@ -48,7 +48,7 @@ Liability and Insurance (DEC 1991)
 
 (h) It is expressly agreed that the provisions in paragraphs (d) through (g) of this clause shall not in any manner limit the liability or extend the liability of the Contractor as provided in paragraphs (a) through (c) of this clause.
 
-(i) The Contractor shall -
+(i) The Contractor shall—
 
 (1) Equitably reimburse the Government if the Contractor is indemnified, reimbursed, or relieved of any loss or damage to Government property;
 
@@ -56,4 +56,4 @@ Liability and Insurance (DEC 1991)
 
 (3) Furnish the Government, upon the request of the Contracting Officer, at the Government's expense, all reasonable assistance and cooperation in obtaining recovery, including the prosecution of suit and the execution of instruments of assignment in favor of the Government.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50148, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010; 83 FR 42789, Aug. 24, 2018; 83 FR 49180, 49182, Sept. 28, 2018]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 65 FR 50148, Aug. 17, 2000; 75 FR 51418, Aug. 20, 2010; 83 FR 42789, Aug. 24, 2018; 83 FR 49180, 49182, Sept. 28, 2018; 84 FR 30953, June 28, 2019]

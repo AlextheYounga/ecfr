@@ -24,7 +24,7 @@
 
 (f) Additional signals for fishing vessels fishing in close proximity:
 
-(i) The lights mentioned herein shall be placed where they can best be seen. They shall be at least 0.9 meters apart but at a lower level than lights prescribed in this Rule. The lights shall be visible all around the horizon at a distance of at least 1 mile but at a lesser distance from the lights prescribed by paragraphs (a) through (c) of this Rule for fishing vessels.
+(i) The lights mentioned herein shall be placed where they can best be seen. They shall be at least 0.9 meters apart but at a lower level than lights prescribed in this Rule. The lights shall be visible all round the horizon at a distance of at least 1 mile but at a lesser distance from the lights prescribed by paragraphs (a) through (c) of this Rule for fishing vessels.
 
 (ii) *Signals for trawlers.*
 
@@ -40,10 +40,12 @@
 
 (A) By night, a searchlight directed forward and in the direction of the other vessel of the pair;
 
-(B) When shooting or hauling their nets or when their nets have come fast upon an obstruction, the lights prescribed in paragraph (a) of this Rule.
+(B) When shooting or hauling their nets or when their nets have come fast upon an obstruction, the lights prescribed in paragraph (f)(ii)(1) of this Rule.
 
 (iii) *Signals for purse seiners.*
 
 (1) Vessels engaged in fishing with purse seine gear may exhibit two yellow lights in a vertical line. These lights shall flash alternately every second and with equal light and occultation duration. These lights may be exhibited only when the vessel is hampered by its fishing gear.
 
 (2) [Reserved]
+
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2018-0874, 84 FR 30878, June 28, 2019]

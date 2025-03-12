@@ -8,7 +8,7 @@ Link to an amendment published at 84 FR 26592, June 7, 2019.
 
 (1) Radar observer (unlimited).
 
-(2) Radar observer (inland waters and Gulf Intercoastal waterways (GIWW)).
+(2) Radar observer (inland waters and Gulf Intracoastal waterways (GIWW)).
 
 (3) Radar observer (rivers).
 
@@ -23,3 +23,5 @@ Link to an amendment published at 84 FR 26592, June 7, 2019.
 (g) An applicant for renewal of a license or MMC that does not need a radar observer endorsement may renew without meeting the requirements for the endorsement. However, a radar endorsement will not be placed on the MMC unless the mariner submits a course completion certificate or a copy of the certificate from an approved radar course.
 
 (h) An applicant seeking to raise the grade of a license or MMC endorsement or increase its scope, where the increased grade or scope requires a radar observer certificate, may use an expired certificate to fulfill that requirement. However, a radar endorsement will not be placed on the MMC unless the mariner submits a course completion certificate or a copy of the certificate from an approved radar course.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019]

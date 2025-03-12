@@ -4,13 +4,13 @@
 
 (b) *First aid and cardiopulmonary resuscitation (CPR) course certification.* Certification in first aid and CPR must be as described in this paragraph.
 
-(1) First aid - a certificate indicating completion of a first aid course from:
+(1) First aid—a certificate indicating completion of a first aid course from:
 
 (i) The American National Red Cross “Standard First Aid and Emergency Care” or “Multi-media Standard First Aid” course; or
 
-(ii) A course approved by the Coast Guard under § 10.205(h)(l)(ii) of this chapter.
+(ii) A course approved by the Coast Guard under § 11.201(i) of this chapter.
 
-(2) CPR - A certificate indicating completion of course from:
+(2) CPR—A certificate indicating completion of course from:
 
 (i) The American National Red Cross;
 
@@ -24,4 +24,4 @@
 
 (e) Each vessel that operates with more than 49 individuals on board must have at least 4 individuals certified in first aid and at least 4 individuals certified in CPR. An individual certified in both first aid and CPR may be counted for both requirements.
 
-[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by CGD 95-012, 60 FR 48048, Sept. 18, 1995]
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by CGD 95-012, 60 FR 48048, Sept. 18, 1995; USCG-2018-0874, 84 FR 30883, June 28, 2019]

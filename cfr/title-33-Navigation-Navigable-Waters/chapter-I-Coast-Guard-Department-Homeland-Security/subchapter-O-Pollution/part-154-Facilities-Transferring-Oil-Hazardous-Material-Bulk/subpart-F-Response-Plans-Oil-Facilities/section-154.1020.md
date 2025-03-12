@@ -14,9 +14,9 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 *Dispersant-application platform* means the vessel or aircraft outfitted with the dispersant-application equipment acting as the delivery system for the dispersant onto the oil spill.
 
-*Dispersant Mission Planner 2* or (DMP2) means an Internet-downloadable application that estimates EDAC for different dispersant response systems. The NSFCC will use DPMP2 for evaluating OSRO dispersant classification levels.
-
 *Effective Daily Application Capacity* or *EDAC* means the estimated amount of dispersant that can be applied to a discharge by an application system given the availability of supporting dispersant stockpiles, when operated in accordance with approved standards and within acceptable environmental conditions.
+
+*Estimated Dispersant System Potential Calculator (EDSP)* means an internet-accessible application that estimates EDAC for different dispersant response systems. The NSFCC will use EDSP for evaluating OSRO dispersant classification levels.
 
 *Exclusive economic zone* (EEZ) means the zone contiguous to the territorial sea of the United States extending to a distance up to 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.
 
@@ -86,7 +86,7 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 *Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, it means the area extending seaward 12 miles from the line of demarcation (COLREG lines) defined in §§ 80.740-80.850 of this chapter.
 
-*Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions -
+*Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions—
 
 (1) At least 50 percent of which by volume, distill at a temperature of 340 degrees C (645 degrees F); and
 
@@ -114,13 +114,13 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 *Persistent oil* means a petroleum-based oil that does not meet the distillation criteria for a non-persistent oil. For the purposes of this subpart, persistent oils are further classified based on specific gravity as follows:
 
-(1) Group II - specific gravity of less than .85.
+(1) Group II—specific gravity of less than .85.
 
-(2) Group III - specific gravity equal to or greater than .85 and less than .95.
+(2) Group III—specific gravity equal to or greater than .85 and less than .95.
 
-(3) Group IV - specific gravity equal to or greater than .95 and less than or equal to 1.0.
+(3) Group IV—specific gravity equal to or greater than .95 and less than or equal to 1.0.
 
-(4) Group V - specific gravity greater than 1.0.
+(4) Group V—specific gravity greater than 1.0.
 
 *Pre-authorization for dispersant use* means an agreement, adopted by a regional response team in coordination with area committees, which authorizes the use of dispersants at the discretion of the Federal On-Scene Coordinator without the further approval of other Federal or State authorities. These pre-authorization areas are generally limited to particular geographic areas within each region.
 
@@ -158,4 +158,4 @@ Appendix C, Table 4 of this part, provides specific guidance on calculating resp
 
 *Worst case discharge* means in the case of an onshore facility and deepwater port, the largest foreseeable discharge in adverse weather conditions meeting the requirements of § 154.1029.
 
-[CGD 91-036, 61 FR 7917, Feb. 29, 1996, as amended by USCG-1999-5149, 65 FR 40825, June 30, 2000; USCG-2001-8661, 74 FR 45023, Aug. 31, 2009]
+[CGD 91-036, 61 FR 7917, Feb. 29, 1996, as amended by USCG-1999-5149, 65 FR 40825, June 30, 2000; USCG-2001-8661, 74 FR 45023, Aug. 31, 2009; USCG-2018-0874, 84 FR 30880, June 28, 2019]

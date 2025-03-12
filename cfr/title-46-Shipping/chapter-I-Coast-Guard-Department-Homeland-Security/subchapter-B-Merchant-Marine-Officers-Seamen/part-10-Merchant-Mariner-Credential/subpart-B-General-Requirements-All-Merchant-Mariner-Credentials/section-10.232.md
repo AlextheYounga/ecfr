@@ -58,11 +58,11 @@ Link to an amendment published at 84 FR 26591, June 7, 2019.
 
 (e) *Sea service on vessels that do not get underway.* This requirement applies to service obtained on vessels mandated by the Certificate of Inspection (COI) which are in operation but do not get underway or occasionally get underway for short voyages. Service while the vessel is not underway must be credited as follows:
 
-(1) Engineering department. Service may be credited day-for-day for up to 50 percent of the service credit for renewal, raise in grade, and original issue for each day the engineering plant is operational.
+(1) Engineering department. Service may be credited day-for-day for up to 50 percent of the service credit for renewal, raise of grade, and original issue for each day the engineering plant is operational.
 
 (2) Deck department. Service may be credited as follows:
 
-(i) Original issue and raise in grade. Service is creditable on a 3-for-1 basis (12 months of experience equals 4 months of creditable service) for up to 6 months of service credit.
+(i) Original issue and raise of grade. Service is creditable on a 3-for-1 basis (12 months of experience equals 4 months of creditable service) for up to 6 months of service credit.
 
 (ii) Renewal. Service in any capacity in the deck department is creditable as closely related service under § 10.227(e)(1)(iv). When submitted in combination with underway service, service is creditable on a 3-for-1 basis (12 months of experience equals 4 months of creditable service) for up to 6 months of service credit.
 
@@ -90,4 +90,4 @@ Link to an amendment published at 84 FR 26591, June 7, 2019.
 
 (i) *Tonnage equivalency.* For the purpose of parts 10, 11 and 12, 200 GRT will be considered equivalent to 500 GT, and 1,600 GRT will be considered equivalent to 3,000 GT.
 
-[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013]
+[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]

@@ -10,9 +10,9 @@
 
 (4) Regulatory requirements.
 
-(b) *Request for approval.* Organizations desiring course approval by the Coast Guard must submit a written request and a complete curriculum package to the National Maritime Center, either by mail or electronically. The curriculum package must be provided in a format specified by the Office of Vessel Activities (CG-CVC) and include:
+(b) *Request for approval.* Organizations desiring course approval by the Coast Guard must submit a written request and a complete curriculum package to the National Maritime Center, either by mail or electronically. The curriculum package must be provided in a format specified by the Office of Merchant Mariner Credentialing and include the following:
 
-(1) *A cover letter.* The cover letter must contain -
+(1) *A cover letter.* The cover letter must contain—
 
 (i) The name of the organization providing the instruction and the course name;
 
@@ -24,7 +24,7 @@
 
 (v) Reference to regulatory requirements met by the training.
 
-(2) Part A: Course framework. The course framework must contain -
+(2) Part A: Course framework. The course framework must contain—
 
 (i) The following specific course intentions:
 
@@ -40,7 +40,7 @@
 
 (C) Student/teacher ratio;
 
-(iii) Documentary evidence that each instructor and/or assessor -
+(iii) Documentary evidence that each instructor and/or assessor—
 
 (A) Has either experience, training, or evidence of instruction in effective instructional techniques and/or effective assessment techniques;
 
@@ -48,7 +48,7 @@
 
 (C) Has attained a level of experience and qualification equal or superior to the relevant level of knowledge, skills, and abilities described in the performance objective;
 
-(iv) Site information, which must include -
+(iv) Site information, which must include—
 
 (A) A description of the facility, measurements of the instructional space, pictures showing multiple views of the space, and a description of the instruction or assessment being performed; and
 
@@ -64,11 +64,11 @@
 
 (D) Reference bibliography.
 
-(3) Part B: Course outline. The course outline must contain -
+(3) Part B: Course outline. The course outline must contain—
 
 (i) Course subjects/topics; and
 
-(ii) Course schedule, including the duration and order of lessons, and an indication as to whether each lesson is -
+(ii) Course schedule, including the duration and order of lessons, and an indication as to whether each lesson is—
 
 (A) A classroom lecture;
 
@@ -80,7 +80,7 @@
 
 (E) Another method of instructional reinforcement.
 
-(4) Part C: Detailed teaching syllabus. The detailed teaching syllabus must be written in a learning objective format in which the objectives describe what the student must do to demonstrate that the specific knowledge has been transferred. The detailed teaching syllabus must contain -
+(4) Part C: Detailed teaching syllabus. The detailed teaching syllabus must be written in a learning objective format in which the objectives describe what the student must do to demonstrate that the specific knowledge has been transferred. The detailed teaching syllabus must contain—
 
 (i) The learning objectives as related to the subjects/topics;
 
@@ -96,7 +96,7 @@
 
 (iii) Training outcomes, which are statements that identify the specific knowledge, skill, or ability that students must gain and display as a result of the training or instructional activity. A training outcome is made up of three elements: expected student performance, condition, and criterion.
 
-(6) Part D-2: Instructor notes. The instructor notes must contain -
+(6) Part D-2: Instructor notes. The instructor notes must contain—
 
 (i) The specific instructional methodologies utilized in the particular lesson; and
 
@@ -112,9 +112,9 @@
 
 (E) Other instructional activities, such as homework and reading assignments.
 
-(7) Part E: Evaluations. The evaluations section must contain -
+(7) Part E: Evaluations. The evaluations section must contain—
 
-(i) Any methodology that is used to measure a student's knowledge, performance, or level of achievement, including -
+(i) Any methodology that is used to measure a student's knowledge, performance, or level of achievement, including—
 
 (A) Homework;
 
@@ -132,7 +132,7 @@
 
 (ii) Assessment instruments, which are any tools used to determine whether the student has achieved the desired level of knowledge, understanding, or proficiency; and
 
-(iii) Any methodology that is used to measure the effectiveness of the training or instructor, including -
+(iii) Any methodology that is used to measure the effectiveness of the training or instructor, including—
 
 (A) Instructor evaluations;
 
@@ -150,7 +150,7 @@
 
 (c) *Approval notification.* The Coast Guard will notify each applicant for course approval when an approval is granted or denied. If the Coast Guard denies a request for approval, the Coast Guard will inform the applicant of the reasons for the denial and describe the corrections required for granting an approval.
 
-(d) *Validity of course approval.* Unless surrendered, suspended, or withdrawn, an approval for a course is valid for up to a maximum of 5 years after issuance, unless -
+(d) *Validity of course approval.* Unless surrendered, suspended, or withdrawn, an approval for a course is valid for up to a maximum of 5 years after issuance, unless—
 
 (1) The school ceases operation;
 
@@ -170,7 +170,7 @@
 
 (3) The renewed approval is valid as detailed in paragraph (d) of this section.
 
-(g) *Suspension of approval.* (1) The Coast Guard may suspend the approval, require the holder to surrender the certificate of approval, and may direct the holder to cease claiming the course is Coast Guard-approved, if it determines that a specific course does not comply with the -
+(g) *Suspension of approval.* (1) The Coast Guard may suspend the approval, require the holder to surrender the certificate of approval, and may direct the holder to cease claiming the course is Coast Guard-approved, if it determines that a specific course does not comply with the—
 
 (i) Applicable provisions of 46 CFR parts 10, 11, 12, or 13;
 
@@ -184,7 +184,7 @@
 
 (4) Course completion certificates will not be accepted for training provided during a period of suspension or expiration.
 
-(h) *Withdrawal of approval.* The Coast Guard may withdraw approval for any course -
+(h) *Withdrawal of approval.* The Coast Guard may withdraw approval for any course—
 
 (1) When the approval holder fails to correct the deficiency of a suspended course within 90 days; or
 
@@ -199,3 +199,5 @@
 (iv) Falsifying any document required and integral to the conduct of the course, including, but not limited to, attendance records, written test grades, course completion grades, or assessment of practical demonstrations.
 
 (i) *Appeals of suspension or withdrawal of approval.* Anyone directly affected by a decision to suspend or withdraw an approval may appeal the decision to the Commandant as provided in § 1.03-40 of this chapter.
+
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]

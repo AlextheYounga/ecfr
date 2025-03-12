@@ -8,7 +8,7 @@
 
 (ii) These criteria reflect conditions used for planning purposes to select mechanical response equipment and are not conditions that would limit response actions or affect normal vessel operations.
 
-(2) Limitations that are identified in the Area Contingency Plans for the COTP zones in which the vessel operates, including -
+(2) Limitations that are identified in the Area Contingency Plans for the COTP zones in which the vessel operates, including—
 
 (i) Ice conditions;
 
@@ -18,13 +18,13 @@
 
 (iv) Weather-related visibility.
 
-(b) The COTP may reclassify a specific body of water or location within the COTP zone. Any reclassifications will be identified in the applicable Area Contingency Plan. Reclassifications may be to -
+(b) The COTP may reclassify a specific body of water or location within the COTP zone. Any reclassifications will be identified in the applicable Area Contingency Plan. Reclassifications may be to—
 
 (1) A more stringent operating environment if the prevailing wave conditions exceed the significant wave height criteria during more than 35 percent of the year; or
 
 (2) A less stringent operating environment if the prevailing wave conditions do not exceed the significant wave height criteria for the less stringent operating environment during more than 35 percent of the year.
 
-(c) Response equipment must -
+(c) Response equipment must—
 
 (1) Meet or exceed the criteria listed in table 1 of appendix B of this part;
 
@@ -34,15 +34,15 @@
 
 (d) The owner or operator of a vessel that carries groups I through IV petroleum oil as a primary cargo shall identify in the response plan and ensure the availability of, through contract or other approved means, the response resources that will respond to a discharge up to the vessel's average most probable discharge.
 
-(1) For a vessel that carries groups I through IV petroleum oil as its primary cargo, the response resources must include -
+(1) For a vessel that carries groups I through IV petroleum oil as its primary cargo, the response resources must include—
 
-(i) Containment boom in a quantity equal to twice the length of the largest vessel involved in the transfer and capable of being deployed at the site of oil transfer operations -
+(i) Containment boom in a quantity equal to twice the length of the largest vessel involved in the transfer and capable of being deployed at the site of oil transfer operations—
 
 (A) Within 1 hour of detection of a spill, when the transfer is conducted between 0 and 12 miles from the nearest shoreline; or
 
 (B) Within 1 hour plus travel time from the nearest shoreline, based on an on-water speed of 5 knots, when the transfer is conducted over 12 miles up to 200 miles from the nearest shoreline; and
 
-(ii) Oil recovery devices and recovered oil storage capacity capable of being at the transfer site -
+(ii) Oil recovery devices and recovered oil storage capacity capable of being at the transfer site—
 
 (A) Within 2 hours of the detection of a spill during transfer operations, when the transfer is conducted between 0 and 12 miles from the nearest shoreline; or
 
@@ -54,7 +54,7 @@
 
 (e) The owner or operator of a vessel carrying groups I through IV petroleum oil as a primary cargo must identify in the response plan and ensure the availability of, through contract or other approved means, the response resources necessary to respond to a discharge up to the vessel's maximum most probable discharge volume.
 
-(1) These resources must be positioned such that they can arrive at the scene of a discharge within -
+(1) These resources must be positioned such that they can arrive at the scene of a discharge within—
 
 (i) 12 hours of the discovery of a discharge in higher volume port areas and the Great Lakes;
 
@@ -72,7 +72,7 @@
 
 (1) The location of these resources must be suitable to meet the response times identified for the applicable geographic area(s) of operation and response tier.
 
-(2) The response resources must be appropriate for -
+(2) The response resources must be appropriate for—
 
 (i) The capacity of the vessel;
 
@@ -88,15 +88,15 @@
 
 (6) When determining response resources necessary to meet the requirements of this paragraph (f)(6), a portion of those resources must be capable of use in close-to-shore response activities in shallow water. The following percentages of the response equipment identified for the applicable geographic area must be capable of operating in waters of 6 feet or less depth:
 
-(i) Open ocean - none.
+(i) Open ocean—none.
 
-(ii) Offshore - 10 percent.
+(ii) Offshore—10 percent.
 
-(iii) Nearshore, inland, Great Lakes, and rivers and canals - 20 percent.
+(iii) Nearshore, inland, Great Lakes, and rivers and canals—20 percent.
 
 (7) Response resources identified to meet the requirements of paragraph (f)(6) of this section are exempt from the significant wave height planning requirements of table 1 of appendix B of this part.
 
-(g) Response equipment identified to respond to a worst case discharge must be capable of arriving on scene within the times specified in this paragraph for the applicable response tier in a higher volume port area, Great Lakes, and in other areas. Response times for these tiers from the time of discovery of a discharge are -
+(g) Response equipment identified to respond to a worst case discharge must be capable of arriving on scene within the times specified in this paragraph for the applicable response tier in a higher volume port area, Great Lakes, and in other areas. Response times for these tiers from the time of discovery of a discharge are—
 
 |                                                                                      | Tier 1 | Tier 2 | Tier 3 |
 |--------------------------------------------------------------------------------------|--------|--------|--------|
@@ -105,7 +105,7 @@
 |           All other rivers & canals, inland, nearshore, and offshore areas           | 24 hrs | 48 hrs | 72 hrs |
 |                       Open ocean (plus travel time from shore)                       |24 hrs +|48 hrs +|72 hrs +|
 
-(h) For the purposes of arranging for response resources through contract or other approved means, response equipment identified for Tier 1 plan credit must be capable of being mobilized and enroute to the scene of a discharge within 2 hours of notification. The notification procedures identified in the plan must provide for notification and authorization for mobilization of identified Tier 1 response resources -
+(h) For the purposes of arranging for response resources through contract or other approved means, response equipment identified for Tier 1 plan credit must be capable of being mobilized and enroute to the scene of a discharge within 2 hours of notification. The notification procedures identified in the plan must provide for notification and authorization for mobilization of identified Tier 1 response resources—
 
 (1) Either directly or through the qualified individual; and
 
@@ -123,13 +123,13 @@
 
 (i) Sufficient dispersant capability for application as required by paragraph (k)(3) of this section. Any dispersants identified in a response plan must be of a type listed on the National Oil and Hazardous Substances Pollution Contingency Plan Product Schedule (contained in 40 CFR part 300, and available online from the U.S. Government Printing Office).
 
-(ii) Dispersant-application platforms capable of delivering and applying dispersant in the amounts required by paragraph (k)(3) of this section. At least 50 percent of each effective daily application capacity (EDAC) tier requirement must be achieved through the use of fixed wing aircraft-based application platforms. The adequacy of dispersant-application platforms not detailed within the Dispersant Mission Planner 2 must be documented by presentation of independent evaluation materials (e.g., field tests and reports of actual use).
+(ii) Dispersant-application platforms capable of delivering and applying dispersant in the amounts required by paragraph (k)(3) of this section. At least 50 percent of each effective daily application capacity (EDAC) tier requirement must be achieved through the use of fixed wing aircraft-based application platforms. The adequacy of dispersant-application platforms not detailed within the EDSP must be documented by presentation of independent evaluation materials (e.g., field tests and reports of actual use).
 
 (iii) Dispersant-application personnel trained in and capable of applying dispersants within the performance criteria in ASTM F1413-07 (incorporated by reference, see § 155.140). The adequacy of dispersant-application systems not fully covered by ASTM F1413-07, such as fire monitor-type applicators, must be documented by presentation of independent evaluation materials (e.g., laboratory tests, field tests, and reports of actual use).
 
 (iv) Dispersant-application systems ensured to be available, including trained personnel, that are capable of applying dispersants in accordance with the recommended procedures in ASTM F1737-07 (incorporated by reference, see § 155.140).
 
-Table 155.1050(k) - Tiers for Effective Daily Application Capability
+Table 155.1050(k)—Tiers for Effective Daily Application Capability
 
 |      |Response time for completed application|Dispersant application  <br/>dispersant: oil treated in gallons  <br/>(Gulf Coast)|Dispersant application  <br/>dispersant: oil treated in gallons  <br/>All other U.S.|
 |------|---------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -194,4 +194,4 @@ Gulf Coast Tier 1 is higher due to greater potential spill size and frequency in
 
 (5) Increases in the availability of private response resources.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45028, Aug. 31, 2009]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45028, Aug. 31, 2009; USCG-2018-0874, 84 FR 30880, June 28, 2019]

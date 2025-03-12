@@ -10,7 +10,7 @@
 
 (c) *Service on mobile offshore drilling units.* (1) MODU service is creditable for raise of grade of an officer endorsement. Evidence of 1 year of service on MODUs as mate or equivalent while holding an officer endorsement or license as third mate, or as engineering officer of the watch or equivalent while holding an officer endorsement or license as third assistant engineer, is acceptable for a raise of grade to second mate or second assistant engineer, respectively. However, any subsequent raises of grade of unlimited, non-restricted officer licenses or endorsements must include a minimum of 6 months of service on conventional vessels.
 
-(2) Service on MODUs maintaining station by means of dynamic positioning, may be credited as service on conventional vessels for any raise in grade; however, time more than 8 hours each day will not be credited.
+(2) Service on MODUs maintaining station by means of dynamic positioning, may be credited as service on conventional vessels for any raise of grade; however, time more than 8 hours each day will not be credited.
 
 (3) A day of creditable MODU service must be a minimum of 4 hours, and no additional credit will be granted for periods of more than 8 hours.
 
@@ -25,3 +25,5 @@
 (g) *Other experience.* Other experience in a marine-related area, other than at sea, or sea service performed on unique vessels, will be evaluated by the Coast Guard for a determination of equivalence to traditional service.
 
 (h) *Tonnage.* When determining sea service credit for officer endorsement applicants under subpart D of this part, the tonnage of a vessel solely admeasured using the Convention measurement scheme under 46 U.S.C. Chapter 143 will be credited as Gross Register Tonnage. This paragraph does not apply to those vessels measured under the optional regulatory measurement provisions of 46 U.S.C. 14305.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019]

@@ -52,7 +52,7 @@
 
 (v) The towing vessel may direct a searchlight in the direction of the tow to indicate its presence to an approaching vessel.
 
-(h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
+(h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 
 (i) Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed by paragraph (a), (c), or (j) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being assisted. The searchlight authorized by Rule 36 (§ 83.36) may be used to illuminate the tow.
 
@@ -62,4 +62,4 @@
 
 (ii) Two towing lights in a vertical line.
 
-[79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014; USCG-2015-0433, 80 FR 44280, July 27, 2015; USCG-2016-0498, 82 FR 35080, July 28, 2017]
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014; USCG-2015-0433, 80 FR 44280, July 27, 2015; USCG-2016-0498, 82 FR 35080, July 28, 2017; USCG-2018-0874, 84 FR 30878, June 28, 2019]

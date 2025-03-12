@@ -1,11 +1,15 @@
-##### § 117.621 Fore River. #####
+##### § 117.621 West Bay. #####
 
-The draw of the Quincy Weymouth SR3A bridge, mile 3.5 between Quincy Point and North Weymouth, Massachusetts, shall open on signal, except that:
+The draw of the West Bay Bridge, mile 1.2, at Osterville, shall operate as follows:
 
-(a) From 6:30 a.m. to 9 a.m. and from 4:30 p.m. to 6:30 p.m., Monday through Friday, except holidays observed in the locality, the draw need not be opened.
+(a) From November 1 through April 30, the draw shall open on signal if at least a twenty-four hours advance notice is given.
 
-(b) The draw shall open on signal at all times for self-propelled vessels greater than 10,000 gross tons.
+(b) From May 1 through June 15, the draw shall open on signal from 8 a.m. to 6 p.m.
 
-(c) From noon to 6 p.m. on Thanksgiving Day, from 6 p.m. on December 24 to midnight on December 25, and from 6 p.m. on December 31 to midnight on January 1, the draw shall open on signal after at least a two-hour advance notice is given by calling the number posted at the bridge.
+(c) From June 16 through September 30, the draw shall open on signal from 7 a.m. to 9 p.m.
 
-[CGD01-94-159, 60 FR 2688, Jan. 11, 1995, as amended by CGD01-00-135, 65 FR 38207, June 20, 2000; CGD01-04-096, 69 FR 67058, Nov. 16, 2004]
+(d) From October 1 through October 31, the draw shall open on signal from 8 a.m. to 6 p.m.
+
+(e) At all other times from May 1 through October 31, the draw shall open on signal if at least a four-hours advance notice is given by calling the number posted at the bridge.
+
+[USCG-2018-0874, 84 FR 30879, June 28, 2019]

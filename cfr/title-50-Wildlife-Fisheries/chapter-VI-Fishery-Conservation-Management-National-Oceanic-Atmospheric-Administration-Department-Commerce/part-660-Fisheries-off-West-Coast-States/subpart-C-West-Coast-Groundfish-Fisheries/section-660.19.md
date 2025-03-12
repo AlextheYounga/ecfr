@@ -1,5 +1,7 @@
 ##### § 660.19 Appeals process for catch monitors, observers, and provider permits. #####
 
+Link to an amendment published at 84 FR 31159, June 28, 2019.
+
 (a) *Allowed appeals.* This section describes the procedure for appealing IADs described at §§ 660.17(g), 660.18(d) and (f), 660.140(h), 660.150(j), and 660.160(g) for catch monitor decertification, observer decertification and provider permit expirations due to inactivity. Any person whose interest is directly and adversely affected by an IAD may file a written appeal. For purposes of this section, such person will be referred to as the “applicant.”
 
 (b) *Appeals process.* In cases where the applicant disagrees with the IAD, the applicant may appeal that decision. Final decisions on appeals of IADs will be made in writing by the Regional Administrator or designee acting on behalf of the Secretary of Commerce and will state the reasons therefore.

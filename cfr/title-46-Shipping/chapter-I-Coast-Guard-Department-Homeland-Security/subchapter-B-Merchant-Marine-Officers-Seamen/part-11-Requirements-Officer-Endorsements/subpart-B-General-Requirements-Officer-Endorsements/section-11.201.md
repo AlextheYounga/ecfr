@@ -2,7 +2,7 @@
 
 (a) *General.* In addition to the requirements of part 10 of this subchapter, the applicant for an officer endorsement, whether original, renewal, duplicate, or raise of grade, must establish to the satisfaction of the Coast Guard that he or she possesses all the qualifications necessary (including but not limited to age, experience, character, physical health, citizenship, approved training, professional competence, and a test for dangerous drugs) before the Coast Guard will issue to him or her a merchant mariner credential (MMC). An applicant for any STCW endorsement must hold the appropriate national endorsement unless otherwise specified.
 
-(b) *English language requirements.* Except as provided in § 11.467(i) of this part, an applicant for an officer endorsement must demonstrate an ability to speak and understand English as found in the navigation rules, aids to navigation publications, emergency equipment instructions, machinery instructions, and radiotelephone communications instructions.
+(b) *English language requirements.* Except as provided in § 11.467(h) of this part, an applicant for an officer endorsement must demonstrate an ability to speak and understand English as found in the navigation rules, aids to navigation publications, emergency equipment instructions, machinery instructions, and radiotelephone communications instructions.
 
 (c) *Experience and service.* (1) Applicants for officer endorsements should refer to § 10.232 of this subchapter for information regarding requirements for documentation and proof of sea service.
 
@@ -132,4 +132,4 @@
 
 (l) *Restrictions.* The Coast Guard may modify the service and examination requirements in this part to satisfy the unique qualification requirements of an applicant or distinct group of mariners. The Coast Guard may also lower the age requirement for OUPV applicants. The authority granted by an officer endorsement will be restricted to reflect any modifications made under the authority of this paragraph.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]

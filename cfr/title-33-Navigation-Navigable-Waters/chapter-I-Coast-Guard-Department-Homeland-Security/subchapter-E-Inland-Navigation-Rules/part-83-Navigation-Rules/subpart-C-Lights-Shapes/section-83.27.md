@@ -34,7 +34,7 @@
 
 (A) Flashing 50 to 70 times per minute,
 
-(B) Visible all around the horizon,
+(B) Visible all round the horizon,
 
 (C) Visible for at least 2 miles,
 
@@ -46,7 +46,7 @@
 
 (2) Two red lights at each end of the pipeline, including the ends in a channel where the pipeline is separated to allow vessels to pass (whether open or closed). The lights must be:
 
-(A) Visible all around the horizon, and
+(A) Visible all round the horizon, and
 
 (B) Visible for at least 2 miles, and
 
@@ -64,4 +64,4 @@
 
 (h) The signals prescribed in this Rule are not signals of vessels in distress and requiring assistance. Such signals are contained in Annex IV to these Rules (33 CFR part 87).
 
-[79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014]
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014; USCG-2018-0874, 84 FR 30878, June 28, 2019]

@@ -1,5 +1,7 @@
 ##### 252.215-7010 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data. #####
 
+Link to an amendment published at 84 FR 30950, June 28, 2019.
+
 *Basic.* As prescribed in 215.408(5)(i) and (5)(i)(A), use the following provision:
 
 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Basic (JAN 2018)
@@ -136,4 +138,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) Paragraph (d) of this provision for subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
 
-(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018]
+(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019]

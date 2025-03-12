@@ -24,10 +24,10 @@
 
 (9) The completed Test Report required by § 162.060-34 of this subpart prepared and submitted by the IL.
 
-(b) The completed application must be sent by the manufacturer to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430.
+(b) The completed application must be sent by the manufacturer to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, or by email to *msc@uscg.mil”.*.
 
 (c) If examination of the application reveals that it is incomplete, the Coast Guard will return it to the applicant with an explanation.
 
 (d) Additional information, including electronic submission criteria, is available at *http://homeport.uscg.mil/msc.*
 
-[USCG-2001-10486, 77 FR 17311, Mar. 23, 2012, as amended by USCG-2013-0671, 78 FR 60161, Sept. 30, 2013; USCG-2016-0498, 82 FR 35093, July 28, 2017]
+[USCG-2001-10486, 77 FR 17311, Mar. 23, 2012, as amended by USCG-2013-0671, 78 FR 60161, Sept. 30, 2013; USCG-2016-0498, 82 FR 35093, July 28, 2017; USCG-2018-0874, 84 FR 30883, June 28, 2019]

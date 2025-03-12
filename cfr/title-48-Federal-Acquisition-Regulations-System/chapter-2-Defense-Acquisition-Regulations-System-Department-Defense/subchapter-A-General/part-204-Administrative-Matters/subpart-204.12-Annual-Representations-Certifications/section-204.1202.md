@@ -1,6 +1,8 @@
 ##### 204.1202 Solicitation provision. #####
 
-(1) When using the provision at FAR 52.204-8, Annual Representations and Certifications, use the provision with 252.204-7007, Alternate A, Annual Representations and Certifications; and
+When using the provision at FAR 52.204-8, Annual Representations and Certifications -
+
+(1) Use the provision with 252.204-7007, Alternate A, Annual Representations and Certifications; and
 
 (2) When the provision at FAR 52.204-7, System for Award Management, is included in the solicitation, do not include separately in the solicitation the following provisions, which are included in DFARS 252.204-7007:
 
@@ -30,4 +32,4 @@
 
 (xiii) 252.247-7022, Representation of Extent of Transportation by Sea.
 
-[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018]
+[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018; 84 FR 30947, June 28, 2019]

@@ -44,7 +44,7 @@ Table 161.70(d) - Outbound
 |    1     |       Sabine River Light “2”        |       Black Bayou       |30°00.00′ N.  <br/>93°46.25′ W.|            |
 |    2     |    Ready Reserve Fleet Highline     |Channel at Cove Mid-Point|30°00.80′ N.  <br/>93°59.90′ W.|            |
 |    3     |FINA Highline Neches River Light “19”|      FINA Highline      |29°59.09′ N.  <br/>93°54.30′ W.|            |
-|    4     |            GIWW Mile 285            |    The School House     |29°52.70′ N.  <br/>93°55.55′ W.|Sector Shift|
+|    4     |            GIWW Mile 285            |    The School House     |29°52.70′ N.  <br/>93°55.55′ W.| Zone Shift |
 |    5     |    Port Arthur Canal Light “43”     |       Keith Lake        |29°46.50′ N.  <br/>93°56.47′ W.|            |
 |    6     |      Sabine Pass Buoys “29/30”      |Sabine Pass Buoys “29/30”|29°35.90′ N.  <br/>93°48.20′ W.|            |
 |    7     |    Sabine Bank Channel “SB” Buoy    |  Sabine Bank Sea Buoy   |29°25.00′ N.  <br/>93°40.00′ W.|Final Report|
@@ -68,7 +68,7 @@ Table 161.70(f) - Westbound (ICW)
 |----------|----------------------|----------------------|-------------------------------|--------------------|
 |    1     |    GIWW Mile 260     |     260 Highline     |30°03.50′ N.  <br/>93°37.50′ W.|Sailing Plan Report.|
 |    2     |Sabine River Light “2”|     Black Bayou      |30°00.03′ N.  <br/>93°46.18′ W.|                    |
-|    3     |    GIWW Mile 285     |   The School House   |29°52.71′ N.  <br/>93°55.55′ W.|   Sector Shift.    |
+|    3     |    GIWW Mile 285     |   The School House   |29°52.71′ N.  <br/>93°55.55′ W.|    Zone Shift.     |
 |    4     |    GIWW Mile 295     |      ICW MM 295      |29°46.20′ N.  <br/>94°02.60′ W.|   Final Report.    |
 
 (g) *Reporting points (Offshore Safety Fairway).*
@@ -80,4 +80,4 @@ Table 161.70(g) - Offshore Safety Fairway
 |    1     |Sabine Pass Safety Fairway - East|     East Dogleg      |29°35.00′ N.  <br/>93°28.00′ W.|     |
 |    2     |Sabine Pass Safety Fairway - West|     West Dogleg      |29°28.00′ N.  <br/>93°58.00′ W.|     |
 
-[78 FR 51671, Aug. 21, 2013]
+[78 FR 51671, Aug. 21, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]

@@ -16,7 +16,7 @@ The center of precautionary area “RB” is not marked by a buoy. All precautio
 
 (2) A vessel of less than 40,000 dead weight tons is exempt from the provision set forth in § 161.13(b)(1) of this part.
 
-(3) A vessel of 100 meters or more in length is exempt from the provisions set forth in § 161.13(b)(3) of this part.
+(3) A vessel of less than 100 meters in length is exempt from the provisions set forth in § 161.13(b)(3) of this part.
 
 (4) Approval will not be granted for:
 
@@ -30,4 +30,4 @@ The center of precautionary area “RB” is not marked by a buoy. All precautio
 
 (d) Reporting Point. Inbound vessels in the Strait of Juan de Fuca upon crossing 124-W.
 
-[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by USCG-1998-3799, 63 FR 35531, June 30, 1998; USCG-2011-1024, 78 FR 51671, Aug. 21, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2016-0498, 82 FR 35088, July 28, 2017]
+[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by USCG-1998-3799, 63 FR 35531, June 30, 1998; USCG-2011-1024, 78 FR 51671, Aug. 21, 2013; USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2016-0498, 82 FR 35088, July 28, 2017; USCG-2018-0874, 84 FR 30880, June 28, 2019]

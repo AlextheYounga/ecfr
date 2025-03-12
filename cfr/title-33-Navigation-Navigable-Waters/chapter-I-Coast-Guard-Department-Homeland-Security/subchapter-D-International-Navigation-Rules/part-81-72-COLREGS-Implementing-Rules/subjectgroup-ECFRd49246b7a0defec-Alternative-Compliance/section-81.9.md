@@ -1,6 +1,6 @@
 ##### § 81.9 Certificate of Alternative Compliance: Contents. #####
 
-The Chief of the Marine Safety Division issues the Certificate of Alternative Compliance to the vessel based on a determination that it cannot comply fully with 72 COLREGS light, shape, and sound signal provisions without interference with its special function. This Certificate includes -
+The Chief of the Prevention Division issues the Certificate of Alternative Compliance to the vessel based on a determination that it cannot comply fully with 72 COLREGS light, shape, and sound signal provisions without interference with its special function. This Certificate includes—
 
 (a) Identification of the vessel as supplied in the application under § 81.5(a)(2);
 
@@ -18,4 +18,4 @@ The Chief of the Marine Safety Division issues the Certificate of Alternative Co
 
 (h) A statement that the Certificate of Alternative Compliance terminates when the vessel ceases to be usually engaged in the operation for which the certificate is issued.
 
-[CGD 77-136, 47 FR 13800, Apr. 1, 1982]
+[CGD 77-136, 47 FR 13800, Apr. 1, 1982, as amended by USCG-2018-0874, 84 FR 30878, June 28, 2019]

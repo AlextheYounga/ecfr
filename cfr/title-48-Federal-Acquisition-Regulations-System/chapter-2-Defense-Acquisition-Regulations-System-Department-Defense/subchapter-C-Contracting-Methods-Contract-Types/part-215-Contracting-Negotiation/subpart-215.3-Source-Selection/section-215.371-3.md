@@ -1,5 +1,7 @@
 ##### 215.371-3 Fair and reasonable price. #####
 
+Link to an amendment published at 84 FR 30949, June 28, 2019.
+
 (a) If there was “reasonable expectation... that ...two or more offerors, competing independently, would submit priced offers” but only one offer is received, this circumstance does not constitute adequate price competition unless an official at a level above the contracting officer approves the determination that the price is reasonable (see FAR 15.403-1(c)(1)(ii)).
 
 (b) Except as provided in section 215.371-4(a), if only one offer is received when competitive procedures were used and the solicitation allowed at least 30 days for receipt of proposals (unless the 30-day requirement is not applicable in accordance with 215.371-4(a)(3) or has been waived in accordance with section 215.371-5), the contracting officer shall -

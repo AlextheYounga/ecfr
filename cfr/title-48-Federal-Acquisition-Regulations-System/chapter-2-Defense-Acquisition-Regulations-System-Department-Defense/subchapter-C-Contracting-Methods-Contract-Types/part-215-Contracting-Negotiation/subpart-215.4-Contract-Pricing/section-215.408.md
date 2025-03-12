@@ -1,5 +1,7 @@
 ##### 215.408 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 84 FR 30949, June 28, 2019.
+
 (1) Use the clause at 252.215-7002, Cost Estimating System requirements, in all solicitations and contracts to be awarded on the basis of certified cost or pricing data.
 
 (2) When contracting with the Canadian Commercial Corporation -

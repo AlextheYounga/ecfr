@@ -58,7 +58,7 @@
 
 (xii) *Instruction or course:* Documentation of successful completion of a course of instruction offered by an approved training school or facility.
 
-(2) Knowledge components may be documented by -
+(2) Knowledge components may be documented by—
 
 (i) Successful completion of the Coast Guard examination for the associated rating endorsement;
 
@@ -68,12 +68,4 @@
 
 (3) The Coast Guard will publish assessment guidelines that should be used to document assessments that demonstrate meeting the standard of competence, as required by paragraph (b)(1) of this section. Organizations may develop alternative assessment documentation for demonstrations of competence; however, such documentation must be approved by the Coast Guard prior to its use and submittal with an application.
 
-(c) *Grandfathering.* (1) Except as noted otherwise, each candidate who applies for a credential based on approved or accepted training or approved seagoing service that was started on or after March 24, 2014, or who applies for the MMC endorsement on or after January 1, 2017, must meet the requirements of this part.
-
-(2) Except as noted by this subpart, seafarers holding an STCW endorsement prior to March 24, 2014, will not be required to complete any additional training required under this part to retain the STCW endorsements.
-
-(3) Except as noted otherwise, candidates who apply for a credential based on approved or accepted training or approved seagoing service that commenced before March 24, 2014, may qualify under the requirements of this part existing before that date. This includes the assessments published prior to March 24, 2014, as well as the additional requirements for the STCW endorsement section.
-
-(4) Except as noted by this subpart, the Coast Guard will continue to issue STCW endorsements meeting the requirements of this part existing before March 24, 2014, for seafarers identified in paragraph (c)(3) of this section, until January 1, 2017.
-
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58279, Sept. 29, 2014]
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58279, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]

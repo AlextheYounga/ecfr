@@ -41,7 +41,7 @@ Table 1 to § 11.464(c) - Requirements for National Endorsement as Master of Tow
 
 (g) Those holding a license or MMC endorsement as a master of self-propelled vessels of more than 200 GRT, may operate towing vessels within any restrictions on their endorsement if they -
 
-(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (f) of this section; and
+(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (g) of this section; and
 
 (2) Either -
 
@@ -50,3 +50,5 @@ Table 1 to § 11.464(c) - Requirements for National Endorsement as Master of Tow
 (ii) Complete an approved training course.
 
 (h) A license or MMC does not need to include a towing endorsement if mariners hold a TOAR or complete an approved training course.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019]
