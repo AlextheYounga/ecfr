@@ -1,7 +1,5 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 88 FR 24340, Apr. 20, 2023.Link to an amendment published t 88 FR 24493, Apr. 21, 2023.
-
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
 (1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
@@ -201,6 +199,7 @@ Table 1 to Paragraph (b)
 |       Medina       |          222C1          |
 |       Sarles       |          290C1          |
 |        OHIO        |                         |
+|      Dennison      |          272A           |
 |      OKLAHOMA      |                         |
 |       Arnett       |          293C2          |
 |      Cheyenne      |          247C2          |
@@ -208,7 +207,6 @@ Table 1 to Paragraph (b)
 |      Coalgate      |          242A           |
 |      Cordell       |          229A           |
 |     Covington      |          290A           |
-|     Millerton      |                         |
 |      Savanna       |          275A           |
 |        Vici        |          249A           |
 |       Wayne        |          266A           |
@@ -218,7 +216,6 @@ Table 1 to Paragraph (b)
 |     Arlington      |          295C2          |
 |    Diamond Lake    |          251A           |
 |     Huntington     |          228C1          |
-|       Powers       |                         |
 |        Vale        |          288C           |
 |    PENNSYLVANIA    |                         |
 |      Liberty       |          298A           |
@@ -279,12 +276,10 @@ Table 1 to Paragraph (b)
 |      Memphis       |          292A           |
 |       Menard       |       265A, 292A        |
 |       Milano       |          274A           |
-|  Mount Enterprise  |                         |
 |       Mullin       |       224A, 277A        |
 |       Munday       |          270C1          |
 |     O'Donnell      |          249A           |
 |       Olney        |          282A           |
-|     Paint Rock     |                         |
 |      Palacios      |          259C1          |
 |      Pearsall      |          277A           |
 |      Premont       |       264C3, 287A       |
@@ -317,7 +312,7 @@ Table 1 to Paragraph (b)
 |     Paragonah      |          258A           |
 |      VERMONT       |                         |
 |       Barton       |          262A           |
-|      Hardwick      |                         |
+|      Hardwick      |          290A           |
 |    West Rutland    |          298A           |
 |      VIRGINIA      |                         |
 |     WASHINGTON     |                         |
@@ -345,7 +340,6 @@ Table 1 to Paragraph (b)
 |      Manville      |          255C1          |
 |     Marbleton      |          257C1          |
 |    Medicine Bow    |          259C3          |
-|     Meeteetse      |                         |
 |    Pine Bluffs     |          287A           |
 |      Ralston       |          233C           |
 |      Rawlins       |          298C2          |

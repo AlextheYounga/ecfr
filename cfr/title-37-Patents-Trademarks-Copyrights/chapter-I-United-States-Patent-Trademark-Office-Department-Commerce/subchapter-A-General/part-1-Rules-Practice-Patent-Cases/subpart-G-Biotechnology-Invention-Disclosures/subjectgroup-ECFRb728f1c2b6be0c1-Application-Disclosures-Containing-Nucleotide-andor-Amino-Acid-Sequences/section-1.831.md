@@ -1,5 +1,7 @@
 ##### § 1.831 Requirements for patent applications filed on or after July 1, 2022, having nucleotide and/or amino acid sequence disclosures. #####
 
+Link to an amendment published at 88 FR 34091, May 26, 2023.
+
 (a) Patent applications disclosing nucleotide and/or amino acid sequences by enumeration of their residues, as defined in paragraph (b) of this section, must contain, as a separate part of the disclosure, a computer readable Sequence Listing in XML format (a “Sequence Listing XML”). Disclosed nucleotide or amino acid sequences that do not meet the definition in paragraph (b) of this section must not be included in the “Sequence Listing XML.” The “Sequence Listing XML” contains the information of the nucleotide and/or amino acid sequences disclosed in the patent application using the symbols and format in accordance with the requirements of §§ 1.832 through 1.834.
 
 (b) Nucleotide and/or amino acid sequences, as used in this section and §§ 1.832 through 1.835, encompass:
