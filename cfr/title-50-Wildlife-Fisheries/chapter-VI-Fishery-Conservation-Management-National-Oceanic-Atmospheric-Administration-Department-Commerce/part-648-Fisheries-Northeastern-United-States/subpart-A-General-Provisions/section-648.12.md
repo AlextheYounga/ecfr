@@ -1,5 +1,7 @@
 ##### § 648.12 Experimental fishing. #####
 
+Link to an amendment published at 82 FR 40732, Aug. 28, 2017.
+
 The Regional Administrator may exempt any person or vessel from the requirements of subparts A (General provisions), B (Atlantic mackerel, squid, and butterfish), D (Atlantic sea scallop), E (Atlantic surfclam and ocean quahog), F (NE multispecies and monkfish), G (summer flounder), H (scup), I (black sea bass), J (Atlantic bluefish), K (Atlantic herring), L (spiny dogfish), M (Atlantic deep-sea red crab), N (tilefish), and O (skates) of this part for the conduct of experimental fishing beneficial to the management of the resources or fishery managed under that subpart. The Regional Administrator shall consult with the Executive Director of the MAFMC regarding such exemptions for the Atlantic mackerel, squid, butterfish, summer flounder, scup, black sea bass, spiny dogfish, bluefish, and tilefish fisheries.
 
 (a) The Regional Administrator may not grant such an exemption unless he/she determines that the purpose, design, and administration of the exemption is consistent with the management objectives of the respective FMP, the provisions of the Magnuson-Stevens Act, and other applicable law, and that granting the exemption will not:

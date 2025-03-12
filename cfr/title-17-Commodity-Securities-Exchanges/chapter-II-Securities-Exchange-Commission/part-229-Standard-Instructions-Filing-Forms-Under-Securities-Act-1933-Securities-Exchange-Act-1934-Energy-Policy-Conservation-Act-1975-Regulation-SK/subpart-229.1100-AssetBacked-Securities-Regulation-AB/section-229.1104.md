@@ -16,7 +16,7 @@ Provide the following information about the sponsor:
 
 (ii) For prospectuses to be filed pursuant to § 230.424 of this chapter on or after February 14, 2013 but prior to February 14, 2014, information may be limited to the prior two years.
 
-(2) Include a reference to the most recent Form ABS-15G filed by the securitizer (as that term is defined in Section 15G(a) of the Securities Exchange Act of 1934) and disclose the CIK number of the securitizer.
+(2) Include a reference to the most recent Form ABS-15G filed by the securitizer (as that term is defined in Section 15G(a) of the Securities Exchange Act of 1934) in response to Rule 15Ga-1 and disclose the CIK number of the securitizer.
 
 (3) For prospectuses to be filed pursuant to § 230.424 of this chapter, the information presented shall not be more than 135 days old.
 
@@ -26,4 +26,4 @@ Provide the following information about the sponsor:
 
 *Instruction to Item 1104(g).* The disclosure required under this item shall separately state the amount and nature of any interest or asset retained in compliance with law, including any amounts that are retained by parties other than the sponsor in order to satisfy such requirements.
 
-[70 FR 1597, Jan. 7, 2005, as amended at 76 FR 4511, Jan. 26, 2011; 79 FR 57313, Sept. 24, 2014]
+[70 FR 1597, Jan. 7, 2005, as amended at 76 FR 4511, Jan. 26, 2011; 79 FR 57313, Sept. 24, 2014; 81 FR 40512, June 22, 2016]

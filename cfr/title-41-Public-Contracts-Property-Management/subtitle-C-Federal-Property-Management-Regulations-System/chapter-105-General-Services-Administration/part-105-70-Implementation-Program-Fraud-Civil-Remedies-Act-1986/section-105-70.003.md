@@ -1,5 +1,7 @@
 ##### § 105-70.003 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 82 FR 40958, Aug. 29, 2017.
+
 (a) *Claims.* (1) Any person who makes a claim that the person knows or has reason to know -
 
 (i) Is false, fictitious, or fraudulent;

@@ -1,8 +1,6 @@
 ##### § 227.302 Account opening. #####
 
-(a) *Accounts and electronic delivery.*
-
-(1) No intermediary or associated person of an intermediary may accept an investment commitment in a transaction involving the offer or sale of securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) until the investor has opened an account with the intermediary and the intermediary has obtained from the investor consent to electronic delivery of materials.
+(a) *Accounts and electronic delivery.* (1) No intermediary or associated person of an intermediary may accept an investment commitment in a transaction involving the offer or sale of securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) until the investor has opened an account with the intermediary and the intermediary has obtained from the investor consent to electronic delivery of materials.
 
 (2) An intermediary must provide all information that is required to be provided by the intermediary under subpart C of this part (§§ 227.300 through 227.305), including, but not limited to, educational materials, notices and confirmations, through electronic means. Unless otherwise indicated in the relevant rule of subpart C of this part, in satisfying this requirement, an intermediary must provide the information through an electronic message that contains the information, through an electronic message that includes a specific link to the information as posted on intermediary's platform, or through an electronic message that provides notice of what the information is and that it is located on the intermediary's platform or on the issuer's Web site. Electronic messages include, but are not limited to, email, social media messages, instant messages or other electronic media messages.
 

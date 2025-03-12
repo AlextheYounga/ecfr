@@ -8,8 +8,6 @@
 
 (d) *Financial disclosure statement requirement.* Any person who files a petition for review of an initial decision that asserts that person's inability to pay either disgorgement, interest or a penalty shall file with the opening brief a sworn financial disclosure statement containing the information specified in § 201.630(b).
 
-(d) [Reserved]
-
 (e) *Prerequisite to judicial review.* Pursuant to Section 704 of the Administrative Procedure Act, 5 U.S.C. 704, a petition to the Commission for review of an initial decision is a prerequisite to the seeking of judicial review of a final order entered pursuant to such decision.
 
 [60 FR 32796, June 23, 1995, as amended at 69 FR 13179, Mar. 19, 2004; 81 FR 50240, July 29, 2016]

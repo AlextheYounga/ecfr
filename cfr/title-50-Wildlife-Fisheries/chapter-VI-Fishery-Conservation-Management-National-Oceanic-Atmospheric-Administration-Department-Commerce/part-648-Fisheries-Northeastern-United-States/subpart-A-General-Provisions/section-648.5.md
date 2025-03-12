@@ -1,5 +1,7 @@
 ##### § 648.5 Operator permits. #####
 
+Link to an amendment published at 82 FR 40732, Aug. 28, 2017.
+
 (a) *General.* Any operator of a vessel fishing for or possessing: Atlantic sea scallops, NE multispecies, spiny dogfish, monkfish, Atlantic herring, Atlantic surfclam, ocean quahog, Atlantic mackerel, squid, butterfish, scup, black sea bass, or Atlantic bluefish, harvested in or from the EEZ; tilefish harvested in or from the EEZ portion of the Tilefish Management Unit; skates harvested in or from the EEZ portion of the Skate Management Unit; or Atlantic deep-sea red crab harvested in or from the EEZ portion of the Red Crab Management Unit, issued a permit, including carrier and processing permits, for these species under this part, must have been issued under this section, and carry on board, a valid operator permit. An operator's permit issued pursuant to part 622 or part 697 of this chapter satisfies the permitting requirement of this section. This requirement does not apply to operators of recreational vessels.
 
 (b) *Operator permit application.* Applicants for a permit under this section must submit a completed application on an appropriate form provided by the Regional Administrator. The application must be signed by the applicant and submitted to the Regional Administrator at least 30 days before the date upon which the applicant desires to have the permit made effective. The Regional Administrator will notify the applicant of any deficiency in the application, pursuant to this section.

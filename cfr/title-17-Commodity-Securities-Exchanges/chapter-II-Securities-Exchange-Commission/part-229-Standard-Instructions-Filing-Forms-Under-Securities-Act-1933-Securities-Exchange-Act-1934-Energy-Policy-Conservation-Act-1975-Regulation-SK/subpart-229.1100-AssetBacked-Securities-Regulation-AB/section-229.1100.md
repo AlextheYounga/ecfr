@@ -76,4 +76,4 @@
 
 (f) *Filing of required exhibits.* Where agreements or other documents in this Regulation AB (§§ 229.1100 through 229.1125) are specified to be filed as exhibits to a Securities Act registration statement, such agreements or other documents, if applicable, may be incorporated by reference as an exhibit to the registration statement, such as by filing a Form 8-K (§ 249.308 of this chapter) in the case of offerings registered on Form SF-3 (§ 239.45 of this chapter). Final agreements must be filed and made part of the registration statement no later than the date the final prospectus is required to be filed under § 230.424 of this chapter.
 
-[70 FR 1597, Jan. 7, 2005, as amended at 70 FR 72373, Dec. 5, 2005; 79 FR 57313, Sept. 24, 2014; 80 FR 6652, Feb. 6, 2015]
+[70 FR 1597, Jan. 7, 2005, as amended at 70 FR 72373, Dec. 5, 2005; 79 FR 57313, Sept. 24, 2014; 80 FR 6652, Feb. 6, 2015; 81 FR 40512, June 22, 2016]
