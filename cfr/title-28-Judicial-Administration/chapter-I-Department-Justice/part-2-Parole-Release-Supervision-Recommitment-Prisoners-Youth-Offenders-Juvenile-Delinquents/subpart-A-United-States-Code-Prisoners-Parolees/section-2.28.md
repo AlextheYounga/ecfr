@@ -1,6 +1,6 @@
 ##### § 2.28 Reopening of cases. #####
 
-(a) *Favorable information.* Upon the receipt of new information of substantial significance favorable to the prisoner, the Regional Commissioner may reopen a case (including an original jurisdiction case), and order a special reconsideration hearing on the next available docket, or modify the previous decision. The advancement of a presumptive release date requires the concurrence of two Commissioners.
+(a) *Favorable information or information supporting medical parole or compassionate release.* Upon the receipt of new information of substantial significance favorable to the prisoner, including medical information, or other extraordinary and compelling information, a Commissioner may reopen a case (including an original jurisdiction case), and order a special reconsideration hearing on the next available docket, or modify the previous decision. The advancement of a presumptive release date or a decision to continue to a 15-year reconsideration hearing requires the concurrence of two Commissioners.
 
 (b) *Institutional misconduct.* Consideration of disciplinary infractions and allegations of new criminal conduct occurring after the setting of a parole date are subject to the provisions of § 2.14 (in the case of a prisoner with a presumptive date) and § 2.34 (in the case of a prisoner with an effective date of parole).
 
@@ -12,4 +12,4 @@
 
 (f) *New adverse information.* Upon receipt of new and significant adverse information that is not covered by paragraphs (a) through (e) of this section, a Commissioner may refer the case to the National Commissioners with his recommendation and vote to schedule the case for a special reconsideration hearing. Such referral shall automatically retard the prisoner's scheduled release date until a final decision is reached in the case. The decision to schedule a case for a special reconsideration hearing shall be based on the concurrence of two Commissioner votes, including the vote of the referring Commissioner. The hearing shall be conducted in accordance with the procedures set forth in §§ 2.12 and 2.13. The entry of a new order following such hearing shall void the previously established release date.
 
-[44 FR 3406, Jan. 16, 1979, as amended at 46 FR 36138, July 14, 1981; 49 FR 44098, Nov. 2, 1984; 61 FR 55743, Oct. 29, 1996; 68 FR 41529, July 14, 2003]
+[44 FR 3406, Jan. 16, 1979, as amended at 46 FR 36138, July 14, 1981; 49 FR 44098, Nov. 2, 1984; 61 FR 55743, Oct. 29, 1996; 68 FR 41529, July 14, 2003; 86 FR 51612, Sept. 16, 2021]

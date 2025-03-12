@@ -1,5 +1,7 @@
 ##### § 680.3 Definitions. #####
 
+Link to an amendment published at 86 FR 51610, Sept. 16, 2021.
+
 As used in this part:
 
 (a) *Act.* The term “Act” means the Fair Credit Reporting Act (15 U.S.C. 1681 *et seq.*).

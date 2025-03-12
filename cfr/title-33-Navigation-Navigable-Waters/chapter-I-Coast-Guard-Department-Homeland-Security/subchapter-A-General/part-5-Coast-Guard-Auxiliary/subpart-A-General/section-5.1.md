@@ -6,7 +6,7 @@ Certain terms used in this part are defined as follows:
 
 *Auxiliary* means the United States Coast Guard Auxiliary established pursuant to the Auxiliary Act.
 
-*Auxiliary Act* means the laws governing the Coast Guard Auxiliary, codified in chapters 23 and 25 of Title 14, United States Code(14 U.S.C. 3901-3913 and 4101-4104).
+*Auxiliary Act* means the laws governing the Coast Guard Auxiliary, codified in chapters 23 and 25 of Title 14, United States Code (14 U.S.C. 3901-3913 and 4101-4104).
 
 *Commandant* means the Commandant of the United States Coast Guard.
 
@@ -26,7 +26,7 @@ Certain terms used in this part are defined as follows:
 
 *Vessel* means any water craft, including non-displacement craft and seaplanes, used, or capable of being used, as a means of transportation on water.
 
-*Yacht* means either -
+*Yacht* means either—
 
 (1) Any documented or numbered vessel used exclusively for pleasure; or
 

@@ -1,0 +1,3 @@
+##### § 134.1206 Notice and Order. #####
+
+Upon receipt of an appeal challenging a final SBA loan review decision, OHA will assign the matter to either an Administrative Law Judge or an Administrative Judge in accordance with § 134.218. Unless the appeal is dismissed under § 134.1205, the Judge will issue a Notice and Order, utilizing the OHA Case Portal, establishing a deadline for production of the administrative record and specifying a date by which SBA may respond to the appeal.
