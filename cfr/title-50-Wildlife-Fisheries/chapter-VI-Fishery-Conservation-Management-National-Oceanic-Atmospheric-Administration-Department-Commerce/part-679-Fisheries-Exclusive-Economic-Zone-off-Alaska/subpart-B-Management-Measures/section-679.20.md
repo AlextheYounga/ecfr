@@ -1,6 +1,6 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 85 FR 41431, July 10, 2020.Link to an amendment published at 85 FR 38100, June 25, 2020.
+Link to an amendment published at 85 FR 38100, June 25, 2020.
 
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
@@ -378,7 +378,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) Allocated to each Amendment 80 cooperative as described under § 679.91(i)(2).
 
-(2) *GOA.* Initial reserves are established for pollock, Pacific cod, flatfish, octopuses, sharks, and sculpins, which are equal to 20 percent of the TACs for these species or species groups.
+(2) *GOA.* Initial reserves are established for pollock, Pacific cod, flatfish, octopuses, and sharks, which are equal to 20 percent of the TACs for these species or species groups.
 
 (i) *Pollock inshore-offshore reapportionment.* Any amounts of the GOA reserve that are reapportioned to pollock as provided by paragraph (b) of this section must be apportioned for processing by the inshore component in the GOA and the offshore component in the GOA in the same proportions specified in paragraph (a)(6)(i) of this section.
 
@@ -562,15 +562,15 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (v) If NMFS makes any adjustment or announcement without providing a prior notification and opportunity for prior public comment, the Regional Administrator will receive public comments on the adjustment or announcement for a period of 15 days from the date of publication in the Federal Register.
 
-(i) *Forage fish, grenadiers, and squids* - (1) *Definition.* See Table 2c to this part.
+(i) *Forage fish, grenadiers, squids, and sculpins* - (1) *Definition.* See Table 2c to this part.
 
 (2) *Applicability.* The provisions of § 679.20(i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
 
-(3) *Closure to directed fishing.* Directed fishing for forage fish, grenadiers, and squids is prohibited at all times in the BSAI and GOA.
+(3) *Closure to directed fishing.* Directed fishing for forage fish, grenadiers, squids, and sculpins is prohibited at all times in the BSAI and GOA.
 
-(4) *Limits on sale, barter, trade, and processing.* The sale, barter, trade, or processing of forage fish, grenadiers, and squids is prohibited, except as provided in paragraph (i)(5) of this section.
+(4) *Limits on sale, barter, trade, and processing.* The sale, barter, trade, or processing of forage fish, grenadiers, squids, and sculpins is prohibited, except as provided in paragraph (i)(5) of this section.
 
-(5) *Allowable fishmeal production.* Retained catch of forage fish, grenadiers, or squids not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
+(5) *Allowable fishmeal production.* Retained catch of forage fish, grenadiers, squids, or sculpins not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
 
 (j) *Full retention of rockfish by catcher vessels using hook-and-line, pot, or jig gear* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit using hook-and-line, pot, or jig gear, must retain and land all rockfish that is caught while fishing for groundfish or IFQ or CDQ halibut in the BSAI or GOA.
 

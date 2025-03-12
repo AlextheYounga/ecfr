@@ -1,29 +1,11 @@
-##### § 263.11 What are the grantee post-award requirements? #####
+##### § 263.11 What are the participant payback reporting requirements? #####
 
-Link to an amendment published at 85 FR 41378, July 10, 2020.Link to an amendment published at 85 FR 41379, July 10, 2020.
+(a) *Notice of intent.* Participants must submit to the Secretary, within 30 days of completion of, or exit from, as applicable, their training program, a notice of intent to complete a work-related or cash payback, or to continue in a degree program as a full-time student.
 
-(a) Prior to providing funds or services to a participant, the grantee must conduct a payback meeting with the participant to explain the costs of training and payback responsibilities following training.
+(b) *Work-related payback.* (1) Starting within six months after exit from or completion of the program, participants must submit to the Secretary employment information, which includes information explaining how the employment is related to the training received and benefits Indian students in an LEA that serves a high proportion of Indian students.
 
-(b) The grantee must report to the Secretary all participant training and payback information in a manner specified by the Department or its designee.
+(2) Participants must submit an employment status report every six months beginning from the date the work-related service is to begin until the payback obligation has been fulfilled.
 
-(c)(1) Grantees must obtain a signed payback agreement from each participant before the participant begins training. The agreement must include -
+(c) *Cash payback.* If a cash payback is to be made, the Department contacts the participant to establish an appropriate schedule for payments.
 
-(i) The estimated total training costs;
-
-(ii) The estimated length of training; and
-
-(iii) Information documenting that the grantee held a payback meeting with the participant that meets the requirements of this section.
-
-(2) Grantees must submit a signed payback agreement to the Department within seven days of signing the payback agreement.
-
-(d) Grantees must conduct activities to assist participants in identifying and securing qualifying employment opportunities following completion of the program.
-
-(e)(1) Awards that are primarily for the benefit of Indians are subject to the provisions of section 7(b) of the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638). That section requires that, to the greatest extent feasible, a grantee -
-
-(i) Give to Indians preferences and opportunities for training and employment in connection with the administration of the grant; and
-
-(ii) Give to Indian organizations and to Indian-owned economic enterprises, as defined in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452(e)), preference in the award of contracts in connection with the administration of the grant.
-
-(2) For the purposes of paragraph (e), an Indian is a member of any federally recognized Indian tribe.
-
-(Authority: 25 U.S.C. 450b, 450e(b))(Approved by the Office of Management and Budget under control number 1810-0698)
+(Approved by the Office of Management and Budget under control number 1810-0698)[80 FR 22412, Apr. 22, 2015. Redesignated and amended at 85 FR 41379, July 10, 2020]

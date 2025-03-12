@@ -1,53 +1,71 @@
-##### § 263.6 How does the Secretary evaluate applications for the Professional Development program? #####
+##### § 263.6 What priority is given to certain projects and applicants? #####
 
-Link to an amendment published at 85 FR 41378, July 10, 2020.
+(a) The Secretary gives competitive preference priority to—
 
-The Secretary uses the procedures for establishing selection criteria and factors in 34 CFR 75.200 through 75.210 to establish the criteria and factors used to evaluate applications submitted in a grant competition for the Professional Development program. The Secretary may also consider one or more of the criteria and factors listed in paragraphs (a) through (e) of this section to evaluate applications.
+(1) *Tribal Applicants.* An application submitted by an Indian tribe, Indian organization, or an TCU that is eligible to participate in the Professional Development program. A consortium application of eligible entities that meets the requirements of 34 CFR 75.127 through 75.129 and includes an Indian tribe, Indian organization, or TCU will be considered eligible to receive preference under this priority only if the lead applicant for the consortium is the Indian tribe, Indian organization, or TCU. In order to be considered a consortium application, the application must include the consortium agreement, signed by all parties; or
 
-(a) *Need for project.* In determining the need for the proposed project, the Secretary considers one or more of the following:
+(2) *Consortium Applicants, Non-Tribal Lead.* A consortium application of eligible entities that—
 
-(1) The extent to which the proposed project will prepare personnel in specific fields in which shortages have been demonstrated through a job market analysis.
+(i) Meets the requirements of 34 CFR 75.127 through 75.129 and includes an Indian tribe, Indian organization, or TCU; and
 
-(2) The extent to which employment opportunities exist in the project's service area, as demonstrated through a job market analysis.
+(ii) Is not eligible to receive a preference under paragraph (a)(1) of this section.
 
-(b) *Significance.* In determining the significance of the proposed project, the Secretary considers one or more of the following:
+(b) The Secretary may annually establish as a priority any of the priorities listed in this paragraph. When inviting applications for a competition under the Professional Development program, the Secretary designates the type of each priority as absolute, competitive preference, or invitational through a notice in the Federal Register. The effect of each type of priority is described in 34 CFR 75.105.
 
-(1) The potential of the proposed project to develop effective strategies for teaching Indian students and improving Indian student achievement, as demonstrated by a plan to share findings gained from the proposed project with parties who could benefit from such findings, such as other institutions of higher education who are training teachers and administrators who will be serving Indian students.
+(1) *Pre-Service training for teachers.* The Secretary establishes a priority for projects that—
 
-(2) The likelihood that the proposed project will build local capacity to provide, improve, or expand services that address the specific needs of Indian students.
+(i) Provide support and training to Indian individuals to complete a pre-service education program before the end of the award period that enables the individuals to meet the requirements for full State certification or licensure as a teacher through—
 
-(c) *Quality of the project design.* The Secretary considers one or more of the following factors in determining the quality of the design of the proposed project:
+(A) Training that leads to a degree in education;
 
-(1) The extent to which the goals, objectives, and outcomes to be achieved by the proposed project are ambitious but also attainable and address -
+(B) For States allowing a degree in a specific subject area, training that leads to a degree in the subject area;
 
-(i) The number of participants expected to be recruited in the project each year;
+(C) Training in a current or new specialized teaching assignment that requires a degree and in which a documented teacher shortage exists; or
 
-(ii) The number of participants expected to continue in the project each year;
+(D) Training in the field of Native American language instruction;
 
-(iii) The number of participants expected to graduate; and
+(ii) Provide induction services, during the award period, to participants after graduation, certification, or licensure, for the period of time designated by the Department in the notice inviting applications, while participants are completing their work-related payback in schools in LEAs that serve a high proportion of Indian students; and
 
-(iv) The number of participants expected to find qualifying jobs within twelve months of completion.
+(iii) Include goals for the—
 
-(2) The extent to which the proposed project has a plan for recruiting and selecting participants that ensures that program participants are likely to complete the program.
+(A) Number of participants to be recruited each year;
 
-(3) The extent to which the proposed project will incorporate the needs of potential employers, as identified by a job market analysis, by establishing partnerships and relationships with appropriate entities (*e.g.,* Bureau-funded schools, organizations providing educational services to Indian students, and LEAs) and developing programs that meet their employment needs.
+(B) Number of participants to continue in the project each year;
 
-(d) *Quality of project services.* The Secretary considers one or more of the following factors in determining the quality of project services:
+(C) Number of participants to graduate each year; and
 
-(1) The likelihood that the proposed project will provide participants with learning experiences that develop needed skills for successful teaching and/or administration in schools with significant Indian populations.
+(D) Number of participants to find qualifying employment within twelve months of completion.
 
-(2) The extent to which the proposed project prepares participants to adapt teaching and/or administrative practices to meet the breadth of Indian student needs.
+(2) *Pre-service administrator training.* The Secretary establishes a priority for projects that—
 
-(3) The extent to which the applicant will provide job placement activities that reflect the findings of a job market analysis and needs of potential employers.
+(i) Provide support and training to Indian individuals to complete a graduate degree in education administration that is provided before the end of the award period and that allows participants to meet the requirements for State certification or licensure as an education administrator;
 
-(4) The extent to which the applicant will offer induction services that reflect the latest research on effective delivery of such services.
+(ii) Provide induction services, during the award period, to participants after graduation, certification, or licensure, for the period of time designated by the Department in the notice inviting applications, while participants are completing their work-related payback in schools in LEAs that serve a high proportion of Indian students; and
 
-(e) *Quality of project personnel.* The Secretary considers one or more of the following factors when determining the quality of the personnel who will carry out the proposed project:
+(iii) Include goals for the—
 
-(1) The qualifications, including relevant training, experience, and cultural competence, of the project director and the amount of time this individual will spend directly involved in the project.
+(A) Number of participants to be recruited each year;
 
-(2) The qualifications, including relevant training, experience, and cultural competence, of key project personnel and the amount of time to be spent on the project and direct interactions with participants.
+(B) Number of participants to continue in the project each year;
 
-(3) The qualifications, including relevant training, experience, and cultural competence (as necessary), of project consultants or subcontractors, if any.
+(C) Number of participants to graduate each year; and
 
-(Approved by the Office of Management and Budget under control number 1810-0580)
+(D) Number of participants to find qualifying employment within twelve months of completion.
+
+(3) *Pre-service administrator training for work in Tribal educational agencies.* The Secretary establishes a priority for projects that—
+
+(i) Meet the requirements of the pre-service administrator training priority in paragraph (b)(2) of this section;
+
+(ii) Include training on working for a TEA, and opportunities for participants to work with or for TEAs during the training period; and
+
+(iii) Include efforts by the applicant to place participants in administrator jobs in TEAs following program completion.
+
+(4) *Pre-service administrator training for school start-ups.* The Secretary establishes a priority for projects that—
+
+(i) Meet the requirements of the pre-service administrator training priority in paragraph (b)(2) of this section;
+
+(ii) Include training to support the capacity of school leaders to start new schools that serve Indian students, such as charter schools or schools transitioning from BIE-operated to Tribally controlled; and
+
+(iii) Include efforts by the applicant to place participants in administrator jobs with entities planning to start or transition a school to serve Indian students.
+
+(Authority: 20 U.S.C. 7442 and 7473)[80 FR 22412, Apr. 22, 2015. Redesignated and amended at 85 FR 41378, July 10, 2020]

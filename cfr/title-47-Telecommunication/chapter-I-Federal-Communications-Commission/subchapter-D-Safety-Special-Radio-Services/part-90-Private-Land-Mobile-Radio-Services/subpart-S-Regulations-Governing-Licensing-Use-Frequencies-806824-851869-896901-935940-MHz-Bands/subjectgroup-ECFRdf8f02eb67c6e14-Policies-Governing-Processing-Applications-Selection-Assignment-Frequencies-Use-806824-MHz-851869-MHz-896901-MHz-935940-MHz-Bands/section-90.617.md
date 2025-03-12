@@ -1,6 +1,6 @@
 ##### § 90.617 Frequencies in the 809.750-824/854.750-869 MHz, and 896-901/935-940 MHz bands available for trunked, conventional or cellular system use in non-border areas. #####
 
-Link to an amendment published at 85 FR 41417, July 10, 2020.Link to an amendment published at 85 FR 43140, July 16, 2020.
+Link to an amendment published at 85 FR 43140, July 16, 2020.
 
 The following channels will be available at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border (“non-border areas”).
 
@@ -45,71 +45,69 @@ Table 1 - Public Safety Pool 806-816/851-861 MHz Band Channels
 
 Table 1A - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Counties in Southeastern U.S.
 
-[139 Channels]
+[138 Channels]
 
-|   Group No.   |                       Channel Nos.                        |
-|---------------|-----------------------------------------------------------|
-|      261      |                   261-313-324-335-353.                    |
-|     261a      |                 261a-313a-324a-335a-353a.                 |
-|      262      |                   262-314-325-336-354.                    |
-|     262a      |                 262a-314a-325a-336a-354a.                 |
-|      265      |                   265-285-315-333-351.                    |
-|     265a      |                 265a-285a-315a-333a-351a.                 |
-|      266      |                   266-286-316-334-352.                    |
-|     266a      |                 266a-286a-316a-334a-352a.                 |
-|      269      |                   269-289-311-322-357.                    |
-|     269a      |                 269a-289a-311a-322a-357a.                 |
-|      270      |                   270-290-312-323-355.                    |
-|     270a      |                 270a-290a-312a-323a-355a.                 |
-|      271      |                   271-328-348-358-368.                    |
-|     271a      |                 271a-328a-348a-358a-368a.                 |
-|      279      |                   279-299-317-339-359.                    |
-|     279a      |                 279a-299a-317a-339a-359a.                 |
-|      280      |                   280-300-318-340-360.                    |
-|     280a      |                 280a-300a-318a-340a-360a.                 |
-|      309      |                   309-319-329-349-369.                    |
-|     309a      |                 309a-319a-329a-349a-369a.                 |
-|      310      |                   310-320-330-350-370.                    |
-|     310a      |                 310a-320a-330a-350a-370a.                 |
-|      321      |                   321-331-341-361-372.                    |
-|     321a      |                   321a-331a-341a-361a.                    |
-|Single Channels|     326, 327, 332, 337, 338, 342, 343, 344, 345, 356.     |
-|               |326a, 327a, 332a, 337a, 338a, 342a, 343a, 344a, 345a, 356a.|
+|   Group No.   |                                                Channel Nos.                                                |
+|---------------|------------------------------------------------------------------------------------------------------------|
+|      261      |                                            261-313-324-335-353                                             |
+|     261a      |                                          261a-313a-324a-335a-353a                                          |
+|      262      |                                            262-314-325-336-354                                             |
+|     262a      |                                          262a-314a-325a-336a-354a                                          |
+|      265      |                                            265-285-315-333-351                                             |
+|     265a      |                                          265a-285a-315a-333a-351a                                          |
+|      266      |                                            266-286-316-334-352                                             |
+|     266a      |                                          266a-286a-316a-334a-352a                                          |
+|      269      |                                            269-289-311-322-357                                             |
+|     269a      |                                          269a-289a-311a-322a-357a                                          |
+|      270      |                                            270-290-312-323-355                                             |
+|     270a      |                                          270a-290a-312a-323a-355a                                          |
+|      271      |                                            271-328-348-358-368                                             |
+|     271a      |                                          271a-328a-348a-358a-368a                                          |
+|      279      |                                            279-299-317-339-359                                             |
+|     279a      |                                          279a-299a-317a-339a-359a                                          |
+|      280      |                                            280-300-318-340-360                                             |
+|     280a      |                                          280a-300a-318a-340a-360a                                          |
+|      309      |                                            309-319-329-349-369                                             |
+|     309a      |                                          309a-319a-329a-349a-369a                                          |
+|      310      |                                            310-320-330-350-370                                             |
+|     310a      |                                            310a-320a-330a-350a                                             |
+|      321      |                                            321-331-341-361-372                                             |
+|     321a      |                                            321a-331a-341a-361a                                             |
+|Single Channels|326, 327, 332, 337, 338, 342, 343, 344, 345, 356, 326a, 327a, 332a, 337a, 338a, 342a, 343a, 344a, 345a, 356a|
 
 (3) The channels listed in Table 1B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA to eligible applicants in the Public Safety Category. The center city coordinates of Atlanta, GA - for the purposes of the rule - are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
 Table 1B - Public Safety Pool 806-813.5/851-858.5 MHz Band Channels for Atlanta, GA
 
-[139 Channels]
+[138 Channels]
 
-|   Group No.   |                    Channel Nos.                     |
-|---------------|-----------------------------------------------------|
-|      261      |                261-313-324-335-353.                 |
-|     261a      |              261a-313a-324a-335a-353a.              |
-|      262      |                262-314-325-336-354.                 |
-|     262a      |              262a-314a-325a-336a-354a.              |
-|      269      |                269-289-311-322-357.                 |
-|     269a      |              269a-289a-311a-322a-357a.              |
-|      270      |                270-290-312-323-355.                 |
-|     270a      |              270a-290a-312a-323a-355a.              |
-|      279      |                279-299-319-339-359.                 |
-|     279a      |              279a-299a-319a-339a-359a.              |
-|      280      |                280-300-320-340-360.                 |
-|     280a      |              280a-300a-320a-340a-360a.              |
-|      285      |                285-315-333-351-379.                 |
-|     285a      |              285a-315a-333a-351a-379a.              |
-|      286      |                286-316-334-352-380.                 |
-|     286a      |              286a-316a-334a-352a-380a.              |
-|      309      |                309-329-349-369-389.                 |
-|     309a      |              309a-329a-349a-369a-389a.              |
-|      310      |                310-330-350-370-390.                 |
-|     310a      |              310a-330a-350a-370a-390a.              |
-|      321      |                321-331-341-361-381.                 |
-|     321a      |              321a-331a-341a-361a-381a.              |
-|      328      |                328-348-358-368-388.                 |
-|     328a      |              328a-348a-358a-368a-388a.              |
-|Single Channels|  317, 318, 326, 327, 332, 337, 338, 356, 371, 372.  |
-|               |317a, 318a, 326a, 327a, 332a, 337a, 338a, 356a, 371a.|
+|   Group No.   |                                               Channel Nos.                                                |
+|---------------|-----------------------------------------------------------------------------------------------------------|
+|      261      |                                            261-313-324-335-353                                            |
+|     261a      |                                         261a-313a-324a-335a-353a                                          |
+|      262      |                                            262-314-325-336-354                                            |
+|     262a      |                                         262a-314a-325a-336a-354a                                          |
+|      269      |                                            269-289-311-322-357                                            |
+|     269a      |                                         269a-289a-311a-322a-357a                                          |
+|      270      |                                            270-290-312-323-355                                            |
+|     270a      |                                         270a-290a-312a-323a-355a                                          |
+|      279      |                                            279-299-319-339-359                                            |
+|     279a      |                                         279a-299a-319a-339a-359a                                          |
+|      280      |                                            280-300-320-340-360                                            |
+|     280a      |                                         280a-300a-320a-340a-360a                                          |
+|      285      |                                            285-315-333-351-379                                            |
+|     285a      |                                         285a-315a-333a-351a-379a                                          |
+|      286      |                                            286-316-334-352-380                                            |
+|     286a      |                                         286a-316a-334a-352a-380a                                          |
+|      309      |                                            309-329-349-369-389                                            |
+|     309a      |                                         309a-329a-349a-369a-389a                                          |
+|      310      |                                            310-330-350-370-390                                            |
+|     310a      |                                            310a-330a-350a-370a                                            |
+|      321      |                                            321-331-341-361-381                                            |
+|     321a      |                                         321a-331a-341a-361a-381a                                          |
+|      328      |                                            328-348-358-368-388                                            |
+|     328a      |                                         328a-348a-358a-368a-388a                                          |
+|Single Channels|317, 318, 326, 327, 332, 337, 338, 356, 371, 372  <br/>317a, 318a, 326a, 327a, 332a, 337a, 338a, 356a, 371a|
 
 (b) Unless otherwise specified, the channels listed in Table 2 are available to applicants eligible in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These frequencies are available in non-border areas. Specialized Mobile Radio (SMR) systems will not be authorized on these frequencies. These channels are available for inter-category sharing as indicated in § 90.621(e).
 
@@ -152,10 +150,10 @@ Table 2A - Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz 
 
 [137 Channels]
 
-|               |                                                                                                                                                                                                     Channel Nos.                                                                                                                                                                                                      |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Single Channels|                               263, 264, 267, 268, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 346, 347, 362, 363, 364, 365, 366, 367, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 399, 400, 401, 403, 403, 404, 405, 406, 407, 408, 409, 410.                                |
-|               |263a, 264a, 267a, 268a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 296a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 379a, 380a, 381a, 382a, 383a, 384a, 385a, 386a, 387a, 388a, 389a, 390a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 403a, 403a, 404a, 405a, 406a, 407a, 408a, 409a.|
+|               |                                                                                                                                                                                                     Channel Nos.                                                                                                                                                                                                     |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Single Channels|                               263, 264, 267, 268, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 346, 347, 362, 363, 364, 365, 366, 367, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410                                |
+|               |263a, 264a, 267a, 268a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 296a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 379a, 380a, 381a, 382a, 383a, 384a, 385a, 386a, 387a, 388a, 389a, 390a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 402a, 403a, 404a, 405a, 406a, 407a, 408a, 409a|
 
 (2) The channels listed in Table 2B are available within 113 km (70 mi) of the center city coordinates of Atlanta, GA, to eligible applicants in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). The center city coordinates of Atlanta, GA - for the purposes of the rule - are defined as 33°44′55″ NL, 84°23′17″ WL. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
@@ -163,10 +161,10 @@ Table 2B - Business/Industrial/Land Transportation Pool 806-813.5/851-858.5 MHz 
 
 [137 Channels]
 
-|               |                                                                                                                                                                                                     Channel Nos.                                                                                                                                                                                                      |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Single Channels|                               263, 264, 265, 266, 267, 268, 271, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 295, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 342, 343, 344, 345, 346, 347, 362, 363, 364, 365, 366, 367, 382, 383, 384, 385, 386, 387, 391, 392, 393, 394, 399, 400, 401, 402, 403, 404, 405, 406, 407, 409, 410.                                |
-|               |263a, 264a, 265a, 266a, 267a, 268a, 271a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 295a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 342a, 343a, 344a, 345a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 382a, 383a, 384a, 385a, 386a, 387a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 402a, 403a, 404a, 405a, 406a, 407a, 409a.|
+|               |                                                                                                                                                                                                     Channel Nos.                                                                                                                                                                                                     |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Single Channels|                               263, 264, 265, 266, 267, 268, 271, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 287, 288, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 342, 343, 344, 345, 346, 347, 362, 363, 364, 365, 366, 367, 382, 383, 384, 385, 386, 387, 391, 392, 393, 394, 399, 400, 401, 402, 403, 404, 405, 406, 407, 409, 410                                |
+|               |263a, 264a, 265a, 266a, 267a, 268a, 271a, 272a, 273a, 274a, 275a, 276a, 277a, 278a, 281a, 282a, 283a, 284a, 287a, 288a, 291a, 292a, 293a, 294a, 295a, 296a, 297a, 298a, 301a, 302a, 303a, 304a, 305a, 306a, 307a, 308a, 342a, 343a, 344a, 345a, 346a, 347a, 362a, 363a, 364a, 365a, 366a, 367a, 382a, 383a, 384a, 385a, 386a, 387a, 391a, 392a, 393a, 394a, 399a, 400a, 401a, 402a, 403a, 404a, 405a, 406a, 407a, 409a|
 
 (c) The channels listed in Table 3 are available to applicants eligible in the Industrial/Business Pool of subpart C of this part but exclude Special Mobilized Radio Systems as defined in § 90.603(c). These frequencies are available in non-border areas. Specialized Mobile Radio (SMR) systems will not be authorized on these frequencies. These channels are available for intercategory sharing as indicated in § 90.621(e).
 
@@ -380,4 +378,4 @@ Table 6 - SMR Category 896-901/935-940 MHz Band Channels
 
 (m) Incumbent licensees in the 470-512 MHz band in the urban areas specified in § 90.303 of the Commission's rules are given priority access over mutually exclusive applicants for a three-year period to all interstitial channel pairs in the public safety pool or the business/industrial/land transportation pool listed above for which they are eligible, provided that any relocating T-Band incumbent must commit to surrendering an equal amount of 470-512 MHz spectrum on a channel-for-channel basis. The three-year period begins on the date these channel pairs become available for licensing in a National Public Safety Planning Advisory Committee region. Priority access applies to any applicant seeking to license a base station within 80 kilometers (50 miles) or mobile units or control stations within 128 kilometers (80 miles) of the geographic center of the urbanized areas listed in § 90.303 of the Commission's rules.
 
-[69 FR 67843, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 39760, July 20, 2007; 75 FR 35317, June 22, 2010; 76 FR 11683, Mar. 3, 2011; 81 FR 30201, May 16, 2016; 83 FR 61100, Nov. 27, 2018]
+[69 FR 67843, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 39760, July 20, 2007; 75 FR 35317, June 22, 2010; 76 FR 11683, Mar. 3, 2011; 81 FR 30201, May 16, 2016; 83 FR 61100, Nov. 27, 2018; 85 FR 41417, July 10, 2020]

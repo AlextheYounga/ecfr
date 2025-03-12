@@ -1,7 +1,5 @@
 ##### § 251.51 Definitions. #####
 
-Link to an amendment published at 85 FR 41392, July 10, 2020.
-
 *Applicant* - any individual or entity that applies for a special use authorization.
 
 *Authorized officer* - any employee of the Forest Service to whom has been delegated the authority to perform the duties described in this part.
@@ -20,13 +18,29 @@ Link to an amendment published at 85 FR 41392, July 10, 2020.
 
 *Guiding* - providing services or assistance (such as supervision, protection, education, training, packing, touring, subsistence, transporting people, or interpretation) for pecuniary remuneration or other gain to individuals or groups on National Forest System lands.
 
+*Hazard tree* - for purposes of vegetation management for a powerline facility, any tree, brush, shrub, other plant, or part thereof, hereinafter “vegetation” (whether located on National Forest System lands inside or outside the linear boundary of the special use authorization for the powerline facility), that has been designated, prior to failure, by a certified or licensed arborist or forester under the supervision of the Forest Service or the owner or operator to be:
+
+(1) Dead; likely to die or fail before the next routine vegetation management cycle; or in a position that, under geographical or atmospheric conditions, could cause the vegetation to fall, sway, or grow into the powerline facility before the next routine vegetation management cycle; and
+
+(2) Likely to cause substantial damage to the powerline facility; disrupt powerline facility service; come within 10 feet of the powerline facility; or come within the minimum vegetation clearance distance as determined in accordance with applicable reliability and safety standards and as identified in the special use authorization for the powerline facility and the associated approved operating plan or agreement.
+
 *Holder* - an individual or entity that holds a valid special use authorization.
 
 *Lease -* a type of special use authorization (usually granted for uses other than linear rights-of-way) that is used when substantial capital investment is required and when conveyance of a conditional and transferable interest in National Forest System lands is necessary or desirable to serve or facilitate authorized long-term uses, and that may be revocable and compensable according to its terms.
 
-*Linear right-of-way* - a right-of-way for a linear facility, such as a road, trail, pipeline, electronic transmission line, fence, water transmission facility, or fiber optic cable.
+*Linear right-of-way* - an authorized right-of-way for a linear facility, such as a road, trail, pipeline, electric transmission line, fence, water transmission facility, or fiber optic cable, whose linear boundary is delineated by its legal description.
+
+*Maintenance.* (1) *Emergency maintenance* - immediate repair or replacement of any component of a powerline facility that is necessary to prevent imminent loss, or to redress the loss, of electric service due to equipment failure in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
+
+(2) *Non-routine maintenance* - realigning, upgrading, rebuilding, or replacing an entire powerline facility or any segment thereof, including reconductoring, as identified in an approved operating plan or agreement.
+
+(3) *Routine maintenance* - repair or replacement of any component of a powerline facility due to ordinary wear and tear, such as repair of broken strands of conductors and overhead ground wire; replacement of hardware (*e.g.,* insulator assembly) and accessories; maintenance of counterpoise, vibration dampers, and grading rings; scheduled replacement of decayed and deteriorated wood poles; and aerial or ground patrols to perform observations, conduct inspections, correct problems, and document conditions to provide for operation in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
 
 *Major category* - A processing or monitoring category requiring more than 50 hours of agency time to process an application for a special use authorization (processing category 6 and, in certain situations, processing category 5) or more than 50 hours of agency time to monitor compliance with the terms and conditions of an authorization (monitoring category 6 and, in certain situations, monitoring category 5). Major categories usually require documentation of environmental and associated impacts in an environmental assessment and may require an environmental impact statement.
+
+*Maximum operating sag* - The theoretical position of a powerline facility conductor (wire) when operating at 100 degrees Celsius, which must be accounted for when determining minimum vegetation clearance distance.
+
+*Minimum vegetation clearance distance* - a calculated minimum distance stated in feet or meters measured from a powerline facility conductor (wire) at maximum operating sag to vegetation on National Forest System lands within the linear boundary of a special use authorization for a powerline facility and on abutting National Forest System lands to remove or prune hazard trees, which the owner or operator uses to determine whether vegetation poses a system reliability hazard to the powerline facility.
 
 *Minor category* - A processing or monitoring category requiring 50 hours or less of agency time to process an application for a special use authorization (processing categories 1 through 4 and, in certain situations, processing category 5) or 50 hours or less of agency time to monitor compliance with the terms and conditions of an authorization (monitoring categories 1 through 4 and, in certain situations, monitoring category 5). Minor categories may require documentation of environmental and associated impacts in an environmental assessment.
 
@@ -40,9 +54,15 @@ Link to an amendment published at 85 FR 41392, July 10, 2020.
 
 *Noncommercial use or activity* - any use or activity that does not involve a commercial use or activity as defined in this section.
 
+*Operating plan or agreement for a powerline facility (hereinafter “operating plan or agreement”)* - a plan or an agreement prepared by the owner or operator of a powerline facility, approved by the authorized officer, and incorporated by reference into the corresponding special use authorization that provides for long-term, cost-effective, efficient, and timely inspection, operation, maintenance, and vegetation management of the powerline facility on National Forest System lands within the linear boundary of the authorization for the powerline facility and on abutting National Forest System lands to remove or prune hazard trees, to enhance electric reliability, promote public safety, and avoid fire hazards.
+
 *Outfitting* - renting on or delivering to National Forest System lands for pecuniary remuneration or other gain any saddle or pack animal, vehicle, boat, camping gear, or similar supplies or equipment.
 
+*Owner or operator* - for purposes of a powerline facility, the owner or operator of the powerline facility or a contractor or other agent engaged by the owner or operator of the powerline facility.
+
 *Permit* - a special use authorization which provides permission, without conveying an interest in land, to occupy and use National Forest System land or facilities for specified purposes, and which is both revocable and terminable.
+
+*Powerline facility* - one or more electric distribution or transmission lines authorized by a special use authorization, and all appurtenances to those lines supporting conductors of one or more electric circuits of any voltage for the transmission of electric energy, overhead ground wires, and communications equipment for communications uses that solely support operation and maintenance of the electric distribution or transmission lines and is not leased to other parties for communications uses that serve other purposes.
 
 *Recreation event* - a recreational activity conducted on National Forest System lands for which an entry or participation fee is charged, such as animal, vehicle, or boat races; dog trials; fishing contests; rodeos; adventure games; and fairs.
 
@@ -68,4 +88,8 @@ Link to an amendment published at 85 FR 41392, July 10, 2020.
 
 *Term permit* - a special use authorization to occupy and use National Forest System land, other than rights-of-way under § 251.53(l) of this part, for a specified period which is both revocable and compensable according to its terms.
 
-[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013]
+*Vegetation management.* (1) *Emergency vegetation management* - unplanned pruning or removal of vegetation on National Forest System lands within the linear boundary of a special use authorization for a powerline facility and unplanned pruning or removal of hazard trees on abutting National Forest System lands that have contacted or present an imminent danger of contacting the powerline facility to avoid the disruption of electric service or to eliminate an immediate fire or safety hazard.
+
+(2) *Non-emergency (routine) vegetation management* - planned actions as described in an operating plan or agreement periodically taken to remove vegetation, in whole or in part, on National Forest System lands within the linear boundary of a special use authorization for a powerline facility and on abutting National Forest System lands to remove or prune hazard trees to ensure normal powerline facility operations and to prevent wildfire in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
+
+[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013; 85 FR 41392, July 10, 2020]

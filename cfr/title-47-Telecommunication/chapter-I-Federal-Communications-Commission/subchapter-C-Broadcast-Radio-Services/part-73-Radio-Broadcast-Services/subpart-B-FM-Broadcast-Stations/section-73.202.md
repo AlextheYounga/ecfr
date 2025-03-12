@@ -59,16 +59,22 @@ Table 1 to Paragraph (b)
 |       Strong       |          296C3          |
 |     CALIFORNIA     |                         |
 |      Alturas       |          277C           |
+|       Avenal       |          269A           |
 |      Barstow       |          267A           |
 |     Boonville      |          300A           |
 |      Cartago       |          233A           |
 |     Cedarville     |          238A           |
 |      Coalinga      |          247B1          |
+|      Coalinga      |          261B           |
 |     Cottonwood     |          221A           |
+|     Dos Palos      |          240A           |
 |     Earlimart      |          228A           |
 |       Essex        |          280B           |
+|     Firebaugh      |          234A           |
+|     Ford City      |          271A           |
 |     Ft. Bragg      |          253B1          |
 |       Hemet        |         \*273A          |
+|      Lindsay       |          277B1          |
 |   Lake Isabella    |          239A           |
 |       Ludlow       |          261B1          |
 |      Portola       |          258A           |
@@ -81,11 +87,13 @@ Table 1 to Paragraph (b)
 |      COLORADO      |                         |
 |       Akron        |          279C1          |
 |  Battlement Mesa   |          275C3          |
+|       Calhan       |          284C3          |
 |      Dinosaur      |          262C1          |
 |      Dotsero       |          261A           |
 |     Dove Creek     |          229C3          |
 |       Eckley       |          257C1          |
 |        Hugo        |          222A           |
+|       Idalia       |          231A           |
 |     Lake City      |          247A           |
 |       Olathe       |     \*270C2, \*293C     |
 |      Stratton      |          246C1          |
@@ -117,7 +125,7 @@ Table 1 to Paragraph (b)
 |      Madison       |         \*265A          |
 |    Terre Haute     |         \*298B          |
 |        IOWA        |                         |
-|       Asbury       |         \*238A          |
+|       Asbury       |         \*254A          |
 |     Dunkerton      |          280A           |
 |     Keosauqua      |         \*271C3         |
 |      Rockford      |          225A           |
@@ -298,6 +306,7 @@ Table 1 to Paragraph (b)
 |       Harper       |          256C3          |
 |       Hawley       |          269A           |
 |    Hebbronville    |          282A           |
+|      Hereford      |          278C2          |
 |        Hico        |          293A           |
 |       Iraan        |          269C2          |
 |    Jacksonville    |          236A           |
@@ -335,6 +344,7 @@ Table 1 to Paragraph (b)
 |      Paducah       |          234C3          |
 |     Paint Rock     |          296C3          |
 |      Palacios      |          264A           |
+|      Palacios      |          259C1          |
 |      Pearsall      |          277A           |
 |    Port Isabel     |          288A           |
 |      Premont       |       264C3, 287A       |
@@ -414,6 +424,7 @@ Table 1 to Paragraph (b)
 |     PUERTO RICO    |                         |
 |   VIRGIN ISLANDS   |                         |
 |  Charlotte Amalie  |          237B           |
+|  Charlotte Amalie  |         \*275A          |
 
 [30 FR 12711, Oct. 6, 1965]Editorial Notes:1. For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 

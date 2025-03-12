@@ -6,4 +6,6 @@
 
 (c) An agency shall establish an uncommon tour of duty for each firefighter compensated under part 550, subpart M, of this chapter. The uncommon tour of duty shall correspond directly to the firefighter's regular tour of duty, as defined in § 550.1302 of this chapter, so that each firefighter accrues and uses leave on the basis of that tour.
 
-[59 FR 66635, Dec. 28, 1994, as amended at 63 FR 64595, Nov. 23, 1998; 67 FR 15467, Apr. 2, 2002]
+(d) In applying § 550.805(g) of this chapter, and §§ 630.306(b), and 630.310(d), the referenced number of hours for full-time employees (416 hours and 208 hours) shall be proportionally adjusted based on the percentage amount by which the number of hours in the uncommon tour of duty exceeds the number of hours in a regular full-time tour of duty. For example, if the uncommon tour of duty consists of 120 hours in a biweekly pay period instead of the 80 hours for a regular full-time employee, the percentage adjustment would be 50 percent [(120/80) − 1]; accordingly, 416 hours would be converted to 624 hours and 208 hours would be converted to 312 hours.
+
+[59 FR 66635, Dec. 28, 1994, as amended at 63 FR 64595, Nov. 23, 1998; 67 FR 15467, Apr. 2, 2002; 85 FR 48101, Aug. 10, 2020]

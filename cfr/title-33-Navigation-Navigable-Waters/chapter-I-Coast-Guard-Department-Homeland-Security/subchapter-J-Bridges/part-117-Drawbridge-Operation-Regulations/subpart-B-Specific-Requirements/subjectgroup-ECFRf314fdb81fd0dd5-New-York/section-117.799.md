@@ -1,7 +1,5 @@
 ##### § 117.799 Long Island, New York Inland Waterway from East Rockaway Inlet to Shinnecock Canal. #####
 
-Link to an amendment published at 85 FR 41187, July 9, 2020.
-
 (a) At all times, public vessels of the United States must be passed through the drawspan of each drawbridge listed in this section as soon as possible.
 
 (b) The draw of each bridge listed in this section need not be opened for sailing vessels, unless the vessels are under machinery power or under tow, if an opening would unduly delay other vessel or vehicular traffic.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 41187, July 9, 2020.
 
 (d) The draws of the West Bay bridge, mile 0.1 across Quantuck Canal, Beach Lane bridge, mile 1.1 across Quantuck Canal, Quoque bridge, mile 1.1 across Quoque Canal and the Smith Point bridge, mile 6.1 across Narrow Bay shall open on signal from October 1 through April 30 from 8 a.m. to 4 p.m. and from May 1 through September 30 from 6 a.m. to 10 p.m. At all other times during these periods, the draws shall open as soon as possible but no more than one hour after a request to open is received.
 
-(e) The draw of the Atlantic Beach Bridge across Reynolds Channel, mile 0.4, shall open on signal -
+(e) The draw of the Atlantic Beach Bridge across Reynolds Channel, mile 0.4, shall open on signal—
 
 (1) From October 1 through May 14;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 41187, July 9, 2020.
 
 (3) From May 15 through September 30, from two hours before to one hour after predicted high tide. Predicted high tide occurs 10 minutes earlier than that predicted for Sandy Hook, as given in the tide table published by the National Oceanic and Atmospheric Administration.
 
-(f) The draw of the Loop Parkway Bridge across Long Creek, mile 0.7, shall open on signal every other hour on the even hour; except that, from April 1 through October 31 on Saturdays, Sundays, and Federal holidays, the draw shall open on signal every three hours beginning at 3 a.m. If an opening is desired at other than a scheduled time, notice may be given from the telephone located on either side of the bridge or via marine radiotelephone.
+(f) The draw of the Loop Parkway Bridge across Long Creek, mile 0.7, shall open for commercial vessels engaged in commerce, the draw shall open Monday thru Friday from 6:20 a.m. to 9:50 a.m. and 3:20 p.m. to 7:20 p.m. on signal at 20 and 50 minutes after the hour, and on signal at all other times. For all other vessels, the draw shall open on Monday thru Friday from 6:20 a.m. to 7:20 p.m. on signal at 20 and 50 minutes after the hour, and the draw shall open on Saturday, Sunday and Federal Holidays from 7:20 a.m. to 8:20 p.m. on signal at 20 and 50 minutes after the hour, and on signal at all other times.
 
 (g) The draw of the Long Beach Bridge across Reynolds Channel, mile 4.7, shall open on signal; except that:
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 41187, July 9, 2020.
 
 (2) From April 1 through October 31, on Saturday, Sunday, and Federal holidays every three hours beginning at 3 a.m.
 
-[CGD3 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD3 84-51, 50 FR 2546, Jan. 17, 1985; CGD01-99-080, 64 FR 46275, Aug. 25, 1999; CGD01-04-025, 69 FR 34570, June 22, 2004; CGD01-04-047, 70 FR 15765, Mar. 29, 2005; USCG-2001-10881, 71 FR 70312, Dec. 4, 2006; USCG-2012-0144, 77 FR 22495, Apr. 16, 2012; USCG-2012-1040, 78 FR 6730, Jan. 31, 2013]
+[CGD3 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD3 84-51, 50 FR 2546, Jan. 17, 1985; CGD01-99-080, 64 FR 46275, Aug. 25, 1999; CGD01-04-025, 69 FR 34570, June 22, 2004; CGD01-04-047, 70 FR 15765, Mar. 29, 2005; USCG-2001-10881, 71 FR 70312, Dec. 4, 2006; USCG-2012-0144, 77 FR 22495, Apr. 16, 2012; USCG-2012-1040, 78 FR 6730, Jan. 31, 2013; USCG-2020-0052, 85 FR 41187, July 9, 2020]

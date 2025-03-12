@@ -1,7 +1,5 @@
 ##### § 679.22 Closures. #####
 
-Link to an amendment published at 85 FR 41431, July 10, 2020.
-
 (a) *BSAI* - (1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
 
 (2) *Zone 1 (516) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 516 of Zone 1 in the Bering Sea Subarea during the period March 15 through June 15.
@@ -144,6 +142,6 @@ Link to an amendment published at 85 FR 41431, July 10, 2020.
 
 (h) *CDQ fisheries closures.* See § 679.7(d)(5) for time and area closures that apply to the CDQ fisheries once the non-Chinook salmon PSQ and crab PSQ amounts have been reached.
 
-(i) *Forage fish, grenadiers, and squids closures.* See § 679.20(i)(3).
+(i) *Forage fish, grenadiers, squids, and sculpins closures.* See § 679.20(i)(3).
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

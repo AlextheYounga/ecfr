@@ -1,5 +1,7 @@
 ##### § 412.29 Classification criteria for payment under the inpatient rehabilitation facility prospective payment system. #####
 
+Link to an amendment published at 85 FR 48462, Aug. 10, 2020.
+
 To be excluded from the prospective payment systems described in § 412.1(a)(1) and to be paid under the prospective payment system specified in § 412.1(a)(3), an inpatient rehabilitation hospital or an inpatient rehabilitation unit of a hospital (otherwise referred to as an IRF) must meet the following requirements:
 
 (a) Have (or be part of a hospital that has) a provider agreement under part 489 of this chapter to participate as a hospital.

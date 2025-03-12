@@ -1,5 +1,7 @@
 ##### § 630.1201 Purpose, applicability, and administration. #####
 
+Link to an amendment published at 85 FR 48089, Aug. 10, 2020.
+
 (a) *Purpose.* This subpart provides regulations to implement sections 6381 through 6387 of title 5, United States Code. This subpart must be read together with those sections of law. Sections 6381 through 6387 of title 5, United States Code, provide a standard approach to providing family and medical leave to Federal employees by prescribing an entitlement to a total of 12 administrative workweeks of unpaid leave during any 12-month period for certain family and medical needs, as specified in § 630.1203(a) of this part.
 
 (b) *Applicability.* (1) Except as otherwise provided in this paragraph, this subpart applies to any employee who -

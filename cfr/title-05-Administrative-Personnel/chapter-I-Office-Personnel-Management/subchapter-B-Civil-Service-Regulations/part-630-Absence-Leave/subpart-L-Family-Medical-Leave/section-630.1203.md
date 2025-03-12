@@ -1,5 +1,7 @@
 ##### § 630.1203 Leave entitlement. #####
 
+Link to an amendment published at 85 FR 48090, Aug. 10, 2020.
+
 (a) An employee shall be entitled to a total of 12 administrative workweeks of unpaid leave during any 12-month period for one or more of the following reasons:
 
 (1) The birth of a son or daughter of the employee and the care of such son or daughter;

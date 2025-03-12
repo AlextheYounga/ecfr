@@ -1,5 +1,7 @@
 ##### § 630.1206 Substitution of paid leave. #####
 
+Link to an amendment published at 85 FR 48091, Aug. 10, 2020.
+
 (a) Except as provided in paragraph (b) of this section, leave taken under § 630.1203(a) of this part shall be leave without pay.
 
 (b) An employee may elect to substitute the following paid leave for any or all of the period of leave without pay to be taken under § 630.1203(a) -

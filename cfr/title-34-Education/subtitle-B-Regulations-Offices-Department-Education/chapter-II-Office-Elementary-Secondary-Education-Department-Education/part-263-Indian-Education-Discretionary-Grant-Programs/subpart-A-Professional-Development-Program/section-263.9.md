@@ -1,31 +1,31 @@
-##### § 263.9 What are the requirements for payback deferral? #####
+##### § 263.9 What are the payback requirements? #####
 
-Link to an amendment published at 85 FR 41378, July 10, 2020.Link to an amendment published at 85 FR 41379, July 10, 2020.
+(a) *General.* All participants must—
 
-(a) *Education deferral.* If a participant completes or exits the Professional Development program, but plans to continue his or her education as a full-time student without interruption, in a program leading to a degree at an accredited institution of higher education, the Secretary may defer the payback requirement until the participant has completed his or her educational program.
+(1) Either perform work-related payback or provide cash reimbursement to the Department for the training received. It is the preference of the Department for participants to complete a work-related payback;
 
-(1) A request for a deferral must be submitted to the Secretary within 30 days of completing or exiting the Professional Development program and must provide the following information -
+(2) Sign an agreement, at the time of selection for training, that sets forth the payback requirements; and
 
-(i) The name of the accredited institution the student will be attending;
+(3) Report employment verification in a manner specified by the Department or its designee.
 
-(ii) A copy of the letter of admission from the institution;
+(b) *Work-related payback.* (1) Participants qualify for work-related payback if the work they are performing is in their field of study under the Professional Development program and benefits Indian students. Employment in a LEA that serves a high proportion of Indian students qualifies as work that benefits Indian students.
 
-(iii) The degree being sought; and
+(2) The period of time required for a work-related payback is equivalent to the total period of time for which pre-service or in-service training was actually received on a month-for-month basis under the Professional Development program.
 
-(iv) The projected date of completion.
+(3) Work-related payback is credited for the actual time the participant works, not for how the participant is paid (*e.g.,* for work completed over 9 months but paid over 12 months, the payback credit is 9 months).
 
-(2) If the Secretary approves the deferral of the payback requirement on the basis that a participant is continuing as a full-time student, the participant must submit to the Secretary a status report from an academic advisor or other authorized representative of the institution of higher education, showing verification of enrollment and status, after every grading period.
+(4) For participants that initiate, but cannot complete, a work-related payback, the payback converts to a cash payback that is prorated based upon the amount of work-related payback completed.
 
-(b) *Military deferral.* If a participant exits the Professional Development program because he or she is called or ordered to active duty status in connection with a war, military operation, or national emergency for more than 30 days as a member of a reserve component of the Armed Forces named in 10 U.S.C. 10101, or as a member of the National Guard on full-time National Guard duty, as defined in 10 U.S.C. 101(d)(5), the Secretary may defer the payback requirement until the participant has completed his or her military service, for a period not to exceed 36 months. Requests for deferral must be submitted to the Secretary within 30 days of the earlier of receiving the call to military service or completing or exiting the Professional Development program, and must provide -
+(c) *Cash payback.* (1) Participants who do not submit employment verification within twelve months of program exit or completion, or have not submitted employment verification for a twelve-month period during a work-related payback, will automatically be referred for a cash payback unless the participant qualifies for a deferral as described in § 263.9.
 
-(1) A written statement from the participant's commanding or personnel officer certifying -
+(2) The cash payback required shall be equivalent to the total amount of funds received and expended for training received under this program and may be prorated based on any approved work-related service the participant performs.
 
-(i) That the participant is on active duty in the Armed Forces of the United States;
+(3) Participants who are referred to cash payback may incur non-refundable penalty and administrative fees in addition to their total training costs and will incur interest charges starting the day of referral.
 
-(ii) The date on which the participant's service began; and
+(4) The cash payback obligation may only be discharged through bankruptcy if repaying the loan would cause the participant undue hardship as defined in 11 U.S.C. 523(a)(8).
 
-(iii) The date on which the participant's service is expected to end; or
+(5) Notwithstanding paragraph (c)(1) of this section, participants who exit or complete a grant-funded training program in Federal fiscal year 2020 (October 1, 2019-September 30, 2020) who do not submit employment verification within 24 months of program exit or completion, and participants with qualifying employment during Federal fiscal year 2020 who do not submit employment verification for a 24-month period, will automatically be referred for a cash payback unless the participant qualifies for a deferral as described in § 263.9.
 
-(2)(i) A true certified copy of the participant's official military orders; and
+*Note to § 263.9:* For grants that provide administrator training, a participant who has received administrator training and subsequently works for a Tribal educational agency that provides administrative control or direction of public schools (*e.g.,* BIE-funded schools or charter schools) satisfies the requirements of paragraph (b)(1) of this section.
 
-(ii) A copy of the participant's military identification.
+[80 FR 22412, Apr. 22, 2015, as amended at 85 FR 38079, June 25, 2020. Redesignated and amended at 85 FR 41379, July 10, 2020]

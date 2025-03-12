@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 85 FR 41431, July 10, 2020.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -1165,6 +1163,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Scallop license* means a license issued by NMFS that authorizes the license holder to catch and retain scallops pursuant to the conditions specified on the license.
 
 *Scallop Registration Area H (Cook Inlet)* means all Federal waters of the GOA west of the longitude of Cape Fairfield (148°50′ W. long.) and north of the latitude of Cape Douglas (58°52′ N. lat.).
+
+*Sculpins* (see Table 2c to this part and § 679.20(i)).
 
 *Seabird* means those bird species that habitually obtain their food from the sea below the low water mark.
 

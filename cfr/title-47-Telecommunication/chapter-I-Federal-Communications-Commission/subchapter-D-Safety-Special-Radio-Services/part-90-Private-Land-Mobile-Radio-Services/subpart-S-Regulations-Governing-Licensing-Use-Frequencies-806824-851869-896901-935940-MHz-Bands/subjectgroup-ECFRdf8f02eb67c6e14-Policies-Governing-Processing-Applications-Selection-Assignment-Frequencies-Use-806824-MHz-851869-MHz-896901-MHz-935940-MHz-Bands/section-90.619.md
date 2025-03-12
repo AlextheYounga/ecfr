@@ -1,6 +1,6 @@
 ##### § 90.619 Operations within the U.S./Mexico and U.S./Canada border areas. #####
 
-Link to an amendment published at 85 FR 41418, July 10, 2020.Link to an amendment published at 85 FR 43140, July 16, 2020.
+Link to an amendment published at 85 FR 43140, July 16, 2020.
 
 (a) *Use of frequencies in 800 MHz band in Mexico border region.* All operations in the 806-824/851-869 MHz band within 110 km (68.35 miles) of the U.S./Mexico border (“Sharing Zone”) shall be in accordance with international agreements between the U.S. and Mexico.
 
@@ -36,20 +36,20 @@ Table A2 - Limits on Effective Radiated Power (ERP) and Antenna Height
 
 (4) Stations authorized on U.S.-Mexico co-primary channels in the Sharing Zone are permitted to exceed a maximum power flux density (PFD) of −107 db(W/m2) per 25 kHz of bandwidth at any point at or beyond the border only if all potentially affected counterpart operators of 800 MHz high density cellular systems, as defined in § 90.7, agree.
 
-(5) Channels in the Sharing Zone are available for licensing as indicated in Table A3 below.
+(5) Channels in the Sharing Zone are available for licensing as indicated in Table A3 to this paragraph (a)(5).
 
 Table A3 - Eligibility Requirements for Channels in Sharing Zone
 
 |Channels|                 Eligibility requirements                 |
 |--------|----------------------------------------------------------|
-| 1-230  |    Report and Order of Gen.  <br/>Docket No. 87-112.     |
-|231-315 |                   Public Safety Pool.                    |
+| 1-230  |       Report and Order in Gen. Docket No. 87-112.        |
+|231-315a|                   Public Safety Pool.                    |
 |316-550 |                    General Category.                     |
 |551-830 |Special Mobilized Radio for 800 MHz High Density Cellular.|
 
 (i) Channel numbers 1-230 are also available to eligible applicants in the Public Safety Category in the Canada Border Regions. The assignment of these channels will be done in accordance with the policies defined in the Report and Order of Gen. Docket No. 87-112 (See § 90.16). The following channels are available only for mutual aid purposes as defined in Gen. Docket No. 87-112: Channels 1, 39, 77, 115, 153. Mobile and portable radios operating on the mutual aid channels shall employ analog FM emission.
 
-(ii) Channels 231-315 are available to applicants eligible in the Public Safety Category which consists of licensees eligible in the Public Safety Pool of subpart B of this part. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels.
+(ii) Channels 231-315a are available to applicants eligible in the Public Safety Category which consists of licensees eligible in the Public Safety Pool of subpart B of this part. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels.
 
 (iii) Channels 316-550 are available in the General Category. All entities are eligible for licensing on these channels. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels.
 

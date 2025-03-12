@@ -1,5 +1,7 @@
 ##### § 630.1213 Records and reports. #####
 
+Link to an amendment published at 85 FR 48092, Aug. 10, 2020.
+
 (a) So that OPM can evaluate the use of family and medical leave by Federal employees and provide the Congress and others with information about the use of this entitlement, each agency shall maintain records on employees who take leave under this subpart and submit to OPM such records and reports as OPM may require.
 
 (b) At a minimum, each agency shall maintain the following information concerning each employee who takes leave under this subpart:
