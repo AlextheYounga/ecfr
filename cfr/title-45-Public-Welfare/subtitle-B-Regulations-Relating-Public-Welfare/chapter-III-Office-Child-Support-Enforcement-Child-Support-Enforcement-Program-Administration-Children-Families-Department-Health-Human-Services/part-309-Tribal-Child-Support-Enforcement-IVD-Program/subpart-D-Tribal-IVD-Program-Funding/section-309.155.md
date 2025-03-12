@@ -1,7 +1,5 @@
 ##### § 309.155 What uses of Tribal IV-D program funds are not allowable? #####
 
-Link to an amendment published at 85 FR 35208, June 9, 2020.
-
 Federal IV-D funds may not be used for:
 
 (a) Activities related to administering other programs, including those under the Social Security Act;
@@ -16,4 +14,6 @@ Federal IV-D funds may not be used for:
 
 (f) The cost of guardians ad litem in Tribal IV-D cases; and
 
-(g) All other costs that are not reasonable, necessary, and allocable to Tribal IV-D programs, under the costs principles in OMB Circular A-87.
+(g) All other costs that are not reasonable, necessary, and allocable to Tribal IV-D programs, under the costs principles in 45 CFR part 75, subpart E.
+
+[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020]

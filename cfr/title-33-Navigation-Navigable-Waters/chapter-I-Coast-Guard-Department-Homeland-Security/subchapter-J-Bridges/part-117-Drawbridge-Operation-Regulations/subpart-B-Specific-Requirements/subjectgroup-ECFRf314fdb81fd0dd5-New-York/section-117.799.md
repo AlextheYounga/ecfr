@@ -1,5 +1,7 @@
 ##### § 117.799 Long Island, New York Inland Waterway from East Rockaway Inlet to Shinnecock Canal. #####
 
+Link to an amendment published at 85 FR 41187, July 9, 2020.
+
 (a) At all times, public vessels of the United States must be passed through the drawspan of each drawbridge listed in this section as soon as possible.
 
 (b) The draw of each bridge listed in this section need not be opened for sailing vessels, unless the vessels are under machinery power or under tow, if an opening would unduly delay other vessel or vehicular traffic.

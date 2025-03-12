@@ -1,7 +1,5 @@
 ##### § 307.11 Functional requirements for computerized support enforcement systems in operation by October 1, 2000. #####
 
-Link to an amendment published at 85 FR 35208, June 9, 2020.
-
 At a minimum, each State's computerized support enforcement system established and operated under the title IV-D State plan at § 302.85(a)(2) of this chapter must:
 
 (a) Be planned, designed, developed, installed or enhanced, and operated in accordance with an initial and annually updated APD approved under § 307.15 of this part;
@@ -44,9 +42,11 @@ At a minimum, each State's computerized support enforcement system established a
 
 (3) Automatic use of enforcement procedures, including those under section 466(c) of the Act if payments are not timely, and the following procedures:
 
-(i) Identify cases which have been previously identified as involving a noncustodial parent who is a recipient of SSI payments or concurrent SSI payments and Social Security Disability Insurance (SSDI) benefits under title II of the Act, to prevent garnishment of these funds from the noncustodial parent's financial account; and
+(i) Identify cases which have been previously identified as involving a noncustodial parent who is a recipient of Supplemental Security Income (SSI) payments or concurrent SSI payments and Social Security Disability Insurance (SSDI) or Social Security Retirement (SSR) benefits under title II of the Act, to prevent garnishment of these funds from the noncustodial parent's financial account; and
 
-(ii) Return funds to a noncustodial parent, within 5 business days after the agency determines that SSI payments or concurrent SSI payments and SSDI benefits under title II of the Act, in the noncustodial parent's financial account have been incorrectly garnished.
+(ii) Return funds to a noncustodial parent, within 5 business days after the agency determines that SSI payments or concurrent SSI payments and SSDI or SSR benefits under title II of the Act, in the noncustodial parent's financial account have been incorrectly garnished.
+
+(iii) At the option of the State, identify cases involving a noncustodial parent who is a recipient of concurrent SSI payments and either SSDI or SSR benefits under title II of the Act and prevent garnishment of these funds from the noncustodial parent through an income withholding order; and return funds to a noncustodial parent in accordance with § 303.100(a)(8), after the agency determines that concurrent SSI payments and either SSDI or SSR benefits have been incorrectly garnished from the noncustodial parent through an income withholding order.
 
 (d) Expedited Administrative Procedures. To the maximum extent feasible, be used to implement the expedited administrative procedures required by section 466(c) of the Act.
 
@@ -150,4 +150,4 @@ At a minimum, each State's computerized support enforcement system established a
 
 (4) Exchanging information with other agencies of the State, and agencies of other States, and interstate information networks, as necessary and appropriate, to assist the State and other States in carrying out the purposes of this chapter.
 
-[63 FR 44815, Aug. 21, 1998, as amended at 81 FR 93568, Dec. 20, 2016]
+[63 FR 44815, Aug. 21, 1998, as amended at 81 FR 93568, Dec. 20, 2016; 85 FR 35208, June 9, 2020]

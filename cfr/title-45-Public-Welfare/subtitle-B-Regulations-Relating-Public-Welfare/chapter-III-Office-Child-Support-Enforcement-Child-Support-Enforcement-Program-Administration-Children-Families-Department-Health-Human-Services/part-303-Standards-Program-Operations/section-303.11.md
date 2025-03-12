@@ -1,7 +1,5 @@
 ##### § 303.11 Case closure criteria. #####
 
-Link to an amendment published at 85 FR 35207, June 9, 2020.
-
 (a) The IV-D agency shall establish a system for case closure.
 
 (b) The IV-D agency may elect to close a case if the case meets at least one of the following criteria and supporting documentation for the case closure decision is maintained in the case record:
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 35207, June 9, 2020.
 
 (i) Supplemental Security Income (SSI) payments made in accordance with sections 1601 *et seq.,* of title XVI of the Act, 42 U.S.C. 1381 *et seq.;* or
 
-(ii) Both SSI payments and Social Security Disability Insurance (SSDI) benefits under title II of the Act.
+(ii) Both SSI payments and either Social Security Disability Insurance (SSDI) or Social Security Retirement (SSR) benefits under title II of the Act.
 
 (10) The noncustodial parent is a citizen of, and lives in, a foreign country, does not work for the Federal government or a company with headquarters or offices in the United States, and has no reachable domestic income or assets; and there is no Federal or State treaty or reciprocity with the country;
 
@@ -100,4 +98,4 @@ Link to an amendment published at 85 FR 35207, June 9, 2020.
 
 (e) The IV-D agency must retain all records for cases closed in accordance with this section for a minimum of 3 years, in accordance with 45 CFR 75.361.
 
-[81 FR 93564, Dec. 20, 2016]
+[81 FR 93564, Dec. 20, 2016, as amended at 85 FR 35207, June 9, 2020]

@@ -1,7 +1,5 @@
 ##### § 303.7 Provision of services in intergovernmental IV-D cases. #####
 
-Link to an amendment published at 85 FR 35207, June 9, 2020.
-
 (a) *General responsibilities.* A State IV-D agency must:
 
 (1) Establish and use procedures for managing its intergovernmental IV-D caseload that ensure provision of necessary services as required by this section and include maintenance of necessary records in accordance with § 303.2 of this part;
@@ -116,6 +114,6 @@ Link to an amendment published at 85 FR 35207, June 9, 2020.
 
 (2) Each State IV-D agency may recover its costs of providing services in intergovernmental non-IV-A cases in accordance with § 302.33(d) of this chapter, except that a IV-D agency may not recover costs from an FRC or from a foreign obligee in that FRC, when providing services under sections 454(32) and 459A of the Act.
 
-(f) *Imposition and reporting of annual $25 fee in interstate cases.* The title IV-D agency in the initiating State must impose and report the annual $25 fee in accordance with § 302.33(e) of this chapter.
+(f) *Imposition and reporting of annual $35 fee in interstate cases.* The title IV-D agency in the initiating State must impose and report the annual $35 fee in accordance with § 302.33(e) of this chapter.
 
-[75 FR 38642, July 2, 2010, as amended at 81 FR 93564, Dec. 20, 2016]
+[75 FR 38642, July 2, 2010, as amended at 81 FR 93564, Dec. 20, 2016; 85 FR 35207, June 9, 2020]

@@ -1,7 +1,5 @@
 ##### § 302.33 Services to individuals not receiving title IV-A assistance. #####
 
-Link to an amendment published at 85 FR 35207, June 9, 2020.
-
 (a) *Availability of Services.* (1) The State plan must provide that the services established under the plan shall be made available to any individual who:
 
 (i) Files an application for the services with the IV-D agency. In an interstate case, only the initiating State may require an application under this section; or
@@ -58,15 +56,15 @@ Link to an amendment published at 85 FR 35207, June 9, 2020.
 
 (6) The IV-D agency must notify the IV-D agencies in all other States if it recovers costs from the individual receiving IV-D services.
 
-(e) *Annual $25 fee.* (1) A State must impose in, and report for, a Federal fiscal year an annual fee of $25 for each case if there is an individual in the case to whom IV-D services are provided and:
+(e) *Annual collection fee.* (1) A State must impose in, and report for, a Federal fiscal year an annual fee of $35 for each case if there is an individual in the case to whom IV-D services are provided and:
 
-(i) For whom the State has collected and disbursed to the family at least $500 of support in that year; and
+(i) For whom the State has collected and disbursed to the family at least $550 of support in that year; and
 
 (ii) No individual in the case has received assistance under a former State AFDC program, assistance as defined in § 260.31 under a State TANF program, or assistance as defined in § 286.10 under a Tribal TANF program.
 
-(2) The State must impose the annual $25 fee in international cases under section 454(32) of the Act in which the criteria for imposition of the annual $25 fee under paragraph (1) of this section are met.
+(2) The State must impose the annual $35 fee in international cases under section 454(32) of the Act in which the criteria for imposition of the annual $35 fee under paragraph (1) of this section are met.
 
-(3) For each Federal fiscal year, after the first $500 of support is collected and disbursed to the family, the fee must be collected by one or more of the following methods:
+(3) For each Federal fiscal year, after the first $550 of support is collected and disbursed to the family, the fee must be collected by one or more of the following methods:
 
 (i) Retained by the State from support collected in cases subject to the fee in accordance with distribution requirements in § 302.51(a)(5) of this part, except that no cost will be assessed for such services against:
 
@@ -80,8 +78,8 @@ Link to an amendment published at 85 FR 35207, June 9, 2020.
 
 (iv) Paid by the State out of its own funds.
 
-(4) The State must report, in accordance with § 302.15 of this part and instructions issued by the Secretary, the total amount of annual $25 fees imposed under this section for each Federal fiscal year as program income, regardless of which method or methods are used under paragraph (3) of this section.
+(4) The State must report, in accordance with § 302.15 of this part and instructions issued by the Secretary, the total amount of annual $35 fees imposed under this section for each Federal fiscal year as program income, regardless of which method or methods are used under paragraph (3) of this section.
 
-(5) State funds used to pay the annual $25 fee shall not be considered administrative costs of the State for the operation of the title IV-D plan, and all annual $25 fees imposed during a Federal fiscal year must be considered income to the program, in accordance with § 304.50 of this chapter.
+(5) State funds used to pay the annual $35 fee shall not be considered administrative costs of the State for the operation of the title IV-D plan, and all annual $25 fees imposed during a Federal fiscal year must be considered income to the program, in accordance with § 304.50 of this chapter.
 
-(Approved by the Office of Management and Budget under control numbers 0960-0253, 0960-0385, 0960-0402, and 0970-0107)[49 FR 36772, Sept. 19, 1984, as amended at 50 FR 19648, May 9, 1985; 51 FR 37731, Oct. 24, 1986; 56 FR 8003, Feb. 26, 1991; 61 FR 67240, Dec. 20, 1996; 73 FR 74919, Dec. 9, 2008; 81 FR 93561, Dec. 20, 2016]
+(Approved by the Office of Management and Budget under control numbers 0960-0253, 0960-0385, 0960-0402, and 0970-0107)[49 FR 36772, Sept. 19, 1984, as amended at 50 FR 19648, May 9, 1985; 51 FR 37731, Oct. 24, 1986; 56 FR 8003, Feb. 26, 1991; 61 FR 67240, Dec. 20, 1996; 73 FR 74919, Dec. 9, 2008; 81 FR 93561, Dec. 20, 2016; 85 FR 35207, June 9, 2020]

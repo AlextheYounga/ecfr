@@ -1,7 +1,5 @@
 ##### § 309.75 What administrative and management procedures must a Tribe or Tribal organization include in a Tribal IV-D plan? #####
 
-Link to an amendment published at 85 FR 35208, June 9, 2020.
-
 A Tribe or Tribal organization must include in its Tribal IV-D plan the administrative and management provisions contained in this section:
 
 (a) A description of the structure of the IV-D agency and the distribution of responsibilities within the agency.
@@ -10,7 +8,7 @@ A Tribe or Tribal organization must include in its Tribal IV-D plan the administ
 
 (c) Procedures under which notices of support collected, itemized by month of collection, are provided to families receiving services under the Tribal IV-D program at least once a year. In addition, a notice must be provided at any time to either the custodial or noncustodial parent upon request.
 
-(d) A certification that for each year during which the Tribe or Tribal organization receives or expends funds pursuant to section 455(f) of the Act and this part, it shall comply with the provisions of chapter 75 of Title 31 of the United States Code (the Single Audit Act of 1984, Pub. L. 98-502, as amended) and OMB Circular A-133.
+(d) A certification that for each year during which the Tribe or Tribal organization receives or expends funds pursuant to section 455(f) of the Act and this part, it shall comply with the provisions of chapter 75 of Title 31 of the United States Code (the Single Audit Act of 1984, Pub. L. 98-502, as amended) and 45 CFR part 75, subpart F.
 
 (e) If the Tribe or Tribal organization intends to charge an application fee or recover costs in excess of the fee, the Tribal IV-D plan must provide that:
 
@@ -25,3 +23,5 @@ A Tribe or Tribal organization must include in its Tribal IV-D plan the administ
 (3) No application fee may be charged to an individual receiving services under titles IV-A, IV-E foster care maintenance assistance, or XIX (Medicaid) of the Act.
 
 (4) The Tribal IV-D agency must exclude from its quarterly expenditure claims an amount equal to all fees which are collected and costs recovered during the quarter.
+
+[69 FR 16672, Mar. 30, 2004, as amended at 85 FR 35208, June 9, 2020]
