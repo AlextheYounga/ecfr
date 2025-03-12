@@ -1,7 +1,5 @@
 ##### § 208.5 Contents of petition. #####
 
-Link to an amendment published at 86 FR 18185, Apr. 8, 2021.Link to a correction published at 86 FR 19781, Apr. 15, 2021.
-
 (a) *Nature of the claim.* Each petition filed under this subpart shall state whether the petition:
 
 (1) Claims that a request by a person of Mexico to receive a grant of authority that is pending as of the date of the filing of the petition threatens to cause material harm to a United States long-haul trucking services industry; or
@@ -52,8 +50,10 @@ Link to an amendment published at 86 FR 18185, Apr. 8, 2021.Link to a correction
 
 (v) With respect to claims of material harm or the threat of material harm to the industry as a whole or within the claimed specific sub-market, data regarding whether there has been or is a threat of a significant loss in the share of the United States market as a whole, or in the claimed specific sub-market, to persons of Mexico, as defined in § 208.2(l); and
 
-(vi) Any other relevant information, including pricing information and any evidence of cross-border long-haul trucking services lost to persons of Mexico in the market as a whole or claimed specific sub-market.
+(vi) Any other relevant information, including freight rates and any evidence of cross-border long-haul trucking services lost to persons of Mexico in the market as a whole or claimed specific sub-market.
 
 (f) *Cause of injury.* Each petition shall include an enumeration and description of the causes believed to be resulting in the material harm, or threat thereof, and a statement regarding the extent to which one or more grants of authority are believed to be such a cause of material harm or the threat thereof to the United States industry as a whole or in a sub-market thereof, supported by pertinent data and information;
 
 (g) *Relief sought and purpose thereof.* A statement describing the relief sought.
+
+[85 FR 41357, July 10, 2020, as amended at 86 FR 18185, Apr. 8, 2021]

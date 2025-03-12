@@ -1448,7 +1448,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Pelham       |                        \*6                        |
 |       Perry        |                        32                         |
 |        Rome        |                        31                         |
-|      Savannah      |                  \*9, 11, 22, 39                  |
+|      Savannah      |                  \*9, 22, 23, 39                  |
 |    Thomasville     |                        46                         |
 |       Toccoa       |                        24                         |
 |      Valdosta      |                        43                         |

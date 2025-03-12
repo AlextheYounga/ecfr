@@ -1,4 +1,4 @@
-##### § 3.7 Information furnished to Board - program review. #####
+##### § 3.7 Information furnished to Board—program review. #####
 
 (a) To enable the Board to review the Postal Service operating program, postal management shall furnish the Board information on all aspects of the Postal Service budget plan, including:
 
@@ -10,7 +10,7 @@
 
 (4) Debt financing needs, including a review of all borrowings of the Postal Service from the U.S. Treasury and private sources.
 
-(b) To enable the Board to review the effectiveness of the Postal Service's equal employment opportunity program, performance data relating to this program shall be furnished to the Board at least quarterly. These data shall be categorized in such manner as the Board, from time to time, specifies.
+(b) To enable the Board to review the effectiveness of the Postal Service's equal employment opportunity program, performance data relating to this program shall be furnished to the Board at least annually. These data shall be categorized in such manner as the Board, from time to time, specifies.
 
 (c) Postal management shall also regularly furnish the Board information regarding major programs for improving postal service or reducing the cost of postal operations.
 
@@ -20,4 +20,4 @@
 
 (f) At the reasonable request of the Board, Postal management shall furnish to the Board such other information as the Board deems necessary.
 
-[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10013, Feb. 18, 2021]
+[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10013, Feb. 18, 2021; 86 FR 24713, May 10, 2021]

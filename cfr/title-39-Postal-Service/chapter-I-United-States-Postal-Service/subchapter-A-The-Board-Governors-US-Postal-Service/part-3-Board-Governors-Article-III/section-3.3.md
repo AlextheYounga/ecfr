@@ -6,8 +6,6 @@ The following matters are reserved for decision by the Board of Governors:
 
 (b) Approval of the annual Postal Service Integrated Financial Plan, which shall include the Financing Plan, the Operating Plan, and the Capital Plan.
 
-(3) Approval of the annual Postal Service Capital Plan.
-
 (c) Approval of the annual financial statements of the Postal Service following receipt of the annual report of the Postal Service's independent, certified public accounting firm.
 
 (d) Approval of any use of the authority of the Postal Service to borrow money under 39 U.S.C. 2005 and 39 U.S.C. 2011, except for short-term borrowings, having maturities of one year or less, assumed in the normal course of business.
@@ -32,12 +30,4 @@ The following matters are reserved for decision by the Board of Governors:
 
 (n) All other matters that the Board may consider appropriate to reserve for its decision by resolution adopted by the Board, pursuant to § 3.5.
 
-(o) Approval of the annual comprehensive statement of the Postal Service to Congress under 39 U.S.C. 2401(e).
-
-(p) Approval and transmittal to the Congress of the semi-annual report of the Postmaster General under 39 U.S.C. 3013, summarizing the investigative activities of the Postal Service.
-
-(q) Approval and transmittal to the President and the Congress of the Postal Service's strategic plan pursuant to the Government Performance and Results Act of 1993, 39 U.S.C. 2802; approval of the Postal Service annual performance plan under 39 U.S.C. 2803 and the Postal Service program performance report under 39 U.S.C. 2804, which are included in the comprehensive statement under 39 U.S.C. 2401.
-
-(r) All other matters that the Board may consider appropriate to reserve for its decision.
-
-[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10012, Feb. 18, 2021]
+[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10012, Feb. 18, 2021; 86 FR 24713, May 10, 2021]

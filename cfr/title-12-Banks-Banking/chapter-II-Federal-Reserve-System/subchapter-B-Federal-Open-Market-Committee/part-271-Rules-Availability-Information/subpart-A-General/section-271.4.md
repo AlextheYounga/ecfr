@@ -1,0 +1,3 @@
+##### § 271.4 Prohibition against disclosure. #####
+
+Except as provided in this part or as otherwise authorized, no officer, employee, or agent of the Board or any Reserve Bank shall disclose or permit the disclosure of any exempt information of the Committee to any person other than Board or Reserve Bank officers, employees, or agents properly entitled to such information in the performance of duties for, or pursuant to the direction of, the Committee.

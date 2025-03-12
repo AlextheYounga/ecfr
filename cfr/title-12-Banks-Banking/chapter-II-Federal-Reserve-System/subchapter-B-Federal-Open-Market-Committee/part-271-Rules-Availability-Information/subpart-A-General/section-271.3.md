@@ -1,0 +1,5 @@
+##### § 271.3 Certification of record; service of subpoenas or other process. #####
+
+(a) *Certification of record.* The secretary of the Committee may certify the authenticity of any Committee record, or any copy of such record, for any purpose, and for or before any duly constituted Federal or state court, tribunal, or agency.
+
+(b) *Service of subpoenas or other process.* Subpoenas or other judicial or administrative process demanding access to any Committee records or making any claim against the Committee or against Committee members or staff in their official capacity shall be addressed to and served upon the Secretary of the Committee, Federal Open Market Committee, 20th Street & Constitution Avenue NW, Washington, DC 20551. The Committee does not accept service of process on behalf of any employee in respect of purely private legal disputes.
