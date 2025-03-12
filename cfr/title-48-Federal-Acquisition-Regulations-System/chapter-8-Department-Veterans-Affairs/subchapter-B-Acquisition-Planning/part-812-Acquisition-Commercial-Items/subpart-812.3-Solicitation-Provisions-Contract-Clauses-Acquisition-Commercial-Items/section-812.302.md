@@ -1,5 +1,7 @@
 ##### 812.302 Tailoring of provisions and clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 85 FR 16905, Mar. 25, 2020.
+
 (a) Contracting officers may tailor solicitations to be inconsistent with customary commercial practice if they prepare and obtain approval of a waiver under paragraph (c) of this section.
 
 (b) The contracting officer must prepare the waiver in accordance with FAR 12.302(c). The waiver is subject to the tailoring prohibitions in FAR 12.302(b)(1) through 12.302(b)(6).

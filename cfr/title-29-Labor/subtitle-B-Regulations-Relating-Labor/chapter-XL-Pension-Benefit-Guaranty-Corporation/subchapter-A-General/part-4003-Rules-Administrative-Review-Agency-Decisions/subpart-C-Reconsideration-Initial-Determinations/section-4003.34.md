@@ -1,13 +1,15 @@
-##### § 4003.34 Form and contents of request for reconsideration. #####
+##### § 4003.34 Contents of request for reconsideration. #####
 
-Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
-
-A request for reconsideration shall -
+A request for reconsideration must—
 
 (a) Be in writing;
 
 (b) Be clearly designated as a request for reconsideration;
 
-(c) Contain a statement of the grounds for reconsideration and the relief sought; and
+(c) Specifically explain why PBGC's determination is wrong and the result the requestor is seeking;
 
-(d) Reference all pertinent information already in the possession of the PBGC and include any additional information believed to be relevant.
+(d) Describe the relevant information the requestor believes is known by PBGC and summarize any other information that is relevant to the request for reconsideration; and
+
+(e) Include copies of any documentation that supports the requestor's claim or assertions.
+
+[85 FR 10284, Feb. 24, 2020]

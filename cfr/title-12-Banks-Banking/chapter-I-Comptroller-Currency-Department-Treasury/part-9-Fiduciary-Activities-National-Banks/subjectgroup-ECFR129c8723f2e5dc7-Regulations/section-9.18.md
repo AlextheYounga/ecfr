@@ -122,6 +122,14 @@
 
 (*3*) Facilitate the fair and orderly liquidation of the STIF to the benefit of all STIF participants.
 
+(iv) *Reservation of authority.* Notwithstanding paragraph (b)(4)(iii)(B) of this section, during periods of market stress negatively affecting, on a temporary basis, the ability of banks to operate STIFs in compliance with the requirements of the paragraph:
+
+(A) The OCC may issue an administrative order specifying, for purposes of paragraph (b)(4)(iii)(B) of this section, temporary revisions to the length of the dollar-weighted average portfolio maturity requirement, the length of dollar-weighted average portfolio life maturity, and the manner of determining such limits;
+
+(B) A bank seeking to comply with paragraph (b)(4)(iii)(B) will be deemed to be in compliance with that paragraph's requirements by complying with the limits or other revisions, and any applicable conditions, described in the administrative order; and
+
+(C) The OCC will publish the administrative order on *www.occ.gov* and through other methods, as appropriate.
+
 (5) *Admission and withdrawal of accounts* - (i) *In general.* A bank administering a collective investment fund shall admit an account to or withdraw an account from the fund only on the basis of the valuation described in paragraph (b)(4) of this section.
 
 (ii) *Prior request or notice.* A bank administering a collective investment fund may admit an account to or withdraw an account from a collective investment fund only if the bank has approved a request for or a notice of intention of taking that action on or before the valuation date on which the admission or withdrawal is based. No requests or notices may be canceled or countermanded after the valuation date.
@@ -198,4 +206,4 @@
 
 (iv) The manner in which the proposed fund addresses the rights and interests of participating accounts.
 
-[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017]
+[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017; 85 FR 16892, Mar. 25, 2020]

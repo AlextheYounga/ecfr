@@ -1,8 +1,6 @@
 ##### § 120.19 Reexport. #####
 
-Link to an amendment published at 84 FR 70892, Dec. 26, 2019.
-
-(a) *Reexport,* except as set forth in § 126.16 or § 126.17, means:
+(a) *Reexport,* except as set forth in § 120.54, § 126.16, or § 126.17, means:
 
 (1) An actual shipment or transmission of a defense article from one foreign country to another foreign country, including the sending or taking of a defense article to or from such countries in any manner;
 
@@ -12,4 +10,4 @@ Link to an amendment published at 84 FR 70892, Dec. 26, 2019.
 
 (b) Any release outside the United States of technical data to a foreign person is deemed to be a reexport to all countries in which the foreign person has held or holds citizenship or holds permanent residency.
 
-[81 FR 35616, June 3, 2016, as amended at 81 FR 62008, Sept. 8, 2016]
+[81 FR 35616, June 3, 2016, as amended at 81 FR 62008, Sept. 8, 2016; 84 FR 70892, Dec. 26, 2019]

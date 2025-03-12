@@ -1,8 +1,6 @@
 ##### § 4003.54 Contents of appeal. #####
 
-Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
-
-(a) An appeal shall -
+(a) An appeal must—
 
 (1) Be in writing;
 
@@ -16,6 +14,6 @@ Link to an amendment published at 85 FR 10284, Feb. 24, 2020.
 
 (6) State whether the appellant desires to present witnesses to testify before the Appeals Board, and if so, state why the presence of witnesses will further the decision-making process.
 
-(b) In any case where the appellant believes that another person may be aggrieved if the PBGC grants the relief sought, the appeal shall also include the name(s) and address(es) (if known) of such other person(s).
+(b) In any case where the appellant believes that another person may be aggrieved if PBGC grants the relief sought, the appeal must also include the name(s) and address(es) (if known) of such other person(s).
 
-[61 FR 34012, July 1, 1996, as amended at 73 FR 38120, July 3, 2008]
+[61 FR 34012, July 1, 1996, as amended at 73 FR 38120, July 3, 2008; 85 FR 10284, Feb. 24, 2020]

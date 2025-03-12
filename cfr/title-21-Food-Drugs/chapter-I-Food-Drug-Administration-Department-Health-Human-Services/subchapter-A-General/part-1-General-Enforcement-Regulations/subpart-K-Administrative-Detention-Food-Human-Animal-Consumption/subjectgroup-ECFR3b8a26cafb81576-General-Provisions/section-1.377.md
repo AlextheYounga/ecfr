@@ -4,7 +4,7 @@ The definitions of terms that appear in section 201 of the act (21 U.S.C. 321) a
 
 *Act* means the Federal Food, Drug, and Cosmetic Act.
 
-*Authorized FDA representative* means an FDA District Director in whose district the article of food involved is located or an FDA official senior to such director.
+*Authorized FDA representative* means an FDA Division Director in whose division the article of food involved is located or an FDA official senior to such director.
 
 *Calendar day* means every day shown on the calendar.
 
@@ -17,3 +17,5 @@ The definitions of terms that appear in section 201 of the act (21 U.S.C. 321) a
 *Working day* means any day from Monday through Friday, excluding Federal holidays.
 
 *You* means any person who received the detention order or that person's representative.
+
+[69 FR 31701, June 4, 2004, as amended at 85 FR 16550, Mar. 24, 2020]

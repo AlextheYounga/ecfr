@@ -1,5 +1,7 @@
 ##### 813.307 Forms. #####
 
+Link to an amendment published at 85 FR 16906, Mar. 25, 2020.
+
 (a) The following forms provide a purchase or delivery order, vendor's invoice, and receiving report:
 
 (1) VA Form 90-2138, Order for Supplies or Services.

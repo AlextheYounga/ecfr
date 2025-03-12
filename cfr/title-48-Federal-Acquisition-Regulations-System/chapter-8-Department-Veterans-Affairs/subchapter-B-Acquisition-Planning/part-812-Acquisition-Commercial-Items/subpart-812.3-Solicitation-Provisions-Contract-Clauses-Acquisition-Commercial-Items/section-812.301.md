@@ -1,5 +1,7 @@
 ##### 812.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 85 FR 16905, Mar. 25, 2020.
+
 (a) Regardless of provisions in other parts of the VAAR, contracting officers may use, as appropriate, only those provisions and clauses referred to in this part when acquiring commercial items.
 
 (b) Contracting officers may use the provisions and clauses in the following VAAR sections, as appropriate and in accordance with the prescriptions for the provisions and clauses, in requests for quotations, solicitations, and contracts:
