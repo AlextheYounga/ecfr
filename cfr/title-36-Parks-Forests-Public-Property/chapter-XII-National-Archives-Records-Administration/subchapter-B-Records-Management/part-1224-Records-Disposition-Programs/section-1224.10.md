@@ -1,5 +1,7 @@
 ##### § 1224.10 What must agencies do to implement an effective records disposition program? #####
 
+Link to an amendment published at 88 FR 28416, May 4, 2023.
+
 In order to properly implement the provisions of §§ 1220.30(c)(2), 1220.32(e), and 1220.34(c), (f), and (g) of this subchapter agencies must:
 
 (a) Ensure that all records are scheduled in accordance with part 1225 of this subchapter, schedules are implemented in accordance with part 1226 of this subchapter, and permanent records are transferred to the National Archives of the United States.

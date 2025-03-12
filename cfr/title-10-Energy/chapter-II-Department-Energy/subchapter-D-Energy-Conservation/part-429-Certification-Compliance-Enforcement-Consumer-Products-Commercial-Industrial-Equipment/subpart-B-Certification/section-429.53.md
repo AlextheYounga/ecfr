@@ -1,5 +1,7 @@
 ##### § 429.53 Walk-in coolers and walk-in freezers. #####
 
+Link to an amendment published at 88 FR 28835, May 4, 2023.
+
 (a) *Determination of represented value.* (1) The requirements of § 429.11 apply to walk-in coolers and walk-in freezers; and
 
 (2) For each basic model of walk-in cooler and walk-in freezer refrigeration system, the annual walk-in energy factor (AWEF) must be determined either by testing, in accordance with § 431.304 of this chapter and the provisions of this section, or by application of an AEDM that meets the requirements of § 429.70 and the provisions of this section.

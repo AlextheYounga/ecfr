@@ -1,5 +1,7 @@
 ##### § 431.303 Materials incorporated by reference. #####
 
+Link to an amendment published at 88 FR 28838, May 4, 2023.
+
 (a) *General.* Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Any amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval. To enforce any edition other than that specified in this section, the U.S. Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza SW., Washington, DC 20024, 202-586-2945, between 9 a.m. and 4 p.m., Monday through Friday, except Federal holidays, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/* ], and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
 (b) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Boulevard, Suite 500, Arlington, VA 22201, (703) 600-0366, or *http://www.ahrinet.org.*

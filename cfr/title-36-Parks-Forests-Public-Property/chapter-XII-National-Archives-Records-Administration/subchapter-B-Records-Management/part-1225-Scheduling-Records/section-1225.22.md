@@ -1,5 +1,7 @@
 ##### § 1225.22 When must scheduled records be rescheduled? #####
 
+Link to an amendment published at 88 FR 28416, May 4, 2023.
+
 Agencies must submit an SF 115, Request for Records Disposition Authority, to NARA in the following situations:
 
 (a) If an interagency reorganization reassigns functions to an existing department or agency, the gaining organization must submit an SF 115 to NARA within one year of the reorganization. Schedules approved for one department or independent agency do not apply to records of other departments or agencies.

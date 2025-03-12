@@ -12,4 +12,4 @@
 
 (b) *Veterinary devices.* An ACE filer must submit the data specified in § 1.72 at the time of filing entry in ACE for veterinary devices.
 
-[81 FR 85870, Nov. 29, 2016, as amended at 87 FR 62984, Oct. 18, 2022]
+[87 FR 62984, Oct. 18, 2022]

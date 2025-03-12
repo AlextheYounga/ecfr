@@ -1,5 +1,7 @@
 ##### § 20.40 Filing a request for records. #####
 
+(a) All requests for Food and Drug Administration records shall be made in writing by mailing or delivering the request to the Freedom of Information Staff at the address on the Agency's website at *https://www.fda.gov,* by faxing it to the fax number listed on the Agency's website at *https://www.fda.gov,* or by submission through the Agency's online FOIA submission portal at *https://www.fda.gov.* All requests must contain the postal address and telephone number of the requester and the name of the person responsible for payment of any fees that may be charged.
+
 (b) A request for Food and Drug Administration records shall reasonably describe the records being sought, in a way that they can be identified and located. A request should include all pertinent details that will help identify the records sought.
 
 (1) If the description is insufficient to locate the records requested, the Food and Drug Administration will so notify the person making the request and indicate the additional information needed to identify the records requested.

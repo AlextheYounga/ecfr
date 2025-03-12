@@ -1,7 +1,5 @@
 ##### § 0.96 Delegations. #####
 
-Link to an amendment published at 88 FR 19839, Apr. 4, 2023.
-
 The Director of the Bureau of Prisons is authorized to exercise or perform any of the authority, functions, or duties conferred or imposed upon the Attorney General by any law relating to the commitment, control, or treatment of persons (including insane prisoners and juvenile delinquents) charged with or convicted of offenses against the United States, including the taking of final action in the following-described matters:
 
 (a) Requesting the detail of Public Health Service officers for the purpose of furnishing services to Federal penal and correctional institutions (18 U.S.C. 4005).
@@ -44,4 +42,12 @@ The Director of the Bureau of Prisons is authorized to exercise or perform any o
 
 (t) Contracting, for a period not exceeding three years, with the proper authorities of any State, Territory, or political subdivision thereof, for the imprisonment, subsistence, care, and proper employment of persons convicted of offenses against the United States (18 U.S.C. 4002).
 
-[Order No. 1617-92, 57 FR 38772, Aug. 27, 1992, as amended by Order No. 1884-94, 59 FR 29717, June 9, 1994; Order No. 2204-99, 64 FR 4295, Jan. 28, 1999]
+(u) With respect to the authorities granted under the Coronavirus Aid, Relief, and Economic Security (CARES) Act:
+
+(1) During the “covered emergency period” as defined by the CARES Act, when the Attorney General determines that emergency conditions will materially affect the functioning of the Bureau of Prisons (Bureau), lengthening the maximum amount of time for which the Director is authorized to place a prisoner in home confinement under 18 U.S.C. 3624(c)(2), as the Director determines appropriate.
+
+(2) After the expiration of the “covered emergency period” as defined by the CARES Act, permitting any prisoner placed in home confinement under the CARES Act who is not yet otherwise eligible for home confinement under separate statutory authority to remain in home confinement under the CARES Act for the remainder of the prisoner's sentence, as the Director determines appropriate, provided the prisoner is compliant with all conditions of supervision. In the event a prisoner violates the conditions of supervision, Bureau staff may return the prisoner to secure custody, or may utilize progressive discipline as outlined in the Residential Reentry Center (RRC) contract, which may include possible placement in an RRC or contract facility in lieu of direct return to secure custody.
+
+(3) This paragraph (u) concerns only inmates placed in home confinement under the CARES Act. It has no effect on any other inmate, including those placed in home confinement under separate statutory authorities.
+
+[Order No. 1617-92, 57 FR 38772, Aug. 27, 1992, as amended by Order No. 1884-94, 59 FR 29717, June 9, 1994; Order No. 2204-99, 64 FR 4295, Jan. 28, 1999; Order No. 5641-2023, 88 FR 19839, Apr. 4, 2023]

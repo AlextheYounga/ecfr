@@ -1,5 +1,7 @@
 ##### § 431.304 Uniform test method for the measurement of energy consumption of walk-in coolers and walk-in freezers. #####
 
+Link to an amendment published at 88 FR 28839, May 4, 2023.
+
 (a) *Scope.* This section provides test procedures for measuring, pursuant to EPCA, the energy consumption of walk-in coolers and walk-in freezers.
 
 (b) Determine the energy efficiency and/or energy consumption of the specified walk-in cooler and walk-in freezer components by conducting the appropriate test procedure as follows:

@@ -1,6 +1,6 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 88 FR 11396, Feb. 23, 2023.Link to an amendment published at 88 FR 24479, Apr. 21, 2023.
+Link to an amendment published at 88 FR 24479, Apr. 21, 2023.
 
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
@@ -278,4 +278,24 @@ Link to an amendment published at 88 FR 11396, Feb. 23, 2023.Link to an amendmen
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022; 87 FR 30417, May 19, 2022; 87 FR 51612, Aug. 23, 2022; 87 FR 54153, Sept. 2, 2022; 87 FR 76934, Dec. 16, 2022]
+(13) *System identifier and name.* DoD-0017, “Privacy and Civil Liberties Complaints and Correspondence.”
+
+(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3); (d)(1), (2), (3), and (4); (e)(1); (e)(4)(G), (H), and (I); and (f).
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections of the Privacy Act of 1974, as amended, pursuant to exemption (k)(1) is justified for the following reasons:
+
+(A) *Subsections (c)(3), (d)(1), and (d)(2).* Records in this system of records may contain information concerning individuals that is properly classified pursuant to executive order. Application of exemption (k)(1) for such records may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security. Accordingly, application of exemption (k)(1) may be necessary.
+
+(B) *Subsections (d)(3) and (4).* These subsections are inapplicable to the extent an exemption is claimed from (d)(1) and (d)(2).
+
+(C) *Subsection (e)(1).* Records within this system may be properly classified pursuant to executive order. In the collection of information for privacy and civil liberties complaints or correspondence, it is not always possible to conclusively determine the relevance and necessity of particular information in the early stages of gathering information to respond to the correspondence or complaint. Additionally, disclosure of classified records to an individual may cause damage to national security. Accordingly, application of exemption (k)(1) may be necessary.
+
+(D) *Subsections (e)(4)(G) and (H) and Subsection (f).* These subsections are inapplicable to the extent exemption is claimed from the access and amendment provisions of subsection (d). Because portions of this system are exempt from the individual access and amendment provisions of subsection (d) for the reasons noted above, DoD is not required to establish requirements, rules, or procedures with respect to such access or amendment provisions. Providing notice to individuals with respect to the existence of records pertaining to them in the system of records or otherwise setting up procedures pursuant to which individuals may access, view, and seek to amend records pertaining to themselves in the system would potentially undermine national security and the confidentiality of classified information. Accordingly, application of exemption (k)(1) may be necessary.
+
+(E) *Subsection (e)(4)(I).* To the extent that this provision is construed to require more detailed disclosure than the broad information currently published in the system notice concerning categories of sources of records in the system, an exemption from this provision is necessary to protect national security and the confidentiality of sources and methods, and other classified information.
+
+(iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022; 87 FR 30417, May 19, 2022; 87 FR 51612, Aug. 23, 2022; 87 FR 54153, Sept. 2, 2022; 87 FR 76934, Dec. 16, 2022; 88 FR 11396, Feb. 23, 2023]

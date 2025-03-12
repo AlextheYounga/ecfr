@@ -1,5 +1,7 @@
 ##### § 429.110 Enforcement testing. #####
 
+Link to an amendment published at 88 FR 28837, May 4, 2023.
+
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
 (2) For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h), when determining compliance with an energy conservation standard based on IEER, DOE may test for enforcement if DOE has reason to believe that a basic model is not in compliance, has invalid certified operational settings for critical parameter values, or has an otherwise invalid certified rating.

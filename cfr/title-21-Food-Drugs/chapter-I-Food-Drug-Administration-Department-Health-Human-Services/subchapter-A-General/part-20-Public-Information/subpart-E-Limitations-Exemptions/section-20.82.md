@@ -5,7 +5,8 @@
 (1) The Agency reasonably foresees that disclosure would harm an interest protected by an exemption described in this part; or
 
 (2) Disclosure is prohibited by law. FDA shall exercise its discretion to disclose such records whenever it determines that such disclosure is in the public interest, will promote the objectives of the Freedom of Information Act and the Agency, and is, for example, consistent with the rights of individuals to privacy, the property rights of persons in trade secrets, and the need for the Agency to promote frank internal policy deliberations and to pursue its regulatory activities without disruption.
-P\>(b) The Commissioner shall not make available for public disclosure any record that is:
+
+(b) The Commissioner shall not make available for public disclosure any record that is:
 
 (1) Exempt from public disclosure pursuant to § 20.61.
 

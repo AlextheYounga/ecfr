@@ -1,5 +1,7 @@
 ##### § 1236.2 What definitions apply to this part? #####
 
+Link to an amendment published at 88 FR 28416, May 4, 2023.
+
 (a) See § 1220.18 of this subchapter for definitions of terms used throughout Subchapter B, including part 1236.
 
 (b) As used in part 1236—

@@ -1,5 +1,7 @@
 ##### § 431.302 Definitions concerning walk-in coolers and walk-in freezers. #####
 
+Link to an amendment published at 88 FR 28838, May 4, 2023.
+
 *Adaptive defrost* means a factory-installed defrost control system that reduces defrost frequency by initiating defrosts or adjusting the number of defrosts per day in response to operating conditions (*e.g.,* moisture levels in the refrigerated space, measurements that represent coil frost load) rather than initiating defrost strictly based on compressor run time or clock time.
 
 *Basic model* means all components of a given type of walk-in cooler or walk-in freezer (or class thereof) manufactured by one manufacturer, having the same primary energy source, and which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and
