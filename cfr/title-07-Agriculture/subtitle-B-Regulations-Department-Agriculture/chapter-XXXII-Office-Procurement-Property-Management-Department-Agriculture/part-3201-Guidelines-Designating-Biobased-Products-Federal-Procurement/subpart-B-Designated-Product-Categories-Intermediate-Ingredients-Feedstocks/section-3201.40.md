@@ -1,5 +1,7 @@
 ##### § 3201.40 Laundry products. #####
 
+Link to an amendment published at 84 FR 32020, July 5, 2019.
+
 (a) *Definitions.* (1) Products that are designed to clean, condition, or otherwise affect the quality of the laundered material. Such products include but are not limited to laundry detergents, bleach, stain removers, and fabric softeners.
 
 (2) Laundry products for which preferred procurement applies are:

@@ -1,7 +1,5 @@
 ##### § 15.33 Frequency range of radiated measurements. #####
 
-Link to an amendment published at 84 FR 25691, June 4, 2019.
-
 (a) For an intentional radiator, the spectrum shall be investigated from the lowest radio frequency signal generated in the device, without going below 9 kHz, up to at least the frequency shown in this paragraph:
 
 (1) If the intentional radiator operates below 10 GHz: to the tenth harmonic of the highest fundamental frequency or to 40 GHz, whichever is lower.
@@ -10,7 +8,9 @@ Link to an amendment published at 84 FR 25691, June 4, 2019.
 
 (3) If the intentional radiator operates at or above 30 GHz: to the fifth harmonic of the highest fundamental frequency or to 200 GHz, whichever is lower, unless specified otherwise elsewhere in the rules.
 
-(4) If the intentional radiator contains a digital device, regardless of whether this digital device controls the functions of the intentional radiator or the digital device is used for additional control or function purposes other than to enable the operation of the intentional radiator, the frequency range shall be investigated up to the range specified in paragraphs (a)(1) through (a)(3) of this section or the range applicable to the digital device, as shown in paragraph (b)(1) of this section, whichever is the higher frequency range of investigation.
+(4) If the intentional radiator operates at or above 95 GHz: To the third harmonic of the highest fundamental frequency or to 750 GHz, whichever is lower, unless specified otherwise elsewhere in the rules.
+
+(5) If the intentional radiator contains a digital device, regardless of whether this digital device controls the functions of the intentional radiator or the digital device is used for additional control or function purposes other than to enable the operation of the intentional radiator, the frequency range shall be investigated up to the range specified in paragraphs (a)(1) through (4) of this section or the range applicable to the digital device, as shown in paragraph (b)(1) of this section, whichever is the higher frequency range of investigation.
 
 (b) For unintentional radiators:
 
@@ -38,4 +38,4 @@ Link to an amendment published at 84 FR 25691, June 4, 2019.
 
 (d) Particular attention should be paid to harmonics and subharmonics of the fundamental frequency as well as to those frequencies removed from the fundamental by multiples of the oscillator frequency. Radiation at the frequencies of multiplier states should also be checked.
 
-[54 FR 17714, Apr. 25, 1989, as amended at 61 FR 14502, Apr. 2, 1996; 63 FR 42278, Aug. 7, 1998]
+[54 FR 17714, Apr. 25, 1989, as amended at 61 FR 14502, Apr. 2, 1996; 63 FR 42278, Aug. 7, 1998; 84 FR 25691, June 4, 2019]

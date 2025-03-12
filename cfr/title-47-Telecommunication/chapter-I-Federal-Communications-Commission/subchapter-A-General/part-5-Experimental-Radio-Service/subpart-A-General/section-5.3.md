@@ -1,7 +1,5 @@
 ##### § 5.3 Scope of service. #####
 
-Link to an amendment published at 84 FR 25690, June 4, 2019.
-
 Stations operating in the Experimental Radio Service will be permitted to conduct the following type of operations:
 
 (a) Experimentations in scientific or technical radio research.
@@ -26,4 +24,8 @@ Stations operating in the Experimental Radio Service will be permitted to conduc
 
 (k) Product development and market trials.
 
-(l) Types of experiments that are not specifically covered under paragraphs (a) through (k) of this section will be considered upon demonstration of need for such additional types of experiments.
+(l) Marketing of equipment designed to operate only on frequencies above 95 GHz.
+
+(m) Types of experiments that are not specifically covered under paragraphs (a) through (l) of this section will be considered upon demonstration of need for such additional types of experiments.
+
+[78 FR 25162, Apr. 29, 2013, as amended at 84 FR 25690, June 4, 2019]

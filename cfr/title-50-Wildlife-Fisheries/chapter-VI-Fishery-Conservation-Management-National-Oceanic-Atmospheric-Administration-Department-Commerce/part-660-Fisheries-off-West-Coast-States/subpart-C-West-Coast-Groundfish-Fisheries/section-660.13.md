@@ -4,6 +4,18 @@ Link to an amendment published at 84 FR 31158, June 28, 2019.
 
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
+(1) *Trawl logbook.* In the absence of a state trawl logbook requirement based on the port of landing, the authorized representative of the commercial trawl fishing vessel registered to a limited entry permit with a trawl gear endorsement participating in the Shorebased IFQ Program groundfish trawl fisheries must keep and submit a complete and accurate record of fishing activities in the trawl logbook form. The following requirements apply:
+
+(i) The authorized representative of the vessel must keep the trawl logbook form on board the vessel while engaged in, or returning from, all Shorebased IFQ Program trips using groundfish trawl gear, and must immediately surrender the logbook form upon demand to NMFS or other authorized officers.
+
+(ii) The authorized representative of the vessel must complete the trawl logbook form on all Shorebased IFQ Program trips using groundfish trawl gear, with all available information, except for information not yet ascertainable, prior to entering port. The logbook form must be completed as soon as the information becomes available. The information on the logbook form will include at a minimum: Vessel name, vessel trip start and end dates, crew size, tow start, tow completion, location of tow, average depth of catch, net type, target strategy, and estimated retained pounds by species.
+
+(iii) The authorized representative of the vessel must deliver the NMFS copy of the trawl logbook form by mail or in person to NMFS or its agent. The authorized representative of the vessel must transmit the logbook form on or before the 10th day of each month following the month to which the records pertain.
+
+(iv) The authorized representative of the vessel responsible for submitting the trawl logbook forms must maintain a copy of all submitted logbooks for up to three years after the fishing activity ended.
+
+(2) [Reserved]
+
 (b) Any person who is required to do so by the applicable state law must make and/or file, retain, or make available any and all reports (*i.e.,* logbooks, state landing receipts, etc.) of groundfish harvests and landings containing all data, and in the exact manner, required by the applicable state law.
 
 (c) Any person landing groundfish must retain on board the vessel from which groundfish is landed, and provide to an authorized officer upon request, copies of any and all reports of groundfish landings containing all data, and in the exact manner, required by the applicable state law throughout the cumulative limit period during which a landing occurred and for 15 days thereafter.
@@ -90,4 +102,4 @@ Link to an amendment published at 84 FR 31158, June 28, 2019.
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 32098, July 5, 2019]

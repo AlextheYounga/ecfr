@@ -1,7 +1,5 @@
 ##### § 64.2103 Retention of call attempt records. #####
 
-Link to an amendment published at 84 FR 25706, June 4, 2019.
-
 (a) Except as described in § 64.2107, each covered provider shall record and retain information about each call attempt to a rural OCN from subscriber lines for which the covered provider makes the initial long-distance call path choice in a readily retrievable form for a period that includes the six most recent complete calendar months.
 
 (b) Affiliated covered providers may record and retain the information required by this rule individually or in the aggregate.
@@ -32,4 +30,6 @@ Link to an amendment published at 84 FR 25706, June 4, 2019.
 
 (9) An indication whether the call attempt was completed to the incumbent local exchange carrier but signaled as busy, ring no answer, or unassigned number. This indication may take the form of an SS7 signaling cause code or SIP signaling message code associated with each call attempt.
 
-[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 82 FR 11594, Mar. 4, 2015; 82 FR 19615, Apr. 28, 2017]
+(g) The provisions of this section shall expire on September 15, 2020.
+
+[78 FR 76239, Dec. 17, 2013, as amended at 79 FR 73227, Dec. 10, 2014; 82 FR 11594, Mar. 4, 2015; 82 FR 19615, Apr. 28, 2017; 84 FR 25706, June 4, 2019]

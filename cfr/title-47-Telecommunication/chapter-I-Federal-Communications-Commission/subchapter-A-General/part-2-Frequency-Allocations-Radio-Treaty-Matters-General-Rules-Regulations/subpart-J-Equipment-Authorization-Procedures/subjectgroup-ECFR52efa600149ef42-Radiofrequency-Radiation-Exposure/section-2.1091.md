@@ -1,7 +1,5 @@
 ##### § 2.1091 Radiofrequency radiation exposure evaluation: mobile devices. #####
 
-Link to an amendment published at 84 FR 25689, June 4, 2019.
-
 (a) Requirements of this section are a consequence of Commission responsibilities under the National Environmental Policy Act to evaluate the environmental significance of its actions. See subpart I of part 1 of this chapter, in particular § 1.1307(b).
 
 (b) For purposes of this section, a mobile device is defined as a transmitting device designed to be used in other than fixed locations and to generally be used in such a way that a separation distance of at least 20 centimeters is normally maintained between the transmitter's radiating structure(s) and the body of the user or nearby persons. In this context, the term “fixed location” means that the device is physically secured at one location and is not able to be easily moved to another location. Transmitting devices designed to be used by consumers or workers that can be easily re-located, such as wireless devices associated with a personal computer, are considered to be mobile devices if they meet the 20 centimeter separation requirement.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 25689, June 4, 2019.
 
 (ii) They operate at frequencies above 1.5 GHz and their ERP is 3 watts or more.
 
-(2) Unlicensed personal communications service devices, unlicensed millimeter-wave devices, and unlicensed NII devices authorized under §§ 15.255(g), 15.257(g), 15.319(i), and 15.407(f) of this chapter are also subject to routine environmental evaluation for RF exposure prior to equipment authorization or use if their ERP is 3 watts or more or if they meet the definition of a portable device as specified in § 2.1093(b) requiring evaluation under the provisions of that section.
+(2) Unlicensed personal communications service devices, unlicensed millimeter-wave devices, and unlicensed NII devices authorized under §§ 15.255(g), 15.257(g), 15.258, 15.319(i), and 15.407(f) of this chapter are also subject to routine environmental evaluation for RF exposure prior to equipment authorization or use if their ERP is 3 watts or more or if they meet the definition of a portable device as specified in § 2.1093(b) requiring evaluation under the provisions of that section.
 
 (3) All other mobile and unlicensed transmitting devices are categorically excluded from routine environmental evaluation for RF exposure prior to equipment authorization or use, except as specified in §§ 1.1307(c) and 1.1307(d) of this chapter.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 84 FR 25689, June 4, 2019.
 
 (4) In some cases, e.g., modular or desktop transmitters, the potential conditions of use of a device may not allow easy classification of that device as either mobile or portable (also see § 2.1093). In such cases, applicants are responsible for determining minimum distances for compliance for the intended use and installation of the device based on evaluation of either specific absorption rate (SAR), field strength or power density, whichever is most appropriate.
 
-[61 FR 41017, Aug. 7, 1996, as amended at 62 FR 4655, Jan. 31, 1997; 62 FR 9658, Mar. 3, 1997; 62 FR 47966, Sept. 12, 1997; 68 FR 38638, June 30, 2003; 69 FR 3264, Jan. 23, 2004; 70 FR 24725, May 11, 2005; 78 FR 21559, Apr. 11, 2013; 78 FR 29062, May 17, 2013; 78 FR 33651, June 4, 2013; 80 FR 36221, June 23, 2015; 81 FR 79936, Nov. 14, 2016; 82 FR 43870, Sept. 20, 2017]
+[61 FR 41017, Aug. 7, 1996, as amended at 62 FR 4655, Jan. 31, 1997; 62 FR 9658, Mar. 3, 1997; 62 FR 47966, Sept. 12, 1997; 68 FR 38638, June 30, 2003; 69 FR 3264, Jan. 23, 2004; 70 FR 24725, May 11, 2005; 78 FR 21559, Apr. 11, 2013; 78 FR 29062, May 17, 2013; 78 FR 33651, June 4, 2013; 80 FR 36221, June 23, 2015; 81 FR 79936, Nov. 14, 2016; 82 FR 43870, Sept. 20, 2017; 84 FR 25689, June 4, 2019]

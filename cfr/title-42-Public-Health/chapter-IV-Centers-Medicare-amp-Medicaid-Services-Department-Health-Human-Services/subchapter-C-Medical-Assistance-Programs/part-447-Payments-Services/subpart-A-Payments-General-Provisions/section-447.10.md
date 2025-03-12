@@ -1,7 +1,5 @@
 ##### § 447.10 Prohibition against reassignment of provider claims. #####
 
-Link to an amendment published at 84 FR 19728, May 6, 2019.
-
 (a) *Basis and purpose.* This section implements section 1902(a)(32) of the Act which prohibits State payments for Medicaid services to anyone other than a provider or beneficiary, except in specified circumstances.
 
 (b) *Definitions.* For purposes of this section:
@@ -40,8 +38,6 @@ Link to an amendment published at 84 FR 19728, May 6, 2019.
 
 (3) A foundation, plan, or similar organization operating an organized health care delivery system, if the practitioner has a contract under which the organization submits the claim.
 
-(4) In the case of a class of practitioners for which the Medicaid program is the primary source of service revenue, payment may be made to a third party on behalf of the individual practitioner for benefits such as health insurance, skills training and other benefits customary for employees.
-
 (h) *Prohibition of payment to factors.* Payment for any service furnished to a beneficiary by a provider may not be made to or through a factor, either directly or by power of attorney.
 
-[43 FR 45253, Sept. 29, 1978, as amended at 46 FR 42672, Aug. 24, 1981; 61 FR 38398, July 24, 1996; 79 FR 3039, Jan. 16, 2014]
+[43 FR 45253, Sept. 29, 1978, as amended at 46 FR 42672, Aug. 24, 1981; 61 FR 38398, July 24, 1996; 79 FR 3039, Jan. 16, 2014; 84 FR 19728, May 6, 2019]

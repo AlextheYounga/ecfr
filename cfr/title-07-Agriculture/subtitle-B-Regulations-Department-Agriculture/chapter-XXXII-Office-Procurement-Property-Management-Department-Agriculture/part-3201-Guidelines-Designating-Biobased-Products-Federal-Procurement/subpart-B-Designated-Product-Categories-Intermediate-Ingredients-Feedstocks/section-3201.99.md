@@ -1,5 +1,7 @@
 ##### § 3201.99 Water clarifying agents. #####
 
+Link to an amendment published at 84 FR 32021, July 5, 2019.
+
 (a) *Definition.* Products designed to clarify and improve the quality of water by reducing contaminants such as excess nitrites, nitrates, phosphates, ammonia, and built-up sludge from decaying waste and other organic matter.
 
 (b) *Minimum biobased content.* The Federal preferred procurement product must have a minimum biobased content of at least 92 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the weight (mass) of the total organic carbon in the finished product.

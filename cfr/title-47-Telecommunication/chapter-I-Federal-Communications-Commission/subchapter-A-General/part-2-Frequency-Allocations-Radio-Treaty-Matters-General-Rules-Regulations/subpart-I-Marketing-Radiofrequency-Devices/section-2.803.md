@@ -1,7 +1,5 @@
 ##### § 2.803 Marketing of radio frequency devices prior to equipment authorization. #####
 
-Link to an amendment published at 84 FR 25689, June 4, 2019.
-
 (a) Marketing, as used in this section, includes sale or lease, or offering for sale or lease, including advertising for sale or lease, or importation, shipment, or distribution for the purpose of selling or leasing or offering for sale or lease.
 
 (b) *General rule.* No person may market a radio frequency device unless:
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 25689, June 4, 2019.
 
 (c) *Exceptions.* The following marketing activities are permitted prior to equipment authorization:
 
-(1) Activities under market trials conducted pursuant to subpart H of part 5.
+(1) Activities conducted under market trials pursuant to subpart H of part 5 of this chapter or in accordance with a Spectrum Horizons experimental radio license issued pursuant to subpart I of part 5.
 
 (2) Limited marketing is permitted, as described in the following text, for devices that could be authorized under the current rules; could be authorized under waivers of such rules that are in effect at the time of marketing; or could be authorized under rules that have been adopted by the Commission but that have not yet become effective. These devices may not be operated unless permitted by § 2.805.
 
@@ -46,4 +44,4 @@ FCC NOTICE: This kit is designed to allow:
 
 (d) *Importation.* The provisions of subpart K of this part continue to apply to imported radio frequency devices.
 
-[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017]
+[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017; 84 FR 25689, June 4, 2019]
