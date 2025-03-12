@@ -1,7 +1,5 @@
 ##### § 622.384 Quotas. #####
 
-Link to an amendment published at 88 FR 29848, May 9, 2023.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. See § 622.369 for the descriptions of the zones. This section provides quotas and specific quota closure restrictions for coastal migratory pelagic fish. All weights are in round and eviscerated weight combined, unless specified otherwise.
 
 (a) King and Spanish mackerel quotas apply to persons who fish under commercial vessel permits for king or Spanish mackerel, as required under § 622.370(a)(1) or (3). A fish is counted against the quota for the area where it is caught, not where it is landed.
@@ -16,15 +14,15 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (B) The run-around gillnet quota is 629,664 lb (285,611 kg) for the 2021-2022 fishing year, 653,184 lb (296,279 kg) for the 2022-2023 fishing year, and 671,328 lb (304,509 kg) for the 2023-2024 and subsequent fishing years.
 
-(2) *Atlantic migratory group.* The Atlantic migratory group is divided into northern and southern zones. The descriptions of the zones are specified in § 622.369(a). Quotas for the northern and southern zones for the 2016-2017 fishing year and subsequent years are as follows:
+(2) *Atlantic migratory group.* The Atlantic migratory group is divided into northern and southern zones. The descriptions of the zones are specified in § 622.369(a). Quotas for the northern and southern zones are as follows:
 
-(i) *Northern zone.* The quota is 1,497,600 lb (679,300 kg) for the 2016-2017 fishing year, 1,359,360 lb (616,595 kg) for the 2017-2018 fishing year, 1,198,080 lb (543,440 kg) for the 2018-2019 fishing year and 1,082,880 lb (491,186 kg) for the 2019-2020 fishing year and subsequent fishing years. No more than 0.40 million lb (0.18 million kg) may be harvested by purse seine gear.
+(i) *Northern zone.* The quota is 2,663,507 lb (1,208,146 kg) for the 2022-2023 fishing year, 2,306,207 lb (1,046,078 kg) for the 2023-2024 fishing year, 2,062,594 lb (935,577 kg) for the 2024-2025 fishing year, 1,892,064 lb (858,226 kg) for the 2025-2026 fishing year, and 1,770,258 lb (802,976 kg) for the 2026-2027 and subsequent fishing years. No more than 0.40 million lb (0.18 million kg) may be harvested by purse seine gear.
 
-(ii) *Southern zone.* The annual quota is 5,002,400 lb (2,269,050 kg) for the 2016-2017 fishing year, 4,540,640 lb (2,059,600 kg) for the 2017-2018 fishing year, 4,001,920 lb (1,815,240 kg) for the 2018-2019 fishing year and 3,617,120 lb (1,640,698 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(ii) *Southern zone.* The quota is 8,896,853 lb (4,035,545 kg) for the 2022-2023 fishing year, 7,703,373 lb (3,494,191 kg) for the 2023-2024 fishing year, 6,889,636 lb (3,125,086 kg) for the 2024-2025 fishing year, 6,320,021 lb (2,866,713 kg) for the 2025-2026 fishing year, and 5,913,152 lb (2,682,161 kg) for the 2026-2027 and subsequent fishing years.
 
-(A) For the period March 1 through September 30, each year, the seasonal quota is 3,001,440 lb (1,361,430 kg) for the 2016-2017 fishing year, 2,724,384 lb (1,235,760 kg) for the 2017-2018 fishing year, 2,401,152 lb (1,089,144 kg) for the 2018-2019 fishing year and 2,170,272 lb (984,419 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(A) For the period March 1 through September 30, each year, the seasonal quota is 5,338,112 lb (2,421,327 kg) for the 2022-2023 fishing year, 4,622,024 lb (2,096,515 kg) for the 2023-2024 fishing year, 4,133,782 lb (1,875,052 kg) for the 2024-2025 fishing year, 3,792,012 lb (1,720,028 kg) for the 2025-2026 fishing year, and 3,547,891 lb (1,609,296 kg) for the 2026-2027 fishing year and subsequent fishing years.
 
-(B) For the period October 1 through the end of February each year, the seasonal quota is 2,000,960 lb (907,620 kg) for the 2016-2017 fishing year, 1,816,256 lb (823,840 kg) for the 2017-2018 fishing year, 1,600,768 lb (726,096 kg) for the 2018-2019 fishing year and 1,446,848 lb (656,279 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(B) For the period October 1 through the end of February each year, the seasonal quota is 3,558,741 lb (1,614,218 kg) for the 2022-2023 fishing year, 3,081,349 lb (1,397,676 kg) for the 2023-2024 fishing year, 2,755,854 lb (1,250,034 kg) for the 2024-2025 fishing year, 2,528,008 lb (1,146,685 kg) for the 2025-2026 fishing year, and 2,365,261 lb (1,072,864 kg) for the 2026-2027 fishing year and subsequent fishing years.
 
 (C) Any unused portion of the quota specified in paragraph (b)(2)(ii)(A) of this section will be added to the quota specified in paragraph (b)(2)(ii)(B) of this section. Any unused portion of the quota specified in paragraph (b)(2)(ii)(B) of this section, including any addition of quota specified in paragraph (b)(2)(ii)(A) of this section that was unused, will become void at the end of the fishing year and will not be added to any subsequent quota.
 
@@ -72,4 +70,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) The sale or purchase of king mackerel, Spanish mackerel, or cobia of the closed species, migratory group, zone, or gear type is prohibited, including any king or Spanish mackerel taken under the bag and possession limits specified in § 622.382(a), or cobia taken under the bag and possession limits specified in § 622.382(b). The prohibition on the sale or purchase during a closure for coastal migratory pelagic fish does not apply to coastal migratory pelagic fish that were harvested, landed ashore, and sold prior to the effective date of the closure and were held in cold storage by a dealer or processor.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017; 84 FR 4736, Feb. 19, 2019; 87 FR 63966, Oct. 21, 2022; 87 FR 74990, Dec. 7, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017; 84 FR 4736, Feb. 19, 2019; 87 FR 63966, Oct. 21, 2022; 87 FR 74990, Dec. 7, 2022; 88 FR 29848, May 9, 2023]

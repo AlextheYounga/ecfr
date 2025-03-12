@@ -4,7 +4,7 @@
 
 (b) Florida Administrative Code (F.A.C.): Florida Fish and Wildlife Conservation Commission, 620 South Meridian Street, Tallahassee, FL 32399; telephone: 850-487-0554; *http://www.flrules.org.*
 
-(1) F.A.C., Chapter 68B-12: King mackerel resource renewal, Rule 68B-12.004: Bag limits, in effect as of July 15, 1996, IBR approved for § 622.382(a).
+(1) [Reserved]
 
 (2) F.A.C., Chapter 68B-24: Spiny lobster (crawfish) and slipper lobster, Rule 68B-24.002: Definitions, amended May 1, 2017, IBR approved for § 622.400(a).
 
@@ -26,4 +26,4 @@
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 37152, July 31, 2019. Redesignated and amended at 87 FR 56216, Sept. 13, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 37152, July 31, 2019. Redesignated and amended at 87 FR 56216, Sept. 13, 2022; 88 FR 29847, May 9, 2023]

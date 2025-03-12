@@ -1,5 +1,7 @@
 ##### § 622.39 Quotas. #####
 
+Link to an amendment published at 88 FR 37478, June 8, 2023.
+
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish*—(1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
