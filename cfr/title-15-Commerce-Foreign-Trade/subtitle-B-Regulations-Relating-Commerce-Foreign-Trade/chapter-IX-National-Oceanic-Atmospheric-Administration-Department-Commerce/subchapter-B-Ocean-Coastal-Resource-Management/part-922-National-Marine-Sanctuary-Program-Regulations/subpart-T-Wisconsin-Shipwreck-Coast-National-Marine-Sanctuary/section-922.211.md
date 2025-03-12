@@ -1,7 +1,5 @@
 ##### § 922.211 Definitions. #####
 
-Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
-
 (a) The following terms are defined for purposes of this subpart:
 
 (1) *Sanctuary resource* means all prehistoric, historic, archaeological, and cultural sites and artifacts within the sanctuary boundary, including all shipwreck sites.

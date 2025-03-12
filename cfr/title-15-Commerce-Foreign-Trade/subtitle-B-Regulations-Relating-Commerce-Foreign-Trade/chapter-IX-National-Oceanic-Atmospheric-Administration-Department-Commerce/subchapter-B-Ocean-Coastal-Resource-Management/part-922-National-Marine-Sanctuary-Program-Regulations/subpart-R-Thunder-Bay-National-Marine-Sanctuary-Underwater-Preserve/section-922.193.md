@@ -1,7 +1,5 @@
 ##### § 922.193 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
-
 (a) Except as specified in paragraphs (b) through (d) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Recovering, altering, destroying, possessing, or attempting to recover, alter, destroy, or possess an underwater cultural resource.
@@ -22,8 +20,10 @@ Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
 
 (c) The prohibitions in paragraphs (a)(1) through (3) of this section do not apply to valid law enforcement activities, or any activity necessary to respond to an emergency threatening life or the environment.
 
-(d) The prohibitions in paragraphs (a) (1) through (3) of this section do not apply to any activity:
+(d) The prohibitions in paragraphs (a)(1) through (3) of this section do not apply to any activity:
 
-(1) Specifically authorized by, and conducted in accordance with the scope, purpose, terms and conditions of, a permit issued pursuant to § 922.195 or a Special Use Permit issued pursuant to section 310 of the NMSA.
+(1) Specifically authorized by, and conducted in accordance with the scope, purpose, terms and conditions of, a permit issued pursuant to § 922.195 or a special use permit issued pursuant to subpart D of this part.
 
-(2) Specifically authorized by any valid Federal, State, or local lease, permit, license, approval, or other authorization in existence on the effective date of these regulations, or by any valid right of subsistence use or access in existence on the effective date of these regulations, provided that the holder of such authorization or right complies with § 922.194 and § 922.47 and with any terms and conditions for the exercise of such authorization or right imposed by the Director as a condition of certification as he or she deems reasonably necessary to achieve the purposes for which the Sanctuary was designated.
+(2) [Reserved]
+
+[65 FR 39056, June 22, 2000, as amended at 88 FR 19829, Apr. 4, 2023]

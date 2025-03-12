@@ -1,0 +1,3 @@
+##### § 922.10 Pre-existing authorizations or rights and certifications of pre-existing authorizations or rights. #####
+
+Any valid lease, permit, license, or right of subsistence use or of access that is in existence on the effective date of final regulations for a designation or revised terms of designation of any National Marine Sanctuary may not be terminated by the Director. The Director may, however, regulate the exercise of such leases, permits, licenses, or rights consistent with the purposes for which the Sanctuary was designated.

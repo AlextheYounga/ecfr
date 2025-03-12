@@ -1,8 +1,6 @@
 ##### § 922.206 Certification of preexisting leases, licenses, permits, approvals, other authorizations, or rights to conduct a prohibited activity. #####
 
-Link to an amendment published at 88 FR 973, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
-
-(a) A person may conduct an activity prohibited by § 922.203(a)(1) through (3) if such activity is specifically authorized by a valid Federal, state, or local lease, permit, license, approval, or other authorization, or tribal right of subsistence use or access in existence prior to the effective date of sanctuary designation and within the sanctuary designated area and complies with § 922.49 and provided that the holder of the lease, permit, license, approval, or other authorization complies with the requirements of paragraph (e) of this section.
+(a) A person may conduct an activity prohibited by § 922.203(a)(1) through (3) if such activity is specifically authorized by a valid Federal, state, or local lease, permit, license, approval, or other authorization, or tribal right of subsistence use or access in existence prior to the effective date of sanctuary designation and within the sanctuary designated area and complies with § 922.10 and provided that the holder of the lease, permit, license, approval, or other authorization complies with the requirements of paragraph (e) of this section.
 
 (b) In considering whether to make the certifications called for in this section, the Director may seek and consider the views of any other person or entity, within or outside the Federal government, and may hold a public hearing as deemed appropriate.
 
@@ -26,6 +24,8 @@ Link to an amendment published at 88 FR 973, Jan. 6, 2023.Link to an amendment p
 
 (i) Upon completion of review of the authorization or right and information received with respect thereto, the Director shall communicate, in writing, any decision on a certification request or any action taken with respect to any certification made under this section, in writing, to both the holder of the certified lease, permit, license, approval, other authorization, or right, and the issuing agency, and shall set forth the reason(s) for the decision or action taken.
 
-(j) The holder may appeal any action conditioning, amending, suspending, or revoking any certification in accordance with the procedures set forth in § 922.50.
+(j) The holder may appeal any action conditioning, amending, suspending, or revoking any certification in accordance with the procedures set forth in § 922.37.
 
 (k) Any time limit prescribed in or established under this section may be extended by the Director for good cause.
+
+[84 FR 32603, July 8, 2019, as amended at 88 FR 973, Jan. 6, 2023]

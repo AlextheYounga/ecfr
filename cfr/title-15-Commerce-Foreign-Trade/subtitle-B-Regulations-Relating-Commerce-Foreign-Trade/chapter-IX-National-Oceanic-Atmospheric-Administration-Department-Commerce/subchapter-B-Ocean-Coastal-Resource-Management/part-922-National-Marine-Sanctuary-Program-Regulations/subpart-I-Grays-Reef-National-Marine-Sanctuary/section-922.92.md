@@ -1,8 +1,6 @@
 ##### § 922.92 Prohibited or otherwise regulated activities—Sanctuary-wide. #####
 
-Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19826, Apr. 4, 2023.
-
-(a) Except as specified in paragraphs (b) through (d) of this section and in § 922.94 regarding additional prohibitions in the research area, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
+(a) Except as may be necessary for national defense (subject to the terms and conditions of Article 5, Section 2 of the Designation Document) or to respond to an emergency threatening life, property, or the environment, or except as may be permitted by the Director in accordance with subpart D of this part and § 922.93 and § 922.94, the following activities are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Dredging, drilling into, or otherwise altering in any way the submerged lands of the Sanctuary (including bottom formations).
 
@@ -42,10 +40,10 @@ Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment p
 
 (iv) For law enforcement purposes.
 
-(b) All activities currently carried out by the Department of Defense within the Sanctuary are essential for the national defense and, therefore, not subject to the prohibitions in this section and § 922.94. The exemption of additional activities having significant impacts shall be determined in consultation between the Director and the Department of Defense.
+(b) All activities currently carried out by the Department of Defense within the Sanctuary are essential for the national defense and, therefore, not subject to the prohibitions in this section and §922.94. The exemption of additional activities having significant impacts shall be determined in consultation between the Director and the Department of Defense.
 
-(c) The prohibitions in this section and in § 922.94 do not apply to any activity conducted under and in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to 15 CFR 922.48 and 922.93.
+(c) The prohibitions in this section and in § 922.94 do not apply to any activity conducted under and in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to subpart D of this part and § 922.93.
 
 (d) The prohibitions in this section and in § 922.94 do not apply to any activity necessary to respond to an emergency threatening life, property, or the environment.
 
-[76 FR 63832, Oct. 14, 2011, as amended at 79 FR 41881, July 18, 2014]
+[76 FR 63832, Oct. 14, 2011, as amended at 79 FR 41881, July 18, 2014; 88 FR 966, Jan. 6, 2023; 88 FR 19826, Apr. 4, 2023]

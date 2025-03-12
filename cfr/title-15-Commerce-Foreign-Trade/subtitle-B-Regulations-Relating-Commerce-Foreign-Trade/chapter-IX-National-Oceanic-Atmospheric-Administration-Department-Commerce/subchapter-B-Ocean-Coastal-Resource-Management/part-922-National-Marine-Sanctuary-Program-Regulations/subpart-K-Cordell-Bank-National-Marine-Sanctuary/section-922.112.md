@@ -1,7 +1,5 @@
 ##### § 922.112 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19827, Apr. 4, 2023.
-
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals.
@@ -40,12 +38,12 @@ Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment p
 
 (9) Interfering with, obstructing, delaying, or preventing an investigation, search, seizure, or disposition of seized property in connection with enforcement of the Act or any regulation or permit issued under the Act.
 
-(b) The prohibitions in paragraph (a) of this section do not apply to activities necessary to respond to an emergency threatening life, property or the environment.
+(b) The prohibitions in paragraph (a) of this section do not apply to activities necessary to respond to an emergency threatening life, property or the environment, or except as may be permitted by the Director in accordance with subpart D of this part and § 922.113.
 
 (c) All activities being carried out by the Department of Defense (DOD) within the Sanctuary on the effective date of designation or expansion of the Sanctuary that are necessary for national defense are exempt from the prohibitions contained in the regulations in this subpart. Additional DOD activities initiated after the effective date of designation or expansion that are necessary for national defense will be exempted by the Director after consultation between the Department of Commerce and DOD. DOD activities not necessary for national defense, such as routine exercises and vessel operations, are subject to all prohibitions contained in the regulations in this subpart.
 
-(d) The prohibitions in paragraphs (a)(2) through (7) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to §§ 922.48 and 922.113 or a Special Use permit issued pursuant to section 310 of the Act.
+(d) The prohibitions in paragraphs (a)(2) through (7) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to subpart D of this part and § 922.113, or a special use permit issued pursuant to subpart D of this part.
 
 (e) Where necessary to prevent immediate, serious, and irreversible damage to a Sanctuary resource, any activity may be regulated within the limits of the Act on an emergency basis for no more than 120 days.
 
-[80 FR 13115, Mar. 12, 2015, as amended at 83 FR 55967, Nov. 9, 2018]
+[80 FR 13115, Mar. 12, 2015, as amended at 83 FR 55967, Nov. 9, 2018; 88 FR 967, Jan. 6, 2023; 88 FR 19827, Apr. 4, 2023]

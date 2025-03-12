@@ -1,7 +1,5 @@
 ##### § 922.82 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19826, Apr. 4, 2023.
-
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Exploring for, developing, or producing oil, gas or minerals.
@@ -64,8 +62,8 @@ Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment p
 
 (b) All activities currently carried out by the Department of Defense within the Sanctuary are essential for the national defense and, therefore, not subject to the prohibitions in this section. The exemption of additional activities shall be determined in consultation between the Director and the Department of Defense.
 
-(c) The prohibitions in paragraph (a) of this section do not apply to activities necessary to respond to an emergency threatening life, property, or the environment.
+(c) The prohibitions in paragraph (a) of this section do not apply to activities necessary to respond to an emergency threatening life, property or the environment, or except as may be permitted by the Director in accordance with subpart D of this part.
 
-(d) The prohibitions in paragraphs (a)(2) through (9) and (a)(11) through (16) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to §§ 922.48 and 922.83 or a Special Use permit issued pursuant to section 310 of the Act.
+(d) The prohibitions in paragraphs (a)(2) through (9) and (11) through (16) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued in accordance with subpart D of this part and § 922.83, or a special use permit issued pursuant to subpart D of this part.
 
-[80 FR 13108, Mar. 12, 2015, as amended at 83 FR 55966, Nov. 9, 2018]
+[80 FR 13108, Mar. 12, 2015, as amended at 83 FR 55966, Nov. 9, 2018; 88 FR 965, Jan. 6, 2023; 88 FR 19826, Apr. 4, 2023]

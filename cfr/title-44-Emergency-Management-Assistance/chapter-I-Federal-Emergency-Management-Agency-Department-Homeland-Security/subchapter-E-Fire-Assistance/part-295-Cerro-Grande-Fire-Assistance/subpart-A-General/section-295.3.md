@@ -1,0 +1,3 @@
+##### § 295.3 Information and assistance. #####
+
+Information and assistance concerning the CGFAA is available from the Office of Cerro Grande Fire Claims (OCGFC), Federal Emergency Management Agency, P.O. Box 1480, Los Alamos, New Mexico, 87544-1480, or telephone 1-888-748-1853 (toll free). The Cerro Grande Fire Assistance site on the World Wide Web can be accessed at *http://www.fema.gov/cerrogrande.* In the interest of brevity, we do not restate the provisions of the CGFAA in most instances. Our website has a copy of the CGFAA and we will provide a copy upon request.

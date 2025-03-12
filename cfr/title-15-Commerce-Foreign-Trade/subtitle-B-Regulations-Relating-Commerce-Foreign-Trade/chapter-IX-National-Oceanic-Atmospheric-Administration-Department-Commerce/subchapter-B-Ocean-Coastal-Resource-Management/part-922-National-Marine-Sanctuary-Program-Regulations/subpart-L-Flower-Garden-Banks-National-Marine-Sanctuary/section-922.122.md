@@ -1,7 +1,5 @@
 ##### § 922.122 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19827, Apr. 4, 2023.
-
 (a) Except as specified in paragraphs (c) through (h) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals except outside of all no-activity zones and provided all drilling cuttings and drilling fluids are shunted to the seabed through a downpipe that terminates an appropriate distance, but no more than ten meters, from the seabed.
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment p
 
 (6) Taking any marine mammal or turtle within the Sanctuary, except as permitted by regulations, as amended, promulgated under the Marine Mammal Protection Act, as amended, 16 U.S.C. 1361 *et seq.,* and the Endangered Species Act, as amended, 16 U.S.C. 1531 *et seq.*
 
-(7) Killing, injuring, attracting, touching, or disturbing a ray or whale shark in the Sanctuary. Notwithstanding the above, the incidental and unintentional injury to a ray or whale shark as a result of fishing with conventional hook and line gear is exempted from this prohibition.
+(7) Injuring, catching, harvesting, collecting or feeding, or attempting to injure, catch, harvest, collect or feed, any fish within the Sanctuary by use of longlines, traps, nets, bottom trawls or any other gear, device, equipment or means except by use of conventional hook and line gear.
 
 (8) Injuring, catching, harvesting, collecting, or feeding, or attempting to injure, catch, harvest, collect, or feed, any fish within the Sanctuary by use of bottom longlines, traps, nets, bottom trawls, or any other gear, device, equipment, or means except by use of conventional hook and line gear.
 
@@ -52,10 +50,10 @@ Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment p
 
 (2) In the event of threatened or actual destruction of, loss of, or injury to a Sanctuary resource or quality resulting from an untoward incident, including but not limited to spills and groundings, caused by a component of the Department of Defense, the cognizant component shall promptly coordinate with the Director for the purpose of taking appropriate actions to respond to and mitigate the harm and, if possible, restore or replace the Sanctuary resource or quality.
 
-(f) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to § 922.48 and § 922.123 or a Special Use permit issued pursuant to section 310 of the Act.
+(f) The prohibitions in paragraphs (a)(2) through (10) of this section do not apply to any activity specifically authorized by and conducted in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit or ONMS authorization issued pursuant to subpart D of this part and § 922.123 or a special use permit issued pursuant to subpart D of this part.
 
 (g) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any activity authorized by any lease, permit, license, approval or other authorization issued after January 18, 1994, provided that the applicant complies with § 922.49, the Director notifies the applicant and authorizing agency that he or she does not object to issuance of the authorization, and the applicant complies with any terms and conditions the Director deems necessary to protect Sanctuary resources and qualities.
 
-(h) Notwithstanding paragraphs (f) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under § 922.48 and § 922.123 or a Special Use permit under section 10 of the Act authorizing, or otherwise approve, the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone. Any leases, permits, approvals, or other authorizations authorizing the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone and issued after the January 18, 1994 shall be invalid.
+(h) Notwithstanding paragraphs (f) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under subpart D of this part and § 922.123 authorizing, or otherwise approve, the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone. Any leases, permits, approvals, or other authorizations authorizing the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone and issued after January 18, 1994 shall be invalid.
 
-[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021; 88 FR 9393, Feb. 14, 2023]
+[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021; 88 FR 967, Jan. 6, 2023; 88 FR 9393, Feb. 14, 2023]

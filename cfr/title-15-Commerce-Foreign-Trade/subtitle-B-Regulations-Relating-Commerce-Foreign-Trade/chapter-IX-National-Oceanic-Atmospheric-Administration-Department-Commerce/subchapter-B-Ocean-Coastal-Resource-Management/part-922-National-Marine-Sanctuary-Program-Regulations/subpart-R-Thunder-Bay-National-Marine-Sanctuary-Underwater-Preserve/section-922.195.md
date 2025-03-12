@@ -1,20 +1,16 @@
-##### § 922.195 Permit procedures and criteria. #####
+##### § 922.195 Permit procedures. #####
 
-Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+(a) A person may conduct an activity otherwise prohibited by § 922.193(a)(1) through (3), if the activity is specifically authorized by and conducted in accordance with the scope, purpose, terms and conditions of a State Permit provided that:
 
-(a) A person may conduct an activity prohibited by § 922.193 (a)(1) through (3), if conducted in accordance with the scope, purpose, terms and conditions of a State Permit *provided that*:
+(1) The State Archaeologist certifies to NOAA that the activity authorized under the State Permit will be conducted consistent with the Programmatic Agreement, in which case such State Permit shall be deemed to have met the requirements of subpart D of this part; or
 
-(1) The State Archaeologist certifies to NOAA that the activity authorized under the State Permit will be conducted consistent with the Programmatic Agreement, in which case such State Permit shall be deemed to have met the requirements of § 922.49; or
+(2) In the case where the State Archaeologist does not certify that the activity to be authorized under a State Permit will be conducted consistent with the Programmatic Agreement, the person complies with the requirements of subpart D of this part.
 
-(2) In the case where the State Archaeologist does not certify that the activity to be authorized under a State Permit will be conducted consistent with the Programmatic Agreement, the person complies with the requirements of § 922.49 of this part.
+(b) In instances where the conduct of an activity is prohibited by § 922.193(a)(1) through (3) is not addressed under a State or other Federal lease, license, permit or other authorization, a person may conduct such activity if it is specifically authorized by and conducted in accordance with the scope, purpose, terms, and conditions of a permit issued pursuant to subpart D of this part and the Programmatic Agreement.
 
-(b) If no State Permit is required to conduct an activity prohibited by § 922.193 (a)(1) through (3) of this subpart, a person may conduct such activity if it is conducted in accordance with the scope, purpose, terms and conditions of a Federal permit, *provided that* the person complies with the provisions of § 922.49 of this part.
+(c) A permit for recovery of an underwater cultural resource may be issued if:
 
-(c) In instances where the conduct of an activity is prohibited by § 922.193 (a)(1) through (3) of this subpart is not addressed under a State or other Federal lease, license, permit or other authorization, a person must obtain a Sanctuary permit from NOAA pursuant to § 922.48 (c) through (f) of this part and the Programmatic Agreement in order to conduct the activity.
-
-(d) A permit for recovery of an underwater cultural resource may be issued if:
-
-(1) The proposed activity satisfies the requirements for permits described under paragraphs (a) through (c) of this section;
+(1) The proposed activity satisfies the requirements for permits described under paragraphs (a) and (b) of this section and section 922.33;
 
 (2) The recovery of the underwater cultural resource is in the public interest;
 
@@ -22,7 +18,7 @@ Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment p
 
 (4) Recovery of the underwater cultural resource is necessary or appropriate to protect the resource, preserve historical information, or further the policies of the Sanctuary.
 
-(e) A person shall file an application for a permit with the Michigan Department of Environmental Quality, Land and Water Management Division, P.O. Box 30458, Lansing, MI, 48909-7958. The application shall contain all of the following information:
+(d) A person shall file an application for a permit with the Michigan Department of Environmental Quality, Land and Water Management Division, P.O. Box 30458, Lansing, MI 48909-7958. The application shall contain all of the following information:
 
 (1) The name and address of the applicant;
 
@@ -30,7 +26,7 @@ Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment p
 
 (3) Description of significant previous work in the area of interest, how the proposed effort would enhance or contribute to improving the state of knowledge, why the proposed effort should be performed in the Sanctuary, and its potential benefits to the Sanctuary;
 
-(4) An operational plan that describes the tasks required to accomplish the project's objectives and the professional qualifications of those conducting and supervising those tasks (see § 922.195(e)(9) of this section). The plan must provide adequate description of methods to be used for excavation, recovery and the storage of artifacts and related materials on site, and describe the rationale for selecting the proposed methods over any alternative methods;
+(4) An operational plan that describes the tasks required to accomplish the project's objectives and the professional qualifications of those conducting and supervising those tasks (*see* paragraph (d)(9) of this section). The plan must provide adequate description of methods to be used for excavation, recovery and the storage of artifacts and related materials on site, and describe the rationale for selecting the proposed methods over any alternative methods;
 
 (5) Archaeological recording, including site maps, feature maps, scaled photographs, and field notes;
 
@@ -46,7 +42,7 @@ Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment p
 
 (ii) Documentation of intended conservation methods and processes must also be included;
 
-(8) A curation and display plan for the curation of the conserved artifacts to ensure the maintenance and safety of the artifacts in keeping with the Sanctuary's federal stewardship responsibilities under the Federal Archaeology Program (36 CFR Part 79, Curation of Federally-Owned and Administered Archaeological Collections); and
+(8) A curation and display plan for the curation of the conserved artifacts to ensure the maintenance and safety of the artifacts in keeping with the Sanctuary's federal stewardship responsibilities under the Federal Archaeology Program (36 CFR part 79, Curation of Federally-Owned and Administered Archaeological Collections); and
 
 (9) Documentation of the professional standards of an archaeologist supervising the archaeological recovery of historical artifacts. The minimum professional qualifications in archaeology are a graduate degree in archaeology, anthropology, or closely related field plus:
 
@@ -57,3 +53,5 @@ Link to an amendment published at 88 FR 972, Jan. 6, 2023.Link to an amendment p
 (iii) Demonstrated ability to carry research to completion; and
 
 (iv) At least one year of full-time professional experience at a supervisory level in the study of archeological resources in the underwater environment.
+
+[88 FR 7357, Jan. 6, 2023]

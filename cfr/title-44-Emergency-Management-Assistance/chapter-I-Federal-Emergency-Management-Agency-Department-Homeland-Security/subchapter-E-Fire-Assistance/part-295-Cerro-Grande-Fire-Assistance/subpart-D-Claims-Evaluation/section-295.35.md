@@ -1,0 +1,3 @@
+##### § 295.35 Access to records. #####
+
+For purpose of audit and investigation, a Claimant will grant the FEMA DHS Office of the Inspector General and the Comptroller General of the United States access to any property that is the subject of a claim and to any and all books, documents, papers, and records maintained by a Claimant or under the Claimant's control pertaining or relevant to the claim.

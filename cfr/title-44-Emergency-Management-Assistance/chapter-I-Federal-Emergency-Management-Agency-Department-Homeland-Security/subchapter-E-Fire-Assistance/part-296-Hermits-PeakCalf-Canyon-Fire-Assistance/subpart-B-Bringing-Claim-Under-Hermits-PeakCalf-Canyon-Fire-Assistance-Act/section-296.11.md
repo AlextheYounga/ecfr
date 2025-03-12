@@ -1,0 +1,3 @@
+##### § 296.11 Deadline for notifying FEMA of injuries. #####
+
+The deadline for filing a Notice of Loss is November 14, 2024. Except as provided in § 296.35 with respect to a request to reopen a claim, an injury that has not been described: on a Notice of Loss, on a supplement to a Notice of Loss or a request to supplement a Notice of Loss under § 296.34 received by the Claims Office on or before November 14, 2024 cannot be compensated under the Act. The Act establishes this deadline and does not provide any extensions of the filing deadline.

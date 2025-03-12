@@ -1,8 +1,6 @@
 ##### § 922.162 Definitions. #####
 
-Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19828, Apr. 4, 2023.
-
-(a) The following definitions apply to the Florida Keys National Marine Sanctuary regulations. To the extent that a definition appears in § 922.3 and this section, the definition in this section governs.
+(a) The following definitions apply to the Florida Keys National Marine Sanctuary regulations. To the extent that a term appears in § 922.11 and this section, the definition in this section governs.
 
 *Acts* means the Florida Keys National Marine Sanctuary and Protection Act, as amended, (FKNMSPA) (Pub. L. 101-605), and the National Marine Sanctuaries Act (NMSA), also known as Title III of the Marine Protection, Research, and Sanctuaries Act, as amended, (MPRSA) (16 U.S.C. 1431 *et seq.*).
 
@@ -25,8 +23,6 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment p
 *Existing Management Area* means an area of the Sanctuary that is within or is a resource management area established by NOAA or by another Federal authority of competent jurisdiction as of the effective date of these regulations where protections above and beyond those provided by Sanctuary-wide prohibitions and restrictions are needed to adequately protect resources. Appendix II to this subpart sets forth the geographic coordinates of these areas.
 
 *Exotic species* means a species of plant, invertebrate, fish, amphibian, reptile or mammal whose natural zoogeographic range would not have included the waters of the Atlantic Ocean, Caribbean, or Gulf of Mexico without passive or active introduction to such area through anthropogenic means.
-
-*Fish* means finfish, mollusks, crustaceans, and all forms of marine animal and plant life other than marine mammals and birds.
 
 *Fishing* means:
 
@@ -78,8 +74,6 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment p
 
 *Sanctuary wildlife* means any species of fauna, including avifauna, that occupy or utilize the submerged resources of the Sanctuary as nursery areas, feeding grounds, nesting sites, shelter, or other habitat during any portion of their life cycles.
 
-*Seagrass* means any species of marine angiosperms (flowering plants) that inhabit portions of the seabed in the Sanctuary. Those species include, but are not limited to: Thalassia testudinum (turtle grass); Syringodium filiforme (manatee grass); Halodule wrightii (shoal grass); Halophila decipiens, H. engelmannii, H. johnsonii; and Ruppia maritima.
-
 *Special-use Area* means an area of the Sanctuary set aside for scientific research and educational purposes, recovery or restoration of Sanctuary resources, monitoring, to prevent use or user conflicts, to facilitate access and use, or to promote public use and understanding of Sanctuary resources. Appendix VI to this subpart sets forth the geographic coordinates of these areas.
 
 *Stem* means the foremost part of a vessel, consisting of a section of timber or fiberglass, or cast, forged, or rolled metal, to which the sides of the vessel are united at the fore end, with the lower end united to the keel, and with the bowsprit, if one is present, resting on the upper end.
@@ -98,10 +92,8 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment p
 
 *Tropical fish* means any species included in section (2) of Rule 46-42.001, Florida Administrative Code, reproduced in appendix VIII to this subpart, or any part thereof.
 
-*Vessel* means a watercraft of any description, including, but not limited to, motorized and non-motorized watercraft, personal watercraft, airboats, and float planes while maneuvering on the water, capable of being used as a means of transportation in/on the waters of the Sanctuary. For purposes of this part, the terms “vessel,” “watercraft,” and “boat” have the same meaning.
-
 *Wildlife Management Area* means an area of the Sanctuary established for the management, protection, and preservation of Sanctuary wildlife resources, including such an area established for the protection and preservation of endangered or threatened species or their habitats, within which access is restricted to minimize disturbances to Sanctuary wildlife; to ensure protection and preservation consistent with the Sanctuary designation and other applicable law governing the protection and preservation of wildlife resources in the Sanctuary. Appendix III to this subpart lists these areas and their access restrictions.
 
-(b) Other terms appearing in the regulations in this part are defined at 15 CFR 922.3, and/or in the Marine Protection, Research, and Sanctuaries Act (MPRSA), as amended, 33 U.S.C. 1401 *et seq.* and 16 U.S.C. 1431 *et seq.*
+(b) Other terms appearing in the regulations in this part are defined at § 922.11, and/or in the Marine Protection, Research, and Sanctuaries Act (MPRSA), as amended, 33 U.S.C. 1401 *et seq.* and 16 U.S.C. 1431 *et seq.*
 
-[62 FR 32161, June 12, 1997, as amended at 66 FR 4369, Jan. 17, 2001; 74 FR 38094, July 31, 2009]
+[62 FR 32161, June 12, 1997, as amended at 66 FR 4369, Jan. 17, 2001; 74 FR 38094, July 31, 2009; 88 FR 970, Jan. 6, 2023; 88 FR 19828, Apr. 4, 2023]

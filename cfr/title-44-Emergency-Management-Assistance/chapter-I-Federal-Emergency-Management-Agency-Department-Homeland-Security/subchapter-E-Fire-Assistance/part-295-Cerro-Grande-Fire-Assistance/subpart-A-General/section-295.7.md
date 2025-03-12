@@ -1,0 +1,3 @@
+##### § 295.7 Authority to settle or compromise claims. #####
+
+Notwithstanding any other provision of these regulations, the Director of OCGFC may extend an offer to settle or compromise a claim or any portion of a claim, which if accepted by the Claimant will be binding on the Claimant and on the United States, except that the United States may recover funds improperly paid to a Claimant due to fraud or misrepresentation on the part of the Claimant or the Claimant's representative, a material mistake on our part or the Claimant's failure to cooperate in an audit as required by § 295.35.

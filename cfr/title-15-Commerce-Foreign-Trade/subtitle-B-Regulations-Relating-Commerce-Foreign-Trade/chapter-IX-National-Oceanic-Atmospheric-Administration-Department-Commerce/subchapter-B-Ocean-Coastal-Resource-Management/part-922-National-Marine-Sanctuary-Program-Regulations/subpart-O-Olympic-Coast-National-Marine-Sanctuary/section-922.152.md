@@ -1,7 +1,5 @@
 ##### § 922.152 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 88 FR 969, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19828, Apr. 4, 2023.
-
 (a) Except as specified in paragraphs (b) through (g) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Exploring for, developing or producing oil, gas or minerals within the Sanctuary.
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 969, Jan. 6, 2023.Link to an amendment p
 
 (4) Moving, removing or injuring, or attempting to move, remove or injure, a Sanctuary historical resource. This prohibition does not apply to moving, removing or injury resulting incidentally from lawful fishing operations.
 
-(5) Drilling into, dredging or otherwise altering the submerged lands of the Sanctuary; or constructing, placing or abandoning any structure, material or other matter on the submerged lands of the Sanctuary, except as an incidental result of:
+(5) Drilling into, dredging or otherwise altering the seabed of the Sanctuary; or constructing, placing or abandoning any structure, material or other matter on the submerged lands of the Sanctuary, except as an incidental result of:
 
 (i) Anchoring vessels;
 
@@ -68,12 +66,12 @@ Link to an amendment published at 88 FR 969, Jan. 6, 2023.Link to an amendment p
 
 (3) In the event of threatened or actual destruction of, loss of, or injury to a Sanctuary resource or quality resulting from an untoward incident, including but not limited to spills and groundings caused by the Department of Defense, the Department of Defense shall promptly coordinate with the Director for the purpose of taking appropriate actions to respond to and mitigate the harm and, if possible, restore or replace the Sanctuary resource or quality.
 
-(e) The prohibitions in paragraphs (a)(2) through (8) of this section do not apply to any activity executed in accordance with the scope, purpose, terms and conditions of a National Marine Sanctuary permit issued pursuant to §§ 922.48 and 922.153 or a Special Use permit issued pursuant to section 310 of the Act.
+(e) The prohibitions in paragraphs (a)(2) through (8) of this section do not apply to any activity specifically authorized by and conducted under and in accordance with the scope, purpose, terms and conditions of a National Marine Sanctuary permit or an ONMS authorization issued pursuant to subpart D of this part and § 922.153 or a special use permit issued pursuant to subpart D of this part.
 
 (f) Members of a federally recognized Indian tribe may exercise aboriginal and treaty-secured rights, subject to the requirements of other applicable law, without regard to the requirements of this part. The Director may consult with the governing body of a tribe regarding ways the tribe may exercise such rights consistent with the purposes of the Sanctuary.
 
 (g) The prohibitions in paragraphs (a)(2) through (8) of this section do not apply to any activity authorized by any lease, permit, license, or other authorization issued after July 22, 1994, and issued by any Federal, State or local authority of competent jurisdiction, provided that the applicant complies with § 922.49, the Director notifies the applicant and authorizing agency that he or she does not object to issuance of the authorization, and the applicant complies with any terms and conditions the Director deems necessary to protect Sanctuary resources and qualities. Amendments, renewals and extensions of authorizations in existence on the effective date of designation constitute authorizations issued after the effective date.
 
-(h) Notwithstanding paragraphs (e) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under §§ 922.48 and 922.153 or a Special Use permit under section 310 of the Act authorizing, or otherwise approve: The exploration for, development or production of oil, gas or minerals within the Sanctuary; the discharge of primary-treated sewage within the Sanctuary; the disposal of dredged material within the Sanctuary other than in connection with beach nourishment projects related to the Quillayute River Navigation Project; or bombing activities within the Sanctuary. Any purported authorizations issued by other authorities after July 22, 1994 for any of these activities within the Sanctuary shall be invalid.
+(h) Notwithstanding paragraphs (e) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit or ONMS authorization under subpart D of this part and § 922.153 or a special use permit under section 310 of the Act authorizing, or otherwise approve: The exploration for, development or production of oil, gas or minerals within the Sanctuary; the discharge of primary-treated sewage within the Sanctuary (except by certification, pursuant to § 922.10, of valid authorizations in existence on July 22, 1994 and issued by other authorities of competent jurisdiction); the disposal of dredged material within the Sanctuary other than in connection with beach nourishment projects related to the Quillayute River Navigation Project; or bombing activities within the Sanctuary. Any purported authorizations issued by other authorities after July 22, 1994 for any of these activities within the Sanctuary shall be invalid.
 
-[76 FR 67360, Nov. 1, 2011, as amended at 77 FR 3922, Jan. 26, 2012]
+[76 FR 67360, Nov. 1, 2011, as amended at 77 FR 3922, Jan. 26, 2012; 88 FR 969, Jan. 6, 2023; 88 FR 19828, Apr. 4, 2023]

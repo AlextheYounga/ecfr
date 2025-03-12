@@ -1,0 +1,19 @@
+##### § 296.41 Administrative appeal. #####
+
+(a) *Notice of appeal.* A claimant may request that the Director of the Claims Office review the Authorized Official's determination by written request to the Appeals Docket, Office of Hermit's Peak/Calf Canyon Claims, postmarked or delivered within 120 days after the date that appears on the Authorized Official's determination pursuant to § 296.32. The claimant will submit along with the notice of appeal a statement explaining why the Authorized Official's determination was incorrect. Information regarding where to file can be found at *http://www.fema.gov/hermits-peak.*
+
+(b) *Acknowledgement of appeal.* The Claims Office will acknowledge receipt of an appeal. Following the receipt of a timely filed appeal, the Director of the Claims Office will obtain the Administrative Record from the Authorized Official and transmit a copy to the claimant.
+
+(c) *Supplemental filings.* The claimant may supplement their statement accompanying the appeal and provide any additional documentary evidence supporting the appeal within 60 days after the date when the appeal is filed. The Director of the Claims Office may extend these timeframes or authorize additional filings either on their own initiative or in response to a request by the claimant for good cause shown.
+
+(d) *Admissible evidence.* The claimant may rely upon any relevant evidence to support the appeal, regardless of whether the evidence was previously submitted to the Claims Reviewer for consideration by the Authorized Official.
+
+(e) *Obtaining evidence.* The Director of the Claims Office may request from the claimant or from the Authorized Official any additional information that is relevant to the issues posed by the appeal in their discretion.
+
+(f) *Conferences.* The Director of the Claims Office may schedule a conference to gain a better understanding of the issues or to explore settlement or compromise possibilities. The claimant may also request a conference. Conferences will generally be conducted virtually. In limited circumstances, the Director may convene an in-person conference at a location in New Mexico designated by the Director. A claimant may request that the Director of the Claims Office appoint a mediator at FEMA's expense to facilitate such conferences.
+
+(g) *Hearings.* The Director of the Claims Office may exercise the discretion to convene an informal hearing to receive oral testimony from witnesses or experts. The rules under which hearings will be conducted will be established by the Director of the Claims Office and provided to the claimant. Formal rules of evidence applicable to court proceedings will not be used in hearings under this subsection. Hearings will generally be conducted virtually, be transcribed, and the transcript will be entered in the Administrative Record. In limited circumstances, the Director may convene an in-person hearing at a location in New Mexico designated by the Director.
+
+(h) *Decision on appeal.* After the allotted time for submission of evidence has passed, the Director of the Claims Office will close the Administrative Record and render a written decision on the Administrative Appeal. The Director of the Claims Office's decision on the Administrative Appeal will constitute the final decision of the Administrator of FEMA under sections 104(d)(2)(B) and 104(i)(1) of the Act.
+
+(i) *Claimant's options following appeal.* The claimant's concurrence with the decision in the Administrative Appeal will be conclusively presumed unless the claimant initiates arbitration in accordance with § 296.42 or seeks judicial review in accordance with § 296.43. If the claimant concurs with the Director's determination, payment of any additional damages awarded by the Director will be made to the claimant upon receipt of a properly executed Release and Certification Form.

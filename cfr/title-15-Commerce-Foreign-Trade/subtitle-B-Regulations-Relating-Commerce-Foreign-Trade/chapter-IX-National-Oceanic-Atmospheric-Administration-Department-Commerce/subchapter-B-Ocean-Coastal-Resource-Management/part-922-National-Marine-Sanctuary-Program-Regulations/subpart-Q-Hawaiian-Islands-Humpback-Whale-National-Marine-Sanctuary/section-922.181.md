@@ -1,8 +1,6 @@
 ##### § 922.181 Boundary. #####
 
-Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
-
-(a) Except for excluded areas described in paragraph (b) of this section, the Hawaiian Islands Humpback Whale National Marine Sanctuary consists of the submerged lands and waters off the coast of the Hawaiian Islands seaward from the shoreline, cutting across the mouths of rivers and streams:
+(a) Except for excluded areas described in paragraph (b) of this section, the Hawaiian Islands Humpback Whale National Marine Sanctuary encompasses approximately 1,032 square nautical miles (nmi2) (1,366 sq. mi.), and consists of the submerged lands and waters off the coast of the Hawaiian Islands seaward from the shoreline, cutting across the mouths of rivers and streams:
 
 (1) To the 100-fathom (183 meter) isobath from Kailiu Point eastward to Mokolea Point, Kauai;
 
@@ -19,3 +17,5 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment p
 Hawaii (Big Island)Kawaihae Boat Harbor & Small Boat BasinLanaiKaumalapau Harbor, Manele HarborMauiLahaina Boat HarborMaalaea Boat HarborMolokaiHale o Lono HarborKaunakakai HarborOahuKuapa Pond (Hawaii Kai)
 
 (c) The coordinates of the lateral extents of each boundary area within the Sanctuary boundary appear in appendix A of this subpart Q.
+
+[64 FR 66570, Nov. 29, 1999, as amended at 88 FR 970, Jan. 6, 2023]

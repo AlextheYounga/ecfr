@@ -12,4 +12,6 @@
 
 (c) This section does not apply to any officer, agent, or employee of the United States, a State, or a political subdivision thereof, who may enter on to an Agency installation to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of law.
 
-(d) This section does not apply to any person who has received approval from the Director of the Center for CIA Security, or from his or her designee to carry, transport, or use a camera, other visual or audio recording devices, or electronic transmitting equipment while on an Agency installation.
+(d) This section does not apply to any person who has received approval from the CIA Director of Security, or from his or her designee, to carry, transport, or use a camera, other visual or audio recording devices, or electronic transmitting equipment while on an Agency installation.
+
+[63 FR 44786, Aug. 21, 1998, as amended at 88 FR 20763, Apr. 7, 2023]

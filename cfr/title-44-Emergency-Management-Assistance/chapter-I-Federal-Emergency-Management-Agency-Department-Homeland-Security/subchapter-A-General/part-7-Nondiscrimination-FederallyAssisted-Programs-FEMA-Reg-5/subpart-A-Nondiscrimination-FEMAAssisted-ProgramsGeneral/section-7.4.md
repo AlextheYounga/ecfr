@@ -1,0 +1,5 @@
+##### § 7.4 Further application of this regulation. #####
+
+This regulation applies to any program for which Federal financial assistance is authorized under a law administered by the Federal Emergency Management Agency. It applies to money paid, property transferred, or other Federal financial assistance extended after the effective date of the regulation pursuant to an application approved prior to such effective date. This regulation does not apply to (a) any Federal financial assistance by way of insurance or guaranty contracts, (b) money paid, property transferred, or other assistance extended before the effective date of this regulation, (c) any assistance to any individual who is the ultimate beneficiary, or (d) any employment practice, under such program, of any employer, employment agency, or labor organization.
+
+(Reorganization Plan No. 3 of 1978, E.O. 12127 and E.O. 12148)[30 FR 321, Jan. 9, 1965. Redesignated at 45 FR 44575, July 1, 1980, as amended at 48 FR 44543, Sept. 29, 1983; 68 FR 51379, Aug. 26, 2003]

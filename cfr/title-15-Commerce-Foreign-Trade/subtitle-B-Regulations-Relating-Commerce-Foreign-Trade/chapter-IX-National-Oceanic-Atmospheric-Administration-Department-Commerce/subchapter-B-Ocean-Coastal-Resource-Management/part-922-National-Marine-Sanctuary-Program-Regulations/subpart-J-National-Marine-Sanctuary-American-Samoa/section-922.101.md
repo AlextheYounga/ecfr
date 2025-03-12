@@ -1,10 +1,8 @@
 ##### § 922.101 Boundary. #####
 
-Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+The Sanctuary is comprised of six distinct units, forming a network of marine protected areas around the islands of the Territory of American Samoa. Tables containing the exact coordinates of each point described below can be found in Appendix to Subpart J—National Marine Sanctuary of American Samoa Boundary Coordinates. The total areal estimate of the six units combined is 10,255 nmi2 (13,581 sq. mi.).
 
-The Sanctuary is comprised of six distinct units, forming a network of marine protected areas around the islands of the Territory of American Samoa. Tables containing the exact coordinates of each point described below can be found in Appendix to Subpart J—National Marine Sanctuary of American Samoa Boundary Coordinates.
-
-(a) *Fagatele Bay Unit.* The Fagatele Bay Unit is a 163-acre (0.25 sq. mi.) coastal embayment formed by a collapsed volcanic crater on the island of Tutuila, Territory of American Samoa, and includes Fagatele Bay in its entirety. The landward boundary is defined by the mean higher high water line of Fagatele Bay until the point at which it intersects the seaward boundary of the Sanctuary as defined by a straight line between Fagatele Point (−14.36527, −170.76932) and Steps Point (−14.37291, −170.76056) from the point at which it intersects the mean higher high water line seaward.
+(a) *Fagatele Bay Unit.* The Fagatele Bay unit is a coastal embayment formed by a collapsed volcanic crater on the island of Tutuila, Territory of American Samoa, and includes Fagatele Bay in its entirety. The landward boundary is defined by the mean high high water line of Fagatele Bay until the point at which it intersects the seaward boundary of the Sanctuary as defined by a straight line between Fagatele Point (−14.36527, −170.76932) and Steps Point (−14.37291, −170.76056) from the point at which it intersects the mean high high water line seaward.
 
 (b) *Fagalua/Fogama'a Unit.* The landward boundary of the Fagalua/Fogama'a Unit is defined by the mean higher high water line of Fagalua/Fogama'a until the point at which it intersects the seaward boundary of the Fagalua/Fogama'a Unit as defined by a straight line between Steps Point (−14.37307, −170.75852) and Sail Rock Point (−14.36534, −170.74119) from the point at which it intersects the mean higher high water line seaward.
 
@@ -20,4 +18,4 @@ The Sanctuary is comprised of six distinct units, forming a network of marine pr
 
 (f) *Ta'u Unit.* The Ta'u Unit boundary is defined by the coordinates provided in Table 5 and the following textual description. The Ta'u Unit boundary extends from Point 1, Vaita Point, along the mean higher high water line southward along the western coast to Point 2, Si'ufa'alele Point. From Point 2, the boundary extends offshore 0.25 miles to Point 3 to become conterminous with the offshore boundary of the National Park of American Samoa. From Point 3 the boundary continues to follow the coastline 0.25 miles offshore until it reaches Point 4, which is directly south of Si'u Point. From Point 4, the boundary extends due south to Point 5. From Point 5, the boundary extends due west to Point 6, forming the southern border of the unit. From Point 6, the boundary extends due north until it reaches Point 7, directly west and one mile offshore from Point 8, which is Point 1, also known as Vaita Point.
 
-[77 FR 43962, July 26, 2012, as amended at 80 FR 79683, Dec. 23, 2015]
+[77 FR 43962, July 26, 2012, as amended at 80 FR 79683, Dec. 23, 2015; 88 FR 966, Jan. 6, 2023]

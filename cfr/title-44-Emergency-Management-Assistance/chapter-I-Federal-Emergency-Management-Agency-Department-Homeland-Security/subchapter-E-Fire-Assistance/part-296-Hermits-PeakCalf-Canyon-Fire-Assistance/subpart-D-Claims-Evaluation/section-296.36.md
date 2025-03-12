@@ -1,0 +1,3 @@
+##### § 296.36 Access to records. #####
+
+For purpose of audit and investigation, a claimant will grant the DHS Office of the Inspector General and the Comptroller General of the United States access to any property that is the subject of a claim and to any and all books, documents, papers, and records (including any relevant tax records) maintained by a claimant or under the claimant's control pertaining or relevant to the claim.

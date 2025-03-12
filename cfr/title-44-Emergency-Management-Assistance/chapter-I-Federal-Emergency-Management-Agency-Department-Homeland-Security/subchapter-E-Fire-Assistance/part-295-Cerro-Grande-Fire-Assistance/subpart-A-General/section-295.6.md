@@ -1,0 +1,3 @@
+##### § 295.6 Partial payments. #####
+
+OCGFC, on its own initiative, or in response to a request by a Claimant, may make one or more partial payments on the claim. A partial payment can be made if OCGFC has a reasonable basis to estimate the Claimant's damages. Acceptance of a partial payment in no way affects a Claimant's ability to pursue an Administrative Appeal of the Authorized Official's Determination or to pursue other rights afforded by the CGFAA. Partial payment decisions cannot be appealed.

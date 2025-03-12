@@ -1,0 +1,3 @@
+##### § 295.36 Confidentiality of information. #####
+
+Confidential information submitted by individual Claimants is protected from disclosure to the extent permitted by the Privacy Act. These protections are described in the Privacy Act Notice provided with the Notice of Loss. Other Claimants should consult with FEMA concerning the availability of confidentiality protection under exemptions to the Freedom of Information Act and other applicable laws before submitting confidential, proprietary or trade secret information.

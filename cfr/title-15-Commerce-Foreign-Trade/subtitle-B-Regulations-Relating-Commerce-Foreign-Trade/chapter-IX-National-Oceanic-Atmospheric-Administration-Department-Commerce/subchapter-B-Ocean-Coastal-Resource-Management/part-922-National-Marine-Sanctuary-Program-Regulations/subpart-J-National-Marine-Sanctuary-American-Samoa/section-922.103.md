@@ -1,7 +1,5 @@
 ##### § 922.103 Prohibited or otherwise regulated activities—Sanctuary-wide. #####
 
-Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19826, Apr. 4, 2023.
-
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Introducing or releasing introduced species from within or into the sanctuary.
@@ -40,4 +38,6 @@ Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment p
 
 (d) The prohibitions in paragraphs (a)(2) through (15) of this section, § 922.104, and § 922.105 do not apply to any activity necessary for valid law enforcement purposes in the Sanctuary.
 
-(e) The prohibitions in paragraphs (a)(2) through (15) of this section, § 922.104, and § 922.105 do not apply to any activity conducted under and in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to 15 CFR 922.48 and 922.107.
+(e) The prohibitions in paragraphs (a)(2) through (15) of this section and §§ 922.104 and 922.105 do not apply to any activity conducted under and in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to subpart D of this part and § 922.107.
+
+[77 FR 43962, July 26, 2012, as amended at 88 FR 966, Jan. 6, 2023]

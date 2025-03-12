@@ -12,13 +12,17 @@
 
 (4) For the purpose of paragraph (a)(3)(i) of this section, a utility compartment or glove compartment is deemed to be readily accessible to the operator and passengers of a vehicle.
 
-(b) *Operating under the influence of alcohol, drugs, or controlled substances.* (1) Operating or being in actual physical control of a vehicle is prohibited while.
+(b) *Operating under the influence of alcohol, drugs, or controlled substances.* (1) *Prohibited conduct.* Operating or being in actual physical control of a vehicle is prohibited:
 
-(i) Under the influence of alcohol, drug or drugs, a controlled substance, or any combination thereof, to a degree that renders the operator incapable of safe operation; or
+(i) While under the influence of alcohol;
 
-(ii) The alcohol concentration in the operator's blood is 0.08 grams or more of alcohol per 100 milliliters of blood or 0.08 grams or more alcohol per 210 liters of breath. Provided, however, that if the applicable State law that applies to operating a vehicle while under the influence of alcohol establishes more restrictive limits of alcohol concentration in the operator's blood or breath, those limits supersede the limits specified in this section.
+(ii) While under the influence of any narcotic drug or any other self-administered intoxicant or drug of whatsoever nature, or any combination of such drugs, to a degree that impairs one's ability to drive or operate any motor vehicle;
 
-(2) The provisions or paragraph (b)(1) of this section shall also apply to an operator who is or has been legally entitled to use alcohol or another drug.
+(iii) While under the combined influence of alcohol and any drugs or drugs to a degree that impairs one's ability drive or operate any motor vehicle; or
+
+(iv) While the alcohol concentration in the operator's blood is 0.08 grams or more of alcohol per 100 milliliters of blood or 0.08 grams or more alcohol per 210 liters of breath. Provided, however, that if the applicable State law that applies to operating a vehicle while under the influence of alcohol establishes more restrictive limits of alcohol concentration in the operator's blood or breath, those limits supersede the limits specified in this section.
+
+(2) *Applicability.* The provisions of paragraph (b)(1) of this section shall also apply to an operator who is or has been legally entitled to use alcohol or another drug.
 
 (3) *Test.* (i) At the request or direction of an authorized person who has probable cause to believe that an operator of a vehicle within an Agency installation has violated a provision of paragraph (b)(1) of this section, the operator shall submit to one or more tests of blood, breath, saliva, or urine for the purpose of determining blood alcohol, drug, and controlled substance content.
 
@@ -32,4 +36,4 @@
 
 (ii) The provisions of paragraph (b)(4)(i) of this section are not intended to limit the introduction of any other competent evidence bearing upon the question of whether the operator, at the time of the alleged violation, was under the influence of alcohol, a drug or drugs, or a controlled substance, or any combination thereof.
 
-[63 FR 44786, Aug. 21, 1998; 64 FR 27041, May 18, 1999]
+[63 FR 44786, Aug. 21, 1998; 64 FR 27041, May 18, 1999, as amended at 88 FR 20762, Apr. 7, 2023]

@@ -1,0 +1,3 @@
+##### § 922.9 Response costs and damages. #####
+
+Under section 312 of the Act, any person who destroys, causes the loss of, or injures any Sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury. Any vessel used to destroy, cause the loss of, or injure any Sanctuary resource is liable *in rem* to the United States for response costs and damages resulting from such destruction, loss, or injury.

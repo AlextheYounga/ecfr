@@ -1,0 +1,3 @@
+##### § 296.33 Partial payments. #####
+
+The Claims Office at the request of a claimant may make one or more partial payments on any aspect of a claim that is severable. Receipt by a claimant of a partial payment is contingent on the claimant signing a Release and Certification Form for the severable part of the claim for which partial payment is being made. Acceptance of a partial payment in no way affects a claimant's ability to pursue an Administrative Appeal of the Authorized Official's determination or to pursue other rights afforded by the Act with respect to any portion of a claim for which a Release and Certification Form has not been executed. The Claims Office decision on whether to provide a partial payment cannot be appealed.

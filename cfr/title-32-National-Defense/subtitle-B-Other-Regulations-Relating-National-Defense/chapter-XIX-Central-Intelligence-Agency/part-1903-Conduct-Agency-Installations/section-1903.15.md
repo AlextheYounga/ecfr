@@ -2,10 +2,12 @@
 
 The following are prohibited:
 
-(a) *Property Damage.* Destroying or damaging private property.
+(a) *Property damage.* Destroying or damaging private or Government property.
 
-(b) *Theft.* The theft of private property, except where Title 18 U.S.C. 661 applies.
+(b) *Theft.* The theft of private or Government property.
 
 (c) *Creation of hazard.* The creation of hazard to persons or things, the throwing of articles of any kind from or at buildings, vehicles, or persons while on an Agency installation.
 
 (d) *Improper disposal.* The improper disposal of trash or rubbish while on an Agency installation.
+
+[63 FR 44786, Aug. 21, 1998, as amended at 88 FR 20763, Apr. 7, 2023]

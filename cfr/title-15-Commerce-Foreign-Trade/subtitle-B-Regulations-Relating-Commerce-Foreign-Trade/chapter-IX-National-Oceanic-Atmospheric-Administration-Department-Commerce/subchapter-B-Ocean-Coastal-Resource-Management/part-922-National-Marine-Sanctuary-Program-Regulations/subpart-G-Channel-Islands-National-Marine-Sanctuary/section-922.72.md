@@ -1,7 +1,5 @@
 ##### § 922.72 Prohibited or otherwise regulated activities—Sanctuary-wide. #####
 
-Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
-
 (a) Except as specified in paragraphs (b) through (e) of this section, the following activities are prohibited and thus unlawful for any person to conduct or cause to be conducted:
 
 (1) Exploring for, developing, or producing hydrocarbons within the Sanctuary, except pursuant to leases executed prior to March 30, 1981, and except the laying of pipeline pursuant to exploring for, developing, or producing hydrocarbons.
@@ -78,10 +76,10 @@ Link to an amendment published at 88 FR 965, Jan. 6, 2023.Link to an amendment p
 
 (4) All DOD activities must be carried out in a manner that avoids to the maximum extent practicable any adverse impacts on Sanctuary resources and qualities.
 
-(c) The prohibitions in paragraphs (a)(3) through (10), (a)(12), and (a)(13) of this section and in § 922.73 do not apply to any activity conducted under and in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to 15 CFR 922.48 and 922.74.
+(c) The prohibitions in paragraphs (a)(3) through (10) and (12) and (13) of this section and in § 922.73 do not apply to any activity specifically authorized by and conducted in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to subpart D of this part and § 922.74.
 
 (d) The prohibitions in paragraphs (a)(3) through (11) and (a)(13) of this section and in § 922.73 do not apply to any activity necessary to respond to an emergency threatening life, property, or the environment.
 
 (e) The prohibitions in paragraphs (a)(3) through (11) and (a)(13) of this section and in § 922.73 do not apply to any activity necessary for valid law enforcement purposes in the Sanctuary.
 
-[74 FR 3260, Jan. 16, 2009, as amended at 77 FR 3922, Jan. 26, 2012]
+[74 FR 3260, Jan. 16, 2009, as amended at 77 FR 3922, Jan. 26, 2012; 88 FR 965, Jan. 6, 2023]

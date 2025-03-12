@@ -1,12 +1,8 @@
 ##### § 922.121 Definitions. #####
 
-Link to an amendment published at 88 FR 967, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+In addition to those definitions found at § 922.11, the following definitions apply to this subpart:
 
 As used in this subpart:
-
-*Attract or attracting* means the conduct of any activity that lures or may lure any animal in the Sanctuary by using food, bait, chum, dyes, decoys (e.g., surfboards or body boards used as decoys), acoustics or any other means, except the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers, surfers).
-
-*Clean* means not containing detectable levels of harmful matter.
 
 *Disturb or disturbing a ray or whale shark* means to, or attempt to touch, handle, ride, pursue, chase away, hunt, restrain, detain (no matter how temporarily), capture, collect, or conduct any other activity that disrupts or has the potential to disrupt any ray or whale shark in the Sanctuary by any means. Notwithstanding the above, the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers) is exempted from this definition.
 
@@ -14,4 +10,4 @@ As used in this subpart:
 
 *No-activity zone* (applicable only to oil and gas industry activities) means the geographic areas delineated by the Department of the Interior in Topographic Features Stipulations for Outer Continental Shelf (OCS) lease sales as defined by a bathymetric contour (isobath) ranging from 55-85m in depth, with the exception of Stetson Bank (52m) and East and West Flower Garden Banks (100m). The Notice to Lessees (NTL) No. 2009-G39 provides and consolidates guidance for the avoidance and protection of biologically sensitive features and areas (*i.e.* topographic features, pinnacles, live bottoms (low relief features)) and other potentially sensitive biological features (PSBFs) when conducting operations in water depths shallower than 980 feet (300 meters) in the Gulf of Mexico. NTL 2009-G39 remains in effect pursuant to NTL No. 2015-N02. The no-activity zones are based on depth contours as noted for the following Banks: Stetson Bank (52 meters), MacNeil Bank (82 meters), Rankin Banks (including 28 Fathom Bank) (85 meters), Bright Bank (85 meters), Geyer Bank (85 meters), Elvers Bank (85 meters), McGrail Bank (85 meters), Bouma Bank (85 meters), Rezak Bank (85 meters), Sidner Bank (85 meters), Sonnier Bank (55 meters), Alderdice Bank (80 meters), and Parker Bank (85 meters). For East and West Flower Garden Banks, the no-activity zones are based on the “1/41/41/4” aliquot system formerly used by the Department of the Interior, a method that delineates a specific portion of a block rather than the actual underlying isobath. The precise aliquot part description of these areas around East and West Flower Garden Banks are provided in appendix A of this subpart.
 
-[77 FR 25068, Apr. 27, 2012, as amended at 86 FR 4953, Jan. 19, 2021]
+[77 FR 25068, Apr. 27, 2012, as amended at 86 FR 4953, Jan. 19, 2021; 88 FR 967, Jan. 6, 2023]

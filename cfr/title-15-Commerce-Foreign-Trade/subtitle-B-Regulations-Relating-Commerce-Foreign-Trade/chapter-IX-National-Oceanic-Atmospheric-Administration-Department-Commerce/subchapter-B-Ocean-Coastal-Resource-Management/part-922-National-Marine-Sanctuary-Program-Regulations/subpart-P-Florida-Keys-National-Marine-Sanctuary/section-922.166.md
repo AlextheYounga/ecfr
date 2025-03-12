@@ -1,40 +1,12 @@
 ##### § 922.166 Permits other than for access to the Tortugas Ecological Reserve—application procedures and issuance criteria. #####
 
-Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+(a) A person may conduct an activity otherwise prohibited by § 922.163 or § 922.164 if the activity is specifically allowed by and conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subpart D of this part.
 
-(a) *National Marine Sanctuary General Permit.* (1) A person may conduct an activity prohibited by §§ 922.163 or 922.164, other than an activity involving the survey/inventory, research/recovery, or deaccession/transfer of Sanctuary historical resources, if such activity is specifically authorized by, and provided such activity is conducted in accordance with the scope, purpose, terms and conditions of, a National Marine Sanctuary General permit issued under this paragraph (a).
+(1) Applications for permits should be addressed to the Director, Office of National Marine Sanctuaries; ATTN: Superintendent, Florida Keys National Marine Sanctuary, 33 East Quay Road, Key West, FL 33040.
 
-(2) The Director, at his or her discretion, may issue a General permit under this paragraph (a), subject to such terms and conditions as he or she deems appropriate, if the Director finds that the activity will:
+(2) For activities proposed to be conducted within any of the areas described in § 922.164 (b) through (e), the Director shall not issue a permit unless he or she further finds that such activities will further and are consistent with the purposes for which such area was established, as described in §§ 922.162 and 922.164 and in the management plan for the Sanctuary.
 
-(i) Further research or monitoring related to Sanctuary resources and qualities;
-
-(ii) Further the educational value of the Sanctuary;
-
-(iii) Further the natural or historical resource value of the Sanctuary;
-
-(iv) Further salvage or recovery operations in or near the Sanctuary in connection with a recent air or marine casualty;
-
-(v) Assist in managing the Sanctuary; or
-
-(vi) Otherwise further Sanctuary purposes, including facilitating multiple use of the Sanctuary, to the extent compatible with the primary objective of resource protection.
-
-(3) The Director shall not issue a General permit under this paragraph (a), unless the Director also finds that:
-
-(i) The applicant is professionally qualified to conduct and complete the proposed activity;
-
-(ii) The applicant has adequate financial resources available to conduct and complete the proposed activity;
-
-(iii) The duration of the proposed activity is no longer than necessary to achieve its stated purpose;
-
-(iv) The methods and procedures proposed by the applicant are appropriate to achieve the proposed activity's goals in relation to the activity's impacts on Sanctuary resources and qualities;
-
-(v) The proposed activity will be conducted in a manner compatible with the primary objective of protection of Sanctuary resources and qualities, considering the extent to which the conduct of the activity may diminish or enhance Sanctuary resources and qualities, any indirect, secondary or cumulative effects of the activity, and the duration of such effects;
-
-(vi) It is necessary to conduct the proposed activity within the Sanctuary to achieve its purposes; and
-
-(vii) The reasonably expected end value of the activity to the furtherance of Sanctuary goals and purposes outweighs any potential adverse impacts on Sanctuary resources and qualities from the conduct of the activity.
-
-(4) For activities proposed to be conducted within any of the areas described in § 922.164 (b)-(e), the Director shall not issue a permit unless he or she further finds that such activities will further and are consistent with the purposes for which such area was established, as described in §§ 922.162 and 922.164 and in the management plan for the Sanctuary.
+(3) A person may conduct an activity otherwise prohibited by § 922.163 or § 922.164, if such activity is specifically allowed by and conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subpart D of this part, and any additional permit issuance criteria and requirements in paragraphs (b), (c), (f), and (i) through (m) of this section.
 
 (b) *National Marine Sanctuary Survey/Inventory of Historical Resources Permit.* (1) A person may conduct an activity prohibited by §§ 922.163 or 922.164 involving the survey/inventory of Sanctuary historical resources if such activity is specifically authorized by, and is conducted in accordance with the scope, purpose, terms and conditions of, a Survey/Inventory of Historical Resources permit issued under this paragraph (b). Such permit is not required if such survey/inventory activity does not involve any activity prohibited by §§ 922.163 or 922.164. Thus, survey/inventory activities that are non-intrusive, do not include any excavation, removal, or recovery of historical resources, and do not result in destruction of, loss of, or injury to Sanctuary resources or qualities do not require a permit. However, if a survey/inventory activity will involve test excavations or removal of artifacts or materials for evaluative purposes, a Survey/Inventory of Historical Resources permit is required. Regardless of whether a Survey/Inventory permit is required, a person may request such permit. Persons who have demonstrated their professional abilities under a Survey/Inventory permit will be given preference over other persons in consideration of the issuance of a Research/Recovery permit. While a Survey/Inventory permit does not grant any rights with regards to areas subject to pre-existing rights of access which are still valid, once a permit is issued for an area, other survey/inventory permits will not be issued for the same area during the period for which the permit is valid.
 
@@ -153,3 +125,5 @@ Link to an amendment published at 88 FR 970, Jan. 6, 2023.Link to an amendment p
 (4) The permittee shall submit an annual report to the Director not later than December 31 of each year on activities conducted pursuant to the permit. The report shall describe all activities conducted under the permit and all revenues derived from such activities during the year and/or term of the permit.
 
 (5) The permittee shall purchase and maintain general liability insurance or other acceptable security against potential claims for destruction, loss of, or injury to Sanctuary resources arising out of the permitted activities. The amount of insurance or security should be commensurate with an estimated value of the Sanctuary resources in the permitted area. A copy of the insurance policy or security instrument shall be submitted to the Director.
+
+[62 FR 32161, June 12, 1997, as amended at 88 FR 970, Jan. 6, 2023]

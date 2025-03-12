@@ -1,39 +1,7 @@
-##### § 922.215 Permit procedures and review criteria. #####
+##### § 922.215 Permit procedures. #####
 
-Link to an amendment published at 88 FR 19829, Apr. 4, 2023.Link to an amendment published at 88 FR 973, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+(a) A person may conduct an activity otherwise prohibited by § 922.213(a)(1) and (2) if conducted under and in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subpart D of this part.
 
-(a) *Authority to issue general permits.* The Director may allow a person to conduct an activity that would otherwise be prohibited by this subpart, through issuance of a general permit, provided the applicant complies with:
+(b) Applications for such permits should be addressed to the Director, Office of National Marine Sanctuaries; ATTN: Superintendent, Wisconsin Shipwreck Coast National Marine Sanctuary, 1305 East-West Highway, Silver Spring, MD 20910.
 
-(1) The provisions of subpart E of this part; and
-
-(2) The relevant site specific regulations appearing in this subpart.
-
-(b) *Sanctuary general permit categories.* The Director may issue a sanctuary general permit under this subpart, subject to such terms and conditions as he or she deems appropriate, if the Director finds that the proposed activity falls within one of the following categories:
-
-(1) Research—activities that constitute scientific research on or scientific monitoring of national marine sanctuary resources or qualities;
-
-(2) Education—activities that enhance public awareness, understanding, or appreciation of a national marine sanctuary or national marine sanctuary resources or qualities; or
-
-(3) Management—activities that assist in managing a national marine sanctuary.
-
-(c) *Review criteria.* The Director shall not issue a permit under this subpart, unless he or she also finds that:
-
-(1) The proposed activity will be conducted in a manner compatible with the primary objective of protection of national marine sanctuary resources and qualities, taking into account the following factors:
-
-(i) The extent to which the conduct of the activity may diminish or enhance national marine sanctuary resources and qualities; and
-
-(ii) Any indirect, secondary or cumulative effects of the activity.
-
-(2) It is necessary to conduct the proposed activity within the national marine sanctuary to achieve its stated purpose.
-
-(3) The methods and procedures proposed by the applicant are appropriate to achieve the proposed activity's stated purpose and eliminate, minimize, or mitigate adverse effects on sanctuary resources and qualities as much as possible.
-
-(4) The duration of the proposed activity and its effects are no longer than necessary to achieve the activity's stated purpose.
-
-(5) The expected end value of the activity to the furtherance of national marine sanctuary goals and purposes outweighs any potential adverse impacts on sanctuary resources and qualities from the conduct of the activity.
-
-(6) The applicant is professionally qualified to conduct and complete the proposed activity.
-
-(7) The applicant has adequate financial resources available to conduct and complete the proposed activity and terms and conditions of the permit.
-
-(8) There are no other factors that would make the issuance of a permit for the activity inappropriate.
+[88 FR 973, Jan. 6, 2023]
