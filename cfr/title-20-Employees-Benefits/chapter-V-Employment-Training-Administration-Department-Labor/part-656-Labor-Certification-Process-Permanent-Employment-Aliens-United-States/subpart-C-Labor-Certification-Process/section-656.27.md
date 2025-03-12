@@ -1,5 +1,7 @@
 ##### § 656.27 Consideration by and decisions of the Board of Alien Labor Certification Appeals. #####
 
+Link to an amendment published at 85 FR 30615, May 20, 2020.
+
 (a) *Panel designations.* In considering requests for review before it, the Board of Alien Labor Certification Appeals may sit in panels of three members. The Chief Administrative Law Judge may designate any Board of Alien Labor Certification Appeals member to submit proposed findings and recommendations to the Board of Alien Labor Certification Appeals or to any duly designated panel thereof to consider a particular case.
 
 (b) *Briefs and Statements of Position.* In considering the requests for review before it, the Board of Alien Labor Certification Appeals must afford all parties 30 days to submit or decline to submit any appropriate Statement of Position or legal brief. The Certifying Officer is to be represented solely by the Solicitor of Labor or the Solicitor's designated representative.

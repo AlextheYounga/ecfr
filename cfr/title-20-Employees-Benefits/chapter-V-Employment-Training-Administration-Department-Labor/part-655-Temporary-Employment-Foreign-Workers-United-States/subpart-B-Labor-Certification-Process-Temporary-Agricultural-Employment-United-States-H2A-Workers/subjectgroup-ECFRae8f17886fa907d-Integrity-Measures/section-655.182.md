@@ -1,5 +1,7 @@
 ##### § 655.182 Debarment. #####
 
+Link to an amendment published at 85 FR 30614, May 20, 2020.
+
 (a) *Debarment of an employer.* The OFLC Administrator may debar an employer or any successor in interest to that employer from receiving future labor certifications under this subpart, subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer substantially violated a material term or condition of its temporary labor certification, with respect to H-2A workers, workers in corresponding employment, or U.S. workers improperly rejected for employment, or improperly laid off or displaced.
 
 (b) *Debarment of an agent or attorney.* The OFLC Administrator may debar an agent or attorney from participating in any action under 8 U.S.C. 1188, this subpart, or 29 CFR part 501, if the OFLC Administrator finds that the agent or attorney participated in an employer's substantial violation. The OFLC Administrator may not issue future labor certifications under this subpart to any employer represented by a debarred agent or attorney, subject to the time limits set forth in paragraph (c) of this section.

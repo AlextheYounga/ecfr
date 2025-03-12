@@ -1,5 +1,7 @@
 ##### § 655.472 Revocation. #####
 
+Link to an amendment published at 85 FR 30615, May 20, 2020.
+
 (a) *Basis for revocation.* The OFLC Administrator may revoke a TLC approved under this subpart, if the OFLC Administrator finds:
 
 (1) The issuance of the TLC was not justified due to fraud or misrepresentation of a material fact in the application process;

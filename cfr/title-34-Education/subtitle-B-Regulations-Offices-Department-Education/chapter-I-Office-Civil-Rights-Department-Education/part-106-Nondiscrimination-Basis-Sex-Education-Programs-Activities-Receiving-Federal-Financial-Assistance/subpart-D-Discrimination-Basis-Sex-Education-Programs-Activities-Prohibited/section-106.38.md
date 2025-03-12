@@ -1,5 +1,7 @@
 ##### § 106.38 Employment assistance to students. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Assistance by recipient in making available outside employment.* A recipient which assists any agency, organization or person in making employment available to any of its students:
 
 (1) Shall assure itself that such employment is made available without discrimination on the basis of sex; and

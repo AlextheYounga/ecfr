@@ -1,5 +1,7 @@
 ##### § 106.56 Fringe benefits. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Fringe benefits defined.* For purposes of this part, *fringe benefits* means: Any medical, hospital, accident, life insurance or retirement benefit, service, policy or plan, any profit-sharing or bonus plan, leave, and any other benefit or service of employment not subject to the provision of § 106.54.
 
 (b) *Prohibitions.* A recipient shall not:

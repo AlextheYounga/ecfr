@@ -1,8 +1,6 @@
 ##### § 501.7 Postage Evidencing System requirements. #####
 
-Link to an amendment published at 85 FR 21777, Apr. 20, 2020.
-
-(a) A Postage Evidencing System submitted to the Postal Service for approval must meet the requirements of the Intelligent Mail Indicia Performance Criteria published by PT. Copies of the current Performance Criteria may be requested via mail to the address in § 501.2(g).
+(a) A Postage Evidencing System submitted to the Postal Service for approval must meet the requirements of the Intelligent Mail Indicia Performance Criteria (IMIPC) published by Commercial Payment. Copies of the current IMIPC may be requested via mail to the address in § 501.2(f).
 
 (b) The provider must affix to all meters a cautionary message providing the meter user with basic reminders on leasing and meter movement.
 
@@ -36,4 +34,4 @@ REWARD UP TO $50,000 for information leading to the conviction of any person who
 
 (3) The customer understands that images or other matter is not provided, approved, or endorsed in any way by the Postal Service.
 
-[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013; 82 FR 60118, Dec. 19, 2017]
+[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013; 82 FR 60118, Dec. 19, 2017; 85 FR 21777, Apr. 20, 2020]

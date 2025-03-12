@@ -1,5 +1,7 @@
 ##### § 106.34 Access to classes and schools. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *General standard.* Except as provided for in this section or otherwise in this part, a recipient shall not provide or otherwise carry out any of its education programs or activities separately on the basis of sex, or require or refuse participation therein by any of its students on the basis of sex.
 
 (1) *Contact sports in physical education classes.* This section does not prohibit separation of students by sex within physical education classes or activities during participation in wrestling, boxing, rugby, ice hockey, football, basketball, and other sports the purpose or major activity of which involves bodily contact.

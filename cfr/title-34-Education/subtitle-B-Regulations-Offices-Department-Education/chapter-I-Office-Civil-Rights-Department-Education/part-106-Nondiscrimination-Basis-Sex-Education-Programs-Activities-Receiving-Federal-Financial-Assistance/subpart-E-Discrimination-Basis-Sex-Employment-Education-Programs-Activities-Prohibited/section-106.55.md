@@ -1,5 +1,7 @@
 ##### § 106.55 Job classification and structure. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 A recipient shall not:
 
 (a) Classify a job as being for males or for females;

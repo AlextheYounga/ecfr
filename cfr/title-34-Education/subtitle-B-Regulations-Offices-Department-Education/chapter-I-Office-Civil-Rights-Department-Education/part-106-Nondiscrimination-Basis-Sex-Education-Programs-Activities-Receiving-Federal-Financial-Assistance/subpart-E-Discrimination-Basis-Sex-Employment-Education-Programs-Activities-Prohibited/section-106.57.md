@@ -1,5 +1,7 @@
 ##### § 106.57 Marital or parental status. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *General.* A recipient shall not apply any policy or take any employment action:
 
 (1) Concerning the potential marital, parental, or family status of an employee or applicant for employment which treats persons differently on the basis of sex; or

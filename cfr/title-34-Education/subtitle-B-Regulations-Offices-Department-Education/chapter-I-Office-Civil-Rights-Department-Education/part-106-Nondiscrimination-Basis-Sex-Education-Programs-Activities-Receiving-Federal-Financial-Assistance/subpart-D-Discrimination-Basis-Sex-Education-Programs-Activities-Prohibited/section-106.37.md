@@ -1,5 +1,7 @@
 ##### § 106.37 Financial assistance. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *General.* Except as provided in paragraphs (b) and (c) of this section, in providing financial assistance to any of its students, a recipient shall not:
 
 (1) On the basis of sex, provide different amount or types of such assistance, limit eligibility for such assistance which is of any particular type or source, apply different criteria, or otherwise discriminate;

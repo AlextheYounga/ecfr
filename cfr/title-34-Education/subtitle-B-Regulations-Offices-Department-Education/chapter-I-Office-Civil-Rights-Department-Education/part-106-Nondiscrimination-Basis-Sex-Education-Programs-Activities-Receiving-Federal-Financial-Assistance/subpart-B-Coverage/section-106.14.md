@@ -1,5 +1,7 @@
 ##### § 106.14 Membership practices of certain organizations. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Social fraternities and sororities.* This part does not apply to the membership practices of social fraternities and sororities which are exempt from taxation under section 501(a) of the Internal Revenue Code of 1954, the active membership of which consists primarily of students in attendance at institutions of higher education.
 
 (b) *YMCA, YWCA, Girl Scouts, Boy Scouts and Camp Fire Girls.* This part does not apply to the membership practices of the Young Men's Christian Association, the Young Women's Christian Association, the Girl Scouts, the Boy Scouts and Camp Fire Girls.

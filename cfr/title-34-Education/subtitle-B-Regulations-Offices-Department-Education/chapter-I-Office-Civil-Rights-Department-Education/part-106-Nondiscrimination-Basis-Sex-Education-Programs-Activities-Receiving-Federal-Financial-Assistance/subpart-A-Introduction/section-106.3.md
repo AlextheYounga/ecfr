@@ -1,5 +1,7 @@
 ##### § 106.3 Remedial and affirmative action and self-evaluation. #####
 
+Link to an amendment published at 85 FR 30572, May 19, 2020.Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Remedial action.* If the Assistant Secretary finds that a recipient has discriminated against persons on the basis of sex in an education program or activity, such recipient shall take such remedial action as the Assistant Secretary deems necessary to overcome the effects of such discrimination.
 
 (b) *Affirmative action.* In the absence of a finding of discrimination on the basis of sex in an education program or activity, a recipient may take affirmative action to overcome the effects of conditions which resulted in limited participation therein by persons of a particular sex. Nothing herein shall be interpreted to alter any affirmative action obligations which a recipient may have under Executive Order 11246.

@@ -1,5 +1,7 @@
 ##### § 106.54 Compensation. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 A recipient shall not make or enforce any policy or practice which, on the basis of sex:
 
 (a) Makes distinctions in rates of pay or other compensation;

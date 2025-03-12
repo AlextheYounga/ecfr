@@ -1,5 +1,7 @@
 ##### § 106.52 Employment criteria. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 A recipient shall not administer or operate any test or other criterion for any employment opportunity which has a disproportionately adverse effect on persons on the basis of sex unless:
 
 (a) Use of such test or other criterion is shown to predict validly successful performance in the position in question; and

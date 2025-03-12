@@ -1,5 +1,7 @@
 ##### § 106.16 Educational institutions eligible to submit transition plans. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Application.* This section applies to each educational institution to which subpart C applies which:
 
 (1) Admitted only students of one sex as regular students as of June 23, 1972; or

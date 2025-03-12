@@ -1,5 +1,7 @@
 ##### § 106.17 Transition plans. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Submission of plans.* An institution to which § 106.16 applies and which is composed of more than one administratively separate unit may submit either a single transition plan applicable to all such units, or a separate transition plan applicable to each such unit.
 
 (b) *Content of plans.* In order to be approved by the Secretary a transition plan shall:

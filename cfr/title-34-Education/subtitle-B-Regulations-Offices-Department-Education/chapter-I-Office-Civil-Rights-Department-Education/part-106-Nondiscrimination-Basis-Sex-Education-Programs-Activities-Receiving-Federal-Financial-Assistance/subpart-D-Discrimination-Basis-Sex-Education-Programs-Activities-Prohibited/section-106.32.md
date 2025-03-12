@@ -1,5 +1,7 @@
 ##### § 106.32 Housing. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *Generally.* A recipient shall not, on the basis of sex, apply different rules or regulations, impose different fees or requirements, or offer different services or benefits related to housing, except as provided in this section (including housing provided only to married students).
 
 (b) *Housing provided by recipient.* (1) A recipient may provide separate housing on the basis of sex.

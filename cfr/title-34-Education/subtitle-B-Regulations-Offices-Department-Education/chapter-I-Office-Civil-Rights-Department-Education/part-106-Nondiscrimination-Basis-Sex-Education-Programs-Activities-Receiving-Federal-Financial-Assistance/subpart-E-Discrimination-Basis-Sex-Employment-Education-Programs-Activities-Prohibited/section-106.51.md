@@ -1,5 +1,7 @@
 ##### § 106.51 Employment. #####
 
+Link to an amendment published at 85 FR 30579, May 19, 2020.
+
 (a) *General.* (1) No person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination in employment, or recruitment, consideration, or selection therefor, whether full-time or part-time, under any education program or activity operated by a recipient which receives Federal financial assistance.
 
 (2) A recipient shall make all employment decisions in any education program or activity operated by such recipient in a nondiscriminatory manner and shall not limit, segregate, or classify applicants or employees in any way which could adversely affect any applicant's or employee's employment opportunities or status because of sex.
