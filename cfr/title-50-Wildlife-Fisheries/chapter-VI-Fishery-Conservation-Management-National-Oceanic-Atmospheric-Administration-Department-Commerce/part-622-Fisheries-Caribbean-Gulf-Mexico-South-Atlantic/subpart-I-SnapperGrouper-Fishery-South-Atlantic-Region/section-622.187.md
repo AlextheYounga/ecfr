@@ -40,7 +40,7 @@
 
 (8) *South Atlantic snapper-grouper, combined* - 20. However, excluded from this 20-fish bag limit are tomtate, South Atlantic snapper-grouper ecosystem component species (specified in Table 4 of appendix A to part 622), and those specified in paragraphs (b)(1) through (7) and paragraphs (b)(9) and (10) of this section.
 
-(9) *Red snapper* - 0, except during a limited recreational fishing season, as specified in § 622.183(b)(5), during which time the bag limit is 1 fish.
+(9) *Red snapper* - 1.
 
 (10) No more than one fish per vessel may be a wreckfish.
 
@@ -54,4 +54,4 @@
 
 (2) A person aboard a vessel may not possess red porgy in or from the EEZ in excess of three per day or three per trip, whichever is more restrictive.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018]

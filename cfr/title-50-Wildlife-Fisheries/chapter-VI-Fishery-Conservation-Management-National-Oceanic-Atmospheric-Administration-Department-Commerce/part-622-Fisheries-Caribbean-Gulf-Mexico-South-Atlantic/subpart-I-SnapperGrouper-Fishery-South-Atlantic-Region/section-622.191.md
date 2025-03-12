@@ -42,7 +42,7 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (iii) See § 622.190(c)(1) for the limitations regarding black sea bass after the applicable quota is reached.
 
-(9) *Red snapper.* During a limited commercial fishing season, as specified in § 622.183(b)(5), and until the commercial ACL specified in § 622.193(y)(1) is reached, 75 lb (34 kg), gutted weight. See § 622.193(y)(1) for the limitations regarding red snapper after the commercial ACL is reached.
+(9) *Red snapper.* Until the commercial ACL specified in § 622.193(y)(1) is reached, 75 lb (34 kg), gutted weight.
 
 (10) *Blueline tilefish.* Until the ACL specified in § 622.193(z)(1)(i) is reached or projected to be reached, 300 lb (136 kg), gutted weight; 336 lb (152 kg), round weight. See § 622.193(z)(1)(i) for the limitations regarding blueline tilefish after the commercial ACL is reached.
 
@@ -62,4 +62,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (b) When a vessel fishes for hogfish on a trip in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida, the vessel trip limit specified in paragraph (a)(12)(ii) of this section applies, provided persons aboard are not subject to the bag limit. See § 622.11(a) and § 622.187(a) for applicability of the bag limit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018]
