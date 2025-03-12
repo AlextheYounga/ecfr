@@ -1,3 +1,9 @@
-##### § 54.9801-1T xxx #####
+##### § 54.9801-1T Basis and scope (temporary). #####
 
-Link to an amendment published at 86 FR 36947, July 13, 2021.
+(a) *Statutory basis.* This section and §§ 54.9801-2 through 54.9801-6, 54.9802-1, 54.9802-2, 54.9802-3T, 54.9802-4, 54.9811-1, 54.9812-1, 54.9815-1251, 54.9815-2704, 54.9815-2705, 54.9815-2708, 54.9815-2711, 54.9815-2712, 54.9815-2713, 54.9815-2713A, 54.9815-2714, 54.9815-2715, 54.9815-2715A1, 54.9815-2715A2, 54.9815-2715A3, 54.9815-2719, 54.9815-2715A, 54.9816-1 through 9816-7, 54.9831-1, and 54.9833-1 implement Chapter 100 of Subtitle K of the Internal Revenue Code of 1986.
+
+(b) *Scope.* A group health plan or health insurance issuer offering group health insurance coverage may provide greater rights to participants and beneficiaries than those set forth in the portability and market reform sections of this part. This part sets forth minimum requirements for group health plans and group health insurance issuers offering group health insurance coverage concerning certain consumer protections of the Health Insurance Portability and Accountability Act (HIPAA), including special enrollment periods and the prohibition against discrimination based on a health factor, as amended by the Patient Protection and Affordable Care Act (Affordable Care Act). Other consumer protection provisions, including other protections provided by the Affordable Care Act, the Mental Health Parity and Addiction Equity Act, and the No Surprises Act are set forth in this part.
+
+(c) *Similar requirements under the Employee Retirement Income Security Act and the Public Health Service Act.* Sections 701, 702, 703, 711, 712, 716, 717, 732, and 733 of the Employee Retirement Income Security Act of 1974 and sections 2701, 2702, 2704, 2705, 2721, 2791, 2799A-1, and 2799A-2 of the Public Health Service Act impose requirements similar to those imposed under Chapter 100 of Subtitle K with respect to health insurance issuers offering group health insurance coverage. *See* 29 CFR part 2590 and 45 CFR parts 144, 146, 148, and 149. See also part B of Title XXVII of the Public Health Service Act and 45 CFR parts 148 and 149 for other rules applicable to health insurance offered in the individual market (defined in § 54.9801-2).
+
+[T.D. 9951, 86 FR 36947, July 13, 2021]

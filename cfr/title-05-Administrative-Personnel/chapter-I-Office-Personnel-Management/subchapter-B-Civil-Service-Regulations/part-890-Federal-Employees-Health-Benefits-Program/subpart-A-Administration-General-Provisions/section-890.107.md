@@ -1,7 +1,5 @@
 ##### § 890.107 Court review. #####
 
-Link to an amendment published at 86 FR 36947, July 13, 2021.
-
 (a) A suit to compel enrollment under § 890.102 must be brought against the employing office that made the enrollment decision.
 
 (b) A suit to review the legality of OPM's regulations under this part must be brought against the Office of Personnel Management.
@@ -16,4 +14,6 @@ Link to an amendment published at 86 FR 36947, July 13, 2021.
 
 (3) Will be limited to the record that was before OPM when it rendered its decision affirming the carrier's denial of benefits.
 
-[61 FR 15179, Apr. 5, 1996]
+(e) A suit for equitable relief founded on 5 U.S.C. chapter 89 that is based on 5 U.S.C. 8902(p) and is governed by 5 CFR part 890 must be brought against OPM by December 31 of the 3rd year after the year in which disputed services were rendered.
+
+[61 FR 15179, Apr. 5, 1996, as amended at 86 FR 36947, July 13, 2021]

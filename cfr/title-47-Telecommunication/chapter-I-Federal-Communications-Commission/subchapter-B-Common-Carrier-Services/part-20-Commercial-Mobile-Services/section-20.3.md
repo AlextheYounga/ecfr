@@ -1,8 +1,8 @@
 ##### § 20.3 Definitions. #####
 
-Link to an amendment published at 86 FR 44638, Aug. 13, 2021.
-
 *Automatic Roaming.* With automatic roaming, under a pre-existing contractual agreement between a subscriber's home carrier and a host carrier, a roaming subscriber is able to originate or terminate a call in the host carrier's service area without taking any special actions.
+
+*CIS Operator.* An operator of a CIS at a correctional facility, whether a CIS solutions provider, or a DCFO or responsible party that deploys its own CIS at a correctional facility.
 
 *Commercial mobile data service.* (1) Any mobile data service that is not interconnected with the public switched network and is:
 
@@ -28,6 +28,14 @@ Link to an amendment published at 86 FR 44638, Aug. 13, 2021.
 
 *Consumer Signal Booster.* A bi-directional signal booster that is marketed and sold for use without modification.
 
+*Contraband Interdiction System.* A Contraband Interdiction System (CIS) is any system comprised of one or more stations that is used only at a permanent correctional facility that is authorized to operate such systems pursuant to this part and that is designed exclusively to prevent transmissions to or from contraband wireless devices within the boundaries of the facility and/or to obtain identifying information from such contraband wireless devices.
+
+*Designated Correctional Facility Official.* A Designated Correctional Facility Official (DCFO) is an official of the state, local, or Federal government responsible for administration and oversight of the relevant correctional facility where a contraband wireless device is located.
+
+(1) In government-run correctional facilities, this definition requires the DCFO to be, at a minimum, the official with responsibility for oversight of the relevant facility (*e.g.,* the warden) or higher ranking official.
+
+(2) In privately-run correctional facilities, this definition requires the DCFO to be a government official with responsibility for oversight of the facility's performance through contract.
+
 *Fixed Consumer Signal Booster.* A Consumer Signal Booster designed to be operated in a fixed location in a building.
 
 *Host Carrier.* For automatic roaming, the host carrier is a facilities-based CMRS carrier on whose system another carrier's subscriber roams. A facilities-based CMRS carrier may, on behalf of its subscribers, request automatic roaming service from a host carrier.
@@ -43,6 +51,12 @@ Link to an amendment published at 86 FR 44638, Aug. 13, 2021.
 (a) That is interconnected with the public switched network, or interconnected with the public switched network through an interconnected service provider, that gives subscribers the capability to communicate to or receive communication from all other users on the public switched network; or
 
 (b) For which a request for such interconnection is pending pursuant to section 332(c)(1)(B) of the Communications Act, 47 U.S.C. 332(c)(1)(B). A mobile service offers interconnected service even if the service allows subscribers to access the public switched network only during specified hours of the day, or if the service provides general access to points on the public switched network but also restricts access in certain limited ways. Interconnected service does not include any interface between a licensee's facilities and the public switched network exclusively for a licensee's internal control purposes.
+
+*Managed Access System.* A Managed Access System (MAS) is a Contraband Interdiction System whose operations require:
+
+(1) One or more lease agreements with CMRS operators; and
+
+(2) Real-time awareness of wireless provider spectrum use in the vicinity of the correctional facility where it is deployed.
 
 *Manual Roaming.* With manual roaming, a subscriber must establish a relationship with the host carrier on whose system he or she wants to roam in order to make a call. Typically, the roaming subscriber accomplishes this in the course of attempting to originate a call by giving a valid credit card number to the carrier providing the roaming service.
 
@@ -78,4 +92,4 @@ Link to an amendment published at 86 FR 44638, Aug. 13, 2021.
 
 *Wideband Consumer Signal Boosters.* Wideband Consumer Signal Boosters may operate on the frequencies and in the market areas of multiple licensees.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018; 83 FR 7922, Feb. 22, 2018; 83 FR 17090, Apr. 18, 2018; 84 FR 66779, Dec. 5, 2019]
+[59 FR 18495, Apr. 19, 1994]Editorial Note:For Federal Register citations affecting § 20.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

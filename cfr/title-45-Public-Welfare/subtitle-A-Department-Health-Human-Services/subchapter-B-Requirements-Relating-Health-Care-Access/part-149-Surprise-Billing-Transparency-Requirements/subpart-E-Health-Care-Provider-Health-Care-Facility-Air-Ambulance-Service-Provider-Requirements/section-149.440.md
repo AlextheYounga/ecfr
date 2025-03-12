@@ -1,0 +1,5 @@
+##### § 149.440 Balance billing in cases of air ambulance services. #####
+
+(a) *In general.* In the case of a participant, beneficiary, or enrollee with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer who is furnished air ambulance services (for which benefits are available under such plan or coverage) from a nonparticipating provider of air ambulance services, with respect to such plan or coverage, the provider must not bill, and must not hold liable, the participant, beneficiary, or enrollee for a payment amount for the air ambulance services furnished by the provider that is more than the cost-sharing amount for such service (as determined in accordance with 26 CFR 54.9817-1T(b)(1) and (2), 29 CFR 2590.717-1(b)(1) and (2), and § 149.130(b)(1) and (2), as applicable).
+
+(b) *Applicability date.* The provisions of this section are applicable with respect to air ambulance services furnished during a plan year (in the individual market, policy year) beginning on or after January 1, 2022.

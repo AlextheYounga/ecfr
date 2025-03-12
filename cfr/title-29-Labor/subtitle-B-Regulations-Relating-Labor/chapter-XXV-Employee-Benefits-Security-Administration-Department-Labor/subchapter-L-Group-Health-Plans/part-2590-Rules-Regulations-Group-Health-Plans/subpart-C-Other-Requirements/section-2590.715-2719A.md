@@ -1,8 +1,6 @@
 ##### § 2590.715-2719A Patient protections. #####
 
-Link to an amendment published at 86 FR 36959, July 13, 2021.
-
-(a) *Choice of health care professional* - (1) *Designation of primary care provider* - (i) *In general.* If a group health plan, or a health insurance issuer offering group health insurance coverage, requires or provides for designation by a participant or beneficiary of a participating primary care provider, then the plan or issuer must permit each participant or beneficiary to designate any participating primary care provider who is available to accept the participant or beneficiary. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant of the terms of the plan or health insurance coverage regarding designation of a primary care provider.
+(a) *Choice of health care professional*—(1) *Designation of primary care provider*—(i) *In general.* If a group health plan, or a health insurance issuer offering group health insurance coverage, requires or provides for designation by a participant or beneficiary of a participating primary care provider, then the plan or issuer must permit each participant or beneficiary to designate any participating primary care provider who is available to accept the participant or beneficiary. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant of the terms of the plan or health insurance coverage regarding designation of a primary care provider.
 
 (ii) *Construction.* Nothing in paragraph (a)(1)(i) of this section is to be construed to prohibit the application of reasonable and appropriate geographic limitations with respect to the selection of primary care providers, in accordance with the terms of the plan or coverage, the underlying provider contracts, and applicable State law.
 
@@ -12,7 +10,7 @@ Example.(i) *Facts.* A group health plan requires individuals covered under the 
 
 (ii) *Conclusion.* In this *Example,* the plan has satisfied the requirements of paragraph (a) of this section.
 
-(2) *Designation of pediatrician as primary care provider* - (i) *In general.* If a group health plan, or a health insurance issuer offering group health insurance coverage, requires or provides for the designation of a participating primary care provider for a child by a participant or beneficiary, the plan or issuer must permit the participant or beneficiary to designate a physician (allopathic or osteopathic) who specializes in pediatrics (including pediatric subspecialties, based on the scope of that provider's license under applicable State law) as the child's primary care provider if the provider participates in the network of the plan or issuer and is available to accept the child. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant of the terms of the plan or health insurance coverage regarding designation of a pediatrician as the child's primary care provider.
+(2) *Designation of pediatrician as primary care provider*—(i) *In general.* If a group health plan, or a health insurance issuer offering group health insurance coverage, requires or provides for the designation of a participating primary care provider for a child by a participant or beneficiary, the plan or issuer must permit the participant or beneficiary to designate a physician (allopathic or osteopathic) who specializes in pediatrics (including pediatric subspecialties, based on the scope of that provider's license under applicable State law) as the child's primary care provider if the provider participates in the network of the plan or issuer and is available to accept the child. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant of the terms of the plan or health insurance coverage regarding designation of a pediatrician as the child's primary care provider.
 
 (ii) *Construction.* Nothing in paragraph (a)(2)(i) of this section is to be construed to waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of pediatric care.
 
@@ -26,17 +24,17 @@ Example 2.(i) *Facts.* Same facts as *Example 1,* except that *A* takes *A'*s ch
 
 (ii) *Conclusion.* In this *Example 2,* the HMO has not violated the requirements of this paragraph (a)(2) because the exclusion of treatment for food allergies is in accordance with the terms of *A'*s coverage.
 
-(3) *Patient access to obstetrical and gynecological care* - (i) *General rights* - (A) *Direct access.* A group health plan, or a health insurance issuer offering group health insurance coverage, described in paragraph (a)(3)(ii) of this section may not require authorization or referral by the plan, issuer, or any person (including a primary care provider) in the case of a female participant or beneficiary who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant that the plan may not require authorization or referral for obstetrical or gynecological care by a participating health care professional who specializes in obstetrics or gynecology. The plan or issuer may require such a professional to agree to otherwise adhere to the plan's or issuer's policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer. For purposes of this paragraph (a)(3), a health care professional who specializes in obstetrics or gynecology is any individual (including a person other than a physician) who is authorized under applicable State law to provide obstetrical or gynecological care.
+(3) *Patient access to obstetrical and gynecological care*—(i) *General rights*—(A) *Direct access.* A group health plan, or a health insurance issuer offering group health insurance coverage, described in paragraph (a)(3)(ii) of this section may not require authorization or referral by the plan, issuer, or any person (including a primary care provider) in the case of a female participant or beneficiary who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant that the plan may not require authorization or referral for obstetrical or gynecological care by a participating health care professional who specializes in obstetrics or gynecology. The plan or issuer may require such a professional to agree to otherwise adhere to the plan's or issuer's policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer. For purposes of this paragraph (a)(3), a health care professional who specializes in obstetrics or gynecology is any individual (including a person other than a physician) who is authorized under applicable State law to provide obstetrical or gynecological care.
 
 (B) *Obstetrical and gynecological care.* A group health plan or health insurance issuer described in paragraph (a)(3)(ii) of this section must treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under paragraph (a)(3)(i)(A) of this section, by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
 
-(ii) *Application of paragraph.* A group health plan, or a health insurance issuer offering group health insurance coverage, is described in this paragraph (a)(3) if the plan or issuer -
+(ii) *Application of paragraph.* A group health plan, or a health insurance issuer offering group health insurance coverage, is described in this paragraph (a)(3) if the plan or issuer—
 
 (A) Provides coverage for obstetrical or gynecological care; and
 
 (B) Requires the designation by a participant or beneficiary of a participating primary care provider.
 
-(iii) *Construction.* Nothing in paragraph (a)(3)(i) of this section is to be construed to -
+(iii) *Construction.* Nothing in paragraph (a)(3)(i) of this section is to be construed to—
 
 (A) Waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
 
@@ -60,7 +58,7 @@ Example 4.(i) *Facts.* A group health plan requires each participant to designat
 
 (ii) *Conclusion.* In this *Example 4,* the plan requirement for prior authorization before providing benefits for uterine fibroid embolization does not violate the requirements of this paragraph (a)(3) because, though the prior authorization requirement applies to obstetrical services, it does not restrict access to any providers specializing in obstetrics or gynecology.
 
-(4) *Notice of right to designate a primary care provider* - (i) *In general.* If a group health plan or health insurance issuer requires the designation by a participant or beneficiary of a primary care provider, the plan or issuer must provide a notice informing each participant of the terms of the plan or health insurance coverage regarding designation of a primary care provider and of the rights -
+(4) *Notice of right to designate a primary care provider*—(i) *In general.* If a group health plan or health insurance issuer requires the designation by a participant or beneficiary of a primary care provider, the plan or issuer must provide a notice informing each participant of the terms of the plan or health insurance coverage regarding designation of a primary care provider and of the rights—
 
 (A) Under paragraph (a)(1)(i) of this section, that any participating primary care provider who is available to accept the participant or beneficiary can be designated;
 
@@ -84,9 +82,9 @@ For children, you may designate a pediatrician as the primary care provider.
 
 You do not need prior authorization from [name of group health plan or issuer] or from any other person (including a primary care provider) in order to obtain access to obstetrical or gynecological care from a health care professional in our network who specializes in obstetrics or gynecology. The health care professional, however, may be required to comply with certain procedures, including obtaining prior authorization for certain services, following a pre-approved treatment plan, or procedures for making referrals. For a list of participating health care professionals who specialize in obstetrics or gynecology, contact the [plan administrator or issuer] at [insert contact information].
 
-(b) *Coverage of emergency services* - (1) *Scope.* If a group health plan, or a health insurance issuer offering group health insurance coverage, provides any benefits with respect to services in an emergency department of a hospital, the plan or issuer must cover emergency services (as defined in paragraph (b)(4)(ii) of this section) consistent with the rules of this paragraph (b).
+(b) *Coverage of emergency services*—(1) *Scope.* If a group health plan, or a health insurance issuer offering group health insurance coverage, provides any benefits with respect to services in an emergency department of a hospital, the plan or issuer must cover emergency services (as defined in paragraph (b)(4)(ii) of this section) consistent with the rules of this paragraph (b).
 
-(2) *General rules.* A plan or issuer subject to the requirements of this paragraph (b) must provide coverage for emergency services in the following manner -
+(2) *General rules.* A plan or issuer subject to the requirements of this paragraph (b) must provide coverage for emergency services in the following manner—
 
 (i) Without the need for any prior authorization determination, even if the emergency services are provided on an out-of-network basis;
 
@@ -96,7 +94,7 @@ You do not need prior authorization from [name of group health plan or issuer] o
 
 (iv) If the emergency services are provided out of network, by complying with the cost-sharing requirements of paragraph (b)(3) of this section; and
 
-(v) Without regard to any other term or condition of the coverage, other than -
+(v) Without regard to any other term or condition of the coverage, other than—
 
 (A) The exclusion of or coordination of benefits;
 
@@ -104,7 +102,7 @@ You do not need prior authorization from [name of group health plan or issuer] o
 
 (C) Applicable cost sharing.
 
-(3) *Cost-sharing requirements* - (i) *Copayments and coinsurance.* Any cost-sharing requirement expressed as a copayment amount or coinsurance rate imposed with respect to a participant or beneficiary for out-of-network emergency services cannot exceed the cost-sharing requirement imposed with respect to a participant or beneficiary if the services were provided in-network. However, a participant or beneficiary may be required to pay, in addition to the in-network cost sharing, the excess of the amount the out-of-network provider charges over the amount the plan or issuer is required to pay under this paragraph (b)(3)(i). A group health plan or health insurance issuer complies with the requirements of this paragraph (b)(3) if it provides benefits with respect to an emergency service in an amount at least equal to the greatest of the three amounts specified in paragraphs (b)(3)(i)(A), (B), and (C) of this section (which are adjusted for in-network cost-sharing requirements).
+(3) *Cost-sharing requirements*—(i) *Copayments and coinsurance.* Any cost-sharing requirement expressed as a copayment amount or coinsurance rate imposed with respect to a participant or beneficiary for out-of-network emergency services cannot exceed the cost-sharing requirement imposed with respect to a participant or beneficiary if the services were provided in-network. However, a participant or beneficiary may be required to pay, in addition to the in-network cost sharing, the excess of the amount the out-of-network provider charges over the amount the plan or issuer is required to pay under this paragraph (b)(3)(i). A group health plan or health insurance issuer complies with the requirements of this paragraph (b)(3) if it provides benefits with respect to an emergency service in an amount at least equal to the greatest of the three amounts specified in paragraphs (b)(3)(i)(A), (B), and (C) of this section (which are adjusted for in-network cost-sharing requirements).
 
 (A) The amount negotiated with in-network providers for the emergency service furnished, excluding any in-network copayment or coinsurance imposed with respect to the participant or beneficiary. If there is more than one amount negotiated with in-network providers for the emergency service, the amount described under this paragraph (b)(3)(i)(A) is the median of these amounts, excluding any in-network copayment or coinsurance imposed with respect to the participant or beneficiary. In determining the median described in the preceding sentence, the amount negotiated with each in-network provider is treated as a separate amount (even if the same amount is paid to more than one provider). If there is no per-service amount negotiated with in-network providers (such as under a capitation or other similar payment arrangement), the amount under this paragraph (b)(3)(i)(A) is disregarded.
 
@@ -138,7 +136,7 @@ Example 4.(i) *Facts.* Same facts as *Example 3.* Subsequently, the plan adds an
 
 Example 5.(i) *Facts.* Same facts as *Example 4.* An individual covered by the plan receives the emergency service from an out-of-network provider, who charges $125 for the service. With respect to services provided by out-of-network providers generally, the plan reimburses covered individuals 50% of the reasonable amount charged by the provider for medical services. For this purpose, the reasonable amount for any service is based on information on charges by all providers collected by a third party, on a zip code by zip code basis, with the plan treating charges at a specified percentile as reasonable. For the emergency service received by the individual, the reasonable amount calculated using this method is $116. The amount that would be paid under Medicare for the emergency service, excluding any copayment or coinsurance for the service, is $80.
 
-(ii) *Conclusion.* In this *Example 5,* the plan is responsible for paying $92.80, 80% of $116. The median amount among those agreed to for the emergency service is $115 and the amount the plan would pay is $92 (80% of $115); the amount calculated using the same method the plan uses to determine payments for out-of-network services - $116 - excluding the in-network 20% coinsurance, is $92.80; and the Medicare payment is $80. Thus, the greatest amount is $92.80. The individual is responsible for the remaining $32.20 charged by the out-of-network provider.
+(ii) *Conclusion.* In this *Example 5,* the plan is responsible for paying $92.80, 80% of $116. The median amount among those agreed to for the emergency service is $115 and the amount the plan would pay is $92 (80% of $115); the amount calculated using the same method the plan uses to determine payments for out-of-network services—$116—excluding the in-network 20% coinsurance, is $92.80; and the Medicare payment is $80. Thus, the greatest amount is $92.80. The individual is responsible for the remaining $32.20 charged by the out-of-network provider.
 
 Example 6.(i) *Facts.* Same facts as *Example 5.* The group health plan generally imposes a $250 deductible for in-network health care. With respect to all health care provided by out-of-network providers, the plan imposes a $500 deductible. (Covered in-network claims are credited against the deductible.) The individual has incurred and submitted $260 of covered claims prior to receiving the emergency service out of network.
 
@@ -148,7 +146,7 @@ Example 6.(i) *Facts.* Same facts as *Example 5.* The group health plan generall
 
 (i) *Emergency medical condition.* The term *emergency medical condition* means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) so that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1867(e)(1)(A) of the Social Security Act (42 U.S.C. 1395dd(e)(1)(A)). (In that provision of the Social Security Act, clause (i) refers to placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy; clause (ii) refers to serious impairment to bodily functions; and clause (iii) refers to serious dysfunction of any bodily organ or part.)
 
-(ii) *Emergency services.* The term *emergency services* means, with respect to an emergency medical condition -
+(ii) *Emergency services.* The term *emergency services* means, with respect to an emergency medical condition—
 
 (A) A medical screening examination (as required under section 1867 of the Social Security Act, 42 U.S.C. 1395dd) that is within the capability of the emergency department of a hospital, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition, and
 
@@ -156,6 +154,6 @@ Example 6.(i) *Facts.* Same facts as *Example 5.* The group health plan generall
 
 (iii) *Stabilize.* The term *to stabilize,* with respect to an emergency medical condition (as defined in paragraph (b)(4)(i) of this section) has the meaning given in section 1867(e)(3) of the Social Security Act (42 U.S.C. 1395dd(e)(3)).
 
-(c) *Applicability date.* The provisions of this section are applicable to group health plans and health insurance issuers for plan years beginning on or after January 1, 2017. Until the applicability date for this regulation, plans and issuers are required to continue to comply with the corresponding sections of 29 CFR part 2590, contained in the 29 CFR, parts 1927 to end, edition revised as of July 1, 2015.
+(c) *Applicability date.* The provisions of this section are applicable to group health plans and health insurance issuers for plan years beginning before January 1, 2022. *See also* §§ 2590.716-4 through 2590.716-7, 2590.717-1, and 2590.722 of this part for rules applicable with respect to plan years beginning on or after January 1, 2022.
 
-[80 FR 72270, Nov. 18, 2015]
+[80 FR 72270, Nov. 18, 2015, as amended at 86 FR 36959, July 13, 2021]

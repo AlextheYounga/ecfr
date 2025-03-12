@@ -1,5 +1,7 @@
 ##### § 17.4130 Discontinuation of Veterans Care Agreements. #####
 
+Link to an amendment published at 86 FR 50861, Sept. 13, 2021.
+
 (a) Discontinuation of the agreement by the entity or provider requires a written notice of request to discontinue, in accordance with the terms of the Veterans Care Agreement and the following notice requirements:
 
 (1) Written notice must be received by VA at least 45 calendar days before the discontinuation date and must specify the discontinuation date; and

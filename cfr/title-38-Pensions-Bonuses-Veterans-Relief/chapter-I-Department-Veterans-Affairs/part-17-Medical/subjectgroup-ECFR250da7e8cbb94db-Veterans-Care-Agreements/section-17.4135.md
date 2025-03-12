@@ -1,5 +1,7 @@
 ##### § 17.4135 Disputes. #####
 
+Link to an amendment published at 86 FR 50861, Sept. 13, 2021.
+
 (a) *General.* (1) This section establishes the administrative procedures and requirements for asserting and resolving disputes arising under or related to a Veterans Care Agreement. For purposes of this section, a dispute means a disagreement, between VA and the entity or provider that entered into the subject Veterans Care Agreement with VA, that meets the following criteria:
 
 (i) Pertains to one of the subject matters set forth in paragraph (b) of this section;

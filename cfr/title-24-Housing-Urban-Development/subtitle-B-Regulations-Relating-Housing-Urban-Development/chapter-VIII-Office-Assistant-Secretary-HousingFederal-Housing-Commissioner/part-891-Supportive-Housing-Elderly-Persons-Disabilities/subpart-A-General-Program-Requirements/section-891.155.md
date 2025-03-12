@@ -16,7 +16,7 @@ In addition to the requirements set forth in 24 CFR part 5, the following requir
 
 (3) Sponsors, Owners, contractors, and subcontractors must comply with all related rules, regulations, and requirements.
 
-(e) *Displacement, relocation, and real property acquisition* - (1) *Minimizing displacement.* Consistent with the other goals and objectives of this part, Sponsors and Owners (or Borrowers, if applicable) shall assure that they have taken all reasonable steps to minimize the displacement of persons (families, individuals, businesses, nonprofit organizations, and farms) as a result of a project assisted under this part.
+(e) *Displacement, relocation, and real property acquisition*—(1) *Minimizing displacement.* Consistent with the other goals and objectives of this part, Sponsors and Owners (or Borrowers, if applicable) shall assure that they have taken all reasonable steps to minimize the displacement of persons (families, individuals, businesses, nonprofit organizations, and farms) as a result of a project assisted under this part.
 
 (2) *Relocation assistance for displaced persons.* A displaced person must be provided relocation assistance at the levels described in, and in accordance with the requirements of, the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (URA) (42 U.S.C. 4201-4655), as implemented by 49 CFR part 24.
 
@@ -24,6 +24,6 @@ In addition to the requirements set forth in 24 CFR part 5, the following requir
 
 (f) *Intergovernmental review.* The requirements for intergovernmental review in Executive Order No. 12372 (47 FR 30959, 3 CFR, 1982 Comp., p. 197; as amended by Executive Order No. 12416 (48 FR 15587, 3 CFR, 1983 Comp., p. 186)) and the implementing regulations at 24 CFR part 52 are applicable to this program.
 
-(g) Lead-based paint. The requirements of the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at part 35, subparts A, B, H, J, and R of this title apply to these programs.
+(g) *Lead-based paint.* The requirements of the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at part 35, subparts A, B, H, J, and R of this title apply to these programs.
 
 [61 FR 11956, Mar. 22, 1996, as amended at 64 FR 50227, Sept. 15, 1999; 69 FR 34275, June 21, 2004]

@@ -1,5 +1,7 @@
 ##### § 17.4110 Entity or provider certification. #####
 
+Link to an amendment published at 86 FR 50861, Sept. 13, 2021.
+
 (a) *General.* To be eligible to enter into a Veterans Care Agreement, an entity or provider must be certified by VA in accordance with the process and criteria established in paragraph (b) of this section. Additionally, an entity or provider must be actively certified while furnishing hospital care, medical services, or extended care services pursuant to a Veterans Care Agreement that the entity or provider has entered into with VA.
 
 (b) *Process and criteria* - (1) *Application for certification.* An entity or provider must apply for certification by submitting the following information and documentation to VA:

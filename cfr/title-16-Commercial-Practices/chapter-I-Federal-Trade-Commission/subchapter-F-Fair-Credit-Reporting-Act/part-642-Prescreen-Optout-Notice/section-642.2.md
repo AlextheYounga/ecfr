@@ -1,5 +1,7 @@
 ##### § 642.2 Definitions. #####
 
+Link to an amendment published at 86 FR 50850, Sept. 13, 2021.
+
 As used in this part:
 
 (a) *Simple and easy to understand* means:
