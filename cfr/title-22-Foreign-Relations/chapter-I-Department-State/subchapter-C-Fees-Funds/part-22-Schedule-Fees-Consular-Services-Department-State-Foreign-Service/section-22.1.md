@@ -1,5 +1,7 @@
 ##### § 22.1 Schedule of fees. #####
 
+Link to an amendment published at 83 FR 4428, Jan. 31, 2018.
+
 The following table sets forth the new fees for the following categories listed on the U.S. Department of State's Schedule of Fees for Consular Services:
 
 Schedule of Fees for Consular Services

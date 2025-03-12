@@ -2,7 +2,7 @@
 
 As prescribed in 225.771-5, use the following provision:
 
-Disclosure of Ownership or Control by the Government of a Country That Is a State Sponsor of Terrorism (OCT 2015)
+Disclosure of Ownership or Control by the Government of a Country That Is a State Sponsor of Terrorism (JAN 2018)
 
 (a) *Definitions.* As used in this provision -
 
@@ -20,7 +20,7 @@ Disclosure of Ownership or Control by the Government of a Country That Is a Stat
 
 (v) Holding 50 percent or more of the indebtedness of a firm.
 
-*State sponsor of terrorism* means a country determined by the Secretary of State, under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of the date of this provision, state sponsors of terrorism include: Iran, Sudan, and Syria.
+*State sponsor of terrorism* means a country determined by the Secretary of State, under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of the date of this provision, state sponsors of terrorism include: Iran, North Korea, Sudan, and Syria.
 
 (b) *Prohibition on award.* In accordance with 10 U.S.C. 2327, unless a waiver is granted by the Secretary of Defense, no contract may be awarded to a firm if the government of a country that is a state sponsor of terrorism owns or controls a significant interest in -
 
@@ -46,4 +46,4 @@ Disclosure of Ownership or Control by the Government of a Country That Is a Stat
 
 (ii) A description of the significant interest held by each government.
 
-(End of provision)[79 FR 73490, Dec. 11, 2014, as amended at 80 FR 67253, Oct. 30, 2015]
+(End of provision)[79 FR 73490, Dec. 11, 2014, as amended at 80 FR 67253, Oct. 30, 2015; 83 FR 4448, Jan. 31, 2018]

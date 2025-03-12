@@ -2,7 +2,7 @@
 
 As prescribed in 225.772-5, use the following provision:
 
-Prohibition on Acquisition of Commercial Satellite Services From Certain Foreign Entities - Representations (OCT 2015)
+Prohibition on Acquisition of Commercial Satellite Services From Certain Foreign Entities - Representations (JAN 2018)
 
 (a) *Definitions.* As used in this provision -
 
@@ -24,7 +24,7 @@ Prohibition on Acquisition of Commercial Satellite Services From Certain Foreign
 
 *Satellite services* means communications capabilities that utilize an on-orbit satellite for transmitting the signal from one location to another.
 
-*State sponsor of terrorism* means a country determined by the Secretary of State, under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(i)(A)), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of the date of this provision, state sponsors of terrorism subject to this provision are Iran, Sudan, and Syria. (10 U.S.C. 2327)
+*State sponsor of terrorism* means a country determined by the Secretary of State, under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of the date of this provision, state sponsors of terrorism subject to this provision are Iran, North Korea, Sudan, and Syria. (10 U.S.C. 2327)
 
 (b) *Prohibition on award.* In accordance with 10 U.S.C. 2279, unless an exception is determined to apply in accordance with DFARS 225.772-4, no contract for commercial satellite services may be awarded to -
 
@@ -56,4 +56,4 @@ Prohibition on Acquisition of Commercial Satellite Services From Certain Foreign
 
 (e) The representations in paragraph (c) of this provision are a material representation of fact upon which reliance will be placed when making award. If it is later determined that the Offeror knowingly rendered an erroneous representation, in addition to other remedies available to the Government, the Contracting Officer may terminate the contract resulting from this solicitation for default.
 
-(End of provision)[79 FR 45665, Aug. 5, 2014, as amended at 79 FR 73492, Dec. 11, 2014; 80 FR 67251, Oct. 30, 2015]
+(End of provision)[79 FR 45665, Aug. 5, 2014, as amended at 79 FR 73492, Dec. 11, 2014; 80 FR 67251, Oct. 30, 2015; 83 FR 4448, Jan. 31, 2018]

@@ -46,6 +46,12 @@
 
 (D) Use the provision 252.215-7008, Only One Offer, as prescribed at 215.408(4).
 
+(E) Use the provision 252.215-7010, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, as prescribed at 215.408(6)(i) to comply with section 831 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239) and sections 851 and 853 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
+
+(*1*) Use the basic provision as prescribed at 215.408(6)(i)(A).
+
+(*2*) Use the alternate I provision as prescribed at 215.408(6)(i)(B).
+
 (vii) *Part 219 - Small Business Programs.* (A) Use the clause at 252.219-7003, Small Business Subcontracting Plan (DoD Contracts), to comply with 15 U.S.C. 637.
 
 (*1*) Use the basic clause as prescribed in 219.708(b)(1)(A)(*1*).
@@ -226,4 +232,4 @@
 
 (H) Use the clause at 252.247-7028, Application for U.S Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018]

@@ -58,6 +58,8 @@
 
 *Major defense acquisition program* is defined in 10.U.S.C. 2430(a).
 
+*Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
+
 *Obsolete electronic part* means an electronic part that is no longer available from the original manufacturer or an authorized aftermarket manufacturer.
 
 *Original component manufacturer* means an organization that designs and/or engineers a part and is entitled to any intellectual property rights to that part.
@@ -88,6 +90,8 @@ Department of the Air Force - Assistant Secretary of the Air Force (Acquisition)
 
 The directors of the defense agencies have been delegated authority to act as senior procurement executive for their respective agencies, except for such actions that by terms of statute, or any delegation, must be exercised by the Under Secretary of Defense (Acquisition, Technology, and Logistics).
 
+*Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by FAR 15.404-1(b)(2)(ii)(B).
+
 *Suspect counterfeit electronic part* means an electronic part for which credible evidence (including, but not limited to, visual inspection or testing) provides reasonable doubt that the electronic part is authentic.
 
 *Tiered evaluation of offers*, also known as *cascading evaluation of offers*, means a procedure used in negotiated acquisitions, when market research is inconclusive for justifying limiting competition to small business concerns, whereby the contracting officer -
@@ -97,5 +101,7 @@ The directors of the defense agencies have been delegated authority to act as se
 (2) Establishes a tiered or cascading order of precedence for evaluating offers that is specified in the solicitation; and
 
 (3) If no award can be made at the first tier, evaluates offers at the next lower tier, until award can be made.
+
+*Uncertified cost data* means the subset of “data other than certified cost or pricing data” (see FAR 2.101) that relates to cost.
 
 [56 FR 36287, July 31, 1991]Editorial Note:For Federal Register citations affecting section 202.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

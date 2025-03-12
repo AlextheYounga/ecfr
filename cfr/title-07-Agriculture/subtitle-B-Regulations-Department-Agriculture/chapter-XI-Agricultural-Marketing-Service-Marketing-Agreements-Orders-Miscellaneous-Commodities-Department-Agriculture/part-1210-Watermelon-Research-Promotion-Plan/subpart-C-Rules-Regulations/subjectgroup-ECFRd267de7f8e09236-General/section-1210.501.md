@@ -1,5 +1,7 @@
 ##### § 1210.501 Realignment of districts. #####
 
+Link to an amendment published at 83 FR 4420, Jan. 31, 2018.
+
 Pursuant to § 1210.320(c) of the Plan, the districts shall be as follows:
 
 (a) *District 1* - The Florida counties of Brevard, Broward, Charlotte, Collier, Dade, Desoto, Glades, Hardee, Hendry, Highlands, Hillsborough, Indian River, Lake, Lee, Manatee, Martin, Monroe, Okeechobee, Orange, Osceola, Palm Beach, Pasco, Pinellas, Polk, Sarasota, Seminole, St. Lucie, and Volusia.
