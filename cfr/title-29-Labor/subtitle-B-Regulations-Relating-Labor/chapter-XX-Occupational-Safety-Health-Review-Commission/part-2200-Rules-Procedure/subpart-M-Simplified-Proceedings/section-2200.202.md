@@ -1,6 +1,6 @@
 ##### § 2200.202 Eligibility for Simplified Proceedings. #####
 
-(a) Those cases selected for Simplified Proceedings will be those that do not involve complex issues of law or fact. Cases appropriate for Simplified Proceedings would generally include those with one or more of the following characteristics:
+(a) Those cases selected for Simplified Proceedings will be those that do not involve complex issues of law or fact. Cases appropriate for Simplified Proceedings will generally include those with one or more of the following characteristics:
 
 (1) Relatively few citation items,
 
@@ -15,5 +15,3 @@
 (6) A small employer whether appearing pro se or represented by counsel.
 
 (b) Those cases with an aggregate proposed penalty of more than $20,000, but not more than $30,000, if otherwise appropriate, may be selected for Simplified Proceedings at the discretion of the Chief Administrative Law Judge.
-
-[62 FR 40934, July 31, 1997, as amended at 70 FR 22792, May 3, 2005; 74 FR 63987, Dec. 7, 2009]

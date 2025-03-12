@@ -4,4 +4,4 @@
 
 (b) *Applicability of Federal Rules of Civil Procedure.* In the absence of a specific provision, procedure shall be in accordance with the Federal Rules of Civil Procedure.
 
-(c) *Construction.* These rules shall be construed to secure an expeditious, just and inexpensive determination of every case.
+(c) *Construction.* These rules shall be construed to secure an expeditious, just, and inexpensive determination of every case.

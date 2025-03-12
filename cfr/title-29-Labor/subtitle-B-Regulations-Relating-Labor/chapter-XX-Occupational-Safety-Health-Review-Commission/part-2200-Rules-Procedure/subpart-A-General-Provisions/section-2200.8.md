@@ -1,57 +1,51 @@
 ##### § 2200.8 Filing. #####
 
-(a) *What to file.* All papers required to be served on a party or intervenor, except for those papers associated with part of a discovery request under Rules 52 through 56, shall be filed either before service or within a reasonable time thereafter.
+(a) *What to file* - (1) *General.* All documents required to be served on a party or intervenor shall be filed either before service or within a reasonable time after service.
 
-(b) *Where to file.* Prior to assignment of a case to a Judge, all papers shall be filed with the Executive Secretary at One Lafayette Centre, 1120 20th Street, NW., Suite 980, Washington, DC 20036-3457. Subsequent to the assignment of the case to a Judge, all papers shall be filed with the Judge at the address given in the notice informing of such assignment. Subsequent to the docketing of the Judge's report, all papers shall be filed with the Executive Secretary, except as provided in § 2200.90(b)(3).
+(2) *Discovery documents.* Discovery documents generated pursuant to §§ 2200.52 through 2200.56 shall not be filed with the Commission or the Judge. Filing and retention of such discovery documents shall comply with § 2200.52(i) and (j).
 
-(c) *How to file.* Unless otherwise ordered, filings may be accomplished by postage-prepaid first class mail, personal delivery, or electronic transmission or facsimile transmission.
+(b) *Where to file.* Prior to assignment of a case to a Judge, all documents shall be filed electronically in the Commission's E-File System or with the Executive Secretary at One Lafayette Centre, 1120 20th Street NW, Suite 980, Washington, DC 20036-3457. After the assignment of the case to a Judge, all documents shall be filed electronically in the Commission's E-File System or with the Judge at the address given in the notice of assignment. After the docketing of the Judge's report, all documents shall be filed with the Executive Secretary, except as provided in § 2200.90(b)(4).
 
-(d) *Number of copies.* Unless otherwise ordered or stated in this part, only the original of a document shall be filed.
+(c) *Electronic filing with the Commission* - (1) *Mandatory e-filing.* Parties and intervenors who are represented by an attorney or non-attorney representative, as provided in § 2200.22, must file documents electronically in the Commission's E-File System by following the instructions on the Commission's website (*www.oshrc.gov*), unless the documents are exempt from e-filing under paragraph (c)(5) of this section.
 
-(e) *Filing date.* (1) Except for the documents listed in paragraph (e)(2) of this section, filing is effective upon mailing, if by mail, upon receipt by the Commission, if filing is by personal delivery, overnight delivery service, facsimile transmission or electronic transmission.
+(2) *Non-mandatory e-filing.* (i) Self-represented parties or intervenors, as provided in § 2200.22, may file documents electronically in the Commission's E-File System by following the instructions on the Commission's website (*www.oshrc.gov*). Self-represented parties or intervenors who elect e-filing must file all documents electronically, unless excused by the Commission or the Judge or the documents are exempt from e-filing under paragraph (c)(5) of this section.
 
-(2) Filing is effective upon receipt for petitions for interlocutory review (§ 2200.73), petitions for discretionary review (§ 2200.91), and EAJA applications (§ 2204.301).
+(ii) Self- represented parties or intervenors who do not elect e-filing must file documents by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission as described in paragraph (d) of this section.
 
-(3) Counsel and the parties shall have sole responsibility for ensuring that the document is timely received by the Commission.
+(3) If technical difficulties prevent the successful submission of electronically filed documents, the e-filer should refer to the instructions for electronic filing on the Commission's website (*www.oshrc.gov*).
 
-(f) *Facsimile transmissions.* (1) Any document may be filed with the Commission or its Judges by facsimile transmission. Filing shall be deemed completed at the time that the facsimile transmission is received by the Commission or the Judge. The filed facsimile shall have the same force and effect as an original.
+(4) Documents filed electronically in the Commission's E-File System may contain an electronic signature of the filer which will have the same legal effect, validity, and enforceability as if signed manually. The term “electronic signature” means an electronic symbol or process attached to or logically associated with a contact or other record and executed or adopted by a person with the intent to sign the document.
 
-(2) All facsimile transmissions shall include a facsimile of the appropriate certificate of service.
+(5) *Confidential and privileged documents.* The following documents must not be filed electronically in the Commission's E-File System:
 
-(3) It is the responsibility of parties desiring to file documents by the use of facsimile transmission equipment to utilize equipment that is compatible with facsimile transmission equipment operated by the Commission. Legibility of the transmitted documents is the responsibility of the serving party.
+(i) Documents that may not be released to the public because the information is covered by a protective order or has been placed “under seal” pursuant to § 2200.52(d) and (e).
 
-(g) *Electronic filing.* (1) Where all parties consent to electronic service and electronic filing, a document may be filed by electronic transmission with the Commission and its Judges. The certificate of service accompanying the document must state that the other parties consent to filing by electronic transmission. The electronic transmission shall be in the manner specified by the Commission's Web site (*http://www.OSHRC.gov*).
+(ii) Documents submitted for *in camera* inspection by the Commission or the Judge, including material for which a privilege is claimed. Claims regarding privileged information must comply with § 2200.52(d).
 
-(2) A document filed in conformance with these rules constitutes a written document for the purpose of applying these rules, and a copy printed by the Commission and placed in the case file shall have the same force and effect as the original.
+(iii) Confidential settlement documents filed with the Judge pursuant to settlement procedures pursuant to § 2200.120.
 
-(3) A certificate of service shall accompany each document electronically filed. The certificate shall set forth the dates and manner of filing and service. It is the responsibility of the transmitting party to retain records showing the date of transmission, including receipts.
+(iv) Applications for subpoenas made *ex parte* pursuant to § 2200.65.
 
-(4) A party that files a document by an electronic transmission shall utilize equipment and software that is compatible with equipment operated by the Commission and shall be responsible for the legibility of the document.
+(6) *Sensitive information.* Unless the Commission or the Judge orders otherwise, all sensitive information in documents filed electronically in the Commission's E-File System must be redacted pursuant to paragraph (d)(5) of this section.
 
-(5) Information that is sensitive but not privileged shall be filed as follows:
+(7) *Date of filing.* The date of filing for documents filed electronically is the day that the complete document is successfully submitted in the Commission's E-File System pursuant to Rule 4(a)(4)(i). Electronic filing shall be completed by following the instructions on the Commission's website (*www.oshrc.gov*).
 
-(i) If Social Security numbers must be included in a document, only the last four digits of that number shall be used;
+(8) *Timeliness.* Representatives and self-represented parties and intervenors bear the sole responsibility for ensuring that a filing is timely made.
 
-(ii) If names of minor children must be mentioned, only the initials of that child shall be used;
+(9) *Certificate of service.* Proof of service shall accompany each document filed in the Commission's E-File System. The certificate of service shall certify simultaneous service of the document by email on all other parties and intervenors in the case. It is the responsibility of the filing party to retain records showing the date of transmission, including receipts.
 
-(iii) If dates of birth must be included, only the year shall be used;
+(d) *Documents that are not filed in the Commission's E-File System; alternative filing methods* - (1) *How to file.* Documents may be filed by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, electronic transmission, or facsimile transmission.
 
-(iv) If financial account numbers must be filed, only the last four digits of these numbers shall be used;
+(2) *Number of copies.* Unless otherwise ordered or stated in this part, only the original of a document shall be filed.
 
-(v) If a personal identifying number, such as a driver's license number must be filed, only the last four digits shall be used. Parties shall exercise caution when filing medical records, medical treatment records, medical diagnosis records, employment history, and individual financial information, and shall redact or exclude certain materials unnecessary to a disposition of the case.
+(3) *Filing date.* (i) Except for the documents listed in paragraph (d)(3)(ii) of this section, if filing is by U.S. first class mail (or higher class mail, such as priority mail), then filing is deemed completed upon depositing the material in the U.S. Mail. If filing is by any other means (*e.g.,* personal delivery, commercial delivery service, or facsimile transmission) then filing is deemed completed upon receipt by the Commission.
 
-(6) A transmittal letter shall not be filed electronically or by other means when a document is transmitted noting:
+(ii) Filing is completed upon receipt by the Commission for petitions for interlocutory review (§ 2200.73), petitions for discretionary review (§ 2200.91), and EAJA applications (§ 2204.301).
 
-(i) The transmittal of a document;
+(iii) Representatives and self-represented parties and intervenors bear the sole responsibility for ensuring that a filing is timely made.
 
-(ii) The inclusion of an attachment;
+(4) *Certificate of service.* A certificate of service shall accompany each document filed. The certificate shall set forth the dates and manner of filing and service.
 
-(iii) A request for a return receipt; or
+(5) *Sensitive information.* Unless the Commission or the Judge orders otherwise, in any filing with the Commission, information that is sensitive (*e.g.,* Social Security numbers, driver's license numbers, passport numbers, taxpayer-identification numbers, birthdates, mother's maiden names, names of minors, an individual's physical personal address, financial account numbers) but not privileged shall be redacted. Parties shall exercise caution when filing medical records, medical treatment records, medical diagnosis records, employment history, and individual financial information, and shall redact or exclude materials unnecessary to the case.
 
-(iv) A request for additional information concerning the filing.
-
-(7) The signature line of any document shall include the notation “/s/” followed by the typewritten name or graphical duplicate of the handwritten signature of the party representative filing the document. Such representation of the signature shall be deemed to be the original signature of the representative for all purposes unless the party representative shows that such representation of the signature was unauthorized.
-
-(8) Privileged information shall not be filed electronically. Privileged information or information that is asserted by any party to be privileged shall not be filed electronically.
-
-[70 FR 22787, May 3, 2005; 70 FR 25652, May 13, 2005; 74 FR 63986, Dec. 7, 2009]
+(6) *Privileged information.* Claims regarding privileged information shall comply with § 2200.52(d).

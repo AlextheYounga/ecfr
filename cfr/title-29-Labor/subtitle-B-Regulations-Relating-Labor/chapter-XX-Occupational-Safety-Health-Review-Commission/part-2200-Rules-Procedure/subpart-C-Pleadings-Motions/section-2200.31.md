@@ -2,11 +2,11 @@
 
 (a) *Notice of contest cases.* Cases initiated by a notice of contest shall be titled:
 
- Secretary of Labor,Complainant,v. (Name of Contestant),Respondent.
+Secretary of Labor,Complainant,v.(Name of Employer),Respondent.
 
 (b) *Petitions for modification of abatement period.* Cases initiated by a petition for modification of the abatement period shall be titled:
 
- (Name of employer),Petitioner,v. Secretary of Labor,Respondent.
+(Name of employer),Petitioner,v.Secretary of Labor,Respondent.
 
 (c) *Location of title.* The titles listed in paragraphs (a) and (b) of this section shall appear at the left upper portion of the initial page of any pleading or document (other than exhibits) filed.
 

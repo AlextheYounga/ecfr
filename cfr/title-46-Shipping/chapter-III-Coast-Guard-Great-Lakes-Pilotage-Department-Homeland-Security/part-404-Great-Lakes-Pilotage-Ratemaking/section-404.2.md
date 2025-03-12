@@ -1,7 +1,5 @@
 ##### § 404.2 Procedure and criteria for recognizing association expenses. #####
 
-Link to an amendment published at 84 FR 20578, May 10, 2019.
-
 (a) A pilotage association must report each expense item for which it seeks reimbursement through the charging of pilotage rates, and make supporting information available to the Director. The Director must recognize the item as both necessary for providing pilotage service, and reasonable as to its amount when compared to similar expenses paid by others in the maritime or other comparable industry, or when compared with Internal Revenue Service guidelines. The association will be given an opportunity to contest any preliminary determination that a reported item should not be recognized.
 
 (b) The Director applies the following criteria to recognize an expense item as necessary and reasonable within the meaning of paragraph (a) of this section:
@@ -16,8 +14,6 @@ Link to an amendment published at 84 FR 20578, May 10, 2019.
 
 (5) *Profit sharing for non-pilot association employees.* These association expenses are recognizable.
 
-(6) *Legal expenses.* These association expenses are recognizable except for any and all expenses associated with legal action against the U.S. government or its agents.
-
 (c) The Director does not recognize the following expense items as necessary and reasonable within the meaning of paragraph (a) of this section:
 
 (1) Unreported or undocumented expenses, and expenses that are not reasonable in their amounts or not reasonably related to providing safe, efficient, and reliable pilotage service;
@@ -27,3 +23,5 @@ Link to an amendment published at 84 FR 20578, May 10, 2019.
 (3) Lobbying expenses; or
 
 (4) Expenses for personal matters.
+
+[USCG-2015-0497, 81 FR 11941, Mar. 7, 2016, as amended at USCG-2018-0665, 84 FR 20578, May 10, 2019]

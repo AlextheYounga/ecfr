@@ -6,14 +6,12 @@
 
 (1) Complaints and answers are not required.
 
-(2) Pleadings generally are not required. Early discussions among the parties and the Administrative Law Judge are required to narrow and define the disputes between the parties.
+(2) Pleadings generally are not required. Early discussions among the parties and the Judge are required to narrow and define the disputes between the parties.
 
 (3) The Secretary is required to provide the employer with certain informational documents early in the proceeding.
 
-(4) Discovery is not permitted except as ordered by the Administrative Law Judge.
+(4) Discovery is not permitted except as ordered by the Judge.
 
 (5) Interlocutory appeals are not permitted.
 
-(6) Hearings are less formal. The Federal Rules of Evidence do not apply. Instead of briefs, the parties will argue their case orally before the Judge at the conclusion of the hearing. In many instances, the Judge will render his or her decision from the bench.
-
-[60 FR 41809, Aug. 14, 1995, as amended at 70 FR 22792, May 3, 2005]
+(6) Hearings are less formal. The admission of evidence is not controlled by the Federal Rules of Evidence except as provided for in § 2200.209(c). The Judge may allow the parties to argue their case orally at the conclusion of the hearing, and may allow or require post-hearing briefs or statements of position. The judge may render a decision from the bench.

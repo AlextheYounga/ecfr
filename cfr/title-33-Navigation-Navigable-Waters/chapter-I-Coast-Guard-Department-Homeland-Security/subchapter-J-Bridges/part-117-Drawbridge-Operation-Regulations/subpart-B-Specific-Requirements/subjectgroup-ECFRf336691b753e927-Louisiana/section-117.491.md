@@ -1,5 +1,7 @@
 ##### § 117.491 Red River. #####
 
+Link to an amendment published at 84 FR 26766, June 10, 2019.
+
 (a) The draw of the Union Pacific Railroad bridge, mile 90.1, at Alexandria, shall open on signal if at least eight hours notice is given.
 
 (b) The draw of the US 165 (Jackson St.) bridge, mile 88.6, at Alexandria, shall open on signal if at least eight hours notice is given; except that, from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m. the draw need not be opened Monday through Friday except holidays.
