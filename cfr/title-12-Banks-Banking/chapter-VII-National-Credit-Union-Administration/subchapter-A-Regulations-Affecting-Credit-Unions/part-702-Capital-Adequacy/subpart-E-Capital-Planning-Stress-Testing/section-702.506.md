@@ -1,5 +1,7 @@
 ##### § 702.506 Annual supervisory stress testing. #####
 
+Link to an amendment published at 83 FR 17910, Apr. 25, 2018.
+
 (a) *General requirements.* The supervisory stress tests consist of baseline, adverse, and severely adverse scenarios, which NCUA will provide by February 28 of each year. The tests will be based on the credit union's financial data as of December 31 of the preceding calendar year, or such other date as directed by NCUA. The tests will take into account all relevant exposures and activities of a credit union to evaluate its ability to absorb losses in specified scenarios over a 9-quarter horizon. The minimum stress test capital ratio is 5 percent.
 
 (b) *NCUA-run tests.* Except as provided in paragraph (c) of this section, NCUA will conduct the tests described in this section.

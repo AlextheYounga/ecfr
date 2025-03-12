@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 82 FR 59510, Dec. 15, 2017.Link to an amendment published at 83 FR 4580, Feb. 1, 2018.
+Link to an amendment published at 82 FR 59510, Dec. 15, 2017.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -98,9 +98,9 @@ Link to an amendment published at 82 FR 59510, Dec. 15, 2017.Link to an amendmen
 
 (iv) CPSC Test Method CPSC-CH-E1002-08.3, “Standard Operating Procedure for Determining Total Lead (Pb) in Nonmetal Children's Products”;
 
-(31) Limits on Phthalates in Children's Toys and Child Care Articles. For its accreditation to be accepted by the Commission to test for phthalates in children's toys and child care articles, a third party conformity assessment body must have one or more of the following test methods referenced in its statement of scope:
+(31) 16 CFR part 1307, Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates. For its accreditation to be accepted by the Commission to test for phthalates in children's toys and child care articles, a third party conformity assessment body must have one or more of the following test methods referenced in its statement of scope:
 
-(i) CPSC Test Method CPSC-CH-1001-09.3, “Standard Operating Procedure for Determination of Phthalates”;
+(i) CPSC Test Method CPSC-CH-C1001-09.4, “Standard Operating Procedure for Determination of Phthalates”;
 
 (ii) GB/T 22048-2008, “Toys and Children's Products - Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic”;
 
@@ -220,7 +220,7 @@ Link to an amendment published at 82 FR 59510, Dec. 15, 2017.Link to an amendmen
 
 (3) CPSC National Product Testing and Evaluation Center, 5 Research Place, Rockville, MD 20850; *www.cpsc.gov.*
 
-(i) CPSC-CH-C1001-09.3, “Standard Operating Procedure for Determination of Phthalates”, April 1, 2010;
+(i) CPSC-CH-C1001-9.4, “Standard Operating Procedure for Determination of Phthalates”, January 17, 2018;
 
 (ii) CPSC-CH-E1001-08, “Standard Operating Procedure for Determining Total Lead (Pb) in Children's Metal Products (Including Children's Metal Jewelry)”, December 4, 2008;
 
@@ -244,4 +244,4 @@ Link to an amendment published at 82 FR 59510, Dec. 15, 2017.Link to an amendmen
 
 (xii) CPSC “Standard Operating Procedure for Determining Lead (Pb) and its Availability in Children's Metal Jewelry”, February 3, 2005.
 
-[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017; 82 FR 8993, Feb. 2, 2017; 82 FR 15627, Mar. 30, 2017; 83 FR 57123, Dec. 4, 2017; 82 FR 43480, Sept. 18, 2017]
+[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017; 82 FR 8993, Feb. 2, 2017; 82 FR 15627, Mar. 30, 2017; 83 FR 57123, Dec. 4, 2017; 82 FR 43480, Sept. 18, 2017; 83 FR 4580, Feb. 1, 2018]

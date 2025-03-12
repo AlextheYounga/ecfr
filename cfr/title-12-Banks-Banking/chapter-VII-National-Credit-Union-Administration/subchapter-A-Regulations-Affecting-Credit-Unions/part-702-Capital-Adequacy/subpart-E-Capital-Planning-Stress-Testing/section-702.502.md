@@ -1,5 +1,7 @@
 ##### § 702.502 Definitions. #####
 
+Link to an amendment published at 83 FR 17909, Apr. 25, 2018.
+
 For purposes of this subpart -
 
 *Adverse scenario* means a scenario that is more adverse than that associated with the baseline scenario.

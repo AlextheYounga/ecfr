@@ -1,5 +1,7 @@
 ##### § 54.1015 Public interest obligations. #####
 
+Link to an amendment published at 83 FR 17942, Apr. 25, 2018.
+
 (a) *First interim deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 42 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 40 percent of the square miles associated with the eligible areas and meeting or exceeding the following:
 
 (1) Outdoor median data transmission rates of 1 Mbps upload and 10 Mbps download, with at least 90 percent of the required download speed measurements not less than a certain threshold speed that will be defined prior to the Mobility Fund Phase II auction; and

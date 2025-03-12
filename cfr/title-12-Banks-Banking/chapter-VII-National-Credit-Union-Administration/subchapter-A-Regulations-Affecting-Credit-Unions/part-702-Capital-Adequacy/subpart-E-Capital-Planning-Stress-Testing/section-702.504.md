@@ -1,6 +1,6 @@
 ##### § 702.504 Capital planning. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.Link to an amendment published at 83 FR 17910, Apr. 25, 2018.
 
 (a) *Annual capital planning.* (1) A covered credit union must develop and maintain a capital plan. It must submit this plan and its capital policy to NCUA by May 31 each year, or such later date as directed by NCUA. The plan must be based on the credit union's financial data as of December 31 of the preceding calendar year, or such other date as directed by NCUA. NCUA will assess whether the capital planning and analysis process is sufficiently robust in determining whether to accept a credit union's capital plan.
 

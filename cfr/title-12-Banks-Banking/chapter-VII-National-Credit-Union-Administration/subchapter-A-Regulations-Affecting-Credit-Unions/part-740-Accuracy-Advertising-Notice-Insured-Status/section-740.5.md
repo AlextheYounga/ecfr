@@ -1,5 +1,7 @@
 ##### § 740.5 Requirements for the official advertising statement. #####
 
+Link to an amendment published at 83 FR 17913, Apr. 25, 2018.
+
 (a) Each insured credit union must include the official advertising statement, prescribed in paragraph (b) of this section, in all of its advertisements including, but not limited to, annual reports and statements of condition required to be published by law, and on its main Internet page, except as provided in paragraph (c) of this section. For annual reports and statements of condition required to be published by law, an insured credit union must place the official advertising statement in a prominent position on the cover page of such documents or on the first page a reader sees if there is no cover page.
 
 (b) The official advertising statement is in substance as follows: “This credit union is federally insured by the National Credit Union Administration.” Insured credit unions, at their option, may use the short title “Federally insured by NCUA” or a reproduction of the official sign, as described in § 740.4(b), as the official advertising statement. The official advertising statement must be in a size and print that is clearly legible and may be no smaller than the smallest font size used in other portions of the advertisement intended to convey information to the consumer. If the official sign is used as the official advertising statement, an insured credit union may alter the font size to ensure its legibility as provided in § 740.4(b)(2).

@@ -14,4 +14,4 @@ United States is defined in Section 3 of the Communications Act of 1934, as amen
 
 (c) *Filing Manual.* Authority is delegated to the Chief of the International Bureau to prepare instructions and reporting requirements for the filing of these reports prepared and published as a Filing Manual. The information required under this Section shall be filed electronically in conformance with the instructions and reporting requirements in the Filing Manual.
 
-[82 FR 55331, Nov. 21, 2017]Effective Date Note:At 82 FR 55331, Nov. 21, 2017, § 43.82 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 55331, Nov. 21, 2017]

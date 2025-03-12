@@ -1,6 +1,6 @@
 ##### § 702.505 NCUA action on capital plans. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.Link to an amendment published at 83 FR 17910, Apr. 25, 2018.
 
 (a) *Timing.* NCUA will notify the covered credit union of the acceptance or rejection of its capital plan by August 31 of the year in which the credit union submitted its plan.
 
