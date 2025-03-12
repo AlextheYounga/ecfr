@@ -1,5 +1,7 @@
 ##### § 1216.40 Establishment and membership. #####
 
+Link to an amendment published at 86 FR 72151, Dec. 21, 2021.
+
 (a) *Establishment of a National Peanut Board.* There is hereby established a National Peanut Board, hereinafter called the Board, composed of no more than 13 peanut producers and alternates, appointed by the Secretary from nominations as follows:
 
 (1) *Twelve members and alternates.* One member and one alternate shall be appointed from each primary peanut-producing state, who are producers and whose nominations have been submitted by certified peanut producer organizations within a primary peanut-producing state.

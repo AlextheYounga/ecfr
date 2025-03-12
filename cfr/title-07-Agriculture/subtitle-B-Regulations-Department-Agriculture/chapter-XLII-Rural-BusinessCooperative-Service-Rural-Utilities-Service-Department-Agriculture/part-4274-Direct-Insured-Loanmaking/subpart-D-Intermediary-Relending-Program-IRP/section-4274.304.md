@@ -1,5 +1,3 @@
-##### § 4274.304 Prior loans. #####
+##### § 4274.304 Exception authority. #####
 
-Any loan made under this program prior to September 2, 2014 may submit to the Agency a written request for an irrevocable election to have the loan serviced in accordance with this subpart.
-
-[79 FR 31847, June 3, 2014]
+The Administrator may, on a case-by-case basis, grant an exception to any requirement or provision of this subpart provided that such an exception is in the best financial interests of the Federal government. Exercise of this authority cannot be in conflict with applicable law.

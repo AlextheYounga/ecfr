@@ -1,29 +1,15 @@
-##### § 4274.331 Loan limits. #####
+##### § 4274.331 IRP revolving loan fund loan conditions and terms. #####
 
-(a) *Intermediary.* (1) No loan to an intermediary will exceed the maximum amount the intermediary can reasonably be expected to lend to eligible ultimate recipients, in an effective and sound manner, within 1 year after loan closing.
+(a) *Conditions and terms.* Loan conditions and terms made by an intermediary to an ultimate recipient from the IRP revolving loan fund will be negotiated by the intermediary and ultimate recipient.
 
-(2) The initial Agency IRP loan as defined in § 4274.302(a) will not exceed $2 million.
+(1) *Interest rate.* The interest rate must be within limits established by the intermediary's work plan approved by the Agency. The rate must be the lowest rate sufficient to cover the loan's proportional share of the IRP revolving loan fund's debt service reserve and administrative costs.
 
-(3) Intermediaries that have received one or more IRP loans may apply for and be considered for subsequent IRP loans provided:
+(2) *Repayment.* The loan term must be reasonable and prudent considering the purpose of the loan, expected repayment ability of the ultimate recipient, and the useful life of collateral, and must be within any limits established by the intermediary's work plan approved by the Agency.
 
-(i) At least 80 percent of each of an intermediary's IRP loans, except those earmarked for special purposes, must have been disbursed to eligible ultimate recipients or the subsequent loan will serve a geographic area not included in an area currently served.
+(b) *Security.* The intermediary is responsible for adherence to prudent lending practices when obtaining adequate security on each of its ultimate recipient loans.
 
-(ii) The intermediary is promptly relending all collections from loans made from its IRP revolving fund in excess of what is needed for required debt service, reasonable administrative costs approved by the Agency, and a reasonable reserve for debt service and uncollectible accounts. The intermediary provides documentation to demonstrate that funds available for relending do not exceed the greater of $150,000 or the total amount of loans closed during a calendar quarter on average, over the last 12 months.
+(c) *Loan limits.* Loans from intermediaries to ultimate recipients using the IRP revolving loan fund must not exceed the limits in paragraphs (c)(1) and (2) of this section. In accordance with § 4274.321(b)(5), these loan limits apply to ultimate recipients cumulatively based on all existing and pending loans from one or multiple IRP intermediaries. The loan limits of ultimate recipient loans made from Agency IRP funds may be based on the total amount of the Agency IRP loans awarded. However, should any portion of an intermediary's Agency IRP loan funds be de-obligated by the Agency, the ultimate recipient loan limit will thereafter be based on the actual amount of Agency IRP loan funds advanced to the intermediary and loaned out to ultimate recipients. Intermediaries with multiple IRP loans that have combined those IRP funds in accordance with § 4274.332(b)(6) may base their ultimate recipient loan limits on the combined amount of Agency IRP loans. The maximum amount of an IRP Agency loan made by an intermediary to an ultimate recipient, whether directly or held through loan participation and including the balance of any existing ultimate recipient loans, shall be the lesser of:
 
-(iii) The outstanding loans of the intermediary's IRP revolving fund are generally sound; and
+(1) $400,000; and
 
-(iv) The intermediary is in compliance with all applicable regulations and its loan agreements with the Agency.
-
-(4) Subsequent loans will not exceed $1 million each and not more than one loan will be approved by the Agency for an intermediary in any single fiscal year unless the request is from an IRP earmark.
-
-(5) Total outstanding IRP indebtedness of an intermediary to the Agency will not exceed $15 million at any time.
-
-(b) *Ultimate recipients.* Loans from intermediaries to ultimate recipients using the IRP revolving fund must not exceed the lesser of:
-
-(1) $250,000; or
-
-(2) Seventy five percent of the total cost of the ultimate recipient's project for which the loan is being made.
-
-(c) *Portfolio.* No more than 25 percent of an IRP loan approved may be used for loans to ultimate recipients that exceed $150,000. This limit does not apply to revolved funds.
-
-[63 FR 6053, Feb. 6, 1998, as amended at 70 FR 38573, July 5, 2005; 79 FR 31847, June 3, 2014]
+(2) Fifty percent of the originally-approved Agency IRP loan amount to an intermediary (including the unpaid balance of any existing ultimate recipient loans).
