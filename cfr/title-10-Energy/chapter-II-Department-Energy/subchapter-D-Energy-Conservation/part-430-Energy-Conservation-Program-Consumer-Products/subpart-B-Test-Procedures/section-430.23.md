@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to an amendment published at 88 FR 21073, Apr. 10, 2023.
+Link to an amendment published at 88 FR 21073, Apr. 10, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -225,7 +225,7 @@ EAEU = (M + MWS + MDO + MCO + EF−(ED/2) + W + WWS + WDO + WCO) × N + ETLPWher
 
 (5) Other useful measures of energy consumption for unvented home heating equipment shall be those measures of energy consumption for unvented home heating equipment which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix G of this subpart.
 
-(h) *Television sets.* The power consumption of a television set, expressed in watts, including on mode, standby mode, and off mode power consumption values, shall be measured in accordance with sections 7.1, 7.3, and 7.4 of appendix H of this subpart respectively. The annual energy consumption, expressed in kilowatt-hours per year, shall be measured in accordance with section 8 of appendix H of this subpart.
+(h) *Television sets.* The power consumption of a television set, expressed in watts, including on and standby modes, shall be determined in accordance with sections 3 and 4 of appendix H of this subpart respectively. The annual energy consumption, expressed in kilowatt-hours per year, shall be determined in accordance with section 4 of appendix H of this subpart.
 
 (i) *Cooking products.* (1) Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.3 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
 

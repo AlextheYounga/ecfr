@@ -1,6 +1,6 @@
 ##### § 131.200 Yogurt. #####
 
-(a) *Description.* Yogurt is the food produced by culturing one or more of the basic dairy ingredients specified in paragraph (b) of this section and any of the optional dairy ingredients specified in paragraph (c) of this section with a characterizing bacterial culture that contains the lactic acid-producing bacteria, *Lactobacillus delbrueckii* subsp. *bulgaricus* and *Streptococcus thermophilus.* The ingredients specified in paragraphs (b) and (c) of this section may be homogenized and must be pasteurized or ultra-pasteurized before the addition of the characterizing bacterial culture. One or more of the other optional ingredients specified in paragraph (d) of this section may also be added. Yogurt, before the addition of bulky flavoring ingredients, contains not less than 3.25 percent milkfat and not less than 8.25 percent milk solids not fat and has either a titratable acidity of not less than 0.7 percent, expressed as lactic acid, or a pH of 4.6 or lower. To extend the shelf life of the food, yogurt may be treated after culturing to inactivate viable microorganisms.
+(a) *Description.* Yogurt is the food produced by culturing one or more of the basic dairy ingredients specified in paragraph (b) of this section and any of the optional dairy ingredients specified in paragraph (c) of this section with a characterizing bacterial culture that contains the lactic acid-producing bacteria, *Lactobacillus delbrueckii* subsp. *bulgaricus* and *Streptococcus thermophilus.* The ingredients specified in paragraphs (b) and (c) of this section may be homogenized and must be pasteurized or ultra-pasteurized before the addition of the characterizing bacterial culture. One or more of the other optional ingredients specified in paragraph (d) of this section may also be added. Yogurt contains not less than 3.25 percent milkfat, except as provided for in paragraph (g) of this section, and not less than 8.25 percent milk solids not fat and has a pH of 4.6 or lower measured on the finished product within 24 hours after filling. To extend the shelf life of the food, yogurt may be treated after culturing to inactivate viable microorganisms.
 
 (b) *Basic dairy ingredients.* Cream, milk, partially skimmed milk, skim milk, or the reconstituted versions of these ingredients may be used alone or in combination.
 
@@ -31,8 +31,6 @@
 (e) *Methods of analysis*—(1) *Milk*—(i) *Milkfat content.* As determined by the method prescribed in section 33.2.26, AOAC Official Method 989.05, Fat in Milk Modified Mojonnier Ether Extraction Method.
 
 (ii) *Milk solids not fat.* Calculated by subtracting the milkfat content from the total solids content using the method prescribed in section 33.2.45, AOAC Official Method 990.21, Solids-Not-Fat in Milk by Difference between Total Solids and Fat Contents.
-
-(iii) *Titratable acidity.* As determined by the method prescribed in section 33.2.06, AOAC Official Method 947.05, Acidity of Milk Titrimetric Method.
 
 (2) *pH.* As determined by the potentiometric method described in § 114.90(a) of this chapter.
 
@@ -68,11 +66,9 @@
 
 (1) AOAC INTERNATIONAL, 2275 Research Blvd., Suite 300, Rockville, MD 20850-3250:
 
-(i) AOAC Official Method 947.05, Acidity of Milk Titrimetric Method, Section 33.2.06, Official Methods of Analysis, 21st edition, 2019, Vol. 1.
+(i) AOAC Official Method 989.05, Fat in Milk Modified Mojonnier Ether Extraction Method, Section 33.2.26, Official Methods of Analysis, 21st edition, 2019, Vol. 1.
 
-(ii) AOAC Official Method 989.05, Fat in Milk Modified Mojonnier Ether Extraction Method, Section 33.2.26, Official Methods of Analysis, 21st edition, 2019, Vol. 1.
-
-(iii) AOAC Official Method 990.21, Solids-Not-Fat in Milk by Difference between Total Solids and Fat Contents, Section 33.2.45, Official Methods of Analysis, 21st edition, 2019, Vol. 1.
+(ii) AOAC Official Method 990.21, Solids-Not-Fat in Milk by Difference between Total Solids and Fat Contents, Section 33.2.45, Official Methods of Analysis, 21st edition, 2019, Vol. 1.
 
 (2) ISO, ISO Central Secretariat, Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland.
 
@@ -84,4 +80,4 @@ ISO 7889:2003(E) is co-published as IDF 117:2003(E).
 
 (ii) [Reserved]
 
-[86 FR 31137, June 11, 2021, as amended at 87 FR 76568, Dec. 15, 2022]
+[86 FR 31137, June 11, 2021, as amended at 87 FR 76568, Dec. 15, 2022; 88 FR 22910, Apr. 14, 2023]

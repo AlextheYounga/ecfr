@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to a correction published at 88 FR 19801, Apr. 4, 2023.Link to an amendment published at 88 FR 21072, Apr. 10, 2023.
+Link to an amendment published at 88 FR 21072, Apr. 10, 2023.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -304,7 +304,13 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (3) CIE 015:2018 (“CIE 15:2018”), *Colorimetry,* 4th edition, copyright 2018; IBR approved for the appendix R to subpart B.
 
-(n) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
+(n) CTA. Consumer Technology Association, 1919 S. Eads Street, Arlington, VA 22202; 703-907-7600; *www.cta.tech.*
+
+(1) ANSI/CTA-2037-D, Determination of Television Set Power Consumption, September 2022; IBR approved for appendix H to subpart B.
+
+(2) [Reserved]
+
+(o) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
 
 (1) ENERGY STAR Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1, approved December 9, 2002, IBR approved for appendix U to subpart B.
 
@@ -314,13 +320,13 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (4) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
 
-(o) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
+(p) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
 
 (1) HDMI Specification Informational Version 1.0, *High-Definition Multimedia Interface Specification,* published September 4, 2003; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(p) *IEC.* International Electrotechnical Commission, 3 Rue de Varembe, Case Postale 131, 1211 Geneva 20, Switzerland; *https://webstore.iec.ch/.*
+(q) *IEC.* International Electrotechnical Commission, 3 Rue de Varembe, Case Postale 131, 1211 Geneva 20, Switzerland; *https://webstore.iec.ch/.*
 
 (1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems—Interconnections and matching values—Part 5: Y/C connector for video systems—Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
@@ -348,23 +354,19 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (ix) Annex J—UPS Efficiency—Methods of measurement.
 
-(5) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
+(5) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(6) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, I I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, EE, and FF to subpart B.
 
-(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, EE, and FF to subpart B.
+(7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 
-(8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
+(8) [Reserved]
 
-(9) [Reserved]
+(9) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
 
-(10) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
+Note 2 to paragraph (q). The standards referenced in paragraphs (q)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
 
-Note 1 to paragraph (p):
-
-The standards referenced in paragraphs (p)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
-
-(q) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America—IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
+(r) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America—IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
@@ -470,13 +472,13 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (23) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
-(r) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
+(s) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
 
 (1) ANSI/ISEA Z358.1-2014 (“ISEA Z358.1”), American National Standard for Emergency Eyewash and Shower Equipment, ANSI-approved January 8, 2015, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(s) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
+(t) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
 
@@ -484,25 +486,25 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (3) International Efficiency Marking Protocol for External Power Supplies, Version 3.0, September 2013, IBR approved for § 430.32.
 
-(t) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
+(u) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
 
 (1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for §§ 430.2 and 430.32.
 
 (2) [Reserved]
 
-(u) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
+(v) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
 
 (1) “Computation of Correlated Color Temperature and Distribution Temperature,” A.R. Robertson, Journal of the Optical Society of America, Volume 58, Number 11, November 1968, pages 1528-1535, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(v) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(w) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television—Composite Analog Video Signal—NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(w) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
+(x) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
 
 (1) UL 729 (“UL 729-2016”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through November 22, 2016; IBR approved for appendix O to subpart B.
 

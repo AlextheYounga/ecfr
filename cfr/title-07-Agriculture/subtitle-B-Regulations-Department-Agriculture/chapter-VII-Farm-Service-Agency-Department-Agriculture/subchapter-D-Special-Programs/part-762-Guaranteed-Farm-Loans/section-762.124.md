@@ -4,7 +4,7 @@
 
 (2) If a variable rate is used, it must be tied to an index or rate specifically agreed to between the lender and borrower in the loan instruments and the rate adjustments must be in accordance with normal practices of the lender for unguaranteed loans. Upon request, the lender must provide the Agency with copies of its written rate adjustment practices.
 
-(3) At the time of loan closing or loan restructuring, the interest rate on both the guaranteed portion and the unguaranteed portion of a fixed or variable rate OL or FO loan may not exceed the rates established and announced by the Agency on the FSA website (*www.fsa.usda.gov*).:
+(3) At the time of loan closing or loan restructuring, the interest rate on both the guaranteed portion and the unguaranteed portion of a fixed or variable rate OL or FO loan may not exceed the rates established and announced by the Agency on the FSA website (*www.fsa.usda.gov*).
 
 (4) Interest must be charged only on the actual amount of funds advanced and for the actual time the funds are outstanding. Interest on protective advances made by the lender to protect the security will be charged at the note rate but limited to paragraph (a)(3) of this section.
 

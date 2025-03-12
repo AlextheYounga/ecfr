@@ -1,29 +1,13 @@
-##### § 9.22 Submission of certain applications and forms affecting entitlement to Servicemembers' Group Life Insurance and Veterans' Group Life Insurance. #####
+##### § 9.22 VA's access to records maintained by the insurer, reinsurer(s), and their successors. #####
 
-Link to an amendment published at 88 FR 15912, Mar. 15, 2023.
+(a) In order to perform oversight responsibilities designed to protect the legal and financial rights of the Government and persons affected by the activities of the Department of Veterans Affairs and its agents and to ensure that the policy and the related program benefits and services are managed effectively and efficiently as required by law, the Secretary of Veterans Affairs shall have complete and unrestricted access to the records of any insurer, reinsurer(s), and their successors with respect to the policy and related benefit programs or services that are derived from the policy. This access includes access to:
 
-(a)(1) For purposes of this section, the terms *in writing* and *written* mean an intentional recording of words in visual form and include:
+(1) Any records relating to the operation and administration of benefit programs derived from the policy, which are considered to be Federal records created under the policy;
 
-(i) Hard-copy applications and forms containing a person's name or mark written or made by that person; and
+(2) Records related to the organization, functions, policies, decisions, procedures, and essential transactions, including financial information, of the insurer, reinsurer(s), and their successors; and
 
-(ii) Applications and forms submitted through a VA approved electronic means that include an electronic or digital signature that identifies and authenticates a particular person as the source of the electronic message and indicates such person's approval of the information submitted through such means.
+(3) Records of individuals insured under the policy or utilizing other related program benefits and services or who may be entitled to benefits derived through the Servicemembers' and Veterans' Group Life Insurance programs, including personally identifiable information concerning such individuals and their beneficiaries.
 
-(2) With regard to the following actions, applications or forms that satisfy the definition in paragraph (a)(1) of this section will be deemed to satisfy the requirement in the referenced statutes that an application, election, or beneficiary designation be “in writing” or “written”:
+(b) Complete access to these records shall include the right to have the originals of such records sent to the Secretary of Veterans Affairs or a representative of the Secretary at the Secretary's direction. The records shall be available in either hard copy or readable electronic media. At the Secretary's option, copies may be provided in lieu of originals where allowed by the Federal Records Act, 44 U.S.C. chapter 31.
 
-(i) Decline Servicemembers' Group Life Insurance for the member or Family Servicemembers' Group Life Insurance for the member's insurable spouse (38 U.S.C. 1967(a)(2)(A) or (B));
-
-(ii) Insure the member under Servicemembers' Group Life Insurance or the member's spouse under Family Servicemembers' Group Life Insurance in an amount less than the maximum amount of such insurance (38 U.S.C. 1967(a)(3)(B));
-
-(iii) Restore or increase coverage under Servicemembers' Group Life Insurance for the member or under Family Servicemembers' Group Life Insurance for the member's insurable spouse (38 U.S.C. 1967(c));
-
-(iv) Designate one or more beneficiaries for the member's Servicemembers' Group Life Insurance or former member's Veterans' Group Life Insurance (38 U.S.C. 1970(a)); and
-
-(v) Increase the amount of coverage under Veterans' Group Life Insurance (38 U.S.C. 1977(a)(3)).
-
-(b) Applications or forms that satisfy the definition in paragraph (a)(1) of this section may be utilized to—
-
-(1) Apply for Veterans' Group Life Insurance; and
-
-(2) Reinstate Veterans' Group Life Insurance.
-
-[83 FR 10623, Mar. 12, 2018]
+[79 FR 48072, Aug. 15, 2014. Redesignated at 88 FR 15912, Mar. 15, 2023]
