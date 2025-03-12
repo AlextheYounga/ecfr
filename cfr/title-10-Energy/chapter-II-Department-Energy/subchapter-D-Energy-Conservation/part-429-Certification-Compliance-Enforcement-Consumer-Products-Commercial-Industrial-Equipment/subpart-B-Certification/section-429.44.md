@@ -1,7 +1,5 @@
 ##### § 429.44 Commercial water heating equipment. #####
 
-Link to an amendment published at 81 FR 96236, Dec. 29, 2016.
-
 (a) For residential-duty commercial water heaters, all represented values must be determined in accordance with § 429.17.
 
 (b) *Determination of represented values for all types of commercial water heaters except residential-duty commercial water heaters.* Manufacturers must determine the represented values, which includes the certified ratings, for each basic model of commercial water heating equipment except residential-duty commercial water heaters, either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM as set forth in § 429.70.
@@ -74,18 +72,14 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (4) Pursuant to § 429.12(b)(13), a certification report may include supplemental testing instructions in PDF format. If necessary to run a valid test, the equipment-specific, supplemental information must include any additional testing and testing set-up instructions (e.g., whether a bypass loop was used for testing) for the basic model and all other information (e.g., operational codes or overrides for the control settings) necessary to operate the basic model under the required conditions specified by the relevant test procedure. A manufacturer may also include with a certification report other supplementary items in PDF format for DOE's consideration in performing testing under subpart C of this part. For example, for oil-fired commercial water heating equipment (other than residential-duty commercial water heaters): The allowable range for CO2 reading in percent (%) and the fuel pump pressure in pounds per square inch gauge (psig).
 
-*(d) Certification reports for residential-duty commercial water heaters.* (1) The requirements of § 429.12 apply; and
+(d) *Certification reports for residential-duty commercial water heaters.* (1) The requirements of § 429.12 apply; and
 
-(2) Pursuant to § 429.12(b)(13), a certification report must include the following public, equipment-specific information:
+(2) Pursuant to § 429.12(b)(13), a certification report for equipment must include the following public, equipment-specific information:
 
-(i) Residential-duty commercial gas-fired and oil-fired storage water heaters previously certified for thermal efficiency and standby loss pursuant to 10 CFR 429.44(b) of the January 1, 2015 edition of the Code of Federal Regulations, and for which uniform energy factor is calculated pursuant to 10 CFR 429.17(a)(2)(ii): The thermal efficiency in percent (%), the standby loss in British thermal units per hour (Btu/h), the uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal), and the nameplate input rate in Btu/h.
+(i) Residential-duty commercial gas-fired and oil-fired storage water heaters: The uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal, rounded to the nearest 1 gal), the first-hour rating in gallons (gal, rounded to the nearest 1 gal), and the recovery efficiency in percent (%, rounded to the nearest 1%).
 
-(ii) Residential-duty commercial gas-fired and oil-fired storage water heaters rated for uniform energy factor pursuant to 10 CFR 429.17(a)(2)(i): The uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (rounded to the nearest 1 gal), the first-hour rating in gallons (gal, rounded to the nearest 1 gal), and the recovery efficiency in percent (%, rounded to the nearest 1%).
-
-(iii) Residential-duty commercial electric instantaneous water heaters previously certified for thermal efficiency and standby loss pursuant to 10 CFR 429.44(b) of the January 1, 2015 edition of the Code of Federal Regulations, and for which uniform energy factor is calculated pursuant to 10 CFR 429.17(a)(2)(ii): The thermal efficiency in percent (%), the standby loss in British thermal units per hour (Btu/h), the uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal), and the nameplate input rate in kilowatts (kW).
-
-(iv) Residential-duty commercial electric instantaneous water heaters rated for uniform energy factor pursuant to 10 CFR 429.17(a)(2)(i): The uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal, rounded to the nearest 1 gal), the maximum gallons per minute (gpm, rounded to the nearest 0.1 gpm), and the recovery efficiency in percent (%, rounded to the nearest 1%)).
+(ii) Residential-duty commercial electric instantaneous water heaters: The uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal, rounded to the nearest 1 gal), the maximum gallons per minute (gpm, rounded to the nearest 0.1 gpm), and the recovery efficiency in percent (%, rounded to the nearest 1%).
 
 (e) Alternative methods for determining efficiency or energy use for commercial water heating equipment can be found in § 429.70 of this subpart.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24776, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25504, May 5, 2014; 80 FR 151, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 79318, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24776, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25504, May 5, 2014; 80 FR 151, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 79318, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 96236, Dec. 29, 2016]

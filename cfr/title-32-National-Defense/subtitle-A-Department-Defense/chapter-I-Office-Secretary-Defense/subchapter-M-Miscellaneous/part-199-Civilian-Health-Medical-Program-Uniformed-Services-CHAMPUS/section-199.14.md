@@ -1,5 +1,7 @@
 ##### § 199.14 Provider reimbursement methods. #####
 
+Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
+
 (a) *Hospitals.* The CHAMPUS-determined allowable cost for reimbursement of a hospital shall be determined on the basis of one of the following methodologies.
 
 (1) *CHAMPUS Diagnosis Related Group (DRG)-based payment system.* Under the CHAMPUS DRG-based payment system, payment for the operating costs of inpatient hospital services furnished by hospitals subject to the system is made on the basis of prospectively-determined rates and applied on a per discharge basis using DRGs. Payments under this system will include a differentiation for urban (using large urban and other urban areas) and rural hospitals and an adjustment for area wage differences and indirect medical education costs. Additional payments will be made for capital costs, direct medical education costs, and outlier cases.

@@ -1,24 +1,16 @@
 ##### § 450.324 Development and content of the metropolitan transportation plan. #####
 
-Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
-
-(a) The metropolitan transportation planning process shall include the development of a transportation plan addressing no less than a 20-year planning horizon as of the effective date. In formulating the transportation plan, the MPO(s) shall consider factors described in § 450.306 as the factors relate to a minimum 20-year forecast period. In nonattainment and maintenance areas, the effective date of the transportation plan shall be the date of a conformity determination issued by the FHWA and the FTA. In attainment areas, the effective date of the transportation plan shall be its date of adoption by the MPO(s).
+(a) The metropolitan transportation planning process shall include the development of a transportation plan addressing no less than a 20-year planning horizon as of the effective date. In formulating the transportation plan, the MPO shall consider factors described in § 450.306 as the factors relate to a minimum 20-year forecast period. In nonattainment and maintenance areas, the effective date of the transportation plan shall be the date of a conformity determination issued by the FHWA and the FTA. In attainment areas, the effective date of the transportation plan shall be its date of adoption by the MPO.
 
 (b) The transportation plan shall include both long-range and short-range strategies/actions that provide for the development of an integrated multimodal transportation system (including accessible pedestrian walkways and bicycle transportation facilities) to facilitate the safe and efficient movement of people and goods in addressing current and future transportation demand.
 
-(c) If more than one MPO has been designated to serve an MPA, those MPOs within the MPA shall:
+(c) The MPO shall review and update the transportation plan at least every 4 years in air quality nonattainment and maintenance areas and at least every 5 years in attainment areas to confirm the transportation plan's validity and consistency with current and forecasted transportation and land use conditions and trends and to extend the forecast period to at least a 20-year planning horizon. In addition, the MPO may revise the transportation plan at any time using the procedures in this section without a requirement to extend the horizon year. The MPO shall approve the transportation plan (and any revisions) and submit it for information purposes to the Governor. Copies of any updated or revised transportation plans must be provided to the FHWA and the FTA.
 
-(1) Jointly develop a single metropolitan transportation plan for the MPA; and
+(d) In metropolitan areas that are in nonattainment for ozone or carbon monoxide, the MPO shall coordinate the development of the metropolitan transportation plan with the process for developing transportation control measures (TCMs) in a State Implementation Plan (SIP).
 
-(2) Jointly establish, for the MPA, the performance targets that address the performance measures described in 23 CFR part 490 (where applicable), 49 U.S.C. 5326(c) and 49 U.S.C. 5329(d).
+(e) The MPO, the State(s), and the public transportation operator(s) shall validate data used in preparing other existing modal plans for providing input to the transportation plan. In updating the transportation plan, the MPO shall base the update on the latest available estimates and assumptions for population, land use, travel, employment, congestion, and economic activity. The MPO shall approve transportation plan contents and supporting analyses produced by a transportation plan update.
 
-(d) The MPO(s) shall review and update the transportation plan at least every 4 years in air quality nonattainment and maintenance areas and at least every 5 years in attainment areas to confirm the transportation plan's validity and consistency with current and forecasted transportation and land use conditions and trends and to extend the forecast period to at least a 20-year planning horizon. In addition, the MPO(s) may revise the transportation plan at any time using the procedures in this section without a requirement to extend the horizon year. The MPO(s) shall approve the transportation plan (and any revisions) and submit it for information purposes to the Governor. Copies of any updated or revised transportation plans must be provided to the FHWA and the FTA.
-
-(e) In metropolitan areas that are in nonattainment for ozone or carbon monoxide, the MPO(s) shall coordinate the development of the metropolitan transportation plan with the process for developing transportation control measures (TCMs) in a State Implementation Plan (SIP).
-
-(f) The MPO(s), the State(s), and the public transportation operator(s) shall validate data used in preparing other existing modal plans for providing input to the transportation plan. In updating the transportation plan, the MPO(s) shall base the update on the latest available estimates and assumptions for population, land use, travel, employment, congestion, and economic activity. The MPO(s) shall approve transportation plan contents and supporting analyses produced by a transportation plan update.
-
-(g) The metropolitan transportation plan shall, at a minimum, include:
+(f) The metropolitan transportation plan shall, at a minimum, include:
 
 (1) The current and projected transportation demand of persons and goods in the metropolitan planning area over the period of the transportation plan;
 
@@ -26,7 +18,7 @@ Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
 
 (3) A description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with § 450.306(d).
 
-(4) A system performance report and subsequent updates evaluating the condition and performance of the transportation system with respect to the performance targets described in § 450.306(d), including -
+(4) A system performance report and subsequent updates evaluating the condition and performance of the transportation system with respect to the performance targets described in § 450.306(d), including—
 
 (i) Progress achieved by the metropolitan planning organization in meeting the performance targets in comparison with system performance recorded in previous reports, including baseline data; and
 
@@ -42,7 +34,7 @@ Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
 
 (9) Design concept and design scope descriptions of all existing and proposed transportation facilities in sufficient detail, regardless of funding source, in nonattainment and maintenance areas for conformity determinations under the EPA's transportation conformity regulations (40 CFR part 93, subpart A). In all areas (regardless of air quality designation), all proposed improvements shall be described in sufficient detail to develop cost estimates;
 
-(10) A discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the metropolitan transportation plan. The discussion may focus on policies, programs, or strategies, rather than at the project level. The MPO(s) shall develop the discussion in consultation with applicable Federal, State, and Tribal land management, wildlife, and regulatory agencies. The MPO(s) may establish reasonable timeframes for performing this consultation;
+(10) A discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the metropolitan transportation plan. The discussion may focus on policies, programs, or strategies, rather than at the project level. The MPO shall develop the discussion in consultation with applicable Federal, State, and Tribal land management, wildlife, and regulatory agencies. The MPO may establish reasonable timeframes for performing this consultation;
 
 (11) A financial plan that demonstrates how the adopted transportation plan can be implemented.
 
@@ -52,7 +44,7 @@ Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
 
 (iii) The financial plan shall include recommendations on any additional financing strategies to fund projects and programs included in the metropolitan transportation plan. In the case of new funding sources, strategies for ensuring their availability shall be identified. The financial plan may include an assessment of the appropriateness of innovative finance techniques (for example, tolling, pricing, bonding, public private partnerships, or other strategies) as revenue sources for projects in the plan.
 
-(iv) In developing the financial plan, the MPO(s) shall take into account all projects and strategies proposed for funding under title 23 U.S.C., title 49 U.S.C. Chapter 53 or with other Federal funds; State assistance; local sources; and private participation. Revenue and cost estimates that support the metropolitan transportation plan must use an inflation rate(s) to reflect “year of expenditure dollars,” based on reasonable financial principles and information, developed cooperatively by the MPO(s), State(s), and public transportation operator(s).
+(iv) In developing the financial plan, the MPO shall take into account all projects and strategies proposed for funding under title 23 U.S.C., title 49 U.S.C. Chapter 53 or with other Federal funds; State assistance; local sources; and private participation. Revenue and cost estimates that support the metropolitan transportation plan must use an inflation rate(s) to reflect “year of expenditure dollars,” based on reasonable financial principles and information, developed cooperatively by the MPO, State(s), and public transportation operator(s).
 
 (v) For the outer years of the metropolitan transportation plan (*i.e.,* beyond the first 10 years), the financial plan may reflect aggregate cost ranges/cost bands, as long as the future funding source(s) is reasonably expected to be available to support the projected cost ranges/cost bands.
 
@@ -64,15 +56,15 @@ Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
 
 (12) Pedestrian walkway and bicycle transportation facilities in accordance with 23 U.S.C. 217(g).
 
-(h) The MPO(s) shall consult, as appropriate, with State and local agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation concerning the development of the transportation plan. The consultation shall involve, as appropriate:
+(g) The MPO shall consult, as appropriate, with State and local agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation concerning the development of the transportation plan. The consultation shall involve, as appropriate:
 
 (1) Comparison of transportation plans with State conservation plans or maps, if available; or
 
 (2) Comparison of transportation plans to inventories of natural or historic resources, if available.
 
-(i) The metropolitan transportation plan should integrate the priorities, goals, countermeasures, strategies, or projects for the metropolitan planning area contained in the HSIP, including the SHSP required under 23 U.S.C. 148, the Public Transportation Agency Safety Plan required under 49 U.S.C. 5329(d), or an Interim Agency Safety Plan in accordance with 49 CFR part 659, as in effect until completion of the Public Transportation Agency Safety Plan, and may incorporate or reference applicable emergency relief and disaster preparedness plans and strategies and policies that support homeland security, as appropriate, to safeguard the personal security of all motorized and non-motorized users.
+(h) The metropolitan transportation plan should integrate the priorities, goals, countermeasures, strategies, or projects for the metropolitan planning area contained in the HSIP, including the SHSP required under 23 U.S.C. 148, the Public Transportation Agency Safety Plan required under 49 U.S.C. 5329(d), or an Interim Agency Safety Plan in accordance with 49 CFR part 659, as in effect until completion of the Public Transportation Agency Safety Plan, and may incorporate or reference applicable emergency relief and disaster preparedness plans and strategies and policies that support homeland security, as appropriate, to safeguard the personal security of all motorized and non-motorized users.
 
-(j) An MPO may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan.
+(i) An MPO may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan.
 
 (1) An MPO that chooses to develop multiple scenarios under this paragraph (i) is encouraged to consider:
 
@@ -90,12 +82,12 @@ Link to an amendment published at 82 FR 56544, Nov. 29, 2017.
 
 (2) In addition to the performance areas identified in 23 U.S.C. 150(c), 49 U.S.C. 5326(c), and 5329(d), and the measures established under 23 CFR part 490, MPOs may evaluate scenarios developed under this paragraph using locally developed measures.
 
-(k) The MPO(s) shall provide individuals, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as carpool program, vanpool program, transit benefit program, parking cashout program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan using the participation plan developed under § 450.316(a).
+(j) The MPO shall provide individuals, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as carpool program, vanpool program, transit benefit program, parking cashout program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan using the participation plan developed under § 450.316(a).
 
-(l) The MPO(s) shall publish or otherwise make readily available the metropolitan transportation plan for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web.
+(k) The MPO shall publish or otherwise make readily available the metropolitan transportation plan for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web.
 
-(m) A State or MPO is not required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (f)(11) of this section.
+(l) A State or MPO is not required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (f)(11) of this section.
 
-(n) In nonattainment and maintenance areas for transportation-related pollutants, the MPO(s), as well as the FHWA and the FTA, must make a conformity determination on any updated or amended transportation plan in accordance with the Clean Air Act and the EPA transportation conformity regulations (40 CFR part 93, subpart A). A 12-month conformity lapse grace period will be implemented when an area misses an applicable deadline, in accordance with the Clean Air Act and the transportation conformity regulations (40 CFR part 93, subpart A). At the end of this 12-month grace period, the existing conformity determination will lapse. During a conformity lapse, MPOs can prepare an interim metropolitan transportation plan as a basis for advancing projects that are eligible to proceed under a conformity lapse. An interim metropolitan transportation plan consisting of eligible projects from, or consistent with, the most recent conforming transportation plan and TIP may proceed immediately without revisiting the requirements of this section, subject to interagency consultation defined in 40 CFR part 93, subpart A. An interim metropolitan transportation plan containing eligible projects that are not from, or consistent with, the most recent conforming transportation plan and TIP must meet all the requirements of this section.
+(m) In nonattainment and maintenance areas for transportation-related pollutants, the MPO, as well as the FHWA and the FTA, must make a conformity determination on any updated or amended transportation plan in accordance with the Clean Air Act and the EPA transportation conformity regulations (40 CFR part 93, subpart A). A 12-month conformity lapse grace period will be implemented when an area misses an applicable deadline, in accordance with the Clean Air Act and the transportation conformity regulations (40 CFR part 93, subpart A). At the end of this 12-month grace period, the existing conformity determination will lapse. During a conformity lapse, MPOs can prepare an interim metropolitan transportation plan as a basis for advancing projects that are eligible to proceed under a conformity lapse. An interim metropolitan transportation plan consisting of eligible projects from, or consistent with, the most recent conforming transportation plan and TIP may proceed immediately without revisiting the requirements of this section, subject to interagency consultation defined in 40 CFR part 93, subpart A. An interim metropolitan transportation plan containing eligible projects that are not from, or consistent with, the most recent conforming transportation plan and TIP must meet all the requirements of this section.
 
-[81 FR 34135, May 27, 2016, as amended at 81 FR 93473, Dec. 20, 2016]
+[81 FR 34135, May 27, 2016, as amended at 81 FR 93473, Dec. 20, 2016; 82 FR 56544, Nov. 29, 2017]

@@ -1,7 +1,5 @@
 ##### § 450.310 Metropolitan planning organization designation and redesignation. #####
 
-Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
-
 (a) To carry out the metropolitan transportation planning process under this subpart, an MPO shall be designated for each urbanized area with a population of more than 50,000 individuals (as determined by the Bureau of the Census).
 
 (b) MPO designation shall be made by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the largest incorporated city, based on population, as named by the Bureau of the Census) or in accordance with procedures established by applicable State or local law.
@@ -26,13 +24,13 @@ Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
 
 (iii) An official described in paragraph (d)(1)(ii) shall have responsibilities, actions, duties, voting rights, and any other authority commensurate with other officials described in paragraph (d)(1) of this section.
 
-(4) Nothing in this section shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities -
+(4) Nothing in this section shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities—
 
 (i) To develop the plans and TIPs for adoption by an MPO; and
 
 (ii) To develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
 
-(e) Except as provided in this paragraph, only one MPO shall be designated for each MPA. More than one MPO may be designated to serve an MPA only if the Governor(s) and the existing MPO(s), if applicable, determine that the size and complexity of the MPA make designation of more than one MPO in the MPA appropriate. In those cases where the Governor(s) and existing MPO(s) determine that the size and complexity of the MPA do make it appropriate that two or more MPOs serve within the same MPA, the Governor and affected MPOs by agreement shall jointly establish or adjust the boundaries for each MPO within the MPA, and the MPOs shall establish official, written agreements that clearly identify areas of coordination, the division of transportation planning responsibilities within the MPA among and between the MPOs, and procedures for joint decisionmaking and the resolution of disagreements. If multiple MPOs were designated in a single MPA prior to this rule or in multiple MPAs that merged into a single MPA following a Decennial Census by the Bureau of the Census, and the Governor(s) and the existing MPOs determine that the size and complexity do not make the designation of more than one MPO in the MPA appropriate, then those MPOs must merge together in accordance with the redesignation procedures in this section.
+(e) To the extent possible, only one MPO shall be designated for each urbanized area or group of contiguous urbanized areas. More than one MPO may be designated to serve an urbanized area only if the Governor(s) and the existing MPO, if applicable, determine that the size and complexity of the urbanized area-make designation of more than one MPO appropriate. In those cases where two or more MPOs serve the same urbanized area, the MPOs shall establish official, written agreements that clearly identify areas of coordination, and the division of transportation planning responsibilities among the MPOs.
 
 (f) Nothing in this subpart shall be deemed to prohibit an MPO from using the staff resources of other agencies, non-profit organizations, or contractors to carry out selected elements of the metropolitan transportation planning process.
 
@@ -60,10 +58,10 @@ Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
 
 (4) Periodic rotation of members representing units of general-purpose local government, as established under MPO by-laws.
 
-(m) Each Governor with responsibility for a portion of a multistate metropolitan area and the appropriate MPOs shall, to the extent practicable, provide coordinated transportation planning for the entire metropolitan area. The consent of Congress is granted to any two or more States to:
+(m) Each Governor with responsibility for a portion of a multistate metropolitan area and the appropriate MPOs shall, to the extent practicable, provide coordinated transportation planning for the entire MPA. The consent of Congress is granted to any two or more States to:
 
 (1) Enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under 23 U.S.C. 134 and 49 U.S.C. 5303 as the activities pertain to interstate areas and localities within the States; and
 
 (2) Establish such agencies, joint or otherwise, as the States may determine desirable for making the agreements and compacts effective.
 
-[81 FR 34135, May 27, 2016, as amended at 81 FR 93470, Dec. 20, 2016]
+[81 FR 34135, May 27, 2016, as amended at 81 FR 93470, Dec. 20, 2016; 82 FR 56543, Nov. 29, 2017]

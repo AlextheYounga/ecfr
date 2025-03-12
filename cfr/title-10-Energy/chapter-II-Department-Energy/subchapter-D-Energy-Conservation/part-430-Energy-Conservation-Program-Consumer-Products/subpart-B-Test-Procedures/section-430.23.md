@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 81 FR 96237, Dec. 29, 2016.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -206,25 +204,13 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (4) Other useful measures of energy consumption for clothes dryers shall be those measures of energy consumption for clothes dryers which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix D to this subpart before the date that appendix D1 becomes mandatory and appendix D1 upon the date that appendix D1 to this subpart becomes mandatory.
 
-(e) *Water heaters.* (1) For water heaters tested using energy factor and for which uniform energy factor is determined using the conversion factors in accordance with 10 CFR 429.17(a)(2):
+(e) *Water heaters.* (1) The estimated annual operating cost is calculated as:
 
-(i) The estimated annual operating cost is calculated as -
+(i) For a gas-fired or oil-fired water heater, the sum of: The product of the annual gas or oil energy consumption, determined according to section 6.3.9 or 6.4.6 of appendix E of this subpart, times the representative average unit cost of gas or oil, as appropriate, in dollars per Btu as provided by the Secretary; plus the product of the annual electric energy consumption, determined according to section 6.3.8 or 6.4.5 of appendix E of this subpart, times the representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary. Round the resulting sum to the nearest dollar per year.
 
-(A) For a gas-fired or oil-fired water heater, the product of the annual energy consumption, determined according to section 6.3.7 or 6.4.4 of appendix E of this subpart, times the representative average unit cost of gas or oil, as appropriate, in dollars per Btu as provided by the Secretary. Round the resulting product to the nearest dollar per year.
+(ii) For an electric water heater, the product of the annual energy consumption, determined according to section 6.3.7 or 6.4.4 of appendix E of this subpart, times the representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary. Round the resulting product to the nearest dollar per year.
 
-(B) For an electric water heater, the product of the annual energy consumption, determined according to section 6.3.7 or 6.4.4 of appendix E of this subpart, times the representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary, divided by 3412 Btu per kilowatt-hour. Round the resulting product to the nearest dollar per year.
-
-(ii) For an individual unit, determine the tested energy factor in accordance with section 6.1.7 or 6.2.4 of appendix E to subpart B of 10 CFR part 430 of the January 1, 2015 edition of the Code of Federal Regulations, and round the value to the nearest 0.01. Determine the converted uniform energy factor in accordance with 10 CFR 429.17(a)(2), and round the value to the nearest 0.01.
-
-(2) For water heaters tested using uniform energy factor:
-
-(i) The estimated annual operating cost is calculated as:
-
-(A) For a gas-fired or oil-fired water heater, the sum of: The product of the annual gas or oil energy consumption, determined according to section 6.3.9 or 6.4.6 of appendix E of this subpart, times the representative average unit cost of gas or oil, as appropriate, in dollars per Btu as provided by the Secretary; plus the product of the annual electric energy consumption, determined according to section 6.3.8 or 6.4.5 of appendix E of this subpart, times the representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary. Round the resulting sum to the nearest dollar per year.
-
-(B) For an electric water heater, the product of the annual energy consumption, determined according to section 6.3.7 or 6.4.4 of appendix E of this subpart, times the representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary. Round the resulting product to the nearest dollar per year.
-
-(ii) For an individual unit, determine the tested uniform energy factor in accordance with section 6.3.6 or 6.4.3 of appendix E of this subpart, and round the value to the nearest 0.01.
+(2) For an individual unit, determine the tested uniform energy factor in accordance with section 6.3.6 or 6.4.3 of appendix E of this subpart, and round the value to the nearest 0.01.
 
 (f) *Room air conditioners.* (1) The estimated annual operating cost for room air conditioners, expressed in dollars per year, shall be determined by multiplying the following three factors:
 

@@ -1,10 +1,8 @@
 ##### § 450.218 Development and content of the statewide transportation improvement program (STIP). #####
 
-Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
-
 (a) The State shall develop a statewide transportation improvement program (STIP) for all areas of the State. The STIP shall cover a period of no less than 4 years and shall be updated at least every 4 years, or more frequently if the Governor of the State elects a more frequent update cycle. However, if the STIP covers more than 4 years, the FHWA and the FTA will consider the projects in the additional years as informational. In case of difficulties developing a portion of the STIP for a particular area (e.g., metropolitan planning area, nonattainment or maintenance area, or Indian Tribal lands), the State may develop a partial STIP covering the rest of the State.
 
-(b) For each metropolitan area in the State, the State shall develop the STIP in cooperation with the MPO(s) designated for the metropolitan area. The State shall include each metropolitan TIP without change in the STIP, directly or by reference, after approval of the TIP by the MPO(s) and the Governor. A metropolitan TIP in a nonattainment or maintenance area is subject to a FHWA/FTA conformity finding before inclusion in the STIP. In areas outside a metropolitan planning area but within an air quality nonattainment or maintenance area containing any part of a metropolitan area, projects must be included in the regional emissions analysis that supported the conformity determination of the associated metropolitan TIP before they are added to the STIP.
+(b) For each metropolitan area in the State, the State shall develop the STIP in cooperation with the MPO designated for the metropolitan area. The State shall include each metropolitan TIP without change in the STIP, directly or by reference, after approval of the TIP by the MPO and the Governor. A metropolitan TIP in a nonattainment or maintenance area is subject to a FHWA/FTA conformity finding before inclusion in the STIP. In areas outside a metropolitan planning area but within an air quality nonattainment or maintenance area containing any part of a metropolitan area, projects must be included in the regional emissions analysis that supported the conformity determination of the associated metropolitan TIP before they are added to the STIP.
 
 (c) For each nonmetropolitan area in the State, the State shall develop the STIP in cooperation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through RTPOs described in § 450.210(d) using the State's consultation process(es) established under § 450.210(b).
 
@@ -60,4 +58,4 @@ Link to an amendment published at 82 FR 56543, Nov. 29, 2017.
 
 (q) A STIP shall include, to the maximum extent practicable, a discussion of the anticipated effect of the STIP toward achieving the performance targets identified by the State in the statewide transportation plan or other State performance-based plan(s), linking investment priorities to those performance targets.
 
-[81 FR 34135, May 27, 2016, as amended at 81 FR 93470, Dec. 20, 2016]
+[81 FR 34135, May 27, 2016, as amended at 81 FR 93470, Dec. 20, 2016; 82 FR 56543, Nov. 29, 2017]

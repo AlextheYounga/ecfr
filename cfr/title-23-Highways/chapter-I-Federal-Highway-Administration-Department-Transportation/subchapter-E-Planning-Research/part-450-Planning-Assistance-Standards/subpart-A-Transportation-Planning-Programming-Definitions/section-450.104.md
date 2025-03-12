@@ -1,7 +1,5 @@
 ##### § 450.104 Definitions. #####
 
-Link to an amendment published at 82 FR 56542, Nov. 29, 2017.
-
 Unless otherwise specified, the definitions in 23 U.S.C. 101(a) and 49 U.S.C. 5302 are applicable to this part.
 
 *Administrative modification* means a minor revision to a long-range statewide or metropolitan transportation plan, Transportation Improvement Program (TIP), or Statewide Transportation Improvement Program (STIP) that includes minor changes to project/project phase costs, minor changes to funding sources of previously included projects, and minor changes to project/project phase initiation dates. An administrative modification is a revision that does not require public review and comment, a redemonstration of fiscal constraint, or a conformity determination (in nonattainment and maintenance areas).
@@ -74,13 +72,13 @@ Unless otherwise specified, the definitions in 23 U.S.C. 101(a) and 49 U.S.C. 53
 
 *Management system* means a systematic process, designed to assist decision makers in selecting cost effective strategies/actions to improve the efficiency or safety of, and protect the investment in the nation's infrastructure. A management system can include: Identification of performance measures; data collection and analysis; determination of needs; evaluation and selection of appropriate strategies/actions to address the needs; and evaluation of the effectiveness of the implemented strategies/actions.
 
-*Metropolitan planning agreement* means a written agreement between the MPO(s), the State(s), and the providers of public transportation serving the metropolitan planning area that describes how they will work cooperatively to meet their mutual responsibilities in carrying out the metropolitan transportation planning process.
+*Metropolitan planning agreement* means a written agreement between the MPO, the State(s), and the providers of public transportation serving the metropolitan planning area that describes how they will work cooperatively to meet their mutual responsibilities in carrying out the metropolitan transportation planning process.
 
-*Metropolitan planning area* (MPA) means the geographic area determined by agreement between the MPO(s) for the area and the Governor(s), which must at a minimum include the entire urbanized area and the contiguous area expected to become urbanized within a 20-year forecast period for the metropolitan transportation plan, and may include additional areas.
+*Metropolitan planning area* (MPA) means the geographic area determined by agreement between the MPO for the area and the Governor, in which the metropolitan transportation planning process is carried out.
 
 *Metropolitan Planning Organization* (MPO) means the policy board of an organization created and designated to carry out the metropolitan transportation planning process.
 
-*Metropolitan transportation plan* means the official multimodal transportation plan addressing no less than a 20-year planning horizon, that is developed, adopted, and updated by the MPO or MPOs through the metropolitan transportation planning process for the MPA.
+*Metropolitan transportation plan* means the official multimodal transportation plan addressing no less than a 20-year planning horizon that the MPO develops, adopts, and updates through the metropolitan transportation planning process.
 
 *National Ambient Air Quality Standard* (NAAQS) means those standards established pursuant to section 109 of the Clean Air Act (42 U.S.C. 7409).
 
@@ -132,7 +130,7 @@ Unless otherwise specified, the definitions in 23 U.S.C. 101(a) and 49 U.S.C. 53
 
 *Transportation Control Measure* (TCM) means any measure that is specifically identified and committed to in the applicable SIP, including a substitute or additional TCM that is incorporated into the applicable SIP through the process established in CAA section 176(c)(8), that is either one of the types listed in section 108 of the CAA (42 U.S.C. 7408) or any other measure for the purpose of reducing emissions or concentrations of air pollutants from transportation sources by reducing vehicle use or changing traffic flow or congestion conditions. Notwithstanding the above, vehicle technology-based, fuel-based, and maintenance-based measures that control the emissions from vehicles under fixed traffic conditions are not TCMs.
 
-*Transportation improvement program* (TIP) means a prioritized listing/program of transportation projects covering a period of 4 years that is developed and formally adopted by an MPO or MPOs as part of the metropolitan transportation planning process for the MPA, consistent with the metropolitan transportation plan, and required for projects to be eligible for funding under title 23 U.S.C. and title 49 U.S.C. chapter 53.
+*Transportation improvement program* (TIP) means a prioritized listing/program of transportation projects covering a period of 4 years that is developed and formally adopted by an MPO as part of the metropolitan transportation planning process, consistent with the metropolitan transportation plan, and required for projects to be eligible for funding under title 23 U.S.C. and title 49 U.S.C. chapter 53.
 
 *Transportation Management Area* (TMA) means an urbanized area with a population over 200,000, as defined by the Bureau of the Census and designated by the Secretary of Transportation, or any additional area where TMA designation is requested by the Governor and the MPO and designated by the Secretary of Transportation.
 
@@ -146,4 +144,4 @@ Unless otherwise specified, the definitions in 23 U.S.C. 101(a) and 49 U.S.C. 53
 
 *Visualization techniques* means methods used by States and MPOs in the development of transportation plans and programs with the public, elected and appointed officials, and other stakeholders in a clear and easily accessible format such as GIS- or web-based surveys, inventories, maps, pictures, and/or displays identifying features such as roadway rights of way, transit, intermodal, and non-motorized transportation facilities, historic and cultural resources, natural resources, and environmentally sensitive areas, to promote improved understanding of existing or proposed transportation plans and programs.
 
-[81 FR 34135, May 27, 2016, as amended at 81 FR 93469, Dec. 20, 2016]
+[81 FR 34135, May 27, 2016, as amended at 81 FR 93469, Dec. 20, 2016; 82 FR 56542, Nov. 29, 2017]
