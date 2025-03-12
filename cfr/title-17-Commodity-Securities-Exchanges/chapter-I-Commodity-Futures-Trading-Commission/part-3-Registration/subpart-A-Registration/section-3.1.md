@@ -1,7 +1,5 @@
 ##### § 3.1 Definitions. #####
 
-Link to an amendment published at 83 FR 43522, August 27, 2018.
-
 (a) *Principal.* Principal means, with respect to an entity that is an applicant for registration, a registrant or a person required to be registered under the Act or the regulations in this part:
 
 (1) If the entity is organized as a sole proprietorship, the proprietor and chief compliance officer; if a partnership, any general partner and chief compliance officer; if a corporation, any director, the president, chief executive officer, chief operating officer, chief financial officer, chief compliance officer, and any person in charge of a principal business unit, division or function subject to regulation by the Commission; if a limited liability company or limited liability partnership, any director, the president, chief executive officer, chief operating officer, chief financial officer, chief compliance officer, the manager, managing member or those members vested with the management authority for the entity, and any person in charge of a principal business unit, division or function subject to regulation by the Commission; and, in addition, any person occupying a similar status or performing similar functions, having the power, directly or indirectly, through agreement or otherwise, to exercise a controlling influence over the entity's activities that are subject to regulation by the Commission;
@@ -36,4 +34,6 @@ Link to an amendment published at 83 FR 43522, August 27, 2018.
 
 (i) *Board of directors.* Board of directors means the board of directors, board of governors, or equivalent governing body of a registrant.
 
-[49 FR 5521, Feb. 13, 1984, and 49 FR 8217, Mar. 5, 1984, as amended at 49 FR 39530, Oct. 9, 1984; 57 FR 23144, June 2, 1992; 66 FR 53518, Oct. 23, 2001; 72 FR 63979, Nov. 14, 2007; 75 FR 55424, Sept. 10, 2010; 77 FR 2626, Jan. 19, 2012; 77 FR 3590, Jan. 25, 2012; 77 FR 20200, Apr. 3, 2012; 77 FR 51903, Aug. 28, 2012]
+(j) *Senior officer.* Senior officer means the chief executive officer or other equivalent officer of a registrant.
+
+[49 FR 5521, Feb. 13, 1984, and 49 FR 8217, Mar. 5, 1984, as amended at 49 FR 39530, Oct. 9, 1984; 57 FR 23144, June 2, 1992; 66 FR 53518, Oct. 23, 2001; 72 FR 63979, Nov. 14, 2007; 75 FR 55424, Sept. 10, 2010; 77 FR 2626, Jan. 19, 2012; 77 FR 3590, Jan. 25, 2012; 77 FR 20200, Apr. 3, 2012; 77 FR 51903, Aug. 28, 2012; 83 FR 43522, Aug. 27, 2018]

@@ -1,5 +1,7 @@
 ##### 9.405 Effect of listing. #####
 
+Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
+
 (a) Contractors debarred, suspended, or proposed for debarment are excluded from receiving contracts, and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors, unless the agency head determines that there is a compelling reason for such action (*see* 9.405-1(b), 9.405-2, 9.406-1(c), 9.407-1(d), and 23.506(e)). Contractors debarred, suspended, or proposed for debarment are also excluded from conducting business with the Government as agents or representatives of other contractors.
 
 (b) Contractors included in the SAM Exclusions as having been declared ineligible on the basis of statutory or other regulatory procedures are excluded from receiving contracts, and if applicable, subcontracts, under the conditions and for the period set forth in the statute or regulation. Agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors under those conditions and for that period. In addition, agencies shall not extend contracts with contractors that have been declared ineligible pursuant to 22 U.S.C. 2593e.

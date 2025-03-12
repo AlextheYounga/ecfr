@@ -1,5 +1,7 @@
 ##### 52.232-33 Payment by Electronic Funds Transfer - System for Award Management. #####
 
+Link to an amendment published at 83 FR 48700, Sept. 26, 2018.
+
 As prescribed in 32.1110(a)(1), insert the following clause:
 
 Payment by Electronic Funds Transfer - System for Award Management (JUL 2013)

@@ -1,5 +1,7 @@
 ##### 9.404 System for Award Management Exclusions. #####
 
+Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
+
 (a) The General Services Administration (GSA) -
 
 (1) Operates the web-based System for Award Management (SAM) Exclusions; and

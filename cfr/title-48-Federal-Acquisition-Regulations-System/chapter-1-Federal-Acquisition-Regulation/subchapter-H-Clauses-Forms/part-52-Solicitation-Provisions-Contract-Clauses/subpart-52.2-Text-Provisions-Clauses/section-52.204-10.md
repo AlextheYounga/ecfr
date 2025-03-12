@@ -1,5 +1,7 @@
 ##### 52.204-10 Reporting Executive Compensation and First-Tier Subcontract Awards. #####
 
+Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
+
 As prescribed in 4.1403(a), insert the following clause:
 
 Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2016)

@@ -21761,9 +21761,9 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (7) Unit 4: Jackson County, Oregon
 
-(i)-(ii) [Reserved]
+(i) [Reserved]
 
-(iii) Units 1-4 (Map 1) follow:
+(ii) Units 1-4 (Map 1) follow:
 
 ![](/graphics/er10fe06.009.gif)
 
@@ -21789,7 +21789,7 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (i) [Reserved]
 
-(iii) Units 11-12 (Map 3) follow:
+(ii) Units 11-12 (Map 3) follow:
 
 ![](/graphics/er10fe06.011.gif)
 
@@ -21797,9 +21797,9 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (18) Unit 14: Sacramento and Amador County, California.
 
-(i)-(ii) [Reserved]
+(i) [Reserved]
 
-(iii) Units 13-14 (Map 4) follow:
+(ii) Units 13-14 (Map 4) follow:
 
 ![](/graphics/er10fe06.012.gif)
 
@@ -21831,9 +21831,9 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (29) Unit 23: Merced County, California
 
-(i)-(xi) [Reserved]
+(i) [Reserved]
 
-(xii) Unit 23 (Map 9) follows:
+(ii) Unit 23 (Map 9) follows:
 
 ![](/graphics/er10fe06.017.gif)
 
@@ -21849,15 +21849,15 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (i) [Reserved]
 
-(vii) Unit 26 (Map 11) follows:
+(ii) Unit 26 (Map 11) follows:
 
 ![](/graphics/er10fe06.019.gif)
 
 (34) Unit 27: Tulare County, California.
 
-(i)-(iv) [Reserved]
+(i) [Reserved]
 
-(v) Unit 27 (Map 12) follows:
+(ii) Unit 27 (Map 12) follows:
 
 ![](/graphics/er10fe06.020.gif)
 
@@ -23472,7 +23472,7 @@ Taylor's Checkerspot Butterfly (*Euphydryas editha taylori*)
 
 ![](/graphics/er04de08.002.gif)Hawaiian picture-wing fly (*Drosophila differens*)
 
-(1) Critical habitat is depicted for County of Maui, island of Molokai, Hawaii, on the map below. The maps provided are for informational purposes only.
+(1) Critical habitat is depicted for County of Maui, island of Molokai, Hawaii, on the map below. The map provided is for informational purposes only.
 
 (2) The primary constituent elements of critical habitat for *Drosophila differens* are:
 
@@ -23676,7 +23676,7 @@ Taylor's Checkerspot Butterfly (*Euphydryas editha taylori*)
 
 ![](/graphics/er04de08.022.gif)Hawaiian picture-wing fly (*Drosophila musaphilia*)
 
-(1) Critical habitat is depicted for County of Kauai, island of Kauai, Hawaii, on the map below. The maps provided are for informational purposes only.
+(1) Critical habitat is depicted for County of Kauai, island of Kauai, Hawaii, on the map below. The map provided is for informational purposes only.
 
 (2) The primary constituent elements of critical habitat for *Drosophila musaphilia* are:
 
@@ -23696,7 +23696,7 @@ Taylor's Checkerspot Butterfly (*Euphydryas editha taylori*)
 
 ![](/graphics/er04de08.023.gif)Hawaiian picture-wing fly (*Drosophila neoclavisetae*)
 
-(1) Critical habitat is depicted for County of Maui, island of Maui, Hawaii, on the map below. The maps provided are for informational purposes only.
+(1) Critical habitat is depicted for County of Maui, island of Maui, Hawaii, on the map below. The map provided is for informational purposes only.
 
 (2) The primary constituent elements of critical habitat for *Drosophila neoclavisetae* are:
 
@@ -23968,7 +23968,7 @@ Taylor's Checkerspot Butterfly (*Euphydryas editha taylori*)
 
 ![](/graphics/er04de08.040.gif)Zayante Band-Winged Grasshopper (*Trimerotropis infantilis*)
 
-1. The unit of critical habitat is depicted for Santa Cruz County, California, on the map below. The maps provided are for informational purposes only.
+1. The unit of critical habitat is depicted for Santa Cruz County, California, on the map below. The map provided is for informational purposes only.
 
 ![](/graphics/er07fe01.017.gif)
 

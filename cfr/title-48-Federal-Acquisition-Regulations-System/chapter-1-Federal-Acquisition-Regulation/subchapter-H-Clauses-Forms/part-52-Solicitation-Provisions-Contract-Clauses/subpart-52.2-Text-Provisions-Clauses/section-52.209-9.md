@@ -1,5 +1,7 @@
 ##### 52.209-9 Updates of Publicly Available Information Regarding Responsibility Matters. #####
 
+Link to an amendment published at 83 FR 48699, Sept. 26, 2018.
+
 As prescribed at 9.104-7(c), insert the following clause:
 
 Updates of Publicly Available Information Regarding Responsibility Matters (JUL 2013)

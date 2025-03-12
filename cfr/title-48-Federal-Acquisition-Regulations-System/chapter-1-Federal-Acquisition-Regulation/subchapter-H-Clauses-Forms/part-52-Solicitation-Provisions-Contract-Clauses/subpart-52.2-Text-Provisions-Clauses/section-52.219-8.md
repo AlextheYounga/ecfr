@@ -1,5 +1,7 @@
 ##### 52.219-8 Utilization of Small Business Concerns. #####
 
+Link to an amendment published at 83 FR 48700, Sept. 26, 2018.
+
 As prescribed in 19.708(a), insert the following clause:
 
 Utilization of Small Business Concerns (NOV 2016)

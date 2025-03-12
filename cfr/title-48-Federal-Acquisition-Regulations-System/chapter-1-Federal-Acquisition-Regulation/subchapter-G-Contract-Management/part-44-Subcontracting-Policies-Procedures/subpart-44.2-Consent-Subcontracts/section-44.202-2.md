@@ -1,5 +1,7 @@
 ##### 44.202-2 Considerations. #####
 
+Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
+
 (a) The contracting officer responsible for consent must, at a minimum, review the request and supporting data and consider the following:
 
 (1) Is the decision to subcontract consistent with the contractor's approved make-or-buy program, if any (see 15.407-2)?

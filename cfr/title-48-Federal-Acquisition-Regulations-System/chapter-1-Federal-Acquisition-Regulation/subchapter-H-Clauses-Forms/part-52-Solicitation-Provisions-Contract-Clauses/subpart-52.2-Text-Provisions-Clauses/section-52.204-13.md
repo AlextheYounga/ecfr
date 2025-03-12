@@ -1,5 +1,7 @@
 ##### 52.204-13 System for Award Management Maintenance. #####
 
+Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
+
 As prescribed in 4.1105(b), use the following clause:
 
 System for Award Management Maintenance (OCT 2016)

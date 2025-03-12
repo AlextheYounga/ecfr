@@ -1,5 +1,7 @@
 ##### 4.1103 Procedures. #####
 
+Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
+
 (a) Unless the acquisition is exempt under 4.1102, the contracting officer -
 
 (1) Shall verify that the prospective contractor is registered in the SAM database (see paragraph (b) of this section) before awarding a contract or agreement. Contracting officers are encouraged to check the SAM early in the acquisition process, after the competitive range has been established, and then communicate to the unregistered offerors that they shall register;

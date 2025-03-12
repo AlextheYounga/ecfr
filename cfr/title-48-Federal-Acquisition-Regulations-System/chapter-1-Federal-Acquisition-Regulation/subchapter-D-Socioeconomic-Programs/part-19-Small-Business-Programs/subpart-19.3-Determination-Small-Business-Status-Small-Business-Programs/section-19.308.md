@@ -1,5 +1,7 @@
 ##### 19.308 Protesting a firm's status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 127.102.
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror's status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror's EDWOSB or WOSB status.

@@ -1,5 +1,7 @@
 ##### 28.203-7 Exclusion of individual sureties. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 (a) An individual may be excluded from acting as a surety on bonds submitted by offerors on procurement by the executive branch of the Federal Government, by the acquiring agency's head or designee utilizing the procedures in subpart 9.4. The exclusion shall be for the purpose of protecting the Government.
 
 (b) An individual may be excluded for any of the following causes:

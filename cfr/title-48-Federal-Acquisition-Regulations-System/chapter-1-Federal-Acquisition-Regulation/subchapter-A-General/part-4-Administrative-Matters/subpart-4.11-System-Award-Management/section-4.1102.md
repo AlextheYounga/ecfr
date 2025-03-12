@@ -1,5 +1,7 @@
 ##### 4.1102 Policy. #####
 
+Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
+
 (a) Prospective contractors shall be registered in the SAM database prior to award of a contract or agreement, except for -
 
 (1) Purchases under the micro-purchase threshold that use a Governmentwide commercial purchase card as both the purchasing and payment mechanism, as opposed to using the purchase card for payment only;

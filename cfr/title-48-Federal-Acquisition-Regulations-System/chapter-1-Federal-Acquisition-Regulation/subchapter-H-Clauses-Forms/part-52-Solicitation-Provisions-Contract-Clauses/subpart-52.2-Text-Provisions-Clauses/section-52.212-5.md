@@ -1,5 +1,7 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
+Link to an amendment published at 83 FR 48699, Sept. 26, 2018.Link to an amendment published at 83 FR 48701, Sept. 26, 2018.
+
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (AUG 2018)

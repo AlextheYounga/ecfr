@@ -1,7 +1,5 @@
 ##### § 3.3 Chief compliance officer. #####
 
-Link to an amendment published at 83 FR 43522, August 27, 2018.
-
 (a) *Designation.* Each futures commission merchant, swap dealer, and major swap participant shall designate an individual to serve as its chief compliance officer, and provide the chief compliance officer with the responsibility and authority to develop, in consultation with the board of directors or the senior officer, appropriate policies and procedures to fulfill the duties set forth in the Act and Commission regulations relating to the swap dealer's or major swap participant's swaps activities, or to the futures commission merchant's business as a futures commission merchant and to ensure compliance with the Act and Commission regulations relating to the swap dealer's or major swap participant's swaps activities, or to the futures commission merchant's business as a futures commission merchant.
 
 (1) The chief compliance officer shall report to the board of directors or the senior officer of the futures commission merchant, swap dealer, or major swap participant. The board of directors or the senior officer shall appoint the chief compliance officer, shall approve the compensation of the chief compliance officer, and shall meet with the chief compliance officer at least once a year and at the election of the chief compliance officer.
@@ -14,49 +12,53 @@ Link to an amendment published at 83 FR 43522, August 27, 2018.
 
 (d) *Chief compliance officer duties.* The chief compliance officer's duties shall include, but are not limited to:
 
-(1) Administering the registrant's policies and procedures reasonably designed to ensure compliance with the Act and Commission regulations;
+(1) Administering each of the registrant's policies and procedures relating to its business as a futures commission merchant, swap dealer, or major swap participant that are required to be established pursuant to the Act and Commission regulations;
 
-(2) In consultation with the board of directors or the senior officer, resolving any conflicts of interest that may arise;
+(2) In consultation with the board of directors or the senior officer, taking reasonable steps to resolve material conflicts of interest relating to the registrant's business as a futures commission merchant, swap dealer, or major swap participant that may arise;
 
-(3) Taking reasonable steps to ensure compliance with the Act and Commission regulations relating to the swap dealer's or major swap participant's swaps activities, or to the futures commission merchant's business as a futures commission merchant;
+(3) Taking reasonable steps to ensure compliance with the Act and Commission regulations relating to the registrant's business as a futures commission merchant, swap dealer or major swap participant;
 
-(4) Establishing procedures, in consultation with the board of directors or the senior officer, for the remediation of noncompliance issues identified by the chief compliance officer through a compliance office review, look-back, internal or external audit finding, self-reported error, or validated complaint;
+(4) Taking reasonable steps to ensure the registrant establishes, maintains, and reviews written policies and procedures reasonably designed to remediate noncompliance issues identified by the chief compliance officer through any means, including any compliance office review, look-back, internal or external audit finding, self-reporting to the Commission and other appropriate authorities, or complaint that can be validated;
 
-(5) Establishing procedures, in consultation with the board of directors or the senior officer, for the handling, management response, remediation, retesting, and closing of noncompliance issues; and
+(5) Taking reasonable steps to ensure the registrant establishes written procedures reasonably designed for the handling, management response, remediation, retesting, and resolution of noncompliance issues; and
 
 (6) Preparing and signing the annual report required under paragraphs (e) and (f) of this section.
 
-(e) *Annual report.* The chief compliance officer annually shall prepare a written report that covers the most recently completed fiscal year of the futures commission merchant, swap dealer, or major swap participant, and provide the annual report to the board of directors or the senior officer. The annual report shall, at a minimum:
+(e) *Annual report.* The chief compliance officer annually shall prepare a written report that covers the most recently completed fiscal year of the futures commission merchant, swap dealer, or major swap participant. The annual report shall, at a minimum, contain a description of:
 
-(1) Contain a description of the written policies and procedures, including the code of ethics and conflicts of interest policies, of the futures commission merchant, swap dealer, or major swap participant;
+(1) The written policies and procedures of the futures commission merchant, swap dealer, or major swap participant described in paragraph (d) of this section, including the code of ethics and conflicts of interest policies;
 
-(2) Review each applicable requirement under the Act and Commission regulations, and with respect to each:
+(2) The futures commission merchant's, swap dealer's, or major swap participant's assessment of the effectiveness of its policies and procedures relating to its business as a futures commission merchant, swap dealer or major swap participant;
 
-(i) Identify the policies and procedures that are reasonably designed to ensure compliance with the requirement under the Act and Commission regulations;
+(3) Areas for improvement, and recommended potential or prospective changes or improvements to its compliance program and resources devoted to compliance;
 
-(ii) Provide an assessment as to the effectiveness of these policies and procedures; and
+(4) The financial, managerial, operational, and staffing resources set aside for compliance with respect to the Act and Commission regulations relating to its business as a futures commission merchant, swap dealer or major swap participant, including any material deficiencies in such resources;
 
-(iii) Discuss areas for improvement, and recommend potential or prospective changes or improvements to its compliance program and resources devoted to compliance;
+(5) Any material noncompliance issues identified and the corresponding action taken; and
 
-(3) List any material changes to compliance policies and procedures during the coverage period for the report;
+(6) Any material changes to compliance policies and procedures during the coverage period for the report.
 
-(4) Describe the financial, managerial, operational, and staffing resources set aside for compliance with respect to the Act and Commission regulations, including any material deficiencies in such resources; and
+(f) *Furnishing the annual report and related matters*—(1) *Furnishing the annual report.* (i) Prior to furnishing the annual report to the Commission, the chief compliance officer shall provide the annual report to the board of directors or senior officer of the futures commission merchant, swap dealer, or major swap participant for its review.
 
-(5) Describe any material non-compliance issues identified, and the corresponding action taken.
+(ii) If the futures commission merchant, swap dealer, or major swap participant has established an audit committee (or an equivalent body), then the chief compliance officer shall furnish the annual report to the audit committee (or equivalent body) not later than its next scheduled meeting after the annual report is furnished to the Commission, but in no event more than 90 days after the applicable date specified in paragraph (f)(2) of this section for furnishing the annual report to the Commission.
 
-(f) *Furnishing the annual report to the Commission.* (1) Prior to furnishing the annual report to the Commission, the chief compliance officer shall provide the annual report to the board of directors or the senior officer of the futures commission merchant, swap dealer, or major swap participant for its review. Furnishing the annual report to the board of directors or the senior officer shall be recorded in the board minutes or otherwise, as evidence of compliance with this requirement.
+(iii) A written record of transmittal of the annual report to the board of directors or the senior officer, and audit committee, if applicable, shall be made and maintained in accordance with § 1.31 of this chapter.
 
-(2)(i) Except as provided in paragraph (f)(2)(ii) of this section, the annual report shall be furnished electronically to the Commission not more than 90 days after the end of the fiscal year of the futures commission merchant, swap dealer, or major swap participant.
+(2) *Furnishing the annual report to the Commission.* (i) Except as provided in paragraph (f)(2)(ii) of this section, the annual report shall be furnished electronically to the Commission not more than 90 days after the end of the fiscal year of the futures commission merchant, swap dealer, or major swap participant.
 
 (ii) The annual report of a swap dealer or major swap participant that is eligible to comply with a substituted compliance regime for paragraph (e) of this section pursuant to a comparability determination of the Commission may be furnished to the Commission electronically up to 15 days after the date on which the comparable annual report must be completed under the requirements of the applicable substituted compliance regime. If the substituted compliance regime does not specify a date by which the comparable annual report must be completed, then the annual report shall be furnished to the Commission by the date specified in paragraph (f)(2)(i) of this section.
 
-(3) The report shall include a certification by the chief compliance officer or chief executive officer of the registrant that, to the best of his or her knowledge and reasonable belief, and under penalty of law, the information contained in the annual report is accurate and complete.
+(3) *Certification.* The report shall include a certification by the chief compliance officer or chief executive officer of the registrant that, to the best of his or her knowledge and reasonable belief, and under penalty of law, the information contained in the annual report is accurate and complete in all material respects.
 
-(4) The futures commission merchant, swap dealer, or major swap participant shall promptly furnish an amended annual report if material errors or omissions in the report are identified. An amendment must contain the certification required under paragraph (f)(3) of this section.
+(4) *Amending the annual report.* The futures commission merchant, swap dealer, or major swap participant shall promptly furnish an amended annual report if material errors or omissions in the report are identified. An amendment must contain the certification required under paragraph (f)(3) of this section.
 
-(5) A futures commission merchant, swap dealer, or major swap participant may request from the Commission an extension of time to furnish its annual report, provided the registrant's failure to timely furnish the report could not be eliminated by the registrant without unreasonable effort or expense. Extensions of the deadline will be granted at the discretion of the Commission.
+(5) *Extensions.* A futures commission merchant, swap dealer, or major swap participant may request from the Commission an extension of time to furnish its annual report, provided the registrant's failure to timely furnish the report could not be eliminated by the registrant without unreasonable effort or expense. Extensions of the deadline will be granted at the discretion of the Commission.
 
-(6) A futures commission merchant, swap dealer, or major swap participant may incorporate by reference sections of an annual report that has been furnished within the current or immediately preceding reporting period to the Commission. If the futures commission merchant, swap dealer, or major swap participant is registered in more than one capacity with the Commission, and must submit more than one annual report, an annual report submitted as one registrant may incorporate by reference sections in the annual report furnished within the current or immediately preceding reporting period as the other registrant.
+(6) *Incorporation by reference and related registrants*—(i) *Prior reports.* A futures commission merchant, swap dealer, or major swap participant may incorporate by reference sections of an annual report that has been furnished within the current or immediately preceding reporting period to the Commission.
+
+(ii) *Dual registrants.* If a futures commission merchant, swap dealer, or major swap participant is registered in more than one capacity with the Commission, an annual report submitted as one registrant may incorporate by reference sections in the annual report furnished within the current or immediately preceding reporting period as the other registrant. A dual registrant may submit one annual report that addresses the requirements set forth in paragraphs (e), (f)(1) and (f)(3) of this section with respect to each registration capacity.
+
+(iii) *Affiliated registrants.* If a futures commission merchant, swap dealer, or major swap participant controls, is controlled by, or is under common control with, one or more other futures commission merchants, swap dealers, or major swap participants, and each of the affiliated registrants must submit an annual report, an affiliated registrant may incorporate by reference in its annual report sections from an annual report prepared by any of its affiliated registrants furnished within the current or immediately preceding reporting period. Affiliated registrants may submit one annual report that addresses the requirements set forth in paragraphs (e), (f)(1) and (f)(3) of this section with respect to each affiliated registrant.
 
 (g) *Recordkeeping.* (1) The futures commission merchant, swap dealer, or major swap participant shall maintain:
 
@@ -70,4 +72,4 @@ Link to an amendment published at 83 FR 43522, August 27, 2018.
 
 (h) *Delegation of authority.* The Commission hereby delegates to the Director of the Division of Swap Dealer and Intermediary Oversight, or such other employee or employees as the Director may designate from time to time, the authority to grant extensions of time, as set forth in paragraph (f)(5) of this section. Notwithstanding such delegation, in any case in which a Commission employee delegated authority under this paragraph believes it appropriate, he or she may submit to the Commission for its consideration the question of whether an extension of time should be granted. The delegation of authority in this paragraph shall not prohibit the Commission, at its election, from exercising the authority set forth in paragraph (f)(5) of this section.
 
-[77 FR 20200, Apr. 3, 2012, as amended at 78 FR 68645, Nov. 14, 2013; 81 FR 80566, Nov. 16, 2016]
+[77 FR 20200, Apr. 3, 2012, as amended at 78 FR 68645, Nov. 14, 2013; 81 FR 80566, Nov. 16, 2016; 83 FR 43522, Aug. 27, 2018]

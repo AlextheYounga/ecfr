@@ -1,5 +1,7 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
+
 (a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial items shall, to the maximum extent practicable, include only those clauses -
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial items; or

@@ -1,5 +1,7 @@
 ##### 25.703-3 Prohibition on contracting with entities that export sensitive technology to Iran. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 (a) The head of an executive agency may not enter into or extend a contract for the procurement of goods or services with a person that exports certain sensitive technology to Iran, as determined by the President and listed in the System for Award Management Exclusions via *http://www.acquisition.gov* (22 U.S.C. 8515).
 
 (b) Each offeror must represent that it does not export any sensitive technology to the government of Iran or any entities or individuals owned or controlled by, or acting on behalf or at the direction of, the government of Iran.

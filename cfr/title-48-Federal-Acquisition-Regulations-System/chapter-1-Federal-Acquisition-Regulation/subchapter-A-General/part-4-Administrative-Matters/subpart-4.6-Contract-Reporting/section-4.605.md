@@ -1,5 +1,7 @@
 ##### 4.605 Procedures. #####
 
+Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
+
 (a) *Procurement Instrument Identifier (PIID).* Agencies shall have in place a process that ensures that each PIID reported to FPDS is unique Governmentwide, for all solicitations, contracts, blanket purchase agreements, basic agreements, basic ordering agreements, or orders in accordance with 4.1601 to 4.1603, and will remain so for at least 20 years from the date of contract award. Other pertinent PIID instructions for FPDS reporting can be found at *https://www.fpds.gov.*
 
 (b) *Unique entity identifier.* The contracting officer shall identify and report a unique entity identifier for the successful offeror on a contract action. The unique entity identifier shall correspond to the successful offeror's name and address as stated in the offer and resultant contract, and as registered in the System for Award Management database in accordance with the provision at 52.204-7, System for Award Management. The contracting officer shall ask the offeror to provide its unique entity identifier by using either the provision at 52.204-6, Unique Entity Identifier, the provision at 52.204-7, System for Award Management, or the provision at 52.212-1, Instructions to Offerors - Commercial Items. (For a discussion of the Commercial and Government Entity (CAGE) Code, which is a different identifier, see subpart 4.18.)

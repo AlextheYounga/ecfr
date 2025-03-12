@@ -1,5 +1,7 @@
 ##### 13.102 Source list. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 (a) Contracting officers should use the System for Award Management database (*see* subpart 4.11) via *https://www.acquisition.gov* as their primary sources of vendor information. Offices maintaining additional vendor source files or listings should identify the status of each source (when the status is made known to the contracting office) in the following categories:
 
 (1) Small business.

@@ -1,5 +1,7 @@
 ##### 32.1110 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
+
 (a) The contracting officer shall insert the clause at -
 
 (1) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management, in solicitations and contracts that include the provision at 52.204-7 or an agency clause that requires a contractor to be registered in the System for Award Management (SAM) database and maintain registration until final payment, unless -

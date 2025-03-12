@@ -1,5 +1,7 @@
 ##### 52.237-11 Accepting and Dispensing of $1 Coin. #####
 
+Link to an amendment published at 83 FR 48701, Sept. 26, 2018.
+
 As prescribed in 37.116-2, insert the following clause:
 
 Accepting and Dispensing of $1 Coin (SEP 2008)

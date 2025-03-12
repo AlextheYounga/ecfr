@@ -1,5 +1,7 @@
 ##### 4.1201 Policy. #####
 
+Link to an amendment published at 83 FR 48696, Sept. 26, 2018.
+
 (a) Prospective contractors shall complete electronic annual representations and certifications at SAM accessed via *https://www.acquisition.gov* as a part of required registration (see FAR 4.1102).
 
 (b)(1) Prospective contractors shall update the representations and certifications submitted to SAM as necessary, but at least annually, to ensure they are kept current, accurate, and complete. The representations and certifications are effective until one year from date of submission or update to SAM.

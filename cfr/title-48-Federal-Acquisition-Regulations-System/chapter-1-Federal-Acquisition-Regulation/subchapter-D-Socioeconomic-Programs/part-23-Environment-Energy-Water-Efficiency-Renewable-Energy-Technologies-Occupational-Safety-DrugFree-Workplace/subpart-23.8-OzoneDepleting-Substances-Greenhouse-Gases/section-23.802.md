@@ -1,5 +1,7 @@
 ##### 23.802 Policy. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 It is the policy of the Federal Government that Federal agencies -
 
 (a) Implement cost-effective programs to minimize the procurement of materials and substances that contribute to the depletion of stratospheric ozone and/or result in the use, release or emission of high global warming potential hydrofluorocarbons;

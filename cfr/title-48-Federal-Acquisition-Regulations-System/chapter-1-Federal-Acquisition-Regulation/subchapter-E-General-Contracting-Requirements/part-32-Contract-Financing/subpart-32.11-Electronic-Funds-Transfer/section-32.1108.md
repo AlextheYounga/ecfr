@@ -1,5 +1,7 @@
 ##### 32.1108 Payment by Governmentwide commercial purchase card. #####
 
+Link to an amendment published at 83 FR 48698, Sept. 26, 2018.
+
 A Governmentwide commercial purchase card charge authorizes the third party (e.g., financial institution) that issued the purchase card to make immediate payment to the contractor. The Government reimburses the third party at a later date for the third party's payment to the contractor.
 
 (a) The clause at 52.232-36, Payment by Third Party, governs when a contractor submits a charge against the purchase card for contract payment. The clause provides that the contractor shall make such payment requests by a charge to a Government account with the third party at the time the payment clause(s) of the contract authorizes the contractor to submit a request for payment, and for the amount due in accordance with the terms of the contract. To the extent that such a payment would otherwise be approved, the charge against the purchase card should not be disputed when the charge is reported to the Government by the third party. To the extent that such payment would otherwise not have been approved, an authorized individual (see 1.603-3) shall take action to remove the charge, such as by disputing the charge with the third party or by requesting that the contractor credit the charge back to the Government under the contract.

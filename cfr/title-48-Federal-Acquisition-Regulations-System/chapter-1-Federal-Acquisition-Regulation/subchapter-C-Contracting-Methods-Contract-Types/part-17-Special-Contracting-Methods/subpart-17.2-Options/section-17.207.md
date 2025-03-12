@@ -1,5 +1,7 @@
 ##### 17.207 Exercise of options. #####
 
+Link to an amendment published at 83 FR 48697, Sept. 26, 2018.
+
 (a) When exercising an option, the contracting officer shall provide written notice to the contractor within the time period specified in the contract.
 
 (b) When the contract provides for economic price adjustment and the contractor requests a revision of the price, the contracting officer shall determine the effect of the adjustment on prices under the option before the option is exercised.

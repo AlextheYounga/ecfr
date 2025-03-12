@@ -1,5 +1,7 @@
 ##### 4.1100 Scope. #####
 
+Link to an amendment published at 83 FR 48695, Sept. 26, 2018.
+
 This subpart prescribes policies and procedures for requiring contractor registration in the System for Award Management (SAM) database to -
 
 (a) Increase visibility of vendor sources (including their geographical locations) for specific supplies and services; and
