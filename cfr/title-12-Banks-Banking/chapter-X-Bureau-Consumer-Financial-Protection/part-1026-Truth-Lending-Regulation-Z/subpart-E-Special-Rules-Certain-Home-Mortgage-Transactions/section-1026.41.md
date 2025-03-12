@@ -54,7 +54,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (8) *Delinquency information.* If the consumer is more than 45 days delinquent, the following items, grouped together in close proximity to each other and located on the first page of the statement or, alternatively, on a separate page enclosed with the periodic statement or in a separate letter:
 
-(i) The date on which the consumer became delinquent;
+(i) The length of the consumer's delinquency;
 
 (ii) A notification of possible risks, such as foreclosure, and expenses, that may be incurred if the delinquency is not cured;
 
@@ -104,12 +104,24 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (iii) *Small servicer determination.* In determining whether a servicer satisfies paragraph (e)(4)(ii)(A) of this section, the servicer is evaluated based on the mortgage loans serviced by the servicer and any affiliates as of January 1 and for the remainder of the calendar year. In determining whether a servicer satisfies paragraph (e)(4)(ii)(C) of this section, the servicer is evaluated based on the mortgage loans serviced by the servicer as of January 1 and for the remainder of the calendar year. A servicer that ceases to qualify as a small servicer will have six months from the time it ceases to qualify or until the next January 1, whichever is later, to comply with any requirements from which the servicer is no longer exempt as a small servicer. The following mortgage loans are not considered in determining whether a servicer qualifies as a small servicer:
 
-(A) Mortgage loans voluntarily serviced by the servicer for a creditor or assignee that is not an affiliate of the servicer and for which the servicer does not receive any compensation or fees.
+(A) Mortgage loans voluntarily serviced by the servicer for a non-affiliate of the servicer and for which the servicer does not receive any compensation or fees.
 
 (B) Reverse mortgage transactions.
 
 (C) Mortgage loans secured by consumers' interests in timeshare plans.
 
+(D) Transactions serviced by the servicer for a seller financer that meets all of the criteria identified in § 1026.36(a)(5).
+
 (5) *Consumers in bankruptcy.* A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code.
 
-[78 FR 11007, Feb. 14, 2013, as amended at 78 FR 44718, July 24, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65322, Nov. 3, 2014]
+(6) *Charged-off loans.* (i) A servicer is exempt from the requirements of this section for a mortgage loan if the servicer:
+
+(A) Has charged off the loan in accordance with loan-loss provisions and will not charge any additional fees or interest on the account; and
+
+(B) Provides, within 30 days of charge-off or the most recent periodic statement, a periodic statement, clearly and conspicuously labeled “Suspension of Statements & Notice of Charge Off - Retain This Copy for Your Records.” The periodic statement must clearly and conspicuously explain that, as applicable, the mortgage loan has been charged off and the servicer will not charge any additional fees or interest on the account; the servicer will no longer provide the consumer a periodic statement for each billing cycle; the lien on the property remains in place and the consumer remains liable for the mortgage loan obligation and any obligations arising from or related to the property, which may include property taxes; the consumer may be required to pay the balance on the account in the future, for example, upon sale of the property; the balance on the account is not being canceled or forgiven; and the loan may be purchased, assigned, or transferred.
+
+(ii) *Resuming compliance.* (A) If a servicer fails at any time to treat a mortgage loan that is exempt under paragraph (e)(6)(i) of this section as charged off or charges any additional fees or interest on the account, the obligation to provide a periodic statement pursuant to this section resumes.
+
+(B) *Prohibition on retroactive fees.* A servicer may not retroactively assess fees or interest on the account for the period of time during which the exemption in paragraph (e)(6)(i) of this section applied.
+
+[78 FR 11007, Feb. 14, 2013, as amended at 78 FR 44718, July 24, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65322, Nov. 3, 2014; 81 FR 72388, Oct. 19, 2016]

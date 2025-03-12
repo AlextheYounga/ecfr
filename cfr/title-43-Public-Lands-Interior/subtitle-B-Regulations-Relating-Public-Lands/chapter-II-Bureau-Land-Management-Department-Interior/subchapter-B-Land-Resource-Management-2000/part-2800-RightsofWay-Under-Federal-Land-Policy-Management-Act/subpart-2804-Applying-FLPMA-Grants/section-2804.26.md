@@ -30,4 +30,6 @@
 
 (b) If BLM denies your application, you may appeal this decision under § 2801.10 of this part.
 
+(c) If you are unable to meet any of the requirements in this section you may request an alternative from the BLM (see § 2804.40).
+
 [70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92211, Dec. 19, 2016]

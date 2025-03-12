@@ -1,8 +1,6 @@
 ##### § 1024.9 Reproduction of settlement statements. #####
 
-Link to an amendment published at 81 FR 72370, Oct. 19, 2016.
-
-(a) *Permissible changes - HUD-1.* The following changes and insertions are permitted when the HUD-1 settlement statement is reproduced:
+(a) *Permissible changes—HUD-1.* The following changes and insertions are permitted when the HUD-1 settlement statement is reproduced:
 
 (1) The person reproducing the HUD-1 may insert its business name and logo in section A and may rearrange, but not delete, the other information that appears in section A.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 81 FR 72370, Oct. 19, 2016.
 
 (4) Charges not listed on the HUD-1, but that are customary locally or pursuant to the lender's practice, may be inserted in blank spaces. Where existing blank spaces on the HUD-1 are insufficient, additional lines and spaces may be added and numbered in sequence with spaces on the HUD-1.
 
-(5) The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior HUD approval: size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.
+(5) The following variations in layout and format are within the discretion of persons reproducing the HUD-1 and do not require prior Bureau approval: Size of pages; tint or color of pages; size and style of type or print; vertical spacing between lines or provision for additional horizontal space on lines (for example, to provide sufficient space for recording time periods used in prorations); printing of the HUD-1 contents on separate pages, on the front and back of a single page, or on one continuous page; use of multicopy tear-out sets; printing on rolls for computer purposes; reorganization of sections B through I, when necessary to accommodate computer printing; and manner of placement of the HUD number, but not the OMB approval number, neither of which may be deleted. The expiration date associated with the OMB number listed on the form may be deleted. Any changes in the HUD number or OMB approval number may be announced by notice in the Federal Register, rather than by amendment of this part.
 
 (6) The borrower's information and the seller's information may be provided on separate pages.
 
@@ -26,6 +24,8 @@ Link to an amendment published at 81 FR 72370, Oct. 19, 2016.
 
 (11) As allowed by § 1024.17, relating to an initial escrow account statement.
 
-(b) *Permissible changes - HUD-1A.* The changes and insertions on the HUD-1 permitted under paragraph (a) of this section are also permitted when the HUD-1A settlement statement is reproduced, except the changes described in paragraphs (a)(3) and (6) of this section.
+(b) *Permissible changes—HUD-1A.* The changes and insertions on the HUD-1 permitted under paragraph (a) of this section are also permitted when the HUD-1A settlement statement is reproduced, except the changes described in paragraphs (a)(3) and (6) of this section.
 
-(c) *Written approval.* Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or appendix A, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in § 1024.3 and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.
+(c) *Written approval.* Any other deviation in the HUD-1 or HUD-1A forms is permissible only upon receipt of written approval of the Bureau; provided, however, that notwithstanding contrary instructions in this section or appendix A of this part, reproducing the HUD-1 or HUD-1A forms with the Bureau's OMB approval number displayed in place of HUD's OMB approval number does not require the written approval of the Bureau. A request to the Bureau for approval shall be submitted in writing to the address indicated in the definition of *Public Guidance Documents* in § 1024.2 and shall state the reasons why the applicant believes such deviation is needed. The prescribed form(s) must be used until approval is received.
+
+[76 FR 78981, Dec. 20, 2011, as amended at 81 FR 72370, Oct. 19, 2016]

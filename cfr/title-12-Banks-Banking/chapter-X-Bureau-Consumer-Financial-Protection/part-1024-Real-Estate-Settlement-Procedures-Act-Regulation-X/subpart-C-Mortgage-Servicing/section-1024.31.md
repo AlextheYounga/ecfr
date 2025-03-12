@@ -8,6 +8,8 @@ For purposes of this subpart:
 
 *Day* means calendar day.
 
+*Delinquency* means a period of time during which a borrower and a borrower's mortgage loan obligation are delinquent. A borrower and a borrower's mortgage loan obligation are delinquent beginning on the date a periodic payment sufficient to cover principal, interest, and, if applicable, escrow becomes due and unpaid, until such time as no periodic payment is due and unpaid.
+
 *Hazard insurance* means insurance on the property securing a mortgage loan that protects the property against loss caused by fire, wind, flood, earthquake, theft, falling objects, freezing, and other similar hazards for which the owner or assignee of such loan requires insurance.
 
 *Loss mitigation application* means an oral or written request for a loss mitigation option that is accompanied by any information required by a servicer for evaluation for a loss mitigation option.
@@ -33,3 +35,5 @@ For purposes of this subpart:
 *Transferee servicer* means a servicer that obtains or will obtain the right to perform servicing pursuant to an agreement or understanding.
 
 *Transferor servicer* means a servicer, including a table-funding mortgage broker or dealer on a first- lien dealer loan, that transfers or will transfer the right to perform servicing pursuant to an agreement or understanding.
+
+[78 FR 10876, Feb. 14, 2013, as amended at 81 FR 72370, Oct. 19, 2016]

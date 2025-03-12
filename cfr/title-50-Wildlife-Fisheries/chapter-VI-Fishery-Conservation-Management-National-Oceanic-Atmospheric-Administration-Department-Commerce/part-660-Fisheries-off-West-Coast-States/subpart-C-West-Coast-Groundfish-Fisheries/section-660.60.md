@@ -92,15 +92,15 @@
 
 (*iii*) The weight conversion factor for headed and gutted lingcod is 1.5. The conversion factor for lingcod that has only been gutted with the head on is 1.1.
 
-(B) *Shorebased IFQ Program.* For vessels landing sorted catch, the weight conversions for purposes of applying QP are provided below.
+(B) *Shorebased IFQ Program.* For vessels landing sorted catch, the weight conversions for purposes of applying QP and size limits are provided in paragraphs (h)(5)(ii)(B)(*2*)(*i*) through (*iii*) of this section.
 
 (*1*) *Sablefish.* The weight conversion factor for headed and gutted (eviscerated) sablefish is 1.6.
 
-(*2*) *Lingcod.* The following conversions apply:
+(*2*) *Lingcod.* The following conversions and size limits apply:
 
-(*i*)The minimum size limit lingcod North of 42° N. lat., with the head removed, is 18 inches (46 cm), which corresponds to 22 inches (56 cm) total length for whole fish.
+(*i*) The minimum size limit for lingcod North of 42° N. lat. is 22 inches (56 cm) total length for whole fish, which corresponds to 18 inches (46 cm) with the head removed.
 
-(*ii*) The minimum size limit for lingcod South of 42° N. lat., with the head removed, is 19.5 inches (49.5 cm), which corresponds to 24 inches (61 cm) total length for whole fish.
+(*ii*) The minimum size limit for lingcod South of 42° N. lat. is 24 inches (61 cm) total length for whole fish, which corresponds to 19.5 inches (49.5 cm) with the head removed.
 
 (*iii*) The weight conversion factor for headed and gutted (eviscerated) lingcod is 1.5; for lingcod that has only been gutted with the head on, the weight conversion factor is 1.1.
 
@@ -170,4 +170,4 @@
 
 (B) *Fishing in the Shorebased IFQ Program and the limited entry fixed gear sablefish primary fishery with different trip limits.* If a vessel is jointly registered and one or more of the limited entry permits is sablefish endorsed, any sablefish landings made by a vessel declared into the limited entry fixed gear fishery after the start of the sablefish primary fishery count towards the tier limit(s), per regulations at § 660.232(a)(2), subpart E. Any sablefish landings made by a vessel declared into the Shorebased IFQ Program must be covered by quota pounds, per regulations at § 660.112(b), subpart D, and will not count towards the tier limit(s).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 48658, Oct. 19, 2017]

@@ -30,6 +30,8 @@ Link to an amendment published at 81 FR 72372, Oct. 19, 2016.
 
 (v) Properly evaluate a borrower who submits an application for a loss mitigation option for all loss mitigation options for which the borrower may be eligible pursuant to any requirements established by the owner or assignee of the borrower's mortgage loan and, where applicable, in accordance with the requirements of § 1024.41.
 
+(vi) Promptly identify and obtain documents or information not in the borrower's control that the servicer requires to determine which loss mitigation options, if any, to offer the borrower in accordance with the requirements of § 1024.41(c)(4).
+
 (3) *Facilitating oversight of, and compliance by, service providers.* The policies and procedures required by paragraph (a) of this section shall be reasonably designed to ensure that the servicer can:
 
 (i) Provide appropriate servicer personnel with access to accurate and current documents and information reflecting actions performed by service providers;
@@ -61,3 +63,5 @@ Link to an amendment published at 81 FR 72372, Oct. 19, 2016.
 (iv) To the extent applicable, a report of the data fields relating to the borrower's mortgage loan account created by the servicer's electronic systems in connection with servicing practices; and
 
 (v) Copies of any information or documents provided by the borrower to the servicer in accordance with the procedures set forth in § 1024.35 or § 1024.41.
+
+[78 FR 10876, Feb. 14, 2013, as amended at 81 FR 72372, Oct. 19, 2016]

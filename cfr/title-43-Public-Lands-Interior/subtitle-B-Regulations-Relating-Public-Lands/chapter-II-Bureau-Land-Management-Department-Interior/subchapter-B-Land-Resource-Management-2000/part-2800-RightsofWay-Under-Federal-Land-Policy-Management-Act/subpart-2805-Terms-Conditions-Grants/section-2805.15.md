@@ -13,4 +13,4 @@ You may not charge for the use of the lands made subject to such additional righ
 
 (e) Change the terms and conditions of your grant as a result of changes in legislation, regulation, or as otherwise necessary to protect public health or safety or the environment.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92215, Dec. 19, 2015]
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92215, Dec. 19, 2016]

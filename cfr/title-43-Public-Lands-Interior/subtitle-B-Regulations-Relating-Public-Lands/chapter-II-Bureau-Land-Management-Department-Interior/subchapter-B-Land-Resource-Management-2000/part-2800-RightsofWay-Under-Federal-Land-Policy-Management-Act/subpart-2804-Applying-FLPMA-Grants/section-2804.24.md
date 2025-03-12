@@ -2,6 +2,8 @@
 
 You do not have to file an application using Standard Form 299 if:
 
+(a) The BLM offers lands competitively under § 2804.23(c) and you have already submitted an application for the facility or system;
+
 (b) The BLM offers lands for competitive lease under subpart 2809 of this part; or
 
 (c) You are an oil and gas operator. You may include your right-of-way requirements for a FLPMA grant as part of your Application for Permit to Drill or Sundry Notice under the regulations in parts 3160 through 3190 of this chapter.

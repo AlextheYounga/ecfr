@@ -1,7 +1,5 @@
 ##### § 1026.36 Prohibited acts or practices and certain requirements for credit secured by a dwelling. #####
 
-Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
-
 (a) *Definitions* - (1) *Loan originator.* (i) For purposes of this section, the term “loan originator” means a person who, in expectation of direct or indirect compensation or other monetary gain or for direct or indirect compensation or other monetary gain, performs any of the following activities: takes an application, offers, arranges, assists a consumer in obtaining or applying to obtain, negotiates, or otherwise obtains or makes an extension of consumer credit for another person; or through advertising or other means of communication represents to the public that such person can or will perform any of these activities. The term “loan originator” includes an employee, agent, or contractor of the creditor or loan originator organization if the employee, agent, or contractor meets this definition. The term “loan originator” includes a creditor that engages in loan origination activities if the creditor does not finance the transaction at consummation out of the creditor's own resources, including by drawing on a *bona fide* warehouse line of credit or out of deposits held by the creditor. All creditors that engage in any of the foregoing loan origination activities are loan originators for purposes of paragraphs (f) and (g) of this section. The term does not include:
 
 (A) A person who does not take a consumer credit application or offer or negotiate credit terms available from a creditor, but who performs purely administrative or clerical tasks on behalf of a person who does engage in such activities.
@@ -54,7 +52,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (c) *Servicing practices.* For purposes of this paragraph (c), the terms “servicer” and “servicing” have the same meanings as provided in 12 CFR 1024.2(b).
 
-(1) *Payment processing.* In connection with a consumer credit transaction secured by a consumer's principal dwelling:
+(1) *Payment processing.* In connection with a closed-end consumer credit transaction secured by a consumer's principal dwelling:
 
 (i) *Periodic payments.* No servicer shall fail to credit a periodic payment to the consumer's loan account as of the date of receipt, except when a delay in crediting does not result in any charge to the consumer or in the reporting of negative information to a consumer reporting agency, or except as provided in paragraph (c)(1)(iii) of this section. A periodic payment, as used in this paragraph (c), is an amount sufficient to cover principal, interest, and escrow (if applicable) for a given billing cycle. A payment qualifies as a periodic payment even if it does not include amounts required to cover late fees, other fees, or non-escrow payments a servicer has advanced on a consumer's behalf.
 
@@ -66,7 +64,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (iii) *Non-conforming payments.* If a servicer specifies in writing requirements for the consumer to follow in making payments, but accepts a payment that does not conform to the requirements, the servicer shall credit the payment as of five days after receipt.
 
-(2) *No pyramiding of late fees.* In connection with a consumer credit transaction secured by a consumer's principal dwelling, a servicer shall not impose any late fee or delinquency charge for a payment if:
+(2) *No pyramiding of late fees.* In connection with a closed-end consumer credit transaction secured by a consumer's principal dwelling, a servicer shall not impose any late fee or delinquency charge for a payment if:
 
 (i) Such a fee or charge is attributable solely to failure of the consumer to pay a late fee or delinquency charge on an earlier payment; and
 
@@ -212,4 +210,4 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (3) *Steering prohibited.* A creditor that extends credit to a first-time borrower in connection with a closed-end transaction secured by a dwelling, other than a reverse mortgage transaction subject to § 1026.33 or a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in negative amortization shall not steer or otherwise direct a consumer to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6966, Jan. 31, 2013; 78 FR 11006, Feb. 14, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60441, Oct. 1, 2013; 80 FR 8776, Feb. 19, 2015]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6966, Jan. 31, 2013; 78 FR 11006, Feb. 14, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60441, Oct. 1, 2013; 80 FR 8776, Feb. 19, 2015; 81 FR 72388, Oct. 19, 2016]
