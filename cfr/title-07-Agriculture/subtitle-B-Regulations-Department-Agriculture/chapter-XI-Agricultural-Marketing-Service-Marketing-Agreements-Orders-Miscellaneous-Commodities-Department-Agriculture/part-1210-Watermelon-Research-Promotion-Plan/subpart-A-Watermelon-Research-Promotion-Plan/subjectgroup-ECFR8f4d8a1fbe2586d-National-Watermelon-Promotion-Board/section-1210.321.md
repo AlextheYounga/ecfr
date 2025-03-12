@@ -1,5 +1,7 @@
 ##### § 1210.321 Nominations and selection. #####
 
+Link to an amendment published at 85 FR 56474, Sept. 14, 2020.
+
 The Secretary shall appoint the members of the Board from nominations to be made in the following manner:
 
 (a) There shall be two individuals nominated for each vacant position.

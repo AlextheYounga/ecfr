@@ -1,0 +1,3 @@
+##### § 1500.6 Agency authority. #####
+
+Each agency shall interpret the provisions of the Act as a supplement to its existing authority and as a mandate to view policies and missions in the light of the Act's national environmental objectives, to the extent consistent with its existing authority. Agencies shall review their policies, procedures, and regulations accordingly and revise them as necessary to ensure full compliance with the purposes and provisions of the Act and the regulations in this subchapter. The phrase “to the fullest extent possible” in section 102 of NEPA means that each agency of the Federal Government shall comply with the Act unless an agency activity, decision, or action is exempted from NEPA by law or compliance with NEPA is impossible.

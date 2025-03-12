@@ -1,5 +1,7 @@
 ##### § 1.1502-95 Rules on ceasing to be a member of a consolidated group (or loss subgroup). #####
 
+Link to an amendment published at 85 FR 56844, Sept. 14, 2020.
+
 (a) *In general* - (1) *Consolidated group.* This section provides rules for applying section 382 on or after the day that a member ceases to be a member of a consolidated group (or loss subgroup). The rules concern how to determine whether an ownership change occurs with respect to losses of the member, and how a consolidated section 382 limitation (or subgroup section 382 limitation) and a loss group's (or loss subgroup's) net unrealized built-in gain or loss is apportioned to the member. As the context requires, a reference in this section to a loss group, a member, or a corporation also includes a reference to a loss subgroup, and a reference to a consolidated section 382 limitation also includes a reference to a subgroup section 382 limitation.
 
 (2) *Election by common parent.* Only the common parent (not the loss subgroup parent) may make the election under paragraph (c) of this section to apportion a consolidated section 382 limitation (or subgroup section 382 limitation) or a loss group's (or loss subgroup's) net unrealized built-in gain.

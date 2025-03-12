@@ -1,5 +1,7 @@
 ##### § 1.1502-99 Effective/applicability dates. #####
 
+Link to an amendment published at 85 FR 56844, Sept. 14, 2020.
+
 (a) *In general.* Except as provided in paragraphs (b) and (c) of this section, §§ 1.1502-91 through 1.1502-96 and § 1.1502-98 apply to any testing date on or after June 25, 1999. Sections 1.1502-94 through 1.1502-96 also apply to a corporation that becomes a member of a group or ceases to be a member of a group (or loss subgroup) on any date on or after June 25, 1999.
 
 (b) *Special rules* - (1) *Election to treat subgroup parent requirement as satisfied.* Section 1.1502-91(d)(4), § 1.1502-91(d)(7), Example 4, § 1.1502-92(b)(1)(iii), § 1.1502-92(b)(2), Example 5, the last two sentences of § 1.1502-95(b)(3), § 1.1502-95(d)(2)(i), and § 1.1502-96(e)(all of which relate to the election under § 1.1502-91(d)(4) to treat the loss subgroup parent requirement as satisfied) apply to corporations that become members of a consolidated group in taxable years for which the due date of the income tax return (without extensions) is after June 25, 1999.

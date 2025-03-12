@@ -1,5 +1,7 @@
 ##### § 1.382-6 Allocation of income and loss to periods before and after the change date for purposes of section 382. #####
 
+Link to an amendment published at 85 FR 56835, Sept. 14, 2020.
+
 (a) *General rule.* Except as provided in paragraphs (b) and (d) of this section, a loss corporation must allocate its net operating loss or taxable income (see section 382(k)(4)), and its net capital loss (see section 1222(10)) or modified capital gain net income (as defined in paragraph (g)(4) of this section), for the change year between the pre-change period and the post-change period by ratably allocating an equal portion to each day in the year.
 
 (b) *Closing-of-the-books election* - (1) *In general.* Subject to paragraphs (b)(3)(ii) and (d) of this section, a loss corporation may elect to allocate its net operating loss or taxable income and its net capital loss or modified capital gain net income for the change year between the pre-change period and the post-change period as if the loss corporation's books were closed on the change date. An election under this paragraph (b)(1) does not terminate the loss corporation's taxable year as of the change date (e.g., the change year is a single tax year for purposes of section 172).

@@ -1,5 +1,7 @@
 ##### § 1210.403 Voting procedures. #####
 
+Link to an amendment published at 85 FR 56474, Sept. 14, 2020.
+
 (a) Proxy voting by producers and handlers for producer and handler nominees shall be permitted at all district conventions: *Provided,* That producers may cast proxy votes for producers only, and handlers may cast proxy votes for handlers only. In non-multi-State districts, proxy voting shall be permitted for all producer and handler nominee balloting to determine the districts' nominees. In multi-State districts, proxy voting shall be permitted for all producers and handlers participating in a State's balloting to determine the State's nominees. No other proxy voting, such as for district convention chairperson, shall be allowed. Any person wanting to cast proxy votes must demonstrate authorization to do so. Authority to cast a proxy vote on behalf of another person shall be demonstrated through documentation containing:
 
 (1) The proxy voter's name, address, and telephone number;

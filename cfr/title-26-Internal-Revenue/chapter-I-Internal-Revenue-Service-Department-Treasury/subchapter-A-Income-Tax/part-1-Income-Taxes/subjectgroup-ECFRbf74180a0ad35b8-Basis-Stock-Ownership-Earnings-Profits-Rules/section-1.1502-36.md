@@ -1,5 +1,7 @@
 ##### § 1.1502-36 Unified loss rule. #####
 
+Link to an amendment published at 85 FR 56843, Sept. 14, 2020.
+
 (a) *In general* - (1) *Scope.* This section provides rules for adjusting members' bases in stock of a subsidiary (S) and for reducing S's attributes when a member (M) transfers a loss share of S stock. See paragraph (f) of this section for definitions of the terms used in this section, including *transfer* and *value.*
 
 (2) *Purpose.* The rules in this section have two principal purposes. The first is to prevent the consolidated return provisions from reducing a group's consolidated taxable income through the creation and recognition of noneconomic loss on S stock. The second is to prevent members (including former members) of the group from collectively obtaining more than one tax benefit from a single economic loss. Additional purposes are set forth in other paragraphs of this section. The rules of this section must be interpreted and applied in a manner that is consistent with and reasonably carries out the purposes of this section.

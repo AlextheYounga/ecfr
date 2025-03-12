@@ -1,0 +1,3 @@
+##### § 1503.2 Duty to comment. #####
+
+Cooperating agencies and agencies that are authorized to develop and enforce environmental standards shall comment on environmental impact statements within their jurisdiction, expertise, or authority within the time period specified for comment in § 1506.10 of this subchapter. A Federal agency may reply that it has no comment. If a cooperating agency is satisfied that the environmental impact statement adequately reflects its views, it should reply that it has no comment.

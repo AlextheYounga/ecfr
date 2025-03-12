@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 85 FR 39054, June 30, 2020.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -65,6 +63,8 @@ Amendment Number 14 Effective Date: April 25, 2017, superseded by Renewed Amendm
 Renewed Amendment Number 14 Effective Date: December 11, 2017.
 
 Renewed Amendment Number 15 Effective Date: January 22, 2019.
+
+Renewed Amendment Number 16 Effective Date: September 14, 2020.
 
 SAR Submitted by: Transnuclear, Inc.
 

@@ -1,5 +1,7 @@
 ##### § 1.1504-4 Treatment of warrants, options, convertible obligations, and other similar interests. #####
 
+Link to an amendment published at 85 FR 56845, Sept. 14, 2020.
+
 (a) *Introduction* - (1) *General rule.* This section provides regulations under section 1504(a)(5) (A) and (B) regarding the circumstances in which warrants, options, obligations convertible into stock, and other similar interests are treated as exercised for purposes of determining whether a corporation is a member of an affiliated group. The fact that an instrument may be treated as an option under these regulations does not prevent such instrument from being treated as stock under general principles of law. Except as provided in paragraph (a)(2) of this section, this section applies to all provisions under the Internal Revenue Code and the regulations to which affiliation within the meaning of section 1504(a) (with or without the exceptions in section 1504(b)) is relevant, including those provisions that refer to section 1504(a)(2) (with or without the exceptions in section 1504(b)) without referring to affiliation, provided that the 80 percent voting power and 80 percent value requirements of section 1504(a)(2) are not modified therein.
 
 (2) *Exceptions.* This section does not apply to sections 163(j), 864(e), or 904(i) or to the regulations thereunder. This section also does not apply to any other provision specified by the Internal Revenue Service in regulations, a revenue ruling, or revenue procedure. See § 601.601(d)(2)(ii)(*b*) of this chapter.

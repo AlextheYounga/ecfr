@@ -1,0 +1,3 @@
+##### § 1515.2 What kind of records does CEQ maintain? #####
+
+CEQ carries out responsibilities under the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321-4347); the Environmental Quality Improvement Act of 1970, as amended (42 U.S.C. 4371-4375); Reorganization Plan No. 1 of 1977 (July 15, 1977); and various Executive orders, among other authorities. CEQ maintains certain records on these subjects, among others.

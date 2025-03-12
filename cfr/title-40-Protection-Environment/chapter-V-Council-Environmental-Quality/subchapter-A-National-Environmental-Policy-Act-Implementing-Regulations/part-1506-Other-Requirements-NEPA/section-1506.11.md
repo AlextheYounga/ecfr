@@ -1,0 +1,3 @@
+##### § 1506.11 Emergencies. #####
+
+Where emergency circumstances make it necessary to take an action with significant effects without observing the provisions of the regulations in this subchapter, the Federal agency taking the action shall consult with the Council about alternative arrangements for compliance with section 102(2)(C) of NEPA. Agencies and the Council shall limit such arrangements to actions necessary to control the immediate impacts of the emergency; other actions remain subject to NEPA review consistent with this subchapter. Alternative arrangements do not waive the requirement to comply with the statute, but establish an alternative means for NEPA compliance.

@@ -1,5 +1,7 @@
 ##### § 1.469-11 Effective date and transition rules. #####
 
+Link to an amendment published at 85 FR 56842, Sept. 14, 2020.
+
 (a) *Generally applicable effective dates.* Except as otherwise provided in this section -
 
 (1) The rules contained in §§ 1.469-1, 1.469-1T, 1.469-2, 1.469-2T, 1.469-3, 1.469-3T, 1.469-4, 1.469-5, and 1.469-5T apply for taxable years ending after May 10, 1992.

@@ -1,5 +1,7 @@
 ##### § 1210.501 Realignment of districts. #####
 
+Link to an amendment published at 85 FR 56475, Sept. 14, 2020.
+
 Pursuant to § 1210.320(c) of the Plan, the districts shall be as follows:
 
 (a) *District 1* - The State of Florida.

@@ -1,5 +1,7 @@
 ##### § 1.860C-2 Determination of REMIC taxable income or net loss. #####
 
+Link to an amendment published at 85 FR 56842, Sept. 14, 2020.
+
 (a) *Treatment of gain or loss.* For purposes of determining the taxable income or net loss of a REMIC under section 860C(b), any gain or loss from the disposition of any asset, including a qualified mortgage (as defined in section 860G(a)(3)) or a permitted investment (as defined in section 860G(a)(5) and § 1.860G-2(g)), is treated as gain or loss from the sale or exchange of property that is not a capital asset.
 
 (b) *Deductions allowable to a REMIC* - (1) *In general.* Except as otherwise provided in section 860C(b) and in paragraph (b) (2) through (5) of this section, the deductions allowable to a REMIC for purposes of determining its taxable income or net loss are those deductions that would be allowable to an individual, determined by taking into account the same limitations that apply to an individual.

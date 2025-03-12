@@ -1,5 +1,7 @@
 ##### § 1.382-1 Table of contents. #####
 
+Link to an amendment published at 85 FR 56834, Sept. 14, 2020.
+
 This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-12.
 
 § 1.382-2 General rules for ownership change.

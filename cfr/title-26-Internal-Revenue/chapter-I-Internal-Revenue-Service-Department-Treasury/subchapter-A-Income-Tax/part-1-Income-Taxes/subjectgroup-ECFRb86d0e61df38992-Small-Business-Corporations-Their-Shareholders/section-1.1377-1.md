@@ -1,5 +1,7 @@
 ##### § 1.1377-1 Pro rata share. #####
 
+Link to an amendment published at 85 FR 56843, Sept. 14, 2020.
+
 (a) *Computation of pro rata shares* - (1) *In general.* For purposes of subchapter S of chapter 1 of the Internal Revenue Code and this section, each shareholder's pro rata share of any S corporation item described in section 1366(a) for any taxable year is the sum of the amounts determined with respect to the shareholder by assigning an equal portion of the item to each day of the S corporation's taxable year, and then dividing that portion pro rata among the shares outstanding on that day. See paragraph (b) of this section for rules pertaining to the computation of each shareholder's pro rata share when an election is made under section 1377(a)(2) to treat the taxable year of an S corporation as if it consisted of two taxable years in the case of a termination of a shareholder's entire interest in the corporation. See § 1.460-4(k)(3)(iv)(D) for rules relating to the computation of the shareholders' pro rata share of S corporation's income or loss from a contract accounted for under a long-term contract method of accounting.
 
 (2) *Special rules* - (i) *Days on which stock has not been issued.* Solely for purposes of determining a shareholder's pro rata share of an item for a taxable year under section 1377(a) and this section, the beneficial owners of the corporation are treated as the shareholders of the corporation for any day on which the corporation has not issued any stock.

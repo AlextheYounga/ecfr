@@ -1,5 +1,7 @@
 ##### § 1.383-1 Special limitations on certain capital losses and excess credits. #####
 
+Link to an amendment published at 85 FR 56837, Sept. 14, 2020.
+
 (a) *Outline of topics.* In order to facilitate the use of this section, this paragraph lists the paragraphs, subparagraphs and subdivisions contained in this section.
 
 (a) Outline of topics.

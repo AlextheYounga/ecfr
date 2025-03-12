@@ -1,0 +1,9 @@
+##### § 1505.2 Record of decision in cases requiring environmental impact statements. #####
+
+At the time of its decision (§ 1506.10 of this subchapter) or, if appropriate, its recommendation to Congress, each agency shall prepare and timely publish a concise public record of decision or joint record of decision. The record, which each agency may integrate into any other record it prepares, shall:
+
+(a) State the decision.
+
+(b) Identify alternatives considered by the agency in reaching its decision. The agency also shall specify the environmentally preferable alternative or alternatives (§ 1502.14(f) of this subchapter). The agency may discuss preferences among alternatives based on relevant factors, including environmental, economic, and technical considerations and agency statutory missions. The agency shall identify and discuss all such factors, including any essential considerations of national policy, that the agency balanced in making its decision and state how those considerations entered into its decision.
+
+(c) State whether the agency has adopted all practicable means to mitigate environmental harm from the alternative selected, and if not, why the agency did not. Mitigation shall be enforceable when the record of decision incorporates mitigation and the analysis of the reasonably foreseeable effects of the proposed action is based on implementation of that mitigation. The agency shall identify the authority for enforceable mitigation, such as through permit conditions, agreements, or other measures, and prepare a monitoring and compliance plan consistent with § 1505.3(c).

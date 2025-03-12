@@ -1,5 +1,7 @@
 ##### § 1.382-5 Section 382 limitation. #####
 
+Link to an amendment published at 85 FR 56835, Sept. 14, 2020.
+
 (a) *Scope.* Following an ownership change, the section 382 limitation for any post-change year is an amount equal to the value of the loss corporation multiplied by the long-term tax-exempt rate that applies with respect to the ownership change, and adjusted as required by section 382 and the regulations thereunder. See, for example, section 382(b)(2) (relating to the carryforward of unused section 382 limitation), section 382(b)(3)(B) (relating to the section 382 limitation for the post-change year that includes the change date), section 382(m)(2) (relating to short taxable years), and section 382(h) (relating to recognized built-in gains and section 338 gains).
 
 (b) *Computation of value.* [Reserved]

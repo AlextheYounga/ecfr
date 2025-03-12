@@ -1,5 +1,7 @@
 ##### § 1.382-2 General rules for ownership change. #####
 
+Link to an amendment published at 85 FR 56834, Sept. 14, 2020.
+
 (a) *Certain definitions for purposes of sections 382 and 383 and the regulations thereunder.* The following definitions apply for purposes of sections 382 and 383 and the regulations thereunder.
 
 (1) *Loss corporation* - (i) *In general.* The term *loss corporation* means a corporation which -

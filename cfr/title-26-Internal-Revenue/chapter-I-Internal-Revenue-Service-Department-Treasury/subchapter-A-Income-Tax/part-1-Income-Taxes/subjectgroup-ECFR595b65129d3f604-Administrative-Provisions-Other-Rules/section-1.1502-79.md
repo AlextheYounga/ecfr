@@ -1,5 +1,7 @@
 ##### § 1.1502-79 Separate return years. #####
 
+Link to an amendment published at 85 FR 56843, Sept. 14, 2020.
+
 (a) *Carryover and carryback of consolidated net operating losses to separate return years.* For losses arising in consolidated return years beginning before January 1, 1997, see § 1.1502-79A(a). For later years, see § 1.1502-21(b).
 
 (b) *Carryover and carryback of consolidated net capital loss to separate return years.* For losses arising in consolidated return years beginning before January 1, 1997, see § 1.1502-79A(b). For later years, see § 1.1502-22(b).

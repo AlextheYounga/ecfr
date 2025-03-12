@@ -1,5 +1,7 @@
 ##### § 429.26 Fluorescent lamp ballasts. #####
 
+Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to fluorescent lamp ballasts; and
 
 (2) For each basic model of fluorescent lamp ballasts, a sample of sufficient size, not less than four, shall be randomly selected and tested to ensure that -

@@ -1,5 +1,7 @@
 ##### § 1.469-9 Rules for certain rental real estate activities. #####
 
+Link to an amendment published at 85 FR 56840, Sept. 14, 2020.
+
 (a) *Scope and purpose.* This section provides guidance to taxpayers engaged in certain real property trades or businesses on applying section 469(c)(7) to their rental real estate activities.
 
 (b) *Definitions.* The following definitions apply for purposes of this section:

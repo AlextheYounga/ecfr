@@ -1,5 +1,7 @@
 ##### § 1.263A-9 The avoided cost method. #####
 
+Link to an amendment published at 85 FR 56832, Sept. 14, 2020.
+
 (a) *In general* - (1) *Description.* The avoided cost method described in this section must be used to calculate the amount of interest required to be capitalized under section 263A(f). Generally, any interest that the taxpayer theoretically would have avoided if accumulated production expenditures (as defined in § 1.263A-11) had been used to repay or reduce the taxpayer's outstanding debt must be capitalized under the avoided cost method. The application of the avoided cost method does not depend on whether the taxpayer actually would have used the amounts expended for production to repay or reduce debt. Instead, the avoided cost method is based on the assumption that debt of the taxpayer would have been repaid or reduced without regard to the taxpayer's subjective intentions or to restrictions (including legal, regulatory, contractual, or other restrictions) against repayment or use of the debt proceeds.
 
 (2) *Overview* - (i) *In general.* For each unit of designated property (within the meaning of § 1.263A-8(b)), the avoided cost method requires the capitalization of -

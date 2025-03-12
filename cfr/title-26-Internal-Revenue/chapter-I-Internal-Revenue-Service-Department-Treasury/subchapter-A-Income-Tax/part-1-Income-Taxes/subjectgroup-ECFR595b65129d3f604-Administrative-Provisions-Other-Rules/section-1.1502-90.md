@@ -1,5 +1,7 @@
 ##### § 1.1502-90 Table of contents. #####
 
+Link to an amendment published at 85 FR 56843, Sept. 14, 2020.
+
 The following list contains the major headings in §§ 1.1502-91 through 1.1502-99:
 
 § 1.1502-91 Application of section 382 with respect to a consolidated group.

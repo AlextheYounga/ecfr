@@ -1,5 +1,7 @@
 ##### § 1.1502-21 Net operating losses. #####
 
+Link to an amendment published at 85 FR 56843, Sept. 14, 2020.
+
 (a) *Consolidated net operating loss deduction.* The consolidated net operating loss deduction (or CNOL deduction) for any consolidated return year is the aggregate of the net operating loss carryovers and carrybacks to the year. The net operating loss carryovers and carrybacks consist of -
 
 (1) Any CNOLs (as defined in paragraph (e) of this section) of the consolidated group; and

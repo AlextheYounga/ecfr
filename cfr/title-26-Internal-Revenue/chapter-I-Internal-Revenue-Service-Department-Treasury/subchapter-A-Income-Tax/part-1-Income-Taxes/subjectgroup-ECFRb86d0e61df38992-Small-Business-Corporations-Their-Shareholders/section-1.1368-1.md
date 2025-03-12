@@ -1,5 +1,7 @@
 ##### § 1.1368-1 Distributions by S corporations. #####
 
+Link to an amendment published at 85 FR 56842, Sept. 14, 2020.
+
 (a) *In general.* This section provides rules for distributions made by an S corporation with respect to its stock which, but for section 1368(a) and this section, would be subject to section 301(c) and other rules of the Internal Revenue Code that characterize a distribution as a dividend.
 
 (b) *Date distribution made.* For purposes of section 1368, a distribution is taken into account on the date the corporation makes the distribution, regardless of when the distribution is treated as received by the shareholder.
