@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules - fishes. #####
 
-Link to an amendment published at 84 FR 48308, Sept. 13, 2019.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -38,9 +36,9 @@ Link to an amendment published at 84 FR 48308, Sept. 13, 2019.
 
 (2) Any violation of applicable State fish and wildlife conservation laws or regulations with respect to this species will also be a violation of the Endangered Species Act.
 
-(j) Hutton tui chub (*Gila bicolor* subspecies) and Foskett speckled dace (*Rhinichthys osculus* subspecies). (1) No person shall take these species, except in accordance with applicable State fish and wildlife conservation laws and regulations in the following instances: for educational purposes, scientific purposes, the enhancement of propagation or survival of the species, zoological exhibition, and other conservation purposes consistent with the Act.
+(j) Hutton tui chub (*Gila bicolor* subspecies). (1) No person shall take this species, except in accordance with applicable State fish and wildlife conservation laws and regulations in the following instances: for educational purposes, scientific purposes, the enhancement of propagation or survival of the species, zoological exhibition, and other conservation purposes consistent with the Act.
 
-(2) Any violation of applicable State fish and wildlife conservation laws or regulations with respect to the taking of these species will also be a violation of the Endangered Species Act.
+(2) Any violation of applicable State fish and wildlife conservation laws or regulations with respect to the taking of this species will also be a violation of the Endangered Species Act.
 
 (3) No person shall possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any such species taken in violation of these regulations or in violation of applicable State fish and wildlife conservation laws or regulations.
 

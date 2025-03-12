@@ -1,5 +1,7 @@
 ##### § 3565.3 Definitions. #####
 
+Link to an amendment published at 84 FR 55035, Oct. 15, 2019.
+
 *Administrator.* The Administrator of the Rural Housing Service, or his or her designee.
 
 *Agency.* The Rural Housing Service, or a successor agency.

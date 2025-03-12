@@ -1,7 +1,5 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 84 FR 41507, Aug. 14, 2019.
-
 (a) *General* - (1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 
 (i) Section 101(a)(15)(B) is divided into (B)(i) for visitors for business and (B)(ii) for visitors for pleasure;
@@ -106,6 +104,8 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) At the time a nonimmigrant alien applies for admission or extension of stay, he or she must post a bond on Form I-352 in the sum of not less than $500, to ensure the maintenance of his or her nonimmigrant status and departure from the United States, if required to do so by the Commissioner of CBP, the Director of U.S. Citizenship and Immigration Services, an immigration judge, or the Board of Immigration Appeals.
 
+(iv) Except where the nonimmigrant classification for which the alien seeks to extend is exempt from section 212(a)(4) of the Act or that section has been waived, as a condition for approval of extension of status, the alien must demonstrate that he or she has not received since obtaining the nonimmigrant status he or she seeks to extend one or more public benefits as defined in 8 CFR 212.21(b), for more than 12 months in the aggregate within any 36-month period (such that, for instance, receipt of two benefits in one month counts as two months). For the purposes of this determination, DHS will only consider public benefits received on or after October 15, 2019 for petitions or applications postmarked (or, if applicable, submitted electronically) on or after that date.
+
 (b) *Readmission of nonimmigrants under section 101(a)(15) (F), (J), (M), or (Q)(ii) to complete unexpired periods of previous admission or extension of stay* - (1) *Section 101(a)(15)(F).* The inspecting immigration officer shall readmit for duration of status as defined in § 214.2(f)(5)(iii), any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.125(f) and who is applying for readmission under section 101(a)(15)(F) of the Act, if the alien:
 
 (i) Is admissible;
@@ -178,7 +178,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (ii) The alien has not otherwise violated his or her nonimmigrant status;
 
-(iii) The alien remains a bona fide nonimmigrant; and
+(iii) The alien remains a bona fide nonimmigrant;
 
 (iv) The alien is not the subject of deportation proceedings under section 242 of the Act (prior to April 1, 1997) or removal proceedings under section 240 of the Act.
 

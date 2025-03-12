@@ -1,5 +1,7 @@
 ##### § 679.63 Catch weighing requirements for vessels and processors. #####
 
+Link to an amendment published at 84 FR 55053, Oct. 15, 2019.
+
 (a) *What are the requirements for listed AFA catcher/processors and AFA motherships?* - (1) *Catch weighing.* All groundfish landed by listed AFA catcher/processors or received by AFA motherships must be weighed on a NMFS-certified scale and made available for sampling by a NMFS certified observer. The owner and operator of a listed AFA catcher/processor or an AFA mothership must ensure that the vessel is in compliance with the scale requirements described at § 679.28(b), that each groundfish haul is weighed separately, and that no sorting of catch takes place prior to weighing.
 
 (2) *Observer sampling station.* The owner and operator of a listed AFA catcher/processor or AFA mothership must provide an observer sampling station as described at § 679.28(d) and must ensure that the vessel operator complies with the observer sampling station requirements described at § 679.28(d) at all times that the vessel harvests groundfish or receives deliveries of groundfish harvested in the BSAI or GOA.

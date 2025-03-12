@@ -1,18 +1,18 @@
 ##### § 203.50 Eligibility of rehabilitation loans. #####
 
-Link to an amendment published at 84 FR 41877, Aug. 15, 2019.
-
 A rehabilitation loan which meets the requirements of this subpart, except as modified by this section, shall be eligible for insurance under section 203(k) of the National Housing Act.
 
 (a) For the purpose of this section:
 
 (1) The term *rehabilitation loan* means a loan, advance of credit, or purchase of an obligation representing a loan or advancement of credit, made for the purpose of financing:
 
-(i) The rehabilitation of an existing one-to-four unit structure which will be used primarily for residential purposes;
+(i) The rehabilitation of an existing one-to-four-unit structure which will be used primarily for residential purposes;
 
-(ii) The rehabilitation of such a structure and refinancing of the outstanding indebtedness on such structure and the real property on which the structure is located; or
+(ii) The rehabilitation of such a structure and refinancing of the outstanding indebtedness on such structure and the real property on which the structure is located;
 
-(iii) The rehabilitation of such a structure and the purchase of the structure and the real property on which it is located; and
+(iii) The rehabilitation of such a structure and the purchase of the structure and the real property on which it is located; or
+
+(iv) The rehabilitation of the interior space of a condominium unit, as defined in § 203.43b, excluding any areas that are the responsibility of the Association; and
 
 (2) The term *rehabilitation* means the improvement (including improvements designed to meet cost-effective energy conservation standards prescribed by the Secretary and improvements for accessibility to the handicapped) or repair of a structure, or facilities in connection with a structure, and may include the provision of such sanitary or other facilities as are required by applicable codes, a community development plan, or a statewide property insurance plan to be provided by the owner or tenant of the project.
 
@@ -28,15 +28,17 @@ A rehabilitation loan which meets the requirements of this subpart, except as mo
 
 (f) The loan may not exceed an amount which, when added to any outstanding indebtedness of the borrower that is secured by the property, creates an outstanding indebtedness in excess of the lesser of:
 
-(1)(i) The limits prescribed in § 203.18(a)(1) (in the case of a dwelling to be occupied as a principal residence, as defined in § 203.18(f)(1));
+(1)(i) The limits prescribed in § 203.18(a)(1) and (3) (in the case of a dwelling to be occupied as a principal residence, as defined in § 203.18(f)(1));
 
-(ii) The limits prescribed in § 203.18(a)(1) and (3) (in the case of a dwelling to be occupied as a secondary residence, as defined in § 203.18(f)(2));
+(ii) The limits prescribed in § 203.18(a)(1) and (4) (in the case of a dwelling to be occupied as a secondary residence, as defined in § 203.18(f)(2));
 
-(iii) 85 percent of the limits prescribed in § 203.18(c), or such higher limit, not to exceed the limits set forth in § 203.18(a)(1), as Commissioner may prescribe (in the case of an eligible non-occupant mortgagor as defined in § 203.18(f)(3));
+(iii) Eighty-five (85) percent of the limits prescribed in § 203.18(c), or such higher limit, not to exceed the limits set forth in § 203.18(a)(1) and (3), as the Secretary may prescribe (in the case of an eligible non-occupant mortgagor as defined in § 203.18(f)(3));
 
-(iv) The limits prescribed in § 203.18a, based upon the sum of the estimated cost of rehabilitation and the Commissioner's estimate of the value of the property before rehabilitation; or
+(iv) The limits prescribed in § 203.18a, based upon the sum of the estimated cost of rehabilitation and the Commissioner's estimate of the value of the property before rehabilitation;
 
-(2) The limits prescribed in the authorities listed in this paragraph (f), based upon 110 percent of the Commissioner's estimate of the value of the property after rehabilitation.
+(2) The limits prescribed in the authorities listed in this paragraph (f), based upon 110 percent of the Commissioner's estimate of the value of the property after rehabilitation; or
+
+(3) For any Condominium Unit that is not a Site Condominium (as defined in § 203.43b), 100 percent of the after-improvement value of the Condominium Unit.
 
 (g) The loan limitation prescribed by paragraph (f)(2) of this section shall not be applicable where a unit of local government demonstrates to the satisfaction of the Commissioner that:
 
@@ -84,4 +86,4 @@ A rehabilitation loan which meets the requirements of this subpart, except as mo
 
 (m) With regard to loans under this section executed on or after December 27, 2005, the Commissioner shall charge an up-front and annual MIP in accordance with 24 CFR 203.284 or 203.285, whichever is applicable.
 
-[45 FR 33966, May 21, 1980, as amended at 45 FR 76378, Nov. 18, 1980; 50 FR 19926, May 13, 1985; 52 FR 48201, Dec. 21, 1987; 53 FR 8881, Mar. 18, 1988; 53 FR 9869, Mar. 28, 1988; 55 FR 34806, Aug. 24, 1990; 57 FR 58347, Dec. 9, 1992; 58 FR 41003, July 30, 1993; 59 FR 13882, Mar. 24, 1994; 62 FR 30226, June 2, 1997; 67 FR 52381, Aug. 9, 2002; 70 FR 37156, June 28, 2005; 83 FR 64272, Dec. 14, 2018]
+[45 FR 33966, May 21, 1980, as amended at 45 FR 76378, Nov. 18, 1980; 50 FR 19926, May 13, 1985; 52 FR 48201, Dec. 21, 1987; 53 FR 8881, Mar. 18, 1988; 53 FR 9869, Mar. 28, 1988; 55 FR 34806, Aug. 24, 1990; 57 FR 58347, Dec. 9, 1992; 58 FR 41003, July 30, 1993; 59 FR 13882, Mar. 24, 1994; 62 FR 30226, June 2, 1997; 67 FR 52381, Aug. 9, 2002; 70 FR 37156, June 28, 2005; 83 FR 64272, Dec. 14, 2018; 84 FR 41877, Aug. 15, 2019]

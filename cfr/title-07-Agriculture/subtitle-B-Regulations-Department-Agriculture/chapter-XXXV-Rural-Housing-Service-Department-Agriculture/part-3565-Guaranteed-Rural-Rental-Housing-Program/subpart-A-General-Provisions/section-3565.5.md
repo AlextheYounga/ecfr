@@ -1,5 +1,7 @@
 ##### § 3565.5 Ranking and selection criteria. #####
 
+Link to an amendment published at 84 FR 55036, Oct. 15, 2019.
+
 (a) *Threshold criteria.* Applications for loan guarantee submitted by lenders must include a loan request for a project that meets all of the following threshold criteria:
 
 (1) The project must involve an owner and a development team with qualifications and experience sufficient to carry out development, management, and ownership responsibilities, and the owner and development team must not be under investigation or suspension from any government programs;

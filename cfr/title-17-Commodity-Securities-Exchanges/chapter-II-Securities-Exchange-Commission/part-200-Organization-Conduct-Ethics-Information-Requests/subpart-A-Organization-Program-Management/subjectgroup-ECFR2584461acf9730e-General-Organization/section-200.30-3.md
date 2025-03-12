@@ -1,6 +1,6 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 84 FR 44041, Aug. 22, 2019.
+Link to an amendment published at 84 FR 44041, Aug. 22, 2019.Link to a correction published at 84 FR 55055, Oct. 15, 2019.
 
 Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 

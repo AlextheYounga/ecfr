@@ -1,5 +1,7 @@
 ##### § 3565.302 Allowable fees. #####
 
+Link to an amendment published at 84 FR 55036, Oct. 15, 2019.
+
 (a) *Lender fees.* The lender is authorized to charge reasonable and necessary fees in connection with a borrower's application for a guaranteed loan.
 
 (b) *Agency fees.* The Agency will charge one or more types of fees deemed appropriate as reimbursement for reasonable and necessary costs incurred in connection with applications received from lenders for monitoring or annual renewal fees. These fees will be published in NOFA. Agency fees may include, but are not limited to the following:

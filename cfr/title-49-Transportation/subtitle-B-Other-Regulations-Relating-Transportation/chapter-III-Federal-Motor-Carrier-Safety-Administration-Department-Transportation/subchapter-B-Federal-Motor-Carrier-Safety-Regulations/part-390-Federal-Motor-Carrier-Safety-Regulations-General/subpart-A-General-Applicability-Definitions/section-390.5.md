@@ -1,7 +1,5 @@
 ##### § 390.5 Definitions. #####
 
-Link to an amendment published at 84 FR 40293, Aug. 14, 2019.
-
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means -
@@ -192,11 +190,11 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Intrastate commerce* means any trade, traffic, or transportation in any State which is not described in the term “interstate commerce.”
 
-*Lease,* as used in § 390.21(f) and subpart F of this part, means a contract or arrangement in which a motor carrier grants the use of a passenger-carrying commercial motor vehicle to another motor carrier, with or without a driver, for a specified period for the transportation of passengers, in exchange for compensation. The term *lease* includes an interchange, as defined in this section, or other agreement granting the use of a passenger-carrying commercial motor vehicle for a specified period, with or without a driver, whether or not compensation for such use is specified or required. For a definition of *lease* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
+*Lease,* as used in subpart G of this part, means a contract or agreement in which a motor carrier of passengers grants the use of a passenger-carrying commercial motor vehicle to another motor carrier, with or without a driver, for a specified period for the transportation of passengers, whether or not compensation for such use is specified or required, when one or more of the motor carriers of passengers is not authorized to operate in interstate commerce pursuant to 49 U.S.C. 13901-13902. The term *lease* includes an interchange, as defined in this section, or other agreement granting the use of a passenger-carrying commercial motor vehicle for a specified period, with or without a driver, whether or not compensation for such use is specified or required. For a definition of *lease* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
 
-*Lessee,* as used in subpart F of this part, means the motor carrier obtaining the use of a passenger-carrying commercial motor vehicle, with or without the driver, from another motor carrier. The term *lessee* includes a motor carrier obtaining the use of a passenger-carrying commercial motor vehicle from another motor carrier under an interchange or other agreement, with or without a driver, whether or not compensation for such use is specified. For a definition of *lessee* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
+*Lessee,* as used in subpart G of this part, means the motor carrier obtaining the use of a passenger-carrying commercial motor vehicle, with or without the driver, from another motor carrier, through a *lease* as defined in this section. The term *lessee* includes a motor carrier obtaining the use of a passenger-carrying commercial motor vehicle from another motor carrier under an interchange or other agreement, with or without a driver, whether or not compensation for such use is specified. For a definition of *lessee* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
 
-*Lessor,* as used in subpart F of this part, means the motor carrier granting the use of a passenger-carrying commercial motor vehicle, with or without a driver, to another motor carrier. The term *lessor* includes a motor carrier granting the use of a passenger-carrying commercial motor vehicle to another motor carrier under an interchange or other agreement, with or without a driver, whether or not compensation for such use is specified. For a definition of *lessor* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
+*Lessor,* as used in subpart G of this part, means the motor carrier granting the use of a passenger-carrying commercial motor vehicle, with or without the driver, to another motor carrier, through a *lease* as defined in this section. The term *lessor* includes a motor carrier granting the use of a passenger-carrying commercial motor vehicle, with or without the driver, to another motor carrier under an interchange or other agreement, whether or not compensation for such use is specified. For a definition of *lessor* in the context of property-carrying vehicles, see § 376.2 of this subchapter.
 
 *Medical examiner* means an individual certified by FMCSA and listed on the National Registry of Certified Medical Examiners in accordance with subpart D of this part.
 
@@ -304,4 +302,4 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017.
+[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017. At 84 FR 40293, Aug. 14, 2019, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely.

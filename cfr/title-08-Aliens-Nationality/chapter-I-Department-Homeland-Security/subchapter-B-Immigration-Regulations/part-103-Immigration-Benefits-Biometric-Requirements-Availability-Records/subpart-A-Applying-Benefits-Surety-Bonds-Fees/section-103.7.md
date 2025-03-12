@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 84 FR 41500, Aug. 14, 2019.
-
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 
 (2) Remittances must be drawn on a bank or other institution located in the United States and be payable in United States currency. Remittances must be made payable in accordance with the guidance specific to the applicable U.S. Government office when submitting to a Department of Homeland Security office located outside of the United States. Remittances to the Board of Immigration Appeals must be made payable to the “United States Department of Justice,” in accordance with 8 CFR 1003.8. If a remittance in payment of a fee or any other matter is not honored by the bank or financial institution on which it is drawn:
@@ -211,6 +209,10 @@ Link to an amendment published at 84 FR 41500, Aug. 14, 2019.
 (JJJ) *9-11 Response and Biometric Entry-Exit Fee for L-1 Visa.* For certain petitioners who employ 50 or more employees in the United States, if more than 50 percent of the petitioner's employees are in H-1B, L-1A or L-1B nonimmigrant status: $4,500. Collection of this fee is scheduled to end on September 30, 2025.
 
 (KKK) *Application for Entrepreneur Parole (Form I-941).* For filing an application for parole for entrepreneurs: $1200.
+
+(LLL) Public Charge Bond, Form I-945. $25.
+
+(MMM) Request for Cancellation of Public Charge Bond, Form I-356. $25.
 
 (ii) *Other DHS immigration fees.* The following fees are applicable to one or more of the immigration components of DHS:
 

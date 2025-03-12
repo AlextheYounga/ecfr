@@ -1,7 +1,5 @@
 ##### § 390.21 Marking of self-propelled CMVs and intermodal equipment. #####
 
-Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
-
 (a) *General.* Every self-propelled CMV subject to subchapter B of this chapter must be marked as specified in paragraphs (b), (c), and (d) of this section, and each unit of intermodal equipment interchanged or offered for interchange to a motor carrier by an intermodal equipment provider subject to subchapter B of this chapter must be marked as specified in paragraph (g) of this section.
 
 (b) *Nature of marking.* The marking must display the following information:
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
 
 (4) Other identifying information may be displayed on the vehicle if it is not inconsistent with the information required by this paragraph.
 
-(c) *Size, shape, location, and color of marking.* The marking must -
+(c) *Size, shape, location, and color of marking.* The marking must—
 
 (1) Appear on both sides of the self-propelled CMV;
 
@@ -26,39 +24,37 @@ Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
 
 (d) *Construction and durability.* The marking may be painted on the CMV or may consist of a removable device, if that device meets the identification and legibility requirements of paragraph (c) of this section, and such marking must be maintained as required by paragraph (c)(4) of this section.
 
-(e) *Rented property-carrying commercial motor vehicles.* A motor carrier operating a self-propelled property-carrying commercial motor vehicle under a rental agreement having a term not in excess of 30 calendar days meets the requirements of this section if:
+(e) *Rented CMVs and leased passenger-carrying CMVs.* A motor carrier operating a self-propelled CMV under a rental agreement or a passenger-carrying CMV under a lease, when the rental agreement or lease has a term not in excess of 30 calendar days, meets the requirements of this section if:
 
 (1) The CMV is marked in accordance with the provisions of paragraphs (b) through (d) of this section; or
 
-(2) The CMV is marked as set forth in paragraph (e)(2)(i) through (iv) of this section:
+(2) Except as provided in paragraph (e)(2)(v) of this section, the CMV is marked as set forth in paragraph (e)(2)(i) through (iv) of this section:
 
 (i) The legal name or a single trade name of the lessor is displayed in accordance with paragraphs (c) and (d) of this section.
 
 (ii) The lessor's identification number preceded by the letters “USDOT” is displayed in accordance with paragraphs (c) and (d) of this section; and
 
-(iii) The rental agreement entered into by the lessor and the renting motor carrier conspicuously contains the following information:
+(iii) The rental agreement or lease as applicable entered into by the lessor and the renting motor carrier or lessee conspicuously contains the following information:
 
-(A) The name and complete physical address of the principal place of business of the renting motor carrier;
+(A) The name and complete physical address of the principal place of business of the renting motor carrier or lessee;
 
-(B) The identification number issued the renting motor carrier by the FMCSA, preceded by the letters “USDOT,” if the motor carrier has been issued such a number. In lieu of the identification number required in this paragraph, the following may be shown in the rental agreement:
+(B) The identification number issued to the renting motor carrier or lessee by FMCSA, preceded by the letters “USDOT,” if the motor carrier has been issued such a number. In lieu of the identification number required in this paragraph, the following information may be shown in a rental agreement:
 
-(*1*) Information which indicates whether the motor carrier is engaged in “interstate” or “intrastate” commerce; and
+(*1*) Whether the motor carrier is engaged in “interstate” or “intrastate” commerce; and
 
-(*2*) Information which indicates whether the renting motor carrier is transporting hazardous materials in the rented CMV;
+(*2*) Whether the renting motor carrier is transporting hazardous materials in the rented CMV;
 
 (C) The sentence: “This lessor cooperates with all Federal, State, and local law enforcement officials nationwide to provide the identity of customers who operate this rental CMV”; and
 
-(iv) The rental agreement entered into by the lessor and the renting motor carrier is carried on the rental CMV during the full term of the rental agreement. See the leasing regulations at 49 CFR part 376 for information that should be included in all leasing documents.
+(iv) The rental agreement or lease as applicable entered into by the lessor and the renting motor carrier or lessee is carried on the rental CMV or leased passenger-carrying CMV during the full term of the rental agreement or lease. See the property-carrying leasing regulations at 49 CFR part 376 and the passenger-carrying leasing regulations at subpart G of this part for information that should be included in all leasing documents.
 
-(f) *Leased and interchanged passenger-carrying commercial motor vehicles.* A motor carrier operating a leased or interchanged passenger-carrying commercial motor vehicle meets the requirements of this section if:
+(v) *Exception.* (A) The passenger-carrying CMV operating under the 48-hour emergency exception pursuant to § 390.403(a)(2) of this part does not need to comply with paragraphs (e)(2)(iii) and (iv) of this section, provided the lessor and lessee comply with the requirements of § 390.403(a)(2).
 
-(1) The passenger-carrying CMV is marked in accordance with the provisions of paragraphs (b) through (d) of this section, except that marking is required only on the right (curb) side of the vehicle; and
+(B) A motor carrier operating a self-propelled CMV under a lease subject to subpart G of this part (§§ 390.401 and 390.403) must begin complying with this paragraph (e) on January 1, 2021.
 
-(2) The passenger-carrying CMV is marked with a single placard, sign, or other device affixed to the right (curb) side of the vehicle on or near the front passenger door. The placard, sign or device must display the legal name or a single trade name of the motor carrier operating the CMV and the motor carrier's USDOT number, preceded by the words “Operated by.”
+(f) *Driveaway services.* In driveaway services, a removable device may be affixed on both sides or at the rear of a single driven vehicle. In a combination driveaway operation, the device may be affixed on both sides of any one unit or at the rear of the last unit. The removable device must display the legal name or a single trade name of the motor carrier and the motor carrier's USDOT number.
 
-(g) *Driveaway services.* In driveaway services, a removable device may be affixed on both sides or at the rear of a single driven vehicle. In a combination driveaway operation, the device may be affixed on both sides of any one unit or at the rear of the last unit. The removable device must display the legal name or a single trade name of the motor carrier and the motor carrier's USDOT number.
-
-(h) *Intermodal equipment.* (1) The requirements for marking intermodal equipment apply to each intermodal equipment provider, as defined in § 390.5, that interchanges or offers for interchange intermodal equipment to a motor carrier.
+(g) *Intermodal equipment.* (1) The requirements for marking intermodal equipment apply to each intermodal equipment provider, as defined in § 390.5, that interchanges or offers for interchange intermodal equipment to a motor carrier.
 
 (2) Each unit of intermodal equipment interchanged or offered for interchange to a motor carrier by an intermodal equipment provider subject to subchapter B of this chapter must identify the intermodal equipment provider.
 
@@ -86,4 +82,4 @@ Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
 
 (B) Offer read-only access for inquiries on individual items of intermodal equipment, without requiring advance user registration, a password, or a usage fee.
 
-[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5316, Jan. 17, 2017, § 390.21 was suspended, effective Jan. 14, 2017.
+[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015; 80 FR 63712, Oct. 21, 2015; 84 FR 40294, Aug. 14, 2019]Effective Date Note:At 82 FR 5316, Jan. 17, 2017, § 390.21 was suspended, effective Jan. 14, 2017. At 84 FR 40294, Aug. 14, 2019, the suspension was lifted and amendments were made to § 390.21. In that same document, § 390.21 was again suspended indefinitely.

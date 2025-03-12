@@ -114,4 +114,4 @@ Table to § 165.506
 
 <sup>1</sup> As noted in paragraph (d) of this section, the enforcement period for each of the listed safety zones is subject to change.
 
-[USCG-2017-0064, 82 FR 27006, June 13, 2017, as amended by USCG-2018-0371, 83 FR 58186, Nov. 19, 2018 ]
+[USCG-2017-0064, 82 FR 27006, June 13, 2017, as amended by USCG-2018-0371, 83 FR 58188, Nov. 19, 2018 ]

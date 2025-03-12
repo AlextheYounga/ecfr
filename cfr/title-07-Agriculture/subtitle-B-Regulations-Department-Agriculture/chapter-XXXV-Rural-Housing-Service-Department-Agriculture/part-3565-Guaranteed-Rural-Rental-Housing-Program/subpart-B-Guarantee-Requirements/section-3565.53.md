@@ -1,5 +1,7 @@
 ##### § 3565.53 Guarantee fees. #####
 
+Link to an amendment published at 84 FR 55036, Oct. 15, 2019.
+
 As a condition of receiving a loan guarantee, the Agency will charge the following guarantee fees to the lender.
 
 (a) *Initial guarantee fee.* The Agency will charge an initial guarantee fee equal to one percent of the guarantee amount. For purposes of calculating this fee, the guarantee amount is the product of the percentage of the guarantee times the initial principal amount of the guaranteed loan.
