@@ -1,12 +1,10 @@
 ##### § 33.1 Applicability, definitions, and blanket authorizations. #####
 
-Link to an amendment published at 84 FR 6075, Feb. 26, 2019.
-
 (a) *Applicability.* (1) The requirements of this part will apply to any public utility seeking authorization under section 203 of the Federal Power Act to:
 
 (i) Sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10 million;
 
-(ii) Merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;
+(ii) Merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10 million, by any means whatsoever;
 
 (iii) Purchase, acquire, or take any security with a value in excess of $10 million of any other public utility; or
 
@@ -124,7 +122,7 @@ Link to an amendment published at 84 FR 6075, Feb. 26, 2019.
 
 (i) The names of all parties to the transaction;
 
-(ii) Identification of the pre- and post-transaction voting security holdings (and percentage ownership) in the public utility held by the acquirer and its associate or affilate companies;
+(ii) Identification of the pre- and post-transaction voting security holdings (and percentage ownership) in the public utility held by the acquirer and its associate or affiliate companies;
 
 (iii) The date the transaction was consummated;
 
@@ -132,4 +130,4 @@ Link to an amendment published at 84 FR 6075, Feb. 26, 2019.
 
 (v) A statement indicating that the proposed transaction will not result in, at the time of the transaction or in the future, cross-subsidization of a non-utility associate company or pledge or encumbrance of utility assets for the benefit of an associate company as required in § 33.2(j)(1).
 
-[Order 669-A, 71 FR 28443, May 16, 2006, as amended by Order 708, 73 FR 11013, Feb. 29, 2008; Order 708-A, 73 FR 43072, July 24, 2008; Order 708-B, 74 FR 25413, May 28, 2009]
+[Order 669-A, 71 FR 28443, May 16, 2006, as amended by Order 708, 73 FR 11013, Feb. 29, 2008; Order 708-A, 73 FR 43072, July 24, 2008; Order 708-B, 74 FR 25413, May 28, 2009; Order 855, 84 FR 6075, Feb. 26, 2019]
