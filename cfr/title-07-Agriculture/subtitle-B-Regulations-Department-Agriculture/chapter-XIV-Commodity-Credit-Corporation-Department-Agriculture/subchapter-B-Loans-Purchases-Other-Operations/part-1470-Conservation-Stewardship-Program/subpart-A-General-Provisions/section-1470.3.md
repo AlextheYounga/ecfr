@@ -2,7 +2,7 @@
 
 The following definitions will apply to this part and all documents issued in accordance with this part, unless specified otherwise:
 
-*Advanced grazing management* means the use of a combination of grazing conservation activities, as determined by NRCS, which may include management-intensive rotational grazing, that provide for -
+*Advanced grazing management* means the use of a combination of grazing conservation activities, as determined by NRCS, which may include management-intensive rotational grazing, that provide for—
 
 (1) Improved soil health and carbon sequestration;
 
@@ -16,7 +16,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 (6) Water quality improvement.
 
-*Agricultural operation* means all eligible land, as determined by NRCS, whether contiguous or noncontiguous that is -
+*Agricultural operation* means all eligible land, as determined by NRCS, whether contiguous or noncontiguous that is—
 
 (1) Under the effective control of a producer at the time of enrollment in the program; and
 
@@ -24,7 +24,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Applicant* means a producer who has requested in writing to participate in CSP.
 
-*Beginning farmer or rancher* means a person or legal entity who -
+*Beginning farmer or rancher* means a person or legal entity who—
 
 (1) Has not operated a farm, ranch, or nonindustrial private forest land (NIPF); or who has operated a farm, ranch, or NIPF for not more than 10 consecutive years. The requirement in this paragraph (1) applies to all members of a legal entity who will materially and substantially participate in the operation of the farm or ranch.
 
@@ -36,7 +36,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Comprehensive conservation plan* means a conservation plan that meets or exceeds the stewardship threshold for each priority resource concern identified by NRCS across all land uses included in the operation.
 
-*Conservation activities* mean conservation systems, practices, enhancements, or management measures, as determined by NRCS, and may include -
+*Conservation activities* mean conservation systems, practices, enhancements, or management measures, as determined by NRCS, and may include—
 
 (1) Structural measures, vegetative measures, and land management measures, including agricultural drainage management systems as determined by NRCS;
 
@@ -68,7 +68,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 (ii) Priority resource concerns could be addressed through a contract under the program. Eligible land includes cropland, grassland, rangeland, pastureland, nonindustrial private forest land, and other agricultural lands including cropped woodland, marshes, and agricultural land used or capable of being used for the production of livestock as determined by the Chief; and
 
-(2) Publicly owned land where the -
+(2) Publicly owned land where the—
 
 (i) Land is associated with the land described in paragraph (1) of this definition and is a working component of the producer's agricultural or forestry operation;
 
@@ -76,7 +76,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 (iii) Conservation activities the producer will implement on the public land are necessary and will address an identified priority resource concern.
 
-*Enhancement* means a type of conservation activity used to treat natural resources and improve conservation performance that allows a producer to address levels of conservation beyond what the minimum conservation practice standard requires. Enhancements, alone or in combination with other enhancements and practices, result in conservation systems that are equal to or greater than the performance level for the planning criteria identified for a given resource concern. Planning criteria are defined for each resource concern in Section III - Conservation Management Systems, Field Office Technical Guide.
+*Enhancement* means a type of conservation activity used to treat natural resources and improve conservation performance that allows a producer to address levels of conservation beyond what the minimum conservation practice standard requires. Enhancements, alone or in combination with other enhancements and practices, result in conservation systems that are equal to or greater than the performance level for the planning criteria identified for a given resource concern. Planning criteria are defined for each resource concern in Section III—Conservation Management Systems, Field Office Technical Guide.
 
 *Field Office Technical Guide (FOTG)* means the official local NRCS source of resource information and interpretations of guidelines, planning criteria, and standards for planning and implementation of conservation practices. The FOTG contains detailed information on the planning standard to achieve conservation of soil, water, air, plant, energy, and animal resources applicable to the local area for which it is prepared. (See *https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/fotg/* to access your State FOTG.)
 
@@ -138,21 +138,25 @@ The following definitions will apply to this part and all documents issued in ac
 
 (1) A perennial grass;
 
-(2) A legume grown for use as forage, seed for planting, or green manure;
-
-(3) A legume-grass mixture; or
-
-(4) A small grain or other resource-demanding crop grown in combination with a grass, legume, forbs, grass-forbs mixture, whether interseeded or planted in rotation.
-
-*Resource-conserving crop* means a crop that is one of the following, as determined by NRCS:
-
-(1) A perennial grass;
-
 (2) A legume grown for use as a cover crop, forage, seed for planting, or green manure;
 
-(3) A legume-grass or diverse grass-forb mixture comprised of species selected for climate, rainfall, soil, and other region-specific conditions; or
+(3) A legume-grass mixture or grass-forb mixture; or
 
-(4) A small grain or other resource-demanding crop grown in combination with a grass, legume, other forbs, or grass-forb mixture, whether interseeded, relay-planted into the resource-demanding crop, or planted in rotation.
+(4) A non-fragile residue or high residue crop or a crop that efficiently uses soil moisture, reduces irrigation water needs, or is considered drought tolerant.
+
+*Resource-conserving crop rotation* means a crop rotation that—
+
+(1) Includes at least one resource-conserving crop as determined by NRCS;
+
+(2) Reduces erosion;
+
+(3) Improves soil fertility and tilth;
+
+(4) Interrupts pest cycles;
+
+(5) Builds soil organic matter; and
+
+(6) In applicable areas, reduces depletion of soil moisture or otherwise reduces the need for irrigation.
 
 *Secretary* means the Secretary of the USDA.
 
@@ -160,7 +164,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 *State technical committee* means a committee established by the NRCS in a State pursuant to 7 CFR part 610, subpart C.
 
-*Stewardship threshold* means the level of management required, as determined by NRCS, to conserve and improve the quality and condition of a natural resource through the use of -
+*Stewardship threshold* means the level of management required, as determined by NRCS, to conserve and improve the quality and condition of a natural resource through the use of—
 
 (1) Planning criteria under a resource management system;
 
@@ -180,4 +184,4 @@ The following definitions will apply to this part and all documents issued in ac
 
 *Veteran farmer or rancher* means a producer who meets the definition in section 2501(a)(7) of the Food, Agriculture, Conservation, and Trade Act of 1990, as amended (7 U.S.C. 2279).
 
-[84 FR 60891, Nov. 12, 2019, as amended at 85 FR 64002, Oct. 9, 2020]
+[84 FR 60891, Nov. 12, 2019, as amended at 85 FR 64002, Oct. 9, 2020; 86 FR 41702, Aug. 3, 2021]
