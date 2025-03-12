@@ -1,7 +1,5 @@
-##### § 302-17.8 What limitations and Federal income tax treatments apply to various relocation reimbursements? #####
+##### § 302-17.8 Who is responsible for knowing which relocation expenses are taxable and which expenses are nontaxable? #####
 
-(a) Some relocation expenses reimbursed to you or paid directly by the Government on or after January 1, 2018, and on or before December 31, 2025, must be reported as income and you cannot claim them as deductible expenses on your Federal tax return.
+Both you and your agency must know which reimbursements and direct payments to vendors are taxable and which are nontaxable in your specific circumstances. When you submit a voucher for reimbursement, your agency must determine whether the reimbursement is taxable income at the Federal, state, and/or local level. Then, when you file your income tax returns, you must report the taxable allowances, reimbursements, and direct payments to vendors as income. Your agency is ultimately responsible for calculating and reporting withholding accurately and you are ultimately responsible for filing your taxes correctly.
 
-(b) A table summarizing the FTR allowances, limitations, and tax treatment of each reimbursement, allowance, or direct payment to a service provider or vendor is published at *https://gsa.gov/ftrbulletins.* The table also cites relevant FTR paragraphs for details. GSA will revise the table to reflect any changes as quickly as possible; however, users of this part may wish to consult with a tax advisor to determine what limitations and Federal income tax treatments apply to your relocation reimbursement(s).
-
-[FTR Amdt. 2020-02, 84 FR 64782, Nov. 25, 2019]
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014. Redesignated at 86 FR 73684, Dec. 28, 2021]

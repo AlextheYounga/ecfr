@@ -1,5 +1,7 @@
 ##### § 4.91 Diversion of vessel; transshipment of cargo. #####
 
+Link to an amendment published at 86 FR 73631, Dec. 28, 2021.
+
 (a) If any vessel granted a permit to proceed from one port in the United States for another such port as provided for in§ 4.81(e), § 4.85, § 4.87, or § 4.88, is, while en route, diverted to a port in the United States other than the one specified in the permit to proceed (Customs Form 1300),122 the owner or agent of the vessel immediately shall give notice of the diversion to the port director who granted the permit, informing him of the new destination of the vessel and requesting him to notify the director of the latter port. Such notification by the port director shall constitute an amendment of the permit previously granted, shall authorize the vessel to proceed to the new destination, and shall be filed by the director of the latter port with the Form 1300 submitted on entry of the vessel.
 
 122 See § 4.33.

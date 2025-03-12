@@ -1,5 +1,7 @@
 ##### § 25.5 Definitions. #####
 
+Link to an amendment published at 86 FR 73637, Dec. 28, 2021.
+
 *Access authorization* means an administrative determination that an individual (including a consultant) who is employed by or an applicant for employment with the NRC, NRC contractors, agents, licensees and certificate holders, or other person designated by the Executive Director for Operations, is eligible for a security clearance for access to classified information.
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919), as amended.

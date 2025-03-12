@@ -300,7 +300,7 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 *Reduced per diem* - Your agency may authorize a reduced per diem rate when there are known reductions in lodging and meal costs or when your subsistence costs can be determined in advance and are lower than the prescribed per diem rate.
 
-*Relocation service company (RSC)* - A third-party supplier under contract with an agency to assist a transferred employee in relocating to the new official station. Services may include: Homesale programs, home inspection, home marketing assistance, home finding assistance, property management services, shipment and storage of household goods, voucher review and payment, relocation counseling, and similar items.
+*Relocation services company (RSC)* - A third-party supplier under contract with an agency to assist an eligible individual who relocates. Services may include: Homesale programs, home inspection, home marketing assistance, home finding assistance, property management services, shipment and storage of household goods, voucher review and payment, relocation counseling, and similar items.
 
 *Required use travel* - Travel by Federal travelers that requires use of a Government aircraft to meet bona fide communications needs (e.g., 24-hour secure communications), security requirements (e.g., highly unusual circumstances that present a clear and present danger), or exceptional scheduling requirements (e.g., a national emergency or other compelling operational considerations) of an executive agency. Required use travel must be approved according to § 301-10.262(a) and § 301-70.803(a) of this title.
 

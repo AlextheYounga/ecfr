@@ -12,8 +12,10 @@ When you are permanently assigned to your temporary official station, your agenc
 
 (e) Temporary quarters subsistence expenses in accordance with part 302-6 of this chapter;
 
-(f) Transportation of household goods not previously transported to the temporary official station under part 302-7 of this chapter; and
+(f) Transportation of household goods not previously transported to the temporary official station under part 302-7 of this chapter;
 
-(g) Transportation of a privately owned vehicle(s) not previously transported to the temporary official station under § 302-9.7 of this chapter.
+(g) Transportation of a privately owned vehicle(s) not previously transported to the temporary official station under § 302-9.7 of this chapter; and
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-06, 76 FR 71889, Nov. 21, 2011]
+(h) Relocation income tax allowance (RITA) under part 302-17 of this chapter.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-06, 76 FR 71889, Nov. 21, 2011; 86 FR 73684, Dec. 28, 2021]

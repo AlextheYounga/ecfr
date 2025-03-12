@@ -1,5 +1,7 @@
 ##### § 258.2 Exceptions. #####
 
+Link to an amendment published at 86 FR 73630, Dec. 28, 2021.
+
 Any master or agent who uses nonimmigrant crewmen to perform longshore work at any United States port under the exceptions provided for in paragraphs (a)(2), (b), or (c) of this section must so indicate on the crew manifest and shall note under which exception the work will be performed.
 
 (a) *Hazardous cargo.* (1) The term *longshore work* does not include the loading and unloading of any cargo for which the Secretary of Transportation has prescribed regulations under authority contained in chapter 37 of title 46, United States Code, section 311 of the Federal Water Pollution Control Act, section 4106 of the Oil Pollution Act of 1990, or section 105 or 106 of the Hazardous Materials Transportation Act.

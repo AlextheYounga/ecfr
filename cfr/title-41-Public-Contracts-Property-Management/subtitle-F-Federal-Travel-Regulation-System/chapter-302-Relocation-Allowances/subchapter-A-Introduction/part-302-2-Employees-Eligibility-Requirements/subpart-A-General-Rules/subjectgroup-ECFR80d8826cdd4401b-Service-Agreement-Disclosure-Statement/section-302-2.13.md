@@ -1,5 +1,7 @@
 ##### § 302-2.13 What is a service agreement? #####
 
-A service agreement is a written agreement between you and your agency, signed by you and an agency representative, stating that you will remain in the service of the Government for a period of time as specified in § 302-2.14, after you have relocated. A service agreement must also include the duplicate reimbursement disclosure statement specified in §§ 302-2.21, 302-2.22, and 302-2.100(g).
+(a) A service agreement is a written and signed agreement between you and your agency. The service agreement states that you will remain in the service of the Government, after you have relocated, for a period of time as specified in § 302-2.14. A service agreement must also include the duplicate reimbursement disclosure statement specified in §§ 302-2.21, 302-2.22, and 302-2.100(g).
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-01, 76 FR 18336, Apr. 1, 2011. Redesignated and amended by FTR Amdt. 2014-01, 79 FR 49644, Aug. 21, 2014]
+(b) A service agreement is not required for a “last move home” relocation, a temporary change of station, or separation from Government service.
+
+[86 FR 73680, Dec. 28, 2021]

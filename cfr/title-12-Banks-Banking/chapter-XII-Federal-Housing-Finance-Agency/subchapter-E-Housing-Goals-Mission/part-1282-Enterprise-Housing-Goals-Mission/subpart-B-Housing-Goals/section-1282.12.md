@@ -1,5 +1,7 @@
 ##### § 1282.12 Single-family housing goals. #####
 
+Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
+
 (a) *Single-family housing goals.* An Enterprise shall be in compliance with a single-family housing goal if its performance under the housing goal meets or exceeds either:
 
 (1) The share of the market that qualifies for the goal; or

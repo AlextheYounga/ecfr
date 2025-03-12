@@ -1,13 +1,5 @@
-##### § 302-17.6 Who is not eligible for the WTA and the RITA? #####
+##### § 302-17.6 Is there any circumstance under which the WTA and the RITA are not paid even though I would otherwise be eligible? #####
 
-You are not eligible for the WTA or the RITA if you are:
+If you violate the 12-month service agreement under which you are relocated, your agency will not pay the WTA or the RITA to you, and you must repay any relocation benefits paid prior to the violation.
 
-(a) A new appointee;
-
-(b) Assigned under the Government Employees Training Act;
-
-(c) Returning from an overseas assignment for the purpose of separation from Government service; or
-
-(d) A Senior Executive Service (SES) employee making their last move home for the purpose of separation from Government service.
-
-[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Amdt. 2020-02, 84 FR 64782, Nov. 25, 2019]
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014. Redesignated at 86 FR 73684, Dec. 28, 2021]

@@ -1,5 +1,7 @@
 ##### § 4.81 Reports of arrivals and departures in coastwise trade. #####
 
+Link to an amendment published at 86 FR 73631, Dec. 28, 2021.
+
 (a) No vessel which is documented with a coastwise license or registry endorsement or is owned by a citizen and exempt from documentation, and which is in ballast or laden only with domestic products or passengers being carried only between points in the United States shall be required to report arrival or to enter when coming into one port of the United States from any other such port, except as provided for in sections 4.83 and 4.84, nor to obtain a clearance, permit to proceed, or permission to depart when going from one port in the United States to any other such port except when transporting merchandise to a port in noncontinguous territory.111
 
 111 See § 4.84.

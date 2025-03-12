@@ -2,10 +2,8 @@
 
 You may authorize reimbursement for relocation expenses:
 
-(a) When you have determined that an employee's permanent change of station is in the best interest of the Government;
+(a) When you have determined that an eligible individual's relocation is in the best interest of the Government as specified in § 302-1.1 of this chapter; and
 
-(b) Only after an employee has signed a service agreement to remain in service for the period specified in § 302-2.14; and
+(b) Only after an eligible individual has signed a service agreement to remain in service for the period specified in § 302-2.14.
 
-(c) When you have determined that the employee's relocation is incident to his/her change of official station.
-
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014]
+[86 FR 73681, Dec. 28, 2021]

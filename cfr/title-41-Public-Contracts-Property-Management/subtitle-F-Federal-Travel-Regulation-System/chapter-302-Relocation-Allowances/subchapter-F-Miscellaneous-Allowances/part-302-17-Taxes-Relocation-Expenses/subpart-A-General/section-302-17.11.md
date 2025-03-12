@@ -1,3 +1,5 @@
-##### § 302-17.11 When is an expense considered completed in a specific tax year? #####
+##### § 302-17.11 Where can I find additional information and guidance on WTA and RITA? #####
 
-A reimbursement, allowance, or direct payment to a vendor is considered completed in a specific tax year only if the money was actually disbursed to the employee or vendor during the tax year in question.
+GSA has published additional information on WTA and RITA, including the illustrations and examples of various RITA computations, in FTR Bulletins which are updated as necessary. GSA FTR Bulletins may be found at *https://gsa.gov/ftrbulletins*.
+
+[FTR Amdt. 2020-02, 84 FR 64782, Nov. 25, 2019. Redesignated at 86 FR 73684, Dec. 28, 2021]

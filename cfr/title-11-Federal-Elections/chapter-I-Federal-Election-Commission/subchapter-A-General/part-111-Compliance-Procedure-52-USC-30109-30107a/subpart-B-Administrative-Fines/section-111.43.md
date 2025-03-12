@@ -4,55 +4,55 @@
 
 Table 1 to Paragraph (a)
 
-|If the level of activity in the report was:|             And the report was filed late, the civil money penalty is:             |Or the report was not filed, the civil money penalty is:|
-|-------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------|
-|          $1-4,999.99<sup>1</sup>          |  [$36 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |  $351 × [1 + (.25 × Number of previous violations)].   |
-|              $5,000-9,999.99              |  [$70 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |   $422 × [1 + (.25 × Number of previous violations)]   |
-|             $10,000-24,999.99             | [$151 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |  $704 × [1 + (.25 × Number of previous violations)].   |
-|             $25,000-49,999.99             | [$298 + ($28 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $1267 × [1 + (.25 × Number of previous violations)].  |
-|             $50,000-74,999.99             |[$450 + ($113 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $4041 × [1 + (.25 × Number of previous violations)].  |
-|             $75,000-99,999.99             |[$598 + ($151 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $5237 × [1 + (.25 × Number of previous violations)].  |
-|            $100,000-149,999.99            |[$896 + ($187 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $6735 × [1 + (.25 × Number of previous violations)].  |
-|            $150,000-199,999.99            |[$1199 + ($224 × Number of days late)] × [1 + (.25 × Number of previous violations)]|  $8231 × [1 + (.25 × Number of previous violations)].  |
-|            $200,000-249,999.99            |[$1496 + ($261 × Number of days late)] × [1 + (.25 × Number of previous violations)]|  $9727 × [1 + (.25 × Number of previous violations)].  |
-|            $250,000-349,999.99            |[$2245 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $11,972 × [1 + (.25 × Number of previous violations)]. |
-|            $350,000-449,999.99            |[$2994 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $13,468 × [1 + (.25 × Number of previous violations)]. |
-|            $450,000-549,999.99            |[$3741 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $14,216 × [1 + (.25 × Number of previous violations)]. |
-|            $550,000-649,999.99            |[$4489 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $14,966 × [1 + (.25 × Number of previous violations)]. |
-|            $650,000-749,999.99            |[$5237 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $15,713 × [1 + (.25 × Number of previous violations)]. |
-|            $750,000-849,999.99            |[$5986 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $16,461 × [1 + (.25 × Number of previous violations)]. |
-|            $850,000-949,999.99            |[$6735 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $17,209 × [1 + (.25 × Number of previous violations)]  |
-|             $950,000 or over              |[$7482 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $17,958 × [1 + (.25 × Number of previous violations)]. |
+|If the level of activity in the report was:|             And the report was filed late, the civil money penalty is:              |Or the report was not filed, the civil money penalty is:|
+|-------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------|
+|          $1-4,999.99<sup>a</sup>          |  [$38 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]   |  $373 × [1 + (.25 × Number of previous violations)].   |
+|              $5,000-9,999.99              |  [$74 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]   |  $448 × [1 + (.25 × Number of previous violations)].   |
+|             $10,000-24,999.99             |  [$160 + ($6 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |  $748 × [1 + (.25 × Number of previous violations)].   |
+|             $25,000-49,999.99             | [$317 + ($30 × Number of days late)] × [1 + (.25 × Number of previous violations)]  | $1,346 × [1 + (.25 × Number of previous violations)].  |
+|             $50,000-74,999.99             | [$478 + ($120 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $4,292 × [1 + (.25 × Number of previous violations)].  |
+|             $75,000-99,999.99             | [$635 + ($160 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $5,563 × [1 + (.25 × Number of previous violations)].  |
+|            $100,000-149,999.99            | [$952 + ($199 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $7,154 × [1 + (.25 × Number of previous violations)].  |
+|            $150,000-199,999.99            |[$1,274 + ($238 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $8,743 × [1 + (.25 × Number of previous violations)].  |
+|            $200,000-249,999.99            |[$1,589 + ($277 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $10,332 × [1 + (.25 × Number of previous violations)]. |
+|            $250,000-349,999.99            |[$2,385 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $12,717 × [1 + (.25 × Number of previous violations)]. |
+|            $350,000-449,999.99            |[$3,180 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $14,306 × [1 + (.25 × Number of previous violations)]. |
+|            $450,000-549,999.99            |[$3,974 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $15,101 × [1 + (.25 × Number of previous violations)]. |
+|            $550,000-649,999.99            |[$4,768 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $15,897 × [1 + (.25 × Number of previous violations)]. |
+|            $650,000-749,999.99            |[$5,563 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $16,691 × [1 + (.25 × Number of previous violations)]. |
+|            $750,000-849,999.99            |[$6,358 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $17,485 × [1 + (.25 × Number of previous violations)]. |
+|            $850,000-949,999.99            |[$7,154 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]|$ 18,280 × [1 + (.25 × Number of previous violations)]. |
+|             $950,000 or over              |[$7,948 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $19,075 × [1 + (.25 × Number of previous violations)]. |
 
-<sup>1</sup>The civil money penalty for a respondent who does not have any previous violations will not e×ceed the level of activity in the report.
+<sup>a</sup> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.
 
 (b) The civil money penalty for election sensitive reports that are filed late or not filed shall be calculated in accordance with the following schedule of penalties:
 
 Table 2 to Paragraph (b)
 
-|If the level of activity in the report was:|              And the report was filed late, the civil money penalty is:              | Or the report was not filed, the civil money penalty is:  |
-|-------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------|
-|         $1-$4,999.99<sup>1</sup>          |  [$70 + ($13 × Number of days late)] × [1 + (.25 × Number of previous violations)]   |    $704 × [1 + (.25 × Number of previous violations)].    |
-|             $5,000-$9,999.99              |  [$141 + ($13 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |    $844 × [1 + (.25 × Number of previous violations)].    |
-|             $10,000-24,999.99             |  [$211 + ($13 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |   $1267 × [1 + (.25 × Number of previous violations)].    |
-|             $25,000-49,999.99             |  [$450 + ($36 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |   $1970 × [1 + (.25 × Number of previous violations)].    |
-|             $50,000-74,999.99             | [$674 + ($113 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |   $4489 × [1 + (.25 × Number of previous violations)].    |
-|             $75,000-99,999.99             | [$896 + ($151 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |   $5986 × [1 + (.25 × Number of previous violations)].    |
-|            $100,000-149,999.99            | [$1347 + ($187 × Number of days late)] × [1 + (.25 × Number of previous violations)] |   $7482 × [1 + (.25 × Number of previous violations)].    |
-|            $150,000-199,999.99            | [$1796 + ($224 × Number of days late)] × [1 + (.25 × Number of previous violations)] |   $8978 × [1 + (.25 × Number of previous violations)].    |
-|            $200,000-249,999.99            | [$2245 + ($261 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $11,224 × [1 + (.25 × Number of previous violations)].   |
-|            $250,000-349,999.99            | [$3367 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |$13,468 × [1 + (.25 × Number of previous violations)]<br/>.|
-|            $350,000-449,999.99            | [$4489 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $14,966 × [1 + (.25 × Number of previous violations)].   |
-|            $450,000-549,999.99            | [$5612 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $16,461 × [1 + (.25 × Number of previous violations)].   |
-|            $550,000-649,999.99            | [$6735 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $17,958 × [1 + (.25 × Number of previous violations)].   |
-|            $650,000-749,999.99            | [$7857 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $19,455 × [1 + (.25 × Number of previous violations)].   |
-|            $750,000-849,999.99            | [$8978 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)] |  $20,951 × [1 + (.25 × Number of previous violations)].   |
-|            $850,000-949,999.99            |[$10,101 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]|  $22,446 × [1 + (.25 × Number of previous violations)].   |
-|             $950,000 or over              |[$11,224 + ($298 × Number of days late)] × [1 + (.25 × Number of previous violations)]|  $23,944 × [1 + (.25 × Number of previous violations)].   |
+|If the level of activity in the report was:|              And the report was filed late, the civil money penalty is:              |Or the report was not filed, the civil money penalty is:|
+|-------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------|
+|         $1-$4,999.99<sup>a</sup>          |  [$74 + ($14 × Number of days late)] × [1 + (.25 × Number of previous violations)]   |  $748 × [1 + (.25 × Number of previous violations)].   |
+|             $5,000-$9,999.99              |  [$150 + ($14 × Number of days late)] × [1 + (.25 × Number of previous violations)]  |  $897 × [1 + (.25 × Number of previous violations)].   |
+|             $10,000-24,999.99             |  [$224 + ($14 × Number of days late)] × [1 + (.25 × Number of previous violations)]  | $1,346 × [1 + (.25 × Number of previous violations)].  |
+|             $25,000-49,999.99             |  [$478 + ($38 × Number of days late)] × [1 + (.25 × Number of previous violations)]  | $2,093 × [1 + (.25 × Number of previous violations)].  |
+|             $50,000-74,999.99             | [$716 + ($120 × Number of days late)] × [1 + (.25 × Number of previous violations)]  | $4,768 × [1 + (.25 × Number of previous violations)].  |
+|             $75,000-99,999.99             | [$952 + ($160 × Number of days late)] × [1 + (.25 × Number of previous violations)]  | $6,358 × [1 + (.25 × Number of previous violations)].  |
+|            $100,000-149,999.99            |[$1,431 + ($199 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $7,948 × [1 + (.25 × Number of previous violations)].  |
+|            $150,000-199,999.99            |[$1,908 + ($238 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $9,537 × [1 + (.25 × Number of previous violations)].  |
+|            $200,000-249,999.99            |[$2,385 + ($277 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $11,922 × [1 + (.25 × Number of previous violations)]. |
+|            $250,000-349,999.99            |[$3,576 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $14,306 × [1 + (.25 × Number of previous violations)]. |
+|            $350,000-449,999.99            |[$4,768 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $15,897 × [1 + (.25 × Number of previous violations)]. |
+|            $450,000-549,999.99            |[$5,961 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $17,485 × [1 + (.25 × Number of previous violations)]. |
+|            $550,000-649,999.99            |[$7,154 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $19,075 × [1 + (.25 × Number of previous violations)]. |
+|            $650,000-749,999.99            |[$8,346 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $20,665 × [1 + (.25 × Number of previous violations)]. |
+|            $750,000-849,999.99            |[$9,537 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)] | $22,255 × [1 + (.25 × Number of previous violations)]. |
+|            $850,000-949,999.99            |[$10,729 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $23,843 × [1 + (.25 × Number of previous violations)]. |
+|             $950,000 or over              |[$11,922 + ($317 × Number of days late)] × [1 + (.25 × Number of previous violations)]| $25,434 × [1 + (.25 × Number of previous violations)]. |
 
-<sup>1</sup> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.
+<sup>a</sup> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.
 
-(c) If the respondent fails to file a required report and the Commission cannot calculate the level of activity under paragraph (d) of this section, then the civil money penalty shall be $8,231.
+(c) If the respondent fails to file a required report and the Commission cannot calculate the level of activity under paragraph (d) of this section, then the civil money penalty shall be $8,743.
 
 (d) *Definitions.* For this section only, the following definitions will apply:
 
@@ -80,4 +80,4 @@ Table 2 to Paragraph (b)
 
 (2) Election sensitive reports are considered to be filed late if they are filed after their due dates but prior to four (4) days before the primary election for pre-primary reports, prior to four (4) days before the special election for pre-special election reports, or prior to four (4) days before the general election for all other election sensitive reports. These reports are considered to be not filed if they are not filed prior to four (4) days before the primary election for pre-primary reports, prior to four (4) days before the special election for pre-special election reports or prior to four (4) days before the general election for all other election sensitive reports.
 
-[65 FR 31794, May 19, 2000, as amended at 68 FR 12577, Mar. 17, 2003; 70 FR 34636, June 15, 2005; 74 FR 31348, July 1, 2009; 74 FR 37161, July 28, 2009; 78 FR 44421, July 24, 2013; 81 FR 41199, June 24, 2016; 82 FR 8987, Feb. 2, 2017; 82 FR 61141, Dec. 27, 2017; 83 FR 66597, Dec. 27, 2018; 85 FR 47892, Aug. 7, 2020; 86 FR 1739, Jan. 11, 2021]
+[65 FR 31794, May 19, 2000, as amended at 68 FR 12577, Mar. 17, 2003; 70 FR 34636, June 15, 2005; 74 FR 31348, July 1, 2009; 74 FR 37161, July 28, 2009; 78 FR 44421, July 24, 2013; 81 FR 41199, June 24, 2016; 82 FR 8987, Feb. 2, 2017; 82 FR 61141, Dec. 27, 2017; 83 FR 66597, Dec. 27, 2018; 85 FR 47892, Aug. 7, 2020; 86 FR 1739, Jan. 11, 2021; 86 FR 73640, Dec. 28, 2021]

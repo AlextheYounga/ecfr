@@ -1,5 +1,7 @@
 ##### § 4.7a Inward manifest; information required; alternative forms. #####
 
+Link to an amendment published at 86 FR 73631, Dec. 28, 2021.
+
 The forms designated by § 4.7(a) as comprising the inward manifest shall be completed as follows:
 
 (a) *Ship's Stores Declaration.* Articles to be retained aboard as sea or ship's stores shall be listed on the Ship's Stores Declaration, CBP Form 1303. Less than whole packages of sea or ship's stores may be described as “sundry small and broken stores.”

@@ -36,7 +36,7 @@ The *gross-up* allows for the fact that every reimbursement of taxes is itself t
 
 *Relocation benefits* means all reimbursements and allowances that you receive, plus all direct payments that your agency makes on your behalf, in connection with your relocation.
 
-*Relocation income tax allowance (RITA)* means the payment to the employee to cover the difference between the withholding tax allowance (WTA), if any, and the actual tax liability incurred by the employee as a result of their taxable relocation benefits; *RITA* is paid whenever the actual tax liability exceeds the WTA.
+*Relocation income tax allowance (RITA)* means the payment to individuals to cover the difference between the withholding tax allowance (WTA), if any, and the actual income tax liability incurred by the individual, and such individual's spouse (if filing jointly), as a result of their taxable relocation benefits authorized pursuant to this chapter. RITA is paid whenever the actual income tax liability exceeds the WTA and applies to any travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to chapter 57, subchapter II of title 5 U.S.C. and 5 U.S.C. chapter 41.
 
 *State* means any one of the several states of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
@@ -44,4 +44,4 @@ The *gross-up* allows for the fact that every reimbursement of taxes is itself t
 
 *Withholding tax allowance (WTA)* means the amount paid to the Federal IRS by the agency as withholding of income taxes for any taxable relocation allowance, reimbursement, or direct payment to a vendor.
 
-[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019]
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019; 86 FR 73684, Dec. 28, 2021]

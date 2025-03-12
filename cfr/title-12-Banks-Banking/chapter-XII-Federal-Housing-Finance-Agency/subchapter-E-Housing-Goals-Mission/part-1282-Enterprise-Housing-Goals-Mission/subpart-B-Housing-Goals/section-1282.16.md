@@ -1,5 +1,7 @@
 ##### § 1282.16 Special counting requirements. #####
 
+Link to an amendment published at 86 FR 73658, Dec. 28, 2021.
+
 (a) *General.* FHFA shall determine whether an Enterprise shall receive full, partial, or no credit toward achievement of any of the housing goals for a transaction that otherwise qualifies under this part. In this determination, FHFA will consider whether a transaction or activity of the Enterprise is substantially equivalent to a mortgage purchase and either creates a new market or adds liquidity to an existing market, provided however that such mortgage purchase actually fulfills the Enterprise's purposes and is in accordance with its Charter Act.
 
 (b) *Not counted.* The following transactions or activities shall not be counted for purposes of the housing goals and shall not be included in the numerator or the denominator in calculating either Enterprise's performance under the housing goals, even if the transaction or activity would otherwise be counted pursuant to paragraph (c) of this section:

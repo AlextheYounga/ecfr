@@ -1,5 +1,7 @@
 ##### § 251.1 Arrival manifests and lists. #####
 
+Link to an amendment published at 86 FR 73629, Dec. 28, 2021.
+
 (a) *Vessels* - (1) *General.* The master or agent of every vessel arriving in the United States from a foreign place or an outlying possession of the United States shall present to the immigration officer at the port where the immigration inspection is performed a manifest of all crewmen on board on Form I-418, Passenger List and Crew List, in accordance with the instructions contained thereon.
 
 (2) *Longshore work notations.* The master or agent of the vessel shall indicate in writing immediately below the name of the last alien listed on the Form I-418 whether or not crewmen aboard the vessel will be used to perform longshore work at any United States port before the vessel departs the United States.

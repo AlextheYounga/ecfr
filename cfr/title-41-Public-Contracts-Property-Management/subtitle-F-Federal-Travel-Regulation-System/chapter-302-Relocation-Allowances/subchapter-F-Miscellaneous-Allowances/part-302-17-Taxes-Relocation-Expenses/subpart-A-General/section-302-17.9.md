@@ -1,3 +1,5 @@
-##### § 302-17.9 Who is responsible for knowing which relocation expenses are taxable and which expenses are nontaxable? #####
+##### § 302-17.9 Which expenses should I report on my state tax returns if I am required to file returns in two different states? #####
 
-Both you and your agency must know which reimbursements and direct payments to vendors are taxable and which are nontaxable in your specific circumstances. When you submit a voucher for reimbursement, your agency must determine whether the reimbursement is taxable income at the Federal, state, and/or local level. Then, when you file your income tax returns, you must report the taxable allowances, reimbursements, and direct payments to vendors as income. Your agency is ultimately responsible for calculating and reporting withholding accurately and you are ultimately responsible for filing your taxes correctly.
+In most cases, your state tax return for the state you are leaving should reflect your reimbursement or allowance, if any, for househunting expenses and your reimbursement or direct payments to vendors for real estate expenses at the home you are leaving. All other taxable expenses should be shown as income on the tax return you file in the state into which you have moved. However, you and your agency must carefully study the rules in both states and include everything that each state considers to be income on each of your state tax returns.
+
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014. Redesignated at 86 FR 73684, Dec. 28, 2021]
