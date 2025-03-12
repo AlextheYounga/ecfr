@@ -1,5 +1,7 @@
 ##### § 665.816 American Samoa longline limited entry program. #####
 
+Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
+
 (a) *General.* Under § 665.801(c), certain U.S. vessels are required to be registered for use under a valid American Samoa longline limited access permit. With the exception of reductions in permits in vessel size Class A under paragraph (c)(1) of this section, the maximum number of permits will be capped at the number of initial permits actually issued under paragraph (f) of this section.
 
 (b) *Terminology.* For purposes of this section, the following terms have these meanings:

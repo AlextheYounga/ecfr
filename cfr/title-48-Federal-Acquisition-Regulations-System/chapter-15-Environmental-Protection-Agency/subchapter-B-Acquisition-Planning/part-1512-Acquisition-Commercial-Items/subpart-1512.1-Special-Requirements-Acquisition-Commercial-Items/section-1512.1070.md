@@ -1,0 +1,3 @@
+##### 1512.1070 Contract clause. #####
+
+EPA deviates from FAR 52.212-4 by revising paragraphs (s) and (u) and adding paragraph (w). Contracting officers shall use clause 1552.332-39, *Contract Terms and Conditions-Commercial Items* (FAR DEVIATION), for acquisitions of commercial items in lieu of 52.212-4 or 52.212-4 Alternate I. The contracting officer may tailor this clause in accordance with FAR 12.302.

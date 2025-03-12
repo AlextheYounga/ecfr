@@ -1,5 +1,7 @@
 ##### § 880.607 Termination of tenancy and modification of lease. #####
 
+Link to an amendment published at 86 FR 55701, Oct. 7, 2021.
+
 (a) *Applicability.* The provisions of this section apply to all decisions by an owner to terminate the tenancy of a family residing in a unit under Contract during or at the end of the family's lease term.
 
 (b) *Entitlement of Families to occupancy* - (1) *Grounds.* The owner may not terminate any tenancy except upon the following grounds:

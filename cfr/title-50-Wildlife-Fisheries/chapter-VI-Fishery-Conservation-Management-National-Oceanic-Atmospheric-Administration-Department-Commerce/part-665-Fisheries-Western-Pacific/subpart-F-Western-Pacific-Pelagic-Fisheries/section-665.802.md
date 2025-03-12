@@ -1,5 +1,7 @@
 ##### § 665.802 Prohibitions. #####
 
+Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
+
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Falsify or fail to make and/or file all reports of western Pacific pelagic MUS landings, containing all data and in the exact manner, as required by applicable state law or regulation, as specified in § 665.14(a), provided that the person is required to do so by applicable state law or regulation.

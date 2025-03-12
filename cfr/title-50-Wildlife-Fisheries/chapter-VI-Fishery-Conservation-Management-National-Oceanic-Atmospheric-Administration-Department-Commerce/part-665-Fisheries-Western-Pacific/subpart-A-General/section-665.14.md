@@ -1,5 +1,7 @@
 ##### § 665.14 Reporting and recordkeeping. #####
 
+Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
+
 (a) *State reporting.* Except for precious coral and crustacean fisheries, any person who is required to do so by applicable state law or regulation must make and/or file all reports of MUS or ECS landings containing all data and in the exact manner required by applicable state law or regulation.
 
 (b) *Fishing record forms* - (1) *Applicability* - (i) *Paper records.* The operator of a fishing vessel subject to the requirements of § 665.124, § 665.142, § 665.162, § 665.203(a)(2), § 665.224, § 665.242, § 665.262, § 665.404, § 665.424, § 665.442, § 665.462, § 665.603, § 665.624, § 665.642, § 665.662, § 665.801, § 665.905, § 665.935, or § 665.965 must maintain on board the vessel an accurate and complete record of catch, effort, and other data on paper report forms provided by the Regional Administrator, or electronically as specified and approved by the Regional Administrator, except as required in paragraph (b)(1)(ii) of this section or as allowed in paragraph (b)(1)(iv) of this section.

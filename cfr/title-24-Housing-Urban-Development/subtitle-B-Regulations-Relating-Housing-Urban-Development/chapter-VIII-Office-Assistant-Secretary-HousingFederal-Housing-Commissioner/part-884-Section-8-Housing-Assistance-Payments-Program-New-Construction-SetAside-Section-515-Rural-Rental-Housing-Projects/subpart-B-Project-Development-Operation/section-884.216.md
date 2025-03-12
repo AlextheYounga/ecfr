@@ -1,5 +1,7 @@
 ##### § 884.216 Termination of tenancy. #####
 
+Link to an amendment published at 86 FR 55701, Oct. 7, 2021.
+
 (a) The owner is responsible for termination of tenancies, including evictions. However, conditions for payment of housing assistance payments for any resulting vacancies must be as set forth in § 884.106(c)(1). Failure of the family to sign and submit consent forms for the obtaining of wage and claim information from State Wage Information Collection Agencies, as provided by 24 CFR part 5, shall be grounds for termination of tenancy. For provisions requiring termination of assistance for failure to establish citizenship or eligible immigration status, including the applicable informal requirements, see 24 CFR part 5 and also for provisions concerning assistance for mixed families (families whose members include those with eligible immigration status, and those without eligible immigration status) in lieu of termination of assistance, and for provisions concerning deferral of termination of assistance.
 
 (b) Termination of tenancy for criminal activity by a covered person is subject to 24 CFR 5.858 and 5.859, and termination of tenancy for alcohol abuse by a covered person is subject to 24 CFR 5.860.

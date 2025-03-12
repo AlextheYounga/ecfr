@@ -1,5 +1,7 @@
 ##### § 882.511 Lease and termination of tenancy. #####
 
+Link to an amendment published at 86 FR 55701, Oct. 7, 2021.
+
 (a) *Lease.* (1) The lease must include all provisions required by HUD, and must not include any provisions prohibited by HUD.
 
 (2) The lease must provide that drug-related criminal activity engaged in on or near the premises by any tenant, household member, or guest, and any such activity engaged in on the premises by any other person under the tenant's control is grounds for the owner to terminate tenancy. In addition, the lease must provide that the owner may terminate the tenancy of a family when the owner determines that a household member is illegally using a drug or when the owner determines that a pattern of illegal use of a drug interferes with the health, safety, or right to peaceful enjoyment of the premises by other residents.

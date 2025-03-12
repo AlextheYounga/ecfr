@@ -1,5 +1,7 @@
 ##### § 665.19 Vessel monitoring system. #####
 
+Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
+
 (a) *Applicability.* The holder of any of the following permits is subject to the vessel monitoring system requirements in this part:
 
 (1) Hawaii longline limited access permit issued pursuant to § 665.801(b);

@@ -149,4 +149,4 @@ Table 1 to Paragraph (f) - Prioritization Schedule
 
 (p) *Delegation of authority.* The Commission delegates authority to the Wireline Competition Bureau, to adopt the necessary policies and procedures relating to allocations, draw downs, payments, obligations, and expenditures of money from the Reimbursement Program to protect against waste, fraud, and abuse and in the event of bankruptcy, to establish a Catalog of Expenses Eligible for Reimbursement and predetermined cost estimates, review the estimated cost forms, issue funding allocations for costs reasonably incurred, set filing deadlines and review information and documentation regarding progress reports, allocations, and final accountings.
 
-[86 FR 2941, 2944, Jan. 13, 2021]
+[86 FR 2941, 2944, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021]

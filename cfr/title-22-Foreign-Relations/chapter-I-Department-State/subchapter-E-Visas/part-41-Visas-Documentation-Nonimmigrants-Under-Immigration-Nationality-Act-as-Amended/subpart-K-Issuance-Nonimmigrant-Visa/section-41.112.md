@@ -1,5 +1,7 @@
 ##### § 41.112 Validity of visa. #####
 
+Link to an amendment published at 86 FR 55693, Oct. 7, 2021.
+
 (a) *Significance of period of validity of visa.* The period of validity of a nonimmigrant visa is the period during which the alien may use it in making application for admission. The period of visa validity has no relation to the period of time the immigration authorities at a port of entry may authorize the alien to stay in the United States.
 
 (b) *Validity of visa and number of applications for admission.* (1) Except as provided in paragraphs (c) and (d) of this section, a nonimmigrant visa shall have the validity prescribed in schedules provided to consular officers by the Department, reflecting insofar as practicable the reciprocal treatment accorded U.S. nationals, U.S. permanent residents, or aliens granted refugee status in the U.S. by the government of the country of which the alien is a national, permanent resident, refugee or stateless resident.

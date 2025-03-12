@@ -1,5 +1,7 @@
 ##### § 384.225 CDLIS driver recordkeeping. #####
 
+Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
+
 The State must:
 
 (a) *CLP or CDL holder.* Post and maintain as part of the CDLIS driver record:

@@ -24,4 +24,4 @@
 
 (d) *Authority to update.* The Office of Economics and Analytics may, consistent with these rules, implement any technical improvements, changes to the format and type of data submitted, or other clarifications to the report and its instructions.
 
-[86 FR 2946, Jan. 13, 2021]
+[86 FR 2946, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021]

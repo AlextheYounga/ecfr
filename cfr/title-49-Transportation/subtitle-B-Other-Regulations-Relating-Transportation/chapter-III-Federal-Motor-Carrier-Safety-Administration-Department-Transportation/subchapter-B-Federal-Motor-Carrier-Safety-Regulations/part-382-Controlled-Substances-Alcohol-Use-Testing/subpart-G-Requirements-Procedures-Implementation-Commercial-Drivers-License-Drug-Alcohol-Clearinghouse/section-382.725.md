@@ -1,5 +1,7 @@
 ##### § 382.725 Access by State licensing authorities. #####
 
+Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
+
 (a)(1) Beginning January 6, 2020, and before January 6, 2023, in order to determine whether a driver is qualified to operate a commercial motor vehicle, the chief commercial driver's licensing official of a State may obtain the driver's record from the Clearinghouse if the driver has applied for a commercial driver's license from that State.
 
 (2) On or after January 6, 2023, in order to determine whether a driver is qualified to operate a commercial motor vehicle, the chief commercial driver's licensing official of a State must obtain the driver's record from the Clearinghouse if the driver has applied for a commercial driver's license from that State.

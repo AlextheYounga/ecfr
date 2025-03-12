@@ -1,5 +1,7 @@
 ##### § 382.717 Procedures for correcting certain information in the database. #####
 
+Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
+
 (a) *Petitions limited to incorrectly reported information.* (1) Under this section, petitioners may request only that administrative errors be corrected (*e.g.,* errors in data entry or a duplicate report of a positive test result); petitioners may not contest the accuracy of test results, test refusals, or other violation information, under this section.
 
 (2) *Exceptions.* (i) Petitioners may request that FMCSA remove from the Clearinghouse an employer's report of actual knowledge that the driver received a traffic citation for driving a commercial motor vehicle while under the influence of alcohol or controlled substances if the citation did not result in a conviction. For the purposes of this section, conviction has the same meaning as used in 49 CFR part 383.

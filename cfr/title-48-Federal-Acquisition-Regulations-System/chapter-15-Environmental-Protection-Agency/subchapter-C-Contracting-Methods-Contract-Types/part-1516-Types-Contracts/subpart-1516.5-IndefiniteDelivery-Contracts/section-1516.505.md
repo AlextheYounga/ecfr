@@ -1,7 +1,7 @@
 ##### 1516.505 Contract clauses. #####
 
-(a) The Contracting Officer shall insert the clause in 1552.216-72, *Ordering - By Designated Ordering Officers,* or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity type solicitations and contracts. The Contracting Officer shall insert Alternate I when formal input from the Contractor will not be obtained prior to order issuance.
+(a) The Contracting Officer shall insert the clause in 1552.216-72, *Ordering—By Designated Ordering Officers,* or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity type solicitations and contracts. The Contracting Officer shall insert Alternate I when formal input from the Contractor will not be obtained prior to order issuance.
 
-(b) The Contracting Officer shall insert the clause in 1552.216-73, Fixed Rates for Services - Indefinite Delivery/Indefinite Quantity Contract, in solicitations and contracts to specify fixed rates for services.
+(b) The contracting officer shall insert clause substantially the same as 1552.216-73, *Fixed Rates for Services—Indefinite Delivery/Indefinite Quantity Contract,* in solicitations and contracts to specify fixed rates for services. Contracting officers may use Alternate I for procurements that will have order performance periods longer than one year. Alternate I has a different paragraph (c) from the Basic form. Contracting officers must use the Basic form as prescribed for procurements that will have orders with performance periods of one year or less. Contracting officers may use both the Basic form and Alternate I for procurements that will have mixed-length orders, where some are for one year or less, and others are for longer than one year. In such cases contracting officers must include procurement language that the Basic form applies to orders less than one year, and Alternate I applies to orders longer than one year.
 
-[49 FR 8852, Mar. 8, 1984, as amended at 79 FR 37960, July 3, 2014]
+[49 FR 8852, Mar. 8, 1984, as amended at 79 FR 37960, July 3, 2014; 86 FR 55713, Oct. 7, 2021]

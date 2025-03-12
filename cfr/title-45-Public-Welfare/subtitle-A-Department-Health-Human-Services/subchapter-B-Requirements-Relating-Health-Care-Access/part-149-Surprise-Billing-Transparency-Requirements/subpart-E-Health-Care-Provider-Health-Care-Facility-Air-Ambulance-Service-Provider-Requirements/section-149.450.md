@@ -1,10 +1,10 @@
 ##### § 149.450 Complaint process for balance billing regarding providers and facilities. #####
 
-(a) *Scope and definitions* - (1) *Scope.* This section establishes a process for HHS to receive and resolve complaints regarding information that a health care provider, provider of air ambulance services, or health care facility may be failing to meet the requirements under subpart E of this part, which may warrant an investigation.
+(a) *Scope and definitions*—(1) *Scope.* This section establishes a process for HHS to receive and resolve complaints regarding information that a health care provider, provider of air ambulance services, or health care facility may be failing to meet the requirements under subpart E or subpart G of this part, which may warrant an investigation.
 
-(2) *Definitions.* In this section -
+(2) *Definitions.* In this section—
 
-(i) *Complaint* means a communication, written, or oral, that indicates there has been a potential violation of the requirements under this subpart, whether or not a violation actually occurred.
+(i) Complaint means a communication, written, or oral, that indicates there has been a potential violation of the requirements under this subpart or subpart G of this part, whether or not a violation actually occurred.
 
 (ii) *Complainant* means any individual, or their authorized representative, who files a complaint as defined in paragraph (a)(2)(i) of this section.
 
@@ -24,7 +24,7 @@
 
 (vi) Any other information HHS needs to make a determination of facts for an investigation.
 
-(3) HHS will make reasonable efforts consistent with agency practices to notify the complainant of the outcome of the complaint after the submission is processed through appropriate methods as determined by HHS. A complaint is considered processed after HHS has reviewed the complaint and accompanying information and made an outcome determination. Based on the nature of the complaint, HHS may -
+(3) HHS will make reasonable efforts consistent with agency practices to notify the complainant of the outcome of the complaint after the submission is processed through appropriate methods as determined by HHS. A complaint is considered processed after HHS has reviewed the complaint and accompanying information and made an outcome determination. Based on the nature of the complaint, HHS may—
 
 (i) Refer the complainant to another appropriate Federal or State resolution process;
 
@@ -33,3 +33,5 @@
 (iii) Refer the health care provider, air ambulance provider or health care facility for an investigation for enforcement action under 45 CFR part 150; or
 
 (iv) Provide the complainant with an explanation of resolution and any corrective action taken.
+
+[86 FR 36970, July 13, 2021, as amended at 86 FR 56124, Oct. 7, 2021]

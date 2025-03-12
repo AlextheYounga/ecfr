@@ -1,0 +1,3 @@
+##### 1512.101 Unenforceability of unauthorized obligations. #####
+
+EPA deviates from FAR 52.212-4 by using the term *Commercial Supplier Agreements* (defined in 1502.100) for commercial contracts instead of *supplier license agreements*. Paragraph (u) of clause 1552.332-39 (FAR DEVIATION) prevents violations of the *Anti-Deficiency Act* (31 U.S.C. 1341) for the acquisition of supplies or services subject to a Commercial Supplier Agreement.
