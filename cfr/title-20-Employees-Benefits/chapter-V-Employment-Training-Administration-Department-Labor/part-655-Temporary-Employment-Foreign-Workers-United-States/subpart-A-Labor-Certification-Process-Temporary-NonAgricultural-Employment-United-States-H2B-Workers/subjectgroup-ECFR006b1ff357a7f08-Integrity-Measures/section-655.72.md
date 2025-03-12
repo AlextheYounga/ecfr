@@ -1,7 +1,5 @@
 ##### § 655.72 Revocation. #####
 
-Link to an amendment published at 86 FR 4, Jan. 4, 2021.
-
 (a) *Basis for DOL revocation.* The Administrator, OFLC may revoke a temporary labor certification approved under this subpart, if the Administrator, OFLC finds:
 
 (1) The issuance of the temporary labor certification was not justified due to fraud or willful misrepresentation of a material fact in the application process, as defined in § 655.73(d);
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 4, Jan. 4, 2021.
 
 (4) The employer failed to comply with one or more sanctions or remedies imposed by WHD, or with one or more decisions or orders of the Secretary with the respect to the H-2B program.
 
-(b) *DOL procedures for revocation* - (1) *Notice of Revocation.* If the Administrator, OFLC makes a determination to revoke an employer's temporary labor certification, the Administrator, OFLC will send to the employer (and its attorney or agent, if applicable) a Notice of Revocation. The notice will contain a detailed statement of the grounds for the revocation and inform the employer of its right to submit rebuttal evidence or to appeal. If the employer does not file rebuttal evidence or an appeal within 10 business days from the date the Notice of Revocation is issued, the notice is the final agency action and will take effect immediately at the end of the 10-day period.
+(b) *DOL procedures for revocation*—(1) *Notice of Revocation.* If the Administrator, OFLC makes a determination to revoke an employer's temporary labor certification, the Administrator, OFLC will send to the employer (and its attorney or agent, if applicable) a Notice of Revocation. The notice will contain a detailed statement of the grounds for the revocation and inform the employer of its right to submit rebuttal evidence or to appeal. If the employer does not file rebuttal evidence or an appeal within 10 business days from the date the Notice of Revocation is issued, the notice is the final agency action and will take effect immediately at the end of the 10-day period.
 
 (2) *Rebuttal.* If the employer timely submits rebuttal evidence, the Administrator, OFLC will inform the employer of the final determination on the revocation within 10 business days of receiving the rebuttal evidence. If the Administrator, OFLC determines that the certification should be revoked, the Administrator, OFLC will inform the employer of its right to appeal according to the procedures of § 655.61. If the employer does not appeal the final determination, it will become the final agency action.
 

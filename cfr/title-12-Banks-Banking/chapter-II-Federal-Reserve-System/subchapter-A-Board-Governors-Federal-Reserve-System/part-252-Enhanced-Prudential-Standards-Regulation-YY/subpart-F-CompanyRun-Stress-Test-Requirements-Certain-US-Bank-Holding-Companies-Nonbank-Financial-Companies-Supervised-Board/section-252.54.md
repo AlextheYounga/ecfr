@@ -1,5 +1,7 @@
 ##### § 252.54 Stress test. #####
 
+Link to an amendment published at 86 FR 7949, Feb. 3, 2021.
+
 (a) *Stress test* - (1) *In general.* A covered company must conduct a stress test as required under this subpart.
 
 (2) *Frequency* - (i) *General.* Except as provided in paragraph (a)(2)(ii) of this section, a covered company must conduct a stress test according to the frequency in Table 1 to § 252.54(a)(2)(i).

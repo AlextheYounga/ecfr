@@ -434,4 +434,54 @@ A listing of all countries that have not designated either a Management Authorit
 
 (4) Take caused by any activities not listed in paragraph (bb)(2) and (bb)(3) of this section is prohibited.
 
+(cc) June sucker (*Chasmistes liorus*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the June sucker. Except as provided under paragraph (cc)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by an existing permit under § 17.32.
+
+(ii) Conduct activities as authorized by a permit issued prior to February 3, 2021 under § 17.22 for the duration of the permit.
+
+(iii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iv) Take, as set forth at § 17.31(b).
+
+(v) Take June suckers while carrying out the following legally conducted activities in accordance with this paragraph (cc)(2)(iv):
+
+(A) *Definitions.* For the purposes of this paragraph (cc)(2)(iv):
+
+(*1*) *Qualified biologist* means a full-time fish biologist or aquatic resources manager employed by Utah Division of Wildlife Resources, a Department of the Interior agency, or fish biologist or aquatic resource manager employed by a private consulting firm that has been approved by the Service in writing (by letter or email), the designated recovery program (*e.g.,* June Sucker Recovery Implementation Program), or the Utah Division of Wildlife Resources.
+
+(*2*) *Reasonable care* means limiting the impacts to June sucker individuals and populations by complying with all applicable Federal, State, and Tribal regulations for the activity in question; using methods and techniques that result in the least harm, injury, or death, as feasible; undertaking activities at the least impactful times and locations, as feasible; procuring and implementing technical assistance from a qualified biologist on projects regarding all methods prior to the implementation of those methods; ensuring the number of individuals removed or sampled minimally impacts the existing wild population; ensuring no disease or parasites are introduced into the existing June sucker population; and preserving the genetic diversity of wild populations.
+
+(B) *Allowable forms of take of June suckers.* Take of June suckers as a result of the following legally conducted activities is allowed, provided that the activity is approved by the Service in writing (by letter or email), in coordination with any existing designated recovery program, for the purpose of the conservation or recovery of the June sucker, and that reasonable care is practiced to minimize the impact of such activities.
+
+(*1*) *Nonnative fish removal.* Take of June suckers as a result of any action with the primary or secondary purpose of removing from Utah Lake and its tributaries nonnative fish that compete with, predate upon, or degrade the habitat of the June sucker is allowed. Allowable methods of removal may include, but are not limited to, mechanical removal, chemical treatments, or biological controls. Whenever possible, June suckers that are caught alive as part of nonnative fish removal should be returned to their source as quickly as possible.
+
+(*2*) *Habitat restoration and improvement of instream flows.* Take of June suckers as a result of any action with the primary or secondary purpose of improving habitat conditions in Utah Lake and its tributaries or improving water delivery and available in-stream flows in spawning tributaries is allowed.
+
+(*3*) *Monitoring.* Take of June suckers as a result of any method that is used to detect June suckers in the wild to better understand population numbers, trends, or response to stressors, and that is not intended to be destructive but that may unintentionally cause harm or death, is allowed.
+
+(*4*) *Recreational fisheries management.* Take of June suckers as a result of any activity by the State, or its designated agent, that is necessary to manage or monitor recreational fisheries in Utah Lake and its tributaries is allowed, provided the management practices do not contradict June sucker recovery objectives and that the activities are not intended to cause harm or death to June suckers.
+
+(*5*) *Research.* Take of June suckers as a result of any activity undertaken for the purposes of increasing scientific understanding of June sucker biology, ecology, or recovery needs under the auspices of the designated recovery program, a recognized academic institution, or a qualified scientific contractor is allowed. Incidental and direct take resulting from such approved research to benefit the June sucker is allowed.
+
+(*6*) *Education and outreach.* Take of June suckers as a result of any activity undertaken under the auspices of the designated recovery program for the purposes of increasing public awareness of June sucker biology, ecology, or recovery needs and June sucker recovery benefits for Utah Lake, its tributaries, and the surrounding communities is allowed. Incidental and direct take resulting from such educational or outreach efforts to benefit the June sucker is allowed.
+
+(*7*) *Refuges and stocking.* Take of June suckers as a result of activities undertaken for the long-term maintenance of June suckers at Service-approved facilities outside of Utah Lake and its tributaries or for the production of June suckers for stocking in Utah Lake is allowed.
+
+(vi) Possess and engage in other acts with unlawfully taken endangered wildlife, as set forth at § 17.21(d)(2).
+
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 225.8 Capital planning and stress capital buffer requirement. #####
 
+Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
+
 (a) *Purpose.* This section establishes capital planning and prior notice and approval requirements for capital distributions by certain bank holding companies. This section also establishes the Board's process for determining the stress capital buffer requirement applicable to these bank holding companies.
 
 (b) *Scope and reservation of authority* - (1) *Applicability.* Except as provided in paragraph (c) of this section, this section applies to:

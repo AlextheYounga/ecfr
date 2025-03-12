@@ -1,5 +1,7 @@
 ##### § 303.204 Applications for acquisitions, branching, and new lines of business. #####
 
+Link to an amendment published at 86 FR 8097, Feb. 3, 2021.
+
 (a) *Scope.* (1) Any insured state nonmember bank and any insured branch of a foreign bank which is undercapitalized or significantly undercapitalized, and any insured depository institution which is critically undercapitalized, shall submit an application to engage in acquisitions, branching or new lines of business.
 
 (2) A new line of business will include any new activity exercised which, although it may be permissible, has not been exercised by the institution.

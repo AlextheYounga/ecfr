@@ -1,5 +1,7 @@
 ##### § 303.15 Certain limited liability companies deemed incorporated under State law. #####
 
+Link to an amendment published at 86 FR 8097, Feb. 3, 2021.
+
 (a) For purposes of the definition of “State bank” in 12 U.S.C. 1813(a)(2) and this Chapter, a banking institution that is chartered as a limited liability company (LLC) under the law of any State is deemed to be “incorporated” under the law of the State, if
 
 (1) The institution is not subject to automatic termination, dissolution, or suspension upon the happening of some event (including, e.g., the death, disability, bankruptcy, expulsion, or withdrawal of an owner of the institution), other than the passage of time;

@@ -1,5 +1,7 @@
 ##### § 303.7 Public notice requirements. #####
 
+Link to an amendment published at 86 FR 8097, Feb. 3, 2021.
+
 (a) *General.* The public must be provided with prior notice of a filing to establish a domestic branch, relocate a domestic branch or the main office, relocate an insured branch of a foreign bank, engage in a merger transaction, initiate a change of control transaction, or request deposit insurance. The public has the right to comment on, or to protest, these types of proposed transactions during the relevant comment period. In order to fully apprise the public of this right, an applicant shall publish a public notice of its filing in a newspaper of general circulation. For specific publication requirements, consult subparts B (Deposit Insurance), C (Branches and Relocations), D (Merger Transactions), E (Change in Bank Control), and J (International Banking) of this part.
 
 (b) *Confirmation of publication.* The applicant shall mail or otherwise deliver a copy of the newspaper notice to the appropriate FDIC office as part of its filing, or, if a copy is not available at the time of filing, promptly after publication.

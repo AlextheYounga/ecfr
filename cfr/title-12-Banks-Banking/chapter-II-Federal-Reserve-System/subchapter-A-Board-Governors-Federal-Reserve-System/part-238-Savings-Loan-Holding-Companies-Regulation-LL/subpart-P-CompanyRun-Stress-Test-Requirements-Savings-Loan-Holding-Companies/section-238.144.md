@@ -1,5 +1,7 @@
 ##### § 238.144 Methodologies and practices. #####
 
+Link to an amendment published at 86 FR 7943, Feb. 3, 2021.
+
 (a) *Potential impact on capital.* In conducting a stress test under § 238.143, for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
 
 (1) Losses, pre-provision net revenue, provision for credit losses, and net income; and
