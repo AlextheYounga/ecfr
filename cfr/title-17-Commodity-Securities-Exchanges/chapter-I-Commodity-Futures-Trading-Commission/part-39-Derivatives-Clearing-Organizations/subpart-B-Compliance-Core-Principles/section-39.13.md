@@ -20,7 +20,7 @@
 
 (2) Non-defaulting clearing members would not be exposed to losses that non-defaulting clearing members cannot anticipate or control.
 
-(g) *Margin requirements* - (1) *General.* Each model and parameter used in setting initial margin requirements shall be risk-based and reviewed on a regular basis.
+(g) *Margin requirements*—(1) *General.* Each model and parameter used in setting initial margin requirements shall be risk-based and reviewed on a regular basis.
 
 (2) *Methodology and coverage.*(i) A derivatives clearing organization shall have initial margin requirements that are commensurate with the risks of each product and portfolio, including any unusual characteristics of, or risks associated with, particular products or portfolios.
 
@@ -88,7 +88,7 @@
 
 (iii) In conducting back tests of initial margin requirements, a derivatives clearing organization shall compare portfolio losses only to those components of initial margin that capture changes in market risk factors.
 
-(8) *Customer margin* - (i) *Gross margin.* (A) During the end-of-day settlement cycle, a derivatives clearing organization shall collect initial margin on a gross basis for each clearing member's customer account(s) equal to the sum of the initial margin amounts that would be required by the derivatives clearing organization for each individual customer within that account if each individual customer were a clearing member.
+(8) *Customer margin*—(i) *Gross margin.* (A) During the end-of-day settlement cycle, a derivatives clearing organization shall collect initial margin on a gross basis for each clearing member's customer account(s) equal to the sum of the initial margin amounts that would be required by the derivatives clearing organization for each individual customer within that account if each individual customer were a clearing member.
 
 (B) For purposes of calculating the gross initial margin requirement for each clearing member's customer account(s), a derivatives clearing organization shall have rules that require its clearing members to provide to the derivatives clearing organization reports each day setting forth end-of-day gross positions of each individual customer account within each customer origin of the clearing member.
 
@@ -97,6 +97,8 @@
 (D) A derivatives clearing organization may collect initial margin for its clearing members' house accounts on a net basis.
 
 (ii) *Customer initial margin requirements.* A derivatives clearing organization shall require its clearing members to collect customer initial margin at a level that is not less than 100 percent of the derivatives clearing organization's clearing initial margin requirements with respect to each product and portfolio and commensurate with the risk presented by each customer account. The derivatives clearing organization shall have reasonable discretion in determining clearing initial margin requirements for products or portfolios. The derivatives clearing organization shall also have reasonable discretion in determining whether and by how much customer initial margin requirements shall, at a minimum, exceed clearing initial margin requirements for categories of customers determined by the clearing member to have heightened risk profiles. The Commission may review such customer initial margin levels and require different levels if the Commission deems the levels insufficient to protect the financial integrity of the derivatives clearing organization or its clearing members.
+
+(iii) *Withdrawal of customer initial margin.* A derivatives clearing organization shall require its clearing members to ensure that their customers do not withdraw funds from their accounts with such clearing members unless the net liquidating value plus the margin deposits remaining in a customer's account after such withdrawal are sufficient to meet the customer initial margin requirements with respect to all products and swap portfolios held in such customer's account which are cleared by the derivatives clearing organization.
 
 (9) *Time deadlines.* A derivatives clearing organization shall establish and enforce time deadlines for initial and variation margin payments to the derivatives clearing organization by its clearing members.
 
@@ -110,7 +112,7 @@
 
 (14) *Pledged assets.* If a derivatives clearing organization permits its clearing members to pledge assets for initial margin while retaining such assets in accounts in the names of such clearing members, the derivatives clearing organization shall ensure that such assets are unencumbered and that such a pledge has been validly created and validly perfected in the relevant jurisdiction.
 
-(h) *Other risk control mechanisms* - (1) *Risk limits.*(i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
+(h) *Other risk control mechanisms*— (1) *Risk limits.*(i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
 
 (A) The method of computing risk exposure;
 
@@ -132,8 +134,7 @@
 
 (4) *Portfolio compression.* A derivatives clearing organization shall make portfolio compression exercises available, on a regular and voluntary basis, for its clearing members that clear swaps, to the extent that such exercises are appropriate for those swaps that it clears; *provided, however,* a derivatives clearing organization is not required to develop its own portfolio compression services, and is only required to make such portfolio compression exercises available, if applicable portfolio compression services have been developed by a third party.
 
-(5) *Clearing members' risk management policies and procedures.* (i)
-(i) A derivatives clearing organization shall have rules that:
+(5) *Clearing members' risk management policies and procedures.*(i) A derivatives clearing organization shall have rules that:
 
 (A) Require its clearing members to maintain current written risk management policies and procedures, which address the risks that such clearing members may pose to the derivatives clearing organization;
 
@@ -163,4 +164,4 @@
 
 (2) The Commission may request additional information in support of a rule submission filed under this paragraph (i), and may approve such rules in accordance with § 40.5 of this chapter.
 
-[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4855, Jan. 27, 2020]
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4855, Jan. 27, 2020; 85 FR 35805, June 12, 2020]

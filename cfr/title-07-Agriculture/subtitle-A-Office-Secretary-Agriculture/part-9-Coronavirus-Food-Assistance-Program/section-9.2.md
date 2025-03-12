@@ -44,12 +44,16 @@ The following definitions apply to CFAP. The definitions in parts 718 and 1400 o
 
 *Producer* means a person or legal entity who shares in the risk of producing a crop or livestock and who is entitled to a share in the crop or livestock available for marketing or would have shared had the crop or livestock been produced and marketed. A contract grower who does not own the livestock, will be considered a producer if the contract allows the grower to have risk in the livestock.
 
-*Slaughter Cattle - fed cattle* means cattle with an average weight in excess of 1,400 pounds which yield average carcass weights in excess of 800 pounds and are intended for slaughter.
+*Second quarter* means April, May, and June of 2020.
+
+*Slaughter Cattle - fed cattle* means cattle with a weight of 1,200 pounds or more that are intended for slaughter.
 
 *Slaughter cattle - mature cattle* means culled cattle raised or maintained for breeding purposes, but which were removed from inventory and are intended for slaughter.
 
 *Specialty crops* means any of the following crops: Almonds; apples; artichokes; asparagus; avocados; beans; blueberries; broccoli; cabbage; cantaloupe; carrots; cauliflower; celery; corn, sweet; cucumbers, eggplant; garlic; grapefruit; kiwifruit; lemons; lettuce, iceberg; lettuce, romaine; mushrooms; onions, dry; onions, green; oranges; papayas; peaches; pears; pecans; peppers, bell type; peppers, other; potatoes; raspberries; rhubarb; spinach; squash; strawberries; sweet potatoes; tangerines; taro; tomatoes; walnuts; watermelons; and any crops for which funds are made available and announced in a NOFA. The term excludes crops intended for grazing.
 
-*Unpriced inventory* means any production that is not subject to an agreed-upon price in the future through a forward contract, agreement, or similar binding document.
+*Unpriced* means not subject to an agreed-upon price in the future through a forward contract, agreement, or similar binding document as of January 15, 2020.
 
 *Wool* means the fiber sheared from a live sheep and includes, unless noted otherwise, graded and nongraded wool. Graded wool is paid on a clean basis, and ungraded wool is paid on a greasy basis.
+
+[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020]

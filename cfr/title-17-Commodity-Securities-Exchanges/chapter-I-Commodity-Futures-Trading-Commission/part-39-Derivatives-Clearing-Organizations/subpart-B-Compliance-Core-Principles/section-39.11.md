@@ -18,8 +18,6 @@
 
 (v) Any other financial resource deemed acceptable by the Commission.
 
-(vi) Any other financial resource deemed acceptable by the Commission.
-
 (2) Financial resources available to satisfy the requirements of paragraph (a)(2) of this section may include:
 
 (i) The derivatives clearing organization's own capital; and
@@ -78,6 +76,10 @@
 
 (4)(i) Assets in a guaranty fund shall have minimal credit, market, and liquidity risks and shall be readily accessible on a same-day basis;
 
+(ii) Cash balances shall be invested or placed in safekeeping in a manner that bears little or no principal risk; and
+
+(iii) Letters of credit shall not be a permissible asset for a guaranty fund.
+
 (f) *Reporting requirements.* (1) *Quarterly reporting.* Each fiscal quarter, or at any time upon Commission request, a derivatives clearing organization shall:
 
 (i) Report to the Commission;
@@ -118,4 +120,4 @@
 
 (4) *Certification.* A derivatives clearing organization shall provide with each report submitted pursuant to this section a certification by the person responsible for the accuracy and completeness of the report that, to the best of his or her knowledge and reasonable belief, and under penalty of law, the information contained in the report is accurate and complete.
 
-[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4852, Jan. 27, 2020]
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4852, Jan. 27, 2020; 85 FR 35805, June 12, 2020]
