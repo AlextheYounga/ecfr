@@ -2,9 +2,9 @@
 
 (a) *In general.* For each sales year, the IRS will compile a list of branded prescription drugs by NDC using the data submitted on Forms 8947 and in error reports submitted as part of the dispute resolution process (described in § 51.7) and, after applying appropriate due diligence, will provide this list to the Agencies. The Agencies will provide data to the IRS on branded prescription drug sales that occurred during the sales year by Program and NDC. The Agencies will provide data for use in preparing the preliminary fee calculation (described in §§ 51.5 and 51.6) and may revise or supplement that data following review of error reports submitted as part of the dispute resolution process. The calculation methodology for calculating the sales amounts for each Program, including any reasonable estimation techniques and assumptions that the Agencies expect to use, is described in this section.
 
-(b) *Medicare Part D* - (1) *In general.* CMS will determine branded prescription drug sales under Medicare Part D by aggregating the ingredient cost reported in the “Ingredient Cost Paid” field on the Prescription Drug Event (PDE) records at the NDC level, reduced by discounts, rebates, and other price concessions provided by the covered entity, for each sales year. CMS will only include PDE data that Part D sponsors have submitted by the PDE submission deadline (within 6 months after the end of the sales year) and that CMS has approved for inclusion in the Part D payment reconciliation.
+(b) *Medicare Part D*—(1) *In general.* CMS will determine branded prescription drug sales under Medicare Part D by aggregating the ingredient cost reported in the “Ingredient Cost Paid” field on the Prescription Drug Event (PDE) records at the NDC level, reduced by discounts, rebates, and other price concessions provided by the covered entity, for each sales year. CMS will only include PDE data that Part D sponsors have submitted by the PDE submission deadline (within 6 months after the end of the sales year) and that CMS has approved for inclusion in the Part D payment reconciliation.
 
-(2) *Discounts, rebates, and other price concessions* - (i) *In general.* For purposes of paragraph (b)(1) of this section, the term *discounts, rebates, and other price concessions* means:
+(2) *Discounts, rebates, and other price concessions*—(i) *In general.* For purposes of paragraph (b)(1) of this section, the term *discounts, rebates, and other price concessions* means:
 
 (A) Any direct and indirect remuneration (DIR) (within the meaning of paragraph (b)(2)(ii) of this section), which includes any DIR reported on the PDE records at the point of sale and any DIR reported on a Detailed DIR Report (within the meaning of a paragraph (b)(2)(iii) of this section); and
 
@@ -16,13 +16,13 @@
 
 (iv) *Coverage gap discount amount.* For purposes of paragraph (b)(2)(i)(B) of this section, the term *coverage gap discount amount* means a 50-percent manufactured-paid discount on certain drugs under the Coverage Gap Discount Program described in section 1860D-14A of the Social Security Act.
 
-(c) *Medicare Part B* - (1) *In general.* CMS will determine branded prescription drug sales under Medicare Part B using the following two data sources:
+(c) *Medicare Part B*—(1) *In general.* CMS will determine branded prescription drug sales under Medicare Part B using the following two data sources:
 
 (i) CMS will use data reported by manufacturers pursuant to section 1847A(c) of the Social Security Act to calculate the annual weighted average sales price (ASP) for each Healthcare Common Procedure Coding System (HCPCS) code for the sales year.
 
-(ii) CMS will use the Medicare Part B National Summary Data File located at *http://www.cms.gov/NonIdentifiableDataFiles/03\_:PartBNationalSummaryDataFile.asp* to obtain the number of allowed billing units per HCPCS code for claims incurred during the sales year.
+(ii) CMS will use the Medicare Part B National Summary Data File located at *http://www.cms.gov/NonIdentifiableDataFiles/03\_PartBNationalSummaryDataFile.asp* to obtain the number of allowed billing units per HCPCS code for claims incurred during the sales year.
 
-(2) *Calculation* - (i) *In general.* Using the data described in paragraph (c)(1) of this section, CMS will determine branded prescription drugs sales under Medicare Part B as described in paragraphs (c)(3), (4), and (5) of this section. CMS reports sales amounts per HCPCS billing code, not per NDC. Therefore, a covered entity's total Part B sales amounts for all NDCs in a given HCPCS billing code appears under only one NDC in each HCPCS billing code and the covered entity's remaining NDCs in the HCPCS billing code are listed with a sales amount of zero.
+(2) *Calculation*—(i) *In general.* Using the data described in paragraph (c)(1) of this section, CMS will determine branded prescription drugs sales under Medicare Part B as described in paragraphs (c)(3), (4), and (5) of this section. CMS reports sales amounts per HCPCS billing code, not per NDC. Therefore, a covered entity's total Part B sales amounts for all NDCs in a given HCPCS billing code appears under only one NDC in each HCPCS billing code and the covered entity's remaining NDCs in the HCPCS billing code are listed with a sales amount of zero.
 
 (ii) *Example of a Part B sales report:*
 
@@ -36,7 +36,7 @@
 
 (3) *HCPCS code; single entity.* For each HCPCS code consisting solely and exclusively of branded prescription drugs (as identified by their respective NDCs) manufactured by a single entity, CMS will multiply the annual weighted ASP by the total number of allowed billing units paid during the sales year to determine the total sales for all NDCs associated with the HCPCS code attributed to Medicare Part B.
 
-(4) *HCPCS code; multiple manufacturers and/or multiple drugs* - (i) *Step one.* For each HCPCS code consisting of a mixture of branded prescription drugs made by different manufacturers and/or a mixture of branded prescription and generic drugs, CMS will determine -
+(4) *HCPCS code; multiple manufacturers and/or multiple drugs*—(i) *Step one.* For each HCPCS code consisting of a mixture of branded prescription drugs made by different manufacturers and/or a mixture of branded prescription and generic drugs, CMS will determine—
 
 (A) The annual weighted ASP for the HCPCS code;
 

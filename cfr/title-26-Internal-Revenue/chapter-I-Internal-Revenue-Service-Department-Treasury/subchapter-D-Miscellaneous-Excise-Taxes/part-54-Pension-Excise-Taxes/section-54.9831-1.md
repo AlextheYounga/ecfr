@@ -1,8 +1,6 @@
 ##### § 54.9831-1 Special rules relating to group health plans. #####
 
-Link to an amendment published at 84 FR 28999, June 20, 2019.
-
-(a) *Group health plan* - (1) *Defined.* A group health plan means a plan (including a self-insured plan) of, or contributed to by, an employer (including a self-employed person) or employee organization to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families.
+(a) *Group health plan*—(1) *Defined.* A group health plan means a plan (including a self-insured plan) of, or contributed to by, an employer (including a self-employed person) or employee organization to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families.
 
 (2) *Determination of number of plans.* [Reserved]
 
@@ -24,9 +22,9 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (vii) Section 54.9802-3T(e).
 
-(c) *Excepted benefits* - (1) *In general.* The requirements of §§ 54.9801-1 through 54.9801-6, 54.9802-1, 54.9802-2, 54.9811-1, 54.9812-1, 54.9815-1251 through 54.9815-2719A, and 54.9833-1 do not apply to any group health plan in relation to its provision of the benefits described in paragraph (c)(2), (3), (4), or (5) of this section (or any combination of these benefits).
+(c) *Excepted benefits*—(1) *In general.* The requirements of §§ 54.9801-1 through 54.9801-6, 54.9802-1, 54.9802-2, 54.9811-1, 54.9812-1, 54.9815-1251 through 54.9815-2719A, and 54.9833-1 do not apply to any group health plan in relation to its provision of the benefits described in paragraph (c)(2), (3), (4), or (5) of this section (or any combination of these benefits).
 
-(2) *Benefits excepted in all circumstances.* The following benefits are excepted in all circumstances -
+(2) *Benefits excepted in all circumstances.* The following benefits are excepted in all circumstances—
 
 (i) Coverage only for accident (including accidental death and dismemberment);
 
@@ -46,7 +44,7 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (ix) Travel insurance, within the meaning of § 54.9801-2.
 
-(3) *Limited excepted benefits* - (i) *In general.* Limited-scope dental benefits, limited-scope vision benefits, or long-term care benefits are excepted if they are provided under a separate policy, certificate, or contract of insurance, or are otherwise not an integral part of a group health plan as described in paragraph (c)(3)(ii) of this section. In addition, benefits provided under a health flexible spending arrangement are excepted benefits if they satisfy the requirements of paragraph (c)(3)(v) of this section. Furthermore, benefits provided under an employee assistance program are excepted benefits if they satisfy the requirements of paragraph (c)(3)(vi) of this section.
+(3) *Limited excepted benefits*—(i) *In general.* Limited-scope dental benefits, limited-scope vision benefits, or long-term care benefits are excepted if they are provided under a separate policy, certificate, or contract of insurance, or are otherwise not an integral part of a group health plan as described in paragraph (c)(3)(ii) of this section. In addition, benefits provided under a health flexible spending arrangement (health FSA) are excepted benefits if they satisfy the requirements of paragraph (c)(3)(v) of this section; benefits provided under an employee assistance program are excepted benefits if they satisfy the requirements of paragraph (c)(3)(vi) of this section; benefits provided under limited wraparound coverage are excepted benefits if they satisfy the requirements of paragraph (c)(3)(vii) of this section; and benefits provided under a health reimbursement arrangement or other account-based group health plan, other than a health FSA, are excepted benefits if they satisfy the requirements of paragraph (c)(3)(viii) of this section.
 
 (ii) *Not an integral part of a group health plan.* For purposes of this paragraph (c)(3), benefits are not an integral part of a group health plan (whether the benefits are provided through the same plan, a separate plan, or as the only plan offered to participants) if either paragraph (c)(3)(ii)(A) or (B) are satisfied.
 
@@ -54,11 +52,11 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (B) Claims for the benefits are administered under a contract separate from claims administration for any other benefits under the plan.
 
-(iii) *Limited scope* - (A) *Dental benefits.* Limited scope dental benefits are benefits substantially all of which are for treatment of the mouth (including any organ or structure within the mouth).
+(iii) *Limited scope*—(A) *Dental benefits.* Limited scope dental benefits are benefits substantially all of which are for treatment of the mouth (including any organ or structure within the mouth).
 
 (B) *Vision benefits.* Limited scope vision benefits are benefits substantially all of which are for treatment of the eye.
 
-(iv) *Long-term care.* Long-term care benefits are benefits that are either -
+(iv) *Long-term care.* Long-term care benefits are benefits that are either—
 
 (A) Subject to State long-term care insurance laws;
 
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (C) Based on cognitive impairment or a loss of functional capacity that is expected to be chronic.
 
-(v) *Health flexible spending arrangements.* Benefits provided under a health flexible spending arrangement (as defined in section 106(c)(2)) are excepted for a class of participants only if they satisfy the following two requirements -
+(v) *Health flexible spending arrangements.* Benefits provided under a health flexible spending arrangement (as defined in section 106(c)(2)) are excepted for a class of participants only if they satisfy the following two requirements—
 
 (A) Other group health plan coverage, not limited to excepted benefits, is made available for the year to the class of participants by reason of their employment; and
 
@@ -86,7 +84,7 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (D) There is no cost sharing under the employee assistance program.
 
-(vii) *Limited wraparound coverage.* Limited benefits provided through a group health plan that wrap around eligible individual health insurance (or Basic Health Plan coverage described in section 1331 of the Patient Protection and Affordable Care Act); or that wrap around coverage under a Multi-State Plan described in section 1334 of the Patient Protection and Affordable Care Act, collectively referred to as “limited wraparound coverage,” are excepted benefits if all of the following conditions are satisfied. For this purpose, eligible individual health insurance is individual health insurance coverage that is not a grandfathered health plan (as described in section 1251 of the Patient Protection and Affordable Care Act and 29 CFR 2590.715-1251), not a transitional individual health insurance plan (as described in the March 5, 2014 Insurance Standards Bulletin Series - Extension of Transitional Policy through October 1, 2016), and does not consist solely of excepted benefits (as defined in paragraph (c) of this section).
+(vii) *Limited wraparound coverage.* Limited benefits provided through a group health plan that wrap around eligible individual health insurance (or Basic Health Plan coverage described in section 1331 of the Patient Protection and Affordable Care Act); or that wrap around coverage under a Multi-State Plan described in section 1334 of the Patient Protection and Affordable Care Act, collectively referred to as “limited wraparound coverage,” are excepted benefits if all of the following conditions are satisfied. For this purpose, eligible individual health insurance is individual health insurance coverage that is not a grandfathered health plan (as described in section 1251 of the Patient Protection and Affordable Care Act and 29 CFR 2590.715-1251), not a transitional individual health insurance plan (as described in the March 5, 2014 Insurance Standards Bulletin Series—Extension of Transitional Policy through October 1, 2016), and does not consist solely of excepted benefits (as defined in paragraph (c) of this section).
 
 (A) *Covers additional benefits.* The limited wraparound coverage provides meaningful benefits beyond coverage of cost sharing under either the eligible individual health insurance, Basic Health Program coverage, or Multi-State Plan coverage. The limited wraparound coverage must not provide benefits only under a coordination-of-benefits provision and must not consist of an account-based reimbursement arrangement.
 
@@ -124,7 +122,7 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (*iv*) For the duration of the pilot program, as described in paragraph (c)(3)(vii)(F) of this section, the employer's annual aggregate contributions for both primary and limited wraparound coverage are substantially the same as the employer's total contributions for coverage offered to full-time employees in 2013 or 2014.
 
-(E) *Reporting* - (*1*) *Reporting by group health plans and group health insurance issuers.* A self-insured group health plan, or a health insurance issuer, offering or proposing to offer limited wraparound coverage in connection with Multi-State Plan coverage pursuant to paragraph (c)(3)(vii)(D)(*2*) of this section reports to the Office of Personnel Management (OPM), in a form and manner specified in guidance, information OPM reasonably requires to determine whether the plan or issuer qualifies to offer such coverage or complies with the applicable requirements of this section.
+(E) *Reporting*—(*1*) *Reporting by group health plans and group health insurance issuers.* A self-insured group health plan, or a health insurance issuer, offering or proposing to offer limited wraparound coverage in connection with Multi-State Plan coverage pursuant to paragraph (c)(3)(vii)(D)(*2*) of this section reports to the Office of Personnel Management (OPM), in a form and manner specified in guidance, information OPM reasonably requires to determine whether the plan or issuer qualifies to offer such coverage or complies with the applicable requirements of this section.
 
 (*2*) *Reporting by group health plan sponsors.* The plan sponsor of a group health plan offering limited wraparound coverage under paragraph (c)(3)(vii) of this section, must report to the Department of Health and Human Services (HHS), in a form and manner specified in guidance, information HHS reasonably requires.
 
@@ -134,9 +132,37 @@ Link to an amendment published at 84 FR 28999, June 20, 2019.
 
 (*2*) The date on which the last collective bargaining agreement relating to the plan terminates after the date limited wraparound coverage is first offered (determined without regard to any extension agreed to after the date limited wraparound coverage is first offered).
 
-(4) *Noncoordinated benefits* - (i) *Excepted benefits that are not coordinated.* Coverage for only a specified disease or illness (for example, cancer-only policies) or hospital indemnity or other fixed indemnity insurance is excepted only if it meets each of the conditions specified in paragraph (c)(4)(ii) of this section. To be hospital indemnity or other fixed indemnity insurance, the insurance must pay a fixed dollar amount per day (or per other period) of hospitalization or illness (for example, $100/day) regardless of the amount of expenses incurred.
+(viii) *Health reimbursement arrangements (HRAs) and other account-based group health plans.* Benefits provided under an HRA or other account-based group health plan, other than a health FSA, are excepted if they satisfy all of the requirements of this paragraph (c)(3)(viii). See paragraph (c)(3)(v) of this section for the circumstances in which benefits provided under a health FSA are excepted benefits. For purposes of this paragraph (c)(3)(viii), the term “HRA or other account-based group health plan” has the same meaning as “account-based group health plan” set forth in § 54.9815-2711(d)(6)(i) of this part, except that the term does not include health FSAs. For ease of reference, an HRA or other account-based group health plan that satisfies the requirements of this paragraph (c)(3)(viii) is referred to as an excepted benefit HRA.
 
-(ii) *Conditions.* Benefits are described in paragraph (c)(4)(i) of this section only if -
+(A) *Otherwise not an integral part of the plan.* Other group health plan coverage that is not limited to excepted benefits and that is not an HRA or other account-based group health plan must be made available by the same plan sponsor for the plan year to the participant.
+
+(B) *Benefits are limited in amount*—(*1*) *Limit on annual amounts made available.* The amounts newly made available for each plan year under the HRA or other account-based group health plan do not exceed $1,800. In the case of any plan year beginning after December 31, 2020, the dollar amount in the preceding sentence shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment. The cost of living adjustment is the percentage (if any) by which the C-CPI-U for the preceding calendar year exceeds the C-CPI-U for calendar year 2019. The term “C-CPI-U” means the Chained Consumer Price Index for All Urban Consumers as published by the Bureau of Labor Statistics of the Department of Labor. The C-CPI-U for any calendar year is the average of the C-CPI-U as of the close of the 12-month period ending on March 31 of such calendar year. The values of the C-CPI-U used for any calendar year shall be the latest values so published as of the date on which the Bureau publishes the initial value of the C-CPI-U for the month of March for the preceding calendar year. Any such increase that is not a multiple of $50 shall be rounded down to the next lowest multiple of $50. The Department of the Treasury and the Internal Revenue Service will publish the adjusted amount for plan years beginning in any calendar year no later than June 1 of the preceding calendar year.
+
+(*2*) *Carryover amounts.* If the terms of the HRA or other account-based group health plan allow unused amounts to be made available to participants and dependents in later plan years, such carryover amounts are disregarded for purposes of determining whether benefits are limited in amount.
+
+(*3*) *Multiple HRAs or other account-based group health plans.* If the plan sponsor provides more than one HRA or other account-based group health plan to the participant for the same time period, the amounts made available under all such plans are aggregated to determine whether the benefits are limited in amount, except that HRAs or other account-based group health plans that reimburse only excepted benefits are not included in determining whether the benefits are limited in amount.
+
+(C) *Prohibition on reimbursement of certain health insurance premiums.* The HRA or other account-based group health plan must not reimburse premiums for individual health insurance coverage, group health plan coverage (other than COBRA continuation coverage or other continuation coverage), or Medicare Part A, B, C, or D, except that the HRA or other account-based group health plan may reimburse premiums for such coverage that consists solely of excepted benefits. See also, paragraph (c)(3)(viii)(F) of this section.
+
+(D) *Uniform availability.* The HRA or other account-based group health plan is made available under the same terms to all similarly situated individuals, as defined in § 54.9802-1(d) of this part, regardless of any health factor (as described in § 54.9802-1(a)).
+
+(E) *Notice requirement. See* 29 CFR 2520.102-3(j)(2) and (3) and 29 CFR 2520.104b-2(a) for rules regarding the time, manner, and content for summary plan descriptions (including a description of conditions pertaining to eligibility to receive benefits; annual or lifetime caps or other limits on benefits under the plan; and a description or summary of the benefits) applicable to plans subject to Tile I of the Employee Retirement Income Security Act of 1974, as amended.
+
+(F) *Special rule.* The HRA or other account-based group health plan must not reimburse premiums for short-term, limited-duration insurance (as defined in § 54.9801-2 of this part) if the conditions of this paragraph (c)(3)(viii)(F) are satisfied.
+
+(*1*) The HRA or other account-based group health plan is offered by a small employer (as defined in PHS Act section 2791(e)(4)).
+
+(*2*) The other group health plan coverage offered by the employer pursuant to paragraph (c)(3)(viii)(A) of this section is either fully-insured or partially-insured.
+
+(*3*) The Secretary of Health and Human Services (HHS) makes a finding, in consultation with the Secretaries of Labor and the Treasury, that the reimbursement of premiums for short-term, limited-duration insurance by excepted benefit HRAs has caused significant harm to the small group market in the state that is the principal place of business of the small employer.
+
+(*4*) The finding by the Secretary of HHS is made after submission of a written recommendation by the applicable state authority of such state, in a form and manner specified by HHS. The written recommendation must include evidence that the reimbursement of premiums for short-term, limited-duration insurance by excepted benefit HRAs established by insured or partially-insured small employers in the state has caused significant harm to the state's small group market, including with respect to premiums.
+
+(*5*) The restriction shall be imposed or discontinued by publication by the Secretary of HHS of a notice in the Federal Register and shall apply only prospectively and with a reasonable time for plan sponsors to comply.
+
+(4) *Noncoordinated benefits*—(i) *Excepted benefits that are not coordinated.* Coverage for only a specified disease or illness (for example, cancer-only policies) or hospital indemnity or other fixed indemnity insurance is excepted only if it meets each of the conditions specified in paragraph (c)(4)(ii) of this section. To be hospital indemnity or other fixed indemnity insurance, the insurance must pay a fixed dollar amount per day (or per other period) of hospitalization or illness (for example, $100/day) regardless of the amount of expenses incurred.
+
+(ii) *Conditions.* Benefits are described in paragraph (c)(4)(i) of this section only if—
 
 (A) The benefits are provided under a separate policy, certificate, or contract of insurance;
 
@@ -150,7 +176,7 @@ Example.(i) *Facts.* An employer sponsors a group health plan that provides cove
 
 (ii) *Conclusion.* In this *Example,* even though the benefits under the policy satisfy the conditions in paragraph (c)(4)(ii) of this section, because the policy pays a percentage of expenses incurred rather than a fixed dollar amount, the benefits under the policy are not excepted benefits under this paragraph (c)(4). This is the result even if, in practice, the policy pays the maximum of $100 for every day of hospitalization.
 
-(5) *Supplemental benefits.* (i) The following benefits are excepted only if they are provided under a separate policy, certificate, or contract of insurance -
+(5) *Supplemental benefits.* (i) The following benefits are excepted only if they are provided under a separate policy, certificate, or contract of insurance—
 
 (A) Medicare supplemental health insurance (as defined under section 1882(g)(1) of the Social Security Act; also known as Medigap or MedSupp insurance);
 
@@ -178,4 +204,4 @@ Example.(i) *Facts.* An employer sponsors a group health plan that provides cove
 
 (e) *Determining the average number of employees.* [Reserved]
 
-[T.D. 9166, 69 FR 78746, Dec. 30, 2004; 70 FR 21146, Apr. 25, 2005, as amended by T.D. 9299, 71 FR 75057, Dec. 13, 2006; T.D. 9427, 73 FR 62422, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9656, 79 FR 10308, Feb. 24, 2014; T.D. 9697, 79 FR 59135, Oct. 1, 2014; T.D. 9714, 80 FR 14004, Mar. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016]
+[T.D. 9166, 69 FR 78746, Dec. 30, 2004; 70 FR 21146, Apr. 25, 2005, as amended by T.D. 9299, 71 FR 75057, Dec. 13, 2006; T.D. 9427, 73 FR 62422, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9656, 79 FR 10308, Feb. 24, 2014; T.D. 9697, 79 FR 59135, Oct. 1, 2014; T.D. 9714, 80 FR 14004, Mar. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9867, 84 FR 28999, June 20, 2019]

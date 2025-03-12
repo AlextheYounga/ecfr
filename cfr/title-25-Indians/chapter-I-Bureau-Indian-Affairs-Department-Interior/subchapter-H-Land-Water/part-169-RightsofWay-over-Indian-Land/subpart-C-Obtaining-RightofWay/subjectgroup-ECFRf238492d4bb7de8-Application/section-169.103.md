@@ -1,5 +1,7 @@
 ##### § 169.103 What bonds, insurance, or other security must accompany the application? #####
 
+Link to an amendment published at 84 FR 42808, Aug. 19, 2019.
+
 (a) You must include payment of bonds, insurance, or alternative forms of security with your application for a right-of-way in amounts that cover:
 
 (1) The highest annual rental specified in the grant, unless compensation is a one-time payment;

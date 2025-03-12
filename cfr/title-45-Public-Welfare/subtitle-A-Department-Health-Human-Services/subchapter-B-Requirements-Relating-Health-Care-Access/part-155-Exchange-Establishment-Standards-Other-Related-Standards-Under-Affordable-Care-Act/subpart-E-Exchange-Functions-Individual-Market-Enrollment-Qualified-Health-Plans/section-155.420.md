@@ -1,7 +1,5 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 84 FR 29027, June 20, 2019.
-
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (ii) If an enrollee and his or her dependents become newly eligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are not enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a silver-level QHP if they elect to change their QHP enrollment.
 
-(iii) For the other triggering events specified in paragraph (d) of this section, except for paragraphs (d)(2)(i), (d)(4), (d)(6)(i) and (ii) of this section for becoming newly eligible for CSRs, (d)(8), (9), (10) and (12) of this section:
+(iii) For the other triggering events specified in paragraph (d) of this section, except for paragraphs (d)(2)(i), (d)(4), and (d)(6)(i) and (ii) of this section for becoming newly eligible for cost-sharing reductions, and paragraphs (d)(8), (9), (10), (12), and (14) of this section:
 
 (A) If an enrollee qualifies for a special enrollment period, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter; or
 
@@ -36,6 +34,8 @@ Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (v) If an enrollee or his or her dependent dies as described in paragraph (d)(2)(ii) of this section, the Exchange must ensure that coverage is effective on the first day of the month following the plan selection, or it may permit the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section. If the Exchange permits the enrollee or his or her dependent to elect a coverage effective date in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the enrollee or his or her dependent.
 
+(vi) If a qualified individual, enrollee, or dependent newly gains access to an individual coverage HRA or is newly provided a QSEHRA, each as described in paragraph (d)(14) of this section, and if the plan selection is made before the day of the triggering event, the Exchange must ensure that coverage is effective on the first day of the month following the date of the triggering event or, if the triggering event is on the first day of a month, on the date of the triggering event. If the plan selection is made on or after the day of the triggering event, the Exchange must ensure that coverage is effective on the first day of the month following plan selection.
+
 (3) *Option for earlier effective dates.* Subject to the Exchange demonstrating to HHS that all of its participating QHP issuers agree to effectuate coverage in a timeframe shorter than discussed in paragraph (b)(1) or (b)(2)(ii) of this section, the Exchange may do one or both of the following for all applicable individuals:
 
 (i) For a QHP selection received by the Exchange from a qualified individual in accordance with the dates specified in paragraph (b)(1) or (b)(2)(ii) of this section, the Exchange may provide a coverage effective date for a qualified individual earlier than specified in such paragraphs.
@@ -50,7 +50,9 @@ Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (2) *Advanced availability.* A qualified individual or his or her dependent who is described in paragraph (d)(1) or (d)(6)(iii) of this section has 60 days before or after the triggering event to select a QHP. At the option of the Exchange, a qualified individual or his or her dependent who is described in paragraph (d)(7) of this section; who is described in paragraph (d)(6)(iv) of this section and becomes newly eligible for advance payments of the premium tax credit as a result of a permanent move to a new State; or who is described in paragraph (d)(3) of this section and becomes newly eligible for enrollment in a QHP through the Exchange because he or she newly satisfies the requirements under § 155.305(a)(2), has 60 days before or after the triggering event to select a QHP.
 
-(3) *Special rule.* In the case of a qualified individual or enrollee who is eligible for a special enrollment period as described in paragraphs (d)(4), (5), or (9) of this section, the Exchange may define the length of the special enrollment period as appropriate based on the circumstances of the special enrollment period, but in no event may the length of the special enrollment period exceed 60 days.
+(3) *Advanced availability for individuals with an individual coverage HRA or QSEHRA.* A qualified individual, enrollee, or his or her dependent who is described in paragraph (d)(14) of this section has 60 days before the triggering event to select a QHP, unless the HRA or QSEHRA was not required to provide the notice setting forth its terms to such individual or enrollee at least 90 days before the beginning of the plan year, as specified in 45 CFR 146.123(c)(6), 26 CFR 54.9802-4(c)(6), and 29 CFR 2590.702-2(c)(6) or section 9831(d)(4) of the Internal Revenue Code, as applicable, in which case the qualified individual, enrollee, or his or her dependent has 60 days before or after the triggering event to select a QHP.
+
+(4) *Special rule.* In the case of a qualified individual or enrollee who is eligible for a special enrollment period as described in paragraphs (d)(4), (5), or (9) of this section, the Exchange may define the length of the special enrollment period as appropriate based on the circumstances of the special enrollment period, but in no event may the length of the special enrollment period exceed 60 days.
 
 (d) *Triggering events.* Subject to paragraphs (a)(3) through (5) of this section, as applicable, the Exchange must allow a qualified individual or enrollee, and, when specified below, his or her dependent, to enroll in or change from one QHP to another if one of the triggering events occur:
 
@@ -120,9 +122,11 @@ Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (ii) Applies for coverage at the State Medicaid or CHIP agency during the annual open enrollment period, and is determined ineligible for Medicaid or CHIP after open enrollment has ended;
 
-(12) The qualified individual or enrollee, or his or her dependent, adequately demonstrates to the Exchange that a material error related to plan benefits, service area, or premium influenced the qualified individual's or enrollee's decision to purchase a QHP through the Exchange; or
+(12) The qualified individual or enrollee, or his or her dependent, adequately demonstrates to the Exchange that a material error related to plan benefits, service area, or premium influenced the qualified individual's or enrollee's decision to purchase a QHP through the Exchange;
 
-(13) At the option of the Exchange, the qualified individual provides satisfactory documentary evidence to verify his or her eligibility for an insurance affordability program or enrollment in a QHP through the Exchange following termination of Exchange enrollment due to a failure to verify such status within the time period specified in § 155.315 or is under 100 percent of the Federal poverty level and did not enroll in coverage while waiting for HHS to verify his or her citizenship, status as a national, or lawful presence.
+(13) At the option of the Exchange, the qualified individual provides satisfactory documentary evidence to verify his or her eligibility for an insurance affordability program or enrollment in a QHP through the Exchange following termination of Exchange enrollment due to a failure to verify such status within the time period specified in § 155.315 or is under 100 percent of the Federal poverty level and did not enroll in coverage while waiting for HHS to verify his or her citizenship, status as a national, or lawful presence; or
+
+(14) The qualified individual, enrollee, or dependent newly gains access to an individual coverage HRA (as defined in 45 CFR 146.123(b)) or is newly provided a qualified small employer health reimbursement arrangement (QSEHRA) (as defined in section 9831(d)(2) of the Internal Revenue Code). The triggering event is the first day on which coverage for the qualified individual, enrollee, or dependent under the individual coverage HRA can take effect, or the first day on which coverage under the QSEHRA takes effect. An individual, enrollee, or dependent will qualify for this special enrollment period regardless of whether they were previously offered or enrolled in an individual coverage HRA or previously provided a QSEHRA, so long as the individual, enrollee, or dependent is not enrolled in the individual coverage HRA or covered by the QSEHRA on the day immediately prior to the triggering event.
 
 (e) *Loss of coverage.* Loss of coverage described in paragraph (d)(1) of this section includes those circumstances described in 26 CFR 54.9801-6(a)(3)(i) through (iii) and in paragraphs (d)(1)(ii) through (iv) of this section. Loss of coverage does not include voluntary termination of coverage or other loss due to -
 
@@ -130,4 +134,4 @@ Link to an amendment published at 84 FR 29027, June 20, 2019.
 
 (2) Situations allowing for a rescission as specified in 45 CFR 147.128.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019; 84 FR 29027, June 20, 2019]

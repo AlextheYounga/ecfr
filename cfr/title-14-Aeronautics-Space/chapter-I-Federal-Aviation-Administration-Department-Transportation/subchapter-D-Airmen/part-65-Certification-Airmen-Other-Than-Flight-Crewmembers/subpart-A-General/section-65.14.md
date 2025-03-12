@@ -1,5 +1,7 @@
 ##### § 65.14 Security disqualification. #####
 
+Link to an amendment published at 84 FR 42804, Aug. 19, 2019.
+
 (a) *Eligibility standard.* No person is eligible to hold a certificate, rating, or authorization issued under this part when the Transportation Security Administration (TSA) has notified the FAA in writing that the person poses a security threat.
 
 (b) *Effect of the issuance by the TSA of an Initial Notification of Threat Assessment.* (1) The FAA will hold in abeyance pending the outcome of the TSA's final threat assessment review an application for any certificate, rating, or authorization under this part by any person who has been issued an Initial Notification of Threat Assessment by the TSA.

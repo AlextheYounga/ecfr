@@ -16,4 +16,4 @@
 
 (f) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of persons.
 
-[79 FR 67081, Nov. 12, 2014, as amended at 82 FR 27434, June 15, 2017; 83 FR 2073, Jan. 16, 2018; 84 FR 1404, Feb. 4, 2019]
+[79 FR 67081, Nov. 12, 2014, as amended at 84 FR 1404, Feb. 4, 2019]

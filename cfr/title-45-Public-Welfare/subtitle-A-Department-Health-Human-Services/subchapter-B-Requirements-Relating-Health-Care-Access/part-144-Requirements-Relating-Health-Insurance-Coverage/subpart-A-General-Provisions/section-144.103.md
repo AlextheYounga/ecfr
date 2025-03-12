@@ -1,7 +1,5 @@
 ##### § 144.103 Definitions. #####
 
-Link to an amendment published at 84 FR 29014, June 20, 2019.
-
 For purposes of parts 146 (group market), 147 (group and individual market), 148 (individual market), and 150 (enforcement) of this subchapter, the following definitions apply unless otherwise provided:
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -88,7 +86,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Governmental plan* means a governmental plan within the meaning of section 3(32) of ERISA.
 
-*Group health insurance* coverage means health insurance coverage offered in connection with a group health plan.
+*Group health insurance coverage* means health insurance coverage offered in connection with a group health plan. Individual health insurance coverage reimbursed by the arrangements described in 29 CFR 2510.3-1(l) is not offered in connection with a group health plan, and is not group health insurance coverage, provided all the conditions in 29 CFR 2510.3-1(l) are satisfied.
 
 *Group health plan* or *plan* means a group health plan within the meaning of 45 CFR 146.145(a).
 
@@ -222,4 +220,4 @@ This coverage is not required to comply with certain federal market requirements
 
 *Waiting period* has the meaning given the term in 45 CFR 147.116(b).
 
-[69 FR 78781, Dec. 30, 2004, as amended at 74 FR 51688, Oct. 7, 2009; 75 FR 27138, May 13, 2010; 75 FR 37235, June 28, 2010; 77 FR 16468, Mar. 21, 2012; 78 FR 65091, Oct. 30, 2013; 79 FR 10313, Feb. 24, 2014; 79 FR 13833, Mar. 11, 2014; 79 FR 14151, Mar. 12, 2014; 79 FR 30335, May 27, 2014; 80 FR 10861, Feb. 27, 2015; 80 FR 72274, Nov. 18, 2015; 81 FR 12333, Mar. 8, 2016; 81 FR 75326, Oct. 31, 2016; 81 FR 94172, Dec. 22, 2016; 83 FR 38243, Aug. 3, 2018]
+[69 FR 78781, Dec. 30, 2004, as amended at 74 FR 51688, Oct. 7, 2009; 75 FR 27138, May 13, 2010; 75 FR 37235, June 28, 2010; 77 FR 16468, Mar. 21, 2012; 78 FR 65091, Oct. 30, 2013; 79 FR 10313, Feb. 24, 2014; 79 FR 13833, Mar. 11, 2014; 79 FR 14151, Mar. 12, 2014; 79 FR 30335, May 27, 2014; 80 FR 10861, Feb. 27, 2015; 80 FR 72274, Nov. 18, 2015; 81 FR 12333, Mar. 8, 2016; 81 FR 75326, Oct. 31, 2016; 81 FR 94172, Dec. 22, 2016; 83 FR 38243, Aug. 3, 2018; 84 FR 29014, June 20, 2019]
