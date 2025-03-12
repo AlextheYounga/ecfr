@@ -1,5 +1,7 @@
 ##### § 708a.101 Definitions. #####
 
+Link to an amendment published at 87 FR 45009, July 27, 2022.
+
 As used in this part:
 
 *Clear and conspicuous* means text in bold type in a font size at least one size larger than any other text used in the document (exclusive of headings), but in no event smaller than 12 point.

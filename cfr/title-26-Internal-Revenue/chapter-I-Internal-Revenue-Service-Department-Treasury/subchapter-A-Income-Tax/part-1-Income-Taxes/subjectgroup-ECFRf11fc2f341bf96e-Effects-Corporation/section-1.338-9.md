@@ -2,17 +2,17 @@
 
 (a) *Scope.* This section provides guidance regarding international aspects of section 338. As provided in § 1.338-2(c)(18), a foreign corporation, a DISC, or a corporation for which a section 936 election has been made is considered a target affiliate for all purposes of section 338. In addition, stock described in section 338(h)(6)(B)(ii) held by a target affiliate is not excluded from the operation of section 338.
 
-(b) *Application of section 338 to foreign targets* - (1) *In general.* For purposes of subtitle A, the deemed sale tax consequences, as defined in § 1.338-2(c)(7), of a foreign target for which a section 338 election is made (FT), and the corresponding earnings and profits, are taken into account in determining the taxation of FT and FT's direct and indirect shareholders. See, however, section 338(h)(16). For example, the income and earnings and profits of FT are determined, for purposes of sections 551, 951, 1248, and 1293, by taking into account the deemed sale tax sentence consequences.
+(b) *Application of section 338 to foreign targets*—(1) *In general.* For purposes of subtitle A, the deemed sale tax consequences, as defined in § 1.338-2(c)(7), of a foreign target for which a section 338 election is made (FT), and the corresponding earnings and profits, are taken into account in determining the taxation of FT and FT's direct and indirect shareholders. See, however, section 338(h)(16). For example, the income and earnings and profits of FT are determined, for purposes of sections 551, 951, 1248, and 1293, by taking into account the deemed sale tax sentence consequences.
 
 (2) *Ownership of FT stock on the acquisition date.* A person who transfers FT stock to the purchasing corporation on FT's acquisition date is considered to own the transferred stock at the close of FT's acquisition date. See, e.g., § 1.951-1(f) (relating to determination of holding period for purposes of sections 951 through 964). If on the acquisition date the purchasing corporation owns a block of FT stock that was acquired before FT's acquisition date, the purchasing corporation is considered to own such block of stock at the close of the acquisition date.
 
-(3) *Carryover FT stock* - (i) *Definition.* FT stock is carryover FT stock if -
+(3) *Carryover FT stock*—(i) *Definition.* FT stock is carryover FT stock if—
 
 (A) FT was a controlled foreign corporation within the meaning of section 957 (taking into account section 953(c)) at any time during the portion of the 12-month acquisition period that ends on the acquisition date; and
 
 (B) Such stock is owned as of the beginning of the day after FT's acquisition date by a person other than a purchasing corporation, or by a purchasing corporation if the stock is nonrecently purchased and is not subject to a gain recognition election under § 1.338-5(d).
 
-(ii) *Carryover of earnings and profits.* The earnings and profits of old FT (and associated foreign taxes) attributable to the carryover FT stock (adjusted to reflect deemed sale tax sentence consequences) carry over to new FT solely for purposes of -
+(ii) *Carryover of earnings and profits.* The earnings and profits of old FT (and associated foreign taxes) attributable to the carryover FT stock (adjusted to reflect deemed sale tax sentence consequences) carry over to new FT solely for purposes of—
 
 (A) Characterizing an actual distribution with respect to a share of carryover FT stock as a dividend;
 
@@ -22,7 +22,7 @@
 
 (D) Determining foreign taxes deemed paid under sections 902 and 960 with respect to the amount treated as a dividend or income by virtue of this paragraph (b)(3)(ii) (subject to the operation of section 338(h)(16)).
 
-(iii) *Cap on carryover of earnings and profits.* The amount of earnings and profits of old FT taken into account with respect to a share of carryover FT stock is limited to the amount that would have been included in gross income of the owner of such stock as a dividend under section 1248 if -
+(iii) *Cap on carryover of earnings and profits.* The amount of earnings and profits of old FT taken into account with respect to a share of carryover FT stock is limited to the amount that would have been included in gross income of the owner of such stock as a dividend under section 1248 if—
 
 (A) The shareholder transferred that share to the purchasing corporation on FT's acquisition date for a consideration equal to the fair market value of that share on that date; or
 
@@ -38,7 +38,7 @@
 
 (c) *Dividend treatment under section 1248(e).* The principles of this paragraph (b) apply to shareholders of a domestic corporation subject to section 1248(e).
 
-(d) *Allocation of foreign income taxes* - (1) *In general.* Except as provided in paragraph (d)(3) of this section, if a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income tax as defined in § 1.901-2(a)(1)) (other than a withholding tax as defined in section 901(k)(1)(B)) paid or accrued by new target with respect to such foreign taxable year is allocated between old target and new target. If there is more than one section 338 election with respect to target during target's foreign taxable year, foreign income tax paid or accrued with respect to that foreign taxable year is allocated among all old targets and new targets. The allocation is made based on the respective portions of the taxable income (as determined under foreign law) for the foreign taxable year that are attributable under the principles of § 1.1502-76(b) to the period of existence of each old target and new target during the foreign taxable year.
+(d) *Allocation of foreign income taxes*—(1) *In general.* Except as provided in paragraph (d)(3) of this section, if a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income tax as defined in § 1.901-2(a)) (other than a withholding tax as defined in section 901(k)(1)(B)) paid or accrued by new target with respect to such foreign taxable year is allocated between old target and new target. If there is more than one section 338 election with respect to target during target's foreign taxable year, foreign income tax paid or accrued with respect to that foreign taxable year is allocated among all old targets and new targets. The allocation is made based on the respective portions of the taxable income (as determined under foreign law) for the foreign taxable year that are attributable under the principles of § 1.1502-76(b) to the period of existence of each old target and new target during the foreign taxable year.
 
 (2) *Foreign income taxes imposed on partnerships and disregarded entities.* If a section 338 election is made for target and target holds an interest in a disregarded entity (as described in § 301.7701-2(c)(2)(i) of this chapter) or partnership, the rules of § 1.901-2(f)(4) and (5) apply to determine the person who is considered for Federal income tax purposes to pay foreign income tax imposed at the entity level on the income of the disregarded entity or partnership.
 
@@ -73,7 +73,7 @@ Example 3. Sale of controlled foreign corporation stock prior to and on the acqu
 Example 4. Acquisition of control for purposes of section 951 prior to the acquisition date.FS owns 100% of the FT stock. On July 1, 1994, P buys 60% of the FT stock. On December 31, 1994, P buys the remaining 40% of the FT stock and makes a section 338 election for FT. For tax year 1994, FT has earnings and profits of $1,000 (including earnings resulting from the deemed sale). The section 338 election results in $500 of subpart F income. As a result of the section 338 election, P must include in gross income the following amount under section 951(a)(1)(A) (see § 1.951-(b)(2)):
 
 |                                                            FT's subpart F income for 1994                                                            |$500.00|
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------:|
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 |Less: reduction under section 951(a)(2)(A) for period (1-1-94 through 7-1-94) during which FT is not a controlled foreign corporation ($500 × 182/365)|249.32 |
 |                                                 Subpart F income as limited by section 951 (a)(2)(A)                                                 |250.68 |
 |                            P's pro rata share of subpart F income as determined under section 951(a)(2)(A) (60% × 250.68)                            |150.41 |
@@ -84,4 +84,4 @@ Example 5. Coordination with section 936.(a) T is a corporation for which a sect
 
 (c) Because new T is treated a new corporation for purposes of subtitle A of the Internal Revenue Code, the three year testing period in section 936(a)(2)(A) begins again for new T on the day following T's acquisition date. Thus, if the character or source of old T's gross income disqualified it for the credit under section 936, a fresh start is allowed by a section 338 election.
 
-[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001; T.D. 9959, 87 FR 324, Jan. 4, 2022]
+[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001; T.D. 9959, 87 FR 324, Jan. 4, 2022; 87 FR 45019, July 27, 2022]

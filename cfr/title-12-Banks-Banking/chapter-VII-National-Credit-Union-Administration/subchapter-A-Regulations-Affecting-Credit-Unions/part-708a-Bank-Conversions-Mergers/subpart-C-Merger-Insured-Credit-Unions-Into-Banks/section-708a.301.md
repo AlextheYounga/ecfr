@@ -1,5 +1,7 @@
 ##### § 708a.301 Definitions. #####
 
+Link to an amendment published at 87 FR 45010, July 27, 2022.
+
 As used in this part:
 
 *Bank* has the same meaning as in section 3(a) of the Federal Deposit Insurance Act, 12 U.S.C. 1813(a).

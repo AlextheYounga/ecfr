@@ -1,5 +1,7 @@
 ##### § 708b.2 Definitions. #####
 
+Link to an amendment published at 87 FR 45010, July 27, 2022.
+
 As used in this part:
 
 *Conducted by an independent entity* means:

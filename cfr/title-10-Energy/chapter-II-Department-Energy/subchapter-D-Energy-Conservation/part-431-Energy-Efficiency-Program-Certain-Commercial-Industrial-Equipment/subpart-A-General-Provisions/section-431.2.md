@@ -1,5 +1,7 @@
 ##### § 431.2 Definitions. #####
 
+Link to an amendment published at 87 FR 45197, July 27, 2022.
+
 The following definitions apply for purposes of this part. Any words or terms not defined in this Section or elsewhere in this part shall be defined as provided in Section 340 of the Act.
 
 *Act* means the Energy Policy and Conservation Act of 1975, as amended, 42 U.S.C. 6291-6316.

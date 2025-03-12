@@ -1,5 +1,7 @@
 ##### § 701.14 Change in official or senior executive officer in credit unions that are newly chartered or are in troubled condition. #####
 
+Link to an amendment published at 87 FR 45009, July 27, 2022.
+
 (a) *Statement of scope and purpose.* Section 212 of the Federal Credit Union Act (12 U.S.C. 1790a) sets forth conditions under which a credit union must notify NCUA in writing of any proposed changes in its board of directors, committee members or senior executive staff. The regulation only applies in cases of newly chartered credit unions and credit unions in troubled condition.
 
 (b) *Definitions.* For the purposes of this section:

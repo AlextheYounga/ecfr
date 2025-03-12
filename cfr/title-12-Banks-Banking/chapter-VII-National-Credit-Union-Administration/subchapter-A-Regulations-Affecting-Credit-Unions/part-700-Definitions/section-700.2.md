@@ -1,5 +1,7 @@
 ##### § 700.2 Definitions. #####
 
+Link to an amendment published at 87 FR 45009, July 27, 2022.
+
 As used in this chapter:
 
 *Act* means the Federal Credit Union Act (12 U.S.C. 1751, *et seq.*).

@@ -1,5 +1,7 @@
 ##### § 702.306 Annual supervisory stress testing. #####
 
+Link to an amendment published at 87 FR 45009, July 27, 2022.
+
 (a) *General requirements.* Only tier II and tier III credit unions are required to conduct supervisory stress tests. The supervisory stress tests consist of a baseline scenario, and stress scenarios, which NCUA will provide by February 28 of each year. The tests will be based on the credit union's financial data as of December 31 of the preceding calendar year, or such other date as directed by NCUA. The tests will take into account all relevant exposures and activities of the credit union to evaluate its ability to absorb losses in specified scenarios over a planning horizon.
 
 (b) *Credit union-run supervisory stress tests* - (1) *General.* All supervisory stress tests must be conducted according to NCUA's instructions.

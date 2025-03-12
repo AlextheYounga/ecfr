@@ -1,5 +1,7 @@
 ##### § 790.2 Central and field office organization. #####
 
+Link to an amendment published at 87 FR 45010, July 27, 2022.
+
 (a) *General organization.* NCUA is composed of the Board with a Central Office in Alexandria, Virginia, five Regional Offices, the Asset Management and Assistance Center, the Community Development Revolving Loan Program, and the NCUA Central Liquidity Facility (CLF).
 
 (b) *Central Office.* The Central Office address is NCUA, 1775 Duke St., Alexandria, Virginia 22314-3428.
