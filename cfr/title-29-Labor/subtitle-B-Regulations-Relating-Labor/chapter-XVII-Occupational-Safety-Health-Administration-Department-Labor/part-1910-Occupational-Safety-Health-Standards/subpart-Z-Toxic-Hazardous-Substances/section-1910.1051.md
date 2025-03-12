@@ -42,11 +42,11 @@
 
 *This section* means this 1,3-butadiene standard.
 
-(c) *Permissible exposure limits (PELs)* - (1) *Time-weighted average (TWA) limit.* The employer shall ensure that no employee is exposed to an airborne concentration of BD in excess of one (1) part BD per million parts of air (ppm) measured as an eight (8)-hour time-weighted average.
+(c) *Permissible exposure limits (PELs)*—(1) *Time-weighted average (TWA) limit.* The employer shall ensure that no employee is exposed to an airborne concentration of BD in excess of one (1) part BD per million parts of air (ppm) measured as an eight (8)-hour time-weighted average.
 
 (2) *Short-term exposure limit (STEL).* The employer shall ensure that no employee is exposed to an airborne concentration of BD in excess of five parts of BD per million parts of air (5 ppm) as determined over a sampling period of fifteen (15) minutes.
 
-(d) *Exposure monitoring* - (1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 15-minute short-term exposures of each employee.
+(d) *Exposure monitoring*—(1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 15-minute short-term exposures of each employee.
 
 (ii) Representative 8-hour TWA employee exposure shall be determined on the basis of one or more samples representing full-shift exposure for each shift and for each job classification in each work area.
 
@@ -80,7 +80,7 @@
 
 (ii) The employer shall, within 15 business days after receipt of any monitoring performed under this section indicating the 8-hour TWA or STEL has been exceeded, provide the affected employees, in writing, with information on the corrective action being taken by the employer to reduce employee exposure to or below the 8-hour TWA or STEL and the schedule for completion of this action.
 
-(8) *Observation of monitoring* - (i) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to BD conducted in accordance with paragraph (d) of this section.
+(8) *Observation of monitoring*—(i) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to BD conducted in accordance with paragraph (d) of this section.
 
 (ii) *Observation procedures.* When observation of the monitoring of employee exposure to BD requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer at no cost with protective clothing and equipment, and shall ensure that the observer uses this equipment and complies with all other applicable safety and health procedures.
 
@@ -92,7 +92,7 @@
 
 (4) An employer at a multi-employer worksite who establishes a regulated area shall communicate the access restrictions and locations of these areas to other employers with work operations at that worksite whose employees may have access to these areas.
 
-(f) *Methods of compliance* - (1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to or below the PELs, except to the extent that the employer can establish that these controls are not feasible or where paragraph (h)(1)(i) of this section applies.
+(f) *Methods of compliance*—(1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to or below the PELs, except to the extent that the employer can establish that these controls are not feasible or where paragraph (h)(1)(i) of this section applies.
 
 (ii) Wherever the feasible engineering controls and work practices which can be instituted are not sufficient to reduce employee exposure to or below the 8-hour TWA or STEL, the employer shall use them to reduce employee exposure to the lowest levels achievable by these controls and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (h) of this section.
 
@@ -126,7 +126,7 @@
 
 (vi) A program to maintain BD concentration below the action level in control rooms by use of engineering controls.
 
-(h) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(h) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -154,24 +154,21 @@
 
 (3) *Respirator selection.* (i) The employer must select appropriate respirators from Table 1 of this section.
 
-Table 1 - Minimum Requirements for Respiratory Protection for Airborne BD
-
-|   Concentration of airborne BD (ppm) or condition of use   |                                                                                                                    Minimum required respirator                                                                                                                    |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|         Less than or equal to 5 ppm (5 times PEL)          |                                       (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 4 hours.                                       |
-|        Less than or equal to 10 ppm (10 times PEL)         |                                       (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 3 hours.                                       |
-|        Less than or equal to 25 ppm (25 times PEL)         |                                             (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 2 hours.                                              |
-|                                                            |                                                         (b) Any powered air-purifying respirator equipped with approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every 2 hours.                                                          |
-|                                                            |                                                                                            (c) Continuous flow supplied air respirator equipped with a hood or helmet.                                                                                            |
-|        Less than or equal to 50 ppm (50 times PEL)         |                                             (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every (1) hour.                                             |
-|                                                            |                                          (b) Powered air-purifying respirator equipped with a tight-fitting facepiece and an approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every (1) hour.                                           |
-|     Less than or equal to 1,000 ppm (1,000 times PEL)      |                                                            (a) Supplied air respirator equipped with a half mask of full facepiece and operated in a pressure demand or other positive pressure mode.                                                             |
-|Greater than 1000 ppm unknown concentration, or firefighting|                                                             (a) Self-contained breathing apparatus equipped with a full facepiece and operated in a pressure demand or other positive pressure mode.                                                              |
-|                                                            |(b) Any supplied air respirator equipped with a full facepiece and operated in a pressure demand or other positive pressure mode in combination with an auxiliary self-contained breathing apparatus operated in a pressure demand or other positive pressure mode.|
-|                Escape from IDLH conditions                 |                                                                                  (a) Any positive pressure self-contained breathing apparatus with an appropriate service life.                                                                                   |
-|                                                            |                                                                         (b) A air-purifying full facepiece respirator equipped with a front or back mounted BD or organic vapor canister.                                                                         |
-
-Notes: Respirators approved for use in higher concentrations are permitted to be used in lower concentrations. Full facepiece is required when eye irritation is anticipated.
+|                                                             Concentration of airborne BD (ppm) or condition of use                                                              |                                                                                                                    Minimum required respirator                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                    Less than or equal to 5 ppm (5 times PEL)                                                                    |                                       (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 4 hours.                                       |
+|                                                                   Less than or equal to 10 ppm (10 times PEL)                                                                   |                                       (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 3 hours.                                       |
+|                                                                   Less than or equal to 25 ppm (25 times PEL)                                                                   |                                             (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 2 hours.                                              |
+|                                                                                                                                                                                 |                                                         (b) Any powered air-purifying respirator equipped with approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every 2 hours.                                                          |
+|                                                                                                                                                                                 |                                                                                            (c) Continuous flow supplied air respirator equipped with a hood or helmet.                                                                                            |
+|                                                                   Less than or equal to 50 ppm (50 times PEL)                                                                   |                                             (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every (1) hour.                                             |
+|                                                                                                                                                                                 |                                          (b) Powered air-purifying respirator equipped with a tight-fitting facepiece and an approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every (1) hour.                                           |
+|                                                                Less than or equal to 1,000 ppm (1,000 times PEL)                                                                |                                                            (a) Supplied air respirator equipped with a half mask of full facepiece and operated in a pressure demand or other positive pressure mode.                                                             |
+|                                                          Greater than 1000 ppm unknown concentration, or firefighting                                                           |                                                             (a) Self-contained breathing apparatus equipped with a full facepiece and operated in a pressure demand or other positive pressure mode.                                                              |
+|                                                                                                                                                                                 |(b) Any supplied air respirator equipped with a full facepiece and operated in a pressure demand or other positive pressure mode in combination with an auxiliary self-contained breathing apparatus operated in a pressure demand or other positive pressure mode.|
+|                                                                           Escape from IDLH conditions                                                                           |                                                                                  (a) Any positive pressure self-contained breathing apparatus with an appropriate service life.                                                                                   |
+|                                                                                                                                                                                 |                                                                         (b) A air-purifying full facepiece respirator equipped with a front or back mounted BD or organic vapor canister.                                                                         |
+|**Notes:** Respirators approved for use in higher concentrations are permitted to be used in lower concentrations. Full facepiece is required when eye irritation is anticipated.|                                                                                                                                                                                                                                                                   |
 
 (ii) Air-purifying respirators must have filter elements approved by NIOSH for organic vapors or BD.
 
@@ -181,7 +178,7 @@ Notes: Respirators approved for use in higher concentrations are permitted to be
 
 (j) *Emergency situations. Written plan.* A written plan for emergency situations shall be developed, or an existing plan shall be modified, to contain the applicable elements specified in 29 CFR 1910.38 and 29 CFR 1910.39, “Emergency action plans” and “Fire prevention plans,” respectively, and in 29 CFR 1910.120, “Hazardous Waste Operations and Emergency Response,” for each workplace where there is the possibility of an emergency.
 
-(k) *Medical screening and surveillance* - (1) *Employees covered.* The employer shall institute a medical screening and surveillance program as specified in this paragraph for:
+(k) *Medical screening and surveillance*—(1) *Employees covered.* The employer shall institute a medical screening and surveillance program as specified in this paragraph for:
 
 (i) Each employee with exposure to BD at concentrations at or above the action level on 30 or more days or for employees who have or may have exposure to BD at or above the PELs on 10 or more days a year;
 
@@ -269,7 +266,7 @@ However, this provision does not negate the ethical obligation of the physician 
 
 (ii) Information learned from medical surveillance activities must be disseminated to covered employees, as defined in paragraph (k)(1) of this section, in a manner that ensures the confidentiality of individual medical information.
 
-(l) *Communication of BD hazards to employees* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for BD.
+(l) *Communication of BD hazards to employees*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for BD.
 
 (ii) In classifying the hazards of BD at least the following hazards are to be addressed: Cancer; eye and respiratory tract irritation; central nervous system effects; and flammability.
 
@@ -305,7 +302,7 @@ However, this provision does not negate the ethical obligation of the physician 
 
 (ii) The employer shall provide to the Assistant Secretary or the Director, or the designated employee representatives, upon request, all materials relating to the employee information and the training program.
 
-(m) *Recordkeeping* - (1) *Objective data for exemption from initial monitoring.* (i) Where the processing, use, or handling of products or streams made from or containing BD are exempted from other requirements of this section under paragraph (a)(2) of this section, or where objective data have been relied on in lieu of initial monitoring under paragraph (d)(2)(ii) of this section, the employer shall establish and maintain a record of the objective data reasonably relied upon in support of the exemption.
+(m) *Recordkeeping*—(1) *Objective data for exemption from initial monitoring.* (i) Where the processing, use, or handling of products or streams made from or containing BD are exempted from other requirements of this section under paragraph (a)(2) of this section, or where objective data have been relied on in lieu of initial monitoring under paragraph (d)(2)(ii) of this section, the employer shall establish and maintain a record of the objective data reasonably relied upon in support of the exemption.
 
 (ii) This record shall include at least the following information:
 
@@ -335,7 +332,7 @@ However, this provision does not negate the ethical obligation of the physician 
 
 (E) Type of protective devices worn, if any; and
 
-(F) Name, social security number and exposure of the employees whose exposures are represented.
+(F) Name and exposure of the employees whose exposures are represented.
 
 (G) The written corrective action and the schedule for completion of this action required by paragraph (d)(7)(ii) of this section.
 
@@ -347,7 +344,7 @@ However, this provision does not negate the ethical obligation of the physician 
 
 (ii) The record shall include at least the following information:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) Physician's or other licensed health care professional's written opinions as described in paragraph (k)(7) of this section;
 
@@ -369,7 +366,7 @@ However, this provision does not negate the ethical obligation of the physician 
 
 (2) Appendices A, B, C, D, and F to this section are informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
-Appendix A to § 1910.1051 - Substance Safety Data Sheet For 1,3-Butadiene (Non-Mandatory)I. Substance Identification
+Appendix A to § 1910.1051—Substance Safety Data Sheet For 1,3-Butadiene (Non-Mandatory)I. Substance Identification
 
 A. Substance: 1,3-Butadiene (CH2 = CH-CH = CH2).
 
@@ -459,7 +456,7 @@ C. Your employer is required to keep records of your exposures and medical exami
 
 D. Your employer is required to release your exposure and medical records to you or your representative upon your request.
 
-Appendix B to § 1910.1051 - Substance Technical Guidelines for 1,3-Butadiene (Non-Mandatory)I. Physical and Chemical Data
+Appendix B to § 1910.1051—Substance Technical Guidelines for 1,3-Butadiene (Non-Mandatory)I. Physical and Chemical Data
 
 A. Substance identification:
 
@@ -547,19 +544,15 @@ A. Exposure above the Permissible Exposure Limit (8-hr TWA) or Short-Term Exposu
 
 3. Monitoring frequencies: Table 1 gives various exposure scenarios and their required monitoring frequencies, as required by the final standard for occupational exposure to butadiene.
 
-Table 1 - Five Exposure Scenarios and Their Associated Monitoring Frequencies
-
-|Action level|8-hr TWA|STEL|                                               Required monitoring activity                                               |
-|------------|--------|----|--------------------------------------------------------------------------------------------------------------------------|
-|    −\*     |   −    | −  |                                         No 8-hr TWA or STEL monitoring required.                                         |
-|    \+ \*   |   −    | −  |                                 No STEL monitoring required. Monitor 8-hr TWA annually.                                  |
-|     \+     |   \+   | −  |              No STEL monitoring required. Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii).\*\*               |
-|     \+     |   \+   | \+ |Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii)\*\*. Periodic monitoring STEL, in accordance with (d)(3)(iii).|
-|     \+     |   −    | \+ |                  Periodic monitoring STEL, in accordance with (d)(3)(iii). Monitor 8-hr TWA, annually.                   |
-
-\* Exposure Scenario, Limit Exceeded: + = Yes, −= No.
-
-\*\* The employer may decrease the frequency of exposure monitoring to annually when at least 2 consecutive measurements taken at least 7 days apart show exposures to be below the 8 hr TWA, but at or above the action level.
+|                                                                                                         Action level                                                                                                          |8-hr TWA|STEL|                                               Required monitoring activity                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----|--------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                              −\*                                                                                                              |   −    | −  |                                         No 8-hr TWA or STEL monitoring required.                                         |
+|                                                                                                             \+ \*                                                                                                             |   −    | −  |                                 No STEL monitoring required. Monitor 8-hr TWA annually.                                  |
+|                                                                                                              \+                                                                                                               |   \+   | −  |              No STEL monitoring required. Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii).\*\*               |
+|                                                                                                              \+                                                                                                               |   \+   | \+ |Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii)\*\*. Periodic monitoring STEL, in accordance with (d)(3)(iii).|
+|                                                                                                              \+                                                                                                               |   −    | \+ |                  Periodic monitoring STEL, in accordance with (d)(3)(iii). Monitor 8-hr TWA, annually.                   |
+|                                                                                     \* Exposure Scenario, Limit Exceeded: + = Yes, −= No.                                                                                     |        |    |                                                                                                                          |
+|\*\* The employer may decrease the frequency of exposure monitoring to annually when at least 2 consecutive measurements taken at least 7 days apart show exposures to be below the 8 hr TWA, but at or above the action level.|        |    |                                                                                                                          |
 
 4. Monitoring techniques: appendix D describes the validated method of sampling and analysis which has been tested by OSHA for use with BD. The employer has the obligation of selecting a monitoring method which meets the accuracy and precision requirements of the standard under his or her unique field conditions. The standard requires that the method of monitoring must be accurate, to a 95 percent confidence level, to plus or minus 25 percent for concentrations of BD at or above 1 ppm, and to plus or minus 35 percent for concentrations below 1 ppm.
 
@@ -589,7 +582,7 @@ C. Do not incinerate BD cartridges, tanks or other containers.
 
 D. Employers must advise employees of all areas and operations where exposure to BD might occur.
 
-Appendix C to § 1910.1051 - Medical Screening and Surveillance for 1,3-Butadiene (Non-Mandatory)I. Basis for Medical Screening and Surveillance RequirementsA. Route of Entry InhalationB. Toxicology
+Appendix C to § 1910.1051—Medical Screening and Surveillance for 1,3-Butadiene (Non-Mandatory)I. Basis for Medical Screening and Surveillance RequirementsA. Route of Entry InhalationB. Toxicology
 
 Inhalation of BD has been linked to an increased risk of cancer, damage to the reproductive organs, and fetotoxicity. Butadiene can be converted via oxidation to epoxybutene and diepoxybutane, two genotoxic metabolites that may play a role in the expression of BD's toxic effects.
 
@@ -641,7 +634,7 @@ The need for physical examinations for workers concerned about adverse reproduct
 
 Physical examination of workers acutely exposed to significant levels of BD should be especially directed at the respiratory system, eyes, sinuses, skin, nervous system, and any region associated with particular complaints. If the worker has received a severe acute exposure, hospitalization may be required to assure proper medical management. Since this type of exposure may place workers at greater risk of blood abnormalities, a CBC must be obtained within 48 hours and repeated at one, two, and three months.
 
-Appendix D to § 1910.1051 - Sampling and Analytical Method for 1,3-Butadiene (Non-Mandatory)
+Appendix D to § 1910.1051—Sampling and Analytical Method for 1,3-Butadiene (Non-Mandatory)
 
 *OSHA Method No.:* 56.
 
@@ -945,4 +938,4 @@ The peak which elutes just before BD is a reaction product between an impurity o
 
 *5.3.* Hawley, G.C., Ed. “The Condensed Chemical Dictionary”, 8th ed.; Van Nostrand Rienhold Company: New York, 1971; 139.5.4. *Chem. Eng. News* (June 10, 1985), (63), 22-66.
 
-Appendix E to § 1910.1051 [Reserved]![](/graphics/er14my19.066.gif)![](/graphics/er14my19.067.gif)![](/graphics/er14my19.068.gif)![](/graphics/er14my19.069.gif)![](/graphics/er14my19.070.gif)![](/graphics/er14my19.071.gif)![](/graphics/er14my19.072.gif)![](/graphics/er14my19.073.gif)![](/graphics/er14my19.074.gif)![](/graphics/er14my19.075.gif)![](/graphics/er14my19.077.gif)![](/graphics/er14my19.078.gif)![](/graphics/er14my19.079.gif)![](/graphics/er14my19.080.gif)![](/graphics/er14my19.081.gif)![](/graphics/er14my19.082.gif)![](/graphics/er14my19.083.gif)[61 FR 56831, Nov. 4, 1996, as amended at 63 FR 1294, Jan. 8, 1998; 67 FR 67965, Nov. 7, 2002; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16674, Apr. 3, 2006; 73 FR 75587, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21527, May 14, 2019]
+Appendix E to § 1910.1051 [Reserved]Appendix F to § 1910.1051—Medical Questionnaires (Non-Mandatory)![](/graphics/er14my19.066.gif)![](/graphics/er14my19.067.gif)![](/graphics/er14my19.068.gif)![](/graphics/er14my19.069.gif)![](/graphics/er14my19.070.gif)![](/graphics/er14my19.071.gif)![](/graphics/er14my19.072.gif)![](/graphics/er14my19.073.gif)![](/graphics/er14my19.074.gif)![](/graphics/er14my19.075.gif)![](/graphics/er14my19.077.gif)![](/graphics/er14my19.078.gif)![](/graphics/er14my19.079.gif)![](/graphics/er14my19.080.gif)![](/graphics/er14my19.081.gif)![](/graphics/er14my19.082.gif)![](/graphics/er14my19.083.gif)[61 FR 56831, Nov. 4, 1996, as amended at 63 FR 1294, Jan. 8, 1998; 67 FR 67965, Nov. 7, 2002; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16674, Apr. 3, 2006; 73 FR 75587, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21527, May 14, 2019]

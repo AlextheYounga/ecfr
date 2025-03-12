@@ -18,11 +18,11 @@
 
 *Formaldehyde* means the chemical substance, HCHO, Chemical Abstracts Service Registry No. 50-00-0.
 
-(c) *Permissible Exposure Limit (PEL)* - (1) *TWA:* The employer shall assure that no employee is exposed to an airborne concentration of formaldehyde which exceeds 0.75 parts formaldehyde per million parts of air (0.75 ppm) as an 8-hour TWA.
+(c) *Permissible Exposure Limit (PEL)*—(1) *TWA:* The employer shall assure that no employee is exposed to an airborne concentration of formaldehyde which exceeds 0.75 parts formaldehyde per million parts of air (0.75 ppm) as an 8-hour TWA.
 
 (2) *Short Term Exposure Limit (STEL):* The employer shall assure that no employee is exposed to an airborne concentration of formaldehyde which exceeds two parts formaldehyde per million parts of air (2 ppm) as a 15-minute STEL.
 
-(d) *Exposure monitoring* - (1) *General.* (i) Each employer who has a workplace covered by this standard shall monitor employees to determine their exposure to formaldehyde.
+(d) *Exposure monitoring*—(1) *General.* (i) Each employer who has a workplace covered by this standard shall monitor employees to determine their exposure to formaldehyde.
 
 (ii) *Exception.* Where the employer documents, using objective data, that the presence of formaldehyde or formaldehyde-releasing products in the workplace cannot result in airborne concentrations of formaldehyde that would cause any employee to be exposed at or above the action level or the STEL under foreseeable conditions of use, the employer will not be required to measure employee exposure to formaldehyde.
 
@@ -54,7 +54,7 @@
 
 (ii) When observation of the monitoring of employee exposure to formaldehyde requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the clothing and equipment to the observer, require the observer to use such clothing and equipment, and assure that the observer complies with all other applicable safety and health procedures.
 
-(e) *Regulated areas* - (1) *Signs.* (i) The employer shall establish regulated areas where the concentration of airborne formaldehyde exceeds either the TWA or the STEL and post all entrances and access ways with signs bearing the following legend:
+(e) *Regulated areas*—(1) *Signs.* (i) The employer shall establish regulated areas where the concentration of airborne formaldehyde exceeds either the TWA or the STEL and post all entrances and access ways with signs bearing the following legend:
 
 DANGERFORMALDEHYDEMAY CAUSE CANCERCAUSES SKIN, EYE, AND RESPIRATORY IRRITATIONAUTHORIZED PERSONNEL ONLY
 
@@ -66,11 +66,11 @@ DANGERFORMALDEHYDEIRRITANT AND POTENTIAL CANCER HAZARDAUTHORIZED PERSONNEL ONLY
 
 (3) An employer at a multiemployer worksite who establishes a regulated area shall communicate the access restrictions and locations of these areas to other employers with work operations at that worksite.
 
-(f) *Methods of compliance* - (1) *Engineering controls and work practices.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposures to formaldehyde at or below the TWA and the STEL.
+(f) *Methods of compliance*—(1) *Engineering controls and work practices.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposures to formaldehyde at or below the TWA and the STEL.
 
 (2) *Exception.* Whenever the employer has established that feasible engineering and work practice controls cannot reduce employee exposure to or below either of the PELs, the employer shall apply these controls to reduce employee exposures to the extent feasible and shall supplement them with respirators which satisfy this standard.
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -154,7 +154,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (k) *Emergencies.* For each workplace where there is the possibility of an emergency involving formaldehyde, the employer shall assure appropriate procedures are adopted to minimize injury and loss of life. Appropriate procedures shall be implemented in the event of an emergency.
 
-(l) *Medical surveillance* - (1) *Employees covered.* (i) The employer shall institute medical surveillance programs for all employees exposed to formaldehyde at concentrations at or exceeding the action level or exceeding the STEL.
+(l) *Medical surveillance*—(1) *Employees covered.* (i) The employer shall institute medical surveillance programs for all employees exposed to formaldehyde at concentrations at or exceeding the action level or exceeding the STEL.
 
 (ii) The employer shall make medical surveillance available for employees who develop signs and symptoms of overexposure to formaldehyde and for all employees exposed to formaldehyde in emergencies. When determining whether an employee may be experiencing signs and symptoms of possible overexposure to formaldehyde, the employer may rely on the evidence that signs and symptoms associated with formaldehyde exposure will occur only in exceptional circumstances when airborne exposure is less than 0.1 ppm and when formaldehyde is present in material in concentrations less than 0.1 percent.
 
@@ -246,7 +246,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (vi) The employer shall act consistent with the findings, determinations and recommendations of the third physician, unless the employer and the employee reach an agreement which is otherwise consistent with the recommendations of at least one of the three physicians.
 
-(m) *Communication of hazards* - (1) *Hazard communication - General.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for formaldehyde.
+(m) *Communication of hazards*—(1) *Hazard communication—General.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for formaldehyde.
 
 (ii) In classifying the hazards of formaldehyde at least the following hazards are to be addressed: Cancer; skin and respiratory sensitization; eye, skin and respiratory tract irritation; acute toxicity effects; and flammability.
 
@@ -262,7 +262,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (iii) Prior to June 1, 2015, employers may include the phrase “Potential Cancer Hazard” in lieu of “May Cause Cancer” as specified in paragraph (m)(2)(i) of this section.
 
-(n) *Employee information and training* - (1) *Participation.* The employer shall assure that all employees who are assigned to workplaces where there is exposure to formaldehyde participate in a training program, except that where the employer can show, using objective data, that employees are not exposed to formaldehyde at or above 0.1 ppm, the employer is not required to provide training.
+(n) *Employee information and training*—(1) *Participation.* The employer shall assure that all employees who are assigned to workplaces where there is exposure to formaldehyde participate in a training program, except that where the employer can show, using objective data, that employees are not exposed to formaldehyde at or above 0.1 ppm, the employer is not required to provide training.
 
 (2) *Frequency.* Employers shall provide such information and training to employees at the time of initial assignment, and whenever a new exposure to formaldehyde is introduced into the work area. The training shall be repeated at least annually.
 
@@ -290,7 +290,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (ii) The employer shall provide, upon request, all training materials relating to the employee training program to the Assistant Secretary and the Director.
 
-(o) *Recordkeeping* - (1) *Exposure measurements.* The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to formaldehyde. This record shall include:
+(o) *Recordkeeping*—(1) *Exposure measurements.* The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to formaldehyde. This record shall include:
 
 (i) The date of measurement;
 
@@ -302,13 +302,13 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (v) The types of protective devices worn; and
 
-(vi) The names, job classifications, social security numbers, and exposure estimates of the employees whose exposures are represented by the actual monitoring results.
+(vi) The names, job classifications, and exposure estimates of the employees whose exposures are represented by the actual monitoring results.
 
 (2) *Exposure determinations.* Where the employer has determined that no monitoring is required under this standard, the employer shall maintain a record of the objective data relied upon to support the determination that no employee is exposed to formaldehyde at or above the action level.
 
 (3) *Medical surveillance.* The employer shall establish and maintain an accurate record for each employee subject to medical surveillance under this standard. This record shall include:
 
-(i) The name and social security number of the employee;
+(i) The name of the employee;
 
 (ii) The physician's written opinion;
 
@@ -326,7 +326,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (C) The size and manufacturer of the types of respirators available for selection.
 
-(D) The date of the most recent fit testing, the name and social security number of each tested employee, and the respirator type and facepiece selected.
+(D) The date of the most recent fit testing, the name of each tested employee, and the respirator type and facepiece selected.
 
 (5) *Record retention.* The employer shall retain records required by this standard for at least the following periods:
 
@@ -342,7 +342,7 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CO
 
 (iii) Employee medical records required by this standard shall be provided upon request for examination and coying, to the subject employee or former employee or to anyone having the specific written consent of the subject employee or former employee in accordance with 29 CFR 1910.1020 (a)-(e) and (g)-(i).
 
-Appendix A to § 1910.1048 - Substance Technical Guidelines for Formalin
+Appendix A to § 1910.1048—Substance Technical Guidelines for Formalin
 
 The following Substance Technical Guideline for Formalin provides information on uninhibited formalin solution (37% formaldehyde, no methanol stabilizer). It is designed to inform employees at the production level of their rights and duties under the formaldehyde standard whether their job title defines them as workers or supervisors. Much of the information provided is general; however, some information is specific for formalin. When employee exposure to formaldehyde is from resins capable of releasing formaldehyde, the resin itself and other impurities or decomposition products may also be toxic, and employers should include this information as well when informing employees of the hazards associated with the materials they handle. The precise hazards associated with exposure to formaldehyde depend both on the form (solid, liquid, or gas) of the material and the concentration of formaldehyde present. For example, 37-50 percent solutions of formaldehyde present a much greater hazard to the skin and eyes from spills or splashes than solutions containing less than 1 percent formaldehyde. Individual Substance Technical Guidelines used by the employer for training employees should be modified to properly give information on the material actually being used.
 
@@ -350,7 +350,7 @@ Substance Identification*Chemical Name:* Formaldehyde*Chemical Family:* Aldehyde
 
 *Synonyms:* Formalin; Formic Aldehyde; Paraform; Formol; Formalin (Methanol-free); Fyde; Formalith; Methanal; Methyl Aldehyde; Methylene Glycol; Methylene Oxide; Tetraoxymethalene; Oxomethane; Oxymethylene
 
-Components and Contaminants*Percent:* 37.0 Formaldehyde*Percent:* 63.0 Water(Note - Inhibited solutions contain methanol.)*Other Contaminants:* Formic acid (alcohol free)*Exposure Limits:*OSHA TWA - 0.75 ppmOSHA STEL - 2 ppmPhysical Data*Description:* Colorless liquid, pungent odor*Boiling point:* 214 °F (101 °C)*Specific Gravity:* 1.08 (H2 O = 1 @ 20 °C)*pH:* 2.8-4.0*Solubility in Water:* Miscible*Solvent Solubility:* Soluble in alcohol and acetone*Vapor Density:* 1.04 (Air = 1 @ 20 °C)*Odor Threshold:* 0.8-1 ppmFire and Explosion Hazard
+Components and Contaminants*Percent:* 37.0 Formaldehyde*Percent:* 63.0 Water(Note—Inhibited solutions contain methanol.)*Other Contaminants:* Formic acid (alcohol free)*Exposure Limits:*OSHA TWA—0.75 ppmOSHA STEL—2 ppmPhysical Data*Description:* Colorless liquid, pungent odor*Boiling point:* 214 °F (101 °C)*Specific Gravity:* 1.08 (H2 O = 1 @ 20 °C)*pH:* 2.8-4.0*Solubility in Water:* Miscible*Solvent Solubility:* Soluble in alcohol and acetone*Vapor Density:* 1.04 (Air = 1 @ 20 °C)*Odor Threshold:* 0.8-1 ppmFire and Explosion Hazard
 
 Moderate fire and explosion hazard when exposed to heat or flame.
 
@@ -366,11 +366,11 @@ Use of water spray to flush spills can also dilute the spill to produce nonflamm
 
 National Fire Protection Association Section 325M Designation:
 
-*Health:* 2 - Materials hazardous to health, but areas may be entered with full-faced mask self-contained breathing apparatus which provides eye protection.
+*Health:* 2—Materials hazardous to health, but areas may be entered with full-faced mask self-contained breathing apparatus which provides eye protection.
 
-*Flammability:* 2 - Materials which must be moderately heated before ignition will occur. Water spray may be used to extinguish the fire because the material can be cooled below its flash point.
+*Flammability:* 2—Materials which must be moderately heated before ignition will occur. Water spray may be used to extinguish the fire because the material can be cooled below its flash point.
 
-*Reactivity:* D - Materials which (in themselves) are normally stable even under fire exposure conditions and which are not reactive with water. Normal fire fighting procedures may be used.
+*Reactivity:* D—Materials which (in themselves) are normally stable even under fire exposure conditions and which are not reactive with water. Normal fire fighting procedures may be used.
 
 Reactivity
 
@@ -490,7 +490,7 @@ Emergencies
 
 If you are exposed to formaldehyde in an emergency and develop signs or symptoms associated with acute toxicity from formaldehyde exposure, your employer must provide you with a medical examination as soon as possible. This medical examination will include all steps necessary to stabilize your health. You may be kept in the hospital for observation if your symptoms are severe to ensure that any delayed effects are recognized and treated.
 
-Appendix B to § 1910.1048 - Sampling Strategy and Analytical Methods for Formaldehyde
+Appendix B to § 1910.1048—Sampling Strategy and Analytical Methods for Formaldehyde
 
 To protect the health of employees, exposure measurements must be unbiased and representative of employee exposure. The proper measurement of employee exposure requires more than a token commitment on the part of the employer. OSHA's mandatory requirements establish a baseline; under the best of circumstances all questions regarding employee exposure will be answered. Many employers, however, will wish to conduct more extensive monitoring before undertaking expensive commitments, such as engineering controls, to assure that the modifications are truly necessary. The following sampling strategy, which was developed at NIOSH by Nelson A. Leidel, Kenneth A. Busch, and Jeremiah R. Lynch and described in NIOSH publication No. 77-173 (Occupational Exposure Sampling Strategy Manual) will assist the employer in developing a strategy for determining the exposure of his or her employees.
 
@@ -552,7 +552,7 @@ When many employees perform essentially the same task, a maximum risk employee c
 
 If measurement shows exposure to formaldehyde at or above the action level or the STEL, the employer needs to identify all other employees who may be exposed at or above the action level or STEL and measure or otherwise accurately characterize the exposure of these employees.
 
-Whether representative monitoring or random sampling are conducted, the purpose remains the same - to determine if the exposure of any employee is above the action level. If the exposure of the most exposed employee is less than the action level and the STEL, regardless of how the employee is identified, then it is reasonable to assume that measurements of exposure of the other employees in that operation would be below the action level and the STEL.
+Whether representative monitoring or random sampling are conducted, the purpose remains the same—to determine if the exposure of any employee is above the action level. If the exposure of the most exposed employee is less than the action level and the STEL, regardless of how the employee is identified, then it is reasonable to assume that measurements of exposure of the other employees in that operation would be below the action level and the STEL.
 
 Exposure Measurements
 
@@ -706,7 +706,7 @@ The reliable quantitation limit and detection limits reported in the method are 
 
 3.2.3 Formaldehyde, 37%, by weight, in water. Aldrich Chemical, ACS Reagent Grade formaldehyde was used in this evaluation.
 
-3.2.4 Amberlite XAD-2 adsorbent coated with 2-(hydroxymethyl - piperidine (2-HMP), 10% by weight (Section 4).
+3.2.4 Amberlite XAD-2 adsorbent coated with 2-(hydroxymethyl—piperidine (2-HMP), 10% by weight (Section 4).
 
 3.2.5 Desorbing solution with internal standard. This solution was prepared by adding 20 µL of dimethylformamide to 100 mL of toluene.
 
@@ -738,7 +738,7 @@ The reliable quantitation limit and detection limits reported in the method are 
 
 3.5.1 GC *Conditions*
 
-*Column Temperature:*Bi-level temperature program - First level: 100 to 140 °C at 4 °C/min following completion of the first level.Second level: 140 to 180 °C at 20 °C/min following completion of the first level.Isothermal period: Hold column at 180 °C until the recorder pen returns to baseline (usually about 25 min after injection).*Injector temperature:* 180 °C*Helium flow rate:* 30 mL/min (detector response will be reduced if nitrogen is substituted for helium carrier gas).*Injection volume:* 0.8 µL*GC column:* Six-ft ×1/4-in OD (2 mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 Chromosorb W-AW.
+*Column Temperature:*Bi-level temperature program—First level: 100 to 140 °C at 4 °C/min following completion of the first level.Second level: 140 to 180 °C at 20 °C/min following completion of the first level.Isothermal period: Hold column at 180 °C until the recorder pen returns to baseline (usually about 25 min after injection).*Injector temperature:* 180 °C*Helium flow rate:* 30 mL/min (detector response will be reduced if nitrogen is substituted for helium carrier gas).*Injection volume:* 0.8 µL*GC column:* Six-ft ×1/4-in OD (2 mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 Chromosorb W-AW.
 
 *NPD conditions:*
 
@@ -808,7 +808,7 @@ Place 50 mL of 0.1 M sodium sulfite and three drops of thymophthalein indicator 
 
 This method is based on the quantitative liberation of sodium hydroxide when formaldehyde reacts with sodium sulfite to form the formaldehyde-bisulfite addition product. The volume of sample may be varied depending on the formaldehyde content but the solution to be titrated must contain excess sodium sulfite. Formaldehyde solutions containing substantial amounts of acid or base must be neutralized before analysis.
 
-Appendix C to § 1910.1048 - Medical Surveillance - FormaldehydeI. Health Hazards
+Appendix C to § 1910.1048—Medical Surveillance—FormaldehydeI. Health Hazards
 
 The occupational health hazards of formaldehyde are primarily due to its toxic effects after inhalation, after direct contact with the skin or eyes by formaldehyde in liquid or vapor form, and after ingestion.
 
@@ -868,4 +868,4 @@ The standard requires the employer to obtain a written statement from the physic
 
 The purpose in requiring the examining physician to supply the employer with a written opinion is to provide the employer with a medical basis to assist the employer in placing employees initially, in assuring that their health is not being inpaired by formaldehyde, and to assess the employee's ability to use any required protective equipment.
 
-Appendix D to § 1910.1048 - Nonmandatory Medical Disease Questionnaire![](/graphics/er14my19.056.gif)![](/graphics/er14my19.057.gif)![](/graphics/er14my19.058.gif)![](/graphics/er14my19.059.gif)![](/graphics/er14my19.060.gif)![](/graphics/er14my19.061.gif)![](/graphics/er14my19.062.gif)![](/graphics/er14my19.063.gif)![](/graphics/er14my19.064.gif)[57 FR 22310, May 27, 1992; 57 FR 27161, June 18, 1992; 61 FR 5508, Feb. 13, 1996; 63 FR 1292, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 77 FR 17784, Mar. 26, 2012; 84 FR 21518, May 14, 2019]
+Appendix D to § 1910.1048—Nonmandatory Medical Disease Questionnaire![](/graphics/er14my19.056.gif)![](/graphics/er14my19.057.gif)![](/graphics/er14my19.058.gif)![](/graphics/er14my19.059.gif)![](/graphics/er14my19.060.gif)![](/graphics/er14my19.061.gif)![](/graphics/er14my19.062.gif)![](/graphics/er14my19.063.gif)![](/graphics/er14my19.064.gif)[57 FR 22310, May 27, 1992; 57 FR 27161, June 18, 1992; 61 FR 5508, Feb. 13, 1996; 63 FR 1292, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 77 FR 17784, Mar. 26, 2012; 84 FR 21518, May 14, 2019]

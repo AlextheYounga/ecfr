@@ -22,11 +22,11 @@
 
 *Ethylene oxide* or *EtO* means the three-membered ring organic compound with chemical formula C2 H4 O.
 
-(c) *Permissible exposure limits* - (1) *8-hour time weighted average (TWA).* The employer shall ensure that no employee is exposed to an airborne concentration of EtO in excess of one (1) part EtO per million parts of air (1 ppm) as an 8-hour time-weighted average (8-hour TWA).
+(c) *Permissible exposure limits*—(1) *8-hour time weighted average (TWA).* The employer shall ensure that no employee is exposed to an airborne concentration of EtO in excess of one (1) part EtO per million parts of air (1 ppm) as an 8-hour time-weighted average (8-hour TWA).
 
 (2) *Excursion limit.* The employer shall ensure that no employee is exposed to an airborne concentration of EtO in excess of 5 parts of EtO per million parts of air (5 ppm) as averaged over a sampling period of fifteen (15) minutes.
 
-(d) *Exposure monitoring* - (1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 15-minute short-term exposures of each employee.
+(d) *Exposure monitoring*—(1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 15-minute short-term exposures of each employee.
 
 (ii) Representative 8-hour TWA employee exposure shall be determined on the basis of one or more samples representing full-shift exposure for each shift for each job classification in each work area. Representative 15-minute short-term employee exposures shall be determined on the basis of one or more samples representing 15-minute exposures associated with operations that are most likely to produce exposures above the excursion limit for each shift for each job classification in each work area.
 
@@ -70,7 +70,7 @@
 
 (3) Regulated areas shall be demarcated in any manner that minimizes the number of employees within the regulated area.
 
-(f) *Methods of compliance* - (1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to or below the TWA and to or below the excursion limit, except to the extent that such controls are not feasible.
+(f) *Methods of compliance*—(1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to or below the TWA and to or below the excursion limit, except to the extent that such controls are not feasible.
 
 (ii) Wherever the feasible engineering controls and work practices that can be instituted are not sufficient to reduce employee exposure to or below the TWA and to or below the excursion limit, the employer shall use them to reduce employee exposure to the lowest levels achievable by these controls and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
 
@@ -84,7 +84,7 @@
 
 (iv) The employer shall not implement a schedule of employee rotation as a means of compliance with the TWA or excursion limit.
 
-(g) *Respiratory protection and personal protective equipment* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection and personal protective equipment*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -106,7 +106,7 @@
 
 (4) *Protective clothing and equipment.* When employees could have eye or skin contact with EtO or EtO solutions, the employer must select and provide, at no cost to the employee, appropriate protective clothing or other equipment in accordance with 29 CFR 1910.132 and 1910.133 to protect any area of the employee's body that may come in contact with the EtO or EtO solution, and must ensure that the employee wears the protective clothing and equipment provided.
 
-(h) *Emergency situations* - (1) *Written plan.* (i) A written plan for emergency situations shall be developed for each workplace where there is a possibility of an emergency. Appropriate portions of the plan shall be implemented in the event of an emergency.
+(h) *Emergency situations*—(1) *Written plan.* (i) A written plan for emergency situations shall be developed for each workplace where there is a possibility of an emergency. Appropriate portions of the plan shall be implemented in the event of an emergency.
 
 (ii) The plan shall specifically provide that employees engaged in correcting emergency conditions shall be equipped with respiratory protection as required by paragraph (g) of this section until the emergency is abated.
 
@@ -114,13 +114,13 @@
 
 (2) *Alerting employees.* Where there is the possibility of employee exposure to EtO due to an emergency, means shall be developed to alert potentially affected employees of such occurrences promptly. Affected employees shall be immediately evacuated from the area in the event that an emergency occurs.
 
-(i) *Medical Surveillance* - (1) *General* - (i) *Employees covered.* (A) The employer shall institute a medical surveillance program for all employees who are or may be exposed to EtO at or above the action level, without regard to the use of respirators, for at least 30 days a year.
+(i) *Medical Surveillance*—(1) *General*—(i) *Employees covered.* (A) The employer shall institute a medical surveillance program for all employees who are or may be exposed to EtO at or above the action level, without regard to the use of respirators, for at least 30 days a year.
 
 (B) The employer shall make available medical examinations and consultations to all employees who have been exposed to EtO in an emergency situation.
 
 (ii) *Examination by a physician.* The employer shall ensure that all medical examinations and procedures are performed by or under the supervision of a licensed physician, and are provided without cost to the employee, without loss of pay, and at a reasonable time and place.
 
-(2) *Medical examinations and consultations* - (i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (i)(1)(i) of this section on the following schedules:
+(2) *Medical examinations and consultations*—(i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (i)(1)(i) of this section on the following schedules:
 
 (A) Prior to assignment of the employee to an area where exposure may be at or above the action level for at least 30 days a year.
 
@@ -170,13 +170,13 @@
 
 (iii) The employer shall provide a copy of the physician's written opinion to the affected employee within 15 days from its receipt.
 
-(j) *Communication of hazards* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for EtO.
+(j) *Communication of hazards*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for EtO.
 
 (ii) In classifying the hazards of EtO at least the following hazards are to be addressed: Cancer; reproductive effects; mutagenicity; central nervous system; skin sensitization; skin, eye and respiratory tract irritation; acute toxicity effects; and flammability.
 
 (iii) Employers shall include EtO in the hazard communication program established to comply with the HCS (§ 1910.1200). Employers shall ensure that each employee has access to labels on containers of EtO and to safety data sheets, and is trained in accordance with the requirements of HCS and paragraph (j)(3) of this section.
 
-(2) *Signs and labels* - (i) *Signs.* (A) The employer shall post and maintain legible signs demarcating regulated areas and entrances or access ways to regulated areas that bear the following legend:
+(2) *Signs and labels*—(i) *Signs.* (A) The employer shall post and maintain legible signs demarcating regulated areas and entrances or access ways to regulated areas that bear the following legend:
 
 DANGERETHYLENE OXIDEMAY CAUSE CANCERMAY DAMAGE FERTILITY OR THE UNBORN CHILDRESPIRATORY PROTECTION AND PROTECTIVE CLOTHING MAY BE REQUIRED IN THIS AREAAUTHORIZED PERSONNEL ONLY
 
@@ -214,7 +214,7 @@ DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ON
 
 (D) The details of the hazard communication program developed by the employer, including an explanation of the labeling system and how employees can obtain and use the appropriate hazard information.
 
-(k) *Recordkeeping* - (1) *Objective data for exempted operations.* (i) Where the processing, use, or handling of products made from or containing EtO are exempted from other requirements of this section under paragraph (a)(2) of this section, or where objective data have been relied on in lieu of initial monitoring under paragraph (d)(2)(ii) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
+(k) *Recordkeeping*—(1) *Objective data for exempted operations.* (i) Where the processing, use, or handling of products made from or containing EtO are exempted from other requirements of this section under paragraph (a)(2) of this section, or where objective data have been relied on in lieu of initial monitoring under paragraph (d)(2)(ii) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
 
 (ii) This record shall include at least the following information:
 
@@ -244,7 +244,7 @@ DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ON
 
 (E) Type of protective devices worn, if any; and
 
-(F) Name, social security number and exposure of the employees whose exposures are represented.
+(F) Name and exposure of the employees whose exposures are represented.
 
 (iii) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.1020.
 
@@ -252,7 +252,7 @@ DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ON
 
 (ii) The record shall include at least the following information:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) Physicians' written opinions;
 
@@ -270,7 +270,7 @@ DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ON
 
 (5) *Transfer of records.* The employer shall comply with the requirements concerning transfer of records set forth in 29 CFR 1910.1020(h).
 
-(l) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to EtO conducted in accordance with paragraph (d) of this section.
+(l) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to EtO conducted in accordance with paragraph (d) of this section.
 
 (2) *Observation procedures.* When observation of the monitoring of employee exposure to EtO requires entry into an area where the use of protective clothing or equipment is required, the observer shall be provided with and be required to use such clothing and equipment and shall comply with all other applicable safety and health procedures.
 
@@ -278,7 +278,7 @@ DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ON
 
 (n) *Appendices.* The information contained in the appendices is not intended by itself to create any additional obligations not otherwise imposed or to detract from any existing obligation.
 
-Appendix A to § 1910.1047 - Substance Safety Data Sheet for Ethylene Oxide (Non-Mandatory)i. Substance Identification
+Appendix A to § 1910.1047—Substance Safety Data Sheet for Ethylene Oxide (Non-Mandatory)i. Substance Identification
 
 A. Substance: Ethylene oxide (C2 H4 O).
 
@@ -438,7 +438,7 @@ i. *Leak detection.* Sterilizer door gaskets, cylinder and vacuum piping, hoses,
 
 ii. *Maintenance procedures.* Sterilizer/areator door gaskets, valves, and fittings must be replaced when necessary as determined by maintenance personnel in their bi-weekly checks; in addition, visual inspection of the door gaskets for cracks, debris, and other foreign substances should be conducted daily by the operator.
 
-Appendix B to § 1910.1047 - Substance Technical Guidelines for Ethylene Oxide (Non-Mandatory)i. Physical and Chemical Data
+Appendix B to § 1910.1047—Substance Technical Guidelines for Ethylene Oxide (Non-Mandatory)i. Physical and Chemical Data
 
 A. Substance identification:
 
@@ -538,7 +538,7 @@ vii. Common Operations
 
 Common operations in which exposure to EtO is likely to occur include the following: Manufacture of EtO, surfactants, ethanolamines, glycol ethers, and specialty chemicals, and use as a sterilant in the hospital, health product and spice industries.
 
-Appendix C to § 1910.1047 - Medical Surveillance Guidelines for Ethylene Oxide (Non-Mandatory)i. route of entry
+Appendix C to § 1910.1047—Medical Surveillance Guidelines for Ethylene Oxide (Non-Mandatory)i. route of entry
 
 Inhalation.
 
@@ -586,7 +586,7 @@ The employer is required to obtain a written opinion from the examining physicia
 
 The purpose in requiring the examining physician to supply the employer with a written opinion is to provide the employer with a medical basis to aid in the determination of initial placement of employees and to assess the employee's ability to use protective clothing and equipment.
 
-Appendix D to § 1910.1047 - Sampling and Analytical Methods for Ethylene Oxide (Non-Mandatory)
+Appendix D to § 1910.1047—Sampling and Analytical Methods for Ethylene Oxide (Non-Mandatory)
 
 A number of methods are available for monitoring employee exposures to EtO. Most of these involve the use of charcoal tubes and sampling pumps, followed by analysis of the samples by gas chromatograph. The essential differences between the charcoal tube methods include, among others, the use of different desorbing solvents, the use of different lots of charcoal, and the use of different equipment for analysis of the samples.
 
@@ -658,7 +658,7 @@ Lower Explosive Limits: 3.0% (by volume)
 
 Flash Point (TOC): Below 0 °F
 
-Molecular Structure: CH2 - CH2
+Molecular Structure: CH2—CH2
 
 1.2 Limit Defining Parameters.
 
@@ -796,13 +796,13 @@ This includes an additional plus or minus 5% for sampling error.
 
 3.1.4 Two milliliter vials with Teflon-lined caps.
 
-3.1.5 Gas tight syringe - 500 µL or other convenient sizes for preparing standards.
+3.1.5 Gas tight syringe—500 µL or other convenient sizes for preparing standards.
 
-3.1.6 Microliter syringes - 10 µL or other convenient sizes for diluting standards and 1 µL for sample injections.
+3.1.6 Microliter syringes—10 µL or other convenient sizes for diluting standards and 1 µL for sample injections.
 
 3.1.7 Pipets for dispensing the 1% CS2 in benzene solvent. The Glenco 1 mL dispenser is adequate and convenient.
 
-3.1.8 Volumetric flasks - 5 mL and other convenient sizes for preparing standards.
+3.1.8 Volumetric flasks—5 mL and other convenient sizes for preparing standards.
 
 3.1.9 Disposable Pasteur pipets.
 
@@ -848,7 +848,7 @@ This includes an additional plus or minus 5% for sampling error.
 
 3.5.1 GC Conditions.
 
-Nitrogen flow rate - 10mL/min.Injector Temperature - 250 °CDetector Temperature - 300 °CColumn Temperature - 100 °CInjection size - 0.8 µLElution time - 3.9 minutes
+Nitrogen flow rate—10mL/min.Injector Temperature—250 °CDetector Temperature—300 °CColumn Temperature—100 °CInjection size—0.8 µLElution time—3.9 minutes
 
 3.5.2 Peak areas are measured by an integrator or other suitable means.
 
@@ -921,32 +921,28 @@ At lower amounts the recovery appears to be non-linear.
 
 The following data was used to determine the calibration curve.
 
-|Injection|0.5 × .75 µg/mL|1 × 1.5 µg/mL|2 × 3.0 µg/mL|
-|---------|---------------|-------------|-------------|
-|    1    |     30904     |    59567    |   111778    |
-|    2    |     30987     |    62914    |   106016    |
-|    3    |     32555     |    58578    |   106122    |
-|    4    |     32242     |    57173    |   109716    |
-|    X    |     31672     |    59558    |   108408    |
-
-Slope = 34.105.
+|   Injection   |0.5 × .75 µg/mL|1 × 1.5 µg/mL|2 × 3.0 µg/mL|
+|---------------|---------------|-------------|-------------|
+|       1       |     30904     |    59567    |   111778    |
+|       2       |     30987     |    62914    |   106016    |
+|       3       |     32555     |    58578    |   106122    |
+|       4       |     32242     |    57173    |   109716    |
+|       X       |     31672     |    59558    |   108408    |
+|Slope = 34.105.|               |             |             |
 
 4.4 Recovery.
 
 The recovery was determined by spiking ethylene oxide onto lot 120 charcoal tubes and desorbing with 1% CS2 in Benzene. Recoveries were done at 0.5, 1.0, and 2.0× the target concentration (1 ppm) for the recommended air volume.
 
-Percent Recovery
-
-|Sample|0.5x|1.0x|2.0x|
-|------|----|----|----|
-|  1   |88.7|95.0|91.7|
-|  2   |83.8|95.0|87.3|
-|  3   |84.2|91.0|86.0|
-|  4   |88.0|91.0|83.0|
-|  5   |88.0|86.0|85.0|
-|  X   |86.5|90.5|87.0|
-
-Weighted Average = 88.2.
+|         Sample         |0.5x|1.0x|2.0x|
+|------------------------|----|----|----|
+|           1            |88.7|95.0|91.7|
+|           2            |83.8|95.0|87.3|
+|           3            |84.2|91.0|86.0|
+|           4            |88.0|91.0|83.0|
+|           5            |88.0|86.0|85.0|
+|           X            |86.5|90.5|87.0|
+|Weighted Average = 88.2.|    |    |    |
 
 4.5 Precision of the Analytical Procedure.
 
@@ -967,8 +963,6 @@ The following data was used to determine the precision of the analytical method:
 4.6 Storage Data.
 
 Samples were generated at 1.5 mg/m3 ethylene oxide at 85% relative humidity, 22 °C and 633 mm. All samples were taken for 20 minutes at 0.05 Lpm. Six samples were analyzed as soon as possible and fifteen samples were stored at refrigerated temperature (5 °C) and fifteen samples were stored at ambient temperature (23 °C). These stored samples were analyzed over a period of nineteen days.
-
-Percent Recovery
 
 |Day analyzed|Refrigerated|Ambient|
 |------------|------------|-------|
@@ -1002,22 +996,21 @@ Percent Recovery
 
 Breakthrough studies were done at 2 ppm (3.6 mg/m3) at approximately 85% relative humidity at 22 °C (ambient temperature). Two charcoal tubes were used in series. The backup tube was changed every 10 minutes and analyzed for breakthrough. The flow rate was 0.050 Lpm.
 
-|Tube No.|Time (minutes)|Percent breakthrough|
-|--------|--------------|--------------------|
-|   1    |      10      |   (<sup>1</sup>)   |
-|   2    |      20      |   (<sup>1</sup>)   |
-|   3    |      30      |   (<sup>1</sup>)   |
-|   4    |      40      |        1.23        |
-|   5    |      50      |        3.46        |
-|   6    |      60      |       18.71        |
-|   7    |      70      |        39.2        |
-|   8    |      80      |        53.3        |
-|   9    |      90      |        72.0        |
-|   10   |     100      |        96.0        |
-|   11   |     110      |       113.0        |
-|   12   |     120      |       133.9        |
-
-<sup>1</sup> None.
+|     Tube No.     |Time (minutes)|Percent breakthrough|
+|------------------|--------------|--------------------|
+|        1         |      10      |   (<sup>1</sup>)   |
+|        2         |      20      |   (<sup>1</sup>)   |
+|        3         |      30      |   (<sup>1</sup>)   |
+|        4         |      40      |        1.23        |
+|        5         |      50      |        3.46        |
+|        6         |      60      |       18.71        |
+|        7         |      70      |        39.2        |
+|        8         |      80      |        53.3        |
+|        9         |      90      |        72.0        |
+|        10        |     100      |        96.0        |
+|        11        |     110      |       113.0        |
+|        12        |     120      |       133.9        |
+|<sup>1</sup> None.|              |                    |
 
 The 5% breakthrough volume was reached when 2.6 liters of test atmosphere were drawn through the charcoal tubes.
 
@@ -1037,19 +1030,19 @@ OSHA believes that served other types of monitoring equipment and techniques exi
 
 A. Charcoal Tube Sampling Procedures
 
-*Qazi-Ketcham method* (Ex. 11-133) - This method consists of collecting EtO on Columbia JXC activated carbon, desorbing the EtO with carbon disulfide and analyzing by gas chromatography with flame ionization detection. Union Carbide has recently updated and revalidated this monitoring procedures. This method is capable of determining both eight-hour time-weighted average exposures and short-term exposures. The method was validated to 0.5 ppm. Like other charcoal collecting procedures, the method requires considerable analytical expertise.
+*Qazi-Ketcham method* (Ex. 11-133)—This method consists of collecting EtO on Columbia JXC activated carbon, desorbing the EtO with carbon disulfide and analyzing by gas chromatography with flame ionization detection. Union Carbide has recently updated and revalidated this monitoring procedures. This method is capable of determining both eight-hour time-weighted average exposures and short-term exposures. The method was validated to 0.5 ppm. Like other charcoal collecting procedures, the method requires considerable analytical expertise.
 
-*ASTM-proposed method* - The Ethylene Oxide Industry Council (EOIC) has contracted with Clayton Environmental Consultants, Inc. to conduct a collaborative study for the proposed method. The ASTM-Proposed method is similar to the method published by Qazi and Ketcham is the November 1977 American Industrial Hygiene Association Journal, and to the method of Pilney and Coyne, presented at the 1979 American Industrial Hygiene Conference. After the air to be sampled is drawn through an activated charcoal tube, the ethylene oxide is desorbed from the tube using carbon disulfide and is quantitated by gas chromatography utilizing a flame ionization detector. The ASTM-proposed method specifies a large two-section charcoal tube, shipment in dry ice, storage at less
+*ASTM-proposed method*—The Ethylene Oxide Industry Council (EOIC) has contracted with Clayton Environmental Consultants, Inc. to conduct a collaborative study for the proposed method. The ASTM-Proposed method is similar to the method published by Qazi and Ketcham is the November 1977 American Industrial Hygiene Association Journal, and to the method of Pilney and Coyne, presented at the 1979 American Industrial Hygiene Conference. After the air to be sampled is drawn through an activated charcoal tube, the ethylene oxide is desorbed from the tube using carbon disulfide and is quantitated by gas chromatography utilizing a flame ionization detector. The ASTM-proposed method specifies a large two-section charcoal tube, shipment in dry ice, storage at less
 
-than −5 °C, and analysis within three weeks to prevent migration and sample loss. Two types of charcoal tubes are being tested - Pittsburgh Coconut-Based (PCB) and Columbia JXC charcoal. This collaborative study will give an indication of the inter- and intralaboratory precision and accuracy of the ASTM-proposed method. Several laboratories have considerable expertise using the Qazi-Ketcham and Dow methods.
+than −5 °C, and analysis within three weeks to prevent migration and sample loss. Two types of charcoal tubes are being tested—Pittsburgh Coconut-Based (PCB) and Columbia JXC charcoal. This collaborative study will give an indication of the inter- and intralaboratory precision and accuracy of the ASTM-proposed method. Several laboratories have considerable expertise using the Qazi-Ketcham and Dow methods.
 
-B. Passive Monitors - Ethylene oxide diffuses into the monitor and is collected in the sampling media. The DuPont Pro-Tek badge collects EtO in an absorbing solution, which is analyzed colorimetrically to determine the amount of EtO present. The 3M 350 badge collects the EtO on chemically treated charcoal. Other passive monitors are currently being developed and tested. Both 3M and DuPont have submitted data indicating their dosimeters meet the precision and accuracy requirements of the proposed ethylene oxide standard. Both presented laboratory validation data to 0.2 ppm (Exs. 11-65, 4-20, 108, 109, 130).
+B. Passive Monitors—Ethylene oxide diffuses into the monitor and is collected in the sampling media. The DuPont Pro-Tek badge collects EtO in an absorbing solution, which is analyzed colorimetrically to determine the amount of EtO present. The 3M 350 badge collects the EtO on chemically treated charcoal. Other passive monitors are currently being developed and tested. Both 3M and DuPont have submitted data indicating their dosimeters meet the precision and accuracy requirements of the proposed ethylene oxide standard. Both presented laboratory validation data to 0.2 ppm (Exs. 11-65, 4-20, 108, 109, 130).
 
 C. Tedlar Gas Sampling Bags-Samples are collected by drawing a known volume of air into a Tedlar gas sampling bag. The ethylene oxide concentration is often determined on-site using a portable gas chromatograph or portable infrared spectometer.
 
-D. Detector tubes - A known volume of air is drawn through a detector tube using a small hand pump. The concentration of EtO is related to the length of stain developed in the tube. Detector tubes are economical, easy to use, and give an immediate readout. Unfortunately, partly because they are nonspecific, their accuracy is often questionable. Since the sample is taken over a short period of time, they may be useful for determining the source of leaks.
+D. Detector tubes—A known volume of air is drawn through a detector tube using a small hand pump. The concentration of EtO is related to the length of stain developed in the tube. Detector tubes are economical, easy to use, and give an immediate readout. Unfortunately, partly because they are nonspecific, their accuracy is often questionable. Since the sample is taken over a short period of time, they may be useful for determining the source of leaks.
 
-E. Direct Reading Instruments - There are numerous types of direct reading instruments, each having its own strengths and weaknesses (Exs. 135B, 135C, 107, 11-78, 11-153). Many are relatively new, offering greater sensitivity and specificity. Popular ethylene oxide direct reading instruments include infrared detection units, photoionization detection units, and gas chromatographs.
+E. Direct Reading Instruments—There are numerous types of direct reading instruments, each having its own strengths and weaknesses (Exs. 135B, 135C, 107, 11-78, 11-153). Many are relatively new, offering greater sensitivity and specificity. Popular ethylene oxide direct reading instruments include infrared detection units, photoionization detection units, and gas chromatographs.
 
 Portable infrared analyzers provide an immediate, continuous indication of a concentration value; making them particularly useful for locating high concentration pockets, in leak detection and in ambient air monitoring. In infrared detection units, the amount of infrared light absorbed by the gas being analyzed at selected infrared wavelengths is related to the concentration of a particular component. Various models have either fixed or variable infrared filters, differing cell pathlengths, and microcomputer controls for greater sensitivity, automation, and interference elimination.
 

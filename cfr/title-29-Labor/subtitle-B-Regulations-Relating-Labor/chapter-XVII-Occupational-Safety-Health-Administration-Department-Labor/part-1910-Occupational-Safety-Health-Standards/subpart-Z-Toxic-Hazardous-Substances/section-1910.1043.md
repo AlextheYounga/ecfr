@@ -4,7 +4,7 @@
 
 (2) This section does not apply to the handling or processing of woven or knitted materials; to maritime operations covered by 29 CFR Parts 1915 and 1918; to harvesting or ginning of cotton; or to the construction industry.
 
-(3) Only paragraphs (h) Medical surveillance, (k)(2) through (4) Recordkeeping - Medical Records, and appendices B, C and D of this section apply in all work places where employees exposed to cotton dust engage in cottonseed processing or waste processing operations.
+(3) Only paragraphs (h) Medical surveillance, (k)(2) through (4) Recordkeeping—Medical Records, and appendices B, C and D of this section apply in all work places where employees exposed to cotton dust engage in cottonseed processing or waste processing operations.
 
 (4) This section applies to yarn manufacturing and slashing and weaving operations exclusively using washed cotton (as defined by paragraph (n) of this section) only to the extent specified by paragraph (n) of this section.
 
@@ -34,7 +34,7 @@
 
 *Yarn manufacturing* means all textile mill operations from opening to, but not including, slashing and weaving.
 
-(c) *Permissible exposure limits and action levels* - (1) *Permissible exposure limits (PEL).* (i) The employer shall assure that no employee who is exposed to cotton dust in yarn manufacturing and cotton washing operations is exposed to airborne concentrations of lint-free respirable cotton dust greater than 200 µg/m3 mean concentration, averaged over an eight-hour period, as measured be a vertical elutriator or an equivalent instrument.
+(c) *Permissible exposure limits and action levels*—(1) *Permissible exposure limits (PEL).* (i) The employer shall assure that no employee who is exposed to cotton dust in yarn manufacturing and cotton washing operations is exposed to airborne concentrations of lint-free respirable cotton dust greater than 200 µg/m3 mean concentration, averaged over an eight-hour period, as measured be a vertical elutriator or an equivalent instrument.
 
 (ii) The employer shall assure that no employee who is exposed to cotton dust in textile mill waste house operations or is exposed in yarn manufacturing to dust from “lower grade washed cotton” as defined in paragraph (n)(5) of this section is exposed to airborne concentrations of lint-free respirable cotton dust greater than 500 µg/m3 mean concentration, averaged over an eight-hour period, as measured by a vertical elutriator or an equivalent instrument.
 
@@ -46,7 +46,7 @@
 
 (iii) The action level for the textile processes known as slashing and weaving is an airborne concentration of lint-free respirable cotton dust of 375 µg/m3 mean concentration, averaged over an eight-hour period, as measured by a vertical elutriator or an equivalent instrument.
 
-(d) *Exposure monitoring and measurement* - (1) *General.* (i) For the purposes of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
+(d) *Exposure monitoring and measurement*—(1) *General.* (i) For the purposes of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
 
 (ii) The sampling device to be used shall be either the vertical elutriator cotton dust sampler or an equivalent instrument.
 
@@ -82,7 +82,7 @@
 
 (ii) Whenever the results indicate that the employee's exposure exceeds the applicable permissible exposure limit specified in paragraph (c) of this section, the employer shall include in the written notice a statement that the permissible exposure limit was exceeded and a description of the corrective action taken to reduce exposure below the permissible exposure limit.
 
-(e) *Methods of compliance* - (1) *Engineering and work practice controls.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposure to cotton dust at or below the permissible exposure limit specified in paragraph (c) of this section, except to the extent that the employer can establish that such controls are not feasible.
+(e) *Methods of compliance*—(1) *Engineering and work practice controls.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposure to cotton dust at or below the permissible exposure limit specified in paragraph (c) of this section, except to the extent that the employer can establish that such controls are not feasible.
 
 (2) Whenever feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the permissible exposure limit, the employer shall nonetheless institute these controls to reduce exposure to the lowest feasible level, and shall supplement these controls with the use of respirators which shall comply with the provisions of paragraph (f) of this section.
 
@@ -114,7 +114,7 @@
 
 (4) *Mechanical ventilation.* When mechanical ventilation is used to control exposure, measurements which demonstrate the effectiveness of the system to control exposure, such as capture velocity, duct velocity, or static pressure shall be made at reasonable intervals.
 
-(f) *Respiratory protection* - (1) *General.* For employees who are required to use respirators by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(f) *Respiratory protection*—(1) *General.* For employees who are required to use respirators by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -148,7 +148,7 @@
 
 (4) In areas where employees are exposed to concentrations of cotton dust greater than the permissible exposure limit, cotton and cotton waste shall be stacked, sorted, baled, dumped, removed or otherwise handled by mechanical means, except where the employer can show that it is infeasible to do so. Where infeasible, the method used for handling cotton and cotton waste shall be the method which reduces exposure to the lowest level feasible.
 
-(h) *Medical surveillance* - (1) *General.* (i) Each employer covered by the standard shall institute a program of medical surveillance for all employees exposed to cotton dust.
+(h) *Medical surveillance*—(1) *General.* (i) Each employer covered by the standard shall institute a program of medical surveillance for all employees exposed to cotton dust.
 
 (ii) The employer shall assure that all medical examinations and procedures are performed by or under the supervision of a licensed physician and are provided without cost to the employee.
 
@@ -202,7 +202,7 @@
 
 (ii) The written opinion obtained by the employer shall not reveal specific findings or diagnoses unrelated to occupational exposure.
 
-(i) *Employee education and training* - (1) *Training program.* (i) The employer shall train each employee exposed to cotton dust in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(i) *Employee education and training*—(1) *Training program.* (i) The employer shall train each employee exposed to cotton dust in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
 (ii) The training program shall be provided prior to initial assignment and shall be repeated annually for each employee exposed to cotton dust, when job assignments or work processes change and when employee performance indicates a need for retraining.
 
@@ -218,7 +218,7 @@ DANGERCOTTON DUSTCAUSES DAMAGE TO LUNGS(BYSSINOSIS)WEAR RESPIRATORY PROTECTION I
 
 WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RESPIRATORSREQUIRED IN THIS AREA
 
-(k) *Recordkeeping* - (1) *Exposure measurements.* (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (d) of this section.
+(k) *Recordkeeping*—(1) *Exposure measurements.* (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (d) of this section.
 
 (ii) The record shall include:
 
@@ -226,7 +226,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (B) The type of protective devices worn, if any, and length of time worn; and
 
-(C) The names, social security numbers, job classifications, and exposure levels of employees whose exposure the measurement is intended to represent.
+(C) The names, job classifications, and exposure levels of employees whose exposure the measurement is intended to represent.
 
 (iii) The employer shall maintain this record for at least 20 years.
 
@@ -234,7 +234,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (ii) The record shall include:
 
-(A) The name and social security number and description of the duties of the employee;
+(A) The name and description of the duties of the employee;
 
 (B) A copy of the medical examination results including the medical history, questionnaire response, results of all tests, and the physician's recommendation;
 
@@ -268,7 +268,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (iii) An opportunity to record the results obtained.
 
-(m) *Washed Cotton* - (1) *Exemptions.* Cotton, after it has been washed by the processes described in this paragraph, is exempt from all or parts of this section as specified if the requirements of this paragraph are met.
+(m) *Washed Cotton*—(1) *Exemptions.* Cotton, after it has been washed by the processes described in this paragraph, is exempt from all or parts of this section as specified if the requirements of this paragraph are met.
 
 (2) *Initial requirements.* (i) In order for an employer to qualify as exempt or partially exempt from this standard for operations using washed cotton, the employer must demonstrate that the cotton was washed in a facility which is open to inspection by the Assistant Secretary and the employer must provide sufficient accurate documentary evidence to demonstrate that the washing methods utilized meet the requirements of this paragraph.
 
@@ -282,7 +282,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (3) *Medical and dyed cotton.* Medical grade (USP) cotton, cotton that has been scoured, bleached and dyed, and mercerized yarn shall be exempt from all provisions of this standard.
 
-(4) *Higher grade washed cotton.* The handling or processing of cotton classed as “low middling light spotted or better” (color grade 52 or better and leaf grade code 5 or better according to the 1993 USDA classification system) shall be exempt from all provisions of the standard except the requirements of paragraphs (h) medical surveillance, (k)(2) through (4) recordkeeping - medical records, and Appendices B, C, and D of this section, if they have been washed on one of the following systems:
+(4) *Higher grade washed cotton.* The handling or processing of cotton classed as “low middling light spotted or better” (color grade 52 or better and leaf grade code 5 or better according to the 1993 USDA classification system) shall be exempt from all provisions of the standard except the requirements of paragraphs (h) medical surveillance, (k)(2) through (4) recordkeeping—medical records, and Appendices B, C, and D of this section, if they have been washed on one of the following systems:
 
 (i) On a continuous batt system or a rayon rinse system including the following conditions:
 
@@ -316,7 +316,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (3) Appendix E of this section is a protocol which may be followed in the validation of alternative measuring devices as equivalent to the vertical elutriator cotton dust sampler. Other protocols may be used if it is demonstrated that they are statistically valid, meet the requirements in paragraph (d)(l)(iii) of this section, and are appropriate for demonstrating equivalency.
 
-Appendix A to § 1910.1043 - Air Sampling and Analytical Procedures for Determining Concentrations of Cotton Dusti. sampling locations
+Appendix A to § 1910.1043—Air Sampling and Analytical Procedures for Determining Concentrations of Cotton Dusti. sampling locations
 
 The sampling procedures must be designed so that samples of the actual dust concentrations are collected accurately and consistently and reflect the concentrations of dust at the place and time of sampling. Sufficient number of 6-hour area samples in each distinct work area of the plant should be collected at locations which provide representative samples of air to which the worker is exposed. In order to avoid filter overloading, sampling time may be shortened when sampling in dusty areas. Samples in each work area should be gathered simultaneously or sequentially during a normal operating period. The daily time-weighted average (TWA) exposure of each worker can then be determined by using the following formula:
 
@@ -466,96 +466,82 @@ Any difference in weight in the control filters would indicate that the procedur
 
 (2) Divide mass of sample in µg by air volume in cubic meters to find dust concentration in µg/m. Record in log.
 
-![](/graphics/ec28oc91.020.gif)![](/graphics/ec28oc91.021.gif)![](/graphics/ec28oc91.022.gif)![](/graphics/ec28oc91.023.gif)![](/graphics/ec28oc91.024.gif)![](/graphics/ec28oc91.025.gif)![](/graphics/ec28oc91.026.gif)![](/graphics/ec28oc91.027.gif)![](/graphics/ec28oc91.028.gif)![](/graphics/ec28oc91.029.gif)![](/graphics/ec28oc91.030.gif)![](/graphics/ec28oc91.031.gif)![](/graphics/ec28oc91.032.gif)![](/graphics/ec28oc91.033.gif)![](/graphics/ec28oc91.034.gif)![](/graphics/ec28oc91.035.gif)![](/graphics/ec28oc91.036.gif)![](/graphics/ec28oc91.037.gif)Appendix D to § 1910.1043 - Pulmonary Function Standards for Cotton Dust Standard
+Appendix B-I to § 1910.1043—Respiratory Questionnaire![](/graphics/er14my19.030.gif)![](/graphics/er14my19.031.gif)![](/graphics/er14my19.032.gif)![](/graphics/er14my19.033.gif)![](/graphics/er14my19.034.gif)![](/graphics/er14my19.035.gif)![](/graphics/er14my19.036.gif)![](/graphics/er14my19.037.gif)![](/graphics/er14my19.038.gif)![](/graphics/er14my19.039.gif)Appendix B-II to § 1910.1043—Respiratory Questionnaire for Non-Textile Workers for the Cotton Industry![](/graphics/er14my19.040.gif)![](/graphics/er14my19.041.gif)![](/graphics/er14my19.042.gif)![](/graphics/er14my19.043.gif)![](/graphics/er14my19.044.gif)![](/graphics/er14my19.045.gif)![](/graphics/er14my19.046.gif)![](/graphics/er14my19.047.gif)![](/graphics/er14my19.048.gif)![](/graphics/er14my19.049.gif)Appendix B-III to § 1910.1043—Abbreviated Respiratory Questionnaire![](/graphics/er14my19.050.gif)![](/graphics/er14my19.051.gif)![](/graphics/er14my19.052.gif)![](/graphics/er14my19.053.gif)![](/graphics/er14my19.054.gif)![](/graphics/er14my19.055.gif)Appendix C to § 1910.1043—[Reserved]Appendix D to § 1910.1043—Pulmonary Function Standards for Cotton Dust Standard
 
 The spirometric measurements of pulmonary function shall conform to the following minimum standards, and these standards are not intended to preclude additional testing or alternate methods which can be determined to be superior.
 
-i. apparatus
+I. Apparatus
 
 a. The instrument shall be accurate to within ±50 milliliters or within ±3 percent of reading, whichever is greater.
 
-b. The instrument should be capable of measuring vital capacity from 0 to 7 liters BTPS.
+b. 1. Instruments purchased on or before May 14, 2020 should be capable of measuring vital capacity from 0 to 7 liters BTPS
+
+2. Instruments purchased after May 14, 2020 should be capable of measuring vital capacity from 0 to 8 liters BTPS.
 
 c. The instrument shall have a low inertia and offer low resistance to airflow such that the resistance to airflow at 12 liters per second must be less than 1.5 cm H2 O/(liter/sec).
 
 d. The zero time point for the purpose of timing the FEV1 shall be determined by extrapolating the steepest portion of the volume time curve back to the maximal inspiration volume (1, 2, 3, 4) or by an equivalent method.
 
-e. Instruments incorporating measurements of airflow to determine volume shall conform to the same volume accuracy stated in (a) of this section when presented with flow rates from at least 0 to 12 liters per second.
+e. 1. Instruments purchased on or before May 14, 2020 that incorporate measurements of airflow to determine volume shall conform to the same volume accuracy stated in paragraph (a) of this section I when presented with flow rates from at least 0 to 12 liters per second.
+
+2. Instruments purchased after May 14, 2020 that incorporate measurements of airflow to determine volume shall conform to the same volume accuracy stated in paragraph (a) of this section I when presented with flow rates from at least 0 to 14 liters per second.
 
 f. The instrument or user of the instrument must have a means of correcting volumes to body temperature saturated with water vapor (BTPS) under conditions of varying ambient spirometer temperatures and barometric pressures.
 
-g. The instrument used shall provide a tracing or display of either flow versus volume or volume versus time during the entire forced expiration. A tracing or display is necessary to determine whether the patient has performed the test properly. The tracing must be stored and available for recall and must be of sufficient size that hand measurements may be made within requirement of paragraph (a) of this section. If a paper record is made it must have a paper speed of at least 2 cm/sec and a volume sensitivity of at least 10.0 mm of chart per liter of volume.
+g. 1. Instruments purchased on or before May 14, 2020 shall provide a tracing or display of either flow versus volume or volume versus time during the entire forced expiration. A tracing or display is necessary to determine whether the patient has performed the test properly. The tracing must be stored and available for recall and must be of sufficient size that hand measurements may be made within the volume accuracy requirements of paragraph (a) of this section I. If a paper record is made it must have a paper speed of at least 2 cm/sec and a volume sensitivity of at least 10.0 mm of chart per liter of volume.
 
-h. The instrument shall be capable of accumulating volume for a minimum of 10 seconds and shall not stop accumulating volume before (1) the volume change for a 0.5 second interval is less than 25 milliliters, or (2) the flow is less than 50 milliliters per second for a 0.5 second interval.
+2. Instruments purchased after May 14, 2020 shall provide during testing a paper tracing or real-time display of flow versus volume and volume versus time for the entire forced expiration. Such a tracing or display is necessary to determine whether the worker has performed the test properly. Flow-volume and volume-time curves must be stored and available for recall. Real-time displays shall have a volume scale of at least 5 mm/L, a time scale of at least 10 mm/s, and a flow scale of at least 2.5 mm/L/s, when both flow-volume and volume-time displays are visible. If hand measurements will be made, paper tracings must be of sufficient size to allow those measurements to be made within the volume accuracy requirements of paragraph (a) of this section I. If a paper record is made it must have a paper speed of at least 2 cm/sec and a volume sensitivity of at least 10.0 mm of chart per liter of volume.
 
-i. The forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1.0) measurements shall comply with the accuracy requirements stated in paragraph (a) of this section. That is, they should be accurately measured to within ±50 ml or within ±3 percent of reading, whichever is greater.
+h. 1. Instruments purchased on or before May 14, 2020 shall be capable of accumulating volume for a minimum of 10 seconds and shall not stop accumulating volume before (i) the volume change for a 0.5-second interval is less than 25 milliliters, or (ii) the flow is less than 50 milliliters per second for a 0.5 second interval.
 
-j. The instrument must be capable of being calibrated in the field with respect to the FEV1 and FVC. This calibration of the FEV1 and FVC may be either directly or indirectly through volume and time base measurements. The volume calibration source should provide a volume displacement of at least 2 liters and should be accurate to within ±30 milliliters.
+2. Instruments purchased after May 14, 2020 shall be capable of accumulating volume for a minimum of 15 seconds and shall not stop accumulating volume before the volume change for a 1-second interval is less than 25 milliliters.
 
-ii. technique for measurement of forced vital capacity maneuver
+i. The forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1) measurements shall comply with the accuracy requirements stated in paragraph (a) of this section. That is, they should be accurately measured to within ±50 ml or within ±3 percent of reading, whichever is greater.
 
-a. Use of a nose clip is recommended but not required. The procedures shall be explained in simple terms to the patient who shall be instructed to loosen any tight clothing and stand in front of the apparatus. The subject may sit, but care should be taken on repeat testing that the same position be used and, if possible, the same spirometer. Particular attention shall be given to insure that the chin is slightly elevated with the neck slightly extended. The patient shall be instructed to make a full inspiration from a normal breathing pattern and then blow into the apparatus, without interruption, as hard, fast, and completely as possible. At least three forced expirations shall be carried out. During the maneuvers, the patient shall be observed for compliance with instruction. The expirations shall be checked visually for reproducibility from flow-volume or volume-time tracings or displays. The following efforts shall be judged unacceptable when the patient:
+j. 1. Instruments purchased on or before May 14, 2020 must be capable of being calibrated in the field with respect to the FEV1 and FVC. This calibration of the FEV1 and FVC may be either directly or indirectly through volume and time base measurements. The volume calibration source should provide a volume displacement of at least 2 liters and should be accurate to within + or−30 milliliters.
+
+2. Instruments purchased after May 14, 2020 must be capable of having its calibration checked in the field and be recalibrated, if necessary, if the spirometer requires the technician to do so. The volume-calibration syringe shall provide a volume displacement of at least 3 liters and shall be accurate to within ± 0.5 percent of 3 liters (15 milliliters).
+
+II. Technique for Measurement of Forced Vital Capacity Maneuver
+
+a. Use of a nose clip is recommended but not required. The procedures shall be explained in simple terms to the worker who shall be instructed to loosen any tight clothing and stand in front of the apparatus. The worker may sit, but care should be taken on repeat testing that the same position be used and, if possible, the same spirometer. Particular attention shall be given to ensure that the chin is slightly elevated with the neck slightly extended. The worker shall be instructed to make a full inspiration from a normal breathing pattern and then blow into the apparatus, without interruption, as hard, fast, and completely as possible. At least three and no more than eight forced expirations shall be carried out. During the maneuvers, the worker shall be observed for compliance with instruction. The expirations shall be checked visually for technical acceptability and repeatability from flow-volume or volume-time tracings or displays. The following efforts shall be judged technically unacceptable when the worker:
 
 1. Has not reached full inspiration preceding the forced expiration,
 
 2. Has not used maximal effort during the entire forced expiration,
 
-3. Has not continued the expiration for at least 5 seconds or until an obvious plateau in the volume time curve has occurred,
+3. Has not tried to exhale continuously for at least 6 seconds and the volume-time curve shows no change in volume (\<0.025 L) for at least one second,
 
-4. Has coughed or closed his glottis,
+4. Has coughed in the first second or closed the glottis,
 
-5. Has an obstructed mouthpiece or a leak around the mouthpiece (obstruction due to tongue being placed in front of mouthpiece, false teeth falling in front of mouthpiece, etc.)
+5. Has an obstructed mouthpiece or a leak around the mouthpiece (obstruction due to tongue being placed in front of mouthpiece, false teeth falling in front of mouthpiece, etc.),
 
-6. Has an unsatisfactory start of expiration, one characterized by excessive hesitation (or false starts), and therefore not allowing back extrapolation of time 0 (extrapolated volume on the volume time tracing must be less than 10 percent of the FVC.)
+6. Has an unsatisfactory start of expiration, one characterized by excessive hesitation (or false starts), and, therefore, not allowing back extrapolation of time 0 (extrapolated volume on the volume-time tracing must be less than 150 milliliters or 5 percent of the FVC, whichever is greater.), and
 
-7. Has an excessive variability between the three acceptable curves. The variation between the two largest FVC's and FEV1's of the three satisfactory tracings should not exceed 10 percent or ±100 milliliters, whichever is greater.
+7. Has an excessive variability between the acceptable curves. The difference between the two largest FVCs from the satisfactory tracings shall not exceed 150 milliliters and the difference between the two largest FEV1s of the satisfactory tracings shall not exceed 150 milliliters.
 
-b. Periodic and routine recalibration of the instrument or method for recording FVC and FEV1.0 should be performed using a syringe or other volume source of at least 2 liters.
+b. Calibration checks of the volume accuracy of the instrument for recording FVC and FEV1 shall be performed daily or more frequently if specified by the spirometer manufacturer, using a 3-liter syringe. Calibration checks to ensure that the spirometer is recording 3 liters of injected air to within ±3.5 percent, or 2.90 to 3.10 liters, shall be conducted. Calibration checks of flow-type spirometers shall include injection of 3 liters air over a range of speeds, with injection times of 0.5 second, 3 seconds, and 6 or more seconds. Checks of volume-type spirometers shall include a single calibration check and a check to verify that the spirometer is not leaking more than 30 milliliters/minute air.
 
-iii. interpretation of spirogram
+III. Interpretation of Spirogram
 
-a. The first step in evaluating a spirogram should be to determine whether or not the patient has performed the test properly or as described in II above. From the three satisfactory tracings, the forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1.0) shall be measured and recorded. The largest observed FVC and largest observed FEV1 shall be used in the analysis regardless of the curve(s) on which they occur.
+a. The first step in evaluating a spirogram should be to determine whether or not the worker has performed the test properly or as described in section II of this appendix. From the three satisfactory tracings, the forced vital capacity (FVC) and forced expiratory volume in 1 second (FEV1) shall be measured and recorded. The largest observed FVC and largest observed FEV1 shall be used in the analysis regardless of the curve(s) on which they occur.
 
-b. The following guidelines are recommended by NIOSH for the evaluation and management of workers exposed to cotton dust. It is important to note that employees who show reductions in FEV1/FVC ratio below .75 or drops in Monday FEV1 of 5 percent or greater on their initial screening exam, should be re-evaluated within a month of the first exam. Those who show consistent decrease in lung function, as shown on the following table, should be managed as recommended.
+b. [Reserved]
 
-iv. qualifications of personnel administering the test
+IV. Qualifications of Personnel Administering the Test
 
 Technicians who perform pulmonary function testing should have the basic knowledge required to produce meaningful results. Training consisting of approximately 16 hours of formal instruction should cover the following areas.
 
-a. Basic physiology of the forced vital capacity maneuver and the determinants of airflow limitation with emphasis on the relation to reproducibility of results.
+a. Basic physiology of the forced vital-capacity maneuver and the determinants of airflow limitation, with emphasis on the relation to repeatability of results.
 
-b. Instrumentation requirements including calibration procedures, sources of error and their correction.
+b. Instrumentation requirements, including calibration check procedures, sources of error, and their correction.
 
-c. Performance of the testing including subject coaching, recognition of improperly performed maneuvers and corrective actions.
+c. Performance of the testing including worker coaching, recognition of improperly performed maneuvers and corrective actions.
 
-d. Data quality with emphasis on reproducibility.
+d. Data quality with emphasis on repeatability.
 
 e. Actual use of the equipment under supervised conditions.
 
 f. Measurement of tracings and calculations of results.
 
-Appendix E to § 1910.1043 - Vertical Elutriator Equivalency Protocol
-
-a. *Samples to be taken* - In order to ascertain equivalency, it is necessary to collect a total of 100 samples from at least 10 sites in a mill. That is, there should be 10 replicate readings at each of 10 sites. The sites should represent dust levels which vary over the allowable range of 0.5 to 2 times the permissible exposure limit. Each sample requires the use of two vertical elutriators (VE's) and at least one but not more than two alternative devices (AD's). Thus, the end result is 200 VE readings and either 100 or 200 AD readings. The 2 VE readings and the 1 or 2 AD readings at each time and site must be made simultaneously. That is, the two VE's and one or two AD's must be arranged together in such a way that they are measuring essentially the same dust levels.
-
-b. *Data averaging* - The two VE readings taken at each site are then averaged. These averages are to be used as the 100 VE readings. If two alternate devices were used, their test results are also averaged. Thus, after this step is accomplished, there will be 100 VE readings and 100 AD readings.
-
-c. *Differences* - For each of the 100 sets of measurements (VE and AD) the difference is obtained as the average VE reading minus the AD reading. Call these differences Di. Thus, we have.
-
-Di = VEi − ADi, i = 1,2, . . . ,100 (1)
-
-Next we compute the arithmetic mean and standard deviations of the differences, using equations (2) and (3), respectively.
-
-![](/graphics/ec28oc91.038.gif)
-
-where N equals the number of differences (100 in this case), XD is the arithmetic mean and SD is the standard deviation.
-
-We next calculate the critical value as T = KSD + |XD| where K = 1.87, based on 100 samples.
-
-d. *Equivalency test.* The next step is to obtain the average of the 100 VE readings. This is obtained by equation (4)
-
-![](/graphics/ec28oc91.039.gif)
-
-We next multiply 0.25 by XVE. If T ≤0.25 XVE, we can say that the alternate device has passed the equivalency test.
-
-[43 FR 27394, June 23, 1978; 43 FR 35035, Aug. 8, 1978, as amended at 45 FR 67340, Oct. 10, 1980; 50 FR 51173, Dec. 13, 1985; 51 FR 24325, July 3, 1986; 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1290, Jan. 8, 1998; 65 FR 76567, Dec. 7, 2000; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17782, Mar. 26, 2012]
+[43 FR 27394, June 23, 1978; 43 FR 35035, Aug. 8, 1978, as amended at 45 FR 67340, Oct. 10, 1980; 50 FR 51173, Dec. 13, 1985; 51 FR 24325, July 3, 1986; 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1290, Jan. 8, 1998; 65 FR 76567, Dec. 7, 2000; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17782, Mar. 26, 2012; 84 FR 21490, May 14, 2019]

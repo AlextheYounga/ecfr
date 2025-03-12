@@ -1,7 +1,5 @@
 ##### § 1910.1045 Acrylonitrile. #####
 
-Link to an amendment published at 84 FR 21518, May 14, 2019.
-
 (a) *Scope and application.* (1) This section applies to all occupational exposures to acrylonitrile (AN), Chemical Abstracts Service Registry No. 000107131, except as provided in paragraphs (a)(2) and (a)(3) of this section.
 
 (2) This section does not apply to exposures which result solely from the processing, use, and handling of the following materials:
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 *OSHA Area Office* means the Area Office of the Occupational Safety and Health Administration having jurisdiction over the geographic area where the affected workplace is located.
 
-(c) *Permissible exposure limits* - (1) *Inhalation.* (i) *Time weighted average limit (TWA).* The employer shall assure that no employee is exposed to an airborne concentration of acrylonitrile in excess of two (2) parts acrylonitrile per million parts of air (2 ppm) as an eight (8)-hour time-weighted average.
+(c) *Permissible exposure limits*—(1) *Inhalation.* (i) *Time weighted average limit (TWA).* The employer shall assure that no employee is exposed to an airborne concentration of acrylonitrile in excess of two (2) parts acrylonitrile per million parts of air (2 ppm) as an eight (8)-hour time-weighted average.
 
 (ii) *Ceiling limit.* The employer shall assure that no employee is exposed to an airborne concentration of acrylonitrile in excess of ten (10) ppm as averaged over any fifteen (15)-minute period during the work day.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (d) [Reserved]
 
-(e) *Exposure monitoring* - (1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to AN over an eight (8)-hour period.
+(e) *Exposure monitoring*—(1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to AN over an eight (8)-hour period.
 
 (ii) For the purposes of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
 
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (4) The employer shall assure that food or beverages are not present or consumed, tobacco products are not present or used, and cosmetics are not applied in the regulated area.
 
-(g) *Methods of compliance* - (1) *Engineering and work practice controls.* (i) By November 2, 1980, the employer shall institute engineering and work practice controls to reduce and maintain employee exposures to AN, to or below the permissible exposure limits, except to the extent that the employer establishes that such controls are not feasible.
+(g) *Methods of compliance*—(1) *Engineering and work practice controls.* (i) By November 2, 1980, the employer shall institute engineering and work practice controls to reduce and maintain employee exposures to AN, to or below the permissible exposure limits, except to the extent that the employer establishes that such controls are not feasible.
 
 (ii) Wherever the engineering and work practice controls which can be instituted are not sufficient to reduce employee exposures to or below the permissible exposure limits, the employer shall nonetheless use them to reduce exposures to the lowest levels achievable by these controls, and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (h) of this section.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (v) The plans required by this paragraph must be revised and updated at least annually to reflect the current status of the program.
 
-(h) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(h) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -114,7 +112,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (ii) For escape, provide employees with any organic vapor respirator or any self-contained breathing apparatus permitted for use under paragraph (h)(3)(i) of this standard.
 
-(i) *Emergency situations* - (1) *Written plans.* (i) A written plan for emergency situations shall be developed for each workplace where liquid AN is present. Appropriate portions of the plan shall be implemented in the event of an emergency.
+(i) *Emergency situations*—(1) *Written plans.* (i) A written plan for emergency situations shall be developed for each workplace where liquid AN is present. Appropriate portions of the plan shall be implemented in the event of an emergency.
 
 (ii) The plan shall specifically provide that employees engaged in correcting emergency conditions shall be equipped as required in paragraph (h) of this section until the emergency is abated.
 
@@ -122,7 +120,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (2) *Alerting employees.* Where there is the possibility of employee exposure to AN in excess of the ceiling limit, a general alarm shall be installed and used to promptly alert employees of such occurrences.
 
-(j) *Protective clothing and equipment* - (1) *Provision and use.* Where eye or skin contact with liquid AN may occur, the employer shall provide at no cost to the employee, and assure that employees wear, impermeable protective clothing or other equipment to protect any area of the body which may come in contact with liquid AN. The provision of §§ 1910.132 and 1910.133 shall be complied with.
+(j) *Protective clothing and equipment*—(1) *Provision and use.* Where eye or skin contact with liquid AN may occur, the employer shall provide at no cost to the employee, and assure that employees wear, impermeable protective clothing or other equipment to protect any area of the body which may come in contact with liquid AN. The provision of §§ 1910.132 and 1910.133 shall be complied with.
 
 (2) *Cleaning and replacement.* (i) The employer shall clean, launder, maintain, or replace protective clothing and equipment required by this section as needed to maintain their effectiveness.
 
@@ -150,7 +148,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (4) The employer shall assure that employees working in the regulated area wash their hands and faces prior to eating.
 
-(n) *Medical surveillance* - (1) *General.* (i) The employer shall institute a program of medical surveillance for each employee who is or will be exposed to AN at or above the action level, without regard to the use of respirators. The employer shall provide each such employee with an opportunity for medical examinations and tests in accordance with this paragraph.
+(n) *Medical surveillance*—(1) *General.* (i) The employer shall institute a program of medical surveillance for each employee who is or will be exposed to AN at or above the action level, without regard to the use of respirators. The employer shall provide each such employee with an opportunity for medical examinations and tests in accordance with this paragraph.
 
 (ii) The employer shall assure that all medical examinations and procedures are performed by or under the supervision of a licensed physician, and that they shall be provided without cost to the employee.
 
@@ -160,13 +158,13 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (ii) A complete physical examination giving particular attention to the peripheral and central nervous system, gastrointestinal system, respiratory system, skin, and thyroid;
 
-(iii) A 14- by 17-inch posteroanterior chest X-ray; and
+(iii) A 14- by 17-inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray; and
 
 (iv) Further tests of the intestinal tract, including fecal occult blood screening, for all workers 40 years of age or older, and for any other affected employees for whom, in the opinion of the physician, such testing is appropriate.
 
-(3) *Periodic examinations.* (i) The employer shall provide the examinations specified in paragraph (n)(2) of this section at least annually for all employees specified in paragraph (n)(1) of this section.
+(3) *Periodic examinations.* (i) The employer shall provide the examinations specified in paragraphs (n)(2)(i), (ii), and (iv) of this section at least annually for all employees specified in paragraph (n)(1) of this section.
 
-(ii) If an employee has not had the examination specified in paragraph (n)(2) of this section within 6 months preceding termination of employment, the employer shall make such examination available to the employee prior to such termination.
+(ii) If an employee has not had the examination specified in paragraphs (n)(2)(i), (ii), and (iv) of this section within 6 months preceding termination of employment, the employer shall make such examination available to the employee prior to such termination.
 
 (4) *Additional examinations.* If the employee for any reason develops signs or symptoms which may be associated with exposure to AN, the employer shall provide an appropriate examination and emergency medical treatment.
 
@@ -198,7 +196,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (iii) The employer shall provide a copy of the written opinion to the affected employee.
 
-(o) *Employee information and training* - (1) *Training program.* (i) The employer shall train each employee exposed to AN above the action level, each employee whose exposures are maintained below the action level by engineering and work practice controls, and each employee subject to potential skin or eye contact with liquid AN in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(o) *Employee information and training*—(1) *Training program.* (i) The employer shall train each employee exposed to AN above the action level, each employee whose exposures are maintained below the action level by engineering and work practice controls, and each employee subject to potential skin or eye contact with liquid AN in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
 (ii) Training shall be provided at the time of initial assignment, or upon institution of the training program, and at least annually thereafter, and the employer shall assure that each employee is informed of the following:
 
@@ -220,7 +218,7 @@ Link to an amendment published at 84 FR 21518, May 14, 2019.
 
 (ii) The employer shall provide, upon request, all materials relating to the employee information and training program to the Assistant Secretary and the Director.
 
-(p) *Communication of hazards* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for AN and AN-based materials not exempted under paragraph (a)(2) of this section.
+(p) *Communication of hazards*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for AN and AN-based materials not exempted under paragraph (a)(2) of this section.
 
 (ii) In classifying the hazards of AN and AN-based materials at least the following hazards are to be addressed: Cancer; central nervous system effects; liver effects; skin sensitization; skin, respiratory, and eye irritation; acute toxicity effects; and flammability.
 
@@ -246,7 +244,7 @@ DANGERCONTAINS ACRYLONITRILE (AN)CANCER HAZARD
 
 (iii) The employer shall ensure that the precautionary labels required by this paragraph (p)(3) are readily visible and legible.
 
-(q) *Recordkeeping* - (1) *Objective data for exempted operations.* (i) Where the processing, use, and handling of materials made from or containing AN are exempted pursuant to paragraph (a)(2)(ii) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
+(q) *Recordkeeping*—(1) *Objective data for exempted operations.* (i) Where the processing, use, and handling of materials made from or containing AN are exempted pursuant to paragraph (a)(2)(ii) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
 
 (ii) This record shall include at least the following information:
 
@@ -272,7 +270,7 @@ DANGERCONTAINS ACRYLONITRILE (AN)CANCER HAZARD
 
 (C) Type of respiratory protective devices worn, if any; and
 
-(D) Name, social security number, and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent.
+(D) Name and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent.
 
 (iii) The employer shall maintain this record for at least forty (40) years, or for the duration of employment plus twenty (20) years, whichever is longer.
 
@@ -298,7 +296,7 @@ DANGERCONTAINS ACRYLONITRILE (AN)CANCER HAZARD
 
 (ii) The employer shall also comply with any additional requirements involving transfer of records set forth in 29 CFR 1910.1020(h).
 
-(r) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe any monitoring of employee exposure to AN conducted pursuant to paragraph (e) of this section.
+(r) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe any monitoring of employee exposure to AN conducted pursuant to paragraph (e) of this section.
 
 (2) *Observation procedures.* (i) Whenever observation of the monitoring of employee exposure to AN requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer with personal protective clothing and equipment required to be worn by employees working in the area, assure the use of such clothing and equipment, and require the observer to comply with all other applicable safety and health procedures.
 
@@ -314,7 +312,7 @@ DANGERCONTAINS ACRYLONITRILE (AN)CANCER HAZARD
 
 (t) *Appendixes.* The information contained in the appendixes is not intended, by itself, to create any additional obligation not otherwise imposed, or to detract from any obligation.
 
-Appendix A to § 1910.1045 - Substance Safety Data Sheet for Acrylonitrilei. Substance Identification
+Appendix A to § 1910.1045—Substance Safety Data Sheet for Acrylonitrilei. Substance Identification
 
 A. Substance: Acrylonitrile (CH2 CHCN).
 
@@ -408,7 +406,7 @@ C. Your employer is required to keep records of your exposures and medical exami
 
 D. Your employer is required to release your exposure and medical records to you or your representative upon your request.
 
-Appendix B to § 1910.1045 - Substance Technical Guidelines for Acrylonitrilei. Physical and Chemical Data
+Appendix B to § 1910.1045—Substance Technical Guidelines for Acrylonitrilei. Physical and Chemical Data
 
 A. Substance identification: 1. Synonyms: AN; VCN; vinyl cyanide; propenenitrile; cyanoethylene; Acrylon; Carbacryl; Fumigrain; Ventox.
 
@@ -530,7 +528,7 @@ viii. Common Operations
 
 Common operations in which exposure to acrylonitrile is likely to occur include the following: Manufacture of the acrylonitrile monomer; synthesis of acrylic fibers, ABS, SAN, and nitrile barrier plastics and resins, nitrile rubber, surface coatings, specialty chemicals, use as a chemical intermediate, use as a fumigant and in the cyanoethylation of cotton.
 
-Appendix C to § 1910.1045 - Medical Surveillance Guidelines for Acrylonitrilei. route of entry
+Appendix C to § 1910.1045—Medical Surveillance Guidelines for Acrylonitrilei. route of entry
 
 Inhalation; skin absorption; ingestion.
 
@@ -570,7 +568,7 @@ B. Surveillance and screening. Medical histories and laboratory examinations are
 
 5. *General.* The purpose of the medical procedures outlined in the standard is to establish a baseline for future health monitoring. Persons unusually susceptible to the effects of anoxia or those with anemia would be expected to be at increased risk. In addition to emphasis on the CNS, respiratory and gastro-intestinal systems, the cardiovascular system, liver, and kidney function should also be stressed.
 
-Appendix D to § 1910.1045 - Sampling and Analytical Methods for Acrylonitrile
+Appendix D to § 1910.1045—Sampling and Analytical Methods for Acrylonitrile
 
 There are many methods available for monitoring employee exposures to acrylonitrile. Most of these involve the use of charcoal tubes and sampling pumps, with analysis by gas chromatograph. The essential differences between the charcoal tube methods include, among others, the use of different desorbing solvents, the use of different lots of charcoal, and the use of different equipment for analysis of the samples.
 
@@ -910,4 +908,4 @@ Read the weight, corresponding to each peak area from the standard curve, correc
 
 8. *Reference.* NIOSH Method S-156.
 
-[43 FR 45809, Oct. 3, 1978, as amended at 45 FR 35283, May 23, 1980; 54 FR 24334, June 7, 1989; 58 FR 35310, June 30, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1291, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17783, Mar. 26, 2012]
+[43 FR 45809, Oct. 3, 1978, as amended at 45 FR 35283, May 23, 1980; 54 FR 24334, June 7, 1989; 58 FR 35310, June 30, 1993; 61 FR 5508, Feb. 13, 1996; 63 FR 1291, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17783, Mar. 26, 2012; 84 FR 21518, May 14, 2019]

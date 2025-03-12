@@ -155,7 +155,7 @@ YOUR ESTIMATED INITIAL INVESTMENT
 
 (ii) List separately and by name any other specific required payments (for example, additional training, travel, or advertising expenses) that the franchisee must make to begin operations.
 
-(iii) Include a category titled “Additional funds - [initial period]” for any other required expenses the franchisee will incur before operations begin and during the initial period of operations. State the initial period. A reasonable initial period is at least three months or a reasonable period for the industry. Describe in general terms the factors, basis, and experience that the franchisor considered or relied upon in formulating the amount required for additional funds.
+(iii) Include a category titled “Additional funds— [initial period]” for any other required expenses the franchisee will incur before operations begin and during the initial period of operations. State the initial period. A reasonable initial period is at least three months or a reasonable period for the industry. Describe in general terms the factors, basis, and experience that the franchisor considered or relied upon in formulating the amount required for additional funds.
 
 (2) In column 2, state the amount of the payment. If the amount is unknown, use a low-high range based on the franchisor's current experience. If real property costs cannot be estimated in a low-high range, describe the approximate size of the property and building and the probable location of the building (for example, strip shopping center, mall, downtown, rural, or highway).
 
@@ -640,11 +640,9 @@ TRAINING PROGRAM
 (p) *Item 16*: *Restrictions on What the Franchisee May Sell.* Disclose any franchisor-imposed restrictions or conditions on the goods or services that the franchisee may sell or that limit access to customers, including:
 
 (1) Any obligation on the franchisee to sell only goods or services approved by
-
 the franchisor.
 
 (2) Any obligation on the franchisee to sell all goods or services authorized by
-
 the franchisor.
 
 (3) Whether the franchisor has the right to change the types of authorized goods or services and whether there are limits on the franchisor's right to make changes.
@@ -669,11 +667,11 @@ THE FRANCHISE RELATIONSHIP
 |                      d. Termination by franchisee                       |                                       |       |
 |               e. Termination by franchisor without cause                |                                       |       |
 |                 f. Termination by franchisor with cause                 |                                       |       |
-|                  g. “Cause” defined - curable defaults                  |                                       |       |
-|                h. “Cause” defined - non-curable defaults                |                                       |       |
+|                   g. “Cause” defined—curable defaults                   |                                       |       |
+|                 h. “Cause” defined—non-curable defaults                 |                                       |       |
 |         i. Franchisee's obligations on termination/non-renewal          |                                       |       |
 |                 j. Assignment of contract by franchisor                 |                                       |       |
-|                  k. “Transfer” by franchisee - defined                  |                                       |       |
+|                   k. “Transfer” by franchisee—defined                   |                                       |       |
 |            l. Franchisor approval of transfer by franchisee             |                                       |       |
 |            m. Conditions for franchisor approval of transfer            |                                       |       |
 | n. Franchisor's right of first refusal to acquire franchisee's business |                                       |       |
@@ -952,7 +950,7 @@ ReceiptThis disclosure document summarizes certain provisions of the franchise a
 
 (5) State the following:
 
-I received a disclosure document dated \_\_\_\_\_ that included the following Exhibits:
+I received a disclosure document dated \_\_\_\_\_\_\_\_\_\_ that included the following Exhibits:
 
 (6) List the title(s) of all attached Exhibits.
 

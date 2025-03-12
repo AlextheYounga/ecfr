@@ -44,7 +44,7 @@
 
 *Vapor control system* means any equipment used for containing the total vapors displaced during the loading of gasoline, motor fuel or other fuel tank trucks and the displacing of these vapors through a vapor processing system or balancing the vapor with the storage tank. This equipment also includes systems containing the vapors displaced from the storage tank during the unloading of the tank truck which balance the vapors back to the tank truck.
 
-(c) *Permissible exposure limits (PELs)* - (1) *Time-weighted average limit (TWA).* The employer shall assure that no employee is exposed to an airborne concentration of benzene in excess of one part of benzene per million parts of air (1 ppm) as an 8-hour time-weighted average.
+(c) *Permissible exposure limits (PELs)*—(1) *Time-weighted average limit (TWA).* The employer shall assure that no employee is exposed to an airborne concentration of benzene in excess of one part of benzene per million parts of air (1 ppm) as an 8-hour time-weighted average.
 
 (2) *Short-term exposure limit (STEL).* The employer shall assure that no employee is exposed to an airborne concentration of benzene in excess of five (5) ppm as averaged over any 15 minute period.
 
@@ -54,7 +54,7 @@
 
 (3) Regulated areas shall be determined from the rest of the workplace in any manner that minimizes the number of employees exposed to benzene within the regulated area.
 
-(e) *Exposure monitoring* - (1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of each employee's average exposure to airborne benzene.
+(e) *Exposure monitoring*—(1) *General.* (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of each employee's average exposure to airborne benzene.
 
 (ii) Representative 8-hour TWA employee exposures shall be determined on the basis of one sample or samples representing the full shift exposure for each job classification in each work area.
 
@@ -88,7 +88,7 @@
 
 (ii) Whenever the PELs are exceeded, the written notification required by paragraph (e)(7)(i) of this section shall contain the corrective action being taken by the employer to reduce the employee exposure to or below the PEL, or shall refer to a document available to the employee which states the corrective actions to be taken.
 
-(f) *Methods of compliance* - (1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to benzene at or below the permissible exposure limits, except to the extent that the employer can establish that these controls are not feasible or where the provisions of paragraph (f)(1)(iii) or (g)(1) of this section apply.
+(f) *Methods of compliance*—(1) *Engineering controls and work practices.* (i) The employer shall institute engineering controls and work practices to reduce and maintain employee exposure to benzene at or below the permissible exposure limits, except to the extent that the employer can establish that these controls are not feasible or where the provisions of paragraph (f)(1)(iii) or (g)(1) of this section apply.
 
 (ii) Wherever the feasible engineering controls and work practices which can be instituted are not sufficient to reduce employee exposure to or below the PELs, the employer shall use them to reduce employee exposure to the lowest levels achievable by these controls and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (g) of this section.
 
@@ -100,7 +100,7 @@
 
 (iii) Written compliance programs shall be furnished upon request for examination and copying to the Assistant Secretary, the Director, affected employees and designated employee representatives.
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -130,7 +130,7 @@
 
 (h) *Protective clothing and equipment.* Personal protective clothing and equipment shall be worn where appropriate to prevent eye contact and limit dermal exposure to liquid benzene. Protective clothing and equipment shall be provided by the employer at no cost to the employee and the employer shall assure its use where appropriate. Eye and face protection shall meet the requirements of 29 CFR 1910.133.
 
-(i) *Medical surveillance* - (1) *General.* (i) The employer shall make available a medical surveillance program for employees who are or may be exposed to benzene at or above the action level 30 or more days per year; for employees who are or may be exposed to benzene at or above the PELs 10 or more days per year; for employees who have been exposed to more than 10 ppm of benzene for 30 or more days in a year prior to the effective date of the standard when employed by their current employer; and for employees involved in the tire building operations called tire building machine operators, who use solvents containing greater than 0.1 percent benzene.
+(i) *Medical surveillance*—(1) *General.* (i) The employer shall make available a medical surveillance program for employees who are or may be exposed to benzene at or above the action level 30 or more days per year; for employees who are or may be exposed to benzene at or above the PELs 10 or more days per year; for employees who have been exposed to more than 10 ppm of benzene for 30 or more days in a year prior to the effective date of the standard when employed by their current employer; and for employees involved in the tire building operations called tire building machine operators, who use solvents containing greater than 0.1 percent benzene.
 
 (ii) The employer shall assure that all medical examinations and procedures are performed by or under the supervision of a licensed physician and that all laboratory tests are conducted by an accredited laboratory.
 
@@ -240,7 +240,7 @@
 
 (iii) The employer's obligation to provide medical removal protection benefits to a removed employee shall be reduced to the extent that the employee receives compensation for earnings lost during the period of removal either from a publicly or employer-funded compensation program, or from employment with another employer made possible by virtue of the employee's removal.
 
-(j) *Communication of hazards* - (1) *Hazard communication* - *general.* Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for benzene.
+(j) *Communication of hazards*—(1) *Hazard communication*—*general.* Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for benzene.
 
 (ii) In classifying the hazards of benzene at least the following hazards are to be addressed: Cancer; central nervous system effects; blood effects; aspiration; skin, eye, and respiratory tract irritation; and flammability.
 
@@ -252,7 +252,7 @@ DANGERBENZENEMAY CAUSE CANCERHIGHLY FLAMMABLE LIQUID AND VAPORDO NOT SMOKEWEAR R
 
 (ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(2)(i) of this section:
 
-DANGERBENZENECANCER HAZARDFLAMMABLE - NO SMOKINGAUTHORIZED PERSONNEL ONLYRESPIRATOR REQUIRED
+DANGERBENZENECANCER HAZARDFLAMMABLE—NO SMOKINGAUTHORIZED PERSONNEL ONLYRESPIRATOR REQUIRED
 
 (iii) The employer shall ensure that labels or other appropriate forms of warning are provided for containers of benzene within the workplace. There is no requirement to label pipes. The labels shall comply with the requirements of paragraph (j)(1) of this section and § 1910.1200(f).
 
@@ -270,7 +270,7 @@ DANGERCONTAINS BENZENECANCER HAZARD
 
 (B) Describe the medical surveillance program required under paragraph (i) of this section, and explain the information contained in appendix C.
 
-(k) *Recordkeeping* - (1) *Exposure measurements.* (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (e) of this section, in accordance with 29 CFR 1910.20.
+(k) *Recordkeeping*—(1) *Exposure measurements.* (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (e) of this section, in accordance with 29 CFR 1910.20.
 
 (ii) This record shall include:
 
@@ -280,7 +280,7 @@ DANGERCONTAINS BENZENECANCER HAZARD
 
 (C) A description of the type of respiratory protective devices worn, if any; and
 
-(D) The name, social security number, job classification and exposure levels of the employee monitored and all other employees whose exposure the measurement is intended to represent.
+(D) The name, job classification and exposure levels of the employee monitored and all other employees whose exposure the measurement is intended to represent.
 
 (iii) The employer shall maintain this record for at least 30 years, in accordance with 29 CFR 1910.20.
 
@@ -288,7 +288,7 @@ DANGERCONTAINS BENZENECANCER HAZARD
 
 (ii) This record shall include:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) The employer's copy of the physician's written opinion on the initial, periodic and special examinations, including results of medical examinations and all tests, opinions and recommendations;
 
@@ -308,7 +308,7 @@ DANGERCONTAINS BENZENECANCER HAZARD
 
 (4) *Transfer of records.* The employer shall comply with the requirements involving transfer of records as set forth in 29 CFR 1910.1020(h).
 
-(l) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe the measuring or monitoring of employee exposure to benzene conducted pursuant to paragraph (e) of this section.
+(l) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe the measuring or monitoring of employee exposure to benzene conducted pursuant to paragraph (e) of this section.
 
 (2) *Observation procedures.* When observation of the measuring or monitoring of employee exposure to benzene requires entry into areas where the use of protective clothing and equipment or respirators is required, the employer shall provide the observer with personal protective clothing and equipment or respirators required to be worn by employees working in the area, assure the use of such clothing and equipment or respirators, and require the observer to comply with all other applicable safety and health procedures.
 
@@ -316,7 +316,7 @@ DANGERCONTAINS BENZENECANCER HAZARD
 
 (n) *Appendices.* The information contained in Appendices A, B, C, and D is not intended, by itself, to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
-Appendix A to § 1910.1028 - Substance Safety Data Sheet, BenzeneI. Substance Identification
+Appendix A to § 1910.1028—Substance Safety Data Sheet, BenzeneI. Substance Identification
 
 A. Substance: Benzene.
 
@@ -370,7 +370,7 @@ VIII. Precautions for Safe Use, Handling and Storage
 
 Benzene liquid is highly flammable. It should be stored in tightly closed containers in a cool, well ventilated area. Benzene vapor may form explosive mixtures in air. All sources of ignition must be controlled. Use nonsparking tools when opening or closing benzene containers. Fire extinguishers, where provided, must be readily available. Know where they are located and how to operate them. Smoking is prohibited in areas where benzene is used or stored. Ask your supervisor where benzene is used in your area and for additional plant safety rules.
 
-Appendix B to § 1910.1028 - Substance Technical Guidelines, BenzeneI. Physical and Chemical Data
+Appendix B to § 1910.1028—Substance Technical Guidelines, BenzeneI. Physical and Chemical Data
 
 A. Substance identification.
 
@@ -436,7 +436,7 @@ B. Use non-sparking tools to open benzene containers which are effectively groun
 
 C. Employers must advise employees of all plant areas and operations where exposure to benzene could occur. Common operations in which high exposures to benzene may be encountered are: the primary production and utilization of benzene, and transfer of benzene.
 
-Appendix C to § 1910.1028 - Medical Surveillance Guidelines for BenzeneI. Route of Entry
+Appendix C to § 1910.1028—Medical Surveillance Guidelines for BenzeneI. Route of Entry
 
 Inhalation; skin absorption.
 
@@ -504,7 +504,7 @@ An upward trend in the number of basophils, which normally do not exceed about 2
 
 The normal range of monocytes is from 2.0 to 8.0 percent of the total white count with an average of about 5.0 percent. About 20 percent of individuals reported to have mild but persisting abnormalities caused by exposure to benzene show a persistent monocytosis. The findings of a monocyte count which persists at more than 10 to 12 percent of the normal white cell count (when the total count is normal) or persistence of an absolute monocyte count in excess of 800/mm3 should be regarded as a possible sign of benzene-induced toxicity.
 
-A less frequent but more serious indication of benzene toxicity is the finding in the peripheral blood of the so-called “pseudo” (or acquired) Pelger-Huet anomaly. In this anomaly many, or sometimes the majority, of the neutrophilic granulocytes possess two round nuclear segements - less often one or three round segments - rather than three normally elongated segments. When this anomaly is not hereditary, it is often but not invariably predictive of subsequent leukemia. However, only about two percent of patients who ultimately develop acute myelogenous leukemia show the acquired Pelger-Huet anomaly. Other tests that can be administered to investigate blood abnormalities are discussed below; however, such procedures should be undertaken by the hematologist.
+A less frequent but more serious indication of benzene toxicity is the finding in the peripheral blood of the so-called “pseudo” (or acquired) Pelger-Huet anomaly. In this anomaly many, or sometimes the majority, of the neutrophilic granulocytes possess two round nuclear segements—less often one or three round segments—rather than three normally elongated segments. When this anomaly is not hereditary, it is often but not invariably predictive of subsequent leukemia. However, only about two percent of patients who ultimately develop acute myelogenous leukemia show the acquired Pelger-Huet anomaly. Other tests that can be administered to investigate blood abnormalities are discussed below; however, such procedures should be undertaken by the hematologist.
 
 An uncommon sign, which cannot be detected from the smear, but can be elicited by a “sucrose water test” of peripheral blood, is transient paroxysmal nocturnal hemoglobinuria (PNH), which may first occur insidiously during a period of established aplastic anemia, and may be followed within one to a few years by the appearance of rapidly fatal acute myelogenous leukemia. Clinical detection of PNH, which occurs in only one or two percent of those destined to have acute myelogenous leukemia, may be difficult; if the “sucrose water test” is positive, the somewhat more definitive Ham test, also known as the acid-serum hemolysis test, may provide confirmation.
 
@@ -516,7 +516,7 @@ Recently peroxidase-staining of circulating or marrow neutrophil granulocytes, e
 
 Measurement of serum iron, determination of peroxidase and of alkaline phosphatase activity in peripheral granulocytes can be performed in most pathology laboratories. Peroxidase and alkaline phosphatase staining are usually undertaken when the index of suspecion for leukemia is high.
 
-Appendix D to § 1910.1028 - Sampling and Analytical Methods for Benzene Monitoring and Measurement Procedures
+Appendix D to § 1910.1028—Sampling and Analytical Methods for Benzene Monitoring and Measurement Procedures
 
 Measurements taken for the purpose of determining employee exposure to benzene are best taken so that the representative average 8-hour exposure may be determined from a single 8-hour sample or two (2) 4-hour samples. Short-time interval samples (or grab samples) may also be used to determine average exposure level if a minimum of five measurements are taken in a random manner over the 8-hour work shift. Random sampling means that any portion of the work shift has the same change of being sampled as any other. The arithmetic average of all such random samples taken on one work shift is an estimate of an employee's average level of exposure for that work shift. Air samples should be taken in the employee's breathing zone (air that would most nearly represent that inhaled by the employee). Sampling and analysis must be performed with procedures meeting the requirements of the standard.
 
@@ -644,7 +644,7 @@ ppm = (mg/m3)(24.46)/(78.11)Where:24.46 = molar volume of an ideal gas25 °C and
 
 8. Backup Data.
 
-8.1 Detection limit - Air Samples.
+8.1 Detection limit—Air Samples.
 
 The detection limit for the analytical procedure is 1.28 ng with a coefficient of variation of 0.023 at this level. This would be equivalent to an air concentration of 0.04 ppm for a 10 L air sample. This amount provided a chromatographic peak that could be identifiable in the presence of possible interferences. The detection limit data were obtained by making 1 µL injections of a 1.283 µg/mL standard.
 
@@ -657,7 +657,7 @@ The detection limit for the analytical procedure is 1.28 ng with a coefficient o
 |    5    |  636.4   |CV = 0.023|
 |    6    |  629.2   |          |
 
-8.2. Pooled coefficient of variation - Air Samples. The pooled coefficient of variation for the analytical procedure was determined by 1 µL replicate injections of analytical standards. The standards were 16.04, 32.08, and 64.16 µg/mL, which are equivalent to 0.5, 1.0, and 2.0 ppm for a 10 L air sample respectively.
+8.2. Pooled coefficient of variation—Air Samples. The pooled coefficient of variation for the analytical procedure was determined by 1 µL replicate injections of analytical standards. The standards were 16.04, 32.08, and 64.16 µg/mL, which are equivalent to 0.5, 1.0, and 2.0 ppm for a 10 L air sample respectively.
 
 |Injection |Area Counts|       |       |
 |----------|-----------|-------|-------|
@@ -673,11 +673,9 @@ The detection limit for the analytical procedure is 1.28 ng with a coefficient o
 |   CV =   |  0.0116   |0.0076 |0.0034 |
 |CV = 0.008|           |       |       |
 
-8.3. Storage data - Air Samples
+8.3. Storage data—Air Samples
 
 Samples were generated at 1.03 ppm benzene at 80% relative humidity, 22 °C, and 643 mm. All samples were taken for 50 minutes at 0.2 L/min. Six samples were analyzed immediately and the rest of the samples were divided into two groups by fifteen samples each. One group was stored at refrigerated temperature of −25 °C, and the other group was stored at ambient temperature (approximately 23 °C). These samples were analyzed over a period of fifteen days. The results are tabulated below.
-
-Percent Recovery
 
 |Day analyzed|  Refrigerated  |    Ambient     |
 |------------|----------------|----------------|
@@ -692,8 +690,6 @@ Percent Recovery
 8.4. Desorption data.
 
 Samples were prepared by injecting liquid benzene onto the A section of charcoal tubes. Samples were prepared that would be equivalent to 0.5, 1.0, and 2.0 ppm for a 10 L air sample.
-
-Percent Recovery
 
 | Sample |0.5 ppm|1.0 ppm|2.0 ppm|
 |--------|-------|-------|-------|
@@ -712,15 +708,15 @@ Percent Recovery
 
 Carbon disulfide from a number of sources was analyzed for benzene contamination. The results are given in the following table. The benzene contamiant can be removed with the procedures given in section 4.1.
 
-|      Sample       |µg Benzene/mL|ppm equivalent (for 10 L air sample)|
-|-------------------|-------------|------------------------------------|
-| Aldrich Lot 83017 |    4.20     |                0.13                |
-| Baker Lot 720364  |    1.01     |                0.03                |
-| Baker Lot 822351  |    1.01     |                0.03                |
-|Malinkrodt Lot WEMP|    1.74     |                0.05                |
-|Malinkrodt Lot WDSJ|    5.65     |                0.18                |
-|Malinkrodt Lot WHGA|    2.90     |                0.09                |
-|    Treated CS2    |             |                                    |
+|        Sample        |µg Benzene/mL|ppm equivalent (for 10 L air sample)|
+|----------------------|-------------|------------------------------------|
+|  Aldrich Lot 83017   |    4.20     |                0.13                |
+|   Baker Lot 720364   |    1.01     |                0.03                |
+|   Baker Lot 822351   |    1.01     |                0.03                |
+| Malinkrodt Lot WEMP  |    1.74     |                0.05                |
+| Malinkrodt Lot WDSJ  |    5.65     |                0.18                |
+| Malinkrodt Lot WHGA  |    2.90     |                0.09                |
+|Treated CS<sub>2</sub>|             |                                    |
 
 II. OSHA Laboratory Method No. 12 for Bulk Samples
 
@@ -760,7 +756,7 @@ Detection limits: 0.01% by volume.
 
 3.5. An electronic integrator or some other suitable method of measuring peak areas.
 
-3.6. Microliter syringes - 10 µL syringe and other convenient sizes for making standards. 10 µL syringe for sample injections.
+3.6. Microliter syringes—10 µL syringe and other convenient sizes for making standards. 10 µL syringe for sample injections.
 
 3.7. Volumetric flasks, 5 mL and other convenient sizes for preparing standards and making dilutions.
 
@@ -786,11 +782,11 @@ If necessary, the samples are distilled or clarified. Samples are analyzed undil
 
 The typical operating conditions for the high performance liquid chromatograph are:
 
-1. Mobile phase - Methyl alcohol/water, 50/50
+1. Mobile phase—Methyl alcohol/water, 50/50
 
-1. Analytical wavelength - 254 nm
+1. Analytical wavelength—254 nm
 
-3. Injection size - 10 µL
+3. Injection size—10 µL
 
 6.3. Measurement of peak area and calibration.
 
@@ -804,7 +800,7 @@ Since the integrator is programmed to report results in % benzene by volume in a
 
 8. Backup Data.
 
-8.1. Detection limit - Bulk Samples.
+8.1. Detection limit—Bulk Samples.
 
 The detection limit for the analytical procedure for bulk samples is 0.88 µg, with a coefficient of variation of 0.019 at this level. This amount provided a chromatographic peak that could be identifiable in the presence of possible interferences. The detection limit date were obtained by making 10 µL injections of a 0.10% by volume standard.
 
@@ -816,11 +812,9 @@ The detection limit for the analytical procedure for bulk samples is 0.88 µg, w
 |    4    |  44062   |SD = 852.5 |
 |    6    |  42724   |CV = 0.019 |
 
-8.2. Pooled coefficient of variation - Bulk Samples.
+8.2. Pooled coefficient of variation—Bulk Samples.
 
 The pooled coefficient of variation for analytical procedure was determined by 50 µL replicate injections of analytical standards. The standards were 0.01, 0.02, 0.04, 0.10, 1.0, and 2.0% benzene by volume.
-
-Area count (Percent)
 
 |Injection No.| 0.01  | 0.02  | 0.04 | 0.10 |  1.0  |  2.0  |
 |-------------|-------|-------|------|------|-------|-------|

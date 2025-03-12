@@ -20,7 +20,7 @@
 
 *Assistant Secretary* means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
 
-(c) *Permissible exposure limit* - (1) *Inhalation.* The employer shall assure that no employee is exposed to an airborne concentration of DBCP in excess of 1 part DBCP per billion parts of air (ppb) as an 8-hour time-weighted average.
+(c) *Permissible exposure limit*—(1) *Inhalation.* The employer shall assure that no employee is exposed to an airborne concentration of DBCP in excess of 1 part DBCP per billion parts of air (ppb) as an 8-hour time-weighted average.
 
 (2) *Dermal and eye exposure.* The employer shall assure that no employee is exposed to eye or skin contact with DBCP.
 
@@ -30,7 +30,7 @@
 
 (2) The employer shall limit access to regulated areas to authorized persons.
 
-(f) *Exposure monitoring* - (1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to DBCP over an 8-hour period.
+(f) *Exposure monitoring*—(1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to DBCP over an 8-hour period.
 
 (ii) For the purposes of this paragraph, employee exposure is that exposure which would occur if the employee were not using a respirator.
 
@@ -48,7 +48,7 @@
 
 (6) *Accuracy of measurement.* The employer shall use a method of measurement which has an accuracy, to a confidence level of 95 percent, of not less than plus or minus 25 percent for concentrations of DBCP at or above the permissible exposure limit.
 
-(g) *Methods of compliance* - (1) *Priority of compliance methods.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposures to DBCP at or below the permissible exposure limit, except to the extent that the employer establishes that such controls are not feasible. Where feasible engineering and work practice controls are not sufficient to reduce employee exposures to within the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls, and shall supplement them by use of respiratory protection.
+(g) *Methods of compliance*—(1) *Priority of compliance methods.* The employer shall institute engineering and work practice controls to reduce and maintain employee exposures to DBCP at or below the permissible exposure limit, except to the extent that the employer establishes that such controls are not feasible. Where feasible engineering and work practice controls are not sufficient to reduce employee exposures to within the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls, and shall supplement them by use of respiratory protection.
 
 (2) *Compliance program.* (i) The employer shall establish and implement a written program to reduce employee exposures to DBCP to or below the permissible exposure limit solely by means of engineering and work practice controls as required by paragraph (g)(1) of this section.
 
@@ -58,7 +58,7 @@
 
 (iv) The employer shall institute and maintain at least the controls described in his most recent written compliance program.
 
-(h) *Respiratory protection* - (1) *General.* For employees who are required to use respirators by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(h) *Respiratory protection*—(1) *General.* For employees who are required to use respirators by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -80,7 +80,7 @@
 
 (B) An SCBA with a full facepiece operated in a pressure-demand or other positive-pressure mode.
 
-(i) *Emergency situations* - (1) *Written plans.* (i) A written plan for emergency situations shall be developed for each workplace in which DBCP is present.
+(i) *Emergency situations*—(1) *Written plans.* (i) A written plan for emergency situations shall be developed for each workplace in which DBCP is present.
 
 (ii) Appropriate portions of the plan shall be implemented in the event of an emergency.
 
@@ -96,7 +96,7 @@
 
 (ii) In workplaces not normally subject to periodic monitoring, the employer may terminate monitoring when two consecutive measurements indicate exposures below the permissible exposure limit.
 
-(j) *Protective clothing and equipments* - (1) *Provision and use.* Where there is any possibility of eye or dermal contact with liquid or solid DBCP, the employer shall provide, at no cost to the employee, and assure that the employee wears impermeable protective clothing and equipment to protect the area of the body which may come in contact with DBCP. Eye and face protection shall meet the requirements of § 1910.133 of this part.
+(j) *Protective clothing and equipments*—(1) *Provision and use.* Where there is any possibility of eye or dermal contact with liquid or solid DBCP, the employer shall provide, at no cost to the employee, and assure that the employee wears impermeable protective clothing and equipment to protect the area of the body which may come in contact with DBCP. Eye and face protection shall meet the requirements of § 1910.133 of this part.
 
 (2) *Removal and storage.* (i) The employer shall assure that employees remove DBCP contaminated work clothing only in change rooms provided in accordance with paragraph (l) (1) of this section.
 
@@ -114,7 +114,7 @@
 
 (iii) The employer shall prohibit the removal of DBCP from protective clothing and equipment by blowing or shaking.
 
-(k) *Housekeeping* - (1) *Surfaces.* (i) All workplace surfaces shall be maintained free of visible accumulations of DBCP.
+(k) *Housekeeping*—(1) *Surfaces.* (i) All workplace surfaces shall be maintained free of visible accumulations of DBCP.
 
 (ii) Dry sweeping and the use of compressed air for the cleaning of floors and other surfaces is prohibited where DBCP dusts or liquids are present.
 
@@ -130,7 +130,7 @@
 
 (3) *Waste disposal.* DBCP waste scrap, debris, containers or equipment, shall be disposed of in sealed bags or other closed containers which prevent dispersion of DBCP outside the container.
 
-(l) *Hygiene facilities and practices* - (1) *Change rooms.* The employer shall provide clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment whenever employees are required to wear protective clothing and equipment in accordance with paragraphs (h) and (j) of this section.
+(l) *Hygiene facilities and practices*—(1) *Change rooms.* The employer shall provide clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment whenever employees are required to wear protective clothing and equipment in accordance with paragraphs (h) and (j) of this section.
 
 (2) *Showers.* (i) The employer shall assure that employees working in the regulated area shower at the end of the work shift.
 
@@ -146,7 +146,7 @@
 
 (5) *Prohibition of activities in regulated areas.* The employer shall assure that, in regulated areas, food or beverages are not present or consumed, smoking products and implements are not present or used, and cosmetics are not present or applied.
 
-(m) *Medical surveillance* - (1) *General.* (i) The employer shall make available a medical surveillance program for employees who work in regulated areas and employees who are subjected to DBCP exposures in an emergency situation.
+(m) *Medical surveillance*—(1) *General.* (i) The employer shall make available a medical surveillance program for employees who work in regulated areas and employees who are subjected to DBCP exposures in an emergency situation.
 
 (ii) All medical examinations and procedures shall be performed by or under the supervision of a licensed physician, and shall be provided without cost to the employee.
 
@@ -190,7 +190,7 @@
 
 (6) *Emergency situations.* If the employee is exposed to DBCP in an emergency situation, the employer shall provide the employee with a sperm count test as soon as practicable, or, if the employee has been vasectionized or is unable to produce a semen specimen, the hormone tests contained in paragraph (m)(2)(iii) of this section. The employer shall provide these same tests three months later.
 
-(n) *Employee information and training* - (1) *Training program.* (i) The employer shall train each employee who may be exposed to DBCP in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(n) *Employee information and training*—(1) *Training program.* (i) The employer shall train each employee who may be exposed to DBCP in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
 (ii) The employer shall assure that each employee is informed of the following:
 
@@ -208,7 +208,7 @@
 
 (ii) The employer shall provide, upon request, all materials relating to the employee information and training program to the Assistant Secretary and the Director.
 
-(o) *Communication of hazards* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for DBCP.
+(o) *Communication of hazards*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for DBCP.
 
 (ii) In classifying the hazards of DBCP at least the following hazards are to be addressed: Cancer; reproductive effects; liver effects; kidney effects; central nervous system effects; skin, eye and respiratory tract irritation; and acute toxicity effects.
 
@@ -232,7 +232,7 @@ DANGER1,2-Dibromo-3-chloropropane(Insert appropriate trade or common names)CANCE
 
 DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
 
-(p) *Recordkeeping* - (1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (f) of this section.
+(p) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (f) of this section.
 
 (ii) This record shall include:
 
@@ -242,7 +242,7 @@ DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
 
 (*c*) Type of respiratory protective devices worn, if any; and
 
-(*d*) Name, social security number, and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent.
+(*d*) Name and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent.
 
 (iii) The employer shall maintain this record for at least 40 years or the duration of employment plus 20 years, whichever is longer.
 
@@ -250,7 +250,7 @@ DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
 
 (ii) This record shall include:
 
-(*a*) The name and social security number of the employee;
+(*a*) The name of the employee;
 
 (*b*) A copy of the physician's written opinion;
 
@@ -270,7 +270,7 @@ DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
 
 (ii) The employer shall also comply with any additional requirements involving transfer of records set forth in 29 CFR 1910.1020(h).
 
-(q) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, with an opportunity to observe any monitoring of employee exposure to DBCP required by this section.
+(q) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, with an opportunity to observe any monitoring of employee exposure to DBCP required by this section.
 
 (2) *Observation procedures.* (i) Whenever observation of the measuring or monitoring of employee exposure to DBCP requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer with personal protective clothing or equipment required to be worn by employees working in the area, assure the use of such clothing and equipment, and require the observer to comply with all other applicable safety and health procedures.
 
@@ -284,7 +284,7 @@ DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
 
 (r) *Appendices.* The information contained in the appendices is not intended, by itself, to create any additional obligations not otherwise imposed or to detract from any existing obligation.
 
-Appendix A to § 1910.1044 - Substance Safety Data Sheet For DBCPi. Substance Identification
+Appendix A to § 1910.1044—Substance Safety Data Sheet For DBCPi. Substance Identification
 
 A. Synonyms and trades names: DBCP; Dibromochloropropane; Fumazone (Dow Chemical Company TM); Nemafume; Nemagon (Shell Chemical Co. TM); Nemaset; BBC 12; and OS 1879.
 
@@ -368,11 +368,11 @@ C. Your employer is required to keep records of your exposure and medical examin
 
 D. Your employer is required to release exposure and medical records to you, your physician, or other individual designated by you upon your written request.
 
-Appendix B to § 1910.1044 - Substance Technical Guidelines for DBCPi. Physical and Chemical Data
+Appendix B to § 1910.1044—Substance Technical Guidelines for DBCPi. Physical and Chemical Data
 
 A. Substance Identification
 
-1. Synonyms: 1,2-dibromo-3-chloropropane; DBCP, Fumazone; Nemafume; Nemagon; Nemaset; BBC 12; OS 1879. DBCP is also included in agricultural pesticides and fumigants which include the phrase “Nema - ” in their name.
+1. Synonyms: 1,2-dibromo-3-chloropropane; DBCP, Fumazone; Nemafume; Nemagon; Nemaset; BBC 12; OS 1879. DBCP is also included in agricultural pesticides and fumigants which include the phrase “Nema—” in their name.
 
 2. Formula: C3H5Br2 C1.
 
@@ -490,7 +490,7 @@ viii. Common Operations
 
 Common operations in which exposure to DBCP is likely to occur are: during its production; and during its formulation into pesticides and fumigants.
 
-Appendix C to § 1910.1044 - Medical Surveillance Guidelines For DBCPi. Route of Entry
+Appendix C to § 1910.1044—Medical Surveillance Guidelines For DBCPi. Route of Entry
 
 Inhalation; skin absorption
 

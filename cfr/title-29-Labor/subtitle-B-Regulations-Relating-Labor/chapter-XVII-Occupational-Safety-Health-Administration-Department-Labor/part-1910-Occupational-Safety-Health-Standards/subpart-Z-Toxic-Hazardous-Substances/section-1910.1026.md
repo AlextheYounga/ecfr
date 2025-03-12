@@ -36,7 +36,7 @@
 
 (c) *Permissible exposure limit (PEL).* The employer shall ensure that no employee is exposed to an airborne concentration of chromium (VI) in excess of 5 micrograms per cubic meter of air (5 µgm/m3), calculated as an 8-hour time-weighted average (TWA).
 
-(d) *Exposure determination* - (1) *General.* Each employer who has a workplace or work operation covered by this section shall determine the 8-hour TWA exposure for each employee exposed to chromium (VI). This determination shall be made in accordance with either paragraph (d)(2) or paragraph (d)(3) of this section.
+(d) *Exposure determination*—(1) *General.* Each employer who has a workplace or work operation covered by this section shall determine the 8-hour TWA exposure for each employee exposed to chromium (VI). This determination shall be made in accordance with either paragraph (d)(2) or paragraph (d)(3) of this section.
 
 (2) *Scheduled monitoring option.* (i) The employer shall perform initial monitoring to determine the 8-hour TWA exposure for each employee on the basis of a sufficient number of personal breathing zone air samples to accurately characterize full shift exposure on each shift, for each job classification, in each work area. Where an employer does representative sampling instead of sampling all employees in order to meet this requirement, the employer shall sample the employee(s) expected to have the highest chromium (VI) exposures.
 
@@ -62,7 +62,7 @@
 
 (ii) When observation of monitoring requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide the observer with clothing and equipment and shall assure that the observer uses such clothing and equipment and complies with all other applicable safety and health procedures.
 
-(e) *Regulated areas* - (1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of chromium (VI) is, or can reasonably be expected to be, in excess of the PEL.
+(e) *Regulated areas*—(1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of chromium (VI) is, or can reasonably be expected to be, in excess of the PEL.
 
 (2) *Demarcation.* The employer shall ensure that regulated areas are demarcated from the rest of the workplace in a manner that adequately establishes and alerts employees of the boundaries of the regulated area.
 
@@ -74,7 +74,7 @@
 
 (iii) Any person authorized by the Occupational Safety and Health Act or regulations issued under it to be in a regulated area.
 
-(f) *Methods of compliance* - (1) *Engineering and work practice controls.* (i) Except as permitted in paragraph (f)(1)(ii) and paragraph (f)(1)(iii) of this section, the employer shall use engineering and work practice controls to reduce and maintain employee exposure to chromium (VI) to or below the PEL unless the employer can demonstrate that such controls are not feasible. Wherever feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the PEL, the employer shall use them to reduce employee exposure to the lowest levels achievable, and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
+(f) *Methods of compliance*—(1) *Engineering and work practice controls.* (i) Except as permitted in paragraph (f)(1)(ii) and paragraph (f)(1)(iii) of this section, the employer shall use engineering and work practice controls to reduce and maintain employee exposure to chromium (VI) to or below the PEL unless the employer can demonstrate that such controls are not feasible. Wherever feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the PEL, the employer shall use them to reduce employee exposure to the lowest levels achievable, and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
 
 (ii) Where painting of aircraft or large aircraft parts is performed in the aerospace industry, the employer shall use engineering and work practice controls to reduce and maintain employee exposure to chromium (VI) to or below 25 µgm/m3 unless the employer can demonstrate that such controls are not feasible. The employer shall supplement such engineering and work practice controls with the use of respiratory protection that complies with the requirements of paragraph (g) of this section to achieve the PEL.
 
@@ -82,7 +82,7 @@
 
 (2) *Prohibition of rotation.* The employer shall not rotate employees to different jobs to achieve compliance with the PEL.
 
-(g) *Respiratory protection* - (1) *General.* Where respiratory protection is required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respiratory protection is required during:
+(g) *Respiratory protection*—(1) *General.* Where respiratory protection is required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respiratory protection is required during:
 
 (i) Periods necessary to install or implement feasible engineering and work practice controls;
 
@@ -96,7 +96,7 @@
 
 (2) *Respiratory protection program.* Where respirator use is required by this section, the employer shall institute a respiratory protection program in accordance with § 1910.134, which covers each employee required to use a respirator.
 
-(h) *Protective work clothing and equipment* - (1) *Provision and use.* Where a hazard is present or is likely to be present from skin or eye contact with chromium (VI), the employer shall provide appropriate personal protective clothing and equipment at no cost to employees, and shall ensure that employees use such clothing and equipment.
+(h) *Protective work clothing and equipment*—(1) *Provision and use.* Where a hazard is present or is likely to be present from skin or eye contact with chromium (VI), the employer shall provide appropriate personal protective clothing and equipment at no cost to employees, and shall ensure that employees use such clothing and equipment.
 
 (2) *Removal and storage.* (i) The employer shall ensure that employees remove all protective clothing and equipment contaminated with chromium (VI) at the end of the work shift or at the completion of their tasks involving chromium (VI) exposure, whichever comes first.
 
@@ -112,7 +112,7 @@
 
 (iii) The employer shall inform any person who launders or cleans protective clothing or equipment contaminated with chromium (VI) of the potentially harmful effects of exposure to chromium (VI) and that the clothing and equipment should be laundered or cleaned in a manner that minimizes skin or eye contact with chromium (VI) and effectively prevents the release of airborne chromium (VI) in excess of the PEL.
 
-(i) *Hygiene areas and practices* - (1) *General.* Where protective clothing and equipment is required, the employer shall provide change rooms in conformance with 29 CFR 1910.141. Where skin contact with chromium (VI) occurs, the employer shall provide washing facilities in conformance with 29 CFR 1910.141. Eating and drinking areas provided by the employer shall also be in conformance with § 1910.141.
+(i) *Hygiene areas and practices*—(1) *General.* Where protective clothing and equipment is required, the employer shall provide change rooms in conformance with 29 CFR 1910.141. Where skin contact with chromium (VI) occurs, the employer shall provide washing facilities in conformance with 29 CFR 1910.141. Eating and drinking areas provided by the employer shall also be in conformance with § 1910.141.
 
 (2) *Change rooms.* The employer shall assure that change rooms are equipped with separate storage facilities for protective clothing and equipment and for street clothes, and that these facilities prevent cross-contamination.
 
@@ -126,7 +126,7 @@
 
 (5) *Prohibited activities.* The employer shall ensure that employees do not eat, drink, smoke, chew tobacco or gum, or apply cosmetics in regulated areas, or in areas where skin or eye contact with chromium (VI) occurs; or carry the products associated with these activities, or store such products in these areas.
 
-(j) *Housekeeping* - (1) *General.* The employer shall ensure that:
+(j) *Housekeeping*—(1) *General.* The employer shall ensure that:
 
 (i) All surfaces are maintained as free as practicable of accumulations of chromium (VI).
 
@@ -150,7 +150,7 @@
 
 (ii) Bags or containers of waste, scrap, debris, and any other materials contaminated with chromium (VI) that are consigned for disposal are labeled in accordance with the requirements of the Hazard Communication Standard, 29 CFR 1910.1200.
 
-(k) *Medical surveillance* - (1) *General.* (i) The employer shall make medical surveillance available at no cost to the employee, and at a reasonable time and place, for all employees:
+(k) *Medical surveillance*—(1) *General.* (i) The employer shall make medical surveillance available at no cost to the employee, and at a reasonable time and place, for all employees:
 
 (A) Who are or may be occupationally exposed to chromium (VI) at or above the action level for 30 or more days a year;
 
@@ -204,7 +204,7 @@
 
 (iii) The employer shall provide a copy of the PLHCP's written medical opinion to the examined employee within two weeks after receiving it.
 
-(l) *Communication of chromium (VI) hazards to employees* - (1) *Hazard communication - general* - (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for chromium (VI).
+(l) *Communication of chromium (VI) hazards to employees*—(1) *Hazard communication—general*—(i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for chromium (VI).
 
 (ii) In classifying the hazards of chromium (VI) at least the following hazards are to be addressed: Cancer, eye irritation, and skin sensitization.
 
@@ -218,7 +218,7 @@
 
 (ii) The employer shall make a copy of this section readily available without cost to all affected employees.
 
-(m) *Recordkeeping* - (1) *Air monitoring data.* (i) The employer shall maintain an accurate record of all air monitoring conducted to comply with the requirements of this section.
+(m) *Recordkeeping*—(1) *Air monitoring data.* (i) The employer shall maintain an accurate record of all air monitoring conducted to comply with the requirements of this section.
 
 (ii) This record shall include at least the following information:
 
@@ -232,7 +232,7 @@
 
 (E) Type of personal protective equipment, such as respirators worn; and
 
-(F) Name, social security number, and job classification of all employees represented by the monitoring, indicating which employees were actually monitored.
+(F) Name and job classification of all employees represented by the monitoring, indicating which employees were actually monitored.
 
 (iii) The employer shall ensure that exposure records are maintained and made available in accordance with 29 CFR 1910.1020.
 
@@ -272,7 +272,7 @@
 
 (ii) The record shall include the following information about the employee:
 
-(A) Name and social security number;
+(A) Name;
 
 (B) A copy of the PLHCP's written opinions;
 

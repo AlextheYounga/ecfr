@@ -28,11 +28,11 @@ This occupational health standard establishes requirements for employers to cont
 
 *This section* means this methylene chloride standard.
 
-(c) *Permissible exposure limits (PELs)* - (1) *Eight-hour time-weighted average (TWA) PEL.* The employer shall ensure that no employee is exposed to an airborne concentration of MC in excess of twenty-five parts of MC per million parts of air (25 ppm) as an 8-hour TWA.
+(c) *Permissible exposure limits (PELs)*—(1) *Eight-hour time-weighted average (TWA) PEL.* The employer shall ensure that no employee is exposed to an airborne concentration of MC in excess of twenty-five parts of MC per million parts of air (25 ppm) as an 8-hour TWA.
 
 (2) *Short-term exposure limit (STEL).* The employer shall ensure that no employee is exposed to an airborne concentration of MC in excess of one hundred and twenty-five parts of MC per million parts of air (125 ppm) as determined over a sampling period of fifteen minutes.
 
-(d) *Exposure monitoring* - (1) *Characterization of employee exposure.* (i) Where MC is present in the workplace, the employer shall determine each employee's exposure by either:
+(d) *Exposure monitoring*—(1) *Characterization of employee exposure.* (i) Where MC is present in the workplace, the employer shall determine each employee's exposure by either:
 
 (A) Taking a personal breathing zone air sample of each employee's exposure; or
 
@@ -62,8 +62,6 @@ This occupational health standard establishes requirements for employers to cont
 
 (3) *Periodic monitoring.* Where the initial determination shows employee exposures at or above the action level or above the STEL, the employer shall establish an exposure monitoring program for periodic monitoring of employee exposure to MC in accordance with Table 1:
 
-Table 1 - Initial Determination Exposure Scenarios and Their Associated Monitoring Frequencies
-
 |                             Exposure scenario                             |                                                                                                                                                                                                                                                                                                                                                                                                                Required monitoring activity                                                                                                                                                                                                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |              Below the action level and at or below the STEL              |                                                                                                                                                                                                                                                                                                                                                                                                         No 8-hour TWA or STEL monitoring required.                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -85,7 +83,7 @@ The employer may decrease the frequency of 8-hour TWA exposure monitoring to eve
 
 (ii) Whenever monitoring results indicate that employee exposure is above the 8-hour TWA PEL or the STEL, the employer shall describe in the written notification the corrective action being taken to reduce employee exposure to or below the 8-hour TWA PEL or STEL and the schedule for completion of this action.
 
-(6) *Observation of monitoring* - (i) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to MC conducted in accordance with this section.
+(6) *Observation of monitoring*—(i) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to MC conducted in accordance with this section.
 
 (ii) *Observation procedures.* When observation of the monitoring of employee exposure to MC requires entry into an area where the use of protective clothing or equipment is required, the employer shall provide, at no cost to the observer(s), and the observer(s) shall be required to use such clothing and equipment and shall comply with all other applicable safety and health procedures.
 
@@ -107,7 +105,7 @@ An employer who has implemented all feasible engineering, work practice and admi
 
 (7) An employer at a multi-employer worksite who establishes a regulated area shall communicate the access restrictions and locations of these areas to all other employers with work operations at that worksite.
 
-(f) *Methods of compliance* - (1) *Engineering and work practice controls.* The employer shall institute and maintain the effectiveness of engineering controls and work practices to reduce employee exposure to or below the PELs except to the extent that the employer can demonstrate that such controls are not feasible. Wherever the feasible engineering controls and work practices which can be instituted are not sufficient to reduce employee exposure to or below the 8-TWA PEL or STEL, the employer shall use them to reduce employee exposure to the lowest levels achievable by these controls and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
+(f) *Methods of compliance*—(1) *Engineering and work practice controls.* The employer shall institute and maintain the effectiveness of engineering controls and work practices to reduce employee exposure to or below the PELs except to the extent that the employer can demonstrate that such controls are not feasible. Wherever the feasible engineering controls and work practices which can be instituted are not sufficient to reduce employee exposure to or below the 8-TWA PEL or STEL, the employer shall use them to reduce employee exposure to the lowest levels achievable by these controls and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
 
 (2) *Prohibition of rotation.* The employer shall not implement a schedule of employee rotation as a means of compliance with the PELs.
 
@@ -119,7 +117,7 @@ Note to paragraph (f)(3)(ii):
 
 See appendix A of this section for examples of procedures that satisfy this requirement. Employers covered by this standard may also be subject to the hazardous waste and emergency response provisions contained in 29 CFR 1910.120 (q).
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods when an employee's exposure to MC exceeds the 8-hour TWA PEL, or STEL (for example, when an employee is using MC in a regulated area).
 
@@ -161,7 +159,7 @@ See appendix A for examples of disposal procedures that will satisfy this requir
 
 (2) If it is reasonably foreseeable that an employee's eyes may contact solutions containing 0.1 percent or greater MC (for example through splashes, spills or improper work practices), the employer shall provide appropriate eyewash facilities within the immediate work area for emergency use, and shall ensure that affected employees use those facilities when necessary.
 
-(j) *Medical surveillance* - (1) *Affected employees.* The employer shall make medical surveillance available for employees who are or may be exposed to MC as follows:
+(j) *Medical surveillance*—(1) *Affected employees.* The employer shall make medical surveillance available for employees who are or may be exposed to MC as follows:
 
 (i) At or above the action level on 30 or more days per year, or above the 8- hour TWA PEL or the STEL on 10 or more days per year;
 
@@ -187,7 +185,7 @@ See appendix A for examples of disposal procedures that will satisfy this requir
 
 (iv) *Additional surveillance.* The employer shall provide additional medical surveillance at frequencies other than those listed above when recommended in the written medical opinion. (For example, the physician or other licensed health care professional may determine an examination is warranted in less than 36 months for employees younger than 45 years of age based upon evaluation of the results of the annual medical and work history.)
 
-(5) *Content of medical surveillance* - (i) *Medical and work history.* The comprehensive medical and work history shall emphasize neurological symptoms, skin conditions, history of hematologic or liver disease, signs or symptoms suggestive of heart disease (angina, coronary artery disease), risk factors for cardiac disease, MC exposures, and work practices and personal protective equipment used during such exposures.
+(5) *Content of medical surveillance*—(i) *Medical and work history.* The comprehensive medical and work history shall emphasize neurological symptoms, skin conditions, history of hematologic or liver disease, signs or symptoms suggestive of heart disease (angina, coronary artery disease), risk factors for cardiac disease, MC exposures, and work practices and personal protective equipment used during such exposures.
 
 Note to paragraph (j)(5)(i):
 
@@ -307,7 +305,7 @@ The written medical opinion may also include information and opinions generated 
 
 (vi) The employer and the employee or authorized employee representative may agree upon the use of any expeditious alternate health care professional determination mechanism in lieu of the multiple health care professional review mechanism provided by this paragraph so long as the alternate mechanism otherwise satisfies the requirements contained in this paragraph.
 
-(k) *Hazard communication* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for MC.
+(k) *Hazard communication*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for MC.
 
 (ii) In classifying the hazards of MC at least the following hazards are to be addressed: Cancer, cardiac effects (including elevation of carboxyhemoglobin), central nervous system effects, liver effects, and skin and eye irritation.
 
@@ -335,7 +333,7 @@ The written medical opinion may also include information and opinions generated 
 
 (8) The employer shall provide to the Assistant Secretary or the Director, upon request, all available materials relating to employee information and training.
 
-(m) *Recordkeeping* - (1) *Objective data.* (i) Where an employer seeks to demonstrate that initial monitoring is unnecessary through reasonable reliance on objective data showing that any materials in the workplace containing MC will not release MC at levels which exceed the action level or the STEL under foreseeable conditions of exposure, the employer shall establish and maintain an accurate record of the objective data relied upon in support of the exemption.
+(m) *Recordkeeping*—(1) *Objective data.* (i) Where an employer seeks to demonstrate that initial monitoring is unnecessary through reasonable reliance on objective data showing that any materials in the workplace containing MC will not release MC at levels which exceed the action level or the STEL under foreseeable conditions of exposure, the employer shall establish and maintain an accurate record of the objective data relied upon in support of the exemption.
 
 (ii) This record shall include at least the following information:
 
@@ -365,7 +363,7 @@ The written medical opinion may also include information and opinions generated 
 
 (E) Type of personal protective equipment, such as respiratory protective devices, worn, if any; and
 
-(F) Name, social security number, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
+(F) Name, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
 
 (iii) Where the employer has fewer than 20 employees, the record shall include at least the following information:
 
@@ -373,7 +371,7 @@ The written medical opinion may also include information and opinions generated 
 
 (B) Number, duration, and results of samples taken; and
 
-(C) Name, social security number, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
+(C) Name, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
 
 (iv) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.1020.
 
@@ -381,7 +379,7 @@ The written medical opinion may also include information and opinions generated 
 
 (ii) The record shall include at least the following information:
 
-(A) The name, social security number and description of the duties of the employee;
+(A) The name and description of the duties of the employee;
 
 (B) Written medical opinions; and
 
@@ -411,7 +409,7 @@ The requirement of 29 CFR 1910.1052(g)(1) to use respiratory protection whenever
 
 The requirement of 29 CFR 1910.1052(f)(1) to implement engineering controls to achieve the 8-hour TWA PEL and STEL is hereby stayed until December 10, 1998 for employers with more than 100 employees engaged in polyurethane foam manufacturing and for employers with more than 20 employees engaged in foam fabrication; furniture refinishing; general aviation aircraft stripping; formulation of products containing methylene chloride; boat building and repair; recreational vehicle manufacture; van conversion; upholstery; and use of methylene chloride in construction work for restoration and preservation of buildings, painting and paint removal, cabinet making and/or floor refinishing and resurfacing.
 
-Appendix A to Section 1910.1052 - Substance Safety Data Sheet and Technical Guidelines for Methylene ChlorideI. Substance Identification
+Appendix A to Section 1910.1052—Substance Safety Data Sheet and Technical Guidelines for Methylene ChlorideI. Substance Identification
 
 A. Substance: Methylene chloride (CH2 Cl2).
 
@@ -633,7 +631,7 @@ The following list includes some common operations in which exposure to MC may o
 |                                                         Use as solvent in vapor degreasing                                                          |             Process enclosure; local exhaust ventilation; chilling coils; substitution.             |
 |                                      Use as a secondary refrigerant in air conditioning and scientific testing                                      |       General dilution ventilation; local exhaust ventilation; personal protective equipment.       |
 
-Appendix B to Section 1910.1052 - Medical Surveillance for Methylene ChlorideI. Primary Route of Entry
+Appendix B to Section 1910.1052—Medical Surveillance for Methylene ChlorideI. Primary Route of Entry
 
 Inhalation.
 
@@ -679,4 +677,4 @@ An example of a medical and work history that would satisfy the requirement for 
 
 The following is a list of recommended questions and issues for the self-administered questionnaire for methylene chloride exposure.
 
-![](/graphics/er14my19.084.gif)![](/graphics/er14my19.085.gif)![](/graphics/er14my19.086.gif)![](/graphics/er14my19.087.gif)![](/graphics/er14my19.088.gif)![](/graphics/er14my19.089.gif)![](/graphics/er14my19.090.gif)![](/graphics/er14my19.091.gif)![](/graphics/er14my19.092.gif)![](/graphics/er14my19.093.gif)![](/graphics/er14my19.094.gif)Appendix C to Section 1910.1052 - Questions and Answers - Methylene Chloride Control in Furniture Stripping![](/graphics/ec28oc91.040.gif)![](/graphics/er10ja97.022.gif)![](/graphics/er10ja97.023.gif)![](/graphics/er10ja97.024.gif)![](/graphics/er10ja97.025.gif)![](/graphics/er10ja97.026.gif)![](/graphics/er10ja97.027.gif)[62 FR 1601, Jan. 10, 1997, as amended at 62 FR 42667, Aug. 8, 1997; 62 FR 54383, Oct. 20, 1997; 62 FR 66277, Dec. 18, 1997; 63 FR 1295, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 63 FR 50729, Sept. 22, 1998; 71 FR 16674, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75587, Dec. 12, 2008; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21555, May 14, 2019]
+![](/graphics/er14my19.084.gif)![](/graphics/er14my19.085.gif)![](/graphics/er14my19.086.gif)![](/graphics/er14my19.087.gif)![](/graphics/er14my19.088.gif)![](/graphics/er14my19.089.gif)![](/graphics/er14my19.090.gif)![](/graphics/er14my19.091.gif)![](/graphics/er14my19.092.gif)![](/graphics/er14my19.093.gif)![](/graphics/er14my19.094.gif)Appendix C to Section 1910.1052—Questions and Answers—Methylene Chloride Control in Furniture Stripping![](/graphics/ec28oc91.040.gif)![](/graphics/er10ja97.022.gif)![](/graphics/er10ja97.023.gif)![](/graphics/er10ja97.024.gif)![](/graphics/er10ja97.025.gif)![](/graphics/er10ja97.026.gif)![](/graphics/er10ja97.027.gif)[62 FR 1601, Jan. 10, 1997, as amended at 62 FR 42667, Aug. 8, 1997; 62 FR 54383, Oct. 20, 1997; 62 FR 66277, Dec. 18, 1997; 63 FR 1295, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 63 FR 50729, Sept. 22, 1998; 71 FR 16674, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75587, Dec. 12, 2008; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21555, May 14, 2019]

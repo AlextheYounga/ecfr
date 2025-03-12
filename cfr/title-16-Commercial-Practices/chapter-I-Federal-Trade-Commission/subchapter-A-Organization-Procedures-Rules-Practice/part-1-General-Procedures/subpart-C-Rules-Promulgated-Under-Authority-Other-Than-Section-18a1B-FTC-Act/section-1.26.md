@@ -10,7 +10,9 @@
 
 (3) Either the terms or substance of the proposed rule or description of the subjects and issues involved;
 
-(4) An opportunity for interested persons to participate in the proceeding through the submission of written data, views, or arguments; and(5) A statement setting forth such procedures for treatment of communications from persons not employed by the Commission to Commissioners or Commissioner Advisors with respect to the merits of the proceeding as will incorporate the requirements of § 1.18(c), including the transcription of oral communications required by § 1.18(c)(2), adapted in such form as may be appropriate to the circumstances of the particular proceeding.
+(4) An opportunity for interested persons to participate in the proceeding through the submission of written data, views, or arguments; and
+
+(5) A statement setting forth such procedures for treatment of communications from persons not employed by the Commission to Commissioners or Commissioner Advisors with respect to the merits of the proceeding as will incorporate the requirements of § 1.18(c), including the transcription of oral communications required by § 1.18(c)(2), adapted in such form as may be appropriate to the circumstances of the particular proceeding.
 
 (c) *Oral hearings.* Oral hearing on a proposed rule may be held within the discretion of the Commission, unless otherwise expressly required by law. Any such hearing will be conducted by the Commission, a member thereof, or a member of the Commission's staff. At the hearing interested persons may appear and express their views as to the proposed rule and may suggest such amendments, revisions, and additions thereto as they may consider desirable and appropriate. The presiding officer may impose reasonable limitations upon the length of time allotted to any person. If by reason of the limitations imposed the person cannot complete the presentation of his suggestions, he may within twenty-four (24) hours file a written statement covering those relevant matters which he did not orally present.
 

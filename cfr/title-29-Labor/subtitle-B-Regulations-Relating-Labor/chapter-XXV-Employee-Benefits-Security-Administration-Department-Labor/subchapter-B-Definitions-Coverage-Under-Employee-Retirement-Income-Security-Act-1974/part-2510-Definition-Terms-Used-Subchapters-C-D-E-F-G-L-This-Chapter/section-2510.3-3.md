@@ -1,5 +1,7 @@
 ##### § 2510.3-3 Employee benefit plan. #####
 
+Link to an amendment published at 84 FR 37543, July 31, 2019.
+
 (a) *General.* This section clarifies the definition in section 3(3) of the term “employee benefit plan” for purposes of title I of the Act and this chapter. It states a general principle which can be applied to a large class of plans to determine whether they constitute employee benefit plans within the meaning of section 3(3) of the Act. Under section 4(a) of the Act, only employee benefit plans within the meaning of section 3(3) are subject to title I.
 
 (b) *Plans without employees.* For purposes of title I of the Act and this chapter, the term “employee benefit plan” shall not include any plan, fund or program, other than an apprenticeship or other training program, under which no employees are participants covered under the plan, as defined in paragraph (d) of this section. For example, a so-called “Keogh” or “H.R. 10” plan under which only partners or only a sole proprietor are participants covered under the plan will not be covered under title I. However, a Keogh plan under which one or more common law employees, in addition to the self-employed individuals, are participants covered under the plan, will be covered under title I. Similarly, partnership buyout agreements described in section 736 of the Internal Revenue Code of 1954 will not be subject to title I.

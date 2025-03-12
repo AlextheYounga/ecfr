@@ -6,7 +6,7 @@
 
 (3) This section applies to the transportation of vinyl chloride or polyvinyl chloride except to the extent that the Department of Transportation may regulate the hazards covered by this section.
 
-(b) *Definitions* - (1) *Action level* means a concentration of vinyl chloride of 0.5 ppm averaged over an 8-hour work day.
+(b) *Definitions*—(1) *Action level* means a concentration of vinyl chloride of 0.5 ppm averaged over an 8-hour work day.
 
 (2) *Assistant Secretary* means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or his designee.
 
@@ -64,7 +64,7 @@
 
 (3) Written plans for such a program shall be developed and furnished upon request for examination and copying to authorized representatives of the Assistant Secretary and the Director. Such plans must be updated at least annually.
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph.
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph.
 
 (2) *Respirator program.* The employer must implement a respiratory protection program in accordance § 1910.134 (b) through (d) (except (d)(1)(iii), and (d)(3)(iii)(B)(1) and (2)), and (f) through (m) which covers each employee required by this section to use a respirator.
 
@@ -162,7 +162,7 @@
 
 (7) If the examining physician determines that alternative medical examinations to those required by paragraph (k)(1) of this section will provide at least equal assurance of detecting medical conditions pertinent to the exposure to vinyl chloride, the employer may accept such alternative examinations as meeting the requirements of paragraph (k)(1) of this section, if the employer obtains a statement from the examining physician setting forth the alternative examinations and the rationale for substitution. This statement shall be available upon request for examination and copying to authorized representatives of the Assistant Secretary and the Director.
 
-(l) *Communication of hazards* - (1) *Hazard communication - general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for vinyl chloride and polyvinyl chloride.
+(l) *Communication of hazards*—(1) *Hazard communication—general.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for vinyl chloride and polyvinyl chloride.
 
 (ii) In classifying the hazards of vinyl chloride at least the following hazards are to be addressed: Cancer; central nervous system effects; liver effects; blood effects; and flammability.
 
@@ -206,7 +206,7 @@ CANCER-SUSPECT AGENT
 
 (6) No statement shall appear on or near any required sign, label, or instruction which contradicts or detracts from the effect of any required warning, information, or instruction.
 
-(m) *Records.* (1) All records maintained in accordance with this section shall include the name and social security number of each employee where relevant.
+(m) *Records.* (1) All records maintained in accordance with this section shall include the name of each employee where relevant.
 
 (2) Records of required monitoring and measuring and medical records shall be provided upon request to employees, designated representatives, and the Assistant Secretary in accordance with 29 CFR 1910.1020 (a) through (e) and (g) through (i). These records shall be provided upon request to the Director. Authorized personnel rosters shall also be provided upon request to the Assistant Secretary and the Director.
 
@@ -224,7 +224,7 @@ CANCER-SUSPECT AGENT
 
 (n) The employer must, within 15 working days after the receipt of the results of any monitoring performed under this section, notify each affected employee of these results and the steps being taken to reduce exposures within the permissible exposure limit either individually in writing or by posting the results in an appropriate location that is accessible to affected employees.
 
-Appendix A to § 1910.1017 - Supplementary Medical Information
+Appendix A to § 1910.1017—Supplementary Medical Information
 
 When required tests under paragraph (k)(1) of this section show abnormalities, the tests should be repeated as soon as practicable, preferably within 3 to 4 weeks. If tests remain abnormal, consideration should be given to withdrawal of the employee from contact with vinyl chloride, while a more comprehensive examination is made.
 
@@ -238,4 +238,4 @@ C. Additional serum tests: Lactic acid dehydrogenase, lactic acid dehydrogenase 
 
 D. For a more comprehensive examination on repeated abnormal serum tests: Hepatitis B antigen, and liver scanning.
 
-[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975]Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975]Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

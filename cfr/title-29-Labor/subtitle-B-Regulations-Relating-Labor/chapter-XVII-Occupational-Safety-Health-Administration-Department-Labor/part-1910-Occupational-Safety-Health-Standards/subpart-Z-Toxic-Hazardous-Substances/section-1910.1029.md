@@ -42,7 +42,7 @@
 
 (ii) The beehive oven and its machinery.
 
-(e) *Exposure monitoring and measurement* - (1) *Monitoring program.* (i) Each employer who has a place of employment where coke oven emissions are present shall monitor employees employed in the regulated area to measure their exposure to coke oven emissions.
+(e) *Exposure monitoring and measurement*—(1) *Monitoring program.* (i) Each employer who has a place of employment where coke oven emissions are present shall monitor employees employed in the regulated area to measure their exposure to coke oven emissions.
 
 (ii) The employer shall obtain measurements which are representative of each employee's exposure to coke oven emissions over an eight-hour period. All measurements shall determine exposure without regard to the use of respiratory protection.
 
@@ -92,7 +92,7 @@
 
 (f) *Methods of compliance.* The employer shall control employee exposure to coke oven emissions by the use of engineering controls, work practices and respiratory protection as follows:
 
-(1) *Priority of compliance methods* - (i) *Existing coke oven batteries.* (*a*) The employer shall institute the engineering and work practice controls listed in paragraphs (f)(2), (f)(3) and (f)(4) of this section in existing coke oven batteries at the earliest possible time, but not later than January 20, 1980, except to the extent that the employer can establish that such controls are not feasible. In determining the earliest possible time for institution of engineering and work practice controls, the requirement, effective August 27, 1971, to implement feasible administrative or engineering controls to reduce exposures to coal tar pitch volatiles, shall be considered. Wherever the engineering and work practice controls which can be instituted are not sufficient to reduce employee exposures to or below the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (g) of this section.
+(1) *Priority of compliance methods*—(i) *Existing coke oven batteries.* (*a*) The employer shall institute the engineering and work practice controls listed in paragraphs (f)(2), (f)(3) and (f)(4) of this section in existing coke oven batteries at the earliest possible time, but not later than January 20, 1980, except to the extent that the employer can establish that such controls are not feasible. In determining the earliest possible time for institution of engineering and work practice controls, the requirement, effective August 27, 1971, to implement feasible administrative or engineering controls to reduce exposures to coal tar pitch volatiles, shall be considered. Wherever the engineering and work practice controls which can be instituted are not sufficient to reduce employee exposures to or below the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (g) of this section.
 
 (*b*) The engineering and work practice controls required under paragraphs (f)(2), (f)(3) and (f)(4) of this section are minimum requirements generally applicable to all existing coke oven batteries. If, after implementing all controls required by paragraphs (f)(2), (f)(3) and (f)(4) of this section, or after January 20, 1980, whichever is sooner, employee exposures still exceed the permissible exposure limit, employers shall implement any other engineering and work practice controls necessary to reduce exposure to or below the permissible exposure limit except to the extent that the employer can establish that such controls are not feasible. Whenever the engineering and work practice controls which can be instituted are not sufficient to reduce employee exposures to or below the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (g) of this section.
 
@@ -104,7 +104,7 @@
 
 (*b*) If, after implementing all engineering and work practice controls required by paragraph (f)(1)(iii)(*a*) of this section, employee exposures still exceed the permissible exposure limit, the employer shall implement any other engineering and work practice controls necessary to reduce exposures to or below the permissible exposure limit except to the extent that the employer can establish that such controls are not feasible. Whenever the engineering and work practice controls which can be instituted are not sufficient to reduce employee exposures to or below the permissible exposure limit, the employer shall nonetheless use them to reduce exposures to the lowest level achievable by these controls and shall supplement them by the use of respiratory protection which complies with the requirements of paragraph (g) of this section.
 
-(2) *Engineering controls* - (i) *Charging.* The employer shall equip and operate existing coke oven batteries with all of the following engineering controls to control coke oven emissions during charging operations:
+(2) *Engineering controls*—(i) *Charging.* The employer shall equip and operate existing coke oven batteries with all of the following engineering controls to control coke oven emissions during charging operations:
 
 (*a*) One of the following methods of charging:
 
@@ -142,7 +142,7 @@
 
 (*e*) Heat shields on door machines.
 
-(3) *Work practice controls* - (i) *Charging.* The employer shall operate existing coke oven batteries with all of the following work practices to control coke oven emissions during the charging operation:
+(3) *Work practice controls*—(i) *Charging.* The employer shall operate existing coke oven batteries with all of the following work practices to control coke oven emissions during the charging operation:
 
 (*a*) Establishment and implementation of a detailed, written inspection and cleaning procedure for each battery consisting of at least the following elements:
 
@@ -264,7 +264,7 @@
 
 (7) *Training in compliance procedures.* The employer shall incorporate all written procedures and schedules required under this paragraph (f) in the information and training program required under paragraph (k) of this section and, where appropriate, post in the regulated area.
 
-(g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(g) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering and work-practice controls.
 
@@ -278,7 +278,7 @@
 
 (3) *Respirator selection.* Employers must select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134; however, employers may use a filtering facepiece respirator only when it functions as a filter respirator for coke oven emissions particulates.
 
-(h) *Protective clothing and equipment* - (1) *Provision and use.* The employer shall provide and assure the use of appropriate protective clothing and equipment, such as but not limited to:
+(h) *Protective clothing and equipment*—(1) *Provision and use.* The employer shall provide and assure the use of appropriate protective clothing and equipment, such as but not limited to:
 
 (i) Flame resistant jacket and pants;
 
@@ -304,7 +304,7 @@
 
 (vi) The employer shall inform any person who cleans or launders protective clothing required by this section, of the potentially harmful effects of exposure to coke oven emissions.
 
-(i) *Hygiene facilities and practices* - (1) *Change rooms.* The employer shall provide clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment whenever employees are required to wear protective clothing and equipment in accordance with paragraph (h)(1) of this section.
+(i) *Hygiene facilities and practices*—(1) *Change rooms.* The employer shall provide clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment whenever employees are required to wear protective clothing and equipment in accordance with paragraph (h)(1) of this section.
 
 (2) *Showers.* (i) The employer shall assure that employees working in the regulated area shower at the end of the work shift.
 
@@ -320,7 +320,7 @@
 
 (ii) Drinking water may be consumed in the regulated area.
 
-(j) *Medical surveillance* - (1) *General requirements.* (i) Each employer shall institute a medical surveillance program for all employees who are employed in a regulated area at least 30 days per year.
+(j) *Medical surveillance*—(1) *General requirements.* (i) Each employer shall institute a medical surveillance program for all employees who are employed in a regulated area at least 30 days per year.
 
 (ii) This program shall provide each employee covered under paragraph (j)(1)(i) of this section with an opportunity for medical examinations in accordance with this paragraph (j).
 
@@ -376,7 +376,7 @@
 
 (iii) The employer shall provide a copy of the written opinion to the affected employee.
 
-(k) *Employee information and training* - (1) *Training program.* (i) The employer shall train each employee who is employed in a regulated area in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(k) *Employee information and training*—(1) *Training program.* (i) The employer shall train each employee who is employed in a regulated area in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
 (ii) The training program shall be provided as of January 27, 1977 for employees who are employed in the regulated area at that time or at the time of initial assignment to a regulated area.
 
@@ -398,7 +398,7 @@
 
 (ii) The employer shall provide upon request all materials relating to the employee information and training program to the Secretary and the Director.
 
-(l) *Communication of hazards* - (1) *Hazard communication - general.* The employer shall include coke oven emissions in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of chemicals and substances associated with coke oven processes and to safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (k) of this section. The employer shall ensure that at least the following hazard is addressed: Cancer.
+(l) *Communication of hazards*—(1) *Hazard communication—general.* The employer shall include coke oven emissions in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of chemicals and substances associated with coke oven processes and to safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (k) of this section. The employer shall ensure that at least the following hazard is addressed: Cancer.
 
 (2) *Signs.* (i) The employer shall post signs in the regulated area bearing the legend:
 
@@ -428,11 +428,11 @@ CONTAMINATED WITH COKE EMISSIONSMAY CAUSE CANCERDO NOT REMOVE DUST BY BLOWING OR
 
 CAUTIONCLOTHING CONTAMINATED WITH COKE EMISSIONSDO NOT REMOVE DUST BY BLOWING OR SHAKING
 
-(m) *Recordkeeping* - (1) *Exposure measurements.* The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to coke oven emissions required in paragraph (e) of this section.
+(m) *Recordkeeping*—(1) *Exposure measurements.* The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to coke oven emissions required in paragraph (e) of this section.
 
 (i) This record shall include:
 
-(*a*) Name, social security number, and job classification of the employees monitored;
+(*a*) Name and job classification of the employees monitored;
 
 (*b*) The date(s), number, duration and results of each of the samples taken, including a description of the sampling procedure used to determine representative employee exposure where applicable;
 
@@ -448,7 +448,7 @@ CAUTIONCLOTHING CONTAMINATED WITH COKE EMISSIONSDO NOT REMOVE DUST BY BLOWING OR
 
 (i) The record shall include:
 
-(*a*) The name, social security number, and description of duties of the employee;
+(*a*) The name and description of duties of the employee;
 
 (*b*) A copy of the physician's written opinion;
 
@@ -484,7 +484,7 @@ CAUTIONCLOTHING CONTAMINATED WITH COKE EMISSIONSDO NOT REMOVE DUST BY BLOWING OR
 
 (ii) The employer shall also comply with any additional requirements involving transfer of records set forth in 29 CFR 1910.1020(h).
 
-(n) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their representatives an opportunity to observe any measuring or monitoring of employee exposure to coke oven emissions conducted pursuant to paragraph (e) of this section.
+(n) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their representatives an opportunity to observe any measuring or monitoring of employee exposure to coke oven emissions conducted pursuant to paragraph (e) of this section.
 
 (2) *Observation procedures.* (i) Whenever observation of the measuring or monitoring of employee exposure to coke oven emissions requires entry into an area where the ues of protective clothing or equipment is required, the employer shall provide the observer with and assure the use of such equipment and shall require the observer to comply with all other applicable safety and health procedures.
 
@@ -500,7 +500,7 @@ CAUTIONCLOTHING CONTAMINATED WITH COKE EMISSIONSDO NOT REMOVE DUST BY BLOWING OR
 
 (p) *Appendices.* The information contained in the appendixes to this section is not intended, by itself, to create any additional obligations not otherwise imposed or to detract from any existing obligation.
 
-Appendix A to § 1910.1029 - Coke Oven Emissions Substance Information Sheeti. Substance Identification
+Appendix A to § 1910.1029—Coke Oven Emissions Substance Information Sheeti. Substance Identification
 
 A. *Substance:* Coke Oven Emissions
 
@@ -546,7 +546,7 @@ ix. Training and Education
 
 Additional information on all of these items plus training as to hazards of coke oven emissions and the engineering and work practice controls associated with your job will also be provided by your employer.
 
-Appendix B to § 1910.1029 - Industrial Hygiene and Medical Surveillance Guidelinesi. industrial hygiene guidelines
+Appendix B to § 1910.1029—Industrial Hygiene and Medical Surveillance Guidelinesi. industrial hygiene guidelines
 
 A. *Sampling* (Benzene-Soluble Fraction Total Particulate Matter).
 

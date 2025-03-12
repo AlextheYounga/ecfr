@@ -1,0 +1,3 @@
+##### § 609.1 Scope of regulations in this part. #####
+
+This part implements Section 605A(k)(2) of the Fair Credit Reporting Act, 15 U.S.C. 1681c-1(k)(2), which requires consumer reporting agencies that compile and maintain files on consumers on a nationwide basis to provide a free electronic credit monitoring service to active duty military consumers that, at a minimum, notifies them of any material additions or modifications to their files.

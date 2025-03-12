@@ -16,7 +16,7 @@
 
 (d) [Reserved]
 
-(e) *Exposure monitoring* - (1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to inorganic arsenic over an eight (8) hour period.
+(e) *Exposure monitoring*—(1) *General.* (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to inorganic arsenic over an eight (8) hour period.
 
 (ii) For the purposes of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
 
@@ -42,7 +42,7 @@
 
 (ii) The employer shall use a method of monitoring and measurement which has an accuracy (with confidence level of 95 percent) of not less than plus or minus 35 percent for concentrations of inorganic arsenic greater than 5 µg/m3 but less than 10 µg/m3.
 
-(f) *Regulated area* - (1) *Establishment.* The employer shall establish regulated areas where worker exposures to inorganic arsenic, without regard to the use of respirators, are in excess of the permissible limit.
+(f) *Regulated area*—(1) *Establishment.* The employer shall establish regulated areas where worker exposures to inorganic arsenic, without regard to the use of respirators, are in excess of the permissible limit.
 
 (2) *Demarcation.* Regulated areas shall be demarcated and segregated from the rest of the workplace in any manner that minimizes the number of persons who will be exposed to inorganic arsenic.
 
@@ -52,7 +52,7 @@
 
 (5) *Prohibited activities.* The employer shall assure that in regulated areas, food or beverages are not consumed, smoking products, chewing tobacco and gum are not used and cosmetics are not applied, except that these activities may be conducted in the lunchrooms, change rooms and showers required under paragraph (m) of this section. Drinking water may be consumed in the regulated area.
 
-(g) *Methods of compliance* - (1) *Controls.* (i) The employer shall institute at the earliest possible time but not later than December 31, 1979, engineering and work practice controls to reduce exposures to or below the permissible exposure limit, except to the extent that the employer can establish that such controls are not feasible.
+(g) *Methods of compliance*—(1) *Controls.* (i) The employer shall institute at the earliest possible time but not later than December 31, 1979, engineering and work practice controls to reduce exposures to or below the permissible exposure limit, except to the extent that the employer can establish that such controls are not feasible.
 
 (ii) Where engineering and work practice controls are not sufficient to reduce exposures to or below the permissible exposure limit, they shall nonetheless be used to reduce exposures to the lowest levels achievable by these controls and shall be supplemented by the use of respirators in accordance with paragraph (h) of this section and other necessary personal protective equipment. Employee rotation is not required as a control strategy before respiratory protection is instituted.
 
@@ -78,7 +78,7 @@
 
 (iv) The plans required by this paragraph must be revised and updated at least annually to reflect the current status of the program.
 
-(h) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(h) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods necessary to install or implement feasible engineering or work-practice controls.
 
@@ -110,7 +110,7 @@
 
 (i) [Reserved]
 
-(j) *Protective work clothing and equipment* - (1) *Provision and use.* Where the possibility of skin or eye irritation from inorganic arsenic exists, and for all workers working in regulated areas, the employer shall provide at no cost to the employee and assure that employees use appropriate and clean protective work clothing and equipment such as, but not limited to:
+(j) *Protective work clothing and equipment*—(1) *Provision and use.* Where the possibility of skin or eye irritation from inorganic arsenic exists, and for all workers working in regulated areas, the employer shall provide at no cost to the employee and assure that employees use appropriate and clean protective work clothing and equipment such as, but not limited to:
 
 (i) Coveralls or similar full-body work clothing;
 
@@ -144,7 +144,7 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (viii) The employer shall prohibit the removal of inorganic arsenic from protective clothing or equipment by blowing or shaking.
 
-(k) *Housekeeping* - (1) *Surfaces.* All surfaces shall be maintained as free as practicable of accumulations of inorganic arsenic.
+(k) *Housekeeping*—(1) *Surfaces.* All surfaces shall be maintained as free as practicable of accumulations of inorganic arsenic.
 
 (2) *Cleaning floors.* Floors and other accessible surfaces contaminated with inorganic arsenic may not be cleaned by the use of compressed air, and shoveling and brushing may be used only where vacuuming or other relevant methods have been tried and found not to be effective.
 
@@ -156,7 +156,7 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (l) [Reserved]
 
-(m) *Hygiene facilities and practices* - (1) *Change rooms.* The employer shall provide for employees working in regulated areas or subject to the possibility of skin or eye irritation from inorganic arsenic, clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment in accordance with 29 CFR 1910.141(e).
+(m) *Hygiene facilities and practices*—(1) *Change rooms.* The employer shall provide for employees working in regulated areas or subject to the possibility of skin or eye irritation from inorganic arsenic, clean change rooms equipped with storage facilities for street clothes and separate storage facilities for protective clothing and equipment in accordance with 29 CFR 1910.141(e).
 
 (2) *Showers.* (i) The employer shall assure that employees working in regulated areas or subject to the possibility of skin or eye irritation from inorganic arsenic shower at the end of the work shift.
 
@@ -172,7 +172,7 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (6) *Avoidance of skin irritation.* The employer shall assure that no employee is exposed to skin or eye contact with arsenic trichloride, or to skin or eye contact with liquid or particulate inorganic arsenic which is likely to cause skin or eye irritation.
 
-(n) *Medical surveillance* - (1) *General* - (i) *Employees covered.* The employer shall institute a medical surveillance program for the following employees:
+(n) *Medical surveillance*—(1) *General*—(i) *Employees covered.* The employer shall institute a medical surveillance program for the following employees:
 
 (A) All employees who are or will be exposed above the action level, without regard to the use of respirators, at least 30 days per year; and
 
@@ -224,7 +224,7 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (iii) The employer shall provide a copy of the written opinion to the affected employee.
 
-(o) *Employee information and training* - (1) *Training program.* (i) The employer shall train each employee who is subject to exposure to inorganic arsenic above the action level without regard to respirator use, or for whom there is the possibility of skin or eye irritation from inorganic arsenic, in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
+(o) *Employee information and training*—(1) *Training program.* (i) The employer shall train each employee who is subject to exposure to inorganic arsenic above the action level without regard to respirator use, or for whom there is the possibility of skin or eye irritation from inorganic arsenic, in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
 (ii) The training program shall be provided by October 1, 1978, for employees covered by this provision, at the time of initial assignment for those subsequently covered by this provision, and at least annually for other covered employees thereafter; and the employer shall assure that each employee is informed of the following:
 
@@ -244,7 +244,7 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (ii) The employer shall provide; upon request, all materials relating to the employee information and training program to the Assistant Secretary and the Director.
 
-(p) *Communication of hazards* - (1) *Hazard communication - General.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for inorganic arsenic.
+(p) *Communication of hazards*—(1) *Hazard communication—General.* (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for inorganic arsenic.
 
 (ii) In classifying the hazards of inorganic arsenic at least the following hazards are to be addressed: Cancer; liver effects; skin effects; respiratory irritation; nervous system effects; and acute toxicity effects.
 
@@ -268,7 +268,7 @@ DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE 
 
 (ii) Labels are not required when the inorganic arsenic in the product is bound in such a manner so as to make unlikely the possibility of airborne exposure to inorganic arsenic. (Possible examples of products not requiring labels are semiconductors, light emitting diodes and glass.)
 
-(q) *Recordkeeping* - (1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (e) of this section.
+(q) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (e) of this section.
 
 (ii) This record shall include:
 
@@ -278,7 +278,7 @@ DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE 
 
 (C) The type of respiratory protective devices worn, if any;
 
-(D) Name, social security number, and job classification of the employees monitored and of all other employees whose exposure the measurement is intended to represent; and
+(D) Name and job classification of the employees monitored and of all other employees whose exposure the measurement is intended to represent; and
 
 (E) The environmental variables that could affect the measurement of the employee's exposure.
 
@@ -288,7 +288,7 @@ DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE 
 
 (ii) This record shall include:
 
-(A) The name, social security number, and description of duties of the employee;
+(A) The name and description of duties of the employee;
 
 (B) A copy of the physician's written opinions;
 
@@ -318,7 +318,7 @@ DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE 
 
 (ii) The employer shall also comply with any additional requirements involving the transfer of records set in 29 CFR 1910.1020(h).
 
-(r) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to inorganic arsenic conducted pursuant to paragraph (e) of this section.
+(r) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to inorganic arsenic conducted pursuant to paragraph (e) of this section.
 
 (2) *Observation procedures.* (i) Whenever observation of the monitoring of employee exposure to inorganic arsenic requires entry into an area where the use of respirators, protective clothing, or equipment is required, the employer shall provide the observer with and assure the use of such respirators, clothing, and such equipment, and shall require the observer to comply with all other applicable safety and health procedures.
 
@@ -332,7 +332,7 @@ DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE 
 
 (s) *Appendices.* The information contained in the appendices to this section is not intended by itself, to create any additional obligations not otherwise imposed by this standard nor detract from any existing obligation.
 
-Appendix A to § 1910.1018 - Inorganic Arsenic Substance Information Sheeti. substance identification
+Appendix A to § 1910.1018—Inorganic Arsenic Substance Information Sheeti. substance identification
 
 A. *Substance.* Inorganic Arsenic.
 
@@ -366,7 +366,7 @@ Your employer is required to post warning signs and labels for your protection. 
 
 vi. medical examinations
 
-If your exposure to arsenic is over the Action Level (5 µg/m3) - (including all persons working in regulated areas) at least 30 days per year, or you have been exposed to arsenic for more than 10 years over the Action Level, your employer is required to provide you with a medical examination. The examination shall be every 6 months for employees over 45 years old or with more than 10 years exposure over the Action Level and annually for other covered employees. The medical examination must include a medical history; a chest X-ray (during initial examination only); skin examination and a nasal examination. The examining physician will provide a written opinion to your employer containing the results of the medical exams. You should also receive a copy of this opinion. The physician must not tell your employer any conditions he detects unrelated to occupational exposure to arsenic but must tell you those conditions.
+If your exposure to arsenic is over the Action Level (5 µg/m3)—(including all persons working in regulated areas) at least 30 days per year, or you have been exposed to arsenic for more than 10 years over the Action Level, your employer is required to provide you with a medical examination. The examination shall be every 6 months for employees over 45 years old or with more than 10 years exposure over the Action Level and annually for other covered employees. The medical examination must include a medical history; a chest X-ray (during initial examination only); skin examination and a nasal examination. The examining physician will provide a written opinion to your employer containing the results of the medical exams. You should also receive a copy of this opinion. The physician must not tell your employer any conditions he detects unrelated to occupational exposure to arsenic but must tell you those conditions.
 
 vii. observation of monitoring
 
@@ -380,7 +380,7 @@ ix. training and notification
 
 Additional information on all of these items plus training as to hazards of exposure to inorganic arsenic and the engineering and work practice controls associated with your job will also be provided by your employer. If you are exposed over the permissible exposure limit, your employer must inform you of that fact and the actions he is taking to reduce your exposures.
 
-Appendix B to § 1910.1018 - Substance Technical Guidelinesarsenic, arsenic trioxide, arsenic trichloride (three examples)*I. Physical and chemical properties*
+Appendix B to § 1910.1018—Substance Technical Guidelinesarsenic, arsenic trioxide, arsenic trichloride (three examples)*I. Physical and chemical properties*
 
 A. Arsenic (metal).
 
@@ -438,7 +438,7 @@ Samples collected should be full shift (at least 7-hour) samples. Sampling shoul
 
 The method of sampling and analysis should have an accuracy of not less than ±25 percent (with a confidence limit of 95 percent) for 10 micrograms per cubic meter of air (10 µg/m3) and ±35 percent (with a confidence limit of 95 percent) for concentrations of inorganic arsenic between 5 and 10 µg/m3.
 
-Appendix C to § 1910.1018 - Medical Surveillance GuidelinesI. General
+Appendix C to § 1910.1018—Medical Surveillance GuidelinesI. General
 
 Medical examinations are to be provided for all employees exposed to levels of inorganic arsenic above the action level (5 µg/m3) for at least 30 days per year (which would include among others, all employees, who work in regulated areas). Examinations are also to be provided to all employees who have had 10 years or more exposure above the action level for more than 30 days per year while working for the present or predecessor employer though they may no longer be exposed above the level.
 
@@ -458,35 +458,17 @@ Periodic examinations for other covered employees shall be provided every six (6
 
 The examination contents are minimum requirements. Additional tests such as lateral and oblique X-rays or pulmonary function tests may be useful. For workers exposed to three arsenicals which are associated with lymphatic cancer, copper acetoarsenite, potassium arsenite, or sodium arsenite the examination should also include palpation of superficial lymph nodes and complete blood count.
 
-Medical examinations are to be provided for all employees exposed to levels of inorganic arsenic above the action level (5 µg/m3) for at least 30 days per year (which would include among others, all employees, who work in regulated areas). Examinations are also to be provided to all employees who have had 10 years or more exposure above the action level for more than 30 days per year while working for the present or predecessor employer though they may no longer be exposed above the level.
-
-An initial medical examination is to be provided to all such employees by December 1, 1978. In addition, an initial medical examination is to be provided to all employees who are first assigned to areas in which worker exposure will probably exceed 5 µg/m3 (after the effective date of this standard) at the time of initial assignment. In addition to its immediate diagnostic usefulness, the initial examination will provide a baseline for comparing future test results. The initial examination must include as a minimum the following elements:
-
-(1) A work and medical history, including a smoking history, and presence and degree of respiratory symptoms such as breathlessness, cough, sputum production, and wheezing;
-
-(2) A 14″ by 17″ posterior-anterior chest X-ray;
-
-(3) A nasal and skin examination; and
-
-(4) Other examinations which the physician believes appropriate because of the employee's exposure to inorganic arsenic or because of required respirator use.
-
-Periodic examinations are also to be provided to the employees listed above. The periodic examinations shall be given annually for those covered employees 45 years of age or less with fewer than 10 years employment in areas where employee exposure exceeds the action level (5 µg/m3). Periodic examinations need not include sputum cytology and only an updated medical history is required.
-
-Periodic examinations for other covered employees, shall be provided every six (6) months. These examinations shall include all tests required in the initial examination, except that the medical history need only be updated.
-
-The examination contents are minimum requirements. Additional tests such as lateral and oblique X-rays or pulmonary function tests may be useful. For workers exposed to three arsenicals which are associated with lymphatic cancer, copper acetoarsenite, potassium arsenite, or sodium arsenite the examination should also include palpation of superficial lymph nodes and complete blood count.
-
 ii. noncarcinogenic effects
 
 The OSHA standard is based on minimizing risk of exposed workers dying of lung cancer from exposure to inorganic arsenic. It will also minimize skin cancer from such exposures.
 
 The following three sections quoted from “Occupational Diseases: A Guide to Their Recognition”, Revised Edition, June 1977, National Institute for Occupational Safety and Health is included to provide information on the nonneoplastic effects of exposure to inorganic arsenic. Such effects should not occur if the OSHA standards are followed.
 
-A. *Local* - Trivalent arsenic compounds are corrosive to the skin. Brief contact has no effect but prolonged contact results in a local hyperemia and later vesicular or pustular eruption. The moist mucous membranes are most sensitive to the irritant action. Conjunctiva, moist and macerated areas of skin, the eyelids, the angles of the ears, nose, mouth, and respiratory mucosa are also vulnerable to the irritant effects. The wrists are common sites of dermatitis, as are the genitalia if personal hygiene is poor. Perforations of the nasal septum may occur. Arsenic trioxide and pentoxide are capable of producing skin sensitization and contact dermatitis. Arsenic is also capable of producing keratoses, especially of the palms and soles.
+A. *Local*—Trivalent arsenic compounds are corrosive to the skin. Brief contact has no effect but prolonged contact results in a local hyperemia and later vesicular or pustular eruption. The moist mucous membranes are most sensitive to the irritant action. Conjunctiva, moist and macerated areas of skin, the eyelids, the angles of the ears, nose, mouth, and respiratory mucosa are also vulnerable to the irritant effects. The wrists are common sites of dermatitis, as are the genitalia if personal hygiene is poor. Perforations of the nasal septum may occur. Arsenic trioxide and pentoxide are capable of producing skin sensitization and contact dermatitis. Arsenic is also capable of producing keratoses, especially of the palms and soles.
 
-B. *Systemic* - The acute toxic effects of arsenic are generally seen following ingestion of inorganic arsenical compounds. This rarely occurs in an industrial setting. Symptoms develop within1/2 to 4 hours following ingestion and are usually characterized by constriction of the throat followed by dysphagia, epigastric pain, vomiting, and watery diarrhea. Blood may appear in vomitus and stools. If the amount ingested is sufficiently high, shock may develop due to severe fluid loss, and death may ensue in 24 hours. If the acute effects are survived, exfoliative dermatitis and peripheral neuritis may develop.
+B. *Systemic*—The acute toxic effects of arsenic are generally seen following ingestion of inorganic arsenical compounds. This rarely occurs in an industrial setting. Symptoms develop within1/2 to 4 hours following ingestion and are usually characterized by constriction of the throat followed by dysphagia, epigastric pain, vomiting, and watery diarrhea. Blood may appear in vomitus and stools. If the amount ingested is sufficiently high, shock may develop due to severe fluid loss, and death may ensue in 24 hours. If the acute effects are survived, exfoliative dermatitis and peripheral neuritis may develop.
 
-Cases of acute arsenical poisoning due to inhalation are exceedingly rare in industry. When it does occur, respiratory tract symptoms - cough, chest pain, dyspnea - giddiness, headache, and extreme general weakness precede gastrointestinal symptoms. The acute toxic symptoms of trivalent arsenical poisoning are due to severe inflammation of the mucous membranes and greatly increased permeability of the blood capillaries.
+Cases of acute arsenical poisoning due to inhalation are exceedingly rare in industry. When it does occur, respiratory tract symptoms—cough, chest pain, dyspnea—giddiness, headache, and extreme general weakness precede gastrointestinal symptoms. The acute toxic symptoms of trivalent arsenical poisoning are due to severe inflammation of the mucous membranes and greatly increased permeability of the blood capillaries.
 
 Chronic arsenical poisoning due to ingestion is rare and generally confined to patients taking prescribed medications. However, it can be a concomitant of inhaled inorganic arsenic from swallowed sputum and improper eating habits. Symptoms are weight loss, nausea and diarrhea alternating with constipation, pigmentation and eruption of the skin, loss of hair, and peripheral neuritis. Chronic hepatitis and cirrhosis have been described. Polyneuritis may be the salient feature, but more frequently there are numbness and parasthenias of “glove and stocking” distribution. The skin lesions are usually melanotic and keratotic and may occasionally take the form of an intradermal cancer of the squamous cell type, but without infiltrative properties. Horizontal white lines (striations) on the fingernails and toenails are commonly seen in chronic arsenical poisoning and are considered to be a diagnostic accompaniment of arsenical polyneuritis.
 

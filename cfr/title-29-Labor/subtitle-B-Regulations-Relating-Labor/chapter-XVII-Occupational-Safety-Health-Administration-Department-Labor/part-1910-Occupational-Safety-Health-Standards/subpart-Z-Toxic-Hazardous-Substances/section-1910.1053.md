@@ -34,7 +34,7 @@
 
 *Regulated area* means an area, demarcated by the employer, where an employee's exposure to airborne concentrations of respirable crystalline silica exceeds, or can reasonably be expected to exceed, the PEL.
 
-*Respirable crystalline silica* means quartz, cristobalite, and/or tridymite contained in airborne particles that are determined to be respirable by a sampling device designed to meet the characteristics for respirable-particle-size-selective samplers specified in the International Organization for Standardization (ISO) 7708:1995: Air Quality - Particle Size Fraction Definitions for Health-Related Sampling.
+*Respirable crystalline silica* means quartz, cristobalite, and/or tridymite contained in airborne particles that are determined to be respirable by a sampling device designed to meet the characteristics for respirable-particle-size-selective samplers specified in the International Organization for Standardization (ISO) 7708:1995: Air Quality—Particle Size Fraction Definitions for Health-Related Sampling.
 
 *Specialist* means an American Board Certified Specialist in Pulmonary Disease or an American Board Certified Specialist in Occupational Medicine.
 
@@ -42,7 +42,7 @@
 
 (c) *Permissible exposure limit (PEL).* The employer shall ensure that no employee is exposed to an airborne concentration of respirable crystalline silica in excess of 50 µg/m3, calculated as an 8-hour TWA.
 
-(d) *Exposure assessment* - (1) *General.* The employer shall assess the exposure of each employee who is or may reasonably be expected to be exposed to respirable crystalline silica at or above the action level in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this section.
+(d) *Exposure assessment*—(1) *General.* The employer shall assess the exposure of each employee who is or may reasonably be expected to be exposed to respirable crystalline silica at or above the action level in accordance with either the performance option in paragraph (d)(2) or the scheduled monitoring option in paragraph (d)(3) of this section.
 
 (2) *Performance option.* The employer shall assess the 8-hour TWA exposure for each employee on the basis of any combination of air monitoring data or objective data sufficient to accurately characterize employee exposures to respirable crystalline silica.
 
@@ -68,7 +68,7 @@
 
 (ii) When observation of monitoring requires entry into an area where the use of protective clothing or equipment is required for any workplace hazard, the employer shall provide the observer with protective clothing and equipment at no cost and shall ensure that the observer uses such clothing and equipment.
 
-(e) *Regulated areas* - (1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of respirable crystalline silica is, or can reasonably be expected to be, in excess of the PEL.
+(e) *Regulated areas*—(1) *Establishment.* The employer shall establish a regulated area wherever an employee's exposure to airborne concentrations of respirable crystalline silica is, or can reasonably be expected to be, in excess of the PEL.
 
 (2) *Demarcation.* (i) The employer shall demarcate regulated areas from the rest of the workplace in a manner that minimizes the number of employees exposed to respirable crystalline silica within the regulated area.
 
@@ -84,7 +84,7 @@
 
 (4) *Provision of respirators.* The employer shall provide each employee and the employee's designated representative entering a regulated area with an appropriate respirator in accordance with paragraph (g) of this section and shall require each employee and the employee's designated representative to use the respirator while in a regulated area.
 
-(f) *Methods of compliance* - (1) *Engineering and work practice controls.* The employer shall use engineering and work practice controls to reduce and maintain employee exposure to respirable crystalline silica to or below the PEL, unless the employer can demonstrate that such controls are not feasible. Wherever such feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the PEL, the employer shall nonetheless use them to reduce employee exposure to the lowest feasible level and shall supplement them with the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
+(f) *Methods of compliance*—(1) *Engineering and work practice controls.* The employer shall use engineering and work practice controls to reduce and maintain employee exposure to respirable crystalline silica to or below the PEL, unless the employer can demonstrate that such controls are not feasible. Wherever such feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the PEL, the employer shall nonetheless use them to reduce employee exposure to the lowest feasible level and shall supplement them with the use of respiratory protection that complies with the requirements of paragraph (g) of this section.
 
 (2) *Written exposure control plan.* (i) The employer shall establish and implement a written exposure control plan that contains at least the following elements:
 
@@ -100,7 +100,7 @@
 
 (3) *Abrasive blasting.* In addition to the requirements of paragraph (f)(1) of this section, the employer shall comply with other OSHA standards, when applicable, such as 29 CFR 1910.94 (Ventilation), 29 CFR 1915.34 (Mechanical paint removers), and 29 CFR 1915 Subpart I (Personal Protective Equipment), where abrasive blasting is conducted using crystalline silica-containing blasting agents, or where abrasive blasting is conducted on substrates that contain crystalline silica.
 
-(g) *Respiratory protection* - (1) *General.* Where respiratory protection is required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph and 29 CFR 1910.134. Respiratory protection is required:
+(g) *Respiratory protection*—(1) *General.* Where respiratory protection is required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph and 29 CFR 1910.134. Respiratory protection is required:
 
 (i) Where exposures exceed the PEL during periods necessary to install or implement feasible engineering and work practice controls;
 
@@ -120,7 +120,7 @@
 
 (ii) No alternative method is feasible.
 
-(i) *Medical surveillance* - (1) *General.* (i) The employer shall make medical surveillance available at no cost to the employee, and at a reasonable time and place, for each employee who will be occupationally exposed to respirable crystalline silica at or above the action level for 30 or more days per year.
+(i) *Medical surveillance*—(1) *General.* (i) The employer shall make medical surveillance available at no cost to the employee, and at a reasonable time and place, for each employee who will be occupationally exposed to respirable crystalline silica at or above the action level for 30 or more days per year.
 
 (ii) The employer shall ensure that all medical examinations and procedures required by this section are performed by a PLHCP as defined in paragraph (b) of this section.
 
@@ -184,7 +184,7 @@
 
 (iv) The employer shall obtain a written opinion from the specialist within 30 days of the medical examination. The written opinion shall meet the requirements of paragraph (i)(6) (except paragraph (i)(6)(i)(B) and (i)(6)(ii)(B)) of this section.
 
-(j) *Communication of respirable crystalline silica hazards to employees* - (1) *Hazard communication.* The employer shall include respirable crystalline silica in the program established to comply with the hazard communication standard (HCS) (29 CFR 1910.1200). The employer shall ensure that each employee has access to labels on containers of crystalline silica and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (j)(3) of this section. The employer shall ensure that at least the following hazards are addressed: Cancer, lung effects, immune system effects, and kidney effects.
+(j) *Communication of respirable crystalline silica hazards to employees*—(1) *Hazard communication.* The employer shall include respirable crystalline silica in the program established to comply with the hazard communication standard (HCS) (29 CFR 1910.1200). The employer shall ensure that each employee has access to labels on containers of crystalline silica and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (j)(3) of this section. The employer shall ensure that at least the following hazards are addressed: Cancer, lung effects, immune system effects, and kidney effects.
 
 (2) *Signs.* The employer shall post signs at all entrances to regulated areas that bear the following legend:
 
@@ -204,7 +204,7 @@ DANGERRESPIRABLE CRYSTALLINE SILICAMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSWEAR RE
 
 (ii) The employer shall make a copy of this section readily available without cost to each employee covered by this section.
 
-(k) *Recordkeeping* - (1) *Air monitoring data.* (i) The employer shall make and maintain an accurate record of all exposure measurements taken to assess employee exposure to respirable crystalline silica, as prescribed in paragraph (d) of this section.
+(k) *Recordkeeping*—(1) *Air monitoring data.* (i) The employer shall make and maintain an accurate record of all exposure measurements taken to assess employee exposure to respirable crystalline silica, as prescribed in paragraph (d) of this section.
 
 (ii) This record shall include at least the following information:
 
@@ -220,7 +220,7 @@ DANGERRESPIRABLE CRYSTALLINE SILICAMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSWEAR RE
 
 (F) Type of personal protective equipment, such as respirators, worn by the employees monitored; and
 
-(G) Name, social security number, and job classification of all employees represented by the monitoring, indicating which employees were actually monitored.
+(G) Name and job classification of all employees represented by the monitoring, indicating which employees were actually monitored.
 
 (iii) The employer shall ensure that exposure records are maintained and made available in accordance with 29 CFR 1910.1020.
 
@@ -244,7 +244,7 @@ DANGERRESPIRABLE CRYSTALLINE SILICAMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSWEAR RE
 
 (ii) The record shall include the following information about the employee:
 
-(A) Name and social security number;
+(A) Name;
 
 (B) A copy of the PLHCPs' and specialists' written medical opinions; and
 
@@ -266,7 +266,7 @@ DANGERRESPIRABLE CRYSTALLINE SILICAMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSWEAR RE
 
 (4) The medical surveillance obligations in paragraph (i)(1)(i) commence on June 23, 2018, for employees who will be occupationally exposed to respirable crystalline silica above the PEL for 30 or more days per year. Those obligations commence June 23, 2020, for employees who will be occupationally exposed to respirable crystalline silica at or above the action level for 30 or more days per year.
 
-Appendix A to § 1910.1053 - Methods of Sample Analysis
+Appendix A to § 1910.1053—Methods of Sample Analysis
 
 This appendix specifies the procedures for analyzing air samples for respirable crystalline silica, as well as the quality control procedures that employers must ensure that laboratories use when performing an analysis required under 29 CFR 1910.1053 (d)(5). Employers must ensure that such a laboratory:
 
@@ -288,7 +288,7 @@ This appendix specifies the procedures for analyzing air samples for respirable 
 
 *6.3* Optimizes methods and instruments to obtain a quantitative limit of detection that represents a value no higher than 25 percent of the PEL based on sample air volume.
 
-Appendix B to § 1910.1053 - Medical Surveillance GuidelinesIntroduction
+Appendix B to § 1910.1053—Medical Surveillance GuidelinesIntroduction
 
 The purpose of this Appendix is to provide medical information and recommendations to aid physicians and other licensed health care professionals (PLHCPs) regarding compliance with the medical surveillance provisions of the respirable crystalline silica standard (29 CFR 1910.1053). Appendix B is for informational and guidance purposes only and none of the statements in Appendix B should be construed as imposing a mandatory requirement on employers that is not otherwise imposed by the standard.
 
@@ -306,39 +306,39 @@ In addition to silicosis, employees exposed to respirable crystalline silica, es
 
 *1.2. Chronic Silicosis.* Chronic silicosis is the most common presentation of silicosis and usually occurs after at least 10 years of exposure to respirable crystalline silica. The clinical presentation of chronic silicosis is:
 
-1.2.1. Symptoms - shortness of breath and cough, although employees may not notice any symptoms early in the disease. Constitutional symptoms, such as fever, loss of appetite and fatigue, may indicate other diseases associated with silica exposure, such as TB infection or lung cancer. Employees with these symptoms should immediately receive further evaluation and treatment.
+1.2.1. Symptoms—shortness of breath and cough, although employees may not notice any symptoms early in the disease. Constitutional symptoms, such as fever, loss of appetite and fatigue, may indicate other diseases associated with silica exposure, such as TB infection or lung cancer. Employees with these symptoms should immediately receive further evaluation and treatment.
 
-1.2.2. Physical Examination - may be normal or disclose dry rales or rhonchi on lung auscultation.
+1.2.2. Physical Examination—may be normal or disclose dry rales or rhonchi on lung auscultation.
 
-1.2.3. Spirometry - may be normal or may show only a mild restrictive or obstructive pattern.
+1.2.3. Spirometry—may be normal or may show only a mild restrictive or obstructive pattern.
 
-1.2.4. Chest X-ray - classic findings are small, rounded opacities in the upper lung fields bilaterally. However, small irregular opacities and opacities in other lung areas can also occur. Rarely, “eggshell calcifications” in the hilar and mediastinal lymph nodes are seen.
+1.2.4. Chest X-ray—classic findings are small, rounded opacities in the upper lung fields bilaterally. However, small irregular opacities and opacities in other lung areas can also occur. Rarely, “eggshell calcifications” in the hilar and mediastinal lymph nodes are seen.
 
-1.2.5. Clinical Course - chronic silicosis in most cases is a slowly progressive disease. Under the respirable crystalline silica standard, the PLHCP is to recommend that employees with a 1/0 category X-ray be referred to an American Board Certified Specialist in Pulmonary Disease or Occupational Medicine. The PLHCP and/or Specialist should counsel employees regarding work practices and personal habits that could affect employees' respiratory health.
+1.2.5. Clinical Course—chronic silicosis in most cases is a slowly progressive disease. Under the respirable crystalline silica standard, the PLHCP is to recommend that employees with a 1/0 category X-ray be referred to an American Board Certified Specialist in Pulmonary Disease or Occupational Medicine. The PLHCP and/or Specialist should counsel employees regarding work practices and personal habits that could affect employees' respiratory health.
 
 *1.3. Accelerated Silicosis.* Accelerated silicosis generally occurs within 5-10 years of exposure and results from high levels of exposure to respirable crystalline silica. The clinical presentation of accelerated silicosis is:
 
-1.3.1. Symptoms - shortness of breath, cough, and sometimes sputum production. Employees with exposure to respirable crystalline silica, and especially those with accelerated silicosis, are at high risk for activation of TB infections, atypical mycobacterial infections, and fungal superinfections. Constitutional symptoms, such as fever, weight loss, hemoptysis (coughing up blood), and fatigue may herald one of these infections or the onset of lung cancer.
+1.3.1. Symptoms—shortness of breath, cough, and sometimes sputum production. Employees with exposure to respirable crystalline silica, and especially those with accelerated silicosis, are at high risk for activation of TB infections, atypical mycobacterial infections, and fungal superinfections. Constitutional symptoms, such as fever, weight loss, hemoptysis (coughing up blood), and fatigue may herald one of these infections or the onset of lung cancer.
 
-1.3.2. Physical Examination - rales, rhonchi, or other abnormal lung findings in relation to illnesses present. Clubbing of the digits, signs of heart failure, and cor pulmonale may be present in severe lung disease.
+1.3.2. Physical Examination—rales, rhonchi, or other abnormal lung findings in relation to illnesses present. Clubbing of the digits, signs of heart failure, and cor pulmonale may be present in severe lung disease.
 
-1.3.3. Spirometry - restrictive or mixed restrictive/obstructive pattern.
+1.3.3. Spirometry—restrictive or mixed restrictive/obstructive pattern.
 
-1.3.4. Chest X-ray - small rounded and/or irregular opacities bilaterally. Large opacities and lung abscesses may indicate infections, lung cancer, or progression to complicated silicosis, also termed progressive massive fibrosis.
+1.3.4. Chest X-ray—small rounded and/or irregular opacities bilaterally. Large opacities and lung abscesses may indicate infections, lung cancer, or progression to complicated silicosis, also termed progressive massive fibrosis.
 
-1.3.5. Clinical Course - accelerated silicosis has a rapid, severe course. Under the respirable crystalline silica standard, the PLHCP can recommend referral to a Board Certified Specialist in either Pulmonary Disease or Occupational Medicine, as deemed appropriate, and referral to a Specialist is recommended whenever the diagnosis of accelerated silicosis is being considered.
+1.3.5. Clinical Course—accelerated silicosis has a rapid, severe course. Under the respirable crystalline silica standard, the PLHCP can recommend referral to a Board Certified Specialist in either Pulmonary Disease or Occupational Medicine, as deemed appropriate, and referral to a Specialist is recommended whenever the diagnosis of accelerated silicosis is being considered.
 
 *1.4. Acute Silicosis.* Acute silicosis is a rare disease caused by inhalation of extremely high levels of respirable crystalline silica particles. The pathology is similar to alveolar proteinosis with lipoproteinaceous material accumulating in the alveoli. Acute silicosis develops rapidly, often, within a few months to less than 2 years of exposure, and is almost always fatal. The clinical presentation of acute silicosis is as follows:
 
-1.4.1. Symptoms - sudden, progressive, and severe shortness of breath. Constitutional symptoms are frequently present and include fever, weight loss, fatigue, productive cough, hemoptysis (coughing up blood), and pleuritic chest pain.
+1.4.1. Symptoms—sudden, progressive, and severe shortness of breath. Constitutional symptoms are frequently present and include fever, weight loss, fatigue, productive cough, hemoptysis (coughing up blood), and pleuritic chest pain.
 
-1.4.2. Physical Examination - dyspnea at rest, cyanosis, decreased breath sounds, inspiratory rales, clubbing of the digits, and fever.
+1.4.2. Physical Examination—dyspnea at rest, cyanosis, decreased breath sounds, inspiratory rales, clubbing of the digits, and fever.
 
-1.4.3. Spirometry - restrictive or mixed restrictive/obstructive pattern.
+1.4.3. Spirometry—restrictive or mixed restrictive/obstructive pattern.
 
-1.4.4. Chest X-ray - diffuse haziness of the lungs bilaterally early in the disease. As the disease progresses, the “ground glass” appearance of interstitial fibrosis will appear.
+1.4.4. Chest X-ray—diffuse haziness of the lungs bilaterally early in the disease. As the disease progresses, the “ground glass” appearance of interstitial fibrosis will appear.
 
-1.4.5. Clinical Course - employees with acute silicosis are at especially high risk of TB activation, nontuberculous mycobacterial infections, and fungal superinfections. Acute silicosis is immediately life-threatening. The employee should be urgently referred to a Board Certified Specialist in Pulmonary Disease or Occupational Medicine for evaluation and treatment. Although any case of silicosis indicates a breakdown in prevention, a case of acute or accelerated silicosis implies a profoundly high level of silica exposure and may mean that other employees are currently exposed to dangerous levels of silica.
+1.4.5. Clinical Course—employees with acute silicosis are at especially high risk of TB activation, nontuberculous mycobacterial infections, and fungal superinfections. Acute silicosis is immediately life-threatening. The employee should be urgently referred to a Board Certified Specialist in Pulmonary Disease or Occupational Medicine for evaluation and treatment. Although any case of silicosis indicates a breakdown in prevention, a case of acute or accelerated silicosis implies a profoundly high level of silica exposure and may mean that other employees are currently exposed to dangerous levels of silica.
 
 *1.5. COPD.* COPD, including chronic bronchitis and emphysema, has been documented in silica-exposed employees, including those who do not develop silicosis. Periodic spirometry tests are performed to evaluate each employee for progressive changes consistent with the development of COPD. In addition to evaluating spirometry results of individual employees over time, PLHCPs may want to be aware of general trends in spirometry results for groups of employees from the same workplace to identify possible problems that might exist at that workplace. (*See* Section 2 of this Appendix on Medical Surveillance for further discussion.) Heart disease may develop secondary to lung diseases such as COPD. A recent study by Liu *et al.* 2014 noted a significant exposure-response trend between cumulative silica exposure and heart disease deaths, primarily due to pulmonary heart disease, such as cor pulmonale.
 
@@ -530,7 +530,7 @@ Contacting OSHA: *http://www.osha.gov/html/Feed\_Back.html*OSHA's Clinicians Web
 
 5.7. Other
 
-Steenland, K. and Ward E. (2014). Silica: A lung carcinogen. *CA Cancer J Clin,* 64, 63-69. (This article reviews not only silica and lung cancer but also all the known silica-related health effects. Further, the authors provide guidance to clinicians on medical surveillance of silica-exposed workers and worker counselling on safety practices to minimize silica exposure.)6. ReferencesAmerican Thoracic Society (ATS). Medical Section of the American Lung Association (1997). Adverse effects of crystalline silica exposure. *Am J Respir Crit Care Med,* 155, 761-765.American Thoracic Society (ATS), Centers for Disease Control (CDC), Infectious Diseases Society of America (IDSA) (2005). Controlling Tuberculosis in the United States. *Morbidity and Mortality Weekly Report (MMWR),* 54(RR12), 1-81. Accessed at: *http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5412a1.htm.*Brown, T. (2009). Silica exposure, smoking, silicosis and lung cancer - complex interactions. *Occupational Medicine,* 59, 89-95.Halldin, C.N., Petsonk, E.L., and Laney, A.S. (2014). Validation of the International Labour Office digitized standard images for recognition and classification of radiographs of pneumoconiosis. *Acad Radiol,* 21, 305-311.International Agency for Research on Cancer. (2012). Monographs on the evaluation of carcinogenic risks to humans: Arsenic, Metals, Fibers, and Dusts Silica Dust, Crystalline, in the Form of Quartz or Cristobalite. A Review of Human Carcinogens. Volume 100 C. Geneva, Switzerland: World Health Organization.Jalloul, A.S. and Banks D.E. (2007). Chapter 23. The health effects of silica exposure. In: Rom, W.N. and Markowitz, S.B. (Eds). Environmental and Occupational Medicine, 4th edition. Lippincott, Williams and Wilkins, Philadelphia, 365-387.Kramer, M.R., Blanc, P.D., Fireman, E., Amital, A., Guber, A., Rahman, N.A., and Shitrit, D. (2012). Artifical stone silicosis: Disease resurgence among artificial stone workers. *Chest,* 142, 419-424.Laney, A.S., Petsonk, E.L., and Attfield, M.D. (2011). Intramodality and intermodality comparisons of storage phosphor computed radiography and conventional film-screen radiography in the recognition of small pneumonconiotic opacities. *Chest,* 140, 1574-1580.Liu, Y., Steenland, K., Rong, Y., Hnizdo, E., Huang, X., Zhang, H., Shi, T., Sun, Y., Wu, T., and Chen, W. (2013). Exposure-response analysis and risk assessment for lung cancer in relationship to silica exposure: A 44-year cohort study of 34,018 workers. *Am J Epi,* 178, 1424-1433.Liu, Y., Rong, Y., Steenland, K., Christiani, D.C., Huang, X., Wu, T., and Chen, W. (2014). Long-term exposure to crystalline silica and risk of heart disease mortality. *Epidemiology,* 25, 689-696.Mazurek, G.H., Jereb, J., Vernon, A., LoBue, P., Goldberg, S., Castro, K. (2010). Updated guidelines for using interferon gamma release assays to detect Mycobacterium tuberculosis infection - United States. *Morbidity and Mortality Weekly Report (MMWR),* 59(RR05), 1-25.Miller, M.R., Hankinson, J., Brusasco, V., Burgos, F., Casaburi, R., Coates, A., Crapo, R., Enright, P., van der Grinten, C.P., Gustafsson, P., Jensen, R., Johnson, D.C., MacIntyre, N., McKay, R., Navajas, D., Pedersen, O.F., Pellegrino, R., Viegi, G., and Wanger, J. (2005).American Thoracic Society/European Respiratory Society (ATS/ERS) Task Force: Standardisation of Spirometry. *Eur Respir J,* 26, 319-338.National Toxicology Program (NTP) (2014). Report on Carcinogens, Thirteenth Edition. Silica, Crystalline (respirable Size). Research Triangle Park, NC: U.S. Department of Health and Human Services, Public Health Service. *http://ntp.niehs.nih.gov/ntp/roc/content/profiles/silica.pdf.*Occupational Safety and Health Administration/National Institute for Occupational Safety and Health (OSHA/NIOSH) (2012). Hazard Alert. Worker exposure to silica during hydraulic fracturing.Occupational Safety and Health Administration/National Institute for Occupational Safety and Health (OSHA/NIOSH) (2015). Hazard alert. Worker exposure to silica during countertop manufacturing, finishing, and installation. (OSHA-HA-3768-2015).Redlich, C.A., Tarlo, S.M., Hankinson, J.L., Townsend, M.C, Eschenbacher, W.L., Von Essen, S.G., Sigsgaard, T., Weissman, D.N. (2014). Official American Thoracic Society technical standards: Spirometry in the occupational setting. *Am J Respir Crit Care Med*; 189, 984-994.Rees, D. and Murray, J. (2007). Silica, silicosis and tuberculosis. *Int J Tuberc Lung Dis*, 11(5), 474-484.Shtraichman, O., Blanc, P.D., Ollech, J.E., Fridel, L., Fuks, L., Fireman, E., and Kramer, M.R. (2015). Outbreak of autoimmune disease in silicosis linked to artificial stone. *Occup Med,* 65, 444-450.Slater, M.L., Welland, G., Pai, M., Parsonnet, J., and Banaei, N. (2013). Challenges with QuantiFERON-TB gold assay for large-scale, routine screening of U.S. healthcare workers. *Am J Respir Crit Care Med,* 188, 1005-1010.Steenland, K., Mannetje, A., Boffetta, P., Stayner, L., Attfield, M., Chen, J., Dosemeci, M., DeKlerk, N., Hnizdo, E., Koskela, R., and Checkoway, H. (2001). International Agency for Research on Cancer. Pooled exposure-response analyses and risk assessment for lung cancer in 10 cohorts of silica-exposed workers: An IARC multicentre study. *Cancer Causes Control,* 12(9):773-84.Steenland, K. and Ward E. (2014). Silica: A lung carcinogen. *CA Cancer J Clin,* 64, 63-69.Townsend, M.C. ACOEM Guidance Statement. (2011). Spirometry in the occupational health setting - 2011 Update. *J Occup Environ Med,* 53, 569-584.7. Sample Forms
+Steenland, K. and Ward E. (2014). Silica: A lung carcinogen. *CA Cancer J Clin,* 64, 63-69. (This article reviews not only silica and lung cancer but also all the known silica-related health effects. Further, the authors provide guidance to clinicians on medical surveillance of silica-exposed workers and worker counselling on safety practices to minimize silica exposure.)6. ReferencesAmerican Thoracic Society (ATS). Medical Section of the American Lung Association (1997). Adverse effects of crystalline silica exposure. *Am J Respir Crit Care Med,* 155, 761-765.American Thoracic Society (ATS), Centers for Disease Control (CDC), Infectious Diseases Society of America (IDSA) (2005). Controlling Tuberculosis in the United States. *Morbidity and Mortality Weekly Report (MMWR),* 54(RR12), 1-81. Accessed at: *http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5412a1.htm.*Brown, T. (2009). Silica exposure, smoking, silicosis and lung cancer—complex interactions. *Occupational Medicine,* 59, 89-95.Halldin, C.N., Petsonk, E.L., and Laney, A.S. (2014). Validation of the International Labour Office digitized standard images for recognition and classification of radiographs of pneumoconiosis. *Acad Radiol,* 21, 305-311.International Agency for Research on Cancer. (2012). Monographs on the evaluation of carcinogenic risks to humans: Arsenic, Metals, Fibers, and Dusts Silica Dust, Crystalline, in the Form of Quartz or Cristobalite. A Review of Human Carcinogens. Volume 100 C. Geneva, Switzerland: World Health Organization.Jalloul, A.S. and Banks D.E. (2007). Chapter 23. The health effects of silica exposure. In: Rom, W.N. and Markowitz, S.B. (Eds). Environmental and Occupational Medicine, 4th edition. Lippincott, Williams and Wilkins, Philadelphia, 365-387.Kramer, M.R., Blanc, P.D., Fireman, E., Amital, A., Guber, A., Rahman, N.A., and Shitrit, D. (2012). Artifical stone silicosis: Disease resurgence among artificial stone workers. *Chest,* 142, 419-424.Laney, A.S., Petsonk, E.L., and Attfield, M.D. (2011). Intramodality and intermodality comparisons of storage phosphor computed radiography and conventional film-screen radiography in the recognition of small pneumonconiotic opacities. *Chest,* 140, 1574-1580.Liu, Y., Steenland, K., Rong, Y., Hnizdo, E., Huang, X., Zhang, H., Shi, T., Sun, Y., Wu, T., and Chen, W. (2013). Exposure-response analysis and risk assessment for lung cancer in relationship to silica exposure: A 44-year cohort study of 34,018 workers. *Am J Epi,* 178, 1424-1433.Liu, Y., Rong, Y., Steenland, K., Christiani, D.C., Huang, X., Wu, T., and Chen, W. (2014). Long-term exposure to crystalline silica and risk of heart disease mortality. *Epidemiology,* 25, 689-696.Mazurek, G.H., Jereb, J., Vernon, A., LoBue, P., Goldberg, S., Castro, K. (2010). Updated guidelines for using interferon gamma release assays to detect Mycobacterium tuberculosis infection—United States. *Morbidity and Mortality Weekly Report (MMWR),* 59(RR05), 1-25.Miller, M.R., Hankinson, J., Brusasco, V., Burgos, F., Casaburi, R., Coates, A., Crapo, R., Enright, P., van der Grinten, C.P., Gustafsson, P., Jensen, R., Johnson, D.C., MacIntyre, N., McKay, R., Navajas, D., Pedersen, O.F., Pellegrino, R., Viegi, G., and Wanger, J. (2005).American Thoracic Society/European Respiratory Society (ATS/ERS) Task Force: Standardisation of Spirometry. *Eur Respir J,* 26, 319-338.National Toxicology Program (NTP) (2014). Report on Carcinogens, Thirteenth Edition. Silica, Crystalline (respirable Size). Research Triangle Park, NC: U.S. Department of Health and Human Services, Public Health Service. *http://ntp.niehs.nih.gov/ntp/roc/content/profiles/silica.pdf.*Occupational Safety and Health Administration/National Institute for Occupational Safety and Health (OSHA/NIOSH) (2012). Hazard Alert. Worker exposure to silica during hydraulic fracturing.Occupational Safety and Health Administration/National Institute for Occupational Safety and Health (OSHA/NIOSH) (2015). Hazard alert. Worker exposure to silica during countertop manufacturing, finishing, and installation. (OSHA-HA-3768-2015).Redlich, C.A., Tarlo, S.M., Hankinson, J.L., Townsend, M.C, Eschenbacher, W.L., Von Essen, S.G., Sigsgaard, T., Weissman, D.N. (2014). Official American Thoracic Society technical standards: Spirometry in the occupational setting. *Am J Respir Crit Care Med*; 189, 984-994.Rees, D. and Murray, J. (2007). Silica, silicosis and tuberculosis. *Int J Tuberc Lung Dis*, 11(5), 474-484.Shtraichman, O., Blanc, P.D., Ollech, J.E., Fridel, L., Fuks, L., Fireman, E., and Kramer, M.R. (2015). Outbreak of autoimmune disease in silicosis linked to artificial stone. *Occup Med,* 65, 444-450.Slater, M.L., Welland, G., Pai, M., Parsonnet, J., and Banaei, N. (2013). Challenges with QuantiFERON-TB gold assay for large-scale, routine screening of U.S. healthcare workers. *Am J Respir Crit Care Med,* 188, 1005-1010.Steenland, K., Mannetje, A., Boffetta, P., Stayner, L., Attfield, M., Chen, J., Dosemeci, M., DeKlerk, N., Hnizdo, E., Koskela, R., and Checkoway, H. (2001). International Agency for Research on Cancer. Pooled exposure-response analyses and risk assessment for lung cancer in 10 cohorts of silica-exposed workers: An IARC multicentre study. *Cancer Causes Control,* 12(9):773-84.Steenland, K. and Ward E. (2014). Silica: A lung carcinogen. *CA Cancer J Clin,* 64, 63-69.Townsend, M.C. ACOEM Guidance Statement. (2011). Spirometry in the occupational health setting—2011 Update. *J Occup Environ Med,* 53, 569-584.7. Sample Forms
 
 Three sample forms are provided. The first is a sample written medical report for the employee. The second is a sample written medical opinion for the employer. And the third is a sample written authorization form that employees sign to clarify what information the employee is authorizing to be released to the employer.
 
