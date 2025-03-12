@@ -1,7 +1,5 @@
 ##### § 208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
-Link to an amendment published at 85 FR 67259, Oct. 21, 2020.
-
 (a) *Consideration of application for withholding of removal.* An asylum officer shall not decide whether the exclusion, deportation, or removal of an alien to a country where the alien's life or freedom would be threatened must be withheld, except in the case of an alien who is otherwise eligible for asylum but is precluded from being granted such status due solely to section 207(a)(5) of the Act. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 
 (b) *Eligibility for withholding of removal under section 241(b)(3) of the Act; burden of proof.* The burden of proof is on the applicant for withholding of removal under section 241(b)(3) of the Act to establish that his or her life or freedom would be threatened in the proposed country of removal on account of race, religion, nationality, membership in a particular social group, or political opinion. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The evidence shall be evaluated as follows:
@@ -50,8 +48,8 @@ Link to an amendment published at 85 FR 67259, Oct. 21, 2020.
 
 (3) *Exception to the prohibition on withholding of deportation in certain cases.* Section 243(h)(3) of the Act, as added by section 413 of Pub. L. 104-132 (110 Stat. 1214), shall apply only to applications adjudicated in proceedings commenced before April 1, 1997, and in which final action had not been taken before April 24, 1996. The discretion permitted by that section to override section 243(h)(2) of the Act shall be exercised only in the case of an applicant convicted of an aggravated felony (or felonies) where he or she was sentenced to an aggregate term of imprisonment of less than 5 years and the immigration judge determines on an individual basis that the crime (or crimes) of which the applicant was convicted does not constitute a particularly serious crime. Nevertheless, it shall be presumed that an alien convicted of an aggravated felony has been convicted of a particularly serious crime. Except in the cases specified in this paragraph, the grounds for denial of withholding of deportation in section 243(h)(2) of the Act as it appeared prior to April 1, 1997, shall be deemed to comply with the Protocol Relating to the Status of Refugees, Jan. 31, 1967, T.I.A.S. No. 6577.
 
-(e) *Reconsideration of discretionary denial of asylum.* In the event that an applicant is denied asylum solely in the exercise of discretion, and the applicant is subsequently granted withholding of deportation or removal under this section, thereby effectively precluding admission of the applicant's spouse or minor children following to join him or her, the denial of asylum shall be reconsidered. Factors to be considered will include the reasons for the denial and reasonable alternatives available to the applicant such as reunification with his or her spouse or minor children in a third country.
+(e) [Reserved]
 
 (f) *Removal to third country.* Nothing in this section or § 208.17 shall prevent the Service from removing an alien to a third country other than the country to which removal has been withheld or deferred.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000; 85 FR 67259, Oct. 21, 2020]

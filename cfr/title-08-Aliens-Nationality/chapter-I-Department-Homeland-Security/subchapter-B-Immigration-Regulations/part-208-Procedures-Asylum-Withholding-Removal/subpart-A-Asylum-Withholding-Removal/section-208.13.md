@@ -1,7 +1,5 @@
 ##### § 208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 67258, Oct. 21, 2020.
-
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
 (b) *Eligibility.* The applicant may qualify as a refugee either because he or she has suffered past persecution or because he or she has a well-founded fear of future persecution.
@@ -74,4 +72,82 @@ Link to an amendment published at 85 FR 67258, Oct. 21, 2020.
 
 (5) *Non-binding determinations.* Determinations made with respect to paragraph (c)(4)(ii) of this section are not binding on Federal departments or agencies in subsequent determinations of eligibility for T or U nonimmigrant status under section 101(a)(15)(T) or (U) of the INA or for benefits or services under 22 U.S.C. 7105 or 8 U.S.C. 1641(c)(4).
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019]
+(6) *Additional limitations on eligibility for asylum.* For applications filed on or after November 20, 2020, an alien shall be found ineligible for asylum if:
+
+(i) The alien has been convicted on or after such date of an offense arising under sections 274(a)(1)(A), 274(a)(2), or 276 of the Act;
+
+(ii) The alien has been convicted on or after such date of a Federal, State, tribal, or local crime that the asylum officer knows or has reason to believe was committed in support, promotion, or furtherance of the activity of a criminal street gang as that term is defined either under the jurisdiction where the conviction occurred or in section 521(a) of title 18;
+
+(iii) The alien has been convicted on or after such date of an offense for driving while intoxicated or impaired as those terms are defined under the jurisdiction where the conviction occurred (including a conviction for driving while under the influence of or impaired by alcohol or drugs) without regard to whether the conviction is classified as a misdemeanor or felony under Federal, State, tribal, or local law, in which such impaired driving was a cause of serious bodily injury or death of another person;
+
+(iv)(A) The alien has been convicted on or after such date of a second or subsequent offense for driving while intoxicated or impaired as those terms are defined under the jurisdiction where the conviction occurred (including a conviction for driving while under the influence of or impaired by alcohol or drugs) without regard to whether the conviction is classified as a misdemeanor or felony under Federal, State, tribal, or local law;
+
+(B) A finding under paragraph (c)(6)(iv)(A) of this section does not require the asylum officer to find the first conviction for driving while intoxicated or impaired (including a conviction for driving while under the influence of or impaired by alcohol or drugs) as a predicate offense. The asylum officer need only make a factual determination that the alien was previously convicted for driving while intoxicated or impaired as those terms are defined under the jurisdiction where the convictions occurred (including a conviction for driving while under the influence of or impaired by alcohol or drugs).
+
+(v)(A) The alien has been convicted on or after such date of a crime that involves conduct amounting to a crime of stalking; or a crime of child abuse, child neglect, or child abandonment; or that involves conduct amounting to a domestic assault or battery offense, including a misdemeanor crime of domestic violence, as described in section 922(g)(9) of title 18, a misdemeanor crime of domestic violence as described in section 921(a)(33) of title 18, a crime of domestic violence as described in section 12291(a)(8) of title 34, or any crime based on conduct in which the alien harassed, coerced, intimidated, voluntarily or recklessly used (or threatened to use) force or violence against, or inflicted physical injury or physical pain, however slight, upon a person, and committed by:
+
+(*1*) An alien who is a current or former spouse of the person;
+
+(*2*) An alien with whom the person shares a child in common;
+
+(*3*) An alien who is cohabiting with or has cohabited with the person as a spouse;
+
+(*4*) An alien similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs; or
+
+(*5*) Any other alien against a person who is protected from that alien's acts under the domestic or family violence laws of the United States or any State, tribal government, or unit of local government.
+
+(B) In making a determination under paragraph (c)(6)(v)(A) of this section, including in determining the existence of a domestic relationship between the alien and the victim, the underlying conduct of the crime may be considered and the asylum officer is not limited to facts found by the criminal court or provided in the underlying record of conviction.
+
+(C) An alien who was convicted of offenses described in paragraph (c)(6)(v)(A) of this section is not subject to ineligibility for asylum on that basis if the alien would be described in section 237(a)(7)(A) of the Act were the crimes or conduct considered grounds for deportability under section 237(a)(2)(E)(i) through (ii) of the Act.
+
+(vi) The alien has been convicted on or after such date of -
+
+(A) Any felony under Federal, State, tribal, or local law;
+
+(B) Any misdemeanor offense under Federal, State, tribal, or local law involving:
+
+(*1*) The possession or use of an identification document, authentication feature, or false identification document without lawful authority, unless the alien can establish that the conviction resulted from circumstances showing that the document was presented before boarding a common carrier, that the document related to the alien's eligibility to enter the United States, that the alien used the document to depart a country in which the alien has claimed a fear of persecution, and that the alien claimed a fear of persecution without delay upon presenting himself or herself to an immigration officer upon arrival at a United States port of entry;
+
+(*2*) The receipt of Federal public benefits, as defined in 8 U.S.C. 1611(c), from a Federal entity, or the receipt of similar public benefits from a State, tribal, or local entity, without lawful authority; or
+
+(*3*) Possession or trafficking of a controlled substance or controlled-substance paraphernalia, other than a single offense involving possession for one's own use of 30 grams or less of marijuana.
+
+(vii) The asylum officer knows or has reason to believe that the alien has engaged on or after such date in acts of battery or extreme cruelty as defined in 8 CFR 204.2(c)(1)(vi), upon a person, and committed by:
+
+(A) An alien who is a current or former spouse of the person;
+
+(B) An alien with whom the person shares a child in common;
+
+(C) An alien who is cohabiting with or has cohabited with the person as a spouse;
+
+(D) An alien similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs; or
+
+(E) Any other alien against a person who is protected from that alien's acts under the domestic or family violence laws of the United States or any State, tribal government, or unit of local government, even if the acts did not result in a criminal conviction;
+
+(F) Except that an alien who was convicted of offenses or engaged in conduct described in paragraph (c)(6)(vii) of this section is not subject to ineligibility for asylum on that basis if the alien would be described in section 237(a)(7)(A) of the Act were the crimes or conduct considered grounds for deportability under section 237(a)(2)(E)(i)-(ii) of the Act.
+
+(7) For purposes of paragraph (c)(6) of this section:
+
+(i) The term “felony” means any crime defined as a felony by the relevant jurisdiction (Federal, State, tribal, or local) of conviction, or any crime punishable by more than one year of imprisonment.
+
+(ii) The term “misdemeanor” means any crime defined as a misdemeanor by the relevant jurisdiction (Federal, State, tribal, or local) of conviction, or any crime not punishable by more than one year of imprisonment.
+
+(iii) Whether any activity or conviction also may constitute a basis for removability under the Act is immaterial to a determination of asylum eligibility.
+
+(iv) All references to a criminal offense or criminal conviction shall be deemed to include any attempt, conspiracy, or solicitation to commit the offense or any other inchoate form of the offense.
+
+(v) No order vacating a conviction, modifying a sentence, clarifying a sentence, or otherwise altering a conviction or sentence, shall have any effect unless the asylum officer determines that -
+
+(A) The court issuing the order had jurisdiction and authority to do so; and
+
+(B) The order was not entered for rehabilitative purposes or for purposes of ameliorating the immigration consequences of the conviction or sentence.
+
+(8) For purposes of paragraph (c)(7)(v)(B) of this section, the order shall be presumed to be for the purpose of ameliorating immigration consequences if:
+
+(i) The order was entered after the initiation of any proceeding to remove the alien from the United States; or
+
+(ii) The alien moved for the order more than one year after the date of the original order of conviction or sentencing.
+
+(9) An asylum officer is authorized to look beyond the face of any order purporting to vacate a conviction, modify a sentence, or clarify a sentence to determine whether the requirements of paragraph (c)(7)(v) of this section have been met in order to determine whether such order should be given any effect under this section.
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019; 85 FR 67258, Oct. 21, 2020]

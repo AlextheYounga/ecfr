@@ -14,7 +14,7 @@
 
 (B) With respect to an advanced approaches FDIC-supervised institutions, on January 1, 2018, and thereafter, the supplementary leverage ratio.
 
-(2) For a qualifying community banking organization (as defined under § 324.12), that has elected to use the community bank leverage ratio framework (as defined under § 324.12), the leverage ratio calculated in accordance with § 324.12(b) is used to determine the well capitalized capital category under paragraph (b)(1)(i) (A) through (D) of this section.
+(2) For a qualifying community banking organization (as defined under § 324.12), that has elected to use the community bank leverage ratio framework (as defined under § 324.12), the leverage ratio calculated in accordance with § 324.12(b) is used to determine the well capitalized capital category under paragraph (b)(1)(i)(A) through (D) of this section.
 
 (b) *Capital categories.* For purposes of section 38 of the FDI Act and this subpart, an FDIC-supervised institution shall be deemed to be:
 
@@ -30,7 +30,7 @@
 
 (E) The FDIC-supervised institution is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the FDIC pursuant to section 8 of the FDI Act (12 U.S.C. 1818), the International Lending Supervision Act of 1983 (12 U.S.C. 3907), or the Home Owners' Loan Act (12 U.S.C. 1464(t)(6)(A)(ii)), or section 38 of the FDI Act (12 U.S.C. 1831o), or any regulation thereunder, to meet and maintain a specific capital level for any capital measure.
 
-(ii) Beginning on January 1, 2018 and thereafter, an FDIC-supervised institution that is a subsidiary of a covered BHC will be deemed to be well capitalized if the FDIC-supervised institution satisfies paragraphs (b)(1)(i)(A) through (E) of this section and has a supplementary leverage ratio of 6.0 percent or greater. For purposes of this paragraph (b)(1)(ii), a covered BHC means a U.S. top-tier bank holding company with more than $700 billion in total assets as reported on the company's most recent Consolidated Financial Statement for Bank Holding Companies (Form FR Y-9C) or more than $10 trillion in assets under custody as reported on the company's most recent Banking Organization Systemic Risk Report (Form FR Y-15).
+(ii) An FDIC-supervised institution that is a subsidiary of a global systemically important bank holding company will be deemed to be well capitalized if the FDIC-supervised institution satisfies paragraphs (b)(1)(i)(A) through (E) of this section and has a supplementary leverage ratio of 6.0 percent or greater. For purposes of this paragraph (b)(1)(ii), global systemically important bank holding company has the same meaning as in 12 CFR 217.402.
 
 (iii) A qualifying community banking organization, as defined under § 324.12, that has elected to use the community bank leverage ratio framework under § 324.12 shall be considered to have met the capital ratio requirements for the well capitalized capital category in paragraph (b)(1)(i)(A) through (D) of this section.
 
@@ -110,4 +110,4 @@
 
 (2) *Unsafe or unsound practice.* The FDIC has determined, after notice and opportunity for hearing pursuant to § 308.202(a) of this chapter, that, in the most recent examination of the FDIC-supervised institution, the FDIC-supervised institution received and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014; 83 FR 17617, Apr. 23, 2018; 84 FR 61803, Nov. 13, 2019; 85 FR 5303, Jan. 30, 2020; 85 FR 32990, June 1, 2020]
+[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014; 83 FR 17617, Apr. 23, 2018; 84 FR 61803, Nov. 13, 2019; 85 FR 5303, Jan. 30, 2020; 85 FR 32990, June 1, 2020; 85 FR 74259, Nov. 20, 2020]
