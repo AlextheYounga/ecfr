@@ -1,5 +1,7 @@
 ##### § 423.2044 Consolidated proceedings. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *Consolidated hearing.* (1) A consolidated hearing may be held if one or more of the issues to be considered at the hearing are the same issues that are involved in one or more other appeals pending before the same ALJ.
 
 (2) It is within the discretion of the ALJ to grant or deny an enrollee's request for consolidation. In considering an enrollee's request, the ALJ may consider factors such as whether the issue(s) may be more efficiently decided if the appeals are consolidated for hearing. In considering the enrollee's request for consolidation, the ALJ must take into account any adjudication deadlines for each appeal and may require an enrollee to waive the adjudication deadline associated with one or more appeals if consolidation otherwise prevents the ALJ from deciding all of the appeals at issue within their respective deadlines.

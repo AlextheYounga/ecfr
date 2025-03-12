@@ -1,5 +1,7 @@
 ##### § 405.1052 Dismissal of a request for a hearing before an ALJ or request for review of a QIC dismissal. #####
 
+Link to an amendment published at 84 FR 19871, May 7, 2019.
+
 (a) *Dismissal of request for hearing.* An ALJ dismisses a request for a hearing under any of the following conditions:
 
 (1) Neither the party that requested the hearing nor the party's representative appears at the time and place set for the hearing, if -

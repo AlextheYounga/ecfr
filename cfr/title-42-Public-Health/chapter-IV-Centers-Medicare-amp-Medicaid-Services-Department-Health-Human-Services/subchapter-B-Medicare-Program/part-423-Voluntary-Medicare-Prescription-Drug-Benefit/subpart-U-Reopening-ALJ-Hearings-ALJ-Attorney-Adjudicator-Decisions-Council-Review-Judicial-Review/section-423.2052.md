@@ -1,5 +1,7 @@
 ##### § 423.2052 Dismissal of a request for a hearing before an ALJ or request for review of an IRE dismissal. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *Dismissal of request for hearing.* An ALJ dismisses a request for a hearing under any of the following conditions:
 
 (1) Neither the enrollee that requested the hearing nor the enrollee's representative appears at the time and place set for the hearing, if -

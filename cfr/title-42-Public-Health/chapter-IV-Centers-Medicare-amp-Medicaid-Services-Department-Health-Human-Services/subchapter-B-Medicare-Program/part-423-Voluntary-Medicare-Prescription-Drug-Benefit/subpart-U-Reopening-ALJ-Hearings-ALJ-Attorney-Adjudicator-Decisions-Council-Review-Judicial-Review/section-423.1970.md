@@ -1,5 +1,7 @@
 ##### § 423.1970 Right to an ALJ hearing. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) If the amount remaining in controversy after the IRE reconsideration meets the threshold requirement established annually by the Secretary, an enrollee who is dissatisfied with the IRE reconsideration determination has a right to a hearing before an ALJ.
 
 (b) *Calculating the amount in controversy in specific circumstances.* (1) If the basis for the appeal is the refusal by the Part D plan sponsor to provide drug benefits, CMS uses the projected value of those benefits to compute the amount remaining in controversy. The projected value of a Part D drug or drugs must include any costs the enrollee could incur based on the number of refills prescribed for the drug(s) in dispute during the plan year.

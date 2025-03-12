@@ -1,5 +1,7 @@
 ##### § 423.2100 Medicare Appeals Council review: general. #####
 
+Link to an amendment published at 84 FR 19874, May 7, 2019.
+
 (a) Consistent with § 423.1974, the enrollee may request that the Council review an ALJ's or attorney adjudicator's decision or dismissal.
 
 (b) When the Council reviews an ALJ's or attorney adjudicator's written decision, it undertakes a de novo review.

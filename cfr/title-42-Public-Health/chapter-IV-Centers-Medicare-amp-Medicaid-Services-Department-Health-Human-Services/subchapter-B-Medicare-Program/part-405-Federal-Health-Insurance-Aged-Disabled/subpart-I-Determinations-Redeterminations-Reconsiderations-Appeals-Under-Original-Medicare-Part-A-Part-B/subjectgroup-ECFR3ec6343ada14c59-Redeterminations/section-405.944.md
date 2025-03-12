@@ -1,5 +1,7 @@
 ##### § 405.944 Place and method of filing a request for a redetermination. #####
 
+Link to an amendment published at 84 FR 19869, May 7, 2019.
+
 (a) *Filing location.* The request for redetermination must be filed with the contractor indicated on the notice of initial determination.
 
 (b) *Content of redetermination request.* The request for redetermination must be in writing and should be made on a standard CMS form. A written request that is not made on a standard CMS form is accepted if it contains the same required elements as follows:

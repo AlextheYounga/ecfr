@@ -1,5 +1,7 @@
 ##### § 405.1034 Requesting information from the QIC. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) If an ALJ or attorney adjudicator believes that the written record is missing information that is essential to resolving the issues on appeal and that information can be provided only by CMS or its contractors, the information may be requested from the QIC that conducted the reconsideration or its successor.
 
 (1) Official copies of redeterminations and reconsiderations that were conducted on the appealed claims can be provided only by CMS or its contractors. Prior to issuing a request for information to the QIC, OMHA will confirm whether an electronic copy of the redetermination or reconsideration is available in the official system of record, and if so will accept the electronic copy as an official copy.

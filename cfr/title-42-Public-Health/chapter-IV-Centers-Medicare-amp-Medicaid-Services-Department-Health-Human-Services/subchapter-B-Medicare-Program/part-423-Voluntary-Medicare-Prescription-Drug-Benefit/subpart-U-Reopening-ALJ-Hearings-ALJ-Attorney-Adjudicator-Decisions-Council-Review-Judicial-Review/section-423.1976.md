@@ -1,5 +1,7 @@
 ##### § 423.1976 Judicial review. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *Review of ALJ's or attorney adjudicator's decision.* The enrollee may request judicial review of an ALJ's or attorney adjudicator's decision if -
 
 (1) The Council denied the enrollee's request for review; and

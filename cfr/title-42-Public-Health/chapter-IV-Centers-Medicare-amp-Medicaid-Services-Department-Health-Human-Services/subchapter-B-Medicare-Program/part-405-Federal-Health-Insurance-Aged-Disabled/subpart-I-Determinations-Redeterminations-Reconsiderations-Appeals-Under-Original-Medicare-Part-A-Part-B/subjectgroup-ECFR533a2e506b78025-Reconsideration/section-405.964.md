@@ -1,5 +1,7 @@
 ##### § 405.964 Place and method of filing a request for a reconsideration. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *Filing location.* The request for reconsideration must be filed with the QIC indicated on the notice of redetermination.
 
 (b) *Content of reconsideration request.* The request for reconsideration must be in writing and should be made on a standard CMS form. A written request that is not made on a standard CMS form is accepted if it contains the same required elements, as follows:

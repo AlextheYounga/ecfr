@@ -1,5 +1,7 @@
 ##### § 405.1046 Notice of an ALJ or attorney adjudicator decision. #####
 
+Link to an amendment published at 84 FR 19871, May 7, 2019.
+
 (a) *Decisions on requests for hearing* - (1) *General rule.* Unless the ALJ or attorney adjudicator dismisses or remands the request for hearing, the ALJ or attorney adjudicator will issue a written decision that gives the findings of fact, conclusions of law, and the reasons for the decision. The decision must be based on evidence offered at the hearing or otherwise admitted into the record, and shall include independent findings and conclusions. OMHA mails or otherwise transmits a copy of the decision to all the parties at their last known address and the QIC that issued the reconsideration or from which the appeal was escalated. For overpayment cases involving multiple beneficiaries, where there is no beneficiary liability, the ALJ or attorney adjudicator may choose to send written notice only to the appellant. In the event a payment will be made to a provider or supplier in conjunction with the ALJ's or attorney adjudicator's decision, the contractor must also issue a revised electronic or paper remittance advice to that provider or supplier.
 
 (2) *Content of the notice.* The decision must be written in a manner calculated to be understood by a beneficiary and must include -

@@ -1,5 +1,7 @@
 ##### § 405.1020 Time and place for a hearing before an ALJ. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *General.* The ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
 (b) *Determining how appearances are made* - (1) *Appearances by unrepresented beneficiaries.* The ALJ will direct that the appearance of an unrepresented beneficiary who filed a request for hearing be conducted by video-teleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance, unless the ALJ find good cause for an in-person appearance.

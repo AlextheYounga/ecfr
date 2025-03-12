@@ -1,5 +1,7 @@
 ##### § 405.1114 Dismissal of request for review. #####
 
+Link to an amendment published at 84 FR 19871, May 7, 2019.
+
 The Council dismisses a request for review if the party requesting review did not file the request within the stated period of time and the time for filing has not been extended. The Council also dismisses the request for review if -
 
 (a) The party asks to withdraw the request for review;

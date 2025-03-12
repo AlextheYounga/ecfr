@@ -1,5 +1,7 @@
 ##### § 423.2056 Remands of requests for hearing and requests for review. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *Missing appeal determination or case record.* (1) If an ALJ or attorney adjudicator requests an official copy of a missing redetermination or reconsideration for an appealed coverage determination or at-risk determination in accordance with § 423.2034, and the IRE, CMS, or Part D plan sponsor does not furnish the copy within the time frame specified in § 423.2034, an ALJ or attorney adjudicator may issue a remand directing the IRE or Part D plan sponsor to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.
 
 (2) If the IRE does not furnish the case file for an appealed reconsideration, an ALJ or attorney adjudicator may issue a remand directing the IRE to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.

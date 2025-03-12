@@ -1,5 +1,7 @@
 ##### § 423.2010 When CMS, the IRE, or Part D plan sponsors may participate in the proceedings on a request for an ALJ hearing. #####
 
+Link to an amendment published at 84 FR 19873, May 7, 2019.
+
 (a) *When CMS, the IRE, or the Part D plan sponsor may participate.* (1) CMS, the IRE, and/or the Part D plan sponsor may request to participate in the proceedings on a request for an ALJ hearing upon filing a request to participate in accordance with paragraph (b) of this section.
 
 (2) An ALJ may request, but may not require, CMS, the IRE, and/or the Part D plan sponsor to participate in any proceedings before the ALJ, including the oral hearing, if any. The ALJ cannot draw any adverse inferences if CMS, the IRE, and/or the Part D plan sponsor decide not to participate in any proceedings before an ALJ, including the hearing.

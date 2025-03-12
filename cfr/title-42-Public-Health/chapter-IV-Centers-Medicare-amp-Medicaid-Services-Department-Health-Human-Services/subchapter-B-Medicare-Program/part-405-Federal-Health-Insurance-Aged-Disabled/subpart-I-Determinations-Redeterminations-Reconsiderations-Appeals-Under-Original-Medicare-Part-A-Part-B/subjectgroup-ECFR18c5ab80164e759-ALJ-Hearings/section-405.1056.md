@@ -1,5 +1,7 @@
 ##### § 405.1056 Remands of requests for hearing and requests for review. #####
 
+Link to an amendment published at 84 FR 19871, May 7, 2019.
+
 (a) *Missing appeal determination or case record.* (1) If an ALJ or attorney adjudicator requests an official copy of a missing redetermination or reconsideration for an appealed claim in accordance with § 405.1034, and the QIC or another contractor does not furnish the copy within the time frame specified in § 405.1034, the ALJ or attorney adjudicator may issue a remand directing the QIC or other contractor to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.
 
 (2) If the QIC does not furnish the case file for an appealed reconsideration, an ALJ or attorney adjudicator may issue a remand directing the QIC to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.

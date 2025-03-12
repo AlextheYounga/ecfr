@@ -1,5 +1,7 @@
 ##### § 423.1984 Effect of a revised determination or decision. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *Coverage determinations.* The revision of a coverage determination is binding unless an enrollee submits a request for a redetermination that is accepted and processed in accordance with § 423.580 through § 423.590.
 
 (b) *Redeterminations.* The revision of a redetermination is binding unless an enrollee submits a request for an IRE reconsideration that is accepted and processed in accordance with § 423.600 through § 423.604.

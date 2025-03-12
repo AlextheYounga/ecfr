@@ -1,5 +1,7 @@
 ##### § 405.1014 Request for an ALJ hearing or a review of a QIC dismissal. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *Content of the request.* (1) The request for an ALJ hearing or a review of a QIC dismissal must be made in writing. The request must include all of the following -
 
 (i) The name, address, and Medicare health insurance claim number of the beneficiary whose claim is being appealed, and the beneficiary's telephone number if the beneficiary is the appealing party and not represented.

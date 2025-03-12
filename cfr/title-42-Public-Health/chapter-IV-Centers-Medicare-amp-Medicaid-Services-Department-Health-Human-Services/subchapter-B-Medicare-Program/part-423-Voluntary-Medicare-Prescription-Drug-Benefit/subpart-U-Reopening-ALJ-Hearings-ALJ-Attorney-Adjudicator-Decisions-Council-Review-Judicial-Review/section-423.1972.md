@@ -1,5 +1,7 @@
 ##### § 423.1972 Request for an ALJ hearing. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) *How and where to file a request.* The enrollee must file a written request for a hearing with the OMHA office specified in the IRE's reconsideration notice.
 
 (b) *When to file a request.* (1) Except when an ALJ or attorney adjudicator extends the timeframe as provided in § 423.2014(d), the enrollee must file a request for a hearing within 60 calendar days of receipt of the notice of an IRE reconsideration determination. The time and place for a hearing before an ALJ will be set in accordance with § 423.2020.

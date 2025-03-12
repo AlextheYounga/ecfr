@@ -1,5 +1,7 @@
 ##### § 405.970 Timeframe for making a reconsideration following a contractor redetermination. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *General rule.* Within 60 calendar days of the date the QIC receives a timely filed request for reconsideration following a contractor redetermination or any additional time provided by paragraph (b) of this section, the QIC mails, or otherwise transmits to the parties at their last known addresses, written notice of -
 
 (1) The reconsideration;

@@ -1,5 +1,7 @@
 ##### § 405.1012 When CMS or its contractors may be a party to a hearing. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *When CMS or a contractor can elect to be a party to a hearing.* (1) Unless the request for hearing is filed by an unrepresented beneficiary, and unless otherwise provided in this section, CMS or one of its contractors may elect to be a party to the hearing upon filing a notice of intent to be a party to the hearing in accordance with paragraph (b) of this section no later than 10 calendar days after the QIC receives the notice of hearing.
 
 (2) Unless the request for hearing is filed by an unrepresented beneficiary, an ALJ may request, but may not require, CMS and/or one or more of its contractors to be a party to the hearing. The ALJ cannot draw any adverse inferences if CMS or the contractor decides not to be a party to the hearing.

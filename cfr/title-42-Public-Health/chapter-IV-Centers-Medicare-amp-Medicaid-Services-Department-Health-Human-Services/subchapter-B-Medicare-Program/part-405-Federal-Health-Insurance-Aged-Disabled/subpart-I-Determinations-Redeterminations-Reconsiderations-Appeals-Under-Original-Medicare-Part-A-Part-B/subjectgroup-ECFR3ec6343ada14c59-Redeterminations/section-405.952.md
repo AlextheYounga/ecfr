@@ -1,5 +1,7 @@
 ##### § 405.952 Withdrawal or dismissal of a request for a redetermination. #####
 
+Link to an amendment published at 84 FR 19870, May 7, 2019.
+
 (a) *Withdrawing a request.* A party that files a request for redetermination may withdraw its request by filing a written and signed request for withdrawal. The request for withdrawal must contain a clear statement that the appellant is withdrawing the request for a redetermination and does not intend to proceed further with the appeal. The request must be received in the contractor's mailroom before a redetermination is issued. The appeal will proceed with respect to any other parties that have filed a timely request for redetermination.
 
 (b) *Dismissing a request.* A contractor dismisses a redetermination request, either entirely or as to any stated issue, under any of the following circumstances:

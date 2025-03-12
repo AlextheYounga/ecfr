@@ -1,5 +1,7 @@
 ##### § 423.2034 Requesting information from the IRE. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) If an ALJ or attorney adjudicator believes that the written record is missing information that is essential to resolving the issues on appeal and that information can be provided only by CMS, the IRE, and/or the Part D plan sponsor, the information may be requested from the IRE that conducted the reconsideration or its successor.
 
 (1) Official copies of redeterminations and reconsiderations that were conducted on the appealed issues can be provided only by CMS, the IRE, and/or the Part D plan sponsor. Prior to issuing a request for information to the IRE, OMHA will confirm whether an electronic copy of the missing redetermination or reconsideration is available in the official system of record, and if so will accept the electronic copy as an official copy.

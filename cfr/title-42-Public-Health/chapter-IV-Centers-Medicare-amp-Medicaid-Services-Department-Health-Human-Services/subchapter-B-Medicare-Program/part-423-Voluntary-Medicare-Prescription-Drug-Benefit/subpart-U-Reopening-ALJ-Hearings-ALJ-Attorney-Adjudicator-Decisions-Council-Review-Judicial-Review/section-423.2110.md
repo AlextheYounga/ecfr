@@ -1,5 +1,7 @@
 ##### § 423.2110 Council reviews on its own motion. #####
 
+Link to an amendment published at 84 FR 19874, May 7, 2019.
+
 (a) *General rule.* The Council may decide on its own motion to review a decision or dismissal issued by an ALJ or attorney adjudicator. CMS or the IRE may refer a case to the Council for it to consider reviewing under this authority any time within 60 calendar days after the date of an ALJ's or attorney adjudicator's written decision or dismissal.
 
 (b) *Referral of cases.* (1) CMS or the IRE may refer a case to the Council if, in the view of CMS or the IRE, the decision or dismissal contains an error of law material to the outcome of the appeal or presents a broad policy or procedural issue that may affect the public interest. CMS or the IRE may also request that the Council take own motion review of a case if -

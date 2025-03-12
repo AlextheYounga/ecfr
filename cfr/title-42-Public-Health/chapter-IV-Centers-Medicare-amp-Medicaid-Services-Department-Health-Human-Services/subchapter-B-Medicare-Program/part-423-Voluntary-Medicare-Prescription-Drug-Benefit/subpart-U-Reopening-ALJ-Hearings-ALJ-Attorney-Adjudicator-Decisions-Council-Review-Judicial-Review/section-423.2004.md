@@ -1,5 +1,7 @@
 ##### § 423.2004 Right to a review of IRE notice of dismissal. #####
 
+Link to an amendment published at 84 FR 19872, May 7, 2019.
+
 (a) An enrollee has a right to have an IRE's dismissal of a request for reconsideration reviewed by an ALJ or attorney adjudicator if -
 
 (1) The enrollee files a written request for review within 60 calendar days after receipt of the notice of the IRE's dismissal.
