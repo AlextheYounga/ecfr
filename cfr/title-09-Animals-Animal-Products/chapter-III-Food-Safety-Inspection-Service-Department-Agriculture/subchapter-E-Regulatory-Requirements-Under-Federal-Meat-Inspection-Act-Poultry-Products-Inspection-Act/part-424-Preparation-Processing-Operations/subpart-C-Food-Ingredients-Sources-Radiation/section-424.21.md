@@ -1,5 +1,7 @@
 ##### § 424.21 Use of food ingredients and sources of radiation. #####
 
+Link to an amendment published at 83 FR 25308, May 31, 2018.
+
 (a)(1) *General.* No meat or poultry product shall bear or contain any food ingredient that would render it adulterated or misbranded, or which is not approved in this part, part 318 or part 319 of this chapter, or by the Administrator in specific cases.
 
 (2)(i) Poultry products and poultry broth used in the processing of poultry products shall have been processed in the United States only in an official establishment or imported from a foreign country listed in § 381.196(b), and have been inspected and passed in accordance with the regulations. Detached ova and offal shall not be used in the processing of any poultry products, except that poultry feet may be processed for use as human food in a manner approved by the Administrator in specific cases and detached ova may be used in the processing of poultry products if the processor demonstrates that such ova comply with the requirements of the Federal Food, Drug, and Cosmetic Act.

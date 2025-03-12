@@ -1,5 +1,7 @@
 ##### § 319.145 Italian sausage products. #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 (a) Italian sausage products are cured or uncured sausages containing at least 85 percent meat, or combination of meat and fat, with the total fat content constituting not more than 35 percent of the finished product. Such products shall be prepared in accordance with the provisions of paragraph (a) (1), (2) or (3) of this section, and shall contain salt, pepper, and either fennel or anise, or a combination of fennel and anise. Such products may contain any or all of the optional ingredients listed in paragraph (b) of this section.
 
 (1) “Italian Sausage” shall be prepared with fresh or frozen pork, or pork and pork fat, and may contain Mechanically Separated (Species) in accordance with § 319.6.

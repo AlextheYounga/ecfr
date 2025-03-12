@@ -4,7 +4,7 @@
 
 (1) Acquisitions at or below the simplified acquisition threshold;
 
-(2) Acquisitions in support of contingency, humanitarian or peacekeeping operations, or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack;
+(2) Acquisitions, as determined by the head of the contracting activity, in support of contingency or humanitarian or peacekeeping operations; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate the provision of international disaster assistance; or to support response to an emergency or major disaster;
 
 (3) Small business set-asides under FAR subpart 19.5, set asides offered and accepted into the 8(a) Program under FAR subpart 19.8, or set-asides under the HUBZone Program (see FAR 19.1305(c)), the Service-Disabled Veteran-Owned Small Business Procurement Program (see FAR 19.1405(c)), or the Women-Owned Small Business Program (see FAR 19.1505(d));
 
@@ -14,4 +14,4 @@
 
 (b) The applicability of an exception in paragraph (a) of this section does not eliminate the need for the contracting officer to seek maximum practicable competition and to ensure that the price is fair and reasonable.
 
-[78 FR 65216, Oct. 31, 2013]
+[78 FR 65216, Oct. 31, 2013, as amended at 83 FR 24889, May 30, 2018]

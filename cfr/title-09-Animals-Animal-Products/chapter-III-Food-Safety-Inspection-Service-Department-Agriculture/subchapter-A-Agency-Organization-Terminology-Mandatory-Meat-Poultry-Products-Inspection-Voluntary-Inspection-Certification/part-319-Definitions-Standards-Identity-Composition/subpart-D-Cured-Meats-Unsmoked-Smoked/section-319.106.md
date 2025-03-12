@@ -1,5 +1,7 @@
 ##### § 319.106 “Country Ham,” “Country Style Ham,” “Dry Cured Ham,” “Country Pork Shoulder,” “Country Style Pork Shoulder,” and “Dry Cured Pork Shoulder.” #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 (a) “Country Ham,” “Country Style Ham,” or “Dry Cured Ham,” and “Country Pork Shoulder,” “Country Style Pork Shoulder,” or “Dry Cured Pork Shoulder.” are the uncooked, cured, dried, smoked or unsmoked meat food products made respectively from a single piece of meat conforming to the definition of “ham,” as specified in § 317.8(b)(13) of this subchapter, or from a single piece of meat from a pork shoulder. They are prepared in accordance with paragraph (c) of this section by the dry application of salt (NaCl), or by the dry application of salt (NaCl) and one or more of the optional ingredients as specified in paragraph (d) of this section. They may not be injected with curing solutions nor placed in curing solutions.
 
 (b) The product must be treated for the destruction of possible live trichinae in accordance with such methods as may be approved by the Administrator upon request in specific instances and none of the provisions of this standard can be interpreted as discharging trichinae treatment requirements.

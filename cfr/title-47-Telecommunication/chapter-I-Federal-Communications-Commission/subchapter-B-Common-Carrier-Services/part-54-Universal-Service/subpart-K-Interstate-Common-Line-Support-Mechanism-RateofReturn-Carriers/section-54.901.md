@@ -1,7 +1,5 @@
 ##### § 54.901 Calculation of Connect America Fund Broadband Loop Support. #####
 
-Link to an amendment published at 83 FR 18964, May 1, 2018.
-
 (a) Connect America Fund Broadband Loop Support (CAF BLS) available to a rate-of-return carrier shall equal the Interstate Common Line Revenue Requirement per Study Area, plus the Consumer Broadband-Only Revenue Requirement per Study Area as calculated in accordance with part 69 of this chapter, minus:
 
 (1) The study area revenues obtained from end user common line charges at their allowable maximum as determined by § 69.104(n) and (o) of this chapter;
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 18964, May 1, 2018.
 
 (4) The line port costs in excess of basic analog service pursuant to § 69.130 of this chapter.
 
-(b) For the purpose of calculating support pursuant to paragraph (a) of this section, the Interstate Common Line Revenue Requirement and Consumer Broadband-only Revenue Requirement shall be subject to the limits on operating expenses and capital investment allowances pursuant to § 54.303.
+(b) For the purpose of calculating support pursuant to paragraph (a) of this section, the Interstate Common Line Revenue Requirement and Consumer Broadband-only Revenue Requirement shall be subject to the limitations set forth in § 54.303.
 
 (c) For purposes of calculating the amount of CAF BLS, determined pursuant to paragraph (a) of this section, that a non-price cap carrier may receive, the corporate operations expense allocated to the Common Line Revenue Requirement or the Consumer Broadband-only Loop Revenue Requirement, pursuant to § 69.409 of this chapter, shall be limited to the lesser of:
 
@@ -44,6 +42,8 @@ Link to an amendment published at 83 FR 18964, May 1, 2018.
 
 (3) The Administrator shall apply an additional pro rata reduction to CAF BLS for each recipient of CAF BLS as necessary to achieve the target amount.
 
+(4) This paragraph (f) shall not apply to support provided from July 1, 2017 to June 30, 2018.
+
 (g) For purposes of this subpart and consistent with § 69.132 of this chapter, a consumer broadband-only loop is a line provided by a rate-of-return incumbent local exchange carrier to a customer without regulated local exchange voice service, for use in connection with fixed Broadband Internet access service, as defined in § 8.2 of this chapter.
 
-[81 FR 24342, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017]
+[81 FR 24342, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017; 83 FR 18964, May 1, 2018]

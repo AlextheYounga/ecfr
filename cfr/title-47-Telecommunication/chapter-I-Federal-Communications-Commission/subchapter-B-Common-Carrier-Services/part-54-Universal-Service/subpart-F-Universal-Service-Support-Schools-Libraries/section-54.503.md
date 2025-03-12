@@ -72,4 +72,4 @@ The following is an illustrative list of activities or behaviors that would not 
 
 (2) The Chief, Wireline Competition Bureau, is delegated authority to lower the annual cost of high-speed Internet access services or raise the speed threshold of broadband services eligible for this competitive bidding exemption, based on a determination of what rates and speeds are commercially available prior to the start of the funding year.
 
-[75 FR 75412, Dec. 3, 2010, as amended at 76 FR 56302, Sept. 13, 2011; 79 FR 49199, Aug. 19, 2014; 80 FR 5989, Feb. 4, 2015]
+[75 FR 75412, Dec. 3, 2010, as amended at 76 FR 56302, Sept. 13, 2011; 79 FR 49199, Aug. 19, 2014; 80 FR 5989, Feb. 4, 2015]Editorial Note:At 83 FR , May 1,2018, § 54.503 was amended by revising paragraph (a)(6) however the agency provided two different paragraph (a)(6)'s, the amendment could not be incorporated due to inaccurate amendatory instruction.

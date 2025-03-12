@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 83 FR 19146, May 1, 2018.
-
 (a) *General* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -60,13 +58,15 @@ Link to an amendment published at 83 FR 19146, May 1, 2018.
 
 (ii) Require the direct supervision of a professional architect or engineer licensed, registered or certified in the State, Federal District, or outlying area, in which the services are to be performed.
 
-(10)(i) No protest under subpart 33.1 is authorized in connection with the issuance or proposed issuance of an order under a task-order contract or delivery-order contract, except for -
+(10)(i) No protest under subpart 33.1 is authorized in connection with the issuance or proposed issuance of an order under a task-order contract or delivery-order contract, except -
 
 (A) A protest on the grounds that the order increases the scope, period, or maximum value of the contract; or
 
-(B) *A protest of an order valued in excess of $10 million.* Protests of orders in excess of $10 million may only be filed with the Government Accountability Office, in accordance with the procedures at 33.104.
+(B)(*1*) For agencies other than DoD, NASA, and the Coast Guard, a protest of an order valued in excess of $10 million (41 U.S.C. 4106(f)); or
 
-(ii) The authority to protest the placement of an order under (a)(10)(i)(B) of this section expires on September 30, 2016, for agencies other than DoD, NASA, and the Coast Guard (41 U.S.C. 4103(d) and 41 U.S.C. 4106(f)). The authority to protest the placement of an order under (a)(10)(i)(B) of this section does not expire for DoD, NASA, and the Coast Guard.
+(*2*) For DoD, NASA, or the Coast Guard, a protest of an order valued in excess of $25 million (10 U.S.C. 2304c(e)).
+
+(ii) Protests of orders in excess of the thresholds stated in 16.505(a)(10)(i)(B) may only be filed with the Government Accountability Office, in accordance with the procedures at 33.104.
 
 (11) Publicize orders funded in whole or in part by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) as follows:
 

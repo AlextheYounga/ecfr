@@ -1,7 +1,5 @@
 ##### § 54.303 Eligible Capital Investment and Operating Expenses. #####
 
-Link to an amendment published at 83 FR 18950, May 1, 2018.Link to an amendment published at 83 FR 18964, May 1, 2018.
-
 (a) *Eligible Operating Expenses.* Each study area's eligible operating expenses for purposes of calculating universal service support pursuant to subparts K and M of this part shall be adjusted as follows:
 
 (1) Total eligible annual operating expenses per location shall be limited as follows: Calculate Exp(Y + 1.5 \* mean square error of the regression), where
@@ -15,6 +13,8 @@ Y = α + β1X1 + β2X2 + β3X3α, β1, β2, and β3 are the coefficients from th
 (4) Notwithstanding the provisions of paragraph (a) of this section, total eligible annual operating expenses for 2016 will be limited to the total eligible annual operating expenses as defined in this section plus one half of the amount of total eligible annual expense as calculated prior to the application of this section.
 
 (5) For any study area subject to the limitation described in this paragraph, a required percentage reduction will be calculated for that study area's total eligible annual operating expenses. Each category or account used to determine that study area's total eligible annual operating expenses will then be reduced by this required percentage reduction.
+
+(6) For a period of five years following the implementation of paragraph (a) of this section, the total eligible annual operating expenses per location in paragraph (a) shall be adjusted annually to account for changes to the Department of Commerce's Gross Domestic Product Chain-type Price Index (GDP-CPI).
 
 (b) *Loop Plant Investment allowances.* Data submitted by rate-of-return carriers for purposes of obtaining high-cost support under subparts K and M of this part may include any Loop Plant Investment as described in paragraph (c)(1) of this section and any Excess Loop Plant Investment as described in paragraph (h) of this section, but may not include amounts in excess of the Annual Allowed Loop Plant Investment (AALPI) as described in paragraph (d) of this section. Amounts in excess of the AALPI will be removed from the categories or accounts described in paragraph (c)(1) of this section either on a direct basis when the amounts of the new loop plant investment can be directly assigned to a category or account, or on a pro-rata basis in accordance with each category or account's proportion to the total amount in each of the categories and accounts described in paragraph (c)(1) of this section when the new loop plant cannot be directly assigned. This limitation shall apply only with respect to Loop Plant Investment incurred after the effective date of this rule. If a carrier's required Loop Plant Investment exceeds the limitations set forth in this section as a result of deployment obligations in § 54.308(a)(2), the carrier's AALPI will be increased to the actual Loop Plant Investment required by the carrier's deployment obligations, subject to the limitations of the Construction Allowance Adjustment in paragraph (f) of this section.
 
@@ -77,4 +77,4 @@ Where:The Loop Cap Adjustment Factor equals the lesser of 1.0 or the annualized 
 
 (m) *Minimum AALPI.* If a carrier has an AALPI that is less than $4 million in any given year, the carrier shall be allowed to increase its AALPI for that year to the lesser of $4 million or its Total Allowed Loop Plant Investment.
 
-[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 82 FR 16127, Apr. 3, 2017; 82 FR 22903, May 19, 2017]Effective Date Note:At 81 FR 24337. Apr. 25, 2016, § 54.303 was added. Paragraph (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 82 FR 16127, Apr. 3, 2017; 82 FR 22903, May 19, 2017; 83 FR 18964, May 1, 2018]Effective Date Note:At 81 FR 24337. Apr. 25, 2016, § 54.303 was added. Paragraph (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.Editorial Note:At 83 FR 18950, 18964, May 1, 2018, § 54.303 was amended by adding paragraph (a)(6), however, the agency provided two different (a)(6)'s and we were not sure which one to add correctly, so the amendment could not be incorporated due to inaccurate amendatory instruction.

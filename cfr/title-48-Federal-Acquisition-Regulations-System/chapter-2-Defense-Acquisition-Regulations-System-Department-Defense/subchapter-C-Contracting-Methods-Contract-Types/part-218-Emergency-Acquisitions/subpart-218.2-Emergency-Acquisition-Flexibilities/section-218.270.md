@@ -1,5 +1,15 @@
-##### 218.270 Humanitarian or peacekeeping operation. #####
+##### 218.270 Head of contracting activity determinations. #####
 
-The term “humanitarian or peacekeeping operation” is defined at FAR 2.101. In accordance with 10 U.S.C. 2302(7), when a humanitarian or peacekeeping operation is declared, the simplified acquisition threshold is raised to $300,000 for DoD purchases that are awarded and performed, or purchases that are made, outside the United States in support of that operation. See 202.101.
+The term “head of the agency” is replaced with “head of the contracting activity,” as defined in FAR 2.101, in the following locations:
 
-[76 FR 44281, July 25, 2011]
+(a) FAR 2.101: definition of “simplified acquisition threshold.”
+
+(b) FAR 12.102(f).
+
+(c) FAR 13.201(g).
+
+(d) FAR 13.500(c)(1).
+
+(e) FAR 18.2.
+
+[74 FR 2407, Jan. 15, 2009. Redesignated at 76 FR 44281, July 25, 2011; 82 FR 61480, Dec. 28, 2017. Redesignated and amended at 83 FR 24890, May 30, 2018]

@@ -10,11 +10,15 @@
 
 (*2*) *Base period plus any option periods exceeds three years.* The authority of the head of the contracting activity to approve the determination and findings may not be delegated.
 
-(*3*) *Exception.* The approval requirements in paragraphs (d)(i)(A)(*1*) and (*2*) of this section do not apply to contracts that -
+(*3*) *Exception.* The approval requirements in paragraphs (d)(i)(A)(*1*) and (*2*) of this section do not apply to contracts that, as determined by the head of the contracting activity -
 
-(*i*) Support contingency or peacekeeping operations; or
+(*i*) Support contingency or humanitarian or peacekeeping operations;
 
-(*ii*) Provide humanitarian assistance, disaster relief, or recovery from conventional, nuclear, biological, chemical, or radiological attack.
+(*ii*) Facilitate defense against or recovery from conventional, cyber, nuclear, biological, chemical or radiological attack;
+
+(*iii*) Facilitate the provision of international disaster assistance; or
+
+(*iv*) Support response to an emergency or major disaster.
 
 (B) *Content of determination and findings.* The determination and findings shall contain sufficient facts and rationale to justify that no other contract type is suitable. At a minimum, the determination and findings shall -
 
@@ -32,4 +36,4 @@
 
 (e) *Solicitation provisions.* Use the provision at FAR 52.216-29, Time-and-Materials/Labor-Hour Proposal Requirements - Non-Commercial Item Acquisition with Adequate Price Competition, with 252.216-7002, Alternate A, in solicitations contemplating the use of a time-and-materials or labor-hour contract type for non-commercial items if the price is expected to be based on adequate competition.
 
-[71 FR 74471, Dec. 12, 2006, as amended at 73 FR 70912, Nov. 24, 2008; 80 FR 29980, May 26, 2015]
+[71 FR 74471, Dec. 12, 2006, as amended at 73 FR 70912, Nov. 24, 2008; 80 FR 29980, May 26, 2015; 83 FR 24890, May 30, 2018]

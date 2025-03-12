@@ -1,5 +1,7 @@
 ##### § 303.1 Exemptions. #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 (a) The requirements of the Act and the regulations in this subchapter for inspection of the preparation of products do not apply to:
 
 (1) The slaughtering by any individual of livestock of his own raising, and the preparation by him and transportation in commerce of the carcasses, parts thereof, meat and meat food products of such livestock exclusively for use by him and members of his household and his nonpaying guests and employees;

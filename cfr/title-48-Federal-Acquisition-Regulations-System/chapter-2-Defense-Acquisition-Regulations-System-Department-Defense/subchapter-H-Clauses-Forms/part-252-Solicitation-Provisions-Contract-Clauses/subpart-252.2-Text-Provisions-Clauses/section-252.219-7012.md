@@ -4,9 +4,9 @@ As prescribed in 219.270-3, use the following provision:
 
 Competition for Religious-Related Services (APR 2018)
 
-(a) *Definition.* As used in this provision -
+(a) *Definition.* As used in this provision—
 
-*Nonprofit organization* means any organization that is -
+*Nonprofit organization* means any organization that is—
 
 (1) Described in section 501(c) of the Internal Revenue Code of 1986; and
 

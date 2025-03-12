@@ -46,9 +46,31 @@
 
 *Major defense acquisition program* is defined in 10.U.S.C. 2430(a).
 
+*Micro-purchase threshold,* for DoD acquisition of supplies or services funded by DoD appropriations, in lieu of the definition at FAR 2.101, means $5,000 (10 U.S.C. 2338), except -
+
+(1) For DoD acquisition of supplies or services for basic research programs and for activities of the DoD science and technology reinvention laboratories (*https://www.acq.osd.mil/rd/laboratories/labs/list\_strl.html*), it means $10,000 (10 U.S.C. 2339);
+
+(2) For acquisitions of construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), $2,000;
+
+(3) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500; and
+
+(4) For acquisitions of supplies or services that, as determined by the head of the contracting activity, are to be used to support a contingency operation; or to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.;* or to support response to an emergency, or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
+
+(i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
+
+(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
+
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
 
 *Obsolete electronic part* means an electronic part that is no longer available from the original manufacturer or an authorized aftermarket manufacturer.
+
+*Offset* means a benefit or obligation agreed to by a contractor and a foreign government or international organization as an inducement or condition to purchase supplies or services pursuant to a foreign military sale (FMS). There are two types of offsets: Direct offsets and indirect offsets.
+
+(1) A direct offset involves benefits or obligations, including supplies or services that are directly related to the item(s) being purchased and are integral to the deliverable of the FMS contract. For example, as a condition of a foreign military sale, the contractor may require or agree to permit the customer to produce in its country certain components or subsystems of the item being sold. Generally, direct offsets must be performed within a specified period, because they are integral to the deliverable of the FMS contract.
+
+(2) An indirect offset involves benefits or obligations, including supplies or services that are not directly related to the specific item(s) being purchased and are not integral to the deliverable of the FMS contract. For example, as a condition of a foreign military sale, the contractor may agree to purchase certain manufactured products, agricultural commodities, raw materials, or services, or make an equity investment or grant of equipment required by the FMS customer, or may agree to build a school, road or other facility. Indirect offsets would also include projects that are related to the FMS contract but not purchased under said contract (*e.g.,* a project to develop or advance a capability, technology transfer, or know-how in a foreign company). Indirect offsets may be accomplished without a clearly defined period of performance.
+
+*Offset costs* means the costs to the contractor of providing any direct or indirect offsets required (explicitly or implicitly) as a condition of a foreign military sale.
 
 *Original component manufacturer* means an organization that designs and/or engineers a part and is entitled to any intellectual property rights to that part.
 
@@ -92,4 +114,4 @@ The directors of the defense agencies have been delegated authority to act as se
 
 *Uncertified cost data* means the subset of “data other than certified cost or pricing data” (see FAR 2.101) that relates to cost.
 
-[56 FR 36287, July 31, 1991]Editorial Note:For Federal Register citations affecting section 202.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 36287, July 31, 1991]Editorial Note:For Federal Register citations affecting section 202.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

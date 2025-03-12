@@ -1,5 +1,7 @@
 ##### § 490.505 Definitions. #####
 
+Link to an amendment published at 83 FR 24936, May 31, 2018.
+
 All definitions in § 490.101 apply to this subpart. Unless otherwise specified in this subpart, the following definitions apply to this subpart:
 
 *Greenhouse gas (GHG)* is any gas that absorbs infrared radiation (traps heat) in the atmosphere. Ninety-five percent of transportation GHG emissions are carbon dioxide (CO2) from burning fossil fuel. Other transportation GHGs are methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons (HFCs).

@@ -1,5 +1,7 @@
 ##### § 417.2 Hazard Analysis and HACCP Plan. #####
 
+Link to an amendment published at 83 FR 25308, May 31, 2018.
+
 (a) *Hazard analysis.* (1) Every official establishment shall conduct, or have conducted for it, a hazard analysis to determine the food safety hazards reasonably likely to occur in the production process and identify the preventive measures the establishment can apply to control those hazards. The hazard analysis shall include food safety hazards that can occur before, during, and after entry into the establishment. A food safety hazard that is reasonably likely to occur is one for which a prudent establishment would establish controls because it historically has occurred, or because there is a reasonable possibility that it will occur in the particular type of product being processed, in the absence of those controls.
 
 (2) A flow chart describing the steps of each process and product flow in the establishment shall be prepared, and the intended use or consumers of the finished product shall be identified.

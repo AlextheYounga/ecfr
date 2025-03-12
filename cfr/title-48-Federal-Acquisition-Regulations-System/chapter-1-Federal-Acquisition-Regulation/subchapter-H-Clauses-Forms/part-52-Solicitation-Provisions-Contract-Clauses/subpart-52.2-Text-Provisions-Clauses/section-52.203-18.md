@@ -1,10 +1,10 @@
-##### 52.203-18 Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements - Representation. #####
+##### 52.203-18 Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements—Representation. #####
 
 As prescribed in 3.909-3(a), insert the following provision:
 
-Prohibition on Contracting With Entities That Require Certain Internal Confidentiality Agreements or Statements - Representation (JAN 2017)
+Prohibition on Contracting With Entities That Require Certain Internal Confidentiality Agreements or Statements—Representation (JAN 2017)
 
-(a) *Definition.* As used in this provision -
+(a) *Definition.* As used in this provision—
 
 *Internal confidentiality agreement or statement, subcontract,* and *subcontractor,* are defined in the clause at 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements.
 

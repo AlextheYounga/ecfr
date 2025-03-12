@@ -1,5 +1,7 @@
 ##### § 301.2 Definitions. #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 As used in this subchapter, unless otherwise required by the context, the following terms shall be construed, respectively, to mean:
 
 *The Act.* The Federal Meat Inspection Act, as amended, (34 Stat. 1260, as amended, 81 Stat. 584, 84 Stat. 438, 92 Stat. 1069, 21 U.S.C., sec. 601 *et seq.*).

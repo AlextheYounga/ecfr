@@ -2,7 +2,7 @@
 
 As prescribed in 247.574(f), use the following clause:
 
-Riding Gang Member Requirements (OCT 2011)
+Riding Gang Member Requirements (MAY 2018)
 
 (a) *Definition. Riding gang member,* as used in this clause, has the same definition as “riding gang member” in title 46 U.S.C. 2101.
 
@@ -24,10 +24,10 @@ Riding Gang Member Requirements (OCT 2011)
 
 (A) Render all necessary assistance to U.S. Armed Forces personnel with respect to the identification and screening of exempted individuals. This will require, at a minimum, the Contractor to submit the name and other biographical information necessary to the Government official specified in the contract for the purposes of conducting a background check; and
 
-(B) Deny access or immediately remove any individual(s) from the vessel deemed unsuitable for any reason by Military Sealift Command Force Protection personnel. The Contractor agrees to replace any such individual promptly and require such replacements to fully comply with all screening requirements.
+(B) Deny access or immediately remove any individual(s) from the vessel deemed unsuitable for any reason by the Government agency conducting the background checks. The Contractor agrees to replace any such individual promptly and require such replacements to fully comply with all screening requirements.
 
 (ii) The head of the contracting activity may waive this requirement if the individual possesses a valid U.S. Merchant Mariner's Document issued under 46 U.S.C. chapter 73, or a transportation security card issued under section 70105 of such title.
 
 (3) An individual exempted under paragraph (c)(1) of this clause is not treated as a riding gang member and shall not be counted as an individual in addition to the crew for the purposes of 46 U.S.C. 3304.
 
-(End of clause)[75 FR 65439, Oct. 25, 2010, as amended at 76 FR 61281, Oct. 4, 2011]
+(End of clause)[75 FR 65439, Oct. 25, 2010, as amended at 76 FR 61281, Oct. 4, 2011; 83 FR 24892, May 30, 2018]

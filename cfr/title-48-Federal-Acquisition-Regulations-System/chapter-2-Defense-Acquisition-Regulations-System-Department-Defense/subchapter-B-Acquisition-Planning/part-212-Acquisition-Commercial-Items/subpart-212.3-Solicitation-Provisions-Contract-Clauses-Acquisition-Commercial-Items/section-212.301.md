@@ -16,15 +16,13 @@
 
 (B) Use the clause at 252.204-7009, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information, as prescribed in 204.7304(b).
 
-(C) Use the provision at 252.204-7011, Alternative Line Item Structure, as prescribed in 204.7109(b).
+(C) Use the clause at 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, as prescribed in 204.7304(c).
 
-(D) Use the clause at 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, as prescribed in 204.7304(c).
+(D) Use the provision at 252.204-7013, Limitations on the Use or Disclosure of Information by Litigation Support Offerors, as prescribed in 204.7403(a), to comply with 10 U.S.C. 129d.
 
-(E) Use the provision at 252.204-7013, Limitations on the Use or Disclosure of Information by Litigation Support Offerors, as prescribed in 204.7403(a), to comply with 10 U.S.C. 129d.
+(E) Use the clause at 252.204-7014, Limitations on the Use or Disclosure of Information by Litigation Support Contractors, as prescribed in 204.7403(b), to comply with 10 U.S.C. 129d.
 
-(F) Use the clause at 252.204-7014, Limitations on the Use or Disclosure of Information by Litigation Support Contractors, as prescribed in 204.7403(b), to comply with 10 U.S.C. 129d.
-
-(G) Use the clause at 252.204-7015, Notice of Authorized Disclosure of Information for Litigation Support, as prescribed in 204.7403(c), to comply with 10 U.S.C. 129d.
+(F) Use the clause at 252.204-7015, Notice of Authorized Disclosure of Information for Litigation Support, as prescribed in 204.7403(c), to comply with 10 U.S.C. 129d.
 
 (iii) *Part 205 - Publicizing Contract Actions.* Use the clause at 252.205-7000, Provision of Information to Cooperative Agreement Holders, as prescribed in 205.470, to comply with 10 U.S.C. 2416.
 
@@ -38,19 +36,19 @@
 
 (v) *Part 213 - Simplified Acquisition Procedures.* Use the provision at 252.213-7000, Notice to Prospective Suppliers on Use of Past Performance Information Retrieval System - Statistical Reporting in Past Performance Evaluations, as prescribed in 213.106-2-70.
 
-(vi) *Part 215 - Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, as prescribed at 215.408(3)(i).
+(vi) *Part 215 - Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, as prescribed at 215.408(2)(i).
 
-(B) Use the clause at 252.215-7004, Requirement for Submission of Data other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation, as prescribed at 215.408(3)(ii).
+(B) Use the clause at 252.215-7004, Requirement for Submission of Data other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation, as prescribed at 215.408(2)(ii).
 
 (C) Use the provision at 252.215-7007, Notice of Intent to Resolicit, as prescribed in 215.371-6.
 
-(D) Use the provision 252.215-7008, Only One Offer, as prescribed at 215.408(4).
+(D) Use the provision 252.215-7008, Only One Offer, as prescribed at 215.408(3).
 
-(E) Use the provision 252.215-7010, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, as prescribed at 215.408(6)(i) to comply with section 831 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239) and sections 851 and 853 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
+(E) Use the provision 252.215-7010, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, as prescribed at 215.408(5)(i) to comply with section 831 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239) and sections 851 and 853 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(*1*) Use the basic provision as prescribed at 215.408(6)(i)(A).
+(*1*) Use the basic provision as prescribed at 215.408(5)(i)(A).
 
-(*2*) Use the alternate I provision as prescribed at 215.408(6)(i)(B).
+(*2*) Use the alternate I provision as prescribed at 215.408(5)(i)(B).
 
 (vii) *Part 219 - Small Business Programs.* (A) Use the clause at 252.219-7003, Small Business Subcontracting Plan (DoD Contracts), to comply with 15 U.S.C. 637.
 
@@ -64,11 +62,9 @@
 
 (D) Use the provision at 252.219-7012, Competition for Religious-Related Services, as prescribed in 219.270-3.
 
-(viii) *Part 222 - Application of Labor Laws to Government Acquisitions.* Use the provision at 252.222-7007, Representation Regarding Combating Trafficking in Persons, as prescribed in 222.1771.
+(viii) *Part 223 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace.* Use the clause at 252.223-7008, Prohibition of Hexavalent Chromium, as prescribed in 223.7306.
 
-(ix) *Part 223 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace.* Use the clause at 252.223-7008, Prohibition of Hexavalent Chromium, as prescribed in 223.7306.
-
-(x) *Part 225 - Foreign Acquisition.* (A) Use the provision at 252.225-7000, Buy American - Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and Executive Order 10582 of December 17, 1954, Prescribing Uniform Procedures for Certain Determinations Under the Buy-American Act.
+(ix) *Part 225 - Foreign Acquisition.* (A) Use the provision at 252.225-7000, Buy American - Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and Executive Order 10582 of December 17, 1954, Prescribing Uniform Procedures for Certain Determinations Under the Buy-American Act.
 
 (*1*) Use the basic provision as prescribed in 225.1101(1)(i).
 
@@ -166,19 +162,19 @@
 
 (CC) Use the provision at 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism, as prescribed in 225.771-5, to comply with 10 U.S.C. 2327(b).
 
-(xi) *Part 226 - Other Socioeconomic Programs.* Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
+(x) *Part 226 - Other Socioeconomic Programs.* Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
 
-(xii) *Part 227 - Patents, Data, and Copyrights.* (A) Use the clause at 252.227-7013, Rights in Technical Data-Noncommercial Items, as prescribed in 227.7103-6(a). Use the clause with its Alternate I as prescribed in 227.7103-6(b)(1). Use the clause with its Alternate II as prescribed in 227.7103-6(b)(2), to comply with 10 U.S.C. 7317 and 17 U.S.C. 1301, *et seq.*
+(xi) *Part 227 - Patents, Data, and Copyrights.* (A) Use the clause at 252.227-7013, Rights in Technical Data-Noncommercial Items, as prescribed in 227.7103-6(a). Use the clause with its Alternate I as prescribed in 227.7103-6(b)(1). Use the clause with its Alternate II as prescribed in 227.7103-6(b)(2), to comply with 10 U.S.C. 7317 and 17 U.S.C. 1301, *et seq.*
 
 (B) Use the clause at 252.227-7015, Technical Data-Commercial Items, as prescribed in 227.7102-4(a)(1), to comply with 10 U.S.C. 2320. Use the clause with its Alternate I as prescribed in 227.7102-4(a)(2), to comply with 10 U.S.C. 7317 and 17 U.S.C. 1301, *et seq.*
 
 (C) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c).
 
-(xiii) *Part 229 - Taxes.* (A) Use the clause at 252.229-7014, Taxes - Foreign Contracts in Afghanistan, as prescribed at 229.402-70(k).
+(xii) *Part 229 - Taxes.* (A) Use the clause at 252.229-7014, Taxes - Foreign Contracts in Afghanistan, as prescribed at 229.402-70(k).
 
 (B) Use the clause at 252.229-7015, Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement), as prescribed at 229.402-70(l).
 
-(xiv) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
+(xiii) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
 
 (B) Use the clause at 252.232-7006, Wide Area WorkFlow Payment Instructions, as prescribed in 232.7004(b).
 
@@ -190,11 +186,11 @@
 
 (F) Use the provision at 252.232-7014, Notification of Payment in Local Currency (Afghanistan), as prescribed in 232.7202.
 
-(xv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
+(xiv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
 
 (B) Use the clause at 252.237-7019, Training for Contractor Personnel Interacting with Detainees, as prescribed in 237.171-4, to comply with section 1092 of Pub. L. 108-375.
 
-(xvi) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
+(xv) *Part 239 - Acquisition of Information Technology.* (A) Use the provision 252.239-7009, Representation of Use of Cloud Computing, as prescribed in 239.7604(a).
 
 (B) Use the clause 252.239-7010, Cloud Computing Services, as prescribed in 239.7604(b).
 
@@ -202,17 +198,17 @@
 
 (D) Use the clause at 252.239-7018, Supply Chain Risk, as prescribed in 239.7306(b), to comply with section 806 of Public Law 111-383.
 
-(xvii) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
+(xvi) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
 
-(xviii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
+(xvii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
 
-(xix) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in 246.371(a).
+(xviii) *Part 246 - Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in 246.371(a).
 
 (B) Use the clause at 252.246-7004, Safety of Facilities, Infrastructure, and Equipment for Military Operations, as prescribed in 246.270-4, to comply with section 807 of Pub. L. 111-84.
 
 (C) Use the clause at 252.246-7008, Sources of Electronic Parts, as prescribed in 246.870-3(b), to comply with section 818(c)(3) of Public Law 112-81, as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(xx) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
+(xix) *Part 247 - Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
 
 (B) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, as prescribed in 247.574(a).
 
@@ -234,4 +230,4 @@
 
 (H) Use the clause at 252.247-7028, Application for U.S Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018]

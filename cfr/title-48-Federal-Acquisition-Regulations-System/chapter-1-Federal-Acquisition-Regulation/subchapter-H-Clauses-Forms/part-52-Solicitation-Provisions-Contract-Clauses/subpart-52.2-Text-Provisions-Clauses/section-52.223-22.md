@@ -1,8 +1,8 @@
-##### 52.223-22 Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation. #####
+##### 52.223-22 Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. #####
 
 As prescribed in 23.804(b), insert the following provision:
 
-Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation (Dec 2016)
+Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation (DEC 2016)
 
 (a) This representation shall be completed if the Offeror received $7.5 million or more in Federal contract awards in the prior Federal fiscal year. The representation is optional if the Offeror received less than $7.5 million in Federal contract awards in the prior Federal fiscal year.
 

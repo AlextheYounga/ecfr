@@ -1,5 +1,7 @@
 ##### § 320.1 Records required to be kept. #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 (a) Every person (including every firm or corporation) within any of the classes specified in paragraph (a) (1), (2), or (3) of this section is required by the Act to keep records which will fully and correctly disclose all transactions involved in his or its business subject to the Act:
 
 (1) Any person that engages, for commerce, in the business of slaughtering any cattle, sheep, swine, goats, horses, mules, or other equines, or preparing, freezing, packaging, or labeling any carcasses, or parts or products of carcasses, of any such animals, for use as human food or animal food;

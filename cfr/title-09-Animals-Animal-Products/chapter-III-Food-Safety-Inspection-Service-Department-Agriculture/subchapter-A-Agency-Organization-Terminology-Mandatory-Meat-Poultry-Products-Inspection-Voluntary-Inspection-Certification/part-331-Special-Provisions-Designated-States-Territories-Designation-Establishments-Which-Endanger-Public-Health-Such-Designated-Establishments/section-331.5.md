@@ -1,5 +1,7 @@
 ##### § 331.5 Criteria and procedure for designating establishments with operations which would clearly endanger the public health; disposition of products; application of regulations. #####
 
+Link to an amendment published at 83 FR 25308, May 31, 2018.
+
 (a) An establishment preparing products solely for distribution within any State shall be designated as one producing adulterated products which would clearly endanger the public health, if:
 
 (1) Any meat or meat food product prepared at the establishment is adulterated in any of the following respects:

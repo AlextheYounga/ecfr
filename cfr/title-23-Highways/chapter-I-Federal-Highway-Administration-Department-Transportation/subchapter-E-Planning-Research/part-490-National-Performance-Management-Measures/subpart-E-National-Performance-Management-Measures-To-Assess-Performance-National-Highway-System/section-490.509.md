@@ -1,5 +1,7 @@
 ##### § 490.509 Data requirements. #####
 
+Link to an amendment published at 83 FR 24936, May 31, 2018.
+
 (a) Travel time data needed to calculate the Travel Time Reliability measures in § 490.507(a) shall come from the travel time data set, as specified in § 490.103(e).
 
 (1) State DOTs, in coordination with MPOs, shall define reporting segments in accordance with § 490.103(f). Reporting segments must be contiguous so that they cover the full extent of the mainline highways of the NHS in the State.

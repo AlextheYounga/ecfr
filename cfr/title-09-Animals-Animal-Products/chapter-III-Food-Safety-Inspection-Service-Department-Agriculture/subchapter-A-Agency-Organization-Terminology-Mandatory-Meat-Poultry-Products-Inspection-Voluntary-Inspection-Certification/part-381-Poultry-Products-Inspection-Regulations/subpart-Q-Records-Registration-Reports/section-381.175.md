@@ -1,5 +1,7 @@
 ##### § 381.175 Records required to be kept. #####
 
+Link to an amendment published at 83 FR 25308, May 31, 2018.
+
 (a) Every person within any of the classes specified in paragraph (a) (1), (2), or (3) of this section is required by the Act to keep such records as are properly necessary for the effective enforcement of the Act:
 
 (1) Any person that engages in the business of slaughtering any poultry or processing, freezing, packaging, or labeling any carcasses, or parts or products of carcasses, of any poultry, for commerce, for use as human food or animal food;

@@ -1,5 +1,7 @@
 ##### § 318.10 Prescribed treatment of pork and products containing pork to destroy trichinae. #####
 
+Link to an amendment published at 83 FR 25307, May 31, 2018.
+
 (a)(1) All forms of fresh pork, including fresh unsmoked sausage containing pork muscle tissue, and pork such as bacon and jowls, other than those covered by paragraph (b) of this section, are classed as products that are customarily well cooked in the home or elsewhere before being served to the consumer. Therefore, the treatment of such products for the destruction of trichinae is not required.
 
 (2) Pork from carcasses or carcass parts that have been found free of trichinae as described under paragraph (e) or (f) of this section is not required to be treated for the destruction of trichinae.
