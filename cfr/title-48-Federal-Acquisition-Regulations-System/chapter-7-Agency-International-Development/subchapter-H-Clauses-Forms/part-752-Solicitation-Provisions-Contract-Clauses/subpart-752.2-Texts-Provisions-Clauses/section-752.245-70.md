@@ -1,5 +1,7 @@
 ##### 752.245-70 Government property - USAID reporting requirements. #####
 
+Link to an amendment published at 83 FR 9713, Mar. 7, 2018.
+
 In response to a GAO audit recommendation, USAID contracts, except for those for commercial items, must contain the following preface and reporting requirement as additions to the appropriate Government Property clause prescribed by (48 CFR) FAR 45.107.
 
 *Preface:* to be inserted preceding the text of the FAR clause.

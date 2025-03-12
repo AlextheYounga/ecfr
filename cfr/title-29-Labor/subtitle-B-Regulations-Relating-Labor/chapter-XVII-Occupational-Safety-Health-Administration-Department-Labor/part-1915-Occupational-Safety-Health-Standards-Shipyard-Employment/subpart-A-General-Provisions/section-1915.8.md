@@ -48,6 +48,7 @@ The following sections or paragraphs contain a collection of information require
 |   1915.1016   |   1218-0081   |
 |   1915.1017   |   1218-0010   |
 |   1915.1018   |   1218-0104   |
+|   1915.1024   |   1218-0267   |
 |   1915.1025   |   1218-0092   |
 |   1915.1026   |   1218-0252   |
 |   1915.1027   |   1218-0185   |
@@ -63,4 +64,4 @@ The following sections or paragraphs contain a collection of information require
 |   1915.1200   |   1218-0072   |
 |   1915.1450   |   1218-0131   |
 
-[61 FR 5509, Feb. 13, 1996, as amended at 62 FR 33547, June 20, 1997; 63 FR 13340, Mar. 19, 1998; 70 FR 13371, Mar. 21, 2005; 71 FR 38086, July 5, 2006; 77 FR 19, Jan. 3, 2012; 81 FR 48710, July 27, 2016]
+[61 FR 5509, Feb. 13, 1996, as amended at 62 FR 33547, June 20, 1997; 63 FR 13340, Mar. 19, 1998; 70 FR 13371, Mar. 21, 2005; 71 FR 38086, July 5, 2006; 77 FR 19, Jan. 3, 2012; 81 FR 48710, July 27, 2016; 83 FR 9703, Mar. 7, 2018]

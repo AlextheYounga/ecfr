@@ -32,7 +32,7 @@
 
 (d) *Limits and inflation adjustment.* The limits specified in Tables I and II shall be adjusted each calendar year to reflect the “GDP implicit price deflator” published by the Department of Commerce for the previous calendar year. The Director of the Office of Energy Projects is authorized to compute and publish limits for future calendar years as a part of Tables I and II, pursuant to § 375.308(x)(1) of this chapter.
 
-Table I
+Table I to Part 157
 
 |                   Year                    |                         Limit                          |           |
 |-------------------------------------------|--------------------------------------------------------|-----------|
@@ -70,9 +70,10 @@ Table I
 |                   2012                    |                       10,800,000                       |30,800,000 |
 |                   2013                    |                       11,000,000                       |31,400,000 |
 |                   2014                    |                       11,200,000                       |31,900,000 |
-|                   2015                    |                       11,400,000                       |32,300,000 |
+|                   2015                    |                       11,400,000                       |32,400,000 |
 |                   2016                    |                       11,600,000                       |32,800,000 |
 |                   2017                    |                       11,800,000                       |33,200,000 |
+|                   2018                    |                       12,000,000                       |33,800,000 |
 
 (e) *Reporting requirements.* For each facility completed during the calendar year pursuant to paragraph (a) of this section and § 157.213(a), the certificate holder shall file in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the required annual report under § 157.207(a) the information described in paragraphs (e)(1)-(5) of this section. For each facility completed during the calendar year pursuant to paragraph (b) of this section, and §§ 157.210, 157.212, and 157.213(b), the certificate holder shall file in the manner prescribed above only the information described in paragraph (e)(3) of this section.
 
@@ -102,4 +103,4 @@ Table I
 
 (g) If the actual cost of the project exceeds the per-project cost authorized under a blanket certificate in Table I of this section, the certificate holder shall apply to the Director of the Office of Energy Projects for a waiver of those project cost limits.
 
-[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

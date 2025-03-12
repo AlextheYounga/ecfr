@@ -12,7 +12,7 @@
 
 (5) The total expenditures per calendar year pursuant to this section do not exceed the amount specified in Table II as adjusted pursuant to § 157.208(d). These costs shall include expenditures for leases, wells, pipeline, compressors, and related facilities, but shall exclude the cost of the natural gas to be used for testing purposes.
 
-Table II
+Table II to Part 157
 
 |Year|  Limit   |
 |----|----------|
@@ -52,6 +52,7 @@ Table II
 |2015|6,200,000 |
 |2016|6,300,000 |
 |2017|6,400,000 |
+|2018|6,500,000 |
 
 (b) *Reporting requirements* - (1) *Annual reports.* For any storage project tested or developed pursuant to this section, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the annual report required under § 157.207(a), the following information:
 
@@ -83,4 +84,4 @@ Table II
 
 (c) *Accounting.* The cost of any project ultimately determined to be infeasible for storage shall be charged to Account No. 822 of part 201, Underground Storage Exploration and Development Expenses.
 
-[Order 234, 47 FR 24266, June 4, 1982, as amended by Order 493, 53 FR 15030, Apr. 27, 1988; Order 603, 64 FR 26609, May 14, 1999; 72 FR 5614, Feb. 7, 2007; 73 FR 8191, Feb. 13, 2008; 74 FR 6539, Feb. 10, 2009; 75 FR 8246, Feb. 24, 2010; 76 FR 8294, Feb. 14, 2011; 77 FR 8725, Feb. 15, 2012; 78 FR 8390, Feb. 6, 2013; 79 FR 6808, Feb. 5, 2014; 80 FR 7303, Feb. 10, 2015; 81 FR 8645, Feb. 22, 2016; 82 FR 9127, Feb. 3, 2017]
+[Order 234, 47 FR 24266, June 4, 1982, as amended by Order 493, 53 FR 15030, Apr. 27, 1988; Order 603, 64 FR 26609, May 14, 1999; 72 FR 5614, Feb. 7, 2007; 73 FR 8191, Feb. 13, 2008; 74 FR 6539, Feb. 10, 2009; 75 FR 8246, Feb. 24, 2010; 76 FR 8294, Feb. 14, 2011; 77 FR 8725, Feb. 15, 2012; 78 FR 8390, Feb. 6, 2013; 79 FR 6808, Feb. 5, 2014; 80 FR 7303, Feb. 10, 2015; 81 FR 8645, Feb. 22, 2016; 82 FR 9127, Feb. 3, 2017; 83 FR 9697, Mar. 7, 2018]
