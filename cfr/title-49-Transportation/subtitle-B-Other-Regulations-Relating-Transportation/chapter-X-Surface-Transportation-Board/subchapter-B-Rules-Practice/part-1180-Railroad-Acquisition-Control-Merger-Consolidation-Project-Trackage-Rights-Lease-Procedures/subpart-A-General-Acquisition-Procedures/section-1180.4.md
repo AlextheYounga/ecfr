@@ -1,7 +1,5 @@
 ##### § 1180.4 Procedures. #####
 
-Link to an amendment published at 86 FR 68931, Dec. 6, 2021.
-
 (a) *General.* (1) The original and 25 copies of all documents shall be filed in *major* proceedings. The original and 10 copies shall be filed in *significant* and *minor* proceedings.
 
 (2) Each party to a proceeding shall choose a unique acronym of four letters or less for itself. It shall number each document filed in the proceeding consecutively, prefixed by its acronym.
@@ -132,79 +130,35 @@ Link to an amendment published at 86 FR 68931, Dec. 6, 2021.
 
 (5) All petitions for waiver or clarification must specify the sections for which waiver or clarification is sought and give the specific reasons why each waiver or clarification is necessary.
 
-(g) *Notice of exemption.* (1) To qualify for an exemption under section 1180.2(d), a railroad must file a verified notice of the transaction with the Board at least 30 days before the transaction is consummated indicating the proposed consummation date. Before a notice is filed, the railroad shall obtain a docket number from the Board's Section of Administration, Office of Proceedings.
+(g) *Notice of exemption.*(1) To qualify for an exemption under § 1180.2(d), a railroad must file a verified notice of the transaction with the Board. Except for verified notices filed under § 1180.2(d)(9), all verified notices under § 1180.2(d) must be filed at least 30 days before the transaction is consummated, indicating the proposed consummation date. Verified notices filed under § 1180.2(d)(9) will become effective upon service of notice of the transaction by the Board. Before a verified notice is filed, the railroad shall obtain a docket number from the Board's Section of Administration, Office of Proceedings.
 
-(i) The notice shall contain the information required in § 1180.6(a)(1)(i)-(iii), (a)(5)-(6), and (a)(7)(ii), and indicate the level of labor protection to be imposed.
+(i) All notices filed under § 1180.2(d) shall contain the information required in § 1180.6(a)(1)(i) through (iii), (a)(5) and (6), and (a)(7)(ii), and indicate the level of labor protection to be imposed.
 
-(ii) The Board shall publish a notice in the Federal Register within 16 days of the filing of the notice of exemption. The publication will indicate the labor protection required. If the notice of exemption contains false or misleading information which is brought to the Board's attention, the Board shall summarily revoke the exemption for that carrier and require divestiture.
+(ii) Notices filed under §§ 1180.2(d)(7), 1180.2(d)(8), or 1180.2(d)(9) shall also contain the following information:
 
-(iii) The filing of a petition to revoke under 49 U.S.C. 10502(d) does not stay the effectiveness of an exemption. Stay petitions must be filed at least 7 days before the exemption becomes effective.
+(A) The name of the tenant railroad;
 
-(iv) Other exemptions that may be relevant to a proposal under this provision are codified at 49 CFR part 1150, subpart D, which governs transactions under 49 U.S.C. 10901.
+(B) The name of the landlord railroad;
 
-(2)(i) To qualify for an exemption under § 1180.2(d)(7) (acquisition or renewal of trackage rights agreements), in addition to the notice, the railroad must file a caption summary suitable for publication in the Federal Register. The caption summary must be in the following form:
+(C) A description of the trackage rights, including a description of the track. For notices under § 1180.2(d)(8) and (9), the notice must state that the trackage rights are overhead rights. For notices under § 1180.2(d)(7), the notice must state whether the trackage rights are local or overhead;
 
-Surface Transportation BoardNotice of ExemptionFinance Docket No.(1) - Trackage Rights - (2)
+(D) The date the trackage rights transaction is proposed to be consummated;
 
-(2) (3) to grant (4) trackage rights to (1) between (5). The trackage rights will be effective on (6).
+(E) The date temporary trackage rights will expire, if applicable; and
 
-This notice is filed under § 1180.2(d)(7). Petitions to revoke the exemption under 49 U.S.C. 10502(d) may be filed at any time. The filing of a petition to revoke will not stay the transaction.
+(F) For notices under § 1180.2(d)(9), a description of the situation resulting in the outage in sufficient detail to allow the Board to determine an emergency exits, including, to the extent possible, the nature of the event that caused the unforeseen outage, the location of the outage, the date that the emergency situation occurred, the date the outage was discovered, and the expected duration of the outage.
 
-Dated:
+(iii) Except for notices filed under § 1180.2(d)(9), the Board shall publish a notice of exemption in the Federal Register within 16 days of the filing of the notice. For notices filed under § 1180.2(d)(9), the Board shall serve a notice of exemption on parties of record within 5 days after the verified notice of exemption is filed and shall publish that notice in the Federal Register. The publication of notices under § 1180.2(d) will indicate the labor protection required.
 
-By the Board.
+(iv) If the notice contains false or misleading information that is brought to the Board's attention, the Board shall summarily revoke the exemption for that carrier and require divestiture.
 
-[Insert name],
+(v) The filing of a petition to revoke under 49 U.S.C. 10502(d) does not stay the effectiveness of an exemption. Except for notices filed under § 1180.2(d)(9), stay petitions must be filed at least 7 days before the exemption becomes effective. For notices filed under § 1180.2(d)(9), stay petitions should be filed as soon as possible before the exemption becomes effective.
 
-Director, Office of Proceedings.
+(vi) Other exemptions that may be relevant to a proposal under this provision are codified at 49 CFR part 1150, subpart D, which governs transactions under 49 U.S.C. 10901.
 
-The following key identifies the information symbolized in the summary.
+(2) Some transactions may be subject to environmental review pursuant to the Board's environmental rules at 49 CFR part 1105.
 
-(1) Name of the tenant railroad.
-
-(2) Name of the landlord railroad.
-
-(3) If an agreement has been entered use “has agreed”, but if an agreement has been reached but not entered use “will agree.”
-
-(4) Indicate whether “overhead” or “local” trackage rights are involved.
-
-(5) Describe the trackage rights.
-
-(6) State the date the trackage rights agreement is proposed to be consummated.
-
-(ii) To qualify for an exemption under § 1180.2(d)(8) (acquisition of temporary trackage rights), in addition to the notice, the railroad must file a caption summary suitable for publication in the Federal Register. The caption summary must be in the following form:
-
-Surface Transportation BoardNotice of ExemptionSTB Finance Docket No.(1) - Temporary Trackage Rights - (2)
-
-(2) (3) to grant overhead temporary trackage rights to (1) between (4). The temporary trackage rights will be effective on (5). The authorization will expire on (6).
-
-This notice is filed under § 1180.2(d)(8). Petitions to revoke the exemption under 49 U.S.C. 10502(d) may be filed at any time. The filing of a petition to revoke will not stay the transaction.
-
-Dated:
-
-By the Board.
-
-[Insert name]
-
-Director, Office of Proceedings.
-
-The following key identifies the information symbolized in the summary.
-
-(1) Name of the tenant railroad.
-
-(2) Name of the landlord railroad.
-
-(3) If an agreement has been entered use “has agreed,” but if an agreement has been reached but not entered use “will agree.”
-
-(4) Describe the temporary trackage rights.
-
-(5) State the date the temporary trackage rights agreement is proposed to be consummated.
-
-(6) State the date the authorization will expire (not to exceed 1 year from the date the trackage rights will become effective).
-
-(3) Some transactions may be subject to environmental review pursuant to the Board's environmental rules at 49 CFR part 1105.
-
-(4) *Transactions imposing interchange commitments.* (i) The filing party must certify whether or not a proposed acquisition or operation of a rail line involves a provision or agreement that may limit future interchange with a third-party connecting carrier, whether by outright prohibition, per-car penalty, adjustment in the purchase price or rental, positive economic inducement, or other means (“interchange commitment”). If such a provision or agreement exists, the following additional information must be provided (the information in paragraphs (g)(4)(i)(B), (D), and (G) of this section may be filed with the Board under 49 CFR 1104.14(a) and will be kept confidential without need for the filing of an accompanying motion for a protective order under 49 CFR 1104.14(b)):
+(3)(i) Except for notices filed under §§ 1180.2(d)(7), 1180.2(d)(8), or 1180.2(d)(9), the filing party must certify whether a proposed acquisition or operation of a rail line involves a provision or agreement that may limit future interchange with a third-party connecting carrier, whether by outright prohibition, per-car penalty, adjustment in the purchase price or rental, positive economic inducement, or other means (“interchange commitment”). If such a provision or agreement exists, the following additional information must be provided (the information in paragraphs (g)(4)(i)(B), (D), and (G) of this section may be filed with the Board under 49 CFR 1104.14(a) and will be kept confidential without need for the filing of an accompanying motion for a protective order under 49 CFR 1104.14(b)):
 
 (A) The existence of that provision or agreement and identification of the affected interchange points; and
 

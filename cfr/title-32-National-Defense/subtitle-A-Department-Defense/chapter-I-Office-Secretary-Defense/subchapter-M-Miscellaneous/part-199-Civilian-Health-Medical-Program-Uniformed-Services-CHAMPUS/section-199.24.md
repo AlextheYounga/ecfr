@@ -1,7 +1,5 @@
 ##### § 199.24 TRICARE Reserve Select. #####
 
-Link to an amendment published at 86 FR 67862, Nov. 30, 2021.
-
 (a) *Establishment.* TRICARE Reserve Select offers the TRICARE Select self-managed, preferred-provider network option under § 199.17 to qualified members of the Selected Reserve, their immediate family members, and qualified survivors under this section.
 
 (1) *Purpose.* TRICARE Reserve Select is a premium-based health plan that is available for purchase by members of the Selected Reserve and certain survivors of Selected Reserve members as specified in paragraph (c) of this section.
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 67862, Nov. 30, 2021.
 
 (iv) *Benefits.* When their coverage becomes effective, TRICARE Reserve Select beneficiaries receive the TRICARE Select benefit including access to military treatment facility services and pharmacies, as described in §§ 199.17 and 199.21. TRICARE Reserve Select coverage features the deductible, catastrophic cap and cost share provisions of the TRICARE Select plan applicable to Group B active duty family members under § 199.17(l)(2)(ii) for both the member and the member's covered family members; however, the TRICARE Reserve Select premium under paragraph (c) of this section applies instead of any TRICARE Select plan enrollment fee under § 199.17. Both the member and the member's covered family members are provided access priority for care in military treatment facilities on the same basis as active duty service members' dependents who are not enrolled in TRICARE Prime as described in § 199.17(d)(1)(i)(D).
 
-(b) *Qualifications for TRICARE Reserve Select coverage* - (1) *Ready Reserve member.* A Ready Reserve member qualifies to purchase TRICARE Reserve Select coverage if the Service member meets both the following criteria:
+(b) *Qualifications for TRICARE Reserve Select coverage*—(1) *Ready Reserve member.* A Ready Reserve member qualifies to purchase TRICARE Reserve Select coverage prior to January 1, 2030, if the Service member meets the criteria listed in both paragraphs (b)(1)(i) and (ii) of this section. Beginning January 1, 2030, only the criteria in paragraph (b)(1)(i) of this section is necessary for qualification.
 
 (i) Is a member of the Selected Reserve of the Ready Reserve of the Armed Forces, or a member of the Individual Ready Reserve of the Armed Forces who has volunteered to be ordered to active duty pursuant to the provisions of 10 U.S.C. 12304 in accordance with section 10 U.S.C. 10144(b); and
 
@@ -84,4 +82,4 @@ Link to an amendment published at 86 FR 67862, Nov. 30, 2021.
 
 (4) *Qualified survivor.* This term means an immediate family member who has satisfied all the criteria that must be met before the survivor is authorized for TRS coverage.
 
-[72 FR 46383, Aug. 20, 2007, as amended at 76 FR 57641, Sept. 16, 2011; 80 FR 55254, Sept. 15, 2015; 82 FR 45458, Sept. 29, 2017]
+[72 FR 46383, Aug. 20, 2007, as amended at 76 FR 57641, Sept. 16, 2011; 80 FR 55254, Sept. 15, 2015; 82 FR 45458, Sept. 29, 2017; 86 FR 67862, Nov. 30, 2021]

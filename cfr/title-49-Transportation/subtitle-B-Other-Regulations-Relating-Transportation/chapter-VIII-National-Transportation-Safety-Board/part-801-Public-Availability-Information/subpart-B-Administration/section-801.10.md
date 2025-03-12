@@ -6,11 +6,11 @@
 
 (1) Is responsible for the custody and control of all NTSB records required to be preserved under the Federal Records Act, 44 U.S.C. Chapters 21, 29, 31, and 33.
 
-(2) Maintains an electronic reading room and an electronic reading room in accordance with 5 U.S.C. 552(a)(2). The NTSB's electronic reading room is located at 490 L'Enfant Plaza SW, Washington, DC. The NTSB's electronic reading room is located on the NTSB's FOIA website, found at *http://www.ntsb.gov/.*
+(2) Maintains an electronic reading room in accordance with 5 U.S.C. 552(a)(2). The NTSB's electronic reading room is accessible on the NTSB's FOIA website at *https://www.ntsb.gov/.*
 
 (3) Maintains a public access link on the NTSB's FOIA Website for requesters to electronically submit a FOIA request and track the status of the request.
 
-(c) The NTSB maintains in its electronic reading room and makes available for public inspection in its electronic reading room:
+(c) The NTSB maintains in its electronic reading room, making the following available:
 
 (1) Records that have been provided pursuant to a FOIA request, and
 
@@ -43,3 +43,5 @@
 (g) Where a requester seeks a record on behalf of another person, and the record contains that person's personal information protected by 5 U.S.C. 552(b)(6) and § 801.56, the personal information will not be provided to the requester unless the requester submits a notarized statement of consent from the person whose personal information is contained in the record.
 
 (h) In general, the NTSB will deny requests for records concerning a pending investigation, pursuant to appropriate exemptions under the FOIA. The FOIA Office will notify the requester of this denial in accordance with § 801.21(b), and provide the requester additional information regarding how the requester may receive information on the investigation once the investigation is complete.
+
+[82 FR 58356, Dec. 12, 2017, as amended at 86 FR 74377, Dec. 30, 2021]

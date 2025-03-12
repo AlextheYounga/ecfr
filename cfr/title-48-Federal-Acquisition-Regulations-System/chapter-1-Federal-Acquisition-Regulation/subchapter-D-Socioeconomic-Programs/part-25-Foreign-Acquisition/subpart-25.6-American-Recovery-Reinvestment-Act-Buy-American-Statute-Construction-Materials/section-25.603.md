@@ -1,5 +1,7 @@
 ##### 25.603 Exceptions. #####
 
+Link to an amendment published at 86 FR 74530, Dec. 30, 2021.
+
 (a)(1) When one of the following exceptions applies, the contracting officer may allow the contractor to incorporate foreign manufactured construction materials without regard to the restrictions of section 1605 of the Recovery Act or foreign unmanufactured construction material without regard to the restrictions of the Buy American statute:
 
 (i) *Nonavailability.* The head of the contracting activity may determine that a particular construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality. The determinations of nonavailability of the articles listed at 25.104(a) and the procedures at 25.103(b)(1) also apply if any of those articles are acquired as construction materials.

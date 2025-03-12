@@ -1,7 +1,5 @@
 ##### § 71.4 Definitions. #####
 
-Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
-
 The following terms are as defined here for the purpose of this part. To ensure compatibility with international transportation standards, all limits in this part are given in terms of dual units: The International System of Units (SI) followed or preceded by U.S. standard or customary units. The U.S. customary units are not exact equivalents but are rounded to a convenient value, providing a functionally equivalent unit. For the purpose of this part, either unit may be used.
 
 *A*1 means the maximum activity of special form radioactive material permitted in a Type A package. This value is either listed in Appendix A, Table A-1, of this part, or may be derived in accordance with the procedures prescribed in Appendix A of this part.
@@ -48,7 +46,7 @@ The following terms are as defined here for the purpose of this part. To ensure 
 
 *Indian tribe* means an Indian or Alaska Native Tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 5130.
 
-*Licensed* material means byproduct, source, or special nuclear material received, possessed, used, or transferred under a general or specific license issued by the Commission pursuant to the regulations in this chapter.
+*Licensed material* means byproduct, source, or special nuclear material received, possessed, used, or transferred under a general or specific license issued by the Commission pursuant to the regulations in this chapter.
 
 *Low Specific Activity (LSA) material* means radioactive material with limited specific activity which is nonfissile or is excepted under § 71.15, and which satisfies the descriptions and limits set forth in the following section. Shielding materials surrounding the LSA material may not be considered in determining the estimated average specific activity of the package contents. The LSA material must be in one of three groups:
 
@@ -138,10 +136,10 @@ The following terms are as defined here for the purpose of this part. To ensure 
 
 *Unirradiated uranium* means uranium containing not more than 2 × 103 Bq of plutonium per gram of uranium-235, not more than 9 × 106 Bq of fission products per gram of uranium-235, and not more than 5 × 10−3 g of uranium-236 per gram of uranium-235.
 
-*Uranium - natural, depleted, enriched.* (1) Natural uranium means uranium (which may be chemically separated) with the naturally occurring distribution of uranium isotopes (approximately 0.711 weight percent uranium-235, and the remainder by weight essentially uranium-238).
+*Uranium—natural, depleted, enriched.* (1) Natural uranium means uranium (which may be chemically separated) with the naturally occurring distribution of uranium isotopes (approximately 0.711 weight percent uranium-235, and the remainder by weight essentially uranium-238).
 
 (2) Depleted uranium means uranium containing less uranium-235 than the naturally occurring distribution of uranium isotopes.
 
 (3) Enriched uranium means uranium containing more uranium-235 than the naturally occurring distribution of uranium isotopes.
 
-[69 FR 3786, Jan. 26, 2004, as amended at 69 FR 58038, Sept. 29, 2004; 77 FR 34204, June 11, 2012; 80 FR 34011, June 12, 2015; 80 FR 48684, Aug. 14, 2015; 80 FR 74981, Dec. 1, 2015; 82 FR 52825, Nov. 15, 2017]
+[69 FR 3786, Jan. 26, 2004, as amended at 69 FR 58038, Sept. 29, 2004; 77 FR 34204, June 11, 2012; 80 FR 34011, June 12, 2015; 80 FR 48684, Aug. 14, 2015; 80 FR 74981, Dec. 1, 2015; 82 FR 52825, Nov. 15, 2017; 86 FR 67843, Nov. 30, 2021]

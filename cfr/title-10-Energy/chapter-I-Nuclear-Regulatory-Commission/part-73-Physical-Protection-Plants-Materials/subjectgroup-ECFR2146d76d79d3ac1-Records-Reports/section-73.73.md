@@ -1,10 +1,8 @@
 ##### § 73.73 Requirement for advance notice and protection of export shipments of special nuclear material of low strategic significance. #####
 
-Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
-
 (a) A licensee authorized to export special nuclear material of low strategic significance shall:
 
-(1) Notify in writing the Director, Office of Nuclear Security and Incident Response, using any appropriate method listed in § 73.4;
+(1) Notify in writing the Director, Office of Nuclear Security and Incident Response, by email (preferred method) to *AdvanceNotifications.Resource@nrc.gov* or by using any appropriate method listed in § 73.4;
 
 (2) Assure that the notification will be received at least 10 days before transport of the shipment commences at the shipper's facility;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
 
 (b) A licensee who needs to amend a written advance notification required by paragraph (a) of this section may notify the NRC Headquarters Operations Center by telephone at the numbers listed in appendix A to this part.
 
-[52 FR 9653, Mar. 26, 1987, as amended at 53 FR 4112, Feb. 12, 1988; 60 FR 24553, May 9, 1995; 67 FR 3586, Jan. 25, 2002; 68 FR 58820, Oct. 10, 2003; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]
+[52 FR 9653, Mar. 26, 1987, as amended at 53 FR 4112, Feb. 12, 1988; 60 FR 24553, May 9, 1995; 67 FR 3586, Jan. 25, 2002; 68 FR 58820, Oct. 10, 2003; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 86 FR 67843, Nov. 30, 2021]

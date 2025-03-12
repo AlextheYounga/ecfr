@@ -1,5 +1,7 @@
 ##### § 403.4 Simplified annual reports for smaller labor organizations. #####
 
+Link to an amendment published at 86 FR 74371, Dec. 30, 2021.
+
 (a)(1) If a labor organization, not in trusteeship, has gross annual receipts totaling less than $250,000 for its fiscal year, it may elect, subject to revocation of the privileges as provided in section 208 of the Act, to file the annual financial report called for in section 201(b) of the Act and § 403.3 of this part on United States Department of Labor Form LM-3 entitled “Labor Organization Annual Report,” in accordance with the instructions accompanying such form and constituting a part thereof.
 
 (2) If a labor organization, not in trusteeship, has gross annual receipts totaling less than $10,000 for its fiscal year, it may elect, subject to revocation of the privileges as provided in section 208 of the Act, to file the annual financial report called for in section 201(b) of the Act and § 403.3 on United States Department of Labor Form LM-4 entitled “Labor Organization Annual Report” in accordance with the instructions accompanying such form and constituting a part thereof.

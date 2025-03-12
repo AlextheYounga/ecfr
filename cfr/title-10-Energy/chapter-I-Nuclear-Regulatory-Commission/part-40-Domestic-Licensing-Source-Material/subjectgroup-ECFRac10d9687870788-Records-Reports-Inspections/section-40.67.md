@@ -1,8 +1,6 @@
 ##### § 40.67 Requirement for advance notice for importation of natural uranium from countries that are not party to the Convention on the Physical Protection of Nuclear Material. #####
 
-Link to an amendment published at 86 FR 67842, Nov. 30, 2021.
-
-(a) Each licensee authorized to import natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, from countries not party to the Convention on the Physical Protection of Nuclear Material (see appendix F to Part 73 of this chapter) shall notify the Director, Office of Nuclear Security and Incident Response, using an appropriate method listed in § 40.5. The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.
+(a) Each licensee authorized to import natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, from countries not party to the Convention on the Physical Protection of Nuclear Material (see appendix F to part 73 of this chapter) shall notify the Director, Office of Nuclear Security and Incident Response, by email (preferred method) to *AdvanceNotifications.Resource@nrc.gov* or using an appropriate method listed in § 40.5. The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.
 
 (b) The notification must include the following information:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 86 FR 67842, Nov. 30, 2021.
 
 (d) A licensee who needs to amend a notification shall notify the Director, Office of Nuclear Security and Incident Response, by telephone at the numbers specified for the NRC Headquarters Operations Center in appendix A to part 73 of this chapter.
 
-[52 FR 9652, Mar. 26, 1987, as amended at 53 FR 4110, Feb. 12, 1988; 60 FR 24551, May 9, 1995; 68 FR 58808, Oct. 10, 2003; 69 FR 76600, Dec. 22, 2004; 74 FR 62681, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65662, Oct. 16, 2020]
+[52 FR 9652, Mar. 26, 1987, as amended at 53 FR 4110, Feb. 12, 1988; 60 FR 24551, May 9, 1995; 68 FR 58808, Oct. 10, 2003; 69 FR 76600, Dec. 22, 2004; 74 FR 62681, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65662, Oct. 16, 2020; 86 FR 67842, Nov. 30, 2021]

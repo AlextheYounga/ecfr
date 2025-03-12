@@ -1,5 +1,7 @@
 ##### 25.1101 Acquisition of supplies. #####
 
+Link to an amendment published at 86 FR 74530, Dec. 30, 2021.
+
 The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
 
 (a)(1) Insert the clause at 52.225-1, Buy American - Supplies, in solicitations and contracts with a value exceeding the micro-purchase threshold but not exceeding $25,000; and in solicitations and contracts with a value exceeding $25,000, if none of the clauses prescribed in paragraphs (b) and (c) of this section apply, except if -

@@ -1,5 +1,7 @@
 ##### § 403.8 Dissemination and verification of reports. #####
 
+Link to an amendment published at 86 FR 74371, Dec. 30, 2021.
+
 (a) Every labor organization required to submit a report under section 201(b) of the Act and under this part shall make available to all its members the information required to be contained in such reports, and every such labor organization and its officers shall be under a duty to permit such member for just cause to examine any books, records, and accounts necessary to verify such report.
 
 (b)(1) If a labor organization is required to file a report under this part using the Form LM-2 and indicates that it has failed or refused to disclose information required by the Form concerning any disbursement, or receipt not otherwise reported on Statement B, to an individual or entity in the amount of $5,000 or more, or any two or more disbursements, or receipts not otherwise reported on Statement B, to an individual or entity that, in the aggregate, amount to $5,000 or more, because disclosure of such information may be adverse to the organization's legitimate interests, then the failure or refusal to disclose the information shall be deemed “just cause” for purposes of paragraph (a) of this section.

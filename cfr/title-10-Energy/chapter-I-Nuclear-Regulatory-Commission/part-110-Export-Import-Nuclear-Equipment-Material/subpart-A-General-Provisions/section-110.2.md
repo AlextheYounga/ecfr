@@ -1,7 +1,5 @@
 ##### § 110.2 Definitions. #####
 
-Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
-
 As used in this part,
 
 *Accelerator-produced radioactive material* means any material made radioactive by a particle accelerator.
@@ -30,7 +28,7 @@ As used in this part,
 
 (ii) Any material that has been made radioactive by use of a particle accelerator and is produced, extracted, or converted after extraction, before, on, or after August 8, 2005 for use for a commercial, medical, or research activity; and
 
-(4) Any discrete source of naturally occurring radioactive material, other than source material, that -
+(4) Any discrete source of naturally occurring radioactive material, other than source material, that—
 
 (i) The Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
 
@@ -104,7 +102,7 @@ The phrase *introduced into a hearing* means the introduction or incorporation o
 
 *Management* means storage, packaging, or treatment of radioactive waste.
 
-*Medical isotope,* for the purposes of § 110.42(a)(9), includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic, therapeutic procedures or for research and development.
+*Medical isotope,* for the purposes of § 110.42(a)(9), includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
 
 *Natural uranium* means uranium as found in nature, containing about 0.711 percent of uranium-235, 99.283 percent of uranium-238, and a trace (0.006 percent) of uranium-234.
 
@@ -148,7 +146,7 @@ NRC Web site, *http://www.nrc.gov,* is the Internet uniform resource locator nam
 
 *Radioactive material* means source, byproduct, or special nuclear material.
 
-*Radioactive waste,* for the purposes of this part, means any material that contains or is contaminated with source, byproduct, or special nuclear material that by its possession would require a specific radioactive material license in accordance with this Chapter and is imported or exported for the purposes of disposal in a land disposal facility as defined in 10 CFR part 61, a disposal area as defined in Appendix A to 10 CFR part 40, or an equivalent facility; or recycling, waste treatment or other waste management process that generates radioactive material for disposal in a land disposal facility as defined in 10 CFR part 61, a disposal area as defined in Appendix A to 10 CFR part 40, or an equivalent facility. Radioactive waste does not include radioactive material that is -
+*Radioactive waste,* for the purposes of this part, means any material that contains or is contaminated with source, byproduct, or special nuclear material that by its possession would require a specific radioactive material license in accordance with this Chapter and is imported or exported for the purposes of disposal in a land disposal facility as defined in 10 CFR part 61, a disposal area as defined in Appendix A to 10 CFR part 40, or an equivalent facility; or recycling, waste treatment or other waste management process that generates radioactive material for disposal in a land disposal facility as defined in 10 CFR part 61, a disposal area as defined in Appendix A to 10 CFR part 40, or an equivalent facility. Radioactive waste does not include radioactive material that is—
 
 (1) Of U.S. origin and contained in a sealed source, or device containing a sealed source, that is being returned to a manufacturer, distributor or other entity which is authorized to receive and possess the sealed source or the device containing a sealed source;
 
