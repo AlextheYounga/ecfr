@@ -1,7 +1,5 @@
 ##### § 1300.01 Definitions relating to controlled substances. #####
 
-Link to an amendment published at 86 FR 33883, June 28, 2021.
-
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1301 through 1308, 1312, and 1317 of this chapter, the following terms shall have the meanings specified:
@@ -144,6 +142,10 @@ Link to an amendment published at 86 FR 33883, June 28, 2021.
 
 *Mid-level practitioner* means an individual practitioner, other than a physician, dentist, veterinarian, or podiatrist, who is licensed, registered, or otherwise permitted by the United States or the jurisdiction in which he/she practices, to dispense a controlled substance in the course of professional practice. Examples of mid-level practitioners include, but are not limited to, health care providers such as nurse practitioners, nurse midwives, nurse anesthetists, clinical nurse specialists and physician assistants who are authorized to dispense controlled substances by the State in which they practice.
 
+*Mobile Narcotic Treatment Program* means a narcotic treatment program (NTP) operating from a motor vehicle, as defined in this section, that serves as a mobile component (conveyance) and is operating under the registration of the NTP, and engages in maintenance and/or detoxification treatment with narcotic drugs in schedules II-V, at a location or locations remote from, but within the same State as, its registered location. Operating a mobile NTP is a coincident activity of an existing NTP, as listed in § 1301.13(e) of this chapter.
+
+*Motor vehicle* means a vehicle propelled under its own motive power and lawfully used on public streets, roads, or highways with more than three wheels in contact with the ground. This term does not include a trailer.
+
 *Name* means the official name, common or usual name, chemical name, or brand name of a substance.
 
 *Narcotic drug* means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis:
@@ -198,4 +200,4 @@ Link to an amendment published at 86 FR 33883, June 28, 2021.
 
 *United States,* when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States, which, in addition to the customs territory of the United States, include but are not limited to the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014; 81 FR 97018, Dec. 30, 2016]
+[62 FR 13941, Mar. 24, 1997, as amended at 65 FR 44678, July 19, 2000; 68 FR 37409, June 24, 2003; 68 FR 41228, July 11, 2003; 70 FR 25465, May 13, 2005; 70 FR 74656, Dec. 16, 2005; 71 FR 60427, Oct. 13, 2006; 72 FR 67852, Dec. 3, 2007; 74 FR 63609, Dec. 4, 2009; 77 FR 4230, Jan. 27, 2012; 77 FR 44461, July 30, 2012; 79 FR 53559, Sept. 9, 2014; 81 FR 97018, Dec. 30, 2016; 86 FR 33883, June 28, 2021]

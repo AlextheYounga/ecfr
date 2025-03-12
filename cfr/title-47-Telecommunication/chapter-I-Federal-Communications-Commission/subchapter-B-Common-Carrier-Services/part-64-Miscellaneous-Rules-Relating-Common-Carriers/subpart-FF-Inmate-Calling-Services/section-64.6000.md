@@ -1,5 +1,7 @@
 ##### § 64.6000 Definitions. #####
 
+Link to an amendment published at 86 FR 40731, July 28, 2021.
+
 As used in this subpart:
 
 (a) *Ancillary Service Charge* means any charge Consumers may be assessed for, or in connection with, the interstate or international use of Inmate Calling Services that are not included in the per-minute charges assessed for such individual calls. Ancillary Service Charges that may be assessed are limited only to those listed in paragraphs (a)(1) through (5) of this section. All other Ancillary Service Charges are prohibited. For purposes of this definition, “interstate” includes any Jurisdictionally Mixed Charge, as defined in paragraph (u) of this section.

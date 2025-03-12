@@ -428,11 +428,13 @@ Fippennies Ledge Area
 
 (A) Trip limits on NE multispecies stocks for which a sector receives an allocation of ACE pursuant to paragraph (b)(1)(i) of this section (i.e., all stocks except Atlantic halibut, ocean pout, windowpane flounder, and Atlantic wolffish);
 
-(B) The GOM Cod Protection Closures IV and V specified in § 648.81(d)(4)(iv) and (v).
+(B) The GOM Cod Protection Closures IV and V specified in § 648.81(d)(4)(iv) and (v);
 
-(C) NE multispecies DAS restrictions other than those required to comply with effort controls in other fisheries, as specified in §§ 648.92 and 648.322; and
+(C) NE multispecies DAS restrictions other than those required to comply with effort controls in other fisheries, as specified in §§ 648.92 and 648.322;
 
-(D) The minimum codend mesh size restrictions for trawl gear specified in § 648.80(a)(4)(i) when using a haddock separator trawl defined in § 648.85(a)(3)(iii) or the Ruhle trawl defined in § 648.85(b)(6)(iv)(J)(*3*) within the GB RMA, as defined in § 648.80(a)(2), provided sector vessels use a codend with 6-inch (15.2-cm) minimum mesh.
+(D) The minimum codend mesh size restrictions for trawl gear specified in § 648.80(a)(4)(i) when using a haddock separator trawl defined in § 648.85(a)(3)(iii) or the Ruhle trawl defined in § 648.85(b)(6)(iv)(J)(*3*) within the GB RMA, as defined in § 648.80(a)(2), provided sector vessels use a codend with 6-inch (15.2-cm) minimum mesh; and
+
+(E) The minimum codend mesh size restrictions for trawl gear specified in § 648.80(a)(3)(i) or (a)(4)(i) when fishing in compliance with the provisions of the Redfish Exemption Program defined in § 648.85(e)(1).
 
 (3) The Regional Administrator may withdraw approval of a sector, after consultation with the Council, at any time, if it is determined that sector participants are not complying with the requirements of an approved operations plan or that the continuation of the operations plan will undermine achievement of fishing mortality objectives of the FMP. Withdrawal of approval of a sector may only be done in a manner consistent with the Administrative Procedure Act and other applicable law.
 
@@ -534,4 +536,4 @@ Fippennies Ledge Area
 
 (7) *Violation of the terms and conditions applicable to a state-operated permit bank.* If a state or state-operated permit bank violates or fails to comply with any of the requirements and conditions specified in this section or in the MOA referenced in paragraph (e)(1) of this section, the state or state-operated permit bank is subject to the actions and penalties specified in § 648.4(n) or the MOA.
 
-[75 FR 18338, 18374, Apr. 9, 2010, as amended at 76 FR 23072, Apr. 25, 2011; 76 FR 42586, July 19, 2011; 77 FR 16497, Mar. 23, 2012; 77 FR 26125, May 2, 2012; 78 FR 26160, 26208, May 3, 2013; 78 FR 53367, Sept. 30, 2013; 79 FR 22447, Apr. 22, 2014; 79 FR 36436, June 27, 2014; 80 FR 25141, May 1, 2015; 81 FR 26450, May 2, 2016; 82 FR 18715, Apr. 21, 2017; 83 FR 15274, Apr. 9, 2018; 84 FR 17926, Apr. 26, 2019; 84 FR 34815, July 19, 2019; 86 FR 22908, Apr. 30, 2021]
+[75 FR 18338, 18374, Apr. 9, 2010]Editorial Note:For Federal Register citations affecting § 648.87, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,4 @@
-##### § 1301.74 Other security controls for non-practitioners; narcotic treatment programs and compounders for narcotic treatment programs. #####
-
-Link to an amendment published at 86 FR 33884, June 28, 2021.
+##### § 1301.74 Other security controls for non-practitioners; narcotic treatment programs and compounders for narcotic treatment programs; mobile narcotic treatment programs. #####
 
 (a) Before distributing a controlled substance to any person who the registrant does not know to be registered to possess the controlled substance, the registrant shall make a good faith inquiry either with the Administration or with the appropriate State controlled substances registration agency, if any, to determine that the person is registered to possess the controlled substance.
 
@@ -32,12 +30,22 @@ Link to an amendment published at 86 FR 33884, June 28, 2021.
 
 (i) Narcotics dispensed or administered at a narcotic treatment program will be dispensed or administered directly to the patient by either (1) the licensed practitioner, (2) a registered nurse under the direction of the licensed practitioner, (3) a licensed practical nurse under the direction of the licensed practitioner, or (4) a pharmacist under the direction of the licensed practitioner.
 
-(j) Persons enrolled in a narcotic treatment program will be required to wait in an area physically separated from the narcotic storage and dispensing area. This requirement will be enforced by the program physician and employees.
+(j) Persons enrolled in any narcotic treatment program (NTP), including those receiving treatment at a mobile NTP, will be required to wait in an area that is physically separated from the narcotic storage and dispensing area by a physical entrance such as a door or other entryway. Patients must wait outside of a mobile NTP component if that conveyance does not have seating or a reception area that is separated from the narcotic storage and dispensing area. This requirement will be enforced by the program practitioner and NTP employees.
 
-(k) All narcotic treatment programs must comply with standards established by the Secretary of Health and Human Services (after consultation with the Administration) respecting the quantities of narcotic drugs which may be provided to persons enrolled in a narcotic treatment program for unsupervised use.
+(k) All NTPs, including mobile NTPs, must comply with standards established by the Secretary of Health and Human Services (after consultation with the Administration) respecting the quantities of narcotic drugs which may be provided to persons enrolled in a NTP or mobile NTP for unsupervised use (*e.g.,* take home or non-directly observed therapy).
 
-(l) DEA may exercise discretion regarding the degree of security required in narcotic treatment programs based on such factors as the location of a program, the number of patients enrolled in a program and the number of physicians, staff members and security guards. Similarly, such factors will be taken into consideration when evaluating existing security or requiring new security at a narcotic treatment program.
+(l) DEA may exercise discretion regarding the degree of security required in NTPs, including mobile NTPs, based on such factors as the location of a program, the number of patients enrolled in a program, and the number of practitioners, staff members, and security guards. Personnel that are authorized to dispense controlled substances for narcotic treatment must ensure proper security measures and patient dosage. Similarly, DEA will consider such factors when evaluating existing security or requiring new security at a narcotic treatment program or mobile NTP.
 
-(m) A reverse distributor shall not employ, as an agent or employee who has access to or influence over controlled substances, any person who has been convicted of any felony offense relating to controlled substances or who, at any time, had an application for registration with the DEA denied, had a DEA registration revoked or suspended, or has surrendered a DEA registration for cause. For purposes of this subsection, “for cause” means in lieu of, or as a consequence of, any Federal or State administrative, civil, or criminal action resulting from an investigation of the individual's handling of controlled substances.
+(m) Any controlled substances being transported for disposal from the dispensing location of a mobile NTP shall be secured and disposed of in compliance with part 1317, and all other applicable Federal, State, tribal, and local laws and regulations.
+
+(n) A conveyance used as part of a mobile NTP may only be supplied with narcotic drugs by the registered NTP that operates such conveyance. Persons permitted to dispense controlled substances to mobile NTPs shall not:
+
+(1) Receive controlled substances from other mobile NTPs or any other entity;
+
+(2) Deliver controlled substances to other mobile NTPs or any other entity; or
+
+(3) Conduct reverse distribution of controlled substances on a mobile NTP.
+
+(o) A reverse distributor shall not employ, as an agent or employee who has access to or influence over controlled substances, any person who has been convicted of any felony offense relating to controlled substances or who, at any time, had an application for registration with the DEA denied, had a DEA registration revoked or suspended, or has surrendered a DEA registration for cause. For purposes of this subsection, “for cause” means in lieu of, or as a consequence of, any Federal or State administrative, civil, or criminal action resulting from an investigation of the individual's handling of controlled substances.
 
 [36 FR 7778, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1301.74, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 1304.04 Maintenance of records and inventories. #####
 
-Link to an amendment published at 86 FR 33885, June 28, 2021.
-
 (a) Except as provided in paragraphs (a)(1) and (a)(2) of this section, every inventory and other records required to be kept under this part must be kept by the registrant and be available, for at least 2 years from the date of such inventory or records, for inspection and copying by authorized employees of the Administration.
 
 (1) Financial and shipping records (such as invoices and packing slips but not executed order forms subject to §§ 1305.17 and 1305.27 of this chapter) may be kept at a central location, rather than at the registered location, if the registrant has notified the Administration of his intention to keep central records. Written notification must be submitted by registered or certified mail, return receipt requested, in triplicate, to the Special Agent in Charge of the Administration in the area in which the registrant is located. Unless the registrant is informed by the Special Agent in Charge that permission to keep central records is denied, the registrant may maintain central records commencing 14 days after receipt of his notification by the Special Agent in Charge. All notifications must include the following:
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 33885, June 28, 2021.
 
 (e) All central recordkeeping permits previously issued by the Administration expired September 30, 1980.
 
-(f) Each registered manufacturer, distributor, importer, exporter, narcotic treatment program and compounder for narcotic treatment program shall maintain inventories and records of controlled substances as follows:
+(f) Each registered manufacturer, distributor, importer, exporter, mobile narcotic treatment program, narcotic treatment program and compounder for narcotic treatment program shall maintain inventories and records of controlled substances as follows:
 
 (1) Inventories and records of controlled substances listed in Schedules I and II shall be maintained separately from all of the records of the registrant; and
 
@@ -54,4 +52,4 @@ Link to an amendment published at 86 FR 33885, June 28, 2021.
 
 (5) Records of electronic prescriptions for controlled substances shall be maintained in an application that meets the requirements of part 1311 of this chapter. The computers on which the records are maintained may be located at another location, but the records must be readily retrievable at the registered location if requested by the Administration or other law enforcement agent. The electronic application must be capable of printing out or transferring the records in a format that is readily understandable to an Administration or other law enforcement agent at the registered location. Electronic copies of prescription records must be sortable by prescriber name, patient name, drug dispensed, and date filled.
 
-(Authority: 21 U.S.C. 821 and 871(b); 28 CFR 0.100)[36 FR 7790, Apr. 24, 1971, as amended at 36 FR 13386, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 39 FR 37985, Oct. 25, 1974; 45 FR 44266, July 1, 1980; 47 FR 41735, Sept. 22, 1982; 51 FR 5320, Feb. 13, 1986; 62 FR 13959, Mar. 24, 1997; 70 FR 25466, May 13, 2005; 75 FR 10677, Mar. 9, 2010; 75 FR 16306, Mar. 31, 2010; 79 FR 53562, Sept. 9, 2014]
+(Authority: 21 U.S.C. 821 and 871(b); 28 CFR 0.100)[36 FR 7790, Apr. 24, 1971, as amended at 36 FR 13386, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 39 FR 37985, Oct. 25, 1974; 45 FR 44266, July 1, 1980; 47 FR 41735, Sept. 22, 1982; 51 FR 5320, Feb. 13, 1986; 62 FR 13959, Mar. 24, 1997; 70 FR 25466, May 13, 2005; 75 FR 10677, Mar. 9, 2010; 75 FR 16306, Mar. 31, 2010; 79 FR 53562, Sept. 9, 2014; 86 FR 33885, June 28, 2021]

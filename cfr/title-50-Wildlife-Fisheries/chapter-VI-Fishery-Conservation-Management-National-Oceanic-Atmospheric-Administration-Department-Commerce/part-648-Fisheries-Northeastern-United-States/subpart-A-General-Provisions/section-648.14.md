@@ -885,6 +885,26 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (20) *AMs for both stocks of windowpane flounder, ocean pout, Atlantic halibut, and Atlantic wolffish.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fail to comply with the restrictions on fishing and gear specified in § 648.90(a)(5)(i)(D) through (H).
 
+(21) *Universal sector exemption programs* - (i) *Redfish Exemption Program.* (A) While fishing under the provisions of the Redfish Exemption Program, it is unlawful for any person to:
+
+(*1*) Fish with a codend of mesh smaller than 5.5-inch (14.0-cm) diamond or square,
+
+(*2*) Fish outside of the Redfish Exemption Area specified in § 648.85(e)(1)(ii),
+
+(*3*) Fish in the Redfish Exemption Area Cod Closure specified in § 648.85(e)(1)(ii)(A) during the closure period,
+
+(*4*) Fish in the Redfish Exemption Area Seasonal Closure II specified in § 648.85(e)(1)(ii)(B) during the closure period,
+
+(*5*) Fail to comply with the declaration requirements of the Redfish Exemption Program specified in § 648.85(e)(1)(iv),
+
+(*6*) Fail to comply with the reporting requirements of the Redfish Exemption Program specified in § 648.85(e)(1)(v), or
+
+(*7*) Fail to comply with the gear requirements of the Redfish Exemption Program specified in § 648.85(e)(1)(vii), or fish with any gear other than trawl.
+
+(B) It is unlawful for any person to fish under the provisions of the Redfish Exemption Program when prohibited from doing so by the Regional Administrator under § 648.85(e)(1)(viii)(C), or when ineligible or prohibited for any other reason.
+
+(ii) [Reserved]
+
 (l) *Small-mesh multispecies.* (1) It is unlawful for any person owning or operating a vessel issued a valid Federal multispecies permit to land, offload, or otherwise transfer; or attempt to land, offload, or otherwise transfer; small-mesh multispecies from one vessel to another in excess of the limits specified in § 648.13.
 
 (2) *Presumptions.* For purposes of this part, the following presumption applies: All small-mesh multispecies retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ.

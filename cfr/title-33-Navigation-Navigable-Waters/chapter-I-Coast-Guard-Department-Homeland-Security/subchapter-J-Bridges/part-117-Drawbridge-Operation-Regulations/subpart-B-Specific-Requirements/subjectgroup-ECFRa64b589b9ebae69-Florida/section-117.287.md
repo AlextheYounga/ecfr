@@ -1,7 +1,5 @@
 ##### § 117.287 Gulf Intracoastal Waterway. #####
 
-Link to an amendment published at 86 FR 33887, June 28, 2021.
-
 (a) Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (a-1) The draw of the Boca Grande Swingbridge, mile 34.3, shall open on signal; except that, from 7 a.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need open only on the hour and half hour. On Saturday, Sunday and Federal holidays, from 7 a.m. to 6 p.m., the draw need open only on the hour, quarter hour, half hour and three quarter hour.
@@ -24,6 +22,6 @@ Link to an amendment published at 86 FR 33887, June 28, 2021.
 
 (g) The draw of the Treasure Island Causeway bridge, mile 119.0 shall open on signal except that from 7 a.m. to 7 p.m. the draw need open on the hour, 20 minutes after the hour and 40 minutes after the hour Monday through Friday and on the quarter hour and three quarter hour on Saturday, Sunday and Federal holidays.
 
-(h) The draw of the Welch Causeway (SR699) bridge, mile 122.8 at Madiera Beach, shall open on signal; except that, from 9:30 a.m. to 6 p.m. on Saturdays, Sundays, and Federal holidays, the draw need be opened only on the hour, 20 minutes after the hour, and 40 minutes after the hour.
+(h) The draw of the Welch Causeway (SR 699) Bridge, Gulf Intracoastal Waterway mile 122.8, at Madeira Beach, Florida, shall open on signal; except that, from 7 a.m. to 7 p.m. daily, except Federal holidays, the draw need only open on the hour and half hour.
 
 [CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.287, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -541,4 +541,115 @@ Eastern U.S./Canada Haddock SAP Area
 
 (d) *Authorized gear performance standards.* Unless otherwise restricted in this part, in areas and times when a special management program, as specified in this section, requires the use of gear authorized by that program to reduce catches of stocks of concern, participating vessels are restricted to the following trip limits: 500 lb (227 kg) of all flatfish species (American plaice, witch flounder, winter flounder, windowpane flounder, and GB yellowtail flounder), combined; 500 lb (227 kg) of monkfish (whole weight); 500 lb (227 kg) of skates (whole weight); and zero possession of lobsters, unless otherwise restricted by § 648.94(b)(3).
 
+(e) *Universal exemption programs for sector vessels* - (1) *Redfish Exemption Program* - (i) *Eligibility.* Any vessel enrolled in a NMFS approved Northeast multispecies sector and issued a limited access Northeast multispecies permit that allows the use of trawl gear consistent with paragraph (e)(1)(vii) of this section may fish in compliance with the provisions of the Redfish Exemption Program described in paragraphs (e)(1)(ii) through (viii) of this section, except those vessels enrolled in a sector whose members have been prohibited from doing so by the Regional Administrator under paragraph (e)(1)(viii)(C) of this section, or those vessels ineligible or prohibited for any other reason. Letters of authorization issued pursuant to § 648.87(c)(2) shall authorize or prohibit participation in the program by sector vessels consistent with paragraph (e)(1)(viii)(C) of this section.
+
+(ii) *Redfish Exemption Area.* The Redfish Exemption Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
+
+Table 14 to Paragraph (e)(1)(ii)
+
+|Point| N Lat.  | W Long. |
+|-----|---------|---------|
+|  A  | 43°00′  | 69°55′  |
+|  B  | 43°00′  | 69°30′  |
+|  C  | 43°20′  | 69°30′  |
+|  D  | 43°20′  |   (1)   |
+|  E  |42°53.24′|67°44.55′|
+|  F  | 42°20′  |   (2)   |
+|  G  | 42°20′  | 67°40′  |
+|  H  | 42°00′  | 67°40′  |
+|  I  | 42°00′  | 69°37′  |
+|  J  | 42°20′  | 69°55′  |
+|  A  | 43°00′  | 69°55′  |
+
+1 US EEZ longitude, approximately 67°35.07′.
+
+2 US EEZ longitude, approximately 67°18.17′.
+
+(A) *Redfish Exemption Area Cod Closure.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Cod Closure from February 1 through March 31 of each year. The Redfish Exemption Area Cod Closure is the area defined by straight lines connecting the following points in the order stated:
+
+Table 15 to Paragraph (e)(1)(ii)(A)
+
+|Point|N Lat.|W Long.|
+|-----|------|-------|
+|  A  |43°00′|69°55′ |
+|  B  |43°00′|69°30′ |
+|  K  |42°30′|69°30′ |
+|  L  |42°30′|69°55′ |
+|  A  |43°00′|69°55′ |
+
+(B) *Redfish Exemption Area Seasonal Closure II.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Seasonal Closure II from September 1 through December 31 of each year. The Redfish Exemption Area Seasonal Closure II is the area defined by straight lines connecting the following points in the order stated:
+
+Table 16 to Paragraph (e)(1)(ii)(B)
+
+|Point| N Lat.  |W Long.|
+|-----|---------|-------|
+|  M  |42°47.17′|67°40′ |
+|  F  | 42°20′  |  (1)  |
+|  G  | 42°20′  |67°40′ |
+|  M  |42°47.17′|67°40′ |
+
+1 US EEZ longitude, approximately 67°18.17′.
+
+(C) No vessel may participate in the Redfish Exemption Program in any areas that are otherwise closed to fishing for Northeast multispecies or fishing with trawl gear, including but not limited to year-round closed areas, seasonal closed areas, or habitat closures.
+
+(iii) *Season.* An eligible vessel as described in paragraph (e)(1)(i) of this section may participate in the Redfish Exemption Program from May 1 through April 30 of each year as authorized in the vessel's letter of authorization issued pursuant to § 648.87(c)(2), unless otherwise prohibited in the letter of authorization under paragraph (e)(1)(viii)(C) of this section.
+
+(iv) *Declaration.* To participate in the Redfish Exemption Program on a sector trip, an eligible vessel must declare its intent to do so through the VMS prior to leaving the dock, in accordance with instructions provided by the Regional Administrator.
+
+(A) *Pre-trip notification.* For the purposes of selecting vessels for observer deployment or electronic monitoring, a vessel participating in the Redfish Exemption Program must comply with all pre-trip notification requirements at § 648.11(l).
+
+(B) [Reserved]
+
+(v) *Reporting* - (A) *Daily catch reporting.* The owner or operator of a vessel that has declared into the Redfish Exemption Program as required in paragraph (e)(1)(iv) of this section must submit catch reports via VMS, for each day of the fishing trip. Vessels subject to the daily reporting requirement must report daily for the entire fishing trip, including any portion fished outside of the Redfish Exemption Area. The reports must be submitted in 24-hr intervals for each day, beginning at 0000 hr and ending at 2359 hr, and must be submitted by 0900 hr of the following day, or as instructed by the Regional Administrator. The reports must include at least the following information:
+
+(*1*) VTR serial number or other universal ID specified by the Regional Administrator;
+
+(*2*) Date fish were caught and statistical area in which fish were caught; and
+
+(*3*) Total pounds of each regulated Northeast multispecies and ocean pout kept (in pounds, live weight) as well as the total pounds of other kept catch (in pounds, live weight) in each statistical area, as instructed by the Regional Administrator.
+
+(B) *Redfish exemption fishing notification.* After the vessel has entered the Redfish Exemption Area, the owner or operator of a vessel must submit a redfish exemption fishing notification before switching to a smaller mesh codend allowed under the Redfish Exemption Program. This notification is provided with an additional catch report submitted via VMS, reporting all catch on board and indicating that the vessel is switching to a smaller mesh codend. This notification indicates that the vessel is now fishing under the provisions of the Redfish Exemption Program. Vessels that fail to declare into the Redfish Exemption Program as required in paragraph (e)(1)(iv) of this section may not fish under the Redfish Exemption Program even if this notification is sent. The notification must include at least the following information:
+
+(*1*) VTR serial number or other universal ID specified by the Regional Administrator;
+
+(*2*) Date fish were caught and statistical area in which fish were caught;
+
+(*3*) Total pounds of each regulated Northeast multispecies and ocean pout kept (in pounds, live weight) as well as the total pounds of other kept catch (in pounds, live weight) in each statistical area, as instructed by the Regional Administrator; and
+
+(*4*) Indication that the vessel is now switching to a smaller mesh codend.
+
+(vi) *Area fished.* (A) A vessel that has declared its intent to fish under the Redfish Exemption Program consistent with paragraph (e)(1)(iv) of this section may conduct the first part of its trip outside the provisions of the Redfish Exemption Program, subject to all other Northeast multispecies regulations including codend mesh size, prior to sending a redfish exemption fishing notification as described in paragraph (e)(1)(v)(B) of this section.
+
+(B) Once a vessel has sent a redfish exemption fishing notification as described in paragraph (e)(1)(v)(B) of this section, the vessel is prohibited from fishing outside of the Redfish Exemption Area for the remainder of its trip.
+
+(vii) *Gear requirements.* Vessels may only use trawl gear when declared into and fishing in the Redfish Exemption Program. Vessels may fish in the Redfish Exemption Program with any trawl gear, including, but not limited to, otter trawl, haddock separator trawl, flounder trawl, or Ruhle trawl.
+
+(A) *Minimum codend mesh size.* The minimum codend mesh size for vessels fishing in the Redfish Exemption Program is 5.5-inch square or diamond mesh. All other trawl net restrictions listed in § 648.80(a)(3)(i) and (a)(4)(i), including minimum mesh sizes for the net body and extensions, still apply.
+
+(B) *Gear stowage.* Codends with mesh smaller than otherwise permitted by regulation at § 648.80(a)(3)(i) and (a)(4)(i), or § 648.87(c)(2)(ii)(D), must be stowed during transit to and from the Redfish Exemption Area, and when not in use under the Redfish Exemption Program. Any non-trawl fishing gear must be stowed for the duration of any trip for which a vessel declared its intent to fish under the Redfish Exemption Program consistent with paragraph (e)(1)(iv) of this section. Stowed gear must be not available for immediate use consistent with definitions in § 648.2
+
+(viii) *Catch Thresholds* - (A) *Monthly Performance Thresholds.* (*1*) Monthly Redfish Landings Threshold - Monthly redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not be less than 50 percent of all the allocated Northeast multispecies stocks landed each month while fishing under the provisions of the Redfish Exemption Program.
+
+(*2*) Monthly Discards Threshold - Monthly observed discards of regulated Northeast multispecies and ocean pout by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not exceed 5 percent of total observed kept catch, for those portions of trips fished each month under the provisions of the Redfish Exemption Program.
+
+(B) *Annual Performance Thresholds.* (*1*) Annual Redfish Landings Threshold - Annual fishing year redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may be no less than 55 percent of all the allocated Northeast multispecies stocks landed while fishing under the provisions of the Redfish Exemption Program.
+
+(C) *Administration of Thresholds.* (*1*) If a sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in a fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year, and place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
+
+(*2*) If a sector fails to meet the annual redfish landings threshold described in paragraph (e)(1)(viii)(B)(*1*) of this section in a fishing year, the Regional Administrator shall place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
+
+(*3*) While in probationary status as described in paragraph (e)(1)(viii)(C)(*1*) or (*2*) of this section, if the sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in that fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year and the following fishing year.
+
+(*4*) If a sector fails to meet the annual redfish landings threshold in (e)(1)(viii)(B)(*1*) of this section for any fishing year during which the sector is in a probationary status as described in paragraph (e)(1)(viii)(C)(*1*) or (*2*) of this section, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the following fishing year.
+
+(*5*) The Regional Administrator may determine a sector has failed to meet required monthly or annual thresholds described in paragraphs (e)(1)(viii)(A) and (B) of this section using available information including, but not limited to, vessel declarations and notifications, vessel trip reports, dealer reports, and observer and electronic monitoring records.
+
+(*6*) The Regional Administrator shall notify a sector of a failure to meet the required monthly or annual thresholds and the sector's vessels prohibition or probation status consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*5*) of this section. The Regional Administrator shall also make administrative amendments to the approved sector operations plan and issue sector vessel letters of authorization consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*5*) of this section. These administrative amendments may be made during a fishing year or during the sector operations plan and sector contract approval process.
+
+(*7*) A sector may request in writing that the Regional Administrator review and reverse a determination made under the provisions of this section within 30 days of the date of the Regional Administrator's determination. Any such request must be based on information showing the sector complied with the required thresholds, including, but not limited to, landing, discard, observer or electronic monitoring records. The Regional Administrator will review and maintain or reverse the determination and notify the sector of this decision in writing. Any determination resulting from a review conducted under this provision is final and may not be reviewed further.
+
+(ix) *Program review.* The Council will review the Redfish Exemption Program after the first peer-reviewed redfish stock assessment following implementation of the program. The Council will prepare a report, which may include, but is not limited to, an evaluation of threshold performance, vessel-level performance, bycatch of non-redfish stocks, and changes in catch selectivity, and will consider the goals and objectives of the Redfish Exemption Program and the FMP. The Council may decide, as needed, to conduct additional reviews following the review outlined in this section.
+
+(2) [Reserved]
+
 [69 FR 22975, Apr. 27, 2004]Editorial Note:For Federal Register citations affecting § 648.85, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
