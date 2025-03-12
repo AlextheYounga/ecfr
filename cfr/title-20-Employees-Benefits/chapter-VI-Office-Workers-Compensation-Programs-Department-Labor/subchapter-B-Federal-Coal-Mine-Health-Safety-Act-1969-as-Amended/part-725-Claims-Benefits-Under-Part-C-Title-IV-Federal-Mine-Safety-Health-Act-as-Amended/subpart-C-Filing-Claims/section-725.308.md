@@ -1,5 +1,7 @@
 ##### § 725.308 Time limits for filing claims. #####
 
+Link to an amendment published at 83 FR 27695, June 14, 2018.
+
 (a) A claim for benefits filed under this part by, or on behalf of, a miner shall be filed within three years after a medical determination of total disability due to pneumoconiosis which has been communicated to the miner or a person responsible for the care of the miner, or within three years after the date of enactment of the Black Lung Benefits Reform Act of 1977, whichever is later. There is no time limit on the filing of a claim by the survivor of a miner.
 
 (b) A miner who is receiving benefits under part B of title IV of the Act and who is notified by HEW of the right to seek medical benefits may file a claim for medical benefits under part C of title IV of the Act and this part. The Secretary of Health, Education, and Welfare is required to notify each miner receiving benefits under part B of this right. Notwithstanding the provisions of paragraph (a) of this section, a miner notified of his or her rights under this paragraph may file a claim under this part on or before December 31, 1980. Any claim filed after that date shall be untimely unless the time for filing has been enlarged for good cause shown.

@@ -1,5 +1,7 @@
 ##### § 1216.51 Assessments. #####
 
+Link to an amendment published at 83 FR 27686, June 14, 2018.
+
 (a) The funds necessary to pay for programs and other costs authorized by this part shall be acquired by the levying of assessments upon producers in a manner prescribed by the Secretary.
 
 (b) Each first handler, at such times and in such manner as prescribed by the Secretary, shall collect from each producer or first purchaser/handler and pay assessments to the Board on all peanuts handled, including peanuts produced by the first handler, no later than 60 days after the last day of the month in which the peanuts were marketed.

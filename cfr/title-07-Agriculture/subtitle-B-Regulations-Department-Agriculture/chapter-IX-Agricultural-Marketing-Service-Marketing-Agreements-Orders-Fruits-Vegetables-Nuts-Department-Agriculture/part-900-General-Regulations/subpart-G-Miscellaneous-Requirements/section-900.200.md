@@ -12,7 +12,7 @@ As used in this subpart, the terms as defined in the Act shall apply with equal 
 
 (e) The term *Administrator* means the Administrator of the Agricultural Marketing Service, with power to redelegate, or any officer or employee of the Department to whom authority has been delegated or may hereafter be delegated to act in his stead.
 
-(f) [Reserved]
+(f) The term *mail* means to transmit either electronically or through a postal or other delivery system, information or a package (*e.g.,* letter or envelope) to a recipient.
 
 (g) The term Federal Register means the publication provided for by the Act of July 26, 1935 (49 Stat. 500), and Acts supplementary thereto and amendatory thereof;
 
@@ -26,4 +26,4 @@ As used in this subpart, the terms as defined in the Act shall apply with equal 
 
 (l) The term *information* means and includes reports, books, accounts, records, and the facts and information contained therein and required to be furnished to or acquired by any official pursuant to the provisions of any marketing agreement or marketing order.
 
-[25 FR 5907, June 28, 1960, as amended at 26 FR 7796, Aug. 22, 1961; 28 FR 579, Jan. 23, 1963; 37 FR 8059, Apr. 25, 1972]
+[25 FR 5907, June 28, 1960, as amended at 26 FR 7796, Aug. 22, 1961; 28 FR 579, Jan. 23, 1963; 37 FR 8059, Apr. 25, 1972; 83 FR 27682, June 14, 2018]
