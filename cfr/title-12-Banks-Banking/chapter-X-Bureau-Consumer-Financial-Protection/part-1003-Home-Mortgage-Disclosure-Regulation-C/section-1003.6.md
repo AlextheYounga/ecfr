@@ -1,6 +1,6 @@
 ##### § 1003.6 Enforcement. #####
 
-Link to an amendment published at 80 FR 66313, Oct. 28, 2015.
+Link to an amendment published at 80 FR 66313, Oct. 28, 2015.Link to an amendment published at 82 FR 43145, Sept. 13, 2017.Link to an amendment published at 82 FR 43146, Sept. 13, 2017.
 
 (a) *Administrative enforcement.* A violation of the Act or this part is subject to administrative sanctions as provided in section 305 of the Act, including the imposition of civil money penalties, where applicable. Compliance is enforced by the agencies listed in section 305 of the Act (12 U.S.C. 2804).
 

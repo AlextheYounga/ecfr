@@ -30,7 +30,7 @@ Example.(i) X and Y Corporations are organized on January 1, 1954, and make thei
 
 (ii) The capital loss carryovers of X Corporation which are available to Y Corporation as of the close of July 4, 1957, amount to $48,000 in the aggregate; but only $18,000 ($36,500 × 180/365) of such amount may be treated as short-term capital losses of Y Corporation for 1957.
 
-(d) *Computation of carryovers; general rule* - (1) *Sequence for applying losses and determination of capital gain net income.* Section 1212 provides that a net capital loss sustained in any taxable year (hereinafter referred to as the “loss year”) shall be carried over to each of the five succeeding taxable years and treated in each of such succeeding years as a short-term capital loss to the extent not allowed as a deduction against any capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of any taxable years intervening between the loss year and the taxable year to which such loss is carried. For this purpose, the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of any intervening taxable year is determined without regard to the net capital loss for the loss year or for any taxable year thereafter, and the various capital loss carryovers from taxable years preceding the loss year to any such intervening taxable year are considered to be applied in reduction of the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) for such year in the order of the taxable years in which the losses were sustained, beginning with the loss for the earliest preceding taxable year. The application of these rules to the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of the acquiring corporation for any taxable year ending after the date of distribution or transfer involves the use of carryovers of the distributor or transferor corporation and of the acquiring corporation. In determining the order in which the capital loss carryovers of the distributor or transferor and acquiring corporations from taxable years ending on or before the date of distribution or transfer are considered to be applied in reduction of the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of the acquiring corporation for any intervening taxable year ending after such date, the following rules shall apply:
+(d) *Computation of carryovers; general rule*—(1) *Sequence for applying losses and determination of capital gain net income.* Section 1212 provides that a net capital loss sustained in any taxable year (hereinafter referred to as the “loss year”) shall be carried over to each of the five succeeding taxable years and treated in each of such succeeding years as a short-term capital loss to the extent not allowed as a deduction against any capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of any taxable years intervening between the loss year and the taxable year to which such loss is carried. For this purpose, the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of any intervening taxable year is determined without regard to the net capital loss for the loss year or for any taxable year thereafter, and the various capital loss carryovers from taxable years preceding the loss year to any such intervening taxable year are considered to be applied in reduction of the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) for such year in the order of the taxable years in which the losses were sustained, beginning with the loss for the earliest preceding taxable year. The application of these rules to the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of the acquiring corporation for any taxable year ending after the date of distribution or transfer involves the use of carryovers of the distributor or transferor corporation and of the acquiring corporation. In determining the order in which the capital loss carryovers of the distributor or transferor and acquiring corporations from taxable years ending on or before the date of distribution or transfer are considered to be applied in reduction of the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of the acquiring corporation for any intervening taxable year ending after such date, the following rules shall apply:
 
 (i) Each taxable year of the distributor or transferor and acquiring corporations which, with respect to the first taxable year of the acquiring corporation ending after the date of distribution or transfer, constitutes a first preceding taxable year, shall be treated as if each such year ended on the same day, whether or not such taxable years actually end on the same day. In like manner, each taxable year of the distributor or transferor and acquiring corporations which, with respect to such first taxable year of the acquiring corporation ending after the date of distribution or transfer, constitutes a second preceding taxable year, shall be treated as if each such year ended on the same day (whether or not such taxable years actually end on the same day), and a similar rule shall be applied with respect to those taxable years of the distributor or transferor and acquiring corporations which constitute third, fourth, and fifth preceding taxable years;
 
@@ -66,14 +66,14 @@ Example.X and Y Corporations are organized on January 1, 1955, and make their re
 The sequence in which the net capital losses of X and Y Corporations are applied, and the computation of the capital loss carryovers to Y Corporation's taxable year 1959, may be illustrated as follows. (For purposes of this example, the carryover from a preceding taxable year of the transferor corporation will be applied before the carryover from the same preceding taxable year of the acquiring corporation):(i) *X Corporation's 1955 loss.* The carryover to 1959 is $0, computed as follows:
 
 |                                    Net capital loss                                    |$20,000|
-|:---------------------------------------------------------------------------------------|------:|
+|----------------------------------------------------------------------------------------|-------|
 |Less: Y's 1957 net capital gain (computed without regard to any capital loss carryovers)|25,000 |
 |                             Carryover to Y 1958 and Y 1959                             |   0   |
 
-(ii)*Y Corporation's 1955 loss.* The carryover to 1959 is $0, computed as follows:
+(ii) *Y Corporation's 1955 loss.* The carryover to 1959 is $0, computed as follows:
 
 |                                 Net capital loss                                 |$2,000 |     |
-|:---------------------------------------------------------------------------------|------:|-----|
+|----------------------------------------------------------------------------------|-------|-----|
 |                                      Less:                                       |       |     |
 |Y's 1957 net capital gain (computed without regard to any capital loss carryovers)|$25,000|     |
 | Minus capital loss carryovers to Y 1957 (i.e., carryover of $20,000 from X 1955) |20,000 |     |
@@ -83,7 +83,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 (iii) *X Corporation's 1956 loss.* The carryover to 1959 is $0, computed as follows:
 
 |                                            Net capital loss                                            |$10,000|      |
-|:-------------------------------------------------------------------------------------------------------|------:|------|
+|--------------------------------------------------------------------------------------------------------|-------|------|
 |                                                 Less:                                                  |       |      |
 |           Y's 1957 net capital gain (computed without regard to any capital loss carryovers)           |$25,000|      |
 |Minus capital loss carryovers to Y 1957 (i.e., carryovers of $20,000 from X 1955 and $2,000 from Y 1955)|22,000 |      |
@@ -98,7 +98,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 (iv) *Y Corporation's 1956 loss.* The carryover to 1959 is $5,000, computed as follows:
 
 |                                                       Net capital loss                                                       |$8,000 |     |
-|:-----------------------------------------------------------------------------------------------------------------------------|------:|-----|
+|------------------------------------------------------------------------------------------------------------------------------|-------|-----|
 |                                                            Less:                                                             |       |     |
 |                      Y's 1957 net capital gain (computed without regard to any capital loss carryovers)                      |$25,000|     |
 |Minus capital loss carryovers to Y 1957 (i.e., carryovers of $20,000 from X 1955, $2,000 from Y 1955, and $10,000 from X 1956)|32,000 |     |
@@ -110,7 +110,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 |                                                                                                                              |       |3,000|
 |                                                     Carryover to Y 1959                                                      | 5,000 |     |
 
-(e) *Computation of carryovers when date of distribution or transfer is not on last day of acquiring corporation's taxable year* - (1) *General rule.* If, in determining under paragraph (d) of this section the portion of a net capital loss for any taxable year which is carried over to a succeeding taxable year, an intervening taxable year is a taxable year of the acquiring corporation which includes, but does not end on, the date of distribution or transfer, the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of such intervening year shall be determined by applying section 1212 in the special manner provided by this paragraph.
+(e) *Computation of carryovers when date of distribution or transfer is not on last day of acquiring corporation's taxable year*—(1) *General rule.* If, in determining under paragraph (d) of this section the portion of a net capital loss for any taxable year which is carried over to a succeeding taxable year, an intervening taxable year is a taxable year of the acquiring corporation which includes, but does not end on, the date of distribution or transfer, the capital gain net income (net capital gain for taxable years beginning before January 1, 1977) of such intervening year shall be determined by applying section 1212 in the special manner provided by this paragraph.
 
 (2) *Taxable year considered as two taxable years.* Such intervening taxable year of the acquiring corporation shall be considered as though it were two taxable years, but only for the limited purpose of computing capital loss carryovers to subsequent taxable years. The first of such two taxable years shall be referred to in this paragraph as the preacquisition part year; the second, as the postacquisition part year. Though considered as two separate taxable years for purposes of this paragraph, the preacquisition part year and the postacquisition part year are treated as one taxable year in determining the years to which a net capital loss is carried under section 1212. See paragraph (d)(3) of this section.
 
@@ -149,7 +149,7 @@ The following table shows those taxable years of the transferor and acquiring co
 The sequence in which the net capital losses of X and Y Corporations are applied, and the computation of the capital loss carryovers to Y Corporation's calendar year 1963, may be illustrated as follows. (For purposes of this example, the carryover from a preceding taxable year of the acquiring corporation will be applied before the carryover from the same preceding taxable year of the transferor corporation):(i) *X Corporation's 3/31/60 loss.* The carryover to 1963 is $0, computed as follows:
 
 |                                                     Net capital loss                                                     |$19,000|
-|:-------------------------------------------------------------------------------------------------------------------------|------:|
+|--------------------------------------------------------------------------------------------------------------------------|-------|
 |Less: Y's postacquisition part year net capital gain computed under subparagraph (5) of this paragraph ($36,500 × 184/365)|18,400 |
 |                                                   Carryover to Y 1962                                                    |  600  |
 |                 Less: Y's 1962 net capital gain (computed without regard to any capital loss carryovers)                 |12,000 |
@@ -158,7 +158,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 (ii) *Y Corporation's 1959 loss.* The carryover to 1963 is $0, computed as follows:
 
 |                                                    Net capital loss                                                     |$24,000|      |
-|:------------------------------------------------------------------------------------------------------------------------|------:|------|
+|-------------------------------------------------------------------------------------------------------------------------|-------|------|
 |Less: Y's preacquisition part year net capital gain computed under subparagraph (5) of this paragraph ($36,500 × 181/365)|18,100 |      |
 |                                       Carryover to Y's postacquisition part year                                        | 5,900 |      |
 |                                                          Less:                                                          |       |      |
@@ -173,7 +173,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 (iii) *X Corporation's 3/31/61 loss.* The carryover to 1963 is $0, computed as follows:
 
 |                                                       Net capital loss                                                       |$5,000 |     |
-|:-----------------------------------------------------------------------------------------------------------------------------|------:|-----|
+|------------------------------------------------------------------------------------------------------------------------------|-------|-----|
 |                                                            Less:                                                             |       |     |
 |               Y's postacquisition part year net capital gain computed under subparagraph (5) of this paragraph               |$18,400|     |
 |Minus capital loss carryovers to postacquisition part year (i.e., carryovers of $19,000 from X 3/31/60 and $5,900 from Y 1959)|24,900 |     |
@@ -188,7 +188,7 @@ The sequence in which the net capital losses of X and Y Corporations are applied
 (iv) *Y Corporation's 1960 loss.* The carryover to 1963 is $5,500, computed as follows:
 
 |                                                                   Net capital loss                                                                   |$6,000 |    |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------:|----|
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----|
 |                                                                        Less:                                                                         |       |    |
 |                           Y's preacquisition part year net capital gain computed under subparagraph (5) of this paragraph                            |$18,100|    |
 |                          Minus capital loss carryovers to preacquisition part year (i.e., carryover of $24,000 from Y 1959)                          |24,000 |    |

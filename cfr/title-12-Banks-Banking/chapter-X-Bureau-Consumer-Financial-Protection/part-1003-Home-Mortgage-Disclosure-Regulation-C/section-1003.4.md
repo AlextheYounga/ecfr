@@ -1,6 +1,6 @@
 ##### § 1003.4 Compilation of loan data. #####
 
-Link to an amendment published at 80 FR 66310, Oct. 28, 2015.
+Link to an amendment published at 80 FR 66310, Oct. 28, 2015.Link to an amendment published at 82 FR 43132, Sept. 13, 2017.
 
 (a) *Data format and itemization.* A financial institution shall collect data regarding applications for, and originations and purchases of, home purchase loans, home improvement loans, and refinancings for each calendar year. An institution is required to collect data regarding requests under a preapproval program (as defined in § 1003.2) only if the preapproval request is denied or results in the origination of a home purchase loan. All reportable transactions shall be recorded, within thirty calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a loan, or denial or withdrawal of an application), on a register in the format prescribed in appendix A of this part. The data recorded shall include the following items:
 

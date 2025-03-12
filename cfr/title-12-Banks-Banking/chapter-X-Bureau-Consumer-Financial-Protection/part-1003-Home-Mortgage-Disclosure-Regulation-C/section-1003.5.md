@@ -1,6 +1,6 @@
 ##### § 1003.5 Disclosure and reporting. #####
 
-Link to an amendment published at 80 FR 66312, Oct. 28, 2015.Link to an amendment published at 80 FR 63312, Oct. 28, 2015.Link to an amendment published at 80 FR 63313, Oct. 28, 2015.
+Link to an amendment published at 80 FR 66312, Oct. 28, 2015.Link to an amendment published at 80 FR 63312, Oct. 28, 2015.Link to an amendment published at 80 FR 63313, Oct. 28, 2015.Link to an amendment published at 82 FR 43145, Sept. 13, 2017.
 
 (a) *Reporting to agency.* (1) By March 1 following the calendar year for which the loan data are compiled, a financial institution shall send its complete loan/application register to the agency office specified in appendix A of this part. The institution shall retain a copy for its records for at least three years.
 
