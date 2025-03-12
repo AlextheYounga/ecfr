@@ -14,7 +14,7 @@
 
 (2) The expiration date for the liquid Type B feed is 8 weeks after date of manufacture. The expiration date for the dry Type C feed made from the liquid Type B feed is 1 week after date of manufacture.
 
-(e) *Conditions of use* - (1) *Chickens.* Use in medicated feed as follows:
+(e) *Conditions of use*—(1) *Chickens.* Use in medicated feed as follows:
 
 |Bambermycins in grams/ton|                              Indications for use                               |            Limitations             |Sponsor|
 |-------------------------|--------------------------------------------------------------------------------|------------------------------------|-------|
@@ -37,10 +37,10 @@
 
 (4) *Cattle.*
 
-|Bambermycins in grams/ton|                                                       Indications for use                                                       |                                                                  Limitations                                                                  |Sponsor|
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|
-|       (i) 1 to 4        |             Cattle fed in confinement for slaughter: For increased rate of weight gain and improved feed efficiency             |                                      Feed continuously at a rate of 10 to 20 milligrams per head per day                                      |016592.|
-|      (ii) 2 to 80       |Pasture cattle (slaughter, stocker, and feeder cattle, and dairy and beef replacement heifers): For increased rate of weight gain|Feed continuously on a hand-fed basis at a rate of 10 to 40 milligrams per head per day in 1 to 10 pounds of supplemental Type C medicated feed|016592.|
+|Bambermycins in grams/ton|                                                                       Indications for use                                                                       |                                                                  Limitations                                                                  |Sponsor|
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|       (i) 1 to 4        |                Growing beef steers and heifers fed in confinement for slaughter: For increased rate of weight gain and improved feed efficiency                 |                                      Feed continuously at a rate of 10 to 20 milligrams per head per day                                      |016592.|
+|      (ii) 2 to 80       |Growing beef steers and heifers on pasture (stocker, feeder, and slaughter), and replacement beef and dairy heifers on pasture: For increased rate of weight gain|Feed continuously on a hand-fed basis at a rate of 10 to 40 milligrams per head per day in 1 to 10 pounds of supplemental Type C medicated feed|016592.|
 
 (iii) Used as a free-choice Type C medicated loose-mineral feed for pasture cattle (slaughter, stocker, and feeder cattle; and beef replacement heifers) as follows:
 

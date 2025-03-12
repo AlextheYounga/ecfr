@@ -1,8 +1,6 @@
 ##### § 160.135-7 Design, construction, and performance of lifeboats. #####
 
-Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
-
-(a) To seek Coast Guard approval of a lifeboat, a manufacturer must comply with, and each lifeboat must meet, the requirements of the following -
+(a) To seek Coast Guard approval of a lifeboat, a manufacturer must comply with, and each lifeboat must meet, the requirements of the following—
 
 (1) IMO LSA Code, Chapter IV (incorporated by reference, see § 160.135-5 of this subpart) applicable to the type of lifeboat;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (2) *Visibility from operator's station.* (i) The operator's station must be designed such that the operator, when seated at the control station, has visibility 360 degrees around the lifeboat, with any areas obstructed by the lifeboat structure or its fittings visible by moving the operator's head and torso.
 
-(ii) The operator, while still being able to steer and control the speed of the lifeboat, must be able to see the water -
+(ii) The operator, while still being able to steer and control the speed of the lifeboat, must be able to see the water—
 
 (A) Over a 90 degree arc within 3 m (9 ft, 10 in) of each side of the lifeboat;
 
@@ -54,7 +52,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (6) *Engines.* (i) In order to be accepted by the Commandant, any compression ignition engine fitted to an approved lifeboat must meet the U.S. Environmental Protection Agency emission requirements in 40 CFR part 89, part 94, or part 1042, as applicable, and have reports containing the same information as recommended by MSC Circ. 980 (incorporated by reference, see § 160.135-5 of this subpart) certified and witnessed by a U.S. Coast Guard inspector or an independent laboratory.
 
-(ii) A hydraulic system, if used to start the engine, must be in accordance with 46 CFR part 58, subpart 58.30, with hose and fittings in accordance with 46 CFR part 56, subpart 56.60, except that -
+(ii) A hydraulic system, if used to start the engine, must be in accordance with 46 CFR part 58, subpart 58.30, with hose and fittings in accordance with 46 CFR part 56, subpart 56.60, except that—
 
 (A) Push-on type fittings such as Aeroquip 1525-X, 25156-X, and FC332-X are not permitted; and
 
@@ -64,7 +62,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (7) *Fuel system.* (i) The fuel system must meet 46 CFR 56.50-75(b) and, except as specified in this paragraph, the fuel tank must meet 46 CFR 58.50-10.
 
-(ii) Tanks constructed with -
+(ii) Tanks constructed with—
 
 (A) *Aluminum* must be at least 5 mm (0.20 in) thick of ASTM B 209 or 5086 alloy;
 
@@ -98,7 +96,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (iii) Each control, gauge, or display must be identified by a marking posted on, above, or adjacent to the respective item. Each control must operate in a logical manner and be marked with an arrow to show direction of movement of control which will cause an increased response. Each gauge must be marked with the normal operating range and indicate danger or abnormal conditions. Each marking must be permanent and weatherproof.
 
-(iv) Gauges, and audio and visual alarms must be provided to monitor at least the following parameters -
+(iv) Gauges, and audio and visual alarms must be provided to monitor at least the following parameters—
 
 (A) Coolant temperature, for a liquid cooled engine;
 
@@ -134,7 +132,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (22) *Oars.* Oars are not required on a lifeboat with more than one engine, provided one engine can be operated while the other is disabled.
 
-(23) *Bilge pump.* Each lifeboat that is not automatically self-bailing, must be fitted with a manual bilge pump approved under 46 CFR part 160, subpart 160.044. Each such lifeboat with a capacity of 100 persons or more must carry an additional approved manual bilge pump or an engine-powered bilge pump.
+(23) *Bilge pump.* Each lifeboat that is not automatically self-bailing must be fitted with a manual bilge pump that meets the requirements in 46 CFR 199.175(b)(2). Each such lifeboat with a capacity of 100 persons or more must carry an additional manual bilge pump or an engine-powered bilge pump.
 
 (24) *Exterior color.* The primary color of the exterior of the canopy and interior of partially enclosed lifeboats visible from the air must be a highly visible color equivalent to vivid reddish orange color number 12197 of FED-STD-595C (incorporated by reference, see § 160.135-5 of this subpart), or a durable fluorescent color of a similar hue.
 
@@ -149,3 +147,5 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 (29) *Labels and notices.* Any labels, caution and danger notices, and operating, maintenance, or general instructions, must be in accordance with ASTM F 1166, Section 15, in terms of format, content, lettering size and spacing, color, and posted location. They must be illustrated with symbols in accordance with IMO Res. A.760(18) (incorporated by reference, see § 160.135-5 of this subpart), as applicable. Information and instruction plates, not specifically mentioned in this section, must not be posted in the vicinity of the control and steering station without prior approval from the Commandant. Identification label plates, if required, must be posted on or above the component or equipment to be identified.
 
 (c) Determinations of equivalence of design, construction, and materials will be made by the Commandant only.
+
+[USCG-2010-0048, 76 FR 62987, Oct. 11, 2011, as amended by USCG-2020-0107, 87 FR 68305, Nov. 14, 2022]

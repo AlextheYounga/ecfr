@@ -1,7 +1,5 @@
 ##### § 160.156-7 Design, construction and performance of rescue boats and fast rescue boats. #####
 
-Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
-
 (a) To seek Coast Guard approval of a rescue boat, including a fast rescue boat, a manufacturer must comply with, and each rescue boat must meet, the requirements of the following:
 
 (1) IMO LSA Code chapter V (incorporated by reference, see § 160.156-5 of this subpart);
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (2) *Visibility from operator's station.* (i) The operator's station must be designed such that the operator, when seated at the control station, has visibility 360 degrees around the rescue boat, with any areas obstructed by the rescue boat structure or its fittings visible by moving the operator's head and torso.
 
-(ii) The operator, while still being able to steer and control the speed of the rescue boat, must be able to see the water -
+(ii) The operator, while still being able to steer and control the speed of the rescue boat, must be able to see the water—
 
 (A) Over a 90 degree arc within 3 m (10 ft) of each side of the rescue boat;
 
@@ -58,7 +56,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (7) *Engines.* (i) In order to be accepted by the Commandant, any spark ignition engine fitted to an approved rescue boat must meet the U.S. Environmental Protection Agency emission requirements in 40 CFR part 91 or part 1045, as applicable, or for a compression ignition engine the requirements in 40 CFR part 89, part 94, or part 1042, as applicable, and have reports containing the same information as recommended by MSC Circ. 980 (incorporated by reference, see § 160.156-5 of this subpart) certified and witnessed by a U.S. Coast Guard inspector or an independent laboratory.
 
-(ii) A hydraulic system, if used to start the engine, must be in accordance with 46 CFR part 58, subpart 58.30, with hose and fittings in accordance with 46 CFR part 56, subpart 56.60 except that -
+(ii) A hydraulic system, if used to start the engine, must be in accordance with 46 CFR part 58, subpart 58.30, with hose and fittings in accordance with 46 CFR part 56, subpart 56.60 except that—
 
 (A) Push-on type fittings such as Aeroquip 1525-X, 25156-X, and FC332-X are not permitted; and
 
@@ -74,7 +72,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (B) Portable fuel systems for outboard engines must meet UL 1185 (incorporated by reference, see § 160.156-5 of this subpart) or equivalent, except that hoses must be Coast Guard Type A per SAE J1527 (incorporated by reference, see § 160.156-5 of this subpart), and hose clamps, primers, filters, and strainers must be successfully tested in accordance with 33 CFR 183.590. Anti-siphon devices must be provided in the fuel system to prevent fuel spillage when the hose is disconnected. Arrangements must be provided to secure the fuel tank in its normal operating position on the rescue boat.
 
-(C) Fuel systems for outboard engines using non-integral, permanently installed fuel tanks must meet the requirements of 33 CFR part 183, subpart J - Fuel Systems. UL 1102 (incorporated by reference, see § 160.156-5 of this subpart) meets these requirements for fuel tanks.
+(C) Fuel systems for outboard engines using non-integral, permanently installed fuel tanks must meet the requirements of 33 CFR part 183, subpart J—Fuel Systems. UL 1102 (incorporated by reference, see § 160.156-5 of this subpart) meets these requirements for fuel tanks.
 
 (9) *Starting system batteries.* Each battery fitted in a totally enclosed rescue boat must be stored in a sealed compartment with exterior venting. If the rescue boat has more than one engine, then only one starting battery is required per engine.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (iii) Each control, gauge, or display must be identified by a marking posted on, above, or adjacent to the respective item. Each control must operate in a logical manner and be marked with an arrow to show direction of movement of control which will cause an increased response. Each gauge must be marked with the normal operating range and indicate danger or abnormal conditions. Each marking must be permanent and weatherproof.
 
-(iv) Gauges, and audio and visual alarms, must be provided to monitor at least the following parameters on inboard engines -
+(iv) Gauges, and audio and visual alarms, must be provided to monitor at least the following parameters on inboard engines—
 
 (A) Coolant temperature, for a liquid cooled engine;
 
@@ -118,7 +116,7 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (21) *Manually controlled interior light.* Any interior light must be approved by the Commandant under approval series 161.101.
 
-(22) *Manual bilge pump.* Each rescue boat that is not automatically self-bailing must be fitted with a manual bilge pump approved under 46 CFR part 160, subpart 160.044, or an engine-powered bilge pump.
+(22) *Manual bilge pump.* Each rescue boat that is not automatically self-bailing must be fitted with a manual bilge pump that meets the requirements in 46 CFR 199.175(b)(2), or an engine-powered bilge pump.
 
 (23) *Labels and notices.* Any labels, caution and danger notices, and any operating, maintenance, or general instructions, must be in accordance with ASTM F 1166, Section 15, in terms of format, content, lettering size and spacing, color, and posted location. They must be illustrated with symbols in accordance with IMO Res. A.760(18) (incorporated by reference, see § 160.156-5 of this subpart), as applicable. Information and instruction plates, not specifically mentioned in this section, must not be posted in the vicinity of the control and steering station without prior approval from the Commandant. Identification label plates, if required, must be posted on or above the component or equipment to be identified.
 
@@ -134,4 +132,4 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (c) Determinations of equivalence of design, construction, and materials will be made by the Commandant only.
 
-[USCG-2010-0048, 76 FR 62999, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014]
+[USCG-2010-0048, 76 FR 62999, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2020-0107, 87 FR 68305, Nov. 14, 2022]

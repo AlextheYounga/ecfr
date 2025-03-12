@@ -1,20 +1,18 @@
 ##### § 169.115 Incorporation by reference. #####
 
-Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
-
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the U.S. Coast Guard, Office of Design and Engineering Standards (CG-ENG), 2703 Martin Luther King Jr. Avenue, SE. Stop 7509, Washington, DC 20593-7509, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; email: *typeapproval@uscg.mil;* website: *www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov;* website: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the source(s) in the following paragraph(s) of this section.
 
 (b) American Boat and Yacht Council (ABYC), 613 Third St, Suite 10, Annapolis, MD 21403, 410-990-4460, *http://www.abycinc.org*.
 
-(1) A-1-78, Marine LPG - Liquefied Petroleum Gas Systems, IBR approved for § 169.703(c).
+(1) A-1-78, Marine LPG—Liquefied Petroleum Gas Systems, IBR approved for § 169.703(c).
 
 (2) A-3-70, Recommended Practices and Standards Covering Galley Stoves, IBR approved for § 169.703(a).
 
-(3) A-22-78, Marine CNG - Compressed Natural Gas Systems, IBR approved for § 169.703(c).
+(3) A-22-78, Marine CNG—Compressed Natural Gas Systems, IBR approved for § 169.703(c).
 
-(4) H-2.5, Ventilation of Boats Using Gasoline - Design and Construction, 1981, IBR approved for § 169.629.
+(4) H-2.5, Ventilation of Boats Using Gasoline—Design and Construction, 1981, IBR approved for § 169.629.
 
-(5) H-24.9 (g) and (h) - “Fuel Strainers and Fuel Filters” (1975), IBR approved for § 169.629.
+(5) H-24.9 (g) and (h)—“Fuel Strainers and Fuel Filters” (1975), IBR approved for § 169.629.
 
 (6) P-1-73, Safe Installation of Exhaust Systems for Propulsion and Auxiliary Engines, 1973, IBR approved for § 169.609.
 
@@ -34,9 +32,9 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (4) NFPA 306, Control of Gas Hazards on Vessels, 1980, IBR approved for § 169.236(a).
 
-(e) NIST, 100 Bureau Drive, Stop 1070, Gaithersburg, MD 20899, 301-975-6478, *http://nist.gov*.
+(e) The Textile Color Card Association of the United States, Inc. 200 Madison Avenue, New York. (For availability of this material, contact the Coast Guard—see paragraph (a) of this section.)
 
-(1) Special Pub. 440 (SD Cat. No. C13.10:490), “Color: Universal Language and Dictionary of Names”, 1976.
+(1) Cable No. 70072, Standard Color Card of America, Ninth edition, 1941 for § 169.529(b).
 
 (2) [Reserved]
 
@@ -46,4 +44,4 @@ Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
 
 (2) [Reserved]
 
-[USCG-2012-0196, 81 FR 48294, July 22, 2016]
+[USCG-2012-0196, 81 FR 48294, July 22, 2016, as amended by USCG-2020-0107, 87 FR 68305, Nov. 14, 2022]

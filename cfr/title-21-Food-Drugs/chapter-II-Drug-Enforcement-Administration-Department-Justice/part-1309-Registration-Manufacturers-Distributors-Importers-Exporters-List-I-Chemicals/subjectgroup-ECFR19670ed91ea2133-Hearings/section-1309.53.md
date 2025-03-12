@@ -1,13 +1,21 @@
-##### § 1309.53 Request for hearing or appearance; waiver. #####
-
-Link to an amendment published at 87 FR 68045, Nov. 14, 2022.Link to a correction published at 87 FR 73246, Nov. 29, 2022.
+##### § 1309.53 Request for hearing or appearance; waiver; default. #####
 
 (a) Any person entitled to a hearing pursuant to §§ 1309.42 and 1309.43 and desiring a hearing shall, within 30 days after the date of receipt of the order to show cause, file with the Administrator a written request for a hearing in the form prescribed in § 1316.47 of this chapter.
 
-(b) Any person entitled to a hearing pursuant to §§ 1309.42 and 1309.43 may, within the period permitted for filing a request for a hearing, file with the Administrator a waiver of an opportunity for a hearing, together with a written statement regarding his position on the matters of fact and law involved in such hearing. Such statement, if admissible, shall be made a part of the record and shall be considered in light of the lack of opportunity for cross-examination in determining the weight to be attached to matters of fact asserted therein.
+(b)(1) Any person entitled to a hearing pursuant to § 1309.42 or 1309.43 who fails to file a timely request for a hearing, shall be deemed to have waived their right to a hearing and to be in default, unless the registrant/applicant establishes good cause for failing to file a timely hearing request. Any person who has failed to timely request a hearing under paragraph (a) may seek to be excused from the default by filing a motion with the Office of Administrative Law Judges establishing good cause to excuse the default no later than 45 days after the date of receipt of the order to show cause. Thereafter, any person who has failed to timely request a hearing under paragraph (a) and seeks to be excused from the default, shall file such motion with the Office of the Administrator, which shall have exclusive authority to rule on the motion.
 
-(c) If any person entitled to a hearing pursuant to §§ 1309.42 and 1309.43 fails to file a request for a hearing, or if he so files and fails to appear at the hearing, he shall be deemed to have waived his opportunity for the hearing, unless he shows good cause for such failure.
+(2) Any person who has requested a hearing pursuant to this section but who fails to timely file an answer and who fails to demonstrate good cause for failing to timely file an answer, shall be deemed to have waived their right to a hearing and to be in default. Upon motion of DEA, the presiding officer shall then enter an order terminating the proceeding.
 
-(d) If any person entitled to a hearing waives or is deemed to waive his or her opportunity for the hearing, the Administrator may cancel the hearing, if scheduled, and issue his final order pursuant to § 1309.57 without a hearing.
+(3) In the event DEA fails to prosecute or a person who has requested a hearing fails to plead (including by failing to file an answer) or otherwise defend, said party shall be deemed to be in default and the opposing party may move to terminate the proceeding. Upon such motion, the presiding officer shall then enter an order terminating the proceeding, absent a showing of good cause by the party deemed to be in default. Upon termination of the proceeding by the presiding officer, a party may seek relief only by filing a motion establishing good cause to excuse its default with the Office of the Administrator.
 
-[60 FR 32454, June 22, 1995. Redesignated at 62 FR 13968, Mar. 24, 1997]
+(c) If any person entitled to participate in a hearing pursuant to this section fails to file a notice of appearance either as part of a hearing request or separately, or if such person so files and fails to appear at the hearing, such person shall be deemed to have waived their opportunity to participate in the hearing, unless such person shows good cause for such failure.
+
+(d) A default, unless excused, shall be deemed to constitute a waiver of the applicant's/registrant's right to a hearing and an admission of the factual allegations of the order to show cause.
+
+(e)(1) In the event that a registrant/applicant is deemed to be in default pursuant to paragraph (b)(1) of this section and has not established good cause to be excused from the default, or the presiding officer has issued an order termination the proceeding pursuant to paragraphs (b)(2) or (b)(3) of this section, DEA may then file a request for final agency action with the Administrator, along with a record to support its request. In such circumstances, the Administrator may enter a default final order pursuant to § 1316.67 of this chapter.
+
+(2) In the event that DEA is deemed to be in default and the presiding officer has issued an order terminating the proceeding pursuant to paragraph (b)(3) of this section, the presiding officer shall transmit the record to the Administrator for his consideration no later than five business days after the date of issuance of the order. Upon termination of the proceeding by the presiding officer, DEA may seek relief only by filing a motion with the Office of the Administrator establishing good cause to excuse its default.
+
+(3) A party held to be in default may move to set aside a default final order issued by the Administrator by filing a motion no later than 30 days from the date of issuance by the Administrator of a default final order. Any such motion shall be granted only upon a showing of good cause to excuse the default.
+
+[60 FR 32454, June 22, 1995. Redesignated at 62 FR 13968, Mar. 24, 1997; 87 FR 68045, Nov. 14, 2022]

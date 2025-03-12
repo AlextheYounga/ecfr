@@ -40,7 +40,7 @@
 
 (iii) Not for use in lactating dairy cattle. Discontinue treatment at least 19 days prior to slaughter. When administered intramuscularly within 30 days of slaughter, muscle discoloration may necessitate trimming of the injection site and surrounding tissues.
 
-(e)(1) *Specifications.* The drug contains 50 milligrams of oxytetracycline hydrochloride in each milliliter of sterile solution.
+(e)(1) *Specifications.* Each milliliter of solution contains 50 milligrams (mg) oxytetracycline hydrochloride.
 
 (2) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
@@ -52,11 +52,15 @@
 
 (C) If the labeling of the drug bears the statement “Federal law restricts this drug to use by or on the order of a licensed veterinarian,” it may include additional directions for use in beef cattle and nonlactating dairy cattle for the treatment of anaplasmosis caused by *Anaplasma marginale,* and anthrax caused by Bacillus anthracis in which case the drug is given at 3 to 5 milligrams of oxytetracycline per pound of body weight per day for anthrax, and at 5 milligrams per pound of body weight per day for anaplasmosis.
 
+(D) Treatment must be discontinued at least 22 days prior to slaughter. Not for use in lactating dairy animals. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+
 (ii) In swine as follows:
 
 (A) It is used for the treatment of bacterial enteritis (scours, colibacillosis) caused by *Escherichia coli;* pneumonia caused by *Pasteurella multocida;* and leptospirosis caused by *Leptospira pomona.* Administered to sows as an aid in the control of infectious enteritis (baby pig scours, colibacillosis) in suckling pigs caused by *Escherichia coli.*
 
 (B) Administer by intramuscular injection at 3 to 5 milligrams of oxytetracycline per pound of body weight per day to swine. Administered to sows at 3 milligrams of oxytetracycline per pound of body weight approximately 8 hours before farrowing or immediately after farrowing.
+
+(C) Treatment must be discontinued at least 22 days prior to slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (iii) In poultry (broilers, turkeys, and breeding chickens) as follows:
 
@@ -66,13 +70,7 @@
 
 (C) Administered subcutaneously to turkeys 1 day to 2 weeks of age and 2 to 4 weeks of age at the same dosage as chickens; to turkeys 4 to 6 weeks of age at 50 milligrams of oxytetracycline as the undiluted product per bird; to turkeys 6 to 9 weeks of age at 100 milligrams of oxytetracycline per bird; to turkeys 9 to 12 weeks of age at 150 milligrams of oxytetracycline per bird; to turkeys 12 weeks of age and older at 200 milligrams of oxytetracycline per bird. In light turkey breeds, no more than 25 milligrams per pound of body weight is administered. For the treatment of infectious sinusitis in turkeys,1/4 to1/2 milliliter of the drug is injected directly into each swollen sinus depending upon the age of the bird and the severity of the condition. At the time that the sinuses are treated, the drug should also be administered subcutaneously to the birds according to the dosage schedule given in this paragraph (e)(3)(iii)(C). If refilling of the sinuses occurs, the treatment may be repeated in 5 to 7 days.
 
-(iv) Treatment of all diseases should be instituted early. Treatment should continue for 24 to 48 hours beyond the remission of disease symptoms, but not exceed a total of 4 consecutive days. If no improvement is noted within 24 to 48 hours, diagnosis and therapy should be reevaluated.
-
-(v) When injecting intramuscularly in adult livestock, do not inject more than 10 milliliters at any one site. The volume administered per injection site should be reduced according to age and body size so that 1 or 2 milliliters are injected in smaller animals such as small calves and young pigs. Intravenous administration is recommended in cattle when daily dosage exceeds 50 milliliters.
-
-(vi) Treatment must be discontinued at least 5 days prior to slaughter for chickens and turkeys and at least 22 days prior to slaughter for cattle and swine. When administered intramuscularly to animals within 30 days of slaughter, muscle discoloration may necessitate trimming of the injection site(s) and surrounding tissues during the dressing procedure.
-
-(vii) Not for use in lactating dairy animals. Do not administer to laying hens unless the eggs are used for hatching only.
+(D) Do not administer to laying hens unless the eggs are used for hatching only. Treatment must be discontinued at least 5 days prior to slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (f)(1) *Specifications.* Each milliliter of solution contains 100 milligrams of oxytetracycline hydrochloride.
 

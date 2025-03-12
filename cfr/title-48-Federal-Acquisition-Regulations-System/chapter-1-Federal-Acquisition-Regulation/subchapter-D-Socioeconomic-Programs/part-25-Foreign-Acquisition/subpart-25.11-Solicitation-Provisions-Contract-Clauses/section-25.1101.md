@@ -1,6 +1,6 @@
 ##### 25.1101 Acquisition of supplies. #####
 
-Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
+Link to an amendment published at 87 FR 73892, Dec. 1, 2022.Link to a correction published at 87 FR 76427, Dec. 14, 2022.
 
 The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
 

@@ -1,14 +1,12 @@
 ##### § 537.1 Applications for approval. #####
 
-Link to an amendment published at 87 FR 68048, Nov. 14, 2022.
-
 (a) For each management contract for class II gaming, the Chairman shall conduct or cause to be conducted a background investigation of:
 
-(1) Each person with management responsibility for a management contract;
+(1) All persons who have 10 percent or more or indirect financial interest in a management contract;
 
-(2) Each person who is a director of a corporation that is a party to a management contract;
+(2) All entities with 10 percent or more financial interest in a management contract; and
 
-(3) The ten (10) persons who have the greatest direct or indirect financial interest in a management contract;
+(3) Any other person or entity with a direct or indirect financial interest in a management contract otherwise designated by the Commission.
 
 (4) Any entity with a financial interest in a management contract (in the case of any tribe, a wholly owned tribal entity, national bank, or institutional investor that is federally regulated or is required to undergo a background investigation and licensure by a state or tribe pursuant to a tribal-state compact, the Chair may exercise discretion and reduce the scope of the information to be furnished and the background investigation to be conducted); and
 
@@ -92,4 +90,14 @@ A false statement knowingly and willfully provided in any of the information pur
 
 A false statement knowingly and willfully provided in any of the information pursuant to this section may be grounds for not approving the contract in which we have a financial interest, or for disapproving or voiding such contract after it is approved by the Chairman of the National Indian Gaming Commission. Also, we may be punished by fine or imprisonment (U.S. Code, title 18, section 1001).
 
-[74 FR 36937, July 27, 2009, as amended at 77 FR 47516, Aug. 9, 2012]
+(d) For any of the following entities, or individuals associated with the following entities, the Chair may, upon request or unilaterally, exercise discretion to reduce the scope of the information to be furnished and background investigation to be conducted:
+
+(1) Tribe as defined at 25 CFR 502.13;
+
+(2) Wholly owned Tribal entity;
+
+(3) National bank; or
+
+(4) Institutional investor that is federally regulated or is required to undergo a background investigation and licensure by a State or Tribe pursuant to a Tribal-State compact.
+
+[74 FR 36937, July 27, 2009, as amended at 77 FR 47516, Aug. 9, 2012; 87 FR 68048, Nov. 14, 2022]

@@ -1,7 +1,5 @@
 ##### § 516.3 Definitions. #####
 
-Link to an amendment published at 87 FR 56589, Sept. 15, 2022.
-
 (a) The definitions and interpretations contained in section 201 of the Federal Food, Drug, and Cosmetic Act (the act) (21 U.S.C. 321) apply to those terms when used in this part.
 
 (b) The following definitions of terms apply to all subparts of part 516:
@@ -62,8 +60,8 @@ Link to an amendment published at 87 FR 56589, Sept. 15, 2022.
 
 (iii) Two intended uses of a drug are not considered the same if they involve different intended species or different definable subpopulations (including “production classes”) of a species.
 
-*Small number of animals* means equal to or less than 50,000 horses; 70,000 dogs; 120,000 cats; 310,000 cattle; 1,450,000 pigs; 14,000,000 turkeys; and 72,000,000 chickens.
+*Small number of animals* means equal to or less than 50,000 horses; 80,000 dogs; 150,000 cats; 310,000 cattle; 1,450,000 pigs; 14,000,000 turkeys; and 72,000,000 chickens.
 
 *Sponsor* means the person requesting designation for a MUMS drug who must be the real party in interest of the development and the intended or actual production and sales of such drug (in this context, the sponsor may be an individual, partnership, organization, or association). Sponsor also means the person responsible for an investigation of a new animal drug (in this context, the sponsor may be an individual, partnership, corporation, or Government agency or may be a manufacturer, scientific institution, or an investigator regularly and lawfully engaged in the investigation of new animal drugs). Sponsor also means the person submitting or receiving approval for a new animal drug application (in this context, the sponsor may be an individual, partnership, organization, or association). In all contexts, the sponsor is responsible for compliance with applicable provisions of the act and regulations.
 
-[72 FR 41017, July 26, 2007, as amended at 74 FR 43050, Aug. 25, 2009; 75 FR 69588, Nov. 15, 2010]
+[72 FR 41017, July 26, 2007, as amended at 74 FR 43050, Aug. 25, 2009; 75 FR 69588, Nov. 15, 2010; 87 FR 56589, Sept. 15, 2022]

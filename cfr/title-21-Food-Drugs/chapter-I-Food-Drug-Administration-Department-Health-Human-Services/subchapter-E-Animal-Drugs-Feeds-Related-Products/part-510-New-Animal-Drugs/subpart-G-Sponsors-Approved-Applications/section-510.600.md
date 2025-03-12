@@ -15,14 +15,14 @@
 |                                                         ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115                                                         |     012286      |
 |                                                              Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503                                                              |     057561      |
 |                                                                 Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112                                                                  |     017762      |
+|                                                         Aiping Pharmaceutical, Inc., 350W Wireless Blvd., Hauppauge, NY 11788                                                          |     011788      |
 |                                                    Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045                                                    |     059399      |
 |                                                           Alexion Pharmaceuticals, Inc., 121 Seaport Blvd., Boston, MA 02210                                                           |     069334      |
 |                                                            American Regent, Inc., Animal Health Division, Shirley, NY 11967                                                            |     010797      |
 |                                                           Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                                                            |     060865      |
-|                                                     Anivive Lifesciences, Inc., 3250 Airflite Way, Suite 400, Long Beach, CA 90807                                                     |     086121      |
+|                                                          Anivive Lifesciences, Inc., 3777 Worsham Ave., Long Beach, CA 90808                                                           |     086121      |
 |                                                    Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043                                                     |     086073      |
 |                                                    AquaBounty Technologies, Inc., 2 Mill and Main Pl., Suite 395, Maynard, MA 01754                                                    |     086053      |
-|                                                        Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                                                         |     076175      |
 |                                                      Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009                                                      |     051072      |
 |                                                   Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                                                    |     086009      |
 |                                                                 B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756                                                                  |     067188      |
@@ -92,10 +92,9 @@
 |                                                                 Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                                                  |     052923      |
 |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901                                                                 |     086106      |
 |                                                                  United-AH II LLC, 322 S Main St., Sheridan, IN 46069                                                                  |     051233      |
-|                                                       Vetcare Oy, P.O. Box 26 (Liedontie 45), Mäntsälä, Uusimaa, 04601, Finland                                                        |     086155      |
 |                                                            VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                                                             |     086072      |
 |                                                      Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                                                      |     059320      |
-|                                                           Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                                                            |     017030      |
+|                                                            Vetoquinol USA, Inc., 4250 N Sylvania Ave., Fort Worth, TX 76137                                                            |     017030      |
 |                                                                  Virbac AH, Inc., PO Box 162059, Fort Worth, TX 76161                                                                  |     051311      |
 |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616                                                                   |     086113      |
 |                                                        Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                                                        |     053923      |
@@ -109,6 +108,7 @@
 |     000061      |                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                                                   |
 |     000115      |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                                                            |
 |     010797      |                                                            American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                            |
+|     011788      |                                                         Aiping Pharmaceutical, Inc., 350W Wireless Blvd., Hauppauge, NY 11788.                                                          |
 |     012286      |                                                         ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                                                         |
 |     012578      |                                                           Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                                                           |
 |     013744      |                                                        Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                                                         |
@@ -116,7 +116,7 @@
 |     015914      |                                                       Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186.                                                        |
 |     016592      |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria.                                                        |
 |     016729      |                                                        Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703.                                                         |
-|     017030      |                                                           Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137.                                                            |
+|     017030      |                                                           Vetoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137.                                                            |
 |     017033      |                                                 Dechra Veterinary Products LLC, 7015 College Blvd., Suite 525, Overland Park, KS 66211.                                                 |
 |     017135      |                                                            Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928.                                                             |
 |     017153      |                                                               Squire Laboratories, Inc., 100 Mill St., Revere, MA 02151.                                                                |
@@ -178,7 +178,6 @@
 |     069043      |Cronus Pharma Specialities India Private Ltd., Sy No-99/1, M/s GMR Hyderabad Aviation SEZ Ltd., Mamidipalli Village, Shamshabad Mandal, Ranga Reddy, Hyderabad, Telangana, 501218, India.|
 |     069254      |                                                                Pharmgate Inc., 1800 Sir Tyler Dr., Wilmington, NC 28405.                                                                |
 |     069334      |                                                           Alexion Pharmaceuticals, Inc., 121 Seaport Blvd., Boston, MA 02210.                                                           |
-|     076175      |                                                        Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                                                         |
 |     076475      |                                                            Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349.                                                             |
 |     086009      |                                                   Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France.                                                    |
 |     086039      |                                                      Mizner Bioscience LLC, 225 NE Mizner Blvd., Suite 760, Boca Raton, FL 33432.                                                       |
@@ -191,11 +190,10 @@
 |     086101      |                                                       Felix Pharmaceuticals Pvt. Ltd., 25-28 North Wall Quay, Dublin 1, Ireland.                                                        |
 |     086106      |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                                 |
 |     086113      |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616.                                                                   |
-|     086121      |                                                     Anivive Lifesciences, Inc., 3250 Airflite Way, Suite 400, Long Beach, CA 90807.                                                     |
+|     086121      |                                                          Anivive Lifesciences, Inc., 3777 Worsham Ave., Long Beach, CA 90808.                                                           |
 |     086132      |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                              |
 |     086134      |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                                |
 |     086149      |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104.                                                         |
-|     086155      |                                                       Vetcare Oy, P.O. Box 26 (Liedontie 45), Mäntsälä, Uusimaa, 04601, Finland.                                                        |
 |     099207      |                                                       Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                       |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

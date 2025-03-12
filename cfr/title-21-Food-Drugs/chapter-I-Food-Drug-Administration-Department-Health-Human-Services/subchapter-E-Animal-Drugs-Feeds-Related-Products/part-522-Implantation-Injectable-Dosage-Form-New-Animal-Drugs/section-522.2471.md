@@ -20,6 +20,6 @@
 
 (ii) *Indications for use.* For the treatment of ovine respiratory disease (ORD) associated with *Mannheimia* (*P.) haemolytica.*
 
-(iii) *Limitations.* Do not slaughter within 28 days of last treatment.
+(iii) *Limitations.* Animals intended for human consumption must not be slaughtered within 42 days of the last treatment. Not for use in lactating ewes producing milk for human consumption.
 
-[67 FR 72367, Dec. 5, 2002, as amended at 75 FR 9334, Mar. 2, 2010; 81 FR 48703, July 26, 2016]
+[67 FR 72367, Dec. 5, 2002, as amended at 75 FR 9334, Mar. 2, 2010; 81 FR 48703, July 26, 2016; 87 FR 76421, Dec. 14, 2022]

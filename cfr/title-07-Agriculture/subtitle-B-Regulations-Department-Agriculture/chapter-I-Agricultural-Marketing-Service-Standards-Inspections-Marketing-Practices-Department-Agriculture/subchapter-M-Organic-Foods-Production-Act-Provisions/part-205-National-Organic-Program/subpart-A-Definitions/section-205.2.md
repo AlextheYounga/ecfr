@@ -1,7 +1,5 @@
 ##### § 205.2 Terms defined. #####
 
-Link to an amendment published at 87 FR 68027, Nov. 14, 2022.
-
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 
 *Act.* The Organic Foods Production Act of 1990, as amended (7 U.S.C. 6501 *et seq.*).
@@ -194,6 +192,8 @@ Link to an amendment published at 87 FR 68027, Nov. 14, 2022.
 
 *Organic system plan.* A plan of management of an organic production or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning all aspects of agricultural production or handling described in the Act and the regulations in subpart C of this part.
 
+*Paper-based crop planting aid.* A material that is comprised of at least 60% cellulose-based fiber by weight, including, but not limited to, pots, seed tape, and collars that are placed in or on the soil and later incorporated into the soil, excluding biodegradable mulch film. Up to 40% of the ingredients can be nonsynthetic, other permitted synthetic ingredients in § 205.601(j), or synthetic strengthening fibers, adhesives, or resins. Contains no less than 80% biobased content as verified by a qualified third-party assessment (*e.g.,* laboratory test using ASTM D6866 or composition review by qualified personnel).
+
 *Pasture.* Land used for livestock grazing that is managed to provide feed value and maintain or improve soil, water, and vegetative resources.
 
 *Peer review panel.* A panel of individuals who have expertise in organic production and handling methods and certification procedures and who are appointed by the Administrator to assist in evaluating applicants for accreditation as certifying agents.
@@ -278,4 +278,4 @@ Link to an amendment published at 87 FR 68027, Nov. 14, 2022.
 
 *Yards/Feeding pad.* An area for feeding, exercising, and outdoor access for livestock during the non-grazing season and a high traffic area where animals may receive supplemental feeding during the grazing season.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022]
+[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022; 87 FR 68027, Nov. 14, 2022]

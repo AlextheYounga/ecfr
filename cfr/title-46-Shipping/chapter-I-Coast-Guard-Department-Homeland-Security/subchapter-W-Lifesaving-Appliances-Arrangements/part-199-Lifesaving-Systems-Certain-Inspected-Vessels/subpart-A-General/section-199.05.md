@@ -1,25 +1,39 @@
 ##### § 199.05 Incorporation by reference. #####
 
-Link to an amendment published at 87 FR 68308, Nov. 14, 2022.
+Certain material is incorporated by reference in this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509, email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email: *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the following source(s):
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register; and the material must be available to the public. All approved material is available for inspection at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. You may also contact the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All approved material is available from the sources indicated in paragraph (b) of this section.
+(a) *ASTM International (ASTM).* 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: (610) 832 9500; email *service@astm.org;* web: *www.astm.org.*
 
-(b) The material approved for incorporation by reference in this part and the sections affected are as follows:
+(1) ASTM D 93-97, Standard Test Methods for Flash-Point by Pensky-Martens Closed Cup Tester, approved July 10, 1997; IBR approved for §§ 199.261; 199.290.
 
-|                                                      American Society for Testing and Materials (ASTM)                                                       |                    |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------|
-|                                                   100 Barr Harbor Drive, West Conshohocken, PA 19428-2959                                                    |                    |
-|                                   ASTM D 93-97, Standard Test Methods for Flash Point by Pensky-Martens Closed Cup Tester                                    |  199.261; 199.290  |
-|                                      ASTM F 1003-86 (1992), Standard Specification for Searchlights on Motor Lifeboats                                       |      199.175       |
-|                                              ASTM F 1014-92, Standard Specification for Flashlights on Vessels                                               |      199.175       |
-|                                                          International Maritime Organization (IMO)                                                           |                    |
-|                                          Publications Section, 4 Albert Embankment, London, SE1 7SR, United Kingdom                                          |                    |
-|                                     MSC Circular 699, Revised Guidelines for Passenger Safety Instructions, 17 July 1995                                     |      199.217       |
-|Resolution A.520(13), Code of Practice for the Evaluation, Testing and Acceptance of Prototype Novel Life-saving Appliances and Arrangements, 17 November 1983|       199.40       |
-|                                      Resolution A.657(16), Instructions for Action in Survival Craft, 19 November 1989                                       |      199.175       |
-|                       Resolution A.658(16), Use and Fitting of Retro-reflective Materials on Life-saving Appliances, 20 November 1989                        |  199.70; 199.176   |
-|                              Resolution A.760(18), Symbols Related to Life-saving Appliances and Arrangements, 17 November 1993                              |199.70;  <br/>199.90|
-|          Resolution MSC.4(48), International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code), 1994          |  199.30; 199.280   |
-|           Resolution MSC.5(48), International Code for the Construction and Equipment of Ships carrying Liquefied Gases in Bulk, (IGC Code), 1993            |  199.30; 199.280   |
+(2) ASTM F1003-02 (Reapproved 2007), Standard Specification for Searchlights on Motor Lifeboats, approved May 1, 2007; IBR approved for § 199.175.
 
-[CGD 84-069, 61 FR 25313, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended by CGD 96-041, 61 FR 50735, Sept. 27, 1996; CGD 97-057, 62 FR 51051, Sept. 30, 1997; USCG-1999-6216, 64 FR 53229, Oct. 1, 1999; USCG-1999-5151, 64 FR 67187, Dec. 1, 1999; 69 FR 18803, Apr. 9, 2004; USCG-2004-18884, 69 FR 58352, Sept. 30, 2004; USCG-2009-0702, 74 FR 49241, Sept. 25, 2009; USCG-2013-0671, 78 FR 60165, Sept. 30, 2013]
+(3) ASTM F1014-02 (Reapproved 2007), Standard Specification for Flashlights on Vessels, approved May 1, 2007; IBR approved for § 199.175.
+
+(b) *International Maritime Organization (IMO).* Publications Section, 4 Albert Embankment, London, SE1 7SR, United Kingdom; phone: +44 (0)20 7735 7611; email: *info@imo.org;* web: *www.imo.org.*
+
+(1) IBC Code, International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, 2016 edition, copyright 2016, Chapter 2 Ship survival capability and location of cargo tanks; IBR approved for § 199.280.
+
+(2) IBC Code, International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, 2016 edition, copyright 2016, Chapter 17 Summary of minimum requirements; IBR approved for § 199.30.
+
+(3) MSC Circular 699, Revised Guidelines for Passenger Safety Instructions, issued July 17, 1995, IBR approved for § 199.217.
+
+(4) Resolution A.520(13), Code of Practice for the Evaluation, Testing and Acceptance of Prototype Novel Life-saving Appliances and Arrangements, adopted November 17, 1983; IBR approved for § 199.40.
+
+(5) Resolution A.657(16), Instructions for Action in Survival Craft, adopted October 19, 1989; IBR approved for § 199.175.
+
+(6) Resolution A.658(16), Use and Fitting of Retro-reflective Materials on Life-saving Appliances, adopted October 19, 1989; IBR approved for §§ 199.70; 199.176.
+
+(7) Resolution A.760(18), Symbols Related to Life-saving Appliances and Arrangements, adopted November 4, 1993, IBR approved for §§ 199.70; 199.90.
+
+(8) Resolution MSC.370(93), Amendments to the International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk, (IGC Code), adopted May 22, 2014; IBR approved for §§ 199.30; 199.280.
+
+(c) *International Standard Organization (ISO).* Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland; phone: +41 22 749 01 11; email: *central@iso.org;* web: *www.iso.org.*
+
+(1) ISO 17339:2018(E), Ships and marine technology—Life saving and fire protection—Sea anchors for survival craft and rescue boats, Second edition, July 2018; IBR approved for § 199.175.
+
+(2) ISO 18813:2006(E), Ships and marine technology—Survival equipment for survival craft and rescue boats, First edition, April 1, 2006; IBR approved for § 199.175.
+
+(3) ISO 25862:2009(E), Ships and marine technology—Marine magnetic compasses, binnacles and azimuth reading devices, First edition, May 15, 2009; IBR approved for § 199.175.
+
+[USCG-2020-0107, 87 FR 68308, Nov. 14, 2022]

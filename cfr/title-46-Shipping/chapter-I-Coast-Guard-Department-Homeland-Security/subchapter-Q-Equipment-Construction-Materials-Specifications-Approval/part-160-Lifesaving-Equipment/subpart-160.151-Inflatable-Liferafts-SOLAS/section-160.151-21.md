@@ -1,12 +1,10 @@
 ##### § 160.151-21 Equipment required for SOLAS A and SOLAS B inflatable liferafts. #####
 
-Link to an amendment published at 87 FR 68305, Nov. 14, 2022.
-
 To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflatable liferaft must meet the following specific requirements when complying with the indicated regulations of SOLAS and the IMO LSA Code, as amended by Resolution MSC.293(87) (incorporated by reference, see § 160.151-5 of this subpart):
 
 (a) *Heaving line (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.1).* The buoyant heaving line must have a breaking strength of not less than 1.1 kN (250 lb), and must be attached to the inflatable liferaft near the entrance furthest from the painter attachment.
 
-(b) *Jackknife (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.2).* Each folding knife must be a jackknife approved by the Commandant under approval series 160.043.
+(b) *Jackknife (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.2).* Each folding knife must be a jackknife meeting the requirements in 46 CFR 199.175(b)(16).
 
 (c) *Bailer ((IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.3 and ISO 18813 (incorporated by reference, see § 160.151-5 of this subpart)).* Each bailer must have a volume of at least 2 L (125 in3).
 
@@ -18,7 +16,7 @@ To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflat
 
 (g) *Tin-opener (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.7 and ISO 18813).* Each sharp part of a tin-opener must have a guard.
 
-(h) *First-aid kit (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.8).* Each first-aid kit must be approved by the Commandant under approval series 160.054.
+(h) *First-aid kit (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.8).* Each first-aid kit must meet the requirements in 46 CFR 199.175(b)(10).
 
 (i) *Whistle (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.9 and ISO 18813).* The whistle must be a ball-type or multi-tone whistle of corrosion-resistant construction.
 
@@ -32,21 +30,21 @@ To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflat
 
 (n) *Radar reflector (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.14).* The radar reflector may be omitted if the outside of the container of the inflatable liferaft includes a notice near the “SOLAS A” or “SOLAS B” marking indicating that no radar reflector is included.
 
-(o) *Signalling mirror (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.15).* Each signalling mirror must be approved by the Commandant under approval series 160.020.
+(o) *Signalling mirror (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.15).* Each signalling mirror must meet the requirements in 46 CFR 199.175(b)(19).
 
 (p) *Lifesaving signals (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.16).* If not provided on a waterproof card or sealed in a transparent waterproof container, the table of lifesaving signals may be provided as part of the instruction manual.
 
-(q) *Fishing tackle (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.17).* The fishing tackle must be in a kit approved by the Commandant under approval series 160.061.
+(q) *Fishing tackle (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.17).* The fishing tackle must meet the requirements in 46 CFR 199.175(b)(11).
 
-(r) *Food rations (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.18)* The food rations must be approved by the Commandant under approval series 160.046.
+(r) *Food rations (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.18).* The food rations must meet the requirements in 46 CFR 199.175(b)(22).
 
-(s) *Drinking water (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.19).* Emergency drinking water must be approved by the Commandant under approval series 160.026. The desalting apparatus must be approved by the Commandant under approval series 160.058.
+(s) *Drinking water (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.19).* Emergency drinking water must meet the requirements in 46 CFR 199.175(b)(40). The desalting apparatus or reverse osmosis desalinator must be approved by the Commandant under approval series 160.058.
 
 (t) *Drinking cup (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.20 and ISO 18813).* The drinking cup must be graduated in ounces or milliliters or both.
 
 (u) *Anti-seasickness medicine (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.21 and ISO 18813).* The anti-seasickness medicine must include instructions for use and be marked with an expiration date.
 
-(v) *Survival instructions (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.22 and ISO 18813).* The instructions on how to survive in a liferaft must -
+(v) *Survival instructions (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.22 and ISO 18813).* The instructions on how to survive in a liferaft must—
 
 (1) Be waterproof;
 
@@ -56,7 +54,7 @@ To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflat
 
 (4) Be suspended in a clear film envelope from one of the arch tubes of the canopy.
 
-(w) *Instructions for immediate action (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.23).* The instructions for immediate action must -
+(w) *Instructions for immediate action (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.23).* The instructions for immediate action must—
 
 (1) Be waterproof;
 
@@ -70,7 +68,7 @@ To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflat
 
 (x) *Thermal protective aid (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.1.5.1.24).* Each thermal protective aid must be approved by the Commandant under approval series 160.174.
 
-(y) *Repair outfit (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.2.9.1.1 and ISO 18813).* The repair outfit must include -
+(y) *Repair outfit (IMO LSA Code, as amended by Resolution MSC.293(87), Chapter IV/4.2.9.1.1 and ISO 18813).* The repair outfit must include—
 
 (1) Six or more sealing clamps or serrated conical plugs, or a combination of the two;
 
@@ -82,4 +80,4 @@ To obtain Coast Guard approval, the equipment in each SOLAS A and SOLAS B inflat
 
 (aa) *Plugs for pressure-relief valves.* Plugs for rendering pressure-relief valves inoperable must be provided in any liferaft fitted with such valves, unless the valves are of a type that can be rendered inoperable without separate plugs. If provided, plugs for pressure-relief valves must be usable with hands gloved in an immersion suit, and must either float or be secured to the liferaft by a lanyard.
 
-[CGD 85-205, 62 FR 25547, May 9, 1997, as amended by USCG-1998-4442, 63 FR 52192, Sept. 30, 1998; USCG-2000-7790, 65 FR 58464, Sept. 29, 2000; USCG-2010-0048, 76 FR 62997, Oct. 11, 2011; 77 FR 9865, Feb. 21, 2012]
+[CGD 85-205, 62 FR 25547, May 9, 1997, as amended by USCG-1998-4442, 63 FR 52192, Sept. 30, 1998; USCG-2000-7790, 65 FR 58464, Sept. 29, 2000; USCG-2010-0048, 76 FR 62997, Oct. 11, 2011; 77 FR 9865, Feb. 21, 2012; USCG-2020-0107, 87 FR 68305, Nov. 14, 2022]

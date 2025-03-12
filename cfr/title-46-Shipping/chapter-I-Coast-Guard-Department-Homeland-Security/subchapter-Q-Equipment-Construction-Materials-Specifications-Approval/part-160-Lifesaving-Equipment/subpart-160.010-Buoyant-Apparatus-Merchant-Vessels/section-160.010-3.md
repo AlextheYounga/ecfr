@@ -1,7 +1,5 @@
 ##### § 160.010-3 Inflatable buoyant apparatus. #####
 
-Link to an amendment published at 87 FR 68304, Nov. 14, 2022.
-
 (a) *Design and performance.* To obtain Coast Guard approval, an inflatable buoyant apparatus must comply with subpart 160.151, with the following exceptions:
 
 (1) *Canopy requirements (IMO LSA Code, Chapter IV/4.1.1.5 (incorporated by reference, see § 160.010-1 of this subpart)).* It does not need a canopy.
@@ -36,17 +34,17 @@ Link to an amendment published at 87 FR 68304, Nov. 14, 2022.
 
 (iii) The ladders required by this paragraph must allow persons to board with either side of a reversible apparatus floating up, or the full number of ladders required must be installed on each side.
 
-(11) One or more exterior canopy lamps meeting the requirements of 46 CFR 160.151-15(n) must be provided such that -
+(11) One or more exterior canopy lamps meeting the requirements of 46 CFR 160.151-15(n) must be provided such that—
 
 (i) On a non-reversible inflatable buoyant apparatus, one lamp is mounted so that it is on the uppermost surface of the floating apparatus; and
 
 (ii) On a reversible apparatus, two lamps are mounted so that one lamp is on the uppermost surface of the apparatus, whichever side is floating up.
 
-(12) *Equipment.* All equipment required by this paragraph must be either packed in a container accessible to the occupants, or otherwise secured to the apparatus. Duplicate equipment must be provided, for each side of a reversible inflatable buoyant apparatus, if the equipment is not accessible from both sides. In lieu of the equipment specified in § 160.151-7(b) and (IMO LSA Code, Chapter IV/4.1.5), each apparatus must be provided with -
+(12) *Equipment.* All equipment required by this paragraph must be either packed in a container accessible to the occupants, or otherwise secured to the apparatus. Duplicate equipment must be provided, for each side of a reversible inflatable buoyant apparatus, if the equipment is not accessible from both sides. In lieu of the equipment specified in § 160.151-7(b) and (IMO LSA Code, Chapter IV/4.1.5), each apparatus must be provided with—
 
 (i) *Rescue quoit and heaving line.* One rescue quoit and a heaving line as described in § 160.151-21(a) on each apparatus with a capacity of less than 25 persons; or two on each apparatus for a capacity of 25 or more persons. The heaving line(s) must be mounted adjacent to a boarding ramp (or boarding ladder, if no ramps are installed), and ready for immediate use;
 
-(ii) *Knives.* Two buoyant safety knives ready for use near the painter attachment;
+(ii) *Knives.* One knife, of a type designed to minimize the chance of damage to the inflatable buoyant apparatus and secured with a lanyard ready for use near the painter attachment. Any knife may be replaced with a jackknife meeting the requirements in 46 CFR 199.175(b)(16). In addition, an inflatable buoyant apparatus that is permitted to accommodate 13 persons or more must be provided with a second knife that is of the non-folding type;
 
 (iii) *Bailer.* One bailer as described in § 160.151-21(c) on each apparatus with a capacity of less than 25 persons; or two bailers on each apparatus with a capacity of 25 or more persons, except that no bailers are necessary if both sides of the floor of a reversible apparatus are equipped with drains;
 
@@ -92,11 +90,11 @@ Link to an amendment published at 87 FR 68304, Nov. 14, 2022.
 
 (6) An apparatus with a capacity of 30 or fewer persons must be fitted with at least one floor drain.
 
-(7) In addition to the equipment specified in § 160.010-3(a)(12), the apparatus must be provided with -
+(7) In addition to the equipment specified in § 160.010-3(a)(12), the apparatus must be provided with—
 
 (i) *Sponge.* One additional sponge as described in § 160.151-21(d) on each apparatus with a capacity of less than 25 persons;
 
-(ii) *First-aid kit.* A first-aid kit approved by the Commandant under approval series 160.054;
+(ii) *First-aid kit.* A first-aid kit as described in 46 CFR 199.175(b)(10);
 
 (iii) *Whistle.* A ball-type or multi-tone whistle of corrosion-resistant construction;
 
@@ -106,4 +104,4 @@ Link to an amendment published at 87 FR 68304, Nov. 14, 2022.
 
 (9) *Stability.* It must be fitted with stability pockets, in accordance with IMO LSA Code Chapter IV/4.2.5.4.
 
-[CGD 85-205, 62 FR 25545, May 9, 1997, as amended by USCG-2010-0048, 76 FR 62974, Oct. 11, 2011]
+[CGD 85-205, 62 FR 25545, May 9, 1997, as amended by USCG-2010-0048, 76 FR 62974, Oct. 11, 2011; USCG-2020-0107, 87 FR 68304, Nov. 14, 2022]

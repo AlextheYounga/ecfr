@@ -48,6 +48,6 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (2) Approximately equal to cost or price; or
 
-(3) Significantly less important than cost or price (10 U.S.C. 2305(a)(3)(A)(iii) and 41 U.S.C. 3306(c)(1)(C)).
+(3) Significantly less important than cost or price (10 U.S.C. 2305(a)(3)(A)(iii) And 41 U.S.C. 3306(c)(1)(C)).
 
 [62 FR 51230, Sept. 30, 1997, as amended at 63 FR 36121, July 1, 1998; 64 FR 72443, Dec. 27, 1999; 65 FR 36014, June 6, 2000; 69 FR 59702, Oct. 5, 2004; 71 FR 57366, Sept. 28, 2006; 75 FR 53133, Aug. 30, 2010; 79 FR 24201, Apr. 29, 2014; 79 FR 61750, Oct. 14, 2014; 81 FR 67772, Sept. 30, 2016; 81 FR 45843, July 14, 2016; 85 FR 40071, July 2, 2020]
