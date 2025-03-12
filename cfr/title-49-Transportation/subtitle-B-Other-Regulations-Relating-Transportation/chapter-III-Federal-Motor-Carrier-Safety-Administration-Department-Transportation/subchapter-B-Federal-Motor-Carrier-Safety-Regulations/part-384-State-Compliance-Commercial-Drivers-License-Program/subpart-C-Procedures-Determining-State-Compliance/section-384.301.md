@@ -1,5 +1,7 @@
 ##### § 384.301 Substantial compliance-general requirements. #####
 
+Link to an amendment published at 86 FR 38940, July 23, 2021.
+
 (a) To be in substantial compliance with 49 U.S.C. 31311(a), a State must meet each and every standard of subpart B of this part by means of the demonstrable combined effect of its statutes, regulations, administrative procedures and practices, organizational structures, internal control mechanisms, resource assignments (facilities, equipment, and personnel), and enforcement practices.
 
 (b)(1) A State must come into substantial compliance with the requirements of subpart B of this part in effect as of September 30, 2002 as soon as practical, but, unless otherwise specifically provided in this part, not later than September 30, 2005.

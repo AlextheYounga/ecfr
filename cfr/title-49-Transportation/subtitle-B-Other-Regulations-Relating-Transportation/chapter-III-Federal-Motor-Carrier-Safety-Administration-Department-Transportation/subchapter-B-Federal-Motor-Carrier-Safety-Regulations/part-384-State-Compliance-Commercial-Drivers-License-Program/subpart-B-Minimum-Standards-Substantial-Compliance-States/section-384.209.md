@@ -1,5 +1,7 @@
 ##### § 384.209 Notification of traffic violations. #####
 
+Link to an amendment published at 86 FR 38940, July 23, 2021.
+
 (a) *Required notification with respect to CLP or CDL holders.* (1) Whenever a person who holds a CLP or CDL from another State is convicted of a violation of any State or local law relating to motor vehicle traffic control (other than parking, vehicle weight or vehicle defect violations), in any type of vehicle, the licensing entity of the State in which the conviction occurs must notify the licensing entity in the State where the driver is licensed of this conviction within the time period established in paragraph (c) of this section.
 
 (2) Whenever a person who holds a foreign commercial driver's license is convicted of a violation of any State or local law relating to motor vehicle traffic control (other than parking, vehicle weight or vehicle defect violations), in any type of vehicle, the licensing entity of the State in which the conviction occurs must report that conviction to the Federal Convictions and Withdrawal Database.

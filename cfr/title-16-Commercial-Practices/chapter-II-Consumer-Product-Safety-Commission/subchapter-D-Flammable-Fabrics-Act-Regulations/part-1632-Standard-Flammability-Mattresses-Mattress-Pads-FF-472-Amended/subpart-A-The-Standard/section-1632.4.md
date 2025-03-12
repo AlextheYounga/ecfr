@@ -1,8 +1,6 @@
 ##### § 1632.4 Mattress test procedure. #####
 
-Link to an amendment published at 86 FR 32764, June 23, 2021.
-
-(a) *Apparatus and test materials* - (1) *Testroom.* The testroom shall be large enough to accommodate a full-scale mattress in a horizontal position and to allow for free movement of personnel and air around the test mattress. The test area shall be draft-protected and equipped with a suitable system for exhausting smoke and/or noxious gases produced by testing. The testroom atmospheric conditions shall be greater than 18 °C (65 °F) and at less than 55 percent relative humidity.
+(a) *Apparatus and test materials*—(1) *Testroom.* The testroom shall be large enough to accommodate a full-scale mattress in a horizontal position and to allow for free movement of personnel and air around the test mattress. The test area shall be draft-protected and equipped with a suitable system for exhausting smoke and/or noxious gases produced by testing. The testroom atmospheric conditions shall be greater than 18 °C (65 °F) and at less than 55 percent relative humidity.
 
 (i) The room shall be equipped with a support system (e.g. platform, bench) upon which a mattress may be placed flat in a horizontal position at a reasonable height for making observations.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 32764, June 23, 2021.
 
 1 Glass fiberboard that meets Federal Specification HH-I-558B is acceptable. Under this specification, the board must be Form A, Class 1, and plain faced. Copies of the specifications may be obtained from the Business Service Centers of the General Services Administration Regional Offices.
 
-(2) *Ignition source.* The ignition source shall be a Standard Reference Material cigarette (SRM 1196), available for purchase from the National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899.
+(2) *Ignition source.* The ignition source shall be a Standard Reference Material cigarette (SRM 1196a), available for purchase from the National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899.
 
 (3) *Fire extinguisher.* A pressurized water fire extinguisher, or other suitable fire extinguishing equipment, shall be immediately available.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 32764, June 23, 2021.
 
 (7) *Other apparatus.* In addition to the above, a thermometer, a relative humidity measuring instrument, a thin rod, straight pins, a knife or scissors, and tongs are required to carry out the testing.
 
-(b) *Test preparation* - (1) *Mattress samples.* The mattress shall be removed from any packaging prior to conditioning. The mattress surface shall be divided laterally into two sections (see fig. 1), one section for the bare mattress tests and the other for the two-sheet tests.
+(b) *Test preparation*—(1) *Mattress samples.* The mattress shall be removed from any packaging prior to conditioning. The mattress surface shall be divided laterally into two sections (see fig. 1), one section for the bare mattress tests and the other for the two-sheet tests.
 
 (2) *Sheets or sheeting material.* The sheets or sheeting material shall be laundered once before use in an automatic home washer using the hot water setting and longest normal cycle with the manufacturer's recommended quantity of a commercial detergent, and dried in an automatic home tumble dryer.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 32764, June 23, 2021.
 
 (c) *Conditioning.* The mattresses, laundered sheets or sheeting material, and loose cigarettes shall be conditioned in air at a temperature greater than 18 °C (65 °F) and a relative humidity less than 55 percent for at least 48 continuous hours prior to test. The mattresses, laundered sheets or sheeting material, and cigarettes shall be supported in a suitable manner to permit free movement of air around them during conditioning. The mattress meets this conditioning requirement if the mattress and/or all its component materials, except the metallic core, if present, have been exposed only to the above temperature and humidity conditions for at least 48 continuous hours prior to testing the mattress.
 
-(d) *Testing* - (1) *General.* Mattress specimens shall be tested in a testroom with atmospheric conditions of a temperature greater than 18 °C (65 °F) and a relative humidity less than 55 percent. If the test is not performed in the conditioning room, at least one lit cigarette shall be placed on the mattress surface within 10 minutes of removal from the conditioning room. The other side of the mattress shall be tested immediately after completion of the first side.
+(d) *Testing*—(1) *General.* Mattress specimens shall be tested in a testroom with atmospheric conditions of a temperature greater than 18 °C (65 °F) and a relative humidity less than 55 percent. If the test is not performed in the conditioning room, at least one lit cigarette shall be placed on the mattress surface within 10 minutes of removal from the conditioning room. The other side of the mattress shall be tested immediately after completion of the first side.
 
 (i) At least 18 cigarettes shall be burned on each mattress test surface, 9 in the bare mattress tests and 9 in the 2-sheet tests. If three or more mattress surface locations (smooth surface, tape edge, quilted, or tufted areas) exist in the particular mattress surface under test, three cigarettes shall be burned on each different surface location. If only two mattress surface locations exist in the particular mattress surface under test (tape edge and smooth surface), four cigarettes shall be burned on the smooth surface and five cigarettes shall be burned on the tape edge.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 86 FR 32764, June 23, 2021.
 
 (iii) If a cigarette extinguishes before burning its full length on any mattress surface location, pops out of position when tested on a tuft, or rolls off a test location, the test must be repeated with a freshly lit cigarette on a different portion of the same type of location on the mattress surface until either: the number of cigarettes specified in § 1632.4(d)(1)(i) have burned their full lengths; the number of cigarettes specified in § 1632.4(d)(1)(i) have extinguished before burning their full lengths; or failure has occurred according to § 1632.3(b) *Test criterion.*
 
-(2) *Bare mattress tests* - (i) *Smooth surface.* Each burning cigarette shall be placed directly on a smooth surface location on the test surface on the half reserved for bare mattress tests. The cigarettes should burn their full lengths on a smooth surface without burning across a tuft, or stitching of a quilted area. However, if this is not possible because of mattress design, then the cigarettes shall be positioned on the mattress in a manner which will allow as much of the butt ends as possible to burn on smooth surfaces. Report results for each cigarette as pass or fail as defined in the test criterion (see § 1632.3(b)). CAUTION: Even under the most carefully observed conditions, smoldering combustion can progress to the point where it cannot be readily extinguished. It is imperative that a test be discontinued as soon as ignition has definitely occurred. Immediately wet the exposed area with a water spray (from water bottle), cut around the burning material with a knife or scissors and pull the material out of the mattress with tongs. Make sure that all charred or burned material is removed. Ventilate the room.
+(2) *Bare mattress tests*—(i) *Smooth surface.* Each burning cigarette shall be placed directly on a smooth surface location on the test surface on the half reserved for bare mattress tests. The cigarettes should burn their full lengths on a smooth surface without burning across a tuft, or stitching of a quilted area. However, if this is not possible because of mattress design, then the cigarettes shall be positioned on the mattress in a manner which will allow as much of the butt ends as possible to burn on smooth surfaces. Report results for each cigarette as pass or fail as defined in the test criterion (see § 1632.3(b)). CAUTION: Even under the most carefully observed conditions, smoldering combustion can progress to the point where it cannot be readily extinguished. It is imperative that a test be discontinued as soon as ignition has definitely occurred. Immediately wet the exposed area with a water spray (from water bottle), cut around the burning material with a knife or scissors and pull the material out of the mattress with tongs. Make sure that all charred or burned material is removed. Ventilate the room.
 
 (ii) *Tape edge.* Each burning cigarette shall be placed in the depression between the mattress top surface and the tape edge, parallel to the tape edge of the half of the test surface reserved for bare mattress tests. If there is only a seam or no depression at the edge, support the cigarettes in place along the edge and parallel to the edge with straight pins. Three straight pins may be inserted through the edge at a 45° angle such that one pin supports the cigarette at the burned end, one at the center, and one at the butt. The heads of the pins must be below the upper surface of the cigarette (see fig. 2). Report results for each cigarette as pass or fail as defined in the test criterion (see § 1632.3(b)).
 
@@ -66,4 +64,4 @@ Link to an amendment published at 86 FR 32764, June 23, 2021.
 
 (e) *Records.* Records of all prototype test results, and the disposition of rejected prototypes shall be maintained by the person or firm required to perform testing by the standard in accordance with § 1632.31(c).
 
-[49 FR 39796, Oct. 10, 1984, as amended at 76 FR 59023, Sept. 23, 2011]
+[49 FR 39796, Oct. 10, 1984, as amended at 76 FR 59023, Sept. 23, 2011; 86 FR 32764, June 23, 2021]
