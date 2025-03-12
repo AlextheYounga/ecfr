@@ -1,5 +1,7 @@
 ##### § 8.2 Semiannual assessment. #####
 
+Link to an amendment published at 84 FR 43478, Aug. 21, 2019.
+
 (a) Each national bank and each Federal savings association shall pay to the Comptroller of the Currency a semiannual assessment fee, due by March 31 and September 30 of each year, for the six-month period beginning on January 1 and July 1 before each payment date. The Comptroller of the Currency will calculate the amount due under this section and provide a notice of assessments to each national bank and each Federal savings association no later than 7 business days prior to collection on March 31 and September 30 of each year. In setting assessments, the Comptroller of the Currency may take into account the nature and scope of the activities of a national bank or Federal savings association, the amount and type of assets that the entity holds, the financial and managerial condition of the entity, and any other factor the Comptroller of the Currency determines is appropriate, as provided by 12 U.S.C. 16. The semiannual assessment will be calculated as follows:
 
 |If the bank's or Federal savings association's total assets (consolidated domestic and foreign subsidiaries) are:|The semiannual assessment is:|                         |                   |                |

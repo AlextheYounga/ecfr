@@ -1,7 +1,5 @@
 ##### § 15.709 General technical requirements. #####
 
-Link to an amendment published at 84 FR 34797, July 19, 2019.
-
 (a) *Radiated power limits.* The maximum white space device EIRP per 6 MHz shall not exceed the limits of paragraphs (a)(2) through (4) of this section.
 
 (1) *General requirements.* (i) White space devices may be required to operate with less power than the maximum permitted to meet the co-channel and adjacent channel separation requirements of § 15.712 of this part.
@@ -12,36 +10,40 @@ Link to an amendment published at 84 FR 34797, July 19, 2019.
 
 (ii) Personal/Portable devices: Up to 100 mW (20 dBm) EIRP.
 
-(3) *608-614 MHz band (channel 37).* (i) Fixed devices: Up to 4 W (36 dBm) EIRP.
+(3) *608-614 MHz band (channel 37).* Up to 40 mW (16 dBm) EIRP.
 
 (ii) Personal/Portable devices: Up to 100 mW (20 dBm) EIRP.
 
 (4) *600 MHz duplex gap and guard bands.* Up to 40 mW (16 dBm) EIRP.
 
-(b) *Technical limits* - (1) *Fixed white space devices.* (i) Technical limits for fixed white space devices are shown in the table and subject to the requirements of this section.
+(b) *Technical limits* - (1) *Fixed white space devices.* (i) Technical limits for fixed white space devices are shown in the table in paragraph (b)(1)(iii) of this section and subject to the requirements of this section.
 
-(ii) For operation at EIRP levels of 36 dBm (4000 mW) or less, fixed white space devices may operate at EIRP levels between the values shown in the table provided that the conducted power and the conducted power spectral density (PSD) limits are linearly interpolated between the values shown and the adjacent channel emission limit of the higher value shown in the table is met. Operation at EIRP levels above 36 dBm (4000 mW) shall follow the requirements for 40 dBm (10,000 mW).
+(ii) For operation at EIRP levels of 36 dBm (4,000 mW) or less, fixed white space devices may operate at EIRP levels between the values shown in the table in paragraph (b)(1)(iii) of this section provided that the conducted power and the conducted power spectral density (PSD) limits are linearly interpolated between the values shown and the adjacent channel emission limit of the higher value shown in the table is met. Operation at EIRP levels above 36 dBm (4,000 mW) shall follow the requirements for 40 dBm (10,000 mW).
 
-|  EIRP (6 MHz)   |Conducted power limit<sup>1</sup>  <br/>(6 MHz)|Conducted PSD limit  <br/>(100 kHz)|Conducted  <br/>adjacent channel  <br/>emission limit  <br/>(100 kHz)|
-|-----------------|-----------------------------------------------|-----------------------------------|---------------------------------------------------------------------|
-| 16 dBm (40 mW)  |                10 dBm (10 mW)                 |             −7.4 dBm              |                              −62.8 dBm                              |
-| 20 dBm (100 mW) |                14 dBm (25 mW)                 |             −3.4 dBm              |                              −58.8 dBm                              |
-| 24 dBm (250 mW) |                18 dBm (63 mW)                 |              0.6 dBm              |                              −54.8 dBm                              |
-| 28 dBm (625 mW) |                22 dBm (158 mW)                |              4.6 dBm              |                              −50.8 dBm                              |
-|32 dBm (1600 mW) |                26 dBm (400 mW)                |              8.6 dBm              |                              −46.8 dBm                              |
-|36 dBm (4000 mW) |               30 dBm (1000 mW)                |             12.6 dBm              |                              −42.8 dBm                              |
-|40 dBm (10000 mW)|               30 dBm (1000 mW)                |             12.6 dBm              |                              −42.8 dBm                              |
+(iii) The conducted power spectral density from a fixed white space device shall not be greater than the values shown in the table in this paragraph (b)(1)(iii) when measured in any 100 kHz band during any time interval of continuous transmission.
 
-<sup>1</sup> The conducted power spectral density from a fixed white space device shall not be greater than the values shown in the table when measured in any 100 kHz band during any time interval of continuous transmission, except that a 40 mW fixed white space device operating in a four megahertz channel within a seven megahertz guard band must comply with a conducted power spectral density limit of −5.4 dBm.
+Table 1 to Paragraph (b)(1)(iii)
 
-(2) *Personal/Portable white space devices.* Technical limits for personal/portable white space devices are shown in the table and subject to the requirements of this section.
+|EIRP  <br/>(6 MHz)|Conducted power limit  <br/>(6 MHz)|Conducted  <br/>PSD limit  <br/>(100 kHz)  <br/>(dBm)|Conducted  <br/>adjacent channel  <br/>emission limit  <br/>(100 kHz)  <br/>(dBm)|
+|------------------|-----------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------------|
+|  16 dBm (40 mW)  |          10 dBm (10 mW)           |                        −7.4                         |                                      −62.8                                      |
+| 20 dBm (100 mW)  |          14 dBm (25 mW)           |                        −3.4                         |                                      −58.8                                      |
+| 24 dBm (250 mW)  |          18 dBm (63 mW)           |                         0.6                         |                                      −54.8                                      |
+| 28 dBm (625 mW)  |          22 dBm (158 mW)          |                         4.6                         |                                      −50.8                                      |
+|32 dBm (1,600 mW) |          26 dBm (400 mW)          |                         8.6                         |                                      −46.8                                      |
+|36 dBm (4,000 mW) |         30 dBm (1,000 mW)         |                        12.6                         |                                      −42.8                                      |
+|40 dBm (10,000 mW)|         30 dBm (1,000 mW)         |                        12.6                         |                                      −42.8                                      |
 
-|EIRP  <br/>(6 MHz)|Radiated PSD  <br/>limit EIRP<sup>1</sup>  <br/>(100 kHz)|Radiated adjacent  <br/>channel emission  <br/>limit EIRP  <br/>(100 kHz)|
-|------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-|  16 dBm (40 mW)  |                        −1.4 dBm                         |                                −56.8 dBm                                |
-| 20 dBm (100 mW)  |                         2.6 dBm                         |                                −52.8 dBm                                |
+(2) *Personal/portable white space devices.* (i) Technical limits for personal/portable white space devices are shown in the table in paragraph (b)(2)(ii) of this section and subject to the requirements of this section.
 
-<sup>1</sup> The radiated power spectral density from a personal/portable white space device shall not be greater than the values shown in the table when measured in any 100 kHz band during any time interval of continuous transmission, except that a 40 mW white space device operating in a four megahertz channel within a seven megahertz guard band must comply with a radiated power spectral density limit of 0.6 dBm.
+(ii) The radiated power spectral density from a personal/portable white space device shall not be greater than the values shown in the table in this paragraph (b)(2)(ii) when measured in any 100 kHz band during any time interval of continuous transmission.
+
+Table 2 to Paragraph (b)(2)(ii)
+
+|EIRP  <br/>(6 MHz)|Radiated PSD  <br/>limit EIRP  <br/>(100 kHz)  <br/>(dBm)|Radiated adjacent  <br/>channel emission  <br/>limit EIRP  <br/>(100 kHz)  <br/>(dBm)|
+|------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------|
+|  16 dBm (40 mW)  |                          −1.4                           |                                        −56.8                                        |
+| 20 dBm (100 mW)  |                           2.6                           |                                        −52.8                                        |
 
 (3) *Sensing-only devices.* Sensing-only white space devices are limited to 17 dBm (50 mW) EIRP and are subject to the requirements of this paragraph and of § 15.717 of this part.
 
@@ -67,7 +69,7 @@ Link to an amendment published at 84 FR 34797, July 19, 2019.
 
 (f) *Security.* White space devices shall incorporate adequate security measures to prevent the devices from accessing databases not approved by the FCC and to ensure that unauthorized parties cannot modify the device or configure its control features to operate in a manner inconsistent with the rules and protection criteria set forth in this subpart.
 
-(g) *Antenna requirements* - (1) *Fixed white space devices* - (i) *Above ground level.* The transmit antenna height shall not exceed 30 meters above ground level, except that the antenna height may not exceed 10 meters above ground level for fixed white space devices operating in the TV bands or guard band at 40 mW EIRP or less or operating across multiple contiguous TV channels at 100 mW EIRP or less.
+(g) *Antenna requirements* - (1) *Fixed white space devices* - (i) *Above ground level.* The transmit antenna height shall not exceed 100 meters above ground level in less congested areas or 30 meters above ground level in other areas, except that the antenna height may not exceed 10 meters above ground level in any area for fixed white space devices operating in the TV bands at 40 mW EIRP or less or operating across multiple contiguous TV channels at 100 mW EIRP or less.
 
 (ii) *Height above average terrain (HAAT).* The transmit antenna shall not be located where the height above average terrain is more than 250 meters. The HAAT is to be calculated by the white space database using the methodology in § 73.684(d) of this chapter.
 
@@ -80,3 +82,5 @@ Link to an amendment published at 84 FR 34797, July 19, 2019.
 (h) *Compliance with radio frequency exposure requirements* - (1) *Fixed white space devices.* To ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, fixed white space devices shall be accompanied by instructions on measures to take to ensure that persons maintain a distance of at least 40 cm from the device, as well as any necessary hardware that may be needed to implement that protection. These instructions shall be submitted with the application for certification.
 
 (2) *Personal/portable white space devices.* Personal/portable white space devices that meet the definition of portable devices under § 2.1093 of this chapter and that operate with a source-based time-averaged output of less than 20 mW will not be subject to routine evaluation for compliance with the radio frequency exposure guidelines in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, while devices that operate with a source-based time-average output power greater than 20 mW will be subject to the routine evaluation requirements.
+
+[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34797, July 19, 2019]

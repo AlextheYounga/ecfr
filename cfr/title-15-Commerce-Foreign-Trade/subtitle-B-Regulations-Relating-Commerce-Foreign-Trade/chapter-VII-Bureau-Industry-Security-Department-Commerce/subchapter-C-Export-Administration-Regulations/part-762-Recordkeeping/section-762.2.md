@@ -118,7 +118,7 @@
 
 (54) § 748.13, Certain Hong Kong import and export licenses;
 
-(55) Supplement No. 7 to Part 744, Temporary General License Certification Statement.
+(55) Supplement No. 7 to part 744, Temporary General License Certification Statements and logs or other records required, including any additional support documentation needed to substantiate the certification statement, under paragraph (d) of Supplement 7 to part 744 of this chapter.
 
 (c) *Special recordkeeping requirement* - (1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 
@@ -134,4 +134,4 @@
 
 (2) [Reserved]
 
-[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 84 FR 23471, May 22, 2019, § 762.2 was amended by removing the word "and" from paragraph (b)(53), removing the period and replacing it with a semicolon at the end of paragraph (b)(54), and adding paragraph (b)(55), effective until Aug. 19, 2019.
+[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 84 FR 23471, May 22, 2019, § 762.2 was amended by removing the word "and" from paragraph (b)(53), removing the period and replacing it with a semicolon at the end of paragraph (b)(54), and adding paragraph (b)(55), effective until Aug. 19, 2019. At 84 FR 43487, Aug. 21, 2019, the effective period was extended until Nov. 18, 2019, and at 84 FR 43492, paragraph (b)(55) was revised, effective until Nov. 18, 2019.

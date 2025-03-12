@@ -1,7 +1,5 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 84 FR 23927, May 23, 2019.
-
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions* - (1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.
@@ -238,7 +236,7 @@ Link to an amendment published at 84 FR 23927, May 23, 2019.
 
 (A) Ensures that a resource using the participation model for electric storage resources in an independent system operator or regional transmission organization market is eligible to provide all capacity, energy, and ancillary services that it is technically capable of providing;
 
-(B) Ensures that a resource using the participation model for electric storage resources can be dispatched and can set the wholesale market clearing price as both a wholesale seller and wholesale buyer consistent with rules that govern the conditions under which a resource can set the wholesale price;
+(B) Enables a resource using the participation model for electric storage resources to be dispatched and ensures that such a dispatchable resource can set the wholesale market clearing price as both a wholesale seller and wholesale buyer consistent with rules that govern the conditions under which a resource can set the wholesale price;
 
 (C) Accounts for the physical and operational characteristics of electric storage resources through bidding parameters or other means; and
 

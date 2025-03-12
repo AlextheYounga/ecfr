@@ -1,6 +1,4 @@
-##### § 15.37 Transition provisions for compliance with the rules. #####
-
-Link to an amendment published at 84 FR 34796, July 19, 2019.
+##### § 15.37 Transition provisions for compliance with this part. #####
 
 (a) The manufacture or importation of scanning receivers, and frequency converters designed or marketed for use with scanning receivers, that do not comply with the provisions of § 15.121 shall cease on or before October 25, 1999. Effective July 26, 1999, the Commission will not grant equipment authorization for receivers that do not comply with the provisions of § 15.121. This paragraph does not prohibit the sale or use of authorized receivers manufactured in the United States, or imported into the United States, prior to October 25, 1999.
 
@@ -50,4 +48,6 @@ Link to an amendment published at 84 FR 34796, July 19, 2019.
 
 (p) Effective October 20, 2017, the certification under this part of vehicular radars and fixed radar systems used in airport air operations areas that are designed to operate in the 76-77 GHz band shall not be permitted. Vehicular radars and fixed radar systems used in airport air operations areas operating in the 76-77 GHz band that are already installed or in use may continue to operate in accordance with their previously obtained certification. Any future certification, or any change of already issued certification and operations of such equipment, shall be under part 95, subpart M, of this chapter.
 
-[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018]
+(q) All fixed white space devices which are approved by Telecommunication Certification Bodies on or after February 19, 2020 or that are marketed on or after February 19, 2021 shall comply with the requirements of § 15.711(c). Fixed white space devices which are approved or marketed before the dates in the preceding sentence shall comply with either the requirements of § 15.711(c) or the requirements of § 15.711(c) as in effect prior to August 19, 2019 (see 47 CFR part 15 as revised October 1, 2018).
+
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018; 84 FR 34796, July 19, 2019]

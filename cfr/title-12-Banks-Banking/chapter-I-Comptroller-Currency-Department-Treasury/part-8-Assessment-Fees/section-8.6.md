@@ -1,5 +1,7 @@
 ##### § 8.6 Fees for special examinations and investigations. #####
 
+Link to an amendment published at 84 FR 43479, Aug. 21, 2019.
+
 (a) *Fees.* Pursuant to the authority contained in 12 U.S.C. 16, 481, 482, 1467, and 1831c, the Office of the Comptroller of the Currency may assess a fee for:
 
 (1) Examining the fiduciary activities of national banks and Federal savings associations and related entities;
