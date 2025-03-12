@@ -1,5 +1,7 @@
 ##### § 414.1370 APM scoring standard under MIPS. #####
 
+Link to an amendment published at 84 FR 63196, Nov. 15, 2019.
+
 (a) *General.* The APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:
@@ -40,7 +42,7 @@
 
 (2) MIPS eligible clinicians who participate in a group or have elected to participate in a virtual group and who are also on a MIPS APM Participation List will be included in the assessment under MIPS for purposes of producing a group or virtual group score and under the APM scoring standard for purposes of producing an APM Entity score. The MIPS payment adjustment for these eligible clinicians is based solely on their APM Entity score; if the APM Entity group is exempt from MIPS all eligible clinicians within that APM Entity group are also exempt from MIPS.
 
-(g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality* - (i)*MIPS APMs that require APM Entities to submit quality data using the CMS Web Interface.* (A) *Quality Performance Category Score.* The quality performance category score for a MIPS performance period is calculated for the APM Entity using the data submitted by the APM Entity according to the terms of the MIPS APM, including data on measures submitted through the CMS Web Interface and other measures specified by CMS through notice and comment rulemaking for the APM scoring standard.
+(g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality* - (i) *MIPS APMs that require APM Entities to submit quality data using the CMS Web Interface.* (A) *Quality Performance Category Score.* The quality performance category score for a MIPS performance period is calculated for the APM Entity using the data submitted by the APM Entity according to the terms of the MIPS APM, including data on measures submitted through the CMS Web Interface and other measures specified by CMS through notice and comment rulemaking for the APM scoring standard.
 
 (B) *Quality Improvement Score.* Beginning in 2018, for an APM Entity for which CMS calculated a total quality performance category score for one or more participants in the APM Entity for the previous MIPS performance period, CMS calculates a quality improvement score for the APM Entity group as specified in § 414.1380(b)(1)(xvi).
 

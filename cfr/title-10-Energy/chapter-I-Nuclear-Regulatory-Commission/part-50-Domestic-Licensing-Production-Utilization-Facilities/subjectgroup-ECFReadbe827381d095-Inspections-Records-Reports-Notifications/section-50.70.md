@@ -1,5 +1,7 @@
 ##### § 50.70 Inspections. #####
 
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+
 (a) Each applicant for or holder of a license, including a construction permit or an early site permit, shall permit inspection, by duly authorized representatives of the Commission, of his records, premises, activities, and of licensed materials in possession or use, related to the license or construction permit or early site permit as may be necessary to effectuate the purposes of the Act, as amended, including Section 105 of the Act, and the Energy Reorganization Act of 1974, as amended.
 
 (b)(1) Each licensee and each holder of a construction permit shall, upon request by the Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate, provide rent-free office space for the exclusive use of the Commission inspection personnel. Heat, air conditioning, light, electrical outlets, and janitorial services shall be furnished by each licensee and each holder of a construction permit. The office shall be convenient to and have full access to the facility and shall provide the inspector both visual and acoustic privacy.

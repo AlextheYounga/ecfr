@@ -1,7 +1,5 @@
 ##### § 484.50 Condition of participation: Patient rights. #####
 
-Link to an amendment published at 84 FR 51825, Sept. 30, 2019.
-
 The patient and representative (if any), have the right to be informed of the patient's rights in a language and manner the individual understands. The HHA must protect and promote the exercise of these rights.
 
 (a) *Standard: Notice of rights.* The HHA must -
@@ -16,7 +14,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (2) Obtain the patient's or legal representative's signature confirming that he or she has received a copy of the notice of rights and responsibilities.
 
-(3) Provide verbal notice of the patient's rights and responsibilities in the individual's primary or preferred language and in a manner the individual understands, free of charge, with the use of a competent interpreter if necessary, no later than the completion of the second visit from a skilled professional as described in § 484.75.
+(3) [Reserved]
 
 (4) Provide written notice of the patient's rights and responsibilities under this rule and the HHA's transfer and discharge policies as set forth in paragraph (d) of this section to a patient-selected representative within 4 business days of the initial evaluation visit.
 
@@ -56,7 +54,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (6) Have a confidential clinical record. Access to or release of patient information and clinical records is permitted in accordance with 45 CFR parts 160 and 164.
 
-(7) Be advised of -
+(7) Be advised, orally and in writing, of -
 
 (i) The extent to which payment for HHA services may be expected from Medicare, Medicaid, or any other federally-funded or federal aid program known to the HHA,
 
@@ -129,3 +127,5 @@ The patient and representative (if any), have the right to be informed of the pa
 (1) Persons with disabilities, including accessible Web sites and the provision of auxiliary aids and services at no cost to the individual in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act.
 
 (2) Persons with limited English proficiency through the provision of language services at no cost to the individual, including oral interpretation and written translations.
+
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019]

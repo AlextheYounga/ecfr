@@ -1,0 +1,3 @@
+##### § 1003.19 Reconsideration. #####
+
+A participant in the proceeding may submit to the OHA a motion for reconsideration of a Decision and Order. The motion for reconsideration must be filed by the 20th day after the OHA makes the Decision and Order available to the public. The motion must include a statement of the grounds on which the movant believes reconsideration is warranted. Such grounds may include, but are not limited to, procedural, legal, or factual errors in the Decision and Order. A motion for reconsideration may be granted if the Director determines the Decision and Order contains an error that materially impacted the outcome of the proceeding.

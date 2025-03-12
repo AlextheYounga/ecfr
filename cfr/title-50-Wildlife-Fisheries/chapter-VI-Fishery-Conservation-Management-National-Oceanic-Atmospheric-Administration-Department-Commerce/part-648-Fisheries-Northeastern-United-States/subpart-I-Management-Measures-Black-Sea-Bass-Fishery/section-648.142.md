@@ -1,5 +1,7 @@
 ##### § 648.142 Black sea bass specifications. #####
 
+Link to an amendment published at 84 FR 65704, Nov. 29, 2019.
+
 (a) *Commercial quota, recreational landing limit, research set-aside, and other specification measures.* The Black Sea Bass Monitoring Committee will recommend to the Demersal Species Committee of the MAFMC and the ASMFC, through the specification process, for use in conjunction with the ACL and ACT, sector-specific research set-asides, estimates of the sector-related discards, a recreational harvest limit, a commercial quota, along with other measures, as needed, that are projected to ensure the sector-specific ACL for an upcoming year or years will not be exceeded. The following measures are to be consisted by the Black Sea Bass Monitoring Committee:
 
 (1) Research quota set from a range of 0 to 3 percent of the maximum allowed.

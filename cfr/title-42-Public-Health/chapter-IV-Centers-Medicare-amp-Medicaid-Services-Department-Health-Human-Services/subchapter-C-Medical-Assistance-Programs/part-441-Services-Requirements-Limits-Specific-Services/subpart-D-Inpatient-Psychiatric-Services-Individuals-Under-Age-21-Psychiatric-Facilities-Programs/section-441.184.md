@@ -1,10 +1,8 @@
 ##### § 441.184 Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51816, Sept. 30, 2019.
-
 The Psychiatric Residential Treatment Facility (PRTF) must comply with all applicable Federal, State, and local emergency preparedness requirements. The PRTF must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The PRTF must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do the following:
+(a) *Emergency plan.* The PRTF must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least every 2 years. The plan must do the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,9 +10,9 @@ The Psychiatric Residential Treatment Facility (PRTF) must comply with all appli
 
 (3) Address resident population, including, but not limited to, persons at-risk; the type of services the PRTF has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the PRTF's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The PRTF must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The PRTF must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) The provision of subsistence needs for staff and residents, whether they evacuate or shelter in place, include, but are not limited to the following:
 
@@ -44,7 +42,7 @@ The Psychiatric Residential Treatment Facility (PRTF) must comply with all appli
 
 (8) The role of the PRTF under a waiver declared by the Secretary, in accordance with section 1135 of Act, in the provision of care and treatment at an alternate care site identified by emergency management officials.
 
-(c) *Communication plan.* The PRTF must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The PRTF must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -74,27 +72,35 @@ The Psychiatric Residential Treatment Facility (PRTF) must comply with all appli
 
 (7) A means of providing information about the PRTF's occupancy, needs, and its ability to provide assistance, to the authority having jurisdiction, the Incident Command Center, or designee.
 
-(d) *Training and testing.* The PRTF must develop and maintain an emergency preparedness training program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The PRTF must develop and maintain an emergency preparedness training program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The PRTF must do all of the following:
 
 (i) Provide initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) After initial training, provide emergency preparedness training at least annually.
+(ii) After initial training, provide emergency preparedness training every 2 years.
 
 (iii) Demonstrate staff knowledge of emergency procedures.
 
 (iv) Maintain documentation of all emergency preparedness training.
 
-(2) *Testing.* The PRTF must conduct exercises to test the emergency plan. The PRTF must do the following:
+(v) If the emergency preparedness policies and procedures are significantly updated, the PRTF must conduct training on the updated policies and procedures.
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the PRTF experiences an actual natural or man-made emergency that requires activation of the emergency plan, the PRTF is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(2) *Testing.* The PRTF must conduct exercises to test the emergency plan twice per year. The PRTF must do the following:
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(i) Participate in an annual full-scale exercise that is community-based; or
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise; or
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(B) If the PRTF experiences an actual natural or man-made emergency that requires activation of the emergency plan, the PRTF is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
+
+(ii) Conduct an additional annual exercise that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or individual, a facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the PRTF's response to and maintain documentation of all drills, tabletop exercises, and emergency events and revise the PRTF's emergency plan, as needed.
 
@@ -114,4 +120,4 @@ The Psychiatric Residential Treatment Facility (PRTF) must comply with all appli
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
 
-[81 FR 64025, Sept. 16, 2016]
+[81 FR 64025, Sept. 16, 2016, as amended at 84 FR 51816, Sept. 30, 2019]

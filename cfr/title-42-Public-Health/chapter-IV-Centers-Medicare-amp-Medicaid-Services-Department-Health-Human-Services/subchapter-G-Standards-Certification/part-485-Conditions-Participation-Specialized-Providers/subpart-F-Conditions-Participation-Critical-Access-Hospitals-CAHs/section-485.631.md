@@ -1,7 +1,5 @@
 ##### § 485.631 Condition of participation: Staffing and staff responsibilities. #####
 
-Link to an amendment published at 84 FR 51827, Sept. 30, 2019.
-
 (a) *Standard: Staffing* - (1) The CAH has a professional health care staff that includes one or more doctors of medicine or osteopathy, and may include one or more physician assistants, nurse practitioners, or clinical nurse specialists.
 
 (2) Any ancillary personnel are supervised by the professional staff.
@@ -40,4 +38,22 @@ Link to an amendment published at 84 FR 51827, Sept. 30, 2019.
 
 (3) Whenever a patient is admitted to the CAH by a nurse practitioner, physician assistant, or clinical nurse specialist, a doctor of medicine or osteopathy on the staff of the CAH is notified of the admission.
 
-[58 FR 30671, May 26, 1993, as amended at 62 FR 46037, Aug. 29, 1997; 70 FR 68728, Nov. 10, 2005; 79 FR 27155, May 12, 2014]
+(d) *Standard: Periodic review of clinical privileges and performance.* The CAH requires that -
+
+(1) The quality and appropriateness of the diagnosis and treatment furnished by nurse practitioners, clinical nurse specialist, and physician assistants at the CAH are evaluated by a member of the CAH staff who is a doctor of medicine or osteopathy or by another doctor of medicine or osteopathy under contract with the CAH.
+
+(2) The quality and appropriateness of the diagnosis and treatment furnished by doctors of medicine or osteopathy at the CAH are evaluated by -
+
+(i) One hospital that is a member of the network, when applicable;
+
+(ii) One Quality Improvement Organization (QIO) or equivalent entity;
+
+(iii) One other appropriate and qualified entity identified in the State rural health care plan;
+
+(iv) In the case of distant-site physicians and practitioners providing telemedicine services to the CAH's patient under an agreement between the CAH and a distant-site hospital, the distant-site hospital; or
+
+(v) In the case of distant-site physicians and practitioners providing telemedicine services to the CAH's patients under a written agreement between the CAH and a distant-site telemedicine entity, one of the entities listed in paragraphs (d)(2)(i) through (iii) of this section.
+
+(3) The CAH staff consider the findings of the evaluation and make the necessary changes as specified in paragraphs (b) through (d) of this section.
+
+[58 FR 30671, May 26, 1993, as amended at 62 FR 46037, Aug. 29, 1997; 70 FR 68728, Nov. 10, 2005; 79 FR 27155, May 12, 2014; 84 FR 51827, Sept. 30, 2019]

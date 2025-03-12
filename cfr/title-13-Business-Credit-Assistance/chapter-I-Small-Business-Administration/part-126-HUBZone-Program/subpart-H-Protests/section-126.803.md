@@ -1,5 +1,7 @@
 ##### § 126.803 How will SBA process a HUBZone status protest? #####
 
+Link to an amendment published at 84 FR 65250, Nov. 26, 2019.
+
 (a) *Notice of receipt of protest.* (1) SBA immediately will notify the contracting officer and the protestor of the date SBA receives a protest and whether SBA will process the protest or dismiss it in accordance with § 126.804.
 
 (2) If SBA determines the protest is timely and sufficiently specific, SBA will notify the protested HUBZone SBC of the protest and the identity of the protestor. The protested HUBZone SBC may submit information responsive to the protest within 5 business days.

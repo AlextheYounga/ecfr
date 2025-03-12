@@ -1,5 +1,7 @@
 ##### § 50.10 License required; limited work authorization. #####
 
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+
 (a) *Definitions.* As used in this section, *construction* means the activities in paragraph (a)(1) of this section, and does not mean the activities in paragraph (a)(2) of this section.
 
 (1) Activities constituting construction are the driving of piles, subsurface preparation, placement of backfill, concrete, or permanent retaining walls within an excavation, installation of foundations, or in-place assembly, erection, fabrication, or testing, which are for:

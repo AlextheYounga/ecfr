@@ -1,7 +1,5 @@
 ##### § 483.73 Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51824, Sept. 30, 2019.
-
 The LTC facility must comply with all applicable Federal, State and local emergency preparedness requirements. The LTC facility must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
 (a) *Emergency plan.* The LTC facility must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do all of the following:
@@ -12,7 +10,7 @@ The LTC facility must comply with all applicable Federal, State and local emerge
 
 (3) Address resident population, including, but not limited to, persons at-risk; the type of services the LTC facility has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, or Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the LTC facility's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, or Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
 (b) *Policies and procedures.* The LTC facility must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
 
@@ -20,7 +18,7 @@ The LTC facility must comply with all applicable Federal, State and local emerge
 
 (i) Food, water, medical, and pharmaceutical supplies.
 
-(ii) Alternate sources of energy to maintain -
+(ii) Alternate sources of energy to maintain—
 
 (A) Temperatures to protect resident health and safety and for the safe and sanitary storage of provisions;
 
@@ -96,15 +94,21 @@ The LTC facility must comply with all applicable Federal, State and local emerge
 
 (iv) Demonstrate staff knowledge of emergency procedures.
 
-(2) *Testing.* The LTC facility must conduct exercises to test the emergency plan at least annually, including unannounced staff drills using the emergency procedures. The LTC facility must do the following:
+(2) *Testing.* The LTC facility must conduct exercises to test the emergency plan at least twice per year, including unannounced staff drills using the emergency procedures. The LTC facility must do the following:
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the LTC facility experiences an actual natural or man-made emergency that requires activation of the emergency plan, the LTC facility is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(i) Participate in an annual full-scale exercise that is community-based; or
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise.
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(B) If the LTC facility experiences an actual natural or man-made emergency that requires activation of the emergency plan, the LTC facility is exempt from engaging its next required a full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(ii) Conduct an additional annual exercise that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the LTC facility's response to and maintain documentation of all drills, tabletop exercises, and emergency events, and revise the LTC facility's emergency plan, as needed.
 
@@ -124,7 +128,7 @@ The LTC facility must comply with all applicable Federal, State and local emerge
 
 (3) Demonstrate that each separately certified facility is capable of actively using the unified and integrated emergency preparedness program and is in compliance with the program.
 
-(4) Include a unified and integrated emergency plan that meets the requirements of paragraphs (a)(2), (3), and (4) of this section. The unified and integrated emergency plan must also be based on and include -
+(4) Include a unified and integrated emergency plan that meets the requirements of paragraphs (a)(2), (3), and (4) of this section. The unified and integrated emergency plan must also be based on and include—
 
 (i) A documented community-based risk assessment, utilizing an all-hazards approach.
 
@@ -162,4 +166,4 @@ The LTC facility must comply with all applicable Federal, State and local emerge
 
 (2) [Reserved]
 
-[81 FR 64030, Sept. 16, 2016; 81 FR 80594, Nov. 16, 2016]
+[81 FR 64030, Sept. 16, 2016; 81 FR 80594, Nov. 16, 2016; 84 FR 51824, Sept. 30, 2019]

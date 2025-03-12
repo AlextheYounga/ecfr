@@ -1,12 +1,12 @@
 ##### § 418.106 Condition of participation: Drugs and biologicals, medical supplies, and durable medical equipment. #####
 
-Link to an amendment published at 84 FR 51815, Sept. 30, 2019.
+Link to an amendment published at 84 FR 63202, Nov. 15, 2019.
 
 Medical supplies and appliances, as described in § 410.36 of this chapter; durable medical equipment, as described in § 410.38 of this chapter; and drugs and biologicals related to the palliation and management of the terminal illness and related conditions, as identified in the hospice plan of care, must be provided by the hospice while the patient is under hospice care.
 
-(a) *Standard: Managing drugs and biologicals.* (1) The hospice must ensure that the interdisciplinary group confers with an individual with education and training in drug management as defined in hospice policies and procedures and State law, who is an employee of or under contract with the hospice to ensure that drugs and biologicals meet each patient's needs.
+(a) *Standard: Managing drugs and biologicals.*(1) A hospice that provides inpatient care directly in its own facility must provide pharmacy services under the direction of a qualified licensed pharmacist who is an employee of or under contract with the hospice. The provided pharmacist services must include evaluation of a patient's response to medication therapy, identification of potential adverse drug reactions, and recommended appropriate corrective action.
 
-(2) A hospice that provides inpatient care directly in its own facility must provide pharmacy services under the direction of a qualified licensed pharmacist who is an employee of or under contract with the hospice. The provided pharmacist services must include evaluation of a patient's response to medication therapy, identification of potential adverse drug reactions, and recommended appropriate corrective action.
+(2) [Reserved]
 
 (b) *Standard: Ordering of drugs.* (1) Only a physician as defined by section 1861(r)(1) of the Act, or a nurse practitioner in accordance with the plan of care and State law, may order drugs for the patient.
 
@@ -59,3 +59,5 @@ Medical supplies and appliances, as described in § 410.36 of this chapter; dura
 (2) The hospice must ensure that the patient, where appropriate, as well as the family and/or other caregiver(s), receive instruction in the safe use of durable medical equipment and supplies. The hospice may use persons under contract to ensure patient and family instruction. The patient, family, and/or caregiver must be able to demonstrate the appropriate use of durable medical equipment to the satisfaction of the hospice staff.
 
 (3) Hospices may only contract for durable medical equipment services with a durable medical equipment supplier that meets the Medicare DMEPOS Supplier Quality and Accreditation Standards at 42 CFR 424.57.
+
+[73 FR 32204, June 5, 2008, as amended at 84 FR 51815, Sept. 30, 2019]

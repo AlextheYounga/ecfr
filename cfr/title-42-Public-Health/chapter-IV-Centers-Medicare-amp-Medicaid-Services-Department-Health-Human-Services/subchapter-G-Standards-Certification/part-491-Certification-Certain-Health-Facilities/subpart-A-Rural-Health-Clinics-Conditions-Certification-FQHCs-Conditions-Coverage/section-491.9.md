@@ -1,7 +1,5 @@
 ##### § 491.9 Provision of services. #####
 
-Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
-
 (a) *Basic requirements.* (1) All services offered by the clinic or center are furnished in accordance with applicable Federal, State, and local laws; and
 
 (2) The clinic or center is primarily engaged in providing outpatient health services and meets all other conditions of this subpart.
@@ -20,9 +18,9 @@ Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
 
 (iii) Rules for the storage, handling, and administration of drugs and biologicals.
 
-(4) These policies are reviewed at least annually by the group of professional personnel required under paragraph (b)(2) of this section and reviewed as necessary by the clinic or center.
+(4) These policies are reviewed at least biennially by the group of professional personnel required under paragraph (b)(2) of this section and reviewed as necessary by the RHC or FQHC.
 
-(c) *Direct services* - (1) *General.* The clinic or center staff furnishes those diagnostic and therapeutic services and supplies that are commonly furnished in a physician's office or at the entry point into the health care delivery system. These include medical history, physical examination, assessment of health status, and treatment for a variety of medical conditions.
+(c) *Direct services*—(1) *General.* The clinic or center staff furnishes those diagnostic and therapeutic services and supplies that are commonly furnished in a physician's office or at the entry point into the health care delivery system. These include medical history, physical examination, assessment of health status, and treatment for a variety of medical conditions.
 
 (2) *Laboratory.* These requirements apply to RHCs but not to FQHCs. The RHC provides laboratory services in accordance with part 493 of this chapter, which implements the provisions of section 353 of the Public Health Service Act. The RHC provides basic laboratory services essential to the immediate diagnosis and treatment of the patient, including:
 
@@ -50,4 +48,4 @@ Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
 
 (2) If the agreements are not in writing, there is evidence that patients referred by the clinic or center are being accepted and treated.
 
-[57 FR 24983, June 12, 1992, as amended at 58 FR 63536, Dec. 2, 1993]
+[57 FR 24983, June 12, 1992, as amended at 58 FR 63536, Dec. 2, 1993; 84 FR 51832, Sept. 30, 2019]

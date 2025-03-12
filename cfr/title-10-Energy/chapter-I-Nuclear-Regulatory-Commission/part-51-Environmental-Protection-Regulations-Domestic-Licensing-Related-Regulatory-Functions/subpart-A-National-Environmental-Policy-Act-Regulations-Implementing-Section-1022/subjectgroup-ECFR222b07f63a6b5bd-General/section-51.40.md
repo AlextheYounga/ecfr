@@ -1,5 +1,7 @@
 ##### § 51.40 Consultation with NRC staff. #####
 
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+
 (a) A prospective applicant or petitioner for rulemaking is encouraged to confer with NRC staff as early as possible in its planning process before submitting environmental information or filing an environmental report.
 
 (b) Requests for guidance or information on environmental matters may include inquiries relating to:

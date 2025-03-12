@@ -1,0 +1,3 @@
+##### § 1003.9 Method of submission of petitions, documents, and other materials. #####
+
+Absent exceptional circumstances, all submissions to the OHA, as provided in this part or otherwise, must be filed electronically in accordance with the instructions set forth on the OHA website, found at *https://www.energy.gov/oha/filing-information.* The OHA may grant permission to file via mail or facsimile. Any submissions made in hard copy will not be returned.

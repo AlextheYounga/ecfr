@@ -1,5 +1,7 @@
 ##### § 2.105 Notice of proposed action. #####
 
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+
 (a) If a hearing is not required by the Act or this chapter, and if the Commission has not found that a hearing is in the public interest, it will, before acting thereon, publish in the Federal Register, as applicable, or on the NRC's Web site, *http://www.nrc.gov,* or both, at the Commission's discretion, either a notice of intended operation under § 52.103(a) of this chapter and a proposed finding that inspections, tests, analyses, and acceptance criteria for a combined license under subpart C of part 52 have been or will be met, or a notice of proposed action with respect to an application for:
 
 (1) A license for a facility;

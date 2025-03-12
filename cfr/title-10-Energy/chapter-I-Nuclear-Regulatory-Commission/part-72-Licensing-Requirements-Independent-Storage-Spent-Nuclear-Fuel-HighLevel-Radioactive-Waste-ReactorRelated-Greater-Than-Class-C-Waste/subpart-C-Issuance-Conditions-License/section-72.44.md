@@ -1,5 +1,7 @@
 ##### § 72.44 License conditions. #####
 
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+
 (a) Each license issued under this part shall include license conditions. The license conditions may be derived from the analyses and evaluations included in the Safety Analysis Report and amendments thereto submitted pursuant to § 72.24. License conditions pertain to design, construction and operation. The Commission may also include additional license conditions as it finds appropriate.
 
 (b) Each license issued under this part shall be subject to the following conditions, even if they are not explicitly stated therein;

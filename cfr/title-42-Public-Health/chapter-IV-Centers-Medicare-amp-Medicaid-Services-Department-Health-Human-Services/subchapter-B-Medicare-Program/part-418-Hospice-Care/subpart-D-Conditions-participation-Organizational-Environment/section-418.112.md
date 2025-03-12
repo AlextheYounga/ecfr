@@ -1,7 +1,5 @@
 ##### § 418.112 Condition of participation: Hospices that provide hospice care to residents of a SNF/NF or ICF/IID. #####
 
-Link to an amendment published at 84 FR 51815, Sept. 30, 2019.
-
 In addition to meeting the conditions of participation at § 418.10 through § 418.116, a hospice that provides hospice care to residents of a SNF/NF or ICF/IID must abide by the following additional standards.
 
 (a) *Standard: Resident eligibility, election, and duration of benefits.* Medicare patients receiving hospice services and residing in a SNF, NF, or ICF/IID are subject to the Medicare hospice eligibility criteria set out at § 418.20 through § 418.30.
@@ -12,7 +10,7 @@ In addition to meeting the conditions of participation at § 418.10 through § 4
 
 (1) The manner in which the SNF/NF or ICF/IID and the hospice are to communicate with each other and document such communications to ensure that the needs of patients are addressed and met 24 hours a day.
 
-(2) A provision that the SNF/NF or ICF/IID immediately notifies the hospice if -
+(2) A provision that the SNF/NF or ICF/IID immediately notifies the hospice if—
 
 (i) A significant change in a patient's physical, mental, social, or emotional status occurs;
 
@@ -70,4 +68,6 @@ In addition to meeting the conditions of participation at § 418.10 through § 4
 
 (vii) Hospice physician and attending physician (if any) orders specific to each patient.
 
-(f) *Standard: Orientation and training of staff.* Hospice staff must assure orientation of SNF/NF or ICF/IID staff furnishing care to hospice patients in the hospice philosophy, including hospice policies and procedures regarding methods of comfort, pain control, symptom management, as well as principles about death and dying, individual responses to death, patient rights, appropriate forms, and record keeping requirements.
+(f) *Standard: Orientation and training of staff.* Hospice staff, in coordination with SNF/NF or ICF/IID facility staff, must assure orientation of such staff furnishing care to hospice patients in the hospice philosophy, including hospice policies and procedures regarding methods of comfort, pain control, symptom management, as well as principles about death and dying, individual responses to death, patient rights, appropriate forms, and record keeping requirements.
+
+[73 FR 32204, June 5, 2008, as amended at 84 FR 51815, Sept. 30, 2019]

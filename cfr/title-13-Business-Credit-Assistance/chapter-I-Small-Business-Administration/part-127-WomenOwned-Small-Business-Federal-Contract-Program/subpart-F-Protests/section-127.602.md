@@ -1,3 +1,5 @@
 ##### § 127.602 What are the grounds for filing an EDWOSB or WOSB status protest? #####
 
+Link to an amendment published at 84 FR 65251, Nov. 26, 2019.Link to an amendment published at 84 FR 65665, Nov. 29, 2019.
+
 SBA will consider a protest challenging the status of a concern as an EDWOSB or WOSB if the protest presents sufficient credible evidence to show that the concern may not be owned and controlled by one or more women who are United States citizens and, if the protest is in connection with an EDWOSB contract, that the concern is not at least 51 percent owned and controlled by one or more women who are economically disadvantaged. In addition, SBA will consider a protest challenging the status of a concern as an EDWOSB or WOSB if the contracting officer has protested because the WOSB or EDWOSB apparent successful offeror has failed to provide all of the required documents, as set forth in § 127.300.

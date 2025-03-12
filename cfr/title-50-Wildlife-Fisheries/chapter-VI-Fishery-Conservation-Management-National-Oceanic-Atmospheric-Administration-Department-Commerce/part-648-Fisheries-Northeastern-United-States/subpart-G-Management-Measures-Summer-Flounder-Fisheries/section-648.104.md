@@ -1,5 +1,7 @@
 ##### § 648.104 Summer flounder minimum fish sizes. #####
 
+Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
+
 (a) *Moratorium (commercial) permitted vessels.* The minimum size for summer flounder is 14 inches (35.6 cm) TL for all vessels issued a moratorium permit under § 648.4(a)(3), except on board party and charter boats carrying passengers for hire or carrying more than three crew members, if a charter boat, or more than five crew members, if a party boat.
 
 (b) *Party/charter permitted vessels and recreational fishery participants.* Unless otherwise specified pursuant to § 648.107, the minimum size for summer flounder is 19 inches (48.3 cm) TL for all vessels that do not qualify for a moratorium permit under § 648.4(a)(3), and charter boats holding a moratorium permit if fishing with more than three crew members, or party boats holding a moratorium permit if fishing with passengers for hire or carrying more than five crew members.

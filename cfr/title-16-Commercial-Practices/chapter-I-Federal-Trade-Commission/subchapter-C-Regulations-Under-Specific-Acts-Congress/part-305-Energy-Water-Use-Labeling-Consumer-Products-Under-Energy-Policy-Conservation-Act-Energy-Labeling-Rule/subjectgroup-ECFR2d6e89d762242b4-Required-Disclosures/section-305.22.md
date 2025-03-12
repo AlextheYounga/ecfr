@@ -1,0 +1,15 @@
+##### § 305.22 Energy information disclosures for heating and cooling equipment. #####
+
+The following provisions apply to any covered central air conditioner, heat pump, or furnace.
+
+(a) *Manufacturer duty to provide labels.* For any covered central air conditioner, heat pump, or furnace model that a manufacturer distributes in commerce, the manufacturer must make a copy of the EnergyGuide label available on a publicly accessible Web site in a manner that allows catalog sellers and consumers to hyperlink to the label or download it for their use. The labels must remain on the Web site for six months after the manufacturer ceases the model's production.
+
+(b) *Distribution.* (1) Manufacturers and private labelers must provide to distributors and retailers, including assemblers, EnergyGuide labels for covered central air conditioners, heat pumps, and furnaces (including boilers) they sell to them. The label may be provided in paper or electronic form (including Internet-based access). Distributors must give this information to retailers, including assemblers, they supply.
+
+(2) Retailers, including assemblers, who sell covered central air conditioners, heat pumps, and furnaces (including boilers) to consumers must show the labels for the products they offer to customers and let them read the labels before the customers agree to purchase the product. For example, the retailer may display labeled units in their store or direct consumers to the labels in a binder or computer at a counter or service desk.
+
+(3) Retailers, including installers and assemblers, who negotiate or make sales at a place other than their regular places of business, including sales over the telephone or through electronic communications, must show the labels for the products they offer to customers and let them read the labels before the customers agree to purchase the product. If the labels are on a Web site, retailers, including assemblers, who negotiate or make sales at a place other than their regular places of business, may choose to provide customers with instructions to access such labels in lieu of showing them a paper version of the information. Retailers who choose to use the Internet for the required label disclosures must provide customers the opportunity to read such information prior to sale of the product.
+
+(c) *Oil furnace labels.* If an installer installs an oil furnace with an input capacity different from that set by the manufacturer and the manufacturer identifies alternative capacities on the label, the installer must permanently mark the appropriate box on the EnergyGuide label displaying the installed input capacity and the associated AFUE as illustrated in Sample Labels in appendix L to this part.
+
+[81 FR 63650, Sept. 15, 2016. Redesignated at 84 FR 58029, Oct. 30, 2019]

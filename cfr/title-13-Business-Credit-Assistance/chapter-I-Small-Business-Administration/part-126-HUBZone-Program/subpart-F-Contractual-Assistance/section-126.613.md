@@ -1,5 +1,7 @@
 ##### § 126.613 How does a price evaluation preference affect the bid of a qualified HUBZone SBC in full and open competition? #####
 
+Link to an amendment published at 84 FR 65248, Nov. 26, 2019.
+
 (a)(1) Where a CO will award a contract on the basis of full and open competition, the CO must deem the price offered by a qualified HUBZone SBC to be lower than the price offered by another offeror (other than another SBC) if the price offered by the qualified HUBZone SBC is not more than 10% higher than the price offered by the otherwise lowest, responsive, and responsible offeror. For a best value procurement, the CO must apply the 10% preference to the otherwise successful offer of a large business and then determine which offeror represents the best value to the Government, in accordance with the terms of the solicitation. This does not apply if the HUBZone SBC will receive the contract as part of a reserve for HUBZone SBCs.
 
 (2) Where, after considering the price evaluation adjustment, the price offered by a qualified HUBZone SBC is equal to the price offered by a large business (or, in a best value procurement, the total evaluation points received by a qualified HUBZone SBC is equal to the total evaluation points received by a large business), award shall be made to the qualified HUBZone SBC.

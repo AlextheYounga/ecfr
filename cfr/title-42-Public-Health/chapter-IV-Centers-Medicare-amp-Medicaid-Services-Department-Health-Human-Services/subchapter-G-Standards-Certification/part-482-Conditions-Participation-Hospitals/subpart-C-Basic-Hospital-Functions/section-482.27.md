@@ -1,7 +1,5 @@
 ##### § 482.27 Condition of participation: Laboratory services. #####
 
-Link to an amendment published at 84 FR 51819, Sept. 30, 2019.
-
 The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients. The hospital must ensure that all laboratory services provided to its patients are performed in a facility certified in accordance with part 493 of this chapter.
 
 (a) *Standard: Adequacy of laboratory services.* The hospital must have laboratory services available, either directly or through a contractual agreement with a certified laboratory that meets requirements of part 493 of this chapter.
@@ -58,13 +56,11 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (iii) Document in the patient's medical record the notification or attempts to give the required notification.
 
-(7) *Timeframe for notification* - (i) *For donors tested on or after February 20, 2008.* For notifications resulting from donors tested on or after February 20, 2008 as set forth at 21 CFR 610.46 and 21 CFR 610.47 the notification effort begins when the blood collecting establishment notifies the hospital that it received potentially HIV or HCV infectious blood and blood components. The hospital must make reasonable attempts to give notification over a period of 12 weeks unless -
+(7) *Timeframe for notification* - For donors tested on or after February 20, 2008. For notifications resulting from donors tested on or after February 20, 2008 as set forth at 21 CFR 610.46 and 610.47 the notification effort begins when the blood collecting establishment notifies the hospital that it received potentially HIV or HCV infectious blood and blood components. The hospital must make reasonable attempts to give notification over a period of 12 weeks unless -
 
-(A) The patient is located and notified; or
+(i) The patient is located and notified; or
 
-(B) The hospital is unable to locate the patient and documents in the patient's medical record the extenuating circumstances beyond the hospital's control that caused the notification timeframe to exceed 12 weeks.
-
-(ii) For donors tested before February 20, 2008. For notifications resulting from donors tested before February 20, 2008 as set forth at 21 CFR 610.48(b) and (c), the notification effort begins when the blood collecting establishment notifies the hospital that it received potentially HCV infectious blood and blood components. The hospital must make reasonable attempts to give notification and must complete the actions within 1 year of the date on which the hospital received notification from the outside blood collecting establishment.
+(ii) The hospital is unable to locate the patient and documents in the patient's medical record the extenuating circumstances beyond the hospital's control that caused the notification timeframe to exceed 12 weeks.
 
 (8) *Content of notification.* The notification must include the following information:
 
@@ -78,12 +74,10 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (10) *Notification to legal representative or relative.* If the patient has been adjudged incompetent by a State court, the physician or hospital must notify a legal representative designated in accordance with State law. If the patient is competent, but State law permits a legal representative or relative to receive the information on the patient's behalf, the physician or hospital must notify the patient or his or her legal representative or relative. For possible HIV infectious transfusion beneficiaries that are deceased, the physician or hospital must inform the deceased patient's legal representative or relative. If the patient is a minor, the parents or legal guardian must be notified.
 
-(11) *Applicability.* HCV notification requirements resulting from donors tested before February 20, 2008 as set forth at 21 CFR 610.48 will expire on August 24, 2015.
-
 (c) *General blood safety issues.* For lookback activities only related to new blood safety issues that are identified after August 24, 2007, hospitals must comply with FDA regulations as they pertain to blood safety issues in the following areas:
 
 (1) Appropriate testing and quarantining of infectious blood and blood components.
 
 (2) Notification and counseling of beneficiaries that may have received infectious blood and blood components.
 
-[57 FR 7136, Feb. 28, 1992, as amended at 61 FR 47433, Sept. 9, 1996; 72 FR 48573, Aug. 24, 2007]
+[57 FR 7136, Feb. 28, 1992, as amended at 61 FR 47433, Sept. 9, 1996; 72 FR 48573, Aug. 24, 2007; 84 FR 51819, Sept. 30, 2019]

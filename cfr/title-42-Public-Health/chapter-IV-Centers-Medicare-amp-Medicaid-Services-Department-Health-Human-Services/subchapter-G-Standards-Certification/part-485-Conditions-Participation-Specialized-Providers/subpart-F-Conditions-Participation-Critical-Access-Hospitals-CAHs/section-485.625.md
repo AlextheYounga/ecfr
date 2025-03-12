@@ -1,10 +1,8 @@
 ##### § 485.625 Condition of participation: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51826, Sept. 30, 2019.
-
 The CAH must comply with all applicable Federal, State, and local emergency preparedness requirements. The CAH must develop and maintain a comprehensive emergency preparedness program, utilizing an all-hazards approach. The emergency preparedness plan must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The CAH must develop and maintain an emergency preparedness plan that must be reviewed and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The CAH must develop and maintain an emergency preparedness plan that must be reviewed and updated at least every 2 years. The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,11 +10,11 @@ The CAH must comply with all applicable Federal, State, and local emergency prep
 
 (3) Address patient population, including, but not limited to, persons at-risk; the type of services the CAH has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the CAH's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The CAH must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The CAH must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
-(1) The provision of subsistence needs for staff and patients, whether they evacuate or shelter in place, include, but are not limited to -
+(1) The provision of subsistence needs for staff and patients, whether they evacuate or shelter in place, include, but are not limited to—
 
 (i) Food, water, medical, and pharmaceutical supplies;
 
@@ -44,7 +42,7 @@ The CAH must comply with all applicable Federal, State, and local emergency prep
 
 (8) The role of the CAH under a waiver declared by the Secretary, in accordance with section 1135 of the Act, in the provision of care and treatment at an alternate care site identified by emergency management officials.
 
-(c) *Communication plan.* The CAH must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The CAH must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -78,27 +76,35 @@ The CAH must comply with all applicable Federal, State, and local emergency prep
 
 (7) A means of providing information about the CAH's occupancy, needs, and its ability to provide assistance, to the authority having jurisdiction or the Incident Command Center, or designee.
 
-(d) *Training and testing.* The CAH must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The CAH must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The CAH must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures, including prompt reporting and extinguishing of fires, protection, and where necessary, evacuation of patients, personnel, and guests, fire prevention, and cooperation with firefighting and disaster authorities, to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Maintain documentation of the training.
 
 (iv) Demonstrate staff knowledge of emergency procedures.
 
-(2) *Testing.* The CAH must conduct exercises to test the emergency plan at least annually. The CAH must do the following:
+(v) If the emergency preparedness policies and procedures are significantly updated, the CAH must conduct training on the updated policies and procedures.
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based exercise. If the CAH experiences an actual natural or man-made emergency that requires activation of the emergency plan, the CAH is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(2) *Testing.* The CAH must conduct exercises to test the emergency plan at least twice per year. The CAH must do the following:
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(i) Participate in an annual full-scale exercise that is community-based; or
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise; or.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(B) If the CAH experiences an actual natural or man-made emergency that requires activation of the emergency plan, the CAH is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
+
+(ii) Conduct an annual additional exercise, that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the CAH's response to and maintain documentation of all drills, tabletop exercises, and emergency events, and revise the CAH's emergency plan, as needed.
 
@@ -118,7 +124,7 @@ The CAH must comply with all applicable Federal, State, and local emergency prep
 
 (3) Demonstrate that each separately certified facility is capable of actively using the unified and integrated emergency preparedness program and is in compliance with the program.
 
-(4) Include a unified and integrated emergency plan that meets the requirements of paragraphs (a)(2), (3), and (4) of this section. The unified and integrated emergency plan must also be based on and include -
+(4) Include a unified and integrated emergency plan that meets the requirements of paragraphs (a)(2), (3), and (4) of this section. The unified and integrated emergency plan must also be based on and include—
 
 (i) A documented community-based risk assessment, utilizing an all-hazards approach.
 
@@ -156,4 +162,4 @@ The CAH must comply with all applicable Federal, State, and local emergency prep
 
 (2) [Reserved]
 
-[81 FR 64036, Sept. 16, 2016; 81 FR 80594, Nov. 16, 2016]
+[81 FR 64036, Sept. 16, 2016; 81 FR 80594, Nov. 16, 2016, as amended at 84 FR 51826, Sept. 30, 2019]

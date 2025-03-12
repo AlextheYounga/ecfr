@@ -1,5 +1,7 @@
 ##### § 2.106 Notice of issuance. #####
 
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+
 (a) The Director, Office of New Reactors, Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, will inform the State and local officials specified in § 2.104(c) and publish a document in the Federal Register announcing the issuance of:
 
 (1) A license or an amendment of a license for which a notice of proposed action has been previously published;

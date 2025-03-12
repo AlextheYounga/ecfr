@@ -1,7 +1,5 @@
 ##### § 484.80 Condition of participation: Home health aide services. #####
 
-Link to an amendment published at 84 FR 51825, Sept. 30, 2019.
-
 All home health aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section.
 
 (a) *Standard: Home health aide qualifications.* (1) A qualified home health aide is a person who has successfully completed:
@@ -68,7 +66,7 @@ All home health aide services must be provided by individuals who meet the perso
 
 (c) *Standard: Competency evaluation.* An individual may furnish home health services on behalf of an HHA only after that individual has successfully completed a competency evaluation program as described in this section.
 
-(1) The competency evaluation must address each of the subjects listed in paragraph (b)(3) of this section. Subject areas specified under paragraphs (b)(3)(i), (iii), (ix), (x), and (xi) of this section must be evaluated by observing an aide's performance of the task with a patient. The remaining subject areas may be evaluated through written examination, oral examination, or after observation of a home health aide with a patient.
+(1) The competency evaluation must address each of the subjects listed in paragraph (b)(3) of this section. Subject areas specified under paragraphs (b)(3)(i), (iii), (ix), (x), and (xi) of this section must be evaluated by observing an aide's performance of the task with a patient or pseudo-patient. The remaining subject areas may be evaluated through written examination, oral examination, or after observation of a home health aide with a patient, or with a pseudo-patient as part of a simulation.
 
 (2) A home health aide competency evaluation program may be offered by any organization, except as specified in paragraph (f) of this section.
 
@@ -146,7 +144,7 @@ All home health aide services must be provided by individuals who meet the perso
 
 (2) If home health aide services are provided to a patient who is not receiving skilled nursing care, physical or occupational therapy, or speech-language pathology services, the registered nurse must make an on-site visit to the location where the patient is receiving care no less frequently than every 60 days in order to observe and assess each aide while he or she is performing care.
 
-(3) If a deficiency in aide services is verified by the registered nurse or other appropriate skilled professional during an on-site visit, then the agency must conduct, and the home health aide must complete a competency evaluation in accordance with paragraph (c) of this section.
+(3) If a deficiency in aide services is verified by the registered nurse or other appropriate skilled professional during an on-site visit, then the agency must conduct, and the home health aide must complete, retraining and a competency evaluation related to the deficient skill(s).
 
 (4) Home health aide supervision must ensure that aides furnish care in a safe and effective manner, including, but not limited to, the following elements:
 
@@ -171,3 +169,5 @@ All home health aide services must be provided by individuals who meet the perso
 (iii) Ensuring that home health aides who provide services under arrangement have met the training or competency evaluation requirements, or both, of this part.
 
 (i) *Standard: Individuals furnishing Medicaid personal care aide-only services under a Medicaid personal care benefit.* An individual may furnish personal care services, as defined in § 440.167 of this chapter, on behalf of an HHA. Before the individual may furnish personal care services, the individual must meet all qualification standards established by the state. The individual only needs to demonstrate competency in the services the individual is required to furnish.
+
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019]

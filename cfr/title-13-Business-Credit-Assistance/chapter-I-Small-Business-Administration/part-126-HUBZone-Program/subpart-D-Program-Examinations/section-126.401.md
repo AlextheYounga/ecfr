@@ -1,5 +1,7 @@
 ##### § 126.401 What is a program examination and what will SBA examine? #####
 
+Link to an amendment published at 84 FR 65244, Nov. 26, 2019.
+
 (a) *General.* A program examination is an investigation by SBA officials, which verifies the accuracy of any certification made or information provided as part of the HUBZone application process or in connection with a HUBZone contract. Thus, examiners may verify that the concern currently meets the program's eligibility requirements, and that it met such requirements at the time of its application for certification, its most recent recertification, or its certification in connection with a HUBZone contract.
 
 (b) *Scope of review.* Examiners may conduct the review, or parts of the review, at one or all of the concern's offices. SBA will determine the location of the examination. Examiners may review any information related to the concern's eligibility requirements including, but not limited to, documentation related to the location and ownership of the concern, the employee percentage requirements, and the concern's “attempt to maintain” (*see* § 126.103) this percentage. The concern must document each employee's residence address through employment records. The examiner also may review property tax, public utility or postal records, and other relevant documents. The concern must retain documentation demonstrating satisfaction of the employee residence and other qualifying requirements for 6 years from date of submission of the application and any recertifications issued to SBA.

@@ -1,5 +1,7 @@
 ##### § 648.144 Black sea bass gear restrictions. #####
 
+Link to an amendment published at 84 FR 65705, Nov. 29, 2019.
+
 (a) *Trawl gear restrictions* - (1) *General.* (i) Otter trawlers whose owners are issued a black sea bass moratorium permit and that land or possess 500 lb (226.8 kg) or more of black sea bass from January 1 through March 31, or 100 lb (45.4 kg) or more of black sea bass from April 1 through December 31, must fish with nets that have a minimum mesh size of 4.5-inch (11.43-cm) diamond mesh applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net, or for codends with less than 75 meshes, the entire net must have a minimum mesh size of 4.5-inch (11.43-cm) diamond mesh throughout.
 
 (ii) Mesh sizes shall be measured pursuant to the procedure specified in § 648.104(a)(2).

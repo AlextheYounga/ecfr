@@ -1,5 +1,7 @@
 ##### § 126.602 Must a qualified HUBZone SBC maintain the employee residency percentage during contract performance? #####
 
+Link to an amendment published at 84 FR 65247, Nov. 26, 2019.
+
 (a) Qualified HUBZone SBCs eligible for the program pursuant to § 126.200(b) must meet the HUBZone residency requirement at all times while certified in the program. However, the qualified HUBZone SBC may “attempt to maintain” (*see* § 126.103) the required percentage of employees who reside in a HUBZone during the performance of any HUBZone contract awarded to the concern on the basis of its HUBZone status, except as set forth in paragraph (d).
 
 (b) For indefinite delivery, indefinite quantity contracts, including Multiple Award Contracts, the qualified HUBZone SBC must attempt to maintain the residency requirement during the performance of each order that is set-aside for HUBZone SBCs.

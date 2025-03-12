@@ -1,5 +1,7 @@
 ##### § 126.306 How will SBA process the certification? #####
 
+Link to an amendment published at 84 FR 65244, Nov. 26, 2019.
+
 (a) The D/HUB or designee is authorized to approve or decline applications for certification. SBA will receive and review all applications and request supporting documents. SBA must receive all required information, supporting documents, and completed HUBZone representation before it will begin processing a concern's application. SBA will not process incomplete packages. SBA will make its determination within ninety (90) calendar days after receipt of a complete package whenever practicable. The decision of the D/HUB or designee is the final agency decision.
 
 (b) SBA may request additional information or clarification of information contained in an application or document submission at any time.

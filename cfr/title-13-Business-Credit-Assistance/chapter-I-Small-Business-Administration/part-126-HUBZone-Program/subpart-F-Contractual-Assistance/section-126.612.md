@@ -1,5 +1,7 @@
 ##### § 126.612 When may a CO award sole source contracts to qualified HUBZone SBCs? #####
 
+Link to an amendment published at 84 FR 65248, Nov. 26, 2019.
+
 A contracting officer may award a sole source contract to a qualified HUBZone SBC only when the contracting officer determines that:
 
 (a) None of the provisions of §§ 126.605 or 126.607 apply;

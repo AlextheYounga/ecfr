@@ -1,6 +1,6 @@
 ##### § 414.1420 Other payer advanced APM criteria. #####
 
-Link to an amendment published at 83 FR 60090, November 23, 2018.
+Link to an amendment published at 83 FR 60090, November 23, 2018.Link to an amendment published at 84 FR 63200, Nov. 15, 2019.
 
 (a) *Other Payer Advanced APM criteria.* A payment arrangement with a payer other than Medicare is an Other Payer Advanced APM for a QP Performance Period if CMS determines that the arrangement meets the following criteria during the QP Performance Period:
 

@@ -1,5 +1,7 @@
 ##### § 126.611 What is the process for such an appeal? #####
 
+Link to an amendment published at 84 FR 65248, Nov. 26, 2019.
+
 (a) *Notice of appeal.* When the contracting officer rejects a recommendation by SBA's Procurement Center Representative to make a requirement available for award as a HUBZone contract, he or she must notify the Procurement Center Representative as soon as practicable. If the Administrator intends to appeal the decision, SBA must notify the contracting officer no later than five business days after receiving notice of the contracting officer's decision.
 
 (b) *Suspension of action.* Upon receipt of notice of SBA's intent to appeal, the contracting officer must suspend further action regarding the procurement until the head of the contracting activity issues a written decision on the appeal, unless the head of the contracting activity makes a written determination that urgent and compelling circumstances which significantly affect the interests of the United States compel award of the contract.

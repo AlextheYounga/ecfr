@@ -1,5 +1,7 @@
 ##### § 126.618 How does a HUBZone SBC's participation in a Mentor-Protégé relationship affect its participation in the HUBZone Program? #####
 
+Link to an amendment published at 84 FR 65249, Nov. 26, 2019.
+
 (a) A qualified HUBZone SBC may enter into a mentor-protégé relationship under § 125.9 of this chapter (or, if also an 8(a) BD Participant, under § 124.520 of this chapter) or in connection with a mentor-protégé program of another agency, provided that such relationships do not conflict with the underlying HUBZone requirements.
 
 (b) For purposes of determining whether an applicant to the HUBZone Program or a HUBZone SBC qualifies as small under part 121 of this chapter, SBA will not find affiliation between the applicant or qualified HUBZone SBC and the firm that is its mentor in an SBA-approved mentor-protégé relationship (including a mentor that is other than small) on the basis of the mentor-protégé agreement or the assistance provided to the protégé firm under the agreement. SBA will not consider the employees of the mentor in determining whether the applicant or qualified HUBZone SBC meets (or continues to meet) the 35% HUBZone residency requirement or the principal office requirement, or in determining the size of the applicant or qualified HUBZone SBC for any employee-based size standard.

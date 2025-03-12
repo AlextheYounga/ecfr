@@ -1,6 +1,4 @@
-##### § 416.47 Condition for coverage - Medical records. #####
-
-Link to an amendment published at 84 FR 51814, Sept. 30, 2019.
+##### § 416.47 Condition for coverage—Medical records. #####
 
 The ASC must maintain complete, comprehensive, and accurate medical records to ensure adequate patient care.
 
@@ -10,7 +8,7 @@ The ASC must maintain complete, comprehensive, and accurate medical records to e
 
 (1) Patient identification.
 
-(2) Significant medical history and results of physical examination.
+(2) Significant medical history and results of physical examination (as applicable).
 
 (3) Pre-operative diagnostic studies (entered before surgery), if performed.
 
@@ -23,3 +21,5 @@ The ASC must maintain complete, comprehensive, and accurate medical records to e
 (7) Documentation of properly executed informed patient consent.
 
 (8) Discharge diagnosis.
+
+[47 FR 34094, Aug. 5, 1982, as amended at 84 FR 51814, Sept. 30, 2019]

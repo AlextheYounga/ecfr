@@ -1,5 +1,7 @@
 ##### § 71.17 General license: NRC-approved package. #####
 
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+
 (a) A general license is issued to any licensee of the Commission to transport, or to deliver to a carrier for transport, licensed material in a package for which a license, certificate of compliance (CoC), or other approval has been issued by the NRC.
 
 (b) This general license applies only to a licensee who has a quality assurance program approved by the Commission as satisfying the provisions of subpart H of this part.

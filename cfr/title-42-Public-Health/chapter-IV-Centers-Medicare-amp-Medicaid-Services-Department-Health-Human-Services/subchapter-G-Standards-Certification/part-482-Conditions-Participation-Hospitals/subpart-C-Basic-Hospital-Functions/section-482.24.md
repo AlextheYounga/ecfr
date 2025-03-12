@@ -1,7 +1,5 @@
 ##### § 482.24 Condition of participation: Medical record services. #####
 
-Link to an amendment published at 84 FR 51819, Sept. 30, 2019.
-
 The hospital must have a medical record service that has administrative responsibility for medical records. A medical record must be maintained for every individual evaluated or treated in the hospital.
 
 (a) *Standard: Organization and staffing.* The organization of the medical record service must be appropriate to the scope and complexity of the services performed. The hospital must employ adequate personnel to ensure prompt completion, filing, and retrieval of records.
@@ -34,9 +32,11 @@ The hospital must have a medical record service that has administrative responsi
 
 (i) Evidence of -
 
-(A) A medical history and physical examination completed and documented no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services. The medical history and physical examination must be placed in the patient's medical record within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services.
+(A) A medical history and physical examination completed and documented no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, and except as provided under paragraph (c)(4)(i)(C) of this section. The medical history and physical examination must be placed in the patient's medical record within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services.
 
-(B) An updated examination of the patient, including any changes in the patient's condition, when the medical history and physical examination are completed within 30 days before admission or registration. Documentation of the updated examination must be placed in the patient's medical record within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services.
+(B) An updated examination of the patient, including any changes in the patient's condition, when the medical history and physical examination are completed within 30 days before admission or registration, and except as provided under paragraph (c)(4)(i)(C) of this section. Documentation of the updated examination must be placed in the patient's medical record within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services.
+
+(C) An assessment of the patient (in lieu of the requirements of paragraphs (c)(4)(i)(A) and (B) of this section) completed and documented after registration, but prior to surgery or a procedure requiring anesthesia services, when the patient is receiving specific outpatient surgical or procedural services and when the medical staff has chosen to develop and maintain a policy that identifies, in accordance with the requirements at § 482.22(c)(5)(v), specific patients as not requiring a comprehensive medical history and physical examination, or any update to it, prior to specific outpatient surgical or procedural services.
 
 (ii) Admitting diagnosis.
 
@@ -52,4 +52,4 @@ The hospital must have a medical record service that has administrative responsi
 
 (viii) Final diagnosis with completion of medical records within 30 days following discharge.
 
-[51 FR 22042, June 17, 1986, as amended at 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 77 FR 29074, May 16, 2012]
+[51 FR 22042, June 17, 1986, as amended at 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 77 FR 29074, May 16, 2012; 84 FR 51819, Sept. 30, 2019]

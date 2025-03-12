@@ -1,5 +1,7 @@
 ##### § 126.304 What must a concern submit to SBA? #####
 
+Link to an amendment published at 84 FR 65244, Nov. 26, 2019.
+
 (a) To be certified by SBA as a qualified HUBZone SBC, a concern must submit a completed application and represent to SBA that it meets the requirements set forth in § 126.200. After submitting the application, applicants must notify SBA of any material changes that could affect its eligibility. The concern must also submit any additional information required by SBA.
 
 (b) Concerns applying for HUBZone status based on a location within the external boundaries of an Indian reservation must use SBA's maps (located at *https://eweb1.sba.gov/hubzone/internet/*) to verify that the location is within the external boundaries of an Indian reservation. If, however, SBA's maps indicate that the location is not within the external boundaries of an Indian reservation and the concern disagrees, then the concern must submit official documentation from the appropriate Bureau of Indian Affairs (BIA) Land Titles and Records Office with jurisdiction over the concern's area, confirming that it is located within the external boundaries of an Indian reservation. BIA lists the Land Titles and Records Offices and their jurisdiction in 25 CFR 150.4 and 150.5.

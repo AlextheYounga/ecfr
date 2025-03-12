@@ -1,5 +1,7 @@
 ##### § 648.147 Black sea bass minimum fish sizes. #####
 
+Link to an amendment published at 84 FR 65705, Nov. 29, 2019.
+
 (a) *Moratorium (commercially) permitted vessels.* The minimum size for black sea bass is 11 inches (27.94 cm) total length for all vessels issued a moratorium permit under § 648.4(a)(7) that fish for, possess, land or retain black sea bass in or from U.S. waters of the western Atlantic Ocean from 35°15.3′ N. Lat., the latitude of Cape Hatteras Light, North Carolina, northward to the U.S.-Canadian border. The minimum size may be adjusted for commercial vessels pursuant to the procedures in § 648.142.
 
 (b) *Party/Charter permitted vessels and recreational fishery participants.* The minimum fish size for black sea bass is 12.5 inches (31.75 cm) TL for all vessels that do not qualify for a moratorium permit, and for party boats holding a moratorium permit, if fishing with passengers for hire or carrying more than five crew members, and for charter boats holding a moratorium permit, if fishing with more than three crew members.

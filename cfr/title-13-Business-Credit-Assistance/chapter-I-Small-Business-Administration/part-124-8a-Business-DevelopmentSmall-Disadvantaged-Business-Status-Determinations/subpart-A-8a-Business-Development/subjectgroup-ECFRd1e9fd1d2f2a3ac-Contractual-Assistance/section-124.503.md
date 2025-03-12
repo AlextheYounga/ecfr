@@ -1,5 +1,7 @@
 ##### § 124.503 How does SBA accept a procurement for award through the 8(a) BD program? #####
 
+Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
+
 (a) *Acceptance of the requirement.* Upon receipt of the procuring activity's offer of a procurement requirement, SBA will determine whether it will accept the requirement for the 8(a) BD program. SBA's decision whether to accept the requirement will be sent to the procuring activity in writing within 10 working days of receipt of the written offering letter if the contract is valued at more than the simplified acquisition threshold, and within two days of receipt of the offering letter if the contract is valued at or below the simplified acquisition threshold, unless SBA requests, and the procuring activity grants, an extension. SBA is not required to accept any particular procurement offered to the 8(a) BD program.
 
 (1) Where SBA decides to accept an offering of a sole source 8(a) procurement, SBA will accept the offer both on behalf of the 8(a) BD program and in support of a specific Participant. As part of its acceptance of a sole source requirement, SBA will determine the eligibility of the Participant identified in the offering letter, using the same analysis set forth in § 124.507(b)(2). Where a procuring agency offers a sole source 8(a) procurement on behalf of a joint venture, SBA will conduct an eligibility review of the lead 8(a) party to the joint venture as part of its acceptance, and will approve the joint venture prior to award pursuant to § 124.513(e).

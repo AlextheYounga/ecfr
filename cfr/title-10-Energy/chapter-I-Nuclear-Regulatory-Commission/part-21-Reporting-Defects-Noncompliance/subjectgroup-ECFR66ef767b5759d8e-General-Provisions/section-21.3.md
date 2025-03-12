@@ -1,5 +1,7 @@
 ##### § 21.3 Definitions. #####
 
+Link to an amendment published at 84 FR 63567, Nov. 18, 2019.
+
 As used in this part:
 
 *Basic component.* (1)(i) When applied to nuclear power plants licensed under 10 CFR part 50 or part 52 of this chapter, basic component means a structure, system, or component, or part thereof that affects its safety function necessary to assure:

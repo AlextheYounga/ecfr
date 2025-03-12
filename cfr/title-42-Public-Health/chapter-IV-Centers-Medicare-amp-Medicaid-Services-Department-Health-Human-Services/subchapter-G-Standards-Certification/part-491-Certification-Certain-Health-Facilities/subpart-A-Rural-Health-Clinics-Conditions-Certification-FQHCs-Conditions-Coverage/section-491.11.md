@@ -1,8 +1,6 @@
 ##### § 491.11 Program evaluation. #####
 
-Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
-
-(a) The clinic or center carries out, or arranges for, an annual evaluation of its total program.
+(a) The clinic or center carries out, or arranges for, a biennial evaluation of its total program.
 
 (b) The evaluation includes review of:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
 
 (d) The clinic or center staff considers the findings of the evaluation and takes corrective action if necessary.
 
-[71 FR 55346, Sept. 22, 2006]
+[71 FR 55346, Sept. 22, 2006, as amended at 84 FR 51832, Sept. 30, 2019]

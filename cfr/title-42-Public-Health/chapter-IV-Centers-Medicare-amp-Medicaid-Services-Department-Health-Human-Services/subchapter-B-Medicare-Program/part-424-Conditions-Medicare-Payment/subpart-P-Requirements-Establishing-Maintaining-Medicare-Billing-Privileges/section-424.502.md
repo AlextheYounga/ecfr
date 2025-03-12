@@ -1,5 +1,7 @@
 ##### § 424.502 Definitions. #####
 
+Link to an amendment published at 84 FR 63203, Nov. 15, 2019.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Affiliation* means, for purposes of applying § 424.519, any of the following:

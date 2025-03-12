@@ -1,7 +1,5 @@
 ##### § 418.76 Condition of participation: Hospice aide and homemaker services. #####
 
-Link to an amendment published at 84 FR 51815, Sept. 30, 2019.
-
 All hospice aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section. Homemaker services must be provided by individuals who meet the personnel requirements specified in paragraph (j) of this section.
 
 (a) *Standard: Hospice aide qualifications.* (1) A qualified hospice aide is a person who has successfully completed one of the following:
@@ -12,7 +10,7 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (iii) A nurse aide training and competency evaluation program approved by the State as meeting the requirements of § 483.151 through § 483.154 of this chapter, and is currently listed in good standing on the State nurse aide registry.
 
-(iv) A State licensure program that meets the requirements of paragraphs (b) and (c) of this section.
+(iv) A State licensure program.
 
 (2) A hospice aide is not considered to have completed a program, as specified in paragraph (a)(1) of this section, if, since the individual's most recent completion of the program(s), there has been a continuous period of 24 consecutive months during which none of the services furnished by the individual as described in § 409.40 of this chapter were for compensation. If there has been a 24-month lapse in furnishing services, the individual must complete another program, as specified in paragraph (a)(1) of this section, before providing services.
 
@@ -174,4 +172,4 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (3) Homemakers must report all concerns about the patient or family to the member of the interdisciplinary group who is coordinating homemaker services.
 
-[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009; 82 FR 4578, Jan. 13, 2017]
+[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009; 82 FR 4578, Jan. 13, 2017; 84 FR 51815, Sept. 30, 2019]

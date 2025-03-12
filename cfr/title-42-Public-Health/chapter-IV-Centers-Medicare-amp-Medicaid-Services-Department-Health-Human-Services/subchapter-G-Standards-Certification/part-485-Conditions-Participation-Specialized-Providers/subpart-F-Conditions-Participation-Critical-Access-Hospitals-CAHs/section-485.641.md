@@ -1,41 +1,37 @@
-##### § 485.641 Condition of participation: Periodic evaluation and quality assurance review. #####
+##### § 485.641 Condition of participation: Quality assessment and performance improvement program. #####
 
-Link to an amendment published at 84 FR 51828, Sept. 30, 2019.
+The CAH must develop, implement, and maintain an effective, ongoing, CAH-wide, data-driven quality assessment and performance improvement (QAPI) program. The CAH must maintain and demonstrate evidence of the effectiveness of its QAPI program.
 
-(a) *Standard: Periodic evaluation* - (1) The CAH carries out or arranges for a periodic evaluation of its total program. The evaluation is done at least once a year and includes review of -
+(a) *Definitions.* For the purposes of this section -
 
-(i) The utilization of CAH services, including at least the number of patients served and the volume of services;
+*Adverse event* means an untoward, undesirable, and usually unanticipated event that causes death or serious injury or the risk thereof.
 
-(ii) A representative sample of both active and closed clinical records; and
+*Error* means the failure of a planned action to be completed as intended or the use of a wrong plan to achieve an aim. Errors can include problems in practice, products, procedures, and systems; and
 
-(iii) The CAH's health care policies.
+*Medical error* means an error that occurs in the delivery of healthcare services.
 
-(2) The purpose of the evaluation is to determine whether the utilization of services was appropriate, the established policies were followed, and any changes are needed.
+(b) *Standard: QAPI Program Design and scope.* The CAH's QAPI program must:
 
-(b) *Standard: Quality assurance.* The CAH has an effective quality assurance program to evaluate the quality and appropriateness of the diagnosis and treatment furnished in the CAH and of the treatment outcomes. The program requires that -
+(1) Be appropriate for the complexity of the CAH's organization and services provided.
 
-(1) All patient care services and other services affecting patient health and safety, are evaluated;
+(2) Be ongoing and comprehensive.
 
-(2) Nosocomial infections and medication therapy are evaluated;
+(3) Involve all departments of the CAH and services (including those services furnished under contract or arrangement).
 
-(3) The quality and appropriateness of the diagnosis and treatment furnished by nurse practitioners, clinical nurse specialists, and physician assistants at the CAH are evaluated by a member of the CAH staff who is a doctor of medicine or osteopathy or by another doctor of medicine or osteopathy under contract with the CAH;
+(4) Use objective measures to evaluate its organizational processes, functions and services.
 
-(4) The quality and appropriateness of the diagnosis and treatment furnished by doctors of medicine or osteopathy at the CAH are evaluated by -
+(5) Address outcome indicators related to improved health outcomes and the prevention and reduction of medical errors, adverse events, CAH-acquired conditions, and transitions of care, including readmissions.
 
-(i) One hospital that is a member of the network, when applicable;
+(c) *Standard: Governance and leadership.* The CAH's governing body or responsible individual is ultimately responsible for the CAH's QAPI program and is responsible and accountable for ensuring that the QAPI program meets the requirements of paragraph (b) of this section.
 
-(ii) One QIO or equivalent entity;
+(d) *Standard: Program activities.* For each of the areas listed in paragraph (b) of this section, the CAH must:
 
-(iii) One other appropriate and qualified entity identified in the State rural health care plan;
+(1) Focus on measures related to improved health outcomes that are shown to be predictive of desired patient outcomes.
 
-(iv) In the case of distant-site physicians and practitioners providing telemedicine services to the CAH's patients under a written agreement between the CAH and a distant-site hospital, the distant-site hospital; or
+(2) Use the measures to analyze and track its performance.
 
-(v) In the case of distant-site physicians and practitioners providing telemedicine services to the CAH's patients under a written agreement between the CAH and a distant-site telemedicine entity, one of the entities listed in paragraphs (b)(4)(i) through (iii) of this section; and
+(3) Set priorities for performance improvement, considering either high-volume, high-risk services, or problem-prone areas.
 
-(5)(i) The CAH staff considers the findings of the evaluations, including any findings or recommendations of the QIO, and takes corrective action if necessary.
+(e) *Standard: Program data collection and analysis.* The program must incorporate quality indicator data including patient care data, and other relevant data, in order to achieve the goals of the QAPI program.
 
-(ii) The CAH also takes appropriate remedial action to address deficiencies found through the quality assurance program.
-
-(iii) The CAH documents the outcome of all remedial action.
-
-[58 FR 30671, May 26, 1993, as amended at 62 FR 46037, Aug. 29, 1997; 63 FR 26359, May 12, 1998; 76 FR 25564, May 5, 2011]
+[84 FR 51828, Sept. 30, 2019]

@@ -1,5 +1,7 @@
 ##### § 648.107 Conservation equivalent measures for the summer flounder fishery. #####
 
+Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
+
 (a) The Regional Administrator has determined that the recreational fishing measures proposed to be implemented by the states of Maine through North Carolina for 2019 are the conservation equivalent of the minimum size, season, and possession limit prescribed in §§ 648.104(b), 648.105, and 648.106. This determination is based on a recommendation from the Summer Flounder Board of the Atlantic States Marine Fisheries Commission.
 
 (1) Federally permitted vessels subject to the recreational fishing measures of this part, and other recreational fishing vessels harvesting summer flounder in or from the EEZ and subject to the recreational fishing measures of this part, landing summer flounder in a state whose fishery management measures are determined by the Regional Administrator to be conservation equivalent shall not be subject to the more restrictive Federal measures, pursuant to the provisions of § 648.4(b). Those vessels shall be subject to the recreational fishing measures implemented by the state in which they land.

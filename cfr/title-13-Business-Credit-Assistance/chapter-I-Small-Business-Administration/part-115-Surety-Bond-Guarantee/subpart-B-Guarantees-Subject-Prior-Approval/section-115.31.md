@@ -1,5 +1,7 @@
 ##### § 115.31 Guarantee percentage. #####
 
+Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
+
 (a) *Ninety percent.* SBA reimburses a Prior Approval Surety for 90% of the Loss incurred and paid if:
 
 (1) The total amount of the Contract at the time of Execution of the bond is $100,000 or less; or

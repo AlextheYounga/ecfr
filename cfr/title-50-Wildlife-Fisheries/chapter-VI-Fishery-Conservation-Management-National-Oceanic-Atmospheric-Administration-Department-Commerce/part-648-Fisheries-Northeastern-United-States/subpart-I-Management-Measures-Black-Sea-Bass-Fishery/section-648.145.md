@@ -1,5 +1,7 @@
 ##### § 648.145 Black sea bass possession limit. #####
 
+Link to an amendment published at 84 FR 65705, Nov. 29, 2019.
+
 (a) During the recreational fishing season specified at § 648.146, no person shall possess more than 15 black sea bass in, or harvested from, per trip the EEZ unless that person is the owner or operator of a fishing vessel issued a black sea bass moratorium permit, or is issued a black sea bass dealer permit. Persons aboard a commercial vessel that is not eligible for a black sea bass moratorium permit may not retain more than 15 black sea bass during the recreational fishing season specified at § 648.146. The owner, operator, and crew of a charter or party boat issued a black sea bass moratorium permit are subject to the possession limit when carrying passengers for hire or when carrying more than five crew members for a party boat, or more than three crew members for a charter boat. This possession limit may be adjusted pursuant to the procedures in § 648.142.
 
 (b) If whole black sea bass are processed into fillets, an authorized officer will convert the number of fillets to whole black sea bass at the place of landing by dividing fillet number by two. If black sea bass are filleted into a single (butterfly) fillet, such fillet shall be deemed to be from one whole black sea bass.

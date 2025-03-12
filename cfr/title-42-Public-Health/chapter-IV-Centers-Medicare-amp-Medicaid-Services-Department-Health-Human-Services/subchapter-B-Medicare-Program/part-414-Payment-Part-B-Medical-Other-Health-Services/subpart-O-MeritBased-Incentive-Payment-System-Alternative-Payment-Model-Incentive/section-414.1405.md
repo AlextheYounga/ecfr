@@ -1,5 +1,7 @@
 ##### § 414.1405 Payment. #####
 
+Link to an amendment published at 84 FR 63200, Nov. 15, 2019.
+
 (a) *General.* Each MIPS eligible clinician receives a MIPS payment adjustment factor, and if applicable an additional MIPS payment adjustment factor for exceptional performance, for a MIPS payment year determined by comparing their final score to the performance threshold and additional performance threshold for the year.
 
 (b) *Performance threshold.* A performance threshold will be specified for each MIPS payment year.

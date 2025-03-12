@@ -1,10 +1,8 @@
 ##### § 484.102 Condition of participation: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51825, Sept. 30, 2019.
-
 The Home Health Agency (HHA) must comply with all applicable Federal, State, and local emergency preparedness requirements. The HHA must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The HHA must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The HHA must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least every 2 years. The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,9 +10,9 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 
 (3) Address patient population, including, but not limited to, the type of services the HHA has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the HHA's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The HHA must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The HHA must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) The plans for the HHA's patients during a natural or man-made disaster. Individual plans for each patient must be included as part of the comprehensive patient assessment, which must be conducted according to the provisions at § 484.55.
 
@@ -26,7 +24,7 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 
 (5) The use of volunteers in an emergency or other emergency staffing strategies, including the process and role for integration of State or Federally designated health care professionals to address surge needs during an emergency.
 
-(c) *Communication plan.* The HHA must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The HHA must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -52,27 +50,35 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 
 (6) A means of providing information about the HHA's needs, and its ability to provide assistance, to the authority having jurisdiction, the Incident Command Center, or designee.
 
-(d) *Training and testing.* The HHA must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The HHA must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The HHA must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Maintain documentation of the training.
 
-(ii) Demonstrate staff knowledge of emergency procedures.
+(iv) Demonstrate staff knowledge of emergency procedures.
+
+(v) If the emergency preparedness policies and procedures are significantly updated, the HHA must conduct training on the updated policies and procedures.
 
 (2) *Testing.* The HHA must conduct exercises to test the emergency plan at least annually. The HHA must do the following:
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the HHA experiences an actual natural or man-made emergency that requires activation of the emergency plan, the HHA is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(i) Participate in a full-scale exercise that is community-based; or
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise every 2 years; or.
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(B) If the HHA experiences an actual natural or man-made emergency that requires activation of the emergency plan, the HHA is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(ii) Conduct an additional exercise every 2 years, opposite the year the full-scale or functional exercise under paragraph (d)(2)(i) of this section is conducted, that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the HHA's response to and maintain documentation of all drills, tabletop exercises, and emergency events, and revise the HHA's emergency plan, as needed.
 
@@ -91,3 +97,5 @@ The Home Health Agency (HHA) must comply with all applicable Federal, State, and
 (ii) A documented individual facility-based risk assessment for each separately certified facility within the health system, utilizing an all-hazards approach.
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
+
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019]

@@ -1,5 +1,7 @@
 ##### § 648.14 Prohibitions. #####
 
+Link to an amendment published at 84 FR 65702, Nov. 29, 2019.
+
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.

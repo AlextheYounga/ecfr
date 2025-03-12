@@ -1,10 +1,8 @@
 ##### § 460.84 Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51816, Sept. 30, 2019.
-
 The Program for the All-Inclusive Care for the Elderly (PACE) organization must comply with all applicable Federal, State, and local emergency preparedness requirements. The PACE organization must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The PACE organization must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do the following:
+(a) *Emergency plan.* The PACE organization must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least every 2 years. The plan must do the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,9 +10,9 @@ The Program for the All-Inclusive Care for the Elderly (PACE) organization must 
 
 (3) Address participant population, including, but not limited to, the type of services the PACE organization has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the PACE's efforts to contact such officials and, when applicable, of its participation in organization's collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The PACE organization must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must address management of medical and nonmedical emergencies, including, but not limited to: Fire; equipment, power, or water failure; care-related emergencies; and natural disasters likely to threaten the health or safety of the participants, staff, or the public. Policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The PACE organization must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must address management of medical and nonmedical emergencies, including, but not limited to: Fire; equipment, power, or water failure; care-related emergencies; and natural disasters likely to threaten the health or safety of the participants, staff, or the public. Policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) The provision of subsistence needs for staff and participants, whether they evacuate or shelter in place, include, but are not limited to the following:
 
@@ -52,7 +50,7 @@ The Program for the All-Inclusive Care for the Elderly (PACE) organization must 
 
 (iii) A documented plan to obtain emergency medical assistance from outside sources when needed.
 
-(c) *Communication plan.* The PACE organization must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The PACE organization must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for staff; entities providing services under arrangement; participants' physicians; other PACE organizations; and volunteers.
 
@@ -76,31 +74,39 @@ The Program for the All-Inclusive Care for the Elderly (PACE) organization must 
 
 (7) A means of providing information about the PACE organization's needs, and its ability to provide assistance, to the authority having jurisdiction, the Incident Command Center, or designee.
 
-(d) *Training and testing.* The PACE organization must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The PACE organization must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The PACE organization must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing on-site services under arrangement, contractors, participants, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Demonstrate staff knowledge of emergency procedures, including informing participants of what to do, where to go, and whom to contact in case of an emergency.
 
 (iv) Maintain documentation of all training.
 
+(v) If the emergency preparedness policies and procedures are significantly updated, the PACE must conduct training on the updated policies and procedures.
+
 (2) *Testing.* The PACE organization must conduct exercises to test the emergency plan at least annually. The PACE organization must do the following:
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the PACE experiences an actual natural or man-made emergency that requires activation of the emergency plan, the PACE is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(i) Participate in a full-scale exercise that is community-based or;
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise every 2 years; or
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(B) If the PACE experiences an actual natural or man-made emergency that requires activation of the emergency plan, the PACE is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(ii) Conduct an additional exercise every 2 years opposite the year the full-scale or functional exercise under paragraph (d)(2)(i) of this section is conducted that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the PACE's response to and maintain documentation of all drills, tabletop exercises, and emergency events and revise the PACE's emergency plan, as needed.
 
-(e) *Integrated healthcare systems.* If a PACE is part of a healthcare system consisting of multiple separately certified healthcare facilities that elects to have a unified and integrated emergency preparedness program, the PACE may choose to participate in the healthcare system's coordinated emergency preparedness program. If elected, the unified and integrated emergency preparedness program must -
+(e) *Integrated healthcare systems.* If a PACE is part of a healthcare system consisting of multiple separately certified healthcare facilities that elects to have a unified and integrated emergency preparedness program, the PACE may choose to participate in the healthcare system's coordinated emergency preparedness program. If elected, the unified and integrated emergency preparedness program must—
 
 (1) Demonstrate that each separately certified facility within the system actively participated in the development of the unified and integrated emergency preparedness program.
 
@@ -116,4 +122,4 @@ The Program for the All-Inclusive Care for the Elderly (PACE) organization must 
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
 
-[81 FR 64026, Sept. 16, 2016]
+[81 FR 64026, Sept. 16, 2016, as amended at 84 FR 51816, Sept. 30, 2019]

@@ -1,5 +1,7 @@
 ##### § 121.406 How does a small business concern qualify to provide manufactured products or other supply items under a small business set-aside, service-disabled veteran-owned small business, HUBZone, WOSB or EDWOSB, or 8(a) contract? #####
 
+Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
+
 (a) *General.* In order to qualify as a small business concern for a small business set-aside, service-disabled veteran-owned small business set-aside or sole source contract, HUBZone set-aside or sole source contract, WOSB or EDWOSB set-aside or sole source contract, 8(a) set-aside or sole source contract, partial set-aside, or set aside of an order against a multiple award contract to provided manufactured products or other supply items, an offeror must either:
 
 (1) Be the manufacturer or producer of the end item being procured (and the end item must be manufactured or produced in the United States); or

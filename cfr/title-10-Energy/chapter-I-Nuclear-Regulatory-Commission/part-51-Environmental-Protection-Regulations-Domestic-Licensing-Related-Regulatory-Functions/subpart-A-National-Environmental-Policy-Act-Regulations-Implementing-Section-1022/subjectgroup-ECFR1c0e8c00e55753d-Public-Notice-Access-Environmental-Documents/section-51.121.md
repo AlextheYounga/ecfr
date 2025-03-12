@@ -1,5 +1,7 @@
 ##### § 51.121 Status of NEPA actions. #####
 
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+
 Individuals or organizations desiring information on the NRC's NEPA process or on the status of specific NEPA actions should address inquiries to:
 
 (a) *Utilization facilities:* ATTN: Document Control Desk, Director, Office of Nuclear Reactor Regulation or Director, Office of New Reactors, as appropriate, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, telephone (301) 415-1270, e-mail *RidsNrrOd@nrc.gov.*

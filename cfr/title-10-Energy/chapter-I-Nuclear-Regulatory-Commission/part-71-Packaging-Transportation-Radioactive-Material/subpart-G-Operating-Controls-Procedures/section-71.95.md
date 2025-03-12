@@ -1,5 +1,7 @@
 ##### § 71.95 Reports. #####
 
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+
 (a) The licensee, after requesting the certificate holder's input, shall submit a written report to the Commission of -
 
 (1) Instances in which there is a significant reduction in the effectiveness of any NRC-approved Type B or Type AF packaging during use; or

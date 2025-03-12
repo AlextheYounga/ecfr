@@ -1,5 +1,7 @@
 ##### § 72.16 Filing of application for specific license. #####
 
+Link to an amendment published at 84 FR 65646, Nov. 29, 2019.
+
 (a) *Place of filing.* Each application for a license, or amendment thereof, under this part should be filed with the Director of the NRC's Division of Spent Fuel Management, Office of Nuclear Material Safety and Safeguards in accordance with § 72.4.
 
 (b) *Oath or affirmation.* Each application for a license or license amendment (including amendments to such applications), except for those filed by DOE, must be executed in an original signed by the applicant or duly authorized officer thereof under oath or affirmation. Each application for a license or license amendment (including amendments to such applications) filed by DOE must be signed by the Secretary of Energy or the Secretary's authorized representative.

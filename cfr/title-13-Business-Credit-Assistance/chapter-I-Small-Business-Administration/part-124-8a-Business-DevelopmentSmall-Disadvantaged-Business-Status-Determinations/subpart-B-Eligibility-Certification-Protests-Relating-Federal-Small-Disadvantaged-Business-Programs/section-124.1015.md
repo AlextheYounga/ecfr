@@ -1,5 +1,7 @@
 ##### § 124.1015 What are the requirements for representing SDB status, and what are the penalties for misrepresentation? #####
 
+Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
+
 (a) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to SDB concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a SDB willfully sought and received the award by misrepresentation.
 
 (b) *Deemed Certifications.* The following actions shall be deemed affirmative, willful and intentional certifications of SDB status:

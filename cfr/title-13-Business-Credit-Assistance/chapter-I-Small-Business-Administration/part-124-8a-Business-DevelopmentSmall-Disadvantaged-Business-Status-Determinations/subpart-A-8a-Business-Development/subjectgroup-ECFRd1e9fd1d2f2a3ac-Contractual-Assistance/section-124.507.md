@@ -1,5 +1,7 @@
 ##### § 124.507 What procedures apply to competitive 8(a) procurements? #####
 
+Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
+
 (a) *FAR procedures.* Procuring activities will conduct competitions among and evaluate offers received from Participants in accordance with the Federal Acquisition Regulation (48 CFR, chapter 1).
 
 (b) *Eligibility determination by SBA.* In either a negotiated or sealed bid competitive 8(a) acquisition, the procuring activity will request that the SBA district office servicing the apparent successful offeror determine that firm's eligibility for award.

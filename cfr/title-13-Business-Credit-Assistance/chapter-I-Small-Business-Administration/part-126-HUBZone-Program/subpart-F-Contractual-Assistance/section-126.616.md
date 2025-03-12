@@ -1,5 +1,7 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer on a HUBZone contract? #####
 
+Link to an amendment published at 84 FR 65248, Nov. 26, 2019.
+
 (a) *General.* A qualified HUBZone SBC may enter into a joint venture agreement with one or more other SBCs, or with an approved mentor authorized by § 125.9 of this chapter (or, if also an 8(a) BD Participant, with an approved mentor authorized by § 124.520 of this chapter), for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be certified as a qualified HUBZone SBC.
 
 (b) *Size.* (1) A joint venture of at least one qualified HUBZone SBC and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.

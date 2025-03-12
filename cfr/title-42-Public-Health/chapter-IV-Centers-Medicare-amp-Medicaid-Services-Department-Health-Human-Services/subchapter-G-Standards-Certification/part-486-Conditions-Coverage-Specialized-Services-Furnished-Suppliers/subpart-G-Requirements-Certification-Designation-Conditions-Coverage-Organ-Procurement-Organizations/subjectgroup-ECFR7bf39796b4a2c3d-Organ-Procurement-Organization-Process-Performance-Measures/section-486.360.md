@@ -1,10 +1,8 @@
 ##### § 486.360 Condition for Coverage: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51830, Sept. 30, 2019.
-
 The Organ Procurement Organization (OPO) must comply with all applicable Federal, State, and local emergency preparedness requirements. The OPO must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The OPO must develop and maintain an emergency preparedness plan that must be reviewed and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The OPO must develop and maintain an emergency preparedness plan that must be reviewed and updated at least every 2 years. The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,15 +10,15 @@ The Organ Procurement Organization (OPO) must comply with all applicable Federal
 
 (3) Address the type of hospitals with which the OPO has agreements; the type of services the OPO has the capacity to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the OPO's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The OPO must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and, the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The OPO must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and, the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) A system to track the location of on-duty staff during and after an emergency. If on-duty staff is relocated during the emergency, the OPO must document the specific name and location of the receiving facility or other location.
 
 (2) A system of medical documentation that preserves potential and actual donor information, protects confidentiality of potential and actual donor information, and secures and maintains the availability of records.
 
-(c) *Communication plan.* The OPO must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The OPO must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -46,21 +44,23 @@ The Organ Procurement Organization (OPO) must comply with all applicable Federal
 
 (ii) Federal, State, tribal, regional, and local emergency management agencies.
 
-(d) *Training and testing.* The OPO must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The OPO must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training.* The OPO must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at every 2 years.
 
 (iii) Maintain documentation of the training.
 
 (iv) Demonstrate staff knowledge of emergency procedures.
 
+(v) If the emergency preparedness policies and procedures are significantly updated, the OPO must conduct training on the updated policies and procedures.
+
 (2) *Testing.* The OPO must conduct exercises to test the emergency plan. The OPO must do the following:
 
-(i) Conduct a paper-based, tabletop exercise at least annually. A tabletop exercise is a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(i) Conduct a paper-based, tabletop exercise or workshop at least annually. A tabletop exercise is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan. If the OPO experiences an actual natural or man-made emergency that requires activation of the emergency plan, the OPO is exempt from engaging in its next required testing exercise following the onset of the emergency event.
 
 (ii) Analyze the OPO's response to and maintain documentation of all tabletop exercises, and emergency events, and revise the OPO's emergency plan, as needed.
 
@@ -92,4 +92,4 @@ The Organ Procurement Organization (OPO) must comply with all applicable Federal
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
 
-[81 FR 64040, Sept. 16, 2016]
+[81 FR 64040, Sept. 16, 2016, as amended at 84 FR 51830, Sept. 30, 2019]

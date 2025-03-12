@@ -86,4 +86,4 @@
 
 (e) *Calculation of the adjusted Federal prospective payment.* For each discharge, a long-term care hospital's Federal prospective payment is computed on the basis of the Federal prospective payment rate multiplied by the relative weight of the LTC-DRG assigned for that discharge. A hospital's Federal prospective payment rate will be adjusted, as appropriate, to account for outliers and other factors as specified in § 412.525.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34162, June 6, 2003; 71 FR 27899, May 12, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 77 FR 53678, Aug. 31, 2012; 78 FR 50968, Aug. 19, 2013; 79 FR 50355, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41704, Aug. 17, 2018; 84 FR 42614, Aug. 16, 2019]
+[67 FR 56049, Aug. 30, 2002]Editorial Note:For Federal Register citations affecting § 412.523, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,15 @@
+##### § 165.166 Safety Zone: Macy's July 4th Fireworks, East River, NY. #####
+
+(a) *Regulated area.* The following area is a safety zone: All waters of the Upper New York Bay south of a line drawn from Pier A (Fireboat Station Pier), Battery Park City, in approximate position 40°42′15.4″ N 074°01′06.8″ W (NAD 1983) to the easternmost corner of the Ellis Island Security Zone, in approximate position 40°41′57.6″ N 074°02′06.7″ W (NAD 1983); north of a line drawn from Pier 7, Jersey City, NJ, in approximate position 40°41′26.4″ N 074°03′17.3″ W (NAD 1983) to Liberty Island Lighted Gong Buoy 33 (LLNR 34995), in approximate position 40°41′02.2″ N 074°02′24.7″ W (NAD 1983), on to Governor's Island Extension Light (LLNR 35000), in approximate position 40°41′08.3″ N 074°01′35.4″ W (NAD 1983); all waters of the East River north of a line drawn from Governors Island, in approximate position 40°41′25.3″ N 074°00′42.5″ W (NAD 1983) to the southwest corner of Pier 9A, Brooklyn; south of a line drawn from East 47th Street, Manhattan through the southern point of Roosevelt Island to 46 Road, Queens; and all waters of Newtown Creek west of the Pulaski Bascule Bridge.
+
+(b) *Activation period.* This section is activated annually from 6:30 p.m. until 11:30 p.m. on July 4th. If the event is cancelled due to inclement weather then this section is in effect from 6:30 p.m. until 11:30 p.m. on July 5th.
+
+(c) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 apply.
+
+(2) No vessels, except the Staten Island Ferries, will be allowed to transit the safety zone without the permission of the Captain of the Port, New York.
+
+(3) All persons and vessels shall comply with the instructions of the Coast Guard Captain of the Port or the designated on-scene patrol personnel. These personnel comprise commissioned, warrant, and petty officers of the Coast Guard. Upon being hailed by a U.S. Coast Guard vessel by siren, radio, flashing light, or other means, the operator of a vessel shall proceed as directed.
+
+(4) Vessels equal to or greater than 20 meters (65.6 feet) in length, carrying persons for the purpose of viewing the fireworks, may take position in an area inside the safety zone, at least 200 yards off the bulkhead on the west bank and just off the pierhead faces on the east bank of the East River between the Williamsburg Bridge and North 9th Street, Brooklyn. This area is bound by the following points: 40°42′45.5″ N 073°58′07.4″ W; thence to 40°42′50.4″ N 073°58′23.2″ W; thence to 40°43′23.1″ N 073°58′12.7″ W; thence to 40°43′21.5″ N 073°57′45.7″ W; (NAD 1983) thence back to the point of beginning. All vessels must be in this location by 6:30 p.m. (e.s.t.) the day of the event.
+
+[CGD01-00-242, 66 FR 20405, Apr. 23, 2001, as amended by CGD01-05-017, 70 FR 35536, June 21, 2005; USCG-2015-0433, 80 FR 44283, July 27, 2015]

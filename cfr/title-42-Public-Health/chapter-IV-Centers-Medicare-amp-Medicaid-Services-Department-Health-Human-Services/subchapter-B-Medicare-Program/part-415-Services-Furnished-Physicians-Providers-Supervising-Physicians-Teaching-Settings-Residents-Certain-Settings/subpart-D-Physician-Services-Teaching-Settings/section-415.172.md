@@ -1,5 +1,7 @@
 ##### § 415.172 Physician fee schedule payment for services of teaching physicians. #####
 
+Link to an amendment published at 84 FR 63201, Nov. 15, 2019.
+
 (a) *General rule.* If a resident participates in a service furnished in a teaching setting, physician fee schedule payment is made only if a teaching physician is present during the key portion of any service or procedure for which payment is sought.
 
 (1) In the case of surgical, high-risk, or other complex procedures, the teaching physician must be present during all critical portions of the procedure and immediately available to furnish services during the entire service or procedure.

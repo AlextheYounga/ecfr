@@ -1,5 +1,7 @@
 ##### § 51.4 Definitions. #####
 
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919) including any amendments thereto.

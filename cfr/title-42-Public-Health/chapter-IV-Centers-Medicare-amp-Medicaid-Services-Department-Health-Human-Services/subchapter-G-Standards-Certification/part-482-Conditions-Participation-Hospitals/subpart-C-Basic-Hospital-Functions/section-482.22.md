@@ -1,7 +1,5 @@
 ##### § 482.22 Condition of participation: Medical staff. #####
 
-Link to an amendment published at 84 FR 51818, Sept. 30, 2019.
-
 The hospital must have an organized medical staff that operates under bylaws approved by the governing body, and which is responsible for the quality of medical care provided to patients by the hospital.
 
 (a) *Standard: Eligibility and process for appointment to medical staff.* The medical staff must be composed of doctors of medicine or osteopathy. In accordance with State law, including scope-of-practice laws, the medical staff may also include other categories of physicians (as listed at § 482.12(c)(1)) and non-physician practitioners who are determined to be eligible for appointment by the governing body.
@@ -64,14 +62,24 @@ The hospital must have an organized medical staff that operates under bylaws app
 
 (4) Describe the qualifications to be met by a candidate in order for the medical staff to recommend that the candidate be appointed by the governing body.
 
-(5) Include a requirement that -
+(5) Include a requirement that—
 
-(i) A medical history and physical examination be completed and documented for each patient no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services. The medical history and physical examination must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oromaxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+(i) A medical history and physical examination be completed and documented for each patient no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, and except as provided under paragraph (c)(5)(iii) of this section. The medical history and physical examination must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
 
-(ii) An updated examination of the patient, including any changes in the patient's condition, be completed and documented within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, when the medical history and physical examination are completed within 30 days before admission or registration. The updated examination of the patient, including any changes in the patient's condition, must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oromaxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+(ii) An updated examination of the patient, including any changes in the patient's condition, be completed and documented within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, when the medical history and physical examination are completed within 30 days before admission or registration, and except as provided under paragraph (c)(5)(iii) of this section. The updated examination of the patient, including any changes in the patient's condition, must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+
+(iii) An assessment of the patient (in lieu of the requirements of paragraphs (c)(5)(i) and (ii) of this section) be completed and documented after registration, but prior to surgery or a procedure requiring anesthesia services, when the patient is receiving specific outpatient surgical or procedural services and when the medical staff has chosen to develop and maintain a policy that identifies, in accordance with the requirements at paragraph (c)(5)(v) of this section, specific patients as not requiring a comprehensive medical history and physical examination, or any update to it, prior to specific outpatient surgical or procedural services. The assessment must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+
+(iv) The medical staff develop and maintain a policy that identifies those patients for whom the assessment requirements of paragraph (c)(5)(iii) of this section would apply. The provisions of paragraphs (c)(5)(iii), (iv), and (v) of this section do not apply to a medical staff that chooses to maintain a policy that adheres to the requirements of paragraphs of (c)(5)(i) and (ii) of this section for all patients.
+
+(v) The medical staff, if it chooses to develop and maintain a policy for the identification of specific patients to whom the assessment requirements in paragraph (c)(5)(iii) of this section would apply, must demonstrate evidence that the policy applies only to those patients receiving specific outpatient surgical or procedural services as well as evidence that the policy is based on:
+
+(A) Patient age, diagnoses, the type and number of surgeries and procedures scheduled to be performed, comorbidities, and the level of anesthesia required for the surgery or procedure.
+
+(B) Nationally recognized guidelines and standards of practice for assessment of specific types of patients prior to specific outpatient surgeries and procedures.
+
+(C) Applicable state and local health and safety laws.
 
 (6) Include criteria for determining the privileges to be granted to individual practitioners and a procedure for applying the criteria to individuals requesting privileges. For distant-site physicians and practitioners requesting privileges to furnish telemedicine services under an agreement with the hospital, the criteria for determining privileges and the procedure for applying the criteria are also subject to the requirements in § 482.12(a)(8) and (a)(9), and § 482.22(a)(3) and (a)(4).
 
-(d) *Standard: Autopsies.* The medical staff should attempt to secure autopsies in all cases of unusual deaths and of medical-legal and educational interest. The mechanism for documenting permission to perform an autopsy must be defined. There must be a system for notifying the medical staff, and specifically the attending practitioner, when an autopsy is being performed.
-
-[51 FR 22042, June 17, 1986, as amended at 59 FR 64152, Dec. 13, 1994; 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 76 FR 25563, May 5, 2011; 77 FR 29074, May 16, 2012; 79 FR 27154, May 12, 2014]
+[51 FR 22042, June 17, 1986, as amended at 59 FR 64152, Dec. 13, 1994; 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 76 FR 25563, May 5, 2011; 77 FR 29074, May 16, 2012; 79 FR 27154, May 12, 2014; 84 FR 51818, Sept. 30, 2019]

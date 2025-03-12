@@ -1,5 +1,7 @@
 ##### § 425.612 Waivers of payment rules or other Medicare requirements. #####
 
+Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
+
 (a) *General.* CMS may waive certain payment rules or other Medicare requirements as determined necessary to carry out the Shared Savings Program under this part.
 
 (1) *SNF 3-day rule.* For performance year 2017 and subsequent performance years, CMS waives the requirement in section 1861(i) of the Act for a 3-day inpatient hospital stay prior to a Medicare-covered post-hospital extended care service for eligible beneficiaries assigned to ACOs participating in a two-sided model and as provided in paragraph (a)(1)(iv) of this section during a grace period for beneficiaries excluded from prospective assignment to an ACO in a two-sided model, who receive otherwise covered post-hospital extended care services furnished by an eligible SNF that has entered into a written agreement to partner with the ACO for purposes of this waiver. Eligible SNFs include providers furnishing SNF services under swing bed agreements. All other provisions of the statute and regulations regarding Medicare Part A post-hospital extended care services continue to apply. ACOs identified under paragraph (a)(1)(vi) of this section may request to use the SNF 3-day rule waiver for performance years beginning on July 1, 2019, and in subsequent years.

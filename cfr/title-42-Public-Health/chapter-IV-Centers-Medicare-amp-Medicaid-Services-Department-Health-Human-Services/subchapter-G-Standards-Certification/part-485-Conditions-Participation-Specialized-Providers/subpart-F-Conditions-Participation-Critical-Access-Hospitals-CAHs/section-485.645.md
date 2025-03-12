@@ -1,8 +1,6 @@
 ##### § 485.645 Special requirements for CAH providers of long-term care services (“swing-beds”) #####
 
-Link to an amendment published at 84 FR 51828, Sept. 30, 2019.
-
-A CAH must meet the following requirements in order to be granted an approval from CMS to provided post-hospital SNF care, as specified in § 409.30 of this chapter, and to be paid for SNF-level services, in accordance with paragraph (c) of this section.
+A CAH must meet the following requirements in order to be granted an approval from CMS to provide post-CAH SNF care, as specified in § 409.30 of this chapter, and to be paid for SNF-level services, in accordance with paragraph (c) of this section.
 
 (a) *Eligibility.* A CAH must meet the following eligibility requirements:
 
@@ -20,22 +18,20 @@ A CAH must meet the following requirements in order to be granted an approval fr
 
 (d) *SNF services.* The CAH is substantially in compliance with the following SNF requirements contained in subpart B of part 483 of this chapter:
 
-(1) Resident rights (§ 483.10(b)(7), (c)(1), (c)(2)(iii), (c)(6), (d), (e)(2), (e)(4), (f)(4)(ii), (f)(4)(iii), (f)(9), (g)(8), (g)(17), (g)(18) introductory text, (h) of this chapter).
+(1) Resident rights (§ 483.10(b)(7), (c)(1), (c)(2)(iii), (c)(6), (d), (e)(2) and (4), (f)(4)(ii) and (iii), (g)(8) and (17), (g)(18) introductory text, and (h) of this chapter).
 
 (2) Admission, transfer, and discharge rights (§ 483.5 definition of transfer & discharge, § 483.15(c)(1), (c)(2), (c)(3), (c)(4), (c)(5), (c)(7), (c)(8), and (c)(9) of this chapter).
 
 (3) Freedom from abuse, neglect and exploitation (§ 483.12(a)(1), (a)(2), (a)(3)(i), (a)(3)(ii), (a)(4), (b)(1), (b)(2), (c)(1), (c)(2), (c)(3), and (c)(4) of this chapter).
 
-(4) Patient activities (§ 483.24(c) of this chapter), except that the services may be directed either by a qualified professional meeting the requirements of § 483.24(c)(2), or by an individual on the facility staff who is designated as the activities director and who serves in consultation with a therapeutic recreation specialist, occupational therapist, or other professional with experience or education in recreational therapy.
+(4) Social services (§ 483.40(d) of this chapter).
 
-(5) Social services (§ 483.40(d) and § 483.70(p) of this chapter).
+(5) Comprehensive assessment, comprehensive care plan, and discharge planning (§ 483.20(b), and § 483.21(b) and (c)(2) of this chapter), except that the CAH is not required to use the resident assessment instrument (RAI) specified by the State that is required under § 483.20(b), or to comply with the requirements for frequency, scope, and number of assessments prescribed in § 413.343(b) of this chapter).
 
-(6) Comprehensive assessment, comprehensive care plan, and discharge planning (§ 483.20(b), and § 483.21(b) and (c)(2) of this chapter), except that the CAH is not required to use the resident assessment instrument (RAI) specified by the State that is required under § 483.20(b), or to comply with the requirements for frequency, scope, and number of assessments prescribed in § 413.343(b) of this chapter).
+(6) Specialized rehabilitative services (§ 483.65 of this chapter).
 
-(7) Specialized rehabilitative services (§ 483.65 of this chapter).
+(7) Dental services (§ 483.55(a)(2), (3), (4), and (5) and (b) of this chapter).
 
-(8) Dental services (§ 483.55 of this chapter).
+(8) Nutrition (§ 483.25(g)(1) and (g)(2) of this chapter).
 
-(9) Nutrition (§ 483.25(g)(1) and (g)(2) of this chapter).
-
-[63 FR 26359, May 12, 1998, as amended at 64 FR 41544, July 30, 1999; 67 FR 50120, Aug. 1, 2002; 69 FR 49272, Aug. 11, 2004; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017]
+[63 FR 26359, May 12, 1998, as amended at 64 FR 41544, July 30, 1999; 67 FR 50120, Aug. 1, 2002; 69 FR 49272, Aug. 11, 2004; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017; 84 FR 51828, Sept. 30, 2019]

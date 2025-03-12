@@ -1,10 +1,8 @@
 ##### § 485.727 Condition of participation: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51829, Sept. 30, 2019.
-
 The Clinics, Rehabilitation Agencies, and Public Health Agencies as Providers of Outpatient Physical Therapy and Speech-Language Pathology Services (“Organizations”) must comply with all applicable Federal, State, and local emergency preparedness requirements. The Organizations must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The Organizations must develop and maintain an emergency preparedness plan that must be reviewed and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The Organizations must develop and maintain an emergency preparedness plan that must be reviewed and updated at least every 2 years. The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -18,7 +16,7 @@ The Clinics, Rehabilitation Agencies, and Public Health Agencies as Providers of
 
 (6) Be developed and maintained with assistance from fire, safety, and other appropriate experts.
 
-(b) *Policies and procedures.* The Organizations must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The Organizations must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) Safe evacuation from the Organizations, which includes staff responsibilities, and needs of the patients.
 
@@ -28,7 +26,7 @@ The Clinics, Rehabilitation Agencies, and Public Health Agencies as Providers of
 
 (4) The use of volunteers in an emergency or other emergency staffing strategies, including the process and role for integration of State and Federally designated health care professionals to address surge needs during an emergency.
 
-(c) *Communication plan.* The Organizations must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The Organizations must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -58,27 +56,35 @@ The Clinics, Rehabilitation Agencies, and Public Health Agencies as Providers of
 
 (5) A means of providing information about the Organizations' needs, and their ability to provide assistance, to the authority having jurisdiction or the Incident Command Center, or designee.
 
-(d) *Training and testing.* The Organizations must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The Organizations must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The Organizations must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Maintain documentation of the training.
 
 (iv) Demonstrate staff knowledge of emergency procedures.
 
+(v) If the emergency preparedness policies and procedures are significantly updated, the Organizations must conduct training on the updated policies and procedures.
+
 (2) *Testing.* The Organizations must conduct exercises to test the emergency plan at least annually. The Organizations must do the following:
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the Organizations experience an actual natural or man-made emergency that requires activation of the emergency plan, the organization is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(i) Participate in a full-scale exercise that is community-based every 2 years; or
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(A) When a community-based exercise is not accessible, an individual, facility-based functional exercise every 2 years; or.
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(B) If the Organizations experience an actual natural or man-made emergency that requires activation of the emergency plan, the organization is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(ii) Conduct an additional exercise every 2 years, opposite the year the full-scale or functional exercise under paragraph (d)(2)(i) of this section is conducted, that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the Organization's response to and maintain documentation of all drills, tabletop exercises, and emergency events, and revise their emergency plan, as needed.
 
@@ -98,4 +104,4 @@ The Clinics, Rehabilitation Agencies, and Public Health Agencies as Providers of
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
 
-[81 FR 64037, Sept. 16, 2016]
+[81 FR 64037, Sept. 16, 2016, as amended by 84 FR 51829, Sept. 30, 2019]

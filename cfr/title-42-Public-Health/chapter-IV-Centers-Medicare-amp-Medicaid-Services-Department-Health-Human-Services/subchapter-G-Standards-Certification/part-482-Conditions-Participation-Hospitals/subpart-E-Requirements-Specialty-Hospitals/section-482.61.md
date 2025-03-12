@@ -1,7 +1,5 @@
 ##### § 482.61 Condition of participation: Special medical record requirements for psychiatric hospitals. #####
 
-Link to an amendment published at 84 FR 51821, Sept. 30, 2019.
-
 The medical records maintained by a psychiatric hospital must permit determination of the degree and intensity of the treatment provided to individuals who are furnished services in the institution.
 
 (a) *Standard: Development of assessment/diagnostic data.* Medical records must stress the psychiatric components of the record, including history of findings and treatment provided for the psychiatric condition for which the patient is hospitalized.
@@ -46,8 +44,8 @@ The medical records maintained by a psychiatric hospital must permit determinati
 
 (2) The treatment received by the patient must be documented in such a way to assure that all active therapeutic efforts are included.
 
-(d) *Standard: Recording progress.* Progress notes must be recorded by the doctor of medicine or osteopathy responsible for the care of the patient as specified in § 482.12(c), nurse, social worker and, when appropriate, others significantly involved in active treatment modalities. The frequency of progress notes is determined by the condition of the patient but must be recorded at least weekly for the first 2 months and at least once a month thereafter and must contain recommendations for revisions in the treatment plan as indicated as well as precise assessment of the patient's progress in accordance with the original or revised treatment plan.
+(d) *Standard: Recording progress.* Progress notes must be recorded by the physicians(s), psychologists, or other licensed independent practitioner(s) responsible for the care of the patient as specified in § 482.12(c); nurse, social worker and, when appropriate, others significantly involved in active treatment modalities. The frequency of progress notes is determined by the condition of the patient but must be recorded at least weekly for the first 2 months and at least once a month thereafter and must contain recommendations for revisions in the treatment plan as indicated as well as precise assessment of the patient's progress in accordance with the original or revised treatment plan.
 
 (e) *Standard: Discharge planning and discharge summary.* The record of each patient who has been discharged must have a discharge summary that includes a recapitulation of the patient's hospitalization and recommendations from appropriate services concerning follow-up or aftercare as well as a brief summary of the patient's condition on discharge.
 
-[72 FR 60788, Oct. 26, 2007]
+[72 FR 60788, Oct. 26, 2007, as amended at 84 FR 51821, Sept. 30, 2019]

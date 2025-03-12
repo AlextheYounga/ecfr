@@ -1,5 +1,7 @@
 ##### § 125.28 How does one file a service disabled veteran-owned status protest? #####
 
+Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
+
 (a) *General.* The protest procedures described in this part are separate from those governing size protests and appeals. All protests relating to whether an eligible SDVO SBC is a “small” business for purposes of any Federal program are subject to part 121 of this chapter and must be filed in accordance with that part. If a protester protests both the size of the SDVO SBC and whether the concern meets the SDVO SBC requirements set forth in § 125.15(a), SBA will process each protest concurrently, under the procedures set forth in part 121 of this chapter and this part. SBA does not review issues concerning the administration of an SDVO contract.
 
 (b) *Format.* Protests must be in writing and must specify all the grounds upon which the protest is based. A protest merely asserting that the protested concern is not an eligible SDVO SBC, without setting forth specific facts or allegations is insufficient. *Example:* A protester submits a protest stating that the awardee's owner is not a service-disabled veteran. The protest does not state any basis for this assertion. The protest allegation is insufficient.

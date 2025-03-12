@@ -1,16 +1,14 @@
 ##### § 482.21 Condition of participation: Quality assessment and performance improvement program. #####
 
-Link to an amendment published at 84 FR 51818, Sept. 30, 2019.
-
 The hospital must develop, implement, and maintain an effective, ongoing, hospital-wide, data-driven quality assessment and performance improvement program. The hospital's governing body must ensure that the program reflects the complexity of the hospital's organization and services; involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors. The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
 
 (a) *Standard: Program scope.* (1) The program must include, but not be limited to, an ongoing program that shows measurable improvement in indicators for which there is evidence that it will improve health outcomes and identify and reduce medical errors.
 
 (2) The hospital must measure, analyze, and track quality indicators, including adverse patient events, and other aspects of performance that assess processes of care, hospital service and operations.
 
-(b) *Standard: Program data.* (1) The program must incorporate quality indicator data including patient care data, and other relevant data, for example, information submitted to, or received from, the hospital's Quality Improvement Organization.
+(b) *Standard: Program data.* (1) The program must incorporate quality indicator data including patient care data, and other relevant data such as data submitted to or received from Medicare quality reporting and quality performance programs, including but not limited to data related to hospital readmissions and hospital-acquired conditions.
 
-(2) The hospital must use the data collected to -
+(2) The hospital must use the data collected to—
 
 (i) Monitor the effectiveness and safety of services and quality of care; and
 
@@ -18,7 +16,7 @@ The hospital must develop, implement, and maintain an effective, ongoing, hospit
 
 (3) The frequency and detail of data collection must be specified by the hospital's governing body.
 
-(c) *Standard: Program activities.* (1) The hospital must set priorities for its performance improvement activities that -
+(c) *Standard: Program activities.* (1) The hospital must set priorities for its performance improvement activities that—
 
 (i) Focus on high-risk, high-volume, or problem-prone areas;
 
@@ -52,4 +50,10 @@ The hospital must develop, implement, and maintain an effective, ongoing, hospit
 
 (5) That the determination of the number of distinct improvement projects is conducted annually.
 
-[68 FR 3454, Jan. 24, 2003]
+(f) *Standard: Unified and integrated QAPI program for multi-hospital systems.* If a hospital is part of a hospital system consisting of multiple separately certified hospitals using a system governing body that is legally responsible for the conduct of two or more hospitals, the system governing body can elect to have a unified and integrated QAPI program for all of its member hospitals after determining that such a decision is in accordance with all applicable State and local laws. The system governing body is responsible and accountable for ensuring that each of its separately certified hospitals meets all of the requirements of this section. Each separately certified hospital subject to the system governing body must demonstrate that:
+
+(1) The unified and integrated QAPI program is established in a manner that takes into account each member hospital's unique circumstances and any significant differences in patient populations and services offered in each hospital; and
+
+(2) The unified and integrated QAPI program establishes and implements policies and procedures to ensure that the needs and concerns of each of its separately certified hospitals, regardless of practice or location, are given due consideration, and that the unified and integrated QAPI program has mechanisms in place to ensure that issues localized to particular hospitals are duly considered and addressed.
+
+[68 FR 3454, Jan. 24, 2003, as amended at 84 FR 51818, Sept. 30, 2019]

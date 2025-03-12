@@ -1,5 +1,7 @@
 ##### § 126.801 How does one file a HUBZone status protest? #####
 
+Link to an amendment published at 84 FR 65250, Nov. 26, 2019.Link to an amendment published at 84 FR 65665, Nov. 29, 2019.
+
 (a) *General.* The protest procedures described in this part are separate from those governing size protests and appeals. All protests relating to whether a qualified HUBZone SBC is other than small for purposes of any Federal program are subject to part 121 of this chapter and must be filed in accordance with that part. If a protester protests both the size of the HUBZone SBC and whether the concern meets the HUBZone qualifying requirements set forth in § 126.200, SBA will process protests concurrently, under the procedures set forth in part 121 of this chapter and this part. SBA does not review issues concerning the administration of a HUBZone contract.
 
 (b) *Format.* Protests must be in writing and state all specific grounds for the protest. A protest merely asserting that the protested concern is not a qualified HUBZone SBC, without setting forth specific facts or allegations, is insufficient.

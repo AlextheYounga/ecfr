@@ -1,5 +1,7 @@
 ##### § 50.61 Fracture toughness requirements for protection against pressurized thermal shock events. #####
 
+Link to an amendment published at 84 FR 65644, Nov. 29, 2019.
+
 (a) *Definitions.* For the purposes of this section:
 
 (1) *ASME Code* means the American Society of Mechanical Engineers Boiler and Pressure Vessel Code, Section III, Division I, “Rules for the Construction of Nuclear Power Plant Components,” edition and addenda and any limitations and modifications thereof as specified in § 50.55a.

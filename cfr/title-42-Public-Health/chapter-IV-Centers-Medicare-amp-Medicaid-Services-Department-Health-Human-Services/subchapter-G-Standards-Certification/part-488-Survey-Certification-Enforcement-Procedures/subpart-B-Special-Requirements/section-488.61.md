@@ -1,10 +1,8 @@
-##### § 488.61 Special procedures for approval and re-approval of organ transplant centers. #####
+##### § 488.61 Special procedures for approval and re-approval of organ transplant programs. #####
 
-Link to an amendment published at 84 FR 51831, Sept. 30, 2019.
+For the purposes of this subpart, the survey, certification, and enforcement procedures described at 42 CFR part 488, subpart A apply to transplant programs, including the periodic review of compliance and approval described at § 488.20.
 
-For the purposes of this subpart, the survey, certification, and enforcement procedures described at 42 CFR part 488, subpart A apply to transplant centers, including the periodic review of compliance and approval described at § 488.20.
-
-(a) *Initial approval procedures for transplant centers that are not Medicare-approved as of June 28, 2007.* A transplant center, including a kidney transplant center, may submit a request to CMS for Medicare approval at any time.
+(a) *Initial approval procedures for transplant programs that are not Medicare-approved as of June 28, 2007.* A transplant program, including a kidney transplant program, may submit a request to CMS for Medicare approval at any time.
 
 (1) The request, signed by a person authorized to represent the center (for example, a chief executive officer), must include:
 
@@ -14,13 +12,13 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (iii) A statement from the OPTN that the center has complied with all data submission requirements.
 
-(2) To determine compliance with the clinical experience and outcome requirements at §§ 482.80(b) and 482.80(c), CMS will review the data contained in the most recent OPTN Data Report and 1-year patient and graft survival data contained in the most recent Scientific Registry of Transplant Beneficiary (SRTR) center-specific report.
+(2) To determine compliance with the clinical experience and outcome requirements at §§ 482.80(b) and 482.80(c), CMS will review the data contained in the most recent OPTN Data Report and 1-year patient and graft survival data contained in the most recent Scientific Registry of Transplant Recipient (SRTR) program-specific report.
 
 (3) If CMS determines that a transplant center has not met the data submission, clinical experience, or outcome requirements, CMS may deny the request for approval or may review the center's compliance with the conditions of participation at §§ 482.72 through 482.76 and §§ 482.90 through 482.104 of this chapter, using the procedures described at 42 CFR part 488, subpart A, to determine whether the center's request will be approved. CMS will notify the transplant center in writing whether it is approved and, if approved, of the effective date of its approval.
 
 (4) CMS will consider mitigating factors in accordance with paragraphs (f), (g), and (h) of this section.
 
-(5) If CMS determines that a transplant center has met the data submission, clinical experience, and outcome requirements, CMS will review the center's compliance with the conditions of participation contained at §§ 482.72 through 482.76 and §§ 482.90 through 482.104 of this chapter using the procedures described at 42 CFR part 488, subpart A. If the transplant center is found to be in compliance with all the conditions of participation at §§ 482.72 through 482.104, except for § 482.82 of this chapter (Re-approval Requirements), CMS will notify the transplant center in writing of the effective date of its Medicare-approval. CMS will notify the transplant center in writing if it is not Medicare-approved.
+(5) If CMS determines that a transplant program has met the data submission, clinical experience, and outcome requirements, CMS will review the program's compliance with the conditions of participation contained at §§ 482.72 through 482.76 and §§ 482.90 through 482.104 of this chapter using the procedures described in subpart A of this part. If the transplant program is found to be in compliance with all the conditions of participation at §§ 482.72 through 482.104 of this chapter, CMS will notify the transplant program in writing of the effective date of its Medicare-approval. CMS will notify the transplant program in writing if it is not Medicare-approved.
 
 (6) A kidney transplant center may submit a request for initial approval after performing at least 3 transplants over a 12-month period.
 
@@ -32,31 +30,17 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (4) If a transplant center that is Medicare approved as of June 28, 2007 submits a request for approval under the CoPs at §§ 482.72 through 482.104 of this chapter but CMS does not approve the transplant center, or if the transplant center does not submit its request to CMS for Medicare approval under the CoPs by December 26, 2007, CMS will revoke the transplant center's approval under the conditions for coverage for kidney transplant centers or the national coverage decisions for extra-renal transplant centers, as applicable, and the transplant center will no longer be reimbursed for services provided to Medicare beneficiaries. CMS will notify the transplant center in writing of the effective date of its loss of Medicare approval.
 
-(c) *Re-approval procedures.* Once Medicare-approved, transplant centers, including kidney transplant centers, must be in continuous compliance with all the conditions of participation for transplant centers at §§ 482.72 through 482.104 of this chapter, except for § 482.80 (initial approval requirements).
+(c) *Loss of Medicare approval.* Programs that have lost their Medicare approval may seek re-entry into the Medicare program at any time. A program that has lost its Medicare approval must:
 
-(1) CMS will review the transplant center's data on an on-going basis and in making re-approval determinations.
+(1) Request initial approval using the procedures described in paragraph (a) of this section;
 
-(i) To determine compliance with the data submission requirements at § 482.82(a) of this chapter, CMS will request data submission data from the OPTN for the previous 3 calendar years.
+(2) Be in compliance with §§ 482.72 through 482.104 of this chapter at the time of the request for Medicare approval; and
 
-(ii) To determine compliance with the clinical experience and outcome requirements at § 482.82(b) and (c) of this chapter, CMS will review the data contained in the most recent OPTN Data Report for the previous 3 years and 1-year patient and graft survival data contained in the most recent SRTR center-specific reports.
+(3) Submit a report to CMS documenting any changes or corrective actions taken by the program as a result of the loss of its Medicare approval status.
 
-(2) CMS may choose to review the transplant center for compliance with §§ 482.72 through 482.76 and 482.90 through 482.104 of this chapter, using the procedures described at 42 CFR part 488, subpart A.
+(d) *Transplant program inactivity.* A transplant program may remain inactive and retain its Medicare approval for a period not to exceed 12 months. A transplant program must notify CMS upon its voluntary inactivation as required by § 482.74(a)(3) of this chapter.
 
-(3) CMS will consider mitigating factors in accordance with paragraphs (f), (g), and (h) of this section.
-
-(4) CMS will notify the transplant center in writing if its approval is being revoked and of the effective date of the revocation.
-
-(d) *Loss of Medicare Approval.* Centers that have lost their Medicare approval may seek re-entry into the Medicare program at any time. A center that has lost its Medicare approval must:
-
-(1) Request initial approval using the procedures described in § 488.61(a);
-
-(2) Be in compliance with §§ 482.72 through 482.104 of this chapter, except for § 482.82 (Re-approval Requirements), at the time of the request for Medicare approval; and
-
-(3) Submit a report to CMS documenting any changes or corrective actions taken by the center as a result of the loss of its Medicare approval status.
-
-(e) *Transplant Center Inactivity.* A transplant center may remain inactive and retain its Medicare approval for a period not to exceed 12 months. A transplant center must notify CMS upon its voluntary inactivation as required by § 482.74(a)(3) of this chapter.
-
-(f) *Consideration of mitigating factors in initial approval and re-approval survey, certification, and enforcement actions for transplant centers* - (1) *Factors.* Except for situations of immediate jeopardy or deficiencies other than failure to meet requirements of § 482.80 or § 482.82 of this chapter, CMS will consider such mitigating factors as may be appropriate in light of the nature of the deficiency and circumstances, including (but not limited to) the following, in making a decision of initial and re-approval of a transplant center that does not meet the data submission, clinical experience, or outcome requirements:
+(e) *Consideration of mitigating factors in initial approval survey, certification, and enforcement actions for transplant programs*—(1) *Factors.* Except for situations of immediate jeopardy or deficiencies other than failure to meet requirements at § 482.80 of this chapter, CMS will consider such mitigating factors as may be appropriate in light of the nature of the deficiency and circumstances, including (but not limited to) the following, in making a decision of initial approval of a transplant program that does not meet the data submission, clinical experience, or outcome requirements:
 
 (i) The extent to which outcome measures are not met or exceeded;
 
@@ -64,7 +48,7 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (iii) Extenuating circumstances (for example, natural disaster) that have a temporary effect on meeting the conditions of participation;
 
-(iv) Program improvements that substantially address root causes of graft failures or patient deaths, that have been implemented and institutionalized on a sustainable basis, and that are supported by outcomes more recent than the latest available SRTR report, for which there is a sufficient post-transplant patient and graft survival period and a sufficient number of transplants such that CMS finds that the program demonstrates present-day compliance with the requirements at § 482.80(c)(2)(ii)(C) or § 482.82(c)(2)(ii)(C) of this chapter;
+(iv) Program improvements that substantially address root causes of graft failures or patient deaths, that have been implemented and institutionalized on a sustainable basis, and that are supported by outcomes more recent than the latest available SRTR report, for which there is a sufficient post-transplant patient and graft survival period and a sufficient number of transplants such that CMS finds that the program demonstrates present-day compliance with the requirements at § 482.80(c)(2)(ii)(C) of this chapter;
 
 (v) Whether the program has made extensive use of innovative transplantation practices relative to other transplant programs, such as a high rate of transplantation of individuals who are highly sensitized or children who have undergone a Fontan procedure compared to most other transplant programs, where CMS finds that the innovative practices are supported by evidence-based published research literature or nationally recognized standards or Institution Review Board (IRB) approvals, and the SRTR risk-adjustment methodology does not take the relevant key factors into consideration; and
 
@@ -80,7 +64,7 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (iv) The program's organizational chart with full-time equivalent levels, roles, and structure for reporting to hospital leadership;
 
-(v) For applications involving substandard patient or graft survival, the rationale and supporting evidence for CMS' review includes, but is not limited to -
+(v) For applications involving substandard patient or graft survival, the rationale and supporting evidence for CMS' review includes, but is not limited to—
 
 (A) Root Cause Analysis for patient deaths and graft failures, including factors the program has identified as likely causal or contributing factors for patient deaths and graft failures;
 
@@ -116,25 +100,25 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (C) The approximate date when the program believes it substantially recovered from the event(s), or believes it will recover if substantial recovery has not been accomplished at the time of the request.
 
-(3) *Timing.* Within 14 calendar days after CMS has issued formal written notice of a condition-level deficiency to the program, CMS must receive notification of the program's intent to seek mitigating factors approval or re-approval, and receive all information for consideration of mitigating factors within 120 calendar days of the CMS written notification for a deficiency due to data submission, clinical experience or outcomes at § 482.80 or § 482.82 of this chapter. Failure to meet these timeframes may be the basis for denial of mitigating factors. However, CMS may permit an extension of the timeline for good cause, such as a declared public health emergency.
+(3) *Timing.* Within 14 calendar days after CMS has issued formal written notice of a condition-level deficiency to the program, CMS must receive notification of the program's intent to seek mitigating factors approval, and receive all information for consideration of mitigating factors within 120 calendar days of the CMS written notification for a deficiency due to data submission, clinical experience or outcomes at § 482.80 of this chapter. Failure to meet these timeframes may be the basis for denial of mitigating factors. CMS may permit an extension of the timeline for good cause, such as a declared public health emergency.
 
-(g) *Results of mitigating factors review* - (1) *Actions.* Upon review of the request to consider mitigating factors, CMS may take the following actions:
+(f) *Results of mitigating factors review*—(1) *Actions.* Upon review of the request to consider mitigating factors, CMS may take the following actions:
 
-(i) Approve initial approval or re-approval of a program's Medicare participation based upon approval of mitigating factors;
+(i) Approve initial approval of a program's Medicare participation based upon approval of mitigating factors.
 
-(ii) Deny the program's request for Medicare approval or re-approval based on mitigating factors.
+(ii) Deny the program's request for Medicare approval based on mitigating factors.
 
-(iii) Offer a time-limited Systems Improvement Agreement, in accordance with paragraph (h) of this section, when a transplant program has waived its appeal rights, has implemented substantial program improvements that address root causes and are institutionally supported by the hospital's governing body on a sustainable basis, and has requested more time to design or implement additional improvements or demonstrate compliance with CMS outcome requirements. Upon completion of the Systems Improvement Agreement or a CMS finding that the hospital has failed to meet the terms of the Agreement, CMS makes a final determination of whether to approve or deny a program's request for Medicare approval or re-approval based on mitigating factors. A Systems Improvement Agreement follows the process specified in paragraph (h) of this section.
+(iii) Offer a time-limited Systems Improvement Agreement, in accordance with paragraph (g) of this section, when a transplant program has waived its appeal rights, has implemented substantial program improvements that address root causes and are institutionally supported by the hospital's governing body on a sustainable basis, and has requested more time to design or implement additional improvements or demonstrate compliance with CMS outcome requirements. Upon completion of the Systems Improvement Agreement or a CMS finding that the hospital has failed to meet the terms of the Agreement, CMS makes a final determination of whether to approve or deny a program's request for Medicare approval based on mitigating factors. A Systems Improvement Agreement follows the process specified in paragraph (g) of this section.
 
 (2) *Limitation.* CMS will not approve any program with a condition-level deficiency. However, CMS may approve a program with a standard-level deficiency upon receipt of an acceptable plan of correction.
 
-(h) *Transplant Systems Improvement Agreement.* A Systems Improvement Agreement is a binding agreement, entered into voluntarily by the hospital and CMS, through which CMS extends a prospective Medicare termination date and offers the program additional time to achieve compliance with the conditions of participation, contingent on the hospital's agreement to participate in a structured regimen of quality improvement activities, demonstrate improved outcomes, and waive the right to appeal termination based on the identified deficiency or deficiencies (that led to the Agreement) in consideration for more time to demonstrate compliance. In some cases, transplant programs may enter a period of inactivity - voluntarily, or imposed as a condition of the Systems Improvement Agreement.
+(g) *Transplant Systems Improvement Agreement.* A Systems Improvement Agreement is a binding agreement, entered into voluntarily by the hospital and CMS, through which CMS extends a prospective Medicare termination date and offers the program additional time to achieve compliance with the conditions of participation, contingent on the hospital's agreement to participate in a structured regimen of quality improvement activities, demonstrate improved outcomes, and waive the right to appeal termination based on the identified deficiency or deficiencies (that led to the Agreement) in consideration for more time to demonstrate compliance. In some cases, transplant programs may enter a period of inactivity—voluntarily, or imposed as a condition of the Systems Improvement Agreement.
 
 (1) *Content.* In exchange for the additional time to initiate or continue activities to achieve compliance with the conditions of participation, the hospital must agree to a regimen of specified activities, including (but not limited to) all of the following:
 
 (i) Patient notification about the degree and type of noncompliance by the program, an explanation of what the program improvement efforts mean for patients, and financial assistance to defray the out-of-pocket costs of copayments and testing expenses for any wait-listed individual who wishes to be listed with another program;
 
-(ii) An external independent peer review team that conducts an onsite assessment of the program. The peer review must include -
+(ii) An external independent peer review team that conducts an onsite assessment of the program. The peer review must include—
 
 (A) Review of policies, staffing, operations, relationship to hospital services, and factors that contribute to program outcomes;
 
@@ -160,8 +144,8 @@ For the purposes of this subpart, the survey, certification, and enforcement pro
 
 (ix) Monthly (unless otherwise specified) reporting and conference calls with CMS regarding the status of programmatic improvements, results of the deliverables in the Systems Improvement Agreement, and the number of transplants, deaths, and graft failures that occur within 1 year post-transplant; and
 
-(x) Additional or alternative requirements specified by CMS, tailored to the transplant program type and circumstances. CMS may waive the content elements at paragraphs (h)(1)(v), (h)(1)(vi), (h)(1)(vii), or (h)(1)(viii) of this section if it finds that the program has already adequately conducted the activity, the program is already proficient in the function, or the activity is clearly inapplicable to the deficiencies that led to the Agreement.
+(x) Additional or alternative requirements specified by CMS, tailored to the transplant program type and circumstances. CMS may waive the content elements at paragraph (g)(1)(v), (vi), (vii) or (viii) of this section if it finds that the program has already adequately conducted the activity, the program is already proficient in the function, or the activity is clearly inapplicable to the deficiencies that led to the Agreement.
 
 (2) *Timeframe.* A Systems Improvement Agreement will be established for up to a 12-month period, subject to CMS' discretion to determine if a shorter timeframe may suffice. At the hospital's request, CMS may extend the agreement for up to an additional 6-month period. A signed Systems Improvement Agreement remains in force even if a subsequent SRTR report indicates that the program has restored compliance with the CMS conditions of participation, except that CMS in its sole discretion may shorten the timeframe or allow modification to any portion of the elements of the Agreement in such a case.
 
-[72 FR 15278, Mar. 30, 2007, as amended at 79 FR 27156, May 12, 2014; 79 FR 50359, Aug. 22, 2014; 81 FR 79881, Nov. 14, 2016]
+[72 FR 15278, Mar. 30, 2007, as amended at 79 FR 27156, May 12, 2014; 79 FR 50359, Aug. 22, 2014; 81 FR 79881, Nov. 14, 2016; 84 FR 51831, Sept. 30, 2019]

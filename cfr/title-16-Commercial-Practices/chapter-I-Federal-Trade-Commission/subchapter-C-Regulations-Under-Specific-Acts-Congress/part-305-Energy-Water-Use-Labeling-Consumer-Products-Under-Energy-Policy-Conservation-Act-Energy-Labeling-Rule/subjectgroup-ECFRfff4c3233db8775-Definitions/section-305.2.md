@@ -1,7 +1,5 @@
 ##### § 305.2 Definitions. #####
 
-Link to an amendment published at 84 FR 58028, Oct. 30, 2019.
-
 (a) *Act* means the Energy Policy and Conservation Act (Pub. L. 94-163), and amendments thereto.
 
 (b) *ANSI* means the American National Standards Institute and, as used herein, is the prefix for national standards and codes adopted by ANSI.
@@ -82,21 +80,21 @@ Link to an amendment published at 84 FR 58028, Oct. 30, 2019.
 
 (m) *Correlated color temperature* for lamps means the absolute temperature of a blackbody whose chromaticity most nearly resembles that of the light source.
 
-(n) *Covered product* means any consumer product or consumer appliance product described in § 305.3 of this part.
+(n) *Covered product* means any consumer product or consumer appliance product described in § 305.3, § 305.4, § 305.5, or § 305.6 of this part.
 
 (o) *Distributor* means a person (other than a manufacturer or retailer) to whom a consumer appliance product is delivered or sold for purposes of distribution in commerce.
 
 (p) *Energy efficiency rating* means the following product-specific energy usage descriptors: *annual fuel utilization efficiency (AFUE)* for furnaces; *combined energy efficiency ratio (CEER)* for room air conditioners; *seasonal energy efficiency ratio (SEER)* for the cooling function of central air conditioners and heat pumps; *heating seasonal performance factor (HSPF)* for the heating function of heat pumps; *airflow efficiency* for ceiling fans; and, *thermal efficiency (TE)* for pool heaters, as these descriptors are determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293). These product-specific energy usage descriptors shall be used in satisfying all the requirements of this part.
 
-(q) *Estimated annual energy consumption and estimated annual operating cost* - (1) *Estimated annual energy consumption* means the energy or (for products described in sections 305.3(n)-(q)) water that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
+(q) *Estimated annual energy consumption and estimated annual operating or energy cost* - (1) *Estimated annual energy consumption* means the energy or (for plumbing products) water that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
 
-(i) *Kilowatt-hour use per year*, or *kWh/yr.*, means estimated annual energy consumption expressed in kilowatt-hours of electricity.
+(i) *Kilowatt-hour use per year,* or *kWh/yr.,* means estimated annual energy consumption expressed in kilowatt-hours of electricity.
 
-(ii) *Therm use per year*, or *therms/yr.*, means estimated annual energy consumption expressed in therms of natural gas.
+(ii) *Therm use per year,* or *therms/yr.,* means estimated annual energy consumption expressed in therms of natural gas.
 
-(iii) *Gallon use per year*, or *gallons/yr.*, means estimated annual energy consumption expressed in gallons of propane or No. 2 heating oil.
+(iii) *Gallon use per year,* or *gallons/yr.,* means estimated annual energy consumption expressed in gallons of propane or No. 2 heating oil.
 
-(2) *Estimated annual operating cost* means the aggregate retail cost of the energy that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
+(2) *Estimated annual operating or energy cost* means the aggregate retail cost of the energy that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
 
 (r) *Flow restricting or controlling spout end device* means an aerator used in a faucet.
 
@@ -116,7 +114,7 @@ Link to an amendment published at 84 FR 58028, Oct. 30, 2019.
 
 (z) *Manufacturer* means any person who manufactures, produces, assembles, or imports a consumer appliance product. Assembly operations which are solely decorative are not included.
 
-(aa) *New covered product*, as used in § 305.4, means a covered product the title of which has not passed to a purchaser who buys the product for purposes other than resale or leasing for a period in excess of one year.
+(aa) *New covered product* means a covered product the title of which has not passed to a purchaser who buys the product for purposes other than resale or leasing for a period in excess of one year.
 
 (bb) *Private labeler* means an owner of a brand or trademark on the label of a consumer appliance product which bears a private label.
 
@@ -132,4 +130,4 @@ Link to an amendment published at 84 FR 58028, Oct. 30, 2019.
 
 (hh) *Wattage* for lamps means the total electrical power consumed by a lamp in watts, after an initial seasoning period and including, for fluorescent lamps, arc watts plus cathode watts.
 
-[72 FR 49965, Aug. 29, 2007, as amended at 73 FR 39225, July 9, 2008; 73 FR 63066, Oct. 23, 2008; 83 FR 7596, Feb. 22, 2018]
+[72 FR 49965, Aug. 29, 2007, as amended at 73 FR 39225, July 9, 2008; 73 FR 63066, Oct. 23, 2008; 83 FR 7596, Feb. 22, 2018; 84 FR 58028, Oct. 30, 2019]

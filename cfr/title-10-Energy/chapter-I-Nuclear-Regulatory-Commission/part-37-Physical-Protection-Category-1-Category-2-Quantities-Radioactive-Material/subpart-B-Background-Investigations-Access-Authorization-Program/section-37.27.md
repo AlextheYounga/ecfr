@@ -1,5 +1,7 @@
 ##### § 37.27 Requirements for criminal history records checks of individuals granted unescorted access to category 1 or category 2 quantities of radioactive material. #####
 
+Link to an amendment published at 84 FR 63567, Nov. 18, 2019.
+
 (a) *General performance objective and requirements.* (1) Except for those individuals listed in § 37.29 and those individuals grandfathered under § 37.25(b), each licensee subject to the provisions of this subpart shall fingerprint each individual who is to be permitted unescorted access to category 1 or category 2 quantities of radioactive material. Licensees shall transmit all collected fingerprints to the Commission for transmission to the FBI. The licensee shall use the information received from the FBI as part of the required background investigation to determine whether to grant or deny further unescorted access to category 1 or category 2 quantities of radioactive materials for that individual.
 
 (2) The licensee shall notify each affected individual that his or her fingerprints will be used to secure a review of his or her criminal history record, and shall inform him or her of the procedures for revising the record or adding explanations to the record.

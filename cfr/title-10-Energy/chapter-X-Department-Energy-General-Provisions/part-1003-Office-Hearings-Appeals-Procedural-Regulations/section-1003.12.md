@@ -1,0 +1,11 @@
+##### § 1003.12 Notice. #####
+
+(a) The petitioner must serve a copy of the petition and any subsequent amendments or other documents relating to the petition, or a copy from which confidential information has been deleted in accordance with § 1003.7(f), to each person who is reasonably ascertainable by the petitioner as a person who would be aggrieved by the OHA relief sought. The copy of the petition must be accompanied by a statement that the person may submit comments regarding the petition to the OHA within 10 days. The OHA may, in its discretion, extend the comment period. The petitioner must file a service certification with the OHA, in accordance with § 1003.11(d), stating that the requirements of this paragraph have been complied with and must include the names, addresses, and verified email addresses of each person to whom a copy of the petition was sent. The OHA may require the petitioner to provide additional or alternative notice, may identify additional persons on whom an applicant must serve notice, or may determine that notice should be published in the Federal Register.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section, if the petitioner determines that compliance with paragraph (a) of this section would be impracticable, the petitioner must:
+
+(1) Comply with the requirements of paragraph (a) of this section with regard to those persons whom it is reasonable and practicable to notify; and
+
+(2) Include with the certification a description of the persons or class or classes of persons to whom notice was not sent, as well as a brief explanation of why notice to each person or class of person was impracticable.
+
+(c) Any person submitting written comments to the OHA regarding a petition filed under this part must serve a copy of the comments, or a copy from which confidential information has been deleted in accordance with § 1003.7(f), to the petitioner. The person must certify to the OHA that he has complied with the requirements of this paragraph. The OHA may notify other persons participating in the proceeding of such comments and provide an opportunity for such persons to respond.

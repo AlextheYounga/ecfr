@@ -1,5 +1,7 @@
 ##### § 414.1335 Data submission criteria for the quality performance category. #####
 
+Link to an amendment published at 84 FR 63195, Nov. 15, 2019.
+
 (a) *Criteria.* A MIPS eligible clinician or group must submit data on MIPS quality measures in one of the following manners, as applicable:
 
 (1) *For Medicare Part B claims measures, MIPS CQMs, eCQMs, or QCDR measures.* (i) Except as provided in paragraph (a)(1)(ii) of this section, submit data on at least six measures, including at least one outcome measure. If an applicable outcome measure is not available, report one other high priority measure. If fewer than six measures apply to the MIPS eligible clinician or group, report on each measure that is applicable.

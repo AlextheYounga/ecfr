@@ -1,10 +1,8 @@
 ##### § 403.748 Condition of participation: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51813, Sept. 30, 2019.
-
 The Religious Nonmedical Health Care Institution (RNHCI) must comply with all applicable Federal, State, and local emergency preparedness requirements. The RNHCI must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The RNHCI must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The RNHCI must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least every 2 years. The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach.
 
@@ -12,9 +10,9 @@ The Religious Nonmedical Health Care Institution (RNHCI) must comply with all ap
 
 (3) Address patient population, including, but not limited to, persons at-risk; the type of services the RNHCI has the ability to provide in an emergency; and, continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the RNHCI's efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The RNHCI must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The RNHCI must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) The provision of subsistence needs for staff and patients, whether they evacuate or shelter in place, include, but are not limited to the following:
 
@@ -60,7 +58,7 @@ The Religious Nonmedical Health Care Institution (RNHCI) must comply with all ap
 
 (8) The role of the RNHCI under a waiver declared by the Secretary, in accordance with section 1135 of Act, in the provision of care at an alternate care site identified by emergency management officials.
 
-(c) *Communication plan.* The RNHCI must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include all of the following:
+(c) *Communication plan.* The RNHCI must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include all of the following:
 
 (1) Names and contact information for the following:
 
@@ -94,17 +92,19 @@ The Religious Nonmedical Health Care Institution (RNHCI) must comply with all ap
 
 (7) A means of providing information about the RNHCI's occupancy, needs, and its ability to provide assistance, to the authority having jurisdiction, the Incident Command Center, or designee.
 
-(d) *Training and testing.* The RNHCI must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually.
+(d) *Training and testing.* The RNHCI must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years.
 
 (1) *Training program.* The RNHCI must do all of the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Maintain documentation of all emergency preparedness training.
 
 (iv) Demonstrate staff knowledge of emergency procedures.
+
+(v) If the emergency preparedness policies and procedures are significantly updated, the RNHCI must conduct training on the updated policies and procedures.
 
 (2) *Testing.* The RNHCI must conduct exercises to test the emergency plan. The RNHCI must do the following:
 
@@ -112,4 +112,4 @@ The Religious Nonmedical Health Care Institution (RNHCI) must comply with all ap
 
 (ii) Analyze the RNHCI's response to and maintain documentation of all tabletop exercises, and emergency events, and revise the RNHCI's emergency plan, as needed.
 
-[81 FR 64021, Sept. 16, 2016]
+[81 FR 64021, Sept. 16, 2016, as amended at 84 FR 51813, Sept. 30, 2019]

@@ -1,5 +1,7 @@
 ##### § 121.103 How does SBA determine affiliation? #####
 
+Link to an amendment published at 84 FR 65661, Nov. 29, 2019.
+
 (a) *General Principles of Affiliation.* (1) Concerns and entities are affiliates of each other when one controls or has the power to control the other, or a third party or parties controls or has the power to control both. It does not matter whether control is exercised, so long as the power to control exists.
 
 (2) SBA considers factors such as ownership, management, previous relationships with or ties to another concern, and contractual relationships, in determining whether affiliation exists.

@@ -1,5 +1,7 @@
 ##### § 126.503 What happens if SBA is unable to verify a qualified HUBZone SBC's eligibility or determines that the concern is no longer eligible for the program? #####
 
+Link to an amendment published at 84 FR 65246, Nov. 26, 2019.
+
 If SBA is unable to verify a qualified HUBZone SBC's eligibility or determines it is not eligible for the program, SBA may propose decertification of the concern.
 
 (a) *Proposing Decertification.* Except as set forth in paragraph (c) of this section, the Deputy D/HUB or designee will first notify the qualified HUBZone SBC in writing that SBA is proposing to decertify it, the reasons for the proposed de-certification, and that the SBC must rebut each of the reasons SBA sets forth. The qualified HUBZone SBC will have 30 calendar days from the date that it receives SBA's notification to respond, in writing, to the D/HUB or designee.

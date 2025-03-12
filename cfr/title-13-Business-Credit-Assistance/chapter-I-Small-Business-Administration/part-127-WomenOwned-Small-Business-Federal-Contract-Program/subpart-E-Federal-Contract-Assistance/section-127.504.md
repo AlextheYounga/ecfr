@@ -1,5 +1,7 @@
 ##### § 127.504 What additional requirements must a concern satisfy to submit an offer on an EDWOSB or WOSB requirement? #####
 
+Link to an amendment published at 84 FR 65665, Nov. 29, 2019.
+
 (a) In order for a concern to submit an offer on a specific EDWOSB or WOSB requirement, the concern must ensure that the appropriate representations and certifications in SAM (or any successor system) are accurate and complete at the time it submits its offer to the contracting officer, including, but not limited to, the fact that:
 
 (1) It is small under the size standard corresponding to the NAICS code assigned to the contract;

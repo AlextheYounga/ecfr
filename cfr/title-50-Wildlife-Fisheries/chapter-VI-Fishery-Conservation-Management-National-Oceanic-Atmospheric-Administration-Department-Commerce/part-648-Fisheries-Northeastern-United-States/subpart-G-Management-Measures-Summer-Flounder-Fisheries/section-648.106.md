@@ -1,5 +1,7 @@
 ##### § 648.106 Summer flounder possession restrictions. #####
 
+Link to an amendment published at 84 FR 65703, Nov. 29, 2019.
+
 (a) *Party/charter and recreational possession limits.* Unless otherwise specified pursuant to § 648.107, no person shall possess more than four summer flounder in, or harvested from, the EEZ, per trip unless that person is the owner or operator of a fishing vessel issued a summer flounder moratorium permit, or is issued a summer flounder dealer permit. Persons aboard a commercial vessel that is not eligible for a summer flounder moratorium permit are subject to this possession limit. The owner, operator, and crew of a charter or party boat issued a summer flounder moratorium permit are subject to the possession limit when carrying passengers for hire or when carrying more than five crew members for a party boat, or more than three crew members for a charter boat. This possession limit may be adjusted pursuant to the procedures in § 648.102.
 
 (b) If whole summer flounder are processed into fillets, the number of fillets will be converted to whole summer flounder at the place of landing by dividing the fillet number by two. If summer flounder are filleted into single (butterfly) fillets, each fillet is deemed to be from one whole summer flounder.

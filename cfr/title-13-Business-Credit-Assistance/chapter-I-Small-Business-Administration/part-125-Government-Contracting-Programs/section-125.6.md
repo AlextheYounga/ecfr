@@ -1,5 +1,7 @@
 ##### § 125.6 What are the prime contractor's limitations on subcontracting? #####
 
+Link to an amendment published at 84 FR 65239, Nov. 26, 2019.Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
+
 (a) *General.* In order to be awarded a full or partial small business set-aside contract with a value greater than the simplified acquisition threshold (as defined in the FAR at 48 CFR 2.101)” in paragraph (a) introductory text; and an 8(a) contract, an SDVO SBC contract, a HUBZone contract, a WOSB or EDWOSB contract pursuant to part 127 of this chapter, a small business concern must agree that:
 
 (1) In the case of a contract for services (except construction), it will not pay more than 50% of the amount paid by the government to it to firms that are not similarly situated. Any work that a similarly situated subcontractor further subcontracts will count towards the 50% subcontract amount that cannot be exceeded.

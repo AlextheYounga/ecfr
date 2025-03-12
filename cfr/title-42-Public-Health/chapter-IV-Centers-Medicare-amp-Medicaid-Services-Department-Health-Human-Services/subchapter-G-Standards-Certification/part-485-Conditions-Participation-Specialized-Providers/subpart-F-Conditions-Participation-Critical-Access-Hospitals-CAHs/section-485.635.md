@@ -1,12 +1,12 @@
 ##### § 485.635 Condition of participation: Provision of services. #####
 
-Link to an amendment published at 84 FR 51827, Sept. 30, 2019.Link to an amendment published at 84 FR 51883, Sept. 30, 2019.
-
 (a) *Standard: Patient care policies.* (1) The CAH's health care services are furnished in accordance with appropriate written policies that are consistent with applicable State law.
 
 (2) The policies are developed with the advice of members of the CAH's professional healthcare staff, including one or more doctors of medicine or osteopathy and one or more physician assistants, nurse practitioners, or clinical nurse specialists, if they are on staff under the provisions of § 485.631(a)(1).
 
-(3) The policies include the following: (i) A description of the services the CAH furnishes, including those furnished through agreement or arrangement.
+(3) The policies include the following:
+
+(i) A description of the services the CAH furnishes, including those furnished through agreement or arrangement.
 
 (ii) Policies and procedures for emergency medical services.
 
@@ -16,11 +16,13 @@ Link to an amendment published at 84 FR 51827, Sept. 30, 2019.Link to an amendme
 
 (v) Procedures for reporting adverse drug reactions and errors in the administration of drugs.
 
-(vi) A system for identifying, reporting, investigating and controlling infections and communicable diseases of patients and personnel.
+(vi) Procedures that ensure that the nutritional needs of inpatients are met in accordance with recognized dietary practices. All patient diets, including therapeutic diets, must be ordered by the practitioner responsible for the care of the patients or by a qualified dietitian or qualified nutrition professional as authorized by the medical staff in accordance with State law governing dietitians and nutrition professionals and that the requirement of § 483.25(i) of this chapter is met with respect to inpatients receiving post CAH SNF care.
 
-(vii) Procedures that ensure that the nutritional needs of inpatients are met in accordance with recognized dietary practices and the orders of the practitioner responsible for the care of the patients, and that the requirement of § 483.25(g) of this chapter is met with respect to inpatients receiving posthospital SNF care.
+(vii) [Reserved]
 
-(4) These policies are reviewed at least annually by the group of professional personnel required under paragraph (a)(2) of this section, and reviewed as necessary by the CAH.
+(viii) Policies and procedures that address the post-acute care needs of patients receiving CAH services.
+
+(4) These policies are reviewed at least biennially by the group of professional personnel required under paragraph (a)(2) of this section and updated as necessary by the CAH.
 
 (b) *Standard: Patient services* - (1) *General:* (i) The CAH provides those diagnostic and therapeutic services and supplies that are commonly furnished in a physician's office or at another entry point into the health care delivery system, such as a low intensity hospital outpatient department or emergency department. These CAH services include medical history, physical examination, specimen collection, assessment of health status, and treatment for a variety of medical conditions.
 
@@ -86,4 +88,4 @@ Link to an amendment published at 84 FR 51827, Sept. 30, 2019.Link to an amendme
 
 (4) Ensure that all visitors enjoy full and equal visitation privileges consistent with patient preferences.
 
-[58 FR 30671, May 26, 1993; 58 FR 49935, Sept. 24, 1993, as amended at 59 FR 45403, Sept. 1, 1994; 62 FR 46037, Aug. 29, 1997; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 75 FR 70844, Nov. 19, 2010; 76 FR 25564, May 5, 2011; 77 FR 29076, May 16, 2012; 78 FR 50970, Aug. 19, 2013; 79 FR 27156, May 12, 2014; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017]
+[58 FR 30671, May 26, 1993; 58 FR 49935, Sept. 24, 1993, as amended at 59 FR 45403, Sept. 1, 1994; 62 FR 46037, Aug. 29, 1997; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 75 FR 70844, Nov. 19, 2010; 76 FR 25564, May 5, 2011; 77 FR 29076, May 16, 2012; 78 FR 50970, Aug. 19, 2013; 79 FR 27156, May 12, 2014; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017; 84 FR 51827, 51883, Sept. 30, 2019]

@@ -1,10 +1,8 @@
 ##### § 483.475 Condition of participation: Emergency preparedness. #####
 
-Link to an amendment published at 84 FR 51824, Sept. 30, 2019.
-
 The Intermediate Care Facility for Individuals with Intellectual Disabilities (ICF/IID) must comply with all applicable Federal, State, and local emergency preparedness requirements. The ICF/IID must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
-(a) *Emergency plan.* The ICF/IID must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do all of the following:
+(a) *Emergency plan.* The ICF/IID must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least every 2 years The plan must do all of the following:
 
 (1) Be based on and include a documented, facility-based and community-based risk assessment, utilizing an all-hazards approach, including missing clients.
 
@@ -12,9 +10,9 @@ The Intermediate Care Facility for Individuals with Intellectual Disabilities (I
 
 (3) Address the special needs of its client population, including, but not limited to, persons at-risk; the type of services the ICF/IID has the ability to provide in an emergency; and continuity of operations, including delegations of authority and succession plans.
 
-(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation, including documentation of the ICF/IID efforts to contact such officials and, when applicable, of its participation in collaborative and cooperative planning efforts.
+(4) Include a process for cooperation and collaboration with local, tribal, regional, State, and Federal emergency preparedness officials' efforts to maintain an integrated response during a disaster or emergency situation.
 
-(b) *Policies and procedures.* The ICF/IID must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least annually. At a minimum, the policies and procedures must address the following:
+(b) *Policies and procedures.* The ICF/IID must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
 (1) The provision of subsistence needs for staff and clients, whether they evacuate or shelter in place, include, but are not limited to the following:
 
@@ -44,7 +42,7 @@ The Intermediate Care Facility for Individuals with Intellectual Disabilities (I
 
 (8) The role of the ICF/IID under a waiver declared by the Secretary, in accordance with section 1135 of the Act, in the provision of care and treatment at an alternate care site identified by emergency management officials.
 
-(c) *Communication plan.* The ICF/IID must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least annually. The communication plan must include the following:
+(c) *Communication plan.* The ICF/IID must develop and maintain an emergency preparedness communication plan that complies with Federal, State, and local laws and must be reviewed and updated at least every 2 years. The communication plan must include the following:
 
 (1) Names and contact information for the following:
 
@@ -80,27 +78,35 @@ The Intermediate Care Facility for Individuals with Intellectual Disabilities (I
 
 (8) A method for sharing information from the emergency plan that the facility has determined is appropriate with clients and their families or representatives.
 
-(d) *Training and testing.* The ICF/IID must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least annually. The ICF/IID must meet the requirements for evacuation drills and training at § 483.470(h).
+(d) *Training and testing.* The ICF/IID must develop and maintain an emergency preparedness training and testing program that is based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, policies and procedures at paragraph (b) of this section, and the communication plan at paragraph (c) of this section. The training and testing program must be reviewed and updated at least every 2 years. The ICF/IID must meet the requirements for evacuation drills and training at § 483.470(i).
 
 (1) *Training program.* The ICF/IID must do all the following:
 
 (i) Initial training in emergency preparedness policies and procedures to all new and existing staff, individuals providing services under arrangement, and volunteers, consistent with their expected roles.
 
-(ii) Provide emergency preparedness training at least annually.
+(ii) Provide emergency preparedness training at least every 2 years.
 
 (iii) Maintain documentation of the training.
 
 (iv) Demonstrate staff knowledge of emergency procedures.
 
-(2) *Testing.* The ICF/IID must conduct exercises to test the emergency plan at least annually. The ICF/IID must do the following:
+(v) If the emergency preparedness policies and procedures are significantly updated, the ICF/IID must conduct training on the updated policies and procedures.
 
-(i) Participate in a full-scale exercise that is community-based or when a community-based exercise is not accessible, an individual, facility-based. If the ICF/IID experiences an actual natural or man-made emergency that requires activation of the emergency plan, the ICF/IID is exempt from engaging in a community-based or individual, facility-based full-scale exercise for 1 year following the onset of the actual event.
+(2) *Testing.* The ICF/IID must conduct exercises to test the emergency plan at least twice per year. The ICF/IID must do the following:
 
-(ii) Conduct an additional exercise that may include, but is not limited to the following:
+(i) Participate in an annual full-scale exercise that is community-based; or
 
-(A) A second full-scale exercise that is community-based or individual, facility-based.
+(A) When a community-based exercise is not accessible, conduct an annual individual, facility-based functional exercise; or.
 
-(B) A tabletop exercise that includes a group discussion led by a facilitator, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
+(B) If the ICF/IID experiences an actual natural or man-made emergency that requires activation of the emergency plan, the ICF/IID is exempt from engaging in its next required full-scale community-based or individual, facility-based functional exercise following the onset of the emergency event.
+
+(ii) Conduct an additional annual exercise that may include, but is not limited to the following:
+
+(A) A second full-scale exercise that is community-based or an individual, facility-based functional exercise; or
+
+(B) A mock disaster drill; or
+
+(C) A tabletop exercise or workshop that is led by a facilitator and includes a group discussion, using a narrated, clinically-relevant emergency scenario, and a set of problem statements, directed messages, or prepared questions designed to challenge an emergency plan.
 
 (iii) Analyze the ICF/IID's response to and maintain documentation of all drills, tabletop exercises, and emergency events, and revise the ICF/IID's emergency plan, as needed.
 
@@ -120,4 +126,4 @@ The Intermediate Care Facility for Individuals with Intellectual Disabilities (I
 
 (5) Include integrated policies and procedures that meet the requirements set forth in paragraph (b) of this section, a coordinated communication plan and training and testing programs that meet the requirements of paragraphs (c) and (d) of this section, respectively.
 
-[81 FR 64032, Sept. 16, 2016]
+[81 FR 64032, Sept. 16, 2016, as amended at 84 FR 51824, Sept. 30, 2019]

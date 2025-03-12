@@ -1,5 +1,7 @@
 ##### § 125.18 What requirements must an SDVO SBC meet to submit an offer on a contract? #####
 
+Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
+
 (a) *Representation of SDVO SBC status.* An SDVO SBC must submit the following representations with its initial offer (which includes price) on a specific contract:
 
 (1) It is an SDVO SBC;

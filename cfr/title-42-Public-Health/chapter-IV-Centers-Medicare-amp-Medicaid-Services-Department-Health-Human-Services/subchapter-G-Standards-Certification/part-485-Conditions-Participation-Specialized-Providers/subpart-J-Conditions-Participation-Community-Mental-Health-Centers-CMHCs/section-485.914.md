@@ -1,7 +1,5 @@
 ##### § 485.914 Condition of participation: Admission, initial evaluation, comprehensive assessment, and discharge or transfer of the client. #####
 
-Link to an amendment published at 84 FR 51829, Sept. 30, 2019.
-
 The CMHC must ensure that all clients admitted into its program are appropriate for the services the CMHC furnishes in its facility.
 
 (a) *Standard: Admission.* (1) The CMHC must determine that each client is appropriate for the services it provides as specified in § 410.2 of this chapter.
@@ -62,25 +60,25 @@ The CMHC must ensure that all clients admitted into its program are appropriate 
 
 (xiv) For pediatric clients, the CMHC must assess the social service needs of the client, and make referrals to social services and child welfare agencies as appropriate.
 
-(d) *Standard: Update of the comprehensive assessment.* (1) The CMHC must update the comprehensive assessment via the CMHC interdisciplinary treatment team, in consultation with the client's primary health care provider (if any), when changes in the client's status, responses to treatment, or goal achievement have occurred.
+(d) *Standard: Update of the comprehensive assessment.* (1) The CMHC must update each client's comprehensive assessment via the CMHC interdisciplinary treatment team, in consultation with the client's primary health care provider (if any), when changes in the client's status, responses to treatment, or goal achievement have occurred and in accordance with current standards of practice.
 
-(2) The assessment must be updated no less frequently than every 30 days.
+(2) For clients that receive PHP services, the assessment must be updated no less frequently than every 30 days.
 
 (3) The update must include information on the client's progress toward desired outcomes, a reassessment of the client's response to care and therapies, and the client's goals.
 
-(e) *Standard: Discharge or transfer of the client.* (1) If the client is transferred to another entity, the CMHC must, within 2 working days, forward to the entity, a copy of -
+(e) *Standard: Discharge or transfer of the client.* (1) If the client is transferred to another entity, the CMHC must, within 2 working days, forward to the entity, a copy of—
 
 (i) The CMHC discharge summary.
 
 (ii) The client's clinical record, if requested.
 
-(2) If a client refuses the services of a CMHC, or is discharged from a CMHC due to noncompliance with the treatment plan, the CMHC must forward to the primary health care provider (if any) a copy of -
+(2) If a client refuses the services of a CMHC, or is discharged from a CMHC due to noncompliance with the treatment plan, the CMHC must forward to the primary health care provider (if any) a copy of—
 
 (i) The CMHC discharge summary.
 
 (ii) The client's clinical record, if requested.
 
-(3) The CMHC discharge summary must include -
+(3) The CMHC discharge summary must include—
 
 (i) A summary of the services provided, including the client's symptoms, treatment and recovery goals and preferences, treatments, and therapies.
 
@@ -91,3 +89,5 @@ The CMHC must ensure that all clients admitted into its program are appropriate 
 (iv) Any other documentation that will assist in post-discharge continuity of care.
 
 (4) The CMHC must adhere to all Federal and State-related requirements pertaining to the medical privacy and the release of client information.
+
+[78 FR 64630, Oct. 29, 2013, as amended at 84 FR 51829, Sept. 30, 2019]

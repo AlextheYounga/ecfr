@@ -1,0 +1,3 @@
+##### § 1003.13 Alternative Dispute Resolution. #####
+
+The DOE encourages the use of Alternative Dispute Resolution (ADR) to resolve disputes and controversies at any stage of the proceedings. Accordingly, parties appearing before the OHA are encouraged to use ADR when practical. The DOE Alternative Dispute Resolution Office, which employs multiple neutrals trained in mediation and other ADR services, provides ADR services for disputes involving the DOE and its affiliated organizations (*e.g.,* DOE contractors). ADR is voluntary and the OHA will never require parties to engage in settlement negotiations or mediation.

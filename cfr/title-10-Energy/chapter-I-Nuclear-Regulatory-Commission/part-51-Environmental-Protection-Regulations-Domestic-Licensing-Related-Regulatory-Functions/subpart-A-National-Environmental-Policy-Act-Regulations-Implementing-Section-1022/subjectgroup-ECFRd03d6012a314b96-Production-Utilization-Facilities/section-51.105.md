@@ -1,5 +1,7 @@
 ##### § 51.105 Public hearings in proceedings for issuance of construction permits or early site permits; limited work authorizations. #####
 
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.
+
 (a) In addition to complying with applicable requirements of § 51.104, in a proceeding for the issuance of a construction permit or early site permit for a nuclear power reactor, testing facility, fuel reprocessing plant or isotopic enrichment plant, the presiding officer will:
 
 (1) Determine whether the requirements of Sections 102(2) (A), (C), and (E) of NEPA and the regulations in this subpart have been met;

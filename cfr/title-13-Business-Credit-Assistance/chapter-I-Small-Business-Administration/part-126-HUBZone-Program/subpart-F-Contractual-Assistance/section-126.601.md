@@ -1,5 +1,7 @@
 ##### § 126.601 What additional requirements must a qualified HUBZone SBC meet to bid on a contract? #####
 
+Link to an amendment published at 84 FR 65247, Nov. 26, 2019.Link to an amendment published at 84 FR 65664, Nov. 29, 2019.
+
 (a) The Federal Acquisition Regulatory Council (FAR Council) has the responsibility of adjusting each acquisition-related dollar threshold on October 1 of each year that is evenly divisible by five. Acquisition-related dollar thresholds are defined as dollar thresholds that are specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency as determined by the FAR Council. 41 U.S.C. 431a(c). Part 126, Subpart F, Contract Assistance, contains acquisition-related dollar thresholds subject to inflationary adjustments. The FAR Council shall publish a notice of the adjusted dollar thresholds in the Federal Register. The adjusted dollar thresholds shall take effect on the date of publication.
 
 (b) In order to submit an offer on a specific HUBZone contract, the qualified HUBZone SBC, together with its affiliates, must be small under the size standard corresponding to the NAICS code assigned to the contract.

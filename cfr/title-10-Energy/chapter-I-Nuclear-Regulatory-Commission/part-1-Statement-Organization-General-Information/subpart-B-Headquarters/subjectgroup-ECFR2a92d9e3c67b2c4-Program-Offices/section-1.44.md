@@ -1,5 +1,7 @@
 ##### § 1.44 Office of New Reactors. #####
 
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.
+
 The Office of New Reactors -
 
 (a) Develops, promulgates and implements regulations and develops and implements policies, programs, and procedures for all aspects of licensing, inspection, and safeguarding of -

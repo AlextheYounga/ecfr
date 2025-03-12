@@ -1,10 +1,8 @@
 ##### § 482.13 Condition of participation: Patient's rights. #####
 
-Link to an amendment published at 84 FR 51817, Sept. 30, 2019.Link to an amendment published at 84 FR 51882, Sept. 30, 2019.
-
 A hospital must protect and promote each patient's rights.
 
-(a) *Standard: Notice of rights* - (1) A hospital must inform each patient, or when appropriate, the patient's representative (as allowed under State law), of the patient's rights, in advance of furnishing or discontinuing patient care whenever possible.
+(a) *Standard: Notice of rights.* (1) A hospital must inform each patient, or when appropriate, the patient's representative (as allowed under State law), of the patient's rights, in advance of furnishing or discontinuing patient care whenever possible.
 
 (2) The hospital must establish a process for prompt resolution of patient grievances and must inform each patient whom to contact to file a grievance. The hospital's governing body must approve and be responsible for the effective operation of the grievance process and must review and resolve grievances, unless it delegates the responsibility in writing to a grievance committee. The grievance process must include a mechanism for timely referral of patient concerns regarding quality of care or premature discharge to the appropriate Utilization and Quality Control Quality Improvement Organization. At a minimum:
 
@@ -30,11 +28,11 @@ A hospital must protect and promote each patient's rights.
 
 (d) *Standard: Confidentiality of patient records.* (1) The patient has the right to the confidentiality of his or her clinical records.
 
-(2) The patient has the right to access information contained in his or her clinical records within a reasonable time frame. The hospital must not frustrate the legitimate efforts of individuals to gain access to their own medical records and must actively seek to meet these requests as quickly as its record keeping system permits.
+(2) The patient has the right to access their medical records, including current medical records, upon an oral or written request, in the form and format requested by the individual, if it is readily producible in such form and format (including in an electronic form or format when such medical records are maintained electronically); or, if not, in a readable hard copy form or such other form and format as agreed to by the facility and the individual, and within a reasonable time frame. The hospital must not frustrate the legitimate efforts of individuals to gain access to their own medical records and must actively seek to meet these requests as quickly as its record keeping system permits.
 
 (e) *Standard: Restraint or seclusion.* All patients have the right to be free from physical or mental abuse, and corporal punishment. All patients have the right to be free from restraint or seclusion, of any form, imposed as a means of coercion, discipline, convenience, or retaliation by staff. Restraint or seclusion may only be imposed to ensure the immediate physical safety of the patient, a staff member, or others and must be discontinued at the earliest possible time.
 
-(1) *Definitions.* (i) A *restraint* is -
+(1) *Definitions.* (i) A *restraint* is—
 
 (A) Any manual method, physical or mechanical device, material, or equipment that immobilizes or reduces the ability of a patient to move his or her arms, legs, body, or head freely; or
 
@@ -48,19 +46,19 @@ A hospital must protect and promote each patient's rights.
 
 (3) The type or technique of restraint or seclusion used must be the least restrictive intervention that will be effective to protect the patient, a staff member, or others from harm.
 
-(4) The use of restraint or seclusion must be -
+(4) The use of restraint or seclusion must be—
 
 (i) In accordance with a written modification to the patient's plan of care; and
 
 (ii) Implemented in accordance with safe and appropriate restraint and seclusion techniques as determined by hospital policy in accordance with State law.
 
-(5) The use of restraint or seclusion must be in accordance with the order of a physician or other licensed independent practitioner who is responsible for the care of the patient as specified under § 482.12(c) and authorized to order restraint or seclusion by hospital policy in accordance with State law.
+(5) The use of restraint or seclusion must be in accordance with the order of a physician or other licensed practitioner who is responsible for the care of the patient and authorized to order restraint or seclusion by hospital policy in accordance with State law.
 
 (6) Orders for the use of restraint or seclusion must never be written as a standing order or on an as needed basis (PRN).
 
 (7) The attending physician must be consulted as soon as possible if the attending physician did not order the restraint or seclusion.
 
-(8) Unless superseded by State law that is more restrictive -
+(8) Unless superseded by State law that is more restrictive—
 
 (i) Each order for restraint or seclusion used for the management of violent or self-destructive behavior that jeopardizes the immediate physical safety of the patient, a staff member, or others may only be renewed in accordance with the following limits for up to a total of 24 hours:
 
@@ -70,25 +68,25 @@ A hospital must protect and promote each patient's rights.
 
 (C) 1 hour for children under 9 years of age; and
 
-(ii) After 24 hours, before writing a new order for the use of restraint or seclusion for the management of violent or self-destructive behavior, a physician or other licensed independent practitioner who is responsible for the care of the patient as specified under § 482.12(c) of this part and authorized to order restraint or seclusion by hospital policy in accordance with State law must see and assess the patient.
+(ii) After 24 hours, before writing a new order for the use of restraint or seclusion for the management of violent or self-destructive behavior, a physician or other licensed practitioner who is responsible for the care of the patient and authorized to order restraint or seclusion by hospital policy in accordance with State law must see and assess the patient.
 
 (iii) Each order for restraint used to ensure the physical safety of the non-violent or non-self-destructive patient may be renewed as authorized by hospital policy.
 
 (9) Restraint or seclusion must be discontinued at the earliest possible time, regardless of the length of time identified in the order.
 
-(10) The condition of the patient who is restrained or secluded must be monitored by a physician, other licensed independent practitioner or trained staff that have completed the training criteria specified in paragraph (f) of this section at an interval determined by hospital policy.
+(10) The condition of the patient who is restrained or secluded must be monitored by a physician, other licensed practitioner, or trained staff that have completed the training criteria specified in paragraph (f) of this section at an interval determined by hospital policy.
 
-(11) Physician and other licensed independent practitioner training requirements must be specified in hospital policy. At a minimum, physicians and other licensed independent practitioners authorized to order restraint or seclusion by hospital policy in accordance with State law must have a working knowledge of hospital policy regarding the use of restraint or seclusion.
+(11) Physician and other licensed practitioner training requirements must be specified in hospital policy. At a minimum, physicians and other licensed practitioners authorized to order restraint or seclusion by hospital policy in accordance with State law must have a working knowledge of hospital policy regarding the use of restraint or seclusion.
 
-(12) When restraint or seclusion is used for the management of violent or self-destructive behavior that jeopardizes the immediate physical safety of the patient, a staff member, or others, the patient must be seen face-to-face within 1 hour after the initiation of the intervention -
+(12) When restraint or seclusion is used for the management of violent or self-destructive behavior that jeopardizes the immediate physical safety of the patient, a staff member, or others, the patient must be seen face-to-face within 1 hour after the initiation of the intervention—
 
-(i) By a -
+(i) By a—
 
-(A) Physician or other licensed independent practitioner; or
+(A) Physician or other licensed practitioner.
 
-(B) Registered nurse or physician assistant who has been trained in accordance with the requirements specified in paragraph (f) of this section.
+(B) Registered nurse who has been trained in accordance with the requirements specified in paragraph (f) of this section.
 
-(ii) To evaluate -
+(ii) To evaluate—
 
 (A) The patient's immediate situation;
 
@@ -100,9 +98,9 @@ A hospital must protect and promote each patient's rights.
 
 (13) States are free to have requirements by statute or regulation that are more restrictive than those contained in paragraph (e)(12)(i) of this section.
 
-(14) If the face-to-face evaluation specified in paragraph (e)(12) of this section is conducted by a trained registered nurse or physician assistant, the trained registered nurse or physician assistant must consult the attending physician or other licensed independent practitioner who is responsible for the care of the patient as specified under § 482.12(c) as soon as possible after the completion of the 1-hour face-to-face evaluation.
+(14) If the face-to-face evaluation specified in paragraph (e)(12) of this section is conducted by a trained registered nurse, the trained registered nurse must consult the attending physician or other licensed practitioner who is responsible for the care of the patient as soon as possible after the completion of the 1-hour face-to-face evaluation.
 
-(15) All requirements specified under this paragraph are applicable to the simultaneous use of restraint and seclusion. Simultaneous restraint and seclusion use is only permitted if the patient is continually monitored -
+(15) All requirements specified under this paragraph are applicable to the simultaneous use of restraint and seclusion. Simultaneous restraint and seclusion use is only permitted if the patient is continually monitored—
 
 (i) Face-to-face by an assigned, trained staff member; or
 
@@ -122,7 +120,7 @@ A hospital must protect and promote each patient's rights.
 
 (f) *Standard: Restraint or seclusion: Staff training requirements.* The patient has the right to safe implementation of restraint or seclusion by trained staff.
 
-(1) *Training intervals.* Staff must be trained and able to demonstrate competency in the application of restraints, implementation of seclusion, monitoring, assessment, and providing care for a patient in restraint or seclusion -
+(1) *Training intervals.* Staff must be trained and able to demonstrate competency in the application of restraints, implementation of seclusion, monitoring, assessment, and providing care for a patient in restraint or seclusion—
 
 (i) Before performing any of the actions specified in this paragraph;
 
@@ -176,7 +174,7 @@ A hospital must protect and promote each patient's rights.
 
 (i) Each entry must be made not later than seven days after the date of death of the patient.
 
-(ii) Each entry must document the patient's name, date of birth, date of death, name of attending physician or other licensed independent practitioner who is responsible for the care of the patient as specified under § 482.12(c), medical record number, and primary diagnosis(es).
+(ii) Each entry must document the patient's name, date of birth, date of death, name of attending physician or other licensed practitioner who is responsible for the care of the patient, medical record number, and primary diagnosis(es).
 
 (iii) The information must be made available in either written or electronic form to CMS immediately upon request.
 
@@ -190,4 +188,4 @@ A hospital must protect and promote each patient's rights.
 
 (4) Ensure that all visitors enjoy full and equal visitation privileges consistent with patient preferences.
 
-[71 FR 71426, Dec. 8, 2006, as amended at 75 FR 70844, Nov. 19, 2010; 77 FR 29074, May 16, 2012]
+[71 FR 71426, Dec. 8, 2006, as amended at 75 FR 70844, Nov. 19, 2010; 77 FR 29074, May 16, 2012; 84 FR 51817, 51882, Sept. 30, 2019]
