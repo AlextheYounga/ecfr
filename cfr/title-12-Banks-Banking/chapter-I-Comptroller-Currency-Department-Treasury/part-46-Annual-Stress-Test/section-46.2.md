@@ -1,5 +1,7 @@
 ##### § 46.2 Definitions. #####
 
+Link to an amendment published at 83 FR 7953, Feb. 23, 2018.
+
 For purposes of this part, the following definitions apply:
 
 *$10 to $50 billion covered institution* means a national bank or Federal savings association with average total consolidated assets, calculated as required under this part, that are greater than $10 billion but less than $50 billion.

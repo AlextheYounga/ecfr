@@ -1,5 +1,7 @@
 ##### § 46.3 Applicability. #####
 
+Link to an amendment published at 83 FR 7953, Feb. 23, 2018.
+
 (a) *Measurement of average total consolidated assets for a covered institution.* A covered institution's average total consolidated assets is calculated as the average of the covered institution's total consolidated assets, as reported on the covered institution's Call Reports, for the four most recent consecutive quarters. If the covered institution has not filed a Call Report for each of the four most recent consecutive quarters, the covered institution's average total consolidated assets is calculated as the average of the covered institution's total consolidated assets, as reported on the covered institution's Call Reports, for the most recent one or more consecutive quarters. The date on which a national bank or Federal savings association becomes a covered institution shall be the as-of date of the most recent Call Report used in the calculation of the average.
 
 (b) *First stress test for covered institutions subject to stress testing requirements as of October 9, 2012.* (1) A national bank or Federal savings association that is a $10 to $50 billion covered institution, as defined in § 46.2 of this part, as of October 9, 2012 must conduct its first stress test under this part using financial statement data as of September 30, 2013, and report the results of its stress test on or before March 31, 2014.

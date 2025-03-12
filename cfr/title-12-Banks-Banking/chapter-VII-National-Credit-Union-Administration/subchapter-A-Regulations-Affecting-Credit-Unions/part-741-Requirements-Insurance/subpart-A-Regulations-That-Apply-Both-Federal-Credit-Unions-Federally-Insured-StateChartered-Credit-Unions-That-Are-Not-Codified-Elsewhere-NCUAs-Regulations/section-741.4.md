@@ -1,5 +1,7 @@
 ##### § 741.4 Insurance premium and one percent deposit. #####
 
+Link to an amendment published at 83 FR 7960, Feb. 23, 2018.
+
 (a) *Scope.* This section implements the requirements of Section 202 of the Act (12 U.S.C. 1782) providing for capitalization of the NCUSIF through the maintenance of a deposit by each insured credit union in an amount equaling one percent of its insured shares and payment of an insurance premium.
 
 (b) *Definitions.* For purposes of this section:

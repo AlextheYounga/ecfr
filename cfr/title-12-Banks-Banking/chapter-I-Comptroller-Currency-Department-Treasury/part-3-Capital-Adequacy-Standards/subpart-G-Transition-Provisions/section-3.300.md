@@ -94,25 +94,25 @@ Table 4 to § 3.300
 
 Table 5 to § 3.300
 
-|        Transition period        |Percentage of the transition AOCI  <br/>adjustment amount to be applied to common equity tier 1 capital|
-|---------------------------------|-------------------------------------------------------------------------------------------------------|
-|       Calendar year 2014        |                                                  80                                                   |
-|       Calendar year 2015        |                                                  60                                                   |
-|       Calendar year 2016        |                                                  40                                                   |
-|       Calendar year 2017        |                                                  20                                                   |
-|Calendar year 2018 and thereafter|                                                   0                                                   |
+|        Transition period        |Percentage of the transition AOCI adjustment amount to be applied to common equity tier 1 capital|
+|---------------------------------|-------------------------------------------------------------------------------------------------|
+|       Calendar year 2014        |                                               80                                                |
+|       Calendar year 2015        |                                               60                                                |
+|       Calendar year 2016        |                                               40                                                |
+|       Calendar year 2017        |                                               20                                                |
+|Calendar year 2018 and thereafter|                                                0                                                |
 
 (iii) A national bank or Federal savings association may include in tier 2 capital the percentage of unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures as set forth in Table 6 to § 3.300.
 
 Table 6 to § 3.300
 
-|        Transition period        |Percentage of unrealized gains on available-for-sale preferred stock classified as an  <br/>equity security under GAAP and available-for-sale equity exposures that may be  <br/>included in tier 2 capital|
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       Calendar year 2014        |                                                                                                    36                                                                                                     |
-|       Calendar year 2015        |                                                                                                    27                                                                                                     |
-|       Calendar year 2016        |                                                                                                    18                                                                                                     |
-|       Calendar year 2017        |                                                                                                     9                                                                                                     |
-|Calendar year 2018 and thereafter|                                                                                                     0                                                                                                     |
+|        Transition period        |Percentage of unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures that may be included in tier 2 capital|
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       Calendar year 2014        |                                                                                              36                                                                                               |
+|       Calendar year 2015        |                                                                                              27                                                                                               |
+|       Calendar year 2016        |                                                                                              18                                                                                               |
+|       Calendar year 2017        |                                                                                               9                                                                                               |
+|Calendar year 2018 and thereafter|                                                                                               0                                                                                               |
 
 (4) *Additional transition deductions from regulatory capital.* Except as provided in paragraph (b)(5) of this section:
 
@@ -148,17 +148,17 @@ Table 7 to § 3.300
 
 Table 9 to § 3.300
 
-|Transition period (calendar year)|Percentage of non-qualifying capital  <br/>instruments includable in additional tier 1 or tier 2 capital|   |
-|---------------------------------|--------------------------------------------------------------------------------------------------------|---|
-|       Calendar year 2014        |                                                   80                                                   |   |
-|       Calendar year 2015        |                                                   70                                                   |   |
-|       Calendar year 2016        |                                                   60                                                   |   |
-|       Calendar year 2017        |                                                   50                                                   |   |
-|       Calendar year 2018        |                                                   40                                                   |   |
-|       Calendar year 2019        |                                                   30                                                   |   |
-|       Calendar year 2020        |                                                   20                                                   |   |
-|       Calendar year 2021        |                                                   10                                                   |   |
-|Calendar year 2022 and thereafter|                                                   0                                                    |   |
+|Transition period (calendar year)|Percentage of non-qualifying capital instruments includable in additional tier 1 or tier 2 capital|   |
+|---------------------------------|--------------------------------------------------------------------------------------------------|---|
+|       Calendar year 2014        |                                                80                                                |   |
+|       Calendar year 2015        |                                                70                                                |   |
+|       Calendar year 2016        |                                                60                                                |   |
+|       Calendar year 2017        |                                                50                                                |   |
+|       Calendar year 2018        |                                                40                                                |   |
+|       Calendar year 2019        |                                                30                                                |   |
+|       Calendar year 2020        |                                                20                                                |   |
+|       Calendar year 2021        |                                                10                                                |   |
+|Calendar year 2022 and thereafter|                                                0                                                 |   |
 
 (d) *Minority interest* - (1) *Surplus minority interest* - (i) *Advanced approaches national bank or Federal savings association surplus minority interest.* Beginning January 1, 2014 through December 31, 2017, an advanced approaches national bank or Federal savings association may include in common equity tier 1 capital, tier 1 capital, or total capital the percentage of the common equity tier 1 minority interest, tier 1 minority interest, and total capital minority interest outstanding as of January 1, 2014, that exceeds any common equity tier 1 minority interest, tier 1 minority interest, or total capital minority interest includable under § 3.21 (surplus minority interest), respectively, as set forth in Table 10 to § 3.300.
 

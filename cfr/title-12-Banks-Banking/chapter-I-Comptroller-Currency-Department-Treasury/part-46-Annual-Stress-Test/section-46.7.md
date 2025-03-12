@@ -1,5 +1,7 @@
 ##### § 46.7 Reports to the Office of the Comptroller of the Currency and the Federal Reserve Board. #####
 
+Link to an amendment published at 83 FR 7953, Feb. 23, 2018.
+
 (a) *$10 to $50 billion covered institution.* A $10 to $50 billion covered institution must report to the OCC and to the Board of Governors of the Federal Reserve System, on or before March 31 (for the stress test beginning October 1, 2014) and on or before July 31 (for the stress test beginning January 1, 2016, and all stress tests thereafter), the results of the stress test in the manner and form specified by the OCC.
 
 (b) *Over $50 billion covered institution.* An over $50 billion covered institution must report to the OCC and to the Board of Governors of the Federal Reserve System, on or before January 5 (for the stress test beginning October 1, 2014) and on or before April 5 (for the stress test beginning January 1, 2016, and all stress tests thereafter), the results of the stress test in the manner and form specified by the OCC.

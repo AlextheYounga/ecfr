@@ -6,7 +6,7 @@
 
 (ii) Credit risk is covered on a pro rata basis (that is, on a basis in which the national bank or Federal savings association and the protection provider share losses proportionately) by an eligible guarantee or eligible credit derivative.
 
-(2) Wholesale exposures on which there is a tranching of credit risk (reflecting at least two different levels of seniority) are securitization exposures subject to § 3.141 through § 3.145.
+(2) Wholesale exposures on which there is a tranching of credit risk (reflecting at least two different levels of seniority) are securitization exposures subject to §§ 3.141 through 3.145.
 
 (3) A national bank or Federal savings association may elect to recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative covering an exposure described in paragraph (a)(1) of this section by using the PD substitution approach or the LGD adjustment approach in paragraph (c) of this section or, if the transaction qualifies, using the double default treatment in § 3.135. A national bank's or Federal savings association's PD and LGD for the hedged exposure may not be lower than the PD and LGD floors described in § 3.131(d)(2) and (d)(3).
 
@@ -40,7 +40,7 @@
 
 (B) The LGD of the guarantee or credit derivative, if the guarantee or credit derivative does not provide the national bank or Federal savings association with the option to receive immediate payout upon triggering the protection.
 
-(2) *LGD adjustment approach.* (i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure is the greater of:
+(2) *LGD adjustment approach* - (i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure is the greater of:
 
 (A) The risk-based capital requirement for the exposure as calculated under § 3.131, with the LGD of the exposure adjusted to reflect the guarantee or credit derivative; or
 

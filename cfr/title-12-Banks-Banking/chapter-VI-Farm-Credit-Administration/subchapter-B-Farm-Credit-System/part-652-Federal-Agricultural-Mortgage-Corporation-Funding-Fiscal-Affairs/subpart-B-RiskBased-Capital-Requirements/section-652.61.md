@@ -22,9 +22,7 @@
 
 *Total Risk-Weighted Assets* means a risk-weighting approach that is appropriate given Farmer Mac's business activities and consistent with broadly accepted banking practices and standards (e.g., one of the frameworks of the Basel Committee on Banking Supervision or similar U.S. regulations).
 
-(c) *General requirements.* (1) *Annual capital planning.*
-
-(i) Farmer Mac must develop and maintain a capital plan each year.
+(c) *General requirements*—(1) *Annual capital planning.* (i) Farmer Mac must develop and maintain a capital plan each year.
 
 (ii) Farmer Mac must submit its complete annual capital plan to OSMO by March 1 or such later date as directed by OSMO, after consultation with the FCA Board.
 

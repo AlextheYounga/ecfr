@@ -1,5 +1,7 @@
 ##### § 46.8 Publication of disclosures. #####
 
+Link to an amendment published at 83 FR 7954, Feb. 23, 2018.
+
 (a) *Publication date* - (1) *Over $50 billion covered institution.* (i) Prior to January 1, 2016, an over $50 billion covered institution must publish a summary of the results of its annual stress test in the period starting March 15 and ending March 31 (for the stress test cycle beginning October 1, 2014).
 
 (ii) Effective January 1, 2016, an over $50 billion covered institution must publish a summary of the results of its annual stress test in the period starting June 15 and ending July 15 (for the stress test cycle beginning January 1, 2016, and for all stress tests thereafter) provided:
