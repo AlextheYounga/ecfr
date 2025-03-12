@@ -64,6 +64,4 @@
 
 (i) *Exceptions.* The Secretary may not impose penalties under this section for a violation, if a material cause of the violation is the failure of the Secretary, an agent of the Secretary, or a public housing agency to comply with an existing agreement.
 
-(g) *Maximum penalty.* The maximum penalty for each violation under paragraphs (c) and (f) of this section is $49,096.
-
 [66 FR 63441, Dec. 6, 2001, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019]

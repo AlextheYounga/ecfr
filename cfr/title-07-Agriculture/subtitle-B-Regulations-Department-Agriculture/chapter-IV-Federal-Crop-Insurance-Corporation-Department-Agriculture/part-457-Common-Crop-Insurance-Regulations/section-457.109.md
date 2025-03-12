@@ -1,7 +1,5 @@
 ##### § 457.109 Sugar Beet Crop Insurance Provisions. #####
 
-Link to an amendment published at 84 FR 65638, Nov. 29, 2019.
-
 The Sugar Beet Crop Insurance Provisions for effective for the 2019 and succeeding crop years in states with a November 30 contract change date and for the 2020 and succeeding crop years in all other states, are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)
@@ -14,33 +12,33 @@ Sugar Beet Crop Provisions1. Definitions
 
 *Harvest.* Topping and lifting of sugar beets in the field.
 
-*Initially planted.* The first occurrence that land is considered as planted acreage for the crop year.
+*Percentage of raw sugar.* Quantity of sugar determined from analytical tests of samples performed by the processor or other laboratories approved by us.
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, sugar beets must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
-*Practical to replant.* In addition to the definition in section 1 of the Basic Provisions, it will not be considered practical to replant if production from the replanted acreage cannot be delivered under the terms of the processor contract, or 30 days after the initial planting date for all counties where a late planting period is not applicable, unless replanting is generally occurring in the area.
+*Pound.* Sixteen (16) ounces avoirdupois.
+
+*Practical to replant.* In addition to the definition in section 1 of the Basic Provisions, it will not be considered practical to replant if production from the replanted acreage cannot be delivered under the terms of the production agreement, or 30 days after the initial planting date for all counties where a late planting period is not applicable, unless replanting is generally occurring in the area.
 
 *Processor.* Any business enterprise regularly engaged in processing sugar beets for sugar that possesses all licenses and permits for processing sugar beets required by the State in which it operates, and that possesses facilities, or has contractual access to such facilities, with enough equipment to accept and process the contracted sugar beets within a reasonable amount of time after harvest.
 
-*Processor contract.* A written agreement between you and the processor, executed on or before the acreage reporting date, which is in effect for the crop year, containing at a minimum:
+*Production agreement.* A written contract between you and the processor, executed on or before the acreage reporting date, which is in effect for the crop year, containing at a minimum:
 
-(1) Your commitment to plant, grow, and deliver the sugar beet production to the processor;
+(1) Your commitment to plant, grow, and deliver the sugar beet production to the processor; and
 
-(2) The processor's commitment to purchase the production stated in the contract; and
-
-(3) A price or formula for a price based on third party data that will be paid to you for the production stated in the contract.
+(2) The processor's commitment to purchase the production stated in the contract.
 
 *Raw sugar.* Sugar that has not been extracted from the sugar beet.
 
+*Ton.* Two thousand (2,000) pounds avoirdupois.
+
 2. Unit Division
 
-In addition to the requirements of section 34 of the Basic Provisions, basic units may be divided into optional units only if you have a processor contract that requires the processor to accept all production from a number of acres specified in the processor contract. Acreage insured to fulfil a contract which provides that the processor will accept a designated amount of production or a combination of acreage and production will not be eligible for optional units.
+In addition to the requirements of section 34 of the Basic Provisions, basic units may be divided into optional units only if you have a production agreement that requires the processor to accept all production from a number of acres specified in the production agreement. Acreage insured to fulfill a production agreement which provides that the processor will accept a designated amount of production or a combination of acreage and production will not be eligible for optional units.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities.
 
-(a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election for all the sugar beets in the county insured under this policy.
-
-(b) The production guarantee will be expressed in pounds of raw sugar.
+The production guarantee will be expressed in pounds of raw sugar.
 
 4. Contract Changes
 
@@ -50,7 +48,15 @@ In accordance with the provisions of section 4 of the Basic Provisions, the cont
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are August 31 for California and March 15 for all other states.
 
-6. [Reserved]7. Insured Crop
+6. Report of Acreage
+
+In addition to the requirements of section 6 of the Basic Provisions, you must provide a copy of all production agreements to us on or before the acreage reporting date. Insured Crop
+
+(a) \* \* \*
+
+(3) That are grown under a production agreement and are not excluded from the production agreement at any time during the crop year; and
+
+7. Insured Crop
 
 (a) In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the sugar beets in the county for which a premium rate is provided by the actuarial documents:
 
@@ -58,7 +64,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (2) That are planted for harvest as sugar beets;
 
-(3) That are grown under a contract and are not excluded from the processor contract at any time during the crop year; and
+(3) That are grown under a production agreement and are not excluded from the production agreement at any time during the crop year; and
 
 (4) That are not (unless allowed by the Special Provisions or by written agreement):
 
@@ -72,11 +78,11 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (1) The processor must meet the definition of a “processor” in section 1 of these crop provisions and have a valid insurable interest in the sugar beet crop;
 
-(2) The Board of Directors or officers of the processor must have adopted and executed a corporate resolution that contains essentially the same terms as a processor contract. Such corporate resolution will be considered a processor contract under the terms of the sugar beet crop insurance policy;
+(2) The Board of Directors or officers of the processor must have adopted and executed a corporate resolution that contains essentially the same terms as a production agreement. Such corporate resolution will be considered a production agreement under the terms of the sugar beet crop insurance policy;
 
 (3) The sales records of the processor showing the amount of sugar produced the previous year must be supplied to us to confirm the processor has produced and sold sugar in the past; and
 
-(4) Our inspection of the processing facilities determines that they conform to the definition of processor contained in section 1 of these crop provisions.
+(4) Our inspection of the processing facilities determines that they conform to the definition of “processor” contained in section 1 of these crop provisions.
 
 8. Insurable Acreage
 
@@ -126,11 +132,7 @@ In accordance with the provisions of section 12 of the Basic Provisions (§ 457.
 
 12. Duties in the Event of Damage or Loss
 
-In accordance with the requirements of section 14 of the Basic Provisions (§ 457.8):
-
-(a) Representative samples of the unharvested crop must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed; and
-
-(b) You must provide a copy of your processor contract, or corporate resolution if you are the processor.
+In accordance with the requirements of section 14 of the Basic Provisions, representative samples of the unharvested crop must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed.
 
 13. Settlement of Claim
 
@@ -176,15 +178,15 @@ In accordance with the requirements of section 14 of the Basic Provisions (§ 45
 
 (2) All harvested production from the insurable acreage.
 
-(d) Harvested production or unharvested production that is appraised after the earliest delivery date that the processor accepts harvested production and that meets the minimum acceptable standards contained in the processor contract or corporate resolution will be converted to pounds of raw sugar by multiplying the tons of such production by 2,000 and by the average percentage of raw sugar to determine the production to count. The average percentage of raw sugar will be determined from tests performed by the processor at the time of delivery.
+(d) Harvested production or unharvested production that is appraised after the earliest delivery date that the processor accepts harvested production and that meets the minimum acceptable standards contained in the production agreement or corporate resolution will be converted to pounds of raw sugar by multiplying the tons of such production by 2,000 and by the average percentage of raw sugar to determine the production to count. The average percentage of raw sugar will be determined from tests performed by the processor or other laboratories approved by us at the time of delivery or sample acquisition (appraisal).
 
-(1) If individual tests of raw sugar content are not made at the time of delivery, the average percent of raw sugar may be based on the results of previous tests performed by the processor during the crop year if it is determined that such results are representative of the total production.
+(1) If individual tests of raw sugar content are not made at the time of delivery, the average percent of raw sugar may be based on the results of your previous tests performed by the processor or other laboratories approved by us during the crop year if it is determined that such results are representative of the total production.
 
 (2) If not representative, the average percent of raw sugar will equal the raw sugar content percent shown in the Special Provisions.
 
-(e) Harvested production or unharvested production that is appraised after the earliest delivery date that the processor accepts harvested production and that does not meet the minimum acceptable standards contained in the processor contract or corporate resolution due to an insured peril will be converted to pounds of raw sugar by multiplying the tons of such damaged production by 2,000 and by the average percent of raw sugar contained in such production.
+(e) Harvested production or unharvested production that is appraised after the earliest delivery date that the processor accepts harvested production and that does not meet the minimum acceptable standards contained in the production agreement or corporate resolution due to an insured peril will be converted to pounds of raw sugar by multiplying the tons of such damaged production by 2,000 and by the average percent of raw sugar contained in such production. The average percentage of raw sugar will be determined from tests performed by the processor or other laboratories approved by us at the time of crop delivery or sample acquisition (appraisal).
 
-(1) If individual tests of raw sugar content are not made at the time of delivery, the average percent of raw sugar may be based on the results of previous tests performed by the processor during the crop year if it is determined that such results are representative of the total production.
+(1) If individual tests of raw sugar content are not made at the time of delivery, the average percent of raw sugar may be based on the results of your previous tests performed by the processor or other laboratories approved by us during the crop year if it is determined that such results are representative of the total production.
 
 (2) If not representative, the average percent of raw sugar will equal the raw sugar content percent shown in the Special Provisions.
 
@@ -192,12 +194,26 @@ In accordance with the requirements of section 14 of the Basic Provisions (§ 45
 
 (1) The date the sugar beets would have reached full maturity will be considered to be 45 days prior to the calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions.
 
-(2) This adjustment will not be made if the sugar beets are damaged by an insurable cause of loss and leaving the crop in the field would reduce production.
+(f) \* \* \*
 
-(3) The adjustment cannot result in production to count in excess of the insured's actual production history;
+(2) The adjustment will not be made if the sugar beets are damaged by an insurable cause of loss and leaving the crop in the field would reduce production.
+
+(3) The adjustment cannot result in a yield greater than the higher of your approved actual production history yield or the actual yield of the production harvested after full maturity from the unit.
+
+(4) The adjustment will only be made if early harvest is required in the production agreement, or the processor requests early harvest prior to full maturity.
+
+(5) If the production agreement does not require early harvest and the processor has not requested early harvest, and the processor:
+
+(i) Accepts the early harvested production, the early harvested production will be counted but no early harvest adjustment will apply.
+
+(ii) Does not accept the early harvested production, the production to count will be the production guarantee for the acreage harvested early.
+
+(g) If harvested production is damaged due to an insurable cause of loss and is rejected by the processor but is sold to a salvage buyer at a reduced price: Compute the pounds of raw sugar of the sold production by dividing the gross dollar amount paid by the salvage buyer by the established price.
+
+(h) If production is damaged due to an insurable cause of loss to the extent that the processor will not accept the production, such as the production did not meet the standards contained in the production agreement; and there are no salvage markets for the production, then there would be no value for production and there would be no production to count provided the production is destroyed in a manner acceptable to us.
 
 14. [Reserved]15. Prevented Planting
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018]
+[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018; 84 FR 65638, Nov. 29, 2019]

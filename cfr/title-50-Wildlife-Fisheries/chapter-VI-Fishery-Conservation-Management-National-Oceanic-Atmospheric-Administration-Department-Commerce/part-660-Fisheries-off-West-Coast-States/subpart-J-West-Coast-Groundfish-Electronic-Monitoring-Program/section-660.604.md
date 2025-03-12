@@ -1,5 +1,7 @@
 ##### § 660.604 Vessel and first receiver responsibilities. #####
 
+Link to an amendment published at 84 FR 67680, Dec. 11, 2019.
+
 (a) *General.* This section lays out the requirements for catcher vessels to obtain an exemption to use EM in place of 100-percent observer coverage required by the Shorebased IFQ Program (§ 660.140(h)(1)(i)) and MS Co-op Program (§ 660.150(j)(1)(i)(B)). Requirements are also described for first receivers receiving landings from EM trips.
 
 (b) *Vessel owner responsibilities.* To use EM under this section, vessel owners must:

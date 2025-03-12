@@ -1,18 +1,20 @@
 ##### § 457.113 Coarse grains crop insurance provisions. #####
 
-Link to an amendment published at 84 FR 65261, Nov. 27, 2019.
-
-The Coarse Grains Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+The Coarse Grains Crop Insurance Provisions for the 2020 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationCoarse Grains Crop Provisions1. Definitions
 
 *Coarse grains.* Corn, grain sorghum, and soybeans.
+
+*Following another crop (FAC).* A cropping practice, as defined in the Special Provisions, in which a crop is planted following another crop.
 
 *Grain sorghum.* The crop defined as sorghum under the United States Grain Standards Act.
 
 *Harvest.* Combining, threshing, or picking the insured crop for grain, or cutting for hay, silage, or fodder.
 
 *Local market price.* The cash grain price per bushel for the U.S. No. 2 yellow corn, U.S. No. 2 grain sorghum, or U.S. No. 1 soybeans, offered by buyers in the area in which you normally market the insured crop. The local market price will reflect the maximum limits of quality deficiencies allowable for the U.S. No. 2 grade for yellow corn and grain sorghum, or U.S. No. 1 grade for soybeans. Factors not associated with grading under the Official United States Standards for Grain, including but not limited to protein and oil, will not be considered.
+
+*Not following another crop (NFAC*). A cropping practice, as defined in the Special Provisions, in which a crop is planted not following a crop.
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, coarse grains must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
@@ -22,15 +24,41 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 *Ton.* Two thousand (2000) pounds avoirdupois.
 
-2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+2. Unit Division.
+
+(a) In addition to the requirements of section 34(a) of the Basic Provisions, you may elect separate enterprise units for FAC or NFAC cropping practices if these cropping practices are allowed by the actuarial documents. If you elect enterprise units for these cropping practices, you may not elect enterprise or optional units by irrigation practices.
+
+(1) You may elect one enterprise unit for all FAC cropping practices, all NFAC cropping practices, or separate enterprise units for both, unless otherwise specified in the Special Provisions. For example: You may choose an enterprise unit for all FAC acreage (soybeans irrigated practice and non-irrigated practice) and an enterprise unit for all NFAC acreage (soybeans irrigated practice and non-irrigated practice).
+
+(2) You are only eligible if both FAC and NFAC cropping practices are allowed by the actuarial documents for each irrigation practice you use. If FAC and NFAC cropping practices are only allowed for the non-irrigated practice, separate enterprise units for FAC and NFAC cropping practices are not available if you use the irrigated practice; but if you use only non-irrigated FAC and NFAC cropping practices, separate enterprise units for non-irrigated FAC and NFAC cropping practices are available.
+
+(3) You must separately meet the requirements in section 34(a)(4) for each enterprise unit.
+
+(4) If you elected separate enterprise units for both cropping practices and we discover you do not qualify for an enterprise unit for one or the other cropping practice and such discovery is made:
+
+(i) On or before the acreage reporting date, you may elect to insure all acreage of the crop in the county in one enterprise unit provided you meet the requirements in section 34(a)(4), or your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+
+(5) If you elected an enterprise unit on one cropping practice for FAC or NFAC and a different unit structure on the other cropping practice and we discover you do not qualify for an enterprise unit for the FAC or NFAC cropping practice and such discovery is made:
+
+(i) On or before the acreage reporting date, your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
+
+(ii) At any time after the acreage reporting date, we will assign the basic unit structure.
+
+(b) Instead of establishing optional units as provided in section 34(c) of the Basic Provisions, if allowed by the actuarial documents, you may have separate optional units for the FAC cropping practice and the NFAC cropping practice. These optional units will be by section, section equivalent, or FSA FN and by the FAC cropping practice and the NFAC cropping practice. These optional units cannot be further divided by irrigated and non-irrigated acreage or by acreage insured under an organic farming practice.
+
+(c) If FAC or NFAC cropping practices are only available by written agreement, separate enterprise units or optional units for FAC or NFAC cropping practices are not available.
+
+3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
 In addition to the requirements of section 3 of the Basic Provisions, you must elect to insure your corn, grain sorghum, or soybeans with either revenue protection or yield protection by the sales closing date.
 
-3. Contract Changes
+4. Contract Changes
 
 In accordance with section 4 of the Basic Provisions, the contract change date is November 30 preceding the cancellation date.
 
-4. Cancellation and Termination Dates
+5. Cancellation and Termination Dates
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
@@ -46,7 +74,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 |Alabama; Arizona; Arkansas; California; Florida; Georgia; Louisiana; Mississippi; Nevada; North Carolina; and South Carolina; and El Paso, Hudspeth, Culberson, Reeves, Loving, Winkler, Ector, Upton, Reagan, Sterling, Coke, Tom Green, Concho, McCulloch, San Saba, Mills, Hamilton, Bosque, Johnson, Tarrant, Wise, Cooke Counties, Texas, and all Texas counties lying south and east thereof to and including Maverick, Zavala, Frio, Atascosa, Karnes, De Witt, Lavaca, Colorado, Wharton, and Matagorda Counties, Texas|           February 28.           |
 |                                                                                                                                                                                                                                         All other Texas counties and all other states                                                                                                                                                                                                                                         |            March 15.             |
 
-5. Insured Crop
+6. Insured Crop
 
 (a) In accordance with section 8 of the Basic Provisions, the crop insured will be each coarse grain crop you elect to insure for which premium rates are provided by the actuarial documents:
 
@@ -56,17 +84,17 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (3) That is not (unless allowed by the Special Provisions or by written agreement):
 
-(i) Interplanted with another crop except as allowed in section 5(b)(1); or
+(i) Interplanted with another crop except as allowed in section 6(b)(1); or
 
 (ii) Planted into an established grass or legume.
 
-(b) For corn only, in addition to the provisions of section 5(a), the corn crop insured will be all corn that is:
+(b) For corn only, in addition to the provisions of section 6(a), the corn crop insured will be all corn that is:
 
-(1) Planted for harvest either as grain or as silage (see section 5(c)). A mixture of corn and sorghum (grain or forage-type) will be insured as corn silage if the sorghum does not constitute more than twenty percent (20%) of the plants;
+(1) Planted for harvest either as grain or as silage (see section 6(c)). A mixture of corn and sorghum (grain or forage-type) will be insured as corn silage if the sorghum does not constitute more than twenty percent (20%) of the plants;
 
 (2) Yellow dent or white corn, including mixed yellow and white, waxy or high-lysine corn, high-oil corn blends containing mixtures of at least 90 percent high yielding yellow dent female plants with high-oil male pollinator plants, or commercial varieties of high-protein hybrids, and excluding:
 
-(i) High-amylose, high-oil or high-protein (except as authorized in section 5(b)(2)), flint, flour, Indian, or blue corn, or a variety genetically adapted to provide forage for wildlife or any other open pollinated corn, unless a written agreement allows insurance of such excluded crops.
+(i) High-amylose, high-oil or high-protein (except as authorized in section 6(b)(2)), flint, flour, Indian, or blue corn, or a variety genetically adapted to provide forage for wildlife or any other open pollinated corn, unless a written agreement allows insurance of such excluded crops.
 
 (ii) A variety of corn adapted for silage use only when the corn is reported for insurance as grain.
 
@@ -78,7 +106,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (3) *Silage but not grain,* all insurable corn acreage will be insured as silage unless a written agreement allows insurance on all or a portion of the insurable acreage as grain.
 
-(d) For grain sorghum only, in addition to the provisions of section 5(a), the grain sorghum crop insured will be all of the grain sorghum in the county:
+(d) For grain sorghum only, in addition to the provisions of section 6(a), the grain sorghum crop insured will be all of the grain sorghum in the county:
 
 (1) That is planted for harvest as grain;
 
@@ -86,13 +114,13 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (3) That is not a dual-purpose type of grain sorghum (a type used for both grain and forage), unless a written agreement allows insurance of such grain sorghum.
 
-(e) For soybeans only, in addition to the provisions of section 5(a), the soybean crop insured will be all of the soybeans in the county that are planted for harvest as beans.
+(e) For soybeans only, in addition to the provisions of section 6(a), the soybean crop insured will be all of the soybeans in the county that are planted for harvest as beans.
 
-6. Insurable Acreage
+7. Insurable Acreage
 
 In addition to the provisions of section 9 of the Basic Provisions, any acreage of the insured crop damaged before the final planting date, to the extent that a majority of producers in the area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
-7. Insurance Period
+8. Insurance Period
 
 In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows:
 
@@ -109,7 +137,7 @@ In accordance with the provisions of section 11 of the Basic Provisions, the cal
 |                                                                             (2) All other Texas counties and all other states                                                                             |December 10. |
 |                                                                                       (d) For soybeans: All states                                                                                        |December 10. |
 
-8. Causes of Loss
+9. Causes of Loss
 
 In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
 
@@ -127,17 +155,17 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (g) Volcanic eruption;
 
-(h) Failure of the irrigation water supply due to a cause of loss specified in sections 8(a) through (g) that also occurs during the insurance period; or
+(h) Failure of the irrigation water supply due to a cause of loss specified in sections 9(a) through (g) that also occurs during the insurance period; or
 
 (i) For revenue protection, a change in the harvest price from the projected price, unless FCIC can prove the price change was the direct result of an uninsured cause of loss specified in section 12(a) of the Basic Provisions.
 
-9. Replanting Payments
+10. Replanting Payments
 
 (a) A replanting payment is allowed as follows:
 
 (1) In lieu of provisions in section 13 of the Basic Provisions that limit the amount of a replant payment to the actual cost of replanting, the amount of any replanting payment will be determined in accordance with these Crop Provisions;
 
-(2) Except as specified in section 9(a)(1), you must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions; and
+(2) Except as specified in section 10(a)(1), you must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions; and
 
 (3) The insured crop must be damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage.
 
@@ -161,15 +189,15 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (3) A revised acreage report will be required to reflect the replanted type, as applicable.
 
-10. Duties in the Event of Damage or Loss
+11. Duties in the Event of Damage or Loss
 
 (a) Representative samples are required in accordance with section 14 of the Basic Provisions.
 
 (b) For any corn unit that has separate dates for the end of the insurance period (grain and silage), in lieu of the requirement contained in section 14 of the Basic Provisions to provide notice within 72 hours of your initial discovery of damage (but not later than 15 days after the end of the insurance period), you must provide notice within 72 hours of your initial discovery of damage (but not later than 15 days after the latest end of the insurance period applicable to the unit).
 
-(c) If you will harvest any acreage in a manner other than as you reported it for coverage (*e.g.*, you reported planting it to harvest as grain but will harvest the acreage for silage, or you reported planting it to harvest as silage but will harvest the acreage for grain), you must notify us before harvest begins. Failure to timely provide notice will result in production to count determined in accordance with section 11(c)(1)(i)(E).
+(c) If you will harvest any acreage in a manner other than as you reported it for coverage (*e.g.*, you reported planting it to harvest as grain but will harvest the acreage for silage, or you reported planting it to harvest as silage but will harvest the acreage for grain), you must notify us before harvest begins. Failure to timely provide notice will result in production to count determined in accordance with section 12(c)(1)(i)(E).
 
-11. Settlement of Claim
+12. Settlement of Claim
 
 (a) We will determine your loss on a unit basis. In the event you are unable to provide records of production that are acceptable to us for any:
 
@@ -185,7 +213,7 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (ii) Revenue protection guarantee (per acre) if you elected revenue protection;
 
-(2) Totaling the results of section 11(b)(1)(i) or 11(b)(1)(ii), whichever is applicable;
+(2) Totaling the results of section 12(b)(1)(i) or 12(b)(1)(ii), whichever is applicable;
 
 (3) Multiplying the production to count of each insured crop or type, as applicable, by your respective:
 
@@ -193,11 +221,11 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (ii) Harvest price if you elected revenue protection;
 
-(4) Totaling the results of section 11(b)(3)(i) or 11(b)(3)(ii), whichever is applicable;
+(4) Totaling the results of section 12(b)(3)(i) or 12(b)(3)(ii), whichever is applicable;
 
-(5) Subtracting the result of section 11(b)(4) from the result of section 11(b)(2); and
+(5) Subtracting the result of section 12(b)(4) from the result of section 12(b)(2); and
 
-(6) Multiplying the result of section 11(b)(5) by your share.
+(6) Multiplying the result of section 12(b)(5) by your share.
 
 For example:
 
@@ -241,7 +269,7 @@ If you elected revenue protection:
 
 (ii) Production lost due to uninsured causes;
 
-(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with section 11(d)); and
+(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with section 12(d)); and
 
 (iv) Potential production on insured acreage you will put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement the insurance period for that acreage will end when you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
@@ -251,7 +279,7 @@ If you elected revenue protection:
 
 (2) All harvested production from the insurable acreage.
 
-(d) Mature coarse grain production (excluding corn insured as silage) may be adjusted for excess moisture and quality deficiencies. If moisture adjustment is applicable it will be made prior to any adjustment for quality. Corn insured as silage will be adjusted for excess moisture and quality only as specified in section 11(e).
+(d) Mature coarse grain production (excluding corn insured as silage) may be adjusted for excess moisture and quality deficiencies. If moisture adjustment is applicable it will be made prior to any adjustment for quality. Corn insured as silage will be adjusted for excess moisture and quality only as specified in section 12(e).
 
 (1) Production will be reduced by 0.12 percent for each 0.1 percentage point of moisture in excess of:
 
@@ -291,18 +319,18 @@ We may obtain samples of the production to determine the moisture content.
 
 (iv) With regard to substances or conditions injurious to human or animal health, the samples are analyzed by a laboratory approved by us.
 
-(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 11(d) (2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
+(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 12(d) (2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
 
 (e) For corn insured as silage:
 
 (1) Whenever our appraisal of grain content is less than 4.5 bushels of grain per ton of silage, the silage production will be reduced by 1 percentage point for each 0.1(1/10) of a bushel less than 4.5 bushels per ton (If we cannot make a grain appraisal before harvest and you do not leave a representative unharvested sample, in accordance with the policy no reduction for grain-deficient silage will be made.); and
 
-(2) If the normal silage harvesting period has ended, or for any acreage harvested as silage or appraised as silage after the calendar date for the end of the insurance period as specified in section 7(b), we may increase the silage production to count to a 65 percent moisture equivalent to reflect the normal moisture content of silage harvested during the normal silage harvesting period.
+(2) If the normal silage harvesting period has ended, or for any acreage harvested as silage or appraised as silage after the calendar date for the end of the insurance period as specified in section 8(b), we may increase the silage production to count to a 65 percent moisture equivalent to reflect the normal moisture content of silage harvested during the normal silage harvesting period.
 
 (f) Any production harvested from plants growing in the insured crop may be counted as production of the insured crop on a weight basis.
 
-12. Prevented Planting
+13. Prevented Planting
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016]
+[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019]

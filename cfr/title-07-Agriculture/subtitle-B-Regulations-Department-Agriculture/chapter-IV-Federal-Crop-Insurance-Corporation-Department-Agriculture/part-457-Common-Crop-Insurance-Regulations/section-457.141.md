@@ -1,8 +1,6 @@
 ##### § 457.141 Rice crop insurance provisions. #####
 
-Link to an amendment published at 84 FR 64413, Nov. 22, 2019.
-
-The Rice Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+The Rice Crop Insurance Provisions for the 2020 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesRice Crop Provisions1. Definitions
 
@@ -14,11 +12,11 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Planted acreage.* In addition to the definition in section 1 of the Basic Provisions, land on which there is uniform placement of an adequate amount of rice seed into a prepared seedbed by one of the following methods (Acreage seeded in any other manner will not be insurable unless otherwise provided by the Special Provisions or by written agreement):
 
-(a) Drill seeding - Using a grain drill to incorporate the seed to a proper soil depth;
+(a) Drill seeding—Using a grain drill to incorporate the seed to a proper soil depth;
 
-(b) Broadcast seeding - Distributing seed evenly onto the surface of an un-flooded seedbed followed by either timely mechanical incorporation of the seed to a proper soil depth in the seedbed or flushing the seedbed with water; or
+(b) Broadcast seeding—Distributing seed evenly onto the surface of an un-flooded seedbed followed by either timely mechanical incorporation of the seed to a proper soil depth in the seedbed or flushing the seedbed with water; or
 
-(c) Broadcast seeding into a controlled flood - Distributing the rice seed onto a prepared seedbed that has been intentionally covered to a proper depth by water. The water must be free of movement and be completely contained on the acreage by properly constructed levees and gates.
+(c) Broadcast seeding into a controlled flood—Distributing the rice seed onto a prepared seedbed that has been intentionally covered to a proper depth by water. The water must be free of movement and be completely contained on the acreage by properly constructed levees and gates.
 
 *Saline water.* Water that contains a concentration of salt sufficient to cause damage to the insured crop.
 
@@ -44,11 +42,12 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                                                       State and county                                                       |Cancellation and termination date|
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
-|Jackson, Victoria, Goliad, Bee, Live Oak, McMullen, La Salle, and Dimmit Counties, Texas; and all Texas counties south thereof|           January 31.           |
-|                                                           Florida                                                            |          February 15.           |
-|                                        All other Texas counties and all other states                                         |          February 28.           |
+|                                                       State and county                                                        |Cancellation and  <br/>termination date|
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+|Jackson, Victoria, Goliad, Bee, Live Oak, McMullen, La Salle, and Dimmit Counties, Texas; and all Texas Counties south thereof;|              January 31.              |
+|                                                            Florida                                                            |             February 15.              |
+|                                                     Illinois and Missouri                                                     |               March 15.               |
+|                                                       All other states                                                        |             February 28.              |
 
 6. Insured Crop
 
@@ -58,7 +57,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (b) That is planted for harvest as grain;
 
-(c) That is flood irrigated; and
+(c) That is flood irrigated unless otherwise specified in the Special Provisions; and
 
 (d) That is not wild rice.
 
@@ -262,4 +261,4 @@ If you elected revenue protection:
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 28310, May 23, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 65 FR 56774, Sept. 20, 2000; 67 FR 55691, Aug. 30, 2002; 75 FR 15888, 15889, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016]
+[62 FR 28310, May 23, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 65 FR 56774, Sept. 20, 2000; 67 FR 55691, Aug. 30, 2002; 75 FR 15888, 15889, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 84 FR 64413, Nov. 22, 2019]

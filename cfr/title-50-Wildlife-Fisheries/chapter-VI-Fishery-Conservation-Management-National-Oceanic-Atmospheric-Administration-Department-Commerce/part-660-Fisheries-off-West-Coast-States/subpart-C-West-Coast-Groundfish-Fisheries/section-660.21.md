@@ -1,5 +1,7 @@
 ##### § 660.21 Seabird Avoidance Program. #####
 
+Link to an amendment published at 84 FR 67678, Dec. 11, 2019.
+
 This section contains the requirements of the Seabird Avoidance Program.
 
 (a) *Purpose.* The purpose of the Seabird Avoidance Program is to minimize interactions between fishing gear and seabird species, including short-tailed albatross (*Phoebastria albatrus*).
