@@ -1,8 +1,6 @@
 ##### § 486.328 Condition: Reporting of data. #####
 
-Link to an amendment published at 85 FR 77949, Dec. 2, 2020.This amendment is delayed until March 30, 2021, at 86 FR 7813, Feb. 2, 2021.
-
-(a) An OPO must provide individually-identifiable, hospital-specific organ donation and transplantation data and other information to the Organ Procurement and Transplantation Network, the Scientific Registry of Transplant Beneficiaries, and DHHS, as requested by the Secretary. The data may include, but are not limited to:
+(a) An OPO must provide individually-identifiable, hospital-specific organ donation and transplantation data and other information to the Organ Procurement and Transplantation Network, the Scientific Registry of Transplant Recipients, and HHS, as requested by the Secretary. The data may include, but are not limited to:
 
 (1) Number of hospital deaths;
 
@@ -10,13 +8,13 @@ Link to an amendment published at 85 FR 77949, Dec. 2, 2020.This amendment is de
 
 (3) Number and timeliness of referral calls from hospitals;
 
-(4) Number of eligible deaths;
+(4) [Reserved]
 
 (5) Data related to non-recovery of organs;
 
 (6) Data about consents for donation;
 
-(7) Number of eligible donors;
+(7) Number of donors;
 
 (8) Number of organs recovered, by type of organ; and
 
@@ -37,3 +35,5 @@ Link to an amendment published at 85 FR 77949, Dec. 2, 2020.This amendment is de
 (3) *Extra-renal organs procured.* Each organ recovered is counted individually.
 
 (4) *Extra-renal organs transplanted.* Each organ or part thereof transplanted will be counted individually. For example, a single liver is counted as one organ procured and each portion that is transplanted will count as one transplant. Further, a heart and double lung transplant will be counted as three organs transplanted. A kidney/pancreas transplant will count as one kidney transplanted and one extra-renal organ transplanted.
+
+[71 FR 31046, May 31, 2006, as amended at 85 FR 77949, Dec. 2, 2020]

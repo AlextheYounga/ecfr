@@ -1,7 +1,5 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 85 FR 86835, Dec. 31, 2020.Link to a delay of the above amendment published at 86 FR 7813, Feb. 2, 2021.
-
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.
@@ -192,6 +190,18 @@ Link to an amendment published at 85 FR 86835, Dec. 31, 2020.Link to a delay of 
 
 (7) *Real time benefit tools.* No later than January 1, 2021, implement one or more electronic real-time benefit tools (RTBT) that are capable of integrating with at least one prescriber's e-Prescribing (eRx) system or electronic health record (EHR) to provide complete, accurate, timely, clinically appropriate, patient-specific formulary and benefit information to the prescriber in real time for assessing coverage under the Part D plan. Such information must include enrollee cost-sharing information, clinically appropriate formulary alternatives, when available, and the formulary status of each drug presented including any utilization management requirements applicable to each alternative drug.
 
+(8) *Electronic prior authorization.* (i) Beginning January 1, 2021, Part D sponsors and prescribers may use the National Council for Prescription Drug Programs SCRIPT standard, Implementation Guide Version 2017071 approved July 28, 2017 (incorporated by reference in paragraph (c)(1)(vii) of this section), to provide for the communication of a prescription or prescription-related information between prescribers and Part D sponsors for the following transactions:
+
+(A) PAInitiationRequest and PAInitiationResponse.
+
+(B) PARequest and PAResponse.
+
+(C) PAAppealRequest and PAAppealResponse.
+
+(D) PACancelRequest and PACancelResponse.
+
+(ii) Beginning January 1, 2022, Part D sponsors and prescribers must use the standard specified in paragraph (b)(8)(i) of this section for the transactions listed in paragraphs (b)(8)(i)(A) through (D) of this section.
+
 (c) *Incorporation by reference.* The Director of the Federal Register approves, in accordance with 5 U.S.C. 552(a) and 1 CFR part 51, the incorporation by reference of certain publications into this section. You may inspect copies of these publications at the headquarters of the Centers for Medicare & Medicaid Services (CMS), 7500 Security Boulevard, Baltimore, Maryland 21244, Monday through Friday from 8:30 a.m. to 4 p.m. or at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call (202) 741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The publications approved for incorporation by reference and their original sources are as follows:
 
 (1) National Council for Prescription Drug Programs, Incorporated, 9240 E. Raintree Drive, Scottsdale, AZ 85260-7518; Telephone (480) 477-1000; and Facsimile (480) 767-1042 or *http://www.ncpdp.org.*
@@ -216,4 +226,4 @@ Link to an amendment published at 85 FR 86835, Dec. 31, 2020.Link to a delay of 
 
 (ii) [Reserved]
 
-(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020]
+(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020; 85 FR 86835, Dec. 31, 2020]
