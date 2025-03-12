@@ -1,5 +1,7 @@
 ##### § 13.3 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 83 FR 1517, January 12, 2018.
+
 (a) *Claims.* (1) Any person who makes a claim that the person knows or has reason to know -
 
 (i) Is false, fictitious, or fraudulent;

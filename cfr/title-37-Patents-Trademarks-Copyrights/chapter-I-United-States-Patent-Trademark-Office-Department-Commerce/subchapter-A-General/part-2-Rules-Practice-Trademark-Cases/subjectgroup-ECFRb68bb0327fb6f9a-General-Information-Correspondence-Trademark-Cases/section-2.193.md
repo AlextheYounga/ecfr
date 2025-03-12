@@ -20,6 +20,12 @@
 
 (1) *Verified statement of facts.* A verified statement in support of an application for registration, amendment to an application for registration, allegation of use under § 2.76 or § 2.88, request for extension of time to file a statement of use under § 2.89, or an affidavit under section 8, 12(c), 15, or 71 of the Act must satisfy the requirements of § 2.2(n), and be signed by the owner or a person properly authorized to sign on behalf of the owner. A person who is properly authorized to verify facts on behalf of an owner is:
 
+(i) A person with legal authority to bind the owner (*e.g.,* a corporate officer or general partner of a partnership);
+
+(ii) A person with firsthand knowledge of the facts and actual or implied authority to act on behalf of the owner; or
+
+(iii) An attorney as defined in § 11.1 of this chapter who has an actual written or verbal power of attorney or an implied power of attorney from the owner.
+
 (2) *Responses, amendments to applications, requests for express abandonment, requests for reconsideration of final actions, and requests to divide.* Responses to Office actions, amendments to applications, requests for express abandonment, requests for reconsideration of final actions, and requests to divide must be signed by the owner of the application or registration, someone with legal authority to bind the owner (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the following guidelines:
 
 (i) If the owner is represented by a practitioner qualified to practice before the Office under § 11.14 of this chapter, the practitioner must sign, except where the owner is required to sign the correspondence; or
@@ -60,4 +66,4 @@
 
 (i) *Certified documents required by statute.* When a statute requires that a document be certified, a copy or facsimile transmission of the certification is not acceptable.
 
-[74 FR 54910, Oct. 26, 2009, as amended at 80 FR 33189, June 11, 2015]
+[74 FR 54910, Oct. 26, 2009, as amended at 80 FR 33189, June 11, 2015; 83 FR 1559, Jan. 12, 2018]

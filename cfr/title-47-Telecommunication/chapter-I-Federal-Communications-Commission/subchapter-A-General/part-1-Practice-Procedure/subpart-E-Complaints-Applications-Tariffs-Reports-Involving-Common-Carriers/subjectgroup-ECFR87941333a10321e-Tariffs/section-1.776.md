@@ -2,4 +2,4 @@
 
 Special access contract-based tariffs that were in effect on or before August 1, 2017 are grandfathered. Such contract-based tariffs may not be extended, renewed or revised, except that any extension or renewal expressly provided for by the contract-based tariff may be exercised pursuant to the terms thereof. During the period between August 1, 2017 and the deadline to institute mandatory detariffing under § 61.201(b), upon mutual agreement, parties to a grandfathered contract-based tariff may replace it at any time with a new contract-based tariff or with a new or amended contract that is not filed as a contract-based tariff.
 
-[82 FR 25711, June 2, 2017]
+[82 FR 25711, June 2, 2017]Effective Date Note:At 82 FR 25711, June 2, 2017, § 1.776 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

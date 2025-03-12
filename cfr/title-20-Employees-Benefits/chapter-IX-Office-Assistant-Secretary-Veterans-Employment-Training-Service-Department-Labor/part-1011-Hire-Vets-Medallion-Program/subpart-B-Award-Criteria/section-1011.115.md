@@ -1,0 +1,3 @@
+##### § 1011.115 Is there an exemption for certain large employers from the dedicated human resources professional criterion for the large employer platinum HIRE Vets Medallion Award? #####
+
+Yes. Large employers who employ 5,000 or fewer employees need not have a dedicated human resources professional to support the hiring and retention of veteran employees. A large employer with 5,000 or fewer employees can satisfy the criterion at § 1011.100(b)(7) by employing at least one human resources professional whose regular work duties include supporting the hiring, training, and retention of veteran employees.

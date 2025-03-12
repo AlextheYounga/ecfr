@@ -1,5 +1,7 @@
 ##### § 3.31 Deficiencies, inaccuracies, and changes, to be reported. #####
 
+Link to an amendment published at 83 FR 1545, January 12, 2018.
+
 (a)(1) Each applicant or registrant as a futures commission merchant, retail foreign exchange dealer, swap dealer, major swap participant, commodity trading advisor, commodity pool operator, introducing broker, floor trader that is a non-natural person or leverage transaction merchant shall, in accordance with the instructions thereto, promptly correct any deficiency or inaccuracy in Form 7-R or Form 8-R that no longer renders accurate and current the information contained therein, with the exception of any change that requires withdrawal from registration under § 3.33. Each such correction shall be prepared and filed in accordance with the instructions thereto to create a Form 3-R record of such change.
 
 (2) Where a registrant has changed its form of organization to or from a sole proprietorship, the registrant must request withdrawal from registration in accordance with § 3.33.

@@ -1,5 +1,7 @@
 ##### § 9.1 Scope of rules. #####
 
+Link to an amendment published at 83 FR 1546, January 12, 2018.
+
 (a) *Matters included.* This part governs the review by the Commission, pursuant to section 8c of the Act, as amended, of any suspension, expulsion, disciplinary or access denial action, or other adverse action by an exchange.
 
 (b) *Matters excluded.* This part does not apply to and the Commission will not accept notices of appeal, or petitions for stay pending review, of:

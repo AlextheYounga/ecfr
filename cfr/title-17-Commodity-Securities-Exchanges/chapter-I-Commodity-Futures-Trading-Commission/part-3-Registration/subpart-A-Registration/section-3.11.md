@@ -1,5 +1,7 @@
 ##### § 3.11 Registration of floor brokers and floor traders. #####
 
+Link to an amendment published at 83 FR 1545, January 12, 2018.
+
 (a) *Application for registration.* (1) Application for registration as a floor broker or floor trader must be on Form 8-R, if as an individual, or Form 7-R, if as a non-natural person, and must be completed and filed with the National Futures Association in accordance with the instructions thereto. Each Form 7-R filed in accordance with this paragraph (a) must be accompanied by a Form 8-R, completed in accordance with the instructions thereto and executed by each individual who is a principal of the applicant, and each individual responsible for entry of orders from that applicant's own account. Each Form 8-R filed in accordance with this paragraph (a) must be accompanied by the fingerprints of the applicant on a fingerprint card provided for that purpose by the National Futures Association, except that a fingerprint card need not be filed by any applicant who has a current Form 8-R on file with the Commission or the National Futures Association.
 
 (2) An applicant for registration as a floor broker or floor trader will not be registered or issued a temporary license as a floor broker or floor trader unless the applicant has been granted trading privileges by a board of trade designated as a contract market or registered as a swap execution facility by the Commission.

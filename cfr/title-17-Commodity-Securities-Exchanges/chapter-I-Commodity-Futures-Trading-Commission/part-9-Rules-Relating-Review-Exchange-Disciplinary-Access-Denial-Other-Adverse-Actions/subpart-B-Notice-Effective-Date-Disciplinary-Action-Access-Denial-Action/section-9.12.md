@@ -1,5 +1,7 @@
 ##### § 9.12 Effective date of disciplinary or access denial action. #####
 
+Link to an amendment published at 83 FR 1547, January 12, 2018.
+
 (a) *Effective date.* Any disciplinary or access denial action taken by an exchange will not become effective until at least fifteen days after the written notice prescribed by § 9.11 is delivered to the person disciplined or denied access; *Provided, however,* That the exchange may cause a disciplinary action to become effective prior to that time if:
 
 (1) As authorized by § 8.25 of this chapter, the exchange reasonably believes, and so states in its written decision, that immediate action is necessary to protect the best interests of the marketplace; or

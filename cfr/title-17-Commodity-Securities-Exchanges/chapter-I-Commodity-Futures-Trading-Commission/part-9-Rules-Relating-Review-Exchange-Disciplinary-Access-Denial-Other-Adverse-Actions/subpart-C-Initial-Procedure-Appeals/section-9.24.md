@@ -1,5 +1,7 @@
 ##### § 9.24 Petition for stay pending review. #####
 
+Link to an amendment published at 83 FR 1548, January 12, 2018.
+
 (a) *Time to file.* (1) Within ten days after the notice of the disciplinary or access denial action has been delivered in accordance with § 9.11 to a person disciplined or denied access, that person may petition the Commission to stay the disciplinary or access denial action pending consideration by the Commission of the notice of appeal and, if granted, the appeal underlying the notice of appeal. The petition for stay must be accompanied by the notice of appeal.
 
 (2) Within ten days after a notice of summary action has been delivered in accordance with § 9.12(b) to a person who is the subject of a summary action authorized by § 8.25 of this chapter, that person may petition the Commission to stay the effectiveness of the summary action pending completion of the exchange proceeding conducted as authorized by § 8.26 of this chapter.

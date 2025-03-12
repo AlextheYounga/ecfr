@@ -1,5 +1,7 @@
 ##### § 9.8 Practice before the Commission. #####
 
+Link to an amendment published at 83 FR 1547, January 12, 2018.
+
 (a) *Practice* - (1) *By non-attorneys.* An individual may appear *pro se* (on his own behalf); a general partner may represent the partnership; a *bona fide* officer of a corporation, trust or association may represent the corporation, trust or association.
 
 (2) *By attorneys.* An attorney-at-law who is admitted to practice before the highest Court in any State or territory, or of the District of Columbia, who has not been suspended or disbarred from appearance and practice before the Commission in accordance with provisions of part 14 of this chapter may represent parties as an attorney in proceedings before the Commission.

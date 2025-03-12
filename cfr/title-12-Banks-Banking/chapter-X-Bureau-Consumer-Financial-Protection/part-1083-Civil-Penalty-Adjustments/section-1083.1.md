@@ -1,5 +1,7 @@
 ##### § 1083.1 Adjustments of civil penalty amounts. #####
 
+Link to an amendment published at 83 FR 1527, Jan. 12, 2018.
+
 (a) The maximum amount of each civil penalty within the jurisdiction of the Consumer Financial Protection Bureau to impose is adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended by the Debt Collection Improvement Act of 1996 and further amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, (28 U.S.C. 2461 note) as follows:
 
 |  U.S. Code citation   |  Civil penalty description   |Adjusted  <br/>maximum civil  <br/>penalty amount|

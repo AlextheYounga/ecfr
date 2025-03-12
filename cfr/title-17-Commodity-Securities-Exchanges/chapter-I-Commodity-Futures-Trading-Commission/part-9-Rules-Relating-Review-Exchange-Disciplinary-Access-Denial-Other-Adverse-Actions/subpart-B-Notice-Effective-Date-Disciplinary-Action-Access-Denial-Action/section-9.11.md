@@ -1,5 +1,7 @@
 ##### § 9.11 Form, contents and delivery of notice of disciplinary or access denial action. #####
 
+Link to an amendment published at 83 FR 1547, January 12, 2018.
+
 (a) *When required.* Whenever an exchange decision pursuant to which a disciplinary action or access denial action is to be imposed has become final, the exchange must, within thirty days thereafter, provide written notice of such action to the person against whom the action was taken and to the Commission: *Provided,* That the exchange is not required to notify the Commission of any summary action, as authorized under the provisions of § 8.27 of this chapter, which results in the imposition of minor penalties for the violation of exchange rules relating to decorum or attire. No final disciplinary or access denial action may be made effective by the exchange except as provided in § 9.12.
 
 (b) *Contents of notice.* For purposes of this part, the written notice of a disciplinary action or access denial action may be either a copy of a written decision which accords with § 8.16, § 8.18, or § 8.19(c) of this chapter (including copies of any materials incorporated by reference) or other written notice which must include:

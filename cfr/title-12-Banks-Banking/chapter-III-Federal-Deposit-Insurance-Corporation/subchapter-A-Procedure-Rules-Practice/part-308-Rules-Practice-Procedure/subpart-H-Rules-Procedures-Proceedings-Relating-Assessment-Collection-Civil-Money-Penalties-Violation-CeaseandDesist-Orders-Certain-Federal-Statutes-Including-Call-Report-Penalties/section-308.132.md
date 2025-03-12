@@ -1,5 +1,7 @@
 ##### § 308.132 Assessment of penalties. #####
 
+Link to an amendment published at 83 FR 1522, Jan. 12, 2018.
+
 (a) *Scope.* The rules and procedures of this subpart, subpart B of the Local Rules, and the Uniform Rules shall apply to proceedings to assess and collect civil money penalties.
 
 (b) *Relevant considerations.* In determining the amount of the civil penalty to be assessed, the Board of Directors or its designee shall consider the financial resources and good faith of the institution or official, the gravity of the violation, the history of previous violations, and any such other matters as justice may require.

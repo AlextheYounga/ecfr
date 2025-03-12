@@ -20,9 +20,7 @@
 
 (d) *NRC communication with petitioners.* If the petition is signed by multiple petitioners, any NRC obligation to inform a petitioner (as may be required under 10 CFR part 2, subpart H) is satisfied, with respect to all petitioners, when the NRC transmits the required notification to the lead petitioner.
 
-(e) [Reserved]
-
-(f) [Reserved]
+(e)-(f) [Reserved]
 
 (g) *Public comment on a petition for rulemaking; hearings.* (1) At its discretion, the NRC may request public comment on a docketed petition for rulemaking.
 

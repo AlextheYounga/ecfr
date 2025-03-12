@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I. #####
 
-Link to an amendment published at 82 FR 58559, Dec. 13, 2017.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical de
@@ -47,24 +45,25 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |                           (37) 3-methylthiofentanyl (N-[(3-methyl-1-(2-thienyl)ethyl-4-piperidinyl]-N-phenylpropanamide)                           |9833|
 |                                                                 (38) Morpheridine                                                                  |9632|
 |                                                (39) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)                                                |9661|
-|                                                                (40) Noracymethadol                                                                 |9633|
-|                                                                (41) Norlevorphanol                                                                 |9634|
-|                                                                 (42) Normethadone                                                                  |9635|
-|                                                                  (43) Norpipanone                                                                  |9636|
-|                             (44) Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenethyl)-4-piperidinyl] propanamide                             |9812|
-|                                             (45) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine                                              |9663|
-|                                                                  (46) Phenadoxone                                                                  |9637|
-|                                                                 (47) Phenampromide                                                                 |9638|
-|                                                                 (48) Phenomorphan                                                                  |9647|
-|                                                                 (49) Phenoperidine                                                                 |9641|
-|                                                                  (50) Piritramide                                                                  |9642|
-|                                                                 (51) Proheptazine                                                                  |9643|
-|                                                                  (52) Properidine                                                                  |9644|
-|                                                                   (53) Propiram                                                                    |9649|
-|                                                                 (54) Racemoramide                                                                  |9645|
-|                                    (55) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]-propanamide                                    |9835|
-|                                                                   (56) Tilidine                                                                    |9750|
-|                                                                 (57) Trimeperidine                                                                 |9646|
+|                                       (40) MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine) . . . (9560)                                       |    |
+|                                                                (41) Noracymethadol                                                                 |9633|
+|                                                                (42) Norlevorphanol                                                                 |9634|
+|                                                                 (43) Normethadone                                                                  |9635|
+|                                                                  (44) Norpipanone                                                                  |9636|
+|                             (45) Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenethyl)-4-piperidinyl] propanamide                             |9812|
+|                                             (46) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine                                              |9663|
+|                                                                  (47) Phenadoxone                                                                  |9637|
+|                                                                 (48) Phenampromide                                                                 |9638|
+|                                                                 (49) Phenomorphan                                                                  |9647|
+|                                                                 (50) Phenoperidine                                                                 |9641|
+|                                                                  (51) Piritramide                                                                  |9642|
+|                                                                 (52) Proheptazine                                                                  |9643|
+|                                                                  (53) Properidine                                                                  |9644|
+|                                                                   (54) Propiram                                                                    |9649|
+|                                                                 (55) Racemoramide                                                                  |9645|
+|                                    (56) Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]-propanamide                                    |9835|
+|                                                                   (57) Tilidine                                                                    |9750|
+|                                                                 (58) Trimeperidine                                                                 |9646|
 
 (c) *Opium derivatives.* Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 

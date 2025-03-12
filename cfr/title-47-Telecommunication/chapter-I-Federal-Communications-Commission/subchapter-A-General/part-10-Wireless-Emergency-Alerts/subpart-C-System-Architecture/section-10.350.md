@@ -1,7 +1,5 @@
 ##### § 10.350 WEA testing and proficiency training requirements. #####
 
-Link to an amendment published at 81 FR 75726, Nov. 1, 2016.
-
 This section specifies the testing that is required of Participating CMS Providers.
 
 (a) *Required monthly tests.* Testing of the WEA from the Federal Alert Gateway to each Participating CMS Provider's infrastructure shall be conducted monthly.

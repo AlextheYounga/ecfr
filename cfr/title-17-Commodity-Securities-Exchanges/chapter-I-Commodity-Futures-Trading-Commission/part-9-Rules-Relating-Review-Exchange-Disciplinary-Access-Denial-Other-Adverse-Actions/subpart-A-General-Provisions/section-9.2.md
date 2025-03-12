@@ -1,5 +1,7 @@
 ##### § 9.2 Definitions. #####
 
+Link to an amendment published at 83 FR 1546, January 12, 2018.
+
 For purposes of this part:
 
 (a) *Access denial action* means any proceeding other than a disciplinary action by an exchange that denies or limits the privileges of membership, but excludes any exchange action that solely limits the ability of a member of an exchange to participate in the internal corporate affairs of the exchange.

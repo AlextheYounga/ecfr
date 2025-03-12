@@ -1,0 +1,3 @@
+##### § 1011.220 How will VETS verify a HIRE Vets Medallion Award application? #####
+
+VETS will verify all information provided by an employer in its application to the extent that such information is relevant in determining whether or not such employer meets the criteria to receive a HIRE Vets Medallion Award or in determining the appropriate level of HIRE Vets Medallion Award for that employer to receive. VETS will verify this information by reviewing all information provided as part of the application.

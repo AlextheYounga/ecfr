@@ -1,5 +1,7 @@
 ##### § 9.9 Waiver of rules; delegation of authority. #####
 
+Link to an amendment published at 83 FR 1547, January 12, 2018.
+
 (a) *Standards for waiver; notice to parties.* To prevent undue hardship on any party or for other good cause shown the Commission may waive any rule in this part in a particular case and may order proceedings in accordance with its direction upon a determination that no party will be prejudiced thereby and that the ends of justice will be served. Reasonable notice will be given to all parties of any action taken pursuant to this paragraph.
 
 (b) *Delegation of authority.* (1) The Commission hereby delegates, until the Commission orders otherwise, to the General Counsel, or to any employee under the General Counsel's supervision as the General Counsel may designate, the authority:

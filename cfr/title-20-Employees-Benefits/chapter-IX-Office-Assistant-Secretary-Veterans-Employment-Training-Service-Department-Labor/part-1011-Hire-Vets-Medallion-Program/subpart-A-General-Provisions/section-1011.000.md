@@ -1,0 +1,3 @@
+##### § 1011.000 What is the HIRE Vets Medallion Program? #####
+
+The HIRE Vets Medallion Program is a voluntary employer recognition program administered by the Department of Labor's Veterans' Employment and Training Service. Through the HIRE Vets Medallion Program, the Department of Labor solicits voluntary applications from employers for the HIRE Vets Medallion Award. The purpose of this award is to recognize efforts by applicants to recruit, employ, and retain veterans and to provide services supporting the veteran community.
