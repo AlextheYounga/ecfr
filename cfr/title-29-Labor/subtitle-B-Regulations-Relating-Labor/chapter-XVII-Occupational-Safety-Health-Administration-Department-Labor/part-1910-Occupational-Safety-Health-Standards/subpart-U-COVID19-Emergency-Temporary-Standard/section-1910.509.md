@@ -1,4 +1,4 @@
-##### § 1910.509 Incorporation by Reference. #####
+##### § 1910.509 Incorporation by reference. #####
 
 (a)(1) The material listed in this section is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, OSHA must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW, Room N-3508, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these standards at NARA, email *fedreg.legal@nara.gov*, or go to *www.archives.gov/federal-register/cfr/ibr-locations.html*.
 

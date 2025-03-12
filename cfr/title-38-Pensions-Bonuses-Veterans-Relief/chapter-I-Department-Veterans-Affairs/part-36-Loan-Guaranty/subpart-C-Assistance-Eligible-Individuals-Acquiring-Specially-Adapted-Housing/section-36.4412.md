@@ -52,11 +52,9 @@
 
 (i) Under Secretary for Benefits.
 
-(ii) Deputy Under Secretary for Economic Opportunity.
+(ii) Executive Director, Loan Guaranty Service.
 
-(iii) Director, Loan Guaranty Service.
-
-(iv) Deputy Director, Loan Guaranty Service.
+(iii) Deputy Executive Director, Loan Guaranty Service.
 
 (2) [Reserved]
 
@@ -64,4 +62,4 @@
 
 (2) The Secretary does not have a duty to assist technology grant applicants in obtaining a grant.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 4040-0004 and 2900-0821)(Authority: 38 U.S.C. 2108)[80 FR 55765, Sept. 17, 2015]
+(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 4040-0004 and 2900-0821)(Authority: 38 U.S.C. 2108)[80 FR 55765, Sept. 17, 2015, as amended at 86 FR 51275, Sept. 15, 2021]

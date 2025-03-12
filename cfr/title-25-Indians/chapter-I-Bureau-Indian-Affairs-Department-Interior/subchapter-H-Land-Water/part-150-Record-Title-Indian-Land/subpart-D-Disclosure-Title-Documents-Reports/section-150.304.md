@@ -1,0 +1,3 @@
+##### § 150.304 Where do I request copies of title documents or reports from the LTRO? #####
+
+You may request LTRO information, such as copies of title documents or reports, at any Region or Agency office with access to the record of title, regardless of geographic location. If the Region or Agency office does not have access to the title documents or the ability to generate the reports requested, it will refer the request to the office with access to the title documents or ability to generate the reports requested.

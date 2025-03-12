@@ -2,7 +2,7 @@
 
 Additional regulations that implement specific portions of the Rockfish Program are set out under: § 679.2 Definitions, § 679.4 Permits, § 679.5 Recordkeeping and reporting, § 679.7 Prohibitions, § 679.20 General limitations, § 679.21 Prohibited species bycatch management, § 679.28 Equipment and operational requirements, and § 679.50 Groundfish Observer Program.
 
-(a) *Applicable areas and seasons* - (1) *Applicable areas.* The Rockfish Program applies to Rockfish Program fisheries in the Central GOA Regulatory Area.
+(a) *Applicable areas and seasons*—(1) *Applicable areas.* The Rockfish Program applies to Rockfish Program fisheries in the Central GOA Regulatory Area.
 
 (2) [Reserved]
 
@@ -12,9 +12,7 @@ Additional regulations that implement specific portions of the Rockfish Program 
 
 (ii) *Rockfish cooperative.* Fishing by vessels participating in a rockfish cooperative is authorized from 1200 hours, A.l.t., May 1 through 1200 hours, A.l.t., November 15.
 
-(iii) *Rockfish cooperative.* Fishing by vessels participating in a rockfish cooperative is authorized from 1200 hours, A.l.t., April 1, 2021 through 1200 hours, A.l.t., November 15, 2021.
-
-(b) *Rockfish legal landings* - (1) *Eligible LLP licenses.* NMFS will assign rockfish legal landings to an LLP license only if a vessel made those landings:
+(b) *Rockfish legal landings*—(1) *Eligible LLP licenses.* NMFS will assign rockfish legal landings to an LLP license only if a vessel made those landings:
 
 (i) Under the authority of a permanent fully transferable LLP license endorsed for Central GOA groundfish with a trawl gear designation during the season dates for a rockfish primary species as established in Table 28a to this part;
 
@@ -42,7 +40,7 @@ Additional regulations that implement specific portions of the Rockfish Program 
 
 (ii) The rockfish legal landings were made under the authority of an eligible LLP license that is endorsed for Central GOA groundfish fisheries with trawl gear.
 
-(c) *Rockfish Program official record* - (1) *Use of the Rockfish Program official record.* The Rockfish Program official record will contain information used by the Regional Administrator to determine:
+(c) *Rockfish Program official record* —(1) *Use of the Rockfish Program official record.* The Rockfish Program official record will contain information used by the Regional Administrator to determine:
 
 (i) The amount of rockfish legal landings assigned to an LLP license;
 
@@ -62,7 +60,7 @@ Additional regulations that implement specific portions of the Rockfish Program 
 
 (4) *Non-severability of rockfish legal landings.* Rockfish legal landings are non-severable from the LLP license to which those rockfish legal landings are assigned according to the Rockfish Program official record.
 
-(d) *Application for rockfish QS* - (1) *Submission of application for rockfish QS.* A person who wishes to receive rockfish QS to participate in the Rockfish Program as a rockfish eligible harvester must submit a timely and complete Application for Rockfish Quota Share. This application may only be submitted to NMFS using the methods described on the application.
+(d) *Application for rockfish QS*—(1) *Submission of application for rockfish QS.* A person who wishes to receive rockfish QS to participate in the Rockfish Program as a rockfish eligible harvester must submit a timely and complete Application for Rockfish Quota Share. This application may only be submitted to NMFS using the methods described on the application.
 
 (2) *Forms.* Forms are available through the Internet on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov,* or by contacting NMFS at (800) 304-4846, Option 2.
 
@@ -86,7 +84,7 @@ Additional regulations that implement specific portions of the Rockfish Program 
 
 (6) *Appeals.* If an applicant is notified by an IAD that claims made by the applicant have been denied, that applicant may appeal that IAD under the provisions in § 679.43.
 
-(e) *Assigning rockfish QS* - (1) *General.* The Regional Administrator will assign rockfish QS only to a person who submits a timely application for rockfish QS that is approved by NMFS based on:
+(e) *Assigning rockfish QS*—(1) *General.* The Regional Administrator will assign rockfish QS only to a person who submits a timely application for rockfish QS that is approved by NMFS based on:
 
 (i) The amount of rockfish legal landings assigned to an LLP license as established in paragraph (e)(2) of this section; or
 
@@ -122,7 +120,7 @@ Rockfish Landing Unitsl/Σ Rockfish Landing Unitsl = Percentage of the Total Ent
 
 (5) *Non-severability of rockfish QS from an LLP license.* Rockfish QS assigned to an LLP license is non-severable from that LLP license, except as provided for under § 679.80(f)(2).
 
-(f) *Transfer of rockfish QS* - (1) *Transfer of rockfish QS.* A person may transfer an LLP license, and any rockfish QS assigned to that LLP license under the provisions in § 679.4(k)(7), provided that the LLP license is not assigned rockfish QS in excess of the use cap specified in § 679.82(a)(2) at the time of transfer.
+(f) *Transfer of rockfish QS*—(1) *Transfer of rockfish QS.* A person may transfer an LLP license, and any rockfish QS assigned to that LLP license under the provisions in § 679.4(k)(7), provided that the LLP license is not assigned rockfish QS in excess of the use cap specified in § 679.82(a)(2) at the time of transfer.
 
 (2) *Transfer of rockfish QS assigned to LLP licenses that exceeds rockfish QS use caps.* (i) If an LLP license is assigned an initial allocation of aggregate rockfish QS that exceeds a use cap specified in § 679.82(a)(2), the LLP license holder may transfer rockfish QS in excess of the use cap specified in § 679.82(a)(2) separate from that LLP license and assign it to one or more LLP licenses. However, a transfer may not be approved by NMFS if that transfer would cause the receiving LLP license to exceed a use cap specified in § 679.82(a)(2).
 
@@ -134,4 +132,4 @@ Rockfish Landing Unitsl/Σ Rockfish Landing Unitsl = Percentage of the Total Ent
 
 (v) Rockfish QS that is transferred from an LLP license that was initially allocated an amount of aggregate rockfish QS in excess of the use cap specified in § 679.82(a)(2) and assigned to another LLP license may not be severed from the receiving LLP license.
 
-[76 FR 81277, Dec. 27, 2011; 77 FR 38014, June 26, 2012, as amended at 86 FR 11904, Mar. 1, 2021; 86 FR 14855, Mar. 19, 2021]Effective Date Note:At 86 FR 14855, Mar. 19, 2021, in § 679.80, paragraph (a)(3)(ii) was stayed and paragraph (a)(3)(iii) was added, effective Mar. 19, 2021, through Sept. 15, 2021.
+[76 FR 81277, Dec. 27, 2011; 77 FR 38014, June 26, 2012, as amended at 86 FR 11904, Mar. 1, 2021; 86 FR 14855, Mar. 19, 2021]

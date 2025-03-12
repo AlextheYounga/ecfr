@@ -1,0 +1,3 @@
+##### § 150.105 Are certain LTRO offices responsible for certain geographic areas? #####
+
+Staff at each LTRO office will have primary responsibility to maintain the record of title for Indian land under that LTRO office's assigned geographic area, based on BIA Region, Tribal reservation, or otherwise, as prescribed by BIA through internal procedures. BIA will keep an updated list of each LTRO office's assigned geographic area of responsibility on *www.bia.gov/bia/ots/dltr.* LTRO offices operated by BIA (as opposed to a Tribe acting on behalf of the Secretary) may assist in maintaining the record of title for Indian land not under their assigned geographic area as needed.

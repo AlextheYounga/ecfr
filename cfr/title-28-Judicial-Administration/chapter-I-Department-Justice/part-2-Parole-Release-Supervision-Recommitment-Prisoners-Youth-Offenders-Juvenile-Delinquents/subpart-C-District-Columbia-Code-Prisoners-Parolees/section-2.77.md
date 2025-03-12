@@ -24,10 +24,6 @@
 
 (f) A prisoner, the prisoner's representative, or the institution may request the Commission to reconsider its decision on the basis of changed circumstances.
 
-(g) Notwithstanding any other provision of this section :
+(g) Notwithstanding any other provision of this section, a prisoner shall not be eligible for medical parole on the basis of a physical or medical condition that existed at the time the prisoner was sentenced (D.C. Code 24-462).
 
-(1) A prisoner who has been convicted of first degree murder or who has been sentenced for a crime committed while armed under D.C. Code 22-4502, 22-4504(b), or 22-2803, shall not be eligible for medical parole (D.C. Code 24-467); and
-
-(2) A prisoner shall not be eligible for medical parole on the basis of a physical or medical condition that existed at the time the prisoner was sentenced (D.C. Code 24-462).
-
-[65 FR 45888, July 26, 2000, as amended at 68 FR 41530, July 14, 2003]
+[65 FR 45888, July 26, 2000, as amended at 68 FR 41530, July 14, 2003; 86 FR 51273, Sept. 15, 2021]

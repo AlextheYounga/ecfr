@@ -4,9 +4,9 @@
 
 (1) Under Secretary for Benefits.
 
-(2) Director, Loan Guaranty Service.
+(2) Executive Director, Loan Guaranty Service.
 
-(3) Deputy Director, Loan Guaranty Service.
+(3) Deputy Executive Director, Loan Guaranty Service.
 
 (4) Assistant Director, Loan Policy and Valuation.
 

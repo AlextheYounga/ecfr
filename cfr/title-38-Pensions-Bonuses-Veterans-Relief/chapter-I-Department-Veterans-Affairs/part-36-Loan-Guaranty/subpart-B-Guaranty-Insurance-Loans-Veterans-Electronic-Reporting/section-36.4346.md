@@ -1,6 +1,6 @@
 ##### § 36.4346 Cooperative loans. #####
 
-(a) To be eligible for guaranty or insurance, any loan of the following types shall require prior approval of the Under Secretary for Benefits, or the Director, Loan Guaranty Service, who may issue such approval upon such conditions and limitations deemed appropriate, not inconsistent with the provisions of 38 U.S.C. chapter 37 and this subpart:
+(a) To be eligible for guaranty or insurance, any loan of the following types shall require prior approval of the Under Secretary for Benefits, or the Executive Director, Loan Guaranty Service, who may issue such approval upon such conditions and limitations deemed appropriate, not inconsistent with the provisions of 38 U.S.C. chapter 37 and this subpart:
 
 (1) Any loan which is related to an enterprise in which more than 10 individuals will participate; or
 

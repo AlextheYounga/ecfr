@@ -100,13 +100,13 @@ In any instance in which the holder desires Department of Veterans Affairs prior
 
 (2) Designated positions:
 
-Under Secretary for Benefits.Director, Loan Guaranty Service.Director, Regional Office.Director, Medical and Regional Office Center.Director, VA Center.Loan Guaranty Officer.Assistant Loan Guaranty Officer.
+Under Secretary for Benefits.Executive Director, Loan Guaranty Service.Director, Regional Office.Director, Medical and Regional Office Center.Director, VA Center.Loan Guaranty Officer.Assistant Loan Guaranty Officer.
 
 (h) No waiver, consent, or approval required or authorized by this section shall be valid unless in writing signed by an employee of the Department of Veterans Affairs authorized in this section to act for the Secretary.
 
 (i) Whenever prior approval or consent of the Secretary is desired in respect to an action to be taken by a holder of a loan, the holder may address such request to the Loan Guaranty Officer in the Regional Office or Center having jurisdiction over the area in which the real estate security is located.
 
-(j) Notwithstanding any requirement, condition, or limitation stated in or imposed by this section concerning the sale and repurchase of loans, the Under Secretary for Benefits, or the Director, Loan Guaranty Service, within the limitations and conditions prescribed by the Secretary may take such action as may be necessary or appropriate to relieve undue prejudice to a holder, debtor or other person, which might otherwise result, as long as such action shall not impair the vested rights of any person affected thereby. If such requirement, condition, or limitation is of an administrative or procedural nature, such action may be taken by an employee authorized to act under paragraph (g) of this section.
+(j) Notwithstanding any requirement, condition, or limitation stated in or imposed by this section concerning the sale and repurchase of loans, the Under Secretary for Benefits, or the Executive Director, Loan Guaranty Service, within the limitations and conditions prescribed by the Secretary may take such action as may be necessary or appropriate to relieve undue prejudice to a holder, debtor or other person, which might otherwise result, as long as such action shall not impair the vested rights of any person affected thereby. If such requirement, condition, or limitation is of an administrative or procedural nature, such action may be taken by an employee authorized to act under paragraph (g) of this section.
 
 (k) This section will apply to all loans sold by the Department of Veterans Affairs after the effective date of this section which were originated or acquired by the Secretary of Veterans Affairs under chapter 37, title 38, U.S.C., or title III of the Servicemen's Readjustment Act of 1944, as amended, except that it shall not apply to direct loans sold pursuant to section 3711(g) of chapter 37, title 38, U.S.C.
 

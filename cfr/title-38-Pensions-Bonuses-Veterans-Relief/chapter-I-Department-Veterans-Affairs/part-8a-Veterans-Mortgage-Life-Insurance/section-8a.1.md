@@ -14,8 +14,8 @@
 
 (2) A leasehold estate, the unexpired term of which, including renewals at the option of the lessee, is not less than 50 years, or
 
-(3) An interest in a residential unit in a cooperative or a condominium type development which in the judgment of the Under Secretary for Benefits or the Director, Loan Guaranty Service, provides a right of occupancy for a period of not less than 50 years: *Provided,* The title to such estate or interest is or shall be such as is acceptable to prudent lending institutions, informed buyers, title companies, and attorneys, generally, in the community.
+(3) An interest in a residential unit in a cooperative or a condominium type development which in the judgment of the Under Secretary for Benefits or the Executive Director, Loan Guaranty Service, provides a right of occupancy for a period of not less than 50 years: *Provided,* The title to such estate or interest is or shall be such as is acceptable to prudent lending institutions, informed buyers, title companies, and attorneys, generally, in the community.
 
 (f) The term *eligible individual* means a person who has been determined by the Secretary to be eligible for benefits pursuant to 38 U.S.C. chapter 21.
 
-(Authority: 38 U.S.C. 501, 2101, 2101A, 2106)[37 FR 282, Jan. 8, 1972, as amended at 42 FR 43835, Aug. 31, 1977; 61 FR 29027, June 7, 1996; 82 FR 48631, Oct. 19, 2017]
+(Authority: 38 U.S.C. 501, 2101, 2101A, 2106)[37 FR 282, Jan. 8, 1972, as amended at 42 FR 43835, Aug. 31, 1977; 61 FR 29027, June 7, 1996; 82 FR 48631, Oct. 19, 2017; 86 FR 51275, Sept. 15, 2021]
