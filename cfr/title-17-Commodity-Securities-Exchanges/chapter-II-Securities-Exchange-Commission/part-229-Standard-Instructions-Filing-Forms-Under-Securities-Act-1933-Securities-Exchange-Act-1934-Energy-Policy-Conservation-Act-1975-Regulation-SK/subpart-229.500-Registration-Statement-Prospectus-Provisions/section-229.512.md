@@ -1,7 +1,5 @@
 ##### § 229.512 (Item 512) Undertakings. #####
 
-Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
-
 Include each of the following undertakings that is applicable to the offering being registered.
 
 (a) *Rule 415 Offering.*1 Include the following if the securities are registered pursuant to Rule 415 under the Securities Act (§ 230.415 of this chapter):
@@ -66,21 +64,7 @@ The undersigned registrant undertakes that in a primary offering of securities o
 
 The undersigned registrant hereby undertakes that, for purposes of determining any liability under the Securities Act of 1933, each filing of the registrant's annual report pursuant to section 13(a) or section 15(d) of the Securities Exchange Act of 1934 (and, where applicable, each filing of an employee benefit plan's annual report pursuant to section 15(d) of the Securities Exchange Act of 1934) that is incorporated by reference in the registration statement shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.
 
-(c) *Warrants and rights offerings.* Include the following, with appropriate modifications to suit the particular case, if the securities to be registered are to be offered to existing security holders pursuant to warrants or rights and any securities not taken by security holders are to be reoffered to the public:
-
-The undersigned registrant hereby undertakes to supplement the prospectus, after the expiration of the subscription period, to set forth the results of the subscription offer, the transactions by the underwriters during the subscription period, the amount of unsubscribed securities to be purchased by the underwriters, and the terms of any subsequent reoffering thereof. If any public offering by the underwriters is to be made on terms differing from those set forth on the cover page of the prospectus, a post-effective amendment will be filed to set forth the terms of such offering.
-
-(d) *Competitive bids.* Include the following, with appropriate modifications to suit the particular case, if the securities to be registered are to be offered at competitive bidding:
-
-The undersigned registrant hereby undertakes (1) to use its best efforts to distribute prior to the opening of bids, to prospective bidders, underwriters, and dealers, a reasonable number of copies of a prospectus which at that time meets the requirements of section 10(a) of the Act, and relating to the securities offered at competitive bidding, as contained in the registration statement, together with any supplements thereto, and (2) to file an amendment to the registration statement reflecting the results of bidding, the terms of the reoffering and related matters to the extent required by the applicable form, not later than the first use, authorized by the issuer after the opening of bids, of a prospectus relating to the securities offered at competitive bidding, unless no further public offering of such securities by the issuer and no reoffering of such securities by the purchasers is proposed to be made.
-
-(e) *Incorporated annual and quarterly reports.* Include the following if the registration statement specifically incorporates by reference (other than by indirect incorporation by reference through a Form 10-K (§ 249.310 of this chapter) report) in the prospectus all or any part of the annual report to security holders meeting the requirements of Rule 14a-3 or Rule 14c-3 under the Exchange Act (§ 240.14a-3 or § 240.14c-3 of this chapter):
-
-The undersigned registrant hereby undertakes to deliver or cause to be delivered with the prospectus, to each person to whom the prospectus is sent or given, the latest annual report to security holders that is incorporated by reference in the prospectus and furnished pursuant to and meeting the requirements of Rule 14a-3 or Rule 14c-3 under the Securities Exchange Act of 1934; and, where interim financial information required to be presented by Article 3 of Regulation S-X are not set forth in the prospectus, to deliver, or cause to be delivered to each person to whom the prospectus is sent or given, the latest quarterly report that is specifically incorporated by reference in the prospectus to provide such interim financial information.
-
-(f) *Equity offerings of nonreporting registrants.* Include the following if equity securities of a registrant that prior to the offering had no obligation to file reports with the Commission pursuant to section 13(a) or 15(d) of the Exchange Act are being registered for sale in an underwritten offering:
-
-The undersigned registrant hereby undertakes to provide to the underwriter at the closing specified in the underwriting agreements certificates in such denominations and registered in such names as required by the underwriter to permit prompt delivery to each purchaser.
+(c)-(f) [Reserved]
 
 (g) *Registration on Form S-4 or F-4 of securities offered for resale.* Include the following if the securities are being registered on Form S-4 or F-4 (§ 239.25, or 34 of this chapter) in connection with a transaction specified in paragraph (a) of Rule 145 (§ 230.145 of this chapter).
 

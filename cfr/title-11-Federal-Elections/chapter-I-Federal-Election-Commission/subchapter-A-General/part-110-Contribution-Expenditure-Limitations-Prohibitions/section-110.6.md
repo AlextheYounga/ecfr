@@ -20,15 +20,15 @@
 
 (ii) Any person who is prohibited from making contributions or expenditures in connection with an election for Federal office shall be prohibited from acting as a conduit for contributions earmarked to candidates or their authorized committees. The provisions of this section shall not restrict the ability of an organization or committee to serve as a collecting agent for a separate segregated fund pursuant to 11 CFR 102.6.
 
-(iii) Any person who receives an earmarked contribution shall forward such earmarked contribution to the candidate or authorized committee in accordance with 11 CFR 102.8, except that -
+(iii) Any person who receives an earmarked contribution shall forward such earmarked contribution to the candidate or authorized committee in accordance with 11 CFR 102.8, except that—
 
 (A) A fundraising representative shall follow the joint fundraising procedures set forth at 11 CFR 102.17.
 
 (B) A person who is prohibited from acting as a conduit pursuant to paragraph (b)(2)(ii) of this section shall return the earmarked contribution to the contributor.
 
-(c) *Reporting of earmarked contributions* - (1) *Reports by conduits and intermediaries.* (i) The intermediary or conduit of the earmarked contribution shall report the original source and the recipient candidate or authorized committee to the Commission or the Secretary of the Senate, as appropriate (see 11 CFR part 105), and to the recipient candidate or authorized committee.
+(c) *Reporting of earmarked contributions*—(1) *Reports by conduits and intermediaries.* (i) The intermediary or conduit of the earmarked contribution shall report the original source and the recipient candidate or authorized committee to the Commission and to the recipient candidate or authorized committee.
 
-(ii) The report to the Commission or Secretary shall be included in the conduit's or intermediary's report for the reporting period in which the earmarked contribution was received, or, if the conduit or intermediary is not required to report under 11 CFR part 104, by letter to the Commission within thirty days after forwarding the earmarked contribution.
+(ii) The report to the Commission shall be included in the conduit's or intermediary's report for the reporting period in which the earmarked contribution was received, or, if the conduit or intermediary is not required to report under 11 CFR part 104, by letter to the Commission within thirty days after forwarding the earmarked contribution.
 
 (iii) The report to the recipient candidate or authorized committee shall be made when the earmarked contribution is forwarded to the recipient candidate or authorized committee pursuant to 11 CFR 102.8.
 
@@ -58,4 +58,4 @@
 
 (2) If a conduit or intermediary exercises any direction or control over the choice of the recipient candidate, the earmarked contribution shall be considered a contribution by both the original contributor and the conduit or intermediary. If the conduit or intermediary exercises any direction or control over the choice of the recipient candidate, the report filed by the conduit or intermediary and the report filed by the recipient candidate or authorized committee shall indicate that the earmarked contribution is made by both the original contributor and the conduit or intermediary, and that the entire amount of the contribution is attributed to each.
 
-[54 FR 34113, Aug. 17, 1989 and 54 FR 48580, Nov. 24, 1989; 61 FR 3550, Feb. 1, 1996; 81 FR 94240, Dec. 23, 2016]
+[54 FR 34113, Aug. 17, 1989 and 54 FR 48580, Nov. 24, 1989; 61 FR 3550, Feb. 1, 1996; 81 FR 94240, Dec. 23, 2016; 84 FR 18700, May 2, 2019]

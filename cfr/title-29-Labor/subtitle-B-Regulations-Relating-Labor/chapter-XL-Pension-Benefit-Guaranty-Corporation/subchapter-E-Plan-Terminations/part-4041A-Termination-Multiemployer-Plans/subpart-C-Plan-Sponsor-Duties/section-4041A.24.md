@@ -1,5 +1,7 @@
 ##### § 4041A.24 Plan valuations and monitoring. #####
 
+Link to an amendment published at 84 FR 18723, May 2, 2019.
+
 (a) *Annual valuation.* The plan sponsor shall determine or cause to be determined in writing the value of nonforfeitable benefits under the plan and the value of the plan's assets, in accordance with part 4281, subpart B. This valuation shall be done not later than 150 days after the end of the plan year in which the plan terminates and each plan year thereafter except as provided in this paragraph. A plan year for which a valuation is performed is called a valuation year.
 
 (1) If the value of nonforfeitable benefits for the plan is $25 million or less as determined for a valuation year, the plan sponsor may use the valuation for the next two plan years and, subject to paragraphs (a)(2) and (3) of this section, perform a new valuation pursuant to this paragraph for the third plan year after the previous valuation year.

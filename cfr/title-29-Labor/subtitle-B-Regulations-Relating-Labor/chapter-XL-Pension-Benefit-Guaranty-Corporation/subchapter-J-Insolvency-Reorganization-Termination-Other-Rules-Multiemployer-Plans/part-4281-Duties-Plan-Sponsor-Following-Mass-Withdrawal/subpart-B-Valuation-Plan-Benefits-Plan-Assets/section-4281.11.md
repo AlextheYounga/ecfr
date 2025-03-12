@@ -1,5 +1,7 @@
 ##### § 4281.11 Valuation dates. #####
 
+Link to an amendment published at 84 FR 18725, May 2, 2019.
+
 (a) *Annual valuations of mass-withdrawal-terminated plans.* The valuation dates for the annual valuation required under section 4281(b) of ERISA shall be the last day of the plan year in which the plan terminates and the last day of each plan year thereafter.
 
 (b) *Valuations related to mass withdrawal reallocation liability.* The valuation date for determining the value of unfunded vested benefits (for purposes of allocation) under section 4219(c)(1)(D) of ERISA shall be -

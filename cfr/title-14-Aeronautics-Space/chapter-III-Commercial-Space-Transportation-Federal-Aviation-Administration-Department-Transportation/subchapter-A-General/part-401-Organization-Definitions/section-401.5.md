@@ -92,6 +92,8 @@ As used in this chapter -
 
 *Physical electronic storage* means a physical device that can store electronic documents and files including but not limited to an optical disc, a memory card, a USB flash drive, or an external hard drive.
 
+*Pilot* means a flight crew member who has the ability to control, in real time, a launch or reentry vehicle's flight path.
+
 *Populated area* means -
 
 (1) An outdoor location, structure, or cluster of structures that may be occupied by people;
@@ -99,8 +101,6 @@ As used in this chapter -
 (2) Sections of roadways and waterways that are frequented by automobile and boat traffic; or
 
 (3) Agricultural lands, if routinely occupied by field workers.
-
-*Pilot* means a flight crew member who has the ability to control, in real time, a launch or reentry vehicle's flight path.
 
 *Public safety* means, for a particular licensed launch, the safety of people and property that are not involved in supporting the launch and includes those people and property that may be located within the boundary of a launch site, such as visitors, individuals providing goods or services not related to launch processing or flight, and any other launch operator and its personnel.
 
@@ -142,6 +142,10 @@ As used in this chapter -
 
 *State and United States* means, when used in a geographical sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the United States Virgin Islands, Guam, and any other commonwealth, territory, or possession of the United States; and
 
+*Suborbital rocket* means a vehicle, rocket-propelled in whole or in part, intended for flight on a suborbital trajectory, and the thrust of which is greater than its lift for the majority of the rocket-powered portion of its ascent.
+
+*Suborbital trajectory* means the intentional flight path of a launch vehicle, reentry vehicle, or any portion thereof, whose vacuum instantaneous impact point does not leave the surface of the Earth.
+
 *Tether system* means a device that contains launch vehicle hazards by physically constraining a launch vehicle in flight to a specified range from its launch point. A tether system includes all components, from the tether's point of attachment to the vehicle to a solid base, that experience load during a tethered launch.
 
 *United States citizen* means:
@@ -151,10 +155,6 @@ As used in this chapter -
 (2) Any corporation, partnership, joint venture, association, or other entity organized or existing under the laws of the United States or any State; and
 
 (3) Any corporation, partnership, joint venture, association, or other entity which is organized or exists under the laws of a foreign nation, if the controlling interest in such entity is held by an individual or entity described in paragraph (1) or (2) of this definition. *Controlling interest* means ownership of an amount of equity in such entity sufficient to direct management of the entity or to void transactions entered into by management. Ownership of at least fifty-one percent of the equity in an entity by persons described in paragraph (1) or (2) of this definition creates a rebuttable presumption that such interest is controlling.
-
-*Suborbital rocket* means a vehicle, rocket-propelled in whole or in part, intended for flight on a suborbital trajectory, and the thrust of which is greater than its lift for the majority of the rocket-powered portion of its ascent.
-
-*Suborbital trajectory* means the intentional flight path of a launch vehicle, reentry vehicle, or any portion thereof, whose vacuum instantaneous impact point does not leave the surface of the Earth.
 
 *Validation* means an evaluation to determine that each safety measure derived from a system safety process is correct, complete, consistent, unambiguous, verifiable, and technically feasible. Validation ensures that the right safety measure is implemented, and that the safety measure is well understood.
 

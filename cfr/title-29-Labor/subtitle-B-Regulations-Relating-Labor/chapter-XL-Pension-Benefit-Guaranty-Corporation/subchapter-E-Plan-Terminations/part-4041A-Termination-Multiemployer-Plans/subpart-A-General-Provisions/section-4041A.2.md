@@ -1,5 +1,7 @@
 ##### § 4041A.2 Definitions. #####
 
+Link to an amendment published at 84 FR 18722, May 2, 2019.
+
 The following terms are defined in § 4001.1 of this chapter: annuity, ERISA, insurer, IRS, mass withdrawal, multiemployer plan, nonforfeitable benefit, PBGC, plan, and plan year.
 
 In addition, for purposes of this part:

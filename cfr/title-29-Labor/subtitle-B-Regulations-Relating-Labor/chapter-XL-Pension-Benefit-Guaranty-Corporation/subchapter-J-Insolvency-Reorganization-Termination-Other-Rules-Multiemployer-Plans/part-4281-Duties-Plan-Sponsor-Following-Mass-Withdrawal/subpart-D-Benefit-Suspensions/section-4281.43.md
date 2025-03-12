@@ -1,5 +1,7 @@
 ##### § 4281.43 Notices of insolvency. #####
 
+Link to an amendment published at 84 FR 18726, May 2, 2019.
+
 (a) *Requirement of notices of insolvency.* A plan sponsor that determines that the plan is, or is expected to be, insolvent for a plan year shall file with the PBGC and issue to plan participants and beneficiaries notices of insolvency. Once notices of insolvency have been filed with the PBGC and issued to plan participants and beneficiaries, no notice of insolvency needs to be issued for subsequent insolvency years. Notices shall be delivered in the manner and within the time prescribed in this section and shall contain the information described in § 4281.44.
 
 (b) *Notices of insolvency - when delivered.* Except as provided in the next sentence, the plan sponsor shall mail or otherwise deliver the notices of insolvency no later than 30 days after the plan sponsor determines that the plan is or may be insolvent. However, the notice to plan participants and beneficiaries in pay status may be delivered concurrently with the first benefit payment made after the determination of insolvency.

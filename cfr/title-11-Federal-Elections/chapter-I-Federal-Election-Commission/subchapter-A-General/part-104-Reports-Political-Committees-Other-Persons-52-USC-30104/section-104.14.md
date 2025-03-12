@@ -26,8 +26,8 @@
 
 (v) Documentation for all payments made on the loan by any person.
 
-(c) Acknowledgements by the Commission or the Secretary of the Senate, of the receipt of Statements of Organization, reports or other statements filed under 11 CFR parts 101, 102 and 104 are intended solely to inform the person filing the report of its receipt and neither the acknowledgement nor the acceptance of a report or statement shall constitute express or implied approval, or in any manner indicate that the contents of any report or statement fulfill the filing or other requirements of the Act or of these regulations.
+(c) Acknowledgements by the Commission of the receipt of Statements of Organization, reports or other statements filed under 11 CFR parts 101, 102, and 104 are intended solely to inform the person filing the report of its receipt and neither the acknowledgement nor the acceptance of a report or statement shall constitute express or implied approval, or in any manner indicate that the contents of any report or statement fulfill the filing or other requirements of the Act or of these regulations.
 
 (d) Each treasurer of a political committee, and any other person required to file any report or statement under these regulations and under the Act, shall be personally responsible for the timely and complete filing of the report or statement and for the accuracy of any information or statement contained in it.
 
-[45 FR 15108, Mar. 7, 1980, as amended at 61 FR 3549, Feb. 1, 1996; 67 FR 12840, Mar. 20, 2002; 67 FR 38361, June 4, 2002; 79 FR 16663, Mar. 26, 2014]
+[45 FR 15108, Mar. 7, 1980, as amended at 61 FR 3549, Feb. 1, 1996; 67 FR 12840, Mar. 20, 2002; 67 FR 38361, June 4, 2002; 79 FR 16663, Mar. 26, 2014; 84 FR 18700, May 2, 2019]

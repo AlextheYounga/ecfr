@@ -1,7 +1,5 @@
 ##### § 229.10 (Item 10) General. #####
 
-Link to an amendment published at 84 FR 12716, Apr. 2, 2019.
-
 (a) *Application of Regulation S-K.* This part (together with the General Rules and Regulations under the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* as amended (*Securities Act*), and the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* as amended (*Exchange Act*) (parts 230 and 240 of this chapter), the Interpretative Releases under these Acts (parts 231 and 241 of this chapter) and the forms under these Acts (parts 239 and 249 of this chapter)) states the requirements applicable to the content of the non-financial statement portions of:
 
 (1) Registration statements under the Securities Act (part 239 of this chapter) to the extent provided in the forms to be used for registration under such Act; and
@@ -34,11 +32,7 @@ Link to an amendment published at 84 FR 12716, Apr. 2, 2019.
 
 (ii) If there is a material change in the rating(s) assigned by any NRSRO(s) to any outstanding class(es) of securities of a registrant subject to the reporting requirements of section 13(a) or 15(d) of the Exchange Act, the registrant should consider filing a report on Form 8-K (§ 249.308 of this chapter) or other appropriate report under the Exchange Act disclosing such rating change.
 
-(d) *Incorporation by Reference.* Where rules, regulations, or instructions to forms of the Commission permit incorporation by reference, a document may be so incorporated by reference to the specific document and to the prior filing or submission in which such document was physically filed or submitted. Except where a registrant or issuer is expressly required to incorporate a document or documents by reference (or for purposes of Item 1100(c) of Regulation AB (§ 229.1100(c)) with respect to an asset-backed issuer, as that term is defined in Item 1101 of Regulation AB (§ 229.1101)), reference may not be made to any document which incorporates another document by reference if the pertinent portion of the document containing the information or financial statements to be incorporated by reference includes an incorporation by reference to another document. No document on file with the Commission for more than five years may be incorporated by reference except:
-
-(1) Documents contained in registration statements, which may be incorporated by reference as long as the registrant has a reporting requirement with the Commission; or
-
-(2) Documents that the registrant specifically identifies by physical location by SEC file number reference, provided such materials have not been disposed of by the Commission pursuant to its Records Control Schedule (17 CFR 200.80f).
+(d) [Reserved]
 
 (e) *Use of non-GAAP financial measures in Commission filings.* (1) Whenever one or more non-GAAP financial measures are included in a filing with the Commission:
 
@@ -118,7 +112,7 @@ Index of Scaled Disclosure Available to Smaller Reporting Companies
 |Item 402|                                  Executive compensation.                                   |
 |Item 404|         Transactions with related persons, promoters and certain control persons.          |
 |Item 407|                                   Corporate governance.                                    |
-|Item 503|         Prospectus summary, risk factors, and ratio of earnings to fixed charges.          |
+|Item 503|                                    Prospectus summary.                                     |
 |Item 504|                                      Use of proceeds.                                      |
 |Item 601|                                         Exhibits.                                          |
 
@@ -166,4 +160,4 @@ Index of Scaled Disclosure Available to Smaller Reporting Companies
 
 Instruction 1 to paragraph (f): A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (f)(1)(i) and (f)(2)(iii)(A) of this section will qualify as a smaller reporting company regardless of its revenues.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 83 FR 32018, July 10, 2018; 83 FR 50209, Oct. 4, 2018]
+[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 83 FR 32018, July 10, 2018; 83 FR 50209, Oct. 4, 2018; 84 FR 12716, Apr. 2, 2019]

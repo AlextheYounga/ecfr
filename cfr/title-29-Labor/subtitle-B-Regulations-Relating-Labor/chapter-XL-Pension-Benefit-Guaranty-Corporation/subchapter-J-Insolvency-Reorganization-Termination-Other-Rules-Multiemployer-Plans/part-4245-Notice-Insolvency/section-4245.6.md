@@ -1,5 +1,7 @@
 ##### § 4245.6 Contents of notice of insolvency benefit level. #####
 
+Link to an amendment published at 84 FR 18725, May 2, 2019.
+
 (a) *Notice to the PBGC.* A notice of insolvency benefit level required to be filed with the PBGC pursuant to § 4245.5(a) shall contain the information set forth below, except as provided in the next sentence. The information required in paragraphs (a)(7) to (a)(10) need be submitted only if it is different from the information submitted to the PBGC with the notice of insolvency filed for that insolvency year (see § 4245.4 (a)(7) to (a)(10)) or the notice of insolvency benefit level filed for a prior year. When any information is omitted under this exception, the notice shall so state and indicate when the notice of insolvency or prior notice of insolvency benefit level was filed.
 
 (1) The name of the plan.

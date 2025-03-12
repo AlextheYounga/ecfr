@@ -1,7 +1,5 @@
 ##### § 229.1103 (Item 1103) Transaction summary and risk factors. #####
 
-Link to an amendment published at 84 FR 12721, Apr. 2, 2019.
-
 (a) *Prospectus summary.* In providing the information required by Item 503(a) of Regulation S-K (§ 229.503(a)), provide the following information in the prospectus summary, as applicable. Present information regarding multiple classes in tables if doing so will aid understanding. Consider using diagrams to illustrate the relationships among the parties, the structure of the securities offered (including, for example, the flow of funds or any subordination features) and any other material features of the transaction.
 
 (1) Identify the participants in the transaction, including the sponsor, depositor, issuing entity, trustee and servicers contemplated by Item 1108(a)(2) of this Regulation AB, and their respective roles. Describe the roles briefly if they are not apparent from the title of the role. Identify any originator contemplated by Item 1110 of this Regulation AB and any significant obligor.
@@ -54,6 +52,6 @@ Link to an amendment published at 84 FR 12721, Apr. 2, 2019.
 
 (9) Indicate whether the issuance or sale of any class of offered securities is conditioned on the assignment of a rating by one or more rating agencies. If so, identify each rating agency and the minimum rating that must be assigned.
 
-(b) *Risk factors.* In providing the information required by Item 503(c) of Regulation S-K (§ 229.503(c)), identify any risks that may be different for investors in any offered class of asset-backed securities, and if so, identify such classes and describe such difference(s).
+(b) *Risk factors.* In providing the information required by Item 105 of Regulation S-K (17 CFR 229.105), identify any risks that may be different for investors in any offered class of asset-backed securities, and if so, identify such classes and describe such difference(s).
 
-[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57313, Sept. 24, 2014]
+[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57313, Sept. 24, 2014; 84 FR 12721, Apr. 2, 2019]

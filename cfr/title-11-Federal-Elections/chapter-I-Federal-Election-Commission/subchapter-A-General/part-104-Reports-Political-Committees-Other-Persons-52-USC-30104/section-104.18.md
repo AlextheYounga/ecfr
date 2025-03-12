@@ -1,6 +1,6 @@
 ##### § 104.18 Electronic filing of reports (52 U.S.C. 30102(d) and 30104(a)(11)). #####
 
-(a) *Mandatory.* (1) Political committees and other persons required to file reports with the Commission, as provided in 11 CFR Parts 105 and 107, must file reports in an electronic format that meets the requirements of this section if -
+(a) *Mandatory.* (1) Political committees and other persons required by the Act to file reports with the Commission, as provided in 11 CFR parts 101, 102, 104, 105, 107, and 109, must do so in an electronic format that meets the requirements of this section if—
 
 (i) The political committee or other person has received contributions or has reason to expect to receive contributions aggregating in excess of $50,000 in any calendar year; or
 
@@ -8,19 +8,19 @@
 
 (2) Once any political committee or other person described in paragraph (a)(1) of this section exceeds or has reason to expect to exceed the appropriate threshold, the political committee or person must file electronically all subsequent reports covering financial activity for the remainder of the calendar year. All electronically filed reports must pass the Commission's validation program in accordance with paragraph (e) of this section. Reports filed on paper do not satisfy a political committee's or other person's filing obligations.
 
-(3) *Have reason to expect to exceed.* (i) A political committee or other person shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section for two calendar years following the calendar year in which the political committee or other person exceeds the threshold unless -
+(3) *Have reason to expect to exceed.* (i) A political committee or other person shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section for two calendar years following the calendar year in which the political committee or other person exceeds the threshold unless—
 
 (A) The committee is an authorized committee, and has $50,000 or less in net debts outstanding on January 1 of the year following the general election, and anticipates terminating prior to January 1 of the next election year; and
 
 (B) The candidate has not qualified as a candidate for the next election and does not intend to become a candidate for federal office in the next election.
 
-(ii) New political committees or other persons with no history of campaign finance activity shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section within the calendar year if -
+(ii) New political committees or other persons with no history of campaign finance activity shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section within the calendar year if—
 
 (A) It receives contributions or makes expenditures that exceed one quarter of the threshold amount in the first calendar quarter of the calendar year; or
 
 (B) It receives contributions or makes expenditures that exceed one-half of the threshold amount in the first half of the calendar year.
 
-(b) *Voluntary.* A political committee or other person who files reports with the Commission, as provided in 11 CFR part 105, and who is not required to file electronically under paragraph (a) of this section, may choose to file its reports in an electronic format that meets the requirements of this section (internet forms included). If a political committee or other person chooses to file its reports electronically, all electronically filed reports must pass the Commission's validation program in accordance with paragraph (e) of this section. The committee or other person must continue to file in an electronic format all reports covering financial activity for that calendar year, unless the Commission determines that extraordinary and unforeseeable circumstances have made it impracticable for the political committee or other person to continue filing electronically.
+(b) *Voluntary.* A political committee or other person who files reports with the Commission and who is not required to file electronically under paragraph (a) of this section, may choose to file its reports in an electronic format that meets the requirements of this section (internet forms included). If a political committee or other person chooses to file its reports electronically, all electronically filed reports must pass the Commission's validation program in accordance with paragraph (e) of this section. The committee or other person must continue to file in an electronic format all reports covering financial activity for that calendar year, unless the Commission determines that extraordinary and unforeseeable circumstances have made it impracticable for the political committee or other person to continue filing electronically.
 
 (c) *Definition of report.* For purposes of this section, *report* means any statement, designation or report required by the Act to be filed with the Commission.
 
@@ -46,4 +46,4 @@
 
 (i) *Preservation of reports.* For any report filed in electronic format under this section, the treasurer or other person required to file any report under the Act shall retain a machine-readable copy of the report as the copy preserved under 11 CFR 104.14(b)(2). In addition, the treasurer or other person required to file any report under the Act shall retain the original signed version of any documents submitted in a digitized format under paragraphs (g) and (h) of this section.
 
-[65 FR 38423, June 21, 2000, as amended at 67 FR 12840, Mar. 20, 2002; 81 FR 34863, June 1, 2016]
+[65 FR 38423, June 21, 2000, as amended at 67 FR 12840, Mar. 20, 2002; 81 FR 34863, June 1, 2016; 84 FR 18700, May 2, 2019]

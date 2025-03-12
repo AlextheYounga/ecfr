@@ -1,5 +1,7 @@
 ##### § 4041A.12 Contents of notice. #####
 
+Link to an amendment published at 84 FR 18722, May 2, 2019.
+
 (a) *Information to be contained in notice.* Except to the extent provided in paragraph (d), each Notice shall contain:
 
 (1) The name of the plan;

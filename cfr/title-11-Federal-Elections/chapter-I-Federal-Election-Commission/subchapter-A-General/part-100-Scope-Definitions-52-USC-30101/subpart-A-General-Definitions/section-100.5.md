@@ -16,7 +16,13 @@
 
 (2) *Single candidate committee. Single candidate committee* means a political committee other than a principal campaign committee which makes or receives contributions or makes expenditures on behalf of only one candidate.
 
-(3) *Multi-candidate committee. Multi-candidate committee* means a political committee which (i) has been registered with the Commission or Secretary of the Senate for at least 6 months; (ii) has received contributions for Federal elections from more than 50 persons; and (iii) (except for any State political party organization) has made contributions to 5 or more Federal candidates.
+(3) *Multi-candidate committee. Multi-candidate committee* means a political committee which—
+
+(i) Has been registered with the Commission for at least 6 months;
+
+(ii) Has received contributions for Federal elections from more than 50 persons; and
+
+(iii) Except for any State political party organization, has made contributions to 5 or more Federal candidates.
 
 (4) *Party committee. Party committee* means a political committee which represents a political party and is part of the official party structure at the national, State, or local level.
 
@@ -36,7 +42,7 @@
 
 (2) All committees (including a separate segregated fund, *see* 11 CFR part 114) established, financed, maintained or controlled by the same corporation, labor organization, person, or group of persons, including any parent, subsidiary, branch, division, department, or local unit thereof, are affiliated. *Local unit* may include, in appropriate cases, a franchisee, licensee, or State or regional association.
 
-(3) Affiliated committees sharing a single contribution limitation under paragraph (g)(2) of this section include all of the committees established, financed, maintained or controlled by -
+(3) Affiliated committees sharing a single contribution limitation under paragraph (g)(2) of this section include all of the committees established, financed, maintained or controlled by—
 
 (i) A single corporation and/or its subsidiaries;
 
@@ -74,4 +80,4 @@
 
 (5) Notwithstanding paragraphs (g)(2) through (g)(4) of this section, no authorized committee shall be deemed affiliated with any entity that is not an authorized committee.
 
-[45 FR 15094, Mar. 7, 1980, as amended at 45 FR 34867, May 23, 1980; 52 FR 35534, Sept. 22, 1987; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 61 FR 3549, Feb. 1, 1996; 67 FR 78679, Dec. 26, 2002; 68 FR 67018, Dec. 1, 2003; 74 FR 7302, Feb. 17, 2009; 79 FR 77844, Dec. 29, 2014]
+[45 FR 15094, Mar. 7, 1980, as amended at 45 FR 34867, May 23, 1980; 52 FR 35534, Sept. 22, 1987; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 61 FR 3549, Feb. 1, 1996; 67 FR 78679, Dec. 26, 2002; 68 FR 67018, Dec. 1, 2003; 74 FR 7302, Feb. 17, 2009; 79 FR 77844, Dec. 29, 2014; 84 FR 18698, May 2, 2019]

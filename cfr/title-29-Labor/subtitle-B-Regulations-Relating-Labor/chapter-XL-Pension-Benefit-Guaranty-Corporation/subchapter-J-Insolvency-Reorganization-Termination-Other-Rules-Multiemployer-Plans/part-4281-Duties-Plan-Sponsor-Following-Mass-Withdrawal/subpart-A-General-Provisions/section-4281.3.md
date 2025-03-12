@@ -1,5 +1,7 @@
 ##### § 4281.3 Filing and issuance rules. #####
 
+Link to an amendment published at 84 FR 18725, May 2, 2019.
+
 (a) *Method of filing.* The PBGC applies the rules in subpart A of part 4000 of this chapter to determine permissible methods of filing with the PBGC under this part.
 
 (b) *Method of issuance.* For rules on method of issuance to interested parties, see § 4281.32(c) for notices of benefit reductions, § 4281.43(c) for notices of insolvency, and § 4281.45(c) for notices of insolvency benefit level.

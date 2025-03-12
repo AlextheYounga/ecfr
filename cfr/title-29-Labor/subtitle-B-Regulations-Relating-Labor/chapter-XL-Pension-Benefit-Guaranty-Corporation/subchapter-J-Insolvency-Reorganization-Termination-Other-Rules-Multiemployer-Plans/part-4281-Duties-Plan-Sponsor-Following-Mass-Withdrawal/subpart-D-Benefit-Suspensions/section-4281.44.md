@@ -1,5 +1,7 @@
 ##### § 4281.44 Contents of notices of insolvency. #####
 
+Link to an amendment published at 84 FR 18726, May 2, 2019.
+
 (a) *Notice of insolvency to the PBGC.* A notice of insolvency required under § 4281.43(a) to be filed with the PBGC shall contain the following information:
 
 (1) The name of the plan.

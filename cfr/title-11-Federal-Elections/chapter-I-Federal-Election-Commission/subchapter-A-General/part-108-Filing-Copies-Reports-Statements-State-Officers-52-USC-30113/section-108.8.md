@@ -1,5 +1,5 @@
-##### § 108.8 Exemption for the District of Columbia. #####
+##### § 108.8 Exemption for the District of Columbia (52 U.S.C. 30102(g)) #####
 
-Any copy of a report required to be filed with the equivalent officer in the District of Columbia shall be deemed to be filed if the original has been filed with the Secretary or the Commission, as appropriate.
+Any copy of a report required to be filed with the equivalent officer in the District of Columbia shall be deemed to be filed if the original has been filed with the Commission.
 
-[45 FR 15117, Mar. 7, 1980, as amended at 61 FR 6095, Feb. 16, 1996]
+[84 FR 18700, May 2, 2019]

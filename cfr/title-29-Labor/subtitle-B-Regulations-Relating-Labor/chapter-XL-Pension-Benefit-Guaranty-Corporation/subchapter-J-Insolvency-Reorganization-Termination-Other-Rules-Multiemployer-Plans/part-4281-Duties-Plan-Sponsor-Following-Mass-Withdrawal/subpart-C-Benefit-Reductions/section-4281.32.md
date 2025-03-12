@@ -1,5 +1,7 @@
 ##### § 4281.32 Notices of benefit reductions. #####
 
+Link to an amendment published at 84 FR 18726, May 2, 2019.
+
 (a) *Requirement of notices.* A plan sponsor of a multiemployer plan under which a plan amendment reducing benefits is adopted pursuant to section 4281(c) of ERISA shall so notify the PBGC and plan participants and beneficiaries whose benefits are reduced by the amendment. The notices shall be delivered in the manner and within the time prescribed, and shall contain the information described, in this section. The notice required in this section shall be filed in lieu of the notice described in section 4244A(b)(2) of ERISA.
 
 (b) *When delivered.* The plan sponsor shall mail or otherwise deliver the notices of benefit reduction no later than the earlier of -

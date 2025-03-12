@@ -1,5 +1,7 @@
 ##### § 4281.46 Contents of notices of insolvency benefit level. #####
 
+Link to an amendment published at 84 FR 18726, May 2, 2019.
+
 (a) *Notice to the PBGC.* A notice of insolvency benefit level required by § 4281.45(a) to be filed with the PBGC shall contain the information specified in § 4281.44(a)(1) through (4) and (a)(6) through (10) and:
 
 (1) The insolvency year for which the notice is being filed.

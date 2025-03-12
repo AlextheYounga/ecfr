@@ -1,5 +1,7 @@
 ##### § 4041A.11 Requirement of notice. #####
 
+Link to an amendment published at 84 FR 18722, May 2, 2019.
+
 (a) *General.* A Notice of Termination shall be filed with the PBGC by a multiemployer plan when the plan has terminated as described in section 4041A(a) of ERISA.
 
 (b) *Who shall file.* The plan sponsor or a duly authorized representative acting on behalf of the plan sponsor shall sign and file the Notice.

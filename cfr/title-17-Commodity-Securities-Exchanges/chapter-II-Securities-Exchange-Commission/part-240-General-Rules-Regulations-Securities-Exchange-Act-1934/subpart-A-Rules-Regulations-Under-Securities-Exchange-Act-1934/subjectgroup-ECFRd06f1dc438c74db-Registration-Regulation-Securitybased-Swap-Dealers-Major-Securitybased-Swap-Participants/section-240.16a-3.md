@@ -1,7 +1,5 @@
 ##### § 240.16a-3 Reporting transactions and holdings. #####
 
-Link to an amendment published at 84 FR 12728, Apr. 2, 2019.
-
 (a) Initial statements of beneficial ownership of equity securities required by section 16(a) of the Act shall be filed on Form 3. Statements of changes in beneficial ownership required by that section shall be filed on Form 4. Annual statements shall be filed on Form 5. At the election of the reporting person, any transaction required to be reported on Form 5 may be reported on an earlier filed Form 4. All such statements shall be prepared and filed in accordance with the requirements of the applicable form.
 
 (b) A person filing statements pursuant to section 16(a) of the Act with respect to any class of equity securities registered pursuant to section 12 of the Act need not file an additional statement on Form 3:
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 12728, Apr. 2, 2019.
 
 (d) Any person required to file a statement with respect to securities of a single issuer under both section 16(a) of the Act (15 U.S.C. 78p(a)) and section 30(h) of the Investment Company Act of 1940 (15 U.S.C. 80a-29(h)) may file a single statement containing the required information, which will be deemed to be filed under both Acts.
 
-(e) Any person required to file a statement under section 16(a) of the Act shall, not later than the time the statement is transmitted for filing with the Commission, send or deliver a duplicate to the person designated by the issuer to receive such statements, or, in the absence of such a designation, to the issuer's corporate secretary or person performing equivalent functions.
+(e) [Reserved]
 
 (f)(1) A Form 5 shall be filed by every person who at any time during the issuer's fiscal year was subject to section 16 of the Act with respect to such issuer, except as provided in paragraph (f)(2) of this section. The Form shall be filed within 45 days after the issuer's fiscal year end, and shall disclose the following holdings and transactions not reported previously on Forms 3, 4 or 5:
 
@@ -58,4 +56,4 @@ Persons no longer subject to section 16 of the Act, but who were subject to the 
 
 (k) Any issuer that maintains a corporate Web site shall post on that Web site by the end of the business day after filing any Form 3, 4 or 5 filed under section 16(a) of the Act as to the equity securities of that issuer. Each such form shall remain accessible on such issuer's Web site for at least a 12-month period. In the case of an issuer that is an investment company and that does not maintain its own Web site, if any of the issuer's investment adviser, sponsor, depositor, trustee, administrator, principal underwriter, or any affiliated person of the investment company maintains a Web site that includes the name of the issuer, the issuer shall comply with the posting requirements by posting the forms on one such Web site.
 
-[56 FR 7265, Feb. 21, 1991, as amended at 60 FR 26622, May 17, 1995; 61 FR 30392, 30404, June 14, 1996; 67 FR 43535, June 28, 2002; 67 FR 56467, Sept. 3, 2002; 68 FR 25799, May 13, 2003; 76 FR 71877, Nov. 21, 2011]
+[56 FR 7265, Feb. 21, 1991, as amended at 60 FR 26622, May 17, 1995; 61 FR 30392, 30404, June 14, 1996; 67 FR 43535, June 28, 2002; 67 FR 56467, Sept. 3, 2002; 68 FR 25799, May 13, 2003; 76 FR 71877, Nov. 21, 2011; 84 FR 12728, Apr. 2, 2019]

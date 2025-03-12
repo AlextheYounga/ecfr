@@ -62,7 +62,7 @@
 
 (iii) Bundled contributions do not include contributions made by the lobbyist/registrant PAC or from the personal funds of the lobbyist/registrant that forwards or is credited with raising the contributions or the personal funds of that person's spouse.
 
-(b) *Reporting requirement for reporting committees* - (1) *FEC Form 3L.* Each reporting committee must file FEC Form 3L (Report of Contributions Bundled by Lobbyist/Registrants and Lobbyist/Registrant PACs) if it has received two or more bundled contributions (*see* paragraph (a)(6)) forwarded by or received and credited to a person reasonably known by the reporting committee to be a lobbyist/registrant or lobbyist/registrant PAC aggregating in excess of $15,000 during the covered period. The form shall set forth:
+(b) *Reporting requirement for reporting committees*—(1) *FEC Form 3L.* Each reporting committee must file FEC Form 3L (Report of Contributions Bundled by Lobbyist/Registrants and Lobbyist/Registrant PACs) if it has received two or more bundled contributions (*see* paragraph (a)(6)) forwarded by or received and credited to a person reasonably known by the reporting committee to be a lobbyist/registrant or lobbyist/registrant PAC aggregating in excess of $15,000 during the covered period. The form shall set forth:
 
 (i) The name of each lobbyist/registrant or lobbyist/registrant PAC;
 
@@ -88,7 +88,7 @@
 
 (c) *Lobbyist/Registrant PAC reporting requirements.* Any political committee that is a lobbyist/registrant PAC as defined in paragraph (a)(3) of this section must identify itself as such on FEC Form 1 either upon registration with the Commission if it is a new political committee, or by amendment in accordance with 11 CFR 102.2(a)(2) if it is a political committee registered with the Commission.
 
-(d) *Where to file.* Reporting committees shall file either with the Secretary of the Senate or with the Federal Election Commission in accordance with 11 CFR part 105.
+(d) *Where to file.* Reporting committees shall file with the Federal Election Commission.
 
 (e) *When to file.* Reporting committees must file the forms required under this section with the first report that they file under 11 CFR 104.5 following the end of each covered period.
 
@@ -108,4 +108,4 @@
 
 (4) If any amount after the increases under this paragraph (g) is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
-[74 FR 7302, Feb. 17, 2009]
+[74 FR 7302, Feb. 17, 2009, as amended at 84 FR 18700, May 2, 2019]

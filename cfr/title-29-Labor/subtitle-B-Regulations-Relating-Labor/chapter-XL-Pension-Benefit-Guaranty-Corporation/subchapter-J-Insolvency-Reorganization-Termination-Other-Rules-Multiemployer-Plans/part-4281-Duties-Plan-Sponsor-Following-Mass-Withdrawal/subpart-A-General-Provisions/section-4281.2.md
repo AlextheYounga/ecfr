@@ -1,5 +1,7 @@
 ##### § 4281.2 Definitions. #####
 
+Link to an amendment published at 84 FR 18725, May 2, 2019.
+
 The following terms are defined in § 4001.2 of this chapter: annuity, employer, ERISA, fair market value, IRS, insurer, irrevocable commitment, mass withdrawal, multiemployer plan, nonforfeitable benefit, normal retirement age, PBGC, person, plan, plan administrator, and plan year.
 
 In addition, for purposes of this part:

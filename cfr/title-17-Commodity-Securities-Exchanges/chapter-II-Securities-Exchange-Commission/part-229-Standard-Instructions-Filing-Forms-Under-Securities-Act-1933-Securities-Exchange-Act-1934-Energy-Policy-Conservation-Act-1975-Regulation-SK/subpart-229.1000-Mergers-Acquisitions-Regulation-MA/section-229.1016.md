@@ -1,7 +1,5 @@
 ##### § 229.1016 (Item 1016) Exhibits. #####
 
-Link to an amendment published at 84 FR 12720, Apr. 2, 2019.
-
 File as an exhibit to the schedule:
 
 (a) Any disclosure materials furnished to security holders by or on behalf of the filing person, including:
@@ -32,8 +30,6 @@ File as an exhibit to the schedule:
 
 (h) Any written opinion prepared by legal counsel at the filing person's request and communicated to the filing person pertaining to the tax consequences of the transaction.
 
-Exhibit Table to Item 1016 of Regulation M-A
-
 |                                         |13E-3|TO |14D-9|
 |-----------------------------------------|-----|---|-----|
 |           Disclosure Material           |  X  | X |  X  |
@@ -43,3 +39,11 @@ Exhibit Table to Item 1016 of Regulation M-A
 |     Statement re: Appraisal Rights      |  X  |   |     |
 |       Oral Solicitation Materials       |  X  | X |  X  |
 |               Tax Opinion               |     | X |     |
+
+Instructions to Item 1016:
+
+1. Schedules (or similar attachments) to the exhibits required by this Item are not required to be filed provided that they do not contain information material to an investment or voting decision and that information is not otherwise disclosed in the exhibit or the disclosure document. Each exhibit filed must contain a list briefly identifying the contents of all omitted schedules. Registrants need not prepare a separate list of omitted information if such information is already included within the exhibit in a manner that conveys the subject matter of the omitted schedules and attachments. In addition, the registrant must provide a copy of any omitted schedule to the Commission or its staff upon request.
+
+2. The registrant may redact information from exhibits required to be filed by this Item if disclosure of such information would constitute a clearly unwarranted invasion of personal privacy (*e.g.,* disclosure of bank account numbers, social security numbers, home addresses and similar information).
+
+[84 FR 12720, Apr. 2, 2019]

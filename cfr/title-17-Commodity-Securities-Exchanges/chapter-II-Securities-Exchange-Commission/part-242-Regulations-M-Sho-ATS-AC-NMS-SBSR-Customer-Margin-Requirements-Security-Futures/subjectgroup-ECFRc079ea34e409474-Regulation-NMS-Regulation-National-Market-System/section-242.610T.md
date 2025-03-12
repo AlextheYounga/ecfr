@@ -252,4 +252,4 @@
 
 (13) Median Take Fee (Rebate)/Median Make Fee (Rebate), by Participant Type, Test Group, Displayed/Non-Displayed, and Top/Depth of Book.
 
-[84 FR 5298, Feb. 20, 2019]Effective Date Note:At 84 FR 5298, Feb. 20, 2019, § 242.610T was added, effective Apr. 22, 2019 through Dec. 29, 2023.
+[84 FR 5298, Feb. 20, 2019]Effective Date Note:At 84 FR 5298, Feb. 20, 2019, § 242.610T was added, effective Apr. 22, 2019, through Dec. 29, 2023.

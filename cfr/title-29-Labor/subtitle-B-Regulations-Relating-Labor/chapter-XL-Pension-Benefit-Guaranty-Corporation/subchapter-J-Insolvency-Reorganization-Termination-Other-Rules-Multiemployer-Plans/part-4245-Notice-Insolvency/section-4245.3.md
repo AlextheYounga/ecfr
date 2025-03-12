@@ -1,5 +1,7 @@
 ##### § 4245.3 Notice of insolvency. #####
 
+Link to an amendment published at 84 FR 18724, May 2, 2019.
+
 (a) *Requirement of notice.* A plan sponsor of a multiemployer plan in reorganization that determines under section 4245 (b)(1), (d)(1) or (d)(2) of ERISA that the plan's available resources are or may be insufficient to pay benefits when due for a plan year shall so notify the PBGC and the interested parties, as defined in paragraph (e) of this section. A single notice may cover more than one plan year. The notices shall be delivered in the manner and within the time prescribed in this section and shall contain the information described in § 4245.4.
 
 (b) *When delivered.* A plan sponsor shall mail or otherwise deliver the notices of insolvency no later than 30 days after it determines that the plan is or may become insolvent, as described in paragraph (a) of this section. However, the notice to participants and beneficiaries in pay status may be delivered concurrently with the first benefit payment made more than 30 days after the determination of insolvency.

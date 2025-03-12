@@ -1,7 +1,5 @@
 ##### § 232.11 Definition of terms used in part 232. #####
 
-Link to an amendment published at 84 FR 12722, Apr. 2, 2019.
-
 Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:
 
 *Animated graphics.* The term *animated graphics* means text or images that do not remain static but that may move when viewed in a browser.
@@ -11,6 +9,8 @@ Unless otherwise specifically provided, the terms used in Regulation S-T (part 2
 *Asset Data File.* The term Asset Data File means the machine-readable computer code that presents information in eXtensible Markup Language (XML) electronic format pursuant to § 229.1111(h) of this chapter.
 
 *Business development company.* The term *business development company* has the meaning set forth in section 2(a)(48) of the Investment Company Act.
+
+*Cover Page Interactive Data File.* The term *Cover Page Interactive Data File* means the machine-readable computer code that presents in Inline XBRL electronic format the cover page information for specified forms as required by Rule 406 (§ 232.406 of this chapter). NOTE to definition of Cover Page Interactive Data File: When a filing is submitted using Inline XBRL, if permitted or required and as provided by the EDGAR Filer Manual, a portion of the Cover Page Interactive Data File must be embedded into a form with the remainder submitted as an exhibit to the form.
 
 *Direct transmission.* The term *direct transmission* means the transmission of one or more electronic submissions via a telephonic communication session.
 
@@ -74,4 +74,4 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Unofficial PDF copy.* The term *unofficial PDF copy* means an optional copy of an electronic document that may be included in an EDGAR submission tagged as a Portable Document Format document in the format required by the EDGAR Filer Manual and submitted in accordance with Rule 104 of Regulation S-T (§ 232.104).
 
-[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018]
+[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018; 84 FR 12722, Apr. 2, 2019]

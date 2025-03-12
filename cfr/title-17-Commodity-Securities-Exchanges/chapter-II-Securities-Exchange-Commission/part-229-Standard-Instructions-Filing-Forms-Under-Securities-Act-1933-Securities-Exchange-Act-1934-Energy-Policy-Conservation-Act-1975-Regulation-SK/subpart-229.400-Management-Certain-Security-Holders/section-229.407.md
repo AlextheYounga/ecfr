@@ -1,7 +1,5 @@
 ##### § 229.407 (Item 407) Corporate governance. #####
 
-Link to an amendment published at 84 FR 12717, Apr. 2, 2019.
-
 (a) *Director independence.* Identify each director and, when the disclosure called for by this paragraph is being presented in a proxy or information statement relating to the election of directors, each nominee for director, that is independent under the independence standards applicable to the registrant under paragraph (a)(1) of this Item. In addition, if such independence standards contain independence requirements for committees of the board of directors, identify each director that is a member of the compensation, nominating or audit committee that is not independent under such committee independence standards. If the registrant does not have a separately designated audit, nominating or compensation committee or committee performing similar functions, the registrant must provide the disclosure of directors that are not independent with respect to all members of the board of directors applying such committee independence standards.
 
 (1) In determining whether or not the director or nominee for director is independent for the purposes of paragraph (a) of this Item, the registrant shall use the applicable definition of independence, as follows:
@@ -84,9 +82,7 @@ b. If the security holder has filed a Schedule 13D (§ 240.13d-101 of this chapt
 
 (A) The audit committee has reviewed and discussed the audited financial statements with management;
 
-(B) The audit committee has discussed with the independent auditors the matters required to be discussed by the statement on Auditing Standards No. 61, as amended (AICPA, *Professional Standards*, Vol. 1. AU section 380),1 as adopted by the Public Company Accounting Oversight Board in Rule 3200T;
-
-1 Available at *http://www.pcaobus.org/standards/interim\_standards/auditing\_standards/index\_au.asp?series=300&section=300.*
+(B) The audit committee has discussed with the independent auditors the matters required to be discussed by the applicable requirements of the Public Company Accounting Oversight Board (“PCAOB”) and the Commission;
 
 (C) The audit committee has received the written disclosures and the letter from the independent accountant required by applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the audit committee concerning independence, and has discussed with the independent accountant the independent accountant's independence; and
 
@@ -242,17 +238,19 @@ b. If the security holder has filed a Schedule 13D (§ 240.13d-101 of this chapt
 
 4. For purposes of this paragraph, security holder proposals submitted pursuant to § 240.14a-8 of this chapter, and communications made in connection with such proposals, will not be viewed as “security holder communications.”
 
-(g) *Smaller reporting companies.* A registrant that qualifies as a “smaller reporting company,” as defined by § 229.10(f)(1), is not required to provide:
+(g) *Smaller reporting companies and emerging growth companies.* (1) A registrant that qualifies as a “smaller reporting company,” as defined by § 229.10(f)(1), is not required to provide:
 
-(1) The disclosure required in paragraph (d)(5) of this Item in its first annual report filed pursuant to section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m(a) or 78o(d)) following the effective date of its first registration statement filed under the Securities Act (15 U.S.C. 77a *et seq.*) or Exchange Act (15 U.S.C. 78a *et seq.*); and
+(i) The disclosure required in paragraph (d)(5) of this Item in its first annual report filed pursuant to Section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m(a) or 78o(d)) following the effective date of its first registration statement filed under the Securities Act (15 U.S.C. 77a *et seq.*) or Exchange Act (15 U.S.C. 78a *et seq.*); and
 
-(2) Need not provide the disclosures required by paragraphs (e)(4) and (e)(5) of this Item.
+(ii) The disclosure required by paragraphs (e)(4) and (e)(5) of this Item.
+
+(2) A registrant that qualifies as an “emerging growth company,” as defined in Rule 405 of the Securities Act (§ 230.405 of this chapter) or Rule 12b-2 of the Exchange Act (§ 240.12b-2 of this chapter), is not required to provide the disclosure required by paragraph (e)(5) of this Item.
 
 (h) *Board leadership structure and role in risk oversight.* Briefly describe the leadership structure of the registrant's board, such as whether the same person serves as both principal executive officer and chairman of the board, or whether two individuals serve in those positions, and, in the case of a registrant that is an investment company, whether the chairman of the board is an “interested person” of the registrant as defined in section 2(a)(19) of the Investment Company Act (15 U.S.C. 80a-2(a)(19)). If one person serves as both principal executive officer and chairman of the board, or if the chairman of the board of a registrant that is an investment company is an “interested person” of the registrant, disclose whether the registrant has a lead independent director and what specific role the lead independent director plays in the leadership of the board. This disclosure should indicate why the registrant has determined that its leadership structure is appropriate given the specific characteristics or circumstances of the registrant. In addition, disclose the extent of the board's role in the risk oversight of the registrant, such as how the board administers its oversight function, and the effect that this has on the board's leadership structure.
 
 (i) *Employee, officer and director hedging.* In proxy or information statements with respect to the election of directors:
 
-(1) Describe any practices or policies that the registrant has adopted regarding the ability of employees (including officers) or directors of the registrant, or any of their designees, to purchase financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engage in transactions, that hedge or offset, or are designed to hedge or offset, any decrease in the market value of registrant equity securities -
+(1) Describe any practices or policies that the registrant has adopted regarding the ability of employees (including officers) or directors of the registrant, or any of their designees, to purchase financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engage in transactions, that hedge or offset, or are designed to hedge or offset, any decrease in the market value of registrant equity securities—
 
 (i) Granted to the employee or director by the registrant as part of the compensation of the employee or director; or
 
@@ -282,4 +280,4 @@ d. *National securities association* means a national securities association reg
 
 2. With respect to paragraphs (c)(2)(i), (d)(1) and (e)(2) of this Item, disclose whether a current copy of the applicable committee charter is available to security holders on the registrant's Web site, and if so, provide the registrant's Web site address. If a current copy of the charter is not available to security holders on the registrant's Web site, include a copy of the charter in an appendix to the registrant's proxy or information statement that is provided to security holders at least once every three fiscal years, or if the charter has been materially amended since the beginning of the registrant's last fiscal year. If a current copy of the charter is not available to security holders on the registrant's Web site, and is not included as an appendix to the registrant's proxy or information statement, identify in which of the prior fiscal years the charter was so included in satisfaction of this requirement.
 
-[71 FR 53254, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 73 FR 57238, Oct. 2, 2008; 74 FR 68364, Dec. 23, 2009; 77 FR 38453, July 27, 2012; 84 FR 2425, Mar. 8, 2019]
+[71 FR 53254, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 73 FR 57238, Oct. 2, 2008; 74 FR 68364, Dec. 23, 2009; 77 FR 38453, July 27, 2012; 84 FR 2425, Mar. 8, 2019; 84 FR 12717, Apr. 2, 2019]

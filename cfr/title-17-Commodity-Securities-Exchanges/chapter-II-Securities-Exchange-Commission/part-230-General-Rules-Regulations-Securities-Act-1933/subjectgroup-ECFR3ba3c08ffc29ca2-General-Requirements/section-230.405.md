@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 84 FR 12721, Apr. 2, 2019.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -271,6 +269,8 @@ For purposes of making the prescribed income test the following guidance should 
 Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
 
 *Subsidiary.* A *subsidiary* of a specified person is an affiliate controlled by such person directly, or indirectly through one or more intermediaries. (See also *majority owned subsidiary, significant subsidiary, totally held subsidiary,* and *wholly owned subsidiary.*)
+
+*Sub-underwriter.* The term *sub-underwriter* means a dealer that is participating as an underwriter in an offering by committing to purchase securities from a principal underwriter for the securities but is not itself in privity of contract with the issuer of the securities.
 
 *Succession.* The term *succession* means the direct acquisition of the assets comprising a going business, whether by merger, consolidation, purchase, or other direct transfer. The term does not include the acquisition of control of a business unless followed by the direct acquisition of its assets. The terms *succeed* and *successor* have meanings correlative to the foregoing.
 

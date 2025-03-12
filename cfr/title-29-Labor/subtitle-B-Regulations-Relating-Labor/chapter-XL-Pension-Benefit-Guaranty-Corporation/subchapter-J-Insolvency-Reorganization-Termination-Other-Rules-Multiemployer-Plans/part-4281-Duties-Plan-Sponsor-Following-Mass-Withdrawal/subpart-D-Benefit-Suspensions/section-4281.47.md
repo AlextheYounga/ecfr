@@ -1,5 +1,7 @@
 ##### § 4281.47 Application for financial assistance. #####
 
+Link to an amendment published at 84 FR 18727, May 2, 2019.
+
 (a) *General.* If the plan sponsor determines that the plan's resource benefit level for an insolvency year is below the level of benefits guaranteed by PBGC or that the plan will be unable to pay guaranteed benefits when due for any month during the year, the plan sponsor shall apply to the PBGC for financial assistance pursuant to section 4261 of ERISA. The application shall be filed within the time prescribed in paragraph (b) of this section. When the resource benefit level is below the guarantee level, the application shall contain the information set forth in paragraph (c) of this section. When the plan is unable to pay guaranteed benefits for any month, the application shall contain the information set forth in paragraph (d) of this section.
 
 (b) *When, how, and where to apply.* When the plan sponsor determines a resource benefit level that is less than guaranteed benefits, it shall apply for financial assistance at the same time that it submits its notice of insolvency benefit level pursuant to § 4281.45. When the plan sponsor determines an inability to pay guaranteed benefits for any month, it shall apply for financial assistance within 15 days after making that determination. Application to the PBGC for financial assistance shall be made in accordance with the rules in subpart A of part 4000 of this chapter. See § 4000.4 of this chapter for information on where to apply.

@@ -1,5 +1,7 @@
 ##### § 4245.5 Notice of insolvency benefit level. #####
 
+Link to an amendment published at 84 FR 18724, May 2, 2019.
+
 (a) *Requirement of notice.* Except as provided in paragraph (b) of this section, for each insolvency year the plan sponsor shall notify the PBGC and the interested parties, as defined in § 4245.3(e), of the level of benefits expected to be paid during the year (the “insolvency benefit level”). These notices shall be delivered in the manner and within the time prescribed in this section and shall contain the information described in § 4245.6.
 
 (b) *Waiver of notice to certain interested parties.* The notice of insolvency benefit level required under this section need not be given to interested parties, other than participants and beneficiaries who are in pay status or are reasonably expected to enter pay status during the insolvency year, for an insolvency year immediately following the plan year in which a notice of insolvency was required to be delivered pursuant to § 4245.3, provided that the notice of insolvency was in fact delivered.

@@ -1,7 +1,5 @@
 ##### § 229.501 (Item 501) Forepart of Registration Statement and Outside Front Cover Page of Prospectus. #####
 
-Link to an amendment published at 84 FR 12718, Apr. 2, 2019.
-
 The registrant must furnish the following information in plain English. See § 230.421(d) of Regulation C of this chapter.
 
 (a) *Front cover page of the registration statement.* Where appropriate, include the delaying amendment legend from
@@ -12,7 +10,7 @@ The registrant must furnish the following information in plain English. See § 2
 
 (1) *Name.* The registrant's name. A foreign registrant must give the English translation of its name.
 
-*Instruction to paragraph 501(b)(1):* If your name is the same as that of a company that is well known, include information to eliminate any possible confusion with the other company. If your name indicates a line of business in which you are not engaged or you are engaged only to a limited extent, include information to eliminate any misleading inference as to your business. In some circumstances, disclosure may not be sufficient and you may be required to change your name. You will not be required to change your name if you are an established company, the character of your business has changed, and the investing public is generally aware of the change and the character of your current business.
+*Instruction to paragraph 501(b)(1):* If your name is the same as that of a company that is well known, include information to eliminate any possible confusion with the other company. If your name indicates a line of business in which you are not engaged or in which you are engaged only to a limited extent, include information to eliminate any misleading inference as to your business.
 
 (2) *Title and amount of securities.* The title and amount of securities offered. Separately state the amount of securities offered by selling security holders, if any. If the underwriter has any arrangement with the issuer, such as an over-allotment option, under which the underwriter may purchase additional shares in connection with the offering, indicate that this arrangement exists and state the amount of additional shares that the underwriter may purchase under the arrangement. Give a brief description of the securities except where the information is clear from the title of the security. For example, you are not required to describe common stock that has full voting, dividend and liquidation rights usually associated with common stock.
 
@@ -24,11 +22,11 @@ The registrant must furnish the following information in plain English. See § 2
 
 (B) A bona fide estimate of the principal amount of the debt securities offered.
 
-2. If it is impracticable to state the price to the public, explain the method by which the price is to be determined. If the securities are to be offered at the market price, or if the offering price is to be determined by a formula related to the market price, indicate the market and market price of the securities as of the latest practicable date.
+2. If it is impracticable to state the price to the public, explain the method by which the price is to be determined. Instead of explaining the method on the outside front cover page of the prospectus, you may state that the offering price will be determined by a particular method or formula that is described in the prospectus and include a cross-reference to the location of such disclosure in the prospectus, including the page number. Highlight the cross-reference by prominent type or in another manner. If the securities are to be offered at the market price, or if the offering price is to be determined by a formula related to the market price, indicate the market and market price of the securities as of the latest practicable date.
 
 3. If you file a registration statement on Form S-8, you are not required to comply with this paragraph (b)(3).
 
-(4) *Market for the securities.* Whether any national securities exchange or the Nasdaq Stock Market lists the securities offered, naming the particular market(s), and identifying the trading symbol(s) for those securities;
+(4) *Market for the securities.* The national securities exchange(s) where the securities being offered are listed. If the securities being offered are not listed on a national securities exchange, the principal United States market(s) where the registrant, through the engagement of a registered broker-dealer, has actively sought and achieved quotation. In each case, also disclose the corresponding trading symbol(s) for the securities on such market(s).
 
 (5) *Risk factors.* A cross-reference to the risk factors section, including the page number where it appears in the prospectus. Highlight this cross-reference by prominent type or in another manner;
 
@@ -48,18 +46,20 @@ Example A: Best efforts offering.The underwriters are not required to sell any s
 
 (9) *Date of prospectus.* The date of the prospectus;
 
-(10) *Prospectus “Subject to Completion” legend.* If you use the prospectus before the effective date of the registration statement, a prominent statement that:
+(10) *Prospectus “Subject to Completion” legend.* (i) If you use the prospectus before the effective date of the registration statement or if you use Rule 430A [§ 230.430A of this chapter] to omit pricing information and the prospectus is used before you determine the public offering price, include a prominent statement that:
 
-(i) The information in the prospectus will be amended or completed;
+(A) The information in the prospectus will be amended or completed;
 
-(ii) A registration statement relating to these securities has been filed with the Securities and Exchange Commission;
+(B) A registration statement relating to these securities has been filed with the Securities and Exchange Commission;
 
-(iii) The securities may not be sold until the registration statement becomes effective; and
+(C) The securities may not be sold until the registration statement becomes effective; and
 
-(iv) The prospectus is not an offer to sell the securities and it is not soliciting an offer to buy the securities in any state where offers or sales are not permitted. The legend may be in the following or other clear, plain language:
+(D) The prospectus is not an offer to sell the securities, and it is not soliciting an offer to buy the securities, in any state where offers or sales are not permitted.
+
+(ii) The legend called for by paragraph (b)(10)(i) of this Item may be in the following or other clear, plain language:
 
 The information in this prospectus is not complete and may be changed. We may not sell these securities until the registration statement filed with the Securities and Exchange Commission is effective. This prospectus is not an offer to sell these securities and it is not soliciting an offer to buy these securities in any state where the offer or sale is not permitted.
 
-(11) If you use § 230.430A of this chapter to omit pricing information and the prospectus is used before you determine the public offering price, the information and legend in paragraph (b)(10) of this section.
+(iii) Registrants may exclude the statement in paragraph (b)(10)(i)(D) of this Item if the offering is not prohibited by state law.
 
-*Instruction to Item 501:* For asset-backed securities, see also Item 1102 of Regulation AB (§ 229.1102).[63 FR 6381, Feb. 6, 1998, as amended at 70 FR 1594, Jan. 7, 2005]
+*Instruction to Item 501:* For asset-backed securities, see also Item 1102 of Regulation AB (§ 229.1102).[63 FR 6381, Feb. 6, 1998, as amended at 70 FR 1594, Jan. 7, 2005; 84 FR 12718, Apr. 2, 2019]
