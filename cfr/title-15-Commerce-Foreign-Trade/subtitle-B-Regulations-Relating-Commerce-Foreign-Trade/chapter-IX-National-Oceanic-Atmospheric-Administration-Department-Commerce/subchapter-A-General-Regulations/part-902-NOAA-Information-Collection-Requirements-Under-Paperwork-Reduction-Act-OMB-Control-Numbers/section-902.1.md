@@ -1,6 +1,6 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 81 FR 95452, Dec. 28, 2016.Link to an amendment published at 82 FR 6223, January 19, 2017.
+Link to an amendment published at 82 FR 6223, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 9369, Feb. 9, 2017.
 
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
@@ -442,7 +442,7 @@ Link to an amendment published at 81 FR 95452, Dec. 28, 2016.Link to an amendmen
 |                                     679.20(a)(8)(iii)                                      |                                          \-0206                                          |
 |                                     679.21(f) and (g)                                      |                                     \-0393 and -0401                                     |
 |                                         679.22(a)                                          |                                          \-0206                                          |
-|                                         679.24(a)                                          |                                          \-0353                                          |
+|                                           679.24                                           |                                          \-0353                                          |
 |                                           679.26                                           |                                          \-0316                                          |
 |                                         679.28(a)                                          |                                     \-0213 and -0330                                     |
 |                               679.28(b) through (e) and (i)                                |                                          \-0330                                          |
@@ -459,7 +459,8 @@ Link to an amendment published at 81 FR 95452, Dec. 28, 2016.Link to an amendmen
 |                                         679.41(a)                                          |                                      \-0272, -0592                                       |
 |679.41(b), (c)(1) through (9), (d) through (f), (g)(1) through (4), (h) through (k), and (m)|                                          \-0272                                          |
 |                         679.41(c)(10), (g)(5) through (8), and (l)                         |                                     \-0272 and -0665                                     |
-|                                   679.42(a) through (j)                                    |                                     \-0272 and -0665                                     |
+|                               679.42(a), and (c) through (j)                               |                                     \-0272 and -0665                                     |
+|                                 679.42(b), (k)(2), and (l)                                 |                                          \-0353                                          |
 |                                        679.42(f)(1)                                        |                                      \-0272, -0592                                       |
 |                                        679.42(f)(6)                                        |                                   \-0272, -0592, -0665                                   |
 |                                         679.42(k)                                          |                                          \-0445                                          |
@@ -518,4 +519,4 @@ Link to an amendment published at 81 FR 95452, Dec. 28, 2016.Link to an amendmen
 
 <sup>1</sup> And -0305.
 
-[60 FR 39248, Aug. 2, 1995]Editorial Note:For Federal Register citations affecting § 902.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 79 FR 10010, Feb. 24, 2014, § 902.1 was amended by removing entries for 679.7(a)(7)(vii) through (ix), 679.7(n)(1)(x), 679.7(f), 679.7(f)(8)(ii), 679.7(k), 679.7(n)(4)(ii), and 679.20(a)(8)(ii) from the table in paragraph (b); however, the amendment could not be incorporated because none of these entries were in the table.
+[60 FR 39248, Aug. 2, 1995]Editorial Note:For Federal Register citations affecting § 902.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, in § 902.1, in the table in paragraph (b), under the entry “50 CFR”, entries for “679.24(a)”, “679.42(a) through (j)”, and “679.24”, “679.42(b), (k)(2), and (l)” are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the stay was amended to be until Mar. 11, 2017.Editorial Note:At 79 FR 10010, Feb. 24, 2014, § 902.1 was amended by removing entries for 679.7(a)(7)(vii) through (ix), 679.7(n)(1)(x), 679.7(f), 679.7(f)(8)(ii), 679.7(k), 679.7(n)(4)(ii), and 679.20(a)(8)(ii) from the table in paragraph (b); however, the amendment could not be incorporated because none of these entries were in the table.

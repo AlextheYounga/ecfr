@@ -4,4 +4,4 @@
 
 (b) *Possible remedies for program fraud.* In addition to any other penalty which may be prescribed by law, a person who submits, or causes to be submitted, a false claim or a false statement to SBA is subject to a civil penalty of not more than $10,781 for each statement or claim, regardless of whether property, services, or money is actually delivered or paid by SBA. If SBA has made any payment, transferred property, or provided services in reliance on a false claim, the person submitting it is also subject to an assessment of not more than twice the amount of the false claim. This assessment is in lieu of damages sustained by SBA because of the false claim.
 
-[61 FR 2691, Jan. 29, 1996, as amended at 81 FR 31492, May 19, 2016]
+[61 FR 2691, Jan. 29, 1996, as amended at 81 FR 31492, May 19, 2016; 82 FR 9969, Feb. 9, 2017]

@@ -1,7 +1,5 @@
 ##### § 300.61 Definitions. #####
 
-Link to an amendment published at 81 FR 95453, Dec. 28, 2016.
-
 In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
 *Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
@@ -56,7 +54,11 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Customary trade* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, the non-commercial exchange of subsistence halibut for anything other than items of significant value.
 
-*Fishing* means the taking, harvesting, or catching of fish, or any activity that can reasonably be expected to result in the taking, harvesting, or catching of fish, including specifically the deployment of any amount or component part of setline gear anywhere in the maritime area.
+*Fishing* means the taking, harvesting, or catching of fish, or any activity that can reasonably be expected to result in the taking, harvesting, or catching of fish, including:
+
+(1) The deployment of any amount or component part of setline gear anywhere in the maritime area; or
+
+(2) The deployment of longline pot gear as defined in § 679.2 of this title, or component part of that gear in Commission regulatory areas 2C, 3A, 3B, and that portion of Area 4A in the Gulf of Alaska west of Area 3B and east of 170°00′ W. long.
 
 *Fishing week,* for purposes of § 300.65(d), means a time period that begins at 0001 hours, A.l.t., Monday morning and ends at 2400 hours, A.l.t., the following Sunday night.
 
@@ -74,7 +76,7 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *IFQ fishing trip,* for purposes of the subpart, means the period beginning when a vessel operator commences harvesting IFQ halibut and ending when the vessel operator lands any species.
 
-*IFQ halibut* means any halibut that is harvested with setline or other hook and line gear while commercial fishing in any IFQ regulatory area defined at § 679.2 of this title.
+*IFQ halibut* means any halibut that is harvested with setline gear as defined in this section or fixed gear as defined in § 679.2 of this title while commercial fishing in any IFQ regulatory area defined in § 679.2 of this title.
 
 *Military charter halibut permit* means a permit issued by NMFS to a United States Military Morale, Welfare and Recreation Program pursuant to § 300.67.
 
@@ -114,4 +116,4 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Valid,* with respect to a charter halibut permit for purposes of §§ 300.66 and 300.67, means the charter halibut permit that is currently in effect.
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 52469, Sept. 29, 1999; 68 FR 18156, Apr. 15, 2003; 68 FR 47264, Aug. 8, 2003; 72 FR 30727, June 4, 2007; 72 FR 67669, Nov. 30, 2007; 73 FR 30523, May 28, 2008; 73 FR 52797, Sept. 11, 2008; 73 FR 54939, Sept. 24, 2008; 74 FR 11697, Mar. 19, 2009; 74 FR 21227, May 6, 2009; 74 FR 57109, Nov. 4, 2009; 75 FR 599, Jan. 5, 2010; 76 FR 6571, Feb. 7, 2011; 78 FR 75885, Dec. 12, 2013; 80 FR 35205, June 19, 2015; 81 FR 18795, Apr. 1, 2016]
+[61 FR 35550, July 5, 1996, as amended at 64 FR 52469, Sept. 29, 1999; 68 FR 18156, Apr. 15, 2003; 68 FR 47264, Aug. 8, 2003; 72 FR 30727, June 4, 2007; 72 FR 67669, Nov. 30, 2007; 73 FR 30523, May 28, 2008; 73 FR 52797, Sept. 11, 2008; 73 FR 54939, Sept. 24, 2008; 74 FR 11697, Mar. 19, 2009; 74 FR 21227, May 6, 2009; 74 FR 57109, Nov. 4, 2009; 75 FR 599, Jan. 5, 2010; 76 FR 6571, Feb. 7, 2011; 78 FR 75885, Dec. 12, 2013; 80 FR 35205, June 19, 2015; 81 FR 18795, Apr. 1, 2016; 81 FR 95453, Dec. 28, 2016]Effective Date Note:At 82 FR 8811, Jan. 31, 2017, in § 300.61, the definitions of “Fishing” and “IFQ halibut” were stayed until March 12, 2017. At 82 FR 9501, Feb. 7, 2017, the stayed date was corrected to March 11, 2017.

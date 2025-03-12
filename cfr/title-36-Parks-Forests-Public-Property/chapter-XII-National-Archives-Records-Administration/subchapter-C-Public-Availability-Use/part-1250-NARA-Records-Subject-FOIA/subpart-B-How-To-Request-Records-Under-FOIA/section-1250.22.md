@@ -1,5 +1,7 @@
 ##### § 1250.22 Where do I send my FOIA request? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 (a) NARA has several FOIA Customer Service Centers that process FOIA requests. You should send your FOIA request to the appropriate FOIA Customer Service Center that you believe would have the records you seek:
 
 |                                                                                                     For:                                                                                                      |                                                                                                                                               Mail/submit request to or call:                                                                                                                                               |

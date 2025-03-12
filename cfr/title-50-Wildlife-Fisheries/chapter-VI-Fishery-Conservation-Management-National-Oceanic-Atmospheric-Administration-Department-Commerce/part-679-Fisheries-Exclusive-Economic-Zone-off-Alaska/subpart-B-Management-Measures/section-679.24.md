@@ -1,18 +1,20 @@
 ##### § 679.24 Gear limitations. #####
 
-Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
-
 Regulations pertaining to vessel and gear markings are set forth in this section and as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of chapter III of this title.
 
 (a) *Marking of hook-and-line, longline pot, and pot-and-line gear.* (1) All hook-and-line, longline pot, and pot-and-line marker buoys carried on board or used by any vessel regulated under this part shall be marked with the vessel's Federal fisheries permit number or ADF&G vessel registration number.
 
 (2) Markings shall be in characters at least 4 inches (10.16 cm) in height and 0.5 inch (1.27 cm) in width in a contrasting color visible above the water line and shall be maintained so the markings are clearly visible.
 
+(3) Each end of a set of longline pot gear deployed to fish IFQ sablefish in the GOA must have attached a cluster of four or more marker buoys including one hard buoy ball marked with the capital letters “LP” in accordance with paragraph (a)(2) of this section, a flag mounted on a pole, and radar reflector floating on the sea surface.
+
 (b) *Gear restrictions* - (1) *Pots -*  - *Longline pot gear.* Any person using longline pot gear must treat any catch of groundfish as a prohibited species, except:
 
 (i) In the Aleutian Islands subarea.
 
 (ii) While directed fishing for sablefish in the Bering Sea subarea.
+
+(iii) While directed fishing for IFQ sablefish in the GOA.
 
 (2) [Reserved]
 
@@ -22,15 +24,15 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 (c) *Gear restrictions for sablefish* - (1) *Gear allocations.* Gear allocations of sablefish TAC are set out under § 679.20.
 
-(2) *Eastern GOA regulatory area* - (i) *General.* (A) No person may use any gear other than hook-and-line and trawl gear when fishing for sablefish in the Eastern GOA regulatory Area.
+(2) *Eastern GOA regulatory area* - (i) *General.* (A) No person may use any gear other than hook-and-line, longline pot, and trawl gear when fishing for sablefish in the Eastern GOA regulatory area.
 
-(B) No person may use any gear other than hook-and-line gear to engage in directed fishing for sablefish.
+(B) No person may use any gear other than hook-and-line gear and longline pot gear to engage in directed fishing for IFQ sablefish.
 
 (ii) *Sablefish as prohibited species* - (A) *Trawl gear.* When operators of vessels using trawl gear have harvested 5 percent of the TAC for sablefish in the Eastern GOA regulatory area during any year, further trawl catches of sablefish must be treated as prohibited species as provided by § 679.21(a).
 
 (B) *Other gear.* Operators of vessels using gear types other than those specified in paragraph (c)(2)(i) of this section in the Eastern GOA regulatory area must treat any catch of sablefish as a prohibited species as provided by § 679.21(a).
 
-(3) *Central and Western GOA regulatory areas; sablefish as prohibited species.* Operators of vessels using gear types other than hook-and-line and trawl gear in the Central and western GOA regulatory areas must treat any catch of sablefish in these areas as a prohibited species as provided by § 679.21(a).
+(3) *Central and Western GOA regulatory areas; sablefish as prohibited species.* Operators of vessels using gear types other than hook-and-line, longline pot, and trawl gear in the Central and Western GOA regulatory areas must treat any catch of sablefish in these areas as a prohibited species as provided by § 679.21(a).
 
 (4) *BSAI.* Operators of vessels using gear types other than hook-and-line, longline pot, pot-and-line, or trawl gear in the BSAI must treat sablefish as a prohibited species as provided by § 679.21(a).
 
@@ -212,4 +214,4 @@ Nothwithstanding any other paragraph in this part, operators of vessels 32 ft (9
 
 (B) For elevating devices spaced greater than 65 feet (19.8 m) to 95 feet (29 m), the required minimum clearance is ≥[3.5 inches −((support material cross section − line material cross section)/2)].
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.24, paragraphs (a)(3), (b)(1)(iii), (c)(2)(i)(A) and (B), and (c)(3) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

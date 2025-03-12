@@ -1,12 +1,10 @@
 ##### § 679.51 Observer requirements for vessels and plants. #####
 
-Link to an amendment published at 81 FR 95457, Dec. 28, 2016.
-
-(a) *Observer requirements for vessels* - (1) *Groundfish and halibut fishery partial observer coverage category* - (i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial observer coverage category when fishing for halibut with hook-and-line gear or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
+(a) *Observer requirements for vessels* - (1) *Groundfish and halibut fishery partial observer coverage category* - (i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial observer coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) A catcher vessel designated on an FFP under § 679.4(b)(1);
 
-(B) A catcher vessel when fishing for halibut with hook-and-line gear and while carrying a person named on a permit issued under § 679.4(d)(1)(i), § 679.4(d)(2)(i), or § 679.4(e)(2), or for sablefish IFQ with hook-and-line or pot gear and while carrying a person named on a permit issued under § 679.4(d)(1)(i) or § 679.4(d)(2)(i);
+(B) A catcher vessel when fishing for halibut while carrying a person named on a permit issued under § 679.4(d)(1)(i), (d)(2)(i), or (e)(2), or for IFQ sablefish, as defined at § 679.2, while carrying a person named on a permit issued under § 679.4(d)(1)(i) or (d)(2)(i); or
 
 (C) A catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section; or
 
@@ -258,4 +256,4 @@ Link to an amendment published at 81 FR 95457, Dec. 28, 2016.
 
 (3) The owner of a vessel, shoreside processor, stationary floating processor, buying station, or tender vessel is responsible for compliance and must ensure that the operator or manager of a vessel, shoreside processor, or stationary floating processor required to maintain observer coverage under paragraphs (a) or (b) of this section complies with the requirements given in paragraphs (e)(1) and (e)(2) of this section.
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016]Editorial Note:At 79 FR 54602, Sept. 12, 2014, § 679.51 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016]Editorial Note:At 79 FR 54602, Sept. 12, 2014, § 679.51 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.51, paragraphs (a)(1)(i) introductory text and (a)(1)(i)(B) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

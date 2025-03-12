@@ -1,5 +1,7 @@
 ##### § 1250.72 How do I file an appeal? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 (a) You may submit your appeal via mail or electronically. All appeals must be in writing and received by NARA within 60 calendar days from the date of our determination letter.
 
 (1) For appeals submitted via mail, you should mark both your letter and envelope with the words “FOIA Appeal,” and include either your tracking number or a copy of your initial request and our determination letter.

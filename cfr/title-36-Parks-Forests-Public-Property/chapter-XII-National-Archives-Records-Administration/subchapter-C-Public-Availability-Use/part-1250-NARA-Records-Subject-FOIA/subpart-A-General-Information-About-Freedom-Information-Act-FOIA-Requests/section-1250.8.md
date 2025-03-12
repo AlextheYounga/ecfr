@@ -1,5 +1,7 @@
 ##### § 1250.8 Does NARA provide access under FOIA to all the executive branch records housed at NARA facilities? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 (a) NARA provides access under FOIA to the records NARA creates (*operational* records) and records originating in the executive branch that have been transferred to the legal custody of the Archivist of the United States (*archival* records).
 
 (b) NARA's National Personnel Records Center (NPRC), located in St. Louis, Missouri, is the repository for twentieth-century personnel and medical records of former members of the military and personnel records of former civilian employees of the Federal Government.

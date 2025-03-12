@@ -1,0 +1,3 @@
+##### § 1195.1 Standards. #####
+
+The standards for accessible medical diagnostic equipment are set forth in the appendix to this part. Other agencies, referred to as an enforcing authority in the standards, may adopt the standards as mandatory requirements for entities subject to their jurisdiction. Advisory sections and figures that illustrate the technical requirements in the appendix to part 1195 are available on the Internet at: *www.access-board.gov.* These advisory materials provide guidance only and do not contain mandatory requirements.

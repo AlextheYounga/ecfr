@@ -190,13 +190,13 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (i) *Nearshore rockfish* includes black rockfish, *Sebastes melanops* and the following nearshore rockfish species managed in “minor rockfish” complexes:
 
-(A) North of 40°10′ N. lat.: Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish,. *S. serriceps.*
+(A) *North of 40°10′ N. lat.:* Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
 (B) South of 40°10′ N. lat., nearshore rockfish are divided into three management categories:
 
 (*1*) *Shallow nearshore rockfish* consists of black and yellow rockfish, *S. chrysomelas;* China rockfish, *S. nebulosus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens.*
 
-(*2*) Deeper nearshore rockfish consists of black rockfish, *S. melanops;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* copper rockfish, *S. caurinus;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
+(*2*) *Deeper nearshore rockfish* consists of black rockfish, *S. melanops;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
 (*3*) *California scorpionfish, Scorpaena guttata.*
 
@@ -495,4 +495,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017]

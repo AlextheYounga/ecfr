@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 81 FR 95453, Dec. 28, 2016.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -264,11 +262,13 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (4) *Fixed gear* means:
 
-(i) For sablefish harvested from any GOA reporting area, all longline gear and, for purposes of determining initial IFQ allocation, all pot gear used to make a legal landing.
+(i) For sablefish harvested from any GOA reporting area, all longline gear, longline pot gear, and, for purposes of determining initial IFQ allocation, all pot gear used to make a legal landing.
 
 (ii) For sablefish harvested from any BSAI reporting area, all hook-and-line gear and all pot gear.
 
-(iii) For halibut harvested from any IFQ regulatory area, all fishing gear comprised of lines with hooks attached, including one or more stationary, buoyed, and anchored lines with hooks attached.
+(iii) For halibut harvested from any IFQ regulatory area, all fishing gear composed of lines with hooks attached, including one or more stationary, buoyed, and anchored lines with hooks attached.
+
+(iv) For halibut harvested from any GOA reporting area, all longline pot gear, if the vessel operator is fishing for IFQ sablefish in accordance with § 679.42(l).
 
 (5) *Hand troll gear* means one or more lines, with lures or hooks attached, drawn through the water behind a moving vessel, and retrieved by hand or hand-cranked reels or gurdies and not by any electrically, hydraulically, or mechanically powered device or attachment.
 
@@ -724,7 +724,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *IFQ fee percentage* means that positive number no greater than 3 percent (0.03) determined by the Regional Administrator and established for use to calculate the IFQ cost recovery fee liability for an IFQ permit holder.
 
-*IFQ halibut* means any halibut that is harvested with setline or other hook and line gear while commercial fishing in any IFQ regulatory area defined in this section.
+*IFQ halibut* means any halibut that is harvested with setline gear as defined in § 300.61 of this title or fixed gear as defined in this section while commercial fishing in any IFQ regulatory area defined in this section.
 
 *IFQ landing* means the unloading or transferring of any IFQ halibut, CDQ halibut, IFQ sablefish, or products thereof from the vessel that harvested such fish or the removal from the water of a vessel containing IFQ halibut, CDQ halibut, IFQ sablefish, or products thereof.
 
@@ -1272,4 +1272,4 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Wing tip* means the point where adjacent breast lines intersect or where a breast line intersects with the fishing line.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.2, the definition of “Authorized fishing gear,” paragraphs (4)(i), (iii), and (iv), and the definition of “IFQ halibut” are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

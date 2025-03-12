@@ -1,5 +1,7 @@
 ##### § 1250.26 How does NARA process my FOIA request? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 (a) *Acknowledgement.* NARA acknowledges all FOIA requests in writing within 20 working days after receipt by the appropriate office (see 36 CFR 1250.22). The acknowledgement letter or email informs you of your request tracking number, and any complexity in processing that may lengthen the time NARA requires to reach a final decision on the release of the records. The acknowledgement letter or email may also seek additional information to clarify your request or to ask you to narrow the scope of a very large or broad request.
 
 (b) *Clarification of requests.* Requests must reasonably describe the records sought. If we determine that a request does not reasonably describe the records sought, or if we are uncertain about another aspect of the request, we contact you to ask for clarification.

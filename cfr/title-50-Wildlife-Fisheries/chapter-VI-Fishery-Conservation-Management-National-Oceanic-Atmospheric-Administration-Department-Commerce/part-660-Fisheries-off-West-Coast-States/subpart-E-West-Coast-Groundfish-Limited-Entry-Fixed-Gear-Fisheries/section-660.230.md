@@ -16,7 +16,7 @@
 
 (2) For limited entry fixed gear vessels, the following species must be sorted:
 
-(i) *Coastwide* - widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, other fish, longnose skate, and Pacific whiting;
+(i) *Coastwide* - widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue/deacon rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, other fish, longnose skate, big skate, and Pacific whiting;
 
 (ii) North of 40°10′ N. lat. - POP, yellowtail rockfish, cabezon (Oregon and California);
 
@@ -66,4 +66,4 @@
 
 (e) *Black rockfish fishery management.* The trip limit for black rockfish (*Sebastes melanops*) for commercial fishing vessels using hook-and-line gear between the U.S.-Canada border and Cape Alava (48°09.50′ N. lat.), and between Destruction Island (47°40′ N. lat.) and Leadbetter Point (46°38.17′ N. lat.), is 100 lbs (45 kg) or 30 percent, by weight of all fish on board, whichever is greater, per vessel per fishing trip. These per trip limits apply to limited entry and open access fisheries, in conjunction with the cumulative trip limits and other management measures in § 660.230, subpart E, and § 660.330, subpart F. The crossover provisions in § 660.60(h)(7), subpart C, do not apply to the black rockfish per-trip limits.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015]
+[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9662, Feb. 7, 2017]

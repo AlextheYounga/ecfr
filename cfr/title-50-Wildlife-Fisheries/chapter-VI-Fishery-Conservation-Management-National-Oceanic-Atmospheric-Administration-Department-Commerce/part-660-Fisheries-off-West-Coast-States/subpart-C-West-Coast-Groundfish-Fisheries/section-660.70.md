@@ -86,7 +86,31 @@ and connecting back to 48°11.77′ N. lat., 125°13.03′ W. long.
 
 and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
-(g) *Point St. George YRCA.* The Point St. George YRCA is an area off the northern California coast, northwest of Point St. George, intended to protect yelloweye rockfish. The Point St. George YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(g) *Stonewall Bank Yelloweye Rockfish Conservation Area, Expansion 1.* The Stonewall Bank Yelloweye Rockfish Conservation Area (YRCA) Expansion 1 is an area off central Oregon, near Stonewall Bank, intended to protect yelloweye rockfish. The Stonewall Bank YRCA Expansion 1 is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+
+(1) 44°41.76′ N. lat.; 124°30.02′ W. long.;
+
+(2) 44°41.73′ N. lat.; 124°21.60′ W. long.;
+
+(3) 44°25.25′ N. lat.; 124°16.94′ W. long.;
+
+(4) 44°25.29′ N. lat.; 124°30.14′ W. long.;
+
+(5) 44°41.76′ N. lat.; 124°30.02′ W. long.; and connecting back to 44°41.76′ N. lat.; 124°30.02′ W. long.
+
+(h) *Stonewall Bank Yelloweye Rockfish Conservation Area, Expansion 2.* The Stonewall Bank Yelloweye Rockfish Conservation Area (YRCA) Expansion 2 is an area off central Oregon, near Stonewall Bank, intended to protect yelloweye rockfish. The Stonewall Bank YRCA Expansion 2 is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+
+(1) 44°38.54′ N. lat.; 124°27.41′ W. long.;
+
+(2) 44°38.54′ N. lat.; 124°23.86′ W. long.;
+
+(3) 44°27.13′ N. lat.; 124°21.50′ W. long.;
+
+(4) 44°27.13′ N. lat.; 124°26.89′ W. long.;
+
+(5) 44°31.30′ N. lat.; 124°28.35′ W. long.; and connecting back to 44°38.54′ N. lat.; 124°27.41′ W. long.
+
+(i) *Point St. George YRCA.* The Point St. George YRCA is an area off the northern California coast, northwest of Point St. George, intended to protect yelloweye rockfish. The Point St. George YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 41°51.00′ N. lat., 124°23.75′ W. long.;
 
@@ -96,7 +120,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 (4) 41°48.00′ N. lat., 124°23.75′ W. long.; and connecting back to 41°51.00′ N. lat., 124°23.75′ W. long.
 
-(h) *South Reef YRCA.* The South Reef YRCA is an area off the northern California coast, southwest of Crescent City, intended to protect yelloweye rockfish. The South Reef YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(j) *South Reef YRCA.* The South Reef YRCA is an area off the northern California coast, southwest of Crescent City, intended to protect yelloweye rockfish. The South Reef YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 41°42.20′ N. lat., 124°16.00′ W. long.;
 
@@ -106,7 +130,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 (4) 41°40.50′ N. lat., 124°16.00′ W. long.; and connecting back to 41°42.20′ N. lat., 124°16.00′ W. long.
 
-(i) *Reading Rock YRCA.* The Reading Rock YRCA is an area off the northern California coast, between Crescent City and Eureka, intended to protect yelloweye rockfish. The Reading Rock YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(k) *Reading Rock YRCA.* The Reading Rock YRCA is an area off the northern California coast, between Crescent City and Eureka, intended to protect yelloweye rockfish. The Reading Rock YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 41°21.50′ N. lat., 124°12.00′ W. long.;
 
@@ -116,7 +140,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 (4) 41°20.00′ N. lat., 124°12.00′ W. long.; and connecting back to 41°21.50′ N. lat., 124°12.00′ W. long.
 
-(j) *Point Delgada YRCAs.* The Point Delgada YRCAs are two areas off the northern California coast, south of Point Delgada and Shelter Cove, intended to protect yelloweye rockfish. The Northern Point Delgada YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(l) *Point Delgada YRCAs.* The Point Delgada YRCAs are two areas off the northern California coast, south of Point Delgada and Shelter Cove, intended to protect yelloweye rockfish. The Northern Point Delgada YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 39°59.00′ N. lat., 124°05.00′ W. long.;
 
@@ -126,7 +150,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 (4) 39°57.00′ N. lat., 124°05.00′ W. long.; and connecting back to 39°59.00′ N. lat., 124°05.00′ W. long.
 
-(k) *Southern Point Delgada YRCA.* The Southern Point Delgada YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(m) *Southern Point Delgada YRCA.* The Southern Point Delgada YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 39°57.00′ N. lat., 124°05.00′ W. long.;
 
@@ -136,7 +160,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 (4) 39°54.00′ N. lat., 124°05.00′ W. long.; and connecting back to 39°57.00′ N. lat., 124°05.00′ W. long.
 
-(l) *Cowcod Conservation Areas.* The Cowcod Conservation Areas (CCAs) are two areas off the southern California coast intended to protect cowcod. The Western CCA is an area south of Point Conception defined by the straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(n) *Cowcod Conservation Areas.* The Cowcod Conservation Areas (CCAs) are two areas off the southern California coast intended to protect cowcod. The Western CCA is an area south of Point Conception defined by the straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 33°50.00′ N. lat., 119°30.00′ W. long.;
 
@@ -156,7 +180,7 @@ and connecting back to 44°37.46′ N. lat.; 124°24.92′ W. long.
 
 and connecting back to 33°50.00′ N. lat., 119°30.00′ W. long.
 
-(m) The Eastern CCA is an area west of San Diego defined by the straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(o) The Eastern CCA is an area west of San Diego defined by the straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 32°42.00′ N. lat., 118°02.00′ W. long.;
 
@@ -170,9 +194,9 @@ and connecting back to 33°50.00′ N. lat., 119°30.00′ W. long.
 
 and connecting back to 32°42.00′ N. lat., 118°02.00′ W. long.
 
-(n) *Farallon Islands.* The Farallon Islands, off San Francisco and San Mateo Counties, include Southeast Farallon Island, Middle Farallon Island, North Farallon Island and Noon Day Rock. Generally, the State of California prohibits fishing for groundfish between the shoreline and the 10-fm (18-m) depth contour around the Farallon Islands.
+(p) *Farallon Islands.* The Farallon Islands, off San Francisco and San Mateo Counties, include Southeast Farallon Island, Middle Farallon Island, North Farallon Island and Noon Day Rock. Generally, the State of California prohibits fishing for groundfish between the shoreline and the 10-fm (18-m) depth contour around the Farallon Islands.
 
-(o) *Cordell Banks.* Cordell Banks are located offshore of California's Marin County. Generally, fishing for groundfish is prohibited in waters of depths less than 100-fm (183-m) around Cordell Banks as defined by specific latitude and longitude coordinates. The Cordell Banks closed area is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(q) *Cordell Banks.* Cordell Banks are located offshore of California's Marin County. Generally, fishing for groundfish is prohibited in waters of depths less than 100-fm (183-m) around Cordell Banks as defined by specific latitude and longitude coordinates. The Cordell Banks closed area is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 38°03.18′ N. lat., 123°20.77′ W. long.;
 
@@ -194,7 +218,7 @@ and connecting back to 32°42.00′ N. lat., 118°02.00′ W. long.
 
 and connecting back to 38°03.18′ N. lat., 123°20.77′ W. long.
 
-(p) *Rockfish Conservation Areas.* RCA restrictions are detailed in subparts D through G. RCAs may apply to a single gear type or to a group of gear types such as “trawl RCAs” or “non-trawl RCAs.” Specific latitude and longitude coordinates for RCA boundaries that approximate the depth contours selected for trawl, non-trawl, and recreational RCAs are provided in §§ 660.71 through 660.74. Also provided in §§ 660.71 through 660.74, are references to islands and rocks that serve as reference points for the RCAs.
+(r) *Rockfish Conservation Areas.* RCA restrictions are detailed in subparts D through G. RCAs may apply to a single gear type or to a group of gear types such as “trawl RCAs” or “non-trawl RCAs.” Specific latitude and longitude coordinates for RCA boundaries that approximate the depth contours selected for trawl, non-trawl, and recreational RCAs are provided in §§ 660.71 through 660.74. Also provided in §§ 660.71 through 660.74, are references to islands and rocks that serve as reference points for the RCAs.
 
 (1) *Trawl (Limited Entry and Open Access Nongroundfish Trawl Gears) Rockfish Conservation Areas.* Trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates intended to approximate particular depth contours. Boundaries for the trawl RCA throughout the year are provided in Table 1 (North) and Table 1 (South), and may be modified by NMFS inseason pursuant to § 660.60(c). Trawl RCA boundaries are defined by specific latitude and longitude coordinates and are provided in §§ 660.71 through 660.74.
 
@@ -202,4 +226,4 @@ and connecting back to 38°03.18′ N. lat., 123°20.77′ W. long.
 
 (3) *Recreational Rockfish Conservation Areas.* Recreational RCAs are closed areas intended to protect overfished rockfish species. Recreational RCAs may either have boundaries defined by general depth contours or boundaries defined by specific latitude and longitude coordinates intended to approximate particular depth contours. Boundaries for the recreational RCAs throughout the year are provided in the text in subpart G under each state (Washington, Oregon and California) and may be modified by NMFS inseason pursuant to § 660.60(c). Recreational RCA boundaries are defined by specific latitude and longitude coordinates and are provided in §§ 660.71 through 660.74.
 
-[71 FR 78663, Dec. 29, 2006, as amended at 72 FR 53167, Sept. 18, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 53835, Aug. 30, 2011]
+[71 FR 78663, Dec. 29, 2006, as amended at 72 FR 53167, Sept. 18, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 53835, Aug. 30, 2011; 82 FR 9640, Feb. 7, 2017]

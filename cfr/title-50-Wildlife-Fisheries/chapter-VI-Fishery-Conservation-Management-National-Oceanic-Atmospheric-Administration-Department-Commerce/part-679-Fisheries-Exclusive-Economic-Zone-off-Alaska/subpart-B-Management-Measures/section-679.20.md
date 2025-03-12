@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -20,9 +18,11 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (ii) *Socioeconomic considerations.* Socioeconomic considerations that are consistent with the goals of the fishery management plans for the groundfish fisheries of the BSAI and the GOA, including the need to promote efficiency in the utilization of fishery resources, including minimizing costs; the need to manage for the optimum marketable size of a species; the impact of groundfish harvests on prohibited species and the domestic target fisheries that utilize these species; the desire to enhance depleted stocks; the seasonal access to the groundfish fishery by domestic fishing vessels; the commercial importance of a fishery to local communities; the importance of a fishery to subsistence users; and the need to promote utilization of certain species.
 
-(4) *Sablefish TAC* - (i) *Eastern GOA regulatory area.* Vessels in the Eastern GOA regulatory area of the GOA using trawl gear will be allocated 5 percent of the sablefish TAC for bycatch in other trawl fisheries.
+(4) *Sablefish TAC* - (i) *Eastern GOA regulatory area* - (A) *Fixed gear.* Vessels in the Eastern GOA regulatory area using fixed gear will be allocated 95 percent of the sablefish TAC.
 
-(ii) *Central and western GOA regulatory areas* - (A) *Hook-and-line gear.* Vessels in the Central and western GOA regulatory areas using hook-and-line gear will be allocated 80 percent of the sablefish TAC in each of the Central and Western GOA regulatory areas.
+(B) *Trawl gear.* Vessels in the Eastern GOA regulatory area using trawl gear will be allocated 5 percent of the sablefish TAC for bycatch in other trawl fisheries.
+
+(ii) *Central and Western GOA regulatory areas* - (A) *Fixed gear.* Vessels in the Central and Western GOA regulatory areas using fixed gear will be allocated 80 percent of the sablefish TAC in each of the Central and Western GOA regulatory areas.
 
 (B) *Trawl gear.* Vessels using trawl gear will be allocated 20 percent of the sablefish TAC in these areas.
 
@@ -580,4 +580,4 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iii) Amounts of DSR retained by catcher vessels under paragraph (j)(1) of this section that are in excess of the limits specified in paragraphs (j)(2)(i) and (ii) may be put to any use, including but not limited to personal consumption or donation, but must not enter commerce through sale, barter, or trade.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.20, paragraph (a)(4)(i), the paragraph (a)(4)(ii) heading, and paragraph (a)(4)(ii)(A) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

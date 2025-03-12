@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -18,9 +16,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (5) [Reserved]
 
-(6) *Gear.* Deploy any trawl, longline, single pot-and-line, or jig gear in an area when directed fishing for, or retention of, all groundfish by operators of vessels using that gear type is prohibited in that area, except that this paragraph (a)(6) shall not prohibit:
+(6) *Gear.* Deploy any trawl, longline, longline pot, pot-and-line, or jig gear in an area when directed fishing for, or retention of, all groundfish by operators of vessels using that gear type is prohibited in that area, except that this paragraph (a)(6) shall not prohibit:
 
-(i) Deployment of hook-and-line gear by operators of vessels fishing for halibut during seasons prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of chapter III of this title.
+(i) Deployment of fixed gear, as defined in § 679.2 under “Authorized fishing gear,” by an operator of a vessel fishing for IFQ halibut during the fishing period prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title.
 
 (ii) Deployment of pot gear by operators of vessels fishing for crab during seasons governed by the State of Alaska.
 
@@ -66,11 +64,11 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (12) *Prohibited species donation program.* Retain or possess prohibited species, defined at § 679.21(a)(1), except as permitted to do so under the PSD program as provided by § 679.26, or as authorized by other applicable law.
 
-(13) *Halibut.* With respect to halibut caught with hook-and-line gear deployed from a vessel fishing for groundfish, except for vessels fishing for halibut as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of chapter III of this title:
+(13) *Halibut.* With respect to halibut caught with fixed gear, as defined in § 679.2 under the definition of “Authorized fishing gear,” deployed from a vessel fishing for groundfish, except for vessels fishing for halibut as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title:
 
 (i) Fail to release the halibut outboard a vessel's rails.
 
-(ii) Release the halibut by any method other than - (A) Cutting the gangion.
+(ii) Release halibut caught with longline gear by any method other than -
 
 (B) Positioning the gaff on the hook and twisting the hook from the halibut.
 
@@ -78,7 +76,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iii) Puncture the halibut with a gaff or other device.
 
-(iv) Allow the halibut to contact the vessel, if such contact causes, or is capable of causing, the halibut to be stripped from the hook.
+(iv) Allow halibut caught with longline gear to contact the vessel, if such contact causes, or is capable of causing, the halibut to be stripped from the hook.
 
 (14) *Trawl gear performance standard* - (i) *BSAI.* Use a vessel to participate in a directed fishery for pollock using trawl gear and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
 
@@ -338,6 +336,28 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 (15) Hire a master to fish for IFQ halibut or IFQ sablefish that is derived from QS held by a CQE.
 
 (16) Process IFQ halibut or IFQ sablefish onboard a vessel on which a person is using IFQ derived from QS held by a CQE.
+
+(17) Deploy, conduct fishing with, or retrieve longline pot gear in the GOA before the start or after the end of the IFQ sablefish fishing period specified in § 679.23(g)(1).
+
+(18) Deploy, conduct fishing with, retrieve, or retain IFQ sablefish or IFQ halibut from longline pot gear in the GOA:
+
+(i) In excess of the pot limits specified in § 679.42(l)(5)(ii); or
+
+(ii) Without a pot tag attached to each pot in accordance with § 679.42(l)(4).
+
+(19) Deploy, conduct fishing with, or retain IFQ sablefish or IFQ halibut in the GOA from a pot with an attached pot tag that has a serial number assigned to another vessel or has been reported lost, stolen, or mutilated to NMFS in a request for a replacement pot tag as described in § 679.42(l)(3)(iii).
+
+(20) Deploy longline pot gear to fish IFQ sablefish in the GOA without marking the gear in accordance with § 679.24(a).
+
+(21) Fail to retrieve and remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel to fish IFQ sablefish in the Southeast Outside District of the GOA when the vessel makes an IFQ landing.
+
+(22) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the Southeast Outside District of the GOA.
+
+(23) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the West Yakutat District of the GOA and the Central GOA regulatory area.
+
+(24) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within seven days of deploying the gear to fish IFQ sablefish in the Western GOA regulatory area.
+
+(25) Operate a catcher vessel or a catcher/processor using longline pot gear to fish IFQ sablefish or IFQ halibut in the GOA and fail to use functioning VMS equipment as required in § 679.42(k)(2).
 
 (g) *Groundfish and Halibut Observer Program.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
 
@@ -633,4 +653,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (p) *Arctic Management Area.* Conduct commercial fishing for any Arctic fish in the Arctic Management Area.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.7, paragraphs (a)(6) introductory text, (a)(6)(i), (a)(13) introductory text, (a)(13)(ii) introductory text, (a)(13)(iv), and (f)(17) through (25) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

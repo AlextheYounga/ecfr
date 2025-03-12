@@ -216,7 +216,7 @@ Boundaries for RCAs are defined by straight lines connecting a series of latitud
 
 (106) 37°50.21′ N. lat., 123°14.90′ W. long.;
 
-(107) 37°35.67′ N. lat., 122°55.43′ W. long.;
+(107) 37°45.57′ N. lat., 123°9.46′ W. long.;
 
 (108) 37°11.00′ N. lat., 122°31.67′ W. long.;
 
@@ -1756,4 +1756,4 @@ and connecting back to 48°30.15′ N. lat., 124°56.12′ W. long.
 
 (18) 33°28.17′ N. lat., 118°38.16′ W. long.
 
-[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015]
+[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017]

@@ -1,7 +1,5 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 81 FR 95456, Dec. 28, 2016.
-
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
 
 (i) Notwithstanding § 679.4(d)(1), § 679.7(f)(4) and (f)(11), § 679.40(b)(1), (c)(3), and (e), from July 22, 2005 to November 15, 2005, all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
@@ -18,9 +16,13 @@ Link to an amendment published at 81 FR 95456, Dec. 28, 2016.
 
 (iv) In IFQ regulatory areas 3B, 4B, and 4C, category D QS and associated IFQ authorizes an IFQ permit holder to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA.
 
-(b) *Gear* - (1) *IFQ Fisheries.* Halibut IFQ must be used only to harvest halibut with fishing gear authorized in § 679.2. Sablefish fixed gear IFQ must not be used to harvest sablefish with trawl gear in any IFQ regulatory area, or with pot gear in any IFQ regulatory area of the GOA.
+(b) *Gear* - (1) *IFQ Fisheries.* Authorized fishing gear to harvest IFQ halibut and IFQ sablefish is defined in § 679.2.
 
-(2) *Seabird avoidance gear and methods.* The operator of a vessel using gear authorized at § 679.2 while fishing for IFQ halibut, CDQ halibut, or hook-and-line gear while fishing for IFQ sablefish must comply with requirements for seabird avoidance gear and methods set forth at § 679.24(e).
+(i) *IFQ halibut.* IFQ halibut must not be harvested with trawl gear in any IFQ regulatory area, or with pot gear in any IFQ regulatory area in the BSAI.
+
+(ii) *IFQ sablefish.* IFQ sablefish must not be harvested with trawl gear in any IFQ regulatory area, or with pot-and-line gear in the GOA. A vessel operator using longline pot gear in the GOA to fish for IFQ sablefish must comply with the GOA sablefish longline pot gear requirements in paragraph (l) of this section.
+
+(2) *Seabird avoidance gear and methods.* The operator of a vessel using hook-and-line gear authorized at § 679.2 while fishing for IFQ halibut, CDQ halibut, or IFQ sablefish must comply with requirements for seabird avoidance gear and methods set forth at § 679.24(e).
 
 (c) *Permit holder aboard requirement.* Any individual who harvests halibut or sablefish with fixed gear must have a valid IFQ permit, and if a hired master is conducting the harvest, a valid IFQ hired master permit, and must be aboard the vessel at all times during the fishing trip and be present during the landing.
 
@@ -250,10 +252,112 @@ Link to an amendment published at 81 FR 95456, Dec. 28, 2016.
 
 (10) Paragraphs (j)(1) and (j)(9) of this section do not apply to any QS assigned to vessel category B, C, or D received by transfer after February 12, 2010, by an entity described in paragraph (j)(1) except a hired master may be used to harvest IFQ derived from QS that were consolidated under § 679.41(e)(2) or (e)(3) after February 12, 2010, and before December 1, 2014.
 
-(k) *Sablefish vessel clearance requirements* - (1) *General.* Any vessel operator who fishes for sablefish in the Bering Sea or Aleutian Islands IFQ regulatory areas must possess a transmitting VMS transmitter while fishing for sablefish.
+(k) *Sablefish vessel clearance requirements* - (1) *Bering Sea or Aleutian Islands.* (i) *General.* Any vessel operator who fishes for IFQ sablefish in the Bering Sea or Aleutian Islands must possess a transmitting VMS transmitter while fishing for IFQ sablefish.
 
-(2) *VMS requirements.* (i) The operator of the vessel must comply with § 679.28(f)(3), (f)(4), and (f)(5); and
+(ii) *VMS requirements.* (A) The operator of the vessel must comply with VMS requirements at § 679.28(f)(3), (f)(4), and (f)(5); and
 
-(ii) The operator of the vessel must contact NMFS at 800-304-4846 (option 1) between 0600 and 0000 A.l.t. and receive a VMS confirmation number at least 72 hours prior to fishing for sablefish in the Bering Sea or Aleutian Islands IFQ regulatory areas.
+(B) The operator of the vessel must contact NMFS at 800-304-4846 (option 1) between 0600 and 0000 A.l.t. and receive a VMS confirmation number at least 72 hours prior to fishing for IFQ sablefish in the Bering Sea or Aleutian Islands.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(2) *Gulf of Alaska.* (i) *General.* A vessel operator using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska must possess a transmitting VMS transmitter while fishing for sablefish.
+
+(ii) *VMS requirements.* (A) The operator of the vessel must comply with VMS requirements at § 679.28(f)(3), (f)(4), and (f)(5); and
+
+(B) The operator of the vessel must contact NMFS at 800-304-4846 (option 1) between 0600 and 0000 A.l.t. and receive a VMS confirmation number at least 72 hours prior to using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska.
+
+(l) *GOA sablefish longline pot gear requirements.* Additional regulations that implement specific requirements for any vessel operator who fishes for IFQ sablefish in the GOA using longline pot gear are set out under: § 300.61 Definitions, § 679.2 Definitions, § 679.5 Recordkeeping and reporting (R&R), § 679.7 Prohibitions, § 679.20 General limitations, § 679.23 Seasons, § 679.24 Gear limitations, and § 679.51 Observer requirements for vessels and plants.
+
+(1) *Applicability.* Any vessel operator who fishes for IFQ sablefish with longline pot gear in the GOA must comply with the requirements of this paragraph (l). The IFQ regulatory areas in the GOA include the Southeast Outside District of the GOA, the West Yakutat District of the GOA, the Central GOA regulatory area, and the Western GOA regulatory area.
+
+(2) *General.* To use longline pot gear to fish for IFQ sablefish in the GOA, a vessel operator must:
+
+(i) Request and be issued pot tags from NMFS as specified in paragraph (l)(3);
+
+(ii) Use pot tags as specified in paragraph (l)(4);
+
+(iii) Deploy and retrieve longline pot gear as specified in paragraph (l)(5);
+
+(iv) Retain IFQ halibut caught in longline pot gear if sufficient halibut IFQ is held by persons on board the vessel as specified in paragraph (l)(6); and
+
+(v) Comply with other requirements as specified in paragraph (l)(7).
+
+(3) *Pot tags.* (i) *Request for pot tags.* (A) The owner of a vessel that uses longline pot gear to fish for IFQ sablefish in the GOA must use pot tags issued by NMFS. A vessel owner may only receive pot tags from NMFS for each vessel that uses longline pot gear to fish for IFQ sablefish in the GOA by submitting a complete IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form according to form instructions. The form is located on the NMFS Alaska Region Web site at *alaskafisheries.noaa.gov.*
+
+(B) The vessel owner must specify the number of requested pot tags for each vessel for each IFQ regulatory area in the GOA (up to the maximum number of pots specified in paragraph (l)(5)(ii) of this section) on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form.
+
+(ii) *Issuance of pot tags.* (A) Upon submission of a completed IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form, NMFS will assign each pot tag to the vessel specified on the form.
+
+(B) Each pot tag will be a unique color that is specific to the IFQ regulatory area in the GOA in which it must be deployed and imprinted with a unique serial number.
+
+(C) NMFS will send the pot tags to the vessel owner at the address provided on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form.
+
+(iii) *Request for pot tag replacement.* (A) The vessel owner may submit a request to NMFS to replace pot tags that are lost, stolen, or mutilated.
+
+(B) The vessel owner to whom the lost, stolen, or mutilated pot tag was issued must submit a complete IFQ Sablefish Request for Replacement of Longline Pot Gear Tags form according to form instructions. The form is located on the NMFS Alaska Region Web site at *alaskafisheries.noaa.gov.*
+
+(C) A complete form must be signed by the vessel owner and is a sworn affidavit to NMFS indicating the reason for the request for a replacement pot tag or pot tags and the number of replacement pot tags requested by IFQ regulatory area.
+
+(D) NMFS will review a request to replace a pot tag or tags and will issue the appropriate number of replacement pot tags. The total number of pot tags issued to a vessel owner for an IFQ regulatory area in the GOA cannot exceed the maximum number of pots authorized for use by a vessel in that IFQ regulatory area specified in paragraph (l)(5)(ii) of this section. The total number of pot tags issued to a vessel owner for an IFQ regulatory area in the GOA equals the sum of the number of pot tags issued for that IFQ regulatory area that have not been replaced plus the number of replacement pot tags issued for that IFQ regulatory area.
+
+(iv) *Annual vessel registration and pot tag assignment.* (A) The owner of a vessel that uses longline pot gear to fish for IFQ sablefish in the GOA must annually register the vessel with NMFS and specify the pot tags that NMFS will assign to the vessel. Pot tags must be assigned to only one vessel each year.
+
+(B) To register a vessel and assign pot tags, the vessel owner must annually submit a complete IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form to NMFS.
+
+(*1*) The vessel owner must specify the vessel to be registered on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form. The specified vessel must have a valid ADF&G vessel registration number.
+
+(*2*) The vessel owner must specify on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form either that the vessel owner is requesting that NMFS assign pot tags to a vessel to which the pot tags were previously assigned or that the vessel owner is requesting new pot tags from NMFS.
+
+(4) *Using pot tags.* (i) Each pot used to fish for IFQ sablefish in the GOA must be identified with a valid pot tag. A valid pot tag is:
+
+(A) Issued by NMFS according to paragraph (l)(3) of this section;
+
+(B) The color specific to the regulatory area in which it will be used; and
+
+(C) Inscribed with a legible unique serial number.
+
+(ii) A valid pot tag must be attached to each pot on board the vessel to which the pot tags are assigned before the vessel departs port to fish.
+
+(iii) A valid pot tag must be attached to a pot bridge or cross member such that the entire pot tag is visible and not obstructed.
+
+(5) *Restrictions on GOA longline pot gear deployment and retrieval* - (i) *General.*
+
+(A) A vessel operator must mark longline pot gear used to fish IFQ sablefish in the GOA as specified in § 679.24(a).
+
+(B) A vessel operator must deploy and retrieve longline pot gear to fish IFQ sablefish in the GOA only during the sablefish fishing period specified in § 679.23(g)(1).
+
+(C) The gear retrieval and removal requirements in paragraphs (l)(5)(iii) and (iv) of this section apply to all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish and to all other fishing equipment attached to longline pot gear that is deployed in the water by the vessel to fish IFQ sablefish. All other fishing equipment attached to longline pot gear includes, but is not limited to, equipment used to mark longline pot gear as required in § 679.24(a)(3).
+
+(ii) *Pot limits.* A vessel operator is limited to deploying a maximum number of pots to fish IFQ sablefish in each IFQ regulatory area in the GOA.
+
+(A) In the Southeast Outside District of the GOA, a vessel operator is limited to deploying a maximum of 120 pots.
+
+(B) In the West Yakutat District of the GOA, a vessel operator is limited to deploying a maximum of 120 pots.
+
+(C) In the Central GOA regulatory area, a vessel operator is limited to deploying a maximum of 300 pots.
+
+(D) In the Western GOA regulatory area, a vessel operator is limited to deploying a maximum of 300 pots.
+
+(iii) *Gear retrieval.* (A) In the Southeast Outside District of the GOA, a catcher vessel operator must retrieve and remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish when the vessel makes an IFQ landing.
+
+(B) In the Southeast Outside District of the GOA, a catcher/processor must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
+
+(C) In the West Yakutat District of the GOA and the Central GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
+
+(D) In the Western GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within seven days of deploying the gear.
+
+(iv) *Longline pot gear used on multiple vessels.* Longline pot gear assigned to one vessel and deployed to fish IFQ sablefish in the GOA must be removed from the fishing grounds, returned to port, and must have only one set of the appropriate vessel-specific pot tags before being deployed by another vessel to fish IFQ sablefish in the GOA.
+
+(6) *Retention of halibut.* (i) A vessel operator who fishes for IFQ sablefish using longline pot gear must retain IFQ halibut if:
+
+(A) The IFQ halibut is caught in any GOA reporting area in accordance with paragraph (l) of this section; and
+
+(B) An IFQ permit holder on board the vessel has unused halibut IFQ for the IFQ regulatory area fished and IFQ vessel category.
+
+(ii) [Reserved]
+
+(7) *Other requirements.* A vessel operator who fishes for IFQ sablefish using longline pot gear in the GOA must:
+
+(i) Complete a longline and pot gear Daily Fishing Logbook (DFL) or Daily Cumulative Production Logbook (DCPL) as specified in § 679.5(c); and
+
+(ii) Comply with Vessel Monitoring System (VMS) requirements specified in paragraph (k)(2) of this section.
+
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.42, paragraphs (b)(1) and (2), (k)(1) and (2), and paragraph (l) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

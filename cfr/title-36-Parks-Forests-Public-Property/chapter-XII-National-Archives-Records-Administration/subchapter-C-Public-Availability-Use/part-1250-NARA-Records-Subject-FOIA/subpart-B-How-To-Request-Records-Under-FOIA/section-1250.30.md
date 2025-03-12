@@ -1,5 +1,7 @@
 ##### § 1250.30 How does NARA respond to my request? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 (a) NARA sends you a response informing you of our release determination, including whether any responsive records were located, how much responsive material was located, whether the records have been released in full or withheld in full or in part, where you may review the records, and any fees you must pay for the request. We will use plain language in all written communications with requesters.
 
 (b) If we deny any part of your request, our response will explain the reasons for the denial, which FOIA exemptions apply to withhold records, and your right to appeal that determination.

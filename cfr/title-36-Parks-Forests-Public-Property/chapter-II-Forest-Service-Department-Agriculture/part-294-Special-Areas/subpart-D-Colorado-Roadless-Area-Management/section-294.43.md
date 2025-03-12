@@ -1,6 +1,6 @@
 ##### § 294.43 Prohibition on road construction and reconstruction. #####
 
-Link to an amendment published at 81 FR 91821, Dec. 19, 2016.
+Link to an amendment published at 81 FR 91821, Dec. 19, 2016.This amendment was delayed until Apr. 17, 2017 at 82 FR 9974, Feb. 9, 2017.
 
 (a) *General.* A road may not be constructed or reconstructed in a Colorado Roadless Area except as provided in paragraphs (b) and (c) of this section.
 

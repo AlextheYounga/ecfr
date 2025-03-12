@@ -1,7 +1,5 @@
 ##### § 679.23 Seasons. #####
 
-Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
-
 (a) *Groundfish, general.* Fishing for groundfish in the GOA and BSAI is authorized from 0001 hours, A.l.t., January 1, through 2400 hours, A.l.t., December 31, subject to the other provisions of this part, except as provided in paragraph (c) of this section.
 
 (b) *Time of groundfish openings and closures.* The time of all openings and closures of fishing seasons, other than the beginning and end of the calendar fishing year, is 1200 hours, A.l.t.
@@ -96,7 +94,7 @@ Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
 
 (g) *IFQ sablefish.* (1) Directed fishing for sablefish using fixed gear in any IFQ regulatory area may be conducted in any fishing year during the period specified by the Regional Administrator and announced by publication in the Federal Register. The Regional Administrator will take into account the opening date of the halibut season when determining the opening date for sablefish for the purposes of reducing bycatch and regulatory discards between the two fisheries.
 
-(2) Catches of sablefish by fixed gear during other periods may be retained up to the amounts provided for by the directed fishing standards specified at § 679.20 when made by an individual aboard the vessel who has a valid IFQ permit and unused IFQ in the account on which the permit was issued.
+(2) Except for catches of sablefish with longline pot gear in the GOA, catches of sablefish by fixed gear during other periods may be retained up to the amounts provided for by the directed fishing standards specified at § 679.20 when made by an individual aboard the vessel who has a valid IFQ permit and unused IFQ in the account on which the permit was issued.
 
 (3) Catches of sablefish in excess of the maximum retainable bycatch amounts and catches made without IFQ must be treated in the same manner as prohibited species as defined at § 679.21(a).
 
@@ -110,4 +108,4 @@ Link to an amendment published at 81 FR 95455, Dec. 28, 2016.
 
 (i) *Catcher vessel exclusive fishing seasons for pollock.* Catcher vessels are prohibited from participating in directed fishing for pollock under the following conditions. Vessels less than 125 ft (38.1 m) LOA are exempt from this restriction when fishing east of 157°00′ W long. GOA and BSAI seasons are specified at § 679.23(d)(2) and § 679.23(e)(2).
 
-![](/graphics/er02ja03.006.gif)[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er02ja03.006.gif)[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.23, paragraph (g)(2) is stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.

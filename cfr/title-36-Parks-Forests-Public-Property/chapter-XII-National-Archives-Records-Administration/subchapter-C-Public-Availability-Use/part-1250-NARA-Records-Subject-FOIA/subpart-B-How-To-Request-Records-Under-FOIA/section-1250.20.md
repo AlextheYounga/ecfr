@@ -1,5 +1,7 @@
 ##### § 1250.20 What do I include in my FOIA request? #####
 
+Link to an amendment published at 82 FR 8902, February 1, 2017.
+
 In your FOIA request:
 
 (a) Describe the records you seek in sufficient detail to enable NARA staff to locate them with a reasonable amount of effort. The more information you provide, the better possibility NARA has of finding the records you are seeking. Information that will help NARA find the records includes:

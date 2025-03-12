@@ -60,7 +60,7 @@
 
 (d) *Sorting.* In addition to the requirements at § 660.12(a)(8), the States of Washington, Oregon, and California may also require that vessels record their landings as sorted on their state landing receipt. Sector-specific sorting requirements and exceptions are listed at paragraphs (d)(2) and (d)(3) of this section.
 
-(1) *Species and areas* - (i) *Coastwide.* Widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, other fish, longnose skate, and Pacific whiting; and big skate in the Shorebased IFQ Program;
+(1) *Species and areas* - (i) *Coastwide.* Widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue/deacon rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, other fish, longnose skate, Pacific whiting, and big skate.
 
 (ii) *North of 40°10′ N. lat.* POP, yellowtail rockfish;
 
@@ -114,4 +114,4 @@
 
 (7) *Eureka management area midwater trawl trip limits.* No more than 10,000-lb (4,536 kg) of whiting may be taken and retained, possessed, or landed by a vessel that, at any time during a fishing trip, fished with midwater groundfish trawl gear in the fishery management area shoreward of the 100 fm (183 m) depth contour in the Eureka management area.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015; 82 FR 9658, Feb. 7, 2017]
