@@ -1,5 +1,7 @@
 ##### § 121.470 Applicability. #####
 
+Link to an amendment published at 88 FR 48090, July 26, 2023.
+
 This subpart prescribes flight time limitations and rest requirements for domestic all-cargo operations, except that:
 
 (a) Certificate holders conducting operations with airplanes having a passenger seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, may comply with the applicable requirements of §§ 135.261 through 135.273 of this chapter.

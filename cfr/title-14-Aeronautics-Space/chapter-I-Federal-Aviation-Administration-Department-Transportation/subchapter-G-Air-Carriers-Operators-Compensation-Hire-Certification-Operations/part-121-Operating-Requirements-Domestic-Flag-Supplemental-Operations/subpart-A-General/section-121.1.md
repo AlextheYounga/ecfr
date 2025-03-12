@@ -1,5 +1,7 @@
 ##### § 121.1 Applicability. #####
 
+Link to an amendment published at 88 FR 48090, July 26, 2023.
+
 This part prescribes rules governing—
 
 (a) The domestic, flag, and supplemental operations of each person who holds or is required to hold an Air Carrier Certificate or Operating Certificate under part 119 of this chapter.

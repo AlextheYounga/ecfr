@@ -1,5 +1,7 @@
 ##### § 119.21 Commercial operators engaged in intrastate common carriage and direct air carriers. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) Each person who conducts airplane operations as a commercial operator engaged in intrastate common carriage of persons or property for compensation or hire in air commerce, or as a direct air carrier, shall comply with the certification and operations specifications requirements in subpart C of this part, and shall conduct its:
 
 (1) Domestic operations in accordance with the applicable requirements of part 121 of this chapter, and shall be issued operations specifications for those operations in accordance with those requirements. However, based on a showing of safety in air commerce, the Administrator may permit persons who conduct domestic operations between any point located within any of the following Alaskan islands and any point in the State of Alaska to comply with the requirements applicable to flag operations contained in subpart U of part 121 of this chapter:

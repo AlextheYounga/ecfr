@@ -1,5 +1,7 @@
 ##### § 136.9 Life preservers for over water. #####
 
+Link to an amendment published at 88 FR 48091, July 26, 2023.
+
 (a) Except as provided in paragraphs (b) or (c) of this section, the operator and pilot in command of commercial air tours over water beyond the shoreline must ensure that each occupant is wearing a life preserver from before takeoff until flight is no longer over water.
 
 (b) The operator and pilot in command of a commercial air tour over water beyond the shoreline must ensure that a life preserver is readily available for its intended use and easily accessible to each occupant if:

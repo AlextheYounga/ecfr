@@ -328,6 +328,11 @@
 |            (54) N,N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Metonitazene)            |9757|
 |(55) 2-(4-ethoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-1H-benzimidazole, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other names: N-pyrrolidino etonitazene; etonitazepyne)|9758|
 |           (56) N,N-diethyl-2-(5-nitro-2-(4-propoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Protonitazene)            |9759|
+|                       (57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam) 2780                        |    |
+|                       (58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam) 2785                       |    |
+|                         (59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam) 2786                         |    |
+|                       (60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam) 2788                        |    |
+|                           (61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo[e][1,4]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam) 2789                           |    |
 
 [39 FR 22141, June 20, 1974]Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
@@ -338,3 +343,5 @@ Effective Date Notes:
 1.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12. Effective Sept. 30, 2021, Congress extended the effective period for paragraph (h)(30) until Jan. 28, 2022, by Public Law 117-43. Effective Jan. 13, 2022, Congress extended the effective period for paragraph (h)(30) until Feb. 18, 2022, by Public Law 117-70. Effective Feb. 18, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 11, 2022, by Public Law 117-86. Effective Mar. 11, 2022, Congress extended the effective period for paragraph (h)(30) until Mar. 15, 2022 by Public Law 117-95. Effective Mar. 15, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2022 by Public Law No. 117-103. Effective Dec. 29, 2022, Congress extended the effective period for paragraph (h)(30) until Dec. 31, 2024 by Public Law No. 117-328.
 
 2. At 87 FR 21561, Apr. 12, 2022, § 1308.11 was amended by adding paragraphs (h)(50) through (h)(56), effective Apr. 12, 2022 through Apr. 12, 2024.
+
+3. At 88 FR 48118, July 26, 2023, § 1308.11 was amended by adding paragraphs (h)(57) through (h)(61), effective July 26, 2023 through July 26, 2025.

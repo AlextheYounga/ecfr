@@ -1,5 +1,7 @@
 ##### § 91.1015 Management specifications. #####
 
+Link to an amendment published at 88 FR 48087, July 26, 2023.
+
 (a) Each person conducting operations under this subpart or furnishing fractional ownership program management services to fractional owners must do so in accordance with management specifications issued by the Administrator to the fractional ownership program manager under this subpart. Management specifications must include:
 
 (1) The current list of all fractional owners and types of aircraft, registration markings and serial numbers;

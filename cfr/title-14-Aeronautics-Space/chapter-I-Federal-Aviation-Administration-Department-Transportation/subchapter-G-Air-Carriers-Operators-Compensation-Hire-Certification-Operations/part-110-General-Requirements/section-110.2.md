@@ -1,5 +1,7 @@
 ##### § 110.2 Definitions. #####
 
+Link to an amendment published at 88 FR 48087, July 26, 2023.
+
 For the purpose of this subchapter, the term—
 
 *All-cargo operation* means any operation for compensation or hire that is other than a passenger-carrying operation or, if passengers are carried, they are only those specified in § 121.583(a) or § 135.85 of this chapter.

@@ -1,5 +1,7 @@
 ##### § 136.11 Helicopter floats for over water. #####
 
+Link to an amendment published at 88 FR 48091, July 26, 2023.
+
 (a) A helicopter used in commercial air tours over water beyond the shoreline must be equipped with fixed floats or an inflatable flotation system adequate to accomplish a safe emergency ditching, if—
 
 (1) It is a single-engine helicopter; or

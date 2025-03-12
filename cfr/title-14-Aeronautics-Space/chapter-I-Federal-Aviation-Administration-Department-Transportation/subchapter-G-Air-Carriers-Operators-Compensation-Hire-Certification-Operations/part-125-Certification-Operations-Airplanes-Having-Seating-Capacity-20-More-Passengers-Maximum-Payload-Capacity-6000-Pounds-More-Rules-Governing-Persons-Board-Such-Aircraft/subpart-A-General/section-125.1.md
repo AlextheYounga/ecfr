@@ -1,5 +1,7 @@
 ##### § 125.1 Applicability. #####
 
+Link to an amendment published at 88 FR 48090, July 26, 2023.
+
 (a) Except as provided in paragraphs (b), (c) and (d) of this section, this part prescribes rules governing the operations of U.S.-registered civil airplanes which have a seating configuration of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more when common carriage is not involved.
 
 (b) The rules of this part do not apply to the operations of airplanes specified in paragraph (a) of this section, when—

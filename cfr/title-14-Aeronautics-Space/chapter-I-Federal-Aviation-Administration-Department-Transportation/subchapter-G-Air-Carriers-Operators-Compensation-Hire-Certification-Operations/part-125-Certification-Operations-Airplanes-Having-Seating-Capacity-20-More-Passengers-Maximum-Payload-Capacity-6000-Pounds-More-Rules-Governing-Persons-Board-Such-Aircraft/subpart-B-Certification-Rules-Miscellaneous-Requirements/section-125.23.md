@@ -1,5 +1,7 @@
 ##### § 125.23 Rules applicable to operations subject to this part. #####
 
+Link to an amendment published at 88 FR 48090, July 26, 2023.
+
 Each person operating an airplane in operations under this part shall—
 
 (a) While operating inside the United States, comply with the applicable rules in part 91 of this chapter; and

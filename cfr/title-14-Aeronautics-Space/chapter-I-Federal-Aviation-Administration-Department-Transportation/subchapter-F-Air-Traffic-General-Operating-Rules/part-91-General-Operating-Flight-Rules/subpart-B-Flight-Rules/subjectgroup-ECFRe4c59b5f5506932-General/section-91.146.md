@@ -1,5 +1,7 @@
 ##### § 91.146 Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event. #####
 
+Link to an amendment published at 88 FR 48087, July 26, 2023.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Charitable event* means an event that raises funds for the benefit of a charitable organization recognized by the Department of the Treasury whose donors may deduct contributions under section 170 of the Internal Revenue Code (26 U.S.C. Section 170).

@@ -1,5 +1,7 @@
 ##### § 119.65 Management personnel required for operations conducted under part 121 of this chapter. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) Each certificate holder must have sufficient qualified management and technical personnel to ensure the highest degree of safety in its operations. The certificate holder must have qualified personnel serving full-time in the following or equivalent positions:
 
 (1) Director of Safety.

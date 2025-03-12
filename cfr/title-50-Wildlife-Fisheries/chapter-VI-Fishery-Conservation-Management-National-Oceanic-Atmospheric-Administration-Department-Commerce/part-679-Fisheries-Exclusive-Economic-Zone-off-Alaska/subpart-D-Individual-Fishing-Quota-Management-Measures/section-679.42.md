@@ -190,6 +190,8 @@
 
 (ii) No vessel may be used, during any fishing year, to harvest more than 50,000 lb (22.7 mt) of IFQ halibut derived from QS held by a CQE, and no vessel used to harvest IFQ halibut derived from QS held by a CQE may be used to harvest more IFQ halibut than the vessel use caps specified in paragraphs (h)(1) introductory text and (h)(1)(i) of this section.
 
+(iii) Notwithstanding the vessel use caps specified in paragraphs (h)(1) introductory text and (h)(1)(ii) of this section, vessel use caps do not apply to vessels harvesting IFQ halibut in IFQ regulatory Areas 4A, 4B, 4C, and 4D during the 2023 through 2027 fishing years. IFQ halibut harvested in regulatory Areas 4A, 4B, 4C, and 4D is excluded from the calculation of vessel use caps for IFQ regulatory Area 2C, 3A, or 3B during the 2023 through 2027 fishing years.
+
 (2) *Sablefish.* No vessel may be used, during any fishing year, to harvest more IFQ sablefish than one percent of the combined fixed gear TAC of sablefish for the GOA and BSAI IFQ regulatory areas, except that:
 
 (i) In the IFQ regulatory area east of 140 degrees W. long., no vessel may be used to harvest more than 1 percent of the fixed gear TAC of sablefish for this area.

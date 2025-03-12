@@ -1,5 +1,7 @@
 ##### § 119.1 Applicability. #####
 
+Link to an amendment published at 88 FR 48088, July 26, 2023.
+
 (a) This part applies to each person operating or intending to operate civil aircraft—
 
 (1) As an air carrier or commercial operator, or both, in air commerce; or

@@ -1,5 +1,7 @@
 ##### § 119.5 Certifications, authorizations, and prohibitions. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) A person authorized by the Administrator to conduct operations as a direct air carrier will be issued an Air Carrier Certificate.
 
 (b) A person who is not authorized to conduct direct air carrier operations, but who is authorized by the Administrator to conduct operations as a U.S. commercial operator, will be issued an Operating Certificate.

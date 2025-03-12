@@ -1,5 +1,7 @@
 ##### § 119.49 Contents of operations specifications. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) Each certificate holder conducting domestic, flag, or commuter operations must obtain operations specifications containing all of the following:
 
 (1) The specific location of the certificate holder's principal base of operations and, if different, the address that shall serve as the primary point of contact for correspondence between the FAA and the certificate holder and the name and mailing address of the certificate holder's agent for service.

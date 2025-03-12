@@ -1,5 +1,7 @@
 ##### § 119.67 Management personnel: Qualifications for operations conducted under part 121 of this chapter. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) To serve as Director of Operations under § 119.65(a) a person must—
 
 (1) Hold an airline transport pilot certificate;

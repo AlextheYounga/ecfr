@@ -1,5 +1,7 @@
 ##### § 119.23 Operators engaged in passenger-carrying operations, cargo operations, or both with airplanes when common carriage is not involved. #####
 
+Link to an amendment published at 88 FR 48089, July 26, 2023.
+
 (a) Each person who conducts operations when common carriage is not involved with airplanes having a passenger-seat configuration of 20 seats or more, excluding each crewmember seat, or a payload capacity of 6,000 pounds or more, shall, unless deviation authority is issued—
 
 (1) Comply with the certification and operations specifications requirements of part 125 of this chapter;

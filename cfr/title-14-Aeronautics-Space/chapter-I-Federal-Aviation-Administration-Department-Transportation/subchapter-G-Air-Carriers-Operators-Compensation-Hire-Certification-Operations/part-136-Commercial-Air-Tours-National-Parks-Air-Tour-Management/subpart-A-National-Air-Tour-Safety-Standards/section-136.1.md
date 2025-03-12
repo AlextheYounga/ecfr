@@ -1,5 +1,7 @@
 ##### § 136.1 Applicability and definitions. #####
 
+Link to an amendment published at 88 FR 48091, July 26, 2023.
+
 (a) This subpart applies to each person operating or intending to operate a commercial air tour in an airplane or helicopter and, when applicable, to all occupants of the airplane or helicopter engaged in a commercial air tour. When any requirement of this subpart is more stringent than any other requirement of this chapter, the person operating the commercial air tour must comply with the requirement in this subpart.
 
 (b) As of September 11, 2007, this subpart is applicable to:
