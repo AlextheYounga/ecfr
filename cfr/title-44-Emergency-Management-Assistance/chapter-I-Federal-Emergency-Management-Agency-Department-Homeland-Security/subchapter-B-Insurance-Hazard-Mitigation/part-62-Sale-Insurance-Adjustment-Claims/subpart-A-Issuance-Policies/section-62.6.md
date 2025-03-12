@@ -1,5 +1,7 @@
 ##### § 62.6 Minimum commissions. #####
 
+Link to an amendment published at 85 FR 43986, July 20, 2020.
+
 (a) The earned commission which shall be paid to any property or casualty insurance agent or broker duly licensed by a state insurance regulatory authority, with respect to each policy or renewal the agent duly procures on behalf of the insured, in connection with policies of flood insurance placed with the NFIP at the offices of its servicing agent, but not with respect to policies of flood insurance issued pursuant to Subpart C of this part, shall not be less than $10 and is computed as follows:
 
 (1) In the case of a new or renewal policy, the following commissions shall apply based on the total premiums paid for the policy term:

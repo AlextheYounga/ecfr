@@ -52,7 +52,7 @@
 
 (ii) Provide its customers of the previously certified health IT with certified health IT that meets paragraph (b)(4)(i) of this section by May 2, 2022.
 
-(5) *Electronic prescribing.* A health IT developer with health IT certified to § 170.315(b)(3) prior to November 2, 2020, must:
+(5) *Electronic prescribing.* A health IT developer with health IT certified to § 170.315(b)(3) prior to June 30, 2020, must:
 
 (i) Update their certified health IT to be compliant with the revised versions of this criteria adopted in § 170.315(b)(3)(ii); and
 
@@ -85,3 +85,5 @@
 (iii) Maintain the updated certified Health IT Module(s) in full conformance with all applicable Program requirements.
 
 (9) *Standards Version Advancement Process - voluntary certification to newer versions of standards and implementation specifications.* A Health IT developer is permitted to seek certification for its Health IT Module(s) to any one or more of the certification criteria referenced in paragraph (a) of this section using a newer version of any adopted standard(s) or implementation specification(s) included in the criterion without first obtaining certification to the version of that adopted standard or implementation specification that is incorporated by reference in § 170.299, provided that the newer version is approved by the National Coordinator for use in certifications issued under the ONC Health IT Certification Program. Developers may, for each standard and implementation specification included in each criterion, choose on an itemized basis whether to seek certification to the version incorporated by reference in § 170.299, or to one or more newer version(s) approved by the National Coordinator for use in Health IT Module certifications issued pursuant to section 3001(c)(5) of the Public Health Service Act, or to both.
+
+[85 FR 25945, May 1, 2020, as amended at 85 FR 43711, July 20, 2020]

@@ -1,5 +1,7 @@
 ##### § 61.11 Effective date and time of coverage under the Standard Flood Insurance Policy - New Business Applications and Endorsements. #####
 
+Link to an amendment published at 85 FR 43958, July 20, 2020.
+
 (a) During the 13-month period beginning on the effective date of a revised Flood Hazard Boundary Map or Flood Insurance Rate Map for a community, the effective date and time of any initial flood insurance coverage shall be 12:01 a.m. (local time) on the first calendar day after the application date and the presentment of payment of premium; for example, a flood insurance policy applied for with the payment of the premium on May 1 will become effective at 12:01 a.m. on May 2.
 
 (b) Where the initial purchase of flood insurance is in connection with the making, increasing, extension, or renewal of a loan, the coverage with respect to the property which is the subject of the loan shall be effective as of the time of the loan closing, provided the written request for the coverage is received by the NFIP and the flood insurance policy is applied for and the presentment of payment of premium is made at or prior to the loan closing.

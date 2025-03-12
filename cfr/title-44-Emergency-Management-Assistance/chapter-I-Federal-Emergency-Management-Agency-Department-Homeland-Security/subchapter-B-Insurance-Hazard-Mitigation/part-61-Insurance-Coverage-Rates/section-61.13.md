@@ -1,5 +1,7 @@
 ##### § 61.13 Standard Flood Insurance Policy. #####
 
+Link to an amendment published at 85 FR 43959, July 20, 2020.
+
 (a) *Incorporation of forms.* Each of the Standard Flood Insurance Policy forms included in appendix “A” hereto (General Property, Dwelling, and Residential Condominium Building Association) and by reference incorporated herein shall be incorporated into the Standard Flood Insurance Policy.
 
 (b) *Endorsements.* All endorsements to the Standard Flood Insurance Policy shall be final upon publication in the Federal Register for inclusion in appendix A.

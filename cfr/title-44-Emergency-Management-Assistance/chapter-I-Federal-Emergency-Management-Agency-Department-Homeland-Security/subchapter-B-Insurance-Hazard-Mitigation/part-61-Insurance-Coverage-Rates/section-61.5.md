@@ -1,5 +1,7 @@
 ##### § 61.5 Special terms and conditions. #####
 
+Link to an amendment published at 85 FR 43958, July 20, 2020.
+
 (a) No new flood insurance or renewal of flood insurance policies shall be written for properties declared by a duly constituted State or local zoning or other authority to be in violation of any flood plain, mudslide (i.e., mudflow) or flood-related erosion area management or control law, regulation, or ordinance.
 
 (b) In order to reduce the administrative costs of the Program, of which the Federal Government pays a major share, payment of the full policyholder premium must be made at the time of application.

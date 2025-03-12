@@ -1,0 +1,7 @@
+##### § 960.7 License grant or denial. #####
+
+(a) Based on the Secretary's review of the application, the Secretary must determine whether the applicant will comply with the requirements of the Act, this part, and the license. The Secretary will presume that the applicant will comply, unless the Secretary has specific, credible evidence to the contrary. If the Secretary determines that the applicant will comply, the Secretary shall grant the license.
+
+(b) The Secretary shall make the determination in paragraph (a) of this section within 60 days of the notification under § 960.5(c), and shall notify the applicant in writing whether the license is granted or denied.
+
+(c) If the Secretary has not notified the applicant whether the license is granted or denied within 60 days, the applicant may submit a request that the license be granted. Within three days of this request, the Secretary shall grant the license, unless the Secretary determines with specific, credible evidence that the applicant will not comply with the requirements of the Act, this part, or the license, in which case the Secretary will deny the license, or the Secretary and the applicant mutually agree to extend this review period.

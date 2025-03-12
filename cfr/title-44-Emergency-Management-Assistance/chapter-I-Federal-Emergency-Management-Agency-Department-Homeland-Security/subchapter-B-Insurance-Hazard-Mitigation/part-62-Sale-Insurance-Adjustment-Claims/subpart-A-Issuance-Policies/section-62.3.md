@@ -1,5 +1,7 @@
 ##### § 62.3 Servicing agent. #####
 
+Link to an amendment published at 85 FR 43985, July 20, 2020.
+
 (a) Pursuant to sections 1345 and 1346 of the Act, the Federal Insurance Administrator has entered into the Agreement with a servicing agent to authorize it to assist in issuing flood insurance policies under the Program in communities designated by the Federal Insurance Administrator and to accept responsibility for delivery of policies and payment of claims for losses as prescribed by and at the discretion of the Federal Insurance Administrator.
 
 (b) National Con-Serv, Inc., whose offices are located in Rockville, Maryland, is the servicing agent for the Federal Insurance Administration.

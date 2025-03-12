@@ -1,5 +1,7 @@
 ##### § 25.112 Dismissal and return of applications. #####
 
+Link to an amendment published at 85 FR 43733, July 20, 2020.
+
 (a) An application will be unacceptable for filing and will be returned to the applicant with a brief statement identifying the omissions or discrepancies if:
 
 (1) The application is defective with respect to completeness of answers to questions, informational showings, internal inconsistencies, execution, or other matters of a formal character; or

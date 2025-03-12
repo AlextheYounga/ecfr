@@ -56,6 +56,8 @@
 
 (2) *Contracts and agreements.* (i) A health IT developer must not establish, renew, or enforce any contract or agreement that contravenes paragraph (a) of this section.
 
-(ii) If a health IT developer has a contract or agreement in existence as of November 2, 2020, that contravenes paragraph (a) of this section, then the developer must amend the contract or agreement to remove or void the contractual provision that contravenes paragraph (a) of this section whenever the contract is next modified for other reasons or renewed.
+(ii) If a health IT developer has a contract or agreement in existence as of June 30, 2020, that contravenes paragraph (a) of this section, then the developer must amend the contract or agreement to remove or void the contractual provision that contravenes paragraph (a) of this section whenever the contract is next modified for other reasons or renewed.
 
 (c) *Communication, defined.* “Communication” as used in this section means any communication, irrespective of the form or medium. The term includes visual communications, such as screenshots and video.
+
+[85 FR 25945, May 1, 2020, as amended at 85 FR 43711, July 20, 2020]

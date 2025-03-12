@@ -1,5 +1,7 @@
 ##### § 61.17 Group Flood Insurance Policy. #####
 
+Link to an amendment published at 85 FR 43959, July 20, 2020.
+
 (a) A Group Flood Insurance Policy (GFIP) is a policy covering all individuals named by a State as recipients under section 408 of the Stafford Act (42 U.S.C. 5174) of an Individuals and Households Program (IHP) award for flood damage as a result of major disaster declaration by the President.
 
 (b) The premium for the GFIP is a flat fee of $600 per insured. We may adjust the premium to reflect NFIP loss experience and any adjustment of benefits under the IHP program.

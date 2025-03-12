@@ -1,5 +1,7 @@
 ##### § 25.114 Applications for space station authorizations. #####
 
+Link to an amendment published at 85 FR 43733, July 20, 2020.
+
 (a)(1) A license application filed pursuant to § 25.110(b)(2) for a GSO space station or NGSO space station or space-station constellation must comprise a comprehensive proposal and must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits required by paragraph (d) of this section.
 
 (2) An application for blanket authority for an NGSO constellation of space stations that are not all technically identical must provide the information required by paragraphs (c) and (d) of this section for each type of station in the constellation.

@@ -1,5 +1,7 @@
 ##### § 59.1 Definitions. #####
 
+Link to an amendment published at 85 FR 43957, July 20, 2020.
+
 As used in this subchapter -
 
 *Act* means the statutes authorizing the National Flood Insurance Program that are incorporated in 42 U.S.C. 4001-4128.
