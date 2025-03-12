@@ -1,0 +1,7 @@
+##### § 955.21 Term of office. #####
+
+(a) Except as otherwise provided in paragraph (b) of this section, the term of office of committee members and their respective alternates shall be for two years and shall begin as of September 16 or for such other period as the committee may recommend and the Secretary approve. The terms shall be determined so that approximately one-half of the total committee membership shall terminate each year. Members and alternates shall serve in such capacity during the term of office or portion thereof for which they are selected and until their respective successors are selected.
+
+(b) The term of office of the initial members and alternates shall begin as soon as possible after effective date of this part. As determined by lot drawn at the initial nomination meeting, one-fourth of the initial grower members and alternates shall serve for a one-year term, one-fourth shall serve for a two-year term, one-fourth shall serve for a three-year term, and one-fourth shall serve for a four-year term. The term of office for the initial public member and alternate shall be for two years.
+
+(c) The consecutive terms of office of members shall be limited to three 2-year terms.

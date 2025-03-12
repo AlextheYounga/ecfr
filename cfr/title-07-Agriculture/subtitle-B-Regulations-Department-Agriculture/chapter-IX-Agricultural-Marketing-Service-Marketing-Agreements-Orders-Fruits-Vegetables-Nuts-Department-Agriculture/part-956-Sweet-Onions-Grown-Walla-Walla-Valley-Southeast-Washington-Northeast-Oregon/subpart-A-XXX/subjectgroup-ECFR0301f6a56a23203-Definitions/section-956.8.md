@@ -1,0 +1,3 @@
+##### § 956.8 Handle. #####
+
+*Handle* is synonymous with *ship* and means to package, load, sell, transport, or in any way place Walla Walla Sweet Onions or cause Walla Walla Sweet Onions to be placed in the current of commerce within the production area or between the production area and any point outside thereof. Such term shall not include the transportation, sale, or delivery of harvested Walla Walla Sweet Onions to a handler within the production area for the purpose of having such Walla Walla Sweet Onions prepared for market.

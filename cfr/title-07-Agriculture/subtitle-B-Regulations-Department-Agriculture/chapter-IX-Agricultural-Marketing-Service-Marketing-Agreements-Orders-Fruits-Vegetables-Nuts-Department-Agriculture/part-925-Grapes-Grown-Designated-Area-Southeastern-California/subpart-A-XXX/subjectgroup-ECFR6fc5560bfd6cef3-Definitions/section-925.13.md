@@ -1,0 +1,3 @@
+##### § 925.13 Container. #####
+
+*Container* means any lug, box, bag, crate, carton, or any other receptacle used in packing grapes for shipment as fresh grapes, and includes the dimensions, capacity, weight, marking, and any pads, liners, lids, and any or all appurtenances thereto or parts thereof. The term applies, in the case of grapes packed in consumer packages, to the master receptacle and to any and all packages therein.

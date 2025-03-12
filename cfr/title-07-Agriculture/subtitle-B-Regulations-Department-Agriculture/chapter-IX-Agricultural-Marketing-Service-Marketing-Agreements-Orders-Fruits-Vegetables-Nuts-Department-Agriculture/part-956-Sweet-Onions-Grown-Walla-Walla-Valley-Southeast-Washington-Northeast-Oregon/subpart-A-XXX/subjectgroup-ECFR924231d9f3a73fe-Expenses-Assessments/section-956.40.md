@@ -1,0 +1,3 @@
+##### § 956.40 Expenses. #####
+
+The committee is authorized to incur such expenses as the Secretary may find are reasonable and likely to be incurred by the committee for its maintenance and functioning, and to enable it to exercise its powers and perform its duties in accordance with the provisions of this part. The funds to cover such expenses shall be acquired in the manner prescribed in §§ 956.42 and 956.45.

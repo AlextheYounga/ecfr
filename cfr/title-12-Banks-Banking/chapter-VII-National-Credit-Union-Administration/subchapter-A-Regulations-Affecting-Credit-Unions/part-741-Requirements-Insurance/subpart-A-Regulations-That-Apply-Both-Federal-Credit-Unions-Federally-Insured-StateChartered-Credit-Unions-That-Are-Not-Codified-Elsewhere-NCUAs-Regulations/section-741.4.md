@@ -22,15 +22,15 @@
 
 *Board* means the NCUA Board or any individual or group of individuals with the delegated authority to act on behalf of the Board to implement the requirements of this section.
 
-*Equity ratio* which shall be calculated using the financial statements of the NCUSIF alone, without any consolidation or combination with the financial statements of any other fund or entity, means the ratio of:
+*Equity ratio* means the ratio of:
 
-(i) The amount of NCUSIF's capitalization, meaning insured credit unions' one percent capitalization deposits plus the retained earnings balance of the NCUSIF (less contingent liabilities for which no provision for losses has been made) to:
+(i) The amount determined by subtracting -
 
-(ii) The aggregate amount of the insured shares in all insured credit unions.
+(A) Direct liabilities of the NCUSIF and contingent liabilities for which no provision for losses has been made from
 
-(iii) Shown as an abbreviated mathematical formula, the equity ratio is:
+(B) The sum of all one percent deposits made by federally insured credit unions pursuant to paragraph (c) of this section and the retained earnings balance of the NCUSIF, to
 
-![](/graphics/er03de09.001.gif)
+(ii) The aggregate amount of insured shares in all federally insured credit unions.
 
 *Federally insured credit union* means a federal or state-chartered credit union that maintains federal share insurance coverage from the NCUSIF.
 
@@ -144,4 +144,4 @@
 
 (ii) Section 202(d)(3) of the Act (12 U.S.C. 1782(d)(3)) provides, generally, that no insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge due to the fund. Section 202(d)(3) further provides that any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned more than one year, or both.
 
-[74 FR 63279, Jan. 4, 2010, as amended at 76 FR 60367, Sept. 29, 2011; 80 FR 57288, Sept. 23, 2015; 83 FR 7960, Feb. 23, 2018]Editorial Note:At 83 FR 7960, Feb. 23, 2018, § 741.4 was amended by revising the definition of “equity ratio” in paragraph (b); however, the amendment could not be incorporated because there was no text for the newly revised definition.
+[74 FR 63279, Jan. 4, 2010, as amended at 76 FR 60367, Sept. 29, 2011; 80 FR 57288, Sept. 23, 2015; 83 FR 7960, Feb. 23, 2018; 83 FR 14741, Apr. 6, 2018]
