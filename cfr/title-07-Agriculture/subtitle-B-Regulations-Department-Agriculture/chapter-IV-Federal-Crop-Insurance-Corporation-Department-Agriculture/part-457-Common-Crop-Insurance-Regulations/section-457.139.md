@@ -294,7 +294,7 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (1) For sold harvested production, the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value option price contained in the actuarial documents for any carton of tomatoes sold), and multiplying this result by the number of cartons of fresh market tomatoes sold; and
 
-(2) For unsold harvested production, the dollar amount obtained by multiplying the number of cartons of such fresh market tomatoes on the unit by the minimum value shown in the Special Provisions for the planting period. Harvested production that is damaged or defective due to an insured cause of loss and is not sold will not be counted as production to count.
+(2) For unsold harvested production, the dollar amount obtained by multiplying the number of cartons of such fresh market tomatoes on the unit by the minimum value shown in the actuarial documents for the planting period. Harvested production that is damaged or defective due to an insured cause of loss and is not sold will not be counted as production to count.
 
 (c) This option may be canceled by either you or us for any succeeding crop year by giving written notice on or before the cancellation date preceding the crop year for which the cancellation of this option is to be effective.
 

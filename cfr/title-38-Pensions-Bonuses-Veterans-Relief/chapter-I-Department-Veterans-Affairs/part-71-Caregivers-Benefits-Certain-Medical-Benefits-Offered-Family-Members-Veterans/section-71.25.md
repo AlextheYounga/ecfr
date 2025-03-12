@@ -12,7 +12,7 @@
 
 (A) VA will deny any joint application of an individual described in § 71.20(a)(2)(ii), if such joint application is received by VA before October 1, 2020. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(ii) should submit a joint application that is received by VA on or after October 1, 2020.
 
-(B) VA will deny any joint application of an individual described in § 71.20(a)(2)(iii), if such joint application is received by VA before October 1, 2022. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(iii) should submit a joint application that is received by VA on or after the date that is two years after the date published in a future Federal Register document that is specified in § 71.20(a)(2)(ii).
+(B) VA will deny any joint application of an individual described in § 71.20(a)(2)(iii), if such joint application is received by VA before October 1, 2022. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(iii) should submit a joint application that is received by VA on or after October 1, 2022.
 
 (b) *Eligibility to serve as Primary or Secondary Family Caregiver.* In order to serve as a Primary or Secondary Family Caregiver, the applicant must meet all of the following requirements:
 

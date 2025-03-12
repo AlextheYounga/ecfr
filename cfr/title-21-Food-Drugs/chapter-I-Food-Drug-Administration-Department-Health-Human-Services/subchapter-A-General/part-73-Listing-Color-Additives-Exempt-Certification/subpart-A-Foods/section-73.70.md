@@ -1,5 +1,7 @@
 ##### § 73.70 Calcium carbonate. #####
 
+Link to an amendment published at 87 FR 58448, Sept. 27, 2022.
+
 (a) *Identity.* (1) The color additive calcium carbonate is a fine, white powder consisting essentially of calcium carbonate (CaCO3) prepared either by grinding naturally occurring limestone or synthetically, by precipitation.
 
 (2) Color additive mixtures for food use made with calcium carbonate may contain only those diluents that are suitable and that are listed in this subpart as safe for use in color additive mixtures for coloring foods.
