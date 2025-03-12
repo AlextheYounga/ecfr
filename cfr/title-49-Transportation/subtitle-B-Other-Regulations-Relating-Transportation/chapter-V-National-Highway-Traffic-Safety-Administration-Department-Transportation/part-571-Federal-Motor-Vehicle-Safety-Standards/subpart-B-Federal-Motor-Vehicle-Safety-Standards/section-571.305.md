@@ -36,6 +36,8 @@ S4. *Definitions.*
 
 *Fuel cell system* is a system containing the fuel cell stack(s), air processing system, fuel flow control system, exhaust system, thermal management system, and water management system.
 
+*High voltage live part* means a live part of a high voltage source.
+
 *High voltage source* means any electric component which is contained in the electric power train or conductively connected to the electric power train and has a working voltage greater than 30 VAC or 60 VDC.
 
 *Indirect contact* is the contact of persons with exposed conductive parts.
@@ -112,13 +114,17 @@ S5.4.1.4 *Protection degree of high voltage live parts.*
 
 (b) Protection degree IPXXB shall be provided for high voltage live parts in areas other than the passenger or luggage compartment when tested according to the procedures specified in S9.1 using the IPXXB test probe shown in Figures 7a and 7b.
 
-S5.4.1.5 *Connectors.* Direct contact protection for a connector shall be provided by meeting the requirements specified in S5.4.1.4 when the connector is connected to its corresponding mating component, and by meeting at least one of the requirements of subparagraphs (a), (b), or (c).
+S5.4.1.5 *Connectors.* All connectors shall provide direct contact protection by:
 
-(a) The connector meets the requirements of S5.4.1.4 when separated from its mating component, if the connector can be separated without the use of tools;
+(a) Meeting the requirements specified in S5.4.1.4 when the connector is connected to its corresponding mating component; and,
 
-(b) The voltage of the live parts becomes less than or equal to 60 VDC or 30 VAC within one second after the connector is separated from its mating component; or,
+(b) If a connector can be separated from its mating component without the use of a tool, meeting at least one of the following conditions from (b)(1), (2), or (3) of this section:
 
-(c) The connector is provided with a locking mechanism (at least two distinct actions are needed to separate the connector from its mating component) and there are other components that must be removed in order to separate the connector from its mating component and these cannot be removed without the use of tools.
+(1) The connector meets the requirements of S5.4.1.4 when separated from its mating component;
+
+(2) The voltage of the live parts becomes less than or equal to 60 VDC or 30 VAC within one second after the connector is separated from its mating component; or,
+
+(3) The connector requires at least two distinct actions to separate from its mating component and there are other components that must be removed in order to separate the connector from its mating component and these other components cannot be removed without the use of tools.
 
 S5.4.1.6 *Vehicle charge inlet.* Direct contact protection for a vehicle charge inlet shall be provided by meeting the requirements specified in S5.4.1.4 when the charge connector is connected to the vehicle inlet and by meeting at least one of the requirements of subparagraphs (a) or (b).
 
@@ -214,7 +220,7 @@ S7.6.7 If V2 is greater than V1, insert a known resistance (Ro) between the posi
 
 S7.7 *Voltage measurement.* For the purpose of determining the voltage level of the high voltage source specified in S5.3(b), voltage is measured as shown in Figure 1. Voltage Vb is measured across the two terminals of the voltage source. Voltages V1 and V2 are measured between the source and the electrical chassis. For a high voltage source that has an automatic disconnect that is physically contained within itself, the voltage measurement after the test is made from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train. For a high voltage source that has an automatic disconnect that is not physically contained within itself, the voltage measurement after the test is made from both the high voltage source side of the automatic disconnect and from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train.
 
-S8. *Test procedure for on-board electrical isolation monitoring system.* Prior to any impact test, the requirements of S5.4 for the on-board electrical isolation monitoring system shall be tested using the following procedure.
+S8. *Test procedure for on-board electrical isolation monitoring system.* Prior to any impact test, the requirements of S5.4.4 for the on-board electrical isolation monitoring system shall be tested using the following procedure.
 
 (1) The electric energy storage device is at the state-of-charge specified in S7.1.
 
@@ -246,7 +252,7 @@ S9.1 *Test method to evaluate protection from direct contact with high voltage s
 
 S9.2 *Test method to evaluate protection against indirect contact with high voltage sources.* At the option of the manufacturer, protection against indirect contact with high voltage sources shall be determined using the test method in subparagraph (a) or subparagraph (b).
 
-(a) *Test method using a resistance tester.* The resistance tester is connected to the measuring points (the electrical chassis and any exposed conductive part of electrical protection barriers or any two simultaneously reachable exposed conductive parts of electrical protection barriers that are less than 2.5 meters from each other), and the resistance is measured using a resistance tester that can measure current levels of at least 0.2 Amperes with a resolution of 0.01 ohms or less. The resistance between two exposed conductive parts of electrical protection barriers that are less than 2.5 meters from each other may be calculated using the separately measured resistances of the relevant parts of the electric path.
+(a) *Test method using a resistance tester.* The resistance tester is connected to the measuring points (the electrical chassis and any exposed conductive part of electrical protection barriers or any two simultaneously reachable exposed conductive parts of electrical protection barriers that are less than 2.5 meters from each other), and the resistance is measured using a resistance tester that can supply current levels of at least 0.2 Amperes with a resolution of 0.01 ohms or less. The resistance between two exposed conductive parts of electrical protection barriers that are less than 2.5 meters from each other may be calculated using the separately measured resistances of the relevant parts of the electric path.
 
 (b) *Test method using a DC power supply, voltmeter and ammeter.*
 
@@ -268,4 +274,4 @@ S9.3 *Test method to determine voltage between exposed conductive parts of elect
 
 (c) The voltage between two simultaneously reachable exposed conductive parts of electrical protection barriers that are less than 2.5 meters from each other may be calculated using the separately measured voltages between the relevant electrical protection barriers and the electrical chassis.
 
-![](/graphics/er29jy11.008.gif)![](/graphics/er29jy11.009.gif)![](/graphics/er29jy11.010.gif)![](/graphics/er29jy11.011.gif)![](/graphics/er29jy11.012.gif)![](/graphics/er27se17.006.gif)![](/graphics/er27se17.007.gif)![](/graphics/er27se17.008.gif)![](/graphics/er27se17.009.gif)[65 FR 57988, Sept. 27, 2000, as amended at 66 FR 60160, Dec. 3, 2001; 69 FR 51399, Aug. 19, 2004; 72 FR 51972, Sept. 11, 2007; 75 FR 12141, Mar. 15, 2010; 75 FR 33527, June 14, 2010; 76 FR 45448, July 29, 2011; 80 FR 2325, Jan. 16, 2015; 82 FR 44960, Sept. 27, 2017]
+![](/graphics/er29jy11.008.gif)![](/graphics/er29jy11.009.gif)![](/graphics/er29jy11.010.gif)![](/graphics/er29jy11.011.gif)![](/graphics/er29jy11.012.gif)![](/graphics/er27se17.006.gif)![](/graphics/er27se17.007.gif)![](/graphics/er27se17.008.gif)![](/graphics/er27se17.009.gif)[65 FR 57988, Sept. 27, 2000, as amended at 66 FR 60160, Dec. 3, 2001; 69 FR 51399, Aug. 19, 2004; 72 FR 51972, Sept. 11, 2007; 75 FR 12141, Mar. 15, 2010; 75 FR 33527, June 14, 2010; 76 FR 45448, July 29, 2011; 80 FR 2325, Jan. 16, 2015; 82 FR 44960, Sept. 27, 2017; 84 FR 44257, Aug. 23, 2019]

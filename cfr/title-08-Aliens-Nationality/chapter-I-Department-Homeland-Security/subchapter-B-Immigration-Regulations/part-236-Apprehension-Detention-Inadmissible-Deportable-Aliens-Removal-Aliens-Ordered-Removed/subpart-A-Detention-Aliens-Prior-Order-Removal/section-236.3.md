@@ -1,5 +1,7 @@
 ##### § 236.3 Detention and release of juveniles. #####
 
+Link to an amendment published at 84 FR 44525, Aug. 23, 2019.
+
 (a) *Juveniles.* A juvenile is defined as an alien under the age of 18 years.
 
 (b) *Release.* Juveniles for whom bond has been posted, for whom parole has been authorized, or who have been ordered released on recognizance, shall be released pursuant to the following guidelines:
