@@ -1,5 +1,7 @@
 ##### § 660.502 Definitions. #####
 
+Link to an amendment published at 83 FR 6473, Feb. 14, 2018.
+
 In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:
 
 *Actively managed species* (AMS) means those CPS for which the Secretary has determined that harvest guidelines or quotas are needed by Federal management according to the provisions of the FMP.

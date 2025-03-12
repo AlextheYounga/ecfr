@@ -41,6 +41,7 @@
 |          Lebanon           |See also paragraph (t) of this section.|
 |           Libya            |See also paragraph (k) of this section.|
 |          Somalia           |See also paragraph (m) of this section.|
+|        South Sudan         |See also paragraph (w) of this section.|
 |           Sudan            |See also paragraph (v) of this section.|
 |          Zimbabwe          |See also paragraph (s) of this section.|
 
@@ -170,8 +171,18 @@ Note to paragraph (e):
 
 (4) Assistance and supplies provided in support of implementation of the Comprehensive Peace Agreement.
 
-Note to § 126.1.
+(w) *South Sudan.* It is the policy of the United States to deny licenses or other approvals for exports of defense articles and defense services destined for South Sudan, except that a license or other approval may be issued, on a case-by-case basis, for:
 
-On July 9, 2011, the Republic of South Sudan declared independence from Sudan and was recognized as a sovereign state by the United States. This policy does not apply to the Republic of South Sudan. Licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in the Republic of the South Sudan will be considered on a case-by-case basis.
+(1) Defense articles and defense services for monitoring, verification, or peacekeeping support operations, including those authorized by the United Nations or operating with the consent of the relevant parties;
+
+(2) Defense articles and defense services intended solely for the support of, or use by, African Union Regional Task Force (AU-RTF) or United Nations entities operating in South Sudan, including but not limited to the United Nations Mission in the Republic of South Sudan (UNMISS), the United Nations Mine Action Service (UNMAS), the United Nations Police (UNPOL), or the United Nations Interim Security Force for Abyei (UNISFA);
+
+(3) Defense articles and defense services intended solely for the support of or use by non-governmental organizations in furtherance of conventional weapons destruction or humanitarian demining activities;
+
+(4) Non-lethal defense articles intended solely for humanitarian or protective use and related technical training and assistance;
+
+(5) Personal protective equipment including flak jackets and helmets, temporarily exported to South Sudan by United Nations personnel, human rights monitors, representatives of the media, and humanitarian and development workers and associated personnel, for their personal use only; or
+
+(6) Any defense articles and defense services provided in support of implementation of the Comprehensive Peace Agreement, the Agreement on the Resolution of the Conflict in the Republic of South Sudan, or any successor agreement.
 
 [58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,6 +1,6 @@
 ##### § 668.71 Scope and special definitions. #####
 
-Link to an amendment published at 81 FR 76072, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.
+Link to an amendment published at 81 FR 76072, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
 
 (a) If the Secretary determines that an eligible institution has engaged in substantial misrepresentation, the Secretary may -
 

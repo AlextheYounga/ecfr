@@ -1,6 +1,6 @@
 ##### § 668.14 Program participation agreement. #####
 
-Link to an amendment published at 81 FR 76070, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.
+Link to an amendment published at 81 FR 76070, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.This amendment was further delayed until July 1, 2019 at 83 FR 6459, Feb. 14, 2018
 
 (a)(1) An institution may participate in any Title IV, HEA program, other than the LEAP and NEISP programs, only if the institution enters into a written program participation agreement with the Secretary, on a form approved by the Secretary. A program participation agreement conditions the initial and continued participation of an eligible institution in any Title IV, HEA program upon compliance with the provisions of this part, the individual program regulations, and any additional conditions specified in the program participation agreement that the Secretary requires the institution to meet.
 
