@@ -1,7 +1,5 @@
 ##### § 892.101 Definitions. #####
 
-Link to an amendment published at 83 FR 32192, July 12, 2018.
-
 *Days* mean calendar days.
 
 *Dependent* means a family member who is both eligible for coverage under the FEHB Program and either a dependent as defined in section 152 of the Internal Revenue Code or a child as defined in section 152(f)(1) of the Internal Revenue Code who is under age 27 as of the end of the employee's taxable year.
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 32192, July 12, 2018.
 
 *OPM* means the Office of Personnel Management.
 
-*Qualifying life event* means an event that may permit changes to your FEHB enrollment as well as changes to your premium conversion election as described in Treasury regulations at 26 CFR 1.125-4. For purposes of determining whether a qualifying life event has occurred under this part, a stepchild who is the child of an employee's domestic partner as defined in part 890 of this chapter shall be treated as though the child were a dependent within the meaning of 26 CFR 1.125-4 even if the child does not so qualify under such Treasury regulations. Such events include the following:
+*Qualifying life (QLE) event* means an event that may permit changes to your FEHB enrollment as well as changes to your premium conversion election as described in Treasury regulations at 26 CFR 1.125-4. Such events include the following:
 
 (1) Change in family status that results in an increase or decrease in the number of eligible family members as follows:
 
@@ -90,4 +88,4 @@ Link to an amendment published at 83 FR 32192, July 12, 2018.
 
 (13) An employee or eligible family member becomes eligible for premium assistance under Medicaid or a State Children's Health Insurance Program (CHIP). An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee or an eligible family member of the employee becomes eligible for premium assistance under a Medicaid plan or a State Children's Health Insurance Program. An employee must enroll or change his or her enrollment within 60 days after the date the employee or family member is determined to be eligible for assistance.
 
-[65 FR 44646, July 19, 2000, as amended at 68 FR 56527, Oct. 1, 2003; 75 FR 76616, Dec. 9, 2010; 78 FR 64878, Oct. 30, 2013; 80 FR 55738, Sept. 17, 2015]
+[65 FR 44646, July 19, 2000, as amended at 68 FR 56527, Oct. 1, 2003; 75 FR 76616, Dec. 9, 2010; 78 FR 64878, Oct. 30, 2013; 80 FR 55738, Sept. 17, 2015; 83 FR 32192, July 12, 2018]
