@@ -1,12 +1,12 @@
 ##### § 229.1 Authority and purpose; organization. #####
 
-Link to an amendment published at 84 FR 31695, July 3, 2019.
+(a) *Authority and purpose*—(1) *In general.* This part is issued by the Board of Governors of the Federal Reserve System (Board) to implement the Expedited Funds Availability Act (12 U.S.C. 4001-4010) (EFA Act) and the Check Clearing for the 21st Century Act (12 U.S.C. 5001-5018) (Check 21 Act).
 
-(a) *Authority and purpose.* This part is issued by the Board of Governors of the Federal Reserve System (Board) to implement the Expedited Funds Availability Act (12 U.S.C. 4001-4010) (the EFA Act) and the Check Clearing for the 21st Century Act (12 U.S.C. 5001-5018) (the Check 21 Act).
+(2) *Joint authority of the Bureau.* The Board issues regulations under Sections 603(d)(1), 604, 605, and 609(a) of the EFA Act (12 U.S.C. 4002(d)(1), 4003, 4004, 4008(a)) jointly with the Director of the Bureau of Consumer Financial Protection (Bureau).
 
-(b) *Organization.* This part is divided into subparts and appendices as follows -
+(b) *Organization.* This part is divided into subparts and appendices as follows—
 
-(1) Subpart A contains general information. It sets forth -
+(1) Subpart A contains general information. It sets forth—
 
 (i) The authority, purpose, and organization;
 
@@ -33,4 +33,4 @@ Link to an amendment published at 84 FR 31695, July 3, 2019.
 
 (10) Appendix F of this part contains the Board's determinations of the EFA Act and Regulation CC's preemption of state laws that were in effect on September 1, 1989.
 
-[53 FR 19433, May 27, 1988, as amended at 57 FR 36598, Aug. 14, 1992; 57 FR 46972, Oct. 14, 1992; Reg. CC, 60 FR 51670, Oct. 3, 1995; 69 FR 47309, Aug. 4, 2004; 82 FR 27578, June 15, 2017]
+[53 FR 19433, May 27, 1988, as amended at 57 FR 36598, Aug. 14, 1992; 57 FR 46972, Oct. 14, 1992; Reg. CC, 60 FR 51670, Oct. 3, 1995; 69 FR 47309, Aug. 4, 2004; 82 FR 27578, June 15, 2017; 84 FR 31695, July 3, 2019]

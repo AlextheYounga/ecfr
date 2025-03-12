@@ -1,0 +1,3 @@
+##### § 208.10 Who may file a petition or request. #####
+
+An investigation under this subpart may be commenced upon the request of the President or upon receipt of a petition, properly filed, by an interested party described in § 208.2(i) of this part, which is representative of a United States long-haul trucking services industry, as defined by the Commission in its determination under section 322 of the Act.

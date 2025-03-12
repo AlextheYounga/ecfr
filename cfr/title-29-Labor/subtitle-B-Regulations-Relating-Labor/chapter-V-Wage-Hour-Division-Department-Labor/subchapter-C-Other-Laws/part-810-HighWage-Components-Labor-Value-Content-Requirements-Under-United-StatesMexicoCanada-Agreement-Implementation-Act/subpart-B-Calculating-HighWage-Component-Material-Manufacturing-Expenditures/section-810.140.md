@@ -1,0 +1,5 @@
+##### § 810.140 High-wage transportation or related costs for shipping a high-wage part or material. #####
+
+(a) High-wage transportation or related costs for shipping a high-wage part or material within the USMCA Countries may be used to calculate high-wage material and manufacturing costs if those costs are not otherwise included in the annual purchase value.
+
+(b) Where the requirements of paragraph (a) of this section are met, the producer may claim in its calculation of high-wage material and manufacturing expenditures high-wage transportation or related costs for shipping a high-wage part or material within the USMCA Countries, for each transportation, logistics, or material handling provider that paid an average hourly base wage rate of at least US$16 per hour to its direct production workers performing these services. Such workers would include drivers and loaders.

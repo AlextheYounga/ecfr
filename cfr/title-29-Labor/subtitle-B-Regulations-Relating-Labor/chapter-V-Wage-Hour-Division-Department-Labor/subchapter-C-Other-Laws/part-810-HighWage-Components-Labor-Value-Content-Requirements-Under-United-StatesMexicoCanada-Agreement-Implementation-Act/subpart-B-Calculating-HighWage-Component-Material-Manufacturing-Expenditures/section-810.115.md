@@ -1,0 +1,3 @@
+##### § 810.115 Paid meal time and paid break time. #####
+
+Paid meal time and paid break time are counted as direct production work for purposes of determining whether at least 85 percent of a worker's total work hours are hours worked in direct production. However, if less than 85 percent of a worker's total work hours are worked in direct production, paid meal time and paid break time are not included in the average hourly base wage rate calculation.

@@ -1,7 +1,5 @@
 ##### § 270.0-1 Definition of terms used in this part. #####
 
-Link to an amendment published at 85 FR 26101, May 1, 2020.
-
 (a) As used in the rules and regulations prescribed by the Commission pursuant to the Investment Company Act of 1940, unless the context otherwise requires:
 
 (1) The term *Commission* means the Securities and Exchange Commission.
@@ -46,16 +44,16 @@ Link to an amendment published at 85 FR 26101, May 1, 2020.
 
 (vii) The disinterested directors have been authorized to hire employees and to retain advisers and experts necessary to carry out their duties.
 
-(b) Unless otherwise specifically provided, the terms used in the rules and regulations in this part shall have the meaning defined in the Act. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in Regulation S-T - General Rules for Electronic Filings (Part 232 of this chapter).
+(b) Unless otherwise specifically provided, the terms used in the rules and regulations in this part shall have the meaning defined in the Act. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in Regulation S-T—General Rules for Electronic Filings (Part 232 of this chapter).
 
 (c) A rule or regulation which defines a term without express reference to the act or to the rules and regulations, or to a portion thereof, defines such terms for all purposes as used both in the act and in the rules and regulations in this part, unless the context otherwise requires.
 
 (d) Unless otherwise specified or the context otherwise requires, the term “prospectus” means a prospectus meeting the requirements of section 10(a) of the Securities Act of 1933 as amended.
 
-(e) Definition of separate account and conditions for availability of exemption under §§ 270.6c-6, 270.6c-7, 270.6c-8, 270.11a-2, 270.14a-2, 270.15a-3, 270.16a-1, 270.22c-1, 270.22d-3, 270.22e-1, 270.26a-1, 270.26a-2, 270.27a-1, 270.27a-2, 270.27a-3, 270.27c-1, and 270.32a-2 of this chapter.
+(e) Definition of separate account and conditions for availability of exemption under §§ 270.6c-6, 270.6c-7, 270.6c-8, 270.11a-2, 270.14a-2, 270.15a-3, 270.16a-1, 270.22c-1, 270.22d-2, 270.22e-1, 270.26a-1, 270.27i-1, and 270.32a-2 (Rules 6c-6, 6c-7, 6c-8, 11a-2, 14a-2, 15a-3, 16a-1, 22c-1, 22d-2, 22e-1, 26a-1, 27i-1, and 32a-2).
 
 (1) As used in the rules and regulations prescribed by the Commission pursuant to the Investment Company Act of 1940, unless otherwise specified or the context otherwise requires, the term “separate account” shall mean an account established and maintained by an insurance company pursuant to the laws of any state or territory of the United States, or of Canada or any province thereof, under which income, gains and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains or losses of the insurance company and the term “variable annuity contract” shall mean any accumulation or annuity contract, any portion thereof, or any unit of interest or participation therein pursuant to which the value of the contract, either prior or subsequent to annuitization, or both, varies according to the investment experience of the separate account in which the contract participates.
 
-(2) As conditions to the availability of exemptive Rules 6c-6, 6c-7, 6c-8, 11a-2, 14a-2, 15a-3, 16a-1, 22c-1, 22d-3, 22e-1, 26a-1, 26a-2, 27a-1, 27a-2, 27a-3, 27c-1, and 32a-2, the separate account shall be legally segregated, the assets of the separate account shall, at the time during the year that adjustments in the reserves are made, have a value at least equal to the reserves and other contract liabilities with respect to such account, and at all other times, shall have a value approximately equal to or in excess of such reserves and liabilities; and that portion of such assets having a value equal to, or approximately equal to, such reserves and contract liabilities shall not be chargeable with liabilities arising out of any other business which the insurance company may conduct.
+(2) As conditions to the availability of exemptive Rules 6c-6, 6c-7, 6c-8, 11a-2, 14a-2, 15a-3, 16a-1, 22c-1, 22d-2, 22e-1, 26a-1, 27i-1, and 32a-2, the separate account shall be legally segregated, the assets of the separate account shall, at the time during the year that adjustments in the reserves are made, have a value at least equal to the reserves and other contract liabilities with respect to such account, and at all other times, shall have a value approximately equal to or in excess of such reserves and liabilities; and that portion of such assets having a value equal to, or approximately equal to, such reserves and contract liabilities shall not be chargeable with liabilities arising out of any other business which the insurance company may conduct.
 
-[Rule N-1, 5 FR 4316, Oct. 31, 1940, as amended at 19 FR 6730, Oct. 20, 1954; 30 FR 829, Jan. 27, 1965; 48 FR 36098, Aug. 9, 1983; 50 FR 42682, Oct. 22, 1985; 58 FR 14859, Mar. 18, 1993; 66 FR 3757, Jan. 16, 2001; 69 FR 46389, Aug. 2, 2004]
+[Rule N-1, 5 FR 4316, Oct. 31, 1940, as amended at 19 FR 6730, Oct. 20, 1954; 30 FR 829, Jan. 27, 1965; 48 FR 36098, Aug. 9, 1983; 50 FR 42682, Oct. 22, 1985; 58 FR 14859, Mar. 18, 1993; 66 FR 3757, Jan. 16, 2001; 69 FR 46389, Aug. 2, 2004; 85 FR 26101, May 1, 2020]

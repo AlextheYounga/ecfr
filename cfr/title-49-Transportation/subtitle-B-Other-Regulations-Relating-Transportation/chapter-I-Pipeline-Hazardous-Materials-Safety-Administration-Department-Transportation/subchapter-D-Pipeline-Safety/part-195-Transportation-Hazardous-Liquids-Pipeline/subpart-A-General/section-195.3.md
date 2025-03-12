@@ -1,7 +1,5 @@
 ##### § 195.3 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
-
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 
 (1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
@@ -110,7 +108,7 @@ Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
 
 (2) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” June 24, 2010, (NACE SP0502), IBR approved for § 195.588(b).
 
-(3) NACE SP0102-2010, “Standard Practice, Inline Inspection of Pipelines” revised March 13, 2010, (NACE SP0102), IBR approved for § 195.591.
+(3) NACE SP0102-2010, “Standard Practice, Inline Inspection of Pipelines” revised March 13, 2010, (NACE SP0102), IBR approved for §§ 195.120 and 195.591.
 
 (4) NACE SP0204-2008, “Standard Practice, Stress Corrosion Cracking (SSC) Direct Assessment Methodology” reaffirmed September 18, 2008, (NACE SP0204), IBR approved for § 195.588(c).
 
@@ -126,4 +124,4 @@ Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
 
 (2) [Reserved]
 
-[Amdt. 195-99, 80 FR 184, Jan. 5, 2015, as amended by Amdt. 195-101, 82 FR 7998, Jan. 23, 2017]
+[Amdt. 195-99, 80 FR 184, Jan. 5, 2015, as amended by Amdt. 195-101, 82 FR 7998, Jan. 23, 2017; Amdt. 195-102, 84 FR 52294, Oct. 1, 2019]

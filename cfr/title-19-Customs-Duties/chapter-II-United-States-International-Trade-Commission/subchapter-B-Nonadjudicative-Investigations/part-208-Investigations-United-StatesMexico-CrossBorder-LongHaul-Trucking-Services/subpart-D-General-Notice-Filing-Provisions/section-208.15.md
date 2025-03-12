@@ -1,0 +1,5 @@
+##### § 208.15 Identification and filing of petitions; filing of requests and resolutions. #####
+
+(a) Each petition filed by an entity representative of a United States long-haul trucking services industry must state clearly on the first page thereof whether the petition is filed under section 322 or section 324(d)(2) of the Act as applicable. Unless otherwise directed or authorized by the Secretary, a public and confidential version of a petition must be filed electronically on the Commission's Electronic Document Information System (“EDIS”). One copy of each of the public and confidential versions of any exhibits, appendices, and attachments to the document may be filed on EDIS or in other electronic format approved by the Secretary.
+
+(b) Each request or resolution may be submitted in paper form or filed on EDIS.

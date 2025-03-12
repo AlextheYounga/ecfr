@@ -1,7 +1,5 @@
 ##### § 192.5 Class locations. #####
 
-Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
-
 (a) This section classifies pipeline locations for purposes of this part. The following criteria apply to classifications under this section.
 
 (1) A “class location unit” is an onshore area that extends 220 yards (200 meters) on either side of the centerline of any continuous 1- mile (1.6 kilometers) length of pipeline.
@@ -32,4 +30,6 @@ Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
 
 (2) When a cluster of buildings intended for human occupancy requires a Class 2 or 3 location, the class location ends 220 yards (200 meters) from the nearest building in the cluster.
 
-[Amdt. 192-78, 61 FR 28783, June 6, 1996; 61 FR 35139, July 5, 1996, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998]
+(d) An operator must have records that document the current class location of each pipeline segment and that demonstrate how the operator determined each current class location in accordance with this section.
+
+[Amdt. 192-78, 61 FR 28783, June 6, 1996; 61 FR 35139, July 5, 1996, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. No. 192-125, 84 FR 52243, Oct. 1, 2019]

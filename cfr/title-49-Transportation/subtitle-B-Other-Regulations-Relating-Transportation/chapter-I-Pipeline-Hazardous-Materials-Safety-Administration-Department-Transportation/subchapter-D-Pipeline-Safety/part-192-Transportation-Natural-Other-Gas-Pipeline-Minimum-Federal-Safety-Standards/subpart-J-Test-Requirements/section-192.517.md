@@ -1,8 +1,6 @@
 ##### § 192.517 Records. #####
 
-Link to an amendment published at 84 FR 52245, Oct. 1, 2019.
-
-(a) Each operator shall make, and retain for the useful life of the pipeline, a record of each test performed under §§ 192.505 and 192.507. The record must contain at least the following information:
+(a) An operator must make, and retain for the useful life of the pipeline, a record of each test performed under §§ 192.505, 192.506, and 192.507. The record must contain at least the following information:
 
 (1) The operator's name, the name of the operator's employee responsible for making the test, and the name of any test company used.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 84 FR 52245, Oct. 1, 2019.
 
 (b) Each operator must maintain a record of each test required by §§ 192.509, 192.511, and 192.513 for at least 5 years.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-93, 68 FR 53901, Sept. 15, 2003]
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-93, 68 FR 53901, Sept. 15, 2003; Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]

@@ -1,7 +1,5 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
-
 As used in this part:
 
 *Abandoned* means permanently removed from service.
@@ -21,6 +19,8 @@ As used in this part:
 *Distribution line* means a pipeline other than a gathering or transmission line.
 
 *Electrical survey* means a series of closely spaced pipe-to-soil readings over pipelines which are subsequently analyzed to identify locations where a corrosive current is leaving the pipeline.
+
+*Engineering critical assessment (ECA)* means a documented analytical procedure based on fracture mechanics principles, relevant material properties (mechanical and fracture resistance properties), operating history, operational environment, in-service degradation, possible failure mechanisms, initial and final defect sizes, and usage of future operating and maintenance procedures to determine the maximum tolerable sizes for imperfections based upon the pipeline segment maximum allowable operating pressure.
 
 *Exposed underwater pipeline* means an underwater pipeline where the top of the pipe protrudes above the underwater natural bottom (as determined by recognized and generally accepted practices) in waters less than 15 feet (4.6 meters) deep, as measured from mean low water.
 
@@ -45,6 +45,16 @@ As used in this part:
 *Maximum actual operating pressure* means the maximum pressure that occurs during normal operations over a period of 1 year.
 
 *Maximum allowable operating pressure (MAOP)* means the maximum pressure at which a pipeline or segment of a pipeline may be operated under this part.
+
+*Moderate consequence area* means:
+
+(1) An onshore area that is within a potential impact circle, as defined in § 192.903, containing either:
+
+(i) Five or more buildings intended for human occupancy; or
+
+(ii) Any portion of the paved surface, including shoulders, of a designated interstate, other freeway, or expressway, as well as any other principal arterial roadway with 4 or more lanes, as defined in the Federal Highway Administration's *Highway Functional Classification Concepts, Criteria and Procedures, Section 3.1* (see: *https://www.fhwa.dot.gov/planning/processes/statewide/related/highway\_functional\_classifications/fcauab.pdf*), and that does not meet the definition of high consequence area, as defined in § 192.903.
+
+(2) The length of the moderate consequence area extends axially along the length of the pipeline from the outermost edge of the first potential impact circle containing either 5 or more buildings intended for human occupancy; or any portion of the paved surface, including shoulders, of any designated interstate, freeway, or expressway, as well as any other principal arterial roadway with 4 or more lanes, to the outermost edge of the last contiguous potential impact circle that contains either 5 or more buildings intended for human occupancy, or any portion of the paved surface, including shoulders, of any designated interstate, freeway, or expressway, as well as any other principal arterial roadway with 4 or more lanes.
 
 *Municipality* means a city, county, or any other political subdivision of a State.
 

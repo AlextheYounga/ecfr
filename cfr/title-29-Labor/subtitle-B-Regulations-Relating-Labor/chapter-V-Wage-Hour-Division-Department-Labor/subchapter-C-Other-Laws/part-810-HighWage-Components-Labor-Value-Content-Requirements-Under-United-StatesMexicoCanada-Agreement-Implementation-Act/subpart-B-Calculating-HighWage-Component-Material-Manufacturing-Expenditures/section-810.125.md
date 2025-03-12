@@ -1,0 +1,9 @@
+##### § 810.125 Workers paid on a non-hourly basis. #####
+
+(a) *General.* If any worker performing direct production work is compensated by a method other than hourly, such as a salary, piece-rate, or day-rate basis, the worker's hourly base wage rate shall be calculated by converting the salary, piece-rate, or day-rate to an hourly equivalent. This hourly equivalent is then multiplied by the number of hours worked in direct production for purposes of calculating the average hourly base wage rate.
+
+(b) *Examples.* (1) Where the salary, piece-rate, or day-rate wage is paid to a worker on a weekly or bi-weekly pay period basis, the total salary, piece-rate, or day-rate compensation for that pay period will be divided by the total number of hours worked in the pay period to determine the hourly equivalent.
+
+(2) Where the salary, piece-rate, or day-rate wage is paid to a worker on a semi-monthly pay period basis, the total salary, piece-rate, or day-rate compensation will be converted to a weekly equivalent by multiplying the compensation by 24 (semi-monthly pay periods in a year) and dividing by 52 (weeks per year). This weekly equivalent will be divided by the total number of hours worked in the week to determine the hourly equivalent.
+
+(3) Where the salary, piece-rate, or day-rate wage is paid to a worker on a monthly pay period basis, the total salary, piece-rate, or day-rate compensation will be converted to a weekly equivalent by multiplying the compensation by 12 (monthly pay periods in a year) and dividing by 52 (weeks per year). This weekly equivalent will be divided by the total number of hours worked in the week to determine the hourly equivalent.

@@ -1,14 +1,12 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
-
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 
 (1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
 
 (i) The Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE., Washington, DC 20590. For more information contact 202-366-4046 or go to the PHMSA Web site at: *http://www.phmsa.dot.gov/pipeline/regs.*
 
-(ii) The National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to the NARA Web site at: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(ii) The National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (iii) Copies of standards incorporated by reference in this part can also be purchased or are otherwise made available from the respective standards-developing organization at the addresses provided in the centralized IBR section below.
 
@@ -38,15 +36,17 @@ Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
 
 (11) API Recommended Practice 1171, “Functional Integrity of Natural Gas Storage in Depleted Hydrocarbon Reservoirs and Aquifer Reservoirs,” First edition, September 2015, (API RP 1171), IBR approved for § 192.12.
 
+(12) API STANDARD 1163, “In-Line Inspection Systems Qualification,” Second edition, April 2013, Reaffirmed August 2018, (API STD 1163), IBR approved for § 192.493.
+
 (c) ASME International (ASME), Three Park Avenue, New York, NY 10016, 800-843-2763 (U.S./Canada), *http://www.asme.org/.*
 
 (1) ASME/ANSI B16.1-2005, “Gray Iron Pipe Flanges and Flanged Fittings: (Classes 25, 125, and 250),” August 31, 2006, (ASME/ANSI B16.1), IBR approved for § 192.147(c).
 
-(2) ASME/ANSI B16.5-2003, “Pipe Flanges and Flanged Fittings, “October 2004, (ASME/ANSI B16.5), IBR approved for §§ 192.147(a) and 192.279.
+(2) ASME/ANSI B16.5-2003, “Pipe Flanges and Flanged Fittings,” October 2004, (ASME/ANSI B16.5), IBR approved for §§ 192.147(a), 192.279, and 192.607(f).
 
 (3) ASME B16.40-2008, “Manually Operated Thermoplastic Gas Shutoffs and Valves in Gas Distribution Systems,” March 18, 2008, approved by ANSI, (ASME B16.40-2008), IBR approved for Item I, Appendix B to Part 192.
 
-(4) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 192.485(c) and 192.933(a).
+(4) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 192.485(c), 192.632(a), 192.712(b), and 192.933(a).
 
 (5) ASME/ANSI B31.8-2007, “Gas Transmission and Distribution Piping Systems,” November 30, 2007, (ASME/ANSI B31.8), IBR approved for §§ 192.112(b) and 192.619(a).
 
@@ -60,7 +60,13 @@ Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
 
 (10) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, ASME BPVC, Section IX, IBR approved for §§ 192.225(a); 192.227(a); and Item II, Appendix B to Part 192.
 
-(d) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, Web site: *http://www.astm.org/.*
+(d) American Society for Nondestructive Testing (ASNT), P.O. Box 28518, 1711 Arlingate Lane, Columbus, OH 43228, phone: 800-222-2768, website: *https://www.asnt.org/.*
+
+(1) ANSI/ASNT ILI-PQ-2005(2010), “In-line Inspection Personnel Qualification and Certification,” Reapproved October 11, 2010, (ANSI/ASNT ILI-PQ), IBR approved for § 192.493.
+
+(2) [Reserved]
+
+(e) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, Web site: *http://www.astm.org/.*
 
 (1) ASTM A53/A53M-10, “Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless,” approved October 1, 2010, (ASTM A53/A53M), IBR approved for § 192.113; and Item II, Appendix B to Part 192.
 
@@ -110,25 +116,25 @@ Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
 
 (24) ASTM F2945-12a “Standard Specification for Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings,” Nov. 27, 2012, (ASTM F2945-12a), IBR approved for Item I, Appendix B to Part 192.
 
-(e) Gas Technology Institute (GTI), formerly the Gas Research Institute (GRI)), 1700 S. Mount Prospect Road, Des Plaines, IL 60018, phone: 847-768-0500, Web site: *www.gastechnology.org.*
+(f) Gas Technology Institute (GTI), formerly the Gas Research Institute (GRI)), 1700 S. Mount Prospect Road, Des Plaines, IL 60018, phone: 847-768-0500, Web site: *www.gastechnology.org.*
 
 (1) GRI 02/0057 (2002) “Internal Corrosion Direct Assessment of Gas Transmission Pipelines Methodology,” (GRI 02/0057), IBR approved for § 192.927(c).
 
 (2) [Reserved]
 
-(f) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE., Vienna, VA 22180, phone: 703-281-6613, Web site: *http://www.mss-hq.org/.*
+(g) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE., Vienna, VA 22180, phone: 703-281-6613, Web site: *http://www.mss-hq.org/.*
 
 (1) MSS SP-44-2010, Standard Practice, “Steel Pipeline Flanges,” 2010 edition, (including Errata (May 20, 2011)), (MSS SP-44), IBR approved for § 192.147(a).
 
 (2) [Reserved]
 
-(g) NACE International (NACE), 1440 South Creek Drive, Houston, TX 77084: phone: 281-228-6223 or 800-797-6223, Web site: *http://www.nace.org/Publications/.*
+(h) NACE International (NACE), 1440 South Creek Drive, Houston, TX 77084: phone: 281-228-6223 or 800-797-6223, Web site: *http://www.nace.org/Publications/.*
 
 (1) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” revised June 24, 2010, (NACE SP0502), IBR approved for §§ 192.923(b); 192.925(b); 192.931(d); 192.935(b) and 192.939(a).
 
-(2) [Reserved]
+(2) NACE Standard Practice 0102-2010, “In-Line Inspection of Pipelines,” Revised 2010-03-13, (NACE SP0102), IBR approved for §§ 192.150(a) and 192.493.
 
-(h) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, Massachusetts 02169, phone: 1 617 984-7275, Web site: *http://www.nfpa.org/.*
+(i) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, Massachusetts 02169, phone: 1 617 984-7275, Web site: *http://www.nfpa.org/.*
 
 (1) NFPA-30 (2012), “Flammable and Combustible Liquids Code,” 2012 edition, June 20, 2011, including Errata 30-12-1 (September 27, 2011) and Errata 30-12-2 (November 14, 2011), (NFPA-30), IBR approved for § 192.735(b).
 
@@ -138,13 +144,13 @@ Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
 
 (4) NFPA-70 (2011), “National Electrical Code,” 2011 edition, issued August 5, 2010, (NFPA-70), IBR approved for §§ 192.163(e); and 192.189(c).
 
-(i) Pipeline Research Council International, Inc. (PRCI), c/o Technical Toolboxes, 3801 Kirby Drive, Suite 520, P.O. Box 980550, Houston, TX 77098, phone: 713-630-0505, toll free: 866-866-6766, Web site: *http://www.ttoolboxes.com/.* (Contract number PR-3-805.)
+(j) Pipeline Research Council International, Inc. (PRCI), c/o Technical Toolboxes, 3801 Kirby Drive, Suite 520, P.O. Box 980550, Houston, TX 77098, phone: 713-630-0505, toll free: 866-866-6766, Web site: *http://www.ttoolboxes.com/.* (Contract number PR-3-805.)
 
-(1) AGA, Pipeline Research Committee Project, PR-3-805, “A Modified Criterion for Evaluating the Remaining Strength of Corroded Pipe,” (December 22, 1989), (PRCI PR-3-805 (R-STRENG)), IBR approved for §§ 192.485(c); 192.933(a) and (d).
+(1) AGA, Pipeline Research Committee Project, PR-3-805, “A Modified Criterion for Evaluating the Remaining Strength of Corroded Pipe,” (December 22, 1989), (PRCI PR-3-805 (R-STRENG)), IBR approved for §§ 192.485(c); 192.632(a); 192.712(b); 192.933(a) and (d).
 
 (2) [Reserved]
 
-(j) Plastics Pipe Institute, Inc. (PPI), 105 Decker Court, Suite 825 Irving TX 75062, phone: 469-499-1044, *http://www.plasticpipe.org/.*
+(k) Plastics Pipe Institute, Inc. (PPI), 105 Decker Court, Suite 825 Irving TX 75062, phone: 469-499-1044, *http://www.plasticpipe.org/.*
 
 (1) PPI TR-3/2012, HDB/HDS/PDB/SDB/MRS/CRS, Policies, “Policies and Procedures for Developing Hydrostatic Design Basis (HDB), Hydrostatic Design Stresses (HDS), Pressure Design Basis (PDB), Strength Design Basis (SDB), Minimum Required Strength (MRS) Ratings, and Categorized Required Strength (CRS) for Thermoplastic Piping Materials or Pipe,” updated November 2012, (PPI TR-3/2012), IBR approved for § 192.121.
 

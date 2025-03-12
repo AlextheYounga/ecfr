@@ -1,7 +1,5 @@
 ##### § 600.9 State authorization. #####
 
-Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
-
 (a)(1) An institution described under §§ 600.4, 600.5, and 600.6 is legally authorized by a State if the State has a process to review and appropriately act on complaints concerning the institution including enforcing applicable State laws, and the institution meets the provisions of paragraphs (a)(1)(i), (a)(1)(ii), or (b) of this section.
 
 (i)(A) The institution is established by name as an educational institution by a State through a charter, statute, constitutional provision, or other action issued by an appropriate State agency or State entity and is authorized to operate educational programs beyond secondary education, including programs leading to a degree or certificate.
@@ -20,23 +18,17 @@ Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
 
 (ii) As defined in 25 U.S.C. 1802(2), an Indian tribe, provided that the institution is located on tribal lands and the tribal government has a process to review and appropriately act on complaints concerning an institution and enforces applicable tribal requirements or laws.
 
-(b)(1) Notwithstanding paragraph (a)(1)(i) and (ii) of this section, an institution is considered to be legally authorized to operate educational programs beyond secondary education if it is exempt from State authorization as a religious institution under the State constitution or by State law.
+(b) An institution is considered to be legally authorized to operate educational programs beyond secondary education if it is exempt as a religious institution from State authorization under the State constitution or by State law.
 
-(2) For purposes of paragraph (b)(1) of this section, a religious institution is an institution that -
+(c)(1)(i) If an institution that meets the requirements under paragraph (a)(1) or (b) of this section offers postsecondary education through distance education or correspondence courses to students located in a State in which the institution is not physically located or in which the institution is otherwise subject to that State's jurisdiction as determined by that State, except as provided in paragraph (c)(1)(ii) of this section, the institution must meet any of that State's requirements for it to be legally offering postsecondary distance education or correspondence courses in that State. The institution must, upon request, document the State's approval to the Secretary; or
 
-(i) Is owned, controlled, operated, and maintained by a religious organization lawfully operating as a nonprofit religious corporation; and
+(ii) If an institution that meets the requirements under paragraph (a)(1) or (b) of this section offers postsecondary education through distance education or correspondence courses in a State that participates in a State authorization reciprocity agreement, and the institution is covered by such agreement, the institution is considered to meet State requirements for it to be legally offering postsecondary distance education or correspondence courses in that State, subject to any limitations in that agreement and to any additional requirements of that State not relating to State authorization of distance education. The institution must, upon request, document its coverage under such an agreement to the Secretary.
 
-(ii) Awards only religious degrees or certificates including, but not limited to, a certificate of Talmudic studies, an associate of Biblical studies, a bachelor of religious studies, a master of divinity, or a doctor of divinity.
+(2)(i) For purposes of this section, an institution must make a determination, in accordance with the institution's policies or procedures, regarding the State in which a student is located, which must be applied consistently to all students.
 
-(c)(1)(i) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses to students residing in a State in which the institution is not physically located or in which the institution is otherwise subject to that State's jurisdiction as determined by that State, except as provided in paragraph (c)(1)(ii) of this section, the institution must meet any of that State's requirements for it to be legally offering postsecondary distance education or correspondence courses in that State. The institution must, upon request, document the State's approval to the Secretary; or
+(ii) The institution must, upon request, provide the Secretary with written documentation of its determination of a student's location, including the basis for such determination.
 
-(ii) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses in a State that participates in a State authorization reciprocity agreement, and the institution is covered by such agreement, the institution is considered to meet State requirements for it to be legally offering postsecondary distance education or correspondence courses in that State, subject to any limitations in that agreement and to any additional requirements of that State. The institution must, upon request, document its coverage under such an agreement to the Secretary.
-
-(2) If an institution that meets the requirements under paragraph (a)(1) of this section offers postsecondary education through distance education or correspondence courses to students residing in a State in which the institution is not physically located, for the institution to be considered legally authorized in that State, the institution must document that there is a State process for review and appropriate action on complaints from any of those enrolled students concerning the institution -
-
-(i) In each State in which the institution's enrolled students reside; or
-
-(ii) Through a State authorization reciprocity agreement which designates for this purpose either the State in which the institution's enrolled students reside or the State in which the institution's main campus is located.
+(iii) An institution must make a determination regarding the State in which a student is located at the time of the student's initial enrollment in an educational program and, if applicable, upon formal receipt of information from the student, in accordance with the institution's procedures, that the student's location has changed to another State.
 
 (d) An additional location or branch campus of an institution that meets the requirements under paragraph (a)(1) of this section and that is located in a foreign country, *i.e.,* not in a State, must comply with §§ 600.8, 600.10, 600.20, and 600.32, and the following requirements:
 
@@ -60,4 +52,4 @@ Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
 
 (4) If the State in which the main campus of the institution is located limits the authorization of the institution to exclude the foreign additional location or branch campus, the foreign additional location or branch campus is not considered to be legally authorized by the State.
 
-(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]
+(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016; 81 FR 92261, Dec. 19, 2016]

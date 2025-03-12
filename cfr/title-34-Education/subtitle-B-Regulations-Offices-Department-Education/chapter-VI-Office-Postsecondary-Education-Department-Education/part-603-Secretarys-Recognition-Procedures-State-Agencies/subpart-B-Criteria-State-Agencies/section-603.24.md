@@ -1,7 +1,5 @@
 ##### § 603.24 Criteria for State agencies. #####
 
-Link to an amendment published at 84 FR 58931, Nov. 1, 2019.
-
 The following are the criteria which the Secretary will utilize in designating a State agency as a reliable authority to assess the quality of public postsecondary vocational education in its respective State.
 
 (a) *Functional aspects.* The functional aspects of the State agency must be shown by:
@@ -78,28 +76,10 @@ The following are the criteria which the Secretary will utilize in designating a
 
 (vii) Furnishes the chief executive officer of the institution or program with a written decision of the appeal body, including a statement of its reasons therefor.
 
-(c) *Credit-hour policies.* The State agency, as part of its review of an institution for initial approval or renewal of approval, must conduct an effective review and evaluation of the reliability and accuracy of the institution's assignment of credit hours.
-
-(1) The State agency meets this requirement if -
-
-(i) It reviews the institution's -
-
-(A) Policies and procedures for determining the credit hours, as defined in 34 CFR 600.2, that the institution awards for courses and programs; and
-
-(B) The application of the institution's policies and procedures to its programs and coursework; and
-
-(ii) Makes a reasonable determination of whether the institution's assignment of credit hours conforms to commonly accepted practice in higher education.
-
-(2) In reviewing and evaluating an institution's policies and procedures for determining credit hour assignments, a State agency may use sampling or other methods in the evaluation, sufficient to comply with paragraph (c)(1)(i)(B) of this section.
-
-(3) The State agency must take such actions that it deems appropriate to address any deficiencies that it identifies at an institution as part of its reviews and evaluations under paragraph (c)(1)(i) and (ii) of this section, as it does in relation to other deficiencies it may identify, subject to the requirements of this part.
-
-(4) If, following the institutional review process under this paragraph (c), the agency finds systemic noncompliance with the agency's policies or significant noncompliance regarding one or more programs at the institution, the agency must promptly notify the Secretary.
-
-(d) *Capacity to foster ethical practices.* The State agency must demonstrate its capability and willingness to foster ethical practices by showing that it:
+(c) *Capacity to foster ethical practices.* The State agency must demonstrate its capability and willingness to foster ethical practices by showing that it:
 
 (i) Promotes a well-defined set of ethical standards governing institutional or programmatic practices, including recruitment, advertising, transcripts, fair and equitable student tuition refunds, and student placement services;
 
 (ii) Maintains appropriate review in relation to the ethical practices of each approved institution or program.
 
-(Authority: 20 U.S.C. 1094(c)(4))[39 FR 30042, Aug. 20, 1974, as amended at 75 FR 66947, Oct. 29, 2010]
+(Authority: 20 U.S.C. 1094(c)(4))[39 FR 30042, Aug. 20, 1974, as amended at 75 FR 66947, Oct. 29, 2010; 84 FR 58931, Nov. 1, 2019]

@@ -1,76 +1,74 @@
 ##### § 1260.141 Membership of Board. #####
 
-(a) Beginning with the 2017 Board nominations and the associated appointments effective early in the year 2018, the United States shall be divided into 37 geographical units and 1 unit representing importers, for a total of 38 units. The number of Board members from each unit shall be as follows:
+(a) Beginning with the 2020 Board nominations and the associated appointments effective early in the year 2021, the United States shall be divided into 38 geographical units and 1 unit representing importers, for a total of 39 units. The number of Board members from each unit shall be as follows:
 
-Cattle and Calves<sup>1</sup>
+Table 1 to Paragraph (a)—Cattle and Calves<sup>1</sup>
 
-|       State/unit        |(1,000 head)|Directors|
-|-------------------------|------------|---------|
-|       1. Arizona        |    900     |    1    |
-|       2. Arkansas       |   1,660    |    2    |
-|       3. Colorado       |   2,600    |    3    |
-|       4. Florida        |   1,680    |    2    |
-|        5. Idaho         |   2,307    |    2    |
-|       6. Illinois       |   1,143    |    1    |
-|       7. Indiana        |    873     |    1    |
-|         8. Iowa         |   3,867    |    4    |
-|        9. Kansas        |   5,983    |    6    |
-|      10. Kentucky       |   2,110    |    2    |
-|      11. Louisiana      |    787     |    1    |
-|      12. Michigan       |   1,133    |    1    |
-|      13. Minnesota      |   2,347    |    2    |
-|     14. Mississippi     |    923     |    1    |
-|      15. Missouri       |   3,983    |    4    |
-|       16. Montana       |   2,567    |    3    |
-|      17. Nebraska       |   6,317    |    6    |
-|     18. New Mexico      |   1,340    |    1    |
-|      19. New York       |   1,450    |    1    |
-|   20. North Carolina    |    803     |    1    |
-|    21. North Dakota     |   1,697    |    2    |
-|        22. Ohio         |   1,243    |    1    |
-|      23. Oklahoma       |   4,567    |    5    |
-|       24. Oregon        |   1,300    |    1    |
-|    25. Pennsylvania     |   1,580    |    2    |
-|    26. South Dakota     |   3,783    |    4    |
-|      27. Tennessee      |   1,770    |    2    |
-|        28. Texas        |   11,500   |   12    |
-|        29. Utah         |    807     |    1    |
-|      30. Virginia       |   1,487    |    1    |
-|      31. Wisconsin      |   3,467    |    3    |
-|       32. Wyoming       |   1,293    |    1    |
-|      33. Northwest      |            |    1    |
-|         Alaska          |     10     |         |
-|         Hawaii          |    135     |         |
-|       Washington        |   1,137    |         |
-|          Total          |   1,282    |         |
-|      34. Northeast      |            |    1    |
-|       Connecticut       |     48     |         |
-|        Delaware         |     16     |         |
-|          Maine          |     84     |         |
-|      Massachusetts      |     38     |         |
-|      New Hampshire      |     32     |         |
-|       New Jersey        |     28     |         |
-|      Rhode Island       |     5      |         |
-|         Vermont         |    260     |         |
-|          Total          |    511     |         |
-|    35. Mid-Atlantic     |            |    1    |
-|        Maryland         |    186     |         |
-|      West Virginia      |    382     |         |
-|          Total          |    567     |         |
-|      36. Southeast      |            |    3    |
-|         Alabama         |   1,240    |         |
-|         Georgia         |   1,057    |         |
-|     South Carolina      |    337     |         |
-|          Total          |   2,633    |         |
-|      37. Southwest      |            |    6    |
-|       California        |   5,183    |         |
-|         Nevada          |    442     |         |
-|          Total          |   5,625    |         |
-|38. Importers<sup>2</sup>|   6,949    |    7    |
+|          State/unit          |(1,000 Head)|Directors|
+|------------------------------|------------|---------|
+|          1. Alabama          |   1,313    |    1    |
+|          2. Arizona          |   1,003    |    1    |
+|         3. Arkansas          |   1,763    |    2    |
+|         4. Colorado          |   2,850    |    3    |
+|          5. Florida          |   1,670    |    2    |
+|          6. Georgia          |   1,080    |    1    |
+|           7. Idaho           |   2,430    |    2    |
+|         8. Illinois          |   1,190    |    1    |
+|          9. Indiana          |    877     |    1    |
+|           10. Iowa           |   3,950    |    4    |
+|          11. Kansas          |   6,350    |    6    |
+|         12. Kentucky         |   2,153    |    2    |
+|        13. Louisiana         |    800     |    1    |
+|         14. Michigan         |   1,163    |    1    |
+|        15. Minnesota         |   2,360    |    2    |
+|       16. Mississippi        |    907     |    1    |
+|         17. Missouri         |   4,317    |    4    |
+|         18. Montana          |   2,567    |    3    |
+|         19. Nebraska         |   6,683    |    7    |
+|        20. New Mexico        |   1,473    |    1    |
+|         21. New York         |   1,477    |    1    |
+|      22. North Carolina      |    810     |    1    |
+|       23. North Dakota       |   1,837    |    2    |
+|           24. Ohio           |   1,303    |    1    |
+|         25. Oklahoma         |   5,133    |    5    |
+|          26. Oregon          |   1,303    |    1    |
+|       27. Pennsylvania       |   1,613    |    2    |
+|       28. South Dakota       |   3,967    |    4    |
+|        29. Tennessee         |   1,820    |    2    |
+|          30. Texas           |   12,600   |   13    |
+|           31. Utah           |    807     |    1    |
+|         32. Virginia         |   1,480    |    1    |
+|        33. Wisconsin         |   3,500    |    4    |
+|         34. Wyoming          |   1,317    |    1    |
+|     35. Northwest Unit:      |            |         |
+|           • Alaska           |     15     |         |
+|           • Hawaii           |    143     |         |
+|         • Washington         |   1,163    |         |
+|            Total             |   1,321    |    1    |
+|     36. Northeast Unit:      |            |         |
+|        • Connecticut         |     48     |         |
+|          • Delaware          |     16     |         |
+|           • Maine            |     81     |         |
+|          • Maryland          |    192     |         |
+|       • Massachusetts        |     38     |         |
+|       • New Hampshire        |     35     |         |
+|         • New Jersey         |     29     |         |
+|        • Rhode Island        |     5      |         |
+|          • Vermont           |    260     |         |
+|            Total             |    702     |    1    |
+|    37. Mid-Atlantic Unit:    |            |         |
+|       • South Carolina       |    342     |         |
+|       • West Virginia        |    397     |         |
+|            Total             |    738     |    1    |
+|     38. Southwest Unit:      |            |         |
+|         • California         |   5,167    |         |
+|           • Nevada           |    460     |         |
+|            Total             |   5,627    |    6    |
+|39. Importers Unit<sup>2</sup>|   6,874    |    7    |
 
-<sup>1</sup> 2014, 2015, and 2016 average of January 1 cattle inventory data.
+<sup>1</sup> 2017, 2018, and 2019 average of January 1 cattle inventory data.
 
-<sup>2</sup> 2013, 2014, and 2015 average of annual import data.
+<sup>2</sup> 2016, 2017, and 2018 average of annual import data.
 
 (b) The Board shall be composed of cattle producers and importers appointed by the Secretary from nominations submitted pursuant to the Act and regulations of this part. A producer may only be nominated to represent the unit in which that producer is a resident.
 
@@ -90,4 +88,4 @@ Cattle and Calves<sup>1</sup>
 
 (f) In determining the volume of cattle within the units, the Board and the Secretary shall utilize the information received by the Board pursuant to §§ 1260.201 and 1260.202 industry data and data published by the Department.
 
-[51 FR 26138, July 18, 1986, as amended at 55 FR 20445, May 17, 1990; 58 FR 12999, Mar. 9, 1993; 60 FR 62020, Dec. 4, 1995; 64 FR 3815, Jan. 26, 1999; 67 FR 11412, Mar. 14, 2002; 70 FR 7005, Feb. 10, 2005; 73 FR 60098, Oct. 10, 2008; 76 FR 42014, July 19, 2011; 79 FR 46963, Aug. 12, 2014; 82 FR 27612, June 16, 2017]
+[51 FR 26138, July 18, 1986, as amended at 55 FR 20445, May 17, 1990; 58 FR 12999, Mar. 9, 1993; 60 FR 62020, Dec. 4, 1995; 64 FR 3815, Jan. 26, 1999; 67 FR 11412, Mar. 14, 2002; 70 FR 7005, Feb. 10, 2005; 73 FR 60098, Oct. 10, 2008; 76 FR 42014, July 19, 2011; 79 FR 46963, Aug. 12, 2014; 82 FR 27612, June 16, 2017; 85 FR 39463, July 1, 2020]

@@ -1,5 +1,7 @@
 ##### § 45.9 Cross-border application of margin requirements. #####
 
+Link to an amendment published at 85 FR 39772, July 1, 2020.
+
 (a) *Transactions to which this rule does not apply.* The requirements of §§ 45.3 through 45.8 and §§ 45.10 through 45.12 shall not apply to any foreign non-cleared swap or foreign non-cleared security-based swap of a foreign covered swap entity.
 
 (b) For purposes of this section, a *foreign non-cleared swap* or *foreign non-cleared security-based swap* is any non-cleared swap or non-cleared security-based swap with respect to which neither the counterparty to the foreign covered swap entity nor any party that provides a guarantee of either party's obligations under the non-cleared swap or non-cleared security-based swap is:

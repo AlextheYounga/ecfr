@@ -1,8 +1,6 @@
 ##### § 230.431 Summary prospectuses. #####
 
-Link to an amendment published at 85 FR 26093, May 1, 2020.
-
-(a) A summary prospectus prepared and filed (except a summary prospectus filed by an open-end management investment company registered under the Investment Company Act of 1940) as part of a registration statement in accordance with this section shall be deemed to be a prospectus permitted under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)) if the form used for registration of the securities to be offered provides for the use of a summary prospectus and the following conditions are met:
+(a) A summary prospectus prepared and filed (except a summary prospectus filed by an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a separate account (as defined in section 2(a)(14) of the Securities Act (15 U.S.C. 77b(a)(14)) registered under the Investment Company Act of 1940 on §§ 239.17a and 274.11b of this chapter (Form N-3), §§ 239.17b and 274.11c of this chapter (Form N-4), or §§ 239.17c and 274.11d of this chapter (Form N-6) as part of a registration statement in accordance with this section shall be deemed to be a prospectus permitted under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)) if the form used for registration of the securities to be offered provides for the use of a summary prospectus and the following conditions are met:
 
 (1)(i) The registrant is organized under the laws of the United States or any State or Territory or the District of Columbia and has its principal business operations in the United States or its territories; or
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 26093, May 1, 2020.
 
 (g) Eight copies of every proposed summary prospectus shall be filed as a part of the registration statement, or as an amendment thereto, at least 5 days (exclusive of Saturdays, Sundays and holidays) prior to the use thereof, or prior to the release for publication by any newspaper, magazine or other person, whichever is earlier. The Commission may, however, in its discretion, authorize such use or publication prior to the expiration of the 5-day period upon a written request for such authorization. Within 7 days after the first use or publication thereof, 5 additional copies shall be filed in the exact form in which it was used or published.
 
-[47 FR 11440, Mar. 16, 1982, as amended at 47 FR 54770, Dec. 6, 1982; 63 FR 13984, Mar. 23, 1998; 76 FR 71876, Nov. 21, 2011]
+[47 FR 11440, Mar. 16, 1982, as amended at 47 FR 54770, Dec. 6, 1982; 63 FR 13984, Mar. 23, 1998; 76 FR 71876, Nov. 21, 2011; 85 FR 26093, May 1, 2020]

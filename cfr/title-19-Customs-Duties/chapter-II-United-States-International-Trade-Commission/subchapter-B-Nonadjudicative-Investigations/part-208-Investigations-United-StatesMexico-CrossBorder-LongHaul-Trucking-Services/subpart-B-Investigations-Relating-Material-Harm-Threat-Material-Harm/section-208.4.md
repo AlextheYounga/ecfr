@@ -1,0 +1,3 @@
+##### § 208.4 Who may file a petition, request, or resolution. #####
+
+An investigation under this subpart may be commenced on the basis of a petition properly filed by an interested party described in § 208.2(i) of this part which is representative of a United States long-haul trucking services industry; at the request of the President or the Trade Representative; or upon the resolution of the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate.

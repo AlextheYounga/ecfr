@@ -1,8 +1,10 @@
 ##### § 230.482 Advertising by an investment company as satisfying requirements of section 10. #####
 
-Link to an amendment published at 85 FR 26093, May 1, 2020.
+(a) *Scope of rule.* This section applies to an advertisement or other sales material (*advertisement*) with respect to securities of an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) (*1940 Act*), or a business development company, that is selling or proposing to sell its securities pursuant to a registration statement that has been filed under the Act. This section does not apply to an advertisement that is excepted from the definition of prospectus by section 2(a)(10) of the Act (15 U.S.C. 77b(a)(10)), § 230.498(d), or § 230.498A(g) or (j)(2), or to a summary prospectus under § 230.498 or § 230.498A. An advertisement that complies with this section, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Act (15 U.S.C 77j(a)), will be deemed to be a prospectus under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)).
 
-(a) *Scope of rule.* This section applies to an advertisement or other sales material (*advertisement*) with respect to securities of an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) (*1940 Act*), or a business development company, that is selling or proposing to sell its securities pursuant to a registration statement that has been filed under the Act. This section does not apply to an advertisement that is excepted from the definition of prospectus by section 2(a)(10) of the Act (15 U.S.C. 77b(a)(10)) or § 230.498(d) or to a summary prospectus under § 230.498. An advertisement that complies with this section, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Act (15 U.S.C 77j(a)), will be deemed to be a prospectus under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)).
+Note 1 to paragraph (a):
+
+The fact that an advertisement complies with this section does not relieve the investment company, underwriter, or dealer of any obligations with respect to the advertisement under the antifraud provisions of the Federal securities laws. For guidance about factors to be weighed in determining whether statements, representations, illustrations, and descriptions contained in investment company advertisements are misleading, see § 230.156. In addition, an advertisement that complies with this section is subject to the legibility requirements of § 230.420.
 
 Note to paragraph (a):
 
@@ -138,4 +140,4 @@ Note to paragraph (h):
 
 These advertisements, unless filed with NASD Regulation, Inc., are required to be filed in accordance with the requirements of § 230.497.
 
-[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014]
+[68 FR 57777, Oct. 6, 2003, as amended at 74 FR 4584, Jan. 26, 2009; 79 FR 47957, Aug. 14, 2014; 85 FR 26093, May 1, 2020]

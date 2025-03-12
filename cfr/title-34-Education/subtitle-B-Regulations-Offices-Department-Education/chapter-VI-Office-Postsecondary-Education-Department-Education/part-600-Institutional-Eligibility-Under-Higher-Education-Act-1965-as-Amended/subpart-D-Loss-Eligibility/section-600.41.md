@@ -1,7 +1,5 @@
 ##### § 600.41 Termination and emergency action proceedings. #####
 
-Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
-
 (a) If the Secretary believes that a previously designated eligible institution as a whole, or at one or more of its locations, does not satisfy the statutory or regulatory requirements that define that institution as an eligible institution, the Secretary may -
 
 (1) Terminate the institution's eligibility designation in whole or as to a particular location -
@@ -12,17 +10,15 @@ Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
 
 (A) Its previously qualifying as an eligible vocational school;
 
-(B) Its previously qualifying as an eligible institution, notwithstanding its unaccredited status, under the transfer-of-credit alternative to accreditation (as that alternative existed in 20 U.S.C. 1085, 1088, and 1141(a)(5)(B) and § 600.8 until July 23, 1992);
+(B) Its loss of accreditation or preaccreditation;
 
-(C) Its loss of accreditation or preaccreditation;
+(C) Its loss of legal authority to provide postsecondary education in the State in which it is physically located;
 
-(D) Its loss of legal authority to provide postsecondary education in the State in which it is physically located;
+(D) Its violations of the provisions contained in § 600.5(a)(8) or § 600.7(a);
 
-(E) Its violations of the provisions contained in § 600.5(a)(8) or § 600.7(a);
+(E) Its permanently closing; or
 
-(F) Its permanently closing; or
-
-(G) Its ceasing to provide educational programs for a reason other than a normal vacation period or a natural disaster that directly affects the institution, a particular location, or the students of the institution or location;
+(F) Its ceasing to provide educational programs for a reason other than a normal vacation period or a natural disaster that directly affects the institution, a particular location, or the students of the institution or location;
 
 (2) Limit, under the provisions of 34 CFR 668.86, the authority of the institution to disburse, deliver, or cause the disbursement or delivery of funds under one or more title IV, HEA programs as otherwise provided under 34 CFR 668.26 for the benefit of students enrolled at the ineligible institution or location prior to the loss of eligibility of that institution or location; and
 
@@ -50,7 +46,7 @@ Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
 
 (ii) Made to students enrolled in the ineligible institution, location, or educational program.
 
-(d) After a termination under this section of the eligibility of an institution as a whole or as to a location or educational program becomes final, the institution may not certify applications for, make awards of or commitments for, deliver, or disburse funds under the applicable title IV, HEA program, except -
+(d) After a termination under this section of the eligibility of an institution as a whole or as to a location or educational program becomes final, the institution may not originate applications for, make awards of or commitments for, deliver, or disburse funds under the applicable title IV, HEA program, except -
 
 (1) In accordance with the requirements of 34 CFR 668.26(c) with respect to students enrolled in the ineligible institution, location, or educational program; and
 
@@ -72,4 +68,4 @@ Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
 
 (3) If the basis for the loss of eligibility of a foreign graduate medical school is one or more annual pass rates on the U.S. Medical Licensing Examination below the threshold required in § 600.55(f)(1)(ii), the sole issue is whether one or more of the foreign medical school's pass rate or rates for the preceding calendar year fell below that threshold. For a foreign graduate medical school that opted to have the Educational Commission for Foreign Medical Graduates (ECFMG) calculate and provide the pass rates directly to the Secretary for the preceding calendar year as permitted under § 600.55(d)(2) in lieu of the foreign graduate medical school providing pass rate data to the Secretary under § 600.55(d)(1)(iii), the ECFMG's calculations of the school's rates are conclusive; and the presiding official has no authority to consider challenges to the computation of the rate or rates by the ECFMG.
 
-(Authority: 20 U.S.C. 1088, 1091, 1094, 1099a-3, and 1141)[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40623, July 29, 1998; 75 FR 67193, Nov. 1, 2010]
+(Authority: 20 U.S.C. 1088, 1091, 1094, 1099a-3, and 1141)[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40623, July 29, 1998; 75 FR 67193, Nov. 1, 2010; 84 FR 58917, Nov. 1, 2019]

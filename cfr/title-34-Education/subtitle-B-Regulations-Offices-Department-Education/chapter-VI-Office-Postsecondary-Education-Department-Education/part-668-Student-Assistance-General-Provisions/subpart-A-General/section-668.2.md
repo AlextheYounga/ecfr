@@ -308,4 +308,4 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 *William D. Ford Federal Direct Loan (Direct Loan) Program:* The loan program authorized by Title IV, Part D of the HEA.
 
-(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 22418, Apr. 29, 1994]Editorial Note: For Federal Register citations affecting § 668.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 22418, Apr. 29, 1994]Editorial Notes:1. For Federal Register citations affecting § 668.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,26 +1,24 @@
 ##### § 195.452 Pipeline integrity management in high consequence areas. #####
 
-Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
-
 (a) *Which pipelines are covered by this section?* This section applies to each hazardous liquid pipeline and carbon dioxide pipeline that could affect a high consequence area, including any pipeline located in a high consequence area unless the operator effectively demonstrates by risk assessment that the pipeline could not affect the area. (Appendix C of this part provides guidance on determining if a pipeline could affect a high consequence area.) Covered pipelines are categorized as follows:
 
 (1) Category 1 includes pipelines existing on May 29, 2001, that were owned or operated by an operator who owned or operated a total of 500 or more miles of pipeline subject to this part.
 
 (2) Category 2 includes pipelines existing on May 29, 2001, that were owned or operated by an operator who owned or operated less than 500 miles of pipeline subject to this part.
 
-(3) Category 3 includes pipelines constructed or converted after May 29, 2001.
+(3) Category 3 includes pipelines constructed or converted after May 29, 2001, and low-stress pipelines in rural areas under § 195.12.
 
 (4) Low stress pipelines as specified in § 195.12.
 
 (b) *What program and practices must operators use to manage pipeline integrity?* Each operator of a pipeline covered by this section must:
 
-(1) Develop a written integrity management program that addresses the risks on each segment of pipeline in the first column of the following table not later than the date in the second column:
+(1) Develop a written integrity management program that addresses the risks on each segment of pipeline in the first column of the following table no later than the date in the second column:
 
-| Pipeline |                        Date                        |
-|----------|----------------------------------------------------|
-|Category 1|                  March 31, 2002.                   |
-|Category 2|                 February 18, 2003.                 |
-|Category 3|1 year after the date the pipeline begins operation.|
+| Pipeline |                                                 Date                                                 |
+|----------|------------------------------------------------------------------------------------------------------|
+|Category 1|                                           March 31, 2002.                                            |
+|Category 2|                                          February 18, 2003.                                          |
+|Category 3|Date the pipeline begins operation or as provided in § 195.12 for low stress pipelines in rural areas.|
 
 (2) Include in the program an identification of each pipeline or pipeline segment in the first column of the following table not later than the date in the second column:
 
@@ -48,9 +46,9 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (c) *What must be in the baseline assessment plan?* (1) An operator must include each of the following elements in its written baseline assessment plan:
 
-(i) The methods selected to assess the integrity of the line pipe. An operator must assess the integrity of the line pipe by any of the following methods. The methods an operator selects to assess low frequency electric resistance welded pipe or lap welded pipe susceptible to longitudinal seam failure must be capable of assessing seam integrity and of detecting corrosion and deformation anomalies.
+(i) The methods selected to assess the integrity of the line pipe. An operator must assess the integrity of the line pipe by in-line inspection tool(s) described in paragraph (c)(1)(i)(A) of this section for the range of relevant threats to the pipeline segment. If it is impracticable based upon the construction of the pipeline (*e.g.,* diameter changes, sharp bends, and elbows) or operational limits including operating pressure, low flow, pipeline length, or availability of in-line inspection tool technology for the pipe diameter, then the operator must use the appropriate method(s) in paragraphs (c)(1)(i)(B), (C), or (D) of this section for the range of relevant threats to the pipeline segment. The methods an operator selects to assess low-frequency electric resistance welded pipe, pipe with a seam factor less than 1.0 as defined in § 195.106(e) or lap-welded pipe susceptible to longitudinal seam failure, must be capable of assessing seam integrity, cracking, and of detecting corrosion and deformation anomalies.
 
-(A) In-Line Inspection tool or tools capable of detecting corrosion and deformation anomalies, including dents, gouges, and grooves. For pipeline segments that are susceptible to cracks (pipe body and weld seams), an operator must use an in-line inspection tool or tools capable of detecting crack anomalies. When performing an assessment using an In-Line Inspection Tool, an operator must comply with § 195.591;
+(A) In-line inspection tool or tools capable of detecting corrosion and deformation anomalies including dents, gouges, and grooves. For pipeline segments with an identified or probable risk or threat related to cracks (such as at pipe body or weld seams) based on the risk factors specified in paragraph (e), an operator must use an in-line inspection tool or tools capable of detecting crack anomalies. When performing an assessment using an in-line inspection tool, an operator must comply with § 195.591. An operator using this method must explicitly consider uncertainties in reported results (including tool tolerance, anomaly findings, and unity chart plots or equivalent for determining uncertainties) in identifying anomalies;
 
 (B) Pressure test conducted in accordance with subpart E of this part;
 
@@ -64,26 +62,11 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (2) An operator must document, prior to implementing any changes to the plan, any modification to the plan, and reasons for the modification.
 
-(d) *When must operators complete baseline assessments?* Operators must complete baseline assessments as follows:
+(d) *When must operators complete baseline assessments?*
 
-(1) *Time periods.* Complete assessments before the following deadlines:
+(1) *All pipelines.* An operator must complete the baseline assessment before a new or conversion-to-service pipeline begins operation through the development of procedures, identification of high consequence areas, and pressure testing of could-affect high consequence areas in accordance with § 195.304.
 
-|If the pipeline is:|Then complete baseline assessments not later than the following date according to a schedule that prioritizes assessments:|And assess at least 50 percent of the line pipe on an expedited basis, beginning with the highest risk pipe, not later than:|
-|-------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|    Category 1     |                                                      March 31, 2008                                                      |                                                    September 30, 2004.                                                     |
-|    Category 2     |                                                    February 17, 2009                                                     |                                                      August 16, 2005.                                                      |
-|    Category 3     |                                            Date the pipeline begins operation                                            |                                                      Not applicable.                                                       |
-
-(2) *Prior assessment.* To satisfy the requirements of paragraph (c)(1)(i) of this section for pipelines in the first column of the following table, operators may use integrity assessments conducted after the date in the second column, if the integrity assessment method complies with this section. However, if an operator uses this prior assessment as its baseline assessment, the operator must reassess the line pipe according to paragraph (j)(3) of this section. The table follows:
-
-| Pipeline |       Date       |
-|----------|------------------|
-|Category 1| January 1, 1996. |
-|Category 2|February 15, 1997.|
-
-(3) *Newly-identified areas.* (i) When information is available from the information analysis (see paragraph (g) of this section), or from Census Bureau maps, that the population density around a pipeline segment has changed so as to fall within the definition in § 195.450 of a high population area or other populated area, the operator must incorporate the area into its baseline assessment plan as a high consequence area within one year from the date the area is identified. An operator must complete the baseline assessment of any line pipe that could affect the newly-identified high consequence area within five years from the date the area is identified.
-
-(ii) An operator must incorporate a new unusually sensitive area into its baseline assessment plan within one year from the date the area is identified. An operator must complete the baseline assessment of any line pipe that could affect the newly-identified high consequence area within five years from the date the area is identified.
+(2) *Newly identified areas.* If an operator obtains information (whether from the information analysis required under paragraph (g) of this section, Census Bureau maps, or any other source) demonstrating that the area around a pipeline segment has changed to meet the definition of a high consequence area (*see* § 195.450), that area must be incorporated into the operator's baseline assessment plan within 1 year from the date that the information is obtained. An operator must complete the baseline assessment of any pipeline segment that could affect a newly identified high consequence area within 5 years from the date an operator identifies the area.
 
 (e) *What are the risk factors for establishing an assessment schedule (for both the baseline and continual integrity assessments)?* (1) An operator must establish an integrity assessment schedule that prioritizes pipeline segments for assessment (see paragraphs (d)(1) and (j)(3) of this section). An operator must base the assessment schedule on all risk factors that reflect the risk conditions on the pipeline segment. The factors an operator must consider include, but are not limited to:
 
@@ -99,7 +82,7 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (vi) Existing or projected activities in the area;
 
-(vii) Local environmental factors that could affect the pipeline (e.g., corrosivity of soil, subsidence, climatic);
+(vii) Local environmental factors that could affect the pipeline (*e.g.,* seismicity, corrosivity of soil, subsidence, climatic);
 
 (viii) geo-technical hazards; and
 
@@ -125,23 +108,65 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (8) A process for review of integrity assessment results and information analysis by a person qualified to evaluate the results and information (see paragraph (h)(2) of this section).
 
-(g) *What is an information analysis?* In periodically evaluating the integrity of each pipeline segment (paragraph (j) of this section), an operator must analyze all available information about the integrity of the entire pipeline and the consequences of a failure. This information includes:
+(g) *What is an information analysis?* In periodically evaluating the integrity of each pipeline segment (*see* paragraph (j) of this section), an operator must analyze all available information about the integrity of its entire pipeline and the consequences of a possible failure along the pipeline. Operators must continue to comply with the data integration elements specified in § 195.452(g) that were in effect on October 1, 2018, until October 1, 2022. Operators must begin to integrate all the data elements specified in this section starting October 1, 2020, with all attributes integrated by October 1, 2022. This analysis must:
 
-(1) Information critical to determining the potential for, and preventing, damage due to excavation, including current and planned damage prevention activities, and development or planned development along the pipeline segment;
+(1) Integrate information and attributes about the pipeline that include, but are not limited to:
 
-(2) Data gathered through the integrity assessment required under this section;
+(i) Pipe diameter, wall thickness, grade, and seam type;
 
-(3) Data gathered in conjunction with other inspections, tests, surveillance and patrols required by this Part, including, corrosion control monitoring and cathodic protection surveys; and
+(ii) Pipe coating, including girth weld coating;
 
-(4) Information about how a failure would affect the high consequence area, such as location of the water intake.
+(iii) Maximum operating pressure (MOP) and temperature;
 
-(h) *What actions must an operator take to address integrity issues?* - (1) *General requirements.* An operator must take prompt action to address all anomalous conditions the operator discovers through the integrity assessment or information analysis. In addressing all conditions, an operator must evaluate all anomalous conditions and remediate those that could reduce a pipeline's integrity. An operator must be able to demonstrate that the remediation of the condition will ensure the condition is unlikely to pose a threat to the long-term integrity of the pipeline. An operator must comply with § 195.422 when making a repair.
+(iv) Endpoints of segments that could affect high consequence areas (HCAs);
+
+(v) Hydrostatic test pressure including any test failures or leaks - if known;
+
+(vi) Location of casings and if shorted;
+
+(vii) Any in-service ruptures or leaks - including identified causes;
+
+(viii) Data gathered through integrity assessments required under this section;
+
+(ix) Close interval survey (CIS) survey results;
+
+(x) Depth of cover surveys;
+
+(xi) Corrosion protection (CP) rectifier readings;
+
+(xii) CP test point survey readings and locations;
+
+(xiii) AC/DC and foreign structure interference surveys;
+
+(xiv) Pipe coating surveys and cathodic protection surveys.
+
+(xv) Results of examinations of exposed portions of buried pipelines (*i.e.,* pipe and pipe coating condition, see § 195.569);
+
+(xvi) Stress corrosion cracking (SCC) and other cracking (pipe body or weld) excavations and findings, including in-situ non-destructive examinations and analysis results for failure stress pressures and cyclic fatigue crack growth analysis to estimate the remaining life of the pipeline;
+
+(xvii) Aerial photography;
+
+(xviii) Location of foreign line crossings;
+
+(xix) Pipe exposures resulting from repairs and encroachments;
+
+(xx) Seismicity of the area; and
+
+(xxi) Other pertinent information derived from operations and maintenance activities and any additional tests, inspections, surveys, patrols, or monitoring required under this part.
+
+(2) Consider information critical to determining the potential for, and preventing, damage due to excavation, including current and planned damage prevention activities, and development or planned development along the pipeline;
+
+(3) Consider how a potential failure would affect high consequence areas, such as location of a water intake.
+
+(4) Identify spatial relationships among anomalous information (*e.g.,* corrosion coincident with foreign line crossings; evidence of pipeline damage where aerial photography shows evidence of encroachment). Storing the information in a geographic information system (GIS), alone, is not sufficient. An operator must analyze for interrelationships among the data.
+
+(h) *What actions must an operator take to address integrity issues?* - (1) *General requirements.* An operator must take prompt action to address all anomalous conditions in the pipeline that the operator discovers through the integrity assessment or information analysis. In addressing all conditions, an operator must evaluate all anomalous conditions and remediate those that could reduce a pipeline's integrity, as required by this part. An operator must be able to demonstrate that the remediation of the condition will ensure that the condition is unlikely to pose a threat to the long-term integrity of the pipeline. An operator must comply with all other applicable requirements in this part in remediating a condition. Each operator must, in repairing its pipeline systems, ensure that the repairs are made in a safe and timely manner and are made so as to prevent damage to persons, property, or the environment. The calculation method(s) used for anomaly evaluation must be applicable for the range of relevant threats.
 
 (i) *Temporary pressure reduction.* An operator must notify PHMSA, in accordance with paragraph (m) of this section, if the operator cannot meet the schedule for evaluation and remediation required under paragraph (h)(3) of this section and cannot provide safety through a temporary reduction in operating pressure.
 
 (ii) *Long-term pressure reduction.* When a pressure reduction exceeds 365 days, the operator must notify PHMSA in accordance with paragraph (m) of this section and explain the reasons for the delay. An operator must also take further remedial action to ensure the safety of the pipeline.
 
-(2) *Discovery of condition.* Discovery of a condition occurs when an operator has adequate information about the condition to determine that the condition presents a potential threat to the integrity of the pipeline. An operator must promptly, but no later than 180 days after an integrity assessment, obtain sufficient information about a condition to make that determination, unless the operator can demonstrate that the 180-day period is impracticable.
+(2) *Discovery of condition.* Discovery of a condition occurs when an operator has adequate information to determine that a condition presenting a potential threat to the integrity of the pipeline exists. An operator must promptly, but no later than 180 days after an assessment, obtain sufficient information about a condition to make that determination, unless the operator can demonstrate the 180-day interval is impracticable. If the operator believes that 180 days are impracticable to make a determination about a condition found during an assessment, the pipeline operator must notify PHMSA in accordance with paragraph (m) of this section and provide an expected date when adequate information will become available.
 
 (3) *Schedule for evaluation and remediation.* An operator must complete remediation of a condition according to a schedule prioritizing the conditions for evaluation and remediation. If an operator cannot meet the schedule for any condition, the operator must explain the reasons why it cannot meet the schedule and how the changed schedule will not jeopardize public safety or environmental protection.
 
@@ -203,7 +228,9 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (vii) Physical support of the pipeline segment such as by a cable suspension bridge;
 
-(viii) Exposure of the pipeline to operating pressure exceeding established maximum operating pressure.
+(viii) Exposure of the pipeline to operating pressure exceeding established maximum operating pressure;
+
+(ix) Seismicity of the area.
 
 (3) *Leak detection.* An operator must have a means to detect leaks on its pipeline system. An operator must evaluate the capability of its leak detection means and modify, as necessary, to protect the high consequence area. An operator's evaluation must, at least, consider, the following factors - length and size of the pipeline, type of product carried, the pipeline's proximity to the high consequence area, the swiftness of leak detection, location of nearest response personnel, leak history, and risk assessment results.
 
@@ -211,7 +238,7 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (j) *What is a continual process of evaluation and assessment to maintain a pipeline's integrity?* - (1) *General.* After completing the baseline integrity assessment, an operator must continue to assess the line pipe at specified intervals and periodically evaluate the integrity of each pipeline segment that could affect a high consequence area.
 
-(2) *Evaluation.* An operator must conduct a periodic evaluation as frequently as needed to assure pipeline integrity. An operator must base the frequency of evaluation on risk factors specific to its pipeline, including the factors specified in paragraph (e) of this section. The evaluation must consider the results of the baseline and periodic integrity assessments, information analysis (paragraph (g) of this section), and decisions about remediation, and preventive and mitigative actions (paragraphs (h) and (i) of this section).
+(2) *Verifying covered segments.* An operator must verify the risk factors used in identifying pipeline segments that could affect a high consequence area on at least an annual basis not to exceed 15 months (Appendix C of this part provides additional guidance on factors that can influence whether a pipeline segment could affect a high consequence area). If a change in circumstance indicates that the prior consideration of a risk factor is no longer valid or that an operator should consider new risk factors, an operator must perform a new integrity analysis and evaluation to establish the endpoints of any previously identified covered segments. The integrity analysis and evaluation must include consideration of the results of any baseline and periodic integrity assessments (*see* paragraphs (b), (c), (d), and (e) of this section), information analyses (*see* paragraph (g) of this section), and decisions about remediation and preventive and mitigative actions (*see* paragraphs (h) and (i) of this section). An operator must complete the first annual verification under this paragraph no later than July 1, 2021.
 
 (3) *Assessment intervals.* An operator must establish five-year intervals, not to exceed 68 months, for continually assessing the line pipe's integrity. An operator must base the assessment intervals on the risk the line pipe poses to the high consequence area to determine the priority for assessing the pipeline segments. An operator must establish the assessment intervals based on the factors specified in paragraph (e) of this section, the analysis of the results from the last integrity assessment, and the information analysis required by paragraph (g) of this section.
 
@@ -245,4 +272,18 @@ Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
 
 (2) Sending the notification by mail to ATTN: Information Resources Manager, DOT/PHMSA/OPS, East Building, 2nd Floor, E22-321, 1200 New Jersey Ave SE., Washington, DC 20590.
 
-[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000]Editorial Note:For Federal Register citations affecting § 195.452, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(n) *Accommodation of instrumented internal inspection devices* -
+
+(1) *Scope.* This paragraph does not apply to any pipeline facilities listed in § 195.120(b).
+
+(2) *General.* An operator must ensure that each pipeline is modified to accommodate the passage of an instrumented internal inspection device by July 2, 2040.
+
+(3) *Newly identified areas.* If a pipeline could affect a newly identified high consequence area (*see* paragraph (d)(2) of this section) after July 2, 2035, an operator must modify the pipeline to accommodate the passage of an instrumented internal inspection device within 5 years of the date of identification or before performing the baseline assessment, whichever is sooner.
+
+(4) *Lack of accommodation.* An operator may file a petition under § 190.9 of this chapter for a finding that the basic construction (*i.e.,* length, diameter, operating pressure, or location) of a pipeline cannot be modified to accommodate the passage of an instrumented internal inspection device or that the operator determines it would abandon or shut-down a pipeline as a result of the cost to comply with the requirement of this section.
+
+(5) *Emergencies.* An operator may file a petition under § 190.9 of this chapter for a finding that a pipeline cannot be modified to accommodate the passage of an instrumented internal inspection device as a result of an emergency. An operator must file such a petition within 30 days after discovering the emergency. If the petition is denied, the operator must modify the pipeline to allow the passage of an instrumented internal inspection device within 1 year after the date of the notice of the denial.
+
+[Amdt. 195-70, 65 FR 75406, Dec. 1, 2000]Editorial Notes:1. For Federal Register citations affecting § 195.452, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 84 FR 52296, Oct. 1, 2019, § 195.452 was amended by adding paragraph (o); however, the amendment could not be incorporated because the revised text was not provided.

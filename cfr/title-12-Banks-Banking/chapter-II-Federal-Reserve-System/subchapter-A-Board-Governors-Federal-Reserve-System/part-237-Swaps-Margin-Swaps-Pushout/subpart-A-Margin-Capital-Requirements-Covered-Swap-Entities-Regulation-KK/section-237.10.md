@@ -1,5 +1,7 @@
 ##### § 237.10 Documentation of margin matters. #####
 
+Link to an amendment published at 85 FR 39774, July 1, 2020.
+
 A covered swap entity shall execute trading documentation with each counterparty that is either a swap entity or financial end user regarding credit support arrangements that:
 
 (a) Provides the covered swap entity and its counterparty with the contractual right to collect and post initial margin and variation margin in such amounts, in such form, and under such circumstances as are required by this subpart; and

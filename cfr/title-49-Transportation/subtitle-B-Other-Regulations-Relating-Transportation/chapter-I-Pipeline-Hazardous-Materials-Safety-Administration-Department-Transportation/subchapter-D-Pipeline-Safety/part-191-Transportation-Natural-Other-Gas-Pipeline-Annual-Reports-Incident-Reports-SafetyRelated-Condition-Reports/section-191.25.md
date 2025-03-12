@@ -1,12 +1,12 @@
 ##### § 191.25 Filing safety-related condition reports. #####
 
-Link to an amendment published at 84 FR 52242, Oct. 1, 2019.
+(a) Each report of a safety-related condition under § 191.23(a)(1) through (9) must be filed (received by the Associate Administrator) in writing within 5 working days (not including Saturday, Sunday, or Federal holidays) after the day a representative of an operator first determines that the condition exists, but not later than 10 working days after the day a representative of an operator discovers the condition. Separate conditions may be described in a single report if they are closely related. Reporting methods and report requirements are described in paragraph (c) of this section.
 
-(a) Each report of a safety-related condition under § 191.23(a) must be filed (received by OPS within five working days, not including Saturday, Sunday, or Federal Holidays) after the day a representative of the operator first determines that the condition exists, but not later than 10 working days after the day a representative of the operator discovers the condition. Separate conditions may be described in a single report if they are closely related. Reports may be transmitted by electronic mail to *InformationResourcesManager@dot.gov* or by facsimile at (202) 366-7128.
+(b) Each report of a maximum allowable operating pressure exceedance meeting the requirements of criteria in § 191.23(a)(10) for a gas transmission pipeline must be filed (received by the Associate Administrator) in writing within 5 calendar days of the exceedance using the reporting methods and report requirements described in paragraph (c) of this section.
 
-(b) The report must be headed “Safety-Related Condition Report” and provide the following information:
+(c) Reports must be filed by email to *InformationResourcesManager@dot.gov* or by facsimile to (202) 366-7128. For a report made pursuant to § 191.23(a)(1) through (9), the report must be headed “Safety-Related Condition Report.” For a report made pursuant to § 191.23(a)(10), the report must be headed “Maximum Allowable Operating Pressure Exceedances.” All reports must provide the following information:
 
-(1) Name and principal address of operator.
+(1) Name, principal address, and operator identification number (OPID) of the operator.
 
 (2) Date of report.
 
@@ -22,4 +22,4 @@ Link to an amendment published at 84 FR 52242, Oct. 1, 2019.
 
 (8) The corrective action taken (including reduction of pressure or shutdown) before the report is submitted and the planned follow-up or future corrective action, including the anticipated schedule for starting and concluding such action.
 
-[Amdt. 191-6, 53 FR 24949, July 1, 1988; 53 FR 29800, Aug. 8, 1988, as amended by Amdt. 191-7, 54 FR 32344, Aug. 7, 1989; Amdt. 191-8, 54 FR 40878, Oct. 4, 1989; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-23, 80 FR 12777, Mar. 11, 2015]
+[Amdt. No. 191-26, 84 FR 52242, Oct. 1, 2019]

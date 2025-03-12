@@ -1,5 +1,7 @@
 ##### § 349.11 Special rules for affiliates. #####
 
+Link to an amendment published at 85 FR 39776, July 1, 2020.
+
 (a) *Affiliates.* This subpart applies to a non-cleared swap or non-cleared security-based swap of a covered swap entity with its affiliate, unless the swap or security-based swap is excluded from coverage under § 349.1(d) or as otherwise provided in this section. To the extent of any inconsistency between this section and any other provision of this subpart, this section will apply.
 
 (b) *Initial margin* - (1) *Posting of initial margin.* The requirement for a covered swap entity to post initial margin under § 349.3(b) does not apply with respect to any non-cleared swap or non-cleared security-based swap with a counterparty that is an affiliate. A covered swap entity shall calculate the amount of initial margin that would be required to be posted to an affiliate that is a financial end user with material swaps exposure pursuant to § 349.3(b) and provide documentation of such amount to each affiliate on a daily basis.

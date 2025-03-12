@@ -1,7 +1,5 @@
 ##### § 668.171 General. #####
 
-Link to an amendment published at 84 FR 49911, Sept. 23, 2019.
-
 (a) *Purpose.* To begin and to continue to participate in any title IV, HEA program, an institution must demonstrate to the Secretary that it is financially responsible under the standards established in this subpart. As provided under section 498(c)(1) of the HEA, the Secretary determines whether an institution is financially responsible based on the institution's ability to -
 
 (1) Provide the services described in its official publications and statements;
@@ -10,141 +8,127 @@ Link to an amendment published at 84 FR 49911, Sept. 23, 2019.
 
 (3) Provide the administrative resources necessary to comply with title IV, HEA program requirements.
 
-(b) *General standards of financial responsibility.* Except as provided under paragraphs (e) and (f) of this section, the Secretary considers an institution to be financially responsible if the Secretary determines that -
+(b) *General standards of financial responsibility.* Except as provided under paragraphs (c), (d), and (h) of this section, the Secretary considers an institution to be financially responsible if the Secretary determines that -
 
 (1) The institution's Equity, Primary Reserve, and Net Income ratios yield a composite score of at least 1.5, as provided under § 668.172 and appendices A and B to this subpart;
 
 (2) The institution has sufficient cash reserves to make required returns of unearned title IV, HEA program funds, as provided under § 668.173;
 
-(3) The institution is able to meet all of its financial obligations and otherwise provide the administrative resources necessary to comply with title IV, HEA program requirements. An institution may not be able to meet its financial or administrative obligations if it is subject to an action or event described in paragraph (c), (d), (e), (f), or (g) of this section. The Secretary considers those actions or events in determining whether the institution is financially responsible only if they occur on or after July 1, 2017; and
+(3) The institution is able to meet all of its financial obligations and provide the administrative resources necessary to comply with title IV, HEA program requirements. An institution is not deemed able to meet its financial or administrative obligations if -
+
+(i) It fails to make refunds under its refund policy or return title IV, HEA program funds for which it is responsible under § 668.22;
+
+(ii) It fails to make repayments to the Secretary for any debt or liability arising from the institution's participation in the title IV, HEA programs; or
+
+(iii) It is subject to an action or event described in paragraph (c) of this section (mandatory triggering events), or an action or event that the Secretary determines is likely to have a material adverse effect on the financial condition of the institution under paragraph (d) of this section (discretionary triggering events); and
 
 (4) The institution or persons affiliated with the institution are not subject to a condition of past performance under § 668.174(a) or (b).
 
-(c) *Debts, liabilities, and losses.* (1) Except as provided under paragraph (h)(3) of this section, an institution is not able to meet its financial or administrative obligations under paragraph (b)(3) of this section if, after the end of the fiscal year for which the Secretary has most recently calculated an institution's composite score, the institution is subject to one or more of the following actions or triggering events, and as a result of the actual or potential debts, liabilities, or losses that have stemmed or may stem from those actions or events, the institution's recalculated composite score is less than 1.0, as determined by the Secretary under paragraph (c)(2) of this section:
+(c) *Mandatory triggering events.* An institution is not able to meet its financial or administrative obligations under paragraph (b)(3)(iii) of this section if -
 
-(i) *Debts and borrower defense-related lawsuits.* (A) The institution is required to pay any debt or incur any liability arising from a final judgment in a judicial proceeding or from an administrative proceeding or determination, or from a settlement; or
+(1) After the end of the fiscal year for which the Secretary has most recently calculated an institution's composite score, one or more of the following occurs:
 
-(B) The institution is being sued in an action brought on or after July 1, 2017 by a Federal or State authority for financial relief on claims related to the making of the Direct Loan for enrollment at the school or the provision of educational services and the suit has been pending for 120 days.
+(i)(A) The institution incurs a liability from a settlement, final judgment, or final determination arising from an administrative or judicial action or proceeding initiated by a Federal or State entity. A determination arising from an administrative action or proceeding initiated by a Federal or State entity means the determination was made only after an institution had notice and an opportunity to submit its position before a hearing official. A final determination arising from an administrative action or proceeding initiated by a Federal entity includes a final determination arising from any administrative action or proceeding initiated by the Secretary. For purposes of this section, the liability is the amount stated in the final judgment or final determination. A judgment or determination becomes final when the institution does not appeal or when the judgment or determination is not subject to further appeal; or
 
-(ii) *Other litigation.* The institution is being sued in an action brought on or after July 1, 2017 that is not described in paragraph (c)(1)(i)(B) of this section and -
+(B) For a proprietary institution whose composite score is less than 1.5, there is a withdrawal of owner's equity from the institution by any means (*e.g.,* a capital distribution that is the equivalent of wages in a sole proprietorship or partnership, a distribution of dividends or return of capital, or a related party receivable), unless the withdrawal is a transfer to an entity included in the affiliated entity group on whose basis the institution's composite score was calculated; and
 
-(A) The institution has filed a motion for summary judgment or summary disposition and that motion has been denied or the court has issued an order reserving judgment on the motion;
+(ii) As a result of that liability or withdrawal, the institution's recalculated composite score is less than 1.0, as determined by the Secretary under paragraph (e) of this section.
 
-(B) The institution has not filed a motion for summary judgment or summary disposition by the deadline set for such motions by the court or agreement of the parties; or
+(2) For a publicly traded institution -
 
-(C) If the court did not set a deadline for filing a motion for summary judgment and the institution did not file such a motion, the court has set a pretrial conference date or trial date and the case is pending on the earlier of those two dates.
+(i) The U.S. Securities and Exchange Commission (SEC) issues an order suspending or revoking the registration of the institution's securities pursuant to Section 12(j) of the Securities and Exchange Act of 1934 (the “Exchange Act”) or suspends trading of the institution's securities on any national securities exchange pursuant to Section 12(k) of the Exchange Act; or
 
-(iii) *Accrediting agency actions.* The institution was required by its accrediting agency to submit a teach-out plan, for a reason described in § 602.24(c)(1), that covers the closing of the institution or any of its branches or additional locations.
+(ii) The national securities exchange on which the institution's securities are traded notifies the institution that it is not in compliance with the exchange's listing requirements and, as a result, the institution's securities are delisted, either voluntarily or involuntarily, pursuant to the rules of the relevant national securities exchange.
 
-(iv) *Gainful employment.* As determined annually by the Secretary, the institution has gainful employment programs that, under § 668.403, could become ineligible based on their final D/E rates for the next award year.
+(iii) The SEC is not in timely receipt of a required report and did not issue an extension to file the report.
 
-(v) *Withdrawal of owner's equity.* For a proprietary institution whose composite score is less than 1.5, any withdrawal of owner's equity from the institution by any means, including by declaring a dividend, unless the transfer is to an entity included in the affiliated entity group on whose basis the institution's composite score was calculated.
+(3) For the period described in (c)(1) of this section, when the institution is subject to two or more discretionary triggering events, as defined in paragraph (d) of this section, those events become mandatory triggering events, unless a triggering event is resolved before any subsequent event(s) occurs.
 
-(2) *Recalculating the composite score* - (i) *General.* Unless the institution demonstrates to the satisfaction of the Secretary that the event or condition has had or will have no effect on the assets and liabilities of the institution under paragraph (g)(3)(iv) of this section, as specified in Appendix C of this subpart, the Secretary recognizes and accounts for the actual or potential losses associated with the actions or events under paragraph (c)(1) of this section and, based on that accounting, recalculates the institution's most recent composite score. The recalculation will occur regularly after associated actions or events are reported to the Secretary. The Secretary recalculates the composite score under this paragraph using the financial statements on which the institution's composite score has been calculated under § 668.172.
+(d) *Discretionary triggering events.* The Secretary may determine that an institution is not able to meet its financial or administrative obligations under paragraph (b)(3)(iii) of this section if any of the following events is likely to have a material adverse effect on the financial condition of the institution -
 
-(ii) *Calculation of potential loss - debts and borrower defense-related lawsuits.* For a debt or a suit described in paragraph (c)(1)(i) of this section, the amount of loss is -
+(1) The accrediting agency for the institution issued an order, such as a show cause order or similar action, that, if not satisfied, could result in the withdrawal, revocation or suspension of institutional accreditation for failing to meet one or more of the agency's standards;
 
-(A) The amount of debt;
+(2)(i) The institution violated a provision or requirement in a security or loan agreement with a creditor; and
 
-(B) For a suit, the amount set by a court ruling, or, in the absence of a court ruling -
+(ii) As provided under the terms of that security or loan agreement, a monetary or nonmonetary default or delinquency event occurs, or other events occur, that trigger or enable the creditor to require or impose on the institution, an increase in collateral, a change in contractual obligations, an increase in interest rates or payments, or other sanctions, penalties, or fees;
 
-(*1*) The amount of relief claimed in the complaint;
+(3) The institution's State licensing or authorizing agency notified the institution that it has violated a State licensing or authorizing agency requirement and that the agency intends to withdraw or terminate the institution's licensure or authorization if the institution does not take the steps necessary to come into compliance with that requirement;
 
-(*2*) If the complaint demands no specific amount of relief, the amount stated in any final written demand issued by the agency to the institution prior to the suit or a lesser amount that the agency offers to accept in settlement of any financial demand in the suit; or
+(4) For its most recently completed fiscal year, a proprietary institution did not receive at least 10 percent of its revenue from sources other than title IV, HEA program funds, as provided under § 668.28(c);
 
-(*3*) If the agency stated no specific demand in the complaint, in a pre-filing demand, or in a written offer of settlement, the amount of tuition and fees received by the institution during the period, and for the program or location, described in the allegations in the complaint.
+(5) As calculated by the Secretary, the institution has high annual dropout rates; or
 
-(iii) *Calculation of potential loss - other litigation.* For any suit described in paragraph (c)(1)(ii) of this section, the amount of loss is the amount set by a court ruling, or, in the absence of a court ruling -
+(6) The institution's two most recent official cohort default rates are 30 percent or greater, as determined under subpart N of this part, unless -
 
-(A) The amount of relief claimed in the complaint;
+(i) The institution files a challenge, request for adjustment, or appeal under that subpart with respect to its rates for one or both of those fiscal years; and
 
-(B) If the complaint demands no specific amount of relief, the amount stated in any final written demand by the claimant to the institution prior to the suit or a lesser amount that the plaintiff offers to accept in settlement of any financial demand in the suit; or
+(ii) That challenge, request, or appeal remains pending, results in reducing below 30 percent the official cohort default rate for either or both of those years, or precludes the rates from either or both years from resulting in a loss of eligibility or provisional certification.
 
-(C) If the complainant stated no specific demand in the complaint, in a pre-filing demand, or in a written offer of settlement, the amount of the claim as stated in a response to a discovery request, including an expert witness report.
+(e) *Recalculating the composite score.* The Secretary recalculates an institution's most recent composite score by recognizing the actual amount of the liability, or cumulative liabilities, incurred by an institution under paragraph (c)(1)(i)(A) of this section as an expense or accounting for the actual withdrawal, or cumulative withdrawals, of owner's equity under paragraph (c)(1)(i)(B) of this section as a reduction in equity, and accounts for that expense or withdrawal by -
 
-(iv) *Calculation of potential loss - other events.* (A) For a closed location or institution, or the potential loss of eligibility for gainful employment programs, as described in paragraph (c)(1)(iii) or (iv), the amount of loss is the amount of title IV, HEA program funds the institution received in its most recently completed fiscal year for that location or institution, or for those GE programs.
+(1) For liabilities incurred by a proprietary institution -
 
-(B) For the withdrawal of owner's equity, described in paragraph (c)(1)(v) of this section, the amount of loss is the amount transferred to any entity other than the institution.
+(i) For the primary reserve ratio, increasing expenses and decreasing adjusted equity by that amount;
 
-(d) *Non-title IV revenue.* Except as provided under paragraph (h)(3) of this section, a proprietary institution is not able to meet its financial or administrative obligations under paragraph (b)(3) of this section if, for its most recently completed fiscal year, the institution did not derive at least 10 percent of its revenue from sources other than title IV, HEA program funds, as provided under § 668.28(c).
+(ii) For the equity ratio, decreasing modified equity by that amount; and
 
-(e) *Publicly traded institutions.* Except as provided under paragraph (h)(3) of this section, a publicly traded institution is not able to meet its financial or administrative obligations under paragraph (b)(3) of this section if the institution is currently subject to one or more of the following actions or events:
+(iii) For the net income ratio, decreasing income before taxes by that amount;
 
-(1) *SEC actions.* The SEC warns the institution that it may suspend trading on the institution's stock.
+(2) For liabilities incurred by a non-profit institution -
 
-(2) *SEC reports.* The institution failed to file a required annual or quarterly report with the SEC within the time period prescribed for that report or by any extended due date under 17 CFR 240.12b-25.
+(i) For the primary reserve ratio, increasing expenses and decreasing expendable net assets by that amount;
 
-(3) *Exchange actions.* The exchange on which the institution's stock is traded notifies the institution that it is not in compliance with exchange requirements, or its stock is delisted.
+(ii) For the equity ratio, decreasing modified net assets by that amount; and
 
-(f) *Cohort default rates.* Except as provided under paragraph (h)(3) of this section, an institution is not able to meet its financial or administrative obligations under paragraph (b)(3) of this section if the institution's two most recent official cohort default rates are 30 percent or greater, as determined under subpart N of this part, unless -
+(iii) For the net income ratio, decreasing change in net assets without donor restrictions by that amount; and
 
-(1) The institution files a challenge, request for adjustment, or appeal under that subpart with respect to its rates for one or both of those fiscal years; and
+(3) For the amount of owner's equity withdrawn from a proprietary institution -
 
-(2) That challenge, request, or appeal remains pending, results in reducing below 30 percent the official cohort default rate for either or both years, or precludes the rates from either or both years from resulting in a loss of eligibility or provisional certification.
+(i) For the primary reserve ratio, decreasing adjusted equity by that amount; and
 
-(g) *Discretionary factors or events.* Except as provided under paragraph (h)(3) of this section, an institution is not able to meet its financial or administrative obligations under paragraph (b)(3) of this section if the Secretary demonstrates that there is an event or condition that is reasonably likely to have a material adverse effect on the financial condition, business, or results of operations of the institution, including but not limited to whether -
+(ii) For the equity ratio, decreasing modified equity by that amount.
 
-(1) There is a significant fluctuation between consecutive award years, or a period of award years, in the amount of Direct Loan or Pell Grant funds, or a combination of those funds, received by the institution that cannot be accounted for by changes in those programs;
+(f) *Reporting requirements.* (1) In accordance with procedures established by the Secretary, an institution must notify the Secretary of the following actions or events -
 
-(2) The institution is cited by a State licensing or authorizing agency for failing State or agency requirements;
+(i) For a liability incurred under paragraph (c)(1)(i)(A) of this section, no later than 10 days after the date of written notification to the institution of the final judgment or final determination;
 
-(3) The institution fails a financial stress test developed or adopted by the Secretary to evaluate whether the institution has sufficient capital to absorb losses that may be incurred as a result of adverse conditions and continue to meet its financial obligations to the Secretary and students;
+(ii) For a withdrawal of owner's equity described in paragraph (c)(1)(i)(B) of this section -
 
-(4) As calculated by the Secretary, the institution has high annual dropout rates;
+(A) For a capital distribution that is the equivalent of wages in a sole proprietorship or partnership, no later than 10 days after the date the Secretary notifies the institution that its composite score is less than 1.5. In response to that notice, the institution must report the total amount of the wage-equivalent distributions it made during its prior fiscal year and any distributions that were made to pay any taxes related to the operation of the institution. During its current fiscal year and the first six months of its subsequent fiscal year (18-month period), the institution is not required to report any distributions to the Secretary, provided that the institution does not make wage-equivalent distributions that exceed 150 percent of the total amount of wage-equivalent distributions it made during its prior fiscal year, less any distributions that were made to pay any taxes related to the operation of the institution. However, if the institution makes wage-equivalent distributions that exceed 150 percent of the total amount of wage-equivalent distributions it made during its prior fiscal year less any distributions that were made to pay any taxes related to the operation of the institution at any time during the 18-month period, it must report each of those distributions no later than 10 days after they are made, and the Secretary recalculates the institution's composite score based on the cumulative amount of the distributions made at that time;
 
-(5) The institution is or was placed on probation or issued a show-cause order, or placed on an accreditation status that poses an equivalent or greater risk to its accreditation, by its accrediting agency for failing to meet one or more of the agency's standards;
+(B) For a distribution of dividends or return of capital, no later than 10 days after the dividends are declared or the amount of return of capital is approved; or
 
-(6)(i) The institution violated a provision or requirement in a loan agreement; and
+(C) For a related party receivable, not later than 10 days after that receivable occurs;
 
-(ii) As provided under the terms of a security or loan agreement between the institution and the creditor, a monetary or nonmonetary default or delinquency event occurs, or other events occur, that trigger, or enable the creditor to require or impose on the institution, an increase in collateral, a change in contractual obligations, an increase in interest rates or payments, or other sanctions, penalties, or fees;
+(iii) For the provisions relating to a publicly traded institution under paragraph (c)(2) of this section, no later than 10 days after the date that -
 
-(7) The institution has pending claims for borrower relief discharge under § 685.206 or § 685.222; or
+(A) The SEC issues an order suspending or revoking the registration of the institution's securities pursuant to Section 12(j) of the Exchange Act or suspends trading of the institution's securities on any national securities exchange pursuant to Section 12(k) of the Exchange Act; or
 
-(8) The Secretary expects to receive a significant number of claims for borrower relief discharge under § 685.206 or § 685.222 as a result of a lawsuit, settlement, judgement, or finding from a State or Federal administrative proceeding.
+(B) The national securities exchange on which the institution's securities are traded involuntarily delists its securities, or the institution voluntarily delists its securities, pursuant to the rules of the relevant national securities exchange;
 
-(h) *Reporting requirements.* (1) In accordance with procedures established by the Secretary, an institution must notify the Secretary of any of the following actions or events identified in paragraphs (c) through (g) of this section no later than -
+(iv) For an action under paragraph (d)(1) of this section, 10 days after the date on which the institution is notified by its accrediting agency of that action;
 
-(i) For lawsuits and for other actions or events described in paragraph (c)(1)(i) of this section -
+(v) For the loan agreement provisions in paragraph (d)(2) of this section, 10 days after a loan violation occurs, the creditor waives the violation, or the creditor imposes sanctions or penalties in exchange or as a result of granting the waiver;
 
-(A) For lawsuits, 10 days after the institution is served with the complaint and 10 days after the suit has been pending for 120 days; and
+(vi) For a State agency notice relating to terminating an institution's licensure or authorization under paragraph (d)(3) of this section, 10 days after the date on which the institution receives that notice; and
 
-(B) For debts arising from lawsuits and for other actions or events, 10 days after a payment was required or a liability was incurred.
+(vii) For the non-title IV revenue provision in paragraph (d)(4) of this section, no later than 45 days after the end of the institution's fiscal year, as provided in § 668.28(c)(3).
 
-(ii) For lawsuits described in paragraph (c)(1)(ii) of this section -
+(2) The Secretary may take an administrative action under paragraph (i) of this section against an institution, or determine that the institution is not financially responsible, if it fails to provide timely notice to the Secretary as provided under paragraph (f)(1) of this section, or fails to respond, within the timeframe specified by the Secretary, to any determination made, or request for information, by the Secretary under paragraph (f)(3) of this section.
 
-(A) Ten days after the institution is served with the complaint;
+(3)(i) In its notice to the Secretary under this paragraph, or in its response to a preliminary determination by the Secretary that the institution is not financially responsible because of a triggering event under paragraph (c) or (d) of this section, in accordance with procedures established by the Secretary, the institution may -
 
-(B) Ten days after the court sets the dates for the earliest of the events described in paragraph (c)(1)(ii) of this section, provided that, if the deadline is set by procedural rules, notice of the applicable deadline must be included with notice of the service of the complaint; and
+(A) Demonstrate that the reported withdrawal of owner's equity under paragraph (c)(1)(i)(B) of this section was used exclusively to meet tax liabilities of the institution or its owners for income derived from the institution;
 
-(C) Ten days after the earliest of the applicable events occurs;
+(B) Show that the creditor waived a violation of a loan agreement under paragraph (d)(2) of this section. However, if the creditor imposes additional constraints or requirements as a condition of waiving the violation, or imposes penalties or requirements under paragraph (d)(2)(ii) of this section, the institution must identify and describe those penalties, constraints, or requirements and demonstrate that complying with those actions will not adversely affect the institution's ability to meet its financial obligations;
 
-(iii) For an accrediting agency action described in paragraph (c)(1)(iii) of this section, 10 days after the institution is notified by its accrediting agency that it must submit a teach-out plan;
+(C) Show that the triggering event has been resolved, or demonstrate that the institution has insurance that will cover all or part of the liabilities that arise under paragraph (c)(1)(i)(A) of this section; or
 
-(iv) For a withdrawal of owner's equity described in paragraph (c)(1)(v) of this section, 10 days after the withdrawal is made;
+(D) Explain or provide information about the conditions or circumstances that precipitated a triggering event under paragraph (c) or (d) of this section that demonstrates that the triggering event has not or will not have a material adverse effect on the institution.
 
-(v) For the non-title IV revenue provision in paragraph (d) of this section, 45 days after the end of the institution's fiscal year, as provided in § 668.28(c)(3);
+(ii) The Secretary will consider the information provided by the institution in determining whether to issue a final determination that the institution is not financially responsible.
 
-(vi) For the SEC and stock exchange provisions for publicly traded institutions in paragraph (e), 10 days after the SEC or exchange warns, notifies, or takes an action against the institution, or 10 days after any extension granted by the SEC;
-
-(vii) For State or agency actions in paragraph (g)(2) of this section, 10 days after the institution is cited for violating a State or agency requirement;
-
-(viii) For probation or show cause actions under paragraph (g)(5) of this section, 10 days after the institution's accrediting agency places the institution on that status; or
-
-(ix) For the loan agreement provisions in paragraph (g)(6) of this section, 10 days after a loan violation occurs, the creditor waives the violation, or the creditor imposes sanctions or penalties in exchange or as a result of the waiver.
-
-(2) The Secretary may take an administrative action under paragraph (k) of this section against the institution if it fails to provide timely notice under this paragraph (h).
-
-(3) In its notice to the Secretary, the institution may demonstrate that -
-
-(i) For a suit by a Federal or State agency described in paragraph (c)(1)(i)(B) of this section, the amount claimed in the complaint or determined under paragraph (c)(2)(ii) of this section exceeds the potential recovery because the allegations in the complaint, if accepted as true, and the claims asserted, if fully successful, cannot produce relief in the amount claimed or, if no amount was claimed, the amount deemed under paragraph (c)(2)(ii) because they pertain to a period, program, or location for which the full recovery possible is a lesser amount;
-
-(ii) The reported withdrawal of owner's equity under paragraph (c)(1)(v) of this section was used exclusively to meet tax liabilities of the institution or its owners for income derived from the institution;
-
-(iii) The reported violation of a provision or requirement in a loan agreement under paragraph (g)(6) of this section was waived by the creditor. However, if the creditor imposes additional constraints or requirements as a condition of waiving the violation, or imposes penalties or requirements under paragraph (g)(6)(ii) of this section, the institution must identify and describe those penalties, constraints, or requirements and may demonstrate that complying with those actions will not adversely affect the institution's ability to meet its current and future financial obligations; or
-
-(iv) The action or event reported under this paragraph (h) no longer exists or has been resolved or the institution has insurance that will cover part or all of the debts and liabilities that arise at any time from that action or event.
-
-(i) *Public institutions.* (1) The Secretary considers a domestic public institution to be financially responsible if the institution -
+(g) *Public institutions.* (1) The Secretary considers a domestic public institution to be financially responsible if the institution -
 
 (i)(A) Notifies the Secretary that it is designated as a public institution by the State, local, or municipal government entity, tribal authority, or other government entity that has the legal authority to make that designation; and
 
@@ -160,12 +144,12 @@ Link to an amendment published at 84 FR 49911, Sept. 23, 2019.
 
 (ii) Is not subject to a condition of past performance under § 668.174.
 
-(j) *Audit opinions.* Even if an institution satisfies all of the general standards of financial responsibility under paragraph (b) of this section, the Secretary does not consider the institution to be financially responsible if, in the institution's audited financial statements, the opinion expressed by the auditor was an adverse, qualified, or disclaimed opinion, or the auditor expressed doubt about the continued existence of the institution as a going concern, unless the Secretary determines that a qualified or disclaimed opinion does not significantly bear on the institution's financial condition.
+(h) *Audit opinions and disclosures.* Even if an institution satisfies all of the general standards of financial responsibility under paragraph (b) of this section, the Secretary does not consider the institution to be financially responsible if, in the institution's audited financial statements, the opinion expressed by the auditor was an adverse, qualified, or disclaimed opinion, or the financial statements contain a disclosure in the notes to the financial statements that there is substantial doubt about the institution's ability to continue as a going concern as required by accounting standards, unless the Secretary determines that a qualified or disclaimed opinion does not have a significant bearing on the institution's financial condition, or that the substantial doubt about the institution's ability to continue as going concern has been alleviated.
 
-(k) *Administrative actions.* If the Secretary determines that an institution is not financially responsible under the standards and provisions of this section or under an alternative standard in § 668.175, or the institution does not submit its financial and compliance audits by the date and in the manner required under § 668.23, the Secretary may -
+(i) *Administrative actions.* If the Secretary determines that an institution is not financially responsible under the standards and provisions of this section or under an alternative standard in § 668.175, or the institution does not submit its financial and compliance audits by the date and in the manner required under § 668.23, the Secretary may -
 
 (1) Initiate an action under subpart G of this part to fine the institution, or limit, suspend, or terminate the institution's participation in the title IV, HEA programs; or
 
 (2) For an institution that is provisionally certified, take an action against the institution under the procedures established in § 668.13(d).
 
-(Authority: 20 U.S.C. 1094 and 1099c and section 4 of Pub. L. 95-452, 92 Stat. 1101-1109)[81 FR 76072, Nov. 1, 2016]
+[84 FR 49911, Sept. 23, 2019]

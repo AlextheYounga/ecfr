@@ -1,7 +1,5 @@
 ##### § 674.61 Discharge for death or disability. #####
 
-Link to an amendment published at 84 FR 65007, Nov. 26, 2019.
-
 (a) *Death.* (1) An institution must discharge the unpaid balance of a borrower's Defense, NDSL, or Federal Perkins loan, including interest, if the borrower dies. The institution must discharge the loan on the basis of -
 
 (i) An original or certified copy of the death certificate;
@@ -162,6 +160,8 @@ Link to an amendment published at 84 FR 65007, Nov. 26, 2019.
 
 (C) Explains the process for the Secretary's review of total and permanent disability discharge applications.
 
+(x) The Secretary will consider a borrower for whom data is obtained from the Department of Veterans Affairs showing that the borrower has a total and permanent disability as defined in § 674.51(aa)(2) to be eligible for discharge and will not require additional documentation to discharge the borrower's loans.
+
 (3) *Secretary's review of the total and permanent disability discharge application.* (i) If, after reviewing the veteran's completed application, the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is totally and permanently disabled as defined in § 674.51(aa)(2), the Secretary notifies the veteran and the veteran's lenders that the application for disability discharge has been approved. With this notification, the Secretary provides the effective date of the determination and directs each institution holding a Direct, NDSL, or Perkins Loan made to the veteran to discharge the loan.
 
 (ii) The institution returns any payments received on or after the effective date of the determination by the Department of Veterans Affairs that the veteran is unemployable due to a service-connected disability to the person who made the payments.
@@ -182,4 +182,4 @@ Link to an amendment published at 84 FR 65007, Nov. 26, 2019.
 
 (e) *Retroactive.* Discharge for death applies retroactively to all Defense, NDSL, and Perkins loans.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1070g, 1087dd; sec. 130(g)(2) of the Education Amendments of 1976, Pub. L. 94-482)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012; 81 FR 76078, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1070g, 1087dd; sec. 130(g)(2) of the Education Amendments of 1976, Pub. L. 94-482)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012; 81 FR 76078, Nov. 1, 2016; 84 FR 65007, Nov. 26, 2019]

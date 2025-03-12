@@ -1,7 +1,5 @@
 ##### § 195.1 Which pipelines are covered by this Part? #####
 
-Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
-
 (a) *Covered.* Except for the pipelines listed in paragraph (b) of this Section, this Part applies to pipeline facilities and the transportation of hazardous liquids or carbon dioxide associated with those facilities in or affecting interstate or foreign commerce, including pipeline facilities on the Outer Continental Shelf (OCS). Covered pipelines include, but are not limited to:
 
 (1) Any pipeline that transports a highly volatile liquid;
@@ -18,11 +16,13 @@ Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
 
 (iii) A pipeline located in an inlet of the Gulf of Mexico as provided in § 195.413.
 
+(5) For purposes of the reporting requirements in subpart B of this part, any gathering line not already covered under paragraphs (a)(1), (2), (3) or (4) of this section.
+
 (b) *Excepted.* This Part does not apply to any of the following:
 
 (1) Transportation of a hazardous liquid transported in a gaseous state;
 
-(2) Transportation of a hazardous liquid through a pipeline by gravity;
+(2) Except for the reporting requirements of subpart B of this part, see § 195.13, transportation of a hazardous liquid through a pipeline by gravity.
 
 (3) Transportation of a hazardous liquid through any of the following low-stress pipelines:
 
@@ -30,7 +30,7 @@ Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
 
 (ii) A pipeline that serves refining, manufacturing, or truck, rail, or vessel terminal facilities, if the pipeline is less than one mile long (measured outside facility grounds) and does not cross an offshore area or a waterway currently used for commercial navigation;
 
-(4) Transportation of petroleum through an onshore rural gathering line that does not meet the definition of a “regulated rural gathering line” as provided in § 195.11. This exception does not apply to gathering lines in the inlets of the Gulf of Mexico subject to § 195.413;
+(4) Except for the reporting requirements of subpart B of this part, see § 195.15, transportation of petroleum through an onshore rural gathering line that does not meet the definition of a “regulated rural gathering line” as provided in § 195.11. This exception does not apply to gathering lines in the inlets of the Gulf of Mexico subject to § 195.413.
 
 (5) Transportation of hazardous liquid or carbon dioxide in an offshore pipeline in state waters where the pipeline is located upstream from the outlet flange of the following farthest downstream facility: The facility where hydrocarbons or carbon dioxide are produced or the facility where produced hydrocarbons or carbon dioxide are first separated, dehydrated, or otherwise processed;
 

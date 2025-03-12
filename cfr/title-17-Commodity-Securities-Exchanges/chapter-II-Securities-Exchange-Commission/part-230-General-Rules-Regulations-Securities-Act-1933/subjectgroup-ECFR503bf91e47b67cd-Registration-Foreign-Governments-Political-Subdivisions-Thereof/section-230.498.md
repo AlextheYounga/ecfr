@@ -1,6 +1,6 @@
 ##### § 230.498 Summary Prospectuses for open-end management investment companies. #####
 
-Link to an amendment published at 83 FR 29204, June 22, 2018.Link to an amendment published at 85 FR 26094, May 1, 2020.
+Link to an amendment published at 83 FR 29204, June 22, 2018.
 
 (a) *Definitions.* For purposes of this section:
 
@@ -68,11 +68,11 @@ You may elect to receive all future reports in paper free of charge. You can inf
 
 (1) A Summary Prospectus is sent or given no later than the time of the carrying or delivery of the Fund security;
 
-(2) The Summary Prospectus is not bound together with any materials, except that a Summary Prospectus for a Fund that is available as an investment option in a variable annuity or variable life insurance contract may be bound together with the Statutory Prospectus for the contract and Summary Prospectuses and Statutory Prospectuses for other investment options available in the contract, provided that:
+(2) The Summary Prospectus is not bound together with any materials, except that a Summary Prospectus for a Fund that is available as an investment option in a variable annuity or variable life insurance contract may be bound together with the Statutory Prospectus for the contract (or a summary prospectus for the contract provided under § 230.498A) and Summary Prospectuses and Statutory Prospectuses for other investment options available in the contract, provided that:
 
 (i) All of the Funds to which the Summary Prospectuses and Statutory Prospectuses that are bound together relate are available to the person to whom such documents are sent or given; and
 
-(ii) A table of contents identifying each Summary Prospectus and Statutory Prospectus that is bound together, and the page number on which it is found, is included at the beginning or immediately following a cover page of the bound materials;
+(ii) A table of contents identifying each Summary Prospectus, Statutory Prospectus, and summary prospectus under § 230.498A that is bound together, and the page number on which it is found, is included at the beginning or immediately following a cover page of the bound materials;
 
 (3) The Summary Prospectus that is sent or given satisfies the requirements of paragraph (b) of this section at the time of the carrying or delivery of the Fund security; and
 
@@ -128,4 +128,4 @@ You may elect to receive all future reports in paper free of charge. You can inf
 
 (5) *Compliance with paragraph (f) not a condition to reliance on paragraphs (c) and (d).* Compliance with this paragraph (f) is not a condition to the ability to rely on paragraph (c) or (d) of this section with respect to a Fund, and failure to comply with paragraph (f) does not negate the ability to rely on paragraph (c) or (d).
 
-[74 FR 4585, Jan. 26, 2009, as amended at 75 FR 9081, Feb. 26, 2010; 83 FR 29204, June 22, 2018]
+[74 FR 4585, Jan. 26, 2009, as amended at 75 FR 9081, Feb. 26, 2010; 83 FR 29204, June 22, 2018; 85 FR 26094, May 1, 2020]

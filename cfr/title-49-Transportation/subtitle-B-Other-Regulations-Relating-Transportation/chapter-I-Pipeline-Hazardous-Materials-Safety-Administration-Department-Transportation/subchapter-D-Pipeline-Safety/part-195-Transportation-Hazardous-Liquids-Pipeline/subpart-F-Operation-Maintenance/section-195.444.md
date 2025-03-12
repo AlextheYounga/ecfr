@@ -1,7 +1,9 @@
-##### § 195.444 CPM leak detection. #####
+##### § 195.444 Leak detection. #####
 
-Link to an amendment published at 84 FR 52296, Oct. 1, 2019.
+(a) *Scope.* Except for offshore gathering and regulated rural gathering pipelines, this section applies to all hazardous liquid pipelines transporting liquid in single phase (without gas in the liquid).
 
-Each computational pipeline monitoring (CPM) leak detection system installed on a hazardous liquid pipeline transporting liquid in single phase (without gas in the liquid) must comply with API RP 1130 (incorporated by reference, *see* § 195.3) in operating, maintaining, testing, record keeping, and dispatcher training of the system.
+(b) *General.* A pipeline must have an effective system for detecting leaks in accordance with §§ 195.134 or 195.452, as appropriate. An operator must evaluate the capability of its leak detection system to protect the public, property, and the environment and modify it as necessary to do so. At a minimum, an operator's evaluation must consider the following factors—length and size of the pipeline, type of product carried, the swiftness of leak detection, location of nearest response personnel, and leak history.
 
-[Amdt. 195-62, 63 FR 36376, July 6, 1998, as amended by Amdt. 195-99, 80 FR 188, Jan. 5, 2015]
+(c) *CPM leak detection systems.* Each computational pipeline monitoring (CPM) leak detection system installed on a hazardous liquid pipeline must comply with API RP 1130 (incorporated by reference, see § 195.3) in operating, maintaining, testing, record keeping, and dispatcher training of the system.
+
+[Amdt. 195-102, 84 FR 52296, Oct. 1, 2019]

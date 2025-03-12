@@ -1,12 +1,10 @@
 ##### § 192.939 What are the required reassessment intervals? #####
 
-Link to an amendment published at 84 FR 52255, Oct. 1, 2019.
-
 An operator must comply with the following requirements in establishing the reassessment interval for the operator's covered pipeline segments.
 
-(a) *Pipelines operating at or above 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating at or above 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is seven years. If an operator establishes a reassessment interval that is greater than seven years, the operator must, within the seven-year period, conduct a confirmatory direct assessment on the covered segment, and then conduct the follow-up reassessment at the interval the operator has established. A reassessment carried out using confirmatory direct assessment must be done in accordance with § 192.931. The table that follows this section sets forth the maximum allowed reassessment intervals.
+(a) *Pipelines operating at or above 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating at or above 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is 7 calendar years. Operators may request a 6-month extension of the 7-calendar-year reassessment interval if the operator submits written notice to OPS, in accordance with § 192.18, with sufficient justification of the need for the extension. If an operator establishes a reassessment interval that is greater than 7 calendar years, the operator must, within the 7-calendar-year period, conduct a confirmatory direct assessment on the covered segment, and then conduct the follow-up reassessment at the interval the operator has established. A reassessment carried out using confirmatory direct assessment must be done in accordance with § 192.931. The table that follows this section sets forth the maximum allowed reassessment intervals.
 
-(1) *Pressure test or internal inspection or other equivalent technology.* An operator that uses pressure testing or internal inspection as an assessment method must establish the reassessment interval for a covered pipeline segment by -
+(1) *Pressure test or internal inspection or other equivalent technology.* An operator that uses pressure testing or internal inspection as an assessment method must establish the reassessment interval for a covered pipeline segment by—
 
 (i) Basing the interval on the identified threats for the covered segment (see § 192.917) and on the analysis of the results from the last integrity assessment and from the data integration and risk assessment required by § 192.917; or
 
@@ -22,9 +20,9 @@ An operator must comply with the following requirements in establishing the reas
 
 (iii) Estimate the reassessment interval as half the time required for the largest defect to grow to a critical size.
 
-(b) *Pipelines Operating Below 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating below 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is seven years. An operator must establish reassessment by at least one of the following -
+(b) *Pipelines Operating below 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating below 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is 7 calendar years. Operators may request a 6-month extension of the 7-calendar-year reassessment interval if the operator submits written notice to OPS in accordance with § 192.18. The notice must include sufficient justification of the need for the extension. An operator must establish reassessment by at least one of the following—
 
-(1) Reassessment by pressure test, internal inspection or other equivalent technology following the requirements in paragraph (a)(1) of this section except that the stress level referenced in paragraph (a)(1)(ii) of this section would be adjusted to reflect the lower operating stress level. If an established interval is more than seven years, the operator must conduct by the seventh year of the interval either a confirmatory direct assessment in accordance with § 192.931, or a low stress reassessment in accordance with § 192.941.
+(1) Reassessment by pressure test, internal inspection or other equivalent technology following the requirements in paragraph (a)(1) of this section except that the stress level referenced in paragraph (a)(1)(ii) of this section would be adjusted to reflect the lower operating stress level. If an established interval is more than 7 calendar years, an operator must conduct by the seventh calendar year of the interval either a confirmatory direct assessment in accordance with § 192.931, or a low stress reassessment in accordance with § 192.941.
 
 (2) Reassessment by ECDA following the requirements in paragraph (a)(2) of this section.
 
@@ -48,4 +46,4 @@ Maximum Reassessment Interval
 
 (\*\*) A low stress reassessment or Confirmatory direct assessment must be conducted by years 7 and 14 of the interval.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, 182, Jan. 5, 2015]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, 182, Jan. 5, 2015; Amdt. No. 192-125, 84 FR 52255, Oct. 1, 2019]

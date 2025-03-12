@@ -1,7 +1,5 @@
 ##### § 270.27d-1 Reserve requirements for principal underwriters and depositors to carry out the obligations to refund charges required by section 27(d) and section 27(f) of the Act. #####
 
-Link to an amendment published at 85 FR 26110, May 1, 2020.
-
 (a)(1) Every depositor of or principal underwriter for the issuer of a periodic payment plan certificate sold subject to section 27(d) or section 27(f) of the Act or both, shall deposit and maintain funds in a segregated trust account as a reserve and as security for the purpose of assuring the refund of charges required by sections 27(d) and 27(f) of the Act.
 
 (2) The assets of such trust account may be held as cash or invested only in one or more of (i) government securities as defined in section 2(a)(16) of the Act (except equity securities) or (ii) negotiable certificates of deposit issued by a bank, as defined in section 2(a)(5) of the Act and having capital and surplus of at least $10 million: *Provided,* That no such investment may have a maturity of more than 5 years, no more than 50 percent of the assets may be invested in obligations having a maturity of more than 1 year, and certificates of deposit of a single issuer may not constitute more than 10 percent of the value of the assets in the account.

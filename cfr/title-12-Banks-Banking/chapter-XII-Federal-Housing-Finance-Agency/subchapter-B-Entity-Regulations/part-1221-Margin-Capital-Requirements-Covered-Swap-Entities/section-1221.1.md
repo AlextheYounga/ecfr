@@ -1,5 +1,7 @@
 ##### § 1221.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
+Link to an amendment published at 85 FR 39470, July 1, 2020.Link to an amendment published at 85 FR 39778, July 1, 2020.
+
 (a) *Authority.* This part is issued by FHFA under section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), 12 U.S.C. 4513 and 12 U.S.C. 4526(a)).
 
 (b) *Purpose.* Section 4(s) of the Commodity Exchange Act (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require FHFA to establish capital and margin requirements for any regulated entity that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This regulation implements section 4s of the Commodity Exchange Act and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statute and related terms, establishing capital and margin requirements, and explaining the statute's requirements.

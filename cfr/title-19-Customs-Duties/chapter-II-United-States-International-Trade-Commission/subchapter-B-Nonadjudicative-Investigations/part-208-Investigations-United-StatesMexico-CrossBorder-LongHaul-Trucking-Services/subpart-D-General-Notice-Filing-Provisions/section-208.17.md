@@ -1,0 +1,5 @@
+##### § 208.17 Publication of notice; and availability for public inspection. #####
+
+(a) *Contents of notice.* The notice will indicate whether the initiation is based on a petition, request, or resolution, as appropriate; and will identify the grant or grants of authority, or the request for a grant or grants of authority, that are the subject of the investigation; the nature and timing of the determination to be made; the time and place of any public hearing, dates of deadlines for filing briefs, statements, and other documents; any limits on page lengths for briefs, statements, or other documents to be filed; and the name, address, and telephone number of the Commission office that may be contacted for more information.
+
+(b) *Availability for public inspection.* The Commission will promptly make the public version of each petition available for public inspection through EDIS.

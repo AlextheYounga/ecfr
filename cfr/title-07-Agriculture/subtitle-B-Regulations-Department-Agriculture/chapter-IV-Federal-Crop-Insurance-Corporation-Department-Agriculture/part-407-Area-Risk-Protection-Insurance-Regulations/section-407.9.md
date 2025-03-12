@@ -1,26 +1,24 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-Link to an amendment published at 85 FR 38754, June 29, 2020.
-
-This insurance is available for the 2017 and succeeding years.
+This insurance is available for the 2021 and succeeding years.
 
 [FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
-This is an insurance policy issued by the FCIC, a United States government agency, under the provisions of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA. Procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), issued by us and published on the Risk Management Agency's (RMA) website at *http://www.rma.usda.gov/* or a successor website, will be used in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to FCIC. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
+This is an insurance policy issued by FCIC, under the provisions of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or modified in any way by us, your insurance agent, or any employee of USDA. FCIC procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), and published on the Risk Management Agency's (RMA) website at *www.rma.usda.gov* or a successor website, will be used in the administration of this policy, including the adjustment of any loss or claim submitted under this policy. Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to FCIC. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
 
-AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject to all of the provisions of this policy, we agree with you to provide the insurance as stated in this policy. If there is a conflict among the Act, the regulations published at 7 CFR chapter IV, and the procedures as issued by us, the order of priority is: (1) the Act; (2) the regulations; and (3) the procedures as issued by us, with (1) controlling (2), etc. If there is a conflict between the policy provisions published at 7 CFR part 407 and the administrative regulations published at 7 CFR part 400, the policy provisions published at 7 CFR part 407 control. The order of priority among the policy is: (1) the Catastrophic Risk Protection Endorsement, as applicable; (2) Special Provisions; (3) actuarial documents; (4) the applicable Commodity Exchange Price Provisions; (5) the Crop Provisions; and (6) these Basic Provisions, with (1) controlling (2), etc.
+AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject to all of the provisions of this policy, we agree with you to provide the insurance as stated in this policy. If there is a conflict between the Act, the regulations in 7 CFR chapter IV, and FCIC procedures, the order of precedence is: (1) The Act; (2) the regulations; and (3) FCIC procedures. If there is a conflict between the policy provisions in 7 CFR part 407 and the administrative regulations in 7 CFR part 400, the policy provisions published at 7 CFR part 407 apply. The order of precedence for the policy is: (1) The Catastrophic Risk Protection Endorsement, as applicable; (2) Special Provisions; (3) actuarial documents; (4) the applicable Commodity Exchange Price Provisions; (5) the Crop Provisions; and (6) these Basic Provisions.
 
 [Reinsured policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and not receive an indemnity under ARPI.
 
-This insurance policy is reinsured by the FCIC under the provisions of Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours or any employee of USDA. We will use the procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), as issued by FCIC and published on the Risk Management Agency (RMA's) website at *http://www.rma.usda.gov/* or a successor website, in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, FCIC will become your insurer, make all decisions in accordance with the provisions of this policy, including any loss payments, and be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
+This insurance policy is reinsured by FCIC under the provisions of Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours, or any employee of USDA. We will use FCIC procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), published on the Risk Management Agency (RMA's) website at *www.rma.usda.gov* or a successor website, in the administration of this policy, including the adjustment of any loss or claim submitted under this policy. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, FCIC will become your insurer, make all decisions in accordance with the provisions of this policy, including any loss payments, and be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
 
 Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to the insurance provider providing insurance. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
 
-AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject to all of the provisions of this policy, we agree with you to provide the insurance as stated in this policy. If there is a conflict among the Act, the regulations published at 7 CFR chapter IV, and the procedures as issued by FCIC, the order of priority is: (1) the Act; (2) the regulations; and (3) the procedures as issued by FCIC, with (1) controlling (2), etc. If there is a conflict between the policy provisions published at 7 CFR part 407 and the administrative regulations published at 7 CFR part 400, the policy provisions published at 7 CFR part 407 control. The order of priority among the policy is: (1) the Catastrophic Risk Protection Endorsement, as applicable; (2) Special Provisions; (3) actuarial documents; (4) Commodity Exchange Price Provisions; (5) the Crop Provisions; and (6) these Basic Provisions, with (1) controlling (2), etc.
+AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject to all of the provisions of this policy, we agree with you to provide the insurance as stated in this policy. If there is a conflict between the Act, the regulations in 7 CFR chapter IV, and FCIC procedures, the order of precedence is: (1) The Act; (2) the regulations; and (3) FCIC procedures. If there is a conflict between the policy provisions in 7 CFR part 407 and the administrative regulations in 7 CFR part 400, the policy provisions in 7 CFR part 407 apply. The order of precedence among the policy is: (1) The Catastrophic Risk Protection Endorsement, as applicable; (2) Special Provisions; (3) actuarial documents; (4) Commodity Exchange Price Provisions; (5) the Crop Provisions; and (6) these Basic Provisions.
 
 *Terms and Conditions**Basic Provisions*1. Definitions
 
@@ -32,7 +30,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Act.* Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524).
 
-*Actuarial documents.* The part of the policy that contains information for the crop year which is available for public inspection in your agent's office and published on RMA's Website, *http://www.rma.usda.gov/*, and which shows available plans of insurance, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, type (commodity types, classes, subclasses, intended uses), practice (irrigated practices, cropping practices, organic practices, intervals), insurable acreage, and other related information regarding crop insurance in the county.
+*Actuarial documents.* The part of the policy that contains information for the crop year which is available for public inspection in your agent's office and published on RMA's website and which shows available plans of insurance, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, type (commodity types, classes, subclasses, intended uses), practice (irrigated practices, cropping practices, organic practices, intervals), insurable acreage, and other related information regarding crop insurance in the county.
 
 *Additional coverage.* A level of coverage greater than catastrophic risk protection.
 
@@ -194,7 +192,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Premium billing date.* The earliest date upon which you will be billed for insurance coverage based on your acreage report. The premium billing date is contained in the actuarial documents.
 
-*Production report.* A written record showing your annual production in accordance with section 8. The report contains yield information for the current year, including acreage and production. This report must be supported by written verifiable records from a warehouseman or buyer of the insured crop, by measurement of farm-stored production, or by other records of production approved by us in accordance with FCIC approved procedures.
+*Production report.* A written record showing your annual production in accordance with section 8. The report contains yield information for the current year, including acreage and production. This report must be supported by written verifiable records from a warehouseman or buyer of the insured crop, by measurement of farm-stored production, or by other records of production approved by us in accordance with FCIC procedures.
 
 *Production reporting date.* The date contained in the actuarial documents by which you are required to submit your production report.
 
@@ -208,11 +206,11 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *RMA.* Risk Management Agency, an agency within USDA.
 
-*RMA's website.* A website hosted by RMA and located at *http://www.rma.usda.gov/* or a successor website.
+*RMA's website.* A website hosted by RMA and located at *www.rma.usda.gov* or a successor website.
 
 *Sales closing date.* The date contained in the actuarial documents by which an application must be filed and the last date by which you may change your crop insurance coverage for a crop year.
 
-*Second crop.* With respect to a single crop year, the next occurrence of planting any commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different commodity as the first insured crop, except the term does not include a replanted crop. A cover crop, planted after a first insured crop and planted for the purpose of haying, grazing or otherwise harvesting in any manner or that is hayed or grazed during the crop year, or that is otherwise harvested is considered to be a second crop. A cover crop that is covered by FSA's noninsured crop disaster assistance program (NAP) or receives other USDA benefits associated with forage crops will be considered as planted for the purpose of haying, grazing or otherwise harvesting. A crop meeting the conditions stated herein will be considered to be a second crop regardless of whether or not it is insured.
+*Second crop.* With respect to a single crop year, the next occurrence of planting any commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop is planted on the same acreage and harvested for grain or seed, it is considered to be a second crop. A cover crop that is covered by FSA's noninsured crop disaster assistance program (NAP) or receives other USDA benefits associated with forage crops will be considered a second crop. A crop meeting the conditions in this definition is considered to be a second crop regardless of whether or not it is insured.
 
 *Share.* Your insurable interest in the insured crop as an owner, operator, or tenant.
 
@@ -254,15 +252,15 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Verifiable records.* Has the same meaning as the term defined in 7 CFR part 400, subpart G.
 
-*Veteran farmer or rancher.* An individual who has served on active duty in the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components, was discharged or released under conditions other than dishonorable, and:
+*Veteran farmer or rancher.* (1) An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components; was discharged or released under conditions other than dishonorable; and:
 
-(1) Has not operated a farm or ranch;
+(i) Has not operated a farm or ranch;
 
-(2) Has operated a farm or ranch for not more than 5 years; or
+(ii) Has operated a farm or ranch for not more than 5 years; or
 
-(3) First obtained status as a veteran during the most recent 5-year period.
+(iii) First obtained status as a veteran during the most recent 5-year period.
 
-A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify as a veteran farmer or rancher. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
+(2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
 
@@ -358,6 +356,14 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (2) If we offset any amount due us from an indemnity owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date FCIC publishes the final county yield for the applicable crop year.
 
+(3) For this agricultural commodity policy, your premium and administrative fees will be offset from any indemnity payment due to you even if it is prior to the premium billing date.
+
+(4) For any other agricultural commodity policy insured with us and it is:
+
+(i) Prior to the premium billing date, and you agree, your premium and administrative fees will be offset from any indemnity payment due to you; or
+
+(ii) On or after the premium billing date, your premium and administrative fees will be offset from any indemnity payment due to you.
+
 (k) A delinquent debt for any policy will make you ineligible to obtain crop insurance authorized under the Act for any subsequent crop year and result in termination of all policies in accordance with section 2(k)(2).
 
 (1) With respect to ineligibility:
@@ -392,7 +398,7 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (B) The Administrator of the Risk Management Agency, at his or her sole discretion, determines that the following conditions are met:
 
-(*1*) In accordance with 7 CFR part 400, subpart U, and FCIC issued procedures, you provide documentation that your failure to pay your debt is due to an unforeseen or unavoidable event or an extraordinary weather event that created an impossible situation for you to make timely payment;
+(*1*) In accordance with 7 CFR part 400, subpart U, and FCIC procedures, you provide documentation that your inadvertent failure to pay your debt is due to an unforeseen or unavoidable event or other extenuating circumstances that created the inadvertent failure for you to make timely payment;
 
 (*2*) You remit full payment of the delinquent debt owed to us or FCIC with your request submitted in accordance with section 2(k)(2)(iii)(B)(*3*); and
 
@@ -402,15 +408,17 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (*ii*) There is no evidence of fraud or misrepresentation; or
 
-(C) We determine that, in accordance with 7 CFR part 400, subpart U, and FCIC issued procedures, the following are met:
+(C) We determine that, in accordance with 7 CFR part 400, subpart U, and FCIC procedures, the following are met:
 
 (*1*) You can demonstrate:
 
 (*i*) You made timely payment for the amount of premium owed but you inadvertently omitted some small amount, such as the most recent month's interest or a small administrative fee;
 
-(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (For example, you owed $892 but you paid $829); or
+(*ii*) The amount of the payment was clearly transposed from the amount that was otherwise due (For example, you owed $892 but you paid $829);
 
-(*iii*) You timely made the full payment of the amount owed but the delivery of that payment was delayed, and was postmarked no more than seven calendar days after the termination date or the missed payment date of a previously executed written payment agreement, or in the case of overpaid indemnity or any amount that became due after the termination date, the due date specified in a notice to you of an amount due, as applicable;
+(*iii*) You timely made the full payment of the amount owed but the delivery of that payment was delayed, and was postmarked no more than seven calendar days after the termination date or the missed payment date of a previously executed written payment agreement, or in the case of overpaid indemnity or any amount that became due after the termination date, the due date specified in a notice to you of an amount due, as applicable; or
+
+(*iv*) For previously executed written payment agreements, you made the full payment of the scheduled payment amount owed within 15 calendar days after the missed payment date.
 
 (*2*) You remit full payment of the delinquent debt owed to us; and
 
@@ -492,7 +500,7 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (c) After the contract change date, all changes specified in section 3(b) will also be available upon request from your crop insurance agent.
 
-(d) Not later than 30 days prior to the cancellation date for the insured crop you will be provided, in accordance with section 20, a copy of the changes to the Basic Provisions, Crop Provisions, CEPP, if applicable, and Special Provisions.
+(d) Not later than 30 days prior to the cancellation date for the insured crop you will be notified, in accordance with section 20, a copy of the changes to the Basic Provisions, Crop Provisions, CEPP, if applicable, and Special Provisions.
 
 (e) Acceptance of all the changes will be conclusively presumed in the absence of notice from you to change or cancel your insurance coverage.
 
@@ -686,7 +694,7 @@ A person, other than an individual, may be eligible for veteran farmer or ranche
 
 (i) Notwithstanding section 7(i)(2), you may be eligible for premium subsidy without having a timely filed form AD-1026:
 
-(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC approved procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
+(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
 
 (B) If FSA approves relief for failure to timely file due to circumstances beyond your control or failure to timely provide adequate information to complete form AD-1026 in accordance with the provisions contained in 7 CFR part 12.
 
@@ -956,13 +964,27 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (3) Additional coverage insurance offered under the authority of the Act is available in the county on the two or more crops that are double cropped; and
 
-(4) You provide records acceptable to us of acreage and production that show you have double cropped acreage in at least two of the last four crop years in which the first insured crop was planted, or that show the applicable acreage was double cropped in at least two of the last four crop years in which the first insured crop was grown on it.
+(4) You provide records acceptable to us of acreage and production that show you have double cropped acreage in at least two of the last four crop years in which the first insured crop was planted, or that show the applicable acreage was double cropped in at least two of the last four crop years in which the first insured crop was grown on it;
 
-(d) The receipt of a full indemnity on both crops that are double cropped is limited to the number of acres for which you can demonstrate you have double cropped or that have been historically double cropped as specified in section 13(c).
+(5) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 13(h)(4), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped; and
+
+(6) With respect to double cropped acreage for which one of the crops you have double cropped is insured under a plan of insurance not covered under these Basic Provisions, each insured crop must follow its own Basic Provisions, Crop Provisions, and Special Provisions to determine if the double cropping requirements have been met. If the double cropping requirements in the applicable Basic Provisions, Crop Provisions, or Special Provisions have not been met for each insured crop, section 13(a) of these Basic Provisions apply.
+
+(d) If you provided acceptable records in accordance with section 13(c), your double cropping history is limited to the highest number of acres double cropped within the applicable four-year period as determined in section 13(c)(4).
 
 (1) If the records you provided are from acreage you double cropped in at least two of the last four crop years, you may apply your history of double cropping to any acreage of the insured crop in the county (e.g., if you have double cropped 100 acres of wheat and soybeans in the county and you acquire an additional 100 acres in the county, you can apply that history of double cropped acreage to any of the 200 acres in the county as long as it does not exceed 100 acres); or
 
 (2) If the records you provided are from acreage that another producer double cropped in at least two of the last four crop years, you may only use the history of double cropping for the same physical acres from which double cropping records were provided (e.g., if a neighbor has double cropped 100 acres of wheat and soybeans in the county and you acquire your neighbor's 100 double cropped acres and an additional 100 acres in the county, you can only apply your neighbor's history of double cropped acreage to the same 100 acres that your neighbor double cropped).
+
+(3) If you acquired additional land for the current crop year and the following calculation results in a greater number of double cropping acres than determined in section 13(c), you may apply the percentage of acres that you have previously double cropped to the total cropland acres that you are farming this year (if greater):
+
+(i) Determine the number of acres of the first insured crop that were double cropped in each of the years for which double cropping records are provided (for example, records are provided showing: 100 acres of wheat planted in 2019 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2020 and 70 of those acres were double cropped with soybeans);
+
+(ii) Divide each result of section 13(d)(3)(i) by the number of acres of the first insured crop that were planted in each respective year (in the example in section 13(d)(3)(i), 50 divided by 100 equals 50 percent of the first insured crop acres that were double cropped in 2019 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2020);
+
+(iii) Add the results of section 13(d)(3)(ii) and divide by the number of years the first insured crop was double cropped (in the example in section 13(d)(3)(i), 50 plus 70 equals 120 divided by 2 equals 60 percent); and
+
+(iv) Multiply the result of section 13(d)(3)(iii) by the number of insured acres of the first insured crop (in the example in section 13(d)(3)(i), 60 percent multiplied by the number of wheat acres insured in 2021);
 
 (e) If any Federal or State agency requires destruction of any insured crop or crop production, as applicable, because it contains levels of a substance, or has a condition, that is injurious to human or animal health in excess of the maximum amounts allowed by the Food and Drug Administration, other public health organizations of the United States or an agency of the applicable State, you must destroy the insured crop or crop production, as applicable, and certify that such insured crop or crop production has been destroyed prior to receiving an indemnity payment. Failure to destroy the insured crop or crop production, as applicable, will result in you having to repay any indemnity paid and you may be subject to administrative sanctions in accordance with section 515(h) of the Act and 7 CFR part 400, subpart R, and any applicable civil or criminal sanctions.
 
@@ -1086,7 +1108,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Sent to the location specified in your records with your crop insurance agent; and
 
-(3) Will be conclusively presumed to have been received by you.
+(3) Conclusively presumed to have been received by you.
 
 21. Access to Insured Crop and Records, and Record Retention
 
@@ -1356,4 +1378,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020]

@@ -1,12 +1,10 @@
 ##### § 230.159A Certain definitions for purposes of section 12(a)(2) of the Act. #####
 
-Link to an amendment published at 85 FR 26093, May 1, 2020.
-
 (a) *Definition of seller for purposes of section 12(a)(2) of the Act.* For purposes of section 12(a)(2) of the Act only, in a primary offering of securities of the issuer, regardless of the underwriting method used to sell the issuer's securities, *seller* shall include the issuer of the securities sold to a person as part of the initial distribution of such securities, and the issuer shall be considered to offer or sell the securities to such person, if the securities are offered or sold to such person by means of any of the following communications:
 
 (1) Any preliminary prospectus or prospectus of the issuer relating to the offering required to be filed pursuant to Rule 424 (§ 230.424) or Rule 497 (§ 230.497);
 
-(2) Any free writing prospectus as defined in Rule 405 (§ 230.405) relating to the offering prepared by or on behalf of the issuer or used or referred to by the issuer and, in the case of an issuer that is an open-end management company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), any summary prospectus relating to the offering provided pursuant to Rule 498 (§ 230.498);
+(2) Any free writing prospectus as defined in § 230.405 (Rule 405) relating to the offering prepared by or on behalf of the issuer or used or referred to by the issuer and, in the case of an issuer that is an open-end management company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a separate account (as defined in Section 2(a)(14) of the Securities Act) (15 U.S.C. 77b(a)(14)) registered under the Investment Company Act of 1940 on §§ 239.17a and 274.11b of this chapter (Form N-3), §§ 239.17b and 274.11c of this chapter (Form N-4), or §§ 239.17c and 274.11d of this chapter (Form N-6), any summary prospectus relating to the offering provided pursuant to § 230.498 (Rule 498) or § 230.498A (Rule 498A), respectively;
 
 (3) The portion of any other free writing prospectus (or, in the case of an issuer that is an investment company registered under the Investment Company Act of 1940 or a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)), any advertisement pursuant to Rule 482 (§ 230.482)) relating to the offering containing material information about the issuer or its securities provided by or on behalf of the issuer; and
 
@@ -28,4 +26,4 @@ Notes to paragraph (a) of rule 159A.
 
 (2) For purposes of section 12(a)(2) of the Act only, a person will not be considered to offer or sell securities by means of a free writing prospectus solely because another person has used or referred to the free writing prospectus or filed the free writing prospectus with the Commission pursuant to Rule 433.
 
-[70 FR 44805, Aug. 3, 2005, as amended at 74 FR 4584, Jan. 26, 2009]
+[70 FR 44805, Aug. 3, 2005, as amended at 74 FR 4584, Jan. 26, 2009; 85 FR 26093, May 1, 2020]

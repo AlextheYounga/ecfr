@@ -1,7 +1,5 @@
 ##### § 668.14 Program participation agreement. #####
 
-Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
-
 (a)(1) An institution may participate in any Title IV, HEA program, other than the LEAP and NEISP programs, only if the institution enters into a written program participation agreement with the Secretary, on a form approved by the Secretary. A program participation agreement conditions the initial and continued participation of an eligible institution in any Title IV, HEA program upon compliance with the provisions of this part, the individual program regulations, and any additional conditions specified in the program participation agreement that the Secretary requires the institution to meet.
 
 (2) An institution's program participation agreement applies to each branch campus and other location of the institution that meets the applicable requirements of this part unless otherwise specified by the Secretary.
@@ -172,7 +170,7 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (B) Make available the results of the review in paragraph (b)(30)(ii)(A) of this section to its students through a Web site or other means; and
 
-(C) To the extent practicable, offer legal alternatives for downloading or otherwise acquiring copyrighted material, as determined by the institution;
+(C) To the extent practicable, offer legal alternatives for downloading or otherwise acquiring copyrighted material, as determined by the institution; and
 
 (31) The institution will submit a teach-out plan to its accrediting agency in compliance with 34 CFR 602.24(c), and the standards of the institution's accrediting agency upon the occurrence of any of the following events:
 
@@ -184,13 +182,7 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (iv) The institution intends to close a location that provides 100 percent of at least one program.
 
-(v) The institution otherwise intends to cease operations; and
-
-(32) The institution will provide all enrolled students with a closed school discharge application and a written disclosure, describing the benefits and consequences of a closed school discharge as an alternative to completing their educational program through a teach-out agreement, as defined in 34 CFR 602.3, immediately upon submitting a teach-out plan after the occurrence of any of the following events:
-
-(i) The initiation by the Secretary of an action under 34 CFR 600.41 or subpart G of this part or the initiation of an emergency action under § 668.83, to terminate the participation of an institution in any title IV, HEA program.
-
-(ii) The occurrence of any of the events in paragraph (b)(31)(ii) through (v) of this section.
+(v) The institution otherwise intends to cease operations.
 
 (c) In order to participate in any Title IV, HEA program (other than the LEAP and NEISP programs), the institution must certify that it -
 
@@ -224,4 +216,4 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (h) An institution's program participation agreement no longer applies to or covers a location of the institution as of the date on which that location ceases to be a part of the participating institution.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1085, 1088, 1091, 1092, 1094, 1099a-3, 1099c, and 1141)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016; 84 FR 49910, Sept. 23, 2019]

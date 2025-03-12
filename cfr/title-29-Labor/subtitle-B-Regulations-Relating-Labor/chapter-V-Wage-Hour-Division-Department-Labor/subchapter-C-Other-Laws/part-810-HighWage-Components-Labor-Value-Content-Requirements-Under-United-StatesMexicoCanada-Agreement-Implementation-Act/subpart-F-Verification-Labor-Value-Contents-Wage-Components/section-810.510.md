@@ -1,0 +1,3 @@
+##### § 810.510 Notice to a producer that a verification of compliance with labor value content requirements has been initiated. #####
+
+CBP will notify a producer that a verification of LVC compliance has been initiated, including whether the verification concerns the high-wage components of the producer's LVC certification. This notification applies to verifications of compliance with the LVC referred to the Administrator by CBP, as well as verifications the Administrator has initiated with CBP.

@@ -1,7 +1,5 @@
 ##### § 270.11a-2 Offers of exchange by certain registered separate accounts or others the terms of which do not require prior Commission approval. #####
 
-Link to an amendment published at 85 FR 26109, May 1, 2020.
-
 (a) As used in this section:
 
 (1) *Deferred sales load* shall mean any sales load, including a contingent deferred sales load, that is deducted upon redemption or annuitization of amounts representing all or a portion of a securityholder's interest in a separate account;
@@ -26,24 +24,16 @@ Link to an amendment published at 85 FR 26109, May 1, 2020.
 
 (2) If the securities (or portions thereof) involved are variable life insurance contracts offered by a separate account registered under the Act as a unit investment trust, then the exchange must be made on the basis of the relative net asset values of the securities to be exchanged, except that the offering account may deduct at the time of the exchange an administrative fee which is disclosed in the part of the offering account's registration statement under the Securities Act of 1933 relating to the prospectus.
 
-(c) If the offering account imposes a front-end sales load on the acquired security, then such sales load
+(c) If the offering account imposes a front-end sales load on the acquired security, then such sales load shall be a percentage that is no greater than the excess of the rate of the front-end sales load otherwise applicable to that security over the rate of any front-end sales load previously paid on the exchanged security.
 
-(1) Shall be a percentage that is no greater than the excess of the rate of the front-end sales load otherwise applicable to that security over the rate of any front-end sales load previously paid on the exchanged security, and
+(d) If the offering account imposes a deferred sales load on the acquired security and the exchanged security was also subject to a deferred sales load, then any deferred sales load imposed on the acquired security shall be calculated as if:
 
-(2) Shall not exceed 9 percent of the sum of the purchase payments made for the acquired security and the exchanged security.
+(1) The holder of the acquired security had been the holder of that security from the date on which he became the holder of the exchanged security; and
 
-(d) If the offering account imposes a deferred sales load on the acquired security and the exchanged security was also subject to a deferred sales load, then any deferred sales load imposed on the acquired security:
-
-(1) Shall be calulated as if
-
-(i) The holder of the acquired security had been the holder of that security from the date on which he became the holder of the exchanged security and
-
-(ii) Purchase payments made for the exchanged security had been made for the acquired security on the date on which they were made for the exchanged security; and
-
-(2) Shall not exceed 9 percent of the sum of the purchase payments made for the acquired security and the exchanged security.
+(2) Purchase payments made for the exchanged security had been made for the acquired security on the date on which they were made for the exchanged security.
 
 (e) If the offering account imposes a deferred sales load on the acquired security and a front-end sales load was paid on the exchanged security, then any deferred sales load imposed on the acquired security may not be imposed on purchase payments made for the exchanged security or any appreciation attributable to purchase payments made for the exchanged security that are transferred in connection with the exchange.
 
 (f) Notwithstanding the foregoing, no offer of exchange shall be made in reliance on this section if both a front-end sales load and a deferred sales load are to be imposed on the acquired security or if both such sales loads are imposed on the exchanged security.
 
-(Sec. 11(a) (15 U.S.C. 80a-11(a)) and sec. 38(a) (15 U.S.C. 80a-37(a)) of the Act)[48 FR 36245, Aug. 10, 1983]
+[48 FR 36245, Aug. 10, 1983, as amended at 85 FR 26109, May 1, 2020]

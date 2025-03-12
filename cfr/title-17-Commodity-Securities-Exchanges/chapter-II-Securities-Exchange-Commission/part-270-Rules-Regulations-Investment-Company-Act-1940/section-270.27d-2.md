@@ -1,11 +1,1 @@
-##### § 270.27d-2 Insurance company undertaking in lieu of segregated trust account. #####
-
-(a) Any depositor of or principal underwriter for the issuer of a periodic payment plan certificate sold subject to section 27(d) or 27(f) of the Act, or both, shall be exempt from the requirements of § 270.27d-1 if an insurance company (as defined in section 2(a)(17) of the Act) undertakes in writing to guarantee the performance of all obligations of such depositor or principal underwriter to refund charges under sections 27(d) and 27(f) of the Act and paragraph (b) of this section: *Provided, however,* That:
-
-(1) Such insurance company at all times shall have (i) combined capital paid-up, gross paid in and contributed surplus and unassigned surplus, if a stock company, or (ii) unassigned surplus, if a mutual company, at least equal to the larger of (*a*) $1 million or (*b*) 200 percent of the amount of the total refund obligation of the depositor or underwriter pursuant to sections 27(d) and 27(f) (of the Act) less any liability reserve established by such insurance company to meet such obligations; and
-
-(2) Such depositor or underwriter shall file or cause to be filed with the Commission as an exhibit to the registration statement or any amendment thereto pursuant to the Securities Act of 1933 of the registered investment company issuing periodic payment plan certificates (i) a copy of such written undertaking, and any amendment thereto, (ii) an annual statement certified by a responsible officer of the insurance company indicating that at least on a monthly basis throughout its fiscal year the insurance company has met the requirements of the proviso in paragraph (a)(1) of this section, and (iii) a Statement of Financial Condition (Balance Sheet) of the insurance company certified by an independent public accountant. Such balance sheet shall be filed at least annually, within 90 days after the close of the insurance company's fiscal year.
-
-(b) The refunds required to be made to certificate holders pursuant to sections 27(d) and 27(f) (of the Act) shall be paid in cash not more than 7 days from the date the certificate is received in proper form by the custodian bank or such other paying agent as may be designated under the periodic payment plan.
-
-[36 FR 13137, July 15, 1971]
+##### § 270.27d-2 [Reserved] #####

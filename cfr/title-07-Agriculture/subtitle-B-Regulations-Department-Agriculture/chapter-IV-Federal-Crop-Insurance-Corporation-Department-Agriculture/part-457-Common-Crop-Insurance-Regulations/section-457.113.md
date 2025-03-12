@@ -1,8 +1,6 @@
 ##### § 457.113 Coarse grains crop insurance provisions. #####
 
-Link to an amendment published at 85 FR 38760, June 29, 2020.
-
-The Coarse Grains Crop Insurance Provisions for the 2020 and succeeding crop years are as follows:
+The Coarse Grains Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationCoarse Grains Crop Provisions1. Definitions
 
@@ -16,7 +14,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 *Local market price.* The cash grain price per bushel for the U.S. No. 2 yellow corn, U.S. No. 2 grain sorghum, or U.S. No. 1 soybeans, offered by buyers in the area in which you normally market the insured crop. The local market price will reflect the maximum limits of quality deficiencies allowable for the U.S. No. 2 grade for yellow corn and grain sorghum, or U.S. No. 1 grade for soybeans. Factors not associated with grading under the Official United States Standards for Grain, including but not limited to protein and oil, will not be considered.
 
-*Not following another crop (NFAC*). A cropping practice, as defined in the Special Provisions, in which a crop is planted not following a crop.
+*Not following another crop (NFAC*). A cropping practice, as defined in the Special Provisions, in which a crop is planted not following another crop.
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, coarse grains must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
@@ -30,7 +28,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 (a) In addition to the requirements of section 34(a) of the Basic Provisions, you may elect separate enterprise units for FAC or NFAC cropping practices if these cropping practices are allowed by the actuarial documents. If you elect enterprise units for these cropping practices, you may not elect enterprise or optional units by irrigation practices.
 
-(1) You may elect one enterprise unit for all FAC cropping practices, all NFAC cropping practices, or separate enterprise units for both, unless otherwise specified in the Special Provisions. For example: You may choose an enterprise unit for all FAC acreage (soybeans irrigated practice and non-irrigated practice) and an enterprise unit for all NFAC acreage (soybeans irrigated practice and non-irrigated practice).
+(1) You may elect one enterprise unit for all FAC cropping practices or one enterprise unit for all NFAC cropping practices, or separate enterprise units for both practices, unless otherwise specified in the Special Provisions. For example: You may choose an enterprise unit for all FAC acreage (soybeans irrigated practice and non-irrigated practice) and an enterprise unit for all NFAC acreage (soybeans irrigated practice and non-irrigated practice).
 
 (2) You are only eligible if both FAC and NFAC cropping practices are allowed by the actuarial documents for each irrigation practice you use. If FAC and NFAC cropping practices are only allowed for the non-irrigated practice, separate enterprise units for FAC and NFAC cropping practices are not available if you use the irrigated practice; but if you use only non-irrigated FAC and NFAC cropping practices, separate enterprise units for non-irrigated FAC and NFAC cropping practices are available.
 
@@ -38,9 +36,15 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 (4) If you elected separate enterprise units for both cropping practices and we discover you do not qualify for an enterprise unit for one or the other cropping practice and such discovery is made:
 
-(i) On or before the acreage reporting date, you may elect to insure all acreage of the crop in the county in one enterprise unit provided you meet the requirements in section 34(a)(4), or your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
+(i) On or before the acreage reporting date, you may elect to insure:
 
-(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+(A) One enterprise unit for all FAC or NFAC cropping practices provided you meet the requirements in section 34(a)(4), and basic or optional units for the other cropping practice, whichever you report on your acreage report and qualify for; or
+
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
 
 (5) If you elected an enterprise unit on one cropping practice for FAC or NFAC and a different unit structure on the other cropping practice and we discover you do not qualify for an enterprise unit for the FAC or NFAC cropping practice and such discovery is made:
 
@@ -124,7 +128,7 @@ In addition to the provisions of section 9 of the Basic Provisions, any acreage 
 
 8. Insurance Period
 
-In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows:
+In accordance with the provisions of section 11 of the Basic Provisions, unless otherwise specified in the actuarial documents, the calendar date for the end of the insurance period is the date immediately following planting as follows:
 
 |                                                                                      (a) For corn insured as grain:                                                                                       |             |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
@@ -321,7 +325,7 @@ We may obtain samples of the production to determine the moisture content.
 
 (iv) With regard to substances or conditions injurious to human or animal health, the samples are analyzed by a laboratory approved by us.
 
-(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 12(d) (2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
+(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 12(d)(2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
 
 (e) For corn insured as silage:
 
@@ -335,4 +339,4 @@ We may obtain samples of the production to determine the moisture content.
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019]
+[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019; 85 FR 38360, June 29, 2020]

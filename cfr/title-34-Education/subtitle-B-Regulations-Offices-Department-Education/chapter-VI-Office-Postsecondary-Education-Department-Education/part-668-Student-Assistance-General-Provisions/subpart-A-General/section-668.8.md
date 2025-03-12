@@ -1,7 +1,5 @@
 ##### § 668.8 Eligible program. #####
 
-Link to an amendment published at 84 FR 31452, July 1, 2019.Link to an amendment published at 84 FR 58931, Nov. 1, 2019.
-
 (a) *General.* An eligible program is an educational program that -
 
 (1) Is provided by a participating institution; and
@@ -46,7 +44,7 @@ Link to an amendment published at 84 FR 31452, July 1, 2019.Link to an amendment
 
 (ii) Be at least 300 clock hours, 8 semester or trimester hours, or 12 quarter hours;
 
-(iii) Provide training that prepares a student for gainful employment in a recognized occupation as provided under subpart Q of this part; and
+(iii) Provide training that prepares a student for gainful employment in a recognized occupation; and
 
 (iv)(A) Be a graduate or professional program; or
 
@@ -58,7 +56,7 @@ Link to an amendment published at 84 FR 31452, July 1, 2019.Link to an amendment
 
 (ii) Be at least 300 clock hours but less than 600 clock hours;
 
-(iii) Provide undergraduate training that prepares a student for gainful employment in a recognized occupation as provided under subpart Q of this part;
+(iii) Provide undergraduate training that prepares a student for gainful employment in a recognized occupation;
 
 (iv) Admit as regular students some persons who have not completed the equivalent of an associate degree; and
 
@@ -148,7 +146,7 @@ Link to an amendment published at 84 FR 31452, July 1, 2019.Link to an amendment
 
 (iii) A quarter hour must include at least 25 clock hours of instruction.
 
-(2) The institution's conversions to establish a minimum number of clock hours of instruction per credit may be less than those specified in paragraph (l)(1) of this section if the institution's designated accrediting agency, or recognized State agency for the approval of public postsecondary vocational institutions for participation in the title IV, HEA programs, has not identified any deficiencies with the institution's policies and procedures, or their implementation, for determining the credit hours that the institution awards for programs and courses, in accordance with 34 CFR 602.24(f) or, if applicable, 34 CFR 603.24(c), so long as -
+(2) The institution's conversions to establish a minimum number of clock hours of instruction per credit may be less than those specified in paragraph (l)(1) of this section if the institution's designated accrediting agency, or recognized State agency for the approval of public postsecondary vocational institutions for participation in the title IV, HEA programs, has not identified any deficiencies with the institution's policies and procedures, or their implementation, for determining the credit hours that the institution awards for programs and courses, so long as -
 
 (i) The institution's student work outside of class combined with the clock hours of instruction meet or exceed the numeric requirements in paragraph (l)(1) of this section; and
 

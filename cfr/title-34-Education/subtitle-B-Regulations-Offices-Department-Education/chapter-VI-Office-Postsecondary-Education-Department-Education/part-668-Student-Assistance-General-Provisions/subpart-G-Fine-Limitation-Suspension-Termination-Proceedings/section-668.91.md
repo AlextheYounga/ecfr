@@ -1,7 +1,5 @@
 ##### § 668.91 Initial and final decisions. #####
 
-Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
-
 (a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to -
 
 (A) The designated department official who began a proceeding against an institution or third-party servicer;
@@ -28,29 +26,17 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (i) If, in a termination action against an institution, the hearing official finds that the institution has violated the provisions of § 668.14(b)(18), the hearing official also finds that termination of the institution's participation is warranted;
 
-(ii) If, in a termination action against a third-party servicer, the hearing official finds that the servicer has violated the provisions of § 668.82(d)(1), the hearing official also finds that termination of the institution's participation or servicer's eligibility, as applicable, is warranted;
+(ii) If, in a termination action against a third-party servicer, the hearing official finds that the servicer has violated the provisions of § 668.14(b)(18), the hearing official also finds that termination of the institution's participation or servicer's eligibility is warranted;
 
-(iii) In an action brought against an institution or third-party servicer that involves its failure to provide a letter of credit or other financial protection under § 668.15 or § 668.171(c) through (g), the hearing official finds that the amount of the letter of credit or other financial protection established by the Secretary under § 668.175(f)(4) is appropriate, unless the institution can demonstrate that the amount was not warranted because -
+(iii) In an action brought against an institution or third-party servicer that involves its failure to provide a letter of credit, or other financial protection under § 668.15 or § 668.171(c) or (d), the hearing official finds that the amount of the letter of credit or other financial protection established by the Secretary under § 668.175 is appropriate, unless the institution demonstrates that the amount was not warranted because -
 
-(A) For financial protection demanded based on events or conditions described in § 668.171(c) through (f), the events or conditions no longer exist or have been resolved or the institution demonstrates that it has insurance that will cover the debts and liabilities that arise from the triggering event or condition, or, for a condition or event described in § 668.171(c)(1)(iii) (teach out) or (iv) (gainful employment eligibility loss), the amount of educationally related expenses reasonably attributable to the programs or location is greater than the amount calculated in accordance with Appendix C of subpart L of this part. The institution can demonstrate that insurance covers risk by presenting the Department with a statement from the insurer that the institution is covered for the full or partial amount of the liability in question;
+(A) For financial protection demanded based on events or conditions described in § 668.171(c) or (d), the events or conditions no longer exist, have been resolved, or the institution demonstrates that it has insurance that will cover all potential debts and liabilities that arise from the triggering event or condition. The institution can demonstrate it has insurance that covers risk by presenting the Department with a copy of the insurance policy that makes clear the institution's coverage;
 
-(B) For financial protection demanded based on a suit described in § 668.171(c)(1)(i) that does not state a specific amount of relief and on which the court has not ruled on the amount of relief, the institution demonstrates that, accepting the facts alleged as true, and assuming the claims asserted are fully successful, the action pertains to a period, program, or location for which the maximum potential relief is less than the amount claimed or the amount determined under § 668.171(c)(2)(ii);
+(B) For financial protection demanded based on the grounds identified in § 668.171(d), the action or event does not and will not have a material adverse effect on the financial condition, business, or results of operations of the institution;
 
-(C) For financial protection demanded based on the ground identified in § 668.171(g), the factor or event does not and will not have a material adverse effect on the financial condition, business, or results of operations of the institution;
+(C) The institution has proffered alternative financial protection that provides students and the Department adequate protection against losses resulting from the risks identified by the Secretary. Adequate protection may consist of one or more of the following -
 
-(D)(*1*) For financial protection demanded under § 668.175(f)(4)(i), the institution does not participate and has not participated for the prior fiscal year in a title IV, HEA loan program; and
-
-(*2*) For any financial protection demanded of an institution described in paragraph (a)(3)(iii)(D)(*1*) of this section, and any portion of financial protection demanded of any other institution greater than 10 percent of the amount of title IV, HEA funds received by the institution in its most recently completed fiscal year -
-
-(i) The risk of loss to the Secretary on the grounds demonstrated by the Secretary does not exist;
-
-(ii) The loss as demonstrated by the Secretary is not reasonably likely to arise within the next 18 months; or
-
-(*iii*) The amount is unnecessary to protect, or contrary to, the Federal interest;
-
-(E) The institution has proffered alternative financial protection that provides students and the Department adequate protection against losses resulting from the risks identified by the Secretary. In the Secretary's discretion, adequate protection may consist of one or more of the following -
-
-(*1*) An agreement with the Secretary that a portion of the funds due to the institution under a reimbursement or heightened cash monitoring funding arrangement will be temporarily withheld in such amounts as will meet, no later than the end of a nine-month period, the amount of the required financial protection demanded; or
+(*1*) An agreement with the Secretary that a portion of the funds due to the institution under a reimbursement or heightened cash monitoring funding arrangement will be temporarily withheld in such amounts as will meet, no later than the end of a six to 12 month period, the amount of the required financial protection demanded; or
 
 (*2*) Other form of financial protection specified by the Secretary in a notice published in the Federal Register.
 
@@ -60,9 +46,9 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (B) In a termination or limitation action against an institution based on the grounds that the institution is not financially responsible -
 
-(*1*) Upon proof of the conditions in § 668.174(a), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all the conditions in § 668.175(f) have been met; and
+(*1*) Upon proof of the conditions in § 668.174(a), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all the conditions in § 668.175(h)(2) have been met; and
 
-(*2*) Upon proof of the conditions in § 668.174(b)(1), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all applicable conditions described in § 668.174(b)(2) or § 668.175(g) have been met.
+(*2*) Upon proof of the conditions in § 668.174(b)(1), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all applicable conditions described in § 668.174(b)(2) or § 668.175(h)(2) have been met.
 
 (4) The hearing official bases findings of fact only on evidence considered at the hearing and on matters given judicial notice.
 
@@ -104,4 +90,4 @@ Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
 
 (x) In a borrower defense and recovery proceeding conducted in two phases under § 668.87(a)(1)(iv)(B), if a party appeals an initial decision of the hearing official in the first phase, the Secretary may affirm, modify, or reverse the initial decision, or may remand the case to the hearing official for further proceedings consistent with the Secretary's decision.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1082, 1094)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 2017]
+(Approved by the Office of Management and Budget under control number 1840-0537)[59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 201 7; 84 FR 49910, Sept. 23, 2019]

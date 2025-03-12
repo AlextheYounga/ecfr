@@ -1,8 +1,6 @@
 ##### § 600.31 Change in ownership resulting in a change in control for private nonprofit, private for-profit and public institutions. #####
 
-Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
-
-(a)(1) Except as provided in paragraph (a)(2) of this section, a private nonprofit, private for-profit, or public institution that undergoes a change in ownership that results in a change in control ceases to qualify as an eligible institution upon the change in ownership and control. A change in ownership that results in a change in control includes any change by which a person who has or thereby acquires an ownership interest in the entity that owns the institution or the parent corporation of that entity, acquires or loses the ability to control the institution.
+(a)(1) Except as provided in paragraph (a)(2) of this section, a private nonprofit, private for-profit, or public institution that undergoes a change in ownership that results in a change in control ceases to qualify as an eligible institution upon the change in ownership and control. A change of ownership that results in a change in control includes any change by which a person who has or thereby acquires an ownership interest in the entity that owns the institution or the parent of that entity, acquires or loses the ability to control the institution.
 
 (2) If a private nonprofit, private for-profit, or public institution has undergone a change in ownership that results in a change in control, the Secretary may, under the provisions of § 600.20(g) and (h), continue the institution's participation in the title IV, HEA programs on a provisional basis, provided that the institution submits, under the provisions of § 600.20(g), a materially complete application -
 
@@ -18,11 +16,11 @@ Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
 
 (b) *Definitions.* The following definitions apply to terms used in this section:
 
-*Closely-held corporation.* Closely-held corporation (including the term close corporation) means -
+*Closely-held corporation.* Closely-held corporation (including the term “close corporation”) means -
 
-(1) A corporation that qualifies under the law of the State of its incorporation as a closely-held corporation; or
+(1) A corporation that qualifies under the law of the State of its incorporation or organization as a closely-held corporation; or
 
-(2) If the State of incorporation has no definition of closely-held corporation, a corporation the stock of which -
+(2) If the State of incorporation or organization has no definition of closely-held corporation, a corporation the stock of which -
 
 (i) Is held by no more than 30 persons; and
 
@@ -38,13 +36,13 @@ Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
 
 (ii) A U.S. institutional investor, as defined in 17 CFR 240.15a-6(b)(7);
 
-(iii) A profit-sharing plan of the institution or its corporate parent, provided that all full-time permanent employees of the institution or corporate parent are included in the plan; or
+(iii) A profit-sharing plan of the institution or its corporate parent, provided that all full-time permanent employees of the institution or its corporate parent are included in the plan; or
 
-(iv) An Employee Stock Ownership Plan (ESOP).
+(iv) An employee stock ownership plan (ESOP).
 
-*Parent.* The parent or parent corporation of a specified corporation is the corporation or partnership that controls the specified corporation directly or indirectly through one or more intermediaries.
+*Parent.* The parent or parent entity is the entity that controls the specified entity directly or indirectly through one or more intermediaries.
 
-*Person.* Person includes a legal person (corporation or partnership) or an individual.
+*Person.* Person includes a legal entity or a natural person.
 
 *Wholly-owned subsidiary.* A wholly-owned subsidiary is one substantially all of whose outstanding voting securities are owned by its parent together with the parent's other wholly-owned subsidiaries.
 
@@ -66,17 +64,15 @@ Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
 
 (C) If a publicly-traded institution is provisionally certified due to a change in ownership under paragraph (c)(2)(ii) of this section, and that institution experiences another change of ownership under paragraph (c)(2)(ii) of this section, an approval of the subsequent change in ownership does not extend the original expiration date for the provisional certification provided that any current controlling shareholder was listed on the change of ownership application for which the original provisional approval was granted.
 
-(3) *Other corporations.* A change in ownership and control of a corporation that is neither closely-held nor required to be registered with the SEC occurs when -
+(3) *Other entities.* The term “other entities” includes limited liability companies, limited liability partnerships, limited partnerships, and similar types of legal entities. A change in ownership and control of an entity that is neither closely-held nor required to be registered with the SEC occurs when -
 
-(i) A person who has or acquires an ownership interest acquires both control of at least 25 percent of the total outstanding voting stock of the corporation and control of the corporation;
+(i) A person who has or acquires an ownership interest acquires both control of at least 25 percent of the total of outstanding voting stock of the corporation and control of the corporation; or
 
-(ii) A person who holds both ownership or control of at least 25 percent of the total outstanding voting stock of the corporation and control of the corporation, ceases to own or control that proportion of the stock of the corporation, or to control the corporation; or
+(ii) A person who holds both ownership or control of at least 25 percent of the total outstanding voting stock of the corporation and control of the corporation, ceases to own or control that proportion of the stock of the corporation, or to control the corporation.
 
-(iii) For a membership corporation, a person who is or becomes a member acquires or loses control of 25 percent of the voting interests of the corporation and control of the corporation.
+(4) *General partnership or sole proprietorship.* A change in ownership and control occurs when a person who has or acquires an ownership interest acquires or loses control as described in this section.
 
-(4) *Partnership or sole proprietorship.* A change in ownership and control occurs when a person who has or acquires an ownership interest acquires or loses control as described in this section.
-
-(5) *Parent corporation.* An institution that is a wholly-owned subsidiary changes ownership and control when the parent corporation changes ownership and control as described in this section.
+(5) *Wholly owned subsidiary.* An entity that is a wholly owned subsidiary changes ownership and control when its parent entity changes ownership and control as described in this section.
 
 (6) *Nonprofit institution.* A nonprofit institution changes ownership and control when a change takes place that is described in paragraph (d) of this section.
 
@@ -108,4 +104,4 @@ Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
 
 (2) Upon the retirement or death of the owner, to a person with an ownership interest in the institution who has been involved in management of the institution for at least two years preceding the transfer and who has established and retained the ownership interest for at least two years prior to the transfer.
 
-(Approved by the Office of Management and Budget under control number 1845-0012)(Authority: 20 U.S.C. 1099c)[59 FR 22336, Apr. 29, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 33430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 65 FR 65673, Nov. 1, 2000; 67 FR 67070, Nov. 1, 2002]
+(Approved by the Office of Management and Budget under control number 1845-0012)(Authority: 20 U.S.C. 1099c)[59 FR 22336, Apr. 29, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 33430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 65 FR 65673, Nov. 1, 2000; 67 FR 67070, Nov. 1, 2002; 84 FR 58916, Nov. 1, 2019]

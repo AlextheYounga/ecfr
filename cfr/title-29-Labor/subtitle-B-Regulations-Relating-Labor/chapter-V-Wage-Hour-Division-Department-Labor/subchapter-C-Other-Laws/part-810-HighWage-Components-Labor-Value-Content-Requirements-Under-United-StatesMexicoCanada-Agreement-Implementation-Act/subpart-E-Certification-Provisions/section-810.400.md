@@ -1,0 +1,3 @@
+##### § 810.400 Scope and purpose of this subpart. #####
+
+Section 202A(c)(1)(B) of the USMCA Implementation Act requires the Secretary, in consultation with CBP, to ensure that a vehicle producer's LVC certification does not contain omissions or errors before the certification is considered properly filed. The regulations in this subpart describe the scope of the Secretary's review under this statutory provision, and what certification information a vehicle producer submits to CBP related to that review. All matters other than reviewing the high-wage components of the LVC certification for omissions or errors are outside of the Secretary's purview, and are addressed in the Uniform Regulations and regulations and/or guidance issued by CBP or other federal agencies.

@@ -1,7 +1,5 @@
 ##### § 600.21 Updating application information. #####
 
-Link to an amendment published at 84 FR 31452, July 1, 2019.
-
 (a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary in a manner prescribed by the Secretary no later than 10 days after the change occurs, of any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 31452, July 1, 2019.
 
 (10) For a freestanding foreign graduate medical school, or a foreign institution that includes a foreign graduate medical school, the school adds a location that offers all or a portion of the school's clinical rotations that are not required, except for those that are included in the accreditation of a medical program accredited by the Liaison Committee on Medical Education (LCME) or the American Osteopathic Association (AOA), or that are not used regularly, but instead are chosen by individual students who take no more than two electives at the location for no more than a total of eight weeks.
 
-(11) For any gainful employment program under 34 CFR part 668, subpart Q -
+(11) For any program that is required to provide training that prepares a student for gainful employment in a recognized occupation -
 
 (i) Establishing the eligibility or reestablishing the eligibility of the program;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 84 FR 31452, July 1, 2019.
 
 (4) Sibling's spouse.
 
-(Approved by the Office of Management and Budget under control number 1845-0012)(Authority: 20 U.S.C. 1094, 1099b)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014]
+(Approved by the Office of Management and Budget under control number 1845-0012)(Authority: 20 U.S.C. 1094, 1099b)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019]

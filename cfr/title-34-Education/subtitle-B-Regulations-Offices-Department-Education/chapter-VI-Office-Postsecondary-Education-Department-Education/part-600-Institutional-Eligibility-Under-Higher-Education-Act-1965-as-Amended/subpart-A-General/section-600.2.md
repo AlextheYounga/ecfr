@@ -1,14 +1,14 @@
 ##### § 600.2 Definitions. #####
 
-Link to an amendment published at 84 FR 58914, Nov. 1, 2019.
-
 The following definitions apply to terms used in this part:
 
 *Accredited:* The status of public recognition that a nationally recognized accrediting agency grants to an institution or educational program that meets the agency's established requirements.
 
+*Additional location:* A facility that is geographically apart from the main campus of the institution and at which the institution offers at least 50 percent of a program and may qualify as a branch campus.
+
 *Award year:* The period of time from July 1 of one year through June 30 of the following year.
 
-*Branch Campus:* A location of an institution that is geographically apart and independent of the main campus of the institution. The Secretary considers a location of an institution to be independent of the main campus if the location -
+*Branch campus:* An additional location of an institution that is geographically apart and independent of the main campus of the institution. The Secretary considers a location of an institution to be independent of the main campus if the location -
 
 (1) Is permanent in nature;
 
@@ -98,7 +98,7 @@ The following definitions apply to terms used in this part:
 
 *One-academic-year training program:* An educational program that is at least one academic year as defined under 34 CFR 668.2.
 
-*Preaccredited:* A status that a nationally recognized accrediting agency, recognized by the Secretary to grant that status, has accorded an unaccredited public or private nonprofit institution that is progressing toward accreditation within a reasonable period of time.
+*Preaccreditation:* The status of accreditation and public recognition that a nationally recognized accrediting agency grants to an institution or program for a limited period of time that signifies the agency has determined that the institution or program is progressing toward full accreditation and is likely to attain full accreditation before the expiration of that limited period of time (sometimes referred to as “candidacy”).
 
 *Recognized equivalent of a high school diploma:* The following are the equivalent of a high school diploma -
 
@@ -118,14 +118,20 @@ The following definitions apply to terms used in this part:
 
 *Regular student:* A person who is enrolled or accepted for enrollment at an institution for the purpose of obtaining a degree, certificate, or other recognized educational credential offered by that institution.
 
+*Religious mission:* A published institutional mission that is approved by the governing body of an institution of postsecondary education and that includes, refers to, or is predicated upon religious tenets, beliefs, or teachings.
+
 *Secretary:* The Secretary of the Department of Education or an official or employee of the Department of Education acting for the Secretary under a delegation of authority.
 
 *State:* A State of the Union, American Samoa, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau. The latter three are also known as the Freely Associated States.
 
-*State authorization reciprocity agreement:* An agreement between two or more States that authorizes an institution located and legally authorized in a State covered by the agreement to provide postsecondary education through distance education or correspondence courses to students residing in other States covered by the agreement and does not prohibit any State in the agreement from enforcing its own statutes and regulations, whether general or specifically directed at all or a subgroup of educational institutions.
+*State authorization reciprocity agreement:* An agreement between two or more States that authorizes an institution located and legally authorized in a State covered by the agreement to provide postsecondary education through distance education or correspondence courses to students located in other States covered by the agreement and cannot prohibit any member State of the agreement from enforcing its own general-purpose State laws and regulations outside of the State authorization of distance education.
 
-*Teach-out plan:* A written plan developed by an institution that provides for the equitable treatment of students if an institution, or an institutional location that provides 100 percent of at least one program, ceases to operate before all students have completed their program of study, and may include, if required by the institution's accrediting agency, a teach-out agreement between institutions.
+*Teach-out:* A process during which a program, institution, or institutional location that provides 100 percent of at least one program engages in an orderly closure or when, following the closure of an institution or campus, another institution provides an opportunity for the students of the closed school to complete their program, regardless of their academic progress at the time of closure.
+
+*Teach-out agreement:* A written agreement between institutions that provides for the equitable treatment of students and a reasonable opportunity for students to complete their program of study if an institution, or an institutional location that provides 100 percent of at least one program offered, ceases to operate or plans to cease operations before all enrolled students have completed their program of study.
+
+*Teach-out plan:* A written plan developed by an institution that provides for the equitable treatment of students if an institution, or an institutional location that provides 100 percent of at least one program, ceases to operate or plans to cease operations before all enrolled students have completed their program of study.
 
 *Title IV, HEA program:* Any of the student financial assistance programs listed in 34 CFR 668.1(c).
 
-(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016]Effective Date Note:At 81 FR 92262, Dec. 19, 2016, § 600.2 was amended by adding a definition for “State authorization reciprocity agreement“, effective July 1, 2018. At 83 FR 31296, July 3, 2019, the amendment was delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the amendment was made effective May 26, 2019, by court order.
+(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016; 84 FR 58914, Nov. 1, 2019]

@@ -1,7 +1,5 @@
 ##### § 192.285 Plastic pipe: Qualifying persons to make joints. #####
 
-Link to an amendment published at 84 FR 52245, Oct. 1, 2019.
-
 (a) No person may make a plastic pipe joint unless that person has been qualified under the applicable joining procedure by:
 
 (1) Appropriate training or experience in the use of the procedure; and
@@ -28,4 +26,6 @@ Link to an amendment published at 84 FR 52245, Oct. 1, 2019.
 
 (d) Each operator shall establish a method to determine that each person making joints in plastic pipelines in the operator's system is qualified in accordance with this section.
 
-[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018]
+(e) For transmission pipe installed after July 1, 2021, records demonstrating each person's plastic pipe joining qualifications at the time of construction in accordance with this section must be retained for a minimum of 5 years following construction.
+
+[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018; Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]

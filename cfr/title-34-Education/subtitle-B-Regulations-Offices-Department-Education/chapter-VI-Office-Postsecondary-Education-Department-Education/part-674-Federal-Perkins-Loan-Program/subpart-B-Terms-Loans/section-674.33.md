@@ -1,7 +1,5 @@
 ##### § 674.33 Repayment. #####
 
-Link to an amendment published at 84 FR 58933, Nov. 1, 2019.
-
 (a) *Repayment Plan.* (1) The institution shall establish a repayment plan before the student ceases to be at least a half-time regular student.
 
 (2) If the last scheduled payment would be $25 or less the institution may combine it with the next-to-last repayment.
@@ -156,7 +154,7 @@ Link to an amendment published at 84 FR 58933, Nov. 1, 2019.
 
 (B) Did not complete the program of study at that school because the school closed while the student was enrolled, or the student withdrew from the school not more than 120 days before the school closed. The Secretary may extend the 120-day period if the Secretary determines that exceptional circumstances related to the school's closing justify an extension. Exceptional circumstances for this purpose may include, but are not limited to: the school's loss of accreditation; The school's discontinuation of the majority of its academic programs; action by the State to revoke the school's license to operate or award academic credentials in the State; or a finding by a State or Federal government agency that the school violated State or Federal law; and
 
-(C) Did not complete and is not in the process of completing the program of study through a teachout at another school as defined in 34 CFR 602.2 and administered in accordance with 34 CFR 602.207(b)(6), by transferring academic credit earned at the closed school to another school, or by any other comparable means;
+(C) Did not complete and is not in the process of completing the program of study through a teachout at another school as defined in 34 CFR 600.2 and administered in accordance with 34 CFR 602.207(b)(6), by transferring academic credit earned at the closed school to another school, or by any other comparable means;
 
 (ii) State whether the borrower has made a claim with respect to the school's closing with any third party, such as the holder of a performance bond or a tuition recovery program, and, if so, the amount of any payment received by the borrower or credited to the borrower's loan obligation; and
 
@@ -208,4 +206,4 @@ Link to an amendment published at 84 FR 58933, Nov. 1, 2019.
 
 (x) In the case of a loan held by a school and discharged by either the school or the Secretary, the school must reimburse its Fund for the entire amount of any outstanding principal and interest on the loan, and any collection costs charged to the Fund as a result of collection efforts on a discharged loan. The school must also reimburse the borrower for any amount of principal, interest, late charges or collection costs the borrower paid on a loan discharged under this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0019)(Authority:20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 57 FR 60706, Dec. 21, 1992; 59 FR 61409, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 74 FR 55660, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013; 81 FR 76078, Nov. 1, 2016; 84 FR 58933, Nov. 1, 2019]

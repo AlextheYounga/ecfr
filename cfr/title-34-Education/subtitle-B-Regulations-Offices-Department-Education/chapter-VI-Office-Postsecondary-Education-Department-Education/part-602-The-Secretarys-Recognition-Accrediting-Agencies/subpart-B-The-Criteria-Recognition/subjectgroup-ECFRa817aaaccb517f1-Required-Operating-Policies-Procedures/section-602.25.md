@@ -1,7 +1,5 @@
 ##### § 602.25 Due process. #####
 
-Link to an amendment published at 84 FR 58925, Nov. 1, 2019.
-
 The agency must demonstrate that the procedures it uses throughout the accrediting process satisfy due process. The agency meets this requirement if the agency does the following:
 
 (a) Provides adequate written specification of its requirements, including clear standards, for an institution or program to be accredited or preaccredited.
@@ -16,15 +14,15 @@ The agency must demonstrate that the procedures it uses throughout the accrediti
 
 (f) Provides an opportunity, upon written request of an institution or program, for the institution or program to appeal any adverse action prior to the action becoming final.
 
-(1) The appeal must take place at a hearing before an appeals panel that -
+(1) The appeal must take place at a hearing before an appeals panel that—
 
 (i) May not include current members of the agency's decision-making body that took the initial adverse action;
 
 (ii) Is subject to a conflict of interest policy;
 
-(iii) Does not serve only an advisory or procedural role, and has and uses the authority to make the following decisions: to affirm, amend, or reverse adverse actions of the original decision-making body; and
+(iii) Does not serve only an advisory or procedural role, and has and uses the authority to make the following decisions: To affirm, amend, or remand adverse actions of the original decision-making body; and
 
-(iv) Affirms, amends, reverses, or remands the adverse action. A decision to affirm, amend, or reverse the adverse action is implemented by the appeals panel or by the original decision-making body, at the agency's option. In a decision to remand the adverse action to the original decision-making body for further consideration, the appeals panel must identify specific issues that the original decision-making body must address. In a decision that is implemented by or remanded to the original decision-making body, that body must act in a manner consistent with the appeals panel's decisions or instructions.
+(iv) Affirms, amends, or remands the adverse action. A decision to affirm or amend the adverse action is implemented by the appeals panel or by the original decision-making body, at the agency's option; however, in the event of a decision by the appeals panel to remand the adverse action to the original decision-making body for further consideration, the appeals panel must explain the basis for a decision that differs from that of the original decision-making body and the original decision-making body in a remand must act in a manner consistent with the appeals panel's decisions or instructions.
 
 (2) The agency must recognize the right of the institution or program to employ counsel to represent the institution or program during its appeal, including to make any presentation that the agency permits the institution or program to make on its own during the appeal.
 
@@ -40,4 +38,4 @@ The agency must demonstrate that the procedures it uses throughout the accrediti
 
 (2) An institution or program may seek the review of new financial information described in paragraph (h)(1) of this section only once and any determination by the agency made with respect to that review does not provide a basis for an appeal.
 
-(Authority: 20 U.S.C. 1099b)[74 FR 55429, Oct. 27, 2009]
+(Authority: 20 U.S.C. 1099b)[74 FR 55429, Oct. 27, 2009, as amended at 84 FR 58925, Nov. 1, 2019]

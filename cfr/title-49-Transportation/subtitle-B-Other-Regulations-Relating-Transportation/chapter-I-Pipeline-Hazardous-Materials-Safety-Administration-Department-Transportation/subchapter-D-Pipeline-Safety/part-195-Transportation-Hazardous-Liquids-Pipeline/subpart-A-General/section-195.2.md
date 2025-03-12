@@ -1,7 +1,5 @@
 ##### § 195.2 Definitions. #####
 
-Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
-
 As used in this part -
 
 *Abandoned* means permanently removed from service.
@@ -38,7 +36,7 @@ As used in this part -
 
 *Hazard to navigation* means, for the purposes of this part, a pipeline where the top of the pipe is less than 12 inches (305 millimeters) below the underwater natural bottom (as determined by recognized and generally accepted practices) in waters less than 15 feet (4.6 meters) deep, as measured from the mean low water.
 
-*Hazardous liquid* means petroleum, petroleum products, anhydrous ammonia, or ethanol.
+*Hazardous liquid* means petroleum, petroleum products, anhydrous ammonia, and ethanol or other non-petroleum fuel, including biofuel, which is flammable, toxic, or would be harmful to the environment if released in significant quantities.
 
 *Highly volatile liquid* or *HVL* means a hazardous liquid which will form a vapor cloud when released to the atmosphere and which has a vapor pressure exceeding 276 kPa (40 psia) at 37.8 °C (100 °F).
 

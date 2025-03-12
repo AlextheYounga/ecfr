@@ -1,20 +1,18 @@
 ##### § 457.117 Forage production crop insurance provisions. #####
 
-Link to an amendment published at 85 FR 23899, Apr. 30, 2020.
-
-The Forage Production Crop Insurance Provisions for the 2001 and succeeding crop years are as follows:
+The Forage Production Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
 
 Both FCIC and Reinsured Policies
 
-Forage Production Crop Insurance Provisions
+Forage Production Crop Insurance Provisions1. Definitions
 
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
+*Adequate stand.* The number shown in the Special Provisions, representing:
 
-1. Definitions
+(a) For forage containing 60 percent or more alfalfa, the minimum required number of live alfalfa stems per square foot that are two inches or greater in height; or
 
-*Adequate stand.* A population of live forage plants that equals or exceeds the minimum required number of plants per square foot as shown in the Special Provisions.
+(b) For forage containing less than 60 percent alfalfa, the normal planting density.
 
 *Air-dry forage.* Forage that has dried in windrows by natural means to less than 13 percent moisture before being put into stacks or bales.
 
@@ -24,25 +22,27 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 *Direct marketing.* Sale of the forage crop directly to consumers without the intervention of an intermediary such as a wholesaler, shipper, buyer, or broker. An example of direct marketing is selling directly to other producers.
 
-*Fall planted.* A forage crop seeded after June 30.
+*Fall planted.* A forage crop seeded after June 30, except when specified in the Special Provisions.
 
 *Forage.* Planted perennial alfalfa, perennial red clover, perennial grasses, or a mixture thereof, or other species as shown in the Actuarial Documents.
 
 *Harvest.* Removal of forage from the windrow or field. Grazing will not be considered harvested.
 
-*Spring planted.* A forage crop seeded before July 1.
+*Normal planting density.* The minimum number of live plants per square foot as shown in the Special Provisions.
+
+*Spring planted.* A forage crop seeded before July 1, except when specified in the Special Provisions.
 
 *Ton.* Two thousand (2,000) pounds avoirdupois.
 
 *Windrow.* Forage that is cut and placed in a row.
 
-*Year of establishment.* The period between seeding and when the forage crop has developed an adequate stand. Insurance during the year of establishment may be available under the forage seeding policy. Insurance under this policy does not attach until after the year of establishment. The year of establishment is determined by the date of seeding. The year of establishment for spring planted forage is designated by the calendar year in which seeding occurred. The year of establishment for fall planted forage is designated by the calendar year after the year in which the crop was planted.
+*Year of establishment.* The period between seeding and when the forage crop has developed an adequate stand. The year of establishment is determined by the date of seeding. The year of establishment for spring planted forage is designated by the calendar year in which seeding occurred. The year of establishment for fall planted forage is designated by the calendar year after the year in which the crop was planted. Insurance under this policy does not attach until after the year of establishment. Insurance during the year of establishment may be available under the forage seeding policy.
 
-2. Insurance Guarantees, Coverage Levels, and Prices for Determining overage Levels, and Prices for Determining Indemnities
+2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
-In addition to the requirements of section 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) You may only select one price election for all the forage in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each forage type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for a specific type, you must also choose 100 percent of the maximum price election for all other types.
+(a) You may only select one price election for all the forage in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each forage type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for a specific type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) You must report the total production harvested from insurable acreage for all cuttings for each unit by the production reporting date.
 
@@ -50,16 +50,16 @@ In addition to the requirements of section 3 (Insurance Guarantees, Coverage Lev
 
 3. Contract Changes
 
-In accordance with section 4 (Contract Changes) of the Basic Provisions (§ 457.8), the contract change date is June 30 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions, the contract change date is June 30 preceding the cancellation date.
 
 4. Cancellation and Termination Dates
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|           State           |Cancellation/termination date|
-|---------------------------|-----------------------------|
-|California, Nevada and Utah|         October 31;         |
-|     All other states      |        September 30.        |
+|        State         |Cancellation/  <br/>termination date|
+|----------------------|------------------------------------|
+|Arizona and California|            October 31.             |
+|   All other states   |           September 30.            |
 
 5. Report of Acreage
 
@@ -69,11 +69,13 @@ In lieu of the provisions of section 6(a) of the Basic Provisions, a report of a
 
 (a) In accordance with section 8 of the Basic Provisions, the crop insured will be all the forage in the county for which a premium rate is provided by the actuarial documents:
 
-(1) In which you have a share; and
+(1) In which you have a share;
 
-(2) That is grown during one or more years after the year of establishment.
+(2) That is not grown with the intent to be grazed, or grazed at any time during the insurance period; and
 
-(b) In addition to the crop listed as not insured in section 8 (Insured Crop) of the Basic Provisions (§ 457.8), we will not insure any forage that:
+(3) That follows a year of establishment that results in an adequate stand as shown in the Special Provisions.
+
+(b) In addition to the crops listed as not insured in section 8 of the Basic Provisions, we will not insure any forage that:
 
 (1) Does not have an adequate stand at the beginning of the insurance period;
 
@@ -83,29 +85,11 @@ In lieu of the provisions of section 6(a) of the Basic Provisions, a report of a
 
 7. Insurance Period
 
-In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+In lieu of the provisions of section 11 of the Basic Provisions:
 
-(a) Insurance attaches on acreage with an adequate stand on the following dates:
+(a) Insurance attaches on acreage with an adequate stand on the applicable date shown in the actuarial documents; and
 
-(1) For the calendar year following the year of seeding for:
-
-(i) Spring planted forage in Lassen, Modoc, Mono, Shasta and Siskiyou Counties California, Colorado, Idaho, Nebraska, Nevada, Oregon, Utah and Washington - April 15;
-
-(ii) Spring planted forage in Iowa, Minnesota, Montana, New Hampshire, New York, North Dakota, Pennsylvania, Wisconsin, Wyoming and all other states - May 22;
-
-(iii) Fall planted forage in Lassen, Modoc, Mono, Shasta and Siskiyou Counties California, and all other states - October 16;
-
-(iv) Fall planted forage in all California counties except Lassen, Modoc, Mono, Shasta, and Siskiyou - December 1.
-
-(2) For the calendar year of seeding for spring planted acreage in all California counties except Lassen, Modoc, Mono, Shasta and Siskiyou - December 1.
-
-(3) For calendar years subsequent to the calendar year following the year of seeding for:
-
-(i) Lassen, Modoc, Mono, Shasta and Siskiyou California counties, and all other states - October 16;
-
-(ii) All California counties except Lassen, Modoc, Mono, Shasta and Siskiyou - December 1.
-
-(b) Insurance ends at the earliest of:
+(b) Forage production insurance ends at the earliest of:
 
 (1) Total destruction of the forage crop;
 
@@ -117,17 +101,11 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 (5) Abandonment of the forage crop; or
 
-(6) The following dates of the crop year:
-
-(i) For Lassen, Modoc, Mono, Shasta, and Siskiyou Counties California and all other states - October 15;
-
-(ii) For all California counties except Lassen, Modoc, Mono, Shasta and Siskiyou - November 30.
-
-(c) In order to obtain year-round coverage for a calendar year, you must purchase the Forage Production Winter Coverage Endorsement (§ 457.127).
+(6) The end of the insurance period date shown in the actuarial documents.
 
 8. Causes of Loss
 
-(a) In accordance with the provisions of section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -145,13 +123,13 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 (8) Failure of the irrigation water supply, if caused by an insured peril that occurs during the insurance period.
 
-(b) In addition to the causes of loss specifically excluded in section 12 of the Basic Provisions, we will not insure against damage of loss of production that occurs after removal from the windrow.
+(b) In addition to the causes of loss specifically excluded in section 12 of the Basic Provisions, we will not insure against damage of loss of production that occurs after harvest.
 
 9. Duties in the Event of Damage or Loss
 
 In addition to the requirements of section 14 of the Basic Provisions, the following will apply:
 
-(a) You must notify us within 3 days of the date harvest should have started if the insured crop will not be harvested;
+(a) You must notify us within 3 days of the date cutting should have started if the insured crop will not be harvested;
 
 (b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing unless you have records verifying that the forage was direct marketed. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal;
 
@@ -171,24 +149,23 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (1) Multiplying the insured acreage for each type, by its respective production guarantee;
 
-(2) Multiplying each result in section 11(b)(1) by the respective
-price election you selected;
+(2) Multiplying each result in section 10(b)(1) by the respective price election you selected;
 
-(3) Totaling the results of each crop type in section 11(b)(2);
+(3) Totaling the results of each crop type in section 10(b)(2);
 
-(4) Multiplying the total production to be counted of each type, if applicable, (see section 11(c)) by the respective price election you selected;
+(4) Multiplying the total production to be counted of each type, if applicable, (see section 10(c)) by the respective price election you selected;
 
-(5) Totaling the results of each crop type in section 11(b)(4);
+(5) Totaling the results of each crop type in section 10(b)(4);
 
-(6) Subtracting the result in section 11(b)(5) from the result in section 11(b)(3); and
+(6) Subtracting the result in section 10(b)(5) from the result in section 10(b)(3); and
 
-(7) Multiplying the result in section 11(b)(6) by your share.
+(7) Multiplying the result in section 10(b)(6) by your share.
 
 Example 1
 
-Assume you have a 100 percent share in 100 acres of type A forage in the unit, with a guarantee of 3.0 tons per acre and a price election of $65.00 per ton. Due to adverse weather you were only able to harvest 50.0 tons. Your indemnity would be calculated as follows:
+Assume you have a 100 percent share in 100 acres of type A forage in the unit, with a guarantee of 3.0 tons per acre and a price election of $65 per ton. Due to adverse weather you were only able to harvest 50.0 tons. Your indemnity would be calculated as follows:
 
-1. 100 acres type A × 3 tons = 300 ton guarantee;
+1. 100 acres type A × 3 tons = 300-ton guarantee;
 
 2 & 3. 300 tons × $65 price election = $19,500 total value guarantee;
 
@@ -200,10 +177,11 @@ Assume you have a 100 percent share in 100 acres of type A forage in the unit, w
 
 Example 2
 
-Assume you also have a 100 percent share in 100 acres of type B forage in the same unit, with a guarantee of 1.0 ton per acre and a price election of $50.00 per ton. Due to adverse weather you were only able to harvest 5.0 tons. Your total indemnity for forage production for both types A and B in the same unit would be calculated as follows:
+Assume you also have a 100 percent share in 100 acres of type B forage in the same unit, with a guarantee of 1.0 ton per acre and a price election of $50 per ton. Due to adverse weather you were only able to harvest 5.0 tons. Your total indemnity for forage production for both types A and B in the same unit would be calculated as follows:
 
-1. 100 acres × 3 tons = 300 ton guarantee for type A; and 100 acres × 1 ton = 100 ton guarantee for type B;
-election = $5,000 total value of the guarantee for type B;
+1. 100 acres × 3 tons = 300-ton guarantee for type A and 100 acres × 1 ton = 100-ton guarantee for type B;
+
+2. 300-ton guarantee × $65 price election = $19,500 total value of the guarantee for type A and 100-ton guarantee × $50 price election = $5,000 total value of the guarantee for type B;
 
 3. $19,500 + $5,000 = $24,500 total value of the guarantee;
 
@@ -245,10 +223,10 @@ election = $5,000 total value of the guarantee for type B;
 
 (e) Any harvested production from plants growing in the forage will be counted as forage on a weight basis.
 
-(f) In addition to the provisions of section 15 (Production Included in Determining Indemnities) of the Basic Provisions (§ 457.8), we may determine the amount of production of any unharvested forage on the basis of our field appraisals conducted after the normal time for each cutting for the area.
+(f) In addition to the provisions of section 15 of the Basic Provisions, we may determine the amount of production of any unharvested forage on the basis of our field appraisals conducted after the normal time for each cutting for the area.
 
 11. Late and Prevented Planting
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 14285, Mar. 26, 1997, as amended at 62 FR 65169, Dec. 10, 1997; 65 FR 3783, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000]
+[62 FR 14285, Mar. 26, 1997, as amended at 62 FR 65169, Dec. 10, 1997; 65 FR 3783, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000; 85 FR 23899, Apr. 30, 2020]
