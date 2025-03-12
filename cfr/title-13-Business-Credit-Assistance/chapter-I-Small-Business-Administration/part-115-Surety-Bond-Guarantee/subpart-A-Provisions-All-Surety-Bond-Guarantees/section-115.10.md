@@ -1,5 +1,7 @@
 ##### § 115.10 Definitions. #####
 
+Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
+
 *Affiliate* is defined in § 121.301(f) of this chapter.
 
 *Ancillary Bond* means a bond incidental and essential to the performance of a Contract for which there is a guaranteed Final Bond.

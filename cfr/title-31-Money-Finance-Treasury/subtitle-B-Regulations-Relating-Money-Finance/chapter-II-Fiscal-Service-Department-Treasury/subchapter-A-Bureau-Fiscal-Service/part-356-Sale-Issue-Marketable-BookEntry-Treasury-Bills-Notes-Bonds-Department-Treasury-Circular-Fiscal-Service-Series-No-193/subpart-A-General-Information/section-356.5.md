@@ -1,8 +1,6 @@
 ##### § 356.5 What types of securities does the Treasury auction? #####
 
-Link to an amendment published at 87 FR 40439, July 7, 2022.
-
-We offer securities under this part exclusively in book-entry form and as direct obligations of the United States issued under Chapter 31 of Title 31 of the United States Code. The securities are subject to the terms and conditions in this part, the regulations in 31 CFR part 363 (for securities held in TreasuryDirect), the regulations in 31 CFR part 357 (for securities held in the commercial book-entry system and Legacy Treasury Direct), and the auction announcements. When we issue additional securities with the same CUSIP number as outstanding securities, we consider them to be the same securities as the outstanding securities.
+We offer securities under this part exclusively in book-entry form and as direct obligations of the United States issued under Chapter 31 of Title 31 of the United States Code. When we issue additional securities with the same CUSIP number as outstanding securities, we consider them to be the same securities as the outstanding securities.
 
 (a) *Treasury bills.* (1) Are issued at a discount or at par, depending upon the auction results;
 
@@ -10,9 +8,9 @@ We offer securities under this part exclusively in book-entry form and as direct
 
 (3) Have maturities of not more than one year.
 
-(b) *Treasury notes* - (1) Treasury non-indexed1 notes.
+(b) *Treasury notes*—(1) Treasury non-indexed1 notes.
 
-1 We use the term “non-indexed” in this part to distinguish such notes and bonds from “inflation-protected securities” and “floating rate notes.” We refer to non-indexed notes and non-indexed bonds as “notes” and “bonds” in official Treasury publications, such as auction announcements and auction results press releases, as well as in auction systems.
+1 We use the term “non-indexed” in this part to distinguish such notes and bonds from “inflation-protected securities” and “floating rate notes.” We refer to non-indexed notes and non-indexed bonds as “notes” and “bonds” in official Treasury publications, such as auction announcements and auction results, as well as in auction systems.,
 
 (i) Are issued with a stated rate of interest to be applied to the par amount;
 
@@ -34,6 +32,8 @@ We offer securities under this part exclusively in book-entry form and as direct
 
 (v) Have maturities of at least one year, but not more than ten years.
 
+(vi) Are only reopened as scheduled or announced.
+
 (3) *Treasury floating rate notes.* (i) Are issued with a stated spread to be added to the index rate for daily interest accrual throughout each interest payment period;
 
 (ii) Have a zero-percent minimum daily interest accrual rate;
@@ -46,7 +46,7 @@ We offer securities under this part exclusively in book-entry form and as direct
 
 (vi) Have maturities of at least one year, but not more than ten years.
 
-(c) *Treasury bonds* - (1) Treasury non-indexed bonds. (i) Are issued with a stated rate of interest to be applied to the par amount;
+(c) *Treasury bonds*—(1) Treasury non-indexed bonds. (i) Are issued with a stated rate of interest to be applied to the par amount;
 
 (ii) Have interest payable semiannually;
 
@@ -66,4 +66,6 @@ We offer securities under this part exclusively in book-entry form and as direct
 
 (v) Have maturities of more than ten years. (See appendix B for price and interest payment calculations and appendix C for Investment Considerations.)
 
-[69 FR 45202, July 28, 2004, as amended at 70 FR 57439, Sept. 30, 2005; 74 FR 26086, June 1, 2009; 78 FR 46428, 46429, July 31, 2013]
+(vi) Are only reopened as scheduled or announced.
+
+[69 FR 45202, July 28, 2004, as amended at 70 FR 57439, Sept. 30, 2005; 74 FR 26086, June 1, 2009; 78 FR 46428, 46429, July 31, 2013; 87 FR 40439, July 7, 2022]

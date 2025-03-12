@@ -1,5 +1,7 @@
 ##### § 115.33 Surety bonding line. #####
 
+Link to an amendment published at 87 FR 48084, Aug. 8, 2022.
+
 A surety bonding line is a written commitment by SBA to a Prior Approval Surety which provides for the Surety's Execution of multiple bonds for a specified small business strictly within pre-approved terms, conditions and limitations. In applying for a bonding line, the Surety must provide SBA with information on the applicant as requested. In addition to the other limitations and provisions set forth in this part 115, the following conditions apply to each surety bonding line:
 
 (a) *Underwriting.* A bonding line may be issued by SBA for a Principal only if the underwriting evaluation is satisfactory. The Prior Approval Surety must require the Principal to keep it informed of all its contracts, whether bonded by the same or another surety or unbonded, during the term of the bonding line.

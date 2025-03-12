@@ -1,7 +1,5 @@
 ##### § 356.2 What definitions do I need to know to understand this part? #####
 
-Link to an amendment published at 87 FR 40439, July 7, 2022.
-
 *13-week bill* means a Treasury bill where the security description is “13-Week Bill” as referenced on the Treasury auction announcement.
 
 *Accrued interest* means an amount that bidders must pay to us for interest income as part of the settlement amount. Accrued interest compensates us up front for interest that bidders will be paid but did not earn because it is attributable to a period of time prior to the issue date. (See appendix B, section I, paragraph D of this part for additional explanation and examples.)
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 
 *Bidder Identification Number* means a number we assign to each institutional submitter and to certain other bidders. We assign such numbers either to identify certain bidders or to grant separate bidder status to different parts of the same corporate or partnership structure.
 
-*Book-entry security* means a security that is issued or maintained as an accounting entry or electronic record in either the commercial book-entry system or in one of Treasury's two direct-hold systems - TreasuryDirect® or Legacy Treasury Direct®. (See § 356.4.)
+*Book-entry security* means a security that is issued or maintained as an accounting entry or electronic record. (*See* § 356.4.)
 
 *Business day* means any day on which the Federal Reserve Banks are open for business.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 
 *Index* means the Consumer Price Index for inflation-protected securities. For floating rate notes, the index is the highest accepted discount rate on 13-week bills determined by Treasury auctions of those securities.
 
-*Index rate* means the simple-interest money market yield, computed on an actual/360 basis and rounded to nine decimal places, from the highest accepted discount rate of a 13-week bill auction as announced in the Treasury auction results press release. (See appendix B for methods and examples for computing the index rate.)
+*Index rate* means the simple-interest money market yield, computed on an actual/360 basis and rounded to nine decimal places, from the highest accepted discount rate of a 13-week bill auction as announced in the Treasury auction results. (*See* appendix B for methods and examples for computing the index rate.)
 
 *Index ratio* means, for an inflation-protected security, the Reference CPI of a particular date divided by the Reference CPI of the original issue date. (When the dated date is different from the original issue date, the denominator of the index ratio is the Reference CPI of the dated date rather than that of the original issue date.)
 
@@ -83,8 +81,6 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 *Intermediary* means a depository institution or dealer that forwards bids for customers to another depository institution or dealer. An intermediary does not submit bids directly to us.
 
 *Issue date* means the date specified in the auction announcement on which we issue a security as an obligation of the United States. Interest normally begins to accrue on a security's issue date.
-
-*Legacy Treasury Direct* means a non-Internet-based book-entry system maintained by Treasury for purchasing and holding marketable Treasury securities directly with Treasury. (See 31 CFR part 357.)
 
 *Marketable security* means a security that may be bought, sold and transferred in the secondary market.
 
@@ -118,7 +114,7 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 
 *Reopening* means the auction of an additional amount of an outstanding security.
 
-*Security* means a Treasury bill, note, or bond, each as described in this part. Security also means any other obligation we issue that is subject to this part according to its auction announcement. Security includes an interest or principal component under the STRIPS program, as well as a certificate of indebtedness in an investor's TreasuryDirect account.
+*Security* means a Treasury bill, note, or bond, each as described in this part. Security also means any other obligation we issue that is subject to this part according to its auction announcement. Security includes an interest or principal component under the STRIPS program, as well as a certificate of indebtedness.
 
 *Settlement* means final and complete payment for securities awarded in an auction and delivery of those securities.
 
@@ -144,4 +140,4 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 
 *You* means a prospective bidder in an auction.
 
-[69 FR 45202, July 28, 2004, as amended at 70 FR 57439, Sept. 30, 2005; 73 FR 14938, Mar. 20, 2008; 76 FR 18063, Apr. 1, 2011; 78 FR 46428, July 31, 2013; 81 FR 43070, July 1, 2016]
+[69 FR 45202, July 28, 2004, as amended at 70 FR 57439, Sept. 30, 2005; 73 FR 14938, Mar. 20, 2008; 76 FR 18063, Apr. 1, 2011; 78 FR 46428, July 31, 2013; 81 FR 43070, July 1, 2016; 87 FR 40439, July 7, 2022]

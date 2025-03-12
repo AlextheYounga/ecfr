@@ -1,5 +1,7 @@
 ##### § 115.30 Submission of Surety's guarantee application. #####
 
+Link to an amendment published at 87 FR 48084, Aug. 8, 2022.
+
 (a) *Legal effect of application.* By submitting an application to SBA for a bond guarantee, the Prior Approval Surety certifies that the Principal meets the eligibility requirements set forth in § 115.13 and that the underwriting standards set forth in § 115.15 have been met.
 
 (b) *SBA's determination.* SBA's approval or decline of a guarantee application is made in writing by an authorized SBA officer. The officer may provide telephone notice before the Prior Approval Surety receives SBA's guarantee approval form if the officer has already signed the form. In the event of a conflict between the telephone notice and the written form, the written form controls.

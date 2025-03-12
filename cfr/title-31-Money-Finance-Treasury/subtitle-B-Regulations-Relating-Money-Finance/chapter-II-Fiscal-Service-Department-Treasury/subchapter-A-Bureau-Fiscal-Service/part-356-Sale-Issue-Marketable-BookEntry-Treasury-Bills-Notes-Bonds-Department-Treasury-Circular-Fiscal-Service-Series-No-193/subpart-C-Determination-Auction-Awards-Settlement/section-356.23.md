@@ -1,10 +1,8 @@
 ##### § 356.23 How are the auction results announced? #####
 
-Link to an amendment published at 87 FR 40440, July 7, 2022.
+(a) After the conclusion of the auction, we will make the auction results available on our website at *http://www.treasurydirect.gov.*
 
-(a) After the conclusion of the auction, we will announce the auction results through a press release that is available on our Web site at *http://www.treasurydirect.gov.*
-
-(b) The press release will include such information as:
+(b) The auction results will include such information as:
 
 (1) The amounts of bids we accepted and the amount of securities we awarded;
 
@@ -22,4 +20,4 @@ Link to an amendment published at 87 FR 40440, July 7, 2022.
 
 (8) Other information that we may decide to include.
 
-[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46430, July 31, 2013]
+[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46430, July 31, 2013; 87 FR 40440, July 7, 2022]

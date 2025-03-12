@@ -1,5 +1,7 @@
 ##### § 115.12 General program policies and provisions. #####
 
+Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
+
 (a) *Description of Surety Bond Guarantee Programs.* SBA guarantees Sureties participating in the Surety Bond Guarantee Programs against a portion of their Losses incurred and paid as a result of a Principal's breach of the terms of a Bid Bond, Final Bond or Ancillary Bond, on any eligible Contract. In the Prior Approval Program, the Surety must obtain SBA's approval before a guaranteed bond can be issued. In the PSB Program, selected Sureties may issue, monitor, and service SBA guaranteed bonds without further SBA approval.
 
 (b) *Eligibility of bonds.* Bid Bonds and Final Bonds are eligible for an SBA guarantee if they are executed in connection with an eligible Contract, as defined in § 115.10, Definitions. Commercial and Fidelity bonds are not eligible for SBA guarantees. Ancillary Bonds may also be eligible for SBA's guarantee. A performance bond must not prohibit a Surety from performing the Contract upon default of the Principal.

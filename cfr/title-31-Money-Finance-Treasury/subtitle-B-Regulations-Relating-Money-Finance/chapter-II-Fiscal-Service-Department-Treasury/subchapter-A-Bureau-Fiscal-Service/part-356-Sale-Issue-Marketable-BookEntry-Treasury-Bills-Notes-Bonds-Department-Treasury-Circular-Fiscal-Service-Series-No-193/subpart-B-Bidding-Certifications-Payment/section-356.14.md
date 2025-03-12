@@ -1,8 +1,6 @@
 ##### § 356.14 What are the requirements for submitting bids for customers? #####
 
-Link to an amendment published at 87 FR 40439, July 7, 2022.
-
-(a) *Institutions that may submit bids for customers.* Only depository institutions or dealers may submit bids for customers (see definitions at § 356.2), or for customers of intermediaries, under the requirements set out in this section.
+(a) *Institutions that may submit bids for customers.* Only depository institutions or dealers may submit bids for customers (*see* definitions at § 356.2), or for customers of intermediaries, under the requirements set out in this section. If a bid fulfills a guarantee to sell to a customer a specified amount of securities at the price determined in the auction, then the bid is a bid of that customer.
 
 (b) *Payment.* Submitters must remit payment for bids they submit on behalf of customers, including customers of intermediaries, that result in awards of securities in the auction.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 87 FR 40439, July 7, 2022.
 
 (e) *Noncompetitive customer bids.* For each noncompetitive bid, the submitter must provide the customer's name and the amount bid. Submitters may either provide the customer's name with the bid or, if the list of customers is lengthy, the submitter may provide a summary bid amount covering all noncompetitive customers. If it provides a summary bid amount, the submitter must transmit the list of individual customers and their bid amounts by close of business on the auction day. However, the submitter must be able to provide the customer list details by the noncompetitive bidding deadline if requested.
 
-[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46429, July 31, 2013]
+[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46429, July 31, 2013; 87 FR 40439, July 7, 2022]
