@@ -1,4 +1,4 @@
-##### § 4.100 4.100 Application of the general rating formula for diseases of the heart. #####
+##### § 4.100 Application of the general rating formula for diseases of the heart. #####
 
 (a) Whether or not cardiac hypertrophy or dilatation (documented by electrocardiogram, echocardiogram, or X-ray) is present and whether or not there is a need for continuous medication must be ascertained in all cases.
 

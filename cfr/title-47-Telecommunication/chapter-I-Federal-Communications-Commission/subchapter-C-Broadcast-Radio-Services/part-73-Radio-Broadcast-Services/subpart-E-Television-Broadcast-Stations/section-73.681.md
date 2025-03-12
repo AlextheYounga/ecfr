@@ -1,5 +1,7 @@
 ##### § 73.681 Definitions. #####
 
+Link to an amendment published at 86 FR 66209, Nov. 22, 2021.
+
 *Amplitude modulation* (*AM*). A system of modulation in which the envelope of the transmitted wave contains a component similar to the wave form of the signal to be transmitted.
 
 *Antenna electrical beam tilt.* The shaping of the radiation pattern in the vertical plane of a transmitting antenna by electrical means so that maximum radiation occurs at an angle below the horizontal plane.

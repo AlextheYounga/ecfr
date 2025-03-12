@@ -1,5 +1,7 @@
 ##### § 73.623 DTV applications and changes to DTV allotments. #####
 
+Link to an amendment published at 86 FR 66209, Nov. 22, 2021.
+
 (a) *General.* This section contains the technical criteria for evaluating applications requesting DTV facilities that do not conform to the provisions of § 73.622 and petitions for rule making to amend the pre-transition DTV Table of Allotments (§ 73.622(b)). Petitions to amend the DTV Table (other than those also expressly requesting amendment of this section) and applications for new DTV broadcast stations or for changes in authorized DTV stations filed pursuant to this section will not be accepted for filing if they fail to comply with the requirements of this section. Petitions for rule making and applications seeking facilities that will operate after the end of the DTV transition must also comply with § 73.616.
 
 (b) In considering petitions to amend the DTV Table and applications filed pursuant to this section, the Commission will use geographic coordinates defined in § 73.622(d) as reference points in determining allotment separations and evaluating interference potential.

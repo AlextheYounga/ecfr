@@ -1,5 +1,7 @@
 ##### § 74.787 Digital licensing. #####
 
+Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
+
 (a) *Applications for digital low power television and television translator stations* - (1) *Applications for digital conversion.* Applications for *digital conversion channels* may be filed at any time. Such applications shall be filed on FCC Form 346 and will be treated as a minor change application. There will be no application fee.
 
 (2) *Applications for companion digital channel.* (i) A public notice will specify a time period or “window” for filing applications for companion digital channels. During this window, only existing low power television or television translator stations or licensees and permittees of Class A TV stations may submit applications for companion digital channels. Applications submitted prior to the initial window identified in the public notice will be returned as premature. At a subsequent time, a public notice will announcement the commencement of a filing procedure in which applications will accepted on a first-come, first-served basis not restricted to existing station licensees and permittees;

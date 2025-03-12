@@ -1,8 +1,6 @@
 ##### § 363.1 Scope and definitions. #####
 
-(a) *Applicability.* (1) This part applies to any insured depository institution with respect to any fiscal year in which its consolidated total assets as of the beginning of such fiscal year are $500 million or more. Notwithstanding the foregoing and for all requirements in this part, with respect to any fiscal year ending in 2021, an insured depository institution's consolidated total assets shall be determined based on the lesser of (a) an insured depository institution's consolidated total assets as of December 31, 2019, or (b) an insured depository institution's consolidated total assets as of the beginning of its fiscal year ending in 2021. The requirements specified in this part are in addition to any other statutory and regulatory requirements otherwise applicable to an insured depository institution.
-
-(2) Until December 31, 2021, the FDIC reserves the authority to require an insured depository institution to comply with one or more requirements under this part if the FDIC determines that asset growth was related to a merger or acquisition.
+(a) *Applicability.* This part applies to any insured depository institution with respect to any fiscal year in which its consolidated total assets as of the beginning of such fiscal year are $500 million or more. The requirements specified in this part are in addition to any other statutory and regulatory requirements otherwise applicable to an insured depository institution.
 
 (b) *Compliance by subsidiaries of holding companies.* (1) For an insured depository institution that is a subsidiary of a holding company, the audited financial statements requirement of § 363.2(a) may be satisfied:
 
@@ -38,4 +36,8 @@
 
 (6) *SOX* means the Sarbanes-Oxley Act of 2002.
 
-[74 FR 35745, July 20, 2009, as amended at 85 FR 67433, Oct. 23, 2020]Effective Date Note:At 85 FR 67433, Oct. 23, 2020, § 363.1 was amended by revising paragraph (a), effective Oct. 23, 2020 through Dec. 31, 2021.
+(e) *Temporary relief.* (1) Notwithstanding paragraph (a) of this section and for all requirements in this part, with respect to any fiscal year ending in 2021, an insured depository institution's consolidated total assets shall be determined based on the lesser of an insured depository institution's consolidated total assets as of December 31, 2019, or an insured depository institution's consolidated total assets as of the beginning of its fiscal year ending in 2021.
+
+(2) Until December 31, 2021, the FDIC reserves the authority to require an insured depository institution to comply with one or more requirements under this part if the FDIC determines that asset growth was related to a merger or acquisition.
+
+[74 FR 35745, July 20, 2009, as amended at 85 FR 67433, Oct. 23, 2020; 86 FR 66155, Nov. 22, 2021]Effective Date Note:At 86 FR 66155, Nov. 22, 2021, § 363.1 was amended by adding paragraph (e), effective Nov. 22, 2021 through Dec. 31, 2021.

@@ -1,5 +1,7 @@
 ##### § 74.702 Channel assignments. #####
 
+Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
+
 (a) An applicant for a new low power TV or TV translator station or for changes in the facilities of an authorized station shall endeavor to select a channel on which its operation is not likely to cause interference. The applications must be specific with regard to the channel requested. Only one channel will be assigned to each station.
 
 (1) Any one of the 12 standard VHF Channels (2 to 13 inclusive) may be assigned to a VHF low power TV or TV translator station. Channels 5 and 6 assigned in Alaska shall not cause harmful interference to and must accept interference from non-Government fixed operation authorized prior to January 1, 1982.

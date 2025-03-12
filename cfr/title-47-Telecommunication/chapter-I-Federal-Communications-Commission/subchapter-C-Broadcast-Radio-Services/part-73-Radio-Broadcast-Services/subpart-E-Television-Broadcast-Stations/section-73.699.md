@@ -1,5 +1,7 @@
 ##### § 73.699 TV engineering charts. #####
 
+Link to an amendment published at 86 FR 66210, Nov. 22, 2021.
+
 This section consists of the following Figures: 1-5, 5a, 6-10, 10a-10e, 11-12, 13-16.
 
 Note:

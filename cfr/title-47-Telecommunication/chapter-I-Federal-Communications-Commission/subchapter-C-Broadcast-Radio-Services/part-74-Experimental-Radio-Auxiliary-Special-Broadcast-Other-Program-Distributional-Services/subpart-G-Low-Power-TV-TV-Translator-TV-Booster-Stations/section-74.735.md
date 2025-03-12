@@ -1,5 +1,7 @@
 ##### § 74.735 Power limitations. #####
 
+Link to an amendment published at 86 FR 66214, Nov. 22, 2021.
+
 (a) The maximum peak effective radiated power (ERP) of an analog low power TV, TV translator, or TV booster station shall not exceed:
 
 (1) 3 kW for VHF channels 2-13; and

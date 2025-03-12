@@ -1,5 +1,7 @@
 ##### § 1.420 Additional procedures in proceedings for amendment of the FM or TV Tables of Allotments, or for amendment of certain FM assignments. #####
 
+Link to an amendment published at 86 FR 66194, Nov. 22, 2021.
+
 (a) Comments filed in proceedings for amendment of the FM Table of Allotments (§ 73.202 of this chapter) or the Television Table of Allotments (§ 73.606 of this chapter) which are initiated on a petition for rule making shall be served on petitioner by the person who files the comments.
 
 (b) Reply comments filed in proceedings for amendment of the FM or Television Tables of Allotments shall be served on the person(s) who filed the comments to which the reply is directed.

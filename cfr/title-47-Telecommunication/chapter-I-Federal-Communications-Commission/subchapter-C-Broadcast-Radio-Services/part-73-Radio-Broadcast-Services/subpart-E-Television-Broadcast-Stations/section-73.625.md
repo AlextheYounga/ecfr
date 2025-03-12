@@ -1,5 +1,7 @@
 ##### § 73.625 DTV coverage of principal community and antenna system. #####
 
+Link to an amendment published at 86 FR 66209, Nov. 22, 2021.
+
 (a) *Transmitter location.* (1) The DTV transmitter location shall be chosen so that, on the basis of the effective radiated power and antenna height above average terrain employed, the following minimum F(50,90) field strength in dB above one uV/m will be provided over the entire principal community to be served:
 
 | Channels 2-6 |35 dBu|

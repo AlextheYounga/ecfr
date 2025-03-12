@@ -1,5 +1,7 @@
 ##### § 73.603 Numerical designation of television channels. #####
 
+Link to an amendment published at 86 FR 66195, Nov. 22, 2021.
+
 (a)
 
 |Channel No.|Frequency band (MHz)|

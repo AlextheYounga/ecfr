@@ -1,6 +1,6 @@
 ##### § 73.6010 Class A TV station protected contour. #####
 
-Link to an amendment published at 86 FR 21227, Apr. 22, 2021.
+Link to an amendment published at 86 FR 21227, Apr. 22, 2021.Link to an amendment published at 86 FR 66213, Nov. 22, 2021.
 
 (a) A Class A TV station will be protected from interference within the following predicted signal contours:
 
