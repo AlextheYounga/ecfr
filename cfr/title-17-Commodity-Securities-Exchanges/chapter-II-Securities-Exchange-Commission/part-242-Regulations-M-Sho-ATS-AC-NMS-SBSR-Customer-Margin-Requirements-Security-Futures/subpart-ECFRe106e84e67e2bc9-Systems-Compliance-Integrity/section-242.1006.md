@@ -1,0 +1,5 @@
+##### § 242.1006 Electronic filing and submission. #####
+
+(a) Except with respect to notifications to the Commission made pursuant to § 242.1002(b)(1) or updates to the Commission made pursuant to paragraph § 242.1002(b)(3), any notification, review, description, analysis, or report to the Commission required to be submitted under Regulation SCI shall be filed electronically on Form SCI (§ 249.1900 of this chapter), include all information as prescribed in Form SCI and the instructions thereto, and contain an electronic signature; and
+
+(b) The signatory to an electronically filed Form SCI shall manually sign a signature page or document, in the manner prescribed by Form SCI, authenticating, acknowledging, or otherwise adopting his or her signature that appears in typed form within the electronic filing. Such document shall be executed before or at the time Form SCI is electronically filed and shall be retained by the SCI entity in accordance with § 242.1005.

@@ -1,0 +1,3 @@
+##### § 300.303 Report to trustee. #####
+
+Promptly upon the expiration of 30 calendar days after the filing date, or if by the expiration of such 30-day period notice pursuant to section 8(a) of the Act of the commencement of proceedings has not been published, then as soon as practicable after publication of such notice, a broker or dealer who had executed transactions in securities out of which arose open contractual commitments with the debtor shall furnish to the trustee such information with respect to the buy-in, sell-out or other status of open contractual commitments as called for by Forms 300-A, B and C (§§ 301.300a-301.300c of this chapter) including appropriate supporting documentation and schedules.

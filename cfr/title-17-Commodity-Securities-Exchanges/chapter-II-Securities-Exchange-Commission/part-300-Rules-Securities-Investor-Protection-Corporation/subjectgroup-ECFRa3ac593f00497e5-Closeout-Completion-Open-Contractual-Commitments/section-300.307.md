@@ -1,0 +1,3 @@
+##### § 300.307 Completion with cash or securities of customer. #####
+
+The trustee may, if authorized by the court, complete an open contractual commitment of the debtor, regardless of whether it is described in § 300.300(c) or meets the requirements of § 300.301 or has been reported to the trustee in conformity with § 300.303, to the extent that such commitment is completed with customer name securities of the customer of the debtor for whose account the commitment was made, or with cash or securities paid or delivered by or for the account of such customer to the debtor or trustee after the filing date.

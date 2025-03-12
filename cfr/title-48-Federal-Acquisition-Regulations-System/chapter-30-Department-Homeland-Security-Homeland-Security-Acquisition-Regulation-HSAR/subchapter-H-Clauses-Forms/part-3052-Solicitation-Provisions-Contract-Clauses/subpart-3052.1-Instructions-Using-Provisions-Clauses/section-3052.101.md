@@ -1,5 +1,7 @@
 ##### 3052.101 Using part 3052. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 (b) Numbering.
 
 (2)(i) Provisions or clauses that supplement the FAR.

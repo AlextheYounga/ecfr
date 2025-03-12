@@ -1,5 +1,7 @@
 ##### 3052.242-72 Contracting officer's technical representative. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in (HSAR) 48 CFR 3042.7000, insert the following clause:
 
 Contracting Officer's Technical Representative (DEC 2003)

@@ -1,0 +1,5 @@
+##### § 260.0-7 Small entities for purposes of the Regulatory Flexibility Act. #####
+
+For purposes of Commission rulemaking in accordance with the provisions of Chapter Six of the Administrative Procedure Act (5 U.S.C. 601 *et seq.*), and unless otherwise defined for purposes of a particular rulemaking proceeding, the term “small business” or “small organization,” for purposes of the Trust Indenture Act of 1939 shall mean an issuer whose total assets on the last day of its most recent fiscal year were $5 million or less that is engaged or proposing to engage in small business financing. An issuer is considered to be engaged or proposing to be engaged in small business financing under this section if it is conducting or proposing to conduct an offering of securities which does not exceed the dollar limitation prescribed by § 260.4a-2.
+
+[47 FR 5223, Feb. 4, 1982, as amended at 51 FR 25362, July 14, 1986]

@@ -1,5 +1,7 @@
 ##### 3052.212-70 Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in (HSAR) 48 CFR 3012.301, insert the following clause:
 
 Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items (SEP 2012)

@@ -7,3 +7,7 @@
 (1) You are in pay status; or
 
 (2) Your pay is sufficient to make the premium allotments.
+
+(c) If you are a FEDVIP enrollee, who due to a lapse in appropriations is furloughed or excepted from furlough and working without pay due to such a lapse, your FEDVIP coverage will not stop during such a lapse. Upon the end of such a lapse, premiums will be paid to the Carrier from back pay made available as soon as practicable upon the end of such a lapse.
+
+[73 FR 50184, Aug. 26, 2008, as amended at 86 FR 17274, Apr. 2, 2021]

@@ -1,0 +1,3 @@
+##### § 300.201 Accounts introduced by same or different broker or dealer. #####
+
+All accounts of a person which are introduced by the same broker or dealer shall be combined and protected as the single account of a separate customer, unless such accounts are maintained in different capacities as specified in §§ 300.100 through 300.105; accounts introduced by different brokers or dealers shall be protected separately.

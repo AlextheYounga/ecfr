@@ -1,5 +1,7 @@
 ##### § 106.40 Direct final rule. #####
 
+Link to an amendment published at 86 FR 17295, Apr. 2, 2021.
+
 A direct final rule makes regulatory changes and states that the regulatory changes will take effect on a specified date unless PHMSA receives an adverse comment within the comment period - generally 60 days after the direct final rule is published in the Federal Register.
 
 (a) *Actions taken by direct final rule.* We may use direct final rulemaking procedures to issue rules that do any of the following:

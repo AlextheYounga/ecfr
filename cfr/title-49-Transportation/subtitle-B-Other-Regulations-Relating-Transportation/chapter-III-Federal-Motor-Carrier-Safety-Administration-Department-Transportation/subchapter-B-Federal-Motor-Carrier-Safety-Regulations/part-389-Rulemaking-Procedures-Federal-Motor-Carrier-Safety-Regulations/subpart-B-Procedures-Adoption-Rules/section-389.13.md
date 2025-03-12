@@ -1,5 +1,7 @@
 ##### § 389.13 Initiation of rulemaking. #####
 
+Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
+
 (a) Rulemakings are initiated in accordance with the procedures found in 49 CFR 5.11. The Administrator may recommend the initiation of a rulemaking to the Office of the Secretary on his/her own motion. However, in so doing, he/she may, in his/her discretion, consider the recommendations of his/her staff or other agencies of the United States or of other interested persons.
 
 (b) If a proposed rule regarding commercial motor vehicle safety is likely to lead to the promulgation of a major rule, the Administrator, before publishing such proposed rule, shall -

@@ -1,5 +1,7 @@
 ##### § 622.182 Gear-restricted areas. #####
 
+Link to an amendment published at 86 FR 17319, Apr. 2, 2021.
+
 (a) *Special management zones (SMZs).* (1) The SMZs consist of artificial reefs and surrounding areas as follows:
 
 (i) *Paradise Reef* is bounded on the north by 33°31.59′ N. lat.; on the south by 33°30.51′ N. lat.; on the east by 78°57.55′ W. long.; and on the west by 78°58.85′ W. long.

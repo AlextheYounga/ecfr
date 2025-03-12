@@ -12,4 +12,4 @@
 
 *NHTSA* means the National Highway Traffic Safety Administration.
 
-{52 FR 33829, Sept. 8, 1987, as amended at 81 FR 66841, Sept. 29, 2016]
+[52 FR 33829, Sept. 8, 1987, as amended at 81 FR 66841, Sept. 29, 2016]

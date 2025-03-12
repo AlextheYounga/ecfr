@@ -1,5 +1,7 @@
 ##### 3052.204-71 Contractor employee access. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in (HSAR) 48 CFR 3004.470-3(b), insert a clause substantially the same as follows with appropriate alternates:
 
 Contractor Employee Access (SEP 2012)

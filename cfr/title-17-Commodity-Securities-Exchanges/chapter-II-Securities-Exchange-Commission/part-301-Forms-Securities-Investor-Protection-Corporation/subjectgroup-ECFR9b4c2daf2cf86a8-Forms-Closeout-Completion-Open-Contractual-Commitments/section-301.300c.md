@@ -1,0 +1,5 @@
+##### § 301.300c Form 300-C, for report of all fails to receive. #####
+
+This form shall be filed as required by § 300.303 of this chapter with the trustee in a proceeding under section 5 of the Act by a broker-dealer who executed transactions out of which arose open contractual commitments, as defined by § 300.300(c) of this chapter, with the debtor in the proceeding. The form shall be used to report all the fails to receive, as defied by § 300.300(a) of this chapter, that were open on the filing date, as well as any subsequent closeouts. This form shall accompany the form described in § 300.300a.
+
+Editorial Note:For Federal Register citations affecting Form 300-C, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,8 +1,8 @@
-##### § 890.301 Opportunities for employees who are not participants in premium conversion to enroll or change enrollment; effective dates. #####
+##### § 890.301 Opportunities for employees to enroll or change enrollment; effective dates. #####
 
 (a) *Initial opportunity to enroll.* An employee who becomes eligible may elect to enroll or not to enroll within 60 days after becoming eligible.
 
-(b) *Effective date - generally.* Except as otherwise provided, an enrollment or change of enrollment takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to enroll or change the enrollment and that follows a pay period during any part of which the employee is in pay status.
+(b) *Effective date—generally.* Except as otherwise provided, an enrollment or change of enrollment takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to enroll or change the enrollment and that follows a pay period during any part of which the employee is in pay status.
 
 (c) *Belated enrollment.* When an employing office determines that an employee was unable, for cause beyond his or her control, to enroll or change the enrollment within the time limits prescribed by this section, the employee may enroll or change the enrollment within 60 days after the employing office advises the employee of its determination.
 
@@ -42,9 +42,9 @@
 
 (ii) If after an involuntary enrollment becomes effective and the employing office finds that circumstances beyond the employee's control prevented him or her from enrolling or changing the enrollment within the time limits in this section, the employee may change the enrollment prospectively within 60 days after the employing office advises the employee of its finding.
 
-(h) *Change in employment status.* An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee's employment status changes. Except as otherwise provided, an employee must enroll or change the enrollment within 60 days after the change in employment status. Employment status changes include, but are not limited to -
+(h) *Change in employment status.* An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee's employment status changes. Except as otherwise provided, an employee must enroll or change the enrollment within 60 days after the change in employment status. Employment status changes include, but are not limited to—
 
-(1) A return to pay status following loss of coverage under either -
+(1) A return to pay status following loss of coverage under either—
 
 (i) Section 890.304(a)(1)(v) due to the expiration of 365 days in leave without pay (LWOP) status, or
 
@@ -64,7 +64,7 @@
 
 (7) A change, without a break in service or after a separation of 3 days or less, to part-time career employment as defined in 5 U.S.C. 3401(2) and 5 CFR part 340, subpart B, or a change from such part-time career employment to full-time employment that entitles the employee to the full Government contribution.
 
-(i) *Loss of coverage under this part or under another group insurance plan.* An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee or an eligible family member of the employee loses coverage under this part or another group health benefits plan. Except as otherwise provided, an employee must enroll or change the enrollment within the period beginning 31 days before the date of loss of coverage, and ending 60 days after the date of loss of coverage. Losses of coverage include, but are not limited to -
+(i) *Loss of coverage under this part or under another group insurance plan.* An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee or an eligible family member of the employee loses coverage under this part or another group health benefits plan. Except as otherwise provided, an employee must enroll or change the enrollment within the period beginning 31 days before the date of loss of coverage, and ending 60 days after the date of loss of coverage. Losses of coverage include, but are not limited to—
 
 (1) Loss of coverage under another FEHB enrollment due to the termination, cancellation, or a change to self plus one or to self only, of the covering enrollment.
 
@@ -98,6 +98,8 @@
 
 (m) *An employee or eligible family member becomes eligible for premium assistance under Medicaid or a State Children's Health Insurance Program (CHIP).* An eligible employee may enroll and an enrolled employee may decrease or increase enrollment type, change from one plan or option to another, or make any combination of these changes when the employee or an eligible family member of the employee becomes eligible for premium assistance under a Medicaid plan or CHIP. An employee must enroll or change his or her enrollment within 60 days after the date the employee or family member is determined to be eligible for assistance.
 
-(n) OPM will annually determine the lowest-cost nationwide plan option calculated based on the enrollee share of the cost of a self only enrollment. The plan option identified may not be a High Deductible Health Plan (HDHP) or an option from a health benefits plan that charges an association or membership fee. OPM reserves the right to designate an alternate plan for automatic enrollments if OPM determines circumstances dictate this.
+(n) *Determination of lowest-cost nationwide plan option.* OPM will annually determine the lowest-cost nationwide plan option calculated based on the enrollee share of the cost of a self only enrollment. The plan option identified may not be a High Deductible Health Plan (HDHP) or an option from a health benefits plan that charges an association or membership fee. OPM reserves the right to designate an alternate plan for automatic enrollments if OPM determines circumstances dictate this.
 
-[62 FR 38435, July 18, 1997; 62 FR 49557, Sept. 22, 1997, as amended at 65 FR 44646, July 19, 2000; 68 FR 56524, Oct. 1, 2003; 69 FR 56928, Sept. 23, 2004; 72 FR 1912, Jan. 17, 2007; 75 FR 76616, Dec. 9, 2010; 79 FR 62329, Oct. 17, 2014; 80 FR 55734, Sept. 17, 2015; 80 FR 65882, Oct. 28, 2015]
+(o) *Pay status during a lapse in appropriations.* An employee, who is furloughed or excepted from furlough and working without pay as a result of a lapse in appropriations, is deemed to be in pay status, during the lapse, for purposes of this section.
+
+[62 FR 38435, July 18, 1997; 62 FR 49557, Sept. 22, 1997, as amended at 65 FR 44646, July 19, 2000; 68 FR 56524, Oct. 1, 2003; 69 FR 56928, Sept. 23, 2004; 72 FR 1912, Jan. 17, 2007; 75 FR 76616, Dec. 9, 2010; 79 FR 62329, Oct. 17, 2014; 80 FR 55734, Sept. 17, 2015; 80 FR 65882, Oct. 28, 2015; 86 FR 17274, Apr. 2, 2021]

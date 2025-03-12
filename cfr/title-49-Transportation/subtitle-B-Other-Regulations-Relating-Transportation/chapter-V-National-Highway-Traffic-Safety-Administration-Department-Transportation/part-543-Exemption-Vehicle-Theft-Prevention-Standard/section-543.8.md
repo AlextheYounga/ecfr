@@ -14,4 +14,4 @@
 
 (g) If the petition is sought under § 543.7, NHTSA notifies the petitioner in writing of the agency's decision to grant or deny an exemption petition.
 
-{52 FR 33829, Sept. 8, 1987. Redesignated and amended at 81 FR 66841, Sept. 29, 2016]
+[52 FR 33829, Sept. 8, 1987. Redesignated and amended at 81 FR 66841, Sept. 29, 2016]

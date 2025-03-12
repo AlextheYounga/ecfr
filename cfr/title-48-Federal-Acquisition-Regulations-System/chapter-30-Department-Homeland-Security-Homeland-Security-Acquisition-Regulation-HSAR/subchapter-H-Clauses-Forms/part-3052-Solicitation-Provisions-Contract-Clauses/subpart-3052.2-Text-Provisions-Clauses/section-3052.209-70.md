@@ -1,5 +1,7 @@
 ##### 3052.209-70 Prohibition on contracts with corporate expatriates. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed at (HSAR) 48 CFR 3009.108-7005, insert the following clause:
 
 Prohibition on Contracts With Corporate Expatriates (JUN 2006)

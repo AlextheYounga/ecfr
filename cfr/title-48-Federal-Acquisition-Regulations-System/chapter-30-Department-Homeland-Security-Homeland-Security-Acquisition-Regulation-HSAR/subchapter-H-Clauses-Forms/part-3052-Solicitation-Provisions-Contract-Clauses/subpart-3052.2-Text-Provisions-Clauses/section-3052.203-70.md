@@ -1,5 +1,7 @@
 ##### 3052.203-70 Instructions for Contractor Disclosure of Violations. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in (HSAR) 48 CFR 3003.1004(a), insert the following clause:
 
 Instructions for Contractor Disclosure of Violations (SEP 2012)

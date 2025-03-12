@@ -1,5 +1,7 @@
 ##### 3046.790-2 Definitions (USCG). #####
 
+Link to an amendment published at 86 FR 17316, Apr. 2, 2021.
+
 As used in this part:
 
 *At no additional cost to the Government* means without an increase in price for firm-fixed-price contracts, without an increase in target or ceiling price for fixed price incentive contracts (see (FAR) 48 CFR 46.707).

@@ -1,0 +1,3 @@
+##### § 260.7a-34 Omission of substantially identical documents. #####
+
+In any case where two or more documents required to be filed as exhibits are substantially identical in all material respects except as to the parties thereto, dates of execution or other details, a copy of only one of such documents need be filed, with a schedule identifying the documents omitted and setting forth the material details in which such documents differ from the document, a copy of which is filed: *Provided, however,* That the Commission may at any time in its discretion require the filing of copies of any documents so omitted.

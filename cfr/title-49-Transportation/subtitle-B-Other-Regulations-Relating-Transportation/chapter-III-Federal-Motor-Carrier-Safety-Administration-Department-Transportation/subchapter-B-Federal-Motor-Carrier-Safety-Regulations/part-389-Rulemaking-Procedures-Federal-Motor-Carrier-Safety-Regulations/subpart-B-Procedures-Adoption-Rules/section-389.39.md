@@ -1,5 +1,7 @@
 ##### § 389.39 Direct final rulemaking procedures. #####
 
+Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
+
 A direct final rule makes regulatory changes and states that those changes will take effect on a specified date unless FMCSA receives an adverse comment by the date specified in the direct final rule published in the Federal Register.
 
 (a) *Types of actions appropriate for direct final rulemaking.* Rules that the Administrator determines to be non-controversial and unlikely to result in adverse public comments may be published in the final rule section of the Federal Register as direct final rules. These include non-controversial rules that:

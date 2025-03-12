@@ -1,5 +1,7 @@
 ##### § 399.75 Rulemakings relating to unfair and deceptive practices. #####
 
+Link to an amendment published at 86 FR 17294, Apr. 2, 2021.
+
 (a) *General.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall employ the definitions of “unfair” and “deceptive” set forth in § 399.79.
 
 (b) *Procedural requirements.* When issuing a proposed regulation under paragraph (a) of this section that is defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), the Department shall follow the procedural requirements set forth in 49 CFR 5.17. When issuing a proposed regulation under paragraph (a) of this section that is not defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), unless the regulation is specifically required by statute, the Department shall adhere to the following procedural requirements:

@@ -1,0 +1,5 @@
+##### § 300.304 Retained rights of brokers or dealers. #####
+
+(a) Nothing stated in these rules shall be construed to prejudice the right of a broker or dealer to any claim against the debtor's estate, or the right of the trustee to make any claim against a broker or dealer, with respect to a commitment of the debtor which was outstanding on the filing date, but (1) which is not described in § 300.300(c), or (2) which, although described in § 300.300(c), does not meet the requirements specified in § 300.301 or was not closed out of completed in accordance with § 300.302 or was not reported to the trustee in conformity with § 300.303 or was not supported by appropriate documentation.
+
+(b) Nothing stated in these rules shall be construed to prejudice the right of a broker or dealer to a claim against the debtor's estate for the amount by which the money difference due the broker or dealer upon a buy-in or sell-out may exceed the amount paid by the trustee to such broker or dealer.

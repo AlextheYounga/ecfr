@@ -1,0 +1,3 @@
+##### § 260.7a-22 Information unknown or not reasonably available. #####
+
+Information required shall be given insofar as it is known or can be obtained by reasonable investigation. Responsibility for the accuracy or completeness of information obtained from persons other than affiliates may be disclaimed. As to information which is unknown and is unavailable after reasonable investigation, there shall be included a statement as to the nature of the investigation.

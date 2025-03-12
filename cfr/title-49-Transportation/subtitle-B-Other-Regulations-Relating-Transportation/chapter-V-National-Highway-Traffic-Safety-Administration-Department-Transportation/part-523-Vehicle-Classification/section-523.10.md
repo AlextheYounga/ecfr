@@ -20,4 +20,4 @@
 
 (b) Heavy-duty trailers do not include trailers excluded in 49 CFR 535.3.
 
-{81 FR 74237, Oct. 25, 2016]
+[81 FR 74237, Oct. 25, 2016]

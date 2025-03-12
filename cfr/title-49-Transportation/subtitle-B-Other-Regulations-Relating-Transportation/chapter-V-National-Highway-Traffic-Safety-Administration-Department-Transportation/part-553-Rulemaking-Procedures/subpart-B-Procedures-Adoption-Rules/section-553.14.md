@@ -1,5 +1,7 @@
 ##### § 553.14 Direct final rulemaking. #####
 
+Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
+
 If the Administrator, for good cause, finds that notice is unnecessary, and incorporates that finding and a brief statement of the reasons for it in the rule, a direct final rule may be issued according to the following procedures.
 
 (a) Rules that the Administrator judges to be non-controversial and unlikely to result in adverse public comment may be published as direct final rules. These may include rules that:

@@ -1,5 +1,7 @@
 ##### 3052.217-96 Title (USCG). #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in USCG guidance at (HSAR) 48 CFR 3017.9000(a) and (b), insert the following clause:
 
 Title (DEC 2003)

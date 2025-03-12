@@ -8,4 +8,6 @@
 
 (2) Your uniformed services pay or uniformed services retirement pay (retired, retainer, or equivalent) is sufficient to make the premium payment.
 
-[83 FR 58179, Nov. 19, 2018]
+(c) If you are a FEDVIP enrollee who is furloughed or excepted from furlough and working without pay due to such a lapse, your coverage will not stop during such a lapse. Upon the end of such a lapse, premiums will be paid to the Carrier using back pay.
+
+[83 FR 58179, Nov. 19, 2018, as amended at 86 FR 17274, Apr. 2, 2021]

@@ -20,20 +20,20 @@
 
 (2) Maximum brake cylinder piston travel when locomotive is standing must not exceed the following:
 
-|                                                                                             |          Inches           |
-|---------------------------------------------------------------------------------------------|---------------------------|
-|                                   (i) Steam locomotives:                                    |                           |
-|                             (A) Cam type of driving wheel brake                             |3 <sup>1</sup>⁄<sub>2</sub>|
-|                           (B) Other types of driving wheel brakes                           |             6             |
-|                                   (C) Engine truck brake                                    |             8             |
-|                               (D) Engine trailer truck brake                                |             8             |
-|                   (E) Tender brake (truck mounted and tender bed mounted)                   |             8             |
-|                               (F) Tender brake (body mounted)                               |             9             |
-|                             (ii) Locomotives other than steam:                              |                           |
-|                                   (A) Driving wheel brake                                   |             6             |
-|(B) Swivel type truck brake with brakes on more than one truck operated by one brake cylinder|             7             |
-|                (C) Swivel type truck brake equipped with one brake cylinder                 |             8             |
-|            (D) Swivel type truck brake equipped with two or more brake cylinders            |             6             |
+|                                                                                             |Inches|
+|---------------------------------------------------------------------------------------------|------|
+|                                   (i) Steam locomotives:                                    |      |
+|                             (A) Cam type of driving wheel brake                             |3 1/2 |
+|                           (B) Other types of driving wheel brakes                           |  6   |
+|                                   (C) Engine truck brake                                    |  8   |
+|                               (D) Engine trailer truck brake                                |  8   |
+|                   (E) Tender brake (truck mounted and tender bed mounted)                   |  8   |
+|                               (F) Tender brake (body mounted)                               |  9   |
+|                             (ii) Locomotives other than steam:                              |      |
+|                                   (A) Driving wheel brake                                   |  6   |
+|(B) Swivel type truck brake with brakes on more than one truck operated by one brake cylinder|  7   |
+|                (C) Swivel type truck brake equipped with one brake cylinder                 |  8   |
+|            (D) Swivel type truck brake equipped with two or more brake cylinders            |  6   |
 
 (i)(1) Foundation brake rigging, and safety supports, where used, must be maintained in a safe and suitable condition for service. Levers, rods, brake beams, hangars and pins must be of ample strength and must not bind or foul in any way that will affect proper operation of brakes. All pins must be properly applied and secured in place with suitable locking devices. Brake shoes must be properly applied and kept approximately in line with treads of wheels or other braking surfaces.
 

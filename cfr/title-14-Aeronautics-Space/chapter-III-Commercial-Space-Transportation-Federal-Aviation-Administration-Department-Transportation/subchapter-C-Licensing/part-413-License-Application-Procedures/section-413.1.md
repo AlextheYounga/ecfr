@@ -1,5 +1,7 @@
 ##### § 413.1 Scope of this part. #####
 
+Link to an amendment published at 85 FR 79710, Dec. 10, 2020.
+
 (a) This part explains how to apply for a license or experimental permit. These procedures apply to all applications for obtaining a license or permit, transferring a license, and renewing a license or permit. In this part, the term application means either an application in its entirety, or a portion of an application for incremental review and determination in accordance with § 450.33 of this chapter.
 
 (b) Use paragraphs (b)(1) through (7) in the following table to locate specific requirements:

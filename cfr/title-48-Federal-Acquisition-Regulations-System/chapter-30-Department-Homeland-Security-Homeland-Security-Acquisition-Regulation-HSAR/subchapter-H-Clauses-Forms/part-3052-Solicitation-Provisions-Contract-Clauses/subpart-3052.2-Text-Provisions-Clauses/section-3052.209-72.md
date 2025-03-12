@@ -1,5 +1,7 @@
 ##### 3052.209-72 Organizational conflict of interest. #####
 
+Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
+
 As prescribed in (HSAR) 48 CFR 3009.507-1, insert the following provision:
 
 Organizational Conflict of Interest (JUN 2006)

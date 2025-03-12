@@ -1,0 +1,3 @@
+##### § 300.306 Completion or closeout pursuant to SIPC direction. #####
+
+In its discretion SIPC may, in order to prevent a substantial detrimental impact upon the finanical condition of one or more brokers or dealers, direct the closeout or completion of an open contractual commitment, irrespective of whether it is described in § 300.300(c) or meets the requirements of § 300.301 or has been reported in conformity with § 300.303 or is supported by appropriate documentation. SIPC shall consult with the Securities and Exchange Commission before SIPC makes any determinations under this section.

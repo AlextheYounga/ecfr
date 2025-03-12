@@ -70,4 +70,4 @@ S6.3.6. *Battery powered vehicles.* Prior to beginning the performance tests, pr
 
 S7. *Test procedure.* Each vehicle must meet the performance limit specified in S5(a) under the following test procedure. The maximum speed performance is determined by measuring the maximum attainable vehicle speed at any point in a distance of 1.6 km (1.0 mile) from a standing start and repeated in the opposite direction within 30 minutes.
 
-[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014; 81 FR 50521, Dec. 14, 2016]
+[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014; 81 FR 90521, Dec. 14, 2016]

@@ -1,0 +1,3 @@
+##### § 260.3(4)-2 Definition of “distribution” in section 303(4) for certain transactions. #####
+
+A person, the chief part of the business of which consists in the purchase of the securities of any one issuer and/or its affiliate and in the sale of its own securities to furnish the proceeds with which to acquire the securities of such issuer and/or affiliate, is to be regarded as engaged in the distribution of the securities of such issuer and/or affiliate within the meaning of section 303(4).

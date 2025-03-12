@@ -1,5 +1,7 @@
 ##### § 1.27 Delegations to the General Counsel. #####
 
+Link to an amendment published at 86 FR 17294, Apr. 2, 2021.
+
 The General Counsel is delegated authority to:
 
 (a) Conduct all rulemaking proceedings under the Americans with Disabilities Act, the Disadvantaged Business Enterprise program, and the Uniform Time Act, as amended (15 U.S.C. 260 *et seq.*).

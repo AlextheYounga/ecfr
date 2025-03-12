@@ -1,6 +1,8 @@
 ##### § 450.14 Conditions of delegation. #####
 
-(a) The following conditions are part of every delegation: (1) The Approval Authority shall use only testing equipment that it has determined by inspection to be suitable for the purpose.
+(a) The following conditions are part of every delegation:
+
+(1) The Approval Authority shall use only testing equipment that it has determined by inspection to be suitable for the purpose.
 
 (2) All approval numbers issued by the Approval Authority must contain the identification code, assigned to the Approval Authority by the Chief, Office of Operating and Environmental Standards (CG-OES), U.S. Coast Guard.
 
