@@ -1,6 +1,6 @@
 ##### § 922.112 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 87 FR 29634, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
+Link to an amendment published at 88 FR 967, Jan. 6, 2023.
 
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 

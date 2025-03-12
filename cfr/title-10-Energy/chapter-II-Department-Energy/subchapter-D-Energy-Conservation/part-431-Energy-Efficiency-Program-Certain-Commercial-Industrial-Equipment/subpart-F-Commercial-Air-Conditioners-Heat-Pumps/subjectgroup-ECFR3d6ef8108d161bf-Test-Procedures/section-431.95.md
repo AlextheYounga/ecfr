@@ -1,6 +1,6 @@
 ##### § 431.95 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 75168, Dec. 7, 2022.Link to an amendment published at 87 FR 77325, Dec. 16, 2022.
+Link to an amendment published at 87 FR 77325, Dec. 16, 2022.
 
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, DOE must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE, and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -12,7 +12,7 @@ Link to an amendment published at 87 FR 75168, Dec. 7, 2022.Link to an amendment
 
 (3) ANSI/AHRI Standard 340/360-2007 (AHRI 340/360-2007), “2007 Standard for Performance Rating of Commercial and Industrial Unitary Air-Conditioning and Heat Pump Equipment,” ANSI-approved October 27, 2011, and updated by addendum 1 in December 2010 and addendum 2 in June 2011; IBR approved for § 431.96; appendix A to this subpart.
 
-(4) ANSI/AHRI Standard 390-2003 (AHRI 390-2003), “2003 Standard for Performance Rating of Single Package Vertical Air-Conditioners and Heat Pumps,” dated 2003; IBR approved for § 431.96.
+(4) AHRI Standard 390(I-P)-2021 (“AHRI 390-2021”), *2021 Standard for Performance Rating of Single Package Vertical Air-Conditioners and Heat Pumps,* copyright 2021; (AHRI 390-2021), IBR approved for appendices G and G1 to this subpart.
 
 (5) AHRI Standard 920 (I-P) with Addendum 1 (“AHRI 920-2020”), “2020 Standard for Performance Rating of Direct Expansion-Dedicated Outdoor Air System Units,” copyright 2021; IBR approved for § 431.92; appendix B to this subpart.
 
@@ -26,7 +26,7 @@ Link to an amendment published at 87 FR 75168, Dec. 7, 2022.Link to an amendment
 
 (1) ANSI/ASHRAE Standard 16-1983 (RA 2014), (“ANSI/ASHRAE 16”), “Method of Testing for Rating Room Air Conditioners and Packaged Terminal Air Conditioners,” ASHRAE reaffirmed July 3, 2014, IBR approved for § 431.96.
 
-(2) ANSI/ASHRAE Standard 37-2009, (“ANSI/ASHRAE 37-2009”), “Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,” ASHRAE approved June 24, 2009; IBR approved for § 431.96 and appendices A, B, and D1 to this subpart.
+(2) ANSI/ASHRAE Standard 37-2009 (“ANSI/ASHRAE 37-2009”), *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* ASHRAE approved June 24, 2009, IBR approved for § 431.96 and appendices A, B, D1, G, and G1 to this subpart.
 
 (3) Errata Sheet for ANSI/ASHRAE Standard 37-2009, *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* March 27, 2019; IBR approved for appendix D1 to this subpart.
 
@@ -46,4 +46,4 @@ Link to an amendment published at 87 FR 75168, Dec. 7, 2022.Link to an amendment
 
 (2) [Reserved]
 
-[77 FR 28989, May 16, 2012, as amended at 80 FR 37148, June 30, 2015; 80 FR 79669, Dec. 23, 2015; 87 FR 45198, July 27, 2022; 87 FR 63896, Oct. 20, 2022]
+[77 FR 28989, May 16, 2012, as amended at 80 FR 37148, June 30, 2015; 80 FR 79669, Dec. 23, 2015; 87 FR 45198, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75168, Dec. 7, 2022]

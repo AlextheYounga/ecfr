@@ -1,7 +1,5 @@
 ##### § 76.55 Definitions applicable to the must-carry rules. #####
 
-Link to an amendment published at 87 FR 74988, Dec. 7, 2022.
-
 For purposes of the must-carry rules set forth in this subpart, the following definitions apply:
 
 (a) *Qualified noncommercial educational (NCE) television station.* A qualified NCE television station is any television broadcast station which
@@ -60,9 +58,9 @@ For the purposes of this section, for over-the-air broadcast, a good quality sig
 
 (e) *Television market.* (1) Until January 1, 2000, a commercial broadcast television station's market, unless amended pursuant to § 76.59, shall be defined as its Area of Dominant Influence (ADI) as determined by Arbitron and published in the Arbitron 1991-1992 Television ADI Market Guide, as noted below, except that for areas outside the contiguous 48 states, the market of a station shall be defined using Nielsen's Designated Market Area (DMA), where applicable, as published in the Nielsen 1991-92 DMA Market and Demographic Rank Report, and that Puerto Rico, the U.S. Virgin Islands, and Guam will each be considered a single market.
 
-(2) Effective January 1, 2000, a commercial broadcast television station's market, unless amended pursuant to § 76.59, shall be defined as its Designated Market Area (DMA) as determined by Nielsen Media Research and published in its Nielsen Station Index Directory and Nielsen Station Index US Television Household Estimates or any successor publications.
+(2) A commercial broadcast station's market, unless amended pursuant to § 76.59, shall be defined as its Designated Market Area (DMA) as determined by Nielsen Media Research and published in its Nielsen Local TV Station Information Report or any successor publications.
 
-(i) For the 1999 election pursuant to § 76.64(f), which becomes effective on January 1, 2000, DMA assignments specified in the 1997-98 Nielsen Station Index Directory and September 1997 Nielsen Station Index US Television Household Estimates, available from Nielsen Media Research, 770 Broadway, New York, NY, shall be used.
+(i) The applicable DMA list for the 2023 election pursuant to § 76.64(f) will be the DMA assignments specified in the Nielsen October 2021 Local TV Station Information Report, and so forth using the publications for the October two years prior to each triennial election pursuant to § 76.64(f).
 
 (ii) The applicable DMA list for the 2002 election pursuant to § 76.64(f) will be the DMA assignments specified in the 2000-2001 list, and so forth for each triennial election pursuant to § 76.64(f).
 
@@ -80,4 +78,4 @@ For the 1996 must-carry/retransimission consent election, the ADI assignments sp
 
 (f) *Network.* For purposes of the must-carry rules, a commercial television network is an entity that offers programming on a regular basis for 15 or more hours per week to at least 25 affiliates in 10 or more states.
 
-[58 FR 17359, Apr. 2, 1993, as amended at 58 FR 44951, Aug. 25, 1993; 59 FR 62344, Dec. 5, 1994; 61 FR 29313, June 10, 1996; 64 FR 42617, Aug. 5, 1999; 68 FR 17312, Apr. 9, 2003; 73 FR 5685, Jan. 30, 2008; 83 FR 7626, Feb. 22, 2018]
+[58 FR 17359, Apr. 2, 1993, as amended at 58 FR 44951, Aug. 25, 1993; 59 FR 62344, Dec. 5, 1994; 61 FR 29313, June 10, 1996; 64 FR 42617, Aug. 5, 1999; 68 FR 17312, Apr. 9, 2003; 73 FR 5685, Jan. 30, 2008; 83 FR 7626, Feb. 22, 2018; 87 FR 74988, Dec. 7, 2022]

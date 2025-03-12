@@ -1,6 +1,6 @@
 ##### § 922.182 Definitions. #####
 
-Link to an amendment published at 87 FR 29638, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
+Link to an amendment published at 88 FR 970, Jan. 6, 2023.
 
 (a) *Acts* means the Hawaiian Islands National Marine Sanctuary Act (HINMSA; sections 2301-2307 of Pub. L. 102-587), and the National Marine Sanctuaries Act (NMSA; also known as Title III of the Marine Protection, Research, and Sanctuaries Act (MPRSA), as amended, 16 U.S.C. 1431 *et seq.*).
 

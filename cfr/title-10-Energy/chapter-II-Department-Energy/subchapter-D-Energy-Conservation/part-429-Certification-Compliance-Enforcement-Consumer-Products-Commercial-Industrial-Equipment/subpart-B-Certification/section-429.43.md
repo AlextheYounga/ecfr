@@ -1,6 +1,6 @@
 ##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment. #####
 
-Link to an amendment published at 87 FR 75166, Dec. 7, 2022.Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
+Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
 
 (a) Determination of represented values. Manufacturers must determine the represented values, which include the certified ratings, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
@@ -103,6 +103,32 @@ Table 3 to Paragraph (a)(3)(ii)(B)(2) - Specific Components for Variable Refrige
 
 (*ii*) A manufacturer may also determine optional “mixed” representations by calculating the mean value across any two required representations described in the paragraph (a)(3)(ii)(C)(*2*)(*i*) of this section (*i.e.,* a representation for “mixed ducted/non-ducted” would be determined by averaging the ducted representation and the non-ducted representation; a representation for “mixed ducted/SDHV” would be determined by averaging the ducted representation and the SDHV representation, and a representation for “mixed non-ducted/SDHV” would be determined by averaging the non-ducted representation and the SDHV representation).
 
+(iii) Single package vertical units. When certifying to standards in terms of IEER, the following provisions apply.
+
+(A) For individual model selection:
+
+(*1*) Representations for a basic model must be based on the least efficient individual model(s) distributed in commerce among all otherwise comparable model groups comprising the basic model, except as provided in paragraph (a)(3)(iii)(A)(*2*) of this section for individual models that include components listed in table 4 to this paragraph (a)(3)(iii)(A). For the purpose of this paragraph (a)(3)(iii)(A)(*1*), “otherwise comparable model group” means a group of individual models distributed in commerce within the basic model that do not differ in components that affect energy consumption as measured according to the applicable test procedure specified at 10 CFR 431.96 other than those listed in table 4 to this paragraph (a)(3)(iii)(A). An otherwise comparable model group may include individual models distributed in commerce with any combination of the components listed in table 4 (or none of the components listed in table 4). An otherwise comparable model group may consist of only one individual model.
+
+(*2*) For a basic model that includes individual models distributed in commerce with components listed in table 4 to this paragraph (a)(3)(iii)(A), the requirements for determining representations apply only to the individual model(s) of a specific otherwise comparable model group distributed in commerce with the least number (which could be zero) of components listed in table 4 included in individual models of the group. Testing under this paragraph (a)(3)(iii)(A)(*2*) shall be consistent with any component-specific test provisions specified in section 4 of appendix G1 to subpart F of 10 CFR part 431.
+
+Table 4 to Paragraph (a)(3)(iii)(A) - Specific Components for Single Package Vertical Units
+
+|                Component                |                                                                                                                                                                         Description                                                                                                                                                                         |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Desiccant Dehumidification Components  |                                                                                                                 An assembly that reduces the moisture content of the supply air through moisture transfer with solid or liquid desiccants.                                                                                                                  |
+|             Air Economizers             |                                                                                                 An automatic system that enables a cooling system to supply outdoor air to reduce or eliminate the need for mechanical cooling during mid or cold weather.                                                                                                  |
+|Ventilation Energy Recovery System (VERS)|                                                         An assembly that preconditions outdoor air entering the equipment through direct or indirect thermal and/or moisture exchange with the exhaust air, which is defined as the building air being exhausted to the outside from the equipment.                                                         |
+|        Steam/Hydronic Heat Coils        |                                                                                                                                                         Coils used to provide supplemental heating.                                                                                                                                                         |
+|             Hot Gas Reheat              |                                                         A heat exchanger located downstream of the indoor coil that heats the Supply Air during cooling operation using high pressure refrigerant in order to increase the ratio of moisture removal to Cooling Capacity provided by the equipment.                                                         |
+|      Fire/Smoke/Isolation Dampers       |                                                                                                                A damper assembly including means to open and close the damper mounted at the supply or return duct opening of the equipment.                                                                                                                |
+| Powered Exhaust/Powered Return Air Fans |                              A powered exhaust fan is a fan that transfers directly to the outside a portion of the building air that is returning to the unit, rather than allowing it to recirculate to the indoor coil and back to the building. A powered return fan is a fan that draws building air into the equipment.                               |
+|      Sound Traps/Sound Attenuators      |                                An assembly of structures through which the supply air passes before leaving the equipment or through which the return air from the building passes immediately after entering the equipment for which the sound insertion loss is at least 6 dB for the 125 Hz octave band frequency range.                                 |
+|             Hot Gas Bypass              |A method to adjust the cooling delivered by the equipment in which some portion of the hot high-pressure refrigerant from the discharge of the compressor(s) is diverted from its normal flow to the outdoor coil and is instead allowed to enter the indoor coil to modulate the capacity of a refrigeration circuit or to prevent evaporator coil freezing.|
+
+(B) The represented value of cooling capacity must be between 95 percent and 100 percent of the mean of the capacities measured for the units in the sample selected as described in paragraph (a)(1)(ii) of this section, or between 95 percent and 100 percent of the net sensible cooling capacity output simulated by the alternative energy-efficiency determination method (AEDM) as described in paragraph (a)(2) of this section.
+
+(C) Represented values must be based on performance (either through testing or by applying an AEDM) of individual models with components and features that are selected in accordance with section 4 of appendix G1 to subpart F of 10 CFR part 431.
+
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to commercial HVAC equipment; and
 
 (2) Pursuant to § 429.12(b)(13), a certification report must include the following public equipment-specific information:
@@ -197,4 +223,4 @@ Table 3 to Paragraph (a)(3)(ii)(B)(2) - Specific Components for Variable Refrige
 
 (c) Alternative methods for determining efficiency or energy use for commercial HVAC equipment can be found in § 429.70 of this subpart.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022; 87 FR 65667, Nov. 1, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022; 87 FR 65667, Nov. 1, 2022; 87 FR 75166, Dec. 7, 2022]

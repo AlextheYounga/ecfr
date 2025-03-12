@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 75167, Dec. 7, 2022.Link to an amendment published at 87 FR 77324, Dec. 16, 2022.
+Link to an amendment published at 87 FR 77324, Dec. 16, 2022.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -405,4 +405,18 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) If the certified harvest rate is found to be invalid, the average measured harvest rate of the units in the sample will be used as the basis for determining the maximum energy use and maximum condenser water use, if applicable, allowed for the basic model.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022]
+(x) *Single package vertical air conditioners and heat pumps.* The following provisions apply for assessment and enforcement testing of models subject to standards in terms of IEER.
+
+(1) *Verification of cooling capacity.* The cooling capacity of each tested unit of the basic model will be measured pursuant to the test requirements of appendix G1 to subpart F of 10 CFR part 431. The mean of the measurement(s) will be used to determine the applicable standards for purposes of compliance.
+
+(2) *Specific components.* If a basic model includes individual models with components listed at table 4 to § 429.43(a)(3)(iii)(A) and DOE is not able to obtain an individual model with the least number (which could be zero) of those components within an otherwise comparable model group (as defined in § 429.43(a)(3)(iii)(A)(*1*)), DOE may test any individual model within the otherwise comparable model group.
+
+(3) *Validation of outdoor ventilation airflow rate.* The outdoor ventilation airflow rate in cubic feet per minute (“CFM”) of the basic model will be measured in accordance with ASHRAE 41.2-1987 and Section 6.4 of ASHRAE 37-2009 (both incorporated by reference, see § 429.4). All references to the inlet shall be determined to mean the outdoor air inlet.
+
+(i) The outdoor ventilation airflow rate validation shall be conducted at the conditions specified in Table 3 of AHRI 390-2021 (incorporated by reference, see § 429.4), Full Load Standard Rating Capacity Test, Cooling, except for the following:
+
+The outdoor ventilation airflow rate shall be determined at 0 in. H2O external static pressure with a tolerance of −0.00/+0.05 in. H2O.
+
+(ii) When validating the outdoor ventilation airflow rate, the outdoor air inlet pressure shall be 0.00 in. H2O, with a tolerance of −0.00/+0.05 in. H2O when measured against the room ambient pressure.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022]

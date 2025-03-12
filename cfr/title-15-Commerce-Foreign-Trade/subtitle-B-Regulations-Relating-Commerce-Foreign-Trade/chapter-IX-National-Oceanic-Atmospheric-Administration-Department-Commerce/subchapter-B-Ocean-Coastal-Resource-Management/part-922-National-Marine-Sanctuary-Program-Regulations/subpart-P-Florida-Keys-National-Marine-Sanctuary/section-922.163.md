@@ -1,6 +1,6 @@
 ##### § 922.163 Prohibited activities - Sanctuary-wide. #####
 
-Link to an amendment published at 87 FR 29638, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
+Link to an amendment published at 88 FR 970, Jan. 6, 2023.
 
 (a) Except as specified in paragraph (b) through (e) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 

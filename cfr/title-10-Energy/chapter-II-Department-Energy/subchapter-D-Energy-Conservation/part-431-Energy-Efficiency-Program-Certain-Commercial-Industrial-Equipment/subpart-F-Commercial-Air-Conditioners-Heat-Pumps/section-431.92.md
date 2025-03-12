@@ -1,6 +1,6 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
-Link to an amendment published at 87 FR 75167, Dec. 7, 2022.Link to an amendment published at 87 FR 77325, Dec. 16, 2022.
+Link to an amendment published at 87 FR 77325, Dec. 16, 2022.
 
 The following definitions apply for purposes of this subpart F, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311.
 
@@ -44,7 +44,7 @@ The following definitions apply for purposes of this subpart F, and of subparts 
 
 *Heating seasonal performance factor,* or *HSPF* means the total heating output of a central air-conditioning heat pump during its normal annual usage period for heating, expressed in Btu's and divided by the total electric power input, expressed in watt-hours, during the same period.
 
-*Integrated energy efficiency ratio, or IEER,* means a weighted average calculation of mechanical cooling EERs determined for four load levels and corresponding rating conditions, expressed in Btu/watt-hour. IEER is measured per appendix A to this subpart for air-cooled small (≥65,000 Btu/h), large, and very large commercial package air conditioning and heating equipment and measured per appendix D1 to this subpart for variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h).
+*Integrated energy efficiency ratio, or IEER,* means a weighted average calculation of mechanical cooling EERs determined for four load levels and corresponding rating conditions, expressed in Btu/watt-hour. IEER is measured per appendix A to this subpart for air-cooled small (≥65,000 Btu/h), large, and very large commercial package air conditioning and heating equipment, measured per appendix D1 to this subpart for variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h), and measured per appendix G1 to this subpart for single package vertical air conditioners and single package vertical heat pumps.
 
 *Integrated seasonal coefficient of performance 2* or *ISCOP2,* means a seasonal weighted-average heating efficiency for heat pump dedicated outdoor air systems, expressed in W/W, as measured according to appendix B of this subpart.
 
@@ -68,27 +68,47 @@ The following definitions apply for purposes of this subpart F, and of subparts 
 
 *Single package unit* means any central air conditioner or central air-conditioning heat pump in which all the major assemblies are enclosed in one cabinet.
 
-*Single package vertical air conditioner* means air-cooled commercial package air conditioning and heating equipment that -
+*Single package vertical air conditioner* means:
 
-(1) Is factory-assembled as a single package that -
+(1) Air-cooled commercial package air conditioning and heating equipment that -
 
-(i) Has major components that are arranged vertically;
+(i) Is factory-assembled as a single package that -
 
-(ii) Is an encased combination of cooling and optional heating components; and
+(A) Has major components that are arranged vertically;
 
-(iii) Is intended for exterior mounting on, adjacent interior to, or through an outside wall;
+(B) Is an encased combination of cooling and optional heating components; and
 
-(2) Is powered by a single-or 3-phase current;
+(C) Is intended for exterior mounting on, adjacent interior to, or through an outside wall;
 
-(3) May contain 1 or more separate indoor grilles, outdoor louvers, various ventilation options, indoor free air discharges, ductwork, well plenum, or sleeves; and
+(ii) Is powered by a single-or 3-phase current;
 
-(4) Has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse cycle refrigeration as a heating means.
+(iii) May contain 1 or more separate indoor grilles, outdoor louvers, various ventilation options, indoor free air discharges, ductwork, well plenum, or sleeves; and
 
-*Single package vertical heat pump* means a single package vertical air conditioner that -
+(iv) Has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse-cycle refrigeration as a heating means; and
 
-(1) Uses reverse cycle refrigeration as its primary heat source; and
+(2) Includes single-phase single package vertical air conditioner with cooling capacity less than 65,000 Btu/h, as defined in this section.
 
-(2) May include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
+*Single package vertical heat pump* means:
+
+(1) A single package vertical air conditioner that -
+
+(i) Uses reverse-cycle refrigeration as its primary heat source; and
+
+(ii) May include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas; and
+
+(2) Includes single-phase single package vertical heat pump with cooling capacity less than 65,000 Btu/h, as defined in this section.
+
+*Single-phase single package vertical air conditioner with cooling capacity less than 65,000 Btu/h* means air-cooled commercial package air conditioning and heating equipment that meets the criteria in paragraphs (1)(i) through (iv) of the definition for a single package vertical air conditioner in this section; that is single-phase; has a cooling capacity less than 65,000 Btu/h, and that:
+
+(1) Is weatherized, determined by a model being denoted for “Outdoor Use” or marked as “Suitable for Outdoor Use” on the equipment nameplate; or
+
+(2) Is non-weatherized and is a model that has optional ventilation air provisions available. When such ventilation air provisions are present on the unit, the unit must be capable of drawing in and conditioning outdoor air for delivery to the conditioned space at a rate of at least 400 cubic feet per minute, as determined in accordance with § 429.134(x)(3) of this chapter, while the equipment is operating with the same drive kit and motor settings used to determine the certified efficiency rating of the equipment (as required for submittal to DOE by § 429.43(b)(4)(xi) of this chapter).
+
+*Single-phase single package vertical heat pump with cooling capacity less than 65,000 Btu/h* means air-cooled commercial package air conditioning and heating equipment that meets the criteria in paragraphs (1)(i) and (ii) of the definition for a single package vertical heat pump in this section; that is single-phase; has a cooling capacity less than 65,000 Btu/h, and that:
+
+(1) Is weatherized, determined by a model being denoted for “Outdoor Use” or marked as “Suitable for Outdoor Use” on the equipment nameplate; or
+
+(2) Is non-weatherized and is a model that has optional ventilation air provisions available. When such ventilation air provisions are present on the unit, the unit must be capable of drawing in and conditioning outdoor air for delivery to the conditioned space at a rate of at least 400 cubic feet per minute, as determined in accordance with § 429.134(x)(3) of this chapter, while the equipment is operating with the same drive kit and motor settings used to determine the certified efficiency rating of the equipment (as required for submittal to DOE by § 429.43(b)(4)(xii) of this chapter).
 
 *Small commercial package air-conditioning and heating equipment* means commercial package air-conditioning and heating equipment that is rated below 135,000 Btu per hour (cooling capacity).
 
@@ -112,4 +132,4 @@ The following definitions apply for purposes of this subpart F, and of subparts 
 
 *Water-source heat pump* means a single-phase or three-phase reverse-cycle heat pump that uses a circulating water loop as the heat source for heating and as the heat sink for cooling. The main components are a compressor, refrigerant-to-water heat exchanger, refrigerant-to-air heat exchanger, refrigerant expansion devices, refrigerant reversing valve, and indoor fan. Such equipment includes, but is not limited to, water-to-air water-loop heat pumps.
 
-[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022]
+[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022]

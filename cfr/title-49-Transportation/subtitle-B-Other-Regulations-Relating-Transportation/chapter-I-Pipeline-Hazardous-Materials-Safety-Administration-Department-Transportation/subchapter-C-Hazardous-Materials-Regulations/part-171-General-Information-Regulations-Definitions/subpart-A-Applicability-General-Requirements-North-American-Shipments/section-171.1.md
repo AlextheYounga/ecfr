@@ -44,7 +44,7 @@ Federal hazardous materials transportation law (49 U.S.C. 5101 *et seq.*) direct
 
 (4) *Storage incidental to movement of a hazardous material.* Storage of a transport vehicle, freight container, or package containing a hazardous material by any person between the time that a carrier takes physical possession of the hazardous material for the purpose of transporting it until the package containing the hazardous material has been delivered to the destination indicated on a shipping document, package marking, or other medium, or, in the case of a private motor carrier, between the time that a motor vehicle driver takes physical possession of the hazardous material for the purpose of transporting it until the driver relinquishes possession of the package at its destination and is no longer responsible for performing functions subject to the HMR with respect to that particular package.
 
-(i) Storage incidental to movement includes -
+(i) Storage incidental to movement includes—
 
 (A) Storage at the destination shown on a shipping document, including storage at a transloading facility, provided the original shipping documentation identifies the shipment as a through-shipment and identifies the final destination or destinations of the hazardous material; and
 
@@ -70,13 +70,13 @@ Federal hazardous materials transportation law (49 U.S.C. 5101 *et seq.*) direct
 
 (e) *Requirements of other Federal agencies.* Each facility at which pre-transportation or transportation functions are performed in accordance with the HMR may be subject to applicable standards and regulations of other Federal agencies.
 
-(f) *Requirements of state and local government agencies.* (1) Under 49 U.S.C. 5125, a requirement of a state, political subdivision of a state, or an Indian tribe is preempted, unless otherwise authorized by another Federal statute or DOT issues a waiver of preemption, if -
+(f) *Requirements of state and local government agencies.* (1) Under 49 U.S.C. 5125, a requirement of a state, political subdivision of a state, or an Indian tribe is preempted, unless otherwise authorized by another Federal statute or DOT issues a waiver of preemption, if—
 
 (i) Complying with both the non-Federal requirement and Federal hazardous materials transportation law, the regulations issued under Federal hazardous material transportation law or a hazardous material transportation security regulation or directive issued by the Secretary of Homeland Security is not possible;
 
 (ii) The non-Federal requirement, as applied or enforced, is an obstacle to accomplishing and carrying out Federal hazardous materials transportation law, the regulations issued under Federal hazardous material transportation law, or a hazardous material transportation security regulation or directive issued by the Secretary of Homeland Security;
 
-(iii) The non-Federal requirement is not substantively the same as a provision of Federal hazardous materials transportation law, the regulations issued under Federal hazardous material transportation law, or a hazardous material transportation security regulation or directive issued by the Secretary of Homeland Security with respect to -
+(iii) The non-Federal requirement is not substantively the same as a provision of Federal hazardous materials transportation law, the regulations issued under Federal hazardous material transportation law, or a hazardous material transportation security regulation or directive issued by the Secretary of Homeland Security with respect to—
 
 (A) The designation, description, and classification of hazardous material;
 
@@ -96,6 +96,6 @@ Federal hazardous materials transportation law (49 U.S.C. 5101 *et seq.*) direct
 
 (3) The procedures for DOT to make administrative determinations of preemption are set forth in subpart E of part 397 of this title with respect to non-Federal requirements on highway routing (paragraph (f)(1)(iv) of this section) and in subpart C of part 107 of this chapter with respect to all other non-Federal requirements.
 
-(g) *Penalties for noncompliance.* Each person who knowingly violates a requirement of the Federal hazardous material transportation law, an order issued under Federal hazardous material transportation law, subchapter A of this chapter, or a special permit or approval issued under subchapter A or C of this chapter is liable for a civil penalty of not more than $89,678 for each violation, except the maximum civil penalty is $209,249 if the violation results in death, serious illness, or severe injury to any person or substantial destruction of property. There is no minimum civil penalty, except for a minimum civil penalty of $540 for a violation relating to training.
+(g) *Penalties for noncompliance.* Each person who knowingly violates a requirement of the Federal hazardous material transportation law, an order issued under Federal hazardous material transportation law, subchapter A of this chapter, or a special permit or approval issued under subchapter A or C of this chapter is liable for a civil penalty of not more than $96,624 for each violation, except the maximum civil penalty is $225,455 if the violation results in death, serious illness, or severe injury to any person or substantial destruction of property. There is no minimum civil penalty, except for a minimum civil penalty of $582 for a violation relating to training.
 
-[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; 87 FR 15866, Mar. 21, 2022]
+[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; 88 FR 1125, Jan. 6, 2023]

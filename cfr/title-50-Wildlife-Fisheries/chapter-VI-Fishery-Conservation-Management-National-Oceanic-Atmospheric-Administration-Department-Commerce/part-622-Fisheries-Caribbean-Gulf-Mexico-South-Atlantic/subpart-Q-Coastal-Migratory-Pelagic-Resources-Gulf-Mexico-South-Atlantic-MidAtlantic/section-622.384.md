@@ -1,20 +1,18 @@
 ##### § 622.384 Quotas. #####
 
-Link to an amendment published at 87 FR 74990, Dec. 7, 2022.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. See § 622.369 for the descriptions of the zones. This section provides quotas and specific quota closure restrictions for coastal migratory pelagic fish. All weights are in round and eviscerated weight combined, unless specified otherwise.
 
 (a) King and Spanish mackerel quotas apply to persons who fish under commercial vessel permits for king or Spanish mackerel, as required under § 622.370(a)(1) or (3). A fish is counted against the quota for the area where it is caught, not where it is landed.
 
-(b) *King mackerel* - (1) *Gulf migratory group.* The Gulf migratory group is divided into zones. The description of the zones is specified in § 622.369(a). Quotas for the western, northern, and southern zones are as follows:
+(b) *King mackerel*—(1) *Gulf migratory group.* The Gulf migratory group is divided into zones. The description of the zones is specified in § 622.369(a). Quotas for the western, northern, and southern zones are as follows:
 
-(i) *Western zone.* The quota is 1,180,000 lb (535,239 kg) for the 2016-2017 fishing year, 1,136,000 lb (515,281 kg) for the 2017-2018 fishing year, 1,116,000 lb (506,209 kg) for the 2018-2019 fishing year, and 1,096,000 lb (497,137 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(i) *Western zone.* The quota is 1,199,360 lb (544,021 kg) for the 2021-2022 fishing year, 1,244,160 lb (564,341 kg) for the 2022-2023 fishing year, and 1,278,720 lb (580,018 kg) for the 2023-2024 fishing year and subsequent fishing years.
 
-(ii) *Northern zone.* The quota is 531,000 lb (240,858 kg) for the 2016-2017 fishing year, 511,200 lb (231,876 kg) for the 2017-2018 fishing year, 502,200 lb (227,794 kg) for the 2018-2019 fishing year, and 493,200 lb (223,712 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(ii) *Northern zone.* The quota is 539,712 lb (244,809 kg) for the 2021-2022 fishing year, 559,872 lb (253,954 kg) for the 2022-2023 fishing year, and 575,424 lb (261,008 kg) for the 2023-2024 fishing year and subsequent fishing years.
 
-(iii) *Southern zone.* (A) The hook-and-line quota is 619,500 lb (281,000 kg) for the 2016-2017 fishing year, 596,400 lb (270,522 kg) for the 2017-2018 fishing year, 585,900 lb (265,760 kg) for the 2018-2019 fishing year, and 575,400 lb (260,997 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(iii) *Southern zone.* (A) The hook-and-line quota is 629,664 lb (285,611 kg) for the 2021-2022 fishing year, 653,184 lb (296,279 kg) for the 2022-2023 fishing year, and 671,328 lb (304,509 kg) for the 2023-2024 and subsequent fishing years.
 
-(B) The run-around gillnet quota is 619,500 lb (281,000 kg) for the 2016-2017 fishing year, 596,400 lb (270,522 kg) for the 2017-2018 fishing year, 585,900 lb (265,760 kg) for the 2018-2019 fishing year, and 575,400 lb (260,997 kg) for the 2019-2020 fishing year and subsequent fishing years.
+(B) The run-around gillnet quota is 629,664 lb (285,611 kg) for the 2021-2022 fishing year, 653,184 lb (296,279 kg) for the 2022-2023 fishing year, and 671,328 lb (304,509 kg) for the 2023-2024 and subsequent fishing years.
 
 (2) *Atlantic migratory group.* The Atlantic migratory group is divided into northern and southern zones. The descriptions of the zones are specified in § 622.369(a). Quotas for the northern and southern zones for the 2016-2017 fishing year and subsequent years are as follows:
 
@@ -38,19 +36,19 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (B) The transfer of quota will be valid only for the fishing year for which the request was made and does not permanently alter the quotas specified in paragraphs (b)(2)(i) and (ii) of this section.
 
-(3) *Transit provisions applicable in areas closed due to a quota closure for king mackerel.* A vessel with a valid commercial vessel permit for king mackerel that has onboard king mackerel harvested in an open area of the EEZ may transit through areas closed to the harvest of king mackerel due to a quota closure, if fishing gear is appropriately stowed. For the purpose of paragraph (b) of this section, transit means direct and non-stop continuous course through the area. To be appropriately stowed fishing gear means -
+(3) *Transit provisions applicable in areas closed due to a quota closure for king mackerel.* A vessel with a valid commercial vessel permit for king mackerel that has onboard king mackerel harvested in an open area of the EEZ may transit through areas closed to the harvest of king mackerel due to a quota closure, if fishing gear is appropriately stowed. For the purpose of paragraph (b) of this section, transit means direct and non-stop continuous course through the area. To be appropriately stowed fishing gear means—
 
 (i) A gillnet must be left on the drum. Any additional gillnets not attached to the drum must be stowed below deck.
 
 (ii) A rod and reel must be removed from the rod holder and stowed securely on or below deck. Terminal gear (*i.e.,* hook, leader, sinker, flasher, or bait) must be disconnected and stowed separately from the rod and reel. Sinkers must be disconnected from the down rigger and stowed separately.
 
-(c) *Spanish mackerel* - (1) *Gulf migratory group.* [Reserved]
+(c) *Spanish mackerel*—(1) *Gulf migratory group.* [Reserved]
 
 (2) *Atlantic migratory group.* The Atlantic migratory group is divided into northern and southern zones. The descriptions of the zones are specified in § 622.369(b). The quota for the Atlantic migratory group of Spanish mackerel is 3.33 million lb (1.51 million kg). Quotas for the northern and southern zones are as follows:
 
-(i) *Northern zone* - 662,670 lb (300,582 kg).
+(i) *Northern zone*—662,670 lb (300,582 kg).
 
-(ii) *Southern zone* - 2,667,330 lb (1,209,881 kg).
+(ii) *Southern zone*—2,667,330 lb (1,209,881 kg).
 
 (iii) *Quota transfers.* North Carolina or Florida, in consultation with the other states in their respective zones, may request approval from the RA to transfer part or all of their respective zone's annual commercial quota to the other zone. Requests for transfer of commercial quota for Spanish mackerel must be made by a letter signed by the principal state official with marine fishery management responsibility and expertise, or his/her previously named designee, for each state involved. The letter must certify that all pertinent state requirements have been met and identify the states involved and the amount of quota to be transferred. For the purposes of quota closures as described in § 622.8, the receiving zone's quota will be the original quota plus any transferred amount, for that fishing season only. Landings associated with any transferred quota will be included in the total landings for the Atlantic migratory group, which will be evaluated relative to the total ACL.
 
@@ -62,7 +60,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (B) The transfer of quota will be valid only for the fishing year for which the request was made and does not permanently alter any zone's quota specified in paragraph (c)(2)(i) or (c)(2)(ii) of this section.
 
-(d) *Cobia* - (1) *Gulf migratory group* - (i) *Gulf zone.* For the 2022 fishing year, the stock quota is 1,474,200 lb (668,686 kg). For the 2023 fishing year and subsequent fishing years, the stock quota is 1,564,920 lb (709,836 kg).
+(d) *Cobia*—(1) *Gulf migratory group*—(i) *Gulf zone.* For the 2022 fishing year, the stock quota is 1,474,200 lb (668,686 kg). For the 2023 fishing year and subsequent fishing years, the stock quota is 1,564,920 lb (709,836 kg).
 
 (ii) *Florida east coast zone.* The following quotas apply to persons who fish for cobia and sell their catch. For the 2022 fishing year the quota is 76,960 lb (34,908 kg). For the 2023 fishing year and subsequent fishing years the quota is 81,696 lb (37,057 kg).
 
@@ -72,4 +70,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) The sale or purchase of king mackerel, Spanish mackerel, or cobia of the closed species, migratory group, zone, or gear type is prohibited, including any king or Spanish mackerel taken under the bag and possession limits specified in § 622.382(a), or cobia taken under the bag and possession limits specified in § 622.382(b). The prohibition on the sale or purchase during a closure for coastal migratory pelagic fish does not apply to coastal migratory pelagic fish that were harvested, landed ashore, and sold prior to the effective date of the closure and were held in cold storage by a dealer or processor.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017; 84 FR 4736, Feb. 19, 2019; 87 FR 63966, Oct. 21, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 69060, Nov. 20, 2014; 80 FR 4221, Jan. 27, 2015; 82 FR 17397, Apr. 11, 2017; 82 FR 35660, Aug. 1, 2017; 84 FR 4736, Feb. 19, 2019; 87 FR 63966, Oct. 21, 2022; 87 FR 74990, Dec. 7, 2022]

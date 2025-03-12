@@ -1,6 +1,6 @@
 ##### § 922.161 Boundary. #####
 
-Link to an amendment published at 87 FR 29637, May 13, 2022.This amendment was delayed until Sept. 26, 2022, at 87 FR 37728, June 24, 2022.This amendment was further delayed to Jan. 24, 2023 at 87 FR 56276, Sept. 14, 2022.
+Link to an amendment published at 88 FR 969, Jan. 6, 2023.
 
 The Sanctuary consists of an area of approximately 2900 square nautical miles (9,800 square kilometers) of coastal and ocean waters, and the submerged lands thereunder, surrounding the Florida Keys in Florida. Appendix I to this subpart sets forth the precise Sanctuary boundary.
 
