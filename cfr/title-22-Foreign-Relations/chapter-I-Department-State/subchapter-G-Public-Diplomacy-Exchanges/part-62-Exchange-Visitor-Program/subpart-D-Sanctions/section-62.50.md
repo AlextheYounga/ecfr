@@ -1,5 +1,7 @@
 ##### § 62.50 Sanctions. #####
 
+Link to an amendment published at 86 FR 50994, Sept. 14, 2021.
+
 (a) *Reasons for sanctions.* The Department of State (Department) may impose sanctions against a sponsor upon a finding by its Office of Exchange Coordination and Designation (Office) that the sponsor has:
 
 (1) Violated one or more provisions of this Part;

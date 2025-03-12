@@ -2,7 +2,7 @@
 
 (a) *Compensation for disability due to undiagnosed illness and medically unexplained chronic multisymptom illnesses.* (1) Except as provided in paragraph (a)(7) of this section, VA will pay compensation in accordance with chapter 11 of title 38, United States Code, to a Persian Gulf veteran who exhibits objective indications of a qualifying chronic disability, provided that such disability:
 
-(i) Became manifest either during active military, naval, or air service in the Southwest Asia theater of operations, or to a degree of 10 percent or more not later than December 31, 2021; and
+(i) Became manifest either during active military, naval, or air service in the Southwest Asia theater of operations, or to a degree of 10 percent or more not later than December 31, 2026; and
 
 (ii) By history, physical examination, and laboratory tests cannot be attributed to any known clinical diagnosis.
 
@@ -108,8 +108,6 @@ Functional gastrointestinal disorders are a group of conditions characterized by
 
 (2) If a veteran presumed service connected for one of the diseases listed in paragraph (c)(2) of this section is diagnosed with one of the diseases listed in column “B” in the table within the time period specified for the disease in the same table, if a time period is specified or, otherwise, at any time, VA will request a medical opinion as to whether it is at least as likely as not that the condition was caused by the veteran having had the associated disease in column “A” in that same table.
 
-Table to § 3.317 - Long-Term Health Effects Potentially Associated With Infectious Diseases
-
 |             A             |                                                                              B                                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          Disease          |                                                                                                                                                             |
@@ -166,4 +164,4 @@ Table to § 3.317 - Long-Term Health Effects Potentially Associated With Infecti
 
 (2) The *Southwest Asia theater of operations* refers to Iraq, Kuwait, Saudi Arabia, the neutral zone between Iraq and Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, Oman, the Gulf of Aden, the Gulf of Oman, the Persian Gulf, the Arabian Sea, the Red Sea, and the airspace above these locations.
 
-(Authority: 38 U.S.C. 1117, 1118)[75 FR 59970, Sept. 29, 2010, as amended at 75 FR 61356, Oct. 5, 2010; 75 FR 61997, Oct. 7, 2010; 76 FR 41698, July 15, 2011; 76 FR 81836, Dec. 29, 2011; 81 FR 71384, Oct. 17, 2016]
+(Authority: 38 U.S.C. 1117, 1118)[75 FR 59970, Sept. 29, 2010, as amended at 75 FR 61356, Oct. 5, 2010; 75 FR 61997, Oct. 7, 2010; 76 FR 41698, July 15, 2011; 76 FR 81836, Dec. 29, 2011; 81 FR 71384, Oct. 17, 2016; 86 FR 51001, Sept. 14, 2021]

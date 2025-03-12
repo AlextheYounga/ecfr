@@ -1,5 +1,7 @@
 ##### § 431.196 Energy conservation standards and their effective dates. #####
 
+Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
+
 (a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 |Single-phase|Three-phase|     |    |
