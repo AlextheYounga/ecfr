@@ -1,5 +1,7 @@
 ##### § 121.418 Differences training and related aircraft differences training. #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) *Differences training.* (1) Differences training for crewmembers and dispatchers must consist of at least the following as applicable to their assigned duties and responsibilities:
 
 (i) Instruction in each appropriate subject or part thereof required for initial ground training in the airplane unless the Administrator finds that particular subjects are not necessary.

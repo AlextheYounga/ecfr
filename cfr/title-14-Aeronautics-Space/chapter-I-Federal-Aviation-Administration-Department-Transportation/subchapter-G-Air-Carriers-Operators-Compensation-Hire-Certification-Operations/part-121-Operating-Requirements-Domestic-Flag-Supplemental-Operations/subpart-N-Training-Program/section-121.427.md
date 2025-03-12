@@ -1,5 +1,7 @@
 ##### § 121.427 Recurrent training. #####
 
+Link to an amendment published at 85 FR 10924, Feb. 25, 2020.
+
 (a) Recurrent training must ensure that each crew member or dispatcher is adequately trained and currently proficient with respect to the type airplane (including differences training, if applicable) and crewmember position involved.
 
 (b) Recurrent ground training for crewmembers and dispatchers must include at least the following:

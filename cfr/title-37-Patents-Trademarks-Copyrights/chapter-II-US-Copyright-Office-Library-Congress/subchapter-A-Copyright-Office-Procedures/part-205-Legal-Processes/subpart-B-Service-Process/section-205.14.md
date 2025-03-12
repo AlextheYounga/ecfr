@@ -1,3 +1,3 @@
 ##### § 205.14 xxx #####
 
-Link to an amendment published at 82 FR 9365, February 6, 2017.
+Link to an amendment published at 85 FR 10605, Feb. 25, 2020.

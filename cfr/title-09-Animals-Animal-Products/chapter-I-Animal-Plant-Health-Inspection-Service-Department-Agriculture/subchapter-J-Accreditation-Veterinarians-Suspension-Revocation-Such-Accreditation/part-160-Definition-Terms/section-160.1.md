@@ -1,5 +1,7 @@
 ##### § 160.1 Definitions. #####
 
+Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
+
 For the purposes of this subchapter the following words, phrases, names and terms shall be construed, respectively, to mean:
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this subchapter to perform functions specified in subchapters B, C, and D of this chapter.

@@ -1,7 +1,5 @@
 ##### § 155.330 Eligibility redetermination during a benefit year. #####
 
-Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
-
 (a) *General requirement.* The Exchange must redetermine the eligibility of an enrollee in a QHP through the Exchange during the benefit year if it receives and verifies new information reported by an enrollee or identifies updated information through the data matching described in paragraph (d) of this section.
 
 (b) *Requirement for individuals to report changes.* (1) Except as specified in paragraphs (b)(2) and (3) of this section, the Exchange must require an enrollee to report any change with respect to the eligibility standards specified in § 155.305 within 30 days of such change.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
 
 (2) Provide periodic electronic notifications regarding the requirements for reporting changes and an enrollee's opportunity to report any changes as described in paragraph (b)(3) of this section, to an enrollee who has elected to receive electronic notifications, unless he or she has declined to receive notifications under this paragraph (c)(2).
 
-(d) *Periodic examination of data sources.* (1) The Exchange must periodically examine available data sources described in §§ 155.315(b)(1) and (b) to identify the following changes:
+(d) *Periodic examination of data sources* - (1) *General requirement.* Subject to paragraph (d)(3) of this section, the Exchange must periodically examine available data sources described in §§ 155.315(b)(1) and 155.320(b) to identify the following changes:
 
 (i) Death; and
 
@@ -29,6 +27,8 @@ Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
 (i) Would reduce the administrative costs and burdens on individuals while maintaining accuracy and minimizing delay, that it would not undermine coordination with Medicaid and CHIP, and that applicable requirements under §§ 155.260, 155.270, 155.315(i), and section 6103 of the Code with respect to the confidentiality, disclosure, maintenance, or use of such information will be met; and
 
 (ii) Comply with the standards specified in paragraph (e)(2) of this section.
+
+(3) *Definition of periodically.* Beginning with the 2021 calendar year, the Exchange must perform the periodic examination of data sources described in paragraph (d)(1)(ii) of this section at least twice in a calendar year. State Exchanges that have implemented a fully integrated eligibility system with their respective State Medicaid programs, that have a single eligibility rules engine that uses MAGI to determine eligibility for advance payments of the premium tax credit, cost-sharing reductions, Medicaid, CHIP, and the BHP, if a BHP is operating in the service area of the Exchange, will be deemed in compliance with the Medicaid/CHIP PDM requirements and, if applicable, BHP PDM requirements, in paragraphs (d)(1)(ii) and (d)(3) of this section.
 
 (e) *Redetermination and notification of eligibility* - (1) *Enrollee-reported data.* If the Exchange verifies updated information reported by an enrollee, the Exchange must -
 
@@ -90,4 +90,4 @@ Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
 
 (2) When an eligibility redetermination in accordance with this section results in a change in cost-sharing reductions, the Exchange must determine an individual eligible for the category of cost-sharing reductions that corresponds to his or her expected annual household income for the benefit year (subject to the special rule for family policies set forth in § 155.305(g)(3)).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014; 81 FR 94177, Dec. 22, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014; 81 FR 94177, Dec. 22, 2016; 84 FR 71710, Dec. 27, 2019]

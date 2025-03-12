@@ -1,5 +1,7 @@
 ##### § 121.434 Operating experience, operating cycles, and consolidation of knowledge and skills. #####
 
+Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
+
 (a) No certificate holder may use a person nor may any person serve as a required crewmember of an airplane unless the person has satisfactorily completed, on that type airplane and in that crewmember position, the operating experience, operating cycles, and the line operating flight time for consolidation of knowledge and skills, required by this section, except as follows:
 
 (1) Crewmembers other than pilots in command may serve as provided herein for the purpose of meeting the requirements of this section.

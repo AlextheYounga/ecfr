@@ -1,5 +1,7 @@
 ##### § 121.415 Crewmember and dispatcher training program requirements. #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) Each training program must provide the following ground training as appropriate to the particular assignment of the crewmember or dispatcher:
 
 (1) Basic indoctrination ground training for newly hired crewmembers or dispatchers including 40 programmed hours of instruction, unless reduced under § 121.405 or as specified in § 121.401(d), in at least the following -

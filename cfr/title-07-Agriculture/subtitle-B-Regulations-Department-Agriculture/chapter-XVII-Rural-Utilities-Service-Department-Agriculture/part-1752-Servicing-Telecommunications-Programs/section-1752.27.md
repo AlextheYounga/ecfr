@@ -1,0 +1,3 @@
+##### § 1752.27 Confidentiality of borrower information. #####
+
+Borrowers are encouraged to identify and label any confidential and proprietary information contained in their applications. The Agency will protect confidential and proprietary information from public disclosure to the fullest extent authorized by applicable law, including the Freedom of Information Act, as amended (5 U.S.C. 552), the Trade Secrets Act, as amended (18 U.S.C. 1905), the Economic Espionage Act of 1996 (18 U.S.C. 1831 *et seq.*), and Communications Assistance for Law Enforcement Act (CALEA) (47 U.S.C. 1001 *et seq.*).

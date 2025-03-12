@@ -1,0 +1,3 @@
+##### § 1752.1 Purpose. #####
+
+This part prescribes the policies and procedures for loan and grant servicing for financial assistance made under the Rural Utilities Service (RUS) Telecommunications Infrastructure Loan Program, Rural Broadband Program, Distance Learning and Telemedicine Program, Broadband Initiatives Program, and the Rural e-Connectivity Pilot Program (in this part collectively referred to as the “RUS Telecommunications Programs”).

@@ -1,5 +1,7 @@
 ##### § 622.176 Recordkeeping and reporting. #####
 
+Link to an amendment published at 85 FR 10339, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.
+
 (a) *Commercial vessel owners and operators* - (1) *General reporting requirements.* The owner or operator of a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(a)(1), or whose vessel fishes for or lands South Atlantic snapper-grouper in or from state waters adjoining the South Atlantic EEZ, who is selected to report by the SRD must maintain a fishing record on a form available from the SRD and must submit such record as specified in paragraph (a)(4) of this section.
 
 (2) *Electronic logbook/video monitoring reporting.* The owner or operator of a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(a)(1), who is selected to report by the SRD must participate in the NMFS-sponsored electronic logbook and/or video monitoring reporting program as directed by the SRD. Compliance with the reporting requirements of this paragraph (a)(2) is required for permit renewal.

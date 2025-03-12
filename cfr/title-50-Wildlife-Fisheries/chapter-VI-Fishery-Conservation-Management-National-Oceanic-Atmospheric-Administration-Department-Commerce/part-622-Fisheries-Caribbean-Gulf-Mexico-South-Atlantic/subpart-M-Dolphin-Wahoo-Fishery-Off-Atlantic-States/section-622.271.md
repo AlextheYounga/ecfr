@@ -1,5 +1,7 @@
 ##### § 622.271 Recordkeeping and reporting. #####
 
+Link to an amendment published at 85 FR 10340, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.
+
 (a) *Commercial vessel owners and operators* - (1) *Reporting requirement.* The owner or operator of a vessel for which a commercial permit for Atlantic dolphin and wahoo has been issued, as required under § 622.270(a)(1), or whose vessel fishes for or lands Atlantic dolphin or wahoo in or from state waters adjoining the Atlantic EEZ, who is selected to report by the SRD must maintain a fishing record on a form available from the SRD and must submit such record as specified in paragraph (a)(2) of this section.
 
 (2) *Reporting deadlines.* Completed fishing records required by paragraph (a)(1) of this section must be submitted to the SRD postmarked not later than 7 days after the end of each fishing trip. If no fishing occurred during a calendar month, a report so stating must be submitted on one of the forms postmarked not later than 7 days after the end of that month. Information to be reported is indicated on the form and its accompanying instructions.

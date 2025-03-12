@@ -1,5 +1,7 @@
 ##### § 121.419 Pilots and flight engineers: Initial, transition, and upgrade ground training. #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) Except as provided in paragraph (b) of this section, initial, transition, and upgrade ground training for pilots and flight engineers must include instruction in at least the following as applicable to their assigned duties:
 
 (1) General subjects -

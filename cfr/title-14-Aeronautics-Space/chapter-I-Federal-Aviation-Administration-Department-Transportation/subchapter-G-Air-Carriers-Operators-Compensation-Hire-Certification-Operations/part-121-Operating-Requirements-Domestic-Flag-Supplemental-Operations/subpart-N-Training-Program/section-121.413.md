@@ -1,5 +1,7 @@
 ##### § 121.413 Initial, transition and recurrent training and checking requirements: Check airmen (airplane), check airmen (simulator). #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) No certificate holder may use a person nor may any person serve as a check airman unless -
 
 (1) That person has satisfactorily completed initial or transition check airman training; and

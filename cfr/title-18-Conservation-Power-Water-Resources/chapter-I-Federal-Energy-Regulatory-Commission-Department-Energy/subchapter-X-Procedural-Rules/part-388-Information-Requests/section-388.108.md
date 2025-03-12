@@ -22,11 +22,11 @@
 
 (b)(1) *Multitrack processing.* Upon receipt of a request, the Director, Office of External Affairs, will place the request in one of three tracks for processing:
 
-(i) Track One - records that are readily identifiable and were previously cleared for release (including those subject to multiple requests and placed in the Public Reference Room);
+(i) Track One—records that are readily identifiable and were previously cleared for release (including those subject to multiple requests and placed in the Public Reference Room);
 
-(ii) Track Two - records that are readily identifiable, and require limited review; and
+(ii) Track Two—records that are readily identifiable, and require limited review; and
 
-(iii) Track Three - complex and/or voluminous records requiring a significant search and/or review.
+(iii) Track Three—complex and/or voluminous records requiring a significant search and/or review.
 
 (2) Each track specified in paragraph (b)(1) of this section will be processed on a first in, first out basis, where practicable. A requester may modify a request to obtain processing on a faster track.
 

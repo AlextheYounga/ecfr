@@ -1,5 +1,7 @@
 ##### § 121.425 Flight engineers: Initial and transition flight training. #####
 
+Link to an amendment published at 85 FR 10923, Feb. 25, 2020.
+
 (a) Initial and transition flight training for flight engineers must include at least the following:
 
 (1) Training and practice in procedures related to the carrying out of flight engineer duties and functions. This training and practice may be accomplished either inflight, in an airplane simulator, or in a training device.

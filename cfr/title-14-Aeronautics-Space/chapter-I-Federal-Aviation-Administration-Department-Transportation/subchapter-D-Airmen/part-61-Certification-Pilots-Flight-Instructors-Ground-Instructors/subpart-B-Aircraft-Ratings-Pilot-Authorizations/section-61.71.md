@@ -1,5 +1,7 @@
 ##### § 61.71 Graduates of an approved training program other than under this part: Special rules. #####
 
+Link to an amendment published at 85 FR 10920, Feb. 25, 2020.
+
 (a) A person who graduates from an approved training program under part 141 or part 142 of this chapter is considered to have met the applicable aeronautical experience, aeronautical knowledge, and areas of operation requirements of this part if that person presents the graduation certificate and passes the required practical test within the 60-day period after the date of graduation.
 
 (b) A person may apply for an airline transport pilot certificate, type rating, or both under this part, and will be considered to have met the applicable requirements under § 61.157, except for the airline transport pilot certification training program required by § 61.156, for that certificate and rating, if that person has:

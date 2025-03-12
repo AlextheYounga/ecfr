@@ -1,5 +1,7 @@
 ##### § 121.433 Training required. #####
 
+Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
+
 (a) *Initial training.* No certificate holder may use any person nor may any person serve as a required crewmember on an airplane unless that person has satisfactorily completed, in a training program approved under subpart N of this part, initial ground and flight training for that type airplane and for the particular crewmember position, except as follows:
 
 (1) Crewmembers who have qualified and served as a crewmember on another type airplane of the same group may serve in the same crewmember capacity upon completion of transition training as provided in § 121.415.

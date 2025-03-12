@@ -1,5 +1,7 @@
 ##### § 121.432 General. #####
 
+Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
+
 (a) Except in the case of operating experience under § 121.434, a pilot who serves as second in command of an operation that requires three or more pilots must be fully qualified to act as pilot in command of that operation.
 
 (b) No certificate holder may conduct a check or any training in operations under this part, except for the following checks and training required by this part or the certificate holder:

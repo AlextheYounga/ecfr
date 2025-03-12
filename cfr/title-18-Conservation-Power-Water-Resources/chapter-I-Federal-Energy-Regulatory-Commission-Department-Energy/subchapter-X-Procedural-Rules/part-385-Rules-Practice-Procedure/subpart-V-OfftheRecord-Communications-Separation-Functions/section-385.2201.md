@@ -72,7 +72,7 @@
 
 (2) Except as may be provided by Commission order in a proceeding to which this subpart applies, the exceptions listed under paragraph (e)(1) will not apply to any off-the-record communications made to or by a presiding officer in any proceeding set for hearing under subpart E of this part.
 
-(f) *Treatment of prohibited off-the-record communications* - (1) *Commission consideration.* Prohibited off-the-record communications will not be considered part of the record for decision in the applicable Commission proceeding, except to the extent that the Commission by order determines otherwise.
+(f) *Treatment of prohibited off-the-record communications*—(1) *Commission consideration.* Prohibited off-the-record communications will not be considered part of the record for decision in the applicable Commission proceeding, except to the extent that the Commission by order determines otherwise.
 
 (2) *Disclosure requirement.* Any decisional employee who makes or receives a prohibited off-the-record communication will promptly submit to the Secretary that communication, if written, or a summary of the substance of that communication, if oral. The Secretary will place the communication or the summary in the public file associated with, but not part of, the decisional record of the proceeding.
 

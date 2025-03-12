@@ -1,6 +1,6 @@
 ##### § 388.109 Fees for record requests. #####
 
-(a) *Fees for records available through the Public Reference Room* - 1) *General rule.* The fee for finding and duplicating records available in the Commission's Public Reference Room will vary depending on the size and complexity of the request. A person can obtain a copy of the schedule of fees in person or by mail from the Public Reference Room. This schedule is also available on the Commission's Web site. Copies of documents also may be made on self-service duplicating machines located in the Public Reference Room. In addition, copies of data extracted from the Commission's files through electronic media are available on a reimbursable basis, upon written request to the Public Reference Room.
+(a) *Fees for records available through the Public Reference Room*—(1) *General rule.* The fee for finding and duplicating records available in the Commission's Public Reference Room will vary depending on the size and complexity of the request. A person can obtain a copy of the schedule of fees in person or by mail from the Public Reference Room. This schedule is also available on the Commission's Web site. Copies of documents also may be made on self-service duplicating machines located in the Public Reference Room. In addition, copies of data extracted from the Commission's files through electronic media are available on a reimbursable basis, upon written request to the Public Reference Room.
 
 (2) Stenographic reports of Commission hearings are made by a private contractor. Interested persons may obtain copies of public hearing transcripts from the contractor at prices set in the contract, or through the search and duplication service noted above. Copies of the contract are available for public inspection in the Public Reference Room.
 
@@ -34,7 +34,7 @@
 
 (3) *Fees for unsuccessful search.* The Commission may assess charges for time spent searching, even if it fails to locate the records, or if records located are determined to be exempt from disclosure. If the Commission estimates that search charges are likely to exceed $25, it will notify the requester of the estimated amount of search fees, unless the requester has indicated in advance willingness to pay fees as high as those anticipated. The requester can meet with Commission personnel with the object of reformulating the request to meet his or her needs at a lower cost.
 
-(4) *Interest - notice and rate.* The Commission will assess interest charges on an unpaid bill starting on the 31st day following the day on which the billing was sent. Interest will be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of the billing.
+(4) *Interest—notice and rate.* The Commission will assess interest charges on an unpaid bill starting on the 31st day following the day on which the billing was sent. Interest will be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of the billing.
 
 (5) *Advance payments.* The Commission will require a requester to make an advance payment, *i.e.*, payments before work is commenced or continued on a request, if:
 
@@ -68,7 +68,7 @@
 
 (d) *Debt collection.* The Commission will use the authorities mandated in the Debt Collection Act of 1982, 31 U.S.C. 3711, 3716-3719 (1982), including disclosure to consumer reporting agencies and use of collection agencies, where appropriate, to encourage payment of outstanding unpaid FOIA invoices.
 
-(e) *Annual adjustment of fees* - 1) *Update and publication.* The Commission, by its designee, the Executive Director, will update the fees established in this section each fiscal year. The Executive Director will publish the fees in the Federal Register.
+(e) *Annual adjustment of fees*—(1) *Update and publication.* The Commission, by its designee, the Executive Director, will update the fees established in this section each fiscal year. The Executive Director will publish the fees in the Federal Register.
 
 (2) *Payment of updated fees.* The fee applicable to a particular Freedom of Information Act request will be the fee in effect on the date that the request is received.
 

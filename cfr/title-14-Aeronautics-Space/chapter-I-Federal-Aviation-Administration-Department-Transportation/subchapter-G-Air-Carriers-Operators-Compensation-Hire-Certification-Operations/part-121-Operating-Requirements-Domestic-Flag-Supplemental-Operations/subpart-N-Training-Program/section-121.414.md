@@ -1,5 +1,7 @@
 ##### § 121.414 Initial, transition and recurrent training and checking requirements: flight instructors (airplane), flight instructors (simulator). #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) No certificate holder may use a person nor may any person serve as a flight instructor unless -
 
 (1) That person has satisfactorily completed initial or transition flight instructor training; and

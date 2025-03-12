@@ -1,5 +1,7 @@
 ##### § 121.417 Crewmember emergency training. #####
 
+Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+
 (a) Each training program must provide the emergency training set forth in this section with respect to each airplane type, model, and configuration, each required crewmember, and each kind of operation conducted, insofar as appropriate for each crewmember and the certificate holder.
 
 (b) Emergency training must provide the following:

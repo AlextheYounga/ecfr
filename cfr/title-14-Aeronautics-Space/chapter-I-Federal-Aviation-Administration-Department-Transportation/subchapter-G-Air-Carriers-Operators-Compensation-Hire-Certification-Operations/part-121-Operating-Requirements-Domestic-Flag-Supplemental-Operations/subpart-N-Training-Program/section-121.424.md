@@ -1,5 +1,7 @@
 ##### § 121.424 Pilots: Initial, transition, and upgrade flight training. #####
 
+Link to an amendment published at 85 FR 10923, Feb. 25, 2020.
+
 (a) Initial, transition, and upgrade training for pilots must include the following:
 
 (1) Flight training and practice in the maneuvers and procedures set forth in the certificate holder's approved low-altitude windshear flight training program and in appendix E to this part, as applicable; and

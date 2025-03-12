@@ -1,5 +1,7 @@
 ##### § 622.13 Prohibitions - general. #####
 
+Link to an amendment published at 85 FR 10339, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.
+
 In addition to the general prohibitions in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Engage in an activity for which a valid Federal permit, license, or endorsement is required under this part without such permit, license, or endorsement.

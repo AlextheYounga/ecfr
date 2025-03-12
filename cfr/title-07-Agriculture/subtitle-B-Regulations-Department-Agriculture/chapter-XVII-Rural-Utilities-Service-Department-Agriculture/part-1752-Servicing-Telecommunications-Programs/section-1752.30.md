@@ -1,0 +1,3 @@
+##### § 1752.30 Information collection and reporting requirements. #####
+
+Copies of all forms and instructions referenced in this part may be obtained from RUS. Data furnished by Borrowers will be used to determine eligibility for certain servicing actions. Furnishing the data is voluntary; however, the failure to provide data could result in a servicing action being denied or the Agency taking adverse action against the Borrower to collect funds. The collection of information is vital to RUS to ensure compliance with the provisions of this part. The information collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under OMB Control Number 0572-0153.

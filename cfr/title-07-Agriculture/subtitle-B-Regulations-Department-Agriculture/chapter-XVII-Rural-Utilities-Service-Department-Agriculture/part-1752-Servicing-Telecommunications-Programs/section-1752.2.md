@@ -1,0 +1,3 @@
+##### § 1752.2 Objectives. #####
+
+The purpose of loan and grant servicing functions is to assist recipients to meet the objectives of loans and grants, repay loans on schedule, comply with agreements and protect RUS' financial interests. The provisions of this part will ensure recipients comply with any revised terms in repayment on loans and ensures serving actions are handled consistently by the Agency.

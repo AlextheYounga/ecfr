@@ -1,5 +1,7 @@
 ##### § 121.441 Proficiency checks. #####
 
+Link to an amendment published at 85 FR 10926, Feb. 25, 2020.
+
 (a) No certificate holder may use any person nor may any person serve as a required pilot flight crewmember unless that person has satisfactorily completed either a proficiency check, or an approved simulator course of training under § 121.409, as follows:
 
 (1) For a pilot in command -

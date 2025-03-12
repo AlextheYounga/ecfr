@@ -1,5 +1,7 @@
 ##### § 161.1 Statement of purpose; requirements and application procedures for accreditation. #####
 
+Link to an amendment published at 85 FR 10564, Feb. 25, 2020.
+
 (a) This subchapter concerns a program administered by APHIS to accredit veterinarians and thereby authorize them to perform, on behalf of APHIS, certain activities specified in this chapter. This program is intended to ensure that an adequate number of qualified veterinarians are available in the United States to perform such activities.
 
 (b) *Categories of accreditation.* A veterinarian may be accredited as a Category I veterinarian or a Category II veterinarian. A veterinarian who is accredited under Category I is only authorized to perform accredited duties on Category I animals, as defined in § 160.1. A veterinarian who is accredited under Category II is authorized to perform accredited duties on both Category I animals and Category II animals.

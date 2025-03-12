@@ -1,5 +1,7 @@
 ##### § 121.407 Training program: Approval of airplane simulators and other training devices. #####
 
+Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
+
 (a) Each airplane simulator and other training device used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
 
 (1) Be specifically approved by the Administrator for -

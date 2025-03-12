@@ -1,6 +1,4 @@
-##### § 156.280 Segregation of funds for abortion services. #####
-
-Link to an amendment published at 84 FR 71710, Dec. 27, 2019.Link to a correction published at 85 FR 2888, Jan. 17, 2020.
+##### § 156.280 Separate billing and segregation of funds for abortion services. #####
 
 (a) *State opt-out of abortion coverage.* A QHP issuer must comply with a State law that prohibits abortion coverage in QHPs.
 
@@ -30,7 +28,13 @@ Link to an amendment published at 84 FR 71710, Dec. 27, 2019.Link to a correctio
 
 (B) An amount equal to the actuarial value of the coverage of services described in paragraph (d)(1) of this section.
 
-(ii) Deposit all such separate payments into separate allocation accounts as provided in paragraph (e)(3) of this section. In the case of an enrollee whose premium for coverage under the QHP is paid through employee payroll deposit, the separate payments required under this subparagraph shall each be paid by a separate deposit.
+(ii) Beginning on or before the first billing cycle following June 27, 2020, to satisfy the obligation in paragraph (e)(2)(i) of this section -
+
+(A) Send to each policy holder of a QHP monthly bills for each of the amounts specified in paragraphs (e)(2)(i)(A) and (B) of this section, either by sending separate paper bills which may be in the same envelope or mailing, or by sending separate bills electronically, which must be in separate emails or electronic communications; and
+
+(B) Instruct the policy holder to pay each of the amounts specified in paragraphs (e)(2)(i)(A) and (B) of this section through separate transactions. Notwithstanding this instruction, if the policy holder fails to pay each of these amounts in a separate transaction as instructed by the issuer, the issuer may not refuse the payment and initiate a grace period or terminate the policy holder's QHP coverage on this basis.
+
+(iii) Deposit all such separate payments into separate allocation accounts as provided in paragraph (e)(3) of this section. In the case of an enrollee whose premium for coverage under the QHP is paid through employee payroll deposit, the separate payments required under paragraph (e)(2)(i) of this section shall each be paid by a separate deposit.
 
 (3) *Segregation of funds.* (i) The QHP issuer to which paragraph (e)(1) of this section applies must establish allocation accounts described in paragraph (e)(3)(ii) of this section for enrollees receiving the amounts described in paragraph (e)(1) of this section.
 
@@ -81,3 +85,5 @@ Link to an amendment published at 84 FR 71710, Dec. 27, 2019.Link to a correctio
 (3) *No effect on Federal civil rights law.* Nothing in section 1303(c) of the Affordable Care Act shall alter the rights and obligations of employees and employers under Title VII of the Civil Rights Act of 1964.
 
 (i) *Application of emergency services laws.* Nothing in the Affordable Care Act shall be construed to relieve any health care provider from providing emergency services as required by State or Federal law, including section 1867 of the Act (popularly known as “EMTALA”).
+
+[77 FR 18469, Mar. 27, 2012, as amended at 84 FR 71710, Dec. 27, 2019; 85 FR 2888, Jan. 17, 2020]

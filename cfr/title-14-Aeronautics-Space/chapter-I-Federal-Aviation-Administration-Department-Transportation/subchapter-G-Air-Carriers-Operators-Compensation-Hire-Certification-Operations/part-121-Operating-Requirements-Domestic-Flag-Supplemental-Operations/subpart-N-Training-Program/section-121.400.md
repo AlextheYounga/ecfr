@@ -1,5 +1,7 @@
 ##### § 121.400 Applicability and terms used. #####
 
+Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
+
 (a) This subpart prescribes the requirements applicable to each certificate holder for establishing and maintaining a training program for crewmembers, aircraft dispatchers, and other operations personnel, and for the approval and use of training devices in the conduct of the program.
 
 (b) For the purpose of this subpart, airplane groups are as follows:
