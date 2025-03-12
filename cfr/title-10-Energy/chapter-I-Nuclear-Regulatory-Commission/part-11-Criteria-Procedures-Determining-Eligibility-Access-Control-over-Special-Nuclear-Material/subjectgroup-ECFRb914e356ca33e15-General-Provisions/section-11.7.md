@@ -1,5 +1,7 @@
 ##### § 11.7 Definitions. #####
 
+Link to an amendment published at 87 FR 45239, July 28, 2022.
+
 As used in this part:
 
 Terms defined in parts 10, 25, 50, 70, 72, 73, and 95 of this chapter have the same meaning when used in this part.
