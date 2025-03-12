@@ -1,5 +1,7 @@
 ##### § 4022.63 Estimated title IV benefit. #####
 
+Link to an amendment published at 83 FR 49805, Oct. 3, 2018.
+
 (a) *General.* If the conditions specified in paragraph (b) exist, the plan administrator shall determine each participant's estimated title IV benefit. The estimated title IV benefit payable with respect to each participant who is not a substantial owner is computed under paragraph (c) of this section. The estimated title IV benefit payable with respect to each participant who is a substantial owner is computed under paragraph (d) of this section.
 
 (b) *Conditions for use of this section.* The conditions set forth in this paragraph must be satisfied in order to make use of the procedures set forth in this section. If the specified conditions exist, estimated title IV benefits must be determined in accordance with these procedures (or in accordance with alternative procedures authorized by the PBGC under § 4022.61(f)) for each participant and beneficiary whose benefit under the plan exceeds the limitations contained in § 4022.61(b) or (c) or who is a substantial owner or the beneficiary of a substantial owner. If the specified conditions do not exist, title IV benefits may be estimated by the plan administrator in accordance with procedures authorized by the PBGC, but no such estimate is required. The conditions are as follows:

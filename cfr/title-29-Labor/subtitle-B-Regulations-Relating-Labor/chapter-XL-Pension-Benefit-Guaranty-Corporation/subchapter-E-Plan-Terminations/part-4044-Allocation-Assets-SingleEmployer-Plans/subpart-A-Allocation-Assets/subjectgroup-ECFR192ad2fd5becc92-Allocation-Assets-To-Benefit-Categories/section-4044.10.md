@@ -1,5 +1,7 @@
 ##### § 4044.10 Manner of allocation. #####
 
+Link to an amendment published at 83 FR 49806, Oct. 3, 2018.
+
 (a) *General.* The plan administrator shall allocate plan assets available to pay for benefits under the plan using the rules and procedures set forth in paragraphs (b) through (f) of this section, or any other procedure that results in each participant (or beneficiary) receiving the same benefits he or she would receive if the procedures in paragraphs (b) through (f) were followed.
 
 (b) *Assigning benefits.* The basic-type and nonbasic-type benefits payable with respect to each participant in a terminated plan shall be assigned to one or more priority categories in accordance with §§ 4044.11 through 4044.16. Benefits derived from voluntary employee contributions, which are assigned only to priority category 1, are treated, under section 204(c)(4) of ERISA and section 411(d)(5) of the Code, as benefits under a separate plan. The amount of a benefit payable with respect to each participant shall be determined as of the termination date, but, in a PPA 2006 bankruptcy termination, subject to the limitations in sections 4022(g) and 4044(e) of ERISA (and corresponding provisions of these regulations).

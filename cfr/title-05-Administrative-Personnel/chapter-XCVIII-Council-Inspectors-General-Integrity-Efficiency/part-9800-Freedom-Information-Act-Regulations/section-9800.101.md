@@ -1,0 +1,7 @@
+##### § 9800.101 General provisions. #####
+
+(a) *In general.* This part contains the rules that the Council of the Inspectors General on Integrity and Efficiency (CIGIE) follows in processing requests for records under the Freedom of Information Act (FOIA), 5 U.S.C. 552. These rules should be read in conjunction with the text of FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (OMB Guidelines). Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed under part 9801 as well as under this part.
+
+(b) *Centralized system.* CIGIE has a centralized system for processing FOIA requests, with one office receiving and coordinating the processing of all FOIA requests made to CIGIE.
+
+(c) *Authority to grant or deny requests.* The Executive Director of CIGIE, or designee, is authorized to grant or deny any requests for records that are maintained by CIGIE. For purposes of any request for records maintained by the CIGIE Integrity Committee (IC) established under section 11(d) of the Inspector General Act of 1978, as amended, 5 U.S.C. app. (Inspector General Act), the designees are the IC Chairperson and IC Vice Chairperson.

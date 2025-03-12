@@ -1,5 +1,7 @@
 ##### § 4022.25 Five-year phase-in of benefit guarantee for participants other than substantial owners. #####
 
+Link to an amendment published at 83 FR 49804, Oct. 3, 2018.
+
 (a) *Scope.* This section applies to the guarantee of benefit increases which have been in effect for less than five years with respect to participants other than substantial owners.
 
 (b) *Phase-in formula.* The amount of a benefit increase computed pursuant to § 4022.24 shall be guaranteed to the extent provided in the following formula: the number of years the benefit increase has been in effect, not to exceed five, multiplied by the greater of (1) 20 percent of the amount computed pursuant to § 4022.24; or (2) $20 per month.

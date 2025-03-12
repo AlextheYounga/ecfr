@@ -1,5 +1,7 @@
 ##### § 4022.24 Benefit increases. #####
 
+Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
+
 (a) *Scope.* This section applies:
 
 (1) To all benefit increases, as defined in § 4022.2, payable with respect to a participant other than a substantial owner, which have been in effect for less than five years preceding the termination date; and

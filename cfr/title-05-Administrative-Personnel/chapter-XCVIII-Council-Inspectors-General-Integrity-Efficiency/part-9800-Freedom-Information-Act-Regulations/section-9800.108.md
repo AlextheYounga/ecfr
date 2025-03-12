@@ -1,0 +1,3 @@
+##### § 9800.108 Preservation of records. #####
+
+CIGIE will preserve all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code and the relevant approved records retention schedule. Records shall not be disposed of or destroyed while they are the subject of a pending request, appeal, or lawsuit under FOIA.

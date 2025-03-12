@@ -1,5 +1,7 @@
 ##### § 4043.2 Definitions. #####
 
+Link to an amendment published at 83 FR 49806, Oct. 3, 2018.
+
 The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, irrevocable commitment, multiemployer plan, PBGC, person, plan, plan administrator, plan year, single-employer plan, and substantial owner.
 
 In addition, for purposes of this part:

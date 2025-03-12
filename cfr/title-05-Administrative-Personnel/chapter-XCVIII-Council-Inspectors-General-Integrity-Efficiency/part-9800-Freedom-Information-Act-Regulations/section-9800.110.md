@@ -1,0 +1,3 @@
+##### § 9800.110 Public reading room. #####
+
+CIGIE maintains an electronic public reading room on its website, *http://www.ignet.gov,* which contains the records that FOIA requires be regularly made available for public inspection and copying, as well as additional records of interest to the public. CIGIE is responsible for determining which of its records must be made publicly available, for identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. CIGIE must ensure that its website of posted records and indices is reviewed and updated on an ongoing basis. CIGIE's FOIA Public Liaison can assist individuals in locating records at CIGIE.

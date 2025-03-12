@@ -1,5 +1,7 @@
 ##### § 4022.2 Definitions. #####
 
+Link to an amendment published at 83 FR 49803, Oct. 3, 2018.
+
 The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, Code, employer, ERISA, guaranteed benefit, mandatory employee contributions, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, plan year, PPA 2006 bankruptcy termination, proposed termination date, statutory hybrid plan, substantial owner, and title IV benefit.
 
 In addition, for purposes of this part (unless otherwise required by the context):

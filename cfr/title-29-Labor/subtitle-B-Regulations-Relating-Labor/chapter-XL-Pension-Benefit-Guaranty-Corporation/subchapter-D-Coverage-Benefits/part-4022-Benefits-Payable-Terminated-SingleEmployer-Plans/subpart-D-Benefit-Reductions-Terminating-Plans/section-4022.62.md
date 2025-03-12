@@ -1,5 +1,7 @@
 ##### § 4022.62 Estimated guaranteed benefit. #####
 
+Link to an amendment published at 83 FR 49804, Oct. 3, 2018.
+
 (a) *General.* The estimated guaranteed benefit payable with respect to each participant who is not a substantial owner is computed under paragraph (c) of this section. The estimated guaranteed benefit payable with respect to each participant who is a substantial owner is computed under paragraph (d) of this section.
 
 (b) *Rules for determining benefits.* For the purposes of determining entitlement to a benefit and the amount of the estimated benefit under this section, the following rules apply:

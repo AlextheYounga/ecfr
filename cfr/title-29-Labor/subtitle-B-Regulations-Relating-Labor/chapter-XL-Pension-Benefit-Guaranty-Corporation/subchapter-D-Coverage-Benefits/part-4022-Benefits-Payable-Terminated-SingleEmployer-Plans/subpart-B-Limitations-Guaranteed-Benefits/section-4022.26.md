@@ -1,5 +1,7 @@
 ##### § 4022.26 Phase-in of benefit guarantee for participants who are substantial owners. #####
 
+Link to an amendment published at 83 FR 49804, Oct. 3, 2018.
+
 (a) *Scope.* This section shall apply to the guarantee of all benefits described in subpart A (subject to the limitations in § 4022.21) with respect to participants who are substantial owners at the termination date or who were substantial owners at any time within the 5-year period preceding that date.
 
 (b) *Phase-in formula when there have been no benefit increases.* Benefits provided by a plan under which there has been no benefit increase, other than the adoption of the plan, shall be guaranteed to the extent provided in the following formula: The monthly amount computed under § 4022.22 multiplied by a fraction not to exceed 1, the numerator of which is the number of full years prior to the termination date that the substantial owner was an active participant under the plan, and the denominator of which is 30. Active participation under a plan commences at the later of the date on which the plan is adopted or becomes effective.
