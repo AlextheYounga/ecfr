@@ -1,5 +1,7 @@
 ##### § 1.495 Procedures and criteria for orders authorizing disclosure and use of records to investigate or prosecute VA or employees of VA. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Application.* (1) An order authorizing the disclosure or use of patient records covered by §§ 1.460 through 1.499 of this part to criminally or administratively investigate or prosecute VA (or employees or agents of VA) may be applied for by an administrative, regulatory, supervisory, investigative, law enforcement, or prosecutorial agency having jurisdiction over VA activities.
 
 (2) The application may be filed separately or as part of a pending civil or criminal action against VA (or agents or employees of VA) in which it appears that the patient records are needed to provide material evidence. The application must use a fictitious name, such as John Doe, to refer to any patient and may not contain or otherwise disclose any patient identifying information unless the court has ordered the record of the proceeding sealed from public scrutiny or the patient has given a written consent (meeting the requirements of § 1.475 of this part) to that disclosure.

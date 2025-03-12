@@ -1,5 +1,7 @@
 ##### § 1.59A-1 Base erosion and anti-abuse tax. #####
 
+Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
+
 (a) *Purpose.* This section and §§ 1.59A-2 through 1.59A-10 (collectively, the “section 59A regulations”) provide rules under section 59A to determine the amount of the base erosion and anti-abuse tax. Paragraph (b) of this section provides definitions applicable to the section 59A regulations. Section 1.59A-2 provides rules regarding how to determine whether a taxpayer is an applicable taxpayer. Section 1.59A-3 provides rules regarding base erosion payments and base erosion tax benefits. Section 1.59A-4 provides rules for calculating modified taxable income. Section 1.59A-5 provides rules for calculating the base erosion minimum tax amount. Section 1.59A-6 provides rules relating to qualified derivative payments. Section 1.59A-7 provides rules regarding the application of section 59A to partnerships. Section 1.59A-8 is reserved for rules regarding the application of section 59A to certain expatriated entities. Section 1.59A-9 provides anti-abuse rules to prevent avoidance of section 59A. Finally, § 1.59A-10 provides the applicability date for the section 59A regulations.
 
 (b) *Definitions.* For purposes of this section and §§ 1.59A-2 through 1.59A-10, the following terms have the meanings provided in this paragraph (b).

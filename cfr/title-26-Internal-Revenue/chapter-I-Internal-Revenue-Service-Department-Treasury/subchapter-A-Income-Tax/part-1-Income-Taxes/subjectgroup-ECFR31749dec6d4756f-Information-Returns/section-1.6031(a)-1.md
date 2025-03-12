@@ -1,5 +1,7 @@
 ##### § 1.6031(a)-1 Return of partnership income. #####
 
+Link to an amendment published at 85 FR 64369, Oct. 9, 2020.
+
 (a) *Domestic partnerships* - (1) *Return required.* Except as provided in paragraphs (a)(3) and (c) of this section, every domestic partnership must file a return of partnership income under section 6031 (partnership return) for each taxable year on the form prescribed for the partnership return. The partnership return must be filed for the taxable year of the partnership regardless of the taxable years of the partners. For taxable years of a partnership and of a partner, see section 706 and § 1.706-1. For the rules governing partnership statements to partners and nominees, see § 1.6031(b)-1T. For the rules requiring the disclosure of certain transactions, see § 1.6011-4T.
 
 (2) *Content of return.* The partnership return must contain the information required by the prescribed form and the accompanying instructions.

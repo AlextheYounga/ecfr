@@ -1,5 +1,7 @@
 ##### § 1.59A-0 Table of contents. #####
 
+Link to an amendment published at 85 FR 64360, Oct. 9, 2020.
+
 This section contains a listing of the headings for §§ 1.59A-1, 1.59A-2, 1.59A-3, 1.59A-4, 1.59A-5, 1.59A-6, 1.59A-7, 1.59A-8, 1.59A-9, 1.59A-10.
 
 § 1.59A-1 Base erosion and anti-abuse tax.

@@ -6,7 +6,7 @@
 
 (2) In order to receive an annual payment for a land use, participants must schedule, install, and adopt at least one additional conservation activity on the land use type;
 
-(3) At least one additional conservation activity must be implemented on one land use type within the first 12 months of the contract. NRCS may extend this timeframe if NRCS determines that the participant is unable to complete the conservation activity for reasons beyond their control;
+(3) At least one additional conservation activity must be implemented within the first 12 months of the contract. NRCS may extend this timeframe if NRCS determines that the participant is unable to complete the conservation activity for reasons beyond their control;
 
 (4) NRCS will base the annual payment rates, to the maximum extent practicable, on the following factors:
 
@@ -42,7 +42,7 @@
 
 (e) *Timing of payments.* NRCS will make payments as soon as practicable after October 1 of each fiscal year for activities carried out in the previous fiscal year. For newly enrolled contracts, NRCS will make payments as soon as practicable after October 1 following the fiscal year of enrollment.
 
-(f) *Noncompensatory matters.* NRCS will not provide a CSP payment to a participant for -
+(f) *Noncompensatory matters.* NRCS will not provide a CSP payment to a participant for—
 
 (1) New conservation activities applied with financial assistance through other USDA conservation programs;
 
@@ -50,7 +50,7 @@
 
 (3) Conservation activities for which there is no cost incurred or income foregone by the participant; or
 
-(4) Conservation activities initiated or implemented prior to contract approval, unless NRCS granted a waiver prior to the participant starting the activity.
+(4) New conservation activities initiated or implemented prior to contract approval, unless NRCS granted a waiver prior to the participant starting the activity.
 
 (g) *Payment limits.* A person or legal entity may not receive, directly or indirectly, payments that, in the aggregate, exceed $200,000 under all CSP contracts entered into during fiscal years 2019 through 2023, excluding funding arrangements with Indian Tribes, regardless of the number of contracts entered into under the CSP by the person or legal entity.
 
@@ -61,3 +61,5 @@
 (j) *Tax Identification Number.* To be eligible to receive a CSP payment, all applicants must provide a tax identification number. In accordance with 7 CFR part 1400, applicants who participate as a legal entity or joint operation must provide a list of all members of the legal entity or joint operation and associated embedded entities, along with the members' Social Security numbers and percentage interest in the legal entity or joint operation. NRCS attributes payments directly to legal entity members for the purpose of complying with paragraph (f) of this section.
 
 (k) *Unique identification numbers.* American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payment. Any participant that uses a unique identification number as an alternative to a tax identification number will use that identifier for all CSP contracts in which they participate.
+
+[84 FR 60891, Nov. 12, 2019, as amended at 85 FR 64002, Oct. 9, 2020]

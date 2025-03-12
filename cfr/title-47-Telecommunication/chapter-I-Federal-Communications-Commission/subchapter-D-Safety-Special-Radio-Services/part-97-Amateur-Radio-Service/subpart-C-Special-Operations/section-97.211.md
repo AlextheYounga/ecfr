@@ -1,5 +1,7 @@
 ##### § 97.211 Space telecommand station. #####
 
+Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
+
 (a) Any amateur station designated by the licensee of a space station is eligible to transmit as a telecommand station for that space station, subject to the privileges of the class of operator license held by the control operator.
 
 (b) A telecommand station may transmit special codes intended to obscure the meaning of telecommand messages to the station in space operation.

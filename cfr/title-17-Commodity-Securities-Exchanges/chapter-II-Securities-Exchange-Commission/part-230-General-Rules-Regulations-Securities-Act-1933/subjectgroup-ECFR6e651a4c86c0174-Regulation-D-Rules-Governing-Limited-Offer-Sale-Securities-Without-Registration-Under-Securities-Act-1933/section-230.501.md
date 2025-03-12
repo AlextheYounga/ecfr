@@ -1,5 +1,7 @@
 ##### § 230.501 Definitions and terms used in Regulation D. #####
 
+Link to an amendment published at 85 FR 64277, Oct. 9, 2020.
+
 As used in Regulation D (§ 230.500 *et seq.* of this chapter), the following terms shall have the meaning indicated:
 
 (a) *Accredited investor. Accredited investor* shall mean any person who comes within any of the following categories, or who the issuer reasonably believes comes within any of the following categories, at the time of the sale of the securities to that person:

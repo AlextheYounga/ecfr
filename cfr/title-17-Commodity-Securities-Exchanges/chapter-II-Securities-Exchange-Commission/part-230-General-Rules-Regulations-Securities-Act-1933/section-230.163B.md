@@ -1,5 +1,7 @@
 ##### § 230.163B Exemption from section 5(b)(1) and section 5(c) of the Act for certain communications to qualified institutional buyers or institutional accredited investors. #####
 
+Link to an amendment published at 85 FR 64276, Oct. 9, 2020.
+
 (a) Attempted compliance with this rule does not act as an exclusive election, and the issuer also may claim the availability of any other applicable exemption or exclusion. Reliance on this rule does not affect the availability of any other exemption or exclusion from the requirements of section 5 of the Act (15 U.S.C. 77e).
 
 (b)(1) An issuer, or any person authorized to act on behalf of an issuer, may engage in oral or written communications with potential investors described in paragraph (c) of this section to determine whether such investors might have an interest in a contemplated registered securities offering, either prior to or following the date of filing of a registration statement with respect to such securities with the Commission. Communications under this rule will be exempt from section 5(b)(1) (15 U.S.C. 77e(b)(1)) and section 5(c) of the Act (15 U.S.C. 77e(c)).

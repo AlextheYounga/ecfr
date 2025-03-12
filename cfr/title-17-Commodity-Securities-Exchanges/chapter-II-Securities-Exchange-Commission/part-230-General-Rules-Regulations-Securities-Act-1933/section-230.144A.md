@@ -1,6 +1,6 @@
 ##### § 230.144A Private resales of securities to institutions. #####
 
-Preliminary Notes:
+Link to an amendment published at 85 FR 64276, Oct. 9, 2020.Preliminary Notes:
 
 1. This section relates solely to the application of section 5 of the Act and not to antifraud or other provisions of the federal securities laws.
 

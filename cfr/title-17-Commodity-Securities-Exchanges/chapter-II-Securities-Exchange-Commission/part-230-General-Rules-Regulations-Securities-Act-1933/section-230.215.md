@@ -1,5 +1,7 @@
 ##### § 230.215 Accredited investor. #####
 
+Link to an amendment published at 85 FR 64276, Oct. 9, 2020.
+
 The term *accredited investor* as used in section 2(15)(ii) of the Securities Act of 1933 (15 U.S.C. 77b(15)(ii)) shall include the following persons:
 
 (a) Any savings and loan association or other institution specified in section 3(a)(5)(A) of the Act whether acting in its individual or fiduciary capacity; any broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934; any plan established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $5,000,000; any employee benefit plan within the meaning of Table I of the Employee Retirement Income Security Act of 1974, if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act, which is a savings and loan association, or if the employee benefit plan has total assets in excess of $5,000,000 or, if a self-directed plan, with investment decisions made solely by persons that are accredited investors;

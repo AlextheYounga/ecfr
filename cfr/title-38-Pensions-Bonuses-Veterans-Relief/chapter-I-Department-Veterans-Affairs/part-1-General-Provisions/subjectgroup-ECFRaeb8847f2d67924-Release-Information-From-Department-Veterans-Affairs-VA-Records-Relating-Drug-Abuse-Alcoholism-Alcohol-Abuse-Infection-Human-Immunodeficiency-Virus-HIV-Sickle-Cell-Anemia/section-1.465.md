@@ -1,5 +1,7 @@
 ##### § 1.465 Incompetent and deceased patients. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Incompetent patients other than minors.* In the case of a patient who has been adjudicated as lacking the capacity, for any reason other than insufficient age, to manage his or her own affairs, any consent which is required under §§ 1.460 through 1.499 of this part may be given by a court appointed legal guardian.
 
 (b) *Deceased patients* - (1) *Vital statistics.* Sec. 1.460 through 1.499 of this part do not restrict the disclosure of patient identifying information relating to the cause of death of a patient under laws requiring the collection of death or other vital statistics or permitting inquiry into the cause of death.

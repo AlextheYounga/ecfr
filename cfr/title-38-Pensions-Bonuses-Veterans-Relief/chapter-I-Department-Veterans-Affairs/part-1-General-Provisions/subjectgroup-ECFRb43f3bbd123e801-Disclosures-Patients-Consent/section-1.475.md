@@ -1,5 +1,7 @@
 ##### § 1.475 Form of written consent. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Required elements.* A written consent to a disclosure under §§ 1.460 through 1.499 of this part must include:
 
 (1) The name of the facility permitted to make the disclosure (such a designation does not preclude the release of records from other VA health care facilities unless a restriction is stated on the consent).

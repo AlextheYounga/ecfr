@@ -1,5 +1,7 @@
 ##### § 1.496 Orders authorizing the use of undercover agents and informants to criminally investigate employees or agents of VA. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Application.* A court order authorizing the placement of an undercover agent or informant in a VA drug or alcohol abuse, HIV infection, or sickle cell anemia treatment program as an employee or patient may be applied for by any law enforcement or prosecutorial agency which has reason to believe that employees or agents of the VA treatment program are engaged in criminal misconduct.
 
 (b) *Notice.* The VA facility director must be given adequate notice of the application and an opportunity to appear and be heard (for the limited purpose of providing evidence on the statutory and regulatory criteria for the issuance of the court order), unless the application asserts a belief that:

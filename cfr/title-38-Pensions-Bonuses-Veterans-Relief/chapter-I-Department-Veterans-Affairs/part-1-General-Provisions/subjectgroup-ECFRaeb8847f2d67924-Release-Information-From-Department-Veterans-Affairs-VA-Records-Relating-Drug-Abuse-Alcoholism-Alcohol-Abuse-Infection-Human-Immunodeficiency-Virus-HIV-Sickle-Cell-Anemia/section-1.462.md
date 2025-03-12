@@ -1,5 +1,7 @@
 ##### § 1.462 Confidentiality restrictions. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *General.* The patient records to which §§ 1.460 through 1.499 of this part apply may be disclosed or used only as permitted by these regulations and may not otherwise be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any Federal, State, or local authority. Any disclosure made under these regulations must be limited to that information which is necessary to carry out the purpose of the disclosure.
 
 (b) *Unconditional compliance required.* The restrictions on disclosure and use in §§ 1.460 through 1.499 of this part apply whether the person seeking the information already has it, has other means of obtaining it, is a law enforcement or other official, has obtained a subpoena, or asserts any other justification for a disclosure or use which is not permitted by §§ 1.460 through 1.499 of this part. These provisions do not prohibit VA from acting accordingly when there is no disclosure of information.

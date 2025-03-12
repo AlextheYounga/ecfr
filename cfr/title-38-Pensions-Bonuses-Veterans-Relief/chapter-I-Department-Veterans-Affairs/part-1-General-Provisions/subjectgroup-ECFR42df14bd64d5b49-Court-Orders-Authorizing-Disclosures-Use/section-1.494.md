@@ -1,5 +1,7 @@
 ##### § 1.494 Procedures and criteria for orders authorizing disclosure and use of records to criminally investigate or prosecute patients. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Application.* An order authorizing the disclosure or use of patient records covered by §§ 1.460 through 1.499 of this part to criminally investigate or prosecute a patient may be applied for by VA or by any person conducting investigative or prosecutorial activities with respect to the enforcement of criminal laws. The application may be filed separately, as part of an application for a subpoena or other compulsory process, or in a pending criminal action. An application must use a fictitious name such as John Doe, to refer to any patient and may not contain or otherwise disclose patient identifying information unless the court has ordered the record of the proceeding sealed from public scrutiny.
 
 (b) *Notice and hearing.* Unless an order under § 1.495 of this part is sought with an order under this section, VA must be given:

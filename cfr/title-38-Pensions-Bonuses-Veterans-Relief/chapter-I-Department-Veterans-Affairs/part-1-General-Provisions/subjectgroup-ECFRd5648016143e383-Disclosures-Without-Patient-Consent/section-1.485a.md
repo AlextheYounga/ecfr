@@ -1,5 +1,7 @@
 ##### § 1.485a Eye, organ and tissue donation. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 A VHA health care facility may disclose the individually-identified medical record information of an individual covered by §§ 1.460 through 1.499 of this part to an authorized representative of a procurement organization for the purpose of facilitating determination of whether the individual is a suitable potential organ, eye, or tissue donor if:
 
 (a) The individual is currently an inpatient in a VHA health care facility;

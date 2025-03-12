@@ -1,5 +1,7 @@
 ##### § 240.15g-1 Exemptions for certain transactions. #####
 
+Link to an amendment published at 85 FR 64278, Oct. 9, 2020.
+
 The following transactions shall be exempt from 17 CFR 240.15g-2, 17 CFR 240.15g-3, 17 CFR 240.15g-4, 17 CFR 240.15g-5, and 17 CFR 240.15g-6:
 
 (a) Transactions by a broker or dealer:

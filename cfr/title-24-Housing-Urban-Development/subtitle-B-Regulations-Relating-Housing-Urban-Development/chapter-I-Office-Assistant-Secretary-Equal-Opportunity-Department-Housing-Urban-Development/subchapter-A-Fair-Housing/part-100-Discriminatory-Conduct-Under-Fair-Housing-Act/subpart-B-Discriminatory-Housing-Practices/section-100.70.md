@@ -1,6 +1,6 @@
 ##### § 100.70 Other prohibited sale and rental conduct. #####
 
-Link to an amendment published at 85 FR 60332, Sept. 24, 2020.
+Link to an amendment published at 85 FR 60332, Sept. 24, 2020.Link to an amendment published at 85 FR 64025, Oct. 9, 2020.
 
 (a) It shall be unlawful, because of race, color, religion, sex, handicap, familial status, or national origin, to restrict or attempt to restrict the choices of a person by word or conduct in connection with seeking, negotiating for, buying or renting a dwelling so as to perpetuate, or tend to perpetuate, segregated housing patterns, or to discourage or obstruct choices in a community, neighborhood or development.
 

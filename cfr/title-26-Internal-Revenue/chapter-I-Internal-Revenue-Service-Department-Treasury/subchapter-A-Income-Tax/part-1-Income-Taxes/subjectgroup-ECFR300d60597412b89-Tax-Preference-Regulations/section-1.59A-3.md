@@ -1,5 +1,7 @@
 ##### § 1.59A-3 Base erosion payments and base erosion tax benefits. #####
 
+Link to an amendment published at 85 FR 64365, Oct. 9, 2020.
+
 (a) *Scope.* This section provides definitions and related rules regarding base erosion payments and base erosion tax benefits. Paragraph (b) of this section provides definitions and rules regarding base erosion payments. Paragraph (c) of this section provides rules for determining the amount of base erosion tax benefits. Paragraph (d) of this section provides examples illustrating the rules described in this section.
 
 (b) *Base erosion payments* - (1) *In general.* Except as provided in paragraph (b)(3) of this section, a *base erosion payment* means -

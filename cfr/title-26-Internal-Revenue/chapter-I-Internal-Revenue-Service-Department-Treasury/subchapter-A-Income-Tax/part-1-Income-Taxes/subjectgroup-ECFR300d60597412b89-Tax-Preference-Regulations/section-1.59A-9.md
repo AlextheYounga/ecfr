@@ -1,5 +1,7 @@
 ##### § 1.59A-9 Anti-abuse and recharacterization rules. #####
 
+Link to an amendment published at 85 FR 64368, Oct. 9, 2020.
+
 (a) *Scope.* This section provides rules for recharacterizing certain transactions according to their substance for purposes of applying section 59A and the section 59A regulations. Paragraph (b) of this section provides specific anti-abuse rules. Paragraph (c) of this section provides examples illustrating the rules of paragraph (b) of this section.
 
 (b) *Anti-abuse rules* - (1) *Transactions involving unrelated persons, conduits, or intermediaries.* If a taxpayer pays or accrues an amount to one or more intermediaries (including an intermediary unrelated to the taxpayer) that would have been a base erosion payment if paid or accrued to a foreign related party, and one or more of the intermediaries makes (directly or indirectly) corresponding payments to or for the benefit of a foreign related party as part of a transaction (or series of transactions), plan or arrangement that has as a principal purpose of avoiding a base erosion payment (or reducing the amount of a base erosion payment), the role of the intermediary or intermediaries is disregarded as a conduit, or the amount paid or accrued to the intermediary is treated as a base erosion payment, as appropriate.

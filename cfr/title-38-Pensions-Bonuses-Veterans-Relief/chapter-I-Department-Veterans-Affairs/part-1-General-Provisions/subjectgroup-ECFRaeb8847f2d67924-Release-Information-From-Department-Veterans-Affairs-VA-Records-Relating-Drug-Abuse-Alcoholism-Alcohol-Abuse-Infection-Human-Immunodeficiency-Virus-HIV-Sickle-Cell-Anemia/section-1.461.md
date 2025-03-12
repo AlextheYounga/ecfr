@@ -1,5 +1,7 @@
 ##### § 1.461 Applicability. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *General* - (1) *Restrictions on disclosure.* The restrictions on disclosure in these regulations apply to any information whether or not recorded, which:
 
 (i) Would identify a patient as an alcohol or drug abuser, an individual who tested positive for or is infected with the human immunodeficiency virus (HIV), hereafter referred to as HIV, or an individual who tested positive for or has sickle cell anemia, either directly, by reference to other publicly available information, or through verification of such an identification by another person; and

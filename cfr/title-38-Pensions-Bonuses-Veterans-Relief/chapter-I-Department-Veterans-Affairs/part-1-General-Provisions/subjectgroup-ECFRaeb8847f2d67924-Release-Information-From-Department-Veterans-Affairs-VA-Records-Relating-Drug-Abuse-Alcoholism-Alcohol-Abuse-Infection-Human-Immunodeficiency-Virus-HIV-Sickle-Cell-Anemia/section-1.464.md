@@ -1,5 +1,7 @@
 ##### § 1.464 Minor patients. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Definition of minor.* As used in §§ 1.460 through 1.499 of this part the term “minor” means a person who has not attained the age of majority specified in the applicable State law, or if no age of majority is specified in the applicable State law, the age of eighteen years.
 
 (b) *State law not requiring parental consent to treatment.* If a minor patient acting alone has the legal capacity under the applicable State law to apply for and obtain treatment for drug abuse, alcoholism or alcohol abuse, infection with the HIV, or sickle cell anemia, any written consent for disclosure authorized under § 1.475 of this part may be given only by the minor patient. This restriction includes, but is not limited to, any disclosure of patient identifying information to the parent or guardian of a minor patient for the purpose of obtaining financial reimbursement. Sections 1.460 through 1.499 of this part do not prohibit a VA facility from refusing to provide nonemergent treatment to an otherwise ineligible minor patient until the minor patient consents to the disclosure necessary to obtain reimbursement for services from a third party payer.

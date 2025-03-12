@@ -76,7 +76,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 (iii) Conservation activities the producer will implement on the public land are necessary and will address an identified priority resource concern.
 
-*Enhancement* means a type of conservation activity used to treat natural resources and improve conservation performance. Enhancements are equal to or greater than the performance level for the planning criteria identified for a given resource concern. Planning criteria are defined for each resource concern in Section III - Conservation Management Systems, Field Office Technical Guide.
+*Enhancement* means a type of conservation activity used to treat natural resources and improve conservation performance that allows a producer to address levels of conservation beyond what the minimum conservation practice standard requires. Enhancements, alone or in combination with other enhancements and practices, result in conservation systems that are equal to or greater than the performance level for the planning criteria identified for a given resource concern. Planning criteria are defined for each resource concern in Section III - Conservation Management Systems, Field Office Technical Guide.
 
 *Field Office Technical Guide (FOTG)* means the official local NRCS source of resource information and interpretations of guidelines, planning criteria, and standards for planning and implementation of conservation practices. The FOTG contains detailed information on the planning standard to achieve conservation of soil, water, air, plant, energy, and animal resources applicable to the local area for which it is prepared. (See *https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/fotg/* to access your State FOTG.)
 
@@ -106,7 +106,7 @@ The following definitions will apply to this part and all documents issued in ac
 
 (2) Improves manure distribution and nutrient cycling;
 
-(3) Increases carbon sequestration from greater forage harvest;
+(3) Increases carbon sequestration;
 
 (4) Improves the quality and quantity of cover for wildlife;
 
@@ -144,19 +144,15 @@ The following definitions will apply to this part and all documents issued in ac
 
 (4) A small grain or other resource-demanding crop grown in combination with a grass, legume, forbs, grass-forbs mixture, whether interseeded or planted in rotation.
 
-*Resource-conserving crop rotation* means a crop rotation that -
+*Resource-conserving crop* means a crop that is one of the following, as determined by NRCS:
 
-(1) Includes at least one resource-conserving crop as determined by NRCS;
+(1) A perennial grass;
 
-(2) Reduces erosion;
+(2) A legume grown for use as a cover crop, forage, seed for planting, or green manure;
 
-(3) Improves soil fertility and tilth;
+(3) A legume-grass or diverse grass-forb mixture comprised of species selected for climate, rainfall, soil, and other region-specific conditions; or
 
-(4) Interrupts pest cycles;
-
-(5) Builds soil organic matter; and
-
-(6) In applicable areas, reduces depletion of soil moisture or otherwise reduces the need for irrigation.
+(4) A small grain or other resource-demanding crop grown in combination with a grass, legume, other forbs, or grass-forb mixture, whether interseeded, relay-planted into the resource-demanding crop, or planted in rotation.
 
 *Secretary* means the Secretary of the USDA.
 
@@ -183,3 +179,5 @@ The following definitions will apply to this part and all documents issued in ac
 *Technical service provider (TSP)* means an individual, private-sector entity, Indian Tribe, or public agency certified pursuant to 7 CFR part 652 and placed on the approved list to provide technical services to participants; or selected by USDA to assist USDA in the implementation of conservation programs covered by this part through a procurement contract, contribution agreement, or cooperative agreement with USDA.
 
 *Veteran farmer or rancher* means a producer who meets the definition in section 2501(a)(7) of the Food, Agriculture, Conservation, and Trade Act of 1990, as amended (7 U.S.C. 2279).
+
+[84 FR 60891, Nov. 12, 2019, as amended at 85 FR 64002, Oct. 9, 2020]

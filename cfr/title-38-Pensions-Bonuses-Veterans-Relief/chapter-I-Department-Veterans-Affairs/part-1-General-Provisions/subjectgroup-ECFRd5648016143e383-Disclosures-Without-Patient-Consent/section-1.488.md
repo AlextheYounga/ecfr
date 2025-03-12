@@ -1,5 +1,7 @@
 ##### § 1.488 Research activities. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 Subject to the provisions of 38 U.S.C. 5701, 38 CFR 1.500-1.527, the Privacy Act (5 U.S.C. 552a), 38 CFR 1.575-1.584 and the following paragraphs, patient medical record information covered by §§ 1.460 through 1.499 of this part may be disclosed for the purpose of conducting scientific research.
 
 (a) Information in individually identifiable form may be disclosed from records covered by §§ 1.460 through 1.499 of this part for the purpose of conducting scientific research if the Under Secretary for Health or designee makes a determination that the recipient of the patient identifying information:

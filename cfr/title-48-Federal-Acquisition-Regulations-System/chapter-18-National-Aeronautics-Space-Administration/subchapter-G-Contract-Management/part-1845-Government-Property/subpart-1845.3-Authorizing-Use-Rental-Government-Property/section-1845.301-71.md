@@ -1,5 +1,7 @@
 ##### 1845.301-71 Use of Government property for commercial work. #####
 
+Link to an amendment published at 85 FR 64070, Oct. 9, 2020.
+
 (a) The coverage at FAR 45.3 applies to a contractor's commercial (any non-Government) use of any NASA equipment.
 
 (b)(1) The Center Procurement Officer is the approval authority for non-Government use of equipment exceeding 25 percent.

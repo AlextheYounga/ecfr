@@ -1,5 +1,7 @@
 ##### § 1.59A-2 Applicable taxpayer. #####
 
+Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
+
 (a) *Scope.* This section provides rules for determining whether a taxpayer is an applicable taxpayer. Paragraph (b) of this section defines an applicable taxpayer. Paragraph (c) of this section provides rules for determining whether a taxpayer is an applicable taxpayer by reference to the aggregate group of which the taxpayer is a member. Paragraph (d) of this section provides rules regarding the gross receipts test. Paragraph (e) of this section provides rules regarding the base erosion percentage test. Paragraph (f) of this section provides examples illustrating the rules of this section.
 
 (b) *Applicable taxpayer.* For purposes of section 59A, a taxpayer is an applicable taxpayer with respect to any taxable year if the taxpayer -

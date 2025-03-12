@@ -1,5 +1,7 @@
 ##### § 1.493 Procedures and criteria for orders authorizing disclosures for noncriminal purposes. #####
 
+Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
+
 (a) *Application.* An order authorizing the disclosure of patient records covered by §§ 1.460 through 1.499 of this part for purposes other than criminal investigation or prosecution may be applied for by any person having a legally recognized interest in the disclosure which is sought. The application may be filed separately or as part of a pending civil action in which it appears that the patient records are needed to provide evidence. An application must use a fictitious name, such as John Doe, to refer to any patient and may not contain or otherwise disclose any patient identifying information unless the patient is the applicant or has given a written consent (meeting the requirements of § 1.475 of this part) to disclosure or the court has ordered the record of the proceeding sealed from public scrutiny.
 
 (b) *Notice.* The patient and VA facility from whom disclosure is sought must be given:
