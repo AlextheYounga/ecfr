@@ -1,5 +1,7 @@
 ##### § 27.1209 Conversion of incumbent EBS and BRS stations to geographic area licensing. #####
 
+Link to an amendment published at 84 FR 57366, Oct. 25, 2019.
+
 (a) Any EBS or BRS station licensed by the Commission, other than BTA authorizations and facilities authorized pursuant to BTA authorizations, shall be considered an incumbent station.
 
 (b) As of January 10, 2005, all incumbent EBS and BRS licenses shall be converted to a geographic area license. Pursuant to that geographic area license, such incumbent licensees may modify their systems provided the modified system complies with the applicable rules. The blanket license covers all fixed stations anywhere within the authorized service area, except as follows:

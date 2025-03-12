@@ -1,5 +1,7 @@
 ##### § 27.1231 Initiating the transition. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) *Transition areas.* Unless paragraph (b) of this section applies, the transition will occur by Basic Trading Area (BTA). BTAs are based on the Rand McNally 1992 Commercial Atlas & Marketing Guide, 123rd Edition, at pages 38-39, that identifies 487 BTAs based on the 50 States; it also includes the following additional BTA-like areas: American Samoa; Guam; Northern Mariana Islands; Mayaguez/Aguadilla-Ponce, Puerto Rico; San Juan, Puerto Rico; and the United States Virgin Islands, for a total of 493 BTAs. The Mayaguez/Aguadilla-Ponce BTA-like area consists of the following municipios: Adjuntas, Aguada, Aguadilla, Anasco, Arroyo, Cabo Rojo, Coamo, Guanica, Guayama, Guayanilla, Hormigueros, Isabela, Jayuya, Juana Diaz, Lajas, Las Marias, Maricao, Maunabo, Mayaguez, Moca, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Sabana Grande, Salinas, San German, Santa Isabel, Villalba, and Yauco. The San Juan BTA-like area consists of all other municipios in Puerto Rico. The BTA associated with the Gulf of Mexico will not be transitioned.
 
 (b) *Overlapping GSAs.* When a Geographic Service Area (GSA) overlaps two or more BTAs:

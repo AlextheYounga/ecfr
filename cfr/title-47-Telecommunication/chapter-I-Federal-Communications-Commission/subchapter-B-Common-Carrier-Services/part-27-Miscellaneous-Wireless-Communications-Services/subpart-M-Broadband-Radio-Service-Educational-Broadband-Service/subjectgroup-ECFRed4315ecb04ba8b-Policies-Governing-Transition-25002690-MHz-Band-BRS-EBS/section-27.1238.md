@@ -1,5 +1,7 @@
 ##### § 27.1238 Eligible costs. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) The costs listed in paragraphs (b) through (f) of this section are eligible costs.
 
 (b) *Pre-transition costs:*

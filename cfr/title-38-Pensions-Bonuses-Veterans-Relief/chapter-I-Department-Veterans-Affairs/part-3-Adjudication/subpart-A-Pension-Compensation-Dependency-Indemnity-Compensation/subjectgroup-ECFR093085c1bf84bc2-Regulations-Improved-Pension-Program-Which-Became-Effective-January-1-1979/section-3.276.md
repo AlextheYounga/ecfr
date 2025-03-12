@@ -1,10 +1,10 @@
 ##### § 3.276 Asset transfers and penalty periods. #####
 
-(a) *Asset transfer definitions.* For purposes of this section -
+(a) *Asset transfer definitions.* For purposes of this section—
 
 (1) *Claimant* has the same meaning as defined in § 3.275(a)(2)(i).
 
-(2) *Covered asset* means an asset that -
+(2) *Covered asset* means an asset that—
 
 (i) Was part of a claimant's net worth;
 
@@ -20,11 +20,11 @@
 
 (4) *Fair market value* means the price at which an asset would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or to sell and both having reasonable knowledge of relevant facts. VA will use the best available information to determine fair market value, such as inspections, appraisals, public records, and the market value of similar property if applicable.
 
-(5) *Transfer for less than fair market value* means -
+(5) *Transfer for less than fair market value* means—
 
 (i) Selling, conveying, gifting, or exchanging an asset for an amount less than the fair market value of the asset; or
 
-(ii) A voluntary asset transfer to, or purchase of, any financial instrument or investment that reduces net worth by transferring the asset to, or purchasing, the instrument or investment unless the claimant establishes that he or she has the ability to liquidate the entire balance of the asset for the claimant's own benefit. If the claimant establishes that the asset can be liquidated, the asset is included as net worth. Examples of such instruments or investments include -
+(ii) A voluntary asset transfer to, or purchase of, any financial instrument or investment that reduces net worth by transferring the asset to, or purchasing, the instrument or investment unless the claimant establishes that he or she has the ability to liquidate the entire balance of the asset for the claimant's own benefit. If the claimant establishes that the asset can be liquidated, the asset is included as net worth. Examples of such instruments or investments include—
 
 (A) *Annuities. Annuity* means a financial instrument that provides income over a defined period of time for an initial payment of principal.
 
@@ -56,10 +56,10 @@
 
 (4) *Example of penalty period calculation.* VA receives a pension claim in November 2018. The claimant's net worth is equal to the net worth limit. However, the claimant transferred covered assets totaling $10,000 on August 20, 2018, and September 23, 2018. Therefore, the total covered asset amount is $10,000, and the penalty period begins on October 1, 2018. Assume the MAPR for a veteran in need of aid and attendance with one dependent in effect in November 2018 is $24,000. The monthly penalty rate is $2,000. The penalty period is $10,000/$2,000 per month = 5 months. The fifth month of the penalty period is February 2019. The claimant may be entitled to pension effective February 28, 2019, with a payment date of March 1, 2019, if other entitlement requirements are met.
 
-(5) *Penalty period recalculations.* VA will not recalculate a penalty period under this section unless -
+(5) *Penalty period recalculations.* VA will not recalculate a penalty period under this section unless—
 
 (i) The original calculation is shown to be erroneous; or
 
 (ii) VA receives evidence showing that some or all covered assets were returned to the claimant before the date of claim or within 60 days after the date of VA's notice to the claimant of VA's decision concerning the penalty period. If covered assets are returned to the claimant, VA will recalculate or eliminate the penalty period. For this exception to apply, VA must receive the evidence not later than 90 days after the date of VA's notice to the claimant of VA's decision concerning the penalty period. Once covered assets are returned, a claimant may reduce net worth at the time of transfer under the provisions of § 3.274(f).
 
-(Authority: 38 U.S.C. 1522, 1543, 1506(1))(The Office of Management and Budget has approved the information collection requirement in this section under control numbers 2900-0002, and 2900-0004.)[83 FR 47271, Sept. 18, 2018]
+(Authority: 38 U.S.C. 1522, 1543, 1506(1))(The Office of Management and Budget has approved the information collection requirement in this section under control numbers 2900-0002, and 2900-0004)[83 FR 47271, Sept. 18, 2018]

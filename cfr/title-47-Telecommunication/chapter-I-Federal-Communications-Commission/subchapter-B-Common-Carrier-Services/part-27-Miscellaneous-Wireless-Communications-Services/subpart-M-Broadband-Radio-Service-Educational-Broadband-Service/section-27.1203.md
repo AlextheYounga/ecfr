@@ -1,5 +1,7 @@
 ##### § 27.1203 EBS programming requirements. #####
 
+Link to an amendment published at 84 FR 57365, Oct. 25, 2019.
+
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, BRS and EBS licensees are authorized to provide fixed or mobile service, except aeronautical mobile service, subject to the technical requirements of subparts C and M of this part.
 
 (b) Educational Broadband Service stations are intended primarily through video, data, or voice transmissions to further the educational mission of accredited public and private schools, colleges and universities providing a formal educational and cultural development to enrolled students. Authorized educational broadband channels must be used to further the educational mission of accredited schools offering formal educational courses to enrolled students.

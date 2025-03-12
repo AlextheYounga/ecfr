@@ -1,5 +1,7 @@
 ##### § 27.1233 Reimbursement costs of transitioning. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) *Replacement downconverters.* The proponent(s) must install at every eligible EBS receive site a downconverter designed to minimize the reception of signals from outside the MBS.
 
 (1) An EBS receive site is eligible to be replaced if:

@@ -1,5 +1,7 @@
 ##### § 27.1236 Self-transitions. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) If an Initiation Plan is not filed on or before January 21, 2009 for a BTA, BRS and EBS licensees in that BTA may self-transition by relocating to their default channel locations specified in § 27.5(i)(2) and complying with §§ 27.50(h), 27.53, 27.55 and 27.1221.
 
 (b) To self-transition, a BRS or EBS licensee must:

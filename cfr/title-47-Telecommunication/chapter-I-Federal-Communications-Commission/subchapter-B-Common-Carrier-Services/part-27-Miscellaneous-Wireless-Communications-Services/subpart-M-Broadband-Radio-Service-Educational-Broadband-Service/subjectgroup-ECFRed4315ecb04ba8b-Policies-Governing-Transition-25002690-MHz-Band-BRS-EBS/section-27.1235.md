@@ -1,5 +1,7 @@
 ##### § 27.1235 Post-transition notification. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 The proponent(s) must certify to the Commission at the Office of the Secretary, Washington, DC, that the Transition Plan has been fully implemented.
 
 (a) The notification must provide the identification of the licensees that have transitioned to the band plan in § 27.5(i)(2) and the specific frequencies on which each licensee is operating.

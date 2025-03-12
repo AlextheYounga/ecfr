@@ -1,7 +1,5 @@
 ##### § 1217.52 Assessments. #####
 
-Link to an amendment published at 84 FR 50300, Sept. 25, 2019.
-
 (a) The Board's programs and expenses shall be paid by assessments on manufacturers for the U.S. market, other income of the Board, and other funds available to the Board.
 
 (b) Subject to the exemptions specified in § 1217.53, each manufacturer for the U.S. market shall pay an assessment to the Board at the rate of $0.35 per thousand board feet of softwood lumber except that no person shall pay an assessment on the first 15 million board feet of softwood lumber otherwise subject to assessment in a fiscal year. Domestic manufacturers shall pay assessments based on the volume of softwood lumber shipped within the United States and importers shall pay assessments based on the volume of softwood lumber imported to the United States.
@@ -16,16 +14,22 @@ Link to an amendment published at 84 FR 50300, Sept. 25, 2019.
 
 (g) Each importer of softwood lumber shall pay through Customs to the Board an assessment on softwood lumber imported into the United States as described in section 804(a) of Title VIII of the Tariff Act of 1930, as amended (19 U.S.C. 1202-1683g), provided that it can be categorized in the HTSUS numbers listed in paragraph (h) of this section.
 
-(h) The HTSUS categories and assessment rates on imported softwood lumber are listed in the table below. A factor shall be used to determine the equivalent volume of softwood lumber in thousand board feet. The factor used to convert one cubic meter to one thousand board feet is 0.423776001. Accordingly, the assessment rate per cubic meter is as follows.
+(h) The HTSUS categories and assessment rates on imported softwood lumber are listed in the following table. A factor shall be used to determine the equivalent volume of softwood lumber in thousand board feet. The factor used to convert one cubic meter to one thousand board feet is 0.423776001. Accordingly, the assessment rate per cubic meter is as follows.
 
-|Softwood lumber|Assessment  <br/>$/cubic meter|
-|---------------|------------------------------|
-|  4407.10.01   |           $0.1483            |
-|  4409.10.05   |            0.1483            |
-|  4409.10.10   |            0.1483            |
-|  4409.10.20   |            0.1483            |
-|  4409.10.90   |            0.1483            |
-|  4418.90.25   |            0.1483            |
+Table 1 to Paragraph (h)
+
+|Softwood lumber  <br/>(by HTSUS No.)|Assessment  <br/>($/cubic meter)|
+|------------------------------------|--------------------------------|
+|             4407.11.00             |             0.1483             |
+|             4407.12.00             |             0.1483             |
+|             4407.19.05             |             0.1483             |
+|             4407.19.06             |             0.1483             |
+|             4407.19.10             |             0.1483             |
+|             4409.10.05             |             0.1483             |
+|             4409.10.10             |             0.1483             |
+|             4409.10.20             |             0.1483             |
+|             4409.10.90             |             0.1483             |
+|             4418.99.10             |             0.1483             |
 
 (i) In the event that any HTSUS number subject to assessment is changed and such change is merely a replacement of a previous number and has no impact on the description of the softwood lumber involved, assessments will continue to be collected based on the new number.
 
@@ -38,3 +42,5 @@ Link to an amendment published at 84 FR 50300, Sept. 25, 2019.
 (m) The Board may accept advance payment of assessments from any manufacturer for the U.S. market that will be credited toward any amount for which that person may become liable. The Board may not pay interest on any advance payment.
 
 (n) If the Board is not in place by the date the first assessments are to be collected, the Secretary shall receive assessments and shall pay such assessments and any interest earned to the Board when it is formed.
+
+[76 FR 46193, Aug. 2, 2011, as amended at 84 FR 50300, Sept. 25, 2019]

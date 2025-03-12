@@ -1,5 +1,7 @@
 ##### § 27.1206 Geographic Service Area. #####
 
+Link to an amendment published at 84 FR 57365, Oct. 25, 2019.
+
 (a) The Geographic Service Area (GSA) is either:
 
 (1) The area for incumbent site-based licensees that is bounded by a circle having a 35 mile radius and centered at the station's reference coordinates, which was the previous PSA entitled to incumbent licensees prior to January 10, 2005, and is bounded by the chord(s) drawn between intersection points of the licensee's previous 35 mile PSA and those of respective adjacent market, co-channel licensees; or:

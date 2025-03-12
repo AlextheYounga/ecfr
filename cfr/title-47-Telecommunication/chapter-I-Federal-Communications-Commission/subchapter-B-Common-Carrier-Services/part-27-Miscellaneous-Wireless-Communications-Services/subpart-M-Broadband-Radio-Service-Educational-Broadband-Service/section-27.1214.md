@@ -1,5 +1,7 @@
 ##### § 27.1214 EBS spectrum leasing arrangements and grandfathered leases. #####
 
+Link to an amendment published at 84 FR 57366, Oct. 25, 2019.
+
 (a) A licensee in the EBS that is solely utilizing analog transmissions may enter into a spectrum leasing arrangement to transmit material other than the educational programming defined in § 27.1203(b) and (c) subject to the following conditions:
 
 (1) Before entering into a spectrum leasing arrangement involving material other than educational programming on any one channel, the licensee must provide at least 20 hours per week of EBS educational programming (as defined in § 27.1203(b) and (c)) on that channel, except as provided in paragraphs (a)(2) and (a)(3) of this section. An additional 20 hours per week per channel must be strictly reserved for EBS use and not used for non-EBS purposes, or reserved for recapture by the EBS licensee for its EBS educational usage, subject to one year's advance, written notification by the EBS licensee to its lessee and accounting for all recapture already exercised, with no economic or operational detriment to the licensee. These hours of recapture are not restricted as to time of day or day of the week, but may be established by negotiations between the EBS licensee and the lessee. The 20 hours per channel per week EBS educational usage requirement and the recapture and/or reservation requirement of an additional 20 hours per channel per week shall apply spectrally over the licensee's whole actual service area.

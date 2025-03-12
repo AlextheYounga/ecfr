@@ -1,5 +1,7 @@
 ##### § 27.1232 Planning the transition. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) *The Transition Planning Period.* The Transition Planning Period is a 90-day period that commences on the day after the proponent(s) files the Initiation Plan with the Commission.
 
 (b) *The Transition plan.* The proponent(s) must provide to each BRS and EBS licensee within a BTA, a Transition Plan no later than 30 days prior to the conclusion of the Transition Planning Period.

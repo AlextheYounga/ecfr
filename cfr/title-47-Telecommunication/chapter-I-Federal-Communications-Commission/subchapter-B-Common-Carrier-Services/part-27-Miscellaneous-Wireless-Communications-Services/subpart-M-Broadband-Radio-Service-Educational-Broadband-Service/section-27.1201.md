@@ -1,5 +1,7 @@
 ##### § 27.1201 EBS eligibility. #####
 
+Link to an amendment published at 84 FR 57365, Oct. 25, 2019.
+
 (a) A license for an Educational Broadband Service station will be issued only to an accredited institution or to a governmental organization engaged in the formal education of enrolled students or to a nonprofit organization whose purposes are educational and include providing educational and instructional television material to such accredited institutions and governmental organizations, and which is otherwise qualified under the statutory provisions of the Communications Act of 1934, as amended.
 
 (1) A publicly supported educational institution must be accredited by the appropriate State department of education.

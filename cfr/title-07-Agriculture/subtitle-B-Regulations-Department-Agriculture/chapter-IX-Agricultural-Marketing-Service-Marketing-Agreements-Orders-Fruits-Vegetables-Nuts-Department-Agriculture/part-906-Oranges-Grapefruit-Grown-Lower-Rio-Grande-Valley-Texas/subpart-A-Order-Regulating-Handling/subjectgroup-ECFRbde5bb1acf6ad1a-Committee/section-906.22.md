@@ -1,0 +1,5 @@
+##### § 906.22 Selection. #####
+
+(a) From District No. 1 the Secretary shall select initially two producer members and their alternates representing independent producers. From District No. 2 the Secretary shall select initially two producer members and their respective alternates representing producers who market their fruit through cooperative marketing organizations, and four producer members and their respective alternates representing independent producers. From District No. 3 the Secretary shall select initially one producer member and his alternate representing independent producers.
+
+(b) From the production area the Secretary shall select initially six handler members and their respective alternates. One handler member shall represent cooperative marketing organizations and five handler members shall represent independent handlers.

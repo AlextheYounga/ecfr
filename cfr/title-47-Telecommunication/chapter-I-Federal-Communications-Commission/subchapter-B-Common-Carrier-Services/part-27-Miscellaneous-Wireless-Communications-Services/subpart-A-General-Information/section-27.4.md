@@ -1,5 +1,7 @@
 ##### § 27.4 Terms and definitions. #####
 
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
+
 *600 MHz service.* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5(l).
 
 *Advanced Wireless Service (AWS).* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5(h), 27.5(j), or 27.5(k).

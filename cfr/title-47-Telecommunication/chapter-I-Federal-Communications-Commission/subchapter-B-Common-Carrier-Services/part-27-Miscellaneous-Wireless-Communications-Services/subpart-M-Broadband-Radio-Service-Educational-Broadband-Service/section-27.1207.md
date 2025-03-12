@@ -1,5 +1,7 @@
 ##### § 27.1207 BTA license authorization. #####
 
+Link to an amendment published at 84 FR 57366, Oct. 25, 2019.
+
 (a) Winning bidders must file an application (FCC Form 601) for an initial authorization.
 
 (b) Initial authorizations for BRS granted after January 1, 2008, shall be blanket licenses for all BRS frequencies identified in § 27.5(i)(2) and based on the geographic areas identified in § 27.1208. Blanket licenses cover all mobile and response stations.

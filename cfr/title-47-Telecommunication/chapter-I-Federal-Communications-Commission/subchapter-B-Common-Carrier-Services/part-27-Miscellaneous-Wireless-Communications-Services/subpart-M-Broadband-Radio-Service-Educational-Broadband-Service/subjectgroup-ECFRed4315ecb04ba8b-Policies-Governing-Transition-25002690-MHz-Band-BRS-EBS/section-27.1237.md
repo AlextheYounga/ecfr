@@ -1,5 +1,7 @@
 ##### § 27.1237 Pro rata allocation of transition costs. #####
 
+Link to an amendment published at 84 FR 57367, Oct. 25, 2019.
+
 (a) *Self-transitions.* EBS licensees that self-transition may seek reimbursement for their costs to replace eligible downconverters (see § 27.1233(a)) and to migrate video programming and data transmission tracks (see § 27.1233(b)) from BRS licensees and lessees, EBS lessees, and commercial EBS licensees in the BTA where the center point of the EBS licensee's GSA is located. In addition, BRS licensees and lessees, EBS lessees, and commercial EBS licensees in the LBS or UBS must reimburse the self-transitioning EBS licensee a pro rata share of the eligible costs of transitioning EBS licensees, based on the formula in paragraph (c) of this section. Eligible costs are listed in § 27.1238.
 
 (b) *Proponent-driven transitions.* BRS licensees and lessees, entities that lease EBS spectrum for a commercial purpose, and commercial EBS licensees must pay their own transition costs. In addition, except for MVPD operators that opt-out of the transition, BRS licensees and lessees, EBS lessees, and commercial EBS licensees in the LBS or UBS must reimburse the proponent a pro rata share of the eligible costs of transitioning EBS licensees, based on the formula in paragraph (c) of this section. Eligible costs are listed in § 27.1238.

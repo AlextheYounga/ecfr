@@ -1,7 +1,5 @@
 ##### § 1217.101 Definitions. #####
 
-Link to an amendment published at 84 FR 50300, Sept. 25, 2019.
-
 For the purposes of this subpart:
 
 (a) *Administrator* means the Administrator of the Agricultural Marketing Service, with power to delegate, or any officer or employee of the U.S. Department of Agriculture to whom authority has been delegated or may hereafter be delegated to act in the Administrator's stead.
@@ -30,6 +28,8 @@ For the purposes of this subpart:
 
 (k) *Softwood* means one of the botanical groups of trees that have needle-like or scale-like leaves, the conifers.
 
-(l) *Softwood lumber* means and includes softwood lumber and products manufactured from softwood as described in section 804(a) within Title VIII (Softwood Lumber Act of 2008 or SLA of 2008) of the Tariff Act of 1930 (19 U.S.C. 1202-1683g), as amended by section 3301 of the Food, Conservation and Energy Act of 2008 (Pub. L. 110-246, enacted June 18, 2008) and categorized in the following Harmonized Tariff Schedule of the United States (HTSUS) numbers - 4407.10.01, 4409.10.05, 4409.10.10, 4409.10.20, 4409.10.90, and 4418.90.25. Domestic product that cannot be categorized in the referenced HTSUS numbers if it were an import is not covered under this order. Further, softwood lumber originating in the United States that is exported to another country and shipped back to the United States is also covered under this Order, provided it can be categorized in the referenced HTSUS numbers. Additionally, articles brought into the United States temporarily and for which an exemption is claimed under subchapter XIII of chapter 98 of the HTSUS are exempted from the SLA of 2008 and are not covered under this Order.
+(l) *Softwood lumber* means and includes softwood lumber and products manufactured from softwood as described in section 804(a) within Title VIII (Softwood Lumber Act of 2008 or SLA of 2008) of the Tariff Act of 1930 (19 U.S.C. 1202-1677g), as amended by section 3301 of the Food, Conservation and Energy Act of 2008 (Pub. L. 110-246, enacted June 18, 2008) and categorized in the following Harmonized Tariff Schedule of the United States (HTSUS) numbers—4407.11.00, 4407.12.00, 4407.19.05, 4407.19.06, 4407.19.10, 4409.10.05, 4409.10.10, 4409.10.20, 4409.10.90, and 4418.99.10. Domestic product that cannot be categorized in the referenced HTSUS numbers if it were an import is not covered under the Order. Further, softwood lumber originating in the United States that is exported to another country and shipped back to the United States is also covered under the Order, provided it can be categorized in the referenced HTSUS numbers. Additionally, articles brought into the United States temporarily and for which an exemption is claimed under subchapter XIII of chapter 98 of the HTSUS are exempted from the SLA of 2008 and are not covered under the Order.
 
 (m) *United States* means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+
+[76 FR 46193, Aug. 2, 2011, as amended at 84 FR 50300, Sept. 25, 2019]

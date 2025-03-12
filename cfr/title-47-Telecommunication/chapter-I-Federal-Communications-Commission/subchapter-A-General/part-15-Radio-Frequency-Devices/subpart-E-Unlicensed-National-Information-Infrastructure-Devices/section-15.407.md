@@ -16,7 +16,7 @@
 
 (3) For the band 5.725-5.85 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W. In addition, the maximum power spectral density shall not exceed 30 dBm in any 500-kHz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. However, fixed point-to-point U-NII devices operating in this band may employ transmitting antennas with directional gain greater than 6 dBi without any corresponding reduction in transmitter conducted power. Fixed, point-to-point operations exclude the use of point-to-multipoint systems, omnidirectional applications, and multiple collocated transmitters transmitting the same information. The operator of the U-NII device, or if the equipment is professionally installed, the installer, is responsible for ensuring that systems employing high gain directional antennas are used exclusively for fixed, point-to-point operations.
 
-Note to paragraph (*a*)(3):
+Note to paragraph (a)(3):
 
 The Commission strongly recommends that parties employing U-NII devices to provide critical communications services should determine if there are any nearby Government radar systems that could affect their operation.
 

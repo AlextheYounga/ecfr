@@ -22,10 +22,10 @@ Before selecting an individual or organization to act as your representative pay
 
 (9) Determine whether the payee applicant is a creditor of the beneficiary (see § 404.2022(e)).
 
-(10) Conduct a criminal background check on the payee applicant.
+(10) Conduct a criminal background check on the individual payee applicant.
 
 (b) *Subsequent face-to-face interviews.* After holding a face-to-face interview with a payee applicant, subsequent face-to-face interviews are not required if that applicant continues to be qualified and currently is acting as a payee, unless we determine, within our discretion, that a new face-to-face interview is necessary. We base this decision on the payee's past performance and knowledge of and compliance with our reporting requirements.
 
 (c) *Impracticable.* We may consider a face-to-face interview impracticable if it would cause the payee applicant undue hardship. For example, the payee applicant would have to travel a great distance to the field office. In this situation, we may conduct the investigation to determine the payee applicant's suitability to serve as a representative payee without a face-to-face interview.
 
-[69 FR 60233, Oct. 7, 2004, as amended at 73 FR 66521, Nov. 10, 2008; 84 FR 4325, Feb. 15, 2019]
+[69 FR 60233, Oct. 7, 2004, as amended at 73 FR 66521, Nov. 10, 2008; 84 FR 4325, Feb. 15, 2019; 84 FR 57319, Oct. 25, 2019]
