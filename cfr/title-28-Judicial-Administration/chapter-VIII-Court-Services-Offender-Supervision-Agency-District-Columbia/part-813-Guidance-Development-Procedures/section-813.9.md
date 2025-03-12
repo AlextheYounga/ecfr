@@ -1,0 +1,3 @@
+##### § 813.9 Petitions for withdrawal or modification of guidance. #####
+
+Any person may petition CSOSA or PSA to withdraw or modify a particular guidance document. A person may make a request by accessing the respective agency guidance web portal or by writing a letter to the respective Agencies. The Agencies' portals allow an individual to provide his or her contact information and guidance-related requests. The Agencies will respond in a timely manner, but no later than 90 days after receipt of the request.
