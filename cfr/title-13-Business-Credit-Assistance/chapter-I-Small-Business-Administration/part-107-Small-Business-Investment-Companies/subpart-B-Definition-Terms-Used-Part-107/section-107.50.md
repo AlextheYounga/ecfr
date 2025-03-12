@@ -1,6 +1,6 @@
 ##### § 107.50 Definition of terms. #####
 
-Link to an amendment published at 81 FR 95424, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8499, Jan. 26, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14428, Mar. 21, 2017.This amendment was further delayed until Aug. 18, 2017, at 82 FR 20433, May 2, 2017.
+Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
 
 *Accumulated Prioritized Payments* has the meaning set forth in § 107.1520.
 
