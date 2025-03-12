@@ -8,15 +8,15 @@ Unless defined in this section, terms that are set forth in § 238.2 and used in
 
 (i) The market value of the cash, securities, or other eligible collateral; and
 
-(ii) The product of the market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of this chapter; and
+(ii) The product of the market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in table 1 to § 217.132 of this chapter; and
 
 (2) With respect to cash, securities, or other eligible collateral received by the covered company from a counterparty:
 
 (i) The market value of the cash, securities, or other eligible collateral; minus
 
-(ii) The market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of this chapter.
+(ii) The market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in table 1 to § 217.132 of this chapter.
 
-(3) Prior to calculating the adjusted market value pursuant to paragraphs (a)(1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of this chapter, the covered company would first multiply the applicable collateral haircuts in Table 1 to § 217.132 of this chapter by the square root of 1/2.
+(3) Prior to calculating the adjusted market value pursuant to paragraphs (a)(1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of this chapter, the covered company would first multiply the applicable collateral haircuts in table 1 to § 217.132 of this chapter by the square root of 1/2.
 
 (b) *Affiliate* means, with respect to a company:
 

@@ -1,7 +1,5 @@
 ##### § 3282.7 Definitions. #####
 
-Link to an amendment published at 85 FR 5566, Jan. 31, 2020.
-
 The terms *Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 
 (a) *Act* means the National Manufactured Housing Construction and Safety Standards Act of 1974, title VI of the Housing and Community Development Act of 1974 (42 U.S.C. 5401 *et seq.*)
@@ -32,7 +30,7 @@ The terms *Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 
 (n) *Failure to conform* means an imminent safety hazard related to the standards, a serious defect, defect, or noncompliance and is used as a substitute for all of those terms.
 
-(o) [Reserved]
+(o) *Finished good* has the meaning provided in 40 CFR 770.3.
 
 (p) *Imminent safety hazard* means a hazard that presents an imminent and unreasonable risk of death or severe personal injury that may or may not be related to failure to comply with an applicable Federal manufactured home construction or safety standard. See related definitions of *defect* (definition j), *noncompliance* (paragraph x) and *serious defect* (paragraph ff).
 
@@ -88,4 +86,4 @@ The terms *Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 
 (nn) (Same as § 3280.2(a)(22).)
 
-[41 FR 19852, May 13, 1976, as amended at 41 FR 24971, June 21, 1976; 47 FR 28093, June 29, 1982; 61 FR 5216, Feb. 9, 1996; 61 FR 10859, Mar. 15, 1996; 78 FR 60199, Oct. 1, 2013; 80 FR 53727, Sept. 8, 2015]
+[41 FR 19852, May 13, 1976, as amended at 41 FR 24971, June 21, 1976; 47 FR 28093, June 29, 1982; 61 FR 5216, Feb. 9, 1996; 61 FR 10859, Mar. 15, 1996; 78 FR 60199, Oct. 1, 2013; 80 FR 53727, Sept. 8, 2015; 85 FR 5566, Jan. 31, 2020]

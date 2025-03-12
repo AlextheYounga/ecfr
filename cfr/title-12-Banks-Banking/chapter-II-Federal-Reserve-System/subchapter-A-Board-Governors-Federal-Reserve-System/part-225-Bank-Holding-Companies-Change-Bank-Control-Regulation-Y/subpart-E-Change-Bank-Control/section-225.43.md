@@ -10,7 +10,7 @@
 
 (b) *Acceptance of notice.* The 60-day notice period specified in § 225.41 of this subpart begins on the date of receipt of a complete notice. The Reserve Bank shall notify the person or persons submitting a notice under this subpart in writing of the date the notice is or was complete and thereby accepted for processing. The Reserve Bank or the Board may request additional relevant information at any time after the date of acceptance.
 
-(c) *Publication* - (1) *Newspaper Announcement.* Any person(s) filing a notice under this subpart shall publish, in a form prescribed by the Board, an announcement soliciting public comment on the proposed acquisition. The announcement shall be published in a newspaper of general circulation in the community in which the head office of the state member bank to be acquired is located or, in the case of a proposed acquisition of a bank holding company, in the community in which its head office is located and in the community in which the head office of each of its subsidiary banks is located. The announcement shall be published no earlier than 15 calendar days before the filing of the notice with the appropriate Reserve Bank and no later than 10 calendar days after the filing date; and the publisher's affidavit of a publication shall be provided to the appropriate Reserve Bank.
+(c) *Publication*—(1) *Newspaper Announcement.* Any person(s) filing a notice under this subpart shall publish, in a form prescribed by the Board, an announcement soliciting public comment on the proposed acquisition. The announcement shall be published in a newspaper of general circulation in the community in which the head office of the state member bank to be acquired is located or, in the case of a proposed acquisition of a bank holding company, in the community in which its head office is located and in the community in which the head office of each of its subsidiary banks is located. The announcement shall be published no earlier than 15 calendar days before the filing of the notice with the appropriate Reserve Bank and no later than 10 calendar days after the filing date; and the publisher's affidavit of a publication shall be provided to the appropriate Reserve Bank.
 
 (2) *Contents of newspaper announcement.* The newspaper announcement shall state:
 
@@ -30,7 +30,7 @@
 
 (7) *Standing.* No person (other than the acquiring person) who submits comments or information on a notice filed under this subpart shall thereby become a party to the proceeding or acquire any standing or right to participate in the Board's consideration of the notice or to appeal or otherwise contest the notice or the Board's action regarding the notice.
 
-(d) *Time period for Board action* - (1) *Consummation of acquisition* - (i) The notificant(s) may consummate the proposed acquisition 60 days after submission to the Reserve Bank of a complete notice under paragraph (a) of this section, unless within that period the Board disapproves the proposed acquisition or extends the 60-day period, as provided under paragraph (d)(2) of this section.
+(d) *Time period for Board action*—(1) *Consummation of acquisition.* (i) The notificant(s) may consummate the proposed acquisition 60 days after submission to the Reserve Bank of a complete notice under paragraph (a) of this section, unless within that period the Board disapproves the proposed acquisition or extends the 60-day period, as provided under paragraph (d)(2) of this section.
 
 (ii) The notificant(s) may consummate the proposed transaction before the expiration of the 60-day period if the Board notifies the notificant(s) in writing of the Board's intention not to disapprove the acquisition.
 
@@ -58,7 +58,7 @@
 
 (g) *Factors considered in acting on notices.* In reviewing a notice filed under this subpart, the Board shall consider the information in the record, the views and recommendations of the appropriate bank supervisor, and any other relevant information obtained during any investigation of the notice.
 
-(h) *Disapproval and hearing* - (1) *Disapproval of notice.* The Board may disapprove an acquisition if it finds adverse effects with respect to any of the factors set forth in paragraph 7 of the Bank Control Act (12 U.S.C. 1817(j)(7)) (*i.e.,* competitive, financial, managerial, banking, or incompleteness of information).
+(h) *Disapproval and hearing*—(1) *Disapproval of notice.* The Board may disapprove an acquisition if it finds adverse effects with respect to any of the factors set forth in paragraph 7 of the Bank Control Act (12 U.S.C. 1817(j)(7)) (*i.e.,* competitive, financial, managerial, banking, or incompleteness of information).
 
 (2) *Disapproval notification.* Within three days after its decision to issue a notice of intent to disapprove any proposed acquisition, the Board shall notify the acquiring person in writing of the reasons for the action.
 

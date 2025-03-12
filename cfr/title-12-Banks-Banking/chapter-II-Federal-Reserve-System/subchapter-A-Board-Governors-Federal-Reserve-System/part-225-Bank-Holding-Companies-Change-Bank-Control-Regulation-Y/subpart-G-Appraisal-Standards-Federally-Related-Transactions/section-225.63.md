@@ -60,4 +60,4 @@
 
 (e) *Transactions requiring either a State certified or licensed appraiser.* All appraisals for federally related transactions not requiring the services of a State certified appraiser shall be prepared by either a State certified appraiser or a State licensed appraiser.
 
-[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019; 84 FR 53598, Oct. 8, 2019]
+[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, 53598, Oct. 8, 2019]

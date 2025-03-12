@@ -12,9 +12,17 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (e) File notices of appearance in bankruptcy reorganization cases under section 1109(a) of the Bankruptcy Code involving debtors, the securities of which are registered or required to be registered under section 12 of the Securities Exchange Act.
 
-(f) Approve non-expert, non-privileged, factual testimony by present or former staff members, and the production of non-privileged documents, when validly subpoenaed; and assert governmental privileges on behalf of the Commission in litigation where the Commission appears as a party or in response to third party subpoenas.
+(f) In bankruptcy cases, to take the following actions with respect to plan or settlement provisions that have the effect of releasing, exculpating, discharging, or permanently enjoining actions against non-debtor third parties in contravention of Section 524(e) of the Bankruptcy Code or applicable law:
 
-(g)(1) With respect to proceedings conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* the Trust Indenture Act of 1939, 15 U.S.C. 77aaa *et seq.,* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.,* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.,* the Securities Investor Protection Act of 1970, 15 U.S.C. 78aaa *et seq.,* the provisions of Rule 102(e) of the Commission Rules of Practice, § 201.102(e) of this chapter, and Title I of the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7211-7219:
+(1) Object to approval of disclosure statements, including on the basis that the disclosure statement lacks adequate information under Section 1125(b) to support such release provisions;
+
+(2) Object to confirmation of bankruptcy plans; or
+
+(3) Object to approval of settlements.
+
+(g) Approve non-expert, non-privileged, factual testimony by present or former staff members, and the production of non-privileged documents, when validly subpoenaed; and assert governmental privileges on behalf of the Commission in litigation where the Commission appears as a party or in response to third party subpoenas.
+
+(h)(1) With respect to proceedings conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* the Trust Indenture Act of 1939, 15 U.S.C. 77aaa *et seq.,* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.,* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.,* the Securities Investor Protection Act of 1970, 15 U.S.C. 78aaa *et seq.,* the provisions of Rule 102(e) of the Commission Rules of Practice, § 201.102(e) of this chapter, and Title I of the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7211-7219:
 
 (i) To consider an application for review of an interlocutory ruling which an administrative law judge has refused to certify, and to deny such application upon determining that the administrative law judge did not err in refusing to certify the matter.
 
@@ -60,9 +68,9 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (8) In connection with Commission review of actions taken by the Public Company Accounting Oversight Board pursuant to Title I of the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7211-7219, to determine whether to lift the automatic stay of a disciplinary sanction.
 
-(h) Notwithstanding anything in paragraph (g) of this section, the functions described in paragraph (g) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Executive Assistant to the Chairman pursuant to § 200.30-16 of this chapter.
+(i) Notwithstanding anything in paragraph (g) of this section, the functions described in paragraph (g) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Executive Assistant to the Chairman pursuant to § 200.30-16 of this chapter.
 
-(i)(1) With respect to a proceeding conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.;* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.;* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.;* and the provisions of Rule 102(e) of the Commission's Rules of Practice, 17 CFR 201.102(e), that has been set for hearing before the Commission pursuant to Rule 110 of the Commission's Rules of Practice, 17 CFR 201.110:
+(j)(1) With respect to a proceeding conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.;* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.;* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.;* and the provisions of Rule 102(e) of the Commission's Rules of Practice, 17 CFR 201.102(e), that has been set for hearing before the Commission pursuant to Rule 110 of the Commission's Rules of Practice, 17 CFR 201.110:
 
 (i) To determine procedural requests or similar prehearing matters; and
 
@@ -70,21 +78,21 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (2) Provided, however, that the General Counsel may not issue subpoenas, authorize depositions, rule upon the admissibility of evidence or upon motions to quash or to compel, preside over a hearing or the taking of testimony, sanction a party, act upon a dispositive motion, declare a default, dispose of a claim or defense, or otherwise resolve or terminate the proceeding on the merits.
 
-(j) Notwithstanding anything in paragraph (i) of this section, the functions described in paragraph (i) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Secretary of the Commission pursuant to § 200.30-7.
+(k) Notwithstanding anything in paragraph (i) of this section, the functions described in paragraph (i) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Secretary of the Commission pursuant to § 200.30-7.
 
-(k) Notwithstanding anything in paragraphs (g) or (i) of this section, in any case described in paragraphs (g) or (i) of this section in which the General Counsel believes it appropriate, he or she may submit the matter to the Commission.
+(l) Notwithstanding anything in paragraphs (g) or (i) of this section, in any case described in paragraphs (g) or (i) of this section in which the General Counsel believes it appropriate, he or she may submit the matter to the Commission.
 
-(l) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
+(m) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
 
 (1) To administer the provisions of § 240.24c-1 of this chapter; provided that access to nonpublic information as defined in such section shall be provided only with the concurrence of the head of the Commission division or office responsible for such information or the files containing such information.
 
 (2) To administer the provisions of section 24(d) of the Act (15 U.S.C. 78x(d)).
 
-(m) To refer matters and information concerning possible professional misconduct to state bar associations and other state professional boards or societies.
+(n) To refer matters and information concerning possible professional misconduct to state bar associations and other state professional boards or societies.
 
-(n) File applications in district court under Section 21(e)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(e)(1)) to obtain orders commanding persons to comply with Commission orders.
+(o) File applications in district court under Section 21(e)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(e)(1)) to obtain orders commanding persons to comply with Commission orders.
 
-(o)(1) To designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to Section 21 of the Securities Exchange Act of 1934 (15 U.S.C. 78u) including for possible violations by attorneys of Rule 102(e) of the Commission Rules of Practice (17 CFR 201.102(e)).
+(p)(1) To designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to Section 21 of the Securities Exchange Act of 1934 (15 U.S.C. 78u) including for possible violations by attorneys of Rule 102(e) of the Commission Rules of Practice (17 CFR 201.102(e)).
 
 (2) To terminate the authority of officers to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to Section 21 of the Securities Exchange Act of 1934 (15 U.S.C. 78u) including for possible violations by attorneys of Rule 102(e) of the Commission Rules of Practice (17 CFR 201.102(e)).
 

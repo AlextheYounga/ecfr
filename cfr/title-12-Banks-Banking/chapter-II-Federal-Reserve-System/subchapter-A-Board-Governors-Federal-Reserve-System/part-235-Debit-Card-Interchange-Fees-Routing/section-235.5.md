@@ -1,6 +1,6 @@
 ##### § 235.5 Exemptions. #####
 
-(a) *Exemption for small issuers.* (1) *In general.* Except as provided in paragraph (a)(3) of this section, §§ 235.3, 235.4, and 235.6 do not apply to an interchange transaction fee received or charged by an issuer with respect to an electronic debit transaction if -
+(a) *Exemption for small issuers* - (1) *In general.* Except as provided in paragraph (a)(3) of this section, §§ 235.3, 235.4, and 235.6 do not apply to an interchange transaction fee received or charged by an issuer with respect to an electronic debit transaction if -
 
 (i) The issuer holds the account that is debited; and
 

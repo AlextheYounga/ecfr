@@ -1,7 +1,5 @@
 ##### § 3280.5 Data plate. #####
 
-Link to an amendment published at 85 FR 5566, Jan. 31, 2020.
-
 Each manufactured home shall bear a data plate affixed in a permanent manner near the main electrical panel or other readily accessible and visible location. Each data plate shall be made of material what will receive typed information as well as preprinted information, and which can be cleaned of ordinary smudges or household dirt without removing information contained on the data plate; or the data plate shall be covered in a permanent manner with materials that will make it possible to clean the data plate of ordinary dirt and smudges without obscuring the information. Each data plate shall contain not less than the following information:
 
 (a) The name and address of the manufacturing plant in which the manufactured home was manufactured.
@@ -28,4 +26,6 @@ This home has - has not - (appropriate blank to be checked by manufacturer) been
 
 (h) The statement: “Design Approval by”, followed by the name of the agency that approved the design.
 
-[59 FR 2469, Jan. 14, 1994, as amended at 80 FR 53727, Sept. 8, 2015]
+(i) The statement: The manufacturer certifies this home is compliant with the Title VI, Toxic Substances Control Act.
+
+[59 FR 2469, Jan. 14, 1994, as amended at 80 FR 53727, Sept. 8, 2015; 85 FR 5566, Jan. 31, 2020]

@@ -1,5 +1,7 @@
 ##### § 238.2 Definitions. #####
 
+Link to an amendment published at 85 FR 12426, Mar. 2, 2020.
+
 As used in this part and in the forms under this part, the following definitions apply, unless the context otherwise requires:
 
 (a) *Affiliate* means any person or company which controls, is controlled by or is under common control with a person, savings association or company.

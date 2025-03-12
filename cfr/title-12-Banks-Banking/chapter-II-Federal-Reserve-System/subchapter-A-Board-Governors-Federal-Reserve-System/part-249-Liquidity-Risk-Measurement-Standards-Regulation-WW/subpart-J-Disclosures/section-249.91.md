@@ -2,16 +2,14 @@
 
 (a) *General.* A covered depository institution holding company or covered nonbank company subject to this subpart must disclose publicly the information required by paragraph (b) of this section in the format provided in the following table.
 
-Table 1 to § 249.91(a) - Disclosure Template
-
 |                                  XX/XX/XXXX to YY/YY/YYYY  <br/>(In millions of U.S. dollars)                                  |Average  <br/>unweighted  <br/>amount|Average  <br/>weighted  <br/>amount|
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------|
-|                                                   High-Quality Liquid Assets                                                   |                                     |                                   |
+|                                                 **High-Quality Liquid Assets**                                                 |                                     |                                   |
 |                                 1. Total eligible high-quality liquid assets (HQLA), of which:                                 |                                     |                                   |
 |                                               2. Eligible level 1 liquid assets                                                |                                     |                                   |
 |                                               3. Eligible level 2A liquid assets                                               |                                     |                                   |
 |                                               4. Eligible level 2B liquid assets                                               |                                     |                                   |
-|                                                      Cash Outflow Amounts                                                      |                                     |                                   |
+|                                                    **Cash Outflow Amounts**                                                    |                                     |                                   |
 |                             5. Deposit outflow from retail customers and counterparties, of which:                             |                                     |                                   |
 |                                                6. Stable retail deposit outflow                                                |                                     |                                   |
 |                                                    7. Other retail funding                                                     |                                     |                                   |
@@ -27,7 +25,7 @@ Table 1 to § 249.91(a) - Disclosure Template
 |                                        17. Other contractual funding obligation outflow                                        |                                     |                                   |
 |                                        18. Other contingent funding obligations outflow                                        |                                     |                                   |
 |                                                     19. Total Cash Outflow                                                     |                                     |                                   |
-|                                                      Cash Inflow Amounts                                                       |                                     |                                   |
+|                                                    **Cash Inflow Amounts**                                                     |                                     |                                   |
 |                                       20. Secured lending and asset exchange cash inflow                                       |                                     |                                   |
 |                                                     21. Retail cash inflow                                                     |                                     |                                   |
 |                                              22. Unsecured wholesale cash inflow                                               |                                     |                                   |
@@ -38,19 +36,18 @@ Table 1 to § 249.91(a) - Disclosure Template
 |                                                     27. Other cash inflow                                                      |                                     |                                   |
 |                                                     28. Total Cash Inflow                                                      |                                     |                                   |
 
-|                                                                        |   |Average  <br/>amount<sup>1</sup>|
-|------------------------------------------------------------------------|---|--------------------------------|
-|                            29. HQLA Amount                             |   |                                |
-|30. Total Net Cash Outflow Amount Excluding The Maturity Mismatch Add-On|   |                                |
-|                      31. Maturity Mismatch Add-On                      |   |                                |
-|              32. Total Unadusted Net Cash Outflow Amount               |   |                                |
-|                   33. Outflow Adjustment Percentage                    |   |                                |
-|               34. Total Adjusted Net Cash Outflow Amount               |   |                                |
-|                    35. Liquidity Coverage Ratio (%)                    |   |                                |
+|                                                                                                                                                                                                                                                         |   |Average  <br/>amount <sup>1</sup>|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------|
+|                                                                                                                     29. HQLA Amount                                                                                                                     |   |                                 |
+|                                                                                        30. Total Net Cash Outflow Amount Excluding The Maturity Mismatch Add-On                                                                                         |   |                                 |
+|                                                                                                              31. Maturity Mismatch Add-On                                                                                                               |   |                                 |
+|                                                                                                       32. Total Unadusted Net Cash Outflow Amount                                                                                                       |   |                                 |
+|                                                                                                            33. Outflow Adjustment Percentage                                                                                                            |   |                                 |
+|                                                                                                       34. Total Adjusted Net Cash Outflow Amount                                                                                                        |   |                                 |
+|                                                                                                            35. Liquidity Coverage Ratio (%)                                                                                                             |   |                                 |
+|<sup>1</sup> The amounts reported in this column may not equal the calculation of those amounts using component amounts reported in rows 1-28 due to technical factors such as the application of the level 2 liquid asset caps and the total inflow cap.|   |                                 |
 
-<sup>1</sup> The amounts reported in this column may not equal the calculation of those amounts using component amounts reported in rows 1-28 due to technical factors such as the application of the level 2 liquid asset caps and the total inflow cap.
-
-(b) *Calculation of disclosed average amounts* - (1) *General.* (i) A covered depository institution holding company or covered nonbank company subject to this subpart must calculate its disclosed average amounts:
+(b) *Calculation of disclosed average amounts*—(1) *General.* (i) A covered depository institution holding company or covered nonbank company subject to this subpart must calculate its disclosed average amounts:
 
 (A) On a consolidated basis and presented in millions of U.S. dollars or as a percentage, as applicable; and
 
@@ -66,7 +63,7 @@ Table 1 to § 249.91(a) - Disclosure Template
 
 (ii) A covered depository institution holding company or covered nonbank company subject to this subpart must calculate the average weighted amount of cash outflows and cash inflows after applying the outflow and inflow rates specified in §§ 249.32 and 249.33, respectively.
 
-(c) *Quantitative disclosures.* A covered depository institution holding company or covered nonbank company subject to this subpart must disclose all the information required under Table 1 to § 249.91(a) - Disclosure Template, including:
+(c) *Quantitative disclosures.* A covered depository institution holding company or covered nonbank company subject to this subpart must disclose all the information required under Table 1 to § 249.91(a)—Disclosure Template, including:
 
 (1) The sum of the average unweighted amounts and average weighted amounts calculated under paragraphs (c)(2) through (4) of this section (row 1);
 

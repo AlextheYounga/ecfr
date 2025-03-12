@@ -16,7 +16,7 @@
 
 (7) Acquisitions of up to 15 percent of the voting stock of any savings association by a savings and loan holding company (other than a bank holding company) in connection with a qualified stock issuance if such acquisition is approved by the Board pursuant to subpart E.
 
-(b) The requirements of § 238.11(c) do not apply to voting shares of a savings association or of a savings and loan holding company -
+(b) The requirements of § 238.11(c) do not apply to voting shares of a savings association or of a savings and loan holding company—
 
 (1) Held as a *bona fide* fiduciary (whether with or without the sole discretion to vote such shares);
 
@@ -34,7 +34,7 @@
 
 (c) The aggregate amount of shares held under paragraph (b) of this section (other than pursuant to paragraphs (b)(1) through (4) and (b)(6)) may not exceed 15 percent of all outstanding shares or the voting power of a savings association or savings and loan holding company.
 
-(d) *Acquisitions involving savings association mergers and internal corporate reorganizations* - The requirements of § 238.11 do not apply to:
+(d) *Acquisitions involving savings association mergers and internal corporate reorganizations.* The requirements of § 238.11 do not apply to:
 
 (1) *Certain transactions subject to the Bank Merger Act.* The acquisition by a savings and loan holding company of shares of a savings association or company controlling a savings association or the merger of a company controlling a savings association with the savings and loan holding company, if the transaction is part of the merger or consolidation of the savings association with a subsidiary savings association (other than a nonoperating subsidiary savings association) of the acquiring savings and loan holding company, or is part of the purchase of substantially all of the assets of the savings association by a subsidiary savings association (other than a nonoperating subsidiary savings association) of the acquiring savings and loan holding company, and if:
 
@@ -66,7 +66,7 @@
 
 (C) The transfer of control or ownership of a subsidiary savings association or a subsidiary holding company between one subsidiary holding company and another subsidiary holding company or the savings and loan holding company.
 
-(ii) A transaction described in paragraph (d)(2)(i) of this section qualifies for this exception if -
+(ii) A transaction described in paragraph (d)(2)(i) of this section qualifies for this exception if—
 
 (A) The transaction represents solely a corporate reorganization involving companies and insured depository institutions that, both preceding and following the transaction, are lawfully controlled and operated by the savings and loan holding company;
 

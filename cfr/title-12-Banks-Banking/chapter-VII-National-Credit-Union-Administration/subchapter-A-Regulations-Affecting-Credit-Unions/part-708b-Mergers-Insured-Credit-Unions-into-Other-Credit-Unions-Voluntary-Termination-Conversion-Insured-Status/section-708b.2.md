@@ -48,4 +48,4 @@ As used in this part:
 
 *Uninsured* means there is no share or deposit insurance available on the credit union accounts.
 
-[70 FR 3288, Jan. 24, 2005, as amended at 75 FR 80680, Dec. 23, 2010; 75 FR 81393, Dec. 28, 2010; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016; 82 FR 60292, Dec. 20, 2017; 83 FR 30310, June 28, 2018; 84 FR 1607, Feb. 5, 2019]]
+[70 FR 3288, Jan. 24, 2005, as amended at 75 FR 80680, Dec. 23, 2010; 75 FR 81393, Dec. 28, 2010; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016; 82 FR 60292, Dec. 20, 2017; 83 FR 30310, June 28, 2018; 84 FR 1607, Feb. 5, 2019]

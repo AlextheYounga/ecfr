@@ -2,7 +2,7 @@
 
 This License Exception authorizes departure from the United States of foreign registry civil aircraft on temporary sojourn in the United States and of U.S. civil aircraft for temporary sojourn abroad; the export of equipment and spare parts for permanent use on a vessel or aircraft; exports to vessels or planes of U.S. or Canadian registry and U.S. or Canadian Airlines' installations or agents; the export or reexport of cargo that will transit Cuba on an aircraft or vessel on temporary sojourn; and the export of spacecraft and components for fundamental research. Generally, no License Exception symbol is necessary for export clearance purposes; however, when necessary, the symbol “AVS” may be used.
 
-(a) *Aircraft on temporary sojourn* - (1) *Foreign registered aircraft.* An operating civil aircraft of foreign registry that has been in the United States on a temporary sojourn may depart from the United States under its own power for any destination, provided that:
+(a) *Aircraft on temporary sojourn*—(1) *Foreign registered aircraft.* An operating civil aircraft of foreign registry that has been in the United States on a temporary sojourn may depart from the United States under its own power for any destination, provided that:
 
 (i) No sale or transfer of operational control of the aircraft to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) has occurred while in the United States;
 
@@ -56,11 +56,11 @@ This License Exception authorizes departure from the United States of foreign re
 
 (4) *Reexports.* Civil aircraft legally exported from the United States may be reexported under this section, provided the restrictions described in this paragraph (a) are met.
 
-Note to paragraph (a).
+Note to paragraph (a):
 
 An aircraft exported or reexported to a country pursuant to this paragraph (a) may not remain in that country for more than seven consecutive days before it departs for a country to which it may be exported without a license or the United States.
 
-(b) *Equipment and spare parts for permanent use on a vessel or aircraft, and ship and plane stores* - (1) *Vessel.* Equipment and spare parts for permanent use on a vessel, when necessary for the proper operation of such vessel, may be exported or reexported for use on board a vessel of any registry, except a vessel registered in Country Group D:1 (see supplement no. 1 to part 740), Cuba, or owned or controlled by, or under charter or lease to any of these countries or their nationals. In addition, other equipment and services for necessary repair to fishing and fishery support vessels of Country Group D:1 may be exported for use on board such vessels when admitted into the United States under governing international fishery agreements.
+(b) *Equipment and spare parts for permanent use on a vessel or aircraft, and ship and plane stores*—(1) *Vessel.* Equipment and spare parts for permanent use on a vessel, when necessary for the proper operation of such vessel, may be exported or reexported for use on board a vessel of any registry, except a vessel registered in Country Group D:1 (see supplement no. 1 to part 740), Cuba, or owned or controlled by, or under charter or lease to any of these countries or their nationals. In addition, other equipment and services for necessary repair to fishing and fishery support vessels of Country Group D:1 may be exported for use on board such vessels when admitted into the United States under governing international fishery agreements.
 
 (2) *Aircraft.* Equipment and spare parts for permanent use on an aircraft, when necessary for the proper operation of such aircraft, may be exported or reexported for use on board an aircraft of any registry, except an aircraft registered in, owned or controlled by, or under charter or lease to a country included in Country Group D:1, Cuba, or a national of any of these countries.
 
@@ -78,7 +78,7 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (4) *Cuba.* Only items designated as EAR99 or controlled on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR) only for anti-terrorism reasons (*i.e.,* anti-terrorism must be the only reason for control that applies to the item as set forth in the Export Control Classification Number (ECCN) that controls the item) are eligible for export or reexport to Cuba pursuant to this paragraph (b).
 
-(c) *Shipments to U.S. or Canadian vessels, planes and airline installations or agents* - (1) *Exports to vessels or planes of U.S. or Canadian registry.* Export may be made of the commodities set forth in paragraph (c)(3) of this section, for use by or on a specific vessel or plane of U.S. or Canadian registry located at any seaport or airport outside the United States or Canada except a port in Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided that such commodities are all of the following:3
+(c) *Shipments to U.S. or Canadian vessels, planes and airline installations or agents*—(1) *Exports to vessels or planes of U.S. or Canadian registry.* Export may be made of the commodities set forth in paragraph (c)(3) of this section, for use by or on a specific vessel or plane of U.S. or Canadian registry located at any seaport or airport outside the United States or Canada except a port in Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided that such commodities are all of the following:3
 
 3 Where a license is required, see §§ 748.1, 748.4 and 748.6 of the EAR.
 
@@ -116,7 +116,7 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (vi) Equipment and spare parts.
 
-(d) *Vessels on temporary sojourn* - (1) *Foreign flagged vessels.* A foreign flagged vessel in the United States may depart from the United States under its own power for any destination, provided that:
+(d) *Vessels on temporary sojourn*—(1) *Foreign flagged vessels.* A foreign flagged vessel in the United States may depart from the United States under its own power for any destination, provided that:
 
 (i) No sale or transfer of operational control of the vessel to a national of a destination in Country Group E:1 or E:2 (see supplement no. 1 to this part) has occurred while in the United States;
 
@@ -172,7 +172,7 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (6) *Cuba, eligible vessels and purposes.* For Cuba, only cargo vessels for hire for use in the transportation of items are eligible for this paragraph (d).
 
-Note 1 to paragraph (d).
+Note 1 to paragraph (d):
 
 A vessel exported or reexported to a country pursuant to this paragraph (d) may not remain in that country for more than 14 consecutive days before it departs for a country to which it may be exported without a license or the United States.
 

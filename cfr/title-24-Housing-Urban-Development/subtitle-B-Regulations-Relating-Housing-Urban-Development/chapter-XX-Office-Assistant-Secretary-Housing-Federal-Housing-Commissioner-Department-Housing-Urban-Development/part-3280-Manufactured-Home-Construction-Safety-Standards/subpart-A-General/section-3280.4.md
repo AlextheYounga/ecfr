@@ -1,7 +1,5 @@
 ##### § 3280.4 Incorporation by reference. #####
 
-Link to an amendment published at 85 FR 5565, Jan. 31, 2020.
-
 (a) The specifications, standards, and codes of the following organizations are incorporated by reference in 24 CFR part 3280 (this Standard) pursuant to 5 U.S.C. 552(a) and 1 CFR part 51 as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. Incorporated standards have the same force and effect as this Standard (24 CFR part 3280), except that whenever reference standards and this Standard are inconsistent, the requirements of this Standard prevail to the extent of the inconsistency. The Department will enforce the listed editions of material incorporated by this section. Where two or more incorporated standards are equivalent in application, the manufacturer may use either standard. If a later edition is to be enforced, the Department will publish a notice of change in the Federal Register. These incorporated standards are available for purchase from the organization that developed the standard at the corresponding addresses noted below. Incorporated standards are available for inspection at the Office of Manufactured Housing Program, Manufactured Housing and Construction Standards Division, U.S. Department of Housing and Urban Development, 451 Seventh Street SW., Room B-133, Washington, DC 20410. Copies of incorporated standards that are not available from their producer organizations may be obtained from the Office of Manufactured Housing Programs. These standards are also available for inspection at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register.*
 
 (b) Air Conditioning & Refrigeration Institute (ARI), 4100 North Fairfax Drive, Suite 200, Arlington, VA 22203, telephone number 703-524-8800, fax number 703-528-3816, Web site: *http://www.lightindustries.com/ARI/.*
@@ -296,23 +294,25 @@ Link to an amendment published at 85 FR 5565, Jan. 31, 2020.
 
 (24) ASTM D4635-01, Standard Specification for Polyethylene Films Made from Low-Density Polyethylene for General Use and Packaging Applications, approved June 10, 2001, IBR approved for § 3280.611(d).
 
-(25) ASTM E84-01, Standard Test Method for Surface Burning Characteristics of Building Materials, 2001, IBR approved for § 3280.203(a).
+(25) ASTM D6007-14, Standard Test Method for Determining Formaldehyde Concentrations in Air from Wood Products Using a Small Air Chamber, approved October 1, 2014; IBR approved for § 3280.406(b).
 
-(26) ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials, IBR approved for § 3280.504(a).
+(26) ASTM E84-01, Standard Test Method for Surface Burning Characteristics of Building Materials, 2001, IBR approved for § 3280.203(a).
 
-(27) ASTM E 162-94, Standard Test Method for Surface Flammability of Materials Using a Radiant Heat Energy Source, IBR approved for § 3280.203(a).
+(27) ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials, IBR approved for § 3280.504(a).
 
-(28) ASTM E 773-97, Standard Test Methods for Accelerated Weathering of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
+(28) ASTM E 162-94, Standard Test Method for Surface Flammability of Materials Using a Radiant Heat Energy Source, IBR approved for § 3280.203(a).
 
-(29) ASTM E 774-97, Standard Specification for the Classification of the Durability of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
+(29) ASTM E 773-97, Standard Test Methods for Accelerated Weathering of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
 
-(30) ASTM E 1333-96, Standard Test Method for Determining Formaldehyde Concentrations in Air and Emission Rates from Wood Products Using a Large Chamber, approved March 10, 1996, IBR approved for § 3280.406(b).
+(30) ASTM E 774-97, Standard Specification for the Classification of the Durability of Sealed Insulating Glass Units, IBR approved for § 3280.403(d).
 
-(31) ASTM F628-91, Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40, Plastic Drain, Waste, and Vent Pipe with a Cellular Core, IBR approved for § 3280.604(b).
+(31) ASTM E1333-14, Standard Test Method for Determining Formaldehyde Concentrations in Air and Emission Rates from Wood Products Using a Large Air Chamber, approved October 1, 2014; IBR approved for § 3280.406(b).
 
-(32) ASTM F876-10, Standard Specification for Crosslinked Polyethylene (PEX) Tubing, approved February 10, 2010, IBR approved for § 3280.604(b).
+(32) ASTM F628-91, Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40, Plastic Drain, Waste, and Vent Pipe with a Cellular Core, IBR approved for § 3280.604(b).
 
-(33) ASTM F877-07, Standard Specification for Crosslinked Polyethylene (PEX) Plastic Hot- and Cold-Water Distribution Systems, approved February 1, 2007, IBR approved for § 3280.604(b).
+(33) ASTM F876-10, Standard Specification for Crosslinked Polyethylene (PEX) Tubing, approved February 10, 2010, IBR approved for § 3280.604(b).
+
+(34) ASTM F877-07, Standard Specification for Crosslinked Polyethylene (PEX) Plastic Hot- and Cold-Water Distribution Systems, approved February 1, 2007, IBR approved for § 3280.604(b).
 
 (q) Cast Iron Soil Pipe Institute (CISPI), 1064 Delaware Avenue SE, Atlanta, GA 30316, telephone number 404-622-0073, fax number 404-973-2845, Web site: *http://www.cispi.org/.*
 
@@ -540,4 +540,4 @@ Link to an amendment published at 85 FR 5565, Jan. 31, 2020.
 
 (2) [Reserved]
 
-[78 FR 73976, Dec. 9, 2013, as amended at 79 FR 31863, June 3, 2014]
+[78 FR 73976, Dec. 9, 2013, as amended at 79 FR 31863, June 3, 2014; 85 FR 5566, Jan. 31, 2020]

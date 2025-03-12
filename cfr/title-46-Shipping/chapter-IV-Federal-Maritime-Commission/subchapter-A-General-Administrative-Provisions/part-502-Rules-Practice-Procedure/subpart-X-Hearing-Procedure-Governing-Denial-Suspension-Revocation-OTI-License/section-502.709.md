@@ -1,0 +1,5 @@
+##### § 502.709 Applicability of other rules to this subpart. #####
+
+(a) Except as otherwise specifically provided in this subpart or in paragraph (b) of this section, the sections in subparts A through Q, inclusive, of this part do not apply to proceedings covered by this subpart.
+
+(b) The following sections in subparts A through Q apply to proceedings covered by this subpart: §§ 502.1 through 502.11, 502.13 (Filing requirements, Document requirements, and General rules); 502.21 through 502.23 (Appearance, Authority for representation, Notice of appearance, Substitution, and Withdrawal of representative); 502.42 (Bureau of Enforcement); 502.43 (Substitution of parties); 502.101 through 502.105 (Computation of time); 502.114, 502.116 through 502.117 (Service of documents); 502.223 through 502.230 (Decisions). [Rule 709.]

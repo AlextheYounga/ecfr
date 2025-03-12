@@ -6,15 +6,15 @@
 
 (2) The ECCN(s) for any 9x515 or “600 series” “items” being shipped (*i.e.,* exported in tangible form).
 
-Note 1 to paragraph (a).
+Note 1 to paragraph (a):
 
 In paragraph (a)(1), the term 'authorized' includes exports, reexports and transfers (in-country) designated under No License Required (NLR).
 
-Note 2 to paragraph (a).
+Note 2 to paragraph (a):
 
 The phrase 'country of ultimate destination' means the country specified on the commercial invoice where the ultimate consignee or end user will receive the items as an “export.”
 
-Note 3 to paragraph (a).
+Note 3 to paragraph (a):
 
 The phrase 'or as otherwise authorized by U.S. law and regulations' is included because the EAR contain specific exemptions from licensing (*e.g.,* EAR license exceptions and NLR designations) and do not control the reexport of foreign-made items containing less than a de minimis amount of controlled content. See § 734.4 and supplement no. 2 to part 748.
 

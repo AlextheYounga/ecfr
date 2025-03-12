@@ -56,7 +56,7 @@ Each Federal Reserve Bank is authorized as to a member bank or other indicated o
 
 (2) [Reserved]
 
-(c) *Holding companies; change in bank control; mergers.* - (1) *Require reports under oath.* To require reports under oath to determine whether a company is complying with section 5(c) of the Bank Holding Company Act (12 U.S.C. 1844(c)).
+(c) *Holding companies; change in bank control; mergers* - (1) *Require reports under oath.* To require reports under oath to determine whether a company is complying with section 5(c) of the Bank Holding Company Act (12 U.S.C. 1844(c)).
 
 (2) *Acquisition of going concern - authorization of consummation; early consummation.* (i) To notify a bank holding company that, because the circumstances surrounding the application to acquire a going concern indicate that additional information is required or that the acquisition should be considered by the Board, the acquisition should not be consummated until specifically authorized by the Reserve Bank or by the Board.
 

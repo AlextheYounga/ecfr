@@ -1,5 +1,7 @@
 ##### § 225.2 Definitions. #####
 
+Link to an amendment published at 85 FR 12421, Mar. 2, 2020.
+
 Except as modified in this regulation or unless the context otherwise requires, the terms used in this regulation have the same meaning as set forth in the relevant statutes.
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with, another company.
@@ -66,7 +68,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (iii) In a fiduciary capacity for the benefit of the bank or other company or any of its subsidiaries.
 
-(f) *Foreign banking organization* and *qualifying foreign banking organization* have the same meanings as provided in § 211.21(n) and § 211.23 of the Board's Regulation K (12 CFR 211.21(n) and 211.23).
+(f) *Foreign banking organization* and *qualifying foreign banking organization* have the same meanings as provided in §§ 211.21(n) and 211.23 of the Board's Regulation K (12 CFR 211.21(n) and 211.23).
 
 (g) *Insured depository institution* includes an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)) and a savings association.
 

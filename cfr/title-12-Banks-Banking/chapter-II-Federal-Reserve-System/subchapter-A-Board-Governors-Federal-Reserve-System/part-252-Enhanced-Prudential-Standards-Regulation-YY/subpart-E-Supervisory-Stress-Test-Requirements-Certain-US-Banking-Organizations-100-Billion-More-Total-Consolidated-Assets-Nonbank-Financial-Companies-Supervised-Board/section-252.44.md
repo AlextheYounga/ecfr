@@ -29,4 +29,4 @@ Table 1 to § 252.44(c)(1)
 
 (ii) *Request for reconsideration and Board response.* Within 14 calendar days of receipt of a notification under paragraph (c)(3)(i) of this section, a covered company may request in writing that the Board reconsider the requirement to conduct a stress test on a more or less frequent basis than would be required under paragraph (c)(1) of this section. A covered company's request for reconsideration must include an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
 
-[Reg. YY, 79 FR 64049, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015; 82 FR 9329, Feb. 3, 2017; 84 FR 59106, Nov. 1, 2019]
+[Reg. YY, 79 FR 64049, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015; 84 FR 59106, Nov. 1, 2019]

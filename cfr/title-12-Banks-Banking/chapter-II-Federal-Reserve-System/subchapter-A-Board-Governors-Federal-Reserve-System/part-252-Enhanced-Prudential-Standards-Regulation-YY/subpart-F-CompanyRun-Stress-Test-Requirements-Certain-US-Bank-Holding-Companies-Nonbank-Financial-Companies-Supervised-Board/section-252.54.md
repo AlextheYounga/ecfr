@@ -25,8 +25,6 @@ Table 1 to § 252.54(a)(2)(i)
 
 (2) *Additional components.* (i) The Board may require a covered company with significant trading activity, as determined by the Board and specified in the Capital Assessments and Stress Testing report (FR Y-14), to include a trading and counterparty component in its severely adverse scenario in the stress test required by this section. The data used in this component must be as of a date selected by the Board between October 1 of the previous calendar year and March 1 of the calendar year in which the stress test is performed pursuant to this section, and the Board will communicate the as-of date and a description of the component to the company no later than March 1 of the calendar year in which the stress test is performed pursuant to this section.
 
-(ii) The Board may require a covered company to include one or more additional components in its severely adverse scenario in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
-
 (ii) The Board may require a covered company to include one or more additional components in its adverse and severely adverse scenarios in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
 
 (3) *Additional scenarios.* The Board may require a covered company to use one or more additional scenarios in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.

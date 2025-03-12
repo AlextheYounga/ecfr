@@ -1,6 +1,6 @@
 ##### § 400.25 Application for subzone designation. #####
 
-In addition to the requirements of §§ 400.21(d)(1)(i) and (ii) pertaining to legal authority, § 400.21(d)(2)(vii) pertaining to environmental aspects of the proposal, and §§ 400.21(d)(3)(i) and (iii) pertaining to operation, a grantee's application for subzone designation shall contain the following information:
+In addition to the requirements of §§ 400.21(d)(1)(i) and (ii) pertaining to legal authority, § 400.21(d)(2)(vii) pertaining to environmental aspects of the proposal, and § 400.21(d)(3)(i) and (iii) pertaining to operation, a grantee's application for subzone designation shall contain the following information:
 
 (a) The name of the operator/user for which subzone designation is sought;
 
