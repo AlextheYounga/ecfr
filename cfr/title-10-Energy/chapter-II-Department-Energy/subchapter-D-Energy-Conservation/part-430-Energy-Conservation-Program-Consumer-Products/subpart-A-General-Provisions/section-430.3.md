@@ -1,5 +1,7 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
+Link to an amendment published at 87 FR 30790, May 20, 2022.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -82,7 +84,7 @@
 
 (4) ANSI C78.21-2003, Revision of ANSI C78.21-1995 with all supplements, American National Standard for Electric Lamps - PAR and R Shapes, approved October 30, 2003, IBR approved for § 430.2.
 
-(5) ANSI\_ANSLG C78.81-2010, (“ANSI C78.81”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
+(5) ANSI\_\_ANSLG C78.81-2010, (“ANSI C78.81”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
 
 (6) ANSI C78.81-2016, (“ANSI C78.81-2016”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendix Q to subpart B.
 
@@ -90,7 +92,7 @@
 
 (8) ANSI C78.375A-2014, (“ANSI C78.375A”), American National Standard for Electric Lamps - Fluorescent Lamps - Guide for Electrical Measures, approved August 28, 2014, IBR approved for appendix Q to subpart B.
 
-(9) ANSI\_IEC C78.901-2005, Revision of ANSI C78.901-2001 (“ANSI C78.901”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
+(9) ANSI\_\_IEC C78.901-2005, Revision of ANSI C78.901-2001 (“ANSI C78.901”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
 
 (10) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
 
@@ -100,7 +102,7 @@
 
 (13) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
 
-(14) ANSI\_ANSLG\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for § 430.2.
+(14) ANSI\_\_ANSLG\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for § 430.2.
 
 (15) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts - Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
 

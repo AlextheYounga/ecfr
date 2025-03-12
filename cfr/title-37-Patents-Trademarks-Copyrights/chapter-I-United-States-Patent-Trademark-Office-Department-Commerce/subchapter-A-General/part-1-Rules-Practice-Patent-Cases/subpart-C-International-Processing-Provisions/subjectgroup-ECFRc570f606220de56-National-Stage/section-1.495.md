@@ -1,5 +1,7 @@
 ##### § 1.495 Entering the national stage in the United States of America. #####
 
+Link to an amendment published at 87 FR 30818, May 20, 2022.
+
 (a) The applicant in an international application must fulfill the requirements of 35 U.S.C. 371 within the time periods set forth in paragraphs (b) and (c) of this section in order to prevent the abandonment of the international application as to the United States of America. The thirty-month time period set forth in paragraphs (b), (c), (d), (e) and (h) of this section may not be extended.
 
 (b) To avoid abandonment of the application, the applicant shall furnish to the United States Patent and Trademark Office not later than the expiration of thirty months from the priority date:

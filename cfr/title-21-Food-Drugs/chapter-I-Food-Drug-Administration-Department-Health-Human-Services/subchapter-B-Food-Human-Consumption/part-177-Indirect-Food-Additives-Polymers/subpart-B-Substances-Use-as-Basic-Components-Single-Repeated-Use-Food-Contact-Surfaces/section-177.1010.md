@@ -36,7 +36,7 @@ Di-*tert-*butyl-*p-*cresol.2-Hydroxy-4-methoxybenzophenone.2-Hydroxy-4-methoxy-2
 
 (8) Miscellaneous materials:
 
-Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to exceed 3 weight-percent based on the monomers.Dimethyl phthalate.Oxalic acid, for use only as a polymerization catalyst aid.Tetraethylenepentamine, for use only as a catalyst activator at a level not to exceed 0.5 weight-percent based on the monomers.Toluene.Xylene.
+Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to exceed 3 weight-percent based on the monomers.Oxalic acid, for use only as a polymerization catalyst aid.Tetraethylenepentamine, for use only as a catalyst activator at a level not to exceed 0.5 weight-percent based on the monomers.Toluene.Xylene.
 
 (b) The semirigid and rigid acrylic and modified acrylic plastics, in the finished form in which they are to contact food, when extracted with the solvent or solvents characterizing the type of food and under the conditions of time and temperature as determined from tables 1 and 2 of § 176.170(c) of this chapter, shall yield extractives not to exceed the following, when tested by the methods prescribed in paragraph (c) of this section. The acrylic and modified acrylic polymers or plastics intended to be used as components of articles also shall yield extractives not to exceed the following limitations when prepared as strips as described in paragraph (c)(2) of this section:
 
@@ -48,7 +48,7 @@ Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to ex
 
 (4) Ultraviolet-absorbing *n-*heptane extractives not to exceed an absorbance of 0.10.
 
-(c) *Analytical methods* - (1) *Selection of extractability conditions.* These are to be chosen as provided in § 176.170(c) of this chapter.
+(c) *Analytical methods*—(1) *Selection of extractability conditions.* These are to be chosen as provided in § 176.170(c) of this chapter.
 
 (2) *Preparation of samples.* Sufficient samples to allow duplicates of all applicable tests shall be cut from the articles or formed from the plastic composition under tests, as strips about 2.5 inches by about 0.85-inch wide by about 0.125-inch thick. The total exposed surface should be 5 square inches ±0.5-square inch. The samples, after preparation, shall be washed with a clean brush under hot tapwater, rinsed under running hot tapwater (140 °F minimum), rinsed with distilled water, and air-dried in a dust-free area or in a desiccator.
 
@@ -96,4 +96,4 @@ Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to ex
 
 (f) The acrylic and modified acrylic polymers identified in and complying with this section, when used as components of the food-contact surface of an article that is the subject of a regulation in this part and in parts 174, 175, 176, and 178 of this chapter, shall comply with any specifications and limitations prescribed by such regulation for the article in the finished form in which it is to contact food.
 
-[42 FR 14572, Mar. 15, 1977; 42 FR 56728, Oct. 28, 1977, as amended at 43 FR 54927, Nov. 24, 1978; 45 FR 67320, Oct. 10, 1980; 46 FR 46796, Sept. 22, 1981; 49 FR 10108, Mar. 19, 1984; 49 FR 13139, Apr. 3, 1984; 50 FR 31045, July 24, 1985]
+[42 FR 14572, Mar. 15, 1977; 42 FR 56728, Oct. 28, 1977, as amended at 43 FR 54927, Nov. 24, 1978; 45 FR 67320, Oct. 10, 1980; 46 FR 46796, Sept. 22, 1981; 49 FR 10108, Mar. 19, 1984; 49 FR 13139, Apr. 3, 1984; 50 FR 31045, July 24, 1985; 87 FR 31089, May 20, 2022]

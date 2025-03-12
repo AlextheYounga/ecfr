@@ -1,5 +1,7 @@
 ##### § 1.53 Application number, filing date, and completion of application. #####
 
+Link to an amendment published at 87 FR 30817, May 20, 2022.
+
 (a) *Application number.* Any papers received in the Patent and Trademark Office which purport to be an application for a patent will be assigned an application number for identification purposes.
 
 (b) *Application filing requirements - Nonprovisional application.* The filing date of an application for patent filed under this section, other than an application for a design patent or a provisional application under paragraph (c) of this section, is the date on which a specification, with or without claims, is received in the Office. The filing date of an application for a design patent filed under this section, except for a continued prosecution application under paragraph (d) of this section, is the date on which the specification as prescribed by 35 U.S.C. 112, including at least one claim, and any required drawings are received in the Office. No new matter may be introduced into an application after its filing date. A continuing application, which may be a continuation, divisional, or continuation-in-part application, may be filed under the conditions specified in 35 U.S.C. 120, 121, 365(c), or 386(c) and § 1.78.

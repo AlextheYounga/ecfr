@@ -1,5 +1,7 @@
 ##### § 1.530 Statement by patent owner in ex parte reexamination; amendment by patent owner in ex parte or inter partes reexamination; inventorship change in ex parte or inter partes reexamination. #####
 
+Link to an amendment published at 87 FR 30818, May 20, 2022.
+
 (a) Except as provided in § 1.510(e), no statement or other response by the patent owner in an *ex parte* reexamination proceeding shall be filed prior to the determinations made in accordance with § 1.515 or § 1.520. If a premature statement or other response is filed by the patent owner, it will not be acknowledged or considered in making the determination, and it will be returned or discarded (at the Office's option).
 
 (b) The order for *ex parte* reexamination will set a period of not less than two months from the date of the order within which the patent owner may file a statement on the new question of patentability, including any proposed amendments the patent owner wishes to make.

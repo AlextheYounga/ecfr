@@ -1,5 +1,7 @@
 ##### § 1.211 Publication of applications. #####
 
+Link to an amendment published at 87 FR 30817, May 20, 2022.
+
 (a) Each U.S. national application for patent filed in the Office under 35 U.S.C. 111(a) and each international application in compliance with 35 U.S.C. 371 will be published promptly after the expiration of a period of eighteen months from the earliest filing date for which a benefit is sought under title 35, United States Code, unless:
 
 (1) The application is recognized by the Office as no longer pending;
