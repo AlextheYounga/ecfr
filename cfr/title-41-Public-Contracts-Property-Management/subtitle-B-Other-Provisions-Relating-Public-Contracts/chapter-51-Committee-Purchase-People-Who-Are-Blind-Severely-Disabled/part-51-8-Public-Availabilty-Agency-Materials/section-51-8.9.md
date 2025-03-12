@@ -1,0 +1,3 @@
+##### § 51-8.9 Preservation of Records. #####
+
+The Committee will preserve all correspondence pertaining to the requests it receives under this subpart, as well as copies of all requested records, until disposition or destruction is authorized pursuant to Title 44 of the United States Code or the General Records Schedule 4.2 of the National Archives and Records Administration. Records will not be destroyed while they are the subject of a pending request, appeal, or lawsuit under the Act.

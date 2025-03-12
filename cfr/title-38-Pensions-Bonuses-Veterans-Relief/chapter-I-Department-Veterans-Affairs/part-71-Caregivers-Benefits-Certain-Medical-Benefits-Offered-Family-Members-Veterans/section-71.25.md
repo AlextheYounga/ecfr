@@ -1,5 +1,7 @@
 ##### § 71.25 Approval and designation of Primary and Secondary Family Caregivers. #####
 
+Link to an amendment published at 85 FR 46295, July 31, 2020.
+
 (a) *Application requirement.* (1) Individuals who wish to be considered for designation by VA as Primary or Secondary Family Caregivers must complete and sign a joint application, along with the veteran or servicemember. Individuals interested in serving as Family Caregivers must be identified as such on the joint application, and no more than three individuals may serve as Family Caregivers at one time for an eligible veteran, with no more than one serving as the Primary Family Caregiver.
 
 (2) Upon receiving such application, VA will perform the clinical evaluations required by this section; determine whether the application should be granted; and, if so, whether each applicant should be designated as identified in the application.

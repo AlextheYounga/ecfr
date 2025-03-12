@@ -1,11 +1,11 @@
 ##### § 218.93 Prohibitions. #####
 
-Notwithstanding takings contemplated in § 218.92 and authorized by an LOA issued under §§ 216.106 and 218.97 of this chapter, no person in connection with the activities described in § 218.90 may:
+Notwithstanding incidental takings contemplated in § 218.92(a) and authorized by an LOA issued under §§ 216.106 of this section and 218.96, no person in connection with the activities listed in § 218.90(c) may:
 
-(a) Take any marine mammal not specified in § 218.92(c);
+(a) Violate, or fail to comply with, the terms, conditions, and requirements of this subpart or an LOA issued under §§ 216.106 of this section and 218.96;
 
-(b) Take any marine mammal specified in § 218.92(c) other than by incidental take as specified in § 218.92(c);
+(b) Take any marine mammal not specified in § 218.92(b);
 
-(c) Take a marine mammal specified in § 218.92(c) if such taking results in more than a negligible impact on the species or stocks of such marine mammal; or
+(c) Take any marine mammal specified in § 218.92(b) in any manner other than as specified in the LOA issued under §§ 216.106 of this chapter and 218.96; or
 
-(d) Violate, or fail to comply with, the terms, conditions, and requirements of these regulations or an LOA issued under §§ 216.106 and 218.97.
+(d) Take a marine mammal specified in § 218.92(b) if NMFS determines such taking results in more than a negligible impact on the species of such marine mammal.

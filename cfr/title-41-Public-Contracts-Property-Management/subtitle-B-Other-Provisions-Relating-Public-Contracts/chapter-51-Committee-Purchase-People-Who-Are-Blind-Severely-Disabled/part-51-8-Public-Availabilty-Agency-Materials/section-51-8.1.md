@@ -1,0 +1,5 @@
+##### § 51-8.1 General. #####
+
+(a) This part contains the rules that the Committee for Purchase From People Who Are Blind or Severely Disabled (Committee) follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552. The rules in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”). Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed under part 51-9 as well as under this part. As a matter of policy, the Committee makes discretionary disclosures of records or information exempt from disclosure under the FOIA whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption, but this policy does not create any right enforceable in court.
+
+(b) The Committee has a centralized system for processing requests, all requests are handled by the FOIA Officer.

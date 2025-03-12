@@ -1,5 +1,7 @@
 ##### § 44.6 Other permitted proprietary trading activities. #####
 
+Link to an amendment published at 85 FR 46496, July 31, 2020.
+
 (a) *Permitted trading in domestic government obligations.* The prohibition contained in § 44.3(a) does not apply to the purchase or sale by a banking entity of a financial instrument that is:
 
 (1) An obligation of, or issued or guaranteed by, the United States;

@@ -1,5 +1,7 @@
 ##### § 71.45 Revocation. #####
 
+Link to an amendment published at 85 FR 46298, July 31, 2020.
+
 (a) *Revocation by the Family Caregiver.* The Family Caregiver may request a revocation of caregiver status in writing and provide the present or future date of revocation. All caregiver benefits will continue to be provided to the Family Caregiver until the date of revocation. VA will, if requested and applicable, assist the Family Caregiver in transitioning to alternative health care coverage and mental health services. VA will notify the eligible veteran verbally and in writing of the request for revocation.
 
 (b) *Revocation by the eligible veteran or surrogate.* The eligible veteran or the eligible veteran's surrogate may initiate revocation of a Primary or Secondary Family Caregiver.

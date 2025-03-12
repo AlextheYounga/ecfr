@@ -36,7 +36,7 @@
 
 (ii) Is subject, as appropriate, to ongoing recalibration by the banking entity to ensure that the hedging activity satisfies the requirements set out in paragraph (b)(2) of this section and is not prohibited proprietary trading.
 
-(c) *Documentation requirement* - (1) A banking entity that has significant trading assets and liabilities must comply with the requirements of paragraphs (c)(2) and (3) of this section, unless the requirements of paragraph (c)(4) of this section are met, with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
+(c) *Documentation requirement.* (1) A banking entity that has significant trading assets and liabilities must comply with the requirements of paragraphs (c)(2) and (3) of this section, unless the requirements of paragraph (c)(4) of this section are met, with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
 
 (i) Not established by the specific trading desk establishing or responsible for the underlying positions, contracts, or other holdings the risks of which the hedging activity is designed to reduce;
 

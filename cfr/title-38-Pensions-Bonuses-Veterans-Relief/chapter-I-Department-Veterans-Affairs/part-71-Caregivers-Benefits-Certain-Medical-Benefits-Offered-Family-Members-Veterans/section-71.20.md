@@ -1,5 +1,7 @@
 ##### § 71.20 Eligible veterans and servicemembers. #####
 
+Link to an amendment published at 85 FR 46295, July 31, 2020.
+
 A veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if she or he meets all of the following requirements:
 
 (a) The individual is either:

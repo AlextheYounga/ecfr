@@ -1,7 +1,5 @@
 ##### § 76.64 Retransmission consent. #####
 
-Link to an amendment published at 85 FR 22651, Apr. 23, 2020.Link to an amendment published at 85 FR 44217, July 22, 2020.
-
 (a) No multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
 
 (b) A commercial broadcast signal may be retransmitted without express authority of the originating station if -
@@ -74,6 +72,8 @@ Link to an amendment published at 85 FR 22651, Apr. 23, 2020.Link to an amendmen
 
 (4) Cable operators must respond via email as soon as is reasonably possible, acknowledging receipt of a television station's election notice.
 
+(5) Low power television stations and non-commercial educational translator stations that are qualified under § 76.55 and retransmitted by a multichannel video programming distributor shall, beginning no later than July 31, 2020, respond as soon as is reasonably possible to messages or calls from multichannel video programming distributors that are received via the email address or phone number the station provides in the Commission's Licensing and Management System.
+
 (i) Notwithstanding a television station's election of must-carry status, if a cable operator proposes to retransmit that station's signal without according the station must-carry rights (*i.e.,* pursuant to § 76.56(e)), the operator must obtain the station's express authority prior to retransmitting its signal.
 
 (j) Retransmission consent agreements between a broadcast station and a multichannel video programming distributor shall be in writing and shall specify the extent of the consent being granted, whether for the entire signal or any portion of the signal. This rule applies for either the analog or the digital signal of a television station.
@@ -88,4 +88,4 @@ Note 1 to § 76.64:
 
 Section 76.1608 provides notification requirements for a cable system that changes its technical configuration in such a way as to integrate two formerly separate cable systems.
 
-[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020; 85 FR 22651, Apr. 23, 2020]
+[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020; 85 FR 22651, Apr. 23, 2020; 85 FR 44217, July 22, 2020]

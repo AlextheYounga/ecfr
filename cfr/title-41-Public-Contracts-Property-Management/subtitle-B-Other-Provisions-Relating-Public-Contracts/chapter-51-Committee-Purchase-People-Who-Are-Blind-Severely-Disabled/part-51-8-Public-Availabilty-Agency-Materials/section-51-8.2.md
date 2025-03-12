@@ -1,0 +1,3 @@
+##### § 51-8.2 Proactive Disclosures. #####
+
+Records that the Committee is required to make available for public inspection in an electronic format may be accessed through the Committee's public website: *www.abilityone.gov*. The Committee is responsible for determining which of its records must be made publicly available, for identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. The Committee shall ensure that its website of posted records and indices is reviewed and updated on an ongoing basis. The Committee's FOIA Public Liaison contact information is available at *https://www.abilityone.gov/laws,\_regulations\_and\_policy/foia.html*.

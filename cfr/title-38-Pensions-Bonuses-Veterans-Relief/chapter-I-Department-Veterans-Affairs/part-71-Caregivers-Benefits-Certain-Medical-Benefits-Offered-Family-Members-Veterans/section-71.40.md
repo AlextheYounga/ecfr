@@ -1,5 +1,7 @@
 ##### § 71.40 Caregiver benefits. #####
 
+Link to an amendment published at 85 FR 46296, July 31, 2020.
+
 (a) *General Caregiver benefits.* VA will provide to General Caregivers all of the benefits listed in paragraphs (a)(1) through (4) of this section.
 
 (1) Continued instruction, preparation, training, and technical support. Caregivers will have access to each of the following services, which may be provided through:

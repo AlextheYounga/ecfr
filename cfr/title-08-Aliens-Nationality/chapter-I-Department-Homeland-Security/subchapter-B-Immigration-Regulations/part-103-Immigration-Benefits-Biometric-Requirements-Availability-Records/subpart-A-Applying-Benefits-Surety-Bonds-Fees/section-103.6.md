@@ -1,5 +1,7 @@
 ##### § 103.6 Surety bonds. #####
 
+Link to an amendment published at 85 FR 45989, July 31, 2020.
+
 (a) *Posting of surety bonds* - (1) *Extension agreements; consent of surety; collateral security.* All surety bonds posted in immigration cases must be executed on the forms designated by DHS, a copy of which, and any rider attached thereto, must be furnished to the obligor. DHS is authorized to approve a bond, a formal agreement for the extension of liability of surety, a request for delivery of collateral security to a duly appointed and undischarged administrator or executor of the estate of a deceased depositor, and a power of attorney executed on the form designated by DHS, if any. All other matters relating to bonds, including a power of attorney not executed on the form designated by DHS and a request for delivery of collateral security to other than the depositor or his or her approved attorney in fact, will be forwarded to the appropriate office for approval.
 
 (2) *Bond riders* - (i) *General.* A bond rider must be prepared on the form(s) designated by DHS, and attached to the bond. If a condition to be included in a bond is not on the original bond, a rider containing the condition must be executed.

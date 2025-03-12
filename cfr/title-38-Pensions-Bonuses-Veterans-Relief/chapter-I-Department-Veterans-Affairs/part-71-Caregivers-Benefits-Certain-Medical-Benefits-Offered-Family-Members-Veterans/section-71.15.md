@@ -1,5 +1,7 @@
 ##### § 71.15 Definitions. #####
 
+Link to an amendment published at 85 FR 46293, July 31, 2020.
+
 For the purposes of this part:
 
 *Combined rate* refers to the Bureau of Labor Statistics (BLS) hourly wage rate for home health aides at the 75th percentile in the eligible veteran's geographic area of residence, multiplied by the Consumer Price Index for All Urban Consumers (CPI-U). The combined rate will be determined for each geographic area on an annual basis. For each geographic area, the combined rate will be the higher of:

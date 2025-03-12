@@ -44,13 +44,13 @@
 
 (11) The item is a “military commodity” subject to ECCN 0A919, except that such military commodities may be reexported in accordance with § 740.11(b)(2)(ii) (official use by personnel and agencies of the U.S. Government).
 
-(12) The item is described in a 9x515 or “600 series” ECCN and is destined to, shipped from, or was manufactured in a destination listed in Country Group D:5 (see supplement no. 1 to part 740 of the EAR), except that:
+(12) The item is described in a 9x515 or “600 series” ECCN and is destined to, shipped from, or was manufactured in a destination listed in Country Group D:5 or Hong Kong (see Supplement No. 1 to part 740 of the EAR), except that:
 
 (i) 9x515 or “600 series” items destined to, or in, Country Group D:5 are eligible for License Exception GOV (§ 740.11(b)(2) of the EAR); and
 
 (ii) 1A613.c or .d items destined to, or in, Country Group D:5 are eligible for License Exception TMP (§ 740.9(a)(11) of the EAR) or License Exception BAG (§ 740.14(h)(2) of the EAR).
 
-(13) “600 series” items that are controlled for missile technology (MT) reasons may not be exported, reexported, or transferred (in-country) under License Exception STA (§ 740.20 of the EAR). Items controlled under ECCNs 9D610.b, 9D619.b, 9E610.b, or 9E619.b or .c are not eligible for license exceptions except for License Exception GOV (§ 740.11(b)(2) of the EAR). Only the following license exceptions may be used to export “600 series” items to destinations other than those identified in Country Group D:5 (see supplement no. 1 to part 740 of the EAR):
+(13) “600 series” items that are controlled for missile technology (MT) reasons may not be exported, reexported, or transferred (in-country) under License Exception STA (§ 740.20 of the EAR). Items controlled under ECCNs 9D610.b, 9D619.b, 9E610.b, or 9E619.b or .c are not eligible for license exceptions except for License Exception GOV (§ 740.11(b)(2) of the EAR). Only the following license exceptions may be used to export “600 series” items to destinations other than those identified in Country Group D:5 or Hong Kong (see Supplement No. 1 to part 740 of the EAR):
 
 (i) License Exception LVS (§ 740.3 of the EAR);
 
@@ -95,6 +95,8 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 (21) The reexport or transfer (in-country) of firearms classified under ECCNs 0A501 or 0A502 if a part or component that is not “subject to the ITAR,” but would otherwise meet the criteria in USML Category I(h)(2) (*i.e.,* parts and components specially designed for conversion of a semiautomatic firearm to a fully automatic firearm) is incorporated into the firearm or is to be reexported or transferred (in-country) with the firearm with “knowledge” the part or component will be subsequently incorporated into the firearm. (*See* USML Category I(h)(2)). In such instances, no license exceptions are available except for License Exception GOV (§ 740.11(b)(2)(ii)).
 
 (22) The export, reexport, or transfer (in-country) of any item classified under a 0x5zz ECCN when a party to the transaction is designated on the Department of the Treasury, Office of Foreign Assets Control (OFAC), Specially Designated Nationals and Blocked Persons (SDN) list under the designation [SDNT], pursuant to the Narcotics Trafficking Sanctions Regulations, 31 CFR part 536, or under the designation [SDNTK], pursuant to the Foreign Narcotics Kingpin Sanctions Regulations, 31 CFR part 598.
+
+(23) The item is subject to the EAR and is for export to Hong Kong, reexport to Hong Kong or transfer (in-country) within Hong Kong under License Exceptions LVS - Shipments of Limited Value (§ 740.3); GBS - Shipments to Group B Countries (§ 740.4); TSR - Technology and Software under Restriction (§ 740.6); APP - Computers, Tier 1 only (§ 740.7(c)); TMP Temporary Imports, Exports, Reexports, and Transfers (in-country) - (§ 740.9(a)(11) and (b)(2)(ii)(C) and (b)(5) only); RPL - Servicing and Replacement Parts and Equipment (§ 740.10(a)(3)(viii), (a)(4), (b)(1) except as permitted to Country Group D:5, and (b)(3)(i)(F) and (ii)(C) only); GOV - Cooperating Governments only (§ 740.11(c)(1)); GFT - Gift Parcels (except as permitted by § 740.12(a)(3)); TSU Technology and Software Unrestricted - only § 740.13(f); BAG - Baggage (except as permitted by § 740.14(d)); AVS Aircraft, Vessels, and Spacecraft - (§ 740.15(b)(1), (b)(2), (c), and (f) only); APR - Additional Permissive Reexports (§ 740.16(a) and (j)); and STA - Strategic Trade Authorization (§ 740.20). Reexports of items subject to the EAR from Hong Kong under License Exception APR § 740.16(a) are also restricted.
 
 Note to paragraph (a):
 

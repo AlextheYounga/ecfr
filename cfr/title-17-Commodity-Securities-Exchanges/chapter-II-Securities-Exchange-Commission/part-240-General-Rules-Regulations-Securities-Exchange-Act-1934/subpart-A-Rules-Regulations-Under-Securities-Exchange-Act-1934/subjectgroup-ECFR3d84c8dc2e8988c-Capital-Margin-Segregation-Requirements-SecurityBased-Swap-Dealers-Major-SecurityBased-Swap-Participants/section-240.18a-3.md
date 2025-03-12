@@ -16,7 +16,7 @@
 
 (6) The term *security-based swap legacy account* means an account that holds no security-based swaps entered into after the compliance date of this section and that only is used to hold one or more security-based swaps entered into prior to the compliance date of this section and collateral for those security-based swaps.
 
-(c) *Margin requirements* - (1) *Security-based swap dealers* - (i) *Calculation required.* A security-based swap dealer must calculate with respect to each account of a counterparty as of the close of each business day:
+(c) *Margin requirements*—(1) *Security-based swap dealers*—(i) *Calculation required.* A security-based swap dealer must calculate with respect to each account of a counterparty as of the close of each business day:
 
 (A) The amount of the current exposure in the account of the counterparty; and
 
@@ -30,7 +30,7 @@
 
 (B) Collect from the counterparty collateral in an amount equal to the initial margin amount.
 
-(iii) *Exceptions* - (A) *Commercial end users.* The requirements of paragraph (c)(1)(ii) of this section do not apply to an account of a counterparty that is a commercial end user.
+(iii) *Exceptions*—(A) *Commercial end users.* The requirements of paragraph (c)(1)(ii) of this section do not apply to an account of a counterparty that is a commercial end user.
 
 (B) *Counterparties that are financial market intermediaries.* The requirements of paragraph (c)(1)(ii)(B) of this section do not apply to an account of a counterparty that is a security-based swap dealer, swap dealer, broker or dealer, futures commission merchant, bank, foreign bank, or foreign broker or dealer.
 
@@ -50,7 +50,7 @@
 
 (I) *Minimum transfer amount.* Notwithstanding any other provision of this rule, a security-based swap dealer is not required to collect or deliver collateral pursuant to this section with respect to a particular counterparty unless and until the total amount of collateral that is required to be collected or delivered, and has not yet been collected or delivered, with respect to the counterparty is greater than $500,000.
 
-(2) *Major security-based swap participants* - (i) *Calculation required.* A major security-based swap participant must with respect to each account of a counterparty calculate as of the close of each business day the amount of the current exposure in the account of the counterparty.
+(2) *Major security-based swap participants*—(i) *Calculation required.* A major security-based swap participant must with respect to each account of a counterparty calculate as of the close of each business day the amount of the current exposure in the account of the counterparty.
 
 (ii) *Account equity requirements.* Except as provided in paragraph (c)(2)(iii) of this section, a major security-based swap participant must take an action required in paragraph (c)(2)(ii)(A) or (B) of this section by no later than the close of business of the first business day following the day of the calculation required under paragraph (c)(2)(i) or, if the counterparty is located in another country and more than four time zones away, the second business day following the day of the calculation required under paragraph (c)(2)(i) of this section:
 
@@ -58,7 +58,7 @@
 
 (B) Deliver to the counterparty collateral in an amount equal to the current exposure that the counterparty has to the major security-based swap participant.
 
-(iii) *Exceptions* - (A) *Commercial end users.* The requirements of paragraph (c)(2)(ii)(A) of this section do not apply to an account of a counterparty that is a commercial end user.
+(iii) *Exceptions*—(A) *Commercial end users.* The requirements of paragraph (c)(2)(ii)(A) of this section do not apply to an account of a counterparty that is a commercial end user.
 
 (B) *Security-based swap legacy accounts.* The requirements of paragraph (c)(2)(ii) of this section do not apply to a security-based swap legacy account.
 
@@ -104,7 +104,7 @@
 
 (d) *Calculating initial margin amount.* A security-based swap dealer must calculate the initial margin amount required by paragraph (c)(1)(i)(B) of this section for non-cleared security-based swaps as follows:
 
-(1) *Standardized approach* - (i) *Credit default swaps.* For credit default swaps, the security-based swap dealer must use the method specified in § 240.18a-1(c)(1)(vi)(B)(*1*) or, if the security-based swap dealer is registered with the Commission as a broker or dealer, the method specified in § 240.15c3-1(c)(2)(vi)(P)(*1*).
+(1) *Standardized approach*—(i) *Credit default swaps.* For credit default swaps, the security-based swap dealer must use the method specified in § 240.18a-1(c)(1)(vi)(B)(*1*) or, if the security-based swap dealer is registered with the Commission as a broker or dealer, the method specified in § 240.15c3-1(c)(2)(vi)(P)(*1*).
 
 (ii) *All other security-based swaps.* For security-based swaps other than credit default swaps, the security-based swap dealer must use the method specified in § 240.18a-1(c)(1)(vi)(B)(*2*) or, if the security-based swap dealer is registered with the Commission as a broker or dealer, the method specified in § 240.15c3-1(c)(2)(vi)(P)(*2*).
 
@@ -129,3 +129,5 @@
 (7) Monitoring the credit exposure resulting from concentrated positions with a single counterparty and across all counterparties, and during periods of extreme volatility; and
 
 (8) Maintaining sufficient equity in the account of each counterparty to protect against the largest individual potential future exposure of a non-cleared security-based swap carried in the account of the counterparty as measured by computing the largest maximum possible loss that could result from the exposure.
+
+[84 FR 44068, Aug. 22, 2019]

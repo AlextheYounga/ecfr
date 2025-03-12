@@ -1,13 +1,27 @@
-##### § 218.97 Letters of Authorization. #####
+##### § 218.97 Renewals and modifications of Letters of Authorization. #####
 
-(a) An LOA, unless suspended or revoked, will be valid for a period of time not to exceed the period of validity of this subpart.
+(a) An LOA issued under §§ 216.106 of this section and 218.96 for the activity identified in § 218.90(c) may be renewed or modified upon request by the applicant, provided that:
 
-(b) The LOA will set forth:
+(1) The planned specified activity and mitigation, monitoring, and reporting measures, as well as the anticipated impacts, are the same as those described and analyzed for the regulations in this subpart (excluding changes made pursuant to the adaptive management provision in paragraph (c)(1) of this section); and
 
-(1) Permissible methods and extent of incidental taking;
+(2) NMFS determines that the mitigation, monitoring, and reporting measures required by the previous LOA(s) were implemented.
 
-(2) Means of effecting the least practicable adverse impact on the species, its habitat, and on the availability of the species for subsistence uses (*i.e.,* mitigation); and
+(b) For LOA modification or renewal requests by the applicant that include changes to the activity or to the mitigation, monitoring, or reporting measures (excluding changes made pursuant to the adaptive management provision in paragraph (c)(1) of this section) that do not change the findings made for the regulations or result in no more than a minor change in the total estimated number of takes (or distribution by species or years), NMFS may publish a notice of planned LOA in the Federal Register, including the associated analysis of the change, and solicit public comment before issuing the LOA.
 
-(3) Requirements for mitigation, monitoring and reporting.
+(c) An LOA issued under §§ 216.106 of this section and 218.96 may be modified by NMFS under the following circumstances:
 
-(c) Issuance of the LOA will be based on a determination that the total number of marine mammals taken by the activity as a whole will have no more than a negligible impact on the affected species or stock of marine mammal(s).
+(1) *Adaptive management.* After consulting with the Navy regarding the practicability of the modifications, NMFS may modify (including adding or removing measures) the existing mitigation, monitoring, or reporting measures if doing so creates a reasonable likelihood of more effectively accomplishing the goals of the mitigation and monitoring.
+
+(i) Possible sources of data that could contribute to the decision to modify the mitigation, monitoring, or reporting measures in an LOA include:
+
+(A) Results from the Navy's annual monitoring report and annual exercise report from the previous year(s);
+
+(B) Results from other marine mammal and/or sound research or studies;
+
+(C) Results from specific stranding investigations; or
+
+(D) Any information that reveals marine mammals may have been taken in a manner, extent, or number not authorized by the regulations in this subpart or subsequent LOAs.
+
+(ii) If, through adaptive management, the modifications to the mitigation, monitoring, or reporting measures are substantial, NMFS will publish a notice of planned LOA in the Federal Register and solicit public comment.
+
+(2) *Emergencies.* If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species of marine mammals specified in LOAs issued pursuant to §§ 216.106 of this section and 218.96, an LOA may be modified without prior notice or opportunity for public comment. Notice will be published in the Federal Register within thirty days of the action.

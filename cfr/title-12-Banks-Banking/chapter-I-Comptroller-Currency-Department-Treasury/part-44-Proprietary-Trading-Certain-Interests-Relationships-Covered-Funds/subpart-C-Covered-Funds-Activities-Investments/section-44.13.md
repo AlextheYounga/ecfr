@@ -1,5 +1,7 @@
 ##### § 44.13 Other permitted covered fund activities and investments. #####
 
+Link to an amendment published at 85 FR 46502, July 31, 2020.
+
 (a) *Permitted risk-mitigating hedging activities.* (1) The prohibition contained in § 44.10(a) of this subpart does not apply with respect to an ownership interest in a covered fund acquired or retained by a banking entity that is designed to reduce or otherwise significantly mitigate the specific, identifiable risks to the banking entity in connection with:
 
 (i) A compensation arrangement with an employee of the banking entity or an affiliate thereof that directly provides investment advisory, commodity trading advisory or other services to the covered fund; or

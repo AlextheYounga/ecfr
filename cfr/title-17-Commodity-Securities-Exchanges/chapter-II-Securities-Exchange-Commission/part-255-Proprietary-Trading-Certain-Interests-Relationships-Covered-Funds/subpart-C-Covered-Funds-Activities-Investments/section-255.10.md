@@ -1,5 +1,7 @@
 ##### § 255.10 Prohibition on acquiring or retaining an ownership interest in and having certain relationships with a covered fund. #####
 
+Link to an amendment published at 85 FR 46523, July 31, 2020.
+
 (a) *Prohibition.* (1) Except as otherwise provided in this subpart, a banking entity may not, as principal, directly or indirectly, acquire or retain any ownership interest in or sponsor a covered fund.
 
 (2) Paragraph (a)(1) of this section does not include acquiring or retaining an ownership interest in a covered fund by a banking entity:

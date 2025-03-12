@@ -2,6 +2,8 @@
 
 Sections 240.15c3-1e and 240.15c3-1g set forth a program that allows a broker or dealer to use an alternative approach to computing net capital deductions, subject to the conditions described in §§ 240.15c3-1e and 240.15c3-1g, including supervision of the broker's or dealer's ultimate holding company under the program. The program is designed to reduce the likelihood that financial and operational weakness in the holding company will destabilize the broker or dealer, or the broader financial system. The focus of this supervision of the ultimate holding company is its financial and operational condition and its risk management controls and methodologies.
 
+Application
+
 (a) A broker or dealer may apply to the Commission for authorization to compute deductions for market risk pursuant to this section in lieu of computing deductions pursuant to §§ 240.15c3-1(c)(2)(vi) and (vii) and 240.15c3-1b, and to compute deductions for credit risk pursuant to this section on credit exposures arising from transactions in derivatives instruments (if this section is used to calculate deductions for market risk on these instruments) in lieu of computing deductions pursuant to § 240.15c3-1(c)(2)(iv) and (c)(2)(xv)(A) and (B):
 
 (1) A broker-dealer shall submit the following information to the Commission with its application:
@@ -225,8 +227,6 @@ VaR Models
 (B) On the last business day of each quarter, the broker or dealer must identify the number of backtesting exceptions of the VaR model, that is, the number of business days in the past 250 business days, or other period as may be appropriate for the first year of its use, for which the actual net trading loss, if any, exceeds the corresponding VaR measure; and
 
 (C) The broker or dealer must use the multiplication factor indicated in Table 1 of this appendix E in determining its market risk until it obtains the next quarter's backtesting results;
-
-Table 1 - Multiplication factor based on the number of backtesting exceptions of the VaR model
 
 |Number of exceptions|Multiplication factor|
 |--------------------|---------------------|
