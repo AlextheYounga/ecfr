@@ -1,5 +1,5 @@
-##### § 1.25 Initiation of proceedings - petitions. #####
+##### § 1.25 Initiation of rulemaking proceedings—petitions. #####
 
-Proceedings for the issuance of rules or regulations, including proceedings for exemption of products or classes of products from statutory requirements, may be commenced by the Commission upon its own initiative or pursuant to petition filed with the Secretary by any interested person or group stating reasonable grounds therefor. Anyone whose petition is not deemed by the Commission sufficient to warrant the holding of a rulemaking proceeding will be promptly notified of that determination and given an opportunity to submit additional data. Procedures for the amendment or repeal of a rule or regulation are the same as for the issuance thereof.
+Proceedings for the issuance, amendment, or repeal of rules issued pursuant to authorities other than Section 18(a)(1)(B) of the FTC Act (15 U.S.C. 57a(1)(B)), including proceedings for exemption of products or classes of products from statutory requirements, may be commenced by the Commission upon its own initiative or pursuant to petition. Such petitions will be handled in the same manner and pursuant to the same procedures as prescribed in § 1.31 of this chapter.
 
-[32 FR 8444, June 13, 1967. Redesignated at 40 FR 15232, Apr. 4, 1975]
+[86 FR 59852, Oct. 29, 2021]

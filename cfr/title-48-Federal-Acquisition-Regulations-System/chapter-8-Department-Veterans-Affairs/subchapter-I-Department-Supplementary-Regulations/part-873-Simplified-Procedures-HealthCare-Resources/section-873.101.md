@@ -1,0 +1,5 @@
+##### 873.101 Policy. #####
+
+(a) *General.* In accordance with 38 U.S.C. 8153, to secure health-care resources which otherwise might not be feasibly available, or to effectively utilize certain other health-care resources, the Department of Veterans Affairs (VA) may make arrangements by contract for the mutual use, or exchange of use, of health-care resources between VA health-care facilities and any health-care provider, or other entity or individual. This part prescribes simplified procedures for contracts with entities not affiliated with VA under 38 U.S.C. 7302 to secure health-care resources that are a commercial service, or the use of medical equipment or space. VA may enter into such a contract if such resources are not, or would not be, used to their maximum effective capacity. (38 U.S.C. 8153)
+
+(b) *Precedence.* The procedures in this part shall be used in conjunction with the Federal Acquisition Regulation (FAR) and other parts of the VA Acquisition Regulation (VAAR). However, when a policy or procedure in the FAR or another part of the VAAR is inconsistent with the procedures contained in this part, this part shall take precedence. (38 U.S.C. 8153)

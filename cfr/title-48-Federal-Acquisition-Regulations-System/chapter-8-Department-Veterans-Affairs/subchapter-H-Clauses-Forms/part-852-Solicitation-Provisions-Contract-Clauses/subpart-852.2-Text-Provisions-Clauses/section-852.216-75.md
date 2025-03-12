@@ -1,10 +1,8 @@
-##### 852.216-75 Economic price adjustment clause - fuel surcharge. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.216-75 Economic Price Adjustment—Fuel Surcharge. #####
 
 As prescribed in 816.203-4(e)(5), insert the following clause:
 
-Economic Price Adjustment - Fuel Surcharge (MAR 2018)
+Economic Price Adjustment—Fuel Surcharge (NOV 2021)
 
 (a) To the extent that contract fuel cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for any option periods do not include any amount to protect against such contingent fuel cost increases.
 
@@ -19,7 +17,7 @@ The Base Fuel Cost, for the purpose of price adjustments under this clause, shal
 (e) Since fuel cost is only a part of the SPV Contracted distribution cost, the adjustment will be made as a penny per delivered case for every ten cent fuel price per gallon increase or decrease to the Base Fuel Cost x%. The difference is rounded down to the nearest whole cent and will be added to last line of each invoice noted as “Fuel Adjustment”.
 
 |            Example calculation of fuel price change:            |                          Price $2.50 Base (+ or −) 15% Average National Diesel Fuel $2.88−$2.13.                           |
-|:----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 |3rd QTR (3rd week June) first year. Fuel Price $3.05 Calculation:|$3.05−2.88 = $.17 (rounded down to 10 cents) Add one cent per delivered case to each invoice, starting first Monday of July.|
 |               3rd QTR Diesel Fuel Price decrease                |                            $2.13−1.80 = $ .33 (rounded down to $.30 cents) Credit each invoice.                            |
 |                       $1.80 Calculation:                        |                                               $.03 cents per delivered case.                                               |
@@ -34,4 +32,4 @@ The Base Fuel Cost, for the purpose of price adjustments under this clause, shal
 
 (j) Any dispute arising under this clause shall be determined in accordance with and subject to the “Disputes” clause of the contract.
 
-(End of clause)[83 FR 7409, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019]
+(End of clause)[83 FR 7409, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019; 86 FR 54404, Oct. 1, 2021]

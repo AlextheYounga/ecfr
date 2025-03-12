@@ -1,5 +1,3 @@
-##### 246.701  #####
-
 ##### 246.701 Definitions. #####
 
 As used in this subpart -

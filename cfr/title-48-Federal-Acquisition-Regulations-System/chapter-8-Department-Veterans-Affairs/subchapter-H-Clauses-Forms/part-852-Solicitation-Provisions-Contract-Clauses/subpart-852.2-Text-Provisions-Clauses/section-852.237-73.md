@@ -1,10 +1,8 @@
-##### 852.237-73 Crime Control Act - requirement for background checks. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.237-73 Crime Control Act—Requirement for Background Checks. #####
 
 As prescribed in 837.403-70(d), insert the following clause:
 
-Crime Control Act - Requirement for Background Checks (OCT 2019)
+Crime Control Act—Requirement for Background Checks (OCT 2019)
 
 (a) Public Law 101-647, also known as the Crime Control Act of 1990 (Act), requires that all individuals involved with the provision of child care services, as defined in the Act, to children under the age of 18 undergo a criminal background check.
 

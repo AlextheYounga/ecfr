@@ -6,6 +6,8 @@
 
 (ii) Comments filed in response to a Commission request for public comment shall instead be filed in the manner prescribed in the Federal Register document or other Commission document containing the request for such comment.
 
+(iii) Petitions for rulemaking and petitions for exemptions from rules shall instead be filed in the manner prescribed in § 1.31 of this chapter.
+
 (2) All paper and electronic documents filed with the Commission pursuant to parts 4-999 of this chapter shall be filed with the Secretary of the Commission, except as otherwise provided in such part.
 
 (b) *Title and public or nonpublic status.* All paper and electronic documents filed with the Commission or with an Administrative Law Judge pursuant to any part of this chapter shall clearly show the file or docket number and title of the action in connection with which they are filed. Every page of each such document shall be clearly and accurately labeled “Public”, *“In Camera”* or “Confidential”.
@@ -42,4 +44,4 @@
 
 (g) *Authority to reject documents for filing.* The Secretary of the Commission may reject a document for filing that fails to comply with the Commission's rules. In cases of extreme hardship, the Secretary may excuse compliance with a rule regarding the filing of documents if the Secretary determines that the non-compliance would not interfere with the functions of the Commission.
 
-[74 FR 1835, Jan. 13, 2009, as amended at 74 FR 20209, May 1, 2009; 76 FR 52253, Aug. 22, 2011; 77 FR 59311, Sept. 27, 2012; 80 FR 25941, May 6, 2015]
+[74 FR 1835, Jan. 13, 2009, as amended at 74 FR 20209, May 1, 2009; 76 FR 52253, Aug. 22, 2011; 77 FR 59311, Sept. 27, 2012; 80 FR 25941, May 6, 2015; 86 FR 59853, Oct. 29, 2021]

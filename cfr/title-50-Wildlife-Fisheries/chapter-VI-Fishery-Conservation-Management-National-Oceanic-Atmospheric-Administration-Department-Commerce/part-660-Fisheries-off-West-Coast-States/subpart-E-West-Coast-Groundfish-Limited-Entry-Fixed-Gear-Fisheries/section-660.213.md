@@ -10,6 +10,10 @@
 
 (2) For participants in the sablefish primary season, the cumulative limit period to which this requirement applies is April 1 through October 31 or, for an individual vessel owner, when the tier limit for the permit(s) registered to the vessel has been reached, whichever is earlier.
 
+(i) *Emergency rule extending sablefish primary season.* Effective October 29, 2021, until December 31, 2021, notwithstanding any other section of these regulations, the primary sablefish season described at § 660.231 is April 1 through December 31 for vessels registered to a sablefish-endorsed limited entry permit using bottom longline gear, as defined at § 660.11.
+
+(ii) [Reserved]
+
 (e) *Electronic fish ticket.* The first receiver, as defined at § 660.11, subpart C, of fish, if that fish includes any amount of sablefish, from a limited entry fixed gear vessel, is responsible for compliance with all reporting requirements described in this paragraph. Per requirements at § 660.212(a), all fish, if that fish includes any amount of sablefish, must be reported via electronic fish ticket. When used in this paragraph, submit means to transmit final electronic fish ticket information via web-based form or, if a waiver is granted, by paper form. When used in this paragraph, record means the action of documenting electronic fish ticket information in any written format.
 
 (1) *Required information.* All first receivers must provide the following types of information: Date of landing, vessel that made the landing, vessel identification number, limited entry permit number(s), name of the vessel operator, gear type used, receiver, actual weights of species landed listed by species or species group including species with no value, condition landed, number of salmon by species, number of Pacific halibut, ex-vessel value of the landing by species, fish caught inside/outside 3 miles or both, and any other information deemed necessary by the Regional Administrator (or designee) as specified on the appropriate electronic fish ticket form.
@@ -72,4 +76,4 @@
 
 (5) *Reporting requirements when a temporary waiver has been granted.* Receivers that have been granted a temporary waiver from the requirement to submit electronic fish tickets must submit on paper the same data as is required on electronic fish tickets within 24 hours of the date received during the period that the waiver is in effect. Paper fish tickets must be sent by facsimile to NMFS, West Coast Region, Sustainable Fisheries Division, 206-526-6736 or by delivering it in person to 7600 Sand Point Way NE., Seattle, WA 98115. The requirements for submissions of paper tickets in this paragraph are separate from, and in addition to existing state requirements for landing receipts or fish receiving tickets.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 78 FR 68773, Nov. 15, 2013; 81 FR 84430, Nov. 23, 2016; 85 FR 68004, Oct. 27, 2020; 86 FR 14693, Mar. 18, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 78 FR 68773, Nov. 15, 2013; 81 FR 84430, Nov. 23, 2016; 85 FR 68004, Oct. 27, 2020; 86 FR 14693, Mar. 18, 2021; 86 FR 59876, Oct. 29, 2021]Effective Date Note:At 86 FR 59876, Oct. 29, 2021, § 660.213 was amended by adding paragraphs (d)(2)(i) and (ii), effective Oct. 29, 2021, until Dec. 31, 2021.

@@ -4,7 +4,7 @@
 
 (b)(1) The label, or labels, must be placed conspicuously on the dispenser so as to be in full view of consumers and as near as reasonably practical to the price per unit of the automotive fuel.
 
-(2) You may petition for an exemption from the placement requirements by writing the Secretary of the Federal Trade Commission, Washington, DC 20580. You must state the reasons that you want the exemption.
+(2) You may petition for an exemption from the placement requirements. You must state the reasons that you want the exemption. Petitions for exemptions will be handled pursuant to the procedures prescribed in § 1.31 of this chapter.
 
 (c) In the case of gasoline, if you do not blend the gasoline with other gasoline, you must post the octane rating of the gasoline consistent with the octane rating certified to you. If you blend the gasoline with other gasoline, you must post consistent with your determination of the average, weighted by volume, of the octane ratings certified to you for each gasoline in the blend, or consistent with the lowest octane rating certified to you for any gasoline in the blend. Whether you blend gasoline or not, you may choose to post the octane rating of the gasoline consistent with your determination of the octane rating according to the method in § 306.5. In cases involving gasoline, the octane rating must be shown as a whole or half number equal to or less than the number certified to you or determined by you.
 
@@ -36,4 +36,4 @@
 
 (g) When you receive automotive fuel from a common carrier, you also must receive from the common carrier a certification of the automotive fuel rating of the automotive fuel, either by letter or on the delivery ticket or other paper.
 
-[58 FR 41374, Aug. 3, 1993, as amended at 59 FR 48798, Sept. 23, 1994; 73 FR 40163, July 11, 2008; 81 FR 2063, Jan. 14, 2016]
+[58 FR 41374, Aug. 3, 1993, as amended at 59 FR 48798, Sept. 23, 1994; 73 FR 40163, July 11, 2008; 81 FR 2063, Jan. 14, 2016; 86 FR 59853, Oct. 29, 2021]

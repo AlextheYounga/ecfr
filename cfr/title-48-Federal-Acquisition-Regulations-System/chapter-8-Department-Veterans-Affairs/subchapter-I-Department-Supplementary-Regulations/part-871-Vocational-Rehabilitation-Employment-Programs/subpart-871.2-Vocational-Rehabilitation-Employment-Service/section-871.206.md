@@ -1,0 +1,3 @@
+##### 871.206 Other fees and charges. #####
+
+VA may pay fees and other charges that are not prescribed by law but are required by nongovernmental organizations, such as initiation fees required to become a member of a labor union and the dues necessary to maintain membership incidental to training on the job or to obtaining employment during a period in which the Veteran is a participant pursuant to 38 U.S.C. chapter 31, provided there are no facilities feasibly available where the necessary training can be feasibly accomplished or employment obtained without paying such charges. Payment for such fees must be made in accordance with part 813.

@@ -1,0 +1,1 @@
+##### 225.7705 Prohibition on use of funds for contracts of certain programs and projects in Afghanistan that cannot be safely accessed. #####

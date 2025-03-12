@@ -1,6 +1,4 @@
-##### 852.237-70 Indemnification and medical liability insurance. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.237-70 Indemnification and Medical Liability Insurance. #####
 
 As prescribed in 837.403-70(a), insert the following clause:
 

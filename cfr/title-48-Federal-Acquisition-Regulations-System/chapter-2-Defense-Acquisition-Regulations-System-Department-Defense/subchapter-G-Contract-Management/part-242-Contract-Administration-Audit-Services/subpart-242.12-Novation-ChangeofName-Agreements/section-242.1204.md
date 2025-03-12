@@ -1,4 +1,4 @@
-##### 242.1204 Agreement to recognize a successor in interest (novation agreement). #####
+##### 242.1204 Applicability of novation agreements. #####
 
 (i) When a novation agreement is required and the transferee intends to incur restructuring costs as defined at 213.205-70, the cognizant contracting officer shall include the following provision as paragraph (b)(7) of the novation agreement instead of the paragraph (b)(7) provided in the sample format at FAR 42.1204(i):
 
@@ -6,4 +6,4 @@
 
 (ii) The Government recognizes that restructuring by the Transferee incidental to the acquisition/merger may be in the best interests of the Government. Restructuring costs that are allowable under Part 31 of the Federal Acquisition Regulation (FAR) or Part 231 of the Defense Federal Acquisition Regulation Supplement (DFARS) may be reimbursed under flexibily-priced novated contracts, provided the Transferee demonstrates that the restructuring will reduce overall costs to the Department of Defense (DoD) (and to the National Aeronautics and Space Administration (NASA), where there is a mix of DoD and NASA contracts), and the requirements included in DFARS 231.205-70 are met. Restructuring costs shall not be allowed on novated contracts unless there is an audit of the restructuring proposal; a determination by the contracting officer of overall reduced costs to DoD/NASA; and an Advance Agreement setting forth a cumulative cost ceiling for restructuring projects and the period to which such costs shall be assigned.”
 
-[60 FR 1749, Jan. 5, 1995, as amended at 61 FR 16882, Apr. 18, 1996; 65 FR 63805, Oct. 25, 2000]
+[60 FR 1749, Jan. 5, 1995, as amended at 61 FR 16882, Apr. 18, 1996; 65 FR 63805, Oct. 25, 2000; 86 FR 59871, Oct. 29, 2021]

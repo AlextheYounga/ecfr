@@ -1,6 +1,4 @@
-##### 852.203-70 Commercial advertising. #####
-
-Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
+##### 852.203-70 Commercial Advertising. #####
 
 As prescribed in 803.570-2, insert the following clause:
 

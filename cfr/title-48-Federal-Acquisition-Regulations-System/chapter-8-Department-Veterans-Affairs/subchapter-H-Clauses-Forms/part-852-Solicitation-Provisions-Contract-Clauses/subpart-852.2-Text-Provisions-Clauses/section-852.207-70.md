@@ -1,6 +1,4 @@
-##### 852.207-70 Report of employment under commercial activities. #####
-
-Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
+##### 852.207-70 Report of Employment under Commercial Activities. #####
 
 As prescribed in 807.304-77 and 873.110, the following clause will be included in A-76 cost comparison solicitations and solicitations issued under the authority of 38 U.S.C. 8151-8153 that may result in conversion from in-house to contract performance of work:
 

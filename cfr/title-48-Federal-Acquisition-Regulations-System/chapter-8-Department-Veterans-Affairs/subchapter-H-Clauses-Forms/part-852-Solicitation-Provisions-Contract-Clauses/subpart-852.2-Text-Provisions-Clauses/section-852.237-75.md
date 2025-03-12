@@ -1,6 +1,4 @@
-##### 852.237-75 Key personnel. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.237-75 Key Personnel. #####
 
 As prescribed in 837.110-70(b), insert the following clause:
 

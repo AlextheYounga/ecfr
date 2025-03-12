@@ -1,10 +1,8 @@
-##### 852.216-74 Economic price adjustment - medicaid labor rates. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.216-74 Economic Rice Adjustment—Medicaid Labor Rates. #####
 
 As prescribed in 816.203-4(e)(4), insert the following clause:
 
-Economic Price Adjustment - Medicaid Labor Rates (MAR 2018)
+Economic Price Adjustment—Medicaid Labor Rates (MAR 2018)
 
 This clause does not apply to rates for non-Medicaid nursing homes.
 

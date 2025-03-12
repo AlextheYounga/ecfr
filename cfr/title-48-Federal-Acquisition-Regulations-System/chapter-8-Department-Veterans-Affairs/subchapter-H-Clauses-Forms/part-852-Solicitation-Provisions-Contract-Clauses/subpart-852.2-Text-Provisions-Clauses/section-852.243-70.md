@@ -1,10 +1,8 @@
-##### 852.243-70 Construction contract changes - Supplement. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.243-70 Construction Contract Changes—Supplement. #####
 
 As prescribed in 843.205-70, the Contracting Officer shall insert this clause in solicitations and contracts for construction that are expected to exceed the micro-purchase threshold. The Contracting Officer shall fill in the number of days in which a Contractor must assert its right to an equitable adjustment; however, such amount shall not exceed 60 calendar days.
 
-Construction Contract Changes - Supplement (SEP 2019)
+Construction Contract Changes—Supplement (SEP 2019)
 
 The FAR clauses 52.236-2, Differing Site Conditions; 52.243-4, Changes; and 52.243-5, Changes and Changed Conditions, are supplemented as follows:
 

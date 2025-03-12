@@ -6,4 +6,4 @@
 
 (2) The contracting officer must cite Federal Prison Industries, Inc., clearance No. 1206 in the purchase document for any purchase from a commercial source of dress shoes similar to Federal Prison Industries, Inc., Style No. 86-A.
 
-[84 FR 29390, June 24, 2019]Editorial Note:At 84 FR 29390, June 24, 2019, § 808.002 was amended, expiring July 1, 2021; however, the amendment expiration could not be completed because a section heading is required.
+[84 FR 29390, June 24, 2019]Editorial Note:At 84 FR 29390, June 24, 2019, 808.002 was amended, expiring July 1, 2021; however, the amendment expiration could not be completed because a section heading is required.

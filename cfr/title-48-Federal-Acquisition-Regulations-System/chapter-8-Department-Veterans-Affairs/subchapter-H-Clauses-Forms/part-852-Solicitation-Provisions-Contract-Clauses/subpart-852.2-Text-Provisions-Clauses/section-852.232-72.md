@@ -1,12 +1,10 @@
-##### 852.232-72 Electronic submission of payment requests. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.232-72 Electronic Submission of Payment Requests. #####
 
 As prescribed in 832.7001-2, insert the following clause:
 
 Electronic Submission of Payment Requests (NOV 2018)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 (1) *Contract financing payment* has the meaning given in FAR 32.001;
 
@@ -28,7 +26,7 @@ Electronic Submission of Payment Requests (NOV 2018)
 
 (d) *Invoice requirements.* Invoices shall comply with FAR 32.905.
 
-(e) *Exceptions.* If, based on one of the circumstances in this paragraph (e), the Contracting Officer directs that payment requests be made by mail, the Contractor shall submit payment requests by mail through the United States Postal Service to the designated agency office. Submission of payment requests by mail may be required for -
+(e) *Exceptions.* If, based on one of the circumstances in this paragraph (e), the Contracting Officer directs that payment requests be made by mail, the Contractor shall submit payment requests by mail through the United States Postal Service to the designated agency office. Submission of payment requests by mail may be required for—
 
 (1) Awards made to foreign vendors for work performed outside the United States;
 

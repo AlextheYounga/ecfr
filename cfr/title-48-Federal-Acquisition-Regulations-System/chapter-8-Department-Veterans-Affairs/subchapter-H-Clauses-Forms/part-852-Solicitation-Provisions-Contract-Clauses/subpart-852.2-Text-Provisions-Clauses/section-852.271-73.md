@@ -1,11 +1,9 @@
-##### 852.271-73 Use and publication of counseling results. #####
+##### 852.271-73 Use and Publication of Counseling Results. #####
 
-Link to an amendment published at 86 FR 54406, Oct. 1, 2021.
+As prescribed in 871.211, insert the following clause:
 
-As prescribed in 871.212, insert the following clause:
+Use and Publication of Counseling Results (NOV 2021)
 
-Use and Publication of Counseling Results (JAN 2008)
+The Contractor agrees that none of the information or data gathered in connection with the services specified in this contract, or studies or materials based thereon or relating thereto, will be publicized without the prior approval of the Under Secretary for Benefits or his/her designee.
 
-The contractor agrees that none of the information or data gathered in connection with the services specified in this contract or studies or materials based thereon or relating thereto will be publicized without the prior approval of the Under Secretary for Benefits or his/her designee.
-
-(End of clause)
+(End of clause)[86 FR 54406, Oct. 1, 2021]

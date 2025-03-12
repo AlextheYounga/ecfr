@@ -1,5 +1,5 @@
 ##### § 1.16 Petition for exemption from trade regulation rule. #####
 
-Any person to whom a rule would otherwise apply may petition the Commission for an exemption from such rule. The procedures for determining such a petition will be those of subpart C of this part.
+Any person to whom a rule would otherwise apply may petition the Commission for an exemption from such rule. Petitions for exemptions will be handled in the same manner and pursuant to the same procedures as prescribed in § 1.31 of this chapter.
 
-[86 FR 38550, July 22, 2021]
+[86 FR 59852, Oct. 29, 2021]

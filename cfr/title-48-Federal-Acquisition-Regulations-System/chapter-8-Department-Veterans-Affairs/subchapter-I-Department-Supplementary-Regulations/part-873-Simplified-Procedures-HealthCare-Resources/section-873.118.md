@@ -1,0 +1,3 @@
+##### 873.118 Debriefings. #####
+
+Offerors whose proposals are not accepted under a competitive request for proposals (RFP) may submit a written request for a debriefing to the contracting officer. Without regard to FAR 15.505, preaward debriefings may be conducted by the contracting officer when determined to be in the best interest of the Government. Post-award debriefings shall be conducted in accordance with FAR 15.506. (38 U.S.C. 8153)

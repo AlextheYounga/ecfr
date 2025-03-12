@@ -1,12 +1,10 @@
-##### 852.233-70 Protest content/alternative dispute resolution. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.233-70 Protest Content/Alternative Dispute Resolution. #####
 
 As prescribed in 833.106-70(a), insert the following provision:
 
 Protest Content/Alternative Dispute Resolution (SEP 2018)
 
-(a) Any protest filed by an interested party shall -
+(a) Any protest filed by an interested party shall—
 
 (1) Include the name, address, fax number, email and telephone number of the protester;
 

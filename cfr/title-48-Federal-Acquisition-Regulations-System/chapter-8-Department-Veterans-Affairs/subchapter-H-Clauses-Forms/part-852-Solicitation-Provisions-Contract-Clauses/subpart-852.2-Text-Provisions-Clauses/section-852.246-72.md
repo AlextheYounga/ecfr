@@ -1,6 +1,4 @@
-##### 852.246-72 Frozen processed foods. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.246-72 Frozen Processed Foods. #####
 
 As prescribed in 846.370-2, insert the following clause:
 

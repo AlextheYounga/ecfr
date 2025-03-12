@@ -1,6 +1,4 @@
-##### 852.219-10 VA Notice of total service-disabled veteran-owned small business set-aside. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.219-10 VA Notice of Total Service-Disabled Veteran-Owned Small Business Set-Aside. #####
 
 As prescribed in 819.7009, insert the following clause:
 

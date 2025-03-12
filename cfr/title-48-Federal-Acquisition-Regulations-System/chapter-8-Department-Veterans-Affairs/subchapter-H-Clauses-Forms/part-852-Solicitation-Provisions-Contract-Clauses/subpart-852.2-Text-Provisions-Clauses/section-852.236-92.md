@@ -1,16 +1,14 @@
-##### 852.236-92 Notice to bidders - additive or deductive bid line items. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.236-92 Notice to Bidders—Additive or Deductive Bid Line Items. #####
 
 As prescribed in 836.580, insert the following provision:
 
-Notice to Bidders - Additive or Deductive Bid Line Items (APR 2019)
+Notice to Bidders—Additive or Deductive Bid Line Items (APR 2019)
 
-(a) Additive or deductive line items in the bid schedule shall be evaluated to determine the low offeror and the items to be awarded. The evaluation shall be made as follows -
+(a) Additive or deductive line items in the bid schedule shall be evaluated to determine the low offeror and the items to be awarded. The evaluation shall be made as follows—
 
 (1) Prior to the opening of bids, the Government will determine the amount of funds available for the project.
 
-(2) The low bid shall be the Bidder that -
+(2) The low bid shall be the Bidder that—
 
 (i) Is otherwise eligible for award; and
 
@@ -22,7 +20,7 @@ Notice to Bidders - Additive or Deductive Bid Line Items (APR 2019)
 
 (ii) Add that next item if an award may be made that includes that line item and is within the available funds.
 
-(b) The Contracting Officer will use the list of priorities in the bid schedule only to determine the low offeror. After determining the low offeror, an award may be made on any combination of items if -
+(b) The Contracting Officer will use the list of priorities in the bid schedule only to determine the low offeror. After determining the low offeror, an award may be made on any combination of items if—
 
 (1) It is in the best interest of the Government;
 

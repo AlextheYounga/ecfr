@@ -1,6 +1,6 @@
 ##### 252.232-7007 Limitation of Government's obligation. #####
 
-As prescribed in 232.705-70, use the following clause:
+As prescribed in 232.706-70, use the following clause:
 
 Limitation of Government's Obligation (APR 2014)
 
@@ -32,4 +32,4 @@ On execution of contract $\_\_
 
 (month) (day), (year) $\_\_
 
-(End of clause)[58 FR 46093, Sept. 1, 1993, as amended at 71 FR 18673, Apr. 12, 2006; 71 FR 27644, May 12, 2006; 79 FR 22042, Apr. 21, 2014]
+(End of clause)[58 FR 46093, Sept. 1, 1993, as amended at 71 FR 18673, Apr. 12, 2006; 71 FR 27644, May 12, 2006; 79 FR 22042, Apr. 21, 2014; 86 FR 59871, Oct. 29, 2021]

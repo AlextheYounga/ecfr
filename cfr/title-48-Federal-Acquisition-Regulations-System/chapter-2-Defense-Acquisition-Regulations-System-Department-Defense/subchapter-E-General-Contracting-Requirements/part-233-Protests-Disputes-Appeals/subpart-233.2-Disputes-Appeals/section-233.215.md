@@ -1,8 +1,8 @@
-##### 233.215 Contract clause. #####
+##### 233.215 Contract clauses. #####
 
-Use Alternate I of the clause at FAR 52.233-1, Disputes, when -
+Use Alternate I of the clause at FAR 52.233-1, Disputes, when—
 
-(1) The acquisition is for -
+(1) The acquisition is for—
 
 (i) Aircraft
 
@@ -16,7 +16,7 @@ Use Alternate I of the clause at FAR 52.233-1, Disputes, when -
 
 (vi) Related electronic systems;
 
-(2) The contracting officer determines that continued performance is -
+(2) The contracting officer determines that continued performance is—
 
 (i) Vital to the national security, or
 

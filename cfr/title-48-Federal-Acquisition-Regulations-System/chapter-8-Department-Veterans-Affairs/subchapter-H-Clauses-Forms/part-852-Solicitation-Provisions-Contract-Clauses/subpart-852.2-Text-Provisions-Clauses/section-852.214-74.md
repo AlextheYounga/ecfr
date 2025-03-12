@@ -1,6 +1,4 @@
-##### 852.214-74 Marking of bid samples. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.214-74 Marking of Bid Samples. #####
 
 As prescribed in 814.201-6(b), insert the following provision:
 

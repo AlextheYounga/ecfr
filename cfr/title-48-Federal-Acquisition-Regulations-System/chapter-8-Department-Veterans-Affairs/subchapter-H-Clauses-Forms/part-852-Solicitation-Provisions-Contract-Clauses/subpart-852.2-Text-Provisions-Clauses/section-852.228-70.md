@@ -1,6 +1,4 @@
-##### 852.228-70 Bond premium adjustment. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.228-70 Bond Premium Adjustment. #####
 
 As prescribed in 828.106-70, insert the following clause:
 

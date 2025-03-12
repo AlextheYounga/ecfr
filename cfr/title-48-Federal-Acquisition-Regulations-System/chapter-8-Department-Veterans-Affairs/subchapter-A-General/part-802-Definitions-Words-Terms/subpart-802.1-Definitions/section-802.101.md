@@ -1,30 +1,24 @@
 ##### 802.101 Definitions. #####
 
-Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
-
 *A/E* means architect/engineer.
 
-*Chief Acquisition Officer* means the Assistant Secretary for Management.
+*Chief Acquisition Officer* (CAO) means the Principal Executive Director, Office of Acquisition, Logistics, and Construction.
 
-*COTR* means Contracting Officer's Technical Representative or Contracting Officer's Representative.
-
-*DSPE* means the Deputy Senior Procurement Executive, who is also the Associate Deputy Assistant Secretary for Acquisitions. The DSPE must be career member of the Senior Executive Service.
+*COR* means Contracting Officer's Representative.
 
 *FAR* means the Federal Acquisition Regulation.
 
 *GAO* means the Government Accountability Office.
 
-*HCA* means the Head of the Contracting Activity, an individual appointed in writing by the DSPE under VA's Appointment of HCAs Program (see 801.695).
+*HCA* means the Head of the Contracting Activity, an individual appointed in writing by the SPE.
 
 *OGC* means the Office of the General Counsel.
-
-*Resident Engineer* has the same meaning as contracting officer's technical representative or contacting officer's representative (see 852.270-1).
 
 *Service-disabled veteran-owned small business concern (SDVOSB)* has the same meaning as defined in the Federal Acquisition Regulation (FAR) part 2.101, except for acquisitions authorized by 813.106 and subpart 819.70. These businesses must then be listed as verified on the Vendor Information Pages (VIP) database at *http://www.vetbiz.gov.* In addition, some businesses may be owned and controlled by a surviving spouse.
 
 *Small business concern* has the same meaning as defined in FAR 2.101.
 
-*SPE* means the Senior Procurement Executive who is also the Deputy Assistant Secretary for Acquisition and Materiel Management. The SPE is responsible for the management direction of the VA acquisition system. The SPE may further delegate authority to the DSPE.
+*SPE* means the Senior Procurement Executive who is also the Executive Director, Office of Acquisition and Logistics. The SPE is responsible for the management direction of the VA acquisition system.
 
 *Surviving spouse* means an individual who has been listed in the Department of Veterans Affairs' (VA) Veterans Benefits Administration (VBA) database of veterans and family members. To be eligible for inclusion in the VetBiz.gov VIP database, the following conditions must apply:
 
@@ -46,10 +40,10 @@ Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
 
 *VAAR* means the Department of Veterans Affairs Acquisition Regulation.
 
-*Vendor Information Pages (VIP)* means the VetBiz.gov Vendor Information Pages database at *http://www.vetbiz.gov.*
+*Vendor Information Pages (VIP)* means the *VetBiz.va.gov* VIP database at *https://www.vetbiz.va.gov/vip/.*
 
 *Veteran-owned small business concern (VOSB)* has the same meaning as defined in FAR 2.101, except for acquisitions authorized by 813.106 and 819.70. These businesses must then be listed as verified in the VetBiz.gov VIP database.
 
 *VISN* means Veterans Integrated Service Network, an integrated network of VA facilities that are focused on pooling and aligning resources to best meet local needs in the most cost-effective manner and provide greater access to care.
 
-[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018; 85 FR 60074, Sept. 24, 2020]
+[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018; 85 FR 60074, Sept. 24, 2020; 86 FR 54403, Oct. 1, 2021]

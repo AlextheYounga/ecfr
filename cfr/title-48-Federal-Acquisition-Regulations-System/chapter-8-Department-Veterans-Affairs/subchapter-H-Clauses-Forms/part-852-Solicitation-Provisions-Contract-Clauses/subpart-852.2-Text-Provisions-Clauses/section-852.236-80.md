@@ -1,6 +1,4 @@
-##### 852.236-80 Subcontracts and work coordination. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.236-80 Subcontracts and Work Coordination. #####
 
 As prescribed in 836.574, insert the following clause:
 

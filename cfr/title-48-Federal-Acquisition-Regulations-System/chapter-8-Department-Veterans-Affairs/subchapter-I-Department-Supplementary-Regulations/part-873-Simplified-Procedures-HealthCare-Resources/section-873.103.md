@@ -1,0 +1,3 @@
+##### 873.103 Priority sources. #####
+
+Except for the acquisition of covered services available from the Committee for Purchase From People Who Are Blind or Severely Disabled and the AbilityOne Program (see FAR subpart 8.7), there are no priority sources for the acquisition of health-care resources consisting of commercial services or the use of medical equipment or space in accordance with 808.002(a)(2) and 873.107. (38 U.S.C. 8153)

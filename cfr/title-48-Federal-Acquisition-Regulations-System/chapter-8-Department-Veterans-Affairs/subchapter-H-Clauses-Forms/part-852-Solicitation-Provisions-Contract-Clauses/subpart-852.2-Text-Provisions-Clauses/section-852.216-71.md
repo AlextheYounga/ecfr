@@ -1,6 +1,4 @@
-##### 852.216-71 Economic price adjustment of contract price(s) based on a price index. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.216-71 Economic Price Adjustment of Contract Price(s) Based on a Price Index. #####
 
 As prescribed in 816.203-4(e)(1), insert the following clause:
 
@@ -8,7 +6,7 @@ Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)
 
 (a) To the extent that contract cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for the base period and any option periods do not include any amount to protect against such contingent cost increases.
 
-(b) The Base and Adjusting Indexes, for the purpose of price adjustment under this clause, shall be \_\_\_,1 as contained in \_\_\_,2 as published by \_\_\_.3 All adjustments authorized under this clause shall be made by using the Base Index and Adjusting Indexes, which are published \_\_\_.4
+(b) The Base and Adjusting Indexes, for the purpose of price adjustment under this clause, shall be \_\_\_\_\_\_,1 as contained in \_\_\_\_\_\_,2 as published by \_\_\_\_\_\_.3 All adjustments authorized under this clause shall be made by using the Base Index and Adjusting Indexes, which are published \_\_\_\_\_\_.4
 
 1 The Contracting Officer shall conduct market research to determine a suitable Consumer Price Index or other independent broad-based index to use for the solicitation. For example, for medical services, an appropriate index may be the Consumer Price Index that tracks medical services.
 
@@ -22,11 +20,11 @@ Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)
 
 (2) The Adjusting Index shall be the most recent Index published prior to the date of contract adjustment, as specified in paragraph (d) of this clause.
 
-(c) The percentage difference between the Base Index and the Adjusting Index, rounded to the nearest .01 percent (*e.g.,* 4.57%), will be used in calculating all adjustments to the following line items: \_\_\_.5 The prices for these line items will be multiplied by the percentage increase or decrease and the resulting amount will be added to or deducted from the original line item price for that contract period (*e.g.,* Base Year) to arrive at the new contract price for those line items from the effective date of the adjustment to the beginning of the next contract adjustment period, rounded to the same number of decimal points as the prices originally bid. Calculations for option year contract terms will be based on the prices in the schedule for those option years.
+(c) The percentage difference between the Base Index and the Adjusting Index, rounded to the nearest .01 percent (*e.g.,* 4.57%), will be used in calculating all adjustments to the following line items: \_\_\_\_\_\_.5 The prices for these line items will be multiplied by the percentage increase or decrease and the resulting amount will be added to or deducted from the original line item price for that contract period (*e.g.,* Base Year) to arrive at the new contract price for those line items from the effective date of the adjustment to the beginning of the next contract adjustment period, rounded to the same number of decimal points as the prices originally bid. Calculations for option year contract terms will be based on the prices in the schedule for those option years.
 
 5 Enter the line items that will be subject to adjustment or revise this paragraph to otherwise state what prices are subject to adjustment under this clause.
 
-(d) The dates of contract adjustment shall be \_\_\_6 and the starting dates of each option year, if not already included in these dates. The Contracting Officer shall retain a copy of the Base Index in the contract file and, on each date of adjustment specified in this paragraph (d), shall obtain a copy of the Adjusting Index. The Contracting Officer shall calculate the adjustment due and shall, within 5 business days, issue a modification to the contract adjusting the unit or contract prices, as specified in paragraph (c). The adjusted unit or contract prices shall be effective for all orders placed or services provided after the date of contract adjustment as specified in this paragraph (d) until the beginning of the next contract adjustment period. If the Contracting Officer fails to act, the Contractor shall request in writing a contract adjustment and any subsequent adjustment shall be retroactive to the applicable date of contract adjustment specified in this paragraph (d). The Contractor's entitlement to price increases for a prior contract period (base year or option year) is waived unless the Contractor's written request for an adjustment under this clause is received by the Contracting Officer no later than 30 days following the end of the base year for changes applicable to the base year, or 30 days following the end of each option year for changes applicable to that option year. The Government's right to contract decreases for prior contract periods (base year or option year) is waived unless the Contracting Officer processes a contract modification no later than 30 days following the end of the base year for changes applicable to the base year, or 30 days following the end of each option year for changes applicable to that option year.
+(d) The dates of contract adjustment shall be \_\_\_\_\_\_6 and the starting dates of each option year, if not already included in these dates. The Contracting Officer shall retain a copy of the Base Index in the contract file and, on each date of adjustment specified in this paragraph (d), shall obtain a copy of the Adjusting Index. The Contracting Officer shall calculate the adjustment due and shall, within 5 business days, issue a modification to the contract adjusting the unit or contract prices, as specified in paragraph (c). The adjusted unit or contract prices shall be effective for all orders placed or services provided after the date of contract adjustment as specified in this paragraph (d) until the beginning of the next contract adjustment period. If the Contracting Officer fails to act, the Contractor shall request in writing a contract adjustment and any subsequent adjustment shall be retroactive to the applicable date of contract adjustment specified in this paragraph (d). The Contractor's entitlement to price increases for a prior contract period (base year or option year) is waived unless the Contractor's written request for an adjustment under this clause is received by the Contracting Officer no later than 30 days following the end of the base year for changes applicable to the base year, or 30 days following the end of each option year for changes applicable to that option year. The Government's right to contract decreases for prior contract periods (base year or option year) is waived unless the Contracting Officer processes a contract modification no later than 30 days following the end of the base year for changes applicable to the base year, or 30 days following the end of each option year for changes applicable to that option year.
 
 6 Establish time periods for when the Contracting Officer will process adjustments. This could be “the first day of every quarter, January, April, July, and October” or “Annually on October 1st” or some other similar time periods. Since the contracting officer is responsible for initiating the change, the Contracting Officer must establish a reminder mechanism to ensure that the adjustments are accomplished within the time period specified.
 
@@ -36,15 +34,14 @@ Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)
 
 (2) For purposes of this example, the contract prices for the line items as specified in paragraph (c) will be adjusted by the percentage calculated as follows:
 
-|       Adjusting Index for the current period        |       196.6        |
-|:----------------------------------------------------|:-------------------|
-|                Minus the Base Index                 |       −188.0       |
-|            Equals the Index Point Change            |        8.6         |
-|    Index Point Change Divided by the Base Index     |8.6/188.0 = .0457 \*|
-|Result Multiplied by 100 Equals the Percentage Change|       4.57%        |
-|         (The Index Point Change Percentage)         |                    |
-
-\* This figure shall be rounded to the fourth decimal place. When the fifth decimal is 1 to 4, the figure shall be rounded down, 5 to 9, rounded up.
+|                                                       Adjusting Index for the current period                                                       |       196.6        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+|                                                                Minus the Base Index                                                                |       −188.0       |
+|                                                           Equals the Index Point Change                                                            |        8.6         |
+|                                                    Index Point Change Divided by the Base Index                                                    |8.6/188.0 = .0457 \*|
+|                                               Result Multiplied by 100 Equals the Percentage Change                                                |       4.57%        |
+|                                                        (The Index Point Change Percentage)                                                         |                    |
+|\* This figure shall be rounded to the fourth decimal place. When the fifth decimal is 1 to 4, the figure shall be rounded down, 5 to 9, rounded up.|                    |
 
 (3) For a line item with an original bid price of $25.00 and a 4.57 percent Index Point Change increase as of the first contract adjustment period, as shown above, the calculations for a new contract price for the first contract adjustment period would be as follows: $25.00 × .0457 = $1.14, $25 + $1.14 = $26.14 \*\*. The new contract price for this line item from the beginning of that first contract adjustment period until the start of the next contract adjustment period would be $26.14 and the Contracting Officer would issue a contract modification reflecting this price change. \*\* The unit price adjustment shall be rounded up or down, as in paragraph (e)(1) of this clause, to match the number of decimal places in the original bid.
 
@@ -56,7 +53,7 @@ Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)
 
 (g) At the start of each option year, the Contracting Officer shall, within 5 days of the start of the option year period, process a contract modification adjusting the option year prices by the then current Index Point Change percentage, if any, reflecting the new adjusted prices for that first contract adjustment period in that option year.
 
-(h) In the event that \_\_\_7 discontinues, or alters substantially, its method of calculating the Index cited herein, the parties shall mutually agree upon an appropriate substitute for determining the price adjustment described herein. If the Contracting Officer determines that the Index consistently and substantially fails to reflect market conditions, the Contracting Officer may modify the contract to specify the use of an appropriate substitute index, effective on the date the Index specified herein begins to consistently and substantially fail to reflect market conditions.
+(h) In the event that \_\_\_\_\_\_7 discontinues, or alters substantially, its method of calculating the Index cited herein, the parties shall mutually agree upon an appropriate substitute for determining the price adjustment described herein. If the Contracting Officer determines that the Index consistently and substantially fails to reflect market conditions, the Contracting Officer may modify the contract to specify the use of an appropriate substitute index, effective on the date the Index specified herein begins to consistently and substantially fail to reflect market conditions.
 
 7 Enter in the name of the entity whose index is used in the clause. In most cases when using this clause format, the index used would be a CPI-U Index and the Contracting Officer would enter “the U.S. Department of Labor”.
 

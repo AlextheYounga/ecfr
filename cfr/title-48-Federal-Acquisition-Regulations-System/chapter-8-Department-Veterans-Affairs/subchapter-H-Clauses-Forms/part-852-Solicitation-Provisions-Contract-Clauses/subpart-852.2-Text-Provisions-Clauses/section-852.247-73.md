@@ -1,6 +1,4 @@
-##### 852.247-73 Packing for domestic shipment. #####
-
-Link to an amendment published at 86 FR 54405, Oct. 1, 2021.
+##### 852.247-73 Packing for Domestic Shipment. #####
 
 As prescribed in 847.305-10(b), insert the following clause:
 

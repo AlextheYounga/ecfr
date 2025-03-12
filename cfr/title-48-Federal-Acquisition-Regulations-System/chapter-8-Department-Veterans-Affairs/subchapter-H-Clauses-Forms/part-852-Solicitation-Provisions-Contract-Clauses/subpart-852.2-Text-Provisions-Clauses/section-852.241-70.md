@@ -1,10 +1,8 @@
-##### 852.241-70 Disputes - Utility contracts. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.241-70 Disputes—Utility Contracts. #####
 
 As prescribed in 841.501-70, insert the following clause:
 
-Disputes - Utility Contracts (SEP 2020)
+Disputes—Utility Contracts (SEP 2020)
 
 (a) *Definition.* As used in this clause, *Independent regulatory body* means the Federal Energy Regulatory Commission, a state-wide agency, or an agency with less than state-wide jurisdiction when operating pursuant to state authority. The body has the power to fix, establish, or control the rates and services of utility suppliers.
 

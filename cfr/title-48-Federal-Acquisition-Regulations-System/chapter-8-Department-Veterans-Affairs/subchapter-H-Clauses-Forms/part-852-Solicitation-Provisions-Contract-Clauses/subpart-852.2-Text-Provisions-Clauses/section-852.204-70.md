@@ -1,6 +1,4 @@
-##### 852.204-70 Personal identity verification of contractor personnel. #####
-
-Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
+##### 852.204-70 Personal Identity Verification of Contractor personnel. #####
 
 As prescribed in 804.1303, insert the following clause:
 

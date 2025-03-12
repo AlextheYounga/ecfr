@@ -1,4 +1,4 @@
-##### 232.806 Contract clause. #####
+##### 232.806 Contract clauses. #####
 
 (a)(1) Use the clause at 252.232-7008, Assignment of Claims (Overseas), instead of the clause at FAR 52.232-23, Assignment of Claims, in solicitations and contracts when contract performance will be in a foreign country.
 

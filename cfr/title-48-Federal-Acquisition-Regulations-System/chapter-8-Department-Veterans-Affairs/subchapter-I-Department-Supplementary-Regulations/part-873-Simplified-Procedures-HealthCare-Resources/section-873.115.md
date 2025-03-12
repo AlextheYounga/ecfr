@@ -1,0 +1,7 @@
+##### 873.115 Proposal revisions. #####
+
+(a) The contracting officer may request proposal revisions as often as needed during the proposal evaluation process at any time prior to award from vendors remaining in the best value pool. Proposal revisions shall be submitted in writing. The contracting officer may establish a common cutoff date for receipt of proposal revisions. Contracting officers may request best and final offers n. In any case, contracting officers and acquisition team members must safeguard all proposals and revisions to avoid unfair dissemination of an offeror's proposal. (38 U.S.C. 8153)
+
+(b) If an offeror initially included in the best value pool is no longer considered to be among those most likely to receive award after submission of proposal revisions and subsequent evaluation thereof, the offeror may be eliminated from the best value pool without being afforded an opportunity to submit further proposal revisions. (38 U.S.C. 8153)
+
+(c) Requesting and/or receiving proposal revisions does not necessarily conclude exchanges. However, requests for proposal revisions should advise offerors that the Government may make award without obtaining further revisions. (38 U.S.C. 8153)

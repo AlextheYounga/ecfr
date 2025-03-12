@@ -4,7 +4,7 @@
 
 (b)(1) The label, or labels, must be placed conspicuously on the fuel dispenser so as to be in full view of consumers and as near as reasonably practical to the price per unit of the non-liquid alternative vehicle fuel.
 
-(2) You may petition for an exemption from the placement requirements by writing the Secretary of the Federal Trade Commission, Washington, DC 20580. You must state the reasons that you want the exemption.
+(2) You may petition for an exemption from the placement requirements by writing the Secretary of the Federal Trade Commission, Washington, DC 20580. You must state the reasons that you want the exemption. Petitions for exemptions will be handled pursuant to the procedures prescribed in § 1.31 of this chapter.
 
 (c) If you do not blend non-liquid alternative vehicle fuels (other than electricity), you must post consistent with the fuel rating certified to you. If you blend non-liquid alternative vehicle fuel (other than electricity), you must possess a reasonable basis, consisting of competent and reliable evidence, as required by § 309.10(a), for the fuel rating that you post for the blend.
 
@@ -27,3 +27,5 @@
 “Electricity”“XX kW”“XXX vac/XX amps”“Inductive”
 
 (g) When you receive non-liquid alternative vehicle fuel (other than electricity), or an electric vehicle fuel dispensing system, from a common carrier, you also must receive from the common carrier a certification of the fuel rating of the non-liquid alternative vehicle fuel (other than electricity) or electric vehicle fuel dispensing system, either by letter or on the delivery ticket or other paper, or by a permanent marking or label attached to the electric vehicle fuel dispensing system by the manufacturer.
+
+[60 FR 26955, May 19, 1995, as amended at 86 FR 59854, Oct. 29, 2021]

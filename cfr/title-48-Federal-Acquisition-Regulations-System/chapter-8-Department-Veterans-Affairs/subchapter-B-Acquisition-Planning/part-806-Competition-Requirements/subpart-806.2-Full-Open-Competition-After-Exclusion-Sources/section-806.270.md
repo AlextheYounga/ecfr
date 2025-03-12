@@ -1,0 +1,5 @@
+##### 806.270 Set-asides for verified Veteran-owned small businesses. #####
+
+(a) To fulfill the statutory requirements relating to Public Law 109-461, the Veterans Benefits, Health Care and Information Technology Act of 2006 (38 U.S.C. 8127-8128), contracting officers shall set aside solicitations in accordance with subpart 819.70 and the VA Rule of Two for Vendor Information Pages (VIP) verified service-disabled Veteran-owned small businesses (SDVOSBs) first, then Veteran-owned small businesses (VOSBs) (see 819.7005 and 819.7006). (38 U.S.C. 8127-8128)
+
+(b) The requirement in this section to set aside procurements for VIP verified SDVOSBs and VOSBs applies to all types of contracts, including orders placed under GSA's Federal Supply Schedules (FSS) and indefinite-delivery contracts. (38 U.S.C. 8127-8128)

@@ -1,5 +1,7 @@
 ##### § 1.8002 Obtaining an FRN. #####
 
+Link to an amendment published at 86 FR 59868, Oct. 29, 2021.
+
 (a) The FRN must be obtained by anyone doing business with the Commission, see 31 U.S.C. 7701(c)(2), including but not limited to:
 
 (1) Anyone required to pay statutory charges under subpart G of this part;

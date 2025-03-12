@@ -1,6 +1,6 @@
 ##### § 383.73 State procedures. #####
 
-Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
+Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment, correcting the above amendment, published at 86 FR 59872, Oct. 29, 2021.
 
 (a) *Commercial Learner's Permit.* Prior to issuing a CLP to a person, a State must:
 

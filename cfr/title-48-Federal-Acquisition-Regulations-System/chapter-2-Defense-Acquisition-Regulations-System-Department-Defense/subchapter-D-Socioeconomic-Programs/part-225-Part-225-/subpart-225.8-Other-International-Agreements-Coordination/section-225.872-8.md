@@ -1,0 +1,3 @@
+##### 225.872-8 Subcontracting with qualifying country sources. #####
+
+In reviewing contractor subcontracting procedures, the contracting officer shall ensure that the contract does not preclude qualifying country sources from competing for subcontracts, except when restricted by national security interest reasons, mobilization base considerations, or applicable U.S. laws or regulations (see the clause at 252.225-7002, Qualifying Country Sources as Subcontractors).

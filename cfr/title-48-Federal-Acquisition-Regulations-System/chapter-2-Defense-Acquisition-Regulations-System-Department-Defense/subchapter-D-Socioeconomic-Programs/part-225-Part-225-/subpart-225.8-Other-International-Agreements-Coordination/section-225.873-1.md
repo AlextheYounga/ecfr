@@ -1,0 +1,3 @@
+##### 225.873-1 Policy. #####
+
+DoD and the Government of the United Kingdom (U.K.) have agreed to waive U.K. commercial exploitation levies and U.S. nonrecurring cost recoupment charges on a reciprocal basis. For U.K. levies to be waived, the offeror or contractor shall identify the levies and the contracting officer shall request a waiver before award of the contract or subcontract under which the levies are charged.

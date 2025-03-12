@@ -8,4 +8,4 @@
 
 (d) Pursuant to 21 U.S.C. 1035 and 1043, the failure of an official plant to operate in accordance with the requirements in part 500 of this chapter, Rules of Practice, and part 590 of this chapter, Inspection of Eggs and Egg Products (Egg Products Inspection Act) may render the products produced under those conditions adulterated.
 
-Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 591.2(b) was stayed through Oct. 29, 2021 and paragraphs (a) and (c) were stayed through Oct. 31, 2022.
+Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 591.2(a) and (c) are stayed through Oct. 31, 2022.

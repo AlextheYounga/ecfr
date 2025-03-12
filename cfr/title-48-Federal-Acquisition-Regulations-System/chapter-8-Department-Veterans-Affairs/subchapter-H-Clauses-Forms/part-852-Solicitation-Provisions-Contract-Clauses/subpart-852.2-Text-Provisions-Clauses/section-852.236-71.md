@@ -1,6 +1,4 @@
-##### 852.236-71 Specifications and drawings for construction. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.236-71 Specifications and Drawings for Construction. #####
 
 As prescribed in 836.521, insert the following clause:
 
@@ -11,7 +9,7 @@ The clause entitled “Specifications and Drawings for Construction” in FAR
 
 (a) The Contracting Officer's interpretation of the drawings and specifications will be final, subject to the Disputes clause.
 
-(b) The Contractor shall -
+(b) The Contractor shall—
 
 (1) Check all drawings and specifications furnished immediately upon receipt;
 
@@ -23,7 +21,7 @@ The clause entitled “Specifications and Drawings for Construction” in FAR
 
 (5) Reproduce and print contract drawings and specifications as needed.
 
-(c) In general -
+(c) In general—
 
 (1) Drawings of greater detail shall govern over drawings of lesser detail unless specifically noted otherwise; and
 

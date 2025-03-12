@@ -1,0 +1,3 @@
+##### 225.7303-3 Government-to-government agreements. #####
+
+If a government-to-government agreement between the United States and a foreign government for the sale, coproduction, or cooperative logistic support of a specifically defined weapon system, major end item, or support item, contains language in conflict with the provisions of this section, the language of the government-to-government agreement prevails.

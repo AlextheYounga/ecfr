@@ -1,1 +1,1 @@
-##### 245.604 Disposal of surplus property. #####
+##### 245.604 Sale of surplus personal property. #####

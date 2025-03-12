@@ -1,0 +1,3 @@
+##### 871.209 Prohibition on advertising—training of Veterans. #####
+
+The training of persons under a VA contract or the fact that the United States is using the facilities of the institution for training Veterans must not be used in any way to advertise the institution. References in the advertising media or correspondence of the institution shall be limited to a list of courses under 38 U.S.C. chapter 31 and must not be directed or pointed specifically to Veterans.

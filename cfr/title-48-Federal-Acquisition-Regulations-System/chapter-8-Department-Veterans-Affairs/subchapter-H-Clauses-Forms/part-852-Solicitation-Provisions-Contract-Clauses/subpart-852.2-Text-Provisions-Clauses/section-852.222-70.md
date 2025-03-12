@@ -1,12 +1,10 @@
-##### 852.222-70 Contract work-hours and safety standards - nursing home care for veterans. #####
-
-Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+##### 852.222-70 Contract Work-Hours and Safety Standards—Nursing Home Care for Veterans. #####
 
 As prescribed in 822.305, insert the following clause:
 
-Contract Work Hours and Safety Standards - Nursing Home Care for Veterans (MAY 2018)
+Contract Work Hours and Safety Standards—Nursing Home Care for Veterans (MAY 2018)
 
-(a) No Contractor and subcontractor under this contract shall prohibit the payment of overtime wages to their employees for work in excess of 40 hours in any workweek, which would otherwise be a violation of Contract Work Hours and Safety Standards (the statute) (40 U.S.C. 3701, *et seq.*), provided -
+(a) No Contractor and subcontractor under this contract shall prohibit the payment of overtime wages to their employees for work in excess of 40 hours in any workweek, which would otherwise be a violation of Contract Work Hours and Safety Standards (the statute) (40 U.S.C. 3701, *et seq.*), provided—
 
 (1) The Contractor or subcontractor is primarily engaged in the care of nursing home patients residing on the contractor's or subcontractor's premises;
 

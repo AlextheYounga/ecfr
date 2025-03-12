@@ -1,0 +1,3 @@
+##### 806.501 Requirement. #####
+
+The Associate Executive Director, Office of Procurement Policy, Systems and Oversight (AED, PPSO) is designated as the VA Advocate for Competition for the agency. The AED, PPSO may further delegate the authority in this section to appoint an alternate agency advocate for competition and shall designate procuring activity advocates for competition in accordance with FAR 6.501. A complete list of VA procuring activity advocates for competition can be found at*https://www.va.gov/oal/business/pps/competition-advocates.asp.*

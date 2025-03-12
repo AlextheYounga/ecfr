@@ -1,4 +1,4 @@
-##### 216.402-2 Technical performance incentives. #####
+##### 216.402-2 Performance incentives. #####
 
 (1) See PGI 216.402-2 for guidance on establishing performance incentives.
 
