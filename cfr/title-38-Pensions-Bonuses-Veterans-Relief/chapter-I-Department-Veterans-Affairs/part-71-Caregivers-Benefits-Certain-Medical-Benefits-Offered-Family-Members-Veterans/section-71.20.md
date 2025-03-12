@@ -14,9 +14,9 @@ A veteran or servicemember is eligible for a Family Caregiver under this part if
 
 (i) On or after September 11, 2001;
 
-(ii) Effective on the date specified in a future Federal Register document, on or before May 7, 1975; or
+(ii) Effective October 1, 2020, on or before May 7, 1975; or
 
-(iii) Effective two years after the date specified in a future Federal Register document as described in paragraph (a)(2)(ii) of this section, after May 7, 1975 and before September 11, 2001.
+(iii) Effective October 1, 2022, after May 7, 1975 and before September 11, 2001.
 
 (3) The individual is in need of personal care services for a minimum of six continuous months based on any one of the following:
 
@@ -32,8 +32,8 @@ A veteran or servicemember is eligible for a Family Caregiver under this part if
 
 (7) The individual receives ongoing care from a primary care team or will do so if VA designates a Family Caregiver.
 
-(b) For two years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy participant.
+(b) For five years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy participant.
 
-(c) For two years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy applicant.
+(c) For five years beginning on October 1, 2020, a veteran or servicemember is eligible for a Primary or Secondary Family Caregiver under this part if he or she is a legacy applicant.
 
-[85 FR 46295, July 31, 2020, as amended at 86 FR 52618, Sept. 22, 2021]
+[85 FR 46295, July 31, 2020, as amended at 86 FR 52618, Sept. 22, 2021; 87 FR 57608, Sept. 21, 2022]

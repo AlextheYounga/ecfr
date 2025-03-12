@@ -12,4 +12,4 @@
 
 (d) Reimbursement Program recipients, as defined in § 1.50001(h) of this chapter, are not subject to paragraph (a) of this section until after the expiration of their corresponding removal, replacement, and disposal term per § 1.50004(h) of this chapter for associated covered communications equipment and services.
 
-[86 FR 2946, Jan. 13, 2021]Effective Date Note:At 86 FR 2946, Jan. 13, 2021, § 54.11 was added, however this is amendment is delayed indefinitely.
+[86 FR 2946, Jan. 13, 2021, as amended at 86 FR 47022, Aug. 23, 2021]

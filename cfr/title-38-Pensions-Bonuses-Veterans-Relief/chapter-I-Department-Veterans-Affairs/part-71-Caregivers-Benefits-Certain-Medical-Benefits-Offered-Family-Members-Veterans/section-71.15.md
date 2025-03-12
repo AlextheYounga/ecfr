@@ -10,7 +10,7 @@ For the purposes of this part:
 
 *Financial planning services* means services focused on increasing financial capability and assisting the Primary Family Caregiver in developing a plan to manage the personal finances of the Primary Family Caregiver and the eligible veteran, as applicable, to include household budget planning, debt management, retirement planning review and education, and insurance review and education.
 
-*General Caregiver* means an individual who meets the requirements of § 71.30.
+*General Caregiver* means an individual who meets the requirements of § 71.35.
 
 *In need of personal care services* means that the eligible veteran requires in-person personal care services from another person, and without such personal care services, alternative in-person caregiving arrangements (including respite care or assistance of an alternative caregiver) would be required to support the eligible veteran's safety.
 
@@ -74,4 +74,4 @@ For the purposes of this part:
 
 *VA* refers to the Department of Veterans Affairs.
 
-[76 FR 26172, May 5, 2011, as amended at 80 FR 1376, Jan. 9, 2015; 85 FR 46293, July 31, 2020]
+[76 FR 26172, May 5, 2011, as amended at 80 FR 1376, Jan. 9, 2015; 85 FR 46293, July 31, 2020; 87 FR 57608, Sept. 21, 2022]

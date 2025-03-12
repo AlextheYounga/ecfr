@@ -10,9 +10,9 @@
 
 (ii) Joint applications received by VA on or after October 1, 2020 will be evaluated by VA based on the provisions of this part in effect on or after October 1, 2020.
 
-(A) VA will deny any joint application of an individual described in § 71.20(a)(2)(ii), if such joint application is received by VA before the date published in a future Federal Register document that is specified in such section. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(ii) should submit a joint application that is received by VA on or after the date published in a future Federal Register document that is specified in § 71.20(a)(2)(ii).
+(A) VA will deny any joint application of an individual described in § 71.20(a)(2)(ii), if such joint application is received by VA before October 1, 2020. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(ii) should submit a joint application that is received by VA on or after October 1, 2020.
 
-(B) VA will deny any joint application of an individual described in § 71.20(a)(2)(iii), if such joint application is received by VA before the date that is two years after the date published in a future Federal Register document that is specified in § 71.20(a)(2)(ii). A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(iii) should submit a joint application that is received by VA on or after the date that is two years after the date published in a future Federal Register document that is specified in § 71.20(a)(2)(ii).
+(B) VA will deny any joint application of an individual described in § 71.20(a)(2)(iii), if such joint application is received by VA before October 1, 2022. A veteran or servicemember seeking to qualify for the Program of Comprehensive Assistance for Family Caregivers pursuant to § 71.20(a)(2)(iii) should submit a joint application that is received by VA on or after the date that is two years after the date published in a future Federal Register document that is specified in § 71.20(a)(2)(ii).
 
 (b) *Eligibility to serve as Primary or Secondary Family Caregiver.* In order to serve as a Primary or Secondary Family Caregiver, the applicant must meet all of the following requirements:
 
@@ -64,4 +64,4 @@
 
 (f) *Approval and designation.* VA will approve the joint application and designate Primary and/or Secondary Family Caregivers, as appropriate, if the applicable requirements of this part are met. Approval and designation is conditioned on the eligible veteran and designated Family Caregiver(s) remaining eligible for Family Caregiver benefits under this part, the Family Caregiver(s) providing the personal care services required by the eligible veteran, and the eligible veteran and designated Family Caregiver(s) complying with all applicable requirements of this part, including participating in reassessments pursuant to § 71.30 and wellness contacts pursuant to § 71.40(b)(2). Refusal to comply with any applicable requirements of this part will result in revocation from the program pursuant to § 71.45, Revocation and Discharge of Family Caregivers.
 
-[76 FR 26172, May 5, 2011, as amended at 80 FR 1377, Jan. 9, 2015; 85 FR 46295, July 31, 2020]
+[76 FR 26172, May 5, 2011, as amended at 80 FR 1377, Jan. 9, 2015; 85 FR 46295, July 31, 2020; 87 FR 57608, Sept. 21, 2022]

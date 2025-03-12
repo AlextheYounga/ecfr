@@ -1,5 +1,7 @@
 ##### § 571.12 Audit standards. #####
 
+Link to an amendment published at 87 FR 57597, Sept. 21, 2022.
+
 (a) Each tribe shall prepare comparative financial statements covering all financial activities of each class II and class III gaming operation on the tribe's Indian lands for each fiscal year.
 
 (b) A tribe shall engage an independent certified public accountant to provide an annual audit of the financial statements of each class II and class III gaming operation on the tribe's Indian lands for each fiscal year. The independent certified public accountant must be licensed by a state board of accountancy. Financial statements prepared by the certified public accountant shall conform to generally accepted accounting principles and the annual audit shall conform to generally accepted auditing standards.

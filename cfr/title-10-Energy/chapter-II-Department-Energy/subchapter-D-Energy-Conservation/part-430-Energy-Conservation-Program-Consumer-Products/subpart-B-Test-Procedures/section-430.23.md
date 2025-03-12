@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53641, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 53641, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -254,7 +254,25 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (h) *Television sets.* The power consumption of a television set, expressed in watts, including on mode, standby mode, and off mode power consumption values, shall be measured in accordance with sections 7.1, 7.3, and 7.4 of appendix H of this subpart respectively. The annual energy consumption, expressed in kilowatt-hours per year, shall be measured in accordance with section 8 of appendix H of this subpart.
 
-(i) *Cooking products.* Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.1 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
+(i) *Cooking products.* (1) Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.3 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
+
+(2)(i) Determine the integrated annual energy consumption of a conventional electric cooking top, including any conventional cooking top component of a combined cooking product, according to section 4.3.1 of appendix I1 to this subpart. Round the result to the nearest 1 kilowatt-hour (kWh) per year.
+
+(ii) Determine the integrated annual energy consumption of a conventional gas cooking top, including any conventional cooking top component of a combined cooking product, according to section 4.3.2 of appendix I1 to this subpart. Round the result to the nearest 1 kilo-British thermal unit (kBtu) per year.
+
+(3) Determine the total annual gas energy consumption of a conventional gas cooking top, including any conventional cooking top component of a combined cooking product, according to section 4.1.2.2.1 of appendix I1 to this subpart. Round the result to the nearest 1 kBtu per year.
+
+(4)(i) Determine the total annual electrical energy consumption of a conventional electric cooking top, including any conventional cooking top component of a combined cooking product, as the integrated annual energy consumption of the conventional electric cooking top, as determined in paragraph (i)(2)(i) of this section.
+
+(ii) Determine the total annual electrical energy consumption of a conventional gas cooking top, including any conventional cooking top component of a combined cooking product, as follows, rounded to the nearest 1 kWh per year:
+
+ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active mode electrical energy consumption as defined in section 4.1.2.2.2 of appendix I1 to this subpart, and ETLP is the combined low-power mode energy consumption as defined in section 4.1 of appendix I1 to this subpart.
+
+(5) Determine the estimated annual operating cost corresponding to the energy consumption of a conventional cooking top, including any conventional cooking top component of a combined cooking product, as follows, rounded to the nearest dollar per year:
+
+(ETGE × CKWH) + (ETGG × CKBTU)Where: ETGE is the total annual electrical energy consumption for any electric energy usage, in kilowatt-hours (kWh) per year, as determined in accordance with paragraph (i)(4) of this section;CKWH is the representative average unit cost for electricity, in dollars per kWh, as provided pursuant to section 323(b)(2) of the Act;ETGG is the total annual gas energy consumption, in kBtu per year, as determined in accordance with paragraph (i)(3) of this section; andCKBTU is the representative average unit cost for natural gas or propane, in dollars per kBtu, as provided pursuant to section 323(b)(2) of the Act, for conventional gas cooking tops that operate with natural gas or with LP-gas, respectively.
+
+(6) Other useful measures of energy consumption for conventional cooking tops shall be the measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions and that are derived from the application of appendix I1 to this subpart.
 
 (j) *Clothes washers.* (1) The estimated annual operating cost for automatic and semi-automatic clothes washers must be rounded off to the nearest dollar per year and is defined as follows:
 

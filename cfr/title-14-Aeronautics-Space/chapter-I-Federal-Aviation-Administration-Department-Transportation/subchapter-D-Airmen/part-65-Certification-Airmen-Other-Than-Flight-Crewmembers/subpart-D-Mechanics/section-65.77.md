@@ -1,11 +1,13 @@
-##### § 65.77 Experience requirements. #####
+##### § 65.77 Experience requirements #####
 
-Link to an amendment published at 87 FR 31415, May 24, 2022.
+Each applicant for a mechanic certificate or rating must present either—
 
-Each applicant for a mechanic certificate or rating must present either an appropriate graduation certificate or certificate of completion from a certificated aviation maintenance technician school or documentary evidence, satisfactory to the Administrator, of -
+(a) An authenticated document from a certificated aviation maintenance technician school in accordance with § 147.21 of this chapter; or
 
-(a) At least 18 months of practical experience with the procedures, practices, materials, tools, machine tools, and equipment generally used in constructing, maintaining, or altering airframes, or powerplants appropriate to the rating sought; or
+(b) Documentary evidence, satisfactory to the Administrator, of—
 
-(b) At least 30 months of practical experience concurrently performing the duties appropriate to both the airframe and powerplant ratings.
+(1) At least 18 months of practical experience with the procedures, practices, materials, tools, machine tools, and equipment generally used in constructing, maintaining, or altering airframes or powerplants, appropriate to the rating sought; or
 
-[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-14, 35 FR 5533, Apr. 3, 1970]
+(2) At least 30 months of practical experience concurrently performing the duties appropriate to both the airframe and powerplant ratings.
+
+[Docket No.: FAA-2021-0237; Amdt. No. 65-63, 87 FR 31415, May 24, 2022]

@@ -1,5 +1,7 @@
 ##### § 61.159 Aeronautical experience: Airplane category rating. #####
 
+Link to an amendment published at 87 FR 57590, Sept. 21, 2022.
+
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, a person who is applying for an airline transport pilot certificate with an airplane category and class rating must have at least 1,500 hours of total time as a pilot that includes at least:
 
 (1) 500 hours of cross-country flight time.

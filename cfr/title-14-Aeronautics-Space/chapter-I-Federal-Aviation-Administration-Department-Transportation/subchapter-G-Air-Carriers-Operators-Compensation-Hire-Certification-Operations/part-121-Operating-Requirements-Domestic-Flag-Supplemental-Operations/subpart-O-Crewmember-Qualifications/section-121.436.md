@@ -1,5 +1,7 @@
 ##### § 121.436 Pilot Qualification: Certificates and experience requirements. #####
 
+Link to an amendment published at 87 FR 57590, Sept. 21, 2022.
+
 (a) No certificate holder may use nor may any pilot act as pilot in command of an aircraft (or as second in command of an aircraft in a flag or supplemental operation that requires three or more pilots) unless the pilot:
 
 (1) Holds an airline transport pilot certificate not subject to the limitations in § 61.167 of this chapter;
