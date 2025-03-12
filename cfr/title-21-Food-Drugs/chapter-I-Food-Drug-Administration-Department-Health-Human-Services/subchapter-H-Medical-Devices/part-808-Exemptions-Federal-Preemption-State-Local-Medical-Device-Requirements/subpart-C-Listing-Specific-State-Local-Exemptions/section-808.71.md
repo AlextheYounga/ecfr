@@ -1,5 +1,7 @@
 ##### § 808.71 Massachusetts. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) The following Massachusetts medical device requirements are enforceable notwithstanding section 521 of the act because the Food and Drug Administration has exempted them from preemption under section 521(b) of the act:
 
 (1) Massachusetts General Laws, Chapter 93, Section 72, to the extent that it requires a hearing test evaluation for a child under the age of 18.

@@ -1,5 +1,7 @@
 ##### § 808.53 Arizona. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 The following Arizona medical device requirements are preempted by section 521(a) of the act, and the Food and Drug Administration has denied them exemptions from preemption under section 521(b) of the act:
 
 (a) Arizona Revised Statutes, Chapter 17, sections 36-1901.7(s) and 36-1901.7(t).

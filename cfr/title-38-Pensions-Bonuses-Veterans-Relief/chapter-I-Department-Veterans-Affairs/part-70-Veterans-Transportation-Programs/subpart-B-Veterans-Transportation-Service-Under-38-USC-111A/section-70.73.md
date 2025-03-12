@@ -26,6 +26,4 @@
 
 (7) The VA facility's ability to maximize the use of available resources.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0838.)
-
-(Authority: 38 U.S.C. 111A, 501)
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0838)(Authority: 38 U.S.C. 111A, 501)

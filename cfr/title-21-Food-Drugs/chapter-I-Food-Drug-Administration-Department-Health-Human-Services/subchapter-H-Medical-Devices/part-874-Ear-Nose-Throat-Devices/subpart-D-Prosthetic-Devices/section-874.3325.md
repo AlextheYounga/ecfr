@@ -1,5 +1,7 @@
 ##### § 874.3325 Self-fitting air-conduction hearing aid. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) *Identification.* A self-fitting air-conduction hearing aid is a wearable sound amplifying device that is intended to compensate for impaired hearing and incorporates technology, including software, that allows users to program their hearing aids. This technology integrates user input with a self-fitting strategy and enables users to independently derive and customize their hearing aid fitting and settings.
 
 (b) *Classification.* Class II (special controls). The special controls for this device are:

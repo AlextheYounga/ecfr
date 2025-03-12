@@ -1,5 +1,7 @@
 ##### § 808.80 New Jersey. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) The following New Jersey medical device requirements are enforceable notwithstanding section 521(a) of the act because the Food and Drug Administration has exempted them from preemption under section 521(b) of the act:
 
 (1) New Jersey Statutes Annotated, section 45:9A-23 on the condition that, in enforcing this requirement, New Jersey apply the definition of “used hearing aid” in § 801.420(a)(6) of this chapter;

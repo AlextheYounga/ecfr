@@ -1,5 +1,7 @@
 ##### § 808.101 District of Columbia. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) The following District of Columbia medical device requirements are enforceable, notwithstanding section 521 of the act, because the Food and Drug Administration has exempted them from preemption under section 521(b) of the act:
 
 (1) Act 2-79, section 5, to the extent that it requires an audiological evaluation for children under the age of 18.

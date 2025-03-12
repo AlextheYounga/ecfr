@@ -1,5 +1,7 @@
 ##### § 808.82 New York. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) The following New York medical device requirements are enforceable notwithstanding section 521(a) of the act because the Food and Drug Administration has exempted them from preemption under section 521(b) of the act:
 
 (1) General Business Law, Article 37, sections 784(3) and (4).

@@ -1,5 +1,7 @@
 ##### § 808.1 Scope. #####
 
+Link to an amendment published at 87 FR 50761, Aug. 17, 2022.
+
 (a) This part prescribes procedures for the submission, review, and approval of applications for exemption from Federal preemption of State and local requirements applicable to medical devices under section 521 of the act.
 
 (b) Section 521(a) of the act contains special provisions governing the regulation of devices by States and localities. That section prescribes a general rule that after May 28, 1976, no State or political subdivision of a State may establish or continue in effect any requirement with respect to a medical device intended for human use having the force and effect of law (whether established by statute, ordinance, regulation, or court decision), which is different from, or in addition to, any requirement applicable to such device under any provision of the act and which relates to the safety or effectiveness of the device or to any other matter included in a requirement applicable to the device under the act.

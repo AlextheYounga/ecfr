@@ -1,4 +1,4 @@
-##### § 61.92 Grant for case management services - application and rating criteria. #####
+##### § 61.92 Grant for case management services—application and rating criteria. #####
 
 (a) *General requirements.* When funds are available for grants for case management services authorized under §§ 61.90 through 61.98, VA will publish a Notice of Fund Availability (NOFA) in the Federal Register in accordance with § 61.3. The applicant must meet all of the following requirements or the application will be rejected without further consideration:
 
@@ -66,4 +66,4 @@
 
 (3) They have coordinated with the closest VA medical facility their plan to assure access to health care, case management, and other care services.
 
-(Approved by the Office of Management and Budget under control number 2900-XXXX.)
+(Approved by the Office of Management and Budget under control number 2900-XXXX)

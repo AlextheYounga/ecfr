@@ -1,5 +1,7 @@
 ##### § 874.3315 Tympanic membrane contact hearing aid. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) *Identification.* A tympanic membrane contact hearing aid is a prescription device that compensates for impaired hearing. Amplified sound is transmitted by vibrating the tympanic membrane through a transducer that is in direct contact with the tympanic membrane.
 
 (b) *Classification.* Class II (special controls). The special controls for this device are:

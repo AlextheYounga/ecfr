@@ -1,5 +1,7 @@
 ##### § 801.420 Hearing aid devices; professional and patient labeling. #####
 
+Link to an amendment published at 87 FR 50755, Aug. 17, 2022.
+
 (a) *Definitions for the purposes of this section and § 801.421.* (1) *Hearing aid* means any wearable instrument or device designed for, offered for the purpose of, or represented as aiding persons with or compensating for, impaired hearing.
 
 (2) *Ear specialist* means any licensed physician who specializes in diseases of the ear and is medically trained to identify the symptoms of deafness in the context of the total health of the patient, and is qualified by special training to diagnose and treat hearing loss. Such physicians are also known as otolaryngologists, otologists, and otorhinolaryngologists.

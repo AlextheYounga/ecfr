@@ -1,5 +1,7 @@
 ##### § 808.59 Florida. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 The following Florida medical device requirements are preempted by section 521(a) of the act, and the Food and Drug Administration has denied them an exemption from preemption under section 521(b) of the act:
 
 (a) Florida Statutes, section 468.135(5).

@@ -1,5 +1,7 @@
 ##### § 808.3 Definitions. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) *Act* means the Federal Food, Drug, and Cosmetic Act.
 
 (b) *Compelling local conditions* includes any factors, considerations, or circumstances prevailing in, or characteristic of, the geographic area or population of the State or political subdivision that justify exemption from preemption.

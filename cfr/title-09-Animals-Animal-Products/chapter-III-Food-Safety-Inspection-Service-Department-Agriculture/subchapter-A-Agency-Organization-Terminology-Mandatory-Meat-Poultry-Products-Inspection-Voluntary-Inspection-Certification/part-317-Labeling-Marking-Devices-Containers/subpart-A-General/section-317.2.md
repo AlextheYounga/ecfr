@@ -1,5 +1,7 @@
 ##### § 317.2 Labels: definition; required features. #####
 
+Link to an amendment published at 87 FR 50556, Aug. 17, 2022.
+
 (a) A label within the meaning of this part shall mean a display of any printing, lithographing, embossing, stickers, seals, or other written, printed, or graphic matter upon the immediate container (not including package liners) of any product.
 
 (b) Any word, statement, or other information required by this part to appear on the label must be prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use. In order to meet this requirement, such information must appear on the principal display panel except as otherwise permitted in this part. Except as provided in § 317.7, all words, statements, and other information required by or under authority of the Act to appear on the label or labeling shall appear thereon in the English language: *Provided, however,* That in the case of products distributed solely in Puerto Rico, Spanish may be substituted for English for all printed matter except the USDA inspection legend.

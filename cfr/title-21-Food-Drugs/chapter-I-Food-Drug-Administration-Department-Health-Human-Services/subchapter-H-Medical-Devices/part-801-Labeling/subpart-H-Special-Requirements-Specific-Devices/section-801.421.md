@@ -1,5 +1,7 @@
 ##### § 801.421 Hearing aid devices; conditions for sale. #####
 
+Link to an amendment published at 87 FR 50755, Aug. 17, 2022.
+
 (a) *Medical evaluation requirements* - (1) *General.* Except as provided in paragraph (a)(2) of this section, a hearing aid dispenser shall not sell a hearing aid unless the prospective user has presented to the hearing aid dispenser a written statement signed by a licensed physician that states that the patient's hearing loss has been medically evaluated and the patient may be considered a candidate for a hearing aid. The medical evaluation must have taken place within the preceding 6 months.
 
 (2) *Waiver to the medical evaluation requirements.* If the prospective hearing aid user is 18 years of age or older, the hearing aid dispenser may afford the prospective user an opportunity to waive the medical evaluation requirement of paragraph (a)(1) of this section provided that the hearing aid dispenser:

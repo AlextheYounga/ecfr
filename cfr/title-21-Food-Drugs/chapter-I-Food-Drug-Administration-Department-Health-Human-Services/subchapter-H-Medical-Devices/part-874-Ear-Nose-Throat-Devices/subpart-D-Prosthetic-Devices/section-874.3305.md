@@ -1,5 +1,7 @@
 ##### § 874.3305 Wireless air-conduction hearing aid. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) *Identification.* A wireless air-conduction hearing aid is a wearable sound-amplifying device, intended to compensate for impaired hearing that incorporates wireless technology in its programming or use.
 
 (b) *Classification:* Class II (special controls). The special controls for this device are:

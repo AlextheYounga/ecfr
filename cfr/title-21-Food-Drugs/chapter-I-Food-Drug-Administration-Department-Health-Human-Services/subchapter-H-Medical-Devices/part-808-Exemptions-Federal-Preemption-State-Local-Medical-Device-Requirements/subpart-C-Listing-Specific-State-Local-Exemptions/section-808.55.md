@@ -1,5 +1,7 @@
 ##### § 808.55 California. #####
 
+Link to an amendment published at 87 FR 50762, Aug. 17, 2022.
+
 (a) The following California medical device requirements are enforceable notwithstanding section 521 of the act because the Food and Drug Administration exempted them from preemption under section 521(b) of the act: Business and Professions Code sections 3365 and 3365.6.
 
 (b) The following California medical device requirements are preempted by section 521 of the act, and FDA has denied them an exemption from preemption:
