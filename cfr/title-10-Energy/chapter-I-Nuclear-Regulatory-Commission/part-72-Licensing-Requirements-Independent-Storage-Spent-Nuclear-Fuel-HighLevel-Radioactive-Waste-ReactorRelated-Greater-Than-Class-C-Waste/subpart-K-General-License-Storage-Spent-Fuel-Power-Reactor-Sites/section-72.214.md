@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 69983, Dec. 9, 2021.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -294,21 +292,26 @@ Certificate Expiration Date: February 15, 2021.
 
 Model Number: WSNF-220, WSNF-221, and WSNF-223 systems; W-150 storage cask; W-100 transfer cask; and the W-21 and W-74 canisters.
 
-Certificate Number: 1027.
+*Certificate Number:* 1027.
 
-Initial Certificate Effective Date: May 30, 2000.
+*Initial Certificate Effective Date:* May 30, 2000, superseded by Renewed Initial Certificate on February 22, 2022.
 
-Amendment Number 1 Effective Date: October 30, 2007.
+*Amendment Number 1 Effective Date:* October 30, 2007, superseded by Renewed
+Amendment Number 1 on February 22, 2022.
 
-SAR Submitted by: Transnuclear, Inc.
+*SAR Submitted by:* Transnuclear, Inc., now TN Americas LLC.
 
-SAR Title: Final Safety Analysis Report for the TN-68 Dry Storage Cask.
+*Renewal SAR Submitted by:* TN Americas LLC.
 
-Docket Number: 72-1027.
+*SAR Title:* Final Safety Analysis Report for the TN-68 Dry Storage Cask.
 
-Certificate Expiration Date: May 28, 2020.
+*Docket Number:* 72-1027.
 
-Model Number: TN-68.
+*Certificate Expiration Date:* May 28, 2020.
+
+*Renewed Certificate Expiration Date:* May 28, 2060.
+
+*Model Number:* TN-68.
 
 Certificate Number: 1029.
 

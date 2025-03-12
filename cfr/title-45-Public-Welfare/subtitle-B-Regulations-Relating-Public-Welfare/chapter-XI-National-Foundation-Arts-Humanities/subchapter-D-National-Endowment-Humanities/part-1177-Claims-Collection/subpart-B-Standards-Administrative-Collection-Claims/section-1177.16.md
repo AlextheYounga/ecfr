@@ -1,0 +1,7 @@
+##### § 1177.16 Collection in installments. #####
+
+(a) Whenever feasible, NEH will collect the total amount of a debt in one lump sum. If a debtor is financially unable to pay a debt in one lump sum, NEH may accept payment in regular installments. NEH will obtain financial statements from debtors who represent that they are unable to pay in one lump sum and independently verify such representations whenever possible (see § 1177.22(g) of this part). If NEH agrees to accept payments in regular installments, it will obtain a legally enforceable written agreement from the debtor that specifies all of the terms of the arrangement and that contains a provision accelerating the debt in the event of default.
+
+(b) The size and frequency of installment payments will bear a reasonable relation to the size of the debt and the debtor's ability to pay. If possible, the installment payments should be sufficient in size and frequency to liquidate the debt in three years or less.
+
+(c) NEH will obtain security for deferred payments, in appropriate cases. NEH may accept installment payments notwithstanding the debtor's refusal to execute a written agreement or to give security, at the agency's option.

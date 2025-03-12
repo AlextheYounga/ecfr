@@ -8,4 +8,4 @@ For the purposes of this part:
 
 (c) Unless context requires otherwise, a party's counsel of record, if any, may, on behalf of that party, take any action required to be taken by the party; and
 
-(d) To the extent this part uses terms defined by section 1002 of the Dodd-Frank Act, such terms shall have the same meaning as set forth therein, unless defined differently by § 1081.103.
+(d) To the extent this part uses terms defined by section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481), such terms have the same meaning as set forth therein, unless defined differently by § 1081.103.

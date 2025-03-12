@@ -1,0 +1,7 @@
+##### § 1177.3 Antitrust, fraud, and tax and interagency claims excluded. #####
+
+(a) The standards in this part relating to compromise, suspension, and termination of collection activity do not apply to any debt based in whole or in part on conduct that violates the antitrust laws or to any debt involving fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any party having an interest in the claim. Only DOJ has the authority to compromise, suspend, or terminate collection activity on such claims. The standards in this part relating to the administrative collection of claims do apply, but only to the extent authorized by DOJ in a particular case. Upon identification of a claim based in whole or in part on conduct in violation of the antitrust laws or any claim involving fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any party having an interest in the claim, NEH shall promptly refer the case to DOJ for action. At its discretion, DOJ may return the claim to NEH for further handling, in accordance with the standards in this part.
+
+(b) This part does not apply to tax debts.
+
+(c) This part does not apply to claims between Federal agencies. NEH will attempt to resolve interagency claims by negotiation in accordance with Executive Order 12146 (3 CFR, 1979 Comp., pp. 409-412).

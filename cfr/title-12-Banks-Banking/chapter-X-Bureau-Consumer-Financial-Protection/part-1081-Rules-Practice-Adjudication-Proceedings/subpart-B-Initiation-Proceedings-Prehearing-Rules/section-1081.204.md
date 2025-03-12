@@ -1,4 +1,4 @@
-##### § 1081.204 Consolidation and severance of actions. #####
+##### § 1081.204 Consolidation, severance, or bifurcation of proceedings. #####
 
 (a) *Consolidation.* (1) On the motion of any party, or on the hearing officer's own motion, the hearing officer may consolidate, for some or all purposes, any two or more proceedings, if each such proceeding involves or arises out of the same transaction, occurrence or series of transactions or occurrences, or involves at least one common respondent or a material common question of law or fact, unless such consolidation would cause unreasonable delay or injustice.
 
@@ -9,3 +9,5 @@
 (1) Undue prejudice or injustice to the moving party would result from not severing the proceeding; and
 
 (2) Such undue prejudice or injustice would outweigh the interests of judicial economy and expedition in the complete and final resolution of the proceeding.
+
+(c) *Bifurcation.* The Director may order that the proceeding be divided into two or more stages, if the Director determines that it would promote efficiency in the proceeding or for other good cause. For example, the Director may order that the proceeding have two stages, so that at the conclusion of the first stage the Director issues a decision on whether there have been violations of law and at the conclusion of the second stage the Director issues a final decision and order, including with respect to any remedies. The Director may make an order under this paragraph (c) either on the motion of a party or on the Director's own motion after inviting submissions by the parties. The Director may include, in that order or in later orders, modifications to the procedures in this part in order to effectuate an efficient division into stages, or the Director may assign such authority to the hearing officer. Only the decision and order of the Director after the final stage, and not a decision of the Director after an earlier stage, will be a final decision and order for purposes of §§ 1081.110, 1081.405(d) and (e), 1081.407, and 1081.502 and section 1053(b) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5563(b)).

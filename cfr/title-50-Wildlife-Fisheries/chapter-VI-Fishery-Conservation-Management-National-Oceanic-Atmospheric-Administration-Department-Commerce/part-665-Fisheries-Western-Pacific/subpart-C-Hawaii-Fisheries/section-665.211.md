@@ -1,10 +1,8 @@
 ##### § 665.211 Annual Catch Limits (ACL). #####
 
-Link to an amendment published at 87 FR 3047, Jan. 20, 2022.
-
 (a) In accordance with § 665.4, the ACLs for MHI bottomfish fisheries for each fishing year are as follows:
 
-|     Fishery     |2018-19 ACL  <br/>(lb)|2019-20 ACL  <br/>(lb)|2020-21 ACL  <br/>(lb)|
+|     Fishery     |2021-22 ACL  <br/>(lb)|2022-23 ACL  <br/>(lb)|2023-24 ACL  <br/>(lb)|
 |-----------------|----------------------|----------------------|----------------------|
 |Deep 7 bottomfish|       492,000        |       492,000        |       492,000        |
 
@@ -18,6 +16,8 @@ Link to an amendment published at 87 FR 3047, Jan. 20, 2022.
 
 (d) On and after the date specified in paragraph (b) of this section, no person may sell or offer for sale any bottomfish MUS from a closed fishery, except as otherwise authorized by law.
 
-(e) Fishing for, and the resultant possession or sale of, any bottomfish MUS by vessels legally registered to Mau Zone, Ho'omalu Zone, or PRIA bottomfish fishing permits and conducted in compliance with all other laws and regulations, is exempted from this section.
+(e) If landings of MHI Deep 7 bottomfish exceed the specified ACL in a fishing year, the Regional Administrator will reduce the ACL for the subsequent year by the amount of the overage in a separate rulemaking.
 
-[85 FR 26624, May 5, 2020]
+(f) Fishing for, and the resultant possession or sale of, any bottomfish MUS by vessels legally registered to Mau Zone, Ho'omalu Zone, or PRIA bottomfish fishing permits and conducted in compliance with all other laws and regulations, is exempted from this section.
+
+[85 FR 26624, May 5, 2020, as amended at 87 FR 3047, Jan. 20, 2022]

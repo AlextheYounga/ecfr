@@ -1,7 +1,5 @@
 ##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
 
-Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
-
 (a) *Broadband deployment reporting.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support to serve fixed locations through a competitive bidding process shall have the following broadband reporting obligations:
 
 (1) Recipients of high-cost support with defined broadband deployment obligations pursuant to § 54.308(a), 54.308(c), or § 54.310(c) shall provide to the Administrator on a recurring basis information regarding the locations to which the eligible telecommunications carrier is offering broadband service in satisfaction of its public interest obligations, as defined in either § 54.308 or § 54.309.
@@ -12,9 +10,13 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
 
 (4) Recipients subject to the requirements of § 54.310(c) shall report the number of locations for each state and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients of Connect America Phase II auction support shall also report the technology they use to serve those locations.
 
-(5) Recipients subject to the requirements of § 54.308(c) shall report the number of newly deployed and upgraded locations and locational information, including geocodes, where they are offering service providing speeds they committed to in their adopted performance plans pursuant to § 54.306(b).
+(5) Recipients of Rural Digital Opportunity Fund support shall provide: No later than March 1 following each service milestone specified by the Commission, a certification that by the end of the prior support year, it was offering broadband meeting the requisite public interest obligations to the required percentage of its supported locations in each state.
 
 (6) Recipients subject to the requirements of § 54.308(c) or § 54.317(e) shall submit fiber network maps or microwave network maps covering eligible areas. At the end of any calendar year for which middle-mile facilities were deployed, these recipients shall also submit updated maps showing middle-mile facilities that are or will be used to support their services in eligible areas.
+
+(7) Recipients subject to the requirements of § 54.1506 shall report the number of locations for Puerto Rico and the U.S. Virgin Islands and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients shall also report the technologies they use to serve those locations.
+
+(8) Recipients subject to the requirements of § 54.802(c) shall report the number of locations for each state and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients of Rural Digital Opportunity Fund support shall also report the technology they use to serve those locations.
 
 (b) *Broadband deployment certifications.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support through a competitive bidding process shall have the following broadband deployment certification obligations:
 
@@ -42,9 +44,11 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
 
 (ii) No later than March 1, 2027 a certification that it fulfilled the deployment obligations and is offering service meeting the requisite public interest obligations as specified in § 54.308(c) to the required number of locations as of December 31, 2026.
 
+(7) Recipients of Uniendo a Puerto Rico Fund Stage 2 fixed and Connect USVI Fund fixed Stage 2 fixed support shall provide: On an annual basis by the last business day of the second calendar month following each service milestone in § 54.1506, a certification that by the end of the prior support year, it was offering broadband meeting the requisite public interest obligations specified in § 54.1507 to the required percentage of its supported locations in Puerto Rico and the U.S. Virgin Islands as set forth in § 54.5406. The annual certification shall quantify the carrier's progress toward or, as applicable, completion of deployment in accordance with the resilience and redundancy commitments in its application and in accordance with the detailed network plan it submitted to the Wireline Competition Bureau.
+
 (c) *Filing deadlines.* In order for a recipient of high-cost support to continue to receive support for the following calendar year, or retain its eligible telecommunications carrier designations, it must submit the annual reporting information as set forth below.
 
-(1) Price cap carriers that accepted Phase II model-based support and rate of-return carriers must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
+(1) Price cap carriers that accepted Phase II model-based support, rate-of-return carriers, and recipients of Rural Digital Opportunity Fund support must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
 
 (i) An eligible telecommunications carrier that files after the March 1 deadline, but by March 8, will have its support reduced in an amount equivalent to seven days in support;
 
@@ -60,31 +64,4 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 85 FR 13798, Mar. 10, 2020]Effective Date Notes:At 84 FR 59964, Nov. 7, 2019, § 54.316 was amended by adding paragraphs (a)(7) and (b)(7).
-These paragraphs have a delayed effective date. For the convenience of the user, the added text is set forth as follows:
-
-##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
-
-(a) \* \* \*
-
-(7) Recipients subject to the requirements of § 54.1506 shall report the number of locations for Puerto Rico and the U.S. Virgin Islands and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients shall also report the technologies they use to serve those locations.
-
-(b) \* \* \*
-
-(7) Recipients of Uniendo a Puerto Rico Fund Stage 2 fixed and Connect USVI Fund fixed Stage 2 fixed support shall provide: On an annual basis by the last business day of the second calendar month following each service milestone in § 54.1506, a certification that by the end of the prior support year, it was offering broadband meeting the requisite public interest obligations specified in § 54.1507 to the required percentage of its supported locations in Puerto Rico and the U.S. Virgin Islands as set forth in § 54.5406. The annual certification shall quantify the carrier's progress toward or, as applicable, completion of deployment in accordance with the resilience and redundancy commitments in its application and in accordance with the detailed network plan it submitted to the Wireline Competition Bureau.
-
-2. At 85 FR 13798, Mar. 10, 2020, § 54.316 was amended by adding paragraph (a)(8), revising paragraphs (b)(5) and (c)(1). These paragraphs have a delayed effective date. For the convenience of the user, the added and revised text is set forth as follows:
-
-##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
-
-(a) \* \* \*
-
-(8) Recipients subject to the requirements of § 54.802(c) shall report the number of locations for each state and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients of Rural Digital Opportunity Fund support shall also report the technology they use to serve those locations.
-
-(b) \* \* \*
-
-(5) Recipients of Rural Digital Opportunity Fund support shall provide: No later than March 1 following each service milestone specified by the Commission, a certification that by the end of the prior support year, it was offering broadband meeting the requisite public interest obligations to the required percentage of its supported locations in each state.
-
-(c) \* \* \*
-
-(1) Price cap carriers that accepted Phase II model-based support, rate-of-return carriers, and recipients of Rural Digital Opportunity Fund support must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
+[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020]

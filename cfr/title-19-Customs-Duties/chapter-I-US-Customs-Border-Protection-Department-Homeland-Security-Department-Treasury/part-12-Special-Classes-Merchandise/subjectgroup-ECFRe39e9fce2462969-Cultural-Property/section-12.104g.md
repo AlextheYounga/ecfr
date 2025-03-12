@@ -32,8 +32,9 @@
 
 (b) The following is a list of emergency actions imposing import restrictions on the described articles of cultural property of State Parties. The listed decision contains a complete description of specific items or categories of archaeological or ethnological material designated by the emergency actions as coming under the protection of the Convention on Cultural Property Implementation Act. Import restrictions listed below shall be effective for no more than five years from the date on which the State Party requested those restrictions. This period may be extended for three more years if it is determined that the emergency condition continues to apply with respect to the archaeological or ethnological material. Any such extension is indicated in the listing.
 
-|State party|                 Cultural property                 | Decision No. |
-|-----------|---------------------------------------------------|--------------|
-|   Yemen   |Archaeological and ethnological material from Yemen|CBP Dec. 20-01|
+|State party|                    Cultural property                    | Decision No. |
+|-----------|---------------------------------------------------------|--------------|
+|Afghanistan|Archaeological and ethnological material from Afghanistan|CBP Dec. 22-04|
+|   Yemen   |   Archaeological and ethnological material from Yemen   |CBP Dec. 20-01|
 
 [T.D. 86-52, 51 FR 6907, Feb. 27, 1986]Editorial Note:For Federal Register citations affecting § 12.104g, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

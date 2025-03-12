@@ -1,0 +1,3 @@
+##### § 1177.4 Compromise, waiver, or disposition under other statutes not precluded. #####
+
+Nothing in this part precludes NEH's disposition of any claim under statutes and implementing regulations other than 31 U.S.C. 37, subchapter II (Claims of the United States Government). See *e.g.,* the Federal Medical Care Recovery Act, Public Law 87-693, 76 Stat. 593 (September 25, 1962) (codified at 42 U.S.C. 2651 *et seq.*), and applicable regulations, 28 CFR 43. In such cases, the laws and regulations that are specifically applicable to NEH's claims collection activities generally take precedence over this part.

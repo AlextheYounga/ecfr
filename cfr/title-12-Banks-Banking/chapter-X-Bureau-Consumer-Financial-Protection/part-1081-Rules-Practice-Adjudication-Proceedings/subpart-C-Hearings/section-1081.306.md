@@ -1,6 +1,6 @@
 ##### § 1081.306 Record in proceedings before hearing officer; retention of documents; copies. #####
 
-(a) *Contents of the record.* The record of the proceeding shall consist of:
+(a) *Contents of the record.* The record of the proceeding consists of:
 
 (1) The notice of charges, the answer, and any amendments thereto;
 
@@ -22,6 +22,6 @@
 
 (10) Any other document or item accepted into the record by the hearing officer.
 
-(b) *Retention of documents not admitted.* Any document offered into evidence but excluded shall not be considered part of the record. The Office of Administrative Adjudication shall retain any such document until the later of the date upon which an order by the Director ending the proceeding becomes final and not appealable, or upon the conclusion of any judicial review of the Director's order.
+(b) *Retention of documents not admitted.* Any document offered into evidence but excluded will not be considered part of the record. The Office of Administrative Adjudication will retain any such document until the later of the date upon which an order by the Director ending the proceeding becomes final and not appealable, or upon the conclusion of any judicial review of the Director's order.
 
 (c) *Substitution of copies.* A true copy of a document may be substituted for any document in the record or any document retained pursuant to paragraph (b) of this section.

@@ -1,6 +1,6 @@
 ##### § 1081.214 Prehearing conferences. #####
 
-(a) *Prehearing conferences.* The hearing officer may, in addition to the scheduling conference, on his or her own motion or at the request of any party, direct counsel for the parties to meet with him or her (in person or by telephone) at a prehearing conference for further discussion of the issues outlined in § 1081.203, or for discussion of any additional matters that in the view of the hearing officer will aid in an orderly disposition of the proceeding, including but not limited to:
+(a) *Prehearing conferences.* The hearing officer may, in addition to the scheduling conference, upon the hearing officer's motion or at the request of any party, direct counsel for the parties to meet with the hearing officer (in person or by electronic means) at a prehearing conference for further discussion of the issues outlined in § 1081.203, or for discussion of any additional matters that in the view of the hearing officer will aid in an orderly disposition of the proceeding, including but not limited to:
 
 (1) Identification of potential witnesses and limitation on the number of witnesses;
 
@@ -12,6 +12,6 @@
 
 (5) Whether the parties intend to introduce prior sworn statements of witnesses as set forth in § 1081.303(h).
 
-(b) *Transcript.* The hearing officer, in his or her discretion, may require that a prehearing conference be recorded by a court reporter. A transcript of the conference and any materials filed, including orders, becomes part of the record of the proceeding. A party may obtain a copy of the transcript at his or her expense.
+(b) *Transcript.* The hearing officer has discretion to require that a prehearing conference be recorded by a court reporter. A transcript of the conference and any materials filed, including orders, becomes part of the record of the proceeding. A party may obtain a copy of the transcript at that party's expense.
 
-(c) *Public access.* Any prehearing conferences shall be public unless the hearing officer determines, based on the standard set forth in § 1081.119(c), that the conference (or any part thereof) shall be closed to the public.
+(c) *Public access.* Any prehearing conferences will be public unless the hearing officer determines, based on the standard set forth in § 1081.119(c), that the conference (or any part thereof) should be closed to the public.

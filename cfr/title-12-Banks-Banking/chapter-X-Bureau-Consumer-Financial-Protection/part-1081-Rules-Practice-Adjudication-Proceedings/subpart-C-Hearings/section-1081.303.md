@@ -1,28 +1,28 @@
 ##### § 1081.303 Evidence. #####
 
-(a) *Burden of proof.* Enforcement counsel shall have the burden of proof of the ultimate issue(s) of the Bureau's claims at the hearing.
+(a) *Burden of proof.* Enforcement counsel will have the burden of proof of the ultimate issue(s) of the Bureau's claims at the hearing.
 
-(b) *Admissibility.* (1) Except as is otherwise set forth in this section, relevant, material, and reliable evidence that is not unduly repetitive is admissible to the fullest extent authorized by the Administrative Procedure Act and other applicable law. Irrelevant, immaterial, and unreliable evidence shall be excluded.
+(b) *Admissibility.* (1) Except as is otherwise set forth in this section, relevant, material, and reliable evidence that is not unduly repetitive is admissible to the fullest extent authorized by the Administrative Procedure Act and other applicable law. Irrelevant, immaterial, and unreliable evidence will be excluded.
 
 (2) Evidence, even if relevant, may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice or confusion of the issues; if the evidence would be misleading; or based on considerations of undue delay, waste of time, or needless presentation of cumulative evidence.
 
-(3) Evidence that constitutes hearsay may be admitted if it is relevant, material, and bears satisfactory indicia of reliability so that its use is fair. Hearsay is a statement, other than one made by the declarant while testifying at the hearing, offered in evidence to prove the truth of the matter asserted. If otherwise meeting the standards for admissibility described in this section, transcripts of depositions, investigational hearings, prior testimony in Bureau or other proceedings, and any other form of hearsay shall be admissible and shall not be excluded solely on the ground that they are or contain hearsay.
+(3) Evidence that constitutes hearsay may be admitted if it is relevant, material, and bears satisfactory indicia of reliability so that its use is fair. Hearsay is a statement, other than one made by the declarant while testifying at the hearing, offered in evidence to prove the truth of the matter asserted. If otherwise meeting the standards for admissibility described in this section, transcripts of depositions, investigational hearings, prior testimony in Bureau or other proceedings, and any other form of hearsay will be admissible and may not be excluded solely on the ground that they are or contain hearsay.
 
 (4) Evidence that would be admissible under the Federal Rules of Evidence is admissible in a proceeding conducted pursuant to this part. Evidence that would be inadmissible under the Federal Rules of Evidence may not be deemed or ruled to be inadmissible in a proceeding conducted pursuant to this part solely on that basis.
 
-(c) *Official notice.* Official notice may be taken of any material fact that is not subject to reasonable dispute in that it is either generally known or capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned. If official notice is requested or is taken of a material fact not appearing in the evidence in the record, the parties, upon timely request, shall be afforded an opportunity to disprove such noticed fact.
+(c) *Official notice.* Official notice may be taken of any material fact that is not subject to reasonable dispute in that it is either generally known or capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned. If official notice is requested or is taken of a material fact not appearing in the evidence in the record, the parties, upon timely request, will be afforded an opportunity to disprove such noticed fact.
 
 (d) *Documents.* (1) A duplicate copy of a document is admissible to the same extent as the original, unless a genuine issue is raised as to whether the copy is in some material respect not a true and legible copy of the original.
 
-(2) Subject to the requirements of paragraph (b) of this section, any document, including a report of examination, supervisory activity, inspection or visitation, prepared by the Bureau, a prudential regulator, as that term is defined in section 1002(24) of the Dodd-Frank Act, or by a State regulatory agency, is presumptively admissible either with or without a sponsoring witness.
+(2) Subject to the requirements of paragraph (b) of this section, any document, including a report of examination, supervisory activity, inspection or visitation, prepared by the Bureau, a prudential regulator, as that term is defined in section 1002(24) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481(24)), or by a State regulatory agency, is presumptively admissible either with or without a sponsoring witness.
 
-(3) Witnesses may use existing or newly created charts, exhibits, calendars, calculations, outlines or other graphic material to summarize, illustrate, or simplify the presentation of testimony. Such materials may, subject to the hearing officer's discretion, be used with or without being admitted into evidence.
+(3) Witnesses may use existing or newly created charts, exhibits, calendars, calculations, outlines, or other graphic material to summarize, illustrate, or simplify the presentation of testimony. Such materials may, subject to the hearing officer's discretion, be used with or without being admitted into evidence.
 
 (4) As respondents are in the best position to determine the nature of documents generated by such respondents and which come from their own files, the burden of proof is on the respondent to introduce evidence to rebut a presumption that such documents are authentic and kept in the regular course of business.
 
 (e) *Objections.* (1) Objections to the admissibility of evidence must be timely made and rulings on all objections must appear on the record.
 
-(2) Whenever evidence is excluded from the record, the party offering such evidence may make an offer of proof, which shall be included in the record. Rejected exhibits, adequately marked for identification, shall be retained pursuant to § 1081.306(b) so as to be available for consideration by any reviewing authority.
+(2) Whenever evidence is excluded from the record, the party offering such evidence may make an offer of proof, which will be included in the record. Rejected exhibits, adequately marked for identification, must be retained pursuant to § 1081.306(b) so as to be available for consideration by any reviewing authority.
 
 (3) Failure to object to admission of evidence or to any ruling constitutes a waiver of the objection.
 
@@ -30,13 +30,13 @@
 
 (2) Unless the hearing officer directs otherwise, all stipulations of fact and law previously agreed upon by the parties, and all documents, the admissibility of which have been previously stipulated, will be admitted into evidence upon commencement of the hearing.
 
-(g) *Presentation of evidence.* (1) A witness at a hearing for the purpose of taking evidence shall testify under oath or affirmation.
+(g) *Presentation of evidence.* (1) A witness at a hearing for the purpose of taking evidence must testify under oath or affirmation.
 
 (2) A party is entitled to present its case or defense by sworn oral testimony and documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as, in the discretion of the hearing officer, may be required for a full and true disclosure of the facts.
 
 (3) An adverse party, or an officer, agent, or employee thereof, and any witness who appears to be hostile, unwilling, or evasive, may be interrogated by leading questions and may also be contradicted and impeached by the party calling him or her.
 
-(4) The hearing officer shall exercise reasonable control over the mode and order of interrogating witnesses and presenting evidence so as to:
+(4) The hearing officer will exercise reasonable control over the mode and order of interrogating witnesses and presenting evidence so as to:
 
 (i) Make the interrogation and presentation effective for the ascertainment of the truth;
 
@@ -44,7 +44,7 @@
 
 (iii) Protect witnesses from harassment or undue embarrassment.
 
-(5) The hearing officer may permit a witness to appear at a hearing via video conference or telephone for good cause shown.
+(5) The hearing officer may permit a witness to appear at a hearing via electronic means for good cause shown.
 
 (h) *Introducing prior sworn statements of witnesses into the record.* At a hearing, any party wishing to introduce a prior, sworn statement of a witness, not a party, otherwise admissible in the proceeding, may make a motion setting forth the reasons therefore. If only part of a statement is offered in evidence, the hearing officer may require that all relevant portions of the statement be introduced. If all of a statement is offered in evidence, the hearing officer may require that portions not relevant to the proceeding be excluded. A motion to introduce a prior sworn statement may be granted if:
 
@@ -52,8 +52,8 @@
 
 (2) The witness is out of the United States, unless it appears that the absence of the witness was procured by the party offering the prior sworn statement;
 
-(3) The witness is unable to attend or testify because of age, sickness, infirmity, imprisonment or other disability;
+(3) The witness is unable to attend or testify because of age, sickness, infirmity, imprisonment, or other disability;
 
 (4) The party offering the prior sworn statement has been unable to procure the attendance of the witness by subpoena; or
 
-(5) In the discretion of the hearing officer, it would be desirable, in the interests of justice, to allow the prior sworn statement to be used. In making this determination, due regard shall be given to the presumption that witnesses will testify orally in an open hearing. If the parties have stipulated to accept a prior sworn statement in lieu of live testimony, consideration shall also be given to the convenience of the parties in avoiding unnecessary expense.
+(5) In the discretion of the hearing officer, it would be desirable, in the interests of justice, to allow the prior sworn statement to be used. In making this determination, due regard will be given to the presumption that witnesses will testify orally in an open hearing. If the parties have stipulated to accept a prior sworn statement in lieu of live testimony, consideration should also be given to the convenience of the parties in avoiding unnecessary expense.

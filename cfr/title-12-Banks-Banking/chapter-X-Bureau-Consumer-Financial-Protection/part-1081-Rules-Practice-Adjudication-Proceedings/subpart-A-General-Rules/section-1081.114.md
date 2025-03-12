@@ -1,6 +1,6 @@
 ##### § 1081.114 Construction of time limits. #####
 
-(a) *General rule.* In computing any period of time prescribed by this part, by order of the Director or a hearing officer, or by any applicable statute, the date of the act or event that commences the designated period of time is not included. The last day so computed is included unless it is a Saturday, Sunday, or Federal holiday as set forth in 5 U.S.C. 6103(a). When the last day is a Saturday, Sunday, or Federal holiday, the period runs until the end of the next day that is not a Saturday, Sunday, or Federal holiday. Intermediate Saturdays, Sundays, and Federal holidays are included in the computation of time, except when the time period within which an act is to be performed is ten days or less, not including any additional time allowed for in paragraph (c) of this section.
+(a) *General rule.* In computing any time period prescribed by this part, by order of the Director or a hearing officer, or by any applicable statute, exclude the day of the event that triggers the period, count every day, including intermediate Saturdays, Sundays, and Federal holidays, and include the last day of the period unless it is a Saturday, Sunday, or Federal holiday as set forth in 5 U.S.C. 6103(a). When the last day is a Saturday, Sunday, or Federal holiday, the period runs until the end of the next day that is not a Saturday, Sunday, or Federal holiday.
 
 (b) *When papers are deemed to be filed or served.* Filing and service are deemed to be effective:
 

@@ -1,0 +1,3 @@
+##### § 1177.6 Subdivision of claims not authorized. #####
+
+NEH will not subdivide debts in order to avoid the monetary ceiling established by 31 U.S.C. 3711(a)(2). NEH will consider a debtor's liability arising from a particular transaction or contract as a single debt in determining whether the debt is one of less than $100,000 (excluding interest, penalties, and administrative costs) or such higher amount as the Attorney General shall from time to time prescribe for purposes of compromising, suspending, or terminating collection activity.

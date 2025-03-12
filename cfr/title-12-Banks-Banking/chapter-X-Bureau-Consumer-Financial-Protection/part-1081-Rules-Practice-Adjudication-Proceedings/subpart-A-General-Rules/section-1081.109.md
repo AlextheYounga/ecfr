@@ -1,6 +1,6 @@
 ##### § 1081.109 Conflict of interest. #####
 
-(a) *Conflict of interest in representation.* No person shall appear as counsel for another person in an adjudication proceeding if it reasonably appears that such representation may be materially limited by that counsel's responsibilities to a third person or by the counsel's own interests. The hearing officer may take corrective measures at any stage of a proceeding to cure a conflict of interest in representation, including the issuance of an order limiting the scope of representation or disqualifying an individual from appearing in a representative capacity for the duration of the proceeding.
+(a) *Conflict of interest in representation.* No person may appear as counsel for another person in an adjudication proceeding if it reasonably appears that such representation may be materially limited by that counsel's responsibilities to a third person or by the counsel's own interests. The hearing officer may take corrective measures at any stage of a proceeding to cure a conflict of interest in representation, including the issuance of an order limiting the scope of representation or disqualifying an individual from appearing in a representative capacity for the duration of the proceeding.
 
 (b) *Certification and waiver.* If any person appearing as counsel represents two or more parties to an adjudication proceeding or also represents a non-party on a matter relevant to an issue in the proceeding, counsel must certify in writing at the time of filing the notice of appearance required by § 1081.107(a)(3):
 

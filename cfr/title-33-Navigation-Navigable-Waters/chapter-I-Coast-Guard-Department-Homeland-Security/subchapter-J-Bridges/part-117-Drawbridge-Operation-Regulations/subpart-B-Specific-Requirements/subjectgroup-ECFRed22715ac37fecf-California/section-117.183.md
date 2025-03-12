@@ -1,3 +1,5 @@
 ##### § 117.183 Old River. #####
 
+Link to an amendment published at 87 FR 9447, Feb. 22, 2022.
+
 The draw of the California Department of Transportation (Route 4) highway bridge, mile 14.8 between Victoria Island and Byron Tract, shall open on signal from May 1 through October 31 from 6 a.m. to 10 p.m. and from November 1 through April 30 from 9 a.m. to 5 p.m. At all other times, the draw shall open on signal if at least four hours notice is given to the drawtender at the Rio Vista bridge across the Sacramento River, mile 12.8.

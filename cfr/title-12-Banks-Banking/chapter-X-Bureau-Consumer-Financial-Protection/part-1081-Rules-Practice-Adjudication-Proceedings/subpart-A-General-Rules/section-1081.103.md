@@ -2,21 +2,19 @@
 
 For the purposes of this part, unless explicitly stated to the contrary:
 
-*Dodd-Frank Act* means the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Public Law 111-203 (July 21, 2010).
+*Adjudication proceeding* means a proceeding conducted pursuant to section 1053 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5563) and intended to lead to the formulation of a final order other than a temporary order to cease and desist issued pursuant to section 1053(c) of that Act (12 U.S.C. 5563(c)).
 
-*Adjudication proceeding* means a proceeding conducted pursuant to section 1053 of the Dodd-Frank Act and intended to lead to the formulation of a final order other than a temporary order to cease and desist issued pursuant to section 1053(c) of the Dodd-Frank Act.
-
-*Bureau* means the Bureau of Consumer Financial Protection.
+*Bureau* means the Consumer Financial Protection Bureau.
 
 *Chief hearing officer* means the hearing officer charged with assigning hearing officers to specific proceedings, in the event there is more than one hearing officer available to the Bureau.
 
 *Counsel* means any person representing a party pursuant to § 1081.107.
 
-*Decisional employee* means any employee of the Bureau who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Director or the hearing officer, respectively, in preparing orders, recommended decisions, decisions, and other documents under this part.
+*Decisional employee* means any employee of the Bureau who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Director or the hearing officer, respectively, in preparing orders, preliminary findings and conclusions, decisions, and other documents under this part.
 
 *Director* means the Director of the Bureau or a person authorized to perform the functions of the Director in accordance with the law.
 
-*Enforcement counsel* means any individual who files a notice of appearance as counsel on behalf of the Bureau in an adjudication proceeding.
+*Enforcement counsel* means any individual who files a notice of appearance as counsel on behalf of the Office of Enforcement in an adjudication proceeding.
 
 *Final order* means an order issued by the Bureau with or without the consent of the respondent, which has become final, without regard to the pendency of any petition for reconsideration or review.
 
@@ -28,9 +26,9 @@ For the purposes of this part, unless explicitly stated to the contrary:
 
 *Office of Administrative Adjudication* means the office of the Bureau responsible for conducting adjudication proceedings.
 
-*Office of Enforcement* means the office of the Bureau responsible for enforcement of Federal consumer financial law.
+*Office of Enforcement* means the office of the Bureau responsible for enforcement of Federal consumer financial law or other laws enforceable by the Bureau.
 
-*Party* means the Bureau, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order.
+*Party* means the Office of Enforcement, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order.
 
 *Person* means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
 

@@ -1,0 +1,25 @@
+##### § 1177.17 Interest, penalties, and administrative costs. #####
+
+(a) Except as provided in paragraphs (g), (h), and (i) of this section, NEH will charge interest, penalties, and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. NEH will mail or hand-deliver a written notice to the debtor, at the debtor's most recent address available to NEH, explaining the agency's requirements concerning these charges, except where these requirements are included in a contractual or repayment agreement. These charges shall continue to accrue until the debt is paid in full or otherwise resolved through compromise, termination, or waiver of the charges.
+
+(b) NEH will charge interest on debts owed the United States as follows:
+
+(1) Interest will accrue from the date of delinquency, or as otherwise provided by law.
+
+(2) Unless otherwise established in a grant, cooperate agreement, contract, repayment agreement, or by statute, the rate of interest that NEH charges will be the rate that the Secretary establishes annually in accordance with 31 U.S.C. 3717. Pursuant to 31 U.S.C. 3717, NEH may charge a higher rate of interest if it reasonably determines that a higher rate is necessary to protect the rights of the United States. NEH will document the reason(s) for its determination that the higher rate is necessary.
+
+(3) The rate of interest that NEH initially charges will remain fixed for the duration of the indebtedness. When a debtor defaults on a repayment agreement and seeks to enter into a new agreement, NEH may require payment of interest at a new rate that reflects the Treasury's value of funds at the time the new agreement is executed. NEH will not compound interest; that is, it will not charge interest on interest, penalties, or administrative costs required by this section. If, however, a debtor defaults on a previous repayment agreement, NEH will add to the principal under the new repayment agreement any charges that accrued but which NEH did not collect under the defaulted agreement.
+
+(c) NEH will assess administrative costs it incurred for processing and handling delinquent debts. NEH will base its calculation of administrative costs on the actual costs it incurred or upon its estimated costs.
+
+(d) Unless otherwise established in a contract, repayment agreement, or by statute, NEH will charge a penalty, pursuant to 31 U.S.C. 3717(e)(2), not to exceed six (6) percent a year on the amount due on a debt that is delinquent for more than ninety (90) days. This charge shall accrue from the date of delinquency.
+
+(e) NEH may increase an “administrative debt” by the cost-of-living adjustment in lieu of charging interest and penalties under this section. “Administrative debt” includes but is not limited to a debt based on fines, penalties, and overpayments, but does not include a debt based on the extension of Government credit, such as those arising from loans and loan guaranties. The cost-of-living adjustment is the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the debt was determined or last adjusted. NEH will annually compute increases to administrative debts. NEH will use this alternative only when there is a legitimate reason to do so, such as when calculating interest and penalties on a debt would be extremely difficult because of the debt's age.
+
+(f) When a debtor pays a debt in partial or installment payments, the Government will first apply the amount it receives to any contingency fees added to the debt, second to outstanding penalties, third to administrative costs other than contingency fees, fourth to interest, and last to principal. For purposes of this paragraph (f), “contingency fees” are administrative costs resulting from fees paid by a Federal agency to other Federal agencies or private collection contractors for collection services rendered when the fees are paid from the amounts collected from a debtor.
+
+(g) NEH will waive the collection of interest and administrative costs imposed pursuant to this section on the portion of the debt that the debtor pays within thirty (30) days after the date on which interest began to accrue. NEH may extend this thirty-day period on a case-by-case basis. In addition, NEH may waive interest, penalties, and administrative costs charged under this section, in whole or in part, without regard to the amount of the debt, either under the criteria set forth in these standards for the compromise of debts, or if NEH determines that collection of these charges is against equity and good conscience or is not in the best interest of the United States.
+
+(h) NEH will not suspend the assessment of interest, penalties, and administrative costs during the administrative review of a debt, except for periods during which it has suspended collection activity under § 1177.29 of this part.
+
+(i) NEH is authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with the common law.

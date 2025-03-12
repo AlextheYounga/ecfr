@@ -1,5 +1,3 @@
 ##### § 1081.100 Scope of the rules of practice. #####
 
-Subparts A, B, C, and D of this part prescribe rules of practice and procedure applicable to adjudication proceedings authorized by section 1053 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) to ensure or enforce compliance with the provisions of Title X of the Dodd-Frank Act, rules prescribed by the Bureau under Title X of the Dodd-Frank Act, and any other Federal law or regulation that the Bureau is authorized to enforce. Except as otherwise provided in this part, the rules of practice contained in subparts A, B, C, and D of this part do not govern the conduct of Bureau investigations, investigational hearings or other proceedings that do not arise from proceedings after a notice of charges or a stipulation and consent order.
-
-[78 FR 59164, Sept. 26, 2013]
+This part prescribes rules of practice and procedure applicable to adjudication proceedings authorized by section 1053 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5563). The rules of practice in this part do not govern the conduct of Bureau investigations, investigational hearings or other proceedings that do not arise from proceedings after a notice of charges.

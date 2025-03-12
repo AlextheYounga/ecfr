@@ -1,0 +1,3 @@
+##### § 1177.35 Preservation of evidence. #####
+
+When NEH refers claims to DOJ, it will take care to preserve all files and records that DOJ may need to prove its claims in court. NEH ordinarily will include certified copies of the documents that form the basis for its claims in the packages it creates to refer its claims to DOJ for litigation. NEH will provide originals of such documents immediately upon DOJ's request.

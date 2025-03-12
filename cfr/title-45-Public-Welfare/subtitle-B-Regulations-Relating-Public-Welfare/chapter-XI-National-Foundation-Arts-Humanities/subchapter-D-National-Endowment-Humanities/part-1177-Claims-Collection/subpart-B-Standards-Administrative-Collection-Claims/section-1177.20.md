@@ -1,0 +1,5 @@
+##### § 1177.20 Exemptions. #####
+
+(a) The preceding sections of this part, to the extent that they reflect remedies or procedures prescribed by the Debt Collection Act of 1982 and the DCIA, such as administrative offset, use of credit bureaus, contracting for collection agencies, and interest and related charges, do not apply to debts arising under, or payments made under, the Internal Revenue Code of 1986, as amended (26 U.S.C. 1, *et seq.*); the Social Security Act (42 U.S.C. 301, *et seq.*), except to the extent provided under 42 U.S.C. 404 and 31 U.S.C. 3716©; or the tariff laws of the United States. These remedies and procedures, however, may be authorized with respect to debts that are exempt from the Debt Collection Act of 1982 and the DCIA, to the extent that they are authorized under some other statute or the common law.
+
+(b) NEH does not construe this section as prohibiting its use of these authorities or requirements when collecting debts owed by persons employed by agencies administering the laws cited in paragraph (a) of this section, unless the debt arose under those laws.

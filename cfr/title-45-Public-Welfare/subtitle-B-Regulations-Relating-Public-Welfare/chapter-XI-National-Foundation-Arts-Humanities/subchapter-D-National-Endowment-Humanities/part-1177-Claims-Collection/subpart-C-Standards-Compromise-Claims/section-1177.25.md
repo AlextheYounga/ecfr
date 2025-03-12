@@ -1,0 +1,3 @@
+##### § 1177.25 Further review of compromise offers. #####
+
+If NEH is uncertain whether to accept a firm, written, substantive compromise offer on a debt that is within the agency's delegated compromise authority, it may refer the offer to the Civil Division or other appropriate litigating division in DOJ, using a CCLR accompanied by supporting data and particulars concerning the debt. DOJ may act upon such an offer or return it to NEH with instructions or advice.
