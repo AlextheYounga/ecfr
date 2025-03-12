@@ -1,7 +1,3 @@
 ##### § 515.1 Purpose and scope. #####
 
-(a) The purpose of this part is to inform the public of records maintained by the Commission about identifiable individuals and to inform those individuals how they may gain access to and amend records concerning themselves.
-
-(b) This part carries out the requirements of the Privacy Act of 1974 (Pub. L. 93-579) codified at 5 U.S.C. 552a.
-
-(c) The regulation applies only to records disclosed or requested under the Privacy Act of 1974, and not to requests for information made pursuant to 5 U.S.C. 552, the Freedom of Information Act.
+This part contains the regulations the National Indian Gaming Commission (Commission) follows in implementing the Privacy Act of 1974. These regulations should be read together with the Privacy Act, which provides additional information about records maintained on individuals. The regulations in this part apply to all records contained within systems of records maintained by the Commission that are retrieved by an individual's name or personal identifier. They describe the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, and request an accounting of disclosures of those records by the Commission. The Commission shall also process all Privacy Act requests for access to records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, and the Commission's FOIA regulations contained in 25 CFR part 517, which gives requesters maximum disclosure.

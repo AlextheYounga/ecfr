@@ -1,5 +1,7 @@
 ##### § 10.2 Filing requirements. #####
 
+Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
+
 (a) A national bank shall use Form MSD-4 (Uniform Application for Municipal Securities Principal or Municipal Securities Representative Associated with a Bank Municipal Securities Dealer) for obtaining the information required by MSRB Rule G-7(b)(i)-(x) from a person identified in § 10.1(b). A national bank receiving a completed MSD-4 form from a person identified in § 10.1(b) must submit this form to the OCC before permitting the person to be associated with it as a municipal securities principal or a municipal securities representative.
 
 (b) A national bank must submit Form MSD-5 (Uniform Termination Notice for Municipal Securities Principal or Municipal Securities Representative Associated with a Bank Municipal Securities Dealer) to the OCC within 30 days of terminating a person's association with the bank as a municipal securities principal or municipal securities representative.

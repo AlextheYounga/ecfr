@@ -1,5 +1,7 @@
 ##### § 12.7 Securities trading policies and procedures. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) *Policies and procedures; reports of securities trading.* A national bank effecting securities transactions for customers shall maintain and adhere to policies and procedures that:
 
 (1) Assign responsibility for supervision of all officers or employees who:

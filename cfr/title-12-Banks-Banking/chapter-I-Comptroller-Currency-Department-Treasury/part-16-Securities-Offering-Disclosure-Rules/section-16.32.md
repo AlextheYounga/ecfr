@@ -1,5 +1,7 @@
 ##### § 16.32 Fraudulent transactions and unsafe and unsound practices. #####
 
+Link to an amendment published at 82 FR 8109, Jan. 23, 2017.
+
 (a) No person in the offer or sale of bank securities shall directly or indirectly:
 
 (1) Employ any device, scheme or artifice to defraud;

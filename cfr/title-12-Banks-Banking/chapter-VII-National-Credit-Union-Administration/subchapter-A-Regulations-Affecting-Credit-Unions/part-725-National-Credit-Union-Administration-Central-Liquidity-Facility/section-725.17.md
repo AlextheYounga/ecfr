@@ -2,7 +2,7 @@
 
 (a) A Regular member may apply for a Facility advance to meet its liquidity needs by filing an application on a Facility-approved form, or by any other method approved by the Facility.
 
-(b)(1) An Agent member may apply for a Facility advance by filing an application on a Facility-approved form, or by any other method approved by the Facility.4/\>
+(b)(1) An Agent member may apply for a Facility advance by filing an application on a Facility-approved form, or by any other method approved by the Facility.4
 
 4 If the Agent is an Agent group, the application must be filed by the Agent group representative, and any Facility advance will be made to the Agent group representative.
 

@@ -1,5 +1,7 @@
 ##### § 16.7 Nonpublic offerings. #####
 
+Link to an amendment published at 82 FR 8108, Jan. 23, 2017.
+
 (a) The OCC will deem offers and sales of bank issued securities that meet all of the following requirements to be exempt from the registration and prospectus requirements of § 16.3 pursuant to § 16.5(c) of this part:
 
 (1) All the securities are offered and sold in a transaction that satisfies the requirements of Commission Regulation D (17 CFR part 230, Regulation D - Rules Governing the Limited Offer and Sale of Securities Without Registration Under the Securities Act of 1933); and

@@ -1,5 +1,7 @@
 ##### § 16.4 Communications not deemed an offer. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) The OCC will not deem the following communications to be an offer under § 16.3 of this part:
 
 (1) Prior to the filing of a registration statement, any notice of a proposed offering that satisfies the requirements of Commission Rule 135 (17 CFR 230.135);

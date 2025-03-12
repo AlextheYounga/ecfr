@@ -1,0 +1,3 @@
+##### § 51.3 Notice of appointment of receiver. #####
+
+Upon appointment of a receiver for an uninsured bank, the OCC will provide notice to the public of the receivership, including by publication in a newspaper of general circulation for three consecutive months. The notice of the receivership will provide instructions for creditors and other claimants seeking to submit claims with the receiver for the uninsured bank.

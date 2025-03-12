@@ -1,5 +1,7 @@
 ##### § 10.1 Scope. #####
 
+Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
+
 This part applies to:
 
 (a) Any national bank and separately identifiable department or division of a national bank (collectively, a national bank) that acts as a municipal securities dealer, as that term is defined in section 3(a)(30) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(30)); and

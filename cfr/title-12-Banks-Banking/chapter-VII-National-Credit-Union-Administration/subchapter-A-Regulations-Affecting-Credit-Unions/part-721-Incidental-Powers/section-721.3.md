@@ -1,7 +1,5 @@
 ##### § 721.3 What categories of activities are preapproved as incidental powers necessary or requisite to carry on a credit union's business? #####
 
-Link to an amendment published at 81 FR 93580, Dec. 21, 2016.
-
 The categories of activities in this section are preapproved as incidental to carrying on your business under § 721.2. The examples of incidental powers activities within each category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
 (a) *Certification services.* Certification services are services whereby you attest or authenticate a fact for your members' use. Certification services may include such services as notary services, signature guarantees, certification of electronic signatures, and share draft certifications.
@@ -46,7 +44,7 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (d) *Electronic financial services.* Electronic financial services are any services, products, functions, or activities that you are otherwise authorized to perform, provide, or deliver to your members but performed through electronic means. Electronic services may include automated teller machines, electronic fund transfers, online transaction processing through a web site, web site hosting services, account aggregation services, and Internet access services to perform or deliver products or services to members.
 
-(e) *Excess capacity.* Excess capacity is the excess use or capacity remaining in facilities, equipment, or services that: You properly invested in or established, in good faith, with the intent of serving your members; and you reasonably anticipate will be taken up by the future expansion of services to your members. You may sell or lease the excess capacity in facilities, equipment or services such as office space, employees and data processing.
+(e) *Excess capacity.* Excess capacity is the excess use or capacity remaining in facilities, equipment, or services that you properly invested in or established, in good faith, with the intent of serving your members or supporting your business operations. You may sell or lease the excess capacity in facilities, such as office space and other premises. You may sell or lease the excess capacity in equipment or services, such as employees and data processing, if you reasonably anticipate that the excess capacity will be taken up by the future expansion of services to your members.
 
 (f) *Financial counseling services.* Financial counseling services means advice, guidance or services that you offer to your members to promote thrift or to otherwise assist members on financial matters. Financial counseling services may include income tax preparation service, electronic tax filing for your members, counseling regarding estate and retirement planning, investment counseling, and debt and budget counseling.
 
@@ -64,4 +62,4 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (m) *Trustee or custodial services.* Trustee or custodial services are services in which you are authorized to act under any written trust instrument or custodial agreement created or organized in the United States and forming part of a tax-advantaged savings plan, as authorized under the Internal Revenue Code. These services may include acting as a trustee or custodian for member retirement, education and health savings accounts.
 
-[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013]
+[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013; 81 FR 93580, Dec. 21, 2016]

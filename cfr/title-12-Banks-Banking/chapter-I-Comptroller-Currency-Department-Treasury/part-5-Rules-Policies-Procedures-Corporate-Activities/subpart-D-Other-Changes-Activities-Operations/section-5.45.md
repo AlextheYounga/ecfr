@@ -1,5 +1,7 @@
 ##### § 5.45 Increases in permanent capital of a Federal stock savings association. #####
 
+Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1467a, 1831o and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* Generally a Federal savings association is not required to apply for an increase in capital unless the method of increase itself requires a filing (such as issuance of a new class of stock). However, in certain circumstances, a Federal stock savings association is required to submit an application and obtain OCC approval.

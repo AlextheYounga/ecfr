@@ -1,6 +1,6 @@
 ##### § 225.37 Penalties. #####
 
-(a) In addition to or in lieu of cancellation under § 225.36, violations of the terms and conditions of any minerals agreement, the regulations in this part, other applicable laws or regulations, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary may subject an operator to a penalty of not more than $1,591 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
+(a) In addition to or in lieu of cancellation under § 225.36, violations of the terms and conditions of any minerals agreement, the regulations in this part, other applicable laws or regulations, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary may subject an operator to a penalty of not more than $1,617 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
 
 (b) A notice of a proposed penalty shall be served on the operator either personally or by certified mail to the operator at the operator's last known address. The date of service by certified mail shall be deemed to be the date received or five (5) working days after the date mailed, whichever is earlier.
 
@@ -18,4 +18,4 @@
 
 (3) Authorizing the imposition of a penalty for violations of minerals agreement provisions for which the Authorized Officer, Director's Representative, or MMS Official has either statutory or regulatory authority to assess a penalty.
 
-[59 FR 14971, Mar. 30, 1994, as amended at 81 FR 42481, June 30, 2016]
+[59 FR 14971, Mar. 30, 1994, as amended at 81 FR 42481, June 30, 2016; 82 FR 7652, Jan. 23, 2017]

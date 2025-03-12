@@ -1,5 +1,7 @@
 ##### § 16.30 Request for interpretive advice or no-objection letter. #####
 
+Link to an amendment published at 82 FR 8109, Jan. 23, 2017.
+
 Any person requesting interpretive advice or a no-objection letter from the OCC with respect to any provision of this part shall:
 
 (a) File a copy of the request, including any supporting attachments with the Securities, Investments, and Fiduciary Practices Division at the address listed in § 16.17;

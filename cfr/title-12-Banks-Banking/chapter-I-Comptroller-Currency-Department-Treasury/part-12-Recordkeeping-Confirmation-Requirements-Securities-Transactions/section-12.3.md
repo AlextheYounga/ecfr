@@ -1,5 +1,7 @@
 ##### § 12.3 Recordkeeping. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 (a) *General rule.* A national bank effecting securities transactions for customers shall maintain the following records for at least three years:
 
 (1) *Chronological records.* An itemized daily record of each purchase and sale of securities maintained in chronological order, and including:

@@ -1,5 +1,7 @@
 ##### § 11.4 Filing fees. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 (a) The OCC may require filing fees to accompany certain filings made under this part before it will accept the filing. The OCC provides an applicable fee schedule for such filings in the “Notice of Comptroller of the Currency Fees” described in 12 CFR 8.8.
 
 (b) Fees must be paid by check payable to the Comptroller of the Currency.

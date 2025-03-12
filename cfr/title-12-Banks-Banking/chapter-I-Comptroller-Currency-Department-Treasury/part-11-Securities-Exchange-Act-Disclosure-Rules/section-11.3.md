@@ -1,5 +1,7 @@
 ##### § 11.3 Filing requirements and inspection of documents. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 (a) *Filing requirements* - (1) *General.* Except as otherwise provided in this section, all papers required to be filed with the OCC pursuant to the 1934 Act or regulations thereunder shall be submitted in quadruplicate to the Securities and Corporate Practices Division, Office of the Comptroller of the Currency, 400 7th Street SW., Washington, DC 20219. Material may be filed by delivery to the OCC through the mail, by fax (202-874-5279), or otherwise.
 
 (2) *Statements filed pursuant to section 16(a) of the 1934 Act.* Statements required under section 16(a) of the 1934 Act shall be filed electronically, as directed by the OCC.

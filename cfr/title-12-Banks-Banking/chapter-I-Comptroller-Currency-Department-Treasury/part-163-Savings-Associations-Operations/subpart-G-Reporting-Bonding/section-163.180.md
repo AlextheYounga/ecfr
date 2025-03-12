@@ -1,5 +1,7 @@
 ##### § 163.180 Suspicious Activity Reports and other reports and statements. #####
 
+Link to an amendment published at 82 FR 8111, Jan. 23, 2017.
+
 (a) *Periodic reports.* Each savings association and service corporation thereof shall make such periodic or other reports of its affairs in such manner and on such forms as the appropriate Federal banking agency may prescribe. The appropriate Federal banking agency may provide that reports filed by savings associations or service corporations to meet the requirements of other regulations also satisfy requirements imposed under this section.
 
 (b) *False or misleading statements or omissions.* No savings association or director, officer, agent, employee, affiliated person, or other person participating in the conduct of the affairs of such association nor any person filing or seeking approval of any application shall knowingly:

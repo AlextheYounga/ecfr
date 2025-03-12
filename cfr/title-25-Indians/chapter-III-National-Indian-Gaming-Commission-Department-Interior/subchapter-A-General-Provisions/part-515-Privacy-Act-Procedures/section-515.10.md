@@ -1,3 +1,3 @@
-##### § 515.10 Penalties. #####
+##### § 515.10 Fees. #####
 
-Any person who makes a false statement in connection with any request for a record, or an amendment thereto, under this part, is subject to the penalties prescribed in 18 U.S.C. 494 and 495.
+The Commission shall charge fees for duplication of records under the Privacy Act in the same way in which it charges duplication fees under § 517.9 of this part. No search or review fee may be charged for any record. Additionally, when the Privacy Act Officer makes a copy of a record as a necessary part of reviewing the record or granting access to the record, the Commission shall not charge for the cost of making that copy. Otherwise, the Commission may charge a fee sufficient to cover the cost of duplicating a record.

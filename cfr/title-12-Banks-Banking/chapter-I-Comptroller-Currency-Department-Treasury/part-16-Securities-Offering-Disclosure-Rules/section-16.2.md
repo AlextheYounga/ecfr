@@ -1,5 +1,7 @@
 ##### § 16.2 Definitions. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 For purposes of this part, the following definitions apply:
 
 (a) *Accredited investor* means the same as in Commission Rule 501(a) (17 CFR 230.501(a)).

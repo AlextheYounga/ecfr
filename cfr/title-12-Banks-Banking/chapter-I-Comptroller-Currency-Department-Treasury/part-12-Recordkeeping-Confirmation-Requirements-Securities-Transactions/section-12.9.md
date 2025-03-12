@@ -1,5 +1,7 @@
 ##### § 12.9 Settlement of securities transactions. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) A national bank shall not effect or enter into a contract for the purchase or sale of a security (other than an exempted security as defined in 15 U.S.C. 78c(a)(12), government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) that provides for payment of funds and delivery of securities later than the third business day after the date of the contract, unless otherwise expressly agreed to by the parties at the time of the transaction.
 
 (b) Paragraphs (a) and (c) of this section do not apply to contracts:

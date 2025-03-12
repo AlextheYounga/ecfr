@@ -1,5 +1,7 @@
 ##### § 16.3 Registration statement and prospectus requirements. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) No person shall offer or sell, directly or indirectly, any bank issued security unless:
 
 (1) A registration statement for the security meeting the requirements of § 16.15 of this part has been filed with and declared effective by the OCC pursuant to this part, and the offer or sale is accompanied or preceded by a prospectus that has been filed with and declared effective by the OCC as a part of that registration statement; or

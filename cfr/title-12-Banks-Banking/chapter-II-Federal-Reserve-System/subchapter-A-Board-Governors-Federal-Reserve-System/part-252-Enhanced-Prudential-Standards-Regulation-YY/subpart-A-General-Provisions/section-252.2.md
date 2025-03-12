@@ -1,5 +1,7 @@
 ##### § 252.2 Definitions. #####
 
+Link to an amendment published at 82 FR 8306, Jan. 24, 2017.
+
 Unless otherwise specified, the following definitions apply for purposes of this part:
 
 (a) *Affiliate* has the same meaning as in section 2(k) of the Bank Holding Company Act (12 U.S.C. 1841(k)) and section 225.2(a) of the Board's Regulation Y (12 CFR 225.2(a)).

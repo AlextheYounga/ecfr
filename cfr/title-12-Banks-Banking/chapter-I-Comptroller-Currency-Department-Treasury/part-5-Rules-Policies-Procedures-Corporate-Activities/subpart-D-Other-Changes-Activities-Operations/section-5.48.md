@@ -1,5 +1,7 @@
 ##### § 5.48 Voluntary liquidation of a national bank or Federal savings association. #####
 
+Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
+
 (a) *Authority.* 12 U.S.C. 93a, 181, 182, 1463, 1464, and 5412(b)(1)(B).
 
 (b) *Licensing requirements.* A national bank or a Federal savings association considering going into voluntary liquidation shall provide preliminary notice to the OCC. The bank or savings association shall also file a notice with the OCC once a liquidation plan is definite. The bank or savings association may not begin liquidation unless the OCC has notified it that the OCC does not object to the liquidation plan.

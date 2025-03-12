@@ -1,11 +1,13 @@
-##### § 515.4 Procedures for requests and disclosures. #####
+##### § 515.4 Responsibility for responding to requests. #####
 
-(a) Requests for a determination under § 515.3(a) of this part shall be acknowledged by the Commission within ten (10) days (excluding Saturdays, Sundays and Federal holidays) after the date on which the Commission receives the request. If the Commission is unable to locate the information requested, it shall so notify the individual within ten (10) days (excluding Saturdays, Sundays and Federal holidays) after receipt of the request, Such acknowledgement may request additional information to assist the Commission in locating the record, or it may advise the individual that no record exists about that individual.
+(a) *In general.* In determining which records are responsive to a request, the Commission ordinarily will include only records in its possession as of the date it begins its search for records. If any other date is used, the Privacy Act Officer shall inform the requester of that date.
 
-(b)(1) Upon submission of proof of identity as required by § 515.3(b)(1) or (2) of this part, the Commission shall respond within ten (10) days (excluding Saturdays, Sundays and Federal holidays). The Commission shall decide whether to make a record available to the record subject and shall immediately convey its determination to the requester. If the individual asks to see the record, the Commission may make the record available at the location where the record is maintained.
+(b) *Authority to grant or deny requests.* The Privacy Act Officer shall make initial determinations either to grant or deny in whole or in part access to records.
 
-(2) The Commission shall furnish each record requested by an individual under this section in a form intelligible to that individual.
+(c) *Consultations and referrals.* When the Commission receives a request for a record in its possession, the Privacy Act Officer shall determine whether another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the Privacy Act. If the Privacy Act Officer determines that it is best able to process the record in response to the request, then it shall do so. If the Privacy Act Officer determines that it is not best able to process the record, then it shall either:
 
-(3) If the Commission denies access to a record to an individual, that person shall be advised of the reason for the denial and of the appeal procedures provided in § 515.7 of this part.
+(1) Respond to the request regarding that record, after consulting with the agency best able to determine whether to disclose it and with any other agency that has a substantial interest in it; or
 
-(4) Upon request, an individual shall be provided access to the accounting of disclosures from his or her record under the same procedures as provided above and in § 515.3 of this part.
+(2) Refer the responsibility for responding to the request regarding that record to the agency best able to determine whether to disclose it, or to another agency that originated the record. Ordinarily, the agency that originated a record will be presumed to be best able to determine whether to disclose it.
+
+(d) *Notice of referral.* Whenever the Privacy Act Officer refers all or any part of the responsibility for responding to a request to another agency, it ordinarily shall notify the requester of the referral and inform the requester of the name of each agency to which the request has been referred and of the part of the request that has been referred.

@@ -1,5 +1,7 @@
 ##### § 16.17 Filing requirements and inspection of documents. #####
 
+Link to an amendment published at 82 FR 8108, Jan. 23, 2017.
+
 (a) Except as provided in paragraph (b) of this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the Securities, Investments, and Fiduciary Practices Division, Office of the Comptroller of the Currency, 400 7th Street SW., Washington, DC 20219.
 
 (b) All registration statements, offering documents, amendments, notices, or other documents relating to a bank in organization must be filed with the appropriate District office of the OCC.

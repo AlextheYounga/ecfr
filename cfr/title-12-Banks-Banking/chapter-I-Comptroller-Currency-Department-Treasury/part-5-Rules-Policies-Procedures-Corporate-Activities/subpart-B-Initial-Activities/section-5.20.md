@@ -1,5 +1,7 @@
 ##### § 5.20 Organizing a national bank or Federal savings association. #####
 
+Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
+
 (a) *Authority.* 12 U.S.C. 21, 22, 24(Seventh), 26, 27, 92a, 93a, 1814(b), 1816, 1462a, 1463, 1464, 2903, and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* Any person desiring to establish a national bank or a Federal savings association shall submit an application and obtain prior OCC approval.

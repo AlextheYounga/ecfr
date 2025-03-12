@@ -1,25 +1,9 @@
-##### § 515.7 Appeal to the Commission of initial adverse agency determination on access or amendment to records. #####
+##### § 515.7 Appeals of initial adverse agency determination. #####
 
-(a) Any individual whose request for access or an amendment has been denied in whole or in part, may appeal the decision to the Commission no later than one hundred eighty (180) days after the adverse decision is rendered.
+(a) *Adverse determination.* An initial adverse agency determination of a request may consist of: A determination to withhold any requested record in whole or in part; a determination that a requested record does not exist or cannot be located; a determination that the requested record is not a record subject to the Privacy Act; a determination that a record will not be amended; a determination to deny a request for an accounting; a determination on any disputed fee matter; and any associated denial of a request for expedited treatment under the Commission's FOIA regulations.
 
-(b) The appeal shall be in writing and shall contain all of the following information:
+(b) *Appeals.* If the Privacy Act Officer issues an adverse determination in response to a request, the requester may file a written notice of appeal. The notice shall be accompanied by the original request, the initial adverse determination that is being appealed, and a statement describing why the adverse determination was in error. The appeal shall be addressed to the Privacy Act Appeals Officer at the locations listed in § 515.3 of this part no later than 90 calendar days after the date of the letter denying the request. Both the appeal letter and envelope should be marked “Privacy Act Appeal.” Any Privacy Act appeals submitted via electronic mail should state “Privacy Act Appeal” in the subject line.
 
-(1) The name of the individual making the appeal;
+(c) *Responses to appeals.* The decision on appeal will be made in writing within 20 working days of receipt of the notice of appeal by the Privacy Act Appeals Officer. For good cause shown, however, the Privacy Act Appeals Officer may extend the 30 working day period. If such an extension is taken, the requester shall be promptly notified of such extension and the anticipated date of decision. A decision affirming an adverse determination in whole or in part will include a brief statement of the reason(s) for the determination, including any Privacy Act exemption(s) applied. If the adverse determination is reversed or modified in whole or in part, the requester will be notified in a written decision and the request will be reprocessed in accordance with that appeal decision. The response to the appeal shall also advise of the right to institute a civil action in a Federal district court for judicial review of the decision.
 
-(2) Identification of the record sought to be amended;
-
-(3) The record system in which such record is contained;
-
-(4) A short statement describing the amendment sought; and
-
-(5) The name and location of the agency official who initially denied the amendment.
-
-(c) Not later than thirty (30) days (excluding Saturdays, Sundays and Federal holidays) after the date on which the Commission receives the appeal, the Commission shall complete its review of the appeal and make a final decision thereon. For good cause shown, however, the Commission may extend such thirty (30) day period. If the Commission extends the period, the individual requesting the review shall be promptly notified of the extension and the anticipated date of a decision.
-
-(d) After review of an appeal, the Commission shall send a written notice to the requester containing the following information:
-
-(1) The decision and, if the denial is upheld, the reasons for the decision;
-
-(2) The right of the requester to file with the Commission a concise statement setting forth the reasons for his or her disagreement with the Commission's denial of access or amendment. The Commission shall make this statement available to any person to whom the record is later disclosed, together with a brief statement, if appropriate, of the Commission's reasons for denying requested access or amendment. The Commission shall also send a copy of the statement to prior recipients of the individual's record; and
-
-(3) The right of the requester to institute a civil action in a Federal district court for judicial review of the decision.
+(d) *When appeal is required.* In order to institute a civil action in a federal district court for judicial review of an adverse determination, a requester must first appeal it under this section.

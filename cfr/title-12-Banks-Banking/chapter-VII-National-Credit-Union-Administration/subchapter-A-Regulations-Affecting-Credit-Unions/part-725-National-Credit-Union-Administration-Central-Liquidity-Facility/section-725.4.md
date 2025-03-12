@@ -4,7 +4,7 @@
 
 (1) Making application on a form approved by the Facility;
 
-(2) Subscribing to the capital stock of the Facility in an amount equal to one-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with § 725.5(b) of this part) of all the central credit union's or central credit union group's member natural person credit unions, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent.2/\> Upon approval of the application, the Agent shall forward funds equal to one-half of this initial stock subscription to the Facility.3/\>
+(2) Subscribing to the capital stock of the Facility in an amount equal to one-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with § 725.5(b) of this part) of all the central credit union's or central credit union group's member natural person credit unions, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent.2 Upon approval of the application, the Agent shall forward funds equal to one-half of this initial stock subscription to the Facility.3
 
 2 A natural person credit union which is a member of more than one Agent member of the Facility must designate through which Agent it will deal with the Facility, and the designated Agent will be responsible for including the capital and surplus of such credit union in the calculation of its stock subscription.
 

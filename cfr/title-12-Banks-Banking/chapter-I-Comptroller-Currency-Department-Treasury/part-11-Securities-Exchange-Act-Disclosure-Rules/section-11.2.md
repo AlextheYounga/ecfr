@@ -1,5 +1,7 @@
 ##### § 11.2 Reporting requirements for registered national banks. #####
 
+Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
+
 (a) *Filing, disclosure and other requirements* - (1) *General.* Except as otherwise provided in this section, a national bank whose securities are subject to registration pursuant to section 12(b) or section 12(g) of the 1934 Act (15 U.S.C. 78l(b) and (g)) shall comply with the rules, regulations, and forms adopted by the Securities and Exchange Commission (Commission) pursuant to:
 
 (i) Sections 10A(m), 12, 13, 14(a), 14(c), 14(d), 14(f), and 16 of the 1934 Act (15 U.S.C. 78f(m), 78l, 78m, 78n(a), (c), (d) and (f), and 78p); and

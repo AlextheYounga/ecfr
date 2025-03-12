@@ -1,5 +1,7 @@
 ##### § 163.172 Financial derivatives. #####
 
+Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
+
 (a) *What is a financial derivative?* A financial derivative is a financial contract whose value depends on the value of one or more underlying assets, indices, or reference rates. The most common types of financial derivatives are futures, forward commitments, options, and swaps. A mortgage derivative security, such as a collateralized mortgage obligation or a real estate mortgage investment conduit, is not a financial derivative under this section.
 
 (b) *May I engage in transactions involving financial derivatives?* (1) If you are a Federal savings association, you may engage in a transaction involving a financial derivative if you are authorized to invest in the assets underlying the financial derivative, the transaction is safe and sound, and you otherwise meet the requirements in this section.

@@ -1,19 +1,13 @@
-##### § 515.5 Request for amendment to record. #####
+##### § 515.5 Responses to requests for access to records. #####
 
-(a) Any individual who has reviewed a record pertaining to him or her that was furnished under this part, may request that the Commission amend all or any part of that record.
+(a) *Acknowledgement of requests.* Upon receipt of a request, the Privacy Act Officer ordinarily shall, within 20 working days, send an acknowledgement letter which shall confirm the requester's agreement to pay fees under § 515.9 and provide an assigned request number.
 
-(b) Each individual requesting an amendment shall send the request to the Records Manager.
+(b) *Grants of requests for access.* Once the Privacy Act Officer makes a determination to grant a request for access in whole or in part, it shall notify the requester in writing. The notice shall inform the requester of any fee charged under § 515.9 of this part and the Privacy Act Officer shall disclose records to the requester promptly on payment of any applicable fee. If a request is made in person, the Privacy Act Officer will disclose the records to the requester directly, in a manner not unreasonably disruptive of its operations, on payment of any applicable fee and with a written record made of the grant of the request. If a requester is accompanied by another individual, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.
 
-(c) Each request for an amendment of a record shall contain the following information:
+(c) *Adverse determinations of requests for access.* If the Privacy Act Officer makes any adverse determination denying a request for access in any respect, it shall notify the requester of that determination in writing. The notification letter shall be signed by the official making the determination and include:
 
-(1) The name of the individual requesting the amendment;
+(1) The name and title of the person responsible for the denial;
 
-(2) The name of the system of records in which the record sought to be amended is maintained;
+(2) A brief statement of the reason(s) for the denial, including any Privacy Act exemption(s) applied to the denial;
 
-(3) The location of the system of records from which the individual record was obtained;
-
-(4) A copy of the record sought to be amended or a sufficiently detailed description of that record:
-
-(5) A statement of the material in the record that the individual desires to amend;
-
-(6) A statement of the basis for the requested amendment, including any material that the individual can furnish to substantiate the reasons for the amendment sought.
+(3) A statement that the denial may be appealed under § 515.7 and a description of the requirements of § 515.7.

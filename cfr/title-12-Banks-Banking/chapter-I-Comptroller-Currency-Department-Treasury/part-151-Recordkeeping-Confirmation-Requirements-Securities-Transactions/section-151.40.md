@@ -1,5 +1,7 @@
 ##### § 151.40 What definitions apply to this part? #####
 
+Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
+
 *Asset-backed security* means a security that is primarily serviced by the cash flows of a discrete pool of receivables or other financial assets, either fixed or revolving, that by their terms convert into cash within a finite time period. *Asset-backed security* includes any rights or other assets designed to ensure the servicing or timely distribution of proceeds to the security holders.
 
 *Common or collective investment fund* means any fund established under 12 CFR 150.260(b) or 12 CFR 9.18.

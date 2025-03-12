@@ -1,5 +1,7 @@
 ##### § 16.5 Exemptions. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 The registration statement and prospectus requirements of § 16.3 of this part do not apply to an offer or sale of bank securities:
 
 (a) If the securities are exempt from registration under section 3 of the Securities Act (15 U.S.C. 77c), but only by reason of an exemption other than section 3(a)(2) (exemption for bank securities), section 3(a)(11) (exemption for intrastate offerings), and section 3(a)(12) of the Securities Act (exemption for bank holding company formation).

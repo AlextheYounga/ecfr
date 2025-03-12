@@ -16,7 +16,9 @@
 
 (B) Any project for which an agency, authority or commission of a signatory to the Compact is the primary sponsor. Projects sponsored by political subdivisions of the signatory states shall not be included in this exemption. For purposes of this section “political subdivisions” shall include without limitation municipalities, municipal utility authorities, municipal development corporations, and all other entities not directly under the budgetary and administrative control of the Commission's members.
 
-(2) *Annual monitoring and coordination fee.* An annual monitoring and coordination fee shall apply to each withdrawal and/or discharge project for which a water allocation or wastewater discharge approval issued pursuant to the *Compact* and implementing regulations is in effect, regardless of whether the approval was issued by the Commission in the form of a docket, permit or other instrument, or by a Signatory Party Agency under the One Permit Program rule (§ 401.42). The fee shall be based on the amount of a project's approved monthly water allocation and/or approved daily discharge capacity.
+(2) *Annual monitoring and coordination fee.* (i) Except as provided in paragraph (b)(2)(ii) of this section, an annual monitoring and coordination fee shall apply to each active water allocation or wastewater discharge approval issued pursuant to the *Compact* and implementing regulations, regardless of whether the approval was issued by the Commission in the form of a docket, permit or other instrument, or by a Signatory Party Agency under the One Permit Program rule (§ 401.42). The fee shall be based on the amount of a project's approved monthly water allocation and/or approved daily discharge capacity.
+
+(ii) For any withdrawal or diversion covered in part by a certificate of entitlement issued pursuant to §§ 420.31 and 420.32 of the water supply charges regulations (18 CFR part 420), the annual monitoring and coordination fee shall be based on the allocated amount, if any, in excess of the quantity specified in the entitlement.
 
 (3) *Alternative review fee.* In instances where the Commission's activities and related costs associated with the review of an existing or proposed project are expected to involve extraordinary time and expense, an alternative review fee equal to the Commission's actual costs may be imposed. The Executive Director shall inform the project sponsor in writing when the alternative review fee is to be applied and may require advance payment in the amount of the Commission's projected costs. Instances in which the alternative review fee may apply include, but are not limited to, matters in which:
 
@@ -85,4 +87,4 @@ Table 3 to § 401.43 - Additional Fees
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
-[81 FR 95861, Dec. 29, 2016]
+[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017]

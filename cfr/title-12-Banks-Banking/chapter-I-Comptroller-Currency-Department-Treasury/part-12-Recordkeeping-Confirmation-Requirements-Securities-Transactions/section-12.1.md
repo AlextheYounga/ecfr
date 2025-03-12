@@ -1,5 +1,7 @@
 ##### § 12.1 Authority, purpose, and scope. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 (a) *Authority.* This part is issued pursuant to 12 U.S.C. 24, 92a, and 93a.
 
 (b) *Purpose.* This part establishes rules, policies, and procedures applicable to recordkeeping and confirmation requirements for certain securities transactions effected by national banks for customers.

@@ -1,5 +1,7 @@
 ##### § 12.2 Definitions. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 (a) *Asset-backed security* means a security that is primarily serviced by the cashflows of a discrete pool of receivables or other financial assets, either fixed or revolving, that by their terms convert into cash within a finite time period plus any rights or other assets designed to assure the servicing or timely distribution of proceeds to the security holders.
 
 (b) *Collective investment fund* means any fund established pursuant to 12 CFR 9.18.

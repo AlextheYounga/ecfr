@@ -1,5 +1,7 @@
 ##### § 252.153 U.S. intermediate holding company requirement for foreign banking organizations with U.S. non-branch assets of $50 billion or more. #####
 
+Link to an amendment published at 82 FR 8310, Jan. 24, 2017.
+
 (a) *Requirement to form a U.S. intermediate holding company.* (1) A foreign banking organization with U.S. non-branch assets of $50 billion or more must establish a U.S. intermediate holding company, or designate an existing subsidiary that meets the requirements of paragraph (a)(2) of this section, as its U.S. intermediate holding company.
 
 (2) The U.S. intermediate holding company must be:

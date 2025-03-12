@@ -20,7 +20,7 @@
 
 (b) [Reserved]
 
-(c) *Deductions from regulatory capital*.6/\> (1) [Reserved]
+(c) *Deductions from regulatory capital*.6 (1) [Reserved]
 
 6 The System institution must calculate amounts deducted under paragraphs (c) through (f) of this section and § 628.23 after it calculates the amount of ALL includable in tier 2 capital under § 628.20(d)(3).
 

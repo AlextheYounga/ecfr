@@ -1,5 +1,7 @@
 ##### § 163.190 Bonds for directors, officers, employees, and agents; form of and amount of bonds. #####
 
+Link to an amendment published at 82 FR 8111, Jan. 23, 2017.
+
 (a) Each Federal savings association shall maintain fidelity bond coverage. The bond shall cover each director, officer, employee, and agent who has control over or access to cash, securities, or other property of the savings association.
 
 (b) The amount of coverage to be required for each Federal savings association shall be determined by the association's management, based on its assessment of the level that would be safe and sound in view of the association's potential exposure to risk; provided, such determination shall be subject to approval by the association's board of directors.

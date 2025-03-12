@@ -1,7 +1,15 @@
-##### § 515.8 Disclosure of record to a person other than the individual to whom it pertains. #####
+##### § 515.8 Requests for an accounting of record disclosure. #####
 
-(a) Any individual who desires to have a record covered by this part disclosed to or mailed to another person may designate such person and authorize such person to act as his or her agent for that specific purpose. The authorization shall be in writing, signed by the individual, and notarized or witnessed as provided in § 515.3 of this part.
+(a) *How made and addressed.* Subject to the exceptions listed in paragraph (b) of this section, an individual may make a request for an accounting of the disclosures of any record about that individual that the Commission has made to another person, organization, or agency. The accounting contains the date, nature and purpose of each disclosure, as well as the name and address of the person, organization, or agency to which the disclosure was made. The request for an accounting should identify each particular record in question and should be made in writing to the Commission's Privacy Act Officer, following the procedures in § 515.3.
 
-(b) The parent of any minor individual or the legal guardian of any individual who has been declared by a court of competent jurisdiction to be incompetent, due to physical or mental incapacity or age, may act on behalf of that individual in any matter covered by this section. A parent or guardian who desires to act on behalf of such an individual shall present suitable evidence of parentage or guardianship, by birth certificate, certified copy of court order, or similar documents, and proof of the individual's identity in a form that complies with § 515.3(b) of this part.
+(b) *Where accountings are not required.* The Commission is not required to provide an accounting where they relate to:
 
-(c) An individual to whom a record is to be disclosed in person, pursuant to this section, may have a person of his or her own choosing accompany him or her when the record is disclosed.
+(1) Disclosures for which accountings are not required to be kept, such as those that are made to employees of the Commission who have a need for the record in the performance of their duties and disclosures that are made under section 552 of title 5;
+
+(2) Disclosures made to law enforcement agencies for authorized law enforcement activities in response to written requests from those law enforcement agencies specifying the law enforcement activities for which the disclosures are sought; or
+
+(3) Disclosures made from law enforcement systems of records that have been exempted from accounting requirements.
+
+(c) *Appeals.* A requester may appeal a denial of a request for an accounting in the same manner as a denial of a request for access as described in § 515.7 of this part and the same procedures will be followed.
+
+(d) *Preservation of accountings.* All accountings made under this section will be retained for at least five years or the life of the record, whichever is longer, after the disclosure for which the accounting is made.

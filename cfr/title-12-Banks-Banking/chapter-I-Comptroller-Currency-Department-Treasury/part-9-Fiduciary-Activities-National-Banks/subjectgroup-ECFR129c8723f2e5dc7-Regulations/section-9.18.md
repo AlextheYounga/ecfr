@@ -1,5 +1,7 @@
 ##### § 9.18 Collective investment funds. #####
 
+Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
+
 (a) *In general.* Where consistent with applicable law, a national bank may invest assets that it holds as fiduciary in the following collective investment funds:1
 
 1 In determining whether investing fiduciary assets in a collective investment fund is proper, the bank may consider the fund as a whole and, for example, shall not be prohibited from making that investment because any particular asset is nonincome producing.

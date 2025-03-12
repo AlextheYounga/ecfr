@@ -4,7 +4,7 @@
 
 (1) Making application on a form approved by the Facility;
 
-(2) Subscribing to capital stock of the Facility in an amount equal to one-half of 1 percent of the credit union's paid-in and unimpaired capital and surplus, as determined in accordance with § 725.5(b) of this part, and forwarding with its completed application funds equal to one-half of this stock subscription;1/\> and
+(2) Subscribing to capital stock of the Facility in an amount equal to one-half of 1 percent of the credit union's paid-in and unimpaired capital and surplus, as determined in accordance with § 725.5(b) of this part, and forwarding with its completed application funds equal to one-half of this stock subscription;1 and
 
 1 A credit union which submits its application for membership prior to October 1, 1979, is not required to forward these funds to the Facility until October 1, 1979.
 

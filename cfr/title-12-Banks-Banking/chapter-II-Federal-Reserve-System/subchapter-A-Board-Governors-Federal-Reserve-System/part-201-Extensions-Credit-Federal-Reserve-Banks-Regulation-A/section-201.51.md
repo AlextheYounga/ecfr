@@ -2,39 +2,9 @@
 
 3 The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
 
-(a) *Primary credit.* The interest rates for primary credit provided to depository institutions under § 201.4(a) are:
+(a) *Primary credit.* The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 1.25 percent.
 
-|Federal reserve bank|Rate|    Effective     |
-|--------------------|----|------------------|
-|       Boston       |1.00|December 17, 2015.|
-|      New York      |1.00|December 17, 2015.|
-|    Philadelphia    |1.00|December 17, 2015.|
-|     Cleveland      |1.00|December 17, 2015.|
-|      Richmond      |1.00|December 17, 2015.|
-|      Atlanta       |1.00|December 17, 2015.|
-|      Chicago       |1.00|December 17, 2015.|
-|     St. Louis      |1.00|December 17, 2015.|
-|    Minneapolis     |1.00|December 17, 2015.|
-|    Kansas City     |1.00|December 17, 2015.|
-|       Dallas       |1.00|December 17, 2015.|
-|   San Francisco    |1.00|December 17, 2015.|
-
-(b) *Secondary credit.* The interest rates for secondary credit provided to depository institutions under § 201.4(b) are:
-
-|Federal reserve bank|Rate|    Effective     |
-|--------------------|----|------------------|
-|       Boston       |1.50|December 17, 2015.|
-|      New York      |1.50|December 17, 2015.|
-|    Philadelphia    |1.50|December 17, 2015.|
-|     Cleveland      |1.50|December 17, 2015.|
-|      Richmond      |1.50|December 17, 2015.|
-|      Atlanta       |1.50|December 17, 2015.|
-|      Chicago       |1.50|December 17, 2015.|
-|     St. Louis      |1.50|December 17, 2015.|
-|    Minneapolis     |1.50|December 17, 2015.|
-|    Kansas City     |1.50|December 17, 2015.|
-|       Dallas       |1.50|December 17, 2015.|
-|   San Francisco    |1.50|December 17, 2015.|
+(b) *Secondary credit.* The interest rate at each Federal Reserve Bank for secondary credit provided to depository institutions under § 201.4(b) is 1.75 percent.
 
 (c) *Seasonal credit.* The rate for seasonal credit extended to depository institutions under § 201.4(c) is a flexible rate that takes into account rates on market sources of funds.
 

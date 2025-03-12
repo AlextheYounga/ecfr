@@ -1,5 +1,7 @@
 ##### § 12.4 Content and time of notification. #####
 
+Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
+
 Unless a national bank elects to provide notification by one of the means specified in § 12.5, a national bank effecting a securities transaction for a customer shall give or send to the customer either of the following types of notifications at or before completion of the transaction or, if the bank uses a registered broker/dealer's confirmation, within one business day from the bank's receipt of the registered broker/dealer's confirmation:
 
 (a) *Written notification.* A written notification disclosing:

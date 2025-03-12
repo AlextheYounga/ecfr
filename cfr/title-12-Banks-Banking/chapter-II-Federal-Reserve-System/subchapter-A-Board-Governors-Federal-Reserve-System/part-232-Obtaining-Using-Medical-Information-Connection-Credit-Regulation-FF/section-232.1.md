@@ -1,4 +1,4 @@
-##### § 232.1 Scope, General Prohibition and Definitions #####
+##### § 232.1 Scope, general prohibition and definitions. #####
 
 (a) *Scope.* This part applies to creditors, as defined in paragraph (c)(3) of this section, except for creditors that are subject to §§ 41.30, 222.30, 334.30, 571.30, or 717.30.
 
@@ -20,7 +20,7 @@
 
 (5) *Medical information* means:
 
-(i) Information or data, whether oral or recorded, in any form or medium, created by or derived from a health care provider or the consumer, that relates to -
+(i) Information or data, whether oral or recorded, in any form or medium, created by or derived from a health care provider or the consumer, that relates to—
 
 (A) The past, present, or future physical, mental, or behavioral health or condition of an individual;
 

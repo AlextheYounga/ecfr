@@ -1,5 +1,7 @@
 ##### § 5.33 Business combinations involving a national bank or Federal savings association. #####
 
+Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
+
 (a) *Authority.* 12 U.S.C. 24(Seventh), 93a, 181, 214a, 214b, 215, 215a, 215a-1, 215a-3, 215b, 215c, 1462a, 1463, 1464, 1467a, 1828(c), 1831u, 2903, and 5412(b)(2)(B).
 
 (b) *Scope.* This section sets forth the provisions governing business combinations and the standards for:

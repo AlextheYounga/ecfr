@@ -1,5 +1,7 @@
 ##### § 16.6 Sales of nonconvertible debt. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) The OCC will deem offers or sales of bank issued nonconvertible debt to be in compliance with §§ 16.3 and 16.15(a) and (b) of this part if all of the following requirements are met:
 
 (1) The bank issuing the debt has securities registered under the Exchange Act or is a subsidiary of a bank holding company that has securities registered under the Exchange Act;

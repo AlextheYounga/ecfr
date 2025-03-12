@@ -1,5 +1,7 @@
 ##### § 7.2008 Oath of directors. #####
 
+Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
+
 (a) *Administration of the oath.* A notary public, including one who is a director but not an officer of the national bank, may administer the oath of directors. Any person, other than an officer of the bank, having an official seal and authorized by the state to administer oaths, may also administer the oath.
 
 (b) *Execution of the oath.* Each director attending the organization meeting shall execute either a joint or individual oath. A director not attending the organization meeting (the first meeting after the election of the directors) shall execute the individual oath. A director shall take another oath upon re-election, notwithstanding uninterupted service. Appropriate sample oaths are located in the “Comptroller's Corporate Manual”.

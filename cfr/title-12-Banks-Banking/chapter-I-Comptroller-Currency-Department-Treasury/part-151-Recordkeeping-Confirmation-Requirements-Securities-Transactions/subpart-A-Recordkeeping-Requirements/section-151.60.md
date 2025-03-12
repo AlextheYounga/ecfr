@@ -1,5 +1,7 @@
 ##### § 151.60 How must I maintain my records? #####
 
+Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
+
 (a) You may maintain the records required under § 151.50 in any manner, form, or format that you deem appropriate. However, your records must clearly and accurately reflect the required information and provide an adequate basis for an audit of the information.
 
 (b) You, or the person that maintains and preserves records on your behalf, must:

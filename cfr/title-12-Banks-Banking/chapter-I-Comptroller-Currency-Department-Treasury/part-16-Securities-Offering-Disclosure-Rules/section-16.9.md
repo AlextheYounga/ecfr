@@ -1,5 +1,7 @@
 ##### § 16.9 Securities offered and sold in holding company dissolution. #####
 
+Link to an amendment published at 82 FR 8108, Jan. 23, 2017.
+
 Offers and sales of bank issued securities in connection with the dissolution of the holding company of the bank are exempt from the registration and prospectus requirements of § 16.3 pursuant to § 16.5(h), provided all of the following requirements are met:
 
 (a) The offer and sale of bank-issued securities occurs solely as part of a dissolution in which the security holders exchange their shares of stock in a holding company that had no significant assets other than securities of the bank, for bank stock;

@@ -1,5 +1,7 @@
 ##### § 12.102 National bank use of electronic communications as customer notifications. #####
 
+Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
+
 (a) In appropriate situations, a national bank may satisfy the “written” notification requirement under §§ 12.4 and 12.5 through electronic communications. Where a customer has a facsimile machine, a national bank may fulfill its notification delivery requirement by sending the notification by facsimile transmission. Similarly, a bank may satisfy the notification delivery requirement by other electronic communications when:
 
 (1) The parties agree to use electronic instead of hard-copy notifications;
