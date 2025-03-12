@@ -6,7 +6,7 @@ Award yearClock hourCorrespondence courseCredit hourSecretaryState
 
 (b) The following definitions are contained in subpart A of the Student Assistance General Provisions, 34 CFR part 668:
 
-Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligible programEnrolledExpected family contributionFederal Family Education Loan (FFEL) ProgramFederal Pell Grant ProgramFederal Perkins Loan ProgramFederal Supplemental Educational Opportunity Grant ProgramFederal Work-Study ProgramFull-time studentHalf-time studentHEAIndependent studentInstitutional student information record (ISIR)National Science and Mathematics Access to Retain Talent Grant (National SMART Grant) ProgramParentPayment periodStudent aid report (SAR)Teacher Education Assistance for College and Higher Education (TEACH) Grant ProgramTEACH GrantThree-quarter-time studentUndergraduate studentValid institutional student information record (valid ISIR)Valid student aid report (valid SAR)William D. Ford Federal Direct Loan Program
+Academic yearDependent studentEligible programEnrolledExpected family contributionFederal Pell Grant ProgramFederal Supplemental Educational Opportunity Grant ProgramFederal Work-Study ProgramFull-time studentHalf-time studentHEAIndependent studentInstitutional student information record (ISIR)ParentPayment periodStudent aid report (SAR)Teacher Education Assistance for College and Higher Education (TEACH) Grant ProgramTEACH GrantThree-quarter-time studentUndergraduate studentValid institutional student information record (valid ISIR)Valid student aid report (valid SAR)William D. Ford Federal Direct Loan Program
 
 (c) Other terms used in this part are:
 
@@ -14,7 +14,7 @@ Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligib
 
 *Central processor:* An organization under contract with the Secretary that calculates an applicant's expected family contribution based on the applicant's application information, transmits an ISIR to each institution designated by the applicant, and submits reports to the Secretary on the correctness of its computations of the expected family contribution amounts and the accuracy of the answers to questions on application forms for the previous award year cycle.
 
-*Disbursement Schedule:* A table showing the annual awards that three-quarter, half-time, and less-than-half-time students at term-based institutions using credit hours would receive for an academic year. This table is published annually by the Secretary and is based on -
+*Disbursement Schedule:* A table showing the annual awards that three-quarter, half-time, and less-than-half-time students at term-based institutions using credit hours would receive for an academic year. This table is published annually by the Secretary and is based on—
 
 (1) A student's expected family contribution, as determined in accordance with title IV, part F of the HEA; and
 
@@ -22,7 +22,7 @@ Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligib
 
 (3) The amount of funds available for making Federal Pell Grants.
 
-*Electronic Data Exchange:* An electronic exchange system between the central processor and an institution under which -
+*Electronic Data Exchange:* An electronic exchange system between the central processor and an institution under which—
 
 (1) A student is able to transmit his or her application information to the central processor through his or her institution and an ISIR is transmitted back to the institution;
 
@@ -38,7 +38,7 @@ Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligib
 
 *Payment Data:* An electronic record that is provided to the Secretary by an institution showing student disbursement information.
 
-*Payment Schedule:* A table showing a full-time student's Scheduled Federal Pell Grant for an academic year. This table, published annually by the Secretary, is based on -
+*Payment Schedule:* A table showing a full-time student's Scheduled Federal Pell Grant for an academic year. This table, published annually by the Secretary, is based on—
 
 (1) The student's EFC; and
 
@@ -46,4 +46,4 @@ Academic Competitiveness Grant (ACG) ProgramAcademic yearDependent studentEligib
 
 *Scheduled Federal Pell Grant:* The amount of a Federal Pell Grant which would be paid to a full-time student for a full academic year.
 
-(Authority: 20 U.S.C. 1070a, 1070g)[50 FR 10717, Mar. 15, 1985]Editorial Note:For Federal Register citations affecting § 690.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[50 FR 10717, Mar. 15, 1985]Editorial Note:For Federal Register citations affecting § 690.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

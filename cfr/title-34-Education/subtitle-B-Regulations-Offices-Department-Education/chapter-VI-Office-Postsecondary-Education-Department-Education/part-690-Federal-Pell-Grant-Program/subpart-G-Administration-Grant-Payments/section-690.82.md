@@ -4,4 +4,4 @@
 
 (b) For any disputed expenditures in any award year for which the institution cannot provide records, the Secretary determines the final authorized level of expenditures.
 
-(Approved by the Office of Management and Budget under control number 1840-0681)(Authority: 20 U.S.C. 1070a, 1232f)[61 FR 60494, Nov. 27, 1996]
+[61 FR 60494, Nov. 27, 1996, as amended at 86 FR 59626, Oct. 28, 2021]

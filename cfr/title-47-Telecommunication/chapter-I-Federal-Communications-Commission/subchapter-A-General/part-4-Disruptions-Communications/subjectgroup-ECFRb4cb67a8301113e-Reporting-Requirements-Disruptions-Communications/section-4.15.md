@@ -1,7 +1,5 @@
 ##### § 4.15 Submarine cable outage reporting. #####
 
-Link to an amendment published at 86 FR 22361, Apr. 28, 2021.
-
 (a) *Definitions.* (1) For purposes of this section, “outage” is defined as a failure or significant degradation in the performance of a licensee's cable service regardless of whether the traffic can be re-routed to an alternate path, where:
 
 (i) An outage of a portion of submarine cable system between submarine line terminal equipment (SLTE) at one end of the system and SLTE at another end of the system occurs for 30 minutes or more; or
@@ -30,6 +28,4 @@ Link to an amendment published at 86 FR 22361, Apr. 28, 2021.
 
 (c) *Confidentiality.* Reports filed under this part will be presumed to be confidential. Public access to reports filed under this part may be sought only pursuant to the procedures set forth in 47 CFR 0.461. Notice of any requests for inspection of outage reports will be provided pursuant to 47 CFR 0.461(d)(3).
 
-(d) *Compliance date.* This section contains new or modified information-collection and recordkeeping requirements. Compliance with these information-collection and recordkeeping requirements will not be required until six months after the Commission publishes a document in the Federal Register announcing approval by the Office of Management and Budget and the compliance date. Following such approval, the Commission will publish a document in the Federal Register announcing that compliance date and removing or revising this paragraph.
-
-[81 FR 52363, Aug. 8, 2016, as amended at 85 FR 15740, Mar. 19, 2020]Effective Date Note:At 81 FR 52363, Aug. 8, 2016, § 4.15 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 52363, Aug. 8, 2016, as amended at 85 FR 15740, Mar. 19, 2020; 86 FR 22361, Apr. 28, 2021]Effective Date Note:At 81 FR 52363, Aug. 8, 2016, § 4.15 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
