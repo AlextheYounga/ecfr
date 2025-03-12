@@ -1,0 +1,3 @@
+##### § 310.4 Responsibility of carriers. #####
+
+Private carriers are cautioned to make sure that their carriage of matter is lawful within the definition, exceptions, suspension, and conditions contained in this part and in part 320 of this chapter. They should take reasonable measures to inform their customers of the contents of these regulations so that only proper matter is tendered to them for carriage. Carriers should desist from carrying any matter when the form of shipment, identity of sender or recipient, or any other information reasonably accessible to them indicates that matter tendered to them for carriage is not proper under these regulations.

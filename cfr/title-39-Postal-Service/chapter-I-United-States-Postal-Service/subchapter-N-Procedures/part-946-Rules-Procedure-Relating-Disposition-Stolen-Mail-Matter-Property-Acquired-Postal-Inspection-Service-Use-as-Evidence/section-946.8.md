@@ -1,0 +1,3 @@
+##### § 946.8 Determination of claims. #####
+
+Upon receipt of a claim under this part, the Postal Inspection Service must conduct an investigation to determine the merits of the claim. The results of the investigation must be submitted to the Chief Postal Inspector or delegate who must approve or deny the claim by written decision, a copy of which must be forwarded to the claimant by certified mail. If the claim is approved, the procedures to be followed by the claimant to obtain return of the property, or its determined value, must be stated. If the claim is denied, the decision must state the reasons therefor.

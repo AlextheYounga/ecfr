@@ -1,0 +1,3 @@
+##### § 3005.21 Authority to order depositions and responses to written interrogatories. #####
+
+The Chairman, any designated Commissioner, or any administrative law judge may order the taking of depositions and responses to written interrogatories by a covered person with respect to any proceeding conducted under title 39 of the United States Code or to obtain information to be used to prepare a report under that title.

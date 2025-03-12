@@ -1,0 +1,5 @@
+##### § 241.1 Post offices. #####
+
+Post Offices are established and maintained at locations deemed necessary to ensure that regular and effective postal services are available to all customers within specified geographic boundaries. A Post Office may be operated or staffed by a postmaster or by another type of postal employee at the direction of the postmaster, including when the postmaster is not physically present. A Remotely Managed Post Office (RMPO) is a Post Office that offers part-time window service hours, is staffed by a Postal Service employee under the direction of a postmaster, and reports to an Administrative Post Office. A Part-Time Post Office (PTPO) is a Post Office that offers part-time window service hours, is staffed by a Postal Service employee, and reports to a district office. Unless otherwise specified, all references to “Post Office” include RMPOs and PTPOs.
+
+[77 FR 46950, Aug. 7, 2012]

@@ -1,0 +1,3 @@
+##### § 954.15 Judicial Officer. #####
+
+The Judicial Officer is authorized (a) to act as presiding officer at hearings and (b) to render a final Postal Service Decision for the Postmaster General. On appeal from an Initial Decision of an Administrative Law Judge, the Judicial Officer will consider the entire record including the initial decision and the exceptions to that decision. Before any final agency decision has been rendered, the Judicial Officer may order the hearing reopened for the presiding officer to take additional evidence.

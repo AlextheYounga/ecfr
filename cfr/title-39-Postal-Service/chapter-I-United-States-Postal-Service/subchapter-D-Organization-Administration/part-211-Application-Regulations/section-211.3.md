@@ -1,0 +1,5 @@
+##### § 211.3 Executive orders and other executive pronouncements; circulars, bulletins, and other issuances of the Office of Management and Budget. #####
+
+(a) By virtue of the Postal Reorganization Act, certain executive orders, and other executive pronouncements and certain circulars, bulletins, and other issuances of the Office of Management and Budget or particular provisions thereof, or requirements therein, apply to the Postal Service and certain others do not apply.
+
+(b) It is the policy of the Postal Service to continue to comply with issuances of the kind mentioned in paragraph (a) of this section with which it has previously complied, unless a management decision by an appropriate department head is made to terminate compliance, in whole or in part, following advice from the General Counsel that the issuance is not binding, in whole or in part, on the Postal Service. This policy is not enforceable by any party outside the Postal Service. No party outside the Postal Service is authorized to use the mere non-compliance with this policy against the Postal Service in any way.

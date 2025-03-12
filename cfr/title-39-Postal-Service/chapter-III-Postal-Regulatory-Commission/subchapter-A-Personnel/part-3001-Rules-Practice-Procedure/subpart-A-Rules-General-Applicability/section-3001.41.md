@@ -1,0 +1,13 @@
+##### § 3001.41 Rulemaking proceedings. #####
+
+(a) *General notice.* Before the adoption of any rule of general applicability, or the commencement of any hearing on any such proposed rulemaking, the Commission will cause general notice to be given by publication in the Federal Register, such notice to be published therein not less than 30 days prior to the date fixed for the consideration of the adoption of a proposed rule or rules or for the commencement of the hearing, if any, on the proposed rulemaking, except where a shorter period is reasonable and good cause exists therefor. However, where the Commission, for good cause, finds it impracticable, unnecessary, or contrary to the public interest to give such notice, it may proceed with the adoption of rules without notice by incorporating therein a finding to such effect and a concise statement of the reasons therefor. Advance notice shall not be required for rules subject to 5 U.S.C. 553(d).
+
+(b) *Contents of notice.* The notice shall include (1) a statement of the time, place and nature of the public rulemaking proceedings; (2) reference to the legal authority under which the rule is proposed; and (3) either the terms or substance of the proposed rule or a description of the subjects and issues involved.
+
+(c) *Participation.* After notice given as provided in paragraph (a) of this section, the Commission shall give interested persons an opportunity to participate in the rulemaking through submission of written data, views, or arguments with or without opportunity for oral presentation.
+
+(d) *General statement as to basis and purpose.* After consideration of the relevant matter presented, the Commission shall incorporate in the rules adopted a concise general statement of their basis and purpose.
+
+(e) *Exceptions.* Except when notice or hearing is required by statute, the Commission may issue at any time rules of organization, procedure or practice, or interpretive rules, or statements of policy, without notice or public procedure, and this section is not to be construed as applicable to the extent that there may be involved any military, naval or foreign affairs function of the United States, or any matter relating to the Commission's management or personnel, or to U.S. property, loans, grants, benefits, or contracts.
+
+[36 FR 396, Jan. 12, 1971, as amended at 38 FR 4329, Feb. 13, 1973; 78 FR 36440, June 18, 2013]

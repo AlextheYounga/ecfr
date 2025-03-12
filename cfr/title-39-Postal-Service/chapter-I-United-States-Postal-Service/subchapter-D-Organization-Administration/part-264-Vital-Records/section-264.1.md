@@ -1,0 +1,3 @@
+##### § 264.1 Purpose and scope. #####
+
+Certain records are critical to the continuity of Postal Service operations or to the preservation of the rights and interests of the Postal Service, its employees, contractors or customers. To ensure that these records are available when needed, specific controls are required which affect all organizational components having the custody of records defined as being “vital.”

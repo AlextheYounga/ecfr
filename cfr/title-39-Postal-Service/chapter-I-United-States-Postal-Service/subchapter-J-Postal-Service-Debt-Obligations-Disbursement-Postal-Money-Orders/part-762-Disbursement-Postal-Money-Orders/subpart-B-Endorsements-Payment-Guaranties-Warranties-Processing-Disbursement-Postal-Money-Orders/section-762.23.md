@@ -1,0 +1,3 @@
+##### § 762.23 General rules. #####
+
+All Disbursement Postal Money Orders drawn by the Postal Service are payable without limitation of time. The Postal Service shall have the usual right of a drawee to examine Disbursement Postal Money Orders presented for payment and refuse payment of any Disbursement Postal Money Orders, and shall have a reasonable time to make such examination. Disbursement Postal Money Orders shall be deemed to be paid by the Postal Service only after first examination has been fully completed. If the Postal Service is on notice of a doubtful question of law or fact when a Disbursement Postal Money Order is presented for payment, payment will be deferred pending settlement by the Postal Service.

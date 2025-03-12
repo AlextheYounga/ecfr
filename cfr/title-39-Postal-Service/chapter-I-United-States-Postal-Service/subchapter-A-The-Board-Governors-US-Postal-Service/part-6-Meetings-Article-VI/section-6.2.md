@@ -1,0 +1,3 @@
+##### § 6.2 Special meetings. #####
+
+Consistent with the provisions of §§ 6.6 and 7.5 of these bylaws, the Chairman may call a special meeting of the Board at any place in the United States, with the earliest practicable notice to the other members of the Board and to the Secretary, specifying the time, date, place, and subject matter of the meeting. Consistent with the provisions of §§ 6.6 and 7.5 of these bylaws, by recorded vote a majority of the members of the Board may call a special meeting of the Board at any place in the United States, with the earliest practicable notice to the other members of the Board and to the Secretary, specifying the time, date, place and subject matter of the meeting.

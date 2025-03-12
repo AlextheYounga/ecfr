@@ -1,0 +1,3 @@
+##### § 963.19 Appeal. #####
+
+Either party may file exceptions in a brief on appeal to the Judicial Officer within 15 days after receipt of the initial or tentative decision unless additional time is granted. A reply brief may be filed within 15 days after the receipt of the appeal brief by the opposing party. The Judicial Officer has all powers of a presiding officer and is authorized to decide all issues de novo.

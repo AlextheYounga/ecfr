@@ -1,0 +1,3 @@
+##### § 7.8 Open meetings, Freedom of Information, and Privacy of Information. #####
+
+The provisions of 5 U.S.C. 552b(c) (1)-(10), enacted by Public Law 94-409, the Government in the Sunshine Act, govern in the case of any request under the Freedom of Information Act, 5 U.S.C. 552, to copy or to inspect the transcripts or electronic recordings described in § 7.6 of these bylaws. Nothing in 5 U.S.C. 552b authorizes the Board to withhold from any individual any record, including the transcripts or electronic recordings described in § 7.6 of these bylaws, to which the individual may otherwise have access under 5 U.S.C. 552a, enacted by the Privacy Act of 1974, Public Law 93-579.

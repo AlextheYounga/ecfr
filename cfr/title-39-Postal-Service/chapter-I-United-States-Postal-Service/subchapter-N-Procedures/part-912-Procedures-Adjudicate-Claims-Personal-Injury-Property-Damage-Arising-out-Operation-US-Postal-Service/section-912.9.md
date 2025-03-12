@@ -1,0 +1,11 @@
+##### § 912.9 Final denial of claim. #####
+
+(a) Final denial of an administrative claim shall be in writing and sent to the claimant, his attorney, or legal representative by certified or registered mail. The notification of final denial may include a statement of the reasons for the denial and shall include a statement that, if the claimant is dissatisfied with the agency action, he may file suit in an appropriate U.S. District Court not later than 6 months after the date of mailing of the notation.
+
+(b) Prior to the commencement of suit and prior to the expiration of the 6 month period provided in 28 U.S.C. 2401(b), a claimant, his duly authorized agent, or legal representative, may file a written request with the postal official who issued the final denial or with the Chief Counsel, Torts, General Law Service Center, USPS National Tort Center, 1720 Market Street, Room 2400, St. Louis, MO 63155-9948, for a reconsideration of a final denial of a claim under paragraph (a) of this section. Upon the timely filing of a request for reconsideration, the Postal Service shall have 6 months from the date of filing in which to make a disposition of the claim and the claimant's option under 28 U.S.C. 2675(a) shall not accrue until 6 months after the filing of a request for reconsideration. Final Postal Service action on a request for reconsideration shall be effected in accordance with this part.
+
+(c) For purposes of this section, a request for reconsideration of a final denial of a claim shall be deemed to have been filed when received in the office of the official who issued the final denial or in the office of the Chief Counsel, Torts, General Law Service Center, USPS National Tort Center, 1720 Market Street, Room 2400, St. Louis, MO 63155-9948.
+
+(d) Only one request for reconsideration of a final denial may be filed. A claimant shall have no right to file a request for reconsideration of a final denial issued in response to a request for reconsideration.
+
+(28 U.S.C. 2671-2680; 28 CFR 14.1-14.11; 39 U.S.C. 401, 409, 2008)[36 FR 12448, June 30, 1971, as amended at 38 FR 16868, June 27, 1973; 49 FR 19478, May 8, 1984; 69 FR 52607, Aug. 27, 2004; 73 FR 75340, Dec. 11, 2008; 76 FR 52580, Aug. 23, 2011]

@@ -1,0 +1,3 @@
+##### § 953.12 Initial decision. #####
+
+Unless given orally at the conclusion of the hearing, the Administrative Law Judge shall render an initial decision as expeditiously as practicable after the conclusion of the hearing and the receipt of the proposed findings and conclusions, if any. The initial decision shall become the decision of the Postal Service if an appeal is not perfected. When the Judicial Officer presides at the hearing, his powers shall include those of an Administrative Law Judge, but the Judicial Officer may render either an initial or final decision. Exceptions may be filed to an initial decision rendered by the Judicial Officer in accordance with § 953.13.

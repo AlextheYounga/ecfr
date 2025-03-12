@@ -1,0 +1,7 @@
+##### § 959.22 Proposed findings and conclusions. #####
+
+(a) Each party, except one who fails to answer the complaint or, having answered, either fails to appear at the hearing or indicates in the answer that he or she does not desire to appear, may submit proposed findings of fact, conclusions of law and supporting reasons either in oral or written form. The presiding officer may also require the parties to submit proposed findings of fact and conclusions of law with supporting reasons.
+
+(b) Proposed findings of fact, conclusions of law and supporting reasons not presented orally before the close of the hearing, shall, unless otherwise directed by the presiding officer, be filed within 15 days after the delivery of the official transcript to the Recorder, who shall notify the parties of the date of its receipt. The proposed findings of fact, conclusions of law and supporting reasons shall be set forth in serially numbered paragraphs, and shall state with particularity, all pertinent evidentiary facts in the record with appropriate citations to the transcript or exhibits supporting the proposed findings. Each proposed conclusion of law shall be separately stated.
+
+[39 FR 33213, Sept. 16, 1974, as amended at 63 FR 66052, Dec. 1, 1998]

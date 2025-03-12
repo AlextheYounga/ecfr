@@ -1,0 +1,3 @@
+##### § 3025.43 Due date for replies to the Postal Service. #####
+
+Petitioner, and any other participant seeking to have the Commission return the matter for further consideration, may file a reply to the Postal Service response not more than 10 days after the date of the Postal Service response. Replies are limited to issues discussed in the responses of the Postal Service and other participants seeking affirmation of the Postal Service determination.

@@ -1,0 +1,5 @@
+##### § 966.10 Initial decision. #####
+
+(a) After the receipt of written submissions or after the conclusion of the hearing and the receipt of any post-hearing briefs, the Hearing Official shall issue a written initial decision, including findings of fact and conclusions of law, which the Hearing Official relied upon in determining whether the former employee is indebted to the Postal Service, or in upholding or revising the administrative offset schedule proposed by the Postal Service for collecting a former employee's debt. When the Judicial Officer presides at a hearing he or she shall issue a final or a tentative decision.
+
+(b) The Hearing Official shall promptly send to each party a copy of the initial or tentative decision, and a statement describing the right of appeal to the Judicial Officer in accordance with § 966.11.

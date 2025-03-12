@@ -1,0 +1,3 @@
+##### § 230.17 If an attempt is made to compel production of reports and records during the employee's testimony, what is an Office of Inspector General employee directed to do? #####
+
+If an attempt is made to compel production of reports and records during the employee's testimony, the employee is directed to decline to produce the item or information and to state that the material cannot be disclosed or produced without the approval of the authorizing official. All such requests, and any other requests for documents in judicial or administrative proceedings in which the United States is not a party, shall be deemed to be a request for records under the Freedom of Information Act and shall be handled pursuant to 39 CFR 230.5.

@@ -1,0 +1,13 @@
+##### § 954.8 Pleading. #####
+
+(a) *Filing and service.* All documents required under this part must be filed using the electronic filing system unless the presiding officer permits otherwise. Documents submitted using the electronic filing system are considered filed as of the date/time (Eastern Time) reflected in the system. Documents mailed to the Recorder are considered filed on the date mailed as evidenced by a United States Postal Service postmark. Filings by any other means are considered filed upon receipt by the Recorder of a complete copy of the filing during normal business hours. If both parties are participating in the electronic filing system, separate service upon the opposing party is not required. Otherwise, documents shall be served personally or by mail on the opposing party, noting on the document filed, or on the transmitting letter, that a copy has been so furnished. The Recorder shall maintain a docket and the files in all proceedings.
+
+(b) *Petition.* A publisher may appeal from a ruling of the authorized official by filing a petition within 15 days of the receipt of the ruling unless the time is extended by the authorized official. The petition shall state the reasons why the publisher (designated “Petitioner” in the proceeding) believes the ruling of the authorized official is erroneous and shall provide the address at which documents may be served on the Petitioner. The petition shall also allege facts showing compliance with each provision of law or regulation on which the publisher's claim to Periodicals mail privileges is based. The publisher shall attach to his or her petition a copy of the letter of the authorized official denying, suspending or revoking Periodicals mail privileges.
+
+(c) *Notice of hearing.* Upon receipt of the petition the Recorder shall set a date for the hearing and issue a notice of hearing to the parties stating the time and place of the hearing, the date for filing an answer, and the name of the presiding officer.
+
+(d) *Answer.* The authorized official (designated the “Respondent” in the proceeding) shall answer the petition within 15 days after filing and admit or deny each allegation of the petition.
+
+(e) *Amendment.* An amendment of a pleading may be offered by any party at any time prior to the close of the hearing. If the presiding officer deems it appropriate to permit the amendment of a pleading, he or she may impose such conditions, by way of continuance of the hearing date or otherwise, as he or she considers necessary to assure a fair hearing.
+
+[36 FR 11567, June 16, 1971, as amended at 38 FR 17217, June 29, 1973; 62 FR 66998, Dec. 23, 1997; 81 FR 40193, June 21, 2016]

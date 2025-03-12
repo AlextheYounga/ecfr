@@ -1,0 +1,3 @@
+##### § 491.4 Identification of employees. #####
+
+Garnishments must be accompanied by sufficient information to permit prompt identification of the employee and the payments involved. Garnishment of an employee whose name and social security number is similar to but not identical with the name and social security number on the garnishment will not be processed. An exact match of both name and social security number is required in order to permit processing; otherwise, the garnishment will be returned marked “Insufficient identifying information.” Garnishments which are insufficient in regard to identifying information will not be held pending receipt of further information and must be served again when the proper information is obtained.

@@ -1,0 +1,3 @@
+##### § 962.14 Enforcement of subpoenas. #####
+
+In the case of contumacy or refusal to obey a subpoena issued pursuant to §§ 962.9(b)(5) and 962.13, the district courts of the United States have jurisdiction to issue an appropriate order for the enforcement of such subpoena. Any failure to obey such order of the court may be punishable as contempt. In any case in which the Postal Service seeks the enforcement of a subpoena under this section, the Postal Service shall request the Attorney General to petition the district court for the district in which a hearing under this part is being conducted or in which the person receiving the subpoena resides or conducts business to issue such an order.

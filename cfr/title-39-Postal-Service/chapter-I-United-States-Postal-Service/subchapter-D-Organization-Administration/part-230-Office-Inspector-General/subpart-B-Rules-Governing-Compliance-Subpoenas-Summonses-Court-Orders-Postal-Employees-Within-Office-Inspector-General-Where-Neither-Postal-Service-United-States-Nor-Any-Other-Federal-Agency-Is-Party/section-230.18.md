@@ -1,0 +1,3 @@
+##### § 230.18 If authorization to testify or produce documents is not obtained by the employee, what is the employee directed to do? #####
+
+Absent written authorization from the authorizing official, the employee must respectfully decline to produce the requested documents, testify, or otherwise disclose the requested information. If the authorization is denied or not received by the return date, the employee, together with counsel, where appropriate, shall appear at the stated time and place, produce a copy of this section, and respectfully decline to testify or produce any document on the basis of the regulations in this section.

@@ -1,0 +1,5 @@
+##### § 958.17 Initial decision. #####
+
+(a) After the conclusion of the hearing, and the receipt of briefs, if any, from the parties, the Presiding Officer shall issue a written Initial Decision, including his or her findings and determinations. Such decision shall include the findings of fact and conclusions of law which the Presiding Officer relies upon in determining whether the respondent is liable for civil penalties, clean-up costs and/or damages for mailing hazardous materials and/or related violations under 39 U.S.C. 3018, and, if liability is found, shall set forth the amount of any civil penalties, clean-up costs and/or damages imposed.
+
+(b) The Presiding Officer shall promptly send to each party a copy of his or her Initial Decision. A party may, in accordance with § 958.18, appeal an adverse Initial Decision to the Judicial Officer. Unless a party timely appeals in accordance with § 958.18, the Presiding Officer's Initial Decision, including the findings and determinations, becomes the final agency decision.

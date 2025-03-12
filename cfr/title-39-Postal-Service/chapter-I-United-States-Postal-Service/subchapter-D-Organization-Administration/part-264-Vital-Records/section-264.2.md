@@ -1,0 +1,3 @@
+##### § 264.2 Policy. #####
+
+It is the policy of the U.S. Postal Service to ensure the availability of all records considered critical to the continuity of its operations and the preservation of the rights and interests of the Postal Service, its employees, contractors, and customers. Vital records shall be routinely maintained at predesignated off-site locations to ensure their availability when needed by management and operating personnel.

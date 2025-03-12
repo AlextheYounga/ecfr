@@ -1,0 +1,3 @@
+##### § 491.5 Costs. #####
+
+The Postal Service's administrative costs in executing the garnishment action shall be added to each garnishment and the costs recovered shall be retained as offsetting collections. The Postal Service reserves the right to redetermine the administrative cost of any garnishment if, in administering any garnishment, extra costs beyond those normally encountered are incurred, and add the extra cost to each garnishment. The extra costs recovered shall be retained as offsetting collections.

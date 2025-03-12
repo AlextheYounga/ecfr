@@ -1,0 +1,3 @@
+##### § 1.2 Delegation of authority. #####
+
+Except for powers, duties, or obligations specifically vested in the Governors by law, the Board may delegate its authority to the Postmaster General under such terms, conditions, and limitations, including the power of redelegation, as it finds desirable. The bylaws of the Board are the framework of the system through which the Board monitors the exercise of the authority it has delegated, measures progress toward the goals it has set, and shapes the policies to guide the future development of the Postal Service. Delegations of authority do not relieve the Board of full responsibility for carrying out its duties and functions, and are revocable by the Governors in their exclusive judgment.

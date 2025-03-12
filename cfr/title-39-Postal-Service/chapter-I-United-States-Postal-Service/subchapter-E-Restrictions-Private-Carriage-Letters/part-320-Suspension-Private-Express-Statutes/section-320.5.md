@@ -1,0 +1,5 @@
+##### § 320.5 Suspension for certain international-ocean carrier-related documents. #####
+
+The operation of 39 U.S.C. 601(a) (1) through (6) and § 310.2(b) (1) through (6) of this chapter is suspended on all post routes for documents, sent by a shipper or an ocean carrier from a foreign origin to a United States ocean-carrier port city destination or from a United States ocean-carrier port city origin to a foreign destination, that would be excepted under § 310.3(a) if the documents accompanied the cargo. This suspension covers only shipments to or from ports where the cargo to which the documents relate is actually loaded on, or unloaded from, an ocean vessel. For purposes of this suspension “foreign origins” or “foreign destinations” means origins or destinations outside the contiguous 48 states.
+
+[44 FR 52835, Sept. 11, 1979]

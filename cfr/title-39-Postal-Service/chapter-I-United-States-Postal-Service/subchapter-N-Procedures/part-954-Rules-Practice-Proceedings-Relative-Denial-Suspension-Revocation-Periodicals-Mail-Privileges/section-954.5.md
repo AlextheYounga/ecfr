@@ -1,0 +1,5 @@
+##### § 954.5 Application. #####
+
+A publisher may file an application for Periodicals mailing privileges. (See § E213 of the Domestic Mail Manual.) An authorized administrative official of the Postal Service (hereinafter called “the authorized official”) rules upon all applications. If he or she denies the application he or she shall notify the publisher specifying the reasons for his or her denial and attaching a copy of these rules. Before taking action on an application, the authorized official may call upon the publisher for additional information or evidence to support or clarify the application. Failure of the publisher to furnish such information or evidence may be cause for the authorized official to deny the application as incomplete or, on its face, not fulfilling the requirements for entry.
+
+[36 FR 11567, June 16, 1971, as amended at 38 FR 17217, June 29, 1973; 42 FR 30504, June 15, 1977; 62 FR 66998, Dec. 23, 1997]

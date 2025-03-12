@@ -1,0 +1,5 @@
+##### § 273.4 Non-exclusivity of penalty authority. #####
+
+(a) A determination by the Reviewing Official that there is adequate evidence to believe that a person is liable under 31 U.S.C 3802, or a final determination that a person is liable under such statute, may provide the Postal Service with grounds for commencing any administrative or contractual action against such person which is authorized by law and which is in addition to any action against such person under chapter 38 of title 31, United States Code.
+
+(b) In the case of an administrative or contractual action to suspend or debar any person from eligibility to enter into contracts with the Postal Service, a determination referred to in paragraph (a) of this section shall not be considered as a conclusive determination of such person's responsibility pursuant to Postal Service procurement regulations.

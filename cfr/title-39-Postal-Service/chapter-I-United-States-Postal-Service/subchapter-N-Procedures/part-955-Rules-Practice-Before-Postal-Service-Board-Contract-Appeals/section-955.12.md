@@ -1,0 +1,3 @@
+##### § 955.12 Submission without a hearing. #####
+
+Submission of the case without hearing does not relieve the parties from the necessity of proving the facts supporting their allegations or defenses. Affidavits, depositions, admissions, answers to interrogatories, and stipulations may be employed to supplement other documentary evidence in the record which will be settled pursuant to § 955.14. The Board may permit such submission to be supplemented by oral argument (transcribed if requested), and by briefs in accordance with § 955.24.

@@ -1,0 +1,3 @@
+##### § 946.2 Disposition of property of apparent owners. #####
+
+Where an apparent owner of property subject to this part is known, the Chief Postal Inspector or delegate will mail, by certified mail to the apparent owner's last known address, written notice describing the property and the procedure for filing a claim for its return (see §§ 946.3 and 946.7). Such claims must be filed within 30 days from the date the notice is postmarked. If the apparent owner of the property fails to file a timely claim, the property is considered abandoned and must be disposed of as provided in § 946.6.

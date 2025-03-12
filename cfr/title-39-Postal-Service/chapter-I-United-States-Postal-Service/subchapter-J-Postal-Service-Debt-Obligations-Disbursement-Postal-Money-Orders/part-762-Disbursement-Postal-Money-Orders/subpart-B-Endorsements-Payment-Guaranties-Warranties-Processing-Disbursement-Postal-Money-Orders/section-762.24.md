@@ -1,0 +1,3 @@
+##### § 762.24 Guaranty of endorsements. #####
+
+The presenting bank and the endorsers of a Disbursement Postal Money Order presented to the Postal Service for payment shall be deemed to guarantee to the Postal Service that all prior endorsements are genuine, whether or not an express guaranty is placed on the Disbursement Postal Money Order. When the first endorsement has been made by one other than the payee personally, the presenting bank and the endorsers shall be deemed to guarantee to the Postal Service, in addition to other warranties, that the person who so endorsed had unqualified capacity and authority to endorse the Disbursement Postal Money Order on behalf of the payee.

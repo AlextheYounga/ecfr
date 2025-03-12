@@ -1,0 +1,5 @@
+##### § 320.4 Suspension for certain letters of college and university organizations. #####
+
+The operation of 39 U.S.C. 601(a) (1) through (6) and § 310.2(b) (1) through (6) of this chapter is suspended on all post routes to permit colleges and universities to carry in their internal mail systems the letters of their *bona fide* student or faculty organizations to campus destinations. This suspension does not cover the letters of faculty members, students, or organizations other than *bona fide* student or faculty organizations of the carrying college or university. Colleges and universities choosing to provide their student or faculty organizations access to their internal mail systems are responsible for assuring that only letters of *bona fide* student or faculty organizations addressed to campus destinations are carried. (See § 310.4.) For purposes of this suspension, “internal mail systems” are those which carry letters on, between, and among the various campuses of a single college or university and which operate in accordance with the *Letters of the carrier* exception in 39 CFR 310.3(b).
+
+[44 FR 52835, Sept. 11, 1979]

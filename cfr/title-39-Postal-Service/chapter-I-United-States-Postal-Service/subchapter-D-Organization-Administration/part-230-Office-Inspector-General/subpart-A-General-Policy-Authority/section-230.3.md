@@ -1,0 +1,5 @@
+##### § 230.3 Cooperation with the Office of Inspector General. #####
+
+(a) All Postal Service employees shall cooperate with all audits, reviews, and investigations conducted by the Office of Inspector General. Deliberately submitting information known to be false or misleading to the Office of Inspector General or failing to cooperate with all audits, reviews, and investigations conducted by the Office of Inspector General may be grounds for disciplinary or other legal action.
+
+(b) Any employee who has authority to take, direct another to take, recommend or approve any personnel action shall not retaliate against any employee as a reprisal for cooperating and assisting with any Office of Inspector General audit, review, or investigation (including reporting facts or information to the Office of Inspector General that leads to any audit, review, or investigation).

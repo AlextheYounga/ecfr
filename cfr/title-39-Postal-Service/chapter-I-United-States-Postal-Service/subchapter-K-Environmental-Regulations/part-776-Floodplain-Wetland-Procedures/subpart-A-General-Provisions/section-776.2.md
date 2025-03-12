@@ -1,0 +1,3 @@
+##### § 776.2 Responsibility. #####
+
+The appropriate Manager, Facilities Service Office, or functional equivalent within the Postal Service's facilities organization, in conjunction with the appropriate Vice President, Area Operations, or functional equivalent within the Postal Service's operations organization, are responsible for overall compliance with the regulations in this part pertaining to facilities projects. The Vice President, Area Operations, is responsible for compliance with these regulations for those projects within the Vice President's delegated authority.

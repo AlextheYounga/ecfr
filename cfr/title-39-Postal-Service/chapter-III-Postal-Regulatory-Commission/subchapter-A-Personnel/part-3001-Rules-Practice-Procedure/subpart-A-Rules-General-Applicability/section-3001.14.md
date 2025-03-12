@@ -1,0 +1,3 @@
+##### § 3001.14 Consolidation and separation of proceedings. #####
+
+The Commission, with or without motion, may order proceedings involving related issues or facts to be consolidated for hearing of any or all matters in issue in such proceedings. The Commission may sever proceedings which have been consolidated, or order separate proceedings on any issue presented, if it appears that separate proceedings will be more convenient, expeditious, or otherwise appropriate.

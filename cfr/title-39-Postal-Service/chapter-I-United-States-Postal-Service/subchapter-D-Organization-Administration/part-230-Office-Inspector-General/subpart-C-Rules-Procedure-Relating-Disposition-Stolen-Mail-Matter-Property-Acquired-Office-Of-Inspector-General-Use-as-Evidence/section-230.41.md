@@ -1,0 +1,3 @@
+##### § 230.41 Reconsideration of claims. #####
+
+A written request for reconsideration of denied claims must be based on evidence recently developed or not previously presented. It must be submitted within 10 days of the postmarked date of the letter denying the claim. The ruling official shall advise the Asset Forfeiture Coordinator if a timely reconsideration of the denial is made. The Office of Inspector General, Office of General Counsel shall rule on the reconsideration request.

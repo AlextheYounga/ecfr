@@ -1,0 +1,3 @@
+##### § 946.1 Scope of part. #####
+
+This part prescribes procedures governing the disposition of recovered stolen mail matter and any other property (real, personal, tangible or intangible) obtained by the Postal Inspection Service for possible use as evidence after the need to retain such property no longer exists. Property obtained by Postal Inspectors which appears to have been loose in the mails but is not retained for use as evidence, except unlawful matter, must be treated in accordance with postal regulations concerning disposition of dead mail (see Domestic Manual (DMM) 159.4). Unlawful matter must be disposed of in accordance with § 946.3.

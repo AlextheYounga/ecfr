@@ -1,0 +1,5 @@
+##### § 954.10 Intervention or other participation. #####
+
+To intervene or otherwise participate in a proceeding, any person may file a timely application in accordance with § 954.8(a). A timely application is one which will not unduly delay the proceeding. The application shall state whom the potential intervenor represents, his or her interest, the extent to which he or she desires to participate, and the evidence he or she seeks to introduce. The presiding officer shall fix the time within which the parties shall answer the application. The presiding officer shall grant or deny the application on such terms and conditions as he or she deems appropriate. In so doing the presiding officer will consider, among other things, whether intervention or other participation is consistent with the timely and proper adjudication of the rights of the original parties.
+
+[31 FR 5198, Mar. 31, 1966. Redesignated at 31 FR 16270, Dec. 20, 1966; 62 FR 66998, Dec. 23, 1997]

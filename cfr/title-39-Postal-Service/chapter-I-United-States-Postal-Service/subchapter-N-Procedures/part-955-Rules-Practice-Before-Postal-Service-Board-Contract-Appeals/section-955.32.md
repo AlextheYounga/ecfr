@@ -1,0 +1,3 @@
+##### § 955.32 Dismissal for failure to prosecute. #####
+
+Whenever a record discloses the failure of either party to file documents required by these rules, respond to notices or correspondence from the Board, comply with orders of the Board, or otherwise indicates an intention not to continue the prosecution or defense of an appeal, the Board may issue an order requiring the offending party to show cause why the appeal should not be either dismissed or granted, as appropriate. If the offending party shall fail to show such cause, the Board may take such action as it deems reasonable and proper under the circumstances.

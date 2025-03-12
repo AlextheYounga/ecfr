@@ -1,0 +1,3 @@
+##### § 230.14 Who owns the written or recorded notes, memoranda, reports, and transcriptions made pursuant to an official investigation, audit, or review conducted by an employee of the Office of Inspector General? #####
+
+Notes, memoranda, reports, and transcriptions, whether written or recorded and made pursuant to an official investigation, audit, or review conducted by an employee of the Office of Inspector General, are the property of the Office of Inspector General.

@@ -1,0 +1,3 @@
+##### § 6.5 Minutes of meetings. #####
+
+The Secretary shall preserve the minutes of Board meetings prepared under § 4.6 of these bylaws. After the minutes of any meeting are approved by the Board, the Secretary shall promptly make available to the public, in the Corporate Communications Department at Postal Service Headquarters, or in another place easily accessible to the public, copies of the minutes, except for those portions which contain information inappropriate for public disclosure under 5 U.S.C. 552(b) or 39 U.S.C. 410(c).

@@ -1,0 +1,7 @@
+##### § 960.19 Decision. #####
+
+(a) The adjudicative officer shall issue an initial decision on the application as promptly as possible after completion of proceedings on the application. The decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Postal Service's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust. If the applicant has sought an award against the Postal Service and another agency, the decision shall allocate responsibility for payment of any award made between the Postal Service and the other agency, and shall explain the reasons for the allocation made.
+
+(b) The Board of Contract Appeals shall issue its decision on the application as promptly as possible after completion of proceedings on the application. Whenever possible, the decision shall be made by the same Administrative Judge or panel that decided the contract appeal for which fees are sought. The decision shall be in the format described in paragraph (a) of this section.
+
+[46 FR 45945, Sept. 16, 1981, as amended at 52 FR 6798, Mar. 5, 1987]

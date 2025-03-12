@@ -1,0 +1,5 @@
+##### § 953.16 Disposition. #####
+
+Mail matter found to be nonmailable shall be held at the post office where detained for a period of 15 days from the date of the Postal Service decision, unless that period is extended by the Judicial Officer. During this holding period, the appellant may apply for the withdrawal of the matter. If any such application is made, the General Counsel or Chief Postal Inspector or his or her designee shall be given notice and the opportunity to oppose the application. Upon the expiration of the holding period with no application having been made, the Judicial Officer shall order that the matter be disposed of in accordance with 39 U.S.C. 3001(b). If a timely application is made, the Judicial Officer shall consider the application and any reasons advanced by the General Counsel or Chief Postal Inspector or his or her designee for denying the application. The Judicial Officer shall thereafter order either that the matter be returned to the applicant or that it be disposed of in accordance with 39 U.S.C. 3001(b).
+
+[59 FR 31538, June 20, 1994, as amended at 71 FR 53972, Sept. 13, 2006]

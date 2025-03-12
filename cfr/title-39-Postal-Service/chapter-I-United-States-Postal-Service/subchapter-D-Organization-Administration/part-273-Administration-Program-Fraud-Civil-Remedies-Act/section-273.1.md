@@ -1,0 +1,3 @@
+##### § 273.1 Purpose. #####
+
+This part establishes procedures for imposing civil penalties and assessments under the Program Fraud Civil Remedies Act of 1986 (codified at 31 U.S.C. 3801-3812) against any person who makes, submits, or presents, or causes to be made, submitted, or presented, a false fictitious, or fraudulent claim or written statement to the Postal Service. Procedures governing the hearing and appeal rights of any person alleged to be liable for such penalties and assessments are set forth in part 962 of this title.

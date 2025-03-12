@@ -1,0 +1,3 @@
+##### § 230.21 May the General Counsel to the Inspector General and/or a U.S. Department of Justice attorney represent the employee in any appearance? #####
+
+At the option of the Attorney General, or an authorizing official, an Office of Inspector General legal counsel may represent and assist the employee. The authorizing official designated by the Inspector General may also request assistance from the U.S. Department of Justice in representing and assisting the employee in any appearance.

@@ -1,0 +1,39 @@
+##### § 601.109 Contract claims and disputes. #####
+
+(a) *General.* This section implements the Contract Disputes Act of 1978, as amended (41 U.S.C. 7101-7109). If ADR is used, the SDR official may serve as a mediator for contract performance disagreements prior to bringing a contract claim or dispute under this part.
+
+(b) *Policy.* It is the Postal Service's intent to resolve contractual claims and disputes by mutual agreement at the level of an authorized contracting officer whenever possible. In addition, the Postal Service supports and encourages the use of alternative dispute resolution as an effective way to understand, address, and resolve conflicts with suppliers. Efforts to resolve differences should be made before the issuance of a final decision on a claim, and even when the supplier does not agree to use ADR, the contracting officer should consider holding informal discussions between the parties in order to resolve the conflict before the issuance of a final decision.
+
+(c) *Supplier claim initiation.* Supplier claims must be submitted in writing to the contracting officer for final decision. The contracting officer must document the contract file with evidence of the date of receipt of any submission that the contracting officer determines is a claim. Supplier claims must be submitted within 6 years after accrual of a claim unless the parties agreed to a shorter time period. The 6-year time period does not apply to contracts awarded prior to October 1, 1995.
+
+(d) *Postal Service claim initiation.* The contracting officer must issue a written decision on any Postal Service claim against a supplier, within six years after accrual of a claim, unless the parties agreed in writing to a shorter time period. The 6-year time period does not apply to contracts awarded prior to October 1, 1995, or to a Postal Service claim based on a supplier claim involving fraud.
+
+(e) *Certified claims.* Each supplier claim exceeding $100,000 must be accompanied by a certification in accordance with the supplier's contract.
+
+(f) *Misrepresentation or fraud.* When the contracting officer determines that the supplier is unable to support any part of the claim and there is evidence or reason to believe the inability is attributable to either misrepresentation of fact or fraud on the supplier's part, the contracting officer must deny that part of the claim and refer the matter to the Office of Inspector General.
+
+(g) *Decision and appeal*—(1) *Contracting officer's authority.* A contracting officer is authorized to decide or settle all claims arising under or relating to a contract subject to the Contract Disputes Act, except for:
+
+(i) Claims or disputes for penalties or forfeitures prescribed by statutes or regulation that a Federal agency administers; or
+
+(ii) Claims involving fraud.
+
+(2) *Contracting officer's decision.* The contracting officer must review the facts pertinent to the claim, and may obtain assistance from assigned counsel and other advisors, and issue a final decision in writing. The decision must include a description of the claim or dispute with references to the pertinent contract provisions, a statement of the factual areas of agreement and disagreement, and a statement of the contracting officer's decision with supporting rationale.
+
+(3) *Insufficient information.* When the contracting officer cannot issue a decision because the supplier has not provided sufficient information, the contracting officer may request the required information. Further failure to provide the requested information is an adequate reason to deny the claim.
+
+(4) *Furnishing Decisions.* The contracting officer must furnish a copy of the decision to the supplier by Certified MailTM, return receipt requested, or by any other method that provides evidence of receipt.
+
+(5) *Decisions on claims for $100,000 or less.* If the supplier has asked for a decision within sixty days, the contracting officer must issue a final decision on a claim of $100,000 or less within sixty calendar days of its receipt. The supplier may consider the contracting officer's failure to issue a decision within the applicable time period as a denial of its claim, and may file a suit or appeal on the claim.
+
+(6) *Decisions on certified claims.* For certified claims over $100,000, the contracting officer must either issue a final decision within sixty days of their receipt or notify the supplier within the 60-day period of the time when a decision will be issued. The time period established must be reasonable, taking into account the size and complexity of the claim, the adequacy of the supplier's supporting data, and any other relevant factors.
+
+(7) *Wording of decisions.* The contracting officer's final decision must contain the following paragraph: “This is the final decision of the contracting officer pursuant to the Contract Disputes Act of 1978 and the clause of your contract entitled *Claims and Disputes.* You may appeal this decision to the Postal Service Board of Contract Appeals by filing a notice of appeal within ninety days from the date you receive this decision. You may file the notice of appeal online through the USPS Judicial Officer Department's Electronic Filing System Web site located at *https://uspsjoe.justware.com/JusticeWeb,* or by mailing or otherwise furnishing the notice of appeal to the Postal Service Board of Contract Appeals. You also may appeal by mailing, or otherwise furnishing written notice of appeal to the contracting officer within ninety days from the date you receive this decision. The notice should identify the contract by number, reference this decision, and indicate that an appeal is intended. Alternatively, you may bring an action directly in the United States Court of Federal Claims within twelve months from the date you receive this decision.”
+
+(8) *Additional wording for decisions of $50,000 or less.* When the claim or claims denied total $50,000 or less, the contracting officer must add the following to the paragraph: “In taking an appeal to the Board of Contract Appeals, you may include in your notice of appeal an election to proceed under the Board's small claims (expedited) procedure, which provides for a decision within approximately 120 days, or an election to proceed under the Board's accelerated procedure, which provides for a decision within approximately 180 days. If you do not make an election in the notice of appeal, you may do so by written notice anytime thereafter.”
+
+(9) *Additional wording for decisions over $50,000 up to $100,000.* When the claim or claims denied total $100,000 or less, but more than $50,000, the contracting officer must add the following to the paragraph: “In taking an appeal to the Board of Contract Appeals, you may include in your notice of appeal an election to proceed under the Board's accelerated procedure, which provides for a decision within approximately 180 days. If you do not make an election in the notice of appeal, you may do so by written notice anytime thereafter.”
+
+(10) *Information and resources.* Contracting officers must have sufficient information available at the time a final decision is issued on a claim so resolution of an appeal within the period set for an expedited disposition will not be delayed. Once an appeal is docketed, and expedited disposition is elected, contracting officers must devote sufficient resources to the appeal to ensure the schedule for resolution is met. Nothing in this part precludes an effort by the parties to settle a controversy after an appeal has been filed, although such efforts to settle the controversy will not suspend processing the appeal, unless the Board of Contract Appeals so directs.
+
+[72 FR 58252, Oct. 15, 2007, as amended at 80 FR 31844, June 4, 2015; 81 FR 29146, May 11, 2016]

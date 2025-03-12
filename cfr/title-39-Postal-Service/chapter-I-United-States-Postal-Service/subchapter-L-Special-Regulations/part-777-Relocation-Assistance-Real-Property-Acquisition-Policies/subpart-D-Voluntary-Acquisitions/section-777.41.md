@@ -1,0 +1,5 @@
+##### § 777.41 Acquisition procedures. #####
+
+(a) *Voluntary Acquisitions.* Acquisition rules for voluntary purchases are set out in Handbook RE-1, Realty Acquisition and Management and cover such areas as appraisal and negotiation procedures.
+
+(b) *Tenant-Owned Improvements.* In general the Postal Service deals exclusively with the fee owner on the acquisition of all real property interest at the site. The Postal Service may, however, in exceptional cases deal directly with a tenant on a leasehold improvements matter. Should the Postal Service acquire the fee interest without acquiring rights in a leasehold improvement under circumstances in which the tenant would be entitled to compensation under § 777.32 of this part, if the acquisition were by eminent domain or the under threat thereof, the tenant will be entitled to the benefits that would, under such circumstances, have been paid under § 777.32 of this part, unless the tenant has formally disclaimed further right in the real property improvement beyond the time of the expiration of his or her tenancy.

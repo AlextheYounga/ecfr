@@ -1,0 +1,3 @@
+##### § 601.110 Payment of claims. #####
+
+Any claim amount determined in a final decision to be payable, less any portion previously paid, should be promptly paid to the supplier without prejudice to either party in the event of appeal or action on the claim. In the absence of appeal by the Postal Service, a board or court decision favorable in whole or in part to the supplier must be implemented promptly. In cases when only the question of entitlement has been decided and the matter of amount has been remanded to the parties for negotiation, a final decision of the contracting officer must be issued if agreement is not reached promptly.

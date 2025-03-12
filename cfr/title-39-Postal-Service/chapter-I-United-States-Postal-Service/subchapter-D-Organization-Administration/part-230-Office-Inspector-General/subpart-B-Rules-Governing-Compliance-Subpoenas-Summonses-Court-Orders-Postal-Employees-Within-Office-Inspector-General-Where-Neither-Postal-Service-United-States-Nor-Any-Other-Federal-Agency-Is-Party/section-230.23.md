@@ -1,0 +1,3 @@
+##### § 230.23 May an Office of Inspector General employee testify as an expert or opinion witness? #####
+
+No, an Office of Inspector General employee may not testify as an expert or opinion witness with regard to any matter arising out of the employee's duties or functions at the Office of Inspector General for any party other than the United States, except that in extraordinary circumstances, and where the anticipated testimony will not be adverse to the interest of the United States, the authorizing official may approve such testimony in private litigation. A litigant must first obtain the permission of an authorizing official designated by the Inspector General before designating an Office of Inspector General employee as an expert or opinion witness.

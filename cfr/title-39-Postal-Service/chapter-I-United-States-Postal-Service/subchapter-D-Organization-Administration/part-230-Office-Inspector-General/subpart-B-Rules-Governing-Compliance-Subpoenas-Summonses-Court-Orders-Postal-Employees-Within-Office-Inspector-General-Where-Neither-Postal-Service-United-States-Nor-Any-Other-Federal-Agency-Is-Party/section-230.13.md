@@ -1,0 +1,3 @@
+##### § 230.13 Why are restrictions on Office of Inspector General employees in civil proceedings necessary? #####
+
+The restrictions are intended to reduce the risk of inappropriate disclosures that might affect the operations of the Office of Inspector General; prevent the expenditure of Office of Inspector General or Postal Service resources for private purposes; and ensure that employee time is serving the best interests of the public.

@@ -1,0 +1,5 @@
+##### § 960.22 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the Judicial Officer a copy of the Postal Service's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. Requests for payment should be sent to: Judicial Officer, 2101 Wilson Boulevard, Suite 600, Arlington, VA 22201-3078. The Judicial Officer shall submit certification for payment to the Postal Data Center. The Postal Service will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.
+
+[46 FR 45945, Sept. 16, 1981, as amended at 63 FR 66052, Dec. 1, 1998]

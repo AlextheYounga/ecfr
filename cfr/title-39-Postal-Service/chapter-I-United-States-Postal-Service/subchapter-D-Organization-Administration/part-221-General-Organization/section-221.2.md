@@ -1,0 +1,5 @@
+##### § 221.2 Board of Governors. #####
+
+(a) *Composition.* The Board of Governors consists of 11 members. Nine governors are appointed by the President of the United States, by and with the advice and consent of the Senate. Not more than five governors may be adherents of the same political party. The governors are chosen to represent the public interest generally, and they may not be representatives of specific interests using the Postal Service. The governors may be removed only for cause. The postmaster general and the deputy postmaster general are also voting members of the Board of Governors.
+
+(b) *Responsibilities.* The Board of Governors directs the exercise of the powers of the Postal Service, reviews the practices and policies of the Postal Service, and directs and controls its expenditures.

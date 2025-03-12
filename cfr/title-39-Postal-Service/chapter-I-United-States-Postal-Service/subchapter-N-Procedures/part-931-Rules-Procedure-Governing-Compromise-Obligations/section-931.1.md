@@ -1,0 +1,5 @@
+##### § 931.1 Compromise of obligations. #####
+
+Any proposition of compromise shall be submitted in writing, and the amount offered in compromise shall be deposited with the Manager, Accounting Division or the appropriate postal data center. If the offer in compromise is rejected the amount deposited will be returned. The amount of a compromise offer must be tendered unconditionally for deposit pending the consideration of acceptance. Checks and drafts cannot be accepted as offers in compromise when they bear endorsements or instructions to the effect that the acceptance of such checks or drafts constitutes settlement in full of the claim, fine, penalty, or liability in connection with which the offer is made, except that such checks or drafts may be accepted when they are accompanied with a written waiver of the endorsements or instructions printed thereon. Offers in compromise should be transmitted or delivered to the office or officer of the Postal Service from whom demand is received for payment of the amount due.
+
+(39 U.S.C. 401)[26 FR 11662, Dec. 6, 1961. Redesignated at 33 FR 6291, Apr. 25, 1968]

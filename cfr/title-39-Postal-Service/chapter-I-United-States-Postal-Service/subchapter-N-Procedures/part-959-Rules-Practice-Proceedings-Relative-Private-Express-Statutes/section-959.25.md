@@ -1,0 +1,3 @@
+##### § 959.25 Judicial Officer. #####
+
+The Judicial Officer is authorized (a) to act as presiding officer at hearings, (b) to render tentative decisions, (c) to render final decisions of the Postal Service, (d) to refer the record in any proceedings to the Postmaster General or the Deputy Postmaster General who will make the final decision of the Postal Service, and (e) to revise or amend these rules of practice. The entire official record will be considered before a final decision of the Postal Service is rendered. Before rendering a final decision of the Postal Service, the Judicial Officer may order the hearing reopened for the presentation of additional evidence by the parties.

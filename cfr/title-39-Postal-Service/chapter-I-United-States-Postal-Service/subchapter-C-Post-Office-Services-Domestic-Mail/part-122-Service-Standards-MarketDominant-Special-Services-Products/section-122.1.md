@@ -1,0 +1,9 @@
+##### § 122.1 Ancillary special services. #####
+
+(a) For the market-dominant mail products identified above in part 121, mailers may purchase various ancillary special services products, which are designed to provide electronic access to information regarding delivery-related events or forwarding addresses for individual mailpieces.
+
+(1) For the following special services, the service standard for the electronic provision of delivery-related information is that it be made available to the sender no later than 24 hours after the time of the recorded delivery-related scan performed by the Postal Service on mail for which the following special services have been purchased: Domestic Certified MailTM service, domestic Delivery ConfirmationTM service, domestic and inbound international Registered MailTM service, domestic Collect On Delivery, domestic electronic Return Receipt, and domestic Signature ConfirmationTM scans.
+
+(2) For domestic electronic Address Correction Service, the service standard for the electronic provision of address change information is that it be made available to the sender no later than 24 hours after the time of the scan of the mailpiece by the Postal Automated Redirection System.
+
+(b) For the market-dominant mail products identified above in part 121, mailers may purchase insurance from the Postal ServiceTM to provide indemnity against loss or damage to the contents of a mailpiece. The service standard for the administrative resolution of domestic insurance claims is that a final agency decision must be transmitted to the claimant no later than 30 calendar days after the date on which the Postal Service has received all information from the claimant necessary for analysis of the claim.

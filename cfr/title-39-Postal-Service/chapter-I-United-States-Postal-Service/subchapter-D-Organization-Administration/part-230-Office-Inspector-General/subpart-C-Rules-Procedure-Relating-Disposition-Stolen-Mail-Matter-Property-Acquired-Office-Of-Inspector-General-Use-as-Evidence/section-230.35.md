@@ -1,0 +1,3 @@
+##### § 230.35 Disposition of property of unknown owners where property is valued at $200 or less. #####
+
+Where the owner of property subject to this subpart is unknown and the estimated value of the property is $200 or less, no notice is required, and the Executive Special Agent in Charge, or a designee, should vest title in the Government, subject to the rights of the owner to submit a valid claim as provided in § 230.38.

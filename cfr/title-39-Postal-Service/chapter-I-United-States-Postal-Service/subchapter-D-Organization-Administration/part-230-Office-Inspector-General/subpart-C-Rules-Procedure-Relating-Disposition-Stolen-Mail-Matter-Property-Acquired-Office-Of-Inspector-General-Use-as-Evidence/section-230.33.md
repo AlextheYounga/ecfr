@@ -1,0 +1,3 @@
+##### § 230.33 Disposition of property of apparent owners where property is valued at $200 or less. #####
+
+Where an apparent owner of property subject to this subpart is known, and the estimated value of the property is $200 or less, the Executive Special Agent in Charge, or a designee, should attempt to return the property to the owner. If successful, the Executive Special Agent in Charge shall request the owner sign a Hold Harmless Agreement. If not, the Executive Special Agent in Charge shall vest title in the Government.

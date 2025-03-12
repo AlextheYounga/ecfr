@@ -1,0 +1,5 @@
+##### § 961.10 Effect of Hearing Official's decision; motion for reconsideration. #####
+
+(a) After the receipt of written submissions or after the conclusion of the hearing and the receipt of post-hearing briefs, if any, the Hearing Official shall issue a written decision, which shall include the findings of fact and conclusions of law, relied upon.
+
+(b) The Hearing Official shall send each party a copy of the decision. The Hearing Official's decision shall be the final administrative determination on the employee's debt or repayment schedule. No reconsideration of the decision will be allowed unless a motion for reconsideration is filed within 10 days from receipt of the decision and shows good cause for reconsideration. Reconsideration will be allowed only in the discretion of the Hearing Official. A motion for reconsideration by the employee will not operate to stay a collection action authorized by the Hearing Official's decision.

@@ -1,0 +1,3 @@
+##### § 3001.22 Requests for waiver. #####
+
+Upon request by motion, any requirement of any subpart of this Part 3001 may be waived in whole or in part to the extent permitted by law upon a showing that such waiver will not unduly prejudice the interests of other participants and is consistent with the public interest and the Commission's expeditious discharge of its responsibilities under the Act. A request for waiver shall not be entertained unless it is timely filed so as to permit Commission disposition of the request prior to the date specified for the requirement for which waiver is requested. The pendency of a request for waiver does not justify or excuse any person from timely meeting the requirements of this part.

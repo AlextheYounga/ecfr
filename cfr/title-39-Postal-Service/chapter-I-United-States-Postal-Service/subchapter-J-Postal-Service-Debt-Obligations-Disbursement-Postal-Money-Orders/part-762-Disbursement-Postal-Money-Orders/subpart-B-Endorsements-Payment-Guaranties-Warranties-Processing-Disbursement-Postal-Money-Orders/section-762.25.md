@@ -1,0 +1,3 @@
+##### § 762.25 Reclamation of amounts of paid disbursement postal money orders. #####
+
+The Postal Service shall have the right to demand refund from the presenting bank of the amount of a paid Disbursement Postal Money Order if after payment the Disbursement Postal Money Order is found to bear a forged or unauthorized endorsement, or an endorsement by another for a deceased payee where the right to the proceeds of such Disbursement Postal Money Orders terminated upon the death of the payee, or to contain any other material defect or alteration which was not discovered upon first examination. If refund is not made, the Postal Service shall take such action against the proper parties as may be necessary to protect its interests.

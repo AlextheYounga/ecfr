@@ -1,0 +1,3 @@
+##### § 762.26 Postal facilities not to cash disbursement postal money orders. #####
+
+Post offices and other postal facilities shall not be expected to cash Disbursement Postal Money Orders or to return cash for endorsed Disbursement Postal Money Orders offered in payment for postal service in amounts less than the value of a Disbursement Postal Money Order. However, properly endorsed Disbursement Postal Money Orders may be accepted as total or partial payment for postal services.

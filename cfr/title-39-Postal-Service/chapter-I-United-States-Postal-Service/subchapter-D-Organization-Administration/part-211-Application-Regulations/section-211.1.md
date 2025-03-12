@@ -1,0 +1,3 @@
+##### § 211.1 Disposition of former title 39, U.S.C. #####
+
+Except as otherwise continued in effect as postal regulations, all provisions of former title 39, U.S.C., which were continued in effect as regulations of the Postal Service by section 5(f) of the Postal Reorganization Act, are revoked. This revocation does not apply to postal regulations which embody or are derived from provisions of former title 39.

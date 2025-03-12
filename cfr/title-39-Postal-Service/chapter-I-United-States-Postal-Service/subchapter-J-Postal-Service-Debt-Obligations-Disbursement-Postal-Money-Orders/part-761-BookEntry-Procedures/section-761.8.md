@@ -1,0 +1,3 @@
+##### § 761.8 Servicing book-entry Postal Service securities; payment of interest, payment at maturity or upon call. #####
+
+Interest becoming due on book-entry Postal Service securities shall be charged in the Postal Service Fund on the interest due date and remitted or credited in accordance with the depositor's instructions. Such securities shall be redeemed and charged in the Postal Service Fund on the date of maturity, call or advance refunding, and the redemption proceeds, principal and interest, shall be disposed of in accordance with the depositor's instructions.

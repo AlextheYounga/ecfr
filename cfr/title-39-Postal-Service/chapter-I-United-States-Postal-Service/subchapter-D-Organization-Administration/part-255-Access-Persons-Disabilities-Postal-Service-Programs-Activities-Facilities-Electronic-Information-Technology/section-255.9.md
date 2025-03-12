@@ -1,0 +1,3 @@
+##### § 255.9 Other postal regulations; authority of postal managers and employees. #####
+
+This part supplements all other postal regulations. Nothing in this part is intended either to repeal, modify, or amend any other postal regulation, to authorize any postal manager or employee to violate or exceed any regulatory limit, or to confer any budgetary authority on any postal official or employee outside normal budgetary procedures.

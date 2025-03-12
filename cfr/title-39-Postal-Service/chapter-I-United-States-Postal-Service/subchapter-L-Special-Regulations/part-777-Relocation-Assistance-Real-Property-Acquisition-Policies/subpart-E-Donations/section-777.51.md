@@ -1,0 +1,3 @@
+##### § 777.51 Acceptance of donations. #####
+
+Nothing in these regulations shall prevent a person from making a gift or donation of real property or any part thereof, or any interest therein, or of any compensation paid therefor, to the Postal Service. The Postal Service may obtain an appraisal of the real property for income tax or other purposes if the owner thereof requests the Postal Service to do so.

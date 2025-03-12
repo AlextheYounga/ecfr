@@ -1,0 +1,3 @@
+##### § 230.12 Can Office of Inspector General employees testify or produce documents that would assist me in my civil proceeding? #####
+
+No current or former employee within the Office of Inspector General may testify or produce documents concerning information acquired in the course of employment or as a result of his or her relationship with the Postal Service in any proceeding to which this subpart applies (see § 230.10), unless authorized to do so by an authorizing official.

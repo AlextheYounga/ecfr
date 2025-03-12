@@ -1,0 +1,3 @@
+##### § 230.40 Determination of claims. #####
+
+Upon receipt of a claim under this subpart, the Office of Inspector General must conduct an investigation to determine the merits of the claim. The results of the investigation must be submitted to the ruling official, who must approve or deny the claim by written decision, a copy of which must be forwarded to the claimant by certified mail. If the claim is granted, the conditions of relief and the procedures to be followed to obtain the relief shall be set forth. If the claim is denied, the claimant shall be advised of the reason for such denial. For claims involving firearms or contraband, the ruling official shall consult with the Office of Inspector General, Office of General Counsel prior to rendering a decision.

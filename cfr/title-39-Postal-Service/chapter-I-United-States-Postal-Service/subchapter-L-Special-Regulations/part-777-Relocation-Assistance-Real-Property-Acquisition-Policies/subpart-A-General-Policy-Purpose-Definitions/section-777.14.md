@@ -1,0 +1,3 @@
+##### § 777.14 Certain indirect actions prohibited. #####
+
+Postal employees shall take no indirect, coercive, or deceptive actions to cause persons to move from real property in an effort to avoid the circumstances under which such persons would be eligible to receive relocation benefits as displaced persons under these regulations. If a claimant demonstrates that such prohibited action caused him or her to move, he or she will be treated as a displaced person hereunder, if he or she otherwise meets the definition of a displaced person.

@@ -1,0 +1,9 @@
+##### § 230.38 Disposition of abandoned property; additional period for filing claims. #####
+
+(a) Upon expiration of the time provided in §§ 230.32 and 230.34 for the filing of claims or any extension thereof, and without the receipt of a timely claim, the property described in the notice is considered abandoned and becomes the property of the Government. However, if the owner satisfies the requirements of paragraph (b) of this section, except for property described in § 230.36, such abandoned property must be returned to the owner if a valid claim is filed within three years from the date the property became abandoned, with the following qualifications:
+
+(1) Where property has been placed in official use by the Office of Inspector General, a person submitting a valid claim under this section must be reimbursed the fair market value of the property at the time title vested in the Office of Inspector General, less costs incurred in returning or attempting to return such property to the owner; or
+
+(2) Where property has been sold, a person submitting a valid claim under this section must be reimbursed the same amount as the last appraised value of the property prior to the sale of such property.
+
+(b) In order to present a valid claim under paragraph (a) of this section, the claimant must establish he or she had no actual or constructive notice that he or she was entitled to file a claim pursuant to § 230.32 or § 230.34 prior to the date the property became abandoned. Publication of a notice pursuant to § 230.34 provides constructive notice, unless a claimant can demonstrate circumstances that reasonably precluded his or her access to the published notice.

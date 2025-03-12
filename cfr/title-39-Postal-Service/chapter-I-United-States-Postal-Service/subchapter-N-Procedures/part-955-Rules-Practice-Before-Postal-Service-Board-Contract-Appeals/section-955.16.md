@@ -1,0 +1,7 @@
+##### § 955.16 Interrogatories to parties, admission of facts, and production and inspection of documents. #####
+
+(a) *Interrogatories to parties.* After an appeal has been filed with the Board, a party may serve on the other party written interrogatories to be answered separately in writing, signed under oath and returned within 30 days. Upon timely objection, the Board will determine the extent to which the interrogatories will be permitted. The scope and use of interrogatories will be controlled by § 955.15.
+
+(b) *Admission of facts.* After an appeal has been filed with the Board, a party may serve upon the other party a request for the admission of specified facts. Within 30 days after service, the party served shall answer each requested fact or file objections thereto. The factual propositions set out in the request may be ordered by the Board as deemed admitted upon the failure of a party to respond timely and fully to the request for admissions.
+
+(c) *Production and inspection of documents.* After an appeal has been filed with the Board, a party may serve on the other party written requests for the production, inspection, and copying of any documents, electronically stored information, or things, to be answered within 30 days. Upon timely objection, the Board will determine the extent to which the requests must be satisfied, and if the parties cannot themselves agree thereon, the Board shall specify just terms and conditions of compliance.

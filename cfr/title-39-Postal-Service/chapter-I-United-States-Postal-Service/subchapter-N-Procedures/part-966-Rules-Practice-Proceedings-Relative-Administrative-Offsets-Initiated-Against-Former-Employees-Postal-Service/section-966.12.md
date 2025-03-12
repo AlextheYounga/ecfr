@@ -1,0 +1,9 @@
+##### § 966.12 Waiver of rights. #####
+
+(a) The Hearing Official may determine that the former employee has waived the right to a hearing, and that administrative offset may be initiated if the former employee files a petition for hearing after the period prescribed in these Rules and fails to demonstrate to the satisfaction of the Hearing Official good cause for the delay; or has filed a withdrawal of the former employee's previous petition for a hearing.
+
+(b) The Hearing Official may determine that the Postal Service has waived the alleged debt at issue, and that the administrative offset may not be initiated if the Postal Service fails to file the answer within the period prescribed by the Rules and fails to demonstrate to the satisfaction of the Hearing Official good cause for the delay; or has filed a withdrawal of the debt determination at issue.
+
+(c) In addition, whenever a record discloses the failure of either party to file documents required by these rules, respond to notices or correspondence from the Hearing Official, comply with orders of the Hearing Official, participate in conferences, fail to treat the proceedings with the proper decorum, or otherwise indicate an intention not to continue the prosecution or defense of a petition, the Hearing Official may issue an order requiring the offending party to show cause why the petition should not be dismissed or granted, as appropriate. If the offending party shall fail to show cause, the Hearing Official may take such action as he or she deems reasonable and proper under the circumstances, including dismissal or granting of the petition as appropriate.
+
+[77 FR 65106, Oct. 25, 2012]

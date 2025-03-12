@@ -1,0 +1,7 @@
+##### § 952.11 Default. #####
+
+(a) If Respondent fails to file an answer within the time specified in the notice of docketing and answer, Respondent may be deemed in default, and to have waived hearing and further procedural steps. The Judicial Officer may thereafter issue orders and/or assess civil penalties without further notice.
+
+(b) If Respondent files an answer but fails to appear at the hearing, Respondent may, unless timely indications to the contrary are received, be deemed to have abandoned the intention to present a defense to the charges of the complaint, and the Judicial Officer, without further notice to Respondent, may issue the orders and/or assess civil penalties sought in the complaint.
+
+(c) If Respondent or Complainant fails to respond to or comply with an order of the presiding officer, the party may be held in default, and absent good cause shown, the party may be deemed to have abandoned the intention to present a defense, or to prosecute the complaint, and the presiding officer or Judicial Officer, without further notice to the offending party, may, as appropriate, dismiss the complaint or issue the orders and/or assess civil penalties sought in the complaint.

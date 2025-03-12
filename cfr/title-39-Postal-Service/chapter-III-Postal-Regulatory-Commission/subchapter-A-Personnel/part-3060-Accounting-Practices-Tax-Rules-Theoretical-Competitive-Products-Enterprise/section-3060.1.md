@@ -1,0 +1,3 @@
+##### § 3060.1 Scope. #####
+
+The rules in this part are applicable to the Postal Service's theoretical competitive products enterprise developed pursuant to 39 U.S.C. 2011 and 3634 and to the Postal Service's obligation to calculate annually an assumed Federal income tax on competitive products income and transfer annually any such assumed Federal income tax due from the Competitive Products Fund to the Postal Service Fund.

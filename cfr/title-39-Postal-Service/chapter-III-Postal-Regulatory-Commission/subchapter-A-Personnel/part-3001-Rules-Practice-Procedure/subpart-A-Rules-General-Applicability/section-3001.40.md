@@ -1,0 +1,9 @@
+##### § 3001.40 Exceptions to intermediate decisions. #####
+
+(a) *Briefs on exceptions and opposing exceptions.* Any participant in a proceeding may file exceptions to any intermediate decision by filing a brief on exceptions with the Commission within 30 days after the date of issuance of the intermediate decision or such other time as may be fixed by the Commission. Any participant to a proceeding may file a response to briefs on exceptions within 20 days after the time limited for the filing of briefs on exceptions or such other time as may be fixed by the Commission. No further response will be entertained unless the Commission, upon motion for good cause shown or on its own initiative, so orders.
+
+(b) *Filing and contents.* Briefs on exceptions and briefs opposing exceptions shall be filed in accordance with § 3001.34. In briefs on exceptions, the discussion of evidence, reasons and authorities shall be specifically directed to the findings, conclusions and recommendations in the intermediate decision to which exception is taken. Briefs on exceptions should not include a discussion of evidence and authorities on matters and issues to which no exception to the intermediate decision is taken. Briefs on exceptions and briefs opposing exceptions need not contain a statement of the case to the extent that it was correctly stated in either the intermediate decision or the brief on exceptions of another participant to which reference is made.
+
+(c) *Failure to except results in waiver.* Any participant who fails to except or object to any part of an intermediate decision in its brief on exceptions may not thereafter raise such exceptions or objections which shall be deemed to have been waived.
+
+[36 FR 396, Jan. 12, 1971, as amended at 38 FR 4329, Feb. 13, 1973; 78 FR 36440, June 18, 2013]

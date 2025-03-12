@@ -1,0 +1,3 @@
+##### § 230.32 Disposition of property of apparent owners where property is valued over $200. #####
+
+Where an apparent owner of property subject to this subpart is known, and the estimated value of the property exceeds $200, the owner shall be notified by certified mail at his last known address. The written notice shall describe the property and the procedure for filing a claim for its return (*see,* §§ 230.36 and 230.39). Such claims must be filed within 30 days from the date the written notice is postmarked. If the apparent owner of the property fails to file a timely claim, the property is considered abandoned and must be disposed of as provided in § 230.38.

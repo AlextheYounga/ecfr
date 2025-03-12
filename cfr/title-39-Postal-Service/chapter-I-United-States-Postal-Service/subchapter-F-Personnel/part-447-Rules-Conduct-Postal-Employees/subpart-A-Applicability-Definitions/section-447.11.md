@@ -1,0 +1,3 @@
+##### § 447.11 Applicability. #####
+
+This part contains rules of conduct for the employees of the Postal Service. Employees are required to comply with the regulations in this part, and violations of the regulations may be cause for disciplinary action. The regulations in this part are in addition to other rules of conduct provided by applicable statutes, regulations, or Postal Service handbooks and manuals. For applicable rules of ethical conduct, employees are referred to the Standards of Ethical Conduct for Employees of the Executive Branch, 5 CFR part 2635, and Postal Service regulations supplemental thereto, 5 CFR part 7001.

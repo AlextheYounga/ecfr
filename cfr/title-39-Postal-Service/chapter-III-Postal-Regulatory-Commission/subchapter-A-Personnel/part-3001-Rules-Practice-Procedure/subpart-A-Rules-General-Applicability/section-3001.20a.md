@@ -1,0 +1,11 @@
+##### § 3001.20a Limited participation by persons not parties. #####
+
+Except for cases noticed for a proceeding under subpart D of this part, any person may, notwithstanding the provisions of § 3001.20, appear as a limited participator in any case that is noticed for a proceeding pursuant to § 3001.17(a) in accordance with the following provisions:
+
+(a) *Form of intervention.* Notices of intervention as a limited participator shall be in writing, shall set forth the nature and extent of the intervenor's interest in the proceeding, and shall conform to the requirements of §§ 3001.9 through 3001.12.
+
+(b) *Oppositions.* Oppositions to notices to intervene as a limited participator may be filed by any participant in the proceeding no later than 10 days after the notice of intervention as a limited participator is filed.
+
+(c) *Scope of participation.* Subject to the provisions of § 3001.30(f), limited participators may present evidence which is relevant to the issues involved in the proceeding and their testimony shall be subject to cross-examination on the same terms applicable to that of formal participants. Limited participators may file briefs or proposed findings pursuant to §§ 3001.34 and 3001.35, and within 15 days after the release of an intermediate decision, or such other time as may be fixed by the Commission, they may file a written statement of their position on the issues. The Commission or the presiding officer may require limited participators having substantially like interests and positions to join together for any or all of the above purposes. Limited participators are not required to respond to discovery requests under §§ 3001.25 through 3001.28 except to the extent that those requests are directed specifically to testimony which the limited participators provided in the proceeding; however, limited participators are advised that failure to provide relevant and material information in support of their claims will be taken into account in determining the weight to be placed on their evidence and arguments.
+
+[48 FR 15627, Apr. 12, 1983, as amended at 58 FR 38976, July 21, 1993; 60 FR 12115, Mar. 6, 1995; 65 FR 6540, Feb. 10, 2000; 67 FR 67561, Nov. 6, 2002; 78 FR 36438, June 18, 2013; 79 FR 33407, June 10, 2014]

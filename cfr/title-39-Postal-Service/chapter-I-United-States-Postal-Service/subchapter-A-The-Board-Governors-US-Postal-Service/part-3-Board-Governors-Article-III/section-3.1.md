@@ -1,0 +1,3 @@
+##### § 3.1 Composition and responsibilities of Board. #####
+
+The composition of the Board is described in 39 U.S.C. 202. The Board directs the exercise of the powers of the Postal Service, reviews the practices and policies of the Postal Service, and directs and controls the expenditures of the Postal Service. Consistent with the broad delegation of authority to the Postmaster General in § 3.5 of these bylaws, and except for those powers, duties, or obligations which are specifically vested by statute in the Governors, as distinguished from the Board of Governors, the Board accomplishes its purposes by monitoring the operations and performance of the Postal Service, and by establishing basic objectives, broad policies, and long-range goals for the Postal Service.

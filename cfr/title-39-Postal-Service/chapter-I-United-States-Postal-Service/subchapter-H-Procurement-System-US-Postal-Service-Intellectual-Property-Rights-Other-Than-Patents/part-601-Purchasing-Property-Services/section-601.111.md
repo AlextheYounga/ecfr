@@ -1,0 +1,3 @@
+##### § 601.111 Interest on claim amounts. #####
+
+Interest on the amount found due on the supplier's claim must be paid from the date the contracting officer received the claim (properly certified, if required) or from the date payment would otherwise be due, if that date is later, until the date of payment. Simple interest will be paid at the rate established by the Secretary of the Treasury for each 6-month period in which the claim is pending. Information on the rate at which interest is payable is announced periodically in the *Postal Bulletin.*

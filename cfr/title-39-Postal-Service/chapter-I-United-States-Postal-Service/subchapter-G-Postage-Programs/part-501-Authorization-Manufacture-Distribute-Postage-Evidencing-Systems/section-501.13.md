@@ -1,0 +1,3 @@
+##### § 501.13 False representations of Postal Service actions. #####
+
+Providers, their agents, and employees must not intentionally misrepresent to customers of the Postal Service decisions, actions, or proposed actions of the Postal Service respecting its regulation of Postage Evidencing Systems. The Postal Service reserves the right to suspend and/or revoke the authorization to manufacture or distribute Postage Evidencing Systems throughout the United States or any part thereof pursuant to § 501.6 when it determines that the provider, its agents, or employees failed to comply with this section.

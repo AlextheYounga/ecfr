@@ -1,0 +1,3 @@
+##### § 501.19 Intellectual property. #####
+
+Providers submitting Postage Evidencing Systems to the Postal Service for approval are responsible for obtaining all intellectual property licenses that may be required to distribute their product in commerce and to allow the Postal Service to process mail bearing the indicia produced by the Postage Evidencing System. To the extent approval is granted and the Postage Evidencing System is capable of being used in commerce, the provider shall indemnify the Postal Service for use of such intellectual property in both the use of the Postage Evidencing System and the processing of mail bearing indicia produced by the Postage Evidencing System.

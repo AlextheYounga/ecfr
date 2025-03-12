@@ -1,0 +1,3 @@
+##### § 551.2 Semipostal stamps. #####
+
+Semipostal stamps are stamps that are sold for a price that exceeds the postage value of the stamp. The difference between the price and postage value of semipostal stamps, also known as the differential, less an offset for reasonable costs, as determined by the Postal Service, consists of a contribution to fund causes determined by the Postal Service to be in the national public interest and appropriate. Funds are to be transferred to selected recipient executive agencies, as defined under 5 U.S.C. 105. The office of Stamp Services determines the print quantities of semipostal stamps. The use of semipostal stamps shall be voluntary on the part of postal patrons.

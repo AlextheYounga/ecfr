@@ -1,0 +1,3 @@
+##### § 4.4 Deputy Postmaster General. #####
+
+The appointment and role of the Deputy Postmaster General are described at 39 U.S.C. 202(d), 203. The Deputy Postmaster General shall act as Postmaster General during the Postmaster General's absence or disability, and when a vacancy exists in the office of Postmaster General. The Governors set the compensation and benefits of the Deputy Postmaster General, subject to 39 U.S.C. 1003(a) and 3686.

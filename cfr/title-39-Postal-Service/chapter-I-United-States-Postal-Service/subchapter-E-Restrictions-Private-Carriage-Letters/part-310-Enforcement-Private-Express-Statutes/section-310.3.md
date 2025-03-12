@@ -1,0 +1,23 @@
+##### § 310.3 Exceptions. #####
+
+(a) *Cargo.* The sending or carrying of letters is permissible if they accompany and relate in all substantial respects to some part of the cargo or to the ordering, shipping or delivering of the cargo.
+
+(b) *Letters of the carrier.* (1) The sending or carrying of letters is permissible if they are sent by or addressed to the person carrying them. If the individual actually carrying the letters is not the person sending the letters or to whom the letters are addressed, then such individual must be an officer or employee of such person (see § 310.3(b)(2)) and the letters must relate to the current business of such person.
+
+(2) The fact that the individual actually carrying the letters may be an officer or employee of the person sending the letters or to whom the letters are addressed for certain purposes does not necessarily mean that he is an officer or employee for purposes of this exception. The following factors bear on qualifications for the exception: the carrying employee is employed for a substantial time, if not fulltime (letters must not be privately carried by casual employees); the carrying employee carries no matter for other senders; the carrying employee is a regular salaried employee and shares in all privileges enjoyed by other regular employees (including employees not engaged primarily by the letter carrying function), including but not limited to salary, annual vacation time, absence allowed for illness, health benefits, workmen's compensation insurance, and retirement benefits.
+
+(3) Separately incorporated carriers are separate entities for purposes of this exception, regardless of any subsidiary, ownership, or leasing arrangement. When, however, two concerns jointly operate an enterprise with joint employees and share directly in its revenues and expenses, either of the concerns may carry the letters of the joint enterprise.
+
+(c) *Private hands without compensation.* The sending or carrying of letters without compensation is permitted. Compensation generally consists of a monetary payment for services rendered. Compensation may also consist, however, of non-monetary valuable consideration and of good will Thus, for example, when a business relationship exists or is sought between the carrier and its user, carriage by the carrier of the user's letter will ordinarily not fall under this exception; or, when a person is engaged in the transportation of goods or persons for hire, his carrying of letters “free of charge” for customers whom he does charge for the carriage of goods or persons does not fall under this exception.
+
+(d) *Special messenger.* (1) The use of a special messenger employed for the particular occasion only is permissible to transmit letters if not more than twenty-five letters are involved. The permission granted under this exception is restricted to use of messenger service on an infrequent, irregular basis by the sender or addressee of the message.
+
+(2) A special messenger is a person who, at the request of either the sender or the addressee, picks up a letter from the sender's home or place of business and carries it to the addressees home or place of business, but a messenger or carrier operating regularly between fixed points is not a special messenger.
+
+(e) *Carriage prior or subsequent to mailing.* (1) The private carriage of letters which enter the mail stream at some point between their origin and their destination is permissible. Except as provided in paragraph (e)(3) of this section, however, the carriage of letters from a place where they have been opened, read, separated, or otherwise utilized, does not fall within this exception even though such letters had previously been in the mail stream. Similarly, the carriage of letters to a place where they will be consolidated or otherwise utilized does not fall within this exception even though they will subsequently enter the mail stream.
+
+(2) Examples of permitted activities are the pickup and carriage of letters which are delivered to post offices for mailing; the pickup and carriage of letters at post offices for delivery to addressees; and the bulk shipment of individually addressed letters ultimately carried by the Postal Service.
+
+(3) The private carriage of letters from branches of an organization to a location for preparation for mailing does not constitute a consolidation. The private carriage of letters from an organization's point of mail delivery to its branches in the locality does not constitute a separation.
+
+[39 FR 33211, Sept. 16, 1974, as amended at 44 FR 52834, Sept. 11, 1979; 45 FR 59873, Sept. 11, 1980]

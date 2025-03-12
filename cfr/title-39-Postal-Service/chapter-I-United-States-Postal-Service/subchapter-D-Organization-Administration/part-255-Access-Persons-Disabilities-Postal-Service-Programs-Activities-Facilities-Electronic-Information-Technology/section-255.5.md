@@ -1,0 +1,3 @@
+##### § 255.5 Employment. #####
+
+No qualified individual with a disability shall, on the basis of disability, be subjected to discrimination in employment with the Postal Service. The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973, as established by the Equal Employment Opportunity Commission in 29 CFR part 1614 shall apply to employment within the Postal Service.

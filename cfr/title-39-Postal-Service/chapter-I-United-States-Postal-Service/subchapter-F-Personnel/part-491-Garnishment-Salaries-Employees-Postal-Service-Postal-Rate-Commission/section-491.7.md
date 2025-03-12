@@ -1,0 +1,5 @@
+##### § 491.7 Release of information. #####
+
+(a) No employee whose duties include responding to interrogatories to garnishments shall release information in response to a garnishment until it is determined that sufficient information, as required in § 491.4, has been received in writing as part of the garnishment legal process. The Authorized Agent may, at his or her sole discretion, accept or initiate telephone or telefax inquiries concerning garnishments. No other employee may release any information about employees except in conformity with the Privacy Act of 1974, 5 U.S.C. 552a, and the regulations in 39 CFR Part 266, “Privacy of Information.”
+
+(b) The Authorized Agent's response to legal process is sufficient if it contains only that information not otherwise protected from release by any federal statute including the Privacy Act. Neither the Postal Service nor the Postal Rate Commission shall be required to provide formal answers to interrogatories received prior to the receipt of legal process. Employment verification may be obtained by accessing the Postal Service's employment verification system by dialing 1-(800) 276-9850.

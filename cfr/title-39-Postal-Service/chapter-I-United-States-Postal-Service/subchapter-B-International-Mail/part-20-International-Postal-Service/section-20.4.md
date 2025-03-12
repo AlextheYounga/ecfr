@@ -1,0 +1,3 @@
+##### § 20.4 Amendments to the International Mail Manual. #####
+
+New issues of the International Mail Manual will be incorporated by reference into this part and will be available at *http://pe.usps.gov.* The text of amendments to the International Mail Manual will be published in the Federal Register and will be available in the Postal Bulletin, copies of which may be accessed at *http://www.usps.com/cpim/ftp/bulletin/pb.htm.*

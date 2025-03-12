@@ -1,0 +1,3 @@
+##### § 955.31 Dismissal without prejudice. #####
+
+In certain cases, appeals docketed before the Board are required to be placed in a suspense status and the Board is unable to proceed with disposition thereof for reasons not within the control of the Board. In any such case where the suspension has continued, or it appears that it will continue, for an inordinate length of time, the Board may, in its discretion, dismiss such appeals from its docket without prejudice to their restoration when the cause of suspension has been removed. Unless either party or the Board acts within three years to reinstate any appeal dismissed without prejudice, the dismissal shall be deemed with prejudice.

@@ -1,0 +1,5 @@
+##### § 111.1 Mailing Standards of the United States Postal Service, Domestic Mail Manual; incorporated by reference of regulations governing domestic mail services. #####
+
+Section 552(a) of title 5, U.S.C., relating to the public information requirements of the Administrative Procedure Act, provides in pertinent part that “\* \* \* matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.” In conformity with that provision, and with 39 U.S.C. section 410(b)(1), and as provided in this part, the U.S. Postal Service hereby incorporates by reference in this part, the Mailing Standards of the United States Postal Service, Domestic Mail Manual, a looseleaf document published and maintained by the Postal Service.
+
+[62 FR 14827, Mar. 28, 1997, as amended at 69 FR 59139, Oct. 4, 2004; 70 FR 14535, Mar. 23, 2005]

@@ -1,0 +1,3 @@
+##### § 2.2 Agent for receipt of process. #####
+
+The General Counsel of the Postal Service shall act as agent for the receipt of legal process against the Postal Service, and as agent for the receipt of legal process against the Board of Governors or a member of the Board, in his or her official capacity, and all other officers and employees of the Postal Service to the extent that the process arises out of the official functions of those officers and employees. The General Counsel shall also issue public certifications concerning closed meetings of the Board as appropriate under 5 U.S.C. 552b(f).

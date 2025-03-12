@@ -1,0 +1,5 @@
+##### § 255.1 Purpose. #####
+
+(a) This part implements section 504 of the Rehabilitation Act of 1973, as amended. Section 504 prohibits discrimination on the basis of disability in programs or activities conducted by executive agencies or by the Postal Service. This part also implements section 508 of the Rehabilitation Act of 1973, as amended. Section 508 requires that executive agencies and the Postal Service ensure, absent an undue burden, that individuals with disabilities have access to electronic and information technology that is comparable to the access of individuals who are not disabled.
+
+(b) The standards relating to electronic and information technology expressed in this part are intended to be consistent with the standards announced by the Architectural and Transportation Barriers Compliance Board on December 21, 2000. Those standards are codified at 36 CFR part 1194.

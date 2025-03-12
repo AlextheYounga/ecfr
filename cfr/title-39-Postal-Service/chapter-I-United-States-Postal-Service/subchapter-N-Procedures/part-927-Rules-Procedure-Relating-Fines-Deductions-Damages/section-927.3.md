@@ -1,0 +1,3 @@
+##### § 927.3 Other remedies. #####
+
+The procedures and other requirements of this part apply only where the Postal Service proposes to assess penalties, fines, deductions, or damages. This part does not limit other remedies available to the Postal Service, including such remedies as summary action to withhold tender of mail to protect the public interest in the event of major irregularities such as theft, deliberate loss, damage, abandonment of the mail or service failures by the air carrier.

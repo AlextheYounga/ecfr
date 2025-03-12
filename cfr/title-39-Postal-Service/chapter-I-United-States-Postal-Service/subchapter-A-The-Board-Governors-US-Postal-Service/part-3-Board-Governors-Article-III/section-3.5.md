@@ -1,0 +1,3 @@
+##### § 3.5 Delegation of authority by Board. #####
+
+As authorized by 39 U.S.C. 402, these bylaws delegate to the Postmaster General the authority to exercise the powers of the Postal Service to the extent that this delegation of authority does not conflict with powers reserved to the Governors or to the Board by law, these bylaws, or resolutions adopted by the Board. Any of the powers delegated to the Postmaster General by these bylaws may be redelegated by the Postmaster General to any officer, employee, or agency of the Postal Service.

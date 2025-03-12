@@ -1,0 +1,3 @@
+##### § 230.15 What must an Office of Inspector General employee do if served with a demand requiring the production of documents or an appearance in court? #####
+
+If an Office of Inspector General employee is served with a demand requiring the production of documents or an appearance in court, the employee must promptly inform the authorizing official of the nature of the documents or testimony sought and all relevant facts and circumstances. Office of Inspector General employees are directed to appear as the subpoena or summons may require, but may not testify or produce documents unless authorized.

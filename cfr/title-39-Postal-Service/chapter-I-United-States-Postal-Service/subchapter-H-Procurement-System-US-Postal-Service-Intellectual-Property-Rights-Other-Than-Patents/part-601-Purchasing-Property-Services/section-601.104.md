@@ -1,0 +1,3 @@
+##### § 601.104 Postal purchasing authority. #####
+
+Only the Postmaster General/CEO; the Postal Service's vice president, Supply Management; contracting officers with written statements of specific authority; and others designated in writing or listed in this part have the authority to bind the Postal Service with respect to entering into, modifying, or terminating any contract regarding the acquisition of property, services, and related purchasing matters. The Postal Service's vice president, Supply Management, or his or her designee, may also delegate in writing local buying authority throughout the Postal Service.
