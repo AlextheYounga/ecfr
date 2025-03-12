@@ -1,5 +1,7 @@
 ##### § 418.22 Certification of terminal illness. #####
 
+Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
+
 (a) *Timing of certification*—(1) *General rule.* The hospice must obtain written certification of terminal illness for each of the periods listed in § 418.21, even if a single election continues in effect for an unlimited number of periods, as provided in § 418.24(c).
 
 (2) *Basic requirement.* Except as provided in paragraph (a)(3) of this section, the hospice must obtain the written certification before it submits a claim for payment.

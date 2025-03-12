@@ -1,7 +1,5 @@
 ##### § 1003.140 Determinations regarding the amount of penalties and assessments and the period of exclusion. #####
 
-Link to an amendment published at 88 FR 42839, July 3, 2023.
-
 (a) Except as otherwise provided in this part, in determining the amount of any penalty or assessment or the period of exclusion in accordance with this part, the OIG will consider the following factors—
 
 (1) The nature and circumstances of the violation;
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 42839, July 3, 2023.
 
 (2) If there are substantial or several aggravating circumstances, the aggregate amount of the penalty and assessment should be set at an amount sufficiently close to or at the maximum permitted by this part to reflect that fact.
 
-(3) Unless there are extraordinary mitigating circumstances, the aggregate amount of the penalty and assessment should not be less than double the approximate amount of damages and costs (as defined by paragraph (e)(2) of this section) sustained by the United States, or any State, as a result of the violation.
+(3) Unless there are extraordinary mitigating circumstances, the aggregate amount of the penalty and assessment should not be less than double the approximate amount of damages and costs (as defined by paragraph (d)(2) of this section) sustained by the United States, or any State, as a result of the violation.
 
 (4) The presence of any single aggravating circumstance may justify imposing a penalty and assessment at or close to the maximum even when one or more mitigating factors is present.
 
@@ -36,4 +34,6 @@ Link to an amendment published at 88 FR 42839, July 3, 2023.
 
 (4) Penalties, assessments, and exclusions imposed under this part are in addition to any other penalties, assessments, or other sanctions prescribed by law.
 
-[81 FR 88356, Dec. 7, 2016]
+(5) The penalty amounts in this part are updated annually, as adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
+
+[81 FR 88356, Dec. 7, 2016, as amended at 88 FR 42839, July 3, 2023]

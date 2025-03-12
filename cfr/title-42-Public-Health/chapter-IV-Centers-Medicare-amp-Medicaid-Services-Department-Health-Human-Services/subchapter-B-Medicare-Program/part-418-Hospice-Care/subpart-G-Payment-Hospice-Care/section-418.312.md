@@ -1,5 +1,7 @@
 ##### § 418.312 Data submission requirements under the hospice quality reporting program. #####
 
+Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
+
 (a) *General rule.* Except as provided in paragraph (g) of this section, Medicare-certified hospices must submit to CMS data on measures selected under section 1814(i)(5)(C) of the Act in a form and manner, and at a time, specified by the Secretary.
 
 (b) *Submission of Hospice Quality Reporting Program data.* (1) Standardized set of admission and discharge items Hospices are required to complete and submit an admission Hospice Item Set (HIS) and a discharge HIS for each patient to capture patient-level data, regardless of payer or patient age. The HIS is a standardized set of items intended to capture patient-level data.

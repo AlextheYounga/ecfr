@@ -1,11 +1,9 @@
 ##### § 1003.510 Amount of penalties. #####
 
-Link to an amendment published at 88 FR 42841, July 3, 2023.
-
-The OIG may impose5—
-
-5 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
+The OIG may impose—
 
 (a) Against each participating hospital, a penalty of not more than $50,000 for each individual violation, except that if the participating hospital has fewer than 100 State-licensed, Medicare-certified beds on the date the penalty is imposed, the penalty will not exceed $25,000 for each violation, and
 
 (b) Against each responsible physician, a penalty of not more than $50,000 for each individual violation.
+
+[81 FR 88357, Dec. 7, 2016, as amended at 88 FR 42841, July 3, 2023]

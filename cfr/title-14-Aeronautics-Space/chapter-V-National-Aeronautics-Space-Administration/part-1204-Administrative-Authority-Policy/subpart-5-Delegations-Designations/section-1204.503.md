@@ -1,7 +1,5 @@
 ##### § 1204.503 Delegation of authority to grant easements. #####
 
-Link to an amendment published at 88 FR 42871, July 5, 2023.
-
 (a) *Scope.* 40 U.S.C. 319 to 319C authorizes executive agencies to grant, under certain conditions, the easements as the head of the agency determines will not be adverse to the interests of the United States and subject to the provisions as the head of the agency deems necessary to protect the interests of the United States.
 
 (b) *Delegation of authority.* The Assistant Administrator for Strategic Infrastructure and the Director, Integrated Asset Management Division, are delegated authority to take actions in connection with the granting of easements.

@@ -1,6 +1,4 @@
-##### § 17.85 Special rules—invertebrates. #####
-
-Link to an amendment published at 88 FR 42652, July 3, 2023.
+##### § 17.85 Species-specific rules—invertebrates. #####
 
 (a) *Seventeen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 42652, July 3, 2023.
 
 (iii) We do not intend to change the NEP designations to “essential experimental,” “threatened,” or “endangered” within the NEP Area. Additionally, we will not designate critical habitat for these NEPs, as provided by 16 U.S.C. 1539(j)(2)(C)(ii).
 
-(2) *What activities are not allowed in the NEP Area?* (i) Except as expressly allowed in this rule, all the prohibitions of 17.31(a) and (b) apply to the mollusks identified in this special rule.
+(2) *What activities are not allowed in the NEP Area?* (i) Except as expressly allowed in the rule in this paragraph (a), all the prohibitions of § 17.31(a) and (b) apply to the mollusks identified in the rule in this paragraph (a).
 
 (ii) Any manner of take not described under paragraph (a)(3) of this section will not be allowed in the NEP Area. We may refer the unauthorized take of these species to the appropriate authorities for prosecution.
 
@@ -159,4 +157,4 @@ Link to an amendment published at 88 FR 42652, July 3, 2023.
 
 (iii) *Note:* Map of Saddle Mountain NEP area for the Oregon silverspot butterfly follows:
 
-![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017; 87 FR 8965, Feb.17, 2022; 87 FR 15145, Mar. 17, 2022]
+![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017; 87 FR 8965, Feb.17, 2022; 87 FR 15145, Mar. 17, 2022; 88 FR 42652, July 3, 2023]

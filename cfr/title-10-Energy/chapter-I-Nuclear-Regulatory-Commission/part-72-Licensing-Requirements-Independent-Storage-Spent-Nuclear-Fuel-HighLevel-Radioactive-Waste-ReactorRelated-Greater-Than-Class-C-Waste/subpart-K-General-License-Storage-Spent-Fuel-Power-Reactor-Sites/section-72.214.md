@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 9116, Feb. 13, 2023.Link to an amendment published at 88 FR 25271, Apr. 26, 2023, delaying the above amendment indefinitely.Link to an amendment published at 88 FR 42587, July 3, 2023.Link to an amendment published at 88 FR 42592, July 3, 2023.Link to an amendment published at 88 FR 49274, July 31, 2023.
+Link to an amendment published at 88 FR 49274, July 31, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -144,53 +144,51 @@ Renewed Certificate Expiration Date: October 4, 2059.
 
 Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
-Certificate Number: 1014.
+*Certificate Number:* 1014.
 
-Initial Certificate Effective Date: May 31, 2000.
+*Initial Certificate Effective Date:* May 31, 2000, superseded by Renewed Initial Certificate Effective Date: August 2, 2023.
 
-Amendment Number 1 Effective Date: July 15, 2002.
+*Amendment Number 1 Effective Date:* July 15, 2002, superseded by Renewed Amendment Number 1 Effective Date: August 2, 2023.
 
-Amendment Number 2 Effective Date: June 7, 2005.
+*Amendment Number 2 Effective Date:* June 7, 2005, superseded by Renewed Amendment Number 2 Effective Date: August 2, 2023.
 
-Amendment Number 3 Effective Date: May 29, 2007.
+*Amendment Number 3 Effective Date:* May 29, 2007, superseded by Renewed Amendment Number 3 Effective Date: August 2, 2023.
 
-Amendment Number 4 Effective Date: January 8, 2008.
+*Amendment Number 4 Effective Date:* January 8, 2008, superseded by Renewed Amendment Number 4 Effective Date: August 2, 2023.
 
-Amendment Number 5 Effective Date: July 14, 2008.
+*Amendment Number 5 Effective Date:* July 14, 2008, superseded by Renewed Amendment Number 5 Effective Date: August 2, 2023.
 
-Amendment Number 6 Effective Date: August 17, 2009.
+*Amendment Number 6 Effective Date:* August 17, 2009, superseded by Renewed Amendment Number 6 Effective Date: August 2, 2023.
 
-Amendment Number 7 Effective Date: December 28, 2009.
+*Amendment Number 7 Effective Date:* December 28, 2009, superseded by Renewed Amendment Number 7 Effective Date: August 2, 2023.
 
-Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016.
+*Amendment Number 8 Effective Date:* May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016; superseded by Renewed Amendment Number 8, Revision 1 Effective Date: August 2, 2023.
 
-Amendment Number 8, Revision 1, Effective Date: February 16, 2016.
+*Amendment Number 9 Effective Date:* March 11, 2014; superseded by Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
 
-Amendment Number 9 Effective Date: March 11, 2014, superseded by Amendment Number 9, Revision 1, on March 21, 2016.
+*Amendment Number 10 Effective Date:* May 31, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A452); superseded by Renewed Amendment Number 10 Effective Date: August 2, 2023.
 
-Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected (ADAMS Accession No. ML17236A451).
+*Amendment Number 11 Effective Date:* February 25, 2019, as corrected (ADAMS Accession No. ML19343B024); superseded by Renewed Amendment Number 11 Effective Date: August 2, 2023.
 
-Amendment Number 10 Effective Date: May 31, 2016, as corrected (ADAMS Accession No. ML17236A452).
+*Amendment Number 12 Effective Date:* February 25, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A111); further corrected December 23, 2019 (ADAMS Accession No. ML19343A908); superseded by Renewed Amendment Number 12 Effective Date: August 2, 2023.
 
-Amendment Number 11 Effective Date: February 25, 2019, as corrected (ADAMS Accession No. ML19343B024).
+*Amendment Number 13 Effective Date:* May 13, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A122); further corrected December 23, 2019 (ADAMS Accession No. ML19343B156); superseded by Renewed Amendment Number 13 Effective Date: August 2, 2023.
 
-Amendment Number 12 Effective Date: February 25, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A111); further corrected December 23, 2019 (ADAMS Accession No. ML19343A908).
+*Amendment Number 14 Effective Date:* December 17, 2019, as corrected (ADAMS Accession No. ML19343B287); superseded by Renewed Amendment Number 14 Effective Date: August 2, 2023.
 
-Amendment Number 13 Effective Date: May 13, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A122); further corrected December 23, 2019 (ADAMS Accession No. ML19343B156).
+*Amendment Number 15 Effective Date:* June 14, 2021, superseded by Renewed Amendment Number 15 Effective Date: August 2, 2023.
 
-Amendment Number 14 Effective Date: December 17, 2019, as corrected (ADAMS Accession No. ML19343B287).
+*Safety Analysis Report (SAR) Submitted by:* Holtec International.
 
-Amendment Number 15 Effective Date: June 14, 2021.
+*SAR Title:* Final Safety Analysis Report for the HI-STORM 100 Cask System.
 
-Safety Analysis Report (SAR) Submitted by: Holtec International.
+*Docket Number:* 72-1014.
 
-SAR Title: Final Safety Analysis Report for the HI-STORM 100 Cask System.
+*Certificate Expiration Date:* May 31, 2020.
 
-Docket Number: 72-1014.
+*Renewed Certificate Expiration Date:* May 31, 2060.
 
-Certificate Expiration Date: May 31, 2020.
-
-Model Number: HI-STORM 100.
+*Model Number:* HI-STORM 100.
 
 *Certificate Number:* 1015.
 

@@ -1,6 +1,4 @@
-##### § 17.84 Special rules—vertebrates. #####
-
-Link to an amendment published at 88 FR 42652, July 3, 2023.
+##### § 17.84 Species-specific rules—vertebrates. #####
 
 (a) Guam kingfisher, sihek (*Todiramphus cinnamominus*).
 
@@ -764,7 +762,7 @@ Table 2 to Paragraph (k)(7)(v)(A)(1)(i)
 
 (10) *Evaluation.* The USFWS will continue to evaluate Mexican wolf reestablishment progress and prepare periodic progress reports and detailed annual reports. In addition, approximately 5 years after August 1, 2022, the USFWS will prepare a one-time overall evaluation of the experimental population program that focuses on modifications needed to improve the efficacy of this rule and the progress the experimental population is making to the recovery of the Mexican wolf.
 
-(l) Grizzly bear (*Ursus arctos horribilis*). (1) *Where does this special rule apply?* The special rule in this paragraph (l) applies to the designated Bitterroot Grizzly Bear Experimental Population Area (Experimental Population Area), which is found within the species' historic range and is defined as follows:
+(l) Grizzly bear (*Ursus arctos horribilis*). (1) *Where does this rule apply?* The rule in this paragraph (l) applies to the designated Bitterroot Grizzly Bear Experimental Population Area (Experimental Population Area), which is found within the species' historic range and is defined as follows:
 
 The boundaries of the Experimental Population Area are delineated by U.S. 93 from its junction with the Bitterroot River near Missoula, Montana, to Challis, Idaho; Idaho 75 from Challis to Stanley, Idaho; Idaho 21 from Stanley to Lowman, Idaho; State Highway 17 from Lowman to Banks, Idaho; Idaho 55 from Banks to New Meadows, Idaho; U.S. 95 from New Meadows to Coeur d'Alene, Idaho; Interstate 90 from Coeur d'Alene, Idaho, to its junction with the Clark Fork River near St. Regis, Montana; the Clark Fork River from its junction with Interstate 90 near St. Regis to its confluence with the Bitterroot River near Missoula, Montana; and the Bitterroot River from its confluence with the Clark Fork River to its junction with U.S. Highway 93, near Missoula, Montana (See map at the end of this paragraph (l)).
 
@@ -890,7 +888,7 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 (15) *Will the legal status of grizzly bears in the Experimental Population Area change?* We do not intend to change the “nonessential experimental” designation to “essential experimental,” “threatened,” or “endangered” and foresee no likely situation that would result in such changes. Critical habitat cannot be designated under the nonessential experimental classification, 16 U.S.C. 1539(j)(2)(C)(ii).
 
-(16) *What are the definitions of key terms used in the special rule in this paragraph (l)?* In addition to terms defined in § 10.12 and 17.3 of this subchapter, the following terms apply to this paragraph (l):
+(16) *What are the definitions of key terms used in the rule in this paragraph (l)?* In addition to terms defined in § 10.12 and 17.3 of this subchapter, the following terms apply to this paragraph (l):
 
 *Accommodate* means allowing grizzly bears that move outside the Recovery Area onto public land in the Experimental Population Area to remain undisturbed unless they demonstrate a real and imminent threat to human safety or livestock.
 
@@ -1320,8 +1318,6 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 (7) *How will the effectiveness of the wood bison reintroduction be monitored?* ADF&G will monitor the population status of reintroduced bison herds at least annually and will document productivity, survival, and population size. The Service or other Federal agencies may also be involved in population monitoring, particularly where National Wildlife Refuge System or Bureau of Land Management lands are involved. Tribal governments or other organizations may also participate in population monitoring and other management activities. Depending on available resources, monitoring may occur more frequently, especially during the first few years of reestablishment efforts. This monitoring will be conducted primarily through aerial surveys and will be accomplished by State or Service employees, through cooperative efforts with local governments, or by contracting with other appropriate species experts.
 
-(8) *What other provisions apply to this special rule?*
-
-If any particular provision of this rule or the application of any particular provision to any entity or circumstance is held invalid, the remainder of this finding and rule and the application of such provisions to other entities or circumstances shall not be affected by such holding.
+(8) *What other provisions apply to this rule?* If any particular provision of this rule or the application of any particular provision to any entity or circumstance is held invalid, the remainder of this finding and rule and the application of such provisions to other entities or circumstances shall not be affected by such holding.
 
 [49 FR 35954, Sept. 13, 1984; 50 FR 30194, July 24, 1985]Editorial Note:For Federal Register citations affecting § 17.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

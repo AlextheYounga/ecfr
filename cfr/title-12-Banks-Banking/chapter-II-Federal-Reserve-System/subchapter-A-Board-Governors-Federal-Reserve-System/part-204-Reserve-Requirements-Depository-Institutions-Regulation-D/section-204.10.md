@@ -10,7 +10,7 @@
 
 (b) *Payment of interest.* Interest on balances maintained at Federal Reserve Banks by or on behalf of an eligible institution is established as set forth in paragraphs (b)(1) and (2) of this section.
 
-(1) For balances maintained in an eligible institution's master account, interest is the amount equal to the interest on reserve balances rate (“IORB rate”) on a day multiplied by the total balances maintained on that day. The IORB rate is 5.15 percent.
+(1) For balances maintained in an eligible institution's master account, interest is the amount equal to the interest on reserve balances rate (“IORB rate”) on a day multiplied by the total balances maintained on that day. The IORB rate is 5.4 percent.
 
 (2) For term deposits, interest is:
 
@@ -40,4 +40,4 @@
 
 (f) *Procedure for determination of rates.* The Board anticipates that notice and public participation with respect to changes in the rate or rates of interest to be paid under this section will generally be impracticable, unnecessary, contrary to the public interest, or otherwise not required in the public interest, and that there will generally be reason and good cause in the public interest why the effective date should not be deferred for 30 days. The reason or reasons in such cases are generally expected to include that such notice, public participation, or deferment of effective date would prevent the action from becoming effective as promptly as necessary in the public interest, would permit speculators or others to reap unfair profits or to interfere with the Board's actions taken with a view to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country, would provoke other consequences contrary to the public interest, would not aid the persons affected, or would otherwise serve no useful purpose.
 
-[Reg. D, 74 FR 25629, May 29, 2009]Editorial Note:For Federal Register citations affecting § 204.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Reg. D, 74 FR 25629, May 29, 2009]Editorial Note:For Federal Register citations affecting § 204.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

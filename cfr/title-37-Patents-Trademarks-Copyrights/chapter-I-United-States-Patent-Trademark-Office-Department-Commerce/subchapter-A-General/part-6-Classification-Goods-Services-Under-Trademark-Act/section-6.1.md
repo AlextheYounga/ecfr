@@ -1,6 +1,6 @@
 ##### § 6.1 International schedule of classes of goods and services. #####
 
-Goods
+Link to an amendment published at 88 FR 50769, Aug. 2, 2023.Goods
 
 1. Chemicals for use in industry, science and photography, as well as in agriculture, horticulture and forestry; unprocessed artificial resins, unprocessed plastics; fire extinguishing and fire prevention compositions; tempering and soldering preparations; substances for tanning animal skins and hides; adhesives for use in industry; putties and other paste fillers; compost, manures, fertilizers; biological preparations for use in industry and science.
 

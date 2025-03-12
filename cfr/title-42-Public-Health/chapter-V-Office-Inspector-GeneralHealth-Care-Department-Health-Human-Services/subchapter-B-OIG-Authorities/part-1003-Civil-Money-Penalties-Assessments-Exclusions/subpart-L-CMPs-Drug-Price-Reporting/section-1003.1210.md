@@ -1,11 +1,9 @@
 ##### § 1003.1210 Amount of penalties. #####
 
-Link to an amendment published at 88 FR 42841, July 3, 2023.
-
-The OIG may impose a penalty of not more than11—
-
-11 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
+The OIG may impose a penalty of not more than—
 
 (a) $100,000 for each individual violation of § 1003.1200(a) or § 1003.1200(b)(2); and
 
 (b) $10,000 for each day that such information has not been provided in violation of § 1003.1200(b)(1).
+
+[81 FR 88362, Dec. 7, 2016, as amended at 88 FR 42841, July 3, 2023]

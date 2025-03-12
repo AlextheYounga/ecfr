@@ -1,7 +1,5 @@
 ##### § 1003.110 Definitions. #####
 
-Link to an amendment published at 88 FR 42839, July 3, 2023.
-
 For purposes of this part:
 
 *Assessment* means the amounts described in this part and includes the plural of that term.
@@ -9,6 +7,8 @@ For purposes of this part:
 *Claim* means an application for payment for an item or service under a Federal health care program.
 
 *Contracting organization* means a public or private entity, including a health maintenance organization, Medicare Advantage organization, Prescription Drug Plan sponsor, or other organization that has contracted with the Department or a State to furnish, or otherwise pay for, items and services to Medicare or Medicaid beneficiaries pursuant to sections 1857, 1860D-12, 1876(b), or 1903(m) of the Act.
+
+*Department* means the Department of Health and Human Services.
 
 *Enrollee* means an individual who is eligible for Medicare or Medicaid and who enters into an agreement to receive services from a contracting organization.
 
@@ -23,6 +23,10 @@ For purposes of this part:
 *Medical malpractice claim or action* means a written complaint or claim demanding payment based on a physician's, dentist's, or other health care practitioner's provision of, or failure to provide, health care services and includes the filing of a cause of action based on the law of tort brought in any State or Federal court or other adjudicative body.
 
 *Non-separately-billable item or service* means an item or service that is a component of, or otherwise contributes to the provision of, an item or a service, but is not itself a separately billable item or service.
+
+*Obligation* for the purposes of § 1003.700 means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship for a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.
+
+*Other agreement* for the purposes of § 1003.700 includes a cooperative agreement, scholarship, fellowship, loan, subsidy, payment for a specified use, donation agreement, award, or subaward (regardless of whether one or more of the persons entering into the agreement is a contractor or subcontractor).
 
 *Overpayment* means any funds that a person receives or retains under Medicare or Medicaid to which the person, after applicable reconciliation, is not entitled under such program.
 
@@ -40,7 +44,21 @@ For purposes of this part:
 
 (2) Is reimbursable in whole or in part by Medicare or an applicable State health care program.
 
-*Reasonable request,* with respect to § 1003.200(b)(10), means a written request, signed by a designated representative of the OIG and made by a properly identified agent of the OIG during reasonable business hours. The request will include: A statement of the authority for the request, the person's rights in responding to the request, the definition of “reasonable request” and “failure to grant timely access” under part 1003, the deadline by which the OIG requests access, and the amount of the civil money penalty or assessment that could be imposed and the effective date, length, and scope and effect of the exclusion that would be imposed for failure to comply with the request, and the earliest date that a request for reinstatement would be considered.
+*Program beneficiary* means—in the case of a grant, contract, or other agreement designed to accomplish the objective of awarding or otherwise furnishing benefits or assistance to individuals and for which the Secretary provides funding—an individual who applies for or who receives such benefits or assistance from such grant, contract, or other agreement. Such term does not include—with respect to such grant, contract, or other agreement—an officer, employee, or agent of a person or entity that receives such grant or that enters into such contract or other agreement.
+
+*Reasonable request* with respect to §§ 1003.200(b)(10) and 1003.700(a)(5) means a written request signed by a designated representative of the OIG and made by a properly identified agent of the OIG during reasonable business hours. The request will include:
+
+(1) A statement of the authority for the request;
+
+(2) The person's rights in responding to the request;
+
+(3) The definition of “reasonable request” and “failure to grant timely access” under this part;
+
+(4) The deadline by which the OIG requests access; and
+
+(5) The amount of the civil money penalty or assessment that could be imposed and the effective date, length, and scope and effect of the exclusion that would be imposed for failure to comply with the request, and the earliest date that a request for reinstatement would be considered.
+
+*Recipient* for the purposes of § 1003.700 means any person (excluding a program beneficiary as defined in this section) directly or indirectly receiving money or property under a grant, contract, or other agreement funded in whole or in part by the Secretary, including a subrecipient or subcontractor.
 
 *Remuneration,* for the purposes of § 1003.1000(a) of this part, is consistent with the definition in section 1128A(i)(6) of the Act and includes the waiver of copayment, coinsurance and deductible amounts (or any part thereof) and transfers of items or services for free or for other than fair market value. The term “remuneration” does not include:
 
@@ -110,8 +128,20 @@ For purposes of this part:
 
 *Social Services Block Grant Program* means the program authorized under Title XX of the Act.
 
+*Specified claim* means any application, request, or demand under a grant, contract, or other agreement for money or property, whether or not the United States or a specified State agency has title to the money or property, that is not a claim (as defined in this section) and that:
+
+(1) Is presented or caused to be presented to an officer, employee, or agent of the Department or agency thereof, or of any specified State agency; or
+
+(2) Is made to a contractor, grantee, or other recipient if the money or property is to be spent or used on the Department's behalf or to advance a Department program or interest, and if the Department:
+
+(i) Provides or has provided any portion of the money or property requested or demanded; or
+
+(ii) Will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
+
+*Specified State agency* means an agency of a State government established or designated to administer or supervise the administration of a grant, contract, or other agreement funded in whole or in part by the Secretary.
+
 *Telehealth technologies,* for purposes of paragraph (10) of the definition of the term “remuneration” as set forth in this section, means hardware, software, and services that support distant or remote communication between the patient and provider, physician, or renal dialysis facility for diagnosis, intervention, or ongoing care management.
 
 *Timely basis* means, in accordance with § 1003.300(a) of this part, the 60-day period from the time the prohibited amounts are collected by the individual or the entity.
 
-[51 FR 34777, Sept. 30, 1986, as amended at 56 FR 28492, June 21, 1991; 57 FR 3345, Jan. 29, 1992; 59 FR 32124, June 22, 1994; 59 FR 36086, July 15, 1994; 60 FR 16584, Mar. 31, 1995; 61 FR 13449, Mar. 27, 1996; 65 FR 24415, Apr. 26, 2000; 65 FR 35584, June 5, 2000; 66 FR 39452, July 31, 2001; 67 FR 11935, Mar. 18, 2002; 67 FR 76905, Dec. 13, 2002; 69 FR 28845, May 19, 2004. Redesignated and amended at 81 FR 88355, 88409, Dec. 7, 2016; 85 FR 77894, Dec. 2, 2020]
+[51 FR 34777, Sept. 30, 1986. Redesignated at 81 FR 88355, Dec. 7, 2016]Editorial Note:For Federal Register citations affecting § 1003.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

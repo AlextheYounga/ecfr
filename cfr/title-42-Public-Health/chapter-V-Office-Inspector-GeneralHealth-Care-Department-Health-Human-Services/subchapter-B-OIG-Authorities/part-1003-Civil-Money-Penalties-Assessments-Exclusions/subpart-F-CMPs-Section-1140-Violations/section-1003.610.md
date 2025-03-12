@@ -1,10 +1,6 @@
 ##### § 1003.610 Amount of penalties. #####
 
-Link to an amendment published at 88 FR 42841, July 3, 2023.
-
-(a) The OIG may impose a penalty of not more than6—
-
-6 The penalty amounts in this section are adjusted for inflation annually. Adjusted amounts are published at 45 CFR part 102.
+(a) The OIG may impose a penalty of not more than—
 
 (1) $5,000 for each individual violation resulting from the misuse of Departmental, CMS, or Medicare or Medicaid program words, letters, symbols, or emblems as described in § 1003.600(a) relating to printed media;
 
@@ -25,3 +21,5 @@ Link to an amendment published at 88 FR 42841, July 3, 2023.
 (5) In the case of a Web page accessed by a computer or other electronic means, each instance in which the Web page was viewed or accessed and that Web page contains one or more words, letters, symbols, or emblems related to a determination under § 1003.600(a); and
 
 (6) In the case of a telemarketing solicitation, each individual unsolicited telephone call regarding an item or service under Medicare or Medicaid related to a determination under § 1003.600(a).
+
+[81 FR 88357, Dec. 7, 2016, as amended at 88 FR 42841, July 3, 2023]

@@ -1,5 +1,7 @@
 ##### § 412.25 Excluded hospital units: Common requirements. #####
 
+Link to an amendment published at 88 FR 51161, Aug. 2, 2023.
+
 (a) *Basis for exclusion.* In order to be excluded from the prospective payment systems as specified in § 412.1(a)(1) and be paid under the inpatient psychiatric facility prospective payment system as specified in § 412.1(a)(2) or the inpatient rehabilitation facility prospective payment system as specified in § 412.1(a)(3), a psychiatric or rehabilitation unit must meet the following requirements.
 
 (1) Be part of an institution that—

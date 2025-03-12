@@ -1,5 +1,7 @@
 ##### § 424.507 Ordering covered items and services for Medicare beneficiaries. #####
 
+Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
+
 (a) *Conditions for payment of claims for ordered covered imaging and clinical laboratory services and items of durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS)*—(1) *Ordered covered imaging, clinical laboratory services, and DMEPOS item claims.* To receive payment for ordered imaging, clinical laboratory services, and DMEPOS items (excluding home health services described in § 424.507(b), and Part B drugs), a provider or supplier must meet all of the following requirements:
 
 (i) The ordered covered imaging, clinical laboratory services, and DMEPOS items (excluding home health services described in paragraph (b) of this section, and Part B drugs) must have been ordered by a physician or, when permitted, an eligible professional (as defined in § 424.506(a) of this part).
