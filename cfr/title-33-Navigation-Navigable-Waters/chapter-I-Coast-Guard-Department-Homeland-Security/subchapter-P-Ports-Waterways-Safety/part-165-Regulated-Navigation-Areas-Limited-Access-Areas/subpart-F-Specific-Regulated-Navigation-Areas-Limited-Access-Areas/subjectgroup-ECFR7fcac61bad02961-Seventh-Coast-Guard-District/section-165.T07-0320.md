@@ -1,5 +1,7 @@
 ##### § 165.T07-0320 Safety Zone; Fourth of July Fireworks North Myrtle Beach, SC. #####
 
+Link to an amendment published at 84 FR 7288, Mar. 4, 2019.
+
 (a) This rule establishes a safety zone on all Atlantic Ocean waters within a 500 yard radius of Cherry Grove Pier, from which fireworks will be launched.
 
 (b) *Definition.* As used in this section, “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port Charleston in the enforcement of the regulated areas.

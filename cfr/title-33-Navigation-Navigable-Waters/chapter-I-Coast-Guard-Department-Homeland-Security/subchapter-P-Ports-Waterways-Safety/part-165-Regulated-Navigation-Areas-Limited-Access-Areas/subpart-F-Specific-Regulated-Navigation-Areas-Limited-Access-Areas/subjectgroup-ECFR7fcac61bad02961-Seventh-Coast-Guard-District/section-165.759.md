@@ -6,6 +6,6 @@
 
 (c) *Definition.* As used in this section: cruise ship means a passenger vessel, except for a ferry, greater than 100 feet in length that is authorized to carry more than 12 passengers for hire.
 
-(d) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(d) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP Jacksonville 02-066, 68 FR 3186, Jan. 23, 2003]

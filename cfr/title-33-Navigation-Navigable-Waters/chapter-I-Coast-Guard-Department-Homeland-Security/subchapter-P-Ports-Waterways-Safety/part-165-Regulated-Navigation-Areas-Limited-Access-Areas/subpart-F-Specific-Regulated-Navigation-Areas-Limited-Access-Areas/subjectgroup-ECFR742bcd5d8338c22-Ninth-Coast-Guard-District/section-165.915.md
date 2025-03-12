@@ -12,6 +12,6 @@
 
 (2) Persons desiring to transit through either of these security zones, prior to transiting, must contact the Captain of the Port Detroit at telephone number (419) 418-6050, or on VHF/FM channel 16 and request permission. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or his or her designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD09-02-011, 67 FR 46386, July 15, 2002, as amended by USCG-2013-0034, 79 FR 4079, Jan. 24, 2014]

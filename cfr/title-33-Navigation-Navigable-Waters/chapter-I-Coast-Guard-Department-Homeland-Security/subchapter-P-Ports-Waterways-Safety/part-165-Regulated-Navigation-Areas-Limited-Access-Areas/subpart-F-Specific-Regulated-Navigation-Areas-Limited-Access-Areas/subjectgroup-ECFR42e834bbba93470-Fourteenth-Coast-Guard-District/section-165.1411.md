@@ -12,6 +12,6 @@
 
 (f) *Waiver.* The Captain of the Port may waive any of the requirements of this rule for any person, vessel, or class of vessel upon finding that application of the security zone is unnecessary or impractical for the purpose of maritime security.
 
-(g) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(g) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 46 U.S.C. 70052.
 
 [USCG-2007-0195, 73 FR 13131, Mar. 12, 2008]

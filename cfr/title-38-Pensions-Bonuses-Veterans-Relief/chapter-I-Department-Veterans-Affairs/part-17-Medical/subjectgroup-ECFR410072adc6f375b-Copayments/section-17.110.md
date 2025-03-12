@@ -88,4 +88,6 @@
 
 (10) A veteran receiving care for psychosis or a mental illness other than psychosis pursuant to § 17.109.
 
-(Authority: 38 U.S.C. 501, 1710, 1720D, 1722A, 1730A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016]
+(11) Medication for a veteran who was awarded the Medal of Honor.
+
+(Authority: 38 U.S.C. 501, 1710, 1720D, 1722A, 1730A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019]

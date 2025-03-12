@@ -108,4 +108,6 @@
 
 (9) A veteran receiving care for psychosis or a mental illness other than psychosis pursuant to § 17.109.
 
-(Authority: 38 U.S.C. 101(28), 501, 1701(7), 1710, 1710B, 1720B, 1720D, 1722A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014]
+(10) A veteran who was awarded the Medal of Honor.
+
+(Authority: 38 U.S.C. 101(28), 501, 1701(7), 1710, 1710B, 1720B, 1720D, 1722A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014; 84 FR 7815, Mar. 5, 2019]

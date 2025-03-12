@@ -12,6 +12,6 @@
 
 (d) *Notification.* The Coast Guard security escort will attempt, when necessary and practicable, to notify any persons or vessels inside or in the vicinity of the security one created in paragraph (a) of this section of the zone's existence via VHF Channel 16 or other means reasonably available.
 
-(e) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(e) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 46 U.S.C. 70052.
 
 [USCG-2010-0409, 75 FR 33704, June 15, 2010]

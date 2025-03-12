@@ -8,7 +8,7 @@
 
 (3) *Kalihi Channel and Keehi Lagoon, Oahu.* All waters of Kalihi Channel and Keehi Lagoon beginning at Kalihi Channel Entrance Lighted Buoy 1 and continuing along the general trend of Kalihi Channel to Light 13, thence continuing on a bearing of 332.5°T to shore, thence east and south along the general trend of the shoreline to Light 15, thence southeast to Light 14, thence southeast along the general trend of the shoreline of Sand Island, to the southwest tip of Sand Island at 21°18.0′ N., 157°53.05′ W., thence southwest on a bearing of 233°T to Kalihi Channel Entrance Lighted Buoy 1.
 
-(4) *Honolulu International Airport* - (i) *Honolulu International Airport, North Section.* All waters surrounding Honolulu International Airport from 21°18.25′ N., 157°55.58′ W., thence south to 21°18.0′ N., 157°55.58′ W., thence east to the western edge of Kalihi Channel, thence north along the western edge of the channel to Light 13, thence northwest at a bearing of 332.5°T to shore.
+(4) *Honolulu International Airport*—(i) *Honolulu International Airport, North Section.* All waters surrounding Honolulu International Airport from 21°18.25′ N., 157°55.58′ W., thence south to 21°18.0′ N., 157°55.58′ W., thence east to the western edge of Kalihi Channel, thence north along the western edge of the channel to Light 13, thence northwest at a bearing of 332.5°T to shore.
 
 (ii) *Honolulu International Airport, South Section.* All waters near Honolulu International Airport from 21°18.0′ N/157°55.58′ W, thence south to 21°16.5′ N/157°55.58′ W, thence east to 21°16.5′ N/157°54.0′ W (the extension of the western edge of Kalihi Channel), thence north along the western edge of the channel to Kalihi Channel buoy “5”, thence west to 21°18.0′ N/157°55.58′ W.
 
@@ -24,7 +24,7 @@
 
 (2) Persons desiring to transit the areas of the security zones may contact the Captain of the Port at Command Center telephone number (808) 842-2600 and (808) 842-2601, fax (808) 842-2624 or on VHF channel 16 (156.8 Mhz) to seek permission to transit the area. Written requests may be submitted to the Captain of Port, U.S. Coast Guard Sector Honolulu, Sand Island Access Road, Honolulu, Hawaii 96819, or faxed to (808) 842-2622. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his or her designated representatives. For all seaplane traffic entering or transiting the security zones, a seaplane's compliance with all Federal Aviation Administration regulations (14 CFR parts 91 and 99) regarding flight-plan approval is deemed adequate permission to transit the waterway security zones described in this section.
 
-(d) *Notice of enforcement or suspension of enforcement of security zones.* (1) The security zones described in paragraphs (a)(3) (Kalihi Channel and Keehi Lagoon, Oahu), (a)(4)(i) (Honolulu International Airport, North Section), (a)(4)(ii) (Honolulu International Airport, South Section), (a)(6) (Barbers Point Harbor, Oahu), and (a)(7) (Kahe Point, Oahu) of this section, will be enforced only upon the occurrence of one of the following events -
+(d) *Notice of enforcement or suspension of enforcement of security zones.* (1) The security zones described in paragraphs (a)(3) (Kalihi Channel and Keehi Lagoon, Oahu), (a)(4)(i) (Honolulu International Airport, North Section), (a)(4)(ii) (Honolulu International Airport, South Section), (a)(6) (Barbers Point Harbor, Oahu), and (a)(7) (Kahe Point, Oahu) of this section, will be enforced only upon the occurrence of one of the following events—
 
 (i) Whenever the Maritime Security (MARSEC) level, as defined in 33 CFR part 101, is raised to 2 or higher; or
 
@@ -40,6 +40,6 @@
 
 (g) *Waiver.* The Captain of the Port, Honolulu may waive any of the requirements of this section for any vessel or class of vessels upon his or her determination that application of this section is unnecessary or impractical for the purpose of port and maritime security.
 
-(h) *Penalties.* Vessels or persons violating this section are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(h) *Penalties.* Vessels or persons violating this section are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
 [CGD14-04-116, 70 FR 75040, Dec. 19, 2005, as amended by CGD 14-07-001, 72 FR 44777, Aug. 9, 2007; 72 FR 57863, Oct. 11, 2007; USCG-2009-0416, 74 FR 27442, June 10, 2009; USCG-2015-0433, 80 FR 44287, July 27, 2015]

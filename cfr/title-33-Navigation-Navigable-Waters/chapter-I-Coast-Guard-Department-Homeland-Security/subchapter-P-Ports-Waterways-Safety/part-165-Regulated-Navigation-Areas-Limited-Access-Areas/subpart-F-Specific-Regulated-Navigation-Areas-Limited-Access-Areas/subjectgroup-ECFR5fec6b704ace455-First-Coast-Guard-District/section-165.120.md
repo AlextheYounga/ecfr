@@ -19,7 +19,7 @@
 
 (4) To obtain permissions required by this regulation, individuals may reach the COTP or a COTP representative via VHF channel 16 or 617-223-5757 (Sector Boston Command Center) to obtain permission.
 
-(5) *Penalties.* Those who violate this section are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(5) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
 (c) *Effective and enforcement period.* This security zone is in effect permanently but will only be enforced when deemed necessary by the COTP. Anyone, including members of federal, state or local law enforcement agencies, may request that this security zone be enforced.
 

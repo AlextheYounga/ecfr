@@ -2,7 +2,7 @@
 
 (a) *Security zones.* The following areas, defined by coordinates based upon North American Datum 1983, are security zones:
 
-(1) *Jardine Water Filtration Plant* - (i) *Location.* All waters of Lake Michigan within the arc of a 100-yard radius with its center located on the north wall of Jardine Water Filtration Plant, approximate position 41°53′46″ N, 087°36′23″ W; (NAD 83)
+(1) *Jardine Water Filtration Plant*—(i) *Location.* All waters of Lake Michigan within the arc of a 100-yard radius with its center located on the north wall of Jardine Water Filtration Plant, approximate position 41°53′46″ N, 087°36′23″ W; (NAD 83)
 
 (ii) *Regulations.* The Captain of the Port Lake Michigan will normally permit those U.S. Coast Guard certificated passenger vessels that normally load and unload passengers at Navy Pier to operate in the zone. However, should the Captain of the Port Lake Michigan determine it is appropriate, he will require even those U.S. Coast Guard certificated passenger vessels which normally load and unload passengers at Navy Pier to request permission before leaving or entering the security zones. The Captain of the Port Lake Michigan will notify these vessels via Broadcast Notice to Mariners if they must notify the Coast Guard before entering or transiting the security zone. As such, vessels that regularly operate within this zone are responsible for monitoring Broadcasts Notice to Mariners for the Chicago area. These broadcasts will be made by U.S. Coast Guard Sector Lake Michigan.
 
@@ -32,6 +32,6 @@
 
 (3) Persons who would like to transit through a security zone in this section must contact the Captain of the Port Lake Michigan at telephone number (414) 747-7182 or on VHF channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port Lake Michigan or his or her designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD09-02-001, 67 FR 53502, Aug. 16, 2002; 67 FR 65041, Oct. 23, 2002, as amended by CGD09-04-020, 69 FR 71709, Dec. 10, 2004; USCG-2011-0489, 76 FR 63204, Oct. 12, 2011; 76 FR 79537, Dec. 22, 2011]

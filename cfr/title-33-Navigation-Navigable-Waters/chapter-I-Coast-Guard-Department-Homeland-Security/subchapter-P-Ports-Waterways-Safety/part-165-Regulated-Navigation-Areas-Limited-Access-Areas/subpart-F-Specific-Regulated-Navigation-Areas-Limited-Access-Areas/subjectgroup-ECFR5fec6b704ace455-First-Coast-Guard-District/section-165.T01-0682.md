@@ -18,7 +18,7 @@
 
 (3) To obtain permission required by this regulation, individuals may reach the COTP or the COTP's designated representative via Channel 16 (VHF-FM) or (207)741-5465 (Sector Northern New England Command Center).
 
-(e) *Penalties.* Those who violate this section are subject to the penalties set forth in 33 U.S.C. 1232.
+(e) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
 
 (f) *Notification.* Coast Guard Sector Northern New England will give notice through the Local Notice to Mariners and Broadcast Notice to Mariners for the purpose of enforcement of temporary safety zone.
 

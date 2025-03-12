@@ -1,7 +1,5 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 84 FR 5377, Feb. 21, 2019.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
@@ -316,9 +314,9 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (21) Fish for, retain, possess, or land sharks without a shark endorsement, as specified in § 635.4(b) and (c).
 
-(22) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks south of 41°43′ N. latitude without deploying non-offset, corrodible circle hooks when fishing at a registered recreational HMS fishing tournament that has awards or prizes for sharks, as specified in § 635.21(f) and (k).
+(22) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when fishing at a registered recreational HMS fishing tournament that has awards or prizes for sharks, as specified in § 635.21(f) and (k).
 
-(23) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks south of 41°43′ N. latitude without deploying non-offset, corrodible circle hooks when issued an Atlantic HMS Angling permit or HMS Charter/Headboat permit with a shark endorsement, as specified in § 635.21(f) and (k).
+(23) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when issued an Atlantic HMS Angling permit or HMS Charter/Headboat permit with a shark endorsement, as specified in § 635.21(f) and (k).
 
 (24) Release sharks with more than 3 feet (91.4 cm) of trailing gear, as specified in § 635.21(c)(6).
 
@@ -326,11 +324,11 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (26) Deploy bottom longline gear without circle hooks, or have on board both bottom longline gear and non-circle hooks, as specified at § 635.21(d)(4).
 
-(27) Land a shortfin mako shark that was caught with gear other than pelagic longline as specified at § 635.21(a).
+(27) Retain, land, or possess a shortfin mako shark that was caught with gear other than pelagic longline, bottom longline, or gillnet gear as specified at § 635.21(a).
 
-(28) Retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear and was alive at haulback as specified at § 635.21(c)(1).
+(28) Retain, land, or possess a shortfin mako shark that was caught with pelagic longline, bottom longline, or gillnet gear and was alive at haulback as specified at § 635.21(c)(1), (d)(5), and (g)(6).
 
-(29) As specified at § 635.21(c)(1), retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear when the electronic monitoring system was not installed and functioning in accordance with the requirements at § 635.9.
+(29) As specified at § 635.21(c)(1), retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear when the electronic monitoring system was not installed and functioning in compliance with the requirements at § 635.9.
 
 (e) *Swordfish.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
@@ -370,4 +368,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (18) As the owner of a vessel permitted, or required to be permitted, in the Swordfish General Commercial permit category, possess North Atlantic swordfish taken from its management unit by any gear other than rod and reel, handline, bandit gear, green-stick, or harpoon gear, as specified in § 635.19(e).
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.71, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 83 FR 8950, Mar. 2, 2018, § 635.71 was amended by adding paragraph (d)(27), (28) and (29), effective Mar. 2, 2018 through Aug. 29, 2018. At 83 FR 42452, Aug. 22, 2018, the effective date for these amendments was extended to Mar. 3, 2019.
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.71, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

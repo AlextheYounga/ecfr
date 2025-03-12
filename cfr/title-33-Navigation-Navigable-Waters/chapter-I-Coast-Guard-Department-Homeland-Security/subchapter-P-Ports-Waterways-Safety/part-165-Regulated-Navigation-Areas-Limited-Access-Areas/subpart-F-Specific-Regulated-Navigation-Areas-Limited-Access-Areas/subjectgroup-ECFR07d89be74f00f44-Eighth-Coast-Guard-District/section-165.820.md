@@ -6,6 +6,6 @@
 
 (2) Persons and vessels desiring to transit the area of the security zone may contact the Captain of the Port Pittsburgh at telephone number 412-644-5808 or on VHF channel 16 to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port Pittsburgh or his designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP Pittsburgh-02-005, 67 FR 40163, June 12, 2002]

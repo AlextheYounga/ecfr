@@ -18,6 +18,6 @@
 
 (3) Upon being hailed by a U.S. Coast Guard vessel by radio, siren, flashing lights, or other means, the operator of a vessel must proceed as directed.
 
-(e) *Penalties.* Those who violate this section are subject to the penalties set forth in 33 U.S.C. 1232.
+(e) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
 
 Effective Date Note:By USCG-2018-0575, 83 FR 45573, Sept. 10, 2018, § 165.T01-0575 was added, effective Sept. 10, 2018 through Aug. 31, 2023.

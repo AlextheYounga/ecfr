@@ -1,5 +1,7 @@
 ##### § 100.T07-0192 Special Local Regulations; Beaufort Water Festival, Beaufort, SC. #####
 
+Link to an amendment published at 84 FR 7287, Mar. 4, 2019.
+
 (a) *Regulated areas.* The following regulated area that will encompass a portion of the Beaufort River that is 700 ft wide by 2600 ft in length, whose approximate corner coordinates are as follows: 32°25′47″ N/080°40′44″ W, 32°25′41″ N/080°40′14″ W, 32°25′35″ N/080°40′16″ W, 32°25′40″ N/080°40′46″ W. Spectator vessels may safely transit outside the regulated area, but are prohibited from entering, transiting through, anchoring, or remaining within the regulated area. The Coast Guard may be assisted by other Federal, State, or local law enforcement agencies in enforcing this regulation.
 
 (b) *Definition.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port Charleston in the enforcement of the regulated areas.

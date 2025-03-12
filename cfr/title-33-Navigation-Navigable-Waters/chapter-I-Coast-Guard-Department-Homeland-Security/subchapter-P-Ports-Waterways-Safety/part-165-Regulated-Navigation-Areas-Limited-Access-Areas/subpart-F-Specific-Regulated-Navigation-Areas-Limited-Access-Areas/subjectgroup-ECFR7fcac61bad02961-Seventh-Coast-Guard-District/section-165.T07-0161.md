@@ -1,5 +1,7 @@
 ##### § 165.T07-0161 Safety Zone; Xterra Swim, Myrtle Beach, SC. #####
 
+Link to an amendment published at 84 FR 7288, Mar. 4, 2019.
+
 (a) *Regulated area.* The following regulated area is a safety zone: All waters within the following two points of position and the North shore: 33°45′02″ N, 78°50′53″ W to 33°45′11″ N, 78°50′32″ W. The Xterra Swim race consists of an 800 yard swim loop with approximately 150 swimmers. All coordinates are North American Datum 1983.
 
 (b) *Definition.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port Charleston in the enforcement of the regulated area.

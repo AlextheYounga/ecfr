@@ -14,6 +14,6 @@
 
 (2) Persons or vessels desiring to transit the area of the Nine Mile Point and Fitzpatrick Nuclear Power Plants or Ginna Nuclear Power Plant security zones must contact the Captain of Port Buffalo at telephone number (716) 843-9570, or on VHF/FM channel 16 to seek permission to transit the area. Persons desiring to transit the area of Moses-Saunders Power Dam or Long Sault Spillway Dam security zones must contact the Supervisor, Marine Safety Detachment Massena at telephone number (315) 769-5483, or on VHF/FM channel 16 to seek permission to transit the area. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or his or her designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD09-02-005, 67 FR 53500, Aug. 16, 2002, as amended by USCG-2010-0821, 75 FR 61100, Oct. 4, 2010]

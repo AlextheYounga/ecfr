@@ -1,7 +1,5 @@
 ##### § 635.2 Definitions. #####
 
-Link to an amendment published at 84 FR 5376, Feb. 21, 2019.
-
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.
@@ -98,7 +96,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Fishing year* means January 1 through December 31.
 
-*FL (fork length)* means the straight line measurement along the length of the fish from the tip of the upper jaw to the fork of the tail.
+*FL (fork length)* means the straight-line measurement of a fish from the midpoint of the anterior edge of the fish to the fork of the caudal fin. The measurement is not made along the curve of the body.
 
 *Floatation device* means any positively buoyant object rigged to be attached to a fishing gear.
 

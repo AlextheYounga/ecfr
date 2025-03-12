@@ -4,6 +4,6 @@
 
 (b) *Regulations.* In accordance with the general regulations in § 165.33 of this part, entry into this zone is prohibited unless authorized by the Coast Guard Captain of the Port Cleveland, or the designated on-scene representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD09-02-006, 67 FR 52611, Aug. 13, 2002]

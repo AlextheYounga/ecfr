@@ -12,6 +12,6 @@
 
 (d) *Informational broadcasts.* The Captain of the Port Honolulu will establish enforcement dates and times with a Notice of Enforcement. If circumstances render enforcement of the regulated area unnecessary for the entirety of these periods, the Captain of the Port or his designated representative will inform the public through broadcast notices to mariners that the regulated area is no longer being enforced. The harbor will remain closed until the Coast Guard issues an “All Clear” for the harbor after the race has concluded and the harbor is deemed safe for normal operations.
 
-(e) *Penalties.* Vessels or persons violating this rule may be subject to the penalties set forth in 33 U.S.C. 1233.
+(e) *Penalties.* Vessels or persons violating this rule may be subject to the penalties set forth in 46 U.S.C. 70041.
 
-[USCG-2016-1041, 82 FR 44931, Sept. 27, 2017]
+[USCG-2016-1041, 82 FR 44931, Sept. 27, 2017, as amended by USCG-2018-1049, 84 FR 7813, Mar. 5, 2019]

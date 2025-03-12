@@ -20,6 +20,6 @@
 
 (e) *Waiver.* The Captain of the Port, Honolulu may waive any of the requirements of this section for any vessel or class of vessels upon his or her determination that application of this section is unnecessary or impractical for the purpose of port and maritime security.
 
-(f) *Penalties.* Vessels or persons violating this section are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(f) *Penalties.* Vessels or persons violating this section are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
 [CGD14-04-116, 70 FR 75041, Dec. 19, 2005, as amended by CGD14-07-001, 72 FR 44777, Aug. 9, 2007]

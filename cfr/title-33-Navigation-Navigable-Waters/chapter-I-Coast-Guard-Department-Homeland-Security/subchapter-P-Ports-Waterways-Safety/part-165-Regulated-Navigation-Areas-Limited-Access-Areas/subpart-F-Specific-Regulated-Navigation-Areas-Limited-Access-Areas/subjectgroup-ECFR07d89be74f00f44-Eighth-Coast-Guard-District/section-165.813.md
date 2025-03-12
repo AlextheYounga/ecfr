@@ -20,6 +20,6 @@
 
 (6) All persons and vessels within the moving security zone shall comply with the instructions of the Captain of the Port Houston-Galveston and designated on-scene U.S. Coast Guard patrol personnel. On-scene U.S. Coast Guard patrol personnel include commissioned, warrant, and petty officers of the U.S. Coast Guard.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP Houston-Galveston-02-010, 67 FR 64048, Oct. 17, 2002, as amended by USCG-2014-0410, 79 FR 38448, July 7, 2014; USCG-2015-0433, 80 FR 44286, July 27, 2015]

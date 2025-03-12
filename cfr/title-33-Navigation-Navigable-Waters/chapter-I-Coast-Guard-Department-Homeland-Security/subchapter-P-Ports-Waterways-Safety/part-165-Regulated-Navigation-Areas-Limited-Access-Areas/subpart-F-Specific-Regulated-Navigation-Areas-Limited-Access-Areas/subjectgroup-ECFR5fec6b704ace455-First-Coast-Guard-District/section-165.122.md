@@ -56,6 +56,6 @@
 
 (7) The Captain of the Port (COTP) Southeastern New England may authorize a deviation from these regulations. Parties wishing to request a deviation must do so in advance by contacting the COTP Southeastern New England, at 508-457-3211, or via VHF Channel 13 (156.7 MHz), or VHF channel 16 (156.8 MHz). Any person or vessel receiving permission from the COTP to deviate from these regulations must comply with any specific instructions provided by the COTP.
 
-(c) *Enforcement.* Violations of this RNA should be reported to the COTP Southeastern New England at 508-457-3211. Persons found in violation of these regulations may be subject to civil or criminal penalties as provided for in 33 U.S.C. 1232.
+(c) *Enforcement.* Violations of this RNA should be reported to the COTP Southeastern New England at 508-457-3211. Persons found in violation of these regulations may be subject to civil or criminal penalties as provided for in 46 U.S.C. 70036.
 
 [USCG-2009-0143, 75 FR 15347, Mar. 29, 2010, as amended by USCG-2014-0410, 79 FR 38442, July 7, 2014; USCG-2015-0433, 80 FR 44283, July 27, 2015]

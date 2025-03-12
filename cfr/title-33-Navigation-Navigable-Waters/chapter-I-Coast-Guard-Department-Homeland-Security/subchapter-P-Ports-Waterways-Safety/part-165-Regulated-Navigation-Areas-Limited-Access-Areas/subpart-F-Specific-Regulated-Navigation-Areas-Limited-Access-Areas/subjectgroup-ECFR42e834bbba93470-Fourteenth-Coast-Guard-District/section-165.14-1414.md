@@ -26,6 +26,6 @@
 
 (c) *Enforcement period.* Paragraph (b) of this section will be enforced when a tsunami warning has been issued for the Hawaiian Islands. The COTP will notify the public of any enforcement through the following means to ensure the widest publicity: Broadcast notice to mariners, notices of enforcement, press releases and the Coast Guard's Homeport Web site. Following the passage of the tsunami or tsunami threat and harbor assessments as required, de-activation of these safety zones will be conducted through radio broadcast by the U.S. Coast Guard.
 
-(d) *Penalties.* Vessels or persons violating this rule would be subject to the penalties set forth in 33 U.S.C. 1232.
+(d) *Penalties.* Vessels or persons violating this rule would be subject to the penalties set forth in 46 U.S.C. 70036.
 
 [USCG-2013-0021, 78 FR 63383, Oct. 24, 2013]

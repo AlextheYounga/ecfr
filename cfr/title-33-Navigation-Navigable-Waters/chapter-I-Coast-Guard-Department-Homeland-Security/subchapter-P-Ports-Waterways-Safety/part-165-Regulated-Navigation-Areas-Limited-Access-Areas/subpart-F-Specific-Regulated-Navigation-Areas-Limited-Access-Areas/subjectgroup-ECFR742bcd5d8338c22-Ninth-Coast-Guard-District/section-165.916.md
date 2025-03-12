@@ -10,6 +10,6 @@
 
 (2) Persons desiring to transit the area of the security zone may contact the Captain of the Port at telephone number (414) 747-7155 or on VHF-FM Channel 16 to seek permission to transit the area. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or his or her designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD09-02-007, 67 FR 49578, July 31, 2002, as amended by CGD09-03-277, 69 FR 4242, Jan. 29, 2004]

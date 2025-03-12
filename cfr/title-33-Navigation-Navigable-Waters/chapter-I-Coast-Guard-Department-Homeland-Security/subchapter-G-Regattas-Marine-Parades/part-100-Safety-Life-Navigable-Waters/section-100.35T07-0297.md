@@ -1,5 +1,7 @@
 ##### § 100.35T07-0297 Special Local Regulation, 50 Aniversario Balneario de Boqueron, Bahia de Boqueron; Boqueron, PR. #####
 
+Link to an amendment published at 84 FR 7288, Mar. 4, 2019.
+
 (a) *Regulated Areas.* The following regulated areas are established as a special local regulation. All coordinates are North American Datum 1983.
 
 (1) *Race Area.* All waters of the Bahia de Boqueron, Boqueron, Puerto Rico encompassed within an imaginary line connecting the following points: starting at Point 1 in position 18°01.030′ N, 67°10.466′ W; thence west to Point 2 in position 18°01.048′ N, 67°10.535′ W; thence southwest to Point 3 in position 18°00.770′ N, 67°10.683′ W; thence east to point 4 in position 18°00.750′ N, 67°10.611′ N; thence northwest back to origin. All persons and vessels, except those persons and vessels participating in the high-speed boat race, are prohibited from entering, transiting, anchoring, or remaining within the race area.

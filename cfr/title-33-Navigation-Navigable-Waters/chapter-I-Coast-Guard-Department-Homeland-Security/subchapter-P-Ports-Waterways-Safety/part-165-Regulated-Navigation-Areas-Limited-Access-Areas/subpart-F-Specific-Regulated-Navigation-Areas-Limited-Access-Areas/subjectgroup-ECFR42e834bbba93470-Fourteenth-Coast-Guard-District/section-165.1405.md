@@ -32,6 +32,6 @@
 
 (6) All persons and vessels within 500 yards of an escorted vessel in the RNA must comply with the orders of the COTP Guam or his designated representatives.
 
-(e) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(e) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [CGD14-02-002, 68 FR 4384, Jan. 29, 2003, as amended by USCG-2013-0935, 80 FR 1338, Jan. 9, 2015]

@@ -6,6 +6,6 @@
 
 (2) Persons desiring to transit the area of the security zone may contact the Captain of the Port at telephone number 1-800-221-8724 or on VHF-FM channel 16 (156.8 MHz). If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his or her designated representative.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP Los Angeles-Long Beach 02-006, 67 FR 77430, Dec. 18, 2002]
