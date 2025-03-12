@@ -1,7 +1,5 @@
 ##### § 80.357 Working frequencies for Morse code and data transmission. #####
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 This section describes the working frequencies assignable to maritime stations for A1A, J2A, J2B (2000-27500 kHz band only), or J2D (2000-27500 kHz band only) radiotelegraphy.
 
 (a) *Ship station frequencies* - (1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.
@@ -292,7 +290,7 @@ Ship Morse Working Frequencies (kHz)
 |                |                 |472.00|      |      |      |      |       |       |       |
 |                |                 |512.00|      |      |      |      |       |       |       |
 
-<sup>1</sup> All frequencies in this table are shown in kilohertz.
+<sup>1</sup> All frequencies in this table are shown in kilohertz. The use of frequencies in the 472-479 kHz band is restricted to public coast stations that were licensed on or before [insert effective date of this R&O].
 
 (2) *Conditions of use.* The following conditions are applicable to these frequencies:
 
@@ -302,4 +300,4 @@ Ship Morse Working Frequencies (kHz)
 
 (iii) The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination messages to direction-finding stations; and
 
-[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986, as amended at 56 FR 9887, Mar. 8, 1991; 56 FR 34029, July 25, 1991; 65 FR 77824, Dec. 13, 2000; 67 FR 48264, July 15, 2002; 68 FR 46969, Aug. 7, 2003; 69 FR 64674, Nov. 8, 2004]
+[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986, as amended at 56 FR 9887, Mar. 8, 1991; 56 FR 34029, July 25, 1991; 65 FR 77824, Dec. 13, 2000; 67 FR 48264, July 15, 2002; 68 FR 46969, Aug. 7, 2003; 69 FR 64674, Nov. 8, 2004; 82 FR 27213, June 14, 2017]

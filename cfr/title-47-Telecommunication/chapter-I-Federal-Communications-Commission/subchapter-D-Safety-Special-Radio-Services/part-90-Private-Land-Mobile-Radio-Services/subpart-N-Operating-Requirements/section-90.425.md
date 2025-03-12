@@ -1,7 +1,5 @@
 ##### § 90.425 Station identification. #####
 
-Link to an amendment published at 82 FR 27214, June 14, 2017.
-
 Stations licensed under this part shall transmit identification in accordance with the following provisions:
 
 (a) *Identification procedure.* Except as provided for in paragraphs (d) and (e) of this section, each station or system shall be identified by the transmission of the assigned call sign during each transmission or exchange of transmissions, or once each 15 minutes (30 minutes in the Public Safety Pool) during periods of continuous operation. The call sign shall be transmitted by voice in the English language or by International Morse Code in accordance with paragraph (b) of this section. If the station is employing either analog or digital voice scrambling, or non-voice emission, transmission of the required identification shall be in the unscrambled mode using A3E, F3E or G3E emission, or International Morse, with all encoding disabled. Permissible alternative identification procedures are as follows:
@@ -30,9 +28,11 @@ Stations licensed under this part shall transmit identification in accordance wi
 
 (4) Should activation of automatic Morse code identification equipment interrupt the communications of another co-channel licensee, the Commission may require the use of equipment which will delay automatic station identification until such co-channel communications are completed.
 
-(c) *Special provisions for identification in the Radiolocation Service.* (1) Stations in the Radiolocation Service are not required to identify except upon specific instruction from the Commission or as required by paragraph (c)(2) of this section.
+(c) *Special provisions for identification in the Radiolocation Service.* (1) Stations in the Radiolocation Service are not required to identify except upon special instructions from the Commission or as required by paragraphs (c)(2) and (3) of this section.
 
 (2) Stations in the Radiolocation Service operating on frequencies above 3400 kHz that employ spread spectrum techniques shall transmit a two letter manufacturer's designator, authorized by the Commission on the station authorization, at the beginning and ending of each transmission and once every 15 minutes during periods of continuing operation. The designator shall be transmitted in International Morse Code at a speed not exceeding 25 words per minute, and the spread spectrum mode of operation shall be maintained while the designator is being transmitted. The identifying signal shall be clearly receivable in the demodulated audio of a narrow-band FM receiver.
+
+(3) Oceanographic radars operating in the bands shown in section 90.103(b) shall transmit a station identification (call sign) on the assigned frequency, in international Morse code at a transmission rate in accordance with paragraph (b)(2) of this section at the end of each data acquisition cycle, but at an interval of no more than 20 minutes.
 
 (d) *General exemptions.* A station need not transmit identification if:
 
@@ -70,4 +70,4 @@ Stations licensed under this part shall transmit identification in accordance wi
 
 (2) Stations licensed on an exclusive basis in the bands between 150 and 512 MHz that normally employ digital signals for the transmission of data, text, control codes, or digitized voice may be identified by digital transmission of the call sign. A licensee that identifies its call sign in this manner must provide the Commission, upon request, information sufficient to decode the digital transmission and ascertain the call sign transmitted.
 
-[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.425, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.425, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 80.203 Authorization of transmitters for licensing. #####
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 (a) Each transmitter authorized in a station in the maritime services after September 30, 1986, except as indicated in paragraphs (g), (h) and (i) of this section, must be certificated by the Commission for part 80 operations. The procedures for certification are contained in part 2 of this chapter. Transmitters of a model authorized before October 1, 1986 will be considered type accepted for use in ship or coast stations as appropriate.
 
 (b) The external controls, of maritime station transmitters capable of operation in the 156-162 MHz band and manufactured in or imported into the United States after August 1, 1990, or sold or installed after August 1, 1991, must provide for selection of only maritime channels for which the maritime station is authorized. Such transmitters must not be capable of being programmed by station operators using external controls to transmit on channels other than those programmed by the manufacturer, service or maintenance personnel.
@@ -66,4 +64,6 @@ Link to an amendment published at 82 FR 27213, June 14, 2017.
 
 (o) Existing equipment that does not comply with the rules in this subpart but was properly authorized as compliant with the rules in effect at the time of its authorization, and remains compliant with the rules in effect at the time of its authorization, may continue to be installed until February 1, 2003.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 53 FR 41434, Oct. 28, 1987; 53 FR 37308, Sept. 26, 1988; 54 FR 31839, Aug. 2, 1989; 56 FR 3787, Jan. 31, 1991; 56 FR 57496, Nov. 12, 1991; 56 FR 57988, Nov. 15, 1991; 57 FR 8727, Mar. 12, 1992; 62 FR 40305, July 28, 1997; 63 FR 36606, July 7, 1998; 68 FR 46962, Aug. 7, 2003; 69 FR 64672, Nov. 8, 2004; 73 FR 4481, Jan. 25, 2008; 78 FR 23156, Apr. 18, 2013; 78 FR 25175, Apr. 29, 2013; 81 FR 90746, Dec. 15, 2016]
+(p) As of [insert effective date of this Report and Order], the Commission will no longer accept applications for certification of non-AIS VHF radios that include channels 75 and 76.
+
+[51 FR 31213, Sept. 2, 1986]Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

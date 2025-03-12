@@ -1,7 +1,5 @@
 ##### § 90.7 Definitions. #####
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 *220 MHz service.* The radio service for the licensing of frequencies in the 220-222 MHz band.
 
 *800 MHz Cellular System.* In the 806-824 MHz/ 851-869 MHz band, a system that uses multiple, interconnected, multi-channel transmit/receive cells capable of frequency reuse and automatic handoff between cell sites to serve a larger number of subscribers than is possible using non-cellular technology.
@@ -91,6 +89,8 @@ The MTA map is available for public inspection in the Reference Information Cent
 *Emergency medical licensee.* Persons or entities engaged in the provision of basic or advanced life support services on an ongoing basis that operate radio stations for transmission of communications essential for the delivery or rendition of emergency medical services for the provision of basic or advanced life support.
 
 *Enhanced Specialized Mobile Radio System (ESMR).* A specialized mobile radio (SMR) system operating in the 800 MHz band which employs an 800 MHz cellular system as defined in this section.
+
+*Equivalent Isotropically Radiated Power (EIRP).* The product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain).
 
 *Film and video production licensee.* Persons primarily engaged in or providing direct technical support to the production, videotaping, or filming of motion pictures or television programs, such as movies, programs, news programs, special events, educational programs, or training films, regardless of whether the productions are prepared primarily for final exhibition at theatrical outlets or on television or for distribution through other mass communications outlets.
 
@@ -292,4 +292,4 @@ REAG 1 (Northeast): REAG 1 consists of the following EAs: EA 001 (Bangor, ME) th
 
 *Urbanized area.* A city and the surrounding closely settled territories.
 
-[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

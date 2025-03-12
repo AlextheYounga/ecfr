@@ -1,8 +1,6 @@
 ##### § 90.103 Radiolocation Service. #####
 
-Link to an amendment published at 82 FR 27214, June 14, 2017.
-
-(a) *Eligibility.* The following persons are eligible for authorizations in the Radiolocation Service to operate stations to determine distance, direction, speed, or position by means of radiolocation devices, for purposes other than navigation:
+(a) *Eligibility.* The following persons are eligible for authorizations in- the Radiolocation Service to operate stations to determine distance, direction, speed, or position by means of radiolocation devices, for purposes other than navigation:
 
 (1) Any person engaged in a commercial, industrial, scientific, educational, or local government activity
 
@@ -57,7 +55,7 @@ Radiolocation Service Frequency Table
 
 (2) This frequency band is shared with and stations operating in this frequency band in this service are on a secondary basis to the LORAN Navigation System; all operations are limited to radiolocation land stations in accordance with footnote US104, § 2.106 of this chapter.
 
-(3) [Reserved]
+(3) Operations in this band are limited to oceanographic radars using transmitters with a peak equivalent isotropically radiated power (EIRP) not to exceed 25 dBW. Oceanographic radars shall not cause harmful interference to, nor claim protection from interference caused by, stations in the fixed or mobile services as specified in § 2.106, footnotes 5.132A, 5.145A, and US132A. See Resolution 612 of the ITU Radio Regulations for international coordination requirements and for recommended spectrum sharing techniques.
 
 (4) The non-Federal Government radiolocation service in this band is on a secondary basis to stations in the aeronautical radionavigation service operating on 1708 kHz.
 
@@ -109,4 +107,6 @@ Radiolocation Service Frequency Table
 
 (d) *Other additional frequencies available.* Radiolocation stations in this service may be authorized, on request, to use frequencies allocated exclusively to Federal Government stations, in those instances where the Commission finds, after consultation with the appropriate Government agency or agencies, that such assignment is necessary or required for coordination with Government activities.
 
-[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 54791, Nov. 22, 1978]Editorial Notes:1. For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+
+2. At 82 FR 27214, June 14, 2017, in the table in § 90.103, paragraph (b) the entries for 4438 to 4488, 5250 to 5275, 13.45 to 13.55, 16.10 to 16.20, 24.45 to 24.65, 26.20 to 26.42, 41.015 to 41.665, 43.35 to 44.00, 420 to 450 were revised, however, due to inaccurate amendatory instructions, these revisions could not be incorporated.

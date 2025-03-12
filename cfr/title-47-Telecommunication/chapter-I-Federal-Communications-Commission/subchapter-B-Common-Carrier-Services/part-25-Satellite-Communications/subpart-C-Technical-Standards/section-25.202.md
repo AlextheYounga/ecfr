@@ -1,7 +1,5 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 (a)(1) *Frequency band.* The following frequencies are available for use by the Fixed-Satellite Service. Precise frequencies and bandwidths of emission shall be assigned on a case-by-case basis. Refer to the U.S. Table of Frequency Allocations, 47 CFR 2.106, including relevant footnotes, for band-specific use restrictions and coordination requirements. Restrictions and coordination conditions not mentioned in the Table of Frequency Allocations are set forth in the annotations to the following list:
 
 |Space-to-Earth (GHz) |  Earth-to-space (GHz)  |
@@ -90,13 +88,7 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 
 (10)(i) The following frequencies are available for use by Vehicle-Mounted Earth Stations (VMESs):
 
-10.95-11.2GHz (space-to-Earth)
-
-11.45-11.7GHz (space-to-Earth)
-
-11.7-12.2GHz (space-to-Earth)
-
-14.0-14.5GHz (Earth-to-space)
+10.95-11.2GHz (space-to-Earth)11.45-11.7GHz (space-to-Earth)11.7-12.2GHz (space-to-Earth)14.0-14.5GHz (Earth-to-space)
 
 (ii) VMESs shall be authorized as set forth in § 25.226.
 
@@ -105,6 +97,10 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)
 
 (ii) ESAAs shall be authorized as set forth in § 25.227.
+
+(12) The following frequencies are available for use by the mobile-satellite service (Earth-to-space) for the reception of Automatic Identification Systems (AIS) broadcast messages from ships:
+
+156.7625-156.7875 MHz156.8125-156.8375 MHz161.9625-161.9875 MHz162.0125-162.0375 MHz
 
 (b) Other frequencies and associated bandwidths of emission may be assigned on a case-by-case basis to space systems under this part in conformance with § 2.106 of this chapter and the Commission's rules and policies.
 

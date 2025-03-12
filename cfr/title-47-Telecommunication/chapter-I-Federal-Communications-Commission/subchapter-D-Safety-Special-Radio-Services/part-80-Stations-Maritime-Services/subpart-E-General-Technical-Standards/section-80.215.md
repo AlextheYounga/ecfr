@@ -1,7 +1,5 @@
 ##### § 80.215 Transmitter power. #####
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 (a) Transmitter power shown on the radio station authorization is the maximum power the licensee is authorized to use. Power is expressed in the following terms:
 
 (1) For single sideband emission: Peak evelope power;
@@ -74,13 +72,9 @@ All ships 415-526.5 kHz - 400 WAll ships 1605-4000 kHz - 400 WAll ships 4000-275
 
 (e) *Ship stations frequencies above 27500 kHz.* The maximum power must not exceed the values listed below.
 
-(1) Ship stations 156-162 MHz - 25W6 13
+(1) Ship stations 156-162 MHz - 25W6
 
 6 Reducible to 1 watt or less, except for transmitters limited to public correspondence channels and used in an automated system.
-
-13 The frequencies 156.775 and 156.825 MHz are available for navigation-related port operations or ship movement only, and all precautions must be taken to avoid harmful interference to channel 16. Transmitter output power is limited to 1 watt for ship stations, and 10 watts for coast stations.
-
-Marine utility stations and hand-held portable transmitters: 156-162 MHz-10W
 
 (2) Ship stations 216-220 MHz - 25W7
 
@@ -128,7 +122,7 @@ R3E and J3C emission - 150WF3E emission - 50W
 
 (2) Except as indicated in (g)(4) of this section, all transmitters manufactured after January 21, 1987, or in use after January 21, 1997, must automatically reduce the carrier power to one watt or less when the transmitter is tuned to 156.375 MHz or 156.650 MHz, and must be provided with a manual override switch which when held by an operator will permit full carrier power operation on 156.375 MHz and 156.650 MHz;
 
-(3) Except as indicated in (g)(4) of this section, all ship station transmitters installed after January 9, 2006, must be capable of tuning to 156.775 MHz and 156.825 MHz and must automatically reduce the carrier power to one watt or less, with no manual override capability, when the transmitter is tuned to either 156.775 MHz or 156.825 MHz;
+(3) [Reserved]
 
 (4) Hand-held portable transmitters are not required to comply with the automatic reduction of carrier power in (g)(2) of this section; and
 
@@ -178,4 +172,4 @@ R3E and J3C emission - 150WF3E emission - 50W
 
 (3) For all other transponder stations the output power must not exceed 20 watts peak e.i.r.p. Licensees of non-selectable transponder coast stations operating in the 2920-3100 MHz and 9320-9500 MHz bands must notify in writing the USCG District Commander of any incremental increase of their station's output power above 5 watts peak e.i.r.p.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7419, Mar. 11, 1987; 52 FR 35244, Sept. 18, 1987; 54 FR 40058, Sept. 29, 1989; 54 FR 49994, Dec. 4, 1989; 56 FR 3783, Jan. 31, 1991; 59 FR 35269, July 11, 1994; 63 FR 36606, July 7, 1998; 65 FR 77824, Dec. 13, 2000; 67 FR 48564, July 25, 2002; 68 FR 46965, Aug. 7, 2003; 69 FR 64673, Nov. 8, 2004]
+[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7419, Mar. 11, 1987; 52 FR 35244, Sept. 18, 1987; 54 FR 40058, Sept. 29, 1989; 54 FR 49994, Dec. 4, 1989; 56 FR 3783, Jan. 31, 1991; 59 FR 35269, July 11, 1994; 63 FR 36606, July 7, 1998; 65 FR 77824, Dec. 13, 2000; 67 FR 48564, July 25, 2002; 68 FR 46965, Aug. 7, 2003; 69 FR 64673, Nov. 8, 2004; 82 FR 27213, June 14, 2017]
