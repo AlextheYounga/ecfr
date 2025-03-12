@@ -1,6 +1,6 @@
 ##### § 1.6081-3 Automatic extension of time for filing corporation income tax returns. #####
 
-(a) *In general.* A corporation or an affiliated group of corporations filing a consolidated return will be allowed an automatic 6-month extension of time to file its income tax return after the date prescribed for filing the return if the following requirements are met:
+(a) introductory text [Reserved]. For further guidance, see § 1.6081-3T(a) introductory text.
 
 (1) An application must be submitted on Form 7004, “Application for Automatic Extension of Time to File Certain Business Income Tax, Information, and Other Returns,” or in any other manner prescribed by the Commissioner.
 
@@ -16,6 +16,10 @@
 
 (d) *No extension for DISCs.* Paragraphs (a) through (c) of this section shall not apply to returns filed by a DISC pursuant to section 6011(c)(2).
 
-(e) *Effective/applicability dates.* This section applies to requests for extension of time to file corporation income tax returns filed after July 1, 2008.
+(e) [Reserved]. For further guidance, see § 1.6081-3T(e).
 
-[T.D. 9163, 69 FR 70548, Dec. 7, 2004, as amended by T.D. 9229, 70 FR 67359, Nov. 7, 2005; T.D. 9407, 73 FR 37366, July 1, 2008]
+(f) [Reserved]. For further guidance, see § 1.6081-3T(f).
+
+(g) *Applicability dates.* This section applies to requests for extension of time to file corporation income tax returns filed after July 1, 2008.
+
+[T.D. 9163, 69 FR 70548, Dec. 7, 2004, as amended by T.D. 9229, 70 FR 67359, Nov. 7, 2005; T.D. 9407, 73 FR 37366, July 1, 2008; T.D. 9821, 82 FR 33446, July 20, 2017]

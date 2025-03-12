@@ -22,7 +22,7 @@
 
 (B) *Inapplicability of special rules regarding early refunds.* The principles of section 6655(h), applicable to amounts excessively credited or refunded under section 6425, shall not apply. See paragraph (b)(1) of this section providing that section 6425 shall not apply for purposes of the 1446 tax. This paragraph (b)(2)(v)(B) shall apply to 1446 tax paid by a partnership or nominee, as well as to amounts that a partner is deemed to have paid for estimated tax purposes by reason of the partnership's or nominee's 1446 tax payments under § 1.1446-3(d)(1)(i).
 
-(C) *Period of underpayment.* The period of the underpayment set forth in section 6655(b)(2) shall end on the earlier of the 15th day of the 4th month following the close of the partnership's taxable year (or, in the case of a partnership described in § 1.6081-5(a)(1) of this chapter, the 15th day of the 6th month following the close of the partnership's taxable year), or with respect to any portion of the underpayment, the date on which such portion is paid.
+(C) [Reserved]. For further guidance, see § 1.1446-3T(b)(2)(v)(C).
 
 (D) *Other taxes.* Section 6655 shall be applied without regard to any references to alternative minimum taxable income and modified alternative minimum taxable income.
 
@@ -158,4 +158,6 @@ Example 3. Domestic partnership fails to pay 1446 tax but sole foreign partner f
 
 (f) *Effect of withholding on partner.* The payment of the 1446 tax by a partnership does not excuse a foreign partner to which a portion of ECTI is allocable from filing a U.S. tax or informational return, as appropriate, with respect to that income. Information concerning installment payments of 1446 tax paid during the partnership's taxable year on behalf of a foreign partner shall be provided to such foreign partner in accordance with paragraph (d) of this section and such information may be taken into account by the foreign partner when computing the partner's estimated tax liability during the taxable year. Form 1040NR, “U.S. Nonresident Alien Income Tax Return,” Form 1065, “U.S. Return of Partnership Income,” Form 1120F, “U.S. Income Tax Return of a Foreign Corporation,” or such other return as appropriate, must be filed by the partner, and any tax due must be paid, by the filing deadline (including extensions) generally applicable to such person. Pursuant to paragraph (d) of this section, a partner may generally claim a credit under section 33 for its share of any 1446 tax paid by the partnership against the amount of income tax (or 1446 tax in the case of tiers of partnerships) as computed in such partner's return. See § 1.1446-3(e)(3)(ii) for rules permitting a partner to reduce its addition to tax under section 6654 or section 6655.
 
-[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008]
+(g) [Reserved]. For further guidance, see § 1.1446-3T(g).
+
+[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008; T.D. 9821, 82 FR 33444, July 20, 2017]

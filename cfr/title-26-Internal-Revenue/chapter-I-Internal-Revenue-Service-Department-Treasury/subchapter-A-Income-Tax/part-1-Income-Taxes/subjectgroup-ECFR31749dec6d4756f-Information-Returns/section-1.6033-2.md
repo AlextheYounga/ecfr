@@ -84,7 +84,7 @@
 
 Such information need be provided only with respect to those local organizations which are not excepted from filing under the provisions of paragraph (g) of this section. A central or parent organization shall indicate whether it has provided such information in the manner described in subdivision (i) or in subdivision (ii) of this subparagraph, and may not change the manner in which it provides such information without the consent of the Commissioner.
 
-(e) *Time and place for filing.* The annual return required by this section shall be filed on or before the 15th day of the fifth calendar month following the close of the period for which the return is required to be filed. The annual return on Form 1065 required to be filed by a religious or apostolic association or corporation shall be filed on or before the 15th day of the fourth month following the close of the taxable year for which the return is required to be filed. Each such return shall be filed in accordance with the instructions applicable thereto.
+(e) [Reserved]. For further guidance, see § 1.6033-2T(e).
 
 (f) *Penalties and additions to tax.* For penalties and additions to tax for failure to file a return and filing a false or fraudulent return, see sections 6652, 7203, 7206, and 7207.
 
@@ -180,4 +180,4 @@ Example 1.Organization A is described in sections 501(c)(3) and 509(a)(2) and is
 
 (4) The applicability of paragraph (a)(2)(ii)(*l*) of this section shall be limited to returns filed for taxable years ending after December 29, 2014.
 
-[T.D. 7122, 36 FR 11026, June 8, 1971]Editorial Note:For Federal Register citations affecting § 1.6033-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 7122, 36 FR 11026, June 8, 1971]Editorial Note:For Federal Register citations affecting § 1.6033-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

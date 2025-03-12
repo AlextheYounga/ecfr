@@ -2,7 +2,7 @@
 
 (a) An extension of time for filing returns of income and for paying any tax shown on the return is hereby granted to and including the fifteenth day of the sixth month following the close of the taxable year in the case of -
 
-(1) Partnerships which are required under section 6072(a) to file returns on the fifteenth day of the fourth month following the close of the taxable year of the partnership, and which keep their records and books of account outside the United States and Puerto Rico;
+(1) [Reserved]. For further guidance, see § 1.6081-5T(a)(1);
 
 (2) Domestic corporations which transact their business and keep their records and books of account outside the United States and Puerto Rico;
 
@@ -28,4 +28,4 @@
 
 (f) *Effective/applicability date.* This section is applicable for returns of income due after July 1, 2008.
 
-[T.D. 8312, 55 FR 37227, Sept. 10, 1990; 55 FR 41310, Oct. 10, 1990, as amended by T.D. 9163, 69 FR 70550, Dec. 7, 2004; T.D. 9229, 70 FR 67359, Nov. 7, 2005; T.D. 9407, 73 FR 37366, July 1, 2008]
+[T.D. 8312, 55 FR 37227, Sept. 10, 1990; 55 FR 41310, Oct. 10, 1990, as amended by T.D. 9163, 69 FR 70550, Dec. 7, 2004; T.D. 9229, 70 FR 67359, Nov. 7, 2005; T.D. 9407, 73 FR 37366, July 1, 2008; T.D. 9821, 82 FR 33447, July 20, 2017]

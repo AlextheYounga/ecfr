@@ -1,5 +1,5 @@
 ##### § 1.6041-6 Returns made on Forms 1096 and 1099 under section 6041; contents and time and place for filing. #####
 
-Returns made under section 6041 on Forms 1096 and 1099 for any calendar year shall be filed on or before February 28 (March 31 if filed electronically) of the following year with any of the Internal Revenue Service Centers, the addresses of which are listed in the instructions for such forms. The name and address of the person making the payment and the name and address of the recipient of the payment shall be stated on Form 1099. If the present address of the recipient is not available, the last known post office address must be given. See section 6109 and the regulations thereunder for rules requiring the inclusion of identifying numbers in Form 1099.
+[Reserved]. For further guidance, see § 1.6041-6T.
 
-[T.D. 7284, 38 FR 20828, Aug. 3, 1973, as amended by T.D. 8895, 65 FR 50406, Aug. 18, 2000]
+[T.D. 9821, 82 FR 33445, July 20, 2017]

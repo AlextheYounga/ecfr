@@ -6,7 +6,7 @@
 
 (3) *Time for filing* - (i) *General rule.* In a case where an employer must file Forms W-3 and W-2 under this paragraph and also under § 31.6011(a)-4 or § 31.6011(a)-5 of this chapter (Employment Tax Regulations), the time for filing such forms under this paragraph shall be the same as the time (including extensions thereof) for filing such forms under § 31.6011(a)-4 or § 31.6011(a)-5.
 
-(ii) *Exception.* In a case where an employer is not required to file Forms W-3 and W-2 under § 31.6011(a)-4 or § 31.6011(a)-5 of this chapter, returns on Forms W-3 and W-2 required under this paragraph (a) for any calendar year shall be filed on or before February 28 (March 31 if filed electronically) of the following year.
+(ii) [Reserved]. For further guidance, see § 1.6041-2T(a)(3)(ii).
 
 (iii) *Cross reference.* For extensions of time for filing returns, see section 6081 and the regulations thereunder.
 
@@ -24,4 +24,4 @@
 
 (c) *Payments to foreign persons.* See § 1.6041-4 for reporting exemptions regarding payments to foreign persons. See § 1.6049-5(d) for determining whether a payment is made to a foreign person.
 
-[T.D. 7284, 38 FR 20827, Aug. 3, 1973, as amended by T.D. 7580, 43 FR 60159, Dec. 26, 1978; T.D. 8734, 62 FR 53472, Oct. 14, 1997; T.D. 8895, 65 FR 50406, Aug. 18, 2000; T.D. 9114, 69 FR 7570, Feb. 18, 2004]
+[T.D. 7284, 38 FR 20827, Aug. 3, 1973, as amended by T.D. 7580, 43 FR 60159, Dec. 26, 1978; T.D. 8734, 62 FR 53472, Oct. 14, 1997; T.D. 8895, 65 FR 50406, Aug. 18, 2000; T.D. 9114, 69 FR 7570, Feb. 18, 2004; T.D. 9821, 82 FR 33445, July 20, 2017]

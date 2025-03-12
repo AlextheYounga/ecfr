@@ -1,6 +1,6 @@
 ##### § 1.6081-2 Automatic extension of time to file certain returns filed by partnerships. #####
 
-(a) *In general.* (1) A partnership required to file Form 1065, “U.S. Partnership Return of Income,” or Form 8804, “Annual Return for Partnership Withholding Tax,” for any taxable year will be allowed an automatic 5-month extension of time to file the return after the date prescribed for filing the return if the partnership files an application under this section in accordance with paragraph (b) of this section. No additional extension will be allowed pursuant to § 1.6081-1(b) beyond the automatic 5-month extension provided by this section. In the case of a partnership described in § 1.6081-5(a)(1), the automatic extension of time to file allowed under this section runs concurrently with an extension of time to file granted pursuant to § 1.6081-5.
+(a) *In general.* (1) [Reserved]. For further guidance, see § 1.6081-2T(a)(1).
 
 (2) An electing large partnership (ELP) required to file Form 1065-B, “U.S. Return of Income for Electing Large Partnerships,” for any taxable year will be allowed an automatic 6-month extension of time to file the return after the date prescribed for filing the return if the partnership files an application under this section in accordance with paragraph (b) of this section.
 
@@ -28,4 +28,4 @@
 
 (h) *Effective/applicability dates.* This section applies to applications for an automatic extension of time to file the partnership returns listed in paragraph (a) of this section filed on or after June 24, 2011.
 
-[T.D. 9531, 76 FR 36998, June 24, 2011]
+[T.D. 9531, 76 FR 36998, June 24, 2011; T.D. 9821, 82 FR 33446, July 20, 2017]
