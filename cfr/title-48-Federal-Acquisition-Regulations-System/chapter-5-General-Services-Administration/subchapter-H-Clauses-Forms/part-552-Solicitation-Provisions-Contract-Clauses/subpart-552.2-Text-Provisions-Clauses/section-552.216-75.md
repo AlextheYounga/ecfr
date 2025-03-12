@@ -1,5 +1,7 @@
 ##### 552.216-75 Transactional Data Reporting. #####
 
+Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
+
 As prescribed in 516.506(c), insert the following clause:
 
 Transactional Data Reporting (JUN 2016)
@@ -44,7 +46,7 @@ The Contracting Officer may add data elements to the standard elements listed in
 
 (5) The Contractor must maintain a consistent accounting method of transactional data reporting, based on the Contractor's established commercial accounting practice.
 
-(6) *Reporting Points.* (i) The acceptable points at which transactional data may be reported include -
+(6) *Reporting Points.* (i) The acceptable points at which transactional data may be reported include—
 
 (A) Issuance of an invoice; or
 

@@ -1,0 +1,7 @@
+##### 2137.102 Policy. #####
+
+(a) The services under this contract are of vital interest to the Government and must be continued without interruption in the event the contract is terminated, unless the termination occurs as a result of OPM's failure to pay premiums on a timely basis.
+
+(b) The Contractor will be reimbursed for all reasonable phase-in and phase-out costs (i.e., costs incurred within the agreed-upon period after contract termination that result from phase-in and phase-out operations). The Contractor also will receive a risk or service charge for the full period after contract termination during which services are continued, not to exceed a pro rata portion of the risk or service charge for the final contract year. In addition, OPM will pay the Contractor an incentive amount, not to exceed the pro rata risk or service charge for the continuity of services period (LIFAR 2152.237-70), based on exceptional performance during the transition period to a new Contractor. The Contracting Officer will use the weighted guidelines method described in 2115.404-71 of this chapter in determining the incentive amount. The amount of the risk or service charge will be based upon the accurate and timely processing of benefit claims, the volume and validity of customer service complaints, the timeliness and adequacy of reports on operations, and responsiveness to OPM offices, insured individuals, beneficiaries, and Congress.
+
+[70 FR 41153, July 18, 2005]

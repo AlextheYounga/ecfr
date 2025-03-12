@@ -1,0 +1,3 @@
+##### 425.105 Determining reasonableness of cost. #####
+
+The SPE may make the determination prescribed in FAR 25.105(a). Requests for a determination by the SPE shall be submitted by the HCA, in writing, and shall provide a detailed justification supporting why evaluation factors higher than those listed in FAR 25.102(b)(1) and (2) should be applied to determine whether the offered price of a domestic end product is unreasonable.

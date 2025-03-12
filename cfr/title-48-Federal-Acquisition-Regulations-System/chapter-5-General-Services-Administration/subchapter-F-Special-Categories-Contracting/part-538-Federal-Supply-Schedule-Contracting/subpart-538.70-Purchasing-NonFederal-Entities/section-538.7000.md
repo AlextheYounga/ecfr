@@ -1,6 +1,8 @@
 ##### 538.7000 Scope of subpart. #####
 
-This subpart prescribes policies and procedures that implement statutory provisions authorizing non-federal organizations to use -
+Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
+
+This subpart prescribes policies and procedures that implement statutory provisions authorizing non-federal organizations to use—
 
 (a) Federal Supply Schedule 70;
 

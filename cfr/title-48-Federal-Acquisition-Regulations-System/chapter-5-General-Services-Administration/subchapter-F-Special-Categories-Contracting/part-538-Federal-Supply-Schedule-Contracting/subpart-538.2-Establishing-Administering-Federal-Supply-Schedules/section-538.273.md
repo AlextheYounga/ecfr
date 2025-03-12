@@ -1,5 +1,7 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
+
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -8,15 +10,15 @@
 
 (3) 552.238-72, Information Collection Requirements. Use in all FSS solicitations.
 
-(b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors - Commercial Products and Commercial Services:
+(b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services:
 
 (1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. Use only in FSS solicitations for electronic office equipment.
 
 (2) 552.238-74, Introduction of New Supplies/Services (INSS). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
-(c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation - Commercial Products and Commercial Services:
+(c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation—Commercial Products and Commercial Services:
 
-(1) 552.238-75, Evaluation - Commercial Products and Commercial Services (Federal Supply Schedules). Use in FSS standing solicitations.
+(1) 552.238-75, Evaluation—Commercial Products and Commercial Services (Federal Supply Schedules). Use in FSS standing solicitations.
 
 (2) 552.238-76, Use of Non-Government Employees to Review Offers. Use only in FSS solicitations when non-government employees may be utilized to review solicitation responses.
 
@@ -110,7 +112,7 @@
 
 (28) 552.238-104, Dissemination of Information by Contractor. Use in all FSS solicitations and contracts.
 
-(29) 552.238-105, Deliveries Beyond the Contractual Period - Placing of Orders. Use only in FSS solicitations and contracts for supplies.
+(29) 552.238-105, Deliveries Beyond the Contractual Period—Placing of Orders. Use only in FSS solicitations and contracts for supplies.
 
 (30) 552.238-106, Interpretation of Contract Requirements. Use in all FSS solicitations and contracts.
 

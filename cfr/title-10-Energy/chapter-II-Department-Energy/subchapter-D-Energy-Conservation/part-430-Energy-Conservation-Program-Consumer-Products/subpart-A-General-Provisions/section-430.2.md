@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
+Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -275,6 +275,14 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Conventional cooking top* means a category of cooking products which is a household cooking appliance consisting of a horizontal surface containing one or more surface units that utilize a gas flame, electric resistance heating, or electric inductive heating. This includes any conventional cooking top component of a combined cooking product.
 
 *Conventional oven* means a category of cooking products which is a household cooking appliance consisting of one or more compartments intended for the cooking or heating of food by means of either a gas flame or electric resistance heating. It does not include portable or countertop ovens which use electric resistance heating for the cooking or heating of food and are designed for an electrical supply of approximately 120 volts. This includes any conventional oven(s) component of a combined cooking product.
+
+*Conventional room air cleaner* means an air cleaner that—
+
+(1) Is a portable or wall mounted (fixed) unit, excluding ceiling mounted unit, that plugs into an electrical outlet;
+
+(2) Operates with a fan for air circulation; and
+
+(3) Contains means to remove, destroy, and/or deactivate particulates. The term portable is as defined in section 2.1.3.1 of AHAM AC-7-2022 (incorporated by reference; see § 430.3) and fixed is as defined in section 2.1.3.2 of AHAM AC-7-2022.
 
 *Cooking products* means consumer products that are used as the major household cooking appliances. They are designed to cook or heat different types of food by one or more of the following sources of heat: Gas, electricity, or microwave energy. Each product may consist of a horizontal cooking top containing one or more surface units and/or one or more heating compartments.
 

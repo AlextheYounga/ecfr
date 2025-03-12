@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to a correction published at 88 FR 19801, Apr. 4, 2023.
+Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to a correction published at 88 FR 19801, Apr. 4, 2023.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -256,19 +256,23 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
 
-(1) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B of this part.
+(1) ANSI/AHAM AC-1-2020, (“AHAM AC-1-2020”), *Method for Measuring Performance of Portable Household Electric Room Air Cleaners,* ANSI-approved December 14, 2020, including AHAM Standard Interpretation dated September 19, 2022; IBR approved for appendix FF to subpart B.
 
-(2) AHAM DW-1-2020, Uniform Test Method for Measuring the Energy Consumption of Dishwashers, copyright 2020; IBR approved for § 430.32; appendices C1 and C2 to subpart B.
+(2) AHAM AC-7-2022, *Energy Test Method for Consumer Room Air Cleaners,* copyright 2022; IBR approved for § 430.2 and appendix FF to subpart B.
 
-(3) AHAM DW-2-2020, Household Electric Dishwashers, copyright 2020; IBR approved for appendices C1 and C2 to subpart B.
+(3) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B of this part.
 
-(4) ANSI/AHAM HLD-1-2010 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, ANSI-approved June 11, 2010, IBR approved for appendices D1 and D2 to subpart B of this part.
+(4) AHAM DW-1-2020, Uniform Test Method for Measuring the Energy Consumption of Dishwashers, copyright 2020; IBR approved for § 430.32; appendices C1 and C2 to subpart B.
 
-(5) AHAM HRF-1-2019 (“HRF-1-2019”), Energy and Internal Volume of Consumer Refrigeration Products, Copyright © 2019, IBR approved for appendices A and B to subpart B of this part.
+(5) AHAM DW-2-2020, Household Electric Dishwashers, copyright 2020; IBR approved for appendices C1 and C2 to subpart B.
 
-(6) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B of this part.
+(6) ANSI/AHAM HLD-1-2010 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, ANSI-approved June 11, 2010, IBR approved for appendices D1 and D2 to subpart B of this part.
 
-(7) AHAM RAC-1-2020 (“AHAM RAC-1”), Energy Measurement Test Procedure for Room Air Conditioners, approved 2020, IBR approved for appendix F to subpart B.
+(7) AHAM HRF-1-2019 (“HRF-1-2019”), Energy and Internal Volume of Consumer Refrigeration Products, Copyright © 2019, IBR approved for appendices A and B to subpart B of this part.
+
+(8) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B of this part.
+
+(9) AHAM RAC-1-2020 (“AHAM RAC-1”), Energy Measurement Test Procedure for Room Air Conditioners, approved 2020, IBR approved for appendix F to subpart B.
 
 (j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
 
@@ -277,6 +281,8 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 (2) ASTM D2156-09 (Reapproved 2013) (“ASTM D2156R13”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2013, IBR approved for appendix N to subpart B.
 
 (3) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156-09 (R2018)”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2018; IBR approved for appendix O to subpart B.
+
+(4) ASTM E741-11 (Reapproved 2017) (“ASTM E741-11(2017)”), *Standard Test Method for Determining Air Change in a Single Zone Means of a Tracer Gas Dilution* Approved Sept. 1, 2017; IBR approved for appendix FF to subpart B.
 
 (k) *Canadian Standards Association (CSA).* CSA Group, 178 Rexdale Blvd., Toronto, ON, Canada M9W 1R3, 1-800-463-6727 or 416-747-4044, *www.csagroup.org.*
 
@@ -346,7 +352,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (6) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC to subpart B.
+(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, and FF to subpart B.
 
 (8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 

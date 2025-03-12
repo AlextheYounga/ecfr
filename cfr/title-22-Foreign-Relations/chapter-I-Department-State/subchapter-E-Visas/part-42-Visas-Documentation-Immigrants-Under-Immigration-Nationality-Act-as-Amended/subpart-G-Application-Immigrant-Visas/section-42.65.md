@@ -1,7 +1,5 @@
 ##### § 42.65 Supporting documents. #####
 
-Link to an amendment published at 88 FR 13696, Mar. 6, 2023.
-
 (a) *Authority to require documents.* The consular officer is authorized to require documents considered necessary to establish the alien's eligibility to receive an immigrant visa. All such documents submitted and other evidence presented by the alien, including briefs submitted by attorneys or other representatives, shall be considered by the officer.
 
 (b) *Basic documents required.* An alien applying for an immigrant visa shall be required to furnish, if obtainable: A copy of a police certificate or certificates; a certified copy of any existing prison record, military record, and record of birth; and a certified copy of all other records or documents which the consular officer considers necessary.
@@ -22,6 +20,6 @@ Link to an amendment published at 88 FR 13696, Mar. 6, 2023.
 
 (e) *Authenticity of records and documents.* If the consular officer has reason to believe that a required record or document submitted by an applicant is not authentic or has been altered or tampered with in any material manner, the officer shall take such action as may be necessary to determine its authenticity or to ascertain the facts to which the record or document purports to relate.
 
-(f) *Photographs.* Every alien shall furnish color photographs of the number and specifications prescribed by the Department, except that, in countries where facilities for producing color photographs are unavailable as determined by the consular officer, black and white photographs may be substituted.
+(f) *Photographs.* Every applicant shall furnish photographs of the number and specifications prescribed by the Department. The applicant must either upload a digital photograph electronically as part of submitting an online visa application, or a paper photograph at the direction of the Department. The photograph shall be considered signed when the applicant biometrically signs and executes the application under oath pursuant to § 42.67(a).
 
-[52 FR 42613, Nov. 5, 1987, as amended at 55 FR 29015, July 17, 1990; 56 FR 49682, Oct. 1, 1991]
+[52 FR 42613, Nov. 5, 1987, as amended at 55 FR 29015, July 17, 1990; 56 FR 49682, Oct. 1, 1991; 88 FR 13696, Mar. 6, 2023]

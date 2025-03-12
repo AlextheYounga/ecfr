@@ -1,5 +1,7 @@
 ##### 552.238-113 Scope of Contract (Eligible Ordering Activities). #####
 
+Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
+
 As prescribed in 538.7004 (b) insert the following clause:
 
 Scope of Contract (Eligible Ordering Activities) (MAY 2019)

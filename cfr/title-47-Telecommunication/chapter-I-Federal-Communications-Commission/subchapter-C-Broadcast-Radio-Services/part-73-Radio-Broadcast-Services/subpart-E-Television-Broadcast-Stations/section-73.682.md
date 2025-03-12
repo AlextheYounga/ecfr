@@ -262,10 +262,18 @@ The signals on Fields 1 and 2 shall be distinct data streams, for example, to su
 
 (f) *Next Gen TV broadcast television transmission standard authorized.* (1) As an alternative to broadcasting only an ATSC 1.0 signal using the DTV transmission standard set forth in paragraph (d) of this section, DTV licensees or permittees may choose to broadcast an ATSC 3.0 signal using the Next Gen TV transmission standard set forth in this paragraph (f), provided it also broadcasts a simulcast signal in ATSC 1.0 (using the DTV transmission standard in § 73.682(d)).
 
-(2) Effective March 5, 2018, transmission of Next Gen TV broadcast television (ATSC 3.0) signals shall comply with the standards for such transmissions set forth in ATSC A/321:2016, “System Discovery and Signaling” (March 23, 2016) (incorporated by reference, see § 73.8000). To the extent that virtual channels (specified in the DTV transmission standard referenced in ATSC A/65C:2006 in paragraph (d) of this section) are used in the transmission of Next Gen TV broadcasting, major channel numbers shall be assigned as required by ATSC A/65C:2006 Annex B (incorporated by reference, see § 73.8000). In addition, until March 6, 2023, such signals shall also comply with the standards set forth in ATSC A/322:2017 “Physical Layer Protocol” (June 6, 2017) (incorporated by reference, see § 73.8000) with respect to the transmission of at least one free over the air primary video programming stream.
+(2)(i) Effective March 5, 2018, transmission of Next Gen TV broadcast television (ATSC 3.0) signals shall comply with the standards for such transmissions set forth in ATSC A/321:2016, “System Discovery and Signaling” (March 23, 2016) (incorporated by reference, see § 73.8000). To the extent that virtual channels (specified in the DTV transmission standard referenced in ATSC A/65C:2006 in paragraph (d) of this section) are used in the transmission of Next Gen TV broadcasting, major channel numbers shall be assigned as required by ATSC A/65C:2006 Annex B (incorporated by reference, see § 73.8000).
 
-Note to § 73.682:
+(ii) In addition, such signals shall also comply with the standards set forth in ATSC A/322:2017 “Physical Layer Protocol” (June 6, 2017) (incorporated by reference, see § 73.8000) with respect to the transmission of at least one free over the air primary video programming stream.
+
+(iii) Paragraph (f)(2)(ii) of this section will sunset on March 6, 2023.
+
+Note 1 to § 73.682:
 
 For additional information regarding this requirement, *see* Implementation of the Commercial Advertisement Loudness Mitigation (CALM) Act, FCC 11-182.
+
+Note 2 to § 73.682:
+
+Effective April 5, 2023, 47 CFR 73.682(f)(2)(iii) is stayed indefinitely.
 
 (Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.682, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

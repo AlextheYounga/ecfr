@@ -1,0 +1,5 @@
+##### 237.102-79 Private sector notification requirements in support of in-sourcing actions. #####
+
+In accordance with 10 U.S.C. 2463, contracting officers shall provide written notification to affected incumbent contractors of Government in-sourcing determinations. Notification shall be provided within 20 business days of the contracting officer's receipt of a decision from the cognizant component in-sourcing program official. The notification will summarize the requiring official's final determination as to why the service is being in-sourced and shall be coordinated with the component's in-sourcing program official. No formal hiring or contract-related actions may be initiated prior to such notification, except for preliminary internal actions associated with hiring or contract modification. See the OASD (RFM) memorandum entitled “Private Sector Notification Requirements in Support of In-sourcing Actions,” dated January 29, 2013, for further information, which is available at PGI 237.102-79.
+
+[78 FR 65219, Oct. 31, 2013, as amended at 79 FR 35701, June 24, 2014]

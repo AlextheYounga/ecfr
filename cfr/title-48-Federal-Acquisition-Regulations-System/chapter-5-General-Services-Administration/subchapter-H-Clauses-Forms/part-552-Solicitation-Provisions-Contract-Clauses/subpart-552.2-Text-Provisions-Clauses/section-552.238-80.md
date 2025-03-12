@@ -1,12 +1,14 @@
 ##### 552.238-80 Industrial Funding Fee and Sales Reporting. #####
 
+Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
+
 As prescribed in 538.273(d)(4) insert the following clause:
 
 Industrial Funding Fee and Sales Reporting (JUL 2020)
 
 (a) Reporting of Federal Supply Schedule Sales. The Contractor shall report all contract sales under this contract as follows:
 
-(1) The Contractor shall accurately report the dollar value, in U.S. dollars and rounded to the nearest whole dollar, of all sales under this contract by calendar quarter (January 1-March 31, April 1-June 30, July 1-September 30, and October 1-December 31). The dollar value of a sale is the price paid by the Schedule user for products and services on a Schedule task or delivery order. The reported contract sales value shall include the Industrial Funding Fee (IFF). The Contractor shall maintain a consistent accounting method of sales reporting, based on the Contractor's established commercial accounting practice. The acceptable points at which sales may be reported include -
+(1) The Contractor shall accurately report the dollar value, in U.S. dollars and rounded to the nearest whole dollar, of all sales under this contract by calendar quarter (January 1-March 31, April 1-June 30, July 1-September 30, and October 1-December 31). The dollar value of a sale is the price paid by the Schedule user for products and services on a Schedule task or delivery order. The reported contract sales value shall include the Industrial Funding Fee (IFF). The Contractor shall maintain a consistent accounting method of sales reporting, based on the Contractor's established commercial accounting practice. The acceptable points at which sales may be reported include—
 
 (i) Receipt of order;
 
@@ -82,7 +84,7 @@ The Contracting Officer may add data elements to the standard elements listed in
 
 (7) Reporting Points.
 
-(i) The acceptable points at which transactional data may be reported include -
+(i) The acceptable points at which transactional data may be reported include—
 
 (A) Issuance of an invoice; or
 

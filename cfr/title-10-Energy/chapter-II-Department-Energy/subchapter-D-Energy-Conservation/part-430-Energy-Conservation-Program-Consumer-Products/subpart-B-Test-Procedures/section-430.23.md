@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.
+Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -514,5 +514,19 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 (5) For other fluorescent lamps, measure initial light output, input power, lamp efficacy, power factor, and standby mode power in accordance with appendix DD of this subpart.
 
 (6) For OLED and non-integrated LED lamps, measure initial light output, input power, lamp efficacy, power factor, and standby mode power in accordance with appendix DD of this subpart.
+
+(hh) *Air cleaners.* (1) The pollen clean air delivery rate (CADR), smoke CADR, and dust CADR, expressed in cubic feet per minute (cfm), for conventional room air cleaners shall be measured in accordance with section 5 of appendix FF of this subpart.
+
+(2) The PM2.5 CADR, expressed in cfm, for conventional room air cleaners, shall be measured in accordance with section 5 of appendix FF of this subpart.
+
+(3) The active mode and standby mode power consumption, expressed in watts, shall be measured in accordance with sections 5 and 6, respectively, of appendix FF of this subpart.
+
+(4) The annual energy consumption, expressed in kilowatt-hours per year, and the integrated energy factor, expressed in CADR per watts (CADR/W), for conventional room air cleaners, shall be measured in accordance with section 7 of appendix FF of this subpart.
+
+(5) The estimated annual operating cost for conventional room air cleaners, expressed in dollars per year, shall be determined by multiplying the following two factors:
+
+(i) The annual energy consumption as calculated in accordance with section 7 of appendix FF of this subpart, and
+
+(ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary, the resulting product then being rounded off to the nearest dollar per year.
 
 [42 FR 27898, June 1, 1977]Editorial Note:For Federal Register citations affecting § 430.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

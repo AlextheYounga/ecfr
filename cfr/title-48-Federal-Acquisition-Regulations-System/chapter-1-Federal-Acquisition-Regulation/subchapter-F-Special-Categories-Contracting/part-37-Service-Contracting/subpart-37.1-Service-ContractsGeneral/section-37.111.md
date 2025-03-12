@@ -1,0 +1,5 @@
+##### 37.111 Extension of services. #####
+
+Award of contracts for recurring and continuing service requirements are often delayed due to circumstances beyond the control of contracting offices. Examples of circumstances causing such delays are bid protests and alleged mistakes in bid. In order to avoid negotiation of short extensions to existing contracts, the contracting officer may include an option clause (see 17.208(f)) in solicitations and contracts which will enable the Government to require continued performance of any services within the limits and at the rates specified in the contract. However, these rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance thereunder shall not exceed 6 months.
+
+[54 FR 29282, July 11, 1989]

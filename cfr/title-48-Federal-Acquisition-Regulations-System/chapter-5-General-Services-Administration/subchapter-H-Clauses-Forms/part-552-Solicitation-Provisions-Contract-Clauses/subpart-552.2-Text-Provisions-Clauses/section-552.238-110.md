@@ -1,5 +1,7 @@
 ##### 552.238-110 Commercial Satellite Communication (COMSATCOM) Services. #####
 
+Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
+
 As prescribed in 538.273(d)(34) insert the following clause:
 
 Commercial Satellite Communication (COMSATCOM) Services (MAY 2019)
