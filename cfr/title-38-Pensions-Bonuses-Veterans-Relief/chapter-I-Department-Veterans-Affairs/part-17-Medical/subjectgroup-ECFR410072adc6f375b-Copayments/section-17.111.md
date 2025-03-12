@@ -1,7 +1,5 @@
 ##### § 17.111 Copayments for extended care services. #####
 
-Link to an amendment published at 84 FR 26307, June 5, 2019.
-
 (a) *General.* This section sets forth requirements regarding copayments for extended care services provided to veterans by VA (either directly by VA or paid for by VA).
 
 (b) *Copayments.* (1) Unless exempted under paragraph (f) of this section, as a condition of receiving extended care services from VA, a veteran must agree to pay VA and is obligated to pay VA a copayment as specified by this section. A veteran has no obligation to pay a copayment for the first 21 days of extended care services that VA provided the veteran in any 12-month period (the 12-month period begins on the date that VA first provided extended care services to the veteran). However, for each day that extended care services are provided beyond the first 21 days, a veteran is obligated to pay VA the copayment amount set forth below to the extent the veteran has available resources. Available resources are based on monthly calculations, as determined under paragraph (d) of this section. The following sets forth the extended care services provided by VA and the corresponding copayment amount per day:
@@ -22,7 +20,7 @@ Link to an amendment published at 84 FR 26307, June 5, 2019.
 
 (2) For purposes of counting the number of days for which a veteran is obligated to make a copayment under this section, VA will count each day that adult day health care, non-institutional geriatric evaluation, and non-institutional respite care are provided and will count each full day and partial day for each inpatient stay except for the day of discharge.
 
-(3) For hospital care and medical services considered non-institutional care furnished through the Veterans Choice Program under § 17.1500 through 17.1540, the copayment amount at the time of furnishing such care or services by a non-VA entity or provider is $0. VA will determine and assess the veteran's copayment amount at the end of the billing process, but at no time will a veteran's copayment be more than the amount identified in paragraphs (b)(1) or (b)(2) of this section.
+(3) For hospital care and medical services considered non-institutional care furnished through the Veterans Choice Program under §§ 17.1500 through 17.1540, as well as extended care services furnished through the Veterans Community Care Program under §§ 17.4000 through 17.4040, the copayment amount at the time of furnishing such care or services by a non-VA entity or provider is $0. VA will determine and assess the veteran's copayment amount at the end of the billing process, but at no time will a veteran's copayment be more than the amount identified in paragraph (b)(1) or (2) of this section.
 
 (c) *Definitions.* For purposes of this section:
 
@@ -112,4 +110,4 @@ Link to an amendment published at 84 FR 26307, June 5, 2019.
 
 (10) A veteran who was awarded the Medal of Honor.
 
-(Authority: 38 U.S.C. 101(28), 501, 1701(7), 1710, 1710B, 1720B, 1720D, 1722A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014; 84 FR 7815, Mar. 5, 2019]
+[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26307, June 5, 2019]

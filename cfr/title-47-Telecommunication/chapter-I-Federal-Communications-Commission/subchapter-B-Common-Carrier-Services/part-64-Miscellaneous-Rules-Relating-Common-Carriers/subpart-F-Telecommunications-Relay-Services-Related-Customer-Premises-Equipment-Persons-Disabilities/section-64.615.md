@@ -1,6 +1,8 @@
 ##### § 64.615 TRS User Registration Database and administrator. #####
 
-(a) *TRS User Registration Database.* (1) VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database on a per-call basis. Emergency 911 calls are excepted from this requirement.
+(a) *TRS User Registration Database.*
+
+(1) *VRS users call validation.* VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database or the TRS Numbering Directory, as directed by the Commission, the TRS Fund administrator, or the TRS Numbering Administrator, on a per-call basis. Emergency 911 calls are excepted from the requirement in this paragraph (a)(1).
 
 (i) Validation shall occur during the call setup process, prior to the placement of the call.
 
@@ -8,9 +10,17 @@
 
 (iii) Calls that VRS providers are prohibited from completing because the user's eligibility cannot be validated shall not be included in speed of answer calculations and shall not be eligible for compensation from the TRS Fund.
 
-(2) The administrator of the TRS User Registration Database shall assign a unique identifier to each user in the TRS User Registration Database.
+(2) *Enterprise and public videophone call validation.* (i) VRS providers shall validate the registration of an enterprise or public videophone used for a VRS call by querying the designated database in accordance with paragraph (a)(1) of this section.
 
-(3) *Data integrity.* (i) Each VRS and IP CTS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered user or hearing point-to-point user:
+(ii) [Reserved]
+
+(iii) VRS providers shall require their CAs to terminate any call which does not include a registered enterprise or public videophone or, pursuant to the provider's policies, the call does not appear to be a legitimate VRS call, and VRS providers may not seek compensation for such calls from the TRS Fund.
+
+(iv) Emergency 911 calls from enterprise and public videophones shall be exempt from the videophone validation requirements of paragraph (a)(2)(i) of this section.
+
+(3) The administrator of the TRS User Registration Database shall assign a unique identifier to each user in the TRS User Registration Database.
+
+(4) *Data integrity.* (i) Each VRS and IP CTS provider shall request that the administrator of the TRS User Registration Database remove from the TRS User Registration Database user information for any registered user or hearing point-to-point user:
 
 (A) Who informs its default VRS provider or its IP CTS provider that it no longer wants use of a ten-digit number for TRS or (in the case of a hearing point-to-point video user) for point-to-point video service; or
 
@@ -22,13 +32,13 @@
 
 (B) Any user for which a VRS or IP CTS provider makes a request under paragraph (a)(3)(i) of this section.
 
-(4) A VRS or IP CTS provider may query the TRS User Registration Database only for the purposes provided in this subpart, and to determine whether information with respect to its registered users already in the database is correct and complete.
+(5) A VRS or IP CTS provider may query the TRS User Registration Database only for the purposes provided in this subpart, and to determine whether information with respect to its registered users already in the database is correct and complete.
 
-(5) *User verification.* (i) The TRS User Registration Database shall have the capability of performing an identification verification check when a VRS provider, IP CTS provider, or other party submits a query to the database about an existing or potential user.
+(6) *User verification.* (i) The TRS User Registration Database shall have the capability of performing an identification verification check when a VRS provider, IP CTS provider, or other party submits a query to the database about an existing or potential user or an enterprise or public videophone.
 
-(ii) VRS and IP CTS providers shall not register individuals who do not pass the identification verification check conducted through the TRS User Registration Database.
+(ii) VRS and IP CTS providers shall not register individuals or enterprise or public videophones that do not pass the identification verification check conducted through the TRS User Registration Database.
 
-(iii) VRS providers shall not seek compensation for calls placed by individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
+(iii) VRS providers shall not seek compensation for calls placed by individuals or for calls placed to or from enterprise or public videophones that do not pass the identification verification check conducted through the TRS User Registration Database.
 
 (iv) IP CTS providers shall not seek compensation for calls placed to or from individuals that do not pass the identification verification check conducted through the TRS User Registration Database.
 
@@ -38,4 +48,4 @@
 
 (c) *Compliance date.* Paragraphs (a)(3) and (a)(5) of this section contain new or modified information-collection and recordkeeping requirements adopted in FCC 19-11. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019; 84 FR 26372, June 6, 2019]Effective Date Note:At 84 FR 26372, June 6, 2019, § 64.615 was amended by revising paragraph (a)(1) introductory text, redesignating paragraphs (a)(2) through (5) as paragraphs (a)(3) through (6), adding new paragraph (a)(2), and revising newly redesignated paragraph (a)(6). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,8 +1,6 @@
 ##### § 17.55 Payment for authorized public or private hospital care. #####
 
-Link to an amendment published at 84 FR 26306, June 5, 2019.
-
-Except as otherwise provided in this section, payment for public or private hospital care authorized under 38 U.S.C. 1703 and 38 CFR 17.52 of this part or under 38 U.S.C. 1728 and 38 CFR 17.120 of this part shall be based on a prospective payment system similar to that used in the Medicare program for paying for similar inpatient hospital services in the community. Payment shall be made using the Health Care Financing Administration (HCFA) PRICER for each diagnosis-related group (DRG) applicable to the episode of care.
+Except as otherwise provided in this section, payment for public or private hospital care furnished on or before June 6, 2019, under 38 U.S.C. 1703 and § 17.52, or at any time under 38 U.S.C. 1728 and §§ 17.120 and 17.128 or under 38 U.S.C. 1787 and § 17.410, shall be based on a prospective payment system similar to that used in the Medicare program for paying for similar inpatient hospital services in the community. Payment shall be made using the Centers for Medicare & Medicaid Services (CMS) PRICER for each diagnosis-related group (DRG) applicable to the episode of care.
 
 (a) Payment shall be made of the full prospective payment amount per discharge, as determined according to the methodology in subparts D and G of 42 CFR part 412, as appropriate.
 
@@ -28,4 +26,4 @@ Except as otherwise provided in this section, payment for public or private hosp
 
 (k) Notwithstanding other provisions of this section, VA, for public or private hospital care covered by this section, will pay the lesser of the amount determined under paragraphs (a) through (j) of this section or the amount negotiated with the hospital or its agent.
 
-(Authority: 38 USC 513, 1703, 1728; § 233 of P. L. 99-576)[55 FR 42852, Oct. 24, 1990. Redesignated and amended at 61 FR 21965, 21966, May 13, 1996; 62 FR 17072, Apr. 9, 1997; 63 FR 39515, July 23, 1998; 65 FR 66637, Nov. 7, 2000]
+[55 FR 42852, Oct. 24, 1990. Redesignated and amended at 61 FR 21965, 21966, May 13, 1996; 62 FR 17072, Apr. 9, 1997; 63 FR 39515, July 23, 1998; 65 FR 66637, Nov. 7, 2000; 84 FR 26306, June 5, 2019]

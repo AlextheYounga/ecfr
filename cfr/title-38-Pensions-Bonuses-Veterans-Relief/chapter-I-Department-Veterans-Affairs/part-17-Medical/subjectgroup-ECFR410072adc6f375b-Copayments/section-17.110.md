@@ -1,7 +1,5 @@
 ##### § 17.110 Copayments for medication. #####
 
-Link to an amendment published at 84 FR 26306, June 5, 2019.
-
 (a) *General.* This section sets forth requirements regarding copayments for medications provided to veterans by VA. For purposes of this section, the term “medication” means prescription and over-the-counter medications, as determined by the Food and Drug Administration (FDA), but does not mean medical supplies, oral nutritional supplements, or medical devices. Oral nutritional supplements are commercially prepared nutritionally enhanced products used to supplement the intake of individuals who cannot meet nutrient needs by diet alone.
 
 (b) *Copayments.* (1) *Copayment amount.* Unless exempted under paragraph (c) of this section, a veteran is obligated to pay VA a copayment for each 30-day or less supply of medication provided by VA on an outpatient basis (other than medication administered during treatment).
@@ -64,7 +62,7 @@ Link to an amendment published at 84 FR 26306, June 5, 2019.
 
 (3) *Information on Tier 1 medications.* Not less than once per year, VA will publish a list of Tier 1 medications in the Federal Register and on VA's Web site at *www.va.gov/health.*
 
-(4) *Veterans Choice Program.* For medications furnished through the Veterans Choice Program under § 17.1500 through 17.1540, the copayment amount at the time the veteran fills the prescription is $0. VA will determine and assess the veteran's copayment amount at the end of the billing process, but at no time will a veteran's copayment be more than the amount identified in paragraphs (b)(1)(i) through (b)(1)(iii) of this section.
+(4) *Veterans Choice Program.* For medications furnished through the Veterans Choice Program under §§ 17.1500 through 17.1540, or the Veterans Community Care Program under §§ 17.4000 through 17.4040, the copayment amount at the time the veteran fills the prescription is $0. VA will determine and assess the veteran's copayment amount at the end of the billing process, but at no time will a veteran's copayment be more than the amount identified in paragraphs (b)(1)(i) through (iii) of this section.
 
 (5) *Copayment cap.* The total amount of copayments for medications in a calendar year for an enrolled veteran will not exceed $700.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 84 FR 26306, June 5, 2019.
 
 (11) Medication for a veteran who was awarded the Medal of Honor.
 
-(Authority: 38 U.S.C. 501, 1710, 1720D, 1722A, 1730A, Sec. 101, Pub. L. 113-146, 128 Stat. 1754)[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019]
+[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019; 84 FR 26306, June 5, 2019]

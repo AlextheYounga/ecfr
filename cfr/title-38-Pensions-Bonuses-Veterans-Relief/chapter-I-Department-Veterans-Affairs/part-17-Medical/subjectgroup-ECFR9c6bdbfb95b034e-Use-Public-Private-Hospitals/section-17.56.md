@@ -1,7 +1,5 @@
 ##### § 17.56 VA payment for inpatient and outpatient health care professional services at non-departmental facilities and other medical charges associated with non-VA outpatient care. #####
 
-Link to an amendment published at 84 FR 26306, June 5, 2019.
-
 (a) Except for health care professional services provided in the state of Alaska (see paragraph (b) of this section), VA will determine the amounts paid under § 17.52 or § 17.120 for health care professional services, and all other medical services associated with non-VA outpatient care, using the applicable method in this section:
 
 (1) If a specific amount has been negotiated with a specific provider, VA will pay that amount.
@@ -24,4 +22,6 @@ Link to an amendment published at 84 FR 26306, June 5, 2019.
 
 (d) In a case where a veteran has paid for emergency treatment for which VA may reimburse the veteran under § 17.120, VA will reimburse the amount that the veteran actually paid. Any amounts due to the provider but unpaid by the veteran will be reimbursed to the provider under paragraphs (a) and (b) of this section.
 
-(Authority: 38 U.S.C. 1703, 1728)[75 FR 78915, Dec. 17, 2010, as amended at 78 FR 26251, May 6, 2013; 78 FR 68364, Nov. 14, 2013; 79 FR 16200, Mar. 25, 2014]
+(e) Except for payments for care furnished under 38 U.S.C. 1725 and § 17.1005, under 38 U.S.C. 1728 and §§ 17.120 and 17.128, or under 38 U.S.C. 1787 and § 17.410, the provisions of this section shall not apply to care furnished by VA after June 6, 2019, or care furnished pursuant to an agreement authorized by 38 U.S.C. 1703A.
+
+[75 FR 78915, Dec. 17, 2010, as amended at 78 FR 26251, May 6, 2013; 78 FR 68364, Nov. 14, 2013; 79 FR 16200, Mar. 25, 2014; 84 FR 26306, June 5, 2019]

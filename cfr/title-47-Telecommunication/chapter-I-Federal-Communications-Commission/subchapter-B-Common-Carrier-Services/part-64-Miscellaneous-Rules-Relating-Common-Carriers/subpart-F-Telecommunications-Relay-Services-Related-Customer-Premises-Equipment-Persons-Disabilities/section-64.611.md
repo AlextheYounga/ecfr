@@ -60,11 +60,39 @@
 
 (ix) Hearing individuals who are assigned iTRS numbers under this paragraph (a)(5) shall not be deemed registered VRS users. VRS providers shall not be compensated and shall not seek compensation from the TRS Fund for any VRS calls to or from such iTRS numbers.
 
+(6) *Enterprise and public videophones* - (i) *Definition.* For purposes of this section, a default VRS provider for an enterprise or public videophone is the VRS provider that assigns a North American Numbering Plan (NANP) telephone number to such videophone or receives a port of such number.
+
+(ii) *Enterprise and public videophone certification.* (A) *Written certification.* A default VRS provider for an enterprise or public videophone shall obtain a written certification from the individual responsible for the videophone, attesting that the individual understands the functions of the videophone and that the cost of VRS calls made on the videophone is financed by the federally regulated Interstate TRS Fund, and for enterprise videophones, that the organization, business, or agency will make reasonable efforts to ensure that only persons with a hearing or speech disability are permitted to use the phone for VRS.
+
+(B) *Electronic signatures.* The certification required by paragraph (a)(6)(ii)(A) of this section must be made on a form separate from any other agreement or form, and must include a separate signature specific to the certification. For the purposes of this paragraph (a)(6)(ii)(B), an electronic signature, defined by the Electronic Signatures in Global and National Commerce Act as an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record, has the same legal effect as a written signature. For the purposes of this paragraph (a)(6)(ii)(B), an electronic record, defined by the Electronic Signatures in Global and National Commerce Act as a contract or other record created, generated, sent, communicated, received, or stored by electronic means, constitutes a record.
+
+(C) *Consent for transmission and confidentiality of enterprise and public videophone registration.* A default VRS provider for an enterprise or public videophone must obtain consent from the individual responsible for the videophone to transmit the information required by this section to the TRS User Registration Database. Before obtaining such consent, a VRS provider must describe to such individual, using clear, easily understood language, the specific information being transmitted, that the information is being transmitted to the TRS User Registration Database to ensure proper administration of the TRS program, and that failure to provide consent will result in denial of service to the videophone. A VRS provider must obtain and keep a record of affirmative acknowledgment of such consent for every enterprise and public videophone. A VRS provider shall maintain the confidentiality of any registration and certification information obtained by the provider, and may not disclose such registration and certification information, or the content of such registration and certification information, except as required by law or regulation.
+
+(iii) *Enterprise and public videophone registration.* A default VRS provider for an enterprise or public videophone shall transmit to the TRS User Registration Database, in a format prescribed by the administrator of the TRS User Registration Database, the following information for each enterprise or public videophone for which it assigns (or receives a port of) a North American Numbering Plan telephone number or for which it is the default VRS provider:
+
+(A) The default VRS provider's name;
+
+(B) The NANP telephone number assigned to the videophone;
+
+(C) The name and physical address of the organization, business, or agency where the enterprise or public videophone is located, and the Registered Location of the phone if that is different from the physical address;
+
+(D) Whether the videophone is a public or enterprise videophone, and for enterprise videophones, the type of location where the videophone is located within the organization, business, agency, or other entity, such as, but not limited to, a reception desk or other work area, a private workspace, a private room in a long-term care facility, or another restricted area;
+
+(E) The date of initiation of service to the videophone by the default VRS provider;
+
+(F) The name of the individual responsible for the videophone, confirmation that the provider has obtained the certification required by paragraph (a)(6)(ii) of this section, and the date the certification was obtained by the provider; and
+
+(G) Whether the device is assigned to a hearing individual who knows sign language.
+
+(iv) *Transmission of data to the TRS User Registration Database.* Default VRS providers shall transmit the information required by paragraph (a)(6)(iii) of this section for existing enterprise and public videophones within 120 days after notice from the Commission that the TRS User Registration Database is ready to accept such information. For videophones placed in service more than 120 days after such notice, the default VRS provider shall submit the required information and certification before initiating service. VRS calls placed to or from enterprise or public videophones more than 120 days after such notice shall not be compensable if the required registration information was not received by the TRS User Registration Database before placement of the call.
+
+(v) *Notice of removal or disconnection of enterprise and public videophones.* VRS providers shall notify the TRS Fund administrator within one business day in the event that a registered enterprise or public videophone is removed or permanently disconnected from VRS.
+
 (b) *Mandatory registration of new users.* As of December 31, 2008, VRS and IP Relay providers must, prior to the initiation of service for an individual that has not previously utilized VRS or IP Relay, register that new user as described in paragraph (a) of this section.
 
 (c) *Obligations of default providers and former default providers.* (1) Default providers must:
 
-(i) Obtain current routing information, including IP addresses or domain names and user names, from their Registered Internet-based TRS Users;
+(i) Obtain current routing information from their Registered internet-based TRS Users, registered enterprise and public videophones, and hearing point-to-point video users;
 
 (ii) Provision such information to the TRS Numbering Directory; and
 
@@ -72,13 +100,13 @@
 
 (2) Internet-based TRS providers (and, to the extent necessary, their Numbering Partners) must:
 
-(i) Take such steps as are necessary to cease acquiring routing information from any VRS, IP Relay, or hearing point-to-point video user that ports his or her number to another VRS or IP Relay provider or otherwise selects a new default provider;
+(i) Take such steps as are necessary to cease acquiring routing information from any VRS, IP Relay, or hearing point-to-point video user, or any individual responsible for maintaining an enterprise or public videophone, that ports a NANP telephone number to another VRS or IP Relay provider or otherwise selects a new default provider; and
 
 (ii) Communicate among themselves as necessary to ensure that:
 
 (A) Only the default provider provisions routing information to the central database; and
 
-(B) VRS and IP Relay providers other than the default provider are aware that they must query the TRS Numbering Directory in order to obtain accurate routing information for a particular user of VRS or IP Relay.
+(B) VRS and IP Relay providers other than the default provider are aware that they must query the TRS Numbering Directory in order to obtain accurate routing information for a particular user of VRS or IP Relay, or for an enterprise or public videophone.
 
 (d) *Proxy numbers.* After December 31, 2008, a VRS or IP Relay provider:
 
@@ -210,4 +238,4 @@
 
 (k) *Compliance date.* Paragraph (j)(2) of this section contains new or modified information-collection and recordkeeping requirements adopted in FCC 19-11. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
 
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019]
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019]Effective Date Note:At 84 FR 26371, June 6, 2019, § 64.611 was amended by adding paragraph (a)(6) and revising paragraphs (c)(1)(i), (c)(2)(i), and (c)(2)(ii)(B). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

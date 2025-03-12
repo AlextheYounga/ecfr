@@ -1,7 +1,5 @@
 ##### § 17.38 Medical benefits package. #####
 
-Link to an amendment published at 84 FR 26306, June 5, 2019.
-
 (a) Subject to paragraphs (b) and (c) of this section, the following hospital, outpatient, and extended care services constitute the “medical benefits package” (basic care and preventive care):
 
 (1) Basic care.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 26306, June 5, 2019.
 
 (iii) Prescription drugs, including over-the-counter drugs and medical and surgical supplies available under the VA national formulary system.
 
-(iv) Emergency care in VA facilities; and emergency care in non-VA facilities in accordance with sharing contracts or if authorized by §§ 17.52(a)(3), 17.53, 17.54, 17.120-132.
+(iv) Emergency care in VA facilities; and emergency care in non-VA facilities in accordance with sharing contracts or if authorized by§ 17.52(a)(3), § 17.53, § 17.54, §§ 17.120 through 17.132, or §§ 17.4000 through 17.4040.
 
 (v) Bereavement counseling as authorized in § 17.98.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 84 FR 26306, June 5, 2019.
 
 (6) Membership in spas and health clubs.
 
-[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017]
+[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017; 84 FR 26306, June 5, 2019]
