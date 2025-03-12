@@ -140,7 +140,7 @@
 
 (lxiii) Farmers' Market Promotion Program (7 U.S.C. 2005).
 
-(lxiv) National Organic Certification Cost-Share Program (7 U.S.C. 6523).
+(lxiv) [Reserved]
 
 (lxv) Exemption of Certified Organic Products from Assessment (7 U.S.C. 7401).
 
@@ -232,4 +232,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 22188, May 14, 2018]

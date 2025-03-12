@@ -1,0 +1,5 @@
+##### § 1416.301 Applicability. #####
+
+(a) This subpart establishes the terms and conditions under which the Livestock Indemnity Program (LIP) will be administered under Title I of the 2014 Farm Bill (Pub. L. 113-79).
+
+(b) Eligible livestock owners and contract growers will be compensated in accordance with § 1416.306 for eligible livestock deaths in excess of normal mortality that occurred in the calendar year for which benefits are being requested as a direct result of an eligible adverse weather event or attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators. The eligible adverse weather event, is one, as determined by the Secretary, that occurs in the program year that directly results in the death of livestock despite the livestock producer's performance of expected and normal preventative or corrective measures and good farming practices. Because feed can be purchased or otherwise obtained in the event of a drought, drought is not an eligible adverse weather event except when anthrax, which is exacerbated by drought, causes the death of eligible livestock.

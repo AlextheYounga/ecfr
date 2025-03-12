@@ -1,0 +1,3 @@
+##### § 1424.10 Succession and control of facilities and production. #####
+
+A person who obtains a facility that is under contract under this part may request permission to succeed to the program agreement and CCC may grant such request if it is determined that permitting such succession would serve the purposes of the program. If appropriate, CCC may require the consent of the original party to such succession. Also, CCC may terminate a contract and demand full refund of payments made if a contracting party loses control of a facility whose increased production is the basis of a program payment or otherwise fails to retain the ability to assure that all program obligations and requirements will be met.

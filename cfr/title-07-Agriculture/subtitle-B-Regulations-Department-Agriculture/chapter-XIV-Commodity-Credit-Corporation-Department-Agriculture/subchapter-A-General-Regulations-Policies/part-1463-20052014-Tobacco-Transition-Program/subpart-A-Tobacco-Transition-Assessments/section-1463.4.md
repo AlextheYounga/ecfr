@@ -1,0 +1,3 @@
+##### § 1463.4 National assessment. #####
+
+Annually, CCC will make a determination of a national assessment in as far in advance of when the first assessment is due as CCC determines to be practicable. Based upon the amount of assessments received and expenditures incurred in a calendar year quarter, CCC may adjust the national assessment for one or more classes of tobacco established for a particular year with respect to succeeding calendar year quarters.

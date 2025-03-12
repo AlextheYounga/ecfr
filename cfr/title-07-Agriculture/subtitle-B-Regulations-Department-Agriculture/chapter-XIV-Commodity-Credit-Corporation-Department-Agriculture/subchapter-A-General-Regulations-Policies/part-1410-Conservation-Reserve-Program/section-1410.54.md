@@ -1,0 +1,3 @@
+##### § 1410.54 Performance based upon advice or action of the Department. #####
+
+The provisions of § 718.8 of this chapter relating to performance based upon the action or advice of an authorized representative of the Department shall be applicable to this part, and may be considered as a basis to provide relief to persons subject to sanctions under this part to the extent that relief is otherwise required by this part.

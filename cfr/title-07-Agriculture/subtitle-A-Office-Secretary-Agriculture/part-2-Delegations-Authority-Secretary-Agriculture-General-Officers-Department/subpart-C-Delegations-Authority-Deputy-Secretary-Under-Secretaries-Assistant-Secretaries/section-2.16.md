@@ -1,6 +1,6 @@
-##### § 2.16 Under Secretary for Farm and Foreign Agricultural Services. #####
+##### § 2.16 Under Secretary for Farm Production and Conservation. #####
 
-(a) The following delegations of authority are made by the Secretary of Agriculture to the Under Secretary for Farm and Foreign Agricultural Services:
+(a) The following delegations of authority are made by the Secretary of Agriculture to the Under Secretary for Farm Production and Conservation:
 
 (1) *Related to Farm Service Agency.* (i) Formulate policies and administer programs authorized by the Agricultural Adjustment Act of 1938, as amended (7 U.S.C. 1282 *et seq.*).
 
@@ -32,7 +32,7 @@
 
 (v) Administer the Emergency Conservation Program under the Agricultural Credit Act of 1978, as amended (16 U.S.C. 2201 *et seq.*).
 
-(vi) Conduct fiscal, accounting and claims functions relating to Commodity Credit Corporation (CCC) programs for which the Under Secretary for Farm and Foreign Agricultural Services has been delegated authority under paragraph (a)(3) of this section and, in conjunction with other agencies of the U.S. Government, develop and formulate agreements to reschedule amounts due from foreign countries.
+(vi) Conduct fiscal, accounting and claims functions relating to Commodity Credit Corporation (CCC) programs for which the Under Secretary for Farm Production and Conservation has been delegated authority.
 
 (vii) Conduct assigned activities under the Strategic and Critical Materials Stockpiling Act, as amended (50 U.S.C. 98 *et seq.*).
 
@@ -42,7 +42,7 @@
 
 (x) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agricultural Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated in paragraph (a)(3) of this section and to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19, and assist the Under Secretary for Food, Nutrition, and Consumer Services and the Assistant Secretary for Marketing and Regulatory Programs in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751, *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
 
-(xi) [Reserved]
+(xi) Administer the Organic Certification Cost Share Programs authorized under the Federal Crop Insurance Act (7 U.S.C. 1524(b)(4)(C)(ii), and under the Farm Security and Rural Investment Act, as amended by the Agricultural Act of 2014 (7 U.S.C. 6523). [Reserved]
 
 (xii) Administer the Agricultural Foreign Investment Disclosure Act of 1978 (7 U.S.C. 3501 *et seq.*), except those functions delegated in § 2.21(a)(8)(xi).
 
@@ -68,7 +68,7 @@
 
 (xxv) Administer all programs of the Commodity Credit Corporation that provide assistance with respect to the production of agricultural commodities or the income of producers, including disaster assistance and the domestic marketing of such commodities, except as may otherwise be reserved by the Secretary of Agriculture, and similar programs (including commodity quality development programs) consigned by statute to the Secretary of Agriculture unless otherwise delegated.
 
-(xxvi) Administer the following provisions of the Farm Security and Rural Investment Act of 2002 with respect to functions otherwise delegated to the Under Secretary for Farm and Foreign Agricultural Services:
+(xxvi) Administer the following provisions of the Farm Security and Rural Investment Act of 2002 with respect to functions otherwise delegated to the Under Secretary for Farm Production and Conservation:
 
 (A) The equitable relief provisions of section 1613 (7 U.S.C. 7996).
 
@@ -86,7 +86,7 @@
 
 (xxx-(xxxi) [Reserved]
 
-(xxxii) Implement the authority in section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of that Act with respect to authorities delegated to the Under Secretary for Farm and Foreign Agricultural Services.
+(xxxii) Implement the authority in section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of that Act with respect to authorities delegated to the Under Secretary for Farm Production and Conservation.
 
 (xxxiii) In coordination with the Assistant Secretary for Administration, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
@@ -117,6 +117,10 @@
 (C) Section 12314 relating to the Pima Agriculture Cotton Trust Fund (7 U.S.C. 2101 note).
 
 (D) Section 12315 relating to the Agriculture Wool Apparel Manufacturers Trust Fund (7 U.S.C. 7101 note).
+
+(xxxvii) Administer the funds made available to the Office of the Secretary under Title I of Subdivision B, Further Supplemental Appropriations for Disaster Relief Requirements Act, 2018, Public Law 115-123.
+
+(xxxviii) Determine the agricultural commodities acquired under price support programs which are available for export.
 
 (2) *Related to farm credit.* (i) Administer the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*), except for the authority contained in the following sections:
 
@@ -186,119 +190,159 @@
 
 (xv) Administer evaluations of direct and guaranteed loan programs under section 5301 of the Farm security and Rural Investment Act of 2002 (7 U.S.C. 1922 note).
 
-(3) *Related to foreign agriculture.* (i) Coordinate the carrying out by Department agencies of their functions involving foreign agricultural policies and programs and their operations and activities in foreign areas. Act as liaison on these matters and functions relating to foreign agriculture between the Department of Agriculture and the Department of State, the United States Trade Representative, the Trade Policy Committee, the Agency for International Development, and other departments, agencies, and committees of the U.S. Government, foreign governments, the Organization for Economic Cooperation and Development, the European Union, the Food and Agriculture Organization of the United Nations, the International Bank for Reconstruction and Development, the Inter-American Development Bank, the Organization of American States, and other public and private U.S. and international organizations, and the contracting parties to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO).
+(3) *Related to natural resources conservation.* (i) Provide national leadership in the conservation, development and productive use of the Nation's soil, water, and related resources. Such leadership encompasses soil, water, plant, and wildlife conservation; small watershed protection and flood prevention; and resource conservation and development. Integrated in these programs are erosion control, sediment reduction, pollution abatement, land use planning, multiple use, improvement of water quality, and several surveying and monitoring activities related to environmental improvement. All are designed to assure:
 
-(ii) Administer Departmental programs concerned with development of foreign markets for agricultural products of the United States except functions relating to export marketing operations under section 32 of the Act of August 23, 1935, as amended (7 U.S.C. 612c), delegated to the Assistant Secretary for Marketing and Regulatory Programs, and utilization research delegated to the Under Secretary for Research, Education, and Economics.
+(A) Quality in the natural resource base for sustained use;
 
-(iii) Conduct studies of worldwide production, trade, marketing, prices, consumption, and other factors affecting exports and imports of U.S. agricultural commodities; obtain information on methods used by other countries to move farm commodities in world trade on a competitive basis for use in the development of programs of this Department; provide information to domestic producers, the agricultural trade, the public and other interests; and promote normal commercial markets abroad. This delegation excludes basic and long-range analyses of world conditions and developments affecting supply, demand, and trade in farm products and general economic analyses of the international financial and monetary aspects of agricultural affairs as assigned to the Under Secretary for Research, Education, and Economics.
+(B) Quality in the environment to provide attractive, convenient, and satisfying places to live, work, and play; and
 
-(iv) Conduct functions of the Department relating to GATT, WTO, the Trade Expansion Act of 1962 (19 U.S.C. 1801 *et seq.*), the Trade Act of 1974 (19 U.S.C. 2101 *et seq.*), the Trade Agreements Act of 1979 (19 U.S.C. 2501 *et seq.*), the Omnibus Trade and Competition Act of 1988 (19 U.S.C. 2901 *et seq.*), the provisions of subtitle B of title III of the North American Free Trade Agreement Implementation Act, and other legislation affecting international agricultural trade including the programs designed to reduce foreign tariffs and other trade barriers.
+(C) Quality in the standard of living based on community improvement and adequate income.
 
-(v) Maintain a worldwide agricultural intelligence and reporting system, including provision for foreign agricultural representation abroad to protect and promote U.S. agricultural interests, and to acquire information on demand, competition, marketing, and distribution of U.S. agricultural commodities abroad pursuant to title VI of the Agricultural Act of 1954, as amended (7 U.S.C. 1761-1768).
+(ii) Provide national leadership in and evaluate and coordinate land use policy, and administer the Farmland Protection Policy Act (7 U.S.C. 4201 *et seq.*), including the Farms for the Future Program authorized by sections 1465-1470 of the Food, Agriculture, Conservation, and Trade Act of 1990, as amended (7 U.S.C. 4201 note), except as otherwise delegated to the Under Secretary for Research, Education, and Economics in § 2.21(a)(1)(lxii).
 
-(vi) Exercise the Department's functions with respect to the International Coffee Agreement or any such future agreement.
+(iii) Administer the basic program of soil and water conservation under Public Law 46, 74th Congress, as amended, and related laws (16 U.S.C. 590 a-f, i-l, q, q-1; 42 U.S.C. 3271-3274; 7 U.S.C. 2201), including:
 
-(vii) Administer functions of the Department relating to import controls, except those functions reserved to the Secretary in paragraph (b) of this section and those relating to section 8e of the Agricultural Act of 1938 (7 U.S.C. 608e-1), as assigned to the Assistant Secretary for Marketing and Regulatory Programs. These include:
+(A) Technical and financial assistance to land users in carrying out locally adapted soil and water conservation programs primarily through soil and water conservation districts in the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and Federally recognized Native American tribes, but also to communities, watershed groups, Federal and State agencies, and other cooperators. This authority includes such assistance as:
 
-(A) Functions under section 22 of the Agricultural Adjustment Act of 1933, as amended (7 U.S.C. 624);
+(*1*) Comprehensive planning assistance in nonmetropolitan districts;
 
-(B) General note 15(c) to the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202);
+(*2*) Assistance in the field of income-producing recreation on rural non-Federal lands;
 
-(C) Requests for emergency relief from duty-free imports of perishable products filed with the Department of Agriculture under section 213(f) of the Caribbean Basin Recovery Act of 1983 (19 U.S.C. 2703(f));
+(*3*) Forestry assistance, as part of total technical assistance to private land owners and land users when such services are an integral part of land management and such services are not available from a State agency; and forestry services in connection with windbreaks and shelter belts to prevent wind and water erosion of lands;
 
-(D) Section 404 of the Trade and Tariff Act of 1984 (19 U.S.C. 2112 note);
+(*4*) Assistance in developing programs relating to natural beauty; and
 
-(E) Section 204(d) of the Andean Trade Preference Act (19 U.S.C. 3203(d));
+(*5*) Assistance to other USDA agencies in connection with the administration of their programs, as follows:
 
-(F) Functions under sections 309 and 316 of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3358 and 3381);
+(*i*) To the Farm Service Agency in the development and technical servicing of certain programs, such as the Agricultural Conservation Program and other such similar conservation programs;
 
-(G) Section 301(a) of the United States-Canada Free Trade Agreement Implementation Act (19 U.S.C. 2112 note); and
+(*ii*) To the Rural Housing Service in connection with their loan and land disposition programs;
 
-(H) Section 204 of the Agricultural Act of 1956, as amended (7 U.S.C. 1854).
+(B) Soil Surveys, including:
 
-(viii) Represent the Department on the Interdepartmental Committee for Export Control and to conduct departmental activities to carry out the provisions of the Export Administration Act of 1969, as amended (50 U.S.C. App. 2401 *et seq.*), except as reserved to the Secretary under paragraph (b)(2) of this section.
+(*1*) Providing leadership for the Federal part of the National Cooperative Soil Survey which includes conducting and publishing soil surveys;
 
-(ix) Exercise the Department's responsibilities in connection with international negotiations of the Grains Trade Convention and in the administration of such Convention.
+(*2*) Conducting soil surveys for resource planning and development; and
 
-(x) Plan and carry out programs and activities under the foreign market promotion authority of: The Wheat Research and Promotion Act (7 U.S.C. 1292 note); the Cotton Research and Promotion Act (7 U.S.C. 2101-2118); the Potato Research and Promotion Act (7 U.S.C. 2611-2627); the Egg Research and Consumer Information Act of 1974 (7 U.S.C. 2701-2718); the Beef Research and Information Act, as amended (7 U.S.C. 2901-2911); the Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417); the Floral Research and Consumer Information Act of 1981 (7 U.S.C. 4301-4319); subtitle B of title I of the Dairy and Tobacco Adjustment Act of 1983 (7 U.S.C. 4501-4514); the Honey Research, Promotion, and Consumer Information Act of 1984, as amended (7 U.S.C. 4601-4613); the Pork Promotion, Research, and Consumer Information Act of 1985 (7 U.S.C. 4801-4819); the Watermelon Research and Promotion Act, as amended (7 U.S.C. 4901-4916); the Pecan Promotion and Research Act of 1990 (7 U.S.C. 6001-6013); the Mushroom Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6101-6112); the Lime Research, Promotion, and Consumer Information Act of 1990 (7 U.S.C. 6201-6212); the Soybean Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6301-6311); the Fluid Milk Promotion Act of 1990 (7 U.S.C. 6401-6417); the Fresh Cut Flowers and Fresh Cut Greens Promotion and Consumer Information Act (7 U.S.C. 6801-6814); the Sheep Promotion, Research, and Information Act of 1994 (7 U.S.C. 7101-7111); the Commodity Promotion, Research, and Information Act of 1996 (7 U.S.C. 7411-7425); the Canola and Rapeseed Research, Promotion, and Consumer Information Act (7 U.S.C. 7441-7452); the National Kiwifruit Research, Promotion, and Consumer Information Act (7 U.S.C. 7461-7473); and, the Popcorn Promotion, Research, and Consumer Information Act (7 U.S.C. 7481-7491). This authority includes determining the programs and activities to be undertaken and assuring that they are coordinated with the overall departmental programs to develop foreign markets for U.S. agricultural products.
+(*3*) Performing the cartographic services essential to carrying out the functions of the Natural Resources Conservation Service, including furnishing photographs, mosaics, and maps;
 
-(xi) Formulate policies and administer barter programs under which agricultural commodities are exported.
+(C) Conducting and coordinating snow surveys and making water supply forecasts pursuant to Reorganization Plan No. IV of 1940 (5 U.S.C. App.);
 
-(xii) Perform functions of the Department in connection with the development and implementation of agreements to finance the sale and exportation of agricultural commodities under the Food for Peace Act (7 U.S.C. 1691, 1701 *et seq.*).
+(D) Operating plant materials centers for the assembly and testing of plant species in conservation programs, including the use, administration, and disposition of lands under the administration of the Natural Resources Conservation Service for such purposes under title III of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1010-1011); and
 
-(xiii) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of the Food for Peace Act (7 U.S.C. 1691, 1701 *et seq.*), and payment and related services with respect to export programs and barter operations.
+(E) Providing leadership in the inventorying and monitoring of soil, water, land, and related resources of the Nation.
 
-(xiv) Coordinate within the Department activities arising under the Food for Peace Act (except as delegated to the Under Secretary for Research, Education, and Economics in § 2.21(a)(8)), and represent the Department in its relationships in such matters with the Department of State, any interagency committee on the Food for Peace Act, and other departments, agencies and committees of the Government.
+(iv) Administer the Watershed Protection and Flood Prevention Programs, including:
 
-(xv)-(xvi) [Reserved]
+(A) The eleven authorized watershed projects authorized under 33 U.S.C. 702b-1;
 
-(xvii) Carry out activities relating to the sale, reduction, or cancellation of debt, as authorized by title VI of the Agricultural Trade and Development Act of 1954, as amended (7 U.S.C. 1738 *et seq.*).
+(B) The emergency flood control work under 33 U.S.C. 701b-1;
+
+(C) The Cooperative River Basin Surveys and Investigations Programs under 16 U.S.C. 1006;
+
+(D) The pilot watershed projects under 16 U.S.C. 590 a-f and 16 U.S.C. 1001-1009;
+
+(E) The Watershed Protection and Flood Prevention Program under 16 U.S.C. 1001-1010, including rehabilitation of water resource structural measures constructed under certain Department of Agriculture programs under 16 U.S.C. 1012, except for responsibilities assigned to the Assistant to the Secretary for Rural Development.
+
+(F) The joint investigations and surveys with the Department of the Army under 16 U.S.C. 1009; and
+
+(G) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205, except for the provisions of sections 401 and 402, 16 U.S.C. 2201-2202, as administered by the Under Secretary for Farm Production and Conservation.
+
+(v) Administer the Great Plains Conservation Program and the Critical Lands Resources Conservation Program under 16 U.S.C. 590p(b), 590q and 590q-3.
+
+(vi) Administer the Resource Conservation and Development Program under 16 U.S.C. 590 a-f; 7 U.S.C. 1010-1011; and 16 U.S.C. 3451-3461, except for responsibilities assigned to the Assistant to the Secretary for Rural Development.
+
+(vii) Responsibility for entering into long-term contracts for carrying out conservation and environmental measures in watershed areas.
+
+(viii) Provide national leadership for and administer the Soil and Water Resources Conservation Act of 1977 (16 U.S.C. 2001 *et seq.*).
+
+(ix) Administer the Rural Clean Water Program and other responsibilities assigned under section 35 of the Clean Water Act of 1977 (33 U.S.C. 1251 *et seq.*).
+
+(x) Monitor actions and progress of USDA in complying with Executive Order 11988, Flood Plain Management, 3 CFR, 1977 Comp., p. 117, and Executive Order 11990, Protection of Wetlands, 3 CFR, 1977 Comp., p. 121, regarding management of floodplains and protection of wetlands; monitor USDA efforts on protection of important agricultural, forest and rangelands; and provide staff assistance to the USDA Natural Resources and Environment Committee.
+
+(xi) Administer the search and rescue operations authorized under 7 U.S.C. 2273.
+
+(xii) Administer section 202(c) of the Colorado River Basin Salinity Control Act, 43 U.S.C. 1592(c), including:
+
+(A) Identify salt source areas and determine the salt load resulting from irrigation and watershed management practices;
+
+(B) Conduct salinity control studies of irrigated salt source areas;
+
+(C) Provide technical and financial assistance in the implementation of salinity control projects including the development of salinity control plans, technical services for application, and certification of practice applications;
+
+(D) Develop plans for implementing measures that will reduce the salt load of the Colorado River;
+
+(E) Develop and implement long-term monitoring and evaluation plans to measure and report progress and accomplishments in achieving program objectives; and
+
+(F) Enter into and administer contracts with program participants and waive cost-sharing requirements when such cost-sharing requirements would result in a failure to proceed with needed on-farm measures.
+
+(xiii) Except as otherwise delegated, administer natural resources conservation authorities, including authorities related to programs of the Commodity Credit Corporation that provide assistance with respect to natural resources conservation, under Title XII of the Food Security Act of 1985 (the Act), as amended (16 U.S.C. 3801 *et seq.*), including the following:
+
+(A) Technical assistance related to the conservation of highly erodible lands and wetlands pursuant to sections 1211-1223 of the Act (16 U.S.C. 3811-3823).
+
+(B) Technical assistance related to the Conservation Reserve Program authorized by sections 1231-1235A of the Act (16 U.S.C. 3831-3835a).
+
+(C) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act, Public Law 103-75.
+
+(D) The Conservation Security Program authorized by sections 1238-1238C (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1238D-1238G (16 U.S.C. 3838d-3838g).
+
+(E) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i).
+
+(F) The Farm Viability Program authorized by section 1238J of the Act (16 U.S.C. 3838j).
+
+(G) The Environmental Easement Program authorized by sections 1239-1239D of the Act (16 U.S.C. 3839-3839d).
+
+(H) The Environmental Quality Incentives Program authorized by sections 1240-1240I of the Act (16 U.S.C. 3839aa-3839aa-9).
+
+(I) The conservation of private grazing lands authorized by section 1240M of the Act (16 U.S.C. 3839bb).
+
+(J) The Wildlife Habitat Incentives Program authorized by section 1240N of the Act (16 U.S.C. 3839bb-1).
+
+(K) The program for soil erosion and sedimentation control in the Great Lakes basin authorized by section 1240P of the Act (16 U.S.C. 3839bb-3).
+
+(L) The delivery of technical assistance under section 1242 of the Act (16 U.S.C. 3842), including the approval of persons or entities outside of USDA to provide technical services.
+
+(M) The authority for partnerships and cooperation provided by section 1243 of the Act (16 U.S.C. 3843).
+
+(N) The incentives for certain farmers and ranchers and Indian tribes and the protection of certain proprietary information related to natural resources conservation programs as provided by section 1244 of the Act (16 U.S.C. 3844).
+
+(O) The Agriculture Conservation Experienced Services Program authorized by section 1252 of the Act (16 U.S.C. 3851).
+
+(P) The authority under sections 1261-1262 of the Act (16 U.S.C. 3861-3862) to establish and utilize State Technical Committees.
+
+(Q) The Grassland Reserve Program under sections 1238N-1238Q of the Act (16 U.S.C. 3838n-3838q).
+
+(R) The authority in section 1241 of the Act (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of the Act with respect to authorities delegated to the Under Secretary for Farm Production and Conservation.
+
+(S) The Agricultural Conservation Easement Program authorized by sections 1265-1265D of the Act (16 U.S.C. 3865-3865d).
+
+(T) The Regional Conservation Partnership Program authorized by sections 1271-1271F (16 U.S.C. 3871-3871f).
+
+(U) The Voluntary Public Access and Habitat Incentive Program authorized by section 1240R of the Act (16 U.S.C. 3839bb-5).
+
+(V) A wetlands mitigation banking program authorized by section 1222(k) of the Act (16 U.S.C. 3822(k)).
+
+(xiv) Approve and transmit to the Congress comprehensive river basin reports.
+
+(xv) Provide representation on the Water Resources Council and river basin commissions created by 42 U.S.C. 1962, and on river basin interagency committees.
+
+(xvii) Administer the Water Bank Program under the Water Bank Act (16 U.S.C. 1301 *et seq.*).
 
 (xviii) [Reserved]
 
-(xix) Determine the agricultural commodities acquired under price support programs which are available for export and allocate such commodities among the various export programs.
+(xix) Coordinate USDA input and assistance to the Department of Commerce and other Federal agencies consistent with section 307 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1456), and coordinate USDA review of qualifying state and local government coastal management plans or programs prepared under such Act and submitted to the Secretary of Commerce, consistent with section 306(a) and (c) of such Act (16 U.S.C. 1455(a) and (c)).
 
-(xx) Conduct economic analyses pertaining to the foreign sugar situation.
+(xx) Administer the Healthy Forests Reserve Program authorized by sections 501-508, Title V of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6571-6578).
 
-(xxi) Exercise the Department's functions with respect to the International Sugar Agreement or any such future agreements.
+(xxi) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
-(xxii) Exercise the Department's responsibilities with respect to tariff-rate quotes for dairy products under chapter 4 of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
+(xxii) In coordination with the Director, Office of Advocacy and Outreach, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
-(xxiii) Serve as a focal point for handling quality or weight discrepancy inquiries from foreign buyers of U.S. agricultural commodities to insure that they are investigated and receive a timely response and that reports thereof are made to appropriate parties and government officials in order that corrective action may be taken.
+(xxiii) Authorize employees of the Natural Resources Conservation Service to carry and use firearms for personal protection while conducting field work in remote locations in the performance of their official duties (7 U.S.C. 2274a).
 
-(xxiv) Establish and administer regulations relating to foreign travel by employees of the Department. Regulations will include, but not be limited to, obtaining and controlling passports, obtaining visas, coordinating Department of State medical clearances and imposing requirements for itineraries and contacting the Foreign Agricultural Affairs Officers upon arrival in the Officers' country(ies) of responsibility.
+(xxiv) Conduct activities that assist the Chief Economist in developing guidelines regarding the development of environmental services markets.
 
-(xxv) Formulate policies and administer programs and activities authorized by the Agricultural Trade Act of 1978, as amended (7 U.S.C. 5601 *et seq.*).
-
-(xxvi) Administer the Foreign Service personnel system for the Department in accordance with 22 U.S.C. 3922, except as otherwise delegated to the Assistant Secretary for Marketing and Regulatory Programs in § 2.22(a)(2)(i), but including authority to approve joint regulations issued by the Department of State and authority to represent the Department of Agriculture in all interagency consultations and negotiations with the other foreign affairs agencies with respect to joint regulations.
-
-(xxvii) Establish and maintain U.S. Agricultural Trade Offices, to develop, maintain and expand international markets for U.S. agricultural commodities in accordance with title IV of Pub. L. No. 95-501 (7 U.S.C. 1765a-g).
-
-(xxviii) Administer the programs under section 416(b) of the Agricultural Act of 1949, as amended (7 U.S.C. 1431(b)), relating to the foreign donation of CCC stocks of agricultural commodities.
-
-(xxix)-(xxx) [Reserved]
-
-(xxxi) Administer programs under the Food for Progress Act of 1985 (7 U.S.C. 1736o).
-
-(xxxii) Serve as Department adviser on policies, organizational arrangements, budgets, and actions to accomplish international scientific and technical cooperation in food and agriculture.
-
-(xxxiii) Administer and direct the Department's programs in international development, technical assistance, and training carried out under the Foreign Assistance Act, as amended, as requested under such act (22 U.S.C. 2151 *et seq.*).
-
-(xxxiv) Administer and coordinate assigned Departmental programs in international research and scientific and technical cooperation with other governmental agencies, land grant universities, international organizations, international agricultural research centers, and other institutions (7 U.S.C. 1624, 3291).
-
-(xxxv) Direct and coordinate the Department's participation in scientific and technical matters and exchange agreements between the United States and other countries.
-
-(xxxvi) Direct and coordinate the Department's work in international organizations and interagency committees concerned with food and agricultural development programs (7 U.S.C. 2201-2202).
-
-(xxxvii) Coordinate policy formulation for USDA international science and technology programs concerning international agricultural research centers, international organizations, and international agricultural research and extension activities (7 U.S.C. 3291).
-
-(xxxviii) Disseminate, upon request, information on subjects connected with agriculture which has been acquired by USDA agencies that may be useful to the U.S. private sector in expanding foreign markets and investment opportunities through the operation of a Department information center, pursuant to 7 U.S.C. 2201.
-
-(xxxix) Enter into contracts, grants, cooperative agreements, and cost reimbursable agreements relating to agricultural research, extension, or teaching activities (7 U.S.C. 3318, 3319a).
-
-(xl) Determine amounts reimbursable for indirect costs under international agricultural programs and agreements (7 U.S.C. 3319).
-
-(xli) Administer the Cochran Fellowship Program (7 U.S.C. 3293).
-
-(xlii) Determine quantity trigger levels and impose additional duties under the special safeguard measures in accordance with U.S. note 2 to subchapter IV of chapter 99 of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
-
-(xliii) Implement provisions of the Trade Act of 1974 regarding adjustment assistance for farmers (19 U.S.C. 2401-2401g).
-
-(xliv) Implement section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1).
-
-(xlv) Implement section 3205 of the Food, Conservation, and Energy Act of 2008 (22 U.S.C. 7112 note) regarding the Consultative Group to Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products, in consultation with the Under Secretary for Marketing and Regulatory Programs.
-
-(xlvi) Implement section 3206 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1726c) regarding local and regional food aid procurement projects.
-
-(xlvii) Administer the Borlaug International Agricultural Science and Technology Fellowship Program (7 U.S.C. 3319j).
-
-(xlviii) Administer the grant program for agricultural biotechnology research and development for developing countries (7 U.S.C. 7631).
-
-(xlix) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79:
-
-(A) Section 12314 relating to the Pima Agriculture Cotton Trust Fund (7 U.S.C. 2101 note).
-
-(B) Section 12315 relating to the Agriculture Wool Apparel Manufacturers Trust Fund (7 U.S.C. 7101 note).
+(xxv) Administer the Terminal Lakes assistance program authorized by section 2507 of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3839bb-6).
 
 (4) *Related to risk management.* (i) Exercise general supervision of the Federal Crop Insurance Corporation.
 
@@ -380,7 +424,7 @@
 
 (iv) Recommend actions and policies of the loan and grant programs under his or her authority concerning compliance with the Asset Conservation, Lender Liability, and Deposit Insurance Protection Act of 1996, Subtitle E of Public Law No. 104-208.
 
-(10) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Under Secretary for Farm and Foreign Agricultural Services, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(4) of this section.
+(10) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Under Secretary for Farm Production and Conservation, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(4) of this section.
 
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
@@ -390,11 +434,7 @@
 
 (iii) Final approval of allocations orders issued by the Department pursuant to authorities delegated by the President to the Secretary under Executive Order 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225).
 
-(2) *Related to foreign agriculture.* (i) Approving export controls with respect to any agricultural commodity, including fats and oils or animal hides or skins as provided for in the Export Administration Act of 1969, as amended (50 U.S.C. App. 2401 *et seq.*).
-
-(ii) Advising the President that imports are having the effect on programs or operations of this Department required as a prerequisite for the imposition of import controls under section 22 of the Agricultural Adjustment Act of 1933, as amended (7 U.S.C. 624a), recommending that the President cause an investigation to be made by the Tariff Commission of the facts so that a determination can be made whether import restrictions should be imposed under that Act, and determining under section 204(e) of the Andean Trade Preference Act (19 U.S.C. 3203(e)) that there exists a serious injury, or threat thereof and recommending to the President whether or not to take action.
-
-(iii) Determining the agricultural commodities and the quantities thereof available for disposition under the Food for Peace Act (7 U.S.C. 1731).
+(2) *Related to natural resources conservation.* Designation of new project areas in which the resource conservation and development program assistance will be provided.
 
 (3) *Related to risk management.* (i) Appointment of those members of the Board of Directors of the Federal Crop Insurance Corporation who are not already otherwise employed by the Department of Agriculture, and as authorized in 7 U.S.C. 1505(a) designating an Under Secretary of Agriculture to be a member of the Board in addition to the Under Secretary responsible for the Federal crop insurance program who is a Board member pursuant to 7 U.S.C. 1505(a).
 
@@ -402,4 +442,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018]

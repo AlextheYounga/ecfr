@@ -1,10 +1,8 @@
 ##### § 404.7 Exclusive, co-exclusive and partially exclusive licenses. #####
 
-Link to an amendment published at 83 FR 15963, April 13, 2018.
-
 (a)(1) Exclusive, co-exclusive or partially exclusive domestic licenses may be granted on Government owned inventions, only if;
 
-(i) Notice of a prospective license, identifying the invention and the prospective licensee, has been published in the Federal Register, providing opportunity for filing written objections within at least a 15-day period;
+(i) Notice of a prospective license, identifying the invention and the prospective licensee, has been published in the Federal Register or other appropriate manner, providing opportunity for filing written objections within at least a 15-day period;
 
 (ii) After expiration of the period in § 404.7(a)(1)(i) and consideration of any written objections received during the period, the Federal agency has determined that;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 83 FR 15963, April 13, 2018.
 
 (b)(1) Exclusive, co-exclusive or partially exclusive foreign licenses may be granted on a Government owned invention provided that;
 
-(i) Notice of the prospective license, identifying the invention and prospective licensee, has been published in the Federal Register, providing opportunity for filing written objections within at least a 15-day period and following consideration of such objections received during the period;
+(i) Notice of a prospective license, identifying the invention and the prospective licensee, has been published in the Federal Register or other appropriate manner, providing opportunity for filing written objections within at least a 15-day period and following consideration of such objections received during the period;
 
 (ii) The agency has considered whether the interests of the Federal Government or United States industry in foreign commerce will be enhanced; and
 
@@ -44,4 +42,4 @@ Link to an amendment published at 83 FR 15963, April 13, 2018.
 
 (c) Federal agencies shall maintain a record of determinations to grant exclusive, co-exclusive or partially exclusive licenses.
 
-[71 FR 11513, Mar. 8, 2006]
+[71 FR 11513, Mar. 8, 2006, as amended at 83 FR 15963, Apr. 13, 2018]

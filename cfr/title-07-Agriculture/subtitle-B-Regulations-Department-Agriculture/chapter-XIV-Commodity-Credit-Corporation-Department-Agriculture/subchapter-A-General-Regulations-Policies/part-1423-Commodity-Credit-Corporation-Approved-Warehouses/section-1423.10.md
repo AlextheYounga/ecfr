@@ -1,0 +1,3 @@
+##### § 1423.10 Exceptions for United States Warehouse Act licensed warehouses. #####
+
+The financial requirements, net worth alternatives and examination provisions of this part do not apply if the warehouse operator is licensed under the U.S. Warehouse Act (USWA) for such commodities, but an examination under this part will be made of such a warehouse whenever CCC determines such action is necessary to protect its interests.

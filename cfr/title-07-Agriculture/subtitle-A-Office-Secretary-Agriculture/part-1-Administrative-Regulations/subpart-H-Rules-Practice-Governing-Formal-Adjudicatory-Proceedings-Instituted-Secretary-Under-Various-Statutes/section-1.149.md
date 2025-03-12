@@ -1,4 +1,4 @@
-##### § 1.149 Subpoenas.3/\> #####
+##### § 1.149 Subpoenas.3 #####
 
 3 This section relates only to subpoenas for the stated purpose and has no relevance with respect to investigatory subpoenas.
 

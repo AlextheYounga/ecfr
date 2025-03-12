@@ -88,4 +88,4 @@
 
 (g) *Good faith requirement.* An entity within the affected service area that directly interconnects with the incumbent LEC's network may request that the incumbent LEC provide additional information to allow the interconnecting entity where necessary to accommodate the incumbent LEC's changes with no disruption of service to the interconnecting entity's end user customers. Incumbent LECs must work with such requesting interconnecting entities in good faith to provide such additional information.
 
-[80 FR 63371, Oct. 19, 2015]Effective Date Note:At 82 FR 61477, Dec. 28, 2017, § 51.332 was removed. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 63371, Oct. 19, 2015]

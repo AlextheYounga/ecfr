@@ -1,0 +1,5 @@
+##### § 1427.173 Foreclosure. #####
+
+Any seed cotton pledged as collateral for a loan that is abandoned or has not been ginned and pledged as collateral for a nonrecourse loan under subpart A of this part by the seed cotton loan maturity date may be removed from storage by CCC and ginned and the resulting lint cotton warehoused for the account of CCC. The lint cotton and cottonseed may be sold at such time, in such manner and upon such terms as CCC may determine, at public or private sale. CCC may become the purchaser of the whole or any part of such cotton and cottonseed. If the proceeds received from the sales of the cotton are less than the amount due on the loan (including principal, interest, ginning charges, and any other charges incurred by CCC), the producer is liable for such difference. If the proceeds received from sale of the cotton are greater than the sum of the amount due plus any cost incurred by CCC in conducting the sale of the cotton, the amount of such excess will be paid to the producer or, if applicable, to any secured creditor of the producer.
+
+[80 FR 137, Jan. 2, 2015]

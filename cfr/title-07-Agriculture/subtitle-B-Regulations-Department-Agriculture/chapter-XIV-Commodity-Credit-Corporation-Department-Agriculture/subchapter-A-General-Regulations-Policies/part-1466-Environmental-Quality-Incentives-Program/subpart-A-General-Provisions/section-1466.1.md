@@ -1,0 +1,7 @@
+##### § 1466.1 Applicability. #####
+
+(a) The purposes of the Environmental Quality Incentives Program (EQIP) are to promote agricultural production, forest management, and environmental quality as compatible goals, and to optimize environmental benefits. Through EQIP, NRCS provides technical and financial assistance to eligible agricultural producers, including nonindustrial private forest landowners (NIPF) and Indian Tribes, to help implement conservation practices which address soil, water, and air quality; wildlife habitat; surface and groundwater conservation; energy conservation; and related resource concerns. EQIP's financial and technical assistance helps producers comply with environmental regulations and enhance agricultural and forested lands in a cost-effective and environmentally beneficial manner. The purposes of the program are achieved by planning and implementing conservation practices on eligible land.
+
+(b) EQIP is available in any of the 50 States, District of Columbia, Commonwealth of Puerto Rico, Guam, Virgin Islands of the United States, American Samoa, and Commonwealth of the Northern Mariana Islands.
+
+(c) Contracts enrolled into EQIP prior to February 7, 2014, are subject to the regulations in effect the date prior to February 7, 2014.

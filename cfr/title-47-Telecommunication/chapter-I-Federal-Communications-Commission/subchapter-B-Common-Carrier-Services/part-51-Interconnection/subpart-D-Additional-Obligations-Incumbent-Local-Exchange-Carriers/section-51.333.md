@@ -56,4 +56,4 @@
 
 (iii) For purposes of this section, circumstances outside of the incumbent LEC's control include federal, state, or local municipal mandates and unintentional damage to the incumbent LEC's copper facilities not caused by the incumbent LEC.
 
-[61 FR 47352, Sept. 6, 1996, as amended at 67 FR 13226, Mar. 21, 2002; 68 FR 52305, Sept. 2, 2003; 69 FR 77954; Dec. 29, 2004; 80 FR 63371, Oct. 19, 2015; 82 FR 61477, Dec. 28, 2017]Effective Date Note:At 82 FR 61477, Dec. 28, 2017, § 51.333 was amended by revising the section heading, (a) introductory text, (b), (c) heading and introductory text and adding paragraphs (f) and (g). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 47352, Sept. 6, 1996, as amended at 67 FR 13226, Mar. 21, 2002; 68 FR 52305, Sept. 2, 2003; 69 FR 77954; Dec. 29, 2004; 80 FR 63371, Oct. 19, 2015; 82 FR 61477, Dec. 28, 2017]

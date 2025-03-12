@@ -1,5 +1,7 @@
 ##### § 117.667 St. Croix River. #####
 
+Link to an amendment published at 83 FR 22201, May 14, 2018.
+
 (a) The draws of the Burlington Northern Santa Fe Railroad Bridge, Mile 0.2, the Prescott Highway Bridge, Mile 0.3, and the Hudson Railroad Bridge, Mile 17.3, shall operate as follows:
 
 (1) From April 1 to October 31:

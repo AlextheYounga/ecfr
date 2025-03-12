@@ -1,0 +1,23 @@
+##### § 1412.25 Reallocation of base acres on a farm and updating of records. #####
+
+(a) Any or all of the current owners of a farm with base acres of covered commodities as of September 30, 2013, as adjusted, will have a one-time opportunity in a reallocation period as announced by FSA to:
+
+(1) Reallocate the farm's base acres of covered commodities (upland cotton is not a covered commodity) based on P&CP and subsequently planted crop acreage as specified in this section; or
+
+(2) Retain the farm's base acres as of September 30, 2013.
+
+(b) Under no circumstances will reallocation of base acres of covered commodities on a farm as specified in paragraph (a) of this section result in any increase in total base acres on a farm. Additionally, if any current owner submits a written conflicting reallocation request or expresses written disagreement with a reallocation filed in according to paragraph (a), no reallocations will be approved for the farm unless all the current owners of the farm provide CCC with written evidence of the dispute resolution during the reallocation period.
+
+(c) FSA will provide the farm operator and owners of record with a summary of all covered commodities P&CP acres and subsequently planted crop acreage for the 2009 through 2012 crop years (as reported to FSA on acreage reports filed with FSA in each of those years). Acreage not reported to FSA by producers will not be included in the summary. The summary will reflect the 2014 farm structure.
+
+(d) Current owners will be provided a one-time opportunity to update the records identified in paragraph (c) of this section during the reallocation period specified in paragraph (a) of this section, provided that there are crop insurance records (or other verifiable documentation available to support those requested updates). In the event that an update to a farm's P&CP acres of a covered commodity for 2009 through 2012 causes any payment under another FSA or CCC program to become unearned, the overpayment must be refunded to FSA or CCC in accordance with the rules for that program and the FSA or CCC regulations governing overpayment (7 CFR parts 718 and 1403).
+
+(e) After an update as specified in paragraph (d) of this section, the owner may redistribute the farm's base acres during the reallocation period, based on a proration of each covered commodity's P&CP acres or subsequently planted crop acreage in crop years 2009 through 2012 to the total P&CP acres or subsequently planted crop acreage of all covered commodities during that time.
+
+(f) Upland cotton base acres that were in existence as of September 30, 2013, are considered generic base acres for the purposes of ARC and PLC. Generic base acres cannot be reallocated to a covered commodity, but will be eligible for ARC and PLC payments as specified in in this part.
+
+(g) The summary of records specified in paragraph (c) of this section is intended to assist current owners of farms with the one-time opportunity for base acre reallocation as provided in this section. Any current owner of a farm may also at any time visit the FSA county office and request to obtain a copy of the summary referenced in paragraph (c) of this section. Current owners can reallocate base acres at any time during the reallocation period without receiving or requesting the summary records, and, therefore, failure to receive a summary record from FSA is not grounds for appeal or extension of the reallocation period.
+
+(h) The option to retain or reallocate base acres is an “all or nothing” decision for the farm. Partial retention of base acres or partial reallocation of base acres is not permissible. A decision by any current owner to reallocate base acres on a farm in accordance with this section is final and binding if made according to this section during the reallocation period unless that reallocation is withdrawn in writing by that current owner or another current owner. If another current owner subsequently files a different reallocation request in whatever time remains in the stated reallocation period or if there are conflicting reallocation requests of current owners in the reallocation period, FSA will deem no reallocation to have been performed unless the conflict is resolved via written agreement between the current owners who filed the conflicting requests. In the case of submitting evidence of resolution, the written agreement must be filed with FSA in the reallocation period. Any and all updates and reallocation requests mentioned in this section are subject to review and approval or disapproval by FSA for CCC.
+
+[79 FR 57715, Sept. 26, 2014]

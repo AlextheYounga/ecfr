@@ -1,0 +1,7 @@
+##### § 1436.19 Equal Opportunity and Non-discrimination requirements. #####
+
+(a) No recipient of a Storage Facility loan will directly, or through contractual or other arrangement, subject any person or cause any person to be subjected to discrimination on the basis of race, religion, color, national origin, gender, or other prohibited basis. Borrowers must comply with all applicable Federal laws and regulations regarding equal opportunity in hiring, procurement, and related matters. FSFL borrowers are subject to the nondiscrimination provisions applicable to Federally assisted programs contained in 7 CFR parts 15 and 15b.
+
+(b) With respect to any aspect of a credit transaction, CCC will not discriminate against any applicant on the basis of race, color, religion, national origin, disability, sex, marital status, familial status, parental status, sexual orientation, genetic information, political beliefs, reprisal, or age, provided the applicant can execute a legal contract. Nor will CCC discriminate on the basis of whether all or a part of the applicant's income derives from any public assistance program, or whether the applicant in good faith, exercises any rights under the Consumer Protection Act. FSFL is subject to the nondiscrimination provisions applicable to Federally conducted programs contained in 7 CFR parts 15d and 15e.
+
+[67 FR 54939, Aug. 26, 2002. Redesignated at 67 FR 65690, Oct. 28, 2002; 74 FR 41592, Aug. 18, 2009]

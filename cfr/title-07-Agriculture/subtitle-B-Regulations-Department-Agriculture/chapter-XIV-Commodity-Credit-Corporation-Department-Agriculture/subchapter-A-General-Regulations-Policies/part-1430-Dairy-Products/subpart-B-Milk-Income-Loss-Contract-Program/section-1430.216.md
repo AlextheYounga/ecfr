@@ -1,0 +1,3 @@
+##### § 1430.216 Contracts not in conformity with regulations. #####
+
+If it is discovered that an MILC contract does not comply with this subpart as the result of a misunderstanding by someone who has signed the contract, the contract may be modified by mutual agreement. If the parties to the MILC cannot reach agreement for such modification, it shall be terminated and all payments paid or payable under the contract shall be forfeited or refunded to CCC, except as may otherwise be allowed under § 1430.214.

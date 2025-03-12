@@ -1,0 +1,3 @@
+##### § 1423.9 Examination of warehouses. #####
+
+Before approval, and while a storage agreement is in effect, a warehouse must be examined by a person designated by CCC periodically to determine compliance with this part. CCC or any other agency of USDA shall, at any time, have the right to inspect the warehouse storage facilities and any applicable records. Inspection or examination by CCC does not absolve the warehouse operator of any failure to comply with this part that CCC does not discover. Failure to allow access to facilities as required under this paragraph will result in rejection or revocation of approval.

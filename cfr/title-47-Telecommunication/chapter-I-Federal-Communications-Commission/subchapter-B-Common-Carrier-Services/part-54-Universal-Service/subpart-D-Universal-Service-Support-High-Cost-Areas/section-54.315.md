@@ -1,6 +1,4 @@
-##### § 54.315 Application process for phase II support distributed through competitive bidding. #####
-
-Link to an amendment published at 83 FR 15994, Apr. 13, 2018.
+##### § 54.315 Application process for Connect America Fund phase II support distributed through competitive bidding. #####
 
 (a) Application to participate in competitive bidding for Phase II support. In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for Phase II auction support shall:
 
@@ -70,7 +68,7 @@ Link to an amendment published at 83 FR 15994, Apr. 13, 2018.
 
 (i) Once the recipient has met its 60 percent service milestone, it may obtain a new letter of credit or renew its existing letter of credit so that it is valued at a minimum at 90 percent of the total support amount already disbursed plus the amount that will be disbursed in the coming year.
 
-(ii) Once the recipient has met its 80 percent service milestone, it may obtain a new letter of credit or renew its existing letter of credit so that it is valued at a minimum at 80 percent of the total support that has been disbursed plus the amount that will be disbursed in the coming year.
+(ii) Once the recipient has met its 80 percent service milestone, it may obtain a new letter of credit or renew its existing letter of credit so that it is valued at a minimum at 60 percent of the total support that has been disbursed plus the amount that will be disbursed in the coming year.
 
 (2) The bank issuing the letter of credit shall be acceptable to the Commission. A bank that is acceptable to the Commission is:
 
@@ -102,4 +100,4 @@ Link to an amendment published at 83 FR 15994, Apr. 13, 2018.
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau or the Wireless Telecommunications Bureau, or their respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
 
-[81 FR 44449, July 7, 2016, as amended at 83 FR 18454, Apr. 27, 2018]
+[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018]Effective Date Note:At 83 FR 15994, Apr. 13, 2018, § 54.315 was amended by revising paragraph (c)(1)(ii). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

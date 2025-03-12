@@ -1,0 +1,3 @@
+##### § 1470.30 Fair treatment of tenants and sharecroppers. #####
+
+Payments received under this part must be divided in the manner specified in the applicable contract. NRCS will ensure that tenants and sharecroppers who would have an interest in acreage being offered receive treatment which NRCS deems to be equitable, as determined by NRCS. NRCS may refuse to enter into a contract when there is a disagreement among joint applicants seeking enrollment as to an applicant's eligibility to participate in the contract as a tenant.

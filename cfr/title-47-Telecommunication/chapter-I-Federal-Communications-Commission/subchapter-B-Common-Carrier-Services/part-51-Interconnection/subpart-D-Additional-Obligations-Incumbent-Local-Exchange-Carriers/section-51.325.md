@@ -18,4 +18,4 @@
 
 (c) For the purposes of §§ 51.325 through 51.335, the term *services* means telecommunications services or information services.
 
-[61 FR 47351, Sept. 6, 1996, as amended at 64 FR 14148, Mar. 24, 1999; 68 FR 52305, Sept. 2, 2003; 69 FR 77954, Dec. 29, 2004; 80 FR 63371, Oct. 19, 2015]Effective Date Note:At 82 FR 61477, Dec. 28, 2017, § 51.325 was amended by revising paragraph (a)(4) and removing paragraphs (c) and (e) and redesignating paragraph (d) as (c). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 47351, Sept. 6, 1996, as amended at 64 FR 14148, Mar. 24, 1999; 68 FR 52305, Sept. 2, 2003; 69 FR 77954, Dec. 29, 2004; 80 FR 63371, Oct. 19, 2015; 82 FR 61477, Dec. 28, 2017]

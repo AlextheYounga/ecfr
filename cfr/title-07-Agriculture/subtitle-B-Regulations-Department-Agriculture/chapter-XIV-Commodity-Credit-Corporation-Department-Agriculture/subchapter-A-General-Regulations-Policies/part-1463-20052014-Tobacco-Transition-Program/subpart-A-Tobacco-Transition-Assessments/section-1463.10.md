@@ -1,0 +1,5 @@
+##### § 1463.10 Civil penalties and criminal penalties. #####
+
+(a) Any person who knowingly fails to provide information required to be filed under this subpart, or provides false information under this subpart, may be subject to the penalties prescribed in 15 U.S.C. 714m, 18 U.S.C. 1003, and such other civil and criminal statutes as the United States determines to be appropriate.
+
+(b) In addition to an action that may be taken under paragraph (a) of this section, with respect to any person who knowingly fails to provide information required to be filed under this subpart, or that provides false information under this subpart, a person may be subject to assessment of a civil penalty by CCC. Such civil penalty will be imposed by CCC taking into account the severity of the action; whether the action is of a repetitive nature; and the disruption the action has caused with respect to other parties subject to this subpart. Any such civil penalty will not exceed two percent of the value of the kind of tobacco products manufactured or imported by such entity in the fiscal year in which the violation occurred.

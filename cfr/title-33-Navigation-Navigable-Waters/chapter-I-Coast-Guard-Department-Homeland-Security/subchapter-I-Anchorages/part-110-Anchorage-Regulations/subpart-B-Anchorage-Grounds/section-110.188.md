@@ -1,6 +1,6 @@
 ##### § 110.188 Atlantic Ocean off Miami and Miami Beach, Fla. #####
 
-(a) *The anchorage areas.* (1) *Anchorage A.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
+(a) *The anchorage areas* - (1) *Anchorage A.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
 
 |    Latitude    |    Longitude    |
 |----------------|-----------------|

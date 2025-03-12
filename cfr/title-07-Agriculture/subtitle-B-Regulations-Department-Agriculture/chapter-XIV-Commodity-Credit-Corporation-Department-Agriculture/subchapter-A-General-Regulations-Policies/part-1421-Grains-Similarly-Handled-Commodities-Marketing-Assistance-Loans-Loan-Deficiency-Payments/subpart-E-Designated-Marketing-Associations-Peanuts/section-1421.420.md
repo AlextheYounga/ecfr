@@ -1,0 +1,5 @@
+##### § 1421.420 Inspections and reviews. #####
+
+The books, documents, papers, and records of the DMA and parent company must be maintained for 6 years after the applicable crop year and be made available to CCC for inspection and examination at all reasonable times. At any time after an application is received, CCC has the right to examine all books, documents, papers, and determine whether the DMA is operating or has operated in accordance with the regulations in this part, any articles of incorporation, articles of association, partnership documents, agreements with producers, the representations made by the DMA in its application for approval, and, where applicable, its agreements with CCC. If the DMA is determined to be not complying with this part or any of its agreements, CCC will take appropriate action as provided in elsewhere in this subpart or other action CCC determines appropriate.
+
+[80 FR 129, Jan. 2, 2015]

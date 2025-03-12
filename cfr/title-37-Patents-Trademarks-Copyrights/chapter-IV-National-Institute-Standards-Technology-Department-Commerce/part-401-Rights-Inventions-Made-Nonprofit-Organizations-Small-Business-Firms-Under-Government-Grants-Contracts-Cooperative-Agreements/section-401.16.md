@@ -1,13 +1,13 @@
 ##### § 401.16 Electronic filing. #####
 
-Link to an amendment published at 83 FR 15963, April 13, 2018.
-
 Unless otherwise requested or directed by the agency,
 
-(a) The written report required in (c)(1) of the standard clause in § 401.14(a) may be electronically filed;
+(a) The written report required in (c)(1) of the standard clause in § 401.14 shall be electronically filed;
 
-(b) The written election required in (c)(2) of the standard clause in § 401.14(a) may be electronically filed; and
+(b) The written election required in (c)(2) of the standard clause in § 401.14 shall be electronically filed; and
 
-(c) The close-out report in (f)(1) and the information identified in (f)(2) and (f)(3) of § 401.5 may be electronically filed.
+(c) The close-out report in paragraph (f)(1) and the information identified in paragraphs (f)(2) and (3) of § 401.5 shall be electronically filed.
 
-[60 FR 41812, Aug. 14, 1995]
+(d) Other written notices required in the clause in § 401.14 may be electronically delivered to the agency or the contractor through an electronic database used for reporting subject inventions, patents, and utilization reports to the funding agency.
+
+[60 FR 41812, Aug. 14, 1995, as amended at 83 FR 15963, Apr. 13, 2018]

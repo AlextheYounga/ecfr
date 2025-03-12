@@ -1,0 +1,5 @@
+##### § 1412.31 PLC yields for covered commodities. #####
+
+(a) The PLC yield for covered commodities on the farm is equal to the counter-cyclical payment yield established for each covered commodity on the farm that was effective September 30, 2013, unless the PLC yield is updated as specified in § 1421.32. If the Secretary designates an additional oilseed or pulse crop as a covered commodity that does not have a counter-cyclical payment yield, the PLC yield for that commodity will be established as specified in § 1412.33 or § 1412.34, whichever is applicable.
+
+(b) If a PLC yield is not already established for a covered commodity on a farm for which base acres are allocated through the base acres reallocation process or for which a covered commodity is planted on generic base acres, a yield will be established for the covered commodity on the farm using the yield on similarly situated farms, as determined by FSA. The yield on similarly situated farms will then be used as the 2013 county average counter-cyclical yield for the covered commodity.

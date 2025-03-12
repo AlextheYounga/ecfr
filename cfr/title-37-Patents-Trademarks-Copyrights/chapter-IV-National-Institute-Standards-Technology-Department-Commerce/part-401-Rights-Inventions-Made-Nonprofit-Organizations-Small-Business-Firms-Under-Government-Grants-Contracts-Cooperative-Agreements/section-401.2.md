@@ -1,12 +1,10 @@
 ##### § 401.2 Definitions. #####
 
-Link to an amendment published at 83 FR 15958, April 13, 2018.
-
 As used in this part -
 
 (a) The term *funding agreement* means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal government. This term also includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as defined in the first sentence of this paragraph.
 
-(b) The term *contractor* means any person, small business firm or nonprofit organization which is a party to a funding agreement.
+(b) The term *contractor* means any person, small business firm or nonprofit organization, or, as set forth in section 1, paragraph (b)(4) of Executive Order 12591, as amended, any business firm regardless of size, which is a party to a funding agreement.
 
 (c) The term *invention* means any invention or discovery which is or may be patentable or otherwise protectable under Title 35 of the United States Code, or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 *et seq.*).
 
@@ -30,6 +28,8 @@ As used in this part -
 
 (m) The term *patent application* or “application for patent” includes a provisional or nonprovisional U.S. national application for patent as defined in 37 CFR 1.9 (a)(2) and (a)(3), respectively, or an application for patent in a foreign country or in an international patent office.
 
-(n) The term *initial patent application* means a nonprovisional U.S. national application for patent as defined in 37 CFR 1.9(a)(3).
+(n) The term *initial patent application* means, as to a given subject invention, the first provisional or non-provisional U.S. national application for patent as defined in 37 CFR 1.9(a)(2) and (3), respectively, the first international application filed under the Patent Cooperation Treaty as defined in 37 CFR 1.9(b) which designates the United States, or the first application for a Plant Variety Protection certificate, as applicable.
 
-[52 FR 8554, Mar. 18, 1987, as amended at 60 FR 41812, Aug. 14, 1995; 78 FR 4766, Jan. 23, 2013]
+(o) The term *statutory period* means the one-year period before the effective filing date of a claimed invention during which exceptions to prior art exist per 35 U.S.C. 102(b) as amended by the Leahy-Smith America Invents Act, Public Law 112-29.
+
+[52 FR 8554, Mar. 18, 1987, as amended at 60 FR 41812, Aug. 14, 1995; 78 FR 4766, Jan. 23, 2013; 83 FR 15958, Apr. 13, 2018]

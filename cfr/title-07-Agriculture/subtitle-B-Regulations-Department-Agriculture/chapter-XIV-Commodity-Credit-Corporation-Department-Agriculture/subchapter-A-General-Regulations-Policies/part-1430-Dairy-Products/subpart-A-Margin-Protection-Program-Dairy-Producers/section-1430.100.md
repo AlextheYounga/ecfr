@@ -1,0 +1,3 @@
+##### § 1430.100 Purpose. #####
+
+The regulations in this subpart apply for the Margin Protection Program for Dairy (MPP-Dairy), which is authorized by sections 1401 through 1410 of the Agricultural Act of 2014 (Pub. L. 113-79, 7 U.S.C. 9051-9060). MPP-Dairy is intended to provide eligible dairy producers risk protection against low margins resulting from a combination of low milk prices and high feed costs.

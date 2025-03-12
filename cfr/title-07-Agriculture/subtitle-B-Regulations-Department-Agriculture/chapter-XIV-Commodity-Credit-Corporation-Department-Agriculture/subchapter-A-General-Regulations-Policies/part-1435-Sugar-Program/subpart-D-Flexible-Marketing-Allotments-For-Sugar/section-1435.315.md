@@ -1,0 +1,3 @@
+##### § 1435.315 Adjustments to proportionate shares. #####
+
+Whenever CCC determines that, because of a natural disaster or other condition beyond the control of producers adversely affecting a sugarcane crop, the amount of sugarcane produced by producers subject to proportionate shares will not be sufficient to enable state processors to produce sufficient sugar to meet the State's cane sugar allotment and provide a normal carryover of sugar, CCC may uniformly allow producers to harvest sugarcane in excess of their proportionate shares, or suspend proportionate shares entirely.

@@ -1,0 +1,3 @@
+##### § 1463.113 Issuance of payments in event of death. #####
+
+If a quota holder or tobacco producer who is eligible to receive a payment under this subpart dies, the right to receive payments shall be transferred to the estate of the quota holder or tobacco producer unless such person is survived by a spouse or one or more dependents, in which case the right to receive the payments shall be transferred to the surviving spouse.

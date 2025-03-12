@@ -1,0 +1,7 @@
+##### § 1463.109 Contracts. #####
+
+(a) CCC will enter into a contract with eligible tobacco quota holders and producers. To the extent a person has filed such a contract with CCC, but a final administrative decision has not been made with respect to such person's status as an eligible quota holder or tobacco producer prior to the final enrollment date, CCC will enter into such a contract only upon the issuance of a final determination of eligibility and the passing of any deadline for any administrative appeal under parts 780 and 11 of this title.
+
+(b)(1) If contracts or other written claims are provided to CCC by June 3, 2005, by two or more persons with respect to the same tobacco BQL used to calculate a program payment, CCC will not issue such payment until CCC has determined the eligibility status of each claimant.
+
+(2) If CCC has made a payment to a person after June 3, 2005, a person who is not an eligible holder or producer, as identified on FSA records, for such farm, or claims to be an eligible tobacco holder or producer and submits a contract or other written claim with CCC for the same quota used to issue the initial payment, CCC will issue no further payments for such farm until CCC has determined the eligibility status of each person who has submitted a contract or other written claim for such farm and the occurrence of the repayment of the initial payment made by CCC.

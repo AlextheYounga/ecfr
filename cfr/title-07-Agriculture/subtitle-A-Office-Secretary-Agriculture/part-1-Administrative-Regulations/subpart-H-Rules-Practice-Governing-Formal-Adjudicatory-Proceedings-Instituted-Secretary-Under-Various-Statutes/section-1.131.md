@@ -1,6 +1,6 @@
 ##### § 1.131 Scope and applicability of this subpart. #####
 
-(a) The rules of practice in this subpart shall be applicable to all adjudicatory proceedings under the statutory provisions listed below as those provisions have been or may be amended from time to time,1/\> except that those rules shall not be applicable to reparation proceedings under section 6(c) of the Perishable Agricultural Commodities Act, 1930. Section 1.26 shall be inapplicable to the proceedings covered by this subpart.
+(a) The rules of practice in this subpart shall be applicable to all adjudicatory proceedings under the statutory provisions listed below as those provisions have been or may be amended from time to time,1 except that those rules shall not be applicable to reparation proceedings under section 6(c) of the Perishable Agricultural Commodities Act, 1930. Section 1.26 shall be inapplicable to the proceedings covered by this subpart.
 
 1 See also the regulations promulgated under these statutes for any supplemental rules relating to particular circumstances arising thereunder.
 
@@ -20,4 +20,4 @@ Agricultural Bioterrorism Protection Act of 2002, section 212(i) (7 U.S.C. 8401(
 
 (6) Other adjudicatory proceedings in which the complaint instituting the proceeding so provides with the concurrence of the Assistant Secretary for Administration.
 
-[42 FR 743, Jan. 4, 1977]Editorial Note:For Federal Register citations affecting § 1.131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[42 FR 743, Jan. 4, 1977]Editorial Note:For Federal Register citations affecting § 1.131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

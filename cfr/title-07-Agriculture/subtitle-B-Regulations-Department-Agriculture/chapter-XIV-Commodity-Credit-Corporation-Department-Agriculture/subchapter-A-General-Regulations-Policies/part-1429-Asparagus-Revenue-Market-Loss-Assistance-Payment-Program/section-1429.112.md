@@ -1,0 +1,5 @@
+##### § 1429.112 Death, incompetence, or disappearance. #####
+
+(a) In the case of death, incompetency, disappearance, or dissolution of a person or an entity that is eligible to receive payment as specified in this part, an alternate person or persons as specified in part 707 of this title may receive such payment, as determined appropriate by CCC.
+
+(b) Payment may be made for asparagus market losses suffered by an otherwise eligible asparagus producer who is now deceased or is a dissolved entity if a representative who currently has authority to enter into an application for the producer or the producer's estate signs the application for payment. Proof of authority to sign for the deceased producer's estate or a dissolved entity must be provided. If an asparagus producer is now a dissolved general partnership or joint venture, all members of the general partnership or joint venture at the time of dissolution or their duly-authorized representatives must sign the application for payment.

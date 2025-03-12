@@ -1,0 +1,5 @@
+##### § 1413.112 Appeals. #####
+
+(a) *Appeals.* Appeal regulations set forth at parts 11 and 780 of this title apply to determinations made under this subpart.
+
+(b) *Determinations not eligible for administrative review or appeal.* CCC determinations and policies that are not limited to a specific individual producer's application are not to be construed to be individual program eligibility determinations or adverse decisions and are, therefore, not subject to administrative review or appeal under 7 CFR part 11 or part 780 of this title (but nothing in the regulations for this program will limit the ability of the National Appeals Division to decide its own jurisdiction under part 11). Such determinations include, but are not limited to, application periods, deadlines, crop years, prices, general statutory or regulatory provisions that apply to similarly situated producers, national average payment prices, and payment factors established by CCC for DWQP for which this subpart applies or similar matters requiring CCC determinations.

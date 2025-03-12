@@ -1,8 +1,6 @@
 ##### § 149.1 Definitions. #####
 
-Link to an amendment published at 83 FR 15740, Apr. 12, 2018.
-
-(a) *Importer Security Filing Importer.* For purposes of this part, “Importer Security Filing (ISF) Importer” means the party causing goods to arrive within the limits of a port in the United States by vessel. For shipments other than foreign cargo remaining on board (FROB), immediate exportation (IE) and transportation and exportation (T&E) in-bond shipments, and goods to be delivered to a foreign trade zone (FTZ), the ISF Importer will be the goods' owner, purchaser, consignee, or agent such as a licensed customs broker. For FROB cargo, the ISF Importer will be the carrier. For IE and T&E in-bond shipments, and goods to be delivered to an FTZ, the ISF Importer will be the party filing the IE, T&E, or FTZ documentation.
+(a) *Importer Security Filing Importer.* For purposes of this part, Importer Security Filing (ISF) Importer means the party causing goods to arrive within the limits of a port in the United States by vessel. For shipments other than foreign cargo remaining on board (FROB), the ISF Importer will be the goods' owner, purchaser, consignee, or agent such as a licensed customs broker. For immediate exportation (IE) and transportation and exportation (T&E) in-bond shipments, and goods to be delivered to a Foreign Trade Zone (FTZ), the ISF Importer may also be the party filing the IE, T&E, or FTZ documentation. For FROB cargo, the ISF Importer will be the carrier or the non-vessel operating common carrier.
 
 (b) *Importation.* For purposes of this part, “importation” means the point at which cargo arrives within the limits of a port in the United States.
 
@@ -13,3 +11,5 @@ Link to an amendment published at 83 FR 15740, Apr. 12, 2018.
 (2) Articles that require mechanical handling such as bricks, pig iron, lumber, steel beams, and the like.
 
 (d) *Break bulk cargo.* For purposes of this part, “break bulk cargo” is defined as cargo that is not containerized, but which is otherwise packaged or bundled.
+
+[CBP Dec. 08-46, 73 FR 71782, Nov. 25, 2008, as amended by USCBP-2016-0040, 83 FR 15740, Apr. 12, 2018]

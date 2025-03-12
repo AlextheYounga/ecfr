@@ -46,14 +46,26 @@
 
 (17) On a non-exclusive basis, assert in litigation the deliberative process privilege and other legally recognized privileges.
 
-(18) Conduct legal sufficiency reviews and concur prior to final implementation for all Equal Employment Opportunity (EEO) settlement offers and agreements involving complaints that:
+(18) Conduct legal sufficiency reviews and concur before a proposed settlement offer is made to an opposing party for all informal and formal Equal Employment Opportunity (EEO), Office of Special Counsel (OSC), or Merit Systems Protection Board (MSPB) complaints that:
 
-(i) Are brought by, or allege discriminatory conduct by, any political appointee;
+(i) Require a payment of compensatory damages or attorney's fees resulting in costs to the Department totaling $50,000 or more; or
 
-(ii) Involve any combination of compensatory damages, attorney's fees, back pay awards, or any other compensation resulting in costs to the Department totaling $200,000 or more; or
+(ii) Are brought by, or allege discriminatory conduct by, any political appointee; or
 
 (iii) Place any political appointee on a detail outside the Department or on an Intergovernmental Personnel Act (IPA) agreement for one year or more if the Department retains the obligation to pay the employee's salary and benefits during the duration of the detail or IPA agreement.
 
+(19) Review monetary settlement agreements of any dollar amount negotiated by USDA offices or agencies upon request except that legal sufficiency review conducted by and concurrence from the Office of the General Counsel is required prior to execution for all proposed settlement agreements negotiated by USDA offices or agencies totaling $500,000 or more, including attorney's fees. This required review is in addition to existing delegations of authority and processes for USDA offices' or agencies' processing of settlement agreements. This required review does not apply to:
+
+(i) Settlements pursuant to the Federal Tort Claims Act, which the Office of the General Counsel handles pursuant to paragraph (a)(1) of this section;
+
+(ii) Settlements for personnel matters, which the Office of the General Counsel handles pursuant to paragraph (a)(18) of this section;
+
+(iii) Settlement of contract claims, which contracting officers handle pursuant to the Contract Disputes Act (41 U.S.C. 601 *et seq.*) and Federal Acquisition Regulation (48 CFR parts 1 through 99); or
+
+(iv) Settlement of USDA offices' or agencies' debt collection actions.
+
+(20) Conduct legal sufficiency reviews and concur with all proposed agency contracts or other transactions to retain outside counsel or for the provision of legal services regardless of whether an agency has specific statutory authority to retain outside counsel or legal services. The following services do not require legal sufficiency review and concurrence from the Office of the General Counsel: Contracts for the provision of services in relation to USDA office's and agencies' Freedom of Information Act activities; contracts for the performance of trademark searches or other trademark or copyright related services; or contracts for the performance of patent prosecution or other related patent services.
+
 (b) *Related to ethics.* The following delegation of authority is made by the Secretary to the General Counsel: Provide administrative supervision for the Office of Ethics.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 83 FR 22184, May 14, 2018]

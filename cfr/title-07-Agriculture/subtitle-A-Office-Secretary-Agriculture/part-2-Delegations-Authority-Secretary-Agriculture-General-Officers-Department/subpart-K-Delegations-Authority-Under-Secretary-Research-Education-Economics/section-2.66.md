@@ -260,7 +260,7 @@
 
 (154)-(155) [Reserved]
 
-(156) Administer the Biomass Research and Development Initiative (7 U.S.C. 8108(e)); consult and coordinate, as appropriate, with the Under Secretary for Rural Development and other mission areas of the Department as deemed necessary in carrying out the authorities delegated herein.
+(156) Administer the Biomass Research and Development Initiative (7 U.S.C. 8108(e)); consult and coordinate, as appropriate, with the Assistant to the Secretary for Rural Developmentt and other mission areas of the Department as deemed necessary in carrying out the authorities delegated herein.
 
 (157) Administer a competitive grants program to encourage basic and applied research and the development of qualified agricultural countermeasures (7 U.S.C. 8921).
 

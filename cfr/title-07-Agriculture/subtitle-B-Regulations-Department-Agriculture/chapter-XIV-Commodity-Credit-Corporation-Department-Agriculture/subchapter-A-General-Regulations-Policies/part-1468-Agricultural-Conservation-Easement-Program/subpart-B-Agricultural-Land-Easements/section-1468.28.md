@@ -1,0 +1,15 @@
+##### § 1468.28 Violations and remedies. #####
+
+(a) In the event of a violation of the agricultural land easement terms, the eligible entity will notify the landowner and the violator, if different than the landowner, and NRCS. The landowner may be given reasonable notice and, where appropriate, an opportunity to voluntarily correct the violation in accordance with the terms of the agricultural land easement.
+
+(b) In the event that the eligible entity fails to enforce any of the terms of the agricultural land easement as determined by NRCS, NRCS may exercise the United States' rights to enforce the terms of the agricultural land easement through any and all authorities available under Federal or State law.
+
+(c) Notwithstanding paragraph (a) of this section, NRCS, upon notification to the landowner and the eligible entity, reserves the right to enter upon the easement area if the annual monitoring report provided by the eligible entity documenting compliance with the agricultural land easement and the agricultural land easement plan is insufficient or is not provided annually, the United States has evidence of an unaddressed violation, or to remedy deficiencies or easement violations as it relates to the agricultural land easement plan. In the event of an emergency, the entry may be made at the discretion of NRCS when the actions are deemed necessary to prevent, terminate or mitigate a potential or unaddressed violation with notification to the landowner and eligible entity provided at the earliest practicable time. The landowner will be liable for any costs incurred by NRCS as a result of the landowner's failure to comply with the easement requirements as it relates to agricultural land easement violations.
+
+(d) The United States will be entitled to recover any and all costs from the eligible entity, including attorney's fees or expenses, associated with any enforcement or remedial action as it relates to the enforcement of the ACEP-ALE easement.
+
+(e) In instances where an easement is terminated, the proponent of the termination action shall pay to CCC an amount determined by NRCS.
+
+(f) If NRCS exercises its rights identified under an agricultural land easement NRCS will provide written notice to the eligible entity at the eligible entity's last-known address. The notice will set forth the nature of the non-compliance by the eligible entity and provide a 180-day period to cure. If the eligible entity fails to cure within the 180-day period, NRCS will take the action specified under the notice. NRCS reserves the right to decline to provide a period to cure if NRCS determines that imminent harm may result to the conservation values or other interest in land that it seeks to protect.
+
+[80 FR 11048, Feb. 27, 2015, as amended at 81 FR 71854, Oct. 18, 2016]

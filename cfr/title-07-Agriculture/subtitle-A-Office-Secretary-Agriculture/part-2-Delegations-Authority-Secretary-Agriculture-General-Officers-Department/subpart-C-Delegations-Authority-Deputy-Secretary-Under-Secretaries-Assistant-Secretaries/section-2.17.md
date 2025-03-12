@@ -1,10 +1,10 @@
-##### § 2.17 Under Secretary for Rural Development. #####
+##### § 2.17 Assistant to the Secretary for Rural Development. #####
 
-(a) The following delegations of authority are made by the Secretary of Agriculture to the Under Secretary for Rural Economic and Community Development:
+(a) The following delegations of authority are made by the Secretary of Agriculture to the Assistant to the Secretary for Rural Development:
 
 (1) Provide leadership and coordination within the executive branch of a Nationwide Rural Development Program utilizing the services of executive branch departments and agencies and the agencies, bureaus, offices, and services of the Department of Agriculture in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
-(2) Coordinate activities relative to rural development among agencies reporting to the Under Secretary for Rural Economic and Community Development and, through appropriate channels, serve as the coordinating official for other departmental agencies having primary responsibilities for specific titles of the Rural Development Act of 1972, and allied legislation.
+(2) Coordinate activities relative to rural development among agencies reporting to the Assistant to the Secretary for Rural Development and, through appropriate channels, serve as the coordinating official for other departmental agencies having primary responsibilities for specific titles of the Rural Development Act of 1972, and allied legislation.
 
 (3) Administer a national program of economic, social, and environmental research and analysis, statistical programs, and associated service work related to rural people and the communities in which they live including rural industrialization; rural population and manpower; local government finance; income development strategies; housing; social services and utilization; adjustments to changing economic and technical forces; and other related matters.
 
@@ -137,6 +137,8 @@
 (xii) Administer section 6407 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8107a), relating to a rural energy savings program.
 
 (xiii) Administer section 6210 of the Agricultural Act of 2014, Public Law 113-79, relating to funding of pending rural development loan and grant applications.
+
+(xiv) Administer the authority under section 746 of Division A of the Consolidated Appropriations Act, 2018 (Pub. L. 115-141), and any successor provisions in subsequent appropriations acts, to issue waivers to the U.S. iron and steel requirements for the construction, alteration, maintenance, or repair of a public water or wastewater system.
 
 (21) *Related to rural business-cooperative.* (i) Administer the Rural Economic Development Loan and Grant Programs under the Rural Electrification Act (7 U.S.C. 940c and 950aa *et seq.*).
 
@@ -282,7 +284,7 @@
 
 Administer section 9008 of FSRIA (7 U.S.C. 8108) with respect to biomass research and development, including administration of the Biomass Research and Development Board and Biomass Research and Development Technical Advisory Committee, and submission of reports to Congress, except for the authority delegated to the Under Secretary for REE in § 2.21(a)(1)(cci) to carry out the Biomass Research and Development Initiative; consult and coordinate, as appropriate, with the Under Secretary for REE and other mission areas within the Department as deemed necessary in carrying out the authorities delegated herein; and serve as the designated point of contact referenced in 7 U.S.C. 8108 for the Department, except for purposes of administering the Biomass Research and Development Initiative as provided in § 2.21(a)(1)(cci).
 
-(31) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Under Secretary for Rural Development, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(2) of this section.
+(31) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Assistant to the Secretary for Rural Development, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(2) of this section.
 
 (b) The following authority is reserved to the Secretary of Agriculture:
 
@@ -290,4 +292,4 @@ Administer section 9008 of FSRIA (7 U.S.C. 8108) with respect to biomass researc
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015]
+[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22181, May 14, 2018]

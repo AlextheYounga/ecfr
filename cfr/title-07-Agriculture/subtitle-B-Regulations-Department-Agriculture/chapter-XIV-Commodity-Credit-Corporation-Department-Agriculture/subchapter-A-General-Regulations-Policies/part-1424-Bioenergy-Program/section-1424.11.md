@@ -1,0 +1,3 @@
+##### § 1424.11 Maintenance and inspection of records. #####
+
+For the purpose of verifying compliance with the requirements of this part, each eligible producer shall make available at one place at all reasonable times for examination by representatives of USDA, all books, papers, records, contracts, scale tickets, settlement sheets, invoices, written price quotations, or other documents related to the program that is within the control of such entity for not less than three years from the payment date.
