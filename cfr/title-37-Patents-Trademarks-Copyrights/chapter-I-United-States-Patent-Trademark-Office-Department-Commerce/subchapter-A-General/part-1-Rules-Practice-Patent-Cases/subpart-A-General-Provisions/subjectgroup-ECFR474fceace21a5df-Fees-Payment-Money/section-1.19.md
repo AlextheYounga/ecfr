@@ -1,7 +1,5 @@
 ##### § 1.19 Document supply fees. #####
 
-Link to an amendment published at 85 FR 46988, Aug. 3, 2020.
-
 The United States Patent and Trademark Office will supply copies of the following patent-related documents upon payment of the fees indicated. Paper copies will be in black and white unless the original document is in color, a color copy is requested and the fee for a color copy is paid.
 
 (a) Uncertified copies of patent application publications and patents:
@@ -20,7 +18,7 @@ The United States Patent and Trademark Office will supply copies of the followin
 
 (A) Application as filed: $35.00.
 
-(B) File wrapper and contents: $280.00.
+(B) Copy Patent File Wrapper, Any Number of Sheets: $290.00
 
 (C) [Reserved]
 
@@ -30,7 +28,7 @@ The United States Patent and Trademark Office will supply copies of the followin
 
 (A) Application as filed: $35.00.
 
-(B) File wrapper and contents: $55.00.
+(B) Copy Patent File Wrapper, Electronic, Any Size: $60.00
 
 (C) [Reserved]
 
@@ -56,10 +54,4 @@ The United States Patent and Trademark Office will supply copies of the followin
 
 (i) Copy of Patent Grant Full-Text W/Embedded Images, Patent Application Publication Single-Page TIFF Images, or Patent Application Publication Full-Text W/Embedded Images (52 week subscription): $5,200.00.
 
-(j) Copy of Patent Technology Monitoring Team (PTMT) Patent Bibliographic Extract and Other DVD (Optical Disc) Products: $50.00.
-
-(k) Copy of U.S. Patent Custom Data Extracts: $100.00.
-
-(l) Copy of Selected Technology Reports, Miscellaneous Technology Areas: $30.00.
-
-[78 FR 4287, Jan. 18, 2013, as amended at 80 FR 65655, Oct. 27, 2015; 82 FR 52814, Nov. 14, 2017]
+[78 FR 4287, Jan. 18, 2013, as amended at 80 FR 65655, Oct. 27, 2015; 82 FR 52814, Nov. 14, 2017; 85 FR 46988, Aug. 3, 2020]

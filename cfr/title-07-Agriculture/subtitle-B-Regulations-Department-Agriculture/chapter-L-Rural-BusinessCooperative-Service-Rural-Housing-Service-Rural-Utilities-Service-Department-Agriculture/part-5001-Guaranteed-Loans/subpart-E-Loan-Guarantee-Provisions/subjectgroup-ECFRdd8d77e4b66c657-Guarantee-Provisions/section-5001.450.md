@@ -4,7 +4,7 @@
 
 (b) *Conditions of guarantee.* A guaranteed loan under this part will be evidenced by a loan note guarantee issued by the Agency.
 
-(1) The entire loan must be secured by the same collateral with equal lien priority for the guaranteed and unguaranteed portions of the loan. The unguaranteed portion of the guaranteed loan will neither be paid first nor given any preference or priority over the guaranteed portion. A parity or junior lien position in the guaranteed loan collateral may be considered on a case-by-case basis and must be approved by the Agency. The minimum security taken for the purchase of cooperative stock includes a lien on the stock acquired with loan funds, an assignment of any patronage refund and personal or corporate guarantees.
+(1) The entire loan must be secured by the same collateral with equal lien priority for the guaranteed and unguaranteed portions of the loan. The unguaranteed portion of the guaranteed loan will neither be paid first nor given any preference or priority over the guaranteed portion. A parity or junior lien position in the guaranteed loan collateral may be considered on a case-by-case basis and must be approved by the Agency.
 
 (2) The lender must remain mortgagee and secured party of record notwithstanding the fact that another party may hold a portion of the guaranteed loan.
 
@@ -39,3 +39,5 @@
 (iii) Concurrence for inclusion of the extended period of interest to the lender is received from the Agency.
 
 (2) If the guaranteed loan has one or more holders, the lender will issue an interest termination letter to each holder establishing the termination date for interest accrual. The loan note guarantee will not cover interest to any holder accruing after 90 days from the date of the interest termination letter. The Agency at its sole discretion may notify each holder of the interest termination provisions if it is determined that lender correspondence to holders is in-adequate.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

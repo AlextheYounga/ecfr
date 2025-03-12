@@ -4,7 +4,7 @@
 
 (1) There is no genuine issue as to any material fact; and
 
-(2) The moving part is entitled to a decision in its favor as a matter of law.
+(2) The moving party is entitled to a decision in its favor as a matter of law.
 
 (b) *Filing of motions and responses.* (1) Any party who believes that there is no genuine issue of material fact to be determined and that he or she is entitled to a decision as a matter of law may move at any time for summary disposition in its favor of all or any part of the proceeding. Any party, within 20 days after service of such a motion, or within such time period as allowed by the administrative law judge, may file a response to such motion.
 
@@ -13,3 +13,5 @@
 (c) *Hearing on motion.* At the request of any party or on his or her own motion, the administrative law judge may hear oral argument on the motion for summary disposition.
 
 (d) *Decision on motion.* Following receipt of a motion for summary disposition and all responses thereto, the administrative law judge shall determine whether the moving party is entitled to summary disposition. If the administrative law judge determines that summary disposition is warranted, the administrative law judge shall submit a recommended decision to that effect to the NCUA Board. If the administrative law judge finds that no party is entitled to summary disposition, he or she shall make a ruling denying the motion.
+
+[56 FR 37767, Aug. 8, 1991, as amended at 85 FR 62213, Oct. 2, 2020]

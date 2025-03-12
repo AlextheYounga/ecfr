@@ -1,6 +1,6 @@
 ##### § 703.112 Applying for additional products or characteristics. #####
 
-(a) A Federal credit union with derivatives authority may subsequently apply for approval to use additional products and characteristics, fescribed in § 703.102 of this subpart, that it did not request in its initial application, subject to the following:
+(a) A Federal credit union with derivatives authority may subsequently apply for approval to use additional products and characteristics, described in § 703.102 of this subpart, that it did not request in its initial application, subject to the following:
 
 (1) A Federal credit union must submit an application to NCUA;
 
@@ -12,4 +12,4 @@
 
 (c) A Federal credit union may request the regional director to reconsider a denial of an application for additional products or characteristics and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[79 FR 5241, Jan. 31, 2014, as amended at 82 FR 50293, Oct. 30, 2017]
+[79 FR 5241, Jan. 31, 2014, as amended at 82 FR 50293, Oct. 30, 2017; 85 FR 62211, Oct. 2, 2020]

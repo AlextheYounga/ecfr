@@ -32,7 +32,7 @@
 
 (i) The simplified acquisition threshold; or
 
-(ii) $7 million ($13 million for acquisitions as described in 13.500(c)), including options, for acquisitions of commercial items using Subpart 13.5.
+(ii) $7.5 million ($15 million for acquisitions as described in 13.500(c)), including options, for acquisitions of commercial items using Subpart 13.5.
 
 (2) Do not break down requirements aggregating more than the simplified acquisition threshold (or for commercial items, the threshold in Subpart 13.5) or the micro-purchase threshold into several purchases that are less than the applicable threshold merely to -
 
@@ -50,7 +50,7 @@
 
 (1) The simplified acquisition threshold for other than commercial items, use any appropriate combination of the procedures in parts 13, 14, 15, 35, or 36, including the use of Standard Form 1442, Solicitation, Offer, and Award (Construction, Alteration, or Repair), for construction contracts (see 36.701(a)); or
 
-(2) $7 million ($13 million for acquisitions as described in 13.500(c)), for commercial items, use any appropriate combination of the procedures in Parts 12, 13, 14, and 15 (see paragraph (d) of this section).
+(2) $7.5 million ($15 million for acquisitions as described in 13.500(c)), for commercial items, use any appropriate combination of the procedures in Parts 12, 13, 14, and 15 (see paragraph (d) of this section).
 
 (h) In addition to other considerations, contracting officers shall -
 

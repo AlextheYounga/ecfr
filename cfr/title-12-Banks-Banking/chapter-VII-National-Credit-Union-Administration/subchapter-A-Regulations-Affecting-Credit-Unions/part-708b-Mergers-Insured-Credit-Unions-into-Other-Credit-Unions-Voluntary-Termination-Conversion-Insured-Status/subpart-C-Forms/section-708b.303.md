@@ -1,10 +1,10 @@
 ##### § 708b.303 Conversion of insurance through merger. #####
 
-Unless the Regional Director approves the use of different forms, a federally insured credit union that is merging into a noninsured credit union must use the forms in this section.
+Unless the Regional Director approves the use of different forms, a federally insured credit union that is merging into a non-federally insured credit union must use the forms in this section.
 
 (a) Form notice to members of intent to merge and convert and special meeting of members:
 
-Notice of Special Meeting on Proposal To Merge and Convert to Noninsured Status(Insert Name of Merging Credit Union)
+Notice of Special Meeting on Proposal To Merge and Convert to Non-federally insured Status(Insert Name of Merging Credit Union)
 
 On (insert date), the Board of Directors of your credit union approved a proposition to merge with (insert name of continuing credit union) and to convert from federal share (deposit) insurance to private insurance. You are encouraged to attend a special meeting of our credit union at (insert address) on (insert time and date).
 
@@ -22,10 +22,10 @@ Insurance Conversion
 
 Currently, your accounts have share insurance provided by the National Credit Union Administration, an agency of the federal government. The basic federal coverage is up to $250,000, but accounts may be structured in different ways, such as joint accounts, payable-on-death accounts, or IRA accounts, to achieve federal coverage of much more than $250,000. If the merger is approved, your federal insurance will terminate on the effective date of the merger. Instead, your accounts in the credit union will be insured up to $(insert dollar amount) by (insert name of insurer), a corporation chartered by the State of (insert name of State). The federal insurance provided by the National Credit Union Administration is backed by the full faith and credit of the United States government. The private insurance you will receive from (insert name of insurer), however, is not guaranteed by the federal or any state or local government.
 
-|IF THIS MERGER IS APPROVED AND THE (insert name of continuing|
-|:-----------------------------------------------------------:|
-|    credit union) FAILS, THE FEDERAL GOVERNMENT DOES NOT     |
-|           GUARANTEE YOU WILL GET YOUR MONEY BACK.           |
+|**IF THIS MERGER IS APPROVED AND THE (insert name of continuing**|
+|-----------------------------------------------------------------|
+|    **credit union) FAILS, THE FEDERAL GOVERNMENT DOES NOT**     |
+|           **GUARANTEE YOU WILL GET YOUR MONEY BACK.**           |
 
 Also, because this merger, if approved, would result in the loss of federal share insurance, the (insert name of merging credit union) will, at any time between the approval of the merger and the effective date of merger and upon request of the member, permit all members who have share certificates or other term accounts to close the federally insured portion of those accounts without an early withdrawal penalty. (This is an optional sentence. It may be deleted without the approval of the Regional Director. The members must be informed about this right, however, as described in 12 CFR 708b.204(c).)
 
@@ -43,7 +43,7 @@ The branch office(s) of the continuing credit union will be as follows: (insert 
 
 The merger must have the approval of a majority of members who vote on the proposal, provided at least 20 percent of the total membership participates in the voting.
 
-Enclosed with this Notice of Special Meeting is a Ballot for Merger Proposal and Conversion to Noninsured Status. If you cannot attend the meeting, please complete the ballot and return it to (insert name of independent entity conducting vote) at (insert mailing address) by no later than (insert date and time). To be counted, your ballot must reach (insert name of independent entity conducting vote) by the date and time announced for the meeting.
+Enclosed with this Notice of Special Meeting is a Ballot for Merger Proposal and Conversion to Non-federally insured Status. If you cannot attend the meeting, please complete the ballot and return it to (insert name of independent entity conducting vote) at (insert mailing address) by no later than (insert date and time). To be counted, your ballot must reach (insert name of independent entity conducting vote) by the date and time announced for the meeting.
 
 By order of the board of directors.
 
@@ -51,17 +51,17 @@ By order of the board of directors.
 
 (b) Form ballot:
 
-Ballot for Merger Proposal and Conversion to Noninsured StatusName of Member: (insert name)Account Number: (insert account number)
+Ballot for Merger Proposal and Conversion to Non-federally insured StatusName of Member: (insert name)Account Number: (insert account number)
 
 The credit union must receive this ballot by (insert date and time for vote). Please mail or bring it to: (Insert name of independent entity and address)
 
 I understand if the merger or conversion of the (insert name of merging credit union) into the (insert name of continuing credit union) is approved, the National Credit Union Administration share (deposit) insurance I now have, up to $250,000, or possibly more if I use different account structures, will terminate upon the effective date of the conversion. Instead, my shares in the (insert name of credit union) will be insured up to $(insert dollar amount) by (insert name of insurer), a corporation chartered by the State of (insert name of state). The federal insurance provided by the National Credit Union Administration is backed by the full faith and credit of the United States Government. The private insurance provided by (insert name of insurer) is not.
 
-|   I FURTHER UNDERSTAND THAT, IF THIS MERGER IS APPROVED AND   |
-|:-------------------------------------------------------------:|
-|THE (insert name of continuing credit union) FAILS, THE FEDERAL|
-|    GOVERNMENT DOES NOT GUARANTEE THAT I WILL GET MY MONEY     |
-|                             BACK.                             |
+|   **I FURTHER UNDERSTAND THAT, IF THIS MERGER IS APPROVED AND**   |
+|-------------------------------------------------------------------|
+|**THE (insert name of continuing credit union) FAILS, THE FEDERAL**|
+|    **GOVERNMENT DOES NOT GUARANTEE THAT I WILL GET MY MONEY**     |
+|                             **BACK.**                             |
 
 I vote on the proposal as follows (check one box):
 
@@ -77,7 +77,7 @@ Date:
 
 (c) Form certification of vote:
 
-Certification of Vote on Merger Proposal and Conversion to Noninsured Status of the (Insert Name of Merging Credit Union)
+Certification of Vote on Merger Proposal and Conversion to Non-federally insured Status of the (Insert Name of Merging Credit Union)
 
 We, the undersigned officers of the (insert name of merging credit union), certify the completion of the following actions:
 

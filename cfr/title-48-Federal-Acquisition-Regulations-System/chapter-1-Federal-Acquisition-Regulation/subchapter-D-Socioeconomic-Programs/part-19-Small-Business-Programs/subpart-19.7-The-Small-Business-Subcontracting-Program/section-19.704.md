@@ -1,6 +1,6 @@
 ##### 19.704 Subcontracting plan requirements. #####
 
-(a) Each subcontracting plan under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include -
+(a) Each subcontracting plan required under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include -
 
 (1) Separate percentage goals for using small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes) and women-owned small business concerns as subcontractors;
 
@@ -18,7 +18,7 @@
 
 (8) A description of the efforts the offeror will make to ensure that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns have an equitable opportunity to compete for subcontracts;
 
-(9) Assurances that the offeror will include the clause at 52.219-8, Utilization of Small Business Concerns (see 19.708(a)), in all subcontracts that offer further subcontracting opportunities, and that the offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of $700,000 ($1.5 million for construction) to adopt a plan that complies with the requirements of the clause at 52.219-9, Small Business Subcontracting Plan (see 19.708(b));
+(9) Assurances that the offeror will include the clause at 52.219-8, Utilization of Small Business Concerns (see 19.708(a)), in all subcontracts that offer further subcontracting opportunities, and that the offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of $750,000 ($1.5 million for construction) to adopt a plan that complies with the requirements of the clause at 52.219-9, Small Business Subcontracting Plan (see 19.708(b));
 
 (10) Assurances that the offeror will -
 

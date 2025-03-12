@@ -36,6 +36,8 @@ Guaranteed loan funds can only be used for the items specified in this section.
 
 (D) The borrower and the contractor must have complied with all statutory and Executive Order requirements related to the Agency guarantee for construction already performed even though the requirements may not have been included in the contract documents.
 
+(4) Refinancing in accordance with § 5001.102(d).
+
 (b) *WWD projects.* Guaranteed loan funds for a WWD project receiving a loan guarantee may be used to pay the expenses identified in paragraphs (b)(1) through (10) of this section when they are a necessary part of the WWD project.
 
 (1) Guarantee fees, as determined under § 5001.454.
@@ -57,6 +59,8 @@ Guaranteed loan funds can only be used for the items specified in this section.
 (9) The purchase of existing facilities when it is necessary either to improve service or prevent the loss of service.
 
 (10) Purchase of equipment to operate, maintain, or protect facilities.
+
+(11) Refinancing in accordance with § 5001.102(d),
 
 (c) *B&I projects.* Guaranteed loan funds for a project receiving a loan guarantee under § 5001.1 may be used to pay the expenses identified in paragraphs (c)(1) through (12) of this section.
 
@@ -81,6 +85,8 @@ Guaranteed loan funds can only be used for the items specified in this section.
 (10) Feasibility studies and business plans.
 
 (11) Interest (including interest on interim financing) during the period before the first principal payment becomes due or when the facility becomes income producing, whichever is earlier.
+
+(12) Refinancing in accordance with § 5001.102(d).
 
 (d) *REAP projects.* Guaranteed loan funds for a Project receiving a loan guarantee under REAP may be used to pay the expenses associated with the items identified in paragraphs (d)(1) through (14) of this section, provided such items are directly related to and their use and purpose are limited to the RES, EEI, or EEE project. The expenses associated with the items specified in paragraphs (d)(8) through (11) of this section cannot exceed more than ten percent of the loan amount.
 
@@ -121,3 +127,5 @@ Guaranteed loan funds can only be used for the items specified in this section.
 (iv) At the time of application, the loan being refinanced has been current for at least the past 6 months (unless such status is achieved by the lender forgiving the borrower's debt); and
 
 (v) The lender is providing better rates or terms for the loan being refinanced.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

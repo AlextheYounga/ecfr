@@ -22,11 +22,11 @@
 
 (3)(i) The ordering activity contracting officer shall, to the maximum extent practicable, give preference to establishing multiple-award BPAs, rather than establishing a single-award BPA.
 
-(ii) No single-award BPA with an estimated value exceeding $112 million (including any options), may be awarded unless the head of the agency determines in writing that -
+(ii) No single-award BPA with an estimated value exceeding $100 million (including any options), may be awarded unless the head of the agency determines in writing that—
 
 (A) The orders expected under the BPA are so integrally related that only a single source can reasonably perform the work;
 
-(B) The BPA provides only for firm-fixed priced orders for -
+(B) The BPA provides only for firm-fixed priced orders for—
 
 (*1*) Products with unit prices established in the BPA; or
 
@@ -36,7 +36,7 @@
 
 (D) It is necessary in the public interest to award the BPA to a single source for exceptional circumstances.
 
-(iii) The requirement for a determination for a single-award BPA greater than $112 million is in addition to any applicable requirement for a limited-source justification at 8.405-6. However, the two documents may be combined into one document.
+(iii) The requirement for a determination for a single-award BPA greater than $100 million is in addition to any applicable requirement for a limited-source justification at 8.405-6. However, the two documents may be combined into one document.
 
 (iv) In determining how many multiple-award BPAs to establish or that a single-award BPA is appropriate, the contracting officer should consider the following factors and document the decision in the acquisition plan or BPA file:
 
@@ -54,7 +54,7 @@
 
 (6) Establishment of a multi-agency BPA against a Federal Supply Schedule contract is permitted if the multi-agency BPA identifies the participating agencies and their estimated requirements at the time the BPA is established.
 
-(7) *Minimum documentation.* The ordering activity contracting officer shall include in the BPA file documentation the -
+(7) *Minimum documentation.* The ordering activity contracting officer shall include in the BPA file documentation the—
 
 (i) Schedule contracts considered, noting the contractor to which the BPA was awarded;
 
@@ -64,7 +64,7 @@
 
 (iv) Required justification for a limited-source BPA (*see* 8.405-6), if applicable;
 
-(v) Determination for a single-award BPA exceeding $112 million, if applicable (see (a)(3)(ii)) of this section);
+(v) Determination for a single-award BPA exceeding $100 million, if applicable (see (a)(3)(ii)) of this section);
 
 (vi) Documentation supporting the decision to establish multiple-award BPAs or a single-award BPA (*see* (a)(3)(iv));
 
@@ -106,7 +106,7 @@
 
 (iv) *If the estimated value of the BPA does not exceed the simplified acquisition threshold.* The ordering activity shall provide the RFQ (including the statement of work and evaluation criteria) to at least three schedule contractors that offer services that will meet the agency's needs.
 
-(v) *If estimated value of the BPA exceeds the simplified acquisition threshold.* The ordering activity contracting officer -
+(v) *If estimated value of the BPA exceeds the simplified acquisition threshold.* The ordering activity contracting officer—
 
 (A) Shall post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple-award schedule an opportunity to submit a quote; or
 
@@ -132,7 +132,7 @@
 
 (C) The ordering activity contracting officer shall document the circumstances when restricting consideration to less than all multiple-award BPA holders offering the required supplies and services.
 
-(iii) *Orders exceeding the simplified acquisition threshold.* (A) The ordering activity shall place an order in accordance with paragraphs (c)(2)(iii)(A)(*1*), (*2*) and (*3*) of this paragraph, unless the requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6. The ordering activity shall -
+(iii) *Orders exceeding the simplified acquisition threshold.* (A) The ordering activity shall place an order in accordance with paragraphs (c)(2)(iii)(A)(*1*), (*2*) and (*3*) of this paragraph, unless the requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6. The ordering activity shall—
 
 (*1*) Provide an RFQ to all BPA holders offering the required supplies or services under the multiple-award BPAs, to include a description of the supplies to be delivered or the services to be performed and the basis upon which the selection will be made;
 
@@ -150,7 +150,7 @@
 
 (3) Contractors may be awarded BPAs that extend beyond the current term of their GSA Schedule contract, so long as there are option periods in their GSA Schedule contract that, if exercised, will cover the BPA's period of performance.
 
-(e) *Review of BPAs.* (1) The ordering activity contracting officer shall review the BPA and determine in writing, at least once a year (*e.g.,* at option exercise), whether -
+(e) *Review of BPAs.* (1) The ordering activity contracting officer shall review the BPA and determine in writing, at least once a year (*e.g.,* at option exercise), whether—
 
 (i) The schedule contract, upon which the BPA was established, is still in effect;
 
@@ -160,4 +160,4 @@
 
 (2) The determination shall be included in the BPA file documentation.
 
-[76 FR 14553, Mar. 16, 2011, as amended 77 FR 197, Jan. 3, 2012; 77 FR 12929, Mar. 2, 2012; 80 FR 38296, July 2, 2015]
+[76 FR 14553, Mar. 16, 2011, as amended 77 FR 197, Jan. 3, 2012; 77 FR 12929, Mar. 2, 2012; 80 FR 38296, July 2, 2015; 85 FR 62488, Oct. 2, 2020]

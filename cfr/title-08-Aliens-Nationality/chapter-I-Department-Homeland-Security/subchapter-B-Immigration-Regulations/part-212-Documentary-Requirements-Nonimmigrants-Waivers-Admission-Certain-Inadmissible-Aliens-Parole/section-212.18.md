@@ -1,12 +1,10 @@
 ##### § 212.18 Applications for waivers of inadmissibility in connection with an application for adjustment of status by T nonimmigrant status holders. #####
 
-Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
-
 (a) *Filing the waiver application.* An alien applying for a waiver of inadmissibility under section 245(*l*)(2) of the Act in connection with an application for adjustment of status under 8 CFR 245.23(a) or (b) must submit:
 
 (1) A completed Form I-485 application package;
 
-(2) The appropriate fee in accordance with 8 CFR 103.7(b)(1) or an application for a fee waiver; and, as applicable,
+(2) The appropriate fee in accordance with 8 CFR 106.2 or an application for a fee waiver; and, as applicable,
 
 (3) Form I-601, Application for Waiver of Grounds of Excludability.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
 
 (d) *Revocation.* The Secretary of Homeland Security may, at any time, revoke a waiver previously granted through the procedures described in 8 CFR 103.5.
 
-[73 FR 75557, Dec. 12, 2008, as amended at 84 FR 41501, Aug. 14, 2019]
+[73 FR 75557, Dec. 12, 2008, as amended at 84 FR 41501, Aug. 14, 2019; 85 FR 46923, Aug. 3, 2020]

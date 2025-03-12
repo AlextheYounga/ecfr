@@ -1,8 +1,8 @@
 ##### 22.1703 Policy. #####
 
-The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the Web site for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip*/. Government solicitations and contracts shall -
+The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the Web site for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip*/. Government solicitations and contracts shall—
 
-(a) Prohibit contractors, contractor employees, subcontractors, subcontractor employees, and their agents from -
+(a) Prohibit contractors, contractor employees, subcontractors, subcontractor employees, and their agents from—
 
 (1) Engaging in severe forms of trafficking in persons during the period of performance of the contract;
 
@@ -20,9 +20,9 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (7)(i)(A) Failing to provide return transportation or pay for the cost of return transportation upon the end of employment, for an employee who is not a national of the country in which the work is taking place and who was brought into that country for the purpose of working on a U.S. Government contract or subcontract, for portions of contracts and subcontracts performed outside the United States; or
 
-(B) Failing to provide return transportation or pay for the cost of return transportation upon the end of employment, for an employee who is not a United States national and who was brought into the United States for the purpose of working on a U.S. Government contract or subcontract, if the payment of such costs is required under existing temporary worker programs or pursuant to a written agreement with the employee for portions of contracts and subcontracts performed inside the United States; except that -
+(B) Failing to provide return transportation or pay for the cost of return transportation upon the end of employment, for an employee who is not a United States national and who was brought into the United States for the purpose of working on a U.S. Government contract or subcontract, if the payment of such costs is required under existing temporary worker programs or pursuant to a written agreement with the employee for portions of contracts and subcontracts performed inside the United States; except that—
 
-(ii) The requirements of paragraph (a)(7)(i) of this section do not apply to an employee who is -
+(ii) The requirements of paragraph (a)(7)(i) of this section do not apply to an employee who is—
 
 (A) Legally permitted to remain in the country of employment and who chooses to do so; or
 
@@ -36,19 +36,19 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (b) Require contractors and subcontractors to notify employees of the prohibited activities described in paragraph (a) of this section and the actions that may be taken against them for violations;
 
-(c) With regard to certification and a compliance plan -
+(c) With regard to certification and a compliance plan—
 
-(1)(i) Require the apparent successful offeror to provide, before contract award, a certification (see 52.222-56) that the offeror has a compliance plan if any portion of the contract or subcontract -
+(1)(i) Require the apparent successful offeror to provide, before contract award, a certification (see 52.222-56) that the offeror has a compliance plan if any portion of the contract or subcontract—
 
 (A) Is for supplies, other than COTS items (see 2.101), to be acquired outside the United States, or services to be performed outside the United States; and
 
-(B) The estimated value exceeds $500,000.
+(B) The estimated value exceeds $550,000.
 
-(ii) The certification must state that -
+(ii) The certification must state that—
 
 (A) The offeror has implemented the plan and has implemented procedures to prevent any prohibited activities and to monitor, detect, and terminate the contract with a subcontractor or agent engaging in prohibited activities; and
 
-(B) After having conducted due diligence, either -
+(B) After having conducted due diligence, either—
 
 (*1*) To the best of the offeror's knowledge and belief, neither it nor any of its agents, proposed subcontractors, or their agents, has engaged in any such activities; or
 
@@ -56,17 +56,17 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (2) Require annual certifications (see 52.222-50(h)(5)) during performance of the contract, when a compliance plan was required at award;
 
-(3)(i) Require the contractor to obtain a certification from each subcontractor, prior to award of a subcontract, if any portion of the subcontract -
+(3)(i) Require the contractor to obtain a certification from each subcontractor, prior to award of a subcontract, if any portion of the subcontract—
 
 (A) Is for supplies, other than COTS items (see 2.101), to be acquired outside the United States, or services to be performed outside the United States; and
 
-(B) The estimated value exceeds $500,000.
+(B) The estimated value exceeds $550,000.
 
-(ii) The certification must state that -
+(ii) The certification must state that—
 
 (A) The subcontractor has implemented a compliance plan; and
 
-(B) After having conducted due diligence, either -
+(B) After having conducted due diligence, either—
 
 (*1*) To the best of the subcontractor's knowledge and belief, neither it nor any of its agents, subcontractors, or their agents, has engaged in any such activities; or
 
@@ -76,7 +76,7 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (5) Require that any compliance plan or procedures shall be appropriate to the size and complexity of the contract and the nature and scope of its activities, including the number of non-U.S. citizens expected to be employed and the risk that the contract or subcontract will involve services or supplies susceptible to trafficking in persons. The minimum elements of the plan are specified at 52.222-50(h);
 
-(d) Require the contractor and subcontractors to -
+(d) Require the contractor and subcontractors to—
 
 (1) Disclose to the contracting officer and the agency Inspector General information sufficient to identify the nature and extent of an offense and the individuals responsible for the conduct;
 
@@ -88,4 +88,4 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (e) Provide suitable remedies, including termination, to be imposed on contractors that fail to comply with the requirements of paragraphs (a) through (d) of this section.
 
-[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015; 83 FR 65477, Dec. 20, 2018]
+[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015; 83 FR 65477, Dec. 20, 2018; 85 FR 62489, Oct. 2, 2020]

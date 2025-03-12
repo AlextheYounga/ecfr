@@ -8,7 +8,7 @@
 
 (2) With respect to loans, NCUA will also require a Qualifying Credit Union to develop and submit a narrative describing how the Qualifying Credit Union intends to use the money obtained from the Fund to enhance the products or services it provides to its membership and how those enhanced products or services support the membership and community served by the Qualifying Credit Union.
 
-(3) In addition to those items required in this section, a Qualifying Credit Union that is a noninsured credit union must also include the following:
+(3) In addition to those items required in this section, a Qualifying Credit Union that is a non-federally insured credit union must also include the following:
 
 (i) A copy of its most recent external audit report;
 
@@ -40,8 +40,8 @@
 
 (f) *Notice of Award.* NCUA will determine whether an application meets NCUA's standards established by this part and the related Notice of Funding Opportunity. NCUA will provide written notice to a Qualifying Credit Union as to whether or not it has qualified for a loan or technical assistance grant under this part. A Qualifying Credit Union whose application has been denied for failure of a qualification may appeal that decision in accordance with § 705.10 of this part.
 
-(g) *Disbursement* - (1) *Loans.* Before NCUA will disburse a loan, the Participating Credit Union must sign the loan agreement, promissory note, and any other loan related documents. NCUA may, in its discretion, choose not to disburse the entire amount of the loan at once.
+(g) *Disbursement*—(1) *Loans.* Before NCUA will disburse a loan, the Participating Credit Union must sign the loan agreement, promissory note, and any other loan related documents. NCUA may, in its discretion, choose not to disburse the entire amount of the loan at once.
 
 (2) *Technical Assistance Grants.* NCUA will disburse technical assistance grants in such amounts, and in accordance with such terms and conditions, as NCUA may establish. In general, technical assistance grants are provided on a reimbursement basis, to cover expenditures approved in advance by NCUA and supported by receipts evidencing payment by the Participating Credit Union.
 
-[76 FR 67587, Nov. 2, 2011. Redesignated and amended at 81 FR 85112, Nov. 25, 2016]
+[76 FR 67587, Nov. 2, 2011. Redesignated and amended at 81 FR 85112, Nov. 25, 2016; 85 FR 62212, Oct. 2, 2020]

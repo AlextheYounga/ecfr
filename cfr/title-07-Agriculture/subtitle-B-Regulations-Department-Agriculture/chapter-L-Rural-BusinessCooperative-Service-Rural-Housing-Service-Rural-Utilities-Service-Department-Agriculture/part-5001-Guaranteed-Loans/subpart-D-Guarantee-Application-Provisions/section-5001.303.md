@@ -86,6 +86,12 @@ The Agency will accept applications on a continuous basis. For each loan guarant
 
 (15) Technical reports in accordance with § 5001.307(e).
 
-(16) Certification regarding credit elsewhere in accordance with § 5001.126(b)(3) and (c).
+(16) Certification regarding credit elsewhere in accordance with § 5001.126(b)(3) and (c)(2).
+
+(17) Certification of significant community support in accordance with § 5001.126(b)(4) and (c)(3).
+
+(18) Copies of organizational documents if not already provided with a preliminary eligibility review in accordance with § 5001.302.
 
 (d) *Application modification.* Once a complete application is accepted by the Agency and prior to Agency award of a loan note guarantee, any modification to the application will be treated as a new Application and the Agency will process the information accordingly. The submission date of record for a modified application is the date the Agency receives the modified application information.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

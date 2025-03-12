@@ -20,7 +20,7 @@ For each application, the lender must prepare a credit evaluation that is consis
 
 (i) The lender must determine the market value of collateral as established by an appraisal in accordance with § 5001.203.
 
-(ii) The lender should discount collateral consistent with sound loan-to-discounted value practices which must be adequate to secure the guaranteed loan in accordance with this section. To assess collateral adequacy and appropriate levels of discounting, the lender should give consideration to the type, quality, location, marketability, and alternative uses of the collateral and the basis for the valuation of the collateral, *e.g.* collateral valued on a cost or replacement valuation or market or comparable sales valuation may require variance of discount factors. The lender must provide satisfactory justification of the discounts being used. Only under exceptional circumstances for WWD projects with a loan guarantee under the provisions of § 5001.126(c) will the Agency guarantee a loan where the guaranteed loan amount is greater than the market value of the collateral.
+(ii) The lender should discount collateral consistent with sound loan-to-discounted value practices which must be adequate to secure the guaranteed loan in accordance with this section. To assess collateral adequacy and appropriate levels of discounting, the lender should give consideration to the type, quality, location, marketability, and alternative uses of the collateral and the basis for the valuation of the collateral, *e.g.* collateral valued on a cost or replacement valuation or market or comparable sales valuation may require variance of discount factors. The lender must provide satisfactory justification of the discounts being used.
 
 (5) *Conditions.* This factor refers to the general business environment, including the regulatory environment affecting the business or industry, and status of the Borrower's industry. Consideration will be given to items listed below and, when applicable, the lender should submit supporting documentation (*e.g.,* feasibility study, market study, preliminary architectural or engineering reports, etc.):
 
@@ -55,3 +55,5 @@ For each application, the lender must prepare a credit evaluation that is consis
 (v) Projected operational cash flow analysis on a quarterly basis for borrowers with seasonal cyclical cash flow.
 
 (vi) Operational cash flow analysis on a quarterly basis from the current financial statements through start-up or occupancy for projects involving construction when lenders are requesting the loan note guarantee prior to completion of construction.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

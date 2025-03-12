@@ -84,12 +84,6 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was 
 
 (4) The aggregate amount of private label CMRS purchased by the federal credit union does not exceed 25 percent of its net worth, unless authorized under § 703.20 or as otherwise provided in this subparagraph. A federal credit union that has received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a net worth classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters or, if subject to a risk-based net worth (RBNW) requirement under part 702 of this chapter, has remained “well capitalized” for the six (6) immediately preceding quarters after applying the applicable RBNW requirement, may hold private label CMRS in an aggregate amount not to exceed 50% of its net worth.
 
-(k) *Derivatives.* A Federal credit union may only enter into in the following derivatives transactions:
+(k) *Derivatives.* A Federal credit union may only enter into the following derivatives transactions:
 
-(1) Any derivatives permitted under § 701.21(i) of this chapter, § 703.14(g), or subpart B of this part;
-
-(2) Embedded options not required under generally accepted accounting principles (GAAP) adopted in the United States to be accounted for separately from the host contract; and
-
-(3) Interest rate lock commitments or forward sales commitments made in connection with a loan originated by a Federal credit union.
-
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 75 FR 64826, Oct. 20, 2010; 77 FR 31991, May 31, 2012; 77 FR 74110, Dec. 13, 2012; 78 FR 13213 Feb. 27, 2013; 79 FR 5241, Jan. 31, 2014; 81 FR 17602, Mar. 30, 2016]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 75 FR 64826, Oct. 20, 2010; 77 FR 31991, May 31, 2012; 77 FR 74110, Dec. 13, 2012; 78 FR 13213 Feb. 27, 2013; 79 FR 5241, Jan. 31, 2014; 81 FR 17602, Mar. 30, 2016; 85 FR 62211, Oct. 2, 2020]

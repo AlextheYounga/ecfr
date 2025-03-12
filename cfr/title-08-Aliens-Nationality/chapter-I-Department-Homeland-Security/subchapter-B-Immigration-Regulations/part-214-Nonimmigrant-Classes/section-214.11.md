@@ -1,7 +1,5 @@
 ##### § 214.11 Alien victims of severe forms of trafficking in persons. #####
 
-Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction published at 85 FR 49941, Aug. 17, 2020.
-
 (a) *Definitions.* Where applicable, USCIS will apply the definitions provided in section 103 and 107(e) of the Trafficking Victims Protection Act (TVPA) with due regard for the definitions and application of these terms in 28 CFR part 1100 and the provisions of 18 U.S.C. 77. As used in this section the term:
 
 *Application for derivative T nonimmigrant status* means a request by a principal alien on behalf of an eligible family member for derivative T-2, T-3, T-4, T-5, or T-6 nonimmigrant status on the form designated by USCIS for that purpose.
@@ -64,7 +62,7 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (5) *Prohibition against traffickers in persons.* No alien will be eligible to receive T nonimmigrant status under section 101(a)(15)(T) of the Act if there is substantial reason to believe that the alien has committed an act of a severe form of trafficking in persons.
 
-(c) *Period of admission.* (1) *T-1 Principal.* T-1 nonimmigrant status may be approved for a period not to exceed 4 years, except as provided in section 214(o)(7) of the Act.
+(c) *Period of admission*—(1) *T-1 Principal.* T-1 nonimmigrant status may be approved for a period not to exceed 4 years, except as provided in section 214(o)(7) of the Act.
 
 (2) *Derivative family members.* A derivative family member who is otherwise eligible for admission may be granted T-2, T-3, T-4, T-5, or T-6 nonimmigrant status for an initial period that does not exceed the expiration date of the initial period approved for the T-1 principal alien, except as provided in section 214(o)(7) of the Act.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (ii) Any credible evidence that the applicant would like USCIS to consider supporting any of the eligibility requirements set out in paragraphs (f), (g), (h) and (i) of this section; and
 
-(iii) *Inadmissible applicants.* If an applicant is inadmissible based on a ground that may be waived, he or she must also submit a request for a waiver of inadmissibility on the form designated by USCIS with the fee prescribed by 8 CFR 103.7(b)(1), in accordance with form instructions and 8 CFR 212.16, and accompanied by supporting evidence.
+(iii) *Inadmissible applicants.* If an applicant is inadmissible based on a ground that may be waived, he or she must also submit a request for a waiver of inadmissibility on the form designated by USCIS with the fee prescribed by 8 CFR 106.2, in accordance with form instructions and 8 CFR 212.16, and accompanied by supporting evidence.
 
 (3) *Evidence from law enforcement.* An applicant may wish to submit evidence from an LEA to help establish certain eligibility requirements for T nonimmigrant status. Evidence from an LEA is optional and is not given any special evidentiary weight.
 
@@ -274,7 +272,7 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (3) *Removal from the waiting list.* An applicant may be removed from the waiting list and the deferred action or parole may be terminated consistent with law and policy. Applicants on the waiting list must remain admissible to the United States and otherwise eligible for T nonimmigrant status. If at any time prior to final adjudication USCIS receives information that an applicant is no longer eligible for nonimmigrant status, the applicant may be removed from the waiting list and the deferred action or parole may be terminated. USCIS will provide notice to the applicant of that decision.
 
-(k) *Application for eligible family members.* (1) *Eligibility.* Subject to section 214(o) of the Act, an alien who has applied for or has been granted T-1 nonimmigrant status (principal alien) may apply for the admission of an eligible family member, who is otherwise admissible to the United States, in derivative T nonimmigrant status if accompanying or following to join the principal alien.
+(k) *Application for eligible family members*—(1) *Eligibility.* Subject to section 214(o) of the Act, an alien who has applied for or has been granted T-1 nonimmigrant status (principal alien) may apply for the admission of an eligible family member, who is otherwise admissible to the United States, in derivative T nonimmigrant status if accompanying or following to join the principal alien.
 
 (i) *Principal alien 21 years of age or older.* For a principal alien who is 21 years of age or over, eligible family member means a T-2 (spouse) or T-3 (child).
 
@@ -312,7 +310,7 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (v) The eligible family member is admitted to the United States if residing abroad.
 
-(5) *Relationship and age-out protections.* (i) *Protection for new child of a principal alien.* If the T-1 principal alien proves that he or she had a child after filing the application for T-1 nonimmigrant status, the child will be deemed to be an eligible family member eligible to accompany or follow to join the T-1 principal alien.
+(5) *Relationship and age-out protections*—(i) *Protection for new child of a principal alien.* If the T-1 principal alien proves that he or she had a child after filing the application for T-1 nonimmigrant status, the child will be deemed to be an eligible family member eligible to accompany or follow to join the T-1 principal alien.
 
 (ii) *Age-out protection for eligible family members of a principal alien under 21 years of age.* If the T-1 principal alien was under 21 years of age when he or she filed for T-1 nonimmigrant status, USCIS will continue to consider a parent or unmarried sibling as an eligible family member. A parent or unmarried sibling will remain eligible even if the principal alien turns 21 years of age before adjudication of the T-1 application. An unmarried sibling will remain eligible even if the unmarried sibling is over 18 years of age at the time of adjudication of the T-1 application, so long as the unmarried sibling was under 18 years of age at the time of the T-1 application. The age of an unmarried sibling when USCIS adjudicates the T-1 application, when the unmarried sibling files the derivative application, when USCIS adjudicates the derivative application, or when the unmarried sibling is admitted to the United States does not affect eligibility.
 
@@ -340,9 +338,9 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (ii) *Approvals for eligible family members outside the United States.* When USCIS approves an application for an eligible family member outside the United States, USCIS will notify the T-1 principal alien of such approval and provide the necessary documentation to the Department of State for consideration of visa issuance.
 
-(10) *Employment authorization.* An alien granted derivative T nonimmigrant status may apply for employment authorization by filing an application on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) in accordance with form instructions. For derivatives in the United States, the application may be filed concurrently with the application for derivative T nonimmigrant status or at any later time. For derivatives outside the United States, an application for employment authorization may only be filed after admission to the United States in T nonimmigrant status. If the application for employment authorization is approved, the derivative alien will be granted employment authorization pursuant to 8 CFR 274a.12(c)(25) for the period remaining in derivative T nonimmigrant status.
+(10) *Employment authorization.* An alien granted derivative T nonimmigrant status may apply for employment authorization by filing an application on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 in accordance with form instructions. For derivatives in the United States, the application may be filed concurrently with the application for derivative T nonimmigrant status or at any later time. For derivatives outside the United States, an application for employment authorization may only be filed after admission to the United States in T nonimmigrant status. If the application for employment authorization is approved, the derivative alien will be granted employment authorization pursuant to 8 CFR 274a.12(c)(25) for the period remaining in derivative T nonimmigrant status.
 
-(l) *Extension of T nonimmigrant status* - (1) *Eligibility.* USCIS may grant extensions of T-1 nonimmigrant status beyond 4 years from the date of approval in 1-year periods from the date the T-1 nonimmigrant status ends if:
+(l) *Extension of T nonimmigrant status*—(1) *Eligibility.* USCIS may grant extensions of T-1 nonimmigrant status beyond 4 years from the date of approval in 1-year periods from the date the T-1 nonimmigrant status ends if:
 
 (i) An LEA investigating or prosecuting activity related to human trafficking certifies that the presence of the alien in the United States is necessary to assist in the investigation or prosecution of such activity;
 
@@ -372,7 +370,7 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (7) *Mandatory extensions of status for adjustment of status applicants.* USCIS will automatically extend T-1 nonimmigrant status when a T nonimmigrant properly files an application for adjustment of status in accordance with 8 CFR 245.23. No separate application for extension of T nonimmigrant status, or supporting evidence, is required.
 
-(m) *Revocation of approved T nonimmigrant status* - (1) *Automatic revocation of derivative status.* An approved application for derivative T nonimmigrant status will be revoked automatically if the beneficiary of the approved derivative application notifies USCIS that he or she will not apply for admission to the United States.
+(m) *Revocation of approved T nonimmigrant status*—(1) *Automatic revocation of derivative status.* An approved application for derivative T nonimmigrant status will be revoked automatically if the beneficiary of the approved derivative application notifies USCIS that he or she will not apply for admission to the United States.
 
 (2) *Revocation on notice/grounds for revocation.* USCIS may revoke an approved application for T nonimmigrant status following issuance of a notice of intent to revoke. USCIS may revoke an approved application for T nonimmigrant status based on one or more of the following reasons:
 
@@ -400,4 +398,4 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction
 
 (4) DHS officials are prohibited from making adverse determinations of admissibility or deportability based on information obtained solely from the trafficker, unless the alien has been convicted of a crime or crimes listed in section 237(a)(2) of the Act.
 
-[81 FR 92304, Dec. 19, 2016]
+[81 FR 92304, Dec. 19, 2016, as amended at 85 FR 46925, Aug. 3, 2020; 85 FR 49941, Aug. 17, 2020]

@@ -24,7 +24,7 @@
 
 (e) *Additional information.* The Board may order the filing of additional information and or documentation in order to make its determination. Such filing shall be on a date certain, and failure to provide the additional documentation or information may constitute the sole grounds for denial of the request.
 
-(f) *Decision.* Before the end of the 90-day period beginning on the date a request filed, the Board shall render its decision and provide it to the requester. The Board will determine whether to grant expedited review and allow or disallow the claim or whether such claim should be resolved pursuant to the claims process described in § 709.6 of this part.
+(f) *Decision.* Before the end of the 90-day period beginning on the date a request is filed, the Board shall render its decision and provide it to the requester. The Board will determine whether to grant expedited review and allow or disallow the claim or whether such claim should be resolved pursuant to the claims process described in § 709.6 of this part.
 
 (1) *Expedited review denied.* A decision by the Board that expedited review is not appropriate shall be final and the claim shall be decided pursuant to the claims adjudication process set forth in § 709.6 of this part.
 
@@ -38,4 +38,4 @@
 
 (h) *Statute of limitations.* If an action described in paragraph (g) of this section is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date on which such action or motion may be filed in accordance with paragraph (g) of this section, the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim that was allowed by the Board). Such disallowance shall be final and the claimant shall have no further rights or remedies with respect to such claim.
 
-[56 FR 56925, Nov. 7, 1991, as amended at 59 FR 36041, July 15, 1994; 75 FR 34621, June 18, 2010. Redesignated at 82 FR 50294, Oct. 30, 2017]
+[56 FR 56925, Nov. 7, 1991, as amended at 59 FR 36041, July 15, 1994; 75 FR 34621, June 18, 2010. Redesignated at 82 FR 50294, Oct. 30, 2017; 85 FR 62213, Oct. 2, 2020]

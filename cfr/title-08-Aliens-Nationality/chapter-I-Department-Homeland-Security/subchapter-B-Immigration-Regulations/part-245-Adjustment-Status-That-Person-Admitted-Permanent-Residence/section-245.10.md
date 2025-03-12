@@ -1,7 +1,5 @@
 ##### § 245.10 Adjustment of status upon payment of additional sum under section 245(i). #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
-
 (a) *Definitions.* As used in this section the term:
 
 (1)(i) *Grandfathered alien* means an alien who is the beneficiary (including a spouse or child of the alien beneficiary if eligible to receive a visa under section 203(d) of the Act) of:
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (7) Will adjust status under section 245 of the Act to that of lawful permanent resident of the United States on or after October 1, 1994.
 
-(c) *Payment of additional sum.* An adjustment applicant filing under the provisions of section 245(i) of the Act must pay the standard adjustment application filing fee as specified in § 103.7(b)(1) of this chapter. Each application submitted under the provisions of section 245(i) of the Act must be submitted with an additional sum of $1,000. An applicant must submit the additional sum of $1,000 only once per application for adjustment of status submitted under the provisions of section 245(i) of the Act. However, an applicant filing under the provisions of section 245(i) of the Act is not required to pay the additional sum if, at the time the application for adjustment of status is filed, the alien is:
+(c) *Payment of additional sum.* An adjustment applicant filing under the provisions of section 245(i) of the Act must pay the standard adjustment application filing fee as specified in 8 CFR 106.2. Each application submitted under the provisions of section 245(i) of the Act must be submitted with an additional sum of $1,000. An applicant must submit the additional sum of $1,000 only once per application for adjustment of status submitted under the provisions of section 245(i) of the Act. However, an applicant filing under the provisions of section 245(i) of the Act is not required to pay the additional sum if, at the time the application for adjustment of status is filed, the alien is:
 
 (1) Unmarried and less than 17 years of age;
 
@@ -116,4 +114,4 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (ii) In all cases, any doubts as to the existence, authenticity, veracity, or accuracy of the documentation shall be resolved by the official government record, with records of the Service and the Executive Office for Immigration Review (EOIR) having precedence over the records of other agencies. Furthermore, determinations as to the weight to be given any particular document or item of evidence shall be solely within the discretion of the adjudicating authority (*i.e.*, the Service or EOIR). It shall be the responsibility of the applicant to obtain and submit copies of the records of any other government agency that the applicant desires to be considered in support of his or her application.
 
-[59 FR 51095, Oct. 7, 1994; 59 FR 53020, Oct. 20, 1994, as amended at 62 FR 10384, Mar. 6, 1997; 62 FR 39424, July 23, 1997; 62 FR 55153, Oct. 23, 1997; 66 FR 16388, Mar. 26, 2001; 76 FR 53793, Aug. 29, 2011]
+[59 FR 51095, Oct. 7, 1994; 59 FR 53020, Oct. 20, 1994, as amended at 62 FR 10384, Mar. 6, 1997; 62 FR 39424, July 23, 1997; 62 FR 55153, Oct. 23, 1997; 66 FR 16388, Mar. 26, 2001; 76 FR 53793, Aug. 29, 2011; 85 FR 46926, Aug. 3, 2020]

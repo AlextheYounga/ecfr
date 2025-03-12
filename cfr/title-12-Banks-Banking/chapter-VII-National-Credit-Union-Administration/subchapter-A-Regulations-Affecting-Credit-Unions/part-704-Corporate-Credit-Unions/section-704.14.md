@@ -8,7 +8,7 @@
 
 (3) No individual may be elected or appointed to serve on the board if, after such election or appointment, the individual would be a director at more than one corporate credit union;
 
-(4) No individual may be elected or appointed to serve on the board if, after such election or appointment, any member of the corporate credit union would have more than one representative on the board of the corporate;
+(4) No individual may be elected or appointed to serve on the board if, after such election or appointment, any member of the corporate credit union would have more than one representative on the board of the corporate credit union;
 
 (5) The chair of the board may not serve simultaneously as an officer, director, or employee of a credit union trade association;
 
@@ -16,7 +16,7 @@
 
 (7) For purposes of meeting the requirements of paragraphs (a)(5) and (a)(6) of this section, an individual may not serve as a director or chair of the board if that individual holds a subordinate employment relationship to another employee who serves as an officer, director, or employee of a credit union trade association;
 
-(8) In the case of a corporate credit union whose membership is composed of more than 25 percent non credit unions, the majority of directors serving as representatives of member credit unions, including the chair, must be elected only by member credit unions, and
+(8) In the case of a corporate credit union whose membership is composed of more than 25 percent non-credit unions, the majority of directors serving as representatives of member credit unions, including the chair, must be elected only by member credit unions; and
 
 (9) At least a majority of directors of every corporate credit union, including the chair of the board, must serve on the corporate board as representatives of natural person credit union members.
 
@@ -44,4 +44,4 @@
 
 (2) The provisions of § 701.14 of this chapter apply to corporate credit unions, except that where “Regional Director” is used, read “Director of the Office of National Examinations and Supervision.”
 
-[62 FR 12938, Mar. 19, 1997, as amended at 67 FR 65657, Oct. 25, 2002; 75 FR 64844, Oct. 20, 2010; 80 FR 25938, May 6, 2015]
+[62 FR 12938, Mar. 19, 1997, as amended at 67 FR 65657, Oct. 25, 2002; 75 FR 64844, Oct. 20, 2010; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020]

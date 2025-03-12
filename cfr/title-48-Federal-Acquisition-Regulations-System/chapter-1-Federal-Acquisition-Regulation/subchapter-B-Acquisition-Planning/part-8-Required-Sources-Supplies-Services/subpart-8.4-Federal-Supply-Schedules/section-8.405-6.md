@@ -84,11 +84,11 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (xi) For justifications under 8.405-6(a)(1), a written determination by the approving official identifying the circumstance that applies.
 
-(d) *Justification approvals.* (1) For a proposed order or BPA with an estimated value exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
+(d) *Justification approvals.* (1) For a proposed order or BPA with an estimated value exceeding the simplified acquisition threshold, but not exceeding $750,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
 
-(2) For a proposed order or BPA with an estimated value exceeding $700,000, but not exceeding $13.5 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (4) of this section. This authority is not delegable.
+(2) For a proposed order or BPA with an estimated value exceeding $750,000, but not exceeding $15 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (4) of this section. This authority is not delegable.
 
-(3) For a proposed order or BPA with an estimated value exceeding $13.5 million, but not exceeding $68 million (or, for DoD, NASA, and the Coast Guard, not exceeding $93 million), the justification must be approved by -
+(3) For a proposed order or BPA with an estimated value exceeding $15 million, but not exceeding $75 million (or, for DoD, NASA, and the Coast Guard, not exceeding $100 million), the justification must be approved by -
 
 (i) The head of the procuring activity placing the order;
 
@@ -100,6 +100,6 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (iii) An official named in paragraph (d)(4) of this section.
 
-(4) For a proposed order or BPA with an estimated value exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
+(4) For a proposed order or BPA with an estimated value exceeding $75 million (or, for DoD, NASA, and the Coast Guard, over $100 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
-[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019]
+[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019; 85 FR 62488, Oct. 2, 2020]

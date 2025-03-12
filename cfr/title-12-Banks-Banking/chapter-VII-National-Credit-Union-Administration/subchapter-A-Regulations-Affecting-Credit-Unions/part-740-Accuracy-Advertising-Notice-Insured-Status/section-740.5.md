@@ -26,7 +26,7 @@
 
 (5) Display advertisements in credit union directories, provided the name of the credit union is listed on any page in the directory with a symbol or other descriptive matter indicating it is insured;
 
-(6) Joint or group advertisements of credit union services where the names of insured credit unions and noninsured credit unions are listed and form a part of such advertisement;
+(6) Joint or group advertisements of credit union services where the names of federally insured credit unions and Non-federally insured credit unions are listed and form a part of such advertisement;
 
 (7) Advertisements by radio which do not exceed thirty (30) seconds in time;
 
@@ -40,4 +40,4 @@
 
 (d) The non-English equivalent of the official advertising statement may be used in any advertisement provided that the Regional Director gives prior approval to the translation.
 
-[68 FR 23382, May 2, 2003, as amended at 71 FR 67439, Nov. 22, 2006; 73 FR 56936, Oct. 1, 2008; 76 FR 30523, May 26, 2011; 83 FR 17913, Apr. 25, 2018]
+[68 FR 23382, May 2, 2003, as amended at 71 FR 67439, Nov. 22, 2006; 73 FR 56936, Oct. 1, 2008; 76 FR 30523, May 26, 2011; 83 FR 17913, Apr. 25, 2018; 85 FR 62213, Oct. 2, 2020]

@@ -1,7 +1,5 @@
 ##### § 245.24 Adjustment of aliens in U nonimmigrant status. #####
 
-Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
-
 (a) *Definitions.* As used in this section, the term:
 
 (1) *Continuous Physical Presence* means the period of time that the alien has been physically present in the United States and must be a continuous period of at least 3 years since the date of admission as a U nonimmigrant continuing through the date of the conclusion of adjudication of the application for adjustment of status. If the alien has departed from the United States for any single period in excess of 90 days or for any periods in the aggregate exceeding 180 days, the applicant must include a certification from the agency that signed the Form I-918, Supplement B, in support of the alien's U nonimmigrant status that the absences were necessary to assist in the criminal investigation or prosecution or were otherwise justified.
@@ -36,9 +34,9 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (1) Form I-485, Application to Register Permanent Residence or Adjust Status, in accordance with the form instructions;
 
-(2) The fee prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver;
+(2) The fee prescribed in 8 CFR 106.2 or an application for a fee waiver;
 
-(3) The biometric services fee as prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver;
+(3) [Reserved]
 
 (4) A photocopy of the alien's Form I-797, Notice of Action, granting U nonimmigrant status;
 
@@ -92,11 +90,11 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (4) The principal U-1 alien has adjusted status to that of a lawful permanent resident, has a pending application for adjustment of status, or is concurrently filing an application for adjustment of status.
 
-(h) *Procedures for filing petitions for qualifying family members* - (1) *Required documents.* For each qualifying family member who plans to seek an immigrant visa or adjustment of status under section 245(m)(3) of the Act, the U-1 principal applicant must submit, either concurrently with, or after he or she has filed, his or her Form I-485:
+(h) *Procedures for filing petitions for qualifying family members*—(1) *Required documents.* For each qualifying family member who plans to seek an immigrant visa or adjustment of status under section 245(m)(3) of the Act, the U-1 principal applicant must submit, either concurrently with, or after he or she has filed, his or her Form I-485:
 
 (i) Form I-929 in accordance with the form instructions;
 
-(ii) The fee prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver;
+(ii) The fee prescribed in 8 CFR 106.2 or an application for a fee waiver;
 
 (iii) Evidence of the relationship listed in paragraph (a)(2) of this section, such as a birth or marriage certificate. If primary evidence is unavailable, secondary evidence or affidavits may be submitted in accordance with 8 CFR 103.2(b)(2);
 
@@ -126,15 +124,13 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (ii) *Denials.* If the Form I-929 is denied, the applicant will be notified in writing of the reason(s) for the denial in accordance with 8 CFR part 103. If an applicant chooses to appeal the denial to the Administrative Appeals Office pursuant to 8 CFR 103.3, the denial will not become final until the appeal is adjudicated. Denial of the U-1 principal applicant's application will result in the automatic denial of a qualifying family member's Form I-929. There shall be no appeal of such an automatic denial.
 
-(i) *Application procedures for qualifying family members who are physically present in the United States to request adjustment of status.* (1) *Required documents.* Qualifying family members in the United States may request adjustment of status by submitting:
+(i) *Application procedures for qualifying family members who are physically present in the United States to request adjustment of status*—(1) *Required documents.* Qualifying family members in the United States may request adjustment of status by submitting:
 
 (i) Form I-485, Application to Register Permanent Residence or Adjust Status, in accordance with the form instructions;
 
 (ii) An approved Form I-929, Petition for Qualifying Family Member of a U-1 Nonimmigrant;
 
-(iii) The fee prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver; and
-
-(iv) The biometric services fee as prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver.
+(iii) The fee prescribed in 8 CFR 106.2 or an application for a fee waiver; and
 
 (2) *Decision.* The decision to approve or deny Form I-485 is a discretionary determination that lies solely within USCIS's jurisdiction. After completing its review of the application and evidence, USCIS will issue a written decision approving or denying Form I-485 and notify the applicant of this decision in writing.
 
@@ -148,4 +144,4 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (l) *Inapplicability of 8 CFR 245.1 and 245.2.* The provisions of 8 CFR 245.1 and 245.2 do not apply to aliens seeking adjustment of status under section 245(m) of the Act.
 
-[73 FR 75560, Dec. 12, 2008; 74 FR 395, Jan. 6, 2009; 78 FR 18472, Mar. 27, 2013]
+[73 FR 75560, Dec. 12, 2008; 74 FR 395, Jan. 6, 2009; 78 FR 18472, Mar. 27, 2013; 85 FR 46927, Aug. 3, 2020]

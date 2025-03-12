@@ -26,7 +26,7 @@
 
 (12) Copies of all contracts reflecting any merger-related compensation or other benefit to be received by any director or senior management official of the credit union;
 
-(13) If the merging credit union's assets on its latest call report are equal to or greater than the threshold amount established annually by the Federal Trade Commission under 15 U.S.C. 18a(a)(2)(B)(i), currently $63.4 million, a statement about whether the two institutions intend to make a Hart-Scott-Rodino Act premerger notification filing with the Federal Trade Commission and, if not, an explanation why not;
+(13) If the merging credit union's assets on its latest call report are equal to or greater than the threshold amount established annually by the Federal Trade Commission under 15 U.S.C. 18a(a)(2)(B)(i), a statement about whether the two institutions intend to make a Hart-Scott-Rodino Act premerger notification filing with the Federal Trade Commission and, if not, an explanation why not;
 
 (14) Copies of any filings the credit union or bank intends to make with another Federal or State regulatory agency in which the credit union or bank seeks that agency's approval of the merger; and
 
@@ -78,4 +78,4 @@
 
 (h) *Appeal of adverse decision.* If the Regional Director disapproves a merger proposal, the credit union may request reconsideration and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[75 FR 81387, Dec. 28, 2010, as amended at 82 FR 50293, Oct. 30, 2017]
+[75 FR 81387, Dec. 28, 2010, as amended at 82 FR 50293, Oct. 30, 2017; 85 FR 62213, Oct. 2, 2020]

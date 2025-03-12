@@ -6,6 +6,6 @@
 
 (c) *Insured credit union and federally insured credit union* as used in this part mean a credit union with National Credit Union Administration share insurance.
 
-(d) *Nonfederally insured credit union* as used in this part means a credit union with either no account insurance or with primary account insurance provided by some entity other than the National Credit Union Administration.
+(d) *Non-federally insured credit union* as used in this part means a credit union with either no account insurance or with primary account insurance provided by some entity other than the National Credit Union Administration.
 
 [68 FR 23382, May 2, 2003, as amended at 74 FR 9348, Mar. 4, 2009; 76 FR 30523, May 26, 2011]

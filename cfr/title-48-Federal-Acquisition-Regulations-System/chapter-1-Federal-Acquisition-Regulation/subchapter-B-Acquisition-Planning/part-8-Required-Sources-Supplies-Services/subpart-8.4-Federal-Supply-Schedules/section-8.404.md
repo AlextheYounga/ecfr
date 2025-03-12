@@ -4,9 +4,9 @@
 
 (b)(1) The contracting officer, when placing an order or establishing a BPA, is responsible for applying the regulatory and statutory requirements applicable to the agency for which the order is placed or the BPA is established. The requiring agency shall provide the information on the applicable regulatory and statutory requirements to the contracting officer responsible for placing the order.
 
-(2) For orders over $550,000, *see* subpart 17.5 for additional requirements for interagency acquisitions.
+(2) For orders over $600,000, *see* subpart 17.5 for additional requirements for interagency acquisitions.
 
-(c) *Acquisition planning.* Orders placed under a Federal Supply Schedule contract -
+(c) *Acquisition planning.* Orders placed under a Federal Supply Schedule contract—
 
 (1) Are not exempt from the development of acquisition plans (see subpart 7.1), and an information technology acquisition strategy (see Part 39);
 
@@ -26,7 +26,7 @@
 
 (ii) Award notices for MAS orders (including orders issued under BPAs) shall follow the procedures in 5.705.
 
-(2) When an order is awarded or a Blanket Purchase Agreement is established with an estimated value greater than the simplified acquisition threshold and supported by a limited-source justification at 8.405-6(a), the ordering activity contracting officer must -
+(2) When an order is awarded or a Blanket Purchase Agreement is established with an estimated value greater than the simplified acquisition threshold and supported by a limited-source justification at 8.405-6(a), the ordering activity contracting officer must—
 
 (i) Publicize the action (*see* 5.301); and
 
@@ -38,7 +38,7 @@
 
 (3)(i) A time-and-materials or labor-hour order may be used for the acquisition of commercial services only when it is not possible at the time of placing the order to estimate accurately the extent or duration of the work or to anticipate costs with any reasonable degree of confidence.
 
-(ii) Prior to the issuance of a time-and-materials or labor-hour order, the contracting officer shall -
+(ii) Prior to the issuance of a time-and-materials or labor-hour order, the contracting officer shall—
 
 (A) Execute a determination and findings (D&F) for the order, in accordance with paragraph (h)(3)(iii) of this section that a fixed-price order is not suitable;
 
@@ -46,7 +46,7 @@
 
 (C) When the total performance period, including options, is more than three years, the D&F prepared in accordance with this paragraph shall be signed by the contracting officer and approved by the head of the contracting activity prior to the execution of the base period.
 
-(iii) The D&F required by paragraph (h)(3)(ii)(A) of this section shall contain sufficient facts and rationale to justify that a fixed-price order is not suitable. At a minimum, the D&F shall -
+(iii) The D&F required by paragraph (h)(3)(ii)(A) of this section shall contain sufficient facts and rationale to justify that a fixed-price order is not suitable. At a minimum, the D&F shall—
 
 (A) Include a description of the market research conducted (see 8.404(c) and 10.002(e));
 
@@ -56,7 +56,7 @@
 
 (D) Describe actions to maximize the use of fixed-price orders on future acquisitions for the same requirements.
 
-(iv) Prior to an increase in the ceiling price of a time-and-materials or labor-hour order, the ordering activity shall -
+(iv) Prior to an increase in the ceiling price of a time-and-materials or labor-hour order, the ordering activity shall—
 
 (A) Conduct an analysis of pricing and other relevant factors to determine if the action is in the best interest of the Government and document the order file;
 
@@ -68,4 +68,4 @@
 
 (j) *Line items.* When placing orders or establishing BPAs, ordering activities shall reference the special item number and the corresponding line or subline item awarded (established per 4.1005) in the schedule. If an ordering activity contracting officer adds an item not on the Federal Supply Schedule in accordance with 8.402(f), establish a new line item in accordance with subpart 4.10.
 
-[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 82 FR 4713, Jan. 13, 2017; 84 FR 19838, May 6, 2019; 85 FR 11756, Feb. 27, 2020]
+[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 82 FR 4713, Jan. 13, 2017; 84 FR 19838, May 6, 2019; 85 FR 11756, Feb. 27, 2020; 85 FR 62488, Oct. 2, 2020]

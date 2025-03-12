@@ -38,7 +38,7 @@
 
 (3) The corporate credit union, directly or through its agent, receives daily assessment of the market value of collateral and maintains adequate margin that reflects a risk assessment of the collateral and terms of the loan; and
 
-(4) The corporate credit union has entered into signed contracts with all agents and, directly or through its agent, has executed a written loan and security agreement with the borrower. The corporate or its agent ensures compliance with the agreements.
+(4) The corporate credit union has entered into signed contracts with all agents and, directly or through its agent, has executed a written loan and security agreement with the borrower. The corporate credit union or its agent ensures compliance with the agreements.
 
 (f) *Investment companies.* A corporate credit union may invest in an investment company registered with the Securities and Exchange Commission under the Investment Company Act of 1940 (15 U.S.C. 80a), or a collective investment fund maintained by a national bank under 12 CFR 9.18 or a mutual savings bank under 12 CFR 550.260, provided that the company or fund prospectus restricts the investment portfolio to investments and investment transactions that are permissible for that corporate credit union.
 
@@ -80,4 +80,4 @@
 
 (j) *Grandfathering.* A corporate credit union's authority to hold an investment is governed by the regulation in effect at the time of purchase. However, all grandfathered investments are subject to the other requirements of this part.
 
-[75 FR 64839, Oct. 20, 2010, as amended at 80 FR 25937, May 6, 2015]
+[75 FR 64839, Oct. 20, 2010, as amended at 80 FR 25937, May 6, 2015; 85 FR 62211, Oct. 2, 2020]

@@ -1,6 +1,6 @@
 ##### § 708b.302 Conversion of insurance (Federal Credit Union). #####
 
-Unless the Regional Director approves the use of different forms, a federal credit union must use the following forms in this section in connection with a conversion to a noninsured state charter.
+Unless the Regional Director approves the use of different forms, a federal credit union must use the following forms in this section in connection with a conversion to a non-federally insured state charter.
 
 (a) Form letter notifying NCUA of intent to convert:
 
@@ -32,7 +32,7 @@ Sincerely,
 
 (b) Form notice to members of intent to convert and special meeting of members:
 
-Notice of Proposal To Convert to a State Charter and to Noninsured Status and Special Meeting of Members(Insert Name of Converting Credit Union)
+Notice of Proposal To Convert to a State Charter and to Non-federally insured Status and Special Meeting of Members(Insert Name of Converting Credit Union)
 
 On (insert date), the board of directors of your credit union approved a proposition to convert from federal share (deposit) insurance to private insurance and to convert from a federal credit union to a state-chartered credit union. You are encouraged to attend a special meeting of our credit union at (insert address) on (insert time and date) to address this proposition.
 
@@ -48,10 +48,10 @@ Insurance Conversion
 
 Currently, your accounts have share insurance provided by the National Credit Union Administration, an agency of the federal government. The basic federal coverage is up to $250,000, but accounts may be structured in different ways, such as joint accounts, payable-on-death accounts, or IRA accounts, to achieve federal coverage of much more than $250,000. If the conversion is approved, your federal insurance will terminate on the effective date of the conversion. Instead, your accounts in the credit union will be insured up to $(insert dollar amount) by (insert name of insurer), a corporation chartered by the State of (insert name of State). The federal insurance provided by the National Credit Union Administration is backed by the full faith and credit of the United States government. The private insurance you will receive from (insert name of insurer), however, is not guaranteed by the federal or any state or local government.
 
-|IF THIS CONVERSION IS APPROVED, AND THE (insert name of credit|
-|:------------------------------------------------------------:|
-| union) FAILS, THE FEDERAL GOVERNMENT DOES NOT GUARANTEE YOU  |
-|                  WILL GET YOUR MONEY BACK.                   |
+|**IF THIS CONVERSION IS APPROVED, AND THE (insert name of credit**|
+|------------------------------------------------------------------|
+| **union) FAILS, THE FEDERAL GOVERNMENT DOES NOT GUARANTEE YOU**  |
+|                  **WILL GET YOUR MONEY BACK.**                   |
 
 Also, because this conversion, if approved, would result in the loss of federal share insurance, the credit union will, at any time between the approval of the conversion and the effective date of conversion and upon request of the member, permit all members who have share certificates or other term accounts to close the federally insured portion of those accounts without an early withdrawal penalty. (This is an optional sentence. It may be deleted without the approval of the Regional Director. The members must be informed about this right, however, as described in 12 CFR 708b.204(c).)
 
@@ -69,17 +69,17 @@ By order of the board of directors.
 
 (c) Form ballot:
 
-Ballot for Conversion to State Charter and Noninsured Status(Insert Name of Converting Credit Union)Name of Member: (insert name)Account Number: (insert account number)
+Ballot for Conversion to State Charter and Non-federally insured Status(Insert Name of Converting Credit Union)Name of Member: (insert name)Account Number: (insert account number)
 
 The credit union must receive this ballot by (insert date and time for vote). Please mail or bring it to: (Insert name of independent entity and address).
 
 I understand if the conversion of the (insert name of credit union) is approved, the National Credit Union Administration share (deposit) insurance I now have, up to $250,000, or possibly more if I use different accounts structures, will terminate upon the effective date of the conversion. Instead, my shares in the (insert name of credit union) will be insured up to $(insert dollar amount) by (insert name of insurer), a corporation chartered by the State of (insert name of state). The federal insurance provided by the National Credit Union Administration is backed by the full faith and credit of the United States Government. The private insurance provided by (insert name of insurer) is not.
 
-|I FURTHER UNDERSTAND THAT, IF THIS CONVERSION IS APPROVED|
-|:-------------------------------------------------------:|
-|AND THE (insert name of credit union) FAILS, THE FEDERAL |
-| GOVERNMENT DOES NOT GUARANTEE THAT I WILL GET MY MONEY  |
-|                          BACK.                          |
+|**I FURTHER UNDERSTAND THAT, IF THIS CONVERSION IS APPROVED**|
+|-------------------------------------------------------------|
+|**AND THE (insert name of credit union) FAILS, THE FEDERAL** |
+| **GOVERNMENT DOES NOT GUARANTEE THAT I WILL GET MY MONEY**  |
+|                          **BACK.**                          |
 
 I vote on the proposal as follows (check one box):
 
@@ -95,7 +95,7 @@ Date:
 
 (d) Form certification to NCUA of member vote:
 
-Certification of Vote on Conversion to State Charter and Noninsured Status
+Certification of Vote on Conversion to State Charter and Non-federally insured Status
 
 We, the undersigned officers of the (insert name of converting credit union), certify the completion of the following actions:
 

@@ -8,15 +8,15 @@
 
 (d) *Orders under single-agency contracts.* For single-agency task-order and delivery-order contracts, the contracting officer may require performance evaluations for each order in excess of the simplified acquisition threshold when such evaluations would produce more useful past performance information for source selection officials than that contained in the overall contract evaluation (e.g., when the scope of the basic contract is very broad and the nature of individual orders could be significantly different). This evaluation need not consider the requirements under paragraph (g) of this section unless the contracting officer deems it appropriate.
 
-(e) Past performance evaluations shall be prepared for each construction contract of $700,000 or more, and for each construction contract terminated for default regardless of contract value. Past performance evaluations may also be prepared for construction contracts below $700,000.
+(e) Past performance evaluations shall be prepared for each construction contract of $750,000 or more, and for each construction contract terminated for default regardless of contract value. Past performance evaluations may also be prepared for construction contracts below $750,000.
 
 (f) Past performance evaluations shall be prepared for each architect-engineer services contract of $35,000 or more, and for each architect-engineer services contract that is terminated for default regardless of contract value. Past performance evaluations may also be prepared for architect-engineer services contracts below $35,000.
 
-(g) Past performance evaluations shall include an assessment of the contractor's -
+(g) Past performance evaluations shall include an assessment of the contractor's—
 
 (1) Performance against, and efforts to achieve, the goals identified in the small business subcontracting plan when the contract includes the clause at 52.219-9, Small Business Subcontracting Plan; and
 
-(2) Reduced or untimely payments (as defined in 19.701), made to small business subcontractors, determined by the contracting officer to be unjustified. The contracting officer shall -
+(2) Reduced or untimely payments (as defined in 19.701), made to small business subcontractors, determined by the contracting officer to be unjustified. The contracting officer shall—
 
 (i) Consider and evaluate a contractor's written explanation for a reduced or an untimely payment when determining whether the reduced or untimely payment is justified; and
 
@@ -36,4 +36,4 @@
 
 (i) Agencies shall promptly report other contractor information in accordance with 42.1503(h).
 
-[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016; 81 FR 93486, Dec. 20, 2016; 82 FR 51530, Nov. 6, 2017]
+[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016; 81 FR 93486, Dec. 20, 2016; 82 FR 51530, Nov. 6, 2017; 85 FR 62489, Oct. 2, 2020]

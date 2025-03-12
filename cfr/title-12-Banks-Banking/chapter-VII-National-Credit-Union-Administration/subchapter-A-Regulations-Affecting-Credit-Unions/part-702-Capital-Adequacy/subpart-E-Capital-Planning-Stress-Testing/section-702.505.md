@@ -1,6 +1,6 @@
 ##### § 702.505 NCUA action on capital plans. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to a correction published at 85 FR 62210, Oct. 2, 2020.
 
 (a) *Timing* - (1) *Tier I & tier II credit unions.* NCUA will address any deficiencies in the capital plans submitted by tier I and tier II credit unions through the supervisory process.
 

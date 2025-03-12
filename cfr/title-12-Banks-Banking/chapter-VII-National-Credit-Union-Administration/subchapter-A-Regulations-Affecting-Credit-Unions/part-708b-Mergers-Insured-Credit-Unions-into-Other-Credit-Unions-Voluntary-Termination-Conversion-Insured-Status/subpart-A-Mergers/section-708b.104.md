@@ -22,7 +22,7 @@
 
 (i) A written statement from the continuing credit union that it “is aware of the requirements of 12 U.S.C. 1831t(b), including all notification and acknowledgment requirements”; and
 
-(ii) Proof that the accounts of the credit union will be accepted for coverage by the nonfederal insurer (if the credit union will have nonfederal insurance);
+(ii) Proof that the accounts of the credit union will be accepted for coverage by the non-Federal insurer (if the credit union will have non-Federal insurance);
 
 (10) Board minutes for the merging and continuing credit union that reference the merger for the 24 months before the date the boards of directors of both credit unions approve the merger plan; and
 

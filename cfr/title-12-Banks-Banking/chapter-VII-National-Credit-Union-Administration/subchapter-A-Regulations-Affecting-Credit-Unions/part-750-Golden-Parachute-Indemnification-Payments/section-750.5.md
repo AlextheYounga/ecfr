@@ -16,7 +16,7 @@
 
 (ii) An agreement in writing to reimburse the federally insured credit union, to the extent not covered by payments from insurance or bonds purchased pursuant to § 750.1(j)(2)(i), for that portion of any advanced indemnification payments which ultimately become prohibited indemnification payments as defined in § 750.1(j); and
 
-(3) The indemnification payments do not ultimately constitute prohibited indemnification payments as defined in§ 750.1(j).
+(3) The indemnification payments do not ultimately constitute prohibited indemnification payments as defined in § 750.1(j).
 
 (b) An IAP seeking indemnification payments must not participate in any way in the board of director's discussion and approval of such payments; however, the IAP may present his or her request to the board and respond to any inquiries from the board concerning his or her involvement in the circumstances giving rise to the administrative proceeding or civil action.
 
@@ -24,4 +24,4 @@
 
 (d) In the event all of the members of the board of directors are named as respondents in an administrative proceeding or civil action and request indemnification, the board will authorize independent legal counsel to review the indemnification request and provide the board with a written opinion of counsel as to whether the conditions in paragraph (a)(1) through (3) of this section have been met. If independent legal counsel concludes the conditions have been met, the board of directors may rely on the opinion in authorizing the requested indemnification.
 
-[76 FR 30517, May 26, 2011; 79 FR 12658, Mar. 6, 2014]
+[76 FR 30517, May 26, 2011; 79 FR 12658, Mar. 6, 2014, as amended at 85 FR 62214, Oct. 2, 2020]

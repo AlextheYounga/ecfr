@@ -238,7 +238,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Non-monetary default* means a situation where a borrower is not in compliance with the covenants or requirements of the loan documents, program requirements or loan.
 
-*Non-regulated lending entity* means a lending entity that is not subject to supervision and examination by an agency of the United States or a State; or a lending entity created specifically by State statute and operating under the direct supervision of a State government authority.
+*Non-regulated lending entity* means a lending entity that is not subject to supervision and examination by an agency of the United States or a State.
 
 *Ocean energy* means energy created by use of various types of moving water in the ocean and other large bodies of water (*e.g.,* Great Lakes) including, but not limited to, tidal, wave, current, and thermal changes.
 
@@ -421,3 +421,5 @@ The following definitions are applicable to the capitalized terms used in this p
 *Waste disposal* means sanitary sewer (treatment and collection), solid waste, or storm drainage facilities.
 
 *Working Capital* means current assets available to support a business' operations and growth. Working capital is calculated as current assets less current liabilities.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020]

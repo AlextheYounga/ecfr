@@ -2,7 +2,7 @@
 
 (a) The lender must not close the guaranteed loan until all conditions of the conditional commitment are met.
 
-(b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, any secondary market sale documents, and the following forms and documents:
+(b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, any secondary market assignment documents, and the following forms and documents:
 
 (1) An Agency-approved, “Guaranteed Loan Closing Report”;
 
@@ -89,3 +89,5 @@
 (2) If the corporation dissolves or ceases to perform the community facility objectives and functions, the board of directors shall distribute all business property and assets to one or more nonprofit corporations or public bodies. This distribution must be approved by 75 percent of the users or members and must serve the public welfare of the community. The assets may not be distributed to any members, directors, stockholders, or others having a financial or managerial interest in the corporation. Nothing herein shall prohibit the corporation from paying its debts.
 
 (e) For all B&I projects a borrower whose project involves locally or regionally produced agricultural food products and is not located in a rural area must include in an appropriate agreement with retail and institutional facilities to which the borrower sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020]

@@ -42,7 +42,7 @@
 
 (3) The financial condition of the corporate credit union is sound with adequate reserves for losses;
 
-(4) Surety bond coverage provides protection for the corporate credit union while the corporate credit union is performing the duties of an Agent member of Facility;
+(4) Surety bond coverage provides protection for the corporate credit union while the corporate credit union is performing the duties of an Agent member of the Facility;
 
 (5) Management has demonstrated its ability to use such techniques as cash flow analysis, budgeting, and projections of sources and uses of funds to manage the affairs of the corporate credit union efficiently and in conformity with sound business practices; and
 
@@ -56,10 +56,10 @@
 
 (d) Each Agent, or in the case of an Agent group, each corporate credit union in the group, must have on an annual basis a third party independent audit of its books and records and provide the Facility with copies of the report of such audit. The auditor selected must be recognized by a State or territorial licensing authority as possessing the requisite knowledge and experience to perform audits.
 
-(e) Within 30 days after a natural person credit union becomes a member of a corporate credit union which is an Agent or a member of an Agent group, the agent, or in the case of an Agent group, the Agent group representative, shall subscribe to additional capital stock of the Facility in an amount equal to one-half of 1 percent of such credit union's paid-in and unimpaired capital and surplus, and shall forward funds equal to one-half of this stock subscription to the Facility. This subsection shall not apply if the natural person credit union is a Regular member of the Facility or has access to the Facility through, and is included in the stock subscription of, another Agent.
+(e) Within 30 days after a natural person credit union becomes a member of a corporate credit union which is an Agent or a member of an Agent group, the Agent, or in the case of an Agent group, the Agent group representative, shall subscribe to additional capital stock of the Facility in an amount equal to one-half of 1 percent of such credit union's paid-in and unimpaired capital and surplus, and shall forward funds equal to one-half of this stock subscription to the Facility. This subsection shall not apply if the natural person credit union is a Regular member of the Facility or has access to the Facility through, and is included in the stock subscription of, another Agent.
 
 (f) A corporate credit union or group of corporate credit unions which becomes an Agent member of the Facility after February 23, 1980, may not receive a Facility advance without approval of the NCUA Board for a period of six months after becoming a member. This subsection shall not apply to any credit union which becomes an Agent member or a member of an Agent group within six months after such credit union is chartered or within six months after such credit union has been an Agent or a member of another Agent group.
 
 (g) Agent members will be compensated for the services they perform for the Facility in a manner to be specified by the NCUA Board.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020]
+[44 FR 49437, Aug. 23, 1979, as amended at 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020; 85 FR 62213, Oct. 2, 2020]

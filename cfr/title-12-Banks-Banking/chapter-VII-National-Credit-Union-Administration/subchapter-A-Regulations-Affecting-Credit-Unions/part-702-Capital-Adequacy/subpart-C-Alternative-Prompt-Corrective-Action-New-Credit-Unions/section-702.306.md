@@ -2,7 +2,7 @@
 
 (a) *Schedule for filing* - (1) *Generally.* Except as provided in paragraph (a)(2) of this section, a new credit union classified “moderately capitalized” or lower must file a written revised business plan (RBP) with the appropriate Regional Director and, if State-chartered, with the appropriate State official, within 30 calendar days of either:
 
-(i) The last of the calendar month following the end of the calendar quarter that the credit union's net worth ratio has not increased consistent with its the-present approved business plan;
+(i) The last of the calendar month following the end of the calendar quarter that the credit union's net worth ratio has not increased consistent with its then-present approved business plan;
 
 (ii) The effective date of classification as less than “adequately capitalized” if the credit union has no then-present approved business plan; or
 
@@ -52,4 +52,4 @@
 
 (h) *Publication.* An RBP need not be published to be enforceable because publication would be contrary to the public interest.
 
-[65 FR 8584, Feb. 18, 2000, as amended at 67 FR 71093, Nov. 29, 2002]
+[65 FR 8584, Feb. 18, 2000, as amended at 67 FR 71093, Nov. 29, 2002; 85 FR 62210, Oct. 2, 2020]

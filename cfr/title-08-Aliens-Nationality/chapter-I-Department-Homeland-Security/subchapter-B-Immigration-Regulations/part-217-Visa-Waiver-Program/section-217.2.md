@@ -1,7 +1,5 @@
 ##### § 217.2 Eligibility. #####
 
-Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
-
 (a) *Definitions.* As used in this part, the term:
 
 *Carrier* refers to the owner, charterer, lessee, or authorized agent of any commercial vessel or commercial aircraft engaged in transporting passengers to the United States from a foreign place.
@@ -16,8 +14,8 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
 
 (c) *Restrictions on manner of arrival* - (1) *Applicants arriving by air and sea.* Applicants must arrive on a carrier that is signatory to a Visa Waiver Pilot Program Agreement and at the time of arrival must have a round trip ticket that will transport the traveler out of the United States to any other foreign port or place as long as the trip does not terminate in contiguous territory or an adjacent island; except that the round trip ticket may transport the traveler to contiguous territory or an adjacent island, if the traveler is a resident of the country of destination.
 
-(2) *Applicants arriving at land border ports-of-entry.* Any Visa Waiver Pilot Program applicant arriving at a land border port-of-entry must provide evidence to the immigration officer of financial solvency and a domicile abroad to which the applicant intends to return. An applicant arriving at a land-border port-of-entry will be charged a fee as prescribed in § 103.7(b)(1) of this chapter for issuance of Form I-94W, Nonimmigrant Visa Waiver Arrival/Departure Form. A round-trip transportation ticket is not required of applicants at land border ports-of-entry.
+(2) *Applicants arriving at land border ports-of-entry.* Any Visa Waiver Pilot Program applicant arriving at a land border port-of-entry must provide evidence to the immigration officer of financial solvency and a domicile abroad to which the applicant intends to return. An applicant arriving at a land-border port-of-entry will be charged a fee as prescribed in 8 CFR 103.7(d)(4) of this chapter for issuance of Form I-94W, Nonimmigrant Visa Waiver Arrival/Departure Form. A round-trip transportation ticket is not required of applicants at land border ports-of-entry.
 
 (d) *Aliens in transit.* An alien who is in transit through the United States is eligible to apply for admission under the Visa Waiver Pilot Program, provided the applicant meets all other program requirements.
 
-[62 FR 10351, Mar. 6, 1997, as amended at 62 FR 50999, Sept. 30, 1997; 64 FR 42007, Aug. 3, 1999; 67 FR 7945, Feb. 21, 2002; 68 FR 10957, Mar. 7, 2003; 73 FR 67712, Nov. 17, 2008; 73 FR 79597, Dec. 30, 2008; 75 FR 15992, Mar. 31, 2010; 77 FR 64411, Oct. 22, 2012; 79 FR 17854, Mar. 31, 2014; 84 FR 60318, Nov. 8, 2019]
+[62 FR 10351, Mar. 6, 1997, as amended at 62 FR 50999, Sept. 30, 1997; 64 FR 42007, Aug. 3, 1999; 67 FR 7945, Feb. 21, 2002; 68 FR 10957, Mar. 7, 2003; 73 FR 67712, Nov. 17, 2008; 73 FR 79597, Dec. 30, 2008; 75 FR 15992, Mar. 31, 2010; 77 FR 64411, Oct. 22, 2012; 79 FR 17854, Mar. 31, 2014; 84 FR 60318, Nov. 8, 2019; 85 FR 46925, Aug. 3, 2020]

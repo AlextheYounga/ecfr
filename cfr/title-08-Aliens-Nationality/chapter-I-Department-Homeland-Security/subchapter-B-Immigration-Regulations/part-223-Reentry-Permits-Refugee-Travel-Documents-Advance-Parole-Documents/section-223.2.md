@@ -1,10 +1,8 @@
 ##### § 223.2 Application and processing. #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+(a) *Application.* An applicant must submit an application for a reentry permit, refugee travel document, or advance parole on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions.
 
-(a) *Application.* An applicant must submit an application for a reentry permit, refugee travel document, or advance parole on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
-
-(b) *Filing eligibility* - (1) *Reentry permit.* An applicant for a reentry permit must file such application while in the United States and in status as a lawful permanent resident or conditional permanent resident.
+(b) *Filing eligibility*—(1) *Reentry permit.* An applicant for a reentry permit must file such application while in the United States and in status as a lawful permanent resident or conditional permanent resident.
 
 (2) *Refugee travel document.* (i) Except as provided in paragraph (b)(2)(ii) of this section, an applicant for a refugee travel document must submit the application while in the United States and in valid refugee status under section 207 of the Act, valid asylum status under section 208 of the Act or is a permanent resident who received such status as a direct result of his or her asylum or refugee status.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (C) The alien has been outside the United States for less than 1 year since his or her last departure.
 
-(c) *Ineligibility* - (1) *Prior document still valid.* An application for a reentry permit or refugee travel document will be denied if the applicant was previously issued a reentry permit or refugee travel document which is still valid, unless it was returned to USCIS or it is demonstrated that it was lost.
+(c) *Ineligibility*—(1) *Prior document still valid.* An application for a reentry permit or refugee travel document will be denied if the applicant was previously issued a reentry permit or refugee travel document which is still valid, unless it was returned to USCIS or it is demonstrated that it was lost.
 
 (2) *Extended absences.* A reentry permit issued to a person who, since becoming a permanent resident or during the last five years, whichever is less, has been outside the United States for more than four years in the aggregate, shall be limited to a validity of one year, except that a permit with a validity of two years may be issued to:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (g) *Appeal.* Denial of an application for a reentry permit or refugee travel document may be appealed in accordance with 8 CFR 103.3.
 
-[76 FR 53790, Aug. 29, 2011]
+[76 FR 53790, Aug. 29, 2011, as amended at 85 FR 46926, Aug. 3, 2020]

@@ -8,4 +8,4 @@ Each loan note guarantee issued under this part or under one of the guaranteed l
 
 (c) Written request from the lender to the Agency to terminate the guarantee, which will be effective the date the Agency receives the request provided that the lender holds all the guaranteed portion of the loan.
 
-(d) The Agency may terminate the loan note guarantee if it is determined that the lender or borrower failed to adhere to the applicable provisions of this part or other good cause.
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62199, Oct. 2, 2020]

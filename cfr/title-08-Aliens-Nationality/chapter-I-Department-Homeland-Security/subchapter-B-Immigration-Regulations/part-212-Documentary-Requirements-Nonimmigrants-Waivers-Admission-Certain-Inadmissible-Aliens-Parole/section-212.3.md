@@ -1,8 +1,6 @@
 ##### § 212.3 Application for the exercise of discretion under section 212(c). #####
 
-Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
-
-(a) *Jurisdiction.* An application for the exercise of discretion under section 212(c) of the Act must be submitted on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions. If the application is made in the course of proceedings under sections 235, 236, or 242 of the Act, the application shall be made to the Immigration Court.
+(a) *Jurisdiction.* An application for the exercise of discretion under section 212(c) of the Act must be submitted on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions. If the application is made in the course of proceedings under sections 235, 236, or 242 of the Act, the application shall be made to the Immigration Court.
 
 (b) *Filing of application.* The application may be filed prior to, at the time of, or at any time after the applicant's departure from or arrival into the United States. All material facts and/or circumstances which the applicant knows or believes apply to the grounds of excludability or deportability must be described. The applicant must also submit all available documentation relating to such grounds.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (g) *Relief for certain aliens who were in deportation proceedings before April 24, 1996.* Section 440(d) of Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) shall not apply to any applicant for relief under this section whose deportation proceedings were commenced before the Immigration Court before April 24, 1996.
 
-[56 FR 50034, Oct. 3, 1991, as amended at 60 FR 34090, June 30, 1995; 61 FR 59825, Nov. 25, 1996; 66 FR 6446, Jan. 22, 2001; 74 FR 26938, June 5, 2009; 76 FR 53787, Aug. 29, 2011]
+[56 FR 50034, Oct. 3, 1991, as amended at 60 FR 34090, June 30, 1995; 61 FR 59825, Nov. 25, 1996; 66 FR 6446, Jan. 22, 2001; 74 FR 26938, June 5, 2009; 76 FR 53787, Aug. 29, 2011; 85 FR 46922, Aug. 3, 2020]

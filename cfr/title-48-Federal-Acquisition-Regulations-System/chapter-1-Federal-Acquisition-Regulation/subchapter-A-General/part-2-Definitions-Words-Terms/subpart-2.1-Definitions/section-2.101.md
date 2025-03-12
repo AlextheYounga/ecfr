@@ -1,5 +1,4 @@
-##### 2.101 Definitions.
-= #####
+##### 2.101 Definitions. #####
 
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
@@ -523,7 +522,7 @@
 
 (1) The Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $185 million based on Fiscal Year 2014 constant dollars or the eventual total expenditure for the acquisition exceeds $835 million based on Fiscal Year 2014 constant dollars (or any update of these thresholds based on a more recent fiscal year, as specified in the DoD Instruction 5000.02, “Operation of the Defense Acquisition System”);
 
-(2) A civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $ 2 million or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget Circular A-109, entitled “Major System Acquisitions,” whichever is greater; or
+(2) A civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $ 2.5 million or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget Circular A-109, entitled “Major System Acquisitions,” whichever is greater; or
 
 (3) The system is designated a “major system” by the head of the agency responsible for the system (10 U.S.C. 2302 and 41 U.S.C. 109.
 
@@ -569,9 +568,13 @@
 
 (i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
-(ii) $30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States;
+(ii) $35,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
 (4) For acquisitions of supplies or services from institutions of higher education (20 U.S.C. 1001(a)) or related or affiliated nonprofit entities, or from nonprofit research organizations or independent research institutes -
+
+(i) $10,000; or
+
+(ii) A higher threshold, as determined appropriate by the head of the agency and consistent with clean audit findings under 31 U.S.C. chapter 75, Requirements for Single Audits; an internal institutional risk assessment; or State law.
 
 *Minority Institution* means an institution of higher education meeting the requirements of Section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k), including a Hispanic-serving institution of higher education, as defined in Section 502(a) of the Act (20 U.S.C. 1101a).
 
@@ -803,7 +806,7 @@
 
 (1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), (41 U.S.C. 1903), the term means -
 
-(i) $750,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
+(i) $800,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
 (ii) $1.5 million for any contract to be awarded and performed, or purchase to be made, outside the United States; and
 

@@ -2,7 +2,7 @@
 
 (a) Each justification shall contain sufficient facts and rationale to justify the use of the specific authority cited.
 
-(b) As a minimum, each justification, except those for sole-source 8(a) contracts over $22 million (*see* paragraph (d) of this section), shall include the following information:
+(b) As a minimum, each justification, except those for sole-source 8(a) contracts over $25 million (*see* paragraph (d) of this section), shall include the following information:
 
 (1) Identification of the agency and the contracting activity, and specific identification of the document as a “Justification for other than full and open competition.”
 
@@ -36,7 +36,7 @@
 
 (c) Each justification shall include evidence that any supporting data that is the responsibility of technical or requirements personnel (e.g., verifying the Government's minimum needs or schedule requirements or other rationale for other than full and open competition) and which form a basis for the justification have been certified as complete and accurate by the technical or requirements personnel.
 
-(d) As a minimum, each justification for a sole-source 8(a) contract over $22 million shall include the following information:
+(d) As a minimum, each justification for a sole-source 8(a) contract over $25 million shall include the following information:
 
 (1) A description of the needs of the agency concerned for the matters covered by the contract.
 
@@ -48,4 +48,4 @@
 
 (5) Such other matters as the head of the agency concerned shall specify for purposes of this section.
 
-[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 60 FR 48236, Sept. 18, 1995; 66 FR 27412, May 16, 2001; 76 FR 14562, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019]
+[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 60 FR 48236, Sept. 18, 1995; 66 FR 27412, May 16, 2001; 76 FR 14562, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019; 85 FR 62487, Oct. 2, 2020]

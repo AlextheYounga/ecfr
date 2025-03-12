@@ -44,9 +44,9 @@
 
 (i) *Effective and spread durations.* A corporate credit union must measure at least once a quarter, including once on the last day of the calendar quarter, the effective duration and spread durations of each of its assets and liabilities, where the values of these are affected by changes in interest rates or credit spreads.
 
-(j) *Limit breaches.* (1)(i) If a corporate credit union's decline in NEV, base case NEV ratio, or any NEV ratio calculated under paragraph (d) of this section exceeds established or permitted limits, or the corporate is unable to satisfy the tests in paragraphs (f) or (g) of this section, the operating management of the corporate must immediately report this information to its board of directors and ALCO; and
+(j) *Limit breaches.* (1)(i) If a corporate credit union's decline in NEV, base case NEV ratio, or any NEV ratio calculated under paragraph (d) of this section exceeds established or permitted limits, or the corporate credit union is unable to satisfy the tests in paragraph (f) or (g) of this section, the operating management of the corporate credit union must immediately report this information to its board of directors and ALCO; and
 
-(ii) If the corporate credit union cannot adjust its balance sheet to meet the requirements of paragraphs (d), (f), or (g) of this section within 10 calendar days after detection by the corporate, the corporate must notify in writing the Director of the Office of National Examinations and Supervision.
+(ii) If the corporate credit union cannot adjust its balance sheet to meet the requirements of paragraph (d), (f), or (g) of this section within 10 calendar days after detection by the corporate credit union, the corporate credit union must notify in writing the Director of the Office of National Examinations and Supervision.
 
 (2) If any breach described in paragraph (j)(1) of this section persists for 30 or more calendar days, the corporate credit union:
 
@@ -56,6 +56,6 @@
 
 (iii) If presently categorized as less than adequately capitalized for prompt corrective action purposes, and the breach was of paragraph (d) of this section, the corporate credit union will immediately be downgraded one additional capital category.
 
-(k) *Overall limit on business generated from individual credit unions.* On or after April 22, 2013, a corporate credit union is prohibited from accepting from any member, or any nonmember credit union, any investment, including shares, loans, PCC, or NCAs if, following that investment, the aggregate of all investments from that entity in the corporate would exceed 15 percent of the corporate credit union's moving daily average net assets.
+(k) *Overall limit on business generated from individual credit unions.* On or after April 22, 2013, a corporate credit union is prohibited from accepting from any member, or any nonmember credit union, any investment, including shares, loans, PCC, or NCAs if, following that investment, the aggregate of all investments from that entity in the corporate credit union would exceed 15 percent of the corporate credit union's moving daily average net assets.
 
-[75 FR 64842, Oct. 20, 2010, as amended at 76 FR 79533, Dec. 22, 2011; 80 FR 25938, May 6, 2015]
+[75 FR 64842, Oct. 20, 2010, as amended at 76 FR 79533, Dec. 22, 2011; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020]

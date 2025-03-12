@@ -10,7 +10,7 @@
 
 *Available assets ratio* means the ratio of:
 
-(i) The amount determined by subtracting -
+(i) The amount determined by subtracting—
 
 (A) Direct liabilities of the NCUSIF and contingent liabilities for which no provision for losses has been made from
 
@@ -24,7 +24,7 @@
 
 *Equity ratio* means the ratio of:
 
-(i) The amount determined by subtracting -
+(i) The amount determined by subtracting—
 
 (A) Direct liabilities of the NCUSIF and contingent liabilities for which no provision for losses has been made from
 
@@ -54,7 +54,7 @@
 
 (c) *One percent deposit.* Each insured credit union must maintain with the NCUSIF during each reporting period a deposit in an amount equaling one percent of the total of the credit union's insured shares at the close of the preceding reporting period. For credit unions with total assets of less than $50,000,000, insured shares will be measured and adjusted annually based on the insured shares reported in the credit union's 5300 report for December 31 of each year. For credit unions with total assets of $50,000,000 or more, insured shares will be measured and adjusted semiannually based on the insured shares reported in the credit union's 5300 reports for December 31 and June 30 of each year.
 
-(d) *Insurance premium charges* - (1) *In general.* Each insured credit union will pay to the NCUSIF, on dates the NCUA Board determines, but not more than twice in any calendar year, an insurance premium in an amount stated as a percentage of insured shares, which will be the same percentage for all insured credit unions.
+(d) *Insurance premium charges*—(1) *In general.* Each insured credit union will pay to the NCUSIF, on dates the NCUA Board determines, but not more than twice in any calendar year, an insurance premium in an amount stated as a percentage of insured shares, which will be the same percentage for all insured credit unions.
 
 (2) *Relation of premium charge to equity ratio of NCUSIF.* (i) The NCUA Board may assess a premium charge only if the NCUSIF's equity ratio is less than 1.3 percent and the premium charge does not exceed the amount necessary to restore the equity ratio to 1.3 percent.
 
@@ -110,13 +110,13 @@
 
 (iv) If the NCUSIF declares, at any time after the date of conversion through the end of that calendar year, an assessment to replenish the one-percent deposit, pay a replenishment amount based on the institution's insured shares as of the last day of the most recently ended reporting period preceding the invoice date; and
 
-(2) A federally insured credit union that merges with a nonfederally insured credit union or other nonfederally insured institution (the “merging institution”), where the federally insured credit union is the continuing institution, will:
+(2) A federally insured credit union that merges with a non-federally insured credit union or other non-federally insured institution (the “merging institution”), where the federally insured credit union is the continuing institution, will:
 
 (i) Immediately on the date of merger increase the amount of its NCUSIF deposit by an amount equal to one percent of the merging institution's insured shares as of the last day of the merging institution's most recently ended reporting period preceding the date of merger;
 
 (ii) With regard to any NCUSIF premiums assessed in the calendar year of merger, pay a two-part premium, with one part calculated on the merging institution's insured shares as described in paragraph (i)(1)(ii) of this section, and the other part calculated on the continuing institution's insured shares as of the last day of its most recently ended reporting period preceding the date of merger; and
 
-(j) *Conversion from, or termination of, Federal share insurance.* (1) A federally insured credit union whose insurance coverage with the NCUSIF terminates, including through a conversion to, or merger into, a nonfederally insured credit union or a noncredit union entity, will:
+(j) *Conversion from, or termination of, Federal share insurance.* (1) A federally insured credit union whose insurance coverage with the NCUSIF terminates, including through a conversion to, or merger into, a non-federally insured credit union or a noncredit union entity, will:
 
 (i) Receive the full amount of its NCUSIF deposit paid, less any amounts applied to cover NCUSIF losses that exceed NCUSIF retained earnings, immediately after the final date on which any shares of the credit union are NCUSIF-insured;
 
@@ -144,4 +144,4 @@
 
 (ii) Section 202(d)(3) of the Act (12 U.S.C. 1782(d)(3)) provides, generally, that no insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge due to the fund. Section 202(d)(3) further provides that any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned more than one year, or both.
 
-[74 FR 63279, Jan. 4, 2010, as amended at 76 FR 60367, Sept. 29, 2011; 80 FR 57288, Sept. 23, 2015; 83 FR 7960, Feb. 23, 2018; 83 FR 14741, Apr. 6, 2018]
+[74 FR 63279, Jan. 4, 2010, as amended at 76 FR 60367, Sept. 29, 2011; 80 FR 57288, Sept. 23, 2015; 83 FR 7960, Feb. 23, 2018; 83 FR 14741, Apr. 6, 2018; 85 FR 62213, Oct. 2, 2020]

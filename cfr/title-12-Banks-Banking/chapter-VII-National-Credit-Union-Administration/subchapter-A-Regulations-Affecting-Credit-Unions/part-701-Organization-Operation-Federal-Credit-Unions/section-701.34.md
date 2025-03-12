@@ -14,9 +14,9 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (6) *Definitions.* The following definitions apply to this section:
 
-*Median family income* and *total median earnings for individuals* are income statistics reported by the U.S. Census Bureau. The applicable income data can be obtained via the American FactFinder on the Census Bureau's webpage at *http://factfinder.census.gov/home/saff/main.html?\_lang=en.*
+*Median family income* and *total median earnings for individuals* are income statistics reported by the U.S. Census Bureau. The applicable income data can be obtained via the American Community Survey on the Census Bureau's web page at *http://www.census.gov.*
 
-*Metropolitan area* means an area designated by the Office of Management and Budget pursuant to 31 U.S.C. 1104(d), 44 U.S.C. 3504(c), and Executive Order 10253, 16 FR 5605 (June 13, 1951) (as amended).
+*Metropolitan area* means an area designated by the Office of Management and Budget pursuant to 31 U.S.C. 1104(d), 44 U.S.C. 3504(c), and Executive Order 10253 (June 13, 1951) (as amended).
 
 (b) *Acceptance of secondary capital accounts by low-income designated credit unions.* A federal credit union having a designation of low-income status pursuant to paragraph (a) of this section may accept secondary capital accounts from nonnatural person members and nonnatural person nonmembers subject to the following conditions:
 
@@ -131,4 +131,4 @@ Disclosure and Acknowledgment
 
 8. *Prompt Corrective Action.* Under certain net worth classifications (*see* 12 CFR 702.204(b)(11), 702.304(b) and 702.305(b), as the case may be), the NCUA Board may prohibit [name of credit union] from paying principal, dividends or interest on its uninsured secondary capital accounts established after August 7, 2000, except that unpaid dividends or interest will continue to accrue under the terms of the account to the extent permitted by law.
 
-ACKNOWLEDGED AND AGREED TO this \_\_ day of [month and year] by:[name of investor's official][title of official][name of investor][address and phone number of investor][investor's tax identification number][name of credit union official][title of official][61 FR 3790, Feb. 2, 1996, as amended at 61 FR 50695, 50697, Sept. 27, 1996; 64 FR 72270, Dec. 27, 1999; 65 FR 21131, Apr. 20, 2000; 71 FR 4238, Jan. 26, 2006; 73 FR 71912, Nov. 26, 2008; 75 FR 7342, Feb. 19, 2010; 75 FR 47172, Aug. 5, 2010; 75 FR 57843, Sept. 23, 2010; 76 FR 36979, June 24, 2011; 76 FR 80227, Dec. 23, 2011; 78 FR 4032, Jan. 18, 2013; 82 FR 50291, Oct. 30, 2017]
+ACKNOWLEDGED AND AGREED TO this \_\_ day of [month and year] by:[name of investor's official][title of official][name of investor][address and phone number of investor][investor's tax identification number][name of credit union official][title of official][61 FR 3790, Feb. 2, 1996, as amended at 61 FR 50695, 50697, Sept. 27, 1996; 64 FR 72270, Dec. 27, 1999; 65 FR 21131, Apr. 20, 2000; 71 FR 4238, Jan. 26, 2006; 73 FR 71912, Nov. 26, 2008; 75 FR 7342, Feb. 19, 2010; 75 FR 47172, Aug. 5, 2010; 75 FR 57843, Sept. 23, 2010; 76 FR 36979, June 24, 2011; 76 FR 80227, Dec. 23, 2011; 78 FR 4032, Jan. 18, 2013; 82 FR 50291, Oct. 30, 2017; 85 FR 62210, Oct. 2, 2020]

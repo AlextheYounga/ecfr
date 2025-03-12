@@ -2,7 +2,7 @@
 
 As prescribed in 22.1705(a)(1), insert the following clause:
 
-Combating Trafficking in Persons (JAN 2019)
+Combating Trafficking in Persons (OCT 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -222,7 +222,7 @@ Combating Trafficking in Persons (JAN 2019)
 
 (i) Is for supplies, other than commercially available off-the-shelf items, acquired outside the United States, or services to be performed outside the United States; and
 
-(ii) Has an estimated value that exceeds $500,000.
+(ii) Has an estimated value that exceeds $550,000.
 
 (2) The Contractor shall maintain a compliance plan during the performance of the contract that is appropriate -
 
@@ -258,9 +258,9 @@ Combating Trafficking in Persons (JAN 2019)
 
 (i) *Subcontracts.* (1) The Contractor shall include the substance of this clause, including this paragraph (i), in all subcontracts and in all contracts with agents. The requirements in paragraph (h) of this clause apply only to any portion of the subcontract that -
 
-(A) Is for supplies, other than commercially available off-the-shelf items, acquired outside the United States, or services to be performed outside the United States; and
+(i) Is for supplies, other than commercially available off-the-shelf items, acquired outside the United States, or services to be performed outside the United States; and
 
-(B) Has an estimated value that exceeds $500,000.
+(ii) Has an estimated value that exceeds $550,000.
 
 (2) If any subcontractor is required by this clause to submit a certification, the Contractor shall require submission prior to the award of the subcontract and annually thereafter. The certification shall cover the items in paragraph (h)(5) of this clause.
 
@@ -279,4 +279,4 @@ Combating Trafficking in Persons (JAN 2019)
 
 [*Contracting Officer shall insert title of directive/notice; indicate the document is attached or provide source (such as website link) for obtaining document; and, indicate the contract performance location outside the United States to which the document applies.*]
 
-[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015; 83 FR 65478, Dec. 20, 2018]
+[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015; 83 FR 65478, Dec. 20, 2018; 85 FR 62490, Oct. 2, 2020]

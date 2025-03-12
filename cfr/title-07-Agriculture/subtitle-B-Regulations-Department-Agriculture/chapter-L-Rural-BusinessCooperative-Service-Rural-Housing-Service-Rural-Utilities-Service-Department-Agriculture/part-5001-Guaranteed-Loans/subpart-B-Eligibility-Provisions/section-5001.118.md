@@ -10,4 +10,4 @@ The following are ineligible projects for the B&I program only:
 
 (2) Increase direct employment by more than 50 employees, which is calculated to or likely to result in an increase in the production of goods, materials, commodities, or the availability of services or facilities in the area when there is not sufficient demand for such goods, materials, commodities, services, or facilities to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
-(3) The financing of timeshares, residential trailer parks, apartments, duplexes, or other residential housing where the primary purpose is independent housing except as authorized in § 5001.105(b)(8), or housing development sites except as authorized in § 5001.105(b)(1).
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

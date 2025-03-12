@@ -1,8 +1,6 @@
 ##### § 240.63 Application process. #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
-
-(a) *Form and fees.* Except as provided in paragraph (b) of this section, the application must be made on a Form I-881, Application for Suspension of Deportation or Special Rule Cancellation of Removal (pursuant to section 203 of Public Law 105-100 (NACARA)), and filed in accordance with the instructions for that form. An applicant who submitted to EOIR a completed Form EOIR-40, Application for Suspension of Deportation, before the effective date of the Form I-881 may apply with the Service by submitting the completed Form EOIR-40 attached to a completed first page of the Form I-881. Each application must be filed with the filing and fingerprint fees as provided in § 103.7(b)(1) of this chapter, or a request for fee waiver, as provided in § 103.7(c) of this chapter. The fact that an applicant has also applied for asylum does not exempt the applicant from the fingerprinting fees associated with the Form I-881.
+(a) *Form and fees.* Except as provided in paragraph (b) of this section, the application must be made on the form prescribed by USCIS for this program and filed in accordance with the instructions for that form. An applicant who submitted to EOIR a completed Form EOIR-40, Application for Suspension of Deportation, before the effective date of the form prescribed by USCIS may apply with the Service by submitting the completed Form EOIR-40 attached to a completed first page of the application. Each application must be filed with the required fees as provided in 8 CFR 106.2.
 
 (b) *Applications filed with EOIR.* If jurisdiction rests with the Immigration Court under § 260.62(b), the application must be made on the Form I-881, if filed subsequent to June 21, 1999. The application form, along with any supporting documents, must be filed with the Immigration Court and served on the Service's district counsel in accordance with the instructions on or accompanying the form. Applications for suspension of deportation or special rule cancellation of removal filed prior to June 21, 1999 shall be filed on Form EOIR-40.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (4) Knowing placement of false information on the application may subject the person supplying that information to criminal penalties under title 18 of the United States Code and to civil penalties under section 274C of the Act.
 
-[64 FR 27876, May 21, 1999, as amended at 74 FR 26939, June 5, 2009]
+[64 FR 27876, May 21, 1999, as amended at 74 FR 26939, June 5, 2009; 85 FR 46926, Aug. 3, 2020]

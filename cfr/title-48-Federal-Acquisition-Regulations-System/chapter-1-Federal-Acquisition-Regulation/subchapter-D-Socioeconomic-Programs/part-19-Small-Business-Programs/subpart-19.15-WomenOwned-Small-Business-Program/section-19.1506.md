@@ -18,9 +18,9 @@
 
 (c)(1) The anticipated award price of the contract, including options, will not exceed -
 
-(i) $6.5 million for a requirement within the NAICS codes for manufacturing; or
+(i) $7 million for a requirement within the NAICS codes for manufacturing; or
 
-(ii) $4 million for a requirement within any other NAICS codes.
+(ii) $4.5 million for a requirement within any other NAICS codes.
 
 (2) The EDWOSB concern or WOSB concern has been determined to be a responsible contractor with respect to performance.
 
@@ -28,4 +28,4 @@
 
 (d) The SBA has the right to appeal the contracting officer's decision not to make a sole source award to either an EDWOSB concern or WOSB concern eligible under the WOSB program.
 
-[81 FR 83103, Nov. 18, 2016]
+[81 FR 83103, Nov. 18, 2016, as amended at 85 FR 62489, Oct. 2, 2020]

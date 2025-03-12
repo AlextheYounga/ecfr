@@ -14,7 +14,7 @@
 
 (1) The multiple-award contract was reserved for 8(a) participants;
 
-(2) The order has an estimated value less than or equal to $7 million for acquisitions assigned manufacturing NAICS codes and $4 million for all other acquisitions; and
+(2) The order has an estimated value less than or equal to $7.5 million for acquisitions assigned manufacturing NAICS codes and $4.5 million for all other acquisitions; and
 
 (3) The offering and acceptance procedures at 19.804-2 and 19.804-3 are followed.
 
@@ -22,4 +22,4 @@
 
 (e) Agencies may continue to take credit toward their prime contracting small disadvantaged business or small business goals for orders awarded to 8(a) contractors, even after the contractor's 8(a) program term expires, the contractor otherwise exits the 8(a) program, or the contractor becomes other than small for the NAICS code(s) assigned under the 8(a) contract. However, if an 8(a) contractor rerepresents that it is other than small for the NAICS code(s) assigned under the contract in accordance with 19.301-2 or, where ownership or control of the 8(a) contractor has changed and SBA has granted a waiver to allow the contractor to continue performance (see 13 CFR 124.515), the agency may not credit any subsequent orders awarded to the contractor towards its small disadvantaged business or small business goals.
 
-[85 FR 11765, Feb. 27, 2020]
+[85 FR 11765, Feb. 27, 2020, as amended at 85 FR 62489, Oct. 2, 2020]

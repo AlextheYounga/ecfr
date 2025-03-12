@@ -1,12 +1,10 @@
 ##### § 248.3 Petition and application. #####
 
-Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
-
-Requests for a change of status must be filed on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b) and in accordance with the form instructions.
+Requests for a change of status must be filed on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions.
 
 (a) *Requests by petitioners.* A petitioner must submit a request for a change of status to E-1, E-2, E-3, H-1C, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN nonimmigrant.
 
-(b) *Application by nonimmigrant.* (1) *Individual applicant.* Any nonimmigrant who seeks to change status to:
+(b) *Application by nonimmigrant*—(1) *Individual applicant.* Any nonimmigrant who seeks to change status to:
 
 (i) A dependent nonimmigrant classification as the spouse or child of a principal whose nonimmigrant classification is listed in paragraph (a) of this section, or
 
@@ -28,7 +26,7 @@ Requests for a change of status must be filed on the form designated by USCIS wi
 
 (g) *Denial of application.* When the application is denied, the applicant shall be notified of the decision and the reasons for the denial. There is no appeal from the denial of the application under this chapter.
 
-(h) *Change to S nonimmigrant classification.* An eligible state or federal law enforcement agency (“LEA”), which shall include a state or federal court or a United States Attorney's Office, may seek to change the nonimmigrant classification of a nonimmigrant lawfully admitted to the United States, except those enumerated in § 248.2 of this chapter, to that of an alien witness or informant pursuant to section 101(a)(15)(S) of the Act by filing with the Assistant Attorney General, Criminal Division, the forms designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions establishing eligibility for the change of nonimmigrant classification.
+(h) *Change to S nonimmigrant classification.* An eligible state or federal law enforcement agency (“LEA”), which shall include a state or federal court or a United States Attorney's Office, may seek to change the nonimmigrant classification of a nonimmigrant lawfully admitted to the United States, except those enumerated in § 248.2 of this chapter, to that of an alien witness or informant pursuant to section 101(a)(15)(S) of the Act by filing with the Assistant Attorney General, Criminal Division, the forms designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions establishing eligibility for the change of nonimmigrant classification.
 
 (1) If the Assistant Attorney General, Criminal Division, certifies the request for S nonimmigrant classification in accordance with the procedures set forth in 8 CFR 214.2(t), the Assistant Attorney General shall forward the LEA's request on Form I-854 with Form I-539 to the Commissioner. No request for change of nonimmigrant classification to S classification may proceed to the Commissioner unless it has first been certified by the Assistant Attorney General, Criminal Division.
 
@@ -36,4 +34,4 @@ Requests for a change of status must be filed on the form designated by USCIS wi
 
 (i) *Change of nonimmigrant status to perform labor in a health care occupation.* A request for a change of nonimmigrant status filed by, or on behalf of, an alien seeking to perform labor in a health care occupation as provided in 8 CFR 212.15(c), must be accompanied by a certificate as described in 8 CFR 212.15(f), or if the alien is eligible, a certified statement as described in 8 CFR 212.15(h). See 8 CFR 214.1(j) for a special rule concerning applications for change of status for aliens admitted temporarily under section 212(d)(3) of the Act and 8 CFR 212.15(n).
 
-[36 FR 9001, May 18, 1971, as amended at 48 FR 14593, Apr. 5, 1983; 48 FR 41017, Sept. 13, 1983; 48 FR 44763, Sept. 30, 1983; 50 FR 25697, June 21, 1985; 59 FR 1466, Jan. 11, 1994; 60 FR 44271, Aug. 25, 1995; 65 FR 14779, 14780, Mar. 17, 2000; 65 FR 18432, Apr. 7, 2000; 67 FR 76280, Dec. 11, 2002; 68 FR 43921, July 25, 2003; 73 FR 61336, Oct. 16, 2008; 74 FR 26940, June 5, 2009; 76 FR 53794, Aug. 29, 2011; 81 FR 2084, Jan. 15, 2016]
+[36 FR 9001, May 18, 1971]Editorial Note:For Federal Register citations affecting § 248.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

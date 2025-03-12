@@ -1,7 +1,5 @@
 ##### § 204.311 Convention adoption home study requirements. #####
 
-Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
-
 (a) *Purpose.* For immigration purposes, a home study is a process for screening and preparing an applicant who is interested in adopting a child from a Convention country.
 
 (b) *Preparer.* Only an individual or entity defined under 8 CFR 204.301 as a home study preparer for Convention cases may complete a home study for a Convention adoption. In addition, the individual or entity must be authorized to complete adoption home studies under the law of the jurisdiction in which the home study is conducted.
@@ -156,6 +154,8 @@ Each statement must be signed, under penalty of perjury, by the person to whom t
 
 (3) If submission of an updated or amended home study becomes necessary before USCIS adjudicates the Form I-800A, the applicant may simply submit the updated or amended home study to the office that has jurisdiction over the Form I-800A.
 
-(4) If it becomes necessary to file an updated or amended home study after USCIS has approved the Form I-800A, the applicant must file a Form I-800A Supplement 3 with the filing fee specified in 8 CFR 103.7(b)(1) and the amended or updated home study. If USCIS determines that the amended or updated home study shows that the applicant remains suitable as the adoptive parent(s) of a Convention adoptee, USCIS will issue a new approval notice that will expire on the same date as the original approval. If the applicant also wants to have USCIS extend the approval period for the Form I-800A, the applicant must submit the updated or amended home study with an extension request under 8 CFR 204.312(e)(3), rather than under this paragraph (u) of this section.
+(4) If it becomes necessary to file an updated or amended home study after USCIS has approved the Form I-800A, the applicant must file a Form I-800A Supplement 3 with the filing fee specified in 8 CFR 106.2 and the amended or updated home study. If USCIS determines that the amended or updated home study shows that the applicant remains suitable as the adoptive parent(s) of a Convention adoptee, USCIS will issue a new approval notice that will expire on the same date as the original approval. If the applicant also wants to have USCIS extend the approval period for the Form I-800A, the applicant must submit the updated or amended home study with an extension request under 8 CFR 204.312(e)(3), rather than under this paragraph (u) of this section.
 
 (5) Each update must indicate that the home study preparer has updated the screening of the applicant and any additional adult member of the household under paragraphs (i) through (l) of this section, and must indicate the results of this updated screening.
+
+[72 FR 56854, Oct. 4, 2007, as amended at 85 FR 46922, Aug. 3, 2020]

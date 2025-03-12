@@ -56,7 +56,7 @@
 
 (f) *Credit ratings.* (1) Before purchasing an investment, a corporate credit union must conduct and document an analysis that reasonably concludes the investment has no more than a minimal amount of credit risk.
 
-(2) A corporate credit union must identify and monitor any changes in credit quality of the investment and retain appropriate supporting documentation as long as the corporate owns the investment.
+(2) A corporate credit union must identify and monitor any changes in credit quality of the investment and retain appropriate supporting documentation as long as the corporate credit union owns the investment.
 
 (g) *Reporting and documentation.* (1) At least annually, a written evaluation of each credit limit with each obligor or transaction counterparty must be prepared and formally approved by the board or an appropriate committee. At least monthly, the board or an appropriate committee must receive an investment watch list of existing and/or potential credit problems and summary credit exposure reports, which demonstrate compliance with the corporate credit union's risk management policies.
 
@@ -74,4 +74,4 @@
 
 (2) The investment is part of an asset class or group of investments that exceeds the issuer, sector, or subsector concentration limits of this section. For purposes of measurement, each new credit transaction must be evaluated in terms of the corporate credit union's capital at the time of the transaction. An investment that fails a requirement of this section because of a subsequent reduction in capital will be deemed nonconforming. A corporate credit union is required to exercise reasonable efforts to bring nonconforming investments into conformity within 90 calendar days. Investments that remain nonconforming for more than 90 calendar days will be deemed to fail a requirement of this section and the corporate credit union will have to comply with § 704.10 of this part.
 
-[75 FR 64841, Oct. 20, 2010, as amended at 75 FR 71528, Nov. 24, 2010; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 80 FR 25937, May 6, 2015]
+[75 FR 64841, Oct. 20, 2010, as amended at 75 FR 71528, Nov. 24, 2010; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 80 FR 25937, May 6, 2015; 85 FR 62211, Oct. 2, 2020]

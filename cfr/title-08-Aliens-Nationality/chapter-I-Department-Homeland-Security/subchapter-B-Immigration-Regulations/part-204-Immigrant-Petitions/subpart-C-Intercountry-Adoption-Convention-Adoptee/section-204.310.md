@@ -1,7 +1,5 @@
 ##### § 204.310 Filing requirements for Form I-800A. #####
 
-Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
-
 (a) *Completing and filing the Form.* A United States citizen seeking to be determined eligible and suitable as the adoptive parent of a Convention adoptee must:
 
 (1) Complete Form I-800A, including a Form I-800A Supplement 1 for each additional adult member of the household, in accordance with the instructions that accompany the Form I-800A.
@@ -10,9 +8,9 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (3) File the Form I-800A with the USCIS office that has jurisdiction under 8 CFR 204.308(a) to adjudicate the Form I-800A, together with:
 
-(i) The fee specified in 8 CFR 103.7(b)(1) for the filing of Form I-800A;
+(i) The fee specified in 8 CFR 106.2 for the filing of Form I-800A;
 
-(ii) The additional biometrics information collection fee required under 8 CFR 103.7(b)(1) for the applicant and each additional adult member of the household;
+(ii) [Reserved]
 
 (iii) Evidence that the applicant is a United States citizen, as set forth in 8 CFR 204.1(g), or, in the case of a married applicant, evidence either that both spouses are citizens or, if only one spouse is a United States citizen, evidence of that person's citizenship and evidence that the other spouse, if he or she lives in the United States, is either a non-citizen United States national or an alien who holds a lawful status under U.S. immigration law.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (c) *Change in marital status.* If, while a Form I-800A is pending, an unmarried applicant marries, or the marriage of a married applicant ends, an amended Form I-800A and amended home study must be filed to reflect the change in marital status. No additional filing fee is required to file an amended Form I-800A while the original Form I-800A is still pending. See 8 CFR 204.312(e)(2) concerning the need to file a new Form I-800A if the marital status changes after approval of a Form I-800A.
 
-[72 FR 56854, Oct. 4, 2007, as amended at 76 FR 53782, Aug. 29, 2011]
+[72 FR 56854, Oct. 4, 2007, as amended at 76 FR 53782, Aug. 29, 2011; 85 FR 46922, Aug. 3, 2020]

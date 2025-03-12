@@ -1,7 +1,5 @@
 ##### § 211.2 Passports. #####
 
-Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
-
 (a) A passport valid for the bearer's entry into a foreign country at least 60 days beyond the expiration date of his or her immigrant visa shall be presented by each immigrant except an immigrant who:
 
 (1) Is the parent, spouse, or unmarried son or daughter of a United States citizen or of an alien lawful permanent resident of the United States;
@@ -14,6 +12,6 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (5) Is a member of the Armed Forces of the United States.
 
-(b) Except as provided in paragraph (a) of this section, if an alien seeking admission as an immigrant with an immigrant visa believes that good cause exists for his or her failure to present a passport, the alien may file an application for a waiver of this requirement with the *DHS officer who has jurisdiction over the port of entry where the alien arrives.* To apply for this waiver, the alien must apply on the form specified by USCIS, with the fee prescribed in 8 CFR 103.7(b)(1). In the exercise of discretion, the *DHS officer with jurisdiction over the port of entry,* may waive the alien's lack of passport and admit the alien as an immigrant, if DHS is satisfied that the alien has established good cause for his or her failure to present a passport.
+(b) Except as provided in paragraph (a) of this section, if an alien seeking admission as an immigrant with an immigrant visa believes that good cause exists for his or her failure to present a passport, the alien may file an application for a waiver of this requirement with the *DHS officer who has jurisdiction over the port of entry where the alien arrives.* To apply for this waiver, the alien must apply on the form specified by USCIS, with the fee prescribed in 8 CFR 106.2. In the exercise of discretion, the *DHS officer with jurisdiction over the port of entry,* may waive the alien's lack of passport and admit the alien as an immigrant, if DHS is satisfied that the alien has established good cause for his or her failure to present a passport.
 
-[62 FR 10346, Mar. 6, 1997, as amended at 74 FR 26937, June 5, 2009; 76 FR 53786, Aug. 29, 2011]
+[62 FR 10346, Mar. 6, 1997, as amended at 74 FR 26937, June 5, 2009; 76 FR 53786, Aug. 29, 2011; 85 FR 46922, Aug. 3, 2020]

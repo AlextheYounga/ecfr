@@ -1,7 +1,5 @@
 ##### § 235.1 Scope of examination. #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
-
 (a) *General.* Application to lawfully enter the United States shall be made in person to an immigration officer at a U.S. port-of-entry when the port is open for inspection, or as otherwise designated in this section.
 
 (b) *U.S. Citizens.* A person claiming U.S. citizenship must establish that fact to the examining officer's satisfaction and must present a U.S. passport or alternative documentation as required by 22 CFR part 53. If such applicant for admission fails to satisfy the examining immigration officer that he or she is a U.S. citizen, he or she shall thereafter be inspected as an alien. A U.S. citizen must present a valid unexpired U.S. passport book upon entering the United States, unless he or she presents one of the following documents:
@@ -78,17 +76,17 @@ On such cruises, U.S. Citizens under the age of 16 may present an original or a 
 
 (1) *Application.* An eligible applicant may apply for a Canadian Border Boat Landing Permit by completing the Form I-68 in triplicate. Application forms will be made readily available through the Internet, from a Service office, or by mail. A family may apply on a single application. For the purposes of this paragraph, a family is defined as a husband, wife, unmarried children under the age of 21, and the parents of either husband or wife, who reside at the same address. In order for the I-68 application to be considered complete, it must be accompanied by the following:
 
-(i) For each person included on the application, evidence of citizenship, and, if not a citizen of the Untied States or Canada, evidence of legal permanent resident status in either the United States or Canada. Evidence of residency must be submitted by all applicants. It is not required that all persons on the application be of the same nationality; however, they must all be individually eligible to participate in this program.
+(i) For each person included on the application, evidence of citizenship, and, if not a citizen of the United States or Canada, evidence of legal permanent resident status in either the United States or Canada. Evidence of residency must be submitted by all applicants. It is not required that all persons on the application be of the same nationality; however, they must all be individually eligible to participate in this program.
 
 (ii) If multiple members of a family, as defined in paragraph (e)(1) of this section, are included on a single application, evidence of the familial relationship.
 
-(iii) A fee as prescribed in § 103.7(b)(1) of this chapter.
+(iii) A fee as prescribed in 8 CFR 103.7(d)(3).
 
 (iv) A copy of any previously approved Form I-68.
 
 (v) A permanent resident of Canada who is a national of a Visa Waiver Program may apply for admission simultaneously with the Form I-68 application and thereby obtain a Form I-94 or I-94W.
 
-(2) *Submission of Form I-68.* Except as indicated in this paragraph, Form I-68 shall be properly completed and submitted in person, along with the documentary evidence and the required fee as specified in § 103.7(b)(1) of this chapter, to a United States immigration officer at a Canadian border Port-of-Entry located within the district having jurisdiction over the applicant's residence or intended place of landing. Persons previously granted Form I-68 approval may apply by mail to the issuing Service office for renewal if a copy of the previous Form I-68 is included in the application. At the discretion of the district director concerned, any applicant for renewal of Form I-68 may be required to appear for an interview in person if the applicant does not appear to be clearly eligible for renewal.
+(2) *Submission of Form I-68.* Except as indicated in this paragraph, Form I-68 shall be properly completed and submitted in person, along with the documentary evidence and the required fee as specified in 8 CFR 103.7(d)(3), to a United States immigration officer at a Canadian border Port-of-Entry located within the district having jurisdiction over the applicant's residence or intended place of landing. Persons previously granted Form I-68 approval may apply by mail to the issuing Service office for renewal if a copy of the previous Form I-68 is included in the application. At the discretion of the district director concerned, any applicant for renewal of Form I-68 may be required to appear for an interview in person if the applicant does not appear to be clearly eligible for renewal.
 
 (3) *Denial of Form I-68.* If the applicant has committed a violation of any immigration or customs regulation or, in the case of an alien, is inadmissible to the United States, approval of the Form I-68 shall be denied. However, if, in the exercise of discretion, the district director waives under section 212(d)(3) of the Act all applicable grounds of inadmissibility, the I-68 application may be approved for such non-citizens. If the Form I-68 application is denied, the applicant shall be given written notice of and the reasons for the denial by letter from the district director. There is no appeal from the denial of the Form I-68 application, but the denial is without prejudice to a subsequent application for this program or any other Service benefit, except that the applicant may not submit a subsequent Form I-68 application for 90 days after the date of the last denial.
 
@@ -140,4 +138,4 @@ On such cruises, U.S. Citizens under the age of 16 may present an original or a 
 
 (2) *Paroled aliens.* Any alien paroled into the United States under section 212(d)(5) of the Act, including any alien crewmember, shall be issued a completely executed Form I-94, endorsed with the parole stamp.
 
-[62 FR 10353, Mar. 6, 1997, as amended at 62 FR 47751, Sept. 11, 1997; 64 FR 8494, Feb. 19, 1999; 64 FR 36561, July 7, 1999; 64 FR 68617, Dec. 8, 1999; 67 FR 71449, Dec. 2, 2002; 68 FR 5193, Jan. 31, 2003; 69 FR 480, Jan. 5, 2004; 69 FR 50053, Aug. 13, 2004; 69 FR 53333, Aug. 31, 2004; 69 FR 58037, Sept. 29, 2004; 71 FR 68429, Nov. 24, 2006; 73 FR 18416, Apr. 3, 2008; 73 FR 77491, Dec. 19, 2008; 74 FR 2837, Jan. 16, 2009; 78 FR 18472, Mar. 27, 2013; 78 FR 35107, June 12, 2013]
+[62 FR 10353, Mar. 6, 1997]Editorial Note:For Federal Register citations affecting § 235.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

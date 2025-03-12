@@ -1,30 +1,28 @@
 ##### § 1.21 Miscellaneous fees and charges. #####
 
-Link to an amendment published at 85 FR 46989, Aug. 3, 2020.Link to a correction of the above amendment published at 85 FR 58283, Sept. 18, 2020.
-
 The Patent and Trademark Office has established the following fees for the services indicated:
 
 (a) Registration of attorneys and agents:
 
-(l) For admission to examination for registration to practice:
+(1) For admission to examination for registration to practice:
 
-(i) Application Fee (non-refundable): $100.00.
+(i) Application fee (non-refundable): $110.00
 
-(ii) Registration examination fee.
+(ii) Registration examination fee
 
-(A) For test administration by commercial entity: $200.00.
+(A) For test administration by commercial entity: $210.00
 
-(B) For test administration by the USPTO: $450.00.
+(B) For test administration by the USPTO: $470.00
 
-(iii) For USPTO-administered review of registration examination: $450.00.
+(iii) For USPTO-administered review of registration examination: $470.00
 
 (2) On registration to practice or grant of limited recognition:
 
-(i) On registration to practice under § 11.6 of this chapter: $200.00.
+(i) On registration to practice under § 11.6 of this chapter: $210.00
 
-(ii) On grant of limited recognition under § 11.9(b) of this chapter: $200.00.
+(ii) On grant of limited recognition under § 11.9(b) of this chapter: $210.00
 
-(iii) On change of registration from agent to attorney: $100.00.
+(iii) On change of registration from agent to attorney: $110.00
 
 (3) [Reserved]
 
@@ -36,13 +34,13 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (5) For review of decision:
 
-(i) By the Director of Enrollment and Discipline under § 11.2(c) of this chapter: $400.00.
+(i) By the Director of Enrollment and Discipline under § 11.2(c) of this chapter: $420.00
 
-(ii) Of the Director of Enrollment and Discipline under § 11.2(d) of this chapter: $400.00.
+(ii) Of the Director of Enrollment and Discipline under § 11.2(d) of this chapter: $420.00
 
 (6) Recovery/Retrieval of OED Information System Customer Interface account by USPTO:
 
-(i) For USPTO-assisted recovery of ID or reset of password: $70.00.
+(i) [Reserved]
 
 (ii) For USPTO-assisted change of address: $70.00.
 
@@ -50,9 +48,9 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (9)(i) Delinquency fee: $50.00.
 
-(ii) Administrative reinstatement fee: $200.00.
+(ii) Administrative reinstatement fee: $210.00
 
-(10) On application by a person for recognition or registration after disbarment or suspension on ethical grounds, or resignation pending disciplinary proceedings in any other jurisdiction; on application by a person for recognition or registration who is asserting rehabilitation from prior conduct that resulted in an adverse decision in the Office regarding the person's moral character; and on application by a person for recognition or registration after being convicted of a felony or crime involving moral turpitude or breach of fiduciary duty; on petition for reinstatement by a person excluded or suspended on ethical grounds, or excluded on consent from practice before the Office: $1,600.00.
+(10) On application by a person for recognition or registration after disbarment or suspension on ethical grounds, or resignation pending disciplinary proceedings in any other jurisdiction; on application by a person for recognition or registration who is asserting rehabilitation from prior conduct that resulted in an adverse decision in the Office regarding the person's moral character; on application by a person for recognition or registration after being convicted of a felony or crime involving moral turpitude or breach of fiduciary duty; and on petition for reinstatement by a person excluded or suspended on ethical grounds, or excluded on consent from practice before the Office: $1,680.00
 
 (b) Deposit accounts:
 
@@ -76,30 +74,40 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (i) Publication in Official Gazette: For publication in the Official Gazette of a notice of the availability of an application or a patent for licensing or sale: Each application or patent: $25.00.
 
-(j)-(l) [Reserved]
+(j) [Reserved]
+
+(k) For items and services that the director finds may be supplied, for which fees are not specified by statute or by this part, such charges as may be determined by the director with respect to each such item or service: Actual cost
+
+(l) [Reserved]
 
 (m) For processing each payment refused (including a check returned “unpaid”) or charged back by a financial institution: $50.00.
 
-(n) For handling an application in which proceedings are terminated pursuant to § 1.53(e): $130.00.
+(n) For handling an application in which proceedings are terminated pursuant to § 1.53(e): $140.00
 
-(o) The submission of very lengthy sequence listings (mega-sequence listings) are subject to the following fees:
+(o) The receipt of a very lengthy sequence listing (mega-sequence listing) in an application under 35 U.S.C. 111 or 371 is subject to the following fee:
 
-(1) Submission of sequence listings in electronic form ranging in size from 300 MB to 800 MB:
+(1) First receipt by the Office of a sequence listing in electronic form ranging in size from 300MB to 800MB (without file compression):
 
-|     By a micro entity (§ 1.29)      |$250.00 |
-|:------------------------------------|-------:|
-|    By a small entity (§ 1.27(a))    | 500.00 |
-|By other than a small or micro entity|1,000.00|
+Table 1 to Paragraph (o)(1)
 
-(2) Submission of sequence listings in electronic form exceeding 800 MB in size:
+|                                     |        |
+|-------------------------------------|--------|
+|     By a micro entity (§ 1.29)      |$265.00 |
+|    By a small entity (§ 1.27(a))    | 530.00 |
+|By other than a small or micro entity|1,060.00|
 
-|     By a micro entity (§ 1.29)      |$2,500.00|
-|:------------------------------------|--------:|
-|    By a small entity (§ 1.27(a))    |5,000.00 |
-|By other than a small or micro entity|10,000.00|
+(2) First receipt by the Office of a sequence listing in electronic form exceeding 800MB in size (without file compression):
+
+Table 2 to Paragraph (o)(2)
+
+|                                     |         |
+|-------------------------------------|---------|
+|     By a micro entity (§ 1.29)      |$2,625.00|
+|    By a small entity (§ 1.27(a))    |5,250.00 |
+|By other than a small or micro entity|10,500.00|
 
 (p) Additional Fee for Overnight Delivery: $40.00.
 
-(q) Additional Fee for Expedited Service: $160.00.
+(q) Additional fee for expedited service: $170.00.
 
-[82 FR 52815, Nov. 14, 2017]
+[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020]

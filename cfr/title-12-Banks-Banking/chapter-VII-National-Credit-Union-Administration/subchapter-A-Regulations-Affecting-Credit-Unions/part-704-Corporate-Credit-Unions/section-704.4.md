@@ -98,7 +98,7 @@
 
 (4) *Review of capital restoration plans.* Within 60 days after receiving a capital restoration plan under this section, the NCUA will provide written notice to the corporate credit union of whether it has approved the plan. The NCUA may extend this time period.
 
-(5) *Disapproval of capital plan.* If the NCUA does not approve a capital restoration plan, the corporate credit union must submit a revised capital restoration plan, when directed to do so, within the time specified by the NCUA. An undercapitalized corporate credit union is subject to the provisions applicable to significantly undercapitalized credit unions until it has submitted, and NCUA has approved, a capital restoration plan. If the NCUA directs that the corporate submit a revised plan, it must do so in time frame specified by the NCUA.
+(5) *Disapproval of capital plan.* If the NCUA does not approve a capital restoration plan, the corporate credit union must submit a revised capital restoration plan, when directed to do so, within the time specified by the NCUA. An undercapitalized corporate credit union is subject to the provisions applicable to significantly undercapitalized credit unions until it has submitted, and NCUA has approved, a capital restoration plan. If the NCUA directs that the corporate credit union submit a revised plan, it must do so in time frame specified by the NCUA.
 
 (6) *Failure to implement a capital restoration plan.* Any undercapitalized corporate credit union that fails in any material respect to implement a capital restoration plan will be subject to all of the provisions of this section applicable to significantly undercapitalized institutions.
 
@@ -287,4 +287,4 @@
 
 (F) Paying interest on new or renewed liabilities at a rate that would increase the corporate credit union's weighted average cost of funds to a level significantly exceeding the prevailing rates of interest on insured deposits in the corporate credit union's normal market areas.
 
-[75 FR 64836, Oct. 20, 2010, as amended at 78 FR 77565, Dec. 26, 2013]
+[75 FR 64836, Oct. 20, 2010, as amended at 78 FR 77565, Dec. 26, 2013; 85 FR 62211, Oct. 2, 2020]

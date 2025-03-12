@@ -1,6 +1,6 @@
 ##### § 708b.101 Mergers generally. #####
 
-(a) In any case where a merger will result in the termination of federal insurance or conversion to nonfederal insurance, the merging credit union must comply with the provisions of subparts B and C of this part in addition to this subpart A.
+(a) In any case where a merger will result in the termination of federal insurance or conversion to non-Federal insurance, the merging credit union must comply with the provisions of subparts B and C of this part in addition to this subpart A.
 
 (b) A federally insured credit union must have the prior written approval of the NCUA before merging with any other credit union.
 

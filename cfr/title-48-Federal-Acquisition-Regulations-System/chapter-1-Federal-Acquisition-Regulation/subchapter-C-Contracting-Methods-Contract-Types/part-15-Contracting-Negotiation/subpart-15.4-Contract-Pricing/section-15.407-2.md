@@ -4,9 +4,9 @@
 
 (b) *Definition. Make item,* as used in this subsection, means an item or work effort to be produced or performed by the prime contractor or its affiliates, subsidiaries, or divisions.
 
-(c) *Acquisitions requiring make-or-buy programs.* (1) Contracting officers may require prospective contractors to submit make-or-buy program plans for negotiated acquisitions requiring certified cost or pricing data whose estimated value is $13.5 million or more, except when the proposed contract is for research or development and, if prototypes or hardware are involved, no significant follow-on production is anticipated.
+(c) *Acquisitions requiring make-or-buy programs.* (1) Contracting officers may require prospective contractors to submit make-or-buy program plans for negotiated acquisitions requiring certified cost or pricing data whose estimated value is $15 million or more, except when the proposed contract is for research or development and, if prototypes or hardware are involved, no significant follow-on production is anticipated.
 
-(2) Contracting officers may require prospective contractors to submit make-or-buy programs for negotiated acquisitions whose estimated value is under $13.5 million only if the contracting officer -
+(2) Contracting officers may require prospective contractors to submit make-or-buy programs for negotiated acquisitions whose estimated value is under $15million only if the contracting officer -
 
 (i) Determines that the information is necessary; and
 
@@ -56,4 +56,4 @@
 
 (ii) The contracting officer determines that technical or cost risks justify Government review and approval of changes or additions to the make-or-buy program.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 2129, Jan. 10, 2001; 70 FR 14954, Mar. 23, 2005; 71 FR 57367, Sept. 28, 2005; 72 FR 27384, May 15, 2007; 75 FR 53133, 53147, Aug. 30, 2010; 80 FR 38297, July 2, 2015]
+[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 2129, Jan. 10, 2001; 70 FR 14954, Mar. 23, 2005; 71 FR 57367, Sept. 28, 2005; 72 FR 27384, May 15, 2007; 75 FR 53133, 53147, Aug. 30, 2010; 80 FR 38297, July 2, 2015; 85 FR 62488, Oct. 2, 2020]

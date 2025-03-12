@@ -94,7 +94,7 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (20) Nursing homes and assisted living facilities where constant medical care is provided and available onsite to the residents. Independent living facilities are not eligible in accordance with § 5001.118(a).
 
-(21) Development and construction of RES, including modification of existing systems that are commercially available and that are not otherwise eligible under REAP, or if funding is and not available in the eligible REAP.
+(21) Development and construction of RES, including modification of existing systems that are commercially available and that are not otherwise eligible under REAP, or if funding is not available in the REAP program.
 
 (22) Integrated processing equipment and systems, such as biorefineries, renewable energy systems, and chemical manufacturing facilities, must utilize commercially available technology, equipment, and systems and demonstrate technical merit. The Agency will evaluate the following areas in making the technical merit determination:
 
@@ -159,3 +159,5 @@ Table 1 to § 5001.105(d) - Capital Equity Requirements Summary
 |Borrowers that are new businesses with sales contract(s) adequate to meet debt service and the term of the sales contract(s) are at least equal to the term of the guaranteed loan.|                                           ≥10                                            |                                               ≥10                                                |N/A|
 |          Borrowers that are new businesses for a project involving construction and the lender will request the loan note guarantee prior to completion of construction.          |                                           ≥25                                            |                                               ≥25                                                |N/A|
 |                                                                    All other borrowers that are new businesses                                                                    |                                           ≥20                                            |                                               ≥25                                                |N/A|
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

@@ -12,9 +12,9 @@
 
 (b) *Investment and loan limitations.* (1) The aggregate of all investments in member and non-member corporate CUSOs that a corporate credit union may make must not exceed 15 percent of a corporate credit union's total capital.
 
-(2) The aggregate of all investments in and loans to member and nonmember corporate CUSOs a corporate credit union may make must not exceed 30 percent of a corporate credit union's total capital. A corporate credit union may lend to member and nonmember corporate CUSOs an additional 15 percent of total capital if the loan is collateralized by assets in which the corporate has a perfected security interest under state law.
+(2) The aggregate of all investments in and loans to member and nonmember corporate CUSOs a corporate credit union may make must not exceed 30 percent of a corporate credit union's total capital. A corporate credit union may lend to member and nonmember corporate credit union CUSOs an additional 15 percent of total capital if the loan is collateralized by assets in which the corporate has a perfected security interest under state law.
 
-(3) If the limitations in paragraphs (b)(1) and (b)(2) of this section are reached or exceeded because of the profitability of the CUSO and the related GAAP valuation of the investment under the equity method without an additional cash outlay by the corporate, divestiture is not required. A corporate credit union may continue to invest up to the regulatory limit without regard to the increase in the GAAP valuation resulting from the corporate CUSO's profitability.
+(3) If the limitations in paragraphs (b)(1) and (b)(2) of this section are reached or exceeded because of the profitability of the CUSO and the related GAAP valuation of the investment under the equity method without an additional cash outlay by the corporate credit union, divestiture is not required. A corporate credit union may continue to invest up to the regulatory limit without regard to the increase in the GAAP valuation resulting from the corporate CUSO's profitability.
 
 (c) *Due diligence.* A corporate credit union must comply with the due diligence requirements of §§ 723.5 and 723.6(f) through (j) of this chapter for all loans to corporate CUSOs. This requirement does not apply to loans excluded under § 723.1(b).
 
@@ -30,7 +30,7 @@
 
 (iii) Other categories of activities as approved in writing by NCUA and published on NCUA's Web site.
 
-(2) Once NCUA has approved an activity and published that activity on its Web site as provided for in paragraph (e)(1)(iii) of this section, NCUA will not remove that particular activity the approved list, or make substantial changes to the content or description of that approved activity, except through the formal rulemaking process.
+(2) Once NCUA has approved an activity and published that activity on its Web site as provided for in paragraph (e)(1)(iii) of this section, NCUA will not remove that particular activity from the approved list, or make substantial changes to the content or description of that approved activity, except through the formal rulemaking process.
 
 (f) An official of a corporate credit union which has invested in or loaned to a corporate CUSO may not receive, either directly or indirectly, any salary, commission, investment income, or other income, compensation, or consideration from the corporate CUSO. This prohibition also extends to immediate family members of officials.
 
@@ -48,10 +48,10 @@
 
 (6) Will allow the auditor, board of directors, and NCUA complete access to the CUSO's personnel, facilities, equipment, books, records, and any other documentation that the auditor, directors, or NCUA deem pertinent;
 
-(7) Will inform the corporate, at least quarterly, of all the compensation paid by the CUSO to its employees who are also employees of the corporate credit union; and
+(7) Will inform the corporate credit union, at least quarterly, of all the compensation paid by the CUSO to its employees who are also employees of the corporate credit union; and
 
 (8) Will comply with all the requirements of this section.
 
 (h) Corporate credit union authority to invest in or loan to a CUSO is limited to that provided in this section. A corporate credit union is not authorized to invest in or loan to a CUSO under part 712 of this chapter.
 
-[75 FR 64843, Oct. 20, 2010, as amended at 76 FR 23868, Apr. 29, 2011; 80 FR 25938, May 6, 2015]
+[75 FR 64843, Oct. 20, 2010, as amended at 76 FR 23868, Apr. 29, 2011; 80 FR 25938, May 6, 2015; 85 FR 62211, Oct. 2, 2020]

@@ -108,7 +108,7 @@
 
 (*2*) Afford all contractors responding to the notice a fair opportunity to submit an offer and have that offer fairly considered.
 
-(iv) *Orders exceeding $5.5 million.* For task or delivery orders in excess of $5.5 million, the requirement to provide all awardees a fair opportunity to be considered for each order shall include, at a minimum -
+(iv) *Orders exceeding $6 million.* For task or delivery orders in excess of $6 million, the requirement to provide all awardees a fair opportunity to be considered for each order shall include, at a minimum -
 
 (A) A notice of the task or delivery order that includes a clear statement of the agency's requirements;
 
@@ -180,11 +180,11 @@
 
 (*10*) A written determination by the approving official that one of the circumstances in paragraphs (b)(2)(i)(A) through (E) and (G) of this section applies to the order.
 
-(C) *Approval.* (*1*) For proposed orders exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
+(C) *Approval.* (*1*) For proposed orders exceeding the simplified acquisition threshold, but not exceeding $750,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
 
-(*2*) For a proposed order exceeding $700,000, but not exceeding $13.5 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (b)(2)(ii)(C)(*3*) or (*4*) of this section. This authority is not delegable.
+(*2*) For a proposed order exceeding $750,000, but not exceeding $15 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (b)(2)(ii)(C)(*3*) or (*4*) of this section. This authority is not delegable.
 
-(*3*) For a proposed order exceeding $13.5 million, but not exceeding $68 million (or, for DoD, NASA, and the Coast Guard, not exceeding $93 million), the justification must be approved by -
+(*3*) For a proposed order exceeding $15 million, but not exceeding $75 million (or, for DoD, NASA, and the Coast Guard, not exceeding $100 million), the justification must be approved by -
 
 (*i*) The head of the procuring activity placing the order;
 
@@ -196,7 +196,7 @@
 
 (*iii*) An official named in paragraph (b)(2)(ii)(C)(*4*) of this section.
 
-(*4*) For a proposed order exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
+(*4*) For a proposed order exceeding $75 million (or, for DoD, NASA, and the Coast Guard, over $100 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
 (D) *Posting.* (*1*) Except as provided in paragraph (b)(2)(ii)(D)(*5*) of this section, within 14 days after placing an order exceeding the simplified acquisition threshold that does not provide for fair opportunity in accordance with 16.505(b), the contract officer shall -
 
@@ -228,7 +228,7 @@
 
 (5*) Time-and-materials or labor-hour orders.* For additional requirements for time-and-materials or labor-hour orders, see 16.601(e).
 
-(6) *Postaward notices and debriefing of awardees for orders exceeding $5.5 million.*The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $5.5 million.
+(6) *Postaward notices and debriefing of awardees for orders exceeding $6 million.*The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $6 million.
 
 (i) The procedures at 15.503(b)(1) shall be followed when providing postaward notification to unsuccessful awardees.
 

@@ -1,6 +1,6 @@
 ##### 6.303-1 Requirements. #####
 
-(a) A contracting officer shall not commence negotiations for a sole source contract, commence negotiations for a contract resulting from an unsolicited proposal, or award any other contract without providing for full and open competition unless the contracting officer -
+(a) A contracting officer shall not commence negotiations for a sole source contract, commence negotiations for a contract resulting from an unsolicited proposal, or award any other contract without providing for full and open competition unless the contracting officer—
 
 (1) Justifies, if required in 6.302, the use of such actions in writing;
 
@@ -8,7 +8,7 @@
 
 (3) Obtains the approval required by 6.304.
 
-(b) The contracting officer shall not award a sole-source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $22 million unless -
+(b) The contracting officer shall not award a sole-source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $25 million unless—
 
 (1) The contracting officer justifies the use of a sole-source contract in writing in accordance with 6.303-2;
 
@@ -22,4 +22,4 @@
 
 (e) The justifications for contracts awarded under the authority cited in 6.302-2 may be prepared and approved within a reasonable time after contract award when preparation and approval prior to award would unreasonably delay the acquisitions.
 
-[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 55 FR 25526, June 21, 1990; 64 FR 72418, Dec. 27, 1999; 69 FR 77872, Dec. 28, 2004; 76 FR 14561, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019]
+[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 55 FR 25526, June 21, 1990; 64 FR 72418, Dec. 27, 1999; 69 FR 77872, Dec. 28, 2004; 76 FR 14561, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019; 85 FR 62487, Oct. 2, 2020]

@@ -1,7 +1,5 @@
 ##### § 216.5 Waiver of requirement to file joint petition to remove conditions by alien spouse. #####
 
-Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
-
 (a) *General.* (1) A conditional resident alien who is unable to meet the requirements under section 216 of the Act for a joint petition for removal of the conditional basis of his or her permanent resident status may file Form I-751, Petition to Remove the Conditions on Residence, if the alien requests a waiver, was not at fault in failing to meet the filing requirement, and the conditional resident alien is able to establish that:
 
 (i) Deportation or removal from the United States would result in extreme hardship;
@@ -12,15 +10,15 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
 
 (2) A conditional resident who is in exclusion, deportation, or removal proceedings may apply for the waiver only until such time as there is a final order of exclusion, deportation or removal.
 
-(b) *Fee.* Form I-751 shall be accompanied by the appropriate fee required under § 103.7(b) of this Chapter.
+(b) *Fee.* Form I-751 shall be accompanied by the appropriate fee required under 8 CFR 106.2.
 
 (c) [Reserved]
 
 (d) *Interview.* The service center director may refer the application to the appropriate local office and require that the alien appear for an interview in connection with the application for a waiver. The director shall deny the application and initiate removal proceedings if the alien fails to appear for the interview as required, unless the alien establishes good cause for such failure and the interview is rescheduled.
 
-(e) *Adjudication of waiver application* - (1) *Application based on claim of hardship.* In considering an application for a waiver based upon an alien's claim that extreme hardship would result from the alien's removal from the United States, the director shall take into account only those factors that arose subsequent to the alien's entry as a conditional permanent resident. The director shall bear in mind that any removal from the United States is likely to result in a certain degree of hardship, and that only in those cases where the hardship is extreme should the application for a waiver be granted. The burden of establishing that extreme hardship exists rests solely with the applicant.
+(e) *Adjudication of waiver application*—(1) *Application based on claim of hardship.* In considering an application for a waiver based upon an alien's claim that extreme hardship would result from the alien's removal from the United States, the director shall take into account only those factors that arose subsequent to the alien's entry as a conditional permanent resident. The director shall bear in mind that any removal from the United States is likely to result in a certain degree of hardship, and that only in those cases where the hardship is extreme should the application for a waiver be granted. The burden of establishing that extreme hardship exists rests solely with the applicant.
 
-(2) *Application for waiver based upon the alien's claim that the marriage was entered into in good faith.* In considering whether an alien entered into a qualifying marriage in good faith, the director shall consider evidence relating to the amount of commitment by both parties to the marital relationship. Such evidence may include -
+(2) *Application for waiver based upon the alien's claim that the marriage was entered into in good faith.* In considering whether an alien entered into a qualifying marriage in good faith, the director shall consider evidence relating to the amount of commitment by both parties to the marital relationship. Such evidence may include—
 
 (i) Documentation relating to the degree to which the financial assets and liabilities of the parties were combined;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
 
 (f) *Decision.* The director shall provide the alien with written notice of the decision on the application for waiver. If the decision is adverse, the director shall advise the alien of the reasons therefor, notify the alien of the termination of his or her permanent residence status, instruct the alien to surrender any Permanent Resident Card issued by the Service and issue a notice to appear placing the alien in removal proceedings. No appeal shall lie from the decision of the director; however, the alien may seek review of such decision in removal proceedings.
 
-[53 FR 30018, Aug. 10, 1988, as amended at 56 FR 22637, May 16, 1991; 59 FR 26591, May 23, 1994; 62 FR 10350, Mar. 6, 1997; 63 FR 70315, Dec. 21, 1998; 74 FR 26939, June 5, 2009]
+[53 FR 30018, Aug. 10, 1988, as amended at 56 FR 22637, May 16, 1991; 59 FR 26591, May 23, 1994; 62 FR 10350, Mar. 6, 1997; 63 FR 70315, Dec. 21, 1998; 74 FR 26939, June 5, 2009; 85 FR 46925, Aug. 3, 2020]

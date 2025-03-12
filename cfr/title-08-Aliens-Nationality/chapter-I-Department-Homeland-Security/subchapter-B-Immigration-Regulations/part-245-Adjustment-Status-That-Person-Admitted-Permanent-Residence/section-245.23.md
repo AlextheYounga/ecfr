@@ -1,7 +1,5 @@
 ##### § 245.23 Adjustment of aliens in T nonimmigrant classification. #####
 
-Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
-
 (a) *Eligibility of principal T-1 applicants.* Except as described in paragraph (c) of this section, an alien may be granted adjustment of status to that of an alien lawfully admitted for permanent residence, provided the alien:
 
 (1) Applies for such adjustment;
@@ -48,9 +46,9 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (i) Accompanying documents, in accordance with the form instructions;
 
-(ii) The fee prescribed in 8 CFR 103.7(b)(1) or an application for a fee waiver;
+(ii) The fee prescribed in 8 CFR 106.2 or an application for a fee waiver;
 
-(iii) The biometric services fee prescribed by 8 CFR 103.7(b)(1) or an application for a fee waiver;
+(iii) [Reserved]
 
 (iv) A photocopy of the alien's Form I-797, Notice of Action, granting T nonimmigrant status;
 
@@ -100,8 +98,8 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (k) *Inapplicability of 8 CFR 245.1 and 245.2.* Sections 245.1 and 245.2 of this chapter do not apply to aliens seeking adjustment of status under this section.
 
-(l) *Annual cap of T-1 principal applicant adjustments.* (1) *General.* The total number of T-1 principal applicants whose status is adjusted to that of lawful permanent residents under this section may not exceed the statutory cap in any fiscal year.
+(l) *Annual cap of T-1 principal applicant adjustments* - (1) *General.* The total number of T-1 principal applicants whose status is adjusted to that of lawful permanent residents under this section may not exceed the statutory cap in any fiscal year.
 
 (2) *Waiting list.* All eligible applicants who, due solely to the limit imposed in section 245(*l*)(4) of the Act and paragraph (m)(1) of this section, are not granted adjustment of status will be placed on a waiting list. USCIS will send the applicant written notice of such placement. Priority on the waiting list will be determined by the date the application was properly filed, with the oldest applications receiving the highest priority. In the following fiscal year, USCIS will proceed with granting adjustment of status to applicants on the waiting list who remain admissible and eligible for adjustment of status in order of highest priority until the available numbers are exhausted for the given fiscal year. After the status of qualifying applicants on the waiting list has been adjusted, any remaining numbers for that fiscal year will be issued to new qualifying applicants in the order that the applications were properly filed.
 
-[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013; 81 FR 92312, Dec. 19, 2016; 84 FR 41507, Aug. 14, 2019]
+[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013; 81 FR 92312, Dec. 19, 2016; 84 FR 41507, Aug. 14, 2019; 85 FR 46927, Aug. 3, 2020]

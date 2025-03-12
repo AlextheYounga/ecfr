@@ -1,10 +1,8 @@
 ##### § 235.12 Global Entry program. #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
-
 (a) *Program description.* The Global Entry program is a voluntary international trusted traveler program consisting of an integrated passenger processing system that expedites the movement of low-risk air travelers into the United States by providing an alternate inspection process for pre-approved, pre-screened travelers. In order to participate, a person must meet the eligibility requirements specified in this section, apply in advance, undergo pre-screening by CBP, and be accepted into the program. The Global Entry program allows participants expedited entry into the United States at selected airports identified by CBP at *www.globalentry.gov.* Participants will be processed through the use of CBP-approved technology that will include the use of biometrics to validate identity and to perform enforcement queries.
 
-(b) *Program eligibility criteria -* (1) *Eligible individuals.* The following individuals, who hold a valid, machine-readable passport, a valid, machine-readable U.S. Lawful Permanent Resident Card (Form I-551), or other appropriate travel document as determined by CBP, may apply to participate in Global Entry:
+(b) *Program eligibility criteria*—(1) *Eligible individuals.* The following individuals, who hold a valid, machine-readable passport, a valid, machine-readable U.S. Lawful Permanent Resident Card (Form I-551), or other appropriate travel document as determined by CBP, may apply to participate in Global Entry:
 
 (i) U.S. citizens, U.S. nationals, and U.S. lawful permanent residents absent any of the disqualifying factors described in paragraph (b)(2) of this section.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (d) *Program application.* (1) Each applicant must complete and submit the program application electronically through an approved application process as determined by CBP. The application and application instructions for the Global Entry program are available at *www.globalentry.gov.*
 
-(2) Each applicant must pay a non-refundable fee in the amount set forth at 8 CFR 103.7(b)(1)(ii)(M) for “Global Entry” at the time of application. The fee is to be paid to CBP at the time of application through the Federal Government's on-line payment system, Pay.gov or other CBP-approved process.
+(2) Each applicant must pay a non-refundable fee in the amount set forth at 8 CFR 103.7(d)(13) for “Global Entry” at the time of application. The fee is to be paid to CBP at the time of application through the Federal Government's on-line payment system, Pay.gov or other CBP-approved process.
 
 (3) Every applicant accepted into Global Entry is accepted for a period of 5 years provided participation is not suspended or terminated by CBP prior to the end of the 5-year period. Each applicant may apply to renew participation up to one year prior to the close of the participation period.
 
@@ -88,4 +86,4 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (3) *Ombudsman.* Applicants (including applicants who were not scheduled for an interview at an enrollment center) and participants may contest a denial, suspension or removal by writing to the CBP Trusted Traveler Ombudsman at the address listed on the Web site *www.globalentry.gov.*
 
-[77 FR 5690, Feb. 6, 2012]
+[77 FR 5690, Feb. 6, 2012, as amended at 85 FR 46926, Aug. 3, 2020]

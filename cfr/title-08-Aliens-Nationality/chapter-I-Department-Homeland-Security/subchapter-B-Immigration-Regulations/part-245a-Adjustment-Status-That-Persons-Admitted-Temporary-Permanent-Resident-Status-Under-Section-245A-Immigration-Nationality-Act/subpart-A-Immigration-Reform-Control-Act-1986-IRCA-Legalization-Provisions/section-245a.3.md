@@ -1,7 +1,5 @@
 ##### § 245a.3 Application for adjustment from temporary to permanent resident status. #####
 
-Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
-
 (a) *Application period for permanent residence.* (1) An alien may submit an application for lawful permanent resident status, with fee, immediately subsequent to the granting of lawful temporary resident status. Any application received prior to the alien's becoming eligible for adjustment to permanent resident status will be administratively processed and held by the INS, but will not be considered filed until the beginning of the nineteenth month after the date the alien was granted temporary resident status as defined in § 245a.2(s) of this chapter.
 
 (2) No application shall be denied for failure to timely apply before the end of 43 months from the date of actual approval of the temporary resident application.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (b) *Eligibility.* Any alien who has been lawfully admitted for temporary resident status under section 245A(a) of the Act, such status not having been terminated, may apply for adjustment of status of that of an alien lawfully admitted for permanent residence if the alien:
 
-(1) Applies for such adjustment anytime subsequent to the granting of temporary resident status but on or before the end of 43 months from the date of actual approval of the termporary resident application. The alien need not be physically present in the United States at the time of application; however, the alien must establish continuous residence in the United States in accordance with the provisions of paragraph (b)(2) of this section and must be physically present in the United States at the time of interview and/or processing for permanent resident status (ADIT processing);
+(1) Applies for such adjustment anytime subsequent to the granting of temporary resident status but on or before the end of 43 months from the date of actual approval of the temporary resident application. The alien need not be physically present in the United States at the time of application; however, the alien must establish continuous residence in the United States in accordance with the provisions of paragraph (b)(2) of this section and must be physically present in the United States at the time of interview and/or processing for permanent resident status (ADIT processing);
 
 (2) Establishes continuous residence in the United States since the date the alien was granted such temporary residence status. An alien shall be regarded as having resided continuously in the United States for the purpose of this part if, at the time of applying for adjustment from temporary to permanent resident status, or as of the date of eligibility for permanent residence, whichever is later, no single absence from the United States has exceeded thirty (30) days, and the aggregate of all absences has not exceeded ninety (90) days between the date of approval of the temporary resident application, Form I-687 (not the “roll-back” date) and the date the alien applied or became eligible for permanent resident status, whichever is later, unless the alien can establish that due to emergent reasons or circumstances beyond his or her control, the return to the United States could not be accomplished within the time period(s) allowed. A single absence from the United States of more than 30 days, and aggregate absences of more than 90 days during the period for which continuous residence is required for adjustment to permanent residence, shall break the continuity of such residence, unless the temporary resident can establish to the satisfaction of the district director or the Director of the Regional Processing Facility that he or she did not, in fact, abandon his or her residence in the United States during such period;
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (vii) Evidence of recognition under 8 CFR 245a.3(b)(5)(i)(A), (B), or (C) (e.g., certification from a qualified state certifying agency; evidence of INS approval for attendance by nonimmigrant students, such as the school code number, or the INS identification number from the QDE cooperative agreement).
 
-The course provider shall notify the district director, in writing, of any changes to the information contained in the Notice of Participation subsequent to its submission within ten (10) days of such change.A Certificate of Attorney General Recognition to Provide Course of Study for Legalization (Phase II), Form I-804, shall be issued to course providers who have submitted a Notice of Participation in accordance with the provisions of this section by the distict director. A Notice of Participation deficient in any way shall be returned to the course provider to correct the deficiency. Upon the satisfaction of the district director that the deficiency has been corrected, the course provider shall be issued Form I-804. Each district director shall compile and maintain lists of recognized courses within his or her district.
+The course provider shall notify the district director, in writing, of any changes to the information contained in the Notice of Participation subsequent to its submission within ten (10) days of such change.A Certificate of Attorney General Recognition to Provide Course of Study for Legalization (Phase II), Form I-804, shall be issued to course providers who have submitted a Notice of Participation in accordance with the provisions of this section by the district director. A Notice of Participation deficient in any way shall be returned to the course provider to correct the deficiency. Upon the satisfaction of the district director that the deficiency has been corrected, the course provider shall be issued Form I-804. Each district director shall compile and maintain lists of recognized courses within his or her district.
 
 (7) *Fee structure.* No maximum fee standard will be imposed by the Attorney General. However, if it is believed that a fee charged is excessive, this factor alone will justify non-certification of the course provider by INS as provided in § 245a.3(b)(10) and/or (12) of this section. Once fees are established, any change in fee without prior approval of the district director or the Director of Outreach may justify de-certification. In determining whether or not a fee is excessive, district directors and the Director of Outreach shall consider such factors as the means of instruction, class size, prevailing wages of instructors in the area of the program, and additional costs such as rent, materials, utilities, insurance, and taxes. District directors and the Director of Outreach may also seek the assistance of various Federal, State and local entities as the need arises (e.g., State Departments of Education) to determine the appropriateness of course fees.
 
@@ -122,7 +120,7 @@ The course provider shall notify the district director, in writing, of any chang
 
 (A) Assure that the program is a course of study recognized by the Attorney General under the provisions of § 245a.3(b)(5).
 
-(B) Verify the existence of curriculm as defined in § 245a.1(u) on file for each level of instruction provided in English language and U.S. history and government classes.
+(B) Verify the existence of curriculum as defined in § 245a.1(u) on file for each level of instruction provided in English language and U.S. history and government classes.
 
 (C) Assure that “Certificates of Satisfactory Pursuit” are being issued in accordance with § 245a.3(b)(10).
 
@@ -142,7 +140,7 @@ The course provider shall notify the district director, in writing, of any chang
 
 (iii) Cultural sensitivity and openness;
 
-(iv) Familiarity with compentency-based education;
+(iv) Familiarity with competency-based education;
 
 (v) Knowledge of curriculum and materials adaptation;
 
@@ -178,7 +176,7 @@ Signed:Date:Name:QDE in good-standing representativeName of QDE in good-standing
 
 (v) *Original documents.* Original documents must be presented when requested by the Service. Official government records, employment or employment-related records maintained by employers, unions, or collective bargaining organizations, medical records, school records maintained by a school or school board or other records maintained by a party other than the applicant which are submitted in evidence must be certified as true and complete by such parties and must bear their seal or signature or the signature and title of persons authorized to act in their behalf. At the discretion of the district director and/or the Regional Processing Facility director, original documents may be kept for forensic examination.
 
-(3) A separate application (I-698) must be filed by each eligible applicant. All fees required by § 103.7(b)(1) of this chapter must be submitted in the exact amount in the form of a money order, cashier's check or certified bank check. No personal checks or currency will be accepted. Fees will not be waived or refunded under any circumstances.
+(3) A separate application must be filed by each applicant with the fees required by 8 CFR 106.2.
 
 (4) Applicants who filed for temporary resident status prior to December 1, 1987, are required to submit the results of a serologic test for HIV virus on Form I-693, “Medical Examination of Aliens Seeking Adjustment of Status”, completed by a designated civil surgeon, unless the serologic test for HIV was performed and the results were submitted on Form I-693 when the applicant filed for temporary resident status. Applicants who did submit an I-693 reflecting a serologic test for HIV was performed prior to December 1, 1987, must submit evidence of this fact when filing the I-698 application in order to be relieved from the requirement of submitting another I-693. If such evidence is not available, applicants may note on their I-698 application their prior submission of the results of the serologic test for HIV. This information shall then be verified at the Regional Processing Facility. Applicants having to submit an I-693 pursuant to this section are not required to have a complete medical examination. All HIV-positive applicants shall be advised that a waiver of the ground of excludability under section 212(a)(6) of the Act is available and shall be provided the opportunity to apply for the waiver. To be eligible for the waiver, the applicant must establish that:
 
@@ -196,7 +194,7 @@ Signed:Date:Name:QDE in good-standing representativeName of QDE in good-standing
 
 (f) *Numerical limitations.* The numerical limitations of sections 201 and 202 of the Act do not apply to the adjustment of aliens to lawful permanent resident status under section 245A(b) of the Act.
 
-(g) *Applicability of exclusion grounds* - (1) *Grounds of exclusion not to be applied.* The following paragraphs of section 212(a) of the Act shall not apply to applicants for adjustment of status from temporary resident to permanent resident status: (14) workers entering without labor certification; (20) immigrants not in possession of valid entry documents; (21) visas issued without compliance of section 203; (25) illiterates; and (32) graduates of non-accredited medical schools.
+(g) *Applicability of exclusion grounds*—(1) *Grounds of exclusion not to be applied.* The following paragraphs of section 212(a) of the Act shall not apply to applicants for adjustment of status from temporary resident to permanent resident status: (14) workers entering without labor certification; (20) immigrants not in possession of valid entry documents; (21) visas issued without compliance of section 203; (25) illiterates; and (32) graduates of non-accredited medical schools.
 
 (2) *Waiver of grounds of excludability.* Except as provided in paragraph (g)(3) of this section, the Service may waive any provision of section 212(a) of the Act only in the case of individual aliens for humanitarian purposes, to assure family unity, or when the granting of such a waiver is otherwise in the public interest. In any case where a provision of section 212(a) of the Act has been waived in connection with an alien's application for lawful temporary resident status under section 245A(a) of the Act, no additional waiver of the same ground of excludability will be required when the alien applies for permanent resident status under section 245A(b)(1) of the Act. In the event that the alien was excludable under any provision of section 212(a) of the Act at the time of temporary residency and failed to apply for a waiver in connection with the application for temporary resident status, or becomes excludable subsequent to the date temporary residence was granted, a waiver of the ground of excludability, if available, will be required before permanent resident status may be granted.
 
@@ -244,4 +242,4 @@ Signed:Date:Name:QDE in good-standing representativeName of QDE in good-standing
 
 (o) *Rescission.* Rescission of adjustment of status under 245a shall occur under the guidelines established in section 246 of the Act.
 
-[54 FR 29449, July 12, 1989; 54 FR 43384, Oct. 24, 1989, as amended at 56 FR 31061, July 9, 1991; 57 FR 3926, Feb. 3, 1992; 59 FR 33905, July 1, 1994]
+[54 FR 29449, July 12, 1989; 54 FR 43384, Oct. 24, 1989, as amended at 56 FR 31061, July 9, 1991; 57 FR 3926, Feb. 3, 1992; 59 FR 33905, July 1, 1994; 85 FR 46927, Aug. 3, 2020]

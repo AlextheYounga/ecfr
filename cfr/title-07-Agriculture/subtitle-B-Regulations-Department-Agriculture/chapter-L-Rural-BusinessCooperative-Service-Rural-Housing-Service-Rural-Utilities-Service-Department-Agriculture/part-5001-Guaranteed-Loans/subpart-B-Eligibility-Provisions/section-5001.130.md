@@ -14,7 +14,7 @@ To become a lender under this part, the lending entity must meet the requirement
 
 (5) Maintain internal audit and management control systems to evaluate and monitor the overall quality of its loan origination and servicing activities.
 
-(b) *Regulated lending entities.* Regulated lending entities identified in paragraphs (b)(1) through (9) of this section are eligible to receive a loan guarantee under this part without documentation to the Agency provided they are subject to supervision and credit examination by the applicable agency of the United States or a State, or were created specifically by State statute and operate under the direct supervision of a State government authority.
+(b) *Regulated lending entities.* Regulated lending entities identified in paragraphs (b)(1) through (10) of this section are eligible to receive a loan guarantee under this part without documentation to the Agency provided they are subject to supervision and credit examination by the applicable agency of the United States or a state, or were created specifically by state statute and operate under the direct supervision of a state government authority.
 
 (1) Federal and State chartered banks.
 
@@ -33,6 +33,8 @@ To become a lender under this part, the lending entity must meet the requirement
 (8) Credit unions.
 
 (9) State Bond Banks or State Bond Pools.
+
+(10) Other lending entities not specified in paragraphs (b)(1) through (9) of this section that meet the requirements as specified in this paragraph (b).
 
 (c) *Non-regulated lending entities.* The Agency may approve a lending entity that does not meet the criteria of paragraph (b) of this section to become a lender for a period up to five years. Non-regulated lending entity eligibility will expire on January 31 of the fifth year after the date of Agency approval.
 
@@ -139,3 +141,5 @@ To become a lender under this part, the lending entity must meet the requirement
 (iv) The Agency may require lenders with limited guaranteed loan activity over the previous five years, or a lender that has originated guaranteed loans with servicing issues or a loss to the Agency, to resubmit all information required by paragraph (c)(2) of this section.
 
 (e) Previously approved lenders. Lenders that have been previously approved by the Agency under one of the guaranteed loan programs identified in § 5001.1(b)(1) through (4) of this part cannot originate new guaranteed loans after the effective date of this rule unless the lender is approved under the applicable conditions of paragraphs (a) through (d), as applicable, of this section.
+
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]

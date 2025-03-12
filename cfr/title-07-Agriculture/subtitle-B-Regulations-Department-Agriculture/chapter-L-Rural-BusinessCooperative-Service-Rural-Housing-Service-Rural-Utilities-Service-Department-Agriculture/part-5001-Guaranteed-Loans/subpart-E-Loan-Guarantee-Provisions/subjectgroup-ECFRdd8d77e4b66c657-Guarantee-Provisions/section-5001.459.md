@@ -1,6 +1,6 @@
 ##### § 5001.459 Replacement of loan note guarantee and assignment guarantee agreement. #####
 
-If a loan note guarantee or assignment guarantee agreement has been lost, stolen, destroyed, mutilated, or defaced while in the custody of the lender or holder, the Agency may issue a replacement to the lender or holder, as applicable under the conditions described in paragraphs (a) through (c) of this section. The lender is prohibited from altering or modifying or approving any alterations to or modifications of any loan documents without the prior written approval of the Agency.
+If a loan note guarantee or assignment guarantee agreement has been lost, stolen, destroyed, mutilated, or defaced while in the custody of the lender or holder, the Agency may issue a replacement to the lender or holder, as applicable under the conditions described in paragraphs (a) through (b) of this section. The lender is prohibited from altering or modifying or approving any alterations to or modifications of any loan documents without the prior written approval of the Agency.
 
 (a) *Replacement requirements.* The lender must coordinate the activities of the party who seeks the replacement documents and must submit the required documents to the Agency for processing. The requirements for replacement are as follows:
 
@@ -28,4 +28,4 @@ If a loan note guarantee or assignment guarantee agreement has been lost, stolen
 
 (4) Hold the Agency harmless against any claim or demand that might arise or against any damage, loss, costs, or expenses that might be sustained or incurred by reason of the loss or replacement of the instruments.
 
-(c) *Multi-note system.* Where the guaranteed loan was closed under the provisions of the multi-note system, the Agency will not attempt to obtain, or participate in the obtaining of, replacement promissory notes from the borrower. The holder is responsible for bearing the costs of promissory note replacement if the borrower agrees to issue a replacement instrument. When the promissory note is replaced, its terms cannot be changed. If the promissory note has been lost, stolen, destroyed, mutilated or defaced, such promissory note must be replaced before the Agency will replace any instruments.
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020]

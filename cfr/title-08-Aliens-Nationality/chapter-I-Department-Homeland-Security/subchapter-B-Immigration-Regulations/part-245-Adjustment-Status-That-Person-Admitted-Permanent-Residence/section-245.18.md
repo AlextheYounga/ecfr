@@ -1,7 +1,5 @@
 ##### § 245.18 Physicians with approved employment-based petitions serving in a medically underserved area or a Veterans Affairs facility. #####
 
-Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
-
 (a) *Which physicians are eligible for this benefit?* Any alien physician who has been granted a national interest waiver under § 204.12 of this chapter may submit Form I-485 during the 6-year period following Service approval of a second preference employment-based immigrant visa petition.
 
 (b) *Do alien physicians have special time-related requirements for adjustment?* (1) Alien physicians who have been granted a national interest waiver under § 204.12 of this chapter must meet all the adjustment of status requirements of this part.
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (2) Delayed medical examination. The required medical examination, as specified in § 245.5, shall not be submitted with Form I-485. The medical examination report shall be submitted with the documentary evidence noting the physician's completion of the required years of service.
 
-(d) *Employment authorization.* (1) Once USCIS has approved a petition described in paragraph (a) of this section, the alien physician may apply for permanent residence and employment authorization on the forms designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
+(d) *Employment authorization.* (1) Once USCIS has approved a petition described in paragraph (a) of this section, the alien physician may apply for permanent residence and employment authorization on the forms designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions.
 
 (2) Since section 203(b)(2)(B)(ii) of the Act requires the alien physician to complete the required employment before USCIS can approve the alien physician's adjustment application, an alien physician who was in lawful nonimmigrant status when he or she filed the adjustment application is not required to maintain a nonimmigrant status while the adjustment application remains pending. Even if the alien physician's nonimmigrant status expires, the alien physician shall not be considered to be unlawfully present, so long as the alien physician is practicing medicine in accordance with § 204.5(k)(4)(iii) of this chapter.
 
@@ -56,8 +54,8 @@ Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
 
 (2) The local Service office shall schedule the alien for an adjustment interview with a Service officer, unless the Service waives the interview as provided in § 245.6. The local Service office shall also notify the alien if supplemental documentation should either be mailed to the office, or brought to the adjustment interview.
 
-(k) *Are alien physicians allowed to travel outside the United States during the mandatory 3 or 5-year service period?* An alien physician who has been granted a national interest waiver under § 204.12 of this chapter and has a pending application for adjustment of status may travel outside of the United States during the required 3 or 5-year service period by obtaining advanced parole prior to traveling. Such physicians may apply for advance parole on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
+(k) *Are alien physicians allowed to travel outside the United States during the mandatory 3 or 5-year service period?* An alien physician who has been granted a national interest waiver under § 204.12 of this chapter and has a pending application for adjustment of status may travel outside of the United States during the required 3 or 5-year service period by obtaining advanced parole prior to traveling. Such physicians may apply for advance parole on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions.
 
 (l) *What if the Service denies the adjustment application?* If the Service denies the adjustment application, the alien physician may renew the application in removal proceedings.
 
-[65 FR 53895, Sept. 6, 2000; 65 FR 57861, Sept. 26, 2000; 65 FR 57944, Sept. 27, 2000; 67 FR 49563, July 31, 2002; 72 FR 19107, Apr. 17, 2007; 76 FR 53793, Aug. 29, 2011; 81 FR 82490, Nov. 18, 2016]
+[65 FR 53895, Sept. 6, 2000; 65 FR 57861, Sept. 26, 2000; 65 FR 57944, Sept. 27, 2000; 67 FR 49563, July 31, 2002; 72 FR 19107, Apr. 17, 2007; 76 FR 53793, Aug. 29, 2011; 81 FR 82490, Nov. 18, 2016; 85 FR 46927, Aug. 3, 2020]

@@ -1,10 +1,8 @@
 ##### § 235.13 U.S. Asia-Pacific Economic Cooperation Business Travel Card Program. #####
 
-Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
-
 (a) *Description.* The U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card Program is a voluntary program designed to facilitate travel for bona fide U.S. business persons engaged in business in the APEC region and U.S. government officials actively engaged in APEC business within the APEC region. Participants will receive a U.S. APEC Business Travel Card that will enable them access to fast-track immigration lanes at participating airports in foreign APEC member economies. In order to obtain a U.S. APEC Business Travel Card, an individual must meet the eligibility requirements specified in this section, apply in advance, pay any requisite fee and be approved as a card holder. The APEC member economies are identified at *http://www.apec.org.*
 
-(b) *Program eligibility criteria* - (1) *Eligible individuals.* An individual is eligible for the U.S. APEC Business Travel Card if he or she is:
+(b) *Program eligibility criteria*—(1) *Eligible individuals.* An individual is eligible for the U.S. APEC Business Travel Card if he or she is:
 
 (i) A U.S. citizen;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (4) If the applicant is not a member of a CBP trusted traveler program, the applicant must concurrently apply for membership in a CBP trusted traveler program and be approved for such membership. Applicants for a CBP trusted traveler program must have an in-person interview, undergo a vetting process and pay the relevant CBP trusted traveler fee. Active membership in a CBP trusted traveler program is necessary for the entire duration of the U.S. APEC Business Travel Card. If membership in the CBP trusted traveler program is set to lapse before the U.S. APEC Business Travel Card expires, the individual must renew his or her CBP trusted traveler membership prior to its expiration date in order to retain membership in the U.S. APEC Business Travel Card Program.
 
-(5) Each applicant must pay a non-refundable fee in the amount set forth at 8 CFR 103.7(b)(1)(ii)(N) for “U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card” at the time of application. The fee is to be paid to CBP at the time of application through the Federal Government's on-line payment system, Pay.gov or other CBP-approved process.
+(5) Each applicant must pay a non-refundable fee in the amount set forth at 8 CFR 103.7(d)(14) for “U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card” at the time of application. The fee is to be paid to CBP at the time of application through the Federal Government's on-line payment system, Pay.gov or other CBP-approved process.
 
 (6) The U.S. APEC Business Travel Card is valid for a period of five years or until the expiration date of the card holder's passport if that is earlier, provided that membership is not terminated by CBP prior to the end of this period. CBP can terminate use of the U.S. APEC Business Travel Card if the card holder is no longer a member of a CBP trusted traveler program or if the individual is not compliant with the program requirements. Each applicant may apply to renew the card prior to its expiration.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
 
 (2) *Ombudsman.* Applicants and participants may contest a denial or removal by writing to the CBP Trusted Traveler Ombudsman at the address listed on the Web site *www.globalentry.gov.*
 
-[79 FR 27174, May 13, 2014, as amended at 81 FR 84415, Nov. 23, 2016; 84 FR 27707, June 14, 2019]
+[79 FR 27174, May 13, 2014, as amended at 81 FR 84415, Nov. 23, 2016; 84 FR 27707, June 14, 2019; 85 FR 46926, Aug. 3, 2020]

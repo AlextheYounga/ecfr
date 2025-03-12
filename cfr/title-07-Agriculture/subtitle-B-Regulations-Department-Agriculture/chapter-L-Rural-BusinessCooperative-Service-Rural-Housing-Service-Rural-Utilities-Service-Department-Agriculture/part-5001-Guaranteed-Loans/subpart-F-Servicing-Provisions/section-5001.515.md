@@ -34,4 +34,4 @@ When there is a default by a borrower, the lender must act prudently and expedit
 
 (ii) Balloon payments are permitted as a loan servicing option as long as there is a reasonable prospect for successful repayment of the guaranteed loan and the remaining life of the collateral supports the action.
 
-(c) *Multi-note system.* If the loan was closed with the multi-note system, the lender may need to possess all promissory notes to take some servicing actions. In situations where the Agency is a holder of some of the promissory notes, the Agency may endorse the promissory notes back to the lender, provided the lender provides the Agency with a receipt identifying the reason for the transfer. The Agency will not endorse the original loan note guarantee to the lender under any circumstances.
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62199, Oct. 2, 2020]

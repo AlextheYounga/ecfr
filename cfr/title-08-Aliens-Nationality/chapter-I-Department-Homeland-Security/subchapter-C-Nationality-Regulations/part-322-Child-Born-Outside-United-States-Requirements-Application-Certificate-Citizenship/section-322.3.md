@@ -1,10 +1,8 @@
 ##### § 322.3 Application and supporting documents. #####
 
-Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+(a) *Application.* A U.S. citizen parent of an alien child (including an adopted child) may file an application for the child to become a citizen and obtain a certificate of citizenship under section 322 of the Act by submitting an application on the form prescribed by USCIS in accordance with the form instructions and with the fee prescribed by 8 CFR 106.2. If the U.S. citizen parent has died, the child's U.S. citizen grandparent or U.S. citizen legal guardian may submit the application, provided the application is filed not more than 5 years after the death of the U.S. citizen parent.
 
-(a) *Application.* A U.S. citizen parent of an alien child (including an adopted child) may file an application for the child to become a citizen and obtain a certificate of citizenship under section 322 of the Act by submitting an application on the form prescribed by USCIS in accordance with the form instructions and with the fee prescribed by 8 CFR 103.7(b)(1). If the U.S. citizen parent has died, the child's U.S. citizen grandparent or U.S. citizen legal guardian may submit the application, provided the application is filed not more than 5 years after the death of the U.S. citizen parent.
-
-(b) *Evidence.* (1) An applicant under this section shall establish eligibility under § 322.2. In addition to the forms and the appropriate fee as required in § 103.7(b)(1) of this chapter, an applicant must submit the following required documents unless such documents are already contained in the Service administrative file(s):
+(b) *Evidence.* (1) An applicant under this section shall establish eligibility under § 322.2. In addition to the forms and the appropriate fee as required in 8 CFR 106.2, an applicant must submit the following required documents unless such documents are already contained in the Service administrative file(s):
 
 (i) The child's birth certificate or record;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
 
 (2) If USCIS requires any additional documentation to make a decision on the application, the parents may be asked to provide that documentation under separate cover or at the time of interview. Parents do not need to submit documents that were submitted in connection with: An application for immigrant visa and retained by the American Consulate for inclusion in the immigrant visa package, or another immigrant petition or application and included in a Service administrative file. Parents should indicate that they wish to rely on such documents and identify the administrative file(s) by name and alien number. The Service will only request the required documentation again if necessary.
 
-[66 FR 32144, June 13, 2001, as amended at 72 FR 56867, Oct. 4, 2007; 74 FR 26940, June 5, 2009; 76 FR 53799, Aug. 29, 2011]
+[66 FR 32144, June 13, 2001, as amended at 72 FR 56867, Oct. 4, 2007; 74 FR 26940, June 5, 2009; 76 FR 53799, Aug. 29, 2011; 85 FR 46928, Aug. 3, 2020]

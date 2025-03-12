@@ -1,7 +1,5 @@
 ##### § 204.6 Petitions for employment creation immigrants. #####
 
-Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
-
 (a) *General.* An EB-5 immigrant petition to classify an alien under section 203(b)(5) of the Act must be properly filed in accordance with the form instructions, with the appropriate fee(s), initial evidence, and any other supporting documentation.
 
 (b) [Reserved]
@@ -46,13 +44,13 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 *Troubled business* means a business that has been in existence for at least two years, has incurred a net loss for accounting purposes (determined on the basis of generally accepted accounting principles) during the twelve- or twenty-four month period prior to the priority date on the alien investor's EB-5 immigrant petition, and the loss for such period is at least equal to twenty percent of the troubled business's net worth prior to such loss. For purposes of determining whether or not the troubled business has been in existence for two years, successors in interest to the troubled business will be deemed to have been in existence for the same period of time as the business they succeeded.
 
-(f) *Required amounts of capital* - (1) *General.* Unless otherwise specified, for EB-5 immigrant petitions filed on or after November 21, 2019, the amount of capital necessary to make a qualifying investment in the United States is one million eight hundred thousand United States dollars ($1,800,000). Beginning on October 1, 2024, and every five years thereafter, this amount will automatically adjust for petitions filed on or after each adjustment's effective date, based on the cumulative annual percentage change in the unadjusted All Items Consumer Price Index for All Urban Consumers (CPI-U) for the U.S. City Average reported by the Bureau of Labor Statistics, as compared to $1,000,000 in 1990. The qualifying investment amount will be rounded down to the nearest hundred thousand. DHS may update this figure by publication of a technical amendment in the Federal Register.
+(f) *Required amounts of capital*—(1) *General.* Unless otherwise specified, for EB-5 immigrant petitions filed on or after November 21, 2019, the amount of capital necessary to make a qualifying investment in the United States is one million eight hundred thousand United States dollars ($1,800,000). Beginning on October 1, 2024, and every five years thereafter, this amount will automatically adjust for petitions filed on or after each adjustment's effective date, based on the cumulative annual percentage change in the unadjusted All Items Consumer Price Index for All Urban Consumers (CPI-U) for the U.S. City Average reported by the Bureau of Labor Statistics, as compared to $1,000,000 in 1990. The qualifying investment amount will be rounded down to the nearest hundred thousand. DHS may update this figure by publication of a technical amendment in the Federal Register.
 
 (2) *Targeted employment area.* Unless otherwise specified, for EB-5 immigrant petitions filed on or after November 21, 2019, the amount of capital necessary to make a qualifying investment in a targeted employment area in the United States is nine hundred thousand United States dollars ($900,000). Beginning on October 1, 2024, and every five years thereafter, this amount will automatically adjust for petitions filed on or after each adjustment's effective date, to be equal to 50 percent of the standard minimum investment amount described in paragraph (f)(1) of this section. DHS may update this figure by publication of a technical amendment in the Federal Register.
 
 (3) *High employment area.* Unless otherwise specified, for EB-5 immigrant petitions filed on or after November 21, 2019, the amount of capital necessary to make a qualifying investment in a high employment area in the United States is one million eight hundred thousand United States dollars ($1,800,000). Beginning on October 1, 2024, and every five years thereafter, this amount will automatically adjust for petitions filed on or after each adjustment's effective date, based on the cumulative annual percentage change in the unadjusted All Items Consumer Price Index for All Urban Consumers (CPI-U) for the U.S. City Average reported by the Bureau of Labor Statistics as compared to $1,000,000 in 1990. The qualifying investment amount will be rounded down to the nearest hundred thousand. DHS may update this figure by publication of a technical amendment in the Federal Register.
 
-(g) *Multiple investors* - (1) *General.* The establishment of a new commercial enterprise may be used as the basis of a petition for classification as an alien investor by more than one investor, provided each petitioning investor has invested or is actively in the process of investing the required amount for the area in which the new commercial enterprise is principally doing business, and provided each individual investment results in the creation of at least ten full-time positions for qualifying employees. The establishment of a new commercial enterprise may be used as the basis of a petition for classification as an alien investor even though there are several owners of the enterprise, including persons who are not seeking classification under section 203(b)(5) of the Act and non-natural persons, both foreign and domestic, provided that the source(s) of all capital invested is identified and all invested capital has been derived by lawful means.
+(g) *Multiple investors*—(1) *General.* The establishment of a new commercial enterprise may be used as the basis of a petition for classification as an alien investor by more than one investor, provided each petitioning investor has invested or is actively in the process of investing the required amount for the area in which the new commercial enterprise is principally doing business, and provided each individual investment results in the creation of at least ten full-time positions for qualifying employees. The establishment of a new commercial enterprise may be used as the basis of a petition for classification as an alien investor even though there are several owners of the enterprise, including persons who are not seeking classification under section 203(b)(5) of the Act and non-natural persons, both foreign and domestic, provided that the source(s) of all capital invested is identified and all invested capital has been derived by lawful means.
 
 (2) *Employment creation allocation.* The total number of full-time positions created for qualifying employees shall be allocated solely to those alien investors who have used the establishment of the new commercial enterprise as the basis for a petition. No allocation must be made among persons not seeking classification under section 203(b)(5) of the Act or among non-natural persons, either foreign or domestic. USCIS will recognize any reasonable agreement made among the alien investors in regard to the identification and allocation of such qualifying positions.
 
@@ -98,7 +96,7 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (iv) Certified copies of any judgments or evidence of all pending governmental civil or criminal actions, governmental administrative proceedings, and any private civil actions (pending or otherwise) involving monetary judgments against the petitioner from any court in or outside the United States within the past fifteen years.
 
-(4) *Job creation* - (i) *General.* To show that a new commercial enterprise will create not fewer than ten (10) full-time positions for qualifying employees, the petition must be accompanied by:
+(4) *Job creation*—(i) *General.* To show that a new commercial enterprise will create not fewer than ten (10) full-time positions for qualifying employees, the petition must be accompanied by:
 
 (A) Documentation consisting of photocopies of relevant tax records, Form I-9, or other similar documents for ten (10) qualifying employees, if such employees have already been hired following the establishment of the new commercial enterprise; or
 
@@ -130,7 +128,7 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (l) [Reserved]
 
-(m) *Immigrant Investor Pilot Program* - (1) *Scope.* The Immigrant Investor Pilot Program is established solely pursuant to the provisions of section 610 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriation Act, and subject to all conditions and restrictions stipulated in that section. Except as provided herein, aliens seeking to obtain immigration benefits under this paragraph continue to be subject to all conditions and restrictions set forth in section 203(b)(5) of the Act and this section.
+(m) *Immigrant Investor Pilot Program*—(1) *Scope.* The Immigrant Investor Pilot Program is established solely pursuant to the provisions of section 610 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriation Act, and subject to all conditions and restrictions stipulated in that section. Except as provided herein, aliens seeking to obtain immigration benefits under this paragraph continue to be subject to all conditions and restrictions set forth in section 203(b)(5) of the Act and this section.
 
 (2) *Number of immigrant visas allocated.* The annual allocation of the visas available under the Immigrant Investor Pilot Program is set at 300 for each of the five fiscal years commencing on October 1, 1993.
 
@@ -156,7 +154,7 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (B) Provide USCIS with updated information annually, and/or as otherwise requested by USCIS, to demonstrate that the regional center is continuing to promote economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment in the approved geographic area, using a form designated for this purpose; and
 
-(C) Pay the fee provided by 8 CFR 103.7(b)(1)(i)(XX).
+(C) Pay the fee provided by 8 CFR 106.2.
 
 (ii) USCIS will issue a notice of intent to terminate the designation of a regional center in the program if:
 
@@ -190,4 +188,4 @@ Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
 
 (3) Is eligible for classification under 203(b)(5) of the Act, including having no right to withdraw or rescind the investment or commitment to invest into such offering, at the time of adjudication of the petition.
 
-[56 FR 60910, Nov. 29, 1991, as amended at 57 FR 1860, Jan. 16, 1992; 58 FR 44608, 44609, Aug. 24, 1993; 74 FR 26937, June 5, 2009; 75 FR 58990, Sept. 24, 2010; 76 FR 53782, Aug. 29, 2011; 81 FR 73332, Oct. 24, 2016; 84 FR 35808, July 24, 2019]
+[56 FR 60910, Nov. 29, 1991, as amended at 57 FR 1860, Jan. 16, 1992; 58 FR 44608, 44609, Aug. 24, 1993; 74 FR 26937, June 5, 2009; 75 FR 58990, Sept. 24, 2010; 76 FR 53782, Aug. 29, 2011; 81 FR 73332, Oct. 24, 2016; 84 FR 35808, July 24, 2019; 85 FR 46922, Aug. 3, 2020]
