@@ -4,7 +4,7 @@ Vitamin D3 may be used safely in foods as a nutrient supplement defined under §
 
 (a) Vitamin D3, also known as cholecalciferol, is the chemical 9,10-seco(5Z,7E)-5,7,10(19)-cholestatrien-3-ol. Vitamin D3 occurs in and is isolated from fish liver oils. It also is manufactured by ultraviolet irradiation of 7-dehydrocholesterol produced from cholesterol and is purified by crystallization.
 
-(b) Vitamin D3 meets the specifications of “Vitamin D3,”, Food Chemicals Codex, 11th ed., copyright 2018, pp. 1243-1244, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (internet address *http://www.usp.org*). Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(b) Vitamin D3 meets the specifications of “Vitamin D3,” *Food Chemicals Codex,* 13th edition, effective June 1, 2022, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the U.S. Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852; website: *https://www.usp.org.* Copies may be examined at the FDA or the National Archives and Records Administration (NARA). Contact FDA at: the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. For information on inspecting this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.*
 
 (c) The additive may be used as follows:
 
@@ -24,4 +24,8 @@ Vitamin D3 may be used safely in foods as a nutrient supplement defined under §
 
 (8) At levels not to exceed 84 IU per 100 g (800 IU/quart) in milk that contains more than 42 IU vitamin D per 100 g (400 IU/quart) and that meets the requirements for foods named by use of a nutrient content claim and a standardized term in accordance with § 130.10 of this chapter.
 
-[68 FR 9003, Feb. 27, 2003, as amended at 70 FR 36025, June 22, 2005; 70 FR 37257, June 29, 2005; 70 FR 69438, Nov. 16, 2005; 78 FR 71463, Nov. 29, 2013; 79 FR 46996, Aug. 12, 2014; 81 FR 46582, July 18, 2016; 83 FR 47559, Sept. 20, 2018]
+(9) At levels not to exceed 560 IU per 100 g in breakfast cereals (as defined under § 170.3(n)(4) of this chapter).
+
+(10) At levels not to exceed 400 IU per 100 g in grain-based bars (e.g., breakfast bars, granola bars, rice cereal bars).
+
+[68 FR 9003, Feb. 27, 2003, as amended at 70 FR 36025, June 22, 2005; 70 FR 37257, June 29, 2005; 70 FR 69438, Nov. 16, 2005; 78 FR 71463, Nov. 29, 2013; 79 FR 46996, Aug. 12, 2014; 81 FR 46582, July 18, 2016; 83 FR 47559, Sept. 20, 2018; 88 FR 749, Jan. 5, 2023]
