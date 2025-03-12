@@ -1,7 +1,5 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 88 FR 36055, June 1, 2023.
-
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.
@@ -61,7 +59,7 @@ Exhibit Table
 |                                                   (23) Consents of experts and counsel                                                   |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |               |<sup>5</sup> X|<sup>5</sup> X|<sup>5</sup> X|<sup>5</sup> X|   |
 |                                                          (24) Power of attorney                                                          |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |       X       |      X       |              |      X       |      X       |   |
 |                                                 (25) Statement of eligibility of trustee                                                 |         X          |        X         | X  |       X       | X |    |   | X |       X       | X |               |              |              |              |              |   |
-|                                                             (26) [Reserved]                                                              |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
+|                               (26) Purchases of equity securities by the issuer and affiliated purchasers                                |                    |                  |    |               |   |    |   |   |               |   |               |              |              |      X       |      X       |   |
 |                                                       (27) through (30) [Reserved]                                                       |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                             (31) (i) Rule 13a-14(a)/15d-14(a) Certifications                                             |                    |                  |    |               |   |    |   |   |               |   |               |              |              |      X       |      X       |   |
 |                                                  (ii) Rule 13a-14/15d-14 Certifications                                                  |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |      X       |   |
@@ -265,7 +263,47 @@ b. Has not filed a registration statement or Form 8-K as required by Items 2.01 
 
 (ii) *Electronic filings.* The requirement to bind separately the statement of eligibility and qualification of each person designated to act as a trustee under the Trust Indenture Act of 1939 from other exhibits shall not apply to statements submitted in electronic format. Rather, such statements must be submitted as exhibits in the same electronic submission as the registration statement to which they relate, or in an amendment thereto, except that electronic filers that rely on Trust Indenture Act Section 305(b)(2) for determining the eligibility of the trustee under indentures for securities to be issued, offered or sold on a delayed basis by or on behalf of the registrant shall file such statements separately in the manner prescribed by § 260.5b-1 through § 260.5b-3 of this chapter and by the EDGAR Filer Manual.
 
-(26)-(30) [Reserved]
+(26) *Purchases of equity securities by the issuer and affiliated purchasers.* (i) Every issuer that has a class of equity securities registered pursuant to section 12 of the Exchange Act (15 U.S.C. 78*l*) that files quarterly reports on Form 10-Q or an annual report on Form 10-K must file, in the following tabular format, an exhibit to those reports disclosing, for the period covered by the report (or the issuer's fourth fiscal quarter, in the case of an annual report on Form 10-K), the total purchases made each day by or on behalf of the issuer or any “affiliated purchaser,” as defined in § 240.10b-18(a)(3) of this chapter, of shares or other units of any class of the issuer's equity securities that are registered by the issuer pursuant to section 12 of the Exchange Act.
+
+(ii) The information provided pursuant to this paragraph (b)(26) must be provided in an Interactive Data File as required by § 232.405 of this chapter (Rule 405 of Regulation S-T) in accordance with the EDGAR Filer Manual.
+
+(iii) This paragraph (b)(26) shall not apply to an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
+
+(iv) Disclose in the table:
+
+(A) The date, which is the date on which the purchase of shares (or units) is executed (column (a));
+
+(B) The class of shares (or units), which should clearly identify the class, even if the issuer has only one class of securities outstanding (column (b));
+
+(C) The total number of shares (or units) purchased on this date, which includes all shares (or units) purchased by or on behalf of the issuer or any affiliated purchaser, regardless of whether made pursuant to publicly announced repurchase plans or programs (column (c));
+
+(D) The average price paid per share (or unit), which shall be reported in U.S. dollars and exclude brokerage commissions and other costs of execution (column (d));
+
+(E) The total number of shares (or units) purchased on this date as part of publicly announced repurchase plans or programs (column (e));
+
+(F) The aggregate maximum number (or approximate dollar value) of shares (or units) that may yet be purchased under the publicly announced repurchase plans or programs (column (f));
+
+(G) Total number of shares (or units) purchased on this date on the open market, which includes all shares (or units) repurchased by the issuer in open-market transactions, and does not include shares (or units) purchased in tender offers, in satisfaction of the issuer's obligations upon exercise of outstanding put options issued by the issuer, or other transactions (column (g));
+
+(H) Total number of shares (or units) purchased on this date that are intended by the issuer to qualify for the safe harbor in § 240.10b-18 of this chapter (Rule 10b-18) (column (h)); and
+
+(I) Total number of shares (or units) purchased on this date pursuant to a plan that is intended by the issuer to satisfy the affirmative defense conditions of § 240.10b5-1(c) of this chapter (Rule 10b5-1(c)) (column (i)).
+
+(v) Disclose, by footnote to the table, the date any plan that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) for the shares (or units) in column (i) was adopted or terminated.
+
+(vi) In determining whether to check the box under “Issuer Purchases of Equity Securities,” the issuer may rely on the following, unless the issuer knows or has reason to believe that a form was filed inappropriately or that a form should have been filed but was not:
+
+(A) A review of Forms 3 and 4 (§§ 249.103 and 249.104 of this chapter) and amendments thereto filed electronically with the Commission during the issuer's most recent fiscal year;
+
+(B) A review of Form 5 (§ 249.105 of this chapter) and amendments thereto filed electronically with the Commission with respect to the issuer's most recent fiscal year;
+
+(C) Any written representation from the reporting person that no Form 5 is required. The issuer must maintain the representation in its records for two years, making a copy available to the Commission or its staff upon request; and
+
+(D) For foreign private issuers, any written representations from the directors and senior management who would be identified pursuant to Item 1 of Form 20-F, provided that the reliance is reasonable. The issuer must maintain the representation in its records for two years, making a copy available to the Commission or its staff upon request.
+
+Figure 1 to Paragraph (b)(26)—Issuer Purchases of Equity Securities (Tabular Format)![](/graphics/er01jn23.000.gif)
+
+(27)-(30) [Reserved]
 
 (31)(i) *Rule 13a-14(a)/15d-14(a) Certifications.* The certifications required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) or Rule 15d-14(a) (17 CFR 240.15d-14(a)) exactly as set forth below:
 

@@ -1,5 +1,7 @@
 ##### § 10.13 List of Migratory Birds. #####
 
+Link to an amendment published at 88 FR 49317, July 31, 2023.
+
 (a) *Legal authority for this list.* The legal authorities for this list are the Migratory Bird Treaty Act (MBTA; 16 U.S.C. 703-712), the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l), and the Fish and Wildlife Act of 1956 (16 U.S.C. 742a-742j). The MBTA implements Conventions between the United States and four neighboring countries for the protection of migratory birds, as follows:
 
 (1) *Canada:* Convention between the United States and Great Britain [on behalf of Canada] for the Protection of Migratory Birds, August 16, 1916, 39 Stat. 1702 (T.S. No. 628), as amended;

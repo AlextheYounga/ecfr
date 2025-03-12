@@ -1,7 +1,5 @@
 ##### § 229.408 (Item 408) Insider trading arrangements and policies. #####
 
-Link to an amendment published at 88 FR 36054, June 1, 2023.
-
 (a)(1) Disclose whether, during the registrant's last fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report), any director or officer (as defined in § 240.16a-1(f) of this chapter) adopted or terminated:
 
 (i) Any contract, instruction or written plan for the purchase or sale of securities of the registrant intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) (§ 240.10b5-1(c) of this chapter) (a “Rule 10b5-1 trading arrangement”); and/or
@@ -38,4 +36,16 @@ Link to an amendment published at 88 FR 36054, June 1, 2023.
 
 (iii) Did not permit the covered person to exercise any subsequent influence over how, when, or whether to effect purchases or sales; provided, in addition, that any other person who, pursuant to the trading arrangement, did exercise such influence must not have been aware of material nonpublic information when doing so.
 
-[87 FR 80428, Dec. 29, 2022]
+(d)(1) Disclose whether, during the registrant's last fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report), the registrant adopted or terminated any Rule 10b5-1 trading arrangement as that term is defined in paragraph (a)(1)(i) of this section. In addition, provide a description of the material terms of the Rule 10b5-1 trading arrangement (other than terms with respect to the price at which the party executing the Rule 10b5-1 trading arrangement is authorized to trade), such as:
+
+(i) The date on which the registrant adopted or terminated the Rule 10b5-1 trading arrangement;
+
+(ii) The duration of the Rule 10b5-1 trading arrangement; and
+
+(iii) The aggregate number of securities to be purchased or sold pursuant to the Rule 10b5-1 trading arrangement.
+
+Note 1 to paragraph (d)(1):
+
+If the disclosure provided pursuant to § 229.703 contains disclosure that would satisfy the requirements of paragraph (d)(1) of this section, a cross-reference to that disclosure will also satisfy the requirements of paragraph (d)(1). (2) The disclosure provided pursuant to paragraph (d)(1) of this section must be provided in an Interactive Data File as required by § 232.405 of this chapter (Rule 405 of Regulation S-T) in accordance with the EDGAR Filer Manual.
+
+[87 FR 80428, Dec. 29, 2022, as amended at 88 FR 36054, June 1, 2023]

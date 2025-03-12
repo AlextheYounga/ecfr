@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 34703, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.Link to an amendment published at 88 FR 48051, July 26, 2023.
+Link to an amendment published at 88 FR 39959, June 20, 2023.Link to an amendment published at 88 FR 48051, July 26, 2023.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -388,6 +388,16 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Electric instantaneous water heater* means a water heater that uses electricity as the energy source, has a nameplate input rating of 12 kW or less, and contains no more than one gallon of water per 4,000 Btu per hour of input.
 
+*Electric pool heater* means a pool heater other than an electric spa heater that uses electricity as its primary energy source.
+
+*Electric spa heater* means a pool heater that—
+
+(1) Uses electricity as its primary energy source;
+
+(2) Has an output capacity (as measured according to appendix P to subpart B of part 430) of 11 kW or less; and
+
+(3) Is designed to be installed within a portable electric spa.
+
 *Electric storage water heater* means a water heater that uses electricity as the energy source, has a nameplate input rating of 12 kW or less, and contains more than one gallon of water per 4,000 Btu per hour of input.
 
 *Electromechanical hydraulic water closet* means any water closet that utilizes electrically operated devices, such as, but not limited to, air compressors, pumps, solenoids, motors, or macerators in place of or to aid gravity in evacuating waste from the toilet bowl.
@@ -473,6 +483,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Gas clothes dryer* means a cabinet-like appliance designed to dry fabrics in a tumble-type drum with forced air circulation. The heat source is gas and the drum and blower(s) are driven by an electric motor(s).
 
 *Gas-fired instantaneous water heater* means a water heater that uses gas as the main energy source, has a nameplate input rating less than 200,000 Btu/h, and contains no more than one gallon of water per 4,000 Btu per hour of input.
+
+*Gas-fired pool heater* means a pool heater that uses gas as its primary energy source.
 
 *Gas-fired storage water heater* means a water heater that uses gas as the main energy source, has a nameplate input rating of 75,000 Btu/h or less, and contains more than one gallon of water per 4,000 Btu per hour of input.
 
@@ -771,6 +783,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Oil* means heating oil grade No. 2 as defined in American Society for Testing and Materials (ASTM) D396-71.
 
 *Oil-fired instantaneous water heater* means a water heater that uses oil as the main energy source, has a nameplate input rating of 210,000 Btu/h or less, and contains no more than one gallon of water per 4,000 Btu per hour of input.
+
+*Oil-fired pool heater* means a pool heater that uses oil as its primary energy source.
 
 *Oil-fired storage water heater* means a water heater that uses oil as the main energy source, has a nameplate input rating of 105,000 Btu/h or less, and contains more than one gallon of water per 4,000 Btu per hour of input.
 

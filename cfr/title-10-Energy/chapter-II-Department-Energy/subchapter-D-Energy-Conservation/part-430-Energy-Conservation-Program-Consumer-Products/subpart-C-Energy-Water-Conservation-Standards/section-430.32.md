@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 34704, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
+Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -448,9 +448,11 @@ Table 4 to Paragraph (b)(2)
 
 (3) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016 shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016 shall have an average standby power not more than 2.2 watts.
 
-(k) *Pool heaters.* (1) Gas-fired pool heaters manufactured on or after January 1, 1990 and before April 16, 2013, shall have a thermal efficiency not less than 78%.
+(k) *Pool heaters.* (1) Gas-fired pool heaters manufactured on and after April 16, 2013 and before May 30, 2028, shall have a thermal efficiency not less than 82%.
 
-(2) Gas-fired pool heaters manufactured on or after April 16, 2013, shall have a thermal efficiency not less than 82%.
+(2) Gas-fired pool heaters and electric pool heaters manufactured on and after May 30, 2028, shall have an integrated thermal efficiency not less than the following:
+
+![](/graphics/er30my23.008.gif)where QIN is the certified input capacity of a gas-fired pool heater basic model, in Btu/h, and PE is the certified active electrical power of an electric pool heater, in Btu/h.
 
 (l) *Television sets.* [Reserved]
 

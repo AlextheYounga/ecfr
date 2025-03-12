@@ -1,7 +1,5 @@
 ##### § 123.502 Under what circumstances is your business ineligible to be considered for a Military Reservist Economic Injury Disaster Loan? #####
 
-Link to an amendment published at 88 FR 39341, June 16, 2023.
-
 Your business is ineligible for a Military Reservist EIDL if it, together with its affiliates, is subject to any of the following conditions:
 
 (a) Any of your business' principal owners has been convicted, during the past year, of a felony during and in connection with a riot or civil disorder;
@@ -22,7 +20,7 @@ Your business is ineligible for a Military Reservist EIDL if it, together with i
 
 (i) Your business is a non-profit or charitable concern;
 
-(j) Your business is a consumer or marketing cooperative;
+(j) [Reserved]
 
 (k) Your business is not a small business concern;
 
@@ -33,3 +31,5 @@ Your business is ineligible for a Military Reservist EIDL if it, together with i
 (n) Your business' principal activity is teaching, instructing, counseling, or indoctrinating religion or religious beliefs, whether in a religious or secular setting; or
 
 (o) Your business' principal activity is political or lobbying activities.
+
+[66 FR 38530, July 25, 2001, as amended at 88 FR 39341, June 16, 2023]
