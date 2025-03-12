@@ -12,7 +12,7 @@
 
 (6) *Acquisition and relocation.* The State must submit a certification that it will comply with the acquisition and relocation requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended, and implementing regulations at 49 CFR part 24.
 
-(7) *Section 3.* The State must submit a certification that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 135.
+(7) *Section 3.* The State must submit a certification that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 75.
 
 (b) *Community Development Block Grant program.* For States that seek funding under CDBG, the following certifications are required:
 
@@ -90,4 +90,4 @@
 
 (2) Any building or structure purchased, leased, rehabilitated, renovated, or converted with assistance under that program shall be operated for not less than 10 years specified in the plan, or for a period of not less than three years in cases involving non-substantial rehabilitation or repair of a building or structure.
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6970, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75973, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 85 FR 47909, Aug. 7, 2020]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6970, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75973, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 85 FR 47909, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020]

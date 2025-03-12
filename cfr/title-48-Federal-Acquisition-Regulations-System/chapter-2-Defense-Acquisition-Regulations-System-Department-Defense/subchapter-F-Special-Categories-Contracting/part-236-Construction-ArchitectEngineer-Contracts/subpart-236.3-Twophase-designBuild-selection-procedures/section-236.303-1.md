@@ -1,5 +1,7 @@
 ##### 236.303-1 Phase One. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 (a)(4) In lieu of the limitations on the maximum number of offerors that may be selected to submit phase-two proposals at FAR 36.303-1(a)(4), for DoD -
 
 (i) If the contract value exceeds $4 million, the maximum number of offerors specified in the solicitation that are to be selected to submit phase-two proposals shall not exceed five, unless -

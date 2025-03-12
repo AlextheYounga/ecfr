@@ -1,5 +1,7 @@
 ##### 217.171 Multiyear contracts for services. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 (a) The head of the agency may enter into a multiyear contract for a period of not more than 5 years for the following types of services (and items of supply relating to such services), even though funds are limited by statute to obligation only during the fiscal year for which they were appropriated (10 U.S.C. 2306c(a)) . Covered services are -
 
 (1) Operation, maintenance, and support of facilities and installations;

@@ -1,5 +1,7 @@
 ##### § 266.220 Nondiscrimination in housing and employment. #####
 
+Link to an amendment published at 85 FR 61567, Sept. 29, 2020.
+
 The mortgagor must certify to the HFA that, so long as the mortgage is insured under this part, it will:
 
 (a) Not use tenant selection procedures that discriminate against families with children, except in the case of a project that constitutes “housing for older persons” as defined in section 807(b)(2) of the Fair Housing Act (42 U.S.C. 3607(b)(2));

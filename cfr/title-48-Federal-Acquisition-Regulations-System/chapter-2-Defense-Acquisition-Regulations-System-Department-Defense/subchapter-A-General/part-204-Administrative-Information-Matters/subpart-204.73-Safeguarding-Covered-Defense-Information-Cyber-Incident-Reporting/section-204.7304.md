@@ -1,5 +1,7 @@
 ##### 204.7304 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 85 FR 61519, Sept. 29, 2020.
+
 (a) Use the provision at 252.204-7008, Compliance with Safeguarding Covered Defense Information Controls, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, except for solicitations solely for the acquisition of commercially available off-the-shelf (COTS) items.
 
 (b) Use the clause at 252.204-7009, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for services that include support for the Government's activities related to safeguarding covered defense information and cyber incident reporting.

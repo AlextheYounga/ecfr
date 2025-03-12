@@ -1,5 +1,7 @@
 ##### 225.7003-3 Exceptions. #####
 
+Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
+
 (a) Acquisitions in the following categories are not subject to the restrictions in 225.7003-2:
 
 (1) Acquisitions at or below the simplified acquisition threshold.

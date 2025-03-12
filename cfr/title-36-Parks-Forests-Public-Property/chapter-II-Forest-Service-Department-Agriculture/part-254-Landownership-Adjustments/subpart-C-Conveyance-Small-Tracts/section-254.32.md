@@ -1,5 +1,7 @@
 ##### § 254.32 Encroachments and other improvements. #####
 
+Link to an amendment published at 85 FR 60916, Sept. 29, 2020.
+
 (a) Conveyances under this subpart are limited to tracts of 10 acres or less to resolve encroachments by persons:
 
 (1) To whom no advance notice was given that the improvements encroached or would encroach, and

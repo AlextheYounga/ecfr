@@ -1,5 +1,7 @@
 ##### § 254.31 Definitions. #####
 
+Link to an amendment published at 85 FR 60916, Sept. 29, 2020.
+
 For the purpose of this subpart,
 
 An *applicant* is a person who occupies or has improvements on National Forest System land under claim of title or color of title, or who owns land abutting or underlying a road right-of-way, or who owns land interspersed with or adjacent to mineral survey fractions.

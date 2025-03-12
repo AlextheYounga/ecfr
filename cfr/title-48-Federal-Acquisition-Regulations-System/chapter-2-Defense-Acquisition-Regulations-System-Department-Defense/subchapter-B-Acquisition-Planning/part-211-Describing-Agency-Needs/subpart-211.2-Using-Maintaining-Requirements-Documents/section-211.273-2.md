@@ -1,5 +1,7 @@
 ##### 211.273-2 Policy. #####
 
+Link to an amendment published at 85 FR 60917, Sept. 29, 2020.
+
 (a) Under the Single Process Initiative (SPI), DoD accepts SPI processes in lieu of specific military or Federal specifications or standards that specify a management or manufacturing process.
 
 (b) DoD acceptance of an SPI process follows the decision of a Management Council, which includes representatives of the contractor, the Defense Contract Management Agency, the Defense Contract Audit Agency, and the military departments.

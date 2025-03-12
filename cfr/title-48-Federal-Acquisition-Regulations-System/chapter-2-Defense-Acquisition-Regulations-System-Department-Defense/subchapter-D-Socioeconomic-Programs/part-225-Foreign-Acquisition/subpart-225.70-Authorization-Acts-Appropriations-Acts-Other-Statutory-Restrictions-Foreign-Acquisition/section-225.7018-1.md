@@ -1,5 +1,7 @@
 ##### 225.7018-1 Definitions. #####
 
+Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
+
 As used in this section -
 
 *Covered country* means -

@@ -1,5 +1,7 @@
 ##### 205.303 Announcement of contract awards. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 (a) *Public announcement.* (i) The threshold for DoD awards is $7 million. Report all contractual actions, including modifications, that have a face value, excluding unexercised options, of more than $7 million.
 
 (A) For undefinitized contractual actions, report the not-to-exceed (NTE) amount. Later, if the definitized amount exceeds the NTE amount by more than $7 million, report only the amount exceeding the NTE.

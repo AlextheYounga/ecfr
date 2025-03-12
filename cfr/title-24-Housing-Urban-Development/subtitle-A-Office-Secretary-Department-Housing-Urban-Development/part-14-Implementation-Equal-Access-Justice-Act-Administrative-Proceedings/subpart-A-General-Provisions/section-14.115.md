@@ -10,7 +10,7 @@
 
 (4) Section 305(a) of the Age Discrimination Act of 1975, 42 U.S.C. 6104(a), 45 CFR part 90 and any applicable HUD regulations;
 
-(5) Section 3 of the HUD Act of 1968, 12 U.S.C. 170lu (Employment Opportunities for Business and Lower Income Persons in Connection with Assisted Projected), and 24 CFR part 135;
+(5) [Reserved]
 
 (6) Debt Collection Act of 1982 (Salary Offset), 5 U.S.C. 5514, and 24 CFR 17.125-.140;
 
@@ -26,4 +26,4 @@
 
 (c) If a proceeding includes both matters covered by the Act and matters specifically excluded from coverage, any award made will include only fees and expenses related to covered issues.
 
-[52 FR 27126, July 17, 1987, as amended at 54 FR 3283, Jan. 23, 1989]
+[52 FR 27126, July 17, 1987, as amended at 54 FR 3283, Jan. 23, 1989; 85 FR 61562, Sept. 29, 2020]

@@ -1,5 +1,7 @@
 ##### § 983.154 Conduct of development work. #####
 
+Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+
 (a) *Development requirements.* The owner must carry out development work in accordance with the Agreement and the requirements of this section.
 
 (b) *Labor standards.* (1) In the case of an Agreement for development of nine or more contract units (whether or not completed in stages), the owner and the owner's contractors and subcontractors must pay Davis-Bacon wages to laborers and mechanics employed in development of the housing.

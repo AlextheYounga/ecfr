@@ -1,12 +1,10 @@
 ##### § 395.1 Scope of rules in this part. #####
 
-Link to an amendment published at 85 FR 33451, June 1, 2020.
-
 (a) *General.* (1) The rules in this part apply to all motor carriers and drivers, except as provided in paragraphs (b) through (x) of this section.
 
 (2) The exceptions from Federal requirements contained in paragraphs (l) and (m) of this section do not preempt State laws and regulations governing the safe operation of commercial motor vehicles.
 
-(b) *Driving conditions* - (1) *Adverse driving conditions.* Except as provided in paragraph (h)(2) of this section, a driver who encounters adverse driving conditions, as defined in § 395.2, and cannot, because of those conditions, safely complete the run within the maximum driving time permitted by §§ 395.3(a) or 395.5(a) may drive and be permitted or required to drive a commercial motor vehicle for not more than 2 additional hours beyond the maximum time allowed under §§ 395.3(a) or 395.5(a) to complete that run or to reach a place offering safety for the occupants of the commercial motor vehicle and security for the commercial motor vehicle and its cargo.
+(b) *Driving conditions* - (1) *Adverse driving conditions.* Except as provided in paragraph (h)(3) of this section, a driver who encounters adverse driving conditions, as defined in § 395.2, and cannot, because of those conditions, safely complete the run within the maximum driving time or duty time during which driving is permitted under § 395.3(a) or § 395.5(a) may drive and be permitted or required to drive a commercial motor vehicle for not more than two additional hours beyond the maximum allowable hours permitted under § 395.3(a) or § 395.5(a) to complete that run or to reach a place offering safety for the occupants of the commercial motor vehicle and security for the commercial motor vehicle and its cargo.
 
 (2) *Emergency conditions.* In case of any emergency, a driver may complete his/her run without being in violation of the provisions of the regulations in this part, if such run reasonably could have been completed absent the emergency.
 
@@ -16,31 +14,21 @@ Link to an amendment published at 85 FR 33451, June 1, 2020.
 
 (2) In the case of specially trained drivers of commercial motor vehicles that are specially constructed to service oil wells, on-duty time shall not include waiting time at a natural gas or oil well site. Such waiting time shall be recorded as “off duty” for purposes of §§ 395.8 and 395.15, with remarks or annotations to indicate the specific off-duty periods that are waiting time, or on a separate “waiting time” line on the record of duty status to show that off-duty time is also waiting time. Waiting time shall not be included in calculating the 14-hour period in § 395.3(a)(2). Specially trained drivers of such commercial motor vehicles are not eligible to use the provisions of § 395.1(e)(1).
 
-(e) *Short-haul operations* - (1) *100 air-mile radius driver.* A driver is exempt from the requirements of §§ 395.8 and 395.11 if:
+(e) *Short-haul operations* - (1) *150 air-mile radius driver.* A driver is exempt from the requirements of §§ 395.8 and 395.11 if:
 
-(i) The driver operates within a 100 air-mile radius of the normal work reporting location;
+(i) The driver operates within a 150 air-mile radius (172.6 statute miles) of the normal work reporting location;
 
-(ii)(A) The driver, except a driver-salesperson or a driver of a ready-mixed concrete delivery vehicle, returns to the work reporting location and is released from work within 12 consecutive hours;
+(ii) The driver, except a driver-salesperson, returns to the work reporting location and is released from work within 14 consecutive hours;
 
-(B) The driver of a ready-mixed concrete delivery vehicle returns to the work reporting location and is released from work within 14 consecutive hours;
+(iii)(A) A property-carrying commercial motor vehicle driver has at least 10 consecutive hours off-duty separating each 14 hours on-duty;
 
-(iii)(A) A property-carrying commercial motor vehicle driver, except the driver of a ready-mixed concrete delivery vehicle, has at least 10 consecutive hours off duty separating each 12 hours on duty;
+(B) A passenger-carrying commercial motor vehicle driver has at least 8 consecutive hours off-duty separating each 14 hours on-duty; and
 
-(B) A driver of a ready-mixed concrete delivery vehicle has at least 10 consecutive hours off duty separating each 14 hours on duty;
-
-(C) A passenger-carrying commercial motor vehicle driver has at least 8 consecutive hours off duty separating each 12 hours on duty;
-
-(iv)(A) A property-carrying commercial motor vehicle driver, except the driver of a ready-mixed concrete delivery vehicle, does not exceed the maximum driving time specified in § 395.3(a)(3) following 10 consecutive hours off duty; or
-
-(B) A driver of a ready-mixed concrete delivery vehicle does not exceed 11 hours maximum driving time following 10 consecutive hours off duty; or
-
-(C) A passenger-carrying commercial motor vehicle driver does not exceed 10 hours maximum driving time following 8 consecutive hours off duty; and
-
-(v) The motor carrier that employs the driver maintains and retains for a period of 6 months accurate and true time records showing:
+(iv) The motor carrier that employs the driver maintains and retains for a period of 6 months accurate and true time records showing:
 
 (A) The time the driver reports for duty each day;
 
-(B) The total number of hours the driver is on duty each day;
+(B) The total number of hours the driver is on-duty each day;
 
 (C) The time the driver is released from duty each day; and
 
@@ -72,35 +60,35 @@ Link to an amendment published at 85 FR 33451, June 1, 2020.
 
 (f) *Retail store deliveries.* The provisions of § 395.3 (a) and (b) shall not apply with respect to drivers of commercial motor vehicles engaged solely in making local deliveries from retail stores and/or retail catalog businesses to the ultimate consumer, when driving solely within a 100-air mile radius of the driver's work-reporting location, during the period from December 10 to December 25, both inclusive, of each year.
 
-(g) *Sleeper berths* - (1) *Property-carrying commercial motor vehicle* - (i) *In general.* A driver who operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as defined in §§ 395.2 and 393.76 of this subchapter,
+(g) *Sleeper berths* - (1) *Property-carrying commercial motor vehicle* - (i) *General.* A driver who operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as defined in § 395.2, and uses the sleeper berth to obtain the off-duty time required by § 395.3(a)(1) must accumulate:
 
-(A) Must, before driving, accumulate
+(A) At least 10 consecutive hours off-duty;
 
-(*1*) At least 10 consecutive hours off duty;
+(B) At least 10 consecutive hours of sleeper berth time;
 
-(*2*) At least 10 consecutive hours of sleeper-berth time;
+(C) A combination of consecutive sleeper berth and off-duty time amounting to at least 10 hours;
 
-(*3*) A combination of consecutive sleeper-berth and off-duty time amounting to at least 10 hours; or
+(D) A combination of sleeper berth time of at least 7 consecutive hours and up to 3 hours riding in the passenger seat of the vehicle while the vehicle is moving on the highway, either immediately before or after the sleeper berth time, amounting to at least 10 consecutive hours; or
 
-(*4*) The equivalent of at least 10 consecutive hours off duty if the driver does not comply with paragraph (g)(1)(i)(A)(*1*), (*2*), or (*3*) of this section;
+(E) The equivalent of at least 10 consecutive hours off-duty calculated under paragraphs (g)(1)(ii) and (iii) of this section.
 
-(B) May not drive more than the driving limit specified in § 395.3(a)(3)(i), or, in the case of drivers in Alaska, the driving limit specified in § 395.1(h)(1)(i)-(ii), following one of the 10-hour off-duty periods specified in paragraph (g)(1)(i)(A)(*1*) through (*4*) of this section. However, driving is permitted only if 8 hours or fewer have passed since the end of the driver's last off-duty break or sleeper-berth period of at least 30 minutes; and
+(ii) *Sleeper berth.* A driver may accumulate the equivalent of at least 10 consecutive hours off-duty by taking not more than two periods of either sleeper berth time or a combination of off-duty time and sleeper berth time if:
 
-(C) May not drive for more than the period specified in § 395.3(a)(2), or in the case of drivers in Alaska, the period specified in § 395.1(h)(1)(ii), after coming on duty following one of the 10-hour off-duty periods specified in paragraph (g)(1)(i)(A)(*1*)-(*4*) of this section; and
+(A) Neither rest period is shorter than 2 consecutive hours;
 
-(D) Must exclude from the calculation of the 14-hour period in § 395.3(a)(2) any sleeper-berth period of at least 8 but less than 10 consecutive hours.
+(B) One rest period is at least 7 consecutive hours in the sleeper berth;
 
-(ii) *Specific requirements.* The following rules apply in determining compliance with paragraph (g)(1)(i) of this section:
+(C) The total of the two periods is at least 10 hours; and
 
-(A) The term “equivalent of at least 10 consecutive hours off duty” means a period of
+(D) Driving time in the period immediately before and after each rest period, when added together:
 
-(*1*) At least 8 but less than 10 consecutive hours in a sleeper berth, and
+(*1*) Does not exceed 11 hours under § 395.3(a)(3); and
 
-(*2*) A separate period of at least 2 but less than 10 consecutive hours either in the sleeper berth or off duty, or any combination thereof.
+(*2*) Does not violate the 14-hour duty-period limit under § 395.3(a)(2).
 
-(B) Calculation of the driving limit includes all driving time; compliance must be re-calculated from the end of the first of the two periods used to comply with paragraph (g)(1)(ii)(A) of this section.
+(iii) *Calculation* - (A) *In general.* The driving time limit and the 14-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (g)(1)(i)(E) of this section.
 
-(C) Calculation of the 14-hour period in § 395.3(a)(2) includes all time - or, for calculation of the 20-hour period in § 395.1(h)(1)(ii) for drivers in Alaska, all on-duty time - except any sleeper-berth period of at least 8 but less than 10 consecutive hours and up to 2 hours riding in the passenger seat of a property-carrying vehicle moving on the highway immediately before or after a period of at least 8 but less than 10 consecutive hours in the sleeper berth; compliance must be recalculated from the end of the first of the two periods used to comply with the requirements of paragraph (g)(1)(ii)(A) of this section.
+(B) *14-hour period.* The 14-hour driving window for purposes of § 395.3(a)(2) does not include qualifying rest periods under paragraph (g)(1)(ii) of this section.
 
 (2) *Specially trained driver of a specially constructed oil well servicing commercial motor vehicle at a natural gas or oil well location.* A specially trained driver who operates a commercial motor vehicle specially constructed to service natural gas or oil wells that is equipped with a sleeper berth, as defined in §§ 395.2 and 393.76 of this subchapter, or who is off duty at a natural gas or oil well location, may accumulate the equivalent of 10 consecutive hours off duty time by taking a combination of at least 10 consecutive hours of off-duty time, sleeper-berth time, or time in other sleeping accommodations at a natural gas or oil well location; or by taking two periods of rest in a sleeper berth, or other sleeping accommodation at a natural gas or oil well location, providing:
 
@@ -126,31 +114,61 @@ Link to an amendment published at 85 FR 33451, June 1, 2020.
 
 (iv) The driver may not return to driving subject to the normal limits under § 395.5 without taking at least 8 consecutive hours off duty, at least 8 consecutive hours in the sleeper berth, or a combination of at least 8 consecutive hours off duty and sleeper berth time.
 
-(h) *State of Alaska* - (1) *Property-carrying commercial motor vehicle.* The provisions of § 395.3(a) and (b) do not apply to any driver who is driving a commercial motor vehicle in the State of Alaska. A driver who is driving a property-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive -
+(h) *State of Alaska* - (1) *Property-carrying commercial motor vehicle* - (i) *In general.* The provisions of § 395.3(a) and (b) do not apply to any driver who is driving a commercial motor vehicle in the State of Alaska. A driver who is driving a property-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive:
 
-(i) More than 15 hours following 10 consecutive hours off duty; or
+(A) More than 15 hours following 10 consecutive hours off-duty;
 
-(ii) After being on duty for 20 hours or more following 10 consecutive hours off duty.
+(B) After being on-duty for 20 hours or more following 10 consecutive hours off-duty;
 
-(iii) After having been on duty for 70 hours in any period of 7 consecutive days, if the motor carrier for which the driver drives does not operate every day in the week; or
+(C) After having been on-duty for 70 hours in any period of 7 consecutive days, if the motor carrier for which the driver drives does not operate every day in the week; or
 
-(iv) After having been on duty for 80 hours in any period of 8 consecutive days, if the motor carrier for which the driver drives operates every day in the week.
+(D) After having been on-duty for 80 hours in any period of 8 consecutive days, if the motor carrier for which the driver drives operates every day in the week.
+
+(ii) *Off-duty periods.* Before driving, a driver who operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as defined in § 395.2, and uses the sleeper berth to obtain the required off-duty time in the State of Alaska, must accumulate:
+
+(A) At least 10 consecutive hours off-duty;
+
+(B) At least 10 consecutive hours of sleeper berth time;
+
+(C) A combination of consecutive sleeper berth and off-duty time amounting to at least 10 hours;
+
+(D) A combination of consecutive sleeper berth time and up to 3 hours riding in the passenger seat of the vehicle while the vehicle is moving on a highway, either immediately before or after a period of at least 7, but less than 10, consecutive hours in the sleeper berth; or
+
+(E) The equivalent of at least 10 consecutive hours off-duty calculated under paragraph (h)(1)(iii) of this section.
+
+(iii) *Sleeper berth.* A driver who uses a sleeper berth to comply with the hours of service regulations may accumulate the equivalent of at least 10 consecutive hours off-duty by taking not more than two periods of either sleeper berth time or a combination of off-duty time and sleeper berth time if:
+
+(A) Neither rest period is shorter than 2 consecutive hours;
+
+(B) One rest period is at least 7 consecutive hours in the sleeper berth;
+
+(C) The total of the two periods is at least 10 hours; and
+
+(D) Driving time in the period immediately before and after each rest period, when added together:
+
+(*1*) Does not exceed 15 hours; and
+
+(*2*) Does not violate the 20-hour duty period under paragraph (h)(1)(i)(B) of this section.
+
+(iv) *Calculation* - (A) *In general.* The driving time limit and the 20-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (h)(1)(ii)(E) of this section.
+
+(B) *20-hour period.* The 20-hour duty period under paragraph (h)(1)(i)(B) does not include off-duty or sleeper berth time.
 
 (2) *Passenger-carrying commercial motor vehicle.* The provisions of § 395.5 do not apply to any driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska. A driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive -
 
-(i) More than 15 hours following 8 consecutive hours off duty;
+(i) More than 15 hours following 8 consecutive hours off-duty;
 
-(ii) After being on duty for 20 hours or more following 8 consecutive hours off duty;
+(ii) After being on-duty for 20 hours or more following 8 consecutive hours off-duty;
 
-(iii) After having been on duty for 70 hours in any period of 7 consecutive days, if the motor carrier for which the driver drives does not operate every day in the week; or
+(iii) After having been on-duty for 70 hours in any period of 7 consecutive days, if the motor carrier for which the driver drives does not operate every day in the week; or
 
-(iv) After having been on duty for 80 hours in any period of 8 consecutive days, if the motor carrier for which the driver drives operates every day in the week.
+(iv) After having been on-duty for 80 hours in any period of 8 consecutive days, if the motor carrier for which the driver drives operates every day in the week.
 
-(3) A driver who is driving a commercial motor vehicle in the State of Alaska and who encounters adverse driving conditions (as defined in § 395.2) may drive and be permitted or required to drive a commercial motor vehicle for the period of time needed to complete the run.
+(3) *Adverse driving conditions.* (i) A driver who is driving a commercial motor vehicle in the State of Alaska and who encounters adverse driving conditions (as defined in § 395.2) may drive and be permitted or required to drive a commercial motor vehicle for the period of time needed to complete the run.
 
-(i) After a property-carrying commercial motor vehicle driver completes the run, that driver must be off duty for at least 10 consecutive hours before he/she drives again; and
+(ii) After a property-carrying commercial motor vehicle driver completes the run, that driver must be off-duty for at least 10 consecutive hours before he/she drives again; and
 
-(ii) After a passenger-carrying commercial motor vehicle driver completes the run, that driver must be off duty for at least 8 consecutive hours before he/she drives again.
+(iii) After a passenger-carrying commercial motor vehicle driver completes the run, that driver must be off-duty for at least 8 consecutive hours before he/she drives again.
 
 (i) *State of Hawaii.* The rules in § 395.8 do not apply to a driver who drives a commercial motor vehicle in the State of Hawaii, if the motor carrier who employs the driver maintains and retains for a period of 6 months accurate and true records showing -
 

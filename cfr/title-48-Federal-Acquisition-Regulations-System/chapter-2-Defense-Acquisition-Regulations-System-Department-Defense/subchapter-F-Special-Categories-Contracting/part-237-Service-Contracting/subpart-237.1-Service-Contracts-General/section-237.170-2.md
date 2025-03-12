@@ -1,5 +1,7 @@
 ##### 237.170-2 Approval requirements. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 (a) *Acquisition of services through a contract or task order that is not performance based.* (1) For acquisitions at or below $93 million, obtain the approval of the official designated by the department or agency.
 
 (2) For acquisitions exceeding $93 million, obtain the approval of the senior procurement executive.

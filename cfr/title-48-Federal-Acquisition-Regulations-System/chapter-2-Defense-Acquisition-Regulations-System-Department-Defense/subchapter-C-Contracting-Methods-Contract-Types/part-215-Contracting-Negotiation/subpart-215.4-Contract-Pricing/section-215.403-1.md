@@ -1,5 +1,7 @@
 ##### 215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 (b) *Exceptions to certified cost or pricing data requirements.* (i) Follow the procedures at PGI 215.403-1(b).
 
 (ii) Submission of certified cost or pricing data shall not be required in the case of a contract, subcontract, or modification of a contract or subcontract to the extent such data relates to an indirect offset.

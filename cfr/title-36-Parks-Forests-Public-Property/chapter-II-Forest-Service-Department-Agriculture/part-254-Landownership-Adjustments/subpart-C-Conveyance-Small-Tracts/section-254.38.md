@@ -1,5 +1,7 @@
 ##### § 254.38 Disposition of proceeds. #####
 
+Link to an amendment published at 85 FR 60916, Sept. 29, 2020.
+
 (a) The net proceeds derived from any sale or exchange in § 254.32(c) shall be deposited in the fund commonly known as the “Sisk Act” account.
 
 (b) Amounts deposited shall be available until expended for:

@@ -1,5 +1,7 @@
 ##### 252.225-7004 Report of Intended Performance Outside the United States and Canada - Submission after Award. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 As prescribed in 225.7204(b), use the following clause:
 
 Report of Intended Performance Outside the United States and Canada - Submission After Award (MAY 2019)

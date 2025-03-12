@@ -494,8 +494,8 @@ This section contains a listing of the headings for §§ 1.250-1, 1.250(a)-1, an
 
 (i) Rules for determining the location of and price paid by recipients of a service provided by a related party.
 
-(ii) Rules for allocating the benefits provided by and priced paid to the renderer of a related party service.
+(ii) Rules for allocating the benefits provided by and price paid to the renderer of a related party service.
 
 (4) Examples.
 
-[T.D. 9901, 85 FR 43080, July 15, 2020]
+[T.D. 9901, 85 FR 43080, July 15, 2020, as amended by 85 FR 60910, Sept. 29, 2020]

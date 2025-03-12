@@ -1,5 +1,7 @@
 ##### 252.211-7005 Substitutions for military or Federal specifications and standards. #####
 
+Link to an amendment published at 85 FR 60917, Sept. 29, 2020.
+
 As prescribed in 211.273-4, use the following clause:
 
 Substitutions For Military or Federal Specifications and Standards (NOV 2005)

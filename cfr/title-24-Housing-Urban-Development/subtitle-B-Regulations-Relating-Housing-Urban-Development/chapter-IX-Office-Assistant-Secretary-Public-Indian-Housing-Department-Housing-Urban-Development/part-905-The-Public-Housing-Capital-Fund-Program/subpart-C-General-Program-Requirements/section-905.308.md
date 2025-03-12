@@ -1,5 +1,7 @@
 ##### § 905.308 Federal requirements applicable to all Capital Fund activities. #####
 
+Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+
 (a) The PHA shall comply with the requirements of 24 CFR part 5 (General HUD Program Requirements; Waivers), 2 CFR part 200, and this part.
 
 (b) The PHA shall also comply with the following program requirements.

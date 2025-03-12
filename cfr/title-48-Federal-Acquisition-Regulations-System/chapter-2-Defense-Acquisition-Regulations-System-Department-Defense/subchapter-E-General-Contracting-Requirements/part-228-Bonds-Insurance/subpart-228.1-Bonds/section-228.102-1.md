@@ -1,5 +1,7 @@
 ##### 228.102-1 General. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 The requirement for performance and payment bonds is waived for cost-reimbursement contracts. However, for cost-type contracts with fixed-price construction subcontracts over $35,000, require the prime contractor to obtain from each of its construction subcontractors performance and payment protections in favor of the prime contractor as follows:
 
 (1) For fixed-price construction subcontracts over $35,000, but not exceeding $150,000, payment protection sufficient to pay labor and material costs, using any of the alternatives listed at FAR 28.102-1(b)(1).

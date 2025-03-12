@@ -1,5 +1,7 @@
 ##### 225.7703-2 Determination requirements. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 Before use of a procedure specified in 225.7703-1(a), a written determination must be prepared and executed as follows:
 
 (a) For products or services to be used only by the military forces, police, or other security personnel of Afghanistan, the contracting officer shall -

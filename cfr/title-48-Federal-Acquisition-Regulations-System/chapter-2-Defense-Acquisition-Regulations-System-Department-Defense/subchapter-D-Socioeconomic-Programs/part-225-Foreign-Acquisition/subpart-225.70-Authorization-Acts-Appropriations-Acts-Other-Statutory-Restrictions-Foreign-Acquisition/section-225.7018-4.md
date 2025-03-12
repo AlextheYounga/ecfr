@@ -1,5 +1,7 @@
 ##### 225.7018-4 Nonavailability determination. #####
 
+Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
+
 (a) *Individual nonavailability determinations.*(1) The head of the contracting activity is authorized to make a nonavailability determination described in 225.7018-3(d) on an individual basis (*i.e.,* applies to only one contract).
 
 (2) The supporting documentation for the determination shall include -

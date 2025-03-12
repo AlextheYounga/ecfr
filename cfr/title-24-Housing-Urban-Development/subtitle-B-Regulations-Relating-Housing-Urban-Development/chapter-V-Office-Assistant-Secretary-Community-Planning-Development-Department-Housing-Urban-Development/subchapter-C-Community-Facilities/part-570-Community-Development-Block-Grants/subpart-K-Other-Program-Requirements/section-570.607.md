@@ -1,5 +1,7 @@
 ##### § 570.607 Employment and contracting opportunities. #####
 
+Link to an amendment published at 85 FR 61567, Sept. 29, 2020.
+
 To the extent that they are otherwise applicable, grantees shall comply with:
 
 (a) Executive Order 11246, as amended by Executive Orders 11375, 11478, *12086,* and 12107 (3 CFR 1964-1965 Comp. p. 339; 3 CFR, 1966-1970 Comp., p. 684; 3 CFR, 1966-1970., p. 803; 3 CFR, 1978 Comp., p. 230; 3 CFR, 1978 Comp., p. 264 (Equal Employment Opportunity), and Executive Order 13279 (Equal Protection of the Laws for Faith-Based and Community Organizations), 67 FR 77141, 3 CFR, 2002 Comp., p. 258; and the implementing regulations at 41 CFR chapter 60; and

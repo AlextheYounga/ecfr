@@ -94,9 +94,7 @@
 
 (7) *Records concerning other Federal requirements* - (i) *Equal opportunity and fair housing records.* (A) Data on the extent to which each racial and ethnic group and single-headed households (by gender of household head) have applied for, participated in, or benefited from, any program or activity funded in whole or in part with HOME funds.
 
-(B) Documentation of actions undertaken to meet the requirements of 24 CFR part 135 which implements section 3 of the Housing Development Act of 1968, as amended (12 U.S.C. 1701u).
-
-(C) Documentation that the participating jurisdiction submitted a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
+(B) Documentation that the participating jurisdiction submitted a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
 
 (ii) Affirmative marketing and MBE/WBE records.
 
@@ -120,6 +118,8 @@
 
 (x) Records of emergency transfers requested under 24 CFR 5.2005(e) and 92.359 pertaining to victims of domestic violence, dating violence, sexual assault, or stalking, including data on the outcomes of those requests.
 
+(xi) Documentation of actions undertaken to meet the requirements of 24 CFR part 75 which implements section 3 of the Housing Development Act of 1968, as amended (12 U.S.C. 1701u).
+
 (b) *States with State Recipients.* A State that distributes HOME funds to State recipients must require State recipients to keep the records required by paragraphs (a)(2), (a)(3), (a)(5), (a)(6) and (a)(7) of this section, and such other records as the State determines to be necessary to enable the State to carry out its responsibilities under this part. The State need not duplicate the records kept by the State recipients. The State must keep records concerning its review of State recipients required under § 92.201(b)(3).
 
 (c) *Period of record retention.* All records pertaining to each fiscal year of HOME funds must be retained for the most recent five year period, except as provided below.
@@ -140,4 +140,4 @@
 
 (2) HUD and the Comptroller General of the United States, any of their representatives, have the right of access to any pertinent books, documents, papers or other records of the participating jurisdiction, state recipients, and subrecipients, in order to make audits, examinations, excerpts, and transcripts.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020]
+[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020]

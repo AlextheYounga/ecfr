@@ -1,5 +1,7 @@
 ##### 252.211-7004 Alternate preservation, packaging, and packing. #####
 
+Link to an amendment published at 85 FR 60918, Sept. 29, 2020.
+
 As prescribed in 211.272, use the following provision:
 
 Alternate Preservation, Packaging, and Packing (DEC 1991)

@@ -1,5 +1,7 @@
 ##### 252.225-7003 Report of intended performance outside the United States and Canada - Submission with offer. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 As prescribed in 225.7204(a), use the following provision:
 
 Report of Intended Performance Outside the United States and Canada - Submission With Offer (OCT 2015)

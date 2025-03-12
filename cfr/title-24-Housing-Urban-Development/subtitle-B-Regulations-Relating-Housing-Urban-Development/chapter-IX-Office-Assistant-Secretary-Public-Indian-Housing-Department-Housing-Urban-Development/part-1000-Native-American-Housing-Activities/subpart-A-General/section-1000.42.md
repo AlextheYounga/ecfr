@@ -1,5 +1,7 @@
 ##### § 1000.42 Are the requirements of section 3 of the Housing and Urban Development Act of 1968 applicable? #####
 
+Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+
 (a) *General.* Yes. Recipients shall comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u) and HUD's implementing regulations in 24 CFR part 135, to the maximum extent feasible and consistent with, but not in derogation of, compliance with section 7(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450e(b)). Section 3 provides job training, employment, and contracting opportunities for low-income individuals.
 
 (b) *Threshold requirement.* The requirements of section 3 apply only to those section 3 covered projects or activities for which the amount of assistance exceeds $200,000.

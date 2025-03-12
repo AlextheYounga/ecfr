@@ -1,5 +1,7 @@
 ##### 246.402 Government contract quality assurance at source. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 Do not require Government contract quality assurance at source for contracts or delivery orders valued below $300,000, unless -
 
 (1) Mandated by DoD regulation;

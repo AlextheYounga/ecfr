@@ -1,5 +1,7 @@
 ##### § 983.4 Cross-reference to other Federal requirements. #####
 
+Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+
 The following provisions apply to assistance under the PBV program.
 
 *Civil money penalty.* Penalty for owner breach of HAP contract. See 24 CFR 30.68.

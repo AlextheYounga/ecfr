@@ -12,7 +12,7 @@
 
 (vi) *Acquisition and relocation.* The consortium must certify that it will comply with the acquisition and relocation requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (42 U.S.C. 4601), and implementing regulations at 49 CFR part 24.
 
-(vii) *Section 3.* The consortium must certify that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 135.
+(vii) *Section 3.* The consortium must certify that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 75.
 
 (2) *HOME program.* The consortium must provide the following certifications:
 
@@ -24,4 +24,4 @@
 
 (b) *CDBG entitlement community certifications.* A CDBG entitlement community that is a member of a consortium must submit the certifications required by § 91.225 (a) and (b), and, if applicable, of § 91.225 (c) and (d).
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 72 FR 73493, Dec. 27, 2007; 80 FR 42366, July 16, 2015; 85 FR 47910, Aug. 7, 2020]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 72 FR 73493, Dec. 27, 2007; 80 FR 42366, July 16, 2015; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020]

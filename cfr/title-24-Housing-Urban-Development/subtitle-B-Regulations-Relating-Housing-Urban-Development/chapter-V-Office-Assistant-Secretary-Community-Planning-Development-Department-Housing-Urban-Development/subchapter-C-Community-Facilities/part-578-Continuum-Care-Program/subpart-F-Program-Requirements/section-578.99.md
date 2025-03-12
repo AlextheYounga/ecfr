@@ -1,5 +1,7 @@
 ##### § 578.99 Applicability of other federal requirements. #####
 
+Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+
 In addition to the requirements set forth in 24 CFR part 5, use of assistance provided under this part must comply with the following federal requirements:
 
 (a) *Environmental review.* Activities under this part are subject to environmental review by HUD under 24 CFR part 50 as noted in § 578.31.

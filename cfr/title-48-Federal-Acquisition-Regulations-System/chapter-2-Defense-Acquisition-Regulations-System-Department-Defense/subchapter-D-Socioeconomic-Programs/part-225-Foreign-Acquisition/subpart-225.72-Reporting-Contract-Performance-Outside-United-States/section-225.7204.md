@@ -1,5 +1,7 @@
 ##### 225.7204 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+
 Except for acquisitions described in 225.7202 -
 
 (a) Use the provision at 252.225-7003, Report of Intended Performance Outside the United States and Canada - Submission with Offer, in solicitations with a value exceeding $13.5 million; and

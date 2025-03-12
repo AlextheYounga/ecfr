@@ -1,5 +1,7 @@
 ##### 204.7302 Policy. #####
 
+Link to an amendment published at 85 FR 61519, Sept. 29, 2020.
+
 (a) Contractors and subcontractors are required to provide adequate security on all covered contractor information systems.
 
 (b) Contractors and subcontractors are required to rapidly report cyber incidents directly to DoD at *http://dibnet.dod.mil.* Subcontractors provide the incident report number automatically assigned by DoD to the prime contractor. Lower-tier subcontractors likewise report the incident report number automatically assigned by DoD to their higher-tier subcontractor, until the prime contractor is reached.

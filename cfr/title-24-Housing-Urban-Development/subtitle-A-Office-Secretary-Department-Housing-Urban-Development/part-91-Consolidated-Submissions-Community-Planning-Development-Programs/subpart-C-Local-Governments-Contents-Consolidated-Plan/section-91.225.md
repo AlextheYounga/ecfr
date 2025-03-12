@@ -14,7 +14,7 @@
 
 (6) *Acquisition and relocation.* The jurisdiction must submit a certification that it will comply with the acquisition and relocation requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (42 U.S.C. 4601), and implementing regulations at 49 CFR part 24.
 
-(7) *Section 3.* The jurisdiction must submit a certification that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 135.
+(7) *Section 3.* The jurisdiction must submit a certification that it will comply with section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and implementing regulations at 24 CFR part 75.
 
 (b) *Community Development Block Grant program.* For jurisdictions that seek funding under CDBG, the following certifications are required:
 
@@ -86,4 +86,4 @@
 
 (ii) For a period of not less than three years in the case of assistance involving non-substantial rehabilitation or repair of a building or structure.
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 64 FR 50224, Sept. 15, 1999; 71 FR 6967, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 64 FR 50224, Sept. 15, 1999; 71 FR 6967, Feb. 9, 2006; 72 FR 73493, Dec. 27, 2007; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020]

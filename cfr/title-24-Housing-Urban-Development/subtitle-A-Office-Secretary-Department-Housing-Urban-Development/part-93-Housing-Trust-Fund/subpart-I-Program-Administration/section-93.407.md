@@ -52,25 +52,25 @@
 
 (5) *Records concerning other Federal requirements.* (i) Equal opportunity and fair housing records, as required under 24 CFR part 121.
 
-(A) Data on the extent to which each racial and ethnic group and single-headed households (by gender of household head) have applied for, participated in, or benefited from, any program or activity funded in whole or in part with HTF funds.
+(ii) Data on the extent to which each racial and ethnic group and single-headed households (by gender of household head) have applied for, participated in, or benefited from, any program or activity funded in whole or in part with HTF funds.
 
-(B) Documentation of actions undertaken to meet the requirements of 24 CFR part 135, which implements section 3 of the Housing and Urban Development Act of 1968, as amended (12 U.S.C. 1701u).
+(iii) Records demonstrating compliance with the affirmative marketing procedures and requirements of § 93.350.
 
-(ii) Records demonstrating compliance with the affirmative marketing procedures and requirements of § 93.350.
+(iv) Records demonstrating compliance with the lead-based paint requirements of 24 CFR part 35, subparts A, B, J, K, M, and R.
 
-(iii) Records demonstrating compliance with the lead-based paint requirements of 24 part 35, subparts A, B, J, K, M, and R.
+(v) Records demonstrating compliance with requirements of § 93.352 regarding displacement, relocation, and real property acquisition.
 
-(iv) Records demonstrating compliance with requirements of § 93.352 regarding displacement, relocation, and real property acquisition.
+(vi) Records supporting exceptions to the conflict-of-interest prohibition pursuant to § 93.353.
 
-(v) Records supporting exceptions to the conflict-of-interest prohibition pursuant to § 93.353.
+(vii) Debarment and suspension certifications required by 24 CFR5.105(c) and 2 CFR part 2424.
 
-(vi) Debarment and suspension certifications required by 24 CFR5.105(c) and 2 CFR part 2424.
+(viii) Records demonstrating compliance with § 93.354.
 
-(vii) Records demonstrating compliance with § 93.354.
+(ix) Records demonstrating compliance with 2 CFR 200.321 regarding the grantee's activities related to minority business enterprise (MBE) and women's business enterprise (WBE).
 
-(viii) Records demonstrating compliance with 2 CFR 200.321 regarding the grantee's activities related to minority business enterprise (MBE) and women's business enterprise (WBE).
+(x) Documentation on emergency transfers requested under 24 CFR 5.2005(e) and § 93.356 pertaining to victims of domestic violence, dating violence, sexual assault, or stalking, including data on the outcomes of such requests.
 
-(ix) Documentation on emergency transfers requested under 24 CFR 5.2005(e) and § 93.356 pertaining to victims of domestic violence, dating violence, sexual assault, or stalking, including data on the outcomes of such requests.
+(xi) Documentation of actions undertaken to meet the requirements of 24 CFR part 75, which implements section 3 of the Housing and Urban Development Act of 1968, as amended (12 U.S.C. 1701u).
 
 (b) *Period of record retention.* All records pertaining to each fiscal year of HTF funds must be retained in a secure location for the most recent 5-year period, except as provided below.
 
@@ -88,4 +88,4 @@
 
 (2) HUD and the Comptroller General of the United States, and any of their representatives, have the right of access to any pertinent books, documents, papers, or other records of the grantee, subgrantees, and recipients, to make audits, examinations, excerpts, and transcripts.
 
-[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 80805, Nov. 16, 2016]
+[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 80805, Nov. 16, 2016; 85 FR 61567, Sept. 29, 2020]

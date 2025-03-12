@@ -1,10 +1,8 @@
 ##### § 395.2 Definitions. #####
 
-Link to an amendment published at 85 FR 33452, June 1, 2020.
-
 As used in this part, the following words and terms are construed to mean:
 
-*Adverse driving conditions* means snow, sleet, fog, other adverse weather conditions, a highway covered with snow or ice, or unusual road and traffic conditions, none of which were apparent on the basis of information known to the person dispatching the run at the time it was begun.
+*Adverse driving conditions* means snow, ice, sleet, fog, or other adverse weather conditions or unusual road or traffic conditions that were not known, or could not reasonably be known, to a driver immediately prior to beginning the duty day or immediately before beginning driving after a qualifying rest break or sleeper berth period, or to a motor carrier immediately prior to dispatching the driver.
 
 *Agricultural commodity* means any agricultural commodity, nonprocessed food, feed, fiber, or livestock (including livestock as defined in sec. 602 of the Emergency Livestock Feed Assistance Act of 1988 [7 U.S.C. 1471] and insects).
 
@@ -44,7 +42,7 @@ As used in this part, the following words and terms are construed to mean:
 
 (ii) Time spent resting in a *sleeper berth;* or
 
-(iii) Up to 2 hours riding in the passenger seat of a property-carrying vehicle moving on the highway immediately before or after a period of at least 8 consecutive hours in the sleeper berth;
+(iii) Up to 3 hours riding in the passenger seat of a property-carrying vehicle moving on the highway immediately before or after a period of at least 7 consecutive hours in the sleeper berth;
 
 (5) All time loading or unloading a commercial motor vehicle, supervising, or assisting in the loading or unloading, attending a commercial motor vehicle being loaded or unloaded, remaining in readiness to operate the commercial motor vehicle, or in giving or receiving receipts for shipments loaded or unloaded;
 
@@ -78,4 +76,4 @@ As used in this part, the following words and terms are construed to mean:
 
 (3) Except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51435, Sept. 30, 2019]
+[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51435, Sept. 30, 2019; 85 FR 33452, June 1, 2020]

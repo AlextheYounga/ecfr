@@ -1,5 +1,7 @@
 ##### 225.7018-3 Exceptions. #####
 
+Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
+
 The restriction in section 225.7018-2 does not apply to an acquisition -
 
 (a) At or below the simplified acquisition threshold;

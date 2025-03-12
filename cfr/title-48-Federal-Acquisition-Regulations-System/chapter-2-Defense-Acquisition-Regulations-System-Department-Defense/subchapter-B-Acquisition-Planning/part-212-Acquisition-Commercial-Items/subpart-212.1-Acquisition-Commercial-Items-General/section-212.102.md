@@ -1,5 +1,7 @@
 ##### 212.102 Applicability. #####
 
+Link to an amendment published at 85 FR 60921, Sept. 29, 2020.
+
 (a)(i) *Commercial item determination.* When using FAR part 12 procedures for acquisitions exceeding $1 million in value, except for acquisitions made pursuant to FAR 12.102(f)(1), the contracting officer shall -
 
 (A) Determine in writing that the acquisition meets the commercial item definition in FAR 2.101;
