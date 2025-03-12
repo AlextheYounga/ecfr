@@ -1,5 +1,7 @@
 ##### § 1.69 Voting by interested members of self-regulatory organization governing boards and various committees. #####
 
+Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Disciplinary committee* means any person or committee of persons, or any subcommittee thereof, that is authorized by a self-regulatory organization to issue disciplinary charges, to conduct disciplinary proceedings, to settle disciplinary charges, to impose disciplinary sanctions, or to hear appeals thereof in cases involving any violation of the rules of the self-regulatory organization except those cases where the person or committee is authorized summarily to impose minor penalties for violating rules regarding decorum, attire, the timely submission of accurate records for clearing or verifying each day's transactions or other similar activities.

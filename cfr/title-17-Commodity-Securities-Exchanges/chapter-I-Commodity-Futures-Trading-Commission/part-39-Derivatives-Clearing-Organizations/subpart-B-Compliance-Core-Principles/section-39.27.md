@@ -1,5 +1,7 @@
 ##### § 39.27 Legal risk considerations. #####
 
+Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
+
 (a) *Legal authorization.* A derivatives clearing organization shall be duly organized, legally authorized to conduct business, and remain in good standing at all times in the relevant jurisdictions. If the derivatives clearing organization provides clearing services outside the United States, it shall be duly organized to conduct business and remain in good standing at all times in the relevant jurisdictions, and be authorized by the appropriate foreign licensing authority.
 
 (b) *Legal framework.* A derivatives clearing organization shall operate pursuant to a well-founded, transparent, and enforceable legal framework that addresses each aspect of the activities of the derivatives clearing organization. As applicable, the framework shall provide for:

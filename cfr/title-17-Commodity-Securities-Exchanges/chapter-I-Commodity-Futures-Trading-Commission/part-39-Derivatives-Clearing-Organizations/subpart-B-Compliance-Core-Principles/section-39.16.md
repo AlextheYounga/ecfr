@@ -1,5 +1,7 @@
 ##### § 39.16 Default rules and procedures. #####
 
+Link to an amendment published at 85 FR 4857, Jan. 27, 2020.
+
 (a) *General.* A derivatives clearing organization shall adopt rules and procedures designed to allow for the efficient, fair, and safe management of events during which clearing members become insolvent or default on the obligations of such clearing members to the derivatives clearing organization.
 
 (b) *Default management plan.* A derivatives clearing organization shall maintain a current written default management plan that delineates the roles and responsibilities of its board of directors, its risk management committee, any other committee that a derivatives clearing organization may have that has responsibilities for default management, and the derivatives clearing organization's management, in addressing a default, including any necessary coordination with, or notification of, other entities and regulators. Such plan shall address any differences in procedures with respect to highly liquid products and less liquid products. A derivatives clearing organization shall conduct and document a test of its default management plan at least on an annual basis.

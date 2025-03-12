@@ -1,5 +1,7 @@
 ##### § 39.32 Governance for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
+Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
+
 (a) *General rules.* (1) Each systemically important derivatives clearing organization and subpart C derivatives clearing organization shall have governance arrangements that:
 
 (i) Are written;

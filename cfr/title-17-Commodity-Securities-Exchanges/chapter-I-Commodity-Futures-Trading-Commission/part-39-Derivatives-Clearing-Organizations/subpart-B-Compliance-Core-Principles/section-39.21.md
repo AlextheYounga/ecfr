@@ -1,5 +1,7 @@
 ##### § 39.21 Public information. #####
 
+Link to an amendment published at 85 FR 4861, Jan. 27, 2020.
+
 (a) *General.* Each derivatives clearing organization shall provide to market participants sufficient information to enable the market participants to identify and evaluate accurately the risks and costs associated with using the services of the derivatives clearing organization. In furtherance of this objective, each derivatives clearing organization shall have clear and comprehensive rules and procedures.
 
 (b) *Availability of information.* Each derivatives clearing organization shall make information concerning the rules and the operating and default procedures governing the clearing and settlement systems of the derivatives clearing organization available to market participants.

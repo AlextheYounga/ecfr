@@ -1,5 +1,7 @@
 ##### § 1.64 Composition of various self-regulatory organization governing boards and major disciplinary committees. #####
 
+Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Self-regulatory organization* means “self-regulatory organization” as defined in § 1.3, not including a “clearing organization” as defined in § 1.3.

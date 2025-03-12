@@ -1,0 +1,3 @@
+##### § 5.89 Duty to adjudicate proceedings promptly. #####
+
+Agency attorneys should promptly initiate proceedings or prosecute matters referred to them. In addition, cases should not be allowed to linger unduly after the adjudicatory process has begun. Attorneys should seek to settle matters where possible or refer the case to a decision maker for proper disposition when settlement negotiations have reached an impasse.

@@ -1,5 +1,7 @@
 ##### § 39.20 Recordkeeping. #####
 
+Link to an amendment published at 85 FR 4860, Jan. 27, 2020.
+
 (a) *Requirement to maintain information.* Each derivatives clearing organization shall maintain records of all activities related to its business as a derivatives clearing organization. Such records shall include, but are not limited to, records of:
 
 (1) All cleared transactions, including swaps;

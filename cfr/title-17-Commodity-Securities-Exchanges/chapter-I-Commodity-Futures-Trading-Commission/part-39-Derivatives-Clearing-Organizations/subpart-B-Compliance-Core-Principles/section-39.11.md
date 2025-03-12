@@ -1,5 +1,7 @@
 ##### § 39.11 Financial resources. #####
 
+Link to an amendment published at 85 FR 4853, Jan. 27, 2020.
+
 (a) *General.* A derivatives clearing organization shall maintain financial resources sufficient to cover its exposures with a high degree of confidence and to enable it to perform its functions in compliance with the core principles set out in section 5b of the Act. A derivatives clearing organization shall identify and adequately manage its general business risks and hold sufficient liquid resources to cover potential business losses that are not related to clearing members' defaults, so that the derivatives clearing organization can continue to provide services as an ongoing concern. Financial resources shall be considered sufficient if their value, at a minimum, exceeds the total amount that would:
 
 (1) Enable the derivatives clearing organization to meet its financial obligations to its clearing members notwithstanding a default by the clearing member creating the largest financial exposure for the derivatives clearing organization in extreme but plausible market conditions; Provided that if a clearing member controls another clearing member or is under common control with another clearing member, the affiliated clearing members shall be deemed to be a single clearing member for purposes of this provision; and

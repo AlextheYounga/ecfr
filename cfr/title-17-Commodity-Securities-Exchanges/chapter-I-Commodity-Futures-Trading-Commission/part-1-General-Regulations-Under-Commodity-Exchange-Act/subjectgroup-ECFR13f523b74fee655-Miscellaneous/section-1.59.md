@@ -1,5 +1,7 @@
 ##### § 1.59 Activities of self-regulatory organization employees, governing board members, committee members, and consultants. #####
 
+Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Self-regulatory organization* means “self-regulatory organization,” as defined in § 1.3, and includes the term “clearing organization,” as defined in § 1.3.

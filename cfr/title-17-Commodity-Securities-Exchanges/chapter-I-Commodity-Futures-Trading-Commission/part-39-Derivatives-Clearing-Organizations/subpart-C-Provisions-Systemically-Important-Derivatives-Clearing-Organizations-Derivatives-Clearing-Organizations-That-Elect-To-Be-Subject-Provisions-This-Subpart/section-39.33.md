@@ -1,5 +1,7 @@
 ##### § 39.33 Financial resources requirements for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
+Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
+
 (a) *General rule.* (1) Notwithstanding the requirements of § 39.11(a)(1), each systemically important derivatives clearing organization and subpart C derivatives clearing organization that, in either case, is systemically important in multiple jurisdictions or is involved in activities with a more complex risk profile shall maintain financial resources sufficient to enable it to meet its financial obligations to its clearing members notwithstanding a default by the two clearing members creating the largest combined loss to the derivatives clearing organization in extreme but plausible market conditions.
 
 (2) The Commission shall, if it deems appropriate, determine whether a systemically important derivatives clearing organization or subpart C derivatives clearing organization is systemically important in multiple jurisdictions. In determining whether a systemically important derivatives clearing organization or subpart C derivatives clearing organization is systemically important in multiple jurisdictions, the Commission shall consider whether the derivatives clearing organization:

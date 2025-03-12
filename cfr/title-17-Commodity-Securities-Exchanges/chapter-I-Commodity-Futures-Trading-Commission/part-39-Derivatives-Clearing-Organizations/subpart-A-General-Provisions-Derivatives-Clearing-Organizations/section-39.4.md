@@ -1,5 +1,7 @@
 ##### § 39.4 Procedures for implementing derivatives clearing organization rules and clearing new products. #####
 
+Link to an amendment published at 85 FR 4852, Jan. 27, 2020.
+
 (a) *Request for approval of rules.* An applicant for registration, or a registered derivatives clearing organization, may request, pursuant to the procedures of § 40.5 of this chapter, that the Commission approve any or all of its rules and subsequent amendments thereto, including operational rules, prior to their implementation or, notwithstanding the provisions of section 5c(c)(2) of the Act, at any time thereafter, under the procedures of § 40.5 of this chapter. A derivatives clearing organization may label as, “Approved by the Commission,” only those rules that have been so approved.
 
 (b) *Self-certification of rules.* Proposed new or amended rules of a derivatives clearing organization not voluntarily submitted for prior Commission approval pursuant to paragraph (a) of this section must be submitted to the Commission with a certification that the proposed new rule or rule amendment complies with the Act and rules thereunder pursuant to the procedures of § 40.6 of this chapter.

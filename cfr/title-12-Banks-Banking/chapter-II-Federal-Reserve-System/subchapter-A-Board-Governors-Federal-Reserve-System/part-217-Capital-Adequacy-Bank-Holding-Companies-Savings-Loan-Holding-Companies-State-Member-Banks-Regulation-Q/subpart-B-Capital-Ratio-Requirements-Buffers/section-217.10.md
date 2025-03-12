@@ -1,6 +1,6 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 85 FR 4416, Jan. 24, 2020.
+Link to an amendment published at 85 FR 4416, Jan. 24, 2020.Link to an amendment published at 85 FR 4578, Jan. 27, 2020.
 
 (a) *Minimum capital requirements.* (1) A Board-regulated institution must maintain the following minimum capital ratios:
 

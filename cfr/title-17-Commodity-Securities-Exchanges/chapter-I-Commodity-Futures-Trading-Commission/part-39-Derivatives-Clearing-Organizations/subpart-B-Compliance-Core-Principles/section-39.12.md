@@ -1,5 +1,7 @@
 ##### § 39.12 Participant and product eligibility. #####
 
+Link to an amendment published at 85 FR 4855, Jan. 27, 2020.
+
 (a) *Participant eligibility.* A derivatives clearing organization shall establish appropriate admission and continuing participation requirements for clearing members of the derivatives clearing organization that are objective, publicly disclosed, and risk-based.
 
 (1) Fair and open access for participation. The participation requirements shall permit fair and open access;

@@ -1,0 +1,19 @@
+##### § 5.19 Public contacts in informal rulemaking. #####
+
+(a) *Agency contacts with the public during informal rulemakings conducted in accordance with 5 U.S.C. 553.* (1) DOT personnel may have meetings or other contacts with interested members of the public concerning an informal rulemaking under 5 U.S.C. 553 or similar procedures at any stage of the rulemaking process, provided the substance of material information submitted by the public that DOT relies on in proposing or finalizing the rule is adequately disclosed and described in the public rulemaking docket such that all interested parties have notice of the information and an opportunity to comment on its accuracy and relevance.
+
+(2) After the issuance of the NPRM and pending completion of the final rule, DOT personnel should avoid giving persons outside the Executive Branch information regarding the rulemaking that is not available generally to the public.
+
+(3) If DOT receives an unusually large number of requests for meetings with interested members of the public during the comment period for a proposed rule or after the close of the comment period, the issuing OA or component of OST should consider whether there is a need to extend or reopen the comment period, to allow for submission of a second round of “reply comments,” or to hold a public meeting on the proposed rule.
+
+(4) If the issuing OA or OST component meets with interested persons on the rulemaking after the close of the comment period, it should be open to giving other interested persons a similar opportunity to meet.
+
+(5) If DOT learns of significant new information, such as new studies or data, after the close of the comment period that the issuing OA or OST component wishes to rely upon in finalizing the rule, the OA or OST component should reopen the comment period to give the public an opportunity to comment on the new information. If the new information is likely to result in a change to the rule that is not within the scope of the NPRM, the OA or OST component should consider issuing a Supplemental NPRM to ensure that the final rule represents a logical outgrowth of DOT's proposal.
+
+(b) *Contacts during OIRA review.* (1) E.O. 12866 and E.O. 13563 lay out the procedures for review of significant regulations by OIRA, which include a process for members of the public to request meetings with OIRA regarding rules under OIRA review. Per E.O. 12866, OIRA invites the Department to attend these meetings. The Office of Regulation will forward these invitations to the appropriate regulatory contact in the OA or component of OST responsible for issuing the regulation.
+
+(2) If the issuing OA or OST component wishes to attend the OIRA-sponsored meeting or if its participation is determined to be necessary by the Office of Regulation, the regulatory contact should identify to the Office of Regulation up to two individuals from the OA or OST component who will attend the meeting along with a representative from the Office of Regulation. Attendance at these meetings can be by phone or in person. These OIRA meetings are generally listening sessions for DOT.
+
+(3) The attending DOT personnel should refrain from debating particular points regarding the rulemaking and should avoid disclosing the contents of a document or proposed regulatory action that has not yet been disclosed to the public, but may answer questions of fact regarding a public document.
+
+(4) Following the OIRA meeting, the attendee(s) from the issuing OA or OST component will draft a summary report of the meeting and submit it to the Office of Regulation for review. After the report is reviewed and finalized in coordination with the Office of Regulation, the responsible OA or OST component will place the final report in the rulemaking docket.

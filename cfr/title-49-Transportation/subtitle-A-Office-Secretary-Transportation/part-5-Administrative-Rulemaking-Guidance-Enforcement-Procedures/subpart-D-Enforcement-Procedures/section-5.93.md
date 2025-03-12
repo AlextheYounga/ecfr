@@ -1,0 +1,3 @@
+##### § 5.93 Settlements. #####
+
+Settlement conferences may be handled by appropriate agency counsel without the involvement of the agency's decision maker. Once a matter is settled by compromise, that agreement should be reviewed and accepted by an appropriate supervisor. The responsible OA or component of OST should issue an order adopting the terms of the settlement agreement as the final agency decision, where and as authorized by statute or regulation. No DOT settlement agreement, consent order, or consent decree should be used to adopt or impose new regulatory obligations for entities that are not parties to the settlement. Unless required by law, settlement agreements are not confidential and are subject to public disclosure.

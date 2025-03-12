@@ -1,0 +1,3 @@
+##### § 5.99 Publication of decisions. #####
+
+The agency's decisions in informal adjudications are not required to be published under the APA. However, where the agency intends to rely on its opinions in future cases, those opinions must generally be made available on agency websites or in agency reading rooms (and publication on Westlaw, Lexis, or similar legal services is also highly recommended). The APA has been read to require that opinions in formal adjudications must be made “available for public inspection and copying.” Agencies are strongly encouraged to publish all formal decisions on Westlaw, Lexis, or similar legal services.

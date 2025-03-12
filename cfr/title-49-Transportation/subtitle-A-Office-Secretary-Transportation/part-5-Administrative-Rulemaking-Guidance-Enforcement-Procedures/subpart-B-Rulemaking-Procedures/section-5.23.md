@@ -1,0 +1,3 @@
+##### § 5.23 Disclaimer. #####
+
+This subpart is intended to improve the internal management of the Department. It is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, officers or employees, or any other person. In addition, this subpart shall not be construed to create any right to judicial review involving the compliance or noncompliance with this subpart by the Department, its OAs or OST components, its officers or employees, or any other person.

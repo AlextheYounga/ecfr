@@ -1,5 +1,7 @@
 ##### § 39.15 Treatment of funds. #####
 
+Link to an amendment published at 85 FR 4856, Jan. 27, 2020.
+
 (a) *Required standards and procedures.* A derivatives clearing organization shall establish standards and procedures that are designed to protect and ensure the safety of funds and assets belonging to clearing members and their customers.
 
 (b) *Segregation of funds and assets* - (1) *Segregation.* A derivatives clearing organization shall comply with the applicable segregation requirements of section 4d of the Act and Commission regulations thereunder, or any other applicable Commission regulation or order requiring that customer funds and assets be segregated, set aside, or held in a separate account.

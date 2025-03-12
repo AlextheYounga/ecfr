@@ -1,0 +1,3 @@
+##### § 5.107 Small Business Regulatory Enforcement Fairness Act Compliance (SBREFA). #####
+
+The Department shall comply with the terms of SBREFA when conducting administrative inspections and adjudications, including section 223 of SBREFA (reduction or waivers of civil penalties, where appropriate). The Department will also cooperate with the Small Business Administration (SBA) when a small business files a comment or complaint related to DOT's inspection authority and when requested to answer SBREFA compliance requests.

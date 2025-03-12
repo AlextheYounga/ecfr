@@ -1,0 +1,3 @@
+##### § 5.95 OGC approval required for certain settlement terms. #####
+
+Whenever a proposed settlement agreement, consent order, or consent decree would impose behavioral commitments or obligations on a regulated entity that go beyond the requirements of relevant statutes and regulations, including the appointment of an independent monitor or the imposition of novel, unprecedented, or extraordinary obligations, the responsible OA or OST component should obtain the approval of OGC before finalizing the settlement agreement, consent order, or consent decree.

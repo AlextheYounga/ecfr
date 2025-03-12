@@ -64,13 +64,13 @@ S6. Requirements.
 
 (1) Comply with the requirements for public use lifts and with the requirements for all lifts.
 
-(2) Bear a label with the words “DOT--Public Use Lift” as certification of compliance with the requirements specified in paragraph S6(b)(1).
+(2) Bear a label with the words “DOT—Public Use Lift” as certification of compliance with the requirements specified in paragraph S6(b)(1).
 
 (c) Each private use lift must
 
 (1) Comply with the requirements for private use lifts and with the requirements for all lifts.
 
-(2) Bear a label with the words “DOT--Private Use Lift” as certification of compliance with the requirements specified in S6(c)(1).
+(2) Bear a label with the words “DOT—Private Use Lift” as certification of compliance with the requirements specified in S6(c)(1).
 
 (d) Platform lifts suitable for installation on buses, school buses, and MPVs other than motor homes with a GVWR greater than 4,536 kg (10,000 lb.), except motor homes, must be certified by the manufacturer as meeting the requirements for public use lifts. For platform lifts suitable for installation on all other vehicles, the manufacturer may select the option of certifying compliance with either the public use lift requirements or the private use lift requirements of this standard at the time it certifies the vehicle and may not thereafter select a different option for the vehicle.
 
@@ -254,9 +254,9 @@ S6.7.8.1 Be located near the controls.
 
 S6.7.8.2 Have characters with a minimum height of 2.5 mm (0.1 in) and written in English.
 
-S6.7.8.3 *Public use lifts:* Include the statement “DOT - Public Use Lift”.
+S6.7.8.3 *Public use lifts:* Include the statement “DOT—Public Use Lift”.
 
-S6.7.8.4 *Private use lifts:* Include the statement “DOT - Private Use Lift”, the manufacturer's rated load for the lift, and, if applicable, instructions indicating that the wheelchair occupant must back onto the lift when loading from the ground.
+S6.7.8.4 *Private use lifts:* Include the statement “DOT—Private Use Lift”, the manufacturer's rated load for the lift, and, if applicable, instructions indicating that the wheelchair occupant must back onto the lift when loading from the ground.
 
 S6.8 *Jacking prevention.*
 
@@ -298,9 +298,9 @@ S6.12.2 Instructions regarding the platform lift operating procedures, including
 
 S6.12.3 *Public use lifts:* In addition to meeting the requirements of S6.12.1 and S6.12.2, the owner's manual insert for public use lifts must also include:
 
-S6.12.3.1 The statement “DOT - Public Use Lift” on the front cover of the vehicle owner's manual insert; and
+S6.12.3.1 The statement “DOT—Public Use Lift” on the front cover of the vehicle owner's manual insert; and
 
-S6.12.3.2 The statement “*DOT - Public Use Lift”* verifies that this platform lift meets the “public use lift ” requirements of FMVSS No. 403. This lift may be installed on all vehicles appropriate for the size and weight of the lift, but must be installed on buses, school buses, and multi-purpose passenger vehicles other than motor homes with a gross vehicle weight rating (GVWR) that exceeds 4,536 kg (10,000 lb).”
+S6.12.3.2 The statement “*DOT—Public Use Lift”* verifies that this platform lift meets the “public use lift ” requirements of FMVSS No. 403. This lift may be installed on all vehicles appropriate for the size and weight of the lift, but must be installed on buses, school buses, and multi-purpose passenger vehicles other than motor homes with a gross vehicle weight rating (GVWR) that exceeds 4,536 kg (10,000 lb).”
 
 S6.12.4 Private use lifts: In addition to meeting the requirements of S6.12.1 and S6.12.2, the owner's manual insert for private use lifts must also include:
 
@@ -422,7 +422,7 @@ S7.7.2.3 Position the test device with its plane of symmetry coincident with the
 
 S7.7.2.4 An optional 50 kg (110 pounds) of weight may be centered, evenly distributed, and secured in the seat of the wheelchair test device to assist in stabilizing the wheelchair test device during testing. The manufacturer shall select the option by the time it certifies the lift and may not thereafter select a different test option for the lift. Accelerate the test device onto the platform under its own power such that the test device impacts the wheelchair retention device at each speed and direction combination specified in S7.7.2.5. Terminate power to the wheelchair test device by means of the wheelchair controller after completion of the initial impact of any portion of the wheelchair test device with the wheelchair retention device. Note the position of the wheelchair test device following each impact to determine compliance with S6.4.7. If necessary, after each impact, adjust or replace the footrests to restore them to their original condition.
 
-S7.7.2.5 The test device is operated at the following speeds, in the following directions -
+S7.7.2.5 The test device is operated at the following speeds, in the following directions—
 
 (a) At a speed of not less than 2.0 m/s (4.4 mph) and not more than 2.1 m/s (4.7 mph) in the forward direction.
 
@@ -472,7 +472,7 @@ S7.8.5 Apply a static load to the inner roll stop by activating the controller o
 
 S7.8.6 Maintain control activation and raise the platform to the vehicle loading position. Determine compliance with S6.4.8.3(b).
 
-S7.9 *Static load test I - working load.*
+S7.9 *Static load test I—working load.*
 
 S7.9.1 By use of the lift controls specified in S6.7.2, perform the operations specified in S7.9.2 through S7.9.8 in the order they are specified.
 
@@ -518,7 +518,7 @@ S7.10.6.2 Remove the test pallet from the platform. Raise the platform to the ve
 
 S7.10.6.3 Perform the test sequence specified in S7.10.6.1 and S7.10.6.2 two times.
 
-S7.11 *Static load test II - proof load.*
+S7.11 *Static load test II—proof load.*
 
 S7.11.1 Perform the test procedures specified in S7.11.2 through S7.11.5 and determine compliance with S6.5.2.
 
@@ -546,7 +546,7 @@ S7.13.4 For a wheelchair retention device other than an outer barrier, place the
 
 S7.13.5 After maintaining the force for two minutes, remove it and examine the wheelchair retention device for separation, fracture or breakage.
 
-S7.14 *Static load test III - ultimate load.*
+S7.14 *Static load test III—ultimate load.*
 
 S7.14.1 Perform the test procedures as specified in S7.14.2 through S7.14.4 to determine compliance with S6.5.3.
 

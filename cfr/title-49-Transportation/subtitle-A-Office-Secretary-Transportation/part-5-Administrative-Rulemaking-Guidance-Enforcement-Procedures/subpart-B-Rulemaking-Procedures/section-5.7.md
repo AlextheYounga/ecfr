@@ -1,0 +1,19 @@
+##### § 5.7 Responsibilities. #####
+
+(a) The Secretary of Transportation supervises the overall planning, direction, and control of the Department's Regulatory Agenda; approves regulatory documents for issuance and submission to the Office of Management and Budget (OMB) under Executive Order (E.O.) 12866, “Regulatory Planning and Review” (Oct. 4, 1993); identifies an approximate regulatory budget for each fiscal year as required by E.O. 13771, “Reducing Regulation and Controlling Regulatory Costs” (Jan. 30, 2017); establishes the Department's Regulatory Reform Task Force (RRTF); and designates the members of the RRTF and the Department's Regulatory Reform Officer (RRO) in accordance with E.O. 13777, “Enforcing the Regulatory Reform Agenda” (Feb. 24, 2017).
+
+(b) The Deputy Secretary of Transportation assists the Secretary in overseeing overall planning, direction, and control of the Department's Regulatory Agenda and approves the initiation of regulatory action, as defined in E.O. 12866, by the OAs and components of OST. Unless otherwise designated by the Secretary, the Deputy Secretary serves as the Chair of the Leadership Council of the RRTF and as the Department's RRO.
+
+(c) The General Counsel of DOT is the chief legal officer of the Department with final authority on all questions of law for the Department, including the OAs and components of OST; serves on the Leadership Council of the RRTF; and serves as the Department's Regulatory Policy Officer pursuant to section 6(a)(2) of E.O. 12866.
+
+(d) The RRO of DOT is delegated authority by the Secretary to oversee the implementation of the Department's regulatory reform initiatives and policies to ensure the effective implementation of regulatory reforms, consistent with E.O. 13777 and applicable law.
+
+(e) DOT's noncareer Deputy General Counsel is a member of the RRTF and serves as the Chair of the RRTF Working Group.
+
+(f) DOT's Assistant General Counsel for Regulation supervises the Office of Regulation within the Office of the General Counsel (OGC); oversees the process for DOT rulemakings; provides legal advice on compliance with APA and other administrative law requirements and executive orders, related OMB directives, and other procedures for rulemaking and guidance documents; circulates regulatory documents for departmental review and seeks concurrence from reviewing officials; submits regulatory documents to the Secretary for approval before issuance or submission to OMB; coordinates with the Office of Information and Regulatory Affairs (OIRA) within OMB on the designation and review of regulatory documents and the preparation of the Unified Agenda of Regulatory and Deregulatory Actions; publishes the monthly internet report on significant rulemakings; and serves as a member of the RRTF Working Group.
+
+(g) Pursuant to delegations from the Secretary under part 1 of this title, OA Administrators and Secretarial officers exercise the Secretary's rulemaking authority under 49 U.S.C. 322(a), and they have responsibility for ensuring that the regulatory data included in the Regulatory Management System (RMS), or a successor data management system, for their OAs and OST components is accurate and is updated at least once a month.
+
+(h) OA Chief Counsels supervise the legal staffs of the OAs; interpret and provide guidance on all statutes, regulations, executive orders, and other legal requirements governing the operation and authorities of their respective OAs; and review all rulemaking documents for legal sufficiency.
+
+(i) Each OA or OST component responsible for rulemaking will have a Regulatory Quality Officer, designated by the Administrator or Secretarial office head, who will have responsibility for reviewing all rulemaking documents for plain language, technical soundness, and general quality.

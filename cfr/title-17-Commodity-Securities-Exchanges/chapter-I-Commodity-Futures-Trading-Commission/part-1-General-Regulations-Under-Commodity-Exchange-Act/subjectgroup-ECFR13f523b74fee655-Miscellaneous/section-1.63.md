@@ -1,5 +1,7 @@
 ##### § 1.63 Service on self-regulatory organization governing boards or committees by persons with disciplinary histories. #####
 
+Link to an amendment published at 85 FR 4850, Jan. 27, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Self-regulatory organization* means a “self-regulatory organization” as defined in § 1.3, and includes a “clearing organization” as defined in § 1.3, except as defined in paragraph (b)(6) of this section.

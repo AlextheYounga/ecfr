@@ -1,7 +1,5 @@
 ##### § 1.27 Delegations to the General Counsel. #####
 
-Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
-
 The General Counsel is delegated authority to:
 
 (a) Conduct all rulemaking proceedings under the Americans with Disabilities Act, the Disadvantaged Business Enterprise program, and the Uniform Time Act, as amended (15 U.S.C. 260 *et seq.*).
@@ -12,7 +10,7 @@ The General Counsel is delegated authority to:
 
 (d) Grant permission, under specific circumstances, to deviate from a policy or procedure prescribed by the regulations of the Office of the Secretary (49 CFR part 9) with respect to the testimony of OST employees as witnesses in legal proceedings, the serving of legal process and pleadings in legal proceedings involving the Secretary or his Office, and the production of records of that Office pursuant to subpoena.
 
-(e) Respond to petitions for rulemaking or petitions for exemptions in accordance with 49 CFR 5.13(c) (Processing of petitions), and notify petitioners of decisions in accordance with 49 CFR 5.13(d).
+(e) Respond to petitions for rulemaking or petitions for exemptions in accordance with 49 CFR 5.13(c)(2) (Processing of petitions), and notify petitioners of decisions in accordance with 49 CFR 5.13(c)(4)(v).
 
 (f) Provide counsel to employees on questions of conflict of interest covered by departmental regulations on employee responsibility and conduct.
 
@@ -53,3 +51,5 @@ The General Counsel is delegated authority to:
 (v) Approve the initiation of regulatory action, as defined in Executive Order 12866, by Secretarial offices and Operating Administrations in the event that the Deputy Secretary is absent or otherwise unavailable to exercise such authority (see § 1.23(h)).
 
 (w) Approve requests to reclassify rulemakings as non-significant under DOT procedures.
+
+[81 FR 19819, Apr. 5, 2016, as amended at 84 FR 71717, Dec. 27, 2019]

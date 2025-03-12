@@ -1,0 +1,3 @@
+##### § 5.47 Exigent circumstances. #####
+
+In emergency situations or when the issuing OA or component of OST is required by statutory deadline or court order to act more quickly than normal review procedures allow, the issuing OA or component of OST shall coordinate with OGC to notify OIRA as soon as possible and, to the extent practicable, shall comply with the requirements of this subpart at the earliest opportunity. Wherever practicable, the issuing OA or component of OST should schedule its proceedings to permit sufficient time to comply with the procedures set forth in this subpart.

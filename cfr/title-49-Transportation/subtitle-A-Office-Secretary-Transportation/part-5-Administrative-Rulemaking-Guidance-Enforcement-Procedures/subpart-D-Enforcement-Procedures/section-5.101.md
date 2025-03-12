@@ -1,0 +1,3 @@
+##### § 5.101 Coordination with the Office of Inspector General on criminal matters. #####
+
+All Department employees must comply with the operative DOT Order(s) addressing referrals of potential criminal matters to the Office of Inspector General (OIG), consistent with the respective roles of the OIG and DOT OAs and components of OST in criminal investigations and the OIG's investigative procedures under the Inspector General Act of 1978, as amended.

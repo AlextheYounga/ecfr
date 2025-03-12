@@ -1,5 +1,7 @@
 ##### § 39.17 Rule enforcement. #####
 
+Link to an amendment published at 85 FR 4858, Jan. 27, 2020.
+
 (a) *General.* Each derivatives clearing organization shall:
 
 (1) Maintain adequate arrangements and resources for the effective monitoring and enforcement of compliance with the rules of the derivatives clearing organization and the resolution of disputes;

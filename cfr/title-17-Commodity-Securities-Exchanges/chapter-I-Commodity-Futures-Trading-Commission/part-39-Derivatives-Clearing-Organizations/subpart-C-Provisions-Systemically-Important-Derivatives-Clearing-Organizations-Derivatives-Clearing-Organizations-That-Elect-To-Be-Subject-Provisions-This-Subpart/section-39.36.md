@@ -1,5 +1,7 @@
 ##### § 39.36 Risk management for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
+Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
+
 (a) *Stress tests of financial resources.* In addition to conducting stress tests pursuant to § 39.13(h)(3), each systemically important derivatives clearing organization and subpart C derivatives clearing organization shall conduct stress tests of its financial resources in accordance with the following standards and practices:
 
 (1) Perform, on a daily basis, stress testing of its financial resources using predetermined parameters and assumptions;

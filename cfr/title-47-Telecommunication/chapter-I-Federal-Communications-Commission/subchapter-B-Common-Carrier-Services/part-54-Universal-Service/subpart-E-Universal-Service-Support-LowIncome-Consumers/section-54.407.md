@@ -1,8 +1,6 @@
 ##### § 54.407 Reimbursement for offering Lifeline. #####
 
-Link to an amendment published at 84 FR 71328, Dec. 27, 2019.
-
-(a) Universal service support for providing Lifeline shall be provided directly to an eligible telecommunications carrier based on the number of actual qualifying low-income customers it serves directly as of the first day of the month. After the National Verifier is deployed in a state, reimbursement shall be provided to an eligible telecommunications carrier based on the number of actual qualifying low-income customers it serves directly as of the first day of the month found in the National Verifier.
+(a) Universal Service support for providing Lifeline shall be provided directly to an eligible telecommunications carrier based on the number of actual qualifying low-income customers listed in the National Lifeline Accountability Database that the eligible telecommunications carrier serves directly as of the first of the month. Eligible telecommunications carriers operating in a state that has provided the Commission with an approved valid certification pursuant to § 54.404(a) must comply with that state administrator's process for determining the number of subscribers to be claimed for each month, and in those states Universal Service support for providing Lifeline shall be provided directly to the eligible telecommunications carrier based on that number of actual qualifying low-income customers, according to the state administrator or other state agency's process.
 
 (b) For each qualifying low-income consumer receiving Lifeline service, the reimbursement amount shall equal the federal support amount, including the support amounts described in § 54.403(a) and (c). The eligible telecommunications carrier's universal service support reimbursement shall not exceed the carrier's rate for that offering, or similar offerings, subscribed to by consumers who do not qualify for Lifeline.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 84 FR 71328, Dec. 27, 2019.
 
 (e) In order to receive universal service support reimbursement, an eligible telecommunications carrier must keep accurate records of the revenues it forgoes in providing Lifeline services. Such records shall be kept in the form directed by the Administrator and provided to the Administrator at intervals as directed by the Administrator or as provided in this subpart.
 
-[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 80 FR 35577, June 22, 2015; 80 FR 40935, July 14, 2015; 81 FR 33091, May 24, 2016]
+[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 80 FR 35577, June 22, 2015; 80 FR 40935, July 14, 2015; 81 FR 33091, May 24, 2016; 84 FR 71328, Dec. 27, 2019]

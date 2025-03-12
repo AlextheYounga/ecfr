@@ -1,5 +1,7 @@
 ##### § 39.39 Recovery and wind-down for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
+Link to an amendment published at 85 FR 4862, Jan. 27, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *General business risk* means any potential impairment of a systemically important derivatives clearing organization's or subpart C derivatives clearing organization's financial position, as a business concern, as a consequence of a decline in its revenues or an increase in its expenses, such that expenses exceed revenues and result in a loss that the derivatives clearing organization must charge against capital.

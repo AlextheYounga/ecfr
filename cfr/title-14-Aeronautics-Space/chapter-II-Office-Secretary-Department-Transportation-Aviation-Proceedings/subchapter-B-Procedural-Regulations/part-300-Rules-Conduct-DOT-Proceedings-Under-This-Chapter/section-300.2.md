@@ -1,7 +1,5 @@
 ##### § 300.2 Prohibited communications. #####
 
-Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
-
 (a) *Basic requirement.* Except as provided in paragraphs (c), (d) and (e) there shall be no substantive communication in either direction between any concerned DOT employee and any interested person outside DOT, concerning a public proceeding, until after final disposition of the proceeding, other than as provided by Federal statute or published DOT rule or order.
 
 (b) *Definitions.* For purposes of this part:
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
 
 (i) A hearing proceeding (*i.e.*, proceeding conducted on-the record after notice and opportunity for an oral evidentiary hearing as provided in §§ 302.17-302.38)
 
-(ii) A rulemaking proceeding involving a hearing as described in paragraph (b)(4)(i) of this section or an exemption proceeding covered by this chapter. (Other rulemaking proceedings are covered by the ex parte communication policies of DOT Order 2100.2.)
+(ii) A rulemaking proceeding involving a hearing as described in paragraph (b)(4)(i) of this section or an exemption proceeding covered by this chapter. (Other rulemaking proceedings are covered by the ex parte communication policies of DOT Order 2100.6 and 49 CFR 5.19.)
 
 (iii) A tariff filing after DOT has ordered an investigation or a complaint has been filed or docketed.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
 
 (f) *Communications not considered.* A communication in violation of this section shall not be considered part of a record, or included as available material, for decision in any proceeding.
 
-[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended by Amdt. 300-7, 52 FR 18904, May 20, 1987; 60 FR 10312, Feb. 24, 1995; 60 FR 43528, Aug. 22, 1995; 60 FR 43528, Aug. 22, 1995; 65 FR 6456, Feb. 9, 2000; Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019]
+[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended by Amdt. 300-7, 52 FR 18904, May 20, 1987; 60 FR 10312, Feb. 24, 1995; 60 FR 43528, Aug. 22, 1995; 60 FR 43528, Aug. 22, 1995; 65 FR 6456, Feb. 9, 2000; Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019; 84 FR 71717, Dec. 27, 2019]

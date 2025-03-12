@@ -1,0 +1,3 @@
+##### § 5.69 Fair notice. #####
+
+Notice to the regulated party is a due process requirement. All documents initiating an enforcement action shall ensure notice reasonably calculated to inform the regulated party of the nature and basis for the action being taken to allow an opportunity to challenge the action and to avoid unfair surprise. The notice should include legal authorities, statutes or regulations allegedly violated, basic issues, key facts alleged, a clear statement of the grounds for the agency's action, and a reference to or recitation of the procedural rights available to the party to challenge the agency action, including appropriate procedure for seeking administrative and judicial review.

@@ -1,7 +1,5 @@
 ##### § 54.202 Additional requirements for Commission designation of eligible telecommunications carriers. #####
 
-Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
-
 (a) In order to be designated an eligible telecommunications carrier under section 214(e)(6), any common carrier in its application must:
 
 (1)(i) Certify that it will comply with the service requirements applicable to the support that it receives.
@@ -22,14 +20,4 @@ Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
 
 (c) A common carrier seeking designation as an eligible telecommunications carrier under section 214(e)(6) for any part of Tribal lands shall provide a copy of its petition to the affected tribal government and tribal regulatory authority, as applicable, at the time it files its petition with the Federal Communications Commission. In addition, the Commission shall send any public notice seeking comment on any petition for designation as an eligible telecommunications carrier on Tribal lands, at the time it is released, to the affected tribal government and tribal regulatory authority, as applicable, by the most expeditious means available.
 
-(d) A common carrier seeking designation as a Lifeline Broadband Provider eligible telecommunications carrier must meet the requirements of paragraph (a) of this section. The Commission shall process such petitions for designation as follows:
-
-(1) If the petitioning common carrier has offered broadband Internet access service to the public for at least two years before the date of the filing and serves at least 1,000 non-Lifeline customers with voice telephony and/or broadband Internet access service as of the date of the filing, the common carrier's petition for designation as a Lifeline Broadband Provider eligible telecommunications carrier shall be deemed granted within 60 days of the submission of a completed filing unless the Commission notifies the common carrier that the grant will not be automatically effective.
-
-(2) If the petitioning common carrier provides service on Tribal lands and is a facilities-based provider more than 50 percent owned by one or more federally recognized Tribal Nations or Tribal consortia and actually controlled by one or more federally recognized Tribal Nations or Tribal consortia, the common carrier's petition for designation as a Lifeline Broadband Provider eligible telecommunications carrier shall be deemed granted within 60 days of the submission of a completed filing unless the Commission notifies the common carrier that the grant will not be automatically effective.
-
-(3) If the petitioning common carrier does not qualify under paragraph (d)(1) or (2) of this section, the common carrier's petition for designation as a Lifeline Broadband Provider eligible telecommunications carrier shall be acted upon within six months of the submission of a completed filing.
-
-(e) A provider designated as a Lifeline Broadband Provider (LBP) may obtain designation as an LBP in additional service areas by submitting to the Commission a request identifying the service areas in which the LBP plans to offer Lifeline-supported service and a certification that there has been no material change to the information submitted in the petition for which the LBP received designation as an LBP. Such a request shall be deemed granted five business days after it is submitted to the Commission, unless the Commission notifies the applicant that the grant will not be automatically effective.
-
-[77 FR 12966, Mar. 2, 2012, as amended at 81 FR 33089, May 24, 2016]
+[77 FR 12966, Mar. 2, 2012, as amended at 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019]

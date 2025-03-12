@@ -1,6 +1,6 @@
 ##### § 3.10 Minimum capital requirements. #####
 
-Link to an amendment published at 85 FR 4401, Jan. 24, 2020.
+Link to an amendment published at 85 FR 4401, Jan. 24, 2020.Link to an amendment published at 85 FR 4577, Jan. 27, 2020.
 
 (a) *Minimum capital requirements.* (1) A national bank or Federal savings association must maintain the following minimum capital ratios:
 

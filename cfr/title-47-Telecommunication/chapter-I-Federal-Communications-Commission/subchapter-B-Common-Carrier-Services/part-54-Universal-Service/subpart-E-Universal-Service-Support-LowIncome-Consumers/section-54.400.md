@@ -1,7 +1,5 @@
 ##### 54.400 Terms and definitions. #####
 
-Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
-
 As used in this subpart, the following terms shall be defined as follows:
 
 (a) *Qualifying low-income consumer.* A “qualifying low-income consumer” is a consumer who meets the qualifications for Lifeline, as specified in § 54.409.
@@ -34,4 +32,6 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (o) *National Lifeline Eligibility Verifier.* The “National Lifeline Eligibility Verifier” or “National Verifier” is an electronic and manual system with associated functions, processes, policies and procedures, to facilitate the determination of consumer eligibility for the Lifeline program, as directed by the Commission.
 
-[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016]
+(p) *Enrollment representatives.* An employee, agent, contractor, or subcontractor, acting on behalf of an eligible telecommunications carrier or third-party entity, who directly or indirectly provides information to the Universal Service Administrative Company or a state entity administering the Lifeline Program for the purpose of eligibility verification, enrollment, recertification, subscriber personal information updates, benefit transfers, or de-enrollment.
+
+[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019]

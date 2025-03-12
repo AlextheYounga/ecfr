@@ -1,8 +1,6 @@
 ##### § 106.40 Direct final rule. #####
 
-Link to an amendment published at 84 FR 71733, Dec. 27, 2019.
-
-A direct final rule makes regulatory changes and states that the regulatory changes will take effect on a specified date unless PHMSA receives an adverse comment or notice of intent to file an adverse comment within the comment period - generally 60 days after the direct final rule is published in the Federal Register.
+A direct final rule makes regulatory changes and states that the regulatory changes will take effect on a specified date unless PHMSA receives an adverse comment within the comment period - generally 60 days after the direct final rule is published in the Federal Register.
 
 (a) *Actions taken by direct final rule.* We may use direct final rulemaking procedures to issue rules that do any of the following:
 
@@ -20,10 +18,12 @@ A direct final rule makes regulatory changes and states that the regulatory chan
 
 (2) A frivolous or irrelevant comment.
 
-(c) *Confirmation of effective date.* We will publish a confirmation document in the Federal Register, generally within 15 days after the comment period closes, if we have not received an adverse comment or notice of intent to file an adverse comment. The confirmation document tells the public the effective date of the rule - either the date stated in the direct final rule or at least 30 days after the publication date of the confirmation document, whichever is later.
+(c) *Confirmation of effective date.* We will publish a confirmation document in the Federal Register, generally within 15 days after the comment period closes, if we have not received an adverse comment. The confirmation document tells the public the effective date of the rule - either the date stated in the direct final rule or at least 30 days after the publication date of the confirmation document, whichever is later.
 
-(d) *Withdrawing a direct final rule.* (1) If we receive an adverse comment or notice of intent to file an adverse comment, we will publish a document in the Federal Register before the effective date of the direct final rule advising the public and withdrawing the direct final rule in whole or in part.
+(d) *Withdrawing a direct final rule.* (1) If we receive an adverse comment, we will either publish a document withdrawing the direct final rule before it becomes effective and may issue an NPRM, or proceed by any other means permitted under the Administrative Procedure Act, consistent with procedures at 49 CFR 5.13(l).
 
 (2) If we withdraw a direct final rule because of an adverse comment, we may incorporate the adverse comment into a later direct final rule or may publish a notice of proposed rulemaking.
 
 (e) *Appeal.* You may appeal PHMSA's issuance of a direct final rule (see § 106.115) only if you have previously filed written comments (see § 106.60) to the direct final rule.
+
+[67 FR 42954, June 25, 2002, as amended 84 FR 71733, Dec. 27, 2019]

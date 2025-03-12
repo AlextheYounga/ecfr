@@ -10,7 +10,7 @@ Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
 
 (2) If the Database indicates that a prospective subscriber, who is not seeking to port his or her telephone number, is currently receiving a Lifeline service, the eligible telecommunications carrier must not provide and shall not seek or receive Lifeline reimbursement for that subscriber.
 
-(3) If the Database indicates that another individual at the prospective subscriber's residential address is currently receiving a Lifeline service, the eligible telecommunications carrier must not seek and will not receive Lifeline reimbursement for providing service to that prospective subscriber, unless the prospective subscriber has certified, pursuant to § 54.410(d) that to the best of his or her knowledge, no one in his or her household is already receiving a Lifeline service.
+(3) If the Database indicates that another individual at the prospective subscriber's residential address is currently receiving a Lifeline service, the eligible telecommunications carrier must not seek and will not receive Lifeline reimbursement for providing service to that prospective subscriber, unless the prospective subscriber has certified, pursuant to § 54.410(d), that to the best of his or her knowledge, no one in his or her household is already receiving a Lifeline service. This certification may be collected by the eligible telecommunications carrier prior to initial enrollment, but the certification shall not be recorded in the Database unless the eligible telecommunications carrier receives a notification from the Database or state administrator that another Lifeline subscriber resides at the same address as the prospective subscriber.
 
 (4) An eligible telecommunications carrier is not required to comply with paragraphs (b)(1) through (3) of this section if it receives notice from a state Lifeline administrator or other state agency that the administrator or other agency has queried the Database about a prospective subscriber and that providing the prospective subscriber with a Lifeline benefit would not result in duplicative support.
 
@@ -40,4 +40,4 @@ Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
 
 (5) All eligible telecommunications carriers must obtain, from each new and existing subscriber, consent to transmit the information required in paragraph (c) of this section. Prior to obtaining consent, the eligible telecommunications carrier must describe to the subscriber, using clear, easily understood language, the specific information being transmitted, that the information is being transmitted to the Administrator to ensure the proper administration of the Link Up program, and that failure to provide consent will result in the subscriber being denied the Link Up benefit.
 
-[77 FR 12968, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015]
+[77 FR 12968, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 84 FR 71327, Dec. 27, 2019]

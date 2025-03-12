@@ -1,0 +1,3 @@
+##### § 5.75 Formal enforcement adjudications. #####
+
+When a case is referred by the decision maker to the Office of Hearings or another designated hearing officer for formal adjudication (an “on the record” hearing), the assigned ALJ or hearing officer should use trial-type procedures consistent with applicable legal provisions. In formal adjudication, the APA requires findings and reasons on all material issues of fact, law, or discretion (policy). In all formal adjudications, the responsible OA or component of OST shall adhere faithfully and consistently to the procedures established in the relevant procedural regulations. Agency counsel engaged in formal adjudications on behalf of DOT are accountable for compliance with the requirements of this subpart.

@@ -1,5 +1,7 @@
 ##### § 39.10 Compliance with core principles. #####
 
+Link to an amendment published at 85 FR 4852, Jan. 27, 2020.
+
 (a) To be registered and to maintain registration as a derivatives clearing organization, a derivatives clearing organization shall comply with each core principle set forth in section 5b(c)(2) of the Act and any requirement that the Commission may impose by rule or regulation pursuant to section 8a(5) of the Act; and
 
 (b) Subject to any rule or regulation prescribed by the Commission, a registered derivatives clearing organization shall have reasonable discretion in establishing the manner by which it complies with each core principle.
