@@ -1,5 +1,7 @@
 ##### § 177.848 Segregation of hazardous materials. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) This section applies to materials which meet one or more of the hazard classes defined in this subchapter and are:
 
 (1) In packages that must be labeled or placarded in accordance with part 172 of this subchapter;

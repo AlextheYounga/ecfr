@@ -1,5 +1,7 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
+Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
+
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.

@@ -1,5 +1,7 @@
 ##### § 177.835 Class 1 materials. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (See also § 177.834 (a) to (j).)
 
 (a) *Engine stopped.* No Class 1 (explosive) materials may be loaded into or on or be unloaded from any motor vehicle with the engine running, except that the engine of a multipurpose bulk truck (see paragraph (d) of this section) and the engine of a cargo tank motor vehicle transporting a single bulk hazardous material for blasting may be used for the operation of the pumping equipment of the vehicle during loading or unloading.

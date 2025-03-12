@@ -1,5 +1,7 @@
 ##### § 171.7 Reference material. #####
 
+Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
+
 (a) Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at PHMSA and at the National Archives and Records Administration (NARA). Contact PHMSA at: The Office of Hazardous Materials Safety, Office of Hazardous Materials Standards, East Building, PHH-10, 1200 New Jersey Avenue SE, Washington, DC 20590-0001. For information on the availability of this material at PHH-10, call 1-800-467-4922, or go to: *www.phmsa.dot.gov.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the source(s) in the following paragraph(s) of this section.
 
 (b) *Air Transport Association of America,* 1301 Pennsylvania Avenue NW., Washington, DC 20004-1707.

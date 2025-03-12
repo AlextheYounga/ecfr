@@ -1,5 +1,7 @@
 ##### § 180.507 Qualification of tank cars. #####
 
+Link to an amendment published at 87 FR 79785, Dec. 27, 2022.
+
 (a) Each tank car marked as meeting a “DOT” specification or any other tank car used for the transportation of a hazardous material must meet the requirements of this subchapter or the applicable specification to which the tank was constructed.
 
 (b) *Tank car specifications no longer authorized for construction.* (1) Tank cars prescribed in the following table are authorized for service provided they conform to all applicable safety requirements of this subchapter:

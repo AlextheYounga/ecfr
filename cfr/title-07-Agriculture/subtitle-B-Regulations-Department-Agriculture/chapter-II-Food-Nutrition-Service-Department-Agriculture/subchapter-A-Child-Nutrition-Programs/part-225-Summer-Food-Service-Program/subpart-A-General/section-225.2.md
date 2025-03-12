@@ -40,21 +40,21 @@
 
 *Documentation* means:
 
-(a) The completion of the following information on a free meal application:
+(1) The completion of the following information on a free meal application:
 
-(1)(i) Names of all household members;
+(i) Names of all household members;
 
 (ii) Income received by each household member, identified by source of income (such as earnings, wages, welfare, pensions, support payments, unemployment compensation, social security and other cash income);
 
 (iii) The signature of an adult household member; and
 
-(iv) The last four digits of the social security number of the adult household member who signs the application, or an indication that the adult does not possess a social security number; or
+(iv) The last four digits of the Social Security number of the adult household member who signs the application, or an indication that the adult does not possess a Social Security number; or
 
-(b) For a child who is a member of a household receiving SNAP, FDPIR, or TANF benefits, “documentation” means completion of only the following information on a free meal application:
+(2) For a child who is a member of a household receiving SNAP, FDPIR, or TANF benefits, “documentation” means completion of only the following information on a free meal application:
 
-(2)(i) The name(s) and appropriate SNAP, FDPIR, or TANF case number(s) for the child(ren); and
+(i) The name(s) and appropriate SNAP, FDPIR, or TANF case number(s) for the child(ren); and
 
-(ii) the signature of an adult member of the household.
+(ii) The signature of an adult member of the household.
 
 *Excess funds* means the difference between any advance funding and reimbursement funding, when advance funds received by a sponsor are greater than the reimbursement amount earned by a sponsor.
 
@@ -188,4 +188,4 @@
 
 *Yogurt* means commercially prepared coagulated milk products obtained by the fermentation of specific bacteria, that meet milk fat or milk solid requirements and to which flavoring foods or ingredients may be added. These products are covered by the Food and Drug Administration's Standard of Identity for yogurt, lowfat yogurt, and nonfat yogurt, (21 CFR 131.200), (21 CFR 131.203), (21 CFR 131.206), respectively.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022]

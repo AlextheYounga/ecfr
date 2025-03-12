@@ -1,5 +1,7 @@
 ##### § 172.512 Freight containers and aircraft unit load devices. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 (a) *Capacity of 640 cubic feet or more.* Each person who offers for transportation, and each person who loads and transports, a hazardous material in a freight container or aircraft unit load device having a capacity of 640 cubic feet or more shall affix to the freight container or aircraft unit load device the placards specified for the material in accordance with § 172.504. However:
 
 (1) The placarding exception provided in § 172.504(c) applies to motor vehicles transporting freight containers and aircraft unit load devices,

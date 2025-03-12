@@ -1,5 +1,7 @@
 ##### § 172.332 Identification number markings. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) *General.* When required by § 172.301, § 172.302, § 172.313, § 172.326, § 172.328, § 172.330, or § 172.331, identification number markings must be displayed on orange panels or placards as specified in this section, or on white square-on-point configurations as prescribed in § 172.336(b).
 
 (b) *Orange panels.* Display of an identification number on an orange panel shall be in conformance with the following:

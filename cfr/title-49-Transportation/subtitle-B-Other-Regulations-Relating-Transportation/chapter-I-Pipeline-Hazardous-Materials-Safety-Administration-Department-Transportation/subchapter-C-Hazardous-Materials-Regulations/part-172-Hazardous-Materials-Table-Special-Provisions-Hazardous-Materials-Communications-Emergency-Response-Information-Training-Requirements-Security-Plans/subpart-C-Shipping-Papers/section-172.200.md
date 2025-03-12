@@ -1,5 +1,7 @@
 ##### § 172.200 Applicability. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) *Description of hazardous materials required.* Except as otherwise provided in this subpart, each person who offers a hazardous material for transportation shall describe the hazardous material on the shipping paper in the manner required by this subpart.
 
 (b) This subpart does not apply to any material, other than a hazardous substance, hazardous waste or marine pollutant, that is -

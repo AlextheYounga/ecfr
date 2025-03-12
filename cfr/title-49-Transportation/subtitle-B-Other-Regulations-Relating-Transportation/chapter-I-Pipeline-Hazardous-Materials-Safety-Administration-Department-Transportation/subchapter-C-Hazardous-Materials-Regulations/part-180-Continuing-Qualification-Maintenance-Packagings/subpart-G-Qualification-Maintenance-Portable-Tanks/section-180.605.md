@@ -1,5 +1,7 @@
 ##### § 180.605 Requirements for periodic testing, inspection and repair of portable tanks. #####
 
+Link to an amendment published at 87 FR 79785, Dec. 27, 2022.
+
 (a) A portable tank constructed in accordance with a DOT specification for which a test or inspection specified in this subpart has become due, must be tested or inspected prior to being returned for transportation.
 
 (b) *Conditions requiring test and inspection of portable tanks.* Without regard to any other test or inspection requirements, a Specification or UN portable tank must be tested and inspected in accordance with this section prior to further use if any of the following conditions exist:

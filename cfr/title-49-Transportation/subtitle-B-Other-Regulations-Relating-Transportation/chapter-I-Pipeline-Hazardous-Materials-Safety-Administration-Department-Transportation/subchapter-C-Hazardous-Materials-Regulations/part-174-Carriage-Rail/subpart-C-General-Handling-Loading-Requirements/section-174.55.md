@@ -1,5 +1,7 @@
 ##### § 174.55 General requirements. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Each package containing a hazardous material being transported by rail in a freight container or transport vehicle must be loaded so that it cannot fall or slide and must be safeguarded in such a manner that other freight cannot fall onto or slide into it under conditions normally incident to transportation. When this protection cannot be provided by using other freight, it must be provided by blocking and bracing. For examples of blocking and bracing in freight containers and transport vehicles, see Bureau of Explosives Pamphlet No. 6 and the Intermodal Loading Guide for Products in Closed Trailers and Containers (IBR, see § 171.7 of this subchapter).
 
 (b) Each package containing a hazardous material bearing package orientation markings prescribed in § 172.312 of this subchapter must be loaded within a transport vehicle or freight container to remain in the correct position indicated by those markings during transportation.

@@ -1,5 +1,7 @@
 ##### § 177.842 Class 7 (radioactive) material. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) The number of packages of Class 7 (radioactive) materials in any transport vehicle or in any single group in any storage location must be limited so that the total transport index number does not exceed 50. The total transport index of a group of packages and overpacks is determined by adding together the transport index number on the labels on the individual packages and overpacks in the group. This provision does not apply to exclusive use shipments described in §§ 173.441(b), 173.457, and 173.427 of this subchapter.
 
 (b) Packages of Class 7 (radioactive) material bearing “RADIOACTIVE YELLOW-II” or “RADIOACTIVE YELLOW-III” labels may not be placed in a transport vehicle, storage location or in any other place closer than the distances shown in the following table to any area which may be continuously occupied by any passenger, employee, or animal, nor closer than the distances shown in the table to any package containing undeveloped film (if so marked), and must conform to the following conditions:

@@ -1,5 +1,7 @@
 ##### § 175.9 Special aircraft operations. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) This subchapter applies to rotorcraft external load operations transporting hazardous material on board, attached to, or suspended from an aircraft. Operators must have all applicable requirements prescribed in 14 CFR part 133 approved by the FAA Administrator prior to accepting or transporting hazardous material. In addition, rotorcraft external load operations must be approved by the Associate Administrator prior to the initiation of such operations.
 
 (b) *Exceptions.* This subchapter does not apply to the following materials used for special aircraft operations when applicable FAA operator requirements have been met, including training operator personnel on the proper handling and stowage of the hazardous materials carried:

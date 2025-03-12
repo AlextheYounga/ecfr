@@ -1,5 +1,7 @@
 ##### § 174.101 Loading Class 1 (explosive) materials. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Boxes containing Division 1.1 or 1.2 (explosive) materials must be loaded so that the ends of wooden boxes will not bear against sides of any fiberboard boxes and so that the ends of any box will not cause a pressure point on a small area of another box.
 
 (b) Explosive bombs, unfuzed projectiles, rocket ammunition and rocket motors, Division 1.1, 1.2, or 1.3 (explosive) materials, which are not packed in wooden boxes, or large metal packages of incendiary bombs, each weighing 226 kg (500 pounds) or more, may be loaded in stock cars or in flat bottom gondola cars only if they are adequately braced. Boxed bombs, rocket ammunition and rocket motors, Division 1.1, 1.2, or 1.3 (explosive) materials, which due to their size cannot be loaded in closed cars, may be loaded in open-top cars or on flatcars, provided they are protected from the weather and accidental ignition.

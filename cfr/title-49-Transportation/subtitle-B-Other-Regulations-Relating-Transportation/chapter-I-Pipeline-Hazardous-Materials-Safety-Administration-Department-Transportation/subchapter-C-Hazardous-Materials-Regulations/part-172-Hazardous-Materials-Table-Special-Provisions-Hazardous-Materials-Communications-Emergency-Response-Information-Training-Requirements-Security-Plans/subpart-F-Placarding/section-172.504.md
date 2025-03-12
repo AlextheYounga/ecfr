@@ -1,5 +1,7 @@
 ##### § 172.504 General placarding requirements. #####
 
+Link to an amendment published at 87 FR 79773, Dec. 27, 2022.
+
 (a) *General.* Except as otherwise provided in this subchapter, each bulk packaging, freight container, unit load device, transport vehicle or rail car containing any quantity of a hazardous material must be placarded on each side and each end with the type of placards specified in tables 1 and 2 of this section and in accordance with other placarding requirements of this subpart, including the specifications for the placards named in the tables and described in detail in §§ 172.519 through 172.560.
 
 (b) *DANGEROUS placard.* A freight container, unit load device, transport vehicle, or rail car which contains non-bulk packages with two or more categories of hazardous materials that require different placards specified in table 2 of paragraph (e) of this section may be placarded with a DANGEROUS placard instead of the separate placarding specified for each of the materials in table 2 of paragraph (e) of this section. However, when 1,000 kg (2,205 pounds) aggregate gross weight or more of one category of material is loaded therein at one loading facility on a freight container, unit load device, transport vehicle, or rail car, the placard specified in table 2 of paragraph (e) of this section for that category must be applied.

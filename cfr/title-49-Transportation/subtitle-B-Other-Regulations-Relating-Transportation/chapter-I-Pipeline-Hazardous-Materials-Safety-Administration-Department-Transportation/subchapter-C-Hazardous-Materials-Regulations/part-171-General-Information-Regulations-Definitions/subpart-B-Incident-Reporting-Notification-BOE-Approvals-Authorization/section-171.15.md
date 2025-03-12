@@ -1,5 +1,7 @@
 ##### § 171.15 Immediate notice of certain hazardous materials incidents. #####
 
+Link to an amendment published at 87 FR 79766, Dec. 27, 2022.
+
 (a) *General.* As soon as practical but no later than 12 hours after the occurrence of any incident described in paragraph (b) of this section, each person in physical possession of the hazardous material must provide notice by telephone to the National Response Center (NRC) on 800-424-8802 (toll free) or 202-267-2675 (toll call) or online at *http://www.nrc.uscg.mil.* Each notice must include the following information:
 
 (1) Name of reporter;

@@ -1,5 +1,7 @@
 ##### § 174.112 Loading Division 1.3 materials and Division 1.2 (explosive) materials (Also see § 174.101). #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Division 1.3 materials and Division 1.2 (explosive) materials may not be loaded, transported or stored in a rail car equipped with any type of lighted heater or open-flame device, or in a rail car equipped with any apparatus or mechanism utilizing an internal combustion engine in its operation.
 
 (b) Except as provided in § 174.101(b), (n), or (o) Division 1.3 materials and Division 1.2 (explosive) materials must be transported in a closed car or container car which is in good condition, and into which sparks cannot enter. The car does not require the car certificates prescribed in § 174.104(c) through (f). If the doors are not tight, they must be stripped to prevent the entrance of sparks. Wood floored cars must be equipped with spark shields (see § 174.104). Packages of Division 1.3 materials and Division 1.2 (explosive) materials must be blocked and braced to prevent their shifting and possible damage due to shifting of other freight during transportation. For recommended methods of blocking and bracing see Bureau of Explosives Pamphlet No. 6.

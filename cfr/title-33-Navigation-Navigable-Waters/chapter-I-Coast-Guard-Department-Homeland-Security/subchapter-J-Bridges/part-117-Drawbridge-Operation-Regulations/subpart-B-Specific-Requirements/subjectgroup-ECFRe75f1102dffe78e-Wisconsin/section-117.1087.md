@@ -1,5 +1,7 @@
 ##### § 117.1087 Fox River. #####
 
+Link to an amendment published at 87 FR 79257, Dec. 27, 2022.
+
 (a) The draws of the Canadian National Bridge, mile 1.03, Main Street Bridge, mile 1.58, Walnut Street Bridge, mile 1.81, Mason Street (Tilleman Memorial) Bridge, mile 2.27, and Canadian National Bridge, mile 3.31, all at Green Bay, shall open as follows:
 
 (1) From April 1 through November 30, the draws shall open on signal for recreational vessels; except the draws need not open from 7 a.m. to 8 a.m., 12 noon to 1 p.m., and 4 p.m. to 5 p.m., Monday through Saturday except Federal holidays. Public vessels, tugs, and commercial vessels with a cargo capacity of 300 short tons or greater shall be passed at all times.

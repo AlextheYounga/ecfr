@@ -1,5 +1,7 @@
 ##### § 173.6 Materials of trade exceptions. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 When transported by motor vehicle in conformance with this section, a material of trade (see § 171.8 of this subchapter) is not subject to any other requirements of this subchapter besides those set forth or referenced in this section.
 
 (a) *Materials and amounts.* A material of trade is limited to the following:

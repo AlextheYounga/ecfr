@@ -1,4 +1,4 @@
-##### § 91.1613 Special Federal Aviation Regulation No. 107 - Prohibition Against Certain Flights in the Territory and Airspace of Somalia. #####
+##### § 91.1613 Special Federal Aviation Regulation No. 107—Prohibition Against Certain Flights in the Territory and Airspace of Somalia. #####
 
 (a) *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
 
@@ -12,12 +12,30 @@
 
 (c) *Permitted operations.* This section does not prohibit persons described in paragraph (a) of this section from conducting flight operations in the territory and airspace of Somalia under the following circumstances:
 
-(1) Overflights of Somalia may be conducted at or above FL260 subject to the approval of, and in accordance with the conditions established by, the appropriate authorities of Somalia.
+(1) Overflights of Somalia may be conducted at altitudes at or above FL260 subject to the approval of, and in accordance with the conditions established by, the appropriate authorities of Somalia.
 
-(2) Flight operations may be conducted in the territory and airspace of Somalia at altitudes below FL260 if such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. Government (or under a subcontract between the prime contractor of the U.S. Government department, agency, or instrumentality and the person described in paragraph (a) of this section) with the approval of the FAA or under an exemption issued by the FAA. The FAA will consider requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. Government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. government department, agency, or instrumentality; and third, for all other operations.
+(2) Aircraft departing from Djibouti Ambouli International Airport (International Civil Aviation Organization (ICAO) code: HDAM) may operate overwater in the territory and airspace of Somalia at altitudes below FL260 only to the extent necessary to permit a climb during takeoff if the operator of that aircraft:
+
+(i) Receives any necessary approval from the appropriate authorities of Djibouti;
+
+(ii) Conducts operations that comply with applicable conditions established by the appropriate authorities of Djibouti and air traffic control instructions; and
+
+(iii) Is either on a published instrument procedure or under the direction of air traffic control.
+
+(3) Aircraft descending into Djibouti Ambouli International Airport (HDAM) may operate overwater at altitudes below FL260 in the territory and airspace of Somalia only to the extent necessary to permit descent for landing at Djibouti Ambouli International Airport (HDAM), if the operator of that aircraft:
+
+(i) Receives any necessary approval from the appropriate authorities of Djibouti;
+
+(ii) Conducts operations that comply with applicable conditions established by the appropriate authorities of Djibouti and air traffic control instructions; and
+
+(iii) Is either on a published instrument procedure or under the direction of air traffic control.
+
+(4) Flight operations may be conducted in the territory and airspace of Somalia at altitudes below FL260 if such flight operations are conducted under a contract, grant, or cooperative agreement with a department, agency, or instrumentality of the U.S. Government (or under a subcontract between the prime contractor of the U.S. Government department, agency, or instrumentality and the person described in paragraph (a) of this section) with the approval of the FAA or under an exemption issued by the FAA. The FAA will consider requests for approval or exemption in a timely manner, with the order of preference being: First, for those operations in support of U.S. Government-sponsored activities; second, for those operations in support of government-sponsored activities of a foreign country with the support of a U.S. Government department, agency, or instrumentality; and third, for all other operations.
 
 (d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
 
-(e) *Expiration.* This SFAR will remain in effect until January 7, 2023. The FAA may amend, rescind, or extend this SFAR as necessary.
+(e) *Expiration.* This SFAR will remain in effect until January 7, 2027. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-[Docket FAA-2007-27602, Amdt.91-339, 81 FR 726, Jan. 7, 2016, as amended by Amdt. 91-339A, 82 FR 58550, Dec. 13, 2017; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9172, Mar. 5, 2018; Amdt. 91-339B, 84 FR 67671, Dec. 11, 2019]
+Issued in Washington, DC, under the authority of 49 U.S.C. 106(f) and (g), 40101(d)(1), 40105(b)(1)(A), and 44701(a)(5).
+
+[Docket FAA-2007-27602, Amdt.91-339, 81 FR 726, Jan. 7, 2016, as amended by Amdt. 91-339A, 82 FR 58550, Dec. 13, 2017; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9172, Mar. 5, 2018; Amdt. 91-339B, 84 FR 67671, Dec. 11, 2019; Docket No. FAA-2007-27602; Amdt. No. 91-339C, 87 FR 79245, Dec. 27, 2022]

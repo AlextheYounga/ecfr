@@ -1,5 +1,7 @@
 ##### § 177.837 Class 3 materials. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (See also § 177.834 (a) to (j).)
 
 (a) *Engine stopped.* Unless the engine of a cargo tank motor vehicle is to be used for the operation of a pump, Class 3 material may not be loaded into, or on, or unloaded from any cargo tank motor vehicle while the engine is running. The diesel engine of a cargo tank motor vehicle may be left running during the loading and unloading of a Class 3 material if the ambient atmospheric temperature is at or below −12 °C (10 °F).

@@ -1,5 +1,7 @@
 ##### § 174.67 Tank car unloading. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 For transloading operations, the following rules must be observed:
 
 (a) *General requirements.* (1) Unloading operations must be performed by hazmat employees properly instructed in unloading hazardous materials and made responsible for compliance with this section.

@@ -1,7 +1,5 @@
 ##### § 25.208 Power flux-density limits. #####
 
-Link to an amendment published at 87 FR 72406, Nov. 25, 2022.
-
 (a) In the band 3650-4200 MHz, the power flux density at the Earth's surface produced by emissions from a space station for all conditions and for all methods of modulation shall not exceed the following values:
 
 −152 dB(W/m2) in any 4 kHz band for angles of arrival between 0 and 5 degrees above the horizontal plane;−152 + (δ−5)/2 dB(W/m2) in any 4 kHz band for angles of arrival δ (in degrees) between 5 and 25 degrees above the horizontal plane; and−142 dB(W/m2) in any 4 kHz band for angles of arrival between 25 and 90 degrees above the horizontal planeThese limits relate to the power flux density which would be obtained under assumed free-space propagation conditions.
@@ -30,7 +28,7 @@ These limits relate to the power flux density, which would be obtained under ass
 
 (n) The power-flux density at the Earth's surface produced by emissions from a space station in the Fixed-Satellite Service (space-to-Earth), for all conditions and for all methods of modulation, shall not exceed the limits given in Table N. These limits relate to the power flux-density which would be obtained under assumed free-space conditions.
 
-Table N - Limits of Power-Flux Density From Space Stations in the Band 6700-7075 MHz
+Table N—Limits of Power-Flux Density From Space Stations in the Band 6700-7075 MHz
 
 |Frequency band|Limit in dB (W/m<sup>2</sup>) for angle of arrival (δ) above the horizontal plane|   Reference bandwidth   |              |      |
 |--------------|---------------------------------------------------------------------------------|-------------------------|--------------|------|
@@ -155,18 +153,6 @@ These limits relate to the power flux-density that would be obtained under assum
 
 −113 dB (W/m^2) in 1 MHz and for all angles of arrival between 25 and 90 degrees above the horizontal plane.
 
-(w) The power flux density at the Earth's surface produced by emissions from a 17/24 GHz BSS space station operating in the 17.3-17.7 GHz band for all conditions and all methods of modulation must not exceed the regional power flux density levels prescribed in paragraphs (w)(1) through (4) of this section.
-
-(1) In the region of the contiguous United States, located south of 38° North Latitude and east of 100 West Longitude: −115 dBW/m2/MHz.
-
-(2) In the region of the contiguous United States, located north of 38° North Latitude and east of 100° West Longitude: −118 dBW/m2/MHz.
-
-(3) In the region of the contiguous United States, located west of 100 West Longitude: −121 dBW/m2/MHz.
-
-(4) For all regions outside of the contiguous United States including Alaska and Hawaii: −115 dBW/m2/MHz.
-
-Note to paragraph (w):
-
-These limits pertain to the power flux-density that would be obtained under assumed free-space propagation conditions.
+(w) [Reserved]
 
 [48 FR 40255, Sept. 6, 1983]Editorial Note:For Federal Register citations affecting § 25.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

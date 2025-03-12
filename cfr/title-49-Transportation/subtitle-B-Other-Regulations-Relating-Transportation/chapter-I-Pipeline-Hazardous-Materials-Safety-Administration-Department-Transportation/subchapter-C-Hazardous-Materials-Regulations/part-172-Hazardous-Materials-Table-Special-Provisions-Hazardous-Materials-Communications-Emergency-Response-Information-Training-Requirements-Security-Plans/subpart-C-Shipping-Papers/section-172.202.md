@@ -1,5 +1,7 @@
 ##### § 172.202 Description of hazardous material on shipping papers. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) The shipping description of a hazardous material on the shipping paper must include:
 
 (1) The identification number prescribed for the material as shown in Column (4) of the § 172.101 table;

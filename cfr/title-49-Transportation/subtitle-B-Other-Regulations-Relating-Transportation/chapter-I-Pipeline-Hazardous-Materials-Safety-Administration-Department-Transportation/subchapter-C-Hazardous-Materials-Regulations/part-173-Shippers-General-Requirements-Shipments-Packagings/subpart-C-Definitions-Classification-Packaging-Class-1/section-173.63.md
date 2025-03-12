@@ -1,5 +1,7 @@
 ##### § 173.63 Packaging exceptions. #####
 
+Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
+
 (a) Cord, detonating (UN 0065), having an explosive content not exceeding 6.5 g (0.23 ounces) per 30 centimeter length (one linear foot) may be offered for transportation domestically and transported as Cord, detonating (UN 0289), Division 1.4 Compatibility Group D (1.4D) explosives, if the gross weight of all packages containing Cord, detonating (UN 0065), does not exceed 45 kg (99 pounds) per:
 
 (1) Transport vehicle, freight container, or cargo-only aircraft;

@@ -1,5 +1,7 @@
 ##### § 107.109 Application for renewal. #####
 
+Link to an amendment published at 87 FR 79764, Dec. 27, 2022.
+
 (a) Each application for renewal of a special permit or party status to a special permit must conform to the following requirements:
 
 (1) The application must:

@@ -1,5 +1,7 @@
 ##### § 172.500 Applicability of placarding requirements. #####
 
+Link to an amendment published at 87 FR 79773, Dec. 27, 2022.
+
 (a) Each person who offers for transportation or transports any hazardous material subject to this subchapter shall comply with the applicable placarding requirements of this subpart.
 
 (b) This subpart does not apply to -

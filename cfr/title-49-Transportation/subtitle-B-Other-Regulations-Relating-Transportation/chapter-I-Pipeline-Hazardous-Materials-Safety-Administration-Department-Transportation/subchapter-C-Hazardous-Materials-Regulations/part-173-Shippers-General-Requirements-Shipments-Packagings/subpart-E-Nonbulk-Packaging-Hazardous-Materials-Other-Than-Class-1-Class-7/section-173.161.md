@@ -1,5 +1,7 @@
 ##### § 173.161 Chemical kits and first aid kits. #####
 
+Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
+
 (a) *Applicability.* Chemical kits and first aid kits contain one or more compatible items of hazardous materials in boxes, cases, *etc.* that, for example, are used for medical, analytical, diagnostic, testing, or repair purposes.
 
 (b) *Authorized materials.* (1) The kits may only contain hazardous materials for which packaging exceptions are provided in column 8(A) of the § 172.101 Hazardous Materials Table in this subchapter. For transportation by aircraft, the kits may only contain quantities of hazardous materials authorized as excepted quantities or as limited quantities in §§ 173.4a and 173.27(f) of this part, respectively. Materials forbidden for transportation by passenger aircraft or cargo aircraft may not be included in the kits.

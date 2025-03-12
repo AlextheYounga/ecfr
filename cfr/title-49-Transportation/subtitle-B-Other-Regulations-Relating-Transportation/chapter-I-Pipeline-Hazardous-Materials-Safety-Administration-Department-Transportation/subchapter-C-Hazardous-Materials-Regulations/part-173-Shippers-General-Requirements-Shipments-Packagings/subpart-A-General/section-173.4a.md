@@ -1,5 +1,7 @@
 ##### § 173.4a Excepted quantities. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 (a) Excepted quantities of materials, other than articles (e.g., aerosols), are not subject to requirements of this subchapter except for:
 
 (1) The shipper's responsibilities to properly class their material in accordance with § 173.22 of this subchapter;

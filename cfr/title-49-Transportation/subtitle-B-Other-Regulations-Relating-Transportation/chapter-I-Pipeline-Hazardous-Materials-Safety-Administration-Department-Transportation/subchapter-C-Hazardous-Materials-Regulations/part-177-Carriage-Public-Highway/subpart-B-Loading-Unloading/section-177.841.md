@@ -1,5 +1,7 @@
 ##### § 177.841 Division 6.1 and Division 2.3 materials. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (See also § 177.834 (a) to (j).)
 
 (a) *Arsenical compounds in bulk.* Care shall be exercised in the loading and unloading of “arsenical dust”, “arsenic trioxide”, and “sodium arsenate”, allowable to be loaded into sift-proof, steel hopper-type or dump-type motor-vehicle bodies equipped with water-proof, dust-proof covers well secured in place on all openings, to accomplish such loading with the minimum spread of such compounds into the atmosphere by all means that are practicable; and no such loading or unloading shall be done near or adjacent to any place where there are or are likely to be, during the loading or unloading process assemblages of persons other than those engaged in the loading or unloading process, or upon any public highway or in any public place. Before any motor vehicle may be used for transporting any other articles, all detectable traces of arsenical materials must be removed therefrom by flushing with water, or by other appropriate method, and the marking removed.

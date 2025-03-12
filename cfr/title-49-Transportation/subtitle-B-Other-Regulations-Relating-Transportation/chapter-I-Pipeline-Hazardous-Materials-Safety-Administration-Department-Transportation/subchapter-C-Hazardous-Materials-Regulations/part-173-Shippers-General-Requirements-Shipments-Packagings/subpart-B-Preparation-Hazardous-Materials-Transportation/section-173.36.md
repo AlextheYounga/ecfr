@@ -1,5 +1,7 @@
 ##### § 173.36 Hazardous materials in Large Packagings. #####
 
+Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
+
 (a) No person may offer or accept a hazardous material for transportation in a Large Packaging except as authorized by this subchapter. Except as otherwise provided in this subchapter, no Large Packaging may be filled with a Packing Group I or II material. Each Large Packaging used for the transportation of hazardous materials must conform to the requirements of its specification and regulations for the transportation of the particular commodity.
 
 (b) *Packaging design* - (1) *Inner packaging closures.* A Large Packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.

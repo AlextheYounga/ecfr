@@ -1,5 +1,7 @@
 ##### § 172.101 Purpose and use of hazardous materials table. #####
 
+Link to an amendment published at 87 FR 79766, Dec. 27, 2022.
+
 (a) The Hazardous Materials Table (Table) in this section designates the materials listed therein as hazardous materials for the purpose of transportation of those materials. For each listed material, the Table identifies the hazard class or specifies that the material is forbidden in transportation, and gives the proper shipping name or directs the user to the preferred proper shipping name. In addition, the Table specifies or references requirements in this subchapter pertaining to labeling, packaging, quantity limits aboard aircraft and stowage of hazardous materials aboard vessels.
 
 (b) *Column 1: Symbols.* Column 1 of the Table contains six symbols (“ + ”, “A”, “D”, “G”, “I” and “W”) as follows:

@@ -1,5 +1,7 @@
 ##### § 107.502 General registration requirements. #####
 
+Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
+
 (a) *Definitions:* For purposes of this subpart -
 
 (1) *Assembly* means the performance of any of the following functions when the function does not involve welding on the cargo tank wall:

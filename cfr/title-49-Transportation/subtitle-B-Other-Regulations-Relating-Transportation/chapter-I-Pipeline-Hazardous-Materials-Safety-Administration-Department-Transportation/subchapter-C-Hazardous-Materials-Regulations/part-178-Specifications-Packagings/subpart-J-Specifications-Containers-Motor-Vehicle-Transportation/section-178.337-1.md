@@ -1,5 +1,7 @@
 ##### § 178.337-1 General requirements. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) *ASME Code construction.* Tanks must be -
 
 (1) Seamless or welded construction, or a combination of both;

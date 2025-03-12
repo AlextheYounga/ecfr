@@ -1,5 +1,7 @@
 ##### § 172.316 Packagings containing materials classed as ORM-D. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) Each non-bulk packaging containing a material classed as ORM-D must be marked on at least one side or end with the ORM-D designation immediately following or below the proper shipping name of the material. The ORM designation must be placed within a rectangle that is approximately 6.3 mm (0.25 inches) larger on each side than the designation. Until December 31, 2020, the designation ORM-D is for an ORM-D material, as defined in § 173.144, that is packaged in accordance with §§ 173.63(b), 173.150 through 173.156, and 173.306.
 
 (b) When the ORM-D marking including the proper shipping name can not be affixed on the package surface, it may be on an attached tag.

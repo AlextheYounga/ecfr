@@ -1,5 +1,7 @@
 ##### § 173.230 Fuel cell cartridges containing hazardous material. #####
 
+Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
+
 (a) *Requirements for Fuel Cell Cartridges.* Fuel cell cartridges, including when contained in or packed with equipment, must be designed and constructed to prevent fuel leakage under normal conditions of transportation. Fuel cell cartridge design types using liquids as fuels must pass an internal pressure test at a gauge pressure of 100 kPa (15 psig) without leakage. Except for fuel cell cartridges containing hydrogen in metal hydride which must be in conformance with paragraph (d) of this section, each fuel cell cartridge design type including when contained in or packed with equipment, must pass a 1.2 meter (3.9 feet) drop test onto an unyielding surface in the orientation most likely to result in the failure of the containment system with no loss of contents. Fuel cell cartridges installed in or integral to a fuel cell system are regarded as contained in equipment. Fuel cell cartridges containing a Division 2.1, Division 4.3 or Class 8 material must meet the following additional requirements.
 
 (b) A fuel cell cartridge designed to contain a Division 4.3 or a Class 8 material may contain an activator provided it is fitted with two independent means of preventing unintended mixing with the fuel during transport.

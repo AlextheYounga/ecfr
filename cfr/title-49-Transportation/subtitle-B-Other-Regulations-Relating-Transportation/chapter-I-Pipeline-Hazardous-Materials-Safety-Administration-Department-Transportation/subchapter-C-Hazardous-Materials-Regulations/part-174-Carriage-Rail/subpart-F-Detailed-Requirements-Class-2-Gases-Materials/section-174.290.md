@@ -1,5 +1,7 @@
 ##### § 174.290 Materials extremely poisonous by inhalation shipped by, for, or to the Department of Defense. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) General. The provisions of this section apply only to materials extremely poisonous by inhalation which are Division 2.3 materials in Hazard Zone A and Division 6.1 materials in Hazard Zone A, as defined in § 173.133(a)(2) of this subchapter. Such materials when shipped by, for, or to the Department of Defense may be transported by rail only if loaded and handled in accordance with the requirements of this section.
 
 (b) A Division 2.3 Hazard Zone A or a Division 6.1 Hazard Zone A material extremely poisonous by inhalation may be transported in:

@@ -1,5 +1,7 @@
 ##### § 172.315 Limited quantities. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) *Modes other than air transport.* Except for an article or substance of Class 7 prepared in accordance with subpart I of part 173, a package prepared in accordance with applicable limited quantity requirements in part 173 of this subchapter and offered for transportation by a mode other than air must display the limited quantity marking shown in paragraph (a)(1) of this section. A package displaying this mark is not subject to the marking requirements of § 172.301 of this subpart unless the limited quantity package also contains a hazardous substance or a hazardous waste. Required markings need not be duplicated if already marked as prescribed elsewhere in this subpart. As an alternative, a packaging may display the limited quantity “Y” mark shown in paragraph (b) of this section if the package conforms to authorized substance and article provisions and the inner and outer package quantity limits in § 173.27(f) of this subchapter.
 
 (1) *Marking description.* The top and bottom portions of the square-on-point and the border forming the square-on-point must be black and the center white or of a suitable contrasting background as follows:

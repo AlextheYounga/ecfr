@@ -1,5 +1,7 @@
 ##### § 173.2 Hazardous materials classes and index to hazard class definitions. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 The hazard class of a hazardous material is indicated either by its class (or division) number, its class name, or by the letters “ORM-D”. The following table lists class numbers, division numbers, class or division names and those sections of this subchapter which contain definitions for classifying hazardous materials, including forbidden materials.
 
 |Class No.|Division No. (if any)|          Name of class or division          |49 CFR reference for definitions|

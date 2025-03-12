@@ -1,5 +1,7 @@
 ##### § 173.11 Exceptions for shipment of light bulbs containing hazardous materials. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 The following light bulbs (lamps) are not subject to any other requirements of this subchapter provided they do not contain Class 7 (radioactive) material:
 
 (a) Light bulbs that are collected directly from individuals and households when transported to a collection or recycling facility.

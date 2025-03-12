@@ -1,5 +1,7 @@
 ##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
 
+Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
+
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
 (1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:

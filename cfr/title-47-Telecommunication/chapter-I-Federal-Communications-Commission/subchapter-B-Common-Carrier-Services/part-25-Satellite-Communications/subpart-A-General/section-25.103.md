@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 87 FR 72403, Nov. 25, 2022.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -55,6 +53,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 ![](/graphics/er12fe14.001.gif)Where:*N*a is the number of transmit stations in the non-geostationary orbit system that are visible from the GSO receive station considered on the Earth's surface or in the geostationary orbit, as appropriate;*i* is the index of the transmit station considered in the non-geostationary orbit system;*P*i is the RF power at the input of the antenna of the transmit station, considered in the non-geostationary orbit system in dBW in the reference bandwidth;θi is the off-axis angle between the boresight of the transmit station considered in the non-geostationary orbit system and the direction of the GSO receive station;*G*t(θi) is the transmit antenna gain (as a ratio) of the station considered in the non-geostationary orbit system in the direction of the GSO receive station;*d*i is the distance in meters between the transmit station considered in the non-geostationary orbit system and the GSO receive station;φi is the off-axis angle between the boresight of the antenna of the GSO receive station and the direction of the *i*th transmit station considered in the non-geostationary orbit system;*G*r(θi) is the receive antenna gain (as a ratio) of the GSO receive station in the direction of the *i*th transmit station considered in the non-geostationary orbit system;*G*r,max is the maximum gain (as a ratio) of the antenna of the GSO receive station.
 
 *Extended C-band.* The 3600-3700 MHz (space-to-Earth), 5850-5925 MHz (Earth-to-space), and 6425-6725 MHz (Earth-to-space) FSS frequency bands.
+
+*Extended Ka-band.* The 17.3-18.3 GHz (space-to-Earth), 18.8-19.4 GHz (space-to-Earth), 19.6-19.7 GHz (space-to-Earth), 27.5-28.35 GHz (Earth-to-space), and 28.6-29.1 GHz (Earth-to-space) FSS frequency bands.
 
 *Extended Ku-band.* The 10.95-11.2 GHz (space-to-Earth), 11.45-11.7 GHz (space-to-Earth), and 13.75-14.0 GHz bands (Earth-to-space) FSS frequency bands.
 
@@ -134,8 +134,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Terrestrial station.* A station effecting terrestrial radiocommunication.
 
-*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.211(d), § 25.212(c), (d), (e), or (f), or § 25.218.
+*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, the 24.75-25.25 GHz band, or the conventional or extended Ka-bands within the limits on downlink equivalent isotropically radiated power (EIRP) density or PFD specified in § 25.140(a)(3) or (b)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.211(d), § 25.212(c), (d), or (f), or § 25.218.
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020; 85 FR 43733, July 20, 2020]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020; 85 FR 43733, July 20, 2020; 87 FR 72403, Nov. 25, 2022]

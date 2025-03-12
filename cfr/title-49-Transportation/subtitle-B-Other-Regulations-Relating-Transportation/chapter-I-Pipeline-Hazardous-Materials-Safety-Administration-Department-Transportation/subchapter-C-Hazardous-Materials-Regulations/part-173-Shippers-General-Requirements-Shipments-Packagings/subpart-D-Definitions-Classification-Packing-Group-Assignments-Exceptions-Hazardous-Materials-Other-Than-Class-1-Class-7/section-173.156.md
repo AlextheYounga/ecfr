@@ -1,5 +1,7 @@
 ##### § 173.156 Exceptions for limited quantity and ORM-D. #####
 
+Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
+
 (a) Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 Table or in a packaging section in this part.
 
 (b) Packagings for limited quantity and ORM-D are specified according to hazard class in §§ 173.150 through 173.155, 173.306, and 173.309(b). In addition to exceptions provided for limited quantity and ORM-D materials elsewhere in this part, the following are provided:

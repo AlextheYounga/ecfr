@@ -1,5 +1,7 @@
 ##### § 173.165 Polyester resin kits. #####
 
+Link to an amendment published at 87 FR 79777, Dec. 27, 2022.
+
 (a) *General requirements.* Polyester resin kits consisting of a base material component (Class 3, Packing Group II or III) or (Division 4.1, Packing Group II or III) and an activator component (Type D, E, or F organic peroxide that does not require temperature control) -
 
 (1) The organic peroxide component must be packed in inner packagings not over 125 mL (4.22 fluid ounces) net capacity each for liquids or 500 g (17.64 ounces) net capacity each for solids.

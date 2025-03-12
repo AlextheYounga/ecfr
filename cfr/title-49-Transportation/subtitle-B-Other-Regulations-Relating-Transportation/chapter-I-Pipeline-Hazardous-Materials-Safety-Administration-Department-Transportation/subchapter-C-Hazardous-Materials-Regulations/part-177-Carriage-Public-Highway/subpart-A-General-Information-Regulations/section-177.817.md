@@ -1,5 +1,7 @@
 ##### § 177.817 Shipping papers. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) *General requirements.* A person may not accept a hazardous material for transportation or transport a hazardous material by highway unless that person has received a shipping paper prepared in accordance with part 172 of this subchapter or the material is excepted from shipping paper requirements under this subchapter. A subsequent carrier may not transport a hazardous material unless it is accompanied by a shipping paper prepared in accordance with part 172 of this subchapter, except for § 172.204, which is not required.
 
 (b) *Shipper certification.* An initial carrier may not accept a hazardous material offered for transportation unless the shipping paper describing the material includes a shipper's certification which meets the requirements in § 172.204 of this subchapter. Except for a hazardous waste, the certification is not required for shipments to be transported entirely by private carriage and for bulk shipments to be transported in a cargo tank supplied by the carrier.

@@ -1,5 +1,7 @@
 ##### § 173.12 Exceptions for shipment of waste materials. #####
 
+Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
+
 (a) *Open head drums.* If a hazardous material that is a hazardous waste is required by this subchapter to be shipped in a closed head drum (i.e., a drum with a 7.0 cm (3 inches) or less bung opening) and the hazardous waste contains solids or semisolids that make its placement in a closed head drum impracticable, an equivalent (except for closure) open head drum may be used for the hazardous waste.
 
 (b) *Lab packs.* (1) Waste materials prohibited by paragraph (b)(3) of this section are not authorized for transport in packages authorized by this paragraph (b). Waste materials classed as Class or Division 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 8, or 9 are excepted from the specification packaging requirements of this subchapter for combination packagings if packaged in accordance with this paragraph (b) and transported for disposal or recovery by highway, rail or cargo vessel. In addition, a generic description from the § 172.101 Hazardous Materials Table may be used in place of specific chemical names, when two or more chemically compatible waste materials in the same hazard class are packaged in the same outside packaging.

@@ -1,5 +1,7 @@
 ##### § 173.25 Authorized packagings and overpacks. #####
 
+Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
+
 (a) Authorized packages containing hazardous materials may be offered for transportation in an overpack as defined in § 171.8 of this subchapter, if all of the following conditions are met:
 
 (1) The package meets the requirements of §§ 173.21 and 173.24 of this subchapter.

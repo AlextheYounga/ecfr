@@ -1,5 +1,7 @@
 ##### § 172.203 Additional description requirements. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) *Special permits.* Except as provided in § 173.23 of this subchapter, each shipping paper issued in connection with a shipment made under a special permit must bear the notation “DOT-SP” followed by the special permit number assigned and located so that the notation is clearly associated with the description to which the special permit applies. Each shipping paper issued in connection with a shipment made under an exemption or special permit issued prior to October 1, 2007, may bear the notation “DOT-E” followed by the number assigned and so located that the notation is clearly associated with the description to which it applies.
 
 (b) *Limited quantities.* When a shipping paper is required by this subchapter, the description for a material offered for transportation as “limited quantity,” as authorized by this subchapter, must include the words “Limited Quantity” or “Ltd Qty” following the basic description.

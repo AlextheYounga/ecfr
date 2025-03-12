@@ -1,5 +1,7 @@
 ##### § 172.600 Applicability and general requirements. #####
 
+Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
+
 (a) *Scope.* Except as provided in paragraph (d) of this section, this subpart prescribes requirements for providing and maintaining emergency response information during transportation and at facilities where hazardous materials are loaded for transportation, stored incidental to transportation or otherwise handled during any phase of transportation.
 
 (b) *Applicability.* This subpart applies to persons who offer for transportation, accept for transportation, transfer or otherwise handle hazardous materials during transportation.

@@ -1,5 +1,7 @@
 ##### § 171.6 Control numbers under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
+
 (a) *Purpose and scope.* This section collects and displays the control numbers assigned to the HMR collections of information by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995. This section complies with the requirements of 5 CFR 1320.7(f), 1320.12, 1320.13 and 1320.14 (OMB regulations implementing the Paperwork Reduction Act of 1995) for the display of control numbers assigned by OMB to collections of information of the HMR.
 
 (b) *OMB control numbers.* The table in paragraph (b)(2) of this section sets forth the control numbers assigned to collection of information in the HMR by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995.

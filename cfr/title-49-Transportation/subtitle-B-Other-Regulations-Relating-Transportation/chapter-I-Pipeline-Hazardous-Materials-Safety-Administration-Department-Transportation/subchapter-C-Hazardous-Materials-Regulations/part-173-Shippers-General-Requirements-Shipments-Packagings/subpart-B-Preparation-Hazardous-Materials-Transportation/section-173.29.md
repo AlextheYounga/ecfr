@@ -1,5 +1,7 @@
 ##### § 173.29 Empty packagings. #####
 
+Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
+
 (a) *General.* Except as otherwise provided in this section, an empty packaging containing only the residue of a hazardous material shall be offered for transportation and transported in the same manner as when it previously contained a greater quantity of that hazardous material.
 
 (b) Notwithstanding the requirements of paragraph (a) of this section, an empty packaging is not subject to any other requirements of this subchapter if it conforms to the following provisions:

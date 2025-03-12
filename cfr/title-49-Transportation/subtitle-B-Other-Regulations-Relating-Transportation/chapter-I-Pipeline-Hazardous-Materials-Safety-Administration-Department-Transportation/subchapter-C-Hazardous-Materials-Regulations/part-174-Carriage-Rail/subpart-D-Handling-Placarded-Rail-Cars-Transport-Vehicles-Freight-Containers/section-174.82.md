@@ -1,5 +1,7 @@
 ##### § 174.82 General requirements for the handling of placarded rail cars, transport vehicles, freight containers, and bulk packages. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Unless otherwise specified, this subpart does not apply to the handling of rail cars, transport vehicles, freight containers, or bulk packagings, which contain Division 1.6, combustible liquids, Division 6.1 PG III materials, Class 9 materials, or ORM-D materials.
 
 (b) A placarded rail car, transport vehicle, freight container, or bulk package may not be transported in a passenger train.

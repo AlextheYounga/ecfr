@@ -50,6 +50,18 @@
 
 (d) *Meal patterns.* The meal requirements for the Program are designed to provide nutritious and well-balanced meals to each child. Sponsors must ensure that meals served meet all of the requirements. Except as otherwise provided in this section, the following tables present the minimum requirements for meals served to children in the Program. Children age 12 and up may be served larger portions based on the greater food needs of older children.
 
+(1) *Breakfast.* The minimum amount of food components to be served as breakfast are as follows:
+
+![](/graphics/er27de22.038.gif)
+
+(2) *Lunch or supper.* The minimum amounts of food components to be served as lunch or supper are as follows:
+
+![](/graphics/er27de22.039.gif)
+
+(3) *Snacks.* The minimum amounts of food components to be served as snacks are as follows. Select two of the following four components. (Juice may not be served when milk is served as the only other component.)
+
+![](/graphics/er27de22.040.gif)
+
 (e) *Meat or meat alternate.* Meat or meat alternates served under the Program are subject to the following requirements and recommendations.
 
 (1) The required quantity of meat or meat alternate shall be the quantity of the edible portion as served. These foods must be served in a main dish, or in a main dish and one other menu item.
@@ -62,7 +74,7 @@
 
 (5) Nuts and seeds and their butters listed in program guidance are nutritionally comparable to meat or other meat alternates based on available nutritional data. Acorns, chestnuts, and coconuts shall not be used as meat alternates due to their low protein content. Nut and seed meals or flours shall not be used as a meat alternate except as defined in this section under paragraph (e)(3) and in this part under Appendix A: Alternate Foods for Meals. As noted in paragraph (d)(2) of this section, nuts or seeds may be used to meet no more than one-half of the meat/meat alternate requirement for lunch or supper. Therefore, nuts or seeds must be combined with another meat/meat alternate to fulfill the requirement. For the supplemental food pattern, nuts or seeds may be used to fulfill all of the meat/meat alternate requirement.
 
-(f) *Exceptions to and variations from the meal pattern* - (1) *Meals provided by school food authorities* - (i) *Meal pattern substitution.* School food authorities that are Program sponsors and that participate in the National School Lunch or School Breakfast Program during any time of the year may substitute the meal pattern requirements of the regulations governing those programs (Parts 210 and 220 of this chapter, respectively) for the meal pattern requirements in this section.
+(f) *Exceptions to and variations from the meal pattern*—(1) *Meals provided by school food authorities*—(i) *Meal pattern substitution.* School food authorities that are Program sponsors and that participate in the National School Lunch or School Breakfast Program during any time of the year may substitute the meal pattern requirements of the regulations governing those programs (Parts 210 and 220 of this chapter, respectively) for the meal pattern requirements in this section.
 
 (ii) *Offer versus serve.* School food authorities that are Program sponsors may permit a child to refuse one or more items that the child does not intend to eat. The reimbursements to school food authorities for Program meals served under this “offer versus serve” option must not be reduced because children choose not to take all components of the meals that are offered. The school food authority may elect to use the following options:
 
@@ -74,7 +86,7 @@
 
 (2) *Children under 6.* The State agency may authorize the sponsor to serve food in smaller quantities than are indicated in paragraph (d) of this section to children under six years of age if the sponsor has the capability to ensure that variations in portion size are in accordance with the age levels of the children served. Sponsors wishing to serve children under one year of age shall first receive approval to do so from the State agency. In both cases, the sponsor shall follow the age-appropriate meal pattern requirements contained in the Child and Adult Care Food Program regulations (7 CFR part 226).
 
-(3) *Statewide substitutions.* In American Samoa, Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands, the following variations from the meal requirements are authorized: A serving of a starchy vegetable - such as ufi, tanniers, yams, plantains, or sweet potatoes - may be substituted for the bread requirements.
+(3) *Statewide substitutions.* In American Samoa, Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands, the following variations from the meal requirements are authorized: A serving of a starchy vegetable—such as ufi, tanniers, yams, plantains, or sweet potatoes—may be substituted for the bread requirements.
 
 (4) *Individual substitutions.* Substitutions may be made by sponsors in food listed in paragraph (d) of this section if individual participating children are unable, because of medical or other special dietary needs, to consume such foods. Such substitutions shall be made only when supported by a statement from a recognized medical authority which includes recommended alternate foods. Such statement shall be kept on file by the sponsor.
 
@@ -100,4 +112,4 @@
 
 (h) *Off-site consumption of food items.* Sponsors may allow a child to take one fruit, vegetable, or grain item off-site for later consumption without prior State agency approval provided that all applicable State and local health, safety, and sanitation standards will be met. Sponsors should only allow an item to be taken off-site if the site has adequate staffing to properly administer and monitor the site. A State agency may prohibit individual sponsors on a case-by-case basis from using this option if the State agency determines that the sponsor's ability to provide adequate oversight is in question. The State agency's decision to prohibit a sponsor from utilizing this option is not an appealable action.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; Amdt. 2, 55 FR 1377, Jan. 14, 1990; 55 FR 13470, Apr. 10, 1990; 61 FR 37672, July 19, 1996; 62 FR 10191, Mar. 6, 1997; 64 FR 72487, Dec. 28, 1999; 64 FR 72487, Dec. 28, 1999; 65 FR 12437, Mar. 9, 2000; 65 FR 82251, Dec. 28, 2000; 87 FR 57365, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; Amdt. 2, 55 FR 1377, Jan. 14, 1990; 55 FR 13470, Apr. 10, 1990; 61 FR 37672, July 19, 1996; 62 FR 10191, Mar. 6, 1997; 64 FR 72487, Dec. 28, 1999; 64 FR 72487, Dec. 28, 1999; 65 FR 12437, Mar. 9, 2000; 65 FR 82251, Dec. 28, 2000; 87 FR 57365, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022]

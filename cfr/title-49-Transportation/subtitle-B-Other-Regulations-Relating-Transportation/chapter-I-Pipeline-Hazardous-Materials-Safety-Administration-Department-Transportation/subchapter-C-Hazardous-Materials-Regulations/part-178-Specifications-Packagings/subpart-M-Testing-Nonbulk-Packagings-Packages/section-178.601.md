@@ -1,5 +1,7 @@
 ##### § 178.601 General requirements. #####
 
+Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+
 (a) *General.* The test procedures prescribed in this subpart are intended to ensure that packages containing hazardous materials can withstand normal conditions of transportation and are considered minimum requirements. Each packaging must be manufactured and assembled so as to be capable of successfully passing the prescribed tests and of conforming to the requirements of § 173.24 of this subchapter at all times while in transportation.
 
 (b) *Responsibility.* It is the responsibility of the packaging manufacturer to assure that each package is capable of passing the prescribed tests. To the extent that a package assembly function, including final closure, is performed by the person who offers a hazardous material for transportation, that person is responsible for performing the function in accordance with §§ 173.22 and 178.2 of this subchapter.

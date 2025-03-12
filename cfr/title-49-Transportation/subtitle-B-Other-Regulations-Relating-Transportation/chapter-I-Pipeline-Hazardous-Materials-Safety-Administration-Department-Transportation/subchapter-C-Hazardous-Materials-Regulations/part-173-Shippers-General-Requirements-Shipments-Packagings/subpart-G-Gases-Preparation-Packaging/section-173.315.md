@@ -1,5 +1,7 @@
 ##### § 173.315 Compressed gases in cargo tanks and portable tanks. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Liquefied compressed gases that are transported in UN portable tanks, DOT specification portable tanks, or cargo tanks must be prepared in accordance with this section, § 173.32, § 173.33 and subpart E or subpart G of part 180 of this subchapter, as applicable. For cryogenic liquid in cargo tanks, see § 173.318. For marking requirements for portable tanks and cargo tanks, see § 172.326 and § 172.328 of this subchapter, as applicable.
 
 (1) *UN portable tanks:* UN portable tanks must be loaded and offered for transportation in accordance with portable tank provision T50 in § 172.102 of this subchapter.

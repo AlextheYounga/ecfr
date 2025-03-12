@@ -1,5 +1,7 @@
 ##### § 174.115 Loading Division 1.4 (explosive) materials. #####
 
+Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
+
 (a) Division 1.4 (explosive) materials may be loaded into any closed car in good condition, or into any container car in good condition. Car certificates are not required. Packages of Division 1.4 (explosive) materials must be blocked and braced to prevent their shifting and possible damage due to shifting of other freight during transportation. For methods of recommended loading and bracing see Bureau of Explosives Pamphlet No. 6.
 
 (b) Division 1.4 (explosive) materials may not be transported in a truck body, trailer, or container on a flatcar unless:

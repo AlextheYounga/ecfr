@@ -1,5 +1,7 @@
 ##### § 172.204 Shipper's certification. #####
 
+Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
+
 (a) *General.* Except as provided in paragraphs (b) and (c) of this section, each person who offers a hazardous material for transportation shall certify that the material is offered for transportation in accordance with this subchapter by printing (manually or mechanically) on the shipping paper containing the required shipping description the certification contained in paragraph (a)(1) of this section or the certification (declaration) containing the language contained in paragraph (a)(2) of this section. For transportation by rail only, the certification may be received verbally or with an electronic signature in conformance with paragraphs (a)(3)(i) and (a)(3)(ii) of this section.
 
 (1) “This is to certify that the above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation.”
