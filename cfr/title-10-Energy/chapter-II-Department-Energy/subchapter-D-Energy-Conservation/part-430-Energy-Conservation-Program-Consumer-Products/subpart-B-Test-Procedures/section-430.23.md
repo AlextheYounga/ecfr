@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 85 FR 56494, Sept. 14, 2020.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -366,21 +364,9 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (ii) The product of the average annual electrical energy consumption in kilowatt-hours per year determined according to section 5.3 of appendix P to this subpart and converted to kilowatt-hours using a conversion factor of 3412 Btus = 1 kilowatt-hour, and the representative average unit cost in dollars per kilowatt-hours as provided pursuant to section 323(b)(2) of the Act. Round the resulting sum to the nearest dollar per year.
 
-(q) *Fluorescent Lamp Ballasts.* (1) Calculate the estimated annual energy consumption (EAEC) for fluorescent lamp ballasts, expressed in kilowatt-hours per year, by multiplying together the following values:
+(q) *Fluorescent lamp ballasts.* (1) Calculate ballast luminous efficiency (BLE) using appendix Q to this subpart.
 
-(i) The input power in kilowatts measured in accordance with section 2.5.1.6 of appendix Q to this part; and
-
-(ii) The representative average use cycle of 1,000 hours per year. Round the resulting product to the nearest kilowatt-hour per year.
-
-(2) Calculate ballast luminous efficiency (BLE) using section 2.6.1 of appendix Q to this subpart.
-
-(3) Calculate the estimated annual operating cost (EAOC) for fluorescent lamp ballasts, expressed in dollars per year, by multiplying together the following values:
-
-(i) The representative average unit energy cost of electricity in dollars per kilowatt-hour as provided by the Secretary,
-
-(ii) The representative average use cycle of 1,000 hours per year, and
-
-(iii) The input power in kilowatts measured in accordance with section 2.5.1.6 of appendix Q to this part. Round the resulting product to the nearest dollar per year.
+(2) Calculate power factor using appendix Q to this subpart.
 
 (r) *General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.* (1) The estimated annual energy consumption for general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps, expressed in kilowatt-hours per year, shall be the product of the input power in kilowatts as determined in accordance with section 4 of appendix R to this subpart and an average annual use specified by the manufacturer, with the resulting product rounded off to the nearest kilowatt-hour per year. Manufacturers must provide a clear and accurate description of the assumptions used for the estimated annual energy consumption.
 

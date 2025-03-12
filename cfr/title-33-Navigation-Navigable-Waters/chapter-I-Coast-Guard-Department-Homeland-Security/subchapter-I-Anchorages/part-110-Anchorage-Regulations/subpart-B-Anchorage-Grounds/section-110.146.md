@@ -1,6 +1,6 @@
 ##### § 110.146 Long Island Sound. #####
 
-(a) *Anchorage grounds.*
+(a) *Anchorage grounds*—
 
 (1) *Bridgeport Anchorage Ground.* That portion of Long Island Sound enclosed by a line connecting the following points:
 

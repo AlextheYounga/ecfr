@@ -18,7 +18,7 @@ As used in this part (except where the context clearly indicates, or where the t
 
 (h) *Disposable pay* has the same meaning as that term is defined in 5 CFR § 550.1103.
 
-(i) Employee means a current employee of the Peace Corps or other Federal agency, including a member of the Armed Forces or Reserve of the Armed Forces of the United States.
+(i) *Employee* means a current employee of the Peace Corps or other Federal agency, including a member of the Armed Forces or Reserve of the Armed Forces of the United States.
 
 (j) *FCCS* means the Federal Claims Collection Standards jointly published by the Department of the Treasury and the Department of Justice at 31 CFR parts 900-904.
 

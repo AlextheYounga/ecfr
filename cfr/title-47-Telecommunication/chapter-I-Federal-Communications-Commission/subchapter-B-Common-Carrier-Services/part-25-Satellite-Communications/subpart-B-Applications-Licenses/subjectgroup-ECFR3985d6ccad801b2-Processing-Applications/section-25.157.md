@@ -34,4 +34,6 @@
 
 (h) Services offered pursuant to an NGSO-like license in a frequency band granted before the Commission has adopted frequency-band-specific service rules for that band will be subject to the default service rules in § 25.217.
 
+(i) For consideration of license applications filed pursuant to the procedures described in § 25.122 or § 25.123, the application will be processed and granted in accordance with §§ 25.150 through 25.156, taking into consideration the information provided by the applicant under § 25.122(d) or § 25.123(c), but without a processing round as described in this section and without a queue as described in § 25.158.
+
 [68 FR 51505, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 82 FR 59985, Dec. 18, 2017; 85 FR 43735, July 20, 2020]

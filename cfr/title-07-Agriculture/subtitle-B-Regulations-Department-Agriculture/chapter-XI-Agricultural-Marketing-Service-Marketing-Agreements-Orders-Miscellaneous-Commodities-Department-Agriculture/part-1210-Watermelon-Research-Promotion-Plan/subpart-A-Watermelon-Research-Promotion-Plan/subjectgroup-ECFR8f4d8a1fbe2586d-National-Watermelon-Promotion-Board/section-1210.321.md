@@ -1,7 +1,5 @@
 ##### § 1210.321 Nominations and selection. #####
 
-Link to an amendment published at 85 FR 56474, Sept. 14, 2020.
-
 The Secretary shall appoint the members of the Board from nominations to be made in the following manner:
 
 (a) There shall be two individuals nominated for each vacant position.
@@ -24,8 +22,8 @@ The Secretary shall appoint the members of the Board from nominations to be made
 
 (f) The district convention chairperson shall conduct the selection process for the nominees in accordance with procedures to be adopted at each such convention, subject to requirements set in § 1210.321(e).
 
-(1) No State in Districts 3, 4, 5, and 7 as currently constituted shall have more than three producers and handlers representatives concurrently on the Board.
+(1) No State in a multi-State district shall have more than three producer and handler representatives concurrently on the Board.
 
 (2) Each State represented at the district convention shall have one vote for each producer position and one vote for each handler position from the District on the Board, which vote shall be determined by the producers and handlers from that State by majority vote. Each State shall further have an additional vote for each five hundred thousand hundredweight volume as determined by the three year average annual crop production summary reports of the USDA, or if such reports are not published, then the three year average of the Board assessment reports; *Provided,* That for the first two calls for nominees, the USDA Crop Production Annual Summary Reports for 1979, 1980, and 1981 will be controlling as to any additional production volume votes.
 
-[54 FR 24545, June 8, 1989, as amended at 60 FR 10798, Feb. 28, 1995; 79 FR 17852, Mar. 31, 2014]
+[54 FR 24545, June 8, 1989, as amended at 60 FR 10798, Feb. 28, 1995; 79 FR 17852, Mar. 31, 2014; 85 FR 56474, Sept. 14, 2020]

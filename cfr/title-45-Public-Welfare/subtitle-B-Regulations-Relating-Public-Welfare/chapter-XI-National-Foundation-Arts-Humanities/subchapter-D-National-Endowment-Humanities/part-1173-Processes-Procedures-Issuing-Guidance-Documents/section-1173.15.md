@@ -1,0 +1,3 @@
+##### § 1173.15 No judicial review or enforceable rights. #####
+
+This part is intended to improve the internal management of the National Endowment for the Humanities. As such, it is for the use of NEH personnel only and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, its officers or employees, or any other person.

@@ -2,7 +2,7 @@
 
 The draw of the Great Dismal Swamp Canal Bridge, mile 28.0 at South Mills, NC, shall operate as follows:
 
-(a) The draw shall remain in the open position for navigation. The draw shall only be closed for pedestrian crossings or periodic maintenance authorized in accordance with Subpart A of this part.
+(a) The draw shall remain in the open position for navigation. The draw shall only be closed for pedestrian crossings or periodic maintenance authorized in accordance with subpart A of this part.
 
 (b) The bridge shall be operated by the Park Service Rangers at the Great Dismal Swamp Visitors Center. Operational information will be provided 24 hours a day on marine channel 13.
 

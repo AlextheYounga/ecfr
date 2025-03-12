@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
 *3-Way incandescent lamp* means an incandescent lamp that -
@@ -288,7 +286,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) 120 V if the lamp is not marked with a voltage or voltage range.
 
-*Designed and marketed* means that the intended application of the lamp is clearly stated in all publicly available documents (*e.g.,* product literature, catalogs, and packaging labels). This definition is applicable to terms related to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; medium base compact fluorescent lamps; and specialty application mercury vapor lamp ballasts.
+*Designed and marketed* means that the intended application of the lamp or ballast is clearly stated in all publicly available documents (*e.g.,* product literature, catalogs, and packaging labels). This definition is applicable to terms related to the following covered lighting products: Fluorescent lamp ballasts; fluorescent lamps; general service fluorescent lamps; general service incandescent lamps; general service lamps; incandescent lamps; incandescent reflector lamps; medium base compact fluorescent lamps; and specialty application mercury vapor lamp ballasts.
 
 *Detachable battery* means a battery that is -
 

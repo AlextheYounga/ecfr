@@ -1,8 +1,8 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
+Link to an amendment published at 85 FR 68741, Oct. 30, 2020.
 
-(a) *General.* We incorporate by reference the following standards into part 430. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
+(a) *General.* We incorporate by reference the following standards into this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW, Washington, DC 20024, (202) 586-2945, or go to: *www1.eere.energy.gov/buildings/appliance\_\_standards/.* Standards can be obtained from the sources listed in this section. Material is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
 
@@ -82,43 +82,57 @@ Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
 
 (4) ANSI C78.21-2003, Revision of ANSI C78.21-1995 with all supplements, American National Standard for Electric Lamps - PAR and R Shapes, approved October 30, 2003, IBR approved for § 430.2.
 
-(5) ANSI\_ANSLG C78.81-2010, (“ANSI C78.81”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for § 430.2, § 430.32, appendix Q, and appendix R to subpart B.
+(5) ANSI\_ANSLG C78.81-2010, (“ANSI C78.81”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
 
-(6) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps - Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix Q and appendix R to subpart B.
+(6) ANSI C78.81-2016, (“ANSI C78.81-2016”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendix Q to subpart B.
 
-(7) ANSI\_IEC C78.901-2005, Revision of ANSI C78.901-2001 (“ANSI C78.901”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2, appendix Q, and appendix R to subpart B.
+(7) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps - Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix R to subpart B.
 
-(8) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
+(8) ANSI C78.375A-2014, (“ANSI C78.375A”), American National Standard for Electric Lamps - Fluorescent Lamps - Guide for Electrical Measures, approved August 28, 2014, IBR approved for appendix Q to subpart B.
 
-(9) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs - Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
+(9) ANSI\_IEC C78.901-2005, Revision of ANSI C78.901-2001 (“ANSI C78.901”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
 
-(10) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
+(10) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
 
-(11) ANSI\_ANSLG\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for § 430.2.
+(11) ANSI/NEMA C78.901-2016 (“ANSI C78.901-2016”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved August 23, 2016, IBR approved for appendix Q to subpart B.
 
-(12) ANSI C82.1-2004, (“ANSI C82.1”), American National Standard for Lamp Ballast - Line Frequency Fluorescent Lamp Ballast, approved November 19, 2004; IBR approved for appendix Q to subpart B.
+(12) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs - Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
 
-(13) ANSI C82.2-2002, (“ANSI C82.2”), American National Standard for Lamp Ballasts - Method of Measurement of Fluorescent Ballasts, Approved June 6, 2002, IBR approved for appendix Q to subpart B.
+(13) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
 
-(14) ANSI C82.3-2002, Revision of ANSI C82.3-1983 (R 1995) (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved September 4, 2002; IBR approved for appendix Q and appendix R to subpart B.
+(14) ANSI\_ANSLG\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for § 430.2.
 
-(15) ANSI C82.11 Consolidated-2002, (“ANSI C82.11”), American National Standard for Lamp Ballasts - High-frequency Fluorescent Lamp Ballasts - Supplements, approved March 11, 1999, August 5, 1999 and January 17, 2002; IBR approved for appendix Q to subpart B.
+(15) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts - Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
 
-(16) ANSI C82.13-2002 (“ANSI C82.13”), American National Standard for Lamp Ballasts - Definitions for Fluorescent Lamps and Ballasts, approved July 23, 2002; IBR approved for appendix Q to subpart B.
+(16) ANSI C82.2-2002 (R2007, R2016), (“ANSI C82.2”), American National Standard for Lamp Ballasts - Method of Measurement of Fluorescent Lamp Ballasts, approved July 12, 2016, IBR approved for appendix Q to subpart B.
 
-(17) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for Appendix Y to subpart B; as follows:
+(17) ANSI C82.3-2002, Revision of ANSI C82.3-1983 (R 1995) (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved September 4, 2002; IBR approved for appendix R to subpart B.
+
+(18) ANSI C82.3-2016, (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved April 8, 2016; IBR approved for appendix Q to subpart B.
+
+(19) ANSI/NEMA C82.11-2017, (“ANSI C82.11”), American National Standard for Lamp Ballasts - High-Frequency Fluorescent Lamp Ballasts, approved January 23, 2017; IBR approved for appendix Q to subpart B.
+
+(20) ANSI C82.13-2002 (“ANSI C82.13”), American National Standard for Lamp Ballasts - Definitions for Fluorescent Lamps and Ballasts, approved July 23, 2002; IBR approved for appendix Q to subpart B.
+
+(21) ANSI C82.77-2002, (“ANSI C82.77”) Harmonic Emission Limits - Related Power Quality Requirements for Lighting Equipment, approved January 17, 2002; IBR approved for appendix Q to subpart B.
+
+(22) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for Appendix Y to subpart B; as follows:
 
 (i) Figure 1-15 - Plug and Receptacle; and
 
 (ii) Figure 5-15 - Plug and Receptacle.
 
-(18) ANSI Z21.56-2006, section 2.10 (“ANSI Z21.56”), Standard for Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for appendix P to subpart B.
+(23) ANSI Z21.56-2006, section 2.10 (“ANSI Z21.56”), Standard for Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for appendix P to subpart B.
 
-(19) ANSI Z21.50-2007 (CSA 2.22-2007), (“ANSI Z21.50”), Vented Gas Fireplaces, Fifth Edition, Approved February 22, 2007, IBR approved for § 430.2.
+(24) ANSI Z21.50-2007 (CSA 2.22-2007), (“ANSI Z21.50”), Vented Gas Fireplaces, Fifth Edition, Approved February 22, 2007, IBR approved for § 430.2.
 
-(20) ANSI Z21.86-2008, (“ANSI Z21.86”), Vented Gas-Fired Space Heating Appliances, Fifth Edition, approved March 28, 2008, IBR approved for appendix O to subpart B.
+(25) ANSI Z21.86-2008, (“ANSI Z21.86”), Vented Gas-Fired Space Heating Appliances, Fifth Edition, approved March 28, 2008, IBR approved for appendix O to subpart B.
 
-(21) ANSI Z21.88-2009 (CSA 2.33-2009), (“ANSI Z21.88”), Vented Gas Fireplace Heaters, Fifth Edition, Approved March 26, 2009, IBR approved for § 430.2.
+(26) ANSI Z21.88-2009 (CSA 2.33-2009), (“ANSI Z21.88”), Vented Gas Fireplace Heaters, Fifth Edition, Approved March 26, 2009, IBR approved for § 430.2.
+
+Note 1 to paragraph (e):
+
+The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19), and (21) of this section were all published by National Electrical Manufacturers Association (NEMA) and are also available from National Electrical Manufacturers Association, 1300 North 17th Street, Suite 900, Rosslyn, Virginia 22209, *https://www.nema.org/Standards/Pages/default.aspx.*
 
 (f) *AS/NZS.* Australian/New Zealand Standard, GPO Box 476, Sydney NSW 2001, (02) 9237-6000 or (12) 0065-4646, or go to *www.standards.org.au/*Standards New Zealand, Level 10 Radio New Zealand House 144 The Terrace Wellington 6001 (Private Bag 2439 Wellington 6020), (04) 498-5990 or (04) 498-5991, or go to *www.standards.co.nz.*
 
@@ -292,7 +306,7 @@ Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
 
 (1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
-(2) IEC Standard 60081, (“IEC 60081”), *Double-capped fluorescent lamps - Performance specifications,* (Amendment 4, Edition 5.0, 2010-02); IBR approved for appendix Q to subpart B.
+(2) IEC 60081:1997/AMD6, (“IEC 60081”), Double-capped fluorescent lamps - Performance specifications (Amendment 6, Edition 5.0, August 2017); IBR approved for appendix Q to subpart B.
 
 (3) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendix Y to subpart B, as follows:
 
@@ -318,7 +332,7 @@ Link to an amendment published at 85 FR 56493, Sept. 14, 2020.
 
 (5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
 
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, X, X1, Y, Z, BB, and CC to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, Q, X, X1, Y, Z, BB, and CC to subpart B.
 
 (7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
 

@@ -1,6 +1,6 @@
 ##### § 110.147 New London Harbor, Conn. #####
 
-(a) *The anchorage grounds* - (1) *Anchorage A.* In the Thames River east of Shaw Cove, bounded by lines connecting points which are the following bearings and distances from Monument, Groton (latitude 41°21′18″ N., longitude 72°04′48″ W.): 243°, 1,400 yards; 246°, 925 yards; 217°, 1,380 yards; and 235°, 1,450 yards.
+(a) *The anchorage grounds*—(1) *Anchorage A.* In the Thames River east of Shaw Cove, bounded by lines connecting points which are the following bearings and distances from Monument, Groton (latitude 41°21′18″ N., longitude 72°04′48″ W.): 243°, 1,400 yards; 246°, 925 yards; 217°, 1,380 yards; and 235°, 1,450 yards.
 
 (2) *Anchorage B.* In the Thames River southward of New London, bounded by lines connecting points which are the following bearings and distances from New London Harbor Light (latitude 41°18′59″ N., longitude 72°05′25″ W.): 002°, 2,460 yards; 009°, 2,480 yards; 026°, 1,175 yards; and 008°, 1,075 yards.
 
@@ -12,7 +12,7 @@
 
 (6) *Anchorage F.* The waters off the mouth of New London Harbor two miles southeast of New London Ledge Light beginning at latitude 41°16′00″ N., longitude 72°03′13″ W.; thence westerly to latitude 41°16′00″ N., longitude 72°03′38″ W.; thence northerly to latitude 41°16′35″ N., longitude 72°03′38″ W.; thence easterly to latitude 41°16′35″ N., longitude 72°03′13″ W.; and thence southerly to the point of beginning.
 
-(b) *The regulations* - (1) Anchorage A is for barges and small vessels drawing less than 12 feet.
+(b) *The regulations.* (1) Anchorage A is for barges and small vessels drawing less than 12 feet.
 
 (2) Anchorage F is reserved for the use of naval vessels and, except in cases of emergency, no other vessel may anchor in Anchorage F without permission from the Captain of the Port, New London, CT.
 

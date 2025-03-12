@@ -1,7 +1,5 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 85 FR 56534, Sept. 14, 2020.
-
 (a) No person or entity may:
 
 (1) Except as provided in paragraph (a)(2) of this section, initiate any telephone call (other than a call made for emergency purposes or is made with the prior express consent of the called party) using an automatic telephone dialing system or an artificial or prerecorded voice;
@@ -192,6 +190,8 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (16) The term *personal relationship* means any family member, friend, or acquaintance of the telemarketer making the call.
 
+(17) The term *effectively mitigate* means identifying the source of the traffic and preventing that source from continuing to originate traffic of the same or similar nature.
+
 (g) Beginning January 1, 2004, common carriers shall:
 
 (1) When providing local exchange service, provide an annual notice, via an insert in the subscriber's bill, of the right to give or revoke a notification of an objection to receiving telephone solicitations pursuant to the national do-not-call database maintained by the federal government and the methods by which such rights may be exercised by the subscriber. The notice must be clear and conspicuous and include, at a minimum, the Internet address and toll-free number that residential telephone subscribers may use to register on the national database.
@@ -214,9 +214,29 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (iii) A valid North American Numbering Plan number that is allocated to a provider by the North American Numbering Plan Administrator or Pooling Administrator, but is unused, so long as the provider blocking the calls is the allocatee of the number and confirms that the number is unused or has obtained verification from the allocatee that the number is unused at the time of the blocking.
 
-(3) A provider may not block a voice call under paragraph (k)(1) or (2) of this section if the call is an emergency call placed to 911.
+(3) A terminating provider may block a voice call without liability under the Communications Act or the Commission's rules where:
 
-(4) For purposes of this subsection, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call in fact originated from that number.
+(i) Calls are blocked based on the use of reasonable analytics designed to identify unwanted calls;
+
+(ii) Those analytics include consideration of caller ID authentication information where available;
+
+(iii) A consumer may opt out of blocking and is provided with sufficient information to make an informed decision;
+
+(iv) All analytics are applied in a non-discriminatory, competitively neutral manner;
+
+(v) Blocking services are provided with no additional line-item charge to consumers; and
+
+(vi) The terminating provider provides, without charge to the caller, the redress requirements set forth in paragraph (k)(8) of this section.
+
+(4) A provider may block voice calls or cease to accept traffic from an originating or intermediate provider without liability under the Communications Act or the Commission's rules where the originating or intermediate provider, when notified by the Commission, fails to effectively mitigate illegal traffic within 48 hours or fails to implement effective measures to prevent new and renewing customers from using its network to originate illegal calls. Prior to initiating blocking, the provider shall provide the Commission with notice and a brief summary of the basis for its determination that the originating or intermediate provider meets one or more of these two conditions for blocking.
+
+(5) A provider may not block a voice call under paragraphs (k)(1) through (4) of this section if the call is an emergency call placed to 911.
+
+(6) A provider may not block calls under paragraphs (k)(1) through (4) of this section unless that provider makes all reasonable efforts to ensure that calls from public safety answering points and government emergency numbers are not blocked.
+
+(7) For purposes of this section, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call, in fact originated from that number.
+
+(8) Any terminating provider blocking pursuant to this subsection must provide a single point of contact, readily available on the terminating provider's public-facing website, for handling call blocking error complaints and must resolve disputes within a reasonable time. When a caller makes a credible claim of erroneous blocking and the terminating provider determines that the calls should not have been blocked, the terminating provider must promptly cease blocking calls from that number unless circumstances change. The terminating provider may not impose any charge on callers for reporting, investigating, or resolving blocking error complaints.
 
 (l) A reporting carrier subject to § 52.15(f) of this title shall:
 
@@ -234,4 +254,4 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (2) The person's call to the number was the result of the database erroneously returning a response of “no” to the person's query consisting of the number for which prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section and the date on which such prior express consent was obtained.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019]
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020]
