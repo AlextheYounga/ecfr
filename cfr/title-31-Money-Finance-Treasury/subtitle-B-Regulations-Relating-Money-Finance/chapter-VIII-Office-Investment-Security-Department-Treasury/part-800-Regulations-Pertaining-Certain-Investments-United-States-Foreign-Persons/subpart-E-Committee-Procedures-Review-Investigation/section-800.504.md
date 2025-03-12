@@ -1,0 +1,3 @@
+##### § 800.504 Determination not to undertake an investigation. #####
+
+If the Committee determines, during the review period described in § 800.502, not to undertake an investigation of a notified covered transaction, action under section 721 shall be concluded. An official at the Department of the Treasury shall promptly send written advice to the parties to a covered transaction of a determination of the Committee not to undertake an investigation and to conclude action under section 721.

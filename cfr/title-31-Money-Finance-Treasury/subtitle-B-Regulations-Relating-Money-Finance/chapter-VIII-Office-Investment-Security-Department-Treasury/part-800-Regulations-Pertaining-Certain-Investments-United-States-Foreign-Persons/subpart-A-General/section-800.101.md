@@ -1,0 +1,5 @@
+##### § 800.101 Scope. #####
+
+The regulations in this part implement section 721 of title VII of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended, hereinafter referred to as “section 721.” The definitions in this part are applicable to section 721 and these regulations. The principal purpose of section 721 is to authorize the President to suspend or prohibit any covered transaction when, in the President's judgment, there is credible evidence to believe that the foreign person exercising control over a U.S. business might take action that threatens to impair the national security, and when provisions of law other than section 721 and the International Emergency Economic Powers Act (50 U.S.C. 1701-1706), do not, in the judgment of the President, provide adequate and appropriate authority for the President to protect the national security in the matter before the President. It is also a purpose of section 721 to authorize the Committee to mitigate any threat to the national security of the United States that arises as a result of a covered transaction.
+
+[73 FR 70716, Nov. 21, 2008, as amended at 83 FR 51319, Oct. 11, 2018]

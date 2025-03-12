@@ -174,6 +174,8 @@
 
 *Scallop dredge* means a dredge-like device designed specifically for and capable of taking scallops by being towed along the ocean floor.
 
+*Scent lure* (in reference to bear baiting) means any biodegradable material to which biodegradable scent is applied or infused.
+
 *Sea urchin rake* means a hand-held implement, no longer than 4 feet, equipped with projecting prongs used to gather sea urchins.
 
 *Sealing* means placing a mark or tag on a portion of a harvested animal by an authorized representative of the ADF&G; *sealing* includes collecting and recording information about the conditions under which the animal was harvested, and measurements of the specimen submitted for sealing, or surrendering a specific portion of the animal for biological information.
@@ -318,4 +320,4 @@
 
 (l) Rural residents, nonrural residents, and nonresidents not specifically prohibited by Federal regulations from fishing, hunting, or trapping on public lands in an area may fish, hunt, or trap on public lands in accordance with the appropriate State regulations.
 
-[77 FR 35494, June 13, 2012, as amended at 80 FR 28192, May 18, 2015]
+[77 FR 35494, June 13, 2012, as amended at 80 FR 28192, May 18, 2015; 83 FR 50764, Oct. 9, 2018]

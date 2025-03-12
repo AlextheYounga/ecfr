@@ -1,5 +1,7 @@
 ##### § 648.370 Habitat Management Areas. #####
 
+Link to an amendment published at 85 FR 29876, May 19, 2020.
+
 Unless otherwise specified, no fishing vessel or person on a fishing vessel may fish with bottom-tending mobile gear in the areas defined in this section. Copies of charts depicting these areas are available from the Regional Administrator upon request.
 
 (a) *Eastern Maine Habitat Management Area.* The Eastern Maine HMA is bounded on the northwest by the outer limit of Maine state waters, and bounded on all other sides by straight lines connecting the following points in the order stated:
