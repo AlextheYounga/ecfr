@@ -1,5 +1,7 @@
 ##### 1852.232-80 Submission of vouchers for payment. #####
 
+Link to an amendment published at 83 FR 13115, Mar. 27, 2018.
+
 As prescribed in 1832.908-70, insert the following clause:
 
 Submission of Vouchers for Payment (SEP 2016)

@@ -28,7 +28,7 @@
 
 (f) When an AF arrangement is used in conjunction with another contract type, the award fee's cost control factor will only apply to a subjective assessment of the contractor's efforts to control costs and not the actual cost outcome incentivized under the basic contract type (*e.g.* CPIF, FPIF).
 
-(g)(1) The contractor's performance against the subcontracting plan incorporated in the contract shall be evaluated. Emphasis may be placed on the contractor's accomplishment of its goals for subcontracting with small business, small disadvantaged business, HUBZone small business, women-owned small business, veteran-owned small business, service-disabled veteran-owned small business concerns, and Historically Black Colleges and Universities - Minority Institutions (HBCU/MIs). The evaluation should consider both goals as a percentage of subcontracting dollars as well as a percentage of the total contract value.
+(g)(1) The contractor's performance against the subcontracting plan incorporated in the contract shall be evaluated. Emphasis may be placed on the contractor's accomplishment of its goals for subcontracting with small business, small disadvantaged business, HUBZone small business, women-owned small business, veteran-owned small business, service-disabled veteran-owned small business concerns, and Historically Black Colleges and Universities—Minority Institutions (HBCU/MIs). The evaluation should consider both goals as a percentage of subcontracting dollars as well as a percentage of the total contract value.
 
 (2) The contractor's achievements in subcontracting high technology efforts as well as the contractor's performance under the Mentor-Protégé Program, if applicable, may also be evaluated.
 
@@ -40,4 +40,4 @@
 
 (j) The Government may unilaterally modify the applicable award fee performance evaluation factors and performance evaluation areas prior to the start of an evaluation period. The contracting officer shall notify the contractor in writing of any such changes 30 days prior to the start of the relevant evaluation period.
 
-[76 FR 6697, Feb. 8, 2011, as amended at ; \\80 FR 12937, Mar. 12, 2015]
+[76 FR 6697, Feb. 8, 2011, as amended at ; 80 FR 12937, Mar. 12, 2015]

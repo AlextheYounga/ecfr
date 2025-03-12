@@ -1,5 +1,7 @@
 ##### 1852.216-80 Task ordering procedure. #####
 
+Link to an amendment published at 83 FR 13115, Mar. 27, 2018.
+
 As prescribed in 1816.506-70, insert the following clause:
 
 Task Ordering Procedures (OCT 1996)
