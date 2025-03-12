@@ -1,5 +1,7 @@
 ##### § 330.7 Accounts held by an agent, nominee, guardian, custodian or conservator. #####
 
+Link to an amendment published at 87 FR 4470, Jan. 28, 2022.
+
 (a) *Agency or nominee accounts.* Funds owned by a principal or principals and deposited into one or more deposit accounts in the name of an agent, custodian or nominee, shall be insured to the same extent as if deposited in the name of the principal(s). When such funds are deposited by an insured depository institution acting as a trustee of an irrevocable trust, the insurance coverage shall be governed by the provisions of § 330.13.
 
 (b) *Guardian, custodian or conservator accounts.* Funds held by a guardian, custodian, or conservator for the benefit of his or her ward, or for the benefit of a minor under the Uniform Gifts to Minors Act, and deposited into one or more accounts in the name of the guardian, custodian or conservator shall, for purposes of this part, be deemed to be agency or nominee accounts and shall be insured in accordance with paragraph (a) of this section.

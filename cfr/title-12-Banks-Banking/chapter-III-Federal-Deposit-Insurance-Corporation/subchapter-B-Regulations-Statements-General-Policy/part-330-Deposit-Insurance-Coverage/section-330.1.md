@@ -1,5 +1,7 @@
 ##### § 330.1 Definitions. #####
 
+Link to an amendment published at 87 FR 4470, Jan. 28, 2022.
+
 For the purposes of this part:
 
 (a) *Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).
