@@ -1781,7 +1781,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Batavia       |                        23                         |
 |        Bath        |                        14                         |
 |     Binghamton     |                  7, 8, 34, \*42                   |
-|      Buffalo       |           14, 32, 33, 38, 39, \*43, 49            |
+|      Buffalo       |         14, 32, 33, 36, 38, 39, \*43, 49          |
 |      Carthage      |                         7                         |
 |      Corning       |                     \*30, 48                      |
 |       Elmira       |                      18, 36                       |

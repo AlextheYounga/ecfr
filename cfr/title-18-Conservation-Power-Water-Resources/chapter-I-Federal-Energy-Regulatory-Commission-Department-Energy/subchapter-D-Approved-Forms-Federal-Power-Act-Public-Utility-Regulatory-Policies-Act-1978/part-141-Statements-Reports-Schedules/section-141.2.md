@@ -1,5 +1,7 @@
 ##### § 141.2 FERC Form No. 1-F, Annual report for Nonmajor public utilities and licensees. #####
 
+Link to an amendment published at 84 FR 30628, June 27, 2019.
+
 (a) *Prescription.* The form of Annual Report for Nonmajor Public Utilities and Licensees, designated herein as FERC Form No. 1-F, is prescribed for the year 1980 and each year thereafter.
 
 (b) *Filing Requirements* - (1) *Who Must File* - (i) *Generally.* Each Nonmajor and each Nonoperating (formerly designated as Nonmajor) public utility and licensee as defined by the Federal Power Act, which is considered Nonmajor as defined in Part 101 of this chapter, shall prepare and file with the Commission an original and conformed copies of FERC Form No. 1-F pursuant to the General Instructions set out in that form.
