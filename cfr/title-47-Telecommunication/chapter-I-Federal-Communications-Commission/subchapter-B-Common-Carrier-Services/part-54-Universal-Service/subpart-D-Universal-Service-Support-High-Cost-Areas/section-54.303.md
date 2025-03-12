@@ -1,5 +1,7 @@
 ##### § 54.303 Eligible Capital Investment and Operating Expenses. #####
 
+Link to an amendment published at 82 FR 22903, May 19, 2017.
+
 (a) *Eligible Operating Expenses.* Each study area's eligible operating expenses for purposes of calculating universal service support pursuant to subparts K and M of this part shall be adjusted as follows:
 
 (1) Total eligible annual operating expenses per location shall be limited as follows: Calculate Exp(Y + 1.5 \* mean square error of the regression), where

@@ -14,4 +14,4 @@ If you are a non-Native transferee of live Alaskan reindeer who violates the pro
 
 (2) Fail to file with us a claim of title to reindeer within 30 days of acquiring them.
 
-[71 FR 2429, Jan. 13, 2006, as amended at 81 FR 42481, June 30, 2016; 82 FR 7653, Jan. 23, 2017]
+[71 FR 2429, Jan. 13, 2006, as amended at 81 FR 42482, June 30, 2016; 82 FR 7653, Jan. 23, 2017]

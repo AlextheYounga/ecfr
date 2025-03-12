@@ -1,6 +1,6 @@
 ##### § 510.410 Compliance enforcement. #####
 
-Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was delayed to Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
 
 (a) *General.* Participant hospitals must comply with all of the requirements outlined in this part. Except as specifically noted in this part, the regulations under this part must not be construed to affect the payment, coverage, program integrity, or other requirements (such as those in parts 412 and 482 of this chapter) that apply to providers and suppliers under this chapter.
 

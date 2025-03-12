@@ -18,4 +18,4 @@
 
 (3) Authorizing the imposition of a penalty for violations of lease or permit terms for which the authorized officer, director's representative or MMS official, have either statutory or regulatory authority to assess a penalty.
 
-[61 FR 35653, July 8, 1996, as amended at 81 FR 42481, June 30, 2016]
+[61 FR 35653, July 8, 1996, as amended at 81 FR 42481, June 30, 2016; 82 FR 7652, Jan. 23, 2017]

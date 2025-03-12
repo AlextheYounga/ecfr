@@ -1,6 +1,6 @@
 ##### § 510.505 Distribution arrangements. #####
 
-Link to an amendment published at 82 FR 620, Jan. 3, 2017.This amendment was delayed to Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 620, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
 
 (a) *General.* (1) A PGP that has entered into a collaborator agreement with a participant hospital may distribute all or a portion of any gainsharing payment it receives from the hospital only in accordance with a distribution arrangement.
 

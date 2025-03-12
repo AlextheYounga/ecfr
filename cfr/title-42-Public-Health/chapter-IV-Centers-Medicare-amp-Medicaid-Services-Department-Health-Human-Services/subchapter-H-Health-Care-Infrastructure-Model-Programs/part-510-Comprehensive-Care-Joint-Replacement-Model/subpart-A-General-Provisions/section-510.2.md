@@ -1,6 +1,6 @@
 ##### § 510.2 Definitions. #####
 
-Link to an amendment published at 82 FR 610, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017, at 82 FR 14464, Mar. 21, 2017.Link to an amendment published at 82 FR 611, Jan. 3, 2017.This amendment was delayed to Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 610, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14464, Mar. 21, 2017.Link to an amendment published at 82 FR 611, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
 
 For the purposes of this part, the following definitions are applicable unless otherwise stated:
 
