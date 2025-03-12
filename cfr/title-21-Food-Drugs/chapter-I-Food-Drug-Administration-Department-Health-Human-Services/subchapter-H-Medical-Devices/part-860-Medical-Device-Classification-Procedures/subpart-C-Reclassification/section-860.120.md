@@ -1,5 +1,7 @@
 ##### § 860.120 General. #####
 
+Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
+
 (a) Sections 513(e) and (f), 514(b), 515(b), and 520(l) of the act provide for reclassification of a device and prescribe the procedures to be followed to effect reclassification. The purposes of subpart C are to:
 
 (1) Set forth the requirements as to form and content of petitions for reclassification;

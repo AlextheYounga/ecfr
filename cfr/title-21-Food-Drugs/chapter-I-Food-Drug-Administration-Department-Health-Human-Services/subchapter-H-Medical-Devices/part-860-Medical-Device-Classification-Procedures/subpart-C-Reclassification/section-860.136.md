@@ -1,5 +1,7 @@
 ##### § 860.136 Procedures for transitional products under section 520(l) of the act. #####
 
+Link to an amendment published at 83 FR 64458, Dec. 17, 2018.
+
 (a) Section 520(l)(2) of the act applies to reclassification proceedings initiated by a manufacturer or importer for reclassification of a device currently in class III by operation of section 520(l)(1) of the act. This section applies only to devices that the Food and Drug Administration regarded as “new drugs” before May 28, 1976.
 
 (b) The procedures for effecting reclassification under section 520(l) are as follows:

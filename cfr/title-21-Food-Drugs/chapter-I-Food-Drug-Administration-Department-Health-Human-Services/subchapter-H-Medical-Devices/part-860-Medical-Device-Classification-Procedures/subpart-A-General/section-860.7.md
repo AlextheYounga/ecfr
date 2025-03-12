@@ -1,5 +1,7 @@
 ##### § 860.7 Determination of safety and effectiveness. #####
 
+Link to an amendment published at 83 FR 64454, Dec. 17, 2018.
+
 (a) The classification panels, in reviewing evidence concerning the safety and effectiveness of a device and in preparing advice to the Commissioner, and the Commissioner, in making determinations concerning the safety and effectiveness of a device, will apply the rules in this section.
 
 (b) In determining the safety and effectiveness of a device for purposes of classification, establishment of performance standards for class II devices, and premarket approval of class III devices, the Commissioner and the classification panels will consider the following, among other relevant factors:

@@ -1,5 +1,7 @@
 ##### § 648.26 Mackerel, squid, and butterfish possession restrictions. #####
 
+Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
+
 (a) *Atlantic mackerel.* (1) A vessel must be issued a valid limited access mackerel permit to fish for, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel from or in the EEZ per trip, provided that the fishery has not been closed because 90 percent of the DAH has been harvested, as specified in § 648.24(b)(1)(i).
 
 (i) A vessel issued a Tier 1 Limited Access Mackerel Permit is authorized to fish for, possess, or land Atlantic mackerel with no possession restriction in the EEZ per trip, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours, provided that the fishery has not been closed because 95 percent of the DAH has been harvested, as specified in § 648.24(b)(1)(i).

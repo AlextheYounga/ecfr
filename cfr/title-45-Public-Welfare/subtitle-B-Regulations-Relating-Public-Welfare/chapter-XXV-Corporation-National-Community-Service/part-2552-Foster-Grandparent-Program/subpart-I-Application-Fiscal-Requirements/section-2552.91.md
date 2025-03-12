@@ -1,5 +1,7 @@
 ##### § 2552.91 What is the process for application and award of a grant? #####
 
+Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+
 (a) *How and when may an eligible organization apply for a grant?* (1) An eligible organization may file an application for a grant at any time.
 
 (2) Before submitting an application an applicant shall determine the availability of funds from the Corporation.

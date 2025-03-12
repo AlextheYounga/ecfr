@@ -1,5 +1,7 @@
 ##### § 2552.93 What are grants management requirements? #####
 
+Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
+
 What rules govern a sponsor's management of grants?
 
 (a) A sponsor shall manage a grant in accordance with:

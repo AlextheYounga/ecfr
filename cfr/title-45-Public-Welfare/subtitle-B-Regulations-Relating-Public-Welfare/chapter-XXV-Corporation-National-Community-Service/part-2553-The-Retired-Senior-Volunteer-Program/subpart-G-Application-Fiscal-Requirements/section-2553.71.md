@@ -1,5 +1,7 @@
 ##### § 2553.71 What is the process for application and award of a grant? #####
 
+Link to an amendment published at 83 FR 64656, Dec. 17, 2018.
+
 As funds become available, the Corporation solicits applications for RSVP grants from eligible organizations through a competitive process.
 
 (a) *What are the application requirements for an RSVP grant?* An applicant must:

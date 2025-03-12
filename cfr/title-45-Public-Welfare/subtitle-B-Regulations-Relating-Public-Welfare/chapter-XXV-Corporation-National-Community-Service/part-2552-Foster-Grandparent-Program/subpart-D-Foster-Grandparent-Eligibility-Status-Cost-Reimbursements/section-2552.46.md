@@ -1,5 +1,7 @@
 ##### § 2552.46 What cost reimbursements are provided to Foster Grandparents? #####
 
+Link to an amendment published at 83 FR 64651, Dec. 17, 2018.
+
 Cost reimbursements include:
 
 (a) *Stipend.* Foster Grandparents who are income eligible will receive a stipend in an amount determined by the Corporation and payable in regular installments, to enable them to serve without cost to themselves. The stipend is paid for the time Foster Grandparents spend with their assigned children, for earned leave, and for attendance at official project events.

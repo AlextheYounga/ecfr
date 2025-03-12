@@ -1,5 +1,7 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
+Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
+
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -380,4 +382,4 @@ SNE/MA Stock Area 4
 
 (p) *Illex squid VMS notification requirement.* A vessel issued an *Illex* squid moratorium permit intending to declare into the *Illex* squid fishery must notify NMFS by declaring an *Illex* squid trip prior to leaving port at the start of each trip in order to harvest, possess, or land 10,000 lb (4,535.9 kg) or more of *Illex* squid on that trip.
 
-[74 FR 20530, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[74 FR 20530, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

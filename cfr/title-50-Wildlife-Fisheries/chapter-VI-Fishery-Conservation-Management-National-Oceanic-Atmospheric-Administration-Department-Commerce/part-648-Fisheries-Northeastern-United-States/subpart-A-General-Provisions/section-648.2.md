@@ -1,5 +1,7 @@
 ##### § 648.2 Definitions. #####
 
+Link to an amendment published at 83 FR 64263, Dec. 14, 2018.
+
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -716,4 +718,4 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Whiting Monitoring Committee (WMC)* means a team appointed by the NEFMC to review, analyze, and recommend adjustments to the management measures addressing small-mesh multispecies. The team consists of staff from the NEFMC and MAFMC, NMFS Northeast Regional Office, the NEFSC, the USCG, at least one industry representative from each geographical area (northern New England, southern New England, and the Mid-Atlantic), and no more than two representatives, appointed by the Commission, from affected states.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

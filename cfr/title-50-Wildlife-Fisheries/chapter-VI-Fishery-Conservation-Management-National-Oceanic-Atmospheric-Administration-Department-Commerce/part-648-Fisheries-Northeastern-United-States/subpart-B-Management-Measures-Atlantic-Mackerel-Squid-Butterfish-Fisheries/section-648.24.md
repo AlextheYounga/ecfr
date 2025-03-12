@@ -1,5 +1,7 @@
 ##### § 648.24 Fishery closures and accountability measures. #####
 
+Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
+
 (a) *Fishery closure procedures* - (1) *Longfin squid.* NMFS shall close the directed fishery in the EEZ for longfin squid when the Regional Administrator projects that 90 percent of the longfin squid quota is harvested before April 15 of Trimester I and/or August 15 of Trimester II, and when 95 percent of the longfin squid DAH has been harvested in Trimester III. On or after April 15 of Trimester I and/or August 15 of Trimester II, NMFS shall close the directed fishery in the EEZ for longfin squid when the Regional Administrator projects that 95 percent of the longfin squid quota is harvested. The closure of the directed fishery shall be in effect for the remainder of that fishing period, with incidental catches allowed as specified at § 648.26.
 
 (2) *Illex.* NMFS shall close the directed *Illex* fishery in the EEZ when the Regional Administrator projects that 95 percent of the *Illex* DAH is harvested. The closure of the directed fishery shall be in effect for the remainder of that fishing period, with incidental catches allowed as specified at § 648.26.

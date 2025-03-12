@@ -1,7 +1,5 @@
 ##### § 51.140 Dietary services. #####
 
-Link to an amendment published at 83 FR 61276, Nov. 28, 2018.
-
 The facility management must provide each resident with a nourishing, palatable, well-balanced diet that meets the daily nutritional and special dietary needs of each resident.
 
 (a) *Staffing.* The facility management must employ a qualified dietitian either full-time, part-time, or on a consultant basis.

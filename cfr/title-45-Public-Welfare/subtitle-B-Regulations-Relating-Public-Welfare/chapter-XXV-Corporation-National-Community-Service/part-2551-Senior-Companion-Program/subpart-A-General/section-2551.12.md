@@ -1,5 +1,7 @@
 ##### § 2551.12 Definitions. #####
 
+Link to an amendment published at 83 FR 64644, Dec. 17, 2018.
+
 (a) *Act.* The Domestic Volunteer Service Act of 1973, as amended, Pub. L. 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
 
 (b) *Adult with special needs.* Any individual over 21 years of age who has one or more physical, emotional, or mental health limitations and is in need of assistance to achieve and maintain their highest level of independent living.

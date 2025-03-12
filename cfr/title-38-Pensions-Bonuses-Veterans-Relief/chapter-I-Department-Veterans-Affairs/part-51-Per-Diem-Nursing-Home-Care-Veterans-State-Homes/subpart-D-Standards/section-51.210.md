@@ -1,7 +1,5 @@
 ##### § 51.210 Administration. #####
 
-Link to an amendment published at 83 FR 61276, Nov. 28, 2018.
-
 A facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well being of each resident.
 
 (a) *Governing body.* (1) The State must have a governing body, or designated person functioning as a governing body, that is legally responsible for establishing and implementing policies regarding the management and operation of the facility; and

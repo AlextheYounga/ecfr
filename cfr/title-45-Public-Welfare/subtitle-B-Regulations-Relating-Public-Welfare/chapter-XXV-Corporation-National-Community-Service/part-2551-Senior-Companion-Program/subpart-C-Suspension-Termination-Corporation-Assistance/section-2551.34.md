@@ -1,5 +1,7 @@
 ##### § 2551.34 What are the rules on suspension, termination, and denial of refunding of grants? #####
 
+Link to an amendment published at 83 FR 64645, Dec. 17, 2018.
+
 (a) The Chief Executive Officer or designee is authorized to suspend further payments or to terminate payments under any grant providing assistance under the Act whenever he/she determines there is a material failure to comply with applicable terms and conditions of the grant. The Chief Executive Officer shall prescribe procedures to insure that:
 
 (1) Assistance under the Act shall not be suspended for failure to comply with applicable terms and conditions, except in emergency situations for thirty days;

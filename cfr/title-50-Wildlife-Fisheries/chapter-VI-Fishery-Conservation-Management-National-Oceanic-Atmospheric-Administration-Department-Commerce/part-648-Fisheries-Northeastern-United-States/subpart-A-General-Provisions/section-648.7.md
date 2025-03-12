@@ -1,5 +1,7 @@
 ##### § 648.7 Recordkeeping and reporting requirements. #####
 
+Link to an amendment published at 83 FR 64265, Dec. 14, 2018.
+
 (a) *Dealers* - (1) Federally permitted dealers, and any individual acting in the capacity of a dealer, must submit to the Regional Administrator or to the official designee a detailed report of all fish purchased or received for a commercial purpose, other than solely for transport on land, within the time period specified in paragraph (f) of this section, by one of the available electronic reporting mechanisms approved by NMFS, unless otherwise directed by the Regional Administrator. The dealer reporting requirements specified in this paragraph (a)(1) for dealers purchasing or receiving for a commercial purpose Atlantic chub mackerel are effective through December 31, 2020. The following information, and any other information required by the Regional Administrator, must be provided in each report:
 
 (2) *System requirements.* All persons required to submit reports under paragraph (a)(1) of this section are required to have the capability to transmit data via the Internet. To ensure compatibility with the reporting system and database, dealers are required to utilize a personal computer, in working condition, that meets the minimum specifications identified by NMFS. The affected public will be notified of the minimum specifications via a letter to all Federal dealer permit holders.
@@ -80,4 +82,4 @@
 
 (h) *At-sea monitor/electronic monitoring reports.* Any at-sea monitor assigned to observe a sector trip and any third-party service provider analyzing data from electronic monitoring equipment deployed on a sector trip must submit reports on catch, discard, and other data elements specified by the Regional Administrator to NMFS, the sector manager, and monitoring contractor, as instructed by the Regional Administrator.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

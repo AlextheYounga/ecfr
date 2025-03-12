@@ -1,7 +1,5 @@
 ##### § 51.40 Basic per diem. #####
 
-Link to an amendment published at 83 FR 61274, Nov. 28, 2018.
-
 Except as provided in § 51.41 of this part,
 
 (a) During Fiscal Year 2008 VA will pay a facility recognized as a State home for nursing home care the lesser of the following for nursing home care provided to an eligible veteran in such facility:

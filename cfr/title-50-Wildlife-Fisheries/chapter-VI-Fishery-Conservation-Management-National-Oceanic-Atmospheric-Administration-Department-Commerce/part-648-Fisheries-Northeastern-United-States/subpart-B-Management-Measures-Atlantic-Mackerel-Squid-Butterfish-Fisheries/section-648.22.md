@@ -1,5 +1,7 @@
 ##### § 648.22 Atlantic mackerel, squid, and butterfish specifications. #####
 
+Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
+
 (a) *Initial recommended annual specifications.* The Atlantic Mackerel, Squid, and Butterfish Monitoring Committee (Monitoring Committee) shall meet annually to develop and recommend the following specifications for consideration by the Squid, Mackerel, and Butterfish Committee of the MAFMC:
 
 (1) Initial OY (IOY), including Research Set-Aside (RSA), DAH, and DAP for *Illex* squid, which, subject to annual review, may be specified for a period of up to 3 years;

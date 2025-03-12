@@ -1,5 +1,7 @@
 ##### § 2552.92 What are project funding requirements? #####
 
+Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+
 (a) *Is non-Corporation support required?* A Corporation grant may be awarded to fund up to 90 percent of the cost of development and operation of a Foster Grandparent project. The sponsor is required to contribute at least 10 percent of the total project cost from non-Federal sources or authorized Federal sources.
 
 (b) *Under what circumstances does the Corporation allow less than the 10 percent non-Corporation support?* The Corporation may allow exceptions to the 10 percent local support requirement in cases of demonstrated need such as:

@@ -1,5 +1,7 @@
 ##### § 860.132 Procedures when the Commissioner initiates a performance standard or premarket approval proceeding under section 514(b) or 515(b) of the act. #####
 
+Link to an amendment published at 83 FR 64457, Dec. 17, 2018.
+
 (a) Sections 514(b) and 515(b) of the act require the Commissioner to provide, by notice in the Federal Register, an opportunity for interested parties to request a change in the classification of a device based upon new information relevant to its classification when the Commissioner initiates a proceeding either to develop a performance standard for the device if in class II, or to promulgate a regulation requiring premarket approval for the device if in class III. In either case, if the Commissioner agrees that the new information warrants a change in classification, the Commissioner will publish in the Federal Register notice of the Commissioner's intent to initiate a proceeding under section 513(e) of the act and § 860.130 to effect such a change.
 
 (b) The procedures for effecting a change in classification under sections 514(b) and 515(b) of the act are as follows:

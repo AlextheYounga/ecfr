@@ -1,5 +1,7 @@
 ##### § 2552.102 What are the conditions of service of non-stipended Foster Grandparents? #####
 
+Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
+
 Non-stipended Foster Grandparents serve under the following conditions:
 
 (a) They must not displace or prevent eligible low-income individuals from becoming Foster Grandparents.

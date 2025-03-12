@@ -1,7 +1,5 @@
 ##### § 51.59 Authority to continue payment of per diem when veterans are relocated due to emergency. #####
 
-Link to an amendment published at 83 FR 61276, Nov. 28, 2018.
-
 (a) *Definition of emergency.* For the purposes of this section, emergency means an occasion or instance where all of the following are true:
 
 (1) It would be unsafe for veterans receiving care at a State home facility to remain in that facility.

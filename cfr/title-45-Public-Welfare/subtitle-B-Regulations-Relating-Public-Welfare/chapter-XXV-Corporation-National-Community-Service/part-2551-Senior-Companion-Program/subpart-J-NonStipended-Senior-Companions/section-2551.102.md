@@ -1,5 +1,7 @@
 ##### § 2551.102 What are the conditions of service of non-stipended Senior Companions? #####
 
+Link to an amendment published at 83 FR 64648, Dec. 17, 2018.
+
 Non-stipended Senior Companions serve under the following conditions:
 
 (a) They must not displace or prevent eligible low-income individuals from becoming Senior Companions.

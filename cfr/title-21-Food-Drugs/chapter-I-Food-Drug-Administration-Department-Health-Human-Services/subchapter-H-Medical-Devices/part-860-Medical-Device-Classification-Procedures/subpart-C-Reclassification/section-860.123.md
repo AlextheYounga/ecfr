@@ -1,5 +1,7 @@
 ##### § 860.123 Reclassification petition: Content and form. #####
 
+Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
+
 (a) Unless otherwise provided in writing by the Commissioner, any petition for reclassification of a device, regardless of the section of the act under which it is filed, shall include the following:
 
 (1) A specification of the type of device for which reclassification is requested;

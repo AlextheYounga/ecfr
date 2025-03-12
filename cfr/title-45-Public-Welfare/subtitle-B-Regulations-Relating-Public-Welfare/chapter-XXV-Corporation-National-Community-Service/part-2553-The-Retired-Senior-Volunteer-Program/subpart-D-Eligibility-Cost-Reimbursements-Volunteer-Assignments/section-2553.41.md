@@ -1,5 +1,7 @@
 ##### § 2553.41 Who is eligible to be a RSVP volunteer? #####
 
+Link to an amendment published at 83 FR 64655, Dec. 17, 2018.
+
 (a) To be an RSVP volunteer, an individual must:
 
 (1) Be 55 years of age or older;

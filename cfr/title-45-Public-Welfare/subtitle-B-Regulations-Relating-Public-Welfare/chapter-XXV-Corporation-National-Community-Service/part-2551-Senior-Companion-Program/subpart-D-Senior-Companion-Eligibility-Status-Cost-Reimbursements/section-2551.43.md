@@ -1,5 +1,7 @@
 ##### § 2551.43 What income guidelines govern eligibility to serve as a stipended Senior Companion? #####
 
+Link to an amendment published at 83 FR 64646, Dec. 17, 2018.
+
 (a) To receive a stipend, a Senior Companion may not have an annual income from all sources, after deducting allowable medical expenses, which exceeds the program's income eligibility guideline for the State in which he or she resides. The income eligibility guideline for each State is 200 percent of the poverty line, as set forth in 42 U.S.C. 9902 (2).
 
 (b) For applicants to become stipended Senior Companions, annual income is projected for the following 12 months, based on income at the time of application. For serving stipended Senior Companions, annual income is counted for the past 12 months. Annual income includes the applicant or enrollee's income and that of his/her spouse, if the spouse lives in the same residence. Sponsors shall count the value of shelter, food, and clothing, if provided at no cost by persons related to the applicant, enrollee, or spouse.

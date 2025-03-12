@@ -1,5 +1,7 @@
 ##### § 860.84 Classification procedures for “old devices.” #####
 
+Link to an amendment published at 83 FR 64455, Dec. 17, 2018.
+
 (a) This subpart sets forth the procedures for the original classification of a device that either was in commercial distribution before May 28, 1976, or is substantially equivalent to a device that was in commercial distribution before that date. Such a device will be classified by regulation into either class I (general controls), class II (special controls) or class III (premarket approval), depending upon the level of regulatory control required to provide reasonable assurance of the safety and effectiveness of the device (§ 860.3(c)). This subpart does not apply to a device that is classified into class III by statute under section 513(f) of the act because the Food and Drug Administration has determined that the device is not “substantially equivalent” to any device subject to this subpart or under section 520(l) (1) through (3) of the act because the device was regarded previously as a new drug. In classifying a device under this section, the Food and Drug Administration will follow the procedures described in paragraphs (b) through (g) of this section.
 
 (b) The Commissioner refers the device to the appropriate classification panel organized and operated in accordance with section 513 (b) and (c) of the act and part 14 of this chapter.

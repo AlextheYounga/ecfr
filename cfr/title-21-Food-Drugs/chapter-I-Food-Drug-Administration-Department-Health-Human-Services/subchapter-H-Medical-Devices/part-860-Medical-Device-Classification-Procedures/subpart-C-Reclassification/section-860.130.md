@@ -1,5 +1,7 @@
 ##### § 860.130 General procedures under section 513(e) of the act. #####
 
+Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
+
 (a) Section 513(e) of the act applies to reclassification proceedings under the act based upon new information.
 
 (b) A proceeding to reclassify a device under section 513(e) may be initiated:

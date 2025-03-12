@@ -1,5 +1,7 @@
 ##### § 2552.82 Under what circumstances may a Foster Grandparent continue to serve an individual beyond his or her 21st birthday? #####
 
+Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+
 (a) Only when a Foster Grandparent has been assigned to, and has developed a relationship with, a child with a disability, that assignment may continue beyond the individual's 21st birthday, provided that:
 
 (1) Such individual was receiving such services prior to attaining the chronological age of 21, and the continuation of service is in the best interest of the individual; and

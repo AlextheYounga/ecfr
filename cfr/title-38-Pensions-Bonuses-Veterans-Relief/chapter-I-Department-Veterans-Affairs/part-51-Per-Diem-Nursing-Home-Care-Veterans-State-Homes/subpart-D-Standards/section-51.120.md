@@ -1,7 +1,5 @@
 ##### § 51.120 Quality of care. #####
 
-Link to an amendment published at 83 FR 61276, Nov. 28, 2018.
-
 Each resident must receive and the facility management must provide the necessary care and services to attain or maintain the highest practicable physical, mental, and psychosocial well-being, in accordance with the comprehensive assessment and plan of care.
 
 (a) *Reporting of Sentinel Events* - (1) *Definition.* A sentinel event is an adverse event that results in the loss of life or limb or permanent loss of function.

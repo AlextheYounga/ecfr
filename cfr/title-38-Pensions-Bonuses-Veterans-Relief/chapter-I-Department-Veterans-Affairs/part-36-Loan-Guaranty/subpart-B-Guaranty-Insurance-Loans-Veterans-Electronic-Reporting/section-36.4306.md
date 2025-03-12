@@ -1,5 +1,7 @@
 ##### § 36.4306 Refinancing of mortgage or other lien indebtedness. #####
 
+Link to an amendment published at 83 FR 64468, Dec. 17, 2018.
+
 (a) Any loan for the purpose of refinancing (38 U.S.C. 3710(a)(5)) an existing mortgage loan or other indebtedness secured by a lien of record on a dwelling or farm residence owned and occupied or to be reoccupied if the refinancing loan is for the completion of major alterations, repairs or improvements to the property, by an eligible veteran as the veteran's home, or in the case of an eligible veteran unable to occupy the property because of active duty status in the Armed Forces, occupied or to be reoccupied by the veteran's spouse as the spouse's home, shall be eligible for guaranty in an amount as computed under § 36.4302(a) provided that -
 
 (1) The amount of the loan may not exceed an amount equal to 90 percent of the reasonable value of the dwelling or farm residence which will secure the loan, as determined by the Secretary.

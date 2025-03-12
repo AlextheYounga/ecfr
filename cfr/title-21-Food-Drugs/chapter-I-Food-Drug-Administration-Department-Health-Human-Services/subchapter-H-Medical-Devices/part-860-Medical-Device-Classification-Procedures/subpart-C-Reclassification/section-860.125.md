@@ -1,5 +1,7 @@
 ##### § 860.125 Consultation with panels. #####
 
+Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
+
 (a) When the Commissioner is required to refer a reclassification petition to a classification panel for its recommendation under § 860.134, or is required, or chooses, to consult with a panel concerning a reclassification petition, such as under § 860.130, § 860.132, or § 860.136, the Commissioner will distribute a copy of the petition, or its relevant portions, to each panel member and will consult with the panel in one of the following ways:
 
 (1) Consultation by telephone with at least a majority of current voting panel members and, when possible, nonvoting panel members;

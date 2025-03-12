@@ -1,4 +1,7 @@
-##### § 2552.121 What legal limitations apply to the operation of the Foster Grandparent Program and to the expenditure of grant funds? #####
+##### § 2552.121 What legal limitations apply to the operation of the Foster Grandparent Program and to the expenditure of grant funds?
+- #####
+
+Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
 
 (a) *Political activities.* (1) No part of any grant shall be used to finance, directly or indirectly, any activity to influence the outcome of any election to public office, or any voter registration activity.
 

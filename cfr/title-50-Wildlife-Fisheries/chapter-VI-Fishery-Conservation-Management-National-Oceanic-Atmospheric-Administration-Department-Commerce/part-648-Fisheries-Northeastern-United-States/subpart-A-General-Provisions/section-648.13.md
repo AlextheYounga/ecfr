@@ -1,5 +1,7 @@
 ##### § 648.13 Transfers at sea. #####
 
+Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
+
 (a) Only vessels issued a longfin squid and butterfish moratorium or *Illex* moratorium permit under § 648.4(a)(5) and vessels issued a squid/butterfish incidental catch permit and authorized in writing by the Regional Administrator to do so, may transfer or attempt to transfer or receive longfin squid, *Illex,* or butterfish.
 
 (b)(1) Except as provided in paragraph (b)(2) of this section, vessels issued a multispecies permit under § 648.4(a)(1) or a scallop permit under § 648.4(a)(2) are prohibited from transferring or attempting to transfer any fish from one vessel to another vessel, except that vessels issued a Federal multispecies permit under § 648.4(a)(1) and specifically authorized in writing by the Regional Administrator to do so, may transfer species other than regulated species from one vessel to another vessel.
@@ -74,4 +76,4 @@
 
 (x) The donating and receiving vessels report the transfer amount on the vessel trip report for each vessel.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

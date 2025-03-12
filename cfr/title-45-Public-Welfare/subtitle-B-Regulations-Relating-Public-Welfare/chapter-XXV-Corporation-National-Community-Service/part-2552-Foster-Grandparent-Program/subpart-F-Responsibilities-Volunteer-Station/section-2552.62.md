@@ -1,5 +1,7 @@
 ##### § 2552.62 What are the responsibilities of a volunteer station? #####
 
+Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+
 A volunteer station shall undertake the following responsibilities in support of Foster Grandparent volunteers:
 
 (a) Develop volunteer assignments that meet the requirements specified in §§ 2552.71 through 2552.72 and regularly assess those assignments for continued appropriateness.

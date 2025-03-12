@@ -1,5 +1,7 @@
 ##### § 2553.72 What are project funding requirements? #####
 
+Link to an amendment published at 83 FR 64657, Dec. 17, 2018.
+
 (a) *Is non-Corporation support required?* (1) A Corporation grant may be awarded to fund up to 90 percent of the total project cost in the first year, 80 percent in the second year, and 70 percent in the third and succeeding years.
 
 (2) A sponsor is responsible for identifying non-Corporation funds which may include in-kind contributions.

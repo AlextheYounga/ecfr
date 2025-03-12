@@ -1,5 +1,7 @@
 ##### § 2551.24 What are a sponsor's responsibilities for securing community participation? #####
 
+Link to an amendment published at 83 FR 64645, Dec. 17, 2018.
+
 (a) A sponsor shall secure community participation in local project operation by establishing an Advisory Council or a similar organizational structure with a membership that includes people:
 
 (1) Knowledgeable of human and social needs of the community;

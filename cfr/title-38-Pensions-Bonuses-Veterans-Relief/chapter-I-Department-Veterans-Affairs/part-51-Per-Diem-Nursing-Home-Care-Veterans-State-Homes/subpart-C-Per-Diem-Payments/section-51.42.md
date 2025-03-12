@@ -1,7 +1,5 @@
 ##### § 51.42 Drugs and medicines for certain veterans. #####
 
-Link to an amendment published at 83 FR 61274, Nov. 28, 2018.
-
 (a) In addition to per diem payments under § 51.40 of this part, the Secretary shall furnish drugs and medicines to a facility recognized as a State home as may be ordered by prescription of a duly licensed physician as specific therapy in the treatment of illness or injury for a veteran receiving care in a State home, if:
 
 (1) The veteran:

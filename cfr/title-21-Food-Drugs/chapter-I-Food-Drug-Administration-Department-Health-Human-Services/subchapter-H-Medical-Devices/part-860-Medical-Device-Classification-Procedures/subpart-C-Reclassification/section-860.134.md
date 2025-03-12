@@ -1,5 +1,7 @@
 ##### § 860.134 Procedures for “new devices” under section 513(f) of the act and reclassification of certain devices. #####
 
+Link to an amendment published at 83 FR 64457, Dec. 17, 2018.
+
 (a) Section 513(f)(3) of the act applies to proceedings for reclassification of a device currently in class III by operation of section 513(f)(1) of the act. This category includes any device that is to be first introduced or delivered for introduction into interstate commerce for commercial distribution after May 28, 1976, unless:
 
 (1) It is substantially equivalent to another device that was in commercial distribution before that date and had not been regulated before that date as a new drug; or

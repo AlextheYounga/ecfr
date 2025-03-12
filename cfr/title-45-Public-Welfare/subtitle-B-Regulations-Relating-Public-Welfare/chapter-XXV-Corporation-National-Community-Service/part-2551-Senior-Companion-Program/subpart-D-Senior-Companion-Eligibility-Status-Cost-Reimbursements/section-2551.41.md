@@ -1,5 +1,7 @@
 ##### § 2551.41 Who is eligible to be a Senior Companion? #####
 
+Link to an amendment published at 83 FR 64645, Dec. 17, 2018.
+
 (a) To be a Senior Companion, an individual must:
 
 (1) Be 55 years of age or older;

@@ -1,5 +1,7 @@
 ##### § 2553.62 What are the responsibilities of a volunteer station? #####
 
+Link to an amendment published at 83 FR 64656, Dec. 17, 2018.
+
 A volunteer station shall undertake the following responsibilities in support of RSVP volunteers:
 
 (a) Develop volunteer assignments that impact critical human and social needs, and regularly assess those assignments for continued appropriateness;
