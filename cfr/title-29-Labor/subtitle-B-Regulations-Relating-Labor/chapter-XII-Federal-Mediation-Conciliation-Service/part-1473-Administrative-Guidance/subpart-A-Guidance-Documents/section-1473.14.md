@@ -1,0 +1,3 @@
+##### § 1473.14 Reports to Congress and the Government Accountability Office (GAO). #####
+
+Unless otherwise determined in writing by the Office of General Counsel, it is the policy of the Service that upon issuing a guidance document determined to be “significant” within the meaning of § 1473.8, the Director will submit a report to Congress and GAO in accordance with the procedures described in 5 U.S.C. 801 (the “Congressional Review Act”).

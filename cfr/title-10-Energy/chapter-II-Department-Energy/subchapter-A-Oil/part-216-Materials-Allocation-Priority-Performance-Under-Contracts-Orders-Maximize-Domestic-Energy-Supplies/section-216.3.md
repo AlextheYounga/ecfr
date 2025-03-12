@@ -1,6 +1,6 @@
 ##### § 216.3 Requests for assistance. #####
 
-(a) Persons who believe that they perform work associated with a program or project which may qualify as an eligible energy program or project and wishing to receive assistance as authorized by DPA section 101(c)(1) may submit an application to DOE requesting DOE to determine whether a program or project maximizes domestic energy supplies and to find whether or not specific supplies of materials and equipment, services, or facilities identified in the application are critical and essential for a purpose identified in section 101(c). The application shall be sent to: U.S. Department of Energy, Attn: Office of Electricity and Energy Assurance, OE-30, Forrestal Building, 1000 Independence Avenue, SW., Washington, DC 20585. The application shall contain the following information:
+(a) Persons who believe that they perform work associated with a program or project which may qualify as an eligible energy program or project and wishing to receive assistance as authorized by DPA section 101(c)(1) may submit an application to DOE requesting DOE to determine whether a program or project maximizes domestic energy supplies and to find whether or not specific supplies of materials and equipment, services, or facilities identified in the application are critical and essential for a purpose identified in section 101(c). The application shall be sent to: U.S. Department of Energy, Attn: Office of Electricity, Forrestal Building, 1000 Independence Avenue, SW., Washington, DC 20585. The application shall contain the following information:
 
 (1) The name and address of the applicant and of its duly authorized representative.
 
@@ -26,4 +26,4 @@
 
 (c) In addition to the information described above, DOE may from time to time request whatever additional information it reasonably believes is relevant to the discharge of its functions pursuant to DPA section 101(c).
 
-[43 FR 6212, Feb. 14, 1978, as amended at 51 FR 8311, Mar. 11, 1986; 73 FR 10983, Feb. 29, 2008]
+[43 FR 6212, Feb. 14, 1978, as amended at 51 FR 8311, Mar. 11, 1986; 73 FR 10983, Feb. 29, 2008; 85 FR 31669, May 27, 2020]

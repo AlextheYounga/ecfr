@@ -1,5 +1,7 @@
 ##### § 7.1 Purpose and scope. #####
 
+Link to an amendment published at 85 FR 30616, May 20, 2020.
+
 (a) This part contains the rules of practice of the Administrative Review Board when it is exercising its jurisdiction described in paragraph (b) of this section.
 
 (b) The Board has jurisdiction to hear and decide in its discretion appeals concerning questions of law and fact from final decisions under parts 1, 3, and 5 of this subtitle including decisions as to the following: (1) Wage determinations issued under the Davis-Bacon Act and its related minimum wage statutes; (2) debarment cases arising under part 5 of this subtitle; (3) controversies concerning the payment of prevailing wage rates or proper classifications which involve significant sums of money, large groups of employees, or novel or unusual situations; and (4) recommendations of a Federal agency for appropriate adjustment of liquidated damages which are assessed under the Contract Work Hours and Safety Standards Act.

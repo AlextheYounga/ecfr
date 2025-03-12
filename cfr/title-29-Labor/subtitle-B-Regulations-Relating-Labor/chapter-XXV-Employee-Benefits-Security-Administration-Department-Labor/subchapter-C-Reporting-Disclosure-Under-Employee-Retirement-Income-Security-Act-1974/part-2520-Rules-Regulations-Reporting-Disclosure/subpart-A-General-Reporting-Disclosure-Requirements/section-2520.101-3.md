@@ -1,5 +1,7 @@
 ##### § 2520.101-3 Notice of blackout periods under individual account plans. #####
 
+Link to an amendment published at 85 FR 31922, May 27, 2020.
+
 (a) *In general.* In accordance with section 101(i) of the Act, the administrator of an individual account plan, within the meaning of paragraph (d)(2) of this section, shall provide notice of any blackout period, within the meaning of paragraph (d)(1) of this section, to all participants and beneficiaries whose rights under the plan will be temporarily suspended, limited, or restricted by the blackout period (the “affected participants and beneficiaries”) and to issuers of employer securities subject to such blackout period in accordance with this section.
 
 (b) *Notice to participants and beneficiaries* - (1) *Content.* The notice required by paragraph (a) of this section shall be written in a manner calculated to be understood by the average plan participant and shall include -

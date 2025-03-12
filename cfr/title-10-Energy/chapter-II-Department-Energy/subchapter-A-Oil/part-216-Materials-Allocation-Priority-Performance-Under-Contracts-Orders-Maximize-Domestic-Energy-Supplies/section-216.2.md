@@ -16,7 +16,7 @@ As used in these regulations:
 
 (g) *DOE* means the Department of Energy.
 
-(h) *Defense Priorities and Allocations System Coordination Office* means the Department of Energy, Office of Electricity and Energy Assurance, OE-30.
+(h) *Defense Priorities and Allocations System Coordination Office* means the Department of Energy, Office of Electricity.
 
 (i) *Eligible energy program or project* means a designated activity which maximizes domestic energy supplies by furthering the exploration, production, refining, transportation or conservation of energy supplies or construction or maintenance of energy facilities within the meaning of DPA section 101(c), as determined by DOE.
 
@@ -36,4 +36,4 @@ As used in these regulations:
 
 (2) The construction of facilities.
 
-[43 FR 6212, Feb. 14, 1978, as amended at 51 FR 8311, Mar. 11, 1986; 73 FR 10983, Feb. 29, 2008]
+[43 FR 6212, Feb. 14, 1978, as amended at 51 FR 8311, Mar. 11, 1986; 73 FR 10983, Feb. 29, 2008; 85 FR 31669, May 27, 2020]

@@ -1,0 +1,3 @@
+##### § 1473.13 Exigent circumstances. #####
+
+In emergency situations or when the Federal Mediation and Conciliation Service is required by statutory deadline or court order to act more quickly than normal review procedures allow, the issuing department shall coordinate with the Office of General Counsel to notify OIRA as soon as possible and, to the extent practicable, shall comply with the requirements of this subpart at the earliest opportunity. Wherever practicable, the Office of General Counsel should schedule its proceedings to permit sufficient time to comply with the procedures set forth in this subpart.

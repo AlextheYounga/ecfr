@@ -162,6 +162,6 @@ Example.Plan Y is a single-employer calendar year plan. Company X, the sponsor o
 
 (iv) Any additional information that the plan administrator elects to include, provided that such information meets the standard in paragraph (b)(12) of this section.
 
-(m) *CSEC plans.* [Reserved].
+(m) *CSEC plans.* [Reserved]
 
 Appendix A to § 2520.101-5 - Single-Employer Plan Model Annual Funding Notice![](/graphics/er02fe15.014.gif)![](/graphics/er02fe15.015.gif)![](/graphics/er02fe15.016.gif)![](/graphics/er02fe15.017.gif)![](/graphics/er02fe15.018.gif)![](/graphics/er02fe15.019.gif)![](/graphics/er02fe15.020.gif)![](/graphics/er02fe15.021.gif)![](/graphics/er02fe15.022.gif)Appendix B to § 2520.101-5 - Multiemployer Plan Model Annual Funding Notice![](/graphics/er02fe15.023.gif)![](/graphics/er02fe15.024.gif)![](/graphics/er02fe15.025.gif)![](/graphics/er02fe15.026.gif)![](/graphics/er02fe15.027.gif)![](/graphics/er02fe15.028.gif)![](/graphics/er02fe15.029.gif)![](/graphics/er02fe15.030.gif)[80 FR 5645, Feb. 2, 2015]

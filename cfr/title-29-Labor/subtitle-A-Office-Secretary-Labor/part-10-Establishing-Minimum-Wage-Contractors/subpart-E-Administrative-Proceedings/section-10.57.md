@@ -1,5 +1,7 @@
 ##### § 10.57 Administrative Review Board proceedings. #####
 
+Link to an amendment published at 85 FR 30617, May 20, 2020.
+
 (a) *Authority* - (1) *General.* The Administrative Review Board has jurisdiction to hear and decide in its discretion appeals concerning questions of law and fact from investigative findings letters of the Administrator issued under § 10.51(c)(1) or (2), Administrator's rulings issued under § 10.58, and decisions of Administrative Law Judges issued under § 10.55.
 
 (2) *Limit on scope of review.* (i) The Board shall not have jurisdiction to pass on the validity of any provision of this part. The Board is an appellate body and shall decide cases properly before it on the basis of substantial evidence contained in the entire record before it. The Board shall not receive new evidence into the record.

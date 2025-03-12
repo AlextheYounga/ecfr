@@ -1,5 +1,7 @@
 ##### § 96.63 Federal financial assistance. #####
 
+Link to an amendment published at 85 FR 30619, May 20, 2020.
+
 The DOL grantor agencies shall determine which of the two appeal options set forth in paragraphs (a) and (b) of this section the recipient may use to appeal the final determination of the grant officer. All awards within the same Federal financial assistance program shall follow the same appeal procedure.
 
 (a) Appeal to the head of the grantor agency, or his/her designee, for which the audit was conducted.

@@ -1,0 +1,3 @@
+##### § 1473.15 No judicial review or enforceable rights. #####
+
+This subpart is intended to improve the internal management of the Federal Mediation and Conciliation Service. As such, it is for the use of Federal Mediation and Conciliation Service personnel only and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, its officers or employees, or any other person.
