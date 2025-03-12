@@ -1,5 +1,7 @@
 ##### § 161.7 Categories of actions. #####
 
+Link to an amendment published at 85 FR 32296, May 29, 2020.
+
 Departmental officers shall review each major Departmental action having a potentially significant effect on the quality of the environment in the United States. The need to prepare formal environmental documents will depend on the scope of the action and the context and intensity of any environmental effects expected if the action is implemented. Departmental actions can generally be grouped into three categories, as follows:
 
 (a) *Actions normally requiring environmental impact statements.* Any Departmental action deemed to have a “significant effect upon the quality of the human environment” of the United States requires the preparation of an environmental impact statement. The criteria to be used in determining significance are set forth in § 1508.27 of the CEQ Regulations. The Department has reviewed representative actions and has found no common pattern which would enable it to specify actions normally requiring environmental impact statements. If developments later enable such designations to be made the Department will publish a description of proposed actions for such designation in the Federal Register.

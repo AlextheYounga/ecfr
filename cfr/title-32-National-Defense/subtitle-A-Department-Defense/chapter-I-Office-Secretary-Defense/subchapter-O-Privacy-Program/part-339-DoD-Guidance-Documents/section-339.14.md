@@ -1,0 +1,3 @@
+##### § 339.14 Use of guidance documents. #####
+
+Guidance documents cannot create binding requirements that do not already exist by statute or regulation. Accordingly, noncompliance with guidance documents cannot be used as a basis for proving violations of applicable law. Guidance documents can do no more, with respect to prohibition of conduct, than articulate the Department's understanding of how a statute or regulation applies to particular circumstances.

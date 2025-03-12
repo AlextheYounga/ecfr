@@ -1,5 +1,7 @@
 ##### § 161.11 Environmental review and consultation requirements. #####
 
+Link to an amendment published at 85 FR 32296, May 29, 2020.
+
 In addition to the environmental review requirements of NEPA the Department has other statutory environmental review and consultation requirements. Departmental officials, in cooperation with the Office of Environment and Health and the Office of the Legal Adviser shall, to the maximum extent possible, conduct environmental review and consultation for these additional requirements concurrently with and integrated with preparation of assessments, and environmental impact statements. The principal additional requirements affecting the Department of State's actions are outlined below.
 
 (a) Section 7 of the Endangered Species Act, as amended, 16 U.S.C. 1531 *et seq.,* requires identification of and consultation on aspects of any Departmental action that may have effects in the United States on listed species or their habitat. As appropriate, written request for consultation, along with the draft environmental document, shall be conveyed by the Office of Environment and Health to the Regional Director of the U.S. Fish and Wildlife Service or the National Marine Fisheries Service, as appropriate, for the Region in the United States where the action will be carried out.

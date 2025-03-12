@@ -1,5 +1,7 @@
 ##### § 161.6 Responsibilities of departmental officials. #####
 
+Link to an amendment published at 85 FR 32296, May 29, 2020.
+
 (a) *General.* As a general rule, responsibility for preparing environmental analysis documents will follow the Department's standard organizational practices; in this way environmental considerations and awareness of environmental responsibilities will be integrated most readily and effectively into the usual decisionmaking processes.
 
 (1) *Departmental bureaus.* Each bureau within the Department shall be responsible for:

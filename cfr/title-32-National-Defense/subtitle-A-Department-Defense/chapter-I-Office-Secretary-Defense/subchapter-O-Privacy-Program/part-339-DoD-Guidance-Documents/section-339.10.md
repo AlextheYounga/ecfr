@@ -1,0 +1,5 @@
+##### § 339.10 Petitions for guidance. #####
+
+(a) Any person may petition the Department to withdraw or modify a particular guidance document by sending a written request to the DoD Regulatory Program staff at email address *osd.mc-alex.ocmo.mbx.guidance-documents@mail.mil*. Please use the words “GUIDANCE: [Insert the title of the guidance document]” in the subject line of the email message. The DoD Regulatory Program staff will provide the request to the issuing component of the guidance document for response.
+
+(b) The issuing component should respond to all requests within 90 days after receipt of the request, or as timely as possible given any constraints of the request. For recordkeeping purposes, the issuing component will provide a copy of their response to the DoD Regulatory Program staff at email address *osd.mc-alex.ocmo.mbx.guidance-documents@mail.mil*.

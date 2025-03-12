@@ -1,0 +1,3 @@
+##### § 339.12 Exigent circumstances. #####
+
+In emergency situations or when the proposing component is required by statutory deadline, court order, or executive order to act more quickly than normal review procedures allow, the proposing component shall coordinate with OGC and the appropriate DoD or OSD Federal Register Liaison Officer to notify OIRA as soon as possible and, to the extent practicable, shall comply with the requirements of this part at the earliest opportunity.
