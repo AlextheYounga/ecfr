@@ -94,4 +94,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016]At 83 FR 70, Jan. 2, 2018, § 62.190 was amended by suspending paragraphs (a)(1)(i), (ii) and (iii) and adding paragraphs (a)(1)(iv), (v) and (vi), effective Jan. 2, 2018 through July 1, 2018.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016]Effective Date Note:At 83 FR 70, Jan. 2, 2018, § 622.190 was amended by suspending paragraphs (a)(2)(i), (ii), and (iii) and adding paragraphs (a)(2)(iv), (v), and (vi), effective Jan. 2, 2018, through July 1, 2018.

@@ -8,7 +8,7 @@ You are generally eligible for relocation expense allowances under this chapter 
 
 (c) An employee of the United States Postal Service transferred for permanent duty, under 39 U.S.C. 1006, from the Postal Service to an agency as defined in 5 U.S.C. 5721;
 
-(d) An employee performing travel in accordance with your overseas tour renewal agreement (see §§ 302-3.209 through 302-3.224 of this Chapter);
+(d) An employee performing travel in accordance with your overseas tour renewal agreement (see §§ 302-3.209 through 302-3.224 of this chapter);
 
 (e) An employee returning to his/her place of residence after completion of a prescribed tour of duty for the purposes of separation from Government service or separation from the overseas assignment for reassignment to the same or different Government agency.
 

@@ -1,7 +1,5 @@
 ##### § 635.24 Commercial retention limits for sharks, swordfish, and BAYS tunas. #####
 
-Link to an amendment published at 82 FR 57550, Dec. 6, 2017.
-
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28, and the gear operation and deployment restrictions in § 635.21.
 
 (a) *Sharks.* (1) A person who owns or operates a vessel that has been issued a valid shark research permit under § 635.32(f) and who has a NMFS-approved observer on board may retain, possess, or land LCS, including sandbar sharks, in excess of the retention limits in paragraphs (a)(2) through (6) of this section. The amount of LCS that can be landed by such a person will vary as specified on the shark research permit. Only a person who owns or operates a vessel issued a valid shark research permit with a NMFS-approved observer on board may retain, possess, or land sandbar sharks.
@@ -48,11 +46,11 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (3) Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat vessel permit may retain, possess, land, or sell no more than 2 swordfish per trip in or from the Atlantic Ocean north of 5° N. lat.
 
-(4) Persons aboard a vessel that has been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit (and only when on a non for-hire trip) are subject to the regional swordfish retention limits specified at paragraph (b)(4)(iii), which may be adjusted during the fishing year based upon the inseason regional retention limit adjustment criteria identified in paragraph (b)(4)(iv) below.
+(4) Persons aboard a vessel that has been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit with a commercial sale endorsement (and only when on a non for-hire trip) are subject to the regional swordfish retention limits specified at paragraph (b)(4)(iii) of this section, which may be adjusted during the fishing year based upon the inseason regional retention limit adjustment criteria identified in paragraph (b)(4)(iv) of this section.
 
 (i) *Regions.* Regional retention limits for swordfish apply in four regions. For purposes of this section, these regions are: the Florida Swordfish Management Area as defined in § 635.2; the Northwest Atlantic region (federal waters along the entire Atlantic coast of the United States north of 28°17′10″ N. latitude); the Gulf of Mexico region (any water located in the EEZ in the entire Gulf of Mexico west of 82° W. longitude); and the Caribbean region (the U.S. territorial waters within the Caribbean as defined in § 622.2 of this chapter).
 
-(ii) *Possession, retention, and landing restrictions.* Vessels that have been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit (and only when on a non for-hire trip), as a condition of these permits, may not possess, retain, or land any more swordfish than is specified for the region in which the vessel is located.
+(ii) Vessels that have been issued a Swordfish General Commercial permit or an HMS Charter/Headboat permit with a commercial sale endorsement (and only when on a non for-hire trip), as a condition of these permits, may not possess, retain, or land any more swordfish than is specified for the region in which the vessel is located.
 
 (iii) *Regional retention limits.* The swordfish regional retention limits for each region will range between zero to six swordfish per vessel per trip. At the start of each fishing year, the default regional retention limits will apply. During the fishing year, NMFS may adjust the default retention limits per the inseason regional retention limit adjustment criteria listed in § 635.24(b)(4)(iv), if necessary. The default retention limits for the regions set forth under paragraph (b)(4)(i) of this section are:
 
@@ -82,4 +80,4 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (c) BAYS tunas. Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit under § 635.4 may retain, possess, land, or sell no more than 10 BAYS tunas per vessel per trip.
 
-[64 FR 29135, May 28, 1999, as amended at 71 FR 58169, Oct. 2, 2006; 72 FR 31709, June 7, 2007; 73 FR 40709, July 15, 2008; 75 FR 30526, June 1, 2010; 75 FR 76314, Dec. 8, 2010; 76 FR 49380, Aug. 10, 2011; 76 FR 53658, Aug. 29, 2011; 77 FR 60637, Oct. 4, 2012; 77 FR 59581, Oct. 1, 2012; 78 FR 40346, July 3, 2013l 78 FR 52030, Aug. 21, 2013; 80 FR 50098, Aug. 18, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 81 FR 90245, Dec. 14, 2016]
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

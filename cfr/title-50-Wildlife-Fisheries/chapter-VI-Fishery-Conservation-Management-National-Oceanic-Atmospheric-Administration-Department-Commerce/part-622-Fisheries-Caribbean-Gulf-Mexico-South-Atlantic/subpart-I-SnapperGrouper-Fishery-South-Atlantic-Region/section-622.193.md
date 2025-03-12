@@ -286,4 +286,4 @@
 
 (3) The combined commercial and recreational sector ACL (total ACL) is 174,798 lb (79,287 kg), round weight.
 
-[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.193, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*At 83 FR 70, Jan. 2, 2018, § 62.193 was amended by suspending paragraphs (a)(1)(i), (ii), (iii) and (2) and adding paragraphs (a)(1)(iv), (v), (vi), and (3), effective Jan. 2, 2018 through July 1, 2018.
+[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.193, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 83 FR 70, Jan. 2, 2018, § 62.193 was amended by suspending paragraphs (a)(1)(i), (ii), (iii), and (2) and adding paragraphs (a)(1)(iv), (v), (vi), and (3), effective Jan. 2, 2018, through July 1, 2018.

@@ -12,4 +12,4 @@ Note to § 301-51.6:
 
 City pair contractors are not required to accept payment by the methods in paragraph (a) or (b) of this section.
 
-[FTR Amdt. 70, 63 FR 15968, Apr. 1, 1998. Redesignated and amended by FTR Amdt. 2016-01, 81 FR 63138, Sept. 14, 2016]
+[FTR Amdt. 90, 65 FR 3055, Jan. 19, 1998. Redesignated and amended by FTR Amdt. 2016-01, 81 FR 63138, Sept. 14, 2016]

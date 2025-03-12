@@ -14,7 +14,7 @@
 
 (b) Your agency will not reimburse you for:
 
-(1) *Personally-owned residence.* You will not be reimbursed for any lodging expenses for staying at your personally-owned residence or for any real estate expenses associated with the purchase or sale of a personal residence at the TDY location, except in conjunction with an authorized relocation pursuant to Chapter 302 of this Title.
+(1) *Personally-owned residence.* You will not be reimbursed for any lodging expenses for staying at your personally-owned residence or for any real estate expenses associated with the purchase or sale of a personal residence at the TDY location, except in conjunction with an authorized relocation pursuant to chapter 302 of this title.
 
 (2) *Personally-owned recreational vehicle (trailer/camper).* You will not be reimbursed any expenses associated with the purchase, sale or payment of a recreational vehicle or camper at the TDY location.
 

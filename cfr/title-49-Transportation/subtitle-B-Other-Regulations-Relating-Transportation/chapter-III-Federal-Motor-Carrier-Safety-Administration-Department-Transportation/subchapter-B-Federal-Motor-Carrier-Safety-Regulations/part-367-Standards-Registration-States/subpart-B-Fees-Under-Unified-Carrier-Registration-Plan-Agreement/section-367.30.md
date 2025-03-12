@@ -1,6 +1,6 @@
-##### § 367.30 Fees under the Unified Carrier Registration Plan and Agreement for registration years beginning in 2010. #####
+##### § 367.30 Fees under the Unified Carrier Registration Plan and Agreement for registration years beginning in 2010 and ending in 2017. #####
 
-Fees Under the Unified Carrier Registration Plan and Agreement for Each Registration Year
+Table 1 to § 367.30 - Fees Under the Unified Carrier Registration Plan and Agreement for Each Registration Year 2010-2017
 
 |Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for broker or leasing company|
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -11,4 +11,4 @@ Fees Under the Unified Carrier Registration Plan and Agreement for Each Registra
 |  B5   |                                                               101-1,000                                                                |                                              7,511                                               |                                            |
 |  B6   |                                                            1,001 and above                                                             |                                              73,346                                              |                                            |
 
-[75 FR 22012, Apr. 27, 2010]
+[83 FR 612, Jan. 5, 2018]

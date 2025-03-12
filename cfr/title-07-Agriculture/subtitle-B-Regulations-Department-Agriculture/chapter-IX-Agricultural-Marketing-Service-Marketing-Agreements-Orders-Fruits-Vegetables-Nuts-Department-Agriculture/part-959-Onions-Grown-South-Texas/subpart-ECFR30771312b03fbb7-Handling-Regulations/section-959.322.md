@@ -1,5 +1,7 @@
 ##### § 959.322 Handling regulation. #####
 
+Link to an amendment published at 83 FR 594, Jan. 5, 2018.
+
 During the period beginning March 1 and ending June 4, no handler shall handle any onions, including onions for peeling, chopping, and slicing, unless they comply with paragraphs (a) through (c) or (d) or (e) of this section; except that onions handled during the period June 5 through July 15 shall comply with paragraphs (c) or (d) or (e) of this section.
 
 (a) *Grade requirements.* Not to exceed 20 percent defects of U.S. No. 1 grade. In percentage grade lots, tolerances for serious damage shall not exceed 10 percent including not more than 2 percent decay. Double the lot tolerance shall be permitted in individual packages in percentage grade lots. Application of tolerances in U.S. onion standards shall apply to in-grade lots.

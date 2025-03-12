@@ -6,9 +6,9 @@ The following definitions apply to this part:
 
 (1) Money paid to the employee to cover future expenses, such as the miscellaneous expense *allowance* (see part 302-16 of this chapter for information about the miscellaneous expense *allowance*);
 
-(2) Money paid to the employee to cover past expenses, such as the relocation income tax *allowance* (RITA) under the two-year tax process described in Part 302-17, Subpart G; or
+(2) Money paid to the employee to cover past expenses, such as the relocation income tax *allowance* (RITA) under the two-year tax process described in part 302-17, subpart G; or
 
-(3) A limit established by statute or regulation, such as the 18,000 pound net weight *allowance* for household goods shipments (see Part 302-7 of this chapter for information about the 18,000 pound net weight *allowance*).
+(3) A limit established by statute or regulation, such as the 18,000 pound net weight *allowance* for household goods shipments (see part 302-7 of this chapter for information about the 18,000 pound net weight *allowance*).
 
 *City* means any unit of general local government as defined in 31 CFR 215.2(b).
 

@@ -1,0 +1,14 @@
+##### § 367.50 Fees under the Unified Carrier Registration Plan and Agreement for registration years beginning in 2019. #####
+
+Table 1 to § 367.50 - Fees Under the Unified Carrier Registration Plan and Agreement for Registration Year 2019 and Each Subsequent Registration Year Thereafter
+
+|Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for broker or leasing company|
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------|
+|  B1   |                                                                  0-2                                                                   |                                               $73                                                |                    $73                     |
+|  B2   |                                                                  3-5                                                                   |                                               217                                                |                                            |
+|  B3   |                                                                  6-20                                                                  |                                               431                                                |                                            |
+|  B4   |                                                                 21-100                                                                 |                                              1,503                                               |                                            |
+|  B5   |                                                               101-1,000                                                                |                                              7,165                                               |                                            |
+|  B6   |                                                            1,001 and above                                                             |                                              69,971                                              |                                            |
+
+[83 FR 612, Jan. 5, 2018]

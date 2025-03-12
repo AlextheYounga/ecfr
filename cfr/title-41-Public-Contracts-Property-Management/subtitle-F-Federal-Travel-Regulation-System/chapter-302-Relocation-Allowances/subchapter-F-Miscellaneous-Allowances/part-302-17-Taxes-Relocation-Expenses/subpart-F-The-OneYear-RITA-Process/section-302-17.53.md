@@ -1,3 +1,3 @@
 ##### § 302-17.53 What happens if I do not file and amend the “Statement of Income and Tax Filing Status” in a timely manner? #####
 
-If you don't file the “Statement of Income and Tax Filing Status” and/or amend it when necessary, your agency will switch to the 2-year process, and because the WTA is an advance of your income tax expenses, you will be liable to repay the full amount of the WTA that your agency has paid to the IRS. See Subpart G of this Part.
+If you don't file the “Statement of Income and Tax Filing Status” and/or amend it when necessary, your agency will switch to the 2-year process, and because the WTA is an advance of your income tax expenses, you will be liable to repay the full amount of the WTA that your agency has paid to the IRS. See subpart G of this part.

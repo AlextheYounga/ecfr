@@ -1,12 +1,14 @@
 ##### § 301-10.3 What methods of transportation may my agency authorize me to use? #####
 
+Link to an amendment published at 82 FR 604, Jan. 5, 2018.
+
 Your agency may authorize:
 
-(a) Common carrier transportation (e.g., aircraft, train, bus, ship, or other transit system) under Subpart B;
+(a) Common carrier transportation (e.g., aircraft, train, bus, ship, or other transit system) under subpart B;
 
-(b) Government vehicle under Subpart C;
+(b) Government vehicle under subpart C;
 
-(c) POV under Subpart D; or
+(c) POV under subpart D; or
 
 (d) Special conveyance (e.g., taxi or commercial automobile) under Subpart E.
 

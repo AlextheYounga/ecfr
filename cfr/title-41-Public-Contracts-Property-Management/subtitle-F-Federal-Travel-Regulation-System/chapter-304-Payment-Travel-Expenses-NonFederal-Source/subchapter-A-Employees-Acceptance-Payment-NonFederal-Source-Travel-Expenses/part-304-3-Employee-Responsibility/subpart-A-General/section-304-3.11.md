@@ -1,6 +1,6 @@
 ##### § 304-3.11 Am I limited to the maximum subsistence allowances (per diem or actual expense) prescribed in applicable travel regulations for travel expenses paid by a non-Federal source? #####
 
-Generally yes. Subsistence expenses are usually limited to the maximum subsistence allowances (per diem or actual expenses) prescribed in chapter 301 of this title for travel in CONUS, by the Secretary of Defense for travel in non-foreign areas and by the Secretary of State for travel in foreign areas. However, acceptance of payment for, and when applicable, reimbursement by an agency to an employee and the accompanying spouse of such employee are not subject to the maximum per diem or actual subsistence expense rates when traveling in CONUS or in non-foreign areas under the following conditions:
+Generally yes. Subsistence expenses are usually limited to the maximum subsistence allowances (per diem or actual expense) prescribed in chapter 301 of this title for travel in CONUS, by the Secretary of Defense for travel in non-foreign areas and by the Secretary of State for travel in foreign areas. However, acceptance of payment for, and when applicable, reimbursement by an agency to an employee and the accompanying spouse of such employee are not subject to the maximum per diem or actual subsistence expense rates when traveling in CONUS or in non-foreign areas under the following conditions:
 
 (a) The non-Federal source pays the full amount of the subsistence expense, as authorized by your agency; and
 

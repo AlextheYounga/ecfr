@@ -1,5 +1,7 @@
 ##### § 302-4.302 Are there circumstances that would allow me to receive a higher mileage rate OCONUS? #####
 
+Link to an amendment published at 82 FR 605, Jan. 5, 2018.
+
 Yes, your agency may authorize a higher mileage rate at a rate not to exceed the maximum rate prescribed in § 301-10.303 of this title when:
 
 (a) You are expected to use the POV on official business at the new official station;

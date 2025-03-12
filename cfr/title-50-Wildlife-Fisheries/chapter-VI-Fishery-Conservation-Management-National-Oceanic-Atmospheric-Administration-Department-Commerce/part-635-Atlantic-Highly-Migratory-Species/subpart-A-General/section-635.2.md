@@ -1,7 +1,5 @@
 ##### § 635.2 Definitions. #####
 
-Link to an amendment published at 82 FR 57548, Dec. 6, 2017.
-
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.
@@ -35,6 +33,8 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 *Caudal keel* means the horizontal ridges along each side of a fish at the base of the tail fin.
 
 *CFL* (curved fork length) means the length of a fish measured from the tip of the upper jaw to the fork of the tail along the contour of the body in a line that runs along the top of the pectoral fin and the top of the caudal keel.
+
+*Charter/headboat commercial sale endorsement* means an authorization added to an HMS Charter/Headboat permit that is required for vessels that sell or intend to sell Atlantic tunas, sharks, and swordfish, provided that all other requirements in this part are also met.
 
 *Charleston Bump closed area* means the Atlantic Ocean area seaward of the inner boundary of the U.S. EEZ from a point intersecting the inner boundary of the U.S. EEZ at 34°00′ N. lat. near Wilmington Beach, NC, and proceeding due east to connect by straight lines the following coordinates in the order stated: 34°00′ N. lat., 76°00′ W. long.; 31°00′ N. lat., 76°00′ W. long.; then proceeding due west to intersect the inner boundary of the U.S. EEZ at 31°00′ N. lat. near Jekyll Island, GA.
 

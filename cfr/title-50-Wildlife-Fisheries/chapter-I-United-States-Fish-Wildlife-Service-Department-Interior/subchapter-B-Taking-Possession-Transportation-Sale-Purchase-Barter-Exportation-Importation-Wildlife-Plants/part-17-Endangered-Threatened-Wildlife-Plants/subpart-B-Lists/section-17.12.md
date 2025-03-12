@@ -23,8 +23,6 @@
 
 (1) Within the “Listing Citations and Applicable Rules” column, the following superscripts are used:
 
-@
-
 |Superscript|                               Description of citation or rule                                |
 |-----------|----------------------------------------------------------------------------------------------|
 |     N     |                              NMFS listing citation (NMFS Lead).                              |

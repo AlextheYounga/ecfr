@@ -1,5 +1,7 @@
 ##### § 300-70.4 How do we respond to the travel survey if we have major suborganizations? #####
 
+Link to an amendment published at 82 FR 604, Jan. 5, 2018.
+
 If you have major suborganizations, you must submit responses as follows:
 
 (a) A separate response from each suborganization which spent more than $5 million for travel and relocation during the fiscal year immediately preceding the survey year;

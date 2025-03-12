@@ -1,7 +1,5 @@
 ##### § 635.23 Retention limits for bluefin tuna. #####
 
-Link to an amendment published at 82 FR 57550, Dec. 6, 2017.
-
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28.
 
 (a) *General category.* (1) No person aboard a vessel that has a General category Atlantic Tunas permit may possess, retain, land, or sell a BFT in the school, large school, or small medium size class.
@@ -32,7 +30,7 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (2) When fishing other than in the Gulf of Mexico when the fishery for the General category is closed, the restrictions applicable to the Angling category specified in paragraphs (b)(1) through (b)(3) of this section apply.
 
-(3) When fishing other than in the Gulf of Mexico and when the fishery under the General category has not been closed under § 635.28, a person aboard a vessel that has been issued an HMS Charter/Headboat permit may fish under either the retention limits applicable to the General category specified in paragraphs (a)(2) and (a)(3) of this section or the retention limits applicable to the Angling category specified in paragraphs (b)(2) and (b)(3) of this section. The size category of the first BFT retained will determine the fishing category applicable to the vessel that day.
+(3) When fishing other than in the Gulf of Mexico and when the fishery under the General category has not been closed under § 635.28, a person aboard a vessel that has been issued an HMS Charter/Headboat permit with a commercial sale endorsement may fish under either the retention limits applicable to the General category specified in paragraphs (a)(2) and (3) of this section or the retention limits applicable to the Angling category specified in paragraphs (b)(2) and (3) of this section. The size category of the first BFT retained will determine the fishing category applicable to the vessel that day. A person aboard a vessel that has been issued an HMS Charter/Headboat without a commercial sale endorsement permit may fish only under the retention limits applicable to the Angling category.
 
 (d) *Harpoon category.* Persons aboard a vessel permitted in the Atlantic Tunas Harpoon category may retain, possess, or land an unlimited number of giant bluefin tuna per day. An incidental catch of two large medium bluefin tuna per vessel per day may be retained, possessed, or landed, unless the retention limits is increased by NMFS through an inseason adjustment to three, or a maximum of four, large medium bluefin tuna per vessel per day, based upon the criteria under § 635.27(a)(8). NMFS will implement an adjustment via publication in the Federal Register. If adjusted upwards to three or four large medium bluefin tuna per vessel per day, NMFS may subsequently decrease the retention limit down to the default level of two, based on the criteria under § 635.27(a)(8).
 
@@ -52,4 +50,4 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (g) *Trap category.* Persons aboard a vessel permitted in the Atlantic Tunas Trap category may retain, possess, land, and sell each fishing year only one large medium or giant BFT that is taken incidentally while fishing for other species with a pound net or fish weir. No other Atlantic tunas caught in a pound net or fish weir may be retained.
 
-[64 FR 29135, May 28, 1999, as amended at 65 FR 42887, July 12, 2000; 67 FR 77438, Dec. 18, 2002; 68 FR 32417, May 30, 2003; 68 FR 56788, Oct. 2, 2003; 68 FR 74511, Dec. 24, 2003; 69 FR 40758, July 6, 2004; 70 FR 10900, Mar. 7, 2005; 71 FR 58169, Oct. 2, 2006; 76 FR 39031, July 5, 2011; 76 FR 74009, Nov. 30, 2011; 79 FR 71601, Dec. 2, 2014]
+[64 FR 29135, May 28, 1999, as amended at 65 FR 42887, July 12, 2000; 67 FR 77438, Dec. 18, 2002; 68 FR 32417, May 30, 2003; 68 FR 56788, Oct. 2, 2003; 68 FR 74511, Dec. 24, 2003; 69 FR 40758, July 6, 2004; 70 FR 10900, Mar. 7, 2005; 71 FR 58169, Oct. 2, 2006; 76 FR 39031, July 5, 2011; 76 FR 74009, Nov. 30, 2011; 79 FR 71601, Dec. 2, 2014; 82 FR 57550, Dec. 6, 2017]

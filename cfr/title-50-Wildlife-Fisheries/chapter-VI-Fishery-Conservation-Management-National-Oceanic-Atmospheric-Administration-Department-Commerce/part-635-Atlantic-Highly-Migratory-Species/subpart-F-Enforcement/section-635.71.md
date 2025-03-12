@@ -1,6 +1,6 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 82 FR 57551, Dec. 6, 2017.Link to an amendment published at 82 FR 61498, Dec. 28, 2017.
+Link to an amendment published at 82 FR 61498, Dec. 28, 2017.
 
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
@@ -8,7 +8,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (1) Falsify information required on an application for a permit submitted under § 635.4 or § 635.32.
 
-(2) Fish for, catch, possess, retain, or land Atlantic HMS without the appropriate valid vessel permit, LAP, EFP, scientific research permit, display permit, chartering permit, or shark research permit on board the vessel, as specified in §§ 635.4 and 635.32.
+(2) Fish for, catch, possess, retain, land, or sell Atlantic HMS without the appropriate valid vessel permit with the appropriate endorsements, LAP, EFP, scientific research permit, display permit, chartering permit, or shark research permit on board the vessel, as specified in §§ 635.4 and 635.32.
 
 (3) Purchase, receive, or transfer or attempt to purchase, receive, or transfer, for commercial purposes, Atlantic bluefin tuna landed by owners of vessels not permitted to do so under § 635.4, or purchase, receive, or transfer, or attempt to purchase, receive, or transfer Atlantic bluefin tuna without the appropriate valid Federal Atlantic tunas dealer permit issued under § 635.4. Purchase, receive, or transfer or attempt to purchase, receive, or transfer, for commercial purposes, other than solely for transport, any BAYS tunas, swordfish, or sharks landed by owners of vessels not permitted to do so under § 635.4, or purchase, receive, or transfer, or attempt to purchase, receive, or transfer, for commercial purposes, other than solely for transport, any BAYS tunas, swordfish, or sharks without the appropriate valid dealer permit issued under § 635.4 or submission of reports by dealers to NMFS according to reporting requirements specified in § 635.5. This prohibition does not apply to HMS harvested by HMS Commercial Caribbean Small Boat vessel permit holders operating in the U.S. Caribbean as defined at § 622.2 or to a shark harvested from a vessel that has not been issued a permit under this part and that fishes exclusively within the waters under the jurisdiction of any state.
 
@@ -131,6 +131,8 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 (60) Buy, trade, or barter for any HMS from a vessel with pelagic longline gear is on board when the Atlantic Tunas Longline category fishery is closed, as specified in § 635.31(a)(2), (c), and (d).
 
 (61) Transfer in port or at sea any tuna, tuna-like species, or other HMS, as specified in § 635.29(a).
+
+(62) A vessel owner or operator that has an HMS Charter/Headboat permit without a commercial sale endorsement is prohibited from selling any Atlantic HMS.
 
 (b) *Atlantic tunas.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 

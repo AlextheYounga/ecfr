@@ -6,4 +6,4 @@
 
 (2) All benefits are taxable under extended TDY, so the sections of this Part that discuss which benefits are taxable and which are not have no relevance to ETTRA.
 
-(b) See Part 301-11, Subpart F of this Title for additional information about taxes on extended TDY benefits.
+(b) See part 301-11, subpart F of this title for additional information about taxes on extended TDY benefits.
