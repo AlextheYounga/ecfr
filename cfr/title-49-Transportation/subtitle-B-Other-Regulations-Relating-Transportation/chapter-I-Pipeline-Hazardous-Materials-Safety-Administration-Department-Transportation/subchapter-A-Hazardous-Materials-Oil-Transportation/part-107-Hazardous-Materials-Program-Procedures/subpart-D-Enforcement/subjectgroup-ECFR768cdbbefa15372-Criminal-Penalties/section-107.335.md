@@ -1,5 +1,7 @@
-##### § 107.335 Referral for prosecution. #####
+##### § 107.335 Criminal referrals. #####
 
-If the Associate Administrator becomes aware of a possible willful violation of the Federal hazardous material transportation law, this subchapter, subchapter C of this chapter, or any special permit, or order issued thereunder, for which the Associate Administrator exercises enforcement responsibility, it shall report it to the Office of the Chief Counsel, Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation, Washington, DC 20590-0001. If appropriate, the Chief Counsel refers the report to the Department of Justice for criminal prosecution of the offender.
+(a) If a PHMSA employee becomes aware of any actual or possible activity subject to criminal penalties under § 107.333, the employee must report it to the Office of Chief Counsel, Pipeline and Hazardous Materials Safety Administration, and to the employee's supervisor. The Chief Counsel may refer the report to the Associate Administrator to investigate. If appropriate, the Chief Counsel shall refer the report to the Office of Inspector General, or other law enforcement as appropriate (with notification to the Office of Inspector General as soon as possible).
 
-[Amdt. 107-11, 48 FR 2651, Jan. 20, 1983, as amended by Amdt. 107-22, 55 FR 39978, Oct. 1, 1990; Amdt. 107-24, 56 FR 8621, Feb. 28, 1991; 56 FR 15510, Apr. 17, 1991; Amdt. 107-32, 59 FR 49131, Sept. 26, 1994; Amdt. 107-35, 60 FR 49108, Sept. 21, 1995; 66 FR 45377, Aug. 28, 2001]
+(b) A PHMSA employee also has the option of making a direct referral to the Office of Inspector General (OIG), either by directly contacting an OIG investigator, or via the OIG hotline at (800) 424-9071, at *https://www.oig.dot.gov/hotline,* by email at *hotline@oig.dot.gov,* or by mail to the Office of Inspector General, 1200 New Jersey Ave. SE, West Bldg. 7th Floor, Washington, DC 20590.
+
+[87 FR 28780, May 11, 2022]

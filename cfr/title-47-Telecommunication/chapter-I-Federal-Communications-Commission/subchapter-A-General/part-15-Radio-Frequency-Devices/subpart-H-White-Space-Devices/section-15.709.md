@@ -100,4 +100,26 @@ Table 2 to Paragraph (b)(2)(ii)
 
 (h) *Compliance with radio frequency exposure requirements.* White space devices shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of RF sources under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34797, July 19, 2019; 85 FR 18149, Apr. 1, 2020; 86 FR 2291, Jan. 12, 2021]Editorial Note:At 86 FR 2291, Jan. 12, 2021, paragraph (g)(1)(ii) was revised. The revision was delayed indefinitely.
+[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34797, July 19, 2019; 85 FR 18149, Apr. 1, 2020; 86 FR 2291, Jan. 12, 2021]Effective Date Note:At 86 FR 2291, Jan. 12, 2021, § 15.709(g)(1)(ii) was revised. This revision was delayed indefinitely. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 15.709 General technical requirements. #####
+
+(g) \* \* \*
+
+(1) \* \* \*
+
+(i) \* \* \*
+
+(ii) *Height above average terrain (HAAT).* For devices operating in the TV bands below 602 MHz, the transmit antenna shall not be located where its height above average terrain exceeds 250 meters generally, or 500 meters in less congested areas. For devices operating in all other bands the transmit antenna shall not be located where its height above average terrain exceeds 250 meters. The HAAT is to be calculated by the white space database using the methodology in § 73.684(d) of this chapter. For HAAT greater than 250 meters the following procedures are required:
+
+(A) The installing party must contact a white space database and identify all TV broadcast station contours that would be potentially affected by operation at the planned HAAT and EIRP. A potentially affected TV station is one where the protected service contour is within the applicable separation distance for the white space device operating at an assumed HAAT of 50 meters above the planned height at the proposed power level.
+
+(B) The installing party must notify each of these licensees and provide the geographic coordinates of the white space device, relevant technical parameters of the proposed deployment, and contact information.
+
+(C) No earlier than four calendar days after the notification in paragraph (g)(1)(ii)(B) of this section, the installing party may commence operations.
+
+(D) Upon request, the installing party must provide each potentially affected licensee with information on the time periods of operations.
+
+(E) If the installing party seeks to modify its operations by increasing its power level, by moving more than 100 meters horizontally from its location, or by making an increase in the HAAT or EIRP of the white space device that results in an increase in the minimum required separation distances from co-channel or adjacent channel TV station contours, it must conduct a new notification.
+
+(F) All notifications required by this section must be in written form (including email). In all cases, the names of persons contacted, and dates of contact should be kept by the white space device operator for its records and supplied to the Commission upon request.

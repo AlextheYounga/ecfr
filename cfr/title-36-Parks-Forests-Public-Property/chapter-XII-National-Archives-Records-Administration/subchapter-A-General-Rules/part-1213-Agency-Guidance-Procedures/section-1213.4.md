@@ -1,7 +1,5 @@
 ##### § 1213.4 Requirements for review and clearance. #####
 
-Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
-
 (a) NARA's regulatory office must review and clear, according to this subpart, all NARA guidance documents before we issue them.
 
 (b) The regulatory office ensures that each guidance document satisfies the following requirements:
@@ -20,15 +18,11 @@ Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
 
 (iv) The issuing or effective date;
 
-(v) A notice about the guidance document's force and effect that is consistent with OMB M-2020-02, Q20;
+(v) An indicator of whether the guidance revises or replaces any previously issued guidance and, if so, sufficient information to identify the previously issued guidance; and
 
-(vi) An indicator of whether the guidance revises or replaces any previously issued guidance and, if so, sufficient information to identify the previously issued guidance; and
+(vi) Appropriate citations to applicable statutes, regulations, and other authorities; and
 
-(vii) Appropriate citations to applicable statutes, regulations, and other authorities;
-
-(3) It is consistent with NARA policies, guidance, strategic initiatives, and other authorities, is written in plain and understandable English, and meets other guidance and policy analysis factors; and
-
-(4) It avoids using mandatory language, such as “shall,” “must,” or “required,” unless the language is describing an established statutory or regulatory requirement or is addressed to agency staff or other Federal employees and will not foreclose our ability to consider positions advanced by any affected private parties.
+(3) It is consistent with NARA policies, guidance, strategic initiatives, and other authorities, is written in plain and understandable English, and meets other guidance and policy analysis factors .
 
 (c) The guidance document must also either contain or be accompanied by an appropriate topic keyword and a short summary of the subject matter covered in the guidance document, for use on the guidance portal.
 
@@ -39,3 +33,5 @@ Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
 (f) The regulatory office submits guidance documents we determine may be significant to OIRA for significance determinations, before clearing the submitting office to issue them.
 
 (f) When we issue a guidance document, we post it on our centralized guidance portal (see § 1213.6(a)).
+
+[85 FR 31979, May 28, 2020, as amended at 87 FR 21024, Apr. 11, 2022]Editorial Note:At 87 FR 21024, Apr. 11, 2022, § 1213.4 was amended; however, a portion of the amendment could not be completed because the section contains two paragraphs designated (f).

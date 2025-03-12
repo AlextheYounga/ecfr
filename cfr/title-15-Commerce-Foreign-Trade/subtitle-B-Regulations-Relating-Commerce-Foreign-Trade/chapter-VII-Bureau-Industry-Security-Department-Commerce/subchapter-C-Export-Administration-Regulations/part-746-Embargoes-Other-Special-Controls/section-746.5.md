@@ -10,8 +10,8 @@
 
 (b) *Licensing policy.* (1) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraph (a)(1)(i) of this section that requires a license for Russia will be reviewed under a policy of denial when for use directly or indirectly for exploration or production from deepwater (greater than 500 feet), Arctic offshore, or shale projects in Russia that have the potential to produce oil or gas, except that applications for export, reexport, or transfer (in-country) of items that may be necessary for health and safety reasons will be reviewed under a case-by case license review policy.
 
-(2) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraph (a)(1)(ii) of this section that requires a license for Russia will be reviewed under a policy of denial, except that applications for export, reexport, or transfer (in-country) of items that may be necessary for health and safety reasons will be reviewed under a case-by case license review policy.
+(2) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraph (a)(1)(ii) of this section that requires a license for Russia will be reviewed under a policy of denial, except that applications for export, reexport, or transfer (in-country) of items that may be necessary for health and safety reasons or for items that meet humanitarian needs will be reviewed under a case-by case license review policy.
 
 (c) *License exceptions.* No license exceptions may overcome the license requirements set forth in this section, except License Exception GOV (§ 740.11(b)).
 
-[79 FR 45680, Aug. 6, 2014, as amended at 79 FR 55615, Sept. 17, 2014; 80 FR 47405, Aug. 7, 2015; 87 FR 12248, Mar. 3, 2022; 87 FR 12858, Mar. 8, 2022]
+[79 FR 45680, Aug. 6, 2014, as amended at 79 FR 55615, Sept. 17, 2014; 80 FR 47405, Aug. 7, 2015; 87 FR 12858, Mar. 8, 2022; 87 FR 28760, May 11, 2022]

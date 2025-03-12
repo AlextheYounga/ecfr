@@ -1,7 +1,5 @@
 ##### § 1.7001 Scope and content of filed reports. #####
 
-Link to an amendment published at 87 FR 21509, Apr. 11, 2022.
-
 (a) *Definitions.* Terms used in this subpart have the following meanings:
 
 (1) *Broadband connection.* A wired line, wireless channel, or satellite service that terminates at an end user location or mobile device and enables the end user to receive information from and/or send information to the internet at information transfer rates exceeding 200 kilobits per second (kbps) in at least one direction.
@@ -52,6 +50,8 @@ Link to an amendment published at 87 FR 21509, Apr. 11, 2022.
 
 (19) *Standard broadband installation.* The initiation by a provider of fixed broadband internet access service in an area in which the provider has not previously offered that service, with no charges or delays attributable to the extension of the network of the provider, and includes the initiation of fixed broadband internet access service through routine installation that can be completed not later than 10 business days after the date on which the service request is submitted.
 
+(20) *H3 standardized geospatial indexing system.* A system developed by Uber Technologies, Inc., that overlays the Earth with hexagonal cells of different sizes at various resolutions. The smallest hexagonal cells are at resolution 15, in which the average hexagonal cell has an area of approximately 0.9 square meters, and the largest are at resolution 0, in which the average hexagonal cell has an area of approximately 4.25 million square kilometers. Hexagonal cells across different resolutions are referred to as a “hex-n” cell, where n is the resolution (*e.g.,* “hex-15” for the smallest size hexagonal cell). The H3 standardized geospatial indexing system employs a nested cell structure wherein a lower resolution hexagonal cell (the “parent”) contains approximately seven hexagonal cells at the next highest resolution (its “children”). That is, a hex-1 cell is the “parent” of seven hex-2 cells, each hex-2 cell is the parent of seven hex-3 cells, and so on.
+
 (b) The following entities shall file with the Commission a completed FCC Form 477, in accordance with the Commission's rules and the instructions to the FCC Form 477:
 
 (1) Facilities-based providers of broadband service;
@@ -92,4 +92,4 @@ Link to an amendment published at 87 FR 21509, Apr. 11, 2022.
 
 (f) Failure to file the FCC Form 477 in accordance with the Commission's rules and the instructions to the Form 477 may lead to enforcement action pursuant to the Act and any other applicable law.
 
-[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020; 86 FR 18159, Apr. 7, 2021]
+[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020; 86 FR 18159, Apr. 7, 2021; 87 FR 21509, Apr. 11, 2022]

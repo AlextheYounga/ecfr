@@ -1,9 +1,5 @@
 ##### § 1213.6 Public access to guidance documents. #####
 
-Link to an amendment published at 87 FR 21024, Apr. 11, 2022.
+We post the cleared document on our centralized guidance portal at *www.archives.gov/guidance.* The portal contains a searchable, indexed database of our various kinds of guidance along with links to each document and an agency-unique identifier, title, date issued, z-RIN, if applicable, topic keywords, brief summary, date added to the portal, and any status information (for example, that it supersedes a previous guidance document).
 
-(a) We post the cleared document on our centralized guidance portal at *www.archives.gov/guidance.* The portal contains a searchable, indexed database of our various kinds of guidance along with links to each document and an agency-unique identifier, title, date issued, z-RIN, if applicable, topic keywords, brief summary, date added to the portal, and any status information (for example, that it supersedes a previous guidance document). All guidance currently in effect (including guidance originally issued before April 30, 2020) must appear on the portal; if it does not, it is deemed rescinded and without any effect.
-
-(b) The guidance portal notes that guidance documents lack the force and effect of law on the public, except as authorized by law, executive order, or regulation or as incorporated into a contract, and that the guidance is not legally binding on the public, except as established by such law, regulation, or contract. Each guidance document and web page that contains a listing of guidance must also include an appropriate notice about the force and effect of the guidance.
-
-(c) The guidance portal also includes instructions for how the public can comment on guidance documents that are subject to the informal notice-and-comment procedures described in § 1213.8 and to submit requests that we issue, reconsider, modify, or rescind guidance documents, in accordance with § 1213.10. It also provides contact information for the public to submit complaints that an office is not following the requirements of OMB's Good Guidance Bulletin or is improperly treating a guidance document as a requirement binding on the public.
+[85 FR 31979, May 28, 2020, as amended at 87 FR 21024, Apr. 11, 2022]
