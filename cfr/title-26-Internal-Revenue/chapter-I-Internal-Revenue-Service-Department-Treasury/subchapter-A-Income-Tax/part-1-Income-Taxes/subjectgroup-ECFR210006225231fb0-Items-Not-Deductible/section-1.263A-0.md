@@ -418,6 +418,16 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (m) Effective/applicability date.
 
+(1) In general.
+
+(2) Mixed service costs; self-constructed tangible personal property produced on a routine and repetitive basis.
+
+(3) Costs allocable to property sold; indirect costs; licensing and franchise costs.
+
+(4) Materials and supplies.
+
+(5) Definitions of section 471 costs and additional section 263A costs.
+
 (6) Exemption for certain small business taxpayers.
 
 § 1.263A-2 Rules Relating to Property Produced by the Taxpayer.
@@ -1596,4 +1606,4 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (c) Anti-abuse rule.
 
-[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014; T.D. 9843, 83 FR 58485, Nov. 20, 2018; T.D, 9942, 86 FR 264, Jan. 5, 2021]
+[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014; T.D. 9843, 83 FR 58485, Nov. 20, 2018; T.D, 9942, 86 FR 264, Jan. 5, 2021; 86 FR 32185, June 17, 2021]

@@ -180,7 +180,7 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (iv) Mixed use costs.
 
-(3) Gross receipts test of section 448(c)
+(3) Gross receipts test.
 
 (i) In general
 
@@ -197,6 +197,8 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 (*1*) Example 1.
 
 (*2*) Example 2.
+
+(iii) Method of accounting.
 
 (c) Residential construction contracts.
 
@@ -360,7 +362,7 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (iv) Special rules related to certain corporate and partnership transactions.
 
-(A) Old taxpayer - basis adjustment.
+(A) Old taxpayer—basis adjustment.
 
 (*1*) In general.
 
@@ -676,4 +678,4 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (k) Applicability date.
 
-[T.D. 9315, 55 FR 41670, Oct. 15, 1990, as amended by T.D. 8597, 60 FR 36683, July 18, 1995; T.D. 8756, 63 FR 1918, Jan. 13, 1998; T.D. 8775, 63 FR 36181, July 2, 1998; T.D. 8929, 66 FR 2224, Jan. 11, 2001; T.D. 8995, 67 FR 34605, May 15, 2002; T.D. 9137, 69 FR 42553, July 16, 2004; T.D. 9942, 86 FR 272, Jan. 5, 2021]
+[T.D. 9315, 55 FR 41670, Oct. 15, 1990, as amended by T.D. 8597, 60 FR 36683, July 18, 1995; T.D. 8756, 63 FR 1918, Jan. 13, 1998; T.D. 8775, 63 FR 36181, July 2, 1998; T.D. 8929, 66 FR 2224, Jan. 11, 2001; T.D. 8995, 67 FR 34605, May 15, 2002; T.D. 9137, 69 FR 42553, July 16, 2004; T.D. 9942, 86 FR 272, Jan. 5, 2021; 86 FR 32186, June 17, 2021]
