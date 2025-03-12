@@ -1,0 +1,3 @@
+##### § 90.10 STOP (Services \* Training \* Officers \* Prosecutors) Violence Against Women Formula Grant Program—general. #####
+
+The purposes, criteria, and requirements for the STOP Violence Against Women Formula Grant Program are established by 42 U.S.C. 3796gg *et seq.* Eligible applicants for the program are the 50 States, American Samoa, Guam, Puerto Rico, Northern Mariana Islands, U.S. Virgin Islands, and the District of Columbia, hereinafter referred to as “States.”

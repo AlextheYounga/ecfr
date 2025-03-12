@@ -1,0 +1,3 @@
+##### § 524.70 Purpose and scope. #####
+
+The Bureau of Prisons monitors and controls the transfer, temporary release (e.g., on writ), and community activities of certain inmates who present special needs for management. Such inmates, known as central inmate monitoring (CIM) cases, require a higher level of review which may include Central Office and/or Regional Office clearance for transfers, temporary releases, or community activities. This monitoring is not to preclude a CIM case from such activities, when the inmate is otherwise eligible, but rather is to provide protection to all concerned and to contribute to the safe and orderly operation of federal institutions.

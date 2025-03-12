@@ -1,0 +1,5 @@
+##### § 2.87 Mandatory release. #####
+
+(a) When a prisoner has been denied parole at the initial hearing and all subsequent considerations, or parole consideration is expressly precluded by statute, the prisoner shall be released at the expiration of his or her imposed sentence less the time deducted for any good time allowances provided by statute.
+
+(b) Any prisoner having served his or her term or terms less deduction for good time shall, upon release, be deemed to be released on parole until the expiration of the maximum term or terms for which he or she was sentenced, except that if the offense of conviction was committed before April 11, 1987, such expiration date shall be less one hundred eighty (180) days. Every provision of these rules relating to an individual on parole shall be deemed to include individuals on mandatory release.

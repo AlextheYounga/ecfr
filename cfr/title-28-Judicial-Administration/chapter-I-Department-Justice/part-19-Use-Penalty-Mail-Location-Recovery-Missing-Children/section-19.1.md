@@ -1,0 +1,3 @@
+##### § 19.1 Purpose. #####
+
+This regulation, providing for a Missing Children Penalty Mail Program in the Department of Justice (DOJ), is intended to comply with the regulation requirement set forth in section 1(a) of Public Law 99-87, which adds a new section 3220 to title 39, U.S. Code. The regulation also implements the Office of Juvenile Justice and Delinquency Prevention (OJJDP) guideline (50 FR 46622) promulgated under the authority of 39 U.S.C. 3220(a)(1), and is intended to assist in the location and recovery of missing children through the use of DOJ penalty mail.

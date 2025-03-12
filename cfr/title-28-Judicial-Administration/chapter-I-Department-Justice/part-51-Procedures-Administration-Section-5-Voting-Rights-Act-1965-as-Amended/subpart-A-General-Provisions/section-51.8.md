@@ -1,0 +1,3 @@
+##### § 51.8 Section 3 coverage. #####
+
+Under section 3(c) of the Act, a court in voting rights litigation can order as relief that a jurisdiction not subject to the preclearance requirement of section 5 preclear its voting changes by submitting them either to the court or to the Attorney General. Where a jurisdiction is required under section 3(c) to preclear its voting changes, and it elects to submit the proposed changes to the Attorney General for preclearance, the procedures in this part will apply.

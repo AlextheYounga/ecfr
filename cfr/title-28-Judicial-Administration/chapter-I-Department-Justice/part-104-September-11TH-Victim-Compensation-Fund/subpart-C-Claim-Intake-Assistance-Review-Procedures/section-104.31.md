@@ -1,0 +1,7 @@
+##### § 104.31 Procedure for claims evaluation. #####
+
+(a) *Initial review.* Claims Evaluators shall review the forms filed by the claimant and either deem the claim “filed” or notify the claimant of any deficiency in the forms or any required documents.
+
+(b) *Procedure.* The Claims Evaluator shall determine eligibility and the claimant's presumed award pursuant to §§ 104.43 to 104.46 of this part and notify the claimant in writing of the eligibility determination, or the amount of the presumed award as applicable, and the right to request a hearing before the Special Master or her designee under § 104.33 of this part. After an eligible claimant has been notified of the presumed award, within 30 days the claimant may either accept the presumed compensation determination as the final determination and request payment, or may instead request a review before the Special Master or her designee pursuant to § 104.33. Claimants found to be ineligible may appeal pursuant to § 104.32.
+
+(c) *Multiple claims from the same family.* The Special Master may treat claims brought by or on behalf of two or more members of the same immediate family as related or consolidated claims for purposes of determining the amount of any award.

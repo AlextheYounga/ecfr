@@ -1,0 +1,3 @@
+##### § 543.30 Purpose and scope. #####
+
+Pursuant to the Federal Tort Claims Act, a claim for money damages for personal injury or death and/or damage to or loss of property must be filed against the United States by the injured party with the appropriate Federal agency for administrative action. General provisions for processing administrative claims under the Federal Tort Claims Act are contained in 28 CFR part 14. The provisions in this subpart describe the procedures to follow when filing an administrative tort claim with the Bureau of Prisons.

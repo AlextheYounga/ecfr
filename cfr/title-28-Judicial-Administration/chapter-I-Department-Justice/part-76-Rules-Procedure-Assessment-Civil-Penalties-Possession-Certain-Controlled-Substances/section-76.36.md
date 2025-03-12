@@ -1,0 +1,7 @@
+##### § 76.36 Administrative and judicial review. #####
+
+(a) Upon entry of an order by a Judge, any party may file with the Attorney General, within ten (10) days of the date of the Judge's decision and order, a written request for review of the decision and order together with supporting arguments. Within thirty (30) days from the date of the filing of the request for review, the Attorney General may enter an order which adopts, affirms, modifies or vacates the Judge's order.
+
+(b) If a party does not seek review of the Judge's decision, or if the Attorney General enters no order within thirty (30) days from the date of the filing of the request for review, the order of the Judge becomes the final order of the Attorney General. If the Attorney General modifies or vacates the order, the order of the Attorney General becomes the final order.
+
+(c) An individual subject to an order assessing a penalty after a hearing may, before the expiration of the thirty (30) day period beginning on the date the final order is entered, either by the Judge or the Attorney General, whichever is applicable, bring a civil action in the appropriate District Court of the United States pursuant to the provisions of 21 U.S.C. 844a(g) and obtain *de novo* judicial review of the final order.

@@ -1,0 +1,3 @@
+##### § 94.41 Interim emergency payment. #####
+
+Claimants may apply for an interim emergency payment, prior to a determination under § 94.21(a). If the Director determines that such payment is necessary to avoid or mitigate substantial hardship that may result from delaying reimbursement until complete and final consideration of an application, such payment may be made to cover immediate expenses such as those of medical care, funeral and burial, short-term lodging, and emergency transportation. The amount of an interim emergency payment shall be determined on a case-by-case basis, and shall be deducted from the final award amount.

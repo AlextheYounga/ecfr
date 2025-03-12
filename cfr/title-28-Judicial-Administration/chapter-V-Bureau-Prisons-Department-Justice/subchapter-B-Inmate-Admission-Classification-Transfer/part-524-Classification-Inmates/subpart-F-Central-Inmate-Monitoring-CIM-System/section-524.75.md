@@ -1,0 +1,3 @@
+##### § 524.75 Periodic review. #####
+
+The Warden shall ensure that the status of an inmate's CIM assignment is considered at each program review. When staff believe that removal or modification of a CIM classification is appropriate, the institution's CMC and the appropriate reviewing authority must be notified. Only the reviewing authority shall determine if removal or modification of the CIM classification is appropriate.

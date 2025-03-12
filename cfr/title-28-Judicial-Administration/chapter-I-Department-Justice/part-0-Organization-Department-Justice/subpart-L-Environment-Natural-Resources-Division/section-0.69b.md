@@ -1,0 +1,5 @@
+##### § 0.69b Delegation of authority respecting conveyances for public airports. #####
+
+The Assistant Attorney General in charge of the Environment and Natural Resources Division, and such members of his staff as he may specifically designate in writing, are authorized to exercise the power and authority vested in the Attorney General of section 516(b) of The Airport and Airway Improvement Act of 1982 (96 Stat. 671, 692) with respect to approving the performance of acts and execution of instruments necessary to make the conveyance requested in carrying out the purposes of that section, except those acts and instruments which in the opinion of the Assistant Attorney General, involve questions of policy or for any other reason require the personal attention of the Attorney General.
+
+[Order No. 1069-84, 49 FR 39843, Oct. 11, 1984]

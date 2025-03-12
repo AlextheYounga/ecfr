@@ -1,0 +1,5 @@
+##### § 542.13 Informal resolution. #####
+
+(a) *Informal resolution.* Except as provided in § 542.13(b), an inmate shall first present an issue of concern informally to staff, and staff shall attempt to informally resolve the issue before an inmate submits a Request for Administrative Remedy. Each Warden shall establish procedures to allow for the informal resolution of inmate complaints.
+
+(b) *Exceptions.* Inmates in CCCs are not required to attempt informal resolution. An informal resolution attempt is not required prior to submission to the Regional or Central Office as provided for in § 542.14(d) of this part. An informal resolution attempt may be waived in individual cases at the Warden or institution Administrative Remedy Coordinator's discretion when the inmate demonstrates an acceptable reason for bypassing informal resolution.

@@ -1,0 +1,7 @@
+##### § 55.7 Termination of coverage. #####
+
+(a) *Section 4(f)(4).* The requirements of section 4(f)(4) apply for a twenty-five-year period following the effective date of the amendments made by the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, César E. Chávez, Barbara C. Jordan, William C. Velásquez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006, which amendments became effective on July 27, 2006. See section 4(a)(8). A covered State, a political subdivision of a covered State, a separately covered political subdivision, or a political subunit of any of the above, may terminate the application of section 4(f)(4) earlier by obtaining the declaratory judgment described in section 4(a) of the Act.
+
+(b) *Section 203(c).* The requirements of section 203(c) apply until August 6, 2032. See section 203(b). A covered jurisdiction may terminate Section 203 coverage earlier if it can prove in a declaratory judgment action in a United States district court, that the illiteracy rate of the applicable language minority group is equal to or less than the national illiteracy rate, as described in section 203(d) of the Act.
+
+[Order No. 3291-2011, 76 FR 54111, Aug. 31, 2011]

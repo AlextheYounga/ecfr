@@ -1,0 +1,13 @@
+##### § 73.3 Form of notification. #####
+
+(a) Notification shall be made by the agent in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of the National Security Division, except for those agents described in paragraphs (b) and (c) of this section. The document shall state that it is a notification under 18 U.S.C. 951, and provide the name or names of the agent making the notification, the firm name, if any, and the business address or addresses of the agent, the identity of the foreign government or official for whom the agent is acting, and a brief description of the activities to be conducted for the foreign government or official and the anticipated duration of the activities. Each notification shall contain a certification, pursuant to 28 U.S.C. 1746, that the notification is true and correct.
+
+(b) Notification by agents engaged in law enforcement investigations or regulatory agency activity shall be in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of Interpol-United States National Central Bureau. Notification by agents engaged in intelligence, counterintelligence, espionage, counterespionage or counterterrorism assignment or service shall be in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of the nearest FBI Legal Attache. In case of exceptional circumstances, notification shall be provided contemporaneously or as soon as reasonably possible by the agent or the agent's supervisor. The letter, telex, or facsimile shall include the information set forth in paragraph (a) of this section.
+
+(c) Notification made by agents engaged in judicial investigations pursuant to treaties or other mutual assistance requests or letters rogatory, shall be made in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of the Office of International Affairs, Criminal Division. The letter, telex, or facsimile shall include the information set forth in paragraph (a) of this section.
+
+(d) Any subsequent change in the information required by paragraph (a) of this section shall require a notification within 10 days of the change.
+
+(e) Notification under 18 U.S.C. 951 shall be effective only if it has been done in compliance with this section, or if the agent has filed a registration under the Foreign Agents Registration Act of 1938, as amended, 22 U.S.C. 611, *et seq.*, which provides the information required by paragraphs (a) and (d) of this section.
+
+[Order No. 1373-89, 54 FR 46608, Nov. 6, 1989, as amended by Order No. 2865-2007, 72 FR 10070, Mar. 7, 2007]

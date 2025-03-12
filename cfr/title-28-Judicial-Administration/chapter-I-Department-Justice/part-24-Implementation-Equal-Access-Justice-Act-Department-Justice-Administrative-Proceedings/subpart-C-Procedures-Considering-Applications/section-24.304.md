@@ -1,0 +1,3 @@
+##### § 24.304 Settlement. #####
+
+A prevailing party and Department counsel may agree on a proposed settlement of an award before final action on the application, either in connection with a settlement of the underlying proceeding or after the underlying proceeding has been concluded. If the party and Department counsel agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement.

@@ -1,0 +1,3 @@
+##### § 2.209 Order of termination. #####
+
+When the Commission orders the termination of a term of supervised release, it shall issue a certificate to the releasee granting the releasee a full discharge from his term of supervised release. The termination and discharge shall take effect only upon the actual delivery of the certificate of discharge to the releasee by the supervision officer, and may be rescinded for good cause at any time prior to such delivery.

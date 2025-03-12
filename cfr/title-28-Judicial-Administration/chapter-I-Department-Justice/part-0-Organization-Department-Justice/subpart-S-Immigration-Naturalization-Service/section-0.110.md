@@ -1,0 +1,3 @@
+##### § 0.110 Implementation of the Convention Between the United States and Greece. #####
+
+The Commissioner of Immigration and Naturalization and immigration officers (as defined in 8 CFR 103.1(i)) are hereby designated as “local authorities” and “competent officers” on the part of the United States within the meaning of Article XIII of the Convention Between the United States and Greece (33 Stat. 2122, 2131), and shall fulfill the obligations assumed by the United States pursuant to that Article in the manner and form prescribed.

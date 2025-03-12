@@ -1,0 +1,7 @@
+##### § 540.100 Purpose and scope. #####
+
+(a) The Bureau of Prisons extends telephone privileges to inmates as part of its overall correctional management. Telephone privileges are a supplemental means of maintaining community and family ties that will contribute to an inmate's personal development. An inmate may request to call a person of his or her choice outside the institution on a telephone provided for that purpose. However, limitations and conditions may be imposed upon an inmate's telephone privileges to ensure that these are consistent with other aspects of the Bureau's correctional management responsibilities. In addition to the procedures set forth in this subpart, inmate telephone use is subject to those limitations which the Warden determines are necessary to ensure the security or good order, including discipline, of the institution or to protect the public. Restrictions on inmate telephone use may also be imposed as a disciplinary sanction (see 28 CFR part 541).
+
+(b) Except as provided in this rule, the Warden shall permit an inmate who has not been restricted from telephone use as the result of a specific institutional disciplinary sanction to make at least one telephone call each month.
+
+[59 FR 15824, Apr. 4, 1994, as amended at 61 FR 90, Jan. 2, 1996]

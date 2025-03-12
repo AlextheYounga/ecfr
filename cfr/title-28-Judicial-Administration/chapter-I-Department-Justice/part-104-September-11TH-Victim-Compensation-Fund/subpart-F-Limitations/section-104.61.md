@@ -1,0 +1,7 @@
+##### § 104.61 Limitation on civil actions. #####
+
+(a) *General.* Section 405(c)(3)(C) of the Act provides that upon the submission of a claim under the Fund, the claimant waives the right to file a civil action (or be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, or for damages arising from or related to debris removal, except that this limitation does not apply to recover collateral source obligations, or to a civil action against any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act. The Special Master shall take appropriate steps to inform potential claimants of section 405(c)(3)(C) of the Act.
+
+(b) *Pending actions.* Claimants who have filed a civil action or who are a party to such an action as described in paragraph (a) of this section may not file a claim with the Special Master unless they withdraw from such action not later than January 2, 2012.
+
+(c) *Settled actions.* In the case of an individual who settled a civil action described in Section 405(c)(3)(C) of the Act, such individual may not submit a claim under this title unless such action was commenced after December 22, 2003, and a release of all claims in such action was tendered prior to January 2, 2011.

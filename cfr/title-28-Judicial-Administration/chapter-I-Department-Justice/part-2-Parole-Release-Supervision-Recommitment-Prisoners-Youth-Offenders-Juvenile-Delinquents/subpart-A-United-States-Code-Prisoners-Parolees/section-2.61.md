@@ -1,0 +1,11 @@
+##### § 2.61 Qualifications of representatives. #####
+
+(a) A prisoner or parolee may select any person to appear as his or her representative in any proceeding, and any representative will be deemed qualified unless specifically disqualified under paragraph (b) or (c) of this section. However, an examiner or examiner panel may bar an otherwise qualified representative from participating in a particular hearing, provided good cause for such action is found and stated in the record (e.g., willfully disruptive conduct during the hearing by repeated interruption or use of abusive language). In certain situations, good cause may be found in advance of the hearing (e.g., that the proposed representative is a prisoner in disciplinary segregation whose presence at the hearing would pose a risk to security, or has a personal interest in the case which appears to conflict with that of the parole applicant).
+
+(b) The Commission may disqualify any representative from appearing before it for up to a five-year period if, following a hearing, the Commission finds that the representative has engaged in any conduct which demonstrates a clear lack of personal integrity or fitness to practice before the Commission (including, but not limited to, deliberate or repetitive provision of false information to the Commission, or solicitation of clients on the strength of purported personal influence with U.S. Parole Commissioners or staff).
+
+(c)(1) In addition to the prohibitions contained in 18 U.S.C. 207, no former employee of any Federal criminal justice agency (in either the Executive or Judicial Branch of the Government) with the exception of the Federal Defender Service, shall be qualified to act as a representative for hire in any case before the Commission for one year following termination of Federal employment. However, such persons may be employed by, or perform consulting services for, a private firm or other organization providing representation before the agency, to the extent that such employment or service does not include the performance of any representational act before the Commission.
+
+(2) No prisoner or parolee may serve as a representative before the Commission, at the hire of individual clients, in any case.
+
+[48 FR 14377, Apr. 4, 1983, as amended at 48 FR 44528, Sept. 29, 1983]

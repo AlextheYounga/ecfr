@@ -1,0 +1,3 @@
+##### § 4.15 Certificate of Exemption. #####
+
+The applicant, the Secretary and others to whom notice has been sent pursuant to § 4.7 shall be served a copy of the Commission's decision and order with respect to each application. Whenever the Commission decision is that the application be granted, the Commission shall issue a Certificate of Exemption to the applicant. The Certificate of Exemption shall extend only to the stated employment with the prospective employer named in the application.

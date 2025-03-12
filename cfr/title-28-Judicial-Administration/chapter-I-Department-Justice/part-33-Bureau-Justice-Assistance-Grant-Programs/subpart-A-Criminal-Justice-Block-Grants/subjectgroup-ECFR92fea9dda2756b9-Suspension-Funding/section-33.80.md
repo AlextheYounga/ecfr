@@ -1,0 +1,3 @@
+##### § 33.80 Suspension of funding. #####
+
+The Bureau of Justice Assistance shall, after reasonable notice and opportunity for a hearing on the record, terminate or suspend funding for a state that implements programs or projects which fail to conform to the requirements or statutory objectives of the Act, or that fails to comply substantially with the Justice Assistance Act, these regulations or the terms and conditions of its grant award. Hearing and appeal procedures are set forth in Department of Justice regulations 28 CFR part 18.

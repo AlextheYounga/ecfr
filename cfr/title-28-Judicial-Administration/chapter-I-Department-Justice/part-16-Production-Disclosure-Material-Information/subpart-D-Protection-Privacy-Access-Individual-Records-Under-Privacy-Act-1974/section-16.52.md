@@ -1,0 +1,3 @@
+##### § 16.52 Contracts for the operation of record systems. #####
+
+Any approved contract for the operation of a record system will contain the standard contract requirements issued by the General Services Administration to ensure compliance with the requirements of the Privacy Act for that record system. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements.

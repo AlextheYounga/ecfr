@@ -1,0 +1,3 @@
+##### § 0.29g Reprisals. #####
+
+Any employee who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for the employee making a complaint or disclosing information to the OIG unless the complaint was made or the information was disclosed with knowledge that it was false or with willful disregard for its truth or falsity.

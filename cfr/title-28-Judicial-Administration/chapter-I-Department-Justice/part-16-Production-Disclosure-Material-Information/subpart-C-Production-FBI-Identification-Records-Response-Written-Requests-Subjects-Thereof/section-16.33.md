@@ -1,0 +1,5 @@
+##### § 16.33 Fee for production of identification record. #####
+
+Each written request for production of an identification record must be accompanied by a fee of $18 in the form of a certified check or money order, payable to the Treasury of the United States. This fee is established pursuant to the provisions of 31 U.S.C. 9701 and is based upon the clerical time beyond the first quarter hour to be spent in searching for, identifying, and reproducing each identification record requested as specified in § 16.10. Any request for waiver of the fee shall accompany the original request for the identification record and shall include a claim and proof of indigency. Subject to applicable laws, regulations, and directions of the Attorney General of the United States, the Director of the FBI may from time to time determine and establish a revised fee amount to be assessed under this authority. Notice relating to revised fee amounts shall be published in the Federal Register.
+
+[Order No. 1943-94, 60 FR 38, Jan. 3, 1995, as amended by Order No. 2258-99, 64 FR 52226, Sept. 28, 1999]

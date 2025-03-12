@@ -1,0 +1,3 @@
+##### § 80.13 Scope of FCPA Opinion. #####
+
+An FCPA Opinion will state only the Attorney General's opinion as to whether the prospective conduct would violate the Department's present enforcement policy under 15 U.S.C. 78dd-1 and 78dd-2. If the conduct for which an FCPA Opinion is requested is subject to approval by any other agency, such FCPA Opinion shall in no way be taken to indicate the Department of Justice's views on the legal or factual issues that may be raised before that agency, or in an appeal from the agency's decision.

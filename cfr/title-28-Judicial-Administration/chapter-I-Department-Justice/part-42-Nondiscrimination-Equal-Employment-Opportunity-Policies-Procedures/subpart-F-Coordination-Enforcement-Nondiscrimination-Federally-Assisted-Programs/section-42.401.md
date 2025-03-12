@@ -1,0 +1,5 @@
+##### § 42.401 Purpose and application. #####
+
+The purpose of this subpart is to insure that federal agencies which extend financial assistance properly enforce title VI of the Civil Rights Act of 1964 and similar provisions in federal grant statutes. Enforcement of the latter statutes is covered by this subpart to the extent that they relate to prohibiting discrimination on the ground of race, color or national origin in programs receiving federal financial assistance of the type subject to title VI. Responsibility for enforcing title VI rests with the federal agencies which extend financial assistance. In accord with the authority granted the Attorney General under Executive Order 12250, this subpart shall govern the respective obligations of federal agencies regarding enforcement of title VI. This subpart is to be used in conjunction with the 1965 Attorney General Guidelines for Enforcement of title VI, 28 CFR 50.3.
+
+[Order No. 670-76, 41 FR 52669, Dec. 1, 1976, as amended by Order No. 960-81, 46 FR 52357, Oct. 27, 1981]

@@ -1,0 +1,5 @@
+##### § 34.100 Purpose and applicability. #####
+
+(a) This subpart of the regulation implements section 262(d)(2) of the Juvenile Justice and Delinquency Prevention Act of 1974, as amended. This provision requires that projects funded as new or continuation programs selected for categorical assistance awards under part C—National Programs shall be reviewed before selection and thereafter as appropriate through a formal peer review process. Such process must utilize experts (other than officials and employees of the Department of Justice) in fields related to the technical and/or subject matter of the proposed program.
+
+(b) This subpart of the regulation applies to all applications for grants, cooperative agreements, and other assistance awards selected by the Administrator, OJJDP, for funding under part C—National Programs that are being considered for competitive and noncompetitive (including continuation) awards to begin new project periods, except as provided in the exceptions to applicability set forth below.

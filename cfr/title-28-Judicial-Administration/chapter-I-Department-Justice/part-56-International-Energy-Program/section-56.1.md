@@ -1,0 +1,3 @@
+##### § 56.1 Purpose and scope. #####
+
+These regulations are promulgated pursuant to section 252(e)(2) of the Energy Policy and Conservation Act (EPCA), 42 U.S.C. 6272(e)(2). They are being issued by the Assistant Attorney General in charge of the Antitrust Division to whom the Attorney General has delegated his authority under this section of EPCA. The requirements of this part do not apply to activities other than those for which section 252 of EPCA makes available a defense to actions brought under the Federal antitrust laws.

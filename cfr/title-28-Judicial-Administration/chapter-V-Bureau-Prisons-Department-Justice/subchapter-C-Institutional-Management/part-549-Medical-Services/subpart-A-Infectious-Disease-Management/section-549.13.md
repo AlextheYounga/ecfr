@@ -1,0 +1,7 @@
+##### § 549.13 Programming, duty, and housing restrictions. #####
+
+(a) The CD will assess any inmate with an infectious disease for appropriateness for programming, duty, and housing. Inmates with infectious diseases that are transmitted through casual contact will be prohibited from work assignments in any area, until fully evaluated by a health care provider.
+
+(b) Inmates may be limited in programming, duty, and housing when their infectious disease is transmitted through casual contact. The Warden, in consultation with the CD, may exclude inmates, on a case-by-case basis, from work assignments based upon the security and good order of the institution.
+
+(c) If an inmate tests positive for an infectious disease, that test alone does not constitute sole grounds for disciplinary action. Disciplinary action may be considered when coupled with a secondary action that could lead to transmission of an infectious agent. Inmates testing positive for infectious disease are subject to the same disciplinary policy that applies to all inmates (*see* 28 CFR part 541, subpart B). Except as provided for in our disciplinary policy, no special or separate housing units may be established for HIV-positive inmates.

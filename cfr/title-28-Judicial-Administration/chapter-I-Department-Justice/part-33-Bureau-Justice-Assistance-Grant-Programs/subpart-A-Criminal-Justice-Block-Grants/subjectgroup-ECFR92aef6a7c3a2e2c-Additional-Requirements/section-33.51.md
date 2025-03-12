@@ -1,0 +1,3 @@
+##### § 33.51 Audit. #####
+
+Pursuant to Office of Management and Budget Circular A-128 “Audits of State and Local Governments,” all grantees and subgrantees must provide for an independent audit of their activities on a periodic basis. For additional information on audit requirements, applicants should refer to the “Financial and Administrative Guide for Grants,” Guideline Manual 7100.1, Office of Justice Programs.

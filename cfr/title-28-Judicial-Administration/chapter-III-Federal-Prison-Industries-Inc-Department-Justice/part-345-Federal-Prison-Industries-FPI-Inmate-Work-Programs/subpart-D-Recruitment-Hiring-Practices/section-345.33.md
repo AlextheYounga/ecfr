@@ -1,0 +1,11 @@
+##### § 345.33 Waiting list hiring exceptions. #####
+
+(a) *Needed skills.* An inmate may be hired ahead of other inmates on the waiting list if the inmate possesses needed skills and the SOI documents the reasons for the action in the position classification files.
+
+(b) *Prior FPI work assignment.* An inmate with prior FPI work experience during the inmate's current commitment and with no break in custody will ordinarily be placed within the top ten percent of the waiting lists unless the inmate was transferred for disciplinary reasons, was placed in segregation, or voluntarily left the FPI work assignment for non-program reasons (i.e. for some reason other than formal education, vocational training, drug abuse or similar formal programs). For example, an inmate transferred administratively for nondisciplinary reasons, and who has documented credit as a prior worker, is covered under the provisions of this paragraph.
+
+(c) *Industry closing and relocation.* When an FPI factory closes in a location with two or more FPI factories, an inmate worker affected may be transferred to remaining FPI factories ahead of the top portion of the inmates on the waiting lists, so there is no break in active duty with FPI. Such actions are also in order where the work force of an industry is reduced to meet institution or FPI needs. An inmate transferred under the provisions of this part will have the same benefits as any intra-industry transfer.
+
+(d) *Disciplinary transfers.* An inmate who is a disciplinary transfer from the last institution designated and who wishes re-assignment in FPI at the receiving institution may be hired on a case-by-case basis at the discretion of the SOI, who should consider the security level and reasons for the misconduct. Such an inmate, despite prior experience, is not due special placement on the waiting list, is not given advance hiring preference, and does not receive consideration for accelerated promotion back to the grade held at time of transfer.
+
+(e) *Special needs.* For special needs, such as Inmate Financial Responsibility assignment to assist in paying a significant financial obligation or for release preparation, the unit team may recommend an inmate for priority placement on the waiting list. Such placement must be documented and include the reason for the exception.

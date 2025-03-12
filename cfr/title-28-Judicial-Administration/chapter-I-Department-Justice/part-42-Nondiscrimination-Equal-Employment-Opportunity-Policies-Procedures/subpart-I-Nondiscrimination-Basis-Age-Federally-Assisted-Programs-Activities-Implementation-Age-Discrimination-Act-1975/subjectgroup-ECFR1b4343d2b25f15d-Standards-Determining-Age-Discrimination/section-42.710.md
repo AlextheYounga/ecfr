@@ -1,0 +1,5 @@
+##### § 42.710 General prohibition. #####
+
+(a) Subject to the exceptions discussed in §§ 42.711-42.713, no person in the United States shall, on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination in any program or activity to which this subpart applies. This prohibition applies to actions taken by a recipient, directly or through contractual or other arrangements, that have the purpose or effect of discriminating on the basis of age.
+
+(b) This prohibition encompasses treatment of elderly persons, children and any other age group. Unless one of the exception applies, the recipient may use neither a minimum age limit nor a maximum age limit in connection with receipt of benefits or services or other participation in a program or activity subject to this subpart.

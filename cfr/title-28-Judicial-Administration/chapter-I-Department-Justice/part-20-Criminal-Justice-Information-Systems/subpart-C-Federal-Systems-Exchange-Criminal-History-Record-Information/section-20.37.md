@@ -1,0 +1,3 @@
+##### § 20.37 Responsibility for accuracy, completeness, currency, and integrity. #####
+
+It shall be the responsibility of each criminal justice agency contributing data to the III System and the FIRS to assure that information on individuals is kept complete, accurate, and current so that all such records shall contain to the maximum extent feasible dispositions for all arrest data included therein. Dispositions should be submitted by criminal justice agencies within 120 days after the disposition has occurred.

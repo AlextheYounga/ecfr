@@ -1,0 +1,3 @@
+##### § 802.1 Introduction. #####
+
+This part contains regulations of the Court Services and Offender Supervision Agency for the District of Columbia (“CSOSA” or “Agency”) and the District of Columbia Pretrial Services Agency (“PSA” or “Agency”) which implement the Freedom of Information Act (FOIA), 5 U.S.C. 552, and the Privacy Act, 5 U.S.C. 552a, and provide for the production of records in response to a demand from a court or other non-congressional authority in connection with a proceeding to which the Agency is not a party.

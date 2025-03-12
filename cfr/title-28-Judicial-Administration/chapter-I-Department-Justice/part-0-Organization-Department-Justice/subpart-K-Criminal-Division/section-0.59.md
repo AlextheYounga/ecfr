@@ -1,0 +1,7 @@
+##### § 0.59 Certain certifications under 18 U.S.C. 3331 and 3503. #####
+
+(a) The Assistant Attorney General in charge of the Criminal Division is authorized to exercise or perform the functions or duties conferred upon the Attorney General by section 3331 of title 18, United States Code, to certify that in his judgment a special grand jury is necessary in any judicial district of the United States because of criminal activity within such district.
+
+(b) The Assistant Attorney General in charge of the Criminal Division and his Deputy Assistant Attorney Generals are each authorized to exercise or perform the functions or duties conferred upon the Attorney General by section 3503 of title 18, United States Code, to certify that the legal proceeding, in which a motion to take testimony by deposition is made, is against a person who is believed to have participated in an organized criminal activity, where the subject matter of the case or proceeding in which the motion is sought is within the cognizance of the Criminal Division pursuant to § 0.55, or is not within the cognizance of the Civil Rights Division.
+
+[Order No. 452-71, 36 FR 2601, Feb. 9, 1971, as amended by Order No. 511-73, 38 FR 8152, Mar. 29, 1973]

@@ -1,0 +1,5 @@
+##### § 61.7 Legislative proposals. #####
+
+(a) Each subunit of the Department of Justice which develops or significantly cooperates and supports a bill or legislative proposal to Congress which may have an effect on the environment shall, in the early stages of development of the bill or proposal, undertake an assessment to determine whether the legislation will significantly affect the environment. The Office of Legislative Affairs shall monitor legislative proposals to assure that Department procedures for legislation are complied with. Requests for appropriations need not be so analyzed.
+
+(b) If the Department of Justice has primary responsibility for the subject matter involved and if the subunit affected finds that the bill or legislative proposal has a significant impact on the environment, that subunit shall prepare a legislative environmental impact statement in compliance with 40 CFR 1506.8.

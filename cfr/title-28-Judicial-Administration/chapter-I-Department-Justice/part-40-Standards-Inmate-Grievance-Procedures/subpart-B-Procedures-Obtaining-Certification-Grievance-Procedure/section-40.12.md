@@ -1,0 +1,3 @@
+##### § 40.12 Notice of intent to apply for certification. #####
+
+The applicant shall post notice of its intent to request certification in prominent places in each institution to be covered by the procedure and shall provide similar written notice to the U.S. District Court(s) having jurisdiction over each institution to be covered by the procedure. The notices shall invite comments regarding the grievance procedure and direct them to the Attorney General.

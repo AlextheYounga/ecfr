@@ -1,0 +1,3 @@
+##### § 12.70 Partial compliance not deemed compliance. #####
+
+The fact that a registration statement has been filed shall not necessarily be deemed a full compliance with the act on the part of the registrant; nor shall it preclude prosecution, as provided for in the act, for willful failure to file a registration statement, or for a willfully false statement of a material fact therein, or for the willful omission of a material fact required to be stated therein.

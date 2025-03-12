@@ -1,0 +1,3 @@
+##### § 523.14 Industrial good time. #####
+
+Extra good time for an inmate employed in Federal Prison Industries, Inc., is automatically awarded, beginning on the first day of such employment, and continuing as long as the inmate is employed by Federal Prison Industries, unless the award is disallowed. An inmate on a waiting list for employment in Federal Prison Industries is not awarded industrial good time until actually employed.

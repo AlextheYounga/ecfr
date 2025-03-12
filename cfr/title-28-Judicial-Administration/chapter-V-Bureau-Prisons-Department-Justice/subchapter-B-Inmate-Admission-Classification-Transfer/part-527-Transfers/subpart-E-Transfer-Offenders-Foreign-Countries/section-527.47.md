@@ -1,0 +1,3 @@
+##### § 527.47 Transfer of state prisoners to other countries. #####
+
+The Bureau of Prisons may assume custody of a state prisoner who has been approved for transfer to a treaty nation for the purpose of facilitating the transfer to the treaty nation. Once the state prisoner has consented to the transfer at the consent verification hearing, the Bureau assumes custody of the prisoner. The state is not required to contract for the placement of the prisoner in federal custody, nor to reimburse the United States for the cost of confinement (as would ordinarily be required by 18 U.S.C. 5003).

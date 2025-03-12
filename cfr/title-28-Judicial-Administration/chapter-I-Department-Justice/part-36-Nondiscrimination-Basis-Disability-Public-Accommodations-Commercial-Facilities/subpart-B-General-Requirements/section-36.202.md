@@ -1,0 +1,9 @@
+##### § 36.202 Activities. #####
+
+(a) *Denial of participation.* A public accommodation shall not subject an individual or class of individuals on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, to a denial of the opportunity of the individual or class to participate in or benefit from the goods, services, facilities, privileges, advantages, or accommodations of a place of public accommodation.
+
+(b) *Participation in unequal benefit.* A public accommodation shall not afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements, with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.
+
+(c) *Separate benefit.* A public accommodation shall not provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
+
+(d) *Individual or class of individuals.* For purposes of paragraphs (a) through (c) of this section, the term “individual or class of individuals” refers to the clients or customers of the public accommodation that enters into the contractual, licensing, or other arrangement.

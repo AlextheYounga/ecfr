@@ -1,0 +1,3 @@
+##### § 513.63 Freedom of Information Act requests on behalf of an inmate or former inmate. #####
+
+A request for records concerning an inmate or former inmate made by an authorized representative of that inmate or former inmate will be treated as in § 513.61, on receipt of the inmate's or former inmate's written authorization. This authorization must be dated within three (3) months of the date of the request letter. Identification data, as listed in 28 CFR 16.41, must be provided.

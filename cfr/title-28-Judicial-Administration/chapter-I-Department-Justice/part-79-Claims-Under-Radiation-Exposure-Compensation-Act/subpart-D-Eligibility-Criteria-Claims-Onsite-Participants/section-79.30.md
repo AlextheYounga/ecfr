@@ -1,0 +1,3 @@
+##### § 79.30 Scope of subpart. #####
+
+The regulations in this subpart describe the criteria for eligibility for compensation under section 4(a)(2)(C) of the Act, and the evidence that will be accepted as proof of the various eligibility criteria. Section 4(a)(2)(C) of the Act provides for a payment of $75,000 to individuals who participated onsite in the atmospheric detonation of a nuclear device and later developed a specified compensable disease.

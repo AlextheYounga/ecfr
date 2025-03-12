@@ -1,0 +1,3 @@
+##### § 345.54 Overtime compensation. #####
+
+An inmate worker is entitled to overtime pay at a rate of two times the hourly or unit rate for hourly, individual, and group piecework rate workers, when the total hours worked (including administrative pay) exceed the FPI factory's regularly scheduled workday. Hours worked on days other than the scheduled work week (e.g., Saturday) shall be compensated at the overtime rate.

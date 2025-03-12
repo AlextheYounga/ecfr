@@ -1,0 +1,3 @@
+##### § 79.35 Proof of onset of leukemia at least two years after first exposure, and proof of onset of a specified compensable disease more than five years after first exposure. #####
+
+Absent any indication to the contrary, the earliest date of onsite participation indicated on any records accepted by the Radiation Exposure Compensation Program as proof of the claimant's onsite participation will be presumed to be the date of first or initial exposure. The date of onset will be the date of diagnosis as indicated on the medical documentation accepted by the Radiation Exposure Compensation Program as proof of the specified compensable disease. Proof of the onset of leukemia shall be established in accordance with § 79.15.

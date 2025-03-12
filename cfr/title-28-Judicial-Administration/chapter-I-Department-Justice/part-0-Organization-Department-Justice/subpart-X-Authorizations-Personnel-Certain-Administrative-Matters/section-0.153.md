@@ -1,0 +1,5 @@
+##### § 0.153 Selection and assignment of employees for training. #####
+
+The Director of the Federal Bureau of Investigation, the Director of the Bureau of Prisons, the Commissioner of Federal Prison Industries, Inc., the Commissioner of the Immigration and Naturalization Service, the Administrator of the Drug Enforcement Administration, the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, the Director of the Office of Justice Assistance, Research and Statistics, the Director of the Executive Office for United States Attorneys and the Director of the United States Marshals Service, as to their respective jurisdictions, and the Assistant Attorney General for Administration, as to all other organizational units of the Department, are hereby authorized to exercise the authority vested in the Attorney General by 5 U.S.C. 4109, with respect to the selection and assignment of employees for training by, in, or through Government facilities and the payment or reimbursement of expenses for such training.
+
+[Order No. 960-81, 46 FR 52351, Oct. 27, 1981, as amended by Order No. 2650-2003, 68 FR 4928, Jan. 31, 2003]

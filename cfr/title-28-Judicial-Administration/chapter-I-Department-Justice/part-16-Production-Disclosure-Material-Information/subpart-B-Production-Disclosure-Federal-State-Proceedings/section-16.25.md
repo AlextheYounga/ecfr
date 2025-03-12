@@ -1,0 +1,7 @@
+##### § 16.25 Final action by the Deputy or Associate Attorney General. #####
+
+(a) Unless otherwise indicated, all matters to be referred under § 16.24 by an Assistant Attorney General, the Director of the EOUST, or such person's designees to the Deputy or Associate Attorney General shall be referred (1) to the Deputy Attorney General, if the matter is referred personally by or through the designee of an Assistant Attorney General who is within the general supervision of the Deputy Attorney General, or (2) to the Associate Attorney General, in all other cases.
+
+(b) All other matters to be referred under § 16.24 to the Deputy or Associate Attorney General shall be referred (1) to the Deputy Attorney General, if the originating component is within the supervision of the Deputy Attorney General or is an independent agency that, for administrative purposes, is within the Department of Justice, or (2) to the Associate Attorney General, if the originating component is within the supervision of the Associate Attorney General.
+
+(c) Upon referral, the Deputy or Associate Attorney General shall make the final decision and give notice thereof to the responsible official and such other persons as circumstances may warrant.

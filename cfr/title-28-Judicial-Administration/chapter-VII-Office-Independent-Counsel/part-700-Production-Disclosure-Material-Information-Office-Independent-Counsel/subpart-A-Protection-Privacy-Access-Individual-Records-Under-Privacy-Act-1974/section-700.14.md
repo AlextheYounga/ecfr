@@ -1,0 +1,3 @@
+##### § 700.14 Classified information. #####
+
+In processing a request for access to a record containing information that is classified or classifiable under Executive Order 12356 or any other Executive order concerning the classification of records, the Office shall review the information to determine whether it warrants classification. Information that does not warrant classification shall not be withheld from a requester on the basis of 5 U.S.C. 552a(k)(1). The Office shall, upon receipt of any appeal involving classified or classifiable information, take appropriate action to ensure compliance with the provisions of Executive Order 12356.

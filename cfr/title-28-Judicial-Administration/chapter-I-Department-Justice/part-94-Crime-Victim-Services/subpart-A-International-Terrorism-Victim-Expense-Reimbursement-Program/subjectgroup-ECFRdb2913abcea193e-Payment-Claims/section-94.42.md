@@ -1,0 +1,3 @@
+##### § 94.42 Repayment and waiver of repayment. #####
+
+A victim or representative shall reimburse the program upon a determination by the Director that an interim emergency award or final award was: Made to an ineligible victim or claimant; based on fraudulent information; or an overpayment. Except in the case of ineligibility pursuant to a determination by the Director, in consultation with appropriate DOJ officials, under § 94.21(b), the Director may waive such repayment requirement in whole or in part, for good cause, upon request.

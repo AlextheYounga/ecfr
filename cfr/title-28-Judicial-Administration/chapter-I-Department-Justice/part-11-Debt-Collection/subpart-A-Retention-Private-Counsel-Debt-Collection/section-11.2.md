@@ -1,0 +1,5 @@
+##### § 11.2 Pilot program. #####
+
+The Assistant Attorney General for Administration, in consultation with the Executive Office for United States Attorneys, shall designate the districts that will participate in the program. U.S. Attorneys in the districts chosen for the program, shall direct the full cooperation and assistance of their respective offices in implementing the program. Among other things, the U.S. Attorneys shall designate an Assistant U.S. Attorney to serve as the Contracting Officer's Representative (COR) on the contracts with private debt collection lawyers in their respective districts. The CORs will be responsible for assisting the contracting officer by supervising the work of the private counsel in their respective districts and providing necessary approvals with respect to the initiation or settlement of lawsuits or similar matters.
+
+[Order No. 1201-87, 52 FR 24449, July 1, 1987, as amended by AG Order 3689-2016, 81 FR 43943, July 6, 2016]

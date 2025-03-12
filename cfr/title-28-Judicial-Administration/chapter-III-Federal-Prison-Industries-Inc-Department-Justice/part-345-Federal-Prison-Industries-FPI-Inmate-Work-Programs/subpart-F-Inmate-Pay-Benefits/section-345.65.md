@@ -1,0 +1,3 @@
+##### § 345.65 Inmate medical work limitation. #####
+
+In addition to any prior illnesses or injuries, medical limitations also include any illness or injury sustained by an inmate which necessitates removing the ill worker from an FPI work assignment. If an inmate worker is injured more than once in a comparatively short time, and the circumstances of the injury suggest an awkwardness or ineptitude which in turn indicates that further danger exists, the inmate may be removed to another FPI detail or to a non-FPI detail.

@@ -1,0 +1,3 @@
+##### § 551.33 Dues. #####
+
+Dues may be collected if they are required by the national organization, are collected by that same national organization, and the rate and method of institution collection have been approved by the Warden. No portion of the dues may be kept by the inmate organization for use at the institution. The organization may not make payment of dues a requirement of membership for an inmate who lacks funds.

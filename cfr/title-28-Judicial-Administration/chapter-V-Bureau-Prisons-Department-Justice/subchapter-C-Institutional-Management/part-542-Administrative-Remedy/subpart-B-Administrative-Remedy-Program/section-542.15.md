@@ -1,0 +1,11 @@
+##### § 542.15 Appeals. #####
+
+(a) *Submission.* An inmate who is not satisfied with the Warden's response may submit an Appeal on the appropriate form (BP-10) to the appropriate Regional Director within 20 calendar days of the date the Warden signed the response. An inmate who is not satisfied with the Regional Director's response may submit an Appeal on the appropriate form (BP-11) to the General Counsel within 30 calendar days of the date the Regional Director signed the response. When the inmate demonstrates a valid reason for delay, these time limits may be extended. Valid reasons for delay include those situations described in § 542.14(b) of this part. Appeal to the General Counsel is the final administrative appeal.
+
+(b) *Form.* (1) Appeals to the Regional Director shall be submitted on the form designed for regional Appeals (BP-10) and accompanied by one complete copy or duplicate original of the institution Request and response. Appeals to the General Counsel shall be submitted on the form designed for Central Office Appeals (BP-11) and accompanied by one complete copy or duplicate original of the institution and regional filings and their responses. Appeals shall state specifically the reason for appeal.
+
+(2) An inmate may not raise in an Appeal issues not raised in the lower level filings. An inmate may not combine Appeals of separate lower level responses (different case numbers) into a single Appeal.
+
+(3) An inmate shall complete the appropriate form with all requested identifying information and shall state the reasons for the Appeal in the space provided on the form. If more space is needed, the inmate may use up to one letter-size (81/2″ × 11″) continuation page. The inmate shall provide two additional copies of any continuation page and exhibits with the regional Appeal, and three additional copies with an Appeal to the Central Office (the inmate is also to provide copies of exhibits used at the prior level(s) of appeal). The inmate shall date and sign the Appeal and mail it to the appropriate Regional Director, if a Regional Appeal, or to the National Inmate Appeals Administrator, Office of General Counsel, if a Central Office Appeal (see 28 CFR part 503 for information on locating Bureau addresses).
+
+[61 FR 88, Jan. 2, 1996, as amended at 70 FR 67091, Nov. 4, 2005]

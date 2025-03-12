@@ -1,0 +1,7 @@
+##### § 36.301 Eligibility criteria. #####
+
+(a) *General.* A public accommodation shall not impose or apply eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered.
+
+(b) *Safety.* A public accommodation may impose legitimate safety requirements that are necessary for safe operation. Safety requirements must be based on actual risks and not on mere speculation, stereotypes, or generalizations about individuals with disabilities.
+
+(c) *Charges.* A public accommodation may not impose a surcharge on a particular individual with a disability or any group of individuals with disabilities to cover the costs of measures, such as the provision of auxiliary aids, barrier removal, alternatives to barrier removal, and reasonable modifications in policies, practices, or procedures, that are required to provide that individual or group with the nondiscriminatory treatment required by the Act or this part.

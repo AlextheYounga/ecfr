@@ -1,0 +1,5 @@
+##### § 36.207 Places of public accommodation located in private residences. #####
+
+(a) When a place of public accommodation is located in a private residence, the portion of the residence used exclusively as a residence is not covered by this part, but that portion used exclusively in the operation of the place of public accommodation or that portion used both for the place of public accommodation and for residential purposes is covered by this part.
+
+(b) The portion of the residence covered under paragraph (a) of this section extends to those elements used to enter the place of public accommodation, including the homeowner's front sidewalk, if any, the door or entryway, and hallways; and those portions of the residence, interior or exterior, available to or used by customers or clients, including restrooms.

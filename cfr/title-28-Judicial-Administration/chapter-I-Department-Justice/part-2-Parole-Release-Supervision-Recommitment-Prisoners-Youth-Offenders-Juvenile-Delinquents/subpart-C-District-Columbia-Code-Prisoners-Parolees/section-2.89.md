@@ -1,0 +1,5 @@
+##### § 2.89 Miscellaneous provisions. #####
+
+Except to the extent otherwise provided by law, the following sections in Subpart A of this part are also applicable to District of Columbia Code offenders:
+
+2.5 (Sentence aggregation)2.7 (Committed fines and restitution orders)2.8 (Mental competency procedures)2.10 (Date service of sentence commences)2.16 (Parole of prisoner in State, local, or territorial institution)2.19 (Information considered)2.23 (Delegation to hearing examiners)2.25 (Hearings by video conference)2.30 (False information or new criminal conduct; Discovery after release)2.32 (Parole to local or immigration detainers)2.56 (Disclosure of Parole Commission file)2.62 (Rewarding assistance in the prosecution of other offenders: criteria and guidelines)2.65 (Paroling policy for prisoners serving aggregated U.S. and D.C. Code sentences)2.66 (Revocation Decision Without Hearing)[65 FR 45888, July 26, 2000, as amended at 69 FR 5274, Feb. 4, 2004; 72 FR 53116, Sept. 18, 2007]

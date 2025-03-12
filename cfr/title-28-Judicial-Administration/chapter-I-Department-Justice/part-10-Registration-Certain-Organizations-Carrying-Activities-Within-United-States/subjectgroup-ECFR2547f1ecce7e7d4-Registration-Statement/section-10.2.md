@@ -1,0 +1,3 @@
+##### § 10.2 Language of registration statement. #####
+
+Registration statements must be in English if possible. If in a foreign language they must be accompanied by an English translation certified under oath by the translator, before a notary public or other person authorized by law to administer oaths for general purposes as a true and adequate translation. The statements, with the exception of signature, must be typewritten if practicable but will be accepted if written legibly in ink.

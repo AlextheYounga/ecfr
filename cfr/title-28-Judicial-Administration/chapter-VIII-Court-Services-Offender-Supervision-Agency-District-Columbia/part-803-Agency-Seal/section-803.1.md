@@ -1,0 +1,9 @@
+##### § 803.1 Description. #####
+
+(a) The Agency seal of the Court Services and Offender Supervision Agency for the District of Columbia (CSOSA or Agency) is described as follows: General George Washington's coat of arms in red and white bounded by an outline of the District of Columbia and superimposed upon a blue field together with the dome of the United States Capitol building in gold; encircled by a banner with the words “Community, Accountability, and Justice” and gold laurel branches, with gold edges bearing the inscription “COURT SERVICES AND OFFENDER SUPERVISION AGENCY” above three stars at either side of the words “DISTRICT OF COLUMBIA” in smaller letters in the base; letters and stars in gold. A reproduction of the Agency seal in black and white appears as follows.
+
+![](/graphics/er20ap04.000.gif)
+
+(b) The Agency seal of the Pretrial Services Agency for the District of Columbia (PSA or Agency) is described as follows: Two crossed flags, the United States flag on the left and the District of Columbia flag on the right superimposed upon the United States Capitol dome and two laurel branches both in gold which appear on a blue field bearing a white banner edged and lettered in gold with the inscription “COMMUNITY, ACCOUNTABILITY, JUSTICE”; bearing the inscription “PRETRIAL SERVICES AGENCY” at the top, and “DISTRICT OF COLUMBIA” at the bottom surrounded by three gold stars on either side; letters and stars in gold. A reproduction of the Agency seal in black and white appears below.
+
+![](/graphics/er26se12.005.gif)[69 FR 21059, Apr. 20, 2004, as amended at 77 FR 59082, Sept. 26, 2012]

@@ -1,0 +1,9 @@
+##### § 16.22 General prohibition of production or disclosure in Federal and State proceedings in which the United States is not a party. #####
+
+(a) In any federal or state case or matter in which the United States is not a party, no employee or former employee of the Department of Justice shall, in response to a demand, produce any material contained in the files of the Department, or disclose any information relating to or based upon material contained in the files of the Department, or disclose any information or produce any material acquired as part of the performance of that person's official duties or because of that person's official status without prior approval of the proper Department official in accordance with §§ 16.24 and 16.25 of this part.
+
+(b) Whenever a demand is made upon an employee or former employee as described in paragraph (a) of this section, the employee shall immediately notify the U.S. Attorney for the district where the issuing authority is located. The responsible United States Attorney shall follow procedures set forth in § 16.24 of this part.
+
+(c) If oral testimony is sought by a demand in any case or matter in which the United States is not a party, an affidavit, or, if that is not feasible, a statement by the party seeking the testimony or by his attorney, setting forth a summary of the testimony sought and its relevance to the proceeding, must be furnished to the responsible U.S. Attorney. Any authorization for testimony by a present or former employee of the Department shall be limited to the scope of the demand as summarized in such statement.
+
+(d) When information other than oral testimony is sought by a demand, the responsible U.S. Attorney shall request a summary of the information sought and its relevance to the proceeding.

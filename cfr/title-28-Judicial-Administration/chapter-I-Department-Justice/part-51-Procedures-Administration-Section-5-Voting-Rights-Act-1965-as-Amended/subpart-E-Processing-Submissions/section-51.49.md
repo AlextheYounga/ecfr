@@ -1,0 +1,3 @@
+##### § 51.49 Absence of judicial review. #####
+
+The decision of the Attorney General not to object to a submitted change or to withdraw an objection is not reviewable. The preclearance by the Attorney General of a voting change does not constitute the certification that the voting change satisfies any other requirement of the law beyond that of section 5, and, as stated in section 5, “(n)either an affirmative indication by the Attorney General that no objection will be made, nor the Attorney General's failure to object, nor a declaratory judgment entered under this section shall bar a subsequent action to enjoin enforcement of such qualification, prerequisite, standard, practice, or procedure.”

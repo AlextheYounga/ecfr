@@ -1,0 +1,5 @@
+##### § 31.501 Eligible applicants. #####
+
+(a) *Eligible applicants.* Eligible applicants in FY 1998, FY 1999, and each subsequent fiscal year as funds are made available, are States whose Governor (or other Chief Executive Officer for the eligible jurisdictions that are not one of the 50 States but defined as such for purposes of this program) certifies, consistent with guidelines established by the Attorney General in consultation with Congress and incorporated into OJJDP's Program Guidance Manual, that the State is actively considering (or already has in place), or will consider within one year from the date of such certification, legislation, policies, or practices which, if enacted, would qualify the State for a grant. Specific information regarding qualifications can be found in the JAIBG Program Guidance Manual.
+
+(b) *Qualifications.* Each State Chief Executive Officer must designate a state agency to apply for, receive, and administer JAIBG funds.

@@ -1,0 +1,3 @@
+##### § 0.89 Authority to seize arms and munitions of war. #####
+
+The Director of the Federal Bureau of Investigation is authorized to exercise the authority conferred upon the Attorney General by section 1 of E.O. 10863 of February 18, 1960 (25 FR 1507), relating to the seizure of arms and munitions of war, and other articles, pursuant to section 1 of title VI of the act of June 15, 1917, 40 Stat. 223, as amended by section 1 of the Act of August 13, 1953, 67 Stat. 577 (22 U.S.C. 401).

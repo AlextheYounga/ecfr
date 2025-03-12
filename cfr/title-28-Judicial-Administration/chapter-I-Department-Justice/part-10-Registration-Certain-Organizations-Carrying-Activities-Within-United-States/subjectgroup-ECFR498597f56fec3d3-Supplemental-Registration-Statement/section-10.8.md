@@ -1,0 +1,3 @@
+##### § 10.8 Information to be kept current. #####
+
+A supplemental statement must be filed with the Attorney General within thirty days after the expiration of each period of six months succeeding the original filing of a registration statement. Each supplemental statement must contain information and documents as may be necessary to make information and documents previously filed accurate and current with respect to the preceding six months' period.

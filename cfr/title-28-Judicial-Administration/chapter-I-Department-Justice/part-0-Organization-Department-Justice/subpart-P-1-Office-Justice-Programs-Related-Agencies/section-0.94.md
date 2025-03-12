@@ -1,0 +1,3 @@
+##### § 0.94 Office of Juvenile Justice and Delinquency Prevention. #####
+
+The Office of Juvenile Justice and Delinquency Prevention is headed by an Administrator appointed by the President. Under the general authority of the Attorney General and reporting through the Assistant Attorney General, Office of Justice Programs, the Administrator performs functions and administers programs, including provision of financial assistance, under 42 U.S.C. 5601 *et seq.,* relating to juvenile delinquency, the improvement of juvenile justice systems and missing children.

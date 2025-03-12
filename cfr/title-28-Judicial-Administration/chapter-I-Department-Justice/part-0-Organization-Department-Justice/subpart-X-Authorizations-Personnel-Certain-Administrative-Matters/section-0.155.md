@@ -1,0 +1,5 @@
+##### § 0.155 Waiver of claims for erroneous payments of pay and allowances. #####
+
+The Director of the Federal Bureau of Investigation, the Director of the Bureau of Prisons, the Commissioner of Federal Prison Industries, the Commissioner of Immigration and Naturalization, the Administrator of the Drug Enforcement Administration, the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Director of the Office of Justice Assistance, Research and Statistics, as to their respective jurisdictions, and the Assistant Attorney General for Administration as to all other organizational units of the Department (including U.S. Attorneys and Marshals) are authorized to exercise the authority under 5 U.S.C. 5584 for the waiver of claims of the United States for erroneous payments of pay and allowances to employees of the Department of Justice.
+
+[Order No. 514-73, 38 FR 12110, May 17, 1973, as amended by Order No. 520-73, 38 FR 18380, July 10, 1973; Order No. 960-81, 46 FR 52351, Oct. 27, 1981; Order No. 2650-2003, 68 FR 4928, Jan. 31, 2003; Order No. 2735-2004, 69 FR 57640, Sept. 27, 2004]

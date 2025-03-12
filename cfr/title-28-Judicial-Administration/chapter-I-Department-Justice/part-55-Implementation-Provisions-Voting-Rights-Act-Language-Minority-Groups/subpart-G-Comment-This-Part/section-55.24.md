@@ -1,0 +1,3 @@
+##### § 55.24 Procedure. #####
+
+These guidelines may be modified from time to time on the basis of experience under the Act and comments received from interested parties. The Attorney General therefore invites public comments and suggestions on these guidelines. Any party who wishes to make such suggestions or comments may do so by sending them to: Assistant Attorney General, Civil Rights Division, Department of Justice, Washington, DC 20530.

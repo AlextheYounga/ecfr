@@ -1,0 +1,3 @@
+##### § 71.54 Collection and compromise of liabilities imposed by Agency. #####
+
+The Assistant Attorney General of the Civil Division is authorized to initiate actions to collect assessments and civil penalties imposed under the Program Fraud Civil Remedies Act of 1986, and, subsequent to the filing of a petition for judicial review pursuant to section 3805 of the Act, to defend such actions and/or to approve settlements and compromises of such liability.

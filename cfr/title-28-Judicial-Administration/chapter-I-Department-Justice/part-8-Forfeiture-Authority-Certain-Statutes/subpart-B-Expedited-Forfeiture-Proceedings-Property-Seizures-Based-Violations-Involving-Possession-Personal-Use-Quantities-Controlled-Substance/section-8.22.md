@@ -1,0 +1,3 @@
+##### § 8.22 Special notice provision. #####
+
+At the time of seizure of property defined in § 8.18 for violations involving the possession of personal use quantities of a controlled substance, the seizing agency must provide written notice to the possessor of the property specifying the procedures for the filing of a petition for expedited release and for the posting of a substitute monetary bond as set forth in section 6079 of the Anti-Drug Abuse Act of 1988 and implementing regulations.

@@ -1,0 +1,5 @@
+##### § 0.64-3 Delegation respecting designation of certain Department of Agriculture employees (Tick Inspectors) to carry and use firearms. #####
+
+The Assistant Attorney General in charge of the Criminal Division is authorized to exercise all the power and authority vested in the Attorney General under section 2274 of title 7, U.S. Code, concerning the designation of certain Department of Agriculture employees (Tick Inspectors) to carry and use firearms. This delegation includes the power and authority to issue, with the Department of Agriculture, joint rules and regulations pertaining to the carrying and use of such firearms, which would, when promulgated, supersede the existing regulations pertaining to the carrying and use of firearms by Tick Inspectors, promulgated by the Attorney General and contained in Attorney General's Order No. 1059-84. The Assistant Attorney General in charge of the Criminal Division is authorized to redelegate all of this authority under section 2274 to his Deputy Assistant Attorneys General and appropriate Office Directors and Section Chiefs.
+
+[Order No. 1064-84, 49 FR 35934, Sept. 13, 1984]

@@ -1,0 +1,21 @@
+##### § 65.83 Assistance required by the Attorney General. #####
+
+The Attorney General may request assistance from a State or local government in the administration of the immigration laws of the United States or in meeting urgent demands where the need for assistance arises because of the presence of aliens in that State or local jurisdiction, and may provide funding to a State or local government relating to such assistance from the Immigration Emergency Fund or other funding available for such purposes, without a Presidential determination of an immigration emergency, in any of the following circumstances:
+
+(a) An INS district director certifies to the Commissioner of INS, who shall, in turn, certify to the Attorney General, that the number of asylum applications filed in that INS district during the relevant calendar quarter exceeds by at least 1,000 the number of such applications filed in that district during the preceding calendar quarter. For purposes of this paragraph, providing parole at a point of entry in a district shall be deemed to constitute an application for asylum in the district.
+
+(b) The Attorney General determines that there exist circumstances involving the administration of the immigration laws of the United States that endanger the lives, property, safety, or welfare of the residents of a State or locality.
+
+(c) The Attorney General determines that there exist any other circumstances, as defined in § 65.81 of this subpart, such that it is appropriate to seek assistance from a State or local government in administering the immigration laws of the United States or in meeting urgent demands arising from the presence of aliens in a State or local jurisdiction.
+
+(d)(1) If, in making a determination pursuant to paragraph (b) or (c) of this section, the Attorney General also determines that the situation involves an actual or imminent mass influx of aliens arriving off the coast or near a land border of the United States and presents urgent circumstances requiring an immediate Federal response, the Attorney General will formally declare that a mass influx of aliens is imminent or occurring. The determination that a mass influx of aliens is imminent or occurring will be based on the factors set forth in the definitions contained in § 65.81 of this subpart. The Attorney General will determine and define the time period that encompasses a mass influx of aliens by declaring when such an event begins and when it ends. The Attorney General will initially define the geographic boundaries where the mass influx of aliens is imminent or occurring.
+
+(2) Based on evolving developments in the scope of the event, the Commissioner of the INS may, as necessary, amend and redefine the geographic area defined by the Attorney General to expand or decrease the boundaries. This authority shall not be further delegated.
+
+(3) The Attorney General, pursuant to section 103(a)(8) of the INA, 8 U.S.C. 1103(a)(8), may authorize any State or local law enforcement officer to perform or exercise any of the powers, privileges, or duties conferred or imposed by the Act, or regulations issued thereunder, upon officers or employees of the Service. Such authorization must be with the consent of the head of the department, agency, or establishment under whose jurisdiction the officer is serving.
+
+(4) Authorization for State or local law enforcement officers to exercise Federal immigration law enforcement authority for transporting or guarding aliens in custody may be exercised as necessary beyond the defined geographic boundaries where the mass influx of aliens is imminent or occurring. Otherwise, Federal immigration law enforcement authority to be exercised by State or local law enforcement officers will be authorized only within the defined geographic boundaries where the mass influx of aliens is imminent or occurring.
+
+(5) State or local law enforcement officers will be authorized to exercise Federal immigration law enforcement authority only during the time period prescribed by the Attorney General in conjunction with the initiation and termination of a declared mass influx of aliens.
+
+[Order No. 1892-94, 59 FR 30522, June 14, 1994, as amended by Order No. 2601-2002, 67 FR 48360, July 24, 2002]

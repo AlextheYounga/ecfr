@@ -1,0 +1,25 @@
+##### § 68.55 Referral of cases arising under sections 274A or 274C to the Attorney General for review. #####
+
+(a) *Referral of cases by direction of the Attorney General.* Within thirty (30) days of the entry of a final order by the Chief Administrative Hearing Officer modifying or vacating an Administrative Law Judge's final order, or within sixty (60) days of the entry of an Administrative Law Judge's final order, if the Chief Administrative Hearing Officer does not modify or vacate the Administrative Law Judge's final order, the Chief Administrative Hearing Officer shall promptly refer to the Attorney General for review any final order in cases arising under section 274A or 274C of the INA if the Attorney General so directs the Chief Administrative Hearing Officer. When a final order is referred to the Attorney General in accordance with this paragraph, the Chief Administrative Hearing Officer shall give the Administrative Law Judge and all parties a copy of the referral.
+
+(b) *Request by Commissioner of Immigration and Naturalization for review by the Attorney General.* The Chief Administrative Hearing Officer shall promptly refer to the Attorney General for review any final order in cases arising under sections 274A or 274C of the INA at the request of the Commissioner of Immigration and Naturalization within thirty (30) days of the entry of a final order modifying or vacating the Administrative Law Judge's final order or within sixty (60) days of the entry of an Administrative Law Judge's final order, if the Chief Administrative Hearing Officer does not modify or vacate the Administrative Law Judge's final order.
+
+(1) The Immigration and Naturalization Service must first seek review of an Administrative Law Judge's final order by the Chief Administrative Hearing Officer, in accordance with § 68.54 before the Commissioner of Immigration and Naturalization may request that an Administrative Law Judge's final order be referred to the Attorney General for review.
+
+(2) To request referral of a final order to the Attorney General, the Commissioner of Immigration and Naturalization must submit a written request to the Chief Administrative Hearing Officer and transmit copies of the request to all other parties to the case and to the Administrative Law Judge at the time the request is made. The written statement shall contain a succinct statement of the reasons the case should be reviewed by the Attorney General and the grounds for appeal.
+
+(3) The Attorney General, in the exercise of the Attorney General's discretion, may accept the Commissioner's request for referral of the case for review by issuing a written notice of acceptance within sixty (60) days of the date of the request. Copies of such written notice shall be transmitted to all parties in the case and to the Chief Administrative Hearing Officer.
+
+(c) *Review by the Attorney General.* When a final order of an Administrative Law Judge or the Chief Administrative Hearing Officer is referred to the Attorney General pursuant to paragraph (a) of this section, or a referral is accepted in accordance with paragraph (b)(3) of this section, the Attorney General shall review the final order pursuant to section 274A(e)(7) or 274C(d)(4) of the INA and 5 U.S.C. 557. No specific time limit is established for the Attorney General's review.
+
+(1) All parties shall be given the opportunity to submit briefs or other written statements pursuant to a schedule established by the Chief Administrative Hearing Officer or the Attorney General.
+
+(2) The Attorney General shall enter an order that adopts, modifies, vacates, or remands the final order under review. The Attorney General's order shall be stated in writing and shall be transmitted to all parties in the case and to the Chief Administrative Hearing Officer.
+
+(3) If the Attorney General remands the case for further administrative proceedings, the Chief Administrative Hearing Officer or the Administrative Law Judge shall conduct further proceedings consistent with the Attorney General's order. Any subsequent final order of the Administrative Law Judge or the Chief Administrative Hearing Officer shall be subject to administrative review in accordance with § 68.54 and this section.
+
+(d) *Final agency order.* (1) The Attorney General's order pursuant to paragraph (c) of this section (other than a remand as provided in paragraph (c)(3)) shall become the final agency order on the date of the Attorney General's order.
+
+(2) If the Attorney General declines the Commissioner's request for referral of a case pursuant to paragraph (b) of this section, or does not issue a written notice of acceptance within sixty (60) days of the date of the Commissioner's request, then the final order of the Administrative Law Judge or the Chief Administrative Hearing Officer that was the subject of a referral pursuant to paragraph (b) shall become the final agency order on the day after that sixty (60) day period has expired.
+
+[Order No. 2203-99, 64 FR 7082, Feb. 12, 1999]

@@ -1,0 +1,7 @@
+##### § 523.2 Good time credit for violators. #####
+
+(a) An inmate conditionally released from imprisonment either by parole or mandatory release can earn statutory good time, upon being returned to custody for violation of supervised release, based on the number of days remaining to be served on the sentence. The rate of statutory good time for the violator term is computed at the rate of the total sentence from which released.
+
+(b) An inmate whose special parole term is revoked can earn statutory good time based on the number of days remaining to be served on the special parole violator term. The rate of statutory good time for the violator term is computed at the rate of the initial special parole term plus the total sentence that was served prior to the special parole term and to which the special parole term was attached.
+
+(c) Once an inmate is conditionally released from imprisonment, either by parole, including special parole, or mandatory release, the good time earned (extra or statutory) during that period of imprisonment is of no further effect either to shorten the period of supervision or to shorten the period of imprisonment which the inmate may be required to serve for violation of parole or mandatory release.

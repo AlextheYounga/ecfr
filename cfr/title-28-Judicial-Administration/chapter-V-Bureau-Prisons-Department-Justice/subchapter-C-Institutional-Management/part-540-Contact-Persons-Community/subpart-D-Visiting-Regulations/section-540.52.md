@@ -1,0 +1,3 @@
+##### § 540.52 Penalty for violation of visiting regulations. #####
+
+Any act or effort to violate the visiting guidelines of an institution may result in disciplinary action against the inmate, which may include the denial of future visits, possibly over an extended period of time. Moreover, criminal prosecution may be initiated against the visitor, the inmate, or both, in the case of criminal violations.

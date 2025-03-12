@@ -1,0 +1,7 @@
+##### § 0.176 Congressional proceedings. #####
+
+(a) A notice of an intention to request an order from a district court compelling testimony or the production of information in a congressional proceeding when submitted to the Attorney General by either House of Congress or a committee or a subcommittee of the Congress pursuant to 18 U.S.C. 6005 shall be referred to the Assistant Attorney General of the Division or the Administrator of the Administration having cognizance of the subject matter of the proceedings: *Provided, however,* That either the notice or a copy thereof shall in any event be referred to the Assistant Attorney General in charge of the Criminal Division.
+
+(b) The Assistant Attorneys General and Deputy Assistant Attorneys General designated in § 0.175 (a) and (b) are authorized to exercise the power and authority vested in the Attorney General by 18 U.S.C. 6005 to apply to a district court of the United States to defer the issuance of an order compelling the testimony of a witness or the production of information in a proceeding before either House of Congress, or any committee or subcommittee of either House, or any joint committee of the two Houses.
+
+[Order No. 445-70, 35 FR 19397, Dec. 23, 1970, as amended by Order No. 520-73, 38 FR 18381, July 10, 1973; Order No. 960-81, 46 FR 52353, Oct. 27, 1981; Order No. 1310-88, 54 FR 298, Jan. 5, 1989]

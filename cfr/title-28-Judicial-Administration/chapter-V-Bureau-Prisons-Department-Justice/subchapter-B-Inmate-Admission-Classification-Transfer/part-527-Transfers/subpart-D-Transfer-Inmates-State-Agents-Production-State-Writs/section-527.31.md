@@ -1,0 +1,19 @@
+##### § 527.31 Procedures. #####
+
+(a) These procedures apply to state and federal inmates serving sentences in federal institutions, and shall be followed prior to an inmate's transfer to state or local agents other than through the Interstate Agreement on Detainers.
+
+(b) The Warden shall authorize transfer only when satisfied that the inmate's appearance is necessary, that state and local arrangements are satisfactory, that the safety or other interests of the inmate (such as an imminent parole hearing) are not seriously jeopardized, and that federal interests, which include those of the public, will not be interfered with, or harmed. Authorization may not be given where substantial concern exists over any of these considerations.
+
+(c) The request for transfer of custody to state agents shall be made by the prosecutor or other authority who acts on behalf of the court and shall be directed to the Warden of the institution in which the inmate is confined. The request shall be made by letter. The request shall indicate the need for appearance of the inmate, name of the court, nature of the action, date of the requested appearance, name and phone number of the state agency or other organization with responsibility for transporting the inmate, the name and location where the inmate will be confined during legal proceedings, and anticipated date of return. For civil cases, the request shall also indicate the reason that production on writ is necessary and some other alternative is not available. The applying authority shall provide either at the time of application or with the agent assuming custody, a statement signed by an authorized official that state or local officials with custody will provide for the safekeeping, custody, and care of the inmate, will assume full responsibility for that custody, and will return the inmate to Bureau of Prisons' custody promptly on conclusion of the inmate's appearance in the state or local proceedings for which the writ is issued.
+
+(d) A certified copy of the writ (one with the Seal of the Court) must be received at the institution prior to release of the inmate. Institution staff shall verify the authenticity of the writ.
+
+(e) Institution staff shall maintain contact with the state or local law enforcement agency with responsibility for transfer of the inmate to determine the exact date and time for transfer of custody. If the inmate is awaiting federal trial or has federal civil proceedings pending, staff must clear the transfer through the U.S. Attorney.
+
+(f) Institution staff shall determine from the state or local agency the names of the agents assuming custody. Staff must carefully examine the credentials of the agents assuming custody. In any doubtful case, verification should be sought.
+
+(g) Transfers in civil cases pursuant to a writ of habeas corpus ad testificandum must be cleared through both the Regional Counsel and the Warden. Transfer ordinarily shall be recommended only if the case is substantial, where testimony cannot be obtained through alternative means such as depositions or interrogatories, and where security arrangements permit. Postponement of the production until after the inmate's release from federal custody will always be considered, particularly if release is within twelve months.
+
+(h) Release of inmates classified as Central Inmate Monitoring Cases requires review with and/or coordination by appropriate authorities in accordance with the provisions of 28 CFR part 524, subpart F.
+
+[46 FR 34549, July 1, 1981, as amended at 50 FR 40105, Oct. 1, 1985; 62 FR 13826, Mar. 24, 1997]

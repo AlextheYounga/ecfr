@@ -1,0 +1,3 @@
+##### § 40.2 Adoption of procedures. #####
+
+Each applicant seeking certification of its grievance procedure for purposes of the Act shall adopt a written grievance procedure. Inmates and employees shall be afforded an advisory role in the formulation and implementation of a grievance procedure adopted after the effective date of these regulations, and shall be afforded an advisory role in reviewing the compliance with the standards set forth herein of a grievance procedure adopted prior to the effective date of these regulations.

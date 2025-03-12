@@ -1,0 +1,11 @@
+##### § 513.40 Inmate access to Inmate Central File. #####
+
+Inmates are encouraged to use the simple access procedures described in this section to review disclosable records maintained in his or her Inmate Central File, rather than the FOIA procedures described in §§ 513.60 through 513.68 of this subpart. Disclosable records in the Inmate Central File include, but are not limited to, documents relating to the inmate's sentence, detainer, participation in Bureau programs such as the Inmate Financial Responsibility Program, classification data, parole information, mail, visits, property, conduct, work, release processing, and general correspondence. This information is available without filing a FOIA request. If any information is withheld from the inmate, staff will provide the inmate with a general description of that information and also will notify the inmate that he or she may file a FOIA request.
+
+(a) *Inmate review of his or her Inmate Central File.* An inmate may at any time request to review all disclosable portions of his or her Inmate Central File by submitting a request to a staff member designated by the Warden. Staff are to acknowledge the request and schedule the inmate, as promptly as is practical, for a review of the file at a time which will not disrupt institution operations.
+
+(b) *Procedures for inmate review of his or her Inmate Central File.* (1) Prior to the inmate's review of the file, staff are to remove the Privacy Folder which contains documents withheld from disclosure pursuant to § 513.32.
+
+(2) During the file review, the inmate is to be under direct and constant supervision by staff. The staff member monitoring the review shall enter the date of the inmate's file review on the Inmate Activity Record and initial the entry. Staff shall ask the inmate to initial the entry also, and if the inmate refuses to do so, shall enter a notation to that effect.
+
+(3) Staff shall advise the inmate if there are documents withheld from disclosure and, if so, shall advise the inmate of the inmate's right under the provisions of § 513.61 to make a FOIA request for the withheld documents.

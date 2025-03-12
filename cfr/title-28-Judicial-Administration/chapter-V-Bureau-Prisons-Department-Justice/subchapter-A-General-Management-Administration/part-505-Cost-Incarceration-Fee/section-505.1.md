@@ -1,0 +1,3 @@
+##### § 505.1 Purpose and scope. #####
+
+This part establishes procedures for the assessment and collection of a fee to cover the cost of incarceration. The Director of the Bureau of Prisons has been delegated the authority of the Attorney General (see 28 CFR 0.96c) to assess and collect a fee imposed by the Bureau in the event the court neither imposes nor waives a fine pursuant to the Sentencing Guidelines 5E1.2(d). For purposes of this part, revocation of parole or supervised release is to be treated as a separate period of incarceration for which a fee may be imposed.

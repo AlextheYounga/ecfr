@@ -1,0 +1,11 @@
+##### § 79.73 Appeals procedures. #####
+
+(a) An appeal must be in writing and must be received by the Radiation Exposure Compensation Program within 60 days of the date of the Decision denying the claim, unless a greater period has been permitted. Appeals must be sent to the following address: Radiation Exposure Compensation Program, Appeal of Decision, U.S. Department of Justice, P.O. Box 146, Ben Franklin Station, Washington, DC 20044-0146.
+
+(b) The claimant or eligible surviving beneficiary must set forth in the appeal the reason(s) why he or she believes that the Decision of the Assistant Director is incorrect.
+
+(c) Upon receipt of an appeal, the Radiation Exposure Compensation Program shall forward the appeal, the Decision, the claim, and all supporting documentation to the Appeals Officer for action on the appeal. If the appeal is not received within the 60-day period, or such greater period as may be permitted, the appeal may be denied without further review.
+
+(d) The Appeals Officer shall review any appeal and other information forwarded by the Program. Within 90 days after the receipt of an appeal, the Appeals Officer shall issue a Memorandum either affirming or reversing the Assistant Director's Decision or, when appropriate, remanding the claim to the Assistant Director for further action. The Memorandum shall include a statement of the reason(s) for such reversal, affirmance, or remand. The Memorandum and all papers relating to the claim shall be returned to the Radiation Exposure Compensation Program, which shall promptly inform the claimant or eligible surviving beneficiary of the action of the Appeals Officer. A Memorandum affirming or reversing the Assistant Director's Decision shall be deemed to be the final action of the Department of Justice on the claim.
+
+(e) Before seeking judicial review of a decision denying a claim under the Act, an individual must first seek review by the designated Appeals Officer. Once the appeals procedures are completed, an individual whose claim for compensation under the Act is affirmed on appeal may seek judicial review in a district court of the United States.

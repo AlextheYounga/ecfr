@@ -1,0 +1,3 @@
+##### § 32.27 Motion for reconsideration of negative disability finding. #####
+
+A claimant whose claim is denied in whole or in part on the ground that he has not shown that his claimed disability is total and permanent may move for reconsideration, under § 32.28, of the specific finding as to the total and permanent character of the claimed disability (in lieu of his requesting a Hearing Officer determination with respect to the same).

@@ -1,0 +1,11 @@
+##### § 540.50 Visits to inmates not in regular population status. #####
+
+(a) *Admission and holdover status.* The Warden may limit to the immediate family of the inmate visits during the admission-orientation period or for holdovers where there is neither a visiting list from a transferring institution nor other verification of proposed visitors.
+
+(b) *Hospital patients.* (1) When visitors request to see an inmate who is hospitalized in the institution, the Chief Medical Officer (or, in his absence, the Health Services Administrator), in consultation with the Captain, shall determine whether a visit may occur, and if so, whether it may be held in the hospital.
+
+(2) Visits to inmates hospitalized in the community may be restricted to only the immediate family and are subject to the general visiting policy of that hospital.
+
+(c) *Detention or segregation status.* Ordinarily, an inmate retains visiting privileges while in detention or segregation status. Visiting may be restricted or disallowed, however, when an inmate, while in detention or segregation status, is charged with, or has been found to have committed, a prohibited act having to do with visiting guidelines or has otherwise acted in a way that would reasonably indicate that he or she would be a threat to the orderliness or security of the visiting room. Loss of an inmate's visiting privileges for other reasons may not occur unless the inmate is provided a hearing before the Discipline Hearing Officer (DHO) in accordance with the provisions of § 541.17 of this chapter, following those provisions which are appropriate to the circumstances, which results in a finding by the DHO that the inmate committed a prohibited act and that there is a lack of other appropriate sanctions or that imposition of an appropriate sanction previously has been ineffective. The Unit Discipline Committee (UDC) may not impose a loss of visiting privileges for inmates in detention or segregation status. The provisions of this paragraph (c) do not interrupt or delay a loss of visiting sanction imposed by the UDC or DHO prior to the inmate's placement in detention or segregation status.
+
+[45 FR 44232, June 30, 1980, as amended at 51 FR 26128, July 18, 1986; 58 FR 39095, July 21, 1993]

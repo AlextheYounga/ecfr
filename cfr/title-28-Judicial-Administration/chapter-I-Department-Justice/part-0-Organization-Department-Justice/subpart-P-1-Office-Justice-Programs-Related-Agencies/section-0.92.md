@@ -1,0 +1,3 @@
+##### § 0.92 National Institute of Justice. #####
+
+The National Institute of Justice is headed by a Director appointed by the President. Under the general authority of the Attorney General and reporting through the Assistant Attorney General, Office of Justice Programs, the Director performs functions and administers programs, including provision of financial assistance, under 42 U.S.C. 3721-3723 to support basic and applied research into justice issues.

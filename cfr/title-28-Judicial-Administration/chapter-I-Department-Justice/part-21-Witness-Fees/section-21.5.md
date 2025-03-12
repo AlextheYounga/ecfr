@@ -1,0 +1,3 @@
+##### § 21.5 Use of table of distances. #####
+
+Mileage payable to witnesses under 28 U.S.C. 1821 shall be computed on the basis of odometer readings or the highway distances as stated in the Rand McNally Standard Highway Mileage Guide or in any generally accepted highway mileage guide which contains a shortline nationwide table of distances. However, with respect to travel in areas for which no such highway mileage guide exists, mileage payable under 28 U.S.C. 1821 shall be based on the lesser of either (a) the route of travel actually employed or (b) a usually traveled route.

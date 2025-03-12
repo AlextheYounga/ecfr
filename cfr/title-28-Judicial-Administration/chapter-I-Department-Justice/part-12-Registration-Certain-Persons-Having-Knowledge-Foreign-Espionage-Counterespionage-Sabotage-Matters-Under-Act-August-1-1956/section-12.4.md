@@ -1,0 +1,3 @@
+##### § 12.4 Inquiries concerning application of act. #####
+
+Inquiries concerning the application of the act must be accompanied by a detailed statement of all facts necessary for a determination of the question submitted, including the identity of the person on whose behalf the inquiry is made, the facts which may bring such person within the registration provisions of the act, and the identity of the foreign government or foreign political party concerned.

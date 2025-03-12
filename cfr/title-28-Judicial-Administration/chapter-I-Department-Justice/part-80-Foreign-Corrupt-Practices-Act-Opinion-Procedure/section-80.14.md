@@ -1,0 +1,7 @@
+##### § 80.14 Disclosure. #####
+
+(a) Any document or other material which is provided to, received by, or prepared in the Department of Justice or any other department or agency of the United States in connection with a request by an issuer or domestic concern under the foregoing procedure shall be exempt from disclosure under 5 U.S.C. 552 and shall not, except with the consent of the issuer or domestic concern, be made publicly available, regardless of whether the Attorney General responds to such a request or the issuer or domestic concern withdraws such request before receiving a response.
+
+(b) Nothing contained in paragraph (a) of this section shall limit the Department of Justice's right to issue, at its discretion, a release describing the identity of the requesting issuer or domestic concern, the identity of the foreign country in which the proposed conduct is to take place, the general nature and circumstances of the proposed conduct, and the action taken by the Department of Justice in response to the FCPA Opinion request. Such release shall not disclose either the identity of any foreign sales agents or other types of identifying information. The Department of Justice shall index such releases and place them in a file available to the public upon request.
+
+(c) A requestor may request that the release not disclose proprietary information.

@@ -1,0 +1,3 @@
+##### § 42.611 EEOC negotiated settlements and conciliation agreements. #####
+
+If the parties enter into a negotiated settlement (as described in 29 CFR 1601.20) prior to a determination or a conciliation agreement (as described in 29 CFR 1601.24) after a determination, EEOC shall notify the referring agency that the complaint has been settled. The agency shall take no further action on the complaint of employment discrimination thereafter except that the agency may take the existence of the complaint into account in scheduling the recipient for a review under the agency's regulations.

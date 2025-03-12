@@ -1,0 +1,13 @@
+##### § 73.1 Definition of terms. #####
+
+(a) The term *agent* means all individuals acting as representatives of, or on behalf of, a foreign government or official, who are subject to the direction or control of that foreign government or official, and who are not specifically excluded by the terms of the Act or the regulations thereunder.
+
+(b) The term *foreign government* includes any person or group of persons exercising sovereign de facto or de jure political jurisdiction over any country, other than the United States, or over any part of such country, and includes any subdivision of any such group or agency to which such sovereign de facto or de jure authority or functions are directly or indirectly delegated. Such term shall include any faction or body of insurgents within a country assuming to exercise governmental authority whether such faction or body of insurgents has or has not been regarded by the United States as a governing authority.
+
+(c) The term *prior notification* means the notification letter, telex, or facsimile must be received by the addressee named in § 73.3 prior to commencing the services contemplated by the parties.
+
+(d) When used in 18 U.S.C. 951(d)(1), the term *duly accredited* means that the sending State has notified the Department of State of the appointment and arrival of the diplomatic or consular officer involved, and the Department of State has not objected.
+
+(e) When used in 18 U.S.C. 951(d) (2) and/or (3), the term *officially and publicly acknowledged and sponsored* means that the person described therein has filed with the Secretary of State a fully-executed notification of status with a foreign government; or is a visitor, officially sponsored by a foreign government, whose status is known and whose visit is authorized by an agency of the United States Government; or is an official of a foreign government on a temporary visit to the United States, for the purpose of conducting official business internal to the affairs of that foreign government; or where an agent of a foreign government is acting pursuant to the requirements of a Treaty, Executive Agreement, Memorandum of Understanding, or other understanding to which the United States or an agency of the United States is a party and which instrument specifically establishes another mechanism for notification of visits by agents and the terms of such visits.
+
+(f) The term *legal commercial transaction,* for the purpose of 18 U.S.C. 951(d)(4), means any exchange, transfer, purchase or sale, of any commodity, service or property of any kind, including information or intellectual property, not prohibited by federal or state legislation or implementing regulations.

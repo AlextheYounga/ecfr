@@ -1,0 +1,9 @@
+##### § 68.42 In camera and protective orders. #####
+
+(a) *Privileged communications.* Upon application of any person, the Administrative Law Judge may limit discovery or introduction of evidence or enter such protective or other orders as in the Judge's judgment may be consistent with the objective of protecting privileged communications and of protecting data and other material the disclosure of which would unreasonably prejudice a party, witness, or third party.
+
+(b) *Classified or sensitive matter.* (1) Without limiting the discretion of the Administrative Law Judge to give effect to any other applicable privilege, it shall be proper for the Administrative Law Judge to limit discovery or introduction of evidence or to enter such protective or other orders as in the Judge's judgment may be consistent with the objective of preventing undue disclosure of classified or sensitive matter. When the Administrative Law Judge determines that information in documents containing sensitive matter should be made available the Judge may direct the producing party to prepare an unclassified or nonsensitive summary or extract of the original. The summary or extract may be admitted as evidence in the record.
+
+(2) If the Administrative Law Judge determines that this procedure is inadequate and that classified or otherwise sensitive matter must form part of the record in order to avoid prejudice to any party, the Judge may so advise the parties and provide an opportunity for arrangements to permit a party or a representative to have access to such matter. Such arrangements may include obtaining security clearances or giving counsel for a party access to sensitive information and documents subject to assurances against further disclosure.
+
+[Order No. 2203-99, 64 FR 7079, Feb. 12, 1999]

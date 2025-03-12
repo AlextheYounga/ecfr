@@ -1,0 +1,3 @@
+##### § 33.2 Statutory authority. #####
+
+The statutory authority for the regulations is the Omnibus Crime Control and Safe Streets Act of 1968, 42 U.S.C. 3701, *et. seq.,* as amended (Pub. L. 90-351, as amended by Pub. L. 93-83, Pub. L. 93-415, Pub. L. 94-430, Pub. L. 94-503, Pub. L. 95-115, Pub. L. 96-157, and Pub. L. 98-473) (hereinafter referred to as the Justice Assistance Act of 1984 or the Act).

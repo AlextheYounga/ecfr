@@ -1,0 +1,3 @@
+##### § 104.63 Subrogation. #####
+
+Compensation under this Fund does not constitute the recovery of tort damages against a third party nor the settlement of a third party action, and the United States shall be subrogated to all potential claims against third party tortfeasors of any victim receiving compensation from the Fund. For that reason, no person or entity having paid other benefits or compensation to or on behalf of a victim shall have any right of recovery, whether through subrogation or otherwise, against the compensation paid by the Fund.

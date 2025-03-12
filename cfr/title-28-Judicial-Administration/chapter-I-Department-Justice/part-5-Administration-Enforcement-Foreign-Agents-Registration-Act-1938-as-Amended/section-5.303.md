@@ -1,0 +1,3 @@
+##### § 5.303 Exemption available to persons accredited to international organizations. #####
+
+Persons designated by foreign governments as their representatives in or to an international organization, other than nationals of the United States, are exempt from registration under the Act in accordance with the provisions of the International Organizations Immunities Act, if they have been duly notified to and accepted by the Secretary of State as such representatives, officers, or employees, and if they engage exclusively in activities which are recognized as being within the scope of their official functions.

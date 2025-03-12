@@ -1,0 +1,3 @@
+##### § 104.34 Publication of awards. #####
+
+The Special Master reserves the right to publicize the amounts of some or all of the awards, but shall not publish the name of the claimants or victims that received each award. If published, these decisions would be intended by the Special Master as general guides for potential claimants and should not be viewed as precedent binding on the Special Master or her staff.

@@ -1,0 +1,3 @@
+##### § 345.53 Piecework rates. #####
+
+Piecework rates are incentives for workers to strive for higher pay and production benefiting both the worker and FPI. Piecework rates may be of two major types: individual piecework (in which an individual's pay goes up or down depending upon his/her own output) or Group Wage Fund (in which all members of a group strive for higher rates or production output as a unit, and all share in a pool of funds distributed among work group members equally).

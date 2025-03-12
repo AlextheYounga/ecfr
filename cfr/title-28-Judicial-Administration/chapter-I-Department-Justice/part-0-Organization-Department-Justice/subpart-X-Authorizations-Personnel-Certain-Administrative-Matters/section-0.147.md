@@ -1,0 +1,5 @@
+##### § 0.147 Certification of obligations. #####
+
+The following designated officials are authorized to make the certifications required by 31 U.S.C. 200(c): For the Federal Bureau of Investigation, the Assistant Director, Administrative Services Division; for the Bureau of Prisons, the Assistant Director for Planning and Development; for Federal Prison Industries, Inc., the Secretary; for the Immigration and Naturalization Service, the Comptroller; for the Drug Enforcement Administration, the Director of the Office of Administration and Management; for the Bureau of Alcohol, Tobacco, Firearms, and Explosives, the Assistant Director, Management; for the Office of Justice Assistance, Research and Statistics, the Comptroller; and for all other organizational units of the Department (including U.S. Attorneys and U.S. Marshals), the Deputy Assistant Attorney General, Office of the Controller, Justice Management Division.
+
+[Order No. 972-82, 47 FR 9823, Mar. 8, 1982, as amended by Order No. 2650-2003, 68 FR 4928, Jan. 31, 2003]

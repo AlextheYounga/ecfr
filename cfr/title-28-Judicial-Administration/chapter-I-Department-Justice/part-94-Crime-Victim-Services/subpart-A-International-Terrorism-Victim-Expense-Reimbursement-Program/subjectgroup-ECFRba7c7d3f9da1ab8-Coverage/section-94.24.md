@@ -1,0 +1,3 @@
+##### § 94.24 Determination of award. #####
+
+After review of each application, the Director shall determine the eligibility of the victim or representative and the amount, if any, eligible for reimbursement, specifying the reasons for such determination and the findings of fact and conclusions of law supporting it. A copy of the determination shall be mailed to the claimant at his last known address.

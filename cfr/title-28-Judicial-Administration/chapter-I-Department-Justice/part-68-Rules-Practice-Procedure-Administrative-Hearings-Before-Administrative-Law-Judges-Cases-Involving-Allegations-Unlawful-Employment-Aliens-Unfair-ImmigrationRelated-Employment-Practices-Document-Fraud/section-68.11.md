@@ -1,0 +1,9 @@
+##### § 68.11 Motions and requests. #####
+
+(a) *Generally.* The Chief Administrative Hearing Officer is authorized to act on non-adjudicatory matters relating to a proceeding prior to the appointment of an Administrative Law Judge. After the complaint is referred to an Administrative Law Judge, any application for an order or any other request shall be made by motion which shall be made in writing unless the Administrative Law Judge in the course of an oral hearing consents to accept such motion orally. The motion or request shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Motions or requests made during the course of any oral hearing or appearance before an Administrative Law Judge shall be stated orally and made part of the transcript. Whether a motion is made orally or in writing, all parties shall be given reasonable opportunity to respond or to object to the motion or request.
+
+(b) *Responses to motions.* Within ten (10) days after a written motion is served, or within such other period as the Administrative Law Judge may fix, any party to the proceeding may file a response in support of, or in opposition to, the motion, accompanied by such affidavits or other evidence upon which he/she desires to rely. Unless the Administrative Law Judge provides otherwise, no reply to a response, counter-response to a reply, or any further responsive document shall be filed.
+
+(c) *Oral arguments or briefs.* No oral argument will be heard on motions unless the Administrative Law Judge otherwise directs. Written memoranda or briefs may be filed with motions or answers to motions, stating the points and authorities relied upon in support of the position taken.
+
+[54 FR 48596, Nov. 24, 1989. Redesignated by Order No. 1534-91, 56 FR 50053, Oct. 3, 1991]

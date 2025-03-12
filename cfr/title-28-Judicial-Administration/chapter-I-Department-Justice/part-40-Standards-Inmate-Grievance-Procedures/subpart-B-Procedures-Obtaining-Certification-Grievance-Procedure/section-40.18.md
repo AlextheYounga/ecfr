@@ -1,0 +1,13 @@
+##### § 40.18 Suspension of certification. #####
+
+(a) *Reasonable belief of non-compliance.* If the Attorney General has reasonable grounds to believe that a previously certified grievance procedure may no longer be in substantial compliance with the minimum standards or may no longer be fair and effective, the Attorney General shall suspend certification. The suspension shall continue until such time as the deficiency is corrected, in which case certification shall be reinstated, or until the Attorney General determines that substantial compliance no longer exists or that the procedure is no longer fair and effective, in which case, except as provided in paragraph (b) of this section, the Attorney General shall withdraw certification pursuant to § 40.19 of this part.
+
+(b) *Defect may be readily remedied; good faith effort.* If the Attorney General determines that a grievance procedure is no longer in substantial compliance with the minimum standards or is no longer fair and effective, but has reason to believe that the defect may be readily corrected and that good faith efforts are underway to correct it, the Attorney General may suspend certification until the grievance procedure returns to compliance with the minimum standards or is otherwise fair and effective.
+
+(c) *Recertification after suspension pursuant to paragraph (a) of this section.* The Attorney General shall reinstate the certification of an applicant whose certification was suspended pursuant to paragraph (a) of this section upon a demonstration in writing by the applicant that the specific deficiency on which the suspension was based has been corrected or that the information that caused the Attorney General to suspend certification was erroneous.
+
+(d) *Recertification after suspension pursuant to paragraph (b) of this section.* The Attorney General shall reinstate the certification of an applicant whose certification has been suspended pursuant to paragraph (b) of this section upon a demonstration in writing that the deficiency on which the suspension was based has been corrected.
+
+(e) *Notification in writing of suspension or reinstatement.* The Attorney General shall notify an applicant in writing that certification has been suspended or reinstated and state the reasons for the action.
+
+[Order No. 957-81, 46 FR 48186, Oct. 1, 1981, as amended by Order No. 1955-95, 60 FR 13903, Mar. 15, 1995]

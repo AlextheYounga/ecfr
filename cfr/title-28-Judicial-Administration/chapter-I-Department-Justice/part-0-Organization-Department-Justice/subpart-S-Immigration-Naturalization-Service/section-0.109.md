@@ -1,0 +1,3 @@
+##### § 0.109 Implementation of the Treaty of Friendship and General Relations Between the United States and Spain. #####
+
+The Commissioner of Immigration and Naturalization and immigration officers (as defined in 8 CFR 103.1(i)) are hereby designated as “competent national authorities” on the part of the United States within the meaning of Article XXIV of the Treaty of Friendship and General Relations Between the United States and Spain (33 Stat. 2105, 2117), and shall fulfill the obligations assumed by the United States pursuant to that Article in the manner and form prescribed.

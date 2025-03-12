@@ -1,0 +1,3 @@
+##### § 13.2 Policy. #####
+
+This program is intended to reward the provision of original information regarding situations involving an illegal diversion, an attempted illegal diversion, or a conspiracy to divert special nuclear material or atomic weapons. The broad scope of this program is to help guard against the loss or diversion of such material and to prevent any use or disposition thereof inimical to the common defense and security.

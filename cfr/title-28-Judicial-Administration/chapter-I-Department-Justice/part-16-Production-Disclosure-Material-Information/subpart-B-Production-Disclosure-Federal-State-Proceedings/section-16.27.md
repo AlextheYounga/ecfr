@@ -1,0 +1,3 @@
+##### § 16.27 Procedure in the event a department decision concerning a demand is not made prior to the time a response to the demand is required. #####
+
+If response to a demand is required before the instructions from the appropriate Department official are received, the responsible official or other Department attorney designated for the purpose shall appear and furnish the court or other authority with a copy of the regulations contained in this subpart and inform the court or other authority that the demand has been or is being, as the case may be, referred for the prompt consideration of the appropriate Department official and shall respectfully request the court or authority to stay the demand pending receipt of the requested instructions.

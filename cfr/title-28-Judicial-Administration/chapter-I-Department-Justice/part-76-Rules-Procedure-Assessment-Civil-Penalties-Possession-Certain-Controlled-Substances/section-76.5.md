@@ -1,0 +1,5 @@
+##### § 76.5 Complaint. #####
+
+(a) If the respondent requests an adjudicatory proceeding, the United States Attorney, within fifteen (15) days after receipt of the request, shall file a complaint against the respondent with a Judge who has been assigned to hear and decide the case and shall serve a copy of the complaint on the respondent as provided in 28 CFR 76.6(b).
+
+(b) The complaint shall contain a concise statement of factual allegations informing the respondent of the act or conduct alleged to be in violation of law, the approximate date, place and location of the alleged violation including the federal district, the statutory provisions alleged to have been violated, the amount of penalty for which the respondent could be held liable, and the amount of the proposed penalty. It shall also indicate the date upon which the Notice of Intent to Assess Civil Penalty was served and shall be accompanied by a copy of that notice.

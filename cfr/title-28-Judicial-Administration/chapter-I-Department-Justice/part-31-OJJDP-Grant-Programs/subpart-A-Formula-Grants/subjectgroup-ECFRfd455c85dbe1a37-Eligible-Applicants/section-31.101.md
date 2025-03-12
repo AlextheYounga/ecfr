@@ -1,0 +1,3 @@
+##### § 31.101 Designation of State agency. #####
+
+The Chief Executive of each State which chooses to apply for a formula grant shall establish or designate a State agency as the sole agency for supervising the preparation and administration of the plan. The plan must demonstrate compliance with administrative and supervisory board membership requirements established by the OJJDP Administrator pursuant to section 299 (c) of the JJDP Act. States must have available for review a copy of the State law or executive order establishing the State agency and its authority.

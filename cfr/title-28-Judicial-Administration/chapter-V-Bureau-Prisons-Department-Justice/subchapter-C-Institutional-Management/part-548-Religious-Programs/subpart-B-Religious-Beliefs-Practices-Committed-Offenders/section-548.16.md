@@ -1,0 +1,9 @@
+##### § 548.16 Inmate religious property. #####
+
+(a) Inmate religious property includes but is not limited to rosaries and prayer beads, oils, prayer rugs, phylacteries, medicine pouches, and religious medallions. Such items, which become part of an inmate's personal property, are subject to normal considerations of safety and security. If necessary, their religious significance shall be verified by the chaplain prior to the Warden's approval.
+
+(b) An inmate ordinarily shall be allowed to wear or use personal religious items during religious services, ceremonies, and meetings in the chapel, unless the Warden determines that the wearing or use of such items would threaten institution security, safety, or good order. Upon request of the inmate, the Warden may allow the wearing or use of certain religious items throughout the institution, consistent with considerations of security, safety, or good order. The Warden may request the chaplain to obtain direction from representatives of the inmate's faith group or other appropriate sources concerning the religious significance of the items.
+
+(c) An inmate who wishes to have religious books, magazines or periodicals must comply with the general rules of the institution regarding ordering, purchasing, retaining, and accumulating personal property. Religious literature is permitted in accordance with the procedures governing incoming publications. Distribution to inmates of religious literature purchased by or donated to the Bureau of Prisons is contingent upon the chaplain's granting his or her approval.
+
+[60 FR 46486, Sept. 6, 1995, as amended at 62 FR 44836, Aug. 22, 1997]

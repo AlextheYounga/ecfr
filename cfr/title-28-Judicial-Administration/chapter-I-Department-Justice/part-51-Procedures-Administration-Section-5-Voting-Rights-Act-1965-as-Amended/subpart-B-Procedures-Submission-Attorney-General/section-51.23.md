@@ -1,0 +1,9 @@
+##### § 51.23 Party and jurisdiction responsible for making submissions. #####
+
+(a) Changes affecting voting shall be submitted by the chief legal officer or other appropriate official of the submitting authority or by any other authorized person on behalf of the submitting authority. A State, whether partially or fully covered, has authority to submit any voting change on behalf of its covered jurisdictions and political subunits. Where a State is covered as a whole, State legislation or other changes undertaken or required by the State shall be submitted by the State (except that legislation of local applicability may be submitted by political subunits). Where a State is partially covered, changes of statewide application may be submitted by the State. Submissions from the State, rather than from the individual covered jurisdictions, would serve the State's interest in at least two important respects: first, the State is better able to explain to the Attorney General the purpose and effect of voting changes it enacts than are the individual covered jurisdictions; second, a single submission of the voting change on behalf of all of the covered jurisdictions would reduce the possibility that some State acts will be legally enforceable in some parts of the State but not in others.
+
+(b) A change effected by a political party (*see* § 51.7) may be submitted by an appropriate official of the political party.
+
+(c) A change affecting voting that results from a State court order should be submitted by the jurisdiction or entity that is to implement or administer the change (in the manner specified by paragraphs (a) and (b) of this section).
+
+[Order No. 3262-2011, 76 FR 21245, Apr. 15, 2011]

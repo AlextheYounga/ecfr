@@ -1,0 +1,3 @@
+##### § 79.40 Scope of subpart. #####
+
+The regulations in this subpart define the eligibility criteria for compensation under section 5 of the Act pertaining to miners, *i.e.,* uranium mine workers, and the nature of the evidence that will be accepted as proof of the various eligibility criteria. Section 5 of the Act provides for a payment of $100,000 to miners who contracted primary lung cancer or one of a limited number of nonmalignant respiratory diseases following exposure to a defined minimum level of radiation during employment in aboveground or underground uranium mines or following employment for at least one year in aboveground or underground uranium mines in specified states during the period beginning January 1, 1942, and ending December 31, 1971.

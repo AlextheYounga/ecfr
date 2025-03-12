@@ -1,0 +1,3 @@
+##### § 42.415 Federal agency title VI enforcement plan. #####
+
+Each federal agency subject to title VI shall develop a written plan for enforcement which sets out its priorities and procedures. This plan shall be available to the public and shall address matters such as the method for selecting recipients for compliance reviews, the establishment of timetables and controls for such reviews, the procedure for handling complaints, the allocation of its staff to different compliance functions, the development of guidelines, the determination as to when guidelines are not appropriate, and the provision of civil rights training for its staff.

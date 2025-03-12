@@ -1,0 +1,37 @@
+##### § 50.6 Antitrust Division business review procedure. #####
+
+Although the Department of Justice is not authorized to give advisory opinions to private parties, for several decades the Antitrust Division has been willing in certain circumstances to review proposed business conduct and state its enforcement intentions. This originated with a “railroad release” procedure under which the Division would forego the initiation of criminal antitrust proceedings. The procedure was subsequently expanded to encompass a “merger clearance” procedure under which the Division would state its present enforcement intention with respect to a merger or acquisition; and the Department issued a written statement entitled “Business Review Procedure.” That statement has been revised several times.
+
+1. A request for a business review letter must be submitted in writing to the Assistant Attorney General, Antitrust Division, Department of Justice, Washington, DC 20530.
+
+2. The Division will consider only requests with respect to proposed business conduct, which may involve either domestic or foreign commerce.
+
+3. The Division may, in its discretion, refuse to consider a request.
+
+4. A business review letter shall have no application to any party which does not join in the request therefor.
+
+5. The requesting parties are under an affirmative obligation to make full and true disclosure with respect to the business conduct for which review is requested. Each request must be accompanied by all relevant data including background information, complete copies of all operative documents and detailed statements of all collateral oral understandings, if any. All parties requesting the review letter must provide the Division with whatever additional information or documents the Division may thereafter request in order to review the matter. Such additional information, if furnished orally, shall be promptly confirmed in writing. In connection with any request for review the Division will also conduct whatever independent investigation it believes is appropriate.
+
+6. No oral clearance, release or other statement purporting to bind the enforcement discretion of the Division may be given. The requesting party may rely upon only a written business review letter signed by the Assistant Attorney General in charge of the Antitrust Division or his delegate.
+
+7. (a) If the business conduct for which review is requested is subject to approval by a regulatory agency, a review request may be considered before agency approval has been obtained only where it appears that exceptional and unnecessary burdens might otherwise be imposed on the party or parties requesting review, or where the agency specifically requests that a party or parties request review. However, any business review letter issued in these as in any other circumstances will state only the Department's present enforcement intentions under the antitrust laws. It shall in no way be taken to indicate the Department's views on the legal or factual issues that may be raised before the regulatory agency, or in an appeal from the regulatory agency's decision. In particular, the issuance of such a letter is not to be represented to mean that the Division believes that there are no anticompetitive consequences warranting agency consideration.
+
+(b) The submission of a request for a business review, or its pendency, shall in no way alter any responsibility of any party to comply with the Premerger Notification provisions of the Antitrust Improvements Act of 1976, 15 U.S.C. 18A, and the regulations promulgated thereunder, 16 CFR, part 801.
+
+8. After review of a request submitted hereunder the Division may: state its present enforcement intention with respect to the proposed business conduct; decline to pass on the request; or take such other position or action as it considers appropriate.
+
+9. A business review letter states only the enforcement intention of the Division as of the date of the letter, and the Division remains completely free to bring whatever action or proceeding it subsequently comes to believe is required by the public interest. As to a stated present intention not to bring an action, however, the Division has never exercised its right to bring a criminal action where there has been full and true disclosure at the time of presenting the request.
+
+10. (a) Simultaneously upon notifying the requesting party of and Division action described in paragraph 8, the business review request, and the Division's letter in response shall be indexed and placed in a file available to the public upon request.
+
+(b) On that date or within thirty days after the date upon which the Division takes any action as described in paragraph 8, the information supplied to support the business review request and any other information supplied by the requesting party in connection with the transaction that is the subject of the business review request, shall be indexed and placed in a file with the request and the Division's letter, available to the public upon request. This file shall remain open for one year, after which time it shall be closed and the documents either returned to the requesting party or otherwise disposed of, at the discretion of the Antitrust Division.
+
+(c) Prior to the time the information described in subparagraphs (a) and (b) is indexed and made publicly available in accordance with the terms of that subparagraph, the requesting party may ask the Division to delay making public some or all of such information. However the requesting party must: (1) Specify precisely the documents or parts thereof that he asks not be made public; (2) state the minimum period of time during which nondisclosure is considered necessary; and (3) justify the request for non-disclosure, both as to content and time, by showing good cause therefor, including a showing that disclosure would have a detrimental effect upon the requesting party's operations or relationships with actual or potential customers, employees, suppliers (including suppliers of credit), stockholders, or competitors. The Department of Justice, in its discretion, shall make the final determination as to whether good cause for non-disclosure has been shown.
+
+(d) Nothing contained in subparagraphs (a), (b) and (c) shall limit the Division's right, in its discretion, to issue a press release describing generally the identity of the requesting party or parties and the nature of action taken by the Division upon the request.
+
+(e) This paragraph reflects a policy determination by the Justice Department and is subject to any limitations on public disclosure arising from statutory restrictions, Executive Order, or the national interest.
+
+11. Any requesting party may withdraw a request for review at any time. The Division remains free, however, to submit such comments to such requesting party as it deems appropriate. Failure to take action after receipt of documents or information whether submitted pursuant to this procedure or otherwise, does not in any way limit or stop the Division from taking such action at such time thereafter as it deems appropriate. The Division reserves the right to retain documents submitted to it under this procedure or otherwise and to use them for all governmental purposes.
+
+[42 FR 11831, Mar. 1, 1977]

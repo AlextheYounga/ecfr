@@ -1,0 +1,3 @@
+##### § 80.1 Purpose. #####
+
+These procedures enable issuers and domestic concerns to obtain an opinion of the Attorney General as to whether certain specified, prospective—not hypothetical—conduct conforms with the Department's present enforcement policy regarding the antibribery provisions of the Foreign Corrupt Practices Act of 1977, as amended, 15 U.S.C. 78dd-1 and 78dd-2. An opinion issued pursuant to these procedures is a Foreign Corrupt Practices Act opinion (hereinafter FCPA Opinion).

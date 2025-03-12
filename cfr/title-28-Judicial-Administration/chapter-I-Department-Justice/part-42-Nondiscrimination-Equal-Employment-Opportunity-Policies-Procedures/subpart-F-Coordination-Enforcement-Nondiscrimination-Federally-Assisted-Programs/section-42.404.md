@@ -1,0 +1,5 @@
+##### § 42.404 Guidelines. #####
+
+(a) Federal agencies shall publish title VI guidelines for each type of program to which they extend financial assistance, where such guidelines would be appropriate to provide detailed information on the requirements of title VI. Such guidelines shall be published within three months of the effective date of this subpart or of the effective date of any subsequent statute authorizing federal financial assistance to a new type of program. The guidelines shall describe the nature of title VI coverage, methods of enforcement, examples of prohibited practices in the context of the particular type of program, required or suggested remedial action, and the nature of requirements relating to covered employment, data collection, complaints and public information.
+
+(b) Where a federal agency determines that title VI guidelines are not appropriate for any type of program to which it provides financial assistance, the reasons for the determination shall be stated in writing and made available to the public upon request.

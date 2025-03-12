@@ -1,0 +1,3 @@
+##### § 40.9 Reprisals. #####
+
+The grievance procedure shall prohibit reprisals. “Reprisal” means any action or threat of action against anyone for the good faith use of or good faith participation in the grievance procedure. The written procedure shall include assurance that good faith use of or good faith participation in the grievance mechanism will not result in formal or informal reprisal. An inmate shall be entitled to pursue through the grievance procedure a complaint that a reprisal occurred.

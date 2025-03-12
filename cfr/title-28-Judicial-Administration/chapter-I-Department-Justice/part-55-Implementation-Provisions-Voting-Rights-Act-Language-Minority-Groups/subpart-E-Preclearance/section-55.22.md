@@ -1,0 +1,3 @@
+##### § 55.22 Requirements of section 5 of the Act. #####
+
+For many jurisdictions, changes in voting laws and practices will be necessary in order to comply with section 4(f)(4) or section 203(c). If a jurisdiction is subject to the preclearance requirements of section 5 (see § 55.8(b)), such changes must either be submitted to the Attorney General or be made the subject of a declaratory judgment action in the U.S. District Court for the District of Columbia. Procedures for the administration of section 5 are set forth in part 51 of this chapter.

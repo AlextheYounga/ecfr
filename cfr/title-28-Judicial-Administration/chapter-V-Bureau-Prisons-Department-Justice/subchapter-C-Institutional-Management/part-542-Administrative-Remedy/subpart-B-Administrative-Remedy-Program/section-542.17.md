@@ -1,0 +1,7 @@
+##### § 542.17 Resubmission. #####
+
+(a) *Rejections.* The Coordinator at any level (CCM, institution, region, Central Office) may reject and return to the inmate without response a Request or an Appeal that is written by an inmate in a manner that is obscene or abusive, or does not meet any other requirement of this part.
+
+(b) *Notice.* When a submission is rejected, the inmate shall be provided a written notice, signed by the Administrative Remedy Coordinator, explaining the reason for rejection. If the defect on which the rejection is based is correctable, the notice shall inform the inmate of a reasonable time extension within which to correct the defect and resubmit the Request or Appeal.
+
+(c) *Appeal of rejections.* When a Request or Appeal is rejected and the inmate is not given an opportunity to correct the defect and resubmit, the inmate may appeal the rejection, including a rejection on the basis of an exception as described in § 542.14(d), to the next appeal level. The Coordinator at that level may affirm the rejection, may direct that the submission be accepted at the lower level (either upon the inmate's resubmission or direct return to that lower level), or may accept the submission for filing. The inmate shall be informed of the decision by delivery of either a receipt or rejection notice.

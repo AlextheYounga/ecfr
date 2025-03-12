@@ -1,0 +1,19 @@
+##### § 543.32 Processing the claim. #####
+
+(a) *Will I receive an acknowledgment letter?* Yes. If you have provided all necessary information to process your claim (such as time, date, and place where the incident occurred, and a specific sum of money you are requesting as damages), you will receive an acknowledgment letter indicating the filing date and a claim number. The filing date is the date your claim was first received by either the Department of Justice or an office of the Bureau of Prisons. You should refer to your claim number in all further correspondences with the agency. Additionally, you must inform the agency of any changes in your address. If you fail to provide all necessary information, your claim will be rejected and returned to you requesting supplemental information.
+
+(b) *Will I be notified if my claim is transferred?* Yes. If your claim is improperly filed, you will be notified by the responsible office that your claim was transferred to another regional office, the Central Office, a training center, or another agency.
+
+(c) *Will an investigation be conducted?* Yes. The regional office ordinarily refers the claim to the appropriate institution or office for investigation. You may also be required to provide additional information during the investigation. Your failure to respond within a reasonable time may result in the rejection or denial of the claim.
+
+(d) *Who will decide my administrative claim?* The Regional Counsel or his or her designee reviews the investigation and the supporting evidence and renders a decision of all claims properly filed in the regional office and within regional settlement authority. The Regional Counsel has limited settlement authority (up to an amount established by the Director, Bureau of Prisons). After considering the merits of the claim, the Regional Counsel may deny or propose a settlement of the claim. The General Counsel will investigate and propose settlement for all claims properly filed in the Central Office in accordance with delegated settlement authority. If the proposed settlement exceeds the General Counsel's authority, the General Counsel will seek approval from the appropriate Department of Justice officers.
+
+(e) *Will my claim be reviewed by or referred to the Central Office?* If the Regional Counsel recommends a proposed settlement in excess of the settlement authority, the claim will be forwarded, with a recommendation, to the Office of General Counsel, Central Office for their review.
+
+(f) *Will appreciation or depreciation be considered?* Yes. Staff will consider appreciation or depreciation of lost or damaged property in settling a claim.
+
+(g) *If my claim is denied or I am dissatisfied with a settlement offer, what are my options?* If your claim is denied or you are dissatisfied with a settlement offer, you may request, in writing, that the Bureau of Prisons reconsider your claim in the administrative stage. You should include additional evidence of injury or loss to support your request for reconsideration. If you are dissatisfied with the final agency action, you may file suit in an appropriate U.S. District Court as no further administrative action is available.
+
+(h) *What if I accept a settlement of my claim?* If you accept a settlement, you give up your right to bring a lawsuit against the United States or against any employee of the government whose action or lack of action gave rise to your claim.
+
+(i) *How long will it take to get a response?* Generally, you will receive a decision regarding your claim within six months of when you properly file the claim. If you have not received a letter either proposing a settlement or denying your claim within six months after the date your claim was filed, you may assume your claim is denied. You may proceed to file a lawsuit in the appropriate U.S. District Court.

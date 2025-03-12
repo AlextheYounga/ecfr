@@ -1,0 +1,3 @@
+##### § 0.32 Applicability of existing departmental regulations. #####
+
+Departmental regulations which are generally applicable to units or personnel of the Department of Justice shall be applicable with respect to the Community Relations Service and to the Director and personnel thereof, except to the extent, if any, that such regulations may be inconsistent with the intent and purposes of section 1003(b) of the Civil Rights Act of 1964.

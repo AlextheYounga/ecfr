@@ -1,0 +1,3 @@
+##### § 35.106 Notice. #####
+
+A public entity shall make available to applicants, participants, beneficiaries, and other interested persons information regarding the provisions of this part and its applicability to the services, programs, or activities of the public entity, and make such information available to them in such manner as the head of the entity finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this part.

@@ -1,0 +1,5 @@
+##### § 540.204 Telephone communication limitations. #####
+
+(a) *Monitored telephone communication* may be limited to immediate family members only. The frequency and duration of telephone communication may also be limited to three connected calls per calendar month, lasting no longer than 15 minutes. The Warden may require such communication to be in English, or translated by an approved interpreter.
+
+(b) *Unmonitored telephone communication* is limited to privileged communication with the inmate's attorney. Unmonitored privileged telephone communication with the inmate's attorney is permitted as necessary in furtherance of active litigation, after establishing that communication with the verified attorney by confidential correspondence or visiting, or monitored telephone use, is not adequate due to an urgent or impending deadline.

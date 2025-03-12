@@ -1,0 +1,3 @@
+##### § 35.178 State immunity. #####
+
+A State shall not be immune under the eleventh amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State.

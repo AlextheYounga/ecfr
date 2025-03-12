@@ -1,0 +1,3 @@
+##### § 16.208 Annual report. #####
+
+The Commission shall report annually to Congress regarding its compliance with Sunshine Act requirements, including a tabulation of the total number of meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the Commission under this section, including any costs assessed against the Commission in such litigation and whether or not paid.

@@ -1,0 +1,3 @@
+##### § 545.10 Purpose and scope. #####
+
+The Bureau of Prisons encourages each sentenced inmate to meet his or her legitimate financial obligations. As part of the initial classification process, staff will assist the inmate in developing a financial plan for meeting those obligations, and at subsequent program reviews, staff shall consider the inmate's efforts to fulfill those obligations as indicative of that individual's acceptance and demonstrated level of responsibility. The provisions of this rule apply to all inmates in federal facilities, except: Study and observation cases, pretrial detainees, and inmates in holdover status pending designation.

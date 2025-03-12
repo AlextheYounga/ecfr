@@ -1,0 +1,3 @@
+##### § 79.10 Scope of subpart. #####
+
+The regulations in this subpart describe the criteria for eligibility for compensation under section 4(a)(1) of the Act and the evidence that will be accepted as proof of the various eligibility criteria. Section 4(a)(1) of the Act provides for a payment of $50,000 to individuals exposed to fallout from the detonation of atmospheric nuclear devices at the Nevada Test Site due to their physical presence in an affected area during a designated time period and who later developed leukemia, and $75,000 to individuals who participated onsite in a test involving the atmospheric detonation of a nuclear device and who later developed leukemia.

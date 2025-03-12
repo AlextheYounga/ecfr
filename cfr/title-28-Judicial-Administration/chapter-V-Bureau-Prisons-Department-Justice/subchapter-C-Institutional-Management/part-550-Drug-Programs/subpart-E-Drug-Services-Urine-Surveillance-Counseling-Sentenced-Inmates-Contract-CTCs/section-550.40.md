@@ -1,0 +1,3 @@
+##### § 550.40 Purpose and scope. #####
+
+The Bureau of Prisons requires that an inmate who is serving a sentence in a contract community treatment center (CTC) participate in a program of urine testing for drug use. An inmate who is serving a sentence in a contract CTC, and who has drug aftercare as a condition of release also shall receive drug counseling during the inmate's stay at the contract CTC.

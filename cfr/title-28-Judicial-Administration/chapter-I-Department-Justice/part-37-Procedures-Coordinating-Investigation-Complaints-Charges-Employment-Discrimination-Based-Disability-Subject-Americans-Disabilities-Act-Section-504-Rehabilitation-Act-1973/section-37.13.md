@@ -1,0 +1,3 @@
+##### § 37.13 Agency specific memoranda of understanding. #####
+
+When a section 504 agency amends its regulations to make them consistent with title I of the ADA, the EEOC and the individual section 504 agency may elect to enter into a memorandum of understanding providing for the investigation and processing of complaints dual filed under both section 504 and title I of the ADA by the section 504 agency.

@@ -1,0 +1,3 @@
+##### § 61.3 Applicability. #####
+
+The procedures set forth in this part, with the exception of the appendices, apply to all organizational elements of the Department of Justice. Internal procedures applicable, respectively, to the Bureau of Prisons, the Drug Enforcement Administration, the Immigration and Naturalization Service, and the Office of Justice Assistance, Research and Statistics are set forth in the appendices to this part, for informational purposes.

@@ -1,0 +1,3 @@
+##### § 94.51 Request for reconsideration. #####
+
+A victim or representative may, within thirty (30) days after receipt of the determination under § 94.24, appeal the same to the Assistant Attorney General for the Office of Justice Programs, by submitting a written request for review. The Assistant Attorney General may conduct a review and make a determination based on the material submitted with the initial application, or may request additional documentation in order to conduct a more thorough review. In special circumstances, the Assistant Attorney General may determine that an oral hearing is warranted; in such cases, the hearing shall be held at a reasonable time and place.

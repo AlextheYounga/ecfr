@@ -1,0 +1,3 @@
+##### § 551.100 Purpose and scope. #####
+
+In addition to convicted inmates, the Bureau of Prisons houses persons who have not been convicted. Procedures and practices required for the care, custody, and control of such inmates may differ from those established for convicted inmates. Pretrial inmates will be separated, to the extent practicable, from convicted inmates. Except as specified by this rule, policies and standards applicable to persons committed to the custody of the Attorney General or the Bureau of Prisons apply also to pretrial inmates as defined in § 551.101.

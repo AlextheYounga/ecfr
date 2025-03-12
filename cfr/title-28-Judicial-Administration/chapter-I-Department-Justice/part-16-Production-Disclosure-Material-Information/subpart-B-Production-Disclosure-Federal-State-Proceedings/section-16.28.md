@@ -1,0 +1,3 @@
+##### § 16.28 Procedure in the event of an adverse ruling. #####
+
+If the court or other authority declines to stay the effect of the demand in response to a request made in accordance with § 16.27 of this chapter pending receipt of instructions, or if the court or other authority rules that the demand must be complied with irrespective of instructions rendered in accordance with §§ 16.24 and 16.25 of this part not to produce the material or disclose the information sought, the employee or former employee upon whom the demand has been made shall, if so directed by the responsible Department official, respectfully decline to comply with the demand. *See* United States ex rel. Touhy v. Ragen, 340 U.S. 462 (1951).

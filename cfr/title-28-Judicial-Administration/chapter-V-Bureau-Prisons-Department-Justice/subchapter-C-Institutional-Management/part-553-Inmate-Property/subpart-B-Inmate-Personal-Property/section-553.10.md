@@ -1,0 +1,5 @@
+##### § 553.10 Purpose and scope. #####
+
+It is the policy of the Bureau of Prisons that an inmate may possess ordinarily only that property which the inmate is authorized to retain upon admission to the institution, which is issued while the inmate is in custody, which the inmate purchases in the institution commissary, or which is approved by staff to be mailed to, or otherwise received by an inmate, that does not threaten the safety, security, or good order of the facility or protection of the public. These rules contribute to the management of inmate personal property in the institution, and contribute to a safe environment for staff and inmates by reducing fire hazards, security risks, and sanitation problems which relate to inmate personal property. Consistent with the mission of the institution, each Warden shall identify in writing that personal property which may be retained by an inmate in addition to that personal property which has been approved by the Director for retention at all institutions.
+
+[48 FR 19573, Apr. 29, 1983, as amended at 64 FR 36753, July 7, 1999; 80 FR 45885, Aug. 3, 2015]

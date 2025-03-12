@@ -1,0 +1,11 @@
+##### § 2.12 Initial hearings: Setting presumptive release dates. #####
+
+(a) An initial hearing shall be conducted within 120 days of a prisoner's arrival at a federal institution or as soon thereafter as practicable; except that in a case of a prisoner with a minimum term of parole ineligibility of ten years or more, the initial hearing will be conducted nine months prior to the completion of such a minimum term, or as soon thereafter as practicable.
+
+(b) Following initial hearing, the Commission shall (1) set a presumptive release date (either by parole or by mandatory release) within fifteen years of the hearing; (2) set an effective date of parole; or (3) continue the prisoner to a fifteen year reconsideration hearing pursuant to § 2.14(c).
+
+(c) Notwithstanding the above paragraph, a prisoner may not be paroled earlier than the completion of any judicially set minimum term of imprisonment or other period of parole ineligibility fixed by law.
+
+(d) A presumptive parole date shall be contingent upon an affirmative finding by the Commission that the prisoner has a continued record of good conduct and a suitable release plan and shall be subject to the provisions of §§ 2.14 and 2.28. In the case of a prisoner sentenced under the Narcotic Addict Rehabilitation Act, 18 U.S.C. 4254, a presumptive parole date shall also be contingent upon certification by the Surgeon General pursuant to § 2.3 of these rules. Consideration of disciplinary infractions in cases with presumptive parole dates may be deferred until the commencement of the next in-person hearing or the prerelease record review required by § 2.14(b). While prisoners are encouraged to earn the restoration of forfeited or withheld good time, the Commission will consider the prisoner's overall institutional record in determining whether the conditions of a presumptive parole date have been satisfied.
+
+[42 FR 39809, Aug. 5, 1977, as amended at 44 FR 3405, 3407, Jan. 16, 1979; 48 FR 22919, May 23, 1983; 49 FR 34208, Aug. 29, 1984; 57 FR 41391, Sept. 10, 1992; 60 FR 51350, Oct. 2, 1995]

@@ -1,0 +1,3 @@
+##### § 40.5 Applicability. #####
+
+The grievance procedure shall be applicable to a broad range of complaints and shall state specifically the types of complaints covered and excluded. At a minimum, the grievance procedure shall permit complaints by inmates regarding policies and conditions within the jurisdiction of the institution or the correctional agency that affect them personally, as well as actions by employees and inmates, and incidents occurring within the institution that affect them personally. The grievance procedure shall not be used as a disciplinary procedure.

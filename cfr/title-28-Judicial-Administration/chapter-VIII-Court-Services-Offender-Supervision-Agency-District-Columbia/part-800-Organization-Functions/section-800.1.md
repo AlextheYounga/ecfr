@@ -1,0 +1,3 @@
+##### § 800.1 Statutory authorization. #####
+
+The National Capital Revitalization and Self-Government Improvement Act of 1997 (“Revitalization Act”) established the Court Services and Offender Supervision Agency for the District of Columbia (“CSOSA”) within the federal government as an independent executive branch agency and placed the District of Columbia Pretrial Services Agency as an independent entity within CSOSA. In addition, the District of Columbia Public Defender Service, an independent District of Columbia agency, receives its appropriated federal funds through a transfer from CSOSA.

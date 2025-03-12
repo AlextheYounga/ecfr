@@ -1,0 +1,3 @@
+##### § 40.20 Contemplated change in certified procedure. #####
+
+A proposed change in a certified procedure must be submitted to the Attorney General thirty days in advance of its proposed effective date. The Attorney General shall review such proposed change and notify the applicant in writing before the effective date of the proposed change if such change will result in suspension or withdrawal of the certification of the grievance procedure.

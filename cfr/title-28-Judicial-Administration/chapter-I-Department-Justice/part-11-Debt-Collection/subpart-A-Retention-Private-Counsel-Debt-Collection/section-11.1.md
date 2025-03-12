@@ -1,0 +1,5 @@
+##### § 11.1 Delegation of authority. #####
+
+The Assistant Attorney General for Administration shall exercise the full authority of the Attorney General to develop and administer the Department of Justice program for debt collection by private counsel. This authority shall include, but is not limited to, the authority to set policies and procedures for the program, and to enter into contracts for the retention of private counsel. The Assistant Attorney General for Administration can in turn delegate authority regarding debt collection to subordinate officials as appropriate. Existing delegations of authority with respect to settlement determinations on disputed claims shall remain in force. See generally, 28 CFR 0.160 *et seq.*
+
+[Order No. 1201-87, 52 FR 24449, July 1, 1987, as amended by AG Order 3689-2016, 81 FR 43943, July 6, 2016]

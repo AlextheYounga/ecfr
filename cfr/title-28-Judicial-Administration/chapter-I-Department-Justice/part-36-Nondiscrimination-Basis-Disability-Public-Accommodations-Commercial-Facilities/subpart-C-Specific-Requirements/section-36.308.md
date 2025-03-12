@@ -1,0 +1,5 @@
+##### § 36.308 Seating in assembly areas. #####
+
+A public accommodation shall ensure that wheelchair spaces and companion seats are provided in each specialty seating area that provides spectators with distinct services or amenities that generally are not available to other spectators. If it is not readily achievable for a public accommodation to place wheelchair spaces and companion seats in each such specialty seating area, it shall provide those services or amenities to individuals with disabilities and their companions at other designated accessible locations at no additional cost. The number of wheelchair spaces and companion seats provided in specialty seating areas shall be included in, rather than in addition to, wheelchair space requirements set forth in table 221.2.1.1 in the 2010 Standards.
+
+[AG Order No. 3181-2010, 75 FR 56255, Sept. 15, 2010]

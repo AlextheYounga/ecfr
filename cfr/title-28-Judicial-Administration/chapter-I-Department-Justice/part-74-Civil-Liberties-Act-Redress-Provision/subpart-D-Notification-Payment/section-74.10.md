@@ -1,0 +1,7 @@
+##### § 74.10 Authorization for payment. #####
+
+(a) Upon determination by the Administrator of the eligibility of an individual, the authorization for payment of $20,000 to the eligible individual will be certified by the Assistant Attorney General of the Civil Rights Division to the Assistant Attorney General of the Justice Management Division, who will give final authorization to the Secretary of the Treasury for payment out of the funds appropriated for this purpose.
+
+(b) Authorization of payments made to survivors of eligible persons will be certified in the manner described in paragraph (a) of this section to the Secretary of the Treasury for payment to the individual member or members of the class of survivors entitled to receive payment under the procedures set forth in § 74.13. Payments to statutory heirs of a deceased eligible individual will be made only after all the statutory heirs of the deceased person have been identified and verified by the Office.
+
+(c) Any payment to an eligible person under a legal disability, may, in the discretion of the Assistant Attorney General for Civil Rights, be certified for payment for the use of the eligible person, to the natural or legal guardian, committee, conservator or curator, or, if there is no such natural or legal guardian, committee, conservator or curator, to any other person, including the spouse of such eligible person, who the Administrator determines is charged with the care of the eligible person.

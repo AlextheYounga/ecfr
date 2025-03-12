@@ -1,0 +1,5 @@
+##### § 0.67 Delegation respecting conveyances for public-airport purposes. #####
+
+The Assistant Attorney General in charge of the Environment and Natural Resources Division, and such members of his staff as he may specifically designate in writing, are authorized to exercise the power and authority vested in the Attorney General by section 23(b) of the Airport and Airway Development Act of 1970 (84 Stat. 219; 49 U.S.C. 1723) with respect to approving the performance of acts and execution of instruments necessary to make the conveyances requested in carrying out the purposes of that section, except those acts and instruments which, in the opinion of the Assistant Attorney General, involve questions of policy or for any other reason require the personal attention of the Attorney General.
+
+[Order No. 468-71, 36 FR 20428, Oct. 22, 1971]

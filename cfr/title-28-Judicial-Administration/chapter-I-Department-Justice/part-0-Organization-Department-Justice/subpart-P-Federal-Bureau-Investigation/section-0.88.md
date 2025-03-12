@@ -1,0 +1,3 @@
+##### § 0.88 Certificates for expenses of unforeseen emergencies. #####
+
+The Director of the Federal Bureau of Investigation is authorized to exercise the power and authority vested in the Attorney General by 28 U.S.C. 537, to make certificates with respect to expenses of unforeseen emergencies of a confidential character: *Provided,* That each such certificate made by the Director of the Federal Bureau of Investigation shall be approved by the Attorney General.

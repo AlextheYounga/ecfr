@@ -1,0 +1,7 @@
+##### § 345.41 Performance appraisal for inmate workers. #####
+
+Work supervisors should complete a performance appraisal form for each inmate semi-annually, by March 31 and September 30, or upon termination or transfer from the industrial work assignment. Copies shall be sent to the unit team. Inmate workers should discuss their appraisals with their supervisors at a mutually agreeable time in order to improve their performance. Satisfactory and unsatisfactory performance ratings shall be based on the standards in § 345.40(a).
+
+(a) The SOI is to ensure that evaluations are done and are submitted to unit teams in a timely manner.
+
+(b) The SOI or a designee may promote an inmate to a higher grade level if an opening exists when the inmate's skills, abilities, qualifications, and work performance are sufficiently developed to enable the inmate to carry out a more complex FPI factory assignment successfully, when the inmate has met the institution's time-in-grade (unless waived by the SOI), and when the inmate has abided by the inmate worker standards. Conversely, the SOI or SOI designee may demote an inmate worker for failing to abide by the inmate worker standards. Such demotions shall be fully documented.

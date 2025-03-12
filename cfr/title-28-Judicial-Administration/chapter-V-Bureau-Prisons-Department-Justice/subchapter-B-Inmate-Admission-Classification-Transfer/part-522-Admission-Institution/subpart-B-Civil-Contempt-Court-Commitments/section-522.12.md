@@ -1,0 +1,3 @@
+##### § 522.12 Relationship between existing criminal sentences imposed under the U.S. or D.C. Code and new civil contempt commitment orders. #####
+
+If a criminal sentence imposed under the U.S. Code or D.C. Code exists when a civil contempt commitment is ordered, we delay or suspend credit towards service of the criminal sentence for the duration of the civil contempt commitment, unless the committing judge orders otherwise.

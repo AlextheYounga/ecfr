@@ -1,0 +1,5 @@
+##### § 76.31 Standards of conduct. #####
+
+(a) All persons appearing in proceedings before a Judge are expected to act with integrity and in an ethical manner.
+
+(b) The Judge may exclude parties, witnesses, and their attorneys for refusal to comply with directions, continued use of dilatory tactics, refusal to adhere to reasonable standards of orderly and ethical conduct, failure to act in good faith, or violation of the prohibition against *ex parte* communications. The Judge shall state in the record the cause for suspending or barring an attorney from participation in a proceeding. Any attorney so suspended or barred may appeal to the Chief Administrative Hearing Officer for the District, or if there is no Chief Administrative Hearing Officer, to the Attorney General but no proceeding shall be delayed or suspended pending disposition of the appeal; provided, however, that the Judge shall suspend the proceeding for a reasonable time for the purpose of enabling the party to obtain another attorney.

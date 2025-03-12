@@ -1,0 +1,3 @@
+##### § 34.103 Definition. #####
+
+*Peer review* means the technical and programmatic evaluation by a group of experts (other than officers and employees of the Department of Justice) qualified by training and experience to give expert advice, based on selection criteria established under subpart A of this part, in a program announcement, or as established by the Administrator, on the technical and programmatic merit of assistance.

@@ -1,0 +1,3 @@
+##### § 513.60 Freedom of Information Act requests. #####
+
+Requests for any Bureau record (including Program Statements and Operations Memoranda) ordinarily shall be processed pursuant to the Freedom of Information Act, 5 U.S.C. 552. Such a request must be made in writing and addressed to the Director, Federal Bureau of Prisons, 320 First Street, NW., Washington, D.C. 20534. The requester shall clearly mark on the face of the letter and the envelope “FREEDOM OF INFORMATION REQUEST,” and shall clearly describe the records sought. See §§ 513.61 through 513.63 for additional requirements.

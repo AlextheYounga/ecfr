@@ -1,0 +1,3 @@
+##### § 10.5 Incorporation of papers previously filed. #####
+
+Papers and documents already filed with the Attorney General pursuant to the said act and regulations issued pursuant thereto may be incorporated by reference in any registration statement subsequently submitted to the Attorney General for filing, provided such papers and documents are adequately identified in the registration statement in which they are incorporated by reference.

@@ -1,0 +1,7 @@
+##### § 513.61 Freedom of Information Act requests by inmates. #####
+
+(a) Inmates are encouraged to use the simple access procedures described in § 513.40 to review disclosable records maintained in his or her Inmate Central File.
+
+(b) An inmate may make a request for access to documents in his or her Inmate Central File or Medical File (including documents which have been withheld from disclosure during the inmate's review of his or her Inmate Central File pursuant to § 513.40) and/or other documents concerning the inmate which are not contained in the Inmate Central File or Medical File. Staff shall process such a request pursuant to the applicable provisions of the Freedom of Information Act, 5 U.S.C. 552.
+
+(c) The inmate requester shall clearly mark on the face of the letter and on the envelope “FREEDOM OF INFORMATION ACT REQUEST”, and shall clearly describe the records sought, including the approximate dates covered by the record. An inmate making such a request must provide his or her full name, current address, date and place of birth. In addition, if the inmate requests documents to be sent to a third party, the inmate must provide with the request an example of his or her signature, which must be verified and dated within three (3) months of the date of the request.

@@ -1,0 +1,7 @@
+##### § 29.9 Motor vehicles for hire. #####
+
+(a) Any person who is in the business of renting or leasing motor vehicles and who rents or leases a motor vehicle on which a program decal or device is affixed shall notify the person to whom the motor vehicle is rented or leased about the program, prior to transferring possession of the vehicle.
+
+(b) The notice required by this section shall be printed in bold type in the rental or lease agreement, and on the envelope in which the rental agreement is placed. The notice provision in the rental or lease agreement must utilize a larger font than the standard type in the agreement. The notice must state that the motor vehicle may be stopped by law enforcement officials if it is operated under the conditions specified by the program in which the car is enrolled even if the officials have no other basis for believing that the vehicle is being operated unlawfully.
+
+(c) Failure to provide the notice required by this section to a renter or lessee may result in the assessment of a civil penalty by the Assistant Attorney General, Civil Division, or his or her designee, of an amount not to exceed $5,000. No penalty shall be assessed unless the person charged has been given notice and an opportunity for a hearing of such charge.

@@ -1,0 +1,3 @@
+##### § 74.6 Location of eligible persons. #####
+
+The Office shall compare the names and other identifying information of eligible individuals from the historical official records of the United States Government with current information from both official and unofficial sources in the information system to determine if such persons are living or deceased and, if living, the present location of these individuals.

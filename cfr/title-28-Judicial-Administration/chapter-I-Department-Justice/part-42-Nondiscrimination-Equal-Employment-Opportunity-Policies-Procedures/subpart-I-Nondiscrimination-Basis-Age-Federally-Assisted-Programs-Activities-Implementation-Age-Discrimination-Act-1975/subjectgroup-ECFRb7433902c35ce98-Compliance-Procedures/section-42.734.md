@@ -1,0 +1,3 @@
+##### § 42.734 Alternative funding. #####
+
+When assistance to a recipient is terminated or refused pursuant to § 42.733(b)(1)(i)(A), the Department may disburse the withheld funds directly to an alternate recipient serving the same area (i.e., a public or nonprofit private organization or agency or state or political subdivision of the state). Any such alternate recipient must demonstrate the ability to comply with the requirements of this subpart and to achieve the goals of the federal statute authorizing the assistance.

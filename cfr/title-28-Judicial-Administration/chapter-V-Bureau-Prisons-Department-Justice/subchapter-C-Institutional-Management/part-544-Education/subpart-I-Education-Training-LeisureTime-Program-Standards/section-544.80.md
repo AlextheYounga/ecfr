@@ -1,0 +1,3 @@
+##### § 544.80 Purpose and scope. #####
+
+In consideration of inmate education, occupation, and leisure-time needs, the Bureau of Prisons affords inmates the opportunity to improve their knowledge and skills through academic, occupation and leisure-time activities. All institutions, except satellite camps, detention centers and metropolitan correctional centers, shall operate a full range of activities as outlined in this rule.

@@ -1,0 +1,3 @@
+##### § 0.90 Office of Justice Programs. #####
+
+The Office of Justice Programs is headed by an Assistant Attorney General appointed by the President. Under the general authority of the Attorney General, the Assistant Attorney General maintains liaison with the provides information to Federal, State, local, and private agencies and organizations on criminal justice matters, and provides staff support to and coordinates the activities of the National Institute of Justice, the Bureau of Justice Statistics, the Office of Juvenile Justice and Delinquency Prevention, and the Bureau of Justice Assistance. The Office includes the Office for Victims of Crime.

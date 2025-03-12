@@ -1,0 +1,9 @@
+##### § 65.81 General definitions. #####
+
+As used in this part:
+
+*Assistance* means any actions taken by a State or local government directly relating to aiding the Attorney General in the administration of the immigration laws of the United States and in meeting urgent demands arising from the presence of aliens in the State or local government's jurisdiction, when such actions are taken to assist in meeting an immigration emergency or under any of the circumstances specified in section 404(b)(2)(A) of the INA. Assistance may include, but need not be limited to, the provision of large shelter facilities for the housing and screening of aliens, and, in connection with these activities, the provision of such basic necessities as food, water clothing, and health care.
+
+*Immigration emergency* means an actual or imminent influx of aliens which either is of such magnitude or exhibits such other characteristics that effective administration of the immigration laws of the United States is beyond the existing capabilities of the Immigration and Naturalization Service (“INS”) in the affected area or areas. Characteristics of an influx of aliens, other than magnitude, which may be considered in determining whether an immigration emergency exists include: the likelihood of continued growth in the magnitude of the influx; an apparent connection between the influx and increases in criminal activity; the actual or imminent imposition of unusual and overwhelming demands on law enforcement agencies; and other similar characteristics.
+
+*Other circumstances* means a situation that, as determined by the Attorney General, requires the resources of a State or local government to ensure the proper administration of the immigration laws of the United States or to meet urgent demands arising from the presence of aliens in a State or local government's jurisdiction.

@@ -1,0 +1,3 @@
+##### § 81.13 Submission of reports by the National Center for Missing and Exploited Children to designated agencies; designation of agencies. #####
+
+When the National Center for Missing and Exploited Children receives a report from a provider concerning an apparent violation of Federal child pornography statutes specified in 42 U.S.C. 13032(b)(1), it shall immediately forward that report, to the Federal Bureau of Investigation, the Bureau of Immigration and Customs Enforcement, the United States Postal Inspection Service, and the United States Secret Service, designated pursuant to 42 U.S.C. 13032(b)(2).

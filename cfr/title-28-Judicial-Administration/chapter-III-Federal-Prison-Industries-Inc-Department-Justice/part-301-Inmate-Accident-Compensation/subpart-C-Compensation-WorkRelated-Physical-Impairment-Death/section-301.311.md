@@ -1,0 +1,3 @@
+##### § 301.311 Expenses associated with appearance at committee hearing. #####
+
+Federal Prison Industries, Inc., may not assume responsibility for any expenses incurred by the claimant, claimant's representative, or any witness appearing on behalf of the claimant in connection with attendance at the hearing, as well as any other costs relating to any representative, witnesses, or evidence associated with a hearing before the Committee.

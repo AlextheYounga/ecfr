@@ -1,0 +1,7 @@
+##### § 802.25 Definitions. #####
+
+*Demand* means a request, order, or subpoena for testimony or documents to use in a legal proceeding.
+
+*Employee* includes a person employed in any capacity by CSOSA or PSA, currently or in the past; any person appointed by, or subject to the supervision, jurisdiction, or control of the head of the Agency, or any Agency official, currently or in the past. A person who is subject to the Agency's jurisdiction or control includes any person who hired as a contractor by the agency, any person performing services for the agency under an agreement, and any consultant, contractor, or subcontractor of such person. A former employee is also considered an employee only when the matter about which the person would testify is one in which he or she was personally involved while at the Agency, or where the matter concerns official information that the employee acquired while working at the Agency, such as sensitive or confidential agency information.
+
+*Legal Proceeding* includes any pretrial, trial, and post-trial state of any existing or reasonably anticipated judicial or administrative action, hearing, investigation, or similar proceeding before a court, commission, board, agency, or other tribunal, authority or entity, foreign or domestic. Legal proceeding also includes any deposition or other pretrial proceeding, including a formal or informal request for testimony made by an attorney or other person, or a request for documents gathered or drafted by an employee.

@@ -1,0 +1,15 @@
+##### § 553.15 Limitations on personal property—medical transfers. #####
+
+The Warden shall set a limit on the amount of personal property that may accompany an inmate transferring to a medical facility. For purpose of this rule, a medical facility is one which provides observation and/or treatment of a medical, surgical, or psychiatric nature, or any combination of these. Such medical transfers are ordinarily of a short-term duration (30-120 days).
+
+(a) The Wardens of the sending and receiving institutions shall allow the inmate to retain those legal materials specifically needed in respect to on-going litigation. Questions as to the need for such material may be referred to Regional Counsel.
+
+(b) The Warden of the sending institution shall designate a secure location for storage of all inmate personal property not accompanying the inmate.
+
+(c) Personal property permitted in the sending institution, but not in the receiving institution, shall either be retained at the sending institution or be mailed to a destination of the inmate's choice.
+
+(1) If the inmate is expected to return to the sending institution within 120 days of transfer, staff shall advise the inmate that property not allowed in the medical facility may be held at the sending institution or sent to a destination of the inmate's choice (other than the medical facility), at the inmate's expense. Where lack of space prevents retention of the inmate's property at the sending institution, that institution shall pay postage costs connected with mailing the inmate's property to a destination of the inmate's choice. Where lack of space prevents the retention of the inmate's property at the sending institution, and the inmate refuses to provide a mailing address for return of the property, the property is to be disposed of through approved methods, including destruction of the property.
+
+(2) The inmate's property may be sent with the inmate to the medical facility when the inmate is not expected to return to the sending institution, will be at the medical facility over 120 days, or for any other justified reason. The Warden at the sending institution shall prepare and place in the inmate's central file written documentation for forwarding the inmate's personal property.
+
+(d) The Warden of the medical facility shall return an inmate's personal property ordinarily in the same or equivalent size container as originally used by the sending institution. Property accumulated over that amount, at the option of the inmate, will either be sent to a destination selected by the inmate, at the inmate's expense, donated, or destroyed. If the inmate is financially able but refuses to pay for the mailing, or if the inmate refuses to provide a mailing address for forwarding of the property, the property is to be disposed of through approved methods, including destruction of the property.

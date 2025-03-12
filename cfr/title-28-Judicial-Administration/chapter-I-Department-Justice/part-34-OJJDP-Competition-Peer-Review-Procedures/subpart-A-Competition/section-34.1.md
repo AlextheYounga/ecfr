@@ -1,0 +1,5 @@
+##### § 34.1 Purpose and applicability. #####
+
+(a) This subpart of the regulation implements section 262(d)(1) (A) and (B) of the Juvenile Justice and Delinquency Prevention Act of 1974, as amended (42 U.S.C. 5601 *et seq.*). This provision requires that project applications, selected for categorical assistance awards under part C—National Programs shall be selected through a competitive process established by rule by the Administrator, OJJDP. The statute specifies that this process must include announcement in the Federal Register of the availability of funds for assistance programs, the general criteria applicable to the selection of applications for assistance, and a description of the procedures applicable to the submission and review of assistance applications.
+
+(b) This subpart of the regulation applies to all grant, cooperative agreement, and other assistance awards selected by the Administrator, OJJDP, or the Administrator's designee, under part C—National Programs, of the Juvenile Justice and Delinquency Prevention Act of 1974, as amended, except as provided in the exceptions to applicability set forth below.

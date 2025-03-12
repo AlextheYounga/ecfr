@@ -1,0 +1,7 @@
+##### § 68.48 Record of hearings. #####
+
+(a) *General.* A verbatim written record of all hearings shall be kept, except in cases where the proceedings are terminated in accordance with § 68.14. All evidence upon which the Administrative Law Judge relies for decision shall be contained in the transcript of testimony, either directly or by appropriate reference. All exhibits introduced as evidence shall be marked for identification and incorporated into the record. Transcripts may be obtained by the parties and the public from the official court reporter of record. Any fees in connection therewith shall be the responsibility of the parties.
+
+(b) *Corrections.* Corrections to the official transcript will be permitted upon motion. Motions for correction must be submitted within ten (10) days of the receipt of the transcript by the Administrative Law Judge or such other time as may be permitted by the Administrative Law Judge. Corrections of the official transcript will be permitted only when errors of substance are involved and only upon approval of the Administrative Law Judge.
+
+[54 FR 48596, Nov. 24, 1989. Redesignated by Order No. 1534-91, 56 FR 50053, Oct. 3, 1991, and amended by Order No. 1635-92, 57 FR 57672, Dec. 7, 1992]

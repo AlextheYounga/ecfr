@@ -1,0 +1,3 @@
+##### § 1.2 Eligibility for filing petition for pardon. #####
+
+No petition for pardon should be filed until the expiration of a waiting period of at least five years after the date of the release of the petitioner from confinement or, in case no prison sentence was imposed, until the expiration of a period of at least five years after the date of the conviction of the petitioner. Generally, no petition should be submitted by a person who is on probation, parole, or supervised release.

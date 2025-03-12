@@ -1,0 +1,3 @@
+##### § 104.35 Claims deemed abandoned by claimants. #####
+
+The Special Master and her staff will endeavor to evaluate promptly any information submitted by claimants. Nonetheless, it is the responsibility of the claimant to keep the Special Master informed of his or her current address and to respond within the duration of this program to requests for additional information. Claims outstanding because of a claimant's failure to complete his or her filings shall be deemed abandoned.

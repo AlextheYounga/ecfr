@@ -1,0 +1,7 @@
+##### § 24.305 Extensions of time. #####
+
+(a) The adjudicative officer may on motion and for good cause shown grant extensions of time other than for filing an application for fees and expenses after final disposition in the adversary adjudication.
+
+(b) Ordinarily, the determination of an award will be made on the basis of the written record of the underlying proceeding and the filings required or permitted by the foregoing sections of these rules. However, the adjudicative officer may *sua sponte* or on motion of any party to the proceedings require or permit further filings or other action, such as an informal conference, oral argument, additional written submissions, or an evidentiary hearing. Such further action shall occur only when necessary for full and fair resolution of the issues arising from the application and shall take place as promptly as possible. A motion for further filings or other action shall specifically identify the information sought on the disputed issues and shall explain why the further filings or other action is necessary to resolve the issues.
+
+(c) In the event that an evidentiary hearing is required or permitted by the adjudicative officer, such hearing and any related filings or other action required or permitted shall be conducted pursuant to the procedural rules governing adversary adjudications conducted by the Department component in which the underlying adversary adjudication was conducted.

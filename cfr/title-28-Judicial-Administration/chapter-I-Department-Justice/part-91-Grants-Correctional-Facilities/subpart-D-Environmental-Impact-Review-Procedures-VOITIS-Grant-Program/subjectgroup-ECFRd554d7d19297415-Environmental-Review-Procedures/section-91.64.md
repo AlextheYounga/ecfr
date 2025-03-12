@@ -1,0 +1,5 @@
+##### § 91.64 Supplemental EA or EIS. #####
+
+(a) *OJP's duty to supplement.* OJP shall prepare supplements to either completed environmental assessments or draft or final environmental impact statements if the grantee proposes to make substantial changes in the proposed action that are relevant to previously assessed environmental concerns; or there are significant new circumstances or information relevant to environmental concerns and bearing on the proposed action or its impacts. Additionally, OJP shall include the supplement in its formal administrative record.
+
+(b) *Grantee's duty to supplement.* A grantee has a duty to inform OJP if it plans to make substantial changes in the proposed action that are relevant to environmental concerns; or if it learns of significant new circumstances or information relevant to environmental concerns and bearing on the proposed action or its impacts.

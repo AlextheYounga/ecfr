@@ -1,0 +1,5 @@
+##### § 38.4 Policy. #####
+
+(a) *Grants (formula and discretionary), contracts, and cooperative agreements.* Faith-based or religious organizations are eligible, on the same basis as any other organization, to participate in any Department program for which they are otherwise eligible. Neither the Department nor any State or local government receiving funds under any Department program shall, in the selection of service providers, discriminate for or against an organization on the basis of the organization's religious character or affiliation, or lack thereof.
+
+(b) *Political or religious affiliation.* Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of religion, religious belief, or lack thereof.

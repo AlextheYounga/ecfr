@@ -1,0 +1,3 @@
+##### § 541.21 Special Housing Units (SHUs). #####
+
+Special Housing Units (SHUs) are housing units in Bureau institutions where inmates are securely separated from the general inmate population, and may be housed either alone or with other inmates. Special housing units help ensure the safety, security, and orderly operation of correctional facilities, and protect the public, by providing alternative housing assignments for inmates removed from the general population.

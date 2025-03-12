@@ -1,0 +1,3 @@
+##### § 25.51 Purpose and authority. #####
+
+The purpose of this subpart is to establish policies and procedures implementing the National Motor Vehicle Title Information System (NMVTIS) in accordance with title 49 U.S.C. 30502. The purpose of NMVTIS is to assist in efforts to prevent the introduction or reintroduction of stolen motor vehicles into interstate commerce, protect states and individual and commercial consumers from fraud, reduce the use of stolen vehicles for illicit purposes including fundraising for criminal enterprises, and provide consumer protection from unsafe vehicles.

@@ -1,0 +1,11 @@
+##### § 42.530 Procedures. #####
+
+(a) The procedural provisions applicable to title VI of the Civil Rights Act of 1964 (28 CFR 42.106-42.110) apply to this subpart except that the provision contained in §§ 42.110(e) and 42.108(c)(3) which requires the Attorney General's approval before the imposition of any sanction against a recipient does not apply to programs or activities funded by LEAA, NIJ, BJS, OJARS and OJJDP. The applicable provisions contain requirements for compliance information (§ 42.106), conduct of investigations (§ 42.107), procedure for effecting compliance (§ 42.108), hearings (§ 42.109), and decisions and notices (§ 42.110). (See appendix C.)
+
+(b) In the case of programs or activities funded by LEAA, NIJ, BJS, OJARS and OJJDP, the timetables and standards for investigation of complaints and for the conduct of compliance reviews contained in § 42.205(c)(1) through (c)(3) and § 42.206 (c) and (d) are applicable to this subpart except that any finding of noncompliance shall be enforced as provided in paragraph (a) of this section. (See appendix D.)
+
+(c) In the case of programs or activities funded by LEAA, NIJ, BJS, OJARS and OJJDP, the refusal to provide requested information under paragraph (a) of this section and § 42.106 will be enforced pursuant to the provisions of section 803(a) of title I of the Omnibus Crime Control and Safe Streets Act, as amended by the Justice System Improvement Act of 1979, Public Law 96-157, 93 Stat. 1167.
+
+(d) For acts of discrimination occurring prior to the effective date of this subpart, the 180-day limitation period for filing of complaints (§ 42.107 of this title) will apply from that date.
+
+(e) The Department will investigate complaints alleging discrimination in violation of section 504 occurring prior to the effective date of this subpart where the language of the statute or HEW's interagency guidelines (43 FR 2132, January 13, 1978) implementing Executive Order 11914 (41 FR 17871, April 28, 1976) provided notice that the challenged policy or practice was unlawful.

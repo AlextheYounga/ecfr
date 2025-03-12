@@ -1,0 +1,5 @@
+##### § 301.317 Medical treatment following release. #####
+
+Federal Prison lndustries, Inc., may not pay the cost of medical, hospital treatment, or any other related expense incurred after release from confinement unless such cost is authorized by the Claims Examiner in advance, or the Claims Examiner determines that circumstances warrant the waiver of this requirement. Generally, the payment of such costs is limited to impairment evaluations, or treatments intended to reduce the degree of physical impairment, conducted at the direction of the Claims Examiner. The amount of a payment for medical treatment is limited to reasonable expenses incurred, such as those amounts authorized under the applicable fee schedule established pursuant to 42 U.S.C. 1395w-4 for the Department of Health and Human Services Medicare program.
+
+[55 FR 9296, Mar. 12, 1990, as amended at 59 FR 2667, Jan. 18, 1994]

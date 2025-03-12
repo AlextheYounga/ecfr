@@ -1,0 +1,13 @@
+##### § 34.104 Use of peer review. #####
+
+(a) *Peer review for competitive and noncompetitive applications.* (1) For competitive applications, each program announcement will indicate the program specific peer review procedures and selection criteria to be followed in peer review for that program. In the case of competitive programs for which a large number of applications is expected, preapplications (concept papers) may be required. Preapplications will be reviewed by qualified OJJDP staff to eliminate those pre-applications which fail to meet minimum program requirements, as specified in a program announcement, or clearly lack sufficient merit to qualify as potential candidates for funding consideration. The Administrator may subject both pre-applications and formal applications to the peer review process.
+
+(2) For noncompetitive applications, the general selection criteria set forth under subpart A of this part may be supplemented by program specific selection criteria for the particular part C program. Applicants for noncompetitive continuation awards will be fully informed of any additional specific criteria in writing.
+
+(b) When formal applications are required in response to a program announcement, an initial review will be conducted by qualified OJJDP staff, in order to eliminate from peer review consideration applications which do not meet minimum program requirements. Such requirements will be specified in the program announcement. Applications determined to be qualified and eligible for further consideration will then be considered under the peer review process.
+
+(c) Ratings will be in the form of numerical scores assigned by individual peer reviewers as illustrated in the OJJDP “Peer Review Guideline.” The results of peer review under a competitive program will be a relative aggregate ranking of applications in the form of “Summary Ratings.” The results of peer review for a noncompetitive new or continuation project will be in the form of numerical scores based on criteria established by the Administrator.
+
+(d) Peer review recommendations, in conjunction with the results of internal review and any necessary supplementary review, will assist the Administrator's consideration of competitive, noncompetitive, applications and selection of applications for funding.
+
+(e) Peer review recommendations are advisory only and are binding on the Administrator only as provided by section 262(d)(B)(i) for noncompetitive assistance awards to programs determined through peer review not to be of such outstanding merit that an award without competition is justified. In such case, the determination of whether to issue a competitive program announcement will be subject to the exercise of the Administrator's discretion.

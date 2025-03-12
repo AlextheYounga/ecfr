@@ -1,0 +1,3 @@
+##### § 74.11 Effect of refusal to accept payment. #####
+
+If an eligible individual who has been notified by the Administrator of his or her eligibility refuses in writing within eighteen months of the notification to accept payment, the written record of refusal will be filed with the Office and the amount of payment as described in § 74.10 shall remain in the Fund and no payment may be made as described in § 74.12 to such individual or his or her survivors at any time after the date of receipt of the written refusal.

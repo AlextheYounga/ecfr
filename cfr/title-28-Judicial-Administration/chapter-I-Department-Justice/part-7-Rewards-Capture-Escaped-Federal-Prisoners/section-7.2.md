@@ -1,0 +1,3 @@
+##### § 7.2 Amount of reward. #####
+
+Within the discretion of the Warden or U.S. Marshal concerned, a reward not in excess of $200 may be granted for each capture of a prisoner and to more than one claimant, as determined applicable and appropriate. The Director of the Bureau of Prisons may in exceptional circumstances, as determined by him, grant rewards in excess of $200. Bodily harm, damage, violence, intimidation, terrorizing, risks, etc., will be considered in determining the appropriate amount of reward.

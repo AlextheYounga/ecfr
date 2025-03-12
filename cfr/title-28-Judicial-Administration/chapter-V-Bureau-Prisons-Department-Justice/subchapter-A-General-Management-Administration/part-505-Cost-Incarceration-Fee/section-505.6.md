@@ -1,0 +1,3 @@
+##### § 505.6 Procedures for payment. #####
+
+Fees imposed pursuant to this part are due and payable after notice of the Unit Team actions. When the inmate participates in the inmate financial responsibility program (see 28 CFR part 545, subpart B), fees are to be included under the category “other federal government obligations” and are to be paid before other financial obligations included in that same category. Fees may be subject to interest charges.

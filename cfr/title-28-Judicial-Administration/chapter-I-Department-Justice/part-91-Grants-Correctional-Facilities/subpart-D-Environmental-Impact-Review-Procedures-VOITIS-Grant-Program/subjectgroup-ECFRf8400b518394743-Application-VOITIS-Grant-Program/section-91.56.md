@@ -1,0 +1,5 @@
+##### § 91.56 Actions that normally require the preparation of an environmental assessment. #####
+
+(a) *Renovation or expansion of existing correctional facility.* Renovation or expansion activities not categorically excluded under § 91.55 require an environmental assessment (EA). An environmental assessment is generally prepared when a project is not expected to have a significant impact on the environment. Since projects for the renovation or expansion of an existing facility or the construction of a new facility within an existing correctional complex may have limited impact on the environment, preparing an EA may be sufficient.
+
+(b) *Proposed construction of a new correctional facility.* The proposed construction of a new correctional facility will require the preparation of an environmental assessment unless the proposal will clearly have a significant environmental impact in which case an environmental impact statement can be initiated immediately without the preparation of an environmental assessment.

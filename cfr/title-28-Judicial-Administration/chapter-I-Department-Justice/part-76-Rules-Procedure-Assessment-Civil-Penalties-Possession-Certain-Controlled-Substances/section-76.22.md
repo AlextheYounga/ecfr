@@ -1,0 +1,7 @@
+##### § 76.22 Exchange of witness lists, statements and exhibits. #####
+
+(a) At least twenty-one (21) days before the hearing or at such other time as may be ordered by the Judge, the parties shall exchange witness lists, copies of prior statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written statements that the respondent intends to offer in lieu of live testimony in accordance with 28 CFR 76.29. At the time these documents are exchanged, any party that intends to rely on the transcript of deposition testimony in lieu of live testimony at the hearing, if permitted by the Judge, shall provide each party with a copy of the specific pages of the transcript it intends to introduce into evidence.
+
+(b) If a party objects to admission, the Judge may not admit into evidence the testimony of any witness whose name does not appear on the witness list or any exhibit not provided to the opposing party as provided above unless the Judge finds good cause for the failure and that there is no prejudice to the objecting party.
+
+(c) Unless a party objects within the times set by the Judge, documents exchanged in accordance with paragraph (a) of this section shall be deemed to be authentic for the purpose of admissibility at the hearing.

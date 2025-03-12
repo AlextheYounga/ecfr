@@ -1,0 +1,3 @@
+##### § 61.4 Major federal action. #####
+
+The NEPA regulations define “major federal action.” “Major federal action” does not include action taken by the Department of Justice within the framework of judicial or administrative enforcement proceedings or civil or criminal litigation, including but not limited to the submission of consent or settlement agreements and investigations. Neither does “major federal action” include the rendering of legal advice.

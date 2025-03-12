@@ -1,0 +1,3 @@
+##### § 4.8 Hearing. #####
+
+The hearing on the application shall be held at the offices of the Commission in Washington, DC, or elsewhere as the Commission may direct. The hearing shall be held before the Commission, before one or more Commissioners, or before one or more administrative law judges appointed as provided by section 11 of the Administrative Procedure Act (5 U.S.C. 3105) as the Commission by order shall determine. Hearings shall be conducted in accordance with sections 7 and 8 of the Administrative Procedure Act (5 U.S.C. 556, 557).

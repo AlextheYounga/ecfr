@@ -1,0 +1,3 @@
+##### § 552.10 Purpose and scope. #####
+
+In order to further the safe, secure, and orderly running of its institutions, the Bureau of Prisons conducts searches of inmates and of inmate housing and work areas to locate contraband and to deter its introduction and movement. Staff shall employ the least intrusive method of search practicable, as indicated by the type of contraband and the method of suspected introduction.

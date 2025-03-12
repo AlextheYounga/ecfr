@@ -1,0 +1,3 @@
+##### § 10.3 Effect of acceptance of registration statement. #####
+
+Acceptance by the Attorney General of a registration statement submitted for filing shall not necessarily signify a full compliance with the said act on the part of the registrant, and such acceptance shall not preclude the Attorney General from seeking such additional information as he deems necessary under the requirements of the said act, and shall not preclude prosecution as provided for in the said act for a false statement of a material fact, or the willful omission of a material fact required to be stated therein, or necessary to make the statements made not misleading.

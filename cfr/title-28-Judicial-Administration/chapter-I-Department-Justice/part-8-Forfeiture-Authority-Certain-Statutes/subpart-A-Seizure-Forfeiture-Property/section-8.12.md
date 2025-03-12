@@ -1,0 +1,3 @@
+##### § 8.12 Declaration of administrative forfeiture. #####
+
+If the seizing agency commences a timely proceeding against property subject to administrative forfeiture, and no valid and timely claim is filed, the appropriate official of the seizing agency shall declare the property forfeited. The declaration of forfeiture shall have the same force and effect as a final decree and order of forfeiture in a federal judicial forfeiture proceeding.

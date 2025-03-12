@@ -1,0 +1,3 @@
+##### § 0.87 Representation on committee for visit-exchange. #####
+
+The Director of the Federal Bureau of Investigation shall be a member of the committee which represents the Department of Justice in the development and implementation of plans for exchanging visits between the Iron Curtain countries and the United States and shall have authority to designate an alternate to serve on such committee.

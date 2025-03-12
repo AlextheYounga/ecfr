@@ -1,0 +1,3 @@
+##### § 33.71 Initial project report. #####
+
+States are required to provide to the Bureau of Justice Assistance within 30 days after the award of a subgrant, an initial project report which provides information on the subgrant recipient (name, address, contact person), the subgrant period, the type of award (new or renewal), the subgrant funding level, and the general target area (geographic area, population group) to be impacted. The Bureau of Justice Assistance will provide a form to assist the states in reporting this information.

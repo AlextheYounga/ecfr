@@ -1,0 +1,3 @@
+##### § 14.8 Investigation and examination. #####
+
+A Federal agency may request any other Federal agency to investigate a claim filed under section 2672, title 28, U.S. Code, or to conduct a physical examination of a claimant and provide a report of the physical examination. Compliance with such requests may be conditioned by a Federal agency upon reimbursement by the requesting agency of the expense of investigation or examination where reimbursement is authorized, as well as where it is required, by statute or regulation.

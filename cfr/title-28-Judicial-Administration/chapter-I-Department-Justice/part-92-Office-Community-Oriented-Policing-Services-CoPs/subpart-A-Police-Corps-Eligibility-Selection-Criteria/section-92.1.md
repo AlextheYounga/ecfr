@@ -1,0 +1,3 @@
+##### § 92.1 Scope. #####
+
+This subpart sets forth guidance on the eligibility for and selection to participate in the Police Corps. The Police Corps offers scholarships and educational expense reimbursements to individuals who agree to serve as a State or local police officer or sheriff's deputy for four years. In addition, Police Corps participants receive sixteen weeks of training in basic law enforcement, including vigorous physical and mental training to teach self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.

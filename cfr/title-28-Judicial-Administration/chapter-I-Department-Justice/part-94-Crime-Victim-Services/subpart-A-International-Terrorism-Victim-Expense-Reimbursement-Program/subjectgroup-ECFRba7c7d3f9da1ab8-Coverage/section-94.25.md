@@ -1,0 +1,5 @@
+##### § 94.25 Collateral sources. #####
+
+(a) The amount of expenses reimbursed to a claimant under this subpart shall be reduced by any amount that the claimant receives from a collateral source in connection with the same act of international terrorism. In cases in which a claimant receives reimbursement under this subpart for expenses that also will or may be reimbursed from another source, the claimant shall subrogate the United States to the claim for payment from the collateral source up to the amount for which the claimant was reimbursed under this subpart.
+
+(b) Notwithstanding paragraph (a) of this section, when a collateral source provides supplemental reimbursement for a specific expense, beyond the maximum amount reimbursed for that expense under this subpart, the claimant's award under this subpart shall not be reduced by the amount paid by the collateral source, nor shall the claimant be required to subrogate the United States to the claim for payment from the collateral source, except that in no event shall the combined reimbursement under this subpart and any collateral source exceed the actual expense.

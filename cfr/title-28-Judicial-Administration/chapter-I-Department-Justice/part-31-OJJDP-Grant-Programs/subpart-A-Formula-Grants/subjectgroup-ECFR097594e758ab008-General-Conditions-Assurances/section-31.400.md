@@ -1,0 +1,3 @@
+##### § 31.400 Compliance with statute. #####
+
+The applicant State must assure and certify that the State and its subgrantees and contractors will comply with applicable provisions of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90-351, as amended, and with the provisions of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93-415, as amended, and the provisions of the current edition of OJP Financial and Administrative Guide for Grants, M7100.1.

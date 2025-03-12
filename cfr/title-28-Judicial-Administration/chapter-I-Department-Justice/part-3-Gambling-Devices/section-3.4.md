@@ -1,0 +1,3 @@
+##### § 3.4 Registration to be made by letter. #####
+
+No special forms are prescribed for the purpose of registering under the Act. Registration shall be accomplished by a letter addressed to the Assistant Attorney General, Criminal Division, setting forth the information required by section 3(b)(4) of the Act. Registration should be made by registered or certified mail inasmuch as receipt of registrations will not otherwise be acknowledged. The registration requirement of the Act is an annual requirement. Any person engaged in any one or more of the activities for which registration is required under the Act must, in conformity with the provisions of the Act, register in each calendar year in which he engages in such activities.

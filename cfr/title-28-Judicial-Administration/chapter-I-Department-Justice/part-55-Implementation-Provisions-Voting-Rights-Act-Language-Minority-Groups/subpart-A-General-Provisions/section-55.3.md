@@ -1,0 +1,3 @@
+##### § 55.3 Statutory requirements. #####
+
+The Act's requirements concerning the conduct of elections in languages in addition to English are contained in section 4(f)(4) and section 203(c). These sections state that whenever a jurisdiction subject to their terms “provides any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, it shall provide them in the language of the applicable language minority group as well as in \* \* \* English. \* \* \*”

@@ -1,0 +1,3 @@
+##### § 549.50 Purpose and scope. #####
+
+The Bureau of Prisons does not ordinarily perform plastic surgery on inmates to correct preexisting disfigurements (including tattoos) on any part of the body. In circumstances where plastic surgery is a component of a presently medically necessary standard of treatment (for example, part of the treatment for facial lacerations or for mastectomies due to cancer) or it is necessary for the good order and security of the institution, the necessary surgery may be performed.

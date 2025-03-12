@@ -1,0 +1,3 @@
+##### § 0.93 Bureau of Justice Statistics. #####
+
+The Bureau of Justice Statistics is headed by a Director appointed by the President. Under the general authority of the Attorney General and reporting through the Assistant Attorney General, Office of Justice Programs, the Director performs functions and administers programs, including provision of financial assistance, under 42 U.S.C. 3731-3734, to provide a variety of statistical services for the criminal justice community.

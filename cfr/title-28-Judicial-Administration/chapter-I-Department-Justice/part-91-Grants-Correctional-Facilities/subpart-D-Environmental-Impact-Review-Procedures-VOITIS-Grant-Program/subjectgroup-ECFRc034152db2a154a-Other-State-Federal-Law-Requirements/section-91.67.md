@@ -1,0 +1,5 @@
+##### § 91.67 State Environmental Policy Acts. #####
+
+(a) *Coordination.* OJP will coordinate with grantees to ensure that any state, local, or tribal environmental impact review requirements similar to the Federal NEPA procedures will be met concurrently, to the extent possible, through requesting the appropriate non-federal agency(ies) to be a joint lead agency(ies). This effort would involve joint analyses, public involvement and documentation. Grantees are responsible for identifying the application of and informing OJP of these state and local requirements.
+
+(b) *Completed analysis.* For projects that had state or local environmental impact analysis completed prior the implementation of these procedures, OJP will review the documents prepared to meet the state and local requirements. In order to minimize any duplication of analysis, OJP will advise the State on whether additional environmental impact review is required.

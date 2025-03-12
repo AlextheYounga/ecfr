@@ -1,0 +1,13 @@
+##### § 802.14 Requests for access to records. #####
+
+(a) *Submission and processing procedures.* (1) Requests for any agency record about yourself ordinarily will be processed pursuant to the Privacy Act, 5 U.S.C. 552a. Such a request must be made in writing and addressed to the FOIA Officer, Office of the General Counsel, Court Services and Offender Supervision Agency, 633 Indiana Avenue, NW., Washington, DC 20004. The requester should clearly mark on the face of the letter and the envelope “Privacy Act Request.”
+
+(2) Your request will be considered received as of the date it is received by the Office of the General Counsel. For quickest possible handling, you should mark both your request letter and the envelope “Privacy Act Request.”
+
+(3) You must describe the records that you seek in enough detail to enable Agency personnel to locate them with a reasonable amount of effort. Whenever possible, your request should include specific information about each record sought, such as the date, title or name, author, recipient and subject matter of the record. As a general rule, the more specific you are about the records or type of records that you want, the more likely the Agency will be able to locate the records in response to your request. If a determination is made that your request does not reasonably describe records, the Agency will tell you either what additional information is needed or why your request is otherwise insufficient. You will be given the opportunity to discuss your request so that you may modify it to meet the requirements of this section.
+
+(b) *Release and review procedures.* Upon written request by an individual to gain access to his or her records which are not otherwise exempted, CSOSA shall permit the individual and, upon the individual's request, a person of his or her choosing to accompany him or her, to review the record and have a copy of all or any portion of the record. If a document contains information exempt from disclosure under the Privacy Act, any reasonably segregable portion of the record will be provided to the requester after deletion of the exempt portions.
+
+(2) A requester will be notified of the decision on the request in writing.
+
+(3) Generally, all Privacy Act requests will be processed in the approximate order of receipt, unless the requester shows exceptional circumstances exist to justify an expedited response (*see* § 802.8).

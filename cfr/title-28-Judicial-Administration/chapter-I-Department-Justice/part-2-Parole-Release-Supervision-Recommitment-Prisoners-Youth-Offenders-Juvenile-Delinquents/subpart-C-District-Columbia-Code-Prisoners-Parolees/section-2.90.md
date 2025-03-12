@@ -1,0 +1,3 @@
+##### § 2.90 Prior orders of the Board of Parole. #####
+
+Any order entered by the Board of Parole of the District of Columbia shall be accorded the status of an order of the Parole Commission unless duly reconsidered and changed by the Commission at a regularly scheduled hearing. It shall not constitute grounds for reopening a case that the prisoner is subject to an order of the Board of Parole that fails to conform to a provision of this part.

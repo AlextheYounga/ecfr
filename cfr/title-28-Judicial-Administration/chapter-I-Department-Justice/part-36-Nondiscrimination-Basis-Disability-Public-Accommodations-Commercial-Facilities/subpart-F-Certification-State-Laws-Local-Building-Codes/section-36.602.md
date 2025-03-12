@@ -1,0 +1,3 @@
+##### § 36.602 General rule. #####
+
+On the application of a State or local government, the Assistant Attorney General may certify that a code meets or exceeds the minimum requirements of the Act for the accessibility and usability of places of public accommodation and commercial facilities under this part by issuing a certification of equivalency. At any enforcement proceeding under title III of the Act, such certification shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of title III.

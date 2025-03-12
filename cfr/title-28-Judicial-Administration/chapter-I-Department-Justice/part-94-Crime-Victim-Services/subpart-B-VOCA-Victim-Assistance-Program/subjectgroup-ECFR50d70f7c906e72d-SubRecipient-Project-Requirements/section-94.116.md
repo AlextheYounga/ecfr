@@ -1,0 +1,3 @@
+##### § 94.116 Purpose of VOCA-funded projects. #####
+
+VOCA funds shall be available to sub-recipients only to provide direct services and supporting and administrative activities as set out in this subpart. SAAs shall ensure that VOCA sub-recipients obligate and expend funds in accordance with VOCA and this subpart. Sub-recipients must provide services to victims of federal crimes on the same basis as to victims of crimes under State or local law. Sub-recipients may provide direct services regardless of a victim's participation in the criminal justice process. Victim eligibility under this program for direct services is not dependent on the victim's immigration status.

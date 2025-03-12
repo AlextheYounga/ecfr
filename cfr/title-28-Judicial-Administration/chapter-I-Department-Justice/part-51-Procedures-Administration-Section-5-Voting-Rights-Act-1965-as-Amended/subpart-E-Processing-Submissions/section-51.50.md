@@ -1,0 +1,11 @@
+##### § 51.50 Records concerning submissions. #####
+
+(a) *Section 5 files.* The Attorney General shall maintain a section 5 file for each submission, containing the submission, related written materials, correspondence, memoranda, investigative reports, data provided on electronic media, notations concerning conferences with the submitting authority or any interested individual or group, and copies of letters from the Attorney General concerning the submission.
+
+(b) *Objection letters.* The Attorney General shall maintain section 5 notification letters regarding decisions to interpose, continue, or withdraw an objection.
+
+(c) *Computer file.* Records of all submissions and their dispositions by the Attorney General shall be electronically stored.
+
+(d) *Copies.* The contents of the section 5 submission files in paper, microfiche, electronic, or other form shall be available for obtaining copies by the public, pursuant to written request directed to the Chief, Voting Section, Civil Rights Division, United States Department of Justice, Washington, DC. Such written request may be delivered to the addresses or telefacsimile number specified in § 51.24 or by electronic mail to *Voting.Section@usdoj.gov.* It is the Attorney General's intent and practice to expedite, to the extent possible, requests pertaining to pending submissions. Those who desire copies of information that has been provided on electronic media will be provided a copy of that information in the same form as it was received. Materials that are exempt from inspection under the Freedom of Information Act, 5 U.S.C. 552(b), may be withheld at the discretion of the Attorney General. The identity of any individual or entity that provided information to the Attorney General regarding the administration of section 5 shall be available only as provided by § 51.29(d). Applicable fees, if any, for the copying of the contents of these files are contained in the Department of Justice regulations implementing the Freedom of Information Act, 28 CFR 16.10.
+
+[Order No. 3262-2011, 76 FR 21248, Apr. 15, 2011]

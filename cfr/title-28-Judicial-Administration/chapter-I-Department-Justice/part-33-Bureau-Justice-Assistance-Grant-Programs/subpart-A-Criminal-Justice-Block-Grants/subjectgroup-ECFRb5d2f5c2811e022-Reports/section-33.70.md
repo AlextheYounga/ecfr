@@ -1,0 +1,7 @@
+##### § 33.70 Annual performance report. #####
+
+(a) Section 405 of the Justice Assistance Act requires that the state, or a local unit of government in the case of a non-participating state, submit annually to the Bureau of Justice Assistance a performance report (including an assessment of impact) concerning the activities carried out under the grant. These performance reports will provide the basis for the annual report from the Bureau to the President and the Congress as required by section 810 of the Act.
+
+(b) The performance report will describe the activities undertaken and results achieved of each project funded. It will include the data gathered on the approved performance indicators. The report is due to the Bureau by no later than December 31 and must cover projects for the prior Federal fiscal year that have either been completed or been in operation for 12 months or more. The first performance report shall be due to the Bureau by December 31, 1986.
+
+(c) In order to help states and localities prepare these performance reports, the Bureau will provide data collection forms and instructions that will enable information to be gathered and reported in the most convenient manner possible. These forms and instructions will be developed in consultation with states and localities.

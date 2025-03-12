@@ -1,0 +1,7 @@
+##### § 36.101 Purpose and broad coverage. #####
+
+(a) *Purpose.* The purpose of this part is to implement subtitle A of title III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181-12189), as amended by the ADA Amendments Act of 2008 (ADA Amendments Act) (Pub. L. 110-325, 122 Stat. 3553 (2008)), which prohibits discrimination on the basis of disability by covered public accommodations and requires places of public accommodation and commercial facilities to be designed, constructed, and altered in compliance with the accessibility standards established by this part.
+
+(b) *Broad coverage.* The primary purpose of the ADA Amendments Act is to make it easier for people with disabilities to obtain protection under the ADA. Consistent with the ADA Amendments Act's purpose of reinstating a broad scope of protection under the ADA, the definition of “disability” in this part shall be construed broadly in favor of expansive coverage to the maximum extent permitted by the terms of the ADA. The primary object of attention in cases brought under the ADA should be whether entities covered under the ADA have complied with their obligations and whether discrimination has occurred, not whether the individual meets the definition of “disability.” The question of whether an individual meets the definition of “disability” under this part should not demand extensive analysis.
+
+[AG Order 3702-2016, 81 FR 53240, Aug. 11, 2016]

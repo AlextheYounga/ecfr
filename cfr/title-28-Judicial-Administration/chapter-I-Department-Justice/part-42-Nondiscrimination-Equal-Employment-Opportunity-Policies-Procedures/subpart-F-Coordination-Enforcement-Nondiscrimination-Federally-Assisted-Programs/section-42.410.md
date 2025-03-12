@@ -1,0 +1,3 @@
+##### § 42.410 Continuing State programs. #####
+
+Each state agency administering a continuing program which receives federal financial assistance shall be required to establish a title VI compliance program for itself and other recipients which obtain federal assistance through it. The federal agencies shall require that such state compliance programs provide for the assignment of title VI responsibilities to designated state personnel and comply with the minimum standards established in this subpart for federal agencies, including the maintenance of records necessary to permit federal officials to determine the title VI compliance of the state agencies and the sub-recipient.

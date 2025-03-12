@@ -1,0 +1,5 @@
+##### § 105.21 Purpose and authority. #####
+
+(a) The purpose of this subpart is to regulate the exchange of criminal history record information (“CHRI”), as defined in 28 CFR 20.3(d), and related information authorized by Section 6402 (The Private Security Officer Employment Authorization Act of 2004) (Act) of Public Law 108-458 (The Intelligence Reform and Terrorism Prevention Act of 2004). Section 6402 authorizes a fingerprint-based criminal history check of state and national criminal history records to screen prospective and current private security officers, and section 6402(d)(2) requires the Attorney General to publish regulations to provide for the “security, confidentiality, accuracy, use, submission, dissemination, destruction of information and audits, and record keeping” of the CHRI and related information, standards for qualifying an authorized employer, and the imposition of fees.
+
+(b) The regulations in this subpart do not displace state licensing requirements for private security officers. A State retains the right to impose its own licensing requirements upon this industry.

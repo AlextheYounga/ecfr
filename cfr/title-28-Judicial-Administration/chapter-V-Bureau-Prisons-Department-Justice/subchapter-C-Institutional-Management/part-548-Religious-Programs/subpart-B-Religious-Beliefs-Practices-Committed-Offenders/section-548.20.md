@@ -1,0 +1,9 @@
+##### § 548.20 Dietary practices. #####
+
+(a) The Bureau provides inmates requesting a religious diet reasonable and equitable opportunity to observe their religious dietary practice within the constraints of budget limitations and the security and orderly running of the institution and the Bureau through a religious diet menu. The inmate will provide a written statement articulating the religious motivation for participation in the religious diet program.
+
+(b) An inmate who has been approved for a religious diet menu must notify the chaplain in writing if the inmate wishes to withdraw from the religious diet. Approval for an inmate's religious diet may be withdrawn by the chaplain if the inmate is documented as being in violation of the terms of the religious diet program to which the inmate has agreed in writing. In order to preserve the integrity and orderly operation of the religious diet program and to prevent fraud, inmates who withdraw (or are removed) may not be immediately reestablished back into the program. The process of reapproving a religious diet for an inmate who voluntarily withdraws or who is removed ordinarily may extend up to thirty days. Repeated withdrawals (voluntary or otherwise), however, may result in inmates being subjected to a waiting period of up to one year.
+
+(c) The chaplain may arrange for inmate religious groups to have one appropriate ceremonial or commemorative meal each year for their members as identified by the religious preference reflected in the inmate's file. An inmate may attend one religious ceremonial meal in a calendar year.
+
+[60 FR 46486, Sept. 6, 1995, as amended at 62 FR 44836, Aug. 22, 1997; 68 FR 74860, Dec. 29, 2003]

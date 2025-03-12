@@ -1,0 +1,3 @@
+##### § 55.21 Record keeping. #####
+
+The Attorney General's implementation of the Act's provisions concerning language minority groups would be facilitated if each covered jurisdiction would maintain such records and data as will document its actions under those provisions, including, for example, records on such matters as alternatives considered prior to taking such actions, and the reasons for choosing the actions finally taken.

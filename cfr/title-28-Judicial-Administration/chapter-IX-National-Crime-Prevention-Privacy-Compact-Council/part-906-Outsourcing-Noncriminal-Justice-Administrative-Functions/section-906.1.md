@@ -1,0 +1,3 @@
+##### § 906.1 Purpose and authority. #####
+
+The purpose of this part 906 is to establish rules and procedures for third parties to perform noncriminal justice administrative functions involving access to Interstate Identification Index (III) information. The Compact Council is establishing this rule pursuant to the National Crime Prevention and Privacy Compact (Compact), title 42, U.S.C., chapter 140, subchapter II, section 14616. The scope of this rule is limited to noncriminal justice background checks in so far as they are governed by the provisions of the Compact as set forth in 42 U.S.C. 14614 and 14616.

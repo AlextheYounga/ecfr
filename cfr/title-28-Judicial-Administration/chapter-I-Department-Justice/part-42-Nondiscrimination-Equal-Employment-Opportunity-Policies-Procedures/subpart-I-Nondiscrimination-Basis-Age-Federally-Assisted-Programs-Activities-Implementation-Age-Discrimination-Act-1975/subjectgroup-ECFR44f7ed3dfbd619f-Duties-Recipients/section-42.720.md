@@ -1,0 +1,3 @@
+##### § 42.720 General responsibility. #####
+
+Regarding any program or activity subject to this subpart, the recipient has primary responsibility to ensure compliance with the Act and this subpart. The recipient also has responsibility to maintain records, provide information, and to afford access to its records to the Department to the extent required to determine whether it is in compliance with the Act.

@@ -1,0 +1,7 @@
+##### § 97.2 Definitions. #####
+
+(a) *Crime of violence.* The term “crime of violence” has the same meaning as in section 924(c)(3) of title 18, United States Code. Section 924(c)(3) states that the term crime of violence means an offense that is a felony and has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
+
+(b) *Private prisoner transport company.* The term “private prisoner transport company” (“company”) means any entity, other than the United States, a State, or an inferior political subdivision of a State, that engages in the business of transporting for compensation individuals committed to the custody of any State or of an inferior political subdivision of a State, or any attempt thereof.
+
+(c) *Violent prisoner.* The term “violent prisoner” means any individual in the custody of a State or an inferior political subdivision of a State who has previously been convicted of or is currently charged with a crime of violence or any similar statute of a State or the inferior political subdivisions of a State, or any attempt thereof.

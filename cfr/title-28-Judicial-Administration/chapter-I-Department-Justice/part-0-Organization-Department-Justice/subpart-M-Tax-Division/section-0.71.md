@@ -1,0 +1,3 @@
+##### § 0.71 Delegation respecting immunity matters. #####
+
+The Assistant Attorney General in charge of the Tax Division is authorized to handle matters involving the immunity of the Federal Government from State or local taxation (except actions to set aside ad valorem taxes, assessments, special assessments, and tax sales of Federal real property, and matters involving payments in lieu of taxes), as well as State or local taxation involving contractors performing contracts for or on behalf of the United States.

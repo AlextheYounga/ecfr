@@ -1,0 +1,7 @@
+##### § 543.15 Legal aid program. #####
+
+(a) A legal aid program which is funded or approved by the Bureau is expected to provide a broad range of legal assistance to inmates. Staff shall allow these programs generally to operate with the same independence as privately retained attorneys. The Warden shall refer a request or decision to terminate or restrict a program, or individual participants in a program, to the Regional Counsel.
+
+(b) In order to promote the inmate-program relationship, the Warden shall give those students or legal assistants working in legal aid programs the same status as attorneys with respect to visiting and correspondence except where specific exceptions are made in this section and in part 540 of this chapter.
+
+(c) An attorney or law school professor shall supervise students and legal assistants participating in the program. The supervisor shall provide the Warden with a signed statement accepting professional responsibility for acts of each student or legal assistant affecting the institution. The Warden may require each student or legal assistant to complete and sign a personal history statement and a pledge to abide by Bureau regulations and institution guidelines. If necessary to maintain security or good order in the institution, the Warden may prohibit a student or legal assistant from visiting or corresponding with an inmate.

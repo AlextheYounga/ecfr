@@ -1,0 +1,3 @@
+##### § 600.6 Powers and authority. #####
+
+Subject to the limitations in the following paragraphs, the Special Counsel shall exercise, within the scope of his or her jurisdiction, the full power and independent authority to exercise all investigative and prosecutorial functions of any United States Attorney. Except as provided in this part, the Special Counsel shall determine whether and to what extent to inform or consult with the Attorney General or others within the Department about the conduct of his or her duties and responsibilities.

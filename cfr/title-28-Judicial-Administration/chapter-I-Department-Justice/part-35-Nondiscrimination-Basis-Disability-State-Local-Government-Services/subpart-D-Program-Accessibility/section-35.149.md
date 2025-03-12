@@ -1,0 +1,3 @@
+##### § 35.149 Discrimination prohibited. #####
+
+Except as otherwise provided in § 35.150, no qualified individual with a disability shall, because a public entity's facilities are inaccessible to or unusable by individuals with disabilities, be excluded from participation in, or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any public entity.

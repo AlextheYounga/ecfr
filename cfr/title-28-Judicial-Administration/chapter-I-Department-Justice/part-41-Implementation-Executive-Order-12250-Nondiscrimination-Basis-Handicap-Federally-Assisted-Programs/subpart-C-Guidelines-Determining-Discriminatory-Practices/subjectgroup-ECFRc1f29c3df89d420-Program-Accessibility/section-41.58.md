@@ -1,0 +1,5 @@
+##### § 41.58 New construction. #####
+
+(a) Except as provided in paragraph (b) of this section, new facilities shall be designed and constructed to be readily accessible to and usable by handicapped persons. Alterations to existing facilities shall, to the maximum extent feasible, be designed and constructed to be readily accessible to and usable by handicapped persons.
+
+(b) The Department of Transportation may defer the effective date for requiring all new buses to be accessible if it concludes on the basis of its section 504 rulemaking process that it is not feasible to require compliance on the effective date of its regulation: *Provided,* That comparable, accessible services are available to handicapped persons in the interim and that the date is not deferred later than October 1, 1979.

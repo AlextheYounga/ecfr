@@ -1,0 +1,3 @@
+##### § 65.2 State Government. #####
+
+In the event that a law enforcement emergency exists throughout a state or part of a state, a state (on behalf of itself or a local unit of government) may submit an application to the Attorney General, for emergency Federal law enforcement assistance. This application is to be submitted by the chief executive officer of the state, in writing, on Standard Form 424, and in accordance with these regulations.

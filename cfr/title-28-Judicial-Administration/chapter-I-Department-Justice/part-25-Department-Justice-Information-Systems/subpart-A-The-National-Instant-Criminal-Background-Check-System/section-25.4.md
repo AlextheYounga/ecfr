@@ -1,0 +1,3 @@
+##### § 25.4 Record source categories. #####
+
+It is anticipated that most records in the NICS Index will be obtained from Federal agencies. It is also anticipated that a limited number of authorized state and local law enforcement agencies will voluntarily contribute records to the NICS Index. Information in the NCIC and III systems that will be searched during a background check has been or will be contributed voluntarily by Federal, state, local, and international criminal justice agencies.

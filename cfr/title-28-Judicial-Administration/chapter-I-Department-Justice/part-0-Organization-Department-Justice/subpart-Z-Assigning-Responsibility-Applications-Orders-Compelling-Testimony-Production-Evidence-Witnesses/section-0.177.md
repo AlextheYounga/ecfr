@@ -1,0 +1,5 @@
+##### § 0.177 Applications for orders under the Comprehensive Drug Abuse Prevention and Control Act. #####
+
+Notwithstanding the delegation of functions contained in subpart R of this part, the Assistant Attorney General in charge of the Criminal Division is authorized to exercise the authority vested in the Attorney General by section 514 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, 84 Stat. 1276, to approve the application of a U.S. Attorney to a Federal court for an order compelling testimony or the production of information in any proceeding before a court or grand jury of the United States. Immunity shall be granted in agency proceedings under that Act only with the concurrence of the Assistant Attorney General in charge of the Criminal Division.
+
+[Order No. 445-70, 35 FR 19397, Dec. 23, 1970]

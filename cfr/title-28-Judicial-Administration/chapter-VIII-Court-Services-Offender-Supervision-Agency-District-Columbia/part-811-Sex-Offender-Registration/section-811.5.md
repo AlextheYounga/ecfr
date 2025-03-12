@@ -1,0 +1,5 @@
+##### § 811.5 Commencement of the obligation to register. #####
+
+(a) A sex offender's obligation to register starts when the sex offender is found guilty or not guilty by reason of insanity of a registration offense or is determined to be a sexual psychopath. However, CSOSA may suspend registration requirements during any period of time in which a sex offender is detained, incarcerated, confined, civilly committed, or hospitalized in a secure facility.
+
+(b) A sex offender must register if the sex offender is placed on probation, parole, supervised release, or convalescent leave, is conditionally or unconditionally released from a secure facility, is granted unaccompanied grounds privileges or other unaccompanied leave, absconds or escapes, is otherwise not detained, incarcerated, confined, civilly committed, or hospitalized in a secure facility, or enters the District of Columbia from another jurisdiction to live, reside, work, or attend school. Registration shall be effectuated as provided in § 811.7 and may be carried out prior to the occurrence of a circumstance described in this paragraph, including the release of or granting of leave to a sex offender.

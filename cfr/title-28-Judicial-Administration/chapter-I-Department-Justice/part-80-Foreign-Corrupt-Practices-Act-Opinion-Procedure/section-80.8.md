@@ -1,0 +1,3 @@
+##### § 80.8 Attorney General opinion. #####
+
+The Attorney General or his designee shall, within 30 days after receiving a request that complies with the foregoing procedure, respond to the request by issuing an opinion that states whether the prospective conduct, would, for purposes of the Department of Justice's present enforcement policy, violate 15 U.S.C. 78dd-1 and 78dd-2. The Department of Justice may also take such other positions or action as it considers appropriate. Should the Department request additional information, the Department's response shall be made within 30 days after receipt of such additional information.

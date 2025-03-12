@@ -1,0 +1,3 @@
+##### § 24.101 Purpose of these rules. #####
+
+These rules are adopted by the Department of Justice pursuant to section 504 of title 5, U.S. Code, as amended by section 203(a)(1) of the Equal Access to Justice Act, Public Law No. 96-481. Under the Act, an eligible party may receive an award for attorney fees and other expenses when it prevails over the Department in an adversary adjudication under 5 U.S.C. 554 before the Department, unless the Department's position as a party to the proceeding was substantially justified or special circumstances make an award unjust. The purpose of these rules is to establish procedures for the submission and consideration of applications for awards against the Department.

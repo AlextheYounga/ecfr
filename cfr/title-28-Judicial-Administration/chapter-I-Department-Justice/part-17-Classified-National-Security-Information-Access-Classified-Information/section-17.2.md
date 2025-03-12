@@ -1,0 +1,9 @@
+##### § 17.2 Scope. #####
+
+(a) All employees, contractors, grantees, and others granted access to classified information by the Department are governed by this part, and by the standards in Executive Order 12958, Executive Order 12968, and directives promulgated under those Executive Orders. If any portion of this part conflicts with any portion of Executive Order 12958, Executive Order 12968, or any successor Executive Order, the Executive Order shall apply. This part supersedes the former rule and any Department internal operating policy or directive that conflicts with any portion of this part.
+
+(b) This part applies to non-contractor personnel outside of the Executive Branch and to contractor personnel or employees who are entrusted with classified national security information originated within or in the custody of the Department. This part does not affect the operation of the Department's participation in the National Industrial Security Program under Executive Order 12829 (3 CFR, 1993 Comp., p. 570).
+
+(c) This part is independent of and does not affect any classification procedures or requirements of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 *et seq*).
+
+(d) This part does not, and is not intended to, create any right to judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person. This part creates limited rights to administrative review of decisions pursuant to §§ 17.30, 17.31, and 17.47. This part does not, and is not intended to, create any right to judicial review of administrative action under §§ 17.14, 17.15, 17.18, 17.27, 17.30, 17.31 and 17.50.

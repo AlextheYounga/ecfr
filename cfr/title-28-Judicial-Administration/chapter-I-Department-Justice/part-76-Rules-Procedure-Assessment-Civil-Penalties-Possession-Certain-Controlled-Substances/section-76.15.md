@@ -1,0 +1,5 @@
+##### § 76.15 Ex parte communications. #####
+
+(a) *Generally.* The Judge shall not consult with any party, attorney or person (except persons in the office of the Judge) on any legal or factual issue unless upon notice and opportunity for all parties to participate. No party or attorney representing a party shall communicate in any instance with the Judge on any matter at issue in a case, unless notice and opportunity has been afforded for the other party to participate. This provision does not prohibit a party or attorney from inquiring about the status of a case or asking questions concerning administrative functions or procedures.
+
+(b) *Sanctions.* A party or participant who makes a prohibited *ex parte* communication, or who encourages or solicits another to make any such communication, may be subject to any appropriate sanctions. An attorney who makes a prohibited *ex parte* communication, or who encourages or solicits another to make any such communication, may be subject to sanctions, including, but not limited to, exclusion from the proceedings.

@@ -1,0 +1,3 @@
+##### § 100.9 General. #####
+
+These Cost Recovery Regulations were developed to define allowable costs and establish reimbursement procedures in accordance with section 109(e) of Communications Assistance for Law Enforcement Act (CALEA) (Public Law 103-414, 108 Stat. 4279, 47 U.S.C. 1001-1010). Reimbursement of costs is subject to the availability of funds, the reasonableness of costs, and an agreement by the Attorney General or designee to reimburse costs prior to the carrier's incurrence of said costs.

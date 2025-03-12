@@ -1,0 +1,5 @@
+##### § 42.306 Guidelines. #####
+
+(a) Recipient agencies are expected to conduct a continuing program of self-evaluation to ascertain whether any of their recruitment, employee selection or promotional policies (or lack thereof) directly or indirectly have the effect of denying equal employment opportunities to minority individuals and women.
+
+(b) Equal employment program modification may be suggested by LEAA whenever identifiable referral or selection procedures and policies suggest to LEAA the appropriateness of improved selection procedures and policies. Accordingly, any recipient agencies falling within this category are encouraged to develop recruitment, hiring or promotional guidelines under their equal employment opportunity program which will correct, in a timely manner, any identifiable employment impediments which may have contributed to the existing disparities.

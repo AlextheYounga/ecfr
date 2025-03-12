@@ -1,0 +1,3 @@
+##### § 524.71 Responsibility. #####
+
+Authority for actions relative to the CIM system is delegated to the Assistant Director, Correctional Programs Division, to Regional Directors, and to Wardens. The Assistant Director, Correctional Programs Division, and Regional Directors shall assign a person responsible for coordinating CIM activities. The Case Management Coordinator (CMC) shall provide oversight and coordination of CIM activities at the institutional level, and the Community Corrections Manager shall assume these responsibilities for contract facilities.

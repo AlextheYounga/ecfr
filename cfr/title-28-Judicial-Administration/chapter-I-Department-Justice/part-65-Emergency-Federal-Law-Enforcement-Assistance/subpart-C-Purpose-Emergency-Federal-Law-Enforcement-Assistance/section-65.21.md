@@ -1,0 +1,3 @@
+##### § 65.21 Purpose of assistance. #####
+
+The purpose of emergency Federal law enforcement assistance is to provide necessary assistance to (and through) a state government to provide an adequate response to an uncommon situation which requires law enforcement, which is or threatens to become of serious or epidemic proportions, and with respect to which state and local resources are inadequate to protect the lives and property of citizens, or to enforce the criminal law.

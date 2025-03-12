@@ -1,0 +1,3 @@
+##### § 42.602 Exchange of information. #####
+
+EEOC and agencies shall share any information relating to the employment policies and practices of recipients of federal financial assistance that may assist each office in carrying out its responsibilities. Such information shall include, but not necessarily be limited to, affirmative action programs, annual employment reports, complaints, investigative files, conciliation or compliance agreements, and compliance review reports and files.

@@ -1,0 +1,7 @@
+##### § 0.190 Changes within organizational units. #####
+
+(a) The head of each Office, Board, Division or Bureau may from time to time propose the establishment, transfer, reorganization or termination of major functions within his organizational unit as he may deem necessary or appropriate. In each instance, the head of the Office, Board, Division or Bureau shall submit the proposed change in writing to the Assistant Attorney General for Administration. The Assistant Attorney General for Administration shall evaluate the proposal and shall submit the proposed change, along with his recommendation, to the Associate Attorney when appropriate, and in all other cases directly to the Deputy Attorney General. Where the Associate Attorney General has received a proposed change, he shall evaluate it, and shall submit it along, with his recommendation, to the Deputy Attorney General. The Deputy Attorney General shall then approve or disapprove the change.
+
+(b) The approval shall be final in the case of changes which do not affect the overall structure of the Department. Proposed changes which are determined by the Deputy Attorney General to affect the overall structure of the Department's organization shall be forwarded by the Deputy Attorney General to the Attorney General for final approval prior to implementation, and shall be effectuated by issuance of an Attorney General's order, in accordance with subpart AA of this part.
+
+[Order No. 960-81, 46 FR 52354, Oct. 27, 1981]

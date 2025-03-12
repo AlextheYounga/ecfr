@@ -1,0 +1,3 @@
+##### § 1.4 Offenses against the laws of possessions or territories of the United States. #####
+
+Petitions for executive clemency shall relate only to violations of laws of the United States. Petitions relating to violations of laws of the possessions of the United States or territories subject to the jurisdiction of the United States should be submitted to the appropriate official or agency of the possession or territory concerned.

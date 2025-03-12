@@ -1,0 +1,3 @@
+##### § 570.44 Supervision and restraint requirements. #####
+
+Inmates under escort will be within the constant and immediate visual supervision of escorting staff at all times. Restraints may be applied to an inmate going on an escorted trip, after considering the purpose of the escorted trip and the degree of supervision required by the inmate. Except for escorted trips for a medical emergency, an inmate going on an escorted trip must agree in writing to the conditions of the escorted trip (for example, agrees not to consume alcohol).

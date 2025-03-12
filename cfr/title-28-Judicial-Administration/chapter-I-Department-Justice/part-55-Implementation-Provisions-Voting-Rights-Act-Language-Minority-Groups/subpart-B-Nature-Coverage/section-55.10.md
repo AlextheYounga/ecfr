@@ -1,0 +1,7 @@
+##### § 55.10 Types of elections covered. #####
+
+(a) *General.* The language provisions of the Act apply to registration for and voting in any type of election, whether it is a primary, general or special election. Section 14(c)(1). This includes elections of officers as well as elections regarding such matters as bond issues, constitutional amendments and referendums. Federal, State and local elections are covered as are elections of special districts, such as school districts and water districts.
+
+(b) *Elections for statewide office.* If an election conducted by a county relates to Federal or State offices or issues as well as county offices or issues, a county subject to the bilingual requirements must insure compliance with those requirements with respect to all aspects of the election, i.e., the minority language material and assistance must deal with the Federal and State offices or issues as well as county offices or issues.
+
+(c) *Multi-county districts.* Regarding elections for an office representing more than one county, e.g., State legislative districts and special districts that include portions of two or more counties, the bilingual requirements are applicable on a county-by-county basis. Thus, minority language material and assistance need not be provided by the government in counties not subject to the bilingual requirements of the Act.

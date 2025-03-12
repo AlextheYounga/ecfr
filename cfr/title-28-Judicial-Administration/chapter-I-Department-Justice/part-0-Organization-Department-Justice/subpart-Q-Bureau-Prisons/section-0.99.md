@@ -1,0 +1,3 @@
+##### § 0.99 Compensation to Federal prisoners. #####
+
+The Board of Directors of Federal Prison Industries, or such officer of the corporation as the Board may designate, may exercise the authority vested in the Attorney General by section 4126 of title 18 of the U.S. Code, as amended, to prescribe rules and regulations governing the payment of compensation to inmates of Federal penal and correctional institutions employed in any industry, or performing outstanding services in institutional operations, and to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance of operation of the institution where confined.

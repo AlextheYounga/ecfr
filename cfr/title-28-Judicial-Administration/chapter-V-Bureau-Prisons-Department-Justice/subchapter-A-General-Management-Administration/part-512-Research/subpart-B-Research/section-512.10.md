@@ -1,0 +1,5 @@
+##### § 512.10 Purpose and scope. #####
+
+General provisions for the protection of human subjects during the conduct of research are contained in 28 CFR part 46. The provisions of this subpart B specify additional requirements for prospective researchers (both employees and non-employees) to obtain approval to conduct research within the Bureau of Prisons (Bureau) and responsibilities of Bureau staff in processing proposals and monitoring research projects. Although some research may be exempt from 28 CFR part 46 under § 46.101(b)(5), as determined by the Office of Research and Evaluation (ORE) of the Bureau, no research is exempt from 28 CFR part 512. For the purpose of this subpart, implementation of Bureau programmatic or operational initiatives made through pilot projects is not considered to be research.
+
+[59 FR 13860, Mar. 23, 1994, as amended at 62 FR 6661, Feb. 12, 1997]

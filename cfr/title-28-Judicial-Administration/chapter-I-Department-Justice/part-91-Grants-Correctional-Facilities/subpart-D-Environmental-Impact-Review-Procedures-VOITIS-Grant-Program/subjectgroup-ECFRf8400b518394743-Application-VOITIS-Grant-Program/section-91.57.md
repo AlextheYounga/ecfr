@@ -1,0 +1,3 @@
+##### § 91.57 Actions that normally require the preparation of an environmental impact statement. #####
+
+*Significant impact.* For the proposed construction of a new correctional facility or the proposed expansion of an existing facility, if the proposal is large or complex and/or controversial because of the nature of possible environmental impacts, and/or if any EA determines that the project will have a significant impact on the environment, an environmental impact statement (EIS) will be required. For those projects that clearly will have significant environmental impact, a grantee can save time and resources by initiating the EIS immediately without going through the EA process.

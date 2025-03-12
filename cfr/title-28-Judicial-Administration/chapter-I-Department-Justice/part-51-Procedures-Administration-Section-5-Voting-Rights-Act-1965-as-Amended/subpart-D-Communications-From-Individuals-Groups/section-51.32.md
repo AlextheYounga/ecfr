@@ -1,0 +1,3 @@
+##### § 51.32 Establishment and maintenance of registry of interested individuals and groups. #####
+
+The Attorney General shall establish and maintain a Registry of Interested Individuals and Groups, which shall contain the name and address of any individual or group that wishes to receive notice of section 5 submissions. Information relating to this registry and to the requirements of the Privacy Act of 1974, 5 U.S.C. 552a *et seq.,* is contained in JUSTICE/CRT-004. 48 FR 5334 (Feb. 4, 1983).

@@ -1,0 +1,3 @@
+##### § 37.12 Standards. #####
+
+In any investigation, compliance review, hearing or other proceeding, the standards used to determine whether section 504 has been violated in a complaint alleging employment discrimination shall be the standards applied under title I of the ADA and the provisions of sections 501 through 504, and 510, of the ADA, as such sections relate to employment. Section 504 agencies shall consider the regulations and appendix implementing title I of the ADA, set forth at 29 CFR part 1630, and case law arising under such regulations, in determining whether a recipient of Federal financial assistance has engaged in an unlawful employment practice.

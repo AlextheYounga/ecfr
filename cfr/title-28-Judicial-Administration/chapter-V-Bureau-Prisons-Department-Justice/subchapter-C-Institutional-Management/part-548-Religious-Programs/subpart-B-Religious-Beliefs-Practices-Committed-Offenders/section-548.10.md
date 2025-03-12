@@ -1,0 +1,7 @@
+##### § 548.10 Purpose and scope. #####
+
+(a) The Bureau of Prisons provides inmates of all faith groups with reasonable and equitable opportunities to pursue religious beliefs and practices, within the constraints of budgetary limitations and consistent with the security and orderly running of the institution and the Bureau of Prisons.
+
+(b) When considered necessary for the security or good order of the institution, the Warden may limit attendance at or discontinue a religious activity. Opportunities for religious activities are open to the entire inmate population, without regard to race, color, nationality, or ordinarily, creed. The Warden, after consulting with the institution chaplain, may limit participation in a particular religious activity or practice to the members of that religious group. Ordinarily, when the nature of the activity or practice (e.g., religious fasts, wearing of headwear, work proscription, ceremonial meals) indicates a need for such a limitation, only those inmates whose files reflect the pertinent religious preference will be included.
+
+(c) The Bureau of Prisons does not require an inmate to profess a religious belief. An inmate may designate any or no religious preference at his/her initial team screening. By notifying the chaplain in writing, an inmate may request to change this designation at any time, and the change will be effected in a timely fashion.

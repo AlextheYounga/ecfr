@@ -1,0 +1,3 @@
+##### § 94.33 Investigation and analysis of claims. #####
+
+The Director may seek an expert examination of claims submitted if he believes there is a reasonable basis for requesting additional evaluation. The claimant, in submitting an application for reimbursement, authorizes the Director to release information regarding claims or expenses listed in the application to an appropriate body for review. If the Director initiates an expert review, no identifying information for the victim or representative shall be released.

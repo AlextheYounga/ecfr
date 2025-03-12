@@ -1,0 +1,3 @@
+##### § 301.313 Chief Operating Officer review. #####
+
+Any claimant not satisfied with the Committee's reconsidered decision or decision after a hearing may appeal such decision to the Chief Operating Officer, Federal Prison Industries, Inc., 320 First Street NW., Washington, DC 20534. A written request for such an appeal must be received no later than 90 days after the date of notice of the Committee's decision. The Chief Operating Officer shall review the record and affirm, reverse or amend the Committee's decision no later than 90 days after receipt of claimant's notice of appeal. Written notice of the Chief Operating Officer's decision shall be mailed to the claimant's last known address, or to the claimant's representative.

@@ -1,0 +1,5 @@
+##### § 0.57 Criminal prosecutions against juveniles. #####
+
+The Assistant Attorney General in charge of the Criminal Division and his Deputy Assistant Attorneys General are each authorized to exercise the power and authority vested in the Attorney General by sections 5032 and 5036 of title 18, United States Code, relating to criminal proceedings against juveniles. The Assistant Attorney General in charge of the Criminal Division is authorized to redelegate any function delegated to him under this section to United States Attorneys and to the Chief of the Section within the Criminal Division which supervises the implementation of the Juvenile Justice and Delinquency Prevention Act (18 U.S.C. 5031 *et seq.*).
+
+[Order No. 579-74, 39 FR 37771, Oct. 24, 1974, as amended by Order No. 894-80, 45 FR 34269, May 22, 1980]

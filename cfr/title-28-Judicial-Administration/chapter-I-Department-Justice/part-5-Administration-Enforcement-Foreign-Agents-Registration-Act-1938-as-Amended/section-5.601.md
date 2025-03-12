@@ -1,0 +1,9 @@
+##### § 5.601 Copies of records and information available. #####
+
+(a) Copies of registration statements and supplements, amendments, exhibits thereto, informational materials, dissemination reports, and copies of political propaganda and other materials contained in the public files, may be obtained from the Registration Unit upon payment of a fee as prescribed in § 5.5.
+
+(b) Information as to the fee to be charged for copies of registration statements and supplements, amendments, exhibits thereto, informational materials, dissemination reports, and copies of political propaganda and other materials contained in the public files, or research into and information therefrom, and the time required for the preparation of such documents or information may be obtained upon request to the Registration Unit. Fee rates are established in § 5.5.
+
+(c) The Registration Unit may, in its discretion, conduct computer searches of records through the use of existing programming upon written request. Information as to the fee for the conduct of such computer searches, and the time required to conduct such computer searches, may be obtained upon request to the Registration Unit. A written request for computer searches of records shall include a deposit in the amount specified by the Registration Unit, which shall be the Registration Unit's estimate of the actual fees. The Registration Unit is not required to alter or develop programming to conduct a search. Fee rates are established in § 5.5.
+
+[Order No. 1757-93, 58 FR 37420, July 12, 1993, as amended by Order No. 2674-2003, 68 FR 33631, June 5, 2003]

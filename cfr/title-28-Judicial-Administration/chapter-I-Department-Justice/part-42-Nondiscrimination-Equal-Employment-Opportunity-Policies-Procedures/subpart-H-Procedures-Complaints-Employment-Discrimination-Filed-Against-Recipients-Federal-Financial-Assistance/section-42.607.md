@@ -1,0 +1,3 @@
+##### § 42.607 EEOC dismissals of complaints. #####
+
+If EEOC determines that the title VII allegations of a joint complaint should be dismissed, EEOC shall notify the complainant and the recipient of the reason for the dismissal and the effect the dismissal has on the complainant's rights under the relevant civil rights provision(s) of the referring agency, and issue a notice of right to sue under title VII. At the same time, EEOC shall transmit to the referring agency a copy of EEOC's file.

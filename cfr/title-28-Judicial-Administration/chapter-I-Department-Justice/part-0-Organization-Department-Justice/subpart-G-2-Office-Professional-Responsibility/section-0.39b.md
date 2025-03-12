@@ -1,0 +1,3 @@
+##### § 0.39b Confidentiality of information. #####
+
+The Counsel shall not disclose the identity of any person submitting an allegation of misconduct or reprisal pursuant to 28 CFR 0.39a(a)(1) or (2) unless the person consents to the disclosure of his identity or the disclosure is necessary to carry out the authority of the Office of Professional Responsibility, including conducting an investigation or referring the allegation to another component.

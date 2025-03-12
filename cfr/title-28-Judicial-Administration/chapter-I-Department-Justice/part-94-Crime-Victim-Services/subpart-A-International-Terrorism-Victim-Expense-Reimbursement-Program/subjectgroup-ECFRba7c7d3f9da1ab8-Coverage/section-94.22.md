@@ -1,0 +1,3 @@
+##### § 94.22 Categories of expenses. #####
+
+The following categories of expenses, generally, may be reimbursed, with some limitations, as noted in § 94.23: medical care; mental health care; property loss; funeral and burial; and miscellaneous expenses (including temporary lodging, emergency travel, and transportation). Under this subpart, the Director shall not reimburse for attorneys' fees, lost wages, or non-economic losses (such as pain and suffering, loss of enjoyment of life, loss of consortium, etc.).

@@ -1,0 +1,3 @@
+##### § 571.60 Purpose and scope. #####
+
+Under 18 U.S.C. 4205(g), a sentencing court, on motion of the Bureau of Prisons, may make an inmate with a minimum term sentence immediately eligible for parole by reducing the minimum term of the sentence to time served. Under 18 U.S.C. 3582(c)(1)(A), a sentencing court, on motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment of an inmate sentenced under the Comprehensive Crime Control Act of 1984. The Bureau uses 18 U.S.C. 4205(g) and 18 U.S.C. 3582(c)(1)(A) in particularly extraordinary or compelling circumstances which could not reasonably have been foreseen by the court at the time of sentencing.

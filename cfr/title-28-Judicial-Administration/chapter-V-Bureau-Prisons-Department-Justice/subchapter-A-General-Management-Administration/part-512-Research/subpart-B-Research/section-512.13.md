@@ -1,0 +1,5 @@
+##### § 512.13 Institutional Review Board. #####
+
+(a) The Bureau of Prisons' central institutional review board shall be called the Bureau Research Review Board (BRRB). It shall consist of the Chief, ORE, at least four other members, and one alternate, appointed by the Director, and shall meet a sufficient number of times to insure that each project covered by 28 CFR part 46 receives an annual review. A majority of members shall not be Bureau employees. The BRRB shall include an individual with legal expertise and a representative for inmates whom the Director determines is able to identify with inmate concerns and evaluate objectively a research proposal's impact on, and relevance to, inmates and to the correctional process.
+
+(b) The Chief, ORE, shall serve as chairperson of the BRRB. If a potential conflict of interest exists for the BRRB chairperson on a particular research proposal, the Assistant Director, Information, Policy, and Public Affairs Division, shall appoint another individual to serve as chairperson on matters pertaining to that project.

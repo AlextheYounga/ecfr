@@ -1,0 +1,9 @@
+##### § 41.57 Existing facilities. #####
+
+(a) A recipient shall operate each program or activity so that the program or activity, when viewed in its entirety, is readily accessible to and usable by handicapped persons. This paragraph does not necessarily require a recipient to make each of its existing facilities or every part of an existing facility accessible to and usable by handicapped persons.
+
+(b) Where structural changes are necessary to make programs or activities in existing facilities accessible, such changes shall be made as soon as practicable, but in no event later than three years after the effective date of the agency regulation: *Provided,* That, if the program is a particular mode of transportation (e.g., a subway system) that can be made accessible only through extraordinarily expensive structural changes to, or replacement of, existing facilities and if other accessible modes of transportation are available, the federal agency responsible for enforcing section 504 with respect to that program may extend this period of time, but only for a reasonable and definite period, such period to be set forth in the agency's regulation.
+
+(c) In the event that structural changes to facilities are necessary to meet the requirement of paragraph (a) of this section, a recipient shall develop, within a definite period to be established in each agency's regulation, a transition plan setting forth the steps necessary to complete such changes. The plan shall be developed with the assistance of interested persons, including handicapped persons or organizations representing handicapped persons.
+
+[43 FR 2132, Jan. 13, 1978. Redesignated and amended at 46 FR 40686, 40687, Aug. 11, 1981]Effective Date Note:At Order No. 1301-88, 53 FR 37754, Sept. 28, 1988, the application of § 41.57(b) to public housing timeframes was suspended.

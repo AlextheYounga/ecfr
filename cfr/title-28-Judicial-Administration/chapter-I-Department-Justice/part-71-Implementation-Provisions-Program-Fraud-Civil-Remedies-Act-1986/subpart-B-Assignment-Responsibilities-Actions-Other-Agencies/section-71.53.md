@@ -1,0 +1,3 @@
+##### § 71.53 Stays of Agency proceedings at the request of the Department. #####
+
+With respect to matters assigned to their divisions, the Assistant Attorneys General of the litigating divisions are authorized to determine that the continuation of any hearing under 31 U.S.C. 3803(b)(3) with respect to a claim or statement may adversely affect any pending or potential criminal or civil action related to such claim or statement, and to so notify the authority head of this determination and thereafter to determine when such hearing may resume.

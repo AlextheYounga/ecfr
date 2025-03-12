@@ -1,0 +1,3 @@
+##### § 1.5 Disclosure of files. #####
+
+Petitions, reports, memoranda, and communications submitted or furnished in connection with the consideration of a petition for executive clemency generally shall be available only to the officials concerned with the consideration of the petition. However, they may be made available for inspection, in whole or in part, when in the judgment of the Attorney General their disclosure is required by law or the ends of justice.

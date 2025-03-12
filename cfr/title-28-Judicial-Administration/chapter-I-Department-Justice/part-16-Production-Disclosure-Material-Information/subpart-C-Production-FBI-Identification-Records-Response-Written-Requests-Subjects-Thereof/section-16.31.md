@@ -1,0 +1,5 @@
+##### § 16.31 Definition of identification record. #####
+
+An FBI identification record, often referred to as a “rap sheet,” is a listing of certain information taken from fingerprint submissions retained by the FBI in connection with arrests and, in some instances, includes information taken from fingerprints submitted in connection with federal employment, naturalization, or military service. The identification record includes the name of the agency or institution that submitted the fingerprints to the FBI. If the fingerprints concern a criminal offense, the identification record includes the date of arrest or the date the individual was received by the agency submitting the fingerprints, the arrest charge, and the disposition of the arrest if known to the FBI. All arrest data included in an identification record are obtained from fingerprint submissions, disposition reports, and other reports submitted by agencies having criminal justice responsibilities. Therefore, the FBI Criminal Justice Information Services Division is not the source of the arrest data reflected on an identification record.
+
+[Order No. 2258-99, 64 FR 52226, Sept. 28, 1999]

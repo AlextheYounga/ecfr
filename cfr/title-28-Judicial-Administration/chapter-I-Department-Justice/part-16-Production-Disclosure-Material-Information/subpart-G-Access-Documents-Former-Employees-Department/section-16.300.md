@@ -1,0 +1,9 @@
+##### § 16.300 Access to documents for the purpose of responding to an official inquiry. #####
+
+(a) To the extent permitted by law, former employees of the Department shall be given access to documents that they originated, reviewed, or signed while employees of the Department, for the purpose of responding to an official inquiry by a federal, state, or local government entity or professional licensing authority. Documents include memoranda, drafts, reports, notes, written communications, and documents stored electronically that are in the possession of the Department. Access ordinarily will be provided on government premises.
+
+(b) Requests for access to documents under this section must be submitted in writing to the head of the component where the employee worked when originating, reviewing, or signing the documents. If the employee requesting access was the Attorney General, Deputy Attorney General, or Associate Attorney General, the request may be granted by the Assistant Attorney General for Administration. This authority may not be delegated below the level of principal deputy component head.
+
+(c) The written request should describe with specificity the documents to which access is sought (including time periods wherever possible), the reason for which access is sought (including the timing of the official inquiry involved), and any intended disclosure of any of the information contained in the documents.
+
+(d) The requester must agree in writing to safeguard the information from unauthorized disclosure and not to further disclose the information, by any means of communication, or to make copies, without the permission of the Department. Determinations regarding any further disclosure of information or removal of copies shall be made in accordance with applicable standards and procedures.

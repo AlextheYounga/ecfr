@@ -1,0 +1,3 @@
+##### § 36.213 Relationship of subpart B to subparts C and D of this part. #####
+
+Subpart B of this part sets forth the general principles of nondiscrimination applicable to all entities subject to this part. Subparts C and D of this part provide guidance on the application of the statute to specific situations. The specific provisions, including the limitations on those provisions, control over the general provisions in circumstances where both specific and general provisions apply.

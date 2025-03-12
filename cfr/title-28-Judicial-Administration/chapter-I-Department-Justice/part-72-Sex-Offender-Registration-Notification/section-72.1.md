@@ -1,0 +1,3 @@
+##### § 72.1 Purpose. #####
+
+This part specifies the applicability of the requirements of the Sex Offender Registration and Notification Act to sex offenders convicted prior to the enactment of that Act. These requirements include registering and keeping the registration current in each jurisdiction in which a sex offender resides, is an employee, or is a student. The Attorney General has the authority to specify the applicability of the Act's requirements to sex offenders convicted prior to its enactment under sections 112(b) and 113(d) of the Act.

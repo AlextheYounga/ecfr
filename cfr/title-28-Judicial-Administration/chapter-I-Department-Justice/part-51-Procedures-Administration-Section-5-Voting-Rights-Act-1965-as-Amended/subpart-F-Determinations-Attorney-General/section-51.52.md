@@ -1,0 +1,9 @@
+##### § 51.52 Basic standard. #####
+
+(a) *Surrogate for the court.* Section 5 provides for submission of a voting change to the Attorney General as an alternative to the seeking of a declaratory judgment from the U.S. District Court for the District of Columbia. Therefore, the Attorney General shall make the same determination that would be made by the court in an action for a declaratory judgment under section 5: whether the submitted change neither has the purpose nor will have the effect of denying or abridging the right to vote on account of race, color, or membership in a language minority group. The burden of proof is on a submitting authority when it submits a change to the Attorney General for preclearance, as it would be if the proposed change were the subject of a declaratory judgment action in the U.S. District Court for the District of Columbia. *South Carolina* v. *Katzenbach,* 383 U.S. 301, 328, 335 (1966).
+
+(b) *No objection.* If the Attorney General determines that the submitted change neither has the purpose nor will have the effect of denying or abridging the right to vote on account of race, color, or membership in a language minority group, no objection shall be interposed to the change.
+
+(c) *Objection.* An objection shall be interposed to a submitted change if the Attorney General is unable to determine that the change neither has the purpose nor will have the effect of denying or abridging the right to vote on account of race, color, or membership in a language minority group. This includes those situations where the evidence as to the purpose or effect of the change is conflicting and the Attorney General is unable to determine that the change is free of both the prohibited discriminatory purpose and effect.
+
+[Order No. 3262-2011, 76 FR 21248, Apr. 15, 2011]

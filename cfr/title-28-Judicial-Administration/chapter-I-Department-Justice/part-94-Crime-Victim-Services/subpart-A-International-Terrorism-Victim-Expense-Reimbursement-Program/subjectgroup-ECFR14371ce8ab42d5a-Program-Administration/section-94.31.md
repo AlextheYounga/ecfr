@@ -1,0 +1,5 @@
+##### § 94.31 Application procedures. #####
+
+(a) To receive reimbursement, a claimant must submit a completed application under this program requesting payment based on an itemized list of expenses, and must submit original receipts.
+
+(b) Notwithstanding paragraph (a) of this Section, in cases involving incidents of terrorism preceding the establishment of this program where claimants may not have original receipts, and in cases in which the claimant certifies that the receipts have been destroyed or lost, the Director may, in his discretion, accept an itemized list of expenses. In each such case, the claimant must certify that original receipts are unavailable and attest that the items and amounts submitted in the list are true and correct to the best of his knowledge. In the event that it is later determined that a fraudulent certification was made, the United States may take action to recover any payment made under this section, and pursue criminal prosecution, as appropriate.

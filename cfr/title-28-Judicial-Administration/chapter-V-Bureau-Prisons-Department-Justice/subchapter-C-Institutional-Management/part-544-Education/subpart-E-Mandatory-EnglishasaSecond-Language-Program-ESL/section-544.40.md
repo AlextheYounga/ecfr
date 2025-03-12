@@ -1,0 +1,3 @@
+##### § 544.40 Purpose and scope. #####
+
+Pursuant to the Crime Control Act of 1990 (18 U.S.C. 3624(f)), limited English proficient inmates confined in Federal Bureau of Prisons institutions are required to attend an English-as-a-Second Language (ESL) program until they function at the equivalence of the eighth grade level in competency skills. Waivers to this requirement may be granted by the Warden in accordance with §§ 544.41 and 544.42.

@@ -1,0 +1,3 @@
+##### § 8.11 Interplay of administrative and criminal judicial forfeiture proceedings. #####
+
+An administrative forfeiture proceeding pending against seized or restrained property does not bar the Government from alleging that the same property is forfeitable in a criminal case. Notwithstanding the fact that an allegation of forfeiture has been included in a criminal indictment or information, the property may be administratively forfeited in a parallel proceeding.

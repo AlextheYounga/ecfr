@@ -1,0 +1,3 @@
+##### § 51.16 Distinction between changes in procedure and changes in substance. #####
+
+The failure of the Attorney General to interpose an objection to a procedure for instituting a change affecting voting does not exempt the substantive change from the preclearance requirement. For example, if the procedure for the approval of an annexation is changed from city council approval to approval in a referendum, the preclearance of the new procedure does not exempt an annexation accomplished under the new procedure from the preclearance requirement.

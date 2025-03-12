@@ -1,0 +1,3 @@
+##### § 40.3 Communication of procedures. #####
+
+The written grievance procedure shall be readily available to all employees and inmates of the institution. Additionally, each inmate and employee shall, upon arrival at the institution, receive written notification and an oral explanation of the procedure, including the opportunity to have questions regarding the procedure answered orally. The written procedure shall be available in any language spoken by a significant portion of the institution's population, and appropriate provisions shall be made for those not speaking those languages, as well as for the impaired and the handicapped.

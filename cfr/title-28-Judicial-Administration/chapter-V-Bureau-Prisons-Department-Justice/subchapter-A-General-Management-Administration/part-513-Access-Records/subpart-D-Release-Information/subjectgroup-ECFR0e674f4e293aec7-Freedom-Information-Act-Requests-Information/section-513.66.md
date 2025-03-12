@@ -1,0 +1,3 @@
+##### § 513.66 Denials and appeals of Freedom of Information Act requests. #####
+
+If a request made pursuant to the Freedom of Information Act is denied in whole or in part, a denial letter must be issued and signed by the Director or his or her designee, and shall state the basis for denial under § 513.32. The requester who has been denied such access shall be advised that he or she may appeal that decision to the Office of Information and Privacy, U.S. Department of Justice, Suite 570, Flag Building, Washington, D.C. 20530. Both the envelope and the letter of appeal itself should be clearly marked: “Freedom of Information Act Appeal.”

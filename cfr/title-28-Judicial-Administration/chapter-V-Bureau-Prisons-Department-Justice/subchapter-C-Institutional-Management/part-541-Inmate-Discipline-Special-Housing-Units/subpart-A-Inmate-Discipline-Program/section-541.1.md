@@ -1,0 +1,3 @@
+##### § 541.1 Purpose. #####
+
+This subpart describes the Federal Bureau of Prisons' (Bureau) inmate discipline program. This program helps ensure the safety, security, and orderly operation of correctional facilities, and the protection of the public, by allowing Bureau staff to impose sanctions on inmates who commit prohibited acts. Sanctions will not be imposed in a capricious or retaliatory manner. The Bureau's inmate discipline program is authorized by 18 U.S.C. 4042(a)(3).

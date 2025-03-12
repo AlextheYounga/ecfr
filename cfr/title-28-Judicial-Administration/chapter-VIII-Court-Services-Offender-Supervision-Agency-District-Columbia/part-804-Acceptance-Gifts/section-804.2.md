@@ -1,0 +1,3 @@
+##### § 804.2 Delegation of authority. #####
+
+The Director of CSOSA hereby delegates to the Director of PSA the authority to accept and use gifts in the form of in-kind contributions of space and hospitality to support defendant programs, and of equipment and vocational training services to educate and train defendants in accordance with the requirements of this part. This delegation of authority may not be further delegated.

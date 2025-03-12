@@ -1,0 +1,3 @@
+##### § 80.3 Transaction. #####
+
+The entire transaction which is the subject of the request must be an actual—not a hypothetical—transaction but need not involve only prospective conduct. However, a request will not be considered unless that portion of the transaction for which an opinion is sought involves only prospective conduct. An executed contract is not a prerequisite and, in most—if not all—instances, an opinion request should be made prior to the requestor's commitment to proceed with a transaction.

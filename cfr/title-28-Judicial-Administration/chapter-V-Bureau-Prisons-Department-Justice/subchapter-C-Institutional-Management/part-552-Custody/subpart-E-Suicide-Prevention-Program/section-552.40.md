@@ -1,0 +1,3 @@
+##### § 552.40 Purpose and scope. #####
+
+The Bureau of Prisons (Bureau) operates a suicide prevention program to assist staff in identifying and managing potentially suicidal inmates. When staff identify an inmate as being at risk for suicide, staff will place the inmate on suicide watch. Based upon clinical findings, staff will either terminate the suicide watch when the inmate is no longer at imminent risk for suicide or arrange for the inmate's transfer to a medical referral center or contract health care facility.

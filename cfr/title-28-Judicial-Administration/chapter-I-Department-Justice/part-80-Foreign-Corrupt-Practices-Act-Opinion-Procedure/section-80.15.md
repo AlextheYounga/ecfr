@@ -1,0 +1,3 @@
+##### § 80.15 Withdrawal. #####
+
+A request submitted under the foregoing procedure may be withdrawn prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect. The Department of Justice reserves the right to retain any FCPA Opinion request, documents and information submitted to it under this procedure or otherwise and to use them for any governmental purposes, subject to the restrictions on disclosures in § 80.14.

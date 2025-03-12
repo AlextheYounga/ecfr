@@ -1,0 +1,3 @@
+##### § 7.4 Procedure for claiming reward. #####
+
+A person claiming a reward under this part shall present his claim, within six months from the date of the capture, in the form of a letter to the Warden or U.S. Marshal concerned. The letter shall state fully the facts and circumstances on which the claim is based, and shall include the name of each escapee captured and the time and place of the capture, and details as to how the arrest was made by the claimant or as to how assistance was rendered to others who made the arrest.

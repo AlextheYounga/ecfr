@@ -1,0 +1,3 @@
+##### § 34.106 Number of peer reviewers. #####
+
+The number of peer reviewers will vary by program (as affected by the volume of applications anticipated or received). OJJDP will select a minimum of three peer reviewers (qualified individuals who are not officers or employees of the Department of Justice) for each program or project review in order to ensure a diversity of backgrounds and perspectives. In no case will fewer than three reviews be made of each individual application.

@@ -1,0 +1,13 @@
+##### § 2.201 Period of supervised release. #####
+
+(a) A period of supervised release that is subject to the Commission's jurisdiction begins to run on the day the offender is released from prison and continues to the expiration of the full term imposed by the Superior Court, unless early termination is granted by the Commission.
+
+(b) A term of supervised release shall run concurrently with any federal, state, or local term of probation, parole or supervised release for another offense, but does not run while the offender is imprisoned in connection with a conviction for a federal, state, or local crime (including a term of imprisonment resulting from a probation, parole, or supervised release revocation) unless the period of imprisonment is less than 30 days. Such interruption of the term of supervised release is required by D.C. Code 24-403.01(b)(5), and is not dependent upon the issuance of a warrant or an order of revocation by the Commission.
+
+(c)(1) For an offender serving multiple terms of supervised release imposed by the Superior Court, the duration of the Commission's jurisdiction over the offender shall be governed by the longest term imposed.
+
+(2) If the Commission terminates such an offender from supervision on the longest term imposed, this order shall have the effect of terminating the offender from all terms of supervised release that the offender is serving at the time of the order.
+
+(3) If the Commission issues a warrant or summons for such an offender, or revokes supervised release for such an offender, the Commission's action shall have the effect of commencing revocation proceedings on, or revoking, all terms that the offender is serving at the time of the action. In revoking supervised release the Commission shall impose a term of imprisonment and a further term of supervised release as if the Commission were revoking a single term of supervised release. For the purpose of calculating the maximum authorized term of imprisonment at first revocation and the original maximum authorized term of supervised release, the Commission shall use the unexpired supervised release term imposed for the offense punishable by the longest maximum term of imprisonment.
+
+(4) If such an offender is released to a further term of supervised release after serving a prison term resulting from a supervised release revocation, the Commission shall consider the offender to be serving only the single term of supervised release ordered after revocation.

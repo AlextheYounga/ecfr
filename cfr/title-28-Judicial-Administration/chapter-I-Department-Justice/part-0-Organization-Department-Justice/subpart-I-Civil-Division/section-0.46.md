@@ -1,0 +1,5 @@
+##### § 0.46 Certain civil litigation and foreign criminal proceedings. #####
+
+The Assistant Attorney General in charge of the Civil Division shall, in addition to litigation coming within the scope of § 0.45, direct all other civil litigation including claims by or against the United States, its agencies or officers, in domestic or foreign courts, special proceedings, and similar civil matters not otherwise assigned, and shall employ foreign counsel to represent before foreign criminal courts, commissions or administrative agencies officials of the Department of Justice and all other law enforcement officers of the United States who are charged with violations of foreign law as a result of acts which they performed in the course and scope of their Government service.
+
+[Order No. 441-70, 35 FR 16318, Oct. 17, 1970]

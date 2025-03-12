@@ -1,0 +1,3 @@
+##### § 74.12 Order of payment. #####
+
+Payment will be made in the order of date of birth pursuant to section 105(b) of the Act. Therefore, when funds are appropriated, payment will be made to the oldest eligible individual living on the date of the enactment of the Act, August 10, 1988, (or his or her statutory heirs) who has been located by the Administrator at that time. Payments will continue to be made until all eligible individuals have received payment.

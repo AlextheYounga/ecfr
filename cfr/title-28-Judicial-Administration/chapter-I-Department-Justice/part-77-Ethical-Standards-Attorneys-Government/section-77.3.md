@@ -1,0 +1,3 @@
+##### § 77.3 Application of 28 U.S.C. 530B. #####
+
+In all criminal investigations and prosecutions, in all civil investigations and litigation (affirmative and defensive), and in all civil law enforcement investigations and proceedings, attorneys for the government shall conform their conduct and activities to the state rules and laws, and federal local court rules, governing attorneys in each State where such attorney engages in that attorney's duties, to the same extent and in the same manner as other attorneys in that State, as these terms are defined in § 77.2 of this part.

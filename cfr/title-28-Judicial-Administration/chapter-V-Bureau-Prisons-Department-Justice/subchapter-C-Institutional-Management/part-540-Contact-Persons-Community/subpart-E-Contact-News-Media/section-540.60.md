@@ -1,0 +1,3 @@
+##### § 540.60 Purpose and scope. #####
+
+The Bureau of Prisons recognizes the desirability of establishing a policy that affords the public information about its operations via the news media. Representatives of the news media (see § 540.2) may visit institutions for the purpose of preparing reports about the institution, programs, and activities. It is not the intent of this rule to provide publicity for an inmate or special privileges for the news media, but rather to insure a better informed public. The Bureau of Prisons also has a responsibility to protect the privacy and other rights of inmates and members of the staff. Therefore, an interview in an institution must be regulated to insure the orderly and safe operation of the institution.

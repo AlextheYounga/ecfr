@@ -1,0 +1,3 @@
+##### § 524.20 Purpose and scope. #####
+
+This subpart establishes procedures for designation, classification, parole, and release of Youth Corrections Act (YCA) inmates. In keeping with court findings, and in accord with the repeal of 18 U.S.C. chapter 402, sections 5011 and 5015(b), all offenders sentenced under the provisions of the YCA presently in custody, those retaken into custody as parole violators, and those yet to be committed (probation violators, appeal bond cases, etc.) may be transferred to or placed in adult institutions under the provisions of this policy.

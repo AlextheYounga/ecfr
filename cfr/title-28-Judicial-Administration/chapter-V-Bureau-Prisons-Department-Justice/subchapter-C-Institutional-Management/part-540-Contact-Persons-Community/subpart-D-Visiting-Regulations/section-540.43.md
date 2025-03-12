@@ -1,0 +1,3 @@
+##### § 540.43 Frequency of visits and number of visitors. #####
+
+The Warden shall allow each inmate a minimum of four hours visiting time per month. The Warden may limit the length or frequency of visits only to avoid chronic overcrowding. The Warden may establish a guideline for the maximum number of persons who may visit an inmate at one time, to prevent overcrowding in the visiting room or unusual difficulty in supervising a visit. Exceptions may be made to any local guideline when indicated by special circumstances, such as distance the visitor must travel, frequency of the inmate's visits, or health problems of the inmate or visitor.

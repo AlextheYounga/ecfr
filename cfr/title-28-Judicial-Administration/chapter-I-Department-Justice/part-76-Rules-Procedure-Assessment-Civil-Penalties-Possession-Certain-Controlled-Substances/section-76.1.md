@@ -1,0 +1,3 @@
+##### § 76.1 Purpose. #####
+
+This part implements section 6486 of the Anti-Drug Abuse Act of 1988 (the Act), 21 U.S.C. 844a. This part establishes procedures for imposing civil penalties against persons who knowingly possess a controlled substance for personal use that is listed in 21 CFR 1316.91(j)(2) in violation of 21 U.S.C. 844a and specifies the appeal rights of persons subject to a civil penalty pursuant to section 6486 of the Act.

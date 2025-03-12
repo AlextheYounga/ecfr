@@ -1,0 +1,9 @@
+##### § 79.21 Definitions. #####
+
+(a) The definitions listed in § 79.11 (a) through (e) and (i) apply to this subpart.
+
+(b) *Indication of disease* means any medically significant information that suggests the presence of a disease, whether or not the presence of the disease is later confirmed.
+
+(c) *Leukemia, chronic lymphocytic leukemia, multiple myeloma, lymphomas, Hodgkin's disease, primary cancer of the thyroid, primary cancer of the male breast, primary cancer of the female breast, primary cancer of the esophagus, primary cancer of the stomach, primary cancer of the pharynx, primary cancer of the small intestine, primary cancer of the pancreas, primary cancer of the bile ducts, primary cancer of the gallbladder, primary cancer of the salivary gland, primary cancer of the urinary bladder, primary cancer of the brain, primary cancer of the colon, primary cancer of the ovary, primary cancer of the liver, and primary cancer of the lung* mean the physiological conditions that are recognized by the National Cancer Institute under those names or nomenclature, or under any previously accepted or commonly used names or nomenclature.
+
+(d) *Specified compensable diseases* means leukemia (other than chronic lymphocytic leukemia), provided that initial exposure occurred after the age of 20 and that the onset of the disease was at least two years after first exposure, and the following diseases, provided onset was at least five years after first exposure: multiple myeloma; lymphomas (other than Hodgkin's disease); and primary cancer of the thyroid, male or female breast, esophagus, stomach, pharynx, small intestine, pancreas, bile ducts, gallbladder, salivary gland, urinary bladder, brain, colon, ovary, liver (except if cirrhosis or hepatitis B is indicated), or lung.

@@ -1,0 +1,3 @@
+##### § 4.2 Who may apply for Certificate of Exemption. #####
+
+Any person who has been convicted of any of the crimes enumerated in section 504(a) of the “Labor Act” whose service, present or prospective, as described in that section is or would be prohibited by that section because of such a conviction or a prison term resulting therefrom; or any person who has been convicted of any of the crimes enumerated in section 411(a) of the “Pension Act” (29 U.S.C. section 1111) whose service, present or prospective, as described in that section is or would be prohibited by that section because of such a conviction or a prison term resulting therefrom, may apply to the Commission for a Certificate of Exemption from such a prohibition under the applicable Act.

@@ -1,0 +1,3 @@
+##### § 100.20 Confidentiality of trade secrets/proprietary information. #####
+
+With respect to any information provided to the FBI under this part that is identified as company proprietary information, it shall be treated as privileged and confidential and only shared within the government on a need-to-know basis. It shall not be disclosed outside the government for any reason inclusive of Freedom of Information requests, without the prior written approval of the company. Information provided will be used exclusively for the implementation of CALEA. This restriction does not limit the government's right to use the information provided if obtained from any other source without limitation.

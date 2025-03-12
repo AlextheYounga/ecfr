@@ -1,0 +1,3 @@
+##### § 42.301 Purpose. #####
+
+The experience of the Law Enforcement Assistance Administration in implementing its responsibilities under the Omnibus Crime Control and Safe Streets Act of 1968, as amended (Pub. L. 90-351, 82 Stat. 197; Pub. L. 91-644, 84 Stat. 1881) has demonstrated that the full and equal participation of women and minority individuals in employment opportunities in the criminal justice system is a necessary component to the Safe Streets Act's program to reduce crime and delinquency in the United States.

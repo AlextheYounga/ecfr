@@ -1,0 +1,3 @@
+##### § 104.42 Applicable state law. #####
+
+The phrase “to the extent recovery for such loss is allowed under applicable state law,” as used in the statute's definition of economic loss in section 402(5) of the Act, is interpreted to mean that the Special Master is not permitted to compensate claimants for those categories or types of economic losses that would not be compensable under the law of the state that would be applicable to any tort claims brought by or on behalf of the victim.

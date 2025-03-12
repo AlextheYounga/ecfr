@@ -1,0 +1,5 @@
+##### § 75.4 Location of records. #####
+
+Any producer required by this part to maintain records shall make such records available at the producer's place of business or at the place of business of a non-employee custodian of records. Each record shall be maintained for seven years from the date of creation or last amendment or addition. If the producer ceases to carry on the business, the records shall be maintained for five years thereafter. If the producer produces the book, magazine, periodical, film, videotape, digitally- or computer-manipulated image, digital image, or picture, or other matter (including but not limited to Internet computer site or services) as part of his control of or through his employment with an organization, records shall be made available at the organization's place of business or at the place of business of a non-employee custodian of records. If the organization is dissolved, the person who was responsible for maintaining the records, as described in § 75.6(b), shall continue to maintain the records for a period of five years after dissolution.
+
+[73 FR 77470, Dec. 18, 2008]

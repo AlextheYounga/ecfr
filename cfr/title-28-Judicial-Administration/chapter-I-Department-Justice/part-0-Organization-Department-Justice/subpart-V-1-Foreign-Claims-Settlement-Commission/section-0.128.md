@@ -1,0 +1,3 @@
+##### § 0.128 Organization. #####
+
+The Foreign Claims Settlement Commission of the United States is a separate agency within the Department of Justice. It is composed of a full-time Chairman, and two part-time Commissioners. All functions, powers, and duties of the Commission not directly related to adjudicating claims are vested in the Chairman of the Commission, including the functions set forth in section 3 of Reorganization Plan No. 1 of 1954 and the authority to issue rules and regulations. The Attorney General provides necessary administrative support and services to the Commission.

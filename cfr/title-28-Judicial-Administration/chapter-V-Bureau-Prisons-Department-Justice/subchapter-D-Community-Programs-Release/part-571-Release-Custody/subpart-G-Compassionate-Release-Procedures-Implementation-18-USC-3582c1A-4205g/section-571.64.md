@@ -1,0 +1,3 @@
+##### § 571.64 Ineligible offenders. #####
+
+The Bureau of Prisons has no authority to initiate a request under 18 U.S.C. 4205(g) or 3582(c)(1)(A) on behalf of state prisoners housed in Bureau of Prisons facilities or D.C. Code offenders confined in federal institutions. The Bureau of Prisons cannot initiate such a motion on behalf of federal offenders who committed their offenses prior to November 1, 1987, and received non-parolable sentences.

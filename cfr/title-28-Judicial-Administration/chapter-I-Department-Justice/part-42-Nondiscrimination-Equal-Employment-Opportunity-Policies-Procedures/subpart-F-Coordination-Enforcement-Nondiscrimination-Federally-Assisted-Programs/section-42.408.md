@@ -1,0 +1,9 @@
+##### § 42.408 Complaint procedures. #####
+
+(a) Federal agencies shall establish and publish in their guidelines procedures for the prompt processing and disposition of complaints. The complaint procedures shall provide for notification in writing to the complainant and the applicant or recipient as to the disposition of the complaint. Federal agencies should investigate complaints having apparent merit. Where such complaints are not investigated, good cause must exist and must be stated in the notification of disposition. In such cases, the agency shall ascertain the feasibility of referring the complaint to the primary recipient, such as a State agency, for investigation.
+
+(b) Where a federal agency lacks jurisdiction over a complaint, the agency shall, wherever possible, refer the complaint to another federal agency or advise the complainant.
+
+(c) Where a federal agency requires or permits recipient to process title VI complaints, the agency shall ascertain whether the recipients' procedures for processing complaints are adequate. The federal agency shall obtain a written report of each such complaint and investigation and shall retain a review responsibility over the investigation and disposition of each complaint.
+
+(d) Each federal agency shall maintain a log of title VI complaints filed with it, and with its recipients, identifying each complainant by race, color, or national origin; the recipient; the nature of the complaint; the dates the complaint was filed and the investigation completed; the disposition; the date of disposition; and other pertinent information. Each recipient processing title VI complaints shall be required to maintain a similar log. Federal agencies shall report to the Assistant Attorney General on January 1, 1977, and each six months thereafter, the receipt, nature and disposition of all such title VI complaints.

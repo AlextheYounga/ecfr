@@ -1,0 +1,7 @@
+##### § 513.20 Release of information to law enforcement agencies. #####
+
+(a) The Bureau of Prisons will provide to the head of any law enforcement agency of a state or of a unit of local government in a state information on federal prisoners who have been convicted of felony offenses and who are confined at a residential community treatment center located in the geographical area in which the requesting agency has jurisdiction. Law enforcement personnel interested in obtaining this information must forward a written request to the appropriate Regional Community Programs Administrator (see 28 CFR part 503 for the mailing address). The type of information that the Bureau of Prisons may provide is set forth in 18 U.S.C. 4082(f). That information includes: names, dates of birth, FBI numbers, nature of the offenses against the United States, fingerprints, photographs, and the designated community treatment centers, with prospective dates of release.
+
+(b) Any law enforcement agency which receives information under this rule may not disseminate such information outside of such agency. If an agency disseminates information contrary to this restriction, the Bureau of Prisons may terminate or suspend release of information to that agency.
+
+[53 FR 15538, Apr. 29, 1988]

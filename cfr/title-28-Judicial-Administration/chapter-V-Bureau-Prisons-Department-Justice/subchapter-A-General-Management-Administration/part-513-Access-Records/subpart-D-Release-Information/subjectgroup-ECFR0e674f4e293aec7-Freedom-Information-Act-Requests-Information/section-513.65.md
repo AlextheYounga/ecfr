@@ -1,0 +1,3 @@
+##### § 513.65 Review of documents for Freedom of Information Act requests. #####
+
+If a document is deemed to contain information exempt from disclosure, any reasonably segregable portion of the record shall be provided to the requester after deletion of the exempt portions. If documents, or portions of documents, in an Inmate Central File have been determined to be nondisclosable by institution staff but are later released by Regional or Central Office staff pursuant to a request under this section, appropriate instructions will be given to the institution to move those documents, or portions, from the Inmate Privacy Folder into the disclosable section of the Inmate Central File.

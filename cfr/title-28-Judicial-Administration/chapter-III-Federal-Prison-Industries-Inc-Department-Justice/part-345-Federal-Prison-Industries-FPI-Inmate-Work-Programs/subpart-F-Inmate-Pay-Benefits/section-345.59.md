@@ -1,0 +1,3 @@
+##### § 345.59 Inmate performance pay. #####
+
+Inmate workers for FPI may also receive Inmate Performance Pay for participation in programs where this award is made. However, inmate workers may not receive both Industries Pay and Performance Pay for the same program activity. For example, an inmate assigned to a pre-industrial class may not receive FPI pay as well as inmate performance pay for participation in the class.

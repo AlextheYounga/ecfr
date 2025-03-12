@@ -1,0 +1,3 @@
+##### § 97.14 Guard-to-prisoner ratio. #####
+
+Companies covered under this part must adhere to certain minimum standards with respect to the number of employees required to monitor violent prisoners during transportation. Private prisoner transport companies must ensure that at least one guard be on duty for every six violent prisoners transported. This requirement does not preclude a contracting entity from establishing more stringent guard-to-prisoner ratios.

@@ -1,0 +1,5 @@
+##### § 33.11 Units of local government. #####
+
+(a) Units of local government are eligible to receive subgrants from a participating state. Unit of local government means any city, county, township, borough, parish, village, or other general purpose political subdivision of a state and includes Indian tribes which perform law enforcement functions as determined by the Secretary of the Interior. Section 901(a)(3) of the Act.
+
+(b) If the Bureau determines, during any fiscal year, that a portion of the funds allocated to a state will not be required, or that a state will be unable to qualify and receive funds, or that a state chooses not to participate in the program, then the Bureau shall award the funds allocated to the state directly to urban, rural, and suburban units of local government or combinations thereof within the state, giving priority to those jurisdictions with the greatest need. Section 407(d) of the Act.

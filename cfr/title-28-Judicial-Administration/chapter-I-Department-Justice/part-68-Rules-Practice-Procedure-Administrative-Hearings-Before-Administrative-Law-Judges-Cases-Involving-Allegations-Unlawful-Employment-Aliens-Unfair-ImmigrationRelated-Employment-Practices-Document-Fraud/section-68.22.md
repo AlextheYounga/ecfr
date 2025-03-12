@@ -1,0 +1,13 @@
+##### § 68.22 Depositions. #####
+
+(a) *Notice.* Any party desiring to take the deposition of a witness shall give notice in writing to the witness and other parties of the time and place of the deposition, and the name and address of each witness. If documents are requested, the notice shall include a written request for the production of documents. Not less than ten (10) days written notice shall be given when the deposition is to be taken within the continental United States, and not less then twenty (20) days written notice shall be given when the deposition is to be taken elsewhere, unless otherwise permitted by the Administrative Law Judge or agreed to by the parties.
+
+(b) *When, how, and by whom taken.* The following procedures shall apply to depositions:
+
+(1) Depositions may be taken by oral examination or upon written interrogatories before any person having power to administer oaths. The party taking a deposition upon oral examination shall state in the notice the method by which the testimony shall be recorded. Unless the Administrative Law Judge orders otherwise, it may be recorded by sound, sound-and-visual, or stenographic means, and the party taking the deposition shall bear the cost of the recording. Any party may arrange for a transcription to be made from the recording of a deposition taken by non-stenographic means.
+
+(2) Each witness testifying upon deposition shall testify under oath and any other party shall have the right to cross-examine. The questions asked and the answers thereto, together with all objections made, shall be recorded as provided by paragraph (b)(1) of this section. The person administering the oath shall certify in writing that the transcript or recording is a true record of the testimony given by the witness. The witness shall review the transcript or recording within thirty (30) days of notification that it is available and subscribe in writing to the deposition, indicating in writing any changes in form or substance, unless such review is waived by the witness and the parties by stipulation.
+
+(c) *Motion to terminate or limit examination.* During the taking of a deposition, a party or deponent may request suspension of the deposition on grounds of bad faith in the conduct of the examination, oppression of a deponent or party, or improper questions asked. The deposition will then be adjourned. However, the objecting party or deponent must immediately move the Administrative Law Judge for a ruling on his or her objections to the deposition conduct or proceedings.
+
+[Order No. 2203-99, 64 FR 7076, Feb. 12, 1999]

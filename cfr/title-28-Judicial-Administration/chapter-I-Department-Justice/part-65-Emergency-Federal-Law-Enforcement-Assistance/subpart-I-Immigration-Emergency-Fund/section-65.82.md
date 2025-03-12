@@ -1,0 +1,5 @@
+##### § 65.82 Procedure for requesting a Presidential determination of an immigration emergency. #####
+
+(a) The President may make a determination concerning the existence of an immigration emergency after review of a request from either the Attorney General of the United States or the chief executive of a State or local government. Such a request shall include a description of the facts believed to constitute an immigration emergency and the types of assistance needed to meet that emergency. Except when a request is made by the Attorney General, the requestor shall file the original application with the Office of the President and shall file copies of the application with the Attorney General and with the Commissioner of INS.
+
+(b) If the President determines that an immigration emergency exists, the President shall certify that fact to the Judiciary Committees of the House of Representatives and of the Senate.

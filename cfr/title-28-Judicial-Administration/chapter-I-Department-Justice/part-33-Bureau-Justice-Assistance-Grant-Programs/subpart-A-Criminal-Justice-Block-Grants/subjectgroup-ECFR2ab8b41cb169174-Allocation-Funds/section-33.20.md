@@ -1,0 +1,11 @@
+##### § 33.20 Fund availability. #####
+
+Section 407(a) of the Justice Assistance Act provides that 80 percent of the total amount appropriated for part D (block grants) and part E (discretionary grants) shall be allocated for block grants.
+
+(a) *Allocation to States.* Each participating state shall receive a base amount of $250,000 with the remaining funds allocated to each state on the basis of the state's relative share of total U.S. population. Section 407(a) of the Act. If a state does not elect to participate in the Act, the states allocation shall be awarded by the Bureau directly to local units of government and combinations of units of local government within the state. Section 407(d) of the Act.
+
+(b) *Allocation of funds within the State.* (1) Funds granted to the state are further subgranted by the state to state agencies and units of local government to carry out programs and projects contained in an approved application. Each state shall distribute to its local units of government, in the aggregate, a portion of the state's block grant funds equal to the local government share of total state and local criminal justice expenditures. Section 407(b) of the Act. In determining the portion to be distributed to local units, the most recent and complete data available from the Bureau of Justice Statistics of the U.S. Department of Justice shall be used unless the use of other data has been approved in advance by the Bureau of Justice Assistance.
+
+(2) To request approval of a distribution ratio other than that based on data of the Bureau of Justice Statistics, the head of the State Office must certify in writing to the Bureau of Justice Assistance that the ratio it proposes is a correct reflection of the local share of total state and local criminal justice expenditures and that the state has notified its major local governments of the request and informed them of the opportunity to contact the Bureau within 30 days, if they have any objections. The written request must also cite the expenditure data used to substantiate the proposed change.
+
+(c) *Allocation based on greatest need.* In distributing funds among urban, rural, and suburban units of local government, the state shall give priority to those jurisdictions with the greatest need. Section 407(b)(2) of the Act.

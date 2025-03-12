@@ -1,0 +1,5 @@
+##### § 0.58 Delegation respecting payment of benefits for disability or death of law enforcement officers not employed by the United States. #####
+
+The Assistant Attorney General in charge of the Criminal Division and his Deputy Assistant Attorneys General are each authorized to exercise or perform any of the functions or duties conferred upon the Attorney General by the Act to Compensate Law Enforcement Officers not Employed by the United States Killed or Injured While Apprehending Persons Suspected of Committing Federal Crimes (5 U.S.C. 8191, 8192, 8193). The Assistant Attorney General in charge of the Criminal Division is authorized to redelegate any function delegated to him under this section to the Chief of the Section within the Criminal Division which supervises the implementation of the aforementioned Compensation Act.
+
+[Order No. 1010-83, 48 FR 19023, Apr. 27, 1983]

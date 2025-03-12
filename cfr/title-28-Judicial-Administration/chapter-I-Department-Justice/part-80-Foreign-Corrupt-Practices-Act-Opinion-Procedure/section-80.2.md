@@ -1,0 +1,3 @@
+##### § 80.2 Submission requirements. #####
+
+A request for an FCPA Opinion must be submitted in writing. An original and five copies of the request should be addressed to the Assistant Attorney General in charge of the Criminal Division, Attention: FCPA Opinion Group. The mailing address is P.O. Box 28188, Central Station, Washington, DC 20038. The address for hand delivery is room 2424, Bond Building, 1400 New York Avenue, NW., Washington, DC 20005.

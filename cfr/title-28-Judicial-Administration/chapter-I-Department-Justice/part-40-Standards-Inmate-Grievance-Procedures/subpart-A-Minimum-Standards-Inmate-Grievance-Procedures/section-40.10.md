@@ -1,0 +1,5 @@
+##### § 40.10 Records—nature; confidentiality. #####
+
+(a) *Nature.* Records regarding the filing and disposition of grievances shall be collected and maintained systematically by the institution. Such records shall be preserved for at least three years following final disposition of the grievance. At a minimum, such records shall include aggregate information regarding the numbers, types and dispositions of grievances, as well as individual records of the date of and the reasons for each disposition at each stage of the procedure.
+
+(b) *Confidentiality.* Records regarding the participation of an individual in the grievance proceedings shall be considered confidential and shall be handled under the same procedures used to protect other confidential case records. Consistent with ensuring confidentiality, staff who are participating in the disposition of a grievance shall have access to records essential to the resolution of the grievance.

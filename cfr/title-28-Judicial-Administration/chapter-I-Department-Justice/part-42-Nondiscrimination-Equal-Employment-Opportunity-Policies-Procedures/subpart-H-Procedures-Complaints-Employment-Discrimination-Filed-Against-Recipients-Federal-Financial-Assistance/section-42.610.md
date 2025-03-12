@@ -1,0 +1,7 @@
+##### § 42.610 Agency enforcement of unresolved complaints. #####
+
+(a) Upon EEOC's transmittal of a reasonable cause determination and notice of failure of conciliation under § 42.609(b)(2) of this regulation, the referring agency shall determine, within thirty days, whether the recipient has violated any applicable civil rights provision(s) which the agency has a responsibility to enforce. The referring agency shall give due weight to EEOC's determination that reasonable cause exists to believe that title VII has been violated.
+
+(b) If the referring agency determines that the recipient has violated any applicable civil rights provision(s) which the agency has a responsibility to enforce, the agency shall so notify the complainant and the recipient and determine whether further efforts to obtain voluntary compliance are warranted. In reaching that determination, the agency shall give due weight to the failure of EEOC's efforts to resolve the complaint by informal methods. If the referring agency determines that further efforts to obtain voluntary compliance are not warranted or if such further efforts fail, the agency shall initiate appropriate enforcement proceedings under its own regulations.
+
+(c) If the referring agency determines that the recipient has not violated any applicable civil rights provision(s) which the agency has a responsibility to enforce, the agency shall notify the complainant, the recipient, the Assistant Attorney General and the Chairman of the EEOC in writing of the basis of that determination.

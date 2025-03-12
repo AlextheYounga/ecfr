@@ -1,0 +1,3 @@
+##### § 42.307 Obligations of recipients. #####
+
+The obligation of those recipients subject to these guidelines for the maintenance of an equal employment opportunity program shall continue for the period during which the LEAA assistance is extended to a recipient or for the period during which a comprehensive law enforcement plan filed pursuant to the Safe Streets Act is in effect within the State, whichever is longer, unless the assurances of compliance, filed by a recipient in accordance with § 42.204(a)(2), specify a different period.

@@ -1,0 +1,3 @@
+##### § 901.1 Purpose and authority. #####
+
+The Compact Council is established pursuant to the National Crime Prevention and Privacy Compact (Compact), title 42, U.S.C., chapter 140, subchapter II, section 14616. The purpose of these provisions is to interpret the Compact, as it applies to the required submission of fingerprints, along with requests for Interstate Identification Index (III) records, by agencies authorized to access and receive criminal history records under Public Law 92-544, and to establish protocols and procedures applicable to the III and its use for noncriminal justice purposes.

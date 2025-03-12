@@ -1,0 +1,3 @@
+##### § 28.21 Purpose. #####
+
+Section 3600A of title 18 of the United States Code (“section 3600A”) requires the Government to preserve biological evidence that was secured in the investigation or prosecution of a Federal offense, if a defendant is under a sentence of imprisonment for such offense, subject to certain limitations and exceptions. The general purpose of this requirement is to preserve biological evidence for possible DNA testing under 18 U.S.C. 3600. Subsection (e) of section 3600A requires the Attorney General to promulgate regulations to implement and enforce section 3600A, including appropriate disciplinary sanctions to ensure that employees comply with such regulations.

@@ -1,0 +1,3 @@
+##### § 524.23 Program reviews. #####
+
+Staff shall conduct periodic reviews of the inmate's program plan and shall modify the plan in accordance with the level of progress shown. Each YCA inmate shall be afforded a review at least once each 90 days, and shall have a formal progress report prepared every year summarizing the inmate's level of achievement. If the inmate's program plan needs to be modified in light of the progress made, or the lack thereof, appropriate changes will be made and a revised program plan will be developed and documented. Staff shall ordinarily notify the inmate of the 90-day review at least 48 hours prior to the inmate's scheduled appearance before the Unit Team. An inmate may waive in writing the requirement of 48 hours notice.

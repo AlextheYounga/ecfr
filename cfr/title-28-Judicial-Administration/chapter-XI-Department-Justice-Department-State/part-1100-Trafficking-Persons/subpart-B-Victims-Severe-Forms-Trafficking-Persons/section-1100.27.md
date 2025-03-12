@@ -1,0 +1,17 @@
+##### § 1100.27 Purpose and scope. #####
+
+(a) Under section 107(c) of the TVPA, both the Department of Justice (DOJ) and the Department of State (DOS) have been directed to promulgate regulations to implement the following:
+
+(1) Procedures for appropriate federal employees to ensure, to the extent practicable, that victims of severe forms of trafficking in persons are housed in a manner appropriate to their status as crime victims, afforded proper medical care and other assistance, and protected while in federal custody, in accordance with their status as victims of severe forms of trafficking in persons;
+
+(2) Procedures to provide victims of severe forms of trafficking in persons with access to information about their rights and with translation services;
+
+(3) Procedures for federal law enforcement officials to request that certain victims of severe forms of trafficking in persons, who are aliens and are also potential witnesses, be permitted to remain in the United States to effectuate the prosecution of those responsible, and procedures to protect their safety, including taking measures to protect victims of severe forms of trafficking in persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates (these procedures should be appropriate to their status as victims of severe forms of trafficking in persons); and
+
+(4) Training of appropriate DOJ and DOS personnel in identifying victims of severe forms of trafficking in persons, in understanding the particular needs common to victims of severe forms of trafficking in persons, and in providing for the protection of such victims.
+
+(b) The regulations in this subpart apply to all federal law enforcement personnel, immigration officials and DOS officials, insofar as their duties involve investigating or prosecuting traffickers in persons, or may involve identifying, encountering or detaining victims of severe forms of trafficking in persons.
+
+(c) The rights and protections made available to victims of severe forms of trafficking in persons under section 107(c) supplement those rights and protections provided to victims and witnesses in federal victims' rights legislation as defined in this subpart. The intent of this subpart is to ensure that the protections available under the provisions of federal victims' rights legislation as well as the TVPA are fully provided to victims of severe forms of trafficking in persons, in keeping with their status as victims of severe forms of trafficking in persons. This subpart will ensure that these victims are identified as early as possible in the investigation and prosecution process, so that services and protections available to them under the laws of the United States are provided.
+
+(d) The regulations under this subpart set forth the general procedures to ensure these rights are protected in cases involving victims of severe forms of trafficking in persons. All agencies, bureaus, boards, divisions, programs, and offices in the DOJ and the DOS with specific responsibilities under this subpart shall adopt such regulations and/or operating procedures as may be necessary to ensure compliance with section 107(c) and the requirements of this subpart.

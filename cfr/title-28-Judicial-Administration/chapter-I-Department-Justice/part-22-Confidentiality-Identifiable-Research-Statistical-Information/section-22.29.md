@@ -1,0 +1,5 @@
+##### § 22.29 Sanctions. #####
+
+Where BJA, OJJDP, BJS, NIJ, or OJP believes that a violation of section 812(a) of the Act or section 1407(d) of the Victims of Crime Act, these regulations, or any grant or contract conditions entered into thereunder has occurred, it may initiate administrative actions leading to termination of a grant or contract, commence appropriate personnel and/or other procedures in cases involving Federal employees, and/or initiate appropriate legal actions leading to imposition of a civil penalty not to exceed $10,000 for a violation occurring before September 29, 1999, and not to exceed $11,000 for a violation occurring on or after September 29, 1999 against any person responsible for such violations. For civil penalties assessed after August 1, 2016, whose associated violations occurred after November 2, 2015, see the civil penalty amount as provided in 28 CFR 85.5.
+
+[Order No. 2249-99, 64 FR 47102, Aug. 30, 1999, as amended by AG Order 3690-2016, 81 FR 42499, June 30, 2016]

@@ -1,0 +1,3 @@
+##### § 91.53 Other guidance. #####
+
+The Department of Justice has also published NEPA procedures that incorporate the CEQ regulations at 28 CFR part 61. Additionally, the Office of Justice Programs' Corrections Program Office has prepared a handbook for VOI/TIS grantees, *Program Guidance on Environmental Protection Requirements.* This publication and other relevant documents can be found at *http://www.ojp.usdoj.gov/cpo.*

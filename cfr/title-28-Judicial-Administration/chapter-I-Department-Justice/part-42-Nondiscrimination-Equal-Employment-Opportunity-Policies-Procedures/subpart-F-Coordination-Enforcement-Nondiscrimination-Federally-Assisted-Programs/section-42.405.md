@@ -1,0 +1,11 @@
+##### § 42.405 Public dissemination of title VI information. #####
+
+(a) Federal agencies shall make available and, where appropriate, distribute their title VI regulations and guidelines for use by federal employees, applicants for federal assistance, recipients, beneficiaries and other interested persons.
+
+(b) State agency compliance programs (see § 42.410) shall be made available to the public.
+
+(c) Federal agencies shall require recipients, where feasible, to display prominently in reasonable numbers and places posters which state that the recipients operate programs subject to the nondiscrimination requirements of title VI, summarize those requirements, note the availability of title VI information from recipients and the federal agencies, and explain briefly the procedures for filing complaints. Federal agencies and recipients shall also include information on title VI requirements, complaint procedures and the rights of beneficiaries in handbooks, manuals, pamphlets and other material which are ordinarily distributed to the public to describe the federally assisted programs and the requirements for participation by recipients and beneficiaries. To the extent that recipients are required by law or regulation to publish or broadcast program information in the news media, federal agencies and recipients shall insure that such publications and broadcasts state that the program in question is an equal opportunity program or otherwise indicate that discrimination in the program is prohibited by federal law.
+
+(d)(1) Where a significant number or proportion of the population eligible to be served or likely to be directly affected by a federally assisted program (e.g., affected by relocation) needs service or information in a language other than English in order effectively to be informed of or to participate in the program, the recipient shall take reasonable steps, considering the scope of the program and the size and concentration of such population, to provide information in appropriate languages to such persons. This requirement applies with regard to written material of the type which is ordinarily distributed to the public.
+
+(2) Federal agencies shall also take reasonable steps to provide, in languages other than English, information regarding programs subject to title VI.

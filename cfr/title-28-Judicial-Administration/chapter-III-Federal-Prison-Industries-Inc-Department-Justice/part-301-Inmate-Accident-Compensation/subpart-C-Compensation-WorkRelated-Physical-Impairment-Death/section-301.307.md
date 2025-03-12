@@ -1,0 +1,5 @@
+##### § 301.307 Notice, time and place of committee action. #####
+
+(a) Committee action shall ordinarily occur within 60 days of the receipt of claimant's request, except as provided in this section. Notice of the date set for Committee action shall be mailed to the claimant at the claimant's last known address, or to claimant's duly appointed representative. All Committee action shall be conducted at the Central Office of the Bureau of Prisons, 320 First Street NW., Washington, DC 20534.
+
+(b) A hearing or reconsideration may be postponed at the option of the Committee, or, if good cause is shown, upon request of the claimant. A claimant may change the request from either hearing to reconsideration or reconsideration to hearing, provided notice of such change is received at least 10 days prior to the previously scheduled action.

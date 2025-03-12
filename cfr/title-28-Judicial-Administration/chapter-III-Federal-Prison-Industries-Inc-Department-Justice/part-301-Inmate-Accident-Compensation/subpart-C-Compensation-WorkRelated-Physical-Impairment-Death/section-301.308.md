@@ -1,0 +1,3 @@
+##### § 301.308 Committee reconsideration. #####
+
+If the claimant elects to have the Committee reconsider any decision of the Claims Examiner, the claimant may submit documentary evidence which the Committee shall consider in addition to the original record. The Committee must receive evidence no less than 10 days prior to the date of reconsideration, and may request additional documentary evidence from the claimant or any other source.

@@ -1,0 +1,3 @@
+##### § 527.30 Purpose and scope. #####
+
+The Bureau of Prisons will consider a request made on behalf of a state or local court that an inmate be transferred to the physical custody of state or local agents pursuant to state writ of habeas corpus *ad prosequendum* or *ad testificandum.* The Warden at the institution in which the inmate is confined is authorized to approve this transfer in accordance with the provisions of this rule.

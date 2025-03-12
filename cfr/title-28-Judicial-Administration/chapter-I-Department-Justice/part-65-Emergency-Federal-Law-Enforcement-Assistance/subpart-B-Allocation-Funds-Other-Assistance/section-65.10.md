@@ -1,0 +1,3 @@
+##### § 65.10 Fund availability. #####
+
+For the previous fiscal year (FY '85), $800,000 was appropriated for emergency Federal law enforcement assistance for the entire country. In FY '86, $1.5 million has been requested. The FY '86 request has not yet been appropriated and is not currently available. The form and extent of assistance provided will be determined by the nature and scope of the emergency presented; but, in any event, no fund award may exceed the amount ultimately appropriated.

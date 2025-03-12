@@ -1,0 +1,5 @@
+##### § 0.12 Young American Medals Committee. #####
+
+There shall be in the Office of the Attorney General a Young American Medals Committee, which shall be composed of four members, one of whom shall be the Director of Public Affairs who shall be the Executive Secretary of the Committee. The Chairman of the Committee shall be designated by the Attorney General. The Committee shall issue regulations relating to the establishment of the Young American Medal for Bravery and Young American Medal for Service provided for by the act of August 3, 1950, 64 Stat. 397, and governing the requirements and procedures for the award of such medals. The regulations of the Committee in effect on the effective date of this part shall continue in effect until amended, modified, or revoked by the Committee.
+
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969, as amended by Order No. 445-70, 35 FR 19397, Dec. 23, 1970. Redesignated by Order No. 543-73, 38 FR 29583, Oct. 26, 1973, as amended by Order No. 960-81, 46 FR 52340, Oct. 27, 1981]

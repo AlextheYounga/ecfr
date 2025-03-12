@@ -1,0 +1,5 @@
+##### § 65.80 General. #####
+
+The regulations of this subpart set forth procedures for implementing section 404(b) of the Immigration and Nationality Act (“INA”), 8 U.S.C. 1101 note, by providing for Presidential determinations of the existence of an immigration emergency, and for payments from the Immigration Emergency Fund or other funding available for such purposes, to State and local governments for assistance provided in meeting an immigration emergency. The regulations of this subpart also establish procedures by which the Attorney General may draw upon the Immigration Emergency Fund, without a Presidential determination that an immigration emergency exists, to provide funding to State and local governments for assistance provided as required by the Attorney General in certain specified circumstances.
+
+[Order No. 1892-94, 59 FR 30522, June 14, 1994, as amended by Order No. 2601-2002, 67 FR 48359, July 24, 2002]

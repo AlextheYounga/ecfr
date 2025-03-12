@@ -1,0 +1,3 @@
+##### § 0.121 Applicability of existing departmental regulations. #####
+
+Unless superseded by regulations promulgated by the Office of Community Oriented Policing Services, Departmental regulations set forth in part 18 of this title, applicable to grant programs administered through the Office of Justice Programs, shall apply with equal force and effect to grant programs administered by the Office of Community Oriented Policing Services, with references to the Office of Justice Programs and its components in such regulations deemed to refer to the Office of Community Oriented Policing Services, as appropriate.

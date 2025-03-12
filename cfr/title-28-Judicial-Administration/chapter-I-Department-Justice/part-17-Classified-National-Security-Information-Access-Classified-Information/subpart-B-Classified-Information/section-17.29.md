@@ -1,0 +1,3 @@
+##### § 17.29 Documents of permanent historical value. #####
+
+The original classification authority, to the greatest extent possible, shall declassify classified information contained in records determined to have permanent historical value under title 44 of the United States Code before they are accessioned into the National Archives. The Department shall cooperate with the National Archives and Records Administration in carrying out an automatic declassification program involving accessioned Department records, presidential papers, and historical materials under the control of the Archivist of the United States.

@@ -1,0 +1,11 @@
+##### § 31.302 Applicant State agency. #####
+
+(a) Pursuant to section 223(a)(1), section 223(a)(2) and section 299(c) of the JJDP Act, the State must assure that the State agency approved under section 299(c) has been designated as the sole agency for supervising the preparation and administration of the plan and has the authority to implement the plan.
+
+(b) *Advisory group.* Pursuant to section 223(a)(3) of the JJDP Act, the Chief Executive:
+
+(1) Shall establish an advisory group pursuant to section 223(a)(3) of the JJDP Act. The State shall provide a list of all current advisory group members, indicating their respective dates of appointment and how each member meets the membership requirements specified in this section of the Act.
+
+(2) Should consider, in meeting the statutory membership requirements of section 223(A)(3) (A)-(E), appointing at least one member who represents each of the following: A locally elected official representing general purpose local government; a law enforcement officer; representatives of juvenile justice agencies, including a juvenile or family court judge, a probation officer, a prosecutor, and a person who routinely provides legal representation to youth in juvenile court; a public agency representative concerned with delinquency prevention and treatment; a representative from a private, non-profit organization, such as a parents group, concerned with teenage drug and alcohol abuse; a high school principal; a recreation director; a volunteer who works with delinquent or at risk youth; a person with a special focus on the family; a youth worker experienced with programs that offer alternatives to incarceration; persons with special competence in addressing programs of school violence and vandalism and alternatives to expulsion and suspension; and persons with knowledge concerning learning disabilities, child abuse, neglect, and youth violence.
+
+(c) The State shall assure that it complies with the Advisory Group financial support requirement of section 222(d) and the composition and function requirements of section 223(a)(3) of the JJDP Act.

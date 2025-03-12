@@ -1,0 +1,3 @@
+##### § 550.30 Purpose and scope. #####
+
+The Warden shall establish programs of urine testing for drug use, to monitor specific groups or individual inmates who are considered as high risk for drug use, such as those involved in community activities, those with a history of drug use, and those inmates specifically suspected of drug use. Testing shall be performed with frequency determined by the Warden on at least 50 percent of those inmates who are involved in community activities. In addition, staff shall randomly sample each institution's inmate population during each month to test for drug use.

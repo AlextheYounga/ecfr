@@ -1,0 +1,9 @@
+##### § 50.7 Consent judgments in actions to enjoin discharges of pollutants. #####
+
+(a) It is hereby established as the policy of the Department of Justice to consent to a proposed judgment in an action to enjoin discharges of pollutants into the environment only after or on condition that an opportunity is afforded persons (natural or corporate) who are not named as parties to the action to comment on the proposed judgment prior to its entry by the court.
+
+(b) To effectuate this policy, each proposed judgment which is within the scope of paragraph (a) of this section shall be lodged with the court as early as feasible but at least 30 days before the judgment is entered by the court. Prior to entry of the judgment, or some earlier specified date, the Department of Justice will receive and consider, and file with the court, any written comments, views or allegations relating to the proposed judgment. The Department shall reserve the right (1) to withdraw or withhold its consent to the proposed judgment if the comments, views and allegations concerning the judgment disclose facts or considerations which indicate that the proposed judgment is inappropriate, improper or inadequate and (2) to oppose an attempt by any person to intervene in the action.
+
+(c) The Assistant Attorney General in charge of the Land and Natural Resources Division may establish procedures for implementing this policy. Where it is clear that the public interest in the policy hereby established is not compromised, the Assistant Attorney General may permit an exception to this policy in a specific case where extraordinary circumstances require a period shorter than 30 days or a procedure other than stated herein.
+
+[Order No. 529-73, 38 FR 19029, July 17, 1973]

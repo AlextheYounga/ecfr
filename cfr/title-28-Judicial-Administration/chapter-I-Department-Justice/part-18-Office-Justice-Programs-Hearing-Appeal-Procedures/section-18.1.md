@@ -1,0 +1,3 @@
+##### § 18.1 Purpose. #####
+
+The purpose of this regulation is to implement the hearing and appeal procedures available to State block or formula grant applicants or recipients and existing categorical grantees under sections 802 through 804 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as amended (Crime Control Act); sections 223(d), 226 and 228(e) of the Juvenile Justice and Delinquency Prevention Act of 1974, as amended (Juvenile Justice Act); and section 1407(F) of the Victims of Crime Act of 1984 (Victims of Crime Act).

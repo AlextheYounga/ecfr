@@ -1,0 +1,3 @@
+##### § 55.16 Standards and proof of compliance. #####
+
+Compliance with the requirements of section 4(f)(4) and section 203(c) is best measured by results. A jurisdiction is more likely to achieve compliance with these requirements if it has worked with the cooperation of and to the satisfaction of organizations representing members of the applicable language minority group. In planning its compliance with section 4(f)(4) or section 203(c), a jurisdiction may, where alternative methods of compliance are available, use less costly methods if they are equivalent to more costly methods in their effectiveness.

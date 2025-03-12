@@ -1,0 +1,3 @@
+##### § 527.44 Request for transfer to country of which inmate is a citizen or national. #####
+
+An inmate who is eligible for and desires to transfer to the country of which the inmate is a citizen or national for service of a sentence imposed in a United States Court must indicate the inmate's interest by completing and signing the appropriate form and giving it to Bureau staff for further processing.

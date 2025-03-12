@@ -1,0 +1,3 @@
+##### § 1.7 Notification of grant of clemency. #####
+
+When a petition for pardon is granted, the petitioner or his or her attorney shall be notified of such action and the warrant of pardon shall be mailed to the petitioner. When commutation of sentence is granted, the petitioner shall be notified of such action and the warrant of a commutation shall be sent to the petitioner through the officer in charge of his or her place of confinement, or directly to the petitioner if he/she is on parole, probation, or supervised release.

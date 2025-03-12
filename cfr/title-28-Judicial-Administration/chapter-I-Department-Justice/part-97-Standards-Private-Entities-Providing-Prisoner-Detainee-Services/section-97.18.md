@@ -1,0 +1,3 @@
+##### § 97.18 Notification of local law enforcement prior to scheduled stops. #####
+
+When transporting violent prisoners, private prisoner transport companies are required to notify local law enforcement officials 24 hours in advance of any scheduled stops in their jurisdiction. For the purposes of this part, a scheduled stop is defined as a predetermined stop at a State, local, or private correctional facility for the purpose of loading or unloading prisoners or using such facilities for overnight, meal, or restroom breaks. Scheduled stops do not include routine fuel stops or emergency stops.

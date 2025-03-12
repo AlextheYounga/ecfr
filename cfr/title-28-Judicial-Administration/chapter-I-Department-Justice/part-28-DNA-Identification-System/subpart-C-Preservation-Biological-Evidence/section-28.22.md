@@ -1,0 +1,15 @@
+##### § 28.22 The requirement to preserve biological evidence. #####
+
+(a) *Applicability in general.* The requirement of section 3600A to preserve biological evidence applies to evidence that has been retained in cases in which the offense or conviction occurred prior to the enactment of section 3600A or the adoption of this subpart, as well as to evidence secured in pending and future cases.
+
+(b) *Limitation to circumstances in which a defendant is under a sentence of imprisonment for the offense.* The requirement of section 3600A to preserve biological evidence secured in the investigation or prosecution of a Federal offense begins to apply when a defendant is convicted and sentenced to imprisonment for the offense, and ceases to apply when the defendant or defendants are released following such imprisonment. The evidence preservation requirement of section 3600A does not apply in the following situations:
+
+(1) *Inapplicability at the investigative stage.* The requirement of section 3600A to preserve biological evidence does not apply at the investigative stage of criminal cases, occurring prior to the conviction and sentencing to imprisonment of a defendant. Biological evidence may be collected and preserved in the investigation of Federal offenses prior to the sentencing of a defendant to imprisonment, reflecting sound investigative practice and the need for evidence in trial proceedings that may result from the investigation, but section 3600A does not govern these activities.
+
+(2) *Inapplicability to cases involving only non-incarcerative sentences.* The requirement of section 3600A to preserve biological evidence does not apply in cases in which defendants receive only nonincarcerative sentences, such as probation, fines, or payment of restitution.
+
+(3) *Inapplicability following release.* The requirement of section 3600A to preserve biological evidence ceases to apply when the defendant or defendants are released following imprisonment, either unconditionally or under supervision. The requirement does not apply during any period following the release of the defendant or defendants from imprisonment, even if the defendant or defendants remain on supervised release or parole.
+
+(4) *Inapplicability following revocation of release.* The requirement of section 3600A to preserve biological evidence applies during a defendant's imprisonment pursuant to the sentence imposed upon conviction of the offense, as opposed to later imprisonment resulting from a violation of release conditions. The requirement does not apply during any period in which the defendant or defendants are imprisoned based on the revocation of probation, supervised release, or parole.
+
+(c) *Conditions of preservation.* The requirement of section 3600A to preserve biological evidence means that such evidence cannot be destroyed or disposed of under the circumstances in which section 3600A requires its preservation, but does not limit agency discretion concerning the conditions under which biological evidence is maintained or the transfer of biological evidence among different agencies.

@@ -1,0 +1,9 @@
+##### § 2.27 Petition for reconsideration of original jurisdiction decisions. #####
+
+(a) A petition for reconsideration may be filed with the Commission in a case decided under the procedure specified in § 2.17 within thirty days of the date of such decision. A form is provided for this purpose. A petition for reconsideration will be reviewed at the next regularly scheduled meeting of the Commission provided the petition is received thirty days in advance of such meeting. A petition received by the Commission less than thirty days in advance of a regularly scheduled meeting will be reviewed at the next regularly scheduled meeting. The previous decision made under § 2.17 may be modified or reversed only by a majority vote of the Commissioners holding office at the time of the review of the petition. If a majority vote is not obtained, the previous decision shall stand. A decision under this rule shall be final.
+
+(b) Attorneys, relatives, and other interested parties who wish to submit written information concerning a petition for reconsideration should send such information to the National Appeals Board, United States Parole Commission, 5550 Friendship Boulevard, Chevy Chase, Maryland 20815. Petitions and all supporting material are to be submitted thirty days in advance of the meeting at which such petitions will be considered.
+
+(c) If no petition for reconsideration is filed within 30 days of the entry of a decision under § 2.17, that decision shall stand as the final decision of the Commission.
+
+[61 FR 13763, Mar. 28, 1996, as amended at 61 FR 55743, Oct. 29, 1996; 68 FR 41530, July 14, 2003]

@@ -1,0 +1,5 @@
+##### § 0.148 Certifying officers. #####
+
+The Director of the Federal Bureau of Investigation, the Director of the Bureau of Prisons, the Commissioner of the Federal Prison Industries, Inc., the Commissioner of the Immigration and Naturalization Service, the Administrator of the Drug Enforcement Administration, the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Assistant Attorney General for the Office of Justice Programs, the Director of the United States Marshals Service, and the Director of the Executive Office for United States Attorneys, as to their respective jurisdictions, and the Assistant Attorney General for Administration, as to all other organizational units of the Department are authorized to designate employees to certify vouchers.
+
+[Order No. 1142-86, 51 FR 25049, July 10, 1986, as amended by Order No. 2650-2003, 68 FR 4928, Jan. 31, 2003]

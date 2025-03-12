@@ -1,0 +1,3 @@
+##### § 548.17 Work assignments. #####
+
+When the religious tenets of an inmate's faith are violated or jeopardized by a particular work assignment, a different work assignment ordinarily shall be made after it is requested in writing by the inmate, and the specific religious tenets have been verified by the chaplain. Maintaining security, safety, and good order in the institution are grounds for denial of such request for a different work assignment.

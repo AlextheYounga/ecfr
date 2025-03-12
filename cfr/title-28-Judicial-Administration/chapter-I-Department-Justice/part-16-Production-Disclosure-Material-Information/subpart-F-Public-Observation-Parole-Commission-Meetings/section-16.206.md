@@ -1,0 +1,9 @@
+##### § 16.206 Transcripts, minutes, and miscellaneous documents concerning Commission meetings. #####
+
+(a) In the case of any Commission meeting, whether open or closed, the Commission shall maintain and make available for public inspection a record of the final vote of each member on rules, statements of policy, and interpretations adopted by it: 18 U.S.C. 4203(d).
+
+(b) The Commission shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting, or portion of a meeting, closed to the public pursuant to § 16.203. In the case of a meeting, or portion of a meeting, closed to the public pursuant to § 16.205 of these regulations, the Commission may maintain either the transcript or recording described above, or a set of minutes unless a recording is required by title 18 U.S.C. 4208(f). The minutes required by this section shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any rollcall vote (reflecting the vote of each Commissioner on the question). All documents considered in connection with any action shall be identified in such minutes.
+
+(c) The Commission shall retain a copy of every certification executed by the General Counsel's Office pursuant to these regulations, together with a statement from the presiding officer of the meeting, or portion of a meeting to which the certification applies, setting forth the time and place of the meeting, and the persons present.
+
+(d) Nothing herein shall affect any other provision in Commission procedures or regulations requiring the preparation and maintenance of a record of all official actions of the Commission.

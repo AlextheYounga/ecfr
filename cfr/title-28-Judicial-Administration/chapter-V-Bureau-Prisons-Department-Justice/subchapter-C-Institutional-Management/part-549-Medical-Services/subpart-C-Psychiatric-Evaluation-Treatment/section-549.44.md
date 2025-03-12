@@ -1,0 +1,7 @@
+##### § 549.44 Voluntary hospitalization in a suitable facility for psychiatric care or treatment, and voluntary administration of psychiatric medication. #####
+
+(a) *Hospitalization.* An inmate may be hospitalized in a suitable facility for psychiatric care or treatment after providing informed and voluntary consent when, in the professional medical judgment of qualified health services staff, such care or treatment is required and prescribed.
+
+(b) *Psychiatric medication.* An inmate may also provide informed and voluntary consent to the administration of psychiatric medication that complies with the requirements of § 549.42 of this subpart.
+
+(c) *Voluntary consent.* An inmate's ability to provide informed and voluntary consent for both hospitalization in a suitable facility for psychiatric care or treatment, and administration of psychiatric medications, will be assessed by qualified health services staff and documented in the inmate's medical record. Additionally, the inmate must sign a consent form to accept hospitalization in a suitable facility for psychiatric care or treatment and the administration of psychiatric medications. These forms will be maintained in the inmate's medical record.

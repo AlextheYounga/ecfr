@@ -1,0 +1,3 @@
+##### § 37.3 Exchange of information. #####
+
+The EEOC, section 504 agencies, and designated agencies shall share any information relating to the employment policies and practices of a respondent that may assist each agency in carrying out its responsibilities, to the extent permissible by law. Such information shall include, but is not limited to, complaints, charges, investigative files, compliance review reports and files, affirmative action programs, and annual employment reports.

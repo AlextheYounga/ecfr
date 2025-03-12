@@ -1,0 +1,15 @@
+##### § 802.5 Freedom of Information Act requests. #####
+
+(a) *Submission, processing, and release procedures.* (1) Requests for any record (including policy) ordinarily will be processed pursuant to the Freedom of Information Act, 5 U.S.C. 552. Your request must be made in writing and addressed to the FOIA Officer, Office of the General Counsel, Court Services and Offender Supervision Agency, 633 Indiana Avenue, NW., Washington, DC 20004. The requester should clearly mark on the face of the letter and the envelope “Freedom of Information Request.”
+
+(2) Your request will be considered received as of the date it is received by the FOIA Office. For quickest possible handling, you should mark both your request letter and the envelope “Freedom of Information Act Request.”
+
+(3) Generally, all FOIA requests will be processed in the approximate order of receipt, unless the requester shows exceptional circumstances exist to justify an expedited response (*see* § 802.8).
+
+(4) You must state in your request a firm agreement to pay the fees for search, duplication, and review as may ultimately be determined. The agreement may state the upper limit (but not less than $25) that the requester is willing to pay for processing the request. A request that fees be waived or reduced may accompany the agreement to pay fees and will be considered to the extent that such request is made in accordance with § 802.4(b) and provides supporting information to be measured against the fee waiver standard set forth in § 802.9(g). The requester shall be notified in writing of the decision to grant or deny the fee waiver. If a requester has an outstanding balance of search, review, or duplication fees due for FOIA request processing, the requirements of this paragraph are not met until the requester has remitted the outstanding balance due.
+
+(b) *Description of records sought.* You must describe the records that you seek in enough detail to enable Agency personnel to locate them with a reasonable amount of effort. Whenever possible, your request should include specific information about each record sought, such as the date, title or name, author, recipient and subject matter of the record. As a general rule, the more specific you are about the records or type of records that you want, the more likely the Agency will be able to locate the records in response to your request. If a determination is made that your request does not reasonably describe records, the Agency will tell you either what additional information is needed or why your request is otherwise insufficient. You will be given the opportunity to discuss your request so that you may modify it to meet the requirements of this section.
+
+(1) If a document contains information exempt from disclosure, any reasonably segregable portion of the record will be provided to you after deletion of the exempt portions.
+
+(2) You will be notified of the decision on the request within 20 days after its receipt (excluding Saturdays, Sundays, and legal public holidays).

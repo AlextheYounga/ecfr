@@ -1,0 +1,3 @@
+##### § 20.34 Individual's right to access criminal history record information. #####
+
+The procedures by which an individual may obtain a copy of his or her identification record from the FBI to review and request any change, correction, or update are set forth in §§ 16.30-16.34 of this chapter. The procedures by which an individual may obtain a copy of his or her identification record from a state or local criminal justice agency are set forth in § 20.34 of the appendix to this part.

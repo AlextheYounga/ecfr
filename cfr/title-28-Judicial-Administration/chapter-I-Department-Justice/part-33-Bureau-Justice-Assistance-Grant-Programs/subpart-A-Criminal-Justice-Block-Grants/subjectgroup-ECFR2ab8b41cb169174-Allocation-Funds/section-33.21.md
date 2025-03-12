@@ -1,0 +1,5 @@
+##### § 33.21 Match. #####
+
+(a) Funds may be used to pay up to 50 percent of the cost of a program or project. Section 403(b)(1) of the Act. The remaining non-Federal share shall be in cash. Section 403(b)(2) of the Act. Match will be provided on a project by project basis. However, states may request the Bureau to approve exceptions such as match on a program by program basis, state-wide basis, unit-of-government basis, or a combination of the above. States must include any requests for approval of other than project-by-project match in their applications to the Bureau.
+
+(b) Funds subgranted to an Indian tribe which performs law enforcement functions (as determined by the Secretary of the Interior) shall be used to pay 100 percent of the cost of a program or project. Section 403(b)(1) of the Act.

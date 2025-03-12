@@ -1,0 +1,3 @@
+##### § 301.312 Notice of committee determination. #####
+
+The Committee shall mail written notice of its decision to affirm, reverse, or amend the Claims Examiner's initial determination, with the reasons for its decision, to the claimant at the claimant's last known address, or to claimant's duly appointed representative, no later than 30 days after the date of the hearing unless the Committee needs to make a further investigation as a result of information received at the hearing. If the Committee conducts further investigation subsequent to the hearing, the decision notice shall be mailed no later than 30 days after the conclusion of the Committee's investigation.

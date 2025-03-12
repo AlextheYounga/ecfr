@@ -1,0 +1,3 @@
+##### § 31.401 Compliance with other Federal laws, orders, circulars. #####
+
+The applicant State must further assure and certify that the State and its subgrantees and contractors will adhere to other applicable Federal laws, orders and OMB circulars. These general Federal laws and regulations are described in greater detail in the Financial and Administrative Guide for Grants, M7100.1, and the Formula Grant Application Kit.

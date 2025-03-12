@@ -1,0 +1,3 @@
+##### § 73.4 Partial compliance not deemed compliance. #####
+
+The fact that a notification has been filed shall not necessarily be deemed full compliance with 18 U.S.C. 951 or these regulations on the part of the agent; nor shall it indicate that the Attorney General has in any way passed on the merits of such notification or the legality of the agent's activities; nor shall it preclude prosecution, as provided for in 18 U.S.C. 951, for failure to file a notification when due, or for a false statement of a material fact therein, or for an omission of a material fact required to be stated therein.

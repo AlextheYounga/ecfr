@@ -1,0 +1,13 @@
+##### § 540.45 Qualification as special visitor. #####
+
+Persons in the categories listed in this section may qualify as special visitors rather than as regular visitors. Visits by special visitors ordinarily are for a specific purpose and ordinarily are not of a recurring nature. Except as specified, the conditions of visiting for special visitors are the same as for regular visitors.
+
+(a) *Business visitor.* Except for pretrial inmates, an inmate is not permitted to engage actively in a business or profession. An inmate who was engaged in a business or profession prior to commitment is expected to assign authority for the operation of such business or profession to a person in the community. Pretrial inmates may be allowed special visitors for the purpose of protecting the pretrial inmate's business interests. In those instances where an inmate has turned over the operation of a business or profession to another person, there still may be an occasion where a decision must be made which will substantially affect the assets or prospects of the business. The Warden accordingly may permit a special business visit in such cases. The Warden may waive the requirement for the existence of an established relationship prior to confinement for visitors approved under this paragraph.
+
+(b) *Consular visitors.* When it has been determined that an inmate is a citizen of a foreign country, the Warden must permit the consular representative of that country to visit on matters of legitimate business. The Warden may not withhold this privilege even though the inmate is in disciplinary status. The requirement for the existence of an established relationship prior to confinement does not apply to consular visitors.
+
+(c) *Representatives of community groups.* The Warden may approve visits on a recurring basis to representatives from community groups (for example, civic, volunteer, or religious organizations) who are acting in their official capacity. These visits may be for the purpose of meeting with an individual inmate or with a group of inmates. The requirement for the existence of an established relationship prior to confinement for visitors does not apply to representatives of community groups.
+
+(d) *Clergy, former or prospective employers, sponsors, and parole advisors.* Visitors in this category ordinarily provide assistance in release planning, counseling, and discussion of family problems. The requirement for the existence of an established relationship prior to confinement for visitors does not apply to visitors in this category.
+
+[68 FR 10658, Mar. 6, 2003]

@@ -1,0 +1,5 @@
+##### § 0.96b Exchange of prisoners. #####
+
+The Director of the Bureau of Prisons and officers of the Bureau of Prisons designated by him are authorized to receive custody of offenders and to transfer offenders to and from the United States of America under a treaty as referred to in Public Law 95-144; to make arrangements with the States and to receive offenders from the States for transfer to a foreign country; to act as an agent of the United States to receive the delivery from a foreign government of any person being transferred to the United States under such a treaty; to render to foreign countries and to receive from them certifications and reports required under a treaty; and to receive custody and carry out the sentence of imprisonment of such a transferred offender as required by that statute and any such treaty.
+
+[Order No. 758-77, 42 FR 63139, Dec. 15, 1977]

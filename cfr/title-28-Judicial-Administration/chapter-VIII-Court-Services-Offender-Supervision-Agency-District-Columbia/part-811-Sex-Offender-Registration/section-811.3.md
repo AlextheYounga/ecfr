@@ -1,0 +1,5 @@
+##### § 811.3 Notice of obligation to register. #####
+
+(a) Sex offenders may be notified of their obligation to register under various provisions of law. See sections 4, 6 and 8 of the Sex Offender Registration Act of 1999 (D.C. Official Code sections 22-4003, 4005, 4007) (relating to notice by the District of Columbia Superior Court, Department of Corrections, or CSOSA); 18 U.S.C. 4042(c) (relating to notice by Federal Bureau of Prisons and probation offices); 18 U.S.C. 3563(a)(8), 3583(d), 4209(a) (inclusion of registration requirements as conditions of release under federal law); 42 U.S.C. 14071(b)(1) (notice under federal law standards for state sex offender registration programs).
+
+(b) In some cases, sex offenders may not be notified of their obligation to register. Lack of notice does not excuse a failure to register because sex offenders have an independent obligation to register. Persons who have been convicted or found not guilty by reason of insanity of a sex offense or who have been determined to be a sexual psychopath should report to CSOSA in order to ascertain whether they are required to register.

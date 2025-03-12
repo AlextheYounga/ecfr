@@ -1,0 +1,11 @@
+##### § 79.23 Proof of physical presence for the requisite period. #####
+
+(a) Proof of physical presence for the requisite period may be made in accordance with the provisions of § 79.13(a) and (b). An individual who resided or was employed on a full-time basis within the affected area is presumed to have been physically present during the time period of residence or full-time employment.
+
+(b) For purposes of establishing eligibility under § 79.22(a)(1), the Program will presume that proof of residence at one or more addresses or proof of full-time employment at one location within the affected area on any two dates less than three years apart, during the period beginning on January 21, 1951, and ending on October 31, 1958, establishes the claimant's presence within the affected area for the period between the two dates reflected in the documentation submitted as proof of presence.
+
+(c) For purposes of establishing eligibility under § 79.22(a)(1), the Program will presume that proof of residence at one or more addresses or proof of full-time employment at one location within the affected area on two dates, one of which is before January 21, 1951, and another of which is within the specified time period, establishes the claimant's presence in the affected area between January 21, 1951, and the date within the specified time period, provided the dates are not more than three years apart.
+
+(d) For purposes of establishing eligibility under § 79.22(a)(1), the Program will presume that proof of residence at one or more addresses or proof of full-time employment at one location within the affected area on two dates, one of which is after October 31, 1958, and another of which is within the specified time period, establishes the claimant's presence in the affected area between the date within the specified time period and October 31, 1958, provided the dates are not more than three years apart.
+
+(e) For purposes of establishing eligibility under § 79.22(a)(2), the Program will apply the presumptions contained in § 79.13(g) and (h).

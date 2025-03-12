@@ -1,0 +1,3 @@
+##### § 550.44 Procedures for arranging drug counseling. #####
+
+The contract center staff shall hold a program planning conference with a sentenced inmate who has drug aftercare as a condition of release. At this meeting, held within one week of the inmate's arrival at the center, plans are made for the inmate to receive drug counseling. The meeting is attended by center staff, the inmate, and the Chief U.S. Probation Officer or designee.

@@ -1,0 +1,7 @@
+##### § 8.13 Return of property pursuant to 18 U.S.C. 983(a)(3)(B). #####
+
+(a) If, under 18 U.S.C. 983(a)(3), the United States is required to return seized property, the U.S. Attorney in charge of the matter shall immediately notify the appropriate seizing agency that the 90-day deadline was not met. Under this subsection, the United States is not required to return property for which it has an independent basis for continued custody, including but not limited to contraband or evidence of a violation of law.
+
+(b) Upon becoming aware that the seized property must be released, the agency shall promptly notify the person with a right to immediate possession of the property, informing that person to contact the property custodian within a specified period for release of the property, and further informing that person that failure to contact the property custodian within the specified period for release of the property may result in initiation of abandonment proceedings against the property pursuant to 41 CFR part 128-48. The seizing agency shall notify the property custodian of the identity of the person to whom the property should be released.
+
+(c) The property custodian shall have the right to require presentation of proper identification and to verify the identity of the person who seeks the release of property.

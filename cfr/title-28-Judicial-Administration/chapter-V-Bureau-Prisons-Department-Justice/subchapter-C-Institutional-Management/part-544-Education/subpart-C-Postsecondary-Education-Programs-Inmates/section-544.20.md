@@ -1,0 +1,3 @@
+##### § 544.20 Purpose and scope. #####
+
+The Bureau of Prisons offers inmates the opportunity under its postsecondary education program to participate in postsecondary education courses (courses for college credit other than those courses which pertain to occupational education programs) which have been determined to be appropriate in light of the institution's need for discipline, security, and good order. Participation in postsecondary education courses which are part of occupational education programs is governed by the provisions of the Bureau's occupational education program (see subpart F of this part).

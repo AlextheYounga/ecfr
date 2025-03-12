@@ -1,0 +1,3 @@
+##### § 700.19 Preservation of records. #####
+
+The Office shall preserve all correspondence relating to the requests it receives under this subpart, and all records processed pursuant to such requests, until such time as the destruction of such correspondence and records is authorized pursuant to title 44 of the U.S. Code. Under no circumstances shall records be destroyed while they are the subject of a pending request for access, appeal, or lawsuit under the Act.

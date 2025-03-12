@@ -1,0 +1,5 @@
+##### § 0.64-1 Central or Competent Authority under treaties and executive agreements on mutual assistance in criminal matters. #####
+
+The Assistant Attorney General, Criminal Division, in consultation with the Assistant Attorney General for National Security in matters related to the National Security Division's activities, shall have the authority and perform the functions of the “Central Authority” or “Competent Authority” (or like designation) under treaties and executive agreements between the United States of America and other countries on mutual assistance in criminal matters that designate the Attorney General or the Department of Justice as such authority. The Assistant Attorney General, Criminal Division, is authorized to re-delegate this authority to the Deputy Assistant Attorneys General, Criminal Division, and to the Director and Deputy Directors of the Office of International Affairs, Criminal Division.
+
+[Order No. 2865-2007, 72 FR 10065, Mar. 7, 2007]

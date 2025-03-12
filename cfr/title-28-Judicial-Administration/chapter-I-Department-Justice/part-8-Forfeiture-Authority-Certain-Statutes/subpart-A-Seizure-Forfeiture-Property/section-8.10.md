@@ -1,0 +1,21 @@
+##### § 8.10 Claims. #####
+
+(a) *Filing.* In order to contest the forfeiture of seized property in federal court, any person asserting an interest in seized property subject to an administrative forfeiture proceeding under the regulations in this part must file a claim with the appropriate official, after the commencement of the administrative forfeiture proceeding as defined in § 8.8, and not later than the deadline set forth in a personal notice letter sent pursuant to § 8.9(b). If personal written notice is sent but not received, then the intended recipient must file a claim with the appropriate official not later than 30 days after the date of the final publication of the notice of seizure.
+
+(b) *Contents of claim.* A claim shall:
+
+(1) Identify the specific property being claimed;
+
+(2) Identify the claimant and state the claimant's interest in the property; and
+
+(3) Be made under oath by the claimant, not counsel for the claimant, and recite that it is made under penalty of perjury, consistent with the requirements of 28 U.S.C. 1746. An acknowledgment, attestation, or certification by a notary public alone is insufficient.
+
+(c) *Availability of claim forms.* The claim need not be made in any particular form. However, each seizing agency conducting forfeitures under the regulations in this part must make claim forms generally available on request. Such forms shall be written in easily understandable language. A request for a claim form does not extend the deadline for filing a claim. Any person may obtain a claim form by requesting one in writing from the appropriate official.
+
+(d) *Cost bond not required.* Any person may file a claim under § 8.10(a) without posting bond, except in forfeitures under statutes listed in 18 U.S.C. 983(i).
+
+(e) *Referral of claim.* Upon receipt of a claim that meets the requirements of §§ 8.10(a) and (b), the seizing agency shall return the property or shall suspend the administrative forfeiture proceeding and promptly transmit the claim, together with a description of the property and a complete statement of the facts and circumstances surrounding the seizure, to the appropriate U.S. Attorney for commencement of judicial forfeiture proceedings. Upon making the determination that the seized property will be released, the agency shall promptly notify the person with a right to immediate possession of the property, informing that person to contact the property custodian within a specified period for release of the property, and further informing that person that failure to contact the property custodian within the specified period for release of the property will result in abandonment of the property pursuant to applicable regulations. The seizing agency shall notify the property custodian of the identity of the person to whom the property should be released. The property custodian shall have the right to require presentation of proper identification or to take other steps to verify the identity of the person who seeks the release of property, or both.
+
+(f) *Premature filing.* If a claim is filed with the appropriate official after the seizure of property, but before the commencement of the administrative forfeiture proceeding as defined in § 8.8, the claim shall be deemed filed on the 30th day after the commencement of the administrative forfeiture proceeding. If such claim meets the requirements of § 8.10(b), the seizing agency shall suspend the administrative forfeiture proceedings and promptly transmit the claim, together with a description of the property and a complete statement of the facts and circumstances surrounding the seizure to the appropriate U.S. Attorney for commencement of judicial forfeiture proceedings.
+
+(g) *Defective claims.* If the seizing agency determines that an otherwise timely claim does not meet the requirements of § 8.10(b), the seizing agency may notify the claimant of this determination and allow the claimant a reasonable time to cure the defect(s) in the claim. If, within the time allowed by the seizing agency, the requirements of § 8.10(b) are not met, the claim shall be void and the forfeiture proceedings shall proceed as if no claim had been submitted. If the claimant timely cures the deficiency, then the claim shall be deemed filed on the date when the appropriate official receives the cured claim.

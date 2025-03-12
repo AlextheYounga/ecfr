@@ -1,0 +1,5 @@
+##### § 68.1 Scope of rules. #####
+
+The rules of practice in this part are applicable to adjudicatory proceedings before Administrative Law Judges of the Executive Office for Immigration Review, United States Department of Justice, with regard to unlawful employment cases under section 274A of the INA, unfair immigration-related employment practice cases under section 274B of the INA, and document fraud cases under section 274C of the INA. Such proceedings shall be conducted expeditiously, and the parties shall make every effort at each stage of a proceeding to avoid delay. To the extent that these rules may be inconsistent with a rule of special application as provided by statute, executive order, or regulation, the latter is controlling. The Federal Rules of Civil Procedure may be used as a general guideline in any situation not provided for or controlled by these rules, by the Administrative Procedure Act, or by any other applicable statute, executive order, or regulation.
+
+[Order No. 2203-99, 64 FR 7073, Feb. 12, 1999]

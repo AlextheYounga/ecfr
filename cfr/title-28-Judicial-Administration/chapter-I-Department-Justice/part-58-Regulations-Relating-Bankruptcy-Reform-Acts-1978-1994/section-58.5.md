@@ -1,0 +1,5 @@
+##### § 58.5 Non-discrimination in appointment. #####
+
+The U.S. Trustees shall not discriminate on the basis of race, color, religion, sex, national origin or age in appointments to the private panel of trustees or of standing trustees and in this regard shall assure equal opportunity for all appointees and applicants for appointment to the private panel of trustees or as standing trustee. Each U.S. Trustee shall be guided by the policies and requirements of Executive Order 11478 of August 8, 1969, relating to equal employment opportunity in the Federal Government, section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e-16), section 15 of the Age Discrimination in Employment Act of 1967, as amended (29 U.S.C. 633a), and the regulations of the Office of Personnel Management relating to equal employment opportunity (5 CFR part 713).
+
+[Order No. 921-80, 45 FR 82631, Dec. 16, 1980, as amended by Order No. 960-81, 46 FR 52360, Oct. 27, 1981]

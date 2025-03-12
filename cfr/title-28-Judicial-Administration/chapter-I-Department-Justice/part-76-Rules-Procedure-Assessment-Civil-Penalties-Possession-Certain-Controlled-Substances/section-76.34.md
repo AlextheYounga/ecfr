@@ -1,0 +1,7 @@
+##### § 76.34 Record of hearings. #####
+
+(a) *General.* Unless otherwise agreed by the parties, a verbatim written record of all hearings shall be kept. All evidence upon which the Judge relies for decision shall be contained in the transcript of testimony, either directly or by appropriate reference. All exhibits introduced as evidence shall be marked for identification and incorporated into the record. Upon completion of the transcript, the transcript shall be filed by the official court reporter with the Judge, who will notify the parties. Transcripts may be obtained by the parties and the public from the official court reporter of record. Unless otherwise ordered by the Judge, any fees in connection therewith shall be the responsibility of the parties.
+
+(b) *Corrections.* Corrections to the official transcript will be permitted upon motion. Motions for corrections must be submitted within ten (10) days of the service by the Judge of the notice of the filing of the transcript, or such other time as may be permitted by the Judge. Corrections of the official transcript will be permitted only when errors of substance are involved and only upon approval of the Judge.
+
+(c) The record of the proceedings shall consist of the notices, pleadings, motions, rulings, exhibits, orders, the findings, decisions or opinions of the Judge, the stipulations and briefs, and the transcript(s) of the hearing(s).

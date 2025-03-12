@@ -1,0 +1,5 @@
+##### § 35.107 Designation of responsible employee and adoption of grievance procedures. #####
+
+(a) *Designation of responsible employee.* A public entity that employs 50 or more persons shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to it alleging its noncompliance with this part or alleging any actions that would be prohibited by this part. The public entity shall make available to all interested individuals the name, office address, and telephone number of the employee or employees designated pursuant to this paragraph.
+
+(b) *Complaint procedure.* A public entity that employs 50 or more persons shall adopt and publish grievance procedures providing for prompt and equitable resolution of complaints alleging any action that would be prohibited by this part.

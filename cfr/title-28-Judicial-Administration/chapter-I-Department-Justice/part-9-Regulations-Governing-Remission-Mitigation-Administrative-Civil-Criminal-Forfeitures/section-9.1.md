@@ -1,0 +1,13 @@
+##### § 9.1 Purpose, authority, and scope. #####
+
+(a) *Purpose.* This part sets forth the procedures for agency officials to follow when considering remission or mitigation of administrative forfeitures under the jurisdiction of the agency, and civil judicial and criminal judicial forfeitures under the jurisdiction of the Department of Justice's Criminal Division. The purpose of this part is to provide a basis for the partial or total remission of forfeiture for individuals who have an interest in the forfeited property but who did not participate in, or have knowledge of, the conduct that resulted in the property being subject to forfeiture and, where required, took all reasonable steps under the circumstances to ensure that such property would not be used, acquired, or disposed of contrary to law. Additionally, the regulations provide for partial or total mitigation of the forfeiture and imposition of alternative conditions in appropriate circumstances.
+
+(b) *Authority to grant remission and mitigation.* (1) Remission and mitigation functions in administrative forfeitures are performed by the agency seizing the property. Within the Federal Bureau of Investigation (FBI), authority to grant remission and mitigation is delegated to the Forfeiture Counsel, who is the Unit Chief, Legal Forfeiture Unit, Office of the General Counsel; within the Drug Enforcement Administration (DEA), authority to grant remission and mitigation is delegated to the Forfeiture Counsel, Office of Chief Counsel; and within the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), authority to grant remission and mitigation is delegated to the Associate Chief Counsel, Office of Chief Counsel.
+
+(2) Remission and mitigation functions in judicial cases are performed by the Criminal Division of the Department of Justice. Within the Criminal Division, authority to grant remission and mitigation is delegated to the Chief, Asset Forfeiture and Money Laundering Section.
+
+(3) The powers and responsibilities delegated by this part may be redelegated to attorneys or managers working under the supervision of the designated officials.
+
+(c) *Scope.* This part governs any petition for remission filed with the Attorney General and supersedes any Department of Justice regulation governing petitions for remission, to the extent such regulation is inconsistent with this part.
+
+(d) The time periods and internal requirements established in this part are designed to guide the orderly administration of the remission and mitigation process and are not intended to create rights or entitlements in favor of individuals seeking remission or mitigation. This part applies to all forfeiture actions commenced on or after October 12, 2012.

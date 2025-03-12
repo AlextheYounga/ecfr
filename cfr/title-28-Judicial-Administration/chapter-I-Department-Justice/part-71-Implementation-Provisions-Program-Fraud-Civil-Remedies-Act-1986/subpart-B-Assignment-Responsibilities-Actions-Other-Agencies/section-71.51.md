@@ -1,0 +1,3 @@
+##### § 71.51 Purpose. #####
+
+This subpart further implements the Program Fraud Civil Remedies Act of 1986. The Act authorizes the Attorney General, or certain officials whom the Attorney General may designate, to make determinations or otherwise act with respect to another agency's exercise of the provisions of the Program Fraud Civil Remedies Act. See, *e.g.,* 31 U.S.C. 3803(a)(2), 3803(b), 3805. This subpart designates officials within the Department of Justice who are authorized to exercise the authorities conferred upon the Attorney General by the Program Fraud Civil Remedies Act with respect to cases brought or proposed to be brought under it.

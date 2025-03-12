@@ -1,0 +1,5 @@
+##### § 700.25 Use and collection of social security numbers. #####
+
+(a) Each system manager of a system of records that utilizes Social Security numbers as a method of identification without statutory authorization, or authorization by regulation adopted prior to January 1, 1975, shall take steps to revise the system to avoid future collection and use of the Social Security numbers.
+
+(b) The Office shall take such measures as are necessary to ensure that employees authorized to collect information from individuals are advised that individuals may not be required to furnish Social Security numbers without statutory or regulatory authorization and that individuals who are requested to provide Social Security numbers voluntarily must be advised that furnishing the number is not required and that no penalty or denial of benefits will flow from the refusal to provide it.

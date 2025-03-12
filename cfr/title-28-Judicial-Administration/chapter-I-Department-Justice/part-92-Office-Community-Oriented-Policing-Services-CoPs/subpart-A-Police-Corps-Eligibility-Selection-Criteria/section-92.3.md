@@ -1,0 +1,5 @@
+##### § 92.3 How and when should I apply to participate in the Police Corps? #####
+
+(a) The application and selection process occurs at the State level. An applicant may apply to participate in more than one State Police Corps program, provided that the applicant is prepared to commit to serve as a law enforcement officer in the State to which application is made. Application forms should be obtained from the State Police Corps agencies.
+
+(b) Applicants may seek admission to the Police Corps either before commencement of or during the applicant's course of undergraduate or graduate study. However, acceptance into the Police Corps will be conditioned on matriculation in or acceptance for admission at a four-year institution of higher education. Specific application deadlines will be established by State Police Corps agencies.

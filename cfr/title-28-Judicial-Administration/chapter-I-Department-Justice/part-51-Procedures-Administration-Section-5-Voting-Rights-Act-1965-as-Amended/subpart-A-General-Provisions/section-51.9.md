@@ -1,0 +1,9 @@
+##### § 51.9 Computation of time. #####
+
+(a) The Attorney General shall have 60 days in which to interpose an objection to a submitted change affecting voting for which a response on the merits is appropriate (*see* § 51.35, § 51.37).
+
+(b) The 60-day period shall commence upon receipt of a submission by the Voting Section of the Department of Justice's Civil Rights Division or upon receipt of a submission by the Office of the Assistant Attorney General, Civil Rights Division, if the submission is properly marked as specified in § 51.24(f). The 60-day period shall recommence upon the receipt in like manner of a resubmission (*see* § 51.35), information provided in response to a written request for additional information (*see* § 51.37(b)), or material, supplemental information or a related submission (*see* § 51.39).
+
+(c) The 60-day period shall mean 60 calendar days, with the day of receipt of the submission not counted, and with the 60th day ending at 11:59 p.m. Eastern Time of that day. If the final day of the period should fall on a Saturday, Sunday, or any day designated as a holiday by the President or Congress of the United States, or any other day that is not a day of regular business for the Department of Justice, the next full business day shall be counted as the final day of the 60-day period. The date of the Attorney General's response shall be the date on which it is transmitted to the submitting authority by any reasonable means, including placing it in a postbox of the U.S. Postal Service or a private mail carrier, sending it by telefacsimile, email, or other electronic means, or delivering it in person to a representative of the submitting authority.
+
+[Order No. 3262-2011, 76 FR 21243, Apr. 15, 2011]

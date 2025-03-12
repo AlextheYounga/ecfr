@@ -1,0 +1,3 @@
+##### § 0.106 Certificates for expenses of unforeseen emergencies. #####
+
+The Commissioner of Immigration and Naturalization is authorized to exercise the power and authority vested in the Attorney General by section 6 of the act of July 28, 1950, 64 Stat. 380 (8 U.S.C. 1555), to make certificates with respect to expenses of unforeseen emergencies of a confidential character: *Provided,* That each such certificate made by the Commissioner of Immigration and Naturalization shall be approved by the Attorney General.

@@ -1,0 +1,3 @@
+##### § 79.60 Scope of subpart. #####
+
+The regulations in this subpart define the eligibility criteria for compensation under section 5 of the Act pertaining to uranium or vanadium-uranium ore transporters and the nature of evidence that will be accepted as proof that a claimant satisfies such eligibility criteria. Section 5 of the Act provides for a payment of $100,000 to persons who contracted lung cancer, one of a limited number of nonmalignant respiratory diseases, renal cancer, or chronic renal disease, following employment for at least one year as a transporter of uranium ore or vanadium-uranium ore from a uranium mine or uranium mill located in a specified state during the period beginning January 1, 1942, and ending December 31, 1971.

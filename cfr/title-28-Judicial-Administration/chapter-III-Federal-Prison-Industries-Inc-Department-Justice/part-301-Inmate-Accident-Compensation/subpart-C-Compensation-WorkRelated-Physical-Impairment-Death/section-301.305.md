@@ -1,0 +1,3 @@
+##### § 301.305 Initial determination. #####
+
+A claim for inmate accident compensation shall be determined by a Claims Examiner under authority delegated by the Board of Directors of Federal Prison Industries, Inc., pursuant to 28 CFR 0.99. In determining the claim, the Claims Examiner will consider all available evidence. Written notice of the determination, including the reasons therefore, together with notification of the right to appeal the determination, shall be mailed to the claimant at the claimant's last known address, or to the claimant's duly appointed representative.

@@ -1,0 +1,3 @@
+##### § 65.52 Civil rights. #####
+
+The Act provides that “no person in any state shall on the grounds of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under or denied employment in connection with any programs or activity funded in whole or in part with funds made available under this title.” Recipients of funds under the Act are also subject to the provisions of title VI of the Civil Rights Act of 1964; section 504 of the Rehabilitation Act of 1973, as amended; title IX of the Education Amendments of 1972; the Age Discrimination Act of 1975; and the Department of Justice Non-Discrimination Regulations 28 CFR part 42, subparts C, D, E, and G.

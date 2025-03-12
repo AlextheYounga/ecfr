@@ -1,0 +1,3 @@
+##### § 811.12 Penalties. #####
+
+A violation of the requirements of the Act or any procedures, requirements, rules, or regulations promulgated under the Act, including these regulations and the District of Columbia regulations, may result in criminal prosecution under section 16 of the Act (D.C. Official Code Section 22-4015), revocation of probation, parole, supervised release, or conditional release, and extension of the registration period under § 811.6(b)(2).

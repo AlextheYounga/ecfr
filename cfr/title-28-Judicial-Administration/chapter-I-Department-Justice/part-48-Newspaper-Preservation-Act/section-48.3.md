@@ -1,0 +1,7 @@
+##### § 48.3 Procedure for filing all documents. #####
+
+All filings required by these regulations shall be accomplished by:
+
+(a) Mailing or delivering five copies of each document (two copies in the case of documents filed by the Assistant Attorney General in charge of the Antitrust Division) to the Assistant Attorney General for Administration, Department of Justice, Washington, DC 20530. He shall place one copy in a numbered public docket; one copy in a duplicate of this file for the use of officials with decisional responsibility; and (except in the case of documents filed by the Assistant Attorney General in charge of the Antitrust Division) shall forward three copies to the Assistant Attorney General in charge of the Antitrust Division; except that documents subject to nondisclosure orders under § 48.5 shall be held under seal and disclosed only in accordance with the provisions of that section; and
+
+(b) Mailing or delivering one copy of each document filed after a hearing has been ordered to each party to the proceedings, along with the name and address of the party filing the document or its counsel, and filing in the manner provided in paragraph (a) of this section a certificate that service has been made in accordance herewith.

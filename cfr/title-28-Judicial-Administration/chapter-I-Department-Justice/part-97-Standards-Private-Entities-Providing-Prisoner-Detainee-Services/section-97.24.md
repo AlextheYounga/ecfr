@@ -1,0 +1,3 @@
+##### § 97.24 No civil defense created. #####
+
+The regulations in this part on private prisoner transport companies are not intended to create a defense to any civil action, whether initiated by a unit of government or any other party. Compliance with the regulations in this part is not intended to and does not establish a defense against an allegation of negligence or breach of contract. Regardless of whether a contractual agreement establishes minimum precautions, the companies affected by the regulations in this part will remain subject to the standards of care that are imposed by constitutional, statutory, and common law upon their activities (or other activities of a similarly hazardous nature).

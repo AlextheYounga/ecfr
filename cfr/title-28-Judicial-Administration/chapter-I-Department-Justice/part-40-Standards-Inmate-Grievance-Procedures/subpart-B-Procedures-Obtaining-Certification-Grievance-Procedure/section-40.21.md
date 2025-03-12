@@ -1,0 +1,3 @@
+##### § 40.21 Notification of court. #####
+
+The Attorney General shall notify in writing the Chief Judges of the U.S. Court of Appeals and of the U.S. District Court(s) within whose jurisdiction the applicant is located of the certification, suspension of certification, withdrawal of certification and recertification of the applicant's grievance procedure. The Attorney General shall also notify the court of the certification status of any grievance procedure at the request of the court or any party in an action by an adult inmate pursuant to 42 U.S.C. 1983.

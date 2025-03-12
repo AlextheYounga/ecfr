@@ -1,0 +1,5 @@
+##### § 63.2 Policy. #####
+
+(a) It is the Department of Justice's policy to avoid to the extent possible the long and short term adverse impacts associated with the destruction or modification of wetlands and floodplains and to avoid direct or indirect support of new construction in floodplains and wetlands whenever there is a practicable alternative. The Department will provide leadership and take affirmative action to carry out the Orders.
+
+(b) It is the Department of Justice's intention to integrate these procedures with those required under statutes protecting the environment, such as the National Environmental Policy Act (NEPA). Whenever possible, the procedures detailed herein should be coordinated with other required documents, such as the environmental impact statement (EIS) or environmental assessment required under NEPA, so that unnecessary paperwork can be eliminated.

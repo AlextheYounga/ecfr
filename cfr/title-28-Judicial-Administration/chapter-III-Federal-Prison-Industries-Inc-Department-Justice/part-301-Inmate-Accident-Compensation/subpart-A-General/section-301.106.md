@@ -1,0 +1,3 @@
+##### § 301.106 Repetitious accidents. #####
+
+If an inmate worker is involved in successive accidents on a particular work site in a comparatively short period of time, regardless of whether injury occurs, and the circumstances of the accidents indicate an awkwardness or ineptitude that, in the opinion of the inmate's work supervisor, implies a danger of further accidents in the task assigned, the inmate shall be assigned to another task more suitable to the inmate's ability.

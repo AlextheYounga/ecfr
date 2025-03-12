@@ -1,0 +1,5 @@
+##### § 94.117 Cost of services; sub-recipient program income. #####
+
+(a) *Cost of services.* Sub-recipients shall provide VOCA-funded direct services at no charge, unless the SAA grants a waiver allowing the sub-recipient to generate program income by charging for services. Program income, where allowed, shall be subject to federal grant rules and the requirements of the DOJ Grants Financial Guide, which, as of July 8, 2016, require in most cases that any program income be restricted to the same uses as the sub-award funds and expended during the grant period in which it is generated.
+
+(b) *Considerations for waiver.* In determining whether to grant a waiver under this section, the SAA should consider whether charging victims for services is consistent with the project's victim assistance objectives and whether the sub-recipient is capable of effectively tracking program income in accordance with financial accounting requirements.

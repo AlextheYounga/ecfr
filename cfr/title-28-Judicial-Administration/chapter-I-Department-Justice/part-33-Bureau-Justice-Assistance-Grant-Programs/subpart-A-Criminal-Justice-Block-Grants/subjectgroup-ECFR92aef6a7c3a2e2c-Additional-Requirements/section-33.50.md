@@ -1,0 +1,3 @@
+##### § 33.50 General financial requirements. #####
+
+Grants funded under the criminal justice block grant program are governed by the provisions of the Office of Management and Budget (OMB) Circulars applicable to financial assistance. These Circulars along with additional information and guidance are contained in “Financial and Administrative Guide for Grants,” Guideline Manual 7100.1, available from the Office of Justice Programs. This Guideline Manual provides information on cost allowability, methods of payment, audit, accounting systems and financial records.

@@ -1,0 +1,3 @@
+##### § 34.108 Selection of reviewers. #####
+
+The Program Manager, through the Director of the OJJDP program division with responsibility for a particular program or project will propose a selection of peer reviewers from an extensive and varied pool of juvenile justice and delinquency prevention experts for approval by the Administrator. The selection process for peer reviewers is detailed in the OJJDP “Peer Review Guideline”.

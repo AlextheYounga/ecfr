@@ -1,0 +1,3 @@
+##### § 513.30 Purpose and scope. #####
+
+This subpart establishes procedures for the release of requested records in possession of the Federal Bureau of Prisons (“Bureau”). It is intended to implement provisions of the Freedom of Information Act (FOIA), 5 U.S.C. 552, and the Privacy Act, 5 U.S.C. 552a, and to supplement Department of Justice (DOJ) regulations concerning the production or disclosure of records or information, 28 CFR part 16.

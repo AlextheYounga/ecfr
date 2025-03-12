@@ -1,0 +1,3 @@
+##### § 540.24 Returned mail. #####
+
+Staff shall open and inspect for contraband all undelivered mail returned to an institution by the Post Office before returning it to the inmate. The purpose of this inspection is to determine if the content originated with the inmate sender identified on the letter or package; to prevent the transmission of material, substances, and property which an inmate is not permitted to possess in the institution; and to determine that the mail was not opened or tampered with before its return to the institution. Any remailing is at the inmate's expense. Any returned mail qualifying as “special mail” is opened and inspected for contraband in the inmate's presence.

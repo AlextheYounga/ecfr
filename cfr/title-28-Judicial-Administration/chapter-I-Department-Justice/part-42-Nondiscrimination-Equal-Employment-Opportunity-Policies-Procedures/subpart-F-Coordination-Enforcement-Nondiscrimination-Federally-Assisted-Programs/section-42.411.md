@@ -1,0 +1,5 @@
+##### § 42.411 Methods of resolving noncompliance. #####
+
+(a) Effective enforcement of title VI requires that agencies take prompt action to achieve voluntary compliance in all instances in which noncompliance is found. Where such efforts have not been successful within a reasonable period of time, the agency shall initiate appropriate enforcement procedures as set forth in the 1965 Attorney General Guidelines, 28 CFR 50.3. Each agency shall establish internal controls to avoid unnecessary delay in resolving noncompliance, and shall promptly notify the Assistant Attorney General of any case in which negotiations have continued for more than sixty days after the making of the determination of probable noncompliance and shall state the reasons for the length of the negotiations.
+
+(b) Agreement on the part of a noncomplying recipient to take remedial steps to achieve compliance with title VI shall be set forth in writing by the recipient and the federal agency. The remedial plan shall specify the action necessary for the correction of title VI deficiencies and shall be available to the public.

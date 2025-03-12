@@ -1,0 +1,9 @@
+##### § 31.102 State agency structure. #####
+
+The State agency may be a discrete unit of State government or a division or other component of an existing State crime commission, planning agency or other appropriate unit of State government. Details of organization and structure are matters of State discretion, provided that the agency:
+
+(a) Is a definable entity in the executive branch with the requisite authority to carry out the responsibilities imposed by the JJDP Act;
+
+(b) Has a supervisory board (i.e., a board of directors, commission, committee, council, or other policy board) which has responsibility for supervising the preparation and administration of the plan and its implementation; and
+
+(c) Has sufficient staff and staff capability to carry out the board's policies and the agency's duties and responsibilities to administer the program, develop the plan, process applications, administer grants awarded under the plan, monitor and evaluate programs and projects, provide administration/support services, and perform such accountability functions as are necessary to the administration of Federal funds, such as grant close-out and audit of subgrant and contract funds. At a minimum, one full-time Juvenile Justice Specialist must be assigned to the Formula Grants Program by the State agency. Where the State does not currently provide or maintain a full-time Juvenile Justice Specialist, the plan must clearly establish and document that the program and administrative support staff resources currently assigned to the program will temporarily meet the adequate staff requirement, and provide an assurance that at least one full-time Juvenile Justice Specialist will be assigned to the Formula Grants Program by the end of FY 1995 (September 30, 1995).

@@ -1,0 +1,3 @@
+##### § 39.111 Notice. #####
+
+The agency shall make available to employees, applicants, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program or activities conducted by the agency, and make such information available to them in such manner as the Attorney General finds necessary to apprise such persons of the protections against discrimination assured them by section 504 and this regulation.

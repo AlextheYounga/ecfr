@@ -1,0 +1,5 @@
+##### § 0.152 Approval of funds for attendance at meetings. #####
+
+The Director of the Federal Bureau of Investigation, the Director of the Bureau of Prisons, the Commissioner of Immigration and Naturalization, the Administrator of the Drug Enforcement Administration, the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Director of the Office of Justice Assistance, Research and Statistics, as to their respective jurisdictions, and the Assistant Attorney General for Administration, as to all other organizational units of the Department (including U.S. Attorneys and Marshals), are authorized to exercise the power and authority vested in the Attorney General by law to prescribe regulations for the expenditure of appropriated funds available for expenses of attendance at meetings of organizations.
+
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969, as amended by Order No. 520-73, 38 FR 18380, July 10, 1973; Order No. 960-81, 46 FR 52351, Oct. 27, 1981; Order No. 2650-2003, 68 FR 4928, Jan. 31, 2003]

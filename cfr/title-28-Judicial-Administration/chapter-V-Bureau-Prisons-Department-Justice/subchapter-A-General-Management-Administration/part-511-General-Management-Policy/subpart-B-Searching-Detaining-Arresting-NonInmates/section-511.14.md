@@ -1,0 +1,3 @@
+##### § 511.14 Notification of possible search. #####
+
+We display conspicuous notices at the entrance to all Bureau facilities, informing all non-inmates that they, and their belongings, are subject to search before entering, or while inside, Bureau facilities or grounds. Furthermore, these regulations and Bureau national and local policies provide additional notice that you and your belongings may be searched before entering, or while inside, Bureau facilities or grounds. By entering or attempting to enter a Bureau facility or Bureau grounds, non-inmates consent to being searched in accordance with these regulations and Bureau policy.

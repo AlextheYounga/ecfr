@@ -1,0 +1,5 @@
+##### § 68.57 Judicial review of the final agency order of an Administrative Law Judge in cases arising under section 274B. #####
+
+Any person aggrieved by a final agency order issued under § 68.52(d) may, within sixty (60) days after entry of the order, seek review of the final agency order in the United States Court of Appeals for the circuit in which the violation is alleged to have occurred or in which the employer resides or transacts business. If a final agency order issued under § 68.52(d) is not appealed, the Special Counsel (or, if the Special Counsel fails to act, the person filing the charge, other than the Immigration and Naturalization Service officer) may file a petition in the United States District Court for the district in which the violation that is the subject of the final agency order is alleged to have occurred, or in which the respondent resides or transacts business, requesting that the order be enforced.
+
+[Order No. 2203-99, 64 FR 7083, Feb. 12, 1999]

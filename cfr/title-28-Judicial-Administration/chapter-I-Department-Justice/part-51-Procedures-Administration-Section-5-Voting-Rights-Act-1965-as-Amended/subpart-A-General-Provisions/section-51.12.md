@@ -1,0 +1,5 @@
+##### § 51.12 Scope of requirement. #####
+
+Except as provided in § 51.18 (Federal court-ordered changes), the section 5 requirement applies to any change affecting voting, even though it appears to be minor or indirect, returns to a prior practice or procedure, seemingly expands voting rights, or is designed to remove the elements that caused the Attorney General to object to a prior submitted change. The scope of section 5 coverage is based on whether the generic category of changes affecting voting to which the change belongs (for example, the generic categories of changes listed in § 51.13) has the potential for discrimination. *NAACP* v. *Hampton County Election Commission,* 470 U.S. 166 (1985). The method by which a jurisdiction enacts or administers a change does not affect the requirement to comply with section 5, which applies to changes enacted or administered through the executive, legislative, or judicial branches.
+
+[Order No. 3262-2011, 76 FR 21244, Apr. 15, 2011]

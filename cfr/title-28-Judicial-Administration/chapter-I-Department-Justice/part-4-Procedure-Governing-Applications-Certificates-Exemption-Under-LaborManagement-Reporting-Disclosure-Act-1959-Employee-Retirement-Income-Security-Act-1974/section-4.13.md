@@ -1,0 +1,5 @@
+##### § 4.13 Record for decision. Receipt of documents comprising record; timing and extension. #####
+
+(a) The application and all supporting documents, the transcript of the testimony and oral argument at the hearing, together with any exhibits received and other documents filed pursuant to these procedures and/or the Administrative Procedures Act shall be made parts of the record for decision.
+
+(b) At the conclusion of the hearing the presiding officer shall specify the time for submission of proposed findings of fact and conclusions of law (unless waived by the parties); transcript of the hearing, and supplemental exhibits, if any. He shall set a tentative date for the recommended decision based upon the timing of these preliminary steps. Extensions of time may be requested by any party, in writing, from the Parole Commission. Failure of any party to comply with the time frame as established or extended will be deemed to be a waiver on his part of his right to submit the document in question. The adjudication will proceed and the absence of said document and reasons therefor will be noted in the record.

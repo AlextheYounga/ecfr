@@ -1,0 +1,3 @@
+##### § 907.2 Applicability. #####
+
+This rule applies to III System access for noncriminal justice purposes as covered by the Compact, *see* 42 U.S.C. 14614 and 14616, and use of information obtained by means of the System for such purposes. The rule establishes procedures for ensuring that the FBI's and Compact Party States' criminal history record repositories carry out their responsibilities under the Compact, as set out in the National Fingerprint File (NFF) Qualification Requirements, and that local, State and Federal government agencies using the III System for noncriminal justice purposes comply with the Compact and with applicable Compact Council rules.

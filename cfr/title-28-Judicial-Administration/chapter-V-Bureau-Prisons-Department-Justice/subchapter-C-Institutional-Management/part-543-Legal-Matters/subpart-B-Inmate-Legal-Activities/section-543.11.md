@@ -1,0 +1,37 @@
+##### § 543.11 Legal research and preparation of legal documents. #####
+
+(a) The Warden shall make materials in the inmate law library available whenever practical, including evening and weekend hours. The Warden shall allow an inmate a reasonable amount of time, ordinarily during the inmate's leisure time (that is, when the inmate is not participating in a scheduled program or work assignment), to do legal research and to prepare legal documents. Where practical, the Warden shall allow preparation of documents in living quarters during an inmate's leisure time.
+
+(b) The Warden shall periodically ensure that materials in each inmate law library are kept intact and that lost or damaged materials are replaced.
+
+(c) Staff shall advise an inmate of rules and local procedures governing use of the inmate law library. Unauthorized possession of library materials by an inmate constitutes a prohibited act, generally warranting disciplinary action (see part 541 of this chapter).
+
+(d) An inmate's legal materials include but are not limited to the inmate's pleadings and documents (such as a presentence report) that have been filed in court or with another judicial or administrative body, drafts of pleadings to be submitted by the inmate to a court or with other judicial or administrative body which contain the inmate's name and/or case caption prominently displayed on the first page, documents pertaining to an inmate's administrative case, photocopies of legal reference materials, and legal reference materials which are not available in the institution main law library (or basic law library in a satellite camp).
+
+(1) An inmate may solicit or purchase legal materials from outside the institution. The inmate may receive the legal materials in accordance with the provisions on incoming publications or correspondence (see 28 CFR part 540, subparts B and F) or through an authorized attorney visit from a retained attorney. The legal materials are subject to inspection and may be read or copied unless they are received through an authorized attorney visit from a retained attorney or are properly sent as special mail (for example, mail from a court or from an attorney), in which case they may be inspected for contraband or for the purpose of verifying that the mail qualifies as special mail.
+
+(2) Staff may allow an inmate to possess those legal materials which are necessary for the inmate's own legal actions. Staff may also allow an inmate to possess the legal materials of another inmate subject to the limitations of paragraph (f)(2) of this section. The Warden may limit the amount of legal materials an inmate may accumulate for security or housekeeping reasons.
+
+(e) An inmate is responsible for submitting his documents to court. Institution staff who are authorized to administer oaths shall be available to provide necessary witnessing of these documents, as requested by inmates and at times scheduled by staff.
+
+(f)(1) Except as provided for in paragraph (f)(4) of this section, an inmate may assist another inmate in the same institution during his or her leisure time (as defined in paragraph (a) of this section) with legal research and the preparation of legal documents for submission to a court or other judicial body.
+
+(2) Except as provided for in paragraph (f)(4) of this section, an inmate may possess another inmate's legal materials while assisting the other inmate in the institution's main law library and in another location if the Warden so designates.
+
+(i) The assisting inmate may not remove another inmate's legal materials, including copies of the legal materials, from the law library or other designated location. An assisting inmate is permitted to make handwritten notes and to remove those notes from the library or other designated location if the notes do not contain a case caption or document title or the name(s) of any inmate(s). The assisting inmate may also develop and possess handwritten drafts of pleadings, so long as the draft pleadings do not contain a case caption or document title or the name(s) of any inmate(s). These notes and drafts are not considered to be the assisting inmate's legal property, and when the assisting inmate has these documents outside the law library or other designated location, they are subject to the property limitations in § 553.11(a) of this chapter.
+
+(ii) Although the inmate being assisted need not remain present in the law library or other designated location while the assistance is being rendered, that inmate is responsible for providing and retrieving his or her legal materials from the library or other designated location. Ordinarily, the inmate must provide and retrieve his or her legal materials during his or her leisure time. An inmate with an imminent court deadline may request a brief absence from a scheduled program or work assignment in order to provide or retrieve legal materials from an assisting inmate.
+
+(3) The Warden may give special consideration to the legal needs of inmates in mental health seclusion status in federal medical centers or to inmates in controlled housing.
+
+(4) The Warden at any institution may impose limitations on an inmate's assistance to another inmate in the interest of institution security, good order, or discipline.
+
+(g) The institution staff shall, upon an inmate's request and at times scheduled by staff, duplicate legal documents if the inmate demonstrates that more than one copy must be submitted to court and that the duplication cannot be accomplished by use of carbon paper. The inmate shall bear the cost, and the duplication shall be done so as not to interfere with regular institution operations. Staff may waive the cost if the inmate is without funds or if the material to be duplicated is minimal, and the inmate's requests for duplication are not large or excessive.
+
+(h) Unless clearly impractical, the Warden shall allow an inmate preparing legal documents to use a typewriter, or, if the inmate cannot type, to have another inmate type his documents. The Warden may allow the inmate to hire a public stenographer to type documents outside the institution, but the institution may not assume the expense of hiring the public stenographer. Staff shall advise the inmate of any delay in the typing of which they have received notice from the stenographer.
+
+(i) The Warden shall give special time allowance for research and preparation of documents to an inmate who demonstrates a requirement to meet an imminent court deadline. Otherwise, each inmate shall continue his regular institutional activities without undue disruption by legal activities.
+
+(j) With consideration of the needs of other inmates and the availability of staff and other resources, the Warden shall provide an inmate confined in disciplinary segregation or administrative detention a means of access to legal materials, along with an opportunity to prepare legal documents. The Warden shall allow an inmate in segregation or detention a reasonable amount of personal legal materials. In no case shall the amount of personal legal materials be such as to pose a fire, sanitation, security, or housekeeping hazard.
+
+[44 FR 38263, June 29, 1979, as amended at 62 FR 4893, Jan. 31, 1997]

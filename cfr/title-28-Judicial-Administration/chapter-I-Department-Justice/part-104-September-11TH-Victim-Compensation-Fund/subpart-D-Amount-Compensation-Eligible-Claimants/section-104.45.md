@@ -1,0 +1,19 @@
+##### § 104.45 Determination of presumed economic loss for injured claimants. #####
+
+In reaching presumed determinations for economic loss for claimants who suffered an eligible physical harm (but did not die), the Special Master shall consider sums corresponding to the following:
+
+(a) *Loss of earnings or other benefits related to employment.* The Special Master may determine the loss of earnings or other benefits related to employment on a case-by-case basis, using documentation and other information submitted by the claimant, regarding the actual amount of work that the claimant has missed or will miss without compensation. Alternatively, the Special Master may determine the loss of earnings or other benefits related to employment by relying upon the methodology created pursuant to § 104.43(a) and adjusting the loss based upon the extent of the victim's physical harm. In determining or computing any loss of earnings due to eligible physical harm, the Special Master shall, for each year of any past or projected future loss of earnings or other benefits related to employment, limit the annual gross income of the claimant to an amount that is not greater than $200,000. For purposes of the computation of loss of earnings, annual gross income shall have the meaning given such term in section 61 of the Internal Revenue Code of 1986.
+
+(1) Disability; in general. In evaluating claims of disability, the Special Master will, in general, make a determination regarding whether the claimant is capable of performing his or her usual profession in light of the eligible physical conditions. The Special Master may require that the claimant submit an evaluation of the claimant's disability and ability to perform his or her occupation prepared by medical experts.
+
+(2) Total permanent disability. With respect to claims of total permanent disability, the Special Master may accept a determination of disability made by the Social Security Administration as evidence of disability without any further medical evidence or review. The Special Master may also consider determinations of permanent total disability made by other governmental agencies or private insurers in evaluating the claim.
+
+(3) Partial disability. With respect to claims of partial disability, the Special Master may consider evidence of the effect of the partial disability on the claimant's ability to perform his or her usual occupation as well as the effect of the partial disability on the claimant's ability to participate in usual daily activities.
+
+(b) *Medical Expense Loss.* This loss equals the documented past out-of-pocket medical expenses that were incurred as a result of the physical harm suffered by the victim (*i.e.,* those medical expenses that were not paid for or reimbursed through health insurance or other programs). The Special Master shall not consider any future medical expense loss.
+
+(c) *Replacement Services.* For claimants who suffer physical harm and did not have any prior earned income or who worked only part time outside the home, economic loss may be determined with reference to replacement services and similar measures.
+
+(d) *Loss of business or employment opportunities.* Such losses shall be addressed through the procedure outlined above in paragraph (a) of this section.
+
+(e) *Determination of Noneconomic Loss for Claimants Who Have a WTC-Related Physical Condition and Who Are Found Eligible for Economic Loss.* The Special Master shall determine the appropriate noneconomic loss for such claimants in accordance with the provisions of § 104.46, taking into account the extent of disability, and may consider whether the claimant has multiple WTC-Related Physical Health Conditions that contribute to the disability.

@@ -1,0 +1,3 @@
+##### § 97.17 Mandatory restraints to be used while transporting violent prisoners. #####
+
+Companies covered under this part must, at a minimum, require that violent prisoners be transported wearing handcuffs, leg irons, and waist chains unless the use of all three restraints would create a serious health risk to the prisoner, or extenuating circumstances (such as pregnancy or physical disability) make the use of all three restraints impracticable.
