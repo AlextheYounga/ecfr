@@ -1,10 +1,10 @@
-##### § 740.13 Technology and software - unrestricted (TSU). #####
+##### § 740.13 Technology and software—unrestricted (TSU). #####
 
 This license exception authorizes exports and reexports of operation technology and software; sales technology and software; software updates (bug fixes); “mass market” software subject to the General Software Note; and release of technology and source code in the United States by U.S. universities to their bona fide and full time regular employees. Note that encryption software subject to the EAR is not subject to the General Software Note (see paragraph (d)(2) of this section).
 
-(a) *Operation technology and software* - (1) *Scope.* The provisions of paragraph (a) permit exports and reexports of operation technology and software. “Operation technology” is the minimum technology necessary for the installation, operation, maintenance (checking), or repair of those commodities or software that are lawfully exported or reexported under a license, a License Exception, or NLR. The “minimum necessary” operation technology does not include technology for development or production and includes use technology only to the extent required to ensure safe and efficient use of the commodity or software. Individual entries in the software and technology subcategories of the CCL may further restrict the export or reexport of operation technology. This paragraph (a) authorizes training, provided the training is limited to the operation, maintenance and repair technology identified in this paragraph.
+(a) *Operation technology and software*—(1) *Scope.* The provisions of paragraph (a) permit exports and reexports of operation technology and software. “Operation technology” is the minimum technology necessary for the installation, operation, maintenance (checking), or repair of those commodities or software that are lawfully exported or reexported under a license, a License Exception, or NLR. The “minimum necessary” operation technology does not include technology for development or production and includes use technology only to the extent required to ensure safe and efficient use of the commodity or software. Individual entries in the software and technology subcategories of the CCL may further restrict the export or reexport of operation technology. This paragraph (a) authorizes training, provided the training is limited to the operation, maintenance and repair technology identified in this paragraph.
 
-(2) *Provisions and destinations* - (i) *Provisions.* Operation software may be exported or reexported provided that both of the following conditions are met:
+(2) *Provisions and destinations*—(i) *Provisions.* Operation software may be exported or reexported provided that both of the following conditions are met:
 
 (A) The operation software is the minimum necessary to operate equipment authorized for export or reexport; and
 
@@ -12,9 +12,9 @@ This license exception authorizes exports and reexports of operation technology 
 
 (ii) *Destinations.* Operation software and technology may be exported or reexported to any destination to which the equipment for which it is required has been or is being legally exported or reexported.
 
-(b) *Sales technology* - (1) *Scope.* The provisions of paragraph (b) authorize exports and reexports of sales technology. “Sales technology” is data supporting a prospective or actual quotation, bid, or offer to sell, lease, or otherwise supply any item.
+(b) *Sales technology*—(1) *Scope.* The provisions of paragraph (b) authorize exports and reexports of sales technology. “Sales technology” is data supporting a prospective or actual quotation, bid, or offer to sell, lease, or otherwise supply any item.
 
-(2) *Provisions and destinations* - (i) *Provisions.* Sales technology may be exported or reexported provided that:
+(2) *Provisions and destinations*—(i) *Provisions.* Sales technology may be exported or reexported provided that:
 
 (A) The technology is a type customarily transmitted with a prospective or actual quotation, bid, or offer in accordance with established business practice; and
 
@@ -28,13 +28,13 @@ Neither this section nor its use means that the U.S. Government intends, or is c
 
 (c) *Software updates.* The provisions of paragraph (c) authorize exports and reexports of software updates that are intended for and are limited to correction of errors (“fixes” to “bugs”) in software lawfully exported or reexported (original software). Such software updates may be exported or reexported only to the same consignee to whom the original software was exported or reexported, and such software updates may not enhance the functional capacities of the original software. Such software updates may be exported or reexported to any destination to which the software for which they are required has been legally exported or reexported.
 
-(d) *General Software Note: mass market software* - (1) *Scope.* The provisions of paragraph (d) authorize exports and reexports of mass market software subject to the General Software Note (see supplement no. 2 to part 774 of the EAR; also referenced in this section).2
+(d) *General Software Note: mass market software*—(1) *Scope.* The provisions of paragraph (d) authorize exports and reexports of mass market software subject to the General Software Note (see supplement no. 2 to part 774 of the EAR; also referenced in this section).2
 
 2 Pursuant to 15 CFR § 30.37(f) of the Foreign Trade Regulations (FTR), Electronic Export Information (EEI) via the Automated Export System (AES) is required for mass-market software.
 
-(2) *Exclusions.* The provisions of this paragraph (d) are not available for encryption software controlled for “EI” reasons under ECCN 5D002 or for encryption software with symmetric key length exceeding 64-bits that qualifies as mass market encryption software under the criteria in the Cryptography Note (Note 3) of Category 5, Part 2, of the Commerce Control List (supplement no. 1 to part 774 of the EAR). (Once such mass market encryption software has been reviewed by BIS and released from “EI” and “NS” controls pursuant to § 742.15(b) of the EAR, it is controlled under ECCN 5D992.c and is thus outside the scope of License Exception TSU.) See § 742.15(b) of the EAR for exports and reexports of mass market encryption products controlled under ECCN 5D992.c.
+(2) *Exclusions.* The provisions of this paragraph (d) are not available for encryption software controlled for “EI” reasons under ECCN 5D002 or for encryption software with symmetric key length exceeding 64-bits that qualifies as mass market encryption software under the criteria in the Cryptography Note (Note 3) of Category 5, Part 2, of the CCL (supplement No. 1 to part 774 of the EAR). (Once such mass market encryption software has been released from “EI” and “NS” controls pursuant to § 740.17(b) of the EAR, it is controlled under ECCN 5D992.c and is thus outside the scope of License Exception TSU.) See § 740.17(b) of the EAR for exports and reexports of mass market encryption products controlled under ECCN 5D992.c.
 
-(3) *Provisions and destinations* - (i) *Destinations.* Mass market software is available to all destinations except destinations in Country Group E:1 (see supplement no. 1 to this part).
+(3) *Provisions and destinations*—(i) *Destinations.* Mass market software is available to all destinations except destinations in Country Group E:1 (see supplement no. 1 to this part).
 
 (ii) *Provisions.* Mass market treatment is available for software that is generally available to the public by being:
 
@@ -50,7 +50,7 @@ Neither this section nor its use means that the U.S. Government intends, or is c
 
 (e) [Reserved]
 
-(f) *Release of technology and source code in the U.S. by U.S. universities to their bona fide and full time regular employees* - (1) *Scope.* This paragraph authorizes the release in the United States of “technology” and source code that is subject to the EAR by U.S. universities to foreign nationals who are their bona fide and full time regular employees.
+(f) *Release of technology and source code in the U.S. by U.S. universities to their bona fide and full time regular employees*—(1) *Scope.* This paragraph authorizes the release in the United States of “technology” and source code that is subject to the EAR by U.S. universities to foreign nationals who are their bona fide and full time regular employees.
 
 (2) *Eligible foreign nationals (i.e., bona fide and full time regular employees of U.S. universities).* This exception is only available if:
 

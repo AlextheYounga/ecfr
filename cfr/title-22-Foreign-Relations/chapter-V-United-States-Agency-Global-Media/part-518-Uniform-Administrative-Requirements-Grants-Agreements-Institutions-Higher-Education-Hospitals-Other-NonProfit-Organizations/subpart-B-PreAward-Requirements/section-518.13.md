@@ -1,0 +1,3 @@
+##### § 518.13 Debarment and suspension. #####
+
+Federal awarding agencies and recipients shall comply with the nonprocurement debarment and suspension rule, implementing E.O.'s 12549 and 12689, “Debarment and Suspension.” This rule restricts subawards and contracts with certain parties that are debarred, suspended or otherwise excluded from or ineligible for participation in Federal assistance programs or activities.

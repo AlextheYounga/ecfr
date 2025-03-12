@@ -1,0 +1,21 @@
+##### § 512.28 Assessment. #####
+
+(a) Except as provided in paragraph (h) of this section, or § 512.29, Broadcasting Board of Governors shall assess interest, penalties, and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. Before assessing these charges, Broadcasting Board of Governors will mail or hand deliver a written notice to the debtor. This notice will include a statement of the Board's requirements concerning §§ 512.9 and 512.21.
+
+(b) Interest shall accrue from the date on which notice of the debt is first mailed or hand-delivered to the debtor, using the most current address available to the Board.
+
+(c) The rate of interest assessed shall be the rate of the current value of funds to the United States Treasury (i.e., the Treasury Tax and Loan account rate), as prescribed and published by the Secretary of the Treasury in the Federal Register and the Treasury Fiscal Requirements Manual Bulletins annually or quarterly, in accordance with 31 U.S.C. 3717. The rate of interest as initially assessed shall remain fixed for the duration of the indebtedness. However, in cases where the debtor has defaulted on a repayment agreement and seeks a new agreement, Broadcasting Board of Governors may set a new rate which reflects the current value of funds to the Treasury at the time the agreement is executed. Interest will not be assessed on interest, penalties, or administrative costs required by this section.
+
+(d) Broadcasting Board of Governors shall assess charges to cover administrative costs incurred as a result of a delinquent debt. Calculation of administrative costs shall be based upon actual costs incurred. Administrative costs include costs incurred to obtain credit reports in the case of employee debt or in using a private debt collector in the case of non-employee debt.
+
+(e) Broadcasting Board of Governors shall assess a penalty charge not to exceed 6% per year on any portion of a debt that is delinquent for more than 90 days. This charge need not be calculated until the 91st day of delinquency, but shall accrue from the date that the debt became delinquent.
+
+(f) When a debt is paid in partial or installment payments, amounts received shall be applied first to the outstanding penalty and administrative cost charges, second to accrued interest and third to outstanding principal.
+
+(g) Broadcasting Board of Governors will waive the collection of interest on the debt or any portion of the debt that is paid within 30 days after the date on which interest began to accrue. Broadcasting Board of Governors may extend this 30-day period, on a case-by-case basis, if it reasonably determines such action is appropriate. Broadcasting Board of Governors may also waive in whole or in part the collection of interest, penalties, and administrative costs assessed under this section per the criteria specified in part 103 of the Federal Claims Collection Standards (4 CFR part 103) relating to the compromise of claims or if the Board determines that collection of these charges is not in the best interest of the United States. Waiver under the first sentence of this paragraph is mandatory. Under the second and third sentences, it may be exercised under the following circumstances:
+
+(1) Waiver of interest pending consideration of a request for reconsideration, administrative review, or waiver of the underlying debt under a permissive statute, and
+
+(2) Waiver of interest where Broadcasting Board of Governors has accepted an installment plan under § 512.12, there is no indication of fault or lack of good faith on the part of the debtor and the amount of the interest is large enough, in relation to the size of the installments that the debtor can reasonably afford to pay, that the debt will never be repaid.
+
+(h) Where a mandatory waiver or review statute applies, interest and related charges may not be assessed for those periods during which collection must be suspended under § 104.2(c)(1) of the Federal Claims Collection Standards (4 CFR part 104).

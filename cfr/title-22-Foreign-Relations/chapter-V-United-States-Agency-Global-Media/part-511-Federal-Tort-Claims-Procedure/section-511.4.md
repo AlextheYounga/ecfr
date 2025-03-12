@@ -1,0 +1,7 @@
+##### § 511.4 Administrative claim; when presented. #####
+
+(a) For the purposes of the provisions of section 2672 of the Act and of this part, a claim shall be deemed to have been presented when the Board receives, in the office designated in paragraph (b) of this section, an executed “Claim for Damage or Injury”, Standard Form 95, or other written notification of an incident, accompanied by a claim for money damages in a sum certain, for injury to or loss of property, personal injury or death, alleged to have occurred by reason of the incident. The claimant may, if he/she desires, file a brief with his/her claim setting forth the law or other arguments in support of his/her claim. In cases involving claims by more than one person arising from a single accident or incident, individual claim forms shall be used. A claim which should have been presented to the Board, but which was mistakenly addressed to or filed with another Federal Agency, shall be deemed to have been presented to the Board as of the date the claim is received by the Board. If a claim is mistakenly addressed to or filed with the Board, the Board shall transfer it forthwith to the appropriate Agency.
+
+(b) A claimant shall mail, or deliver his/her claim to the Office of the General Counsel and Congressional Liaison, Broadcasting Board of Governors, 301 4th Street, SW., Washington, DC 20547.
+
+[34 FR 20430, Dec. 31, 1969, as amended at 51 FR 11016, Apr. 1, 1986]

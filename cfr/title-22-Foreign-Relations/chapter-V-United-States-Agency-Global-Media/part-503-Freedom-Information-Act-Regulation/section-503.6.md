@@ -1,0 +1,3 @@
+##### § 503.6 Restrictions on some agency records. #####
+
+Under the U.S. Information and Educational Exchange Act of 1948 (22 U.S.C. 1461, as amended), the BBG is prohibited from disseminating within the United States information about the U.S., its people, and its policies when such materials have been prepared by the Agency for audiences abroad. This includes films, radio scripts and tapes, videotapes, books, and similar materials produced by the Agency. However, this law does provide that upon request, such information shall be made available at BBG, for examination only, by representatives of the press, magazines, radio systems and stations, research students or scholars and available, for examination only, to Members of Congress.

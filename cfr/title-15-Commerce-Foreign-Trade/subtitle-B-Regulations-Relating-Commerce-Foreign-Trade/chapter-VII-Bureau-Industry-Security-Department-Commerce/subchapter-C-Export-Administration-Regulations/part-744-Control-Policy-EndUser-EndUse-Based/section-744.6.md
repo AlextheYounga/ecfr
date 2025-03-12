@@ -1,37 +1,37 @@
-##### § 744.6 Restrictions on certain activities of U.S. persons. #####
+##### § 744.6 Restrictions on specific activities of “U.S. persons.” #####
 
-Link to an amendment published at 86 FR 4871, Jan. 15, 2021.
+(a) *Scope.* The general prohibitions in this section apply only to the extent that the underlying activities are not subject to a license requirement or general prohibition administered by another federal department or agency, see, for example, Assistance to Foreign Atomic Energy Activities regulations (10 CFR part 810), administered by the Department of Energy; International Traffic in Arms Regulations (ITAR) (22 CFR parts 120 through 130), administered by the Department of State; and certain sanctions regulations (to include, but not limited to, 31 CFR parts 500 through 599), administered by the Department of the Treasury. Accordingly, “U.S. persons” are required to seek a license from BIS only for the activities described in this section that are not subject to a license requirement or general prohibition administered by the Department of Energy, Department of State, Department of the Treasury, or other federal department or agency. The issuance of a license by BIS, or any other federal department or agency, does not authorize “U.S. persons” to engage in any activity that is otherwise prohibited by law, including criminal statutes.
 
-(a) *General prohibitions* - (1) *Activities related to exports.* (i) No U.S. person as defined in paragraph (c) of this section may, without a license from BIS, export, reexport, or transfer (in-country) an item where that person knows that such item:
+(b) *General prohibitions.* No “U.S. person” may, without a license from BIS, 'support':
 
-(A) Will be used in the design, development, production, or use of nuclear explosive devices in or by a country listed in Country Group D:2 (see supplement no. 1 to part 740 of the EAR).
+(1) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of nuclear explosive devices in or by any country not listed in supplement no. 3 to this part;
 
-(B) Will be used in the design, development, production, or use of missiles in or by a country listed in Country Group D:4 (see supplement no. 1 to part 740 of the EAR); or
+(2) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of “missiles” in or by a country listed in Country Groups D:4 or E:2;
 
-(C) Will be used in the design, development, production, stockpiling, or use of chemical or biological weapons in or by any country or destination, worldwide.
+(3) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of chemical or biological weapons in or by any country or destination worldwide;
 
-(ii) No U.S. person shall, without a license from BIS, knowingly support an export, reexport, or transfer (in-country) that does not have a license as required by this section. Support means any action, including financing, transportation, and freight forwarding, by which a person facilitates an export, reexport, or transfer (in-country).
+(4) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
 
-(2) *Other activities unrelated to exports.* No U.S. person shall, without a license from BIS:
+(5) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in Burma, the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
 
-(i) Perform any contract, service, or employment that the U.S. person knows will directly assist in the design, development, production, or use of missiles in or by a country listed in Country Group D:4 (see supplement no. 1 to part 740 of the EAR); or
+(6) 'Support' means:
 
-(ii) Perform any contract, service, or employment that the U.S. person knows will directly assist in the design, development, production, stockpiling, or use of chemical or biological weapons in or by any country or destination, worldwide.
+(i) Shipping or transmitting from one foreign country to another foreign country any item not subject to the EAR you know will be used in or by any of the end uses or end users described in paragraphs (b)(1) through (5) of this section, including the sending or taking of such item to or from foreign countries in any manner;
 
-(3) *Whole plant requirement.* No U.S. person shall, without a license from BIS, participate in the design, construction, export, reexport, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in countries other than those listed in Country Group A:3 (Australia Group) (See supplement no. 1 to part 740 of the EAR).
+(ii) Transferring (in-country) any item not subject to the EAR you know will be used in or by any of the end uses or end users described in paragraphs (b)(1) through (5) of this section;
 
-(b) *Additional prohibitions on U.S. persons informed by BIS.* BIS may inform U.S. persons, either individually by specific notice or through amendment to the EAR, that a license is required because an activity could involve the types of participation and support described in paragraph (a) of this section. Specific notice is to be given only by, or at the direction of, the Deputy Assistant Secretary for Export Administration. When such notice is provided orally, it will be followed by a written notice within two working days signed by the Deputy Assistant Secretary for Export Administration. However, the absence of any such notification does not excuse the U.S. person from compliance with the license requirements of paragraph (a) of this section.
+(iii) Facilitating such shipment, transmission, or transfer (in-country); or
 
-(c) *Definition of U.S. person.* For purposes of this section, the term U.S. person includes:
+(iv) Performing any contract, service, or employment you know may assist or benefit any of the end uses or end users described in paragraphs (b)(1) through (5) of this section, including, but not limited to: Ordering, buying, removing, concealing, storing, using, selling, loaning, disposing, servicing, financing, transporting, freight forwarding, or conducting negotiations in furtherance of.
 
-(1) Any individual who is a citizen of the United States, a permanent resident alien of the United States, or a protected individual as defined by 8 U.S.C. 1324b(a)(3);
+(c) *Additional prohibitions on “U.S. persons” informed by BIS.* BIS may inform “U.S. persons,” either individually by specific notice, through amendment to the EAR published in the Federal Register, or through a separate notice published in the Federal Register, that a license is required because an activity could involve the types of 'support' (as defined in paragraph (b)(6) of this section) to the end uses or end users described in paragraphs (b)(1) through (5) of this section. Specific notice is to be given only by, or at the direction of, the Deputy Assistant Secretary for Export Administration. When such notice is provided orally, it will be followed by a written notice within two working days signed by the Deputy Assistant Secretary for Export Administration. However, the absence of any such notification does not excuse the “U.S. person” from compliance with the license requirements of paragraph (b) of this section.
 
-(2) Any juridical person organized under the laws of the United States or any jurisdiction within the United States, including foreign branches; and
+(d) *Exceptions.* (1) No License Exceptions apply to the prohibitions described in paragraphs (b)(1) through (4) of this section.
 
-(3) Any person in the United States.
+(2) Notwithstanding the prohibitions in paragraph (b)(5) of this section, “U.S. persons” who are employees of a department or agency of the U.S. Government may 'support' a 'military-intelligence end use' or a 'military-intelligence end user,' as described in paragraph (b)(5), if the 'support' is provided in the performance of official duties in furtherance of a U.S. Government program that is authorized by law and subject to control by the President by other means. This paragraph does not authorize a department or agency of the U.S. Government to provide 'support' that is otherwise prohibited by other administrative provisions or by statute. 'Contractor support personnel' of a department or agency of the U.S. Government are eligible for this authorization when in the performance of their duties pursuant to the applicable contract or other official duties. 'Contractor support personnel' for the purposes of this paragraph (d)(2) has the same meaning given to that term in § 740.11(b)(2)(ii) of the EAR. This authorization is not available when a department or agency of the U.S. Government acts as an agent on behalf of a non-U.S. Government person.
 
-(d) *Exceptions.* No License Exceptions apply to the prohibitions described in paragraphs (a) and (b) of this section.
+(e) *License review standards.* (1) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) any of the end uses or end users described in paragraphs (b)(1) through (4) of this section will be denied if such support would make a material contribution to the end uses and end users described in paragraphs (b)(1) through (4) of this section.
 
-(e) *License review standards.* Applications to engage in activities otherwise prohibited by this section will be denied if the activities would make a material contribution to the design, development, production, stockpiling, or use of nuclear explosive devices, chemical or biological weapons, or of missiles.
+(2) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
 
-[61 FR 12802, Mar. 25, 1996, as amended at 62 FR 25459, May 9, 1997; 70 FR 19691, Apr. 14, 2005; 73 FR 68326, Nov. 18, 2008]
+[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021]

@@ -1,0 +1,3 @@
+##### § 518.5 Subawards. #####
+
+Unless sections of this part specifically exclude subrecipients from coverage, the provisions of this part shall be applied to subrecipients performing work under awards if such subrecipients are institutions of higher education, hospitals or other non-profit organizations. State and local government subrecipients are subject to the provisions of regulations implementing the grants management common rule, “Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments,” published at 53 FR 9034 (3/11/88).

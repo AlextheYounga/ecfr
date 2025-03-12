@@ -1,0 +1,13 @@
+##### § 513.325 Scope of debarment. #####
+
+(a) *Scope in general.* (1) Debarment of a person under these regulations constitutes debarment of all its divisions and other organizational elements from all covered transactions, unless the debarment decision is limited by its terms to one or more specifically identified individuals, divisions or other organizational elements or to specific types of transactions.
+
+(2) The debarment action may include any affiliate of the participant that is specifically named and given notice of the proposed debarment and an opportunity to respond (see §§ 513.311 through 513.314).
+
+(b) *Imputing conduct.* For purposes of determining the scope of debarment, conduct may be imputed as follows:
+
+(1) *Conduct imputed to participant.* The fraudulent, criminal or other seriously improper conduct of any officer, director, shareholder, partner, employee, or other individual associated with a participant may be imputed to the participant when the conduct occurred in connection with the individual's performance of duties for or on behalf of the participant, or with the participant's knowledge, approval, or acquiescence. The participant's acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.
+
+(2) *Conduct imputed to individuals associated with participant.* The fraudulent, criminal, or other seriously improper conduct of a participant may be imputed to any officer, director, shareholder, partner, employee, or other individual associated with the participant who participated in, knew of, or had reason to know of the participant's conduct.
+
+(3) *Conduct of one participant imputed to other participants in a joint venture.* The fraudulent, criminal, or other seriously improper conduct of one participant in a joint venture, grant pursuant to a joint application, or similar arrangement may be imputed to other participants if the conduct occurred for or on behalf of the joint venture, grant pursuant to a joint application, or similar arrangement may be imputed to other participants if the conduct occurred for or on behalf of the joint venture, grant pursuant to a joint application, or similar arrangement or with the knowledge, approval, or acquiescence of these participants. Acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence.

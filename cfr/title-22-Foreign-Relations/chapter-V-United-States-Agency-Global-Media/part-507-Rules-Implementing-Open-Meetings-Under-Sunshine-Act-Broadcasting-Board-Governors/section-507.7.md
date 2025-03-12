@@ -1,0 +1,3 @@
+##### § 507.7 Reconsideration of opening or closing a meeting. #####
+
+The time or place of a Board meeting may be changed following the public announcement only if the Board publicly announces such change at the earliest practicable time. The subject matter of a meeting, or the determination of the agency to open or close a meeting, or a portion of a meeting, to the public, may be changed following the public announcement only if a majority of the Board members determines by a recorded vote that Board business so requires and that no earlier announcement of the change was possible, and the Board publicly announces such change and the vote of each member upon such change at the earliest practicable time.

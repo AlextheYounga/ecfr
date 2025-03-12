@@ -1,5 +1,7 @@
 ##### § 242.603 Distribution, consolidation, and display of information with respect to quotations for and transactions in NMS stocks. #####
 
+Link to an amendment published at 86 FR 18811, Apr. 9, 2021.
+
 (a) *Distribution of information.* (1) Any exclusive processor, or any broker or dealer with respect to information for which it is the exclusive source, that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor shall do so on terms that are fair and reasonable.
 
 (2) Any national securities exchange, national securities association, broker, or dealer that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor, broker, dealer, or other persons shall do so on terms that are not unreasonably discriminatory.

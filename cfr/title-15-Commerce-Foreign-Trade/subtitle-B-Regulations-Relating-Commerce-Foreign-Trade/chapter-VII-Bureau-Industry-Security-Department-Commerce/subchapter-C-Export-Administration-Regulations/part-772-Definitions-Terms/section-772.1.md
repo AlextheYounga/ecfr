@@ -312,6 +312,8 @@ This does not include cases of routing decisions taken on predefined information
 
 *Equivalent Density.* (Cat 6) - The mass of an optic per unit optical area projected onto the optical surface.
 
+*Equivalent standards.* (Cat 1) - Comparable national or international standards recognized by one or more Wassenaar Arrangement Participating States and applicable to the relevant entry.
+
 *Explosives.* (Cat 1) - see Annex “List of Explosives” located at the end of Category 1 of supplement no. 1 to part 774 “Commerce Control List”.
 
 *Export.* See § 734.13 of the EAR.
@@ -478,8 +480,6 @@ Notes:
 
 *Instantaneous bandwidth.* (Cat 3 and 5) - The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
 
-*Instrumented range.* (Cat 6) - The specified unambiguous display range of a radar.
-
 *Intent to Deny (ITD) letter.* A letter informing the applicant:
 
 (a) Of the reason for BIS's decision to deny a license application; and
@@ -626,7 +626,7 @@ Technical note 2 to “Intrusion software” definition:
 
 *Medical devices.* For purposes of the EAR, medical devices are “devices” as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) including medical supplies, instruments, equipment, equipped ambulances, institutional washing machines for sterilization, and vehicles with medical testing equipment. Note that certain component parts and spares to be exported for incorporation into medical devices are on the Commerce Control List. Only items meeting the definition of “medical device” and that are classified as EAR99 are eligible for export to Iran and under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control.
 
-*Medicines.* Medicines means “drug” as defined in section 201 of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321). For purposes of the EAR, medicines includes prescription and over the counter medicines for humans and animals. Note that certain medicines, such as vaccines and immunotoxins, are on the Commerce Control List. Only items meeting the definition of “medicine” and that are classified as EAR99 are eligible for export to Iran andunder the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control.
+*Medicines.* Medicines means “drug” as defined in section 201 of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321). For purposes of the EAR, medicines includes prescription and over the counter medicines for humans and animals. Note that certain medicines, such as vaccines and immunotoxins, are on the Commerce Control List. Only items meeting the definition of “medicine” and that are classified as EAR99 are eligible for export to Iran and under the licensing procedures set forth in the appropriate regulations promulgated and administered by Treasury's Office of Foreign Assets Control.
 
 *Metal embrittlement agents.* (Cat. 0) - Non-lethal weapon substances that alter the crystal structure of metals within a short time span. Metal embrittlement agents severely weaken metals by chemically changing their molecular structure. These agents are compounded in various substances to include adhesives, liquids, aerosols, foams, and lubricants.
 
@@ -886,15 +886,17 @@ e. Other UAVs - “Payload” includes:
 
 *Person.* A natural person, including a citizen or national of the United States or of any foreign country; any firm; any government, government agency, government department, or government commission; any labor union; any fraternal or social organization; and any other association or organization whether or not organized for profit. This definition does not apply to part 760 of the EAR (Restrictive Trade Practices or Boycotts).
 
-*Personal area network.* (Cat 5 Part 2) - A data communication system having all of the following characteristics:
+*Personal area network (Cat 5 Part 2)* - A data communication system having all of the following characteristics:
 
-(a) Allows an arbitrary number of independent or interconnected ‘data devices’ to communicate directly with each other; and
+(1) Allows an arbitrary number of independent or interconnected 'data devices' to communicate directly with each other; and
 
-(b) Is confined to the communication between devices within the immediate vicinity of an individual person or device controller (e.g., single room, office, or automobile, and their nearby surrounding spaces).
+(2) Is confined to the communication between devices within the immediate physical vicinity of an individual person or device controller (*e.g.,* single room, office, or automobile).
 
-Technical Note:
+Technical Notes:
 
-‘Data device’ means equipment capable of transmitting or receiving sequences of digital information.
+1. 'Data device' means equipment capable of transmitting or receiving sequences of digital information.
+
+2. The “local area network” extends beyond the geographical area of the “personal area network”.
 
 *Port of export.* The port where the cargo to be shipped abroad is laden aboard the exporting carrier. It includes, in the case of an export by mail, the place of mailing.
 
@@ -1200,7 +1202,7 @@ Note:
 
 *Substrate blanks.* (Cat 3 and 6) - Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
 
-*“Superalloy”.* (Cat 2 and 9) - Nickel-, cobalt-, or iron-base alloys having strengths superior to any alloys in the AISI 300 series at temperatures over 922 K (649 °C) under severe environmental and operating conditions.
+*Superalloy.* (Cat 2 and 9) Nickel, cobalt, or iron base alloys having a stress rupture life greater than 1,000 hours at 400 MPa and an ultimate tensile strength greater than 850 MPa, at 922 K (649 °C) or higher.
 
 *Superconductive.* (Cat 1, 3, 5P1, 6, and 8) - Materials, i.e., metals, alloys, or compounds that can lose all electrical resistance, i.e., that can attain infinite electrical conductivity and carry very large electrical currents without Joule heating.
 

@@ -1,0 +1,3 @@
+##### § 513.300 General. #####
+
+The debarring official may debar a person for any of the causes in § 513.30, using procedures established in §§ 513.310 through 513.314. The existence of a cause for debarment, however, does not necessarily require that the person be debarred; the seriousness of the person's acts or omissions and any mitigating factors shall be considered in making any debarment decision.

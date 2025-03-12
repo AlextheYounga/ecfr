@@ -1,0 +1,7 @@
+##### § 502.5 Media or organization requests for ongoing subscriptions to broadcast quality agency program materials #####
+
+(a) Upon request, the Agency may make program materials available on an ongoing basis to Media entities, or other organizations, through a subscription agreement, provided that the Agency determines that entering into a subscription agreement to make program materials available on an ongoing basis would be consistent with the Agency's mission and authorities. Requested, ongoing subscription agreements must be consistent with the Agency's Policy for domestic distribution which incorporates the Broadcasting principles and standards and other requirements, found in 22 U.S.C. 1461, 1461-1a, 1462, 6201, 6202, 6203, 6204, 6205, 6206; Pub. L. 112-239, section 1078(b), 126 Stat. 1632, 1958; agreements with third-parties that hold a copyright in Agency program materials; and Terms of Use on Agency Web sites. Requestors shall secure all necessary licenses from all persons or organizations that hold a copyright in any portion of program materials before making any use of those program materials, except uses of program materials permitted by the Copyright Act of 1976, as amended.
+
+(b) Media entities or other organizations may request ongoing subscriptions by filling out an application form found on the Web site for the Direct System, the Agency's professional distribution system.
+
+[78 FR 67026, Nov. 8, 2013]

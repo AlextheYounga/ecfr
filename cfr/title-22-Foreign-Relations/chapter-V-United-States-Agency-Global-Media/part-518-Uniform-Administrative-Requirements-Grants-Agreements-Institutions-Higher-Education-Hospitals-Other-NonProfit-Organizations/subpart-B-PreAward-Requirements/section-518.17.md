@@ -1,0 +1,3 @@
+##### § 518.17 Certification and representations. #####
+
+Unless prohibited by statute or codified regulation, each Federal awarding agency is authorized and encouraged to allow recipients to submit certifications and representations required by statute, executive order, or regulation on an annual basis, if the recipients have ongoing and continuing relationships with the agency. Annual certifications and representations shall be signed by responsible officials with the authority to ensure recipients' compliance with the pertinent requirements.

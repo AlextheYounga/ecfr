@@ -1,0 +1,3 @@
+##### § 505.1 Purpose and scope. #####
+
+The Broadcasting Board of Governors (BBG) will protect individuals' privacy from misuses of their records, and grant individuals access to records concerning them which are maintained by the Agency's domestic and overseas offices, consistent with the provisions of Public Law 93-579, 88 Stat. 1897; 5 U.S.C. 552a, the Privacy Act of 1974, as amended. The Agency has also established procedures to permit individuals to amend incorrect records, to limit the disclosure of personal information to third parties, and to limit the number of sources of personal information. The Agency has also established internal rules restricting requirements of individuals to provide social security account numbers.

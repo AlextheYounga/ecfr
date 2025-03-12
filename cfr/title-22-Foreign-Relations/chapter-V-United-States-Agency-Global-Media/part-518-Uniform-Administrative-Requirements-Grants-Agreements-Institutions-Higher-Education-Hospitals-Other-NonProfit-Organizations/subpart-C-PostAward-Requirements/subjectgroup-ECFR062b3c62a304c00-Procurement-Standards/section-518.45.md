@@ -1,0 +1,3 @@
+##### § 518.45 Cost and price analysis. #####
+
+Some form of cost or price analysis shall be made and documented in the procurement files in connection with every procurement action. Price analysis may be accomplished in various ways, including the comparison of price quotations submitted, market prices and similar indicia, together with discounts. Cost analysis is the review and evaluation of each element of cost to determine reasonableness, allocability and allowability.
