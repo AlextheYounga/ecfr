@@ -1,5 +1,7 @@
 ##### § 27.3 Assessment of civil penalties. #####
 
+Link to an amendment published at 84 FR 3106, Feb. 11, 2019.
+
 (a) *General rule.* An assessing official may impose a civil penalty on any person -
 
 (1) Who uses in connection with, or as a part of, any advertisement, solicitation, business activity, or product, whether alone or with other words, letters, symbols, or emblems;

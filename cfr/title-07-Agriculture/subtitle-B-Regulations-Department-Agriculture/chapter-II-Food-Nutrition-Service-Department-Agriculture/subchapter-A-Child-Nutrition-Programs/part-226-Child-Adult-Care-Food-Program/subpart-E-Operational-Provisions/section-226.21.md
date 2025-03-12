@@ -26,4 +26,4 @@
 
 (e) A food service management company may not subcontract for the total meal, with or without milk, or for the assembly of the meal.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52594, Dec. 28, 1988]
+[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52594, Dec. 28, 1988; 83 FR 63791, Dec. 12, 2018]

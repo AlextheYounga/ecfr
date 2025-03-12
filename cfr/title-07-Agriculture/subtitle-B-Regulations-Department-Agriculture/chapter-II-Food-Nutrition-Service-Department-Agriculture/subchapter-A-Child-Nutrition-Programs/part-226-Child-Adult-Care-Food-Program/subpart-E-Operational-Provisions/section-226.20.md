@@ -1,7 +1,5 @@
 ##### § 226.20 Requirements for meals. #####
 
-Link to an amendment published at 83 FR 63791, Dec. 12, 2018.
-
 (a) *Food components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated food components:
 
 (1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both, as follows:
@@ -10,9 +8,9 @@ Link to an amendment published at 83 FR 63791, Dec. 12, 2018.
 
 (ii) *Children 2 through 5 years old.* Children two through five years old must be served either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk.
 
-(iii) *Children 6 years old and older.* Children six years old and older must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored from July 1, 2018, through June 30, 2019 (school year 2018-2019).
+(iii) *Children 6 years old and older.* Children six years old and older must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored.
 
-(iv) *Adults.* Adults must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored from July 1, 2018, through June 30, 2019 (school year 2018-2019). Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Adults must be served milk that is low-fat (1 percent fat or less) or fat-free (skim). Milk may be unflavored or flavored. Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
 (2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans and peas (legumes), or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as1/2 cup of vegetables.
 
@@ -104,15 +102,143 @@ Link to an amendment published at 83 FR 63791, Dec. 12, 2018.
 
 (1) *Breakfast.* Fluid milk, vegetables or fruit, or portions of both, and grains are required components of the breakfast meal. Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times per week. The minimum amounts of food components to be served at breakfast are as follows:
 
-![](/graphics/er30no17.000.gif)![](/graphics/er30no17.001.gif)
+Child And Adult Care Food Program - Breakfast
+
+|                               Food components and food items<sup>1</sup>                               |Minimum quantities|              |                                                                                        |                  |               |
+|--------------------------------------------------------------------------------------------------------|------------------|--------------|----------------------------------------------------------------------------------------|------------------|---------------|
+|                                                Ages 1-2                                                |     Ages 3-5     |  Ages 6-12   |Ages 13-18<sup>2</sup>  <br/>(at-risk afterschool programs and emergency  <br/>shelters)|Adult participants|               |
+|                       Select the Appropriate Components for a Reimbursable Meal                        |                  |              |                                                                                        |                  |               |
+|                                         Fluid Milk<sup>3</sup>                                         |  4 fluid ounces  |6 fluid ounces|                                     8 fluid ounces                                     |  8 fluid ounces  |8 fluid ounces.|
+|                          Vegetables, fruits, or portions of both<sup>4</sup>                           |     1/4 cup      |   1/2 cup    |                                        1/2 cup                                         |     1/2 cup      |   1/2 cup.    |
+|                                         Grains (oz eq): 5 6 7                                          |                  |              |                                                                                        |                  |               |
+|                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |  1/2 slice   |                                        1 slice                                         |     1 slice      |   2 slices.   |
+|              Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin              |   1/2 serving    | 1/2 serving  |                                       1 serving                                        |    1 serving     |  2 servings.  |
+|Whole grain-rich, enriched, or fortified cooked breakfast cereal<sup>8</sup>, cereal grain, and/or pasta|     1/4 cup      |   1/4 cup    |                                        1/2 cup                                         |     1/2 cup      |    1 cup.     |
+|         Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold) 8 9          |                  |              |                                                                                        |                  |               |
+|                                            Flakes or rounds                                            |     1/2 cup      |   1/2 cup    |                                         1 cup                                          |      1 cup       |    2 cups.    |
+|                                             Puffed cereal                                              |     3/4 cup      |   3/4 cup    |                                        11/4 cup                                        |     11/4 cup     |   21/2 cup.   |
+|                                                Granola                                                 |     1/8 cup      |   1/8 cup    |                                        1/4 cup                                         |     1/4 cup      |   1/2 cup.    |
+
+Endnotes:
+
+<sup>1</sup> Must serve all three components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool participants.
+
+<sup>2</sup> Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
+
+<sup>3</sup> Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+
+<sup>4</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+
+<sup>5</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
+
+<sup>6</sup> Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
+
+<sup>7</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+
+<sup>8</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+
+<sup>9</sup> Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereal is1/4 cup for children ages 1-2;1/3 cup for children ages 3-5;3/4 cup for children ages 6-12, and 11/2 cups for adult participants.
 
 (2) *Lunch and supper.* Fluid milk, meat and meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of food components to be served at lunch and supper are as follows:
 
-![](/graphics/er30no17.002.gif)![](/graphics/er30no17.003.gif)
+Child And Adult Care Food Program - Lunch and Supper
+
+|                                                                                         Food components and food items<sup>1</sup>                                                                                          |Minimum quantities|                  |                                                                                        |                  |                           |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|----------------------------------------------------------------------------------------|------------------|---------------------------|
+|                                                                                                          Ages 1-2                                                                                                           |     Ages 3-5     |    Ages 6-12     |Ages 13-18<sup>2</sup>  <br/>(at-risk afterschool programs and emergency  <br/>shelters)|Adult participants|                           |
+|                                                                                  Select the Appropriate Components for a Reimbursable Meal                                                                                  |                  |                  |                                                                                        |                  |                           |
+|                                                                                                   Fluid Milk<sup>3</sup>                                                                                                    |  4 fluid ounces  |  6 fluid ounces  |                                     8 fluid ounces                                     |  8 fluid ounces  |8 fluid ounces.<sup>4</sup>|
+|                                                                                      Meat/meat alternates (edible portion as served):                                                                                       |                  |                  |                                                                                        |                  |                           |
+|                                                                                                 Lean meat, poultry, or fish                                                                                                 |     1 ounce      |   11/2 ounces    |                                        2 ounces                                        |     2 ounces     |         2 ounces.         |
+|                                                                                Tofu, soy products, or alternate protein products<sup>5</sup>                                                                                |     1 ounce      |   11/2 ounces    |                                        2 ounces                                        |     2 ounces     |         2 ounces.         |
+|                                                                                                           Cheese                                                                                                            |     1 ounce      |   11/2 ounces    |                                        2 ounces                                        |     2 ounces     |         2 ounces.         |
+|                                                                                                          Large egg                                                                                                          |       1/2        |       3/4        |                                           1                                            |        1         |            1.             |
+|                                                                                                  Cooked dry beans or peas                                                                                                   |     1/4 cup      |     3/8 cup      |                                        1/2 cup                                         |     1/2 cup      |         1/2 cup.          |
+|                                                                                Peanut butter or soy nut butter or other nut or seed butters                                                                                 |      2 Tbsp      |      3 Tbsp      |                                         4 Tbsp                                         |      4 Tbsp      |          4 Tbsp.          |
+|                                                                               Yogurt, plain or flavored unsweetened or sweetened<sup>6</sup>                                                                                |4 ounces or1/2 cup|6 ounces or3/4 cup|                                   8 ounces or 1 cup                                    |8 ounces or 1 cup |    8 ounces or 1 cup.     |
+|                                                                           The following may be used to meet no more than 50% of the requirement:                                                                            |                  |                  |                                                                                        |                  |                           |
+|Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounce of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish)| 1/2 ounce = 50%  | 3/4 ounce = 50%  |                                     1 ounce = 50%                                      |  1 ounce = 50%   |      1 ounce = 50%.       |
+|                                                                                                   Vegetables<sup>7</sup>                                                                                                    |     1/8 cup      |     1/4 cup      |                                        1/2 cup                                         |     1/2 cup      |         1/2 cup.          |
+|                                                                                                         Fruits 7 8                                                                                                          |     1/8 cup      |     1/4 cup      |                                        1/4 cup                                         |     1/4 cup      |         1/2 cup.          |
+|                                                                                                    Grains (oz eq): 9 10                                                                                                     |                  |                  |                                                                                        |                  |                           |
+|                                                                                             Whole grain-rich or enriched bread                                                                                              |    1/2 slice     |    1/2 slice     |                                        1 slice                                         |     1 slice      |         2 slices.         |
+|                                                                        Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin                                                                         |   1/2 serving    |   1/2 serving    |                                       1 serving                                        |    1 serving     |        2 servings.        |
+|                                                          Whole grain-rich, enriched, or fortified cooked breakfast cereal<sup>11</sup>, cereal grain, and/or pasta                                                          |     1/4 cup      |     1/4 cup      |                                        1/2 cup                                         |     1/2 cup      |          1 cup.           |
+
+Endnotes:
+
+<sup>1</sup> Must serve all five components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool and adult participants.
+
+<sup>2</sup> Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
+
+<sup>3</sup> Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+
+<sup>4</sup> A serving of fluid milk is optional for suppers served to adult participants.
+
+<sup>5</sup> Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
+
+<sup>6</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+
+<sup>7</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+
+<sup>8</sup> A vegetable may be used to meet the entire fruit requirement. When two vegetables are served at lunch or supper, two different kinds of vegetables must be served.
+
+<sup>9</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
+
+<sup>10</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grain.
+
+<sup>11</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
 (3) *Snack.* Serve two of the following five components: Fluid milk, meat and meat alternates, vegetables, fruits, and grains. Fruit juice, vegetable juice, and milk may comprise only one component of the snack. The minimum amounts of food components to be served at snacks are as follows:
 
-![](/graphics/er30no17.004.gif)![](/graphics/er30no17.005.gif)
+Child And Adult Care Food Program - Snack
+
+|                               Food components and food items<sup>1</sup>                               |Minimum quantities|                  |                                                                                        |                  |                   |
+|--------------------------------------------------------------------------------------------------------|------------------|------------------|----------------------------------------------------------------------------------------|------------------|-------------------|
+|                                             Ages  <br/>1-2                                             |  Ages  <br/>3-5  | Ages  <br/>6-12  |Ages 13-18<sup>2</sup>  <br/>(at-risk afterschool programs and emergency  <br/>shelters)|Adult participants|                   |
+|                       Select Two of the Five Components for a Reimbursable Meal                        |                  |                  |                                                                                        |                  |                   |
+|                                         Fluid Milk<sup>3</sup>                                         |  4 fluid ounces  |  6 fluid ounces  |                                     8 fluid ounces                                     |  8 fluid ounces  |  8 fluid ounces.  |
+|                            Meat/meat alternates (edible portion as served):                            |                  |                  |                                                                                        |                  |                   |
+|                                      Lean meat, poultry, or fish                                       |    1/2 ounce     |    1/2 ounce     |                                        1 ounce                                         |     1 ounce      |     1 ounce.      |
+|                     Tofu, soy products, or alternate protein products<sup>4</sup>                      |    1/2 ounce     |    1/2 ounce     |                                        1 ounce                                         |     1 ounce      |     1 ounce.      |
+|                                                 Cheese                                                 |    1/2 ounce     |    1/2 ounce     |                                        1 ounce                                         |     1 ounce      |     1 ounce.      |
+|                                               Large egg                                                |       1/2        |       1/2        |                                          1/2                                           |       1/2        |       1/2.        |
+|                                        Cooked dry beans or peas                                        |     1/8 cup      |     1/8 cup      |                                        1/4 cup                                         |     1/4 cup      |     1/4 cup.      |
+|                      Peanut butter or soy nut butter or other nut or seed butters                      |      1 Tbsp      |      1 Tbsp      |                                         2 Tbsp                                         |      2 Tbsp      |      2 Tbsp.      |
+|                     Yogurt, plain or flavored unsweetened or sweetened<sup>5</sup>                     |2 ounces or1/4 cup|2 ounces or1/4 cup|                                   4 ounces or1/2 cup                                   |4 ounces or1/2 cup|4 ounces or1/2 cup.|
+|                                 Peanuts, soy nuts, tree nuts, or seeds                                 |    1/2 ounce     |    1/2 ounce     |                                        1 ounce                                         |     1 ounce      |     1 ounce.      |
+|                                         Vegetables<sup>6</sup>                                         |     1/2 cup      |     1/2 cup      |                                        3/4 cup                                         |     3/4 cup      |     1/2 cup.      |
+|                                           Fruits<sup>6</sup>                                           |     1/2 cup      |     1/2 cup      |                                        3/4 cup                                         |     3/4 cup      |     1/2 cup.      |
+|                                          Grains (oz eq): 7 8                                           |                  |                  |                                                                                        |                  |                   |
+|                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |    1/2 slice     |                                        1 slice                                         |     1 slice      |     1 slice.      |
+|              Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin              |   1/2 serving    |   1/2 serving    |                                       1 serving                                        |    1 serving     |    1 serving.     |
+|Whole grain-rich, enriched, or fortified cooked breakfast cereal<sup>9</sup>, cereal grain, and/or pasta|     1/4 cup      |     1/4 cup      |                                        1/2 cup                                         |     1/2 cup      |     1/2 cup.      |
+|        Whole grain-rich, enriched, or fortified ready-to-eat breakfast cereal (dry, cold) 9 10         |                  |                  |                                                                                        |                  |                   |
+|                                            Flakes or rounds                                            |     1/2 cup      |     1/2 cup      |                                         1 cup                                          |      1 cup       |      1 cup.       |
+|                                             Puffed cereal                                              |     3/4 cup      |     3/4 cup      |                                        11/4 cup                                        |     11/4 cup     |     11/4 cup.     |
+|                                                Granola                                                 |     1/8 cup      |     1/8 cup      |                                        1/4 cup                                         |     1/4 cup      |     1/4 cup.      |
+
+Endnotes:
+
+<sup>1</sup> Select two of the five components for a reimbursable snack. Only one of the two components may be a beverage.
+
+<sup>2</sup> Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
+
+<sup>3</sup> Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be low-fat (1 percent fat or less) or fat-free (skim) milk for children six years old and older and adults, and may be unflavored or flavored. For adult participants, 6 ounces (weight) or3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+
+<sup>4</sup> Alternate protein products must meet the requirements in Appendix A to Part 226 of this chapter.
+
+<sup>5</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+
+<sup>6</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+
+<sup>7</sup>At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
+
+<sup>8</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grains.
+
+<sup>9</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+
+10 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereal is1/4 cup for children ages 1-2;1/3 cup for children ages 3-5; and3/4 cup for children ages 6-12, children ages 13-18, and adult participants.
 
 (d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying.
 
