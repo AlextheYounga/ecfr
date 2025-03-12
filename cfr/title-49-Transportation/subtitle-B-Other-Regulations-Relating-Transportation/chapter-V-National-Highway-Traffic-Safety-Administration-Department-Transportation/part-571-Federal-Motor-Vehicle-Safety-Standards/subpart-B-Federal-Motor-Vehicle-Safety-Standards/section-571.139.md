@@ -1,5 +1,7 @@
 ##### § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles. #####
 
+Link to an amendment published at 87 FR 34810, June 8, 2022.
+
 S1. *Scope and purpose.* This standard specifies tire dimensions, test requirements, labeling requirements, and defines tire load ratings.
 
 S2 *Application.* This standard applies to new pneumatic radial tires for use on motor vehicles (other than motorcycles and low speed vehicles) that have a gross vehicle weight rating (GVWR) of 10,000 pounds or less and that were manufactured after 1975. This standard does not apply to special tires (ST) for trailers in highway service, tires for use on farm implements (FI) in agricultural service with intermittent highway use, tires with rim diameters of 12 inches and below, T-type temporary use spare tires with radial construction, and light truck tires with a tread depth of 18/32 inch or greater.

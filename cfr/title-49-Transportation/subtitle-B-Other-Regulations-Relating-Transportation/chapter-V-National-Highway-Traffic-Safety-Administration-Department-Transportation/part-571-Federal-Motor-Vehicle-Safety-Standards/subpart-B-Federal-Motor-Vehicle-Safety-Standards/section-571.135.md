@@ -1,5 +1,7 @@
 ##### § 571.135 Standard No. 135; Light vehicle brake systems. #####
 
+Link to an amendment published at 87 FR 34810, June 8, 2022.
+
 S1. *Scope.* This standard specifies requirements for service brake and associated parking brake systems.
 
 S2. *Purpose.* The purpose of this standard is to ensure safe braking performance under normal and emergency driving conditions.

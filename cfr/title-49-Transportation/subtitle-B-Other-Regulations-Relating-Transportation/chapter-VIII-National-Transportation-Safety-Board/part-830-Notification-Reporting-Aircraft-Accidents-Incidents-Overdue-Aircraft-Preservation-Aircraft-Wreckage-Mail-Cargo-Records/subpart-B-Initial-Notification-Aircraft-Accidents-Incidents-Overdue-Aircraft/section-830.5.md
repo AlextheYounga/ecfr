@@ -1,6 +1,6 @@
 ##### § 830.5 Immediate notification. #####
 
-The operator of any civil aircraft, or any public aircraft not operated by the Armed Forces or an intelligence agency of the United States, or any foreign aircraft shall immediately, and by the most expeditious means available, notify the nearest National Transportation Safety Board (NTSB) office,1/\> when:
+The operator of any civil aircraft, or any public aircraft not operated by the Armed Forces or an intelligence agency of the United States, or any foreign aircraft shall immediately, and by the most expeditious means available, notify the nearest National Transportation Safety Board (NTSB) office,1 when:
 
 1 NTSB headquarters is located at 490 L'Enfant Plaza SW., Washington, DC 20594. Contact information for the NTSB's regional offices is available at *http://www.ntsb.gov.* To report an accident or incident, you may call the NTSB Response Operations Center, at 844-373-9922 or 202-314-6290.
 

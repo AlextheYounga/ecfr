@@ -1,5 +1,7 @@
 ##### § 571.126 Standard No. 126; Electronic stability control systems for light vehicles. #####
 
+Link to an amendment published at 87 FR 34810, June 8, 2022.
+
 S1. *Scope.* This standard establishes performance and equipment requirements for electronic stability control (ESC) systems.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and injuries that result from crashes in which the driver loses directional control of the vehicle, including those resulting in vehicle rollover.

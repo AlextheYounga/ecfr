@@ -1,5 +1,7 @@
 ##### § 575.104 Uniform tire quality grading standards. #####
 
+Link to an amendment published at 87 FR 34811, June 8, 2022.
+
 (a) *Scope.* This section requires motor vehicle and tire manufacturers and tire brand name owners to provide information indicating the relative performance of passenger car tires in the areas of treadwear, traction, and temperature resistance.
 
 (b) *Purpose.* The purpose of this section is to aid the consumer in making an informed choice in the purchase of passenger car tires.

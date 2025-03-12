@@ -1,5 +1,7 @@
 ##### § 571.122 Standard No. 122; Motorcycle brake systems. #####
 
+Link to an amendment published at 87 FR 34810, June 8, 2022.
+
 S1. *Scope.* This standard specifies requirements for motorcycle service brake systems and, where applicable, associated parking brake systems.
 
 S2. *Purpose.* The purpose of the standard is to ensure safe motorcycle braking performance under normal and emergency riding conditions.

@@ -1,5 +1,7 @@
 ##### § 571.500 Standard No. 500; Low-speed vehicles. #####
 
+Link to an amendment published at 87 FR 34810, June 8, 2022.
+
 S1. *Scope.* This standard specifies requirements for low-speed vehicles.
 
 S2. *Purpose.* The purpose of this standard is to ensure that low-speed vehicles operated on the public streets, roads, and highways are equipped with the minimum motor vehicle equipment appropriate for motor vehicle safety.

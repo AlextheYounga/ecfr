@@ -1,5 +1,7 @@
 ##### § 571.105 Standard No. 105; Hydraulic and electric brake systems. #####
 
+Link to an amendment published at 87 FR 34808, June 8, 2022.
+
 S1. *Scope.* This standard specifies requirements for hydraulic and electric service brake systems, and associated parking brake systems.
 
 S2. *Purpose.* The purpose of this standard is to insure safe braking performance under normal and emergency conditions.

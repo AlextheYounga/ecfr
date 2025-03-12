@@ -1,5 +1,7 @@
 ##### § 571.121 Standard No. 121; Air brake systems. #####
 
+Link to an amendment published at 87 FR 34808, June 8, 2022.
+
 S1. *Scope.* This standard establishes performance and equipment requirements for braking systems on vehicles equipped with air brake systems.
 
 S2. *Purpose.* The purpose of this standard is to insure safe braking performance under normal and emergency conditions.
