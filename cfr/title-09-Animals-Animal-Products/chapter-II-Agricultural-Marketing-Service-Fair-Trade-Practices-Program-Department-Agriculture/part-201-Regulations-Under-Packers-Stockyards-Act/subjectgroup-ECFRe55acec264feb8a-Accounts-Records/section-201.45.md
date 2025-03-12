@@ -1,0 +1,5 @@
+##### § 201.45 Market agencies to make records available for inspection by owners, consignors, and purchasers. #####
+
+Each market agency engaged in the business of selling or buying livestock on a commission or agency basis shall, on request from an owner, consignor, or purchaser, make available copies of bills covering charges paid by such market agency for and on behalf of the owner, consignor, or purchaser which were deducted from the gross proceeds of the sale of livestock or added to the purchase price thereof when accounting for the sale or purchase.
+
+(Approved by the Office of Management and Budget under control number 0580-0015)(7 U.S.C. 181 *et seq.;* Pub. L. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[19 FR 4528, July 22, 1954, as amended at 44 FR 45361, Aug. 2, 1979; 47 FR 746, Jan. 7, 1982; 54 FR 26349, June 23, 1989; 68 FR 75388, Dec. 31, 2003]

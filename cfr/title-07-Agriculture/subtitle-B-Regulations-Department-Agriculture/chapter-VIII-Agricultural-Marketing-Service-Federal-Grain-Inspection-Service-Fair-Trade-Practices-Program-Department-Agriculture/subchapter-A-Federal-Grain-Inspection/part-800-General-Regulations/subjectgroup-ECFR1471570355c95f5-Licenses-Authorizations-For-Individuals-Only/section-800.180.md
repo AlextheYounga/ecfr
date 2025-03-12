@@ -1,0 +1,3 @@
+##### § 800.180 Summary cancellation of licenses. #####
+
+A license may be summarily canceled when (a) the license has been under voluntary or automatic suspension for a period of 1 year and there has been no request for return of the license or a request for return of the license has been dismissed in accordance with § 800.172; or (b) the licensee has died or fails to surrender the license in accordance with § 800.175(f).

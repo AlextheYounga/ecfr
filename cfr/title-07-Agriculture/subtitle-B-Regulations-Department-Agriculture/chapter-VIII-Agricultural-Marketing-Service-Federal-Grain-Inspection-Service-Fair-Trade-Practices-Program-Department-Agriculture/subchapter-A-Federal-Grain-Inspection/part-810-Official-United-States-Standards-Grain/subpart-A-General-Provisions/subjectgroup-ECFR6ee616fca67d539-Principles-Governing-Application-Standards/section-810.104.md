@@ -1,0 +1,11 @@
+##### § 810.104 Percentages. #####
+
+(a) *Rounding.* Percentages are determined on the basis of weight and are rounded as follows:
+
+(1) When the figure to be rounded is followed by a figure greater than or equal to 5, round to the next higher figure; e.g., report 6.36 as 6.4, 0.35 as 0.4, and 2.45 as 2.5.
+
+(2) When the figure to be rounded is followed by a figure less than 5, retain the figure; e.g., report 8.34 as 8.3, and 1.22 as 1.2.
+
+(b) *Recording.* The percentage of dockage in flaxseed and sorghum is reported in whole percent with fractions of a percent being disregarded. Dockage in barley and triticale is reported in whole and half percent with a fraction less than one-half percent being disregarded. Dockage in wheat and rye is reported in whole and tenth percents to the nearest tenth percent. Foreign material in sunflower seed is reported to the nearest one-half percent. Ranges of sunflower seed foreign material are reported as follows: 0.0 to 0.24 is reported as 0.0 percent, 0.25 to 0.74 as 0.5 percent, 0.75 to 1.24 as 1.0 percent, and the like. Foreign material and fines in mixed grain is reported in whole percent. The percentage of smut in barley, sclerotinia and stones in canola, and ergot in all grains is reported to the nearest hundredth percent. The percentage when determining the identity of all grains is reported to the nearest whole percent. Also reported to the nearest whole percent are the classes and subclasses in wheat; flint corn; flint and dent corn; waxy corn; classes in barley; and the percentage of each kind of grain in mixed grain. Plump barley shall be expressed in terms of the range in which it falls. Ranges shall be: Below 50 percent, 50 to 55 percent, 56 to 60 percent, 61 to 65 percent, and the like. All other percentages are reported in tenths percent.
+
+[52 FR 24418, June 30, 1987; 52 FR 28534, July 31, 1987, as amended at 54 FR 24157, June 6, 1989; 57 FR 3274, Jan. 29, 1992; 59 FR 10573, Mar. 7, 1994; 61 FR 18491, Apr. 26, 1996; 63 FR 20056, Apr. 23, 1998]

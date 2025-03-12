@@ -1,5 +1,7 @@
 ##### 852.236-88 Contract changes - supplement. #####
 
+Link to an amendment published at 84 FR 45683, Aug. 30, 2019.
+
 As prescribed in 836.578, insert the following clause:
 
 Contract Changes - Supplement (JUL 2002)

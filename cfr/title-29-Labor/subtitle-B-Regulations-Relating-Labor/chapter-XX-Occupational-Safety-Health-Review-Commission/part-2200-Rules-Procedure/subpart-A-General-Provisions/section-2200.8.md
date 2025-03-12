@@ -10,7 +10,7 @@
 
 (2) *Non-mandatory e-filing.* (i) Self-represented parties or intervenors, as provided in § 2200.22, may file documents electronically in the Commission's E-File System by following the instructions on the Commission's website (*www.oshrc.gov*). Self-represented parties or intervenors who elect e-filing must file all documents electronically, unless excused by the Commission or the Judge or the documents are exempt from e-filing under paragraph (c)(5) of this section.
 
-(ii) Self- represented parties or intervenors who do not elect e-filing must file documents by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission as described in paragraph (d) of this section.
+(ii) Self-represented parties or intervenors who do not elect e-filing must file documents by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission as described in paragraph (d) of this section.
 
 (3) If technical difficulties prevent the successful submission of electronically filed documents, the e-filer should refer to the instructions for electronic filing on the Commission's website (*www.oshrc.gov*).
 
@@ -28,7 +28,7 @@
 
 (6) *Sensitive information.* Unless the Commission or the Judge orders otherwise, all sensitive information in documents filed electronically in the Commission's E-File System must be redacted pursuant to paragraph (d)(5) of this section.
 
-(7) *Date of filing.* The date of filing for documents filed electronically is the day that the complete document is successfully submitted in the Commission's E-File System pursuant to Rule 4(a)(4)(i). Electronic filing shall be completed by following the instructions on the Commission's website (*www.oshrc.gov*).
+(7) *Date of filing.* The date of filing for documents filed electronically is the day that the complete document is successfully submitted in the Commission's E-File System pursuant to § 2200.4(a)(4)(i). Electronic filing shall be completed by following the instructions on the Commission's website (*www.oshrc.gov*).
 
 (8) *Timeliness.* Representatives and self-represented parties and intervenors bear the sole responsibility for ensuring that a filing is timely made.
 
@@ -49,3 +49,5 @@
 (5) *Sensitive information.* Unless the Commission or the Judge orders otherwise, in any filing with the Commission, information that is sensitive (*e.g.,* Social Security numbers, driver's license numbers, passport numbers, taxpayer-identification numbers, birthdates, mother's maiden names, names of minors, an individual's physical personal address, financial account numbers) but not privileged shall be redacted. Parties shall exercise caution when filing medical records, medical treatment records, medical diagnosis records, employment history, and individual financial information, and shall redact or exclude materials unnecessary to the case.
 
 (6) *Privileged information.* Claims regarding privileged information shall comply with § 2200.52(d).
+
+[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019]

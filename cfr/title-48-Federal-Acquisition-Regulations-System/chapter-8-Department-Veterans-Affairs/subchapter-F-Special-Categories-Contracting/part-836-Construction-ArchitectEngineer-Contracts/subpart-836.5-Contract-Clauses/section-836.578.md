@@ -1,5 +1,7 @@
 ##### 836.578 Changes - supplement. #####
 
+Link to an amendment published at 84 FR 45682, Aug. 30, 2019.
+
 (a) The contracting officer shall insert the clause at 852.236-88, Contract changes - supplement, in solicitations and contracts for construction that are expected to exceed the micro-purchase threshold for construction. (This section has been promulgated as a deviation from the FAR as provided in 801.4.)
 
 (b) When negotiated changes exceed $500,000, paragraph (a) of the clause at 852.236-88 will apply. Because paragraph (a) does not provide ceiling rates for indirect expenses, the contractor must furnish cost breakdowns and other supporting data on its rates for indirect expenses as part of its price proposal. The contracting officer must negotiate the rates for indirect expenses with the contractor and may request an audit in accordance with FAR 15.404-2.

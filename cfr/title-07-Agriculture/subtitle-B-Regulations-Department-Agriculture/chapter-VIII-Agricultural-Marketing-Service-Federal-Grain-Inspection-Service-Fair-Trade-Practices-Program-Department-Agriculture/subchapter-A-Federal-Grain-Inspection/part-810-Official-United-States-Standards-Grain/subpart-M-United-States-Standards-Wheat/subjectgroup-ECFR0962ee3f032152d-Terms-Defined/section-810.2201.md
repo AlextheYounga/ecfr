@@ -1,0 +1,3 @@
+##### § 810.2201 Definition of wheat. #####
+
+Grain that, before the removal of dockage, consists of 50 percent or more common wheat (*Triticum aestivum* L.), club wheat (*T. compactum* Host.), and durum wheat (*T. durum* Desf.) and not more than 10 percent of other grains for which standards have been established under the United States Grain Standards Act and that, after the removal of the dockage, contains 50 percent or more of whole kernels of one or more of these wheats.

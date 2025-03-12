@@ -1,0 +1,9 @@
+##### § 800.155 Detailed work records—general requirements. #####
+
+(a) *Preparation.* Detailed work records shall be prepared for each official inspection, Class X or Class Y weighing, and equipment testing service performed or provided under the Act. The records shall (1) be on standard forms prescribed in the instructions; (2) be typed or legibly written in English; (3) be concise, complete, and accurate; (4) show all information and data that are needed to prepare the corresponding official certificates or official report; (5) show the name or initials of the individual who made each determination; and (6) show other information required by the Service to monitor or supervise the service provided.
+
+(b) *Use.* Detailed work records shall be used as a basis for (1) issuing official certificates or official forms, (2) approving inspection and weighing equipment for the performance of official inspection or Class X or Class Y weighing services, (3) monitoring and supervising activities under the Act, (4) answering inquiries from interested persons, (5) processing complaints, and (6) billing and accounting. These records may be used to report results of official inspection or Class X or Class Y weighing services in advance of issuing an official certificate.
+
+(c) *Standard forms.* The following standard forms shall be furnished by the Service to an agency: Official Export Grain Inspection and Weight Certificates (singly or combined), official inspection logs, official weight loading logs, official scale testing reports, and official volume of work reports. Other forms used by an agency in the performance of official services, including certificates, shall be furnished by the agency.
+
+(Approved by the Office of Management and Budget under control number 0580-0011)

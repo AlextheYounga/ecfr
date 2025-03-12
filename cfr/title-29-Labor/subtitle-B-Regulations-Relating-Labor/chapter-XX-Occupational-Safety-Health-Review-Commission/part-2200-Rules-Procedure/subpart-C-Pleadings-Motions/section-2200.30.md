@@ -4,7 +4,7 @@
 
 (b) *Clarity.* Each allegation or response of a pleading or motion shall be simple, concise, and direct.
 
-(c) *Separation claims.* Each allegation or response shall be made in separate numbered paragraphs. Each paragraph shall be limited as far as practicable to a statement of a single set of circumstances.
+(c) *Separation of claims.* Each allegation or response shall be made in separate numbered paragraphs. Each paragraph shall be limited as far as practicable to a statement of a single set of circumstances.
 
 (d) *Adoption by reference.* Statements in a pleading may be adopted by reference in a different part of the same pleading or in another pleading or in any motion. A copy of any written instrument which is an exhibit to a pleading is a part of the pleading for all purposes.
 
@@ -15,3 +15,5 @@
 (g) *Burden of persuasion.* The rules of pleading established by this subpart are not determinative in deciding which party bears the burden of persuasion on an issue. By pleading a matter affirmatively, a party does not waive its right to argue that the burden of persuasion on the matter is on another party.
 
 (h) *Enforcement of pleading rules.* The Commission or the Judge may refuse for filing any pleading or motion that does not comply with the requirements of this subpart.
+
+[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019]

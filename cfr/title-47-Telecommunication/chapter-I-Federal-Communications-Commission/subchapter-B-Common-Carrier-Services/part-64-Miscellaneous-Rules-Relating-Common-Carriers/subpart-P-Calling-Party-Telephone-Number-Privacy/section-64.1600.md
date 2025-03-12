@@ -1,5 +1,7 @@
 ##### § 64.1600 Definitions. #####
 
+Link to an amendment published at 84 FR 45678, Aug. 30, 2019.
+
 (a) *Aggregate information.* The term “aggregate information” means collective data that relate to a group or category of services or customers, from which individual customer identities or characteristics have been removed.
 
 (b) *ANI.* The term “ANI” (automatic number identification) refers to the delivery of the calling party's billing number by a local exchange carrier to any interconnecting carrier for billing or routing purposes, and to the subsequent delivery of such number to end users.

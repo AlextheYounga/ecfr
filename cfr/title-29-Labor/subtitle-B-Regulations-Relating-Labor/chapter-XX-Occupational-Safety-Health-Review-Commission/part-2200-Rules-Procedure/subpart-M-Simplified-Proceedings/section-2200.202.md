@@ -12,6 +12,8 @@
 
 (5) A hearing that is expected to take less than 2 days, or
 
-(6) A small employer whether appearing pro se or represented by counsel.
+(6) A small employer whether self-represented or represented by counsel.
 
 (b) Those cases with an aggregate proposed penalty of more than $20,000, but not more than $30,000, if otherwise appropriate, may be selected for Simplified Proceedings at the discretion of the Chief Administrative Law Judge.
+
+[84 FR 14558, Apr. 10, 2019; 84 FR 45655, Aug. 30, 2019]

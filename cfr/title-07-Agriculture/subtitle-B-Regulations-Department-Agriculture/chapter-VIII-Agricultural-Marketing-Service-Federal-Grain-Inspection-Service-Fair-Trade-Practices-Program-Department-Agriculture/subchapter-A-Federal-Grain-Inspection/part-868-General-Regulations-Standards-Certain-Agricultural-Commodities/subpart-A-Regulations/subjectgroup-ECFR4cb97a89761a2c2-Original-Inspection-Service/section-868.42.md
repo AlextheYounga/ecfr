@@ -1,0 +1,7 @@
+##### § 868.42 How to request original inspection service. #####
+
+(a) *General.* Requests may be made verbally or in writing. Verbal requests shall be confirmed in writing when requested by official personnel. All written requests shall include the information specified in § 868.21. Copies of request forms may be requested from the cooperator or the Service. If all required documentation is not available when the request is made, it shall be provided as soon as it is available. At their discretion, official personnel may withhold inspection service pending receipt of the required documentation.
+
+(b) *Request requirements.* Requests for original inspection service, other than submitted sample inspections, must be made with the cooperator or the Service responsible for the area in which the service will be provided. Requests for submitted sample inspections may be made with any cooperator or any field office that provides original inspection service. Requests for inspection of commodities during loading, unloading, handling, or processing shall be received far enough in advance so official personnel can be present.
+
+(Approved by the Office of Management and Budget under control number 0580-0012)[53 FR 3722, Feb. 9, 1988. Redesignated and amended at 60 FR 16364, Mar. 30, 1995]

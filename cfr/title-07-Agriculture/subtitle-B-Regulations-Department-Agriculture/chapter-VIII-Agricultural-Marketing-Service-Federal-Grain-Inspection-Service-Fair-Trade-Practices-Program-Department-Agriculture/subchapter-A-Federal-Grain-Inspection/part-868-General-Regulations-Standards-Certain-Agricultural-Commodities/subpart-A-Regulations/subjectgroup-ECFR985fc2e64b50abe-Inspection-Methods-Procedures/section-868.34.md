@@ -1,0 +1,3 @@
+##### § 868.34 Partial inspection. #####
+
+When the entire lot is not accessible for examination or a representative sample cannot be obtained from the entire lot, the certificate shall state the estimated quantity of the commodity in the accessible portion and the quantity of the entire lot. The inspection shall be limited to the accessible portion. In addition, the words “Partial Inspection” shall be printed or stamped on the certificate.

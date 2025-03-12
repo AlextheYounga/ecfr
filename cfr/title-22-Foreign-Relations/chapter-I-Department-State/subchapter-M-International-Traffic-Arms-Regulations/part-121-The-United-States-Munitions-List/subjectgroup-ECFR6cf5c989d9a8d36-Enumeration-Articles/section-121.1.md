@@ -1412,7 +1412,7 @@ This paragraph does not control radars that: (1) Are incapable of free space det
 
 (viii) Air surveillance radar with free space detection of 1 square meter RCS target at an altitude of 65,000 feet and an elevation angle greater than 20 degrees (*i.e.,* counter-battery);
 
-(ix) Air surveillance radar with multiple elevation beams, phase or amplitude monopulse estimation, or 3D height-finding;
+(ix) [Reserved]
 
 (x) Air surveillance radar with a beam solid angle less than or equal to 16 degrees2 that performs free space tracking of 1 square meter RCS target at a range greater or equal to 25 nmi with revisit rate greater or equal to1/3 Hz;
 
@@ -1719,6 +1719,10 @@ Parts and components controlled by this paragraph are limited to those that stor
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+
+Note to Category XI:
+
+Category XI does not control transmit/receive modules, transmit/receive MMICs, transmit modules, or transmit MMICs that incorporate or are MMICs fabricated exclusively with homojunction CMOS silicon-based circuits on silicon substrates, or radars and radar antennas specially designed to use only such modules or MMICs.
 
 Category XII - Fire Control, Laser, Imaging, and Guidance Equipment
 
@@ -3102,10 +3106,10 @@ Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
 
-Effective Date Note:At 83 FR 44229, Aug. 30, 2018, § 121.1 was amended by revising paragraph (b), effective Aug. 30, 2019. For the convenience of the user, the revised text is set forth as follows:
+Effective Date Note:At 84 FR 45654, Aug. 30, 2019, § 121.1 was amended by revising paragraph (b) under Category XI, effective Aug. 30, 2021. For the convenience of the user, the revised text is set forth as follows:
 
 ##### § 121.1 The United States Munitions List. #####
 
 Category XI - Military Electronics
 
-\* (b) Electronic systems or equipment, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
+\*(b) Electronic systems or equipment, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.

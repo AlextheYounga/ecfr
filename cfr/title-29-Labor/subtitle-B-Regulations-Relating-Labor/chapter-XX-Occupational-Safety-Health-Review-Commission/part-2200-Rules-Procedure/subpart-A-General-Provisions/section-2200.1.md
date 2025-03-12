@@ -12,7 +12,7 @@ As used in this part:
 
 (e) *Affected employee* means an employee of a cited employer who is exposed to or has access to the hazard arising out of the allegedly violative circumstances, conditions, practices, or operations.
 
-(f) *Judge* means an Administrative Law Judge appointed by the Chairman of the Commission pursuant to section 12(j) of the Act, 29 U.S.C. 661(j), as amended by Public Law 95-251, 92 Stat. 183, 184 (1978).
+(f) *Judge* means an Administrative Law Judge appointed pursuant to section 12(e) of the Act, 29 U.S.C. 661(e), as amended by Public Law 95-251, 92 Stat. 183, 184 (1978).
 
 (g) *Authorized employee representative* means a labor organization that has a collective bargaining relationship with the cited employer and that represents affected employees who are members of the collective bargaining unit.
 
@@ -29,3 +29,5 @@ As used in this part:
 (m) *Proceeding* means any proceeding before the Commission or before a Judge.
 
 (n) *Pleadings* are complaints and answers filed under § 2200.34, statements of reasons and employers' responses filed under § 2200.38, and petitions for modification of abatement and objecting parties' responses filed under § 2200.37. A motion is not a pleading within the meaning of these rules.
+
+[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019]

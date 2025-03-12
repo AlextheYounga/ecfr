@@ -1,5 +1,7 @@
 ##### § 64.1604 Prohibition on transmission of inaccurate or misleading caller identification information. #####
 
+Link to an amendment published at 84 FR 45678, Aug. 30, 2019.
+
 (a) No person or entity in the United States shall, with the intent to defraud, cause harm, or wrongfully obtain anything of value, knowingly cause, directly or indirectly, any caller identification service to transmit or display misleading or inaccurate caller identification information.
 
 (b) *Exemptions.* Paragraph (a) of this section shall not apply to:

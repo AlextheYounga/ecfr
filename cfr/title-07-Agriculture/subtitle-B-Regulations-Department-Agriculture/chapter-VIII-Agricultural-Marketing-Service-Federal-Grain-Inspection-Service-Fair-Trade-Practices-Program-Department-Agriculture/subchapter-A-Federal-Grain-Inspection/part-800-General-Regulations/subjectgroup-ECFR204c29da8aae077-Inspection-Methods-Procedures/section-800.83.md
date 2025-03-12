@@ -1,0 +1,9 @@
+##### § 800.83 Sampling provisions by kind of movement. #####
+
+(a) *Export cargo movements*—(1) *Bulk grain.* Except as may be approved by the Administrator on a shipment-by-shipment basis in an emergency, each inspection for official grade, official factor, or official criteria on an export cargo shipment of bulk grain shall be performed on official samples obtained from the grain (i) as the grain is being loaded aboard the final carrier; (ii) after the final elevation of the grain prior to loading and as near to the final loading spout as is physically practicable (except as approved by the Administrator when representative samples can be obtained before the grain reaches the final loading spout); and (iii) by means of a diverter-type mechanical sampler approved by the Service and operated in accordance with instructions. If an approved diverter-type mechanical sampler is not properly installed at an elevator or facility as required, each certificate issued at that elevator or facility for an export cargo shipment of bulk grain shall show a statement indicating the type of approved sampling method used, as prescribed in the instructions.
+
+(2) *Sacked grain.* Each inspection for official grade, official factor, or official criteria on an export cargo shipment of sacked grain shall be performed on official samples obtained from the grain by any sampling method approved by the Service and operated in accordance with instructions.
+
+(b) *Other movements.* Each inspection for official grade, official factor, or official criteria on a domestic cargo movement (“In,” “Out,” or en route barge movement), a movement in a land carrier (any movement in a railcar, truck trailer, truck/trailer combination, or container), or a “LOCAL” movement of bulk or sacked grain shall be performed on official samples obtained from the grain by any sampling method approved by the Service and operated in accordance with the instructions.
+
+[50 FR 49670, Dec. 4, 1985]

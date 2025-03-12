@@ -1,0 +1,5 @@
+##### § 800.158 Equipment testing work records. #####
+
+The record for each official equipment testing service or activity consists of an official equipment testing report as prescribed in the instructions. Upon completion of each official equipment test, one or more copies of the completed testing report may, upon request, be issued to the owner or operator of the equipment. The testing report shall show the (a) date the test was performed, (b) name of the organization and personnel that performed the test, (c) names of the Service employees who monitored the testing, (d) identification of equipment that was tested, (e) results of the test, (f) names of any interested persons who were informed of the test results, (g) number or other identification of the approval tag or label affixed to the equipment, and (h) other information required by the instructions.
+
+(Approved by the Office of Management and Budget under control number 0580-0011)

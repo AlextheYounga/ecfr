@@ -1,0 +1,3 @@
+##### § 810.201 Definition of barley. #####
+
+Grain that, before the removal of dockage, consists of 50 percent or more of whole kernels of cultivated barley (*Hordeum vulgare* L.) and not more than 25 percent of other grains for which standards have been established under the United States Grain Standards Act. The term “barley” as used in these standards does not include hull-less barley or black barley.

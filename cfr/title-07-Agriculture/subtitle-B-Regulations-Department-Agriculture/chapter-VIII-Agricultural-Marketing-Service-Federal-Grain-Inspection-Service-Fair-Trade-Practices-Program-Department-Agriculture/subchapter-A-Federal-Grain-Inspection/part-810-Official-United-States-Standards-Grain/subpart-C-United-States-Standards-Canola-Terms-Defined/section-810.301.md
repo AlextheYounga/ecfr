@@ -1,0 +1,3 @@
+##### § 810.301 Definition of canola. #####
+
+Seeds of the genus *Brassica* from which the oil shall contain less than 2 percent erucic acid in its fatty acid profile and the solid component shall contain less than 30.0 micromoles of any one or any mixture of 3-butenyl glucosinolate, 4-pentenyl glucosinolate, 2-hydroxy-3-butenyl, or 2-hydroxy-4-pentenyl glucosinolate, per gram of air-dried, oil free solid. Before the removal of dockage, the seed shall contain not more than 10.0% of other grains for which standards have been established under the United States Grain Standards Act.

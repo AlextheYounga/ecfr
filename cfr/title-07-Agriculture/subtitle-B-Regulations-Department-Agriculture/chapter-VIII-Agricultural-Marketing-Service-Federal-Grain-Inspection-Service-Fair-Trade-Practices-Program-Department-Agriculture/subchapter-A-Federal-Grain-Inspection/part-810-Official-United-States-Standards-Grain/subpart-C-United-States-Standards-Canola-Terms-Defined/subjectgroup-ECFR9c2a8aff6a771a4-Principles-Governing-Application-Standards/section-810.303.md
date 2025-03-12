@@ -1,0 +1,3 @@
+##### § 810.303 Basis of determination. #####
+
+Each determination of conspicuous admixture, ergot, sclerotinia, stones, damaged kernels, heat-damaged kernels, distinctly green kernels, and inconspicuous admixture is made on the basis of the sample when free from dockage. Other determinations not specifically provided for under the general provisions are made on the basis of the sample as a whole, except the determination of odor is made on either the basis of the sample as a whole or the sample when free from dockage. The content of glucosinolates and erucic acid is determined on the basis of the sample according to procedures prescribed in FGIS instructions.

@@ -1,0 +1,9 @@
+##### § 800.17 Special inspection and weighing requirements for sacked export grain. #####
+
+(a) *General.* Subject to the provisions of § 800.18, sacked export grain shall be (1) officially inspected on the basis of official samples obtained with an approved sampling device and operated in accordance with instructions, (2) Class X weighed or checkweighed, and (3) officially checkloaded by official personnel at the time the grain is loaded aboard the export carrier, in accordance with the provisions of paragraphs (b) and (c) of this section.
+
+(b) *Services at time of loading.* When official sampling, official inspection, Class X weighing or checkweighing, and checkloading of sacked export grain loaded aboard an export carrier is performed at one location and time, official export inspection and weight certificate(s) which identify the export carrier shall be issued.
+
+(c) *Services prior to loading.* When official sampling, official inspection, and Class X weighing or checkweighing of sacked export grain is performed prior to the date of loading aboard an export carrier, official “OUT” certificates shall be issued. An examination by official personnel for condition and checkloading of the grain shall be made as the grain is loaded aboard the export carrier. If the examination for condition and the checkloading shows that the identity or quantity of the grain has not changed or the condition of the grain has not changed beyond expected variations prescribed in the instruction, official export inspection and weight certificates shall be issued on the basis of the official “OUT” certificates and the checkloading. If the identity, quantity, or the condition has changed, official export inspection and weight certificates shall be issued on the basis of the most representative samples, including weight samples, obtained at the time the grain is loaded aboard the export carrier.
+
+[50 FR 49668, Dec. 4, 1985]

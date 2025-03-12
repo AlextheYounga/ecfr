@@ -1,10 +1,10 @@
 ##### § 622.402 Vessel and gear identification. #####
 
-Link to an amendment published at 84 FR 37151, July 31, 2019.
+(a) *EEZ off Florida.* (1) An owner or operator of a vessel that is used to harvest spiny lobster by traps in the EEZ off Florida must comply with the vessel and gear identification requirements specified in Rule 68B-24.006(3), (4), and (5), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
 
-(a) *EEZ off Florida.* (1) An owner or operator of a vessel that is used to harvest spiny lobster by traps in the EEZ off Florida must comply with the vessel and gear identification requirements specified in sections 379.367(2)(a)(1) and 379.367(3), Florida Statutes, in effect as of July 1, 2008 and in Rule 68B-24.006(3), (4), and (5), Florida Administrative Code, in effect as of July 1, 2008 (incorporated by reference, see § 622.413).
+(2) An owner or operator of a vessel that is used to harvest spiny lobster by diving in the EEZ off Florida must comply with the vessel identification requirements applicable to the harvesting of spiny lobsters by diving in Florida's waters in Rule 68B-24.006(6), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
 
-(2) An owner or operator of a vessel that is used to harvest spiny lobsters by diving in the EEZ off Florida must comply with the vessel identification requirements applicable to the harvesting of spiny lobsters by diving in Florida's waters in Rule 68B-24.006(6), Florida Administrative Code, in effect as of July 1, 2008 (incorporated by reference, see § 622.413).
+(3) An owner or operator of a vessel that is used to harvest spiny lobster by bully net in the EEZ off Florida must comply with the vessel identification requirements applicable to the harvesting of spiny lobsters by bully net in Florida's waters in Rule 68B-24.006(7), Florida Administrative Code, in effect as of May 1, 2017 (incorporated by reference, see § 622.413).
 
 (b) *EEZ other than off Florida.* (1) The owner or operator of a vessel that is used to harvest spiny lobsters in the EEZ other than off Florida, must meet the following vessel and gear identification requirements:
 
@@ -26,6 +26,8 @@ Link to an amendment published at 84 FR 37151, July 31, 2019.
 
 (c) *Unmarked traps and buoys.* An unmarked spiny lobster trap or buoy in the EEZ is illegal gear.
 
-(1) *EEZ off Florida.* Such trap or buoy, and any connecting lines, during times other than the authorized fishing season, will be considered derelict and may be disposed of in accordance with Rules 68B-55.002 and 68B-55.004 of the Florida Administrative Code, in effect as of October 15, 2007 (incorporated by reference, see § 622.413). An owner of such trap or buoy remains subject to appropriate civil penalties.
+(1) *EEZ off Florida.* Such trap or buoy, and any connecting lines will be considered derelict and may be disposed of in accordance with Rules 68B-55.002 and 68B-55.004 of the Florida Administrative Code, in effect as of October 15, 2007 (incorporated by reference, see § 622.413). An owner of such trap or buoy remains subject to appropriate civil penalties.
 
 (2) *EEZ other than off Florida.* Such trap or buoy, and any connecting lines, will be considered unclaimed or abandoned property and may be disposed of in any manner considered appropriate by the Assistant Administrator or an authorized officer. An owner of such trap or buoy remains subject to appropriate civil penalties.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 37151, July 31, 2019]

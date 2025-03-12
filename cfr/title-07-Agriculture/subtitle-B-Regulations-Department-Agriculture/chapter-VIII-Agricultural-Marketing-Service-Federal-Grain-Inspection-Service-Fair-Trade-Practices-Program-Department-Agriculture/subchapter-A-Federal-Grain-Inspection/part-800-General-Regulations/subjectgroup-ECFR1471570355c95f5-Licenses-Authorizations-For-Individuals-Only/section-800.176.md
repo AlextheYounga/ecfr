@@ -1,0 +1,3 @@
+##### § 800.176 Voluntary cancellation or suspension of licenses. #####
+
+Upon request by a licensee, the Service may cancel a license or suspend a license for a period of time not to exceed 1 year. A license that has been voluntarily suspended shall be returned by the Service upon request by the licensee within 1 year, subject to the provisions of § 800.172; a license that has been cancelled shall be considered void and shall not be subject to return or renewal.

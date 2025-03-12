@@ -1,5 +1,7 @@
 ##### § 76.64 Retransmission consent. #####
 
+Link to an amendment published at 84 FR 45669, Aug. 30, 2019.
+
 (a) No multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
 
 (b) A commercial broadcast signal may be retransmitted without express authority of the originating station if -

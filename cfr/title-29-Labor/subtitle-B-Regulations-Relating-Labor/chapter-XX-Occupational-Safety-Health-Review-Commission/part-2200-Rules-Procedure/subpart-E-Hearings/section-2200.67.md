@@ -4,7 +4,7 @@ It shall be the duty of the Judge to conduct a fair and impartial hearing, to as
 
 (a) Administer oaths and affirmations;
 
-(b) Issue authorized subpoenas and rule on petitions to modify, remove, or affirm, in accordance with § 2200.65;
+(b) Issue authorized subpoenas and rule on petitions to modify, revoke, or affirm, in accordance with § 2200.65;
 
 (c) Rule on claims of privilege and claims that information is protected and issue protective orders, in accordance with § 2200.52(d) and (e).
 
@@ -29,3 +29,5 @@ It shall be the duty of the Judge to conduct a fair and impartial hearing, to as
 (m) Adjourn the hearing as the needs of justice and good administration require;
 
 (n) Take any other action necessary under the foregoing and authorized by the published rules and regulations of the Commission.
+
+[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019]

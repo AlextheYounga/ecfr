@@ -1,0 +1,3 @@
+##### § 868.44 New original inspection. #####
+
+When circumstances prevent a retest inspection, appeal inspection, or Board appeal inspection, an applicant may request a new original inspection on any previously inspected lot; except that a new original inspection may not be performed on an identifiable commodity lot which, as a result of a previous inspection, was found to be contaminated with filth, other than insect fragments in nongraded processed products, or to contain a deleterious substance. A new original inspection shall be based on a new sample and shall not be restricted to the scope of any previous inspection. A new original inspection certificate shall not supersede any previously issued certificate.

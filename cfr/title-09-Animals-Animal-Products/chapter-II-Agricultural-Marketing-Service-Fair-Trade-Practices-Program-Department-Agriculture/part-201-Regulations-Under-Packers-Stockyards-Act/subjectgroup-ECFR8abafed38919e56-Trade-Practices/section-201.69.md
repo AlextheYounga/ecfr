@@ -1,0 +1,5 @@
+##### § 201.69 Furnishing information to competitor buyers. #####
+
+No packer, dealer, or market agency, in connection with transactions subject to the provisions of the act, shall, in person, or through employed buyers, for the purpose of restricting or limiting competition, manipulating livestock prices, or controlling the movement of livestock, prior to, or during the conduct of, his buying operations: (a) Furnish competitor packers, dealers, market agencies, or their buyers or representatives, similarly engaged in buying livestock, with information concerning his proposed buying operations, such as the species, classes, volume of livestock to be purchased, or prices to be paid; or (b) furnish any other buying information to competitor buyers.
+
+[19 FR 4531, July 22, 1954, as amended at 24 FR 3183, Apr. 24, 1959]

@@ -1,0 +1,3 @@
+##### § 868.7 Procedures for establishing regulations and standards. #####
+
+Notice of proposals to prescribe, amend, or revoke regulations and standards shall be published in accordance with applicable provisions of the Administrative Procedures Act (5 U.S.C. 551 *et seq.*). Any interested person desiring to file a petition for the issuance, amendment, or revocation of regulations or standards may do so in accordance with 7 CFR 1.28 of the regulations of the Office of the Secretary of Agriculture.

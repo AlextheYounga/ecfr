@@ -1,0 +1,3 @@
+##### § 810.203 Basis of determination. #####
+
+*All other determinations.* Each determination of heat-damaged kernels, injured-by-heat kernels, and white or blue aleurone layers in Six-rowed barley is made on pearled, dockage-free barley. Other determinations not specifically provided for under the *General Provisions* are made on the basis of the grain when free from dockage, except the determination of odor is made on either the basis of the grain as a whole or the grain when free from dockage.
