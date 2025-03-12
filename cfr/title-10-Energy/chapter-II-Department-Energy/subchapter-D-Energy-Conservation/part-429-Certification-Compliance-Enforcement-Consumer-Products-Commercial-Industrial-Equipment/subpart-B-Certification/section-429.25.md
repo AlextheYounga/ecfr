@@ -1,8 +1,10 @@
 ##### § 429.25 Television sets. #####
 
+Link to an amendment published at 88 FR 16109, Mar. 15, 2023.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to televisions; and
 
-(2) For each basic model of television, samples shall be randomly selected and tested to ensure that -
+(2) For each basic model of television, samples shall be randomly selected and tested to ensure that—
 
 (i) Any represented value of power consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 

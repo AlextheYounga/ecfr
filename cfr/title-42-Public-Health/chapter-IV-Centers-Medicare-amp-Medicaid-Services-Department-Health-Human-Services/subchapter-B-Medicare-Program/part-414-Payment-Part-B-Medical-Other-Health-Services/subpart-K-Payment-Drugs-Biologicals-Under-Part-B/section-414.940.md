@@ -1,6 +1,6 @@
 ##### § 414.940 Refund for certain discarded single-dose container or single-use package drugs. #####
 
-(a) *Provision of information to manufacturers* - (1) *In general.* For each calendar quarter beginning on or after January 1, 2023, CMS reports to each manufacturer (as defined in § 414.802) of a refundable single-dose container or single-use package drug the following for the calendar quarter:
+(a) *Provision of information to manufacturers*—(1) *In general.* For each calendar quarter beginning on or after January 1, 2023, CMS reports to each manufacturer (as defined in § 414.802) of a refundable single-dose container or single-use package drug the following for the calendar quarter:
 
 (i) Information on the total number of billing units of the billing and payment code of such drug, if any, that were discarded during such quarter, as determined by the JW modifier (or any successor modifier that includes the same data).
 
@@ -20,7 +20,7 @@
 
 (3) Amounts paid as refunds pursuant to this paragraph shall be deposited into the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Act.
 
-(c) *Refund amount.* The amount of the refund specified in this paragraph is, with respect to a refundable single-dose container or single-use package drug of a manufacturer assigned to a billing and payment code for a calendar quarter beginning on or after January 1, 2023, an amount equal to the estimated amount (if any) by which -
+(c) *Refund amount.* The amount of the refund specified in this paragraph is, with respect to a refundable single-dose container or single-use package drug of a manufacturer assigned to a billing and payment code for a calendar quarter beginning on or after January 1, 2023, an amount equal to the estimated amount (if any) by which—
 
 (1) The product of:
 
@@ -40,7 +40,7 @@
 
 (e) *Dispute resolution.* Each manufacturer has an opportunity to dispute information in the report described in paragraph (a) of this section by submitting an error report as described in this paragraph.
 
-(1) *Error report information.* To assert that there have been one or more errors in the report, a manufacturer must submit a dispute with each asserted error and provide the following information -
+(1) *Error report information.* To assert that there have been one or more errors in the report, a manufacturer must submit a dispute with each asserted error and provide the following information—
 
 (i) Manufacturer name and address;
 
@@ -52,12 +52,12 @@
 
 (2) *Form, manner, and timing of submission.* Each manufacturer asserting an error must submit its error report(s), in the form and manner specified by CMS, within 30-days after the issuance of the report.
 
-(e) *Enforcement.* (1) *Manufacturer audit*s. Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this section shall be subject to periodic audit with respect to such drug and such refunds.
+(f) *Enforcement.* (1) *Manufacturer audit*s. Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this section shall be subject to periodic audit with respect to such drug and such refunds.
 
-(2) *Civil money penalty.* The Secretary shall impose a civil money penalty on a manufacturer of a refundable single-dose container or single-use package drug who has failed to comply with the requirement under paragraph (b) of this section for such drug for a calendar quarter in an amount equal to the sum of -
+(2) *Civil money penalty.* The Secretary shall impose a civil money penalty on a manufacturer of a refundable single-dose container or single-use package drug who has failed to comply with the requirement under paragraph (b) of this section for such drug for a calendar quarter in an amount equal to the sum of—
 
 (i) The amount that the manufacturer would have paid under such paragraph with respect to such drug for such quarter; and
 
 (ii) 25 percent of such amount.
 
-[87 FR 70226, Nov. 18, 2022]
+[87 FR 70226, Nov. 18, 2022, as amended at 88 FR 15920, Mar. 15, 2023]

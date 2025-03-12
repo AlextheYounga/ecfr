@@ -1,5 +1,7 @@
 ##### § 9.22 Submission of certain applications and forms affecting entitlement to Servicemembers' Group Life Insurance and Veterans' Group Life Insurance. #####
 
+Link to an amendment published at 88 FR 15912, Mar. 15, 2023.
+
 (a)(1) For purposes of this section, the terms *in writing* and *written* mean an intentional recording of words in visual form and include:
 
 (i) Hard-copy applications and forms containing a person's name or mark written or made by that person; and
@@ -18,7 +20,7 @@
 
 (v) Increase the amount of coverage under Veterans' Group Life Insurance (38 U.S.C. 1977(a)(3)).
 
-(b) Applications or forms that satisfy the definition in paragraph (a)(1) of this section may be utilized to -
+(b) Applications or forms that satisfy the definition in paragraph (a)(1) of this section may be utilized to—
 
 (1) Apply for Veterans' Group Life Insurance; and
 

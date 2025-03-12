@@ -12,7 +12,7 @@
 
 (2) [Reserved]
 
-(b) *Performance categories.* MIPS eligible clinicians are scored under MIPS in four performance categories. (1) *Quality performance category* - (i) *Measure achievement points.* For the CY 2017 through 2022 performance periods/2019 through 2024 MIPS payment years, MIPS eligible clinicians receive between 3 and 10 measure achievement points (including partial points) for each measure required under § 414.1335 on which data is submitted in accordance with § 414.1325 that has a benchmark at paragraph (b)(1)(ii) of this section, meets the case minimum requirement at paragraph (b)(1)(iii) of this section, and meets the data completeness requirement at § 414.1340 and for each administrative claims-based measure that has a benchmark at paragraph (b)(1)(ii) of this section and meets the case minimum requirement at paragraph (b)(1)(iii) of this section. Except as provided under paragraph (b)(1)(i)(C) of this section, beginning with the CY 2023 performance period/2025 MIPS payment year, MIPS eligible clinicians receive between 1 and 10 measure achievement points (including partial points) for each such measure. The number of measure achievement points received for each such measure is determined based on the applicable benchmark decile category and the percentile distribution. MIPS eligible clinicians receive zero measure achievement points for each measure required under § 414.1335 on which no data is submitted in accordance with § 414.1325. MIPS eligible clinicians that submit data in accordance with § 414.1325 on a greater number of measures than required under § 414.1335 are scored only on the required measures with the greatest number of measure achievement points. Beginning with the CY 2019 performance period/2021 MIPS payment year, MIPS eligible clinicians that submit data in accordance with § 414.1325 on a single measure via multiple collection types are scored only on the data submission with the greatest number of measure achievement points.
+(b) *Performance categories.* MIPS eligible clinicians are scored under MIPS in four performance categories. (1) *Quality performance category*—(i) *Measure achievement points.* For the CY 2017 through 2022 performance periods/2019 through 2024 MIPS payment years, MIPS eligible clinicians receive between 3 and 10 measure achievement points (including partial points) for each measure required under § 414.1335 on which data is submitted in accordance with § 414.1325 that has a benchmark at paragraph (b)(1)(ii) of this section, meets the case minimum requirement at paragraph (b)(1)(iii) of this section, and meets the data completeness requirement at § 414.1340 and for each administrative claims-based measure that has a benchmark at paragraph (b)(1)(ii) of this section and meets the case minimum requirement at paragraph (b)(1)(iii) of this section. Except as provided under paragraph (b)(1)(i)(C) of this section, beginning with the CY 2023 performance period/2025 MIPS payment year, MIPS eligible clinicians receive between 1 and 10 measure achievement points (including partial points) for each such measure. The number of measure achievement points received for each such measure is determined based on the applicable benchmark decile category and the percentile distribution. MIPS eligible clinicians receive zero measure achievement points for each measure required under § 414.1335 on which no data is submitted in accordance with § 414.1325. MIPS eligible clinicians that submit data in accordance with § 414.1325 on a greater number of measures than required under § 414.1335 are scored only on the required measures with the greatest number of measure achievement points. Beginning with the CY 2019 performance period/2021 MIPS payment year, MIPS eligible clinicians that submit data in accordance with § 414.1325 on a single measure via multiple collection types are scored only on the data submission with the greatest number of measure achievement points.
 
 (A) *Lack of benchmark or case minimum.*
 
@@ -280,41 +280,41 @@ Table 2 to Paragraph (c)(2)(ii)(A)
 
 (B) For the 2020 MIPS payment year:
 
-|                     Reweighting scenario                      |Quality  <br/>(%)|Cost  <br/>(%)|Improvement activities  <br/>(%)|Promoting interoperability  <br/>(%)|
-|---------------------------------------------------------------|-----------------|--------------|--------------------------------|------------------------------------|
-|                    No Reweighting Needed:                     |                 |              |                                |                                    |
-|         \- Scores for all four performance categories         |       50        |      10      |               15               |                 25                 |
-|              Reweight One Performance Category:               |                 |              |                                |                                    |
-|                           \- No Cost                          |       60        |      0       |               15               |                 25                 |
-|                \- No Promoting Interoperability               |       75        |      10      |               15               |                 0                  |
-|                         \- No Quality                         |        0        |      10      |               45               |                 45                 |
-|                  \- No Improvement Activities                 |       65        |      10      |               0                |                 25                 |
-|             Reweight Two Performance Categories:              |                 |              |                                |                                    |
-|          \- No Cost and no Promoting Interoperability         |       85        |      0       |               15               |                 0                  |
-|                   \- No Cost and no Quality                   |        0        |      0       |               50               |                 50                 |
-|            \- No Cost and no Improvement Activities           |       75        |      0       |               0                |                 25                 |
-|        \- No Promoting Interoperability and no Quality        |        0        |      10      |               90               |                 0                  |
-| \- No Promoting Interoperability and no Improvement Activities|       90        |      10      |               0                |                 0                  |
-|          \- No Quality and no Improvement Activities          |        0        |      10      |               0                |                 90                 |
+|                    Reweighting scenario                    |Quality  <br/>(%)|Cost  <br/>(%)|Improvement activities  <br/>(%)|Promoting interoperability  <br/>(%)|
+|------------------------------------------------------------|-----------------|--------------|--------------------------------|------------------------------------|
+|                   No Reweighting Needed:                   |                 |              |                                |                                    |
+|        —Scores for all four performance categories         |       50        |      10      |               15               |                 25                 |
+|             Reweight One Performance Category:             |                 |              |                                |                                    |
+|                          —No Cost                          |       60        |      0       |               15               |                 25                 |
+|               —No Promoting Interoperability               |       75        |      10      |               15               |                 0                  |
+|                        —No Quality                         |        0        |      10      |               45               |                 45                 |
+|                 —No Improvement Activities                 |       65        |      10      |               0                |                 25                 |
+|            Reweight Two Performance Categories:            |                 |              |                                |                                    |
+|         —No Cost and no Promoting Interoperability         |       85        |      0       |               15               |                 0                  |
+|                  —No Cost and no Quality                   |        0        |      0       |               50               |                 50                 |
+|           —No Cost and no Improvement Activities           |       75        |      0       |               0                |                 25                 |
+|       —No Promoting Interoperability and no Quality        |        0        |      10      |               90               |                 0                  |
+|—No Promoting Interoperability and no Improvement Activities|       90        |      10      |               0                |                 0                  |
+|         —No Quality and no Improvement Activities          |        0        |      10      |               0                |                 90                 |
 
 (C) For the 2021 MIPS payment year:
 
-|                     Reweighting scenario                      |Quality  <br/>(%)|Cost  <br/>(%)|Improvement activities  <br/>(%)|Promoting interoperability  <br/>(%)|
-|---------------------------------------------------------------|-----------------|--------------|--------------------------------|------------------------------------|
-|                    No Reweighting Needed:                     |                 |              |                                |                                    |
-|         \- Scores for all four performance categories         |       45        |      15      |               15               |                 25                 |
-|              Reweight One Performance Category:               |                 |              |                                |                                    |
-|                           \- No Cost                          |       60        |      0       |               15               |                 25                 |
-|                \- No Promoting Interoperability               |       70        |      15      |               15               |                 0                  |
-|                         \- No Quality                         |        0        |      15      |               40               |                 45                 |
-|                  \- No Improvement Activities                 |       60        |      15      |               0                |                 25                 |
-|             Reweight Two Performance Categories:              |                 |              |                                |                                    |
-|          \- No Cost and no Promoting Interoperability         |       85        |      0       |               15               |                 0                  |
-|                   \- No Cost and no Quality                   |        0        |      0       |               50               |                 50                 |
-|            \- No Cost and no Improvement Activities           |       75        |      0       |               0                |                 25                 |
-|        \- No Promoting Interoperability and no Quality        |        0        |      15      |               85               |                 0                  |
-| \- No Promoting Interoperability and no Improvement Activities|       85        |      15      |               0                |                 0                  |
-|          \- No Quality and no Improvement Activities          |        0        |      15      |               0                |                 85                 |
+|                    Reweighting scenario                    |Quality  <br/>(%)|Cost  <br/>(%)|Improvement activities  <br/>(%)|Promoting interoperability  <br/>(%)|
+|------------------------------------------------------------|-----------------|--------------|--------------------------------|------------------------------------|
+|                   No Reweighting Needed:                   |                 |              |                                |                                    |
+|        —Scores for all four performance categories         |       45        |      15      |               15               |                 25                 |
+|             Reweight One Performance Category:             |                 |              |                                |                                    |
+|                          —No Cost                          |       60        |      0       |               15               |                 25                 |
+|               —No Promoting Interoperability               |       70        |      15      |               15               |                 0                  |
+|                        —No Quality                         |        0        |      15      |               40               |                 45                 |
+|                 —No Improvement Activities                 |       60        |      15      |               0                |                 25                 |
+|            Reweight Two Performance Categories:            |                 |              |                                |                                    |
+|         —No Cost and no Promoting Interoperability         |       85        |      0       |               15               |                 0                  |
+|                  —No Cost and no Quality                   |        0        |      0       |               50               |                 50                 |
+|           —No Cost and no Improvement Activities           |       75        |      0       |               0                |                 25                 |
+|       —No Promoting Interoperability and no Quality        |        0        |      15      |               85               |                 0                  |
+|—No Promoting Interoperability and no Improvement Activities|       85        |      15      |               0                |                 0                  |
+|         —No Quality and no Improvement Activities          |        0        |      15      |               0                |                 85                 |
 
 (D) For the 2022 MIPS payment year:
 
@@ -446,7 +446,7 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (ii) A facility-based MIPS eligible group is scored with facility-based measurement using the score derived from the value-based purchasing score for the facility at which the plurality of clinicians identified as facility-based would have had their score determined under paragraph (e)(5)(i) of this section.
 
-(6) *MIPS performance category scoring under the facility-based measurement scoring standard* - (i) *Measures.* The quality and cost measures are those adopted under the value-based purchasing program of the facility for the year described in paragraph (e)(1)(i) of this section.
+(6) *MIPS performance category scoring under the facility-based measurement scoring standard*—(i) *Measures.* The quality and cost measures are those adopted under the value-based purchasing program of the facility for the year described in paragraph (e)(1)(i) of this section.
 
 (ii) *Benchmarks.* The benchmarks are those adopted under the value-based purchasing program of the facility program for the year described in paragraph (e)(1) of this section.
 
@@ -456,10 +456,14 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (v) *Cost.* The cost performance category score is established by determining the percentile performance of the facility in the value-based purchasing program for the specified year as described in paragraph (e)(1) of this section and awarding a score associated with that same percentile performance in the MIPS cost performance category score for those MIPS eligible clinicians who are not eligible to be scored using facility-based measurement for the MIPS payment year. A MIPS eligible clinician or MIPS eligible group receiving a facility-based performance score will not earn improvement points based on prior performance in the MIPS cost performance category.
 
+(A) Other cost measures. MIPS eligible clinicians who are scored under facility-based measurement are not scored on cost measures described in paragraph (b)(2) of this section.
+
+(B) [Reserved]
+
 (vi) *Use of score from facility-based measurement.* The MIPS quality and cost performance category scores will be based on the facility-based measurement scoring methodology described in paragraph (e)(6) of this section unless:
 
 (A) For the CY 2019 MIPS performance period/2021 MIPS payment year, through the CY 2021 MIPS performance period/2023 MIPS payment year, a MIPS eligible clinician or group receives a higher combined MIPS quality and cost performance category score through another MIPS submission.
 
 (B) Beginning with the CY 2022 MIPS performance period/2024 MIPS payment year, a MIPS eligible clinician or group receives a higher MIPS final score through another MIPS submission.
 
-[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019; 85 FR 19287, Apr. 6, 2020; 85 FR 85031, Dec. 28, 2020; 86 FR 65673, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 7747, Feb. 10, 2022; 87 FR 70228, Nov. 18, 2022]
+[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019; 85 FR 19287, Apr. 6, 2020; 85 FR 85031, Dec. 28, 2020; 86 FR 65673, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 7747, Feb. 10, 2022; 87 FR 70228, Nov. 18, 2022; 88 FR 15921, Mar. 15, 2023]

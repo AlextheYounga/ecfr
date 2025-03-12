@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
+Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -32,13 +32,13 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by—
 
 (B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
 (ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by—
 
 (B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place.
 
@@ -92,13 +92,13 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by—
 
 (B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix B of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
 (ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by—
 
 (B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix B of this subpart, the resulting quotient then being rounded to the second decimal place.
 
@@ -149,7 +149,7 @@ EAEU = (M + MWS + MDO + MCO + EF−(ED/2) + W + WWS + WDO + WCO) × N + ETLPWher
 
 (d) *Clothes dryers.* (1) The estimated annual energy consumption for clothes dryers, expressed in kilowatt-hours per year, shall be the product of the annual representative average number of clothes dryer cycles as specified in appendix D1 or D2 to this subpart, as appropriate, and the per-cycle combined total energy consumption in kilowatt-hours per cycle, determined according to section 4.6 of appendix D1 or section 4.6 of appendix D2 to this subpart, as appropriate.
 
-(2) The estimated annual operating cost for clothes dryers shall be -
+(2) The estimated annual operating cost for clothes dryers shall be—
 
 (i) For an electric clothes dryer, the product of the following three factors, with the resulting product then being rounded off to the nearest dollar per year:
 
@@ -211,7 +211,7 @@ EAEU = (M + MWS + MDO + MCO + EF−(ED/2) + W + WWS + WDO + WCO) × N + ETLPWher
 
 (2) The estimated regional annual operating cost for primary electric heaters, shall be the product of: (i) The regional annual electric energy consumption in kilowatt-hours per year for primary heaters determined according to section 3.2 of appendix G of this subpart and (ii) the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting product then being rounded off to the nearest dollar per year.
 
-(3) The estimated operating cost per million Btu output shall be -
+(3) The estimated operating cost per million Btu output shall be—
 
 (i) For primary and supplementary electric heaters and unvented gas and oil heaters without an auxiliary electric system, the product of:
 
@@ -469,13 +469,13 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by—
 
 (B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
 (ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by—
 
 (B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place.
 

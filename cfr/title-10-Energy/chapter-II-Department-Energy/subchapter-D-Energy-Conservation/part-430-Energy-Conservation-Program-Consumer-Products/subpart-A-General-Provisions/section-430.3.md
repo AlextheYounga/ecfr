@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.
+Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -10,11 +10,11 @@ Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment
 
 (2) ANSI/AMCA Standard 208-18, (“AMCA 208-18”), Calculation of the Fan Energy Index, ANSI approved January 24, 2018, IBR approved for appendix U to this subpart.
 
-(3) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8 - Report and Results of Test, Section 8.2 - Performance graphical representation of test results, IBR approved for appendices M and M1 to subpart B, as follows:
+(3) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8—Report and Results of Test, Section 8.2—Performance graphical representation of test results, IBR approved for appendices M and M1 to subpart B, as follows:
 
-(i) Figure 2A - Static Pressure Tap, and
+(i) Figure 2A—Static Pressure Tap, and
 
-(ii) Figure 12 - Outlet Chamber Setup - Multiple Nozzles in Chamber.
+(ii) Figure 12—Outlet Chamber Setup—Multiple Nozzles in Chamber.
 
 (4) ANSI/AMCA Standard 230-15 (“AMCA 230-15”), *Laboratory Methods of Testing Air Circulating Fans for Rating and Certification,* ANSI-approved October 16, 2015; IBR approved for appendix U of subpart B.
 
@@ -24,33 +24,33 @@ Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment
 
 (1) ANSI/AHRI 210/240-2008 with Addenda 1 and 2 (”AHRI 210/240-2008”), 2008 Standard for Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment, ANSI approved October 27, 2011 (Addendum 1 dated June 2011 and Addendum 2 dated March 2012), IBR approved for appendices M and M1 to subpart B, as follows:
 
-(i) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.3 - Standard Rating Tests, 6.1.3.2 - Electrical Conditions;
+(i) Section 6—Rating Requirements, Section 6.1—Standard Ratings, 6.1.3—Standard Rating Tests, 6.1.3.2—Electrical Conditions;
 
-(ii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.3 - Standard Rating Tests, 6.1.3.4 - Outdoor-Coil Airflow Rate;
+(ii) Section 6—Rating Requirements, Section 6.1—Standard Ratings, 6.1.3—Standard Rating Tests, 6.1.3.4—Outdoor-Coil Airflow Rate;
 
-(iii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.3 - Standard Rating Tests, 6.1.3.5 - Requirements for Separated Assemblies;
+(iii) Section 6—Rating Requirements, Section 6.1—Standard Ratings, 6.1.3—Standard Rating Tests, 6.1.3.5—Requirements for Separated Assemblies;
 
-(iv) Figure D1 - Tunnel Air Enthalpy Test Method Arrangement;
+(iv) Figure D1—Tunnel Air Enthalpy Test Method Arrangement;
 
-(v) Figure D2 - Loop Air Enthalpy Test Method Arrangement; and
+(v) Figure D2—Loop Air Enthalpy Test Method Arrangement; and
 
-(vi) Figure D4 - Room Air Enthalpy Test Method Arrangement.
+(vi) Figure D4—Room Air Enthalpy Test Method Arrangement.
 
 (2) AHRI Standard 1160-2009 (“AHRI 1160”), Performance Rating of Heat Pump Pool Heaters, 2009, IBR approved for appendix P to subpart B.
 
 (3) ANSI/AHRI 1230-2010 with Addendum 2 (“AHRI 1230-2010”), 2010 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment (including Addendum 1 dated March 2011), ANSI approved August 2, 2010 (Addendum 2 dated June 2014), IBR approved for appendices M and M1 to subpart B, as follows:
 
-(i) Section 3 - Definitions (except 3.8, 3.9, 3.13, 3.14, 3.15, 3.16, 3.23, 3.24, 3.26, 3.27, 3.28, 3.29, 3.30, and 3.31);
+(i) Section 3—Definitions (except 3.8, 3.9, 3.13, 3.14, 3.15, 3.16, 3.23, 3.24, 3.26, 3.27, 3.28, 3.29, 3.30, and 3.31);
 
-(ii) Section 5 - Test Requirements, Section 5.1 (untitled), 5.1.3-5.1.4;
+(ii) Section 5—Test Requirements, Section 5.1 (untitled), 5.1.3-5.1.4;
 
-(iii) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.5 - Airflow Requirements for Systems with Capacities \<65,000 Btu/h [19,000 W];
+(iii) Section 6—Rating Requirements, Section 6.1—Standard Ratings, 6.1.5—Airflow Requirements for Systems with Capacities \<65,000 Btu/h [19,000 W];
 
-(iv) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.6 - Outdoor-Coil Airflow Rate (Applies to all Air-to-Air Systems);
+(iv) Section 6—Rating Requirements, Section 6.1—Standard Ratings, 6.1.6—Outdoor-Coil Airflow Rate (Applies to all Air-to-Air Systems);
 
-(v) Section 6 - Rating Requirements, Section 6.2 - Conditions for Standard Rating Test for Air-cooled Systems \< 65,000 Btu/h [19,000W] (except Table 8); and
+(v) Section 6—Rating Requirements, Section 6.2—Conditions for Standard Rating Test for Air-cooled Systems \< 65,000 Btu/h [19,000W] (except Table 8); and
 
-(vi) Table 4 - Refrigerant Line Length Correction Factors.
+(vi) Table 4—Refrigerant Line Length Correction Factors.
 
 (d) *AATCC.* American Association of Textile Chemists and Colorists, P.O. Box 12215, Research Triangle Park, NC 27709, (919) 549-3526, or go to *www.aatcc.org.*
 
@@ -64,51 +64,51 @@ Link to an amendment published at 88 FR 14044, Mar. 6, 2023.Link to an amendment
 
 (1) ANSI C78.3-1991 (“ANSI C78.3”), American National Standard for Fluorescent Lamps-Instant-start and Cold-Cathode Types-Dimensional and Electrical Characteristics, approved July 15, 1991; IBR approved for § 430.32.
 
-(2) ANSI C78.20-2003, Revision of ANSI C78.20-1995 (“ANSI C78.20”), American National Standard for electric lamps - A, G, PS, and Similar Shapes with E26 Medium Screw Bases, approved October 30, 2003; IBR approved for § 430.2.
+(2) ANSI C78.20-2003, Revision of ANSI C78.20-1995 (“ANSI C78.20”), American National Standard for electric lamps—A, G, PS, and Similar Shapes with E26 Medium Screw Bases, approved October 30, 2003; IBR approved for § 430.2.
 
-(3) ANSI C78.21-1989, American National Standard for Electric Lamps - PAR and R Shapes, approved March 3, 1989, IBR approved for § 430.2.
+(3) ANSI C78.21-1989, American National Standard for Electric Lamps—PAR and R Shapes, approved March 3, 1989, IBR approved for § 430.2.
 
-(4) ANSI C78.21-2011 (R2016) (“ANSI C78.21-2016”), *American National Standard for Electric Lamps - PAR and R Shapes,* ANSI-approved August 23, 2016; IBR approved for § 430.2.
+(4) ANSI C78.21-2011 (R2016) (“ANSI C78.21-2016”), *American National Standard for Electric Lamps—PAR and R Shapes,* ANSI-approved August 23, 2016; IBR approved for § 430.2.
 
-(5) ANSI C78.79-2014 (R2020) (“ANSI C78.79-2020”), *American National Standard for Electric Lamps - Nomenclature for Envelope Shapes Intended for Use with Electric Lamps,* ANSI-approved January 17, 2020; IBR approved for § 430.2.
+(5) ANSI C78.79-2014 (R2020) (“ANSI C78.79-2020”), *American National Standard for Electric Lamps—Nomenclature for Envelope Shapes Intended for Use with Electric Lamps,* ANSI-approved January 17, 2020; IBR approved for § 430.2.
 
-(6) ANSI\_\_ANSLG C78.81-2010, (“ANSI C78.81-2010”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
+(6) ANSI\_\_ANSLG C78.81-2010, (“ANSI C78.81-2010”), American National Standard for Electric Lamps—Double-Capped Fluorescent Lamps— Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
 
-(7) ANSI C78.81-2016, American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendices Q and R to subpart B.
+(7) ANSI C78.81-2016, American National Standard for Electric Lamps—Double-Capped Fluorescent Lamps—Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendices Q and R to subpart B.
 
-(8) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps - Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix R to subpart B.
+(8) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps—Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix R to subpart B.
 
-(9) ANSI C78.375A-2014 (R2020) (“ANSI C78.375A-2020”) *American National Standard for Electric Lamps - Fluorescent Lamps - Guide for Electrical Measures,* ANSI-approved January 17, 2020; IBR approved for appendix R to subpart B.
+(9) ANSI C78.375A-2014 (R2020) (“ANSI C78.375A-2020”) *American National Standard for Electric Lamps—Fluorescent Lamps—Guide for Electrical Measures,* ANSI-approved January 17, 2020; IBR approved for appendix R to subpart B.
 
-(10) ANSI\_\_IEC C78.901-2005, (“ANSI C78.901-2005”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
+(10) ANSI\_\_IEC C78.901-2005, (“ANSI C78.901-2005”), American National Standard for Electric Lamps—Single-Based Fluorescent Lamps—Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
 
-(11) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
+(11) ANSI C78.901-2014, American National Standard for Electric Lamps—Single-Based Fluorescent Lamps—Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
 
-(12) ANSI/NEMA C78.901-2016 (“ANSI C78.901-2016”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved August 23, 2016, IBR approved for appendices Q and R to subpart B.
+(12) ANSI/NEMA C78.901-2016 (“ANSI C78.901-2016”), American National Standard for Electric Lamps—Single-Based Fluorescent Lamps—Dimensional and Electrical Characteristics, ANSI approved August 23, 2016, IBR approved for appendices Q and R to subpart B.
 
-(13) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs - Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
+(13) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs—Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
 
-(14) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
+(14) ANSI C79.1-2002, American National Standard for Electric Lamps—Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
 
-(15) ANSI\_\_ANSLG\_\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for §§ 430.2; 430.32.
+(15) ANSI\_\_ANSLG\_\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases—Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for §§ 430.2; 430.32.
 
-(16) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts - Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
+(16) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts—Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
 
-(17) ANSI C82.2-2002 (R2007, R2016), (“ANSI C82.2”), American National Standard for Lamp Ballasts - Method of Measurement of Fluorescent Lamp Ballasts, approved July 12, 2016, IBR approved for appendix Q to subpart B.
+(17) ANSI C82.2-2002 (R2007, R2016), (“ANSI C82.2”), American National Standard for Lamp Ballasts—Method of Measurement of Fluorescent Lamp Ballasts, approved July 12, 2016, IBR approved for appendix Q to subpart B.
 
 (18) ANSI C82.3-2016, (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved April 8, 2016; IBR approved for appendices Q and R to subpart B.
 
-(19) ANSI/NEMA C82.11-2017, (“ANSI C82.11”), American National Standard for Lamp Ballasts - High-Frequency Fluorescent Lamp Ballasts, approved January 23, 2017; IBR approved for appendix Q to subpart B.
+(19) ANSI/NEMA C82.11-2017, (“ANSI C82.11”), American National Standard for Lamp Ballasts—High-Frequency Fluorescent Lamp Ballasts, approved January 23, 2017; IBR approved for appendix Q to subpart B.
 
-(20) ANSI C82.13-2002 (“ANSI C82.13”), American National Standard for Lamp Ballasts - Definitions for Fluorescent Lamps and Ballasts, approved July 23, 2002; IBR approved for appendix Q to subpart B.
+(20) ANSI C82.13-2002 (“ANSI C82.13”), American National Standard for Lamp Ballasts—Definitions for Fluorescent Lamps and Ballasts, approved July 23, 2002; IBR approved for appendix Q to subpart B.
 
-(21) ANSI C82.77-2002, (“ANSI C82.77”) Harmonic Emission Limits - Related Power Quality Requirements for Lighting Equipment, approved January 17, 2002; IBR approved for appendix Q to subpart B.
+(21) ANSI C82.77-2002, (“ANSI C82.77”) Harmonic Emission Limits—Related Power Quality Requirements for Lighting Equipment, approved January 17, 2002; IBR approved for appendix Q to subpart B.
 
-(22) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for appendices Y and Y1 to subpart B; as follows:
+(22) ANSI/NEMA WD 6-2016, *Wiring Devices—Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for appendices Y and Y1 to subpart B; as follows:
 
-(i) Figure 1-15 - Plug and Receptacle; and
+(i) Figure 1-15—Plug and Receptacle; and
 
-(ii) Figure 5-15 - Plug and Receptacle.
+(ii) Figure 5-15—Plug and Receptacle.
 
 (23) ANSI Z21.56-2006, section 2.10 (“ANSI Z21.56”), Standard for Gas-Fired Pool Heaters, approved December 13, 2005, IBR approved for appendix P to subpart B.
 
@@ -124,7 +124,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (f) *AS/NZS.* Australian/New Zealand Standard, GPO Box 476, Sydney NSW 2001, (02) 9237-6000 or (12) 0065-4646, or go to *www.standards.org.au/*Standards New Zealand, Level 10 Radio New Zealand House 144 The Terrace Wellington 6001 (Private Bag 2439 Wellington 6020), (04) 498-5990 or (04) 498-5991, or go to *www.standards.co.nz.*
 
-(1) AS/NZS 4474.1:2007, Performance of Household Electrical Appliances - Refrigerating Appliances; Part 1: Energy Consumption and Performance, Second edition, published August 15, 2007, IBR approved for Appendix A to Subpart B.
+(1) AS/NZS 4474.1:2007, Performance of Household Electrical Appliances—Refrigerating Appliances; Part 1: Energy Consumption and Performance, Second edition, published August 15, 2007, IBR approved for Appendix A to Subpart B.
 
 (2) [Reserved]
 
@@ -134,55 +134,55 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (2) ANSI/ASHRAE 23.1-2010, (“ASHRAE 23.1-2010”), Methods of Testing for Rating the Performance of Positive Displacement Refrigerant Compressors and Condensing Units that Operate at Subcritical Temperatures of the Refrigerant, ANSI approved January 28, 2010, IBR approved for appendices M and M1 to subpart B, as follows:
 
-(i) Section 5 - Requirements;
+(i) Section 5—Requirements;
 
-(ii) Section 6 - Instruments;
+(ii) Section 6—Instruments;
 
-(iii) Section 7 - Methods of Testing; and
+(iii) Section 7—Methods of Testing; and
 
-(iv) Section 8 - Compressor Testing.
+(iv) Section 8—Compressor Testing.
 
 (3) ANSI/ASHRAE Standard 37-2009, (“ASHRAE 37-2009”), Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment, ANSI approved June 25, 2009, IBR approved for appendices AA and CC to subpart B.
 
 (4) ANSI/ASHRAE Standard 37-2009, (“ANSI/ASHRAE 37-2009”), Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment, ANSI approved June 25, 2009, IBR approved for appendices M and M1 to subpart B, as follows:
 
-(i) Section 5 - Instruments, Section 5.1 - Temperature Measuring Instruments: 5.1.1;
+(i) Section 5—Instruments, Section 5.1—Temperature Measuring Instruments: 5.1.1;
 
-(ii) Section 5 - Instruments, Section 5.2 - Refrigerant, Liquid, and Barometric Pressure Measuring Instruments;
+(ii) Section 5—Instruments, Section 5.2—Refrigerant, Liquid, and Barometric Pressure Measuring Instruments;
 
-(iii) Section 5 - Instruments, Section 5.5 - Volatile Refrigerant Flow Measurement;
+(iii) Section 5—Instruments, Section 5.5—Volatile Refrigerant Flow Measurement;
 
-(iv) Section 6 - Airflow and Air Differential Pressure Measurement Apparatus, Section 6.1 - Enthalpy Apparatus (Excluding Figure 3): 6.1.1-6.1.2 and 6.1.4;
+(iv) Section 6—Airflow and Air Differential Pressure Measurement Apparatus, Section 6.1—Enthalpy Apparatus (Excluding Figure 3): 6.1.1-6.1.2 and 6.1.4;
 
-(v) Section 6 - Airflow and Air Differential Pressure Measurement Apparatus, Section 6.2 - Nozzle Airflow Measuring Apparatus (Excluding Figure 5);
+(v) Section 6—Airflow and Air Differential Pressure Measurement Apparatus, Section 6.2—Nozzle Airflow Measuring Apparatus (Excluding Figure 5);
 
-(vi) Section 6 - Airflow and Air Differential Pressure Measurement Apparatus, Section 6.3 - Nozzles (Excluding Figure 6);
+(vi) Section 6—Airflow and Air Differential Pressure Measurement Apparatus, Section 6.3—Nozzles (Excluding Figure 6);
 
-(vii) Section 6 - Airflow and Air Differential Pressure Measurement Apparatus, Section 6.4 - External Static Pressure Measurements;
+(vii) Section 6—Airflow and Air Differential Pressure Measurement Apparatus, Section 6.4—External Static Pressure Measurements;
 
-(viii) Section 6 - Airflow and Air Differential Pressure Measurement Apparatus, Section 6.5 - Recommended Practices for Static Pressure Measurements;
+(viii) Section 6—Airflow and Air Differential Pressure Measurement Apparatus, Section 6.5—Recommended Practices for Static Pressure Measurements;
 
-(ix) Section 7 - Methods of Testing and Calculation, Section 7.3 - Indoor and Outdoor Air Enthalpy Methods (Excluding Table 1);
+(ix) Section 7—Methods of Testing and Calculation, Section 7.3—Indoor and Outdoor Air Enthalpy Methods (Excluding Table 1);
 
-(x) Section 7 - Methods of Testing and Calculation, Section 7.4 - Compressor Calibration Method;
+(x) Section 7—Methods of Testing and Calculation, Section 7.4—Compressor Calibration Method;
 
-(xi) Section 7 - Methods of Testing and Calculation, Section 7.5 - Refrigerant Enthalpy Method;
+(xi) Section 7—Methods of Testing and Calculation, Section 7.5—Refrigerant Enthalpy Method;
 
-(xii) Section 7 - Methods of Testing and Calculation, Section 7.7 - Airflow Rate Measurement, Section 7.7.2 - Calculations - Nozzle Airflow Measuring Apparatus (Excluding Figure 10), 7.7.2.1-7.7.2.2;
+(xii) Section 7—Methods of Testing and Calculation, Section 7.7—Airflow Rate Measurement, Section 7.7.2—Calculations—Nozzle Airflow Measuring Apparatus (Excluding Figure 10), 7.7.2.1-7.7.2.2;
 
-(xiii) Section 8 - Test Procedures, Section 8.1 - Test Room Requirements: 8.1.2-8.1.3;
+(xiii) Section 8—Test Procedures, Section 8.1—Test Room Requirements: 8.1.2-8.1.3;
 
-(xiv) Section 8 - Test Procedures, Section 8.2 - Equipment Installation;
+(xiv) Section 8—Test Procedures, Section 8.2—Equipment Installation;
 
-(xv) Section 8 - Test Procedures, Section 8.6 - Additional Requirements for the Outdoor Air Enthalpy Method, Section 8.6.2;
+(xv) Section 8—Test Procedures, Section 8.6—Additional Requirements for the Outdoor Air Enthalpy Method, Section 8.6.2;
 
-(xvii) Section 8 - Test Procedures, Section 8.6 - Additional Requirements for the Outdoor Air Enthalpy Method, Table 2a - Test Tolerances (SI Units), and
+(xvii) Section 8—Test Procedures, Section 8.6—Additional Requirements for the Outdoor Air Enthalpy Method, Table 2a—Test Tolerances (SI Units), and
 
-(xviii) Section 8 - Test Procedures, Section 8.6 - Additional Requirements for the Outdoor Air Enthalpy Method, Table 2b - Test Tolerances (I-P Units);
+(xviii) Section 8—Test Procedures, Section 8.6—Additional Requirements for the Outdoor Air Enthalpy Method, Table 2b—Test Tolerances (I-P Units);
 
-(xix) Section 9 - Data to be Recorded, Section 9.2 - Test Tolerances; and
+(xix) Section 9—Data to be Recorded, Section 9.2—Test Tolerances; and
 
-(xx) Section 9 - Data to be Recorded, Table 3 - Data to be Recorded.
+(xx) Section 9—Data to be Recorded, Table 3—Data to be Recorded.
 
 (5) ASHRAE 41.1-1986 (Reaffirmed 2006), Standard Method for Temperature Measurement, approved February 18, 1987, IBR approved for appendices E and AA to subpart B.
 
@@ -190,21 +190,21 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (7) ANSI/ASHRAE Standard 41.1-2013, (“ANSI/ASHRAE 41.1-2013”), Standard Method for Temperature Measurement, ANSI approved January 30, 2013, IBR approved for appendix M to subpart B, as follows:
 
-(i) Section 4 - Classifications;
+(i) Section 4—Classifications;
 
-(ii) Section 5 - Requirements, Section 5.3 - Airstream Temperature Measurements;
+(ii) Section 5—Requirements, Section 5.3—Airstream Temperature Measurements;
 
-(iii) Section 6 - Instruments; and
+(iii) Section 6—Instruments; and
 
-(iv) Section 7 - Temperature Test Methods (Informative).
+(iv) Section 7—Temperature Test Methods (Informative).
 
 (8) ANSI/ASHRAE Standard 41.2-1987 (RA 92), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, IBR approved for appendix F to subpart B.
 
-(9) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5 - Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
+(9) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5—Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
 
-(i) Section 5.2 - Test Ducts,, Section 5.2.2 - Mixers, 5.2.2.1 - Performance of Mixers (excluding Figures 11 and 12 and Table 1); and
+(i) Section 5.2—Test Ducts,, Section 5.2.2—Mixers, 5.2.2.1—Performance of Mixers (excluding Figures 11 and 12 and Table 1); and
 
-(ii) Figure 14 - Outlet Chamber Setup for Multiple Nozzles in Chamber.
+(ii) Figure 14—Outlet Chamber Setup for Multiple Nozzles in Chamber.
 
 (10) ANSI/ASHRAE Standard 41.3-2014, (“ASHRAE 41.3-2014”), Standard Methods for Pressure Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
@@ -212,27 +212,27 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (12) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
 
-(i) Section 4 - Classifications;
+(i) Section 4—Classifications;
 
-(ii) Section 5 - Requirements;
+(ii) Section 5—Requirements;
 
-(iii) Section 6 - Instruments and Calibration; and
+(iii) Section 6—Instruments and Calibration; and
 
-(iv) Section 7 - Humidity Measurement Methods.
+(iv) Section 7—Humidity Measurement Methods.
 
 (13) ANSI/ASHRAE 41.9-2011, (“ASHRAE 41.9-2011”), Standard Methods for Volatile-Refrigerant Mass Flow Measurements Using Calorimeters, ANSI approved February 3, 2011, IBR approved for appendix M to subpart B, as follows:
 
-(i) Section 5 - Requirements;
+(i) Section 5—Requirements;
 
-(ii) Section 6 - Instruments;
+(ii) Section 6—Instruments;
 
-(iii) Section 7 - Secondary Refrigerant Calorimeter Method;
+(iii) Section 7—Secondary Refrigerant Calorimeter Method;
 
-(iv) Section 8 - Secondary Fluid Calorimeter Method;
+(iv) Section 8—Secondary Fluid Calorimeter Method;
 
-(v) Section 9 - Primary Refrigerant Calorimeter Method; and
+(v) Section 9—Primary Refrigerant Calorimeter Method; and
 
-(vi) Section 11 - Lubrication Circulation Measurements.
+(vi) Section 11—Lubrication Circulation Measurements.
 
 (14) ANSI/ASHRAE Standard 41.11-2014, (“ASHRAE 41.11-2014”), Standard Methods for Power Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
@@ -242,7 +242,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (17) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for appendix O to subpart B.
 
-(18) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+(18) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7—Methods of Test, Section 7.4—Air Enthalpy Method—Indoor Side (Primary Method), Section 7.4.3—Measurements, Section 7.4.3.4—Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
 
 (19) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
 
@@ -252,7 +252,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (2) ASME A112.19.2-2008, (“ASME A112.19.2-2008”), “Ceramic plumbing fixtures,” sections 7.1, 7.1.1, 7.1.2, 7.1.3, 7.1.4, 7.1.5, 7.4, 8.2, 8.2.1, 8.2.2, 8.2.3, 8.6, Table 5, and Table 6 approved August 2008, including Update No. 1, dated August 2009, and Update No. 2, dated March 2011, IBR approved for § 430.2 and appendix T to subpart B.
 
-(3) ASME A112.19.2-2018/CSA B45.1-18 (“ASME A112.19.2-2018”), “Ceramic plumbing fixtures”, July 2018 (including Errata - October 2018); IBR approved for appendix T to subpart B.
+(3) ASME A112.19.2-2018/CSA B45.1-18 (“ASME A112.19.2-2018”), “Ceramic plumbing fixtures”, July 2018 (including Errata—October 2018); IBR approved for appendix T to subpart B.
 
 (i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
 
@@ -316,15 +316,15 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (p) *IEC.* International Electrotechnical Commission, 3 Rue de Varembe, Case Postale 131, 1211 Geneva 20, Switzerland; *https://webstore.iec.ch/.*
 
-(1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
+(1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems—Interconnections and matching values—Part 5: Y/C connector for video systems—Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
-(2) IEC 60081:1997/AMD6, (“IEC 60081”), Double-capped fluorescent lamps - Performance specifications (Amendment 6, Edition 5.0, August 2017); IBR approved for appendix Q to subpart B.
+(2) IEC 60081:1997/AMD6, (“IEC 60081”), Double-capped fluorescent lamps—Performance specifications (Amendment 6, Edition 5.0, August 2017); IBR approved for appendix Q to subpart B.
 
-(3) IEC 60350-2, (“IEC 60350-2”), *Household electric cooking appliances Part 2: Hobs - Methods for measuring performance,* Edition 2.1, 2021-05; IBR approved for appendix I1 to subpart B.
+(3) IEC 60350-2, (“IEC 60350-2”), *Household electric cooking appliances Part 2: Hobs—Methods for measuring performance,* Edition 2.1, 2021-05; IBR approved for appendix I1 to subpart B.
 
-(4) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendices Y and Y1 to subpart B, as follows:
+(4) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS)—Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendices Y and Y1 to subpart B, as follows:
 
-(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1 - Conditions for normal mode of operation;
+(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1—Conditions for normal mode of operation;
 
 (ii) Clause 5.2.2.k;
 
@@ -332,33 +332,33 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (iv) Clause 5.3.2.e;
 
-(v) Section 5.3.4 - Performance classification;
+(v) Section 5.3.4—Performance classification;
 
-(vi) Section 6.2, Routine test procedure, Section 6.2.2.7 - AC input failure;
+(vi) Section 6.2, Routine test procedure, Section 6.2.2.7—AC input failure;
 
-(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1 - Input - a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
+(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1—Input—a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
 
-(viii) Annex G - Input mains failure - Test method
+(viii) Annex G—Input mains failure—Test method
 
-(ix) Annex J - UPS Efficiency - Methods of measurement.
+(ix) Annex J—UPS Efficiency—Methods of measurement.
 
 (5) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
 
-(6) IEC 62301, *Household electrical appliances - Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
+(6) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(7) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC to subpart B.
+(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC to subpart B.
 
-(8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
+(8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 
 (9) [Reserved]
 
-(10) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
+(10) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
 
 Note 1 to paragraph (p):
 
 The standards referenced in paragraphs (p)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
 
-(q) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America - IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
+(q) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America—IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
@@ -366,13 +366,13 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (3) IES LM-9-09 (“IES LM-9-09-DD”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for appendix DD to subpart B, as follows:
 
-(i) Section 4.0 - Ambient and Physical Conditions;
+(i) Section 4.0—Ambient and Physical Conditions;
 
-(ii) Section 5.0 - Electrical Conditions;
+(ii) Section 5.0—Electrical Conditions;
 
-(iii) Section 6.0 - Lamp Test Procedures; and
+(iii) Section 6.0—Lamp Test Procedures; and
 
-(iv) Section 7.0 - Photometric Test Procedures: Section 7.5 - Integrating Sphere Measurement.
+(iv) Section 7.0—Photometric Test Procedures: Section 7.5—Integrating Sphere Measurement.
 
 (4) ANSI/IES LM-9-20 (“IES LM-9-20”), *Approved Method: Electrical and Photometric Measurements of Fluorescent Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
@@ -380,25 +380,25 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (6) IES LM-20-13, IES Approved Method for Photometry of Reflector Type Lamps, approved February 4, 2013; IBR approved for appendix DD to subpart B, as follows:
 
-(i) Section 4.0 - Ambient and Physical Conditions;
+(i) Section 4.0—Ambient and Physical Conditions;
 
-(ii) Section 5.0 - Electrical and Photometric Test Conditions;
+(ii) Section 5.0—Electrical and Photometric Test Conditions;
 
-(iii) Section 6.0 - Lamp Test Procedures; and
+(iii) Section 6.0—Lamp Test Procedures; and
 
-(iv) Section 8.0 - Total Flux Measurements by Integrating Sphere Method.
+(iv) Section 8.0—Total Flux Measurements by Integrating Sphere Method.
 
 (7) ANSI/IES LM-20-20 (“IES LM-20-20”), *Approved Method: Photometry of Reflector Type Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
 (8) IES LM-45-15, IES Approved Method for the Electrical and Photometric Measurement of General Service Incandescent Filament Lamps, approved August 8, 2015; IBR approved for appendix DD to subpart B as follows:
 
-(i) Section 4.0 - Ambient and Physical Conditions;
+(i) Section 4.0—Ambient and Physical Conditions;
 
-(ii) Section 5.0 - Electrical Conditions;
+(ii) Section 5.0—Electrical Conditions;
 
-(iii) Section 6.0 - Lamp Test Procedures; and
+(iii) Section 6.0—Lamp Test Procedures; and
 
-(iv) Section 7.0 - Photometric Test Procedures: Section 7.1 - Total Luminous Flux Measurements with an Integrating Sphere.
+(iv) Section 7.0—Photometric Test Procedures: Section 7.1—Total Luminous Flux Measurements with an Integrating Sphere.
 
 (9) IES LM-45-20 (“IES LM-45-20”), *Approved Method: Electrical and Photometric Measurement of General Service Incandescent Filament Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
@@ -406,13 +406,13 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (11) IES LM-54-12, IES Guide to Lamp Seasoning, approved October 22, 2012; IBR approved for appendix W to subpart B, as follows:
 
-(i) Section 4 - Physical/Environmental Test Conditions;
+(i) Section 4—Physical/Environmental Test Conditions;
 
-(ii) Section 5 - Electrical Test Conditions;
+(ii) Section 5—Electrical Test Conditions;
 
-(iii) Section 6 - Test Procedure Requirements: Section 6.1 - Test Preparation; and
+(iii) Section 6—Test Procedure Requirements: Section 6.1—Test Preparation; and
 
-(iv) Section 6 - Test Procedure Requirements, Section 6.2 - Seasoning Test Procedures: Section 6.2.2.1 - Discharge Lamps: Discharge Lamps except T5 fluorescent.
+(iv) Section 6—Test Procedure Requirements, Section 6.2—Seasoning Test Procedures: Section 6.2.2.1—Discharge Lamps: Discharge Lamps except T5 fluorescent.
 
 (12) ANSI/IES LM-54-20 (“IES LM-54-20”), *Approved Method: IES Guide to Lamp Seasoning,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
@@ -420,21 +420,21 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (14) IES LM-65-14, IES Approved Method for Life Testing of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
 
-(i) Section 4.0 - Ambient and Physical Conditions;
+(i) Section 4.0—Ambient and Physical Conditions;
 
-(ii) Section 5.0 - Electrical Conditions; and
+(ii) Section 5.0—Electrical Conditions; and
 
-(iii) Section 6.0 - Lamp Test Procedures
+(iii) Section 6.0—Lamp Test Procedures
 
 (15) IES LM-66-14, (“IES LM-66-14”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix V to subpart B.
 
 (16) IES LM-66-14, (“IES LM-66”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
 
-(i) Section 4.0 - Ambient and Physical Conditions;
+(i) Section 4.0—Ambient and Physical Conditions;
 
-(ii) Section 5.0 - Power Source Characteristics; and
+(ii) Section 5.0—Power Source Characteristics; and
 
-(iii) Section 6.0 - Testing Procedures Requirements.
+(iii) Section 6.0—Testing Procedures Requirements.
 
 (17) IESNA LM-78-07, IESNA Approved Method for Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer, approved January 28, 2007; IBR approved for appendix W to subpart B.
 
@@ -444,19 +444,19 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (20) IES LM-79-08 (“IES LM-79-08-DD”), Approved Method: Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendix DD to subpart B as follows:
 
-(i) Section 1.0 Introduction: Section 1.3 - Nomenclature and Definitions (except section 1.3f);
+(i) Section 1.0 Introduction: Section 1.3—Nomenclature and Definitions (except section 1.3f);
 
-(ii) Section 2.0 - Ambient Conditions;
+(ii) Section 2.0—Ambient Conditions;
 
-(iii) Section 3.0 - Power Supply Characteristics;
+(iii) Section 3.0—Power Supply Characteristics;
 
-(iv) Section 5.0 - Stabilization of SSL Product;
+(iv) Section 5.0—Stabilization of SSL Product;
 
-(v) Section 7.0 - Electrical Settings;
+(v) Section 7.0—Electrical Settings;
 
-(vi) Section 8.0 - Electrical Instrumentation;
+(vi) Section 8.0—Electrical Instrumentation;
 
-(vii) Section 9.0 - Test Methods for Total Luminous Flux measurement: Section 9.1 Integrating sphere with a spectroradiometer (Sphere-spectroradiometer system); and Section 9.2 - Integrating sphere with a photometer head (Sphere-photometer system).
+(vii) Section 9.0—Test Methods for Total Luminous Flux measurement: Section 9.1 Integrating sphere with a spectroradiometer (Sphere-spectroradiometer system); and Section 9.2—Integrating sphere with a photometer head (Sphere-photometer system).
 
 (21) IES LM-84-14, (“IES LM-84”), Approved Method: Measuring Luminous Flux and Color Maintenance of LED Lamps, Light Engines, and Luminaires, approved March 31, 2014; IBR approved for appendix BB to subpart B.
 
@@ -492,7 +492,7 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (v) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
-(1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television - Composite Analog Video Signal - NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
+(1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television—Composite Analog Video Signal—NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
