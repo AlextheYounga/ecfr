@@ -1,0 +1,3 @@
+##### § 1304.3 Proactive disclosure of MCC records. #####
+
+Records that are required by the FOIA to be made available for public inspection in an electronic format may be accessed through the MCC website. MCC is responsible for determining which of its records are required to be made publicly available, identifying additional records in the interest of the public that are appropriate for public disclosure, and posting such records. MCC shall ensure that its website of posted records is reviewed and updated on an ongoing basis. The FOIA Program Officer may assist individuals in locating records on the MCC website and FOIA reading room.

@@ -1,0 +1,3 @@
+##### § 1304.1 General provisions. #####
+
+This part contains the rules that the Millennium Challenge Corporation (“MCC”) follows in processing requests for records under the Freedom of Information Act (“FOIA”) (5 U.S.C. 552). The rules in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Act Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Fee Guidelines”). In addition, the MCC FOIA web page contains information about the specific procedures particular to MCC with respect to making FOIA requests. This resource is available at *www.mcc.gov/resources/foia*.

@@ -40,7 +40,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (e) *Additional training required for operating complex airplanes.* (1) Except as provided in paragraph (e)(2) of this section, no person may act as pilot in command of a complex airplane, unless the person has -
 
-(i) Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a flight simulator or flight training device that is representative of a complex airplane, and has been found proficient in the operation and systems of the airplane; and
+(i) Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane, and has been found proficient in the operation and systems of the airplane; and
 
 (ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a complex airplane.
 
@@ -48,7 +48,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (f) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has -
 
-(i) Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a flight simulator or flight training device that is representative of a high-performance airplane, and has been found proficient in the operation and systems of the airplane; and
+(i) Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane, and has been found proficient in the operation and systems of the airplane; and
 
 (ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a high-performance airplane.
 
@@ -74,7 +74,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (ix) Any other physiological aspects of high-altitude flight.
 
-(2) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft unless that person has received and logged training from an authorized instructor in a pressurized aircraft, or in a flight simulator or flight training device that is representative of a pressurized aircraft, and obtained an endorsement in the person's logbook or training record from an authorized instructor who found the person proficient in the operation of a pressurized aircraft. The flight training must include at least the following subjects:
+(2) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft unless that person has received and logged training from an authorized instructor in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft, and obtained an endorsement in the person's logbook or training record from an authorized instructor who found the person proficient in the operation of a pressurized aircraft. The flight training must include at least the following subjects:
 
 (i) Normal cruise flight operations while operating above 25,000 feet MSL;
 
@@ -82,7 +82,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (iii) Emergency descent procedures.
 
-(3) The training and endorsement required by paragraphs (g)(1) and (g)(2) of this section are not required if that person can document satisfactory accomplishment of any of the following in a pressurized aircraft, or in a flight simulator or flight training device that is representative of a pressurized aircraft:
+(3) The training and endorsement required by paragraphs (g)(1) and (g)(2) of this section are not required if that person can document satisfactory accomplishment of any of the following in a pressurized aircraft, or in a full flight simulator or flight training device that is representative of a pressurized aircraft:
 
 (i) Serving as pilot in command before April 15, 1991;
 
@@ -94,7 +94,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (h) *Additional aircraft type-specific training.* No person may serve as pilot in command of an aircraft that the Administrator has determined requires aircraft type-specific training unless that person has -
 
-(1) Received and logged type-specific training in the aircraft, or in a flight simulator or flight training device that is representative of that type of aircraft; and
+(1) Received and logged type-specific training in the aircraft, or in a full flight simulator or flight training device that is representative of that type of aircraft; and
 
 (2) Received a logbook endorsement from an authorized instructor who has found the person proficient in the operation of the aircraft and its systems.
 
@@ -172,4 +172,4 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (vi) The holder of a sport pilot certificate when operating a light-sport aircraft.
 
-[Doc. No. 25910, 62 FR 40896, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011]
+[Doc. No. 25910, 62 FR 40896, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30276, June 27, 2018]

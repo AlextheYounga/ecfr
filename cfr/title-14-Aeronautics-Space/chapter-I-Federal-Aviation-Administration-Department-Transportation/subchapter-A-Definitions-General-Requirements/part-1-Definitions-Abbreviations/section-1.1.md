@@ -1,7 +1,5 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 83 FR 30275, June 27, 2018.
-
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
 *Administrator* means the Federal Aviation Administrator or any person to whom he has delegated his authority in the matter concerned.
@@ -206,7 +204,7 @@ Controlled airspace is a generic term that covers Class A, Class B, Class C, Cla
 
 *Flight plan* means specified information, relating to the intended flight of an aircraft, that is filed orally or in writing with air traffic control.
 
-*Flight simulation training device (FSTD)* means a flight simulator or a flight training device.
+*Flight simulation training device (FSTD)* means a full flight simulator or a flight training device.
 
 *Flight time* means:
 
@@ -554,4 +552,4 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Winglet or tip fin* means an out-of-plane surface extending from a lifting surface. The surface may or may not have control surfaces.
 
-[Doc. No. 1150, 27 FR 4588, May 15, 1962]Editorial Note:For Federal Register citations affecting § 1.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Doc. No. 1150, 27 FR 4588, May 15, 1962]Editorial Note:For Federal Register citations affecting § 1.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

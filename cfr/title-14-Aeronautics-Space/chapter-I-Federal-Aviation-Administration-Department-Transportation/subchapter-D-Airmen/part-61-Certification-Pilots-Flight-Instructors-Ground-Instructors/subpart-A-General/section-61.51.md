@@ -1,7 +1,5 @@
 ##### § 61.51 Pilot logbooks. #####
 
-Link to an amendment published at 83 FR 30277, June 27, 2018.
-
 (a) *Training time and aeronautical experience.* Each person must document and record the following time in a manner acceptable to the Administrator:
 
 (1) Training and aeronautical experience used to meet the requirements for a certificate, rating, or flight review of this part.
@@ -16,9 +14,9 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (ii) Total flight time or lesson time.
 
-(iii) Location where the aircraft departed and arrived, or for lessons in a flight simulator or flight training device, the location where the lesson occurred.
+(iii) Location where the aircraft departed and arrived, or for lessons in a full flight simulator or flight training device, the location where the lesson occurred.
 
-(iv) Type and identification of aircraft, flight simulator, flight training device, or aviation training device, as appropriate.
+(iv) Type and identification of aircraft, full flight simulator, flight training device, or aviation training device, as appropriate.
 
 (v) The name of a safety pilot, if required by § 91.109 of this chapter.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (iv) Flight and ground training received from an authorized instructor.
 
-(v) Training received in a flight simulator, flight training device, or aviation training device from an authorized instructor.
+(v) Training received in a full flight simulator, flight training device, or aviation training device from an authorized instructor.
 
 (3) Conditions of flight -
 
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (ii) Actual instrument.
 
-(iii) Simulated instrument conditions in flight, a flight simulator, flight training device, or aviation training device.
+(iii) Simulated instrument conditions in flight, a full flight simulator, flight training device, or aviation training device.
 
 (iv) Use of night vision goggles in an aircraft in flight, in a flight simulator, or in a flight training device.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (e) *Logging pilot-in-command flight time.* (1) A sport, recreational, private, commercial, or airline transport pilot may log pilot in command flight time for flights-
 
-(i) When the pilot is the sole manipulator of the controls of an aircraft for which the pilot is rated, or has sport pilot privileges for that category and class of aircraft, if the aircraft class rating is appropriate;
+(i) Except when logging flight time under § 61.159(c), when the pilot is the sole manipulator of the controls of an aircraft for which the pilot is rated, or has sport pilot privileges for that category and class of aircraft, if the aircraft class rating is appropriate;
 
 (ii) When the pilot is the sole occupant in the aircraft;
 
@@ -104,11 +102,15 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (iii) Is undergoing training for a pilot certificate or rating.
 
+(5) A commercial pilot or airline transport pilot may log all flight time while acting as pilot in command of an operation in accordance with § 135.99(c) of this chapter if the flight is conducted in accordance with an approved second-in-command professional development program that meets the requirements of § 135.99(c) of this chapter.
+
 (f) *Logging second-in-command flight time.* A person may log second-in-command time only for that flight time during which that person:
 
-(1) Is qualified in accordance with the second-in-command requirements of § 61.55 of this part, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate; or
+(1) Is qualified in accordance with the second-in-command requirements of § 61.55, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate;
 
-(2) Holds the appropriate category, class, and instrument rating (if an instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted.
+(2) Holds the appropriate category, class, and instrument rating (if an instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted; or
+
+(3) Serves as second in command in operations conducted in accordance with § 135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in § 61.159(c) are satisfied.
 
 (g) *Logging instrument time.* (1) A person may log instrument time only for that flight time when the person operates the aircraft solely by reference to instruments under actual or simulated instrument flight conditions.
 
@@ -120,9 +122,11 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (ii) The name of the safety pilot, if required.
 
-(4) A person can use time in a flight simulator, flight training device, or aviation training device for acquiring instrument aeronautical experience for a pilot certificate, rating, or instrument recency experience, provided an authorized instructor is present to observe that time and signs the person's logbook or training record to verify the time and the content of the training session.
+(4) A person may use time in a full flight simulator, flight training device, or aviation training device for acquiring instrument aeronautical experience for a pilot certificate or rating provided an authorized instructor is present to observe that time and signs the person's logbook or training record to verify the time and the content of the training session.
 
-(h) *Logging training time.* (1) A person may log training time when that person receives training from an authorized instructor in an aircraft, flight simulator, or flight training device.
+(5) A person may use time in a full flight simulator, flight training device, or aviation training device for satisfying instrument recency experience requirements provided a logbook or training record is maintained to specify the training device, time, and the content.
+
+(h) *Logging training time.* (1) A person may log training time when that person receives training from an authorized instructor in an aircraft, full flight simulator, flight training device, or aviation training device.
 
 (2) The training time must be logged in a logbook and must:
 
@@ -174,14 +178,14 @@ Link to an amendment published at 83 FR 30277, June 27, 2018.
 
 (i) An aircraft during a night vision goggle operation; or
 
-(ii) A flight simulator or flight training device with the lighting system adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
+(ii) A full flight simulator or flight training device with the lighting system adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
 
 (2) An authorized instructor may log night vision goggle time when that person conducts training using night vision goggles as the primary visual reference of the surface and operates:
 
 (i) An aircraft during a night goggle operation; or
 
-(ii) A flight simulator or flight training device with the lighting system adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
+(ii) A full flight simulator or flight training device with the lighting system adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
 
 (3) To log night vision goggle time to meet the recent night vision goggle experience requirements under § 61.57(f), a person must log the information required under § 61.51(b).
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018]

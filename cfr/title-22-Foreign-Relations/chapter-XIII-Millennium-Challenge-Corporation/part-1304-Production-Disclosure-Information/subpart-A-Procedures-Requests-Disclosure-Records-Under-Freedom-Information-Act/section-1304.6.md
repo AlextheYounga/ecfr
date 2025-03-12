@@ -1,0 +1,19 @@
+##### § 1304.6 Timing of responses to requests. #####
+
+(a) *General information.* The twenty (20) business day period identified in § 1304.5(b) shall commence on the date that the request is first received by the MCC FOIA office and an acknowledgment of the request shall be sent no later than ten (10) business days after receipt of the request. The twenty (20) business day period shall not be tolled except that MCC may make one request to the requester for information and toll the twenty (20) business day period while it is awaiting receipt of the information, or the twenty (20) business day period may be tolled if it is necessary to clarify issues regarding fees with the requester.
+
+(b) *Unusual circumstances.* If MCC cannot meet the statutory time limit for processing a request because of “unusual circumstances” as defined in the FOIA and MCC extends the time limit on that basis, MCC will, before expiration of the twenty (20) business day period, notify the requester in writing of the unusual circumstances involved and of the date by which MCC estimates processing of the request will be completed. Where the extension exceeds ten (10) business days, MCC will provide the requester with an opportunity to modify the request or arrange an alternative time period for processing the original or modified request. MCC must make its designated FOIA Program Officer or FOIA Public Liaison available for this purpose. To aid the requester, the MCC FOIA Public Liaison shall assist in the resolution of any disputes between the requester and MCC, and notify the requester of the right to seek dispute resolution services from the Office of Government Information Services.
+
+(c) *Aggregating requests.* MCC may aggregate requests where it reasonably appears that multiple requests, submitted either by a requester or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances. Requests that involve unrelated matters shall not be aggregated.
+
+(d) *Multitrack processing.* MCC may use multitrack processing in responding to requests. This process entails separating simple requests that require rather limited review from more lengthy and complex requests. Requests in each track are then processed in their respective track. The FOIA Program Officer may provide requesters in the slower track an opportunity to limit the scope of their requests in order to decrease the processing time required. The FOIA Program Officer may provide the opportunity to limit the scope of the request by contacting the requester by letter, email, or telephone.
+
+(e) *Expedited processing of requests.* The FOIA Program Officer must determine whether to grant a request for expedited processing within ten (10) calendar days of its receipt. Requests will receive expedited processing if one of the following criteria are met:
+
+(1) The requester can establish that failure to receive the records quickly could reasonably be expected to pose an imminent threat to the life or physical safety of an individual;
+
+(2) The requester is primarily engaged in disseminating information and can demonstrate that an urgency to inform the public concerning actual or alleged Federal Government activity exists; or
+
+(3) As determined by the Chief FOIA Officer.
+
+(f) *Written expedited requests.* A requester who seeks expedited processing must submit a written statement explaining in detail the basis for making the request for expedited processing. This statement must be certified to be true and correct. The MCC Chief FOIA Officer may waive the formal certification requirement.

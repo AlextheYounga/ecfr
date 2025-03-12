@@ -1,7 +1,5 @@
 ##### § 61.109 Aeronautical experience. #####
 
-Link to an amendment published at 83 FR 30278, June 27, 2018.
-
 (a) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least -
 
 (1) 3 hours of cross-country flight training in a single-engine airplane;
@@ -192,10 +190,22 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (5) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
 
-(k) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor.
+(k) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a full flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor.
 
 (2) A maximum of 5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section if the training is accomplished in a course conducted by a training center certificated under part 142 of this chapter.
 
 (3) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under part 142 of this chapter, need only have a total of 35 hours of aeronautical experience to meet the requirements of this section.
 
-[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010]
+(l) *Permitted credit for flight training received from a flight instructor with a sport pilot rating.* The holder of a sport pilot certificate may credit flight training received from a flight instructor with a sport pilot rating toward the aeronautical experience requirements of this section if the following conditions are met:
+
+(1) The flight training was accomplished in the same category and class of aircraft for which the rating is sought;
+
+(2) The flight instructor with a sport pilot rating was authorized to provide the flight training; and
+
+(3) The flight training included either -
+
+(i) Training on areas of operation that are required for both a sport pilot certificate and a private pilot certificate; or
+
+(ii) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by § 61.412(c).
+
+[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Amdt. 61-142, 83 FR 30278, June 27, 2018]

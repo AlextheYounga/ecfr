@@ -1,0 +1,13 @@
+##### § 1304.9 Administrative appeals. #####
+
+(a) *Requirements for appealing an adverse determination.* A requester may appeal any adverse determination to MCC. The requester must submit a written notice of appeal and it must be postmarked or, in the case of electronic submissions, transmitted within ninety (90) calendar days after the date of the response. The appeal should clearly identify the determination that is being appealed and the assigned tracking number. To facilitate handling, the requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
+
+(b) *Appeals address.* Requesters can submit appeals by mail by addressing it to Millennium Challenge Corporation, Attn.: FOIA Appeals Officer, 1099 14th St. NW, Washington, DC 20005 or online at *FOIA@mcc.gov*.
+
+(c) *Adjudication of appeals.* The MCC FOIA Appeals Officer will adjudicate the appeal within twenty (20) business days after the receipt of such appeal. An appeal ordinarily will not be adjudicated if the request becomes a matter of the subject of litigation. On receipt of any appeal involving classified information, the MCC FOIA Appeals Officer must take appropriate action to ensure compliance with applicable classification rules.
+
+(d) *Final agency determinations.* The FOIA Appeals Officer shall issue a final written determination, stating the basis for the decision, within twenty (20) business days after receipt of a notice of appeal. Any decision that upholds MCC's determination in whole or in part must contain a statement that identifies the reason(s) for the decision, including any FOIA exemptions applied. The decision will provide the requester with notification of the statutory right to file a lawsuit and will inform the requester of the dispute resolution services offered by the OGIS of the National Archives and Records Administration as a non-exclusive alternative to litigation. If the Chief FOIA Officer's decision is remanded or modified on appeal, the FOIA Appeals Officer will notify the requester of the determination in writing. MCC will then further process the request in accordance with the appeal determination and will respond directly to the requester.
+
+(e) *Engaging in dispute resolution services provided by OGIS.* Dispute resolution is a voluntary process. If MCC agrees to participate in the dispute resolution services provided by OGIS, MCC will actively engage as a partner to the process in an attempt to resolve the dispute.
+
+(f) *When an appeal is required.* Before seeking review by a court of MCC's adverse determination, a requester generally must first submit a timely administrative appeal.

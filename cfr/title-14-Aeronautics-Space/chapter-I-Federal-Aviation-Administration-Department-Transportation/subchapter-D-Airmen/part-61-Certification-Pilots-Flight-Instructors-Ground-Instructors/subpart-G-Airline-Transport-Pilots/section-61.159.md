@@ -1,7 +1,5 @@
 ##### § 61.159 Aeronautical experience: Airplane category rating. #####
 
-Link to an amendment published at 83 FR 30278, June 27, 2018.
-
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, a person who is applying for an airline transport pilot certificate with an airplane category and class rating must have at least 1,500 hours of total time as a pilot that includes at least:
 
 (1) 500 hours of cross-country flight time.
@@ -12,13 +10,13 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (4) 75 hours of instrument flight time, in actual or simulated instrument conditions, subject to the following:
 
-(i) Except as provided in paragraph (a)(4)(ii) of this section, an applicant may not receive credit for more than a total of 25 hours of simulated instrument time in a flight simulator or flight training device.
+(i) Except as provided in paragraph (a)(4)(ii) of this section, an applicant may not receive credit for more than a total of 25 hours of simulated instrument time in a full flight simulator or flight training device.
 
-(ii) A maximum of 50 hours of training in a flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under part 142 of this chapter.
+(ii) A maximum of 50 hours of training in a full flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under part 142 of this chapter.
 
-(iii) Training in a flight simulator or flight training device must be accomplished in a flight simulator or flight training device, representing an airplane.
+(iii) Training in a full flight simulator or flight training device must be accomplished in a full flight simulator or flight training device, representing an airplane.
 
-(5) 250 hours of flight time in an airplane as a pilot in command, or as second in command performing the duties of pilot in command while under the supervision of a pilot in command, or any combination thereof, which includes at least -
+(5) 250 hours of flight time in an airplane as a pilot in command, or when serving as a required second in command flightcrew member performing the duties of pilot in command while under the supervision of a pilot in command, or any combination thereof, which includes at least -
 
 (i) 100 hours of cross-country flight time; and
 
@@ -28,17 +26,19 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (b) A person who has performed at least 20 night takeoffs and landings to a full stop may substitute each additional night takeoff and landing to a full stop for 1 hour of night flight time to satisfy the requirements of paragraph (a)(2) of this section; however, not more than 25 hours of night flight time may be credited in this manner.
 
-(c) A commercial pilot may credit the following second-in-command flight time or flight-engineer flight time toward the 1,500 hours of total time as a pilot required by paragraph (a) of this section:
+(c) A commercial pilot may log second-in-command pilot time toward the aeronautical experience requirements of paragraph (a) of this section and the aeronautical experience requirements in § 61.160, provided the pilot is employed by a part 119 certificate holder authorized to conduct operations under part 135 of this chapter and the second-in-command pilot time is obtained in operations conducted for the certificate holder under part 91 or 135 of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, and the following requirements are met -
 
-(1) Second-in-command time, provided the time is acquired in an airplane -
+(1) The experience must be accomplished as part of a second-in-command professional development program approved by the Administrator under § 135.99 of this chapter;
 
-(i) Required to have more than one pilot flight crewmember by the airplane's flight manual, type certificate, or the regulations under which the flight is being conducted;
+(2) The flight operation must be conducted in accordance with the certificate holder's operations specification for the second-in-command professional development program;
 
-(ii) Engaged in operations under subpart K of part 91, part 121, or part 135 of this chapter for which a second in command is required; or
+(3) The pilot in command of the operation must certify in the pilot's logbook that the second-in-command pilot time was accomplished under this section; and
 
-(iii) That is required by the operating rules of this chapter to have more than one pilot flight crewmember.
+(4) The pilot time may not be logged as pilot-in-command time even when the pilot is the sole manipulator of the controls and may not be used to meet the aeronautical experience requirements in paragraph (a)(5) of this section.
 
-(2) Flight-engineer time, provided the time -
+(d) A commercial pilot may log the following flight engineer flight time toward the 1,500 hours of total time as a pilot required by paragraph (a) of this section and the total time as a pilot required by § 61.160:
+
+(1) Flight-engineer time, provided the time -
 
 (i) Is acquired in an airplane required to have a flight engineer by the airplane's flight manual or type certificate;
 
@@ -48,7 +48,7 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (iv) Does not exceed more than 1 hour for each 3 hours of flight engineer flight time for a total credited time of no more than 500 hours.
 
-(3) Flight-engineer time, provided the flight time -
+(2) Flight-engineer time, provided the flight time -
 
 (i) Is acquired as a U.S. Armed Forces' flight engineer crewmember in an airplane that requires a flight engineer crewmember by the flight manual;
 
@@ -56,8 +56,8 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (iii) Does not exceed 1 hour for each 3 hours of flight engineer flight time for a total credited time of no more than 500 hours.
 
-(d) An applicant is issued an airline transport pilot certificate with the limitation, “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation, if the applicant does not meet the ICAO requirements contained in Annex 1 “Personnel Licensing” to the Convention on International Civil Aviation, but otherwise meets the aeronautical experience requirements of this section.
+(e) An applicant who credits time under paragraphs (b), (c), and (d) of this section is issued an airline transport pilot certificate with the limitation, “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation.
 
-(e) An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under paragraph (d) of this section when the applicant presents satisfactory evidence of having met the ICAO requirements under paragraph (d) of this section and otherwise meets the aeronautical experience requirements of this section.
+(f) An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under paragraph (e) of this section when the applicant presents satisfactory evidence of having met the ICAO requirements under paragraph (e) of this section and otherwise meets the aeronautical experience requirements of this section.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-109, 68 FR 54560, Sept. 17, 2003; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009; Amdt. 61-130, 78 FR 42375, July 15, 2013; Admt. 61-130A, 78 FR 44874, July 25, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-109, 68 FR 54560, Sept. 17, 2003; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009; Amdt. 61-130, 78 FR 42375, July 15, 2013; Admt. 61-130A, 78 FR 44874, July 25, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30278, June 27, 2018]

@@ -70,7 +70,7 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (3) 20 hours of training on the areas of operation listed in § 61.127(b)(3) of this part that includes at least -
 
-(i) Five hours on the control and maneuvering of a helicopter solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, flight simulator, flight training device, or an aviation training device;
+(i) Five hours on the control and maneuvering of a helicopter solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, full flight simulator, flight training device, or an aviation training device;
 
 (ii) One 2-hour cross country flight in a helicopter in daytime conditions that consists of a total straight-line distance of more than 50 nautical miles from the original point of departure;
 
@@ -84,7 +84,7 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (ii) 5 hours in night VFR conditions with 10 takeoffs and 10 landings (with each landing involving a flight in the traffic pattern).
 
-(d) *For a gyroplane rating.* A person who applies for a commercial pilot certificate with a rotorcraft category and gyroplane class rating must log at least 150 hours of flight time as a pilot (of which 5 hours may have been accomplished in a flight simulator or flight training device that is representative of a gyroplane) that consists of at least:
+(d) *For a gyroplane rating.* A person who applies for a commercial pilot certificate with a rotorcraft category and gyroplane class rating must log at least 150 hours of flight time as a pilot (of which 5 hours may have been accomplished in a full flight simulator or flight training device that is representative of a gyroplane) that consists of at least:
 
 (1) 100 hours in powered aircraft, of which 25 hours must be in gyroplanes.
 
@@ -96,7 +96,7 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (3) 20 hours of training on the areas of operation listed in § 61.127(b)(4) of this part that includes at least -
 
-(i) 2.5 hours on the control and maneuvering of a gyroplane solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, flight simulator, flight training device, or an aviation training device;
+(i) 2.5 hours on the control and maneuvering of a gyroplane solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, full flight simulator, flight training device, or an aviation training device;
 
 (ii) One 2-hour cross country flight in a gyroplane in daytime conditions that consists of a total straight-line distance of more than 50 nautical miles from the original point of departure;
 
@@ -208,16 +208,16 @@ Link to an amendment published at 83 FR 30278, June 27, 2018.
 
 (i) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraph (i)(2) of this section, an applicant who has not accomplished the training required by this section in a course conducted by a training center certificated under part 142 of this chapter may:
 
-(i) Credit a maximum of 50 hours toward the total aeronautical experience requirements for an airplane or powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
+(i) Credit a maximum of 50 hours toward the total aeronautical experience requirements for an airplane or powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
 
-(ii) Credit a maximum of 25 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
+(ii) Credit a maximum of 25 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
 
 (2) An applicant who has accomplished the training required by this section in a course conducted by a training center certificated under part 142 of this chapter may:
 
-(i) Credit a maximum of 100 hours toward the total aeronautical experience requirements of this section for an airplane and powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
+(i) Credit a maximum of 100 hours toward the total aeronautical experience requirements of this section for an airplane and powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
 
-(ii) Credit a maximum of 50 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
+(ii) Credit a maximum of 50 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
 
 (3) Except when fewer hours are approved by the FAA, an applicant for the commercial pilot certificate with the airplane or powered-lift rating who has completed 190 hours of aeronautical experience is considered to have met the total aeronautical experience requirements of this section, provided the applicant satisfactorily completed an approved commercial pilot course under part 142 of this chapter and the approved course was appropriate to the commercial pilot certificate and aircraft rating sought.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-101, 62 FR 16892, Apr. 8, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-101, 62 FR 16892, Apr. 8, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-142, 83 FR 30278, June 27, 2018]

@@ -1,7 +1,5 @@
 ##### § 61.1 Applicability and definitions. #####
 
-Link to an amendment published at 83 FR 30276, June 27, 2018.
-
 (a) Except as provided in part 107 of this chapter, this part prescribes:
 
 (1) The requirements for issuing pilot, flight instructor, and ground instructor certificates and ratings; the conditions under which those certificates and ratings are necessary; and the privileges and limitations of those certificates and ratings.
@@ -23,6 +21,8 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 (ii) A person who holds a flight instructor certificate issued under part 61 of this chapter and is in compliance with § 61.197, when conducting ground training or flight training in accordance with the privileges and limitations of his or her flight instructor certificate; or
 
 (iii) A person authorized by the Administrator to provide ground training or flight training under part 61, 121, 135, or 142 of this chapter when conducting ground training or flight training in accordance with that authority.
+
+*Aviation training device* means a training device, other than a full flight simulator or flight training device, that has been evaluated, qualified, and approved by the Administrator.
 
 *Complex airplane* means an airplane that has a retractable landing gear, flaps, and a controllable pitch propeller, including airplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control; or, in the case of a seaplane, flaps and a controllable pitch propeller, including seaplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control.
 
@@ -106,9 +106,11 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (i) Serves as a required pilot flight crewmember;
 
-(ii) Receives training from an authorized instructor in an aircraft, flight simulator, or flight training device; or
+(ii) Receives training from an authorized instructor in an aircraft, full flight simulator, flight training device, or aviation training device;
 
-(iii) Gives training as an authorized instructor in an aircraft, flight simulator, or flight training device.
+(iii) Gives training as an authorized instructor in an aircraft, full flight simulator, flight training device, or aviation training device; or
+
+(iv) Serves as second in command in operations conducted in accordance with § 135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in § 61.159(c) are satisfied.
 
 *Practical test* means a test on the areas of operations for an airman certificate, rating, or authorization that is conducted by having the applicant respond to questions and demonstrate maneuvers in flight, in a flight simulator, or in a flight training device.
 
@@ -120,6 +122,8 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (ii) That includes a limitation for the operation of a light-sport aircraft specified in § 61.89(c) issued by a certificated flight instructor with other than a sport pilot rating.
 
+*Technically advanced airplane (TAA)* means an airplane equipped with an electronically advanced avionics system.
+
 *Training time* means training received -
 
 (i) In flight from an authorized instructor;
@@ -128,4 +132,4 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (iii) In a flight simulator or flight training device from an authorized instructor.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Docket FAA-2015-0150, Amdt. 61-137, 81 FR 42208, June 28, 2016]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997 as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Amdt. 61-137, 81 FR 42208, June 28, 2016; Amdt. 61-142, 83 FR 30726, June 27, 2018]
