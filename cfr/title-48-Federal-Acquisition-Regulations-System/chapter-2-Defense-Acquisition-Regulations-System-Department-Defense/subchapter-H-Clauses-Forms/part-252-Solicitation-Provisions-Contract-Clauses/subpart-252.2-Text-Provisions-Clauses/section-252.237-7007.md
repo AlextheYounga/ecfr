@@ -1,12 +1,12 @@
 ##### 252.237-7007 Termination for default. #####
 
-As prescribed in 237.7003(b), use the following clause:
+As prescribed in 237.7003(a) and (a)(5), use the following clause:
 
 Termination for Default (DEC 1991)
 
 (a) This clause supplements and is in addition to the Default clause of this contract.
 
-(b) The Contracting Officer may terminate this contract for default by written notice without the ten day notice required by paragraph (a)(2) of the Default clause if -
+(b) The Contracting Officer may terminate this contract for default by written notice without the ten day notice required by paragraph (a)(2) of the Default clause if—
 
 (1) The Contractor, through circumstances reasonably within its control or that of its employees, performs any act under or in connection with this contract, or fails in the performance of any service under this contract and the act or failures may reasonably be considered to reflect discredit upon the Department of Defense in fulfilling its responsibility for proper care of remains;
 
@@ -18,4 +18,4 @@ Termination for Default (DEC 1991)
 
 (5) The Contractor mentions or otherwise uses this contract in its advertising in any way.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 71 FR 3416, Jan. 23, 2006]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 71 FR 3416, Jan. 23, 2006; 84 FR 48505, Sept. 13, 2019]

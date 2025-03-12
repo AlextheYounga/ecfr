@@ -1,6 +1,6 @@
 ##### § 498.3 Scope and applicability. #####
 
-Link to an amendment published at 84 FR 47857, September 10, 2019.
+Link to an amendment published at 84 FR 47857, Sept. 10, 2019.
 
 (a) *Scope.* (1) This part sets forth procedures for reviewing initial determinations that CMS makes with respect to the matters specified in paragraph (b) of this section, and that the OIG makes with respect to the matters specified in paragraph (c) of this section. It also specifies, in paragraph (d) of this section, administrative actions that are not subject to appeal under this part.
 

@@ -1,0 +1,3 @@
+##### § 760.1700 Applicability #####
+
+This subpart specified the terms and conditions for the Milk Loss Program. The Milk Loss Program will provide payments to dairy operations for milk that was dumped or removed without compensation from the commercial milk market due to the results from hurricanes, floods, tornadoes, typhoons, volcanic activity, snowstorms, and wildfires that occurred in the 2018 and 2019 calendar year.

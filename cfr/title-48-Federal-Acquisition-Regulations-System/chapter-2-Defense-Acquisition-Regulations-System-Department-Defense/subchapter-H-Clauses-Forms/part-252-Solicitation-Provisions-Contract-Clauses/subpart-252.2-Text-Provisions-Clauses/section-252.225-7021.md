@@ -2,7 +2,7 @@
 
                                                                                                                                                                                                                         *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
-                                                                                                                                                                                                                        Trade Agreements - Basic (AUG 2019)
+                                                                                                                                                                                                                        Trade Agreements - Basic (SEP 2019)
 
                                                                                                                                                                                                                         (a) *Definitions.* As used in this clause -
 
@@ -108,7 +108,7 @@
 
                                                                                                             (d) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-                                                                                                            (e) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in paragraph (a)(2)(ii)(A) of this clause:
+                                                                                                            (e) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in the definition of “Caribbean Basin country end product” within paragraph (a) of this clause:
 
                                                                                                             (1) General Note 3(c), Products Eligible for Special Tariff Treatment.
 
@@ -124,7 +124,7 @@
 
                                                                                                             *Alternate II.* As prescribed in 225.1101(6) and (6)(ii), use the following clause, which (i) adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a); (ii) uses a different paragraph (c) than the basic clause; (iii) adds a new paragraph (d); and (iv) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-                                                                                                            Trade Agreements - Alternate II (AUG 2019)
+                                                                                                            Trade Agreements - Alternate II (SEP 2019)
 
                                                                                                             (a) *Definitions. As used in this clause - Caribbean Basin country end product* -
 
@@ -240,7 +240,7 @@
 
 (e) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-(f) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in paragraph (a)(2)(ii)(A) of this clause:
+(f) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in the definition of “Caribbean Basin country end product” within paragraph (a)of this clause:
 
 (1) General Note 3(c), Products Eligible for Special Tariff Treatment.
 

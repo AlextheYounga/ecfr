@@ -1,6 +1,6 @@
 ##### 252.237-7004 Area of performance. #####
 
-As prescribed in 237.7003(b), use the following clause:
+As prescribed in 237.7003(a) and (a)(2), use the following clause:
 
 Area of Performance (DEC 1991)
 
@@ -14,4 +14,4 @@ Area of Performance (DEC 1991)
 
 (e) The Contracting Officer may require the Contractor to deliver remains to any point within 100 miles of the area of performance. In this case, the Contractor shall be paid the amount per mile in the schedule for the number of miles required to transport the remains by a reasonable route from the boundary of the area of performance to the delivery point.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 71 FR 3416, Jan. 23, 2006]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 71 FR 3416, Jan. 23, 2006; 84 FR 48505, Sept. 13, 2019]

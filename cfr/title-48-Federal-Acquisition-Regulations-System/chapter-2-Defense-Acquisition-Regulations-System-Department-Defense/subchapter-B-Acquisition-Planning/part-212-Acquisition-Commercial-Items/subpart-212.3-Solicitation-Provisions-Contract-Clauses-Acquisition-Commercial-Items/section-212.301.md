@@ -12,10 +12,11 @@
 
 (D) Use the provision at 252.203-7005, Representation Relating to Compensation of Former DoD Officials, as prescribed in 203.171-4(b).
 
-(ii) *Part 204 - Administrative Matters.*
+(ii) *Part 204-Administrative and Information Matters.*
 
 (A) Use the clause at 252.204-7004, Antiterrorism Awareness Training for Contractors, as prescribed in 204.7203.
-(B) Use the provision at 252.204-7008 Compliance with Safeguarding Covered Defense Information Controls, as prescribed in 204.7304(a).
+
+(B) Use the provision at 252.204-7008, Compliance with Safeguarding Covered Defense Information Controls, as prescribed in 204.7304(a).
 
 (C) Use the clause at 252.204-7009, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information, as prescribed in 204.7304(b).
 
@@ -37,7 +38,7 @@
 
 (D) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-6(c).
 
-(v) *Part 213 - Simplified Acquisition Procedures.* Use the provision at 252.213-7000, Notice to Prospective Suppliers on Use of Past Performance Information Retrieval System - Statistical Reporting in Past Performance Evaluations, as prescribed in 213.106-2-70.
+(v) *Part 213 - Simplified Acquisition Procedures.* Use the provision at 252.213-7000, Notice to Prospective Suppliers on Use of Supplier Performance Risk System in Past Performance Evaluations, as prescribed in 213.106-2-70.
 
 (vi) *Part 215 - Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, as prescribed at 215.408(2)(i).
 
@@ -237,4 +238,4 @@
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019]

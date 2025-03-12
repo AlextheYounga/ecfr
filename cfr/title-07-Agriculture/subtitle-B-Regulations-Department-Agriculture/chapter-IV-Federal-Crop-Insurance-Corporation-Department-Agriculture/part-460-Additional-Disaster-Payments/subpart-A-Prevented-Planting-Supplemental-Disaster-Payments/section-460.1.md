@@ -1,0 +1,3 @@
+##### § 460.1 Applicability. #####
+
+This subpart specifies the terms and conditions of prevented planting supplemental disaster payments. Prevented planting supplemental disaster payments provide additional compensation to producers prevented from planting crops insured under crop insurance policy reinsured by the Federal Crop Insurance Corporation (FCIC) due to disaster related conditions. Prevented planting supplemental disaster payments are applicable to 2019 crop year crops prevented from planting in 2019, as determined by the Risk Management Agency (RMA).

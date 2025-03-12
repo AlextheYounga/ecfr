@@ -22,6 +22,6 @@ Additional acquisition flexibilities available to DoD are as follows:
 
 (j) *Electronic submission and processing of payment requests.* Exceptions to the use of Wide Area WorkFlow are at 232.7002(a).
 
-(k) *Mortuary services.* In an epidemic or other emergency, the contracting activity may obtain services beyond the capacity of the contractor's facilities from other sources. See 237.7003(b) and 252.237-7003.
+(k) *Mortuary services.* In an epidemic or other emergency, the contracting activity may obtain services beyond the capacity of the contractor's facilities from other sources. See 237.7003(a) and 252.237-7003.
 
-[72 FR 2632, Jan. 22, 2007, as amended at 77 FR 38733, June 29, 2012]
+[72 FR 2632, Jan. 22, 2007, as amended at 77 FR 38733, June 29, 2012; 84 FR 48505, Sept. 13, 2019]

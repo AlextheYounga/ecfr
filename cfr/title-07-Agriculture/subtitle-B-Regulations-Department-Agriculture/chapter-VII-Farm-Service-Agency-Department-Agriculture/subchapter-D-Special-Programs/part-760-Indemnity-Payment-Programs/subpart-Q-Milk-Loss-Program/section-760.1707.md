@@ -1,0 +1,5 @@
+##### § 760.1707 Application for payments for milk loss. #####
+
+(a) The affected farmer or his legal representative must sign and file an application for payment on a form which is approved for that purpose by the Deputy Administrator. The form must be filed with the county FSA office for the county where the farm headquarters are located no later than 60 days after the designated deadline announced by the Secretary for 2018 and 2019 losses.
+
+(b) The application for payment will cover application periods of at least 30 days, except that, if the entire application period, or the last application period, is shorter than 30 days, applications for payment may be filed for such shorter period. The application for payment must be accompanied by the information required for the Milk Loss Program as any other information which will enable the FSA county committee to determine whether the making of this payment is precluded for any of the reasons as determined ineligible by the Deputy Administrator.

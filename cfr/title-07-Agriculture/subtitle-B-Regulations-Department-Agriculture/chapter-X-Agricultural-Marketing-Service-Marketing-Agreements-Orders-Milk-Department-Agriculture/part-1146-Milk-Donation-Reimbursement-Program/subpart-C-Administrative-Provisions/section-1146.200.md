@@ -1,0 +1,5 @@
+##### § 1146.200 Opportunities to participate. #####
+
+(a) AMS will announce opportunities to participate in the Milk Donation Reimbursement Program and the amount of program funding available for each fiscal year on the AMS website. The announcements will include invitations for interested parties to submit new or revised dairy donation and distribution plans and will specify the manner and form in which program applications should be submitted.
+
+(b) If, after making approval determinations for the fiscal year about each submitted program application, AMS determines that additional reimbursement funds are available, AMS will publish an announcement to that effect and invite further requests for Plan approvals pursuant to § 1146.104(a) through (c) or for increases in reimbursement amounts pursuant § 1146.104(e).

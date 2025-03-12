@@ -1,7 +1,5 @@
 ##### § 483.70 Administration. #####
 
-Link to an amendment published at 84 FR 34735, July 18, 2019.
-
 A facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident.
 
 (a) *Licensure.* A facility must be licensed under applicable State and local law.
@@ -12,7 +10,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (d) *Governing body.* (1) The facility must have a governing body, or designated persons functioning as a governing body, that is legally responsible for establishing and implementing policies regarding the management and operation of the facility; and
 
-(2) The governing body appoints the administrator who is -
+(2) The governing body appoints the administrator who is—
 
 (i) Licensed by the State, where licensing is required;
 
@@ -58,7 +56,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (g) *Use of outside resources.* (1) If the facility does not employ a qualified professional person to furnish a specific service to be provided by the facility, the facility must have that service furnished to residents by a person or agency outside the facility under an arrangement described in section 1861(w) of the Act or (with respect to services furnished to NF residents and dental services furnished to SNF residents) an agreement described in paragraph (g)(2) of this section.
 
-(2) Arrangements as described in section 1861(w) of the Act or agreements pertaining to services furnished by outside resources must specify in writing that the facility assumes responsibility for -
+(2) Arrangements as described in section 1861(w) of the Act or agreements pertaining to services furnished by outside resources must specify in writing that the facility assumes responsibility for—
 
 (i) Obtaining services that meet professional standards and principles that apply to professionals providing services in such a facility; and
 
@@ -66,13 +64,13 @@ A facility must be administered in a manner that enables it to use its resources
 
 (h) *Medical director.* (1) The facility must designate a physician to serve as medical director.
 
-(2) The medical director is responsible for -
+(2) The medical director is responsible for—
 
 (i) Implementation of resident care policies; and
 
 (ii) The coordination of medical care in the facility.
 
-(i) *Medical records.* (1) In accordance with accepted professional standards and practices, the facility must maintain medical records on each resident that are -
+(i) *Medical records.* (1) In accordance with accepted professional standards and practices, the facility must maintain medical records on each resident that are—
 
 (i) Complete;
 
@@ -82,7 +80,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iv) Systematically organized.
 
-(2) The facility must keep confidential all information contained in the resident's records, regardless of the form or storage method of the records, except when release is -
+(2) The facility must keep confidential all information contained in the resident's records, regardless of the form or storage method of the records, except when release is—
 
 (i) To the individual, or their resident representative where permitted by applicable law;
 
@@ -94,7 +92,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (3) The facility must safeguard medical record information against loss, destruction, or unauthorized use;
 
-(4) Medical records must be retained for -
+(4) Medical records must be retained for—
 
 (i) The period of time required by State law; or
 
@@ -102,7 +100,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iii) For a minor, 3 years after a resident reaches legal age under State law.
 
-(5) The medical record must contain -
+(5) The medical record must contain—
 
 (i) Sufficient information to identify the resident;
 
@@ -116,7 +114,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (vi) Laboratory, radiology and other diagnostic services reports as required under § 483.50.
 
-(j) *Transfer agreement.* (1) In accordance with section 1861(l) of the Act, the facility (other than a nursing facility which is located in a State on an Indian reservation) must have in effect a written transfer agreement with one or more hospitals approved for participation under the Medicare and Medicaid programs that reasonably assures that -
+(j) *Transfer agreement.* (1) In accordance with section 1861(l) of the Act, the facility (other than a nursing facility which is located in a State on an Indian reservation) must have in effect a written transfer agreement with one or more hospitals approved for participation under the Medicare and Medicaid programs that reasonably assures that—
 
 (i) Residents will be transferred from the facility to the hospital, and ensured of timely admission to the hospital when transfer is medically appropriate as determined by the attending physician or, in an emergency situation, by another practitioner in accordance with facility policy and consistent with state law; and
 
@@ -126,7 +124,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (k) *Disclosure of ownership.* (1) The facility must comply with the disclosure requirements of §§ 420.206 and 455.104 of this chapter.
 
-(2) The facility must provide written notice to the State agency responsible for licensing the facility at the time of change, if a change occurs in -
+(2) The facility must provide written notice to the State agency responsible for licensing the facility at the time of change, if a change occurs in—
 
 (i) Persons with an ownership or control interest, as defined in §§ 420.201 and 455.101 of this chapter;
 
@@ -152,37 +150,27 @@ A facility must be administered in a manner that enables it to use its resources
 
 (m) *Facility closure.* The facility must have in place policies and procedures to ensure that the administrator's duties and responsibilities involve providing the appropriate notices in the event of a facility closure, as required at paragraph (l) of this section.
 
-(n) *Binding arbitration agreements.* (1) A facility must not enter into a pre-dispute agreement for binding arbitration with any resident or resident's representative nor require that a resident sign an arbitration agreement as a condition of admission to the LTC facility.
+(n) *Binding arbitration agreements.* If a facility chooses to ask a resident or his or her representative to enter into an agreement for binding arbitration, the facility must comply with all of the requirements in this section.
 
-(2) If, after a dispute between the facility and a resident arises, and a facility chooses to ask a resident or his or her representative to enter into an agreement for binding arbitration, the facility must comply with all of the requirements in this section.
+(1) The facility must not require any resident or his or her representative to sign an agreement for binding arbitration as a condition of admission to, or as a requirement to continue to receive care at, the facility and must explicitly inform the resident or his or her representative of his or her right not to sign the agreement as a condition of admission to, or as a requirement to continue to receive care at, the facility.
 
-(i) The facility must ensure that:
+(2) The facility must ensure that:
 
-(A) The agreement is explained to the resident and their representative in a form and manner that he or she understands, including in a language the resident and their representative understands, and
+(i) The agreement is explained to the resident and his or her representative in a form and manner that he or she understands, including in a language the resident and his or her representative understands;
 
-(B) The resident acknowledges that he or she understands the agreement.
+(ii) The resident or his or her representative acknowledges that he or she understands the agreement;
 
-(ii) The agreement must:
+(iii) The agreement provides for the selection of a neutral arbitrator agreed upon by both parties; and
 
-(A) Be entered into by the resident voluntarily.
+(iv) The agreement provides for the selection of a venue that is convenient to both parties.
 
-(B) Provide for the selection of a neutral arbitrator agreed upon by both parties.
+(3) The agreement must explicitly grant the resident or his or her representative the right to rescind the agreement within 30 calendar days of signing it.
 
-(C) Provide for selection of a venue convenient to both parties.
+(4) The agreement must explicitly state that neither the resident nor his or her representative is required to sign an agreement for binding arbitration as a condition of admission to, or as a requirement to continue to receive care at, the facility.
 
-(iii) A resident's continuing right to remain in the facility must not be contingent upon the resident or the resident's representative signing a binding arbitration agreement.
+(5) The agreement may not contain any language that prohibits or discourages the resident or anyone else from communicating with federal, state, or local officials, including but not limited to, federal and state surveyors, other federal or state health department employees, and representatives of the Office of the State Long-Term Care Ombudsman, in accordance with § 483.10(k).
 
-(iv) The agreement must not contain any language that prohibits or discourages the resident or anyone else from communicating with federal, state, or local officials, including but not limited to, federal and state surveyors, other federal or state health department employees, and representatives of the Office of the State Long-Term Care Ombudsman, in accordance with § 483.10(k).
-
-(v) The agreement may be signed by another individual if:
-
-(A) Allowed by state law;
-
-(B) All of the requirements in this section are met; and
-
-(C) That individual has no interest in the facility.
-
-(vi) When the facility and a resident resolve a dispute with arbitration, a copy of the signed agreement for binding arbitration and the arbitrator's final decision must be retained by the facility for 5 years and be available for inspection upon request by CMS or its designee.
+(6) When the facility and a resident resolve a dispute through arbitration, a copy of the signed agreement for binding arbitration and the arbitrator's final decision must be retained by the facility for 5 years after the resolution of that dispute on and be available for inspection upon request by CMS or its designee.
 
 (o) *Hospice services.* (1) A long-term care (LTC) facility may do either of the following:
 
@@ -278,4 +266,4 @@ A facility must be administered in a manner that enables it to use its resources
 
 (5) *Submission schedule.* The facility must submit direct care staffing information on the schedule specified by CMS, but no less frequently than quarterly.
 
-[56 FR 48877, Sept. 26, 1991, as amended at 56 FR 48918, Sept. 26, 1991; 57 FR 7136, Feb. 28, 1992; 57 FR 43925, Sept. 23, 1992; 59 FR 56237, Nov. 10, 1994; 63 FR 26311, May 12, 1998; 68 FR 55539, Sept. 26, 2003; 74 FR 40363, Aug. 11, 2009; 76 FR 9511, Feb. 18, 2011; 78 FR 16805, Mar. 19, 2013; 78 FR 38605, June 27, 2013; 80 FR 46477, Aug. 4, 2015; 81 FR 64032, Sept. 16, 2016. Redesignated and amended at 81 FR 68861, 68865, Oct. 4, 2016; 82 FR 32259, July 13, 2017]
+[56 FR 48877, Sept. 26, 1991. Redesignated at 81 FR 68861, Oct. 4, 2016]Editorial Note:For Federal Register citations affecting § 483.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
