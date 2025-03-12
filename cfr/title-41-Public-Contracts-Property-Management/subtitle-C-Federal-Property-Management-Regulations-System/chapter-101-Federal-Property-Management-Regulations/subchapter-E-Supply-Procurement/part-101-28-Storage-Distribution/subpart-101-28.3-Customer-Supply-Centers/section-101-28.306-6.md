@@ -1,0 +1,3 @@
+##### § 101-28.306-6 Sensitive items. #####
+
+Many items stocked by the CSCs may be considered sensitive based upon standard criteria factors such as propensity for personal use, the potential for embarrassment of GSA and customer agencies, the level of customer complaints, and control as an accountable item of personal property. Each customer activity shall take all appropriate measures necessary to ensure that all items are properly controlled within its activity and are purchased solely for official Government use.

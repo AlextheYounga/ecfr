@@ -1,0 +1,3 @@
+##### § 102-37.470 At what point may restrictions be released on property that has been authorized for cannibalization? #####
+
+Property authorized for cannibalization must remain under the period of restriction imposed by the transfer/distribution document until the proposed cannibalization is completed. Components resulting from the cannibalization, which have a unit acquisition cost of $5,000 or more, must remain under the restrictions imposed by the transfer/distribution document. Components with a unit acquisition cost of less than $5,000 may be released upon cannibalization from the additional restrictions imposed by the State. However, these components must continue to be used or be otherwise disposed of in accordance with this part.

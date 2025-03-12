@@ -1,0 +1,5 @@
+##### § 101-27.303 Reducing long supply. #####
+
+Through effective interagency matching of material and requirements before the material becomes excess, unnecessary procurements and investment losses can be reduced. Timely action is required to reduce inventories to their normal stock levels by curtailing procurement and by utilizing and redistributing long supply. (The term *long supply* means the increment of inventory of an item that exceeds the stock level criteria established for that item by the inventory manager, but excludes quantities to be declared excess.) In this connection, requirements for agency managed items should be obtained from long supply inventories offered by agencies rather than by procurement from commercial sources. Because supply requirements usually fluctuate over a period of time, a long supply quantity which is 10 percent or less of the total stock of the item is considered marginal and need not be reduced.
+
+[41 FR 3858, Jan. 27, 1976]

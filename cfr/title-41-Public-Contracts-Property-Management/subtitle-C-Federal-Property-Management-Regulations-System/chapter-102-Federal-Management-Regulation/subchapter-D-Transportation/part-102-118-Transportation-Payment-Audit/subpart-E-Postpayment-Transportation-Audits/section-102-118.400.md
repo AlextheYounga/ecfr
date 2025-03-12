@@ -1,0 +1,3 @@
+##### § 102-118.400 What is a transportation postpayment audit? #####
+
+*Postpayment audit* means an audit of transportation billing documents after payment to decide their validity, propriety, and conformity of rates with tariffs, quotations, agreements, contracts, or tenders. The audit may also include subsequent adjustments and collection actions taken against a TSP by the Government (31 U.S.C. 3726).

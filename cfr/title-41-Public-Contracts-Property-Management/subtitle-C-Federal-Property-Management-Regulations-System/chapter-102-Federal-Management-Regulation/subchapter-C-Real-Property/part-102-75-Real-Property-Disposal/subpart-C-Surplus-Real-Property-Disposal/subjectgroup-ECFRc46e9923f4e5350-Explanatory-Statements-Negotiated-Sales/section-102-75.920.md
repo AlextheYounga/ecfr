@@ -1,0 +1,3 @@
+##### § 102-75.920 Where is the explanatory statement sent? #####
+
+Disposal agencies must submit each explanatory statement to the Administrator of General Services for review and transmittal by letter from the Administrator of General Services to the Senate Committee on Governmental Affairs and the House Committee on Government Reform and any other appropriate committees of the Senate and House of Representatives. Disposal agencies must include in the submission to the Administrator of General Services any supporting data that may be relevant and necessary for evaluating the proposed action.

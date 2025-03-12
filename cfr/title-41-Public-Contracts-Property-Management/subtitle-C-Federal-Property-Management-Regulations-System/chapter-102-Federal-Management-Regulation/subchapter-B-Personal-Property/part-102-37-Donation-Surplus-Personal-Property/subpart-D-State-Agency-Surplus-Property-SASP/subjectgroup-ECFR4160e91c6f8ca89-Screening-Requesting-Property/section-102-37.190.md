@@ -1,0 +1,3 @@
+##### § 102-37.190 What records must a SASP maintain on authorized screeners? #####
+
+You must maintain a current record of all individuals authorized to screen for your SASP, including their names, addresses, telephone numbers, qualifications to screen, and any additional identifying information such as driver's license or social security numbers. In the case of donee screeners, you should place such records in the donee's eligibility file and review for currency each time a periodic review of the donee's file is undertaken.

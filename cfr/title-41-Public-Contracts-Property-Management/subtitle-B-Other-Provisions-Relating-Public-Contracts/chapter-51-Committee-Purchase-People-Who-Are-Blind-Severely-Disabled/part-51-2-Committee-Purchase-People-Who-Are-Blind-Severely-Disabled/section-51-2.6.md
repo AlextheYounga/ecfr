@@ -1,0 +1,7 @@
+##### § 51-2.6 Reconsideration of Committee decision. #####
+
+(a) The Committee may reconsider its decision to add items to the Procurement List if it receives pertinent information which was not before it when it initially made the decision. Unless otherwise provided by the Committee, requests for reconsideration from interested persons must be received by the Committee within 60 days following the effective date of the addition in question. A request for reconsideration must include the specific facts believed by the interested person to justify a decision by the Committee to modify or reverse its earlier action.
+
+(b) In reconsidering its decision, the Committee will balance the harm to the party requesting reconsideration if the item remains on the Procurement List against the harm which the nonprofit agency or its employees who are blind or have other severe disabilities would suffer if the item were deleted from the Procurement List. The Committee may also consider information bringing into question its conclusions on the suitability criteria on which it based its original decision as factors weighing toward a decision to delete the item, and information concerning possible harm to the Government and the JWOD Program as factors weighing toward confirmation of the original decision.
+
+[56 FR 48977, Sept. 26, 1991, as amended at 59 FR 59342, Nov. 16, 1994]

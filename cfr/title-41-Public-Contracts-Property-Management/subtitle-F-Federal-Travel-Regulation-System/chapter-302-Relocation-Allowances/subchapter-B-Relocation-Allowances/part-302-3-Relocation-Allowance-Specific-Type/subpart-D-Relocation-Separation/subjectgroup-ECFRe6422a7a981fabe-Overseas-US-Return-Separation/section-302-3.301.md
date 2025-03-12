@@ -1,0 +1,3 @@
+##### § 302-3.301 May I transport my household goods to a location other than my actual place of residence when I separate from the Government? #####
+
+Yes, if you have successfully completed your service agreement, you may transport your household goods to a location other than your actual place of residence when you separate from the Government. However, the cost cannot exceed what it would cost to your actual place of residence. Any additional cost will be borne by you.

@@ -1,0 +1,5 @@
+##### § 301-11.27 Are taxes included in the lodging portion of the Government per diem rate? #####
+
+No. Lodging taxes paid by you are reimbursable as a miscellaneous travel expense limited to the taxes on reimbursable lodging costs. For example, if your agency authorizes you a maximum lodging rate of $50 per night, and you elect to stay at a hotel that costs $100 per night, you can only claim the amount of taxes on $50, which is the maximum authorized lodging amount. This section is effective January 1, 1999, for CONUS locations and effective January 1, 2000, for non-foreign areas. For foreign areas, lodging taxes have not been removed from foreign per diem rates established by the Department of State. Separate claims for lodging taxes incurred in foreign areas are not allowed.
+
+[FTR Amdt. 75, 63 FR 66675, Dec. 2, 1998, as amended by FTR Amdt. 108, 67 FR 57965, Sept. 13, 2002]

@@ -1,0 +1,3 @@
+##### § 105-74.620 Cooperative agreement. #####
+
+*Cooperative agreement* means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in § 105-74.650), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award. The term does not include cooperative research and development agreements as defined in 15 U.S.C. 3710a.

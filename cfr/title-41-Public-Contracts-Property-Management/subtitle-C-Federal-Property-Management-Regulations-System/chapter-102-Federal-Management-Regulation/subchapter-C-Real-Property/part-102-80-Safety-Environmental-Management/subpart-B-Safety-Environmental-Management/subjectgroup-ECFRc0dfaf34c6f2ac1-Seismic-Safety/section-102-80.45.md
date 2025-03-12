@@ -1,0 +1,3 @@
+##### § 102-80.45 What are Federal agencies' responsibilities concerning seismic safety in Federal facilities? #####
+
+Federal agencies must follow the standards issued by the Interagency Committee on Seismic Safety in Construction (ICSSC) as the minimum level acceptable for use by Federal agencies in assessing the seismic safety of their owned and leased buildings and in mitigating unacceptable seismic risks in those buildings.

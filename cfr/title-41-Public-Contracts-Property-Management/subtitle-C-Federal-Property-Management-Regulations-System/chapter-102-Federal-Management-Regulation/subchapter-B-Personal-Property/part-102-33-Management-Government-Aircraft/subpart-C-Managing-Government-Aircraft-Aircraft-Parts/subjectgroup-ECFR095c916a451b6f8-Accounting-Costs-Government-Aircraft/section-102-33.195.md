@@ -1,0 +1,5 @@
+##### § 102-33.195 Do we need an automated system to account for aircraft costs? #####
+
+(a) Yes, if you own Federal aircraft or operate bailed aircraft, you must maintain an automated system to account for aircraft costs by collecting the cost data elements required by FAIRS. The functional specifications and data definitions for a FAIRS-compliant system are described in the “Common Aviation Management Information Standard” (C-AMIS), which is available from the Aviation Policy Division. See §§ 102-33.395, 102-33.405, and 102-33.410 for more information on FAIRS, and §§ 102-33.455 and 102-33.460 for more information on C-AMIS.
+
+(b) Agencies that use only CAS aircraft and do not have Federal aircraft must keep records adequate for reporting information through FAIRS, but are not required to have an automated system. See §§ 102-33.435 and 102-33.440 for the information on CAS that you must report through FAIRS.

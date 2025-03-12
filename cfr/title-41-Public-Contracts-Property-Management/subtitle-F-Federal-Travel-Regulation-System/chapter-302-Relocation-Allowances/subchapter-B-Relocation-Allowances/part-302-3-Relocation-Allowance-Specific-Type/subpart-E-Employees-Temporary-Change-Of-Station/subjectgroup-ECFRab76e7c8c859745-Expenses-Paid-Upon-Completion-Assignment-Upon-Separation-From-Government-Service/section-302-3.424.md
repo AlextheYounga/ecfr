@@ -1,0 +1,3 @@
+##### § 302-3.424 If I separate from Government service prior to completion of my TCS, what relocation expenses will my agency pay upon my separation? #####
+
+If you separate from Government service prior to completion of your TCS for reasons beyond your control that are acceptable to your agency, your agency will pay the same relocation expenses it would pay under § 302-3.423. If this is not the case, the expenses your agency pays may not exceed the reimbursement that you would have received under this chapter or chapter 301 of this title whichever your agency determines to be in the best interest of the Government.

@@ -1,0 +1,3 @@
+##### § 102-78.70 What are an agency's historic preservation responsibilities when disposing of another Federal agency's real property? #####
+
+Federal agencies must not accept property declared excess by another Federal agency nor act as an agent for transfer or sale of such properties until the holding agency provides evidence that the Federal agency has met its National Historic Preservation Act responsibilities.

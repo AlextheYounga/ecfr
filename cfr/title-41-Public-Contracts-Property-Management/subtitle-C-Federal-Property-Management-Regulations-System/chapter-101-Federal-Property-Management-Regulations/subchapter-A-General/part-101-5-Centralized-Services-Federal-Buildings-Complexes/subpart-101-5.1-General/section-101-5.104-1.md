@@ -1,0 +1,5 @@
+##### § 101-5.104-1 General. #####
+
+GSA is currently providing various centralized services to Federal agencies in such fields as office and storage space, supplies and materials, communications, records management, transportation services, and printing and reprographics. Other centralized CASU's may be providing supporting services or activities such as health units, use of training devices and facilities, pistol ranges, and central facilities for receipt and dispatch of mail. Consolidation and sharing is frequently feasible with resulting economies in personnel, equipment, and space. Opportunities to effect economies through planned consolidation of such services occur particularly during the design stage of the construction of new Federal buildings, or the renovations to existing buildings. Opportunities may also occur as a result of needs assessments jointly conducted by local agencies.
+
+[56 FR 33873, July 24, 1991]

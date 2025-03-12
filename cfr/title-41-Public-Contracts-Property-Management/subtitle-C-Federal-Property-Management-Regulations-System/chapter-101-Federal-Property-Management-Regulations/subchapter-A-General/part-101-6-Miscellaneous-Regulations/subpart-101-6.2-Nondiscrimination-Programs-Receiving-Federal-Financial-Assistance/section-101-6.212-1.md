@@ -1,0 +1,7 @@
+##### § 101-6.212-1 Opportunity for hearing. #####
+
+Whenever an opportunity for a hearing is required by § 101-6.211-3, reasonable notice shall be given by registered or certified mail, return receipt requested, to the affected applicant or recipient. This notice shall advise the applicant or recipient of the action proposed to be taken, the specific provision under which the proposed action against it is to be taken, and the matters of fact or law asserted as the basis for this action, and either:
+
+(a) Fix a date not less than 20 days after the date of such notice within which the applicant or recipient may request of the responsible GSA official that the matter be scheduled for hearing, or (b) advise the applicant or recipient that the matter in question has been set down for hearing at a stated place and time. The time and place so fixed shall be reasonable and shall be subject to change for cause. The complainant, if any, shall be advised of the time and place of the hearing. An applicant or recipient may waive a hearing and submit written information and argument for the record. The failure of an applicant or recipient to request a hearing under this section or to appear at a hearing for which a date has been set shall be deemed to be a waiver of the right to a hearing under section 602 of the Act and § 101-6.211-3, and consent to the making of a decision on the basis of such information as is available.
+
+(b) [Reserved]

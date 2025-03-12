@@ -1,0 +1,5 @@
+##### § 101-26.605 Items other than petroleum products and electronic items available from the Defense Logistics Agency. #####
+
+Agencies required to use GSA supply sources should also use Defense supply centers (DSC's) as sources of supply for items listed in the Federal Supply Catalog for Civil Agencies, Identification and Management Data List, published by DLA. By agreement with the Defense Logistics Agency, the catalog will contain only those items in Federal supply classification classes which are assigned to them for Government-wide integrated management, or exception items in other classes similarly assigned. A list of DSC's and their corresponding commodity areas along with requisitioning instructions are published in the FEDSTRIP Operating Guide. As additional items are assigned to managers other than GSA for Government-wide integrated material management, GSA will announce the changes through the Federal Catalog System and GSA's regular supply publications.
+
+[42 FR 58750, Nov. 11, 1977]

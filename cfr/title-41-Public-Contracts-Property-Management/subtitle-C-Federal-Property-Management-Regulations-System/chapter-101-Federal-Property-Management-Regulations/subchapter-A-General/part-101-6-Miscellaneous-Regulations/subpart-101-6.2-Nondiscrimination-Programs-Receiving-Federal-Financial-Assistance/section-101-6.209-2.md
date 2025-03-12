@@ -1,0 +1,3 @@
+##### § 101-6.209-2 Compliance reports. #####
+
+Each recipient shall keep such records and submit to the responsible GSA official or his designee timely, complete and accurate compliance reports at such times, and in such form and containing such information, as the responsible GSA official or his designee may determine to be necessary to enable him to ascertain whether the recipient has complied or is complying with this subpart 101-6.2. In the case in which a primary recipient extends Federal financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this subpart.

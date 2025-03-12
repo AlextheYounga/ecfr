@@ -1,0 +1,3 @@
+##### § 60-2.32 Affirmative action records. #####
+
+The contractor must make available to the Office of Federal Contract Compliance Programs, upon request, records maintained pursuant to § 60-1.12 of this chapter and written or otherwise documented portions of AAPs maintained pursuant to § 60-2.10 for such purposes as may be appropriate to the fulfillment of the agency's responsibilities under Executive Order 11246.

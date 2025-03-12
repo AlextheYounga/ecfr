@@ -1,0 +1,3 @@
+##### § 109-1.5301 Applicability. #####
+
+This subpart is applicable to all DOE organizations which purchase, manage or dispose of Government personal property, or contract for the management of Government facilities, programs, or related services, which may directly or indirectly require the purchase, management, or disposal of Government-owned personal property. Using the high-risk personal property control requirements in this subpart as guidance, Program Secretarial Officer (PSO) or OPMOs/PAs shall ensure that designated contractors and financial assistance recipients are responsible for developing a cost effective high-risk property management system, covering all operational responsibilities enumerated in this subpart.

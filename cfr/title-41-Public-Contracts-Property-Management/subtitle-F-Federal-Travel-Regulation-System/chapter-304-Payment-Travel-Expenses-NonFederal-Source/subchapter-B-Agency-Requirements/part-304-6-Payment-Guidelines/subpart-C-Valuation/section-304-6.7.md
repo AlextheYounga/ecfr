@@ -1,0 +1,3 @@
+##### § 304-6.7 Must we report on the Standard Form (SF) 326 any information that is protected from disclosure by statute? #####
+
+No. Information that is protected by statute from disclosure to the public should not be reported on the SF 326. However, if you omit otherwise reportable information from the SF 326 because the information may not be disclosed, you must notify OGE unless otherwise prohibited by law and, if requested by the Director of OGE, make the information available for inspection by an OGE employee with the requisite clearance.

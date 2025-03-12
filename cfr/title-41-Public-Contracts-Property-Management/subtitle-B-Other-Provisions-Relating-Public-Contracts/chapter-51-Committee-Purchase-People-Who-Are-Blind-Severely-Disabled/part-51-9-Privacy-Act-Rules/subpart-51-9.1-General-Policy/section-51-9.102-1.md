@@ -1,0 +1,3 @@
+##### § 51-9.102-1 Specific exemptions. #####
+
+Systems of records maintained by the Committee which have been exempted from certain requirements of the Privacy Act are designated in subpart 51-9.6 of this part. An individual shall have access to all exempted records containing information about him under procedures outlined in subpart 51-9.3 of this part. Upon request, an individual shall receive an accounting of any disclosure of information about him.

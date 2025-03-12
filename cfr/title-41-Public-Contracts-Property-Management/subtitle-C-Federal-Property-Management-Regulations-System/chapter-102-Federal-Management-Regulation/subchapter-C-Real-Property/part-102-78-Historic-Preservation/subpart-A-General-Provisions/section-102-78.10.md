@@ -1,0 +1,3 @@
+##### § 102-78.10 What basic historic preservation policy governs Federal agencies? #####
+
+To protect, enhance and preserve historic and cultural property under their control, Federal agencies must consider the effects of their undertakings on historic and cultural properties and give the Advisory Council on Historic Preservation (Advisory Council), the State Historic Preservation Officer (SHPO), and other consulting parties a reasonable opportunity to comment regarding the proposed undertakings.

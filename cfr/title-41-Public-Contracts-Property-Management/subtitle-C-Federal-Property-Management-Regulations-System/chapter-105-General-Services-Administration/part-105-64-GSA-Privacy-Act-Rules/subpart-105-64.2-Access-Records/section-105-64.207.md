@@ -1,0 +1,3 @@
+##### § 105-64.207 Are there any fees? #####
+
+No fees are charged for records when the total fee is less than $25. The system manager may waive the fee above this amount if providing records without charge is customary or in the public interest. When the cost exceeds $25, the fee for a paper copy is 10 cents per page, and the fee for materials other than paper copies is the actual cost of reproduction. For fees above $250, advance payment is required. You should pay by check or money order made payable to the General Services Administration, and provide it to the system manager.

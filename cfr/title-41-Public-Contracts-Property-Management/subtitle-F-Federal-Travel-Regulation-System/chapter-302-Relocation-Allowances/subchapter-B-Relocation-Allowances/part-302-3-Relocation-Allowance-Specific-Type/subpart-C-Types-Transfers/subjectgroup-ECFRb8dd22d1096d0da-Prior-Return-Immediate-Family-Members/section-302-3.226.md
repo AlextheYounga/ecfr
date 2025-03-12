@@ -1,0 +1,3 @@
+##### § 302-3.226 Will the Government reimburse me if I am not eligible to return with my immediate family member(s) to the U.S. and choose to send them at my own expense? #####
+
+Yes, if you pay for the prior return of your eligible immediate family member(s), you will be reimbursed when you become eligible for return travel and transportation, you must provide your agency with all receipts and documentation to support your cost. Your agency will then reimburse your expenses, not to exceed your authorized allowance.

@@ -1,0 +1,3 @@
+##### § 102-74.370 What items are subject to inspection by Federal agencies? #####
+
+Federal agencies may, at their discretion, inspect packages, briefcases and other containers in the immediate possession of visitors, employees or other persons arriving on, working at, visiting, or departing from Federal property. Federal agencies may conduct a full search of a person and the vehicle the person is driving or occupying upon his or her arrest.

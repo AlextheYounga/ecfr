@@ -1,0 +1,9 @@
+##### § 60-1.11 Payment or reimbursement of membership fees and other expenses to private clubs. #####
+
+(a)(1) A contractor which maintains a policy or practice of paying membership fees or other expenses for employee participation in private clubs or organizations shall ensure that the policy or practice is administered without regard to the race, color, religion, sex, or national origin of employees.
+
+(2) Payment or reimbursement by contractors of membership fees and other expenses for participation by their employees in a private club or organization which bars, restricts or limits its membership on the basis of race, color, sex, religion, or national origin constitutes a violation of Executive Order 11246 except where the contractor can provide evidence that such restrictions or limitations do not abridge the promotional opportunities, status, compensation or other terms and conditions of employment of those of its employees barred from membership because of their race, color, religion, sex, or national origin. OFCCP shall provide the contractor with the opportunity to present evidence in defense of its actions.
+
+(b) The contractor has the responsibility of determining whether the club or organization restricts membership on the basis of race, color, religion, sex, or national origin. The contractor may make separate determinations for different chapters of an organization, and where it does so, may limit any necessary corrective action to the particular chapters which observe discriminatory membership policies and practices.
+
+[46 FR 3896, Jan. 16, 1981]Effective Date Note:At 46 FR 3896, Jan. 16, 1981, § 60-1.11 was added. At 46 FR 18951, Mar. 27, 1981, the effective date was deferred until further notice.

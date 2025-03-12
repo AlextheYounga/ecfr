@@ -1,0 +1,3 @@
+##### § 101-5.104-5 Designating agency representatives. #####
+
+The head of each agency receiving a GSA notice regarding a scheduled feasibility study will be requested to designate one or more officials at the location where the study will be made who may consult with authorized GSA representatives. Such information and assistance as is required or pertinent for an adequate review of the feasibility of the proposed centralized service shall be made available to GSA through the designated agency representatives.

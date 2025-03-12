@@ -1,0 +1,7 @@
+##### § 102-36.80 How much do we pay for excess personal property on a transfer with reimbursement? #####
+
+(a) You may be required to reimburse the holding agency the fair market value when the transfer involves any of the conditions in § 102-36.75(b)(1) through (b)(4).
+
+(b) When acquiring excess personal property for your project grantees (§ 102-36.75(b)(5)), you are required to deposit into the miscellaneous receipts fund of the U.S. Treasury an amount equal to 25 percent of the original acquisition cost of the property, except for transfers under the conditions cited in § 102-36.190.
+
+(c) When you or the holding agency is the DC Government or a wholly owned or mixed-ownership Government corporation (§ 102-36.75(b)(6) or (b)(7)), you are required to reimburse the holding agency using fair value reimbursement. Fair value reimbursement is 20 percent of the original acquisition cost for new or unused property (i.e., condition code 1), and zero percent for other personal property. Where circumstances warrant, a higher fair value may be used if the agencies concerned agree. Due to special circumstances or the unusual nature of the property, the holding agency may use other criteria for establishing fair value if approved or directed by GSA. You must refer any disagreements to the appropriate regional GSA Personal Property Management office.

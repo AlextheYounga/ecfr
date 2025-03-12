@@ -1,0 +1,3 @@
+##### § 102-37.570 What type of property may a holding agency donate under this subpart? #####
+
+Only that property a holding agency has made a written determination to abandon or destroy (see process in part 102-36 of this chapter) may be donated under this subpart. A holding agency may not donate property that requires destruction for health, safety, or security reasons. When disposing of hazardous materials and other dangerous property, a holding agency must comply with all applicable laws and regulations and any special disposal requirements in part 101-42 of this title.

@@ -1,0 +1,3 @@
+##### § 101-29.301-4 Periodic review of Federal product descriptions. #####
+
+The Assistant Administrator for Federal Supply and Services is responsible for establishing a program for periodically reviewing Federal product descriptions to determine whether revision, cancellation or reauthorization (validation) is appropriate. The frequency of the review shall be based on the degree of change in the technology of the product covered by the description and shall be conducted at least once every 5 years.

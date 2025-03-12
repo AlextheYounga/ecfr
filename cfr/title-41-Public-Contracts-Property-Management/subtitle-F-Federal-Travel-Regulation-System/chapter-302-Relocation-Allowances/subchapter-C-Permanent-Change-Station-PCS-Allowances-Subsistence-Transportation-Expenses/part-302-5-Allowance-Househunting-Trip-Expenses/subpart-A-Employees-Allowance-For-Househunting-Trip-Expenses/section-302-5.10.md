@@ -1,0 +1,3 @@
+##### § 302-5.10 How soon may I and/or my spouse begin a househunting trip? #####
+
+You may begin your househunting trip as soon as your agency has notified you of your transfer and issued a travel authorization for a househunting trip. To take maximum advantage of your trip, however, it is very important that you become familiar as quickly as you can with your new official station area (e.g., housing market conditions, school locations, etc.). If you are selling your residence at your old official station, you should not begin your househunting trip until you have a current appraisal of the value of the residence so that you can more accurately determine the appropriate price range of residences to consider during your househunting trip.

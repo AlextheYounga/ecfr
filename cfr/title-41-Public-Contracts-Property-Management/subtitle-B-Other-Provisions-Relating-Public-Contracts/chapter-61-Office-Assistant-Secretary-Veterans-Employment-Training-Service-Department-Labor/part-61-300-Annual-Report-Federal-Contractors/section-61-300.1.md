@@ -1,0 +1,9 @@
+##### § 61-300.1 What is the purpose and scope of this part? #####
+
+(a) This part 61-300 implements 38 U.S.C. 4212(d). Each contractor or subcontractor who enters into a contract or subcontract in the amount of $100,000 or more with any department or agency of the United States for the procurement of personal property and non-personal services (including construction), and who is subject to 38 U.S.C. 4212(a), must report annually to the Secretary of Labor information on the number of employees in its workforce who belong to the categories of veterans protected under the Act, and the number of those employees who were hired during the period covered by the report. Each contractor or subcontractor must provide the required information on veterans' employment by filing the Federal Contractor Veterans' Employment Report VETS-4212 (VETS-4212 Report), in accordance with the requirements of § 61-300.11.
+
+(b) Notwithstanding the regulations in this part, the regulations at 41 CFR part 60-300, administered by OFCCP continue to apply to contractors' and subcontractors' affirmative action obligations regarding protected veterans.
+
+(c) Reporting requirements of this part regarding protected veterans will be deemed waived in those instances in which the Director of OFCCP has granted a waiver under 41 CFR 60-300.4(b)(1), or has concurred in the granting of a waiver under 41 CFR 60-300.4(b)(3), from compliance with all the terms of the equal opportunity clause for those establishments not involved in Government contract work. Where OFCCP grants only a partial waiver, compliance with these reporting requirements regarding protected veterans will be required.
+
+(d) 41 CFR part 60-300, subpart C and Appendix B to part 60-300 provide guidance concerning the affirmative action obligations of Federal contractors toward applicants for employment who are protected veterans.

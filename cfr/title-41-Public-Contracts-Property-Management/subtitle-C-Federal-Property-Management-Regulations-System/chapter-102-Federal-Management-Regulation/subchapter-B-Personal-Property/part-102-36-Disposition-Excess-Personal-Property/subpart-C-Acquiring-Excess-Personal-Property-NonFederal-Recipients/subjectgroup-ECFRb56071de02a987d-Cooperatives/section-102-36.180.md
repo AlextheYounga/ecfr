@@ -1,0 +1,3 @@
+##### § 102-36.180 Is there any limitation/condition to acquiring excess personal property for use by cooperatives? #####
+
+Yes, you must limit the total dollar amount of property transfers (in terms of original acquisition cost) to the dollar value of the cooperative agreement. For any transfers in excess of such amount, you must ensure that an official of your agency at a level higher than the officer administering the agreement approves the transfer. The federal government retains title to such property, except when provided by specific statutory authority.

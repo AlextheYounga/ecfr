@@ -1,0 +1,3 @@
+##### § 105-64.407 How do I file a Statement of Disagreement? #####
+
+You may file a Statement of Disagreement with the system manager within 30 days of the denial to amend a record. The statement should explain why you believe the record to be inaccurate, irrelevant, untimely, or incomplete. The system manager will file the statement with your record, provide a copy to anyone who had previously received the record, and include a copy of it in any future disclosure.

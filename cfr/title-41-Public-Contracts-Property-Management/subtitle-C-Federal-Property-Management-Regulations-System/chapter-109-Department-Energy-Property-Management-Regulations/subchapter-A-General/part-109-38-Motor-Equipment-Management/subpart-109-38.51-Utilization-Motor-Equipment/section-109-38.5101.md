@@ -1,0 +1,3 @@
+##### § 109-38.5101 Policy. #####
+
+It is DOE policy to keep the number of motor vehicles and other motor equipment at the minimum needed to satisfy programmatic requirements. To attain this goal, controls and practices shall be established which will achieve the most practical and economical utilization of motor equipment. These controls and practices apply to all DOE-owned and commercially leased motor equipment and to GSA Interagency Fleet Management System motor vehicles.

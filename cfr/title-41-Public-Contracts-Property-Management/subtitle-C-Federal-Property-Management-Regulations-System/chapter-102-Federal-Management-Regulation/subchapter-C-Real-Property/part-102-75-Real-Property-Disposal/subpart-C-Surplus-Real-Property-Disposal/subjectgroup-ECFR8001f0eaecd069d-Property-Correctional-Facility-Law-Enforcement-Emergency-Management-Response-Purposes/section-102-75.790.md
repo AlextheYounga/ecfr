@@ -1,0 +1,3 @@
+##### § 102-75.790 What responsibilities do landholding agencies and disposal agencies have concerning properties to be used for correctional facility, law enforcement, or emergency management response purposes? #####
+
+Both landholding and disposal agencies must cooperate to the fullest extent possible with Federal and State agency representatives in their inspection of such property and in furnishing information relating to the property.

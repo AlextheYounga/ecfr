@@ -1,0 +1,5 @@
+##### § 101-27.207-2 Inspection. #####
+
+Type II items remaining in stock immediately before the end of the designated shelf-life period shall be inspected to determine whether the shelf life can be extended, except items having a line item inventory value of $300 or less, or if the cost of inspection or testing is significant in relation to the value of the item. If the material is found suitable for issue on the date of inspection, the shelf life should be extended for a period equal to 50 percent of the original shelf-life period and the next reinspection date established accordingly. Material should be reinspected before the end of each extended shelf-life period and the shelf life extended again up to 50 percent of the original shelf life as long as the material conforms to the established criteria. Material on which the shelf life has been extended shall not be shipped to overseas activities if the time remaining in the extended shelf-life period is relatively short.
+
+[40 FR 59596, Dec. 29, 1975]

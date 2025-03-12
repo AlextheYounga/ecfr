@@ -1,0 +1,3 @@
+##### § 109-1.5001 Policy. #####
+
+It is DOE policy that a program for the management of personal property shall be established and maintained to meet program needs. Personal property shall be managed efficiently, in accordance with Federal statutes and regulations, and in alignment with mission needs. Personal property must be managed in a safe and secure manor and ensure personal property assets are available to support efficient mission execution. Commercial practices may be used (*i.e.,* industry leading practices, voluntary consensus standards) that are necessary, appropriate, and provide effective and efficient Government property management, except where those practices are inconsistent with law, regulation or otherwise impractical.

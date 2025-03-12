@@ -1,0 +1,5 @@
+##### § 51-9.502 Federal Register notice of establishment of new system or alteration of existing system. #####
+
+(a) When the Executive Director receives notice that the Senate, the House of Representatives, and the Office of Management and Budget do not object to the establishment of a new system of records, or the alteration of an existing system of records, or
+
+(b) When no fewer than 30 days elapse from the submission of the proposal to the Senate, the House of Representatives, and the Office of Management and Budget, without receipt by the Executive Director of an objection to the proposal, then a notice shall be published in the Federal Register of the proposed establishment or alteration of a system of records. The notice shall include all of the information required to be provided by the Privacy Act of 1974, and such other information as deemed necessary.

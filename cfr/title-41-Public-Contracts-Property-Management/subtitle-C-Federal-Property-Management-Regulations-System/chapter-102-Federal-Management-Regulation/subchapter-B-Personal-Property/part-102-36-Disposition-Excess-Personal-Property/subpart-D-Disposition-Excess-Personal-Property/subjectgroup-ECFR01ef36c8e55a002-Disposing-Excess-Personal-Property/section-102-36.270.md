@@ -1,0 +1,3 @@
+##### § 102-36.270 What if a federal agency requests personal property that is undergoing donation screening or in the sales process? #####
+
+Prior to final disposition, GSA will consider requests from authorized federal activities for excess personal property undergoing donation screening or in the sales process. Federal transfers may be authorized prior to removal of the property under a donation or sales action.

@@ -1,0 +1,5 @@
+##### § 50-203.2 Issuance of a formal complaint. #####
+
+After a report of a breach or violation has been filed, or upon his own motion and without any report of a breach or violation having been previously filed, the Solicitor may issue and cause to be served upon the respondent a formal complaint stating the charges. Notice of hearing before an administrative law judge designated by the Secretary of Labor shall be issued and served within a reasonable time after the issuance of the complaint. A copy of the complaint and notice of hearing shall be served upon the surety or sureties. Unless the administrative law judge otherwise determines, the date of hearing shall not be sooner than 30 days after the date of issuance of the complaint.
+
+[35 FR 14839, Sept. 24, 1970, as amended at 61 FR 19987, May 3, 1996]

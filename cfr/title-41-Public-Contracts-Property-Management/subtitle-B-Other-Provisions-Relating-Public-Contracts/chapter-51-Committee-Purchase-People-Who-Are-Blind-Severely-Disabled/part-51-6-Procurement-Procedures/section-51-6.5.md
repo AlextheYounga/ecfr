@@ -1,0 +1,3 @@
+##### § 51-6.5 Adjustment and cancellation of orders. #####
+
+When the central nonprofit agency or an individual nonprofit agency fails to comply with the terms of a Government order, the contracting activity shall make every effort to negotiate an adjustment before taking action to cancel the order. When a Government order is canceled for failure to comply with its terms, the central nonprofit agency shall be notified, and, if practicable, requested to reallocate the order. The central nonprofit agency shall notify the Committee of any cancellation of an order and the reasons for that cancellation.

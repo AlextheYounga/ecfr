@@ -1,0 +1,3 @@
+##### § 102-2.115 What kinds of non-regulatory material does GSA publish outside of the FMR? #####
+
+As GSA converts the FPMR to the FMR, non-regulatory materials in the FPMR, such as guidance, procedures, standards, and information, that describe how to do business with GSA, will become available in separate documents. These documents may include customer service guides, handbooks, brochures, Internet websites, and FMR bulletins. GSA will eliminate non-regulatory material that is no longer needed.

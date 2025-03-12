@@ -1,0 +1,5 @@
+##### § 109-1.5302 Policies. #####
+
+(a) It is the responsibility of DOE organizations and designated contractors to manage and control Government-owned high risk personal property in an efficient manner. High-risk personal property will be managed throughout its life cycle so as to protect public and DOE personnel safety and to advance the national security and the nuclear nonproliferation objectives of the U.S. Government.
+
+(b) The disposition of high risk property is subject to special considerations. Items of high risk property may present significant risks to the national security and nuclear nonproliferation objectives of the Government which must be evaluated. Organizations will identify high risk property and control its disposition to eliminate or mitigate such risks. In no case shall property be transferred or disposed unless it receives a high risk assessment and is handled accordingly.

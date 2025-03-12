@@ -1,0 +1,5 @@
+##### § 101-26.102-1 General. #####
+
+The special buying services of GSA are performed through the GSA special order program (SOP). The SOP allows an agency to obtain items not included in either the GSA stock or Federal Supply Schedule program. All executive agencies within the United States (including Hawaii and Alaska), in order to maximize the use of the Government's centralized supply system, shall request SOP items by submitting requisitions for GSA centrally managed items to GSA. GSA will process all requisitions for SOP items, regardless of total line item value, from activities electing to purchase from GSA. If an agency determines that alternative sources are more favorable, procurement from other sources is authorized: Provided, that the dollar thresholds and criteria outlined in § 101-26.301(b)(1) through (3) are followed.
+
+[56 FR 12456, Mar. 26, 1991]

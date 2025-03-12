@@ -1,0 +1,3 @@
+##### § 301-11.14 How is my daily lodging rate computed when I rent lodging on a long-term basis? #####
+
+When you obtain lodging on a long-term basis (e.g., weekly or monthly) your daily lodging rate is computed by dividing the total lodging cost by the number of days of occupancy for which you are entitled to per diem, provided the cost does not exceed the daily rate of conventional lodging. Otherwise the daily lodging cost is computed by dividing the total lodging cost by the number of days in the rental period. Reimbursement, including an appropriate amount for M&IE, may not exceed the maximum daily per diem rate for the TDY location.

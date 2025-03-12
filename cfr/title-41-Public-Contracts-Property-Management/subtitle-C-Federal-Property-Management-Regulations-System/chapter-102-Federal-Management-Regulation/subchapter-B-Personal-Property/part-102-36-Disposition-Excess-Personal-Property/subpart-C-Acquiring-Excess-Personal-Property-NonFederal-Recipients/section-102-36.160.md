@@ -1,0 +1,3 @@
+##### § 102-36.160 What additional information must we provide on the SF 122 when acquiring excess personal property for non-federal recipients? #####
+
+Annotate on the SF 122, the name of the non-federal recipient and the contract, grant or agreement number, when applicable, and the scheduled completion/expiration date of the contract, grant or agreement. If the remaining time prior to the expiration date is less than 60 calendar days, you must certify that the contract, grant or agreement will be extended or renewed or provide other written justification for the transfer.

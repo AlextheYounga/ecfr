@@ -1,0 +1,3 @@
+##### § 102-73.40 What happens if the dollar value of the project exceeds the prospectus threshold? #####
+
+Projects require approval by the Senate and the House of Representatives if the dollar value of a project exceeds the prospectus threshold. To obtain this approval, the Administrator of General Services will transmit the proposed prospectuses to Congress for consideration by the Senate and the House of Representatives. Furthermore, as indicated in § 102-72.30(b), the general purpose lease delegation authority is restricted to below the prospectus threshold, and therefore, GSA must conduct all lease acquisitions over the threshold.

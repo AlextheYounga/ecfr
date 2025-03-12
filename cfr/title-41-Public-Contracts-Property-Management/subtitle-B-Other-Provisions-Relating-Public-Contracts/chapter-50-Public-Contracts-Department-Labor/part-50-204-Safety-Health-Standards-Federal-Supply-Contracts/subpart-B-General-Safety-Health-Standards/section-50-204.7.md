@@ -1,0 +1,5 @@
+##### § 50-204.7 Personal protective equipment. #####
+
+Protective equipment, including personal protective equipment for eyes, face, head, and extremities, protective clothing, respiratory devices, and protective shields and barriers, shall be provided, used, and maintained in a sanitary and reliable condition wherever it is necessary by reason of hazards of processes or environment, chemical hazards, radiological hazards, or mechanical irritants encountered in a manner capable of causing injury or impairment in function of any part of the body through absorption, inhalation or physical contact. Where employees provide their own protective equipment, the employer shall be responsible to assure its adequacy, including proper maintenance and sanitation of such equipment. All personal protective equipment shall be of safe design and construction for the work to be performed.
+
+[35 FR 1015, Jan. 24, 1970]

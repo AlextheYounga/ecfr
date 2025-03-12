@@ -1,0 +1,3 @@
+##### § 302-15.8 When my agency authorizes payment for me under this part, am I obligated to use such services, or may I elect instead to sell my residence at Government expense? #####
+
+You are not obligated to use your authorized property management services allowance. You have the option of choosing to sell your residence at Government expense or to use the property management services allowance.

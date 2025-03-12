@@ -1,0 +1,3 @@
+##### § 101-5.104-4 Scheduling feasibility studies. #####
+
+The schedule of feasibility studies will be coordinated by GSA with its construction, space management, and buildings management programs. Before initiating the study, the Administrator of General Services, or his authorized designee, will give at least 30 days' notice to the head of each agency that would be served by the proposed centralized facility. Such notice will contain an indication of the cost elements involved and the general procedures to be followed in the study.

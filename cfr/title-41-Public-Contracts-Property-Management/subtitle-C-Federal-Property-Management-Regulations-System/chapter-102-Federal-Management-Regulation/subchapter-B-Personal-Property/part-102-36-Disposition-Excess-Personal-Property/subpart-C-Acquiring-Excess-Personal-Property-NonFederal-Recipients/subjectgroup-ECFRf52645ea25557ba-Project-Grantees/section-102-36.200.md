@@ -1,0 +1,3 @@
+##### § 102-36.200 May we acquire excess personal property for cannibalization purposes by the grantees? #####
+
+Yes, subject to GSA approval, you may acquire excess personal property for cannibalization purposes. You may be required to provide a supporting statement that indicates disassembly of the item for secondary use has greater benefit than utilization of the item in its existing form and cost savings to the government will result.

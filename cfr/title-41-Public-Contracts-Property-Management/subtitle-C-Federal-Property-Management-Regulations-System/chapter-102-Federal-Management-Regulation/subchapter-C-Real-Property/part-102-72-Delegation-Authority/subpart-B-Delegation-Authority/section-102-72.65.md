@@ -1,0 +1,3 @@
+##### § 102-72.65 What are the requirements for obtaining a delegation of individual repair and alteration project authority from GSA? #####
+
+Executive agencies may be delegated repair and alterations authority for other individual alteration projects when they demonstrate the ability to perform the delegated repair and alterations responsibilities and when such a delegation promotes efficiency and economy.

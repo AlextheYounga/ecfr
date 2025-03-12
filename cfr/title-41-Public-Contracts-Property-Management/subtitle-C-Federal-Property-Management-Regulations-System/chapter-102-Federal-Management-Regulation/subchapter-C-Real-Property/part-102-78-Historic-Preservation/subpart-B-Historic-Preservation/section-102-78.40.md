@@ -1,0 +1,3 @@
+##### § 102-78.40 What responsibilities do Federal agencies have when an undertaking adversely affects a historic or cultural property? #####
+
+Federal agencies must not perform an undertaking that could alter, destroy, or modify an historic or cultural property until they have consulted with the SHPO and the Advisory Council. Federal agencies must minimize all adverse impacts of their undertakings on historic or cultural properties to the extent that it is feasible and prudent to do so. Federal agencies must follow the specific guidance on the protection of historic and cultural properties in 36 CFR part 800.

@@ -1,0 +1,3 @@
+##### § 102-85.30 Are there special rules for certain Federal customers? #####
+
+Yes, in lieu of OAs, GSA is able to enter into agreements with customer agencies that reflect the parties particular needs. For example, the space and services provided to the U.S. House of Representatives and the U.S. Senate are governed by existing memoranda of agreement (MOA). When there are conflicts between the provisions of this part and MOAs, the MOAs prevail.

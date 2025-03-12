@@ -1,0 +1,11 @@
+##### § 51-8.5 Requests for records. #####
+
+(a) Requests to obtain copies of any material maintained by the Committee must be submitted in writing to the Executive Director at the Committee's offices, Jefferson Plaza 2, Suite 10800, 1421 Jefferson Davis Highway, Arlington, Virginia 22202-3259. The requester may in his or her petition ask for a fee waiver if there is likely to be a charge for the requested information. All requests for records shall be deemed to have been made pursuant to the FOIA, regardless of whether the Act is specifically mentioned. Failure to submit a request in accordance with these procedures may delay the processing of the request.
+
+(b) A request must reasonably describe the records to enable agency personnel to locate them with reasonable effort. Where possible, a requester should supply specific information regarding dates, titles, and other identification which will help to identify the records.
+
+(c) If the Committee determines that a request does not reasonably describe the records, it shall inform the requester of this fact and extend to the requester an opportunity to clarify the request or to confer promptly with knowledgeable agency personnel to attempt to identify the records he or she is seeking. The “date of receipt” in such instances shall be the date of receipt of the amended or clarified request.
+
+(d) Nothing in this part shall be interpreted to preclude the Committee from honoring an oral request for information, but, if the requester is dissatisfied with the response, the Committee official involved shall advise the requester to submit a written request in accordance with paragraph (a) of this section. The “date of receipt” of such a request shall be the date of receipt of the written request. For recordkeeping purposes, the Committee in responding to an oral request for information may ask the requester to confirm the oral request in writing.
+
+[54 FR 15189, Apr. 17, 1989. Redesignated at 56 FR 48983, Sept. 26, 1991, and amended at 59 FR 59345, Nov. 16, 1994; 63 FR 16440, Apr. 3, 1998; 65 FR 35287, June 2, 2000]

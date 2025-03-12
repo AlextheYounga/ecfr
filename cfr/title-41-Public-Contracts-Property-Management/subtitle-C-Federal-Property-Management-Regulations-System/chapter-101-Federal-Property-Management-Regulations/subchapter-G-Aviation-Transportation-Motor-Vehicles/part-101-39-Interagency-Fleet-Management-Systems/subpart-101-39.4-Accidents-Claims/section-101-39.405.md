@@ -1,0 +1,9 @@
+##### § 101-39.405 Claims against the Government. #####
+
+(a) Whenever a GSA Interagency Fleet Management System (IFMS) vehicle is involved in an accident resulting in damage to the property of, or injury to, a third party, and the third party asserts a claim against the Government based on the alleged negligence of the vehicle operator (acting within the scope of his or her duties), it shall be the responsibility of the agency employing the person who was operating the GSA IFMS vehicle at the time of the accident to make every effort to settle the claim administratively to the extent that the agency is empowered to do so under the provisions of 28 U.S.C. 2672. It shall be the further responsibility of the agency, in the event that administrative settlement cannot be effected, to prepare completely, from an administrative standpoint, the Government's defense of the claim. The agency shall thereafter transmit the complete case through appropriate channels to the Department of Justice.
+
+(b) Except for the exclusions listed in § 101-39.406, the agency employing the vehicle operator shall be financially responsible for damage to a GSA IFMS vehicle.
+
+(c) If a law suit is filed against the agency using a GSA Interagency Fleet Management System (IFMS) vehicle, the agency shall furnish the appropriate GSA Regional Counsel with a copy of all papers served in the action. When requested, GSA's Regional Counsel will cooperate with and assist the using agency and the Department of Justice in defense of any action against the United States, the using agency, or the operator of the vehicle, arising out of the use of a GSA IFMS vehicle.
+
+[56 FR 59891, Nov. 26, 1991]

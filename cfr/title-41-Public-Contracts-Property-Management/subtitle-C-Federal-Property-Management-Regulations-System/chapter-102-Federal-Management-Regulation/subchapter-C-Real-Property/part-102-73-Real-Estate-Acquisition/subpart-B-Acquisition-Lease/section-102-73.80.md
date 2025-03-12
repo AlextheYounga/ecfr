@@ -1,0 +1,3 @@
+##### § 102-73.80 Who is authorized to contact lessor, offerors, or potential offerors concerning space leased or to be leased? #####
+
+No one, except the Contracting Officer or his or her designee, may contact lessors, offerors, or potential offerors concerning space leased or to be leased for the purpose of making oral or written representation or commitments or agreements with respect to the terms of occupancy of particular space, tenant improvements, alterations and repairs, or payment for overtime services.

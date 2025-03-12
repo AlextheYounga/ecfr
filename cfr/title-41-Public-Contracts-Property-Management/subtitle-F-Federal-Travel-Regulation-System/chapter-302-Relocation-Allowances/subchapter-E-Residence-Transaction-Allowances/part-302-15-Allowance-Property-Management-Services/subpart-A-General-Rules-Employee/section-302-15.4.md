@@ -1,0 +1,3 @@
+##### § 302-15.4 Who is not eligible for payment for property management services? #####
+
+New appointees, employees assigned under the Government Employees Training Act (5 U.S.C. 4109), and employees transferring wholly outside the United States are not eligible for payment for property management services. However, relocations wholly outside the United States do not affect previously authorized property management services as long as the employee continues to meet the requirements of § 302-15.6 and any other conditions established by the agency.

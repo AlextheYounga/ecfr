@@ -1,0 +1,3 @@
+##### § 51-9.101-4 Rules of conduct. #####
+
+Any employee of the Committee involved in the design, development, operation or maintenance of any system of records, or in maintaining any record, shall review the provisions of 5 U.S.C. 552a and these regulations, and shall conduct himself accordingly with the rules of conduct concerning the protection of personal information outlined in 41 CFR 51-9.7, Disclosure of Information about an Individual.

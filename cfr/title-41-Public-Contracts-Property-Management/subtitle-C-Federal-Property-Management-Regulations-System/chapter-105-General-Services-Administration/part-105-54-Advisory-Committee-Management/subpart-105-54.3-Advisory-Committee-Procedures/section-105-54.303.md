@@ -1,0 +1,29 @@
+##### § 105-54.303 Fiscal and administrative provisions. #####
+
+(a) Each HSSO and each Regional Administrator ensures that under established GSA procedures, records are kept that fully disclose the disposition of funds at the disposal of an advisory committee and the nature and extent of the committee's activities.
+
+(b) When GSA is assigned to provide administrative support for a Presidential advisory committee, the Agency Liaison Coordinator in the Office of the Deputy Regional Administrator, National Capital Region, as a part of its support, arranges with the Office of Finance, Office of the Comptroller, for maintaining all financial records.
+
+(c) Unless otherwise provided in a Presidential order, statute, or other authority, the GSA service or staff office sponsoring an advisory committee provides support services for the committee.
+
+(d) The guidelines in paragraph (e) through (l) of this section are established under section 7(d) of the Federal Advisory Committee Act, 86 Stat. 773. They apply to the pay of members, staff, and consultants of an advisory committee, except that nothing in this paragraph will affect a rate of pay or a limitation on a rate of pay that is established by statute or a rate of pay established under the General Schedule classification and pay system in Chapter 51 and Subchapter III of Chapter 53 of Title 5, U.S.C.
+
+(e) The members of GSA advisory committee established pursuant to the Administrator's authority under section 205(g) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 486(g)), are not compensated, since, by law, members so appointed shall service without compensation. A person who (without regard to his or her service with an advisory committee) is a full-time Federal employee will normally receive compensation at the rate at which he or she would otherwise be compensated.
+
+(f) When required by law, the pay of the members of GSA advisory committees will be fixed to the daily equivalent of a rate of the General Schedule in 5 U.S.C. 5332 unless the members are appointed as consultants and compensated as provided in paragraph (h) of this section. In determining an appropriate rate of pay for the members, GSA must give consideration to the significance, scope, and technical complexity of the matters with which the advisory committee is concerned and the qualifications required of the members of the advisory committee. GSA may not fix the pay of the members of an advisory committee at a rate higher than the daily equivalent of the maximum rate for a GS-15 under the General Schedule, unless a higher rate is mandated by statute, or the Administrator has personally determined that a higher rate of pay under the General Schedule is justified and necessary. Such a determination must be reviewed by the Administrator annually. Accordingly, the Administrator may not fix the pay of the members of an advisory committee at a rate of pay higher than the daily equivalent of a rate for a GSA 18, as provided in 5 U.S.C. 5332.
+
+(g) The pay of each staff member of an advisory committee is fixed at a rate of the General Schedule, General Management Schedule, or Senior Executive Service pay rate in which the staff member's position would be placed (5 U.S.C. Chapter 51). GSA cannot fix the pay of a staff member higher than the daily equivalent of the maximum rate for GS-15 unless the Administrator decides that under the General Schedule, General Management Schedule, or Senior Executive Service classification system, the staff member's position should be higher than GS-15. The Administrator must review this decision annually.
+
+(1) In establishing compensation rates, GSA must comply with applicable statutes, regulations, Executive Orders, and administrative guidelines.
+
+(2) A staff member who is a Federal employee serves with the knowledge of the Designated Federal Officer and the approval of the employee's direct supervisor. A staff member who is a non-Federal employee is appointed under agency procedures, after consultation with the advisory committee.
+
+(h) The pay of a consultant to an advisory committee will be fixed after giving consideration to the qualifications required of the consultant and the significance, scope, and technical complexity of the work. The rate of pay will not exceed the maximum rate of pay which the agency may pay experts and consultants under 5 U.S.C. 3109 and must be in accordance with any applicable statutes, regulations, Executive Orders, and administrative guidelines.
+
+(i) Advisory committee and staff members, while performing their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem instead of subsistence, as authorized by 5 U.S.C. 5703 for persons employed intermittently in the Government service.
+
+(j) Members of an advisory committee and its staff who are blind or deaf or who otherwise qualify as handicapped persons (under section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794)), and who do not otherwise qualify for assistance under 5 U.S.C. 3102, as an employee of an agency (under section 3102(a)(1) of Title 5), may be provided the services of a personal assistant.
+
+(k) Under this paragraph, GSA may accept the gratuitous services of a member, consultant, or staff member of an advisory committee who agrees in advance to serve without compensation.
+
+(l) A person who immediately before his or her service with an advisory committee was a full-time Federal employee may receive compensation at the rate at which he or she was compensated as a Federal employee.

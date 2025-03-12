@@ -1,0 +1,3 @@
+##### § 105-50.304a Deposits. #####
+
+Reimbursements to GSA for furnishing special or technical services to State and local units of government will be deposited to the credit of the appropriation from which the cost of providing such services has been paid or is to be charged if such reimbursements are authorized. Otherwise, the reimbursements will be credited to miscellaneous receipts in the U.S. Treasury (42 U.S.C. 4223).

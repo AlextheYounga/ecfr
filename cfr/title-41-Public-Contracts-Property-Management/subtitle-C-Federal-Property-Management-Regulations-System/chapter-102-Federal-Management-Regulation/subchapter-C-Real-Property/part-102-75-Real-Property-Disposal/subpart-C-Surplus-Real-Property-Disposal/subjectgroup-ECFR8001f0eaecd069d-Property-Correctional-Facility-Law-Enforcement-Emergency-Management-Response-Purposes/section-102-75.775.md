@@ -1,0 +1,3 @@
+##### § 102-75.775 Is the disposal agency required to approve a determination by FEMA that identifies surplus property for emergency management response use? #####
+
+Yes, the disposal agency must approve a determination, under § 102-75.795, by FEMA that identifies surplus property required for emergency management response use before an eligible public agency can obtain such property for emergency management response use.

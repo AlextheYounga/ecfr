@@ -1,0 +1,3 @@
+##### § 304-3.8 Must I adhere to the provisions of the Fly America Act when I receive air transportation to a meeting furnished or paid by a non-Federal source? #####
+
+No, if the payment or ticket was paid in full directly by the non-Federal source or reimbursed to your agency by the non-Federal source, the provisions of the Fly America Act do not apply. (See §§ 301-10.131 through 301-10.143 of this title for the regulations implementing the Fly America Act.)

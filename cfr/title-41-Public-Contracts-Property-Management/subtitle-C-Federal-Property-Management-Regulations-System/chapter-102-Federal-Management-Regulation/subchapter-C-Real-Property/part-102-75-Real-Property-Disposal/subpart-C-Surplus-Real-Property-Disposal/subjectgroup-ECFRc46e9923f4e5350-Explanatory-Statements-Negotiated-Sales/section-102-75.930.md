@@ -1,0 +1,3 @@
+##### § 102-75.930 What happens if there is no objection by an appropriate committee or subcommittee of Congress concerning the proposed negotiated sale? #####
+
+If there is no objection, the disposal agency may consummate the sale on or after 35 days from the date the Administrator of General Services transmitted the explanatory statement to the committees. If there is an objection, the disposal agency must resolve objections with the appropriate Congressional committee or subcommittee before consummating the sale.

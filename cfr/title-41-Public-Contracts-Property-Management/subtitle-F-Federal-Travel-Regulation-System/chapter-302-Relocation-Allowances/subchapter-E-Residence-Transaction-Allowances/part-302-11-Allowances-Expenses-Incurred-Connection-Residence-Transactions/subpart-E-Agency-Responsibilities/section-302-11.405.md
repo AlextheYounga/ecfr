@@ -1,0 +1,3 @@
+##### § 302-11.405 Which agency must review and approve the employee's application when the employee transfers between agencies? #####
+
+The hiring agency in the locality of the employee's old official station must review and approve the employee's application when the employee transfers between agencies, unless the hiring agency does not have an appropriate installation there. In that case, the losing agency at the old official station must review and approve the expenses.

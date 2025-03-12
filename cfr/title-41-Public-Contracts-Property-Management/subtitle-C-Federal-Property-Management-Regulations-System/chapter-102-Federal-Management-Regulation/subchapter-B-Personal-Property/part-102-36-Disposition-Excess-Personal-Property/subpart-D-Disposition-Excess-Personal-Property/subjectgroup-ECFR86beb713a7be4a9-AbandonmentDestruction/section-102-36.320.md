@@ -1,0 +1,5 @@
+##### § 102-36.320 May we transfer or donate excess personal property that has been determined appropriate for abandonment/destruction without GSA approval? #####
+
+In lieu of abandonment/destruction, you may donate such excess personal property only to a public body without going through GSA. A public body is any department, agency, special purpose district, or other instrumentality of a state or local government; any Indian tribe; or any agency of the federal government. If you become aware of an interest from an eligible non-profit organization (see part 102-37 of this chapter) that is not a public body in acquiring the property, you must contact the regional GSA Personal Property Management office and implement donation procedures in accordance with part 102-37 of this chapter.
+
+[65 FR 31218, May 16, 2000, as amended at 71 FR 53572, Sept. 12, 2006]

@@ -1,0 +1,3 @@
+##### § 102-75.860 What happens after the disposal agency receives the assignment recommendation from DOT? #####
+
+If, after considering other uses for the property, the disposal agency approves the assignment recommendation from DOT, the disposal agency must assign the property by letter or other document to DOT. If the disposal agency disapproves the recommendation, the disposal agency must likewise notify DOT. The disposal agency must furnish to the landholding agency a copy of the assignment, unless the landholding agency is also the disposal agency.

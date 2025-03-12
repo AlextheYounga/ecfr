@@ -1,0 +1,3 @@
+##### § 105-64.503 What is an accounting of disclosures? #####
+
+The system manager maintains an account of each record disclosure for five years or for the life of the record, whichever is longer. The accounting of disclosure information includes the name of the person or agency to whom your record has been provided, the date, the type of information disclosed, and the reason for disclosure. Other pertinent information, such as justifications for disclosure and any written consent that you may have provided, is also included. No accounting needs to be maintained for disclosures to GSA officials or employees in the performance of their duties, or disclosures under the Freedom of Information Act.

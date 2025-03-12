@@ -1,0 +1,3 @@
+##### § 102-73.90 What contingent fee policy must Federal agencies apply to the acquisition of real property by lease? #####
+
+Federal agencies must apply the contingent fee policies in 48 CFR 3.4 to all negotiated and sealed bid contracts for the acquisition of real property by lease. Federal agencies must appropriately adapt the representations and covenants required by that subpart for use in leases of real property for Government use.

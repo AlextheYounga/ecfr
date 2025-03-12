@@ -1,0 +1,3 @@
+##### § 105-50.001-5 Specialized or technical services. #####
+
+*Specialized or technical services* means statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and any other similar service functions which any department or agency of the executive branch of the Federal Government is especially equipped and authorized by law to perform.

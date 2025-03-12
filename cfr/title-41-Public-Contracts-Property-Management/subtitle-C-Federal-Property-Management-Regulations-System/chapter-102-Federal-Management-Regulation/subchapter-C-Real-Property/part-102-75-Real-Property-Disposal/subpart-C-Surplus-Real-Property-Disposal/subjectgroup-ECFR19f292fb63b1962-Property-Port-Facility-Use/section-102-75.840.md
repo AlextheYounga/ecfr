@@ -1,0 +1,3 @@
+##### § 102-75.840 What action must the disposal agency take after an eligible public agency has submitted a plan of use for and an application to acquire a port facility property? #####
+
+Whenever an eligible public agency has submitted a plan of use for a port facility requirement, the disposal agency must transmit two copies of the plan to DOT. DOT must either submit to the disposal agency, within 30 calendar days after the date the plan is transmitted, a recommendation for assignment of the property to DOT, or inform the disposal agency, within the 30-calendar day period, that a recommendation will not be made for assignment of the property to DOT.

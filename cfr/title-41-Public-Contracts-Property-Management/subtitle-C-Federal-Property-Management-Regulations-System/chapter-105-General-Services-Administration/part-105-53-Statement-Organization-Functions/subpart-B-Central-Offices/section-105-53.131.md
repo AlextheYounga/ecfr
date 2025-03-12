@@ -1,0 +1,5 @@
+##### § 105-53.131 Office of Inspector General. #####
+
+(a) *Creation and authority.* Public Law 95-452, known as the Inspector General Act of 1978, consolidated existing audit and investigation functions and established an Office of Inspector General in 11 major domestic departments and agencies, including GSA. Each office is headed by an Inspector General appointed by the President with the advice and consent of the Senate.
+
+(b) *Functions.* The Office of Inspector General is responsible for policy direction and conduct of audit, inspection, and investigation activities relating to programs and operations of GSA; and maintaining liaison with other law enforcement agencies, the Department of Justice, and United States Attorneys on all matters relating to the detection and prevention of fraud and abuse. The Inspector General reports semiannually to the Congress through the Administrator concerning fraud, abuses, other serious problems, and deficiencies of agency programs and operations; recommends corrective action; and reports on progress made in implementing these actions.

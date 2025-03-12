@@ -1,0 +1,3 @@
+##### § 105-64.203 How do I request access in writing? #####
+
+If you request access in writing, mark both the envelope and the request letter “Privacy Act Request”. Include in the request your full name and address; a description of the records you seek; the title and number of the system of records as published in the Federal Register; a brief description of the nature, time, and place of your association with GSA; and any other information you believe will help in locating the record.

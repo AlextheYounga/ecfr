@@ -1,0 +1,3 @@
+##### § 102-41.195 How do we dispose of forfeited, voluntarily abandoned, or unclaimed firearms not retained for official use? #####
+
+Report forfeited, voluntarily abandoned, or unclaimed firearms not retained for official use to the General Services Administration, Property Management Branch (7FP-8), Denver, CO 80225-0506 for disposal in accordance with § 101-42.1102-10 of the Federal Property Management Regulations in this title.

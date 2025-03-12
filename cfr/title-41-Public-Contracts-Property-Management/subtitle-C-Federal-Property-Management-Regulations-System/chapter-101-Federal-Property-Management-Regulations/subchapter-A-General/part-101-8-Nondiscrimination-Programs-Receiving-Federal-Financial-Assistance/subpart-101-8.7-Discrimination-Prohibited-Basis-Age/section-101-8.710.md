@@ -1,0 +1,3 @@
+##### § 101-8.710 Age distinctions contained in General Services Administration regulation. #####
+
+Any age distinctions contained in a rule or regulation issued by GSA are presumed to be necessary to the achievement of a statutory objective of the program or activity to which the rule or regulation applies. The GSA regulation 41 CFR 101-44.207(a) (3) through (27), describes specific Federal financial assistance which provides assistance to all age groups. However, the Child Care Center Program servicing children through age 14, and “Programs for Older Individuals”, are the only two types of Federal financial assistance where age distinctions are provided.

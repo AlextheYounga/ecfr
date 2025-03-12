@@ -1,0 +1,5 @@
+##### § 101-26.501-9 Centralized motor vehicle leasing program. #####
+
+GSA has a centralized leasing program to provide an additional source of motor vehicle support to all Federal agencies. This program relieves Federal agencies that use it from both the time constraints and administrative costs associated with independently entering into lease contracts. The centralized leasing program covers subcompact, compact, and midsize sedans, station wagons, and certain types of light trucks (pickups and vans). Participation in the centralized leasing program is mandatory on all executive agencies of the Federal Government (excluding the Department of Defense and the U.S. Postal Service) within the 48 contiguous States and Washington, DC. However, agencies must obtain GSA authorization to lease in accordance with § 101-39.205 prior to using these established mandatory use contracts. For further information on existing contracts, including vehicles covered, rates, and terms and conditions of the contract(s), contact General Services Administration (FCA), Washington, DC 20406.
+
+[52 FR 29525, Aug. 10, 1987]

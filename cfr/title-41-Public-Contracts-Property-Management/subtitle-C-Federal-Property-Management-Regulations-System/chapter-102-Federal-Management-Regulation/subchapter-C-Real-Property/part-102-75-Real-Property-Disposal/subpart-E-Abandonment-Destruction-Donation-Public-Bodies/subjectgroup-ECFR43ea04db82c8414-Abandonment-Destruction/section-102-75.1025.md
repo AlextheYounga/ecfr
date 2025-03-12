@@ -1,0 +1,3 @@
+##### § 102-75.1025 When can a Federal agency abandon or destroy improvements on land or related personal property in lieu of donating it to a public body? #####
+
+A Federal agency may not abandon or destroy improvements on land or related personal property unless a duly authorized official of that agency finds, in writing, that donating the property is not feasible. This written finding is in addition to the determination prescribed in §§ 102-75.1000, 102-75.1005, and 102-75.1010. If donating the property becomes feasible at any time prior to actually abandoning or destroying the property, the Federal agency must donate it.

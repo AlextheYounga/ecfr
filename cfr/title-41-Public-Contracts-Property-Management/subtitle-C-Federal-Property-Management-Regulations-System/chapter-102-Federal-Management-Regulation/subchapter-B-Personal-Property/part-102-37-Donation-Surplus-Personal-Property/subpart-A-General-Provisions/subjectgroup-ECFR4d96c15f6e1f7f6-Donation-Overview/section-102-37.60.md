@@ -1,0 +1,3 @@
+##### § 102-37.60 How much time does a transferee have to pick up or remove surplus property from holding agency premises? #####
+
+The transferee (or the transferee's agent) must remove property from the holding agency premises within 15 calendar days after being notified that the property is available for pickup, unless otherwise coordinated with the holding agency. If the transferee decides prior to pickup or removal that it no longer needs the property, it must notify the GSA regional office that approved the transfer request.

@@ -1,0 +1,3 @@
+##### § 301-31.14 May I receive a travel advance for transportation and/or subsistence expenses? #####
+
+Yes, you may receive a travel advance under § 301-51.200 of this chapter for up to a 30-day period at a time to cover expenses allowable. Your travel advance may not exceed the maximum allowable amount authorized under § 301-31.10, and you will be required to reimburse your agency for any portion of the advance disallowed or not spent.

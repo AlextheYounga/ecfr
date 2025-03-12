@@ -1,0 +1,3 @@
+##### § 102-85.110 Can the allowance amount be changed? #####
+
+The GSA schedule of allowances for new assignments is adjusted annually for design and construction cost changes. As the need arises, GSA may adjust an agency or bureau's TI allowance. GSA may also adjust a TI allowance for a specific project, if conditions warrant. This decision is solely GSA's. In addition, the customer agency may waive any part or all of its customization allowance in the case of a new space assignment. In the case of backfill space (also known as relet space), the customer agency can also waive any part or all of the tenant general allowance, if the customer agency will use the existing tenant improvements, with or without modifications.

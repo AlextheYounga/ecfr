@@ -1,0 +1,3 @@
+##### § 101-28.304-1 Types of items. #####
+
+Items stocked in customer supply centers are based on customer agency requirements for common use expendable items. In addition to administrative type items commonly used in Government offices, janitorial supplies, handtools, and other industrial-type items are stocked when required to meet the mission-related needs of the activities supported by the CSC.

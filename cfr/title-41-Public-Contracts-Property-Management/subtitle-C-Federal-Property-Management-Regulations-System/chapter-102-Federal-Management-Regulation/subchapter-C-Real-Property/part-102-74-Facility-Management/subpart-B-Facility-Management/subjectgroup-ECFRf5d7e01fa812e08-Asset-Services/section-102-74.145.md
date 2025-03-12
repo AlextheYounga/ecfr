@@ -1,0 +1,3 @@
+##### § 102-74.145 What information must a Federal agency submit to GSA after the agency has identified a need for construction or alteration of a public building? #####
+
+Federal agencies identifying a need for construction or alteration of a public building must provide information, such as a description of the work, location, estimated maximum cost, and justification to the Administrator of General Services.

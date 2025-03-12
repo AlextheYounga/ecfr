@@ -1,0 +1,3 @@
+##### § 102-85.80 Who is financially responsible for expenses resulting from tenant non-performance? #####
+
+The customer agencies are financially responsible for expenses incurred by the Government as a result of any failure on their part to fulfill a commitment outlined in an OA or other written agreements in advance of, or in addition to, the OA. Customer agencies are also financially responsible for revised design costs and any additional costs resulting from changes to space requirements or space layouts made by the agency after a lease, alteration, design, or construction contract has been awarded by GSA.

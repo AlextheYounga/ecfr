@@ -1,0 +1,3 @@
+##### § 102-75.150 What happens when GSA determines that the report of excess is adequate? #####
+
+When GSA determines that a report is adequate, GSA will accept the report and inform the landholding agency of the acceptance date. However, the landholding agency must, upon request, promptly furnish any additional information or documents relating to the property required by GSA to accomplish a transfer or a disposal.

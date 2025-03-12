@@ -1,0 +1,3 @@
+##### § 101-39.104-2 Reimbursement. #####
+
+Reimbursement for the motor vehicles and related equipment and supplies acquired by agencies through expenditure made from and not previously reimbursed to any revolving or trust fund authorized by law, shall be made by GSA in an amount equal to the fair market value of the vehicle, equipment, or supplies so taken over, as required by law (40 U.S.C. 491(g)).

@@ -1,0 +1,3 @@
+##### § 102-41.90 What happens to voluntarily abandoned personal property retained for official use? #####
+
+Voluntarily abandoned personal property retained for official use or transferred to another Federal agency under this subpart loses its identity as voluntarily abandoned property. When no longer required for official use, you must report it to GSA as excess, or abandon/destroy the property, in accordance with part 102-36 of this subchapter B.

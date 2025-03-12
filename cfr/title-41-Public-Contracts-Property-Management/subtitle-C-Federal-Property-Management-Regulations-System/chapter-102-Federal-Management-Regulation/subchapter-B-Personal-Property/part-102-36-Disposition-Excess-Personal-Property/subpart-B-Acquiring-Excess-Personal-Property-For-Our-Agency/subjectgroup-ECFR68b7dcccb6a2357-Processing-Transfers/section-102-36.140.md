@@ -1,0 +1,3 @@
+##### § 102-36.140 May we arrange to have the excess personal property shipped to its final destination? #####
+
+Yes, when the holding agency agrees to provide assistance in preparing the property for shipping. You may be required to pay the holding agency any direct costs in preparing the property for shipment. You must provide shipping instructions and the appropriate fund code for billing purposes on the SF 122.

@@ -1,0 +1,3 @@
+##### § 102-3.5 What does this subpart cover and how does it apply? #####
+
+This subpart provides the policy framework that must be used by agency heads in applying the Federal Advisory Committee Act (FACA), as amended (or “the Act”), 5 U.S.C., App., to advisory committees they establish and operate. In addition to listing key definitions underlying the interpretation of the Act, this subpart establishes the scope and applicability of the Act, and outlines specific exclusions from its coverage.

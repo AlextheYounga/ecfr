@@ -1,0 +1,3 @@
+##### § 101-26.801 Applicability. #####
+
+This subpart is applicable to all civilian executive agencies, including their contractors and subcontractors when authorized. DOD activities should follow the applicable DOD or military service/agency regulations in reporting discrepancies or deficiencies in shipments or material, or requesting adjustments in billings from or directed by GSA unless exempted therefrom, in which case the provisions of this § 101-26.801 apply.

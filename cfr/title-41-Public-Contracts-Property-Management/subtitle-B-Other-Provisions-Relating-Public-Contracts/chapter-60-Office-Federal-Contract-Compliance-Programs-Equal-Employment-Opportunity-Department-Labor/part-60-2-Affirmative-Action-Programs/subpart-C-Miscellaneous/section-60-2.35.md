@@ -1,0 +1,5 @@
+##### § 60-2.35 Compliance status. #####
+
+No contractor's compliance status will be judged alone by whether it reaches its goals. The composition of the contractor's workforce (*i.e.*, the employment of minorities or women at a percentage rate below, or above, the goal level) does not, by itself, serve as a basis to impose any of the sanctions authorized by Executive Order 11246 and the regulations in this chapter. Each contractor's compliance with its affirmative action obligations will be determined by reviewing the nature and extent of the contractor's good faith affirmative action activities as required under § 60-2.17, and the appropriateness of those activities to identified equal employment opportunity problems. Each contractor's compliance with its nondiscrimination obligations will be determined by analysis of statistical data and other non-statistical information which would indicate whether employees and applicants are being treated without regard to their race, color, religion, sex, sexual orientation, gender identity, or national origin.
+
+[79 FR 72995, Dec. 9, 2014]

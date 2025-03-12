@@ -1,0 +1,3 @@
+##### § 102-38.150 How long is the inspection period? #####
+
+The length of the inspection period allowed depends upon whether the inspection is done electronically or physically. You should also consider such factors as the circumstances of sale, volume of property, type of property, location of the property, and accessibility of the sales facility. Normally, you should provide at least 7 calendar days to ensure potential buyers have the opportunity to perform needed inspections.

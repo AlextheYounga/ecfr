@@ -1,0 +1,3 @@
+##### § 105-1.101 General Services Administration Property Management Regulations. #####
+
+The General Services Administration Property Management Regulations (GSPMR) include the GSA property management policies and procedures which, together with the Federal Property Management Regulations, certain regulations prescribed by other agencies, and various GSA orders govern the management of property and records and certain related activities of GSA. They may contain policies and procedures of interest to other agencies and the general public and are prescribed by the Administrator of General Services in this chapter 105.

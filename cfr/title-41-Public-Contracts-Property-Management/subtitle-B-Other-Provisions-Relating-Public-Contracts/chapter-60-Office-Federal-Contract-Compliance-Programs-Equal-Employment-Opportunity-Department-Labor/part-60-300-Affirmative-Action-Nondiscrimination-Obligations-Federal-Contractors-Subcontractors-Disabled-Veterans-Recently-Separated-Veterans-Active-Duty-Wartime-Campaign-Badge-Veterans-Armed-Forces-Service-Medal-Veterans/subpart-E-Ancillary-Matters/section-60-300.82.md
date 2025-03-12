@@ -1,0 +1,5 @@
+##### § 60-300.82 Labor organizations and recruiting and training agencies. #####
+
+(a) Whenever performance in accordance with the equal opportunity clause or any matter contained in the regulations in this part may necessitate a revision of a collective bargaining agreement, the labor organizations which are parties to such agreement shall be given an adequate opportunity to present their views to OFCCP.
+
+(b) OFCCP shall use its best efforts, directly or through contractors, subcontractors, local officials, the Department of Veterans Affairs, vocational rehabilitation facilities, and all other available instrumentalities, to cause any labor organization, recruiting and training agency or other representative of workers who are employed by a contractor to cooperate with, and to assist in, the implementation of the purposes of the Act.

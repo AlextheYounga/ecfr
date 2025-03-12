@@ -1,0 +1,3 @@
+##### § 102-80.90 Is the Fire Administration Authorization Act of 1992 (Public Law 102-522) relevant to fire protection engineering? #####
+
+Yes, the Fire Administration Authorization Act of 1992 (Pub. L. 102-522) requires sprinklers or an equivalent level of safety in certain types of Federal employee office buildings, Federal employee housing units, and Federally assisted housing units (15 U.S.C. 2227).

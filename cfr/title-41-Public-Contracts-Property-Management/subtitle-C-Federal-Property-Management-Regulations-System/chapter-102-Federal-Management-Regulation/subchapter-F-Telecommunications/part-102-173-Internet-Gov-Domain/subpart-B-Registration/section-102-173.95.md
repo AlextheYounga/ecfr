@@ -1,0 +1,3 @@
+##### § 102-173.95 Are there any restrictions on the use of the dot-gov domain name? #####
+
+The General Services Administration approves domain names for a specific term of time, generally two years unless otherwise stated, and under conditions of use. General conditions of registration and are posted at the registration Web site at *http://www.nic.gov* and may be modified over time. Organizations that operate web sites that are not in compliance with the conditions of use may have their domain name terminated.

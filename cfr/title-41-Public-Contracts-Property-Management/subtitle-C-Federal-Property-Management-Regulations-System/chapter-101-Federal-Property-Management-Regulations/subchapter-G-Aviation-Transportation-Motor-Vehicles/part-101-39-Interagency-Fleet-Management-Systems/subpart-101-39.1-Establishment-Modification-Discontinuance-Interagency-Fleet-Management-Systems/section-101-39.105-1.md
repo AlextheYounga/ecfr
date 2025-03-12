@@ -1,0 +1,3 @@
+##### § 101-39.105-1 Transfers from discontinued or curtailed fleet management systems. #####
+
+When a fleet management system is discontinued or curtailed, transfers of vehicles and related equipment and supplies, personnel, records, facilities, and funds as may be appropriate will be made, subject to the approval of the Director, OMB. Reimbursement for motor vehicles and related equipment and supplies acquired by GSA through expenditure made from, and not previously reimbursed to the General Supply Fund, or any revolving or trust fund authorized by law, shall be made by the agency receiving the motor vehicles and related equipment and supplies in an amount equal to the fair market value, as required by law (40 U.S.C. 491(g)).

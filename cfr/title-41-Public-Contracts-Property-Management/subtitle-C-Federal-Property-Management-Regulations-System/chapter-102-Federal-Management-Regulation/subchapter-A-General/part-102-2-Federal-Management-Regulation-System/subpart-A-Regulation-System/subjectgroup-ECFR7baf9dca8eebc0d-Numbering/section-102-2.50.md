@@ -1,0 +1,3 @@
+##### § 102-2.50 How do I number my agency's implementing regulations? #####
+
+The first three-digit number represents the chapter number assigned to your agency in Title 41 of the CFR. The part and section numbers correspond to FMR material. For example, if your agency is assigned Chapter 130 in Title 41 of the CFR and you are implementing § 102-2.60 of the FMR, your implementing section would be numbered § 130-2.60.

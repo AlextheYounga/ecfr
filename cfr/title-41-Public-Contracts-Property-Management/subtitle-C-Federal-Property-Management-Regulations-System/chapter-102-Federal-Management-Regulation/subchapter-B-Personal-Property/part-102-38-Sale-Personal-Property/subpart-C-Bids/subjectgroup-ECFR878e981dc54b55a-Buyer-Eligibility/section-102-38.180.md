@@ -1,0 +1,3 @@
+##### § 102-38.180 May we sell Federal personal property to a Federal employee? #####
+
+Yes, you may sell Federal personal property to any Federal employee whose agency does not prohibit their employees from purchasing such property. However, unless allowed by Federal or agency regulations, employees having nonpublic information regarding property offered for sale may not participate in that sale (see 5 CFR 2635.703). For purposes of this section, the term “Federal employee” also applies to an immediate member of the employee's household.

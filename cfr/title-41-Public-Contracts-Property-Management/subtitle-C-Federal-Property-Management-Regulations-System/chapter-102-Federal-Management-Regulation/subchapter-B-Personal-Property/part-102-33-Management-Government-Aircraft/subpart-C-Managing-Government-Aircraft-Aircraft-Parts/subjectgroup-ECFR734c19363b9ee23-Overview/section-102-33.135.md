@@ -1,0 +1,3 @@
+##### § 102-33.135 Do we have to follow OMB Circular A-123, “Management Accountability and Control,” for establishing management controls for our aviation program? #####
+
+Yes, you must follow OMB Circular A-123, “Management's Responsibility for Accountability and Control” (*http://www.whitehouse.gov/omb*), when establishing management controls for your aviation program. The circular requires that you establish organizations, policies, and procedures to ensure that, among other things, your aviation program achieves its intended results and you use your resources consistently with your agency's missions.

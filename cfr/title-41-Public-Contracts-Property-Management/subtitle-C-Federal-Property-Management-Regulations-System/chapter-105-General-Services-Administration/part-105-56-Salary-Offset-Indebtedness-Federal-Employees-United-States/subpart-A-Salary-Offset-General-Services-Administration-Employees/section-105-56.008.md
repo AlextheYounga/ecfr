@@ -1,0 +1,3 @@
+##### § 105-56.008 Pre-offset paper hearing. #####
+
+If a hearing is to be held only upon written submissions, the hearing official will issue a decision based upon the record and responses submitted by both the Agency and the employee. See § 105-56.006 of this subpart. If either party, without good cause as determined by the hearing official, does not provide written submissions and documentation requested by the hearing official, the hearing official will make a determination on the claim without reference to such submissions and documentation.

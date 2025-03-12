@@ -1,0 +1,7 @@
+##### § 101-28.201 Applicability. #####
+
+(a) The policies and procedures established by this subpart 101-28.2 are primarily applicable to storage activities within the United States. Executive agencies shall make every effort to utilize available Government storage services of other executive agencies to avoid new construction of storage facilities, acquisition of temporary space, and unnecessary transportation of supplies, material, and equipment to distant storage points. Whenever feasible, the policies and procedures shall be used to cross-service storage and warehousing requirements in overseas storage activities. Available storage services of executive agencies shall be made available for cross-servicing the requirements of other Federal agencies when requested. Other Federal agencies are encouraged to participate in cross-servicing arrangements.
+
+(b) The provisions of this subpart 101-28.2 do not apply to ocean terminals, Government storage activities financed under industrial funds, activities concerned with the storage and handling of bulk fuels (petroleum products), and storage functions performed by GSA for the Federal Preparedness Agency.
+
+[35 FR 7050, May 16, 1970, as amended at 42 FR 2317, Jan. 11, 1977]

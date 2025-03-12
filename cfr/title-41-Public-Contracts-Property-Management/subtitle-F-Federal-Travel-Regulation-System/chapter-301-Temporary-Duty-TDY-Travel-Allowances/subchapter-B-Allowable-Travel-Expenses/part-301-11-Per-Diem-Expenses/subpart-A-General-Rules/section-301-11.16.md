@@ -1,0 +1,3 @@
+##### § 301-11.16 What reimbursement will I receive if I prepay my lodging expenses and my TDY is curtailed, canceled or interrupted for official purposes or for other reasons beyond my control that are acceptable to my agency? #####
+
+If you sought to obtain a refund or otherwise took steps to minimize the cost, your agency may reimburse expenses that are not refundable, including a forfeited rental deposit.

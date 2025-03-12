@@ -1,0 +1,3 @@
+##### § 102-36.375 May we dispose of excess firearms? #####
+
+Yes, unless you have specific statutory authority to do otherwise, excess firearms may be transferred only to those Federal agencies authorized to acquire firearms for official use. GSA may donate certain classes of surplus firearms to State and local government activities whose primary function is the enforcement of applicable federal, state, and/or local laws and whose compensated law enforcement officers have the authority to apprehend and arrest. Firearms not transferred or donated must be destroyed and sold as scrap. For additional guidance on the disposition of firearms refer to part 101-42 of this title.

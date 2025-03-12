@@ -1,0 +1,3 @@
+##### § 102-75.530 What happens if the Department of Education or the Department of Health and Human Services does not approve any applications for conveyance of the property for educational or public health purposes? #####
+
+In the absence of an approved application from ED or HHS to convey the property for educational or public health purposes, which must be received within the 30 calendar day time limit, the disposal agency will proceed with other disposal actions.

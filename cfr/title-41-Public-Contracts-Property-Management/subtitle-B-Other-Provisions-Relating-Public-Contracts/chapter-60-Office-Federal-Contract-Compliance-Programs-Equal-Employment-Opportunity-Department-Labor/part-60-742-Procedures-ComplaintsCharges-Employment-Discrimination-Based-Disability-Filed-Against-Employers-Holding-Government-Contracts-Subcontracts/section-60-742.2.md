@@ -1,0 +1,7 @@
+##### § 60-742.2 Exchange of information. #####
+
+(a) EEOC and OFCCP shall share any information relating to the employment policies and practices of employers holding government contracts or subcontracts that may assist each office in carrying out its responsibilities. Such information shall include, but not necessarily be limited to, affirmative action programs, annual employment reports, complaints, charges, investigative files, and compliance review reports and files.
+
+(b) All requests by third parties for disclosure of the information described in paragraph (a) of this section shall be coordinated with the agency which initially compiled or collected the information.
+
+(c) Paragraph (b) of this section is not applicable to requests for data in EEOC files made by any state or local agency designated as a “FEP agency” with which EEOC has a charge resolution contract and a work-sharing agreement containing the confidentiality requirements of sections 706(b) and 709(e) of title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e *et seq.*). However, such an agency shall not disclose any of the information, initially compiled by OFCCP, to the public without express written approval by the Director of OFCCP.

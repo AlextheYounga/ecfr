@@ -1,0 +1,3 @@
+##### § 51-3.6 Reports to central nonprofit agencies. #####
+
+Any information, other than that contained in the Annual Certification required by § 51-4.3(a) of this chapter, which a central nonprofit agency requires its nonprofit agencies to submit on an annual basis, shall be requested separately from the Annual Certification. If the information is being sought in response to a request by the Committee, nonprofit agencies shall be advised of that fact and the central nonprofit agency shall, prior to distribution, provide to the Committee a copy of each form which it plans to use to obtain such information from its nonprofit agencies.

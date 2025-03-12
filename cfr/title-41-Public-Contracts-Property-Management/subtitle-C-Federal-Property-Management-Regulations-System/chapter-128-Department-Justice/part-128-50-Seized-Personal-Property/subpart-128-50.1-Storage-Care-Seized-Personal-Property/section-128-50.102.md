@@ -1,0 +1,3 @@
+##### § 128-50.102 Periodic reviews. #####
+
+Each bureau shall be responsible for performing an independent accountability review at least once a year to ensure compliance with this subpart and with the bureau's procedures for the handling, storage, and disposal of its seized personal property. In particular, a bureau conducting a review shall verify that the inventory records are accurate, current, and are being kept in accordance with established inventory procedures.

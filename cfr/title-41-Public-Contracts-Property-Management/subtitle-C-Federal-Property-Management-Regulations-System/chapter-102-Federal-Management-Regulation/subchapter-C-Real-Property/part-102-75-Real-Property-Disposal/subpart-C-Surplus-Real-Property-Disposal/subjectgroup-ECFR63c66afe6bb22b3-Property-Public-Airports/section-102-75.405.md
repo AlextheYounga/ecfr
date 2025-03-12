@@ -1,0 +1,3 @@
+##### § 102-75.405 What responsibilities does the Federal Aviation Administration (FAA) have after receiving a copy of the notice (and a copy of the Report of Excess Real Property (Standard Form 118)) given to eligible public agencies that there is surplus airport property? #####
+
+As soon as possible after receiving the copy of the surplus notice, the FAA must inform the disposal agency of its determination. Then, the FAA must provide assistance to any eligible public agency known to have a need for the property for a public airport, so that the public agency may develop a comprehensive and coordinated plan of use and procurement for the property.

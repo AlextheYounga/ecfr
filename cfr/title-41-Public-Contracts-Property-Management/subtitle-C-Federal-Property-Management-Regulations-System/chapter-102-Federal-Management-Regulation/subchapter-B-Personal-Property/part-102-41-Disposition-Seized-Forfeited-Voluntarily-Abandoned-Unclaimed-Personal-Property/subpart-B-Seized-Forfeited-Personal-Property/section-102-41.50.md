@@ -1,0 +1,3 @@
+##### § 102-41.50 May we retain forfeited personal property for official use? #####
+
+Yes, you may retain for official use personal property forfeited to your agency, except for property you are required by law to sell. Retention of large sedans and limousines for official use is only authorized under the provisions of part 102-34 of this subchapter B. Except for the items noted in § 102-41.35, report to GSA all forfeited personal property not being retained for official use.

@@ -1,0 +1,3 @@
+##### § 102-79.80 May Executive agencies assess fees for antenna placements against telecommunication service providers for antenna site outleases on major pedestrian access levels, courtyards, and rooftops of public buildings? #####
+
+Yes. GSA, or other Executive agencies, upon approval from GSA, may charge fees based on market value to telecommunication service providers for antenna placements in public buildings. Market value should be equivalent to the prevailing commercial rate for comparable space for commercial antenna placements in the vicinity of the public building. Such fees must be credited to GSA's Federal Buildings Fund.

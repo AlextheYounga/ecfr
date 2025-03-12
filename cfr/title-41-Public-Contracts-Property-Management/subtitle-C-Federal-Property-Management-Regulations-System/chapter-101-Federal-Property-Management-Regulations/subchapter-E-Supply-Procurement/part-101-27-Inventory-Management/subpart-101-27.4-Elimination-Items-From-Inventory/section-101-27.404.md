@@ -1,0 +1,3 @@
+##### § 101-27.404 Review of items. #####
+
+Except for standby or reserve stocks, items in inventory shall be reviewed periodically (at least annually) to identify those which are inactive and slow-moving. This review may be conducted coincidently with the normal replenishment or long supply reviews. The estimate of current or future requirements for an item shall be based on its recent history of recurring requirements. Standby items shall also be reviewed at appropriate intervals to substantiate their qualification for inclusion in that category.

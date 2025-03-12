@@ -1,0 +1,3 @@
+##### § 102-75.370 May a State, or any political subdivision thereof, certify to a disposal agency that it needs a surplus power transmission line and the right-of-way acquired for its construction to meet the requirements of a public or cooperative power project? #####
+
+Yes, section 13(d) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(d)) allows any State or political subdivision, or any State or Government agency or instrumentality to certify to the disposal agency that a surplus power transmission line and the right-of-way acquired for its construction is needed to meet the requirements of a public or cooperative power project.

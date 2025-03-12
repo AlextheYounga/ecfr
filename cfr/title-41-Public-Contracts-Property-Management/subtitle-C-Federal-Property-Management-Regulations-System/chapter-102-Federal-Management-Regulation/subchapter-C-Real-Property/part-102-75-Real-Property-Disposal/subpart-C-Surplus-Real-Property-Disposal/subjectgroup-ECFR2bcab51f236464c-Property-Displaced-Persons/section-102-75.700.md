@@ -1,0 +1,3 @@
+##### § 102-75.700 Which Federal agencies may solicit applications from eligible State agencies interested in acquiring the property to provide replacement housing for persons being displaced by Federal or Federally assisted projects? #####
+
+After receiving the surplus notice, any Federal agency needing property for replacement housing for displaced persons may solicit applications from eligible State agencies.

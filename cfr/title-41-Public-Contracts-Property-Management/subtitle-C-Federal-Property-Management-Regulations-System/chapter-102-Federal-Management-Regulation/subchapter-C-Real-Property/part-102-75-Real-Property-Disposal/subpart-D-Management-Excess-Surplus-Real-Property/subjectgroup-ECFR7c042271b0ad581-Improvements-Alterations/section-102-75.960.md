@@ -1,0 +1,3 @@
+##### § 102-75.960 May landholding agencies make improvements or alterations to excess or surplus property in those cases where disposal is otherwise not feasible? #####
+
+Yes, landholding agencies may make improvements or alterations that involve rehabilitation, reconditioning, conversion, completion, additions, and replacements in excess or surplus structures, utilities, installations, and land improvements, in those cases where disposal cannot be accomplished without such improvements or alterations. However, agencies must not enter into commitments concerning improvements or alterations without GSA's prior approval.

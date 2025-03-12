@@ -1,0 +1,3 @@
+##### § 105-53.114 General statement of organization. #####
+
+The General Services Administration is an independent agency in the executive branch of the Government. The work of the agency as a whole is directed by the Administrator of General Services, who is assisted by the Deputy Administrator. A summary description of each of GSA's major functions and organizational components is presented in subparts B and C.

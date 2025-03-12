@@ -1,0 +1,3 @@
+##### § 102-192.85 Who must report to GSA annually? #####
+
+Large agencies, as defined in § 102-192.35, must provide an annual Mail Management Report to GSA. If your agency is a cabinet level or independent agency, the agency mail manager must compile all offices or components and submit one report for the department or agency as a whole, for example, the U.S. Department of Defense or the U.S. Department of Health and Human Services.

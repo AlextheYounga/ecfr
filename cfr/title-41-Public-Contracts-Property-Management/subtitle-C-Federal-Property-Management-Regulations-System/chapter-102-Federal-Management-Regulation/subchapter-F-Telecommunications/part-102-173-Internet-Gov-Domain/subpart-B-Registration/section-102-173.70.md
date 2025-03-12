@@ -1,0 +1,3 @@
+##### § 102-173.70 Where do I register my dot-gov domain name? #####
+
+Registration is an online process at the General Services Administration's Web site at *http://www.nic.gov.* At the Network Information Site, you will find the instructions and online registration forms for registering your domain name. To register your domain name you will need to provide information such as your desired domain name, sponsoring organization, points of contact, and at least two name server addresses.

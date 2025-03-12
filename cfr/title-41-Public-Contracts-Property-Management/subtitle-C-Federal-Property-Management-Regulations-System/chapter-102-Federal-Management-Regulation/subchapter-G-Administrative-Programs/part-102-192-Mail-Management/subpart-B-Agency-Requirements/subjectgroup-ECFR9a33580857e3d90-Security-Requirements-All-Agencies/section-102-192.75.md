@@ -1,0 +1,3 @@
+##### § 102-192.75 Why must we have written security policies and plans? #####
+
+All Federal mail programs must identify, prioritize, and coordinate the protection of all mail processing facilities in order to prevent, deter, and mitigate the effects of deliberate efforts to destroy, incapacitate, or exploit the mail center or the national mail infrastructure. Homeland Security Presidential Directive (HSPD 7) at *http://www.fas.org/irp/offdocs/nspd/hspd-7.html* requires all agencies to protect key resources from terrorist attacks. All Federal mail centers are identified as key resources under the Postal and Shipping Sector Plan. Further details on the plan can be found at the Department of Homeland Security's (DHS) Web site at *http://www.dhs.gov/.*

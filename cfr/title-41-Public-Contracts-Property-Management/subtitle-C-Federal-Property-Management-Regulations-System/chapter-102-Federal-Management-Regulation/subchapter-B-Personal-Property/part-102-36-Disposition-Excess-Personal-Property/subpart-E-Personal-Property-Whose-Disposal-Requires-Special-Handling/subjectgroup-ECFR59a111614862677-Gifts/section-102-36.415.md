@@ -1,0 +1,7 @@
+##### § 102-36.415 How do we dispose of gifts other than intangible personal property? #####
+
+(a) When the gift is offered with the condition that the property be sold and the proceeds used to reduce the public debt, report the gift to the regional GSA Personal Property Management office in which the property is located. GSA will convert the gift to money upon acceptance and deposit the proceeds into a special account of the U.S. Treasury.
+
+(b) When the gift is offered with no conditions or restrictions, and your agency has gift retention authority, you may use the gift for an authorized official purpose without reporting to GSA. The property will then lose its identity as a gift and you must account for it in the same manner as Federal personal property acquired from authorized sources. When the property is no longer needed, you must report it as excess personal property to GSA.
+
+(c) When the gift is offered with no conditions or restrictions, but your agency does not have gift retention authority, you must report it to the regional GSA Personal Property Management office. GSA will offer the property for screening for possible transfer to a federal agency or convert the gift to money and deposit the funds with U.S. Treasury. If your agency is interested in keeping the gift for an official purpose, you must annotate your interest on the SF 120 and also submit a SF 122.

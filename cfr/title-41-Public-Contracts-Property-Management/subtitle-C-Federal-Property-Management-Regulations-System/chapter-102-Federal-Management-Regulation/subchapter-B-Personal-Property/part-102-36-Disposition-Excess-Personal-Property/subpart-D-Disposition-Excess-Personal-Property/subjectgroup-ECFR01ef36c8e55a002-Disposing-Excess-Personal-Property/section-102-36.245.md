@@ -1,0 +1,3 @@
+##### § 102-36.245 Are we accountable for the personal property that has been reported excess, and who is responsible for the care and handling costs? #####
+
+Yes, you are accountable for the excess personal property until the time it is picked up by the designated recipient or its agent. You are responsible for all care and handling charges while the excess personal property is going through the screening and disposal process.

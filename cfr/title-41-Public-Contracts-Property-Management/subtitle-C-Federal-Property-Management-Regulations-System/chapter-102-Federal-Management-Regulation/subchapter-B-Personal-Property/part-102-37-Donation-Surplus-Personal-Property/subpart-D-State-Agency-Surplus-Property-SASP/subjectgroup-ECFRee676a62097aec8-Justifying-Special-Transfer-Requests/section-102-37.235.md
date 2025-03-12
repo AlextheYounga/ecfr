@@ -1,0 +1,3 @@
+##### § 102-37.235 What type of information must a SASP provide when requesting surplus property for cannibalization? #####
+
+When a donee wants surplus property to cannibalize, include the following statement on the SF 123: “Line Item Number(s)\_\_\_requested for cannibalization.”. In addition to including this statement, provide a detailed justification concerning the need for the components or accessories and an explanation of the effect removal will have on the item. GSA will approve requests for cannibalization only when it is clear from the justification that disassembly of the item for use of its component parts will provide greater potential benefit than use of the item in its existing form.

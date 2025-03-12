@@ -1,0 +1,3 @@
+##### § 102-37.480 What must a SASP do to ensure that property is used for the purpose(s) for which it was donated? #####
+
+You must conduct utilization reviews, as provided in your plan of operation, to ensure that donees are using surplus property during the period of restriction for the purposes for which it was donated. You must fully document your efforts and report all instances of noncompliance (misuse or mishandling of property) to GSA.

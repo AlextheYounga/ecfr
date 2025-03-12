@@ -1,0 +1,3 @@
+##### § 102-80.60 Are Federal agencies responsible for performing facility assessments? #####
+
+Yes, Federal agencies must evaluate facilities to comply with GSA's safety and environmental program and applicable Federal, State and local environmental laws and regulations. Federal agencies should conduct these evaluations in accordance with schedules that are compatible with repair and alteration and leasing operations.

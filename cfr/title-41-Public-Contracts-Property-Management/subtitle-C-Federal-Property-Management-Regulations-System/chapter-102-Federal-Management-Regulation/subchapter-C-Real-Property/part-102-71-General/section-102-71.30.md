@@ -1,0 +1,3 @@
+##### § 102-71.30 How must these real property policies be implemented? #####
+
+Each Federal Government real property services provider must provide services that are in accord with the policies presented in parts 102-71 through 102-82 of this chapter. Also, Federal agencies must make the provisions of any contract with private sector real property services providers conform to the policies in parts 102-71 through 102-82 of this chapter.

@@ -1,0 +1,3 @@
+##### § 60-4.9 Incorporation by operation of the order. #####
+
+By operation of the order, the equal opportunity clause contained in § 60-1.4, the Notice of Requirement for Affirmative Action to Ensure Equal Employment Opportunity (Executive Order 11246) contained in § 60-4.2, and the Standard Federal Equal Employment Opportunity Construction Contract Specifications (Executive Order 11246) contained in § 60-4.3 shall be deemed to be a part of every solicitation or of every contract and subcontract, as appropriate, required by the order and the regulations in this chapter to include such clauses whether or not they are physically incorporated in such solicitation or contract and whether or not the contract is written.

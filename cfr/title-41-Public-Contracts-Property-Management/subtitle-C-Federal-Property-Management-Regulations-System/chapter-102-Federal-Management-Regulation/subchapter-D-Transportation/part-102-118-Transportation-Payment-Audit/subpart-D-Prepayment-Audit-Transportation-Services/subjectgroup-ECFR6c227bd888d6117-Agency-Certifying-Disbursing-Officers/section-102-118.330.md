@@ -1,0 +1,3 @@
+##### § 102-118.330 Does a transportation prepayment audit waiver change any liabilities of the certifying officer? #####
+
+Yes, a certifying official is not personally liable for verifying transportation rates, freight classifications, or other information provided on a bill of lading or passenger transportation request when the Administrator of General Services or designee waives the prepayment audit requirement and your agency uses postpayment audits.

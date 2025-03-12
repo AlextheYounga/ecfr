@@ -1,0 +1,3 @@
+##### § 102-85.135 What if space and services are provided by other executive agencies? #####
+
+Any executive agency other than GSA providing space and services is authorized to charge the occupant for the space and services at rates approved by the Administrator of General Services and the Director of the Office of Management and Budget. If space and services are of the type provided by the Administrator of General Services, the executive agency providing the space and services must credit the monies derived from any fees or charges to the appropriation or fund initially charged for providing the space or services, as prescribed by Subsection 210(k) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(k)).

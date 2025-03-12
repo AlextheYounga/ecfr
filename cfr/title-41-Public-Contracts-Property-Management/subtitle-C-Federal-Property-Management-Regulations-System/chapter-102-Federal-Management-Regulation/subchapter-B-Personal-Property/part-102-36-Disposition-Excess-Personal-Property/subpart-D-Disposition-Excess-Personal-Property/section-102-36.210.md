@@ -1,0 +1,3 @@
+##### § 102-36.210 Why must we report excess personal property to GSA? #####
+
+You must report excess personal property to promote reuse by the government to enable federal agencies to benefit from the continued use of property already paid for with taxpayers' money, thus minimizing new procurement costs. Reporting excess personal property to GSA helps assure that the information on available excess personal property is accessible and disseminated to the widest range of reuse customers.

@@ -1,0 +1,3 @@
+##### § 102-192.100 How do we submit our annual mail management report to GSA? #####
+
+You must submit annual reports using the GSA web based Simplified Mail Accountability Reporting Tool (*SMART*). Training is available from GSA to agency mail managers and other authorized users on how to use the SMART data reporting system. Contact the Office of Government-wide Policy, Mail Management Policy office for access and training at *federal.mail@gsa.gov.*

@@ -1,0 +1,3 @@
+##### § 102-36.430 May we dispose of excess Munitions List Items (MLIs)/Commerce Control List Items (CCLIs)? #####
+
+You may dispose of excess MLIs/CCLIs only when you comply with the additional disposal and demilitarization (DEMIL) requirements contained in part 101-42 of this title. MLIs may require demilitarization when issued to any non-DoD entity, and will require appropriate licensing when exported from the U.S. CCLIs usually require export licensing when transported from the U.S.

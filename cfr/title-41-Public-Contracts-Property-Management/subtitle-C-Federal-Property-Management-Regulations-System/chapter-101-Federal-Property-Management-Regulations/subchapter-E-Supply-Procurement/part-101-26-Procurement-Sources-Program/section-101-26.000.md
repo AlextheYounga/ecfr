@@ -1,0 +1,5 @@
+##### § 101-26.000 Scope of part. #####
+
+This part prescribes policies and procedures which govern the procurement of personal property and nonpersonal services by Federal agencies from or through GSA supply sources as established by law or other competent authority. The specific subparts or sections covering the subject matter involved prescribe the extent to which the sources of supply are to be used by Government agencies. Certain civilian and military commissaries and nonappropriated fund activities are also eligible to use GSA supply sources for their own use, not for resale, unless otherwise authorized by the individual Federal agency and concurred in by GSA. Policy and procedures pertaining to purchasing of property or contracting for services from commercial sources, without recourse to established GSA supply sources, are provided in the Federal Acquisition Regulation (FAR) (48 CFR chapter 1).
+
+[56 FR 12455, Mar. 26, 1991]

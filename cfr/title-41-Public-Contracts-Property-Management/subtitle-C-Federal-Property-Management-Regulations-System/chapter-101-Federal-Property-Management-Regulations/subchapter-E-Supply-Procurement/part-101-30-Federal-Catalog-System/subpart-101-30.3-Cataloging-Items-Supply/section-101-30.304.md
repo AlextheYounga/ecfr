@@ -1,0 +1,5 @@
+##### § 101-30.304 Application of item entry control. #####
+
+In addition to the reviews attendant to the process of item identification and assignment of national stock numbers, proposed new items will be subjected to a technical review to associate them with items available through the GSA supply system. Where a similar item is available through the GSA supply system, the agency will be informed of the national stock number and a source of supply and will be requested to use that item. If the requesting agency considers the GSA item unacceptable because of technical differences, the requesting agency shall notify GSA of the technical differences between the alternate item and the requested item to allow for the assignment of a new national stock number to the requested item.
+
+[46 FR 35645, July 10, 1981]

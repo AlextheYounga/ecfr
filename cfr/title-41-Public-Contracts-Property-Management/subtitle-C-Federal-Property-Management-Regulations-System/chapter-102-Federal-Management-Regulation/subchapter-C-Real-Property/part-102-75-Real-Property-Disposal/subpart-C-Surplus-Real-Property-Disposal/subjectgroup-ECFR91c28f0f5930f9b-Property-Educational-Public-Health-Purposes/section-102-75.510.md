@@ -1,0 +1,3 @@
+##### § 102-75.510 When must the Department of Education and the Department of Health and Human Services notify the disposal agency that an eligible applicant is interested in acquiring the property? #####
+
+ED and HHS must notify the disposal agency if it has an eligible applicant interested in acquiring the property within 30 calendar days after the date of the surplus notice. Then, after the 30-day period expires, ED or HHS has 30 calendar days to review and approve an application and request assignment of the property, or inform the disposal agency that no assignment request will be forthcoming.

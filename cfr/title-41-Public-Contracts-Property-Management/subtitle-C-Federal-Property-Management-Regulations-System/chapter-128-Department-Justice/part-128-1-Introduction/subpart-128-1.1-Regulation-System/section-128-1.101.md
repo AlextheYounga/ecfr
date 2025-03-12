@@ -1,0 +1,3 @@
+##### § 128-1.101 Justice Property Management Regulations. #####
+
+The JPMR, established in this subpart, implement and supplement, as necessary, the FPMR provisions governing the acquisition, utilization, management, and disposal of real and personal property. The JPMR are issued to establish uniform property management policies, regulations, and, as necessary, procedures in the Department of Justice.

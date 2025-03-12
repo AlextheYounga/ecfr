@@ -1,0 +1,3 @@
+##### § 102-41.25 Who retains custody and is responsible for the reporting, care, and handling of property covered by this part? #####
+
+You, the holding agency, normally retain physical custody of the property and are responsible for its care and handling pending final disposition. With the exception of property listed in § 102-41.35, you must report promptly to the GSA forfeited, voluntarily abandoned, or unclaimed personal property not being retained for official use and seized property on which proceedings for forfeiture by court decree are being started or have begun. In general, the procedures for reporting such property parallel those for reporting excess personal property under part 102-36 of this subchapter B.

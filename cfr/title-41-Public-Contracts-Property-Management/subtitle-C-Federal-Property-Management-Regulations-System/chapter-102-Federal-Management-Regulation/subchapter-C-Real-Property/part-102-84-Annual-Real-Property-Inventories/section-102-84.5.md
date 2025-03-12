@@ -1,0 +1,3 @@
+##### § 102-84.5 What is the scope of this part? #####
+
+GSA's policies contained in this part apply to all Federal agencies. This part prescribes guidance that all Federal agencies must follow in preparing and submitting annual real property inventory information for real property owned, leased or otherwise managed by the United States. Detailed guidance implementing these policies is contained in the annual *Guidance for Real Property Inventory Reporting,* issued by the Federal Real Property Council and published by GSA.

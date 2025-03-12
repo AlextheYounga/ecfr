@@ -1,0 +1,3 @@
+##### § 101-29.204 Interim Federal specification. #####
+
+An *interim Federal specification* is a potential Federal specification issued in temporary form for optional use by all Federal agencies. Interim amendments to Federal Specifications and amendments to interim Federal specifications are included in this definition. These documents are issued or controlled by the General Services Administration and are listed in the GSA “Index of Federal Specifications, Standards and Commercial Item Descriptions.”

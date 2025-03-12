@@ -1,0 +1,3 @@
+##### § 102-85.65 How does an OA obligate the customer agency? #####
+
+An OA obligates the executing customer agency to fund the current-year Rent obligation owed GSA, as well as to reimburse GSA for any other *bona fide* obligations that GSA may have incurred on behalf of the customer agency. Although the OA is an interagency agreement, memorializing the understanding of GSA and its customer agency, the OA may not be construed as obligating future year customer agency funds until they are legally available. A multi-year OA commitment assumes the customer agency will seek the necessary funding through budget and appropriations processes.

@@ -1,0 +1,3 @@
+##### § 102-74.110 What asset services must Executive agencies provide? #####
+
+Executive agencies, upon approval from GSA, must provide asset services such as repairs (in addition to those minor repairs identified in § 102-74.35(a)), alterations, and modernizations for real property assets. For repairs and alterations projects for which the estimated cost exceeds the prospectus threshold, Federal agencies must follow the prospectus submission and approval policy identified in this part and part 102-73 of this chapter.

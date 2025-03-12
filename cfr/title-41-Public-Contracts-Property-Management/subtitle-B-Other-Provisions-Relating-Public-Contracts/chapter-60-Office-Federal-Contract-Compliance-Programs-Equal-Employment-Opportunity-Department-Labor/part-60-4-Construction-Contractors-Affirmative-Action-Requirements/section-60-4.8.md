@@ -1,0 +1,5 @@
+##### § 60-4.8 Show cause notice. #####
+
+If an investigation or compliance review reveals that a construction contractor or subcontractor has violated the Executive order, any contract clause, specifications or the regulations in this chapter and if administrative enforcement is contemplated, the Director shall issue to the contractor or subcontractor a notice to show cause which shall contain the items specified in paragraphs (i) through (iv) of 41 CFR 60-2.2(c)(1). If the contractor does not show good cause within 30 days, or in the alternative, fails to enter an acceptable conciliation agreement which includes where appropriate, make up goals and timetables, back pay, and seniority relief for affected class members, the OFCCP shall follow the procedure in 41 CFR 60-1.26(b): *Provided,* That where a conciliation agreement has been violated, no show cause notice is required prior to the initiation of enforcement proceedings.
+
+[43 FR 49254, Oct. 20, 1978; 43 FR 51401, Nov. 3, 1978]

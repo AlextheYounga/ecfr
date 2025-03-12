@@ -1,0 +1,3 @@
+##### § 105-64.502 How do I find out if my record has been disclosed? #####
+
+You may request an accounting of the persons or agencies to whom your record has been disclosed, including the date and purpose of each disclosure, by writing to the system manager. Mark both the envelope and the letter “Privacy Act Accounting Request”. The system manager will provide the requested information in the same way as that for granting access to records; see Subpart 105-64.2, providing no restrictions to disclosure or accounting of disclosures applies.

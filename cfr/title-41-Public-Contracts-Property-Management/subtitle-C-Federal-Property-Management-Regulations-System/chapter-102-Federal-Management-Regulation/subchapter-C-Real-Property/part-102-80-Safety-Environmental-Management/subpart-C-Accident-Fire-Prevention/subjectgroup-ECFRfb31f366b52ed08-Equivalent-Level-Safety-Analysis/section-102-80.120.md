@@ -1,0 +1,3 @@
+##### § 102-80.120 What analytical and empirical tools should be used to support the life safety equivalency evaluation? #####
+
+Analytical and empirical tools, including fire models and grading schedules such as the Fire Safety Evaluation System (Alternative Approaches to Life Safety, NEPA 101A) should be used to support the life safety equivalency evaluation. If fire modeling is used as part of an analysis, an assessment of the predictive capabilities of the fire models must be included. This assessment should be conducted in accordance with the American Society for Testing and Materials Standard Guide for Evaluating the Predictive Capability of Fire Models (ASTM E 1355).

@@ -1,0 +1,3 @@
+##### § 302-9.4 What are the purposes of the allowance for transportation of a POV? #####
+
+To reduce the Government's overall relocation costs by allowing transportation of a POV to your official station within CONUS when it is advantageous and cost effective to the Government, and to improve our overall effectiveness if you are transferred or otherwise reassigned to a post of duty at which it is in the interest of the Government for you to have use of a POV for personal transportation.

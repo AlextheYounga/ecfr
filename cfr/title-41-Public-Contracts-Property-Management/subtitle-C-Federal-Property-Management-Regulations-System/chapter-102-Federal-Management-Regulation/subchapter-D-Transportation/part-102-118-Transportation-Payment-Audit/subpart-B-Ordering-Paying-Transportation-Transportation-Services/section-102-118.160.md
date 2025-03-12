@@ -1,0 +1,3 @@
+##### § 102-118.160 Who is liable if my agency makes an overpayment on a transportation bill? #####
+
+If the agency conducts prepayment audits of its transportation bills, agency transportation certifying and disbursing officers are liable for any overpayments made. If GSA has granted a waiver to the prepayment audit requirement and the agency performs a postpayment audit (31 U.S.C. 3528 and 31 U.S.C. 3322) neither the certifying nor disbursing officers are liable for the reasons listed in these two cited statutes.

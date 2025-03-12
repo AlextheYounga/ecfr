@@ -1,0 +1,5 @@
+##### § 105-54.202 Review and approval of proposals. #####
+
+(a) The GSA Committee Management Officer reviews each proposal to make sure it conforms with GSA policies and procedures. The Officer sends the letter of justification, including the draft charter, to the Committee Management Secretariat. The Secretariat reviews the proposal and provides its views within 15 calendar days of receipt, if possible. The Administrator retains final authority for establishing a particular advisory committee.
+
+(b) When the Secretariat notifies the Officer that establishing the committee conforms with the Federal Advisory Committee Act, the Officer obtains the Administrator's approval of the charter and the Federal Register notice. The Officer publishes the notice in the Federal Register at least 15 calendar days before the filing of the charter under § 105-54.203 with the standing committees of the Senate and the House of Representatives having legislative jurisdiction over GSA. The date of filing constitutes the date of establishment.

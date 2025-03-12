@@ -1,0 +1,3 @@
+##### § 51-8.6 Aggregating requests. #####
+
+When the Committee reasonably believes that a requester, or a group of requesters acting in concert, is attempting to break a request down into a series of requests for the purpose of evading the assessment of fees, the Committee may aggregate any such requests and charge accordingly. Elements to be considered in determining whether a belief would be reasonable include the time period in which the requests have occurred and the subject matter involved.

@@ -1,0 +1,3 @@
+##### § 102-75.330 What form must all offers to purchase or lease be in? #####
+
+All offers to purchase or lease must be in writing, accompanied by any required earnest money deposit, using the form prescribed by the disposal agency. In addition to the financial terms upon which the offer is predicated, the offer must set forth the willingness of the offeror to abide by the terms, conditions, reservations, and restrictions upon which the property is offered, and must contain such other information as the disposal agency may request.

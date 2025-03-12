@@ -1,0 +1,9 @@
+##### § 60-30.5 Administrative complaint. #####
+
+(a) *Filing.* The Solicitor of Labor, Associate Solicitor for Labor Relations and Civil Rights Regional Solicitors and Regional Attorney upon referral from the Office of Federal Contract Compliance Programs, are authorized to institute enforcement proceedings by filing a complaint and serving the complaint upon the contractor which shall be designated as the defendant. The Department of Labor, OFCCP, as shall be designated on plaintiff.
+
+(b) *Contents.* The complaint shall contain a concise jurisdictional statement, and a clear and concise statement sufficient to put the defendant on notice of the acts or practices it is alleged to have committed in violation of the order, the regulations, or its contractual obligations. The complaint shall also contain a prayer regarding the relief being sought, a statement of whatever sanctions the Government will seek to impose and the name and address of the attorney who will represent the Government.
+
+(c) *Amendment.* The complaint may be amended once as a matter of course before an answer is filed, and the defendant may amend its answer once as a matter of course not later than 10 days after the filing of the original answer. Other amendments of the complaint or of the answer to the complaint shall be made only by leave of the Administrative Law Judge or by written consent of the adverse party; and leave shall be freely given where justice so requires. An amended complaint shall be answered within 14 days of its service, or within the time for filing an answer to the original complaint, whichever period is longer. An amended answer shall be responded to within 14 days of its service.
+
+(E.O. 11246 as amended; sec. 503 of Rehabilitation Act of 1973 as amended.)[43 FR 49259, Oct. 20, 1978, as amended at 44 FR 49691, Aug. 24, 1979; 63 FR 59642, Nov. 4, 1998]

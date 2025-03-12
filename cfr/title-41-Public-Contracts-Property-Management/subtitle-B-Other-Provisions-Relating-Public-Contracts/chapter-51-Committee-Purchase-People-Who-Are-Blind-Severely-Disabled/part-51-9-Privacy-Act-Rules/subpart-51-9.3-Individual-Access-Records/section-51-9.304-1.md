@@ -1,0 +1,3 @@
+##### § 51-9.304-1 Records available without charge. #####
+
+The Executive Director shall make one copy of a record available to an employee without charge, and may waive the fee requirement for any other individual requesting records if the cost of collecting the fee is an unduly large part of, or greater than, the fee, or when furnishing the record without charge conforms to generally established business custom or is in the public interest.

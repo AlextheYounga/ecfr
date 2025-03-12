@@ -1,0 +1,3 @@
+##### § 101-27.500 Scope and applicability of subpart. #####
+
+This subpart sets forth policy and procedures for the return to GSA for credit of items which are in long supply or for which no current or future requirements are anticipated. The provisions of this subpart 101-27.5 are applicable to all executive agencies. Federal agencies other than executive agencies may participate in this program and are encouraged to do so.

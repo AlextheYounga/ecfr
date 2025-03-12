@@ -1,0 +1,3 @@
+##### § 102-85.220 Can a customer agency forced to relocate waive the reimbursements? #####
+
+Yes, a customer agency forced to relocate can waive some or all of the reimbursements from the forcing agency that are prescribed in § 102-85.215. However, a relocated customer agency cannot waive the requirement for the forcing customer agency to reimburse GSA for unpaid tenant improvements. If GSA is the “forcing” agency, it is responsible for the same costs as any other forcing customer agency.

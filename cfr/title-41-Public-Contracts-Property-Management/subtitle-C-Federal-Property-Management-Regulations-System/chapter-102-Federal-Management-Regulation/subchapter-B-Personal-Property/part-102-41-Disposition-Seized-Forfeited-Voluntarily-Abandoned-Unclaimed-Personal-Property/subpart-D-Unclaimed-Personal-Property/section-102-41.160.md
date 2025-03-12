@@ -1,0 +1,3 @@
+##### § 102-41.160 May we retain the reimbursement from transfers of unclaimed personal property? #####
+
+No, you must deposit the reimbursement from transfers of unclaimed personal property in a special account for a period of 3 years pending a claim from the former owner. After 3 years, you must deposit these funds into miscellaneous receipts of the U.S. Treasury unless your agency has statutory authority to do otherwise.

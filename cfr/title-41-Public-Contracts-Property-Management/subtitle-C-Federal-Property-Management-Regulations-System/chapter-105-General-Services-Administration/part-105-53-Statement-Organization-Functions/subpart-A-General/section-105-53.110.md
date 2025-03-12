@@ -1,0 +1,3 @@
+##### § 105-53.110 Creation and authority. #####
+
+The General Services Administration was established by section 101 of the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), effective July 1, 1949. The act consolidated and transferred to the agency a variety of real and personal property and related functions fomerly assigned to various agencies. Subsequent laws and Executive orders assigned other related functions and programs.

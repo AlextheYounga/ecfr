@@ -1,0 +1,3 @@
+##### § 105-60.305-3 GSA records available without charge. #####
+
+GSA records available to the public are displayed in the Business Service Center for each GSA region. The address and phone number of the Business Service Centers are listed in § 105-60.303. Certain material related to bids (excluding construction plans and specifications) and any material displayed are available without charge upon request.

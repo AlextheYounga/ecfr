@@ -1,0 +1,3 @@
+##### § 102-83.75 What is Executive Order 13006? #####
+
+Executive Order 13006, entitled “Locating Federal Facilities on Historic Properties in Our Nation's Central Cities,” requires all Executive agencies that have a mission requirement to locate in an urban area to give first consideration to locating Federal facilities in historic buildings and districts within central business areas. It also directs Executive agencies to remove regulatory barriers, review their policies, and build new partnerships with the goal of enhancing participation in the National Historic Preservation program.

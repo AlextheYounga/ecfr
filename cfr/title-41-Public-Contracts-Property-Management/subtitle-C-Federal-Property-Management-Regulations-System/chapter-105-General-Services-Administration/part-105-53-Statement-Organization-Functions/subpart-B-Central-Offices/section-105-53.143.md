@@ -1,0 +1,9 @@
+##### § 105-53.143 Information Resources Management Service. #####
+
+(a) *Creation and authority.* The Information Resources Management Service (IRMS), headed by the Commissioner, Information Resources Management Service, was established as the Office of Information Resources Management on August 17, 1982 and subsequently redesignated as IRMS on November 17, 1985, by the Administrator of General Services. The Information Resources Management Service was assigned responsibility for administering the Governmentwide information resources management program, including records management, and procurement, management, and use of automatic data processing and telecommunications resources.
+
+(b) *Functions.* IRMS is responsible for directing and managing Governmentwide programs for the procurement and use of automatic data processing (ADP), office information systems, and telecommunications equipment and services; developing and coordinating Governmentwide plans, policies, procedures, regulations, and publications pertaining to ADP; telecommunications and records management activities; managing and operating the Information Technology Fund; managing and operating the Federal Telecommunications System (FTS); planning and directing programs for improving Federal records and information management practices Governmentwide; managing and operating the Federal Information Centers; developing and overseeing GSA policy concerning automated information systems, equipment, and facilities; and providing policy and program direction for the GSA Emergency Preparedness and Disaster Support Programs.
+
+(c) *Regulations.* Regulations pertaining to IRMS programs are published in 41 CFR chapter 201, Federal Information Resources Management Regulation (FIRMR), and 48 CFR chapters 1 and 5. Information on availability of the regulations is provided in § 105-53.116.
+
+[51 FR 23230, June 26, 1986, as amended at 52 FR 23657, June 24, 1987]

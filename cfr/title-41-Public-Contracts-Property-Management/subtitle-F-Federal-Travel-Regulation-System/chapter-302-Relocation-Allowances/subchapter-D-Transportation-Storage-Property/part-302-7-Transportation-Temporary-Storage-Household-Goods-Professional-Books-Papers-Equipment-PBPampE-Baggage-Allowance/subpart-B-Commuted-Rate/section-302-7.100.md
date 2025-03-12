@@ -1,0 +1,5 @@
+##### § 302-7.100 How are the charges of transporting HHG, and temporary storage calculated? #####
+
+The charges for transporting HHG, and temporary storage are computed by multiplying the number of pounds shipped divided by 100 (within the 18,000 maximum limitation) by the applicable rate per one-hundred pounds for the distance transported. This includes, but is not limited to packing/unpacking, crating/uncrating, drayage, weighing, pickup/delivery, line-haul, accessorial charges, and temporary storage charges, including but not limited to handling in/out, etc. However, your reimbursement may not fully cover your total out-of-pocket expenses. In determining the distance shipped you may use the tariffs filed with GSA travel management centers or any other mileage guide authorized by your agency. If the exact mileage is not shown, the next higher mileage distance applies. If there is a minimum weight charge above the actual weight under applicable tariffs, reimbursement will be based on the minimum weight charge instead of the actual weight.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2013-03, 78 FR 75484, Dec. 12, 2013]

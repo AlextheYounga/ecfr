@@ -1,0 +1,5 @@
+##### § 50-204.33 Disclosure to former employee of individual employee's record. #####
+
+(a) At the request of a former employee an employer shall furnish to the employee a report of the employee's exposure to radiation as shown in records maintained by the employer pursuant to § 50-204.32(a). Such report shall be furnished within 30 days from the time the request is made, and shall cover each calendar quarter of the individual's employment involving exposure to radiation or such lesser period as may be requested by the employee. The report shall also include the results of any calculations and analysis of radioactive material deposited in the body of the employee. The report shall be in writing and contain the following statement: “You should preserve this report for future reference.”
+
+(b) The former employee's request should include appropriate identifying data, such as social security number and dates and locations of employment.

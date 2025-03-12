@@ -1,0 +1,3 @@
+##### § 102-85.175 Are the standard level services for cleaning, mechanical operation, and maintenance identified in an OA? #####
+
+Unless specified otherwise in the OA, standard level services for cleaning, mechanical operation, and maintenance shall be provided in accordance with the GSA standard level of services as defined in § 102-85.165, and in the PBS Customer Guide to Real Property. A copy of the guide may be obtained from the General Services Administration, Office of Business Performance (PX), 1800 F Street, NW., Washington, DC 20405.

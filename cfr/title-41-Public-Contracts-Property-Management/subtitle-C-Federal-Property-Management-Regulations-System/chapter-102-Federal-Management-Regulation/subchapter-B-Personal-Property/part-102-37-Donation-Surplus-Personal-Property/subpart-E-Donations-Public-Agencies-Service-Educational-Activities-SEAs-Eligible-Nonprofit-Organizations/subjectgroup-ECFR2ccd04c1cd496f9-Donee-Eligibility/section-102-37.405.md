@@ -1,0 +1,3 @@
+##### § 102-37.405 How often must a SASP update donee eligibility records? #####
+
+You must update donee eligibility records as needed, but no less than every 3 years, to ensure that all documentation supporting the donee's eligibility is current and accurate. Annually, you must update files for nonprofit organizations whose eligibility depends on annual appropriations, annual licensing, or annual certification. Particular care must be taken to ensure that all records relating to the authority of donee representatives to receive and receipt for property, or to screen property at Federal facilities, are current.

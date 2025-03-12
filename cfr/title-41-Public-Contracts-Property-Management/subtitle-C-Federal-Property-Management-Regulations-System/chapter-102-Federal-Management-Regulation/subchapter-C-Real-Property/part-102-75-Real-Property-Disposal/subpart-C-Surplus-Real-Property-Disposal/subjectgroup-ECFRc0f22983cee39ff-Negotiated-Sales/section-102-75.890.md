@@ -1,0 +1,3 @@
+##### § 102-75.890 What clause must be in the offer to purchase and conveyance documents for negotiated sales to public agencies? #####
+
+Disposal agencies must include in the offer to purchase and conveyance documents an excess profits clause, which usually runs for 3 years, to eliminate the potential for windfall profits to public agencies. This clause states that, if the purchaser should sell or enter into agreements to sell the property within 3 years from the date of title transfer by the Federal Government, all proceeds in excess of the purchaser's costs will be remitted to the Federal Government.

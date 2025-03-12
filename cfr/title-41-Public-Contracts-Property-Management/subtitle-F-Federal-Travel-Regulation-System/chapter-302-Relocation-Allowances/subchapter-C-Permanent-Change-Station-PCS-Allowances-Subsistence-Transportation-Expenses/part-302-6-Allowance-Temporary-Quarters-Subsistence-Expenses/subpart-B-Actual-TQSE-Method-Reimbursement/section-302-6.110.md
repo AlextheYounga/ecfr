@@ -1,0 +1,3 @@
+##### § 302-6.110 What effect do partial days have on my actual TQSE reimbursement? #####
+
+You may not receive reimbursement under both the actual TQSE allowance and another subsistence expenses allowance within the same day, with one exception. If you claim TQSE reimbursement on the same day that en route travel per diem ends, your en route travel per diem will be computed under applicable partial day rules and you also may be reimbursed for actual TQSE you incur after 6 p.m. of that day.

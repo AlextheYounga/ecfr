@@ -1,0 +1,3 @@
+##### § 51-9.304-3 Prepayment of fees over $25. #####
+
+When the Executive Director determines that the anticipated total fee is likely to exceed $25, he shall notify the individual that he must prepay the anticipated fee prior to making the records available. The Committee will remit the excess paid by the individual or bill the individual for an additional amount according to variations between the final fee charged and the amount prepaid.

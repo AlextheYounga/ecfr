@@ -1,0 +1,7 @@
+##### § 51-9.303-1 Form of requests. #####
+
+(a) An individual must request access to his record in writing. The Executive Director shall accept by telephone only general inquiries for information regarding systems of records or procedures.
+
+(b) A written request should be directed to the Executive Director as listed in the public notice describing the system of records. The individual should display clearly on the face of the request letter and on the face of the envelope the legend “Privacy Act Request”, and include the complete name and identifying number of the system as published in the Federal Register; the full name, address, the telephone number of the individual; a brief description of the nature, time, place and circumstances of the individual's association with the Committee; and any other information which the individual believes would facilitate the Executive Director's search for the record.
+
+(c) An individual who wishes to have a person of his choosing accompany him in reviewing a record must sign a statement authorizing the disclosure of his record in the presence of another individual, if so requested by the Executive Director. An individual who intends to visit the Committee office in order to review a record should make an appointment with the Executive Director at least one week in advance.

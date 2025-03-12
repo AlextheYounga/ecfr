@@ -1,0 +1,3 @@
+##### § 102-76.50 What is sustainable development? #####
+
+Sustainable development means integrating the decision-making process across the organization, so that every decision is made to promote the greatest long-term benefits. It means eliminating the concept of waste and building on natural processes and energy flows and cycles; and recognizing the interrelationship of our actions with the natural world.

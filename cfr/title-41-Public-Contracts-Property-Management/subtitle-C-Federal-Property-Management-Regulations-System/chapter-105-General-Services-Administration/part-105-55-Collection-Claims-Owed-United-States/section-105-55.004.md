@@ -1,0 +1,3 @@
+##### § 105-55.004 Compromise, waiver, or disposition under other statutes not precluded. #####
+
+Nothing in this part precludes the General Services Administration (GSA) disposition of any claim under statutes and implementing regulations other than subchapter II of chapter 37 of Title 31 of the United States Code (Claims of the United States Government) and the standards in this part. See, e.g., the Federal Medical Care Recovery Act, 42 U.S.C. 2651-2653, and applicable regulations, 28 CFR part 43. In such cases, the laws and regulations specifically applicable to claims collection activities of GSA generally take precedence.

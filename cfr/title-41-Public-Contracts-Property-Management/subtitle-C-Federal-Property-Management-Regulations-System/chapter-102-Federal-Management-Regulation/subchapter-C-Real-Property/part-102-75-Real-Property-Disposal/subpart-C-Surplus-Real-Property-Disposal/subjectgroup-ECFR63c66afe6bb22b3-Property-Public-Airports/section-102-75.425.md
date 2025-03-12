@@ -1,0 +1,3 @@
+##### § 102-75.425 Who has sole responsibility for enforcing compliance with the terms and conditions of disposal for property disposed of for use as a public airport? #####
+
+The Administrator of the FAA has the sole responsibility for enforcing compliance with the terms and conditions of disposals to be used as a public airport. The FAA is also responsible for reforming, correcting, or amending any disposal instruments; granting releases; and any action necessary for recapturing the property, using the provisions of 49 U.S.C. 47101 *et seq.*

@@ -1,0 +1,3 @@
+##### § 303-70.303 When a immediate family member, residing with the employee, dies while in transit to or from the employee's duty station OCONUS, must we furnish mortuary services and/or transportation of the remains? #####
+
+Yes, you must furnish transportation if requested by the employee. You must follow the guidelines in § 303-70.301 for transportation expenses. You must furnish mortuary services only if the conditions in § 303-70.300 are met.

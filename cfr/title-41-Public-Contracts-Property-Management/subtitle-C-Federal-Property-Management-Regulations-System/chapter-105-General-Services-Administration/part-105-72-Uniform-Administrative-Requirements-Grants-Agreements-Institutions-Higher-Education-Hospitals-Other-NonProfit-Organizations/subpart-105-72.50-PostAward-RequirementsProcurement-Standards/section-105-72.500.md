@@ -1,0 +1,3 @@
+##### § 105-72.500 Purpose of procurement standards. #####
+
+Sections 105-72.501 through 105-72.508 set forth standards for use by recipients in establishing procedures for the procurement of supplies and other expendable property, equipment, real property and other services with Federal funds. These standards are furnished to ensure that such materials and services are obtained in an effective manner and in compliance with the provisions of applicable Federal statutes and executive orders. No additional procurement standards or requirements shall be imposed by the Federal awarding agencies upon recipients, unless specifically required by Federal statute or executive order or approved by OMB.

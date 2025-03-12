@@ -1,0 +1,3 @@
+##### § 102-118.370 Are my agency's prepayment audited transportation documentation subject to periodic postpayment audit oversight from the GSA Transportation Audits Division? #####
+
+Yes. All your agency's prepayment audited transportation documents are subject to the GSA Transportation Audits Division postpayment audit oversight. Upon request, GSA Transportation Audits Division will provide a report analyzing your agency's prepayment audit program.

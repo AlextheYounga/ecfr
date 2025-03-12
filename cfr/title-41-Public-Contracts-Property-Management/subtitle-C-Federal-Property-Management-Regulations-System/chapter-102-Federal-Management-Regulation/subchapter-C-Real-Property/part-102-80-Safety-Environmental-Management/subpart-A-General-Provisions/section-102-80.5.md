@@ -1,0 +1,3 @@
+##### § 102-80.5 What is the scope of this part? #####
+
+The real property policies contained in this part apply to Federal agencies, including GSA's Public Buildings Service (PBS), operating under, or subject to, the authorities of the Administrator of General Services. The responsibilities for safety and environmental management under this part are intended to apply to GSA or those Federal agencies operating in GSA space pursuant to a GSA delegation of authority.

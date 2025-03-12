@@ -1,0 +1,3 @@
+##### § 102-75.900 What is a negotiated sale for economic development purposes? #####
+
+A negotiated sale for economic development purposes means that the public body purchasing the property will develop or make substantial improvements to the property with the intention of reselling or leasing the property in parcels to users to advance the community's economic benefit. This type of negotiated sale is acceptable where the expected public benefits to the community are greater than the anticipated proceeds derived from a competitive public sale.

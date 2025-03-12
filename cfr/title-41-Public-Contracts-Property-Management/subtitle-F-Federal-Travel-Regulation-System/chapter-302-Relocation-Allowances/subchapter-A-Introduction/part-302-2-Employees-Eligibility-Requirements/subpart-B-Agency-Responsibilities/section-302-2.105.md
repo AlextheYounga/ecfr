@@ -1,0 +1,3 @@
+##### § 302-2.105 When an employee transfers between Federal agencies, who is responsible for paying the employee's relocation expenses? #####
+
+When an employee transfers between Federal agencies, all allowable expenses must be paid from the funds of the agency that the employee is transferring to. However, in the case of a reduction in force or transfer of function, an agreement may be made between the agencies concerned as to what relocation allowances will be paid by either agency or split between them. This should include the payment of expenses for the extended storage of the employee's household goods when assigned to an isolated permanent duty station within CONUS or a transfer to, from, or between foreign countries.

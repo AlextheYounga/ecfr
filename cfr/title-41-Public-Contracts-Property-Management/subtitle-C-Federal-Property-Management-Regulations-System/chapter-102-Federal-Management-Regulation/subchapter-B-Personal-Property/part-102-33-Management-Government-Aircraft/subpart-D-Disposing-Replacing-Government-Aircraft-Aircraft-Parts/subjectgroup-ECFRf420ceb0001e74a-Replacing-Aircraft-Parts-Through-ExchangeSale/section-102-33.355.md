@@ -1,0 +1,3 @@
+##### § 102-33.355 May we exchange/sell aircraft parts through a reimbursable transfer to another executive agency or conduct a negotiated sale at fixed price to a State Agency for Surplus Property (SASP)? #####
+
+Yes, you may exchange/sell aircraft parts through a reimbursable transfer to another executive agency, or conduct a negotiated sale at fixed price to a SASP (see § 102-39.55 for more information).

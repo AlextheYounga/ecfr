@@ -1,0 +1,3 @@
+##### § 101-27.305 Disposition of long supply. #####
+
+Where efforts to reduce the inventory below the economic retention limit have been unsuccessful, appropriate disposition should be effected in accordance with subpart 101-43.3 of this chapter. Any remaining inventory which is within the economic retention limit shall be retained. However, the item shall be reviewed at least annually and efforts made to reduce the long supply inventory in accordance with § 101-27.303.

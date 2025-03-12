@@ -1,0 +1,3 @@
+##### § 102-173.45 Is there a registration charge for domain names? #####
+
+The General Services Administration (GSA) reserves the right to charge for domain names in order to recover cost of operations. For current registration charges, please visit the GSA Web site at *http://www.nic.gov.* GSA does not currently charge a fee. GSA has the authority to employ a system of collection that includes a one-time setup fee for new registrations, which will not exceed $1000, depending on the level of assistance that may be provided by GSA, and a recurring annual charge that will not exceed $500 for all dot-gov domains. The fees are based on anticipated costs for operating the registration service.

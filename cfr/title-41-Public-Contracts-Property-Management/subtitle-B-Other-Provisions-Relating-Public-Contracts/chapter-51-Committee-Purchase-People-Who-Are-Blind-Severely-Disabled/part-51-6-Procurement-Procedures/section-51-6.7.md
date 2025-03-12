@@ -1,0 +1,5 @@
+##### § 51-6.7 Orders in excess of nonprofit agency capability. #####
+
+(a) Nonprofit agencies are expected to furnish commodities on the Procurement List within the time frames specified by the Government. The nonprofit agency must have the necessary production facilities to meet normal fluctuations in demand.
+
+(b) Nonprofit agencies shall take those actions necessary to ensure that they can ship commodities within the time frames specified by the Government. In instances where the nonprofit agency determines that it cannot ship the commodity in the quantities specified by the required shipping date, it shall notify the central nonprofit agency and the contracting activity. The central nonprofit agency shall request a revision of the shipping schedule which the contracting activity should grant, if feasible, or the central nonprofit agency shall issue a purchase exception authorizing procurement from commercial sources as provided in § 51-5.4 of this chapter.

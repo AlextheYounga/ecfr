@@ -1,0 +1,3 @@
+##### § 102-74.485 Is there any limitation on the length of time of a permit? #####
+
+Yes, a permit may not be issued for a period of time in excess of 30 calendar days, unless specifically approved by the Regional Officer (as defined in § 102-71.20 of this chapter). After the expiration of a permit, Federal agencies may issue a new permit upon submission of a new application. In such a case, applicants may incorporate by reference all required information filed with the prior application.

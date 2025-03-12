@@ -1,0 +1,3 @@
+##### § 105-50.202-6 Communications services. #####
+
+GSA will continue to make its bulk rate circuit ordering services available for use by State and local governments. Under a revised tariff effective December 12, 1971, GSA will bill the State and local governments for their share of the TEL PAK costs. Services provided prior to December 12, 1971, will be billed by the contractors under the former arrangements. In addition, certain activities, such as surplus property agencies which have frequent communications with Federal agencies, will be given access to the Federal Telecommunications System switchboards.

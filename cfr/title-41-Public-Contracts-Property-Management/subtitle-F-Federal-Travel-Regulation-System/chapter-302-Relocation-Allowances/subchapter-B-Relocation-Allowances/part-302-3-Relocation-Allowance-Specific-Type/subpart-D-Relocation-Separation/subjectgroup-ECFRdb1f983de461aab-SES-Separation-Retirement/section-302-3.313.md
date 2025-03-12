@@ -1,0 +1,3 @@
+##### § 302-3.313 May I have my household goods transported from more than one location? #####
+
+Yes, you may have your household goods transported from more than one location. However, you will only receive reimbursement based on the cost of shipment from your official station, in one lot by the most economical route to the location where you elect to return. You will have to pay for any cost above what is authorized.

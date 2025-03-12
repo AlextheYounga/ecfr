@@ -1,0 +1,3 @@
+##### § 105-60.304 Public information handbook and index. #####
+
+GSA publishes a handbook for the public that identifies information regarding any matter described in § 105-60.302. This handbook also lists published information available from GSA and describes the procedures the public may use to obtain information using the Freedom of Information Act (FOIA). This handbook may be obtained without charge from any of the GSA FOIA offices listed in § 105-60.303(a), or at the GSA Internet Homepage (*http://www.gsa.gov/staff/c/ca/cai/links.htm*).

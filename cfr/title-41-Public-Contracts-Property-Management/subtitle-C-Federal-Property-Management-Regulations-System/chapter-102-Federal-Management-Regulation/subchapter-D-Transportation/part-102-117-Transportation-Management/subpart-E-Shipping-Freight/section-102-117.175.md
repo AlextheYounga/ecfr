@@ -1,0 +1,3 @@
+##### § 102-117.175 What factors do I consider to determine the mode of transportation? #####
+
+Your shipping urgency and any special handling requirements determine which mode of transportation you select. Each mode has unique requirements for documentation, liability, size, weight and delivery time. HAZMAT, radioactive, and other specialized cargo may require special permits and may limit your choices.

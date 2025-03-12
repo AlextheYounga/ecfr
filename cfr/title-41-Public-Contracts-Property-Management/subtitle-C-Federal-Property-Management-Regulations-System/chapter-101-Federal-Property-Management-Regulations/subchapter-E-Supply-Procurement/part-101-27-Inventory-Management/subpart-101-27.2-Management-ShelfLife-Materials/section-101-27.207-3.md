@@ -1,0 +1,5 @@
+##### § 101-27.207-3 Marking material to show extended shelf life. #####
+
+When the shelf-life period of Type II material (except for critical end-use items as described below) is extended, only the exterior containers of bulk stocks need be annotated or labeled to indicate the date of inspection and date material is to be reinspected. Individual units of issue not classified as having a critical end-use application are not required to be annotated or labeled as long as controls are established to preclude issuance of unserviceable material to a user. (A critical end-use item is any item which is essential to the preservation of life in emergencies; e.g., parachutes, marine life preservers, and certain drug products, or any item which is essential to the performance of a major system; e.g., aircraft, the failure of which would cause damage to the system or endanger personnel.) At the time of shipment, the date of inspection and date for reinspection shall be affixed by label or marked by other means on each unit of issue of Type II items having a critical end-use application.
+
+[42 FR 61861, Dec. 7, 1977]

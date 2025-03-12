@@ -1,0 +1,3 @@
+##### § 109-50.102 General. #####
+
+DOE, to encourage research and development in the field of energy, awards grants of excess Laboratory Equipment Donation Program to eligible institutions for use in energy-oriented educational programs. Under the Used Laboratory Equipment Donation Program (LEDP) Grant Program, grants of used energy-related equipment excess to the requirements of DOE offices and designated contractors may be made to eligible institutions prior to reporting the equipment to GSA for reutilization screening.

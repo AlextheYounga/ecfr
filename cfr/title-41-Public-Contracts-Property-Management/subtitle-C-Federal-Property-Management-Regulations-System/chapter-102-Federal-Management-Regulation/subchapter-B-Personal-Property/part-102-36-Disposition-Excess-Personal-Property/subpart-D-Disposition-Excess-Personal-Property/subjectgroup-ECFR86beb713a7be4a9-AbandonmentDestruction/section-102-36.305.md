@@ -1,0 +1,3 @@
+##### § 102-36.305 May we abandon or destroy excess personal property without reporting it to GSA? #####
+
+Yes, you may abandon or destroy excess personal property when you have made a written determination that the property has no commercial value or the estimated cost of its continued care and handling would exceed the estimated proceeds from its sale. An item has no commercial value when it has neither utility nor monetary value (either as an item or as scrap).

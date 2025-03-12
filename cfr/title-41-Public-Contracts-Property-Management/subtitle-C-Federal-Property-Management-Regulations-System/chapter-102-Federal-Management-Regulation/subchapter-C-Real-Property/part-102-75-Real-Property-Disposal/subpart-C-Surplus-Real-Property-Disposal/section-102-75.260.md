@@ -1,0 +1,3 @@
+##### § 102-75.260 When may the disposal agency dispose of surplus real property by exchange for privately owned property? #####
+
+The disposal agency may dispose of surplus real property by exchange for privately owned property for property management considerations such as boundary realignment or for providing access. The disposal agency may also dispose of surplus real property by exchange for privately owned property where authorized by law, when the requesting Federal agency receives approval from the Office of Management and Budget and the appropriate oversight committees, and where the transaction offers substantial economic or unique program advantages not otherwise obtainable by any other acquisition method.

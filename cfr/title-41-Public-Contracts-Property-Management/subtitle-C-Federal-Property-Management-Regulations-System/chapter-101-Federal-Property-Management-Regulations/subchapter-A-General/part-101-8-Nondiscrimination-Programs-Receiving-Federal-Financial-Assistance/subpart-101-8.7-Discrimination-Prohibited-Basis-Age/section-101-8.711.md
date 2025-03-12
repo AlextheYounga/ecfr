@@ -1,0 +1,3 @@
+##### § 101-8.711 General responsibilities. #####
+
+Each recipient of Federal financial assistance from GSA is responsible for ensuring that its programs or activities comply with the Act and this regulation and must take steps to eliminate violations of the Act. A recipient is also responsible for maintaining records, providing information, and affording GSA access to its records to the extent GSA finds necessary to determine whether the recipient is complying with the Act and this regulation.

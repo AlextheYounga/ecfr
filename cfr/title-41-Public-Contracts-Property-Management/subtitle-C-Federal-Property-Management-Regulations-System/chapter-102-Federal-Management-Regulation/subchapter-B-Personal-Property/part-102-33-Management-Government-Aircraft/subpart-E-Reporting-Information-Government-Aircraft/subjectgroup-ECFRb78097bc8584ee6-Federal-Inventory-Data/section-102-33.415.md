@@ -1,0 +1,3 @@
+##### § 102-33.415 When may we declassify a Federal aircraft and remove it from our Federal aircraft inventory? #####
+
+When an aircraft is lost or destroyed, or is otherwise non-operational and you want to retain it, you may declassify it and remove it from your Federal aircraft inventory. For further details, see §§ 102-33.250 and 102-33.420. See §§ 102-33.265 and 102-33.270 for reporting excess Federal aircraft.

@@ -1,0 +1,3 @@
+##### § 102-118.530 Will GSA instruct my agency's disbursing offices to offset unpaid TSP billings? #####
+
+Yes, GSA will instruct one or more of your agency's disbursing offices to deduct the amount due from an unpaid TSP's bill. A 3-year limitation applies on the deduction of overcharges from amounts due a TSP (31 U.S.C. 3726) and a 10-year limitation applies on the deduction of ordinary debts (31 U.S.C. 3716).

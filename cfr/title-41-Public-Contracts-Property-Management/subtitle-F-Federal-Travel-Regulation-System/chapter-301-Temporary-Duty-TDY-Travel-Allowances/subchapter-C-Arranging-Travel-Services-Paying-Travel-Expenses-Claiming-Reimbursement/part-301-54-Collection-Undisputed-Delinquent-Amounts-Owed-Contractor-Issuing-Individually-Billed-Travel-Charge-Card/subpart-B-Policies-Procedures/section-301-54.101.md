@@ -1,0 +1,3 @@
+##### § 301-54.101 Can my agency initiate collection of undisputed delinquent amounts if it has not reimbursed me for amounts reimbursable under the applicable travel regulations? #####
+
+No, your agency may only collect undisputed delinquent amounts for which you have been reimbursed under the applicable travel regulations. However, if you have not submitted a proper travel claim within the timeframe requirements of § 301-52.7 of this chapter, and there are no extenuating circumstances, your agency may collect the undisputed delinquent amounts based on the amounts charged on the travel charge card.

@@ -1,0 +1,3 @@
+##### § 302-17.4 Why is the reimbursement for substantially all, and not exactly all, of the additional income taxes incurred as a result of a relocation? #####
+
+Because of the complexity of the calculations, which involve not only Federal income tax but also the income tax rates of many states and localities, it is not reasonable for the Government to compute the exact impact of relocation on an affected employee's taxes. Making a good faith effort to reimburse substantially all additional income taxes is sufficient. The statute where this appears, at 5 U.S.C. 5724b does not define substantially all. This Part provides the description through its provisions.

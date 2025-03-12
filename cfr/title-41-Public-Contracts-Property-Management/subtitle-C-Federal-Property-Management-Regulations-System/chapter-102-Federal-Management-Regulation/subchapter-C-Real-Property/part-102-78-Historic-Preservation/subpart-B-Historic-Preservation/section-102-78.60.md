@@ -1,0 +1,3 @@
+##### § 102-78.60 When leasing space, are Federal agencies able to give preference to space in historic properties or districts? #####
+
+Yes, Executive Order 13006 requires Federal agencies that have a mission requirement to locate in an urban area to give first consideration to space in historic buildings and districts inside central business areas. Agencies may give a price preference of up to 10 percent to space in historic buildings and districts, in accordance with §§ 102-73.120 and 102-73.125 of this chapter.

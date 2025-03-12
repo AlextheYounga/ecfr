@@ -1,0 +1,3 @@
+##### § 102-74.405 What is the policy concerning the use of alcoholic beverages? #####
+
+Except where the head of the responsible agency or his or her designee has granted an exemption in writing for the appropriate official use of alcoholic beverages, all persons entering in or on Federal property are prohibited from being under the influence or using alcoholic beverages. The head of the responsible agency or his or her designee must provide a copy of all exemptions granted to the buildings manager and the highest ranking representative of the law enforcement organization, or other authorized officials, responsible for the security of the property.

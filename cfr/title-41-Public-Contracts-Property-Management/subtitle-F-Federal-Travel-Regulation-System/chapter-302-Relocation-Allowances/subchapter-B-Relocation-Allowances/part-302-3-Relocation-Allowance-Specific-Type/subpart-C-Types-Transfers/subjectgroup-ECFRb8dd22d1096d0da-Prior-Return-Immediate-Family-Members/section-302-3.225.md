@@ -1,0 +1,3 @@
+##### § 302-3.225 If my immediate family member(s) return to the U.S. before me, will I be reimbursed for transporting part of my household goods with my family and the rest of my household goods when I return? #####
+
+Yes, if your family member(s) return to the U.S. before you, you will be reimbursed for transporting part of your household goods with your family and the rest of the household goods when you return as long as the combined weight of the two shipments does not exceed your total authorized weight limit.

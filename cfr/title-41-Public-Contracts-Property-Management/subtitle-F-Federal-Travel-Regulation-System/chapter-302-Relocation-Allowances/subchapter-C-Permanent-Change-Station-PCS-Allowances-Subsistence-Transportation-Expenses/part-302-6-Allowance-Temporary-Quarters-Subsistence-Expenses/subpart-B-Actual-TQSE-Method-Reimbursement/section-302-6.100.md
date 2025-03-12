@@ -1,0 +1,14 @@
+##### § 302-6.100 What am I paid under the actual TQSE reimbursement method? #####
+
+Your agency will pay your actual TQSE incurred, provided the expenses are reasonable and do not exceed the maximum allowable amount. The “maximum allowable amount” is the “maximum daily amount” multiplied by the number of days you actually incur TQSE not to exceed the number of days authorized, taking into account that the rates change after 30 days in temporary quarters. The “maximum daily amount” is determined by adding the rates in the following table for you and each member of your immediate family authorized to occupy temporary quarters:
+
+|                                                                                   |                      The “maximum daily amount” of TQSE under the actual expense method that                       |                                                                    |                                      |
+|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|
+|You and/or your unaccompanied spouse or domestic partner<sup>1</sup> may receive is|Your accompanied spouse, domestic partner or a member of your immediate family who is age 12 or older may receive is|A member of your immediate family who is under age 12 may receive is|                                      |
+|                                       For:                                        |                                                                                                                    |                                                                    |                                      |
+|                      The first 30 days of temporary quarters                      |                                            The applicable per diem rate                                            |               .75 times the applicable per diem rate               |.5 times the applicable per diem rate.|
+|                     Any additional days of temporary quarters                     |                                       .75 times the applicable per diem rate                                       |               .5 times the applicable per diem rate                |.4 times the applicable per diem rate.|
+
+<sup>1</sup> (That is, when the spouse or domestic partner necessarily occupies temporary quarters in lieu of the employee or in a location separate from the employee.)
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2010-06, 75 FR 67631, Nov. 3, 2010]

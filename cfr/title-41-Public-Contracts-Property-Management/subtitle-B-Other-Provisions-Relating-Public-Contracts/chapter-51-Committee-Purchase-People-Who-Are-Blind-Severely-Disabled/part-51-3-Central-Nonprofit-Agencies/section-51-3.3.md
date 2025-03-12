@@ -1,0 +1,13 @@
+##### § 51-3.3 Assignment of commodity or service. #####
+
+(a) The central nonprofit agencies shall determine by mutual agreement the assignment to one of them of a commodity or service for the purpose of evaluating its potential for possible future addition to the Procurement List, except that the Committee shall initially assign a commodity to National Industries for the Blind when NISH has expressed an interest in the commodity and National Industries for the Blind has exercised the blind priority.
+
+(b) NISH shall provide National Industries for the Blind with procurement information necessary for a decision to exercise or waive the blind priority when it requests a decision. National Industries for the Blind shall normally notify NISH of its decision within 30 days, but not later than 60 days after receipt of the procurement information, unless the two central nonprofit agencies agree to an extension of time for the decision. Disagreements on extensions shall be referred to the Committee for resolution.
+
+(c) If National Industries for the Blind exercises the blind priority for a commodity, it shall immediately notify the Committee and NISH and shall submit to the Committee a proposal to add the commodity to the Procurement List within nine months of the notification, unless the Committee extends the assignment period because of delays beyond the control of National Industries for the Blind. Upon expiration of the assignment period, the Committee shall reassign the commodity to NISH.
+
+(d) The central nonprofit agency assigned a commodity shall obtain a decision from Federal Prison Industries on the exercise or waiver of its priority and shall submit the procurement information required by Federal Prison Industries when it requests the decision. Federal Prison Industries shall normally notify the central nonprofit agency of its decision within 30 days, but not later than 60 days after receipt of the procurement information, unless it agrees with the central nonprofit agency on an extension of time for the decision. The central nonprofit agency shall refer a disagreement over an extension to the Committee for resolution with Federal Prison Industries.
+
+(e) The central nonprofit agency shall provide the Committee the decision of Federal Prison Industries on the waiver or exercise of its priority when it requests the addition of the commodity to the Procurement List. NISH shall also provide the decision of National Industries for the Blind waiving its priority.
+
+[59 FR 59342, Nov. 16, 1994]

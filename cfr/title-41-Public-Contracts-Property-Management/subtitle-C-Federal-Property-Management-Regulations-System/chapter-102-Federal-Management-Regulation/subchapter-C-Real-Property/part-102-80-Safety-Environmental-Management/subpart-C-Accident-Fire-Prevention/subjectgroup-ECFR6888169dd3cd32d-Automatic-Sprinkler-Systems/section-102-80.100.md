@@ -1,0 +1,3 @@
+##### § 102-80.100 What performance objective should an automatic sprinkler system be capable of meeting? #####
+
+The performance objective of the automatic sprinkler system is that it must be capable of protecting human lives. Sprinklers should be capable of controlling the spread of fire and its effects beyond the room of origin. A functioning sprinkler system should activate prior to the onset of flashover.

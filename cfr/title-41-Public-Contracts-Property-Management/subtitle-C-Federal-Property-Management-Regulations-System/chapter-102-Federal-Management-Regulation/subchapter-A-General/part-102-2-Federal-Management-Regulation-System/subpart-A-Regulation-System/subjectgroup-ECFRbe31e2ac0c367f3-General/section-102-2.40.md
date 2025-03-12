@@ -1,0 +1,3 @@
+##### § 102-2.40 May an agency issue implementing and supplementing regulations for the FMR? #####
+
+Yes, an agency may issue implementing regulations (see § 102-2.50) to expand upon related FMR material and supplementing regulations (see § 102-2.55) to address subject material not covered in the FMR. The Office of the Federal Register assigns chapters in Title 41 of the Code of Federal Regulations for agency publication of implementing and supplementing regulations.

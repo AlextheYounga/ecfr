@@ -1,0 +1,3 @@
+##### § 102-78.20 Are Federal agencies required to identify historic properties? #####
+
+Yes, Federal agencies must identify all National Register or National Register-eligible historic properties under their control. In addition, Federal agencies must apply National Register Criteria (36 CFR part 63) to properties that have not been previously evaluated for National Register eligibility and that may be affected by the undertakings of Federally sponsored activities.

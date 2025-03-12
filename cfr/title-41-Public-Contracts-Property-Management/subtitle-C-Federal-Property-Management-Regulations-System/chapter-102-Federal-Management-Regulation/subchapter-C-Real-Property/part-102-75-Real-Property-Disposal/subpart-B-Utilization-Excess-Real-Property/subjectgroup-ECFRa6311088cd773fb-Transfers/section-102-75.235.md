@@ -1,0 +1,3 @@
+##### § 102-75.235 May disposal agencies transfer excess property to the Senate, the House of Representatives, and the Architect of the Capitol? #####
+
+Yes, disposal agencies may transfer excess property to the Senate, the House of Representatives, and the Architect of the Capitol and any activities under his or her direction, pursuant to the provisions of 40 U.S.C. 113(d). The amount of reimbursement for such transfer must be the same as would be required for a transfer of excess property to an Executive agency under similar circumstances.

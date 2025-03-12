@@ -1,0 +1,3 @@
+##### § 109-45.5101 Authority. #####
+
+The policies and procedures contained in this subpart are issued pursuant to the provisions of the Federal Property and Administrative Services Act of 1949, former 40 U.S.C. *et seq*., as amended. Title IV of the Act entitled “Foreign Excess Property” provides that, except where commitments exist under previous agreements, all excess personal property located in foreign areas shall be disposed of by the owning agency, and directs that the head of the agency conform to the foreign policy of the United States in making such disposals in accordance 41 CFR 102-36.

@@ -1,0 +1,5 @@
+##### § 102-40.120 What precautions must we take during the sales process for personal property requiring special handling? #####
+
+(a) It is your responsibility to prepare items with special handling requirements for sale, provide all necessary information to ensure that prospective bidders are informed of hazards and special processing requirements, and identify precautions that bidders should take to protect themselves while inspecting, packing or moving items with special handling requirements. You must make any safety gear or equipment needed during the sales process available to prospective bidders and others involved in the inspection, packing or moving of these items.
+
+(b) Unless authorized by the appropriate GSA regional office, you must not sell extremely hazardous property unless the property is rendered innocuous or adequate safeguards are provided. Such property must be rendered innocuous in a manner so as to preserve the utility or commercial value of the property.

@@ -1,0 +1,9 @@
+##### § 60-30.10 Production of documents and things and entry upon land for inspection and other purposes. #####
+
+(a) After commencement of the action, any party may serve on any other party a request to produce and/or permit the party, or someone acting on his behalf, to inspect and copy any unprivileged documents, phonorecords, and other compilations, including computer tapes and printouts which contain or may lead to relevant information and which are in the possession, custody, or control of the party upon whom the request is served. If necessary, translation of data compilations shall be done by the party furnishing the information.
+
+(b) After commencement of the action, any party may serve on any other party a request to permit entry upon designated property which may be relevant to the issues in the proceeding and, which is in the possession or control of the party upon whom the request is served for the purpose of inspection, measuring, surveying or photographing, testing, or sampling the property or any designated object or area.
+
+(c) Each request shall set forth with reasonable particularity the items to be inspected and shall specify a reasonable time and place for making the inspection and performing the related acts.
+
+(d) The party upon whom the request is served shall respond within 25 days after the service of the request. The response shall state, with respect to each item, that inspection and related activities will be permitted as requested, unless there are objections, in which case the reasons for each objection shall be stated. The party submitting the request may move for an order with respect to any objection or to other failure to respond.

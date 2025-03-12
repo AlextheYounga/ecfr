@@ -1,0 +1,3 @@
+##### § 102-75.870 Who is responsible for enforcing compliance with the terms and conditions of the port facility conveyance? #####
+
+DOT is responsible for enforcing compliance with the terms and conditions of conveyance, including reforming, correcting, or amending any instrument of conveyance; granting releases; and taking any necessary actions to recapture the property following the provisions of 40 U.S.C. 554(f). Any of these actions are subject to the approval of the head of the disposal agency. DOT must notify the head of the disposal agency of its intent to take any proposed action, identify the property affected, and describe in detail the proposed action, including the reasons for the proposed action.

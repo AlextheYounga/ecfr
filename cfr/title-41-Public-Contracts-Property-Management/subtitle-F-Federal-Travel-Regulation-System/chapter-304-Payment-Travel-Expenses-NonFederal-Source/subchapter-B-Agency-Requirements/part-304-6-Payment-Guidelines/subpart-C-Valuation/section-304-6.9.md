@@ -1,0 +1,3 @@
+##### § 304-6.9 Does acceptance by OGE of the Standard Form (SF) 326 constitute a determination by OGE that the data submitted is adequate or a concurrence by OGE in the agency's conflict of interest analysis? #####
+
+No. OGE is responsible for making the information provided by the agencies available to the public. It is each agency's responsibility to file the accurate and complete reports and to make the appropriate conflict of interest analysis.

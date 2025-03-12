@@ -1,0 +1,3 @@
+##### § 102-80.50 Are Federal agencies responsible for identifying/estimating risks and for appropriate risk reduction strategies? #####
+
+Yes, Federal agencies must identify and estimate safety and environmental management risks and appropriate risk reduction strategies for buildings. Federal agencies occupying as well as operating buildings must identify any safety and environmental management risks and report or correct the situation, as appropriate. Federal agencies must use the applicable national codes and standards as a guide for their building operations.

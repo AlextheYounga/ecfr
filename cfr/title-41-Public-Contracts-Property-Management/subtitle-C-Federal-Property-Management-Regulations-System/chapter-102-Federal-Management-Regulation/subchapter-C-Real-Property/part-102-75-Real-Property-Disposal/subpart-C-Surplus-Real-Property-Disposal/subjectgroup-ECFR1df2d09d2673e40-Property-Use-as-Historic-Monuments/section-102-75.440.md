@@ -1,0 +1,3 @@
+##### § 102-75.440 Who must disposal agencies notify that surplus property is available for historic monument use? #####
+
+Disposal agencies must notify State and area wide clearinghouses and eligible public agencies that property that may be conveyed for use as a historic monument has been determined to be surplus. A copy of the landholding agency's Report of Excess Real Property (Standard Form 118) with accompanying schedules must be transmitted with the copy of each notice that is sent to the appropriate regional or field offices of the National Park Service (NPS) of the Department of the Interior (DOI).

@@ -1,0 +1,9 @@
+##### § 105-54.104 Responsibilities. #####
+
+(a) Responsibility for coordination and control of committee management in GSA is vested in the Associate Administrator for Administration, who serves as the GSA Committee Management Officer (CMO). This Officer carries out the functions prescribed in section 8(b) of the Federal Advisory Committee Act. In doing so, the Officer controls and supervises the establishment, procedures, and accomplishments of GSA-sponsored advisory committees. The Organization and Productivity Improvement Division, Office of Management Services, Office of Administration, provides staff resources and furnishes the Staff Contact Person (SCP) to the CMO.
+
+(b) The Head of each Service and Staff Office and each Regional Administrator selects a Committee Management Officer (CMO) to coordinate and control committee management within the service, staff office, or regional office and to act as liaison to the GSA Committee Management Officer. The duties of the CMOs are as follows:
+
+(1) Assemble and maintain the reports, records, and other papers of any GSA-sponsored committee during its existence (Arrangements may be made, however, for the Government chairperson or other GSA representative to retain custody of reports, records, and other papers to facilitate committee operations. After the committee is terminated, all committee records are disposed of following existing regulations.); and
+
+(2) Under agency regulations in 41 CFR 105-60, carry out the provisions of 5 U.S.C. 552 with respect to the reports, records, and other papers of GSA-sponsored advisory committees.

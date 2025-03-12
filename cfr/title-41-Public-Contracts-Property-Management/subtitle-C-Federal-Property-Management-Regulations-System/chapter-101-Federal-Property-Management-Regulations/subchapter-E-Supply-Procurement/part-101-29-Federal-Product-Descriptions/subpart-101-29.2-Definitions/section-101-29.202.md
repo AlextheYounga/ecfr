@@ -1,0 +1,3 @@
+##### § 101-29.202 Standard. #####
+
+A *standard* is a document that establishes engineering and technical requirements for items, processes, procedures, practices, and methods that have been adopted as customary. Standards may also establish requirements for selection, application, and design criteria so as to achieve the highest practical degree of uniformity in materials or products, or interchangeability of parts used within or on those products.

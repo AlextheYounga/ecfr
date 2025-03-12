@@ -1,0 +1,3 @@
+##### § 102-36.255 What options do we have when unusual circumstances do not allow adequate time for disposal through GSA? #####
+
+Contact your regional GSA Personal Property Management office for any existing interagency agreements that would allow you to turn in excess personal property to a federal facility. You are responsible for any turn in costs and all costs related to transporting the excess personal property to these facilities.

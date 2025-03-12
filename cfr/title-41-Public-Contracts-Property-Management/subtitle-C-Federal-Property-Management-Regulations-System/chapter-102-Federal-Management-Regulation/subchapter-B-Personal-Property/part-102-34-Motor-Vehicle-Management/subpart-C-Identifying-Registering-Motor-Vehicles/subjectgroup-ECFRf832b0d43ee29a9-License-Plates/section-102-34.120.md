@@ -1,0 +1,3 @@
+##### § 102-34.120 Do we need to register Government motor vehicles? #####
+
+If the Government motor vehicle displays U.S. Government license plates and motor vehicle identification, you do not need to register it in the jurisdiction where the vehicle is operated, however, you must register it in the Federal Government Motor Vehicle Registration System. GSA Fleet may register motor vehicles leased from GSA Fleet. Motor vehicles that have been exempted from the requirement to display official U.S. Government license plates under section § 102-34.160, § 102-34.175 or § 102-34.180 must be registered and inspected in accordance with the laws of the jurisdiction where the motor vehicle is regularly operated.

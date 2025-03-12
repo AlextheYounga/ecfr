@@ -1,0 +1,3 @@
+##### § 302-3.417 Will I have to pay any income tax if my agency pays for extended storage of my household goods? #####
+
+You will be subject to income taxes on the amount of extended storage expenses your agency pays. However, your agency will pay you a relocation income tax allowance under part 302-17 of this chapter for substantially all of the additional Federal, State and local income taxes you incur on the expenses your agency pays.

@@ -1,0 +1,34 @@
+##### § 101-26.602-4 Procurement of coal. #####
+
+(a) Federal agencies desiring to participate in the Defense Fuel Supply Center coal contracting program for carload delivery outside the District of Columbia and vicinity may obtain coal through this program by submitting estimates as provided in this § 101-26.602-4.
+
+(b) Estimates of coal requirements shall be prepared on DD Form 416, Requisition for Coal, Coke, or Briquettes (illustrated as § 101-26.4904-416), clearly marked “Estimate Only”, and submitted in original and one copy to arrive at the Defense Fuel Supply Center, Cameron Station, Alexandria, Va. 22314, before the following requirement due dates:
+
+|                                             Purchase program                                             |                                               For activities located in                                                |Requirements due in DFSC by|For delivery beginning|
+|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------|
+|                                                   5.5                                                    |           Indiana, Illinois, Iowa, Kansas, Missouri, South Dakota, West Tennessee, West Kentucky, Wisconsin            |          June 1           |     December 1.      |
+|                                              5.9 (Lignite)                                               |                                                      North Dakota                                                      |         ......do          |          Do.         |
+|                                                   5.3                                                    |          Alabama, East Kentucky, East Tennessee, Ohio, Georgia, North Carolina, South Carolina, West Virginia          |         August 15         |       April 1.       |
+|                                             5.8 (Anthracite)                                             |Connecticut, District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Virginia, South Carolina|        November 1         |        May 1.        |
+|                                                   5.4                                                    |                                      Michigan, Minnesota, North Dakota, Wisconsin                                      |         ......do          |          Do.         |
+|                                                   5.7                                                    |                                                         Alaska                                                         |         ......do          |          Do.         |
+|                                                   5.2                                                    |                           District of Columbia, Maryland, New Jersey, Pennsylvania, Virginia                           |        January 15         |      August 1.       |
+|                                                   5.1                                                    |                          Connecticut, Maine, Massachusetts, New Hampshire, New York, Vermont                           |          April 1          |      October 1.      |
+|                                                   5.6                                                    |              Arizona, California, Colorado, Idaho, Montana, New Mexico, Oregon, Utah, Washington, Wyoming              |         ......do          |          Do.         |
+|**Note:** Except for purchase programs 5.8 and 5.9 all programs refer to requirements for bituminous coal.|                                                                                                                        |                           |                      |
+
+(1) A separate requirement form shall be prepared for each delivery point and for each size and kind of coal, such as bituminous, anthracite, or lignite. The purchase program number is to be entered in the upper right hand block of DD Form 416.
+
+(2) The section of DD Form 416 entitled “Analytical Specifications Required” shall reflect minimum requirements based on heating engineering data applicable to the particular equipment in which the coal will be used.
+
+(c) Contractual information covering these requirements will be furnished each participating agency by the Defense Fuel Supply Center after contracts are awarded. As shipments of coal are required, each activity shall direct the contractor to make delivery. Payment for deliveries shall be arranged for by the ordering activity directly with the contractor. Should estimated requirements not be needed due to changes or conversions in heating equipment or other reasons, activities shall notify the Defense Fuel Supply Center of such changes as soon as possible.
+
+(d) Copies of DD Form 416 may be obtained from: Commander, Defense Fuel Supply Center, Attention: DFSC:PE, Cameron Station, Alexandria, VA 22314.
+
+(e) Requirements for coal at locations other than as identified in this § 101-26.602-4 may be obtained by submitting requests directly to the Defense Fuel Supply Center, if centralized procurement is desired.
+
+(f) Each participating agency may elect to collect coal samples, for analysis purposes, in accordance with the latest edition of the Handbook on Coal Sampling issued by the Department of the Interior, Bureau of Mines. Copies of this Handbook on Coal Sampling may be obtained upon request from: Coal Sampling and Inspection, Division of Mineral Studies, U.S. Bureau of Mines, College Park, Md. 20740.
+
+(g) Coal samples shall be forwarded by the agency to the Bureau of Mines, 4800 Forbes Avenue, Pittsburgh, Pa. 15213. A charge for each sample submitted will be assessed by the Bureau of Mines for performing such analysis, or agencies may enter into an agreement with the Bureau of Mines for services and testing on an annual flat rate basis. Agencies shall furnish the Bureau of Mines laboratory complete billing instructions at the time samples are submitted. Copies of the results of each analysis will be furnished by the Bureau of Mines to offices responsible for payment for comparison with the analytical limits guaranteed by the contractor. In the event that the sample does not meet the minimum requirements of the analytical limits specified in the contract, the using agency shall compute the amount, if any, to be deducted from the contract price.
+
+[34 FR 19978, Dec. 20, 1969, as amended at 42 FR 58749, Nov. 11, 1977]

@@ -1,0 +1,3 @@
+##### § 102-73.85 Can agencies with independent statutory authority to lease space have GSA perform the leasing functions? #####
+
+Yes, upon request, GSA may perform, on a reimbursable basis, all functions of leasing building space, and land incidental thereto, for Federal agencies possessing independent statutory authority to lease space. However, GSA reserves the right to accept or reject reimbursable leasing service requests on a case-by-case basis.

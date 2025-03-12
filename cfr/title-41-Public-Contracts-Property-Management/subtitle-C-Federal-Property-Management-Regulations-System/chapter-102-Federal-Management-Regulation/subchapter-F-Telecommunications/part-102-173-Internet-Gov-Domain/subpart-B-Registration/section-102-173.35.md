@@ -1,0 +1,5 @@
+##### § 102-173.35 Who authorizes domain names? #####
+
+Domain names must be authorized by the Chief Information Officer (CIO) of the requesting or sponsoring governmental organization. For Federal departments and agencies, the General Services Administration (GSA) will accept authorization from the CIO of the department or agency. For independent Federal government agencies, boards, and commissions, GSA will accept authorization from the highest-ranking Information Technology Official. For State and local governments, GSA will accept authorization from appropriate State or local officials, see § 102-173.40.
+
+For Native Sovereign Nations, GSA will only accept authorization from the Bureau of Indian Affairs, Department of the Interior. In most cases, GSA will not make determinations on the appropriateness of the selected domain names, but reserves the right to not assign domain names on a case-by-case basis. Non-Federal government domain names must follow the naming conventions described in §§ 102-173.50 through 102-173.65. For other government entities, CIO's may delegate this authority by notification to GSA.

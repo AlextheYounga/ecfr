@@ -1,0 +1,3 @@
+##### § 102-194.35 Should I create electronic Standard or Optional forms? #####
+
+Yes, you should create electronic Standard or Optional forms, especially when forms are used to collect information from the public. GSA will not approve a new or revision to a Standard or Optional form unless an electronic form is being made available. Only forms covered by § 102-194.40 are exempt from this requirement. Furthermore, you should to the extent possible, use electronic form products and services that are based on open standards. However, the use of proprietary products is permitted, provided that the end user is not required to purchase a specific product or subscription to use the electronic Standard or Optional form.

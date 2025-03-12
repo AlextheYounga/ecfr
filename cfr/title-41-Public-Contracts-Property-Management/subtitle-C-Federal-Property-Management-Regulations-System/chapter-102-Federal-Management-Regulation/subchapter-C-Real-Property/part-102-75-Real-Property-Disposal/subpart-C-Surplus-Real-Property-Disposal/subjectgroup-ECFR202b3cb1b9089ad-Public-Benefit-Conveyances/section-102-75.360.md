@@ -1,0 +1,5 @@
+##### § 102-75.360 What wording must be in the non-discrimination clause that is required in the offer to purchase and in the conveyance document? #####
+
+The wording of the non-discrimination clause must be as follows:
+
+The Grantee covenants for itself, its heirs, successors, and assigns and every successor in interest to the property hereby conveyed, or any part thereof, that the said Grantee and such heirs, successors, and assigns shall not discriminate upon the basis of race, creed, color, religion, sex, disability, age, or national origin in the use, occupancy, sale, or lease of the property, or in their employment practices conducted thereon. This covenant shall not apply, however, to the lease or rental of a room or rooms within a family dwelling unit; nor shall it apply with respect to religion to premises used primarily for religious purposes. The United States of America shall be deemed a beneficiary of this covenant without regard to whether it remains the owner of any land or interest therein in the locality of the property hereby conveyed and shall have the sole right to enforce this covenant in any court of competent jurisdiction.

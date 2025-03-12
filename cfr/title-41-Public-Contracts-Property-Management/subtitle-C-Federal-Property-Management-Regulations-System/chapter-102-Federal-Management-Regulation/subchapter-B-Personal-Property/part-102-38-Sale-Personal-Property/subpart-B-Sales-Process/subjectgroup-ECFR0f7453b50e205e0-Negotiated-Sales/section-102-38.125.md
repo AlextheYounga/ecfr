@@ -1,0 +1,3 @@
+##### § 102-38.125 May we sell personal property at fixed prices to State agencies? #####
+
+Yes, before offering to the public, you may offer the property at fixed prices (through the State Agencies for Surplus Property) to any States, territories, possessions, political subdivisions thereof, or tax-supported agencies therein, which have expressed an interest in obtaining the property. For additional information, see subpart G of this part.

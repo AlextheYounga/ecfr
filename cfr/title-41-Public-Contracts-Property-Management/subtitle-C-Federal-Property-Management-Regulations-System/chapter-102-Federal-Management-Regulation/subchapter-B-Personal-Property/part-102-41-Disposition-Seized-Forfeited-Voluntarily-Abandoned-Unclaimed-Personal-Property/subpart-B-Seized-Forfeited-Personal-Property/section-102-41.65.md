@@ -1,0 +1,3 @@
+##### § 102-41.65 What happens to forfeited personal property that is transferred or retained for official use? #####
+
+Except for drug paraphernalia (see §§ 102-41.210 through 102-41.235), forfeited personal property retained for official use or transferred to another Federal agency under this subpart loses its identity as forfeited property. When no longer required for official use, you must report it to GSA as excess for disposal in accordance with part 102-36 of this subchapter B. You must follow the additional provisions of subpart E of this part and part 101-42 of Chapter 101, Federal Property Management Regulations in this title when disposing of firearms, distilled spirits, wine, beer, and drug paraphernalia.

@@ -1,0 +1,3 @@
+##### § 60-30.22 Official transcript. #####
+
+The official transcripts of testimony taken, together with any exhibits, briefs, or memorandums of law, shall be filed with the Administrative Law Judge. Transcripts of testimony may be obtained from the official reporter by the parties and the public as provided in section 11(a) of the Federal Advisory Committee Act (86 Stat. 770). Upon notice to all parties, the Administrative Law Judge may authorize such corrections to the transcript as are necessary to reflect accurately the testimony.

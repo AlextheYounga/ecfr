@@ -1,0 +1,3 @@
+##### § 60-741.43 Affirmative action policy. #####
+
+Under the affirmative action obligations imposed by the act, contractors shall not discriminate because of physical or mental disability and shall take affirmative action to employ and advance in employment qualified individuals with disabilities at all levels of employment, including the executive level. Such action shall apply to all employment activities set forth in § 60-741.20.

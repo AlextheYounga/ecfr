@@ -1,0 +1,3 @@
+##### § 51-9.403 Approval of requests to amend. #####
+
+If the Executive Director agrees to amend a record, he promptly shall make the necessary corrections to the record and shall send a copy of the corrected record to the individual. Where an accounting of disclosure has been maintained, he shall advise all previous recipients of the record of the fact that a correction was made of/and the substance of the correction. Where practicable, the Executive Director shall send a copy of the corrected record to previous recipients.

@@ -1,0 +1,3 @@
+##### § 105-56.028 Salary offset. #####
+
+When a match occurs and all other requirements for offset have been met, as required by the provisions of 31 U.S.C. 3716(c), the disbursing official will offset the GSA employee's or cross-serviced agency employee's salary payment to satisfy, in whole or part, the debt owed by the employee. Alternatively, the GSA National Payroll Center, serving as the paying agency, on behalf of the disbursing official, may deduct the amount of the offset from an employee's disposable pay before the employee's salary payment is certified to a disbursing official for disbursement.

@@ -1,0 +1,5 @@
+##### § 101-39.101-1 Agency cooperation. #####
+
+(a) As provided by Executive Order 10579, the head of each executive agency receiving notice that GSA will conduct a study will designate representatives with whom members of the GSA staff may consult and who will furnish information and assistance to the GSA staff, including reasonable opportunities to observe motor vehicle operations and facilities and to examine pertinent cost and other records. Such information shall include the inventory, management, operation, maintenance, and storage of motor vehicles, motor vehicle facilities, and motor vehicle services in the area, including location, use, need, cost, and personnel involved.
+
+(b) In the absence of recorded information, GSA will assist in preparing agency estimates, if requested, or will develop the necessary data.

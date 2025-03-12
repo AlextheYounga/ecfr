@@ -1,0 +1,3 @@
+##### § 105-64.302 How will I be denied access? #####
+
+If you request access to a record in an exempt system of records, the system manager will consult with the Head of Service or Staff Office or Regional Administrator or their representatives, legal counsel, and other officials as appropriate, to determine if all or part of the record may be disclosed. If the decision is to deny access, the system manager will provide a written notice to you giving the reason for the denial and your appeal rights.

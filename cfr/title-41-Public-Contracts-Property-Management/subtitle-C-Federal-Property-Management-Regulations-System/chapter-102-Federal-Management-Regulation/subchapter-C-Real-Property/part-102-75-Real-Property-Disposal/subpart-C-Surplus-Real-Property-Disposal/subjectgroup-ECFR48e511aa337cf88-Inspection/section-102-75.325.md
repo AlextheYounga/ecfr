@@ -1,0 +1,3 @@
+##### § 102-75.325 What responsibility does the landholding agency have to provide persons the opportunity to inspect available surplus property? #####
+
+Landholding agencies should provide all persons interested in acquiring available surplus property with the opportunity to make a complete inspection of the property, including any available inventory records, plans, specifications, and engineering reports that relate to the property. These inspections are subject to any necessary national security restrictions and are subject to the disposal agency's rules. (See §§ 102-75.335 and 102-75.985.)

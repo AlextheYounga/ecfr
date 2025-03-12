@@ -1,0 +1,3 @@
+##### § 105-54.000 Scope of part. #####
+
+This part sets forth policies and procedures in GSA regarding the establishment, operation, termination, and control of advisory committees for which GSA has responsibility. It implements the Federal Advisory Committee Act (Pub. L. 92-463), which authorizes a system governing the establishment and operation of advisory committees in the executive branch of the Federal Government, and Executive Order 11686 of October 7, 1972, which directs the heads of all executive departments and agencies to take appropriate action to ensure their ability to comply with the provisions of the Act.

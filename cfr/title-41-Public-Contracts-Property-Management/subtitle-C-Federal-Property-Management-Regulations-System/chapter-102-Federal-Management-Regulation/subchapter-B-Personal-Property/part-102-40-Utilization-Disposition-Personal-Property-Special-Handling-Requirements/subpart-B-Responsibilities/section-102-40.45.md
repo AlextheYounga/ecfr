@@ -1,0 +1,3 @@
+##### § 102-40.45 What must we do when we have identified personal property with special handling requirements? #####
+
+You must properly mark, tag, or label personal property with special handling requirements in accordance with applicable Federal law, including the Occupational Safety and Health Administration requirements (29 CFR 1910.1200), regarding the actual or potential hazard associated with the property, and ensure that such information is maintained and perpetuated in the official agency property records. Labeling requirements for substances that are excluded from the requirements of 29 CFR 1910.1200 are found in the references listed in 29 CFR 1910.1200(b)(5) and (6).

@@ -1,0 +1,3 @@
+##### § 105-8.148 Consultation with the Architectural and Transportation Barriers Compliance Board. #####
+
+GSA shall consult with the Architectural and Transportation Barriers Compliance Board (ATBCB) in carrying out its responsibilities under this part concerning architectural barriers in facilities that are subject to GSA control. GSA shall also consult with the ATBCB in providing technical assistance to other Federal agencies with respect to overcoming architectural barriers in facilities. The agency's Public Buildings Service shall implement this section.

@@ -1,0 +1,3 @@
+##### § 102-75.1040 May Federal agencies abandon or destroy improvements on land or related personal property before public notice is given of such proposed abandonment or destruction? #####
+
+Except as provided in § 102-75.1045, a Federal agency must not abandon or destroy improvements on land or related personal property until after it has given public notice of the proposed abandonment or destruction. This notice must be given in the area in which the property is located, must contain a general description of the property to be abandoned or destroyed, and must include an offering of the property for sale. A copy of the notice must be given to the GSA regional property disposal office for the region in which the property is located.

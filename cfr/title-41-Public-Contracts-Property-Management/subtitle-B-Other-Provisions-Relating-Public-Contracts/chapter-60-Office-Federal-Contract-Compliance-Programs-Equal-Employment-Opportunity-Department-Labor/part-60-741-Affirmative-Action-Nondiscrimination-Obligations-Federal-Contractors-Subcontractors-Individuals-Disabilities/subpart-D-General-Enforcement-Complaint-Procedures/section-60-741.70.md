@@ -1,0 +1,3 @@
+##### § 60-741.70 Disputed matters related to compliance with the act. #####
+
+The procedures set forth in the regulations in this part govern all disputes relative to the contractor's compliance with the act and this part. Any disputes relating to issues other than compliance, including contract costs arising out of the contractor's efforts to comply, shall be determined by the disputes clause of the contract.

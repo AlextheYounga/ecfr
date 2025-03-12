@@ -1,0 +1,3 @@
+##### § 102-74.195 What ventilation policy must Federal agencies follow? #####
+
+During working hours in periods of heating and cooling, Federal agencies must provide ventilation in accordance with ASHRAE Standard 62, Ventilation for Acceptable Indoor Air Quality, where physically practical. Where not physically practical, Federal agencies must provide the maximum allowable amount of ventilation during periods of heating and cooling and pursue opportunities to increase ventilation up to current standards. ASHRAE Standard 62 is available from ASHRAE Publications Sales, 1791 Tullie Circle NE, Atlanta, GA 30329-2305.

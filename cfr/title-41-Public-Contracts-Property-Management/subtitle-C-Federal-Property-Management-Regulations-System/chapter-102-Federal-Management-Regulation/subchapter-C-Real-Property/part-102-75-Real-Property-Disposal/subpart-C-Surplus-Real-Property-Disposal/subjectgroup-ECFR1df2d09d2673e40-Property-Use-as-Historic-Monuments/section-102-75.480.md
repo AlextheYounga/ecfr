@@ -1,0 +1,3 @@
+##### § 102-75.480 Who has the responsibility for enforcing compliance with the terms and conditions of disposal for surplus property conveyed for use as a historic monument? #####
+
+The Secretary of the Interior has the responsibility for enforcing compliance with the terms and conditions of such a disposal. DOI is also responsible for reforming, correcting, or amending any disposal instrument; granting releases; and any action necessary for recapturing the property using the provisions of 40 U.S.C. 550(b). The actions are subject to the approval of the head of the disposal agency.

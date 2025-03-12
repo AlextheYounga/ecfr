@@ -1,0 +1,3 @@
+##### § 102-75.800 What information must be included in the deed of conveyance? #####
+
+The deed of conveyance of any surplus real property transferred under the provisions of 40 U.S.C. 553 must provide that all property be used and maintained for the purpose for which it was conveyed in perpetuity. If the property ceases to be used or maintained for that purpose, all or any portion of the property must, at the option of the United States, revert to the United States in its existing condition. The deed of conveyance may contain additional terms, reservations, restrictions, and conditions the Administrator of General Services determines to be necessary to safeguard the United States' interests.

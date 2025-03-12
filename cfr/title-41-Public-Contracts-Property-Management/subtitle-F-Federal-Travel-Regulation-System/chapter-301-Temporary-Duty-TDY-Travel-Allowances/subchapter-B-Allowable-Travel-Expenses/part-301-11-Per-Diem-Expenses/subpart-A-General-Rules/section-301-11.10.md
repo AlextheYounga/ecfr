@@ -1,0 +1,3 @@
+##### § 301-11.10 Am I required to record departure/arrival dates and times on my travel claim? #####
+
+You must record the date of departure from, and arrival at, the official station or any other place travel begins or ends. You must show this same information for points where you perform TDY or for a stopover or official rest stop location when the arrival or departure affects your per diem allowance or other travel expenses. You also should show the dates for other points visited. You do not have to record departure/arrival times, but you must annotate your travel claim when your travel is more than 12 hours but not exceeding 24 hours to reflect that fact.

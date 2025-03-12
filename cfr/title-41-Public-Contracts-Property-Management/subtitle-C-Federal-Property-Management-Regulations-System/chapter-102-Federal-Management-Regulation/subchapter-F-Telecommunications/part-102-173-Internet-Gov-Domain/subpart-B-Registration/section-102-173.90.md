@@ -1,0 +1,3 @@
+##### § 102-173.90 Are there any special restrictions on the use and registration of canonical, or category names like recreation.gov? #####
+
+Yes, canonical names registration request must provide access coverage for the areas conveyed by the name. So the URL recreation.gov would not be approved for the state of Maryland, but the URL recreationMD.gov would be approved if it provides statewide coverage. The logic of the names adds value to the dot gov domain. GSA reserves the right deny use of canonical names that do not provide appropriate coverage and to arbitrate these issues.

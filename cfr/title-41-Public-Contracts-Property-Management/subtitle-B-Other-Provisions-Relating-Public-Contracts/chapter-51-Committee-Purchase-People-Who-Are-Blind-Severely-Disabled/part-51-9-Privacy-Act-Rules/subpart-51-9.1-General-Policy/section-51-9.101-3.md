@@ -1,0 +1,3 @@
+##### § 51-9.101-3 Content of systems of records. #####
+
+The Executive Director shall maintain in records only such information about an individual as is relevant and necessary to accomplish an agency purpose required by statute or executive order. Such records shall not contain any information describing how any individual exercises rights guaranteed by the First Amendment unless specifically authorized by statute, by the subject individual, or is pertinent to and within the scope of an authorized law enforcement activity. For these purposes, First Amendment rights include, but are not limited to, religious and political beliefs, freedom of speech, the press, assembly, and freedom to petition.

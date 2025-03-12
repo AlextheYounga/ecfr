@@ -1,0 +1,3 @@
+##### § 102-71.5 What is the scope and philosophy of the General Services Administration's (GSA) real property policies? #####
+
+GSA's real property policies contained in this part and parts 102-72 through 102-82 of this chapter apply to Federal agencies, including GSA's Public Buildings Service (PBS), operating under, or subject to, the authorities of the Administrator of General Services. These policies cover the acquisition, management, utilization, and disposal of real property by Federal agencies that initiate and have decision-making authority over actions for real property services. The detailed guidance implementing these policies is contained in separate customer service guides.

@@ -1,0 +1,3 @@
+##### § 102-117.210 Where can I get guidance on transporting HAZMAT? #####
+
+The Secretary of Transportation prescribes regulations for the safe transportation of HAZMAT in intrastate, interstate, and foreign commerce in 49 CFR parts 171 through 180. The Environmental Protection Agency also prescribes regulations on transporting HAZMAT in 40 CFR parts 260 through 266. You may also call the HAZMAT information hotline at 1-800-467-4922 (Washington, DC area, call 202-366-4488).

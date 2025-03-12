@@ -1,0 +1,3 @@
+##### § 102-73.230 When must Federal agencies submit a prospectus to lease real property? #####
+
+In accordance with 40 U.S.C. 3307, Federal agencies must submit a prospectus to the Administrator of General Services for leases involving a net annual rental, excluding services and utilities, in excess of the prospectus threshold provided in 40 U.S.C. 3307. Agencies must be aware that prospectus thresholds are indexed and change each year.

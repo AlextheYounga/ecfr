@@ -1,0 +1,3 @@
+##### § 109-1.100-50 Scope of subpart. #####
+
+This subpart sets forth the Department of Energy (DOE) Property Management Regulations (DOE-PMR) which establish uniform DOE property management policies, regulations, and procedures that implement and supplement the Federal Property Management Regulations/Federal Management Regulation. Property management statutory authorities that are unique to the Department (*e.g.,* section 161g of the Atomic Energy Act of 1954 (42 U.S.C. 2201(g)) and section 3155 of the National Defense Authorization Act for Fiscal Year 1994 (42 U.S.C. 72741)) are not addressed in these regulations.

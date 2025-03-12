@@ -1,0 +1,3 @@
+##### § 102-73.165 What is the policy for agency special purpose space delegations? #####
+
+Subject to the limitations on annual rental amounts, lease terms, and leases on parking spaces cited in §§ 102-73.230 through 102-73.240, the agencies listed below are authorized to acquire special purpose space associated with that agency and, except where otherwise noted, may lease such space for terms, including all options, of up to 20 years. The agencies and types of space subject to special purpose space delegations are specified in §§ 102-73.170 through 102-73.225.

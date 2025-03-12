@@ -1,0 +1,3 @@
+##### § 304-3.4 What payments may my agency or I accept from a non-Federal source? #####
+
+You or your agency may accept payments other than cash from a non-Federal source for all of your official travel expenses to attend a meeting of mutual interest, or any portion of those travel expenses mutually agreed upon between your agency and the non-Federal source. You may not accept payments for travel that is not to attend a meeting under this part. However, you may be able to accept payments under other authorities (see § 304-3.19).

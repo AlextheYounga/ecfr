@@ -1,0 +1,3 @@
+##### § 109-28.5002 Objective. #####
+
+The objective of the EHFFP program is to enable DOE offices and contractors to retain equipment not in use in current programs but which has a known or potential use in future DOE programs, while providing visibility on the types and amounts of equipment so retained through review and reporting procedures. It is intended that equipment be retained where economically justifiable for retention, considering cost of maintenance, replacement, obsolescence, storage, deterioration, or future availability; made available for use by others; and promptly excessed when no longer needed.

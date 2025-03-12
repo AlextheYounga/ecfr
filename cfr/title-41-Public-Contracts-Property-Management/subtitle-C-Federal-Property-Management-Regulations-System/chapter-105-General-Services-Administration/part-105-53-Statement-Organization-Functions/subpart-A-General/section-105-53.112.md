@@ -1,0 +1,5 @@
+##### § 105-53.112 General statement of functions. #####
+
+The General Services Administration, as a major policy maker, provides guidance and direction to Federal agencies in a number of management fields. GSA formulates and prescribes a variety of Governmentwide policies relating to procurement and contracting; real and personal property management; transportation, public transportation, public utilities and telecommunications management; automated data processing management; records management; the use and disposal of property; and the information security program. In addition to its policy role, GSA also provides a variety of basic services in the aforementioned areas to other Government agencies. A summary description of these services is presented by organizational component in subpart B.
+
+[54 FR 26741, June 26, 1989]

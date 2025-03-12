@@ -1,0 +1,5 @@
+##### § 101-26.203 Activity address codes. #####
+
+To obtain items through the FEDSTRIP system, each ordering activity is required to have an activity address code. The FEDSTRIP Operating Guide (FPMR 101-26.2) contains instructions to civilian agencies on requesting activity address codes. Once assigned, an activity address code allows an activity to order supplies under the FEDSTRIP system. Because there is a potential for abuse in the use of these codes, agencies shall establish stringent internal controls to ensure that the codes are used only by authorized personnel. It is imperative that all requests for activity address codes or deletions or address changes flow through a central contact point in the agency headquarters or regions where the need, purpose, and validity of the request can be verified. Agencies should send GSA the addresses of the contact points (mailing address: General Services Administration (FSR), Washington, DC 20406). GSA will only honor requests from the established points within the agency. GSA will periodically send a listing of current activity address codes and addresses to contact points for review.
+
+[45 FR 71565, Oct. 29, 1980]

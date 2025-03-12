@@ -1,0 +1,3 @@
+##### § 105-55.033 Preservation of evidence. #####
+
+The General Services Administration (GSA) will take care to preserve all files and records that may be needed by the Department of Justice (DOJ) to prove their claims in court. GSA ordinarily will include certified copies of the documents that form the basis for the claim in the packages referring their claims to DOJ for litigation. GSA will provide originals of such documents immediately upon request by DOJ.

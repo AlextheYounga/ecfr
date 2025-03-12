@@ -1,0 +1,3 @@
+##### § 301-11.24 What reimbursement will I receive if I voluntarily return home or to my official station on non-workdays during my TDY assignment? #####
+
+If you voluntarily return home or to your official station on non-workdays during a TDY assignment, the maximum reimbursement for round trip transportation and per diem or actual expense is limited to what would have been allowed had you remained at the TDY location.

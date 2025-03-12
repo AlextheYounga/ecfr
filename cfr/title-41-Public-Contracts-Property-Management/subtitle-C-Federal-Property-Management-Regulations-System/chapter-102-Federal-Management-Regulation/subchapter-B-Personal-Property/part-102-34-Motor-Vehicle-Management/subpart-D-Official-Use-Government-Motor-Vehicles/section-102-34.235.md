@@ -1,0 +1,3 @@
+##### § 102-34.235 Am I bound by State and local traffic laws? #####
+
+Yes. You must obey all motor vehicle traffic laws of the State and local jurisdiction, except when the duties of your position require otherwise. You are personally responsible if you violate State or local traffic laws. If you are fined or otherwise penalized for an offense you commit while performing your official duties, but which was not required as part of your official duties, payment is your personal responsibility.

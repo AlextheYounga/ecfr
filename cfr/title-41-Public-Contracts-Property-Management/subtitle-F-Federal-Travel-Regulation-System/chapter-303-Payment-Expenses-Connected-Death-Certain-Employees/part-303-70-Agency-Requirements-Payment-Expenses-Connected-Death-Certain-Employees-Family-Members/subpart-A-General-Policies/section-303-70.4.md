@@ -1,0 +1,3 @@
+##### § 303-70.4 Must we pay death-related expenses under this chapter if the same expenses are payable under other laws of the United States? #####
+
+No. When an employee dies from injuries sustained while performing official duty, certain death-related expenses are payable under the Federal Employees' Compensation Act (FECA), 5 U.S.C. 8134. For further information contact the: Department of Labor, Division of Federal Employees' Compensation, 200 Constitution Avenue NW., Washington, DC 20210.

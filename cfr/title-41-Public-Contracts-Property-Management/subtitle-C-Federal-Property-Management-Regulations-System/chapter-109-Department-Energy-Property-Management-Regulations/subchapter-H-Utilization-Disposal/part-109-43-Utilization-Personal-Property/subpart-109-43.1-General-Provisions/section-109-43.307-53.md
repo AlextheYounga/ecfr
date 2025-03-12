@@ -1,0 +1,3 @@
+##### § 109-43.307-53 Information Technology (IT). #####
+
+All IT shall be sanitized before being transferred into excess to ensure that all data, information, and software has been removed from the equipment. Designated computer support personnel must indicate that the equipment has been sanitized by attaching a certification tag to the item. Sanitized IT will be utilized and disposed in accordance with the provisions of the FPMR/FMR.

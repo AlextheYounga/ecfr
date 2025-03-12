@@ -1,0 +1,5 @@
+##### § 101-26.309 Cancellation of orders for GSA stock items. #####
+
+When an agency determines that material ordered from GSA is not required, GSA will accept requests for cancellation as long as the items ordered have not been shipped. However, since processing cancellations is costly and interferes with normal order processing, agencies are cautioned to use discretion in requesting cancellation of low dollar value orders. Cancellation of orders may be accomplished by agencies through written, telegraphic, or telephonic communication with the GSA regional office to which the order was sent. However, telephonic communication should be used whenever feasible to forestall shipment of material and subsequent billing by GSA. If material has been shipped, GSA will advise that cancellation cannot be effected and agency requests for return for credit will be processed under the provisions of §§ 101-26.310 and 101-26.311.
+
+[32 FR 11163, Aug. 1, 1967]

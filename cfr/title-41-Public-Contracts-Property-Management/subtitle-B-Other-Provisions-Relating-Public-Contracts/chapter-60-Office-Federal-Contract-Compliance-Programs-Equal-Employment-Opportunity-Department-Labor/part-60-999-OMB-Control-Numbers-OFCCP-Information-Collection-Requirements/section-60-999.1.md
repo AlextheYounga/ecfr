@@ -1,0 +1,3 @@
+##### § 60-999.1 Purpose. #####
+
+This part displays control numbers assigned to information collection requirements of the Office of Federal Contract Compliance Programs by the Office of Management and Budget (OMB) under the Paperwork Reduction Act (PRA), 44 U.S.C. Ch. 35. This part fulfills the PRA requirement that agencies display a current control number for each agency information collection requirement approved by OMB (44 U.S.C. 3507).

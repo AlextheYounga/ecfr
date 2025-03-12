@@ -1,0 +1,3 @@
+##### § 105-64.206 How long will it take to get my record? #####
+
+The system manager will make a record available within 10 workdays after receipt of your request. If a delay of more than 10 workdays is expected, the system manager will notify you in writing of the reason for the delay and when the record will be available. The system manager may ask you for additional information to clarify your request. The system manager will have an additional 10 workdays after receipt of the new information to provide the record to you, or provide another acknowledgment letter if a delay in locating the record is expected.

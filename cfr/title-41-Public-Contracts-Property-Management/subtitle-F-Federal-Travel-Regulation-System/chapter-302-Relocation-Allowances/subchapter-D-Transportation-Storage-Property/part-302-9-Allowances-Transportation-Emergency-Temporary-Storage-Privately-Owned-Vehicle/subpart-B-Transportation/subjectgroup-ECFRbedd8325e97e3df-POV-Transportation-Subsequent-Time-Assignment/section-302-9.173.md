@@ -1,0 +1,3 @@
+##### § 302-9.173 How many replacement POV's may my agency authorize me to transport to my post of duty at Government expense? #####
+
+Your agency may authorize one emergency replacement POV within any 4-year period of continuous service. It may authorize one non-emergency replacement POV after every four years of continuous service beginning on the date you first have use of the POV being replaced.

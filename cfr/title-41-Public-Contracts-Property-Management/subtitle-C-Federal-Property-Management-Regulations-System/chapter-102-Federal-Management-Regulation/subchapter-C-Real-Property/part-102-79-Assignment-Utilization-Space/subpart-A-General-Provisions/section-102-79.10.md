@@ -1,0 +1,3 @@
+##### § 102-79.10 What basic assignment and utilization of space policy governs an Executive agency? #####
+
+Executive agencies must provide a quality workplace environment that supports program operations, preserves the value of real property assets, meets the needs of the occupant agencies, and provides child care and physical fitness facilities in the workplace when adequately justified. An Executive agency must promote maximum utilization of Federal workspace, consistent with mission requirements, to maximize its value to the Government.

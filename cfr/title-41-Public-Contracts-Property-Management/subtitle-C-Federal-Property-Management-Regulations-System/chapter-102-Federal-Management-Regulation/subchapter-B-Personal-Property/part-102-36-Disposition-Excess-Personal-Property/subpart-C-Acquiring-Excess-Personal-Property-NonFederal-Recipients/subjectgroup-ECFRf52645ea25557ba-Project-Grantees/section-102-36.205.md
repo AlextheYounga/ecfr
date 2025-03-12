@@ -1,0 +1,3 @@
+##### § 102-36.205 Is there a limit to how much excess personal property we may furnish to our grantees? #####
+
+Yes, you must monitor transfers of excess personal property so the total dollar amount of property transferred (in original acquisition cost) does not exceed the dollar value of the grant. Any transfers above the grant amount must be approved by an official at an administrative level higher than the officer administering the grant.

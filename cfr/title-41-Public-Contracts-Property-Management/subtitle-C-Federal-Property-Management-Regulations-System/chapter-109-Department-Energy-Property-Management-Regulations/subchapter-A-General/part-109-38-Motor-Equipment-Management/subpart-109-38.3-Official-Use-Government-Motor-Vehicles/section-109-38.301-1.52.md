@@ -1,0 +1,3 @@
+##### § 109-38.301-1.52 Maintenance of records. #####
+
+Designated contractors shall maintain logs or other records on the use of a Government motor vehicle for transportation between an employee's residence and place of employment. As a minimum, these logs shall indicate the employee's name, date of use, time of departure and arrival, miles driven, and names of other passengers. Cognizant finance offices shall be provided with applicable data on employees who utilize Government motor vehicles for such transportation for purposes of the Deficit Reduction Act of 1984 concerning the taxation of fringe benefits.

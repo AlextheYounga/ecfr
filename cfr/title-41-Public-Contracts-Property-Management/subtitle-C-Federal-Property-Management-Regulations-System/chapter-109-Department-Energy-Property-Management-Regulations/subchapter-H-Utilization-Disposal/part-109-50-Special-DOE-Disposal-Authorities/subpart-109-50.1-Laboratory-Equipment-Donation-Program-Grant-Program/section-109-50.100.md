@@ -1,0 +1,3 @@
+##### § 109-50.100 Scope of subpart. #####
+
+This subpart provides guidance on the granting of Laboratory Equipment Donation Program in the LEDP is limited to accredited, post graduate, degree granting institutions including universities, colleges, junior colleges, technical institutes, museums, or hospitals, located in the U.S. and interested in establishing or upgrading energy-oriented educational programs in the life, physical, and environmental sciences and in engineering is eligible to apply. An energy-oriented program is defined as an academic research activity dealing primarily or entirely in energy-related topics.

@@ -1,0 +1,3 @@
+##### § 102-75.850 What responsibilities do landholding agencies have concerning properties to be used in the development or operation of a port facility? #####
+
+Landholding agencies must cooperate to the fullest extent possible with DOT representatives and the Secretary of Commerce in their inspection of such property, and with the Secretary of Labor in affirming that the property is in an area of serious economic disruption, and in furnishing any information relating to such property.

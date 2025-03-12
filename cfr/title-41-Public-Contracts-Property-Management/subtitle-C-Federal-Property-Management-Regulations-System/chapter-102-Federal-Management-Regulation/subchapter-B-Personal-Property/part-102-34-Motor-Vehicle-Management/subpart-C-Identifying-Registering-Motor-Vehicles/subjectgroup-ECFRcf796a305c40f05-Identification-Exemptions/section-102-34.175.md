@@ -1,0 +1,3 @@
+##### § 102-34.175 What motor vehicles have an unlimited exemption from displaying U.S. Government license plates and motor vehicle identification? #####
+
+Motor vehicles used primarily for investigative, law enforcement, intelligence, or security duties have an unlimited exemption from displaying U.S. Government license plates and motor vehicle identification when identifying these motor vehicles would interfere with those duties.

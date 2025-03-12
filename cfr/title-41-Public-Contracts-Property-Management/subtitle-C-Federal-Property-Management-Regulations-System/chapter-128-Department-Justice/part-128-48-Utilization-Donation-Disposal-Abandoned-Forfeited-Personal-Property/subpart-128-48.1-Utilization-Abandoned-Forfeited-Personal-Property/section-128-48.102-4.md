@@ -1,0 +1,5 @@
+##### § 128-48.102-4 Proceeds. #####
+
+(a) Records of abandoned or other unclaimed property will be maintained in such a manner as to permit identification of the property with the original owner, if known, when such property is put into official use or transferred for official use by the finding bureau. Records will be maintained until the three-year period for filing claims has elapsed to enable the bureau to determine the amount of reimbursement due to a former owner who has filed a proper claim for abandoned or other unclaimed property.
+
+(b) Reimbursement for official use by the finding bureau or transfer for official use of abandoned or other unclaimed property that has been placed in a special fund by the bureau for more than three years shall be deposited in the Treasury of the United States as miscellaneous receipts, or in such other bureau accounts as provided by law.

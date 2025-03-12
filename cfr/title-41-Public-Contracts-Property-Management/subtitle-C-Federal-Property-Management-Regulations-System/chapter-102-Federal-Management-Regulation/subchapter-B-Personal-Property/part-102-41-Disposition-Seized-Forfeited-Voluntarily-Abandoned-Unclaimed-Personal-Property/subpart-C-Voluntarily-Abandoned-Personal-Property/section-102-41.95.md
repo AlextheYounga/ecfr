@@ -1,0 +1,3 @@
+##### § 102-41.95 Where do we send the reports for voluntarily abandoned personal property? #####
+
+Except for aircraft, firearms, and vessels, report voluntarily abandoned personal property to the regional GSA Property Management Branch office for the region in which the property is located. Report aircraft, firearms, and vessels to the regional GSA Property Management Branch office specified in § 102-36.125 of this subchapter B.

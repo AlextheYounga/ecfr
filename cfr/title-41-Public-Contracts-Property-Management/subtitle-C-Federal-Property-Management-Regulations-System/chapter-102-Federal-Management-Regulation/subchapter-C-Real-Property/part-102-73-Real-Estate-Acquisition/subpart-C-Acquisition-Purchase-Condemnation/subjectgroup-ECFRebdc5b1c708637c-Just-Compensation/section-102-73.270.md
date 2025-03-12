@@ -1,0 +1,3 @@
+##### § 102-73.270 Are Federal agencies required to provide the owner with a written statement of the amount established as just compensation? #####
+
+Yes, Federal agencies must provide the owner with a written statement of this amount and summarize the basis for it. When it is appropriate, Federal agencies must separately state the just compensation for the property to be acquired and damages to the remaining real property.

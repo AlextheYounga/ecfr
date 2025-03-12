@@ -1,0 +1,3 @@
+##### § 102-80.110 What must an equivalent level of safety analysis indicate? #####
+
+To be acceptable, the analysis must indicate that the existing and/or proposed safety systems in the building provide a period of time equal to or greater than the amount of time available for escape in a similar building complying with the Fire Administration Authorization Act. In conducting these analyses, the capability, adequacy, and reliability of all building systems impacting fire growth, occupant knowledge of the fire, and time required to reach a safety area will have to be examined. In particular, the impact of sprinklers on the development of hazardous conditions in the area of interest will have to be assessed.

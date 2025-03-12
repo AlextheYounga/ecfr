@@ -1,0 +1,9 @@
+##### § 102-74.375 What is the policy on admitting persons to Government property? #####
+
+Federal agencies must—
+
+(a) Except as otherwise permitted, close property to the public during other than normal working hours. In those instances where a Federal agency has approved the after-normal-working-hours use of buildings or portions thereof for activities authorized by subpart D of this part, Federal agencies must not close the property (or affected portions thereof) to the public;
+
+(b) Close property to the public during working hours only when situations require this action to provide for the orderly conduct of Government business. The designated official under the Occupant Emergency Program may make such decision only after consultation with the buildings manager and the highest ranking representative of the law enforcement organization responsible for protection of the property or the area. The designated official is defined in § 102-71.20 of this chapter as the highest ranking official of the primary occupant agency, or the alternate highest ranking official or designee selected by mutual agreement by other occupant agency officials; and
+
+(c) When property or a portion thereof is closed to the public, restrict admission to the property, or the affected portion, to authorized persons who must register upon entry to the property and must, when requested, display Government or other identifying credentials to Federal police officers or other authorized individuals when entering, leaving or while on the property. Failure to comply with any of the applicable provisions is a violation of these regulations.

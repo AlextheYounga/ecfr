@@ -1,0 +1,5 @@
+##### § 101-39.203 Obtaining motor vehicles for short-term use. #####
+
+Any participating Federal agency, bureau, or activity may obtain vehicles for short-term local use through the GSA Interagency Fleet Management System (IFMS). Short-term use vehicles may be provided through Military Traffic Management Command (MTMC) agreements with commercial firms or, where available, through GSA IFMS dispatch services. This support is available for official use performed locally or within commuting distance of an employee's designated post of duty. Arrangements for these vehicles will be made by the GSA IFMS fleet management center serving the local area. The requesting agency official or employee must be authorized to place orders for vehicle support and provide a complete billing address and GSA billed office address code (BOAC) at the time an order is placed. Agencies requiring a BOAC may obtain one by contacting any General Services Administration IFMS fleet management center.
+
+[56 FR 59888, Nov. 26, 1991]

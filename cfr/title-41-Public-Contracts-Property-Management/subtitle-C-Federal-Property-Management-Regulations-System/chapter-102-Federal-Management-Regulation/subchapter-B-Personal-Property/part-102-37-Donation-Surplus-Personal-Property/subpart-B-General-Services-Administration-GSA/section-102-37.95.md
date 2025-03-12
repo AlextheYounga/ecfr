@@ -1,0 +1,3 @@
+##### § 102-37.95 How will GSA resolve competing transfer requests? #####
+
+In case of requests from two or more SASPs, GSA will use the allocating criteria in § 102-37.100. When competing requests are received from public airports and SASPs, GSA will transfer property fairly and equitably, based on such factors as need, proposed use, and interest of the holding agency in having the property donated to a specific public airport.

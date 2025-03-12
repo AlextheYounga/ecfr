@@ -1,0 +1,3 @@
+##### § 102-36.350 How do we identify a FSCAP? #####
+
+Any aircraft part designated as FSCAP is assigned an alpha Criticality Code, and the code is annotated on the original transfer document when you acquire the part. You must perpetuate the appropriate FSCAP Criticality Code on all personal property records. You may contact the Federal agency or Military service that originally owned the part for assistance in making this determination, or query DOD's Federal Logistics Information System (FLIS) using the National Stock Number (NSN) for the part. For assistance in subscribing to the FLIS service contact the FedLog Consumer Support Office, 800-351-4381.

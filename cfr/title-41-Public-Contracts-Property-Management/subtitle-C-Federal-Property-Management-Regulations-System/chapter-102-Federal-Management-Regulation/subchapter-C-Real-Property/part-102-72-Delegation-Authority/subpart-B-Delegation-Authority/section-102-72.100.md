@@ -1,0 +1,3 @@
+##### § 102-72.100 What are Executive agencies' responsibilities under a utility service delegation of authority from GSA? #####
+
+With this delegation, Executive agencies have the authority to negotiate and execute utility services contracts for periods over one year but not exceeding ten years for their use and benefit. Agencies also have the authority to intervene in utility rate proceedings to represent the consumer interests of the Federal Government, if so provided in the delegation of authority.

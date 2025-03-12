@@ -1,0 +1,3 @@
+##### § 102-75.410 What action must the disposal agency take after an eligible public agency has submitted a plan of use and application to acquire property for a public airport? #####
+
+After an eligible public agency submits a plan of use and application, the disposal agency must transmit two copies of the plan and two copies of the application to the appropriate FAA regional office. The FAA must promptly submit a recommendation to the disposal agency for disposal of the property for a public airport or must inform the disposal agency that no such recommendation will be submitted.

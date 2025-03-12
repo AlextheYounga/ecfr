@@ -1,0 +1,3 @@
+##### § 101-30.701-1 Item reduction study. #####
+
+*Item reduction study* means the study of a group of generally similar items which are subject to evaluation by physical and performance characteristics. This evaluation process identifies items determined to be unnecessarily similar or uneconomical for Government use and which will be considered for removal from Government supply systems. For items so identified, a replacement item shall be proposed. The result of item reduction studies will indicate items which are authorized for procurement or not authorized for procurement.

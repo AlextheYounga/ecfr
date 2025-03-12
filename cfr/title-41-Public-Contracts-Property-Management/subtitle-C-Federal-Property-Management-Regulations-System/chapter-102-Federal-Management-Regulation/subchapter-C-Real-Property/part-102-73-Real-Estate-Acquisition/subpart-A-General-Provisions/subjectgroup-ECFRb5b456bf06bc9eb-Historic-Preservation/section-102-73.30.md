@@ -1,0 +1,3 @@
+##### § 102-73.30 What historic preservation provisions must Federal agencies comply with prior to acquiring, constructing, or leasing space? #####
+
+Prior to acquiring, constructing, or leasing space, Federal agencies must comply with the provisions of section 110(a) of the National Historic Preservation Act of 1966, as amended (16 U.S.C. 470h-2(a)), regarding the use of historic properties. Federal agencies can find guidance on protecting, enhancing, and preserving historic and cultural property in part 102-78 of this chapter.

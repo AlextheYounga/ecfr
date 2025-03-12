@@ -1,0 +1,3 @@
+##### § 102-74.545 May permittees make alterations to the public areas? #####
+
+Permittees must not make alterations to public areas, except with the prior written approval of the Federal agency buildings manager. Federal agencies must not approve such alterations unless the Federal agency determines that the proposed alterations to a building should be made to encourage and aid in the proposed use. Permittees making alterations must ensure the safety of users and prevent damage to property.

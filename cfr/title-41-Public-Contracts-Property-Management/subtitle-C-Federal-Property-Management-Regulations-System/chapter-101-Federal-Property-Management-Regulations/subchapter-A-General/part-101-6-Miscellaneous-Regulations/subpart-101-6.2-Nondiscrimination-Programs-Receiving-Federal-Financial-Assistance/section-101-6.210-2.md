@@ -1,0 +1,3 @@
+##### § 101-6.210-2 Complaints. #####
+
+Any person who believes himself or any specific class of individuals to be subjected to discrimination prohibited by this subpart 101-6.2 may by himself or by a representative file with the responsible GSA official or his designee a written complaint. A complaint must be filed not later than 90 days from the date of the alleged discrimination, unless the time for filing is extended by the responsible GSA official or his designee.

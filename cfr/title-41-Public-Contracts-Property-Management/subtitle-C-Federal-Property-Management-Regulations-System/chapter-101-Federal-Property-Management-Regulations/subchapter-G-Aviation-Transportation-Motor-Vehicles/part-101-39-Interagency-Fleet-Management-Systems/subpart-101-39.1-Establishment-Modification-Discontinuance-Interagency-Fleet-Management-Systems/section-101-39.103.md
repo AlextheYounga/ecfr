@@ -1,0 +1,7 @@
+##### § 101-39.103 Agency appeals. #####
+
+(a) Any executive agency may appeal or request exemption from any or all proposals affecting it which are contained in a determination. Appeals shall be submitted, in writing, within 45 calendar days from the date of the determination to the Director, OMB, with a copy to the Administrator of GSA. Appeals shall be accompanied by factual and objective supporting data and justification.
+
+(b) The Director, OMB, will review any determination which an executive agency has appealed and will make a final decision on that appeal. The Director, OMB, will decide within 75 calendar days after he or she receives the appeal, or as soon thereafter as practicable, on the basis of information contained in GSA's determination, the executive agency appeal, and any supplementary data submitted by GSA and the contesting agency. The Director, OMB, will send copies of decisions to GSA and to the heads of other executive agencies concerned.
+
+(c) With reference to each appeal, the decision of the Director, OMB, if he or she holds that the GSA's determination shall apply in whole or in part to the appealing agency, will state the extent to which the determination applies and the effective date of its application. To the extent that the decision on an appeal does not uphold GSA's determination the, determination will be of no force and effect.

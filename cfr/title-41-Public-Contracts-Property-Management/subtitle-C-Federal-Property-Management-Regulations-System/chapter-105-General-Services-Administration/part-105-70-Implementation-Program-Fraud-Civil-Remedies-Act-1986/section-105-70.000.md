@@ -1,0 +1,3 @@
+##### § 105-70.000 Scope. #####
+
+This part (a) establishes administrative procedures for imposing civil penalties and assessments against persons who make, submit, or present, or cause to be made, submitted, or presented, false, fictitious, or fraudulent claims or written statements to authorities or to their agents, and (b) specifies the hearing and appeal rights of persons subject to allegations of liability for such penalties and assessments.

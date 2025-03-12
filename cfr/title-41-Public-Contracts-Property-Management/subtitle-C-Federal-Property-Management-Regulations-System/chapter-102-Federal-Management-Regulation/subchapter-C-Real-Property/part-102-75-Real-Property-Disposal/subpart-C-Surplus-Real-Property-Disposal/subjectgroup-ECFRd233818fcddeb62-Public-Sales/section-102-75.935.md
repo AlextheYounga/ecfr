@@ -1,0 +1,3 @@
+##### § 102-75.935 What are disposal agencies' responsibilities concerning public sales? #####
+
+Disposal agencies must make available by competitive public sale any surplus property that is not disposed of by public benefit discount conveyance or by negotiated sale. Awards must be made to the responsible bidder whose bid will be most advantageous to the Government, price and other factors considered.

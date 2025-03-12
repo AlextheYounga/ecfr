@@ -1,0 +1,5 @@
+##### § 60-40.1 Purpose and scope. #####
+
+This part contains the general rules of the OFCCP providing for public access to information from records of the OFCCP or its various compliance agencies. These regulations implement 5 U.S.C. 552, the Freedom of Information Act and supplement the policy and regulations of the Department of Labor, 29 CFR part 70. It is the policy of the OFCCP to disclose information to the public and to cooperate with other public agencies as well as private parties seeking to eliminate discrimination in employment. This part sets forth generally the categories of records accessible to the public, the types of records subject to prohibitions or restrictions on disclosure, and the places at which and the procedures whereby members of the public may obtain access to and inspect and copy information from records in the custody of the OFCCP.
+
+[43 FR 49264, Oct. 20, 1978; 43 FR 51401, Nov. 3, 1978]

@@ -1,0 +1,3 @@
+##### § 102-38.350 Are there special provisions for State and local governments regarding negotiated sales? #####
+
+Yes, you must waive the requirement for bid deposits and payment prior to removal of the property. However, payment must be made within 30 calendar days after purchase. If payment is not made within 30 days, you may charge simple interest at the rate established by the Secretary of the Treasury as provided in section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), from the date of written demand for payment.

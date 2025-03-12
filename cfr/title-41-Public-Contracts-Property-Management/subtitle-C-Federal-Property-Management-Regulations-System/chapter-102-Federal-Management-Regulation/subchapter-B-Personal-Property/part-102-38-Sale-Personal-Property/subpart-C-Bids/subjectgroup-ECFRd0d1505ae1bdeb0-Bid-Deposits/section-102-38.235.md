@@ -1,0 +1,3 @@
+##### § 102-38.235 What types of payment may we accept as bid deposits? #####
+
+In addition to the acceptable types of payments in § 102-38.290, you may also accept a deposit bond. A deposit bond may be used in lieu of cash or other acceptable form of deposit when permitted by the offer to sell, such as the Standard Form (SF) 150, Deposit Bond—Individual Invitation, Sale of Government Personal Property, SF 151, Deposit Bond—Annual, Sale of Government Personal Property, and SF 28, Affidavit of Individual Surety. For information on how to obtain these forms, see § 102-2.135 of subchapter A.

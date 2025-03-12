@@ -1,0 +1,3 @@
+##### § 102-84.25 Is it necessary for my agency to designate an official to serve as the point of contact for the real property inventories? #####
+
+Yes. You must designate an official to serve as your agency's point of contact for the Annual Real Property Inventories. We recommend that you designate the same point of contact for the Federally-owned and leased real property inventory, although separate points of contact are permitted. You must advise the General Services Administration, Office of Governmentwide Policy, Office of Real Property (MP), 1800 F Street, NW., Washington, DC 20405, in writing, of the name(s) of these representative(s) and any subsequent changes.

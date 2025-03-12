@@ -1,0 +1,3 @@
+##### § 102-84.35 Which agencies must submit a report for inclusion in the Annual Real Property Inventory? #####
+
+Each agency that has jurisdiction, custody, control, or otherwise manages Federal real property or enters into leases, is responsible for submitting the real property inventory information. Additional information on the responsibility for reporting inventory data is contained in the annual Guidance for Real Property Inventory Reporting.

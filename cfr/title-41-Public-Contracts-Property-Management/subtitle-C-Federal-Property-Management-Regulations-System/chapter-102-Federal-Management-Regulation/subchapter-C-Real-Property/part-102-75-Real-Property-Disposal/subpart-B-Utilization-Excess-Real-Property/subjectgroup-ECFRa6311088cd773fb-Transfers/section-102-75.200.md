@@ -1,0 +1,3 @@
+##### § 102-75.200 What amount must the transferee agency pay if property is being transferred for the purpose of upgrading the transferee agency's facilities? #####
+
+Where the transfer is for the purpose of upgrading facilities (i.e., for the purpose of replacing other property of the transferee agency, which because of the location, nature, or condition thereof, is less efficient for use), the transferee must pay an amount equal to the difference between the fair market value of the property to be replaced and the fair market value of the property requested, as determined by the Administrator.

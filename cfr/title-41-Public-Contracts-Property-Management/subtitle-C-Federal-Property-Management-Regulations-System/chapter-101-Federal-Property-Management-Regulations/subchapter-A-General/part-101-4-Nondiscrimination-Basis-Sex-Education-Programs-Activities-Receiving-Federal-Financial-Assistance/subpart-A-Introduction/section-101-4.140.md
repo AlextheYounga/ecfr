@@ -1,0 +1,15 @@
+##### § 101-4.140 Dissemination of policy. #####
+
+(a) *Notification of policy.* (1) Each recipient shall implement specific and continuing steps to notify applicants for admission and employment, students and parents of elementary and secondary school students, employees, sources of referral of applicants for admission and employment, and all unions or professional organizations holding collective bargaining or professional agreements with the recipient, that it does not discriminate on the basis of sex in the educational programs or activities that it operates, and that it is required by Title IX and these Title IX regulations not to discriminate in such a manner. Such notification shall contain such information, and be made in such manner, as the designated agency official finds necessary to apprise such persons of the protections against discrimination assured them by Title IX and these Title IX regulations, but shall state at least that the requirement not to discriminate in education programs or activities extends to employment therein, and to admission thereto unless §§ 101-4.300 through 101-4.310 do not apply to the recipient, and that inquiries concerning the application of Title IX and these Title IX regulations to such recipient may be referred to the employee designated pursuant to § 101-4.135, or to the designated agency official.
+
+(2) Each recipient shall make the initial notification required by paragraph (a)(1) of this section within 90 days of September 29, 2000 or of the date these Title IX regulations first apply to such recipient, whichever comes later, which notification shall include publication in:
+
+(i) Newspapers and magazines operated by such recipient or by student, alumnae, or alumni groups for or in connection with such recipient; and
+
+(ii) Memoranda or other written communications distributed to every student and employee of such recipient.
+
+(b) *Publications.* (1) Each recipient shall prominently include a statement of the policy described in paragraph (a) of this section in each announcement, bulletin, catalog, or application form that it makes available to any person of a type, described in paragraph (a) of this section, or which is otherwise used in connection with the recruitment of students or employees.
+
+(2) A recipient shall not use or distribute a publication of the type described in paragraph (b)(1) of this section that suggests, by text or illustration, that such recipient treats applicants, students, or employees differently on the basis of sex except as such treatment is permitted by these Title IX regulations.
+
+(c) *Distribution.* Each recipient shall distribute without discrimination on the basis of sex each publication described in paragraph (b)(1) of this section, and shall apprise each of its admission and employment recruitment representatives of the policy of nondiscrimination described in paragraph (a) of this section, and shall require such representatives to adhere to such policy.

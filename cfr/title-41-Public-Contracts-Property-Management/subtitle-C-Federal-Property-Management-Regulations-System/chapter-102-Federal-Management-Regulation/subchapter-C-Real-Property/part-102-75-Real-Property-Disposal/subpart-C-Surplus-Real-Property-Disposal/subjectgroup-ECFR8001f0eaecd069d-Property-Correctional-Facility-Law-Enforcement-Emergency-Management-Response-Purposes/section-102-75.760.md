@@ -1,0 +1,3 @@
+##### § 102-75.760 Who must the Office of Justice Programs (OJP) and the Federal Emergency Management Agency (FEMA) notify that surplus real property is available for correctional facility, law enforcement, or emergency management response purposes? #####
+
+OJP or FEMA must send notices of availability to the appropriate State and local public agencies. The notices must state that OJP or FEMA, as appropriate, must coordinate and approve any planning involved in developing a comprehensive and coordinated plan of use and procurement for the property for correctional facility, law enforcement, or emergency management response use. The notice must also state that public agencies may obtain application forms and preparation instructions from OJP or FEMA.

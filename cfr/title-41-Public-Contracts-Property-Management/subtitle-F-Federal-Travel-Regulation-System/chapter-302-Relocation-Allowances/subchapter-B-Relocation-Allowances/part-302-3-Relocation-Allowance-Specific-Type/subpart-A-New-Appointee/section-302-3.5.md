@@ -1,0 +1,3 @@
+##### § 302-3.5 If I travel to my first official station before I have been appointed, will I be reimbursed for my relocation expenses? #####
+
+Generally, you may not be reimbursed for relocation expenses incurred before you have been appointed to a Federal position and signed an agreement to remain in Government service for 12 months after appointment. However there is an exception for appointees who have performed Presidential transition activities. Such appointees may be reimbursed allowable travel and transportation expenses incurred at any time following the most recent Presidential election once they have signed a service agreement. However, appointment must occur in the same fiscal year as the Presidential transition activities.

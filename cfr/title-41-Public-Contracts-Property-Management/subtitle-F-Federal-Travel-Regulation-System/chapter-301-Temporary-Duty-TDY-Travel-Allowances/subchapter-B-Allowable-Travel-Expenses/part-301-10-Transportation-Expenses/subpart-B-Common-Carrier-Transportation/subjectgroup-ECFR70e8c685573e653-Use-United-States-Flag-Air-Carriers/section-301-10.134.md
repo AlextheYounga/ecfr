@@ -1,0 +1,3 @@
+##### § 301-10.134 What is U.S. flag air carrier service? #####
+
+U.S. flag air carrier service is service provided on an air carrier which holds a certificate under 49 U.S.C. 41102 and which service is authorized either by the carrier's certificate or by exemption or regulation. U.S. flag air carrier service also includes service provided under a code share agreement with a foreign air carrier in accordance with Title 14, Code of Federal Regulations when the ticket, or documentation for an electronic ticket, identifies the U.S. flag air carrier's designator code and flight number.

@@ -1,0 +1,3 @@
+##### § 102-83.70 What is Executive Order 12072? #####
+
+Executive Order 12072, entitled “Federal Space Management,” requires all Executive agencies that have a mission requirement to locate in an urban area to give first consideration to locating Federal facilities in central business areas, and/or adjacent areas of similar character, to use them to make downtowns attractive places to work, conserve existing resources, and encourage redevelopment. It also directs Executive agencies to consider opportunities for locating cultural, educational, recreational, or commercial activities within the proposed facility.

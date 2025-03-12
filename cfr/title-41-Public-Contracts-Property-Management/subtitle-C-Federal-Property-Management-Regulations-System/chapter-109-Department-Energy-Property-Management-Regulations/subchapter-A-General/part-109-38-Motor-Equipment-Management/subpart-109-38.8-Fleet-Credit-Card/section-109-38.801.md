@@ -1,0 +1,3 @@
+##### § 109-38.801 Obtaining fleet credit card. #####
+
+A dedicated fleet credit card is issued with each GSA-leased motor vehicle. DOE offices electing to use fleet credit cards for agency-owned vehicles and motor equipment shall request the assignment of new accounts from the Office of Management. Following the assignment, DOE organizations shall submit orders for issuance of fleet credit cards in accordance with the instructions provided by GSA.

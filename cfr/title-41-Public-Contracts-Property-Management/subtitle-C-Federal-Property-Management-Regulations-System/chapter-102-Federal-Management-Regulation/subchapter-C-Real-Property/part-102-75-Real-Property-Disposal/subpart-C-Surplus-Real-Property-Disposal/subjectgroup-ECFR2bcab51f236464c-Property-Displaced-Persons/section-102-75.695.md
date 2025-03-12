@@ -1,0 +1,3 @@
+##### § 102-75.695 Who can receive surplus real property for the purpose of providing replacement housing for persons who are to be displaced by Federal or Federally assisted projects? #####
+
+Section 218 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended, 42 U.S.C. 4638 (the Relocation Act), authorizes the disposal agency to transfer surplus real property to a State agency to provide replacement housing under title II of the Relocation Act for persons who are or will be displaced by Federal or Federally assisted projects.

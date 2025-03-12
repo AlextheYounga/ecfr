@@ -1,0 +1,3 @@
+##### § 102-34.345 What records do we need to keep? #####
+
+You are responsible for developing and keeping adequate accounting and reporting procedures for Government motor vehicles. These will ensure accurate recording of inventory, cost, and operational data needed to manage and control motor vehicles, and will satisfy reporting requirements. You must also comply with the General Records Schedules issued by the National Archives and Records Administration (*http://www.archives.gov*).

@@ -1,0 +1,3 @@
+##### § 102-42.100 How can we obtain an excess gift or decoration from another agency? #####
+
+To obtain an excess gift or decoration from another agency, you would complete a Standard Form (SF) 122, Transfer Order Excess Personal Property, or any other transfer order form approved by GSA, for the desired item(s) and submit the form to the General Services Administration, Property Management Division (FBP), Washington, DC 20406.

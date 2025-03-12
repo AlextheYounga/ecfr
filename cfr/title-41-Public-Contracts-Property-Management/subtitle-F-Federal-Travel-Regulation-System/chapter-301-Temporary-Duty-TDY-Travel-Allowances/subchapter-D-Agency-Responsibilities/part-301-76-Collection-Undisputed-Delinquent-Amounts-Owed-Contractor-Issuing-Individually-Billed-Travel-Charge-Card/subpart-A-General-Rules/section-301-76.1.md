@@ -1,0 +1,3 @@
+##### § 301-76.1 May we collect undisputed delinquent amounts that an employee (including members of the uniformed services) owes to a Government travel charge card contractor? #####
+
+Yes, upon written request from the contractor and in accordance with the procedures specified in § 301-76.100, you may collect undisputed amounts owed to a Government travel charge card contractor from the delinquent employee's disposable pay. You must promptly forward all amounts deducted to the contractor.

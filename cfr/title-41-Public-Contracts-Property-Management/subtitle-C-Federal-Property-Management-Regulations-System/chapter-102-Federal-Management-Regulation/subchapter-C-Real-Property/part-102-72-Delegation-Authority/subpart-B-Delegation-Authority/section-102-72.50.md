@@ -1,0 +1,3 @@
+##### § 102-72.50 What are Executive agencies' responsibilities under a delegation of real property management and operation authority from GSA? #####
+
+With this delegation, Executive agencies have the authority to operate and manage buildings day to day. Delegated functions may include building operations, maintenance, recurring repairs, minor alterations, historic preservation, concessions, and energy management of specified buildings subject to the conditions in the delegation document.

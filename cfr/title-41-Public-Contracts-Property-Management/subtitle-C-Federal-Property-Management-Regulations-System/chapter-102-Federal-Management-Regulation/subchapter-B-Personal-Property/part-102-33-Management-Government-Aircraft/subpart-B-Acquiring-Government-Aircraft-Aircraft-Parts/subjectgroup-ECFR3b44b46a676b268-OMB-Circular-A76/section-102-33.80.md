@@ -1,0 +1,3 @@
+##### § 102-33.80 Must we comply with OMB Circular A-76 before we acquire Government aircraft? #####
+
+Yes, before you acquire Government aircraft, you must comply with OMB Circular A-76 (*http://www.whitehouse.gov/omb*). If you are acquiring Federal aircraft, you must ensure that the private sector cannot provide Government aircraft or related aviation services more cost-effectively than you can provide Federal aircraft and related services.

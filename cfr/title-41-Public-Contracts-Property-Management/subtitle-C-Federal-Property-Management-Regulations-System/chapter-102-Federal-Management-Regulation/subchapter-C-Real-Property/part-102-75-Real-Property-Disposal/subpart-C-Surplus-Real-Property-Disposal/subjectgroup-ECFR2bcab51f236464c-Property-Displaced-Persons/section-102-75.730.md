@@ -1,0 +1,3 @@
+##### § 102-75.730 What happens if a Federal agency does not submit a transfer request to the disposal agency for property to be used for replacement housing for persons who will be displaced by Federal or Federally assisted projects? #####
+
+If the disposal agency does not receive a request for assignment or transfer of the property under § 102-75.715, then the disposal agency must proceed with other appropriate disposal actions.

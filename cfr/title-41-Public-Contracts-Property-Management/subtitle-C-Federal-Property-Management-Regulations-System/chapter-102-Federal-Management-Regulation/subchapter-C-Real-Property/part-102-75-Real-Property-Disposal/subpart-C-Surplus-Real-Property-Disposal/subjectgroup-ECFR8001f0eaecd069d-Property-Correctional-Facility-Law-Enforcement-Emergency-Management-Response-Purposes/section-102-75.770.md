@@ -1,0 +1,3 @@
+##### § 102-75.770 Is the disposal agency required to approve a determination by the Department of Justice (DOJ) that identifies surplus property for correctional facility use or for law enforcement use? #####
+
+Yes, the disposal agency must approve a determination, under § 102-75.795, by DOJ that identifies surplus property required for correctional facility use or for law enforcement use before an eligible public agency can obtain such property for correctional facility or law enforcement use.

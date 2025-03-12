@@ -1,0 +1,3 @@
+##### § 102-37.5 What does this part cover? #####
+
+This part covers the donation of surplus Federal personal property located within a State, including foreign excess personal property returned to a State for handling as surplus property. For purposes of this part, the term State includes any of the 50 States, as well as the District of Columbia, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands.

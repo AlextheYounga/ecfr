@@ -1,0 +1,3 @@
+##### § 102-74.295 Who determines the number of employee parking spaces for each facility? #####
+
+The Federal agency buildings manager must determine the total number of spaces available for employee parking. Typically, Federal agencies must make a separate determination for each parking facility. However, in major metropolitan areas, Federal agencies may determine that allocations by zone would make parking more efficient or more equitably available.

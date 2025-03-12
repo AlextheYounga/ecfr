@@ -1,0 +1,5 @@
+##### § 101-27.403 General. #####
+
+By eliminating inactive items and slow-moving items which are readily available, when needed, from Government wholesale supply activities or from commercial sources, the costs to the Government in inventory investment and for maintaining the items in inventory can be eliminated. An “inactive item” is an item for which no current or future requirements are recognized by previous users and the item manager. A “slow-moving item” is an item for which there are current or future requirements, but the frequency and quantity of such requirements do not make it economical to stock them in lieu of obtaining requirements from other sources when needed. However, “standby or reserve items” are not to be eliminated from inventories. A “standby or reserve item” is an item for which a reserve stock is held so that the items will be available immediately to meet emergencies for which there is insufficient time to procure or requisition the items without endangering life or causing substantial financial loss to the Government.
+
+[41 FR 3859, Jan. 27, 1976]

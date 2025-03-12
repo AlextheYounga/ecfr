@@ -1,0 +1,3 @@
+##### § 109-42.1100.51 Policy. #####
+
+When the holding organization determines it is appropriate to dispose of contaminated personal property, it shall be disposed of by DOE in accordance with appropriate Federal regulations governing radiation/chemical exposure and environmental contamination. In special cases where Federal regulations do not exist or apply, appropriate state and local regulations shall be followed.

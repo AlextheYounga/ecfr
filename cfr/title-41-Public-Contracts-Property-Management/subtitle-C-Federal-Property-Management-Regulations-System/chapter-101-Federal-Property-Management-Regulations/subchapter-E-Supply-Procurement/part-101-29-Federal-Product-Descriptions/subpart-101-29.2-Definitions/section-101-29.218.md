@@ -1,0 +1,3 @@
+##### § 101-29.218 Voluntary standards. #####
+
+*Voluntary standards* are established generally by private sector bodies and available for use by any person or organization, private or governmental. The term includes what are commonly referred to as “industry standards” as well as “consensus standards,” but does not include professional standards of personal conduct, institutional codes of ethics, private standards of individual firms, or standards mandated by law such as those contained in the United States Pharmacopeia as referenced in 21 U.S.C. 351.

@@ -1,0 +1,3 @@
+##### § 102-74.530 When may public areas be used? #####
+
+Permittees may use public areas during or after regular working hours of Federal agencies, provided that such uses will not interfere with Government business. When public areas are used by permittees after normal working hours, Federal agencies must lock, barricade or identify by signs, as appropriate, all adjacent areas not approved for such use to restrict permittees' activities to approved areas.

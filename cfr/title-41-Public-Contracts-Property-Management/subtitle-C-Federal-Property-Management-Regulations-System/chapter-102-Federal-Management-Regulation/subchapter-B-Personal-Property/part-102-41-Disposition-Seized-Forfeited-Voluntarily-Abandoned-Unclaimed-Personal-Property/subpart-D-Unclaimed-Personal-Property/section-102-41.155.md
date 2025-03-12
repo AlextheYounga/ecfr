@@ -1,0 +1,3 @@
+##### § 102-41.155 Is unclaimed personal property available for transfer to another Federal agency? #####
+
+Yes, unclaimed personal property is available for transfer to another Federal agency, but only after 30 calendar days from the date of finding such property and no claim has been filed by the former owner, and with fair market value reimbursement from the recipient agency. The transferred property then loses its identity as unclaimed property and becomes property of the Government, and when no longer needed it must be reported excess in accordance with part 102-36 of this subchapter B.

@@ -1,0 +1,35 @@
+##### § 60-300.21 Prohibitions. #####
+
+The term discrimination includes, but is not limited to, the acts described in this section and § 60-300.23.
+
+(a) *Disparate treatment.* It is unlawful for the contractor to deny an employment opportunity or benefit or otherwise to discriminate against a qualified individual because of that individual's status as a protected veteran or pre-JVA veteran.
+
+(b) *Limiting, segregating and classifying.* Unless otherwise permitted by this part, it is unlawful for the contractor to limit, segregate, or classify a job applicant or employee in a way that adversely affects his or her employment opportunities or status on the basis of that individual's status as a protected veteran or pre-JVA veteran. For example, the contractor may not segregate protected veterans as a whole, or any classification of protected veterans or pre-JVA veterans, into separate work areas or into separate lines of advancement.
+
+(c) *Contractual or other arrangements*—(1) *In general.* It is unlawful for the contractor to participate in a contractual or other arrangement or relationship that has the effect of subjecting the contractor's own qualified applicant or employee who is a protected veteran or pre-JVA veteran to the discrimination prohibited by this part.
+
+(2) *Contractual or other arrangement defined.* The phrase “contractual or other arrangement or relationship” includes, but is not limited to, a relationship with: an employment or referral agency; a labor organization, including a collective bargaining agreement; an organization providing fringe benefits to an employee of the contractor; or an organization providing training and apprenticeship programs.
+
+(3) *Application.* This paragraph (c) applies to the contractor, with respect to its own applicants or employees, whether the contractor offered the contract or initiated the relationship, or whether the contractor accepted the contract or acceded to the relationship. The contractor is not liable for the actions of the other party or parties to the contract which only affect that other party's employees or applicants.
+
+(d) *Standards, criteria or methods of administration.* It is unlawful for the contractor to use standards, criteria, or methods of administration, that are not job-related and consistent with business necessity, and that:
+
+(1) Have the effect of discriminating on the basis of status as a protected veteran or pre-JVA veteran; or
+
+(2) Perpetuate the discrimination of others who are subject to common administrative control.
+
+(e) *Relationship or association with a protected veteran.* It is unlawful for the contractor to exclude or deny equal jobs or benefits to, or otherwise discriminate against, a qualified individual because of the known protected veteran or pre-JVA veteran status of an individual with whom the qualified individual is known to have a family, business, social or other relationship or association.
+
+(f) *Not making reasonable accommodation.* (1) It is unlawful for the contractor to fail to make reasonable accommodation to the known physical or mental limitations of an applicant or employee who is a qualified disabled veteran or pre-JVA special disabled veteran, unless such contractor can demonstrate that the accommodation would impose an undue hardship on the operation of its business.
+
+(2) It is unlawful for the contractor to deny employment opportunities to an applicant or employee who is a qualified disabled veteran or pre-JVA special disabled veteran based on the need of such contractor to make reasonable accommodation to such an individual's physical or mental impairments.
+
+(3) A qualified disabled veteran or pre-JVA special disabled veteran is not required to accept an accommodation, aid, service, opportunity or benefit which such qualified individual chooses not to accept. However, if such individual rejects a reasonable accommodation, aid, service, opportunity or benefit that is necessary to enable the individual to perform the essential functions of the position held or desired, and cannot, as a result of that rejection, perform the essential functions of the position, the individual will not be considered a qualified disabled veteran or pre-JVA special disabled veteran.
+
+(g) *Qualification standards, tests and other selection criteria*—(1) *In general.* It is unlawful for the contractor to use qualification standards, employment tests or other selection criteria that screen out or tend to screen out individuals on the basis of their status as protected veterans or pre-JVA veterans unless the standard, test or other selection criterion, as used by the contractor, is shown to be job-related for the position in question and is consistent with business necessity. Selection criteria that concern an essential function may not be used to exclude a disabled veteran if that individual could satisfy the criteria with provision of a reasonable accommodation. Selection criteria that exclude or tend to exclude individuals on the basis of their status as protected veterans or pre-JVA veterans but concern only marginal functions of the job would not be consistent with business necessity. The contractor may not refuse to hire an applicant who is a disabled veteran or pre-JVA special disabled veteran because the applicant's disability prevents him or her from performing marginal functions. When considering a protected veteran or pre-JVA veteran for an employment opportunity, the contractor may not rely on portions of such veteran's military record, including his or her discharge papers, which are not relevant to the qualification requirements of the opportunity in issue.
+
+(2) The Uniform Guidelines on Employee Selection Procedures, 41 CFR part 60-3, do not apply to 38 U.S.C. 4212 and are similarly inapplicable to this part.
+
+(h) *Administration of tests.* It is unlawful for the contractor to fail to select and administer tests concerning employment in the most effective manner to ensure that, when a test is administered to a job applicant or employee who is a disabled veteran or pre-JVA special disabled veteran with a disability that impairs sensory, manual, or speaking skills, the test results accurately reflect the skills, aptitude, or whatever other factor of the applicant or employee that the test purports to measure, rather than reflecting the impaired sensory, manual, or speaking skills of such employee or applicant, except where such skills are the factors that the test purports to measure.
+
+(i) *Compensation.* In offering employment or promotions to protected veterans or pre-JVA veterans, it is unlawful for the contractor to reduce the amount of compensation offered because of any income based upon a disability-related and/or military-service-related pension or other disability-related and/or military-service-related benefit the applicant or employee receives from another source.

@@ -1,0 +1,3 @@
+##### § 102-76.85 What is a primary function area for purposes of providing an accessible route in leased facilities subject to the standards in § 102-76.65(a)? #####
+
+For purposes of providing an accessible route in leased facilities subject to the standards in § 102-76.65(a), a primary function area is an area that contains a major activity for which the leased facility is intended. Primary function areas include areas where services are provided to customers or the public, and offices and other work areas in which the activities of the Federal agency using the leased facility are carried out.

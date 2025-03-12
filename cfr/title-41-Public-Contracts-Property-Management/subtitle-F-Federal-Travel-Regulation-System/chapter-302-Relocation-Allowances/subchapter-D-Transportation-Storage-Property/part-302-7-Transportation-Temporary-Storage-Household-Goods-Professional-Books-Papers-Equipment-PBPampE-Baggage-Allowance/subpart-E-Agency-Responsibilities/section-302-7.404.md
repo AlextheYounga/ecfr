@@ -1,0 +1,3 @@
+##### § 302-7.404 Are separate weight certificates required when HHG are shipped under the actual expense method and PBP&E are shipped as an administrative expense in the same lot? #####
+
+Yes, separate weight certificates are required when the PBP&E and its packing allowance pushes the shipment over the net weight allowance. Otherwise, for administrative efficiency, the HHG shipment should be billed and paid for as a single shipment. If separate weight certificates are required, then the weight of PBP&E and the administrative appropriation chargeable must be listed as separate items on the bill of lading or other shipping document.

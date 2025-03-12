@@ -1,0 +1,3 @@
+##### § 102-40.75 What must we do when reporting excess personal property with special handling requirements? #####
+
+You must include with your report of excess personal property a complete description of the characteristics of the property, use or disposal restrictions, and the actual or potential hazard(s) associated with the use, handling, or storage of the item. You should include a Safety Data Sheet (SDS), Material Safety Data Sheet (MSDS), or Hazardous Material Information System (HMIS) record (or equivalent) if available. The physical item which requires special handling must also be marked so as to identify its special characteristic(s).

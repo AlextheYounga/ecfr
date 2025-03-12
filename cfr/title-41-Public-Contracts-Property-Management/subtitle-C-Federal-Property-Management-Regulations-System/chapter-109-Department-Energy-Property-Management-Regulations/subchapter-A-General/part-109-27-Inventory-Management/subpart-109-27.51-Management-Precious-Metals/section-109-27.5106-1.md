@@ -1,0 +1,3 @@
+##### § 109-27.5106-1 Purpose. #####
+
+The purpose of the precious metals pool is to recycle, at a minimum cost to pool participants, DOE-owned precious metals within the Department and to dispose of DOE-owned precious metals that are excess to DOE needs. However, if the pool is unable to accept any potential precious metal return, the using activity will dispose of the precious metals through the disposal process specified in subchapter H of the FPMR/FMR and this regulation.

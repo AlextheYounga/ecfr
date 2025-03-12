@@ -1,0 +1,3 @@
+##### § 128-50.001-1 Seized personal property. #####
+
+Personal property for which the Government does not have title but which the Government has obtained custody or control of in accordance with 15 U.S.C. 1177; 18 U.S.C. 924(d), 1955(d), 2513, 3611, 3612, 3615; 19 U.S.C. 1595a; 21 U.S.C. 881; 22 U.S.C. 401; Fed. R. Crim. P. 41(b); 28 CFR 0.86, 0.89, 0.111(j), 3.5, 3.6, 8.1, 8.2, 9a.1, 9a.2; or other statutory authority.

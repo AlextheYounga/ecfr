@@ -1,0 +1,3 @@
+##### § 302-6.104 How long may I be authorized to claim actual TQSE reimbursement? #####
+
+Your agency may authorize you to claim actual TQSE in increments of 30-days or less, not to exceed 60 consecutive days. However, if your agency determines that there is a compelling reason for you to continue occupying temporary quarters after 60 consecutive days, it may authorize an extension of up to 60 additional consecutive days. Under no circumstances may you be authorized reimbursement for actual TQSE for more than a total of 120 consecutive days.

@@ -1,0 +1,3 @@
+##### § 102-79.115 What guidelines must an agency follow if it elects to establish a public access defibrillation program in a Federal facility? #####
+
+Federal agencies electing to establish a public access defibrillation program in a Federal facility must follow the guidelines, entitled “Guidelines for Public Access Defibrillation Programs in Federal Facilities,” which can be obtained from the Office of Governmentwide Policy, Office of Real Property (MP), General Services Administration, 1800 F Street, NW, Washington, DC 20405.

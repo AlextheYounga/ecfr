@@ -1,0 +1,3 @@
+##### § 102-33.395 What is FAIRS? #####
+
+FAIRS is a management information system operated by GSA to collect, maintain, analyze, and report information on Federal aircraft inventories and cost and usage of Federal aircraft and CAS aircraft (and related aviation services). Users access FAIRS through a highly-secure Web site. The U.S. Government Aircraft Cost Accounting Guide (CAG) (see *http://www.gsa.gov/aviationpolicy*) contains the business rules for using the system.

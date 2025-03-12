@@ -1,0 +1,3 @@
+##### § 102-2.10 What is the FMR's purpose? #####
+
+The FMR prescribes policies concerning property management and related administrative activities. GSA issues the FMR to carry out the Administrator of General Services' functional responsibilities, as established by statutes, Executive orders, Presidential memoranda, Circulars and bulletins issued by the Office of Management and Budget (OMB), and other policy directives.

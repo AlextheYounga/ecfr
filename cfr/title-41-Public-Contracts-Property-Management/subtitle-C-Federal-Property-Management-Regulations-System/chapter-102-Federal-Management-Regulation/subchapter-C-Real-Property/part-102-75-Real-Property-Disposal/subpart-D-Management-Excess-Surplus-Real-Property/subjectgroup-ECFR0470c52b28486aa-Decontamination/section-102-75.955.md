@@ -1,0 +1,3 @@
+##### § 102-75.955 Who is responsible for decontaminating excess and surplus real property? #####
+
+The landholding agency is responsible for all expenses to the Government and for the supervision of the decontamination of excess and surplus real property that has been contaminated with hazardous materials of any sort. Extreme care must be exercised in the decontamination, management, and disposal of contaminated property in order to prevent such properties from becoming a hazard to the general public. The landholding agency must inform the disposal agency of any and all hazards involved relative to such property to protect the general public from hazards and to limit the Government's liability resulting from disposal or mishandling of hazardous materials.

@@ -1,0 +1,3 @@
+##### § 105-64.803 How will my appeal be handled? #####
+
+The Privacy Act Officer will consult with legal counsel and the appropriate GSA officials concerning your appeal. The decision will be made by the Senior Agency Official for Privacy. The decision will be sent within 30 workdays of the appeal being received by the privacy office. The decision provided in the appeal letter is the final recourse.

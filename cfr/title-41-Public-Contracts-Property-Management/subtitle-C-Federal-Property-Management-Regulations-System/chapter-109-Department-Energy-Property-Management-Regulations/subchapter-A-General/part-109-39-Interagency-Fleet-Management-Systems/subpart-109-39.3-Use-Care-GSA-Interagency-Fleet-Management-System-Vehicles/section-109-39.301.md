@@ -1,0 +1,3 @@
+##### § 109-39.301 Utilization guidelines. #####
+
+DOE activities utilizing GSA IFMS motor vehicles will receive and review vehicle utilization statistics in order to determine if miles traveled justify vehicle inventory levels. Activities should retain justification for the retention of vehicles not meeting DOE utilization guidelines or established local use objectives, as appropriate. Those vehicles not justified for retention shall be returned to the issuing GSA interagency fleet management center.

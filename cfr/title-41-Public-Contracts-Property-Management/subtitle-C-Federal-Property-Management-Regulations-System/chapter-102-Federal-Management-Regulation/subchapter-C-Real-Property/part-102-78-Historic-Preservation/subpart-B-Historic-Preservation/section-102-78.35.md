@@ -1,0 +1,3 @@
+##### § 102-78.35 Are Federal agencies required to involve consulting parties in their historic preservation activities? #####
+
+Yes, Federal agencies must solicit information from consulting parties to carry out their responsibilities under historic and cultural preservation laws and regulations. Federal agencies must invite the participation of consulting parties through their normal public notification processes.

@@ -1,0 +1,3 @@
+##### § 105-68.950 Excluded Parties List System #####
+
+*Excluded Parties List System (EPLS)* means the list maintained and disseminated by the General Services Administration (GSA) containing the names and other information about persons who are ineligible. The *EPLS* system includes the printed version entitled, “List of Parties Excluded or Disqualified from Federal Procurement and Nonprocurement Programs,” so long as published.

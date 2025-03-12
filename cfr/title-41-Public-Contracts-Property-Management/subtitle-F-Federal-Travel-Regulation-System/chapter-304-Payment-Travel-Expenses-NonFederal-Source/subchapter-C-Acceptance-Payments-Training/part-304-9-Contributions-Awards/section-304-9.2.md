@@ -1,0 +1,3 @@
+##### § 304-9.2 May we allow an employee to accept contributions and awards pertaining to training and payments incident to attendance at meetings under this subchapter? #####
+
+Yes, you may allow an employee to accept contributions and awards pertaining to training and payments incident to attendance at meetings when you specifically authorize them to do so in accordance with OPM guidelines issued under section 401(b) of Executive Order 11348 (see 5 CFR part 410) and section 303(j) of Executive Order 11348 (3 CFR, 1966-1970 Comp., p. 639). The OPM guidelines may be found at 5 CFR 410.501 through 410.503.

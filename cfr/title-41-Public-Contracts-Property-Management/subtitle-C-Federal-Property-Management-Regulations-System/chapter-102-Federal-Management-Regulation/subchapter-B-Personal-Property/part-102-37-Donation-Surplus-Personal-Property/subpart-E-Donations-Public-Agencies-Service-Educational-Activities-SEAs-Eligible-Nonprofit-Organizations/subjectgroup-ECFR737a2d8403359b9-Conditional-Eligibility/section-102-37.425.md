@@ -1,0 +1,3 @@
+##### § 102-37.425 May a SASP grant conditional eligibility to a not-for-profit organization whose tax-exempt status is pending? #####
+
+No, under no circumstances may you grant conditional eligibility prior to receiving from the applicant a copy of a letter of determination by the Internal Revenue Service stating that the applicant is exempt from Federal taxation under section 501 of the Internal Revenue Code.

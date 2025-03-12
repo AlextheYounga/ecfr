@@ -1,0 +1,3 @@
+##### § 105-72.102 Effect on other issuances. #####
+
+For awards subject to this regulation, all administrative requirements of codified program regulations, program manuals, handbooks and other nonregulatory materials which are inconsistent with the requirements of this regulation shall be superseded, except to the extent they are required by statute, or authorized in accordance with the deviations provision in § 105-72.103.

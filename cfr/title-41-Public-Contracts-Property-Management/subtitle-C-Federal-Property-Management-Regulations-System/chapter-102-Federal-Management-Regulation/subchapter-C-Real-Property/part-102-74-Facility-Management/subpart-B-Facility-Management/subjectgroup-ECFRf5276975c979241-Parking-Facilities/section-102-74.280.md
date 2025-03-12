@@ -1,0 +1,3 @@
+##### § 102-74.280 Are privately owned vehicles converted for propane carburetion permitted in underground parking facilities? #####
+
+Federal agencies must not permit privately owned vehicles converted for propane carburetion to enter underground parking facilities unless the owner provides to the occupant agency and the Federal agency buildings manager the installer's certification that the installation methods and equipment comply with National Fire Protection Association (NFPA) Standard No. 58.

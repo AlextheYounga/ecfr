@@ -1,0 +1,3 @@
+##### § 102-74.120 Is a prospectus required to be submitted before emergency alterations can be performed? #####
+
+No. A prospectus does not need to be submitted before emergency alterations are performed, but GSA must submit a prospectus as soon as possible after the emergency. Federal agencies must immediately alter a building if the alteration protects people, buildings, or equipment, saves lives, and/or avoids further property damage. Federal agencies can take these actions in an emergency before GSA submits a prospectus on the alterations to the Senate Committee on Environment and Public Works and the House Committee on Transportation and Infrastructure.

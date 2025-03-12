@@ -1,0 +1,3 @@
+##### § 102-74.165 What energy standards must Federal agencies follow for existing facilities? #####
+
+Existing Federal facilities must meet the energy standards prescribed by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North American in ASHRAE/IES Standard 90A-1980, as amended by the Department of Energy. Federal agencies must apply these energy standards where they can be achieved through life cycle, cost effective actions.

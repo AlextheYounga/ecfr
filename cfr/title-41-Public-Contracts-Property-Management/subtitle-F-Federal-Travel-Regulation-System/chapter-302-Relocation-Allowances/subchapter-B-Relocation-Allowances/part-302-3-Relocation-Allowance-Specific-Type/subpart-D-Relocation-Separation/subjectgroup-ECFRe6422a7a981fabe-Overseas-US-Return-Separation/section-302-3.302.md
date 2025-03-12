@@ -1,0 +1,3 @@
+##### § 302-3.302 May my agency pay for my immediate family member(s) and my household goods to be returned to the U.S. before I complete my service agreement? #####
+
+Yes, your agency may pay for your immediate family member(s) and your household goods to be returned to the U.S. before you complete your service agreement. However, your reason for not completing your service agreement must be determined by your agency as compassionate in nature or for circumstances beyond your control.

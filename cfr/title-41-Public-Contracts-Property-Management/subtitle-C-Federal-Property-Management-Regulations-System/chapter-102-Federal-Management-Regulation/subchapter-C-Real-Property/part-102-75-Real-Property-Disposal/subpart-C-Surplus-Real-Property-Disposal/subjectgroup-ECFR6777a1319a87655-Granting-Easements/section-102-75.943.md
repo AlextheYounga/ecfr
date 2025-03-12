@@ -1,0 +1,3 @@
+##### § 102-75.943 What happens if granting an easement will reduce the value of the property? #####
+
+If the easement will reduce the property's value, agencies must grant the easement for the amount by which the property's fair market value is decreased unless the agency determines that the Government's best interests are served by granting the easement at either reduced or without monetary or other consideration.

@@ -1,0 +1,3 @@
+##### § 60-300.43 Affirmative action policy. #####
+
+Under the affirmative action obligations imposed by the Act, contractors shall not discriminate against protected veterans, and shall take affirmative action to employ and advance in employment qualified protected veterans at all levels of employment, including the executive level. Such action shall apply to all employment activities set forth in § 60-300.20.

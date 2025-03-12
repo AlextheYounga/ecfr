@@ -1,0 +1,3 @@
+##### § 302-3.222 Will I be reimbursed if I travel to another overseas location (instead of the U.S.)? #####
+
+If you travel to another overseas location (instead of the U.S.), you will be reimbursed only if your actual residence is within that country in which you are taking your leave, and then you will only be reimbursed your authorized travel and transportation expenses. You will have to pay any expense(s) above your authorized amount.

@@ -1,0 +1,3 @@
+##### § 102-3.135 What does this subpart cover and how does it apply? #####
+
+This subpart establishes policies and procedures relating to meetings and other activities undertaken by advisory committees and their subcommittees. This subpart also outlines what records must be kept by Federal agencies and what other documentation, including advisory committee minutes and reports, must be prepared and made available to the public.

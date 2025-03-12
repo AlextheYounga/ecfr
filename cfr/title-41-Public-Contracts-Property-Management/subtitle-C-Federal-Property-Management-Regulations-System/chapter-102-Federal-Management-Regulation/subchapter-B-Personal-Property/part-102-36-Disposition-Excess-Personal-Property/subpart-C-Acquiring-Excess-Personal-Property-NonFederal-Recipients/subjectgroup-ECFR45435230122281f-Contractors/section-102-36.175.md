@@ -1,0 +1,3 @@
+##### § 102-36.175 Are there restrictions to acquiring excess personal property for use by our contractors? #####
+
+Yes, you may acquire and furnish excess personal property for use by your contractors subject to the criteria and restrictions in the Federal Acquisition Regulation (48 CFR part 45). When such property is no longer needed by your contractors or your agency, you must dispose of the excess personal property in accordance with the provisions of this part.

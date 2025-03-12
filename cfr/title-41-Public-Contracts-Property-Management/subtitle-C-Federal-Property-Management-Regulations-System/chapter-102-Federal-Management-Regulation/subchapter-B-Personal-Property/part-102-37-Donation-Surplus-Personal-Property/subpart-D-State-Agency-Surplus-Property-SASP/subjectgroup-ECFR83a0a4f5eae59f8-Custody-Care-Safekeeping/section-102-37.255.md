@@ -1,0 +1,3 @@
+##### § 102-37.255 Must a SASP insure surplus property against loss or damage? #####
+
+No, you are not required to carry insurance on Federal surplus property in your custody. However, if you elect to carry insurance and the insured property is lost or damaged, you must submit a check made payable to GSA for any insurance proceeds received in excess of your actual costs of acquiring and rehabilitating the property prior to its loss, damage, or destruction.

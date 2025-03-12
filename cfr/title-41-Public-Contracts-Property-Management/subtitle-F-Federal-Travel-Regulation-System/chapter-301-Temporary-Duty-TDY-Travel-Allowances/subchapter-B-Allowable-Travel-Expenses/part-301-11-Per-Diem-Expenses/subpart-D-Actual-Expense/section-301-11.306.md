@@ -1,0 +1,5 @@
+##### § 301-11.306 What expenses am I required to itemize under actual expense? #####
+
+You must itemize all expenses, including meals, (each meal must be itemized separately) for which you will be reimbursed under actual expense. However, expenses that do not accrue daily (e.g., laundry, dry cleaning, etc.) may be averaged over the number of days your agency authorizes/approves actual expenses. Receipts are required for lodging, regardless of amount and any individual meal when the cost exceeds $75. Your agency may require receipts for other allowable per diem expenses, but it must inform you of this requirement in advance of travel. When your agency limits M&IE reimbursement to either the prescribed maximum M&IE rate for the locality concerned or a reduced M&IE rate, it may or may not require M&IE itemization at its discretion.
+
+[FTR Amdt. 70, 63 FR 15961, Apr. 1, 1998; 63 FR 35537, June 30, 1998]

@@ -1,0 +1,3 @@
+##### § 102-84.50 May the GSA Form 1166 be used to report information? #####
+
+No. Agencies must submit information in accordance with the electronic format outlined in the annual reporting instructions by either submitting an XML file in a predetermined format or by entering the data manually into the online Federal Real Property Profile system. For more information on format requirements, or any other information and guidance on the Annual Real Property Inventory, contact GSA's Office of Governmentwide Policy, Office of Real Property (MP), 1800 F Street, NW., Washington, DC 20405, or by telephone at (202) 501-0856.

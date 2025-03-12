@@ -1,0 +1,3 @@
+##### § 101-5.305 Agency participation. #####
+
+At the time the space requirements for a building or a group of adjoining buildings are developed by GSA, the prospective occupying agencies will be canvassed by GSA to determine if they wish to participate in the occupational health services program. Each agency desiring to participate in the program will be requested to furnish GSA with a written commitment, signed by an authorized official, that it is prepared to reimburse GSA, or such other agency as is designated pursuant to § 101-5.105(b), on a yearly per capita basis for each of its employees housed in the building or buildings covered by the program.

@@ -1,0 +1,3 @@
+##### § 102-75.351 May the disposal agency waive screening for public benefit conveyances? #####
+
+All properties, consistent with the highest and best use analysis, will normally be screened for public benefit uses. However, the disposal agency may waive public benefit screening, with the exception of the mandatory McKinney-Vento homeless screening, for specific property disposal considerations, e.g., when a property has been reported excess for exchange purposes.

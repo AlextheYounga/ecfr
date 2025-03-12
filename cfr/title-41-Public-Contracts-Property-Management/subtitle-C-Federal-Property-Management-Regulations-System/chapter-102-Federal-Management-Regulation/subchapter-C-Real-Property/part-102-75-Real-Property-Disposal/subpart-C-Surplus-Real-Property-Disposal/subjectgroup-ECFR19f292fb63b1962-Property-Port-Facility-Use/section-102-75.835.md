@@ -1,0 +1,3 @@
+##### § 102-75.835 When must DOT notify the disposal agency that an eligible applicant is interested in acquiring the property? #####
+
+DOT must notify the disposal agency within 30 calendar days after the date of the surplus notice if there is an eligible applicant interested in acquiring the property. After that 30-calendar day period expires, DOT then has another 30 calendar days to review and approve applications and notify the disposal agency of the need for the property. If no application is approved, then DOT must notify the disposal agency that there is no requirement for the property within the same 30-calendar day period allotted for review and approval.

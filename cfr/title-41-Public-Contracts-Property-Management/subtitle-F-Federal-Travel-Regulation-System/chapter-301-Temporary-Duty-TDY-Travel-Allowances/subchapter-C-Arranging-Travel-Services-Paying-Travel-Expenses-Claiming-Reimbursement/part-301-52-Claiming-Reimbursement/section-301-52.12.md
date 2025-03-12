@@ -1,0 +1,9 @@
+##### § 301-52.12 What happens if I attempt to defraud the Government? #####
+
+(a) You forfeit reimbursement pursuant to 28 U.S.C. 2514; and
+
+(b) You may be subject under 18 U.S.C. 287 and 1001 to one, or both, of the following:
+
+(1) A fine of not more than $10,000, or
+
+(2) Imprisonment for not more than 5 years.

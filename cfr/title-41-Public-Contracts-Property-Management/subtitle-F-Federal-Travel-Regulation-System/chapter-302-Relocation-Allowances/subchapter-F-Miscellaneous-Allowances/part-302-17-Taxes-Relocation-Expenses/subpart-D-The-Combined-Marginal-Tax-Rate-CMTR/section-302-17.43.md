@@ -1,0 +1,7 @@
+##### § 302-17.43 What local marginal tax rate(s) does my agency use? #####
+
+(a) If you incur local tax liability, you provide the applicable marginal tax rate(s) on your “Statement of Income and Tax Filing Status”. Your agency validates the applicable local marginal tax rate(s) and uses it (them) in the CMTR formula.
+
+(b) If you incur local income tax liability in more than one locality, then your agency should follow the rules described for state income taxes in § 302-17.42 to calculate the local marginal tax rate that will be used in the CMTR formula and to compute your RITA, and you should follow the rules in § 302-17.42 to determine your actions.
+
+(c) If a locality in which you incur income tax liability publishes its tax rates in terms of a percentage of your Federal or state taxes, then your agency must convert that tax rate to a percentage of your income to use it in computing your CMTR. This is accomplished by multiplying the applicable Federal or state tax rate by the applicable local tax rate. For example, if the state marginal tax rate is 6 percent and the local tax rate is 50 percent of state income tax liability, the local marginal tax rate stated as a percentage of taxable income would be 3 percent.

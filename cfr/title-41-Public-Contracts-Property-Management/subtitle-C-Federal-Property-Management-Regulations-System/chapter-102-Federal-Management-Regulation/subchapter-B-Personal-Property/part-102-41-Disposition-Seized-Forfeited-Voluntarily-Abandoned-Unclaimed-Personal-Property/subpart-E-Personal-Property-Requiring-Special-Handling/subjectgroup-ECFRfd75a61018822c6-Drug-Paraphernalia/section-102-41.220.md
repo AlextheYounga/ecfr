@@ -1,0 +1,3 @@
+##### § 102-41.220 Is drug paraphernalia forfeited under 21 U.S.C. 863 available for transfer to other Federal agencies or donation through a State Agency for Surplus Property (SASP)? #####
+
+Yes, but GSA will only transfer or donate forfeited drug paraphernalia for law enforcement or educational purposes and only for use by Federal, State, or local authorities. Federal or State Agencies for Surplus Property (SASP) requests for such items must be processed through the General Services Administration, Property Management Branch (3FPD), Washington, DC 20407. The recipient must certify on the transfer document that the drug paraphernalia will be used for law enforcement or educational purposes only.

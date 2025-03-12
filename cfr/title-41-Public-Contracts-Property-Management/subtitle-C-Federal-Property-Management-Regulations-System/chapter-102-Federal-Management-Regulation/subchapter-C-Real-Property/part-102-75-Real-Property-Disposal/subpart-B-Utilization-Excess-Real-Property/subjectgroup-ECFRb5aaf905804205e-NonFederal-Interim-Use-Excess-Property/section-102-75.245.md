@@ -1,0 +1,3 @@
+##### § 102-75.245 When can landholding agencies grant rights for non-Federal interim use of excess property reported to GSA? #####
+
+Landholding agencies, upon approval from GSA, may grant rights for non-Federal interim use of excess property reported to GSA, when it is determined that such excess property is not required for the needs of any Federal agency and when the interim use will not impair the ability to dispose of the property.

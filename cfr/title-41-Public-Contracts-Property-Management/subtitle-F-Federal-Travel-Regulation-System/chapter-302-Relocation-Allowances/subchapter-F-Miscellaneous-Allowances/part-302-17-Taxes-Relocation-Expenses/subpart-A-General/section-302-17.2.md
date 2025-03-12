@@ -1,0 +1,3 @@
+##### § 302-17.2 Why does relocation affect personal income taxes? #####
+
+When you are relocated from one permanent duty station to another, you are reimbursed by your employing agency for certain expenses. The IRC requires that you report many of these relocation benefits, including some that your agency pays on your behalf, as taxable income. When you receive taxable benefits, you must pay income tax on the amount or value of those benefits. However, 5 U.S.C. 5724b also requires that your agency reimburse you for substantially all of the additional Federal, state, and local income taxes you incur as a result of any taxable relocation benefits. A reimbursement for taxes is also a taxable benefit on which you must pay additional taxes.

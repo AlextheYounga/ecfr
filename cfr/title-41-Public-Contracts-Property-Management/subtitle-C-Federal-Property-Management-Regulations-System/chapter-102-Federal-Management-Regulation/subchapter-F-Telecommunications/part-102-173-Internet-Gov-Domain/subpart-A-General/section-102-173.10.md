@@ -1,0 +1,3 @@
+##### § 102-173.10 What is the authority or jurisdiction of the Internet GOV Domain? #####
+
+Jurisdiction of the Internet GOV (dot-gov) domain was delegated to the General Services Administration in 1997 by the Federal Networking Council with guidance in the form of Internet Engineering Task Force (IETF) Informational RFC 2146, which can be obtained on the Internet at: *http://www.ietf.org/rfc/rfc2146.txt?number = 2146.*

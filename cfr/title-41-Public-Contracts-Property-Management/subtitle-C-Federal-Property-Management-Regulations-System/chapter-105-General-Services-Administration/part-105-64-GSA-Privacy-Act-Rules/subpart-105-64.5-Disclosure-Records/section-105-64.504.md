@@ -1,0 +1,3 @@
+##### § 105-64.504 Under what conditions will I be denied an accounting of disclosures? #####
+
+The system manager will deny your request for an accounting of disclosures when the disclosures are to GSA officials or employees in the performance of their duties or disclosures under the Freedom of Information Act, for which no accounting is required; law enforcement agencies for law enforcement activities; and systems of records exempted by notice in the Federal Register. You may appeal a denial using the same procedures as those for denial of access to records, *see* Subpart 105-64.3.

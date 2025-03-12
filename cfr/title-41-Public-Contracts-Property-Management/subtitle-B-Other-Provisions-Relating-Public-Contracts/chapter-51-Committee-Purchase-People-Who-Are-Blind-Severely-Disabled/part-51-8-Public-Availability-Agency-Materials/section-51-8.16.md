@@ -1,0 +1,3 @@
+##### § 51-8.16 Preservation of records. #####
+
+The Committee shall preserve all correspondence relating to the requests it receives under this part, and all records processed pursuant to such requests, until such time as the destruction of such correspondence and records is authorized pursuant to Title 44 United States Code, and to the General Records Schedule. Records shall not be destroyed while they are the subject of a pending request, appeal, or lawsuit under the Act.

@@ -1,0 +1,3 @@
+##### § 101-28.306-5 Safeguards. #####
+
+Agencies shall establish internal controls to ensure that the customer access codes assigned for their accounts are properly protected. It is by use of these access codes that orders are accepted by the CSC and these codes determine the ship-to points for all orders filled by the CSC with the exception of orders picked up at the CSC by the customer. GSA will not change the ship-to location associated with the customer access code except upon receipt of a written request to do so, signed by a duly authorized official of the customer activity.

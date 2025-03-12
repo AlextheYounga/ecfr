@@ -1,0 +1,3 @@
+##### § 102-38.370 What does a holding agency do with property which cannot be sold by its SC? #####
+
+All reasonable efforts must be afforded the SC to sell the property. If the property remains unsold after the time frame agreed to between the SC and the holding agency, the holding agency may dispose of the property by sale or as otherwise provided in § 102-38.70. The lack of public interest in buying the property is evidence that the sales proceeds would be minimal. Agencies selling property under authority of this subpart are still required to report sales metrics in accordance with eFAS ESC-approved format and content.

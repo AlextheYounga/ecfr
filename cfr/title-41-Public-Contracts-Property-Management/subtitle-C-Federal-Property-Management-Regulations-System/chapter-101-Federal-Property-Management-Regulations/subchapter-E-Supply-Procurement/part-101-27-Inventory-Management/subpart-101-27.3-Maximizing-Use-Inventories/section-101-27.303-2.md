@@ -1,0 +1,9 @@
+##### § 101-27.303-2 Redistribution. #####
+
+If the long supply of an item remains greater than 10 percent of the total stock of an item despite efforts to cancel or transfer the long supply as provided in § 101-27.303-1, the inventory manager shall offer the long supply to another agency or other agencies in accordance with this § 101-27.303-2. Before offering a long supply to any agency, the inventory manager shall determine whether the item to be offered is a centrally managed item or an agency managed item. A centrally managed item is an item of supply or equipment which forms part of an inventory of an agency performing a mission of storage and distribution to other Government activities; e.g., GSA and DSA. An agency managed item is a procured item that forms a part of a controlled inventory of an agency and its activities for issue internally for its own use. After determining whether the item to be offered is an agency or centrally managed item, the inventory manager shall:
+
+(a) Offer centrally managed items to the agency managing the item for return and credit in accordance with the procedures established by that agency; and
+
+(b) Offer agency managed items to other agencies which manage the same item. Reimbursement shall be arranged by the agencies effecting the inventory transfer. The responsibility of locating agencies or activities requiring these items shall rest with the agency holding the long supply. However, agencies may receive a list of Government activities using particular national stock numbers by writing to the General Services Administration (FFL), Washington, DC 20406.
+
+[32 FR 13456, Sept. 26, 1967, as amended at 41 FR 3858, Jan. 27, 1976]

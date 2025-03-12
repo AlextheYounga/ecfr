@@ -1,0 +1,3 @@
+##### § 105-64.201 How do I get access to my records? #####
+
+You may request access to your record in person or by writing to the system manager or, in the case of geographically dispersed records, to the office maintaining the records (*see* appendix A to this part). Parents or guardians may obtain access to records of minors or when a court has determined that the individual of record is incompetent.

@@ -1,0 +1,3 @@
+##### § 304-3.3 May my agency or I accept payment for travel expenses to a meeting from a non-Federal source? #####
+
+Yes, you or your agency may accept such a payment from a non-Federal source, but you may only accept when your agency specifically authorizes such acceptance under the requirements of this part. Except as provided in § 304-3.13 of this part, your agency must approve acceptance of such payment in advance of your travel.

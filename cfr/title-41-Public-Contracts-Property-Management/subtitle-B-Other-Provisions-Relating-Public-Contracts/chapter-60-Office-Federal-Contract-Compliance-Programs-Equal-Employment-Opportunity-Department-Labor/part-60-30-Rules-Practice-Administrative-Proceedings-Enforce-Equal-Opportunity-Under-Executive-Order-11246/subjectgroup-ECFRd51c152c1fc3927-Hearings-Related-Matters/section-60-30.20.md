@@ -1,0 +1,3 @@
+##### § 60-30.20 Ex parte communications. #####
+
+The Administrative Law Judge shall not consult any person, or party, on any fact in issue unless upon notice and opportunity for all parties to participate. No employee or agent of the Federal Government engaged in the investigation and prosecution of this case shall participate or advise in the rendering of the recommended or final decision in the case, except as witness or counsel in the proceeding.

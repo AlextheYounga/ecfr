@@ -1,0 +1,3 @@
+##### § 102-41.215 Do we report to GSA all forfeited, voluntarily abandoned, or unclaimed drug paraphernalia not required for official use? #####
+
+No, only report drug paraphernalia that has been seized and forfeited for a violation of 21 U.S.C. 863. Unless statutorily authorized to do otherwise, destroy all other forfeited, voluntarily abandoned, or unclaimed drug paraphernalia. You must ensure the destruction is performed in the presence of two witnesses (employees of your agency), and retain in your records a signed certification of destruction.

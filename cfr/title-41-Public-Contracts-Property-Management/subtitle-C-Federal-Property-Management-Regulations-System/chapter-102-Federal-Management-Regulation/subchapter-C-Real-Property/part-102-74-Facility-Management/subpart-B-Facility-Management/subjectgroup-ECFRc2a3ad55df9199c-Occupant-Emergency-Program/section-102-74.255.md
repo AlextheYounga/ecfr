@@ -1,0 +1,3 @@
+##### § 102-74.255 How must occupant evacuation or relocation be accomplished when there is immediate danger to persons or property, such as fire, explosion or the discovery of an explosive device (not including a bomb threat)? #####
+
+The Designated Official must initiate action to evacuate or relocate occupants in accordance with the plan by sounding the fire alarm system or by other appropriate means when there is immediate danger to persons or property, such as fire, explosion or the discovery of an explosive device (not including a bomb threat).

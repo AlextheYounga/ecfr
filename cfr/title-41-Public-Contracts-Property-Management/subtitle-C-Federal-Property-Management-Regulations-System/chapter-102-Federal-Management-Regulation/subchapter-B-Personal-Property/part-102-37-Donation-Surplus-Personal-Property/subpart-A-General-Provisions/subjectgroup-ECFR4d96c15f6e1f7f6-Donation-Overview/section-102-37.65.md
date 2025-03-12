@@ -1,0 +1,3 @@
+##### § 102-37.65 What happens to surplus property that has been approved for transfer when the prospective transferee decides it cannot use the property and declines to pick it up? #####
+
+When a prospective transferee decides it cannot use surplus property that has already been approved for transfer and declines to pick it up, the GSA regional office will advise any other SASP or public airport known to be interested in the property to submit a transfer request. If there is no transfer interest, GSA will release the property for other disposal.

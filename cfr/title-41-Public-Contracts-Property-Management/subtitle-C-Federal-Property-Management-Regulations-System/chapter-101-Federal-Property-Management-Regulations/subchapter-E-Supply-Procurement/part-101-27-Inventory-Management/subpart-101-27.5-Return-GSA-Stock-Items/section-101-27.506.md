@@ -1,0 +1,3 @@
+##### § 101-27.506 Determination of acceptability for credit. #####
+
+Returned material will be examined by GSA upon receipt to determine acceptability for credit. Returned material which is unacceptable for credit will be deemed to have been declared excess by the returning activity, and will be disposed of by GSA as excess or surplus in the name of the activity, in accordance with part 101-43 of this chapter. The returning activity will be officially notified of the disposal action taken by GSA.

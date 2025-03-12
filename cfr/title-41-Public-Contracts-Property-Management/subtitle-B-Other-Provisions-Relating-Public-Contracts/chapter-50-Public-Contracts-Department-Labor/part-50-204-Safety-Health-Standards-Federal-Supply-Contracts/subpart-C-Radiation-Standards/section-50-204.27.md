@@ -1,0 +1,7 @@
+##### § 50-204.27 Instruction of personnel posting. #####
+
+Employers regulated by the AEC shall be governed by “§ 20.206” (10 CFR part 20) standards. Employers in a State named in § 50-204.34(c) shall be governed by the requirements of the laws and regulations of that State. All other employers shall be regulated by the following:
+
+(a) All individuals working in or frequenting any portion of a radiation area shall be informed of the occurrence of radioactive materials or of radiation in such portions of the radiation area; shall be instructed in the safety problems associated with exposure to such materials or radiation and in precautions or devices to minimize exposure; shall be instructed in the applicable provisions of this subpart for the protection of employees from exposure to radiation or radioactive materials; and shall be advised of reports of radiation exposure which employees may request pursuant to the regulations in this part.
+
+(b) Each employer to whom this subpart applies shall post a current copy of its provisions and a copy of the operating procedures applicable to the work under contract conspicuously in such locations as to ensure that employees working in or frequenting radiation areas will observe these documents on the way to and from their place of employment, or shall keep such documents available for examination of employees upon request.

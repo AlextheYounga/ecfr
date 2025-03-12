@@ -1,0 +1,3 @@
+##### § 102-42.110 How must we justify a transfer request? #####
+
+You may only request excess gifts and decorations for public display or other bona fide agency use and not for the personal benefit of any individual. GSA may require that transfer orders be supported by justifications for the intended display or official use of requested gifts and decorations. Jewelry and watches that are transferred for official display must be displayed with adequate provisions for security.

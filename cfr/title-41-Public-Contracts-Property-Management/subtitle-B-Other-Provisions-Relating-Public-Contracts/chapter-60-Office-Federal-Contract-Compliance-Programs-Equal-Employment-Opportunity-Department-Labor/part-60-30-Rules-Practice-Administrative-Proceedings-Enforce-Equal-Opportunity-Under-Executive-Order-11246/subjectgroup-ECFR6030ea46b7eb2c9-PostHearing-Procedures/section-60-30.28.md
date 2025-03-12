@@ -1,0 +1,5 @@
+##### § 60-30.28 Exceptions to recommended decisions. #####
+
+Within 14 days after receipt of the recommended findings, conclusions, and decision, any party may submit exceptions to said recommendation. These exceptions may be responded to by other parties within 14 days of their receipt by said parties. All exceptions and responses shall be filed with the Administrative Review Board, United States Department of Labor. Service of such briefs or exceptions and responses shall be made simultaneously on all parties to the proceeding. Requests to the Administrative Review Board, United States Department of Labor, for additional time in which to file exceptions and responses shall be in writing and copies shall be served simultaneously on other parties. Requests for extensions must be received no later than 3 days before the exceptions are due.
+
+[61 FR 19988, May 3, 1996]

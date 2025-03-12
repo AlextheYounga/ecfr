@@ -1,0 +1,3 @@
+##### § 102-85.190 Can GSA Rent be adjusted when standard levels of service are performed by other customer agencies? #####
+
+Customer agencies that arrange and pay separately for the costs of standard level services normally covered by GSA Rent will receive a Rent credit or other type of reimbursement by GSA for the amount GSA would have charged for such services. The type of reimbursement is at GSA's discretion. The reimbursement is limited to the amount included for the services in GSA Rent. Approval to perform or contract for such services must be obtained in advance by the customer agency from the appropriate GSA regional office.

@@ -1,0 +1,3 @@
+##### § 102-192.90 What must we include in our annual mail management report to GSA? #####
+
+You must provide an agency-wide response to the GSA requested data elements. GSA will provide the list of data elements in a Federal Management Regulation (FMR) Bulletin. GSA coordinates all mail management related FMR bulletins with the Federal Mail Executive Council and updates them as necessary. FMR bulletins are available at: *http://www.gsa.gov/bulletins.*

@@ -1,0 +1,3 @@
+##### § 102-75.565 Is the requirement for self-help housing or housing assistance use of the property by an eligible public agency or non-profit organization contingent upon the disposal agency's approval of an assignment recommendation from the Department of Housing and Urban Development (HUD)? #####
+
+Yes, the requirement for self-help housing or housing assistance use of the property by an eligible public agency or nonprofit organization is contingent upon the disposal agency's approval under § 102-75.585 of HUD's assignment recommendation/request. Any subsequent transfer is subject to the approval of the head of the disposal agency as stipulated under 40 U.S.C. 550(f) and referenced in § 102-75.605.

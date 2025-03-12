@@ -1,0 +1,9 @@
+##### § 301-11.601 What is a taxable extended TDY assignment? #####
+
+A taxable extended TDY assignment is a TDY assignment that continues for so long that, under the IRC the employee is no longer considered temporarily away from home during any period of employment if such period exceeds 1 year. You are no longer temporarily away from home as of the date that you and/or your agency recognize that your assignment will exceed one year. That is, as soon as you recognize that your assignment will exceed one year, you must notify your agency of that fact, and they must change your status immediately. Similarly, as soon as your agency recognizes that your assignment will exceed one year, your agency must notify you of that fact and change your status. The effective date of this status change is the date on which it was recognized that you are no longer temporarily away from home as defined in the IRC.
+
+(a) If you believe that your temporary duty assignment may exceed one year, you should carefully study IRS Publication 463, “Travel, Entertainment, Gift, and Car Expenses,” to determine whether you are or will be considered “temporarily away from home” under this provision. If you are not or will not be considered temporarily away from home under this provision, then you are on taxable extended TDY.
+
+(b) The IRC makes an exception for certain Federal personnel involved in investigation or prosecution of a Federal crime during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate or prosecute, or provide support services for the investigation or prosecution of, a Federal crime.
+
+[FTR Amdt. 2014-01, 79 FR 49643, Aug. 21, 2014]

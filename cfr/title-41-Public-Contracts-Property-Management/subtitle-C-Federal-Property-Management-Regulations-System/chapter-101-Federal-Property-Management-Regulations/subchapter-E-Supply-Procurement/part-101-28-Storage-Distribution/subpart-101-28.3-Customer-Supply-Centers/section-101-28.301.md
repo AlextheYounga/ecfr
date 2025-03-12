@@ -1,0 +1,3 @@
+##### § 101-28.301 Applicability. #####
+
+This subpart is applicable to all activities that are eligible to use customer supply centers. Eligible activities include executive agencies, elements of the legislative and judicial branches of the Government, and cost reimbursable contractors. Customer supply centers are for the use of activities located within the market area of a customer supply center as determined by GSA.

@@ -1,0 +1,3 @@
+##### § 102-75.445 Who can convey surplus real and related personal property for historic monument use? #####
+
+A disposal agency may convey surplus real and related personal property for use as a historic monument, without monetary consideration, to any State, political subdivision, instrumentality thereof, or municipality, for the benefit of the public, provided the Secretary of the Interior has determined that the property is suitable and desirable for such use.

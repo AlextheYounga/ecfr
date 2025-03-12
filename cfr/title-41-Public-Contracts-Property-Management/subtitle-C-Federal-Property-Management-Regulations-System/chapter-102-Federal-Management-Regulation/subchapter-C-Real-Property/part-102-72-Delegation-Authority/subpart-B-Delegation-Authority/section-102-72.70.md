@@ -1,0 +1,3 @@
+##### § 102-72.70 What are Executive agencies' responsibilities under a delegation of lease management authority (contracting officer representative authority) from GSA? #####
+
+When an Executive agency does not exercise the delegation of authority mentioned in § 102-72.30(b) to lease general purpose space itself, it may be delegated, upon request, lease management authority to manage the administration of one or more lease contracts awarded by GSA.

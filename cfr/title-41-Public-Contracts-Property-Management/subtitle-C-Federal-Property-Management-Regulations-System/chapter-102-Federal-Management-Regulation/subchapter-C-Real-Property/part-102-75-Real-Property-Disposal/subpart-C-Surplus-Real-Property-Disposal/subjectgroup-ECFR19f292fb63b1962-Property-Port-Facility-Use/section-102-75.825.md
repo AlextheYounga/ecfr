@@ -1,0 +1,3 @@
+##### § 102-75.825 Who must the disposal agency notify when surplus real and related personal property is available for port facility use? #####
+
+The disposal agency must notify established State, regional or metropolitan clearinghouses and eligible public agencies that surplus real property is available for the development or operation of a port facility. The disposal agency must transmit a copy of the notice to DOT and a copy of the landholding agency's Report of Excess Real Property (Standard Form 118 and supporting schedules).

@@ -1,0 +1,3 @@
+##### § 105-64.801 How to file a privacy complaint. #####
+
+E-mail your complaint to *gsa.privacyact@gsa.gov* or send to: GSA Privacy Act Officer (CIB), General Services Administration, 1800 F Street NW., Washington, DC 20405. Please provide as much details about the complaint in the communication. Provide contact information where you prefer all communication to be sent. The Privacy Officer will conduct an investigation and consult with appropriate GSA officials and legal counsel to render a decision within 30 workdays of the complaint being received by the privacy office. The decision will be sent by the method the complaint was received.

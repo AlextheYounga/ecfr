@@ -1,0 +1,3 @@
+##### § 102-81.10 What basic security policy governs Federal agencies? #####
+
+Federal agencies on Federal property under the charge and control of the Administrator and having a security delegation of authority from the Secretary of the Department of Homeland Security must provide for the security and protection of the real estate they occupy, including the protection of persons within the property.

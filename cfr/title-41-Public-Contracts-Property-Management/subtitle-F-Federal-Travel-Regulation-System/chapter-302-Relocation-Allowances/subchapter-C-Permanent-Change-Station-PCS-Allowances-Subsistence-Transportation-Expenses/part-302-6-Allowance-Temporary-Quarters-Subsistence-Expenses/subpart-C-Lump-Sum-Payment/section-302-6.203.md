@@ -1,0 +1,3 @@
+##### § 302-6.203 May I retain any balance left over from my TQSE lump sum payment if such payment is more than adequate? #####
+
+Yes, if your lump sum TQSE payment is more than adequate to cover your actual TQSE expenses, any balance belongs to you. (E.g., if your agency authorizes and you accept a lump sum payment for 15 days of TQSE and you vacate TQ after 10 days for any reason, you would retain the remaining balance for the 5 days of TQSE not incurred).

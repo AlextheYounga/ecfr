@@ -1,0 +1,7 @@
+##### § 102-36.475 What is the authority for transfers under “Computers for Learning”? #####
+
+(a) The Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3710(i)), authorizes federal agencies to transfer excess education-related federal equipment to educational institutions or nonprofit organizations for educational and research activities. Executive Order 12999 (3 CFR, 1996 Comp., p. 180) requires, to the extent permitted by law and where appropriate, the transfer of computer equipment for use by schools or nonprofit organizations.
+
+(b) Each federal agency is required to identify a point of contact within the agency to assist eligible recipients, and to publicize the availability of such property to eligible communities. Excess education-related equipment may be transferred directly under established agency procedures, or reported to GSA as excess for subsequent transfer to potential eligible recipients as appropriate. You must include transfers under this authority in the annual Non-federal Recipients Report (See § 102-36.295) to GSA.
+
+(c) The “Computers for Learning” website has been developed to streamline the transfer of excess and surplus Federal computer equipment to schools and nonprofit educational organizations. For additional information about this program access the “Computers for Learning” website, *http://www.computers.fed.gov.*

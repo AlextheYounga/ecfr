@@ -1,0 +1,3 @@
+##### § 102-75.155 What happens if GSA determines that the report of excess is insufficient? #####
+
+Where GSA determines that a report is insufficient, GSA will return the report and inform the landholding agency of the facts and circumstances that make the report insufficient. The landholding agency must promptly take appropriate action to submit an acceptable report to GSA. If the landholding agency is unable to submit an acceptable report, the property will no longer be considered as excess property and the disposal agency will cease activity for the disposal of the property. However, GSA may accept the report of excess on a conditional basis and identify what deficiencies in the report must be corrected in order for the report to gain full acceptance.

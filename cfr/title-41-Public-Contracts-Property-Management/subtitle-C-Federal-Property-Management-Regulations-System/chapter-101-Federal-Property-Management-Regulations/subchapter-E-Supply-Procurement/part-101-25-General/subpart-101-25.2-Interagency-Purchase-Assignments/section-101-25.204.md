@@ -1,0 +1,7 @@
+##### § 101-25.204 Centralized purchases by designated executive agencies under authority delegated by the Administrator of General Services. #####
+
+Designated executive agencies will exclusively, or with specified limited exceptions, make purchases and contracts on a continuing basis for items or item groups of articles and services for the executive branch of the Government in the interest of lower prices, improved quality, and service or standardization when:
+
+(a) The Administrator of General Services has determined, based upon the factors listed in § 101-25.202, that a selected executive agency is best equipped to perform certain purchasing and contracting functions, and the Administrator of General Services has issued appropriate regulations designating the categories of articles or services complying with paragraphs (a), (b), and (c) of § 101-25.203 that are to be purchased exclusively by the named executive agency under authority delegated by the Administrator of General Services; and
+
+(b) The head of the designated executive agency has issued appropriate instructions, or a Federal Supply Schedule, under authority as delegated by and in the form approved by the Administrator, specifically designating the item or item groups of articles or services that are thereafter to be purchased exclusively for all executive agencies, or with specified limited exceptions, by the designated executive agency.

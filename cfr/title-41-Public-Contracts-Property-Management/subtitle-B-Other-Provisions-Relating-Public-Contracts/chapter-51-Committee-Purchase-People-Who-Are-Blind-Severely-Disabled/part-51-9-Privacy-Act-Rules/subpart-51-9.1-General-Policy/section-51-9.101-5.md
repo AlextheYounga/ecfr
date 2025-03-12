@@ -1,0 +1,3 @@
+##### § 51-9.101-5 Safeguarding systems of records. #####
+
+The Executive Director shall ensure that appropriate administrative, technical and physical safeguards are established to ensure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained.

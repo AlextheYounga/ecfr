@@ -1,0 +1,3 @@
+##### § 102-74.230 Who is responsible for establishing an occupant emergency program? #####
+
+The Designated Official (as defined in § 102-71.20 of this chapter) is responsible for developing, implementing and maintaining an Occupant Emergency Plan (as defined in § 102-71.20 of this chapter). The Designated Official's responsibilities include establishing, staffing and training an Occupant Emergency Organization with agency employees. Federal agencies, upon approval from GSA, must assist in the establishment and maintenance of such plans and organizations.

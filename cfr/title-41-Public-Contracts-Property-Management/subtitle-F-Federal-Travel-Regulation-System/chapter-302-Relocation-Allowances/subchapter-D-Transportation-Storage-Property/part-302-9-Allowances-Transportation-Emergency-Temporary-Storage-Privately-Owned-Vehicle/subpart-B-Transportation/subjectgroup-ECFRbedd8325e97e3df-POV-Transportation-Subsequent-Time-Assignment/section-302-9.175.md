@@ -1,0 +1,3 @@
+##### § 302-9.175 When I am authorized to transport a POV, including a replacement POV, to my post of duty subsequent to the time of my assignment to that post of duty, may I have the manufacturer or the manufacturer's agent transport a new POV from the factory or other shipping point directly to my post of duty? #####
+
+Yes, you may have the manufacture or manufacture's agent transport a new POV from the factory or other shipping point to your post of duty under the same conditions specified in § 302-9.143.

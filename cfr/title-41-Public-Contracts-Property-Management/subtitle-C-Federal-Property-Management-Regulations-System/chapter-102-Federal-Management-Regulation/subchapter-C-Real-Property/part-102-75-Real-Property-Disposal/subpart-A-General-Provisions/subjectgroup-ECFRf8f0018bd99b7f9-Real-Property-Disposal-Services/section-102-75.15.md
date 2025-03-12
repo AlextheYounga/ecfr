@@ -1,0 +1,3 @@
+##### § 102-75.15 What real property disposal services must agencies provide under a delegation of authority from GSA? #####
+
+Disposal agencies must provide real property disposal services for real property assets under their custody and control, such as the utilization of excess property, surveys, and the disposal of surplus property, which includes public benefit conveyances, negotiated sales, public sales, related disposal services, and appraisals.

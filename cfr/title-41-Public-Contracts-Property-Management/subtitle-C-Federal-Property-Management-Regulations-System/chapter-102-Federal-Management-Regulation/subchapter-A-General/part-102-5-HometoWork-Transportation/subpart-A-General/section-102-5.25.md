@@ -1,0 +1,3 @@
+##### § 102-5.25 What additional guidance concerning home-to-work transportation should Federal agencies issue? #####
+
+Each Federal agency using Government passenger carriers to provide home-to-work transportation for employees who are essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties should issue guidance concerning such use.

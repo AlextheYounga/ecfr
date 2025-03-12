@@ -1,0 +1,3 @@
+##### § 102-74.445 What is the policy concerning discrimination on Federal property? #####
+
+Federal agencies must not discriminate by segregation or otherwise against any person or persons because of race, creed, religion, age, sex, color, disability, or national origin in furnishing or by refusing to furnish to such person or persons the use of any facility of a public nature, including all services, privileges, accommodations, and activities provided on the property.

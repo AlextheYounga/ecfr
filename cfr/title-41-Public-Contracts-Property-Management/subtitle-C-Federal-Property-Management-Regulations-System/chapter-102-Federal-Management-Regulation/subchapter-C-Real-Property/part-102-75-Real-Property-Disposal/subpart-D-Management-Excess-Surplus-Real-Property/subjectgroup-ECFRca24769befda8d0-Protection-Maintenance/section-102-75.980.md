@@ -1,0 +1,3 @@
+##### § 102-75.980 Who is responsible for protection and maintenance expenses if there is no written agreement or no Congressional appropriation to the disposal agency? #####
+
+If there is no written agreement (between the landholding agency and the disposal agency) or no Congressional appropriation to the disposal agency, the landholding agency is responsible for all protection and maintenance expenses, without any right of contribution or reimbursement from the disposal agency.

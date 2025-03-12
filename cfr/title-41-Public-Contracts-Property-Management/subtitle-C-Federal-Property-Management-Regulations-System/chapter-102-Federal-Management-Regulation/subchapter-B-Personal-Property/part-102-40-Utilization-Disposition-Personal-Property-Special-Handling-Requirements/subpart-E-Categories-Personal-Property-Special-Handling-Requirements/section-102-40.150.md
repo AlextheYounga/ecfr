@@ -1,0 +1,7 @@
+##### § 102-40.150 How do we handle animals and plants? #####
+
+(a) Whenever possible, you should report live animals and plants to GSA for transfer, donation or sale. They are, however, considered perishables and may be disposed of by abandonment or destruction procedures in accordance with the authority contained in § 102-40.125. Abandonment or destruction procedures may be used for animals other than those specifically addressed below, where warranted for humane purposes.
+
+(b) Unfit horses and mules may be humanely euthanized or put out to pasture in accordance with 40 U.S.C. 1308 and agency policies. Transfers of unfit horses or mules to Federal agencies must be conducted in accordance with part 102-36 of this subchapter. In the event that a transfer of these animals can be made to a humane organization, the transfer may be conducted under procedures contained in part 102-37 of this subchapter.
+
+(c) Under 40 U.S.C. 555, you may transfer canines formerly used in the performance of law enforcement duties to an individual experienced in handling canines in the performance of those duties, in accordance with agency policy and procedures. For example, the “individual” may be the current handler of that canine or a previous handler.

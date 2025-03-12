@@ -1,0 +1,3 @@
+##### § 105-72.507 Contract administration. #####
+
+A system for contract administration shall be maintained to ensure contractor conformance with the terms, conditions and specifications of the contract and to ensure adequate and timely follow up of all purchases. Recipients shall evaluate contractor performance and document, as appropriate, whether contractors have met the terms, conditions and specifications of the contract.

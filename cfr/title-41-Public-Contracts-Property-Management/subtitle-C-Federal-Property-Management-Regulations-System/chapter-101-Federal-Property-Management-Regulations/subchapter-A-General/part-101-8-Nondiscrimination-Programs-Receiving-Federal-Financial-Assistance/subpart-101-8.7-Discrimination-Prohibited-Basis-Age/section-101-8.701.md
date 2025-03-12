@@ -1,0 +1,3 @@
+##### § 101-8.701 Scope of General Services Administration's age discrimination regulation. #####
+
+This regulation sets out General Services Administration's (GSA) policies and procedures under the Age Discrimination Act of 1975, as amended, in accordance with 45 CFR part 90. The Act and the Federal regulation permits Federally assisted programs or activities to continue to use certain age distinctions and factors other than age which meet the requirements of the Act and its implementing regulations.

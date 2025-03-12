@@ -1,0 +1,3 @@
+##### § 102-75.299 What are landholding agencies' responsibilities if GSA conducts the disposal? #####
+
+Landholding agencies are and remain responsible for all rental/lease payments until the lease expires or is terminated. Landholding agencies are responsible for paying any restoration or other direct costs incurred by the Government associated with termination of a lease, and for paying any demolition and removal costs not offset by the sale of the property. (See also § 102-75.965.)

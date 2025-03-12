@@ -1,0 +1,3 @@
+##### § 101-27.400 Scope of subpart. #####
+
+This subpart establishes policy and procedures designed to assure that items which can be obtained more economically from readily available sources, Government or commercial, are eliminated from inventory. For items which are not readily available from Government or commercial sources or are being held in inventory for a one time construction project, this subpart shall be applied to the extent feasible by the activity managing or controlling such inventories.

@@ -1,0 +1,3 @@
+##### § 102-74.270 Are vehicles required to display parking permits in parking facilities? #####
+
+When the use of parking space is controlled as in § 102-74.265, all privately owned vehicles other than those authorized to use designated visitor or service areas must display a parking permit. This requirement may be waived in parking facilities where the number of available spaces regularly exceeds the demand for such spaces.

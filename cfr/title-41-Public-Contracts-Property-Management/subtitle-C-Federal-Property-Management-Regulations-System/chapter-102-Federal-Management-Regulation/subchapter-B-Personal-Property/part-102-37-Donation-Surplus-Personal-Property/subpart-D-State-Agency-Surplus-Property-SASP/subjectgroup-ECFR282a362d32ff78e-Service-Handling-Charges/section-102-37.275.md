@@ -1,0 +1,3 @@
+##### § 102-37.275 May a SASP accept personal checks and non-official payment methods in payment of service charges? #####
+
+No, service charge payments must readily identify the donee institution as the payer (or the name of the parent organization when that organization pays the operational expenses of the donee). Personal checks, personal cashier checks, personal money orders, and personal credit cards are not acceptable.

@@ -1,0 +1,3 @@
+##### § 109-28.5005 EHFFP program review. #####
+
+OPMOs or on-site DOE property administrators shall conduct periodic reviews in accordance 109-1.5110 Physical inventories of personal property frequency requirement to ensure that the EHFFP program is being conducted in accordance with established procedures DOE-FMR. Included in the review will be proper determinations of property as EHFFP, the validity of justifications for retaining EHFFP.

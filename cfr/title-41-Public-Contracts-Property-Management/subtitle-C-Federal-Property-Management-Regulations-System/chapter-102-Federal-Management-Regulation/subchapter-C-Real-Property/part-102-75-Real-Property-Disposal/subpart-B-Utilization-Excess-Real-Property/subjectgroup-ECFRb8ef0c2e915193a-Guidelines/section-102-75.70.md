@@ -1,0 +1,3 @@
+##### § 102-75.70 Are there any exceptions to this notification policy? #####
+
+Yes, Executive agencies are not required to notify the disposal agency when an agency's proposed acquisition of real property is dictated by such factors as exact geographical location, topography, engineering, or similar characteristics that limit the possible use of other available property. For example, Executive agencies are not required to notify disposal agencies concerning the acquisition of real property for a dam site, reservoir area, or the construction of a generating plant or a substation, since specific lands are needed, which limit the possible use of other available property. Therefore, no useful purpose would be served by notifying the disposal agency.

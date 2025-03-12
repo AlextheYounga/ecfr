@@ -1,0 +1,3 @@
+##### § 102-72.85 What are the requirements for obtaining a disposal of real property delegation of authority from GSA? #####
+
+While disposal delegations to Executive agencies are infrequent, GSA may delegate authority to them based on situations involving certain low-value properties and when they can demonstrate that they have the technical expertise to perform the disposition functions. GSA may grant special delegations of authority to Executive agencies for the utilization and disposal of certain real property through the procedures set forth in part 102-75, subpart F of this chapter.

@@ -1,0 +1,3 @@
+##### § 102-34.205 May I use a Government motor vehicle for transportation between my residence and place of employment? #####
+
+No, you may not use a Government motor vehicle for transportation between your residence and place of employment unless your agency authorizes such use after making the necessary determination under 31 U.S.C. 1344 and part 102-5 of this title. Your agency must keep a copy of the written authorization within the agency and monitor the use of these motor vehicles.

@@ -1,0 +1,5 @@
+##### § 51-6.14 Replacement services. #####
+
+If a service is on the Procurement List to meet the needs of a Government entity at a specific location and the entity moves to another location, the service at the new location is automatically considered to be on the Procurement List if a qualified nonprofit agency is available to provide the service at the new location, unless the service at that location is already being provided by another contractor. If the service at the new location is being provided by another contractor, the service will not be on the Procurement List unless the Committee adds it as prescribed in part 51-2 of this chapter. If another Government entity moves into the old location, the service at that location will remain on the Procurement List to meet the needs of the new Government entity.
+
+[63 FR 16439, Apr. 3, 1998]

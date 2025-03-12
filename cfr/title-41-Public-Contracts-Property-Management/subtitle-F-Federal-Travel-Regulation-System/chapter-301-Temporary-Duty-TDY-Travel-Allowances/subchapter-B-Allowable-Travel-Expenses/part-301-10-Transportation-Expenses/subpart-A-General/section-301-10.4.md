@@ -1,0 +1,3 @@
+##### § 301-10.4 How does my agency select the method of transportation to be used? #####
+
+Your agency must select the method most advantageous to the Government, when cost and other factors are considered. Under 5 U.S.C. 5733, travel must be by the most expeditious means of transportation practicable and commensurate with the nature and purpose of your duties. In addition, your agency must consider energy conservation, total cost to the Government (including costs of per diem, overtime, lost worktime, and actual transportation costs), total distance traveled, number of points visited, and number of travelers.

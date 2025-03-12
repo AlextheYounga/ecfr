@@ -1,0 +1,5 @@
+##### § 101-6.205-2 Continuing Federal financial assistance. #####
+
+Every application by a State or a State agency for continuing Federal financial assistance to which this subpart applies shall as a condition to its approval and the extension of any Federal financial assistance pursuant to the application (a) contain or be accompanied by a statement that the program is (or, in the case of a new program, will be) conducted in compliance with all requirements imposed by or pursuant to this subpart, and (b) provide or be accompanied by provision for such methods of administration for the program as are found by the responsible GSA official to give reasonable assurance that the applicant and all recipients of Federal financial assistance under such program will comply with all requirements imposed by or pursuant to this subpart.
+
+[38 FR 17974, July 5, 1973]

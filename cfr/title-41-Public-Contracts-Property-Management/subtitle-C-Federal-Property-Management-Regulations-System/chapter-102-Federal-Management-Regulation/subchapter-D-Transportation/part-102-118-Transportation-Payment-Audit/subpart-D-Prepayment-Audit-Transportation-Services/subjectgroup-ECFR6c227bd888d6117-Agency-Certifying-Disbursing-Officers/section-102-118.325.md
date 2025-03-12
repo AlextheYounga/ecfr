@@ -1,0 +1,3 @@
+##### § 102-118.325 Does establishing an agency Chief Financial Officer-approved transportation prepayment audit program change the responsibilities of the certifying officers? #####
+
+No, in a prepayment audit program, the official certifying a transportation voucher is held liable for verifying transportation rates, freight classifications, and other information provided on a transportation billing instrument or transportation request undergoing a prepayment audit (31 U.S.C. 3528).

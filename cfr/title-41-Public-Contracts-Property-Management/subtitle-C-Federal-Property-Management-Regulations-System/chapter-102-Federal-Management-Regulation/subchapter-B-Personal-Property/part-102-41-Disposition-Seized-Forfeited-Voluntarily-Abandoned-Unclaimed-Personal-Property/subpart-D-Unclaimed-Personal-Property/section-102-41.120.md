@@ -1,0 +1,3 @@
+##### § 102-41.120 How long must we hold unclaimed personal property before disposition? #####
+
+You must generally hold unclaimed personal property for 30 calendar days from the date it was found. Unless the previous owner files a claim, title to the property vests in the Government after 30 days, and you may retain or dispose of the property in accordance with this part. However, see the following sections for handling of unclaimed personal property under specific circumstances.

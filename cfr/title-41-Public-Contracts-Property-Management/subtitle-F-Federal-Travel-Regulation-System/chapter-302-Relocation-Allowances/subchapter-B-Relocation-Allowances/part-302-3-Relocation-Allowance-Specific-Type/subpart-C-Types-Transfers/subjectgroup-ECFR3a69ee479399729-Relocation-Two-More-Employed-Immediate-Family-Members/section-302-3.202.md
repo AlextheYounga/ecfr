@@ -1,0 +1,3 @@
+##### § 302-3.202 If my immediate family member and I both transfer to the same official station, may we both claim the same relocation allowances for the same non-employee family member? #####
+
+No, when both you and your immediate family member transfer in the interest of the Government, you must provide your agency with the name(s) of non-employee family member(s) who will receive allowances under each of your TA. Only one of you may claim allowances for a non-employee member(s) of your immediate family (non-employee members may only be on one TA).

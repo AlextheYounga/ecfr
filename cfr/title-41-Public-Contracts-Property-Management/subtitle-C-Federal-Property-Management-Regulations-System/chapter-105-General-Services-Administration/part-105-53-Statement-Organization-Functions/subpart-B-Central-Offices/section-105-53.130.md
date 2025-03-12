@@ -1,0 +1,3 @@
+##### § 105-53.130 Office of the Administrator. #####
+
+The Administrator of General Services, appointed by the President with the advice and consent of the Senate, directs the execution of all programs assigned to the General Services Administration. The Deputy Administrator, who is appointed by the Administrator, assists in directing agency programs and coordinating activities related to the functions of the General Services Administration.

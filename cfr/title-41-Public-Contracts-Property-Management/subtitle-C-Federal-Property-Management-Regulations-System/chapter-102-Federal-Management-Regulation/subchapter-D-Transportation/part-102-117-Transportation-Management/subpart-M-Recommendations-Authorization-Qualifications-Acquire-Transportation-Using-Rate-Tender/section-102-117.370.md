@@ -1,0 +1,3 @@
+##### § 102-117.370 Should I have a Transportation Officer warrant to acquire transportation services using a rate tender? #####
+
+Yes, it is recommended that you have a written document, such as a warrant, issued by the head of your agency or their designee, which expressly allows you to acquire transportation services for using approved non-Federal Acquisition Regulation (FAR) acquisition methods for specified transportation services, and states a dollar limit or range for the warrant authority.

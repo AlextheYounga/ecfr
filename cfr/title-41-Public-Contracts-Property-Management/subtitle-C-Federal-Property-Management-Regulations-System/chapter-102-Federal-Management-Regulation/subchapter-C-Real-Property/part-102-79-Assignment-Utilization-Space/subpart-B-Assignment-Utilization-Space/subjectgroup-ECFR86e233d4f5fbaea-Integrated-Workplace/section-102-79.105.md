@@ -1,0 +1,3 @@
+##### § 102-79.105 What is the Integrated Workplace? #####
+
+The Integrated Workplace, developed by the GSA Office of Governmentwide Policy, is a comprehensive, multidisciplinary approach to developing workspace and work strategies that best support an organization's strategic business goals and work processes, and have the flexibility to accommodate the changing needs of the occupants and the organization. Integrated Workplace concepts support the objectives of Executive Order 13327, “Federal Real Property Asset Management,” which calls for the enhancement of Federal agency productivity through an improved working environment.

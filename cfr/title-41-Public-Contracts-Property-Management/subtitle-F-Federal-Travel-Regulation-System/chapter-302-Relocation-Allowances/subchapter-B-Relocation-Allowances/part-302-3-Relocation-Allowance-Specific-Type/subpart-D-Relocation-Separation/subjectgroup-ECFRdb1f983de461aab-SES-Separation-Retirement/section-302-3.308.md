@@ -1,0 +1,3 @@
+##### § 302-3.308 Do I have to provide my agency with any special documents before receiving reimbursement for moving expenses? #####
+
+Yes, before receiving reimbursement for moving expenses, you must submit a request to your agency for authorization and approval of your moving expenses with your tentative moving dates and the origin and destination location of your planned move, within the timeframe and format specified by your agency.

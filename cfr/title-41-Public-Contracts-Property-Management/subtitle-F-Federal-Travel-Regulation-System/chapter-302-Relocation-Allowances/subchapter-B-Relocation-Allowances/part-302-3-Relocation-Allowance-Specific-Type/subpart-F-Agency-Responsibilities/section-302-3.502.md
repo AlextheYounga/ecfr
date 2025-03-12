@@ -1,0 +1,11 @@
+##### § 302-3.502 What factors should we consider in determining whether to authorize a TCS for a long-term assignment? #####
+
+You should consider the following factors in determining whether to authorize a TCS:
+
+(a) *Cost considerations.* You should consider the cost of each alternative. A long-term temporary duty travel assignment requires the payment of either per diem or actual subsistence expenses for the entire period of the assignment. This could be very costly to the agency over an extended period. A TCS will require fairly substantial relocation allowance payments at the beginning and end of the assignment, and less substantial payments for extended storage and property management services, when authorized, during the period of the assignment. Agencies should estimate the total cost of each alternative and authorize the one that is most advantageous for the agency, cost and other factors considered;
+
+(b) *Tax considerations.* An employee who performs a temporary duty travel assignment exceeding one year at a single location is subject to income taxation of his/her travel expense reimbursements. The Withholding Tax Allowance and the Extended TDY Tax Reimbursement Allowance allow for the reimbursement of Federal, state, and local income taxes incurred as a result of taxable extended temporary duty assignments (see §§ 301-11.601—301-11.605 of this Subtitle). An employee who is authorized and performs a TCS also will be subject to income taxation of some, but not all, of his/her TCS expenses. You will pay an offsetting Relocation Income Tax (RIT) allowance on an employee's TCS expense reimbursements; and
+
+(c) *Employee concerns.* The long-term assignment of an employee away from his/her official station and immediate family may negatively affect the employee's morale and job performance. Such negative effects may be alleviated by authorizing a TCS so the employee can transport his/her immediate family and/or household goods at Government expense to the location where he/she will perform the long-term assignment. You should consider the effects of a long-term temporary duty travel assignment on an employee when deciding whether to authorize a TCS.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014]

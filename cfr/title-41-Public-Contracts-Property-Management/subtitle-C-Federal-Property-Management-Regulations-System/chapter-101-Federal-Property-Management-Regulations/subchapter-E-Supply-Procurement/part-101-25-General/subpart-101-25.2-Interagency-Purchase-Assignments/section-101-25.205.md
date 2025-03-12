@@ -1,0 +1,5 @@
+##### § 101-25.205 Arrangement for performance of purchasing functions other than centralized. #####
+
+(a) Upon request, GSA will make purchases and contracts for any of the items or item groups of articles or services authorized to be purchased independently by executive agencies. GSA will also arrange, on a basis mutually agreeable, with any executive agency to perform its purchase and contracting functions on a continuing basis, if requested in writing to do so by the agency head, provided the arrangements agreed upon will result in lowered cost or improved service either to the individual agency or to the Government as a whole.
+
+(b) In those instances where lowered cost or improved service, either to an individual agency or to the Government as a whole will result, GSA will arrange, on a basis mutually agreeable to the agencies involved, to assign all or a portion of the purchase and contracting functions of one executive agency to another executive agency on a continuing basis.

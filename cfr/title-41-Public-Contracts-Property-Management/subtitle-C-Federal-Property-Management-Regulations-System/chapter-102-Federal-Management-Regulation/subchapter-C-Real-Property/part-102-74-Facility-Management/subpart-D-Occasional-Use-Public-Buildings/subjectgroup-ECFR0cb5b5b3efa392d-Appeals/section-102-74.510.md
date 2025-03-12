@@ -1,0 +1,3 @@
+##### § 102-74.510 How may the disapproval of a permit application or cancellation of an issued permit be appealed? #####
+
+A person or organization may appeal the disapproval of an application or cancellation of an issued permit by notifying the Regional Officer (as defined in § 102-71.20 of this chapter), in writing, of the intent to appeal within 5 calendar days of the notification of disapproval or cancellation.

@@ -1,0 +1,3 @@
+##### § 101-6.211-2 Noncompliance with § 101-6.205. #####
+
+If an applicant fails or refuses to furnish an assurance required under § 101-6.205 or otherwise fails or refuses to comply with a requirement imposed by or pursuant to that section Federal financial assistance may be refused in accordance with the procedures of § 101-6.211-3. The GSA shall not be required to provide assistance in such a case during the pendency of the administrative proceedings under § 101-6.211-3 except that GSA shall continue assistance during the pendency of such proceedings where such assistance is due and payable pursuant to an application therefor approved prior to the effective date of this subpart 101-6.2.

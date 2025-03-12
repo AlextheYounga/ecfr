@@ -1,0 +1,15 @@
+##### § 60-30.23 Summary judgment. #####
+
+(a) *For the Government.* At any time after the expiration of 20 days from the commencement of the action, or after service of a motion for summary judgment by the respondent, the Government may move with or without supporting affidavits for a summary judgment upon all claims or any part.
+
+(b) *For defendant.* The defendant may, at any time after commencement of the action, move with or without supporting affidavits for summary judgment in its favor as to all claims or any part.
+
+(c) *Other parties.* Any other party to a formal proceeding under this part may support or oppose motions for summary judgment made by the Government or respondent, in accordance with this section, but may not move for a summary judgment in his own behalf.
+
+(d) *Statement of uncontested facts.* All motions for summary judgment shall be accompanied by a “Statement of Uncontested Facts” in which the moving party sets forth all alleged uncontested material facts which shall provide the basis for its motion. At least 5 days prior to the time fixed for hearing on the motion, any party contending that any material fact regarding the matter covered by the motion is in dispute, shall file a “Statement of Disputed Facts.” Failure to file a “Statement of Disputed Facts” shall be deemed as an admission to the “Statement of Uncontested Facts.”
+
+(e) *Motion and proceedings.* The motion shall be served upon all parties at least 15 days before the time fixed for the hearing on the motion. The adverse party or parties may serve opposing affidavits prior to the day of hearing. The judgment sought shall be rendered forthwith if the complaint and answer, depositions, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law. Summary judgment rendered for or against the Government or the respondent shall constitute the findings and recommendations on the issues involved. Hearings on motions made under this section shall be scheduled by the Administrative Law Judge.
+
+(f) *Case not fully adjudicated on motion.* If on motion under this section judgment is not rendered upon the whole case or for all the relief asked and a final hearing is necessary, the Administrative Law Judge at the hearing of the motion, by examining the notice and answer and the evidence before him and by interrogating counsel, shall, if practicable, ascertain what material facts exist without substantial controversy and what material facts are actually and in good faith controverted. He shall thereupon make an order specifying the facts that appear without substantial controversy, including the extent to which relief is not in controversy, and directing such further proceedings as are just. At the hearing on the merits, the facts so specified shall be deemed established, and the final hearing shall be conducted accordingly.
+
+[43 FR 49259, Oct. 20, 1978; 43 FR 51401, Nov. 3, 1978]

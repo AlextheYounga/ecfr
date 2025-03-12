@@ -1,0 +1,3 @@
+##### § 102-75.430 What happens if property conveyed for use as a public airport is revested in the United States? #####
+
+If property that was conveyed for use as a public airport is revested in the United States for noncompliance with the terms of the disposal, or other cause, the Administrator of the FAA must be accountable for the property and must report the property to GSA as excess property following the provisions of this part.

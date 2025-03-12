@@ -1,0 +1,3 @@
+##### § 109-27.5106-3 Returns. #####
+
+All excess precious metals must be returned to the precious metals pool except as noted in § 109-27.5106-1 of this subpart. The pool is entirely dependent on metal returns; therefore, metal inventories should be maintained on an as-needed basis, and any excess metals must be returned to the pool for recycling. This includes precious metals in any form, including shapes, and scraps. Procedures have been developed by the precious metals pool contractor for metal returns, including storing, packaging, shipping, and security.

@@ -1,0 +1,3 @@
+##### § 102-80.85 Are Federally owned and leased buildings exempt from State and local code requirements in fire protection? #####
+
+Federally owned buildings are generally exempt from State and local code requirements in fire protection; however, in accordance with 40 U.S.C. 3312, each building constructed or altered by a Federal agency must be constructed or altered, to the maximum extent feasible, in compliance with one of the nationally recognized model building codes and with other nationally recognized codes. Leased buildings are subject to local code requirements and inspection.

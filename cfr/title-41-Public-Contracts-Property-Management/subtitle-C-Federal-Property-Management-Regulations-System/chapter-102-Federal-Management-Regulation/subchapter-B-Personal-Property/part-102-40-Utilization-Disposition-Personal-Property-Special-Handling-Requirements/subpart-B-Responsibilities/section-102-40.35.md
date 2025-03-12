@@ -1,0 +1,3 @@
+##### § 102-40.35 What types of personal property require special handling? #####
+
+Personal property requiring special handling includes property containing hazardous materials or property which exhibits dangerous characteristics such that improper use, storage, transportation or disposal may lead to potential safety, health, environmental, economic, or national security risks. In many situations, the use, storage, transportation or disposal of these items is governed by Federal, state, and local laws. Personal property requiring special handling may also include animals and plants which may perish if not handled appropriately, as well as perishable products that may lose their utility if not handled appropriately.

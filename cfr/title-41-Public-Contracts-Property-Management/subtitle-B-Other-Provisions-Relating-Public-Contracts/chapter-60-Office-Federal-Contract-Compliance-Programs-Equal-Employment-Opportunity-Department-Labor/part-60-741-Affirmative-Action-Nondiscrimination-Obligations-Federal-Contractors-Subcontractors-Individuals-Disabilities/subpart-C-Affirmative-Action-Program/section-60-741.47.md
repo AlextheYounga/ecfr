@@ -1,0 +1,3 @@
+##### § 60-741.47 Sheltered workshops. #####
+
+Contracts with sheltered workshops do not constitute affirmative action in lieu of employment and advancement of qualified individuals with disabilities in the contractor's own work force. Contracts with sheltered workshops may be included within an affirmative action program if the sheltered workshop trains employees for the contractor and the contractor is obligated to hire trainees at full compensation when such trainees become “qualified individuals with disabilities.”

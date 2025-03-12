@@ -1,0 +1,3 @@
+##### § 102-73.50 Are Federal agencies that possess independent statutory authority to acquire leased space subject to requirements of this part? #####
+
+No, Federal agencies possessing independent statutory authority to acquire leased space are not subject to GSA authority and, therefore, may not be subject to the requirements of this part. However, lease prospectus approval requirements of 40 U.S.C. Section 3307 may still apply appropriations to lease of space for public purposes under an agency's independent leasing authority.

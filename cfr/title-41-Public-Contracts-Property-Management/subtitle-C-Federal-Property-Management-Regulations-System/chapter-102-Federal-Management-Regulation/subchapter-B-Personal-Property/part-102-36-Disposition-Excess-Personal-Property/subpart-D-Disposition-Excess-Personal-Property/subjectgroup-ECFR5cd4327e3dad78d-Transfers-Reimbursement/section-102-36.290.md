@@ -1,0 +1,5 @@
+##### § 102-36.290 How much do we charge for excess personal property on a transfer with reimbursement? #####
+
+(a) You may require reimbursement in an amount up to the fair market value of the property when the transfer involves property meeting conditions in § 102-36.285(a)(1) through (a)(4).
+
+(b) When you or the recipient is the DC Government or a wholly owned or mixed-ownership Government corporation (§ 102-36.285(a)(5) and (a)(6)), you may only require fair value reimbursement. Fair value reimbursement is 20 percent of the original acquisition cost for new or unused property (i.e., condition code 1), and zero percent for other personal property. A higher fair value may be used if you and the recipient agency agree. Due to special circumstances or the nature of the property, you may use other criteria for establishing fair value if approved or directed by GSA. You must refer any disagreements to the appropriate regional GSA Personal Property Management office.

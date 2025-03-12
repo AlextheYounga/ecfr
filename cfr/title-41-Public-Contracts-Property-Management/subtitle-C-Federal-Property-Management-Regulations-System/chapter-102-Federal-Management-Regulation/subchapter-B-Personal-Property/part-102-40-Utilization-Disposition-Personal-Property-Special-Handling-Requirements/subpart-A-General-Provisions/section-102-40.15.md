@@ -1,0 +1,3 @@
+##### § 102-40.15 Who must comply with the provisions in this part? #####
+
+All executive agencies must comply with the provisions of this part unless authorized by specific, separate statutory authority to do otherwise. Also, pursuant to 40 U.S.C. 549(b)(1), state agencies for surplus property (SASPs) must comply with the provisions of this part related to the donation of surplus property with special handling requirements. Legislative and judicial agencies are encouraged to follow these provisions.

@@ -1,0 +1,3 @@
+##### § 109-1.5108-5 Administratively controlled items. #####
+
+No formal property management records are required to be maintained for this category of personal property, which includes such items as those controlled for calibration or maintenance purposes, contaminated property, tool crib items, and equipment pool items. Various control records can be employed to help safeguard this property against waste and abuse, including purchase vs. use information, tool crib check-outs, loss and theft reports, calibration records, disposal records, and other similar records. Control techniques would include physical security, custodial responsibility, identification/marking, or other locally established control techniques.

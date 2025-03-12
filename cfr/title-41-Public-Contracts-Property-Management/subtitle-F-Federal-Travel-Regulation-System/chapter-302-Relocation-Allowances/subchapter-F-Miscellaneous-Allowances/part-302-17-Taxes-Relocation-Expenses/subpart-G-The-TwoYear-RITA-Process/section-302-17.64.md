@@ -1,0 +1,3 @@
+##### § 302-17.64 When should I file my “Statement of Income and Tax Filing Status” and RITA claim under the two-year process? #####
+
+For the two-year process, you should file the “Statement of Income and Tax Filing Status” in Year 2, along with your RITA claim, after you file your income tax return. If your agency pays any taxable expenses covered by the WTA (if any) in more than one year, then you will have to file a new “Statement of Income and Tax Filing Status” each year. Your agency establishes the deadline each year for filing of your Statement.

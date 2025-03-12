@@ -1,0 +1,3 @@
+##### § 115-1.100 Scope of subpart. #####
+
+This subpart establishes the Environmental Protection Agency Property Management Regulations (EPPMR), chapter 115 of the Federal Property Management Regulations System (FPMR) (41 CFR chapter 101); states its relationship to the FPMR, and provides instructions governing the property management policies and procedures of the Environmental Protection Agency (EPA).

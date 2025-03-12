@@ -1,0 +1,11 @@
+##### § 302-12.116 What must we consider in deciding whether to use the fixed-fee or cost-reimbursable contracting method? #####
+
+You must consider the following factors in deciding whether to use the fixed-fee or cost-reimbursable contracting method:
+
+(a) *Risk of alternative methods.* Under a fixed fee contract, the relocation services company bears all risks not expressly contained in the contract. Under a cost-reimbursable contract, you must assume some or all risks and, therefore, must assume some management responsibilities under the contract as well. For example, under a fixed fee homesale program you are not directly liable for losses incurred if a residence does not sell immediately, while under a cost-reimbursable homesale program you assume some or all risks of selling the residence.
+
+(b) *Cost of alternative methods.* Under the fixed fee method of contracting, the fee includes a cost component for risks assumed by the relocation services company. Under the cost-reimbursable method of contracting, you are directly responsible for some or all of the costs associated with management of the contract. In deciding whether to use cost-reimbursable contracting you, therefore, must consider the cost of resources you would require (including personnel costs) to manage a cost-reimbursable relocation services contract.
+
+(c) *Effect on the obligation of funds.* You must obligate funds for a relocation in the fiscal year in which the purchase order is awarded under the contract. Under the fixed fee contracting method, the amount of the relocation services fee is fixed and you have a basis for determining the amount of funds to obligate. Under the cost-reimbursable contracting method, you must obligate funds based on an estimate of the costs that will be incurred. When opting for cost-reimbursable contracting you, therefore, should establish a reliable method of computing fund obligation estimates.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001. Redesignated by FTR Amdt. 2011-01, 76 FR 18344, Apr. 1, 2011]

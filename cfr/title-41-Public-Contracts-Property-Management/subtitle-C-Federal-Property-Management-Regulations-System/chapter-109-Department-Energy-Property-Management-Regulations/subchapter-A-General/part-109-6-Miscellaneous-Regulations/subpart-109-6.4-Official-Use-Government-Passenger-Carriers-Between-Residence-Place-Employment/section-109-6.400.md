@@ -1,0 +1,5 @@
+##### § 109-6.400 Scope and applicability. #####
+
+(a) With the exception of § 109-6.400-50, the provisions of this subpart and 41 CFR part 102-5 do not apply to designated contractors. Official use provisions applicable to these contractors are contained in § 109-38.3 of this chapter.
+
+(b) When an employee on temporary duty is authorized to travel by Government motor vehicle, and in the interest of the Government, is scheduled to depart before the beginning of regular working hours, or if there will be a significant savings in time, a Government motor vehicle may be issued at the close of the preceding working day. Such authorizations must be submitted to the fleet manager to ensure proper use of motor vehicles during non-duty hours. Similarly, when scheduled to return after the close of working hours, the motor vehicle may be returned the next regular working day. This use of a Government motor vehicle is not regarded as prohibited by 31 U.S.C. 1344 (25 Comp. Gen. 844(1946)).

@@ -1,0 +1,3 @@
+##### § 102-42.105 What special information must be included on the SF 122? #####
+
+Conspicuously mark the SF 122, “FOREIGN GIFTS AND/OR DECORATIONS”, and include all information furnished by the employing agency as specified in § 102-42.95. Also, include on the form the following statement: “At such time as these items are no longer required, they will be reported to the General Services Administration, Property Management Division (FBP), Washington, DC 20406, and will be identified as foreign gift items and cross-referenced to this transfer order number.”

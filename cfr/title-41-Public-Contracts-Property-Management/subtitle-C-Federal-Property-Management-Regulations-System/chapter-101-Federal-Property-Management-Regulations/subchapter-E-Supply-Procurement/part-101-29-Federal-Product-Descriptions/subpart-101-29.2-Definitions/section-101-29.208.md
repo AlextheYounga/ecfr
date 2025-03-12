@@ -1,0 +1,3 @@
+##### § 101-29.208 Commercial item description (CID). #####
+
+A *commercial item description* is an indexed, simplified product description that describes by function or performance characteristics of available, acceptable commercial products that will satisfy the Government's needs. These documents are issued or controlled by the General Services Administration and are listed in the GSA “Index of Federal Specifications, Standards and Commercial Item Descriptions.”

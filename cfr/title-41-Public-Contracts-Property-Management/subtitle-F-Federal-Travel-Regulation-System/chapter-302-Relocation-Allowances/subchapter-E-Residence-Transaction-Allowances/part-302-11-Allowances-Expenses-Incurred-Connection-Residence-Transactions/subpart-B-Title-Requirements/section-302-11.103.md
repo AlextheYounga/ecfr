@@ -1,0 +1,3 @@
+##### § 302-11.103 How will I be reimbursed if I or a member of my immediate family do not hold full title to the property for which I am requesting reimbursement? #####
+
+If you or a member of your immediate family do not hold full title to the property for which you are requesting reimbursement, you will be reimbursed on a pro rata basis to the extent of your actual title interest plus your equitable title interest in the residence.

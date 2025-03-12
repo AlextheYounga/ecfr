@@ -1,0 +1,3 @@
+##### § 105-56.022 Fees. #####
+
+Agencies that perform centralized salary offset computer matching services may charge a fee sufficient to cover the full cost for such services. In addition, FMS, or a paying agency acting on behalf of FMS, may charge a fee sufficient to cover the full cost of implementing the administrative offset program. FMS may deduct the fees from amounts collected by offset or may bill GSA. Fees charged for offset will be based on actual administrative offsets completed and may be added to the debt as an administrative cost.

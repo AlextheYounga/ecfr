@@ -1,0 +1,3 @@
+##### § 102-34.170 For how long is a limited exemption valid? #####
+
+An exemption granted in accordance with § 102-34.160 may last from one day up to 3 years. If the requirement for exemption still exists beyond 3 years, your agency must re-certify the continued exemption. For a motor vehicle leased from the GSA Fleet, send a copy of the re-certification to the: General Services Administration, ATTN: GSA Fleet (QMDB), 2200 Crystal Drive, Arlington, VA 22202.

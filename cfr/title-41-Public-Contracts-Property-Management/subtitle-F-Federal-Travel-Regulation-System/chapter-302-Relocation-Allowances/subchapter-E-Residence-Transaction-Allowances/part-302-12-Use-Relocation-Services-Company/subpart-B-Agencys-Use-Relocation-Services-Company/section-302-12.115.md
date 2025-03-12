@@ -1,0 +1,5 @@
+##### § 302-12.115 What are the income tax consequences that we must consider when offering relocation services? #####
+
+Amounts you pay to a relocation services company on behalf of an employee may be taxable to the employee. In some cases, such as certain homesale programs, the amounts may not be taxable. You must determine the taxability of such payments, and pay a relocation income tax (RIT) allowance in accordance with part 302-17 of this chapter on payments you determine to be taxable to the employee. You may contact the: Assistant Chief Counsel (Income Tax & Accounting), Internal Revenue Service, 1111 Constitution Avenue, NW., Room 5501, Washington, DC 20224, for information on the income tax consequences of payments you make to a relocation services company.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001. Redesignated by FTR Amdt. 2011-01, 76 FR 18344, Apr. 1, 2011]

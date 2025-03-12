@@ -1,0 +1,3 @@
+##### § 101-29.212 Tailoring. #####
+
+*Tailoring* is a process by which the individual requirements (sections, paragraphs or sentences) or product descriptions are evaluated to determine the extent to which each requirement is most suitable for a specific acquisition and the modification of these requirements, where necessary, to ensure that each document invoked achieves and optimal balance between operational needs and costs.

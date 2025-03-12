@@ -1,0 +1,3 @@
+##### § 301-70.800 Whom may we authorize to travel on Government aircraft? #####
+
+You may authorize Federal travelers, non-Federal travelers, and any other passengers, as defined in part 300-3 of this subtitle, to travel on Government aircraft, subject to the rules in this subpart. Because the taxpayers generally should pay no more than necessary for transportation of travelers, except for required use travel, you may authorize travel on Government aircraft only when a Government aircraft is the most cost-effective mode of travel and the traveler is traveling for Governmental purposes.

@@ -1,0 +1,3 @@
+##### § 102-75.710 What responsibilities do landholding and disposal agencies have concerning properties used for providing replacement housing for persons who will be displaced by Federal or Federally assisted projects? #####
+
+Both landholding and disposal agencies must cooperate, to the fullest extent possible, with Federal and State agency representatives in their inspection of the property and in furnishing information relating to the property.

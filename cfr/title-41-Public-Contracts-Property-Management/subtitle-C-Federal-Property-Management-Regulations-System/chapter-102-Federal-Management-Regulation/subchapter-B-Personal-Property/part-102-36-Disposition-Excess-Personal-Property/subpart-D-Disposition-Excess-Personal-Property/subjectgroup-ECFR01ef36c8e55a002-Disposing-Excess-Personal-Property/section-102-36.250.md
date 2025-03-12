@@ -1,0 +1,3 @@
+##### § 102-36.250 Does GSA ever take physical custody of excess personal property? #####
+
+Generally you retain physical custody of the excess personal property prior to its final disposition. Very rarely GSA may consider accepting physical custody of excess personal property. Under special circumstances, GSA may take custody or may direct the transfer of partial or total custody to other executive agencies, with their consent.

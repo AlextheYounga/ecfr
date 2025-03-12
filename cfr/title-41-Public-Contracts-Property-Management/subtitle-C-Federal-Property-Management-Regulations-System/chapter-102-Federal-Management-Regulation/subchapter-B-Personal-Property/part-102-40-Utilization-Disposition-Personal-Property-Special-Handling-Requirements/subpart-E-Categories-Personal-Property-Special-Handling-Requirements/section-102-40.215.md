@@ -1,0 +1,3 @@
+##### § 102-40.215 How do we handle ozone depleting substances (ODSs)? #####
+
+Handle ODSs in accordance with Federal and state laws and regulations. Prior to disposal of ODSs removed or reclaimed from facilities or equipment, including disposal as part of a contract, trade or donation, coordinate with the Defense Ozone Depleting Substances Reserve Program Office to determine if the recovered ODS is a critical requirement for DOD missions. Direct inquiries to the Defense Ozone Depleting Substances Reserve Program Office, Defense Supply Center, Richmond, Virginia; email: *DSCR.ODSReserve@dla.mil;* phone: (804) 279-3064. Additional guidance is available from EPA at: *http://www.epa.gov/ozone/title6/608/608fact.html#overview*.

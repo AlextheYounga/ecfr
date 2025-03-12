@@ -1,0 +1,3 @@
+##### § 101-6.213-2 Decisions on record or review by the responsible GSA official. #####
+
+Whenever a record is certified to the responsible GSA official for decision or he reviews the decision of a hearing examiner pursuant to § 101-6.213-1, or whenever the responsible GSA official conducts the hearing, the applicant or recipient shall be given reasonable opportunity to file with him briefs or other written statements of its contentions, and a copy of the final decision of the responsible GSA official shall be given in writing to the applicant or recipient, and to the complainant, if any.

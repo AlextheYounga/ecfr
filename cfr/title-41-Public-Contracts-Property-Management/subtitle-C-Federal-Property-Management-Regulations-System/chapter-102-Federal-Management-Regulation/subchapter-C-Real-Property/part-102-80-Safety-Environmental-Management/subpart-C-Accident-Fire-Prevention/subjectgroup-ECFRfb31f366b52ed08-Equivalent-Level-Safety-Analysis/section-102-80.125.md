@@ -1,0 +1,3 @@
+##### § 102-80.125 Who has the responsibility for determining the acceptability of each equivalent level of safety analysis? #####
+
+The head of the agency responsible for physical improvements in the facility or providing Federal assistance or a designated representative will determine the acceptability of each equivalent level of safety analysis. The determination of acceptability must include a review of the fire protection engineer's qualifications, the appropriateness of the fire scenarios for the facility, and the reasonableness of the assumed maximum probable loss. Agencies should maintain a record of each accepted equivalent level of safety analysis and provide copies to fire departments or other local authorities for use in developing pre-fire plans.

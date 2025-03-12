@@ -1,0 +1,3 @@
+##### § 102-75.210 What must a transferee agency include in its request for an exception from the 100 percent reimbursement requirement? #####
+
+The request must include an explanation of how granting the exception would further essential agency program objectives and at the same time be consistent with Executive Order 12512, Federal Real Property Management, dated April 29, 1985. The transferee agency must attach the explanation to the Request for Transfer of Excess Real and Related Personal Property (GSA Form 1334) prior to submitting the form to GSA. The unavailability of funds alone is not sufficient to justify an exception.

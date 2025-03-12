@@ -1,0 +1,3 @@
+##### § 102-72.95 What are the requirements for obtaining a security delegation of authority from GSA? #####
+
+An Executive agency may request a security delegation from GSA by submitting a written request with the detailed basis for the requested delegation to the Assistant Regional Administrator, PBS, in the region where the building is located. A request for multiple buildings in multiple regions should be directed to the Commissioner of PBS. The delegation may be granted where the requesting agency demonstrates a compelling need for the delegated authority and the delegation is not inconsistent with the authorities of any other law enforcement agency.

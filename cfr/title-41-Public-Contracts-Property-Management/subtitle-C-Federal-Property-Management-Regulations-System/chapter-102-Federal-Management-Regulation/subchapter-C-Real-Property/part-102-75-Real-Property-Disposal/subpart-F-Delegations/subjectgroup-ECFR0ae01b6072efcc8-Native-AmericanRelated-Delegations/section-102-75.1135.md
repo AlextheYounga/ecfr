@@ -1,0 +1,3 @@
+##### § 102-75.1135 May this delegation of authority to the Secretary of the Interior, the Secretary of Health and Human Services, and the Secretary of Education be redelegated? #####
+
+Yes, the Secretary of the Interior, the Secretary of Health and Human Services, and the Secretary of Education may redelegate any of the authority contained in this delegation to any officers or employees of their respective departments.

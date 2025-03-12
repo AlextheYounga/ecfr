@@ -1,0 +1,3 @@
+##### § 302-17.3 What is the Government's objective in reimbursing the additional income taxes incurred as a result of a relocation? #####
+
+The Government's objective is to reimburse transferred employees for substantially all (not exactly all - see § 302-17.4) of the additional Federal, state, and local income taxes incurred as a result of a relocation, including the taxes on the taxable relocation benefits and the taxes on the reimbursement for taxes.

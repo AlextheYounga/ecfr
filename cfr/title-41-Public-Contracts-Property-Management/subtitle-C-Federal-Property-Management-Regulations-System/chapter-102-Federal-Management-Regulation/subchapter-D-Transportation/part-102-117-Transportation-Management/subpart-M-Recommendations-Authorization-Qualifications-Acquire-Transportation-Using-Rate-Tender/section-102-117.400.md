@@ -1,0 +1,3 @@
+##### § 102-117.400 How should my warrant be documented? #####
+
+The head of your agency or their designee should state, in writing, that you have the recommended training and/or experience suggested by § 102-117.390. You should retain a copy of this Transportation Officer warrant. Agency heads or their designee(s) may amend, suspend, or terminate warrants in accordance with agency policies and/or procedures.

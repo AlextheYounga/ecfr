@@ -1,0 +1,3 @@
+##### § 105-64.204 Can parents and guardians obtain access to records? #####
+
+If you are the parent or guardian of a minor, or of a person judicially determined to be incompetent, you must provide full information about the individual of record. You also must properly identify yourself and provide a copy of the birth certificate of the individual, or a court order establishing guardianship, whichever applies.

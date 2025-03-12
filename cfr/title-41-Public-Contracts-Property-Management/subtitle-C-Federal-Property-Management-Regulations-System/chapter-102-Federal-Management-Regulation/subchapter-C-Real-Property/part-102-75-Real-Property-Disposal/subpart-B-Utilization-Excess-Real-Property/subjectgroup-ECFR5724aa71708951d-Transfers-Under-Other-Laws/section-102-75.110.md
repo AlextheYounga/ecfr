@@ -1,0 +1,3 @@
+##### § 102-75.110 Can transfers of real property be made under authority of laws other than those codified in Title 40 of the United States Code? #####
+
+Yes, the provisions of this section shall not apply to transfers of real property authorized to be made by 40 U.S.C. 113(e) or by any special statute that directs or requires an Executive agency to transfer or convey specifically described real property in accordance with the provisions of that statute. Transfers of real property must be made only under the authority of Title 40 of the United States Code, unless the independent authority granted to such agency specifically exempts the authority from the requirements of Title 40.

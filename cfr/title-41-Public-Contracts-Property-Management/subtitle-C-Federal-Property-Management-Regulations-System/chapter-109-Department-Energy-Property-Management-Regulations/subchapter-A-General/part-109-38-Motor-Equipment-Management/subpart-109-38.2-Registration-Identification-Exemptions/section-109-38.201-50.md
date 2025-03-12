@@ -1,0 +1,3 @@
+##### § 109-38.201-50 Registration in foreign countries. #####
+
+Motor vehicles used in foreign countries are to be registered and carry license tags in accordance with the existing motor vehicle regulations of the country concerned. The person responsible for a motor vehicle in a foreign country shall make inquiry at the United States Embassy, Legation, or Consulate concerning the regulations that apply to registration, licensing, and operation of motor vehicles and shall be guided accordingly.

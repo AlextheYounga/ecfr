@@ -1,0 +1,3 @@
+##### § 302-12.102 What contracted relocation services may we provide at Government expense? #####
+
+You may pay for contracted relocation services that are substitutes for reimbursable relocation allowances authorized throughout this chapter. For example, you may pay for homesale services as a substitute for residence sale expenses, or household goods management services as a substitute for transportation of household goods.

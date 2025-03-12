@@ -1,0 +1,7 @@
+##### § 50-204.22 Exposure to airborne radioactive material. #####
+
+(a) No employer shall possess, use or transport radioactive material in such a manner as to cause any employee, within a restricted area, to be exposed to airborne radioactive material in an average concentration in excess of the limits specified in Table I of appendix B to 10 CFR part 20. The limits given in Table I are for exposure to the concentrations specified for 40 hours in any workweek of 7 consecutive days. In any such period where the number of hours of exposure is less than 40, the limits specified in the table may be increased proportionately. In any such period where the number of hours of exposure is greater than 40, the limits specified in the table shall be decreased proportionately.
+
+(b) No employer shall possess, use, or transfer radioactive material in such a manner as to cause any individual within a restricted area, who is under 18 years of age to be exposed to airborne radioactive material in an average concentration in excess of the limits specified in Table II of Appendix B to 10 CFR part 20. For purposes of this paragraph, concentrations may be averaged over periods not greater than 1 week.
+
+(c) *Exposed* as used in this section means that the individual is present in an airborne concentration. No allowance shall be made for the use of protective clothing or equipment, or particle size, except as authorized by the Director, Bureau of Labor Standards.

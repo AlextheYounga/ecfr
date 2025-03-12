@@ -1,0 +1,3 @@
+##### § 60-30.25 Proposed findings of fact and conclusions of law. #####
+
+Within 20 days after receipt of the transcript of the testimony, each party and amicus may file a brief. Such briefs shall be served simultaneously on all parties and amici, and a certificate of service shall be furnished to the Administrative Law Judge. Requests for additional time in which to file a brief shall be made in writing, and copies shall be served simultaneously on the other parties. Requests for extensions shall be received not later than 3 days before the date such briefs are due. No reply brief may be filed except by special permission of the Administrative Law Judge.

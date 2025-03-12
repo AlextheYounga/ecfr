@@ -1,0 +1,3 @@
+##### § 102-75.5 What is the scope of this part? #####
+
+The real property policies contained in this part apply to Federal agencies, including GSA's Public Buildings Service (PBS), operating under, or subject to, the authorities of the Administrator of General Services. Federal agencies with authority to dispose of real property under Subchapter III of Chapter 5 of Title 40 of the United States Code will be referred to as “disposal agencies” in this part. Except in rare instances where GSA delegates disposal authority to a Federal agency, the “disposal agency” as used in this part refers to GSA.

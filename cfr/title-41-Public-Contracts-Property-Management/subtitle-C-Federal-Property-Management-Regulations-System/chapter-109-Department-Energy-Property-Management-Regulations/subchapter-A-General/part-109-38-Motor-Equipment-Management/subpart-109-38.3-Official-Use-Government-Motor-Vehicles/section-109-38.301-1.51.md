@@ -1,0 +1,5 @@
+##### § 109-38.301-1.51 Emergency use. #####
+
+(a) Procedures for authorization of designated contractor use of Government motor vehicles in emergencies, including unscheduled overtime situations at remote sites where prior approval is not possible, shall be included in a contractor's approved property management procedures. The procedures shall include examples of emergency situations warranting such use. Records detailing instances of emergency use shall be maintained and review of all such emergency or overtime use must be certified through established audit procedures on at least an annual basis by the OPMO.
+
+(b) In limiting the use of Government motor vehicles to official purposes, it is not intended to preclude their use in emergencies threatening loss of life or property. Such use shall be documented and the documentation retained for three years.

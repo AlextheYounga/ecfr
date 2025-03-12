@@ -1,0 +1,3 @@
+##### § 102-40.205 How do we handle national stockpile material? #####
+
+In accordance with 40 U.S.C. 113(e)(6), materials acquired for the national stockpile, the supplemental stockpile, or materials or equipment acquired under section 303 of the Defense Production Act of 1950, as amended (50 App. U.S.C. 2093), are not covered by the Federal Management Regulation. The disposal of these assets is governed by 50 U.S.C. 98d, 98e, and 98f.

@@ -1,0 +1,3 @@
+##### § 102-83.50 What is the Rural Development Act of 1972? #####
+
+The Rural Development Act of 1972, as amended (7 U.S.C. 2204b-1), directs Federal agencies to develop policies and procedures to give first priority to the location of new offices and other Federal facilities in rural areas. The intent of the Rural Development Act is to revitalize and develop rural areas and to help foster a balance between rural and urban America.

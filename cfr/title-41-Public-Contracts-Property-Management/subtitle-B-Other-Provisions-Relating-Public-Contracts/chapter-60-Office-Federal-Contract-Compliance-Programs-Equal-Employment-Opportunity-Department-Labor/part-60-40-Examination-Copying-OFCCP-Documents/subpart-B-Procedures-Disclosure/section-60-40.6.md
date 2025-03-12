@@ -1,0 +1,3 @@
+##### § 60-40.6 To whom to direct requests. #####
+
+A request for contract compliance records or information shall be directed to the National OFCCP or appropriate OFCCP Regional or Area Office. If the person making the request does not know in which office the record is located, he may direct his request to the Director, Office of Federal Contract Compliance Programs, Department of Labor, 200 Constitution Avenue NW., Washington, DC 20210, for appropriate handling.

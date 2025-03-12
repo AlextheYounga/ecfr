@@ -1,0 +1,9 @@
+##### § 102-34.320 What Government-issued charge cards may I use to purchase fuel and motor vehicle related services? #####
+
+(a) You may use a fleet charge card specifically issued for this purpose. These cards are designed to collect motor vehicle data at the time of purchase. Where appropriate, State sales and motor fuel taxes may be deducted from fuel purchases by the fleet charge card services contractor before your agency is billed; otherwise you may need to request reimbursement from each State to which taxes were paid. The GSA contractor issued fleet charge card is the only Government-issued charge card that may be used for GSA Fleet motor vehicles. For further information on acquiring these fleet charge cards and their use, contact the: General Services Administration, ATTN: GSA SmartPay ® (QMB), 2200 Crystal Drive, Arlington, VA 22202.
+
+(b) You may use a Government purchase card if you do not have a fleet charge card or if the use of such a Government purchase card is required by your agency mission. However, the Government purchase card does not collect motor vehicle data nor does it deduct State sales and motor fuel taxes.
+
+Note to § 102-34.320:
+
+OMB Circular A-123, Appendix B, contains additional specific guidance on the management, issuance, and usage of Government charge cards. The Appendix B guidance consolidates and updates current Governmentwide charge card program requirements and guidance issued by the Office of Management and Budget, GSA, Department of the Treasury, and other Federal agencies. Appendix B provides a single document to incorporate changes, new guidance, or amendments to existing guidance, and establishes minimum requirements and suggested best practices for Government charge card programs that may be supplemented by individual agency policy procedures.

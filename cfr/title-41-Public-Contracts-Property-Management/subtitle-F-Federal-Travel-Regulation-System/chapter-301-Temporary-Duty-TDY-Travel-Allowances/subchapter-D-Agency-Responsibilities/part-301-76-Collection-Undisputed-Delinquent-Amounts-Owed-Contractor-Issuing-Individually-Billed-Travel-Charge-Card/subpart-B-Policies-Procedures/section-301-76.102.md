@@ -1,0 +1,3 @@
+##### § 301-76.102 Can we collect undisputed delinquent amounts if we have not reimbursed the employee for amounts reimbursable under applicable travel regulations? #####
+
+No, you may only collect undisputed delinquent amounts after you have reimbursed the employee under the applicable travel regulations and in accordance with a proper travel claim. However, if the employee has not submitted a proper travel claim within the timeframe requirements of § 301-52.7 of this chapter, and there are no extenuating circumstances, you may collect the undisputed delinquent amounts.

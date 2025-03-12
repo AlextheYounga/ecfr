@@ -1,0 +1,3 @@
+##### § 102-36.460 Do we report excess medical shelf-life items held for national emergency purposes? #####
+
+When the remaining shelf life of any medical materials or supplies held for national emergency purposes is of too short a period to justify their continued retention, you should report such property excess for possible transfer and disposal. You must make such excess determinations at such time as to ensure that sufficient time remains to permit their use before their shelf-life expires and the items are unfit for human use. You must identify such items with “MSL” and the expiration date, and indicate any specialized storage requirements.

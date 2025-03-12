@@ -1,0 +1,3 @@
+##### § 102-75.560 Who notifies eligible public agencies that real property to be used for self-help housing or housing assistance purposes is available? #####
+
+The disposal agency must notify eligible public agencies that surplus property is available. The notice must require that any plans for self-help housing or housing assistance use resulting from the development of the comprehensive and coordinated plan of use and procurement for the property must be coordinated with HUD. Eligible public agencies may obtain an application form and instructions for preparing and submitting the application from HUD.

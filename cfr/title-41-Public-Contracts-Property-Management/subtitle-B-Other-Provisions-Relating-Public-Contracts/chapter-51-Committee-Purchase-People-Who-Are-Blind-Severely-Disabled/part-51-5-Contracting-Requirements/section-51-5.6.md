@@ -1,0 +1,7 @@
+##### § 51-5.6 Shipping. #####
+
+(a) Except as provided in paragraph (b) of this section, commodities are sold to the Government on an “F.O.B. destination” basis, with delivery being accomplished when the shipment reaches the facility designated by the contracting activity. Time of delivery is when the shipment is released by the carrier and accepted by the contracting activity or its agent. In this delivery method, the nonprofit agency will normally use commercial bills of lading and will be responsible for any loss or damage to the goods occurring before the commodities reach the designated delivery point. The nonprofit agency will prepare and distribute commercial bills of lading, furnish delivery schedules, designate the carriers, and pay all shipping charges to specified delivery points.
+
+(b) The Committee may determine that certain commodities are to be sold to the Government on an “F.O.B. origin” basis, with delivery being accomplished when a shipment is placed aboard the vehicle of the initial carrier. Time of delivery is when the shipment is released to and accepted by the initial carrier. In this delivery method, the nonprofit agency will normally use Government bills of lading, and responsibility for loss or damage to the goods while in transit passes to the Government at the time the initial carrier accepts a shipment. If the contracting activity fails to furnish a Government bill of lading promptly, such failure shall be considered an excusable delay in delivery.
+
+[64 FR 55842, Oct. 15, 1999]

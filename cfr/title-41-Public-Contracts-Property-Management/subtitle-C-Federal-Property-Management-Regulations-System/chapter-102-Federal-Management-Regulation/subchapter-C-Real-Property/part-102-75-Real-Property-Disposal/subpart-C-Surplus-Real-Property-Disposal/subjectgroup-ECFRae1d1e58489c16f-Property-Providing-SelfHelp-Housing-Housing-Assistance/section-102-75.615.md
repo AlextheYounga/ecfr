@@ -1,0 +1,3 @@
+##### § 102-75.615 Who is responsible for enforcing compliance with the terms and conditions of property transferred under section 414(a) of the 1969 HUD Act? #####
+
+HUD maintains responsibility for properties previously conveyed under section 414(a) of the 1969 HUD Act. Property transferred to an entity other than a public body and used for any purpose other than that for which it was sold or leased within a 30-year period must revert to the United States. If the property was leased, then the lease terminates. The appropriate Secretary (HUD or Department of Agriculture) and the Administrator of GSA can approve the new use of the property after the first 20 years of the original 30-year period has expired.

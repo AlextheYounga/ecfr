@@ -1,0 +1,3 @@
+##### § 102-192.15 How are “I,” “you,” “me,” “we,” and “us” used in this part? #####
+
+In this part, “I,” “me,” and “you” refer to the agency mail manager, a person working in a Federal mail operation, or the agency itself. Where the context does not make it entirely clear which is meant, the meaning is spelled out the first time a pronoun is used in the section. “We,” “us,” and “you” in the plural refer to your Federal agency.

@@ -1,0 +1,3 @@
+##### § 102-75.395 May surplus airport property be conveyed or disposed of to a State, political subdivision, municipality, or tax-supported institution for a public airport? #####
+
+Yes, section 13(g) of the Surplus Property Act of 1944 (49 U.S.C. § 47151) authorizes the disposal agency to convey or dispose of surplus airport property to a State, political subdivision, municipality, or tax-supported institution for use as a public airport.

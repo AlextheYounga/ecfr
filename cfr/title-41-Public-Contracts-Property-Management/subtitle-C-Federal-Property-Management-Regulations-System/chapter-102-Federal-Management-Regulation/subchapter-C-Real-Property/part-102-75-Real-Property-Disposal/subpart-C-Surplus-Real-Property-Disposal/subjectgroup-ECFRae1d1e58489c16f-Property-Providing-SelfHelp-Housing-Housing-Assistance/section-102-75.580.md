@@ -1,0 +1,3 @@
+##### § 102-75.580 When must HUD notify the disposal agency that an eligible applicant is interested in acquiring the property? #####
+
+HUD must notify the disposal agency within 30 calendar days after the date of the surplus notice. Then, after the 30-day period expires, HUD has 30 calendar days to review and approve an application and request assignment or inform the disposal agency that no assignment request is forthcoming.

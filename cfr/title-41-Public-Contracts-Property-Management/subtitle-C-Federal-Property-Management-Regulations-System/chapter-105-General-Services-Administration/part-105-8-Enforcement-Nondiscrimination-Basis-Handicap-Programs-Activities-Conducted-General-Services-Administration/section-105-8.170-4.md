@@ -1,0 +1,9 @@
+##### § 105-8.170-4 Filing a complaint. #####
+
+(a) *Who may file a complaint.* Any person who believes that he or she has been subjected to discrimination prohibited by this part may by him or herself or by his or her authorized representative file a complaint with the Official. Any persons who believes that any specific class of persons has been subjected to discrimination prohibited by this part and who is a member of that class or the authorized representative of a member of that class may file a complaint with the Official.
+
+(b) *Confidentiality.* The Official shall hold in confidence the identity of any person submitting a complaint, unless the person submits written authorization otherwise, and except to the extent necessary to carry out the purposes of this part, including the conduct of any investigation, hearing, or proceeding under this part.
+
+(c) *When to file.* Complaints shall be filed within 180 days of the alleged act of discrimination. The Official may extend this time limit for good cause shown. For purposes of determining when a complaint is timely filed under this section, a complaint mailed to the agency shall be deemed filed on the date it is postmarked. Any other complaint shall be deemed filed on the date it is recevied by the agency.
+
+(d) *How to file.* Complaints may be delivered or mailed to the Administrator, the Responsible Official, or other agency officials. Complaints should be sent to the Director of Civil Rights, Civil Rights Division (AKC), General Services Administration, 18th and F Streets, NW., Washington, DC 20405. If any agency official other than the Official receives a complaint, he or she shall forward the complaint to the Official immediately.

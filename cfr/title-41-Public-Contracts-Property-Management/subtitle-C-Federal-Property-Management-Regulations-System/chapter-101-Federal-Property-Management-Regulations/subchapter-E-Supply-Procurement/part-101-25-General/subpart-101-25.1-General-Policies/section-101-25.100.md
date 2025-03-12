@@ -1,0 +1,5 @@
+##### § 101-25.100 Use of Government personal property and nonpersonal services. #####
+
+Except in emergencies, Government personal property and nonpersonal services shall be used only for those purposes for which they were obtained or contracted for or other officially designated purposes. Emergency conditions are those threatening loss of life and property. As used in this section *nonpersonal services* means those contractual services, other than personal and professional services (as defined in 40 U.S.C. 472). This includes property and services on interagency loan as well as property leased by agencies. Agency heads shall ensure that the provisions of this § 101-25.100 are enforced to restrict the use of Government property/services to officially designated activities.
+
+[40 FR 29818, July 16, 1975]

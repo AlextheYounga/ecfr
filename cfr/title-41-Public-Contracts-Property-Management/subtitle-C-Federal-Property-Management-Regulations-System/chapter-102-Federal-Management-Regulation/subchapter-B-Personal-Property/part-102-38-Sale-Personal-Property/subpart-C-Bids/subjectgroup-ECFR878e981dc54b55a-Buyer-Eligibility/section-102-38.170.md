@@ -1,0 +1,3 @@
+##### § 102-38.170 May we sell Federal personal property to anyone? #####
+
+Generally, you may sell Federal personal property to anyone of legal age. However, certain persons or entities are debarred or suspended from purchasing Federal property. You must not enter into a contract with such a person or entity unless your agency head or designee responsible for the disposal action determines that there is a compelling reason for such an action.

@@ -1,0 +1,3 @@
+##### § 105-64.303 How do I appeal a denial to access a record? #####
+
+If you are denied access to a record in whole or in part, you may file an administrative appeal within 30 days of the denial. The appeal should be in writing and addressed to: GSA Privacy Act Officer (CIB), General Services Administration, 1800 F Street, NW., Washington, DC 20405. Mark both the envelope and the appeal letter “Privacy Act Appeal”.

@@ -1,0 +1,3 @@
+##### § 102-80.25 What are Federal agencies' responsibilities concerning the management of indoor air quality? #####
+
+Federal agencies must assess indoor air quality of buildings as part of their safety and environmental facility assessments. Federal agencies must respond to tenant complaints on air quality and take appropriate corrective action where air quality does not meet applicable standards.

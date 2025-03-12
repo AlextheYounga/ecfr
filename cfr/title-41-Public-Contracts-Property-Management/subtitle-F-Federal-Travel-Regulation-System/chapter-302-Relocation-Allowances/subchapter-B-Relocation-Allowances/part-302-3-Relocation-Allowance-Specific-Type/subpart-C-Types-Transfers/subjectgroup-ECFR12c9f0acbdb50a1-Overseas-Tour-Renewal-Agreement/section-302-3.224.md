@@ -1,0 +1,3 @@
+##### § 302-3.224 If I violate my new service agreement, will the Government reimburse me for return travel and transportation to my actual place of residence? #####
+
+If you violate your new service agreement, the Government will reimburse you for return travel and transportation to your actual place of residence only if you did not receive all of your allowances under a previous service agreement in which you successfully completed your required period of service. The Government will then authorize you reimbursement cost for return travel and transportation expenses from your former post of duty to your actual place of residence. If there is any additional cost you must pay the difference.

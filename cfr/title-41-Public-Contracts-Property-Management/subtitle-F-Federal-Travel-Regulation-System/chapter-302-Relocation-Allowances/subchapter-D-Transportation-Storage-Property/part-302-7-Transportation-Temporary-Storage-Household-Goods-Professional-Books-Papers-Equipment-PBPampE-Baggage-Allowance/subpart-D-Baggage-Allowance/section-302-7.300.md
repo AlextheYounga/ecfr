@@ -1,0 +1,3 @@
+##### § 302-7.300 When may I be authorized an unaccompanied air baggage (UAB) shipment? #####
+
+UAB is used in connection with permanent change of station OCONUS, renewal agreement travel, and temporary change of station. You may be authorized a UAB shipment prior to transferring from a CONUS location to an OCONUS location, between OCONUS locations, or from an OCONUS location to a CONUS location. UAB for CONUS to CONUS shipments is not allowed under the FTR.

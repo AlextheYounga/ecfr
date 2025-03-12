@@ -1,0 +1,3 @@
+##### § 102-73.20 Are Federal agencies required to give priority consideration to space in buildings under the custody and control of the United States Postal Service in fulfilling Federal agency space needs? #####
+
+Yes, after considering the availability of GSA-controlled space and determining that no such space is available to meet its needs, Federal agencies must extend priority consideration to available space in buildings under the custody and control of the United States Postal Service (USPS) in fulfilling Federal agency space needs, as specified in the “Agreement Between General Services Administration and the United States Postal Service Covering Real and Personal Property Relationships and Associated Services,” dated July 1985.

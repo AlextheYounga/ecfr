@@ -1,0 +1,3 @@
+##### § 109-38.701-50 Authority to sign Standard Form 97, The United States Government Certificate to Obtain Title to a Vehicle. #####
+
+The Standard Form (SF) 97 shall be signed by an appropriate contracting officer. The Director, Office of Management and Program Secretarial Officer (PSO) for their respective organizations may delegate the authority to sign SF 97 to responsible DOE personnel under their jurisdiction.

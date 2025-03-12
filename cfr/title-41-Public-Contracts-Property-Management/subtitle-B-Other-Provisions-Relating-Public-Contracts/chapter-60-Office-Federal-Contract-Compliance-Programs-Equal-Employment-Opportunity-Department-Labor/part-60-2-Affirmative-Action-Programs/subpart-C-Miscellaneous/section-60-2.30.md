@@ -1,0 +1,5 @@
+##### § 60-2.30 Corporate management compliance evaluations. #####
+
+(a) Purpose. Corporate Management Compliance Evaluations are designed to ascertain whether individuals are encountering artificial barriers to advancement into mid-level and senior corporate management, *i.e.,* glass ceiling. During Corporate Management Compliance Evaluations, special attention is given to those components of the employment process that affect advancement into mid-and senior-level positions.
+
+(b) If, during the course of a Corporate Management Compliance Evaluation, it comes to the attention of OFCCP that problems exist at establishments outside the corporate headquarters, OFCCP may expand the compliance evaluation beyond the headquarters establishment. At its discretion, OFCCP may direct its attention to and request relevant data for any and all areas within the corporation to ensure compliance with Executive Order 11246.

@@ -1,0 +1,3 @@
+##### § 302-14.7 Are there tax consequences when I receive a home marketing incentive payment? #####
+
+Yes, the home marketing incentive payment is considered income. Consequently, you will be taxed, and your agency will withhold income and employment taxes, on the home marketing incentive payment. You will not, however, receive a withholding tax allowance (WTA) to offset the withholding on your home marketing incentive payment, nor will you receive a relocation income tax (RIT) allowance payment for substantially all of your Federal, state and local income taxes on the incentive payment.

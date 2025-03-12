@@ -1,0 +1,3 @@
+##### § 102-36.410 How do we dispose of a gift in the form of money or intangible personal property? #####
+
+Report intangible personal property to GSA, Personal Property Management Division (FBP), Washington, DC 20406. You must not transfer or dispose of this property without prior approval of GSA. The Secretary of the Treasury will dispose of money and negotiable instruments such as bonds, notes, or other securities under the authority of 31 U.S.C. 324.

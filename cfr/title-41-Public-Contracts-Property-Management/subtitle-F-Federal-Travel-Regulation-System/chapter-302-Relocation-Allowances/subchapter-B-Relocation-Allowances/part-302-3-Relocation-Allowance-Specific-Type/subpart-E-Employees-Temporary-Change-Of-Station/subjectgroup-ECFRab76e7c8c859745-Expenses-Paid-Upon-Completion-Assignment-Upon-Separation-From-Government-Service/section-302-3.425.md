@@ -1,0 +1,3 @@
+##### § 302-3.425 If I have been authorized successive temporary changes of station and reassigned from one temporary official station to another, what expenses will my agency pay upon completion of my last assignment or my separation from Government service? #####
+
+Your agency will pay the expenses authorized in § 302-3.422 for your relocation from your current temporary official station to your last permanent official station.

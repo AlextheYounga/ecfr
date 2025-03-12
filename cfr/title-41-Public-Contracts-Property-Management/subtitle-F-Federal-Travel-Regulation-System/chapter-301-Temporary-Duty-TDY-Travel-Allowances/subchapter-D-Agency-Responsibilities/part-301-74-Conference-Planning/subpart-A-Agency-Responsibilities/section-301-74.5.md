@@ -1,0 +1,3 @@
+##### § 301-74.5 How should we select a location and a facility? #####
+
+Site selection is a final decision as to where to hold your conference. The term “site” refers to both the geographical location and the specific facility(ies) selected. In determining the best site in the interest of the Government, you should exercise strict fiscal responsibility to minimize costs. The actions in § 301-74.3 must be followed. Cost comparisons must cover factors such as those listed in § 301-74.4. As part of the cost comparison, you must use the established per diem rate for the locations for which you are comparing costs.

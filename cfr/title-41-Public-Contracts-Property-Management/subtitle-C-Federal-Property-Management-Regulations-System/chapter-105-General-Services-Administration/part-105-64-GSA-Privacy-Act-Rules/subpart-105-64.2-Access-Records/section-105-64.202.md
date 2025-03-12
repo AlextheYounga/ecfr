@@ -1,0 +1,3 @@
+##### § 105-64.202 How do I request access in person? #####
+
+If appearing in person, you must properly identify yourself through photographic identification such as an agency identification badge, passport, or driver's license. Records will be available during normal business hours at the offices where the records are maintained. You may examine the record and be provided a copy on request. If you want someone else to accompany you when reviewing a record, you must first sign a statement authorizing the disclosure of the record; the statement will be maintained with your record.

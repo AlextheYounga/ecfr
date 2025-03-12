@@ -1,0 +1,3 @@
+##### § 128-1.5002-4 Bureau. #####
+
+The Federal Bureau of Investigation; the Law Enforcement Assistance Administration; the Immigration and Naturalization Service; the Drug Enforcement Administration; the Bureau of Prisons; the Federal Prison Industries, Incorporated; and the Operations Support Staff (OSS) of the Office of Management and Finance. The OSS has authority and is responsible for all personal property management functions for the Offices, Boards, and Divisions of the Department, the United States Marshals Service, and the United States Parole Commission.

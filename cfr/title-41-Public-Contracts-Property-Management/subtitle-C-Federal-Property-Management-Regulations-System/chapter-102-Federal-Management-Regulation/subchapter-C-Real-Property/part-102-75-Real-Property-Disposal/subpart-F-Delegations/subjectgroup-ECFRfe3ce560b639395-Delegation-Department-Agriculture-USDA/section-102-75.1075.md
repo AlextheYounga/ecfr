@@ -1,0 +1,3 @@
+##### § 102-75.1075 What is the policy governing delegations of real property disposal authority to the Secretary of Agriculture? #####
+
+GSA delegates authority to the Secretary of Agriculture to determine that Federal agencies do not need USDA-controlled excess real property and related personal property having a total estimated fair market value, including all the component units of the property, of less than $50,000; and to dispose of the property by means deemed most advantageous to the United States.

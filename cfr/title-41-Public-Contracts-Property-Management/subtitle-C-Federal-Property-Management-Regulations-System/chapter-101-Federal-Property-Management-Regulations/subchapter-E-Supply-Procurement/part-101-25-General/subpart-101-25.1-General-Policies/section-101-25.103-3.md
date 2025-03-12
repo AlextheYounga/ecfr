@@ -1,0 +1,5 @@
+##### § 101-25.103-3 Trading stamps or bonus goods received from contractors. #####
+
+When contracts contain a price reduction clause, any method (such as trading stamps or bonus goods) by which the price of a commodity or service is effectively reduced shall constitute a price reduction. Temporary or promotional price reductions are to be made available to contracting officers under the same terms and conditions as to other customers. Procuring activities, however, rather than accept trading stamps and bonus goods, shall attempt to deduct the cost of such items from the contract price. If obtaining such a price reduction is not possible, the contracting officer shall document the contract file to that effect and dispose of the items as provided in § 101-25.103.4.
+
+[48 FR 48232, Oct. 18, 1983]

@@ -1,0 +1,5 @@
+##### § 101-26.507 Security equipment. #####
+
+Federal agencies and other activities authorized to purchase security equipment through GSA sources shall do so in accordance with the provisions of this § 101-26.507. Under section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481), the Administrator of GSA has determined that fixed-price contractors and lower tier subcontractors who are required to protect and maintain custody of security classified records and information may purchase security equipment from GSA sources. Delivery orders for security equipment submitted by such contractors and lower tier subcontractors shall contain a statement that the security equipment is needed for housing Government security classified information and that the purchase of such equipment is required to comply with the security provision of a Government contract. In the event of any inconsistency between the terms and conditions of the delivery order and those of the Federal Supply Schedule contract, the latter shall govern. Security equipment shall be used as prescribed by the cognizant security office.
+
+[60 FR 19675, Apr. 20, 1995]

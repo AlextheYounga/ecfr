@@ -1,0 +1,3 @@
+##### § 302-8.301 What obligations do I have if I do not report for service at the beginning of the next school year? #####
+
+If you do not report for service at the beginning of the next school year, you must repay the Government for the cost of the extended storage of your HHG during the recess. Except for reasons beyond your control and acceptable to DoD, you shall be obligated to reimburse DoD the amount paid for the commercial storage, including related services. If, however, the property was stored in a Government facility, you shall pay DoD an amount equal to the reasonable value of the storage furnished, including related services.

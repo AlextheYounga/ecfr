@@ -1,0 +1,3 @@
+##### § 102-74.100 What are conservation programs? #####
+
+Conservation programs are programs that improve energy and water efficiency and promote the use of solar and other renewable energy. These programs must promote and maintain an effective source reduction activity (reducing consumption of resources such as energy, water, and paper), resource recovery activity (obtaining materials from the waste stream that can be recycled into new products), and reuse activity (reusing same product before disposition, such as reusing unneeded memos for scratch paper).

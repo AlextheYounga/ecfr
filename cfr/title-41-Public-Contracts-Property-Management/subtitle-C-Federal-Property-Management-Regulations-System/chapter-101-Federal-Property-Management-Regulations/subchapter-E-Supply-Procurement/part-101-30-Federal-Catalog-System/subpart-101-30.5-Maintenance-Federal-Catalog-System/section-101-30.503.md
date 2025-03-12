@@ -1,0 +1,15 @@
+##### § 101-30.503 Maintenance actions required. #####
+
+After converting to the Federal Catalog System, the agency concerned shall promptly take maintenance actions affecting the items converted and new items to be added. These actions may include deletion or revision of item identification or management data, or any other change required to ensure that the recorded data are maintained on a current basis. Submission of data to DLSC shall be as follows:
+
+(a) As new items meeting criteria for national stock number (NSN) assignment are added to an agency's supply system, the agency shall submit data to GSA, the Defense Logistics Agency (DLA), the Veterans Administration (VA), or DLSC when a direct submitter of catalog data is involved in accordance with § 101-30.303.
+
+(b) All civilian agencies not authorized to submit catalog data direct to DLSC shall prepare Standard Form 1303, Request for Federal Cataloging/Supply Support Action (illustrated at § 101-30.4901-1303), to request maintenance action. Maintenance requests shall be submitted to GSA for collaboration and submission to DLSC, except that civilian agencies receiving supply support on an item from a DLA center or the VA, as expressed by major organizational entity (MOE) rule, should submit these requests to the DLA center using DD Form 1685, Data Exchange and/or Proposed Revision of Catalog Data, or to the VA using Standard Form 1303, for collaboration and submission to DLSC. When GSA receives maintenance requests on these items, they will be forwarded to the appropriate DLA center or to the VA.
+
+(c) Agencies authorizd to submit catalog data direct to DLSC as provided in § 101-30.303(a) shall comply with item maintenance and data collaboration procedures as set forth in the Defense Integrated Data System (DIDS) Procedures Manual (DOD 4100.39M).
+
+(d) All civilain agencies not authorized to submit catalog data to DLSC shall use Standard Form 1303, Request for Federal Cataloging/Supply Support Action, to request maintenance action. Proposed maintenance requests shall be submitted to GSA for collaboration and submission to DLSC, except that civilian agencies receiving supply support from DLA supply centers, as expressed in the DLSC user record by major organizational entity (MOE) rule, should submit proposed maintenance requests to the appropriate DLA supply center for collaboration and submission to DLSC. When GSA receives maintenance requests for these items, they will be referred to the appropriate DLA supply center.
+
+(e) Any civilian agency participating in the Federal Catalog System (those agencies previously assigned a Cataloging Activity Code) may propose action for maintenance of the catalog system tools as outline in § 101-30.201(b).
+
+[41 FR 11310, Mar. 18, 1976, as amended at 42 FR 36255, July 14, 1977; 43 FR 18673, May 2, 1978; 46 FR 35646, July 10, 1981]

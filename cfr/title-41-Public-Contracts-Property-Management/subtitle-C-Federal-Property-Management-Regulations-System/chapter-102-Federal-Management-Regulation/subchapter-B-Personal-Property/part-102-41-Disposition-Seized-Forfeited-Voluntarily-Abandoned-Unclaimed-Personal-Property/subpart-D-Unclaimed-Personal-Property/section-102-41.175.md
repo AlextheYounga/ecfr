@@ -1,0 +1,3 @@
+##### § 102-41.175 May we sell unclaimed personal property? #####
+
+Yes, you may sell unclaimed personal property after title vests in the Government (as provided for in § 102-41.120) and when there is no Federal interest. You may sell unclaimed personal property subject to the same terms and conditions as applicable to surplus personal property and in accordance with part 102-38 of this subchapter B.

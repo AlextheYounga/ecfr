@@ -1,0 +1,3 @@
+##### § 102-36.435 How do we identify Munitions List Items (MLIs)/Commerce Control List Items (CCLIs) requiring demilitarization? #####
+
+You identify MLIs/CCLIs requiring demilitarization by the demilitarization code that is assigned to each MLI or CCLI. The code indicates the type and scope of demilitarization and/or export controls that must be accomplished, when required, before issue to any non-DOD activity. For a listing of the codes and additional guidance on DEMIL procedures see DOD Demilitarization and Trade Security Control Manual, DOD 4160.21-M-1.

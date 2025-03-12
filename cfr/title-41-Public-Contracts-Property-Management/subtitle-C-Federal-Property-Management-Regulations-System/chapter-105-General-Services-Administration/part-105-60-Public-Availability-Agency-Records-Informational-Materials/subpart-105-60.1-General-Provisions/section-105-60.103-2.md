@@ -1,0 +1,3 @@
+##### § 105-60.103-2 Applying exemptions. #####
+
+GSA may deny a request for a GSA record if it falls within an exemption under the FOIA outlined in subpart 105-60.5 of this part. Except when a record is classified or when disclosure would violate any Federal statute, the authority to withhold a record from disclosure is permissive rather than mandatory. GSA will not withhold a record unless there is a compelling reason to do so; i.e., disclosure will likely cause harm to a Governmental or private interest. In the absence of a compelling reason, GSA will disclose a record even if it otherwise is subject to exemption. GSA will cite the compelling reason(s) to requesters when any record is denied under FOIA.

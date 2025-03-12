@@ -1,0 +1,3 @@
+##### § 102-41.70 Are transfers of forfeited personal property reimbursable? #####
+
+Recipient agencies do not pay for the property. However, you may charge the recipient agency all costs you incurred in storing, packing, loading, preparing for shipment, and transporting the property. If there are commercial charges incident to forfeiture prior to the transfer, the recipient agency must pay these charges when billed by the commercial organization. Any payment due to lien holders or other lawful claimants under a judicial forfeiture must be made in accordance with provisions of the court decree.

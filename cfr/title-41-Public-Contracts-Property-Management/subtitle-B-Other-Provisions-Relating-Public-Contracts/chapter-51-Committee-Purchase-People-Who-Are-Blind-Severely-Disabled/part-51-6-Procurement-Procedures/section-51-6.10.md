@@ -1,0 +1,5 @@
+##### § 51-6.10 Quality of merchandise. #####
+
+(a) Commodities furnished under Government specification by nonprofit agencies employing persons who are blind or have other severe disabilities shall be manufactured in strict compliance with such specifications. Where no specifications exist, commodities furnished shall be of a quality equal to or higher than similar items available on the commercial market. Commodities shall be inspected utilizing nationally recognized test methods and procedures for sampling and inspection.
+
+(b) Services furnished by nonprofit agencies employing persons who are blind or have other severe disabilities shall be performed in accordance with Government specifications and standards. Where no Government specifications and standards exist, the services shall be performed in accordance with commercial practices.

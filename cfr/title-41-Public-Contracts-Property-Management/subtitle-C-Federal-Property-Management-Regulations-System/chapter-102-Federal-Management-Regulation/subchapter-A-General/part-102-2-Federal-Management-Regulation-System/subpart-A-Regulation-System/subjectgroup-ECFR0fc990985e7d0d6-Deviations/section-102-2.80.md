@@ -1,0 +1,5 @@
+##### § 102-2.80 What steps must an agency take to deviate from the FMR? #####
+
+(a) Consult informally with appropriate GSA program personnel to learn more about how your agency can work within the FMR's requirements instead of deviating from them. The consultation process may also highlight reasons why an agency would not be permitted to deviate from the FMR; e.g., statutory constraints.
+
+(b) Formally request a deviation, if consultations indicate that your agency needs one. The head of your agency or a designated official should write to GSA's Regulatory Secretariat to the attention of a GSA official in the program office that is likely to consider the deviation. (See the FMR bulletin that lists contacts in GSA's program offices and § 102-2.90.) The written request must fully explain the reasons for the deviation, including the benefits that the agency expects to achieve.

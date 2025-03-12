@@ -1,0 +1,3 @@
+##### § 102-37.305 May a SASP act as GSA's agent in selling undistributed surplus property (either as usable property or scrap)? #####
+
+Yes, you may act as GSA's agent in selling undistributed surplus property (either as usable property or scrap) if an established cooperative agreement with GSA permits such an action. You must notify GSA each time you propose to conduct a sale under the cooperative agreement. You may request approval to conduct a sale when reporting the property to GSA for disposal instructions. If no formal agreement exists, you may submit such an agreement at that time for approval.

@@ -1,0 +1,3 @@
+##### § 102-2.125 What source of information can my agency use to identify materials that describe how to do business with GSA? #####
+
+The FMR establishes policy; it does not specify procedures for the acquisition of GSA services. However, as a service to users during the transition from the FPMR to the FMR and as needed thereafter, GSA will issue FMR bulletins to identify where to find information on how to do business with GSA. References include customer service guides, handbooks, brochures, Internet websites, etc.

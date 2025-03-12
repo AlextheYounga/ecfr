@@ -1,0 +1,3 @@
+##### § 128-1.8003 Objective. #####
+
+The Department shall comply with Executive Order 12699 for the purpose of reducing the risks to lives of occupants of new buildings owned by the Department, leased for Department uses, or purchased and constructed with assistance from the Department, and to other persons who would be affected by the failure of such buildings in earthquakes; improving the capability of essential new Department buildings to function during or after an earthquake; and protecting public investments in all covered buildings; all in a cost-effective manner.

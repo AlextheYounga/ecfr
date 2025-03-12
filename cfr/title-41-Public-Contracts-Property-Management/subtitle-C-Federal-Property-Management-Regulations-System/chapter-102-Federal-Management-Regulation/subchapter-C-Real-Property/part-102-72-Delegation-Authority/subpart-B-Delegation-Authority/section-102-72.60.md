@@ -1,0 +1,3 @@
+##### § 102-72.60 What are Executive agencies' responsibilities under a delegation of individual repair and alteration project authority from GSA? #####
+
+With this delegation of authority, Executive agencies have the responsibility to perform individual repair and alterations projects. Executive agencies are delegated repair and alterations authority for reimbursable space alteration projects up to the simplified acquisition threshold, as specified in the GSA Customer Guide to Real Property.

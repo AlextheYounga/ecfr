@@ -1,0 +1,5 @@
+##### § 105-60.401 General. #####
+
+(a) Except for records made available in accordance with subparts 105-60.2 and 105-60.3 of this part, GSA will make records available to a requester promptly when the request reasonably describes the records unless GSA invokes an exemption in accordance with subpart 105-60.5 of this part. Although the burden of reasonable description of the records rests with the requester, whenever practical GSA will assist requesters to describe records more specifically.
+
+(b) Whenever a request does not reasonably describe the records requested, GSA may contact the requester to seek a more specific description. The 20-workday time limit set forth in § 105-60.402-2 will not start until the official identified in § 105-60.402-1 or other responding official receives a request reasonably describing the records.

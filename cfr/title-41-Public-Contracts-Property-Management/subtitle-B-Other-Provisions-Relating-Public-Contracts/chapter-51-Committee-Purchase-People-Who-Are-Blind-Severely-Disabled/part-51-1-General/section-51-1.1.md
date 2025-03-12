@@ -1,0 +1,7 @@
+##### § 51-1.1 Policy. #####
+
+(a) It is the policy of the Government to increase employment and training opportunities for persons who are blind or have other severe disabilities through the purchase of commodities and services from qualified nonprofit agencies employing persons who are blind or have other severe disabilities. The Committee for Purchase from People who are Blind or Severely Disabled (hereinafter the Committee) was established by the Javits-Wagner—O'Day Act, Public Law 92-28, 85 Stat. 77 (1971), as amended, 41 U.S.C. 46-48c (hereinafter the JWOD Act). The Committee is responsible for implementation of a comprehensive program designed to enforce this policy.
+
+(b) It is the policy of the Committee to encourage all Federal entities and employees to provide the necessary support to ensure that the JWOD Act is implemented in an effective manner. This support includes purchase of products and services published on the Committee's Procurement List through appropriate channels from nonprofit agencies employing persons who are blind or have other severe disabilities designated by the Committee; recommendations to the Committee of new commodities and services suitable for addition to the Procurement List; and cooperation with the Committee and the central nonprofit agencies in the provision of such data as the Committee may decide is necessary to determine suitability for addition to the Procurement List.
+
+[56 FR 48976, Sept. 26, 1991, as amended at 59 FR 16777, Apr. 8, 1994]

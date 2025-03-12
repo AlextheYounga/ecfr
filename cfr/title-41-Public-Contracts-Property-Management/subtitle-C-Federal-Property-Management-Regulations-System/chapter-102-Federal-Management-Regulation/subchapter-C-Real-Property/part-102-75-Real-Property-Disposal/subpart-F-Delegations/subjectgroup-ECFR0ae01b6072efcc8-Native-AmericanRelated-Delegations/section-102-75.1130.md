@@ -1,0 +1,3 @@
+##### § 102-75.1130 What action must the Secretary requesting the transfer take where funds were not programmed and appropriated for acquisition of the property? #####
+
+The Secretary requesting the transfer or retransfer must certify in writing that no funds are available to acquire the property. The Secretary transferring or retransferring the property may make any determination necessary that would otherwise be made by GSA to carry out the authority contained in this delegation.

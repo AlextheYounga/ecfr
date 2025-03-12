@@ -1,0 +1,5 @@
+##### § 51-9.501 Reporting requirement. #####
+
+(a) No later than 30 days prior to the establishment of a new systems of records, the Executive Director shall submit a copy of the proposal to the President of the Senate, the Speaker of the House of Representatives, and the Director of the Office of Management and Budget for their evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals of the disclosure of information relating to such individuals.
+
+(b) No later than 30 days prior to the alteration of a system of records, the Executive Director for the maintenance of that system of records shall submit a copy of the proposal to the President of the Senate, the Speaker of the House of Representatives, and the Director of the Office of Management and Budget for their evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals of the disclosure of information relating to such individuals.

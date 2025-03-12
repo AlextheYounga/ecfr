@@ -1,0 +1,3 @@
+##### § 101-30.702 Determining item reduction potential. #####
+
+Item reduction studies are required where there are large numbers of generally similar items which are subject to grouping and examination by item name, item name modifiers, or other characteristics such as sizes, grades, lengths, and materials. Before conducting a full scale item reduction study, the assignee activity shall determine whether sufficient item reduction potential appears to exist. Item reduction studies shall be undertaken only when the expected benefits outweigh the costs of performing the study.

@@ -1,0 +1,5 @@
+##### § 101-39.304 Modification or installation of accessory equipment. #####
+
+The modification of a GSA Interagency Fleet Management System (IFMS) vehicle or the permanent installation of accessory equipment on these vehicles may be accomplished only when approved by GSA. For the purpose of this regulation, permanent installation means the actual bolting, fitting, or securing of an item to the vehicle. Such modification or installation of accessory equipment must be considered by the agency as essential for the accomplishment of the agency's mission. The request for such modification or installation shall be forwarded to the appropriate GSA IFMS regional fleet manager for consideration. Accessory equipment or other after-market items which project an inappropriate appearance, such as radar detectors, will not be used on GSA IFMS vehicles. Decorative items (i.e., bumper stickers and decals) will not be used on IFMS vehicles unless authorized by the Director, Fleet Management Division, GSA.
+
+[56 FR 59890, Nov. 26, 1991]

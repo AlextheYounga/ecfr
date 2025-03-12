@@ -1,0 +1,3 @@
+##### § 102-75.755 Which Federal agencies must the disposal agency notify concerning the availability of surplus properties for correctional facility, law enforcement, or emergency management response purposes? #####
+
+The disposal agency must provide prompt notification to the Office of Justice Programs (OJP), Department of Justice (DOJ), and FEMA that surplus property is available. The disposal agency's notice or notification must include a copy of the landholding agency's Report of Excess Real Property (Standard Form 118), with accompanying schedules.

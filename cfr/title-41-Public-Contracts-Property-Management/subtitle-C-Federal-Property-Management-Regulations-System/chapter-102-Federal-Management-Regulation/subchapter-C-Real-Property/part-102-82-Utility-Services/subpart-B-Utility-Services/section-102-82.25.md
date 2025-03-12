@@ -1,0 +1,3 @@
+##### § 102-82.25 What are Executive agencies' responsibilities concerning the procurement of utility services? #####
+
+Executive agencies, operating under a utility services delegation from GSA, or the Secretary of Defense, when the Secretary determines it to be in the best interests of national security, must provide for the procurement of utility services (such as commodities and utility rebate programs), as required, and must procure from sources of supply that are the most advantageous to the Federal Government in terms of economy, efficiency, reliability, or quality of service. Executive agencies, upon receiving a delegation of authority from GSA, may enter into contracts for utility services for periods not exceeding ten years (40 U.S.C. 501(b)(1)(B)).

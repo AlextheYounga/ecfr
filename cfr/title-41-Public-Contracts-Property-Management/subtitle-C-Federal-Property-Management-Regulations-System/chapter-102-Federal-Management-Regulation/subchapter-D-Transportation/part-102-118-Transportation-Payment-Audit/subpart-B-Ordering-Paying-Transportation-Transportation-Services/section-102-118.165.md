@@ -1,0 +1,3 @@
+##### § 102-118.165 What must my agency do if it finds an error on a TSP bill? #####
+
+Your agency must advise the TSP via statement of difference of any adjustment that you make either electronically or in writing within 7 days of receipt of the bill, as required by the Prompt Payment Act (31 U.S.C. 3901, *et seq.*). This notice must include the TSP's taxpayer identification number, standard carrier alpha code, bill number and document reference number, agency name, amount requested by the TSP, amount paid, payment voucher number, complete tender or tariff authority, the applicable rate authority and the complete fiscal authority including the appropriation.

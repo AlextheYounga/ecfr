@@ -1,0 +1,5 @@
+##### § 102-41.205 Do we report all forfeited distilled spirits, wine, and beer to GSA for disposal? #####
+
+(a) Yes, except do not report distilled spirits, wine, and beer not fit for human consumption or for medicinal, scientific, or mechanical purposes. When reporting, indicate quantities and kinds, proof rating, and condition for shipping. GSA (3FPD) may transfer such property to another Federal agency for official purposes, or donate it to eligible eleemosynary institutions for medicinal purposes only.
+
+(b) Forfeited distilled spirits, wine, and beer that are not retained for official use by the seizing agency or transferred or donated to eligible recipients by GSA must be destroyed. You must document the destruction with a record of the time and location, property description, and quantities destroyed.

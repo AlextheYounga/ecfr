@@ -1,0 +1,3 @@
+##### § 102-78.5 What is the scope of this part? #####
+
+The real property policies contained in this part apply to Federal agencies, including GSA's Public Buildings Service (PBS), operating under, or subject to, the authorities of the Administrator of General Services. The policies in this part are in furtherance of GSA's preservation program under section 110 of the National Historic Preservation Act of 1966, as amended (16 U.S.C. 470) and apply to properties under the jurisdiction or control of the Administrator and to any Federal agencies operating, maintaining or protecting such properties under a delegation of authority from the Administrator.

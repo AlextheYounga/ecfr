@@ -1,0 +1,3 @@
+##### § 105-8.170-5 Notification to the Architectural and Transportation Barriers Compliance Board. #####
+
+The agency shall prepare and forward comprehensive quarterly reports to the Architectural and Transportation Barriers Compliance Board containing information regarding complaints received alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), is not readily accessible to and usable by individuals with handicaps. The agency shall not include in the report the identity of any complainant.

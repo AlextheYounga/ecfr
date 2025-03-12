@@ -1,0 +1,3 @@
+##### § 102-2.5 What is the Federal Management Regulation (FMR)? #####
+
+The Federal Management Regulation (FMR) is the successor regulation to the Federal Property Management Regulations (FPMR). It contains updated regulatory policies originally found in the FPMR. However, it does not contain FPMR material that described how to do business with the General Services Administration (GSA). “How to” materials on this and other subjects are available in customer service guides, handbooks, brochures and Internet websites provided by GSA. (See § 102-2.125.)

@@ -1,0 +1,3 @@
+##### § 102-74.55 Are vending facilities authorized under the Randolph-Sheppard Act operated by permit or contract? #####
+
+Vending facilities are authorized by permit. As set forth in 34 CFR part 395, the Federal property manager approves and signs State licensing agency permits that authorize States to license blind vendors to operate vending facilities (including vending machines) on Federal property.

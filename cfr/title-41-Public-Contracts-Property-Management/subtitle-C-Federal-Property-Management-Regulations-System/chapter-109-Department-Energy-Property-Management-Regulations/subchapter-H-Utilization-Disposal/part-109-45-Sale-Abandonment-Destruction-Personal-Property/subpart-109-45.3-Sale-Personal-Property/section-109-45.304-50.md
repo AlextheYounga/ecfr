@@ -1,0 +1,3 @@
+##### § 109-45.304-50 Processing bids and awarding of contracts. #####
+
+The procedures established in 48 CFR 14.4 and 48 CFR 914.4 shall be made applicable to the execution, receipt, safeguarding, opening, abstraction, and evaluation of bids and awarding contracts, except that in evaluating bids and awarding contracts, disposal under conditions most advantageous to the Government based on high bids received shall be the determining factor.

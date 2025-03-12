@@ -1,0 +1,3 @@
+##### § 50-205.6 Complaints. #####
+
+When a complaint of alleged safety and health violations by an employer apparently subject to the Act is filed with a State agency, that agency shall transmit a copy of the complaint to the cooperating office of the Department of Labor within 5 days from the receipt of the complaint. All complaints shall be considered confidential and shall not be disclosed to any employer without the consent of the complainant.

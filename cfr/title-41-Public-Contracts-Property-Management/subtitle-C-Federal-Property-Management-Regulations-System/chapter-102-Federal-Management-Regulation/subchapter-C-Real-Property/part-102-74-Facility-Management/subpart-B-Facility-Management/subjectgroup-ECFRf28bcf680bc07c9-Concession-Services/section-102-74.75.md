@@ -1,0 +1,3 @@
+##### § 102-74.75 May Federal agencies sell tobacco products in vending machines in Government-owned and leased space? #####
+
+No. Section 636 of Public Law 104-52 prohibits the sale of tobacco products in vending machines in Government-owned and leased space. The Administrator of GSA or the head of an Agency may designate areas not subject to the prohibition, if minors are prohibited and reports are made to the appropriate committees of Congress.

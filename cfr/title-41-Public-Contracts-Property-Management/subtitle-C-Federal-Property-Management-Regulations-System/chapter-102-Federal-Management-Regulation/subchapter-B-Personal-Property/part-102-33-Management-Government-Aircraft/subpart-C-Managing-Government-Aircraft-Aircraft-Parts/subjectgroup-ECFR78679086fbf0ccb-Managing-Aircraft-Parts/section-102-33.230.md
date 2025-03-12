@@ -1,0 +1,3 @@
+##### § 102-33.230 May we use military FSCAP on non-military FAA-type certificated Government aircraft? #####
+
+You may use dual-use military FSCAP on non-military aircraft operated under restricted or standard airworthiness certificates if the parts are inspected and approved for such installation by the FAA. See detailed guidance in FAA Advisory Circular 20-142, Change (1), “Eligibility and Evaluation of U.S. Military Surplus Flight Safety Critical Aircraft Parts, Engines, and Propellers” (*http://www.faa.gov*).

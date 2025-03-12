@@ -1,0 +1,3 @@
+##### § 102-34.300 How do we dispose of a domestic fleet motor vehicle? #####
+
+After meeting the replacement standards under subpart E of this part, you may dispose of a Government-owned domestic fleet motor vehicle. Detailed instructions for the transfer of an excess motor vehicle to another Federal agency can be found in part 102-36 of this subchapter B, information for the donation of surplus of motor vehicles can be found in part 102-37 of this subchapter B, information for the sale of motor vehicles can be found in part 102-38 of this subchapter B, and information on exchange/sale authority can be found in part 102-39 of this subchapter B.

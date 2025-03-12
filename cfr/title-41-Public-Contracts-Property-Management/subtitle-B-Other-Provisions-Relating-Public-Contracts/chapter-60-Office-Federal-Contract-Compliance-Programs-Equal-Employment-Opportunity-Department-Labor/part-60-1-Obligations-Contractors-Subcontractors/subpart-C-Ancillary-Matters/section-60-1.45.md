@@ -1,0 +1,3 @@
+##### § 60-1.45 Existing contracts and subcontracts. #####
+
+All contracts and subcontracts in effect prior to October 24, 1965, which are not subsequently modified shall be administered in accordance with the nondiscrimination provisions of any prior applicable Executive orders. Any contract or subcontract modified on or after October 24, 1965, shall be subject to Executive Order 11246. Complaints received by and violations coming to the attention of agencies regarding contracts and subcontracts which were subject to Executive Orders 10925 and 11114 shall be processed as if they were complaints regarding violations of this order.

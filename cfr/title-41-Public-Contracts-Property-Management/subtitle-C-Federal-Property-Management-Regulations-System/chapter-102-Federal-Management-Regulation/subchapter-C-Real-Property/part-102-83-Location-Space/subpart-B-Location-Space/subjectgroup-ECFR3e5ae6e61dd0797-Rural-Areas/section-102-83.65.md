@@ -1,0 +1,3 @@
+##### § 102-83.65 Are Executive agencies required to give first priority to the location of new offices and other facilities in rural areas? #####
+
+Yes, Executive agencies must give first priority to the location of new offices and other facilities in rural areas in accordance with the Rural Development Act (7 U.S.C. 2204b-1), unless their mission or program requirements call for locations in an urban area. First priority to the location of new offices and other facilities in rural areas must be given in accordance with the hierarchy specified in § 102-79.55 of this chapter.

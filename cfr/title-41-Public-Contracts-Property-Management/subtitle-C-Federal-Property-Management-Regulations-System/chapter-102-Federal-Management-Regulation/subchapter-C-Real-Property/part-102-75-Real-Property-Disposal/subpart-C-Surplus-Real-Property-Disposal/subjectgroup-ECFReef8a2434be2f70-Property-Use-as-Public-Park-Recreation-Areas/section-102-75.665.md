@@ -1,0 +1,3 @@
+##### § 102-75.665 What happens after the disposal agency receives the assignment recommendation from DOI? #####
+
+If, after considering other uses for the property, the disposal agency approves the assignment recommendation from DOI, it must assign the property by letter or other document to the Secretary of the Interior. The disposal agency must furnish to the landholding agency a copy of the assignment, unless the landholding agency is also the disposal agency. If the recommendation is disapproved, the disposal agency must likewise notify the Secretary.

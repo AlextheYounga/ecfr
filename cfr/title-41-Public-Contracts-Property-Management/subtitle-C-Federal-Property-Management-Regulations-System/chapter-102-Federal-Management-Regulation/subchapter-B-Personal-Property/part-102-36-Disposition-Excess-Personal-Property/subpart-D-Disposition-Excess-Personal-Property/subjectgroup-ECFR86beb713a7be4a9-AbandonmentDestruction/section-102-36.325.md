@@ -1,0 +1,3 @@
+##### § 102-36.325 What must be done before the abandonment/destruction of excess personal property? #####
+
+Except as provided in § 102-36.330, you must provide public notice of intent to abandon or destroy excess personal property, in a format and timeframe specified by your agency regulations (such as publishing a notice in a local newspaper, posting of signs in common use facilities available to the public, or providing bulletins on your website through the internet). You must also include in the notice an offer to sell in accordance with part 102-38 of this chapter.

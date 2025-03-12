@@ -1,0 +1,3 @@
+##### § 102-36.150 For which non-federal activities may we acquire excess personal property? #####
+
+Under the Property Act you may acquire and furnish excess personal property for use by your non-appropriated fund activities, contractors, cooperatives, and project grantees. You may acquire and furnish excess personal property for use by other eligible recipients only when you have specific statutory authority to do so.

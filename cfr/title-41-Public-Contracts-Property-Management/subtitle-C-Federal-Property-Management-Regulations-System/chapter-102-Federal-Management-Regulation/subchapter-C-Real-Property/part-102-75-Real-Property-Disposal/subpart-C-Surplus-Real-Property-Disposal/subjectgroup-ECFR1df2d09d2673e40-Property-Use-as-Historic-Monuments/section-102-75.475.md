@@ -1,0 +1,3 @@
+##### § 102-75.475 What happens after the disposal agency receives the Secretary of the Interior's determination for disposal of the surplus property for a historic monument and compatible revenue-producing activities? #####
+
+The head of the disposal agency or his or her designee may convey to an eligible public agency surplus property determined by the Secretary of the Interior to be suitable and desirable for use as a historic monument for the benefit of the public and for compatible revenue-producing activities subject to the provisions of 40 U.S.C. 550(h).

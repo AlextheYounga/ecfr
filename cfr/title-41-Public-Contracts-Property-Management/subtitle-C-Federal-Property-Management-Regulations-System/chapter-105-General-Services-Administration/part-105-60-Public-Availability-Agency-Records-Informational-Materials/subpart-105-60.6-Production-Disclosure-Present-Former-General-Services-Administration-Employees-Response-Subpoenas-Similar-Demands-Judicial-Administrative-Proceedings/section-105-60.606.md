@@ -1,0 +1,7 @@
+##### § 105-60.606 Procedure where response to demand is required prior to receiving instructions. #####
+
+(a) If a response to a demand is required before the Appropriate Authority's decision is issued, a GSA attorney designated by the Appropriate Authority for the purpose shall appear with the employee or former employee upon whom the demand has been made, and shall furnish the judicial or other authority with a copy of the instructions contained in this subpart. The attorney shall inform the court or other authority that the demand has been or is being referred for the prompt consideration by the Appropriate Authority. The attorney shall respectfully request the judicial or administrative authority to stay the demand pending receipt of the requested instructions.
+
+(b) The designated GSA attorney shall coordinate GSA's response with DOJ's Civil Division or the relevant Office of the United States Attorney and may request that a DOJ or Assistant United States Attorney appear with the employee in addition to or in lieu of a designated GSA attorney.
+
+(c) If an immediate demand for production or disclosure is made in circumstances which preclude the appearance of a GSA or DOJ attorney on the behalf of the employee or the former employee, the employee or former employee shall respectfully make a request to the demanding authority for sufficient time to obtain advice of counsel.

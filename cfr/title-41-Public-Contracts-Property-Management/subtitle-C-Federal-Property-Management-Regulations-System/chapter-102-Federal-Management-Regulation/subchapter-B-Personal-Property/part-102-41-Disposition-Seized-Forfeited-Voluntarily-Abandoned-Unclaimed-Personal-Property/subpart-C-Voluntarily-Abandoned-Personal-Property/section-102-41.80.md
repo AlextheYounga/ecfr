@@ -1,0 +1,3 @@
+##### § 102-41.80 When is personal property voluntarily abandoned? #####
+
+Personal property is voluntarily abandoned when the owner of the property intentionally and voluntarily gives up title to such property and title vests in the Government. The receiving agency ordinarily documents receipt of the property to evidence its voluntary relinquishment. Evidence of the voluntary abandonment may be circumstantial.

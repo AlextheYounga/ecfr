@@ -1,0 +1,3 @@
+##### § 302-11.5 To be reimbursed for expenses incurred in my residence transactions, must I occupy the residence at the time I am notified of my transfer? #####
+
+Yes, to be reimbursed for expenses incurred in your residence transactions, you must occupy the residence at the time you are notified of your transfer, unless your transfer is from a foreign area to an official station within the United States other than the one you left when you transferred out of the United States, as specified in § 302-11.2(b).

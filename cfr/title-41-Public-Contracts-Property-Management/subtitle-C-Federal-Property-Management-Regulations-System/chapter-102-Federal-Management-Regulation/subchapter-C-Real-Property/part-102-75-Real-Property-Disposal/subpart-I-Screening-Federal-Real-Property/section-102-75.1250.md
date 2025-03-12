@@ -1,0 +1,3 @@
+##### § 102-75.1250 What if the agency is not quite sure it wants the property and needs more time to decide? #####
+
+If the written response to the “Notice of Availability” indicates a potential need, then the agency has an additional 30 days (from the expiration date of the “Notice of Availability”) to determine whether or not its has a definite requirement for the property, and then 60 days to submit a transfer request.

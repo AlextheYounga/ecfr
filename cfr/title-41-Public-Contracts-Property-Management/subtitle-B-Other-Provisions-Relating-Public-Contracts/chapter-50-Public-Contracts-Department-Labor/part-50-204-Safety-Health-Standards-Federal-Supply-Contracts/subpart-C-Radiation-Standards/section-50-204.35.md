@@ -1,0 +1,5 @@
+##### § 50-204.35 Application for variations from radiation levels. #####
+
+(a) In accordance with policy expressed in the Federal Radiation Council's memorandum concerning radiation protection guidance for Federal agencies (25 FR 4402), the Director, Bureau of Labor Standards may from time to time grant permission to employers to vary from the limitations contained in §§ 50-204.21 and 50-204.22 when the extent of variation is clearly specified and it is demonstrated to his satisfaction that (1) such variation is necessary to obtain a beneficial use of radiation or atomic energy, (2) such benefit is of sufficient value to warrant the variation, (3) employees will not be exposed to an undue hazard, and (4) appropriate actions will be taken to protect the health and safety of such employees.
+
+(b) Applications for such variations should be filed with the Director, Bureau of Labor Standards, U.S. Department of Labor, Washington, DC 20210.

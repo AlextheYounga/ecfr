@@ -1,0 +1,3 @@
+##### § 102-37.165 Do plans or major amendments require public notice? #####
+
+Yes, proposed plans and major amendments to existing plans require general notice to the public for comment. A State must publish a general notice of the plan or amendment at least 60 calendar days in advance of filing the proposal with GSA and provide interested parties at least 30 calendar days to submit comments before filing the proposal.

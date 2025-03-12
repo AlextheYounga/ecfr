@@ -1,0 +1,3 @@
+##### § 102-38.145 Must we allow for inspection of the personal property to be sold? #####
+
+Yes, you must allow for an electronic or physical inspection of the personal property to be sold. You must allow prospective bidders sufficient time for inspection. If inspection is restricted to electronic inspections only, due to unusual circumstances prohibiting physical inspection, you must notify your General Services Administration Regional Personal Property Office in writing, with the circumstances surrounding this restriction at least 3 days prior to the start of the screening period.

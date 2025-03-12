@@ -1,0 +1,3 @@
+##### § 102-75.230 Who is responsible for property protection and maintenance costs while the request for exception is being reviewed? #####
+
+The agency requesting the property will assume responsibility for protection and maintenance costs not more than 40 days from the date of the Administrator's letter to OMB requesting concurrence for an exception to the 100 percent reimbursement requirement. If the request is denied, the requesting agency may pay the fair market value for the property or withdraw its request. If the request is withdrawn, responsibility for protection and maintenance cost will return to the landholding agency at that time.

@@ -1,0 +1,3 @@
+##### § 50-205.4 Plan of cooperation. #####
+
+Each agreement under this part shall incorporate a plan of cooperation between the Department of Labor and the State agency. The plan shall include the operative details of the cooperation contemplated in the making of safety and health inspections. The plan shall include a statement of the location of the State offices designated to make inspections and those of the Department of Labor designated to cooperate with such State offices.

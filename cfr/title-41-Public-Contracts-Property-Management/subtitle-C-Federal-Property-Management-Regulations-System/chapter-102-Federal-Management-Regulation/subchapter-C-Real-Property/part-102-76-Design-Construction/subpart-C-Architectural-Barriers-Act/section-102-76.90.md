@@ -1,0 +1,3 @@
+##### § 102-76.90 Who has the authority to waive or modify the standards in § 102-76.65(a)? #####
+
+The Administrator of General Services has the authority to waive or modify the standards in § 102-76.65(a) on a case-by-case basis if the agency head or GSA department head submits a request for waiver or modification and the Administrator determines that the waiver or modification is clearly necessary.

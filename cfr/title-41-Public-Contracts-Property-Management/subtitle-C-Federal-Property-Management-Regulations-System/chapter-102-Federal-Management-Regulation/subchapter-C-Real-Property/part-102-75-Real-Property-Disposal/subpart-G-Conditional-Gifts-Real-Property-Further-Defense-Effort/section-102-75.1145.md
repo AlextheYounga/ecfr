@@ -1,0 +1,3 @@
+##### § 102-75.1145 What action must the Federal agency receiving an offer of a conditional gift take? #####
+
+Prior to notifying the appropriate GSA regional property disposal office, the receiving Federal agency must acknowledge receipt of the offer in writing and advise the donor that the offer will be referred to the appropriate GSA regional property disposal office. The receiving agency must not indicate acceptance or rejection of the gift on behalf of the United States at this time. The receiving agency must provide a copy of the acknowledgment with the notification and recommendation to the GSA regional property disposal office.

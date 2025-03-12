@@ -1,0 +1,3 @@
+##### § 102-74.30 What standard in providing occupancy services must Executive agencies follow? #####
+
+Executive agencies must provide occupancy services that substantially conform to nationally recognized standards. As needed, Executive agencies may adopt other standards for buildings and services in Federally controlled facilities to conform to statutory requirements and to implement cost-reduction efforts.

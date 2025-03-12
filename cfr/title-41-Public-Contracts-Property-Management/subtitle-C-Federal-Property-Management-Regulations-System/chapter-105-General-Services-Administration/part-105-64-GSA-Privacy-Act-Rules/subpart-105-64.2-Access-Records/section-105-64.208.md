@@ -1,0 +1,3 @@
+##### § 105-64.208 What special conditions apply to release of medical records? #####
+
+Medical records containing information that may have an adverse effect upon a person will be released only to a physician designated in writing by you, or by your guardian or conservator. Medical records in an Official Personnel Folder (OPF) fall under the jurisdiction of the Office of Personnel Management (OPM) and will be referred to OPM for a response.

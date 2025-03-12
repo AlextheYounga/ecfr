@@ -1,0 +1,3 @@
+##### § 105-8.111 Notice. #####
+
+The agency shall make available to employees, applicants, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the programs or activities conducted by the agency, and make such information available to them in such manner as the Administrator finds necessary to apprise such persons of the protections against discrimination assured them by section 504 and this part.

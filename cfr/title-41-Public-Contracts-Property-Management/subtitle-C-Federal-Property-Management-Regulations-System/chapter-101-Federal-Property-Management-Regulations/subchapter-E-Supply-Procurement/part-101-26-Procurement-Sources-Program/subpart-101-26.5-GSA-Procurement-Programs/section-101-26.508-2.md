@@ -1,0 +1,13 @@
+##### § 101-26.508-2 Requisitioning data processing tape not available from Federal Supply Schedule contracts. #####
+
+(a) Requisitions for types of EDP tape and instrumentation tape (wide and intermediate band) covered by Federal Supply Schedule contracts which exceed the maximum order limitations of the schedule shall be submitted to the GSA regional office supporting the geographic area in which the requisitioner is located.
+
+(b) Requisitions for all types of EDP tape and instrumentation tape (wide and intermediate band) not covered by Federal Supply Schedule contracts shall be submitted to GSA for purchase action when the dollar value of the requisitions exceeds, or is estimated to exceed, $2,500 for EDP tape and $5,000 for instrumentation tape. However, regardless of the amount involved (including requisitions estimated to be less than the dollar limitations referenced above), purchase action shall not be taken by GSA or an agency unless a waiver of the requirement for using items of tape available from Federal Supply Schedule contracts has been furnished in accordance with § 101-26.100-2.
+
+Requests for waivers shall be submitted to the Commissioner, Federal Supply Service (F), General Services Administration, Washington, DC 20406. The requests shall fully describe the type of tape required and state the reasons Federal Supply Schedule items will not adequately serve the agency's needs. GSA will notify the requesting agency in writing of the action taken on the requests. To reduce leadtime, requisitions may be submitted in FEDSTRIP format with the requests for waivers. Requisitions for which a waiver has first been obtained shall be submitted with a copy of the waiver to the GSA regional office supporting the geographic area in which the requisitioner is located. GSA will either arrange for procurement of the items or authorize the requesting agency to procure them.
+
+(c) When establishing required delivery dates in purchase requests submitted in accordance with this § 101-26.508-2, agencies should normally allow 105 days leadtime to permit orderly procurement by GSA. In addition to this 105 days leadtime, inspection and testing of the tape requires approximately 15 days.
+
+(d) When an agency submitting a purchase request in accordance with this § 101-26.508-2 has a need for scheduled deliveries, minimum or maximum order quantities, or other special arrangements, GSA will develop specific provisions to accommodate the needs. The provisions will be based on information furnished by the agency concerned and will be included in solicitations for offers and resultant contracts.
+
+[37 FR 20941, Oct. 5, 1972, as amended at 41 FR 34633, Aug. 16, 1976; 43 FR 32765, July 28, 1978]

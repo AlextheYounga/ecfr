@@ -1,0 +1,3 @@
+##### § 101-29.301-3 Availability of Federal product descriptions. #####
+
+The Assistant Administrator for Federal Supply and Services will promulgate and maintain on a current basis the “Index of Federal Specifications, Standards and Commercial Item Descriptions.” The Index lists Federal product descriptions which have been printed and distributed, including those which are mandatory for use, and identifies the sources from which these documents may be obtained. Supplements to the Index indicate the dates on which the use of new Federal product descriptions become mandatory. The Department of Defense also lists Federal product descriptions in the “Department of Defense Index of Specifications and Standards.”

@@ -1,0 +1,3 @@
+##### § 60-30.1 Applicability of rules. #####
+
+This part provides the rules of practice for all administrative proceedings, instituted by the OFCCP including but not limited to proceedings instituted against construction contractors or subcontractors, which relate to the enforcement of equal opportunity under Executive Order 11246, as amended. In the absence of a specific provision, procedures shall be in accordance with the Federal Rules of Civil Procedure.

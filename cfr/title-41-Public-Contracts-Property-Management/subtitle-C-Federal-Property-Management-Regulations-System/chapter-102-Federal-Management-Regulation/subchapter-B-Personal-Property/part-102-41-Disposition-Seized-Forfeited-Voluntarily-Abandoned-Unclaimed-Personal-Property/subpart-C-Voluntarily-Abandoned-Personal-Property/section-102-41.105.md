@@ -1,0 +1,3 @@
+##### § 102-41.105 What happens to voluntarily abandoned personal property when reported to GSA? #####
+
+Voluntarily abandoned personal property reported to GSA will be made available for transfer, donation, sale, or abandonment/destruction in accordance with parts 102-36, 102-37, 102-38, and §§ 102-36.305 through 102-36.330 of this subchapter B, respectively. You must follow the additional provisions of §§ 102-41.190 through 102-41.235 and part 101-42 of Chapter 101, Federal Property Management Regulations in this title when disposing of firearms and other property requiring special handling.

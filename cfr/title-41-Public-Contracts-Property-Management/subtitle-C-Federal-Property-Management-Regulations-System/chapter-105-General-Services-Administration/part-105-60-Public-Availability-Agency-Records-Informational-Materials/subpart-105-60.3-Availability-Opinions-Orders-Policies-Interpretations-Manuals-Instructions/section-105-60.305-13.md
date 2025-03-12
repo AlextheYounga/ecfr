@@ -1,0 +1,13 @@
+##### § 105-60.305-13 Waiver of fee. #####
+
+(a) Any request for a waiver or the reduction of a fee should be included in the initial letter requesting access to GSA records under § 105-60.402-1. The waiver request should explain how disclosure of the information would contribute significantly to public's understanding of the operations or activities of the Government and would not be primarily in the commercial interest of the requester. In responding to a requester, GSA will consider the following factors:
+
+(1) Whether the subject of the requested records concerns “the operations or activities of the Government.” The subject matter of the requested records must specifically concern identifiable operations or activities of the Federal Government. The connection between the records and the operations or activities must be direct and clear, not remote or attenuated.
+
+(2) Whether the disclosure is “likely to contribute” to an understanding of Government operations or activities. In this connection, GSA will consider whether the requested information is already in the public domain. If it is, then disclosure of the information would not be likely to contribute to an understanding of Government operations or activities, as nothing new would be added to the public record.
+
+(3) Whether disclosure of the requested information will contribute to “public's understanding.” The focus here must be on the contribution to public's understanding rather than personal benefit to be derived by the requester. For purposes of this analysis, the identity and qualifications of the requester should be considered to determine whether the requester is in a position to contribute to public's understanding through the requested disclosure.
+
+(4) Whether the requester has a commercial interest that would be furthered by the requested disclosure; and if so: whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public's interest in disclosure, that disclosure is “primarily in the commercial interest of the requester.”
+
+(b) GSA will ask the requester to furnish additional information if the initial request is insufficient to evaluate the merits of the request. GSA will not start processing a request until the fee waiver issue has been resolved unless the requester has provided written assurance of payment in full if the fee waiver is denied by the agency.

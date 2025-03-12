@@ -1,0 +1,9 @@
+##### § 51-2.7 Fair market price. #####
+
+(a) The Committee is responsible for determining fair market prices, and changes thereto, for commodities and services on the Procurement List. The Committee establishes an initial fair market price at the time a commodity or service is added to the Procurement List. This initial price is based on Committee procedures, which permit negotiations between the contracting activity and the nonprofit agency which will produce or provide the commodity or service to the Government, assisted by the appropriate central nonprofit agency. If agreed to by the negotiating parties, the initial price may be developed using other methodologies specified in Committee pricing procedures.
+
+(b) Prices are revised in accordance with changing market conditions under Committee procedures, which include negotiations between contracting activities and producing nonprofit agencies, assisted by central nonprofit agencies, or the use of economic indices, changes in nonprofit agency costs, or other methodologies permitted under these procedures.
+
+(c) Recommendations for initial fair market prices, or changes thereto, shall be submitted jointly by the contracting activities and nonprofit agencies concerned to the appropriate central nonprofit agency. After review and analysis, the central nonprofit agency shall submit the recommended prices and methods by which prices shall be changed to the Committee, along with the information required by Committee pricing procedures to support each recommendation. The Committee will review the recommendations, revise the recommended prices where appropriate, and establish a fair market price, or change thereto, for each commodity or service which is the subject of a recommendation.
+
+[64 FR 55842, Oct. 15, 1999]

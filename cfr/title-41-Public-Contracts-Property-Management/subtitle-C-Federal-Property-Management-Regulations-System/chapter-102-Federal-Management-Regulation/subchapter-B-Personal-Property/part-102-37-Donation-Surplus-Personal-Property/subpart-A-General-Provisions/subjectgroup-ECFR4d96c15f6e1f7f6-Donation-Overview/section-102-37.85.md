@@ -1,0 +1,3 @@
+##### § 102-37.85 Can surplus property being offered for sale be withdrawn and approved for donation? #####
+
+Yes, surplus property being offered for sale may be withdrawn for donation if approved by GSA. GSA will not approve requests for the withdrawal of property that has been advertised or listed on a sales offering if that withdrawal would be harmful to the overall outcome of the sale. GSA will only grant such requests prior to sales award, since an award is binding.

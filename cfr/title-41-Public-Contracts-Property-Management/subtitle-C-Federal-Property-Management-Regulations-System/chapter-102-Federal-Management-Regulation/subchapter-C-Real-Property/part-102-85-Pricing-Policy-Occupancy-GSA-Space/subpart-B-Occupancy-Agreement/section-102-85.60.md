@@ -1,0 +1,3 @@
+##### § 102-85.60 Who can execute an OA? #####
+
+Authorized GSA and customer agency officials who can commit or obligate the funds of their respective agencies can execute an OA. Higher level signatories may be appropriate from both agencies for space assignments in owned or leased space, that are unusual in size, location, duration, public interest, or other factors. Each agency decides its appropriate signatory level.

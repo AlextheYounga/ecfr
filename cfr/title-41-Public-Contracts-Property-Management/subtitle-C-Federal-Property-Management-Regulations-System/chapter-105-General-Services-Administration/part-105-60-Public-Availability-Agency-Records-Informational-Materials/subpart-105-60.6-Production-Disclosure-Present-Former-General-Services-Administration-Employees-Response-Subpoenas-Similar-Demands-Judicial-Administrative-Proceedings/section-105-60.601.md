@@ -1,0 +1,5 @@
+##### § 105-60.601 Purpose and scope of subpart. #####
+
+(a) By virtue of the authority vested in the Administrator of General Services by 5 U.S.C. 301 and 40 U.S.C. 486(c) this subpart establishes instructions and procedures to be followed by current and former employees of the General Services Administration in response to subpoenas or similar demands issued in judicial or administrative proceedings for production or disclosure of material or information obtained as part of the performance of a person's official duties or because of the person's official status. Nothing in these instructions applies to responses to subpoenas or demands issued by the Congress or in Federal grand jury proceedings.
+
+(b) This subpart provides instructions regarding the internal operations of GSA and the conduct of its employees, and is not intended and does not, and may not, be relied upon to create any right or benefit, substantive or procedural, enforceable at law by a party against GSA.

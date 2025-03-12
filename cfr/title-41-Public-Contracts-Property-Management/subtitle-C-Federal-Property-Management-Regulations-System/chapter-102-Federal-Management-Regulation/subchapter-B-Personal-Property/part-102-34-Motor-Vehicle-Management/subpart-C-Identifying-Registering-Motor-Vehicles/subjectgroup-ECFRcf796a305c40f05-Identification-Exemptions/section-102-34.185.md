@@ -1,0 +1,3 @@
+##### § 102-34.185 What license plates do we use on motor vehicles that are exempt from motor vehicle identification requirements? #####
+
+For motor vehicles that are exempt from motor vehicle identification requirements, display the regular license plates of the State, Commonwealth, territory or possession of the United States, or the District of Columbia, where the motor vehicle is principally operated (see § 102-34.120).

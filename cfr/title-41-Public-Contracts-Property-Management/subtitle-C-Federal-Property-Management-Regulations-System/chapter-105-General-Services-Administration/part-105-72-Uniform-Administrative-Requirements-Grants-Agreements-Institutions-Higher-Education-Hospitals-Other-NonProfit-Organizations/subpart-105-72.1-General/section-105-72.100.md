@@ -1,0 +1,3 @@
+##### § 105-72.100 Purpose. #####
+
+This part establishes uniform administrative requirements for Federal grants and agreements awarded to institutions of higher education, hospitals, and other non-profit organizations. Federal awarding agencies shall not impose additional or inconsistent requirements, except as provided in §§ 105-72.103, and 105-72.204 or unless specifically required by Federal statute or executive order. Non-profit organizations that implement Federal programs for the States are also subject to State requirements.

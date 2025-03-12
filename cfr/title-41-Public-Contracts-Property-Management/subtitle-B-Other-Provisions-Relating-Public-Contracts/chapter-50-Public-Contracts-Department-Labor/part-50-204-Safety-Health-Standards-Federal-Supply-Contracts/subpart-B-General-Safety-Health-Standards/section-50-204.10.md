@@ -1,0 +1,31 @@
+##### § 50-204.10 Occupational noise exposure. #####
+
+(a) Protection against the effects of noise exposure shall be provided when the sound levels exceed those shown in Table I of this section when measured on the A scale of a standard sound level meter at slow response. When noise levels are determined by octave band analysis, the equivalent A-weighted sound level may be determined as follows:
+
+![](/graphics/ec21oc91.015.gif)Equivalent sound level contours. Octave band sound pressure levels may be converted to the equivalent A-weighted sound level by plotting them on this graph and noting the A-weighted sound level corresponding to the point of highest penetration into the sound level contours. This equivalent A-weighted sound level, which may differ from the actual A-weighted sound level of the noise, is used to determine exposure limits from Table I.
+
+(b) When employees are subject to sound exceeding those listed in Table I of this section, feasible administrative or engineering controls shall be utilized. If such controls fail to reduce sound levels within the levels of the table, personal protective equipment shall be provided and used to reduce sound levels within the levels of the table.
+
+(c) If the variations in noise level involve maxima at intervals of 1 second or less, it is to be considered continuous.
+
+(d) In all cases where the sound levels exceed the values shown herein, a continuing, effective hearing conservation program shall be administered.
+
+Table I
+
+permissible noise exposures<sup>1</sup>
+
+|Duration per day, hours|Sound level dBA slow response|
+|-----------------------|-----------------------------|
+|           8           |             90              |
+|           6           |             92              |
+|           4           |             95              |
+|           3           |             97              |
+|           2           |             100             |
+|       1<br/>1/2       |             102             |
+|           1           |             105             |
+|          1/2          |             110             |
+|      1/4 or less      |             115             |
+
+<sup>1</sup> When the daily noise exposure is composed of two or more periods of noise exposure of different levels, their combined effect should be considered, rather than the individual effect of each. If the sum of the following fractions: C1/T1 + C2/T2 \* \* \* Cn/Tn exceeds unity, then, the mixed exposure should be considered to exceed the limit value. Cn indicates the total time of exposure at a specified noise level, and Tn indicates the total time of exposure permitted at that level.
+
+Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressure level.[34 FR 7946, May 20, 1969, as amended at 35 FR 1015, Jan. 24, 1970]

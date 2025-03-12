@@ -1,0 +1,5 @@
+##### § 105-53.138 Office of General Counsel. #####
+
+*Functions.* The Office of General Counsel (OGC), headed by the General Counsel, is responsible for providing all legal services to the services, programs offices, staff offices, and regions of GSA with the exception of certain legal activities of the Office of Inspector General and legal activities of the Civilian Board of Contract Appeals; drafts legislation proposed by GSA; furnishes legal advice required in connection with reports on legislation proposed by other agencies; provides liaison on legal matters with other Federal agencies; coordinates with the Department of Justice in litigation matters; and reviews and gives advice on matters of contract policy and contract operations.
+
+[48 FR 25200, June 6, 1983, as amended at 78 FR 29247, May 20, 2013]

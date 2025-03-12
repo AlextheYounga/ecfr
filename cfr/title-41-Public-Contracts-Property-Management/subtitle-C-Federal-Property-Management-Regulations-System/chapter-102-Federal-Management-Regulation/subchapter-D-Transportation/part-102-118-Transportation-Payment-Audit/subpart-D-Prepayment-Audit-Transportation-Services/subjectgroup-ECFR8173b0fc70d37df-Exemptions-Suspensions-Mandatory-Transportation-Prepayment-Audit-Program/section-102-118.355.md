@@ -1,0 +1,3 @@
+##### § 102-118.355 How does my agency apply for an exemption from a transportation prepayment audit requirement? #####
+
+Your agency must submit a request for an exemption from the requirement to perform transportation prepayment audits by email to *Audit.policy@gsa.gov,* Subject Line: Prepayment Audit Exemption Request. The agency exemption request must explain in detail why the request is submitted based on cost effectiveness, public interest, or other factors the Administrator considers appropriate, such as transportation modes, dollar thresholds, adversely affecting the agency's mission, or is not feasible (31 U.S.C. 3726(a)(2)).

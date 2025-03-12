@@ -1,0 +1,3 @@
+##### § 302-6.10 May my immediate family and I occupy temporary quarters at different locations? #####
+
+Yes. For example, if you must vacate your home at the old official station and report to the new official station and your family remains behind until the end of the school year, you may need to occupy temporary quarters at the new official station while your family occupies temporary quarters at the old official station.

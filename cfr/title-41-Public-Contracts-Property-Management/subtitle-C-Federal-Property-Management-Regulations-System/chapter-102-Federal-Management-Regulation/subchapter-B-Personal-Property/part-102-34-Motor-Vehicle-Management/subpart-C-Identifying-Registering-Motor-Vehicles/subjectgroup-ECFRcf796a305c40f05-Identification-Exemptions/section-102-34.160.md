@@ -1,0 +1,3 @@
+##### § 102-34.160 May we have a limited exemption from displaying U.S. Government license plates and other motor vehicle identification? #####
+
+Yes. The head of your agency or designee may authorize a limited exemption to the display of U.S. Government license plates and motor vehicle identification upon written certification (see § 102-34.165). For motor vehicles leased from the GSA Fleet, send an information copy of this certification to the: General Services Administration, ATTN: GSA Fleet (QMDB), 2200 Crystal Drive, Arlington, VA 22202.

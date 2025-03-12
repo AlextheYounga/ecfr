@@ -1,0 +1,3 @@
+##### § 303-70.402 Must we pay transportation costs to return the deceased employee's POV from the TDY location? #####
+
+Yes. You must pay costs associated with returning the POV from the TDY location to the employee's permanent official station, but only if the agency had authorized the use of the employee's POV at the TDY location as more advantageous to the Government than other means of transportation.

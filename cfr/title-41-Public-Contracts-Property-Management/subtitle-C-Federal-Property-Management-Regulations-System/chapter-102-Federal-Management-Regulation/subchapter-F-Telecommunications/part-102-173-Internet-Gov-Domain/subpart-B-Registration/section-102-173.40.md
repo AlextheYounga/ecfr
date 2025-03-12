@@ -1,0 +1,3 @@
+##### § 102-173.40 Who is my Chief Information Officer (CIO)? #####
+
+Your Chief Information Officer (CIO) may vary according to the branch of government. For the Federal Government, the General Services Administration (GSA) recognizes the cabinet level CIOs listed at *http://www.cio.gov.* For States, GSA will accept authorization from the Office of the Governor or highest-ranking Information Technology (IT) official. Other officials include the Mayor (for city or town), County Commissioner (for counties) or highest ranking IT official. Native Sovereign Nations (NSN) must receive authorization from the Bureau of Indian Affairs. CIOs may delegate this authority by notification to GSA.

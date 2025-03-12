@@ -1,0 +1,3 @@
+##### § 102-118.420 Is my agency allowed to perform a postpayment audit on our transportation documents? #####
+
+No. Your agency may not perform a transportation postpayment audit unless granted an exemption and specifically directed to do so by the Administrator in lieu of a prepayment audit. Whether such an exemption is granted or not, your agency must forward all transportation documents (TD) to GSA for postpayment audit (see § 102-118.35 for definition TD).

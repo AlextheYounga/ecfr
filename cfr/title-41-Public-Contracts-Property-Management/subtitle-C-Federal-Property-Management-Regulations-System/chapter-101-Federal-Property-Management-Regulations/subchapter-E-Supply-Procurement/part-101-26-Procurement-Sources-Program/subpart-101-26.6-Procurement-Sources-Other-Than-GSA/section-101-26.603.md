@@ -1,0 +1,5 @@
+##### § 101-26.603 Electronic items available from the Defense Logistics Agency. #####
+
+Executive agencies shall satisfy their requirements for electronic items listed in the Federal Supply Catalog for Civil agencies (FSC group 59, except classes 5940, 5970, 5975, 5977, and 5995) from the Defense Electronic Supply Center (DESC), DLA. Requisitions shall be prepared in accordance with the FEDSTRIP Operating Guide and submitted to DESC, 1507 Wilmington Pike, Dayton, Ohio 45444, using routing identifier code S9E. Items listed in classes 5940, 5970, 5975, 5977, and 5995, unless managed as exceptions by GSA, shall be obtained from the Defense General Supply Center (DGSC), Richmond, Va. 23297. Electronic items may be obtained from local purchase sources when such action is authorized under the provisions of § 101-26.602-2(b). DESC may return requisitions for local purchase under the same conditions governing the return of requisitions by DGSC set forth in § 101-26.602-2(c).
+
+[42 FR 58749, Nov. 11, 1977]

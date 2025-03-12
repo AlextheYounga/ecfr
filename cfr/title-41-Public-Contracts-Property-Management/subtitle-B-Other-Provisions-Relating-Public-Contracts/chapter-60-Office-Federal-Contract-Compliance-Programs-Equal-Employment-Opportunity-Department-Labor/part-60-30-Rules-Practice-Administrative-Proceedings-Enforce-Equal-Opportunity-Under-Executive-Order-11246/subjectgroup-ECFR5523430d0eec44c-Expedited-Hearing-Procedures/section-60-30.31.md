@@ -1,0 +1,3 @@
+##### § 60-30.31 Expedited hearings—when appropriate. #####
+
+Expedited Hearings may be used, *inter alia,* when a contractor or subcontractor has violated a conciliation agreement; has not adopted and implemented an acceptable affirmative action program; has refused to give access to or to supply records or other information as required by the equal opportunity clause; or has refused to allow an on-site compliance review to be conducted.

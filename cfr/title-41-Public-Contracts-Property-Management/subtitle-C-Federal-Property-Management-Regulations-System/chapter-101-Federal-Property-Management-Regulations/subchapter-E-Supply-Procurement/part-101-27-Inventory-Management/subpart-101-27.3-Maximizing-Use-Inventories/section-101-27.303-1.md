@@ -1,0 +1,3 @@
+##### § 101-27.303-1 Cancellation or transfer. #####
+
+When the long supply of an item, including quantities due in from procurement, is greater than 10 percent of the total stock of that item, the inventory manager, or other appropriate official, shall cancel or curtail any outstanding requisitions or procurements on which award has not been made for such items, and may also cancel contracts for such items (if penalty charges would not be incurred) or transfer the long supply, if economical, to other offices within the agency in accordance with agency utilization procedures. In such cases, acquisition of long supply items shall not be made from other sources such as requirements contracts.

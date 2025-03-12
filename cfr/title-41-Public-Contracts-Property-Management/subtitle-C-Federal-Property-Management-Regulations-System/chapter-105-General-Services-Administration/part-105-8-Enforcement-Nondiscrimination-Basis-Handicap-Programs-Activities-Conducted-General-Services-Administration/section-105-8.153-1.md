@@ -1,0 +1,3 @@
+##### § 105-8.153-1 General. #####
+
+GSA, upon request from an occupant agency engaged in the development of a transition plan under section 504, shall participate with the occupant agency in the development and implementation of the transition plan and shall provide information and guidance to the occupant agency. Upon request, GSA shall conduct space inspections to assist the agency in determining whether a current assignment of space results in one or more of the occupant agency's programs or activities being inaccessible. GSA shall provide the occupant agency with a written summary of significant findings and recommendations, together with data concerning programmed repairs and alterations planned by GSA and alterations that can be effected by the agency.

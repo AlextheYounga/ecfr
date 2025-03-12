@@ -1,0 +1,3 @@
+##### § 102-36.280 May we withdraw from the disposal process excess personal property that we have reported to GSA? #####
+
+Yes, you may withdraw excess personal property from the disposal process, but only with the approval of GSA and to satisfy an internal agency requirement. Property that has been approved for transfer or donation or offered for sale by GSA may be returned to your control with proper justification.

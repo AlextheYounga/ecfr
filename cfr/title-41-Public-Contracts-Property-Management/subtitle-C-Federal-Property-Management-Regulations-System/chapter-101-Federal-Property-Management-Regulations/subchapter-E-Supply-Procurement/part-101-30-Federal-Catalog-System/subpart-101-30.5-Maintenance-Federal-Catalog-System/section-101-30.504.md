@@ -1,0 +1,5 @@
+##### § 101-30.504 Cataloging data from Defense Logistics Services Center (DLSC). #####
+
+Upon receipt of cataloging data from civil agencies, DLSC will process the data and provide for their inclusion in the Federal Catalog System. Notification to the submitting and originating agencies of the action taken by DLSC will be as required in the Federal Catalog System Policy Manual (DOD 4130.2-M) and will be accomplished by means of electric accounting machine cards, magnetic tape, or wire transmission, according to the capabilities of those agencies. DLSC will send this information to the agencies that are designated by GSA as direct data receivers. Otherwise, DLSC will transmit the information to the submitting agency to be forwarded to the originating agency, when required.
+
+[42 FR 36256, July 14, 1977]

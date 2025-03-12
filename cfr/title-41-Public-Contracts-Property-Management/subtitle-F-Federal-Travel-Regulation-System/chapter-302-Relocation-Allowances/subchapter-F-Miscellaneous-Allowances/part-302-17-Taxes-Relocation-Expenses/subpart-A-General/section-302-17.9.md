@@ -1,0 +1,3 @@
+##### § 302-17.9 Who is responsible for knowing which relocation expenses are taxable and which expenses are nontaxable? #####
+
+Both you and your agency must know which reimbursements and direct payments to vendors are taxable and which are nontaxable in your specific circumstances. When you submit a voucher for reimbursement, your agency must determine whether the reimbursement is taxable income at the Federal, state, and/or local level. Then, when you file your income tax returns, you must report the taxable allowances, reimbursements, and direct payments to vendors as income. Your agency is ultimately responsible for calculating and reporting withholding accurately and you are ultimately responsible for filing your taxes correctly.

@@ -1,0 +1,3 @@
+##### § 102-74.300 How must space available for employee parking be allocated among occupant agencies? #####
+
+The Federal agency buildings manager must allocate space available for employee parking among occupant agencies on an equitable basis, such as by allocating such parking in proportion to each agency's share of building space, office space or total employee population, as appropriate. In certain cases, Federal agencies may allow a third party, such as a board composed of representatives of agencies sharing space, to determine proper parking allocations among the occupant agencies.

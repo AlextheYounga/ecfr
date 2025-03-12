@@ -1,0 +1,3 @@
+##### § 102-74.520 How much time does the Regional Officer have to affirm or reverse the Federal agency buildings manager's decision after receiving the notification of appeal from the affected person or organization? #####
+
+The Regional Officer must affirm or reverse the Federal agency buildings manager's decision, based on the information submitted, within 10 calendar days of the date on which the Regional Officer received notification of the appeal. If the decision is not rendered within 10 days, the application will be considered to be approved or the permit validly issued. The Regional Officer will promptly notify the applicant or permittee and the buildings manager of the decision and the reasons therefor.

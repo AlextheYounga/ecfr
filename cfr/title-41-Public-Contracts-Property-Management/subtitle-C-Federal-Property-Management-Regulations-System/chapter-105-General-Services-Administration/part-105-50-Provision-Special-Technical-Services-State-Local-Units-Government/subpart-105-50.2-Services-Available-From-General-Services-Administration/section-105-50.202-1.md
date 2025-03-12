@@ -1,0 +1,3 @@
+##### § 105-50.202-1 Copies of statistical or other studies. #####
+
+This material includes a copy of any existing statistical or other studies and compilations, results of technical tests and evaluations, technical information, surveys, reports, and documents, and any such materials which may be developed or prepared in the future to meet the needs of the Federal Government or to carry out normal program responsibilities of GSA.

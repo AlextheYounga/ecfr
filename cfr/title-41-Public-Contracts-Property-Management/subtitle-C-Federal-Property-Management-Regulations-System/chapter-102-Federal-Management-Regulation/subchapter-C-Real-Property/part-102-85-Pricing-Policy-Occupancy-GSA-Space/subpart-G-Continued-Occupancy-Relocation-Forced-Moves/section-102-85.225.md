@@ -1,0 +1,5 @@
+##### § 102-85.225 What are the funding responsibilities for relocations resulting from emergencies? #####
+
+(a) In emergencies, swift remedies, including the possible relocation of a customer agency to alternate space, are required. The remedies may include requests for funding authorizations from OMB and Congress. GSA may serve as the central coordinator of such remedies.
+
+(b) Funding responsibility will vary by situation. If a customer agency is only temporarily displaced from its space, GSA typically covers the cost of temporary set-up in a provisional location. If the agency is obliged to relocate permanently, an OA will be prepared which will address all terms of the occupancy. In such cases, new tenant improvements will be constructed which can be amortized over the life of a new occupancy term, and a new Rent rate will be developed.

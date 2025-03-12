@@ -1,0 +1,3 @@
+##### § 102-77.10 What basic Art-in-Architecture policy governs Federal agencies? #####
+
+Federal agencies must incorporate fine arts as an integral part of the total building concept when designing new Federal buildings, and when making substantial repairs and alterations to existing Federal buildings, as appropriate. The selected fine arts, including painting, sculpture, and artistic work in other media, must reflect the national cultural heritage and emphasize the work of living American artists.

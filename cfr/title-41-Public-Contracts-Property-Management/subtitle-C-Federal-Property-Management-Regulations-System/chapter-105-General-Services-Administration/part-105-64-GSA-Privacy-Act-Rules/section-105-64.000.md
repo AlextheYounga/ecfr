@@ -1,0 +1,3 @@
+##### § 105-64.000 What is the purpose of this part? #####
+
+This part implements the General Services Administration (GSA) rules under the Privacy Act of 1974, 5 U.S.C. 552a, as amended. The rules cover the GSA systems of records from which information is retrieved by an individual's name or personal identifier. These rules set forth GSA's policies and procedures for accessing, reviewing, amending, and disclosing records covered by the Privacy Act. GSA will comply with all existing and future privacy laws.

@@ -1,0 +1,3 @@
+##### § 101-29.207 Qualified products list (QPL). #####
+
+A *qualified products list* is a list of products that have met the qualification requirements stated in the applicable specification, including appropriate product identification and test or qualification reference number, with the name and plant address of the manufacturer and distributor, as applicable. Documents that contain QPL requirements are listed in the GSA “Index of Federal Specifications, Standards and Commercial Item Descriptions.”

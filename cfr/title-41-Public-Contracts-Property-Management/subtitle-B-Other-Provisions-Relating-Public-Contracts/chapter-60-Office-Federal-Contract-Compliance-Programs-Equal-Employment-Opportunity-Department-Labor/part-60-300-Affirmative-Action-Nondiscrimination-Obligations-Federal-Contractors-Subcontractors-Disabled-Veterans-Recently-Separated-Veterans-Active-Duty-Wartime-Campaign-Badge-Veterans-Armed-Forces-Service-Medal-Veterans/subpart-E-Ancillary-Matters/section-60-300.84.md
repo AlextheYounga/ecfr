@@ -1,0 +1,3 @@
+##### § 60-300.84 Responsibilities of appropriate employment service delivery system. #####
+
+By statute, appropriate employment service delivery systems are required to refer qualified protected veterans to fill employment openings listed by contractors with such appropriate employment delivery systems pursuant to the mandatory job listing requirements of the equal opportunity clause and are required to give priority to protected veterans in making such referrals. The employment service delivery systems shall provide OFCCP, upon request, information pertinent to whether the contractor is in compliance with the mandatory job listing requirements of the equal opportunity clause.

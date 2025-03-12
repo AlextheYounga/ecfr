@@ -1,0 +1,3 @@
+##### § 102-85.100 How does a customer agency pay for tenant improvements? #####
+
+To pay for the installation of tenant improvements, the customer agency may spend an amount not to exceed the tenant allowance. The amount spent by the customer agency for TIs is amortized over a period of time specified in the OA, not to exceed the useful life of the improvements. This amortization payment is in addition to the shell rent and services.

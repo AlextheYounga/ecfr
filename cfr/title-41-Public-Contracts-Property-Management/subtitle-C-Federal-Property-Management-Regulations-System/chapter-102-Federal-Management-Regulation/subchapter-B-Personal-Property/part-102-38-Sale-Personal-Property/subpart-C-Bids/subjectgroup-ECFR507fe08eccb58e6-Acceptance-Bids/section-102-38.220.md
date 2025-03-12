@@ -1,0 +1,3 @@
+##### § 102-38.220 What must we do when the highest bids received have the same bid amount? #####
+
+When the highest bids received have the same bid amount, you must consider other factors of the sale (e.g., timely removal of the property, terms of payment, etc.) that would make one offer more advantageous to the Government. However, if you are unable to make a determination based on available information, and the Government has an acceptable offer, you may re-offer the property for sale, or you may utilize random tiebreakers to avoid the expense of reselling the property.

@@ -1,0 +1,3 @@
+##### § 300-90.7 What is the duration of test programs? #####
+
+The duration of a test program is up to four years from the date of authorization unless terminated prior to that time by the Administrator of General Services. The agency conducting a test program may also terminate the test program at any time by providing written notice of the termination to the Administrator of General Services. The Administrator of General Services may grant test program extensions of up to an additional 24 months, but not beyond December 8, 2017, the expiration of the test authority (see § 300-90.8).

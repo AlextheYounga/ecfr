@@ -1,0 +1,3 @@
+##### § 301-70.908 Must we make information available to the public about travel by senior Federal officials and non-Federal travelers on Government aircraft? #####
+
+Yes, an agency that operates aircraft must make records about travelers on those aircraft available to the public in response to written requests under the Freedom of Information Act (5 U.S.C. 552), except for portions exempt from disclosure under that Act (such as classified information).

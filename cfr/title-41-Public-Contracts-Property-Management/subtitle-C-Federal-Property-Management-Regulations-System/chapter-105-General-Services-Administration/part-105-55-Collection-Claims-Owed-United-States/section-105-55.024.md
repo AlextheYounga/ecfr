@@ -1,0 +1,3 @@
+##### § 105-55.024 Consideration of tax consequences to the Government. #####
+
+In negotiating a compromise, the General Services Administration (GSA) may consider the tax consequences to the Government. In particular, GSA may consider requiring a waiver of tax-loss-carry-forward and tax-loss-carry-back rights of the debtor. For information on discharge of indebtedness reporting requirements see § 105-55.030.

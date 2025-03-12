@@ -1,0 +1,3 @@
+##### § 102-38.365 Is a holding agency required to report property in “scrap” condition to its selected SC? #####
+
+No. Property which has no value except for its basic material content (scrap material) may be disposed of by the holding agency by sale or as otherwise provided in § 102-38.70. However, the holding agency should consult the SC(s) selected by the holding agency as to the feasibility of selling the scrap material. Agencies selling scrap property under authority of this subpart are still required to report sales metrics in accordance with eFAS ESC-approved format and content.

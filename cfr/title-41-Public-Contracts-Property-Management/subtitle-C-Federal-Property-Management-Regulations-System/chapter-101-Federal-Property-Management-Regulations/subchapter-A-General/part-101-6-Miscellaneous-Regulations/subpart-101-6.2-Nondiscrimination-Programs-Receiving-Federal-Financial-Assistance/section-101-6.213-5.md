@@ -1,0 +1,3 @@
+##### § 101-6.213-5 Approval by Administrator. #####
+
+Any final decision of a responsible GSA official (other than the Administrator) which provides for the suspension or termination of, or the refusal to grant or continue Federal financial assistance, or the imposition of any other sanction available under this subpart 101-6.2 or the Act, shall promptly be transmitted to the Administrator, who may approve such decision, may vacate it, or remit or mitigate any sanction imposed.

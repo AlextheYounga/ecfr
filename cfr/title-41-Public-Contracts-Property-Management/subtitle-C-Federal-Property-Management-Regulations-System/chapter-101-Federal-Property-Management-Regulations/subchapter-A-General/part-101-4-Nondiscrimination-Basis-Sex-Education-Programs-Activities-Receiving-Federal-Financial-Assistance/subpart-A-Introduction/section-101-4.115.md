@@ -1,0 +1,13 @@
+##### § 101-4.115 Assurance required. #####
+
+(a) *General.* Either at the application stage or the award stage, Federal agencies must ensure that applications for Federal financial assistance or awards of Federal financial assistance contain, be accompanied by, or be covered by a specifically identified assurance from the applicant or recipient, satisfactory to the designated agency official, that each education program or activity operated by the applicant or recipient and to which these Title IX regulations apply will be operated in compliance with these Title IX regulations. An assurance of compliance with these Title IX regulations shall not be satisfactory to the designated agency official if the applicant or recipient to whom such assurance applies fails to commit itself to take whatever remedial action is necessary in accordance with § 101-4.110(a) to eliminate existing discrimination on the basis of sex or to eliminate the effects of past discrimination whether occurring prior to or subsequent to the submission to the designated agency official of such assurance.
+
+(b) *Duration of obligation.* (1) In the case of Federal financial assistance extended to provide real property or structures thereon, such assurance shall obligate the recipient or, in the case of a subsequent transfer, the transferee, for the period during which the real property or structures are used to provide an education program or activity.
+
+(2) In the case of Federal financial assistance extended to provide personal property, such assurance shall obligate the recipient for the period during which it retains ownership or possession of the property.
+
+(3) In all other cases such assurance shall obligate the recipient for the period during which Federal financial assistance is extended.
+
+(c) *Form.* (1) The assurances required by paragraph (a) of this section, which may be included as part of a document that addresses other assurances or obligations, shall include that the applicant or recipient will comply with all applicable Federal statutes relating to nondiscrimination. These include but are not limited to: Title IX of the Education Amendments of 1972, as amended (20 U.S.C. 1681-1683, 1685-1688).
+
+(2) The designated agency official will specify the extent to which such assurances will be required of the applicant's or recipient's subgrantees, contractors, subcontractors, transferees, or successors in interest.

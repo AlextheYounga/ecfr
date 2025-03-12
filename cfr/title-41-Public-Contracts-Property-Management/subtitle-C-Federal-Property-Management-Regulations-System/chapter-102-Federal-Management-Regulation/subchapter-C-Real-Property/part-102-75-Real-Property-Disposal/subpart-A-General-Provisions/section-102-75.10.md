@@ -1,0 +1,3 @@
+##### § 102-75.10 What basic real property disposal policy governs disposal agencies? #####
+
+Disposal agencies must provide, in a timely, efficient, and cost effective manner, the full range of real estate services necessary to support their real property utilization and disposal needs. Landholding agencies must survey the real property under their custody or control to identify property that is not utilized, underutilized, or not being put to optimum use. Disposal agencies must have adequate procedures in place to promote the effective utilization and disposal of such real property.

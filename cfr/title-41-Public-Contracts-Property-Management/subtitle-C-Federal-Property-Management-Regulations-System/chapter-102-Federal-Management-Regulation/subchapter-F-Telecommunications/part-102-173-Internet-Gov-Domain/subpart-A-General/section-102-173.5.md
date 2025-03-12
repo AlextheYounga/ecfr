@@ -1,0 +1,3 @@
+##### § 102-173.5 What is Internet GOV Domain? #####
+
+Internet GOV Domain refers to the Internet top-level domain “dot-gov” operated by the General Services Administration for the registration of U.S. government-related domain names. In general, these names reflect the organization names in the Federal Government and non-Federal government entities in the United States. These names are now being used to promote government services and increase the ease of finding these services.

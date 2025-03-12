@@ -1,0 +1,3 @@
+##### § 102-42.35 Can the employing agency be reimbursed for transfers of gifts and decorations? #####
+
+No, all transfers of gifts and decorations to Federal agencies or donation through SASPs will be without reimbursement. However, the employing agency may require the receiving agency to pay all or part of the direct costs incurred by the employing agency in packing, preparation for shipment, loading, and transportation.

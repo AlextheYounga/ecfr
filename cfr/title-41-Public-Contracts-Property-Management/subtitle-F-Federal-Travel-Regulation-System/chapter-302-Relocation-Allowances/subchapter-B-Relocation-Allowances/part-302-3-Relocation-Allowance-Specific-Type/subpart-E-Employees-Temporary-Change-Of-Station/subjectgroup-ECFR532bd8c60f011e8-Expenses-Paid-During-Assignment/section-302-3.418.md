@@ -1,0 +1,5 @@
+##### § 302-3.418 May my agency pay for property management services when I am authorized a TCS? #####
+
+Your agency may reimburse you directly for expenses you incur or make payments on your behalf to a relocation services company, if you so choose. The term “property management services” refers to a program provided by a private company for a fee, which assists you in managing your residence at your previous official station as a rental property. Services provided by the company may include, but are not limited to, obtaining a tenant, negotiating a lease, inspecting the property regularly, managing repairs and maintenance, enforcing lease terms, collecting rent, paying the mortgage and other carrying expenses from rental proceeds and/or fund of the employee, and accounting for the transactions and providing periodic reports to the employee.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-06, 76 FR 71889, Nov. 21, 2011]

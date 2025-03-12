@@ -1,0 +1,3 @@
+##### § 102-38.320 Are there other statutory requirements governing the sale of Federal personal property? #####
+
+Yes, in addition to Title 40 of the U.S. Code the sale of Federal personal property is governed by other statutory requirements, such as the Debt Collection Improvement Act of 1996 (Public Law 104-134, sec. 31001, 110 Stat. 1321-358) and antitrust requirements that are discussed in § 102-38.325.

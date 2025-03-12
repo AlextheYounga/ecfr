@@ -1,0 +1,3 @@
+##### § 102-79.50 What standard must Executive agencies promote in their utilization of space? #####
+
+Executive agencies, when acquiring or utilizing Federally owned or leased space under Title 40 of the United States Code, must promote efficient utilization of space. Where there is no Federal agency space need, Executive agencies must make every effort to maximize the productive use of vacant space through the issuance of permits, licenses or leases to non-Federal entities to the extent authorized by law. (For vacant property determined excess to agency needs, refer to part 102-75, Real Property Disposal.)

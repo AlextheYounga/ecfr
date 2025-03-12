@@ -1,0 +1,5 @@
+##### § 302-12.10 What are the income tax consequences if I use a relocation services company? #####
+
+You may incur income taxes on relocation services provided by a relocation services company and paid for by your agency. Section 82 of the Internal Revenue Code states there shall be included in gross income (as compensation for services) any amount received or accrued, directly or indirectly, by an individual as a payment for or reimbursement of expenses of moving from one residence to another residence which is attributable to employment. You will receive a relocation income tax (RIT) allowance if your agency determines that such expenses are taxable. The Government does not assume responsibility for payment of your taxes, however, and you may wish to consult a tax professional on income tax reporting.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001. Redesignated by FTR Amdt. 2011-01, 76 FR 18343, Apr. 1, 2011]

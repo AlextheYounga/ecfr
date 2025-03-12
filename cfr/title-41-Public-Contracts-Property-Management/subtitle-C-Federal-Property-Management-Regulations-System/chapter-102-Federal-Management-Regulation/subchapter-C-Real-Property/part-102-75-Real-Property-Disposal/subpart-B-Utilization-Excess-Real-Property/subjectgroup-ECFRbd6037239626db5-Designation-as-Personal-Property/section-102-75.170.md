@@ -1,0 +1,3 @@
+##### § 102-75.170 What happens to the related personal property in a structure scheduled for demolition? #####
+
+When a structure is to be demolished, any fixtures or related personal property therein may, at the disposal agency's discretion, be designated for disposition as personal property where a ready disposition can be made of these items. As indicated in § 102-75.165, particular consideration should be given to designating items having possible historical or artistic value as personal property.

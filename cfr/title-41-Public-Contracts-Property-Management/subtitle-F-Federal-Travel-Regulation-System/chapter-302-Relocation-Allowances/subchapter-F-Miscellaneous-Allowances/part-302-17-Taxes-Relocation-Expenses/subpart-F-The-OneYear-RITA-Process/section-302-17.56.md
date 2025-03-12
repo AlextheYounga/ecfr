@@ -1,0 +1,5 @@
+##### § 302-17.56 What do I do, under the one-year process, once my agency has provided my W-2(s)? #####
+
+(a) You must use all W-2(s) that you have received to file your tax returns. On those returns, you must include all taxable relocation expenses shown on your W-2(s) as income, including your WTA and RITA (if any). Please note that you must also include all WTA as withholding, in addition to the standard withholding from your payroll wages.
+
+(b) If you finished your relocation within one calendar year, and your agency paid all of your relocation reimbursements, allowances, and direct payments to vendors in the same calendar year, before the cutoff date, then your tax returns for that calendar year are the end of your relocation tax process. If, on the other hand, your agency reimburses you for relocation expenses, or pays allowances or relocation vendors on your behalf, during a second (and possibly a third) calendar year, then you and your agency repeat the process above for each of those years.

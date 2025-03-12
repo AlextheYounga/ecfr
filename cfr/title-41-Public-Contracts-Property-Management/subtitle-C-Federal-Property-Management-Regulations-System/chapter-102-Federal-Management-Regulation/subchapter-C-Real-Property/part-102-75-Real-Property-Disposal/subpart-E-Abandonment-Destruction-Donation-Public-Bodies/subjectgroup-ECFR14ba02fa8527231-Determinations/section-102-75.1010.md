@@ -1,0 +1,3 @@
+##### § 102-75.1010 When is a reviewing authority required to approve the determination concerning a property that is to be abandoned, destroyed, or donated? #####
+
+A reviewing authority must approve determinations made under § 102-75.1000 before any such disposal, whenever all the property proposed to be disposed of by a Federal agency has a current estimated fair market value of more than $50,000.

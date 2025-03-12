@@ -1,0 +1,3 @@
+##### § 304-1.2 Under what authority may I accept payment of travel expenses from a non-Federal source? #####
+
+Under the authority of this part and 31 U.S.C. 1353, you may accept payment of travel expenses from a non-Federal source on behalf of your agency, but not on behalf of yourself, when specifically authorized to do so by your agency and only for official travel to a meeting. Except as provided in § 304-3.13 of this subchapter, your agency must approve acceptance of such payments in advance of your travel.

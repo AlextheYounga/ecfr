@@ -1,0 +1,3 @@
+##### § 102-118.295 Does my agency transportation prepayment audit program need to establish appeal procedures? #####
+
+Yes, your agency must establish, in the approved prepayment audit program, an appeals process for a TSP to appeal any reduction in the amount billed. It is recommended the agency establish an electronic appeal process that will direct TSP-filed appeals to an agency official for determination of the claim. Your agency must complete the review of the appeal and inform the TSP of the agency determination within 30 calendar days of the receipt of the appeal, either electronically or in writing.

@@ -1,0 +1,3 @@
+##### § 128-1.152 Citation. #####
+
+The JPMR will be cited in accordance with the Federal Register standards applicable to the FPMR. Accordingly, when this section is referred to formally in official documents, it should be cited as “41 CFR 128-1.152.” When a section of the JPMR is referred to informally, however, it may be identified simply by “JPMR” followed by the complete paragraph reference number, e.g., “JPMR 128-1.152.”

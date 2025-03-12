@@ -1,0 +1,5 @@
+##### § 101-26.508-1 Requisitioning data processing tape available through Federal Supply Schedule contracts. #####
+
+Federal Supply Schedules, FSC group 70, part XI, and FSC group 58, part V, section C, include contracts to satisfy Government requirements for those types of EDP tape and instrumentation tape (wide and intermediate band) which are most widely used. Federal agencies located within the 48 contiguous United States, Washington, DC and Hawaii (applicable to EDP tape only for Hawaii) shall procure these tapes in accordance with the provisions of the current schedules and this § 101-26.508-1. Orders not exceeding the maximum order limitations of the Federal Supply Schedules and prepared directly by activities located outside the geographical areas referenced above shall, to the extent possible, be consolidated and submitted in FEDSTRIP format to the GSA regional office supporting the geographic area in which the requisitioner is located.
+
+[43 FR 32765, July 28, 1978]

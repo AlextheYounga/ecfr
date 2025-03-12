@@ -1,0 +1,3 @@
+##### § 101-30.701-4 Standardization relationship. #####
+
+*Standardization relationship* means the relationship between the replaced item and the replacement item. The replaced item will contain an item standardization code designating the item as not authorized for procurement and therefore must have a replacement item. The relationship of the two items is displayed within the item reduction study by item standardization codes and, upon approval of the study, in the Federal catalog system data base at the Defense Logistics Services Center (DLSC).

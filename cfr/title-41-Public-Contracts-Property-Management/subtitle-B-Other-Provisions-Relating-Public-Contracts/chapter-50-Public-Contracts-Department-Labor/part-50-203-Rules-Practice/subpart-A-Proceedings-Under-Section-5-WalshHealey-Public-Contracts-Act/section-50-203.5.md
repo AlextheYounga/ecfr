@@ -1,0 +1,5 @@
+##### § 50-203.5 Intervention. #####
+
+Any employer, employee, labor or trade organization or other interested person or organization desiring to intervene in any pending proceeding prior to, or at the time it is called for hearing, but not after a hearing, except for good cause shown, shall file a petition in writing for leave to intervene, which shall be served on all parties to the proceeding, with the Chief administrative law judge, Department of Labor, or with the administrative law judge designated to conduct the hearing, setting forth the position and interest of the petitioner and the grounds of the proposed intervention. The Chief administrative law judge, or the administrative law judge, as the case may be, may grant leave to intervene to such extent and upon such terms as he shall deem just.
+
+[11 FR 14493, Dec. 18, 1946. Redesignated at 24 FR 10952, Dec. 30, 1959, as amended at 61 FR 19987, May 3, 1996]

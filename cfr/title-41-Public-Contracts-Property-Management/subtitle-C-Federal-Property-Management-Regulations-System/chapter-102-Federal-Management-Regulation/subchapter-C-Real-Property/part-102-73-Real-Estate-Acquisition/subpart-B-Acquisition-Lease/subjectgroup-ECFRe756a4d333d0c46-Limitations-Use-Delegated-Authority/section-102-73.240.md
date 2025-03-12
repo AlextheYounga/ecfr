@@ -1,0 +1,3 @@
+##### § 102-73.240 What policy must Federal agencies follow to acquire official parking spaces? #####
+
+Federal agencies that need parking must utilize available Government-owned or leased facilities. Federal agencies must make inquiries regarding availability of such Government-controlled space to GSA regional offices and document such inquiries. If no suitable Government-controlled facilities are available, an agency may use its own procurement authority to acquire parking by service contract.

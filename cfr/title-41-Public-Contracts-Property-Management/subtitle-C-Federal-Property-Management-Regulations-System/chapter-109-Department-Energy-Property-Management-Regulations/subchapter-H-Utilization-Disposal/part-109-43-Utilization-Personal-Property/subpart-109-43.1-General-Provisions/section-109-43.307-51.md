@@ -1,0 +1,3 @@
+##### § 109-43.307-51 Classified personal property. #####
+
+Classified personal property which is excess to DOE needs shall be stripped of all characteristics which cause it to be classified, or otherwise rendered unclassified, as determined by the cognizant program office, prior to any disposition action. The cognizant program office shall certify that appropriate action has been taken to declassify the personal property as required. Declassification shall be accomplished in a manner which will preserve, so far as practicable, any civilian utility or commercial value of the personal property.

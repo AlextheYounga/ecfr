@@ -1,0 +1,3 @@
+##### § 102-33.455 What is C-AMIS? #####
+
+The Common Aviation Management Information Standard (C-AMIS) is a guide to assist agencies in developing or modernizing their internal aviation management information systems. C-AMIS includes standard specifications and data definitions related to Federal aviation operations. C-AMIS is jointly written by the ICAP and GSA and available from GSA's Aviation Policy Division.

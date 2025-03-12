@@ -1,0 +1,3 @@
+##### § 50-204.65 Inspection of compressed gas cylinders. #####
+
+Each contractor shall determine that compressed gas cylinders under his extent that this can be determined by visual inspection. Visual and other inspections shall be conducted as prescribed in the Hazardous Materials Regulations of the Department of Transportation (49 CFR parts 171-179 and 14 CFR part 103). Where those regulations are not applicable, visual and other inspections shall be conducted in accordance with Compressed Gas Association Pamphlets C-6-198 and C-8-1962.

@@ -1,0 +1,3 @@
+##### § 102-34.70 What do we do with completed calculations of our fleet vehicle acquisitions? #####
+
+You must maintain the average fuel economy data for each year's vehicle acquisitions on file at your agency headquarters in accordance with the National Archives and Records Administration, General Records Schedule 10, Motor Vehicle and Aircraft Maintenance and Operations Records, Item 4, Motor Vehicle Report Files. Exemption requests and their disposition must also be maintained with the average fuel economy files.

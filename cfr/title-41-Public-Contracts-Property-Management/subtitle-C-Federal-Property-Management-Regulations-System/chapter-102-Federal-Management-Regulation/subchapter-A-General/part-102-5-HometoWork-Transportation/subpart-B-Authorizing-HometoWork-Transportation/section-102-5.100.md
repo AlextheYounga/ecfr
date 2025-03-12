@@ -1,0 +1,3 @@
+##### § 102-5.100 May we use home-to-work transportation for other than official purposes? #####
+
+No, you may not use home-to-work transportation for other than official purposes. However, if your agency has prescribed rules for the incidental use of Government vehicles (as provided in 31 U.S.C. note), you may use the vehicle in accordance with those rules in connection with an existing home-to-work authorization.

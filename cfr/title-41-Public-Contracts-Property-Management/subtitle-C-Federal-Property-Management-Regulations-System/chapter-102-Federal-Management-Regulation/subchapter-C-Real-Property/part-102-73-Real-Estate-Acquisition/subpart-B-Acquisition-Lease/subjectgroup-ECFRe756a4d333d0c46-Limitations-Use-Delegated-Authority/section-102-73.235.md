@@ -1,0 +1,3 @@
+##### § 102-73.235 What is the maximum lease term that a Federal agency may agree to when it has been delegated lease acquisition authority from GSA? #####
+
+Pursuant to GSA's authority to enter into lease agreements contained in 40 U.S.C. 585(a)(2), agencies delegated the authorities outlined herein may enter into leases for the term specified in the delegation. In those cases where agency special purposes space delegations include the authority to acquire unimproved land, the land may be leased only on a fiscal year basis.

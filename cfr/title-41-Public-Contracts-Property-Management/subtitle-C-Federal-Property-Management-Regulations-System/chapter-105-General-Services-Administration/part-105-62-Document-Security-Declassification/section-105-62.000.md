@@ -1,0 +1,3 @@
+##### § 105-62.000 Scope of part. #####
+
+This part prescribes procedures for safeguarding national security information and material within GSA. They explain how to identify, classify, downgrade, declassify, disseminate, and protect such information in the interests of national security. They also supplement and conform with Executive Order 12065 dated June 28, 1978, subject: National Security Information, and the Implementing Directive dated September 29, 1978, issued through the Information Security Oversight Office.

@@ -1,0 +1,3 @@
+##### § 105-54.203-3 Submission to Library of Congress. #####
+
+The GSA Committee Management Officer furnishes a copy of each charter to the Library of Congress when or shortly after copies are filed with the requisite committees of the Congress. Copies for the Library are addressed: Library of Congress, Exchange and Gift Division, Federal Documents Section, Federal Advisory Committee Desk, Washington, DC 20540.

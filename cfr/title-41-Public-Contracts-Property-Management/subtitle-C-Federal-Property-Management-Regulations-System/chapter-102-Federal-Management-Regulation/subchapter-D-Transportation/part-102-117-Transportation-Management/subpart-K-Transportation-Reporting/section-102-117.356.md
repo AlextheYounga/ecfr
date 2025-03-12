@@ -1,0 +1,3 @@
+##### § 102-117.356 What information should I report? #####
+
+You should report your agency's prior fiscal year transaction level transportation data for freight and cargo, including HHG, and transportation management information. Transportation data that currently is otherwise provided to GSA in compliance with 31 U.S.C. 3726 is not requested. Transaction level transportation data submitted by agencies will remain confidential. Transportation management information should also be reported and should include related environmental information, agency points of contact, and transportation officer warrant and training data.

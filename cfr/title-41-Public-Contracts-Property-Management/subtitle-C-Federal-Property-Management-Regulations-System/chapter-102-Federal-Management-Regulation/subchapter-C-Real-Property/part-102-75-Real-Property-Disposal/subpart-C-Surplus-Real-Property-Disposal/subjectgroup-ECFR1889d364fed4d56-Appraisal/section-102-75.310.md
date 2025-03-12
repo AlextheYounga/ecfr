@@ -1,0 +1,3 @@
+##### § 102-75.310 Who must agencies use to appraise the real property? #####
+
+Agencies must use only experienced and qualified real estate appraisers familiar with the types of property to be appraised when conducting the appraisal. When an appraisal is required for negotiation purposes, the same standard applies. However, agencies may authorize other methods of obtaining an estimate of the fair market value or the fair annual rental when the cost of obtaining that data from a contract appraiser would be out of proportion to the expected recoverable value of the property.

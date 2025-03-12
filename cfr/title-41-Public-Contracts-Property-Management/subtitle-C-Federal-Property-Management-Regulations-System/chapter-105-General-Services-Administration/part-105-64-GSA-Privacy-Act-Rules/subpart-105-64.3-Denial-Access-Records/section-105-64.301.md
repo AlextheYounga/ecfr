@@ -1,0 +1,3 @@
+##### § 105-64.301 Under what conditions will I be denied access to a record? #####
+
+The system manager will deny access to a record that is being compiled in the reasonable anticipation of a civil action or proceeding or to records that are specifically exempted from disclosure by GSA in its system of records notices, published in the Federal Register. Exempted systems include the Investigation Case Files, Internal Evaluation Case Files, and Security Files. These systems are exempted to maintain the effectiveness and integrity of investigations conducted by the Office of Inspector General, and others, as part of their duties and responsibilities involving Federal employment, contracts, and security.

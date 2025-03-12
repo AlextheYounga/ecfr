@@ -1,0 +1,3 @@
+##### § 102-81.30 What information must job applicants at child care centers reveal? #####
+
+Anyone who applies for employment (including volunteer positions) at a child care facility, located on Federally controlled property (including Federally leased property), must reveal any arrests and convictions on the job application. Employment at a child care facility means any position that involves work with minor children, such as a teacher, daycare worker, or school administrator.

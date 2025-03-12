@@ -1,0 +1,5 @@
+##### § 102-36.370 Are there special requirements concerning the use of excess personal property for disaster relief? #####
+
+Yes, upon declaration by the President of an emergency or a major disaster, you may loan excess personal property to state and local governments, with or without compensation and prior to reporting it as excess to GSA, to alleviate suffering and damage resulting from any emergency or major disaster (Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121-5206) and Executive Order 12148 (3 CFR, 1979 Comp., p. 412), as amended). If the loan involves property that has already been reported excess to GSA, you may withdraw the item from the disposal process subject to approval by GSA. You may also withdraw excess personal property for use by your agency in providing assistance in disaster relief. You are still accountable for this property and your agency is responsible for developing agencywide procedures for recovery of such property.
+
+[65 FR 31218, May 16, 2000, as amended at 71 FR 53572, Sept. 12, 2006]

@@ -1,0 +1,3 @@
+##### § 105-60.305-7 Assurance of payment. #####
+
+If fees for search, review, and reproduction will exceed $25 but will be less than $250, the requester must provide written assurance of payment before GSA will process the request. If this assurance is not included in the initial request, GSA will notify the requester that assurance of payment is required before the request is processed. GSA will offer requesters an opportunity to modify the request to reduce the fee.

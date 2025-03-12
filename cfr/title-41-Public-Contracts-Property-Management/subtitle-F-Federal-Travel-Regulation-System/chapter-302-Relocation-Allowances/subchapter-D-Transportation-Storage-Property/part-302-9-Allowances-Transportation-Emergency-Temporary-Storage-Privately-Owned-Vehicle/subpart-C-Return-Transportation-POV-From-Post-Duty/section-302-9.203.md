@@ -1,0 +1,3 @@
+##### § 302-9.203 Is there any circumstance under which I may be authorized to transport my POV from a post of duty before completing my service agreement? #####
+
+Yes, if conditions change at your post of duty such that use of your POV no longer is in the interest of the Government, or if you separate from Government service prior to completion of your service agreement for reasons beyond your control and acceptable to your agency, your agency may authorize return transportation to your authorized destination. When the return transportation is based on changed conditions, you are still required to complete your service agreement. If you do not, you will be required to repay the transportation costs.

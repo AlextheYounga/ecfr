@@ -1,0 +1,3 @@
+##### § 102-37.525 What should a holding agency do if it wants a public airport to receive priority consideration for excess personal property it has reported to GSA? #####
+
+A holding agency interested in giving priority consideration to a public airport should annotate its reporting document to make GSA aware of this interest. In an addendum to the document, include the name of the requesting airport, specific property requested, and a brief description of how the airport intends to use the property.

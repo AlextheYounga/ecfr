@@ -1,0 +1,3 @@
+##### § 105-55.023 Further review of compromise offers. #####
+
+If the General Services Administration (GSA) is uncertain whether to accept a firm, written, substantive compromise offer on a debt that is within the Agency's delegated compromise authority, it may refer the offer to the Civil Division or other appropriate litigating division in the Department of Justice (DOJ), using a Claims Collection Litigation Report accompanied by supporting data and particulars concerning the debt. DOJ may act upon such an offer or return it to GSA with instructions or advice.

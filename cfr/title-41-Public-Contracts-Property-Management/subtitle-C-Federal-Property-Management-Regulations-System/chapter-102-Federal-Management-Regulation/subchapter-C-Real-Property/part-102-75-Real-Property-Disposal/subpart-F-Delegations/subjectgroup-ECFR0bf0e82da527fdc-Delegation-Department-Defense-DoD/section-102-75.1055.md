@@ -1,0 +1,3 @@
+##### § 102-75.1055 What is the policy governing delegations of real property disposal authority to the Secretary of Defense? #####
+
+GSA delegates to the Secretary of Defense the authority to determine that Federal agencies do not need Department of Defense controlled excess real property and related personal property having a total estimated fair market value, including all the component units of the property, of less than $50,000; and to dispose of the property by means deemed most advantageous to the United States.

@@ -1,0 +1,11 @@
+##### § 301-51.100 What method of payment must I use to procure common carrier transportation? #####
+
+You must use a Government contractor-issued individually billed travel card, centrally billed account, or GTR to procure contract passenger transportation services. For all other common carrier transportation, you must use one of the methods specified in the following table:
+
+|                    For passenger transportation services costing                    |                                            You must use                                             |                                                                                    Unless                                                                                     |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) $10 or less, and air excess baggage charges of $15 or less for each leg of a trip|     A Government contractor-issued individually billed travel card or centrally billed account      |     Use of the Government contractor-issued individually billed travel card is not accepted, its use is impracticable or special circumstances justify the use of a GTR.      |
+|                      (b) More than $10, but not more than $100                      |  A Government contractor-issued individually billed travel card, centrally billed account, or GTR   |                                                         None of the other methods are practicable, you may use cash.                                                          |
+|                                 (c) More than $100                                  |Only a Government contractor-issued individually billed travel card, centrally billed account, or GTR|Your agency authorizes you to use a reduced fare for group, charter, or excursion arrangements or under emergency circumstances where the use of other methods is not possible.|
+
+[FTR Amdt. 70, 63 FR 15968, Apr. 1, 1998; 63 FR 35538, June 30, 1998, as amended by FTR Amdt. 2007-05, 72 FR 61539, Oct. 31, 2007]

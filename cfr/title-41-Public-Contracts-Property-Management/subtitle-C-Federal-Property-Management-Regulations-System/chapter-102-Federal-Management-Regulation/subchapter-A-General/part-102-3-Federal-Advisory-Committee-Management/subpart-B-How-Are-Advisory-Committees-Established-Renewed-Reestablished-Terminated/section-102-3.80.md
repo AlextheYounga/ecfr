@@ -1,0 +1,9 @@
+##### § 102-3.80 How are minor charter amendments accomplished? #####
+
+(a) *Responsibility and limitation.* The agency head is responsible for amending the charter of an advisory committee. Amendments may be either minor or major. The procedures for making changes and filing amended charters will depend upon the authority basis for the advisory committee. Amending any existing advisory committee charter does not constitute renewal of the advisory committee under § 102-3.60.
+
+(b) *Procedures for minor amendments.* To make a minor amendment to an advisory committee charter, such as changing the name of the advisory committee or modifying the estimated number or frequency of meetings, the following procedures must be followed:
+
+(1) *Non-discretionary advisory committees.* The agency head must ensure that any minor technical changes made to current charters are consistent with the relevant authority. When the Congress by law, or the President by Executive order, changes the authorizing language that has been the basis for establishing an advisory committee, the agency head or the chairperson of an independent Presidential advisory committee must amend those sections of the current charter affected by the new statute or Executive order, and file the amended charter as specified in § 102-3.70.
+
+(2) *Discretionary advisory committees.* The charter of a discretionary advisory committee may be amended when an agency head determines that technical provisions of a filed charter are inaccurate, or specific provisions have changed or become obsolete with the passing of time, and that these amendments will not alter the advisory committee's objectives and scope substantially. The agency must amend the charter language as necessary and file the amended charter as specified in § 102-3.70.

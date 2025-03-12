@@ -1,0 +1,3 @@
+##### § 302-17.100 May we use a relocation services provider to comply with the requirements of this part? #####
+
+Yes. You may use the services of relocation companies to manage all aspects of relocation, including the RITA computation. Agencies that relocate few employees or do not have the resources to manage the complexity of relocation may find that the use of relocation companies is a practical alternative. As another alternative, agencies with infrequent requirements for relocation or with inadequate internal resources may establish an interagency agreement with one or more other agencies to pool resources to provide this service.

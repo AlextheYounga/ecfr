@@ -1,0 +1,3 @@
+##### § 302-9.171 If circumstances warrant an authorization to transport a POV to my post of duty after my assignment to the post of duty, must I sign a new service agreement? #####
+
+No, if circumstances changed after arrival at your new post of duty to warrant authorization to transport a POV, you are not required to sign a new service agreement, provided a service agreement was signed at the time of your assignment to the post of duty. Violation of that service agreement, however, will result in your personal liability for the cost of transporting the POV.

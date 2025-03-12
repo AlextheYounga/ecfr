@@ -1,0 +1,3 @@
+##### § 102-34.195 Must we submit a report concerning motor vehicles exempted under this subpart? #####
+
+Yes. If asked, the head of each executive agency must submit a report concerning motor vehicles exempted under this subpart. This report, which has been assigned interagency report control number 1537-GSA-AR, should be submitted to the: General Services Administration, ATTN: MT, Washington, DC 20405. E-mail: *vehicle.policy@gsa.gov.*

@@ -1,0 +1,3 @@
+##### § 102-75.420 What happens if the FAA informs the disposal agency that it does not recommend disposal of the property for a public airport? #####
+
+Any airport property that the FAA does not recommend for disposal as a public airport must be disposed of in accordance with other applicable provisions of this part. However, the disposal agency must first notify the landholding agency of its inability to dispose of the property for use as a public airport. In addition, the disposal agency must allow the landholding agency 30 days to withdraw the property from surplus or to waive any future interest in the property for public airport use.

@@ -1,0 +1,5 @@
+##### § 101-26.103-2 Restriction on personal convenience items. #####
+
+Government funds may be expended for pictures, objects of art, plants, or flowers (both artificial and real), or any other similar type items when such items are included in a plan for the decoration of Federal buildings approved by the agency responsible for the design and construction. Determinations as to the need for purchasing such items for use in space assigned to any agency are judgments reserved to the agency. Determinations with respect to public space such as corridors and lobbies are reserved to the agency responsible for operation of the building. Except as otherwise authorized by law, Government funds shall not be expended for pictures, objects of art, plants, flowers (both artificial and real), or any other similar type items intended solely for the personal convenience or to satisfy the personal desire of an official or employee. These items fall into the category of “luxury items” since they do not contribute to the fulfillment of missions normally assigned to Federal agencies.
+
+[36 FR 17423, Aug. 31, 1971]

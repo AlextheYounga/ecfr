@@ -1,0 +1,5 @@
+##### § 109-1.5202 Establishment of a personal property holdings baseline. #####
+
+(a) If the contractor is a new designated contractor, the contractor may accept the previous contractor's personal property records as a baseline or may perform a complete physical inventory of all personal property. This physical inventory is to be performed within the time period specified by the contracting officer or the contract, but no later than one year after the execution date of the contract. If the physical inventory is not accomplished within the allotted time frame, the previous contractor's records will be considered as the baseline.
+
+(b) If any required physical inventories have not been accomplished within the time periods prescribed in § 109-1.5110(f) of this part, the new contractor shall either perform such physical inventories within 120 days of contract renegotiation, or accept the existing property records as the baseline.

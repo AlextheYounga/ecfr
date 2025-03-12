@@ -1,0 +1,3 @@
+##### § 105-64.104 What must the system manager tell me when soliciting personal information? #####
+
+When soliciting information from you or a third party for a system of records, system managers must: Cite the authority for collecting the information; say whether providing the information is mandatory or voluntary; give the purpose for which the information will be used; state the routine uses of the information; and describe the effect on you, if any, of not providing the information. This information is found in the Privacy Act Statement. Any form that asks for personal information will contain this statement.

@@ -1,0 +1,3 @@
+##### § 102-75.495 May the Department of Education (ED) or the Department of Health and Human Services (HHS) notify nonprofit organizations that surplus real property and related personal property is available for educational and public health purposes? #####
+
+Yes, ED or HHS may notify eligible non-profit institutions that such property has been determined to be surplus. Notices to eligible non-profit institutions must require eligible non-profit institutions to coordinate any request for educational or public health use of the property with the appropriate public agency responsible for developing and submitting a comprehensive and coordinated plan of use and procurement for the property.

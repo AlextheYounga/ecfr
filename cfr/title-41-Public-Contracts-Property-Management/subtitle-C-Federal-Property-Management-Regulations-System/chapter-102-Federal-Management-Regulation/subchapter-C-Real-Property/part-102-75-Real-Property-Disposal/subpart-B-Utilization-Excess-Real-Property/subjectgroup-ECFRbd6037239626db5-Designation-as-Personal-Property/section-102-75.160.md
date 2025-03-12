@@ -1,0 +1,3 @@
+##### § 102-75.160 Should prefabricated movable structures be designated real or personal property for disposition purposes? #####
+
+Prefabricated movable structures such as Butler-type storage warehouses, Quonset huts, and house trailers (with or without undercarriages) reported to GSA along with the land on which they are located may, at GSA's discretion, be designated for disposition as personal property for off-site use or as real property for disposal with the land.

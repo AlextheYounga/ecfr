@@ -1,0 +1,3 @@
+##### § 102-75.505 Is the request for educational or public health use of a property by an eligible nonprofit institution contingent upon the disposal agency's approval? #####
+
+Yes, eligible non-profit organizations will only receive surplus real property for an educational or public health use if the disposal agency approves or grants the assignment request from either ED or HHS. The disposal agency will also consider other uses for available surplus real property, taking into account the highest and best use determination. Any subsequent transfer is subject to the approval of the head of the disposal agency as stipulated under 40 U.S.C. 550(c) or (d) and referenced in this part.

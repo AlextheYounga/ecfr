@@ -1,0 +1,3 @@
+##### § 102-83.35 Are Executive agencies required to consider whether the central business area will provide for adequate competition when acquiring leased space? #####
+
+In accordance with the Competition in Contracting Act of 1984, as amended (41 U.S.C. 253(a)), Executive agencies must consider whether restricting the delineated area for obtaining leased space to the central business area (CBA) will provide for adequate competition when acquiring leased space. Where an Executive agency determines that the delineated area must be expanded beyond the CBA to provide adequate competition, the agency may expand the delineated area in consultation with local officials. Executive agencies must continue to include the CBA in such expanded areas.

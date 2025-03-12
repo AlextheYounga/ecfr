@@ -1,0 +1,3 @@
+##### § 101-29.301-2 Federal Standardization Handbook. #####
+
+The Assistant Administrator for Federal Supply and Services will issue and maintain on a current basis a “Federal Standardization Handbook.” The Federal Standardization Handbook sets forth operating procedures and applicable definitions used in the development of Federal product descriptions under the Assigned Agency Plan described therein. Federal agencies shall adhere to the provisions of the handbook in the development and coordination of Federal product descriptions.

@@ -1,0 +1,3 @@
+##### § 102-78.55 For which properties must Federal agencies assume historic preservation responsibilities? #####
+
+Federal agencies must assume historic preservation responsibilities for real property assets under their custody and control. Federal agencies occupying space in buildings under the custody and control of other Federal agencies must obtain approval from the agency having custody and control of the building.

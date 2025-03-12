@@ -1,0 +1,3 @@
+##### § 102-84.55 When are the Annual Real Property Inventory reports due? #####
+
+You must prepare the Annual Real Property Inventory information prescribed in § 102-84.50 as of the last day of each fiscal year. This information must be submitted electronically to the General Services Administration, Office of Governmentwide Policy, Office of Real Property (MP), 1800 F Street, NW., Washington, DC 20405, no later than December 15 of each year.

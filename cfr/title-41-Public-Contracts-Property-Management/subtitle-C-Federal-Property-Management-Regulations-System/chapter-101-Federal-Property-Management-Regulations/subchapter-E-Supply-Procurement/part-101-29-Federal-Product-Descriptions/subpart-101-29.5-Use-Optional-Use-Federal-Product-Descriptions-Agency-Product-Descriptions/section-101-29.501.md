@@ -1,0 +1,3 @@
+##### § 101-29.501 Optional use of interim Federal specifications. #####
+
+Interim Federal specifications are for optional use. All agencies are urged to make maximum use of them and to submit suggested changes to the preparing activity for consideration in further development of the specifications for promulgation as Federal specifications or commercial item descriptions. Interim revisions or interim amendments to Federal specifications are for optional use as valid exceptions to the Federal specifications so revised or amended and must, therefore, be specifically identified by symbol and date in the invitation for bids or request for proposal.

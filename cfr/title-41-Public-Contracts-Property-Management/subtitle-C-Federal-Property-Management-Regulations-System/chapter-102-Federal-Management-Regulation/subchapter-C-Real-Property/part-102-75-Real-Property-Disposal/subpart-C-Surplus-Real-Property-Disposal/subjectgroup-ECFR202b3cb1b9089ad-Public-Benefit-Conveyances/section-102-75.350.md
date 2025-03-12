@@ -1,0 +1,3 @@
+##### § 102-75.350 What are disposal agencies' responsibilities concerning public benefit conveyances? #####
+
+Based on a highest and best use analysis, disposal agencies may make surplus real property available to State and local governments and certain non-profit institutions or organizations at up to 100 percent public benefit discount for public benefit purposes. Some examples of such purposes are education, health, park and recreation, the homeless, historic monuments, public airports, highways, correctional facilities, ports, and wildlife conservation. The implementing regulations for these conveyances are found in this subpart.

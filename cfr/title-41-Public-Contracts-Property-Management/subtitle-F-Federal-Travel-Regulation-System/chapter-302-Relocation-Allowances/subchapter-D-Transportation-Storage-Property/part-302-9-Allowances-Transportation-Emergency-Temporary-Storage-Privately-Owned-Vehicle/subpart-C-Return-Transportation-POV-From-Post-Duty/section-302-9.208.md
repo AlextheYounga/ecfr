@@ -1,0 +1,3 @@
+##### § 302-9.208 If I retain my POV at my post of duty after conditions change to make use of the POV no longer in the best interest of the Government, may I transport it at Government expense from the post of duty at a later date? #####
+
+Yes, your agency will pay the transportation costs not to exceed the cost of transporting it to the authorized destination, provided you otherwise meet all conditions for transporting a POV.

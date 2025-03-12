@@ -1,0 +1,3 @@
+##### § 102-75.780 When must DOJ or FEMA notify the disposal agency that an eligible applicant is interested in acquiring the property? #####
+
+OJP or FEMA must notify the disposal agency within 30 calendar days after the date of the surplus notice, if there is an eligible applicant interested in acquiring the property. After that 30-calendar day period expires, OJP or FEMA then has another 30 days to review and approve an appropriate program and notify the disposal agency of the need for the property. If no application is approved, then OJP or FEMA must notify the disposal agency that there is no requirement for the property within the 30-calendar day period allotted for review and approval.

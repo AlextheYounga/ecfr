@@ -1,0 +1,5 @@
+##### § 101-30.404 Supply support. #####
+
+Civilian agencies requiring supply support on an item of supply shall request this action by preparing Standard Form 1303, Request for Federal Cataloging/Supply Support Action (illustrated at § 101-30.4901-1303), and submitting the form to the General Services Administration (FRIS), Washington, DC 20406. All supply support request for nonperishable subsistence items in Federal Supply Group 89, subsistence (except condiment packets in FSC classes 8940 and 8950), shall be submitted to the Veterans Administration, Catalog Division (901S), Veterans Administration Supply Depot, P.O. Box 27, Hines IL 60141. Guidance on the preparation of supply support requests is in the GSA Handbook, Federal Catalog System-Logistics Data (FPMR 101-30.3), issued by the Commissioner, Federal Supply Service.
+
+[46 FR 55991, Nov. 13, 1981]

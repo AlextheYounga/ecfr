@@ -1,0 +1,3 @@
+##### § 102-36.165 Do we retain title to excess personal property furnished to a non-appropriated fund activity within our agency? #####
+
+Yes, title to excess personal property furnished to a non-appropriated fund activity remains with the Federal Government and you are accountable for establishing controls over the use of such excess property in accordance with § 102-36.45(d). When such property is no longer required by the non-appropriated fund activity, you must reuse or dispose of the property in accordance with this part.

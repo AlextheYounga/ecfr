@@ -1,0 +1,5 @@
+##### § 102-38.325 What are the requirements pertaining to antitrust laws? #####
+
+When the sale of personal property has an estimated fair market value of $3 million or more or if the sale involves a patent, process, technique, or invention, you must notify the Attorney General of the Department of Justice (DOJ) and get DOJ's opinion as to whether the sale would give the buyer an unfair advantage in the marketplace and violate any antitrust laws. Include in the notification the description and location of the property, method of sale and proposed selling price, and information on the proposed purchaser and intended use of the property. You must not complete the sale until you have received confirmation from the Attorney General that the proposed transaction would not violate any antitrust laws.
+
+[68 FR 51421, Aug. 26, 2003; 68 FR 53219, Sept. 9, 2003]

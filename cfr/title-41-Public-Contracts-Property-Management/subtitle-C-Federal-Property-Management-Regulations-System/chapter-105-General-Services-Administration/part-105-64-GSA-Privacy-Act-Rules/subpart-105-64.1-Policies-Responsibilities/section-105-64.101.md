@@ -1,0 +1,3 @@
+##### § 105-64.101 Who is responsible for enforcing these rules? #####
+
+GSA Heads of Services and Staff Offices and Regional Administrators are responsible for ensuring that all systems of records under their jurisdiction meet the provisions of the Privacy Act and these rules. System managers are responsible for the system(s) of records assigned to them. The GSA Privacy Act Officer oversees the GSA Privacy Program and establishes privacy-related policy and procedures for the agency under the direction of the GSA Senior Agency Official for Privacy.

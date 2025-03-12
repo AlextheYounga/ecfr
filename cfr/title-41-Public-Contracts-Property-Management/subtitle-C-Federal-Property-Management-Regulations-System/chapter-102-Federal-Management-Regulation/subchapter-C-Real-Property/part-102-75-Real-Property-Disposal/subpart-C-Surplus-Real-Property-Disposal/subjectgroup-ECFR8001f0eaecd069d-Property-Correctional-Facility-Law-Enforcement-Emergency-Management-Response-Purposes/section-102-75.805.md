@@ -1,0 +1,3 @@
+##### § 102-75.805 Who is responsible for enforcing compliance with the terms and conditions of the transfer of the property used for correctional facility, law enforcement, or emergency management response purposes? #####
+
+The Administrator of General Services is responsible for enforcing compliance with the terms and conditions of disposals of property to be used for correctional facility, law enforcement, or emergency management response purposes. GSA is also responsible for reforming, correcting, or amending any disposal instrument; granting releases; and any action necessary for recapturing the property following the provisions of 40 U.S.C. 553(e).

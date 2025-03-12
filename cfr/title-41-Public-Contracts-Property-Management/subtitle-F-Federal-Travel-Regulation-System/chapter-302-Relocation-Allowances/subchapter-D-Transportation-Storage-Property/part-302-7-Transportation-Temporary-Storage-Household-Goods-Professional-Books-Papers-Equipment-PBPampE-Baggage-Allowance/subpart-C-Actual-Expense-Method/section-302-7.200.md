@@ -1,0 +1,5 @@
+##### § 302-7.200 How are charges paid and who makes the arrangements for transporting HHG, PBP&E and temporary storage under the actual expense method? #####
+
+Your agency is responsible for making all the necessary arrangements for transporting HHG, PBP&E, and temporary storage, including but not limited to packing/unpacking, crating/uncrating, pickup/delivery, weighing, line-haul, etc., under the actual expense method. Your agency will issue a Bill of Lading or any other shipping document with all charges billed directly to the agency. Any cost or weight in excess of 18,000 pounds will be at your expense. If the shipment exceeds the maximum weight prescribed in § 302-7.2, the Government will pay the total charges and the employee will reimburse the Government for the cost of transportation and other charges applicable to the excess weight.
+
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 108, 67 FR 57969, Sept. 13, 2002]

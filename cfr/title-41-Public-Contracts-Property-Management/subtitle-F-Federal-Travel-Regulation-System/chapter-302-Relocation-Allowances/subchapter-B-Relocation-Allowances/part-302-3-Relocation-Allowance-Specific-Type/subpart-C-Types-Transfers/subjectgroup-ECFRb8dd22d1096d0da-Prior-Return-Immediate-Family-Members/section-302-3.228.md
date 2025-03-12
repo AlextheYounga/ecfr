@@ -1,0 +1,3 @@
+##### § 302-3.228 Is my dependent who turned 21 while overseas entitled to return travel to my place of actual residence at the expense of the Government? #####
+
+Your dependent who turned 21 while overseas is entitled to return travel to your place of actual residence at the expense of the Government only if your dependent traveled overseas as your dependent under your TA, but not beyond the end of your current agreed tour of duty.

@@ -1,0 +1,3 @@
+##### § 302-9.206 What should I do if there is no port or terminal at my authorized point of origin or authorized destination when I transport a POV from my post of duty? #####
+
+If there is no port or terminal at your authorized point of origin or authorized destination, your agency will pay the entire cost of transporting the POV from your authorized origin to your authorized destination. If you prefer, however, you may choose to drive your POV to the port of embarkation and/or from the port of debarkation. If you choose to drive, you will be reimbursed in the same manner as an employee under § 302-9.104.

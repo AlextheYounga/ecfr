@@ -1,0 +1,3 @@
+##### § 102-85.50 When does availability of funding have to be certified? #####
+
+The customer agency must sign an OA prior to GSA's making any major contractual commitments associated with the space request. Typically, this should occur at the earliest possible opportunity-i.e., when funds become available. However, in no event shall certification occur later than just prior to the award of the contract to a design architect in the case of Federal construction or renovation in Federally owned space or prior to the award of a lease. This serves as a customer agency's funding commitment unless certification is provided on another document.

@@ -1,0 +1,3 @@
+##### § 102-73.15 What real estate acquisition and related services may Federal agencies provide? #####
+
+Federal agencies, upon approval from GSA, may provide real estate acquisition and related services, including leasing (with or without purchase options), building and/or site purchase, condemnation, and relocation assistance. For information on the design and construction of Federal facilities, see part 102-76 of this chapter.

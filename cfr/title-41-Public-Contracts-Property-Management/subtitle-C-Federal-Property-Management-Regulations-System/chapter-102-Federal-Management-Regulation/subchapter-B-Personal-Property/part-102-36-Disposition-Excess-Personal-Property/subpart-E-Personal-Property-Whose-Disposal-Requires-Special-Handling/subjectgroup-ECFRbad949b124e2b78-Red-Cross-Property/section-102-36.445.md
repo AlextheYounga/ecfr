@@ -1,0 +1,3 @@
+##### § 102-36.445 Do we report excess personal property originally acquired from or through the American National Red Cross? #####
+
+Yes, when reporting excess personal property which was processed, produced, or donated by the American National Red Cross, note “RED CROSS PROPERTY” on the SF 120 or report document. GSA will offer to return this property to the Red Cross if no other federal agency has a need for it. If the Red Cross has no requirement, the property continues in the disposal process and is available for donation.

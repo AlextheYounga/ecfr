@@ -1,0 +1,3 @@
+##### § 51-6.9 Correspondence and inquiries. #####
+
+Routine contracting activity correspondence or inquiries concerning deliveries of commodities being shipped from or performance of services by nonprofit agencies employing persons who are blind or have other severe disabilities shall be with the nonprofit agency involved. Major problems shall be referred to the appropriate central nonprofit agency. In those instances where the problem cannot be resolved by the central nonprofit agency and the contracting activity involved, the contracting activity or central nonprofit agency shall notify the Committee of the problem so that action can be taken by the Committee to resolve it.

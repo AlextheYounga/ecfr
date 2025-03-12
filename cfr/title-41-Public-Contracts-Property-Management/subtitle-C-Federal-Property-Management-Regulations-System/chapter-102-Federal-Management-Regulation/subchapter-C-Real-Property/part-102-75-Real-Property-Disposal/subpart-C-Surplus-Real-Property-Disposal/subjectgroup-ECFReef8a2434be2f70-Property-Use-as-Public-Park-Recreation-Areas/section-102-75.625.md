@@ -1,0 +1,3 @@
+##### § 102-75.625 Which Federal agency is assigned surplus real property for public park or recreation purposes? #####
+
+The head of the disposal agency or his or her designee is authorized to assign to the Secretary of the Interior for disposal under 40 U.S.C. 550(e), surplus real property, including buildings, fixtures, and equipment as recommended by the Secretary as being needed for use as a public park or recreation area for conveyance to a State, political subdivision, instrumentalities, or municipality.

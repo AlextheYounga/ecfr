@@ -1,0 +1,3 @@
+##### § 102-33.425 What Federal aircraft cost and utilization data must we report? #####
+
+You must report certain costs for each of your Federal aircraft (including your UAS) and the number of hours that you flew each aircraft. In reporting the costs of your Federal aircraft, you must report both the amounts you paid as Federal costs, which are for services the Government provides, and the amounts you paid for commercial aviation services (CAS) in support of your Federal aviation program. For a list and definitions of the Federal aircraft cost and utilization data elements, see the U.S. Government Aircraft Cost Accounting Guide (CAG), which is available at *http://www.gsa.gov/aviationpolicy.*

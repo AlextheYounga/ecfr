@@ -1,0 +1,3 @@
+##### § 102-79.75 May Executive agencies assess fees for antenna placements against public service organizations for antenna site outleases on major pedestrian access levels, courtyards, and rooftops of public buildings? #####
+
+Yes. Executive agencies in GSA-controlled space, upon approval from GSA, may assess fees for antenna placements against public service organizations under 40 U.S.C. 581(h) and 40 U.S.C. 121(e). Such fees or rental rates must be equivalent to the prevailing commercial rate for comparable space devoted to commercial antenna placements in the vicinity of the public building and the proceeds from such charges or fees must be credited to GSA's Federal Buildings Fund.

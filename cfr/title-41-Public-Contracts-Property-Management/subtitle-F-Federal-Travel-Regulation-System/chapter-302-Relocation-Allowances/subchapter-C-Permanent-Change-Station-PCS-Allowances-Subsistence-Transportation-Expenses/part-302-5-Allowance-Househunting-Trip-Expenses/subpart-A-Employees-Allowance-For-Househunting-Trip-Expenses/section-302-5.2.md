@@ -1,0 +1,3 @@
+##### § 302-5.2 What is the purpose of the househunting trip expenses allowance? #####
+
+The allowance for househunting trip expenses is intended to facilitate and expedite the employee's move from your old official station to your new official station and to lower the Government's overall cost for the employee's relocation by reducing the amount of time an employee must occupy temporary quarters. The allowance for househunting trip expenses provides the employee and/or spouse a period of time to concentrate on finding a suitable permanent residence at the new official station and thereby expedites the employee's relocation.

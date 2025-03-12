@@ -1,0 +1,3 @@
+##### § 102-74.245 Who makes the decision to activate the Occupant Emergency Organization? #####
+
+The decision to activate the Occupant Emergency Organization must be made by the Designated Official, or by the designated alternate official. After normal duty hours, the senior Federal official present must represent the Designated Official or his/her alternates and must initiate action to cope with emergencies in accordance with the plans.

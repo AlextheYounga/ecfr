@@ -1,0 +1,3 @@
+##### § 102-42.60 Who is responsible for gifts and decorations received by Senators and Senate employees? #####
+
+Gifts and decorations received by Senators and Senate employees are deposited with the Secretary of the Senate for disposal by the Commission on Art and Antiquities of the United States Senate under 5 U.S.C. 7342(e)(2). GSA is responsible for disposing of gifts or decorations received by Members and employees of the House of Representatives.

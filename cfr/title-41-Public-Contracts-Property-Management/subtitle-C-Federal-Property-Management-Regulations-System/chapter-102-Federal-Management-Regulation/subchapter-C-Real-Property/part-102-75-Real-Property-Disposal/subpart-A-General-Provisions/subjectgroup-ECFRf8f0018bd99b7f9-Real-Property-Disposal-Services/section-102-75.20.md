@@ -1,0 +1,3 @@
+##### § 102-75.20 How can Federal agencies with independent disposal authority obtain related disposal services? #####
+
+Federal agencies with independent disposal authority are encouraged to obtain utilization, disposal, and related services from those agencies with expertise in real property disposal, such as GSA, as allowed by 31 U.S.C. 1535 (the Economy Act), so that they can remain focused on their core mission.

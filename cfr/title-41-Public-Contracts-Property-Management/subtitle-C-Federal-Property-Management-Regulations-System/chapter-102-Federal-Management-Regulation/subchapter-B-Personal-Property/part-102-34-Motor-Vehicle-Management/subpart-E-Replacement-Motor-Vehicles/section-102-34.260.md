@@ -1,0 +1,3 @@
+##### § 102-34.260 May we replace a Government-owned motor vehicle sooner? #####
+
+Yes. You may replace a Government-owned motor vehicle if it needs body or mechanical repairs that exceed the fair market value of the motor vehicle. Determine the fair market value by adding the current market value of the motor vehicle plus any capitalized motor vehicle additions (such as a utility body or liftgate) or repairs. Your agency head or designee must review the replacement in advance.

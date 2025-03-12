@@ -1,0 +1,3 @@
+##### § 50-205.3 Agreement with a State agency. #####
+
+The Secretary may enter into an agreement with the head of a State agency providing for the use of State or local officers and employees in the conduct of inspections under the safety and health provisions of the Act as interpreted or applied in part 50-204 of this chapter whenever he finds that the utilization of such State or local officers is necessary to assist in the administration of those provisions. In making such a finding, consideration may be given to the State laws or regulations administered by the State agency providing safety and health standards, the central and field organization of the State agency, and the qualifications of its investigative personnel.

@@ -1,0 +1,25 @@
+##### § 105-55.016 Interest, penalties, and administrative costs. #####
+
+(a) Except as provided in paragraphs (g), (h), and (i) of this section, the General Services Administration (GSA) will charge interest, penalties, and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. GSA will send by U.S. mail, overnight delivery service, or hand-delivery a written notice to the debtor, at the debtor's most recent address available to the Agency, explaining the Agency's requirements concerning these charges, except where these requirements are included in a contractual or repayment agreement. These charges will continue to accrue until the debt is paid in full or otherwise resolved through compromise, termination, or waiver of the charges.
+
+(b) GSA will charge interest on debts owed the United States as follows:
+
+(1) Interest will accrue from the date of delinquency, or as otherwise provided by law.
+
+(2) Unless otherwise established in a contract, repayment agreement, or by statute, the rate of interest charged will be the rate established annually by the Secretary in accordance with 31 U.S.C. 3717(a)(1). Pursuant to 31 U.S.C. 3717, GSA may charge a higher rate of interest if it is reasonably determined that a higher rate is necessary to protect the rights of the United States. GSA will document the reason(s) for a determination that the higher rate is necessary.
+
+(3) The rate of interest, as initially charged, will remain fixed for the duration of the indebtedness. When a debtor defaults on a repayment agreement and seeks to enter into a new agreement, GSA may require payment of interest at a new rate that reflects the Current Value of Funds Rate (CVFR) at the time the new agreement is executed. Interest will not be compounded, that is, interest will not be charged on interest, penalties, or administrative costs required by this section. If a debtor defaults on a previous repayment agreement, charges that accrued but were not collected under the defaulted agreement will be added to the principal under the new repayment agreement.
+
+(c) GSA will assess administrative costs incurred for processing and handling delinquent debts. The calculation of administrative costs will be based on actual costs incurred or upon estimated costs as determined by the Agency.
+
+(d) Unless otherwise established in a contract, repayment agreement, or by statute, GSA will charge a penalty, pursuant to 31 U.S.C. 3717(e)(2), not to exceed six percent a year on the amount due on a debt that is delinquent for more than 90 days. This charge will accrue from the date of delinquency.
+
+(e) GSA may increase an “administrative debt” by the cost of living adjustment in lieu of charging interest and penalties under this section. “Administrative debt” includes, but is not limited to, a debt based on fines, penalties, and overpayments, but does not include a debt based on the extension of Government credit, such as those arising from loans and loan guaranties. The cost of living adjustment is the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the debt was determined or last adjusted. Increases to administrative debts will be computed annually. GSA will use this alternative only when there is a legitimate reason to do so, such as when calculating interest and penalties on a debt would be extremely difficult because of the age of the debt.
+
+(f) When a debt is paid in partial or installment payments, amounts received by GSA will be applied first to outstanding penalties, second to administrative charges, third to interest, and last to principal.
+
+(g) GSA will waive the collection of interest, penalty and administrative charges imposed pursuant to this section on the portion of the debt that is paid within 30 days after the date on which interest began to accrue. GSA may extend this 30-day period on a case-by-case basis. In addition, GSA may waive interest, penalties, and administrative costs charged under this section, in whole or in part, without regard to the amount of the debt, either under the criteria set forth in these standards for the compromise of debts, or if the Agency determines that collection of these charges resulted from Agency error, is against equity and good conscience, or is not in the best interest of the United States.
+
+(h) Unless a statute or regulation specifically prohibits collection, interest, penalties and administrative costs will continue to accrue for periods during which collection activity has been suspended pending Agency review or waiver consideration.
+
+(i) GSA is authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with the common law.

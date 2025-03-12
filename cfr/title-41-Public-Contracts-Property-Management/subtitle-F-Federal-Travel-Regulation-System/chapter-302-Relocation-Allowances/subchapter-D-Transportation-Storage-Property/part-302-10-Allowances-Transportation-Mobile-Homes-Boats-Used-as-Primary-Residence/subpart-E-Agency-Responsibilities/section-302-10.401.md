@@ -1,0 +1,3 @@
+##### § 302-10.401 Are the allowances for transporting a mobile home in addition to the allowances for per diem, mileage, and transportation expenses, for an employee and immediate family member(s)? #####
+
+Yes, allowances for transporting a mobile home (including mileage when towed by the employee) are in addition to the allowances for per diem, mileage, and transportation expenses. However, you must consider the fact that the mobile home will be used as the employee's and/or immediate family member(s) primary residence at the new official station, and reduce the allowances under parts 302-5, 302-6, and 302-11 of this chapter.

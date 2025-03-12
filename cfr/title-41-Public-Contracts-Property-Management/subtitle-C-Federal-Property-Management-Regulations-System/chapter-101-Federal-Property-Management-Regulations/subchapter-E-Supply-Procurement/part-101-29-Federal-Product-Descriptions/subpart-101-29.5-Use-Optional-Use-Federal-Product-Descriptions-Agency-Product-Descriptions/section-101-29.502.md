@@ -1,0 +1,3 @@
+##### § 101-29.502 Use of Federal specifications and interim Federal specifications in Federal construction contracts. #####
+
+When material, equipment, or services covered by an available Federal specification or interim Federal specification are specified in connection with Federal construction, the Federal specification or interim Federal specification shall be made part of the specification for the construction contract, subject to provisions in §§ 101-29.402, 101-29.403, and 101-29.501.

@@ -1,0 +1,11 @@
+##### § 102-36.35 What is the typical process for disposing of excess personal property? #####
+
+(a) You must ensure personal property not needed by your activity is offered for use elsewhere within your agency. If the property is no longer needed by any activity within your agency, your agency declares the property excess and reports it to GSA for possible transfer to eligible recipients, including federal agencies for direct use or for use by their contractors, project grantees, or cooperative agreement recipients. All executive agencies must, to the maximum extent practicable, fill requirements for personal property by using existing agency property or by obtaining excess property from other federal agencies in lieu of new procurements.
+
+(b) If GSA determines that there are no federal requirements for your excess personal property, it becomes surplus property and is available for donation to state and local public agencies and other eligible non-federal activities. Title 40 of the United States Code requires that surplus personal property be distributed to eligible recipients by an agency established by each State for this purpose, the State Agency for Surplus Property.
+
+(c) Surplus personal property not selected for donation is offered for sale to the public by competitive offerings such as sealed bid sales, spot bid sales, or auctions. You may conduct or contract for the sale of your surplus personal property, or have GSA or another executive agency conduct the sale on behalf of your agency in accordance with part 102-38 of this chapter. You must inform GSA at the time the property is reported as excess if you do not want GSA to conduct the sale for you.
+
+(d) If a written determination is made that the property has no commercial value or the estimated cost of its continued care and handling would exceed the estimated proceeds from its sale, you may dispose of the property by abandonment or destruction, or donate it to public bodies.
+
+[65 FR 31218, May 16, 2000, as amended at 71 FR 53571, Sept. 12, 2006]

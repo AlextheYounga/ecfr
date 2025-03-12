@@ -1,0 +1,3 @@
+##### § 105-55.021 Enforcement policy. #####
+
+Pursuant to this section, the General Services Administration may compromise statutory penalties, forfeitures, or claims established as an aid to enforcement and to compel compliance, if the Agency's enforcement policy in terms of deterrence and securing compliance, present and future, will be adequately served by the Agency's acceptance of the sum to be agreed upon.

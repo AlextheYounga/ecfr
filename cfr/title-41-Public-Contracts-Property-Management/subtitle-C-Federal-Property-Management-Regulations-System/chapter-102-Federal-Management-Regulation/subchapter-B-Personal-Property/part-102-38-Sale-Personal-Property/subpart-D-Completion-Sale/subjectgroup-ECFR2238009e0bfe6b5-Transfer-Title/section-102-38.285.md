@@ -1,0 +1,5 @@
+##### § 102-38.285 How do we transfer title from the Government to the buyer for personal property sold? #####
+
+(a) Generally, no specific form or format is designated for transferring title from the Government to the buyer for personal property sold. For internal control and accountability, you must execute a bill of sale or another document as evidence of transfer of title or any other interest in Government personal property. You must also ensure that the buyer submits any additional certifications to comply with specific conditions and restrictions of the sale.
+
+(b) For sales of vehicles, you must issue to the purchaser a Standard Form (SF) 97, the United States Government Certificate to Obtain Title to a Vehicle, or a SF 97A, the United States Government Certificate to Obtain a Non-Repairable or Salvage Certificate, as appropriate, as evidence of transfer of title. For information on how to obtain these forms, see § 102-2.135 of this chapter.

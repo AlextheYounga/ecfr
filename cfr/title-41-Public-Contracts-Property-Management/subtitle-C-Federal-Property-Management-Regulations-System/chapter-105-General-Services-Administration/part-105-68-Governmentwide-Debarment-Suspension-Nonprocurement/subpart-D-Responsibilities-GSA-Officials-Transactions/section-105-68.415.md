@@ -1,0 +1,5 @@
+##### § 105-68.415 What must I do if a Federal agency excludes the participant or a principal after I enter into a covered transaction? #####
+
+(a) You as an agency official may continue covered transactions with an excluded person, or under which an excluded person is a principal, if the transactions were in existence when the person was excluded. You are not required to continue the transactions, however, and you may consider termination. You should make a decision about whether to terminate and the type of termination action, if any, only after a thorough review to ensure that the action is proper.
+
+(b) You may not renew or extend covered transactions (other than no-cost time extensions) with any excluded person, or under which an excluded person is a principal, unless you obtain an exception under § 105-68.120.

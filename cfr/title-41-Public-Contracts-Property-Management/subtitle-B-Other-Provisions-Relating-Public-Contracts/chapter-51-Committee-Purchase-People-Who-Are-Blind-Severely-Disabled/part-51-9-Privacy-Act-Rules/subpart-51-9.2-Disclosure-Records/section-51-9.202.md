@@ -1,0 +1,7 @@
+##### § 51-9.202 Accounting of disclosures. #####
+
+(a) Except for disclosures made pursuant to paragraphs (a) and (b) of § 51-9.201 of this part, an accurate accounting of each disclosure will be made and retained for five years after the disclosure or for the life of the record, whichever is longer. The accounting will include the date, nature, and purpose of each disclosure, and the name and address of the person or agency to whom the disclosure is made.
+
+(b) The accounting will be recorded and maintained in any manner the Executive Director determines is satisfactory for the purposes of constructing a listing of all disclosures, and for providing a cross reference to the justification or basis upon which the disclosure was made, including written documentation required when records are released for statistical or law enforcement purposes and any written consents provided by the individual.
+
+(c) Except for disclosures made to agencies or instrumentalities in law enforcement activities in accordance with § 51-9.201(e)(2) or for disclosures made from systems exempted from this requirement of the Act as outlined in subpart 51-9.6 of this part, the accounting of disclosures will be made available to the individual upon request. Procedures for requesting access to the accounting are outlined in subpart 51-9.3 of this part.

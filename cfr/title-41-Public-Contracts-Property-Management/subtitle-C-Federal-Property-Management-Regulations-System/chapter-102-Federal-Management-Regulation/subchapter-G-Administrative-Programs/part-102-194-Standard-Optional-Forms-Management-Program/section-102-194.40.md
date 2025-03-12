@@ -1,0 +1,3 @@
+##### § 102-194.40 For what Standard or Optional forms should an electronic version not be made available? #####
+
+All forms should include an electronic version unless it is not practicable to do so. Areas where it may not be practicable include where the form has construction features for specialized use (e.g., labels), to prevent unauthorized use or could otherwise risk a security violation, (e.g., classification cover sheets), or require unusual production costs (e.g., specialized paper or envelopes). Such forms can be made available as an electronic form only if the originating agency approves an exception to do so. (See the Standard and Optional Forms Procedural Handbook for procedures and a list of these forms).

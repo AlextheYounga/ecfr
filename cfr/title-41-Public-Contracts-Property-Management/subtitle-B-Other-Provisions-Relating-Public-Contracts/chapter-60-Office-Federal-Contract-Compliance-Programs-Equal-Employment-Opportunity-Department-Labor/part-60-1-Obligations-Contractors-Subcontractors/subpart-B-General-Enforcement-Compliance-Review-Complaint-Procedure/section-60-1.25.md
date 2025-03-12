@@ -1,0 +1,5 @@
+##### § 60-1.25 Assumption of jurisdiction by or referrals to the Deputy Assistant Secretary. #####
+
+The Deputy Assistant Secretary may inquire into the status of any matter pending before an agency. Where he considers it necessary or appropriate to the achievement of the purposes of the order, he may assume jurisdiction over the matter and proceed as provided herein. Whenever the Deputy Assistant Secretary assumes jurisdiction over any matter, or an agency refers any matter he may conduct, or have conducted, such investigations, hold such hearings, make such findings, issue such recommendations and directives, order such sanctions and penalties, and take such other action as may be necessary or appropriate to achieve the purposes of the order. The Deputy Assistant Secretary shall promptly notify the agency of any corrective action to be taken or any sanctions to be taken or any sanction to be imposed by the agency. The agency shall take such action, and report the results thereof to the Deputy Assistant Secretary within the time specified.
+
+[43 FR 49240, Oct. 20, 1978, as amended at 62 FR 66971, Dec. 22, 1997]

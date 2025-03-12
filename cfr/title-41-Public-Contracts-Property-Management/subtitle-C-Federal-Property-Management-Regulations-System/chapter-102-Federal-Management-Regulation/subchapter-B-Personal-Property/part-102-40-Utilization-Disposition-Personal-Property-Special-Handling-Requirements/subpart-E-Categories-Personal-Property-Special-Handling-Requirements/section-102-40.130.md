@@ -1,0 +1,3 @@
+##### § 102-40.130 What categories of personal property require special handling? #####
+
+Many categories of personal property have special handling requirements in compliance with applicable Federal, state, and local regulations and ordinances for their handling, transportation, storage, disposal and use. See appendix A to this part for a listing of Federal Supply Classifications (FSCs) containing predominately hazardous items and appendix B to this part for a listing of FSCs containing a significant number of hazardous items. See §§ 102-40.130 through 102-40.235 for special handling instructions for some categories of property for which Federal property managers are likely to have responsibility.

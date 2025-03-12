@@ -1,0 +1,3 @@
+##### § 302-8.100 What is the policy for extended storage of HHG during assignment to isolated locations in CONUS? #####
+
+Extended storage of HHG belonging to an employee transferred or a new appointee assigned to an official station at an isolated location in CONUS may be allowed only when it is clearly justified under the conditions in this part and is not primarily for the convenience, or at the request of, the employee or the new appointee.

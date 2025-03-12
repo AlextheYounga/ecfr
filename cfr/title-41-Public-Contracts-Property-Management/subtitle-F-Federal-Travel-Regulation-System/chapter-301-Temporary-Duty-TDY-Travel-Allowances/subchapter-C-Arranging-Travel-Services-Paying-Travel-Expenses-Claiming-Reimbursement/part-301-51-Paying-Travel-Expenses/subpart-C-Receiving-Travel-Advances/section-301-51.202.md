@@ -1,0 +1,3 @@
+##### § 301-51.202 When must I account for my advance? #####
+
+You must file a travel claim which accounts for your advance after completion of your assignment, in accordance with your agency's policy. If you are in a continuous travel status (e.g., an auditor or inspector) or if you submit periodic reimbursement vouchers on an individual trip authorization, your agency may reimburse you the full amount of your travel expenses without any deduction of your advance until such time as you file a final voucher. If the amount advanced is less than the amount of the voucher on which it is deducted, you will be reimbursed the net amount. If the advance exceeds the reimbursable amount, you must immediately refund the excess.

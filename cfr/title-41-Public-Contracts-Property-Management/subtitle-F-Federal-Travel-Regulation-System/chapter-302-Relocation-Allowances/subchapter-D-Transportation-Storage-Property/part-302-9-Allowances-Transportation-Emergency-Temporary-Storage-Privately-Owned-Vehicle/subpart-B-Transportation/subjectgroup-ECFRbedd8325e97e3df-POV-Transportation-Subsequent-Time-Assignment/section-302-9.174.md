@@ -1,0 +1,3 @@
+##### § 302-9.174 What is the “authorized point of origin” when I transport a POV, including a replacement POV, to my post of duty subsequent to the time of my assignment to that post of duty? #####
+
+Your agency determines the authorized point of origin within the United States when you transport a POV, including a replacement POV, to your post of duty subsequent to the time of your assignment to that post of duty.

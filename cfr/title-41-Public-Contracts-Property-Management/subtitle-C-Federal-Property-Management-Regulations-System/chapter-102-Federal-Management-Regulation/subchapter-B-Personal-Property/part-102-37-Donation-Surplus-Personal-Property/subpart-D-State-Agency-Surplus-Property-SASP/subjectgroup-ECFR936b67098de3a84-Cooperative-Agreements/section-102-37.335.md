@@ -1,0 +1,3 @@
+##### § 102-37.335 May a SASP enter into a cooperative agreement with another SASP? #####
+
+Yes, with GSA's concurrence and where authorized by State law, a SASP may enter into an agreement with an adjacent State to act as its agent and authorized representative in disposing of surplus Federal property. Interstate cooperative agreements may be considered when donees, because of their geographic proximity to the property distribution centers of the adjoining State, could be more efficiently and economically serviced by surplus property facilities in the adjacent State. You and the other SASP must agree to the payment or reimbursement of service charges by the donee and you also must agree to the requirements of § 102-37.205(e).

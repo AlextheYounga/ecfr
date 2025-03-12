@@ -1,0 +1,3 @@
+##### § 302-9.142 What will I be reimbursed if I transport a POV from a point of origin that is different from the authorized point of origin? #####
+
+If you transport a POV from a point of origin that is different from the authorized point of origin, you will be reimbursed the transportation costs you incur, not to exceed the cost of transporting your POV from your authorized point of origin to your post of duty.

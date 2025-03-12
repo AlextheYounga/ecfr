@@ -1,0 +1,3 @@
+##### § 302-17.45 What if I incur income tax liability to the Commonwealth of the Northern Mariana Islands or any other territory or possession of the United States? #####
+
+If you are relocated to, from, or within the Commonwealth of the Northern Mariana Islands or any territory or possession of the United States that is covered by the definition in § 302-17.1, your agency will have to determine the tax rules of that locality and then include those taxes in your RITA calculation, as applicable.

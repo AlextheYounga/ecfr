@@ -1,0 +1,3 @@
+##### § 102-36.195 What type of excess personal property may we furnish to our project grantees? #####
+
+You may furnish to your project grantees any property, except for consumable items, determined to be necessary and usable for the purpose of the grant. Consumable items are generally not transferable to project grantees. GSA may approve transfers of excess consumable items when adequate justification for the transfer accompanies such requests. For the purpose of this section, “consumable items” are items which are intended for one-time use and are actually consumed in that one time; e.g., drugs, medicines, surgical dressings, cleaning and preserving materials, and fuels.

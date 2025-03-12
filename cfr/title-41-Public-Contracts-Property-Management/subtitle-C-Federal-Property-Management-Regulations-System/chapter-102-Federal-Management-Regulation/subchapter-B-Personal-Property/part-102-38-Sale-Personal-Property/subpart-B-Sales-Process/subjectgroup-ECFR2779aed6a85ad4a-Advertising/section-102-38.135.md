@@ -1,0 +1,3 @@
+##### § 102-38.135 What constitutes a public advertisement? #####
+
+Announcement of the sale using any media that reaches the public and is appropriate to the type and value of personal property to be sold is considered public advertising. You may also distribute mailings or flyers of your offer to sell to prospective purchasers on mailing lists. Public notice should be made far enough in advance of the sale to ensure adequate notice, and to target your advertising efforts toward the market that will provide the best return at the lowest cost.

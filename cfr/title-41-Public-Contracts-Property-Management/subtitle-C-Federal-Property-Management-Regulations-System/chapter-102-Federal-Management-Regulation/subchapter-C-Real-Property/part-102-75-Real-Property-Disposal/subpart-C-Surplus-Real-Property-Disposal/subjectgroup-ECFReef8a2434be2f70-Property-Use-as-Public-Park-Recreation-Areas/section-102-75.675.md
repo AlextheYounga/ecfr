@@ -1,0 +1,3 @@
+##### § 102-75.675 What responsibilities does the grantee or recipient of the property have in accomplishing or completing the transfer? #####
+
+Where appropriate, the disposal agency may make the assignment subject to DOI requiring the grantee or recipient to bear the cost of any out-of-pocket expenses necessary to accomplish the transfer, such as for surveys, fencing, security of the remaining property, or otherwise.

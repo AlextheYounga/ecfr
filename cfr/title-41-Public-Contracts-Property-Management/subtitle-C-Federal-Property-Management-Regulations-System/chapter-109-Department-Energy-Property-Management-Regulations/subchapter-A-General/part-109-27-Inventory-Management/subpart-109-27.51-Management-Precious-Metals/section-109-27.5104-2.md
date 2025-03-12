@@ -1,0 +1,3 @@
+##### § 109-27.5104-2 Physical protection and storage. #####
+
+Precious metals shall be afforded exceptional physical protection from time of receipt until disposition. Precious metals not in use shall be stored in a noncombustible combination locked repository with access limited to the designated custodian and an alternate. When there is a change in custodian or alternate having access to the repository, the combination shall be changed immediately.

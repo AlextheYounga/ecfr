@@ -1,0 +1,3 @@
+##### § 102-118.350 What agency has the authority to grant an exemption from the transportation prepayment audit requirement? #####
+
+Only the Administrator of General Services or their designee has the authority to grant an exemption for a specific time period from the prepayment audit requirement. The Administrator may exempt bills, a particular mode or modes of transportation, or an agency or subagency from a prepayment audit and verification and in lieu thereof require a postpayment audit, based on cost effectiveness, public interest, or other factors the Administrator considers appropriate (31 U.S.C. 3726(a)(2)).

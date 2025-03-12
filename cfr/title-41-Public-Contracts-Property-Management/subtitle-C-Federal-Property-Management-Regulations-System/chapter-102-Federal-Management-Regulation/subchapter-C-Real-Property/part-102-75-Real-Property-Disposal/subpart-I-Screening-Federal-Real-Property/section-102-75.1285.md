@@ -1,0 +1,3 @@
+##### § 102-75.1285 How does GSA transfer excess real property to the requesting agency? #####
+
+GSA transfers the property via letter assigning “custody and accountability” for the property to the requesting agency. Title to the property is held in the name of the United States; however, the requesting agency becomes the landholding agency and is responsible for providing and funding protection and maintenance for the property.

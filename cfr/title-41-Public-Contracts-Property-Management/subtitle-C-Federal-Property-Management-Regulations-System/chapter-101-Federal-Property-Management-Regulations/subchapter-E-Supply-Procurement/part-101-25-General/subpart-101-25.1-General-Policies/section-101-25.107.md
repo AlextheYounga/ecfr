@@ -1,0 +1,13 @@
+##### § 101-25.107 Guidelines for requisitioning and proper use of consumable or low cost items. #####
+
+Consumable and low value items in inventory (cupboard stocks are not considered inventory) are subject to accounting and inventory record controls in accordance with applicable provisions of law and the principles and standards prescribed by the General Accounting Office, 2 GAO 12.5. Normally, however, the systems of control for such property cease at the time of issuance from a warehouse or storeroom to the consumer.
+
+(a) The guidelines set forth in this § 101-25.107 are considered minimum to assure proper use of consumable or low cost items by individuals, subsequent to issue from accountable records and termination of formal accountability. Consumable items, for the purpose of this section, are considered to include those items actually consumed in use (e.g., pads and pencils) and those items required in performance of duties but for which, primarily by reason of the low value involved, no formal accountability is maintained after issue, and are generally referred to as “expendable.”
+
+(b) Approval of requisitions for replenishment of cupboard storeroom stocks should be restricted to officials at a responsible supervisory level to ensure that supply requirements are justified on the basis of essentiality and quantity. Where requisitions are not required, such as in obtaining items from GSA customer supply centers, informal “shopping lists” should be approved at the same level.
+
+(c) Adequate safeguards and controls should be established to assure that issues of expendable supplies are made for official use only. In appropriate situations, this will include identification of individuals to whom expendable supplies have been issued. Experience has indicated, also, that certain items of expendables should not be displayed either at seasonal periods of the year or on a permanent basis.
+
+(d) The items listed below have from experience proven to be personally attractive and particularly susceptible to being used for other than official duties. Agencies should give special attention to these and any other consumable or low cost items when issues are excessive when compared with normal program needs.
+
+Attache cases, Ball point pens and refills, Brief cases, Binders, Carbon paper, Dictionaries, Felt tip markers, Felt tip pens and refills, File folders, Letterex, Letter openers, Pads (paper), Paper clips, Pencils, Pencil sharpeners, Portfolios (leather, plastic, and writing pads), Rubber bands, Rulers, Scissors, Spray paint and lacquer, Staplers, Staples, Staple removers, Tape dispensers, Transparent tape, Typewriter ribbons.[32 FR 4413, Mar. 23, 1967, as amended at 42 FR 1031, Jan. 5, 1977; 51 FR 13498, Apr. 21, 1986]

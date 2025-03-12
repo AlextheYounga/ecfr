@@ -1,0 +1,3 @@
+##### § 101-39.104 Notice of establishment of a fleet management system. #####
+
+GSA will inform each affected agency of the time schedule for establishment of a fleet management system and of the agency's responsibility for transferring personnel, motor vehicles, maintenance, storage and service facilities, and other involved property. Arrangements will be made for discussions at the local level between the agencies concerned and the agency responsible for operating the fleet management system in order to work out any problems pertaining to establishing and operating fleet management systems.

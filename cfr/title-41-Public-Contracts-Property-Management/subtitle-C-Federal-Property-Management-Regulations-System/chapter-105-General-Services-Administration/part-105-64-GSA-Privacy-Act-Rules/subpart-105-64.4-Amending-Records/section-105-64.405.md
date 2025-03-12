@@ -1,0 +1,3 @@
+##### § 105-64.405 Can I appeal a denial to amend a record? #####
+
+You may file an appeal within 30 workdays of a denial to amend your record by writing to the: GSA Privacy Act Officer (CIB), General Services Administration, 1800 F Street, NW., Washington, DC 20405. Mark both the envelope and the appeal letter “Privacy Act Amendment Appeal.” Appeals to amend records in a GSA employee's official personnel file will be sent to the Office of Personnel Management, Washington, DC 20415.

@@ -1,0 +1,3 @@
+##### § 60-40.4 Information disclosure of which is prohibited by law. #####
+
+The Standard Form 100 (EEO-1) which is submitted by contractors to the OFCCP or a Joint Reporting Committee servicing both the OFCCP and the EEOC shall be disclosed pending further instructions from the Director. The statutory prohibition on disclosure set forth in section 709(e) of the Civil Rights Act of 1964 is limited by the terms of that section to information obtained pursuant to the authority of title VII of that Act and its disclosure by employees of the EEOC.

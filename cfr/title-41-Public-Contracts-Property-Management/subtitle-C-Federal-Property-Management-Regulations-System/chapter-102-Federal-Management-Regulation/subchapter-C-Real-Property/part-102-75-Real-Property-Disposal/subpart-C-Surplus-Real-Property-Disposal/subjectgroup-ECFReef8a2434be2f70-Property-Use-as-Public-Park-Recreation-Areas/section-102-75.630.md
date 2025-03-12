@@ -1,0 +1,3 @@
+##### § 102-75.630 Who must disposal agencies notify that real property for public park or recreation purposes is available? #####
+
+The disposal agency must notify established State, regional, or metropolitan clearinghouses and eligible public agencies that surplus property is available for use as a public park or recreation area. The disposal agency must transmit the landholding agency's Report of Excess Real Property (Standard Form 118, with accompanying schedules) with the copy of each notice sent to a regional or field office of the National Park Service (NPS) of the Department of the Interior (DOI).

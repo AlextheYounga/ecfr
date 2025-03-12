@@ -1,0 +1,3 @@
+##### § 102-80.140 What is meant by “room of origin”? #####
+
+Room of origin means an area of a building where a fire can be expected to start. Typically, the size of the area will be determined by the walls, floor, and ceiling surrounding the space. However, this could lead to unacceptably large areas in the case of open plan office space or similar arrangements. Therefore, the maximum allowable fire area should be limited to 200 m2 (2000 ft2), including intervening spaces. In the case of residential units, an entire apartment occupied by one tenant could be considered as the room of origin to the extent it did not exceed the 200 m2 (2000 ft2) limitation.

@@ -1,0 +1,5 @@
+##### § 102-75.75 What is the most important consideration in evaluating a proposed transfer of excess real property? #####
+
+In every case of a proposed transfer of excess real property, the most important consideration is the validity and appropriateness of the requirement upon which the proposal is based. Also, a proposed transfer must not establish a new program that has never been reflected in any previous budget submission or congressional action. Additionally, a proposed transfer must not substantially increase the level of an agency's existing programs beyond that which has been contemplated in the President's budget or by the Congress.
+
+(Note: See Subpart I—Screening of Excess Federal Real Property (§§ 102-75.1220 through 102-75.1290) for information on screening and transfer requests.)

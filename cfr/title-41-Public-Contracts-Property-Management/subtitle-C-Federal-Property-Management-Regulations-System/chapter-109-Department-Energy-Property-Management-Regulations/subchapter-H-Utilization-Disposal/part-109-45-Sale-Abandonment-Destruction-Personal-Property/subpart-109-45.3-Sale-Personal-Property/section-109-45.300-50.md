@@ -1,0 +1,3 @@
+##### § 109-45.300-50 Sales by designated contractors. #####
+
+Sales of surplus contractor inventory will be conducted by designated contractors when Program Secretarial Officer (PSO) determine that it is in the best interest of the Government. OPMOs and appropriate program officials shall perform sufficient oversight over these sales to ensure that personal property requiring special handling or program office certification is sold in accordance with regulatory requirements.

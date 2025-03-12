@@ -1,0 +1,3 @@
+##### § 101-6.210-3 Investigations. #####
+
+The responsible GSA official or his designee will make a prompt investigation whenever a compliance review, report, complaint, or any other information indicates a possible failure to comply with this subpart 101-6.2. The investigation should include, where appropriate, a review of the pertinent practices and policies of the recipient, the circumstances under which the possible noncompliance with this subpart occurred, and other factors relevant to a determination as to whether the recipient has failed to comply with this subpart.

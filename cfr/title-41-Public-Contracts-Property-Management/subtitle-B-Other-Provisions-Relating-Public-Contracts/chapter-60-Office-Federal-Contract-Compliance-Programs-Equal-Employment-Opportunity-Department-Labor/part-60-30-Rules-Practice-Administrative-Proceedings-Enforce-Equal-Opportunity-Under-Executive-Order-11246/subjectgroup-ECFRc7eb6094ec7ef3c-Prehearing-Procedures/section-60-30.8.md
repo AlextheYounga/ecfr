@@ -1,0 +1,5 @@
+##### § 60-30.8 Motions; disposition of motions. #####
+
+(a) *Motions.* Motions shall state the relief sought, the authority relied upon and the facts alleged, and shall be filed with the Administrative Law Judge. If made before or after the hearing itself, the motions shall be in writing. If made at the hearing, motions may be stated orally; but the Administrative Law Judge may require that they be reduced to writing and filed and served on all parties in the same manner as a formal motion. Unless otherwise ordered by the Administrative Law Judge, written motions shall be accompanied by a supporting memorandum. Within 10 days after a written motion is served, or such other time period as may be fixed, any party may file a response to a motion.
+
+(b) *Disposition of motions.* The Administrative Law Judge may not grant a written motion prior to expiration of the time for filing responses thereto, except upon consent of the parties or following a hearing, but may overrule or deny such motion without awaiting response: *Provided,* That prehearing conferences, hearings, and decisions need not be delayed pending disposition of motions.

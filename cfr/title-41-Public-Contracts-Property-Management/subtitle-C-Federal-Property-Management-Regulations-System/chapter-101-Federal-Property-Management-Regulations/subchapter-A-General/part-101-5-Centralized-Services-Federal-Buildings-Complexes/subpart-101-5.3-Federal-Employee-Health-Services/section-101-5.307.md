@@ -1,0 +1,5 @@
+##### § 101-5.307 Public Health Service. #####
+
+(a) The only authorized contact point for assistance of and consultation with the Public Health Service is the Federal Employee Health Programs, Division of Hospitals, Public Health Service, Washington, DC 20201. Other Federal agencies may be designated by the GSA Regional Administrator, pursuant to § 101-5.105(b) to operate occupational health services. Designated agencies should contact the Public Health Service directly on all matters dealing with the establishment and operation of these services.
+
+(b) Public Health Service should be consulted by the designated agency on such matters as types, amounts, and approximate cost of necessary equipment; the scope of the services to be provided if it is affected by the amount of space and number of building occupants; types and amounts of supplies, materials, medicines, etc., which should be stocked; and the approximate cost of personnel staffing in cases where this method of operation is chosen, etc. PHS should also be asked to develop and monitor standards under which each health unit would be operated.

@@ -1,0 +1,3 @@
+##### § 102-192.10 What authority governs this part? #####
+
+This part is governed by section 2 of Public Law 94-575, the Federal Records Management Amendments of 1976 (44 U.S.C. 2901-2904, as amended), that requires the Administrator of General Services to provide guidance and assistance to Federal agencies to ensure economical and effective records management and defines the processing of mail by Federal agencies as a records management activity.

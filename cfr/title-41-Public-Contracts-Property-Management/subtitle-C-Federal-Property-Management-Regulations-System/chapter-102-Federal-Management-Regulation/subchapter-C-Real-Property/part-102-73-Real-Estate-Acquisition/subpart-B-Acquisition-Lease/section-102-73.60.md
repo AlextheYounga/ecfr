@@ -1,0 +1,3 @@
+##### § 102-73.60 With whom may Federal agencies enter into lease agreements? #####
+
+Federal agencies, upon approval from GSA, may enter into lease agreements with any person, partnership, corporation, or other public or private entity, provided that such lease agreements do not bind the Government for periods in excess of twenty years (40 U.S.C. 585(a)). Federal agencies may not enter into lease agreements with persons who are barred from contracting with the Federal Government (e.g., Members of Congress or debarred or suspended contractors).

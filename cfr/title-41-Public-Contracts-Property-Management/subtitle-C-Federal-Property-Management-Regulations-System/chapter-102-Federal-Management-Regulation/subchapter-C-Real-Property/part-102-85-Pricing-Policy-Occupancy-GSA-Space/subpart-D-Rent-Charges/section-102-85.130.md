@@ -1,0 +1,3 @@
+##### § 102-85.130 How are exemptions from Rent granted? #####
+
+Exemptions from Rent are rare. However, the Administrator of General Services may exempt any GSA customer from Rent after a determination that application of Rent would not be feasible or practical. Customer agency requests for exemptions must be addressed to the Administrator of General Services and submitted in accordance with GSA Order PBS 4210.1, “Rent Exemption Procedures,” dated December 20, 1991, or in accordance with any superseding GSA order. A copy of the order may be obtained from the Office of Portfolio Management, General Services Administration, 1800 F Street, NW., Washington, DC 20405.

@@ -1,0 +1,3 @@
+##### § 302-14.2 What is the purpose of a home marketing incentive payment? #####
+
+The purpose of a home marketing incentive payment is to reduce the Government's relocation costs by encouraging transferred employees to participate in their employing agency's homesale program to independently and aggressively market, and find a bona fide buyer for their residence. This significantly reduces the fees/expenses their agencies must pay to relocation services companies and effectively lowers the cost of such programs.

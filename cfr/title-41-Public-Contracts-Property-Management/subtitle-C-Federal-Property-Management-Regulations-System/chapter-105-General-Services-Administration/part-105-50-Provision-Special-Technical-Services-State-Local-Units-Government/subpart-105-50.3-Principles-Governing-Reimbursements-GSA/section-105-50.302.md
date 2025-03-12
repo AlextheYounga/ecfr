@@ -1,0 +1,3 @@
+##### § 105-50.302 Special fee schedules. #####
+
+Where there is no established schedule of fees for types of service which are ordinarily reimbursed on a fee basis, such schedules may be developed and promulgated in conjunction with the Office of Administration. The fees so established shall cover all direct costs, such as salaries of personnel involved plus personnel benefits, travel, and other related expenses and all indirect costs such as management, supervisory, and staff support expenses determined or estimated from the best available records in GSA. Periodically, fees shall be reviewed for adequacy of recovery and adjusted as necessary.

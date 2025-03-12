@@ -1,0 +1,5 @@
+##### § 101-26.607 Billings. #####
+
+Unless other arrangements have been made between the Defense Logistics Agency and the requisitioning activity, billings for sales will be rendered at least monthly on Standard Form 1080, Voucher for Transfers Between Appropriations and/or Funds, supported by a listing of documents including identification of requisitions and related cards reflecting data pertaining to the gross sale, the retail loss allowance, and any credits for adjustments applicable to prior billings. In addition to these charges, an accessorial charge will be made on shipments destined for overseas to cover expenses incident to overseas packing, handling, and transportation. The Defense supply centers shall be provided with a continental U.S. address for payment of bills for overseas shipments.
+
+[42 FR 28750, Nov. 11, 1977]

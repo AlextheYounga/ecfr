@@ -1,0 +1,3 @@
+##### § 102-41.180 May we retain the proceeds from the sale of unclaimed personal property? #####
+
+No, you must deposit proceeds from the sale of unclaimed personal property in a special account to be maintained for a period of 3 years pending a possible claim by the former owner. After the 3-year period, you must deposit the funds in the U.S. Treasury as miscellaneous receipts or in such other agency accounts when specifically authorized by statute.

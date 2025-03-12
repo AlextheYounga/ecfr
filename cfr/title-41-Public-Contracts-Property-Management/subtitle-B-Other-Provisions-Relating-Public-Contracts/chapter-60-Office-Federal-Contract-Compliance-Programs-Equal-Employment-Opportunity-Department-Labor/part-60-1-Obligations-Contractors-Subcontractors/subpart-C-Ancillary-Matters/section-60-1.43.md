@@ -1,0 +1,5 @@
+##### § 60-1.43 Access to records and site of employment. #####
+
+Each contractor shall permit access during normal business hours to its premises for the purpose of conducting on-site compliance evaluations and complaint investigations. Each contractor shall permit the inspecting and copying of such books and accounts and records, including computerized records, and other material as may be relevant to the matter under investigation and pertinent to compliance with the Order, and the rules and regulations promulgated pursuant thereto by the agency, or the Deputy Assistant Secretary. Information obtained in this manner shall be used only in connection with the administration of the Order, the Civil Rights Act of 1964 (as amended), and any other law that is or may be enforced in whole or in part by OFCCP.
+
+[62 FR 44192, Aug. 19, 1997]

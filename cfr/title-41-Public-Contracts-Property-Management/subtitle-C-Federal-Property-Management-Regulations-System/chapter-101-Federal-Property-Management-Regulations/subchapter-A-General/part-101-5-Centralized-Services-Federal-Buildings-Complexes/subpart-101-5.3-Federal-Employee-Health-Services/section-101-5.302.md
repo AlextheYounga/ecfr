@@ -1,0 +1,3 @@
+##### § 101-5.302 Objective. #####
+
+It is the objective of GSA to provide or arrange for appropriate health service programs in all Government-owned and leased buildings, or groups of adjoining buildings, which it manages where the building population warrants, where other Federal medical facilities are not available, and, where the number of the occupying agencies indicating a willingness to participate in such a program on a reimbursable basis makes it financially feasible.
