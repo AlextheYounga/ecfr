@@ -1,5 +1,7 @@
 ##### § 1028.101 To what does this policy apply? #####
 
+Link to an amendment published at 83 FR 2891, Jan. 22, 2018.
+
 (a) Except as provided in paragraph (b) of this section, this policy applies to all research involving human subjects conducted, supported or otherwise subject to regulation by any federal department or agency which takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the federal government outside the United States.
 
 (1) Research that is conducted or supported by a federal department or agency, whether or not it is regulated as defined in § 1028.102(e), must comply with all sections of this policy.

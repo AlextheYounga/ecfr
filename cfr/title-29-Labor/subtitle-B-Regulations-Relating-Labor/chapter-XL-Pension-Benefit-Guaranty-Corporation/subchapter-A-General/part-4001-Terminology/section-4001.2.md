@@ -1,7 +1,5 @@
 ##### § 4001.2 Definitions. #####
 
-Link to an amendment published at 82 FR 60817, Dec. 22, 2017.
-
 For purposes of this chapter (unless otherwise indicated or required by the context):
 
 *Affected party* means, with respect to a plan -
@@ -50,13 +48,9 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Distribution date* means:
 
-(1) Except as provided in paragraph (2) -
+(1) For benefits provided through the purchase of irrevocable commitments, the date on which the obligation to provide the benefits passes from the plan to the insurer; and
 
-(i) For benefits provided through the purchase of irrevocable commitments, the date on which the obligation to provide the benefits passes from the plan to the insurer; and
-
-(ii) For benefits provided other than through the purchase of irrevocable commitments, the date on which the benefits are delivered to the participant or beneficiary (or to another plan or benefit arrangement or other recipient authorized by the participant or beneficiary in accordance with applicable law and regulations) personally or by deposit with a mail or courier service (as evidenced by a postmark or written receipt); or
-
-(2) The deemed distribution date (as defined in § 4050.2) in the case of a designated benefit paid to the PBGC in accordance with part 4050 of this chapter (dealing with missing participants).
+(2) For benefits provided other than through the purchase of irrevocable commitments, the date on which the benefits are delivered to the participant or beneficiary (or to another plan or benefit arrangement or other recipient authorized by the participant or beneficiary in accordance with applicable law and regulations) personally or by deposit with a mail or courier service (as evidenced by a postmark or written receipt); or
 
 *Earliest retirement age at valuation date* means the later of: a participant's age on his or her birthday nearest to the valuation date, or the participant's attained age as of his or her Earliest PBGC Retirement Date (as determined under § 4022.10 of this chapter).
 
@@ -146,4 +140,4 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Voluntary employee contributions* means amounts contributed by an employee to a plan, pursuant to the provisions of the plan, that are not mandatory employee contributions.
 
-[61 FR 34010, July 1, 1996, as amended at 61 FR 63989, Dec. 2, 1996; 62 FR 35342, July 1, 1997; 62 FR 60428, Nov. 7, 1997; 62 FR 67728, Dec. 30, 1997; 73 FR 79635, Dec. 30, 2008; 74 FR 11029, Mar. 16, 2009; 74 FR 27081, June 8, 2009; 74 FR 59095, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 70094, Nov. 25, 2014; 80 FR 55002, Sept. 11, 2015]
+[61 FR 34010, July 1, 1996, as amended at 61 FR 63989, Dec. 2, 1996; 62 FR 35342, July 1, 1997; 62 FR 60428, Nov. 7, 1997; 62 FR 67728, Dec. 30, 1997; 73 FR 79635, Dec. 30, 2008; 74 FR 11029, Mar. 16, 2009; 74 FR 27081, June 8, 2009; 74 FR 59095, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 70094, Nov. 25, 2014; 80 FR 55002, Sept. 11, 2015; 82 FR 60817, Dec. 22, 2017]

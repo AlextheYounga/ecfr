@@ -1,7 +1,5 @@
 ##### § 425.610 Calculation of shared savings and losses under Track 3. #####
 
-Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
-
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602. In order to qualify for a shared savings payment under Track 3, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.
@@ -74,4 +72,18 @@ Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
 
 (3) If an ACO has shared losses, the ACO must make payment in full to CMS within 90 days of receipt of notification.
 
-[80 FR 32842, June 9, 2015, as amended at 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017]Editorial Note:At 81 FR 38017, June 10, 2016, in § 425.610, paragraph (a)(2)(ii), the phrase “adjust for changes” was removed, and in its place the phrase “adjust the benchmark for changes” was added, however, the phrase “adjust for changes” does not appear in this paragraph, so the amendment could not be incorporated.
+(i) *Extreme and uncontrollable circumstances.* For performance year 2017, the following adjustment is made in calculating the amount of shared losses, after the application of the shared loss rate in paragraph (f) of this section and the loss recoupment limit in paragraph (g) of this section.
+
+(1) CMS determines the percentage of the ACO's performance year 2017 assigned beneficiary population affected by an extreme and uncontrollable circumstance.
+
+(2) CMS reduces the amount of the ACO's shared losses by an amount determined by multiplying the shared losses by the percentage of the total months in the performance year affected by an extreme and uncontrollable circumstance, and the percentage of the ACO's assigned beneficiaries who reside in an area affected by an extreme and uncontrollable circumstance.
+
+(3) CMS applies determinations made under the Quality Payment Program with respect to -
+
+(i) Whether an extreme and uncontrollable circumstance has occurred; and
+
+(ii) The affected areas.
+
+(4) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred and the percentage of the ACO's assigned beneficiaries residing in the affected areas.
+
+[80 FR 32842, June 9, 2015, as amended at 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017]Editorial Note:At 81 FR 38017, June 10, 2016, in § 425.610, paragraph (a)(2)(ii), the phrase “adjust for changes” was removed, and in its place the phrase “adjust the benchmark for changes” was added, however, the phrase “adjust for changes” does not appear in this paragraph, so the amendment could not be incorporated.

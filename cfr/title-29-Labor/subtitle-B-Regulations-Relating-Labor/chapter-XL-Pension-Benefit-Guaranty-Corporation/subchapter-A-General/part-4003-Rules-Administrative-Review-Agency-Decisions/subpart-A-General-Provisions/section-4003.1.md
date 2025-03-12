@@ -1,7 +1,5 @@
 ##### § 4003.1 Purpose and scope. #####
 
-Link to an amendment published at 82 FR 60818, Dec. 22, 2017.
-
 (a) *Purpose.* This part sets forth the rules governing the issuance of all initial determinations by the PBGC on cases pending before it involving the matters set forth in paragraph (b) of this section and the procedures for requesting and obtaining administrative review by the PBGC of those determinations. Subpart A contains general provisions. Subpart B sets forth rules governing the issuance of all initial determinations of the PBGC on matters covered by this part. Subpart C establishes procedures governing the reconsideration by the PBGC of initial determinations relating to the matters set forth in paragraphs (b)(1) through (b)(5). Subpart D establishes procedures governing administrative appeals from initial determinations relating to the matters set forth in paragraphs (b)(6) through (b)(11).
 
 (b) *Scope.* This part applies to the following determinations made by the PBGC in cases pending before it and to the review of those determinations:
@@ -32,11 +30,7 @@ Link to an amendment published at 82 FR 60818, Dec. 22, 2017.
 
 (10) Determinations of the amount of liability under section 4062(b)(1), section 4063, or section 4064 of ERISA;
 
-(11) Determinations -
-
-(i) That the amount of a participant's or beneficiary's benefit under section 4050(a)(3) of ERISA has been correctly computed based on the designated benefit paid to the PBGC under section 4050(b)(2) of ERISA, or
-
-(ii) That the designated benefit is correct, but only to the extent that the benefit to be paid does not exceed the participant's or beneficiary's guaranteed benefit.
+(11) Determinations with respect to benefits payable by PBGC under section 4050 of ERISA and part 4050 of this chapter.
 
 (c) *Matters not covered by this part.* Nothing in this part limits -
 
@@ -44,4 +38,4 @@ Link to an amendment published at 82 FR 60818, Dec. 22, 2017.
 
 (2) The procedure that the PBGC may utilize in reviewing any determination to which this part does not apply.
 
-[61 FR 34012, July 1, 1996, as amended at 73 FR 38120, July 3, 2008; 77 FR 22489, Apr. 16, 2012]
+[61 FR 34012, July 1, 1996, as amended at 73 FR 38120, July 3, 2008; 77 FR 22489, Apr. 16, 2012; 82 FR 60818, Dec. 22, 2017]

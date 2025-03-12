@@ -1,7 +1,5 @@
 ##### § 425.502 Calculating the ACO quality performance score. #####
 
-Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
-
 (a) *Establishing a quality performance standard.* CMS designates the quality performance standard in each performance year. The quality performance standard is the overall standard the ACO must meet in order to be eligible for shared savings.
 
 (1) For the first performance year of an ACO's first agreement period, CMS defines the quality performance standard at the level of complete and accurate reporting for all quality measures.
@@ -76,4 +74,22 @@ Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
 
 (v) If an ACO renews its participation agreement for a subsequent agreement period, quality improvement will be measured based on a comparison between performance in the first year of the new agreement period and performance in the third year of the previous agreement period.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017]
+(vi) For performance year 2017, if an ACO receives the mean Shared Savings Program ACO quality score based on the extreme and uncontrollable circumstances policies in paragraph (f) of this section, the ACO is not eligible for bonus points awarded based on quality improvement.
+
+(f) *Extreme and uncontrollable circumstances.* For performance year 2017, including the applicable quality data reporting period for the performance year if the quality reporting period is not extended, in the event that CMS determines 20 percent or more of an ACO's assigned beneficiaries for the performance year, as determined under subpart E of this part, reside in an area identified under the Quality Payment Program as being affected by an extreme and uncontrollable circumstance or an ACO's legal entity is located in such an area, the following approach is used in calculating the quality score instead of the methodology specified in paragraphs (a) through (e) of this section.
+
+(1) The ACO's minimum quality performance score is set to equal the mean quality performance score for all Shared Savings Program ACOs for performance year 2017.
+
+(2) If the ACO completely and accurately reports all quality measures, CMS uses the higher of the ACO's quality performance score or the mean quality performance score for all Shared Savings Program ACOs.
+
+(3) CMS applies determinations made under the Quality Payment Program with respect to -
+
+(i) Whether an extreme and uncontrollable circumstance has occurred; and
+
+(ii) The affected areas.
+
+(4) An ACO's legal entity location is based on the address on file for the ACO in CMS' ACO application and management system.
+
+(5) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred, the percentage of the ACO's assigned beneficiaries residing in the affected areas, and the location of the ACO legal entity.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017]

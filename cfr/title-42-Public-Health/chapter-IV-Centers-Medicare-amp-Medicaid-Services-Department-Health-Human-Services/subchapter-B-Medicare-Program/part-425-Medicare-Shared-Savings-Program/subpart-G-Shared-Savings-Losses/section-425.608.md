@@ -2,7 +2,7 @@
 
 (a) For April 1 and July 1, 2012 starters, first year (defined as 21 and 18 months respectively) performance will be based on an optional interim payment calculation (based on the ACO's first 12 months of participation) and a final reconciliation at the end of the ACO's first performance year. Unless stated otherwise, for purposes of the interim payment calculation and first year reconciliation, the methodology under subpart E of this part for assigning beneficiaries and the methodology described in § 425.602 through § 425.606 for calculating shared savings and losses will apply, and quality performance will be assessed as described in subpart F of this part.
 
-(b) In the interim payment calculation, based on the ACO's first 12 months of performance -
+(b) In the interim payment calculation, based on the ACO's first 12 months of performance—
 
 (1) CMS compares the first 12 months of per capita beneficiary expenditures to a historical benchmark updated for the period which includes the ACO's first 12 months of participation, taking into account changes in health status and demographics; and
 
