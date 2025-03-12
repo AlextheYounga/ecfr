@@ -1,5 +1,7 @@
 ##### § 90.672 Unacceptable interference to non-cellular 800 MHz licensees from 800 MHz cellular systems or part 22 Cellular Radiotelephone systems, and within the 900 MHz Business/Industrial Land Transportation Pool. #####
 
+Link to an amendment published at 85 FR 43141, July 16, 2020.
+
 (a) *Definition.* Except as provided in 47 CFR 90.617(k), unacceptable interference to non-cellular licensees in the 800 MHz band from 800 MHz cellular systems or part 22 of this chapter, Cellular Radiotelephone systems and within the 900 MHz Business/Industrial Land Transportation (B/ILT) Pool will be deemed to occur when the below conditions are met:
 
 (1) A transceiver at a site at which interference is encountered:

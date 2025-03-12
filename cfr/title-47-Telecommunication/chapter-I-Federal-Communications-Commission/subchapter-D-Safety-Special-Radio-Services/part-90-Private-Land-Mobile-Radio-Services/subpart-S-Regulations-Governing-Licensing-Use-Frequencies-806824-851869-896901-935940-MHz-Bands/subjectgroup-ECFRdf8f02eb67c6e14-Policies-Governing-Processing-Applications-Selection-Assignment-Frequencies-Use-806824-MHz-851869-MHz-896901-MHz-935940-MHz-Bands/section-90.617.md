@@ -1,6 +1,6 @@
 ##### § 90.617 Frequencies in the 809.750-824/854.750-869 MHz, and 896-901/935-940 MHz bands available for trunked, conventional or cellular system use in non-border areas. #####
 
-Link to an amendment published at 85 FR 41417, July 10, 2020.
+Link to an amendment published at 85 FR 41417, July 10, 2020.Link to an amendment published at 85 FR 43140, July 16, 2020.
 
 The following channels will be available at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border (“non-border areas”).
 

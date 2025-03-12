@@ -1,12 +1,10 @@
 ##### 852.249-70 Termination for Default - Supplement for Mortuary Services. #####
 
-Link to an amendment published at 85 FR 36349, June 16, 2020.
-
 As prescribed in 849.504-70, insert the following clause:
 
-Termination for Default - Supplement for Mortuary Services (OCT 2019)
+TERMINATION FOR DEFAULT - SUPPLEMENT FOR MORTUARY SERVICES (MAY 2020)
 
-The clause entitled “Default” in FAR 52.249-8, is supplemented as follows:
+The FAR clause entitled Default (Fixed-Price Supply and Service), at 52.249-8, is supplemented as follows:
 
 The Contracting Officer may terminate this contract for default by written notice without the ten-day notice required by paragraph (a)(2) of the Default clause if -
 
@@ -20,4 +18,4 @@ The Contracting Officer may terminate this contract for default by written notic
 
 (e) The Contractor mentions or otherwise uses this contract in its advertising in any way.
 
-(End of clause)[84 FR 46457, Sept. 4, 2019]
+(End of clause)[85 FR 36349, June 16, 2020]

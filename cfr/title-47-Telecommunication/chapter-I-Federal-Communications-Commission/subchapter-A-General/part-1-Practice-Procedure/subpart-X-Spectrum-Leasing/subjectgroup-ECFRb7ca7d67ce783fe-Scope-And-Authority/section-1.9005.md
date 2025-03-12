@@ -1,5 +1,7 @@
 ##### § 1.9005 Included services. #####
 
+Link to an amendment published at 85 FR 43129, July 16, 2020.
+
 The spectrum leasing policies and rules of this subpart apply to the following services, which include Wireless Radio Services in which commercial or private licensees hold exclusive use rights and the Ancillary Terrestrial Component (ATC) of a Mobile Satellite Service:
 
 (a) The Paging and Radiotelephone Service (part 22 of this chapter);

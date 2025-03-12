@@ -1,5 +1,7 @@
 ##### § 90.7 Definitions. #####
 
+Link to an amendment published at 85 FR 43138, July 16, 2020.
+
 *220 MHz service.* The radio service for the licensing of frequencies in the 220-222 MHz band.
 
 *800 MHz Cellular System.* In the 806-824 MHz/ 851-869 MHz band, a system that uses multiple, interconnected, multi-channel transmit/receive cells capable of frequency reuse and automatic handoff between cell sites to serve a larger number of subscribers than is possible using non-cellular technology.

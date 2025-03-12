@@ -1,5 +1,7 @@
 ##### § 90.205 Power and antenna height limits. #####
 
+Link to an amendment published at 85 FR 43138, July 16, 2020.
+
 Applicants for licenses must request and use no more power than the actual power necessary for satisfactory operation. Except where otherwise specifically provided for, the maximum power that will be authorized to applicants whose license applications for new stations are filed after August 18, 1995 is as follows:
 
 (a) *Below 25 MHz.* For single sideband operations (J3E emission), the maximum transmitter peak envelope power is 1000 watts.

@@ -1,5 +1,7 @@
 ##### § 90.209 Bandwidth limitations. #####
 
+Link to an amendment published at 85 FR 43138, July 16, 2020.
+
 (a) Each authorization issued to a station licensed under this part will show an emission designator representing the class of emission authorized. The designator will be prefixed by a specified necessary bandwidth. This number does not necessarily indicate the bandwidth occupied by the emission at any instant. In those cases where § 2.202 of this chapter does not provide a formula for the computation of necessary bandwidth, the occupied bandwidth, as defined in part 2 of this chapter, may be used in lieu of the necessary bandwidth.
 
 (b) The maximum authorized single channel bandwidth of emission corresponding to the type of emission specified in § 90.207 is as follows:

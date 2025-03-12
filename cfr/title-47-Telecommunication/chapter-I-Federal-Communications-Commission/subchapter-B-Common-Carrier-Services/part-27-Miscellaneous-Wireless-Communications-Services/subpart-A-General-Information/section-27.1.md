@@ -1,5 +1,7 @@
 ##### § 27.1 Basis and purpose. #####
 
+Link to an amendment published at 85 FR 43134, July 16, 2020.
+
 This section contains the statutory basis for this part of the rules and provides the purpose for which this part is issued.
 
 (a) *Basis.* The rules for miscellaneous wireless communications services (WCS) in this part are promulgated under the provisions of the Communications Act of 1934, as amended, that vest authority in the Federal Communications Commission to regulate radio transmission and to issue licenses for radio stations.

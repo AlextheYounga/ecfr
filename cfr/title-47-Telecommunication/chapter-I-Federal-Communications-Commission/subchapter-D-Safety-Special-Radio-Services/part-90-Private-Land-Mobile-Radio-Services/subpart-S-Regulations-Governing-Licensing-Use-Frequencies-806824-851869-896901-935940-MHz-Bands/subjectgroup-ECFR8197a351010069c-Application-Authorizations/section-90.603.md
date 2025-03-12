@@ -1,5 +1,7 @@
 ##### § 90.603 Eligibility. #####
 
+Link to an amendment published at 85 FR 43139, July 16, 2020.
+
 The following persons are eligible for licensing in the 806-824 MHz, 851-869 MHz, 896-901 MHz, and 935-940 MHz Bands.
 
 (a) Any person eligible for licensing under subparts B, C, D, or E of this part.

@@ -1,5 +1,7 @@
 ##### § 27.5 Frequencies. #####
 
+Link to an amendment published at 85 FR 43134, July 16, 2020.
+
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 
 (1) Two paired channel blocks are available for assignment on a Major Economic Area basis as follows:
