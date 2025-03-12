@@ -1,15 +1,29 @@
-##### § 802.5 Freedom of Information Act requests. #####
+##### § 802.5 Definitions. #####
 
-(a) *Submission, processing, and release procedures.* (1) Requests for any record (including policy) ordinarily will be processed pursuant to the Freedom of Information Act, 5 U.S.C. 552. Your request must be made in writing and addressed to the FOIA Officer, Office of the General Counsel, Court Services and Offender Supervision Agency, 633 Indiana Avenue, NW., Washington, DC 20004. The requester should clearly mark on the face of the letter and the envelope “Freedom of Information Request.”
+As used in this subpart, the following terms have the following meanings:
 
-(2) Your request will be considered received as of the date it is received by the FOIA Office. For quickest possible handling, you should mark both your request letter and the envelope “Freedom of Information Act Request.”
+(a) *Agency* has the meaning given in 5 U.S.C. 551(1) and 5 U.S.C. 552(f).
 
-(3) Generally, all FOIA requests will be processed in the approximate order of receipt, unless the requester shows exceptional circumstances exist to justify an expedited response (*see* § 802.8).
+(b) *Appeal* means a request for a review of the agency's determination with regard to a fee waiver, category of requester, expedited processing, or denial in whole or in part of a request for access to a record or records.
 
-(4) You must state in your request a firm agreement to pay the fees for search, duplication, and review as may ultimately be determined. The agreement may state the upper limit (but not less than $25) that the requester is willing to pay for processing the request. A request that fees be waived or reduced may accompany the agreement to pay fees and will be considered to the extent that such request is made in accordance with § 802.4(b) and provides supporting information to be measured against the fee waiver standard set forth in § 802.9(g). The requester shall be notified in writing of the decision to grant or deny the fee waiver. If a requester has an outstanding balance of search, review, or duplication fees due for FOIA request processing, the requirements of this paragraph are not met until the requester has remitted the outstanding balance due.
+(c) *Business information* means trade secrets or other commercial or financial information.
 
-(b) *Description of records sought.* You must describe the records that you seek in enough detail to enable Agency personnel to locate them with a reasonable amount of effort. Whenever possible, your request should include specific information about each record sought, such as the date, title or name, author, recipient and subject matter of the record. As a general rule, the more specific you are about the records or type of records that you want, the more likely the Agency will be able to locate the records in response to your request. If a determination is made that your request does not reasonably describe records, the Agency will tell you either what additional information is needed or why your request is otherwise insufficient. You will be given the opportunity to discuss your request so that you may modify it to meet the requirements of this section.
+(d) *Business submitter* means any entity which provides business information to the Agency and which has a proprietary interest in the information.
 
-(1) If a document contains information exempt from disclosure, any reasonably segregable portion of the record will be provided to you after deletion of the exempt portions.
+(e) *Computer software* means tools by which records are created, stored, and retrieved. Normally, computer software, including source code, object code, and listings of source and object codes, regardless of medium, are not agency records. Proprietary (or copyrighted) software is not an agency record.
 
-(2) You will be notified of the decision on the request within 20 days after its receipt (excluding Saturdays, Sundays, and legal public holidays).
+(f) *Confidential commercial information* means records provided to the government by a submitter that arguably contain material exempt from release under Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+
+(g) *Duplication* refers to the process of making a copy of a record in order to respond to a FOIA request. Such copies can take the form of paper copy, microform, audio-visual materials, or machine-readable documentation (*e.g.,* magnetic tape or disk), among others.
+
+(h) *Electronic records* mean those records and information which are created, stored, and retrievable by electronic means. This ordinarily does not include computer software, which is a tool by which to create, store, or retrieve electronic records.
+
+(i) *Record* is defined pursuant to 44 U.S.C. 3301.
+
+(j) *Request* means any request for records made pursuant to 5 U.S.C. 552(a)(3).
+
+(k) *Requester* means any person who makes a request for access to records.
+
+(l) *Review* for fee purposes, refers to the process of examining records located in response to a commercial use request to determine whether any portion of any record located is permitted to be withheld. It also includes processing any records for disclosure; *e.g.,* doing all that is necessary to excise them and otherwise prepare them for release.
+
+(m) *Search* includes all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within records. Searches may be done manually or by automated means.

@@ -1,29 +1,15 @@
-##### § 802.7 Denial of request. #####
+##### § 802.7 Documents from other agencies. #####
 
-(a) *Denial in whole or in part.* If it is determined that the request for records should be denied in whole or in part, the requester shall be notified by mail. The letter of notification shall:
+(a) *Documents from or relating to Federal agencies.* (1) When a request for records includes a document that originated from another Federal agency, the document will be referred to the originating Federal agency for release determination, unless the information requested is for records created 25 years or more before the date on which the records were requested, in which case CSOSA will release them without referral and/or consultation with the other federal agency. The requester will be informed of the referral. This is not a denial of a FOIA request; thus, no appeal rights accrue to the requester.
 
-(1) State the exemptions relied on in not granting the request;
+(2) When a FOIA request is received for a record created by the Agency that includes information by another Federal agency, the record will be sent to the other Federal agency that has equities in the record. The consultation will request that the other Federal agency review and provide recommendations on disclosure. The Agency will not release any such record without prior consultation with the other Federal agency that has equities in the record.
 
-(2) If technically feasible, indicate the amount of information deleted at the place in the record where such deletion is made (unless providing such indication would harm an interest protected by the exemption relied upon to deny such material);
+(b) *Documents from non-Federal agencies.* When a request for records includes a document from a non-Federal agency, CSOSA staff must make a release determination.
 
-(3) Set forth the name and title or position of the responsible official;
+(1) A release determination on the records from non-Federal agencies shall be analyzed on a case-by-case to determine if CSOSA or the non-Federal agency is best able to decide a record's sensitivity, and in turn its exemption status, in which case:
 
-(4) Advise the requester of the right to administrative appeal in accordance with paragraph (c) of this section; and
+(i) The requester will be re-routed to submit a separate FOIA request to the non-Federal agency; or
 
-(5) Specify the official or office to which such appeal shall be submitted.
+(ii) CSOSA will consult with the non-Federal agency only if the non-Federal agency will provide a consultation within five (5) business days.
 
-(b) *No records found.* If it is determined, after a thorough search for records by the responsible official or his delegate, that no records have been found to exist, the responsible official will so notify the requester in writing. The letter of notification will advise the requester of the right to administratively appeal the determination that no records exist (*i.e.,* to challenge the adequacy of the search for responsive records) in accordance with paragraph (c) of this section. The response shall specify the official or office to which the appeal shall be submitted for review.
-
-(c) *Administrative appeal.* (1) A requester may appeal an initial determination when:
-
-(i) Access to records has been denied in whole or in part;
-
-(ii) There has been an adverse determination of the requester's category as provided in § 802.10(d);
-
-(iii) A request for fee waiver or reduction has been denied; or
-
-(iv) It has been determined that no responsive records exist.
-
-(2) Appeals must be made within 30 days of the receipt of the letter denying the request. Both the envelope and the letter of appeal should be sent to the Office of the General Counsel, Court Services and Offender Supervision Agency, 633 Indiana Avenue, NW., Room 1220, Washington, DC 20004 and must be clearly marked “Freedom of Information Act Appeal.”
-
-(3) The General Counsel will make an appeal determination within 20 days (excluding Saturdays, Sundays, and holidays) from the date of receipt of the appeal. However, for a good reason, this time limit may be extended up to an additional 10 days. If, after review, the General Counsel determines that additional information should be released, it will accompany the appeal response. If, after review, the General Counsel determines to uphold the initial review, we will inform you.
+(2) [Reserved]

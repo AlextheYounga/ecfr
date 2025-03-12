@@ -1,27 +1,51 @@
-##### § 802.4 Definitions. #####
+##### § 802.4 Guidelines for disclosure. #####
 
-As used in this subpart, the following terms have the following meanings:
+(a) The authority to release, partially release, or deny access to records and information under the FOIA is limited to the Chief FOIA Officer, FOIA Public Liaison, and his or her designee.
 
-(a) *Agency* has the meaning given in 5 U.S.C. 551(1) and 5 U.S.C. 552(f).
+(b) An Agency record will be released in response to a written request, unless a valid legal exemption and/or exclusion to disclosure is asserted.
 
-(b) *Appeal* means a request for a review of the agency's determination with regard to a fee waiver, category of requester, expedited processing, or denial in whole or in part of a request for access to a record or records.
+(1) Any applicable exemption and/or exclusion to disclosure, which is provided under the FOIA in 5 U.S.C. 552, may be asserted. The applicable exemptions and/or exclusions to disclosure are as follows:
 
-(c) *Business information* means trade secrets or other commercial or financial information.
+(i) *Exclusions.* (A) Where the subject of a criminal investigation or proceeding is unaware of the existence of records concerning a pending investigation and disclosure of such records would interfere with the investigation.
 
-(d) *Business submitter* means any entity which provides business information to the Agency and which has a proprietary interest in the information.
+(B) Where there are informant records maintained by a criminal law enforcement agency and the individual's status as an informant is not known.
 
-(e) *Computer software* means tools by which records are created, stored, and retrieved. Normally, computer software, including source code, object code, and listings of source and object codes, regardless of medium, are not agency records. Proprietary (or copyrighted) software is not an agency record.
+(C) Where there are classified FBI records pertaining to foreign intelligence, counterintelligence or international terrorism records.
 
-(f) *Confidential commercial information* means records provided to the government by a submitter that arguably contain material exempt from release under Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+(ii) *Exemptions.* (A) Information that is classified to protect national security.
 
-(g) *Duplication* refers to the process of making a copy of a record in order to respond to a FOIA request. Such copies can take the form of paper copy, microform, audio-visual materials, or machine-readable documentation (*e.g.,* magnetic tape or disk), among others.
+(B) Information related solely to the internal personnel rules and practices of an agency.
 
-(h) *Electronic records* mean those records and information which are created, stored, and retrievable by electronic means. This ordinarily does not include computer software, which is a tool by which to create, store, or retrieve electronic records.
+(C) Information that is prohibited from disclosure by another federal law.
 
-(i) *Request* means any request for records made pursuant to 5 U.S.C. 552(a)(3).
+(D) Trade secrets or commercial or financial information that is confidential or privileged.
 
-(j) *Requester* means any person who makes a request for access to records.
+(E) Privileged communications within or between agencies, including:
 
-(k) *Review,* for fee purposes, refers to the process of examining records located in response to a commercial use request to determine whether any portion of any record located is permitted to be withheld. It also includes processing any records for disclosure; *e.g.,* doing all that is necessary to excise them and otherwise prepare them for release.
+(*1*) Deliberative process privilege;
 
-(l) *Search* includes all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within records. Searches may be done manually or by automated means.
+(*2*) Attorney-work product privilege; and
+
+(*3*) Attorney-client privilege.
+
+(F) Information that, if disclosed, would invade another individual's personal privacy.
+
+(G) Information compiled for law enforcement purposes that:
+
+(*1*) Could reasonably be expected to interfere with enforcement proceedings.
+
+(*2*) Would deprive a person of a right to a fair trial or an impartial adjudication.
+
+(*3*) Could reasonably be expected to constitute an unwarranted invasion of personal privacy.
+
+(*4*) Could reasonably be expected to disclose the identity of a confidential source.
+
+(*5*) Would disclose techniques and procedures for law enforcement investigations or prosecutions.
+
+(*6*) Could reasonably be expected to endanger the life or physical safety of any individual.
+
+(H) Information that concerns the supervision of financial institutions.
+
+(I) Geological information on wells.
+
+(2) A record must exist and be in the possession and control of the Agency at the time of the request to be considered subject to this part and the FOIA. There is no obligation to create, compile, or obtain a record to satisfy a FOIA request.
