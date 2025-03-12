@@ -1,0 +1,7 @@
+##### § 328.104 Investigations and injunctions; penalties. #####
+
+(a) To administer or enforce this subpart, the Administrator may exercise the authorities available under section 705 of the Defense Production Act of 1950, as amended, 50 U.S.C. 4555, including the conduct of investigations, requests for information or testimony, and inspections of records or premises. Before such authorities are utilized, the Administrator will determine the scope and purpose of the investigation, inspection, or inquiry, and be assured that no adequate and authoritative data are available from any Federal or other responsible agency.
+
+(b) Whenever, in the judgment of the Administrator, any person has engaged or is about to engage in any acts or practices that constitute or will constitute a violation of any provision of this subpart, or order issued thereunder, the Administrator may exercise the authorities available under section 706 of the Defense Production Act of 1950, as amended, 50 U.S.C. 4556, including applying for a preliminary, permanent, or temporary injunction, restraining order, or other order to enforce compliance with this subpart.
+
+(c) Any person who willfully engages in violations of this part is subject to penalties available under section 103 of the Defense Production Act of 1950, as amended, 50 U.S.C. 4513, or other available authority.

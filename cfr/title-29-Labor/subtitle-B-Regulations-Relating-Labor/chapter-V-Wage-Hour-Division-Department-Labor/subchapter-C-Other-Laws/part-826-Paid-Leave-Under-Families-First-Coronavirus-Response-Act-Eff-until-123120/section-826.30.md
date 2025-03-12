@@ -12,7 +12,7 @@
 
 (2) If an Employee employed by a temporary placement agency is subsequently hired by the Employer, the Employer will count the days worked as a temporary Employee at the Employer toward the thirty-day eligibility period.
 
-(3) An Employee who has been employed by a covered Employer for at least thirty calendar days is eligible for Expanded Family and Medical Leave under the EFMLEA regardless of whether the Employee would otherwise be eligible for leave under the FMLA. Thus, for example, an Employee need not have been employed for 1,250 hours of service and twelve months of employment as otherwise required under the FMLA, *see* § 825.110(a)(1)(2) of this chapter, to be eligible for leave under the EFMLEA.
+(3) An Employee who has been employed by a covered Employer for at least thirty calendar days is eligible for Expanded Family and Medical Leave under the EFMLEA regardless of whether the Employee would otherwise be eligible for leave under the FMLA. Thus, for example, an Employee need not have been employed for 1,250 hours of service and twelve months of employment as otherwise required under the FMLA, see § 825.110(a)(1) and (2) of this chapter, to be eligible for leave under the EFMLEA.
 
 (c) *Exclusion of Employees who are health care providers and emergency responders.* An Employer whose Employee is a health care provider or an emergency responder may exclude such Employee from the EPSLA's Paid Sick Leave requirements and/or the EFMLEA's Expanded Family and Medical Leave requirements.
 
@@ -22,7 +22,7 @@
 
 (ii) This definition includes any individual employed by an entity that contracts with any of these institutions described above to provide services or to maintain the operation of the facility where that individual's services support the operation of the facility. This also includes anyone employed by any entity that provides medical services, produces medical products, or is otherwise involved in the making of COVID-19 related medical equipment, tests, drugs, vaccines, diagnostic vehicles, or treatments. This also includes any individual that the highest official of a State or territory, including the District of Columbia, determines is a health care provider necessary for that State's or territory's or the District of Columbia's response to COVID-19.
 
-(iii) Application limited to leave under the EPSLA and the EFMLEA. The definition of “health care provider” contained in this subsection applies only for the purpose of determining whether an Employer may elect to exclude an Employee from taking leave under the EPSLA and/or the EFMLEA, and does not otherwise apply for purposes of the FMLA or section 5102(A)(2) of the EPSLA.
+(iii) The definition of “health care provider” contained in this section applies only for the purpose of determining whether an Employer may elect to exclude an Employee from taking leave under the EPSLA and/or the EFMLEA, and does not otherwise apply for purposes of the FMLA or section 5102(a)(2) of the EPSLA.
 
 (2) Emergency responders -
 
@@ -30,12 +30,14 @@
 
 (ii) [Reserved]
 
-(d) *Exclusion by OMB.* The Director of the Office of Management and Budget (OMB) has authority to exclude, for good cause, certain U.S. Government Employers with respect to certain categories of Executive Branch Eligible Employees from the requirement to provide paid leave under the EFMLEA. *See* CARES Act section 4605.
+(d) *Exclusion by OMB from EFMLEA.* The Director of the Office of Management and Budget (OMB) has authority to exclude, for good cause, certain U.S. Government Employers with respect to certain categories of Executive Branch Eligible Employees from the requirement to provide paid leave under the EFMLEA. *See* CARES Act section 4605.
 
-(e) The Director of the OMB has authority to exclude certain Employees, for good cause, from the definition of “Employee” for purposes of the EPSLA. *See* CARES Act section 4605. The categories of Employees the Director of the OMB has authority to so exclude from EPSLA are:
+(e) *Exclusion by OMB from EPSLA.* The Director of the OMB has authority to exclude certain Employees, for good cause, from the definition of “Employee” for purposes of the EPSLA. *See* CARES Act section 4605. The categories of Employees the Director of the OMB has authority to so exclude from EPSLA are:
 
 (1) Federal officers or Employees covered under Title II of the FMLA (which is codified in subchapter V of chapter 63 of title 5 of the United States Code);
 
 (2) Other individuals occupying a position in the civil service (as that term is defined in 5 U.S.C. 2101(1)); and
 
 (3) Employees of a United States Executive Agency, as defined in 5 U.S.C. 105, including the U.S. Postal Service and U.S. Postal Regulatory Commission.
+
+[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020]

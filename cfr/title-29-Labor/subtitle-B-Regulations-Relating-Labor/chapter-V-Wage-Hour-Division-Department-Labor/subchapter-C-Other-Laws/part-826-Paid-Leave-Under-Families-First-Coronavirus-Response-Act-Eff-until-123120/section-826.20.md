@@ -44,15 +44,15 @@
 
 (6) An Employee may not take Paid Sick Leave for the reason described in paragraph (a)(1)(iv) of this section unless, but for a need to care for an individual, the Employee would be able to perform work for his or her Employer, either at the Employee's normal workplace or by Telework. An Employee caring for an individual may not take Paid Sick Leave where the Employer does not have work for the Employee.
 
-(7) An Employee may take Paid Sick Leave for the reason described in paragraph (a)(1)(iv) of this section if the Employee is unable to perform work for his or her Employer and if the individual depends on the Employee to care of him or her and is either:
+(7) *Caring for an individual.* An Employee may take Paid Sick Leave for the reason described in paragraph (a)(1)(iv) of this section if the Employee is unable to perform work for his or her Employer and if the individual depends on the Employee to care for him or her and is either:
 
-(i) Subject to a Quarantine or Isolation Order as described in paragraph (a)(1)(ii) of this subsection; or
+(i) Subject to a Quarantine or Isolation Order as described in paragraph (a)(1)(i) of this section; or
 
-(ii) Has been advised to self-quarantine by a health care provider because of a belief that -
+(ii) Has been advised to self-quarantine by a health care provider as described in paragraph (a)(1)(ii) of this section, because of a belief that -
 
 (A) The individual has COVID-19;
 
-(B) The individual may have COVID-19 due to known exposure or symptoms
+(B) The individual may have COVID-19 due to known exposure or symptoms; or
 
 (C) The individual is particularly vulnerable to COVID-19.
 
@@ -60,10 +60,8 @@
 
 (9) An Employee may not take Paid Sick Leave to care for his or her Son or Daughter unless, but for a need to care for the Son or Daughter, the Employee would be able to perform work for his or her Employer, either at the Employee's normal workplace or by Telework. An Employee caring for his or her Son or Daughter may not take Paid Sick Leave where the Employer does not have work for the Employee.
 
-(b) *Qualifying reason for Expanded Family and Medical Leave.* An Eligible Employee may take Expanded Family and Medical Leave because he or she is unable to work due to a need to care for his or her Son or Daughter whose School or Place of Care has been closed, or whose Child Care Provider is unavailable, for reasons related to COVID-19. Eligible Employee has need to take Expanded Family and Medical Leave for this purpose only if no suitable person is available to care for his or her Son or Daughter during the period of such leave.
-
-(1) An Eligible Employee may not take Expanded Family and Medical Leave to care for his or her Son or Daughter unless, but for a need to care for an individual, the Eligible Employee would be able to perform work for his or her Employer, either at the Eligible Employee's normal workplace or by Telework. An Eligible Employee caring for his or her Son or Daughter may not take Expanded Family and Medical Leave where the Employer does not have work for the Eligible Employee.
-
-(2) [Reserved]
+(b) *Qualifying reason for Expanded Family and Medical Leave.* An Eligible Employee may take Expanded Family and Medical Leave because he or she is unable to work due to a need to care for his or her Son or Daughter whose School or Place of Care has been closed, or whose Child Care Provider is unavailable, for reasons related to COVID-19. An Eligible Employee has need to take Expanded Family and Medical Leave for the purposes of this paragraph (b) only if no suitable person is available to care for his or her Son or Daughter during the period of such leave.
 
 (c) *Impact on FLSA exemptions.* The taking of Paid Sick Leave or Expanded Family and Medical Leave shall not impact an Employee's status or eligibility for any exemption from the requirements of section 6 or 7, or both, of the FLSA.
+
+[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020]

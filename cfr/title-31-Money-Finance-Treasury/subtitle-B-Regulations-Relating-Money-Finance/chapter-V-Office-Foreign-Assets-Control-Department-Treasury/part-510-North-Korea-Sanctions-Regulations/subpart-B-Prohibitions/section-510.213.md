@@ -25,3 +25,13 @@ As of September 1, 2017, the U.S. Department of State has restricted the use of 
 Note 3 to paragraph (e):
 
 For an organizational chart listing the Specialized Agencies, Programmes, Funds, and Related Organizations of the United Nations, see the following page on the United Nations website: *http://www.unsceb.org/directory.*
+
+(f) *Exemptions under the North Korea Sanctions and Policy Enhancement Act of 2016, as amended by the Countering America's Adversaries Through Sanctions Act and the National Defense Authorization Act for Fiscal Year 2020.* The prohibitions contained in §§ 510.201(a)(3)(vii) through (x), 510.210(c), and 510.214 do not apply to the following activities:
+
+(1) Activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 *et seq.*), or to any authorized intelligence activities of the United States.
+
+(2) Any transaction necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or under other international agreements.
+
+(3) Any activities incidental to the POW/MIA accounting mission in North Korea, including activities by the Defense POW/MIA Accounting Agency and other governmental or nongovernmental organizations tasked with identifying or recovering the remains of members of the United States Armed Forces in North Korea.
+
+[83 FR 9187, Mar. 5, 2018, as amended at 85 FR 20161, Apr. 10, 2020]
