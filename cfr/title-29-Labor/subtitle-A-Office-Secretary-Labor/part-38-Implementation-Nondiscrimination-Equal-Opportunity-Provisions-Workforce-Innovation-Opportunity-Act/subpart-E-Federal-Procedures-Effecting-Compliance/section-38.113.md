@@ -1,5 +1,7 @@
 ##### § 38.113 Suspension, termination, withholding, denial, or discontinuation of financial assistance. #####
 
+Link to an amendment published at 85 FR 13033, Mar. 6, 2020.
+
 Any action to suspend, terminate, deny or discontinue WIOA Title I financial assistance must be limited to the particular political entity, or part thereof, or other recipient (or grant applicant) as to which the finding has been made, and must be limited in its effect to the particular program, or part thereof, in which the noncompliance has been found. No order suspending, terminating, denying or discontinuing WIOA Title I financial assistance will become effective until:
 
 (a) The Director has issued a Final Determination under § 38.95 or Notification of Breach of Conciliation Agreement under § 38.98;

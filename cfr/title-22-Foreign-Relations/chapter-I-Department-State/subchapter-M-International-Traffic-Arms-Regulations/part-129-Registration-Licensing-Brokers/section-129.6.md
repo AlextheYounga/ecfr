@@ -1,7 +1,5 @@
 ##### § 129.6 Procedures for obtaining approval. #####
 
-Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
-
 (a) All requests for approval of brokering activities must be made to the Directorate of Defense Trade Controls, be signed by an empowered official, and include the following information:
 
 (1) The applicant's name, address and registration code;
@@ -22,7 +20,8 @@ Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
 
 (3) A description of each defense article or defense service that may be involved, including:
 
-(i) The U.S. Munitions List category and sub-category for each article;
+(i) The U.S. Munitions List (*see* § 121.1 of this subchapter) or U.S. Munitions Import List (*see* 27 CFR 447.21) category and sub-category for
+each article;
 
 (ii) The name or military nomenclature of each defense article;
 
@@ -44,4 +43,4 @@ Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
 
 (e) The period of validity for an approval may not exceed four years.
 
-[78 FR 52691, Aug. 26, 2013]
+[78 FR 52691, Aug. 26, 2013, as amended at 85 FR 3833, Jan. 23, 2020]

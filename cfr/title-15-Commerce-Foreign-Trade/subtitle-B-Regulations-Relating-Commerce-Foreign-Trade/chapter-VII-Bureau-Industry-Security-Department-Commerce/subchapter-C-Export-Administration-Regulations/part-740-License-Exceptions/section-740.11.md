@@ -1,8 +1,6 @@
 ##### § 740.11 Governments, international organizations, international inspections under the Chemical Weapons Convention, and the International Space Station (GOV). #####
 
-Link to an amendment published at 85 FR 4174, Jan. 23, 2020.
-
-This License Exception authorizes exports and reexports for international nuclear safeguards; U.S. government agencies or personnel; agencies of cooperating governments; international inspections under the Chemical Weapons Convention; and the International Space Station.
+This License Exception authorizes exports and reexports for international nuclear safeguards; U.S. government agencies or personnel; agencies of cooperating governments; international inspections under the Chemical Weapons Convention; and the International Space Station. Commodities listed in ECCN 0A501 are eligible only for transactions described in paragraphs (b)(2)(i) and (ii) of this section. Any item listed in a 0x5zz ECCN for export, reexport, or transfer (in-country) to an E:1 country is eligible only for transactions described in paragraphs (b)(2)(i) and (ii) solely for U.S. Government official use of this section.
 
 (a) *International safeguards* - (1) *Scope.* The International Atomic Energy Agency (IAEA) is an international organization that establishes and administers safeguards, including Additional Protocols, designed to ensure that special nuclear materials and other related nuclear facilities, equipment, and material are not diverted from peaceful purposes to non-peaceful purposes. European Atomic Energy Community (Euratom) is an international organization of European countries with headquarters in Luxembourg. Euratom establishes and administers safeguards designed to ensure that special nuclear materials and other related nuclear facilities, equipment, and material are not diverted from peaceful purposes to non-peaceful purposes. This paragraph (a) authorizes exports and reexports of commodities or software to the IAEA and Euratom, and reexports by IAEA and Euratom for official international safeguard use, as follows:
 
@@ -60,6 +58,10 @@ Note 1 to paragraph (b)(2)(iii)(C):
 
 'Temporary,' for purposes of paragraph (b)(2)(iii)(C) of this section, means that four years from the date of an item's initial export, reexport, or transfer (in-country), it must be returned to the exporter, reexporter, or transferor or its disposition otherwise authorized (e.g., pursuant to a license or another license exception) in accordance with the EAR.
 
+Note 2 to paragraph (b)(2):
+
+Items controlled for NS, MT, CB, NP, FC, or AT reasons may not be exported, reexported, or transferred (in-country) to, or for the use of military, police, intelligence entities, or other sensitive end users (e.g., contractors or other governmental parties performing functions on behalf of military, police, or intelligence entities) of a government in a Country Group E:1 or E:2 country.
+
 (D) This paragraph authorizes the export, reexport, or transfer of commodities or software at the direction of the U.S. Department of Defense for an end use in support of an Acquisition and Cross Servicing Agreement (ACSA), when:
 
 (*1*) The ACSA is between the U.S. Government and a foreign government or an international organization and is in force and in effect;
@@ -92,7 +94,7 @@ Note 1 to paragraph (b)(2)(iii)(C):
 
 (c) *Cooperating Governments and the North Atlantic Treaty Organization* - (1) *Scope.* The provisions of this paragraph (c) authorize exports, reexports, and transfers (in-country) of the items listed in paragraph (c)(2) of this section to agencies of cooperating governments or agencies of the North Atlantic Treaty Organization (NATO). 'Agency of a cooperating government' includes all civilian and military departments, branches, missions, and other governmental agencies of a cooperating national government. 'Cooperating governments' are the national governments of countries listed in Country Group A:1 (see supplement no. 1 to this part) and the national governments of Hong Kong, Singapore and Taiwan.
 
-Note 1 to paragraph (c)(1):
+Note 3 to paragraph (c)(1):
 
 Civil intergovernmental organizations (such as the European Space Agency (ESA)) where the membership is limited to national governments that are 'cooperating governments' are also considered 'cooperating governments' for purposes of paragraph (c)(1) of this section. If the membership of the civil intergovernmental organization includes any national governments or other organizations that are not 'cooperating governments,' such civil intergovernmental organizations are not considered 'cooperating governments' for purposes of paragraph (c)(1) of this section. For example, civil intergovernmental organizations such as the European Aviation Safety Agency (EASA), the United Nations, and the World Bank do not fall within paragraph (c)(1) of this section because their membership includes governments that are not 'cooperating governments.'
 
@@ -152,11 +154,11 @@ Civil intergovernmental organizations (such as the European Space Agency (ESA)) 
 
 (2) *Eligible commodities.* Any commodity subject to the EAR that is classified under ECCN 9A004 and that is required for use on the ISS on short notice.
 
-Note 1 to paragraph (e)(2):
+Note 4 to paragraph (e)(2):
 
 This license exception is not available for the export or reexport of “parts,” “components,” “accessories,” and “attachments” to overseas manufacturers for the purpose of incorporation into other items destined for the ISS.
 
-Note 2 to paragraph (e)(2):
+Note 5 to paragraph (e)(2):
 
 For purposes of this paragraph (e), ‘short notice’ means the exporter is required to have a commodity manifested and at the scheduled launch site for hatch-closure (final stowage) no more than forty-five (45) days from the time the exporter or reexporter received complete documentation. ‘Complete documentation’ means the exporter or reexporter received the technical description of the commodity and purpose for use of the commodity on the ISS. ‘Hatch-closure (final stowage)’ means the final date specified by a launch provider by which items must be at a specified location in a launch country in order to be included on a mission to the ISS. The exporter or reexporter must receive the notification to supply the commodity for use on the ISS in writing. That notification must be kept in accordance with paragraph (e)(8) of this section and the Recordkeeping requirements in part 762 of the EAR.
 
@@ -186,4 +188,4 @@ For purposes of this paragraph (e), ‘short notice’ means the exporter is req
 
 (iii) The return or destruction of defective or worn out parts or components is not required. However, if defective or worn out parts or components originally exported or reexported pursuant to this paragraph (e) are returned from the ISS, then those parts and components may be either: returned to the original country of export or reexport; destroyed; or reexported or transferred (in-country) to a destination that has been designated by NASA for conducting a review and analysis of the defective or worn part or component. Documentation for this activity must be kept for recordkeeping purposes. No commodities that are subject to the EAR may be returned, under the provisions of this paragraph, to a country listed in Country Group E:1 (see supplement no. 1 to this part) or to any person if that person is subject to an end-user or end-use control described in part 744 of the EAR. For purposes of paragraph (e) of this section, a ‘defective or worn out’ part or component is a part or component that no longer performs its intended function.
 
-[78 FR 22714, Apr. 16, 2013, as amended at 79 FR 32624, June 5, 2014; 80 FR 29442, May 21, 2015; 81 FR 64669, Sept. 20, 2016; 82 FR 50515, Nov. 1, 2017]
+[78 FR 22714, Apr. 16, 2013, as amended at 79 FR 32624, June 5, 2014; 80 FR 29442, May 21, 2015; 81 FR 64669, Sept. 20, 2016; 82 FR 50515, Nov. 1, 2017; 85 FR 4174, Jan. 23, 2020]

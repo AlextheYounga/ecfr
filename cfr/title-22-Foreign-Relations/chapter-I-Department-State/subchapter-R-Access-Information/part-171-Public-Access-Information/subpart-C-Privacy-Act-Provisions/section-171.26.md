@@ -14,6 +14,8 @@ Systems of records maintained by the Department are authorized to be exempt from
 
 (iii) Reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision. The reason for invoking these exemptions is to ensure effective criminal law enforcement processes. Records maintained by the Department in the following systems of records are exempt from all of the provisions of the PA except paragraphs (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), to the extent to which they meet the criteria of section (j)(2) of 5 U.S.C. 552a. The names of the systems correspond to those published in the Federal Register by the Department.
 
+Email Archive Management Records, STATE-01.
+
 Office of Inspector General Investigation Management System. STATE-53.
 
 Information Access Program Records. STATE-35.
@@ -33,6 +35,8 @@ Congressional Correspondence. STATE-43.
 Congressional Travel Records. STATE-44.
 
 Coordinator for the Combating of Terrorism Records. STATE-06.
+
+Email Archive Management Records. STATE-01.
 
 External Research Records. STATE-10.
 
@@ -90,6 +94,8 @@ Board of Appellate Review Records. STATE-02.
 
 Coordinator for the Combating of Terrorism Records. STATE-06.
 
+Email Archive Management Records. STATE-01.
+
 Extradition Records. STATE-11.
 
 Family Advocacy Case Records. STATE-75
@@ -124,6 +130,8 @@ Visa Records. STATE-39.
 
 (3) *Exempt under 5 U.S.C. 552a(k)(3).* Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056.
 
+Email Archive Management Records. STATE-01.
+
 Extradition Records. STATE-11.
 
 Information Access Programs Records. STATE-35.
@@ -144,6 +152,8 @@ Visa Records. STATE-39.
 
 (4) *Exempt under 5 U.S.C. 552a(k)(4).* Records contained within the following systems of records are exempt under this section to the extent that they are required by statute to be maintained and are used solely as statistical records.
 
+Email Archive Management Records. STATE-01.
+
 Foreign Service Institute Records. STATE-14.
 
 Human Resources Records. STATE-31.
@@ -157,6 +167,8 @@ Personnel Payroll Records. STATE-30.
 Security Records. STATE-36.
 
 (5) *Exempt under 5 U.S.C. 552a(k)(5).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of a confidential informant.
+
+Email Archive Management Records. STATE-01.
 
 Records Maintained by the Office of Civil Rights. STATE-09.
 
@@ -188,6 +200,8 @@ Senior Personnel Appointments Records. STATE-47.
 
 (6) *Exempt under 5 U.S.C. 552a(k)(6).* Records contained within the following systems of records are exempt under this section to the extent that they consist of testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process.
 
+Email Archive Management Records. STATE-01.
+
 Foreign Service Institute Records. STATE-14.
 
 Human Resources Records. STATE-31.
@@ -200,6 +214,8 @@ Security Records. STATE-36.
 
 (7) *Exempt under 5 U.S.C. 552a(k)(7).* Records contained within the following systems of records are exempt under this section to the extent that they consist of evaluation material used to determine potential for promotion in the armed services, but only to the extent that such disclosure would reveal the identity of a confidential informant.
 
+Email Archive Management Records. STATE-01.
+
 Overseas Citizens Services Records. STATE-25.
 
 Human Resources Records. STATE-31.
@@ -210,4 +226,4 @@ Personality Cross-Reference Index to the Secretariat Automated Data Index. STATE
 
 Personality Index to the Central Foreign Policy Records. STATE-29.
 
-[81 FR 19865, Apr. 6, 2016, as amended at 81 FR 33590, May 27, 2016]
+[81 FR 19865, Apr. 6, 2016, as amended at 81 FR 33590, May 27, 2016; 85 FR 13483, Mar. 9, 2020]

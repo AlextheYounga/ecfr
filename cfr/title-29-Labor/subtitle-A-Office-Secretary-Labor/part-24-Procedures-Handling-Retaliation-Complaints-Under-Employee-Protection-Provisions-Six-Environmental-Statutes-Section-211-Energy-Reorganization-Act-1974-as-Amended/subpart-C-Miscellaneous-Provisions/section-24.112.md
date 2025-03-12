@@ -1,5 +1,7 @@
 ##### § 24.112 Judicial review. #####
 
+Link to an amendment published at 85 FR 13032, Mar. 6, 2020.
+
 (a) Except as provided under subsections (b), (c), and (d) of this section, within 60 days after the issuance by the ARB of a final order of the Secretary under § 24.110, any person adversely affected or aggrieved by the order may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation allegedly occurred or the circuit in which the complainant resided on the date of the violation. A final order of the ARB is not subject to judicial review in any criminal or other civil proceeding.
 
 (b) Under the Federal Water Pollution Control Act, within 120 days after the issuance by the ARB of a final order of the Secretary under § 24.110, any person adversely affected or aggrieved by the order may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation allegedly occurred or the circuit in which the complainant resided on the date of the violation.

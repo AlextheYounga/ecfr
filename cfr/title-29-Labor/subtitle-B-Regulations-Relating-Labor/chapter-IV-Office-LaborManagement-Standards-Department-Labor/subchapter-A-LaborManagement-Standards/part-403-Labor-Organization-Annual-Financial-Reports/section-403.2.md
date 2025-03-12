@@ -1,5 +1,7 @@
 ##### § 403.2 Annual financial report. #####
 
+Link to an amendment published at 85 FR 13441, Mar. 6, 2020.
+
 (a) Every labor organization shall, as prescribed by the regulations in this part, file with the Office of Labor-Management Standards within 90 days after the end of each of its fiscal years, a financial report signed by its president and treasurer, or corresponding principal officers.
 
 (b) Every labor organization shall include in its annual financial report filed as provided in paragraph (a) of this section, in such detail as may be necessary accurately to disclose its financial condition and operations for its preceding fiscal year and in such categories as prescribed by the Secretary under the provisions of this part, the information required by section 201(b) of the Act and found by the Secretary under section 208 thereof to be necessary in such report.

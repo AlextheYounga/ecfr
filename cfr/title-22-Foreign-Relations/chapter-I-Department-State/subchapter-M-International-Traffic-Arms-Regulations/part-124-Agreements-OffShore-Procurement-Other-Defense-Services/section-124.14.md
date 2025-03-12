@@ -1,7 +1,5 @@
 ##### § 124.14 Exports to warehouses or distribution points outside the United States. #####
 
-Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
-
 (a) *Agreements.* Agreements (e.g., contracts) between U.S. persons and foreign persons for the warehousing and distribution of defense articles must be approved by the Directorate of Defense Trade Controls before they enter into force. Such agreements will be limited to unclassified defense articles and must contain conditions for special distribution, end-use and reporting. Licenses for exports pursuant to such agreements must be obtained prior to exports of the defense articles unless an exemption under § 123.16(b)(1) of this subchapter is applicable.
 
 (b) *Required information.* Proposed warehousing and distribution agreements (and amendments thereto) shall be submitted to the Directorate of Defense Trade Controls for approval. The following information must be included in all such agreements:
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
 
 (8) “All provisions in this agreement which refer to the United States Government and the Department of State will remain binding on the parties after the termination of the agreement.”
 
-(9) Additional clause. Unless the articles covered by the agreement are in fact intended to be distributed to private persons or entities (e.g., sporting firearms for commercial resale, cryptographic devices and software for financial and business applications), the following clause must be included in all warehousing and distribution agreements: “Sales or other transfers of the licensed article shall be limited to governments of the countries in the distribution territory and to private entities seeking to procure the licensed article pursuant to a contract with a government within the distribution territory, unless the prior written approval of the U.S. Department of State is obtained.”
+(9) Unless the articles covered by the agreement are in fact intended to be distributed to private persons or entities (e.g., cryptographic devices and software for financial and business applications), the following clause must be included in all warehousing and distribution agreements: “Sales or other transfers of the licensed article shall be limited to governments of the countries in the distribution territory and to private entities seeking to procure the licensed article pursuant to a contract with a government within the distribution territory, unless the prior written approval of the U.S. Department of State is obtained.”
 
 (d) *Special clauses for agreements relating to significant military equipment.* With respect to agreements for the warehousing and distribution of significant military equipment, the following additional provisions must be included in the agreement:
 
@@ -62,4 +60,4 @@ Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
 
 (3) “(Applicant) will furnish the Department of State with one copy of the signed agreement (or amendment thereto) within 30 days from the date that the agreement is concluded, and will inform the Department of its termination not less than 30 days prior to expiration. If a decision is made not to conclude the proposed agreement, (applicant) will so inform the Department within 60 days.”
 
-[58 FR 39305, July 22, 1993, as amended at 71 FR 20544, Apr. 21, 2006; 81 FR 54736, Aug. 17, 2016]
+[58 FR 39305, July 22, 1993, as amended at 71 FR 20544, Apr. 21, 2006; 81 FR 54736, Aug. 17, 2016; 85 FR 3833, Jan. 23, 2020]

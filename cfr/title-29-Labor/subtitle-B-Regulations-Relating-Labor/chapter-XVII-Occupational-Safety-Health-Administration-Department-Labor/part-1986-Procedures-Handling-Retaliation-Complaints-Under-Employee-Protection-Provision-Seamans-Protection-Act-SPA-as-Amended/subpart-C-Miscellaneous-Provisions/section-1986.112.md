@@ -1,5 +1,7 @@
 ##### § 1986.112 Judicial review. #####
 
+Link to an amendment published at 85 FR 13039, Mar. 6, 2020.
+
 (a) Within 60 days after the issuance of a final order under §§ 1986.109 and 1986.110, any person adversely affected or aggrieved by the order may file a petition for review of the order in the court of appeals of the United States for the circuit in which the violation allegedly occurred or the circuit in which the complainant resided on the date of the violation.
 
 (b) A final order is not subject to judicial review in any criminal or other civil proceeding.

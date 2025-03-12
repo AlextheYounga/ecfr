@@ -1,6 +1,6 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 85 FR 7430, Feb. 7, 2020.
+Link to an amendment published at 85 FR 29876, May 19, 2020.
 
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
@@ -136,7 +136,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Dredge vessel,* with respect to the scallop fishery, means any fishing vessel that is equipped for fishing using dredge gear and that is capable of catching scallops.
 
-*Electronic monitoring,* with respect to the NE multispecies fishery, means any equipment that is used to monitor area fished and the amount and identity of species kept and discarded in lieu of at-sea monitors as part of an approved Sector at-sea monitoring program.
+*Electronic monitoring* means a network of equipment that uses a software operating system connected to one or more technology components, including, but not limited to, cameras and recording devices to collect data on catch and vessel operations. With respect to the NE multispecies fishery, electronic monitoring means any equipment that is used to monitor area fished and the amount and identity of species kept and discarded in lieu of at-sea monitors as part of an approved Sector at-sea monitoring program.
 
 *Exempted gear,* with respect to the NE multispecies fishery, means gear that is deemed to be not capable of catching NE multispecies, and includes: Pelagic hook and line, pelagic longline, spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dipnets, stop nets, pound nets, pelagic gillnets, pots and traps, shrimp trawls (with a properly configured grate as defined under this part), and surfclam and ocean quahog dredges.
 
@@ -460,6 +460,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 (B) The net is fan-folded (flaked) and bound around its circumference.
 
+*Observer or monitor* means any person certified by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program. Observers or monitors include NMFS-certified fisheries observers, at-sea monitors, portside samplers, and dockside monitors.
+
 (ii) *On-deck stowage.* (A) The net is fan-folded (flaked) and bound around its circumference;
 
 (B) The net is securely fastened to the deck or rail of the vessel; and
@@ -624,7 +626,7 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Skate Management Unit* means an area of the Atlantic Ocean from 35°15.3′ N. lat., the approximate latitude of Cape Hatteras Light, NC, northward to the U.S.-Canada border, extending eastward from the shore to the outer boundary of the EEZ and northward to the U.S.-Canada border in which the United States exercises exclusive jurisdiction over all skates fished for, possessed, caught, or retained in or from such area.
 
-*Slip(s) or slipping catch in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-approved observer prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-approved observer after the catch is on board. Slip(s) or slipping catch includes releasing fish from a codend or seine prior to the completion of pumping the fish on board and the release of fish from a codend or seine while the codend or seine is in the water. Slippage or slipped catch refers to fish that are slipped. Slippage or slipped catch does not include operational discards, discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-approved observer, or fish that inadvertently fall out of or off fishing gear as gear is being brought on board the vessel.
+*Slip(s) or slipping catch in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-certified observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-certified observer or monitor after the catch is on board. Slip(s) or slipping catch also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slip(s) or slipping catch includes releasing fish from a codend or seine prior to the completion of pumping the fish on board and the release of fish from a codend or seine while the codend or seine is in the water. Slippage or slipped catch refers to fish that are slipped. Slippage or slipped catch does not include operational discards, discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-certified observer or monitor, or fish that inadvertently fall out of or off fishing gear as gear is being brought on board the vessel.
 
 *Small-mesh multispecies* means the subset of Northeast multispecies that includes silver hake, offshore hake, and red hake.
 
@@ -722,4 +724,4 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Whiting Monitoring Committee (WMC)* means a team appointed by the NEFMC to review, analyze, and recommend adjustments to the management measures addressing small-mesh multispecies. The team consists of staff from the NEFMC and MAFMC, NMFS Northeast Regional Office, the NEFSC, the USCG, at least one industry representative from each geographical area (northern New England, southern New England, and the Mid-Atlantic), and no more than two representatives, appointed by the Commission, from affected states.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 85 FR 7430, Feb. 7, 2020, §thnsp;648.2 was amended by revising the definition for “Slippage in the Atlantic herring fishery,” however, this definition does not exist so the amendment could not be incorporated.

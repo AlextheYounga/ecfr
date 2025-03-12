@@ -1,7 +1,5 @@
 ##### § 129.2 Definitions. #####
 
-Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
-
 As used in this part:
 
 (a) *Broker* means any person (*see* § 120.14 of this subchapter) described below who engages in the business of brokering activities:
@@ -38,10 +36,14 @@ The exclusion does not apply to persons subject to U.S. jurisdiction with respec
 
 (iv) Activities that do not extend beyond administrative services, such as providing or arranging office space and equipment, hospitality, advertising, or clerical, visa, or translation services, collecting product and pricing information to prepare a response to Request for Proposal, generally promoting company goodwill at trade shows, or activities by an attorney that do not extend beyond the provision of legal advice to clients;
 
-(v) Activities performed by an affiliate, as defined in § 120.40 of this subchapter, on behalf of another affiliate; or
+(v) Activities performed by an affiliate, as defined in § 120.40 of this subchapter, on behalf of another affiliate;
 
-(vi) Activities by persons, including their regular employees (*see* § 120.39 of this subchapter), that do not extend beyond acting as an end-user of a defense article or defense service exported pursuant to a license or other approval under parts 123, 124, or 125 of this subchapter, or subsequently acting as a reexporter or retransferor of such article or service under such license or other approval, or under an approval pursuant to § 123.9 of this subchapter.
+(vi) Activities by persons, including their regular employees (*see* § 120.39 of this subchapter), that do not extend beyond acting as an end-user of a defense article or defense service exported pursuant to a license or other approval under parts 123, 124, or 125 of this subchapter, or subsequently acting as a reexporter or retransferor of such article or service under such license or other approval, or under an approval pursuant to § 123.9 of this subchapter;
+
+(vii) Activities by persons to facilitate the manufacture in the United States or export of an item subject to the EAR; or
+
+(viii) Activities by persons to facilitate the reexport, or transfer of an item subject to the EAR that has been approved pursuant to a license, license exception, or no license required authorization under the EAR or a license or other approval under this subchapter.
 
 (c) For the purposes of this subchapter, engaging in the business of brokering activities requires only one occasion of brokering as described in paragraph (b) of this section.
 
-[78 FR 52690, Aug. 26, 2013]
+[78 FR 52690, Aug. 26, 2013, as amended at 85 FR 3833, Jan. 23, 2020]

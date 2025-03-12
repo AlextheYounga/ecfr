@@ -1,7 +1,5 @@
 ##### § 648.51 Gear and crew restrictions. #####
 
-Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
-
 (a) *Trawl vessel gear restrictions.* Trawl vessels issued a limited access scallop permit under § 648.4(a)(2) while fishing under or subject to the DAS allocation program for scallops and authorized to fish with or possess on board trawl nets pursuant to § 648.51(f), any trawl vessels in possession of more than 40 lb (18.14 kg) of shucked, or 5 bu (176.2 L) of in-shell scallops in or from the EEZ, and any trawl vessels fishing for scallops in the EEZ, must comply with the following:
 
 (1) *Maximum sweep.* The trawl sweep of nets shall not exceed 144 ft (43.9 m), as measured by the total length of the footrope that is directly attached to the webbing, unless the net is stowed and not available for immediate use, defined in § 648.2, or unless the vessel is fishing under the Northeast multispecies or monkfish DAS programs.
@@ -68,7 +66,7 @@ Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 (3) The Regional Administrator may authorize additional people to be on board through issuance of a letter of authorization.
 
-(4) A certified at-sea observer is on board, as required by § 648.11(g).
+(4) A certified at-sea observer is on board, as required by § 648.11(k).
 
 (d) *Sorting and shucking machines.* (1) Shucking machines are prohibited on all limited access vessels fishing under the scallop DAS program, or any vessel in possession of more than 600 lb (272.2 kg) of scallops, unless the vessel has not been issued a limited access scallop permit and fishes exclusively in state waters.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 (ii) The Regional Administrator may authorize additional people to be on board through issuance of a letter of authorization.
 
-(iii) A certified at-sea observer is on board, as required by § 648.11(g).
+(iii) A certified at-sea observer is on board, as required by § 648.11(k).
 
 (f) *Restrictions on the use of trawl nets.* (1) A vessel issued a limited access scallop permit fishing for scallops under the scallop DAS allocation program may not fish with, possess on board, or land scallops while in possession of a trawl net, unless such vessel has been issued a limited access trawl vessel permit that endorses the vessel to fish for scallops with a trawl net. A limited access scallop vessel issued a trawl vessel permit that endorses the vessel to fish for scallops with a trawl net and general category scallop vessels enrolled in the Area Access Program as specified in § 648.59, may not fish for scallops with a trawl net in the Closed Area 1, Closed Area II, Closed Area II Extension, and Nantucket Lightship Rotational Areas specified in § 648.60.
 

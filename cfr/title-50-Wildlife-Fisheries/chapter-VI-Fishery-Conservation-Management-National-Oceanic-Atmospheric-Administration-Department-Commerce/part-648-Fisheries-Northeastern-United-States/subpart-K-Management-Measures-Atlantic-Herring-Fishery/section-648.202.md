@@ -1,7 +1,5 @@
 ##### § 648.202 Season and area restrictions. #####
 
-Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
-
 (a) *Purse Seine/Fixed Gear Only Area.* Vessels fishing for Atlantic herring may not use, deploy, or fish with midwater trawl gear in Area 1A from June 1 September 30 of each fishing year. A limited access herring vessel with midwater trawl gear on board may transit Area 1A from June 1-September 30, provided such midwater trawl gear is stowed and not available for immediate use as defined in § 648.2. Vessels may use any authorized gear type to harvest herring in Area 1A from October 1 - May 31.
 
 (b) *Fishing in Northeast Multispecies Closed Areas.* (1) No vessel issued an Atlantic herring permit and fishing with midwater trawl gear, may fish for, possess or land fish in or from the Closed Areas, including Cashes Ledge Closure Area, Western GOM Closure Area, Closed Area I North (February 1-April 15), and Closed Area II, as defined in § 648.81(a)(3), (4), and (5) and (c)(3) and (4), respectively, unless it has declared first its intent to fish in the Closed Areas as required by § 648.11(m)(1), and is carrying onboard a NMFS-certified observer.
@@ -24,6 +22,6 @@ Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 (iii) Report slippage events on the Atlantic herring daily VMS catch report and indicate the reason for slipping catch if the vessel was issued a limited access herring permit.
 
-(iv) Comply with the measures to address slippage specified in § 648.11(m)(4)(iv) and (v) if the vessel was issued an All Areas or Areas 2/3 Limited Access Herring Permit.
+(iv) Comply with the measures to address slippage specified in § 648.11(m)(7)(iv) and (vi) if the vessel was issued an All Areas or Areas 2/3 Limited Access Herring Permit.
 
-[72 FR 11277, Mar. 12, 2007, as amended at 79 FR 8816, Feb. 13, 2014; 79 FR 52580, Sept. 4, 2014; 81 FR 19054, Apr. 4, 2016; 83 FR 15275, Apr. 9, 2018]
+[72 FR 11277, Mar. 12, 2007, as amended at 79 FR 8816, Feb. 13, 2014; 79 FR 52580, Sept. 4, 2014; 81 FR 19054, Apr. 4, 2016; 83 FR 15275, Apr. 9, 2018; 85 FR 7442, Feb. 7, 2020]

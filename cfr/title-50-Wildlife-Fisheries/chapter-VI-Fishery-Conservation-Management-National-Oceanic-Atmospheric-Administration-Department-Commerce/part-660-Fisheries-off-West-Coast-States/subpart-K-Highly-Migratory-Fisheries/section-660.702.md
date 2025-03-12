@@ -1,7 +1,5 @@
 ##### § 660.702 Definitions. #####
 
-Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
-
 *Basket-style longline gear* means a type of longline gear that is divided into units called *baskets,* each consisting of a segment of main line to which 10 or more branch lines with hooks are spliced. The mainline and all branch lines are made of multiple braided strands of cotton, nylon, or other synthetic fibers impregnated with tar or other heavy coatings that cause the lines to sink rapidly in seawater.
 
 *Closure,* when referring to closure of a fishery, means that taking and retaining, possessing, or landing the particular species or species group is prohibited.
@@ -44,6 +42,8 @@ Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
 
 *Incidental catch or incidental species* means HMS caught while fishing for the primary purpose of catching other species with gear not authorized by the FMP.
 
+*Injury,* when referring to marine mammals and sea turtles, means the animal has been released with obvious physical injury or with attached fishing gear.
+
 *Land or landing* means offloading fish from a fishing vessel or arriving in port to begin offloading fish or causing fish to be offloaded from a fishing vessel.
 
 *Mesh size* means the opening between opposing knots in a net. Minimum mesh size means the smallest distance allowed between the inside of one knot to the inside of the opposing knot when the mesh is stretched, regardless of twine size.
@@ -76,4 +76,4 @@ Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
 
 *Vessel monitoring system unit* (VMS unit) means an automated, remote system and mobile transceiver unit that is approved by NMFS and provides information about a vessel's identity, location, and activity for the purposes of routine monitoring, control, surveillance and enforcement of area and time restrictions and other fishery management measures.
 
-[69 FR 18453, Apr. 7, 2004, as amended at 76 FR 56328, Sept. 13, 2011; 80 FR 10394, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 83 FR 11150, Mar. 14, 2018]
+[69 FR 18453, Apr. 7, 2004, as amended at 76 FR 56328, Sept. 13, 2011; 80 FR 10394, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 83 FR 11150, Mar. 14, 2018; 85 FR 7250, Feb. 7, 2020]

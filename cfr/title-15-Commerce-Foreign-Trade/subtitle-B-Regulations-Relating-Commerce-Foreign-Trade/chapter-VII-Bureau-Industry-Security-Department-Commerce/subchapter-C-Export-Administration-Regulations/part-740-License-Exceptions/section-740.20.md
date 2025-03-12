@@ -1,7 +1,5 @@
 ##### § 740.20 License Exception Strategic Trade Authorization (STA). #####
 
-Link to an amendment published at 85 FR 4175, Jan. 23, 2020.
-
 (a) *Introduction.* This section authorizes exports, reexports, and transfers (in-country), including releases within a single country of software source code and technology to foreign nationals, in lieu of a license that would otherwise be required pursuant to part 742 of the EAR.
 
 Note 1 to paragraph (a):
@@ -16,7 +14,11 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 (i) License Exception STA may not be used in lieu of any license requirement imposed by “Part 744 - Control Policy: End User and End Use Based” or by “Part 746 - Embargoes and Other Special Controls” of the EAR.
 
-(ii) License Exception STA may not be used for any item controlled under ECCNs 0A981, 0A982, 0A983, 0A985, 0E982, or 0E987.
+(ii) License Exception STA may not be used for:
+
+(A) Any item controlled in ECCNs 0A501.a, .b, .c, .d, or .e; 0A981; 0A982; 0A983; 0A503; 0E504; 0E982; or
+
+(B) Shotguns with barrel length less than 18 inches controlled in 0A502.
 
 (iii) License Exception STA may not be used for any item that is controlled for reason of encryption items (EI), short supply (SS), surreptitious listening (SL), missile technology (MT) or chemical weapons (CW).
 

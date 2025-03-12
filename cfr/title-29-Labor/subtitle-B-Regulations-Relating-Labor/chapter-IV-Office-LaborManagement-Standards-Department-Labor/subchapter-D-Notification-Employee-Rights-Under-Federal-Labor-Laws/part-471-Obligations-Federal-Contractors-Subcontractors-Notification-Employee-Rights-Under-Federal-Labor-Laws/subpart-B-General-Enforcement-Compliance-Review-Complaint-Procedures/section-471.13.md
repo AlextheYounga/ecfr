@@ -1,5 +1,7 @@
 ##### § 471.13 Under what circumstances, and how, will enforcement proceedings under Executive Order 13496 be conducted? #####
 
+Link to an amendment published at 85 FR 13034, Mar. 6, 2020.
+
 (a) *General.* (1) Violations of the Executive Order or this part may result in administrative enforcement proceedings. The bases for a finding of a violation may include, but are not limited to:
 
 (i) The results of a compliance evaluation;

@@ -1,8 +1,6 @@
 ##### § 742.19 Anti-terrorism: North Korea. #####
 
-Link to an amendment published at 85 FR 4176, Jan. 23, 2020.
-
-(a) *License requirements.* (1) All items on the Commerce Control List (CCL) (i.e., with a designation other than EAR99) that are controlled for anti-terrorism reasons require a license for export or reexport to North Korea. This includes all items on the CCL containing AT column 1 or AT column 2 in the Country Chart column of the License requirements section of an ECCN; and ECCNs 0A986, 0A988, 0A999, 0B986, 0B999, 0D999, 1A999, 1B999, 1C995, 1C999, 1D999, 2A994, 2A999, 2B999, 2D994, 2E994, 3A999, and 6A999. See also part 746 of the EAR.
+(a) *License requirements.* (1) All items on the Commerce Control List (CCL) (i.e., with a designation other than EAR99) that are controlled for anti-terrorism reasons require a license for export or reexport to North Korea. This includes all items on the CCL containing AT column 1 or AT column 2 in the Country Chart column of the License requirements section of an ECCN; and ECCNs 0A505.c, 0A988, 0A999, 0B505.c, 0B999, 0D999, 1A999, 1B999, 1C995, 1C999, 1D999, 2A994, 2A999, 2B999, 2D994, 2E994, 3A999, and 6A999. See also part 746 of the EAR.
 
 (2) The Secretary of State has designated North Korea as a country whose Government has repeatedly provided support for acts of international terrorism.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 85 FR 4176, Jan. 23, 2020.
 
 (4) License applications for items reviewed under section 6(a) controls will also be reviewed to determine the applicability of section 6(j) controls to the transaction. When it is determined that an export or reexport could make a significant contribution to the military potential of North Korea, including its military logistics capability, or could enhance North Korea's ability to support acts of international terrorism, the Secretaries of State and Commerce will notify the Congress 30 days prior to issuance of a license.
 
-[65 FR 38151, June 19, 2000, as amended at 66 FR 36682, July 12, 2001; 68 FR 16212, Apr. 3, 2003; 70 FR 54628, Sept. 16, 2005; 71 FR 20885, Apr. 24, 2006; 72 FR 3725, Jan. 26, 2007; 72 FR 62532, Nov. 5, 2007; 75 FR 14340, Mar. 25, 2010]
+[65 FR 38151, June 19, 2000, as amended at 66 FR 36682, July 12, 2001; 68 FR 16212, Apr. 3, 2003; 70 FR 54628, Sept. 16, 2005; 71 FR 20885, Apr. 24, 2006; 72 FR 3725, Jan. 26, 2007; 72 FR 62532, Nov. 5, 2007; 75 FR 14340, Mar. 25, 2010; 85 FR 4176, Jan. 23, 2020]

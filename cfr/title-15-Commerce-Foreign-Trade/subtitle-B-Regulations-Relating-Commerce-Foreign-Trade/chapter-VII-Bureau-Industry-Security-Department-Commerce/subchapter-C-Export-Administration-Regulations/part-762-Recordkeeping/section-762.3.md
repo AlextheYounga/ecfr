@@ -1,7 +1,5 @@
 ##### § 762.3 Records exempt from recordkeeping requirements. #####
 
-Link to an amendment published at 85 FR 4180, Jan. 23, 2020.
-
 (a) The following types of records have been determined to be exempt from the recordkeeping requirement procedures:
 
 (1) Export information page;
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 4180, Jan. 23, 2020.
 
 (4) Inspection certificate;
 
-(5) Warranty certificate;
+(5) Warranty certificate, except for a warranty certificate issued for an address located outside the United States for any firearm controlled in ECCN 0A501.a and for shotguns with barrel length less than 18 inches controlled in 0A502;
 
 (6) Guarantee certificate;
 
@@ -80,4 +78,4 @@ and
 
 (b) [Reserved]
 
-[61 FR 12900, Mar. 25, 1996, as amended at 62 FR 25469, May 9, 1997]
+[61 FR 12900, Mar. 25, 1996, as amended at 62 FR 25469, May 9, 1997; 85 FR 4180, Jan. 23, 2020]

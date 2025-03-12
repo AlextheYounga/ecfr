@@ -1,14 +1,12 @@
 ##### § 740.16 Additional permissive reexports (APR). #####
 
-Link to an amendment published at 85 FR 4175, Jan. 23, 2020.
-
 This License Exception allows the following reexports:
 
 (a) *Reexports from Country Group A:1 and Hong Kong.* Reexports may be made from countries in Country Group A:1 or from Hong Kong, provided that:
 
 (1) The reexport is made in accordance with the conditions of an export authorization from the government of the reexporting country;
 
-(2) The commodities being reexported are not controlled for NP, CB, MT, SI or CC reasons or described in ECCN 0A919, 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications), 6A002, or 6A003; and
+(2) The commodities being reexported are not controlled for NP, CB, MT, SI, or CC reasons or described in ECCNs 0A919, 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications), 6A002, 6A003; or commodities classified under a 0x5zz ECCN; and
 
 (3) The reexport is destined to *either:*
 
@@ -26,9 +24,11 @@ This License Exception allows the following reexports:
 
 (iii) “Military commodities” described in ECCN 0A919;
 
-(iv) Commodities described in ECCN 0A987 that incorporate an image intensifier tube; or
+(iv) Commodities described in ECCN 0A504 that incorporate an image intensifier tube;
 
-(v) Commodities described in ECCN 6A002.
+(v) Commodities described in ECCN 6A002; or
+
+(vi) Commodities classified under a 0x5zz ECCN.
 
 (3) Cameras described in ECCNs 6A003 may be exported or reexported to and among countries in Country Group A:1 (see supplement no. 1 to this part) if:
 

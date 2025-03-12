@@ -1,7 +1,5 @@
 ##### § 126.1 Prohibited exports, imports, and sales to or from certain countries. #####
 
-Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
-
 (a) *General.* It is the policy of the United States to deny licenses and other approvals for exports and imports of defense articles and defense services, destined for or originating in certain countries. The exemptions provided in this subchapter, except § 123.17 of this subchapter and §§ 126.4(a)(1) or (3) and (b)(1) and 126.6, or when the recipient is a U.S. Government department or agency, do not apply with respect to defense articles or defense services originating in or for export to any proscribed countries, areas, or persons. (See § 129.7 of this subchapter, which imposes restrictions on brokering activities similar to those in this section).
 
 (b) *Shipments.* A defense article licensed or otherwise authorized for export, temporary import, reexport, or retransfer under this subchapter may not be shipped on a vessel, aircraft, spacecraft, or other means of conveyance that is owned by, operated by, leased to, or leased from any of the proscribed countries, areas, or other persons referred to in this section.
@@ -145,7 +143,7 @@ Note to paragraph (e):
 
 (r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals, for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Forces in Cyprus (UNFICYP) or for civilian end-users.
 
-(s) *Zimbabwe.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Zimbabwe, except that a license or other approval may be issued, on a case-by-case basis, for the temporary export of firearms and ammunition for personal use by individuals (not for resale or retransfer, including to the Government of Zimbabwe). Such exports may meet the licensing exemptions of § 123.17 of this subchapter.
+(s) *Zimbabwe.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Zimbabwe, except that a license or other approval may be issued, on a case-by-case basis, for the temporary export of firearms and ammunition for personal use by individuals (not for resale or retransfer, including to the Government of Zimbabwe).
 
 (t) *Lebanon.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Lebanon, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Interim Force in Lebanon (UNIFIL) or as authorized by the Government of Lebanon.
 

@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -148,7 +146,7 @@ VMS Demarcation Line
 
 (3) *Incidental scallop fishery.* An Incidental scallop vessel that has crossed the VMS Demarcation Line on any declared fishing trip for any species is deemed to be fishing under the Incidental scallop fishery.
 
-(4) *Catch reports.* (i) The owner or operator of a limited access or LAGC scallop vessel with an IFQ permit that fishes for, possesses, or retains scallops, and is not fishing under a NE Multispecies DAS or sector allocation, must submit reports through the VMS, in accordance with instructions to be provided by the Regional Administrator, for each day fished, including open area trips, access area trips as described in § 648.59(b)(9), Northern Gulf of Maine RSA trips, and trips accompanied by a NMFS-approved observer. The reports must be submitted for each day (beginning at 0000 hr and ending at 2400 hr) and not later than 0900 hr of the following day. Such reports must include the following information:
+(4) *Catch reports.* (i) The owner or operator of a limited access or LAGC scallop vessel with an IFQ permit that fishes for, possesses, or retains scallops, and is not fishing under a NE Multispecies DAS or sector allocation, must submit reports through the VMS, in accordance with instructions to be provided by the Regional Administrator, for each day fished, including open area trips, access area trips as described in § 648.59(b)(9), Northern Gulf of Maine RSA trips, and trips accompanied by a NMFS-certified observer. The reports must be submitted for each day (beginning at 0000 hr and ending at 2400 hr) and not later than 0900 hr of the following day. Such reports must include the following information:
 
 (A) VTR serial number;
 

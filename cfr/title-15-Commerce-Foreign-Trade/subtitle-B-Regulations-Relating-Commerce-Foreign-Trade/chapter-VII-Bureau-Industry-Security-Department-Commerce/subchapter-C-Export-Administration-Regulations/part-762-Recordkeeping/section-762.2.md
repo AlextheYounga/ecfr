@@ -1,7 +1,5 @@
 ##### § 762.2 Records to be retained. #####
 
-Link to an amendment published at 85 FR 4180, Jan. 23, 2020.
-
 (a) *Records required to be retained.* The records required to be retained under this part 762 include the following:
 
 (1) Export control documents as defined in part 772 of the EAR, except parties submitting documents electronically to BIS via the SNAP-R system are not required to retain copies of documents so submitted;
@@ -22,9 +20,11 @@ Link to an amendment published at 85 FR 4180, Jan. 23, 2020.
 
 (9) Restrictive trade practice or boycott documents and reports;
 
-(10) Notification from BIS of an application being returned without action; notification by BIS of an application being denied; notification by BIS of the results of a commodity classification or encryption review request conducted by BIS; and,
+(10) Notification from BIS of an application being returned without action; notification by BIS of an application being denied; notification by BIS of the results of a commodity classification or encryption review request conducted by BIS;
 
-(11) Other records pertaining to the types of transactions described in § 762.1(a) of this part, which are made or obtained by a person described in § 762.1(b) of this part.
+(11) The serial number, make, model, and caliber for any firearm controlled in ECCN 0A501.a and for shotguns with barrel length less than 18 inches controlled in 0A502 that have been exported. The “exporter” or any other party to the transaction (*see* § 758.3 of the EAR), that creates or receives such records is a person responsible for retaining this record; and
+
+(12) Other records pertaining to the types of transactions described in § 762.1(a) of this part, which are made or obtained by a person described in § 762.1(b) of this part.
 
 (b) *Records retention references.* Paragraph (a) of this section describes records that are required to be retained. Other parts, sections, or supplements of the EAR which require the retention of records or contain recordkeeping provisions, include, but are not limited to the following:
 

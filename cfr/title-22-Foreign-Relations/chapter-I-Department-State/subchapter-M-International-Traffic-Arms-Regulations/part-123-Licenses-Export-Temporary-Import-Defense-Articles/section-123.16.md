@@ -1,7 +1,5 @@
 ##### § 123.16 Exemptions of general applicability. #####
 
-Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
-
 (a) The following exemptions apply to exports of unclassified defense articles for which no approval is needed from the Directorate of Defense Trade Controls. These exemptions do not apply to: Proscribed destinations under § 126.1 of this subchapter; exports for which Congressional notification is required (*see* § 123.15 of this subchapter); MTCR articles; Significant Military Equipment (SME); and may not be used by persons who are generally ineligible as described in § 120.1(c) of this subchapter. All shipments of defense articles, including but not limited to those to Australia, Canada, and the United Kingdom, require an Electronic Export Information (EEI) filing or notification letter. If the export of a defense article is exempt from licensing, the EEI filing must cite the exemption. Refer to § 123.22 of this subchapter for EEI filing and letter notification requirements.
 
 (b) The following exports are exempt from the licensing requirements of this subchapter.
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
 
 (v) In the case of a distribution agreement, export must be made directly to the approved foreign distributor.
 
-(2) Port Directors of U.S. Customs and Border Protection shall permit the export of components or spare parts (for exemptions for firearms and ammunition see § 123.17) without a license when the total value does not exceed $500 in a single transaction and:
+(2) Port Directors of U.S. Customs and Border Protection shall permit the export of parts or components without a license when the total value does not exceed $500 in a single transaction and:
 
 (i) The components or spare parts are being exported to support a defense article previously authorized for export; and
 
@@ -38,9 +36,9 @@ Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
 
 (5) Port Directors of U.S. Customs and Border Protection shall permit the temporary export without a license of unclassified defense articles to any public exhibition, trade show, air show or related event if that article has previously been licensed for a public exhibition, trade show, air show or related event and the license is still valid. U.S. persons who avail themselves of this exemption must electronically submit a certification to U.S. Customs and Border Protection that these conditions are met, unless directed by U.S. Customs and Border Protection to provide such a certification in another manner.
 
-(6) For exemptions for firearms and ammunition refer to § 123.17 of this subchapter.
+(6) For exemptions for personal protective gear, refer to § 123.17.
 
-(7) For exemptions for firearms for personal use of members of the U.S. Armed Forces and civilian employees see § 123.18.
+(7) [Reserved]
 
 (8) For exports to Canada refer to § 126.5 of this subchapter.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
 
 (10) [Reserved]
 
-[58 FR 39299, July 22, 1993, as amended at 59 FR 29951, June 10, 1994; 59 FR 45622, Sept. 2, 1994; 67 FR 15100, Mar. 29, 2002; 70 FR 50961, Aug. 29, 2005; 71 FR 20541, Apr. 21, 2006; 76 FR 45197, July 28, 2011; 77 FR 16598, Mar. 21, 2012; 78 FR 40631, July 8, 2013; 79 FR 61230, Oct. 10, 2014; 79 FR 66609, Nov. 10, 2014; 82 FR 17, Jan. 3, 2017]
+[58 FR 39299, July 22, 1993, as amended at 59 FR 29951, June 10, 1994; 59 FR 45622, Sept. 2, 1994; 67 FR 15100, Mar. 29, 2002; 70 FR 50961, Aug. 29, 2005; 71 FR 20541, Apr. 21, 2006; 76 FR 45197, July 28, 2011; 77 FR 16598, Mar. 21, 2012; 78 FR 40631, July 8, 2013; 79 FR 61230, Oct. 10, 2014; 79 FR 66609, Nov. 10, 2014; 82 FR 17, Jan. 3, 2017; 85 FR 3832, Jan. 23, 2020]

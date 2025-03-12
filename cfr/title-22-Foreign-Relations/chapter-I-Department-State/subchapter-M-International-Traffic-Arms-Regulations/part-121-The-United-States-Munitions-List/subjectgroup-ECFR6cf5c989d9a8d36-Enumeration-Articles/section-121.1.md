@@ -1,7 +1,5 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 85 FR 3830, Jan. 23, 2020.
-
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
 (1) *Composition of U.S. Munitions List categories.* USML categories are organized by paragraphs and subparagraphs identified alphanumerically. They usually start by enumerating or otherwise describing end-items, followed by major systems and equipment; parts, components, accessories, and attachments; and technical data and defense services directly related to the defense articles of that USML category.
@@ -16,113 +14,259 @@ Link to an amendment published at 85 FR 3830, Jan. 23, 2020.
 
 (2) Described in a “catch-all” paragraph that incorporates “specially designed” (see § 120.41 of this subchapter) as a control parameter. In order to classify an item on the USML, begin with a review of the general characteristics of the item. This should guide you to the appropriate category, whereupon you should attempt to match the particular characteristics and functions of the article to a specific entry within that category. If the entry includes the term “specially designed,” refer to § 120.41 to determine if the article qualifies for one or more of the exclusions articulated in § 120.41(b). An item described in multiple entries should be categorized according to an enumerated entry rather than a specially designed catch-all paragraph. In all cases, articles not controlled on the USML may be subject to another U.S. government regulatory agency (*see* § 120.5 of this subchapter, and Supplement No. 4 to part 774 of the Export Administration Regulations for guidance on classifying an item subject to the EAR).
 
-Category I - Firearms, Close Assault Weapons and Combat Shotguns
+Category I - Firearms and Related Articles
 
-\* (a) Nonautomatic and semi-automatic firearms to caliber .50 inclusive (12.7 mm).
+\*(a) Firearms using caseless ammunition.
 
-\* (b) Fully automatic firearms to .50 caliber inclusive (12.7 mm).
+\*(b) Fully automatic firearms to .50 caliber (12.7 mm) inclusive.
 
-\* (c) Firearms or other weapons (e.g. insurgency-counterinsurgency, close assault weapons systems) having a special military application regardless of caliber.
+\*(c) Firearms specially designed to integrate fire control, automatic tracking, or automatic firing (e.g., Precision Guided Firearms).
 
-\* (d) Combat shotguns. This includes any shotgun with a barrel length less than 18 inches.
+*Note 1 to paragraph (c):* Integration does not include only attaching to the firearm or rail.
 
-\* (e) Silencers, mufflers, sound and flash suppressors for the articles in (a) through (d) of this category and their specifically designed, modified or adapted components and parts.
+\*(d) Fully automatic shotguns regardless of gauge.
 
-(f) Riflescopes manufactured to military specifications (See category XII(c) for controls on night sighting devices.)
+\*(e) Silencers, mufflers, and sound suppressors.
 
-\* (g) Barrels, cylinders, receivers (frames) or complete breech mechanisms for the articles in paragraphs (a) through (d) of this category.
+(f) [Reserved]
 
-(h) Components, parts, accessories and attachments for the articles in paragraphs (a) through (g) of this category.
+(g) Barrels, receivers (frames), bolts, bolt carriers, slides, or sears specially designed for the articles in paragraphs (a), (b), and (d) of this category.
 
-(i) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a) through (h) of this category. Technical data directly related to the manufacture or production of any defense articles described elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.
+(h) Parts, components, accessories, and attachments, as follows:
 
-(j) The following interpretations explain and amplify the terms used in this category and throughout this subchapter:
+(1) Drum and other magazines for firearms to .50 caliber (12.7 mm) inclusive with a capacity greater than 50 rounds, regardless of jurisdiction of the firearm, and specially designed parts and components therefor;
 
-(1) A firearm is a weapon not over .50 caliber (12.7 mm) which is designed to expel a projectile by the action of an explosive or which may be readily converted to do so.
+(2) Parts and components specially designed for conversion of a semi-automatic firearm to a fully automatic firearm;
 
-(2) A rifle is a shoulder firearm which can discharge a bullet through a rifled barrel 16 inches or longer.
+(3) Parts and components specially designed for defense articles described in paragraphs (c) and (e) of this category; or
 
-(3) A carbine is a lightweight shoulder firearm with a barrel under 16 inches in length.
+(4) Accessories or attachments specially designed to automatically stabilize aim (other than gun rests) or for automatic targeting, and specially designed parts and components therefor.
 
-(4) A pistol is a hand-operated firearm having a chamber integral with or permanently aligned with the bore.
+(i) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles described in this category and classified technical data directly related to items controlled in ECCNs 0A501, 0B501, 0D501, and 0E501 and defense services using the classified technical data. (*See* § 125.4 of this subchapter for exemptions.)
 
-(5) A revolver is a hand-operated firearm with a revolving cylinder containing chambers for individual cartridges.
+(j)-(w) [Reserved]
 
-(6) A submachine gun, “machine pistol” or “machine gun” is a firearm originally designed to fire, or capable of being fired, fully automatically by a single pull of the trigger.
+(x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
 
-Note:
+*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
 
-This coverage by the U.S. Munitions List in paragraphs (a) through (i) of this category excludes any non-combat shotgun with a barrel length of 18 inches or longer, BB, pellet, and muzzle loading (black powder) firearms. This category does not cover riflescopes and sighting devices that are not manufactured to military specifications. It also excludes accessories and attachments (e.g., belts, slings, after market rubber grips, cleaning kits) for firearms that do not enhance the usefulness, effectiveness, or capabilities of the firearm, components and parts. The Department of Commerce regulates the export of such items. See the Export Administration Regulations (15 CFR parts 730-799). In addition, license exemptions for the items in this category are available in various parts of this subchapter (e.g., §§ 123.17, 123.18 and 125.4).
+*Note 1 to Category I:* The following interpretations explain and amplify the terms used in this category:
+
+(1) A firearm is a weapon not over .50 caliber (12.7 mm) which is designed to expel a projectile by the deflagration of propellant;
+
+(2) A fully automatic firearm or shotgun is any firearm or shotgun that shoots, is designed to shoot, or can readily be restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger; and
+
+(3) Caseless ammunition is firearm ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.
 
 Category II - Guns and Armament
 
-\* (a) Guns over caliber .50 (*i.e.,* 12.7 mm), whether towed, airborne, self-propelled, or fixed, including but not limited to, howitzers, mortars, cannons, recoilless rifles, and grenade launchers.
+(a) Guns and armament greater than .50 caliber (12.7 mm), as follows:
 
-(b) Flame throwers specifically designed or modified for military application.
+\*(1) Guns, howitzers, artillery, and cannons;
 
-(c) Apparatus and devices for launching or delivering ordnance, other than those articles controlled in Category IV.
+\*(2) Mortars;
 
-\* (d) Kinetic energy weapon systems specifically designed or modified for destruction or rendering mission-abort of a target.
+\*(3) Recoilless rifles;
 
-(e) Signature control materials (e.g., parasitic, structural, coatings, screening) techniques, and equipment specifically designed, developed, configured, adapted or modified to alter or reduce the signature (e.g., muzzle flash suppression, radar, infrared, visual, laser/electro-optical, acoustic) of defense articles controlled by this category.
+\*(4) Grenade launchers; or
 
-\* (f) Engines specifically designed or modified for the self-propelled guns and howitzers in paragraph (a) of this category.
+(5) Developmental guns and armament greater than .50 caliber (12.7 mm) funded by the Department of Defense and specially designed parts and components therefor.
 
-(g) Tooling and equipment specifically designed or modified for the production of defense articles controlled by this category.
+*Note 1 to paragraph (a)(5):* This paragraph does not control guns and armament greater than .50 caliber (12.7 mm):
 
-(h) Test and evaluation equipment and test models specifically designed or modified for the articles controlled by this category. This includes but is not limited to diagnostic instrumentation and physical test models.
+(a) in production;
 
-(i) Autoloading systems for electronic programming of projectile function for the defense articles controlled in this Category.
+(b) determined to be subject to the EAR via a commodity jurisdiction determination (*see* § 120.4 of this subchapter); or
 
-(j) All other components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in paragraphs (a) through (i) of this category. This includes but is not limited to mounts and carriages for the articles controlled in this category.
+(c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.
 
-(k) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a) through (j) of this category. Technical data directly related to the manufacture or production of any defense articles described elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.
+*Note 2 to paragraph (a)(5):* Note 1 to pargraph (a)(5) does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
 
-(l) The following interpretations explain and amplify the terms used in this category and elsewhere in this subchapter:
+*Note 3 to paragraph (a)(5):* This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
 
-(1) The kinetic energy weapons systems in paragraph (d) of this category include but are not limited to:
+*Note 1 to paragraph (a):* This paragraph does not include: Non-automatic and non-semi-automatic rifles, carbines, and pistols between .50 (12.7 mm) and .72 caliber (18.288 mm) that are controlled on the CCL under ECCN 0A501; shotguns controlled on the CCL under ECCN 0A502; black powder guns and armaments manufactured between 1890 and 1919 controlled on the CCL under ECCN 0A602; or black powder guns and armaments manufactured earlier than 1890.
 
-(i) Launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6km/s, in single or rapid fire modes, using methods such as: electromagnetic, electrothermal, plasma, light gas, or chemical;
+*Note 2 to paragraph (a):* Guns and armament when integrated into their carrier (e.g., surface vessels, ground vehicles, or aircraft) are controlled in the category associated with the carrier. Self-propelled guns and armament are controlled in USML Category VII. Towed guns and armament and stand-alone guns and armament are controlled under this category.
 
-(ii) Prime power generation, electric armor, energy storage, thermal management; conditioning, switching or fuel-handling equipment; and the electrical interfaces between power supply gun and other turret electric drive function;
+(b) Flamethrowers with an effective range greater than or equal to 20 meters.
 
-(iii) Target acquisition, tracking fire control or damage assessment systems; and
+(c) [Reserved]
 
-(iv) Homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles.
+\*(d) Kinetic energy weapon systems specially designed for destruction or rendering mission-abort of a target.
 
-(2) The articles in this category include any end item, component, accessory, attachment part, firmware, software or system that has been designed or manufactured using technical data and defense services controlled by this category.
+*Note 1 to paragraph (d):* Kinetic energy weapons systems include but are not limited to launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6 km/s, in single or rapid fire modes, using methods such as: Electromagnetic, electrothermal, plasma, light gas, or chemical. This does not include launch systems and subsystems used for research and testing facilities subject to the EAR, which are controlled on the CCL under ECCN 2B232.
 
-(3) The articles specifically designed or modified for military application controlled in this category include any article specifically developed, configured, or adapted for military application.
+(e) Signature reduction devices specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category (e.g., muzzle flash suppression devices).
 
-Category III - Ammunition/Ordnance
+(f)-(i) [Reserved]
 
-\* (a) Ammunition/ordnance for the articles in Categories I and II of this section.
+(j) Parts, components, accessories, and attachments, as follows:
 
-(b) Ammunition/ordnance handling equipment specifically designed or modified for the articles controlled in this category, such as, belting, linking, and de-linking equipment.
+(1) Gun barrels, rails, tubes, and receivers specially designed for the weapons controlled in paragraphs (a) and (d) of this category;
 
-(c) Equipment and tooling specifically designed or modified for the production of defense articles controlled by this category.
+(2) Sights specially designed to orient indirect fire weapons;
 
-(d) Components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in this category:
+(3) Breech blocks for the weapons controlled in paragraphs (a) and (d) of this category;
 
-\* (1) Guidance and control components for the articles in paragraph (a) of this category;
+(4) Firing mechanisms for the weapons controlled in paragraphs (a) and (d) of this category and specially designed parts and components therefor;
 
-\* (2) Safing, arming and fuzing components (including target detection and localization devices) for the articles in paragraph (a) of this category; and
+(5) Systems for firing superposed or stacked ammunition and specially designed parts and components therefor;
 
-(3) All other components, parts, accessories, attachments and associated equipment for the articles in paragraphs (a) through (c) of this category.
+(6) Servo-electronic and hydraulic elevation adjustment mechanisms;
 
-(e) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a) through (d) of this category. Technical data directly related to the manufacture or production of any defense articles described elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.
+(7) Muzzle brakes;
 
-(f) The following explains and amplifies the terms used in this category and elsewhere in this subchapter:
+(8) Bore evacuators;
 
-(1) The components, parts, accessories and attachments controlled in this category include, but are not limited to cartridge cases, powder bags (or other propellant charges), bullets, jackets, cores, shells (excluding shotgun shells), projectiles (including canister rounds and submunitions therefor), boosters, firing components therefor, primers, and other detonating devices for the defense articles controlled in this category.
+(9) Independent ammunition handling systems for the guns and armament controlled in paragraphs (a), (b), and (d) of this category;
 
-(2) This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting or popping.
+(10) Components for independently powered ammunition handling systems and platform interface, as follows:
 
-(3) Equipment and tooling in paragraph (c) of this category does not include equipment for hand-loading ammunition.
+(i) Mounts;
 
-(4) The articles in this category include any end item, component, accessory, attachment, part, firmware, software, or system that has been designed or manufactured using technical data and defense services controlled by this category.
+(ii) Carriages;
 
-(5) The articles specifically designed or modified for military application controlled in this category include any article specifically developed, configured, or adapted for military application
+(iii) Gun pallets;
+
+(iv) Hydro-pneumatic equilibration cylinders; or
+
+(v) Hydro-pneumatic systems capable of scavenging recoil energy to power howitzer functions;
+
+*Note 1 to paragraph (j)(10):* For weapons mounts specially designed for surface vessels and special naval equipment, *see* Category VI. For weapons mounts specially designed for ground vehicles, *see* Category VII.
+
+(11) Ammunition containers/drums, ammunition chutes, ammunition conveyor elements, ammunition feeder systems, and ammunition container/drum entrance and exit units, specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category;
+
+(12) Systems and equipment for the guns and armament controlled in paragraphs (a) and (d) of this category for use in programming ammunition, and specially designed parts and components therefor;
+
+(13) Aircraft/gun interface units to support gun systems with a designed rate of fire greater than 100 rounds per minute and specially designed parts and components therefor;
+
+(14) Recoil systems specially designed to mitigate the shock associated with the firing process of guns integrated into air platforms and specially designed parts and components therefor;
+
+(15) Prime power generation, energy storage, thermal management, conditioning, switching, and fuel-handling equipment, and the electrical interfaces between the gun power supply and other turret electric drive components specially designed for kinetic weapons controlled in paragraph (d) of this category;
+
+(16) Kinetic energy weapon target acquisition, tracking fire control, and damage assessment systems and specially designed parts and components therefor; or
+
+\*(17) Any part, component, accessory, attachment, equipment, or system that:
+
+(i) Is classified;
+
+(ii) Contains classified software; or
+
+(iii) Is being developed using classified information.
+
+*Note 1 to paragraph (j)(17):* “Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
+
+(k) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a), (b), (d), (e), and (j) of this category and classified technical data directly related to items controlled in ECCNs 0A602, 0B602, 0D602, and 0E602 and defense services using the classified technical data. (*See* § 125.4 of this subchapter for exemptions.)
+
+(l)-(w) [Reserved]
+
+(x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
+
+*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+
+Category III - Ammunition and Ordnance
+
+(a) Ammunition, as follows:
+
+\*(1) Ammunition that incorporates a projectile controlled in paragraph (d)(1) or (3) of this category;
+
+\*(2) Ammunition preassembled into links or belts;
+
+\*(3) Shotgun ammunition that incorporates a projectile controlled in paragraph (d)(2) of this category;
+
+\*(4) Caseless ammunition manufactured with smokeless powder;
+
+*Note 1 to paragraph (a)(4):* Caseless ammunition is ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.
+
+\*(5) Ammunition, except shotgun ammunition, based on non-metallic cases, or non-metallic cases that have only a metallic base, which result in a total cartridge mass 80% or less than the mass of a brass- or steel-cased cartridge that provides comparable ballistic performance;
+
+\*(6) Ammunition employing pyrotechnic material in the projectile base or any ammunition employing a projectile that incorporates tracer materials of any type having peak radiance above 710 nm and designed to be observed primarily with night vision optical systems;
+
+\*(7) Ammunition for fully automatic firearms that fire superposed or stacked projectiles or for guns that fire superposed or stacked projectiles;
+
+\*(8) Electromagnetic armament projectiles or billets for weapons with a design muzzle energy exceeding 5 MJ;
+
+\*(9) Ammunition, not specified above, for the guns and armaments controlled in Category II; or
+
+(10) Developmental ammunition funded by the Department of Defense and specially designed parts and components therefor.
+
+*Note 1 to paragraph (a)(10):* This paragraph does not control ammunition:
+
+(a) in production;
+
+(b) determined to be subject to the EAR via a commodity jurisdiction determination (*see* § 120.4 of this subchapter); or
+
+(c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.
+
+*Note 2 to paragraph (a)(10):* Note 1 does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
+
+*Note 3 to paragraph (a)(10):* This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
+
+(b) Ammunition/ordnance handling equipment specially designed for the articles controlled in this category, as follows:
+
+(1) Belting, linking, and de-linking equipment; or
+
+(2) Fuze setting devices.
+
+(c) [Reserved]
+
+(d) Parts and components for the articles in this category, as follows:
+
+(1) Projectiles that use pyrotechnic tracer materials that incorporate any material having peak radiance above 710 nm or are incendiary or explosive;
+
+(2) Shotgun projectiles that are flechettes, incendiary, tracer, or explosive;
+
+*Note 1 to paragraph (d)(2):* This paragraph does not include explosive projectiles specially designed to produce noise for scaring birds or other pests (e.g., bird bombs, whistlers, crackers).
+
+(3) Projectiles of any caliber produced from depleted uranium;
+
+(4) Projectiles not specified above, guided or unguided, for the items controlled in USML Category II, and specially designed parts and components therefor (e.g., fuzes, rotating bands, cases, liners, fins, boosters);
+
+(5) Canisters or sub-munitions (e.g., bomblets or minelets), and specially designed parts and components therefor, for the guns or armament controlled in USML Category II;
+
+(6) Projectiles that employ tips (e.g., M855A1 Enhanced Performance Round (EPR)) or cores regardless of caliber, produced from one or a combination of the following: Tungsten, steel, or beryllium copper alloy;
+
+(7) Cartridge cases, powder bags, or combustible cases specially designed for the items controlled in USML Category II;
+
+(8) Non-metallic cases, including cases that have only a metallic base, for the ammunition controlled in paragraph (a)(5) of this category;
+
+(9) Cartridge links and belts for fully automatic firearms and guns controlled in USML Categories I or II;
+
+(10) Primers other than Boxer, Berdan, or shotshell types;
+
+*Note 1 to paragraph (d)(10):* This paragraph does not control caps or primers of any type in use prior to 1890.
+
+(11) Safing, arming, and fuzing components (to include target detection and proximity sensing devices) for the ammunition in this category and specially designed parts therefor;
+
+(12) Guidance and control components for the ammunition in this category and specially designed parts therefor;
+
+(13) Terminal seeker assemblies for the ammunition in this category and specially designed parts and components therefor;
+
+(14) Illuminating flares or target practice projectiles for the ammunition controlled in paragraph (a)(9) of this category; or
+
+\*(15) Any part, component, accessory, attachment, equipment, or system that:
+
+(i) Is classified;
+
+(ii) Contains classified software; or
+
+(iii) Is being developed using classified information.
+
+*Note 1 to paragraph (d)(15):* “Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
+
+(e) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a), (b), and (d) of this category and classified technical data directly related to items controlled in ECCNs 0A505, 0B505, 0D505, and 0E505 and defense services using the classified technical data. (*See* § 125.4 of this subchapter for exemptions.)
+
+(f)-(w) [Reserved]
+
+(x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
+
+*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+
+*Note 1 to Category III:* This category does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber.
+
+*Note 2 to Category III:* This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.
+
+*Note 3 to Category III:* Grenades containing non-lethal or less lethal projectiles are under the jurisdiction of the Department of Commerce.
 
 Category IV - Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs, and Mines
 

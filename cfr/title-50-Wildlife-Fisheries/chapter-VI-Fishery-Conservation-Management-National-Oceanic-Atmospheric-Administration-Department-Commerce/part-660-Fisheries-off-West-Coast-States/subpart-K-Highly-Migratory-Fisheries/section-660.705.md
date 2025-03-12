@@ -1,7 +1,5 @@
 ##### § 660.705 Prohibitions. #####
 
-Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Fish for HMS in the U.S. EEZ off the Pacific coast without a permit issued under § 660.707 for the use of authorized fishing gear.
@@ -102,4 +100,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ss) Fail to submit a declaration report to the NMFS Office of Law Enforcement prior to departure on a fishing trip using drift gillnet gear as required under § 660.713.
 
-[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 58259, Oct. 15, 2007; 77 FR 15975, Mar. 19, 2012; 80 FR 10395, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015]
+(tt) Fish with a large-mesh drift gillnet (mesh size ≥ 14 inches) in the U.S. West Coast Exclusive Economic Zone during the time the fishery is closed pursuant to § 660.713(h)(2)(ii).
+
+(uu) Retain on board, transship, or land any fish caught with a large-mesh drift gillnet (mesh size ≥ 14 inches) later than 4 days after the effective date of a drift gillnet fishery closure and before the drift gillnet fishery re-opens pursuant to § 660.713(h)(2)(ii).
+
+[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 58259, Oct. 15, 2007; 77 FR 15975, Mar. 19, 2012; 80 FR 10395, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 85 FR 7250, Feb. 7, 2020]

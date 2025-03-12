@@ -1,6 +1,6 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 85 FR 7441, Feb. 7, 2020.Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
+Link to an amendment published at 85 FR 7441, Feb. 7, 2020.
 
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
@@ -72,11 +72,11 @@ Link to an amendment published at 85 FR 7441, Feb. 7, 2020.Link to an amendment 
 
 (e) *Observer program.* It is unlawful for any person to do any of the following:
 
-(1) Assault, resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any NMFS-approved observer or sea sampler conducting his or her duties; any authorized officer conducting any search, inspection, investigation, or seizure in connection with enforcement of this part; any official designee of the Regional Administrator conducting his or her duties, including those duties authorized in § 648.7(g).
+(1) Assault, resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any NMFS-certified observer or monitor conducting his or her duties; any authorized officer conducting any search, inspection, investigation, or seizure in connection with enforcement of this part; any official designee of the Regional Administrator conducting his or her duties, including those duties authorized in § 648.7(g).
 
-(2) Refuse to carry onboard a vessel an observer or sea sampler if requested to do so by the Regional Administrator or the Regional Administrator's designee.
+(2) Refuse monitoring coverage by a NMFS-certified observer or monitor if selected for monitoring coverage by the Regional Administrator or the Regional Administrator's designee.
 
-(3) Fail to provide information, notification, accommodations, access, or reasonable assistance to either a NMFS-approved observer or sea sampler conducting his or her duties aboard a vessel as specified in § 648.11.
+(3) Fail to provide information, notification, accommodations, access, or reasonable assistance to either a NMFS-certified observer or monitor conducting his or her duties as specified in § 648.11.
 
 (4) Submit false or inaccurate data, statements, or reports.
 
@@ -223,9 +223,9 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (ix) *Observer program.* (A) Refuse, or fail, to carry onboard an observer after being requested to by the Regional Administrator or the Regional Administrator's designee.
 
-(B) Fail to provide information, notification, accommodations, access, or reasonable assistance to a NMFS-approved observer conducting his or her duties aboard a vessel, as specified in § 648.11.
+(B) Fail to provide information, notification, accommodations, access, or reasonable assistance to a NMFS-certified observer conducting his or her duties aboard a vessel, as specified in § 648.11.
 
-(C) Fail to comply with the notification, observer services procurement, and observer services payment requirements of the sea scallop observer program specified in § 648.11(g).
+(C) Fail to comply with the notification, observer services procurement, and observer services payment requirements of the sea scallop observer program specified in § 648.11(k).
 
 (x) *Presumption.* For purposes of this section, the following presumption applies: Scallops that are possessed or landed at or prior to the time when the scallops are received by a dealer, or scallops that are possessed by a dealer, are deemed to be harvested from the EEZ, unless the preponderance of evidence demonstrates that such scallops were harvested by a vessel without a scallop permit and fishing exclusively for scallops in state waters.
 
@@ -485,9 +485,9 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (ii) Fish for, possess, or land NE multispecies with or from a vessel that has had the horsepower of such vessel or its replacement upgraded or increased in excess of the limitations specified in § 648.4(a)(1)(i)(E) and (F).
 
-(iii) Fail to comply with the pre-trip notification requirements of the NE multispecies observer program specified in § 648.11(k).
+(iii) Fail to comply with the pre-trip notification requirements of the NE multispecies observer program specified in § 648.11(l).
 
-(iv) Possess or land fish while setting fixed gear on a set-only trip as declared through the pre-trip notification system pursuant to § 648.11(k).
+(iv) Possess or land fish while setting fixed gear on a set-only trip as declared through the pre-trip notification system pursuant to § 648.11(l).
 
 (v) Fish for, possess, land fish, enroll in a sector, or lease a permit or confirmation of permit history (CPH) as a lessor or lessee, with a permit that has been rendered unusable as specified in § 648.4(a)(1)(i)(N).
 

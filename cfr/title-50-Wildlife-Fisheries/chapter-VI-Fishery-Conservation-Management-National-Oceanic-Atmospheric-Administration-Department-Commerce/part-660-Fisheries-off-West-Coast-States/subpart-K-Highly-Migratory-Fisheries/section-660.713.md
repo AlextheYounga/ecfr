@@ -1,7 +1,5 @@
 ##### § 660.713 Drift gillnet fishery. #####
 
-Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
-
 (a) *Take Reduction Plan gear restrictions.* Gear restrictions resulting from the Pacific Offshore Cetacean Take Reduction Plan established under the authority of the Marine Mammal Protection Act of 1972 can be found at 50 CFR 229.31.
 
 (b) *Other gear restrictions.* (1) The maximum length of a drift gillnet on board a vessel shall not exceed 6,000 ft (1828 m).
@@ -144,4 +142,24 @@ Link to an amendment published at 85 FR 7250, Feb. 7, 2020.
 
 (5) *What is the contact information for the OLE SAC?* For issues related to day-to-day operation of VMS units, including declaration reports, activation reports and exemption reports, the SAC's designee is the OLE VMS Program Manager's office located at 7600 Sand Point Way NE., Seattle, WA 98115-6349; phone: (888) 585-5518; fax: (206) 526-6528); and email: *wcd.vms@noaa.gov.*
 
-[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 31757, June 8, 2007; 78 FR 54551, Sept. 4, 2013; 80 FR 10395, Feb. 26, 2015]
+(h) *Limits on protected species mortalities and injuries.* (1) Maximum 2-year hard caps are established on the number of sea turtle and marine mammal mortalities and injuries that occur as a result of observed interactions with large-mesh drift gillnets (mesh size ≥ 14 inches) deployed by vessels registered for use under HMS permits. Mortalities and injuries during the current fishing season (May 1 through January 31) and the previous fishing season are counted towards the hard caps. The mortality and injury hard caps are as follows:
+
+|               Species                |Rolling  <br/>2-year  <br/>hard cap|
+|--------------------------------------|-----------------------------------|
+|              Fin Whale               |                 2                 |
+|            Humpback Whale            |                 2                 |
+|             Sperm Whale              |                 2                 |
+|        Leatherback Sea Turtle        |                 2                 |
+|        Loggerhead Sea Turtle         |                 2                 |
+|       Olive Ridley Sea Turtle        |                 2                 |
+|           Green Sea Turtle           |                 2                 |
+|Short-fin Pilot Whale (CA/OR/WA stock)|                 4                 |
+| Bottlenose Dolphin (CA/OR/WA stock)  |                 4                 |
+
+(2) Upon determination by the Regional Administrator that, based on data from NMFS observers or a NMFS Electronic Monitoring program, the fishery has reached any of the protected species hard caps during a given 2-year period:
+
+(i) As soon as practicable, the Regional Administrator will file for publication at the Office of the Federal Register a notification that the fishery has reached a protected species hard cap. The notification will include an advisement that the large-mesh drift gillnet (mesh size ≥ 14 inches) fishery shall be closed, and that drift gillnet fishing in the U.S. West Coast Exclusive Economic Zone by vessels registered for use under HMS permits will be prohibited beginning at a specified date and ending at a specified date. Drift gillnet fishing will then be allowed beginning May 1 of the year when observed mortality and injury of each species during the previous two May 1 through January 31 fishing seasons is below its hard cap value. Coincidental with the filing of the notification, the Regional Administrator will also provide actual notice that the large-mesh drift gillnet (mesh size ≥ 14 inches) fishery shall be closed, and that drift gillnet fishing in the U.S. West Coast Exclusive Economic Zone by vessels registered for use under HMS permits will be prohibited beginning at a specified date, to all holders of HMS permits with a drift gillnet endorsement via VMS communication, postal mail, and a posting on the NMFS regional website.
+
+(ii) Beginning on the fishery closure date published in the Federal Register and indicated by the Regional Administrator in the notification provided to vessel operators and permit holders under paragraph (h)(2)(i) of this section, and until the specified ending date, the large-mesh drift gillnet (mesh size ≥ 14 inches) fishery shall be closed. During the closure period commercial fishing vessels registered for use under HMS permits may not be used to target, retain on board, transship, or land fish captured with a large-mesh drift gillnet (mesh size ≥ 14 inches), with the exception that any fish already on board a fishing vessel on the effective date of the document may be retained on board, transshipped, and/or landed, to the extent authorized by applicable laws and regulations, provided such fish are landed within 4 days after the effective date published in the fishing closure document.
+
+[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 31757, June 8, 2007; 78 FR 54551, Sept. 4, 2013; 80 FR 10395, Feb. 26, 2015; 85 FR 7250, Feb. 7, 2020]

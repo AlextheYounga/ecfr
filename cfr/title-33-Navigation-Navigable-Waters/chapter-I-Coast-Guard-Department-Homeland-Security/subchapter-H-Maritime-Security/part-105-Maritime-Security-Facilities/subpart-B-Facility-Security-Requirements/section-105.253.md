@@ -1,5 +1,7 @@
 ##### § 105.253 Risk Group classifications for facilities. #####
 
+Link to an amendment published at 85 FR 13516, Mar. 9, 2020.
+
 (a) For purposes of the Transportation Worker Identification Credential (TWIC) requirements of this subchapter, the following facilities subject to this part are in Risk Group A:
 
 (1) Facilities that handle Certain Dangerous Cargoes (CDC) in bulk or receive vessels carrying CDC in bulk.

@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 85 FR 4173, Jan. 23, 2020.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -93,6 +91,10 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 (i) An export license issued by the Government of the Hong Kong Special Administrative Region, pursuant to the Hong Kong Import and Export (Strategic Commodities) Regulations, that covers all items to be reexported pursuant to that license exception for which a Hong Kong export license is required and that is valid on the date of the reexport that is subject to the EAR; or
 
 (ii) A copy of a written statement issued by the Government of the Hong Kong Special Administrative Region that no Hong Kong export license is required for the item(s) to be rexported. The statement may have been issued directly to the Hong Kong reexporter or it may be a written statement available to the general public. The statement may be used for more than one reexport from Hong Kong so long as it remains an accurate statement of Hong Kong law.
+
+(21) The reexport or transfer (in-country) of firearms classified under ECCNs 0A501 or 0A502 if a part or component that is not “subject to the ITAR,” but would otherwise meet the criteria in USML Category I(h)(2) (*i.e.,* parts and components specially designed for conversion of a semiautomatic firearm to a fully automatic firearm) is incorporated into the firearm or is to be reexported or transferred (in-country) with the firearm with “knowledge” the part or component will be subsequently incorporated into the firearm. (*See* USML Category I(h)(2)). In such instances, no license exceptions are available except for License Exception GOV (§ 740.11(b)(2)(ii)).
+
+(22) The export, reexport, or transfer (in-country) of any item classified under a 0x5zz ECCN when a party to the transaction is designated on the Department of the Treasury, Office of Foreign Assets Control (OFAC), Specially Designated Nationals and Blocked Persons (SDN) list under the designation [SDNT], pursuant to the Narcotics Trafficking Sanctions Regulations, 31 CFR part 536, or under the designation [SDNTK], pursuant to the Foreign Narcotics Kingpin Sanctions Regulations, 31 CFR part 598.
 
 Note to paragraph (a):
 

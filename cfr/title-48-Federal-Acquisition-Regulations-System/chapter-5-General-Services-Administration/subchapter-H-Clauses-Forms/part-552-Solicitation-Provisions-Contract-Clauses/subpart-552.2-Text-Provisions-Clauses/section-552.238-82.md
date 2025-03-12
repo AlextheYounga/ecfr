@@ -1,7 +1,5 @@
 ##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
-Link to an amendment published at 85 FR 1128, Jan. 9, 2020.
-
 As prescribed in 538.273(d)(6), insert the following clause:
 
 Modifications (Federal Supply Schedules) (MAY 2019)
@@ -26,7 +24,7 @@ Modifications (Federal Supply Schedules) (MAY 2019)
 
 (2) *Deletions.* The Contractors shall provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the contracting officer finds the higher price to be unreasonable when compared with the deleted item.
 
-(3) *Price reduction.* The Contractor shall indicate whether the price reduction falls under the item (i), (ii), or (iii) of paragraph (c)(1) of the Price Reductions clause at 552.238-81. If the Price reduction falls under item (i), the Contractor shall submit a copy of the dated commercial price list. If the price reduction falls under item (ii) or (iii), the Contractor shall submit a copy of the applicable price list(s), bulletins or letters or customer agreements which outline the effective date, duration, terms and conditions of the price reduction.
+(3) *Price reduction.* The Contractor shall indicate whether the price reduction falls under the item (i), (ii), or (iii) of paragraph (c)(1) of the Price Reductions clause at 552.238-81. If the Price reduction falls under item (i), the Contractor shall transmit a copy of the dated commercial price list. If the price reduction falls under item (ii) or (iii), the Contractor shall transmit a copy of the applicable price list(s), bulletins or letters or customer agreements which outline the effective date, duration, terms and conditions of the price reduction.
 
 (c) *Effective dates.* The effective date of any modification is the date specified in the modification, except as otherwise provided in the Price Reductions clause at 552.238-81.
 
@@ -42,9 +40,9 @@ Modifications (Federal Supply Schedules) (MAY 2019)
 
 (End of clause)
 
-*Alternate I (MAY 2019).* As prescribed in 538.273(d)(6)(i), add the following paragraph (f) to the basic clause:
+*Alternate I (MAY 2019).* As prescribed in 538.273(d)(6)(i), add the following paragraph (e) to the basic clause:
 
-(f) Electronic submission of modification requests is mandatory via eMod (*http://eOffer.gsa.gov*), unless otherwise stated in the electronic submission standards and requirements at the Vendor Support Center website (*http://vsc.gsa.gov*). If the electronic submissions standards and requirements information is updated at the Vendor Support Center website, Contractors will be notified prior to the effective date of the change.
+(e) Electronic submission of modification requests is mandatory via eMod (*http://eOffer.gsa.gov*), unless otherwise stated in the electronic submission standards and requirements at the Vendor Support Center website (*http://vsc.gsa.gov*). If the electronic submissions standards and requirements information is updated at the Vendor Support Center website, Contractors will be notified prior to the effective date of the change.
 
 *Alternate II (MAY 2019).* As prescribed in 538.273(d)(6)(ii), substitute the following paragraph (b) for paragraph (b) of the basic clause:
 
@@ -64,4 +62,4 @@ Modifications (Federal Supply Schedules) (MAY 2019)
 
 (2) Deletions. The Contractor must provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the Contracting Officer determines that the higher price is unreasonable compared to the price of the deleted item.
 
-[84 FR 17045, Apr. 23, 2019]
+[84 FR 17045, Apr. 23, 2019, as amended at 85 FR 1128, Jan. 9, 2020]
