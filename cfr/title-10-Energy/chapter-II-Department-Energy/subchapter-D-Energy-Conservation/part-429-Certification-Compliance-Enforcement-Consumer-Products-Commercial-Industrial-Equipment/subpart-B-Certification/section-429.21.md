@@ -1,5 +1,7 @@
 ##### § 429.21 Residential clothes dryers. #####
 
+Link to an amendment published at 86 FR 56638, Oct. 8, 2021.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to clothes dryers; and
 
 (2) For each basic model of clothes dryers a sample of sufficient size shall be randomly selected and tested to ensure that -

@@ -1,11 +1,5 @@
 ##### § 290.7 Proposal selection process. #####
 
-Upon the availability of funding to establish Regional Centers, the Director shall publish a notice in the Federal Register requesting submission of proposals from interested organizations. Appliclants will be given an established time frame, not less than 60 days from the publication date of the notice, to prepare and submit a proposal. The proposal evaluation and selection process will consist of four principal phases: Proposal qualification; Proposal review and selection of finalists; Finalist site visits; and, Award determination. Further descriptions of these phases are provided in the following:
+Upon the availability of funding to solicit applications to establish a new Manufacturing Extension Partnership (MEP) Center or to operate a pre-existing MEP Center, the Director shall publish a notice of funding opportunity on *www.Grants.gov* requesting submission of competitive proposals from eligible organizations.
 
-(a) *Proposal qualification.* All proposals will be reviewed by NIST to assure compliance with § 290.5 of these procedures. Proposals which satisfy these requirements will be designated qualified proposals; all others will be disqualified at this phase of the evaluation and selection process.
-
-(b) *Proposal review and selection of finalists.* The Director of NIST will appoint an evaluation panel to review and evaluate all qualified proposals in accordance with the criteria set forth in section 290.6 of these procedures, assigning equal weight to each of the four categories. From the qualified proposals, a group of finalists will be selected based on this review.
-
-(c) *Finalist site visits.* NIST representatives will visit each finalist organization. Finalists will be reviewed and assigned numeric scores using the criteria set forth in § 290.6 of these procedures assigning equal weight to each of the four categories. NIST may enter into negotiations with the finalists concerning any aspect of their proposal.
-
-(d) *Award determination.* The Director of NIST or his designee shall select awardees for Center Operating Awards based upon the rank order of applicants, the need to assure appropriate regional distribution, and the availability of funds. Upon the final award decision, a notification will be made to each of the proposing organizations.
+[86 FR 56183, Oct. 8, 2021]

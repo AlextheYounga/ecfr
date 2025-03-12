@@ -1,5 +1,7 @@
 ##### § 3.809 Specially adapted housing under 38 U.S.C. 2101(a)(2)(A)(i). #####
 
+Link to an amendment published at 86 FR 56215, Oct. 8, 2021.
+
 In order for a certificate of eligibility for assistance in acquiring specially adapted housing under 38 U.S.C. 2101(a)(2)(A)(i) or 2101A(a) to be extended to a veteran or a member of the Armed Forces serving on active duty, the following requirements must be met:
 
 (a) *General.* A member of the Armed Forces serving on active duty must have a disability rated as permanent and total that was incurred or aggravated in line of duty in active military, naval, or air service. A veteran must be entitled to compensation under chapter 11 of title 38, United States Code, for a disability rated as permanent and total.

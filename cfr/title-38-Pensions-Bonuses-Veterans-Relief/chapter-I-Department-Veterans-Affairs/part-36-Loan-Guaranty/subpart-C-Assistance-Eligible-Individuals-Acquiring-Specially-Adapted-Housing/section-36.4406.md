@@ -1,5 +1,7 @@
 ##### § 36.4406 Reimbursement of costs and disbursement of grant funds. #####
 
+Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
+
 (a) After providing conditional approval of a specially adapted housing grant for an eligible individual pursuant to § 36.4405, the Secretary may authorize the incurrence, prior to obtaining final specially adapted housing grant approval, of preconstruction costs of the types and subject to the limits specified in this paragraph.
 
 (1) Preconstruction costs to be incurred may not exceed 20 percent of the eligible individual's aggregate amount of assistance available, unless the individual is authorized by the Secretary in writing to incur specific preconstruction costs in excess of this 20 percent limitation. Preconstruction costs may include the following items:

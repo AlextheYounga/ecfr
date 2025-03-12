@@ -1,5 +1,7 @@
 ##### § 36.4402 Grant types. #####
 
+Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
+
 (a) *2101(a) grant.* The 2101(a) grant provides monetary assistance for the purpose of acquiring specially adapted housing pursuant to one of the following plans:
 
 (1) Where an eligible individual elects to construct a dwelling on land to be acquired by the eligible individual, the Secretary will pay, up to the aggregate amount of assistance available for 2101(a) grants, not more than 50 percent of the eligible individual's total costs for acquiring the land and constructing the dwelling.

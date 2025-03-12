@@ -1,5 +1,7 @@
 ##### § 36.4404 Eligibility for assistance. #####
 
+Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
+
 (a) *Disability requirements.* (1) The 2101(a) grant is available to individuals with permanent and total service-connected disability who have been rated as being entitled to compensation under 38 U.S.C. chapter 11 for any of the following conditions:
 
 (i) Loss, or loss of use, of both lower extremities so as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair;

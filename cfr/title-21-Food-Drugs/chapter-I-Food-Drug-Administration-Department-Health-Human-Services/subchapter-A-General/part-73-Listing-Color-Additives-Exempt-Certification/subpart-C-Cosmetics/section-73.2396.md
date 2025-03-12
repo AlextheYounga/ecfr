@@ -1,5 +1,7 @@
 ##### § 73.2396 Lead acetate. #####
 
+Link to an amendment published at 86 FR 56195, Oct. 8, 2021.
+
 (a) *Identity.* The color additive lead acetate is the trihydrate of lead (2+) salt of acetic acid. The color additive has the chemical formula Pb(OOCCH3)2·3H2O.
 
 (b) *Specifications.* Lead acetate shall conform to the following specifications and shall be free from impurities other than those named to the extent that such impurities may be avoided by good manufacturing practice:

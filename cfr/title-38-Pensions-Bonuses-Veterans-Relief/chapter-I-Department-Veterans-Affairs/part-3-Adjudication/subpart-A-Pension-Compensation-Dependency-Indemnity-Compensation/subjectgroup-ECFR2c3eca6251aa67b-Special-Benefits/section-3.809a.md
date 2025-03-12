@@ -1,5 +1,7 @@
 ##### § 3.809a Special home adaptation grants under 38 U.S.C. 2101(b). #####
 
+Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
+
 A certificate of eligibility for assistance in acquiring necessary special home adaptations, or, on or after October 28, 1986, for assistance in acquiring a residence already adapted with necessary special features, under 38 U.S.C. 2101(b) or 2101A(a) may be issued to a veteran who served after April 20, 1898, or to a member of the Armed Forces serving on active duty who is eligible for the benefit under this section on or after December 16, 2003, if the following requirements are met:
 
 (a) The member of the Armed Forces serving on active duty or veteran is not entitled to a certificate of eligibility for assistance in acquiring specially adapted housing under § 3.809 nor had the member of the Armed Forces serving on active duty or veteran previously received assistance in acquiring specially adapted housing under 38 U.S.C. 2101(a). A member of the Armed Forces serving on active duty or veteran who first establishes entitlement under this section and who later becomes eligible for a certificate of eligibility under § 3.809 may be issued a certificate of eligibility under § 3.809.

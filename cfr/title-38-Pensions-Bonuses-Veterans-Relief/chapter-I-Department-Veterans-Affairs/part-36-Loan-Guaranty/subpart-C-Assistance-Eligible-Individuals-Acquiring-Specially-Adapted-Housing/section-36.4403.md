@@ -1,5 +1,7 @@
 ##### § 36.4403 Subsequent use. #####
 
+Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
+
 An eligible individual may receive up to three grants of assistance under 38 U.S.C. chapter 21, subject to the following limitations:
 
 (a) The aggregate amount of assistance available to an eligible individual for 2101(a) grant and TRA grant usage will be limited to the aggregate amount of assistance available for 2101(a) grants;
