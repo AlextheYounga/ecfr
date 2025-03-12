@@ -1,8 +1,6 @@
 ##### § 10.400 Classification. #####
 
-Link to an amendment published at 81 FR 75726, Nov. 1, 2016.
-
-A Participating CMS Provider is required to receive and transmit three classes of Alert Messages: Presidential Alert; Imminent Threat Alert; and Child Abduction Emergency/AMBER Alert.
+A Participating CMS Provider is required to receive and transmit four classes of Alert Messages: Presidential Alert; Imminent Threat Alert; Child Abduction Emergency/AMBER Alert; and Public Safety Message.
 
 (a) *Presidential Alert.* A Presidential Alert is an alert issued by the President of the United States or the President's authorized designee.
 
@@ -35,3 +33,7 @@ A Participating CMS Provider is required to receive and transmit three classes o
 (iii) *Lost, Injured, or Otherwise Missing.* A Lost, Injured, or Otherwise Missing (LIM) alert involves a case where the circumstances of the child's disappearance are unknown.
 
 (iv) *Endangered Runaway.* An Endangered Runaway (ERU) alert involves a missing child who is believed to have run away and in imminent danger.
+
+(d) *Public Safety Message.* A Public Safety Message is an essential public safety advisory that prescribes one or more actions likely to save lives and/or safeguard property during an emergency. A Public Safety Message may only be issued in connection with an Alert Message classified in paragraphs (a), (b) or (c) of this section.
+
+[73 FR 43117, July 24, 2008, as amended at 81 FR 75726, Nov. 1, 2016]

@@ -1,7 +1,5 @@
 ##### § 1.551 Definitions. #####
 
-Link to an amendment published at 84 FR 12125, Apr. 1, 2019.
-
 As used in §§ 1.550 through 1.562, the following definitions apply:
 
 *Agency* means any executive department, military department, government corporation, government controlled corporation, or other establishment in the executive branch of the Federal government, or independent regulatory entity.
@@ -24,13 +22,15 @@ As used in §§ 1.550 through 1.562, the following definitions apply:
 
 *FOIA Officer* means the individual within a VA component whose responsibilities include addressing and granting or denying requests for records under the FOIA.
 
+*FOIA Public Liaison* means a supervisory agency FOIA official who assists in the resolution of any disputes between the requester and the agency.
+
 *Perfected request* means a written FOIA request that meets the requirements set forth in § 1.554 of this part and for which there are no remaining issues about the payment of applicable fees or any other matter that requires resolution prior to processing.
 
 *Reading room* means space made available, as needed, in VA components where records are available for review pursuant to 5 U.S.C. 552(a)(2). Ordinarily, the VA component providing a public reading room space will be the component that maintains the record.
 
 *Record* means a document, a portion of a document, and information contained within a document, and can include information derived from a document or a database. Such documents may be maintained in paper, electronic, and other forms, but do not include objects, such as tissue slides, blood samples, or computer hardware.
 
-*Request* means a written demand for records under the FOIA as described below. The term *request* includes any action emanating from the initial demand for records, including an appeal related to the initial demand.
+*Request* means a written demand for records under the FOIA as described § 1.554(a). The term request includes any action emanating from the initial demand for records, including any subsequent action related to the request.
 
 *Requester* means, generally, any individual, partnership, corporation, association, or foreign or state or local government, which has made a demand to access an agency record.
 
@@ -42,4 +42,4 @@ As used in §§ 1.550 through 1.562, the following definitions apply:
 
 *Written or in writing* means communications such as letters, photocopies of letters, electronic mail, and facsimiles (faxes), and does not include any form of oral communication.
 
-[76 FR 51892, Aug. 19, 2011]
+[76 FR 51892, Aug. 19, 2011, as amended at 84 FR 12125, Apr. 1, 2019]

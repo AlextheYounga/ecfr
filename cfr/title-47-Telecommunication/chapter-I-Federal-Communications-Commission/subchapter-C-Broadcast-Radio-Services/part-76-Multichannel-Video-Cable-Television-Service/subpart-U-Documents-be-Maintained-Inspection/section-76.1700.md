@@ -8,7 +8,7 @@
 
 (3) *Commercial records on children's programs.* Sufficient records to verify compliance with § 76.225 in accordance with § 76.1703;
 
-(4) *Performance tests (channels delivered).* The operator of each cable television system shall maintain a current listing of the cable television channels which that system delivers to its subscribers in accordance with § 76.1705;
+(4) [Reserved]
 
 (5) *Leased access.* If a cable operator adopts and enforces written policy regarding indecent leased access programming, such a policy shall be published in accordance with § 76.1707;
 
@@ -46,4 +46,4 @@
 
 (g) *Reproduction of records.* Copies of any material in the public inspection file that is not also available in the Commission's online file shall be available for machine reproduction upon request made in person, provided the requesting party shall pay the reasonable cost of reproduction. Requests for machine copies shall be fulfilled at a location specified by the system operator, within a reasonable period of time, which in no event shall be longer than seven days. The system operator is not required to honor requests made by mail but may do so if it chooses.
 
-[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017; 83 FR 13683, Mar. 30, 2018]
+[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017; 83 FR 13683, Mar. 30, 2018; 84 FR 18409, May 1, 2019]

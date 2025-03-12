@@ -1,7 +1,5 @@
 ##### § 648.87 Sector allocation. #####
 
-Link to an amendment published at 84 FR 17926, Apr. 26, 2019.
-
 (a) *Procedure for approving/implementing a sector allocation proposal.* (1) Any person may submit a sector allocation proposal for a group of limited access NE multispecies vessels to NMFS. The sector allocation proposal must be submitted to the Council and NMFS in writing by the deadline for submitting an operations plan and preliminary sector contract that is specified in paragraph (b)(2) of this section. The proposal must include a cover letter requesting the formation of the new sector, a complete sector operations plan and preliminary sector contract, prepared as described in paragraphs (b)(2) and (b)(3) of this section, and appropriate analysis that assesses the impact of the proposed sector, in compliance with the National Environmental Policy Act.
 
 (2) Upon receipt of a proposal to form a new sector allocation, and following the deadline for each sector to submit an operations plan, as described in paragraph (b)(2) of this section, NMFS will notify the Council in writing of its intent to consider a new sector allocation for approval. The Council will review the proposal(s) and associated NEPA analyses at a Groundfish Committee and Council meeting, and provide its recommendation on the proposed sector allocation to NMFS in writing. NMFS will make final determinations regarding the approval of the new sectors based on review of the proposed operations plans, associated NEPA analyses, and the Council's recommendations, and in a manner consistent with the Administrative Procedure Act. NMFS will only approve a new sector that has received the Council's endorsement.
@@ -414,57 +412,59 @@ Fippennies Ledge Area
 
 (4) Any sector may submit a written request to amend its approved operations plan to the Regional Administrator. If the amendment is administrative in nature, within the scope of and consistent with the actions and impacts previously considered for current sector operations, the Regional Administrator may approve an administrative amendment in writing. The Regional Administrator may approve substantive changes to an approved operations plan in a manner consistent with the Administrative Procedure Act and other applicable law. All approved operations plan amendments will be published on the regional office Web site and will be provided to the Council.
 
-(d) *Approved sector allocation proposals.* Eligible NE multispecies vessels, as specified in paragraph (a)(3) of this section, may participate in the sectors identified in paragraphs (d)(1) through (25) of this section, provided the operations plan is approved by the Regional Administrator in accordance with paragraph (c) of this section and each participating vessel and vessel operator and/or vessel owner complies with the requirements of the operations plan, the requirements and conditions specified in the letter of authorization issued pursuant to paragraph (c) of this section, and all other requirements specified in this section. All operational aspects of these sectors shall be specified pursuant to the operations plan and sector contract, as required by this section.
+(d) *Approved sector allocation proposals.* Eligible NE multispecies vessels, as specified in paragraph (a)(3) of this section, may participate in the sectors identified in paragraphs (d)(1) through (26) of this section, provided the operations plan is approved by the Regional Administrator in accordance with paragraph (c) of this section and each participating vessel and vessel operator and/or vessel owner complies with the requirements of the operations plan, the requirements and conditions specified in the letter of authorization issued pursuant to paragraph (c) of this section, and all other requirements specified in this section. All operational aspects of these sectors shall be specified pursuant to the operations plan and sector contract, as required by this section.
 
 (1) GB Cod Hook Sector.
 
 (2) GB Cod Fixed Gear Sector.
 
-(3) Sustainable Harvest Sector.
+(3) Mooncusser Sector.
 
-(4) Sustainable Harvest Sector II.
+(4) Sustainable Harvest Sector.
 
-(5) Sustainable Harvest Sector III.
+(5) Sustainable Harvest Sector II.
 
-(6) Port Clyde Community Groundfish Sector.
+(6) Sustainable Harvest Sector III.
 
-(7) Northeast Fishery Sector I.
+(7) Port Clyde Community Groundfish Sector.
 
-(8) Northeast Fishery Sector II.
+(8) Northeast Fishery Sector I.
 
-(9) Northeast Fishery Sector III.
+(9) Northeast Fishery Sector II.
 
-(10) Northeast Fishery Sector IV.
+(10) Northeast Fishery Sector III.
 
-(11) Northeast Fishery Sector V.
+(11) Northeast Fishery Sector IV.
 
-(12) Northeast Fishery Sector VI.
+(12) Northeast Fishery Sector V.
 
-(13) Northeast Fishery Sector VII.
+(13) Northeast Fishery Sector VI.
 
-(14) Northeast Fishery Sector VIII.
+(14) Northeast Fishery Sector VII.
 
-(15) Northeast Fishery Sector IX.
+(15) Northeast Fishery Sector VIII.
 
-(16) Northeast Fishery Sector X.
+(16) Northeast Fishery Sector IX.
 
-(17) Northeast Fishery Sector XI.
+(17) Northeast Fishery Sector X.
 
-(18) Northeast Fishery Sector XII.
+(18) Northeast Fishery Sector XI.
 
-(19) Northeast Fishery Sector XIII.
+(19) Northeast Fishery Sector XII.
 
-(20) Tristate Sector.
+(20) Northeast Fishery Sector XIII.
 
-(21) Northeast Coastal Communities Sector.
+(21) Tristate Sector.
 
-(22) State of Maine Permit Banking Sector.
+(22) Northeast Coastal Communities Sector.
 
-(23) State of Rhode Island Permit Bank Sector.
+(23) State of Maine Permit Banking Sector.
 
-(24) State of New Hampshire Permit Bank Sector.
+(24) State of Rhode Island Permit Bank Sector.
 
-(25) State of Massachusetts Permit Bank Sector.
+(25) State of New Hampshire Permit Bank Sector.
+
+(26) State of Massachusetts Permit Bank Sector.
 
 (e) *State-operated permit bank.* A state-operated permit bank must meet and is subject to the following requirements and conditions:
 
@@ -508,4 +508,4 @@ Fippennies Ledge Area
 
 (7) *Violation of the terms and conditions applicable to a state-operated permit bank.* If a state or state-operated permit bank violates or fails to comply with any of the requirements and conditions specified in this section or in the MOA referenced in paragraph (e)(1) of this section, the state or state-operated permit bank is subject to the actions and penalties specified in § 648.4(n) or the MOA.
 
-[75 FR 18338, 18374, Apr. 9, 2010, as amended at 76 FR 23072, Apr. 25, 2011; 76 FR 42586, July 19, 2011; 77 FR 16497, Mar. 23, 2012; 77 FR 26125, May 2, 2012; 78 FR 26160, 26208, May 3, 2013; 78 FR 53367, Sept. 30, 2013; 79 FR 22447, Apr. 22, 2014; 79 FR 36436, June 27, 2014; 80 FR 25141, May 1, 2015; 81 FR 26450, May 2, 2016; 82 FR 18715, Apr. 21, 2017; 83 FR 15274, Apr. 9, 2018]
+[75 FR 18338, 18374, Apr. 9, 2010, as amended at 76 FR 23072, Apr. 25, 2011; 76 FR 42586, July 19, 2011; 77 FR 16497, Mar. 23, 2012; 77 FR 26125, May 2, 2012; 78 FR 26160, 26208, May 3, 2013; 78 FR 53367, Sept. 30, 2013; 79 FR 22447, Apr. 22, 2014; 79 FR 36436, June 27, 2014; 80 FR 25141, May 1, 2015; 81 FR 26450, May 2, 2016; 82 FR 18715, Apr. 21, 2017; 83 FR 15274, Apr. 9, 2018; 84 FR 17926, Apr. 26, 2019]

@@ -1,5 +1,7 @@
 ##### § 300.25 Fisheries management. #####
 
+Link to an amendment published at 84 FR 18413, May 1, 2019.
+
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
 (2) For the calendar years 2018, 2019, 2020, there is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.

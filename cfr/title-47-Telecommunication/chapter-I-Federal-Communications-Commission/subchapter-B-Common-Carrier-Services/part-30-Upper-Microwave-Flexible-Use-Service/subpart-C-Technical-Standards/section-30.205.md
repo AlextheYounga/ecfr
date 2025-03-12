@@ -25,11 +25,11 @@ Table 1 to Paragraph (a): Goldstone, California Coordination Zone
 |           34.33405/−117.94189            |                                          |           34.37524/−118.24191            |                                          |
 |           34.27249/−117.65445            |                                          |           34.37039/−118.22557            |                                          |
 
-Table 2 to Paragraph (a): Socorro, New Mexico Coordination Zone
+Table 2 to Paragraph (a) - Socorro, New Mexico Coordination Zone
 
 |           60 dBm/100 MHz EIRP            |           75 dBm/100 MHz EIRP            |                                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|
-|Latitude/Longitude  <br/>(decimal degrees)|Latitude/Longitude  <br/>(decimal degrees)|Latitude/Longitude  <br/>(decimal degrees)|
+|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|
 |           34.83816/−107.66828            |           33.44401/−108.67876            |           33.10651/−108.19320            |
 |           34.80070/−107.68759            |           33.57963/−107.79895            |           33.11780/−107.99980            |
 |           34.56506/−107.70233            |           33.84552/−107.60207            |           33.13558/−107.85611            |
@@ -40,25 +40,25 @@ Table 2 to Paragraph (a): Socorro, New Mexico Coordination Zone
 |           34.07442/−108.30646            |           34.15203/−107.39035            |           34.10646/−107.18938            |
 |           34.01447/−108.31694            |           34.29643/−107.51071            |           35.24269/−107.67969            |
 |           33.86740/−108.48706            |           34.83816/−107.66828            |           34.06647/−108.70438            |
-|           33.81660/−108.51052            |           33.35946/−108.68902            |                                          |
-|           33.67909/−108.58750            |           33.29430/−108.65004            |                                          |
-|           33.50223/−108.65470            |           33.10651/−108.19320            |                                          |
+|           33.81660/−108.51052            |                                          |           33.35946/−108.68902            |
+|           33.67909/−108.58750            |                                          |           33.29430/−108.65004            |
+|           33.50223/−108.65470            |                                          |           33.10651/−108.19320            |
 
-Table 3 to Paragraph (a): White Sands, New Mexico Coordination Zone
+Table 3 to Paragraph (a) - White Sands, New Mexico Coordination Zone
 
 |           60 dBm/100 MHz EIRP            |           75 dBm/100 MHz EIRP            |                                          |                                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
-|Latitude/Longitude  <br/>(decimal degrees)|Latitude/Longitude  <br/>(decimal degrees)|Latitude/Longitude  <br/>(decimal degrees)|Latitude/Longitude  <br/>(decimal degrees)|
+|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|
 |           33.98689/−107.15967            |           31.78455/−106.54058            |            31.7494/−106.49132            |           32.88382/−108.16588            |
 |           33.91573/−107.46301            |           32.24710/−106.56114            |           32.24524/−106.56507            |           32.76255/−108.05679            |
 |           33.73122/−107.73585            |           32.67731/−106.53681            |           32.67731/−106.53681            |           32.56863/−108.43999            |
 |           33.37098/−107.84333            |           32.89856/−106.56882            |           32.89856/−106.56882            |           32.48991/−108.50032            |
 |           33.25424/−107.86409            |           33.24323/−106.70094            |           33.04880/−106.62309            |           32.39142/−108.48959            |
 |           33.19808/−107.89673            |           33.98689/−107.15967            |           33.21824/−106.68992            |           31.63664/−108.40480            |
-|           33.02128/−107.87226            |           33.24347/−106.70165            |           31.63466/−108.20921            |                                          |
-|           32.47747/−107.77963            |           34.00708/−107.08652            |           31.78374/−108.20798            |                                          |
-|           32.31543/−108.16101            |           34.04967/−107.17524            |           31.78322/−106.52825            |                                          |
-|           31.79429/−107.88616            |           33.83491/−107.85971            |            31.7494/−106.49132            |                                          |
+|           33.02128/−107.87226            |                                          |           33.24347/−106.70165            |           31.63466/−108.20921            |
+|           32.47747/−107.77963            |                                          |           34.00708/−107.08652            |           31.78374/−108.20798            |
+|           32.31543/−108.16101            |                                          |           34.04967/−107.17524            |           31.78322/−106.52825            |
+|           31.79429/−107.88616            |                                          |           33.83491/−107.85971            |            31.7494/−106.49132            |
 
 (b) Licensees in the 37-38.6 GHz band located within the zones defined by the coordinates in the table below must coordinate their operations with the Department of Defense via the National Telecommunications and Information Administration (NTIA).
 
@@ -83,3 +83,5 @@ Table to Paragraph (b) - Coordination Areas for Federal Terrestrial Systems
 |White Sands Missile Range, NM|  Army   |   30 kilometer radius centered on latitude 33.35 and longitude −106.3.    |
 |  Moody Air Force Base, GA   |Air Force| 30 kilometer radius centered on latitude 30.96694 and longitude −83.185.  |
 | Hurlburt Air Force Base, FL |Air Force|30 kilometer radius centered on latitude 30.42388 and longitude −86.70694. |
+
+[81 FR 79937, Nov. 14, 2016, as amended at 84 FR 18405, May 1, 2019]
