@@ -1,11 +1,11 @@
 ##### § 10.450 Geographic targeting. #####
 
-Link to an amendment published at 83 FR 8623, February 28, 2018.
-
 This section establishes minimum requirements for the geographic targeting of Alert Messages.
 
-(a) A Participating CMS Provider will determine which of its network facilities, elements, and locations will be used to geographically target Alert Messages. A Participating CMS Provider must transmit any Alert Message that is specified by a geocode, circle, or polygon to an area that best approximates the specified geocode, circle, or polygon. If, however, the Participating CMS Provider cannot broadcast the Alert Message to an area that best approximates the specified geocode, circle, or polygon, a Participating CMS Provider may transmit an Alert Message to an area not larger than the propagation area of a single transmission site.
+(a) This section establishes minimum requirements for the geographic targeting of Alert Messages. A Participating CMS Provider will determine which of its network facilities, elements, and locations will be used to geographically target Alert Messages. A Participating CMS Provider must deliver any Alert Message that is specified by a circle or polygon to an area that matches the specified circle or polygon. A Participating CMS Provider is considered to have matched the target area when they deliver an Alert Message to 100 percent of the target area with no more than 0.1 of a mile overshoot. If some or all of a Participating CMS Provider's network infrastructure is technically incapable of matching the specified target area, then that Participating CMS Provider must deliver the Alert Message to an area that best approximates the specified target area on and only on those aspects of its network infrastructure that are incapable of matching the target area. A Participating CMS Provider's network infrastructure may be considered technically incapable of matching the target area in limited circumstances, including when the target area is outside of the Participating CMS Provider's network coverage area, when mobile devices have location services disabled, and when legacy networks or devices cannot be updated to support this functionality.
 
 (b) Upon request from an emergency management agency, a Participating CMS Provider will disclose information regarding their capabilities for geo-targeting Alert Messages. A Participating CMS Provider is only required to disclose this information to an emergency management agency insofar as it would pertain to Alert Messages initiated by that emergency management agency, and only so long as the emergency management agency offers confidentiality protection at least equal to that provided by the federal FOIA.
 
-[81 FR 75726, Nov. 1, 2016]
+(c) In matching the target area, Participating CMS Providers may not limit the availability of 360 characters for the Alert Message text.
+
+[81 FR 75726, Nov. 1, 2016, as amended at 83 FR 8623, Feb. 28, 2018]

@@ -1,7 +1,5 @@
 ##### § 10.500 General requirements. #####
 
-Link to an amendment published at 83 FR 8623, February 28, 2018.
-
 WEA mobile device functionality is dependent on the capabilities of a Participating CMS Provider's delivery technologies. Mobile devices are required to perform the following functions:
 
 (a) Authentication of interactions with CMS Provider infrastructure.
@@ -18,4 +16,6 @@ WEA mobile device functionality is dependent on the capabilities of a Participat
 
 (g) Detection and suppression of presentation of duplicate alerts.
 
-[73 FR 43117, July 24, 2008, as amended at 78 FR 16808, Mar. 19, 2013
+(h) Preservation of Alert Messages in a consumer-accessible format and location for at least 24 hours or until deleted by the subscriber.
+
+[73 FR 43117, July 24, 2008, as amended at 78 FR 16808, Mar. 19, 2013; 83 FR 8623, Feb. 28, 2018]

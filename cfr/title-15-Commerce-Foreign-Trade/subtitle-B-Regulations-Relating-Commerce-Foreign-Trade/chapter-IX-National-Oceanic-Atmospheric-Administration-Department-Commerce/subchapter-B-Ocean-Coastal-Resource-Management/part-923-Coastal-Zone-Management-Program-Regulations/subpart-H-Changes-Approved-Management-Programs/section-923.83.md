@@ -2,7 +2,7 @@
 
 (a) All program changes submitted to NOAA shall be submitted in accordance with § 923.81. States shall use the Program Change website Form and Table to provide the following.
 
-(1) A brief general overview description of the proposed program change(s) and a current version of the document(s) containing the program change (*e.g.,* text of the revised statute, regulation, policy, map). The general overview description shall identify the law, regulation, policy, or other type of program provision contained in the program change submission.
+(1) A brief general overview description of the proposed program change(s) and a current version of the document(s) containing the program change (e.g., text of the revised statute, regulation, policy, map). The general overview description shall identify the law, regulation, policy, or other type of program provision contained in the program change submission.
 
 (2) A brief summary of the changes of each authority or policy identified in paragraph (a)(1) of this section, and how the management program as changed is different than the previously approved management program.
 
@@ -72,6 +72,6 @@
 
 (10) The state shall submit to NOAA any substantive correspondence between the state and Federal agencies (not including NOAA's Office for Coastal Management) concerning the development of the changes that are the subject of the program change request.
 
-(11) The state shall indicate if the program change was developed as a necessary action pursuant to section 312 of the Act (16 U.S.C. 1458 - Review of performance) and, if so, shall briefly describe the necessary action.
+(11) The state shall indicate if the program change was developed as a necessary action pursuant to section 312 of the Act (16 U.S.C. 1458—Review of performance) and, if so, shall briefly describe the necessary action.
 
 (b) [Reserved]

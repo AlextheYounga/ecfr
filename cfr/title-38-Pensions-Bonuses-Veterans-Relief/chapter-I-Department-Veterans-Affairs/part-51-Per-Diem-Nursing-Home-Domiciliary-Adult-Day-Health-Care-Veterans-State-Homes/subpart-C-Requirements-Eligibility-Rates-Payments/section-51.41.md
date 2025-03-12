@@ -1,5 +1,7 @@
 ##### § 51.41 Contracts and provider agreements for certain veterans with service-connected disabilities. #####
 
+Link to an amendment published at 84 FR 67872, Dec. 12, 2019.
+
 (a) *Contract or VA provider agreement required.* VA and State homes may enter into both contracts and provider agreements. VA will pay for each eligible veteran's care through either a contract or a provider agreement (called a “VA provider agreement”). Eligible veterans are those who:
 
 (1) Are in need of nursing home care for a VA adjudicated service-connected disability, or

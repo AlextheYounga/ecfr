@@ -1,8 +1,6 @@
 ##### § 697.4 Vessel permits and trap tags. #####
 
-Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
-
-(a) *Limited access American lobster permit.* Any vessel of the United States that fishes for, possesses, or lands American lobster in or harvested from the EEZ must have been issued and carry on board a valid Federal limited access lobster permit. This requirement does not apply to: charter, head, and commercial dive vessels that possess six or fewer American lobsters per person aboard the vessel if such lobsters are not intended for, nor used, in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster.
+(a) *Limited access American lobster permit.* Any vessel of the United States that fishes for, possesses, or lands American lobster or Jonah crab in or harvested from the EEZ must have been issued and carry on board a valid Federal limited access lobster permit. The requirement in this paragraph (a) does not apply to: Charter, head, and commercial dive vessels that possess 6 or fewer American lobsters per person or 50 Jonah crab per person aboard the vessel if such lobsters or crabs are not intended for, nor used, in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster or Jonah crab.
 
 (1) *Eligibility in 1999 and thereafter.* To be eligible for issuance or renewal of a Federal limited access lobster permit for fishing year 1999 and thereafter, a vessel must:
 
@@ -222,4 +220,4 @@ Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
 
 (p) *Permit category change.* A vessel permit category change (for individuals who possess a dual Federal limited access permit for American lobster and black sea bass and who restrict fishing operations to Area 5) may be issued by the Regional Administrator when requested in writing by the owner or by an authorized representative of a vessel meeting the eligibility requirements under § 697.26(a).
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 71 FR 13037, Mar. 14, 2006; 77 FR 32431, June 1, 2012; 79 FR 19021, Apr. 7, 2014]
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 71 FR 13037, Mar. 14, 2006; 77 FR 32431, June 1, 2012; 79 FR 19021, Apr. 7, 2014; 84 FR 61579, Nov. 13, 2019]

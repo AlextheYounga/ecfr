@@ -1,7 +1,5 @@
 ##### § 697.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
-
 (a) In addition to the definitions in the Magnuson-Stevens Act and in §§ 600.10 and 648.2 of this chapter, for the purposes of this part, the following terms have the following meanings:
 
 *American lobster* or lobster means *Homarus americanus.*
@@ -18,13 +16,13 @@ Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
 
 *Atlantic sturgeon* means members of stocks or populations of the species *Acipenser oxyrhynchus.*
 
-*Berried female* means a female American lobster bearing eggs attached to the abdominal appendages.
+*Berried female Jonah crab* means a female Jonah crab bearing eggs attached to the abdomen.
+
+*Berried female lobster* means a female American lobster bearing eggs attached to the abdominal appendages.
 
 *Block Island Southeast Light* means the aid to navigation light located at Southeast Point, Block Island, RI, and defined as follows: Located at 40°09.2′ N. lat., 71°33.1′ W. long; is 201 ft (61.3 m) above the water; and is shown from a brick octagonal tower 67 ft (20.4 m) high attached to a dwelling on the southeast point of Block Island, RI.
 
 *BRD* means bycatch reduction device.
-
-*Carapace length* is the straight line measurement from the rear of the eye socket parallel to the center line of the carapace to the posterior edge of the carapace. The carapace is the unsegmented body shell of the American lobster.
 
 *Certified BRD* means any BRD, as defined in part 622, Appendix D of this chapter: Specifications for Certified BRDs.
 
@@ -82,7 +80,13 @@ Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
 
 *ISFMP* means the Commission's Interstate Fishery Management Plan for American Lobster, as amended.
 
+*Jonah crab* means *Cancer borealis.*
+
+*Jonah crab carapace width* is the straight line measurement across the widest part of the shell including the tips of the posterior-most, longest spines along the lateral margins of the carapace.
+
 *Land* means to begin offloading fish, to offload fish, or to enter port with fish.
+
+*Lobster carapace length* is the straight line measurement from the rear of the eye socket parallel to the center line of the carapace to the posterior edge of the carapace. The carapace is the unsegmented body shell of the American lobster.
 
 *Lobster day-at-sea* with respect to the American lobster fishery means each 24-hour period of time during which a fishing vessel is absent from port in which the vessel intends to fish for, possess, or land, or fishes for, possesses, or lands American lobster.
 
@@ -136,4 +140,4 @@ Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
 
 (b) [Reserved]
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015; 84 FR 4737, Feb. 19, 2019]
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015; 84 FR 4737, Feb. 19, 2019; 84 FR 61579, Nov. 13, 2019]

@@ -1,7 +1,5 @@
 ##### § 697.7 Prohibitions. #####
 
-Link to an amendment published at 84 FR 61580, Nov. 13, 2019.
-
 (a) *Atlantic Coast weakfish fishery.* In addition to the prohibitions set forth in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (1) Fish for, harvest, or possess any weakfish less than 12 inches (30.5 cm) in total length (measured as a straight line along the bottom of the fish from the tip of the lower jaw with the mouth closed to the end of the lower tip of the tail) from the EEZ.
@@ -38,13 +36,13 @@ Link to an amendment published at 84 FR 61580, Nov. 13, 2019.
 
 (c) *American lobster.* (1) In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person owning or operating a vessel issued a Federal limited access American lobster permit under § 697.4 or a vessel or person holding a valid State of Maine American lobster permit or license and fishing under the provisions of and under the areas designated in § 697.24 to do any of the following:
 
-(i) Retain on board, land, or possess at or after landing, whole American lobsters that fail to meet the minimum carapace length standard specified in § 697.20(a). All American lobsters will be subject to inspection and enforcement action, up to and including the time when a dealer receives or possesses American lobsters for a commercial purpose.
+(i) Retain on board, land, or possess at or after landing, whole American lobsters that fail to meet the minimum lobster carapace length standard specified in § 697.20(a). All American lobsters will be subject to inspection and enforcement action, up to and including the time when a dealer receives or possesses American lobsters for a commercial purpose.
 
 (ii) Retain on board, land, or possess, up to the time when a dealer first receives or possesses American lobster for a commercial purpose, any American lobster or parts thereof in violation of the mutilation standards specified in § 697.20(c).
 
-(iii) Retain on board, land, or possess any berried female American lobster specified in § 697.20(d).
+(iii) Retain on board, land, or possess any berried female lobster specified in § 697.20(d).
 
-(iv) Remove eggs from any berried female American lobster, land, or possess any such lobster from which eggs have been removed. No person owning or operating a vessel issued a Federal limited access American lobster permit under § 697.4 or a vessel or person holding a State of Maine American lobster permit or license and fishing under the provisions of and under the areas designated in § 697.24 may land or possess any lobster that has come in contact with any substance capable of removing lobster eggs.
+(iv) Remove eggs from any berried female lobster, land, or possess any such lobster from which eggs have been removed. No person owning or operating a vessel issued a Federal limited access American lobster permit under § 697.4 or a vessel or person holding a State of Maine American lobster permit or license and fishing under the provisions of and under the areas designated in § 697.24 may land or possess any lobster that has come in contact with any substance capable of removing lobster eggs.
 
 (v) Retain on board, land, or possess any female lobster that do not meet the area-specific v-notch requirements set forth in § 697.20(g).
 
@@ -94,7 +92,7 @@ Link to an amendment published at 84 FR 61580, Nov. 13, 2019.
 
 (xxviii) Fail to comply with any gear, time, or area restriction in this part or, as is explained in § 697.3 and § 697.4(b), fail to comply with any gear, time, or area regulation set forth in any other regulatory part, including part 229 and part 648.
 
-(xxix) Retain on board, land, or possess at or after landing, whole American lobsters that exceed the maximum carapace length standard specified in § 697.20(b). All American lobsters will be subject to inspection and enforcement action, up to and including the time when a dealer receives or possesses American lobsters for a commercial purpose.
+(xxix) Retain on board, land, or possess at or after landing, whole American lobsters that exceed the maximum lobster carapace length standard specified in § 697.20(b). All American lobsters will be subject to inspection and enforcement action, up to and including the time when a dealer receives or possesses American lobsters for a commercial purpose.
 
 (xxx) *Seasonal closures.* The following areas are closed seasonally to lobster fishing.
 
@@ -286,4 +284,68 @@ Link to an amendment published at 84 FR 61580, Nov. 13, 2019.
 
 (11) Fail to comply with any other requirement or restriction specified in this part or violate any provision(s) in this part.
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14502, Mar. 13, 2001; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 11563, Mar. 4, 2008; 73 FR 58061, Oct. 6, 2008; 74 FR 37551, July 29, 2009; 79 FR 22449, Apr. 22, 2014; 79 FR 19025, Apr. 7, 2014; 79 FR 73852, Dec. 12, 2014; 80 FR 2033, Jan. 15, 2015; 80 FR 69622, Nov. 10, 2015; 84 FR 4737, Feb. 19, 2019]
+(h) *Jonah crab.* (1) In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person owning or operating a vessel issued a Federal limited access American lobster permit under § 697.4 or a vessel or person holding a valid State of Maine American lobster permit or license and fishing under the provisions of and under the areas designated in § 697.24 to do any of the following:
+
+(i) Retain on board, land, or possess at or after landing, Jonah crabs that fail to meet the minimum Jonah crab carapace width standard specified in § 697.20(h)(1). All Jonah crabs will be subject to inspection and enforcement action, up to and including the time when a dealer receives or possesses Jonah crabs for a commercial purpose.
+
+(ii) Retain on board, land, or possess any berried female Jonah crabs specified in § 697.20(h)(2).
+
+(iii) Remove eggs from any berried female Jonah crab, land, or possess any such Jonah crab from which eggs have been removed. No person owning or operating a vessel issued a Federal limited access American lobster permit under § 697.4 or a vessel or person holding a State of Maine American lobster permit or license and fishing under the provisions of and under the areas designated in § 697.24 may land or possess any Jonah crab that has come in contact with any substance capable of removing crab eggs.
+
+(iv) Sell, transfer, or barter or attempt to sell, transfer, or barter to a dealer any Jonah crabs, unless the dealer has a valid Federal Dealer's Permit issued under § 697.6.
+
+(v) Fish for, take, catch, or harvest Jonah crabs on a fishing trip in or from the EEZ by a method other than traps, in excess of up to 1,000 crabs per trip, unless otherwise restricted by paragraph (h)(2)(i)(C) of this section.
+
+(vi) Possess, retain on board, or land Jonah crabs by a vessel with any non-trap gear on board capable of catching Jonah crabs, in excess of up to 1,000 crabs per trip, unless otherwise restricted by paragraph (h)(2)(i)(C) of this section.
+
+(vii) Transfer or attempt to transfer Jonah crabs from one vessel to another vessel.
+
+(2) In addition to the prohibitions specified in § 600.725 of this chapter and the prohibitions specified in paragraph (h)(1) of this section, it is unlawful for any person to do any of the following:
+
+(i) Retain on board, land, or possess Jonah crabs unless:
+
+(A) The Jonah crabs were harvested by a vessel that has been issued and carries on board a valid Federal limited access American lobster permit under § 697.4; or
+
+(B) The Jonah crabs were harvested in state waters by a vessel without a valid Federal limited access American lobster permit; or
+
+(C) The Jonah crabs were harvested by a charter boat, head boat, or commercial dive vessel that possesses 50 or fewer Jonah crabs per person on board the vessel (including captain and crew) and the Jonah crabs are not intended to be, or are not, traded, bartered, or sold; or
+
+(D) The Jonah crabs were harvested for recreational purposes by a recreational fishing vessel; or
+
+(E) The Jonah crabs were harvested by a vessel or person holding a valid State of Maine American lobster permit or license and is fishing under the provisions of and in the areas designated in § 697.24.
+
+(ii) Sell, barter, or trade, or otherwise transfer, or attempt to sell, barter, or trade, or otherwise transfer, for a commercial purpose, any Jonah crabs from a vessel, unless the vessel has been issued a valid Federal limited access American lobster permit under § 697.4, or the Jonah crabs were harvested by a vessel without a valid Federal limited access American lobster permit that fishes for Jonah crabs exclusively in state waters or unless the vessel or person holds a valid State of Maine American lobster permit or license and that is fishing under the provisions of and in the areas designated in § 697.24.
+
+(iii) To be, or act as, an operator of a vessel fishing for or possessing Jonah crabs in or from the EEZ, or issued a Federal limited access American lobster permit under § 697.4, without having been issued and possessing a valid operator's permit under § 697.5.
+
+(iv) Purchase, possess, or receive for a commercial purpose, or attempt to purchase, possess, or receive for a commercial purpose, as, or in the capacity of, a dealer, Jonah crabs taken from or harvested by a fishing vessel issued a Federal limited access American lobster permit, unless in possession of a valid dealer's permit issued under § 697.6.
+
+(v) Purchase, possess, or receive for commercial purposes, or attempt to purchase or receive for commercial purposes, as, or in the capacity of, a dealer, Jonah crabs caught by a vessel other than one issued a valid Federal limited access American lobster permit under § 697.4, or one holding or owned or operated by one holding a valid State of Maine American lobster permit or license and fishing under the provisions of and in the areas designated in § 697.24, unless the Jonah crabs were harvested by a vessel without a Federal limited access American lobster permit and that fishes for Jonah crabs exclusively in state waters.
+
+(vi) Make any false statement, oral or written, to an authorized officer, concerning the taking, catching, harvesting, landing, purchase, sale, or transfer of any Jonah crabs.
+
+(vii) Violate any provision of this part, the ACFCMA, the Magnuson-Stevens Act, or any regulation, permit, or notification issued under this part, the ACFCMA, or the Magnuson-Stevens Act.
+
+(viii) Retain on board, land, or possess any Jonah crabs harvested in or from the EEZ in violation of § 697.20.
+
+(ix) Ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live Jonah crabs in violation of § 697.20.
+
+(x) Violate any terms of a letter authorizing exempted fishing pursuant to § 697.22 or to fail to keep such letter aboard the vessel during the time period of the exempted fishing.
+
+(xi) Possess, deploy, fish with, haul, harvest Jonah crabs from, or carry aboard a vessel any lobster trap gear on a fishing trip in the EEZ on a vessel that fishes for, takes, catches, or harvests Jonah crabs by a method other than lobster traps.
+
+(xii) Fish for, take, catch, or harvest Jonah crabs on a fishing trip in the EEZ by a method other than traps, in excess of up to 1,000 crabs per trip, unless otherwise restricted by paragraph (h)(2)(i)(C) of this section.
+
+(xiii) Possess, retain on board, or land Jonah crabs by a vessel with any non-trap gear on board capable of catching lobsters, in excess of up to 1,000 crabs per trip, unless otherwise restricted by paragraph (h)(2)(i)(C) of this section.
+
+(xiv) Transfer or attempt to transfer Jonah crabs from one vessel to another vessel.
+
+(xv) Fail to comply with dealer record keeping and reporting requirements as specified in § 697.6.
+
+(3) Any person possessing, or landing Jonah crabs at or prior to the time when those Jonah crabs are landed, or are received or possessed by a dealer for the first time, is subject to all of the prohibitions specified in paragraph (g) of this section, unless the Jonah crabs were harvested by a vessel without a Federal limited access American lobster permit and that fishes for Jonah crabs exclusively in state waters; or are from a charter, head, or commercial dive vessel that possesses or possessed 50 or fewer Jonah crabs per person aboard the vessel and the Jonah crabs are not intended for sale, trade, or barter; or are from a recreational fishing vessel.
+
+(i) Jonah crabs that are possessed, or landed at or prior to the time when the Jonah crabs are received by a dealer, or Jonah crabs that are possessed by a dealer, are presumed to have been harvested from the EEZ or by a vessel with a Federal limited access American lobster permit. A preponderance of all submitted evidence that such Jonah crabs were harvested by a vessel without a Federal limited access American lobster permit and fishing exclusively for Jonah crabs in state or foreign waters will be sufficient to rebut this presumption.
+
+(ii) The possession of egg-bearing female Jonah crabs in violation of the requirements set forth in § 697.20(h)(1) or Jonah crabs that are smaller than the minimum sizes set forth in § 697.20(h)(2), will be prima facie evidence that such Jonah crabs were taken or imported in violation of these regulations. A preponderance of all submitted evidence that such Jonah crabs were harvested by a vessel not holding a permit under this part and fishing exclusively within state or foreign waters will be sufficient to rebut the presumption.
+
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14502, Mar. 13, 2001; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 11563, Mar. 4, 2008; 73 FR 58061, Oct. 6, 2008; 74 FR 37551, July 29, 2009; 79 FR 22449, Apr. 22, 2014; 79 FR 19025, Apr. 7, 2014; 79 FR 73852, Dec. 12, 2014; 80 FR 2033, Jan. 15, 2015; 80 FR 69622, Nov. 10, 2015; 84 FR 4737, Feb. 19, 2019; 84 FR 61580, Nov. 13, 2019]

@@ -1,8 +1,6 @@
 ##### § 697.5 Operator permits. #####
 
-Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
-
-(a) *General.* Any operator of a vessel issued a Federal limited access American lobster permit under § 697.4(a), or any operator of a vessel of the United States that fishes for, possesses, or lands American lobsters, harvested in or from the EEZ must have been issued and carry on board a valid operator's permit issued under this section. This requirement does not apply to: Charter, head, and commercial dive vessels that possess six or fewer American lobsters per person aboard the vessel if said lobsters are not intended for nor used in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster.
+(a) *General.* Any operator of a vessel issued a Federal limited access American lobster permit under § 697.4(a), or any operator of a vessel of the United States that fishes for, possesses, or lands American lobsters or Jonah crabs, harvested in or from the EEZ must have been issued and carry on board a valid operator's permit issued under this section. The requirement in this paragraph (a) does not apply to: Charter, head, and commercial dive vessels that possess six or fewer American lobsters per person aboard the vessel if said lobsters are not intended for nor used in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster.
 
 (b) *Operator application.* Applicants for a permit under this section must submit a completed permit application on an appropriate form obtained from the Regional Administrator. To be complete, an application must contain at least the following information, and any other information specified on the application form or otherwise required by the Regional Administrator: Name, mailing address, and telephone number; date of birth; hair color; eye color; height; weight; social security number (optional) and signature of the applicant. The applicant must also provide two recent (no more than 1 year old) color passport-size photographs. The application must be signed by the applicant and submitted to the Regional Administrator at least 30 days prior to the date on which the applicant desires to have the permit made effective. The Regional Administrator will notify the applicant of any deficiency in the application.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 84 FR 61579, Nov. 13, 2019.
 (m) *Sanctions.* Vessel operators with suspended or revoked permits may not be on board a federally permitted fishing vessel in any capacity while the vessel is at sea or engaged in offloading. Permits issued or sought under this section may be suspended, revoked, or modified, by procedures governing enforcement-related permit sanctions and denials, found at subpart D of 15 CFR part 904.
 
 (n) *Vessel owner responsibility.* Vessel owners are responsible for ensuring that their vessels are operated by an individual with a valid operator's permit issued under this section.
+
+[64 FR 68248, Dec. 6, 1999, as amended at 84 FR 61579, Nov. 13, 2019]

@@ -8,7 +8,7 @@
 
 (d) *Requests for additional information.* The Department may make one request for additional information from the requester and toll the 20-day period while awaiting receipt of the additional information.
 
-(e) *Extension of time period for processing a FOIA request.* The Department may extend the time period for processing a FOIA request only in unusual circumstances, as described in paragraphs (e)(1) through (e)(3) of this section, in which case the Department notifies the requester of the extension in writing. A notice of extension affords the requester the opportunity either to modify its FOIA request so that it may be processed within the 20-day time limit, or to arrange with the Department an alternative time period within which the FOIA request will be processed. For the purposes of this section, unusual circumstances include:
+(e) *Extension of time period for processing a FOIA request.* The Department may extend the time period for processing a FOIA request only in unusual circumstances, as described in paragraphs (e)(1) through (3) of this section, in which case the Department notifies the requester of the extension in writing. For extensions of more than 10 additional working days, the Department must also notify the requester, in writing, of the right to seek dispute resolution services from the Office of Government Information Services. A notice of extension affords the requester the opportunity either to modify its FOIA request so that it may be processed within the 20-day time limit, or to arrange with the Department an alternative time period within which the FOIA request will be processed. For the purposes of this section, unusual circumstances include:
 
 (1) The need to search for and collect the requested agency records from field facilities or other establishments that are separate from the office processing the request.
 
@@ -18,7 +18,7 @@
 
 (f) *FOIA Public Liaison and FOIA Requester Service Center.* The Department's FOIA Public Liaison assists in the resolution of disputes between the requester and the Department. The Department provides information about the status of a FOIA request to the requester through the Department's FOIA Requester Service Center. Contact information for the Department's FOIA Public Liaison and FOIA Requester Service Center may be found at *http://www.ed.gov/policy/gen/leg/foia/contacts.html.*
 
-(g) *Notification of determination.* Once the Department makes a determination to grant a FOIA request in whole or in part, it notifies the requester in writing of its decision.
+(g) *Notification of determination.* Once the Department makes a determination to grant a FOIA request in whole or in part, it notifies the requester in writing of its decision and of the right to seek assistance from the Department's FOIA Public Liaison.
 
 (h) *Denials of FOIA requests.*
 
@@ -36,7 +36,11 @@
 
 (D) Where an agency record has been disclosed only in part, an indication of the exemption under the Act justifying the redaction in the agency record (unless providing this information would harm an interest protected by an applicable exemption under the Act).
 
-(E) A statement of appeal rights and a list of requirements for filing an appeal under § 5.40.
+(E) A statement notifying the requester of the right to seek assistance from the Department's FOIA Public Liaison.
+
+(F) A statement notifying the requester of the right to seek dispute resolution services from the Department's FOIA Public Liaison or the Office of Government Information Services.
+
+(G) A statement of appeal rights and a list of requirements for filing an appeal under § 5.40.
 
 (i) *Timing of responses to FOIA requests.*
 
@@ -60,4 +64,4 @@ The Department may use two or more processing tracks to distinguish between simp
 
 (iv) The Department makes a determination whether to grant or deny a request for expedited processing within 10 calendar days of its receipt by the component of the Department designated pursuant to § 5.20(a) to receive FOIA requests for agency records, and processes FOIA requests accepted for expedited processing as soon as practicable and on a priority basis.
 
-(Authority: 5 U.S.C. 552(a), 20 U.S.C. 3474)
+(Authority: 5 U.S.C. 552(a), 20 U.S.C. 3474)[75 FR 33510, June 14, 2010, as amended at 84 FR 67868, Dec. 12, 2019]

@@ -28,11 +28,11 @@
 
 (d) Changes to a management program's Federal consistency list or a new or revised geographic location description under part 930 of this subchapter, subparts C, D, E, F or I. For changes to a management program's list of Federal actions or a new or revised geographic location description, the state's effects analysis shall be based on information that would allow NOAA to find that the listed activity, either within the state's coastal zone or within a geographic location described outside the state's coastal zone, would have reasonably foreseeable effects on the uses or resources of the state's coastal zone. A state's analysis asserting impacts to uses or resources outside of the coastal zone shall not, by itself, demonstrate a coastal effect; rather, the state shall describe a causal connection of how an impact outside the coastal zone could result in a coastal effect. A state's effects analysis shall not be based on unsupported conclusions, speculation or the mere existence of coastal uses or resources within a geographic location. A state's coastal effects analysis shall, to the extent practicable, identify:
 
-(1) The affected uses (*e.g.,* commercial and recreational fishing, boating, tourism, shipping, energy facilities) and resources (*e.g.,* fish, marine mammals, reptiles, birds, landmarks).
+(1) The affected uses (e.g., commercial and recreational fishing, boating, tourism, shipping, energy facilities) and resources (e.g., fish, marine mammals, reptiles, birds, landmarks).
 
 (2) Where and in what densities the uses and resources are found.
 
-(3) How the state has a specific interest in the resource or use. States should be specific in showing the connection to the coastal zone of the state (*e.g.,* economic values, harvest amounts, vulnerabilities, seasonal information relevant to the proposed activity).
+(3) How the state has a specific interest in the resource or use. States should be specific in showing the connection to the coastal zone of the state (e.g., economic values, harvest amounts, vulnerabilities, seasonal information relevant to the proposed activity).
 
 (4) Where the proposed activity overlaps with these resources, uses and values.
 

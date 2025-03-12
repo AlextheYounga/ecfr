@@ -6,7 +6,7 @@
 
 (2) *Review.* (i) The Department charges fees for initial agency record review at the same rate as for searches, subject to the limitations set forth in paragraph (b) of this section.
 
-(ii) No fees are charged for review at the administrative appeal level except in connection with -
+(ii) No fees are charged for review at the administrative appeal level except in connection with—
 
 (A) The review of agency records other than agency records identified as responsive to the FOIA request in the initial decision; and
 
@@ -18,7 +18,7 @@
 
 (b) *Limitations on fees.*
 
-(1) Fees are limited to charges for document duplication when agency records are not sought for commercial use and the request is made by -
+(1) Fees are limited to charges for document duplication when agency records are not sought for commercial use and the request is made by—
 
 (i) An educational or noncommercial scientific institution, whose purpose is scholarly or scientific research; or
 
@@ -27,6 +27,8 @@
 (2) For FOIA requests other than commercial use FOIA requests, the Department provides the first 100 pages of agency records released (or the cost equivalent) and the first two hours of search (or the cost equivalent) without charge, pursuant to 5 U.S.C. 552(a)(4)(A)(iv)(II).
 
 (3) Whenever the Department calculates that the fees assessable for a FOIA request under paragraph (a) of this section total $25.00 or less, the Department processes the FOIA request without charge to the requester.
+
+(4) If the Department has failed to comply with any time limit in 5 U.S.C. 552(a)(4)(A)(viii)(I), the Department may not assess search fees, except as otherwise provided in this paragraph. If the Department has determined that unusual circumstances (as described in § 5.21(e)) apply, it may assess search fees (or, for requesters with preferred fee status, it may assess duplication fees) if the Department gives the requester timely written notice under § 5.21(e) and responds to the FOIA request within 10 additional working days. If unusual circumstances apply and more than 5,000 pages are necessary to respond to the request, the Department may assess search fees (or, for requesters with preferred fee status, duplication fees) if the Department gives the requester timely written notice under § 5.21(e) and the Department discussed with the requester via written mail, electronic mail, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request.
 
 (c) *Notice of anticipated fees in excess of $25.* When the Department estimates or determines that the fees for processing a FOIA request will total more than $25 and the requester has not stated a willingness to pay such fees, the Department notifies the requester of the anticipated amount of fees before processing the FOIA request. If the Department can readily anticipate fees for processing only a portion of a request, the Department advises the requester that the anticipated fee is for processing only a portion of the request. When the Department has notified a requester of anticipated fees greater than $25, the Department does not further process the request until the requester agrees in writing to pay the anticipated total fee.
 
@@ -50,4 +52,4 @@
 
 (i) *Other statutory requirements.* The fee schedule of this section does not apply to fees charged under any statute that specifically requires an agency to set and collect fees for producing particular types of agency records.
 
-(Authority: 5 U.S.C. 552(a), 5 U.S.C. 552(a)(4)(A), 20 U.S.C. 3474)
+(Authority: 5 U.S.C. 552(a), 5 U.S.C. 552(a)(4)(A), 20 U.S.C. 3474)[75 FR 33510, June 14, 2010, as amended at 84 FR 67868, Dec. 12, 2019]

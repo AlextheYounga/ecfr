@@ -6,7 +6,7 @@
 
 (c) Program changes that are editorial, non-substantive, or minor in scope. The types of program changes in paragraphs (c)(1) through (4) of this section shall be approved by NOAA and need less review as long as they satisfy the decision criteria in § 923.84 and do not raise issues under any Federal laws, as described in § 923.85:
 
-(1) Editorial or non-substantive changes (*e.g.,* citation changes, minor technical changes, or changes to state agency name) to state laws, regulations, enforceable policies, local government coastal management programs, special area management plans, and other authorities;
+(1) Editorial or non-substantive changes (e.g., citation changes, minor technical changes, or changes to state agency name) to state laws, regulations, enforceable policies, local government coastal management programs, special area management plans, and other authorities;
 
 (2) Changes that do not change a state's coastal zone boundary or geographic location description(s), and are not otherwise used by the state for Federal consistency review;
 
@@ -20,7 +20,7 @@
 
 (2) Changes to enforceable policies, including modifications, additions and deletions;
 
-(3) Changes to provisions that are not enforceable policies, but which a state may use to evaluate the scope or applicability of an enforceable policy (*e.g.,* definitions, advisory statements);
+(3) Changes to provisions that are not enforceable policies, but which a state may use to evaluate the scope or applicability of an enforceable policy (e.g., definitions, advisory statements);
 
 (4) Changes to local government coastal management programs or plans if those local programs or plans contain enforceable policies that the state uses for Federal consistency review. States are not required to submit program changes for local government coastal management programs or plans that do not contain enforceable policies for Federal consistency review;
 
