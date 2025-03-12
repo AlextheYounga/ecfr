@@ -420,6 +420,10 @@ This section lists the headings for §§ 1.965-1 through 1.965-9.
 
 (5) Example 5.
 
+(i) Facts.
+
+(ii) Analysis.
+
 (A) Section 965(a) inclusion amount.
 
 (*1*) CFC section 965(a) earnings amount.
@@ -593,6 +597,8 @@ This section lists the headings for §§ 1.965-1 through 1.965-9.
 (1) General rule.
 
 (2) Presumptions and exceptions for the application of the general rule.
+
+(i) Overview.
 
 (ii) Definitions.
 
@@ -1142,4 +1148,4 @@ This section lists the headings for §§ 1.965-1 through 1.965-9.
 
 (b) Applicability dates for rules disregarding certain transactions.
 
-[T.D. 9846, 84 FR 1875, Feb. 5, 2019]
+[T.D. 9846, 84 FR 1875, Feb. 5, 2019, as amended by T.D. 9846, 84 FR 14260, Apr. 10, 2019]

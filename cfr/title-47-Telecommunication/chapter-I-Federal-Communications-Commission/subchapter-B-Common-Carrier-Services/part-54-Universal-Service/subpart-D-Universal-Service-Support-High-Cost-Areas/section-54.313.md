@@ -1,7 +1,5 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
-Link to an amendment published at 84 FR 8624, Mar. 11, 2019.
-
 (a) Any recipient of high-cost support shall provide the following:
 
 (1) Certification that the carrier is able to function in emergency situations as set forth in § 54.202(a)(2);
@@ -136,10 +134,15 @@ Link to an amendment published at 84 FR 8624, Mar. 11, 2019.
 
 (2) [Reserved]
 
-[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(m) Any price cap carrier or fixed competitive eligible telecommunications carrier that elects to continue receiving support pursuant to § 54.312(d) or § 54.307(e)(2)(iii) shall provide certifications, starting July 1, 2020 and for each subsequent year they receive such support, that all such support the company received in the previous year was used to provide voice service throughout the high-cost and extremely high-cost census blocks where they continue to have the federal high-cost eligible telecommunications carrier obligation to provide voice service pursuant to § 54.201(d) at rates that are reasonably comparable to comparable offerings in urban areas. Any price cap carrier or fixed competitive eligible telecommunications carrier that solely receives support pursuant to § 54.312(d) or
+§ 54.307(e)(2)(iii) in its designated service area shall not be subject to reporting requirements in any other paragraphs in this section for such support.
+
+[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 3. At 80 FR 4476, Jan. 27, 2015, § 54.313(a)(12) was added and (e) was revised. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 4. At 84 FR 4732, Feb. 19, 2019, § 54.313(f)(1)(i) was revised and (f)(5) was added. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+5. At 84 FR 8624, Mar. 11, 2019, § 54.313 (m) was added. This paragraph contains information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

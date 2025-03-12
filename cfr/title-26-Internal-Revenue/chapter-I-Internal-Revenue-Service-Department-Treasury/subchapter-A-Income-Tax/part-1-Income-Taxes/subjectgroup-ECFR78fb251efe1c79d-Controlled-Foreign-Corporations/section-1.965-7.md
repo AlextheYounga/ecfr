@@ -166,7 +166,7 @@
 
 (*1*) *Requirement to have a covered triggering event.* The triggering event satisfies the requirements of this paragraph (c)(3)(iv)(A)(*1*) if it is described in paragraph (c)(3)(ii)(C) of this section.
 
-(*2*) *Requirement to enter into a transfer agreement.* The shareholder with respect to which a triggering event occurs and an eligible section 965(i) transferee (as defined in paragraph (c)(3)(v)(B)(*1*) of this section) must enter into an agreement with the Commissioner that satisfies the requirements of paragraph (c)(3)(iv)(B) of this section.
+(*2*) *Requirement to enter into a transfer agreement.* The shareholder with respect to which a triggering event occurs and an eligible section 965(i) transferee (as defined in paragraph (c)(3)(iv)(B)(*1*) of this section) must enter into an agreement with the Commissioner that satisfies the requirements of paragraph (c)(3)(iv)(B) of this section.
 
 (B) *Transfer agreement* - (*1*) *Eligibility.* A transfer agreement that satisfies the requirements of this paragraph (c)(3)(iv)(B) may be entered into by an eligible section 965(i) transferor and an eligible section 965(i) transferee. For this purpose, the term *eligible section 965(i) transferee* refers to a single United States person that becomes a shareholder of the S corporation (including a person listed in § 1.1362-6(b)(2) with respect to a trust or estate, but not a domestic pass-through entity itself). In the case of a transfer that consists of multiple partial transfers (as described in paragraph (c)(3)(iii) of this section), a transfer agreement that satisfies the requirements of this paragraph (c)(3)(iv)(B) may be entered into by an eligible section 965(i) transferor and an eligible section 965(i) transferee for each partial transfer.
 
@@ -194,7 +194,7 @@
 
 (*vii*) A representation that the eligible section 965(i) transferee is able to pay the section 965(i) net tax liability being assumed;
 
-(*viii*) An acknowledgement that the eligible section 965(i) transferor and any successor to the eligible section 965(i) transferor will remain jointly and severally liable for the section 965(i) net tax liability being assumed by the eligible section 965(i) transferee.
+(*viii*) An acknowledgement that the eligible section 965(i) transferor and any successor to the eligible section 965(i) transferor will remain jointly and severally liable for the section 965(i) net tax liability being assumed by the eligible section 965(i) transferee;
 
 (*ix*) A statement as to whether the leverage ratio of the eligible section 965(i) transferee immediately after the triggering event exceeds three to one, which ratio may be modified as provided in publications, forms, instructions, or other guidance;
 
@@ -368,4 +368,4 @@ Example 2.(ii)(A) *Facts.* The facts are the same as in paragraph (f)(6)(i)(A) o
 
 (iii) *Foreign tax credits.* The foreign tax credit disregarded in determining net income tax determined under paragraph (g)(10)(i)(B) of this section includes the credit for foreign income taxes deemed paid with respect to section 965(a) inclusions or foreign income taxes deemed paid with respect to a dividend, including a distribution that would have been treated as a dividend in the absence of section 965. The foreign tax credit disregarded under paragraph (g)(10)(i)(B) of this section also includes the credit for foreign income taxes imposed on distributions of section 965(a) previously taxed earnings and profits or 965(b) previously taxed earnings and profits made in the taxable year in which the person includes a section 965(a) inclusion in income.
 
-[T.D. 9846, 84 FR 1875, Feb. 5, 2019]
+[T.D. 9846, 84 FR 1875, Feb. 5, 2019, as amended by T.D. 9846, 84 FR 14261, Apr. 10, 2019]

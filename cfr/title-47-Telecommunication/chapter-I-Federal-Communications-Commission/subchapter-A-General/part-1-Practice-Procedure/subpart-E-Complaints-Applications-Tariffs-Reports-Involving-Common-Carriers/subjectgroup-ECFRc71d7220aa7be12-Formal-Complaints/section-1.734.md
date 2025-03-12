@@ -1,10 +1,8 @@
 ##### § 1.734 Fee remittance; electronic filing; copies; service; separate filings against multiple defendants. #####
 
-Link to an amendment published at 84 FR 8618, March 11, 2019.
-
 (a) Complaints may not be brought against multiple defendants unless they are commonly owned or controlled, are alleged to have acted in concert, are alleged to be jointly liable to complainant, or the complaint concerns common questions of law or fact. Complaints may, however, be consolidated by the Commission for disposition.
 
-(b) The complainant shall remit separately the correct fee either by check, wire transfer, or electronically, in accordance with part 1, subpart G (see § 1.1106) and, shall file an original copy of the complaint, using the Commission's Electronic Comment Filing System. If a complaint is addressed against multiple defendants, the complainant shall pay a separate fee for each additional defendant.
+(b) The complainant shall remit separately the correct fee electronically, in accordance with part 1, subpart G (see § 1.1106 of this chapter) and shall file an original copy of the complaint using the Commission's Electronic Comment Filing System. If a complaint is addressed against multiple defendants, the complainant shall pay a separate fee for each additional defendant.
 
 (c) The complainant shall serve the complaint by hand delivery on either the named defendant or one of the named defendant's registered agents for service of process on the same date that the complaint is filed with the Commission in accordance with the requirements of paragraph (b) of this section.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 84 FR 8618, March 11, 2019.
 
 (g) Supplemental complaints filed pursuant to § 1.723 shall conform to the requirements set forth in this section, except that the complainant need not submit a filing fee.
 
-[83 FR 44832, Sept. 4, 2018]
+[83 FR 44832, Sept. 4, 2018, as amended at 84 FR 8618, Mar. 11, 2019]

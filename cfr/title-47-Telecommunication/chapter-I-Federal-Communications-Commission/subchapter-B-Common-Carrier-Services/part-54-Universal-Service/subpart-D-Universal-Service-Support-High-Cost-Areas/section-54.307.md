@@ -1,7 +1,5 @@
 ##### § 54.307 Support to a competitive eligible telecommunications carrier. #####
 
-Link to an amendment published at 84 FR 8623, Mar. 11, 2019.
-
 (a) *Calculation of support.* A competitive eligible telecommunications carrier shall receive universal service support to the extent that the competitive eligible telecommunications carrier captures the subscriber lines of an incumbent local exchange carrier (LEC) or serves new subscriber lines in the incumbent LEC's service area.
 
 (1) A competitive eligible telecommunications carrier serving loops in the service area of a rural incumbent local exchange carrier, as that term is defined in § 54.5 of this chapter, shall receive support for each line it serves in a particular service area based on the support the incumbent LEC would receive for each such line, disaggregated by cost zone if disaggregation zones have been established within the service area pursuant to § 54.315 of this subpart. A competitive eligible telecommunications carrier serving loops in the service area of a non-rural incumbent local exchange carrier shall receive support for each line it serves in a particular wire center based on the support the incumbent LEC would receive for each such line. A competitive eligible telecommunications carrier serving loops in the service area of a rate-of-return carrier shall be eligible to receive Interstate Common Line Support for each line it serves in the service area in accordance with the formula in § 54.901.
@@ -112,4 +110,14 @@ Link to an amendment published at 84 FR 8623, Mar. 11, 2019.
 
 (7) *Line Count Filings.* Competitive eligible telecommunications carriers, except those subject to the delayed phase down described in paragraph (e)(3) of this section, shall no longer be required to file line counts beginning January 1, 2012. Competitive eligible telecommunications carriers subject to the delayed phase down described in paragraph (e)(3) of this section shall no longer be required to file line counts beginning July 1, 2014, or the date after the first line count filing following the implementation of Mobility Fund Phase II, whichever is later.
 
-[62 FR 32948, June 17, 1997, as amended at 63 FR 2128, Jan. 13, 1998; 64 FR 67431, Dec. 1, 1999; 65 FR 26516, May 8, 2000; 66 FR 30087, June 5, 2001; 66 FR 59726, Nov. 30, 2001; 68 FR 31623, May 28, 2003; 69 FR 34602, June 22, 2004; 70 FR 29979, May 25, 2005; 76 FR 73871, Nov. 29, 2011; 77 FR 14302, Mar. 9, 2012; 77 FR 30913, May 24, 2012; 77 FR 52618, Aug. 30, 2012; 82 FR 15449, Mar. 28, 2017]
+(8) *Eligibility for support after Connect America Phase II auction.* Starting the first day of the month following the first authorization of Connect America Phase II auction support nationwide, fixed competitive eligible telecommunications carriers shall have the option of receiving support pursuant to paragraph (e)(2)(iii) of this section as described in the following paragraphs (e)(8)(i) through (iv):
+
+(i) For 12 months following the first authorization of Connect America Phase II auction support nationwide, each fixed competitive eligible telecommunications carrier shall receive two-thirds (2/3) of the carrier's total support pursuant to paragraph (e)(2)(iii) of this section.
+
+(ii) For 12 months starting the month following the period described in paragraph (e)(8)(i) of this section, each fixed competitive eligible telecommunications carrier shall receive one-third (1/3) of the carrier's total support pursuant to paragraph (e)(2)(iii) of this section.
+
+(iii) Following the period described in paragraph (e)(8)(ii) of this section, no fixed competitive eligible telecommunications carrier shall receive any support pursuant to paragraph (e)(2)(iii) of this section.
+
+(iv) Notwithstanding the foregoing schedule, the phase-down of support below the level described in paragraph (e)(2)(iii) of this section shall be subject to the restrictions in Consolidated Appropriations Act, 2016, Public Law 114-113, Div. E, Title VI, section 631, 129 Stat. 2242, 2470 (2015), unless and until such restrictions are no longer in effect.
+
+[62 FR 32948, June 17, 1997, as amended at 63 FR 2128, Jan. 13, 1998; 64 FR 67431, Dec. 1, 1999; 65 FR 26516, May 8, 2000; 66 FR 30087, June 5, 2001; 66 FR 59726, Nov. 30, 2001; 68 FR 31623, May 28, 2003; 69 FR 34602, June 22, 2004; 70 FR 29979, May 25, 2005; 76 FR 73871, Nov. 29, 2011; 77 FR 14302, Mar. 9, 2012; 77 FR 30913, May 24, 2012; 77 FR 52618, Aug. 30, 2012; 82 FR 15449, Mar. 28, 2017; 84 FR 8623, Mar. 11, 2019]

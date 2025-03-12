@@ -1,5 +1,7 @@
 ##### § 622.193 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
+Link to an amendment published at 84 FR 14025, Apr. 9, 2019.
+
 (a) *Golden tilefish* - (1) *Commercial sector* - (i) *Hook-and-line component.* If commercial hook-and-line landings for golden tilefish, as estimated by the SRD, reach or are projected to reach the commercial ACL (commercial quota) specified in § 622.190(a)(2)(ii), the AA will file a notification with the Office of the Federal Register to close the hook-and-line component of the commercial sector for the remainder of the fishing year. Applicable restrictions after a commercial quota closure are specified in § 622.190(c).
 
 (ii) *Longline component.* If commercial longline landings for golden tilefish, as estimated by the SRD, reach or are projected to reach the longline commercial ACL (commercial quota) specified in § 622.190(a)(2)(iii), the AA will file a notification with the Office of the Federal Register to close the longline component of the commercial sector for the remainder of the fishing year. After the commercial ACL for the longline component is reached or projected to be reached, golden tilefish may not be fished for or possessed by a vessel with a golden tilefish longline endorsement. Applicable restrictions after a commercial quota closure are specified in § 622.190(c).

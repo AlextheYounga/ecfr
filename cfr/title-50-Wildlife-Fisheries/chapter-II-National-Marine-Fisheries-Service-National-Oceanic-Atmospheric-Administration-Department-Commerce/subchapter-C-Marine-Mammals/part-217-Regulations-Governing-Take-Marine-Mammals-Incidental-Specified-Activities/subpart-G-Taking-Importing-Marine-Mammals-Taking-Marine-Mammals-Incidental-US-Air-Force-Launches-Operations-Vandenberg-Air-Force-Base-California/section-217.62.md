@@ -1,0 +1,3 @@
+##### § 217.62 Permissible methods of taking. #####
+
+(a) Under an LOA issued pursuant to §§ 216.106 and 217.60 of this chapter, the Holder of the LOA (herein after “USAF”) may incidentally, but not intentionally, take marine mammals by Level B harassment, within the area described in § 217.60(b), provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

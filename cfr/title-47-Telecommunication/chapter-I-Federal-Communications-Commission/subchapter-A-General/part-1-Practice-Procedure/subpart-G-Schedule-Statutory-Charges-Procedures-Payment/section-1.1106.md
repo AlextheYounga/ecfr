@@ -1,8 +1,8 @@
-##### § 1.1106 Schedule of charges for applications and other filings for the enforcement services. #####
+##### § 1.1106 Schedule of charges for applications for enforcement services. #####
 
-Link to an amendment published at 84 FR 8619, March 11, 2019.
+Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees*.
 
-Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, Enforcement Bureau, P.O. Box 979094, St. Louis, MO 63197-9000 with the exception of Accounting and Audits, which will be invoiced. Carriers should follow invoice instructions when making payment.
+[84 FR 8618, Mar. 11, 2019]
 
 |                             Service                             |                FCC Form No.                |Fee amount|Payment type code|
 |-----------------------------------------------------------------|--------------------------------------------|----------|-----------------|
