@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 84 FR 53036, Oct. 4, 2019.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -112,9 +110,11 @@ C. Count shares of voting securities beneficially owned by residents of the Unit
 
 (1) A prospectus satisfying the requirements of section 10(a) of the Act, Rule 430 (§ 230.430), Rule 430A (§ 230.430A), Rule 430B (§ 230.430B), Rule 430C (§ 230.430C), Rule 430D (§ 230.430D), or Rule 431 (§ 230.431);
 
-(2) A written communication used in reliance on Rule 167 and Rule 426 (§ 230.167 and § 230.426); or
+(2) A written communication used in reliance on Rule 167 and Rule 426 (§ 230.167 and § 230.426);
 
-(3) A written communication that constitutes an offer to sell or solicitation of an offer to buy such securities that falls within the exception from the definition of prospectus in clause (a) of section 2(a)(10) of the Act.
+(3) A written communication that constitutes an offer to sell or solicitation of an offer to buy such securities that falls within the exception from the definition of prospectus in clause (a) of section 2(a)(10) of the Act; or
+
+(4) A written communication used in reliance on Rule 163B (§ 230.163B) or on section 5(d) of the Act.
 
 *Graphic communication.* The term *graphic communication*, which appears in the definition of “write, written” in section 2(a)(9) of the Act and in the definition of written communication in this section, shall include all forms of electronic media, including, but not limited to, audiotapes, videotapes, facsimiles, CD-ROM, electronic mail, Internet Web sites, substantially similar messages widely distributed (rather than individually distributed) on telephone answering or voice mail systems, computers, computer networks and other forms of computer data compilation. Graphic communication shall not include a communication that, at the time of the communication, originates live, in real-time to a live audience and does not originate in recorded form or otherwise as a graphic communication, although it is transmitted through graphic means.
 

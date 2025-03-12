@@ -240,7 +240,7 @@
 
 (e) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-(f) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in the definition of “Caribbean Basin country end product” within paragraph (a)of this clause:
+(f) The HTSUS is available on the Internet at *http://www.usitc.gov/tata/hts/bychapter/index.htm.* The following sections of the HTSUS provide information regarding duty-free status of articles specified in the definition of “Caribbean Basin country end product” within paragraph (a) of this clause:
 
 (1) General Note 3(c), Products Eligible for Special Tariff Treatment.
 
