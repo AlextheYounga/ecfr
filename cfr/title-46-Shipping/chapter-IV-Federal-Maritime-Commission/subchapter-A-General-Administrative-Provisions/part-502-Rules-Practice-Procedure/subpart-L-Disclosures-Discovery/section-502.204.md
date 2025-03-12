@@ -1,6 +1,6 @@
 ##### § 502.204 Depositions by written questions. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *When a deposition may be taken.* (1) *Without leave.* A party may, by written questions, depose any person, including a party, without leave of the presiding officer except as provided in paragraph (a)(2) of this section. The deponent's attendance may be compelled by subpoena under subpart I of this part.
 

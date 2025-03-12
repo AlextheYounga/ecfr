@@ -1,6 +1,6 @@
 ##### § 502.165 Official transcript. #####
 
-Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) The Commission will designate the official reporter for all hearings. The official transcript of testimony taken, together with any exhibits and any briefs or memoranda of law filed therewith, shall be filed with the Commission. Transcripts of testimony will be available in any proceeding under the rules in this part, and will be supplied by the official reporter to the parties and to the public, except when required for good cause to be held confidential, at rates not to exceed the maximum rates fixed by contract between the Commission and the reporter.
 

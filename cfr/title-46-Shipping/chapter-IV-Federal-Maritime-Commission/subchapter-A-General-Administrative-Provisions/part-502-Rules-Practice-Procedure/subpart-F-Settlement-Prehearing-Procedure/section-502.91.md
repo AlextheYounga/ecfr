@@ -1,6 +1,6 @@
 ##### § 502.91 Opportunity for informal settlement. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) Parties are encouraged to make use of all the procedures of this part which are designed to simplify or avoid formal litigation, and to assist the parties in reaching settlements whenever it appears that a particular procedure would be helpful.
 

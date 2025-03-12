@@ -1,5 +1,7 @@
 ##### § 503.32 Procedures for responding to requests made under the Freedom of Information Act. #####
 
+Link to an amendment published at 82 FR 2248, Jan. 9, 2017.
+
 (a) *Determination to grant or deny request.* Upon request by any member of the public for documents, made in accordance with the rules of this part, the Commission's Secretary or his or her delegate in his or her absence, shall determine whether or not such request shall be granted.
 
 (1) Such determination shall be made by the Secretary within twenty (20) business days after receipt of such request, except as provided in paragraphs (b) and (e)(4) of this section.

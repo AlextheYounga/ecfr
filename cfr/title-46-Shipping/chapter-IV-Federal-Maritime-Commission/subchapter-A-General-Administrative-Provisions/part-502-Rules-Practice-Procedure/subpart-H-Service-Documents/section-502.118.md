@@ -1,6 +1,6 @@
 ##### § 502.118 Copies of documents for use of the Commission. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a)-(b)(3) [Reserved]
 

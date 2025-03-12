@@ -1,6 +1,6 @@
 ##### § 502.201 Duty to disclose; general provisions governing discovery. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *Applicability.* Unless otherwise stated in subpart S, T, or any other subpart of this part, the procedures described in this subpart are available in all adjudicatory proceedings under the Shipping Act of 1984.
 

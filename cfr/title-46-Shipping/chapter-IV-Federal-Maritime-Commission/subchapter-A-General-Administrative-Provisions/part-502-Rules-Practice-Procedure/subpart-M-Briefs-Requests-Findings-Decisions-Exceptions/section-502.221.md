@@ -1,6 +1,6 @@
 ##### § 502.221 Briefs; requests for findings. #####
 
-Link to an amendment published at 81 FR 93839, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93839, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) The presiding officer shall fix the time and manner of filing briefs and any enlargement of time. The period of time allowed shall be the same for all parties unless the presiding officer, for good cause shown, directs otherwise.
 

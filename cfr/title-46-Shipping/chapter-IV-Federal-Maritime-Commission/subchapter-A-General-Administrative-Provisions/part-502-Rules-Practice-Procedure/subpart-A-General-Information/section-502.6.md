@@ -1,6 +1,6 @@
 ##### § 502.6 Verification of documents. #####
 
-Link to an amendment published at 81 FR 93835, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) If a party is represented by an attorney or other person qualified to practice before the Commission under the rules in this part, each pleading, document or other paper of such party filed with the Commission shall be signed by at least one person of record admitted to practice before the Commission in his or her individual name, whose address shall be stated. Except when otherwise specifically provided by rule or statute, such pleading, document or paper need not be verified or accompanied by affidavit. The signature of a person admitted or qualified to practice before the Commission constitutes a certificate by the signer that the signer has read the pleading, document or paper; that the signer is authorized to file it; that to the best of the signer's knowledge, information, and belief formed after reasonable inquiry, the filing is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and that it is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation. For a willful violation of this section, a person admitted or qualified to practice before the Commission may be subjected to appropriate disciplinary action.
 

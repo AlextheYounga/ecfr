@@ -1,6 +1,6 @@
 ##### § 502.202 Persons before whom depositions may be taken. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *Within the United States.* (1) *In general.* Within the United States or a territory or insular possession subject to United States jurisdiction, a deposition must be taken before:
 

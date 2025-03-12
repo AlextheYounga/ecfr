@@ -1,6 +1,6 @@
 ##### § 502.206 Producing documents, electronically stored information, and tangible things, or entering onto land, for inspection and other purposes. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *In general.* A party may serve on any other party a request within the scope of § 502.201(e) and (f):
 

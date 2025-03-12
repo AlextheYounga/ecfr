@@ -1,732 +1,731 @@
 ##### § 30.25-1 Cargoes carried in vessels certificated under the rules of this subchapter. #####
 
-Link to an amendment published at 78 FR 50152, Aug. 16, 2013.Amendment delayed until Jan. 16, 2014, at 78 FR 56837, Sept. 16, 2013.Amendment delayed until Jan. 16, 2015, at 79 FR 2106, Jan. 13, 2014.Amendment delayed until Jan. 16, 2017, at 79 FR 68132, Nov. 14, 2014.
+(a) Table 30.25-1 lists flammable or combustible cargoes that, when transported in bulk, must be in vessels certificated under this subchapter D.
 
-The cargoes listed in table 30.25-1 are flammable or combustible and when transported in bulk must be in vessels certificated under the rules of this subchapter. A mixture or blend of two or more cargoes appearing in table 30.25-1 may be transported under the provisions of this subchapter. A category A, B, or C noxious liquid substance (NLS) cargo, as defined in § 153.2 of this chapter, that is listed in table 30.25-1 and any mixture containing one or more category A, B, or C NLS cargoes listed in table 30.25-1 may be carried in bulk under this subchapter if the vessel is not regulated under part 153 of this chapter. If the vessel is regulated under § 153.1 of this chapter, category A, B, and C NLS cargoes must be carried under part 153, or, as an alternative in the case of category C oil-like NLS, under 33 CFR part 151. Requirements for category D NLS cargoes and mixtures of non-NLS cargoes with category D NLS cargoes are in 33 CFR part 151.
+(b) A mixture or blend of two or more cargoes appearing in Table 30.25-1 may be transported under this subchapter D.
+
+(c) A mixture or blend of one or more cargoes appearing in Table 30.25-1 and one or more cargoes appearing in Table 2, 46 CFR part 153, may be carried under this subchapter D if the mixture is flammable or combustible.
+
+(d) Any mixture containing one or more substance categorized by the International Maritime Organization (IMO) and listed in Table 30.25-1 as a category X, Y, or Z noxious liquid substance (NLS) may be carried in bulk -
+
+(1) Under this subchapter D if the vessel is not regulated under 46 CFR part 153;
+
+(2) Under part 153 if the vessel is regulated under that part; or alternatively under 33 CFR part 151 in the case of a category Y oil-like NLS; or
+
+(3) Under 33 CFR part 151 if the cargo is a category Z NLS or a mixture of non-NLS and category Z NLS cargoes.
 
 Table 30.25-1 - List of Flammable and Combustible Bulk Liquid Cargoes
 
-|                                                                     Cargo name                                                                      |IMO  <br/>Annex II  <br/>Pollution Category|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-|                                                                       Acetone                                                                       |                    III                    |
-|                                                                    Acetophenone                                                                     |                    @D                     |
-|                                           Acrylonitrile-Styrene copolymer dispersion in Polyether polyol                                            |                     D                     |
-|                                                                  Alcohols (C13 + )                                                                  |                    III                    |
-|                                                             Alcoholic beverages, n.o.s.                                                             |                    III                    |
-|                                                   Alcohol(C6-C17)(secondary) poly(3-6)ethoxylates                                                   |                     A                     |
-|                                                  Alcohol(C6-C17)(secondary) poly(7-12)ethoxylates                                                   |                     B                     |
-|                                                        Alcohol(C9-C11) poly(2.5-9)ethoxylate                                                        |                     B                     |
-|                                Alcohol(C12-C15) poly( ... )ethoxylates, see Alcohol(C12-C16) poly( ... )ethoxylates                                 |                                           |
-|                                                        Alcohol(C12-C16) poly(1-6)ethoxylates                                                        |                     A                     |
-|                                                       Alcohol(C12-C16) poly(7-19)ethoxylates                                                        |                     B                     |
-|                                                       Alcohol(C12-C16) poly(20 + )ethoxylates                                                       |                     C                     |
-|                                                                   Alkanes (C6-C9)                                                                   |                     C                     |
-|                                                                 n-Alkanes (C10 + )                                                                  |                    III                    |
-|                                                           iso- & cyclo-Alkanes (C10-C11)                                                            |                     D                     |
-|                                                            iso- & cyclo-Alkanes (C12 + )                                                            |                    III                    |
-|                                                             Alkaryl polyether (C9-C20)                                                              |                     B                     |
-|                                                                Alkenyl(C11 + ) amine                                                                |                     D                     |
-|                                                        Alkenyl(C16-C20) succinic anhydride)                                                         |                     D                     |
-|                                               Alkyl(C8 + )amine, Alkenyl (C12 + ) acid ester mixture                                                |                     D                     |
-|                                                                Alkyl(C9 + )benzenes                                                                 |                    III                    |
-|                                                       Alkylbenzenesulfonic acid (4% or less)                                                        |                     \#                    |
-|                                                          Alkyl dithiothiadiazole (C6-C24)                                                           |                     D                     |
-|                                                           Alkyl ester copolymer (C4-C20)                                                            |                     D                     |
-|                                                     Alkyl(C7-C11) phenol poly(4-12)ethoxylates                                                      |                     B                     |
-|                                           Alkyl phenol sulfide (C8-C40), see Alkyl(C8-C40) phenol sulfide                                           |                                           |
-|                                                            Alkyl(C8-C40) phenol sulfide                                                             |                     D                     |
-|                                                          Alkyl(C9-C15) phenyl propoxylate                                                           |                    III                    |
-|                                                    n-Alkyl phthalates, see individual phthalates                                                    |                                           |
-|                                                         Alkyl sulfonic acid ester of phenol                                                         |                    III                    |
-|                                              Aminoethyldiethanolamine, Aminoethylethanolamine solution                                              |                    III                    |
-|                                                             Amyl acetate (all isomers)                                                              |                     C                     |
-|                                                       Amyl alcohol (iso-, n-, sec-, primary)                                                        |                     D                     |
-|                                                                Amyl alcohol (tert-)                                                                 |                    III                    |
-|                                                         Amylene, see Pentene (all isomers)                                                          |                     C                     |
-|                                                  tert-Amyl methyl ether (Methyl tert-pentyl ether)                                                  |                     C                     |
-|                                                     Amyl methyl ketone, see Methyl amyl ketone                                                      |                     D                     |
-|                                                            Animal and Fish oils, n.o.s.                                                             |                     D                     |
-|                                                        (see also Oil, edible, or Oil, misc.)                                                        |                                           |
-|                                                                     Including:                                                                      |                                           |
-|                                                                    Cod liver oil                                                                    |                                           |
-|                                                                       Lanolin                                                                       |                                           |
-|                                                                    Neatsfoot oil                                                                    |                                           |
-|                                                                    Pilchard oil                                                                     |                                           |
-|                                                                      Sperm oil                                                                      |                                           |
-|                                                  Animal and Fish acid oils and distillates, n.o.s.                                                  |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                                   Animal acid oil                                                                   |                                           |
-|                                                                    Fish acid oil                                                                    |                                           |
-|                                                                    Lard acid oil                                                                    |                                           |
-|                                                                   Mixed acid oil                                                                    |                                           |
-|                                                               Mixed general acid oil                                                                |                                           |
-|                                                                 Mixed hard acid oil                                                                 |                                           |
-|                                                                 Mixed soft acid oil                                                                 |                                           |
-|                                                              Aryl polyolefin (C11-C50)                                                              |                     D                     |
-|                                                                       Asphalt                                                                       |                     I                     |
-|                                                              Asphalt blending stocks:                                                               |                                           |
-|                                                                    Roofers flux                                                                     |                     I                     |
-|                                                                Straight run residue                                                                 |                     I                     |
-|                                                    Barium long chain (C11-C50) alkaryl sulfonate                                                    |                     B                     |
-|                                                   Barium long chain alkyl(C8-C14)phenate sulfide                                                    |                    [A]                    |
-|                                                                   Behenyl alcohol                                                                   |                    III                    |
-|                                                      Benzene tricarboxylic acid trioctyl ester                                                      |                    III                    |
-|                                                                   Benzyl alcohol                                                                    |                     C                     |
-|                                                              Brake fluid base mixtures                                                              |                     D                     |
-|             (containing Poly(2-8)alkylene(C2-C3) glycols, Polyalkylene(C2-C10) glycol monoalkyl(C1-C4) ethers, and their borate esters)             |                                           |
-|                                                                       Butane                                                                        |                    LFG                    |
-|                                                                Butene, see Butylene                                                                 |                                           |
-|                                                                   Butene oligomer                                                                   |                     B                     |
-|                                                             Butyl acetate (all isomers)                                                             |                     C                     |
-|                                       Butyl alcohol (iso-, n-, sec-, tert-), see Butyl alcohol (all isomers)                                        |                                           |
-|                                                             Butyl alcohol (all isomers)                                                             |                    III                    |
-|                                                               Butyl benzyl phthalate                                                                |                     A                     |
-|                                                                      Butylene                                                                       |                    LFG                    |
-|                                                                   Butylene glycol                                                                   |                     D                     |
-|                                                      1,3-Butylene glycol, see Butylene glycol                                                       |                                           |
-|                                                      Butylene polyglycol, see Butylene glycol                                                       |                                           |
-|                                                                  iso-Butyl formate                                                                  |                     D                     |
-|                                                                   n-Butyl formate                                                                   |                    @D                     |
-|                                                                 Butyl heptyl ketone                                                                 |                    [C]                    |
-|                                                    Butyl methyl ketone, see Methyl butyl ketone                                                     |                                           |
-|                                                                 n-Butyl propionate                                                                  |                     C                     |
-|                                                                   Butyl stearate                                                                    |                    III                    |
-|                                                                    Butyl toluene                                                                    |                    @A                     |
-|                                                                 gamma-Butyrolactone                                                                 |                     D                     |
-|                                        Calcium alkyl(C9)phenol sulfide, polyolefin phosphorosulfide mixture                                         |                     A                     |
-|                                     Calcium alkyl salicylate, see Calcium long chain alkyl salicylate (C13 + )                                      |                                           |
-|                                                   Calcium long chain alkaryl sulfonate (C11-C50)                                                    |                     D                     |
-|        Calcium long chain alkyl phenate (C8-C40), see Calcium long chain alkyl(C5-C10) phenate or Calcium long chain alkyl(C11-C40) phenate         |                                           |
-|                                                      Calcium long chain alkyl(C5-C10) phenate                                                       |                     C                     |
-|                                                      Calcium long chain alkyl(C11-C40) phenate                                                      |                     D                     |
-|                                                  Calcium long chain alkyl phenate sulfide (C8-C40)                                                  |                     D                     |
-|                                                  Calcium long chain alkyl phenolic amine (C8-C40)                                                   |                    III                    |
-|                                                    Calcium long chain alkyl salicylate (C13 + )                                                     |                     C                     |
-|                                                                Caprolactam solutions                                                                |                     D                     |
-|                                                 Cetyl alcohol (hexadecanol), see Alcohols (C13 + )                                                  |                                           |
-|                                                    Cetyl-Stearyl alcohol), see Alcohols (C13 + )                                                    |                    III                    |
-|                                                                     † Coal tar                                                                      |                     A                     |
-|                                                  Copper salt of long chain (C17 + ) alkanoic acid                                                   |                    [D]                    |
-|                                             Cumene (isopropylbenzene), see Propylbenzene (all isomers)                                              |                                           |
-|                                                                     Cyclohexane                                                                     |                     C                     |
-|                                                                    Cyclohexanol                                                                     |                     D                     |
-|                                                         1,3-Cyclopentadiene dimer (molten)                                                          |                     B                     |
-|                                                                      p-Cymene                                                                       |                     C                     |
-|                                                                Decahydronaphthalene                                                                 |                     D                     |
-|                                                                   iso-Decaldehyde                                                                   |                    @C                     |
-|                                                                    n-Decaldehyde                                                                    |                    @B                     |
-|                                                           Decane, see n-Alkanes (C10 + )                                                            |                                           |
-|                                                                       Decene                                                                        |                     B                     |
-|                                                                    Decyl acetate                                                                    |                     B                     |
-|                                                             Decyl alcohol (all isomers)                                                             |                     B                     |
-|                                                      n-Decylbenzene, see Alkyl(C9 + )benzenes                                                       |                    III                    |
-|                                                                 Detergent alkylate                                                                  |                     D                     |
-|                                                                  Diacetone alcohol                                                                  |                     D                     |
-|                                                 Dialkyl(C10-C14) benzenes, see Alkyl(C9 + )benzenes                                                 |                    III                    |
-|                                                            Dialkyl(C8-C9) diphenylamines                                                            |                     D                     |
-|                                                             Dialkyl(C7-C13) phthalates                                                              |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                                Diisodecyl phthalate                                                                 |                                           |
-|                                                                Diisononyl phthalate                                                                 |                                           |
-|                                                                  Dinonyl phthalate                                                                  |                                           |
-|                                                                Ditridecyl phthalate                                                                 |                                           |
-|                                                                 Diundecyl phthalate                                                                 |                                           |
-|                                                  Dibutyl carbinol, see Nonyl alcohol (all isomers)                                                  |                                           |
-|                                                               ortho-Dibutyl phthalate                                                               |                     A                     |
-|                                              Dicyclopentadiene, see 1,3-Cyclopentadiene dimer (molten)                                              |                     B                     |
-|                                                                   Diethylbenzene                                                                    |                     A                     |
-|                                                                  Diethylene glycol                                                                  |                     D                     |
-|                                 Diethylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                  |                                           |
-|                         Diethylene glycol butyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                          |                                           |
-|                                                           Diethylene glycol dibutyl ether                                                           |                     D                     |
-|                                                           Diethylene glycol diethyl ether                                                           |                    III                    |
-|                                 Diethylene glycol ethyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                  |                                           |
-|                         Diethylene glycol ethyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                          |                                           |
-|                                Diethylene glycol n-hexyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                 Diethylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                         Diethylene glycol methyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                         |                                           |
-|                                                           Diethylene glycol phenyl ether                                                            |                     \#                    |
-|                                                             Diethylene glycol phthalate                                                             |                     D                     |
-|                                 Diethylene glycol propyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                              Di-(2-ethylhexyl)adipate                                                               |                     D                     |
-|                                                 Di-(2-ethylhexyl)phthalate, see Dioctyl phthalates                                                  |                                           |
-|                                                                  Diethyl phthalate                                                                  |                     C                     |
-|                                                           Diglycidyl ether of Bisphenol A                                                           |                     B                     |
-|                                                                 Diheptyl phthalate                                                                  |                    III                    |
-|                                                                  Dihexyl phthalate                                                                  |                    III                    |
-|                                                 Diisobutylcarbinol, see Nonyl alcohol (all isomers)                                                 |                     C                     |
-|                                                                    Diisobutylene                                                                    |                     B                     |
-|                                                                  Diisobutyl ketone                                                                  |                     D                     |
-|                                                                Diisobutyl phthalate                                                                 |                     B                     |
-|                                                Diisodecyl phthalate, see Dialkyl(C7-C13) phthalates                                                 |                                           |
-|                                                                 Diisononyl adipate                                                                  |                     D                     |
-|                                                Diisononyl phthalate, see Dialkyl(C7-C13) phthalates                                                 |                                           |
-|                                                                Diisooctyl phthalate                                                                 |                    III                    |
-|                                                          Diisopropylbenzene (all isomers)                                                           |                     A                     |
-|                                                               Diisopropyl naphthalene                                                               |                     D                     |
-|                                                                  Dimethyl adipate                                                                   |                     B                     |
-|                                                            Dimethylbenzene, see Xylenes                                                             |                                           |
-|                                                                 Dimethyl glutarate                                                                  |                     C                     |
-|                                                                 Dimethyl phthalate                                                                  |                     C                     |
-|                                                   Dimethylpolysiloxane, see Polydimethylsiloxane                                                    |                    III                    |
-|                                                  2,2-Dimethylpropane-1,3-diol (molten or solution)                                                  |                     D                     |
-|                                                                 Dimethyl succinate                                                                  |                     C                     |
-|                                                  Dinonyl phthalate, see Dialkyl(C7-C13) phthalates                                                  |                                           |
-|                                                                  Dioctyl phthalate                                                                  |                    III                    |
-|                                                                      Dipentene                                                                      |                     C                     |
-|                                                                      Diphenyl                                                                       |                     A                     |
-|                                                          Diphenyl, Diphenyl ether mixture                                                           |                     A                     |
-|                                                                   Diphenyl ether                                                                    |                     A                     |
-|                                                    Diphenyl ether, Biphenyl phenyl ether mixture                                                    |                     A                     |
-|                                                                 Dipropylene glycol                                                                  |                    III                    |
-|                                 Dipropylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                            Dipropylene glycol dibenzoate                                                            |                    [D]                    |
-|                                Dipropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                                    Distillates:                                                                     |                                           |
-|                                                                 Flashed feed stocks                                                                 |                     I                     |
-|                                                                    Straight run                                                                     |                     I                     |
-|                                                                 Ditridecyl adipate                                                                  |                    III                    |
-|                                                Ditridecyl phthalate, see Dialkyl(C7-C13) phthalates                                                 |                                           |
-|                                                 Diundecyl phthalate, see Dialkyl(C7-C13) phthalates                                                 |                                           |
-|                                                 Dodecane (all isomers), see also n-Alkanes (C10 + )                                                 |                    III                    |
-|                                                                      Dodecanol                                                                      |                     B                     |
-|                                                               Dodecene (all isomers)                                                                |                     B                     |
-|                                                           Dodecyl alcohol, see Dodecanol                                                            |                                           |
-|                                                      Dodecylbenzene, see Alkyl(C9 + )benzenes                                                       |                    III                    |
-|                                                            Dodecyl hydroxypropyl sulfide                                                            |                     A                     |
-|                                                                   Dodecyl phenol                                                                    |                     A                     |
-|                                                                   Dodecyl xylene                                                                    |                    III                    |
-|                                              Drilling mud (low toxicity) (if flammable or combustible)                                              |                   [III]                   |
-|                                                                       Ethane                                                                        |                    LFG                    |
-|                                                                2-Ethoxyethyl acetate                                                                |                     C                     |
-|                              Ethoxylated alkyloxy alkyl amine, see Ethoxylated long chain (C16 + ) alkyloxyalkanamine                               |                                           |
-|                                                 Ethoxylated long chain (C16 + ) alkyloxyalkanamine                                                  |                     D                     |
-|                                                              Ethoxy triglycol (crude)                                                               |                     D                     |
-|                                                                    Ethyl acetate                                                                    |                     D                     |
-|                                                                 Ethyl acetoacetate                                                                  |                     D                     |
-|                                                                    Ethyl alcohol                                                                    |                    III                    |
-|                                                                  Ethyl amyl ketone                                                                  |                     C                     |
-|                                                                    Ethylbenzene                                                                     |                     B                     |
-|                                                                    Ethyl butanol                                                                    |                    @D                     |
-|                                                               Ethyl tert-butyl ether                                                                |                     C                     |
-|                                                                   Ethyl butyrate                                                                    |                     C                     |
-|                                                                  Ethyl cyclohexane                                                                  |                     C                     |
-|                                                                      Ethylene                                                                       |                    LFG                    |
-|                                                                 Ethylene carbonate                                                                  |                    III                    |
-|                                                                   Ethylene glycol                                                                   |                     D                     |
-|                                                               Ethylene glycol acetate                                                               |                     D                     |
-|                                                         Ethylene glycol butyl ether acetate                                                         |                     C                     |
-|                                                              Ethylene glycol diacetate                                                              |                     C                     |
-|                                                            Ethylene glycol dibutyl ether                                                            |                    [D]                    |
-|                                           Ethylene glycol ethyl ether acetate, see 2-Ethoxyethyl acetate                                            |                                           |
-|                                                         Ethylene glycol methyl butyl ether                                                          |                     D                     |
-|                                                        Ethylene glycol methyl ether acetate                                                         |                     C                     |
-|                                                            Ethylene glycol phenyl ether                                                             |                     D                     |
-|                                        Ethylene glycol phenyl ether, Diethylene glycol phenyl ether mixture                                         |                     D                     |
-|                                                  Ethylene-Propylene copolymer (in liquid mixtures)                                                  |                   [III]                   |
-|                                                              Ethyl-3-ethoxypropionate                                                               |                     C                     |
-|                                                       2-Ethylhexaldehyde, see Octyl aldehydes                                                       |                                           |
-|                                                2-Ethylhexanoic acid, see Octanoic acid (all isomers)                                                |                                           |
-|                                                      2-Ethylhexanol, see Octanol (all isomers)                                                      |                                           |
-|                                                     Ethylhexoic acid, see 2-Ethylhexanoic acid                                                      |                                           |
-|                                                                Ethyl hexyl phthalate                                                                |                     C                     |
-|                                              2-Ethyl-2-(hydroxymethyl) propane-1,3-diol, C8-C10 ester                                               |                     D                     |
-|                                                                  Ethyl propionate                                                                   |                     D                     |
-|                                                                    Ethyl toluene                                                                    |                     B                     |
-|                                         Fatty acid (saturated, C13 + ), see Fatty acid (saturated, C14 + )                                          |                                           |
-|                                                           Fatty acid (saturated, C14 + )                                                            |                    III                    |
-|                                                                      Formamide                                                                      |                     D                     |
-|                                                                  Furfuryl alcohol                                                                   |                     C                     |
-|                                                                 † Gas oil, cracked                                                                  |                     I                     |
-|                                                              Gasoline blending stocks:                                                              |                                           |
-|                                                                      Alkylates                                                                      |                     I                     |
-|                                                                    † Reformates                                                                     |                     I                     |
-|                                                                     Gasolines:                                                                      |                                           |
-|                                            † Automotive (containing not over 4.23 grams lead per gallon)                                            |                     I                     |
-|                                             † Aviation (containing not over 4.86 grams lead per gallon)                                             |                     I                     |
-|                                                                Casinghead (natural)                                                                 |                     I                     |
-|                                                                       Polymer                                                                       |                     I                     |
-|                                                                   † Straight run                                                                    |                     I                     |
-|                                                                      Glycerine                                                                      |                    III                    |
-|                                                  Glycerine (83%), Dioxanedimethanol (17%) mixture                                                   |                     D                     |
-|                                                               Glycerol, see Glycerine                                                               |                                           |
-|                                                                 Glycerol monooleate                                                                 |                     D                     |
-|                                                               Glycerol polyalkoxylate                                                               |                    III                    |
-|                                                                 Glyceryl triacetate                                                                 |                    III                    |
-|                               Glycidyl ester of tertiary carboxylic acid, see Glycidyl ester of tridecyl acetic acid                                |                                           |
-|                                Glycidyl ester of C10 trialkylacetic acid, see Glycidyl ester of tridecyl acetic acid                                |                     B                     |
-|                                                       Glycidyl ester of tridecyl acetic acid                                                        |                     B                     |
-|                                     Glycidyl ester of versatic acid, see Glycidyl ester of tridecyl acetic acid                                     |                                           |
-|                                                   Glycol diacetate, see Ethylene glycol diacetate                                                   |                                           |
-|                                                     Glycol triacetate, see Glyceryl triacetate                                                      |                                           |
-|                                                           Glyoxal solution (40% or less)                                                            |                     D                     |
-|                                                   Glyphosate solution (not containing surfactant)                                                   |                     D                     |
-|                                                         Heptadecane, see n-Alkanes (C10 + )                                                         |                                           |
-|                                                     Heptane (all isomers), see Alkanes (C6-C9)                                                      |                     C                     |
-|                                                                   Heptanoic acid                                                                    |                     D                     |
-|                                                               Heptanol (all isomers)                                                                |                     C                     |
-|                                                                Heptene (all isomers)                                                                |                     C                     |
-|                                                                   Heptyl acetate                                                                    |                     B                     |
-|                                                   Herbicide (C15 -H22 -NO2 -Cl), see Metolachlor                                                    |                                           |
-|                                            1-Hexadecylnaphthalene, 1,4-bis(Hexadecyl)naphthalene mixture                                            |                    III                    |
-|                                                    Hexaethylene glycol, see Polyethylene glycol                                                     |                                           |
-|                                                                Hexamethylene glycol                                                                 |                    III                    |
-|                                                          Hexamethylenetetramine solutions                                                           |                     D                     |
-|                                                      Hexane (all isomers), see Alkanes (C6-C9)                                                      |                     C                     |
-|                                                                    Hexanoic acid                                                                    |                     D                     |
-|                                                                       Hexanol                                                                       |                     D                     |
-|                                                                Hexene (all isomers)                                                                 |                     C                     |
-|                                                                    Hexyl acetate                                                                    |                     B                     |
-|                                                                   Hexylene glycol                                                                   |                    III                    |
-|                                                                Hog grease, see Lard                                                                 |                                           |
-|                                                        2-Hydroxy-4-(methylthio)butanoic acid                                                        |                     C                     |
-|                                       Hydroxy terminated polybutadiene, see Polybutadiene, hydroxy terminated                                       |                                           |
-|                                                                     Isophorone                                                                      |                     D                     |
-|                                                                     Jet fuels:                                                                      |                                           |
-|                                                                       † JP-4                                                                        |                     I                     |
-|                                                               JP-5 (kerosene, heavy)                                                                |                     I                     |
-|                                                                        JP-8                                                                         |                    @I                     |
-|                                                                      Kerosene                                                                       |                     I                     |
-|                                                                     Lactic acid                                                                     |                     D                     |
-|                                                                        Lard                                                                         |                    III                    |
-|                                                       Latex (ammonia (1% or less) inhibited)                                                        |                     D                     |
-|                                                               Latex, liquid synthetic                                                               |                    III                    |
-|                                                                     including:                                                                      |                                           |
-|                                                              Styrene-butadiene rubber                                                               |                    III                    |
-|                                                      Carboxylated styrene-butadiene copolymer                                                       |                    III                    |
-|                                                                      Lecithin                                                                       |                    III                    |
-|                                                       Long chain alkaryl polyether (C11-C20)                                                        |                     C                     |
-|                                                     Long chain alkaryl sulfonic acid (C16-C60)                                                      |                     D                     |
-|                                                   Long chain alkylphenate/Phenol sulfide mixture                                                    |                    III                    |
-|                                                  Magnesium long chain alkaryl sulfonate (C11-C50)                                                   |                     D                     |
-|                                                 Magnesium long chain alkyl phenate sulfide (C8-C20)                                                 |                    [D]                    |
-|                                                   Magnesium long chain alkyl salicylate (C11 + )                                                    |                     C                     |
-|                               Magnesium nonyl phenol sulfide, see Magnesium long chain alkyl phenate sulfide (C8-C20)                               |                                           |
-|                                      Magnesium sulfonate, see Magnesium long chain alkaryl sulfonate (C11-C50)                                      |                                           |
-|                                                     2-Mercaptobenzothiazol (in liquid mixtures)                                                     |                    \#                     |
-|                                                                       Methane                                                                       |                    LFG                    |
-|                                                                 3-Methoxy-1-butanol                                                                 |                    III                    |
-|                                                               3-Methoxybutyl acetate                                                                |                     D                     |
-|                                                             1-Methoxy-2-propyl acetate                                                              |                    \#                     |
-|                      Methoxy triglycol (triethylene glycol methyl ether), see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                       |                                           |
-|                                                                   Methyl acetate                                                                    |                    III                    |
-|                                                                 Methyl acetoacetate                                                                 |                     D                     |
-|                                                                   Methyl alcohol                                                                    |                     D                     |
-|                                                                 Methyl amyl acetate                                                                 |                     C                     |
-|                                                                 Methyl amyl alcohol                                                                 |                     C                     |
-|                                                                 Methyl amyl ketone                                                                  |                     D                     |
-|                                                        Methyl butanol, see the amyl alcohols                                                        |                                           |
-|                                                                   Methyl butenol                                                                    |                     D                     |
-|                                                               Methyl tert-butyl ether                                                               |                     D                     |
-|                                                                 Methyl butyl ketone                                                                 |                     D                     |
-|                                                                   Methyl butyrate                                                                   |                     C                     |
-|                                                                 Methyl ethyl ketone                                                                 |                    III                    |
-|                                                      N-Methylglucamine solution (70% or less)                                                       |                    III                    |
-|                                                                Methyl heptyl ketone                                                                 |                     B                     |
-|                                                  Methyl isobutyl carbinol, see Methyl amyl alcohol                                                  |                                           |
-|                                                               Methyl isobutyl ketone                                                                |                     D                     |
-|                                                              3-Methyl-3-methoxybutanol                                                              |                    III                    |
-|                                                           3-Methyl-3-methoxybutyl acetate                                                           |                    III                    |
-|                                                                 Methyl naphthalene                                                                  |                     A                     |
-|                                                      Methyl pentene, see Hexene (all isomers)                                                       |                                           |
-|                                          Methyl tert-pentyl ether (IMO cargo name) tert-Amyl methyl ether                                           |                                           |
-|                                                              2-Methyl-1,3-propanediol                                                               |                    III                    |
-|                                                                Methyl propyl ketone                                                                 |                     D                     |
-|                                                               N-Methyl-2-pyrrolidone                                                                |                     D                     |
-|                                                                     Metolachlor                                                                     |                     B                     |
-|                                                                   Mineral spirits                                                                   |                     I                     |
-|                                                                       Myrcene                                                                       |                     D                     |
-|                                                                      Naphtha:                                                                       |                                           |
-|                                                      † Aromatic (having less than 10% Benzene)                                                      |                    @I                     |
-|                                                                        Heavy                                                                        |                    @I                     |
-|                                                                     Paraffinic                                                                      |                    @I                     |
-|                                                                     † Petroleum                                                                     |                     I                     |
-|                                                                      † Solvent                                                                      |                     I                     |
-|                                                                  Stoddard Solvent                                                                   |                    @I                     |
-|                                                        † Varnish makers' and painters' (75%)                                                        |                    @I                     |
-|                                       Naphthalene sulfonic acid-formaldehyde copolymer, sodium salt solution                                        |                     D                     |
-|                                                                   Naphthenic acid                                                                   |                     A                     |
-|                                                      Nonane (all isomers), see Alkanes (C6-C9)                                                      |                     C                     |
-|                                                             Nonanoic acid (all isomers)                                                             |                     D                     |
-|                                                         Nonanoic, Tridecanoic acid mixture                                                          |                    @D                     |
-|                                                                Nonene (all isomers)                                                                 |                     B                     |
-|                                                                    Nonyl acetate                                                                    |                     C                     |
-|                                                             Nonyl alcohol (all isomers)                                                             |                     C                     |
-|                                                             Nonyl methacrylate monomer                                                              |                     D                     |
-|                                                                    Nonyl phenol                                                                     |                     A                     |
-|                                                         Nonyl phenol poly(4 + )ethoxylates                                                          |                     B                     |
-|                                        Nonyl phenol sulfide (90% or less), see Alkyl phenol sulfide (C8-C40)                                        |                                           |
-|                    Noxious liquid, N.F., (1) n.o.s. (“trade name” contains “principle components”) ST 1, Cat A (if combustible)                     |                     A                     |
-|                              Noxious liquid, F., (2) n.o.s. (“trade name” contains “principle components”) ST 1, Cat A                              |                     A                     |
-|                    Noxious liquid, N.F., (3) n.o.s. (“trade name” contains “principle components”) ST 2, Cat A (if combustible)                     |                     A                     |
-|                              Noxious liquid, F., (4) n.o.s. (“trade name” contains “principle components”) ST 2, Cat A                              |                     A                     |
-|                    Noxious liquid, N.F., (5) n.o.s. (“trade name” contains “principle components”) ST 2, Cat B (if combustible)                     |                     B                     |
-|Noxious liquid, N.F., (6) n.o.s. (“trade name” contains “principle components”) ST 2, Cat B, mp. equal to or greater than 15 deg. C (if combustible) |                     B                     |
-|                              Noxious liquid, F., (7) n.o.s. (“trade name” contains “principle components”) ST 2, Cat B                              |                     B                     |
-|          Noxious liquid, F., (8) n.o.s. (“trade name” contains “principle components”) ST 2, Cat B, mp. equal to or greater than 15 deg. C          |                     B                     |
-|                    Noxious liquid, N.F., (9) n.o.s. (“trade name” contains “principle components”) ST 3, Cat A (if combustible)                     |                     A                     |
-|                             Noxious liquid, F., (10) n.o.s. (“trade name” contains “principle components”) ST 3, Cat A                              |                     A                     |
-|                    Noxious liquid, N.F., (11) n.o.s. (“trade name” contains “principle components”) ST 3, Cat B (if combustible)                    |                     B                     |
-|Noxious liquid, N.F., (12) n.o.s. (“trade name” contains “principle components”) ST 3, Cat B, mp. equal to or greater than 15 deg. C (if combustible)|                     B                     |
-|                             Noxious liquid, F., (13) n.o.s. (“trade name” contains “principle components”) ST 3, Cat B                              |                     B                     |
-|         Noxious liquid, F., (14) n.o.s. (“trade name” contains “principle components”) ST 3, Cat B, mp. equal to or greater than 15 deg. C          |                     B                     |
-|                    Noxious liquid, N.F., (15) n.o.s. (“trade name” contains “principle components”) ST 3, Cat C (if combustible)                    |                     C                     |
-|                             Noxious liquid, F., (16) n.o.s. (“trade name” contains “principle components”) ST 3, Cat C                              |                     C                     |
-|                Noxious liquid, n.o.s. (17) (“trade name,” contains “principal components”), Category D (if flammable or combustible)                |                     D                     |
-|             Non-noxious liquid, n.o.s. (18) (“trade name,” contains “principal components”), appendix III (if flammable or combustible)             |                    III                    |
-|                                                 Octadecene, see the olefin or alpha-olefin entries                                                  |                                           |
-|                                                         Octadecenoamide solution (oleamide)                                                         |                    [D]                    |
-|                                                      Octane (all isomers), see Alkanes (C6-C9)                                                      |                     C                     |
-|                                                             Octanoic acid (all isomers)                                                             |                     D                     |
-|                                                                Octanol (all isomers)                                                                |                     C                     |
-|                                                                Octene (all isomers)                                                                 |                     B                     |
-|                                                                    Octyl acetate                                                                    |                     C                     |
-|                                                 Octyl alcohol (iso-, n-), see Octanol (all isomers)                                                 |                                           |
-|                                                                   Octyl aldehydes                                                                   |                     B                     |
-|                                                                 Octyl decyl adipate                                                                 |                    III                    |
-|                                        Octyl phthalate (Di-(2-ethylhexyl)phthalate), see Dioctyl phthalates                                         |                                           |
-|                                                                    Oil, edible:                                                                     |                                           |
-|                                                                      Beechnut                                                                       |                     D                     |
-|                                                                       Castor                                                                        |                     D                     |
-|                                                                    Cocoa butter                                                                     |                     D                     |
-|                                                                       Coconut                                                                       |                     D                     |
-|                                                                      Cod liver                                                                      |                     D                     |
-|                                                                        Corn                                                                         |                     D                     |
-|                                                                     Cottonseed                                                                      |                     D                     |
-|                                                                    Fish, n.o.s.                                                                     |                     D                     |
-|                                                                      Groundnut                                                                      |                     D                     |
-|                                                                      Hazelnut                                                                       |                     D                     |
-|                                                                        Lard                                                                         |                   @III                    |
-|                                                                 Maize, see Corn oil                                                                 |                     D                     |
-|                                                                    Nutmeg butter                                                                    |                     D                     |
-|                                                                        Olive                                                                        |                     D                     |
-|                                                                        Palm                                                                         |                     D                     |
-|                                                                     Palm kernel                                                                     |                     D                     |
-|                                                                       Peanut                                                                        |                     D                     |
-|                                                                        Poppy                                                                        |                     D                     |
-|                                                                     Raisin seed                                                                     |                     D                     |
-|                                                                      Rapeseed                                                                       |                     D                     |
-|                                                                      Rice bran                                                                      |                     D                     |
-|                                                                      Safflower                                                                      |                     D                     |
-|                                                                        Salad                                                                        |                     D                     |
-|                                                                       Sesame                                                                        |                     D                     |
-|                                                                      Soya bean                                                                      |                     D                     |
-|                                                            Sunflower, see Sunflower seed                                                            |                     D                     |
-|                                                                   Sunflower seed                                                                    |                     D                     |
-|                                                                        Tucum                                                                        |                     D                     |
-|                                                                  Vegetable, n.o.s.                                                                  |                     D                     |
-|                                                                       Walnut                                                                        |                     D                     |
-|                                                                     Oil, fuel:                                                                      |                                           |
-|                                                                  No. 1 (kerosene)                                                                   |                     I                     |
-|                                                                       No. 1-D                                                                       |                     I                     |
-|                                                                        No. 2                                                                        |                     I                     |
-|                                                                       No. 2-D                                                                       |                     I                     |
-|                                                                        No. 4                                                                        |                     I                     |
-|                                                                        No. 5                                                                        |                     I                     |
-|                                                                        No. 6                                                                        |                     I                     |
-|                                                                     Oil, misc:                                                                      |                                           |
-|                                                                      Aliphatic                                                                      |                    @I                     |
-|                                                                   Animal, n.o.s.                                                                    |                     D                     |
-|                                                                      Aromatic                                                                       |                     I                     |
-|                                                                      Clarified                                                                      |                     I                     |
-|                                                                        Coal                                                                         |                     \#                    |
-|                                                               Coconut oil, fatty acid                                                               |                     C                     |
-|                                                        Coconut oil, fatty acid methyl ester                                                         |                     D                     |
-|                                               Cottonseed, fatty acid, see Cottonseed oil, fatty acid                                                |                                           |
-|                                                                       † Crude                                                                       |                     I                     |
-|                                                                       Diesel                                                                        |                     I                     |
-|                                                                   Gas, high pour                                                                    |                    @I                     |
-|                                                                    Gas, low pour                                                                    |                    @I                     |
-|                                                                   Gas, low sulfur                                                                   |                    @I                     |
-|                                                                 Heartcut distillate                                                                 |                     I                     |
-|                                                                       Lanolin                                                                       |                     D                     |
-|                                                                       Linseed                                                                       |                     D                     |
-|                                                                     Lubricating                                                                     |                     I                     |
-|                                                                       Mineral                                                                       |                     I                     |
-|                                                                    Mineral seal                                                                     |                    @I                     |
-|                                                                        Motor                                                                        |                     I                     |
-|                                                                      Neatsfoot                                                                      |                     D                     |
-|                                                                      Oiticica                                                                       |                     D                     |
-|                                                          Palm oil, fatty acid methyl ester                                                          |                     D                     |
-|                                                                     Penetrating                                                                     |                     I                     |
-|                                                                       Perilla                                                                       |                     D                     |
-|                                                                      Pilchard                                                                       |                     D                     |
-|                                                                        Pine                                                                         |                     C                     |
-|                                                                      Residual                                                                       |                     I                     |
-|                                                                        Road                                                                         |                     I                     |
-|                                                                        Rosin                                                                        |                     B                     |
-|                                                                        Seal                                                                         |                     I                     |
-|                                                                      Soapstock                                                                      |                     \#                    |
-|                                                               Soya bean (epoxidized)                                                                |                    [D]                    |
-|                                                                        Sperm                                                                        |                     D                     |
-|                                                                       Spindle                                                                       |                     I                     |
-|                                                                        Tall                                                                         |                     B                     |
-|                                                                  Tall, fatty acid                                                                   |                     C                     |
-|                                                                     Transformer                                                                     |                     I                     |
-|                                                                        Tung                                                                         |                     D                     |
-|                                                                       Turbine                                                                       |                     I                     |
-|                                                                        Whale                                                                        |                     D                     |
-|                                                               alpha-Olefins (C6-C18)                                                                |                     B                     |
-|                                                               alpha-Olefins (C13-C18)                                                               |                    III                    |
-|                                                               Olefin mixtures (C5-C7)                                                               |                     C                     |
-|                                                              Olefin mixtures (C5-C15)                                                               |                     B                     |
-|                                                            Olefins (C13 + , all isomers)                                                            |                    III                    |
-|                                               Olefin/Alkyl ester copolymer (molecular weight 2000 + )                                               |                     D                     |
-|                                                                     Oleic acid                                                                      |                     D                     |
-|                                                 Oleyl alcohol (octadecenol), see Alcohols (C13 + )                                                  |                                           |
-|                                                         Palm kernel acid oil, methyl ester                                                          |                    [D]                    |
-|                                                                    Palm stearin                                                                     |                     D                     |
-|                                                    n-Paraffins (C10-C20), see n-Alkanes (C10 + )                                                    |                                           |
-|                                                         Pentadecanol, see Alcohols (C13 + )                                                         |                                           |
-|                                                   Pentaethylene glycol, see Polyethylene glycols                                                    |                                           |
-|                                                                Pentaethylenehexamine                                                                |                     D                     |
-|                                                                Pentane (all isomers)                                                                |                     C                     |
-|                                                                   Pentanoic acid                                                                    |                     D                     |
-|                                                                Pentene (all isomers)                                                                |                     C                     |
-|                                                                 n-Pentyl propionate                                                                 |                     C                     |
-|                                                                     Petrolatum                                                                      |                    III                    |
-|                                                               1-Phenyl-1-xylyl ethane                                                               |                     C                     |
-|                                                       Phosphate esters, alkyl(C12-C14) amine                                                        |                     B                     |
-|                                                         Phosphosulfurized bicyclic terpene                                                          |                     \#                    |
-|                                                       Pinene, see the alpha- or beta- isomers                                                       |                                           |
-|                                                                    alpha-Pinene                                                                     |                     A                     |
-|                                                                     beta-Pinene                                                                     |                     B                     |
-|                                         Polyalkylene glycols, Polyalkylene glycol monoalkyl ethers mixtures                                         |                    @D                     |
-|                                Polyalkylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                   Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                                   |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                            Diethylene glycol butyl ether                                                            |                                           |
-|                                                            Diethylene glycol ethyl ether                                                            |                                           |
-|                                                           Diethylene glycol n-hexyl ether                                                           |                                           |
-|                                                           Diethylene glycol methyl ether                                                            |                                           |
-|                                                          Diethylene glycol n-propyl ether                                                           |                                           |
-|                                                           Dipropylene glycol butyl ether                                                            |                                           |
-|                                                           Dipropylene glycol methyl ether                                                           |                                           |
-|                                                          Polypropylene glycol methyl ether                                                          |                                           |
-|                                                           Triethylene glycol butyl ether                                                            |                                           |
-|                                                           Triethylene glycol ethyl ether                                                            |                                           |
-|                                                           Triethylene glycol methyl ether                                                           |                                           |
-|                                                          Tripropylene glycol methyl ether                                                           |                                           |
-|                                               Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                                               |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                        Diethylene glycol butyl ether acetate                                                        |                                           |
-|                                                        Diethylene glycol ethyl ether acetate                                                        |                                           |
-|                                                       Diethylene glycol methyl ether acetate                                                        |                                           |
-|                                                              Polyalkylene oxide polyol                                                              |                     C                     |
-|                                                Polycarboxylic ester (C9 + ), see Ditridecyl adipate                                                 |                                           |
-|                                                           Polyalkyl(C10-C20) methacrylate                                                           |                     D                     |
-|                                                          Polybutadiene, hydroxy terminated                                                          |                   [III]                   |
-|                                                                     Polybutene                                                                      |                    III                    |
-|                                                               Polybutenyl succinimide                                                               |                     D                     |
-|                                                                Polydimethylsiloxane                                                                 |                     \#                    |
-|                                                        Polyether (molecular weight 2000 + )                                                         |                     D                     |
-|                                                                 Polyethylene glycol                                                                 |                    III                    |
-|                                                         Polyethylene glycol dimethyl ether                                                          |                    III                    |
-|                              Polyethylene glycol monoalkyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                               |                                           |
-|                                   Polyglycerine, Sodium salts solution (containing less than 3% Sodium hydroxide)                                   |                    III                    |
-|                                                                    Polyglycerol                                                                     |                    III                    |
-|                                                           Polyisobutenyl anhydride adduct                                                           |                    III                    |
-|                                                                Poly(4 + )isobutylene                                                                |                    III                    |
-|                                                                 Polymerized esters                                                                  |                     \#                    |
-|                                                        Polyolefin (molecular weight 300 + )                                                         |                    III                    |
-|                                                        Polyolefin amide alkeneamine (C17 + )                                                        |                     D                     |
-|                                                        Polyolefin amide alkeneamine (C28 + )                                                        |                     D                     |
-|                                                   Polyolefin amide alkeneamine borate (C28-C250)                                                    |                     D                     |
-|                                             Polyolefin amide alkeneamine/Molybdenum oxysulfide mixture                                              |                     C                     |
-|                                                         Polyolefin amide alkeneamine polyol                                                         |                     D                     |
-|                                                                Polyolefin anhydride                                                                 |                     D                     |
-|                                                             Polyolefin ester (C28-C250)                                                             |                     D                     |
-|                                                        Polyolefin phenolic amine (C28-C250)                                                         |                     D                     |
-|                                              Polyolefin phosphorosulfide, barium derivative (C28-C250)                                              |                     C                     |
-|                                                       Poly(20)oxyethylene sorbitan monooleate                                                       |                    III                    |
-|                                                                 Poly(5 + )propylene                                                                 |                    III                    |
-|                                                                Polypropylene glycol                                                                 |                     D                     |
-|                               Polypropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                |                                           |
-|                                                                    Polysiloxane                                                                     |                    III                    |
-|                                                                  Potassium oleate                                                                   |                     C                     |
-|                                                          Potassium salt of polyolefin acid                                                          |                    III                    |
-|                                                                       Propane                                                                       |                    LFG                    |
-|                               n-Propoxypropanol (propylene glycol propyl ether), see Propylene glycol monoalkyl ether                               |                                           |
-|                                                                 iso-Propyl acetate                                                                  |                    III                    |
-|                                                                  n-Propyl acetate                                                                   |                     D                     |
-|                                                                 iso-Propyl alcohol                                                                  |                    III                    |
-|                                                                  n-Propyl alcohol                                                                   |                    III                    |
-|                                             iso-Propylbenzene (cumene), see Propylbenzene (all isomers)                                             |                                           |
-|                                                  n-Propylbenzene, see Propylbenzene (all isomers)                                                   |                                           |
-|                                                             Propylbenzene (all isomers)                                                             |                     A                     |
-|                                                                iso-Propylcyclohexane                                                                |                     C                     |
-|                                                                      Propylene                                                                      |                    LFG                    |
-|                                                            Propylene-butylene copolymer                                                             |                    III                    |
-|                                                                 Propylene carbonate                                                                 |                    III                    |
-|                                                                   Propylene dimer                                                                   |                     C                     |
-|                                                                  Propylene glycol                                                                   |                    III                    |
-|                                        Propylene glycol n-butyl ether, see Propylene glycol monoalkyl ether                                         |                                           |
-|                                         Propylene glycol ethyl ether, see Propylene glycol monoalkyl ether                                          |                                           |
-|                                         Propylene glycol methyl ether, see Propylene glycol monoalkyl ether                                         |                                           |
-|                                                        Propylene glycol methyl ether acetate                                                        |                     D                     |
-|                                                          Propylene glycol monoalkyl ether                                                           |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                                  n-Propoxypropanol                                                                  |                                           |
-|                                                           Propylene glycol n-butyl ether                                                            |                                           |
-|                                                            Propylene glycol ethyl ether                                                             |                                           |
-|                                                            Propylene glycol methyl ether                                                            |                                           |
-|                                                            Propylene glycol propyl ether                                                            |                                           |
-|                                                            Propylene glycol phenyl ether                                                            |                     D                     |
-|                                         Propylene glycol propyl ether, see Propylene glycol monoalkyl ether                                         |                                           |
-|                                                       Propylene polymer (in liquid mixtures)                                                        |                     \#                    |
-|                                                                 Propylene tetramer                                                                  |                     B                     |
-|                                                                  Propylene trimer                                                                   |                     B                     |
-|                                                         Pseudocumene, see Trimethylbenzenes                                                         |                                           |
-|                                                        Rum, see Alcoholic beverages, n.o.s.                                                         |                                           |
-|                    Sodium acetate, Glycol, Water mixture (containing 1% or less, Sodium hydroxide) (if flammable or combustible)                    |                    \#                     |
-|                                                               Sodium acetate solution                                                               |                     D                     |
-|                                                              Sodium benzoate solution                                                               |                     D                     |
-|                                                     Sodium long chain alkyl salicylate (C13 + )                                                     |                    [C]                    |
-|                                                              Soyabean oil (epoxidized)                                                              |                    [D]                    |
-|                                                  Stearic acid, see Fatty acid (saturated, C14 + )                                                   |                                           |
-|                                                            Stearyl alcohol (octadecanol)                                                            |                    III                    |
-|                                                              Sulfohydrocarbon (C3-C88)                                                              |                     D                     |
-|                                                  Sulfohydrocarbon, long chain (C18 + ) alkylamine                                                   |                     B                     |
-|                                                                      Sulfolane                                                                      |                     D                     |
-|                                                              Sulfurized fat (C14-C20)                                                               |                     D                     |
-|                                                  Sulfurized polyolefinamide alkene(C28-C250)amine                                                   |                     D                     |
-|                                                                       Tallow                                                                        |                     D                     |
-|                                                        Tallow alcohol, see Alcohols (C13 + )                                                        |                                           |
-|                                                                  Tallow fatty acid                                                                  |                     D                     |
-|                                                                Tallow alkyl nitrile                                                                 |                    \#                     |
-|                                                         Tetradecanol, see Alcohols (C13 + )                                                         |                                           |
-|                                                 Tetradecene, see the olefin or alpha-olefin entries                                                 |                                           |
-|                                                     Tetradecylbenzene, see Alkyl(C9 + )benzenes                                                     |                    III                    |
-|                                                                Tetraethylene glycol                                                                 |                    III                    |
-|                                                                Tetrahydronaphthalene                                                                |                     C                     |
-|                                                    Tetrapropylbenzene, see Alkyl(C9 + )benzenes                                                     |                                           |
-|                                                                       Toluene                                                                       |                     C                     |
-|                                              Triarylphosphate, see Triisopropylated phenyl phosphates                                               |                                           |
-|                                                                 Tributyl phosphate                                                                  |                     B                     |
-|                                               Tricresyl phosphate (less than 1% of the ortho isomer)                                                |                     A                     |
-|                                                          Tridecane, see n-Alkanes (C10 + )                                                          |                                           |
-|                                                                  Tridecanoic acid                                                                   |                     B                     |
-|                                                          Tridecanol, see Alcohols (C13 + )                                                          |                                           |
-|                                                           Tridecene, see Olefins (C13 + )                                                           |                                           |
-|                                                                  Tridecyl acetate                                                                   |                    III                    |
-|                                                      Tridecylbenzene, see Alkyl(C9 + )benzenes                                                      |                    III                    |
-|                                                                   Triethylbenzene                                                                   |                     A                     |
-|                                                                 Triethylene glycol                                                                  |                    III                    |
-|                                 Triethylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                       Triethylene glycol butyl ether mixture                                                        |                     \#                    |
-|                                                       Triethylene glycol di-(2-ethylbutyrate)                                                       |                    [C]                    |
-|                                                          Triethylene glycol ether mixture                                                           |                     \#                    |
-|                                 Triethylene glycol ethyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                Triethylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                 |                                           |
-|                                                                 Triethyl phosphate                                                                  |                     D                     |
-|                                                              Triisooctyl trimellitate                                                               |                     \#                    |
-|                                                                 Triisopropanolamine                                                                 |                    III                    |
-|                                                         Triisopropylated phenyl phosphates                                                          |                     A                     |
-|                                                           Trimethylbenzene (all isomers)                                                            |                     A                     |
-|                                                         Trimethylol propane polyethoxylate                                                          |                     D                     |
-|                                                    2,2,4-Trimethyl-1,3-pentanediol diisobutyrate                                                    |                    III                    |
-|                                                      2,2,4-Trimethyl-3-pentanol-1-isobutyrate                                                       |                     \#                    |
-|                                                         Tripropylene, see Propylene trimer                                                          |                                           |
-|                                                                 Tripropylene glycol                                                                 |                    III                    |
-|                                Tripropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                |                                           |
-|                                                                Trixylenyl phosphate                                                                 |                     A                     |
-|                                                    Trixylyl phosphate, see Trixylenyl phosphate                                                     |                     A                     |
-|                                                                     Turpentine                                                                      |                     B                     |
-|                                          †Turpentine substitute, see White spirit (low (15-20%) aromatic)                                           |                                           |
-|                                                          Undecanol, see 1- Undecyl alcohol                                                          |                                           |
-|                                                                      Undecene                                                                       |                     B                     |
-|                                                                 1- Undecyl alcohol                                                                  |                     B                     |
-|                                                      Undecylbenzene, see Alkyl(C9 + )benzenes                                                       |                    III                    |
-|                                                    Vegetable oils, n.o.s. (see also Oil, edible)                                                    |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                                    Beechnut oil                                                                     |                                           |
-|                                                                     Castor oil                                                                      |                                           |
-|                                                                    Cocoa butter                                                                     |                                           |
-|                                                                     Coconut oil                                                                     |                                           |
-|                                                                      Corn oil                                                                       |                                           |
-|                                                                   Cottonseed oil                                                                    |                                           |
-|                                                                    Groundnut oil                                                                    |                                           |
-|                                                                    Hazelnut oil                                                                     |                                           |
-|                                                                     Linseed oil                                                                     |                                           |
-|                                                                    Nutmeg butter                                                                    |                                           |
-|                                                                    Oiticica oil                                                                     |                                           |
-|                                                                      Olive oil                                                                      |                                           |
-|                                                                   Palm kernel oil                                                                   |                                           |
-|                                                                      Palm oil                                                                       |                                           |
-|                                                            Peel oil (oranges and lemons)                                                            |                                           |
-|                                                                     Perilla oil                                                                     |                                           |
-|                                                                      Poppy oil                                                                      |                                           |
-|                                                                   Raisin seed oil                                                                   |                                           |
-|                                                                    Rapeseed oil                                                                     |                                           |
-|                                                                    Rice bran oil                                                                    |                                           |
-|                                                                    Safflower oil                                                                    |                                           |
-|                                                                      Salad oil                                                                      |                                           |
-|                                                                     Sesame oil                                                                      |                                           |
-|                                                                    Soya bean oil                                                                    |                                           |
-|                                                                 Sunflower seed oil                                                                  |                                           |
-|                                                                      Tucum oil                                                                      |                                           |
-|                                                                      Tung oil                                                                       |                                           |
-|                                                                     Walnut oil                                                                      |                                           |
-|                                                     Vegetable acid oils and distillates, n.o.s.                                                     |                     D                     |
-|                                                                     Including:                                                                      |                                           |
-|                                                                    Corn acid oil                                                                    |                                           |
-|                                                                 Cottonseed acid oil                                                                 |                                           |
-|                                                                 Dark mixed acid oil                                                                 |                                           |
-|                                                                 Groundnut acid oil                                                                  |                                           |
-|                                                                   Mixed acid oil                                                                    |                                           |
-|                                                               Mixed general acid oil                                                                |                                           |
-|                                                                 Mixed hard acid oil                                                                 |                                           |
-|                                                                 Mixed soft acid oil                                                                 |                                           |
-|                                                                  Rapeseed acid oil                                                                  |                                           |
-|                                                                 Safflower acid oil                                                                  |                                           |
-|                                                                    Soya acid oil                                                                    |                                           |
-|                                                               Sunflower seed acid oil                                                               |                                           |
-|                                                                       Waxes:                                                                        |                     D                     |
-|                                                                     Candelilla                                                                      |                    @D                     |
-|                                                                      Carnauba                                                                       |                    @D                     |
-|                                                                      Paraffin                                                                       |                    III                    |
-|                                               †White spirit, see White spirit (low (15-20%) aromatic)                                               |                                           |
-|                                                        †White spirit (low (15-20%) aromatic)                                                        |                     B                     |
-|                                                        Wine, see Alcoholic beverages, n.o.s.                                                        |                                           |
-|                                                           Xylenes (ortho-, meta-, para-)                                                            |                     C                     |
-|                                                        Zinc alkaryl dithiophosphate (C7-C16)                                                        |                     C                     |
-|                                                              Zinc alkenyl carboxamide                                                               |                     D                     |
-|                                                         Zinc alkyl dithiophosphate (C3-C14)                                                         |                     B                     |
+[See NOTES at the end of the Table for explanation of symbols and terms used. See Table 2, 46 CFR part 153, for additional cargoes that may be carried by tank barge.]
 
-Note: See table 2 of part 153 for additional cargoes permitted to be carried by tank barge.
+|                                                                 Cargo name                                                                  |IMO Annex II  <br/>pollution  <br/>category|
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|                                                                Acetochlor \*                                                                |                     X                     |
+|                                                                   Acetone                                                                   |                     Z                     |
+|                                                                Acetophenone                                                                 |                    \#                     |
+|                                       Acrylonitrile-Styrene copolymer dispersion in polyether polyol                                        |                     Y                     |
+|                                               Alcohol(C6-C17)(secondary) poly(3-6)ethoxylates                                               |                     Y                     |
+|                                              Alcohol(C6-C17)(secondary) poly(7-12)ethoxylates                                               |                     Y                     |
+|                                                    Alcohol(C9-C11) poly(2.5-9)ethoxylate                                                    |                     Y                     |
+|                          Alcohol(C12-C15) poly( . . . )ethoxylates, see Alcohol(C12-C16) poly( . . . ) ethoxylates                          |                     Y                     |
+|                                                    Alcohol(C12-C16) poly(1-6)ethoxylates                                                    |                     Y                     |
+|                                                   Alcohol(C12-C16) poly(7-19)ethoxylates                                                    |                     Y                     |
+|                                                   Alcohol(C12-C16) poly(20 + )ethoxylates                                                   |                     Y                     |
+|                                                              Alcohols (C13 + )                                                              |                     Y                     |
+|                                                         Alcoholic beverages, n.o.s.                                                         |                     Z                     |
+|                                                                Aliphatic oil                                                                |                     I                     |
+|                                                               Alkanes (C6-C9)                                                               |                     X                     |
+|                                                      Iso- and cyclo-alkanes (C10-C11)                                                       |                     Y                     |
+|                                                       Iso- and cyclo-alkanes (C12 + )                                                       |                     Y                     |
+|                                                             n-Alkanes (C10 + )                                                              |                     Y                     |
+|                                                         Alkaryl polyethers (C9-C20)                                                         |                     Y                     |
+|                                                          Alkenyl(C11 + ) amide \*                                                           |                     X                     |
+|                                          Alkenyl(C8 + ) amine, Alkenyl(C12 + ) acid ester mixture                                           |                    \#                     |
+|                                            Alkyl acrylate-Vinylpyridine copolymer in toluene \*                                             |                     Y                     |
+|                                      Alkylbenzene, alkylindane, alkylindene mixture (each C12-C17) \*                                       |                     Z                     |
+|                                                           Alkyl(C3-C4) benzenes\*                                                           |                     Y                     |
+|                                                           Alkyl(C5-C8) benzenes\*                                                           |                     X                     |
+|                                               Alkyl(C8-C9) phenylamine in aromatic solvents\*                                               |                     Y                     |
+|                                                            Alkyl(C9 + ) benzenes                                                            |                     Y                     |
+|                                                   Alkyl(C11-C17) benzene sulfonic acid \*                                                   |                     Y                     |
+|                                                   Alkylbenzene sulfonic acid (4% or less)                                                   |                    \#                     |
+|                                                     Alkyl dithiocarbamate (C19-C35) \*                                                      |                     Y                     |
+|                                                      Alkyl dithiothiadiazole (C6-C24)                                                       |                     Y                     |
+|                                                       Alkyl ester copolymer (C4-C20)                                                        |                     Y                     |
+|                                                  Alkyl(C7-C11)phenol poly(4-12) ethoxylate                                                  |                     Y                     |
+|                                       Alkyl phenol sulfide (C8-C40), see Alkyl(C8-C40) phenol sulfide                                       |                                           |
+|                                                        Alkyl(C8-C40) phenol sulfide                                                         |                     Z                     |
+|                                              Alkyl(C8-C9) phenylamine in aromatic solvents \*                                               |                     Y                     |
+|                                                      Alkyl(C9-C15) phenyl propoxylate                                                       |                     Z                     |
+|                                            Alkyl(C8-C10) polyglucoside solution (65% or less) \*                                            |                     Y                     |
+|                                           Alkyl(C12-C14) polyglucoside solution (55% or less) \*                                            |                     Y                     |
+|                          Alkyl(C8-C10)/(C12-C14):(40% or less/60% or more) polyglucoside solution (55% or less) \*                          |                     Y                     |
+|                          Alkyl(C8-C10)/(C12-C14):(60% or more/40% or less) polyglucoside solution (55% or less) \*                          |                     Y                     |
+|                                  Alkyl(C8-C10)/(C12-C14):(50%/50%) polyglucoside solution (55% or less)\*                                   |                     Y                     |
+|                                           Alkyl(C10-C20, saturated and unsaturated) phosphate \*                                            |                     Y                     |
+|                                                n-Alkyl phthalates, see individual phthalates                                                |                                           |
+|                                                     Alkyl sulfonic acid ester of phenol                                                     |                     Y                     |
+|                                          Aminoethyldiethanolamine/Aminoethylethanolamine solution                                           |                     Z                     |
+|                                                       2-Amino-2-methyl-1-propanol \*                                                        |                     Z                     |
+|                                                         Amyl acetate (all isomers)                                                          |                     Y                     |
+|                                                Amyl alcohol (iso-, n-, sec-, primary, tert-)                                                |                     Z                     |
+|                                                          tert-Amyl ethyl ether \*                                                           |                     Z                     |
+|                                                           tert-Amyl methyl ether                                                            |                     X                     |
+|                                                 Amyl methyl ketone, see Methyl amyl ketone                                                  |                                           |
+|                                                     Amylene, see Pentene (all isomers)                                                      |                                           |
+|                                                               Animal acid oil                                                               |                    \#                     |
+|                                              Animal and Fish acid oils and distillates, n.o.s.                                              |                    \#                     |
+|                                                        Animal and Fish oils, n.o.s.                                                         |                    \#                     |
+|                                                                 Animal oil                                                                  |                    \#                     |
+|                                                                Aromatic oil                                                                 |                     I                     |
+|                                                         Aryl polyolefins (C11-C50)                                                          |                     Y                     |
+|                                                                   Asphalt                                                                   |                     I                     |
+|                                                          Asphalt blending stocks:                                                           |                                           |
+|                                                                Roofers flux                                                                 |                     I                     |
+|                                                            Straight run residue                                                             |                     I                     |
+|                                    Aviation alkylates (C8 paraffins and iso-paraffins BPT 95-120 °C) \*                                     |                     X                     |
+|                                              Barium long-chain alkyl (C8-C14) phenate sulfide                                               |                    \#                     |
+|                                                                Beechnut oil                                                                 |                    \#                     |
+|                                                   Behenyl alcohol, see Alcohols (C13 + )                                                    |                                           |
+|                                                 Benzene tricarboxylic acid, trioctyl ester                                                  |                     Y                     |
+|                                                              Benzyl acetate\*                                                               |                     Y                     |
+|                                                               Benzyl alcohol                                                                |                     Y                     |
+|     Brake fluid base mix: Poly(2-8)alkylene(C2-C3) glycols/Polyalkylene(C2-C10) glycols monoalkyl(C1-C4) ethers and their borate esters     |                     Z                     |
+|                                                            Butene, see Butylene                                                             |                                           |
+|                                                               Butene oligomer                                                               |                     X                     |
+|                                                         Butyl acetate (all isomers)                                                         |                     Y                     |
+|                                   Butyl alcohol (iso-, n-, sec-, tert-), see Butyl alcohol (all isomers)                                    |                                           |
+|                                                         Butyl alcohol (all isomers)                                                         |                     Z                     |
+|                                                        Butylbenzene (all isomers) \*                                                        |                     X                     |
+|                                                           Butyl benzyl phthalate                                                            |                     X                     |
+|                                                       Butyl butyrate (all isomers) \*                                                       |                     Y                     |
+|                                                               Butylene glycol                                                               |                     Z                     |
+|                                                  1,3-Butylene glycol, see Butylene glycol                                                   |                                           |
+|                                                              iso-Butyl formate                                                              |                    \#                     |
+|                                                               n-Butyl formate                                                               |                    \#                     |
+|                                                             Butyl heptyl ketone                                                             |                    \#                     |
+|                                                Butyl methyl ketone, see Methyl butyl ketone                                                 |                                           |
+|                                                             n-Butyl propionate                                                              |                     Y                     |
+|                                                               Butyl stearate                                                                |                    \#                     |
+|                                                                Butyl toluene                                                                |                    \#                     |
+|                                                             gamma-Butyrolactone                                                             |                     Y                     |
+|                                    Calcium alkyl(C9)phenol sulfide, polyolefin phosphorosulfide mixture                                     |                    \#                     |
+|                                 Calcium alkyl salicylate, see Calcium long-chain alkyl salicylate (C13 + )                                  |                                           |
+|                                               Calcium long-chain alkaryl sulfonate (C11-C50)                                                |                    \#                     |
+|    Calcium long-chain alkyl phenate (C8-C40), see Calcium long-chain alkyl(C5-C10) phenate or Calcium long-chain alkyl(C11-C40) phenate     |                                           |
+|                                                  Calcium long-chain alkyl(C5-C10) phenate                                                   |                     Y                     |
+|                                                  Calcium long-chain alkyl(C11-C40) phenate                                                  |                     Y                     |
+|                                              Calcium long-chain alkyl phenolic amine (C8-C40)                                               |                    \#                     |
+|                                                Calcium long-chain alkyl salicylate (C13 + )                                                 |                     Y                     |
+|                                                          Candelilla wax, see Waxes                                                          |                                           |
+|                                Caprolactam solutions, see epsilon-Caprolactam (molten or aqueous solutions)                                 |                                           |
+|                                            epsilon-Caprolactam (molten or aqueous solutions) \*                                             |                     Z                     |
+|                                                           Carnauba wax, see Waxes                                                           |                                           |
+|                                                    Cetyl alcohol, see Alcohols (C13 + )                                                     |                                           |
+|                                                Cetyl- stearyl alcohol, see Alcohols (C13 + )                                                |                                           |
+|                                                     Chlorinated paraffins (C10-C13) \*                                                      |                     X                     |
+|                                               1-(4-Chlorophenyl)-4,4-dimethyl-pentan-3-one \*                                               |                     Y                     |
+|                                                        Citric acid (70% or less) \*                                                         |                     Z                     |
+|                                                                Clarified oil                                                                |                     I                     |
+|                                                                  Coal oil                                                                   |                    \#                     |
+|                                                   Coconut oil fatty acid methyl ester \*                                                    |                     Y                     |
+|                                                                Cod liver oil                                                                |                    \#                     |
+|                                              Copper salt of long-chain (C17 + ) alkanoic acid                                               |                     Y                     |
+|                                                                Corn acid oil                                                                |                    \#                     |
+|                                                            Cotton seed acid oil                                                             |                    \#                     |
+|                                          Cotton seed, fatty acid, see Cotton seed oil, fatty acid                                           |                                           |
+|                                                         Cotton seed oil, fatty acid                                                         |                    \#                     |
+|                                                           Crude Isononylaldehyde                                                            |                    \#                     |
+|                                                              Crude Isopropanol                                                              |                    @Z                     |
+|                                                                 † Crude oil                                                                 |                     I                     |
+|                                                  Cumene , see Propylbenzene (all isomers)                                                   |                                           |
+|                                                               Cycloheptane \*                                                               |                     X                     |
+|                                                                 Cyclohexane                                                                 |                     Y                     |
+|                                                                Cyclohexanol                                                                 |                     Y                     |
+|                                                            Cyclohexyl acetate \*                                                            |                     Y                     |
+|                                                     1,3-Cyclopentadiene dimer (molten)                                                      |                    Y\*                    |
+|                                                               Cyclopentane \*                                                               |                     Y                     |
+|                                                               Cyclopentene \*                                                               |                     Y                     |
+|                                                                  p-Cymene                                                                   |                     Y                     |
+|                                                             Dark mixed acid oil                                                             |                    \#                     |
+|                                                            Decahydronaphthalene                                                             |                     Y                     |
+|                                                               iso-Decaldehyde                                                               |                    \#                     |
+|                                                                n-Decaldehyde                                                                |                    \#                     |
+|                                                       Decane, see n-Alkanes (C10 + )                                                        |                                           |
+|                                                              Decanoic acid \*                                                               |                     X                     |
+|                                                                   Decene                                                                    |                     X                     |
+|                                                                Decyl acetate                                                                |                    \#                     |
+|                                                         Decyl alcohol (all isomers)                                                         |                     Y                     |
+|                                                  n-Decylbenzene, see Alkyl(C9 + )benzenes                                                   |                                           |
+|                                                Detergent alkylate, see Alkyl(C9 + )benzenes                                                 |                                           |
+|                                                              Diacetone alcohol                                                              |                     Z                     |
+|                                            Dialkyl(C10-C14) benzenes, see Alkyl(C9 + ) benzenes                                             |                                           |
+|                                                        Dialkyl(C8-C9) diphenylamines                                                        |                     Z                     |
+|                                                         Dialkyl(C7-C13) phthalates                                                          |                     X                     |
+|                                                                 Including:                                                                  |                                           |
+|                                                            Diisodecyl phthalate                                                             |                                           |
+|                                                            Diisononyl phthalate                                                             |                                           |
+|                                                              Dinonyl phthalate                                                              |                                           |
+|                                                            Ditridecyl phthalate                                                             |                                           |
+|                                                             Diundecyl phthalate                                                             |                                           |
+|                                              Dibutyl carbinol, see Nonyl alcohol (all isomers)                                              |                                           |
+|                                                       Dibutyl hydrogen phosphonate \*                                                       |                     Y                     |
+|                                                         2,6-Di-tert-butylphenol \*                                                          |                     X                     |
+|                                                            Dibutyl phthalate \*                                                             |                     X                     |
+|                                               ortho-Dibutyl phthalate, see Dibutyl phthalate                                                |                                           |
+|                                                          Dibutyl terephthalate \*                                                           |                     Y                     |
+|                                          Dicyclopentadiene, see 1,3-Cyclopentadiene dimer (molten)                                          |                                           |
+|                                                                 Diesel oil                                                                  |                     I                     |
+|                                                               Diethylbenzene                                                                |                     Y                     |
+|                                                              Diethylene glycol                                                              |                     Z                     |
+|                             Diethylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                              |                                           |
+|                     Diethylene glycol butyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                      |                                           |
+|                                                       Diethylene glycol diethyl ether                                                       |                     Z                     |
+|                             Diethylene glycol ethyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                              |                                           |
+|                     Diethylene glycol ethyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                      |                                           |
+|                            Diethylene glycol n-hexyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                             Diethylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                     Diethylene glycol methyl ether acetate, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether acetate                     |                                           |
+|                                                       Diethylene glycol phenyl ether                                                        |                    \#                     |
+|                                                         Diethylene glycol phthalate                                                         |                     Y                     |
+|                             Diethylene glycol propyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                                          Di-(2-ethylhexyl)adipate                                                           |                     Y                     |
+|                                              Di-(2-ethylhexyl)phthalate, see Dioctyl phthalate                                              |                                           |
+|                                                              Diethyl phthalate                                                              |                     Y                     |
+|                                                       Diglycidyl ether of bisphenol A                                                       |                     X                     |
+|                                                     Diglycidyl ether of bisphenol F \*                                                      |                     Y                     |
+|                                                             Diheptyl phthalate                                                              |                     Y                     |
+|                                                            Di-n-hexyl adipate \*                                                            |                     X                     |
+|                                                              Dihexyl phthalate                                                              |                     Y                     |
+|                                            Diisobutyl carbinol, see Nonyl alcohol (all isomers)                                             |                                           |
+|                                                                Diisobutylene                                                                |                     Y                     |
+|                                                              Diisobutyl ketone                                                              |                     Y                     |
+|                                                            Diisobutyl phthalate                                                             |                     X                     |
+|                                            Diisodecyl phthalate, see Dialkyl(C7-C13) phthalates                                             |                                           |
+|                                                             Diisononyl adipate                                                              |                     Y                     |
+|                                            Diisononyl phthalate, see Dialkyl(C7-C13) phthalates                                             |                                           |
+|                                                            Diisooctyl phthalate                                                             |                     Y                     |
+|                                                      Diisopropylbenzene (all isomers)                                                       |                     X                     |
+|                                                           Diisopropylnaphthalene                                                            |                     Y                     |
+|                                                              Dimethyl adipate                                                               |                     X                     |
+|                                                        Dimethylbenzene, see Xylenes                                                         |                                           |
+|                                                             Dimethyl glutarate                                                              |                     Y                     |
+|                                                          Dimethyl octanoic acid \*                                                          |                     Y                     |
+|                                                             Dimethyl phthalate                                                              |                     Y                     |
+|                                                            Dimethylpolysiloxane                                                             |                     Y                     |
+|                                              2,2-Dimethylpropane-1,3-diol (molten or solution)                                              |                     Z                     |
+|                                                             Dimethyl succinate                                                              |                     Y                     |
+|                                                              Dinonyl phthalate                                                              |                     Y                     |
+|                                                              Dioctyl phthalate                                                              |                     X                     |
+|                                                                  Dipentene                                                                  |                     Y                     |
+|                                                                  Diphenyl                                                                   |                     X                     |
+|                                                          Diphenylamine (molten) \*                                                          |                     Y                     |
+|                                                        Diphenylamines, alkylated \*                                                         |                     Y                     |
+|                                                      Diphenyl/Diphenyl ether mixtures                                                       |                     X                     |
+|                                                               Diphenyl ether                                                                |                     X                     |
+|                                                Diphenyl ether/Diphenyl phenyl ether mixture                                                 |                     X                     |
+|                                                Diphenylol propane-epichlorohydrin resins \*                                                 |                     X                     |
+|                                                             Dipropylene glycol                                                              |                     Z                     |
+|                             Dipropylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                                        Dipropylene glycol dibenzoate                                                        |                    \#                     |
+|                            Dipropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                                      Dithiocarbamate ester (C7-C35)\*                                                       |                     X                     |
+|                                                                Distillates:                                                                 |                                           |
+|                                                             Flashed feed stocks                                                             |                     I                     |
+|                                                                Straight run                                                                 |                     I                     |
+|                                                             Diundecyl phthalate                                                             |                     Y                     |
+|                                                           Dodecane (all isomers)                                                            |                     Y                     |
+|                                                       Dodecanol, see Dodecyl alcohol                                                        |                                           |
+|                                                           Dodecene (all isomers)                                                            |                     X                     |
+|                                                               Dodecyl alcohol                                                               |                     Y                     |
+|                                                 Dodecyl benzene, see Alkyl (C9 + ) benzenes                                                 |                                           |
+|                                                        Dodecyl hydroxypropyl sulfide                                                        |                     X                     |
+|                                                               Dodecyl phenol                                                                |                     X                     |
+|                                                               Dodecyl xylene                                                                |                     Y                     |
+|                                  Drilling brines (containing zinc salts) (if flammable or combustible) \*                                   |                     X                     |
+|Drilling brines, including: Calcium bromide solution, calcium chloride solution and sodium chloride solution (if flammable or combustible) \*|                     Z                     |
+|                                          Drilling mud (low toxicity) (if flammable or combustible)                                          |                    \#                     |
+|                                                      ETBE, see Ethyl tert-butyl ether                                                       |                                           |
+|                                                            2-Ethoxyethyl acetate                                                            |                     Y                     |
+|                          Ethoxylated alkyloxy alkyl amine, see Ethoxylated long-chain (C16 + ) alkyloxyalkylamine                           |                                           |
+|                                                          Ethoxy triglycol (crude)                                                           |                    \#                     |
+|                                                                Ethyl acetate                                                                |                     Z                     |
+|                                                             Ethyl acetoacetate                                                              |                     Z                     |
+|                                                                Ethyl alcohol                                                                |                     Z                     |
+|                                                              Ethyl amyl ketone                                                              |                     Y                     |
+|                                                                Ethylbenzene                                                                 |                     Y                     |
+|                                                                Ethyl butanol                                                                |                    \#                     |
+|                                                           Ethyl tert-butyl ether                                                            |                     Y                     |
+|                                                               Ethyl butyrate                                                                |                     Y                     |
+|                                                              Ethyl cyclohexane                                                              |                     Y                     |
+|                                                      S-Ethyl dipropylthiocarbamate \*                                                       |                     Y                     |
+|                                                             Ethylene carbonate                                                              |                     Z                     |
+|                                                               Ethylene glycol                                                               |                     Y                     |
+|                                                           Ethylene glycol acetate                                                           |                     Y                     |
+|                                                     Ethylene glycol butyl ether acetate                                                     |                     Y                     |
+|                                                          Ethylene glycol diacetate                                                          |                     Y                     |
+|                                                        Ethylene glycol dibutyl ether                                                        |                    \#                     |
+|                                       Ethylene glycol ethyl ether acetate, see 2-Ethoxyethyl acetate                                        |                                           |
+|                                                     Ethylene glycol methyl butyl ether                                                      |                    \#                     |
+|                                                    Ethylene glycol methyl ether acetate                                                     |                     Y                     |
+|                                                        Ethylene glycol phenyl ether                                                         |                     Z                     |
+|                                     Ethylene glycol phenyl ether/Diethylene glycol phenyl ether mixture                                     |                     Z                     |
+|                                                          Ethyl-3-ethoxypropionate                                                           |                     Y                     |
+|                                                   2-Ethylhexaldehyde, see Octyl aldehydes                                                   |                                           |
+|                                                            2-Ethylhexanoic acid                                                             |                     Y                     |
+|                                                 Ethylhexoic acid, see 2-Ethylhexanoic acid                                                  |                                           |
+|                                                  2-Ethylhexanol, see Octanol (all isomers)                                                  |                                           |
+|                                                            Ethyl hexyl phthalate                                                            |                    \#                     |
+|                                         2-Ethyl-2-(hydroxymethyl) propane-1,3-diol, (C8-C10) ester                                          |                     Y                     |
+|                                                              Ethyl propionate                                                               |                     Y                     |
+|                                                                Ethyl toluene                                                                |                     Y                     |
+|                                                       Fatty acid (saturated, C13 + )                                                        |                     Y                     |
+|                                                          Fatty acids, (C16 + ) \*                                                           |                     Y                     |
+|                                       Fatty acids, essentially linear (C6-C18) 2-ethylhexyl ester \*                                        |                     Y                     |
+|                                                                Fish acid oil                                                                |                    \#                     |
+|                                                                  Formamide                                                                  |                     Y                     |
+|                                                              Furfuryl alcohol                                                               |                     Y                     |
+|                                                             † Gas oil, cracked                                                              |                     I                     |
+|                                                             Gas oil, high pour                                                              |                     I                     |
+|                                                              Gas oil, low pour                                                              |                     I                     |
+|                                                             Gas oil, low sulfur                                                             |                     I                     |
+|                                                          Gasoline blending stocks:                                                          |                                           |
+|                                                                  Alkylates                                                                  |                     I                     |
+|                                                                † Reformates                                                                 |                     I                     |
+|                                                                 Gasolines:                                                                  |                                           |
+|                                        † Automotive (containing not over 4.23 grams lead per gallon)                                        |                     I                     |
+|                                         † Aviation (containing not over 4.86 grams lead per gallon)                                         |                     I                     |
+|                                                            Casinghead (natural)                                                             |                     I                     |
+|                                                                   Polymer                                                                   |                     I                     |
+|                                                               † Straight run                                                                |                     I                     |
+|                                                      Gasoline (Natural gas condensate)                                                      |                     I                     |
+|                                                                  Glycerine                                                                  |                     Z                     |
+|                                              Glycerine (83%), Dioxanedimethanol (17%) mixture                                               |                    \#                     |
+|                                                           Glycerol, see Glycerine                                                           |                                           |
+|                                                           Glycerol ethoxylated \*                                                           |                    OS                     |
+|                                                             Glycerol monooleate                                                             |                     Y                     |
+|                                                           Glycerol polyalkoxylate                                                           |                    \#                     |
+|                                                  Glycerol, propoxylated and ethoxylated \*                                                  |                     Z                     |
+|                                           Glycerol/sucrose blend propoxylated and ethoxylated \*                                            |                     Z                     |
+|                                                             Glyceryl triacetate                                                             |                     Z                     |
+|                            Glycidyl ester of tridecyl acetic acid, see Glycidyl ester of C10 trialkylacetic acid                            |                                           |
+|                               Glycidyl ester of versatic acid, see Glycidyl ester of C10 trialkylacetic acid                                |                                           |
+|                                                  Glycidyl ester of C10 trialkylacetic acid                                                  |                     Y                     |
+|                                               Glycol diacetate, see Ethylene glycol diacetate                                               |                                           |
+|                                                 Glycol triacetate, see Glyceryl triacetate                                                  |                                           |
+|                                                       Glyoxal solution (40% or less)                                                        |                     Y                     |
+|                                               Glyphosate solution (not containing surfactant)                                               |                     Y                     |
+|                                                             Groundnut acid oil                                                              |                    \#                     |
+|                                                              Groundnut oil \*                                                               |                     Y                     |
+|                                                                Hazelnut oil                                                                 |                    \#                     |
+|                                                             Heartcut distillate                                                             |                     I                     |
+|                                                     Heptadecane, see n-Alkanes (C10 + )                                                     |                                           |
+|                                                            Heptane (all isomers)                                                            |                     X                     |
+|                                                    Heptanoic acid, see n-Heptanoic acid                                                     |                                           |
+|                                                             n-Heptanoic acid \*                                                             |                     Z                     |
+|                                                           Heptanol (all isomers)                                                            |                     Y                     |
+|                                                            Heptene (all isomers)                                                            |                     Y                     |
+|                                                               Heptyl acetate                                                                |                     Y                     |
+|                         Herbicide (C15H22NO2Cl), see N-(2-Methoxy-1-methyl ethyl)-2-ethyl-6-methylchloroacetanilide                         |                                           |
+|                                                     Hexadecanol, see Alcohol (C 13 + )                                                      |                                           |
+|                                        1-Hexadecylnaphthalene/1,4-Bis(hexadecyl)naphthalene mixture                                         |                     Y                     |
+|                                                Hexaethylene glycol, see Polyethylene glycol                                                 |                                           |
+|                                                            Hexamethylene glycol                                                             |                     Z                     |
+|                                                      Hexamethylenetetramine solutions                                                       |                     Z                     |
+|                                                            Hexane (all isomers)                                                             |                     Y                     |
+|                                                  1,6-Hexanediol, distillation overheads \*                                                  |                     Y                     |
+|                                                                Hexanoic acid                                                                |                     Y                     |
+|                                                                   Hexanol                                                                   |                     Y                     |
+|                                                            Hexene (all isomers)                                                             |                     Y                     |
+|                                                                Hexyl acetate                                                                |                     Y                     |
+|                                                               Hexylene glycol                                                               |                     Z                     |
+|                                                     Hydrogenated starch hydrolysate \*                                                      |                    OS                     |
+|                                                    2-Hydroxy-4-(methylthio)butanoic acid                                                    |                     Z                     |
+|                                   Hydroxy terminated polybutadiene, see Polybutadiene, hydroxy terminated                                   |                                           |
+|                                                                Illipe oil \*                                                                |                     Y                     |
+|                                                             Isoamyl alcohol \*                                                              |                     Z                     |
+|                                                             Isobutyl alcohol \*                                                             |                     Z                     |
+|                                                             Isobutyl formate \*                                                             |                     Z                     |
+|                                                          Isobutyl methacrylate \*                                                           |                     Z                     |
+|                                                            Isopropyl acetate \*                                                             |                     Z                     |
+|                                                             Isopropyl alcohol\*                                                             |                     Z                     |
+|                                                           Isopropylcyclohexane\*                                                            |                     Y                     |
+|                                                               Jatropha oil\*                                                                |                     Y                     |
+|                                                                 Jet fuels:                                                                  |                                           |
+|                                                                   † JP-4                                                                    |                     I                     |
+|                                                           JP-5 (kerosene, heavy)                                                            |                     I                     |
+|                                                                    JP-8                                                                     |                     I                     |
+|                                                                  Kerosene                                                                   |                     I                     |
+|                                                                 Lactic acid                                                                 |                     Z                     |
+|                                                                 Lanolin oil                                                                 |                    \#                     |
+|                                                                Lard acid oil                                                                |                    \#                     |
+|                                 Latex: Carboxylated styrene-Butadiene copolymer; Styrene-Butadiene rubber\*                                 |                     Z                     |
+|                                                                Lauric acid\*                                                                |                     X                     |
+|                                                                  Lecithin                                                                   |                    OS                     |
+|                                                   Long-chain alkaryl polyether (C11-C20)                                                    |                     Y                     |
+|                                                 Long-chain alkaryl sulfonic acid (C16-C60)                                                  |                     Y                     |
+|                                               Long-chain alkylphenate/Phenol sulfide mixture                                                |                     Y                     |
+|                                                               Lubricating oil                                                               |                     I                     |
+|                                                     L-Lysine solution (60% or less) \*                                                      |                     Z                     |
+|                                              Magnesium long-chain alkaryl sulfonate (C11-C50)                                               |                     Y                     |
+|                                             Magnesium long-chain alkyl phenate sulfide (C8-C20)                                             |                    \#                     |
+|                                               Magnesium long-chain alkyl salicylate (C11 + )                                                |                     Y                     |
+|                           Magnesium nonyl phenol sulfide, see Magnesium long-chain alkyl phenate sulfide (C8-C20)                           |                                           |
+|                                                             Mango kernel oil \*                                                             |                     Y                     |
+|                                                 2-Mercaptobenzothiazol (in liquid mixtures)                                                 |                    \#                     |
+|                                                             3-Methoxy-1-butanol                                                             |                     Z                     |
+|                                                           3-Methoxybutyl acetate                                                            |                     Y                     |
+|                                                         1-Methoxy-2-propyl acetate                                                          |                    \#                     |
+|                                      N-(2-Methoxy-1-methyl ethyl)-2-ethyl-6-methylchloroacetanilide \*                                      |                     X                     |
+|                                   Methoxy triglycol, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                                    |                                           |
+|                                                               Methyl acetate                                                                |                     Z                     |
+|                                                             Methyl acetoacetate                                                             |                     Z                     |
+|                                                               Methyl alcohol                                                                |                     Y                     |
+|                                                             Methylamyl acetate                                                              |                     Y                     |
+|                                                             Methylamyl alcohol                                                              |                     Z                     |
+|                                                             Methyl amyl ketone                                                              |                     Z                     |
+|                                                    Methyl butanol, see the amyl alcohols                                                    |                                           |
+|                                                                Methylbutenol                                                                |                     Y                     |
+|                                                           Methyl tert-butyl ether                                                           |                     Z                     |
+|                                                             Methyl butyl ketone                                                             |                     Y                     |
+|                                                              Methylbutynol \*                                                               |                     Z                     |
+|                                                               Methyl butyrate                                                               |                     Y                     |
+|                                                            Methylcyclohexane \*                                                             |                     Y                     |
+|                                                       Methylcyclopentadiene dimmer \*                                                       |                     Y                     |
+|                                    Methyl 3-(3,5 di-tert-butyl-4-hydroxyphenyl)propionate crude melt \*                                     |                    [Y]                    |
+|                                                             Methyl ethyl ketone                                                             |                     Z                     |
+|                                                  N-Methylglucamine solution (70% or less)                                                   |                     Z                     |
+|                                                            Methyl heptyl ketone                                                             |                    \#                     |
+|                                              Methyl isobutyl carbinol, see Methyl amyl alcohol                                              |                                           |
+|                                                           Methyl isobutyl ketone                                                            |                     Z                     |
+|                                                          3-Methyl-3-methoxybutanol                                                          |                     Z                     |
+|                                                       3-Methyl-3-methoxybutyl acetate                                                       |                    \#                     |
+|                                                  Methyl pentene, see Hexene (all isomers)                                                   |                                           |
+|                                            Methyl tert-pentyl ether, see tert-Amyl methyl ether                                             |                                           |
+|                                                          2-Methyl-1,3-propanediol                                                           |                     Z                     |
+|                                                            Methyl propyl ketone                                                             |                     Z                     |
+|                                                           N-Methyl-2-pyrrolidone                                                            |                     Y                     |
+|                                                            Methyl salicylate \*                                                             |                     Y                     |
+|                               Metolachlor, see N-(2-Methoxy-1-methylethyl)-2-ethyl-6-methylchloroacetanilide                                |                                           |
+|                                                                 Mineral oil                                                                 |                     I                     |
+|                                                              Mineral seal oil                                                               |                     I                     |
+|                                                               Mineral spirits                                                               |                     I                     |
+|                                                               Mixed acid oil                                                                |                    \#                     |
+|                                                           Mixed general acid oil                                                            |                    \#                     |
+|                                                             Mixed hard acid oil                                                             |                    \#                     |
+|                                                             Mixed soft acid oil                                                             |                    \#                     |
+|                                                                  Motor oil                                                                  |                     I                     |
+|                                                      MTBE, see Methyl tert-butyl ether                                                      |                                           |
+|                                                                   Myrcene                                                                   |                     X                     |
+|                                                                  Naphtha:                                                                   |                                           |
+|                                                  † Aromatic (having less than 10% Benzene)                                                  |                     I                     |
+|                                                                    Heavy                                                                    |                     I                     |
+|                                                                 Paraffinic                                                                  |                     I                     |
+|                                                                 † Petroleum                                                                 |                     I                     |
+|                                                                  † Solvent                                                                  |                     I                     |
+|                                                              Stoddard Solvent                                                               |                     I                     |
+|                                                    † Varnish makers' and painters' (75%)                                                    |                     I                     |
+|                                                               Naphthenic acid                                                               |                    \#                     |
+|                                                                Neatsfoot oil                                                                |                    \#                     |
+|                                                             Neodecanoic acid \*                                                             |                     Y                     |
+|                                              Nitrilotriacetic acid, trisodium salt solution \*                                              |                     Y                     |
+|                                                            Nonane (all isomers)                                                             |                     X                     |
+|                                                         Nonanoic acid (all isomers)                                                         |                     Y                     |
+|                                                     Nonanoic, Tridecanoic acid mixture                                                      |                    \#                     |
+|                                                            Nonene (all isomers)                                                             |                     Y                     |
+|                                                                Nonyl acetate                                                                |                    \#                     |
+|                                                         Nonyl alcohol (all isomers)                                                         |                     Y                     |
+|                                                         Nonyl methacrylate monomer                                                          |                     Y                     |
+|                                                                 Nonylphenol                                                                 |                     X                     |
+|                                                      Nonylphenol poly(4 + )ethoxylate                                                       |                     Y                     |
+|                                    Nonyl phenol sulfide (90% or less), see Alkyl (C8-C40) phenol sulfide                                    |                                           |
+|                          Noxious liquid, F, (2) n.o.s. (“trade name” contains “principle components”) ST 1, Cat X                           |                     X                     |
+|                          Noxious liquid, F, (4) n.o.s. (“trade name” contains “principle components”) ST 2, Cat X                           |                     X                     |
+|                          Noxious liquid, F, (6) n.o.s. (“trade name” contains “principle components”) ST 2, Cat Y                           |                     Y                     |
+|                          Noxious liquid, F, (8) n.o.s. (“trade name” contains “principle components”) ST 3, Cat Y                           |                     Y                     |
+|                          Noxious liquid, F, (10) n.o.s. (“trade name” contains “principle components”) ST 3, Cat Z                          |                     Z                     |
+|               Noxious liquid, (11) n.o.s. (“trade name” contains “principle components”) Cat Z (if flammable or combustible)                |                     Z                     |
+|             Non noxious liquid, (12) n.o.s. (“trade name” contains “principle components”) Cat OS (if flammable or combustible)             |                    OS                     |
+|                                                              Nutmeg butter oil                                                              |                    \#                     |
+|                                                     Octadecanol, see Alcohols (C13 + )                                                      |                                           |
+|                                             Octadecene, see the olefin or alpha-olefin entries                                              |                                           |
+|                                                          Octadeceneamide solution                                                           |                    \#                     |
+|                                                       Octamethylcyclotetrasiloxane\*                                                        |                     Y                     |
+|                                                            Octane (all isomers)                                                             |                     X                     |
+|                                                         Octanoic acid (all isomers)                                                         |                     Y                     |
+|                                                            Octanol (all isomers)                                                            |                     Y                     |
+|                                                            Octene (all isomers)                                                             |                     Y                     |
+|                                                     Octyl acetate, see n-Octyl acetate                                                      |                                           |
+|                                                             n-Octyl acetate \*                                                              |                     Y                     |
+|                                             Octyl alcohol (iso-, n-), see Octanol (all isomers)                                             |                                           |
+|                                                               Octyl aldehydes                                                               |                     Y                     |
+|                                                             Octyl decyl adipate                                                             |                     Y                     |
+|                                                   Octyl phthalate, see Dioctyl phthalate                                                    |                                           |
+|                                                           Oil, edible: Poppy seed                                                           |                     I                     |
+|                                                                 Oil, fuel:                                                                  |                                           |
+|                                                              No. 1 (kerosene)                                                               |                     I                     |
+|                                                                   No. 1-D                                                                   |                     I                     |
+|                                                                    No. 2                                                                    |                     I                     |
+|                                                                   No. 2-D                                                                   |                     I                     |
+|                                                                    No. 4                                                                    |                     I                     |
+|                                                                    No. 5                                                                    |                     I                     |
+|                                                                    No. 6                                                                    |                     I                     |
+|                                                                Oiticica oil                                                                 |                    \#                     |
+|                                                       alpha-Olefins (C6-C18) mixtures                                                       |                     X                     |
+|                                        alpha-Olefins (C13-C18) mixtures, see alpha-Olefins (C6-C18)                                         |                                           |
+|                                                        Olefins (C13 + , all isomers)                                                        |                     Y                     |
+|                                           Olefin-Alkyl ester copolymer (molecular weight 2000 + )                                           |                     Y                     |
+|                                                           Olefin mixtures (C5-C7)                                                           |                     Y                     |
+|                                                          Olefin mixtures (C5-C15)                                                           |                     X                     |
+|                                                                 Oleic acid                                                                  |                     Y                     |
+|                                                    Oleyl alcohol, see Alcohols (C13 + )                                                     |                                           |
+|                                                       Orange juice (concentrated) \*                                                        |                    OS                     |
+|                                                     Palm kernel acid oil, methyl ester                                                      |                    \#                     |
+|                                                            Palm kernel olein \*                                                             |                     Y                     |
+|                                                           Palm kernel stearin \*                                                            |                     Y                     |
+|                                                            Palm mid-fraction \*                                                             |                     Y                     |
+|                                                     Palm oil fatty acid methyl ester \*                                                     |                     Y                     |
+|                                                                Palm olein \*                                                                |                     Y                     |
+|                                                               Palm stearin \*                                                               |                     Y                     |
+|                                                                Paraffin wax                                                                 |                     Y                     |
+|                                                n-Paraffins (C10-C20), see n-Alkanes (C10 + )                                                |                                           |
+|                                                        Peanut oil, see Groundnut oil                                                        |                                           |
+|                                                        Peel oil (oranges and lemons)                                                        |                    \#                     |
+|                                                               Penetrating oil                                                               |                     I                     |
+|                                                     Pentadecanol, see Alcohols (C13 + )                                                     |                                           |
+|                                               Pentaethylene glycol, see Polyethylene glycols                                                |                                           |
+|                                                            Pentane (all isomers)                                                            |                     Y                     |
+|                                                               Pentanoic acid                                                                |                     Y                     |
+|                                                            Pentene (all isomers)                                                            |                     Y                     |
+|                                                             n-Pentyl propionate                                                             |                     Y                     |
+|                                                                 Perilla oil                                                                 |                    \#                     |
+|                                                                 Petrolatum                                                                  |                     Y                     |
+|                                                           1-Phenyl-1-xylyl ethane                                                           |                     Y                     |
+|                                                   Phosphate esters, alkyl (C12-C14) amine                                                   |                     Y                     |
+|                                                     Phosphosulfurized bicyclic terpene                                                      |                    \#                     |
+|                                                                Pilchard oil                                                                 |                    \#                     |
+|                                                   Pinene, see the alpha- or beta- isomers                                                   |                                           |
+|                                                                alpha-Pinene                                                                 |                     X                     |
+|                                                                 beta-Pinene                                                                 |                     X                     |
+|                                                                 Pine oil \*                                                                 |                     X                     |
+|                                                  Polyalkyl(C18-C22) acrylate in xylene \*                                                   |                     Y                     |
+|                                     Polyalkylene glycols, polyalkylene glycol monoalkyl ethers mixtures                                     |                    \#                     |
+|                                          Polyalkylalkenaminesuccinimide, molybdenum oxysulfide \*                                           |                     Y                     |
+|                            Polyalkylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                              Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether                                               |                     Z                     |
+|                                                                 Including:                                                                  |                                           |
+|                                                        Diethylene glycol butyl ether                                                        |                                           |
+|                                                        Diethylene glycol ethyl ether                                                        |                                           |
+|                                                       Diethylene glycol n-hexyl ether                                                       |                                           |
+|                                                       Diethylene glycol methyl ether                                                        |                                           |
+|                                                      Diethylene glycol n-propyl ether                                                       |                                           |
+|                                                       Dipropylene glycol butyl ether                                                        |                                           |
+|                                                       Dipropylene glycol methyl ether                                                       |                                           |
+|                                                      Polypropylene glycol methyl ether                                                      |                                           |
+|                                                       Triethylene glycol butyl ether                                                        |                                           |
+|                                                       Triethylene glycol ethyl ether                                                        |                                           |
+|                                                       Triethylene glycol methyl ether                                                       |                                           |
+|                                                      Tripropylene glycol methyl ether                                                       |                                           |
+|                                          Poly(2-8)alkylene glycol monoalkyl (C1-C6) ether acetate                                           |                     Y                     |
+|                                                                 Including:                                                                  |                                           |
+|                                                    Diethylene glycol butyl ether acetate                                                    |                                           |
+|                                                    Diethylene glycol ethyl ether acetate                                                    |                                           |
+|                                                   Diethylene glycol methyl ether acetate                                                    |                                           |
+|                                                          Polyalkylene oxide polyol                                                          |                    \#                     |
+|                                                       Polyalkyl(C10-C20) methacrylate                                                       |                     Y                     |
+|                                   Polyalkyl(C10-C18) methacrylate/ethylene-propylene copolymer mixture \*                                   |                     Y                     |
+|                                                      Polybutadiene, hydroxy terminated                                                      |                    \#                     |
+|                                                                 Polybutene                                                                  |                     Y                     |
+|                                                           Polybutenyl succinimide                                                           |                     Y                     |
+|                                                        Poly(2 + )cyclic aromatics \*                                                        |                     X                     |
+|                                               Polydimethylsiloxane, see Dimethylpolysiloxane                                                |                                           |
+|                                                    Polyether (molecular weight 1350 + )                                                     |                     Y                     |
+|                                                              Polyether polyols                                                              |                    \#                     |
+|                                                             Polyethylene glycol                                                             |                     Z                     |
+|                                                     Polyethylene glycol dimethyl ether                                                      |                     Z                     |
+|                                           Poly(ethylene glycol) methylbutenyl ether (MW\>1000) \*                                           |                     Z                     |
+|                          Polyethylene glycol monoalkyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                           |                                           |
+|                               Polyglycerine, sodium salt solution (containing less than 3% sodium hydroxide)                                |                     Z                     |
+|                                                                Polyglycerol                                                                 |                    \#                     |
+|                                             Polyisobutenamine in aliphatic (C10-C14) solvent \*                                             |                     Y                     |
+|                                                       Polyisobutenyl anhydride adduct                                                       |                     Z                     |
+|                                                            Poly(4 + )isobutylene                                                            |                     Y                     |
+|                                                             Polymerized esters                                                              |                    \#                     |
+|                                                    Polyolefin amide alkeneamine (C17 + )                                                    |                     Y                     |
+|                              Polyolefin amide alkeneamine (C28 + ), see Polyolefin amide alkeneamine (C17 + )                               |                                           |
+|                                               Polyolefin amide alkeneamine borate (C28-C250)                                                |                     Y                     |
+|                                         Polyolefin amide alkeneamine/Molybdenum oxysulfide mixture                                          |                    \#                     |
+|                                                     Polyolefin amide alkeneamine polyol                                                     |                     Y                     |
+|                                                        Polyolefinamine (C28-C250) \*                                                        |                     Y                     |
+|                                                Polyolefinamine in alkyl (C2-C4) benzenes \*                                                 |                     Y                     |
+|                                                   Polyolefinamine in aromatic solvent \*                                                    |                     Y                     |
+|                                          Polyolefin aminoester salts (molecular weight 2000 + ) \*                                          |                     Y                     |
+|                                                            Polyolefin anhydride                                                             |                     Y                     |
+|                                                         Polyolefin ester (C28-C250)                                                         |                     Y                     |
+|                                                    Polyolefin phenolic amine (C28-C250)                                                     |                     Y                     |
+|                                          Polyolefin phosphorosulfide, barium derivative (C28-C250)                                          |                     Y                     |
+|                                                   Poly(20)oxyethylene sorbitan monooleate                                                   |                     Y                     |
+|                                                             Poly(5 + )propylene                                                             |                     Y                     |
+|                           Polypropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                            |                                           |
+|                                                                Polysiloxane                                                                 |                     Y                     |
+|                                                                  Poppy oil                                                                  |                    \#                     |
+|                                                              Potassium oleate                                                               |                     Y                     |
+|                                                      Potassium salt of polyolefin acid                                                      |                    \#                     |
+|                                           n-Propoxypropanol, see Propylene glycol monoalkyl ether                                           |                                           |
+|                                                              n-Propyl acetate                                                               |                     Y                     |
+|                                                              n-Propyl alcohol                                                               |                     Y                     |
+|                                             iso-Propylbenzene, see Propylbenzene (all isomers)                                              |                                           |
+|                                              n-Propylbenzene, see Propylbenzene (all isomers)                                               |                                           |
+|                                                         Propylbenzene (all isomers)                                                         |                     Y                     |
+|                                                        Propylene-Butylene copolymer                                                         |                    \#                     |
+|                                                             Propylene carbonate                                                             |                     Z                     |
+|                                                               Propylene dimer                                                               |                    \#                     |
+|                                                              Propylene glycol                                                               |                     Z                     |
+|                                    Propylene glycol n-butyl ether, see Propylene glycol monoalkyl ether                                     |                                           |
+|                                     Propylene glycol ethyl ether, see Propylene glycol monoalkyl ether                                      |                                           |
+|                                     Propylene glycol methyl ether, see Propylene glycol monoalkyl ether                                     |                                           |
+|                                                    Propylene glycol methyl ether acetate                                                    |                     Z                     |
+|                                                      Propylene glycol monoalkyl ether                                                       |                     Z                     |
+|                                                                 Including:                                                                  |                                           |
+|                                                              n-Propoxypropanol                                                              |                                           |
+|                                                       Propylene glycol n-butyl ether                                                        |                                           |
+|                                                        Propylene glycol ethyl ether                                                         |                                           |
+|                                                        Propylene glycol methyl ether                                                        |                                           |
+|                                                        Propylene glycol propyl ether                                                        |                                           |
+|                                                        Propylene glycol phenyl ether                                                        |                     Z                     |
+|                                     Propylene glycol propyl ether, see Propylene glycol monoalkyl ether                                     |                                           |
+|                                                   Propylene polymer (in liquid mixtures)                                                    |                    \#                     |
+|                                                             Propylene tetramer                                                              |                     X                     |
+|                                                              Propylene trimer                                                               |                     Y                     |
+|                                                     Pseudocumene, see Trimethylbenzenes                                                     |                                           |
+|                                                               Raisin seed oil                                                               |                    \#                     |
+|                                                              Rapeseed acid oil                                                              |                    \#                     |
+|                                                  Rape seed oil fatty acid methyl esters\*                                                   |                     Y                     |
+|                                                                Residual oil                                                                 |                     I                     |
+|                                                                  Road oil                                                                   |                     I                     |
+|                                                                  Rosin \*                                                                   |                     Y                     |
+|                                                                  Rosin oil                                                                  |                    \#                     |
+|                                                     Rum, see Alcoholic beverages, n.o.s                                                     |                                           |
+|                                                             Safflower acid oil                                                              |                    \#                     |
+|                                                                  Salad oil                                                                  |                    \#                     |
+|                                                                  Seal oil                                                                   |                     I                     |
+|                                                                 Sesame oil                                                                  |                    \#                     |
+|                                                                Soapstock oil                                                                |                    \#                     |
+|                Sodium acetate, Glycol, Water mixture (containing 1% or less, Sodium hydroxide) (if flammable or combustible)                |                    \#                     |
+|                                                               Sodium benzoate                                                               |                     Z                     |
+|                                                 Sodium long-chain alkyl salicylate (C13 + )                                                 |                    \#                     |
+|                                                Sodium thiocyanate solution (56% or less) \*                                                 |                     Y                     |
+|                                                                Soya acid oil                                                                |                    \#                     |
+|                                                      Soyabean fatty acid methyl ester                                                       |                    \#                     |
+|                                                          Soyabean oil (epoxidized)                                                          |                    \#                     |
+|                                                                 Spindle oil                                                                 |                     I                     |
+|                                              Stearic acid, see Fatty acid (saturated, C13 + )                                               |                                           |
+|                                                   Stearyl alcohol, see Alcohols (C13 + )                                                    |                                           |
+|                                                          Sulfohydrocarbon (C3-C88)                                                          |                     Y                     |
+|                                              Sulfohydrocarbon, long-chain (C18 + ) alkylamine                                               |                    \#                     |
+|                                                                  Sulfolane                                                                  |                     Y                     |
+|                                                          Sulfurized fat (C14-C20)                                                           |                     Z                     |
+|                                              Sulfurized polyolefinamide alkene(C28-C250) amine                                              |                     Z                     |
+|                                                 Sunflower oil, see Sunflower seed acid oil                                                  |                                           |
+|                                                           Sunflower seed acid oil                                                           |                    \#                     |
+|                                                           Tall oil, distilled \*                                                            |                     Y                     |
+|                                                            Tall oil, fatty acid                                                             |                    \#                     |
+|                                                                   Tallow                                                                    |                     Y                     |
+|                                                    Tallow alcohol, see Alcohols (C13 + )                                                    |                                           |
+|                                                            Tallow alkyl nitrile                                                             |                    \#                     |
+|                                                              Tallow fatty acid                                                              |                     Y                     |
+|                                                      TAME, see tert-Amyl methyl ether                                                       |                                           |
+|                                                     Tetradecanol, see Alcohols (C13 + )                                                     |                                           |
+|                Tetradecene, see alpha-Olefins (C6-C18) mixtures, Olefin mixtures (C5-C15), or Olefins (C13 + , all isomers)                 |                                           |
+|                                                 Tetradecylbenzene, see Alkyl(C9 + )benzenes                                                 |                                           |
+|                                                            Tetraethylene glycol                                                             |                     Z                     |
+|                                          Tetraethyl silicate monomer/oligomer (20% in ethanol) \*                                           |                     Z                     |
+|                                                            Tetrahydronaphthalene                                                            |                     Y                     |
+|                                                     Tetramethylbenzene (all isomers) \*                                                     |                     X                     |
+|                                                Tetrapropylbenzene, see Alkyl(C9 + )benzenes                                                 |                                           |
+|                                                                   Toluene                                                                   |                     Y                     |
+|                                                               Transformer oil                                                               |                     I                     |
+|                                          Triarylphosphate, see Triisopropylated phenyl phosphates                                           |                                           |
+|                                                             Tributyl phosphate                                                              |                     Y                     |
+|                                                                  Tridecane                                                                  |                     Y                     |
+|                                                              Tridecanoic acid                                                               |                     Y                     |
+|                                                      Tridecanol, see Alcohols (C13 + )                                                      |                                           |
+|                                                Tridecene, see Olefins (C13 + , all isomers)                                                 |                                           |
+|                                                              Tridecyl acetate                                                               |                     Y                     |
+|                                                  Tridecylbenzene, see Alkyl(C9 + )benzenes                                                  |                                           |
+|                                                               Triethylbenzene                                                               |                     X                     |
+|                                                             Triethylene glycol                                                              |                     Z                     |
+|                             Triethylene glycol butyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                                   Triethylene glycol butyl ether mixture                                                    |                    \#                     |
+|                                                   Triethylene glycol di-(2-ethylbutyrate)                                                   |                    \#                     |
+|                                                      Triethylene glycol ether mixture                                                       |                    \#                     |
+|                             Triethylene glycol ethyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                            Triethylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                             |                                           |
+|                                                             Triethyl phosphate                                                              |                     Z                     |
+|                                                          Triisooctyl trimellitate                                                           |                    \#                     |
+|                                                             Triisopropanolamine                                                             |                     Z                     |
+|                                                     Triisopropylated phenyl phosphates                                                      |                     X                     |
+|                                                       Trimethylbenzene (all isomers)                                                        |                     X                     |
+|                                                2,2,4-Trimethyl-1,3-pentanediol diisobutyrate                                                |                     Y                     |
+|                                              2,2,4-Trimethyl-1,3-pentanediol-1-isobutyrate \*                                               |                     Y                     |
+|                                                  2,2,4-Trimethyl-3-pentanol-1-isobutyrate                                                   |                    \#                     |
+|                                                     Tripropylene, see Propylene trimer                                                      |                                           |
+|                                                             Tripropylene glycol                                                             |                     Z                     |
+|                            Tripropylene glycol methyl ether, see Poly(2-8)alkylene glycol monoalkyl(C1-C6) ether                            |                                           |
+|                                                Trixylenyl phosphate, see Trixylyl phosphate                                                 |                                           |
+|                                                             Trixylyl phosphate                                                              |                     X                     |
+|                                                                  Tucum oil                                                                  |                    \#                     |
+|                                                                 Turbine oil                                                                 |                     I                     |
+|                                                                 Turpentine                                                                  |                     X                     |
+|                                      † Turpentine substitute, see White spirit (low (15-20%) aromatic)                                      |                                           |
+|                                                               Undecanoic acid                                                               |                     Y                     |
+|                                                      1-Undecanol, see Undecyl alcohol                                                       |                                           |
+|                                                          Undecene, see 1-Undecene                                                           |                                           |
+|                                                                 1-Undecene                                                                  |                     X                     |
+|                                                   1-Undecyl alcohol, see Undecyl alcohol                                                    |                                           |
+|                                                               Undecyl alcohol                                                               |                     X                     |
+|                                                  Undecylbenzene, see Alkyl(C9 + )benzenes                                                   |                                           |
+|                                                            Vegetable oils, n.o.s                                                            |                    \#                     |
+|                                  Vegetable protein solution (hydrolyzed) (if flammable or combustible) \*                                   |                    OS                     |
+|                                                                 Walnut oil                                                                  |                    \#                     |
+|                                                                    Waxes                                                                    |                     Y                     |
+|                                          † White spirit, see White spirit (low (15-20%) aromatic)                                           |                                           |
+|                                                    † White spirit, low (15-20%) aromatic                                                    |                     Y                     |
+|                                                    Wine, see Alcoholic beverages, n.o.s                                                     |                                           |
+|                                                                   Xylenes                                                                   |                     Y                     |
+|                                                Xylenes/Ethylbenzene (10% or more) mixture \*                                                |                     Y                     |
+|                                                    Zinc alkaryl dithiophosphate (C7-C16)                                                    |                     Y                     |
+|                                                          Zinc alkenyl carboxamide                                                           |                     Y                     |
+|                                                     Zinc alkyl dithiophosphate (C3-C14)                                                     |                     Y                     |
 
-Explanation of Symbols: As used in this table the following stands for:
+NOTES:
 
-A, B, C, D - NLS Category of Annex II of MARPOL 73/78.
+“#” = NLS status is undetermined - see 46 CFR 153.900(c) for shipping on an oceangoing vessel.
 
-I - Considered an “oil” under Annex I of MARPOL 73/78.
+“†” = Marine occupational safety and health regulations for benzene, 46 CFR part 197, subpart C, may apply to this cargo.
 
-III - Appendix III of Annex II (non-NLS cargoes) of MARPOL 73/78.
+“[ ]” = Provisional categorization to which the United States is party.
 
-LFG - Liquefied flammable gas.
+“@” = The NLS category has been assigned by the U.S. Coast Guard, in absence of one assigned by the IMO. The category is based upon a GESAMP Hazard Profile or by analogy to a closely related product having an NLS assigned.
 
-\# - No determination of NLS status. For shipping on an oceangoing vessel, see 46 CFR 153.900(c).
+“\*” From the March 2012 Annex to the 2007 edition of the IBC Code.
 
-[ ] - A NLS category in brackets indicates that the product is provisionally categorized and that further data are necessary to complete the evaluation of its pollution hazards. Until the hazard evaluation is completed, the pollution category assigned is used.
+“Cat” = Pollution category.
 
-@ - The NLS category has been assigned by the U.S. Coast Guard, in absence of one assigned by the IMO. The category is based upon a GESAMP Hazard Profile or by analogy to a closely related product having an NLS assigned.
+“F” = Flammable (flash point less than or equal to 60 degrees C (140 degrees F) NLS.
 
-† - The provisions contained in 46 CFR part 197, subpart C, may apply to this cargo.
+“I” = An “oil” under MARPOL Annex I.
 
-Abbreviations for Noxious liquid Cargoes:
+Italicized words are not part of the cargo name but may be used in addition to the cargo name.
 
-N.F. - non-flammable (flash point greater than 60 degrees C (140 degrees F) cc).
+“n.o.s.” = Not otherwise specified.
 
-F. - flammable (flash point less than or equal to 60 degrees C (140 degrees F) cc).
+“OS” = An “other substance” considered at present to present no harm to marine resources, human health, amenities, or other legitimate uses of the sea when discharged into the sea from tank cleaning or deballasting operations.
 
-n.o.s. - not otherwise specified.
+“see” = A redirection to the preferred, alternative cargo name - for example in “Diethyl ether, see Ethyl ether,” the pollution category for “diethyl ether” will be found under the preferred, alternative cargo name “ethyl ether.”
 
-ST - Ship type.
+“ST” = Ship type.
 
-Cat - Pollution category.
+“X,” “Y,” and “Z” = NLS categories under MARPOL Annex II.
 
-Words in italic are not part of the cargo name but may be used in addition to the cargo name.
-
-When one entry references another entry by use of the word “see”, and both names are in roman type, either name may be used as the cargo name (e.g., Diethyl ether, see Ethyl ether). However, the referenced entry is preferred.
-
-[CGD 00-7079, 65 FR 67157, Nov. 8, 2000]
+[78 FR 50152, Aug. 16, 2013]

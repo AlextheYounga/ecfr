@@ -1,6 +1,6 @@
 ##### § 502.230 Reopening by presiding officer or Commission. #####
 
-Link to an amendment published at 81 FR 93839, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93839, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *Motion to reopen.* At any time after the conclusion of a hearing in a proceeding, but before issuance by the presiding officer of a recommended or initial decision, any party to the proceeding may file with the presiding officer a motion to reopen the proceeding for the purpose of receiving additional evidence. A motion to reopen shall be served in conformity with the requirements of subpart H and shall set forth the grounds requiring reopening of the proceeding, including material changes of fact or of law alleged to have occurred since the conclusion of the hearing.
 

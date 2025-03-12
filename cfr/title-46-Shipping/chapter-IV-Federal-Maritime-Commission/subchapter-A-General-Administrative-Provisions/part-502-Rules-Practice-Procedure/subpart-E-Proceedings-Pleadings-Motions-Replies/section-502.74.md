@@ -1,6 +1,6 @@
 ##### § 502.74 Exemption procedures - general. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *Authority.* The Commission, upon application or on its own motion, may by order or regulation exempt for the future any class of agreements between persons subject to the Shipping Act of 1984 or any specified activity of those persons from any requirement of the Act if the Commission finds that the exemption will not result in substantial reduction in competition or be detrimental to commerce. The Commission may attach conditions to any exemption and may, by order, revoke any exemption.
 

@@ -1,6 +1,6 @@
 ##### § 502.132 Motions to quash or modify. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) Except when issued at a hearing, or in connection with the taking of a deposition, within ten (10) days after service of a subpoena for attendance of a witness or a subpoena for production of evidence, but in any event at or before the time specified in the subpoena for compliance therewith, the person to whom the subpoena is directed may, by motion with notice to the party requesting the subpoena, petition the presiding officer to quash or modify the subpoena.
 

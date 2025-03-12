@@ -1,5 +1,7 @@
 ##### § 503.33 Exceptions to availability of records. #####
 
+Link to an amendment published at 82 FR 2249, Jan. 9, 2017.
+
 (a) Except as provided in paragraph (b) of this section, the following records may be withheld from disclosure:
 
 (1) Records specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and which are in fact properly classified pursuant to such Executive order. Records to which this provision applies shall be deemed by the Commission to have been properly classified. This exception may apply to records in the custody of the Commission which have been transmitted to the Commission by another agency which has designated the record as nonpublic under an Executive order.

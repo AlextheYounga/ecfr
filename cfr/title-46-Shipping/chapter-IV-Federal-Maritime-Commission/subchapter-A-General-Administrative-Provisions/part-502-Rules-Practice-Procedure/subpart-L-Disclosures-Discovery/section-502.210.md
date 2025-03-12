@@ -1,6 +1,6 @@
 ##### § 502.210 Motions to compel initial disclosures or compliance with discovery requests; failure to comply with order to make disclosure or answer or produce documents; sanctions; enforcement. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *Motion for order to compel initial disclosures or compliance with discovery requests.* (1) A party may file a motion pursuant to § 502.69 for an order compelling compliance with the requirement for initial disclosures provided in § 502.201 or with its discovery requests as provided in this subpart, if a deponent fails to answer a question asked at a deposition or by written questions; a corporation or other entity fails to make a designation of an individual who will testify on its behalf; a party fails to answer an interrogatory; or a party fails to respond that inspection will be permitted, or fails to permit inspection, as requested under § 502.206 of this subpart. For purposes of this section, a failure to make a disclosure, answer, or respond includes an evasive or incomplete disclosure, answer, or response.
 

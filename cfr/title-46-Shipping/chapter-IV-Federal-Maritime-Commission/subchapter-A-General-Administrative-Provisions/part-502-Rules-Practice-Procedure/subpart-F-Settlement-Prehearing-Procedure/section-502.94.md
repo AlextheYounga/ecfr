@@ -1,6 +1,6 @@
 ##### § 502.94 Prehearing conference. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a)(1) Prior to any hearing, the Commission or presiding officer may direct all interested parties, by written notice, to attend one or more prehearing conferences for the purpose of considering any settlement under § 502.91, formulating the issues in the proceeding and determining other matters to aid in its disposition. In addition to any offers of settlement or proposals of adjustment, there may be considered the following:
 

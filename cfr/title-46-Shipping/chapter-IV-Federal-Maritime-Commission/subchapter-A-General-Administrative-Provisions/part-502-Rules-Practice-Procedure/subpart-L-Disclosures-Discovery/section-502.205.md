@@ -1,6 +1,6 @@
 ##### § 502.205 Interrogatories to parties. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) *In general.* (1) *Number.* Unless otherwise stipulated or ordered by the presiding officer, a party may serve on any other party no more than 50 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with § 502.201(e)(2).
 

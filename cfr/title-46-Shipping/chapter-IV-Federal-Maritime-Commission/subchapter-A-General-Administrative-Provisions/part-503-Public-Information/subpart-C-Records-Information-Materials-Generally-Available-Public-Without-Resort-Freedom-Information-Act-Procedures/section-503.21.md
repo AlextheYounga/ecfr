@@ -1,5 +1,7 @@
 ##### § 503.21 Mandatory public records. #####
 
+Link to an amendment published at 82 FR 2248, Jan. 9, 2017.
+
 (a) The Commission, as required by the Freedom of Information Act, 5 U.S.C. 552, makes the following materials available for public inspection and copying in its Office of the Secretary, or on its Web site at *www.fmc.gov*:
 
 (1) Final opinions (including concurring and dissenting opinions) and all orders made in the adjudication of cases.

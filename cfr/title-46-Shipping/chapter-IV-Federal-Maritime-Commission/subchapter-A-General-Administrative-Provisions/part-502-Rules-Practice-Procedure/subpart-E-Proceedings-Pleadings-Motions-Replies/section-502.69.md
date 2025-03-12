@@ -1,6 +1,6 @@
 ##### § 502.69 Motions. #####
 
-Link to an amendment published at 81 FR 93835, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) In any adjudication, an application or request for an order or ruling not otherwise specifically provided for in this part must be by motion. After the assignment of a presiding officer to a proceeding and before the issuance of his or her recommended or initial decision, all motions must be addressed to and ruled upon by the presiding officer unless the subject matter of the motion is beyond his or her authority, in which event the matter must be referred to the Commission. If the proceeding is not before the presiding officer, motions must be designated as *petitions* and must be addressed to and ruled upon by the Commission.
 

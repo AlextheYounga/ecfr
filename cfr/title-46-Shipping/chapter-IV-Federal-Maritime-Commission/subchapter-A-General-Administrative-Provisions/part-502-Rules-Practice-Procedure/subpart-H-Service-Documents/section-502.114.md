@@ -1,6 +1,6 @@
 ##### § 502.114 Serving documents in Commission proceedings. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
 
 (a) Except where a different method of service is specifically required by the rules in this Part, all pleadings, documents and papers of every kind (except requests for subpoenas under § 502.145, documents served by the Commission under § 502.113, and documents submitted at a hearing or prehearing conference) in proceedings before the Commission, when delivered to the Commission or the presiding officer for filing, must show that service has been made upon all parties to the proceeding and upon any other persons required to be served by the rules in this Part. Such service must be made by delivering one copy to each party; by email; in-person hand delivery; or United States mail service, and be properly addressed with postage prepaid; by courier; or by facsimile. Service should be made in the same manner in which any pleading or document is filed with the Commission. For example, if a pleading is filed by email pursuant to § 502.2(f)(3), service should also be made by email.
 
