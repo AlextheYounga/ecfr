@@ -1,5 +1,7 @@
 ##### § 1301.13 Application for registration; time for application; expiration date; registration for independent activities; application forms, fees, contents and signature; coincident activities. #####
 
+Link to an amendment published at 85 FR 44732, July 24, 2020.
+
 (a) Any person who is required to be registered and who is not so registered may apply for registration at any time. No person required to be registered shall engage in any activity for which registration is required until the application for registration is granted and a Certificate of Registration is issued by the Administrator to such person.
 
 (b) Any person who is registered may apply to be reregistered not more than 60 days before the expiration date of his/her registration, except that a bulk manufacturer of Schedule I or II controlled substances or an importer of Schedule I or II controlled substances may apply to be reregistered no more than 120 days before the expiration date of their registration.

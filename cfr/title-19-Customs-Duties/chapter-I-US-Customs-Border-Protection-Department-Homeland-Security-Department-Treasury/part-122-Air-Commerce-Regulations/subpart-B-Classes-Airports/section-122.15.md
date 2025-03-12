@@ -11,6 +11,7 @@
 |       Ardmore, Oklahoma       |         Ardmore Industrial Airpark.          |
 |    Bedford, Massachusetts     |             L.G. Hanscom Field.              |
 |       Belgrade, Montana       |  Bozeman Yellowstone International Airport.  |
+|      Boca Raton, Florida      |             Boca Raton Airport.              |
 |     Broomfield, Colorado      |     Rocky Mountain Metropolitan Airport.     |
 |     Carlsbad, California      |          McClellan-Palomar Airport.          |
 |         Conroe, Texas         |    Conroe-North Houston Regional Airport.    |
@@ -27,6 +28,7 @@
 |       Hillsboro, Oregon       |              Hillsboro Airport.              |
 |    Johnson City, New York     |         Greater Binghamton Airport.          |
 |       Kennesaw, Georgia       |     Cobb County Airport-McCollum Field.      |
+|       Lakeland, Florida       |    Lakeland Linder International Airport.    |
 |       Lansing, Michigan       |    Capital Region International Airport.     |
 |       Leesburg, Florida       |       Leesburg International Airport.        |
 |      Lexington, Kentucky      |             Blue Grass Airport.              |
@@ -42,6 +44,8 @@
 |    Moses Lake, Washington     |     Grant County International Airport.      |
 | Myrtle Beach, South Carolina  |     Myrtle Beach International Airport.      |
 |        Naples, Florida        |          Naples Municipal Airport.           |
+|     New Windsor, New York     |   New York Stewart International Airport.    |
+|      Ontario, California      |        Ontario International Airport.        |
 |       Orlando, Florida        |          Orlando Executive Airport.          |
 |   Palm Springs, California    |     Palm Springs International Airport.      |
 |     Rochester, Minnesota      |       Rochester International Airport.       |

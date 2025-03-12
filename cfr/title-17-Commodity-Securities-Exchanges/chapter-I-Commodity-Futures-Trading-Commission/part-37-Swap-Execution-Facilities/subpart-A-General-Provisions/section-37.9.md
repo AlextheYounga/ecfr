@@ -25,3 +25,17 @@
 (c) *Execution methods for permitted transactions.* (1) *Permitted transaction* means any transaction not involving a swap that is subject to the trade execution requirement in section 2(h)(8) of the Act.
 
 (2) *Execution methods.* A swap execution facility may offer any method of execution for each Permitted Transaction.
+
+(d) *Counterparty anonymity.* (1) Except as otherwise required under the Act or the Commission's regulations, a swap execution facility shall not directly or indirectly, including through a third-party service provider, disclose the identity of a counterparty to a swap that is executed anonymously and intended to be cleared.
+
+(2) A swap execution facility shall establish and enforce rules that prohibit any person from directly or indirectly, including through a third-party service provider, disclosing the identity of a counterparty to a swap that is executed anonymously and intended to be cleared.
+
+(3) For purposes of paragraphs (d)(1) and (2) of this section, “executed anonymously” shall include a swap that is pre-arranged or pre-negotiated anonymously, including by a participant of the swap execution facility.
+
+(4) For a package transaction that includes a component transaction that is not a swap intended to be cleared, disclosing the identity of a counterparty shall not violate paragraph (d)(1) or (2) of this section. For purposes of this paragraph, a “package transaction” consists of two or more component transactions executed between two or more counterparties where:
+
+(i) Execution of each component transaction is contingent upon the execution of all other component transactions; and
+
+(ii) The component transactions are priced or quoted together as one economic transaction with simultaneous or near-simultaneous execution of all components.
+
+[78 FR 33582, June 4, 2013, as amended at 85 FR 44707, July 24, 2020]

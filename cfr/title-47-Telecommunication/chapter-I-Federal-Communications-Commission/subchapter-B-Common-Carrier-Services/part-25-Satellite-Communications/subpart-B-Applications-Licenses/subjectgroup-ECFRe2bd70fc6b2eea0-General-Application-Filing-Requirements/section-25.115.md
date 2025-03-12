@@ -138,9 +138,9 @@
 
 (e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraphs (a)(5) through (10) or (g) or (j) of this section.
 
-(f) *NGSO FSS earth stations in 10.7-29.1 GHz.* (1) An application for an NGSO FSS earth station license in the 10.7-29.1 GHz band must include the certification described in § 25.146(a)(2).
+(f) *NGSO FSS earth stations in 10.7-30.0 GHz.* (1) An application for an NGSO FSS earth station license in the 10.7-30.0 GHz band must include the certification described in § 25.146(a)(2).
 
-(2) Individual or blanket license applications may be filed for operation in the 10.7-12.7 GHz, 14-14.5 GHz, 17.8-18.6 GHz, 18.8-19.4 GHz, 19.6-20.2 GHz, or 28.35-29.1 GHz bands; however, blanket licensing in the 10.7-11.7 GHz, 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to the fixed service.
+(2) Individual or blanket license applications may be filed for operation in the 10.7-12.7 GHz, 14-14.5 GHz, 17.8-18.6 GHz, 18.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, or 29.5-30.0 GHz bands; however, ESIMs cannot operate in the 28.35-28.4 GHz band and blanket licensing in the 10.7-11.7 GHz, 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to current and future systems operating in the fixed service.
 
 (3) Individual license applications only may be filed for operation in the 12.75-13.15 GHz, 13.2125-13.25 GHz, 13.75-14 GHz, or 27.5-28.35 GHz bands.
 
@@ -160,7 +160,7 @@
 
 (vi) For antennas for which gain measurements are made pursuant to § 25.132(b)(1)(iv), the EIRP density plots specified in paragraphs (g)(1)(i) through (v) of this section must be provided over the specified angular ranges in two orthogonal planes, one of which is tangent to the GSO arc and with the antenna operating at its maximum skew angle, which the applicant must specify.
 
-(vii) The relevant off-axis EIRP density envelopes in § 25.218 or § 25.223 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
+(vii) The relevant off-axis EIRP density envelopes in § 25.218 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
 
 (viii) The showing must include a supplemental table for each off-axis angular range in which the relevant EIRP density envelope will be exceeded, specifying angular coordinates in degrees off-axis and corresponding calculated off-axis EIRP density at 0.2° increments over the angular range in which the routine envelope will be exceeded and one degree on each side of that range.
 
@@ -184,7 +184,7 @@
 
 (3) Applications must include the following information:
 
-(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
 
 (ii) An exhibit describing the geographic area(s) in which the ESVs will operate.
 
@@ -200,7 +200,7 @@
 
 (3) Applications must include the following information:
 
-(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
 
 (ii) An exhibit describing the geographic area(s) in which the ESIMs will operate.
 
@@ -216,7 +216,7 @@
 
 (3) Applications must include the following information:
 
-(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an ESIM system is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
 
 (ii) An exhibit describing the geographic area(s) in which the ESIMs will operate.
 
@@ -224,7 +224,13 @@
 
 (iv) Applicants for ESIMs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
 
-(o) [Reserved]
+(o) The requirements in this paragraph apply to applications for ESIMs operation with NGSO satellites in the Fixed-Satellite Service, in addition to the requirements in paragraphs (a)(1), (a)(5), and (i) of this section:
+
+(1) An exhibit describing the geographic area(s) in which the ESIMs will operate and the location of hub and/or gateway stations.
+
+(2) The point of contact information referred to in § 25.228(e)(2), (f), or (g)(1) as appropriate.
+
+(3) Applicants for ESIMs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
 
 (p) The licensee and grantees shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter. *See* § 1.1307(b)(5)(ii).
 

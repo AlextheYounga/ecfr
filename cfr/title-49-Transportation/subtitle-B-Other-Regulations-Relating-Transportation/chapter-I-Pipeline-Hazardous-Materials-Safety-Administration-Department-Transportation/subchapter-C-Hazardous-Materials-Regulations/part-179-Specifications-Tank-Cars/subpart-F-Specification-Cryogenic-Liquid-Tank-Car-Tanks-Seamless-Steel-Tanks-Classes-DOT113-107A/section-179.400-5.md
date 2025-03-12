@@ -1,5 +1,7 @@
 ##### § 179.400-5 Materials. #####
 
+Link to an amendment published at 85 FR 45030, July 24, 2020.
+
 (a) Stainless steel of ASTM A 240/A 240M (IBR, see § 171.7 of this subchapter), Type 304 or 304L must be used for the inner tank and its appurtenances, as specified in AAR Specifications for Tank Cars, appendix M (IBR, see § 171.7 of this subchapter), and must be -
 
 (1) In the annealed condition prior to fabrication, forming and fusion welding;

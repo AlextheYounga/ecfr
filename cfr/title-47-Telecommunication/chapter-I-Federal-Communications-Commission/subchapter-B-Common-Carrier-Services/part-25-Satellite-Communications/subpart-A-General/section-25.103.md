@@ -42,11 +42,11 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 (2) With one or more stations of the same kind by means of one or more reflecting satellites or other objects in space. (RR)
 
-*Earth Station Aboard Aircraft (ESAA).* An earth station operating aboard an aircraft that receives from and transmits to geostationary-orbit Fixed-Satellite Service space stations.
+*Earth Station Aboard Aircraft (ESAA).* An earth station operating aboard an aircraft that receives from and transmits to Fixed-Satellite Service space stations.
 
 *Earth Station in Motion (ESIM).* A term that collectively designates ESV, VMES and ESAA earth stations, as defined in this section.
 
-*Earth Station on Vessel (ESV).* An earth station onboard a craft designed for traveling on water, receiving from and transmitting to geostationary-orbit Fixed-Satellite Service space stations.
+*Earth Station on Vessel (ESV).* An earth station onboard a craft designed for traveling on water, receiving from and transmitting to Fixed-Satellite Service space stations.
 
 *Equivalent diameter.* When circular aperture reflector antennas are employed, the size of the antenna is generally expressed as the diameter of the antenna's main reflector. When non-reflector or non-circular-aperture antennas are employed, the equivalent diameter is the diameter of a hypothetical circular-aperture antenna with the same aperture area as the actual antenna. For example, an elliptical aperture antenna with major axis *a* and minor axis *b* will have an equivalent diameter of [*a* × *b*]1/2. A rectangular aperture antenna with length *l* and width *w* will have an equivalent diameter of [4(*l* × *w*)/π]1/2.
 
@@ -106,7 +106,7 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Radiodetermination-Satellite Service.* A radiocommunication service for the purpose of radiodetermination involving the use of one of more space stations. This service may also include feeder links necessary for its own operation. (RR)
 
-*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations that satisfy the criteria in § 25.211(d), § 25.212(c), § 25.212(d), § 25.212(e), § 25.212(f), § 25.218, or § 25.223(b), include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
+*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations that satisfy the criteria in § 25.211(d), § 25.212(c) through (f), or § 25.218, include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
 
 *Satellite Digital Audio Radio Service (SDARS).* A radiocommunication service in which audio programming is digitally transmitted by one or more space stations directly to fixed, mobile, and/or portable stations, and which may involve complementary repeating terrestrial transmitters and telemetry, tracking and command facilities.
 
@@ -132,6 +132,6 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.211(d), § 25.212(c), (d), (e), or (f), or § 25.218.
 
-*Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States.
+*Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020]

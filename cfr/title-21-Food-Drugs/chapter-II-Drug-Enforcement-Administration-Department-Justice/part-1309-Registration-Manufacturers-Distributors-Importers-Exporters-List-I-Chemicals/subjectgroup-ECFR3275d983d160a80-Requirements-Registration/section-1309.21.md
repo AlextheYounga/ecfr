@@ -1,5 +1,7 @@
 ##### § 1309.21 Persons required to register. #####
 
+Link to an amendment published at 85 FR 44734, July 24, 2020.
+
 (a) Unless exempted by law or under §§ 1309.24 through 1309.26 or §§ 1310.12 through 1310.13 of this chapter, the following persons must annually obtain a registration specific to the List I chemicals to be handled:
 
 (1) Every person who manufactures or imports or proposes to manufacture or import a List I chemical or a drug product containing ephedrine, pseudoephedrine, or phenylpropanolamine.

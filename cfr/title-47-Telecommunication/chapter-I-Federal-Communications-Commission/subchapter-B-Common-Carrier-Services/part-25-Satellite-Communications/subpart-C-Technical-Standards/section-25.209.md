@@ -104,7 +104,7 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section.
 
 (e) An earth station using asymmetrical antennas without skew angle adjustment capability must comply with the gain values specified in paragraph (a)(1) of this section, in the plane orthogonal to the to the main plane of the antenna, or, alternatively, in the plane corresponding to the maximum skew angle experienced at any location at which the earth station may be located.
 
-(f) A GSO FSS earth station with an antenna that does not conform to the applicable standards in paragraphs (a) and (b) of this section will be authorized only if the applicant demonstrates that the antenna will not cause unacceptable interference. This demonstration must show that the transmissions of the earth station comport with the requirements in § 25.218 or § 25.223, or the applicant must demonstrate that the operations of the earth station have been coordinated under § 25.220.
+(f) A GSO FSS earth station with an antenna that does not conform to the applicable standards in paragraphs (a) and (b) of this section will be authorized only if the applicant demonstrates that the antenna will not cause unacceptable interference. This demonstration must show that the transmissions of the earth station comport with the requirements in § 25.218 or the applicant must demonstrate that the operations of the earth station have been coordinated under § 25.220.
 
 (g) [Reserved]
 
@@ -115,4 +115,4 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section.
 |29-25log10(θ)|dBi| for 1° ≤ θ ≤ 36°. |
 |     −10     |dBi|for 36° ≤ θ ≤ 180°.|
 
-Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelope may be exceeded by up to 3 dB in 10% of the range of θ angles from ±7-180°.[48 FR 40255, Sept. 6, 1983, as amended at 50 FR 2675, Jan. 18, 1985; 50 FR 39004, Sept. 26, 1985; 58 FR 13420, Mar. 11, 1993; 66 FR 10630, Feb. 16, 2001; 70 FR 32255, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 73 FR 70901, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 8427, Feb. 6, 2013; 78 FR 14927, Mar. 8, 2013; 79 FR 8322, Feb. 12, 2014; 81 FR 55336, Aug. 18, 2016; 83 FR 34491, July 20, 2018; 84 FR 53655, Oct. 8, 2019]
+Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelope may be exceeded by up to 3 dB in 10% of the range of θ angles from ±7-180°.[48 FR 40255, Sept. 6, 1983, as amended at 50 FR 2675, Jan. 18, 1985; 50 FR 39004, Sept. 26, 1985; 58 FR 13420, Mar. 11, 1993; 66 FR 10630, Feb. 16, 2001; 70 FR 32255, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 73 FR 70901, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 8427, Feb. 6, 2013; 78 FR 14927, Mar. 8, 2013; 79 FR 8322, Feb. 12, 2014; 81 FR 55336, Aug. 18, 2016; 83 FR 34491, July 20, 2018; 84 FR 53655, Oct. 8, 2019; 85 FR 44787, July 24, 2020]

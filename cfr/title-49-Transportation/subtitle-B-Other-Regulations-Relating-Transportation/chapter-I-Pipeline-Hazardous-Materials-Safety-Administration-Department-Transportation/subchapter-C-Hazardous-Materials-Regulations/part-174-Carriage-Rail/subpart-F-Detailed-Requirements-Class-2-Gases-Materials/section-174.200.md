@@ -1,5 +1,7 @@
 ##### § 174.200 Special handling requirements. #####
 
+Link to an amendment published at 85 FR 45030, July 24, 2020.
+
 (a) Division 2.1 (flammable gas) materials may not be loaded, transported, or stored in a rail car equipped with any type of lighted heater or open-flame device, or in a rail car equipped with any apparatus or mechanism utilizing an internal combustion engine in its operation.
 
 (b) Division 2.1 (flammable gas) materials may not be loaded in a truck body or trailer equipped with any type of lighted heater or any automatic heating or refrigerating apparatus when such truck bodies or trailers are loaded on flatcars except as provided in paragraph (c) of this section.

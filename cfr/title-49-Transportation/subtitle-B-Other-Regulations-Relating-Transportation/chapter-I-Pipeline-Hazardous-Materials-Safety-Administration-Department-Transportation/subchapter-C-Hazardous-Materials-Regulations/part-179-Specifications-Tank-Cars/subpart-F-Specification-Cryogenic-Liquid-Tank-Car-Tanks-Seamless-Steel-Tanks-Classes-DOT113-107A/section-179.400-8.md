@@ -1,5 +1,7 @@
 ##### § 179.400-8 Thickness of plates. #####
 
+Link to an amendment published at 85 FR 45030, July 24, 2020.
+
 (a) The minimum wall thickness, after forming, of the inner shell and any 2:1 ellipsoidal head for the inner tank must be that specified in § 179.401-1, or that calculated by the following formula, whichever is greater:
 
 t = Pd / 2SEWhere:t = minimum thickness of plate, after forming, in inches;P = minimum required bursting pressure in psig;d = inside diameter, in inches;S = minimum tensile strength of the plate material, as prescribed in AAR Specifications for Tank Cars, appendix M, Table M1 (IBR, see § 171.7 of this subchapter), in psi;E = 0.9, a factor representing the efficiency of welded joints, except that for seamless heads, E = 1.0.

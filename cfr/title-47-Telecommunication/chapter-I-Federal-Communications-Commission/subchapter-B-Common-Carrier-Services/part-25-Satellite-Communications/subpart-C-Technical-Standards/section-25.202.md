@@ -36,9 +36,9 @@
 
 12.2-12.7 GHz: Space-to-Earth.12.2-12.7 GHz: Space-to-Earth.
 
-(8) The following frequencies are available for use by ESVs:
+(8) The following frequencies are available for use by Earth Stations on Vessels (ESVs) communicating with GSO FSS space stations, subject to the provisions in § 2.106 of this chapter:
 
-3700-4200 MHz (space-to-Earth)5925-6425 MHz (Earth-to-space)10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
+3700-4200 MHz (space-to-Earth)5925-6425 MHz (Earth-to-space)
 
 (9) The following frequencies are available for use by the Broadcasting-Satellite Service after 1 April 2007:
 
@@ -54,9 +54,15 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 
 10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
 
-(11) The following frequencies are available for use by Earth Stations Aboard Aircraft (ESAAs):
+(i) The following frequencies are available for use by Earth Stations in Motion (ESIMs) communicating with GSO FSS space stations, subject to the provisions in § 2.106 of this chapter:
 
-10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
+10.7-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)17.8-18.3 GHz (space-to-Earth)18.3-18.8 GHz (space-to-Earth)18.8-19.3 GHz (space-to-Earth)19.3-19.4 GHz (space-to-Earth)19.6-19.7 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)28.6-29.1 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
+
+(ii) The following frequencies are available for use by Earth Stations in Motion (ESIMs) communicating with NGSO FSS space stations, subject to the provisions in § 2.106 of this chapter:
+
+10.7-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)17.8-18.3 GHz (space-to-Earth)18.3-18.6 GHz (space-to-Earth)18.8-19.3 GHz (space-to-Earth)19.3-19.4 GHz (space-to-Earth)19.6-19.7 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.4-28.6 GHz (Earth-to-space)28.6-29.1 GHz (Earth-to-space)29.5-30.0 GHz (Earth-to-space)
+
+(11) [Reserved]
 
 (12) The following frequencies are available for use by the mobile-satellite service (Earth-to-space) for the reception of Automatic Identification Systems (AIS) broadcast messages from ships:
 

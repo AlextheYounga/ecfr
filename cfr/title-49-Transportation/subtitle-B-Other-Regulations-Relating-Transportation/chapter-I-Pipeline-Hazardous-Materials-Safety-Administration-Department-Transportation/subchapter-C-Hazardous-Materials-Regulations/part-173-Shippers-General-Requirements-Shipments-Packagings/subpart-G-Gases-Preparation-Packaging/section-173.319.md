@@ -1,5 +1,7 @@
 ##### § 173.319 Cryogenic liquids in tank cars. #####
 
+Link to an amendment published at 85 FR 45029, July 24, 2020.
+
 (a) *General requirements.* (1) A tank car containing a flammable cryogenic liquid may not be shipped unless it was loaded by, or with the consent of, the owner of the tank car.
 
 (2) The amount of flammable cryogenic liquid loaded into a tank car must be determined, either by direct measurement or by calculation based on weight, to verify that the tank has not been filled to a level in excess of the limits specified in paragraph (d)(2) of this section. The weight of any flammable cryogenic liquid loaded, except hydrogen, must be checked by use of scales after disconnecting the loading line.

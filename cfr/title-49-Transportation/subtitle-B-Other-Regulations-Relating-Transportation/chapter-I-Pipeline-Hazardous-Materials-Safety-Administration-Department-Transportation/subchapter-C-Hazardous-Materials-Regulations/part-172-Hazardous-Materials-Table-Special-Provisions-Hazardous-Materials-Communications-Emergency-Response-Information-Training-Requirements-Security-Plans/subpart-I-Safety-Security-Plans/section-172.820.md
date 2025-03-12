@@ -1,5 +1,7 @@
 ##### § 172.820 Additional planning requirements for transportation by rail. #####
 
+Link to an amendment published at 85 FR 45029, July 24, 2020.
+
 (a) *General.* Each rail carrier transporting in commerce one or more of the following materials is subject to the additional safety and security planning requirements of this section:
 
 (1) More than 2,268 kg (5,000 lbs) in a single carload of a Division 1.1, 1.2 or 1.3 explosive;
