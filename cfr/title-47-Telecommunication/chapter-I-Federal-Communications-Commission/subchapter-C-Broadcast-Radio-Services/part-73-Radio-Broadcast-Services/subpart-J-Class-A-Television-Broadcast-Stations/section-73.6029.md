@@ -126,4 +126,4 @@
 
 (5) Next Gen TV stations may choose whether to provide notice as required by this section either by a letter notification or electronically via email if the relevant MVPD agrees to receive such notices by email. Letter notifications to MVPDs must be sent by certified mail, return receipt requested to the MVPD's address in the FCC's Online Public Inspection File (OPIF), if the MVPD has an online file. For cable systems that do not have an online file, notices may be sent to the cable system's official address of record provided in the system's most recent filing in the FCC's Cable Operations and Licensing System (COALS). For MVPDs with no official address in OPIF or COALS, the letter must be sent to the MVPD's official corporate address registered with their State of incorporation.
 
-[83 FR 5024, Feb. 2, 2018]Effective Date Note:At 83 FR 5024, Feb. 2, 2018, § 73.6029 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[83 FR 5024, Feb. 2, 2018]

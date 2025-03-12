@@ -1,5 +1,7 @@
 ##### § 64.2401 Truth-in-Billing Requirements. #####
 
+Link to an amendment published at 83 FR 33143, July 17, 2018.
+
 (a) *Bill organization.* Telephone bills shall be clearly organized, and must comply with the following requirements:
 
 (1) The name of the service provider associated with each charge must be clearly and conspicuously identified on the telephone bill.

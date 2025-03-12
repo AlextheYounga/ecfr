@@ -6,7 +6,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *ATCA Certificate of Eligibility (COE)* means the certificate that must accompany any applicable shipment of fish pursuant to a finding under 16 U.S.C. 971d (c)(4) or (c)(5).
 
-*Atlantic Aggregated LCS* means one of the following species, or parts thereof, as listed in table 1 of appendix A of this part: Atlantic blacktip, bull, lemon, nurse, silky, spinner, and tiger.
+*Atlantic Aggregated LCS* means one of the following species, or parts thereof, as listed in Table 1 of appendix A to this part: Atlantic blacktip, bull, lemon, nurse, silky, spinner, and tiger.
 
 *Atlantic HMS* means Atlantic tunas, billfish, sharks, and swordfish.
 
@@ -40,7 +40,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Circle hook* means a fishing hook originally designed and manufactured so that the point is turned perpendicularly back to the shank to form a generally circular, or oval, shape.
 
-*CK* means the length of a fish measured along the body contour, i.e., a curved measurement, from the point on the cleithrum that provides the shortest possible measurement along the body contour to the anterior portion of the caudal keel. The cleithrum is the semicircular bony structure at the posterior edge of the gill opening.
+*Cleithrum to Caudal Keel* or *CK* measurement means the length of a fish measured along the body contour, *i.e.,* a curved measurement, from the point on the cleithrum that provides the shortest possible measurement along the body contour to the anterior portion of the caudal keel. The cleithrum is the semicircular bony structure at the posterior edge of the gill opening.
 
 *Convention* means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro, Brazil, on May 14, 1966, 20 U.S.T. 2887, TIAS 6767, including any amendments or protocols thereto, which are binding upon the United States.
 
@@ -56,7 +56,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *DeSoto Canyon closed area* means the area within the Gulf of Mexico bounded by straight lines connecting the following coordinates in the order stated: 30°00′ N. lat., 88°00′ W. long.; 30°00′ N. lat., 86°00′ W. long.; 28°00′ N. lat., 86°00′ W. long.; 28°00′ N. lat., 84°00′ W. long.; 26°00′ N. lat., 84°00′ W. long.; 26°00′ N. lat., 86°00′ W. long.; 28°00′ N. lat., 86°00′ W. long.; 28°00′ N. lat., 88°00′ W. long.; 30°00′ N. lat., 88°00′ W. long.
 
-*Display permit* means a permit issued in order to catch and land HMS for the purpose of public display pursuant to § 635.32.
+*Display permit* means a permit issued in order to catch and land HMS for the purpose of public display pursuant to § 635.32(d).
 
 *Division Chief* means the Chief, Highly Migratory Species Management Division, NMFS (F/SF1), 1315 East-West Highway, Silver Spring, MD, 20910; (301) 427-8503.
 
@@ -72,7 +72,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Edges 40 Fathom Contour closed area* means a parallelogram-shaped area in the Gulf of Mexico bounded by straight lines connecting the following coordinates in the order stated: 28° 51' N. lat., 85° 16' W. long.; 28° 51' N. lat., 85° 04' W. long.; 28° 14' N. lat., 84° 42' W. long.; 28° 14' N. lat., 84° 54' W. long.
 
-*EFP* means an exempted fishing permit issued pursuant to § 600.745 of this chapter or to § 635.32.
+*EFP* means an exempted fishing permit issued pursuant to § 600.745 of this chapter or to § 635.32(c).
 
 *Eviscerated* means a fish that has only the alimentary organs removed.
 
@@ -80,7 +80,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Exportation* has the same general meaning as 19 CFR 101.1 and generally refers to a severance of goods from the mass of things belonging to one country with the intention of uniting them to the mass of things belonging to some foreign country. For purposes of this subpart, a shipment between the United States and its insular possessions is not an export.
 
-*Exporter*, for purposes of this subpart, is the principal party in interest, meaning the party that receives the primary benefit, monetary or otherwise, of the export transaction. For exports from the United States, the exporter is the U.S. principal party in interest, as identified in part 30 of title 15 of the CFR. An exporter is subject to the requirements of this subpart, even if exports are exempt from statistical reporting requirements under Part 30 of title 15 of the CFR.
+*Exporter,* for purposes of this subpart, is the principal party in interest, meaning the party that receives the primary benefit, monetary or otherwise, of the export transaction. For exports from the United States, the exporter is the U.S. principal party in interest, as identified in 15 CFR part 30. An exporter is subject to the requirements of this subpart, even if exports are exempt from statistical reporting requirements under 15 CFR part 30.
 
 *Federal Atlantic Commercial Shark Permit* means any of the commercial shark permits issued pursuant to § 635.4.
 
@@ -94,13 +94,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Fishing vessel* means any vessel engaged in fishing, processing, or transporting fish loaded on the high seas, or any vessel outfitted for such activities.
 
-*Fishing year means* -
-
-(1) For Atlantic tunas and swordfish, before January 1, 2008 - June 1 through May 31. On or after January 1, 2008 - January 1 through December 31.
-
-(2) For Atlantic billfish, On or after January 1, 2007 - January 1 through December 31.
-
-(3) For sharks - January 1 through December 31.
+*Fishing year* means January 1 through December 31.
 
 *FL (fork length)* means the straight line measurement along the length of the fish from the tip of the upper jaw to the fork of the tail.
 
@@ -120,9 +114,9 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Green-stick gear* means an actively trolled mainline attached to a vessel and elevated or suspended above the surface of the water with no more than 10 hooks or gangions attached to the mainline. The suspended line, attached gangions and/or hooks, and catch may be retrieved collectively by hand or mechanical means. Green-stick does not constitute a pelagic longline or a bottom longline as defined in this section.
 
-*Gulf of Mexico Aggregated LCS* means one of the following species, or parts thereof, as listed in Table 1 of appendix A of this part: bull, lemon, nurse, silky, spinner, and tiger.
+*Gulf of Mexico Aggregated LCS* means one of the following species, or parts thereof, as listed in Table 1 of appendix A to this part: Bull, lemon, nurse, silky, spinner, and tiger.
 
-*Hammerhead Shark(s)* means great, scalloped, and smooth hammerhead shark species, or parts thereof, as listed in Table 1 in Appendix A of this part.
+*Hammerhead shark(s)* means great, scalloped, and smooth hammerhead shark species, or parts thereof, as listed in Table 1 of appendix A to this part.
 
 *Handgear* means handline, harpoon, rod and reel, bandit gear, buoy gear, or speargun gear.
 
@@ -130,7 +124,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *High-flyer* means a flag, radar reflector or radio beacon transmitter, suitable for attachment to a longline to facilitate its location and retrieval.
 
-*Highly migratory species (HMS)* means bluefin, bigeye, yellowfin, albacore, and skipjack tunas; swordfish; sharks (listed in appendix A to this part); white marlin; blue marlin; sailfish; longbill spearfish; and roundscale spearfish.
+*Highly migratory species (HMS)* means bluefin, bigeye, yellowfin, albacore, and skipjack tunas; swordfish; sharks (listed in Table 1 of appendix A to this part); white marlin; blue marlin; sailfish; longbill spearfish; and roundscale spearfish.
 
 *Importer*, for purposes of this subpart, means the principal party responsible for the import of product into a country. For imports into the United States, and for purposes of this subpart, “importer” means the consignee as identified on entry documentation or any authorized, equivalent electronic medium required for release of shipments, or any authorized equivalent entry documentation from the customs authority of the United States or the separate customs territory of a U.S. insular possession. If a consignee is not declared, then the importer of record is considered to be the consignee.
 
@@ -138,7 +132,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *LAP* means a limited access permit issued pursuant to § 635.4.
 
-*Large coastal shark (LCS)* means one of the species, or a part thereof, listed in paragraph (a) of table 1 in appendix A to this part.
+*Large coastal shark (LCS)* means one of the species, or a part thereof, listed in heading A, Large Coastal Sharks, of Table 1 of appendix A to this part.
 
 *Large medium BFT* means a BFT measuring at least 73 inches (185 cm) and less than 81 inches (206 cm) CFL.
 
@@ -172,7 +166,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Net check* refers to a visual inspection of a shark gillnet where the vessel operator transits the length of the gear and inspects it either with a spotlight or by pulling up the gear.
 
-*Non-blacknose SCS* means one of the species, or part thereof, listed in section B of table 1 in appendix A to this part other than the blacknose shark (*Carcharhinus acronotus*).
+*Non-blacknose SCS* means one of the species, or part thereof, listed in heading B, Small Coastal Sharks, of Table 1 of appendix A to this part other than the blacknose shark.
 
 *North Atlantic swordfish or North Atlantic swordfish stock* means those swordfish occurring in the Atlantic Ocean north of 5° N. lat.
 
@@ -188,15 +182,15 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Pelagic longline* means a longline that is suspended by floats in the water column and that is not fixed to or in contact with the ocean bottom. For the purposes of this part, a vessel is considered to have pelagic longline gear on board when a power-operated longline hauler, a mainline, floats capable of supporting the mainline, and leaders (gangions) with hooks are on board. Removal of any of these elements constitutes removal of pelagic longline gear.
 
-*Pelagic shark* means one of the species, or a part thereof, listed in paragraph (c) of table 1 in appendix A to this part.
+*Pelagic shark* means one of the species, or a part thereof, listed in heading C, Pelagic Sharks, of Table 1 of appendix A to this part.
 
 *PFCFL* (pectoral fin curved fork length) means the length of a beheaded fish from the dorsal insertion of the pectoral fin to the fork of the tail measured along the contour of the body in a line that runs along the top of the pectoral fin and the top of the caudal keel.
 
-*Prohibited shark* means one of the species, or a part thereof, listed in paragraph (d) of table 1 in appendix A to this part.
+*Prohibited shark* means one of the species, or a part thereof, listed in heading D, Prohibited Sharks, of Table 1 of appendix A to this part.
 
 *Reporting week* means the period of time beginning at 0001 local time on Sunday and ending at 2400 hours local time the following Saturday.
 
-*Research LCS* means one of the species, or part thereof, listed under heading A of table 1 in appendix A of this part, other than sandbar sharks.
+*Research LCS* means one of the species, or part thereof, listed in heading A, Large Coastal Sharks, of Table 1 of appendix A to this part, other than sandbar sharks.
 
 *Restricted-fishing day (RFD)* means a day, beginning at 0000 hours and ending at 2400 hours local time, during which a person aboard a vessel for which a General category permit for Atlantic Tunas has been issued may not fish for, possess, or retain a BFT.
 
@@ -214,11 +208,11 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Sink gillnet* means a gillnet that is designed to be or is fished on or near the ocean bottom in the lower third of the water column by means of a weight line or enough weights and/or anchors that the bottom of the gillnet sinks to, on, or near the ocean bottom.
 
-*Small coastal shark (SCS)* means one of the species, or a part thereof, listed in paragraph (b) of table 1 in appendix A to this part.
+*Small coastal shark (SCS)* means one of the species, or a part thereof, listed in heading B, Small Coastal Sharks, of Table 1 of appendix A to this part.
 
 *Small medium BFT* means a BFT measuring at least 59 inches (150 cm) and less than 73 inches (185 cm) CFL.
 
-*Smoothhound shark(s)* means one of the species, or part thereof, listed in section E of Table 1 in Appendix A to this part.
+*Smoothhound shark(s)* means one of the species, or part thereof, listed in heading E, Smoothhound Sharks, of Table 1 of appendix A to this part.
 
 *South Atlantic swordfish or south Atlantic swordfish stock* means those swordfish occurring in the Atlantic Ocean south of 5° N. lat.
 
@@ -242,4 +236,4 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Young school BFT* means an Atlantic BFT measuring less than 27 inches (69 cm) CFL.
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

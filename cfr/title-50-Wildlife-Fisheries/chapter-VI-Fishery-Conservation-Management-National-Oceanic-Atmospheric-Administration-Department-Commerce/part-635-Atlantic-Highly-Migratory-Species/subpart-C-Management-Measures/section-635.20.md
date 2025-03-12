@@ -2,7 +2,7 @@
 
 (a) *General.* The CFL will be the sole criterion for determining the size and/or size class of whole (head on) Atlantic tunas.
 
-(b) *BFT size classes.* The size class of a BFT found with the head removed shall be determined using pectoral fin curved fork length (PFCFL) multiplied by a conversion factor of 1.35. The CFL, as determined by conversion of the PFCFL, will be the sole criterion for determining the size class of a beheaded BFT. The conversion factor may be adjusted after consideration of additional scientific information and fish measurement data, and will be made effective by filing with the Office of the Federal Register for publication notification of the adjustment.
+(b) *BFT size classes.* If the head of a BFT is no longer attached, the size class of the BFT shall be determined using pectoral fin curved fork length (PFCFL) multiplied by a conversion factor of 1.35. The CFL, as determined by conversion of the PFCFL, will be the sole criterion for determining the size class of a beheaded BFT. The conversion factor may be adjusted after consideration of additional scientific information and fish measurement data, and will be made effective by filing notification of the adjustment with the Office of the Federal Register for publication.
 
 (c) *BFT, bigeye tuna, and yellowfin tuna.* (1) No person shall take, retain, or possess a BFT, bigeye tuna, or yellowfin tuna in the Atlantic Ocean that is less than 27 inches (69 cm) CFL;
 
@@ -46,4 +46,4 @@
 
 (5) A swordfish, or part thereof, will be monitored for compliance with the minimum size requirement of this section from the time it is landed in, or imported into, the United States up to, and including, the point of first transaction in the United States.
 
-[64 FR 29135, May 28, 1999, as amended at 64 FR 37704, July 13, 1999; 66 FR 42804, Aug. 15, 2001; 68 FR 714, Jan. 7, 2003; 68 FR 74785, Dec. 24, 2003; 69 FR 67284, Nov. 17, 2004; 71 FR 58167, Oct. 2, 2006; 74 FR 66587, Dec. 19, 2009; 75 FR 30525, June 1, 2010; 75 FR 57701, Sept. 22, 2010; 76 FR 70066, Nov. 10, 2011; 77 FR 45280, July 31, 2012; 78 FR 40346, July 3, 2013; 80 FR 73145, Nov. 24, 2015]Effective Date Note:At 83 FR 8949, Mar. 2, 2018, § 635.20 was amended by suspending paragraph (e)(2) and by adding paragraphs (e)(6) and (7), effective Mar. 2, 2018 through Aug. 29, 2018.
+[64 FR 29135, May 28, 1999, as amended at 64 FR 37704, July 13, 1999; 66 FR 42804, Aug. 15, 2001; 68 FR 714, Jan. 7, 2003; 68 FR 74785, Dec. 24, 2003; 69 FR 67284, Nov. 17, 2004; 71 FR 58167, Oct. 2, 2006; 74 FR 66587, Dec. 19, 2009; 75 FR 30525, June 1, 2010; 75 FR 57701, Sept. 22, 2010; 76 FR 70066, Nov. 10, 2011; 77 FR 45280, July 31, 2012; 78 FR 40346, July 3, 2013; 80 FR 73145, Nov. 24, 2015; 83 FR 33154, July 17, 2018]Effective Date Note:At 83 FR 8949, Mar. 2, 2018, § 635.20 was amended by suspending paragraph (e)(2) and by adding paragraphs (e)(6) and (7), effective Mar. 2, 2018 through Aug. 29, 2018.

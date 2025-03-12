@@ -36,8 +36,8 @@
 
 (3) A person aboard a vessel issued or required to be issued a valid directed handgear LAP for Atlantic swordfish or an HMS Commercial Caribbean Small Boat permit may not fish for swordfish with any gear other than handgear. A swordfish will be deemed to have been harvested by longline when the fish is on board or offloaded from a vessel fishing with or having on board longline gear. Only vessels that have been issued a valid directed or handgear swordfish LAP or an HMS Commercial Caribbean Small Boat permit under this part may utilize or possess buoy gear.
 
-(4) Except for persons aboard a vessel that has been issued a directed, incidental, or handgear limited access swordfish permit, a Swordfish General Commercial permit, an Incidental HMS squid trawl permit, or an HMS Commercial Caribbean Small Boat permit under § 635.4, no person may fish for North Atlantic swordfish with, or possess a North Atlantic swordfish taken by, any gear other than handline or rod and reel.
+(4) Except for persons aboard a vessel that has been issued a directed, incidental, or handgear swordfish LAP, a Swordfish General Commercial permit, an Incidental HMS squid trawl permit, or an HMS Commercial Caribbean Small Boat permit under § 635.4, no person may fish for North Atlantic swordfish with, or possess a North Atlantic swordfish taken by, any gear other than handline or rod and reel.
 
 (5) A person aboard a vessel issued or required to be issued a valid Swordfish General Commercial permit may only possess North Atlantic swordfish taken from its management unit by rod and reel, handline, bandit gear, green-stick, or harpoon gear.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017; 83 FR 33154, July 17, 2018]

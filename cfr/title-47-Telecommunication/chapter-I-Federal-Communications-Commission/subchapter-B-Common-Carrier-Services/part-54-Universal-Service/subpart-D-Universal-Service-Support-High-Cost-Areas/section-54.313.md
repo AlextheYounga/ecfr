@@ -137,11 +137,3 @@
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 3. At 80 FR 4476, Jan. 27, 2015, § 54.313(a)(12) was added and (e) was revised. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-4. At 80 FR 5987, Feb. 4, 2015, § 54.313 was amended by revising paragraphs (e)(2)(iii) and (iv), adding (e)(2)(v), revising (f)(1)(i) and (ii), and revising (f)(1)(iii). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval have been given by the Office of Management and Budget.
-
-5. At 81 FR 24341. Apr. 25, 2016, § 54.313 was amended in part revising paragraphs (a)(10), (e)(1), (e)(2) introductory text,and (f)(1) introductory text, and (f)(1)(i) and (iii). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-6. At 81 FR 44449, July 7, 2016, § 54.313(e) was revised, Paragraph (e)(2) contains information collection and recordkeeping requirements and will not become effective until approval have been given by the Office of Management and Budget.
-
-7. At 81 FR 67913, Oct. 7, 2016, § 54.313(f)(1)(i) was revised and (f)(3) and (l) were added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval is given by the Office of Management and Budget.

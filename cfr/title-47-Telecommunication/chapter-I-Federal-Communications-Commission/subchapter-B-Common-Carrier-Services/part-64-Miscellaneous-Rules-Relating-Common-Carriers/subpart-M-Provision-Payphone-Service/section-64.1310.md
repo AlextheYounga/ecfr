@@ -42,4 +42,4 @@
 
 (g) Each Completing Carrier and each Intermediate Carrier must maintain verification data to support the quarterly reports submitted pursuant to paragraphs (a)(4) and (c) of this section for 27 months after the close of that quarter. This data must include the time and date that each call identified in paragraphs (a)(4) and (c) of this section was made. This data must be provided to the payphone service provider upon request.
 
-[68 FR 62755, Nov. 6, 2003, as amended at 70 FR 722, Jan. 5, 2005]Effective Date Note:At 83 FR 11428, Mar. 15, 2018, § 64.1310 was amended by revising paragraph (a)(3). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 62755, Nov. 6, 2003, as amended at 70 FR 722, Jan. 5, 2005; 83 FR 11428, Mar. 15, 2018]

@@ -1,5 +1,7 @@
 ##### 9903.201-1 CAS applicability. #####
 
+Link to an amendment published at 83 FR 33148, July 17, 2018.
+
 (a) This subsection describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. (See 9904 or 9905, as applicable.) Negotiated contracts not exempt in accordance with 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to full, modified or other types of CAS coverage. The rules for determining the applicable type of CAS coverage are in 9903.201-2.
 
 (b) The following categories of contracts and subcontracts are exempt from all CAS requirements:
