@@ -1,24 +1,24 @@
 ##### § 1.5000A-4 Computation of shared responsibility payment. #####
 
-(a) *In general.* For each taxable year, the shared responsibility payment imposed on a taxpayer in accordance with § 1.5000A-1(c) is the lesser of -
+(a) *In general.* For each taxable year, the shared responsibility payment imposed on a taxpayer in accordance with § 1.5000A-1(c) is the lesser of—
 
 (1) The sum of the monthly penalty amounts; or
 
 (2) The sum of the monthly national average bronze plan premiums for the shared responsibility family.
 
-(b) *Monthly penalty amount* - (1) *In general. Monthly penalty amount* means, for a month that a nonexempt individual is not covered under minimum essential coverage, 1/12 multiplied by the greater of -
+(b) *Monthly penalty amount*—(1) *In general. Monthly penalty amount* means, for a month that a nonexempt individual is not covered under minimum essential coverage, 1/12 multiplied by the greater of—
 
 (i) The flat dollar amount; or
 
 (ii) The excess income amount.
 
-(2) *Flat dollar amount* - (i) *In general. Flat dollar amount* means the lesser of -
+(2) *Flat dollar amount*—(i) *In general. Flat dollar amount* means the lesser of—
 
 (A) The sum of the applicable dollar amounts for all individuals included in the taxpayer's shared responsibility family; or
 
 (B) 300 percent of the applicable dollar amount (determined without regard to paragraph (b)(2)(iii) of this section) for the calendar year with or within which the taxable year ends.
 
-(ii) *Applicable dollar amount.* Except as provided in paragraphs (b)(2)(iii) and (b)(2)(iv) of this section, the applicable dollar amount is -
+(ii) *Applicable dollar amount.* Except as provided in paragraphs (b)(2)(iii) and (b)(2)(iv) of this section, the applicable dollar amount is—
 
 (A) $95 in 2014;
 
@@ -30,13 +30,13 @@
 
 (iv) *Indexing of applicable dollar amount.* In any calendar year after 2016, the applicable dollar amount is $695 as increased by the product of $695 and the cost-of-living adjustment determined under section 1(f)(3) for the calendar year. For purposes of this paragraph (b)(2)(iv), the cost-of-living adjustment is determined by substituting “calendar year 2015” for “calendar year 1992” in section 1(f)(3)(B). If any increase under this paragraph (b)(2)(iv) is not a multiple of $50, the increase is rounded down to the next lowest multiple of $50.
 
-(3) *Excess income amount* - (i) *In general. Excess income amount* means the product of -
+(3) *Excess income amount*—(i) *In general. Excess income amount* means the product of—
 
 (A) The excess of the taxpayer's household income over the taxpayer's applicable filing threshold (as defined in § 1.5000A-3(f)(2)); and
 
 (B) The income percentage.
 
-(ii) *Income percentage.* For purposes of this section, *income percentage* means -
+(ii) *Income percentage.* For purposes of this section, *income percentage* means—
 
 (A) 1.0 percent for taxable years beginning in 2013;
 
@@ -74,7 +74,7 @@ Example 5. Eighteenth birthday during the year.(i) In 2016 Taxpayers S and T are
 
 (ii) For the period January through June 2016, under paragraphs (b)(2)(ii) and (b)(2)(iii) of this section, the applicable dollar amount is $1,737.50 (($695 × 2 adults) + ($695/2) × 1 child)). Under paragraph (b)(2) of this section, the flat dollar amount is $1,737.50 (the lesser of $1,737.50 or $2,085 ($695 × 3)).
 
-(iii) For the period July through December 2016, the applicable dollar amount is $2,085 ($695 × 3). Under paragraph (b)(2)(i) of this section, the flat dollar amount is $2,085 (the lesser of $2,085 or $2,085 ($695 × 3)).. Under paragraph (b)(3) of this section, the excess income amount is $900 (($60,000−$24,000) × 0.025). Therefore, under paragraph (b)(1) of this section, for January through June the monthly penalty amount is $144.79 (the greater of $144.79 ($1,737.50/12) or $75 ($900/12)). The monthly penalty amount for July through December is $173.75 (the greater of $173.75 ($2,085/12) or $75 ($900/12)).
+(iii) For the period July through December 2016, the applicable dollar amount is $2,085 ($695 × 3). Under paragraph (b)(2)(i) of this section, the flat dollar amount is $2,085 (the lesser of $2,085 or $2,085 ($695 × 3)). Under paragraph (b)(3) of this section, the excess income amount is $900 (($60,000−$24,000) × 0.025). Therefore, under paragraph (b)(1) of this section, for January through June the monthly penalty amount is $144.79 (the greater of $144.79 ($1,737.50/12) or $75 ($900/12)). The monthly penalty amount for July through December is $173.75 (the greater of $173.75 ($2,085/12) or $75 ($900/12)).
 
 (iv) The sum of the monthly penalty amounts is $1,911.24 (($144.79 × 6) + ($173.75 × 6)). The sum of the monthly national average bronze plan premiums is $11,000 ($11,000/12 × 12). Therefore, under paragraph (a) of this section, the shared responsibility payment imposed on S and T for 2016 is $1,911.24 (the lesser of $1,911.24 or $11,000).
 

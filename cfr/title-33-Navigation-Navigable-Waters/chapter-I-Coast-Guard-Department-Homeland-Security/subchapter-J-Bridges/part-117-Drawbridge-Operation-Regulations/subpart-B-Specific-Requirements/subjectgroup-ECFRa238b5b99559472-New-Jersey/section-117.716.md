@@ -1,7 +1,5 @@
 ##### § 117.716 Delaware River. #####
 
-Link to an amendment published at 84 FR 22703, May 20, 2019.
-
 (a) The following apply to all drawbridges across the Delaware River:
 
 (1) The draws of railroad bridges need not be opened when there is a train in the bridge block approaching the bridge with the intention of crossing or within five minutes of the known time of the passage of a scheduled passenger train.
@@ -42,4 +40,6 @@ Link to an amendment published at 84 FR 22703, May 20, 2019.
 
 (7) The fixed white light will remain illuminated until the bridge reaches the fully open position. The fixed white and red lights will be positioned on the east (New Jersey) bridge abutment adjacent to the navigation span.
 
-[USCG-2016-0257, 83 FR 59311, Nov. 23, 2018]
+(c) The draw of the SR 413 (Burlington-Bristol) Bridge, mile 117.8, between Burlington, NJ and Bristol, PA, shall open on signal if at least a two-hour notice is given from June 19, 2019, through 7:59 a.m. on September 17, 2019.
+
+[USCG-2016-0257, 83 FR 59311, Nov. 23, 2018, as amended by USCG-2018-0228, 84 FR 22703, May 20, 2019]Effective Date Note:By USCG-2018-0228, 84 FR 22703, May 20, 2019, in § 117.716, paragraph (c) was added, effective until Sept. 17, 2019.
