@@ -1,8 +1,6 @@
 ##### § 642.3 Prescreen opt-out notice. #####
 
-Link to an amendment published at 86 FR 50850, Sept. 13, 2021.
-
-Any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), shall, with each written solicitation made to the consumer about the transaction, provide the consumer with the following statement, consisting of a short portion and a long portion, which shall be in the same language as the offer of credit or insurance:
+Any motor vehicle dealer that uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), shall, with each written solicitation made to the consumer about the transaction, provide the consumer with the following statement, consisting of a short portion and a long portion, which shall be in the same language as the offer of credit or insurance:
 
 (a) *Short notice.* The short notice shall be a clear and conspicuous, and simple and easy to understand statement as follows:
 
@@ -33,3 +31,5 @@ Any person who uses a consumer report on any consumer in connection with any cre
 (iv) Be in a type style that is distinct from the principal type style used on the same page, such as bolded, italicized, underlined, and/or in a color that contrasts with the color of the principal text on the page, if the solicitation is in more than one color; and
 
 (v) Be set apart from other text on the page, such as by including a blank line above and below the statement, and by indenting both the left and right margins from other text on the page.
+
+[70 FR 5032, Jan. 31, 2005, as amended at 86 FR 50850, Sept. 13, 2021]

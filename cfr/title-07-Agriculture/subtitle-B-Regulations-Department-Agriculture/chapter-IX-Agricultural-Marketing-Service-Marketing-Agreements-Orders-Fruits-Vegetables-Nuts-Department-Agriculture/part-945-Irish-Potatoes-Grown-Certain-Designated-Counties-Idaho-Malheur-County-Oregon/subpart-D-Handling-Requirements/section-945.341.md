@@ -1,22 +1,22 @@
 ##### § 945.341 Handling regulation. #####
 
-Link to an amendment published at 86 FR 50839, Sept. 13, 2021.
-
 No person shall handle any lot of potatoes unless such potatoes meet the requirements of paragraphs (a) through (d) of this section, or unless such potatoes are handled in accordance with paragraphs (e) and (f), or (g) of this section.
 
-(a) *Minimum quality requirements* - (1) *Grade - All varieties.* U.S. No. 2 or better grade.
+(a) *Minimum quality requirements*—(1) *Grade—All varieties.* U.S. No. 2 or better grade.
 
-(2) *Size* - (i) *All varieties, except Russet types.* 17/8 inches minimum diameter, unless otherwise specified on the container in connection with the grade.
+(2) *Size*—(i) *All varieties, except Russet types.* (A) 17/8 inches minimum diameter, unless otherwise specified on the container in connection with the grade.
 
-(ii) *Russet types.* 2 inches minimum diameter, or 4 ounces minimum weight: *Provided,* That at least 40 percent of the potatoes in each lot shall be 5 ounces or heavier.
+(B) Size B (11/2 to 21/4 inches diameter).
 
-(iii) *All varieties, U.S. No. 1 grade or better.* (A) Size B (11/2 to 21/4 inches diameter).
+(ii) *Russet types.* (A) 2 inches minimum diameter, or 4 ounces minimum weight: *Provided,* that at least 40 percent of the potatoes in each lot shall be 5 ounces or heavier.
 
-(B) Creamer (3/4 to 15/8 inches diameter).
+(B) Size B (11/2 to 21/4 inches diameter) if the potatoes otherwise meet requirements of U.S. No. 1 grade or better.
 
-(3) *Cleanness - All varieties.* “Fairly clean.”
+(iii) *All varieties, U.S. No. 1 grade or better.* Creamer (3/4 to 15/8 inches diameter).
 
-(b) *Minimum maturity requirements* - (1) *White Rose and red skin varieties.* Each year from August 1 through December 31, “moderately skinned”; during other periods no maturity requirements.
+(3) *Cleanness—All varieties.* “Fairly clean.”
+
+(b) *Minimum maturity requirements*—(1) *White Rose and red skin varieties.* Each year from August 1 through December 31, “moderately skinned”; during other periods no maturity requirements.
 
 (2) *All other varieties.* “Slightly skinned.”
 
@@ -130,4 +130,4 @@ The following tolerances by weight, are provided for potatoes in any lot which f
 
 (h) *Definitions.* The terms *U.S. Extra No. 1, U.S. No. 1, U.S. No. 2, Size B, fairly clean, moderately skinned,* and *slightly skinned* shall have the same meaning as when used in the United States Standards for Potatoes (7 CFR 51.1540-51.1566), including the tolerances set forth therein. The term *prepeeling* means the commercial preparation in a prepeeling plant of clean, sound, fresh potatoes by washing, peeling, or otherwise removing the outer skin, trimming, sorting, and properly treating to prevent discoloration preparatory to sale in one or more of the styles of peeled potatoes described in § 52.2422 of the United States Standards for Peeled Potatoes (7 CFR 52.2421-52.2433). The term *other processing* has the same meaning as the term appearing in the act and includes, but is not restricted to, potatoes for dehydration, chips, shoestrings, starch, and flour. It includes only that preparation of potatoes for market which involves the application of heat or cold to such an extent that the natural form or stability of the commodity undergoes a substantial change. The act of peeling, cooling, slicing, dicing, or applying material to prevent oxidation does not constitute “other processing.” The terms *Idaho Utility* grade and *Oregon Utility* grade shall have the same meaning as when used in the standards for potatoes for the respective State. Other terms used in this section shall have the same meaning as when used in Marketing Agreement No. 98 and Order No. 945, both as amended.
 
-(Secs. 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674)[47 FR 34355, Aug. 9, 1982, as amended at 52 FR 5530, Feb. 25, 1987; 52 FR 41695, Oct. 30, 1987; 53 FR 48634, Dec. 2, 1988; 57 FR 62167, Dec. 30, 1992; 59 FR 46723, Sept. 12, 1994; 60 FR 57905, Nov. 24, 1995; 65 FR 25627, May 3, 2000; 65 FR 48144, Aug. 7, 2000; 67 FR 66531, Nov. 1, 2002; 70 FR 21330, Apr. 26, 2005; 71 FR 29567, May 23, 2006; 74 FR 45734, Sept. 4, 2009; 79 FR 45675, Aug. 6, 2014; 83 FR 49779, Oct. 3, 2018]
+(Secs. 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674)[47 FR 34355, Aug. 9, 1982, as amended at 52 FR 5530, Feb. 25, 1987; 52 FR 41695, Oct. 30, 1987; 53 FR 48634, Dec. 2, 1988; 57 FR 62167, Dec. 30, 1992; 59 FR 46723, Sept. 12, 1994; 60 FR 57905, Nov. 24, 1995; 65 FR 25627, May 3, 2000; 65 FR 48144, Aug. 7, 2000; 67 FR 66531, Nov. 1, 2002; 70 FR 21330, Apr. 26, 2005; 71 FR 29567, May 23, 2006; 74 FR 45734, Sept. 4, 2009; 79 FR 45675, Aug. 6, 2014; 83 FR 49779, Oct. 3, 2018; 86 FR 50839, Sept. 13, 2021]

@@ -1,7 +1,5 @@
 ##### § 642.2 Definitions. #####
 
-Link to an amendment published at 86 FR 50850, Sept. 13, 2021.
-
 As used in this part:
 
 (a) *Simple and easy to understand* means:
@@ -30,4 +28,8 @@ As used in this part:
 
 (ii) [Reserved]
 
-(b) *Principal promotional document* means the document designed to be seen first by the consumer, such as the cover letter.
+(b) *Motor vehicle dealer* means any person excluded from Consumer Financial Protection Bureau jurisdiction as described in 12 U.S.C. 5519.
+
+(c) *Principal promotional document* means the document designed to be seen first by the consumer, such as the cover letter.
+
+[70 FR 5032, Jan. 31, 2005, as amended at 86 FR 50850, Sept. 13, 2021]
