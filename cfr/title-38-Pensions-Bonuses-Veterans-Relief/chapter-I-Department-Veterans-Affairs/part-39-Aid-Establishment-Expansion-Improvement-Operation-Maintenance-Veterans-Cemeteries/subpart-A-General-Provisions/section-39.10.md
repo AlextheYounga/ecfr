@@ -1,5 +1,7 @@
 ##### § 39.10 Cemetery requirements and prohibitions and recapture provisions. #####
 
+Link to an amendment published at 86 FR 43102, Aug. 6, 2021.
+
 (a) In order to qualify for a grant, a State or Tribal veterans cemetery must be operated solely for the interment of veterans, their spouses, surviving spouses, minor children, unmarried adult children who were physically or mentally disabled and incapable of self-support, and eligible parents of certain deceased service members.
 
 (b) Any grant under this part made on or after November 21, 1997, is made on the condition that, after the date of receipt of the grant, the State or Tribal Organization receiving the grant, subject to requirements for receipt of notice in 38 U.S.C. 2408 and 2411, will prohibit in the cemetery for which the grant is awarded the interment of the remains or the memorialization of any person:

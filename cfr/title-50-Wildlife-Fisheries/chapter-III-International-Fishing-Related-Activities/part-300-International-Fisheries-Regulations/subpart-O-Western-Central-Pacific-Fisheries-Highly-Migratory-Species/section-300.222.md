@@ -1,7 +1,5 @@
 ##### § 300.222 Prohibitions. #####
 
-Link to an amendment published at 86 FR 35659, July 7, 2021.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (a) Fail to obtain and have on board a fishing vessel a valid WCPFC Area Endorsement as required in § 300.212.
@@ -106,4 +104,8 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (yy) Fail to comply with the requirements of any temporary specification issued under § 300.228.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3355, Jan. 21, 2010; 77 FR 51714, Aug. 27, 2012; 77 FR 71512, Dec. 3, 2012; 79 FR 71331, Dec. 2, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 86 FR 31181, June 11, 2021]
+(zz) Fail to comply with the observer safety requirements in § 300.215(f).
+
+(aaa) Fail to provide pre-trip notification per requirements in § 300.215(b).
+
+[74 FR 38554, Aug. 4, 2009, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3355, Jan. 21, 2010; 77 FR 51714, Aug. 27, 2012; 77 FR 71512, Dec. 3, 2012; 79 FR 71331, Dec. 2, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 86 FR 31181, June 11, 2021; 86 FR 35659, July 7, 2021]

@@ -1,5 +1,7 @@
 ##### § 165.819 Security Zone; Sabine Bank Channel, Sabine Pass Channel and Sabine-Neches Waterway, TX. #####
 
+Link to an amendment published at 86 FR 43091, Aug. 6, 2021.
+
 (a) *Location.* (1) The following LNG facility mooring basins are designated as fixed security zones whenever LNG carriers are moored within them:
 
 (i) *Golden Pass LNG, Sabine TX:* All mooring basin waters south of a line connecting the following points - beginning at 29°45′58″ N, 093°55′40″ W; then east to a point at 29°45′52.8″ N, 093°55′20.8″ W; then bearing 120° T to the shoreline at 29°45′50″ N, 093°55′17″ W.
@@ -34,7 +36,8 @@
 
 (4) Other persons or vessels requiring entry into security zones described in this section must request permission from the Captain of the Port, Port Arthur or designated representative.
 
-(5) To request permission to enter a security zone described in this section, contact Vessel Traffic Service Port Arthur on VHF Channel 01A or 65A; by telephone at (409) 719-5070; by fax at (409) 719-5090; or contact the Captain of the Port's designated on-scene patrol vessel on VHF channel 13 or 16.
+(5) To request permission to enter a security zone described in this section, contact Vessel Traffic Service Port Arthur on VHF Channel 01A or
+65A; by telephone at (409) 719-5070; by fax at (409) 719-5090; or contact the Captain of the Port's designated on-scene patrol vessel on VHF channel 13 or 16.
 
 (6) All persons and vessels within a security zone described in this section must comply with the instructions of the Captain of the Port, Port Arthur, designated on-scene U.S. Coast Guard patrol personnel or other designated representatives. Designated on-scene U.S. Coast Guard patrol personnel include commissioned, warrant, and petty officers of the U.S. Coast Guard. Designated representatives include Federal, State, local and municipal law enforcement agencies.
 

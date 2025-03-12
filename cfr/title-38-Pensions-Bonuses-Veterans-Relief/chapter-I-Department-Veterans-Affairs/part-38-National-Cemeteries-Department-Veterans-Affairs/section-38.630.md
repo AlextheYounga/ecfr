@@ -1,5 +1,7 @@
 ##### § 38.630 Headstones and markers. #####
 
+Link to an amendment published at 86 FR 43098, Aug. 6, 2021.
+
 (a) Types of Government headstones and markers and inscriptions will be in accordance with policies approved by the Secretary.
 
 (b) Inscriptions on Government headstones, markers, and private monuments will be in accordance with policies and specifications of the Under Secretary for Memorial Affairs.

@@ -1,12 +1,10 @@
 ##### § 64.621 Interoperability and portability. #####
 
-Link to an amendment published at 86 FR 35633, July 7, 2021.
-
 (a) *General obligations of VRS providers.* (1) All Video Relay Service (VRS) users and hearing point-to-point video users must be able to place a VRS or point-to-point video call through any of the VRS providers' services, and all VRS providers must be able to receive calls from, and make calls to, any VRS or hearing point-to-point video user.
 
 (2) A VRS provider may not take steps that restrict a user's unfettered access to another provider's service, such as providing degraded service quality to VRS users using VRS equipment or service with another provider's service.
 
-(3) Beginning no later than April 27, 2018, all VRS providers must ensure that their VRS access technologies and their video communication service platforms are interoperable with the VRS Access Technology Reference Platform, including for point-to-point calls, in accordance with the Interoperability Profile for Relay User Equipment (RUE Profile). No VRS provider shall be compensated for minutes of use involving their VRS access technologies or video communication service platforms that are not interoperable with the VRS Access Technology Reference Platform.
+(3) All VRS providers must ensure that their VRS access technologies and their video communication service platforms are interoperable with the VRS Access Technology Reference Platform, including for point-to-point calls. No VRS provider shall be compensated for minutes of use involving their VRS access technologies or video communication service platforms that are not interoperable with the VRS Access Technology Reference Platform.
 
 (4) All VRS providers must ensure that their VRS access technologies and their video communication service platforms are interoperable with the Neutral Video Communication Service Platform, including for point-to-point calls. No VRS provider shall be compensated for minutes of use involving their VRS access technologies or video communication service platforms that are not interoperable with the Neutral Video Communication Service Platform.
 
@@ -26,6 +24,4 @@ Link to an amendment published at 86 FR 35633, July 7, 2021.
 
 (i) The Interoperability Profile for Relay User Equipment, draft-vrs-rue-dispatch-00, July 20, 2016 *https://datatracker.ietf.org/doc/draft-vrs-rue-dispatch/.*
 
-(ii) Request for Comments (RFC) 6351, xCard: vCard XML Representation (August 2011) *https://tools.ietf.org/html/rfc6351.*
-
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020; 86 FR 35633, July 7, 2021]

@@ -48,4 +48,4 @@
 
 (4) *Protected class* means a group of persons who have the same protected characteristic; e.g., a group of persons who are of the same race are a protected class. Similarly, a person who has a mobility disability is a member of the protected class of persons with disabilities and a member of the protected class of persons with mobility disabilities.
 
-[86 FR 30791, June 10, 2021]Editorial Note:At 86 FR 30791, June 10, 2021, § 5.152 was added. Because the section already exists, the amendatory instruction could not be followed.
+[86 FR 30791, June 10, 2021]

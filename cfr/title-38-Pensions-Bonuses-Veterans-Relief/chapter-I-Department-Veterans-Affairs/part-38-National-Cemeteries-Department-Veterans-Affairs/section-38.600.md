@@ -1,5 +1,7 @@
 ##### § 38.600 Definitions. #####
 
+Link to an amendment published at 86 FR 43097, Aug. 6, 2021.
+
 (a)(1) *Applicant defined - burial headstones and markers.* An applicant for a headstone or marker that will mark the gravesite or burial site of an eligible deceased individual may be:
 
 (i) A decedent's family member, which includes the decedent's spouse or individual who was in a legal union as defined in 38 CFR 3.1702(b)(1)(ii) with the decedent; a child, parent, or sibling of the decedent, whether biological, adopted, or step relation; and any lineal or collateral descendant of the decedent;

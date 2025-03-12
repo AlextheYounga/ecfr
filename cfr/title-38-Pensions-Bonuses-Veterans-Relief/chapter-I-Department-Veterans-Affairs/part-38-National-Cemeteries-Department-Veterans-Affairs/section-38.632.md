@@ -1,5 +1,7 @@
 ##### § 38.632 Headstone or marker application process. #####
 
+Link to an amendment published at 86 FR 43101, Aug. 6, 2021.
+
 (a) *General.* This section contains procedures for ordering a Government-furnished headstone or marker through the National Cemetery Administration (NCA) headstone and marker application process for burial or memorialization of deceased eligible veterans and eligible family members. It also contains procedures for requesting the inscription of new emblems of belief on Government-furnished headstones and markers.
 
 (b) *Definitions.* For purposes of this section:

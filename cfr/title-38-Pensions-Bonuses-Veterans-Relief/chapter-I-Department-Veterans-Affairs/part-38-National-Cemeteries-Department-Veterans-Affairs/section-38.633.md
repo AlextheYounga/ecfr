@@ -1,5 +1,7 @@
 ##### § 38.633 Group memorial monuments. #####
 
+Link to an amendment published at 86 FR 43102, Aug. 6, 2021.
+
 (a) *Definitions of terms.* For the purpose of this section, the following definitions apply:
 
 (1) *Group* - all the known and unknown dead who perished in a common military event.

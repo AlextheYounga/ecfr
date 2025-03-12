@@ -1,5 +1,7 @@
 ##### § 38.631 Graves marked with a private headstone or marker. #####
 
+Link to an amendment published at 86 FR 43100, Aug. 6, 2021.
+
 (a) VA will furnish an appropriate Government headstone or marker for the grave of a decedent described in paragraph (b) of this section, but only if the individual requesting the headstone or marker certifies on VA Form 40-1330 that it will be placed on the grave for which it is requested or, if placement on the grave is impossible or impracticable, as close to the grave as possible within the grounds of the private cemetery where the grave is located.
 
 (b) The decedent referred to in paragraph (a) of this section is one who:
