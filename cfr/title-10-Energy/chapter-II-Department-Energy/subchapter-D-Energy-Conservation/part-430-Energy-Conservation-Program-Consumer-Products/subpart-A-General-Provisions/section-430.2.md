@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 81 FR 91445, Dec. 16, 2016.
+Link to an amendment published at 81 FR 91445, Dec. 16, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 

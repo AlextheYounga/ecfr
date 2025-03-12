@@ -24,9 +24,9 @@
 
 (i) The transfer is made by the relevant foreign diplomatic mission of the purchasing country or its authorized freight forwarder, provided that the freight forwarder is registered with the Directorate of Defense Trade Controls pursuant to part 122 of this subchapter, and
 
-(ii) At the time of shipment, the Port Director of U.S. Customs and Border Protection is provided an original and properly executed DSP-94 accompanied by a copy of the LOA and any other documents required by U.S. Customs and Border Protection in carrying out its responsibilities. The Electronic Export Information (EEI) or, if authorized, the outbound manifest, must be annotated “This shipment is being exported under the authority of Department of State Form DSP-94. It covers FMS Case [insert case identification], expiration [insert date]. 22 CFR 126.6 applicable. The U.S. Government point of contact is \_\_\_\_, telephone number \_\_\_\_,” and
+(ii) At the time of shipment, U.S. Customs and Border Protection is provided the Electronic Export Information, Internal Transaction Number and any other documents required by U.S. Customs and Border Protection in carrying out its responsibilities. The invoices for the shipment must be annotated: “This shipment is authorized for export pursuant to 22 CFR 126.6(c), under FMS Case [insert case identification]. The U.S. Government point of contact is \_\_\_\_, telephone number \_\_\_\_,” and
 
-(iii) If, classified hardware and related technical data are involved the transfer must have the requisite USG security clearance and transportation plan and be shipped in accordance with the Department of Defense National Industrial Security Program Operating Manual, or
+(iii) Any classified hardware and related technical data involved in the transfer must have the requisite U.S. Government security clearance and transportation plan and be shipped in accordance with the Department of Defense National Industrial Security Program Operating Manual. The exporter shall provide an electronic copy of the transportation plan via the U.S. Customs and Border Protection's electronic system(s), unless electronic reporting of such information is unavailable, in which case U.S. Customs and Border Protection will issue instructions, or
 
 (6) For transfers of defense services:
 
@@ -44,6 +44,6 @@
 
 (ii) The U.S. person(s) identified in the contract maintain a registration with the Directorate of Defense Trade Controls for the entire time that the defense service is being provided. In any instance when the U.S. registered person(s) identified in the contract employs a subcontractor, the subcontractor may only use this exemption when registered with DDTC, and when such subcontract meets the above stated requirements, and
 
-(iii) In instances when the defense service involves the transfer of classified technical data, the U.S. person transferring the defense service must have the appropriate USG security clearance and a transportation plan, if appropriate, in compliance with the Department of Defense National Industrial Security Program Operating Manual, and
+(iii) In instances when the defense service involves the transfer of classified technical data, the U.S. person transferring the defense service must have the appropriate USG security clearance and a transportation plan, if appropriate, in compliance with the Department of Defense National Industrial Security Program Operating Manual.
 
-[65 FR 45287, July 21, 2000, as amended at 70 FR 50964, Aug. 29, 2005; 71 FR 20546, Apr. 21, 2006; 79 FR 77885, Dec. 29, 2014]
+[65 FR 45287, July 21, 2000, as amended at 70 FR 50964, Aug. 29, 2005; 71 FR 20546, Apr. 21, 2006; 79 FR 77885, Dec. 29, 2014; 82 FR 19, Jan. 3, 2017]

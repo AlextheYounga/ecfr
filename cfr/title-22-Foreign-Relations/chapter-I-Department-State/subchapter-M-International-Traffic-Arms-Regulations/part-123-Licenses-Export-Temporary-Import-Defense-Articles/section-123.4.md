@@ -36,6 +36,6 @@ These Exceptions do not apply to shipments that transit the U.S. to or from Cana
 
 (ii) Include, on the invoice or other appropriate documentation, a complete list and description of the defense article(s) being imported, including quantity and U.S. dollar value; and
 
-(2) At the time of export, in accordance with the U.S. Customs and Border Protection procedures, the Directorate of Defense Trade Controls (DDTC) registered and eligible exporter, or an agent acting on the filer's behalf, must electronically file the export information using the Automated Export System (AES), and identify 22 CFR 123.4 as the authority for the export and provide, as requested by U.S. Customs and Border Protection, the entry document number or a copy of the U.S. Customs and Border Protection document under which the article was imported.
+(2) At the time of export, in accordance with the U.S. Customs and Border Protection (CBP) procedures, the Directorate of Defense Trade Controls (DDTC) registered and eligible exporter, or an agent acting on the filer's behalf, must electronically file the export information with CBP, identify 22 CFR 123.4 as the authority for the export, and provide, as requested by CBP, the entry document number or a copy of the CBP document under which the article was imported.
 
-[58 FR 39299, July 22, 1993, as amended at 64 FR 17533, Apr. 12, 1999; 68 FR 61101, Oct. 27, 2003; 70 FR 50960, Aug. 29, 2005; 77 FR 16597, Mar. 21, 2012; 77 FR 22670, Apr. 17, 2012; 81 FR 54735, Aug. 17, 2016]
+[58 FR 39299, July 22, 1993, as amended at 64 FR 17533, Apr. 12, 1999; 68 FR 61101, Oct. 27, 2003; 70 FR 50960, Aug. 29, 2005; 77 FR 16597, Mar. 21, 2012; 77 FR 22670, Apr. 17, 2012; 81 FR 54735, Aug. 17, 2016; 82 FR 17, Jan. 3, 2017]

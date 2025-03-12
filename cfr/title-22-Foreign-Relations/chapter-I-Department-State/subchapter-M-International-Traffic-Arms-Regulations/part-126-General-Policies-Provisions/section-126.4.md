@@ -16,6 +16,6 @@ Note:
 
 (3) The urgency of the U.S. Government requirement is such that the appropriate export license or U.S. Government Bill of Lading could not have been obtained in a timely manner.
 
-(d) An Electronic Export Information (EEI) filing, required under § 123.22 of this subchapter, and a written statement by the exporter certifying that these requirements have been met must be presented at the time of export to the appropriate Port Directors of U.S. Customs and Border Protection or Department of Defense transmittal authority. A copy of the EEI filing and the written certification statement shall be provided to the Directorate of Defense Trade Controls immediately following the export.
+(d) An Electronic Export Information (EEI) filing, and a statement by the exporter that these requirements have been met, must be submitted to U.S. Customs and Border Protection using its electronic system(s) at the time of export, unless electronic submission of such information is unavailable, in which case U.S. Customs and Border Protection or the Department of Defense transmittal authority will issue instructions.
 
-[58 FR 39312, July 22, 1993, as amended at 70 FR 50964, Aug. 29, 2005; 77 FR 16600, Mar. 21, 2012]
+[58 FR 39312, July 22, 1993, as amended at 70 FR 50964, Aug. 29, 2005; 77 FR 16600, Mar. 21, 2012; 82 FR 19, Jan. 3, 2017]

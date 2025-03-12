@@ -1,0 +1,111 @@
+##### § 286.12 Schedule of fees. #####
+
+(a) *In general.* DoD Components shall charge for processing requests under the FOIA in accordance with the provisions of this section and with the OMB Guidelines. For purposes of assessing fees, the FOIA establishes three categories of requesters: Commercial; non-commercial scientific or educational institutions or news media; and all other requesters. Different fees are assessed depending on the category. Requesters may seek a fee waiver. DoD Components shall consider such requests in accordance with the requirements in paragraph (m) of this section. In order to resolve any fee issues that arise under this section, a DoD Component may contact a requester for additional information. DoD Components shall ensure that searches, review, and duplication are conducted in the most efficient and least expensive manner. Requesters must pay fees by check or money order made payable to the Treasury of the United States.
+
+(b) *Definitions.* For purposes of this section:
+
+(1) *Commercial use request* is a request that asks for information for a use or purpose that furthers a commercial, trade, or profit interest, which can include furthering those interests through litigation. A DoD Component's decision to place a requester in the commercial use category will be made on a case-by-case basis based on the requester's intended use of the information. DoD Components will notify requesters of their placement in this category.
+
+(2) *Direct costs* are those expenses that a DoD Component incurs in searching for and, in the case of commercial use requests, reviewing records in order to respond to a FOIA request. DoD direct costs for human activity are at Table 1.
+
+|     Type     |                    Grade                     |Hourly rate|
+|--------------|----------------------------------------------|-----------|
+|Administrative|              E-9/GS-8 and below              |    $24    |
+| Professional |Contractor/O-1 to O-6/W-1 to W-5/GS-9 to GS-15|    48     |
+|  Executive   |  O-7 and above and Senior Executive Service  |    110    |
+
+(3) *Duplication* is reproducing a copy of a record, or of the information contained in it, necessary to respond to a FOIA request.
+
+(4) *Educational institution* is any school that operates a program of scholarly research. A requester in this fee category must show that the request is made in connection with his or her role at the educational institution. DoD Components may seek verification from the requester that the request is in furtherance of scholarly research and will advise requesters of their placement in this category.
+
+(5) *Noncommercial scientific institution* is an institution that is not operated on a “commercial” basis, as defined in paragraph (b)(1) of this section and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use. DoD Components will advise requesters of their placement in this category.
+
+(6) *Representative of the news media* is any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn raw materials into a distinct work, and distributes that work to an audience. The term “news” means information that is about current events or that would be of current interest to the public. Examples of news media entities include television or radio stations that broadcast “news” to the public at large and publishers of periodicals that disseminate “news” and make their products available through a variety of means to the general public, including news organizations that disseminate solely on the Internet. A request for records supporting the news-dissemination function of the requester shall not be considered to be for a commercial use. “Freelance” journalists who demonstrate a solid basis for expecting publication through a news media entity shall be considered as a representative of the news media. A publishing contract would provide the clearest evidence that publication is expected; however, DoD Components shall also consider a requester's past publication record in making this determination. DoD Components will advise requesters of their placement in this category.
+
+(7) *Review* is the examination of a record located in response to a request in order to determine whether any portion of it is exempt from disclosure. Review time includes processing any record for disclosure, such as doing all that is necessary to prepare the record for disclosure, including the process of redacting the record and marking the appropriate exemptions. Review costs are properly charged even if a record ultimately is not disclosed. Review time also includes time spent both obtaining and considering any formal objection to disclosure made by a confidential commercial information submitter under § 286.11, but it does not include time spent resolving general legal or policy issues regarding the application of exemptions.
+
+(8) *Search* is the process of looking for and retrieving records or information responsive to a request. Search time includes page-by-page or line-by-line identification of information within records and the reasonable efforts expended to locate and retrieve information from electronic records.
+
+(c) *Fee category.* Fees are assessed based on the category determined to be appropriate for the requester's category. The fee category of a requester that is an attorney or any other agent representing a client is determined by the fee category of the attorney's client. If the fee category of the client is not clear, then the DoD Components should ask the requester for clarification. If an attorney does not provide enough information to determine the fee category of the client, then the DoD Component may assign commercial fee category to the requester.
+
+(d) *Charging fees.* In responding to FOIA requests, DoD Components will charge the following fees unless a waiver or reduction of fees has been granted under paragraph (m) of this section. Because the fee amounts provided below already account for the direct costs associated with a given fee type, DoD Components should not add any additional costs to charges calculated under this section.
+
+(1) *Search.* (i) Requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media are not subject to search fees. Search fees shall be charged for all other requesters, subject to the restrictions of paragraph (e) of this section. DoD Components may properly charge for time spent searching even if they do not locate any responsive records or if they determine that the records are entirely exempt from disclosure.
+
+(ii) For each quarter hour spent by personnel searching for requested records, including electronic searches that do not require new programming, the fees shall be charged as listed at Table 1.
+
+(iii) Requesters will be charged the direct costs associated with conducting any search that requires the creation of a new computer program to locate the requested records. These costs will not include the time it takes to run the program and extract data. Requesters will be notified of the costs associated with creating such a program and must agree to pay the associated costs before the costs may be incurred.
+
+(iv) For requests that require the retrieval of records stored by a DoD Component at a Federal records center operated by NARA, additional costs will be charged in accordance with the Transactional Billing Rate Schedule established by NARA.
+
+(2) *Duplication.* Duplication fees will be charged to all requesters, subject to the restrictions of paragraph (e) of this section. DoD Components will honor a requester's preference for receiving a record in a particular form or format where it is readily reproducible by the DoD Component in the form or format requested. Where photocopies are supplied, DoD Components will provide one copy per request at $.15 per page. For copies of records produced on tapes, disks, or other media, or other forms of duplication, DoD Components will charge the direct costs of producing the copy, including operator time in accordance with Table 1. DoD Components will charge record reproduction fees at the hourly rates in Table 1 if the creation of the electronic copies requires unique security procedures incurring considerable operator time, costing more than printing paper copies.
+
+(3) *Review.* Review fees will be charged to requesters who make commercial use requests. Review fees shall be assessed in connection with the initial review of the record, *i.e.,* the review conducted by a DoD Component to determine whether an exemption applies to a particular record or portion of a record. No charge will be made for review at the administrative appeal stage of exemptions applied at the initial review stage. However, if a particular exemption is deemed to no longer apply, any costs associated with a DoD Component's re-review of the records in order to consider the use of other exemptions may be assessed as review fees. Review fees will be charged at the same rates as those charged for a search under paragraph (d)(1)(ii) of this section.
+
+(e) *Restrictions on charging fees.* (1) When a DoD Component determines that a requester is an educational institution, non-commercial scientific institution, or representative of the news media, and the records are not sought for commercial use, no search fees will be charged.
+
+(2) If a DoD Component fails to comply with the time limits in which to respond to a request it may not charge search fees, or, in the instances of requests from requesters described in paragraph (e)(1) of this section, may not charge duplication fees except as described in (e)(2)(i) through (iii).
+
+(i) When a DoD Component determines that unusual circumstances, as those terms are defined by the FOIA, apply to the processing of the request, and provides timely written notice to the requester, then the DoD Component is granted an additional ten days until the fee restriction in paragraph (e)(2) of this section applies.
+
+(ii) When a DoD Component determines that unusual circumstances apply and more than 5,000 pages are necessary to respond to the request, provides timely written notice to the requester, and has discussed with the requester (or made three good faith attempts to do so) on how the requester can effectively limit the scope of the request, the fee restriction in paragraph (e)(2) of this section does not apply.
+
+(iii) If a court has determined that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
+
+(3) No search or review fees will be charged for a quarter-hour period unless more than half of that period is required for search or review.
+
+(4) Except for requesters seeking records for a commercial use, DoD Components shall provide without charge:
+
+(i) The first 100 pages of duplication (or the cost equivalent for other media); and
+
+(ii) The first two hours of search.
+
+(5) No fee will be charged when the total fee, after deducting the 100 free pages (or its cost equivalent) and the first two hours of search, is equal to or less than $25.
+
+(f) *Notice of anticipated fees in excess of $25.00.* (1) When a DoD Component determines or estimates that the fees to be assessed in accordance with this section will exceed $25.00, the DoD Component shall notify the requester of the actual or estimated amount of the fees, including a breakdown of the fees for search, review or duplication, unless the requester has indicated a willingness to pay fees as high as those anticipated. If only a portion of the fee can be estimated readily, the DoD Component will advise the requester accordingly. If the requester is a noncommercial use requester, the notice shall specify that the requester is entitled to the statutory entitlements of 100 pages of duplication at no charge and, if the requester is charged search fees, two hours of search time at no charge, and will advise the requester whether those entitlements have been provided.
+
+(2) When a requester is notified that the actual or estimated fees are in excess of $25.00, the request will not be considered received and further work will not be completed until the requester commits in writing to pay the actual or estimated total fee, or designates some amount of fees the requester is willing to pay, or in the case of a noncommercial use requester who has not yet been provided with the requester's statutory entitlements, designates that the requester seeks only that which can be provided by the statutory entitlements. The requester must provide the commitment or designation in writing, and must, when applicable, designate an exact dollar amount the requester is willing to pay. DoD Components are not required to accept payments in installments.
+
+(3) If the requester has indicated a willingness to pay some designated amount of fees, but the DoD Component estimates that the total fee will exceed that amount, the DoD Component will toll the processing of the request when it notifies the requester of the estimated fees in excess of the amount the requester has indicated a willingness to pay. The DoD Component will inquire whether the requester wishes to revise the amount of fees the requester is willing to pay or modify the request. Once the requester responds, the time to respond will resume from where it was at the date of the notification.
+
+(4) DoD Components will make available their FOIA Public Liaison or other FOIA professional to assist any requester in reformulating a request to meet the requester's needs at a lower cost.
+
+(g) *Charges for other services.* Although not required to provide special services, if a DoD Component chooses to do so as a matter of administrative discretion, the direct costs of providing the service shall be charged. Examples of such services include certifying that records are true copies, providing multiple copies of the same document, or sending records by means other than first class mail.
+
+(h) *Charging interest.* DoD Components may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges shall be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the billing date until payment is received by the DoD Component. DoD Components shall follow the provisions of the Debt Collection Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.
+
+(i) *Aggregating requests.* When a DoD Component reasonably believes that a requester or a group of requesters acting in concert is attempting to divide a single request into a series of requests for the purpose of avoiding fees, the DoD Component may aggregate those requests and charge accordingly. DoD Components may presume that multiple requests of this type made within a 30-day period have been made in order to avoid fees. For requests separated by a longer period, DoD Components will aggregate them only where there is a reasonable basis for determining that aggregation is warranted in view of all the circumstances involved. Multiple requests involving unrelated matters shall not be aggregated.
+
+(j) *Advance payments.* (1) For requests other than those described in paragraphs (k)(2) or (3) of this section, a DoD Component shall not require the requester to make an advance payment before work is commenced or continued on a request.
+
+(2) When a DoD Component determines or estimates that a total fee to be charged under this section will exceed $250.00, it may require that the requester make an advance payment up to the amount of the entire anticipated fee before beginning to process the request. A DoD Component may elect to process the request prior to collecting fees when it receives a satisfactory assurance of full payment from a requester with a history of prompt payment.
+
+(3) Where a requester has previously failed to pay a properly charged FOIA fee to any agency within 30 calendar days of the billing date, a DoD Component may require that the requester pay the full amount due, plus any applicable interest on that prior request, and the DoD Component may require that the requester make an advance payment of the full amount of any anticipated fee before the DoD Component begins to process a new request or continues to process a pending request or any pending appeal. Where a DoD Component has a reasonable basis to believe that a requester has misrepresented the requester's identity in order to avoid paying outstanding fees, it may require that the requester provide proof of identity.
+
+(4) In cases in which a DoD Component requires advance payment, the request shall not be considered received and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within 30 calendar days after the date of the DoD Component's fee determination, the request will be closed.
+
+(k) *Other statutes specifically providing for fees.* The fee schedule of this section does not apply to fees charged under any statute that specifically requires an agency to set and collect fees for particular types of records. In instances where records responsive to a request are subject to a statutorily-based fee schedule program, the DoD Component shall inform the requester of the contact information for that program.
+
+(l) *Requirements for waiver or reduction of fees.* (1) Requesters may seek a waiver of fees by submitting a written application specifically demonstrating how disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
+
+(2) A DoD Component will furnish records responsive to a request without charge or at a reduced rate when it determines, based on all available information, that the following three factors are satisfied:
+
+(i) Disclosure of the requested information would shed light on the operations or activities of the government. The subject of the request must concern identifiable operations or activities of the Federal Government with a connection that is direct and clear, not remote or attenuated.
+
+(ii) Disclosure of the requested information would be likely to contribute significantly to public understanding of those operations or activities. This factor is satisfied when the following criteria are met:
+
+(A) Disclosure of the requested records must be meaningfully informative about government operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not be meaningfully informative if nothing new would be added to the public's understanding.
+
+(B) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area as well as the requester's ability and intention to effectively convey information to the public shall be considered. DoD Components will presume that a representative of the news media satisfies this criterion.
+
+(iii) The disclosure must not be primarily in the commercial interest of the requester. To determine whether disclosure of the requested information is primarily in the commercial interest of the requester, DoD Components shall consider the following criteria:
+
+(A) DoD Components will identify whether the requester has any commercial interest that would be furthered by the requested disclosure. A commercial interest includes any commercial, trade, or profit interest. Requesters will be given an opportunity to provide explanatory information regarding this consideration.
+
+(B) If there is an identified commercial interest, the DoD Component will determine whether that is the primary interest furthered by the request. A waiver or reduction of fees is justified when the requirements of paragraphs (m)(2)(i) and (ii) of this section are satisfied and any commercial interest is not the primary interest furthered by the request. DoD Components ordinarily will presume that when a news media requester has satisfied the factors in paragraphs (m)(2)(i) and (ii) of this section, the request is not primarily in the commercial interest of the requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.
+
+(3) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.
+
+(4) Requests for a waiver or reduction of fees should be made when the request is first submitted to the DoD Component and should address the criteria referenced in paragraphs (l)(1) and (2) of this section. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester is required to pay any costs incurred up to the date the fee waiver request was received.
+
+(m) *Tracking of costs.* DoD Components will track processing costs for each FOIA request on DD Form 2086, “Record of Freedom of Information (FOI) Processing Cost,” or by using DD Form 2086-2, “Freedom of Information (FOI) Consultation and Request Summary”.

@@ -4,9 +4,9 @@
 
 (ii) A *transfer* means, for purposes of this section only, the movement of a previously exported defense article or defense service by a member of the United Kingdom Community within the United Kingdom Community, or between a member of the United States Community and a member of the United Kingdom Community.
 
-(iii) *Reexport and retransfer.* (A) Reexport means, for purposes of this section only, movement of previously Exported Defense Articles by a member of the United Kingdom Community from the Approved Community to a location outside the Territory of the United Kingdom.
+(iii) *Reexport and retransfer.* (A) *Reexport* means, for purposes of this section only, movement of previously Exported Defense Articles by a member of the United Kingdom Community from the Approved Community to a location outside the Territory of the United Kingdom.
 
-(B) Retransfer means, for purposes of this section only, the movement of previously Exported Defense Articles by a member of the United Kingdom Community from the Approved Community to a location within the Territory of the United Kingdom.
+(B) *Retransfer* means, for purposes of this section only, the movement of previously Exported Defense Articles by a member of the United Kingdom Community from the Approved Community to a location within the Territory of the United Kingdom.
 
 (iv) *Intermediate consignee* means, for purposes of this section, an approved entity or person who receives, but does not have access to, defense articles, including technical data, for the sole purpose of effecting onward movement to members of the Approved Community (*see* paragraph (k) of this section).
 
@@ -202,13 +202,13 @@
 
 (xiv) Technical data actually exported;
 
-(xv) The Internal Transaction Number for the Electronic Export Information filing in the Automated Export System;
+(xv) The Internal Transaction Number for the Electronic Export Information filing using U.S. Customs and Border Protection's electronic system(s);
 
 (xvi) All shipping documentation (including, but not limited to the airway bill, bill of lading, packing list, delivery verification, and invoice); and
 
 (xvii) Statement of Registration (Form DS-2032).
 
-(2) *Filing of export information.* All exporters of defense articles under the Defense Trade Cooperation Treaty between the United States and the United Kingdom and this section must electronically file Electronic Export Information (EEI) using the Automated Export System citing one of the four below referenced codes in the appropriate field in the EEI for each shipment:
+(2) *Filing of export information.* All exporters of defense articles under the Defense Trade Cooperation Treaty between the United States and the United Kingdom and this section must electronically file Electronic Export Information (EEI) using U.S. Customs and Border Protection's electronic system(s), citing one of the four below referenced codes in the appropriate field in the EEI for each shipment:
 
 (i) For exports in support of United States and United Kingdom combined military or counter-terrorism operations identify § 126.17(e)(1) (the name or an appropriate description of the operation shall be placed in the appropriate field in the EEI, as well);
 
@@ -250,4 +250,4 @@
 
 (3) The Department of State will notify the Congress of exports that meet the requirements of paragraph (o)(1) of this section.
 
-[77 FR 16601, Mar. 21, 2012, as amended at 79 FR 8085, Feb. 11, 2014; 79 FR 21616, Apr. 17, 2014; 81 FR 62008, Sept. 8, 2016]
+[77 FR 16601, Mar. 21, 2012, as amended at 79 FR 8085, Feb. 11, 2014; 79 FR 21616, Apr. 17, 2014; 81 FR 62008, Sept. 8, 2016; 82 FR 19, Jan. 3, 2017]

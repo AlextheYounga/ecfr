@@ -1,3 +1,11 @@
-##### § 305.5 Procedures. #####
+##### § 305.5 Legal status eligibility standard. #####
 
-Procedures for filing, investigating, and determining allegations of discrimination on the basis of race, color, national origin, religion, age, sex, handicap or political affiliation in the application of any provision of this part are contained in MS 293 (45 CFR part 1225).
+(a) *General requirements.* The existence of an arrest or conviction record may, but will not automatically, exclude an Applicant from consideration for Peace Corps service. The Peace Corps will consider the nature of the offense, how long ago the offense occurred, whether the Applicant was acquitted of the offense, the terms of any applicable parole or probation, and other relevant facts or indications of rehabilitation.
+
+(b) *Drug and alcohol related offenses.* (1) An Applicant with any drug-related conviction, with a conviction for public intoxication, driving under the influence (DUI), or driving while intoxicated (DWI), with a conviction for reckless driving after having been initially charged with DUI or DWI, or with a similar alcohol-related conviction, is not eligible to have his or her application for Peace Corps service considered until 12 months has passed from the date of the incident.
+
+(2) An Applicant who, at any time on or prior to the day of departure for Peace Corps service, is arrested for any drug offense or for public intoxication, DUI, DWI or any similar alcohol-related offense will have any pending application or invitation for Peace Corps service withdrawn. If the charges are dismissed, an Applicant whose application or invitation for Peace Corps service was terminated may immediately reapply. If the applicant is convicted of the offense, he or she may reapply after 12 months from the date of the incident.
+
+(c) *Review process.* An Applicant who is rejected for a Volunteer position because of an arrest or conviction may request a review of that decision by submitting any relevant information to the Associate Director of the Office of Volunteer Recruitment and Selection (VRS). The Associate Director will review the information submitted and consult with the General Counsel. The decision of the Associate Director will be the final agency decision. The Associate Director may delegate authority to conduct such a review to another senior member of VRS, but not to the supervisor of the office making the original eligibility determination.
+
+(d) *Subsequent application.* An Applicant rejected for service due to failure to meet the legal status eligibility standard may reapply at a later date, but not sooner than 12 months after the final agency decision.

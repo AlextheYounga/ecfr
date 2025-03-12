@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.
+Link to an amendment published at 81 FR 89304, Dec. 9, 2016.Link to an amendment published at 81 FR 89822, Dec. 12, 2016.Link to an amendment published at 81 FR 95800, Dec. 28, 2016.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 

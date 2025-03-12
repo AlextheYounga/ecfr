@@ -200,13 +200,13 @@
 
 (xiv) Technical data actually exported;
 
-(xv) The Internal Transaction Number for the Electronic Export Information filing in the Automated Export System;
+(xv) The Internal Transaction Number for the Electronic Export Information filing using U.S. Customs and Border Protection's electronic system(s);
 
 (xvi) All shipping documentation (including, but not limited to the airway bill, bill of lading, packing list, delivery verification, and invoice); and
 
 (xvii) Statement of Registration (Form DS-2032).
 
-(2) *Filing of export information.* All exporters of defense articles under the Defense Trade Cooperation Treaty between the United States and Australia and this section must electronically file Electronic Export Information (EEI) using the Automated Export System citing one of the four below referenced codes in the appropriate field in the EEI for each shipment:
+(2) *Filing of export information.* All exporters of defense articles under the Defense Trade Cooperation Treaty between the United States and Australia and this section must electronically file Electronic Export Information (EEI) using U.S. Customs and Border Protection's electronic system(s), citing one of the four below referenced codes in the appropriate field in the EEI for each shipment:
 
 (i) For exports in support of United States and Australian combined military or counter-terrorism operations identify § 126.16(e)(1) (the name or an appropriate description of the operation shall be placed in the appropriate field in the EEI, as well);
 
@@ -248,4 +248,4 @@
 
 (3) The Department of State will notify the Congress of exports that meet the requirements of paragraph (o)(1) of this section.
 
-[78 FR 21526, Apr. 11, 2013, as amended at 81 FR 62008, Sept. 8, 2016]
+[78 FR 21526, Apr. 11, 2013, as amended at 81 FR 62008, Sept. 8, 2016; 82 FR 19, Jan. 3, 2017]

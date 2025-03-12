@@ -24,8 +24,8 @@ The forms referred to in this subchapter are available from the following govern
 
 (1) International Import Certificate (Form BIS-645P/ATF-4522).
 
-(2) Electronic Export Information filed via the Automated Export System.
+(2) Electronic Export Information submitted using U.S. Customs and Border Protection's electronic system(s).
 
 (c) Department of Defense, Defense Security Cooperation Agency: Letter of Offer and Acceptance.
 
-[58 FR 39283, July 22, 1993, as amended at 68 FR 61100, Oct. 27, 2003; 71 FR 20537, Apr. 21, 2006; 75 FR 46844, Aug. 4, 2010; 76 FR 45197, July 28, 2011; 77 FR 16597, Mar. 21, 2012; 77 FR 22670, Apr. 17, 2012]
+[58 FR 39283, July 22, 1993, as amended at 68 FR 61100, Oct. 27, 2003; 71 FR 20537, Apr. 21, 2006; 75 FR 46844, Aug. 4, 2010; 76 FR 45197, July 28, 2011; 77 FR 16597, Mar. 21, 2012; 77 FR 22670, Apr. 17, 2012; 82 FR 17, Jan. 3, 2017]
