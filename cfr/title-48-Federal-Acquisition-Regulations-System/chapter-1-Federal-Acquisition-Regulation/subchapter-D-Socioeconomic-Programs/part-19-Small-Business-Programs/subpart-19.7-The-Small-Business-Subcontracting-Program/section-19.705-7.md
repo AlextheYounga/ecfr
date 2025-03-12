@@ -1,5 +1,7 @@
 ##### 19.705-7 Liquidated damages. #####
 
+Link to an amendment published at 86 FR 44253, Aug. 11, 2021.
+
 (a) Maximum practicable utilization of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business and women-owned small business concerns as subcontractors in Government contracts is a matter of national interest with both social and economic benefits. When a contractor fails to make a good faith effort to comply with a subcontracting plan, these objectives are not achieved, and 15 U.S.C. 637(d)(4)(F) directs that liquidated damages shall be paid by the contractor.
 
 (b) The amount of damages attributable to the contractor's failure to comply shall be an amount equal to the actual dollar amount by which the contractor failed to achieve each subcontracting goal.

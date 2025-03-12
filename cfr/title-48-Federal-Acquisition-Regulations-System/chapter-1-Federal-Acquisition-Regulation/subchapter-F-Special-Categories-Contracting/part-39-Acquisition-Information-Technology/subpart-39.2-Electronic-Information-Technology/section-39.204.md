@@ -1,5 +1,7 @@
 ##### 39.204 Exceptions. #####
 
+Link to an amendment published at 86 FR 44232, Aug. 11, 2021.
+
 The requirements in 39.203 do not apply to EIT that -
 
 (a) Is purchased in accordance with Subpart 13.2 (micro-purchases) prior to April 1, 2005. However, for micro-purchases, contracting officers and other individuals designated in accordance with 1.603-3 are strongly encouraged to comply with the applicable accessibility standards to the maximum extent practicable;

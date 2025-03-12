@@ -1,5 +1,7 @@
 ##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
 
+Link to an amendment published at 86 FR 44246, Aug. 11, 2021.
+
 As prescribed in 19.309(c)(1), insert the following clause:
 
 Post-Award Small Business Program Rerepresentation (NOV 2020)

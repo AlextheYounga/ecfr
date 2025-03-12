@@ -1,5 +1,7 @@
 ##### 19.505 Limitations on subcontracting and nonmanufacturer rule. #####
 
+Link to an amendment published at 86 FR 44241, Aug. 11, 2021.
+
 (a) *Limitations on subcontracting.* To be awarded a set-aside contract, an order under a set-aside, or an order in accordance with 19.504(c)(1)(ii), the small business concern is required to perform as follows:
 
 (1) For services (except construction), at least 50 percent of the cost incurred for personnel with its own employees.

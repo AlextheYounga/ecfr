@@ -1,5 +1,7 @@
 ##### 52.219-4 Notice of Price Evaluation Preference for HUBZone Small Business Concerns. #####
 
+Link to an amendment published at 86 FR 44245, Aug. 11, 2021.
+
 As prescribed in 19.1309(b)(1), insert the following clause:
 
 Notice of Price Evaluation preference for HUBZone Small Business Concerns (MAR 2020)

@@ -1,5 +1,7 @@
 ##### § 154.320 Operations manual: Amendment. #####
 
+Link to an amendment published at 86 FR 43940, Aug. 11, 2021.
+
 (a) Using the following procedures, the COTP may require the facility operator to amend the operations manual if the COTP finds that the operations manual does not meet the requirements in this part:
 
 (1) The COTP will notify the facility operator in writing of any inadequacies in the Operations Manual. The facility operator may submit written information, views, and arguments regarding the inadequacies identified, and proposals for amending the Manual, within 45 days from the date of the COTP notice. After considering all relevant material presented, the COTP shall notify the facility operator of any amendment required or adopted, or the COTP shall rescind the notice. The amendment becomes effective 60 days after the facility operator receives the notice, unless the facility operator petitions the Commandant to review the COTP's notice, in which case its effective date is delayed pending a decision by the Commandant. Petitions to the Commandant must be submitted in writing via the COTP who issued the requirement to amend the Operations Manual.

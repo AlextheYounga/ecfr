@@ -1,5 +1,7 @@
 ##### 42.709-5 Waiver of the penalty. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 The cognizant contracting officer shall waive the penalties at 42.709-1(a) when -
 
 (a) The contractor withdraws the proposal before the Government formally initiates an audit of the proposal and the contractor submits a revised proposal (an audit will be deemed to be formally initiated when the Government provides the contractor with written notice, or holds an entrance conference, indicating that audit work on a specific final indirect cost proposal has begun);

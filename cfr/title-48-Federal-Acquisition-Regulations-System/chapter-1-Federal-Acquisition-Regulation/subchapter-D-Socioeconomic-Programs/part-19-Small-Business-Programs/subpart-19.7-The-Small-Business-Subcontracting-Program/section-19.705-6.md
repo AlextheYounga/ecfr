@@ -1,5 +1,7 @@
 ##### 19.705-6 Postaward responsibilities of the contracting officer. #####
 
+Link to an amendment published at 86 FR 44253, Aug. 11, 2021.
+
 After a contract or contract modification containing a subcontracting plan is awarded or an existing subcontracting plan is amended, the contracting officer shall do the following:
 
 (a) Notify the SBA of the award by sending a copy of the award document to the Area Director, Office of Government Contracting, in the SBA area office where the contract will be performed.

@@ -1,5 +1,7 @@
 ##### 39.203 Applicability. #####
 
+Link to an amendment published at 86 FR 44232, Aug. 11, 2021.
+
 (a) Unless an exception at 39.204 applies, acquisitions of EIT supplies and services must meet the applicable accessibility standards at 36 CFR part 1194.
 
 (b)(1) Exception determinations are required prior to contract award, except for indefinite-quantity contracts (see paragraph (b)(2) of this section).

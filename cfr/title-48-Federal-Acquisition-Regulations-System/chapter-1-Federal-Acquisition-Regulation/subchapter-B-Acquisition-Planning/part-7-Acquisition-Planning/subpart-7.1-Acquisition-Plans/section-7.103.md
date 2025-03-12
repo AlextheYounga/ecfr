@@ -1,5 +1,7 @@
 ##### 7.103 Agency-head responsibilities. #####
 
+Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
+
 The agency head or a designee shall prescribe procedures for the following:
 
 (a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A)

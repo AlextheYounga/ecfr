@@ -1,5 +1,7 @@
 ##### 42.709-4 Computing interest. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 For 42.709-1(a)(1)(ii), compute interest on any paid portion of the disallowed cost as follows:
 
 (a) Consider the overpayment to have occurred, and interest to have begun accumulating, from the midpoint of the contractor's fiscal year. Use an alternate equitable method if the cost was not paid evenly over the fiscal year.

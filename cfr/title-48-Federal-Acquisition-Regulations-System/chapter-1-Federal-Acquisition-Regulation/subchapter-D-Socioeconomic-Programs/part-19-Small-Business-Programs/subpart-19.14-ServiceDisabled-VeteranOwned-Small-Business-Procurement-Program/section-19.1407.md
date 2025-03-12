@@ -1,5 +1,7 @@
 ##### 19.1407 Limitations on subcontracting and nonmanufacturer rule. #####
 
+Link to an amendment published at 86 FR 44243, Aug. 11, 2021.
+
 (a) *Limitations on subcontracting.* To be awarded a contract or order under this subpart, the SDVOSB concern is required to -
 
 (1) For services (except construction), spend at least 50 percent of the cost incurred for personnel on its own employees or the employees of other SDVOSBs;

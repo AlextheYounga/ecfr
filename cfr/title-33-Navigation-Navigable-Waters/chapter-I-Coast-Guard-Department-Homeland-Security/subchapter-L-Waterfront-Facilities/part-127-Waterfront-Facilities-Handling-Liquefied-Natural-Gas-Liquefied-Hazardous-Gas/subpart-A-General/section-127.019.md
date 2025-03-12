@@ -1,5 +1,7 @@
 ##### § 127.019 Operations Manual and Emergency Manual: Procedures for examination. #####
 
+Link to an amendment published at 86 FR 43940, Aug. 11, 2021.
+
 (a) The owner or operator of an active existing facility shall submit two copies of the *Operations Manual* and of the *Emergency Manual* to the Captain of the Port of the zone in which the facility is located.
 
 (b) At least 30 days before transferring LHG or LNG, the owner or operator of a new or an inactive existing facility shall submit two copies of the *Operations Manual* and of the *Emergency Manual* to the Captain of the Port of the zone in which the facility is located, unless the manuals have been examined and there have been no changes since that examination.

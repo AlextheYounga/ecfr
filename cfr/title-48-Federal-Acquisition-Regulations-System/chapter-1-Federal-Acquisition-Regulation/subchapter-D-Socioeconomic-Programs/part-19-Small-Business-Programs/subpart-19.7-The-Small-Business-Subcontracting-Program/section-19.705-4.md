@@ -1,5 +1,7 @@
 ##### 19.705-4 Reviewing the subcontracting plan. #####
 
+Link to an amendment published at 86 FR 44253, Aug. 11, 2021.
+
 The contracting officer shall review the subcontracting plan for adequacy, ensuring that the required information, goals, and assurances are included (see 19.704).
 
 (a) No detailed standards apply to every subcontracting plan. Instead, the contracting officer shall consider each plan in terms of the circumstances of the particular acquisition, including -

@@ -1,5 +1,7 @@
 ##### § 127.309 Operations Manual and Emergency Manual: Use. #####
 
+Link to an amendment published at 86 FR 43940, Aug. 11, 2021.
+
 The operator shall ensure that -
 
 (a) LNG transfer operations are not conducted unless the waterfront facility handling LNG has an examined *Operations Manual* and examined *Emergency Manual;*

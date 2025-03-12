@@ -1,5 +1,7 @@
 ##### 19.811-3 Contract clauses. #####
 
+Link to an amendment published at 86 FR 44243, Aug. 11, 2021.
+
 (a) The contracting officer shall insert the clause at 52.219-11, Special 8(a) Contract Conditions, in contracts between the SBA and the agency when the acquisition is accomplished using the procedures of 19.811-1(a) and (b).
 
 (b) The contracting officer shall insert the clause at 52.219-12, Special 8(a) Subcontract Conditions, in contracts between the SBA and its 8(a) contractor when the acquisition is accomplished using the procedures of 19.811-1(a) and (b).

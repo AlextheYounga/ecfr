@@ -1,5 +1,7 @@
 ##### 42.709-3 Assessing the penalty. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 Unless a waiver is granted pursuant to 42.709-5, the cognizant contracting officer shall -
 
 (a) Assess the penalty in 42.709-1(a)(1), when the submitted cost is expressly unallowable under a cost principle in the FAR or an executive agency supplement that defines the allowability of specific selected costs; or

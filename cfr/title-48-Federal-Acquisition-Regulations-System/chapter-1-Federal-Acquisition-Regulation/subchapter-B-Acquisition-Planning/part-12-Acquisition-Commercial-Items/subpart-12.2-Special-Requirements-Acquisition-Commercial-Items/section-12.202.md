@@ -1,5 +1,7 @@
 ##### 12.202 Market research and description of agency need. #####
 
+Link to an amendment published at 86 FR 44232, Aug. 11, 2021.
+
 (a) Market research (see 10.001) is an essential element of building an effective strategy for the acquisition of commercial items and establishes the foundation for the agency description of need (see part 11), the solicitation, and resulting contract.
 
 (b) The description of agency need must contain sufficient detail for potential offerors of commercial items to know which commercial products or services may be suitable. Generally, for acquisitions in excess of the simplified acquisition threshold, an agency's statement of need for a commercial item will describe the type of product or service to be acquired and explain how the agency intends to use the product or service in terms of function to be performed, performance requirement or essential physical characteristics. Describing the agency's needs in these terms allows offerors to propose methods that will best meet the needs of the Government.

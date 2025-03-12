@@ -1,5 +1,7 @@
 ##### § 121.2 Periodicals. #####
 
+Link to an amendment published at 86 FR 43952, Aug. 11, 2021.
+
 (a) *End-to-End.* (1)(i) Until January 5, 2015, a 2- to 4-day service standard is applied to Periodicals pieces properly accepted before the day-zero Critical Entry Time (CET) and merged with First-Class Mail pieces for surface transportation (as per the Domestic Mail Manual (DMM)), with the standard specifically equaling the sum of 1 day plus the applicable First-Class Mail service standard;
 
 (ii) On and after January 5, 2015, a 3- to 4-day service standard is applied to Periodicals pieces properly accepted before the day-zero CET and merged with First-Class Mail pieces for surface transportation (as per the DMM), with the standard specifically equaling the sum of 1 day plus the applicable First-Class Mail service standard.

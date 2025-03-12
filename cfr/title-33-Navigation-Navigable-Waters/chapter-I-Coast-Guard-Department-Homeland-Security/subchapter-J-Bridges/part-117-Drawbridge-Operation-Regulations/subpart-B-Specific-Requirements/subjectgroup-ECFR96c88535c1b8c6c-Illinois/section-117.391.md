@@ -1,6 +1,6 @@
 ##### § 117.391 Chicago River. #####
 
-Link to an amendment published at 86 FR 40959, July 30, 2021.
+Link to an amendment published at 86 FR 40959, July 30, 2021.Link to a correction published at 86 FR 43915, Aug. 11, 2021.
 
 The draws of the bridges operated by the City of Chicago over the Main Branch of Chicago River, the bridges on the North Branch of Chicago River from the Main Branch to North Halsted Street, mile 2.65, and bridges on the South Branch of Chicago River from the Main Branch to South Ashland Avenue, mile 4.47, shall operate as follows:
 

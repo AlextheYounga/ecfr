@@ -1,5 +1,7 @@
 ##### § 121.1 First-Class Mail. #####
 
+Link to an amendment published at 86 FR 43952, Aug. 11, 2021.
+
 (a)(1) Until January 5, 2015, a 1-day (overnight) service standard is applied to intra-Sectional Center Facility (SCF) domestic First-Class Mail® pieces properly accepted before the day-zero Critical Entry Time (CET), except for mail between Puerto Rico and the U.S. Virgin Islands, mail between American Samoa and Hawaii, and mail destined to the following 3-digit ZIP Code areas in Alaska (or designated portions thereof): 995 (5-digit ZIP Codes 99540 through 99599), 996, 997, 998, and 999.
 
 (2) On and after January 5, 2015, a 1-day (overnight) service standard is applied to intra-SCF domestic Presort First-Class Mail pieces properly accepted at the SCF before the day-zero CET, except for mail between Puerto Rico and the U.S. Virgin Islands, and mail destined to American Samoa and the following 3-digit ZIP Code areas in Alaska (or designated portions thereof): 995 (5-digit ZIP Codes 99540 through 99599), 996, 997, 998, and 999.

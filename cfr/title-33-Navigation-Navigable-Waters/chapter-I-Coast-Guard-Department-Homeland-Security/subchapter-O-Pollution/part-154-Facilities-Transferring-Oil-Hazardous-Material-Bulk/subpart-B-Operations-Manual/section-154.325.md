@@ -1,5 +1,7 @@
 ##### § 154.325 Operations manual: Procedures for examination. #####
 
+Link to an amendment published at 86 FR 43941, Aug. 11, 2021.
+
 (a) The operator of a facility shall submit two copies of the Operations Manual to the Captain of the Port of the zone in which the facility is located.
 
 (b) Not less than 60 days prior to any transfer operation, the operator of a new facility shall submit, with the letter of intent, two copies of the Operations Manual to the Captain of the Port of the zone in which the facility is located.

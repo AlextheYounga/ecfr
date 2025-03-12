@@ -1,5 +1,7 @@
 ##### 19.706 Responsibilities of the cognizant administrative contracting officer. #####
 
+Link to an amendment published at 86 FR 44254, Aug. 11, 2021.
+
 The administrative contracting officer is responsible for assisting in evaluating subcontracting plans, and for monitoring, evaluating, and documenting contractor performance under the clause prescribed in 19.708(b) and any subcontracting plan included in the contract. The contract administration office shall provide the necessary information and advice to support the contracting officer, as appropriate, by furnishing -
 
 (a) Documentation on the contractor's performance and compliance with subcontracting plans under previous contracts;

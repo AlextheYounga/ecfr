@@ -1,5 +1,7 @@
 ##### 19.501 General. #####
 
+Link to an amendment published at 86 FR 44248, Aug. 11, 2021.
+
 (a)(1) The purpose of small business set-asides is to award certain acquisitions exclusively to small business concerns. A “set-aside for small business” is the limiting of an acquisition exclusively for participation by small business concerns. A small business set-aside may be open to any of the small business concerns identified at 19.000(a)(3). A small business set-aside of a single acquisition or a class of acquisitions may be total or partial.
 
 (2) The purpose of small business reserves is to award one or more multiple-award contracts to any of the small business concerns identified at 19.000(a)(3), under a full and open competition. A small business reserve shall not be used when the acquisition can be set aside, in total or in part.

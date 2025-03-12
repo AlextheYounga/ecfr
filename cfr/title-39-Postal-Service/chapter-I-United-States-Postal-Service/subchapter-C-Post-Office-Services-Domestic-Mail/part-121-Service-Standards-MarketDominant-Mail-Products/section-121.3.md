@@ -1,5 +1,7 @@
 ##### § 121.3 Standard Mail. #####
 
+Link to an amendment published at 86 FR 43952, Aug. 11, 2021.
+
 (a) *End-to-End.* (1) The service standard for Sectional Center Facility (SCF) turnaround Standard Mail® pieces accepted at origin before the day-zero Critical Entry Time is 3 days when the origin Processing & Distribution Center/Facility (OPD&C/F) and the SCF are the same building, except for mail between the territories of Puerto Rico and the U.S. Virgin Islands.
 
 (2) The service standard for Area Distribution Center (ADC) turnaround Standard Mail pieces accepted at origin before the day-zero Critical Entry Time is 4 days when the OPD&C/F and the ADC are the same building, unless the ADC is in the contiguous 48 states and the delivery address is not, or the mail is between Puerto Rico and the U.S. Virgin Islands, or the mail is between Hawaii and American Samoa.

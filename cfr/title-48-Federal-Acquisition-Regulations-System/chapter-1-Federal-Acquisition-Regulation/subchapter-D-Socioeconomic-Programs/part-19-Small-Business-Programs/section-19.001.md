@@ -1,5 +1,7 @@
 ##### 19.001 Definitions. #####
 
+Link to an amendment published at 86 FR 44241, Aug. 11, 2021.
+
 As used in this part -
 
 *Concern* means any business entity organized for profit (even if its ownership is in the hands of a nonprofit entity) with a place of business located in the United States or its outlying areas and that makes a significant contribution to the U.S. economy through payment of taxes and/or use of American products, material and/or labor, etc. “Concern” includes but is not limited to an individual, partnership, corporation, joint venture, association, or cooperative. For more information, see 13 CFR 121.105.

@@ -1,5 +1,7 @@
 ##### § 156.120 Requirements for transfer. #####
 
+Link to an amendment published at 86 FR 43941, Aug. 11, 2021.
+
 A transfer is considered to begin when the person in charge on the transferring vessel or facility and the person in charge on the receiving facility or vessel first meet to begin completing the declaration of inspection, as required by § 156.150 of this part. No person shall conduct an oil or hazardous material transfer operation unless:
 
 (a) The vessel's moorings are strong enough to hold during all expected conditions of surge, current, and weather and are long enough to allow adjustment for changes in draft, drift, and tide during the transfer operation;

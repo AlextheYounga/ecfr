@@ -1,5 +1,7 @@
 ##### § 154.300 Operations manual: General. #####
 
+Link to an amendment published at 86 FR 43940, Aug. 11, 2021.
+
 (a) The facility operator of each facility to which this part applies shall submit, with the letter of intent, two copies of an Operations Manual that:
 
 (1) Describes how the applicant meets the operating rules and equipment requirements prescribed by this part and part 156 of this chapter;

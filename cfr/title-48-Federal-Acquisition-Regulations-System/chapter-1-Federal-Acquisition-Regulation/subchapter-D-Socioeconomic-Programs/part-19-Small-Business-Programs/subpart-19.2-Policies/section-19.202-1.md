@@ -1,5 +1,7 @@
 ##### 19.202-1 Encouraging small business participation in acquisitions. #####
 
+Link to an amendment published at 86 FR 44248, Aug. 11, 2021.
+
 Small business concerns shall be afforded an equitable opportunity to compete for all contracts that they can perform to the extent consistent with the Government's interest. When applicable, the contracting officer shall take the following actions:
 
 (a) Divide proposed acquisitions of supplies and services (except construction) into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement.

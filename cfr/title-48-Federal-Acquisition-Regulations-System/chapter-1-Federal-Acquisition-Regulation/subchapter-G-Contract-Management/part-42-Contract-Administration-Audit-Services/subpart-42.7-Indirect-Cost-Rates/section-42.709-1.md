@@ -1,5 +1,7 @@
 ##### 42.709-1 General. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 (a) The following penalties apply to contracts covered by this section:
 
 (1) If the indirect cost is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the penalty is equal to -

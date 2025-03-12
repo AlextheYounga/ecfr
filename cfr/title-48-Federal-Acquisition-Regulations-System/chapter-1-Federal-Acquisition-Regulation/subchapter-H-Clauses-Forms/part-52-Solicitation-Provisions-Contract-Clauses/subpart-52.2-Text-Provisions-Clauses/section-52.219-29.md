@@ -1,5 +1,7 @@
 ##### 52.219-29 Notice of Set-Aside for, or Sole Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns. #####
 
+Link to an amendment published at 86 FR 44246, Aug. 11, 2021.
+
 As prescribed in 19.1508(a), insert the following clause:
 
 Notice of Set-Aside for, or Sole Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (MAR 2020)

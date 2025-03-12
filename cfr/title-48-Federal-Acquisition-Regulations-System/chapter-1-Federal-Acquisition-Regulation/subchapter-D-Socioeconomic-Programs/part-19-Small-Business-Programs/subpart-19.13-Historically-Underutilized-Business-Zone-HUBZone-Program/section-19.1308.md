@@ -1,5 +1,7 @@
 ##### 19.1308 Limitations on subcontracting and nonmanufacturer rule. #####
 
+Link to an amendment published at 86 FR 44243, Aug. 11, 2021.
+
 (a) *Definitions.* See 13 CFR 125.1 for definitions of terms used in paragraph (b) of this section.
 
 (b) *Limitations on subcontracting.* To be awarded a contract or order under the HUBZone program, the HUBZone small business concern is required -

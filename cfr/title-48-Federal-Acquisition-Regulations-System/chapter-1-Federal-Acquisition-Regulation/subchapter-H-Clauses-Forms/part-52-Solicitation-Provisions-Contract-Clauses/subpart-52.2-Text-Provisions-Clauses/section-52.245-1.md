@@ -1,5 +1,7 @@
 ##### 52.245-1 Government Property. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 As prescribed in 45.107(a), insert the following clause:
 
 Government Property (JAN 2017)

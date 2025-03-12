@@ -1,5 +1,7 @@
 ##### 42.709-2 Responsibilities. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 (a) The cognizant contracting officer is responsible for -
 
 (1) Determining whether the penalties in 42.709-1(a) should be assessed;

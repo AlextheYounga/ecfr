@@ -1,5 +1,7 @@
 ##### 52.219-16 Liquidated Damages - Subcontracting Plan. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 As prescribed in 19.708(b)(2), insert the following clause:
 
 Liquidated Damages - Subcontracting Plan (JAN 1999)

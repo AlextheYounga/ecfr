@@ -1,5 +1,7 @@
 ##### 52.219-33 Nonmanufacturer Rule. #####
 
+Link to an amendment published at 86 FR 44246, Aug. 11, 2021.
+
 As prescribed in 19.507(h), insert the following clause:
 
 Nonmanufacturer Rule (MAR 2020)

@@ -1,5 +1,7 @@
 ##### 52.242-3 Penalties for Unallowable Costs. #####
 
+Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+
 As prescribed in 42.709-6, use the following clause:
 
 Penalties for Unallowable Costs (MAY 2014)

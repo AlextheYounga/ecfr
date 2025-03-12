@@ -1,5 +1,7 @@
 ##### 19.1507 Limitations on subcontracting and nonmanufacturer rule. #####
 
+Link to an amendment published at 86 FR 44243, Aug. 11, 2021.
+
 (a) *Limitations on subcontracting.* To be awarded a contract or order under the WOSB Program, the contractor is required to perform -
 
 (1) For services (except construction), at least 50 percent of the cost incurred for personnel with its own employees;
