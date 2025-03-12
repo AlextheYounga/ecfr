@@ -1,7 +1,5 @@
 ##### § 2.124 Depositions upon written questions. #####
 
-Link to a correction of the above amendment published at 81 FR 89383, December 12, 2016.
-
 (a) A deposition upon written questions may be taken before any person before whom depositions may be taken as provided by Rule 28 of the Federal Rules of Civil Procedure.
 
 (b)(1) A party desiring to take a testimonial deposition upon written questions shall serve notice thereof upon each adverse party within ten days from the opening date of the testimony period of the party who serves the notice. The notice shall state the name and address of the witness. A copy of the notice, but not copies of the questions, shall be filed with the Trademark Trial and Appeal Board.

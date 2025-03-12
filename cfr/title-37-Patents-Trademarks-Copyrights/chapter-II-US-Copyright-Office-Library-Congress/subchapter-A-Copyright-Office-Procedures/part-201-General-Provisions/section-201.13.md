@@ -1,8 +1,6 @@
 ##### § 201.13 Notices of objection to certain noncommercial performances of nondramatic literary or musical works. #####
 
-Link to an amendment published at 82 FR 9357, February 6, 2017.
-
-(a) *Definitions.* (1) A *Notice of Objection* is a notice, as required by section 110(4) of title 17 of the United States Code as amended by Pub. L. 94-553, to be served as a condition of preventing the noncommercial performance of a nondramatic literary or musical work under certain circumstances.
+(a) *Definitions.* (1) A *Notice of Objection* is a notice, as required by 17 U.S.C. 110(4), to be served as a condition of preventing the noncommercial performance of a nondramatic literary or musical work under certain circumstances.
 
 (2) For purposes of this section, the *copyright owner* of a nondramatic literary or musical work is the author of the work (including, in the case of a work made for hire, the employer or other person for whom the work was prepared), or a person or organization that has obtained ownership of the exclusive right, initially owned by the author of performance of the type referred to in 17 U.S.C. 110(4). If the other requirements of this section are met, a Notice of Objection may cover the works of more than one copyright owner.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (2) The signature of each owner or agent shall be an actual handwritten signature of an individual, accompanied by the date of signature and the full name, address, and telephone number of that person, typewritten or printed legibly by hand.
 
-(3) If a Notice of Objection is initially served in the form of a telegram or similar communication, as provided by paragraph (e) of this section, the requirement for an individual's handwritten signature shall be considered waived if the further conditions of said paragraph (e) are met.
+(3) If a Notice of Objection is initially served in the form of an email, fax, or similar communication, as provided by paragraph (e) of this section, the requirement for an individual's handwritten signature shall be considered waived if the further conditions of paragraph (e) are met.
 
 (e) *Service.* (1) A Notice of Objection shall be served on the person responsible for the performance at least seven days before the date of the performance, as provided by 17 U.S.C. 110 (4)(B)(ii).
 
@@ -46,7 +44,7 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (ii) First-class mail;
 
-(iii) Telegram, cablegram, or similar form of communication, if:
+(iii) Email, fax, or similar form of communication, if:
 
 (A) The Notice meets all of the other conditions provided by this section; and
 
@@ -54,4 +52,4 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (3) The date of service is the date the Notice of Objection is received by the person responsible for the performance or any agent or employee of that person.
 
-(Pub. L. 94-553; 17 U.S.C. 110(4), 702)[42 FR 64684, Dec. 28, 1977]
+(Pub. L. 94-553; 17 U.S.C. 110(4), 702)[42 FR 64684, Dec. 28, 1977, as amended at 82 FR 9357, Feb. 6, 2017]

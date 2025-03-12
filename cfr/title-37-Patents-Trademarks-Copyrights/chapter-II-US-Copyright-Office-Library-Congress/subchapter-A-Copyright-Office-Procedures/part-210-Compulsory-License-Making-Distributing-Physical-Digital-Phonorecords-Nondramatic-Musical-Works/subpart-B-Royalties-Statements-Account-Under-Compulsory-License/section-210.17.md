@@ -1,7 +1,5 @@
 ##### § 210.17 Annual statements of account. #####
 
-Link to an amendment published at 82 FR 9365, February 6, 2017.
-
 (a) *Forms.* The Copyright Office does not provide printed forms for the use of persons serving Annual Statements of Account.
 
 (b) *Annual period.* Any Annual Statement of Account shall cover the full fiscal year of the compulsory licensee.
@@ -80,7 +78,7 @@ Link to an amendment published at 82 FR 9365, February 6, 2017.
 
 (viii) The International Standard Work Code (ISWC) or other unique identifier for the nondramatic musical work, if known.
 
-(ix) Identification of the relevant phonorecord configuration (for example: Compact disc, permanent digital download, ringtone) or offering (for example: Limited download, music bundle) for which the royalty was calculated, including, if applicable and except for physical phonorecords, the name of the third-party distributor of the configuration or offering.
+(ix) Identification of the relevant phonorecord configuration (for example: compact disc, permanent digital download, ringtone) or offering (for example: limited download, music bundle) for which the royalty was calculated, including, if applicable and except for physical phonorecords, the name of the third-party distributor of the configuration or offering.
 
 (e) *Clear statement.* The information required by paragraph (c) of this section requires intelligible, legible, and unambiguous statements in the Annual Statement of Account without incorporation by reference of facts or information contained in other documents or records.
 
@@ -140,6 +138,6 @@ Link to an amendment published at 82 FR 9365, February 6, 2017.
 
 (6) If an Annual Statement of Account is sent by certified mail or registered mail, a mailing receipt shall be sufficient to prove that service was timely. If an Annual Statement of Account is sent by a reputable courier, documentation from the courier showing the first date of attempted delivery shall be sufficient to prove that service was timely. If an Annual Statement of Account or a link thereto is sent by electronic mail, a return receipt shall be sufficient to prove that service was timely. In the absence of the foregoing, the compulsory licensee shall bear the burden of proving that the Annual Statement of Account was served in a timely manner.
 
-(h) *Annual Statements for periods before the effective date of this regulation.* If a copyright owner did not receive an Annual Statement of Account from a compulsory licensee for any fiscal year ending after March 1, 2009 and before November 17, 2014, the copyright owner may, at any time before May 17, 2015, make a request in writing to that compulsory licensee requesting an Annual Statement of Account for the relevant fiscal year conforming to the requirements of this section. If such a request is made, the compulsory licensee shall provide the Annual Statement of Account within 6 months after receiving the request. If such a circumstance and request applies to more than one of the compulsory licensee's fiscal years, such years may be combined on a single statement.
+(h) *Annual Statements for periods before the effective date of this regulation.* If a copyright owner did not receive an Annual Statement of Account from a compulsory licensee for any fiscal year ending after March 1, 2009 and before November 17, 2014, the copyright owner may, at any time before May 17, 2015, make a request in writing to that compulsory licensee requesting an Annual Statement of Account for the relevant fiscal year conforming to the requirements of this section. If such a request is made, the compulsory licensee shall provide the Annual Statement of Account within six months after receiving the request. If such a circumstance and request applies to more than one of the compulsory licensee's fiscal years, such years may be combined on a single statement.
 
-[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014]
+[79 FR 56206, Sept. 18, 2014, as amended at 79 FR 60978, Oct. 9, 2014; 82 FR 9365, Feb. 6, 2017]

@@ -1,7 +1,5 @@
 ##### § 201.28 Statements of Account for digital audio recording devices or media. #####
 
-Link to an amendment published at 82 FR 9358, February 6, 2017.
-
 (a) *General.* This section prescribes rules pertaining to the filing of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 1003(c) and 1004, in order to import and distribute, or manufacture and distribute, in the United States any digital audio recording device or digital audio recording medium.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -30,11 +28,11 @@ Link to an amendment published at 82 FR 9358, February 6, 2017.
 
 (2) *Quarterly filings.* Quarterly Statements of Account shall be filed on Form DART/Q and shall cover a three-month period corresponding to the calendar or fiscal year of the filing party. A quarterly statement shall be filed no later than 45 days after the close of the period it covers.
 
-(3) *Annual filings.* Annual Statements of Account shall be filed on Form DART/A and shall cover both the fourth quarter of an accounting year and the aggregate of the entire year corresponding to the calendar or fiscal accounting year elected. An annual statement shall be filed no later than two months after the close of the period it covers. As a transitional measure, however, the first annual Statement of Account filed after October 28, 1992, is not due until March 1, 1994, or two months after the end of the calendar or fiscal year in which the manufacturing or importing party first filed a quarterly Statement of Account, whichever is later. The first annual Statement of Account shall cover the entire period from October 28, 1992, to the end of the full accounting year. The appropriate royalty payment, calculated according to the instructions contained in Form DART/A, shall accompany the annual Statement of Account covering royalties due for the filing year: that is, royalties for the fourth quarter and any additional royalties that are due because of adjustments in the aggregate amounts of devices or media distributed.
+(3) *Annual filings.* Annual Statements of Account shall be filed on Form DART/A and shall cover both the fourth quarter of an accounting year and the aggregate of the entire year corresponding to the calendar or fiscal accounting year elected. An annual statement shall be filed no later than two months after the close of the period it covers. The appropriate royalty payment, calculated according to the instructions contained in Form DART/A, shall accompany the annual Statement of Account covering royalties due for the filing year: that is, royalties for the fourth quarter and any additional royalties that are due because of adjustments in the aggregate amounts of devices or media distributed.
 
 (4) *Early or late filings.* Statements of Account and royalty fees received before the end of the particular accounting period covered by the statement will not be processed by the Office. The statement must be filed after the close of the relevant accounting period. Statements of Account and royalty fees received after the 45-day deadline for quarterly statements or the two-month deadline for annual statements will be accepted for whatever legal effect they may have and will be assessed the appropriate interest charge for the late filing.
 
-(d) *Forms.* (1) Each quarterly or annual Statement of Account shall be submitted on the appropriate form prescribed by the Copyright Office. Computation of the royalty fee shall be in accordance with the procedures set forth in the forms and this section. Statement of Account forms are available from the Licensing Division, Library of Congress. Forms and other information may be requested from the Licensing Division by facsimile transmission (FAX), but copies of Statement of Account forms transmitted to the Office by FAX will not be accepted.
+(d) *Forms.* (1) Each quarterly or annual Statement of Account shall be submitted on the appropriate form prescribed by the Copyright Office. Computation of the royalty fee shall be in accordance with the procedures set forth in the forms and this section. Statement of Account forms are available free from the Copyright Office website. Copies of Statement of Account forms transmitted to the Office by fax will not be accepted.
 
 (2) Forms prescribed by the Copyright Office are designated Quarterly Statement of Account for Digital Audio Recording Products (Form DART/Q) and Annual Statement of Account for Digital Audio Recording Products (Form DART/A).
 
@@ -96,7 +94,7 @@ Link to an amendment published at 82 FR 9358, February 6, 2017.
 
 (ii) Notice of this provision together with directions for possible application to a product is contained in the DART/Q Form.
 
-(5) *Contact party.* Each Statement of Account shall include the name, address, and telephone and facsimile (FAX) numbers of an individual whom the Copyright Office can write or call about the Statement of Account.
+(5) *Contact party.* Each Statement of Account shall include the name, address, and telephone and fax numbers of an individual whom the Copyright Office can write or call about the Statement of Account.
 
 (6) *Credits for returned or exported products.* When digital audio recording products first distributed in the United States for ultimate transfer to United States consumers are returned to the manufacturer or importer as unsold or defective merchandise, or are exported, the manufacturing or importing party may take a credit to be deducted from the royalties payable for the period when the products were returned or exported. The credit may be taken only for returns or exports made within two years following the date royalties were paid for the products. This credit must be reflected in the manufacturing or importing party's quarterly or annual Statement of Account. If the manufacturer or importer later redistributes in the United States any products for which a credit has been taken, these products must be listed on the Statement of Account, and a new computation of the royalty fee must be made based on the transfer price of the products at the time of the new distribution.
 
@@ -166,7 +164,7 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (3) Requests that corrections to annual or quarterly Statements of Account be accepted, that fee payments be accepted, or that refunds be issued shall be addressed to the Licensing Division of the Copyright Office, and shall meet the following conditions:
 
-(i) The request shall be made in writing and must clearly identify the manufacturing or importing party making the request, the accounting period in question, and the purpose of the request. A request for a refund must be received in the Copyright Office before the expiration of two months from the last day of the applicable Statement of Account filing period. A request made by telephone or by telegraphic or similar unsigned communication will be considered to meet this requirement if it clearly identifies the basis of the request, is received in the Copyright Office within the two-month period, and a written request meeting all the conditions of this paragraph (j)(3) is also received in the Copyright Office within 14 days after the end of such two-month period.
+(i) The request shall be made in writing and must clearly identify the manufacturing or importing party making the request, the accounting period in question, and the purpose of the request. A request for a refund must be received in the Copyright Office before the expiration of two months from the last day of the applicable Statement of Account filing period. Telephone or similar unsigned requests that meet these conditions may be permitted, where a follow-up written request detailing the same information is received by the Copyright Office within 14 days after the required 60-day period.
 
 (ii) The request must clearly identify the incorrect or incomplete information formerly filed and must provide the correct or additional information.
 
@@ -194,4 +192,4 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (m) *Confidentiality of Statements of Account.* Public access to the Copyright Office files of Statements of Account for digital audio recording products shall not be provided. Access will only be granted to interested copyright parties in accordance with regulations prescribed by the Register of Copyrights pursuant to 17 U.S.C. 1003(c).
 
-[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008]
+[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017]

@@ -1,14 +1,12 @@
 ##### § 201.11 Satellite carrier statements of account covering statutory licenses for secondary transmissions. #####
 
-Link to an amendment published at 82 FR 9357, February 6, 2017.
+(a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by the satellite carrier license of 17 U.S.C. 119(b)(1), as amended by Public Law 111-175, in order for certain secondary transmissions by satellite carriers for private home viewing to be subject to statutory licensing.
 
-(a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by the satellite carrier license of section 119(b)(1) and Section 122(a) of title 17 of the United States Code, as amended by Pub. L. No. 111-175, in order that certain secondary transmissions by satellite carriers for private home viewing be subject to statutory licensing.
-
-(b) *Definitions.* (1) The terms *distributor, network station, private home viewing, satellite carrier, subscribe, subscriber, non-network station, unserved household, primary stream, and multicast stream*, have the meanings set forth in Section 119(d) of title 17 of the United States Code, as amended by Pub. L. No. 111-175.
+(b) *Definitions.* (1) The terms *distributor*, *network station*, *private home viewing*, *satellite carrier*, *subscribe*, *subscriber*, *non-network station*, *unserved household*, *primary stream*, and *multicast stream*, have the meanings set forth in 17 U.S.C. 119(d), as amended by Public Law 111-175.
 
 (2) The terms *primary transmission* and *secondary transmission* have the meanings set forth in section 111(f) of title 17 of the United States Code.
 
-(c) *Accounting periods and deposit.* (1) Statements of Account shall cover semiannual accounting periods of January 1 through June 30, and July 1 through December 31, and shall be deposited in the Copyright Office, together with the total statutory royalty fee or the confirmed arbitration royalty fee for such accounting periods as prescribed by section 119(b)(1)(B) and (c)(3) of title 17, by not later than July 30, if the Statement of Account covers the January 1 through June 30 accounting period, and by not later than the immediately following January 30, if the Statement of Account covers the July 1 through December 31 accounting period.
+(c) *Accounting periods and deposit.* (1) Statements of Account shall cover semiannual accounting periods of January 1 through June 30, and July 1 through December 31, and shall be deposited in the Copyright Office, together with the total statutory royalty fee or the confirmed arbitration royalty fee for such accounting periods as prescribed by 17 U.S.C. 119(b)(1)(B), by no later than July 30, if the Statement of Account covers the January 1 through June 30 accounting period, and by no later than the immediately following January 30, if the Statement of Account covers the July 1 through December 31 accounting period.
 
 (2) Upon receiving a Statement of Account and royalty fee, the Copyright Office will make an official record of the actual date when such statement and fee were physically received in the Copyright Office. Thereafter, the Licensing Division of the Copyright Office will examine the statement and fee for obvious errors or omissions appearing on the face of the documents, and will require that any such obvious errors or omissions be corrected before final processing of the documents is completed. If, as the result of communications between the Copyright Office and the satellite carrier, an additional fee is deposited or changes or additions are made in the Statement of Account, the date that additional deposit or information was actually received in the Office will be added to the official record of the case. However, completion by the Copyright Office of the final processing of a Statement of Account and royalty fee deposit shall establish only the fact of such completion and the date or dates of receipt shown in the official record. It shall in no case be considered a determination that the Statement of Account was, in fact, properly prepared and accurate, that the correct amount of the royalty fee had been deposited, that the statutory time limits for filing had been met, or that any other requirements to qualify for a statutory license have been satisfied.
 
@@ -16,9 +14,9 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (4) In the Register's discretion, four years after the close of any calendar year, the Register may close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.
 
-(d) *Forms.* (1) Each Statement of Account shall be furnished on an appropriate form prescribed by the U.S. Copyright Office, and shall contain the information required by that form and its accompanying instructions. Computation of the copyright royalty fee shall be in accordance with the procedures set forth in the forms. Copies of Statement of Account forms are available free upon request. Requests may be mailed to the address specified in § 201.1.
+(d) *Forms.* (1) Each Statement of Account shall be furnished on an appropriate form prescribed by the Copyright Office, and shall contain the information required by that form and its accompanying instructions. Computation of the copyright royalty fee shall be in accordance with the procedures set forth in the forms. Copies of Statement of Account forms are available free from the Copyright Office website.
 
-(2) The form prescribed by the Copyright Office is designated “Statement of Account for Secondary Transmissions by Satellite Carriers to Home Viewers.”
+(2) The form prescribed by the Copyright Office is designated “ Form SC (Statement of Account for Secondary Transmissions by Satellite Carriers of Distant Television Signals).”
 
 (e) *Contents.* Each Statement of Account shall contain the following information:
 
@@ -46,9 +44,9 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (ii) The total number of subscribers to each network station for each month of the period covered by the Statement. This number is the number of subscribers to each network station receiving the retransmission on the last day of each month.
 
-(6) The total number of subscribers to each non-network station for the six-month period covered by the Statement multiplied by the statutory royalty rate prescribed in § 258.3 of this chapter.
+(6) The total number of subscribers to each non-network station for the six-month period covered by the Statement multiplied by the statutory royalty rate prescribed in § 386.2 of this chapter.
 
-(7) The total number of subscribers to each network station for the six-month period covered by the Statement multiplied by the statutory royalty rate prescribed in § 258.3 of this chapter.
+(7) The total number of subscribers to each network station for the six-month period covered by the Statement multiplied by the statutory royalty rate prescribed in § 386.2 of this chapter.
 
 (8) The name, address, business title, and telephone number of the individual or individuals to be contacted for information or questions concerning the content of the Statement of Account.
 
@@ -110,13 +108,13 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (3) Requests that corrections to a Statement of Account be placed on record, that fee payments be accepted, or requests for the issuance of refunds, shall be made only in the cases mentioned in paragraph (h)(1) of this section. Such requests shall be addressed to the Licensing Division of the Copyright Office, and shall meet the following conditions:
 
-(i) The request must be in writing, must clearly identify its purpose, and, in the case of a request for a refund, must be received in the Copyright Office before the expiration of 30 days from the last day of the applicable Statement of Account filing period, or before the expiration of 30 days from the date of receipt at the Copyright Office of the royalty payment that is the subject of the request, whichever time period is longer. A telegraphic or similar unsigned communication will be considered to meet this requirement if it clearly identifies the basis of the request, if it is received in the Copyright Office within the required 30-day period, and if a written request meeting all the conditions of this paragraph (h)(3) is also received in the Copyright Office within 14 days after the end of such 30-day period:
+(i) The request must be in writing, must clearly identify its purpose, and, in the case of a request for a refund, must be received in the Copyright Office before the expiration of 30 days from the last day of the applicable Statement of Account filing period, or before the expiration of 30 days from the date of receipt at the Copyright Office of the royalty payment that is the subject of the request, whichever time period is longer. Telephone or similar unsigned requests that meet these conditions may be permitted, where a follow-up written request detailing the same information is received by the Copyright Office within fourteen days after the required thirty-day period.
 
-(ii) The Statement of Account to which the request pertains must be sufficiently identified in the request (by inclusion of the name of the owner of the satellite carrier and the accounting period in question) so that it can be readily located in the records of the Copyright Office;
+(ii) The Statement of Account to which the request pertains must be sufficiently identified in the request (by inclusion of the name of the owner of the satellite carrier and the accounting period in question) so that it can be readily located in the records of the Copyright Office.
 
 (iii) The request must contain a clear statement of the facts on which it is based and provide a clear basis on which a refund may be granted, in accordance with the following procedures:
 
-(A) In the case of a request filed under paragraph (h)(1)(i) of this section, where the information given in the Statement of Account is incorrect or incomplete, the request must clearly identify the erroneous or incomplete information and provide the correct or additional information:
+(A) In the case of a request filed under paragraph (h)(1)(i) of this section, where the information given in the Statement of Account is incorrect or incomplete, the request must clearly identify the erroneous or incomplete information and provide the correct or additional information; or
 
 (B) In the case of a request filed under paragraph (h)(1)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an affidavit under the official seal of any officer authorized to administer oaths within the United States, or a statement in accordance with section 1746 of title 28 of the United States Code, made and signed in accordance with paragraph (e)(9) of this section. The affidavit or statement shall describe the reasons why the royalty fee was improperly calculated and include a detailed analysis of the proper royalty calculation.
 
@@ -138,4 +136,4 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (3) Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
 
-[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013]
+[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017]

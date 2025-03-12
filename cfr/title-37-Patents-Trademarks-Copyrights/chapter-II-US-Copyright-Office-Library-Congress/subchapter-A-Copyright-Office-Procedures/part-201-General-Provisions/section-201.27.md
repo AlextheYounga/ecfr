@@ -1,14 +1,12 @@
 ##### § 201.27 Initial notice of distribution of digital audio recording devices or media. #####
 
-Link to an amendment published at 82 FR 9358, February 6, 2017.
-
 (a) *General.* This section prescribes rules pertaining to the filing of an Initial Notice of Distribution in the Copyright Office as required by section 1003(b) of the Audio Home Recording Act of 1992, Public Law 102-563, title 17 of the United States Code, to obtain a statutory license to import and distribute, or manufacture and distribute, any digital audio recording device or digital audio recording medium in the United States.
 
-(b) *Definitions* - (1) *An Initial Notice of Distribution of Digital Audio Recording Devices or Media or Initial Notice* is a notice under section 1003(b) of the Audio Home Recording Act of 1992, Public Law 102-563, title 17 of the United States Code, which is required by that section to be filed in the Copyright Office by an importer or manufacturer of a digital audio recording device or digital audio recording medium who has not previously filed notice of the importation or manufacture for distribution of such device or medium in the United States.
+(b) *Definitions.* (1) An *Initial Notice of Distribution of Digital Audio Recording Devices or Media or Initial Notice* is a notice under section 1003(b) of the Audio Home Recording Act of 1992, Public Law 102-563, title 17 of the United States Code, which is required by that section to be filed in the Copyright Office by an importer or manufacturer of a digital audio recording device or digital audio recording medium who has not previously filed notice of the importation or manufacture for distribution of such device or medium in the United States.
 
 (2) The *product category* of a device or medium is a general class of products made up of functionally equivalent digital audio recording devices or media with substantially the same use in substantially the same environment, including, for example, hand-held portable integrated combination units (“boomboxes”); portable personal recorders; stand-alone home recorders (“tape decks”); home combination systems (“rack systems”); automobile recorders; configurations of tape media (standard cassettes or microcassettes); and configurations of disc media such as 21/2,″ 3″ and 5″ discs.
 
-(3) The *technology* of a device or medium is a product type distinguished by different technical processes for digitally recording musical sounds, such as digital audio tape recorders (DAT), digital compact cassette, (DCC), or recordable compact discs, including minidiscs (MD).
+(3) The *technology* of a device or medium is a product type distinguished by different technical processes for digitally recording musical sounds, such as digital audio tape recorders (DAT), digital compact cassette (DCC), or recordable compact discs, including minidiscs (MD).
 
 (4) The terms *digital audio recording device, digital audio recording medium, distribute, manufacture,* and *transfer price,* have the meanings of the same terms as they are used in section 1001 of the Copyright Act, title 17 of the United States Code, as amended by Public Law 102-563.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 82 FR 9358, February 6, 2017.
 
 (2) No fee shall be required for the recording of Initial Notices. The fee for filing an Amendment to an Initial Notice of Distribution of Digital Audio Recording Devices or Media is prescribed in § 201.3(e).
 
-[57 FR 55465, Nov. 25, 1992, as amended at 64 FR 36575, July 7, 1999; 72 FR 33692, June 19, 2007; 78 FR 42874, July 18, 2013]
+[57 FR 55465, Nov. 25, 1992, as amended at 64 FR 36575, July 7, 1999; 72 FR 33692, June 19, 2007; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017]

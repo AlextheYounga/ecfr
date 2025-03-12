@@ -1,7 +1,5 @@
 ##### § 202.22 Acquisition and deposit of unpublished audio and audiovisual transmission programs. #####
 
-Link to an amendment published at 82 FR 9362, February 6, 2017.
-
 (a) *General.* This section prescribes rules pertaining to the acquisition of phonorecords and copies of unpublished audio and audiovisual transmission programs by the Library of Congress under section 407(e) of title 17 of the United States Code, as amended. It also prescribes rules pertaining to the use of such phonorecords and copies in the registration of claims to copyright, under section 408(b).
 
 (b) *Definitions.* For purposes of this section:
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 9362, February 6, 2017.
 
 (7) If it is declared that the program was published at the time of transmission, the Library of Congress is entitled under this section to retain the copy or phonorecord to satisfy the deposit requirement of section 407(a) of title 17 of the United States Code.
 
-(8) The Library of Congress shall maintain a list of the radio, cable, Internet and satellite transmission programs that the Library has recorded on the Motion Picture, Broadcasting and Recorded Sound Division Web site at *http://www.loc.gov/rr/record/* for audio transmission programs, or *http://www.loc.gov/rr/mopic/* for audiovisual transmission programs, and, in making fixations of such unpublished transmission programs, shall identify a program that the Library has recorded by including that transmission program on the list no later than fourteen days after such fixation has occurred. The Library of Congress in making fixations of unpublished television transmission programs transmitted by commercial broadcast stations shall not do so without notifying the transmitting organization or its agent that such activity is taking place. In the case of television network stations, the notification will be sent to the particular network. In the case of any other commercial television broadcasting station, the notification will be sent to the particular broadcast station that has transmitted, or will transmit, the program. Such notice shall, if possible, be given by the Library of Congress prior to the time of broadcast. In every case, the Library of Congress shall transmit such notice no later than fourteen days after such fixation has occurred. Such notice shall contain:
+(8) The Library of Congress shall maintain a list of the radio, cable, Internet and satellite transmission programs that the Library has recorded on the Motion Picture, Broadcasting and Recorded Sound Division website at *http://www.loc.gov/rr/record/* for audio transmission programs, or *http://www.loc.gov/rr/mopic/* for audiovisual transmission programs, and, in making fixations of such unpublished transmission programs, shall identify a program that the Library has recorded by including that transmission program on the list no later than fourteen days after such fixation has occurred. The Library of Congress in making fixations of unpublished television transmission programs transmitted by commercial broadcast stations shall not do so without notifying the transmitting organization or its agent that such activity is taking place. In the case of television network stations, the notification will be sent to the particular network. In the case of any other commercial television broadcasting station, the notification will be sent to the particular broadcast station that has transmitted, or will transmit, the program. Such notice shall, if possible, be given by the Library of Congress prior to the time of broadcast. In every case, the Library of Congress shall transmit such notice no later than fourteen days after such fixation has occurred. Such notice shall contain:
 
 (i) The identification, by title and time of broadcast, of the transmission program in question;
 
@@ -80,7 +78,7 @@ Link to an amendment published at 82 FR 9362, February 6, 2017.
 
 (f) *Registration of claims to copyright.* (1) Copies and phonorecords fixed by the Library of Congress under the provisions of paragraph (c) of this section may be used as the deposit for copyright registration provided that:
 
-(i) The application and fee, in a form acceptable for registration, is received by the Copyright Office not later than ninety days after transmission of the program, and
+(i) The application and fee, in a form acceptable for registration, is received by the Copyright Office no later than ninety days after transmission of the program, and
 
 (ii) Correspondence received by the Copyright Office in the envelope containing the application and fee states that a fixation of the instant work was made by the Library of Congress and requests that the copy or phonorecord so fixed be used to satisfy the registration deposit provisions.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 82 FR 9362, February 6, 2017.
 
 (2) Any such agreement may be terminated without notice by the Library of Congress.
 
-(17 U.S.C. 407, 408, 702)[48 FR 37208, Aug. 17, 1983, as amended at 56 FR 7815, Feb. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 36575, July 7, 1999; 66 FR 34373, June 28, 2001; 69 FR 62411, Oct. 26, 2004]
+(17 U.S.C. 407, 408, 702)[48 FR 37208, Aug. 17, 1983, as amended at 56 FR 7815, Feb. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 36575, July 7, 1999; 66 FR 34373, June 28, 2001; 69 FR 62411, Oct. 26, 2004; 82 FR 9362, Feb. 6, 2017]

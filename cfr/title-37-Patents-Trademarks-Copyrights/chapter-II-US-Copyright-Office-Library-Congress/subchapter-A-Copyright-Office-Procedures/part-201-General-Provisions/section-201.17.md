@@ -1,12 +1,10 @@
 ##### § 201.17 Statements of Account covering compulsory licenses for secondary transmissions by cable systems. #####
 
-Link to an amendment published at 82 FR 9357, February 6, 2017.
+(a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 111(d)(1) in order for secondary transmissions of cable systems to be subject to compulsory licensing.
 
-(a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Coypright Office as required by section 111(d)(2) of title 17 of the United States Code in order for secondary transmissions of cable systems to be subject to compulsory licensing.
+(b) *Definitions.* (1) *Gross receipts* for the “basic service of providing secondary transmissions of primary broadcast transmitters” include the full amount of monthly (or other periodic) service fees for any and all services or tiers of services which include one or more secondary transmissions of television or radio broadcast signals, for additional set fees, and for converter fees. In no case shall gross receipts be less than the cost of obtaining the signals of primary broadcast transmitters for subsequent retransmission. All such gross receipts shall be aggregated and the distant signal equivalent (DSE) calculations shall be made against the aggregated amount. Gross receipts for secondary transmission services do not include installation (including connection, relocation, disconnection, or reconnection) fees, separate charges for security, alarm or facsimile services, charges for late payments, or charges for pay cable or other program origination services: *Provided* That, the origination services are not offered in combination with secondary transmission service for a single fee.
 
-(b) *Definitions.* (1) Gross receipts for the “basic service of providing secondary transmissions of primary broadcast transmitters” include the full amount of monthly (or other periodic) service fees for any and all services or tiers of services which include one or more secondary transmissions of television or radio broadcast signals, for additional set fees, and for converter fees. In no case shall gross receipts be less than the cost of obtaining the signals of primary broadcast transmitters for subsequent retransmission. All such gross receipts shall be aggregated and the distant signal equivalent (DSE) calculations shall be made against the aggregated amount. Gross receipts for secondary transmission services do not include installation (including connection, relocation, disconnection, or reconnection) fees, separate charges for security, alarm or facsimile services, charges for late payments, or charges for pay cable or other program origination services: *Provided* That, the origination services are not offered in combination with secondary transmission service for a single fee.
-
-(2) A *cable system* is a facility, located in any State, Territory, Trust Territory, or Possession, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. A system that meets this definition is considered a “cable system” for copyright purposes, even if the FCC excludes it from being considered a “cable system” because of the number or nature of its subscribers or the nature of its secondary transmissions. The Statements of Account and royalty fees to be deposited under § 201.17 of this section, shall be recorded and deposited by each individual cable system desiring its secondary transmissions to be subject to compulsory licensing. The owner of each individual cable system on the last day of the accounting period covered by a Statement of Account is responsible for depositing the Statement of Account and remitting the copyright royalty fees. For these purposes, and the purpose of § 201.17 of this section, an “individual” cable system is each cable system recognized as a distinct entity under the rules, regulations, and practices of the Federal Communications Commission in effect on the last day of the accounting period covered by a Statement of Account, in the case of the preparation and deposit of a Statement of Account and copyright royalty fee. For these purposes, two or more cable facilities are considered as one individual cable system if the facilities are either:
+(2) A *cable system* is a facility, located in any State, Territory, Trust Territory, or Possession, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. A system that meets this definition is considered a “cable system” for copyright purposes, even if the FCC excludes it from being considered a “cable system” because of the number or nature of its subscribers or the nature of its secondary transmissions. The Statements of Account and royalty fees to be deposited under this section shall be recorded and deposited by each individual cable system desiring its secondary transmissions to be subject to compulsory licensing. The owner of each individual cable system on the last day of the accounting period covered by a Statement of Account is responsible for depositing the Statement of Account and remitting the copyright royalty fees. For these purposes, and the purpose of this section, an “individual” cable system is each cable system recognized as a distinct entity under the rules, regulations, and practices of the Federal Communications Commission in effect on the last day of the accounting period covered by a Statement of Account, in the case of the preparation and deposit of a Statement of Account and copyright royalty fee. For these purposes, two or more cable facilities are considered as one individual cable system if the facilities are either:
 
 (i) In contiguous communities under common ownership or control or
 
@@ -20,15 +18,15 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (ii) As a result of monitoring at reasonable times and intervals, it can be expected to be received at the system's headend, with the system's FM antenna, at least three consecutive hours each day at the same time each day, five or more days a week, for four or more weeks during any calendar quarter, with a strength of not less than fifty microvolts per meter measured at the foot of the tower or pole to which the antenna is attached.
 
-(5) The terms *primary transmission, secondary transmission, local service area of a primary transmitter, distant signal equivalent, network station, independent station, noncommercial educational station, primary stream, multicast stream, simulcast, primary transmitter, subscriber*, and *subscribe* have the meanings set forth in Section 111(f) of title 17 of the United States Code, as amended by Pub. L. No. 94-553, Pub. L. No. 103-369, and Pub. L. No. 111-175.
+(5) The terms *primary transmission*, *secondary transmission*, *local service area of a primary transmitter*, *distant signal equivalent*, *network station*, *independent station*, *noncommercial educational station*, *primary stream*, *multicast stream*, *simulcast*, *primary transmitter*, *subscriber*, and *subscribe* have the meanings set forth in 17 U.S.C. 111(f), as amended by Public Laws 94-553, 103-369, and 111-175.
 
 (6) A primary transmitter is a “distant” station, for purposes of this section, if the programming of such transmitter is carried by the cable system in whole or in part beyond the local service area of such primary transmitter.
 
-(7) A translator station is, with respect to programs both originally transmitted and retransmitted by it, a primary transmitter for the purposes of this section. A translator station which retransmits the programs of a network station will be considered a network station; a translator station which retransmits the programs of an independent station shall be considered an independent station; and a translator station which retransmits the programs of a noncommercial educational station shall be considered a noncommercial educational station. The determination of whether a translator station should be identified as a “distant” station depends on the local service area of the translator station.
+(7) A *translator station* is, with respect to programs both originally transmitted and retransmitted by it, a primary transmitter for the purposes of this section. A translator station which retransmits the programs of a network station will be considered a network station; a translator station which retransmits the programs of an independent station shall be considered an independent station; and a translator station which retransmits the programs of a noncommercial educational station shall be considered a noncommercial educational station. The determination of whether a translator station should be identified as a “distant” station depends on the local service area of the translator station.
 
 (8) For purposes of this section, the “rules and regulations of the FCC in effect on October 19, 1976,” which permitted a cable system, at its election, to omit the retransmission of a particular program and substitute another program in its place, refers to that portion of former 47 CFR 76.61(b)(2), revised June 25, 1981, and § 76.63 (referring to § 76.61(b)(2)), deleted June 25, 1981, concerning the substitution of a program that is primarily of local interest to the distant community (e.g., a local news or public affairs program).
 
-(9) For purposes of this section, the “rules and regulations of the FCC”, which require a cable system to omit the retransmission of a particular program and substitute another program in its place, refers to 47 CFR 76.67.
+(9) For purposes of this section, the “rules and regulations of the FCC,” which require a cable system to omit the retransmission of a particular program and substitute another program in its place, refers to 47 CFR 76.67.
 
 (10) For purposes of this section, a cable system “lacks the activated channel capacity to retransmit on a full-time basis all signals which it is authorized to carry” only if:
 
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (ii) The number of primary television transmitters secondarily transmitted by the cable system exceeds the number of its activated television channels.
 
-(c) *Accounting periods and deposit.* (1) Statements of Account shall cover semiannual accounting periods of (i) January 1 through June 30, and (ii) July 1 through December 31, and shall be deposited in the Copyright Office, together with the total royalty fee for such accounting periods as prescribed by section 111(d)(1) (B), (C), or (D) of title 17, by not later than the immediately following August 29, if the Statement of Account covers the January 1 through June 30 accounting period, and by not later than the immediately following March 1, if the Statement of Account covers the July 1 through December 31 accounting period.
+(c) *Accounting periods and deposit.* (1) Statements of Account shall cover semiannual accounting periods of January 1 through June 30, and July 1 through December 31, and shall be deposited in the Copyright Office, together with the total royalty fee for such accounting periods as prescribed by 17 U.S.C. 111(d)(1)(B) through (F), by no later than the immediately following August 29, if the Statement of Account covers the January 1 through June 30 accounting period, and by no later than the immediately following March 1, if the Statement of Account covers the July 1 through December 31 accounting period.
 
 (2) Upon receiving a Statement of Account and royalty fee, the Copyright Office will make an official record of the actual date when such Statement and fee were physically received in the Copyright Office. Thereafter, the Office will examine the Statement and fee for obvious errors or omissions appearing on the face of the documents, and will require that any such obvious errors or omissions be corrected before final processing of the documents is completed. If, as the result of communications between the Copyright Office and the cable system, an additional fee is deposited or changes or additions are made in the Statement of Account, the date that additional deposit or information was actually received in the Office will be added to the official record of the case. However, completion by the Copyright Office of the final processing of a Statement of Account and royalty fee deposit shall establish only the fact of such completion and the date or dates of receipt shown in the official record. It shall in no case be considered a determination that the Statement of Account was, in fact, properly prepared and accurate, that the correct amount of the royalty fee had been deposited, that the statutory time limits for filing had been met, or that any other requirements to qualify for a compulsory license have been satisfied.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (4) In the Register's discretion, four years after the close of any calendar year, the Register may, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.
 
-(d) *Forms.* (1) Each Statement of Account shall be furnished on an appropriate form prescribed by the U.S. Copyright Office, and shall contain the information required by that form and its accompanying instructions. Computation of distant signal equivalents and the copyright royalty fee shall be in accordance with the procedures set forth in the forms. Copies of Statement of Account forms are available free upon request. Requests may be mailed to the address specified in § 201.1.
+(d) *Forms.* (1) Each Statement of Account shall be furnished on an appropriate form prescribed by the Copyright Office, and shall contain the information required by that form and its accompanying instructions. Computation of distant signal equivalents and the copyright royalty fee shall be in accordance with the procedures set forth in the forms. Copies of Statement of Account forms are available free from the Copyright Office website.
 
 (2) The forms prescribed by the Copyright Office are designated “Statement of Account for Secondary Transmissions By Cable Systems”:
 
@@ -82,7 +80,7 @@ Business or trade names used to identify the business and operation of the syste
 
 (ii) The cable system's total activated channel capacity, in each case during the period covered by the Statement.
 
-(iii) A multicast stream is considered a channel for purposes of this section
+(iii) A multicast stream is considered a channel for purposes of this section.
 
 (6) The designation “Secondary Transmission Service: Subscribers and Rates”, followed by:
 
@@ -96,13 +94,15 @@ Business or trade names used to identify the business and operation of the syste
 
 (B) Each entity (for example, the owner of a private home, the resident of an apartment, the owner of a motel, or the owner of an apartment house) which is charged by the cable system for the basic service of providing secondary transmissions shall be considered one subscriber.
 
-(7) The designation “Gross Receipts”, followed by the gross amount paid to the cable system by subscribers for the basic service of providing secondary transmissions of primary broadcast transmissions during the period covered by the Statement of Account. If the cable system maintains its revenue accounts on an accrual basis, gross receipts for any accounting period includes all such amounts accrued for secondary transmission service furnished during that period, regardless of when accrued:
+(7) The designation “Gross Receipts”, followed by the gross amount paid to the cable system by subscribers for the basic service of providing secondary transmissions of primary broadcast transmissions during the period covered by the Statement of Account.
 
-(i) Less the amount of any bad debts actually written-off during that accounting period, excluding bad debts for secondary transmission service furnished before January 1, 1978;
+(i) If the cable system maintains its revenue accounts on an accrual basis, gross receipts for any accounting period includes all such amounts accrued for secondary transmission service furnished during that period, regardless of when accrued:
 
-(ii) Plus the amount of any previously written-off bad debts for secondary transmission service which were actually recovered during that accounting period, excluding bad debt recoveries for secondary transmission service furnished before January 1, 1978.
+(A) Less the amount of any bad debts actually written-off during that accounting period;
 
-If the cable system maintains its revenue accounts on a cash basis, gross receipts for any accounting period includes all such amounts actually received by the cable system during that accounting period, excluding amounts paid for secondary transmission service furnished before January 1, 1978; however, amounts received before January 1, 1978, for secondary transmission service furnished after that date, are to be considered as if they had been received during the accounting period in which the service covered by such payments was furnished.
+(B) Plus the amount of any previously written-off bad debts for secondary transmission service which were actually recovered during that accounting period.
+
+(ii) If the cable system maintains its revenue accounts on a cash basis, gross receipts of any accounting period includes all such amounts actually received by the cable system during that accounting period.
 
 (8) The designation “Services Other Than Secondary Transmissions: Rates,” followed by a description of each package of service which consists solely of services other than secondary transmission services, for which a separate charge was made or established, and which the cable system furnished or made available to subscribers during the period covered by the Statement of Account, together with the amount of such charge. However, no information need be given concerning services furnished at cost. Specific amounts charged for pay cable programming need not be given if the rates are on a variable, per-program basis. (The fact of such variable charge shall be indicated.)
 
@@ -196,21 +196,11 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (ii) Where a cable system carries a primary transmitter solely on a substitute or part-time basis, in accordance with paragraph (f)(3) of this section, the system shall compute a DSE for that primary transmitter based on its cumulative carriage on a substitute or part-time basis. If that primary transmitter is carried on a full-time basis as well as on a substitute or part-time basis, the full DSE for that primary transmitter shall be the full DSE type value for that primary transmitter, for the entire accounting period.
 
-(3)(i) In computing the DSE of a primary transmitter in a particular case of carriage before July 1, 1981, the cable system may make no prorated adjustments other than those specified as permissible “exceptions and limitations” in the definition of “distant signal equivalent” in the fifth paragraph of section 111(f) of title 17 of the United States Code, as amended by Pub. L. 94-553. Four prorated adjustments, as prescribed in the fourth and fifth sentences of said definition, are permitted under certain conditions where:
+(3) In computing the DSE of a primary transmitter in a particular case of carriage on or after July 1, 1981, the cable system may make no prorated adjustments other than those specified in 17 U.S.C. 111(f)(5)(B), and which remain in force under that provision. Two prorated adjustments, as prescribed in that section, are permitted under certain conditions where:
 
-(A) A station is carried pursuant to the late-night programming rules of the Federal Communications Commission in effect on the date of carriage;
+(i) A station is carried on a part-time basis where full-time carriage is not possible because the cable system lacks the activated channel capacity to retransmit on a full-time basis all signals which it is authorized to carry; and
 
-(B) A station is carried pursuant to the specialty programming rules of the Federal Communications Commission in effect on the date of carriage;
-
-(C) A station is carried on a part-time basis where full-time carriage is not possible because the cable system lacks the activated channel capacity to retransmit on a full-time basis all signals which it is authorized to carry; and
-
-(D) A station is carried on a “substitute” basis under rules, regulations, or authorizations of the Federal Communications Commission in effect on October 19, 1976.
-
-(ii) In computing the DSE of a primary transmitter in a particular case of carriage on or after July 1, 1981, the cable system may make no prorated adjustments other than those specified as permissible “exceptions and limitations” in the definition of “distant signal equivalent” in the fifth paragraph of section 111(f) of title 17 of the United States Code, as amended by Pub. L. 94-553, and which remain in force under that provision. Two prorated adjustments, as prescribed in the fourth and fifth sentences of said definition, are permitted under certain conditions where:
-
-(A) A station is carried on a part-time basis where full-time carriage is not possible because the cable system lacks the activated channel capacity to retransmit on a full-time basis all signals which it is authorized to carry; and
-
-(B) A station is carried on a “substitute” basis under rules, regulations, or authorizations of the Federal Communications Commission in effect on October 19, 1976, which permitted a cable system, at its election, to omit the retransmission of a particular program and substitute another program in its place.
+(ii) A station is carried on a “substitute” basis under rules, regulations, or authorizations of the FCC in effect on October 19, 1976 (as defined in 17 U.S.C. 111(f)(5)(B)(ii)), which permitted a cable system, at its election, to omit the retransmission of a particular program and substitute another program in its place.
 
 (4) In computing a DSE, a cable system may round off to the third decimal point. If a DSE is rounded off in any case in a Statement of Account, it must be rounded off throughout the Statement. Where a cable system has chosen to round off, and the fourth decimal point for a particular DSE value would, without rounding off, have been 1, 2, 3, or 4, the third decimal point remains unchanged; if, in such a case, the fourth decimal point would, without rounding off, be 5, 6, 7, 8, or 9, the third decimal point must be rounded off to the next higher number.
 
@@ -250,8 +240,6 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (v) The *1982 cable rate adjustment* means the rate adjustment adopted by the Copyright Royalty Tribunal on October 20, 1982 (CRT Docket No. 81-2, 47 FR 52146, November 19, 1982).
 
-(vi) The terms *DSE* or *DSE's* mean “distant signal equivalent(s)” as defined in 17 U.S.C. 111(f) and any fraction thereof.
-
 (2) A cable system filing Form SA3 shall compute its royalty fee in the following manner:
 
 (i) The cable system shall first determine those DSE's to which the 3.75% rate established by 37 CFR 256.2(c) applies.
@@ -262,53 +250,21 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (iv) Commencing with the semiannual accounting period of January 1, 1998, through June 30, 1998, the 3.75% rate applies to certain DSE's with respect to the communities within the cable system where carriage would not have been permitted under the rules and regulations of the Federal Communications Commission in effect on June 24, 1981, but in all other communities within the cable system, the current base rate and the syndicated exclusivity surcharge, where applicable, shall apply. Such computation shall be made as provided for on Form SA3. The calculations shall be based upon the gross receipts from all subscribers, within the relevant communities, for the basic service of providing secondary transmissions of primary broadcast transmitters, without regard to whether those subscribers actually received the station in question. For partially-distant stations, gross receipts shall be the total gross receipts from subscribers outside the local service area.
 
-(3) A cable system whose semiannual gross receipts for secondary transmissions totalled $214,000 or more during the period January 1, 1983, through June 30, 1983, shall compute its royalty fee for carriage during that period in the following manner:
+(3) It shall be presumed that the 3.75% rate of 37 CFR 308.2(c) applies to DSEs accruing from newly added distant signals, carried for the first time by a cable system after June 24, 1981. The presumption of this section can be rebutted in whole or in part:
 
-(i) Copyright royalty fees must be paid on the basis of carriage for the entire accounting period except where proration of the DSE is permitted as described in paragraph (f)(3) of this section.
+(i) By actual carriage of a particular distant signal prior to June 25, 1981, as reported in Statements of Account duly filed with the Copyright Office (“actual carriage”), unless the prior carriage was not permitted by the FCC; or
 
-(ii) Where a distant signal was carried at any time only between January 1, 1983, and March 14, 1983;
+(ii) By carriage of no more than the number of distant signals which was or would have been allotted to the cable system under the FCC's quota for importation of network and nonspecialty independent stations (47 CFR 76.59(b), 76.61(b) and (c), and 76.63, referring to § 76.61(b) and (c), in effect on June 24, 1981).
 
-(A) In the case of a cable system located wholly or in part within a top 100 television market, the current base rate, together with the surcharge shall apply. However, the surcharge shall not apply for carriage of a particular signal first carried prior to March 31, 1972.
+(4) To qualify as an FCC-permitted signal on the ground of individual waiver of the FCC rules (47 CFR 76.7 in effect on June 24, 1981), the waiver must have actually been granted by the FCC, and the signal must have been first carried by the cable system after April 15, 1976.
 
-(B) In case of a cable system located wholly outside a top 100 television market, the current base rate shall apply.
+(5) Expanded geographic carriage after June 24, 1981, of a signal previously carried within only certain parts of a cable system is governed by the current base rate and the surcharge, if applicable.
 
-(iii) Where a distant signal was carried at any time after March 14, 1983;
+(6) In cases of expanded temporal carriage of the same signal, previously carried pursuant to the FCC's former part-time or substitute carriage rules (47 CFR 76.61(b)(2), 76.61 (e)(1) and (e)(3), and 76.63, referring to 76.61 (e)(1) and (e)(3), in effect on June 24, 1981), the 3.75% rate shall be applied to any additional fraction of a DSE accruing from the expanded temporal carriage of that signal. To identify such additional DSE's, a comparison shall be made of DSE's reported for that signal in any single accounting period prior to the July 1, 1981, to December 31, 1981, period (81-2), as designated by the cable system, with the DSE's for that same signal reported in the current relevant accounting period.
 
-(A) The cable system shall first determine those DSE's to which the 3.75% rate established by 37 CFR 256.2(c) applies.
+(7) Substitution of like signals pursuant to 37 CFR 256.2(c) is possible at the relevant non-3.75% rate (the surcharge together with the current base rate, or the current base rate alone) only if the substitution does not exceed the number of distant signals which was or would have been allotted to the cable system under the FCC's television market quota for importation of network and nonspecialty independent stations (47 CFR 76.59(b), 76.61 (b) and (c), and 76.63, referring to 76.61 (b) and (c), in effect on June 24, 1981.
 
-(B) If the 3.75% rate is applicable to a particular DSE, it shall be applied against the per centum .5967 (representing the number of days from March 15, 1983, through June 30, 1983, inclusive, in relation to the entire accounting period); and either
-
-(*1*) In the case of a cable system located wholly or in part within a top 100 television market, the current base rate, together with the surcharge, applied against the per centum .4033 (representing the number of days from January 1, 1983, through March 14, 1983, inclusive, in relation to the entire accounting period); however, the surcharge shall not apply for carriage of a particular signal first carried prior to March 31, 1972; or
-
-(*2*) In the case of a cable system located wholly outside a top 100 television market, the current base rate applied against the per centum .4033.
-
-(C) If the 3.75% rate does not apply to certain DSE's, in the case of a cable system located wholly or in part within a top 100 television market, the current base rate together with the surcharge shall apply. However, the surcharge shall not apply for carriage of a particular signal first carried prior to March 31, 1972.
-
-(D) If the 3.75% rate does not apply to certain DSE's, in the case of a cable system located wholly outside a top 100 television market, the current base rate shall apply.
-
-(4)(i) Separate Supplemental DSE Schedules as prescribed by the Copyright Office shall be completed and filed by a cable system affected by the 1982 cable rate adjustment for the accounting periods January 1, 1983, through June 30, 1983 (83-1), and July 1, 1983, through December 31, 1983 (83-2). Each Supplemental DSE schedule shall contain the information required by that form and its accompanying instructions.
-
-(ii) The Supplemental DSE Schedule will be mailed to all cable systems whose gross receipts for secondary transmissions total $214,000 or more either for accounting period 83-1 or for 83-2, and shall be completed and returned to the Copyright Office with the supplemental royalty fee due, if any, within sixty-five (65) days from the date of mailing by the Copyright Office.
-
-(iii) Cable systems located wholly outside all major and smaller television markets as defined by the FCC are not affected by the 1982 cable rate adjustment. Such systems shall complete a certifying statement provided in the Supplemental DSE Schedule and return it within sixty-five (65) days from the date of mailing by the Copyright Office.
-
-(5)(i) It shall be presumed that the 3.75% rate of 37 CFR 308.2(c) applies to DSE's accruing from newly added distant signals, carried for the first time by a cable system after June 24, 1981.
-
-(ii) The presumption of paragraph (h)(5)(i) of this section can be rebutted in whole or in part:
-
-(A) By actual carriage of a particular distant signal prior to June 25, 1981, as reported in Statements of Account duly filed with the Copyright Office (“actual carriage”), unless the prior carriage was not permitted by the FCC; or
-
-(B) By carriage of no more than the number of distant signals which was or would have been allotted to the cable system under the FCC's quota for importation of network and nonspecialty independent stations (47 CFR 76.59(b), 76.61 (b) and (c) and 76.63, referring to 76.61 (b) and (c), in effect on June 24, 1981).
-
-(6) To qualify as an FCC-permitted signal on the ground of individual waiver of the FCC rules (47 CFR 76.7 in effect on June 24, 1981), the waiver must have actually been granted by the FCC, and the signal must have been first carried by the cable system after April 15, 1976.
-
-(7) Expanded geographic carriage after June 24, 1981, of a signal previously carried within only certain parts of a cable system is governed by the current base rate and the surcharge, if applicable.
-
-(8) In cases of expanded temporal carriage of the same signal, previously carried pursuant to the FCC's former part-time or substitute carriage rules (47 CFR 76.61(b)(2), 76.61 (e)(1) and (e)(3), and 76.63, referring to 76.61 (e)(1) and (e)(3), in effect on June 24, 1981), the 3.75% rate shall be applied to any additional fraction of a DSE accruing from the expanded temporal carriage of that signal. To identify such additional DSE's, a comparison shall be made of DSE's reported for that signal in any single accounting period prior to the July 1, 1981, to December 31, 1981, period (81-2), as designated by the cable system, with the DSE's for that same signal reported in the current relevant accounting period.
-
-(9) Substitution of like signals pursuant to 37 CFR 256.2(c) is possible at the relevant non-3.75% rate (the surcharge together with the current base rate, or the current base rate alone) only if the substitution does not exceed the number of distant signals which was or would have been allotted to the cable system under the FCC's television market quota for importation of network and nonspecialty independent stations (47 CFR 76.59(b), 76.61 (b) and (c), and 76.63, referring to 76.61 (b) and (c), in effect on June 24, 1981.
-
-(10) The 3.75% rate does not apply to distant multicast streams retransmitted by cable systems.
+(8) The 3.75% rate does not apply to distant multicast streams retransmitted by cable systems.
 
 (j) *Multicasting.* (1) A royalty payment shall be made for the retransmission of non-network television programming carried on each multicast stream of a distant digital television signal under the following circumstances:
 
@@ -356,31 +312,27 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (2) Upon compliance with the procedures and within the time limits set forth in paragraph (m)(4) of this section, corrections to Statements of Account will be placed on record, supplemental royalty fee payments will be received for deposit, or refunds will be issued, in the following cases:
 
-(i) Where, with respect to the accounting period covered by a Statement of Account, any of the information given in the Statement filed in the Copyright Office is incorrect or incomplete;
+(i) Where, with respect to the accounting period covered by a Statement of Account, any of the information given in the Statement filed in the Copyright Office is incorrect or incomplete; or
 
-(ii) Where, for any reason except that mentioned in paragraph (m)(2)(iii) of this section, calculation of the royalty fee payable for a particular accounting period was incorrect, and the amount deposited in the Copyright Office for that period was either too high or too low; or
-
-(iii) Where, for the semiannual accounting period of January 1, 1978, through June 30, 1978, the total royalty fee deposited was incorrect because the cable operator failed to compute royalties attributable to carriage of late-night, specialty, or part-time programming between January 1, 1978, and February 9, 1978.
+(ii) Where, for any reason except that mentioned in paragraph (m)(2)(iii) of this section, calculation of the royalty fee payable for a particular accounting period was incorrect, and the amount deposited in the Copyright Office for that period was either too high or too low.
 
 (3) Corrections to Statements of Account will not be placed on record, supplemental royalty fee payments will not be received for deposit, and refunds will not be issued, where the information in the Statements of Account, the royalty fee calculations, or the payments were correct as of the date on which the accounting period ended, but changes (for example, addition or deletion of a distant signal) took place later.
 
 (4) Requests that corrections to a Statement of Account be placed on record, that fee payments be accepted, or requests for the issuance of refunds, shall be made only in the cases mentioned in paragraph (m)(2) of this section. Such requests shall be addressed to the Licensing Division of the Copyright Office, and shall meet the following conditions:
 
-(i) The request must be in writing, must clearly identify its purpose, and, in the case of a request for a refund, must be received in the Copyright Office before the expiration of 60 days from the last day of the applicable Statement of Account filing period, or before the expiration of 60 days from the date of receipt at the Copyright Office of the royalty payment that is the subject of the request, whichever time period is longer. A request made by telephone or by telegraphic or similar unsigned communication, will be considered to meet this requirement if it clearly identifies the basis of the request, if it is received in the Copyright Office within the required 60-day period, and if a written request meeting all the conditions of this paragraph (m)(4) is also received in the Copyright Office within 14 days after the end of such 60-day period;
+(i) The request must be in writing, must clearly identify its purpose, and, in the case of a request for a refund, must be received in the Copyright Office before the expiration of 60 days from the last day of the applicable Statement of Account filing period, or before the expiration of 60 days from the date of receipt at the Copyright Office of the royalty payment that is the subject of the request, whichever time period is longer. Telephone or similar unsigned requests that meet these conditions may be permitted, where a follow-up written request detailing the same information is received by the Copyright Office within fourteen days after the required sixty-day period.
 
-(ii) The Statement of Account to which the request pertains must be sufficiently identified in the request (by inclusion of the name of the owner of the cable system, the community or communities served, and the accounting period in question) so that it can be readily located in the records of the Copyright Office;
+(ii) The Statement of Account to which the request pertains must be sufficiently identified in the request (by inclusion of the name of the owner of the cable system, the community or communities served, and the accounting period in question) so that it can be readily located in the records of the Copyright Office.
 
 (iii) The request must contain a clear statement of the facts on which it is based and provide a clear basis on which a refund may be granted, in accordance with the following procedures:
 
 (A) In the case of a request filed under paragraph (m)(2)(i) of this section, where the information given in the Statement of Account is incorrect or incomplete, the request must clearly identify the erroneous or incomplete information and provide the correct or additional information;
 
-(B) In the case of a request filed under paragraph (m)(2)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an affidavit under the official seal of any officer authorized to administer oaths within the United States, or a statement in accordance with section 1746 of title 28 of the United States Code, made and signed in accordance with paragraph (e)(14) of this section. The affidavit or statement shall describe the reasons why the royalty fee was improperly calculated and include a detailed analysis of the proper royalty calculations;
+(B) In the case of a request filed under paragraph (m)(2)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an affidavit under the official seal of any officer authorized to administer oaths within the United States, or a statement in accordance with section 1746 of title 28 of the United States Code, made and signed in accordance with paragraph (e)(14) of this section. The affidavit or statement shall describe the reasons why the royalty fee was improperly calculated and include a detailed analysis of the proper royalty calculations.
 
-(C) In the case of a request filed under paragraph (m)(2)(iii) of this section, the request shall be identified as “Transitional and Supplemental Royalty Fee Payment” and include a detailed analysis of the proper royalty calculations;
+(iv)(A) All requests filed under this paragraph (m) must be accompanied by a filing fee in the amount prescribed in § 201.3(e) of this part for each Statement of Account involved. Payment of this fee may be in the form of a personal or company check, or of a certified check, cashier's check or money order, payable to: Register of Copyrights. No request will be processed until the appropriate filing fees are received; and
 
-(iv)(A) All requests filed under this paragraph (m) (except those filed under paragraph (m)(2)(iii) of this section) must be accompanied by a filing fee in the amount prescribed in § 201.3(e) of this part for each Statement of Account involved. Payment of this fee may be in the form of a personal or company check, or of a certified check, cashier's check or money order, payable to: Register of Copyrights. No request will be processed until the appropriate filing fees are received.
-
-(B) All requests that a supplemental royalty fee payment be received for deposit under this paragraph (m), must be accompanied by a remittance in the full amount of such fee. Payment of the supplemental royalty fee must be in the form of a certified check, cashier's check, or money order, payable to: Register of Copyrights; or an electronic payment. No such request will be processed until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
+(B) All requests that a supplemental royalty fee payment be received for deposit under this paragraph (m) must be accompanied by a remittance in the full amount of such fee. Payment of the supplemental royalty fee must be in the form of a certified check, cashier's check, or money order, payable to: Register of Copyrights; or an electronic payment. No such request will be processed until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
 
 (v) All requests submitted under this paragraph (m) must be signed by the cable system owner named in the Statement of Account, or the duly authorized agent of the owner, in accordance with paragraph (e)(14) of this section.
 

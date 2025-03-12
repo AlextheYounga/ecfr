@@ -1,8 +1,6 @@
 ##### § 201.4 Recordation of transfers and certain other documents. #####
 
-Link to an amendment published at 82 FR 9356, February 6, 2017.
-
-(a) *General.* (1) This section prescribes conditions for the recordation of transfers of copyright ownership and other documents pertaining to a copyright under section 205 of title 17 of the United States Code, as amended by Pub. L. 94-553. The filing or recordation of the following documents is not within the provisions of this section:
+(a) *General.* (1) This section prescribes conditions for the recordation of transfers of copyright ownership and other documents pertaining to a copyright under section 205 of title 17 of the United States Code. The filing or recordation of the following documents is not within the provisions of this section:
 
 (i) Certain contracts entered into by cable systems located outside of the 48 contiguous States (17 U.S.C. 111(e); see 37 CFR 201.12);
 
@@ -10,21 +8,19 @@ Link to an amendment published at 82 FR 9356, February 6, 2017.
 
 (iii) Notices of intention to obtain compulsory license to make and distribute phonorecords of nondramatic musical works (17 U.S.C. 115(b); see 37 CFR 201.18);
 
-(iv) License agreements, and terms and rates of royalty payments, voluntarily negotiated between one or more public broadcasting entities and certain owners of copyright (17 U.S.C. 118; see 37 CFR 201.9);
+(iv) Notices of termination (17 U.S.C. 203, 304(c) and (d); see 37 CFR 201.10); and
 
-(v) Notices of termination (17 U.S.C. 203, 304(c) and (d); see 37 CFR 201.10); and
+(v) Statements regarding the identity of authors of anonymous and pseudonymous works, and statements relating to the death of authors (17 U.S.C. 302).
 
-(vi) Statements regarding the identity of authors of anonymous and pseudonymous works, and statements relating to the death of authors (17 U.S.C. 302).
-
-(2) A *transfer of copyright ownership* has the meaning set forth in section 101 of title 17 of the United States Code, as amended by Pub. L. 94-553. A document shall be considered to “pertain to a copyright” if it has a direct or indirect relationship to the existence, scope, duration, or identification of a copyright, or to the ownership, division, allocation, licensing, transfer, or exercise of rights under a copyright. That relationship may be past, present, future, or potential.
+(2) A *transfer of copyright ownership* has the meaning set forth in section 101 of title 17 of the United States Code. A document shall be considered to “pertain to a copyright” if it has a direct or indirect relationship to the existence, scope, duration, or identification of a copyright, or to the ownership, division, allocation, licensing, transfer, or exercise of rights under a copyright. That relationship may be past, present, future, or potential.
 
 (3) For purposes of this section:
 
 (i) A *sworn certification* is an affidavit under the official seal of any officer authorized to administer oaths within the United States, or if the original is located outside of the United States, under the official seal of any diplomatic or consular officer of the United States or of a person authorized to administer oaths whose authority is proved by the certificate of such an officer, or a statement in accordance with section 1746 of title 28 of the United States Code; and
 
-(ii) An *official certification* is a certification, by the appropriate Government official, that the original of the document is on file in a public office and that the reproduction is a true copy or the original.
+(ii) An *official certification* is a certification, by the appropriate Government official, that the original of the document is on file in a public office and that the reproduction is a true copy of the original.
 
-(b) *Forms.* Persons recording documents are encouraged, but not required, to complete and include a Recordation Document Cover Sheet (Form DCS), available on the Copyright Office Web site, with their submissions; provided, however, that if the remitter seeks a return receipt as provided in paragraph (f) of this section, then Form DCS is required. Form DCS may also be used to satisfy the sworn certification requirement of 17 U.S.C. 205(a), as provided in paragraph (a)(3)(i) of this section. If Form DCS is used, two copies of the completed form should accompany each document submitted for recordation, one of which will become part of the public record.
+(b) *Forms.* Persons recording documents are encouraged, but not required, to complete and include a Recordation Document Cover Sheet (Form DCS), available on the Copyright Office website, with their submissions; provided, however, that if the remitter seeks a return receipt as provided in paragraph (f) of this section, then Form DCS is required. Form DCS may also be used to satisfy the sworn certification requirement of 17 U.S.C. 205(a), as provided in paragraph (a)(3)(i) of this section. If Form DCS is used, two copies of the completed form should accompany each document submitted for recordation, one of which will become part of the public record.
 
 (c) *Document submission contents and process.* Any transfer of copyright ownership (including any instrument of conveyance, or note or memorandum of the transfer), or any other document pertaining to a copyright, may be recorded in the Copyright Office if it is accompanied by the fee set forth in paragraph (d) of this section, and if the requirements of this paragraph with respect to signatures, completeness, and legibility are met.
 
@@ -76,9 +72,9 @@ In such exceptional cases, the Copyright Office records of the document will be 
 
 (*3*) Third column: *Authorship Information.* The word “By” followed by the author or authors of the work. Where applicable, include designations such as “performer known as” or “also known as,” or the abbreviated form of such designations. Abbreviated designations must omit any punctuation between letters, for example “pka” (not “p/k/a”); and
 
-(*4*) Fourth column: *Registration Number(s).* The copyright registration number or numbers, separated by commas. This field is optional; if registration numbers are not being supplied for any title in the submission, this column should still be included, but left blank. Regardless of how they appear in the paper document, registration numbers included in the electronic list must be twelve characters long, must include a two- or three-letter prefix in all capital letters, and must not include spaces or hyphens. If a given registration number consists of fewer than twelve characters in the original, the remitting party should add leading zeroes to the numeric portion of the registration number before adding it to the list. For example, a published work with the registration number “SR-320-918” should be transcribed into the electronic list as “SR0000320918,” and an unpublished work with the registration number “VAu-598-764” should be transcribed into the electronic list as “VAU000598764.”
+(*4*) Fourth column: *Registration Number(s).* The copyright registration number or numbers, separated by commas. This field is optional; if registration numbers are not being supplied for any title in the submission, this column should still be included, but left blank. Regardless of how they appear in the paper document, registration numbers included in the electronic list must be twelve characters long, must include a one-, two-, or three-letter prefix in all capital letters, and must not include spaces or hyphens. If a given registration number consists of fewer than twelve characters in the original, the remitting party should add leading zeroes to the numeric portion of the registration number before adding it to the list. For example, a published work with the registration number “SR-320-918” should be transcribed into the electronic list as “SR0000320918,” and an unpublished work with the registration number “VAu-598-764” should be transcribed into the electronic list as “VAU000598764.”
 
-(iii) *Remitters to bear consequences of inaccurate electronic title lists.* The Office will rely on the electronic list of titles for purposes of indexing recorded documents in the Public Catalog and the remitter will bear the consequences, if any, of any inaccuracies in the electronic list in relation to the recorded document, including with respect to the application of 17 U.S.C. 205(c) and 205(d).
+(iii) *Remitters to bear consequences of inaccurate electronic title lists.* The Office will rely on the electronic list of titles for purposes of indexing recorded documents in the Public Catalog. The remitter will bear the consequences, if any, of any inaccuracies in the electronic list in relation to the recorded document, including with respect to the application of 17 U.S.C. 205(c) and 205(d).
 
 (iv) *Treatment of improperly prepared electronic title lists.* The Office reserves the right to reject an electronic title list from any party that is shown to have submitted an improperly prepared file.
 
@@ -86,8 +82,8 @@ In such exceptional cases, the Copyright Office records of the document will be 
 
 (d) *Fees.* The fees for recordation of a document are prescribed in § 201.3(c).
 
-(e) *Recordation.* The date of recordation is the date when a proper document under paragraph (c) of this section and a proper fee under paragraph (d) of this section are all received in the Copyright Office. After recordation the document is returned to the sender with a certificate of record.
+(e) *Recordation.* The date of recordation is the date when a proper document under paragraph (c) of this section and a proper fee under paragraph (d) of this section are all received in the Copyright Office. After recordation the document is returned to the sender with a certificate of recordation.
 
 (f) *Return receipt.* If, with a document submitted for recordation, a remitter includes two copies of a properly completed Recordation Document Cover Sheet (Form DCS) indicating that a return receipt is requested, as well as a self-addressed, postage-paid envelope, the remitter will receive a date-stamped return receipt acknowledging the Copyright Office's receipt of the enclosed submission. The completed copies of Form DCS and the self-addressed, postage-paid envelope must be included in the same package as the submitted document. A return receipt confirms the Office's receipt of the submission as of the date indicated, but does not establish eligibility for, or the date of, recordation.
 
-(17 U.S.C. 205, 702, 708)[43 FR 35044, Aug. 8, 1978, as amended at 53 FR 123, Jan. 5, 1988; 56 FR 59885, Nov. 26, 1991; 64 FR 29521, June 1, 1999; 65 FR 39819, June 28, 2000; 67 FR 69136, Nov. 15, 2002; 70 FR 38022, July 1, 2005; 74 FR 12556, Mar. 25, 2009; 77 FR 71103, Nov. 29, 2012; 79 FR 55635, Sept. 17, 2014; 79 FR 68623, Nov. 18, 2014]
+(17 U.S.C. 205, 702, 708)[43 FR 35044, Aug. 8, 1978, as amended at 53 FR 123, Jan. 5, 1988; 56 FR 59885, Nov. 26, 1991; 64 FR 29521, June 1, 1999; 65 FR 39819, June 28, 2000; 67 FR 69136, Nov. 15, 2002; 70 FR 38022, July 1, 2005; 74 FR 12556, Mar. 25, 2009; 77 FR 71103, Nov. 29, 2012; 79 FR 55635, Sept. 17, 2014; 79 FR 68623, Nov. 18, 2014; 82 FR 9356, Feb. 6, 2017]

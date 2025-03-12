@@ -1,7 +1,5 @@
 ##### § 201.16 Verification of a Statement of Account for secondary transmissions made by cable systems and satellite carriers. #####
 
-Link to an amendment published at 82 FR 9357, February 6, 2017.
-
 (a) *General.* This section prescribes procedures pertaining to the verification of a Statement of Account filed with the Copyright Office pursuant to sections 111(d)(1) or 119(b)(1) of title 17 of the United States Code.
 
 (b) *Definitions.* As used in this section:
@@ -39,12 +37,6 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 (5) Once the Office has received a notice of intent to audit a Statement of Account under paragraphs (c)(1) or (2) of this section, a notice of intent to audit that same Statement will not be accepted for publication in the Federal Register.
 
 (6) Once the Office has received a notice of intent to audit two Statements of Account filed by a particular satellite carrier or a particular cable system, a notice of intent to audit that same carrier or that same system under paragraph (c)(1) of this section will not be accepted for publication in the Federal Register until the following calendar year.
-
-(7) If the Office has received a notice of intent to audit prior to the effective date of this section, the Office will publish a notice in the Federal Register within thirty days thereafter announcing the receipt of the notice of intent to audit. In such a case, the audit shall be conducted using the procedures set forth in paragraphs (d) through (l) of this section, with the following exceptions:
-
-(i) The participating copyright owners shall provide the statutory licensee with a list of three independent and qualified auditors pursuant to paragraph (d)(1) by March 16, 2015.
-
-(ii) The auditor shall deliver his or her final report to the participating copyright owners and the licensee pursuant to paragraph (i)(3) of this section by November 1, 2015.
 
 (d) *Selection of the auditor.* (1) Within forty-five days after a notice is published in the Federal Register pursuant to paragraph (c)(1) of this section, the participating copyright owners shall provide the statutory licensee with a list of three independent and qualified auditors, along with information reasonably sufficient for the licensee to evaluate the proposed auditors' independence and qualifications, including:
 
@@ -140,4 +132,4 @@ Link to an amendment published at 82 FR 9357, February 6, 2017.
 
 (o) *Retention of records.* For each Statement of Account or amended Statement that a statutory licensee files with the Office for accounting periods beginning on or after January 1, 2010, the licensee shall maintain all records necessary to confirm the correctness of the calculations and royalty payments reported in each Statement or amended Statement for at least three and one-half years after the last day of the year in which that Statement or amended Statement was filed with the Office and, in the event that such Statement or amended Statement is the subject of an audit conducted pursuant to this section, shall continue to maintain those records until three years after the auditor delivers the final report to the participating copyright owners and the licensee pursuant to paragraph (i)(3) of this section.
 
-[79 FR 68628, Nov. 18, 2014]
+[79 FR 68628, Nov. 18, 2014, as amended at 82 FR 9357, Feb. 6, 2017]

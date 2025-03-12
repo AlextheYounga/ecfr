@@ -1,7 +1,5 @@
 ##### § 201.7 Cancellation of completed registrations. #####
 
-Link to an amendment published at 82 FR 9356, February 6, 2017.
-
 (a) *Definition.* Cancellation is an action taken by the Copyright Office whereby either the registration is eliminated on the ground that the registration is invalid under the applicable law and regulations, or the registration number is eliminated and a new registration is made under a different class and number.
 
 (b) *General policy.* The Copyright Office will cancel a completed registration only in those cases where:
@@ -12,9 +10,9 @@ Link to an amendment published at 82 FR 9356, February 6, 2017.
 
 (3) An existing registration in the wrong class is to be replaced by a new registration in the correct class.
 
-(c) *Circumstances under which a registration will be cancelled.* (1) Where the Copyright Office becomes aware after registration that a work is not copyrightable, either because the authorship is *de minimis* or the work does not contain authorship subject to copyright, the registration will be cancelled. The copyright claimant will be notified by correspondence of the proposed cancellation and the reasons therefor, and be given 30 days, from the date the Copyright Office letter is mailed, to show cause in writing why the cancellation should not be made. If the claimant fails to respond within the 30 day period, or if the Office after considering the response, determines that the registration was made in error and not in accordance with title 17 U.S.C., Chapters 1 through 8, the registration will be cancelled.
+(c) *Circumstances under which a registration will be cancelled.* (1) Where the Copyright Office becomes aware after registration that a work is not copyrightable, either because the authorship is insufficiently creative or the work does not contain authorship subject to copyright, the registration will be cancelled. The copyright claimant will be notified by correspondence of the proposed cancellation and the reasons therefor, and be given 30 days, from the date the Copyright Office letter is mailed, to show cause in writing why the cancellation should not be made. If the claimant fails to respond within the 30 day period, or if the Office after considering the response, determines that the registration was made in error and not in accordance with U.S. copyright law, the registration will be cancelled.
 
-(2) When a check received in payment of a registration fee is returned to the Copyright Office marked “insufficient funds” or is otherwise uncollectible the Copyright Office will immediately cancel any registration(s) for which the dishonored check was submitted and will notify the remitter the registration has been cancelled because the check was returned as uncollectible.
+(2) When a check received in payment of a registration fee is returned to the Copyright Office marked “insufficient funds” or is otherwise uncollectible the Copyright Office will immediately cancel any registration(s) for which the dishonored check was submitted and will notify the applicant the registration has been cancelled because the check was returned as uncollectible.
 
 (3) Where registration is made in the wrong class, the Copyright Office will cancel the first registration, replace it with a new registration in the correct class, and issue a corrected certificate.
 
@@ -42,6 +40,6 @@ Link to an amendment published at 82 FR 9356, February 6, 2017.
 
 (xi) Statements on the application conflict or are so unclear that the claimant cannot be adequately identified.
 
-(d) *Minor substantive errors.* Where a registration includes minor substantive errors or omissions which would generally have been rectified before registration, the Copyright Office will attempt to rectify the error through correspondence with the remitter. Except in those cases enumerated in paragraph (c) of this section, if the Office is unable for any reason to obtain the correct information or deposit copy, the registration record will be annotated to state the nature of the informality and show that the Copyright Office attempted to correct the registration.
+(d) *Minor substantive errors.* Where a registration includes minor substantive errors or omissions which would generally have been rectified before registration, the Copyright Office will attempt to rectify the error through correspondence with the applicant. Except in those cases enumerated in paragraph (c) of this section, if the Office is unable for any reason to obtain the correct information or deposit copy, the registration record will be annotated to state the nature of the informality and show that the Copyright Office attempted to correct the registration.
 
-[50 FR 40835, Oct. 7, 1985, as amended at 60 FR 34168, June 30, 1995; 65 FR 39819, June 28, 2000; 66 FR 34372, June 28, 2001]
+[50 FR 40835, Oct. 7, 1985, as amended at 60 FR 34168, June 30, 1995; 65 FR 39819, June 28, 2000; 66 FR 34372, June 28, 2001; 82 FR 9356, Feb. 6, 2017]

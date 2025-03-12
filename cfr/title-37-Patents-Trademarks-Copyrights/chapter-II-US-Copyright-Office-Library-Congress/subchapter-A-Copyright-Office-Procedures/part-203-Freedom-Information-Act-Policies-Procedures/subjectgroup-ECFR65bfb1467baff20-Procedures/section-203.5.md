@@ -1,0 +1,17 @@
+##### § 203.5 Requirements for making requests. #####
+
+(a) *General information.* To be proper, a request must be made in accordance with the rules established under this part.
+
+(1) To make a request for records, a requester should write directly by email to *copfoia@loc.gov,* by postal mail to the FOIA Requester Service Center, Copyright Office, PIE, P.O. Box 70400, Washington, DC 20024, or submit the request in person between the hours of 8:30 a.m. and 5 p.m. on any working day except legal holidays at Room LM-401, The James Madison Memorial Building, 101 Independence Avenue SE., Washington, DC. If a request is made by mail, both the request and the envelope containing it should include “Freedom of Information Act Request”. A request will receive the quickest possible response if it is clearly marked and addressed to the FOIA Requester Service Center. Guidelines for submitting a request can be found at *www.copyright.gov/foia.*
+
+(2) A requester who is making a request for records about himself or herself must comply with part 204 of this chapter.
+
+(3) Where a request for records pertains to a third party, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that individual authorizing disclosure of the records to the requestor, or by submitting proof that the individual is deceased (*e.g.,* a copy of a death certificate or obituary). As an exercise of administrative discretion, the Office can require a requester to supply additional information if necessary in order to verify that a particular individual has consented to disclosure.
+
+(b) *Description of records sought.* The request must reasonably describe the records sought. A request reasonably describes records if it enables the Office to identify the records requested in such a way that is not unreasonably burdensome or disruptive to Office operations. To the extent possible, requesters should include specific information that may help the agency identify the requested records, such as the date, title or name, author, recipient, subject matter of the record, registration, recordation, or reference number. Before submitting their requests, requesters may contact the FOIA Public Liaison to discuss the records they seek and to receive assistance in describing the records. If after receiving a request the Office determines that it does not reasonably describe the records sought, the Office will inform the requester what additional information is needed or why the request is insufficient. The requester may discuss with the FOIA Public Liaison how to reformulate or modify a request. If a request does not reasonably describe the records sought, the agency's response to the request may be delayed.
+
+(c) *Formats.* Requests may specify the preferred form or format (including electronic formats) for the records identified. The Office will accommodate the request if the record is readily reproducible in that form or format.
+
+(d) *Contact information.* Requesters must provide contact information, such as a phone number, email address, and/or mailing address, to assist the Office in communicating with a requester and providing released records.
+
+[82 FR 9507, Feb. 7, 2017]

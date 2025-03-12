@@ -1,8 +1,6 @@
 ##### § 202.21 Deposit of identifying material instead of copies. #####
 
-Link to an amendment published at 82 FR 9362, February 6, 2017.
-
-(a) *General.* Subject to the specific provisions of paragraphs (f) and (g) of this section, and to §§ 202.19(e)(1)(iv) and 202.20(d)(1)(iv), in any case where the deposit of identifying material is permitted or required under § 202.19 or § 202.20 of these regulations for published or unpublished works, the material shall consist of photographic prints, transparencies, photostats, drawings, or similar two-dimensional reproductions or renderings of the work, in a form visually perceivable without the aid of a machine or device. In the case of pictorial or graphic works, such material should reproduce the actual colors employed in the work. In all other cases, such material may be in black and white or may consist of a reproduction of the actual colors.
+(a) *General.* Subject to the specific provisions of paragraphs (f) and (g) of this section, and §§ 202.19(e)(1)(iv) and 202.20(d)(1)(iv), in any case where the deposit of identifying material is permitted or required under § 202.19 or § 202.20 for published or unpublished works, the material shall consist of photographic prints, transparencies, photostats, drawings, or similar two-dimensional reproductions or renderings of the work, in a form visually perceivable without the aid of a machine or device. In the case of pictorial or graphic works, such material should reproduce the actual colors employed in the work. In all other cases, such material may be in black and white or may consist of a reproduction of the actual colors.
 
 (b) *Completeness; number of sets.* As many pieces of identifying material as are necessary to show the entire copyrightable content in the ordinary case, but in no case less than an adequate representation of such content, of the work for which deposit is being made, or for which registration is being sought shall be submitted. Except in cases falling under the provisions of § 202.19(d)(2)(iii) or § 202.20(c)(2)(iii) with respect to holograms, only one set of such complete identifying material is required.
 
@@ -22,7 +20,7 @@ The provisions of paragraphs (b), (c), (d), and (e) of this section do not apply
 
 (g)(1) In the case of unpublished motion pictures (including transmission programs that have been fixed and transmitted to the public, but have not been published), identifying material deposited in lieu of an actual copy shall consist of either:
 
-(i) An audio cassette or other phonorecord reproducing the entire soundtrack or other sound portion of the motion picture, and description of the motion picture; or
+(i) An audio cassette or other phonorecord reproducing the entire soundtrack or other sound portion of the motion picture, and a description of the motion picture; or
 
 (ii) A set consisting of one frame enlargement or similar visual reproduction from each 10-minute segment of the motion picture, and a description of the motion picture.
 
@@ -42,7 +40,7 @@ The provisions of paragraphs (b), (c), (d), and (e) of this section do not apply
 
 (3) The provisions of paragraphs (b), (c), (d), and (e) of this section do not apply to identifying material submitted under this paragraph (g).
 
-(h) In the case where the deposit copy or copies of a motion picture cannot be viewed for examining purposes on equipment in the Registration Program of the Copyright Office, the “description” required by § 202.20(c)(2)(ii) of these regulations may be a continuity, a press-book, a synopsis, or a final shooting script but in all cases must be sufficient to indicate the copyrightable material in the work and include
+(h) In the case where the deposit copy or copies of a motion picture cannot be viewed for examining purposes on equipment in the Registration Program of the Copyright Office, the “description” required by § 202.20(c)(2)(ii) may be a continuity, a press-book, a synopsis, or a final shooting script but in all cases must be sufficient to indicate the copyrightable material in the work and include
 
 (1) The continuing title of the work and the episode title, if any;
 
@@ -52,4 +50,4 @@ The provisions of paragraphs (b), (c), (d), and (e) of this section do not apply
 
 (4) All credits appearing on the work including the copyright notice, if any.
 
-The provisions of paragraphs (b), (c), and (d) of this section do not apply to identifying material submitted under this paragraph (h).[51 FR 6409, Feb. 24, 1986, as amended at 73 FR 37839, July 2, 2008]
+The provisions of paragraphs (b), (c), and (d) of this section do not apply to identifying material submitted under this paragraph (h).[51 FR 6409, Feb. 24, 1986, as amended at 73 FR 37839, July 2, 2008; 82 FR 9362, Feb. 6, 2017]
