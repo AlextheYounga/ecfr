@@ -1,7 +1,5 @@
 ##### § 820.2 Definitions. #####
 
-Link to an amendment published at 81 FR 94913, December 27, 2016.
-
 (a) The following definitions apply to this part:
 
 *Act* or *AEA* means the Atomic Energy Act of 1954, as amended.
@@ -20,7 +18,17 @@ Link to an amendment published at 81 FR 94913, December 27, 2016.
 
 *DOE* means the United States Department of Energy or any predecessor agency.
 
-*DOE Nuclear Safety Requirements* means the set of enforceable rules, regulations, or orders relating to nuclear safety adopted by DOE (or by another Agency if DOE specifically identifies the rule, regulation, or order) to govern the conduct of persons in connection with any DOE nuclear activity and includes any programs, plans, or other provisions intended to implement these rules, regulations, orders, a Nuclear Statute or the Act, including technical specifications and operational safety requirements for DOE nuclear facilities. For purposes of the assessment of civil penalties, the definition of DOE Nuclear Safety Requirements is limited to those identified in 10 CFR 820.20(b).
+*DOE Nuclear Safety Requirements* means the set of rules, regulations, orders, and other requirements relating to nuclear safety adopted by DOE to govern the conduct of persons in connection with any DOE nuclear activity and includes any program, plan, or other provision required to implement these rules, regulations, orders, or other requirements. DOE Nuclear Safety Requirements include the following:
+
+(i) 10 CFR part 830;
+
+(ii) 10 CFR part 835;
+
+(iii) 10 CFR 820.11;
+
+(iv) Compliance Orders issued pursuant to 10 CFR part 820, subpart C; and
+
+(v) 10 CFR 708.43, to the extent that subject activities concern nuclear safety.
 
 *DOE Official* means the person, or his designee, in charge of making a decision under this part.
 
@@ -106,4 +114,4 @@ Link to an amendment published at 81 FR 94913, December 27, 2016.
 
 (c) As used in this part, words in the singular also include the plural and words in the masculine gender also include the feminine and vice versa, as the case may require.
 
-[58 FR 43692, Aug. 17, 1993, as amended at 71 FR 68732, Nov. 28, 2006; 72 FR 31921, June 8, 2007]
+[58 FR 43692, Aug. 17, 1993, as amended at 71 FR 68732, Nov. 28, 2006; 72 FR 31921, June 8, 2007; 81 FR 94913, Dec. 27, 2016]

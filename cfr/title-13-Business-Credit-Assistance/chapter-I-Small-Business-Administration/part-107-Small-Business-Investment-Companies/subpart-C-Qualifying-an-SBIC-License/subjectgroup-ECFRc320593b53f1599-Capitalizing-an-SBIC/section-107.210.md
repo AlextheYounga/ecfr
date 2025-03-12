@@ -1,6 +1,6 @@
 ##### § 107.210 Minimum capital requirements for Licensees. #####
 
-Link to an amendment published at 81 FR 95424, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95424, Dec. 28, 2016.At 82 FR 8499, Jan. 26, 2017, effectiveness of this amendment was delayed until Mar. 21, 2017.
 
 (a) *Companies licensed on or after October 1, 1996.* A company licensed on or after October 1, 1996 must have Leverageable Capital of at least $2,500,000 and must meet the applicable minimum Regulatory Capital requirement:
 

@@ -1,16 +1,8 @@
 ##### § 820.20 Purpose and scope. #####
 
-Link to an amendment published at 81 FR 94914, December 27, 2016.
+(a) *Purpose.* This subpart establishes the procedures for investigating the nature and extent of violations of DOE Nuclear Safety Requirements, for determining whether a violation of DOE Nuclear Safety Requirements has occurred, for imposing an appropriate remedy, and for adjudicating the assessment of a civil penalty.
 
-(a) *Purpose.* This subpart establishes the procedures for investigating the nature and extent of violations of the DOE Nuclear Safety Requirements, for determining, whether a violation has occurred, for imposing an appropriate remedy, and for adjudicating the assessment of a civil penalty.
-
-(b) *Basis for civil penalties.* DOE may assess civil penalties against any person subject to the provisions of this part who has entered into an agreement of indemnification under 42 U.S.C. 2210(d) (or any subcontractor or supplier thereto), unless exempted from civil penalties as provided in paragraph (c) of this section, on the basis of a violation of:
-
-(1) Any DOE Nuclear Safety Requirement set forth in the Code of Federal Regulations;
-
-(2) Any Compliance Order issued pursuant to subpart C of this part; or
-
-(3) Any program, plan or other provision required to implement any requirement or order identified in paragraphs (b)(1) or (b)(2) of this section.
+(b) *Basis for civil penalties.* DOE may assess civil penalties against any person subject to the provisions of this part who has entered into an agreement of indemnification under 42 U.S.C. 2210(d) (or any subcontractor or supplier thereto), unless exempted from civil penalties as provided in paragraph (c) of this section, on the basis of a violation of a DOE Nuclear Safety Requirement.
 
 (c) *Exemptions.* With respect to a violation occurring under a contract entered into before August 8, 2005, the following contractors, and subcontractors and suppliers to that prime contract only, are exempt from the assessment of civil penalties under this subpart with respect to the activities specified below:
 
@@ -34,4 +26,4 @@ Link to an amendment published at 81 FR 94914, December 27, 2016.
 
 (f) *Not-for-profit.* For purposes of this part, a “not-for-profit” contractor, subcontractor, or supplier is one for which no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
 
-[58 FR 43692, Aug. 17, 1993, as amended at 74 FR 11843, Mar. 20, 2009]
+[58 FR 43692, Aug. 17, 1993, as amended at 74 FR 11843, Mar. 20, 2009; 81 FR 94914, Dec. 27, 2016]

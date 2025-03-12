@@ -1,6 +1,6 @@
 ##### § 107.630 Requirement for Licensees to file financial statements with SBA (Form 468). #####
 
-Link to an amendment published at 81 FR 95424, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95424, Dec. 28, 2016.At 82 FR 8499, Jan. 26, 2017, effectiveness of this amendment was delayed until Mar. 21, 2017.
 
 (a) *Annual filing of Form 468.* For each fiscal year, you must submit to SBA financial statements and supplementary information prepared on SBA Form 468. You must file Form 468 on or before the last day of the third month following the end of your fiscal year, except for the information required under paragraph (e) of this section, which must be filed on or before the last day of the fifth month following the end of your fiscal year.
 

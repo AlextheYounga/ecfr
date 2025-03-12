@@ -1,6 +1,6 @@
 ##### § 107.1100 Types of Leverage and application procedures. #####
 
-Link to an amendment published at 81 FR 95425, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95425, Dec. 28, 2016.At 82 FR 8499, Jan. 26, 2017, effectiveness of this amendment was delayed until Mar. 21, 2017.
 
 (a) *Types of Leverageable available.* You may apply for Leverage from SBA in one or both of the following forms:
 
