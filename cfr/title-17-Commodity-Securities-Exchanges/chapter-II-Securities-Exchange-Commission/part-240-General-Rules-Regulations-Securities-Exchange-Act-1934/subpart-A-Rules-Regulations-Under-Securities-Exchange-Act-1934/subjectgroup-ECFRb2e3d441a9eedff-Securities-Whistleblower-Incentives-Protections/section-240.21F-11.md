@@ -1,5 +1,7 @@
 ##### § 240.21F-11 Procedures for determining awards based upon a related action. #####
 
+Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
+
 (a) If you are eligible to receive an award following a Commission action that results in monetary sanctions totaling more than $1,000,000, you also may be eligible to receive an award based on the monetary sanctions that are collected from a related action (as defined in § 240.21F-3 of this chapter).
 
 (b) You must also use Form WB-APP (as specified in § 240.21F-8(d)(2)) to submit a claim for an award in a potential related action. You must sign this form as the claimant and submit it to the Office of the Whistleblower by mail, email (as a PDF attachment), or fax (or any other manner that the Office permits) as follows:

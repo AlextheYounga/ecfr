@@ -1,6 +1,4 @@
-##### § 165.T01-0682 Safety Zone - North Hero-Grand Isle Bridge, Lake Champlain, VT. #####
-
-Link to an amendment published at 87 FR 53379, Aug. 31, 2022.
+##### § 165.T01-0682 Safety Zone—North Hero-Grand Isle Bridge, Lake Champlain, VT. #####
 
 (a) *Location.* The following area is a safety zone: All navigable waters on Lake Champlain, within a 50-yard radius of the center of the North Hero-Grand Isle Bridge that spans Lake Champlain between North Hero Island and Grand Isle in position 44°45′57″ N, 073°17′20″ W (NAD 83).
 
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 53379, Aug. 31, 2022.
 
 (2) *Official patrol vessels* means any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP Northern New England to enforce this section.
 
-(c) *Effective and enforcement period.* This section is enforceable 24 hours a day from October 1, 2018, through September 1, 2022. When enforced as deemed necessary by the Captain of the Port (COTP) Northern New England, vessels and persons will be prohibited from entering this safety zone unless granted permission from the COTP Northern New England or the COTP's designated representative.
+(c) *Effective and enforcement period.* This section is effective from September 2, 2022, through September 1, 2024, and subject to enforcement 24 hours a day. When enforced, as deemed necessary by the COTP, vessels and persons will be prohibited from entering the safety zone unless granted permission from the COTP or the COTP's designated representative.
 
 (d) *Regulations.* When this safety zone is enforced, the following regulations, along with those contained in § 165.23 apply:
 
@@ -24,4 +22,4 @@ Link to an amendment published at 87 FR 53379, Aug. 31, 2022.
 
 (f) *Notification.* Coast Guard Sector Northern New England will give notice through the Local Notice to Mariners and Broadcast Notice to Mariners for the purpose of enforcement of temporary safety zone.
 
-[USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, as amended at 87 FR 53379, Aug. 31, 2022]Effective Date Note:By USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, § 165.T01-0682 was added, effective Oct. 9, 2018, through Sept. 1, 2022.
+[USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, as amended at 87 FR 53379, Aug. 31, 2022]Effective Date Note:By USCG-2018-0682, 83 FR 50505, Oct. 9, 2018, § 165.T01-0682 was added, effective Oct. 9, 2018, through Sept. 1, 2022. At 87 FR 53379, Aug. 31, 2022, the effective date was extended to Sept. 1, 2024.

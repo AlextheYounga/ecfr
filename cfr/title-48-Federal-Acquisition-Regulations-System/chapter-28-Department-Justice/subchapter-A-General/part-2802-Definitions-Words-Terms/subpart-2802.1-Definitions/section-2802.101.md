@@ -2,24 +2,30 @@
 
 Throughout this chapter, the following words and terms are used as defined in this subpart unless the context in which they appear clearly requires a different meaning, or a different definition is prescribed for a particular part or portion of a part.
 
-(a) *Bureaus* means contracting activities. (See *contracting activity* in this subpart.)
+(a) *Agency* means the Department of Justice.
 
-(b) *Bureau procurement chief* means that supervisory official who is directly responsible for supervising, managing and directing all contracting offices of the bureau.
+(b) *Bureau* means contracting activity. (See “contracting activity” in this subpart.)
 
-(c) *Chief of the contracting office* means that supervisory official who is directly responsible for supervising, managing and directing a contracting office.
+(c) *Bureau Procurement Chief* or *BPC* means the supervisory official who is directly responsible for supervising, managing, and directing all contracting offices of the bureau.
 
-(d) *Contracting activity* means a component within the Department which has been delegated procurement authority to manage contracting functions associated with its mission. See 2801.601(a).
+(d) *Cardholder* means an individual entrusted with a Government Purchase Card.
 
-(e) *DOJ* means the Department of Justice.
+(e) *Chief Acquisition Officer* or *CAO* means the official appointed to assist the head of the agency and other agency officials to ensure the mission of the agency is achieved through the management of the agency's acquisition activities.
 
-(f) *HCA* means head of the contracting activity i.e. those officials identified in 2801.601(a) having responsibility for supervising, managing, and directing the operations of the contracting activities.
+(f) *Chief of the Contracting Office* means that supervisory official who is directly responsible for supervising, managing and directing a contracting office.
 
-(g) *JAR* means the Department of Justice Acquisition Regulations in 48 CFR chapter 28.
+(g) *Contracting activity* means a component within the Department which has been delegated procurement authority to manage contracting functions associated with its mission (see 2801.601(a)).
 
-(h) *JMD* means the Justice Management Division.
+(h) *Department* or *DOJ* means the Department of Justice.
 
-(i) *OBDs* means the offices, boards, and divisions within the Justice Department.
+(i) *Head of the Contracting Activity* or *HCA* means those officials identified in 2801.601(a) having responsibility for supervising, managing, and directing the operations of the contracting activity.
 
-(j) *PE* means the Procurement Executive for the Department of Justice.
+(j) *JAR* means the Department of Justice Acquisition Regulation in this chapter.
 
-[63 FR 16121, Apr. 2, 1998]
+(k) *JMD* means the Justice Management Division.
+
+(l) *OIG* means DOJ's Office of the Inspector General.
+
+(m) *Suspension and Debarment Official* or *SDO* means the employee designated to impose suspension and debarment for the Department of Justice.
+
+(n) *Senior Procurement Executive* or *SPE* means the official designated to be responsible for management direction of the Department of Justice procurement system, including implementation of unique procurement policies, regulations, and standards of the Department of Justice.

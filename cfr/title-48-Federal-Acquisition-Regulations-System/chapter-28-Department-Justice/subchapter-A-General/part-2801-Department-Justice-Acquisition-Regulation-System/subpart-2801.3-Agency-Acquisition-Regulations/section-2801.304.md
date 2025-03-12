@@ -1,0 +1,3 @@
+##### 2801.304 Agency control and compliance procedures. #####
+
+Pursuant to FAR 1.304, the Senior Procurement Executive (SPE) is responsible for ensuring that bureau acquisition guidance and directives do not restrain the flexibilities found in the FAR. For this reason, bureaus shall forward any bureau acquisition guidance to the SPE upon issuance. The SPE has the authority to revoke any guidance or directive considered restrictive of the regulations found in the FAR.

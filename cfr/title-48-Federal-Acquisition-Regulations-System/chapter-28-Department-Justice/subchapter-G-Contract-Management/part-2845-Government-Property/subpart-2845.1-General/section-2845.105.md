@@ -1,3 +1,3 @@
-##### 2845.105 Records of Government property. #####
+##### 2845.105 Contractors' property management system compliance. #####
 
-If departmental elements maintain the Government's official property management records, the contract records may be kept as a separate account in the bureau's internal property management system, in which case the contracting officer or formally designated property administrator shall serve as custodian of the account.
+The contractor's records for Government-furnished property may be kept as a separate account in the bureau's internal property management system, in which case the contracting officer or formally designated property administrator shall serve as custodian of the account.

@@ -1,5 +1,7 @@
 ##### § 240.21F-6 Criteria for determining amount of award. #####
 
+Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
+
 In exercising its discretion to determine the appropriate award, the Commission may consider the following factors (and only the following factors) in relation to the facts and circumstances of each case in setting the dollar or percentage amount of the award. In the event that awards are determined for multiple whistleblowers in connection an action, these factors will be used to determine the relative allocation of awards among the whistleblowers.
 
 (a) *Factors that may increase the amount of a whistleblower's award.* In determining whether to increase the amount of an award, the Commission will consider the following factors, which are not listed in order of importance.

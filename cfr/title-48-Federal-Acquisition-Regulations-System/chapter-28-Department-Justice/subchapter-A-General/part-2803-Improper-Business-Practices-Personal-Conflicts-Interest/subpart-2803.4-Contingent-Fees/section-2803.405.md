@@ -1,0 +1,3 @@
+##### 2803.405 Misrepresentations or violations of the Covenant Against Contingent Fees. #####
+
+Employees who suspect, or have evidence of, violations by a contractor of the Covenant Against Contingent Fees, see FAR subpart 3.4, must report the matter to the contracting officer or appropriate higher authority, in accordance with agency procedures. Employees who suspect or have evidence of fraudulent or criminal activities must report the matter to the SPE and the OIG.

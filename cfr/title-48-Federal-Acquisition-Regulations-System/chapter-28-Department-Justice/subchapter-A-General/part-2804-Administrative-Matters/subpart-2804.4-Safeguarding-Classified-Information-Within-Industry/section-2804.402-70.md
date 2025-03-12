@@ -1,0 +1,3 @@
+##### 2804.402-70 Contractor personnel security program. #####
+
+It is DOJ policy that all acquisitions which allow unescorted contractor access to Government facilities or sensitive information contain, as appropriate, requirements for appropriate personnel security screening by the contractor. To the maximum extent practicable, contractors shall be made responsible for the performance of personnel security screening. The personnel security screening may vary from one acquisition to another, depending upon the type, context, duration and location of the work to be performed. Classified contracts are exempted from the requirements of this section because they are governed by the requirements of Executive Order 12829 (January 6, 1993).

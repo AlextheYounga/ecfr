@@ -1,9 +1,5 @@
-##### 2809.404 List of parties excluded from Federal procurement and nonprocurement programs. #####
+##### 2809.404 System for Award Management Exclusions. #####
 
-(a) The PE shall:
+(a) The SDO shall ensure the discharge of all agency responsibilities prescribed in FAR 9.404(c)(1) through (6), (8), and (9).
 
-(1) Provide GSA notification of the information set forth in FAR 9.404(b) within five working days after debarring or suspending a contractor or modifying or rescinding such an action.
-
-(2) Maintain agency-wide records of debarred or suspended contractors in accordance with FAR 9.404.
-
-(b) Contracting activities shall provide an effective system to ensure that contracting staff consult the “List of Parties Excluded from Federal Procurement and Nonprocurement Programs” prior to soliciting offers from, awarding or extending contracts to, or consenting to subcontracts with contractors on the list.
+(b) The authority to establish procedures prescribed in FAR 9.404(c)(7) is delegated to the HCA, or designee.

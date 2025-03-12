@@ -1,11 +1,11 @@
 ##### 2833.101 Definitions. #####
 
-(a) *Agency Protest Official* means the official, other than the contracting officer, designated to review and decide procurement protests filed with a contracting activity of the Department of Justice.
+(a) *Agency Protest Official (APO)* means the Deciding Official for a procurement protest filed with a contracting activity of DOJ when the contracting officer will not be the Deciding Official because of the protestor's election under JAR 22833.103(b). The HCA will designate the individual who will serve as the APO for a given protest subject to the following:
 
-(1) This person will be at a level above that of the Contracting Officer, will be knowledgeable about the acquisition process in general and will have no programmatic interest in the procurement.
+(1) The APO will be at an organizational level above that of the contracting officer, will be knowledgeable about the acquisition process in general, and will not have had any previous personal involvement or programmatic interest in the procurement that is the subject of the protest.
 
-(2) This official shall be an individual designated by the head of the contracting activity and may be the Competition Advocate.
+(2) The departmental or bureau Competition Advocate may serve as the APO.
 
-(b) *Deciding Official* means the person chosen by the protestor to decide the agency protest; it may be either the Contracting Officer or the Agency Protest Official.
+(b) *Deciding Official* means the official who will review and decide a procurement protest filed with the agency. The Deciding Official will be the contracting officer unless the protestor requests pursuant to JAR 2833.103(b) that the protest be decided by an individual above the level of the contracting officer, in which case the HCA will designate an APO to serve as the Deciding Official.
 
-(c) *Interested Party* means an actual or prospective offeror whose direct economic interest would be affected by the award of a contract or by the failure to award a contract.
+(c) *Interested party* means an actual or prospective offeror whose direct economic interest would be affected by the award of a contract or by the failure to award a contract.

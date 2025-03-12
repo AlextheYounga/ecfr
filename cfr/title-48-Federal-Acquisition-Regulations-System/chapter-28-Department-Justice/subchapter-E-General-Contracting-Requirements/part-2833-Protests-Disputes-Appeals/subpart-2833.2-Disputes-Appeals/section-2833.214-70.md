@@ -1,0 +1,3 @@
+##### 2833.214-70 Policy. #####
+
+It is DOJ's goal to resolve contract disputes before the issuance of a contracting officer's final decision under the Contract Disputes Act. Therefore, contracting officers will consider all possible means of reaching a negotiated settlement consistent with the Government's best interest, before issuing a final decision on a contractor claim under the process outlined in FAR 33.206 through 33.211.

@@ -1,5 +1,7 @@
 ##### § 240.21F-4 Other definitions. #####
 
+Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
+
 (a) *Voluntary submission of information.* (1) Your submission of information is made *voluntarily* within the meaning of §§ 240.21F-1 through 240.21F-17 of this chapter if you provide your submission before a request, inquiry, or demand that relates to the subject matter of your submission is directed to you or anyone representing you (such as an attorney):
 
 (i) By the Commission;

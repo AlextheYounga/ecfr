@@ -1,5 +1,3 @@
 ##### 2809.405-1 Continuation of current contracts. #####
 
-(a) In accordance with FAR 9.405-1, contracting activities may continue contracts or subcontracts in existence at the time a contractor is suspended or debarred unless it is determined that termination of the contract is in the best interest of the Government. In making this determination, contracting activities shall consider the seriousness of the act or omission leading to the debarment or suspension, the effect of debarment or suspension on the contractor's ability to continue operations, and the Department's ability to safeguard its interests and receive satisfactory performance.
-
-(b) Contracting activities shall not renew or otherwise extend the duration of current contracts, or consent to subcontracts, with contractors debarred, suspended, or proposed for debarment, unless the HCA states, in writing, the compelling reasons for renewal or extension and the PE approves such action.
+The HCA or designee is the agency head for the purposes of FAR 9.405-1.

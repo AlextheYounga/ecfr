@@ -1,7 +1,9 @@
 ##### 2806.304 Approval of the justification. #####
 
-(a) All justifications for contract actions over the contracting officer's approval dollar threshold shall be submitted to the BPC for concurrence before being forwarded to the contracting activity competition advocate for approval. Justifications requiring approval by the PE shall be further submitted for the concurrence of the contracting activity competition advocate and the HCA, or designee, before being forwarded to the PE for approval.
+(a) Justifications for contract actions over the contracting officer's approval dollar threshold shall be submitted to the BPC for concurrence before being forwarded to the bureau Competition Advocate for approval.
 
-(b) After approval by the PE, the signed original will be returned to the contracting activity and one copy will be retained by the PPRG, JMD.
+(b) Justifications requiring approval by the HCA, or a designee, shall be submitted to the {i} BPC and {ii} bureau Competition Advocate for concurrence before being forwarded to the HCA or designee.
 
-(c) Pursuant to FAR 6.304(c), a class justification for other than full and open competition shall be approved in accordance with bureau procedures.
+(c) Justifications requiring approval by the SPE shall be submitted to the {i} BPC, {ii} the bureau Competition Advocate, and {iii} the HCA for concurrence before being forwarded to the SPE for approval.
+
+(d) A class justification shall be approved in accordance with established bureau procedures and FAR 6.304(c).

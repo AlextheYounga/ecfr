@@ -1,0 +1,3 @@
+##### 2801.604 Contracting Officer's Representative (COR). #####
+
+Contracting officers may appoint individuals to act as authorized representatives in the monitoring and administration of a contract. Such officials shall be designated as a Contracting Officer's Representative (COR). When a COR is to be designated, contracting officers shall include the clause at JAR 2852.201-70 in all contracts. A COR's authority is limited to the authority set forth in the subject clause.

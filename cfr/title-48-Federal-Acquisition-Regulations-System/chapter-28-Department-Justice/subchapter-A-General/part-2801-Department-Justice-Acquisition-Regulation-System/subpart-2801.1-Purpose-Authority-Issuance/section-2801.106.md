@@ -1,0 +1,3 @@
+##### 2801.106 OMB approval under the Paperwork Reduction Act. #####
+
+The Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35) and the Office of Management and Budget's (OMB) implementing regulations at 5 CFR part 1320, require that reporting and recordkeeping requirements affecting ten (10) or more members of the public be cleared by OMB. The OMB control number for the collection of information under this chapter is 1103-0018.

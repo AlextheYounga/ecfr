@@ -1,0 +1,3 @@
+##### 2839.102 Management of risk. #####
+
+Contracts involving DOJ Information and Information Systems shall comply with the security requirements prescribed in FAR 39.102 and all applicable DOJ security requirements, including without limitation all DOJ Policy Statements and DOJ Policy Instructions established under the DOJ Acquisition Management Order relating to the Management of Risk of DOJ Information and Information Systems.

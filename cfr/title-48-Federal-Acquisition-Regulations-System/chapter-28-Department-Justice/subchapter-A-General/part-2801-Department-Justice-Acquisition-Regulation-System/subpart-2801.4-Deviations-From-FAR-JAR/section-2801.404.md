@@ -1,0 +1,3 @@
+##### 2801.404 Class deviations. #####
+
+Requests for class deviations from the FAR or JAR shall be submitted to the SPE. The SPE will consult with the chairperson of the Civilian Agency Acquisition Council (CAAC), as appropriate, and send his/her recommendations to the Chief Acquisition Officer (CAO). The CAO will grant or deny requests for such deviations. Requests for deviations involving basic ordering agreements, master type contracts, or situations where multiple awards are made from one solicitation are considered to involve more than one contract and, therefore, are considered class deviation requests.

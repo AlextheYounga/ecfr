@@ -1,0 +1,3 @@
+##### 2823.303-70 Unsafe conditions due to hazardous material. #####
+
+The clause at FAR 52.223-3 shall be included in solicitations and contracts that will require delivery of hazardous material as defined in FAR 23.301. In addition, the contracting officer shall insert the clause at JAR 2852.223-70, Unsafe Conditions Due to the Presence of Hazardous Material, in all such solicitations and contracts, where the contract will require the performance of services on Government-owned or Government-leased facilities.

@@ -1,5 +1,3 @@
 ##### 2808.802 Policy. #####
 
-The Director, Facilities and Administrative Services Staff, has been designated to serve as the central printing authority for the Department.
-
-[63 FR 16125, Apr. 2, 1998]
+The Director, Facilities and Administrative Services Staff (FASS), JMD, has been designated to serve as the central printing authority for the DOJ, for purposes of FAR 8.802(b).

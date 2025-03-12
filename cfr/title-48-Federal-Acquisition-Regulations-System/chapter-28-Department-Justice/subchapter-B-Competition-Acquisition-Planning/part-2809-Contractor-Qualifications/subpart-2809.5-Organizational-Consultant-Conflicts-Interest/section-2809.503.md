@@ -1,3 +1,3 @@
 ##### 2809.503 Waiver. #####
 
-The HCA may waive any general rule or procedure of FAR 9.5 by determining that its application in a particular situation would not be in the Government's interest.
+The HCA is the agency head for the purpose of waiving any general rule or procedure prescribed in FAR subpart 9.5. As prescribed in FAR 9.503, the authority delegated to the HCA to waive any general rule or procedure prescribed in FAR subpart 9.5 may not be delegated below the level of the HCA.

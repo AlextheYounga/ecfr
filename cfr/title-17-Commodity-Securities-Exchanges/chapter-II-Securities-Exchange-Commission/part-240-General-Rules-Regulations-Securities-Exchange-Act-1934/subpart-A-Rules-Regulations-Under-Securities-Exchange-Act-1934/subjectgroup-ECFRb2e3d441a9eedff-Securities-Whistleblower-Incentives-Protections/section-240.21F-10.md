@@ -1,5 +1,7 @@
 ##### § 240.21F-10 Procedures for making a claim for a whistleblower award in SEC actions that result in monetary sanctions in excess of $1,000,000. #####
 
+Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
+
 (a) Whenever a Commission action results in monetary sanctions totaling more than $1,000,000, the Office of the Whistleblower will cause to be published on the Commission's Web site a “Notice of Covered Action.” Such Notice will be published subsequent to the entry of a final judgment or order that alone, or collectively with other judgments or orders previously entered in the Commission action, exceeds $1,000,000; or, in the absence of such judgment or order subsequent to the deposit of monetary sanctions exceeding $1,000,000 into a disgorgement or other fund pursuant to Section 308(b) of the Sarbanes-Oxley Act of 2002. A claimant will have ninety (90) days from the date of the Notice of Covered Action to file a claim for an award based on that action, or the claim will be barred.
 
 (b) To file a claim for a whistleblower award, you must file Form WB-APP (as specified in § 240.21F-8(d)(2). You must sign this form as the claimant and submit it to the Office of the Whistleblower by mail, email (as a PDF attachment), or fax (or any other manner that the Office permits).

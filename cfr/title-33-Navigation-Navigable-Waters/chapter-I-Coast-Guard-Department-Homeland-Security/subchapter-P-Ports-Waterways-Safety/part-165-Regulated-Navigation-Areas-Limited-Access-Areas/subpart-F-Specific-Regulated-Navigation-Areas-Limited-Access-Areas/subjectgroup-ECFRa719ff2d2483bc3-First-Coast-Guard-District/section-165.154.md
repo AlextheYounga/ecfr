@@ -1,7 +1,5 @@
 ##### § 165.154 Safety and Security Zones; Captain of the Port Long Island Sound Zone Safety and Security Zones. #####
 
-Link to an amendment published at 87 FR 47354, Aug. 3, 2022.
-
 The following areas are designated safety and security zones:
 
 (a) *Security zones.* (1) Dominion Millstone Nuclear Power Plant, Waterford, CT.
@@ -16,7 +14,7 @@ The following areas are designated safety and security zones:
 
 (ii) *Application.* Paragraphs (a),(e), (f) of § 165.33 do not apply to public vessels or to vessels owned by, under hire to, or performing work for the Electric Boat Division when operating in the security zone.
 
-(3) Naval Submarine Base, Groton, CT. All navigable waters of the Thames River, from surface to bottom, West of the Groton Naval Submarine Base New London, enclosed by a line beginning at a point on the shoreline at 41°23′15.8″ N, 72°05′17.9″ W; then to 41°23′15.8″ N, 72°05′22″ W; then to 41°23′25.9″ N, 72°05′29.9″ W; then to 41°23′33.8″ N, 72°05′34.7″ W; then to 41°23′37.0″ N, 72°05′38.0″ W; then to 41°23′41.0″ N, 72°05′40.3″ W; then to 41°23′47.2″ N, 72°05′42.3″ W; then to 41°23′53.8″ N, 72°05′43.7″ W; then to 41°23′59.8″ N, 72°05′43.0″ W; then to 41°24′12.4″ N, 72°05′43.2″ W; then to a point on the shoreline at 41°24′14.4″ N, 72°05′38″ W; then along the shoreline to the point of beginning (NAD 83).
+(3) Naval Submarine Base New London, Groton, CT. All navigable waters of the Thames River, from surface to bottom, West of Naval Submarine Base New London, Groton, CT, enclosed by a line beginning at a point on the shoreline at 41°23′7.9″ N, 072°05′13.7″ W; then to 41°23′7.9″ N, 072°05′16.9″ W; then to 41°23′26.42″ N, 72°5′30.771″ W; then to 41°23′42.9″ N, 072°05′40.1″ W; then to 41°23′46.7″ N, 072°05′42.3″ W; then to 41°23′53.9″ N, 072°05′44.5″ W; then to 41°24′8.7″ N, 072°05′44.5″ W; then to 41°24′16.2″ N, 072°05′43.4″ W; then to a point on the shoreline 41°24′16.2″ N, 072°05′36.4″ W; then along the shoreline to the point of beginning (NAD 83).
 
 (4) U.S. Coast Guard Academy, New London, CT.
 
@@ -40,4 +38,4 @@ The following areas are designated safety and security zones:
 
 (4) Vessel operators desiring to enter or operate within the security zones shall request permission to do so by contacting the Captain of the Port Sector Long Island Sound at 203-468-4401, or via VHF Channel 16.
 
-[USCG-2008-0384, 77 FR 6961, Feb. 10, 2012, as amended by USCG-2021-0062, 86 FR 37051, July 14, 2021]
+[USCG-2008-0384, 77 FR 6961, Feb. 10, 2012, as amended by USCG-2021-0062, 86 FR 37051, July 14, 2021; USCG-2022-0082, 87 FR 47354, Aug. 3, 2022]

@@ -1,3 +1,5 @@
 ##### 2811.002 Policy. #####
 
-Consistent with the policy expressed in FAR 11.002(b), solicitations must include specifications and purchase descriptions stated in metric units of measurement whenever metric is the accepted industry system. Whenever possible, commercially developed metric specifications and internationally, or domestically developed voluntary standards, using metric measurements, must be adopted. While an industry is in transition to metric specifications, solicitations must include requirements documents stated in soft metric, hybrid, or dual systems, except when impractical or inefficient.
+(a) Consistent with the policy expressed in FAR 11.002(b), the metric system is the preferred system of weights and measures and shall be used in DOJ solicitations and contracts.
+
+(b) When acquiring products or services, the requirements of FAR 11.002(d)(1) and DOJ sustainability policies and procedures are to be followed.
