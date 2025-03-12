@@ -1,5 +1,7 @@
 ##### § 679.43 Determinations and appeals. #####
 
+Link to an amendment published at 85 FR 8481, Feb. 14, 2020.
+
 (a) *General.* This section describes the procedure for appealing initial administrative determinations made in this title under parts 300, 679, 680, and subpart E of part 300 of this chapter.
 
 (b) *Who may appeal.* Any person whose interest is directly and adversely affected by an initial administrative determination may file a written appeal. For purposes of this section, such persons will be referred to as “applicant” or “appellant.”

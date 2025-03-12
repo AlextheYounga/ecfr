@@ -1,6 +1,6 @@
 ##### § 648.80 NE Multispecies regulated mesh areas and restrictions on gear and methods of fishing. #####
 
-Link to an amendment published at 85 FR 2324, Jan. 15, 2020.Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
+Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.
 
@@ -96,7 +96,7 @@ GB Regulated Mesh Area
 
 (v) *Hook gear restrictions.* Unless otherwise specified in this paragraph (a)(3)(v) or § 648.87(c), vessels fishing with a valid NE multispecies limited access permit and fishing under a NE multispecies DAS or on a sector trip, and vessels fishing with a valid NE multispecies limited access Small-Vessel permit in the GOM Regulated Mesh Area, and persons on such vessels, are prohibited from fishing, setting, or hauling back, per day, or possessing on board the vessel, more than 2,000 rigged hooks. All longline gear hooks must be circle hooks, of a minimum size of 12/0. An unbaited hook and gangion that has not been secured to the ground line of the trawl on board a vessel during the fishing trip is deemed to be a replacement hook and is not counted toward the 2,000-hook limit. A “snap-on” hook is deemed to be a replacement hook if it is not rigged or baited during the fishing trip. The use of de-hookers (“crucifer”) with less than 6-inch (15.2-cm) spacing between the fairlead rollers is prohibited. Vessels fishing with a valid NE multispecies limited access Hook Gear permit and fishing under a multispecies DAS or on a sector trip in the GOM Regulated Mesh Area, and persons on such vessels, are prohibited from possessing gear other than hook gear on board the vessel. Vessels fishing with a valid NE multispecies limited access Handgear A permit, and persons on such vessels, are prohibited from fishing, or possessing on board the vessel, gear other than handgear. Vessels fishing with tub-trawl gear are prohibited from fishing, setting, or hauling back, per day, or possessing on board the vessel more than 250 hooks.
 
-(vi) *Other restrictions and exemptions.* A vessel is prohibited from fishing in the GOM or GB Exemption Area as defined in paragraph (a)(17) of this section, except if fishing with exempted gear (as defined under this part) or under the exemptions specified in paragraphs (a)(5) through (7), (a)(9) through (a)(16) and (a)(18) through (a)(19), (d), (e), (h), and (i) of this section; or if fishing under a NE multispecies DAS; or if fishing on a sector trip; or if fishing under the Small Vessel or Handgear A permit specified in § 648.82(b)(5) and (6), respectively; or if fishing under a Handgear B permit specified in § 648.88(a); or if fishing under the scallop state waters exemptions specified in § 648.54 and paragraph (a)(11) of this section; or if fishing under a scallop DAS in accordance with paragraph (h) of this section; or if fishing pursuant to a NE multispecies open access Charter/Party or Handgear permit specified in § 648.88; or if fishing as a charter/party or private recreational vessel in compliance with § 648.89. Any gear used by a vessel in this area must be authorized under one of these exemptions. Any gear on a vessel that is not authorized under one of these exemptions must be stowed and not available for immediate use as defined in § 648.2.
+(vi) *Other restrictions and exemptions.* A vessel is prohibited from fishing in the GOM or GB Exemption Area as defined in paragraph (a)(17) of this section, except if fishing with exempted gear (as defined under this part) or under the exemptions specified in paragraphs (a)(5) through (a)(7), (a)(9) through (a)(16) and (a)(18) through (a)(19), (d), (e), (h), and (i) of this section; or if fishing under a NE multispecies DAS; or if fishing on a sector trip; or if fishing under the Small Vessel or Handgear A permit specified in § 648.82(b)(5) and (6), respectively; or if fishing under a Handgear B permit specified in § 648.88(a); or if fishing under the scallop state waters exemptions specified in § 648.54 and paragraph (h)(3)(i) of this section; or if fishing under a scallop DAS or general category trip in accordance with paragraph (h) of this section; or if fishing pursuant to a NE multispecies open access Charter/Party or Handgear permit specified in § 648.88; or if fishing as a charter/party or private recreational vessel in compliance with § 648.89. Any gear used by a vessel in this area must be authorized under one of these exemptions. Any gear on a vessel that is not authorized under one of these exemptions must be stowed and not available for immediate use as defined in § 648.2.
 
 (vii) *Rockhopper and roller gear restrictions.* For all trawl vessels fishing on a NE multispecies DAS or sector trip in the GOM/GB Inshore Restricted Roller Gear Area, the diameter of any part of the trawl footrope, including discs, rollers, or rockhoppers, must not exceed 12 inches (30.5 cm). The GOM/GB Inshore Restricted Roller Gear Area is defined by straight lines connecting the following points in the order stated:
 
@@ -284,29 +284,7 @@ Nantucket Shoals Dogfish Exemption Area
 
 (ii) *Sea sampling.* The Regional Administrator may conduct periodic sea sampling to determine if there is a need to change the area or season designation, and to evaluate the bycatch of regulated species.
 
-(11) *GOM Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, and vessels issued a General Category scallop permit, may fish in the GOM Regulated Mesh Area specified in paragraph (a)(1) of this section, when not under a NE multispecies DAS, providing the vessel fishes in the GOM Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (a)(11)(i) of this section. The GOM Scallop Dredge Fishery Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a map depicting the area are available from the Regional Administrator upon request):
-
-GOM Scallop Dredge Exemption Area
-
-|Point|    N lat.    |   W long.    |
-|-----|--------------|--------------|
-| SM1 |    41°35′    |    70°00′    |
-| SM2 |    41°35′    |    69°40′    |
-| SM3 |   42°49.5′   |    69°40′    |
-| SM4 |    43°12′    |    69°00′    |
-| SM5 |    43°41′    |    68°00′    |
-| SM6 |    43°58′    |    67°22′    |
-| SM7 |(<sup>1</sup>)|(<sup>1</sup>)|
-
-<sup>1</sup> Northward along the irregular U.S.-Canada maritime boundary to the shoreline.
-
-(i) *Requirements.* (A) A vessel fishing in the GOM Scallop Dredge Fishery Exemption Area specified in this paragraph (a)(11) may not fish for, possess on board, or land any species of fish other than Atlantic sea scallops and up to 50 lb (23 kg) tail weight or 166 lb (75 kg) whole weight of monkfish per trip.
-
-(B) A vessel fishing in the GOM Scallop Dredge Fishery Exemption Area under the exemption specified in this paragraph (a)(11) must fish with dredge gear. The combined dredge width in use by, or in possession on board, may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
-
-(C) The exemption does not apply to the Cashes Ledge Closure Area or the Western GOM Area Closure specified in § 648.81(a)(3) and (4), respectively.
-
-(ii) [Reserved]
+(11) [Reserved]
 
 (12) *Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel may fish with a dredge in the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area, provided that any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not fish for, harvest, possess, or land any species of fish other than mussels and sea urchins. The area coordinates of the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area are the same coordinates as those of the Nantucket Shoals Dogfish Fishery Exemption Area specified in paragraph (a)(10) of this section.
 
@@ -460,27 +438,7 @@ Gulf of Maine/Georges Bank Exemption Area
 
 <sup>1</sup>Northward to its intersection with the shoreline of mainland Massachusetts.
 
-(18) *Great South Channel Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels issued a LAGC scallop permit, including limited access scallop permits that have used up their DAS allocations, may fish in the Great South Channel Scallop Dredge Exemption Area, as defined under paragraph (a)(18)(i) of this section, when not under a NE multispecies or scallop DAS or on a sector trip, provided the vessel complies with the requirements specified in paragraph (a)(18)(ii) of this section and applicable scallop regulations in subpart D of this part.
-
-(i) *Area Definition.* The Great South Channel Scallop Dredge Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
-
-Great South Channel Scallop Dredge Exemption Area
-
-|Point|  N. lat.  |   W. long.   |
-|-----|-----------|--------------|
-|GSC 1|42°06 [min]| 69°40 [min]  |
-|GSC 2|41°30 [min]| 69°10 [min]  |
-|GSC 3|41°30 [min]| 69°23 [min]  |
-|GSC 4|40°50 [min]|68°49.2 [min] |
-|GSC 5|40°50 [min]|69°29.46 [min]|
-|GSC 6|41°10 [min]| 69°50 [min]  |
-|GSC 7|41°10 [min]| 70°00 [min]  |
-|GSC 8|41°35 [min]| 70°00 [min]  |
-|GSC 9|41°35 [min]| 69°40 [min]  |
-
-(ii) *Requirements.* (A) A vessel fishing in the Great South Channel Scallop Dredge Exemption Area specified in this paragraph (a)(18) may not fish for, possess on board, or land any species of fish other than Atlantic sea scallops and up to 50 lb (23 kg) tail weight or 166 lb (75 kg) whole weight of monkfish per trip.
-
-(B) The combined dredge width in use by, or in possession on board, vessels fishing in the Great South Channel Scallop Dredge Exemption Area may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
+(18) [Reserved]
 
 (19) *Cape Cod Spiny Dogfish Exemption Areas.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels issued a NE multispecies limited access permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the Eastern or Western Cape Cod Spiny Dogfish Exemption Area as defined under paragraphs (a)(19)(i) and (ii) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements for the Eastern or Western area, specified in paragraphs (a)(19)(i) and (ii) of this section, respectively.
 
@@ -551,7 +509,7 @@ Great South Channel Scallop Dredge Exemption Area
 
 (v) *Hook gear restrictions.* Unless otherwise specified in this paragraph (b)(2)(v), vessels fishing with a valid NE multispecies limited access permit and fishing under a NE multispecies DAS, and vessels fishing with a valid NE multispecies limited access Small-Vessel permit, in the SNE Regulated Mesh Area, and persons on such vessels, are prohibited from fishing, setting, or hauling back, per day, or possessing on board the vessel, more than 2,000 rigged hooks. All longline gear hooks must be circle hooks, of a minimum size of 12/0. An unabated hook and gangions that has not been secured to the ground line of the trawl on board a vessel is deemed to be a replacement hook and is not counted toward the 2,000-hook limit. A “snap-on” hook is deemed to be a replacement hook if it is not rigged or baited. The use of de-hookers (“crucifer”) with less than 6-inch (15.2-cm) spacing between the fairlead rollers is prohibited. Vessels fishing with a valid NE multispecies limited access Hook Gear permit and fishing under a multispecies DAS in the SNE Regulated Mesh Area, and persons on such vessels, are prohibited from possessing gear other than hook gear on board the vessel. Vessels fishing with a valid NE multispecies limited access Handgear A permit are prohibited from fishing, or possessing on board the vessel, gears other than handgear. Vessels fishing with tub-trawl gear are prohibited from fishing, setting, or hauling back, per day, or possessing on board the vessel more than 250 hooks.
 
-(vi) *Other restrictions and exemptions.* A vessel is prohibited from fishing in the SNE Exemption Area, as defined in paragraph (b)(10) of this section, except if fishing with exempted gear (as defined under this part) or under the exemptions specified in paragraphs (b)(3), (b)(5) through (9), (b)(11), (b)(12), (c), (e), (h), and (i) of this section; or if fishing under a NE multispecies DAS; or if fishing on a sector trip; or if fishing under the Small Vessel or Handgear A permit specified in § 648.82(b)(5) and (6), respectively; or if fishing under a Handgear B permit specified in § 648.88(a); or if fishing under a scallop state waters exemption specified in § 648.54; or if fishing under a scallop DAS in accordance with paragraph (h) of this section; or if fishing under a General Category scallop permit in accordance with paragraphs (b)(11)(i)(A) and (B) of this section; or if fishing pursuant to a NE multispecies open access Charter/Party or Handgear permit specified in § 648.88; or if fishing as a charter/party or private recreational vessel in compliance with the regulations specified in § 648.89. Any gear on a vessel, or used by a vessel, in this area must be authorized under one of these exemptions or must be stowed and not available for immediate use as defined in § 648.2.
+(vi) *Other restrictions and exemptions.* A vessel is prohibited from fishing in the SNE Exemption Area, as defined in paragraph (b)(10) of this section, except if fishing with exempted gear (as defined under this part) or under the exemptions specified in paragraphs (b)(3), (b)(5) through (9), (b)(12), (c), (e), (h), and (i) of this section; or if fishing under a NE multispecies DAS; or if fishing on a sector trip; or if fishing under the Small Vessel or Handgear A permit specified in § 648.82(b)(5) and (6), respectively; or if fishing under a Handgear B permit specified in § 648.88(a); or if fishing under a scallop state waters exemption specified in § 648.54; or if fishing under a scallop DAS or General Category scallop permit in accordance with paragraph (h) of this section; or if fishing pursuant to a NE multispecies open access Charter/Party or Handgear permit specified in § 648.88; or if fishing as a charter/party or private recreational vessel in compliance with the regulations specified in § 648.89. Any gear on a vessel, or used by a vessel, in this area must be authorized under one of these exemptions or must be stowed and not available for immediate use as defined in § 648.2.
 
 (3) *Exemptions* - (i) *Species exemption.* Unless otherwise restricted in § 648.86, owners and operators of vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(4) and (b)(2) of this section may fish for, harvest, possess, or land butterfish, dogfish (caught by trawl only), herring, Atlantic mackerel, ocean pout, scup, shrimp, squid, summer flounder, silver hake and offshore hake, and weakfish with nets of a mesh size smaller than the minimum size specified in the GB and SNE Regulated Mesh Areas when fishing in the SNE Exemption Area defined in paragraph (b)(10) of this section, provided such vessels comply with requirements specified in paragraph (b)(3)(ii) of this section and with the mesh size and possession limit restrictions specified under § 648.86(d).
 
@@ -644,48 +602,7 @@ Southern New England Exemption Area
 
 (ii) Bounded on the west by a line running from the Rhode Island shoreline at 41°18.2′ N. lat. and 71°51.5′ W. long. (Watch Hill, RI), southwesterly through Fishers Island, NY, to Race Point, Fishers Island, NY; and from Race Point, Fishers Island, NY; southeasterly to the intersection of the 3-nautical mile line east of Montauk Point; southwesterly along the 3-nautical mile line to the intersection of 72°30′ W. long.; and south along that line to the intersection of the outer boundary of the EEZ.
 
-(11) *SNE Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, or 50 CFR part 648, subpart D, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocation, and vessels issued a General Category scallop permit, may fish in the SNE RMA when not under a NE multispecies DAS, provided the vessel fishes in the SNE Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (b)(11)(ii) of this section.
-
-(i) The SNE Scallop Dredge Exemption Area is that area (copies of a chart depicting this area are available from the Regional Administrator upon request):
-
-(A) Bounded on the west, south and east by straight lines connecting the following points in the order stated:
-
-|Point| N. latitude  |W. longitude|
-|-----|--------------|------------|
-| Sc1 |(<sup>1</sup>)|   72°30′   |
-| Sc2 |    40°00′    |   72°30′   |
-| Sc3 |    40°00′    |   71°40′   |
-| Sc4 |    39°50′    |   71°40′   |
-| Sc5 |    39°50′    |   70°00′   |
-| Sc6 |(<sup>2</sup>)|   70°00′   |
-| Sc7 |(<sup>3</sup>)|   70°00′   |
-| Sc8 |(<sup>4</sup>)|   70°00′   |
-
-<sup>1</sup> South facing shoreline of Long Island, NY.
-
-<sup>2</sup> South facing shoreline of Nantucket, MA.
-
-<sup>3</sup> North facing shoreline of Nantucket, MA.
-
-<sup>4</sup> South facing shoreline of Cape Cod, MA.
-
-(B) Bounded on the northwest by straight lines connecting the following points in the order stated:
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-| Sc9 |    41°00′    |(<sup>1</sup>)|
-|Sc10 |    41°00′    |    71°40′    |
-|Sc11 |(<sup>2</sup>)|    71°40′    |
-
-<sup>1</sup> East facing shoreline of the south fork of Long Island, NY.
-
-<sup>2</sup> South facing shoreline of RI.
-
-(ii) *Exemption program requirements.* (A) A vessel fishing in the SNE Scallop Dredge Exemption Area may not fish for, posses on board, or land any species of fish other than Atlantic sea scallops and up to 50 lb (23 kg) tail weight or 166 lb (75 kg) whole weight of monkfish per trip.
-
-(B) The combined dredge width in use by or in possession on board vessels fishing in the SNE Scallop Dredge Exemption Area shall not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
-
-(C) The minimum mesh size used in the twine top of scallop dredges must be 10 in (25.4 cm).
+(11) [Reserved]
 
 (12) *SNE Skate Bait Trawl Exemption Area.* Vessels issued an open access skate permit and a skate bait Letter of Authorization as specified in § 648.322(c) that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the SNE Skate Bait Trawl Exemption Area as defined under paragraph (b)(12)(i) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements specified in paragraph (b)(1)(ii) of this section.
 
@@ -810,9 +727,51 @@ SNE Skate Bait Trawl Exemption Area
 
 (ii) *Requirements for gillnet gear capable of catching NE multispecies to prevent large whale takes.* In addition to the requirements for gillnet fishing identified in this section, all persons owning or operating vessels in the EEZ that fish with sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(b)(2)(ii) and (d)(5)(ii)), must comply with the applicable provisions of the Atlantic Large Whale Take Reduction Plan found in § 229.32 of this title.
 
-(h) *Scallop vessels.* (1) Except as provided in paragraph (h)(2) of this section, a scallop vessel that possesses a limited access scallop permit and either a NE multispecies Combination vessel permit or a scallop/multispecies possession limit permit, and that is fishing under a scallop DAS allocated under § 648.53, may possess and land up to 300 lb (136.1 kg) of regulated species per trip, provided that the amount of regulated species on board the vessel does not exceed the trip limits specified in § 648.86, and provided the vessel has at least one standard tote on board, unless otherwise restricted by § 648.86(a)(2).
+(h) *Scallop vessels* - (1) *Scallop DAS.* Except as provided in paragraphs (h)(2) and (3) of this section, a scallop vessel that possesses a limited access scallop permit and either a NE multispecies Combination vessel permit or a scallop/multispecies possession limit permit, and that is fishing under a scallop DAS allocated under § 648.53, may possess and land up to 300 lb (136.1 kg) of regulated species per trip, provided that the amount of regulated species on board the vessel does not exceed the trip limits specified in § 648.86, and provided the vessel has at least one standard tote on board, unless otherwise restricted by § 648.86(a)(2).
 
-(2) Limited access scallop vessels issued a limited access NE multispecies permit and fishing under a NE multispecies DAS are subject to the gear restrictions specified in this section and may possess and land unlimited amounts of regulated species or ocean pout, unless otherwise restricted by § 648.86. Such vessels may simultaneously fish under a scallop DAS, but are prohibited from using scallop dredge gear on such trips.
+(2) *NE Multispecies DAS.* Limited access scallop vessels issued a limited access NE multispecies permit and fishing under a NE multispecies DAS are subject to the gear restrictions specified in this section and may possess and land unlimited amounts of regulated species or ocean pout, unless otherwise restricted by § 648.86. Such vessels may simultaneously fish under a scallop DAS, but are prohibited from using scallop dredge gear on such trips.
+
+(3) *Scallop dredge exemption areas for general category scallop permits* - (i) *GOM Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, and vessels issued a General Category scallop permit, may fish in the GOM Regulated Mesh Area specified in paragraph (a)(1) of this section, when not under a NE multispecies DAS, providing the vessel fishes in the GOM Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (h)(3)(iii) of this section. The GOM Scallop Dredge Fishery Exemption Area is bounded on the west and north by the coastlines of Massachusetts, New Hampshire, and Maine, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the south by straight lines connecting the following points in the order stated:
+
+GOM Scallop Dredge Exemption Area
+
+|Point| N lat. |   W long.    |
+|-----|--------|--------------|
+|GOM1 | 43°58′ |(<sup>1</sup>)|
+|GOM2 | 43°58′ |    67°22′    |
+|GOM3 | 43°41′ |    68°00′    |
+|GOM4 | 43°12′ |    69°00′    |
+|GOM5 |42°49.5′|    69°40′    |
+|GOM6 | 42°20′ |    69°40′    |
+|GOM7 | 42°20′ |(<sup>2</sup>)|
+
+<sup>1</sup> The intersection of 43°58′ N lat. and the U.S.-Canada Maritime boundary.
+
+<sup>2</sup> The intersection of 42°20′ N lat. and the coastline of Massachusetts.
+
+(ii) *Georges Bank/Southern New England Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels issued a LAGC scallop permit, including limited access scallop permits that have used up their DAS allocations, may fish in the Georges Bank/Southern New England Scallop Dredge Exemption Area, as defined under paragraph (h)(3)(ii)(A) of this section, when not under a NE multispecies or scallop DAS or on a sector trip, provided the vessel complies with the requirements specified in paragraph (h)(3)(iii) of this section and applicable scallop regulations in subpart D of this part.
+
+(A) *Area definition.* The Georges Bank/Southern New England dredge exemption area is bounded on the north by 42°20′ N lat.; bounded on the east by the U.S.-Canada Maritime boundary and the outer limit of the US EEZ; bounded on the west by 72°30′ W long. from the outer limit of the US EEZ to the south-facing coastline of Long Island; and bounded on the northwest by the following points, connected as noted in the order listed:
+
+GB/SNE Scallop Dredge Exemption Area
+
+|Point|                 N lat.                  |                         W long.                         |                                                                     Note                                                                     |
+|-----|-----------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  |The south-facing coastline of Long Island|                        72°30′ W                         |                                       From Point 1 to Point 2 following the coastline of Long Island.                                        |
+|  2  |                41°00′ N                 |        The southeast-facing coast of Long Island        |                                              From Point 2 to Point 3 following a straight line.                                              |
+|  3  |                41°00′ N                 |The 3 nautical mile line, approximately 71°51.841′ W long|                              From Point 3 to Point 4 following the Submerged Lands Act (3 nautical mile) line.                               |
+|  4  |               41°4.25′ N                |The 3 nautical mile line, approximately 71°47.384′ W long|                                              From Point 4 to Point 5 following a straight line.                                              |
+|  5  |                41°15′ N                 |                       72°2.25′ W                        |Point 5 represents Race Point, Fishers Island, NY. From Point 5 to Point 6 following a straight line northeasterly through Fishers Island, NY.|
+|  6  |               41°18.2′ N                |                       71°51.5′ W                        |            Point 6 represents Watch Hill, RI. From Point 6 to Point 7 following the coastlines of Rhode Island and Massachusetts.            |
+|  7  |                42°20′ N                 |             The coastline of Massachusetts              |                                                                                                                                              |
+
+(B) [Reserved]
+
+(iii) *Requirements.* (A) A vessel fishing in the Scallop Dredge Fishery Exemption Areas specified in paragraphs (h)(3)(i) and (ii) of this section may not fish for, possess on board, or land any species of fish other than Atlantic sea scallops and up to 50 lb (23 kg) tail weight or 166 lb (75 kg) whole weight of monkfish per trip.
+
+(B) The combined dredge width in use by, or in possession on board, vessels fishing in the Scallop Dredge Fishery Exemption Areas may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
+
+(C) The exemption does not apply to the Cashes Ledge Closure Area or the Western GOM Area Closure specified in § 648.81(a)(3) and (4), respectively.
 
 (i) *State waters winter flounder exemption.* Any vessel issued a NE multispecies permit may fish for, possess, or land winter flounder while fishing with nets of mesh smaller than the minimum size specified in paragraphs (a)(2), (b)(2), and (c)(2) of this section, provided that:
 

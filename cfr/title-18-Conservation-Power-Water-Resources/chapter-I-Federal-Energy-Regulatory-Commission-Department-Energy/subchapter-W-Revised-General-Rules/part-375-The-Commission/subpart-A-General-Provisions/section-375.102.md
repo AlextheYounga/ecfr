@@ -1,5 +1,7 @@
 ##### § 375.102 Custody and authentication of Commission records. #####
 
+Link to an amendment published at 85 FR 9663, Feb. 20, 2020.
+
 (a) *Custody of official records.* (1) The Secretary shall have custody of the Commission's seal, the minutes of all action taken by the Commission, the transcripts, electronic recordings, or minutes of meetings closed to public observation, its rules and regulations, and its administrative orders.
 
 (2) The Executive Director shall have custody of records of the Commission except records designated in paragraph (a)(1) of this section.

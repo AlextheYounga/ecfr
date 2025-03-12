@@ -14,4 +14,6 @@
 
 (5) A statement that the agreement is available for inspection at the Commission's offices; and
 
-(6) The final date for filing comments regarding the agreement.
+(6) A request for comments, including relevant information and documents, regarding the agreement and the date by which comments should be submitted in order to be most useful to the Commission's review of the agreement.
+
+[69 FR 64414, Nov. 4, 2004, as amended at 85 FR 9684, Feb. 20, 2020]

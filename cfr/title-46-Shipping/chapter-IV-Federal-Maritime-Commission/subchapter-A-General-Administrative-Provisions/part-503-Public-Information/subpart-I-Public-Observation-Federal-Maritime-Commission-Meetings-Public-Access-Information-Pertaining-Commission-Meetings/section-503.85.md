@@ -1,6 +1,6 @@
 ##### § 503.85 Agency recordkeeping requirements. #####
 
-(a) In the case of any portion or portions of a meeting or portion or portions of a series of meetings determined by the agency to be closed to public observation under the provisions of this subpart, the following records shall be maintained by the Secretary of the agency:
+(a) In the case of any portion or portions of a meeting or portion or portions of a series of meetings determined by the agency to be closed to public observation under the provisions of §§ 502.73 through 503.75, the following records shall be maintained by the Secretary of the agency:
 
 (1) The certification of the General Counsel of the agency required by § 503.77;
 
@@ -22,4 +22,4 @@
 
 (c) All records maintained by the agency as described in this section shall be held by the agency for a period of not less than two (2) years following any meeting or not less than one (1) year following the conclusion of any agency proceeding with respect to which that meeting or portion of a meeting was held.
 
-[49 FR 44401, Nov. 6, 1984; 49 FR 47395, Dec. 4, 1984]
+[49 FR 44401, Nov. 6, 1984; 49 FR 47395, Dec. 4, 1984, as amended at 85 FR 9682, Feb. 20, 2020]

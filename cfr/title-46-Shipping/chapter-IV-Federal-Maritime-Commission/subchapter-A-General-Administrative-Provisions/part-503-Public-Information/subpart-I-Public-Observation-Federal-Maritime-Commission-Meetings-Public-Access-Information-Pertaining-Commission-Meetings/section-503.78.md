@@ -1,5 +1,7 @@
-##### § 503.78 General rule - information pertaining to meeting. #####
+##### § 503.78 General rule—information pertaining to meeting. #####
 
-(a) As defined in § 503.71, all information pertaining to a portion or portions of a meeting or portion or portions of a series of meetings of the agency shall be disclosed to the public unless excepted from such disclosure under §§ 503.79, 503.80 and 503.81.
+(a) As defined in § 503.71, all information pertaining to a portion or portions of a meeting or portion or portions of a series of meetings of the agency shall be disclosed to the public unless excepted from such disclosure under §§ 503.79 through 503.81 or § 503.84.
 
 (b) All inquiries as to the status of pending matters which were considered by the Commission in closed session should be directed to the Secretary of the Commission. Commission personnel who attend closed meetings of the Commission are prohibited from disclosing anything that occurs during those meetings. An employee's failure to respect the confidentiality of closed meetings constitutes a violation of Commission's General Standards of Conduct. The Commission can, of course, determine to make public the events or decisions occurring in a closed meeting, such information to be disseminated by the Office of the Secretary. An inquiry to the Office of the Secretary as to whether any information has been made public is not, therefore, improper. However, a request of or attempt to persuade a Commission employee to divulge the contents of a closed meeting constitutes a lack of proper professional conduct inappropriate to a person practicing before this agency, and requires that the employee file a report of such event so that a determination can be made whether disciplinary action should be initiated pursuant to § 502.30 of this chapter.
+
+[49 FR 44401, Nov. 6, 1984, as amended at 85 FR 9682, Feb. 20, 2020]

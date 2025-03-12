@@ -1,5 +1,7 @@
 ##### § 383.2 Definitions. #####
 
+Link to an amendment published at 85 FR 9664, Feb. 20, 2020.
+
 For purposes of this part, the following definitions shall apply:
 
 (a) *Bundled Contracts* means contracts between the Licensee and a Provider in which the Service is not the only content licensed by the Licensee to the Provider.

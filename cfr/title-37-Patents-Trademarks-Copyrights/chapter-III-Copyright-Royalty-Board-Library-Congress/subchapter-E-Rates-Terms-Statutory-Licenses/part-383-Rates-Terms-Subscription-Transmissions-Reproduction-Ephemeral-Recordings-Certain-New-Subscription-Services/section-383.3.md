@@ -1,5 +1,7 @@
 ##### § 383.3 Royalty fees for public performances of sound recordings and the making of ephemeral recordings. #####
 
+Link to an amendment published at 85 FR 9664, Feb. 20, 2020.
+
 (a) *Royalty rates.* Royalty rates for the public performance of sound recordings by eligible digital transmissions made over a Service pursuant to 17 U.S.C. 114, and for ephemeral recordings of sound recordings made pursuant to 17 U.S.C. 112(e) to facilitate such transmissions during the statutory licenses Period, are as follows. Each Licensee will pay, with respect to content covered by the statutory licenses that is provided via the Service of each such Licensee:
 
 (1) For Stand-Alone Contracts, the following monthly payment per Subscriber to the Service of such Licensee:

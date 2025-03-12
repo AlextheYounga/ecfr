@@ -1,5 +1,7 @@
 ##### § 383.1 General. #####
 
+Link to an amendment published at 85 FR 9664, Feb. 20, 2020.
+
 (a) *Scope.* This part 383 establishes rates and terms of royalty payments for the public performance of sound recordings in certain digital transmissions by Licensees in accordance with the provisions of 17 U.S.C. 114, and the making of certain ephemeral recordings by Licensees in accordance with the provisions of 17 U.S.C. 112(e), during the period commencing January 1, 2016, and continuing through December 31, 2020.
 
 (b) *Legal compliance.* Licensees relying upon the statutory licenses set forth in 17 U.S.C. 112(e) and 114 shall comply with the requirements of those sections and the rates and terms of this part.

@@ -12,7 +12,7 @@
 
 (f) Registered NVOCCs must report in writing to BCL any changes, within 30 days of such changes, to: legal name(s) or trade name(s); principal place of business address (including telephone number, facsimile number); contact person and email address (including physical address if different from principal place of business); name of resident agent(s) (including physical address, mailing address, email address, telephone and facsimile number(s), and contact person) in the United States for receipt of service of judicial and administrative process (including subpoenas).
 
-(g) *Termination or suspension of registration* - (1) *Grounds.* A registration shall become automatically ineffective for a failure of a registered NVOCC to maintain proof of financial responsibility on file with the Commission. The effectiveness of such a registration may otherwise be terminated or suspended, after notice and the opportunity for a hearing, for any of the following reasons:
+(g) *Termination or suspension of registration*—(1) *Grounds.* A registration shall become automatically ineffective for a failure of a registered NVOCC to maintain proof of financial responsibility on file with the Commission. The effectiveness of such a registration may otherwise be terminated or suspended, after notice and the opportunity for a hearing, for any of the following reasons:
 
 (i) Violation of any provision of the Act, or any other statute or Commission order or regulation related to carrying on the business of an ocean transportation intermediary;
 
@@ -26,7 +26,11 @@
 
 (vi) Failure to maintain a Form FMC-1 or a tariff in compliance with 46 CFR part 520;
 
-(vii) Knowingly and willfully processing, booking, or accepting cargo from, or transporting cargo for the account of, an NVOCC that is not licensed or registered, or has not provided proof of financial responsibility or published an effective tariff; and
+(vii) Knowingly and willfully accepting cargo from or transporting cargo for the account of:
+
+(A) an NVOCC that does not have a published tariff as required by 46 U.S.C. 40501 and part 520 of this chapter, and a bond, insurance, or other surety as required by 46 U.S.C. 40902 and this part; or
+
+(B) an OFF that does not have a bond, insurance, or other surety as required by 46 U.S.C. 40902 and this part; and
 
 (viii) Failure to designate and maintain a person in the United States as legal agent for the receipt of judicial and administrative process, including subpoenas, as required by § 515.24.
 
@@ -34,4 +38,4 @@
 
 (3) *Publication of Notice.* The Commission shall publish on the Commission's Web site, *www.fmc.gov,* a notice of each termination or suspension.
 
-[78 FR 42887, July 18, 2013, as amended at 80 FR 68734, Nov. 5, 2015; 84 FR 62468, Nov. 15, 2019]
+[78 FR 42887, July 18, 2013, as amended at 80 FR 68734, Nov. 5, 2015; 84 FR 62468, Nov. 15, 2019; 85 FR 9683, Feb. 20, 2020]

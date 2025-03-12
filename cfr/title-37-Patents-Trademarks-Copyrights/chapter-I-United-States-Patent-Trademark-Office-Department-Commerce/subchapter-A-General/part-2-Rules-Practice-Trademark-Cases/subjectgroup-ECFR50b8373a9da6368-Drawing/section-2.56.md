@@ -1,4 +1,4 @@
-##### 2.56 Specimens. #####
+##### § 2.56 Specimens. #####
 
 (a) An application under section 1(a) of the Act, an amendment to allege use under § 2.76, a statement of use under § 2.88, an affidavit or declaration of continued use or excusable nonuse under § 2.160, or an affidavit or declaration of use or excusable nonuse under § 7.36 must include one specimen per class showing the mark as actually used in commerce on or in connection with the goods or services identified. When requested by the Office as reasonably necessary to proper examination, additional specimens must be provided.
 

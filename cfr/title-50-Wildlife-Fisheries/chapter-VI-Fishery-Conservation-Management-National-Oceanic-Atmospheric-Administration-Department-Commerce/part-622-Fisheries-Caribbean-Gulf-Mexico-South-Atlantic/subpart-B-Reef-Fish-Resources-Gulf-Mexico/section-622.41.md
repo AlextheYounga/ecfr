@@ -86,7 +86,7 @@
 
 (A) [Reserved]
 
-(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. For the 2019 fishing year, the component ACT is 2.848 million lb (1.292 million kg), round weight. For the 2020 and subsequent fishing years, the component ACT is 2.504 million lb (1.136 million lb), round weight.
+(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. The component ACT is 2.848 million lb (1.292 million kg), round weight.
 
 (C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The component ACT is 3.415 million lb (1.549 million kg), round weight.
 

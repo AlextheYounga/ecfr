@@ -1,8 +1,8 @@
 ##### § 303.241 Reduce or retire capital stock or capital debt instruments. #####
 
-Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
+(a) *Scope*—(1) *Insured State nonmember banks.* The procedures contained in this section are to be followed by an insured State nonmember bank to seek the prior approval of the FDIC to reduce the amount or retire any part of its common or preferred stock, or to retire any part of its capital notes or debentures pursuant to section 18(i)(1) of the FDI Act (12 U.S.C. 1828(i)(1)).
 
-(a) *Scope.* This section contains the procedures to be followed by an insured state nonmember bank to seek the prior approval of the FDIC to reduce the amount or retire any part of its common or preferred stock, or to retire any part of its capital notes or debentures pursuant to section 18(i)(1) of the Act (12 U.S.C. 1828(i)(1)).
+(2) *Insured State savings associations.* The procedures contained in this section are to be followed by an insured State savings association to seek the prior approval of the FDIC to reduce the amount or retire any part of its common or preferred stock, or to retire any part of its capital notes or debentures, as if the insured State savings association were a State nonmember bank subject to section 18(i)(1) of the Act (12 U.S.C. 1828(i)(1)).
 
 (b) *Where to file.* Applicants shall submit a letter application to the appropriate FDIC office.
 
@@ -24,10 +24,10 @@ Link to an amendment published at 85 FR 3245, Jan. 21, 2020.
 
 (d) *Additional information.* The FDIC may request additional information at any time during processing of the application.
 
-(e) *Undercapitalized institutions.* Procedures regarding applications by an undercapitalized insured depository institution to retire capital stock or capital debt instruments pursuant to section 38 of the FDI Act (12 U.S.C. 1831*o*) are set forth in subpart K (Prompt Corrective Action), § 303.203. Applications pursuant to sections 38 and 18(i) may be filed concurrently, or as a single application.
+(e) *Undercapitalized institutions.* Procedures regarding applications by an undercapitalized insured depository institution to retire capital stock or capital debt instruments pursuant to section 38 of the FDI Act (12 U.S.C. 1831*o*) are set forth in subpart K (Prompt Corrective Action), § 303.203. Applications pursuant to section 38 and this section should be filed concurrently, or as a single application.
 
 (f) *Expedited processing for eligible depository institutions.* An application filed under this section by an eligible depository institution as defined in§ 303.2(r) will be acknowledged in writing by the FDIC and will receive expedited processing, unless the applicant is notified in writing to the contrary and provided with the basis for that decision. The FDIC may remove an application from expedited processing for any of the reasons set forth in § 303.11(c)(2). Absent such removal, an application processed under expedited processing will be deemed approved 20 days after the FDIC's receipt of a substantially complete application.
 
 (g) *Standard processing.* For those applications that are not processed pursuant to expedited procedures, the FDIC will provide the applicant with written notification of the final action as soon as the decision is rendered.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 30, 2013; 83 FR 17739, Apr. 24, 2018]
+[67 FR 79247, Dec. 27, 2002, as amended at 78 FR 55470, Sept. 30, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 3245, Jan. 21, 2020]

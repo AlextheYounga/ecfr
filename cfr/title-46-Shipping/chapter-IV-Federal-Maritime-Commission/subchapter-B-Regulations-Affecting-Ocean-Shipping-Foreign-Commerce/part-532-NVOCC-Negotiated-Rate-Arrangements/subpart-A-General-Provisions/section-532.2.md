@@ -10,10 +10,10 @@ This part exempts NVOCCs duly licensed pursuant to 46 CFR 515.3 or registered pu
 
 (d) 46 U.S.C. 40503;
 
-(e) the prohibition in 46 U.S.C. 41104(2)(A);
+(e) The prohibition in 46 U.S.C. 41104(a)(2)(A);
 
 (f) the Commission's corresponding regulation at 46 CFR 520.3(a) that the NVOCC include its rates in a tariff open for public inspection in an automated tariff system; and
 
 (g) the Commission's corresponding regulations at 46 CFR 520.4(a)(4), 520.4(f), 520.6(e), 520.7(c), (d), 520.8(a), 520.12, and 520.14. Any NVOCC failing to maintain its bond or license or registration as set forth above, or who has had its tariff suspended by the Commission, shall not be eligible to invoke this exemption.
 
-[76 FR 11360, Mar. 2, 2011, as amended at 78 FR 42888, July 18, 2013]
+[76 FR 11360, Mar. 2, 2011, as amended at 78 FR 42888, July 18, 2013; 85 FR 9684, Feb. 20, 2020]

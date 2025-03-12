@@ -1,6 +1,6 @@
 ##### § 648.51 Gear and crew restrictions. #####
 
-Link to an amendment published at 85 FR 2324, Jan. 15, 2020.Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
+Link to an amendment published at 85 FR 7442, Feb. 7, 2020.
 
 (a) *Trawl vessel gear restrictions.* Trawl vessels issued a limited access scallop permit under § 648.4(a)(2) while fishing under or subject to the DAS allocation program for scallops and authorized to fish with or possess on board trawl nets pursuant to § 648.51(f), any trawl vessels in possession of more than 40 lb (18.14 kg) of shucked, or 5 bu (176.2 L) of in-shell scallops in or from the EEZ, and any trawl vessels fishing for scallops in the EEZ, must comply with the following:
 
@@ -18,7 +18,7 @@ Link to an amendment published at 85 FR 2324, Jan. 15, 2020.Link to an amendment
 
 (b) *Dredge vessel gear restrictions.* All vessels issued limited access and General Category scallop permits and fishing with scallop dredges, with the exception of hydraulic clam dredges and mahogany quahog dredges in possession of 600 lb (181.44 kg), or less, of scallops, must comply with the following restrictions, unless otherwise specified:
 
-(1) *Maximum dredge width.* The combined dredge width in use by or in possession on board such vessels shall not exceed 31 ft (9.4 m), measured at the widest point in the bail of the dredge, except as provided under paragraph (e) of this section, in § 648.59(g)(2), and the scallop dredge exemption areas specified in § 648.80. However, component parts may be on board the vessel such that they do not conform with the definition of “dredge or dredge gear” in § 648.2, *i.e.,* the metal ring bag and the mouth frame, or bail, of the dredge are not attached, and such that no more than one complete spare dredge could be made from these component's parts.
+(1) *Maximum dredge width.* The combined dredge width in use by or in possession on board such vessels shall not exceed 31 ft (9.4 m), measured at the widest point in the bail of the dredge, except as provided under paragraph (e) of this section, in § 648.59(g)(2), and the scallop dredge exemption areas specified in § 648.80(h). However, component parts may be on board the vessel such that they do not conform with the definition of “dredge or dredge gear” in § 648.2, *i.e.,* the metal ring bag and the mouth frame, or bail, of the dredge are not attached, and such that no more than one complete spare dredge could be made from these component's parts.
 
 (2) *Minimum mesh size.* The mesh size of a net, net material, or any other material on the top of a scallop dredge (twine top) possessed or used by vessels fishing with scallop dredge gear shall not be smaller than 10-inch (25.4-cm) square or diamond mesh.
 

@@ -6,6 +6,6 @@
 
 (c) *Joining shippers' association during term of contract.* If an NVOCC joins a shippers' association during the term of a service contract and is thereby entitled to receive service under the contract, the NVOCC shall provide to the ocean common carrier, agreement or conference the proof of compliance required by paragraph (b) of this section prior to making any shipments under the contract.
 
-(d) *Reliance on NVOCC proof; independent knowledge.* An ocean common carrier, agreement or conference executing a service contract shall be deemed to have complied with section 10(b)(12) of the Act (46 U.S.C. 41104(12)) upon meeting the requirements of paragraphs (a) and (b) of this section, unless the carrier party had reason to know such certification or documentation of NVOCC tariff and bonding was false.
+(d) *Reliance on NVOCC proof; independent knowledge.* An ocean common carrier, agreement or conference executing a service contract shall be deemed to have complied with 46 U.S.C. 41104(a)(12) upon meeting the requirements of paragraphs (a) and (b) of this section, unless the carrier party had reason to know such certification or documentation of NVOCC tariff and bonding was false.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 74 FR 50723, Oct. 1, 2009]
+[64 FR 11206, Mar. 8, 1999, as amended at 74 FR 50723, Oct. 1, 2009; 85 FR 9683, Feb. 20, 2020]
