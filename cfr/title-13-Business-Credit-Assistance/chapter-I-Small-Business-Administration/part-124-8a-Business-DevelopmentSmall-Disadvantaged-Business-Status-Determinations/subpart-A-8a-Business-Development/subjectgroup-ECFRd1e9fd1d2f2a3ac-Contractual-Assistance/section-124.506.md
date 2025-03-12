@@ -1,14 +1,12 @@
 ##### § 124.506 At what dollar threshold must an 8(a) procurement be competed among eligible Participants? #####
 
-Link to an amendment published at 86 FR 61672, Nov. 8, 2021.
-
 (a) *Competitive thresholds.* (1) The Federal Acquisition Regulatory Council (FAR Council) has the responsibility of adjusting each acquisition-related dollar threshold on October 1, of each year that is evenly divisible by five. Acquisition-related dollar thresholds are defined as dollar thresholds that are specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency as determined by the FAR Council. 41 U.S.C. 431a(c). Part 124, Subpart A, 8(a) Business Development, contains acquisition-related dollar thresholds subject to inflationary adjustments. The FAR Council shall publish a notice of the adjusted dollar thresholds in the Federal Register. The adjusted dollar thresholds shall take effect on the date of publication.
 
 (2) A procurement offered and accepted for the 8(a) BD program must be competed among eligible Participants if:
 
 (i) There is a reasonable expectation that at least two eligible Participants will submit offers at a fair market price;
 
-(ii) The anticipated award price of the contract, including options, will exceed $7,000,000 for contracts assigned manufacturing NAICS codes and $4,000,000 for all other contracts; and
+(ii) The anticipated award price of the contract, including options, will exceed $7,000,000 for contracts assigned manufacturing NAICS codes and $4,500,000 for all other contracts; and
 
 (iii) The requirement has not been accepted by SBA for award as a sole source 8(a) procurement on behalf of a tribally-owned or ANC-owned concern.
 
@@ -28,7 +26,7 @@ Example to paragraph (a)(3).If the anticipated award price for a professional se
 
 (4) A joint venture between one or more eligible Tribally-owned, ANC-owned or NHO-owned Participants and one or more non-8(a) business concerns may be awarded sole source 8(a) contracts above the competitive threshold amount, provided that it meets the requirements of § 124.513.
 
-(5) An agency may not award an 8(a) sole source contract for an amount exceeding $22,000,000 unless the contracting officer justifies the use of a sole source contract in writing and has obtained the necessary approval under the Federal Acquisition Regulation.
+(5) An agency may not award an 8(a) sole source contract for an amount exceeding $25,000,000, or $100,000,000 for an agency of the Department of Defense, unless the contracting officer justifies the use of a sole source contract in writing and has obtained the necessary approval under the Federal Acquisition Regulation.
 
 (c) *Competition below thresholds.* The AA/BD, on a nondelegable basis, may approve a request from a procuring activity to compete a requirement that is below the applicable competitive threshold amount among eligible Participants.
 
@@ -40,4 +38,4 @@ Example to paragraph (a)(3).If the anticipated award price for a professional se
 
 (d) *Sole source above thresholds.* Where a contract opportunity exceeds the applicable threshold amount and there is not a reasonable expectation that at least two eligible 8(a) Participants will submit offers at a fair price, the AA/BD may accept the requirement for a sole source 8(a) award if he or she determines that an eligible Participant in the 8(a) portfolio is capable of performing the requirement at a fair price.
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 74 FR 46887, Sept. 14, 2009; 76 FR 8260, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 48582, July 25, 2016]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 74 FR 46887, Sept. 14, 2009; 76 FR 8260, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 48582, July 25, 2016; 86 FR 61672, Nov. 8, 2021]

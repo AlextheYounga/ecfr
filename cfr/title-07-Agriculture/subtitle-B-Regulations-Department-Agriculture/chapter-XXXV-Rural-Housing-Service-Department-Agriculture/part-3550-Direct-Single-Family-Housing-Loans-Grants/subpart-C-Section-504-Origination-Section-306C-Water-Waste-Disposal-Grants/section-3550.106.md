@@ -1,5 +1,7 @@
 ##### § 3550.106 Dwelling requirements. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 (a) *Modest dwelling.* The property must be one that is considered modest for the area, must not be designed for income producing purposes, have an in-ground pool, or have a market value in excess of the applicable maximum loan limit, in accordance with § 3550.63.
 
 (b) *Post-repair condition.* Dwellings repaired with section 504 funds need not be brought to the agency development standards of 7 CFR part 1924, subpart A, nor must all existing hazards be removed. However, the dwelling may not continue to have major health or safety hazards.

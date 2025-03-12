@@ -1,5 +1,7 @@
 ##### § 3550.67 Repayment period. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 Loans will be scheduled for repayment over a period that does not exceed the expected useful life of the property as a dwelling. The loan repayment period will not exceed:
 
 (a) Thirty-three years in all cases except as noted in paragraphs (b), (c), and (d) of this section.

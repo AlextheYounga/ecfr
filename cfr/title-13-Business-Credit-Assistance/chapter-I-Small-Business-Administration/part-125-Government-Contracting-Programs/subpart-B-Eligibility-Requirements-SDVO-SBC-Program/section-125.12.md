@@ -1,7 +1,5 @@
 ##### § 125.12 Who does SBA consider to own an SDVO SBC? #####
 
-Link to an amendment published at 86 FR 61672, Nov. 8, 2021.
-
 Generally, a concern must be at least 51% unconditionally and directly owned by one or more service-disabled veterans. More specifically:
 
 (a) *Ownership must be direct.* Ownership by one or more service disabled veterans must be direct ownership. A concern owned principally by another business entity that is in turn owned and controlled by one or more service-disabled veterans does not meet this requirement. Ownership by a trust, such as a living trust, may be treated as the functional equivalent of ownership by service-disabled veterans where the trust is revocable, and service-disabled veterans are the grantors, trustees, and the current beneficiaries of the trust.
@@ -32,7 +30,7 @@ Generally, a concern must be at least 51% unconditionally and directly owned by 
 
 (i) The surviving spouse of the deceased veteran acquires such veteran's ownership interest in such concern;
 
-(ii) Such veteran had a service-connected disability (as defined in 38 U.S.C. 101(16)) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and
+(ii) Such veteran had a service-connected disability (as defined in section 101(16) of title 38, United States Code); and
 
 (iii) For a participant, immediately prior to the death of such veteran, and during the period described in paragraph (i)(2) of this section, the small business concern is included in the database described in 38 U.S.C. 8127(f).
 
@@ -42,6 +40,8 @@ Generally, a concern must be at least 51% unconditionally and directly owned by 
 
 (ii) The date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
 
-(iii) The date that is 10 years after the date of the death of the veteran.
+(iii) In the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the death of the veteran; or
 
-[69 FR 25267, May 5, 2004. Redesignated at 81 FR 48585, July 25, 2016. Amended at 83 FR 48913, Sept. 28, 2018]
+(iv) In the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the death of the veteran.
+
+[69 FR 25267, May 5, 2004. Redesignated at 81 FR 48585, July 25, 2016. Amended at 83 FR 48913, Sept. 28, 2018; 86 FR 61672, Nov. 8, 2021]

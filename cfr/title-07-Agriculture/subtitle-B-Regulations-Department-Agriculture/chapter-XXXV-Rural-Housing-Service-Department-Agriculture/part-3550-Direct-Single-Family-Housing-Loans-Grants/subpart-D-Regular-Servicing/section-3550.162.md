@@ -1,5 +1,7 @@
 ##### § 3550.162 Recapture. #####
 
+Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
+
 (a) *Recapture policy.* Borrowers with loans approved or assumed on or after October 1, 1979, will be required to repay subsidy amounts received through payment subsidy (including the former interest credit program) or deferred mortgage assistance in accordance with paragraph (b) of this section. Amounts to be recaptured are due and payable when the borrower transfers title or ceases to occupy the property, including but not limited to, in the event of foreclosure or deed in lieu of foreclosure. Such recapture will include the amount of principal reduction attributed to subsidy (for loans subject to recapture that were approved, and received interest credit, between October 1, 1979, and December 31, 1989), except in cases of foreclosure and deed in lieu of foreclosure.
 
 (b) *Amount to be recaptured* - (1) *General.* The amount to be recaptured is the amount of principal reduction attributed to subsidy plus the lesser of:

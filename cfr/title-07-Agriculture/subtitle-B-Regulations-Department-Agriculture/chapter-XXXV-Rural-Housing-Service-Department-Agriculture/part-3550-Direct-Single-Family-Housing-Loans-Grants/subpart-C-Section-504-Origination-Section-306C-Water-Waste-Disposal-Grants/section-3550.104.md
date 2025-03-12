@@ -1,5 +1,7 @@
 ##### § 3550.104 Applications. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 (a) *Application submissions.* All persons applying for section 504 loans or grants must file a complete written application in a format specified by RHS. Applications will be accepted even when funds are not available.
 
 (b) *Application processing.* (1) Incomplete applications will be returned to the applicant specifying in writing the additional information that is needed to make the application complete.

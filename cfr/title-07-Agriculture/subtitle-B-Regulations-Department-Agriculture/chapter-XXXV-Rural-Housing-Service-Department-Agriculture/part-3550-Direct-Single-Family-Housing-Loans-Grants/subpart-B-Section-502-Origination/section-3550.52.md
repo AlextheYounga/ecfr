@@ -1,5 +1,7 @@
 ##### § 3550.52 Loan purposes. #####
 
+Link to an amendment published at 87 FR 6771, Feb. 7, 2022.
+
 Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate an eligible dwelling and provide related facilities for use by the borrower as a permanent residence. In limited circumstances section 502 funds may be used to refinance existing debt.
 
 (a) *Purchases from existing RHS borrowers.* To purchase a property currently financed by an RHS loan, the new borrower must assume the existing RHS indebtedness. Section 502 funds may be used to provide additional financing or make repairs. Loan funds also may be used to permit a remaining borrower to purchase the equity of a departing co-borrower.

@@ -1,5 +1,7 @@
 ##### § 3550.59 Security requirements. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 Before approving any loan, RHS will impose requirements to secure its interests.
 
 (a) *Adequate security.* A loan will be considered adequately secured only when all of the following requirements are met:

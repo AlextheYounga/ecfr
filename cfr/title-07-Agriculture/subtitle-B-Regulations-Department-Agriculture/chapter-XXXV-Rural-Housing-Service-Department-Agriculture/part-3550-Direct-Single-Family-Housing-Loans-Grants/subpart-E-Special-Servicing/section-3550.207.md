@@ -1,5 +1,7 @@
 ##### § 3550.207 Payment moratorium. #####
 
+Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
+
 RHS may defer a borrowers scheduled payments for up to 2 years. NP borrowers are not eligible for a payment moratorium.
 
 (a) *Borrower eligibility.* For a borrower to be eligible for a moratorium, all of the following conditions must be met:

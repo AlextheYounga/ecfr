@@ -1,5 +1,7 @@
 ##### § 3550.57 Dwelling requirements. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 (a) *Modest dwelling.* The property must be one that is considered modest for the area, must not be designed for income producing purposes, must not have an in-ground swimming pool or have a market value in excess of the applicable maximum loan limit, in accordance with § 3550.63, unless RHS authorizes an exception under this paragraph. An exception may be granted on a case-by-case basis to accommodate the specific needs of an applicant, such as to serve exceptionally large households or to provide reasonable accommodation for a household member with a disability. Any additional loan amount approved must not exceed the amount required to address the specific need.
 
 (1) *Area-wide exception.* Area-wide exceptions may be granted when RHS determines that the section 203(b) limit is too low to enable applicants to purchase adequate housing.

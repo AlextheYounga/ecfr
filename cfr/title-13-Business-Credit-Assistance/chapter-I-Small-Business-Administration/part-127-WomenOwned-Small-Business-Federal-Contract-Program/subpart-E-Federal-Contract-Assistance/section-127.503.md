@@ -1,7 +1,5 @@
 ##### § 127.503 When is a contracting officer authorized to restrict competition or award a sole source contract or order under this part? #####
 
-Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
-
 (a) *Competition restricted to EDWOSBs.* For requirements in industries designated by SBA as underrepresented pursuant to § 127.501, a contracting officer may restrict competition to EDWOSBs if the contracting officer has a reasonable expectation based on market research that:
 
 (1) Two or more EDWOSBs will submit offers for the contract; and
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
 
 (1) The EDWOSB is a responsible contractor with respect to performance of the requirement and the contracting officer does not have a reasonable expectation that 2 or more EDWOSBs will submit offers;
 
-(2) The anticipated award price of the contract (including options) will not exceed $6,500,000 in the case of a contract assigned a North American Industry Classification System (NAICS) code for manufacturing, or $4,000,000 in the case of any other contract opportunity; and
+(2) The anticipated award price of the contract (including options) will not exceed $7,000,000 in the case of a contract assigned a North American Industry Classification System (NAICS) code for manufacturing, or $4,500,000 in the case of any other contract opportunity; and
 
 (3) In the estimation of the contracting officer, the award can be made at a fair and reasonable price.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
 
 (1) The WOSB is a responsible contractor with respect to performance of the requirement and the contracting officer does not have a reasonable expectation that 2 or more WOSBs will submit offers;
 
-(2) The anticipated award price of the contract (including options) will not exceed $6,500,000 in the case of a contract assigned a NAICS code for manufacturing, or $4,000,000 in the case of any other contract opportunity; and
+(2) The anticipated award price of the contract (including options) will not exceed $7,000,000 in the case of a contract assigned a NAICS code for manufacturing, or $4,500,000 in the case of any other contract opportunity; and
 
 (3) In the estimation of the contracting officer, the award can be made at a fair and reasonable price.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
 
 (g) *Contract file.* When restricting competition to WOSBs or EDWOSBs in accordance with § 127.503, the contracting officer must document the contract file accordingly, including the type and extent of market research and the fact that the NAICS code assigned to the contract is for an industry that SBA has designated as an underrepresented or, with respect to WOSBs, substantially underrepresented, industry. In addition, the contracting officer must document the contract file showing that the apparent successful offeror's documents and certifications in SAM (or any successor system) and associated representations were reviewed.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015; 83 FR 12852, Mar. 26, 2018; 84 FR 65665, Nov. 29, 2019; 85 FR 27664, May 11, 2020; 85 FR 66197, Oct. 16, 2020]
+[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015; 83 FR 12852, Mar. 26, 2018; 84 FR 65665, Nov. 29, 2019; 85 FR 27664, May 11, 2020; 85 FR 66197, Oct. 16, 2020; 86 FR 61673, Nov. 8, 2021]

@@ -1,7 +1,5 @@
 ##### § 126.200 What requirements must a concern meet to be eligible as a certified HUBZone small business concern? #####
 
-Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
-
 (a) *Ownership.* In order to be eligible for HUBZone certification and to remain certified, a small business concern must be owned in accordance with this paragraph. The concern must be:
 
 (1) At least 51% owned and controlled by one or more individuals who are United States citizens;
@@ -50,8 +48,8 @@ Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
 
 (2) If the concern is owned in whole or in part by one or more Indian Tribal Governments (or by a corporation that is wholly owned by one or more Indian Tribal Governments), the concern must certify that it will “attempt to maintain” (*see* § 126.103) the applicable employment percentage described in paragraph (c)(2) of this section during the performance of any HUBZone contract it receives.
 
-(f) *Subcontracting.* At the time of application, an applicant concern must certify that it will comply with the applicable limitations on subcontracting requirements in connection with any procurement that it receives as a certified HUBZone small business concern (*see* §§ 126.5 and 126.700).
+(f) *Subcontracting.* At the time of application, an applicant concern must certify that it will comply with the applicable limitations on subcontracting requirements in connection with any procurement that it receives as a certified HUBZone small business concern (*see* §§ 125.6 and 126.700).
 
 (g) *Suspension and Debarment.* In order to be eligible for HUBZone certification and to remain certified, the concern and any of its owners must not have an active exclusion in the System for Award Management, available at *www.SAM.gov,* at the time of application.
 
-[84 FR 65242, Nov. 26, 2019]
+[84 FR 65242, Nov. 26, 2019, as amended at 86 FR 61673, Nov. 8, 2021]

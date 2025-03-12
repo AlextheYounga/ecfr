@@ -1,5 +1,7 @@
 ##### § 3550.56 Site requirements. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 (a) *Rural areas.* Loans may be made only in rural areas designated by RHS. If an area designation is changed to non-rural:
 
 (1) New conditional commitments will be made and existing conditional commitments will be honored only in conjunction with an applicant for a section 502 loan who applied for assistance before the area designation changed.

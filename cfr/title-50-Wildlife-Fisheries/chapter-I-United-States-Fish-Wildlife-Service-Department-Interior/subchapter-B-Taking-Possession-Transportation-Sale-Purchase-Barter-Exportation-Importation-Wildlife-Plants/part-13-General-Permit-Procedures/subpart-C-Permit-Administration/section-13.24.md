@@ -1,7 +1,5 @@
 ##### § 13.24 Right of succession by certain persons. #####
 
-Link to an amendment published at 87 FR 880, Jan. 7, 2022.
-
 (a) Certain persons other than the permittee are authorized to carry on a permitted activity for the remainder of the term of a current permit, provided they comply with the provisions of paragraph (b) of this section. Such persons are the following:
 
 (1) The surviving spouse, child, executor, administrator, or other legal representative of a deceased permittee; or
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 880, Jan. 7, 2022.
 
 (b) In order to qualify for the authorization provided in this section, the person or persons desiring to continue the activity shall furnish the permit to the issuing officer for endorsement within 90 days from the date the successor begins to carry on the activity.
 
-(c) In the case of permits issued under § 17.22(b) through (d) or § 17.32(b) through (d) or permits issued under § 22.26 of this subchapter B, the successor's authorization under the permit is also subject to our determination that:
+(c) In the case of permits issued under § 17.22(b) through (d) or § 17.32(b) through (d) or permits issued under § 22.80 of this subchapter B, the successor's authorization under the permit is also subject to our determination that:
 
 (1) The successor meets all of the qualifications under this part for holding a permit;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 87 FR 880, Jan. 7, 2022.
 
 (3) The successor has provided such other information as we determine is relevant to the processing of the request.
 
-[64 FR 32711, June 17, 1999, as amended at 78 FR 73725, Dec. 9, 2013]
+[64 FR 32711, June 17, 1999, as amended at 78 FR 73725, Dec. 9, 2013; 87 FR 880, Jan. 5, 2022]

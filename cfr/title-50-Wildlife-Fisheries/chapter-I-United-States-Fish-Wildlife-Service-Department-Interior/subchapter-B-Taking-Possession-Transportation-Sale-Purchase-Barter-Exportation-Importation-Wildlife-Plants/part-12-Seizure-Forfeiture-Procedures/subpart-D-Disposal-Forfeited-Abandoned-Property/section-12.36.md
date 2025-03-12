@@ -1,7 +1,5 @@
 ##### § 12.36 Donation or loan. #####
 
-Link to an amendment published at 87 FR 879, Jan. 7, 2022.
-
 (a) Except as otherwise provided in this section, wildlife and plants may be donated or loaned for scientific, educational, or public display purposes to any person who demonstrates the ability to provide adequate care and security for the item.
 
 (b) Any donation or loan may be made only after execution of a transfer document between the Director and the donee/borrower, which is subject to the following conditions:
@@ -28,8 +26,10 @@ Link to an amendment published at 87 FR 879, Jan. 7, 2022.
 
 (11) Any loan remains the property of the United States, and the Director may demand its return at any time.
 
-(c) Wildlife and plants may be donated to individual American Indians for the practice of traditional American Indian religions. Any donation of the parts of bald or golden eagles to American Indians may only be made to individuals authorized by permit issued in accordance with § 22.22 of this title to possess such items.
+(c) Wildlife and plants may be donated to individual American Indians for the practice of traditional American Indian religions. Any donation of the parts of bald or golden eagles to American Indians may only be made to individuals authorized by permit issued in accordance with § 22.60 of this title to possess such items.
 
 (d) Edible wildlife, fit for human consumption, may be donated to a non-profit, tax-exempt charitable organization for use as food, but not for barter or sale.
 
 (e) Wildlife and plants may be loaned to government agencies (including foreign agencies) for official use. Each transfer and the terms of the transfer must be documented.
+
+[45 FR 17864, Mar. 19, 1980, as amended at 87 FR 879, Jan. 7, 2022]

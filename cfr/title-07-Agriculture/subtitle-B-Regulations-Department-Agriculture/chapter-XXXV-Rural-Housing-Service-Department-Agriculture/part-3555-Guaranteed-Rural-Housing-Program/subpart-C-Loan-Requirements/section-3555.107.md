@@ -1,5 +1,7 @@
 ##### § 3555.107 Application for and issuance of the loan guarantee. #####
 
+Link to an amendment published at 87 FR 6776, Feb. 7, 2022.
+
 (a) *Processing of applications.* Except as provided in this section, Rural Development will process loan guarantee applications in the order that completed applications are received. Application forms and instruction procedures are available at any Rural Development office.
 
 (1) If analysis of the utilization of funds during the fiscal year indicates that, at the rate of current utilization, funds may not be sufficient to sustain that level of activity for the remainder of the fiscal year, the Agency may determine a shortage of funds exists.

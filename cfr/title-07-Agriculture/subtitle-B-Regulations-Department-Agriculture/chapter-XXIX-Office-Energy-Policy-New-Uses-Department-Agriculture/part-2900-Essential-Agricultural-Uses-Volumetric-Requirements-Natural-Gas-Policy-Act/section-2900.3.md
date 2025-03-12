@@ -4,9 +4,9 @@ For purposes of Section 401(c) of the NGPA the following classes or portions of 
 
 **Essential Agricultural Uses**Industry SIC No. and Industry DescriptionFood and Natural Fiber Production
 
-01 Agricultural Production - Crops
+01 Agricultural Production—Crops
 
-02 Agricultural Production - Livestock Excluding 0272 - Horses and Other Equines, and Nonfood Portions of 0279 - Animal Specialties, Not Elsewhere Classified.
+02 Agricultural Production—Livestock Excluding 0272—Horses and Other Equines, and Nonfood Portions of 0279—Animal Specialties, Not Elsewhere Classified.
 
 0723 Crop Preparation Services for Market, Except Cotton Ginning (see fiber processing).
 
@@ -28,7 +28,7 @@ Fertilizer and Agricultural Chemicals(Process and Feedstock Use Only)
 
 287 Agricultural Chemicals.
 
-2899 Chemicals and Chemical Preparations, n.e.c. (Salt - Feed grade only).
+2899 Chemicals and Chemical Preparations, n.e.c. (Salt—Feed grade only).
 
 3274 Lime (Agricultural lime only).
 
@@ -56,7 +56,7 @@ Natural Fiber
 
 3111 Leather Tanning and Finishing.
 
-Food Quality Maintenance - Food Packaging
+Food Quality Maintenance—Food Packaging
 
 2641 Paper Coating and Glazing (food related only).
 
@@ -98,7 +98,7 @@ Marketing and Distribution
 
 514 Groceries and Related Products.
 
-5153 Farm Product Raw Materials - Grain.
+5153 Farm Product Raw Materials—Grain.
 
 54 Food Stores.
 

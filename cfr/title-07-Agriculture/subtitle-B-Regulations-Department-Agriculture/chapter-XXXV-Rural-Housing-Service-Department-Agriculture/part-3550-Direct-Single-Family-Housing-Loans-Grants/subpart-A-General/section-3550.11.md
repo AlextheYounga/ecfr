@@ -1,5 +1,7 @@
 ##### § 3550.11 State Director assessment of homeowner education. #####
 
+Link to an amendment published at 87 FR 6770, Feb. 7, 2022.
+
 (a) State Director's will make an assessment of the availability of certified homeowner education in their respective states and maintain an annually updated listing of providers and their reasonable costs.
 
 (b) The order of preference for homeowner education formats is as follows:

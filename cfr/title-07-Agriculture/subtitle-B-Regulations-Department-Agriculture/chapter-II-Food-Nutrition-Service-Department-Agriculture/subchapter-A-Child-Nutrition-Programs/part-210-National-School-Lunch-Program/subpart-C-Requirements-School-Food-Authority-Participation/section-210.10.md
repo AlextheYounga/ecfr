@@ -1,5 +1,7 @@
 ##### § 210.10 Meal requirements for lunches and requirements for afterschool snacks. #####
 
+Link to an amendment published at 87 FR 7005, Feb. 7, 2022.
+
 (a) *General requirements* - (1) *General nutrition requirements.* Schools must offer nutritious, well-balanced, and age-appropriate meals to all the children they serve to improve their diets and safeguard their health.
 
 (i) *Requirements for lunch.* School lunches offered to children age 5 or older must meet, at a minimum, the meal requirements in paragraph (b) of this section. Schools must follow a food-based menu planning approach and produce enough food to offer each child the quantities specified in the meal pattern established in paragraph (c) of this section for each age/grade group served in the school. In addition, school lunches must meet the dietary specifications in paragraph (f) of this section. Schools offering lunches to children ages 1 through 4 and infants must meet the meal pattern requirements in paragraphs (p) and (q), as applicable, of this section. Schools must make potable water available and accessible without restriction to children at no charge in the place(s) where lunches are served during the meal service.

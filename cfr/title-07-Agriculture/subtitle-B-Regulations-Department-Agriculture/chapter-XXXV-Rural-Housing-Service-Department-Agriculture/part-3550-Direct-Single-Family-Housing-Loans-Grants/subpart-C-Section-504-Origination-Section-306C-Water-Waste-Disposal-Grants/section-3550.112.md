@@ -1,5 +1,7 @@
 ##### § 3550.112 Maximum loan and grant. #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 (a) *Maximum loan permitted.* The sum of all outstanding section 504 loans to 1 borrower or on 1 dwelling may not exceed $20,000.
 
 (1) Transferees who have assumed a section 504 loan and wish to obtain a subsequent section 504 loan are limited to the difference between the unpaid principal balance of the debt assumed and $20,000.

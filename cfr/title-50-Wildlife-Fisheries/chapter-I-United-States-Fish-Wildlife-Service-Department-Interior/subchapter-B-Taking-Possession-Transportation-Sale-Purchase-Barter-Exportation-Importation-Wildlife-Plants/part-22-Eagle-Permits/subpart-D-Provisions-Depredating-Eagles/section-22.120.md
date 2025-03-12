@@ -1,0 +1,7 @@
+##### § 22.120 Golden eagle depredations control order on request of Governor of a State. #####
+
+(a) Whenever the Governor of any State requests permission to take golden eagles to seasonally protect domesticated flocks and herds in such State, the Director shall make an investigation and if he determines that such taking is necessary to and will seasonally protect domesticated flocks and herds in such States he shall authorize such taking in whatever part or parts of the State and for such periods as he determines necessary to protect such interests.
+
+(b) Requests from the Governor of a State to take golden eagles to seasonally protect domesticated flocks and herds must be submitted in writing to the Director listing the periods of time during which the taking of such birds is recommended, and including a map of the State indicating the boundaries of the proposed area of taking. Such requests should include a statement of the facts and the source of such facts that in the Governor's opinion justifies the request. After a decision by the Director, the Governor will be advised in writing concerning the request and a notice will be published in the Federal Register.
+
+[39 FR 1183, Jan. 4, 1974, as amended at 87 FR 885, Jan. 7, 2022. Redesignated 87 FR 885, Jan. 7, 2022]

@@ -1,5 +1,7 @@
 ##### § 3550.108 Security requirements (loans only). #####
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 When the total section 504 indebtedness is $7,500 or more, the property will be secured by a mortgage on the property, leasehold interest, or land purchase contract.
 
 (a) RHS does not require a first lien position, but the total of all debts on the secured property may not exceed the value of the security, except by the amount of any required contributions to an escrow account for taxes and insurance and any required appraisal fee.

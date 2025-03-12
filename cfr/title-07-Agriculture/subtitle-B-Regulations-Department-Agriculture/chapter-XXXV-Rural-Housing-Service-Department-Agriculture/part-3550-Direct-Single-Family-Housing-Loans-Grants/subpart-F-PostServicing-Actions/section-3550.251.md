@@ -1,5 +1,7 @@
 ##### § 3550.251 Property management and disposition. #####
 
+Link to an amendment published at 87 FR 6773, Feb. 7, 2022.
+
 (a) *Policy.* Rural Housing Service (RHS) will manage custodial property and Real Estate Owned (REO) property to protect the Government's interest, and may dispose of REO property through direct sales, sealed bid, or auction. RHS will follow affirmative fair housing marketing policies.
 
 (b) *Custodial property.* RHS may take custodial possession of security property that has been abandoned, or for other reasons necessary to protect the Government's security. After taking custodial possession of a security property, RHS may maintain and repair the security property as needed to protect the Government's interest, pay required real estate taxes and assessments, and secure personal property left on the premises. Expenses will be charged to the borrower's account. Custodial property may be leased when it is in the Government's best interest and in such cases the borrower's account will be credited for income from the security property.

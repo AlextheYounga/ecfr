@@ -1,7 +1,5 @@
 ##### § 17.21 Prohibitions. #####
 
-Link to an amendment published at 87 FR 880, Jan. 7, 2022.
-
 (a) Except as provided in subpart A of this part, or under permits issued pursuant to § 17.22 or § 17.23, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit or to cause to be committed, any of the acts described in paragraphs (b) through (f) of this section in regard to any endangered wildlife.
 
 (b) *Import or export.* It is unlawful to import or to export any endangered wildlife. Any shipment in transit through the United States is an importation and an exportation, whether or not it has entered the country for customs purposes.
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 880, Jan. 7, 2022.
 
 (iv) The holding of the specimen in captivity for a period of more than 45 consecutive days.
 
-(6) Notwithstanding paragraph (c)(1) of this section, any person acting under a valid migratory bird rehabilitation permit issued pursuant to § 21.31 of this subchapter may take endangered migratory birds without an endangered species permit if such action is necessary to aid a sick, injured, or orphaned endangered migratory bird, provided the permittee:
+(6) Notwithstanding paragraph (c)(1) of this section, any person acting under a valid migratory bird rehabilitation permit issued pursuant to § 21.76 of this subchapter may take endangered migratory birds without an endangered species permit if such action is necessary to aid a sick, injured, or orphaned endangered migratory bird, provided the permittee:
 
 (i) Notifies the issuing Migratory Bird Permit Office immediately upon receipt of such bird (contact information for your issuing office is listed on your permit and on the Internet at *http://offices.fws.gov*); and
 
@@ -42,11 +40,11 @@ Link to an amendment published at 87 FR 880, Jan. 7, 2022.
 
 (d) *Possession and other acts with unlawfully taken wildlife.* (1) It is unlawful to possess, sell, deliver, carry, transport, or ship, by any means whatsoever, any endangered wildlife which was taken in violation of paragraph (c) of this section.
 
-Example.A person captures a whooping crane in Texas and gives it to a second person, who puts it in a closed van and drives thirty miles, to another location in Texas. The second person then gives the whooping crane to a third person, who is apprehended with the bird in his possession. All three have violated the law - the first by illegally taking the whooping crane; the second by transporting an illegally taken whooping crane; and the third by possessing an illegally taken whooping crane.
+Example.A person captures a whooping crane in Texas and gives it to a second person, who puts it in a closed van and drives thirty miles, to another location in Texas. The second person then gives the whooping crane to a third person, who is apprehended with the bird in his possession. All three have violated the law—the first by illegally taking the whooping crane; the second by transporting an illegally taken whooping crane; and the third by possessing an illegally taken whooping crane.
 
 (2) Notwithstanding paragraph (d)(1) of this section, Federal and State law enforcement officers may possess, deliver, carry, transport or ship any endangered wildlife taken in violation of the Act as necessary in performing their official duties.
 
-(3) Notwithstanding paragraph (d)(1) of this section, any person acting under a valid migratory bird rehabilitation permit issued pursuant to § 21.31 of this subchapter may possess and transport endangered migratory birds without an endangered species permit when such action is necessary to aid a sick, injured, or orphaned endangered migratory bird, provided the permittee:
+(3) Notwithstanding paragraph (d)(1) of this section, any person acting under a valid migratory bird rehabilitation permit issued pursuant to § 21.76 of this subchapter may possess and transport endangered migratory birds without an endangered species permit when such action is necessary to aid a sick, injured, or orphaned endangered migratory bird, provided the permittee:
 
 (i) Notifies the issuing Migratory Bird Permit Office immediately upon receipt of such bird (contact information for your issuing office is listed on your permit and on the Internet at *http://offices.fws.gov*); and
 
@@ -146,4 +144,4 @@ Laysan duck (*Anas laysanensis*).
 
 (8) The sport-hunted trophy consists of raw or tanned parts, such as bones, hair, head, hide, hooves, horns, meat, skull, rug, taxidermied head, shoulder, or full body mount, of a specimen that was taken by the hunter during a sport hunt for personal use. It does not include articles made from a trophy, such as worked, manufactured, or handicraft items for use as clothing, curios, ornamentation, jewelry, or other utilitarian items for commercial purposes.
 
-[40 FR 44415, Sept. 26, 1975, as amended at 40 FR 53400, Nov. 18, 1975; 41 FR 19226, May 11, 1976; 44 FR 31580, May 31, 1979; 44 FR 54007, Sept. 17, 1979; 58 FR 68325, Dec. 27, 1993; 63 FR 48640, Sept. 11, 1998; 68 FR 2919, Jan. 22, 2003; 68 FR 61136, Oct. 27, 2003; 70 FR 52318, Sept. 2, 2005; 77 FR 438, Jan. 5, 2012; 77 FR 43175, July 24, 2012; 79 FR 15252, Mar. 19, 2014; 79 FR 30418, May 27, 2014; 79 FR 43965, July 29, 2014; 81 FR 19930, Apr. 6, 2016]
+[40 FR 44415, Sept. 26, 1975, as amended at 40 FR 53400, Nov. 18, 1975; 41 FR 19226, May 11, 1976; 44 FR 31580, May 31, 1979; 44 FR 54007, Sept. 17, 1979; 58 FR 68325, Dec. 27, 1993; 63 FR 48640, Sept. 11, 1998; 68 FR 2919, Jan. 22, 2003; 68 FR 61136, Oct. 27, 2003; 70 FR 52318, Sept. 2, 2005; 77 FR 438, Jan. 5, 2012; 77 FR 43175, July 24, 2012; 79 FR 15252, Mar. 19, 2014; 79 FR 30418, May 27, 2014; 79 FR 43965, July 29, 2014; 81 FR 19930, Apr. 6, 2016; 87 FR 880, Jan. 7, 2022]
