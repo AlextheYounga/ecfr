@@ -1,5 +1,7 @@
 ##### § 4.602 What definitions apply to this subpart? #####
 
+Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
+
 As used in this subpart:
 
 *Act* means section 203(a)(1) of the Equal Access to Justice Act, Public Law 96-481, 5 U.S.C. 504, as amended.

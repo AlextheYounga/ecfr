@@ -1,7 +1,5 @@
 ##### § 301.55-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.
@@ -28,10 +26,12 @@ Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
 
 *Plant Protection and Quarantine (PPQ).* The Plant Protection and Quarantine program of the Animal and Plant Health Inspection Service, United States Department of Agriculture.
 
-*Quarantined area.* Any State, or any portion of a State, listed in § 301.55-3(c) or otherwise designated as a quarantined area in accordance with § 301.55-3(b).
+*Quarantined area.* Any State, or any portion of a State, listed in accordance with § 301.55-3(a) or otherwise designated as a quarantined area in accordance with § 301.55-3(b).
 
-*Regulated article.* Any article listed in § 301.55-2(a) or (b), or otherwise designated as a regulated article in accordance with § 301.55-2(c).
+*Regulated article.* Any article identified as a regulated article under § 301.55-2 as follows: listed as of January 30, 2023, added in accordance with § 301.55-2(b), or otherwise designated in accordance with § 301.55-2(c).
 
 *South American cactus moth.* The live insect known as the South American cactus moth, *Cactoblastis cactorum,* in any life stage (egg, larva, pupa, adult).
 
 *State.* The District of Columbia, Puerto Rico, the Northern Mariana Islands, or any State, territory, or possession of the United States.
+
+[74 FR 27073, June 8, 2009, as amended at 87 FR 80007, Dec. 29, 2022]

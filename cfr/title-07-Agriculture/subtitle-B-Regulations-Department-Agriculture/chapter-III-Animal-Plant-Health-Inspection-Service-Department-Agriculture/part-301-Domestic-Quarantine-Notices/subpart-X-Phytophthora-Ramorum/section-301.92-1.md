@@ -1,7 +1,5 @@
 ##### § 301.92-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture.
@@ -38,13 +36,13 @@ Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
 
 *Mulch.* Bark chips, wood chips, wood shavings, or sawdust, or a mixture thereof, that could be used as a protective or decorative ground cover or as part of a growing media mixture.
 
-*Non-host nursery stock.* Any taxa of nursery stock not listed in § 301.92-2 as a regulated or associated article.
+*Non-host nursery stock.* Any taxa of nursery stock not listed in accordance with § 301.92-2 as a regulated or associated article.
 
 *Nursery.* Any location where nursery stock is grown, propagated, stored, or sold, or any location from which nursery stock is distributed. Locations that grow trees for sale without roots (*e.g.*, as Christmas trees) are considered to be nurseries for the purposes of this subpart.
 
-*Nursery stock.* All plants for planting, including houseplants, propagative material that is grown in a nursery, and tree seedlings for reforestation, except the following: Seeds; turf or sod; bulbs, tubers, corms, or rhizomes;2 greenhouse grown cactus, succulents, and orchids; aquarium grown aquatic plants; greenhouse, container, or field grown palms; greenhouse, container, or field grown cycads, and tissue culture plants grown in vitro; and plants meeting the definition of forest stock.
+*Nursery stock.* All plants for planting, including houseplants, propagative material that is grown in a nursery, and tree seedlings for reforestation, except the following: Seeds; turf or sod; bulbs, tubers, corms, or rhizomes;1 greenhouse grown cactus, succulents, and orchids; aquarium grown aquatic plants; greenhouse, container, or field grown palms; greenhouse, container, or field grown cycads, and tissue culture plants grown in vitro; and plants meeting the definition of forest stock.
 
-2 Bulbs, tubers, corms, or rhizomes are only considered nursery stock (and therefore, regulated under this subpart) if they are of plant taxa listed in § 301.92-2 as regulated articles or associated articles.
+1 Bulbs, tubers, corms, or rhizomes are only considered nursery stock (and therefore, regulated under this subpart) if they are of plant taxa listed in accordance with § 301.92-2 as regulated articles or associated articles.
 
 *Permit.* A written authorization issued by APHIS to allow the interstate movement of restricted articles in accordance with part 330 of this chapter.
 
@@ -52,11 +50,11 @@ Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
 
 *Plant Protection and Quarantine.* The Plant Protection and Quarantine program of the Animal and Plant Health Inspection Service, United States Department of Agriculture.
 
-*Quarantined area.* Any State, or any portion of a State, listed in § 301.92-3(a)(3) of this subpart or otherwise designated as a quarantined area in accordance with § 301.92-3(a)(2) of this subpart.
+*Quarantined area.* Any State, or any portion of a State, designated as a quarantined area in accordance with § 301.92-3.
 
-*Regulated article.* Any article listed in § 301.92-2(b) of this subpart.
+*Regulated article.* Any article listed in § 301.92-2(b).
 
-*Restricted article.* Any article listed in § 301.92-2(a) of this subpart.
+*Restricted article.* Any article listed in § 301.92-2(a).
 
 *Regulated establishment.* Any nursery regulated by APHIS pursuant to § 301.92-3(b).
 
@@ -64,4 +62,4 @@ Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
 
 *State.* The District of Columbia, Puerto Rico, the Northern Mariana Islands, or any State, territory, or possession of the United States.
 
-[72 FR 8597, Feb. 27, 2007, as amended at 84 FR 16192, Apr. 18, 2019]
+[72 FR 8597, Feb. 27, 2007, as amended at 84 FR 16192, Apr. 18, 2019; 87 FR 80018, Dec. 29, 2022]

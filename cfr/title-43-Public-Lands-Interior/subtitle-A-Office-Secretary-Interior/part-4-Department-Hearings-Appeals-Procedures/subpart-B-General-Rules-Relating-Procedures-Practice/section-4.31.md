@@ -1,5 +1,7 @@
 ##### § 4.31 Request for limiting disclosure of confidential information. #####
 
+Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+
 (a) If any person submitting a document in a proceeding under this part claims that some or all of the information contained in that document is exempt from the mandatory public disclosure requirements of the Freedom of Information Act (5 U.S.C. 552), is information referred to in section 1905 of title 18 of the United States Code (disclosure of confidential information), or is otherwise exempt by law from public disclosure, the person:
 
 (1) Must indicate in the document that it is exempt, or contains information which is exempt, from disclosure;

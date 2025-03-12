@@ -1,5 +1,7 @@
 ##### § 4.5 Power of the Secretary and Director. #####
 
+Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+
 (a) *Secretary.* Nothing in this part shall be construed to deprive the Secretary of any power conferred upon him by law. The authority reserved to the Secretary includes, but is not limited to:
 
 (1) The authority to take jurisdiction at any stage of any case before any employee or employees of the Department, including any administrative law judge or board of the Office, except a case before the Board of Contract Appeals which is subject to the Contract Disputes Act of 1978, and render the final decision in the matter after holding such hearing as may be required by law; and

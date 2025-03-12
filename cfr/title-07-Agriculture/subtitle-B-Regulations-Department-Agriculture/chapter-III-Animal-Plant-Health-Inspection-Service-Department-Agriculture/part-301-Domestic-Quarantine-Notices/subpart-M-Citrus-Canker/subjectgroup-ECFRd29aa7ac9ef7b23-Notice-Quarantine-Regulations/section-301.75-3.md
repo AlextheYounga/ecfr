@@ -1,11 +1,11 @@
 ##### § 301.75-3 Regulated articles. #####
 
-Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
+(a) *List of regulated articles.* The Administrator has determined that certain articles present a risk of spread of citrus canker. A list of all such regulated articles is found on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/citrus/citrus-canker.* Lists of all regulated articles may also be obtained by request from any local Plant Protection and Quarantine (PPQ) office; local offices are listed in telephone directories and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd.*
 
-(a) Plants or plant parts, including fruit and seeds, or any of the following: All species, clones, cultivars, strains, varieties, and hybrids of the genera *Citrus* and *Fortunella,* and all clones, cultivars, strains, varieties, and hybrids of the species *Clausena lansium* and *Poncirus trifoliata.* The most common of these are: lemon, pummelo, grapefruit, key lime, persian lime, tangerine, satsuma, tangor, citron, sweet orange, sour orange, mandarin, tangelo, ethrog, kumquat, limequat, calamondin, trifoliate orange, and wampi.
+(b) *Normal process for designating additional regulated articles.* (1) If the Administrator determines that an article not already listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/citrus/citrus-canker* presents a risk of spread of citrus canker, APHIS will publish a notice in the Federal Register proposing to designate the article as a regulated article for citrus canker. The notice will provide the basis for this determination, and will request public comment.
 
-(b) Grass, plant, and tree clippings.
+(2) If no comments are received on the notice, or if the comments do not change the Administrator's determination, APHIS will publish a second notice in the Federal Register designating the article as a regulated article for citrus canker and listing it.
 
-(c) Any other product, article, or means of conveyance, of any character whatsoever, not covered by paragraph (a) of this section, when it is determined by an inspector that it presents a risk of spread of citrus canker and the person in possession thereof has actual notice that the product, article, or means of conveyance is subject to the provisions of this subpart.
+(c) *Immediate designation of regulated articles.* An inspector may designate any other product, article, or means of conveyance as a regulated article, if the inspector determines that it presents a risk of spread of citrus canker and the person in possession thereof has actual notice that the product, article, or means of conveyance is subject to the provisions of this subpart.
 
-[50 FR 51231, Dec. 13, 1985, as amended at 54 FR 12180, Mar. 24, 1989. Redesignated and amended at 55 FR 37450, Sept. 11, 1990]
+[87 FR 80009, Dec. 29, 2022]

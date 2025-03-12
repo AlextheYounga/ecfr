@@ -1,5 +1,7 @@
 ##### § 1740.10 Eligible projects. #####
 
+Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
+
 To be eligible for funding assistance under the part, the Applicant must:
 
 (a) Submit a complete application and provide all supporting documentation including unqualified, comparative, audited financial statements for the previous year from the date the application is submitted as detailed in § 1740.63.

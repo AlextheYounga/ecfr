@@ -1,53 +1,15 @@
 ##### § 301.80 Quarantine; restriction on interstate movement of specified regulated articles. #####
 
-Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+(a) *Notice of quarantine.* Under the authority of sections 411, 412, 414, and 434 of the Plant Protection Act (7 U.S.C. 7711, 7712, 7714, and 7754), the Secretary of Agriculture quarantines the States of North Carolina and South Carolina in order to prevent the spread of witchweed (*Striga* spp.), a parasitic plant that causes a dangerous disease of corn, sorghum, and other crops of the grass family and is not widely prevalent or distributed within and throughout the United States. Through the aforementioned authorities, the Secretary imposes a quarantine on the States of North Carolina and South Carolina with respect to the interstate movement from those States of regulated articles, issues regulations in this subpart governing the movement of such articles, and gives notice of this quarantine action.
 
-(a) *Notice of quarantine.* Under the authority of sections 411, 412, 414, and 434 of the Plant Protection Act (7 U.S.C. 7711, 7712, 7714, and 7754), the Secretary of Agriculture quarantines the States of North Carolina and South Carolina in order to prevent the spread of witchweed (*Striga* spp.), a parasitic plant that causes a dangerous disease of corn, sorghum, and other crops of the grass family and is not widely prevalent or distributed within and throughout the United States. Through the aforementioned authorities, the Secretary imposes a quarantine on the States of North Carolina and South Carolina with respect to the interstate movement from those States of articles described in paragraph (b) of this section, issues regulations in this subpart governing the movement of such articles, and gives notice of this quarantine action.
+(b) *Quarantine restrictions on the interstate movement of regulated articles.* No common carrier or other person shall move interstate from any quarantined State any regulated articles, except in accordance with the conditions prescribed in this subpart.
 
-(b) *Quarantine restrictions on interstate movement of specified regulated articles.* No common carrier or other person shall move interstate from any quarantined State any of the following articles (defined in § 301.80-1(p) as regulated articles), except in accordance with the conditions prescribed in this subpart:
+(c) *List of regulated articles.* The Deputy Administrator has determined that certain articles present a hazard of spread of witchweed. A list of all such regulated articles is found on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/SA\_Weeds/SA\_Noxious\_Weeds\_Program.* Lists of all regulated articles may also be obtained by request from any local Plant Protection and Quarantine (PPQ) office; local offices are listed in telephone directories and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd.*
 
-(1) Soil, compost, peat, humus, muck, and decomposed manure, separately or with other things; sand; and gravel.
+(d) *Normal process for designating additional regulated articles.* (1) If the Deputy Administrator determines that an article not already listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/SA\_Weeds/SA\_Noxious\_Weeds\_Program* presents a hazard of spread of witchweed, APHIS will publish a notice in the Federal Register proposing to designate the article as a regulated article for witchweed. The notice will provide the basis for this determination, and will request public comment.
 
-(2) Plants with roots.
+(2) If no comments are received on the notice, or if the comments do not change the Deputy Administrator's determination, APHIS will publish a second notice in the Federal Register designating the article as a regulated article for witchweed and listing it.
 
-(3) Grass sod.
+(e) *Immediate designation of regulated articles.* An inspector may designate any other article, product, or means of conveyance as a regulated article, if the inspector determines that it presents a hazard of spread of witchweed, and after the person in possession of the article has been so notified.
 
-(4) Plant crowns and roots for propagation.
-
-(5) True bulbs, corms, rhizomes, and tubers of ornamental plants.
-
-(6) Root crops, except those from which all soil has been removed.
-
-(7) Peanuts in shells and peanut shells, except boiled or roasted peanuts.
-
-(8) Small grains and soybeans.
-
-(9) Hay, straw, fodder, and plant litter of any kind.
-
-(10) Seed cotton and gin trash.
-
-(11) Stumpwood.
-
-(12) Long green cucumbers, cantaloupes, peppers, squash, tomatoes, and watermelons, except those from which all soil has been removed.
-
-(13) Pickling cucumbers, string beans, and field peas.
-
-(14) Cabbage, except firm heads with loose outer leaves removed.
-
-(15) Leaf tobacco, except flue-cured leaf tobacco.
-
-(16) Ear corn, except shucked ear corn.
-
-(17) Sorghum.
-
-(18) Used crates, boxes, burlap bags, and cotton-picking sacks, and other used farm products containers.
-
-(19) Used farm tools.
-
-(20) Used mechanized cultivating equipment and used harvesting equipment.
-
-(21) Used mechanized soil-moving equipment.
-
-(22) Any other products, articles, or means of conveyance, of any character whatsoever, not covered by paragraphs (b) (1) through (20) of this section, when it is determined by an inspector that they present a hazard of spread of witchweed, and the person in possession thereof has been so notified.
-
-[35 FR 10553, June 30, 1970, as amended at 36 FR 24917, Dec. 24, 1971; 41 FR 27372, July 2, 1976; 58 FR 216, Jan. 5, 1993; 66 FR 21052, Apr. 27, 2001]
+[87 FR 80011, Dec. 29, 2022]

@@ -1,8 +1,6 @@
-##### § 301.80-3 Conditions governing the interstate movement of regulated articles from quarantined States.3 #####
+##### § 301.80-3 Conditions governing the interstate movement of regulated articles from quarantined States. #####
 
-3 Requirements under all other applicable Federal domestic plant quarantines must also be met.
-
-(a) Any regulated articles, except soil samples for processing, testing, or analysis, may be moved interstate from any quarantined State under the following conditions:
+(a) Any regulated articles, except soil samples for processing, testing, or analysis, may be moved interstate from any quarantined State under the following conditions:1
 
 (1) With certificate or permit issued and attached in accordance with §§ 301.80-4 and 301.80-7, if moved:
 
@@ -18,7 +16,7 @@
 
 (2) Without certificate or permit if moved:
 
-(i) From any regulated area under the provisions of § 301.80-2b which exempts certain articles from certificate and permit requirements; or
+(i) From any regulated area under the provisions of § 301.80-2 which exempt certain articles from certificate and permit requirements; or
 
 (ii) From a generally infested area to a contiguous generally infested area; or
 
@@ -34,14 +32,12 @@
 
 (ii) Without a certificate or permit, if:
 
-(A) The regulated articles are exempt from certification and permit requirements under the provisions of § 301.80-2b; or
+(A) The regulated articles are exempt from certification and permit requirements under the provisions of § 301.80-2; or
 
 (B) The point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
-(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing, or analysis may be moved interstate from any regulated area only to laboratories approved4 by the Deputy Administrator and so listed by him in a supplemental regulation.5 A certificate or permit will not be required to be attached to such soil samples except in those emergency situations where the Deputy Administrator has authorized such movement to another destination with a certificate or permit issued and attached in accordance with §§ 301.80-4(d) and 301.80-7. Soil samples originating in areas outside of the regulated areas will not require such a certificate or permit and their movement is not restricted to approved laboratories if the point of origin of such samples is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
+(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing, or analysis may be moved interstate from any regulated area only to laboratories approved2 by the Deputy Administrator. A certificate or permit will not be required to be attached to such soil samples except in those emergency situations where the Deputy Administrator has authorized such movement to another destination with a certificate or permit issued and attached in accordance with §§ 301.80-4(d) and 301.80-7. Soil samples originating in areas outside of the regulated areas will not require such a certificate or permit and their movement is not restricted to approved laboratories if the point of origin of such samples is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
-4 Pamphlets containing provisions for laboratory approval may be obtained from the Deputy Administrator, Plant Protection and Quarantine Programs, APHIS, U.S. Department of Agriculture, Washington, DC 20250.
+2 Provisions for laboratory approval may be obtained from your State's State Plant Health Director. Contact information can be found at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/CT\_SPHD*.
 
-5 For list of approved laboratories, see (41 FR 4615 and amendments thereof).
-
-[41 FR 27373, July 2, 1976]
+[41 FR 27373, July 2, 1976, as amended at 87 FR 80012, Dec. 29, 2022]

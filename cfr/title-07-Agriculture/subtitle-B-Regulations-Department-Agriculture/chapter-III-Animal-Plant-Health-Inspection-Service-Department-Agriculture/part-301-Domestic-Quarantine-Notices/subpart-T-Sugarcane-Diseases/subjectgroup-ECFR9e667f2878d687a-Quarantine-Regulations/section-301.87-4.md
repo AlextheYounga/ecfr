@@ -1,10 +1,8 @@
-##### § 301.87-4 Conditions governing the interstate movement of regulated articles from regulated areas in quarantined States.3 #####
+##### § 301.87-4 Conditions governing the interstate movement of regulated articles from regulated areas in quarantined States.  #####
 
-3 Requirements under all other applicable Federal domestic plant quarantines must also be met.
+Any regulated article may be moved interstate from any regulated area in a quarantined State if moved under the following conditions:1
 
-Any regulated article may be moved interstate from any regulated area in a quarantined State if moved under the following conditions:
-
-(a) With a certificate or limited permit issued and attached in accordance with §§ 301.87-5 and 301.87-8 of this subpart, or
+(a) With a certificate or limited permit issued and attached in accordance with §§ 301.87-5 and 301.87-8; or
 
 (b) Without a certificate or limited permit, if
 
@@ -13,3 +11,5 @@ Any regulated article may be moved interstate from any regulated area in a quara
 (2) The article originated outside of any regulated area, and
 
 (3) The point of origin of the article is clearly indicated by shipping documents, its identity has been maintained, and it has not been used for the production of sugarcane while in the regulated area.
+
+[48 FR 50059, Oct. 31, 1983, as amended at 87 FR 80016, Dec. 29, 2022]

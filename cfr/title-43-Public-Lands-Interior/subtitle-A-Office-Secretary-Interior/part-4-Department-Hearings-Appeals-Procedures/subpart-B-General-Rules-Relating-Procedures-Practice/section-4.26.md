@@ -1,5 +1,7 @@
 ##### § 4.26 Subpoena power and witness provisions generally. #####
 
+Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+
 (a) *Compulsory attendance of witnesses.* The administrative law judge, on his own motion, or on written application of a party, is authorized to issue subpoenas requiring the attendance of witnesses at hearings to be held before him or at the taking of depositions to be held before himself or other officers. Subpoenas will be issued on a form approved by the Director. A subpoena may be served by any person who is not a party and is not less than 18 years of age, and the original subpoena bearing a certificate of service shall be filed with the administrative law judge. A witness may be required to attend a deposition or hearing at a place not more than 100 miles from the place of service.
 
 (b) *Application for subpoena.* Where the file has not yet been transmitted to the administrative law judge, the application for a subpoena may be filed in the office of the officer who made the decision appealed from, or in the office of the Bureau of Land Management in which the complaint was filed, in which cases such offices will forward the application to the examiner.

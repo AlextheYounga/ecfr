@@ -1,7 +1,5 @@
 ##### § 301.45-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80005, Dec. 29, 2022.
-
 Terms used in the singular form in this subpart shall be construed as the plural, and vice versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -18,15 +16,13 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *Compliance agreement.* A written agreement between APHIS and a person engaged in growing, handling, or moving regulated articles, in which the person agrees to comply with the provisions of this subpart.
 
-*Effectively diminishing.* An eradication program is considered to be effectively diminishing the gypsy moth population of an area if the results of two successive annual Federal or State delimiting trapping surveys of the area conducted in accordance with Section II, “Survey Procedures - Gypsy Moth,” of the Gypsy Moth Treatment Manual show that the average number of gypsy moths caught per trap in the second delimiting survey (when comparable geographical areas and trapping densities are used) is: (1) Less than 10, and (2) less than the average number of gypsy moths caught per trap in the first survey.
+*Effectively diminishing.* An eradication program is considered to be effectively diminishing the gypsy moth population of an area if the results of two successive annual Federal or State delimiting trapping surveys of the area conducted in accordance with Section II, “Survey Procedures—Gypsy Moth,” of the Gypsy Moth Treatment Manual show that the average number of gypsy moths caught per trap in the second delimiting survey (when comparable geographical areas and trapping densities are used) is: (1) Less than 10, and (2) less than the average number of gypsy moths caught per trap in the first survey.
 
 *Eradication program.* A program that uses pesticide application, biological controls, or other methods with the goal of eliminating gypsy moth from a particular area.
 
 *General infestation.* (1) The detection of gypsy moth egg masses through visual inspection by an inspector during a 10-minute walk through the area; however, it does not include the presence of gypsy moth egg masses which are found as a result of hitchhiking on transitory means of conveyance; or
 
 (2) The detection of gypsy moth through multiple catches of adult gypsy moths at multiple trapping locations in the area over a period of 2 or more consecutive years, if the Administrator determines, after consulting with the State plant regulatory official, that gypsy moth is established in the area.
-
-*Generally infested area.* Any State, or portion thereof, listed as a generally infested area in § 301.45-3 or temporarily designated as a generally infested area in accordance with § 301.45-2(c).
 
 *Gypsy moth.* The live insect known as the gypsy moth, *Lymantria dispar* (Linnaeus), in any life stage (egg, larva, pupa, adult).
 
@@ -46,9 +42,11 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *Person.* Any individual, partnership, corporation, company, society, association, or other organized group.
 
-*Qualified certified applicator.* Any individual (1) certified pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) (7 U.S.C. 136i) as a certified commercial applicator in a category allowing use of the restricted use pesticides Spray N Kill (EPA Registration No. 8730-30), Ficam W (EPA Registration No. 45639-1), and acephate (Orthene ®); (2) who has attended and completed a workshop approved by the Administrator on the identification and treatment of gypsy moth life stages on outdoor household articles and mobile homes; and (3) who has entered into a compliance agreement in accordance with § 301.45-6 of this part for the purpose of inspecting, treating, and issuing certificates for the movement of outdoor household articles and mobile homes.1
+*Qualified certified applicator.* Any individualcertified pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) (7 U.S.C. 136i) as a certified commercial applicator in a category allowing use of the restricted use pesticides Spray N Kill (EPA Registration No. 8730-30), Ficam W (EPA Registration No. 45639-1), and acephate (Orthene ®); who has attended and completed a workshop approved by the Administrator on the identification and treatment of gypsy moth life stages on outdoor household articles and mobile homes; and who has entered into a compliance agreement in accordance with § 301.45-6 for the purpose of inspecting, treating, and issuing certificates for the movement of outdoor household articles and mobile homes.1
 
 1 Names of qualified certified applicators may be obtained from State departments of agriculture.
+
+*Quarantine area.* Any State, or portion thereof, listed as a generally infested area in accordance with § 301.45-2 or temporarily designated as a generally infested area in accordance with § 301.45-2(c).
 
 *Recreational vehicles.* Highway vehicles, including pickup truck campers, one-piece motor homes, and travel trailers, designed to serve as temporary places of dwelling.
 
@@ -70,4 +68,4 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *Under the direct supervision of a qualified certified applicator.* An inspection or treatment is considered to be applied under the direct supervision of a qualified certified applicator if the inspection or treatment is performed by a person acting under the instructions of a qualified certified applicator who is available if and when needed, even though such qualified certified applicator is not physically present at the time and place the inspection or treatment occurred.
 
-[58 FR 39423, July 23, 1993, as amended at 59 FR 67608, Dec. 30, 1994; 67 FR 8464, Feb. 25, 2002; 70 FR 33268, June 7, 2005; 71 FR 40878, July 19, 2006; 72 FR 70764, Dec. 13, 2007; 78 FR 24666, Apr. 26, 2013]
+[58 FR 39423, July 23, 1993, as amended at 59 FR 67608, Dec. 30, 1994; 67 FR 8464, Feb. 25, 2002; 70 FR 33268, June 7, 2005; 71 FR 40878, July 19, 2006; 72 FR 70764, Dec. 13, 2007; 78 FR 24666, Apr. 26, 2013; 87 FR 80005, Dec. 29, 2022]

@@ -1,5 +1,7 @@
 ##### § 4.412 Statement of reasons; statement of standing; reply briefs. #####
 
+Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
+
 (a) An appellant must file a statement of reasons for appeal with the Board no later than 30 days after the notice of appeal was filed. Unless the Board orders otherwise upon motion for good cause shown, the text of a statement of reasons may not exceed 30 pages, excluding exhibits, declarations, or other attachments.
 
 (b) Where the decision being appealed relates to land selections under the Alaska Native Claims Settlement Act, as amended, the appellant also shall file with the Board a statement of facts upon which the appellant relies for standing under § 4.410(b) within 30 days after filing of the notice of appeal. The statement may be included with the notice of appeal filed pursuant to § 4.411 or the statement of reasons filed pursuant to paragraph (a) of this section or may be filed as a separate document.

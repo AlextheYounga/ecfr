@@ -1,5 +1,7 @@
 ##### § 4.1001 What terms are used in this subpart? #####
 
+Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
+
 As used in this subpart:
 
 *ALJ* means an administrative law judge in DCHD appointed under 5 U.S.C. 3105 and assigned to preside over the hearing process.

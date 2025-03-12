@@ -2,7 +2,7 @@
 
 (a) A certificate may be issued by an inspector for the movement of a regulated article or an outdoor household article (OHA) if the inspector determines that it is eligible for certification for movement to any destination under all Federal domestic plant quarantines applicable to such article and:
 
-(1) It has originated in noninfested premises in a generally infested area and has not been exposed to the gypsy moth while within the generally infested area; or
+(1) It has originated in noninfested premises in a quarantined area and has not been exposed to the gypsy moth while within the quarantined area; or
 
 (2) The inspector inspects the article no more than 5 days prior to the date of movement during the months of April through August (14 days prior to the date of movement from September through March) and finds it to be free of the gypsy moth; or
 

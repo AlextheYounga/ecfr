@@ -1,7 +1,5 @@
 ##### § 301.76-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
-
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any individual authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.
@@ -38,8 +36,8 @@ Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
 
 *Quarantined area.* Any State or portion of a State designated as a quarantined area for Asian citrus psyllid or citrus greening in accordance with § 301.76-3.
 
-*Regulated article.* Any article listed in § 301.76-2 or otherwise designated as a regulated article in accordance with § 301.76-2(c).
+*Regulated article.* Any article identified as a regulated article under § 301.76-2 as follows: listed as of January 30, 2023, added in accordance with § 301.76-2(b), or otherwise designated in accordance with § 301.76-2(c).
 
 *State.* The District of Columbia, Puerto Rico, the Northern Mariana Islands, or any State, territory, or possession of the United States.
 
-[75 FR 34332, June 17, 2010, as amended at 77 FR 59712, Oct. 1, 2012]
+[75 FR 34332, June 17, 2010, as amended at 77 FR 59712, Oct. 1, 2012; 87 FR 80010, Dec. 29, 2022]

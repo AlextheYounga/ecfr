@@ -1,13 +1,11 @@
-##### § 301.52-2 Authorization for Deputy Administrator to list regulated areas and suppressive or generally infested areas. #####
+##### § 301.52-2 Authorization for the Deputy Administrator to list regulated areas and suppressive or generally infested areas. #####
 
-Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
+(a) The Deputy Administrator will list as a regulated area each State or portion of a State in which evidence of a reproducing population of pink bollworm is present, or in which there is reason to believe that pink bollworm is present, or which it is deemed necessary to regulate because of their proximity to infestation or their inseparability for quarantine enforcement purposes from infested localities. The Deputy Administrator may divide any regulated area into a suppressive area and a generally infested area in accordance with the definitions of these terms in § 301.52-1. The Deputy Administrator will publish a list of all regulated areas, including the suppressive and generally infested areas therein, at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/cotton-pests/cotton-pests.* The list will include the date that the list was last updated. Lists of all regulated areas, including the suppressive and generally infested areas therein, may also be obtained by request from any local office of PPQ; local offices are listed in telephone directories and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd.* After a change is made to the list of regulated areas, APHIS will publish a notice in the Federal Register informing the public that the change has occurred and describing the change to the regulated areas. Less than an entire State will be designated as a regulated area only if the Deputy Administrator determines that:
 
-The Deputy Administrator shall publish and amend from time to time as the facts warrant, the following lists:
+(1) The State has adopted and is enforcing restrictions on the intrastate movement of regulated articles that are equivalent to those imposed by this subpart on the interstate movement of regulated articles; and
 
-(a) *List of regulated areas and suppressive or generally infested areas.* The Deputy Administrator shall list as regulated areas in a supplemental regulation designated as § 301.52-2a, the quarantined States, territories, or districts, or portions thereof, in which pink bollworm has been found or in which there is reason to believe that pink bollworm is present, or which it is deemed necessary to regulate because of their proximity to infestation or their inseparability for quarantine enforcement purposes from infested localities. The Deputy Administrator, in the supplemental regulation, may divide any regulated area into a suppressive area and a generally infested area in accordance with the definitions thereof in § 301.52-1. Less than an entire quarantined State, territory, or district will be designated as a regulated area only if the Deputy Administrator is of the opinion that:
+(2) The designation of less than an entire State as a regulated area will be adequate to prevent the artificial interstate spread of pink bollworm.
 
-(1) The State, territory, or district has adopted and is enforcing a quarantine or regulations which imposes restrictions on the intrastate movement of the regulated articles which are substantially the same as those which are imposed with respect to the interstate movement of such articles under this subpart; and
+(b) [Reserved]
 
-(2) The designation of less than the entire State, territory, or district, as a regulated area will otherwise be adequate to prevent the interstate spread of the pink bollworm.
-
-[32 FR 16385, Nov. 30, 1967, as amended at 52 FR 26943, July 17, 1987]
+[87 FR 80007, Dec. 29, 2022]

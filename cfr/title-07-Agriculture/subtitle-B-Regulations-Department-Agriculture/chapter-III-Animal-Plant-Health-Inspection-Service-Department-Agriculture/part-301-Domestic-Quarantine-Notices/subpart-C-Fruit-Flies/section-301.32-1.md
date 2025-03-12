@@ -1,7 +1,5 @@
 ##### § 301.32-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80003, Dec. 29, 2022.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture.
@@ -48,10 +46,12 @@ Link to an amendment published at 87 FR 80003, Dec. 29, 2022.
 
 *Quarantined area.* Any State, or any portion of a State, designated as a quarantined area in accordance with § 301.32-3.
 
-*Regulated article.* Any article listed in § 301.32-2 or otherwise designated as a regulated article in accordance with § 301.32-2(d).
+*Regulated article.* Any article identified as a regulated article under § 301.32-2 as follows: listed as of January 30, 2023, added in accordance with § 301.32-2(b), or otherwise designated in accordance with § 301.32-2(c) or (d).
 
 *Sapote fruit fly.* The insect known as the sapote fruit fly, *Anastrepha serpentina*, in any stage of development.
 
 *State.* Any of the several States of the United States, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands of the United States, or any other territory or possession of the United States.
 
 *West Indian fruit fly.* The insect known as the West Indian fruit fly, *Anastrepha obliqua* (Macquart), in any stage of development.
+
+[73 FR 32432, June 9, 2008, as amended at 87 FR 80003, Dec. 29, 2023]

@@ -1,7 +1,5 @@
 ##### § 301.75-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
-
 *ACC coverage.* The crop insurance coverage against Asiatic citrus canker (ACC) provided under the Florida Fruit Tree Pilot Crop Insurance Program authorized by the Federal Crop Insurance Corporation.
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any individual authorized to act for the Administrator.
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
 
 *Commercial citrus nursery.* An establishment engaged in, but not limited to, the production of certified citrus nursery stock, including plants for planting or replanting in commercial groves or for wholesale or retail sales.
 
-*Commercial citrus-producing area.* Any area designated as a commercial citrus-producing area in accordance with § 301.75-5 of this subpart.
+*Commercial citrus-producing area.* Any area designated as a commercial citrus-producing area in accordance with § 301.75-5.
 
 *Commercial packinghouse.* An establishment in which space and equipment are maintained for the primary purpose of disinfecting and packing citrus fruit for commercial sale. A commercial packinghouse must also be licensed, registered, or certified for handling citrus fruit with the State in which it operates and meet all the requirements for the license, registration, or certification that it holds.
 
@@ -64,9 +62,9 @@ Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
 
 *Public order.* Either an “Agreement to Destroy and Covenant Not to Sue” signed by the grove owner and the Florida Department of Food and Consumer Services, Division of Plant Industry (DPI), or an “Immediate Final Order” issued by DPI, both of which identify citrus trees infected with or exposed to citrus canker and order their destruction.
 
-*Quarantined area.* Any area designated as a quarantined area in accordance with § 301.75-4 of this subpart.
+*Quarantined area.* Any area designated as a quarantined area in accordance with § 301.75-4.
 
-*Regulated article.* Any article listed in § 301.75-3 (a) or (b) of this subpart or designated as a regulated article in accordance with § 301.75-3(c) of this subpart.
+*Regulated article.* Any article identified as a regulated article under § 301.75-3 as follows: listed as of January 30, 2023, added in accordance with § 301.75-3(b), or otherwise designated in accordance with § 301.75-3(c).
 
 *Regulated fruit, regulated nursery stock, regulated plant, regulated seed, regulated tree.* Any fruit, nursery stock, plant, seed, or tree defined as a regulated article.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
 
 *United States.* All of the States, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
-[55 FR 37450, Sept. 11, 1990, as amended at 61 FR 1521, Jan. 22, 1996; 65 FR 61080, Oct. 16, 2000; 66 FR 32717, June 18, 2001; 71 FR 33172, June 8, 2006; 72 FR 13427, Mar. 22, 2007; 72 FR 65203, Nov. 19, 2007; 74 FR 54444, Oct. 22, 2009; 76 FR 23457, Apr. 27, 2011]
+[55 FR 37450, Sept. 11, 1990, as amended at 61 FR 1521, Jan. 22, 1996; 65 FR 61080, Oct. 16, 2000; 66 FR 32717, June 18, 2001; 71 FR 33172, June 8, 2006; 72 FR 13427, Mar. 22, 2007; 72 FR 65203, Nov. 19, 2007; 74 FR 54444, Oct. 22, 2009; 76 FR 23457, Apr. 27, 2011; 87 FR 80009, Dec. 29, 2022]

@@ -1,7 +1,5 @@
 ##### § 301.38-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
-
 In this subpart the following definitions apply:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service (APHIS), or any person authorized to act for the Administrator.
@@ -10,7 +8,7 @@ In this subpart the following definitions apply:
 
 *Black stem rust.* The disease commonly known as the black stem rust of grains (*Puccinia graminis*).
 
-*Certificate.* A document in which an inspector, or a person operating under a compliance agreement, affirms that a specified regulated article has met the criteria in § 301.38-5(b) of this subpart and may be moved interstate to any destination.
+*Certificate.* A document in which an inspector, or a person operating under a compliance agreement, affirms that a specified regulated article has met the criteria in § 301.38-5(b) and may be moved interstate to any destination.
 
 *Clonally propagated.* Reproduced asexually through cuttings, tissue culture, suckers, or crown division. For the purposes of this subpart, a *Berberis* plant will be considered clonally propagated only if its parent stock is, or was derived from, a seed-propagated black stem rust-resistant plant of more than 2 years' growth.
 
@@ -28,15 +26,13 @@ In this subpart the following definitions apply:
 
 *Person.* Any association, company, corporation, firm, individual, joint stock company, partnership, society, or any other legal entity.
 
-*Protected area.* Those States or counties designated in § 301.38-3(d) of this subpart.
+*Regulated article.* Any article identified as a regulated article under § 301.38-2 as follows: listed as of January 30, 2023, added in accordance with § 301.38-2(c), or otherwise designated in accordance with § 301.38-2(d).
 
-*Rust-resistant plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia*, and their progeny, that have proven resistant to black stem rust during testing by the United States Department of Agriculture,2 and that are listed as rust-resistant under § 301.38-2 (a)(1) and (a)(2).
+*Rust-resistant plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia*, and their progeny, that have proven resistant to black stem rust during testing by the United States Department of Agriculture,1 and that are listed as rust-resistant in accordance with § 301.38-2.
 
-2 Testing is performed by the Agricultural Research Service of USDA as follows: In a greenhouse, the suspect plant, or test subject, is placed under a screen with a control plant, *i.e.,* a known rust-susceptible variety of *Berberis, Mahoberberis,* or *Mahonia.* Infected wheat stems, a primary host of black stem rust, are placed on top of the screen. The plants are moistened and maintained in 100% humidity, causing the spores to swell and fall on the plants lying under the screen. The plants are then observed for 7 days at 20-80% relative humidity. This test procedure is repeated 12 times. If in all 12 tests, the rust-susceptible plant shows signs of infection after 7 days and the test plants do not, USDA will declare the test plant variety rust-resistant. The tests must be performed on new growth, just as the leaves are unfolding.
+1 Testing is performed by the Agricultural Research Service of USDA as follows: In a greenhouse, the suspect plant, or test subject, is placed under a screen with a control plant, *i.e.,* a known rust-susceptible variety of *Berberis, Mahoberberis,* or *Mahonia.* Infected wheat stems, a primary host of black stem rust, are placed on top of the screen. The plants are moistened and maintained in 100% humidity, causing the spores to swell and fall on the plants lying under the screen. The plants are then observed for 7 days at 20-80% relative humidity. This test procedure is repeated 12 times. If in all 12 tests, the rust-susceptible plant shows signs of infection after 7 days and the test plants do not, USDA will declare the test plant variety rust-resistant. The tests must be performed on new growth, just as the leaves are unfolding.
 
-*Rust-susceptible plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia* not listed as rust-resistant under § 301.38-2 (a)(1) and (a)(2).
-
-*Regulated article.* Any article listed in § 301.38-2 (a)(1) through (a)(3) of this subpart or otherwise designated as a regulated article in accordance with § 301.38-2(a)(4) of this subpart.
+*Rust-susceptible plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia* not listed as rust-resistant in accordance with § 301.38-2.
 
 *Seedling.* Any plant of the genera *Berberis, Mahoberberis,* and *Mahonia* grown from seed and having less than 2 years' growth.
 
@@ -44,4 +40,4 @@ In this subpart the following definitions apply:
 
 *Two years' growth.* The growth of a plant during all growing seasons of 2 successive calendar years.
 
-[54 FR 32791, Aug. 10, 1989; 54 FR 38494, Sept. 18, 1989; 67 FR 8178, Feb. 22, 2002; 71 FR 5778, Feb. 3, 2006]
+[54 FR 32791, Aug. 10, 1989; 54 FR 38494, Sept. 18, 1989; 67 FR 8178, Feb. 22, 2002; 71 FR 5778, Feb. 3, 2006; 87 FR 80004, Dec. 29, 2022]

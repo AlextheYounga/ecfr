@@ -1,5 +1,7 @@
 ##### § 1740.2 Definitions. #####
 
+Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
+
 (a) The following definitions apply to this part:
 
 *Administrator* means the Administrator of the Rural Utilities Service, or the Administrator's designee.

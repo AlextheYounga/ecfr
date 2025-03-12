@@ -1,7 +1,5 @@
 ##### § 301.51-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any individual authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.
@@ -24,8 +22,10 @@ Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
 
 *Person.* Any association, company, corporation, firm, individual, joint stock company, partnership, society, or any other legal entity.
 
-*Quarantined area.* Any State, or any portion of a State, listed in § 301.51-3(c) of this subpart or otherwise designated as a quarantined area in accordance with § 301.51-3(b) of this subpart.
+*Quarantined area.* Any State, or any portion of a State, listed in accordance with § 301.51-2 or otherwise designated as a quarantined area in accordance with § 301.51-3(b).
 
-*Regulated article.* Any article listed in § 301.51-2(a) of this subpart or otherwise designated as a regulated article in accordance with § 301.51-2(b) of this subpart.
+*Regulated article.* Any article identified as a regulated article under § 301.51-2 as follows: listed as of January 30, 2023, added in accordance with § 301.51-2(b), or otherwise designated in accordance with § 301.51-2(c).
 
 *State.* The District of Columbia, Puerto Rico, the Northern Mariana Islands, or any State, territory, or possession of the United States.
+
+[62 FR 10416, Mar. 7, 1997, as amended at 87 FR 80006, Dec. 29, 2022]

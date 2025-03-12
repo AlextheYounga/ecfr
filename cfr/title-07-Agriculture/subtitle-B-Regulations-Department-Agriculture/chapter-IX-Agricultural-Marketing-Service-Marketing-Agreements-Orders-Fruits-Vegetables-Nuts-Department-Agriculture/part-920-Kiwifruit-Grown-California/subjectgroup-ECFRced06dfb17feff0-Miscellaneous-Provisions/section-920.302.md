@@ -1,5 +1,7 @@
 ##### § 920.302 Grade, size, pack, and container regulations. #####
 
+Link to an amendment published at 88 FR 5723, Jan. 30, 2023.
+
 (a) No handler shall ship any kiwifruit unless such kiwifruit meet the following requirements:
 
 (1) *Grade requirements.* Fresh shipments of kiwifruit shall be at least KAC No. 1 quality.

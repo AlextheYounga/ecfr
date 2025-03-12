@@ -1,5 +1,7 @@
 ##### § 4.1266 Determination on application concerning an order of cessation. #####
 
+Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
+
 (a) If the 5-day requirement of section 525(c) of the act is waived, the administrative law judge shall expeditiously conduct a hearing and render a decision on the application.
 
 (b) If there is no waiver of the 5-day requirement of section 525(c) of the act, the following special rules shall apply -

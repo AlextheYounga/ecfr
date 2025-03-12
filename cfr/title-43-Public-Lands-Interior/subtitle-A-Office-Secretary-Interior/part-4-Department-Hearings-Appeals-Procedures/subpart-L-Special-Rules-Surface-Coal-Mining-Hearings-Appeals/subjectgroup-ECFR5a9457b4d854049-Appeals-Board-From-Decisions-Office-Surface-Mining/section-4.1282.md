@@ -1,5 +1,7 @@
 ##### § 4.1282 Appeals; how taken. #####
 
+Link to an amendment published at 88 FR 5796, Jan. 30, 2023.
+
 (a) A person appealing under this section shall file a written notice of appeal with the office of the OSM official whose decision is being appealed and at the same time shall send a copy of the notice to the Board of Land Appeals, 801 North Quincy Street, Arlington, Va. 22203.
 
 (b) The notice of appeal shall be filed within 20 days from the date of receipt of the decision. If the person appealing has not been served with a copy of the decision, such appeal must be filed within 30 days of the date of the decision.

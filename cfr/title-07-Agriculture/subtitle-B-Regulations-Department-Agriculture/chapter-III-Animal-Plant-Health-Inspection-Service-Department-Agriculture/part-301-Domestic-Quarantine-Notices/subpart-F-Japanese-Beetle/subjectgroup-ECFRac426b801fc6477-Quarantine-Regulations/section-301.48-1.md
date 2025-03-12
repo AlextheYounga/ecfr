@@ -1,7 +1,5 @@
 ##### § 301.48-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
-
 Terms used in the singular form in this subpart shall be deemed to import the plural and vice versa, as the case may demand. The following terms, when used in this subpart shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any person authorized to act for the Administrator.
@@ -18,7 +16,7 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Person.* Any individual, corporation, company, partnership, society, or association, or other organized group of any of the foregoing.
 
-*Regulated airport.* Any airport or portions of an airport in a quarantined State declared regulated in accordance with provisions in § 301.48-2 of this subpart.
+*Regulated airport.* Any airport or portions of an airport in a quarantined State declared regulated in accordance with provisions in § 301.48-2.
 
 *Regulated articles.* Aircraft at or from regulated airports.
 
@@ -26,4 +24,4 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *State Plant Regulatory Official.* The authorized official of a State who has responsibility for the operation of the State plant regulatory program.
 
-[44 FR 24035, Apr. 24, 1979, as amended at 61 FR 32640, June 25, 1996; 70 FR 33268, June 7, 2005]
+[44 FR 24035, Apr. 24, 1979, as amended at 61 FR 32640, June 25, 1996; 70 FR 33268, June 7, 2005; 87 FR 80006, Dec. 29, 2022]

@@ -1,10 +1,8 @@
 ##### § 301.55-5 Issuance and cancellation of certificates and limited permits. #####
 
-Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
+(a) An inspector1 may issue a certificate for the interstate movement of a regulated article if the inspector determines that:
 
-(a) An inspector4 may issue a certificate for the interstate movement of a regulated article if the inspector determines that:
-
-4 Services of an inspector may be requested by contacting local offices of Plant Protection and Quarantine, which are listed in telephone directories.
+1 Services of an inspector may be requested by contacting local offices of Plant Protection and Quarantine, which are listed in telephone directories.
 
 (1) The regulated article to be moved and all other regulated articles on the premises have been grown and maintained indoors in a shadehouse or greenhouse and no other cactus moth host material exists on the premises outside of a shadehouse or greenhouse;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
 
 (d) Any certificate or limited permit that has been issued may be canceled, either orally or in writing, by an inspector whenever the inspector determines that the holder of the limited permit has not complied with this subpart or any conditions imposed under this subpart. If the cancellation is oral, the cancellation will become effective immediately, and the cancellation and the reasons for the cancellation will be confirmed in writing as soon as circumstances permit. Any person whose certificate or limited permit has been canceled may appeal the decision in writing to the Administrator within 10 days after receiving the written cancellation notice. The appeal must state all of the facts and reasons that the person wants the Administrator to consider in deciding the appeal. A hearing may be held to resolve a conflict as to any material fact. Rules of practice for the hearing will be adopted by the Administrator. As soon as practicable, the Administrator will grant or deny the appeal, in writing, stating the reasons for the decision.
 
-(Approved by the Office of Management and Budget under control number 0579-0337)
+(Approved by the Office of Management and Budget under control number 0579-0337)[74 FR 27073, June 8, 2009, as amended at 87 FR 80008, Dec. 29, 2022]

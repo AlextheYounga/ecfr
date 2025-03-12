@@ -1,10 +1,8 @@
 ##### § 301.74-4 Conditions governing the interstate movement of regulated articles from quarantined areas. #####
 
-Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
+The interstate movement of any regulated article from a quarantined area1 is prohibited except when:
 
-The interstate movement of any regulated article from a quarantined area2 is prohibited except when:
-
-2 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
+1 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 
 (a) The regulated article is moved by the United States Department of Agriculture:
 
@@ -23,3 +21,5 @@ The interstate movement of any regulated article from a quarantined area2 is pro
 (2) The regulated article's point of origin is indicated on the waybill; and
 
 (3) The regulated article must not be uncovered, unpacked, or unloaded while moving through the quarantined area.
+
+[74 FR 27073, June 8, 2009, as amended at 87 FR 80009, Dec. 29, 2022]

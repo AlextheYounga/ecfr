@@ -1,5 +1,7 @@
 ##### § 803.9 Filing fee. #####
 
+Link to an amendment published at 88 FR 5750, Jan. 30, 2023.
+
 (a) Each acquiring person shall pay the filing fee required by the act to the Federal Trade Commission, except as provided in paragraphs (b), (c) and (f) of this section. No additional fee is to be submitted to the Antitrust Division of the Department of Justice.
 
 Examples:1. “A” wishes to acquire voting securities issued by B, where the greater of the acquisition price and the market price is in excess of $50 million (as adjusted) but less than $100 million (as adjusted) pursuant to § 801.10. When “A” files notification for the transaction, it must indicate the $50 million (as adjusted) threshold and pay a filing fee of $45,000 because the aggregate total amount of the acquisition is less than $100 million (as adjusted), but greater than $50 million (as adjusted).

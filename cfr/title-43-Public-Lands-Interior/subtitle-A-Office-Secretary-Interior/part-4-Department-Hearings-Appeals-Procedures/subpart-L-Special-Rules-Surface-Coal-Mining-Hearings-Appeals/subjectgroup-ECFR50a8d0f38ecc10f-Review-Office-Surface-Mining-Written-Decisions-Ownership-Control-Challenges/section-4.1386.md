@@ -1,5 +1,7 @@
 ##### § 4.1386 Petition for temporary relief from decision; appeals from decisions granting or denying temporary relief. #####
 
+Link to an amendment published at 88 FR 5796, Jan. 30, 2023.
+
 (a) Any party may file a petition for temporary relief from the decision of OSM in conjunction with the filing of the request for review or at any time before an initial decision is issued by the administrative law judge.
 
 (b) The petition for temporary relief shall be filed with the administrative law judge to whom the request for review has been assigned. If none has been assigned, the petition shall be filed with the Hearings Division, Office of Hearings and Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, Virginia 22203 (Telephone 703-235-3800).

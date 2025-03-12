@@ -1,5 +1,7 @@
 ##### § 4.323 Who receives service of the notice of appeal? #####
 
+Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
+
 (a) The appellant must deliver or mail the original notice of appeal to the Board.
 
 (b) A copy of the notice of appeal must be served on the judge whose decision is being appealed, as well as on every other interested party.

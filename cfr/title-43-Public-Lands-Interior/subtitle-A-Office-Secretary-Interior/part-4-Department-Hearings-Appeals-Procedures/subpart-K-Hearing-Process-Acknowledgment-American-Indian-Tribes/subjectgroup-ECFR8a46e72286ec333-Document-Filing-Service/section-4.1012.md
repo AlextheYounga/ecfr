@@ -1,5 +1,7 @@
 ##### § 4.1012 Where and how must documents be filed? #####
 
+Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
+
 (a) *Place of filing.* Any documents relating to a case under this subpart must be filed with DCHD. DCHD's address, telephone number, and facsimile number are set forth at *www.doi.gov/oha/dchd/index.cfm.*
 
 (b) *Method of filing.* (1) Unless otherwise ordered by the ALJ, a document must be filed with DCHD using one of the following methods:

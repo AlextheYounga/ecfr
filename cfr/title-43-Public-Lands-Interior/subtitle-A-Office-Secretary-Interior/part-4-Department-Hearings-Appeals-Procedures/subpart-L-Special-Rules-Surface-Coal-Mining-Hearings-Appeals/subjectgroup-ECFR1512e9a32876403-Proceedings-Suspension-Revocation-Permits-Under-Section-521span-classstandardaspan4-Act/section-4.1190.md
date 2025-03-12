@@ -1,5 +1,7 @@
 ##### § 4.1190 Initiation of proceedings. #####
 
+Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
+
 (a) A proceeding on a show cause order issued by the Director of OSM pursuant to section 521(a)(4) of the Act shall be initiated by the Director of OSM filing a copy of such an order with the Hearings Division, OHA, 801 N. Quincy Street, Suite 300, Arlington, VA 22203, promptly after the order is issued to the permittee.
 
 (b) A show cause order filed with OHA shall set forth -

@@ -1,19 +1,11 @@
 ##### § 301.87-3 Regulated areas. #####
 
-(a) Except as otherwise provided in paragraph (b) of this section, the Deputy Administrator shall list as a regulated area in paragraph (c) of this section, each quarantined State, or each portion thereof, in which a sugarcane disease has been found by an inspector or in which the Deputy Administrator has reason to believe that a sugarcane disease is present, or each portion of a quarantined State which the Deputy Administrator deems necessary to regulate because of its proximity to a sugarcane disease or its inseparability for quarantine enforcement purposes from localities in which a sugarcane disease occurs. Less than an entire quarantined State will be designated as a regulated area only if the Deputy Administrator is of the opinion that:
+(a) Except as otherwise provided in paragraph (b) of this section, the Deputy Administrator will list as a regulated area each State or portion of a State in which a sugarcane disease has been found by an inspector, or in which the Deputy Administrator has reason to believe a sugarcane disease is present, or that the Deputy Administrator deems necessary to regulate based on its proximity to a sugarcane disease or its inseparability for enforcement purposes from localities where a sugarcane disease occurs. The Deputy Administrator will publish a list of all regulated areas (the regulated areas list) on the PPQ website at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/plant-disease/sugarcane*. The list will include the date that the list was last updated. Lists of all quarantined areas may also be obtained by request from any local PPQ office; local offices are listed in telephone directors and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd*. After a change is made to the list of regulated areas, APHIS will publish a notice in the Federal Register informing the public that the change has occurred and describing the change to regulated areas. Less than an entire State will be designated as a regulated area only if the Administrator determines that:
 
-(1) The State has adopted and is enforcing a quarantine or regulation which imposes restrictions on the intrastate movement of the regulated articles which are substantially the same as those which are imposed with respect to the interstate movement of such articles under this subpart; and
+(1) The State has adopted and is enforcing restrictions on the intrastate movement of regulated articles that are substantially the same as those that are imposed by this subpart on the interstate movement of regulated articles; and
 
-(2) The designation of less than the entire State as a regulated area will otherwise be adequate to prevent the artificial interstate spread of a sugarcane disease.
+(2) The designation of less than the entire State as a regulated area will be adequate to prevent the artificial interstate spread of a sugarcane disease.
 
-(b) The Deputy Administrator or an inspector may temporarily designate any nonregulated area in a quarantined State as a regulated area in accordance with the criteria specified in paragraph (a) of this section for listing such an area. Written notice of the designation shall be given to the owner or person in possession of the nonregulated area and, thereafter, the interstate movement of any regulated article from the area shall be subject to the applicable provisions of this subpart. As soon as practicable, the area shall be added to the list in paragraph (c) of this section or the designation shall be terminated by the Deputy Administrator or an inspector, and notice thereof shall be given to the owner or person in possession of the area.
+(b) The Deputy Administrator or an inspector may temporarily designate any nonregulated area as a regulated area in accordance with the criteria specified in paragraph (a) of this section for listing such an area. Written notice of the designation will be given to the owner or person in possession of the nonregulated area. Thereafter, the interstate movement of any regulated article from the area will be subject to this subpart. As soon as practicable, the area will either be added to the regulated areas list, or the Deputy Administrator or an inspector will terminate the designation. Notice thereof will be given the owner or person in possession of the area.
 
-(c) The areas described below are designated as regulated areas;
-
-Hawaii
-
-All of Hawaii.
-
-Puerto Rico.
-
-All of Puerto Rico.
+[87 FR 80015, Dec. 29, 2022]

@@ -10,7 +10,7 @@
 
 (c) *Determining proportional share.* (1) To determine the proportional share of funds for equitable services to students and teachers in non-public elementary and secondary schools for each CARES Act program, an LEA must use one of the following measures. The LEA need not use the same measure for each CARES Act program.
 
-(i) An LEA using *all* its funds under a CARES Act program to serve *only* students and teachers in public schools participating under Title I, Part A of the ESEA may calculate the proportional share in accordance with paragraph (c)(1)(ii) of this section or by using -
+(i) An LEA using *all* its funds under a CARES Act program to serve *only* students and teachers in public schools participating under Title I, Part A of the ESEA may calculate the proportional share in accordance with paragraph (c)(1)(ii) of this section or by using—
 
 (A) The proportional share of Title I, Part A funds it calculated under section 1117(a)(4)(A) of the ESEA for the 2019-2020 school year; or
 
@@ -28,7 +28,7 @@
 
 (e) *Secular, neutral, and nonideological.* Educational services and benefits, including materials and equipment, an LEA provides to students and teachers in non-public elementary and secondary schools under the CARES Act programs must be secular, neutral, and nonideological.
 
-(f) *Public control of funds.* An LEA must -
+(f) *Public control of funds.* An LEA must—
 
 (1) Maintain control of CARES Act funds;
 

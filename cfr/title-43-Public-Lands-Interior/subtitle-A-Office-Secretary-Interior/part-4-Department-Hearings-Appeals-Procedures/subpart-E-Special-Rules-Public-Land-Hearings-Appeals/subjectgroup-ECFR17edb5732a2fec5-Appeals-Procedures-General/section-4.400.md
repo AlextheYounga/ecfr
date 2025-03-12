@@ -1,5 +1,7 @@
 ##### § 4.400 Definitions. #####
 
+Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
+
 As used in this subpart:
 
 *Administrative law judge* means an administrative law judge in the Office of Hearings and Appeals, appointed under 5 U.S.C. 3105.

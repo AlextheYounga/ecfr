@@ -1,5 +1,7 @@
 ##### § 4.1100 Definitions. #####
 
+Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
+
 As used in the regulations in this subpart, the term -
 
 (a) *Act* means the Surface Mining Control and Reclamation Act of 1977, 91 Stat. 445 *et seq.,* 30 U.S.C. 1201 *et seq.*

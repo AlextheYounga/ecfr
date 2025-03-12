@@ -1,10 +1,8 @@
 ##### § 301.55-4 Conditions governing the interstate movement of regulated articles from quarantined areas. #####
 
-Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
+Any regulated article may be moved interstate from a quarantined area1 only if moved under the following conditions:
 
-Any regulated article may be moved interstate from a quarantined area3 only if moved under the following conditions:
-
-3 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
+1 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 
 (a) With a certificate or limited permit issued and attached in accordance with §§ 301.555 and 301.55-8;
 
@@ -27,3 +25,5 @@ Any regulated article may be moved interstate from a quarantined area3 only if m
 (3) Under conditions specified on the departmental permit and found by the Administrator to be adequate to prevent the spread of the South American cactus moth; and
 
 (4) With a tag or label bearing the number of the departmental permit issued for the regulated article attached to the outside of the container of the regulated article or attached to the regulated article itself if not in a container.
+
+[74 FR 27073, June 8, 2009, as amended at 87 FR 80008, Dec. 29, 2022]

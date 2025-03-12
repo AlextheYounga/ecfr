@@ -1,8 +1,6 @@
-##### § 301.85-3 Conditions governing the interstate movement of regulated articles from quarantined States.2 #####
+##### § 301.85-3 Conditions governing the interstate movement of regulated articles from quarantined States. #####
 
-2 Requirements under all other applicable Federal domestic plant quarantines must also be met.
-
-(a) Any regulated articles except soil samples for processing, testing, or analysis may be moved interstate from any quarantined State under the following conditions:
+(a) Any regulated articles except soil samples for processing, testing, or analysis may be moved interstate from any quarantined State under the following conditions:1
 
 (1) With certificate or permit issued and attached in accordance with §§ 301.85-4 and 301.85-7 if moved:
 
@@ -18,7 +16,7 @@
 
 (2) From any regulated area, without certificate or permit if moved:
 
-(i) Under the provisions of § 301.85-2b which exempts certain articles from certificate and permit requirements; or
+(i) Under the provisions of § 301.85-2(d) which exempts certain articles from certificate and permit requirements; or
 
 (ii) From a generally infested area to a contiguous generally infested area; or
 
@@ -34,14 +32,12 @@
 
 (ii) Without a certificate or permit, if:
 
-(*a*) The regulated articles are exempt from certification and permit requirements under the provisions of § 301.85-2b; or
+(A) The regulated articles are exempt from certification and permit requirements under the provisions of § 301.85-2(d); or
 
-(*b*) The point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
+(B) The point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
-(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing or analysis may be moved interstate from any regulated area only to laboratories approved3 by the Deputy Administrator and so listed by him in a supplemental regulation.4 A certificate or permit is not required to be attached to such soil samples except in those situations where the Deputy Administrator has authorized such movement only with a certificate or permit issued and attached in accordance with §§ 301.85-4 and 301.85-7. A certificate or permit is not required to be attached to soil samples originating in areas outside of the regulated areas if the point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
+(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing or analysis may be moved interstate from any regulated area only to laboratories approved2 by the Deputy Administrator. A certificate or permit is not required to be attached to such soil samples except in those situations where the Deputy Administrator has authorized such movement only with a certificate or permit issued and attached in accordance with §§ 301.85-4 and 301.85-7. A certificate or permit is not required to be attached to soil samples originating in areas outside of the regulated areas if the point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
-3 Pamphlets containing provisions for laboratory approval may be obtained from the Deputy Administrator, Plant Protection and Quarantine Programs, APHIS, U.S. Department of Agriculture, Washington, DC 20250.
+2 Provisions for laboratory approval may be obtained from your State's State Plant Health Director. Contact information can be found at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/CT\_SPHD*.
 
-4 For list of approved laboratories, see PP 639 (37 FR 7813, 15525, and amendments thereof).
-
-[37 FR 24330, Nov. 16, 1972, as amended at 67 FR 8465, Feb. 25, 2002]
+[37 FR 24330, Nov. 16, 1972, as amended at 67 FR 8465, Feb. 25, 2002; 87 FR 80014, Dec. 29, 2022]

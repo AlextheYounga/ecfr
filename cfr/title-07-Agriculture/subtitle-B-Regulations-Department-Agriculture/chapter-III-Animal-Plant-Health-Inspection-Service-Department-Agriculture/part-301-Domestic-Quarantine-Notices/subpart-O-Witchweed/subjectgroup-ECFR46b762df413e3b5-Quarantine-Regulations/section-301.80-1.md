@@ -1,7 +1,5 @@
 ##### § 301.80-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
-
 Terms used in the singular form in this subpart shall be deemed to import the plural, and vice versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Certificate.* A document issued or authorized to be issued under this subpart by an inspector to allow the interstate movement of regulated articles to any destination.
@@ -32,9 +30,9 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Plant Protection and Quarantine Programs.* The organizational unit with the Animal and Plant Health Inspection Service, U.S. Department of Agriculture, delegated responsibility for enforcing provisions of the Plant Protection Act and related legislation, quarantines, and regulations.
 
-*Regulated area.* Any quarantined State, or any portion thereof, designated as a regulated area in § 301.80-2a or otherwise designated as a regulated area in accordance with § 301.80-2(b).
+*Regulated area.* Any quarantined State, or any portion thereof, designated as a regulated area in accordance with § 301.80-2.
 
-*Regulated articles.* Any articles described in § 301.80(b).
+*Regulated articles.* Any article identified as a regulated article under § 301.80 as follows: listed as of January 30, 2023, added in accordance with § 301.80(d), or otherwise designated in accordance with § 301.80(e).
 
 *Restricted destination permit.* A document issued or authorized to be issued by an inspector to allow the interstate movement of regulated articles not certifiable under all applicable Federal domestic plant quarantines to a specified destination for other than scientific purposes.
 
@@ -44,7 +42,7 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *State.* Any State, territory, or district of the United States, including Puerto Rico.
 
-*Suppressive area.* That portion of a regulated area where eradication of infestation is undertaken as an objective, as designated by the Deputy Administrator under § 301.80-2(a).
+*Suppressive area.* That portion of a regulated area where eradication of infestation is undertaken as an objective.
 
 *Treatment Manual.* The provisions currently contained in the “Manual of Administratively Authorized Procedures to be Used Under the Witchweed Quarantine” and the “Fumigation Procedures Manual” and any amendments thereto.1
 
@@ -52,4 +50,4 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Witchweed.* Parasitic plants of the genus *Striga* and reproductive parts thereof, including seeds.
 
-[41 FR 27372, July 2, 1976, as amended at 66 FR 21052, Apr. 27, 2001]
+[41 FR 27372, July 2, 1976, as amended at 66 FR 21052, Apr. 27, 2001; 87 FR 80011, Dec. 29, 2022]

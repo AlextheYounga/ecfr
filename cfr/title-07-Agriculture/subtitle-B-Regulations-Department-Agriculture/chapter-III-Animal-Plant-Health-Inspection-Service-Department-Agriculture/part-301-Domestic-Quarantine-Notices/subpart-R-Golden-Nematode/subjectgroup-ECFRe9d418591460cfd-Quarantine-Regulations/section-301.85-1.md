@@ -1,7 +1,5 @@
 ##### § 301.85-1 Definitions. #####
 
-Link to an amendment published at 87 FR 80014, Dec. 29, 2022.
-
 Terms used in the singular form in this subpart shall be deemed to import the plural and vice versa, as the case may demand. The following terms, when used in this subpart shall be construed respectively to mean:
 
 *Certificate.* A document issued or authorized to be issued under this subpart by an inspector to allow the interstate movement of regulated articles to any destination.
@@ -12,7 +10,7 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Farm tools.* An instrument worked or used by hand, e.g., hoes, rakes, shovels, axes, hammers, and saws.
 
-*Generally infested area.* Any part of a regulated area not designated as a suppressive area in accordance with § 301.85-2.
+*Generally infested area.* Any part of a regulated area not designated as a suppressive area.
 
 *Golden nematode.* The nematode known as the golden nematode (*Globodera rostochiensis*), in any stage of development.
 
@@ -34,9 +32,9 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Plant Protection and Quarantine Programs.* The organizational unit within the Animal and Plant Health Inspection Service, U.S. Department of Agriculture, delegated responsibility for enforcing provisions of the Plant Protection Act and related legislation, quarantines, and regulations.
 
-*Regulated area.* Any quarantined State, or any portion thereof, listed as a regulated area in § 301-85-2a, or otherwise designated as a regulated area in accordance with § 301.85-2(b).
+*Regulated area.* Any quarantined State, or any portion thereof, listed as a regulated area in accordance with § 301.85-2.
 
-*Regulated article.* Any articles as described in § 301.85(b).
+*Regulated article.* Any article identified as a regulated article under § 301.85 as follows: listed as of January 30, 2023, added in accordance with § 301.85(d), or otherwise designated in accordance with § 301.85(e).
 
 *Restricted destination permit.* A document issued or authorized to be issued by an inspector to allow the interstate movement of regulated articles not certifiable under all applicable Federal domestic plant quarantines to a specified destination for other than scientific purposes.
 
@@ -46,6 +44,6 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *State.* Any State, territory, or district of the United States, including Puerto Rico.
 
-*Suppressive area.* That portion of a regulated area where eradication of infestation is undertaken as an objective, as designated under § 301.85-2(a).
+*Suppressive area.* That portion of a regulated area where eradication of infestation is undertaken as an objective.
 
-[37 FR 24330, Nov. 16, 1972, as amended at 47 FR 12331, Mar. 23, 1982; 66 FR 21052, Apr. 27, 2001; 67 FR 8465, Feb. 25, 2002; 70 FR 33268, June 7, 2005]
+[37 FR 24330, Nov. 16, 1972, as amended at 47 FR 12331, Mar. 23, 1982; 66 FR 21052, Apr. 27, 2001; 67 FR 8465, Feb. 25, 2002; 70 FR 33268, June 7, 2005; 87 FR 80014, Dec. 29, 2022]

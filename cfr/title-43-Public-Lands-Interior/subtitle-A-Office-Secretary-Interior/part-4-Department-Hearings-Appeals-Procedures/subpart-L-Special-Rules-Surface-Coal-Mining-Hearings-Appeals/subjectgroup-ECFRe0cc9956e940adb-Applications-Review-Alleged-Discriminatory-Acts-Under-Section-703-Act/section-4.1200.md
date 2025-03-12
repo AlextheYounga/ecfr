@@ -1,5 +1,7 @@
 ##### § 4.1200 Filing of the application for review with the Office of Hearings and Appeals. #####
 
+Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
+
 (a) Pursuant to 30 CFR 865.13, within 7 days of receipt of an application for review of alleged discriminatory acts, OSM shall file a copy of the application in the Hearings Division, OHA, 801 N. Quincy Street, Suite 300, Arlington, VA 22203. OSM shall also file in the Hearings Division, OHA, Arlington, VA, a copy of any answer submitted in response to the application for review.
 
 (b) The application for review, as filed in the Hearings Division, OHA, shall be held in suspense until one of the following takes place -

@@ -1,5 +1,7 @@
 ##### § 1740.80 Accounting, monitoring, and reporting requirements. #####
 
+Link to an amendment published at 88 FR 5727, Jan. 30, 2023.
+
 (a) Awardees must adopt a system of accounts for maintaining financial records acceptable to the Agency, as described in 7 CFR part 1770, subpart B.
 
 (b) Awardees must submit annual comparable audited financial statements along with a report on compliance and on internal control over financial reporting, and management letter in accordance with the requirements of 7 CFR part 1773 using the RUS' on-line reporting system. The Certified Public Accountant (CPA) conducting the annual audit is selected by the borrower and must be satisfactory to RUS as set forth in 7 CFR 1773, subpart B, “RUS Audit Requirements.”

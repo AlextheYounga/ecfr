@@ -1,5 +1,7 @@
 ##### § 4.1107 Filing of documents. #####
 
+Link to an amendment published at 88 FR 5795, Jan. 30, 2023.
+
 (a) Any initial pleadings in a proceeding to be conducted or being conducted by an administrative law judge under these rules shall be filed, by hand or by mail, with the Hearings Division, Office of Hearings and Appeals, Department of the Interior, 801 North Quincy Street, Arlington, Va. 22203.
 
 (b) Where a proceeding has been assigned to an administrative law judge, the parties will be notified by the Chief Administrative Law Judge of the name and address of the administrative law judge assigned to the case and thereafter all further documents shall be filed with the Administrative Law Judge, Office of Hearings and Appeals, at the address designated in the notice.

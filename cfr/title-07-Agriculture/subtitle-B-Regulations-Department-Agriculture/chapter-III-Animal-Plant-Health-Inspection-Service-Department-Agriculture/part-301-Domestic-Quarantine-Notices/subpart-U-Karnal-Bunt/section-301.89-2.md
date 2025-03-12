@@ -1,25 +1,11 @@
 ##### § 301.89-2 Regulated articles. #####
 
-Link to an amendment published at 87 FR 80016, Dec. 29, 2022.
+(a) *List of regulated articles.* The Administrator has determined that certain articles present a risk of spreading Karnal bunt. A list of all such articles is found on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/karnal-bunt/ct\_karnal\_bunt*. Lists of all regulated articles may also be obtained by request from any local Plant Protection and Quarantine (PPQ) office; local offices are listed in telephone directories and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd*.
 
-The following are regulated articles:
+(b) *Normal process for designating additional regulated articles.* (1) If the Administrator determines that an article not already listed presents a risk of spreading Karnal bunt, APHIS will publish a notice in the Federal Register proposing to designate the article as a regulated article for Karnal bunt. The notice will provide the basis for this determination, and will request public comment.
 
-(a) Conveyances, including trucks, railroad cars, and other containers used to move host crops produced in a regulated area that have tested positive for Karnal bunt through the presence of bunted kernels;
+(2) If no comments are received on the notice, or if the comments do not change the Administrator's determination, APHIS will publish a second notice in the Federal Register designating the article as a regulated article for Karnal bunt and listing it.
 
-(b) Grain elevators/equipment/structures used for storing and handling host crops produced in a regulated area that have tested positive for Karnal bunt through the presence of bunted kernels;
+(c) *Immediate designation of regulated articles.* Any other article, product, or means of conveyance not already listed in accordance with paragraph (a) of this section may be designated a regulated article on an immediate basis if an inspector determines that it presents a risk of spreading Karnal bunt, and notifies the person in possession of the article, product, or means of conveyance that it is now subject to the restrictions of this subpart.
 
-(c) Seed conditioning equipment and storage/handling equipment/structures that have been used in the production of wheat, durum wheat, and triticale found to contain the spores of *Tilletia indica;*
-
-(d) Plants or plant parts (including grain, seed, and straw) and hay cut after reaching the dough stage of all varieties of wheat (*Triticum aestivum*), durum wheat (*Triticum durum*), and triticale (*Triticum aestivum* × *Secale cereale*) that are produced in a regulated area, except for straw/stalks/seed heads for decorative purposes that have been processed or manufactured prior to movement and are intended for use indoors;
-
-(e) *Tilletia indica* (Mitra) Mundkur;
-
-(f) Mechanized harvesting equipment that has been used in the production of wheat, durum wheat, or triticale that has tested positive for Karnal bunt through the presence of bunted kernels; and
-
-(g) Any other product, article, or means of conveyance when:
-
-(1) An inspector determines that it presents a risk of spreading Karnal bunt based on appropriate testing and the intended use of the product, article, or means of conveyance; and
-
-(2) The person in possession of the product, article, or means of conveyance has been notified that it is regulated under this subpart.
-
-[69 FR 8095, Feb. 23, 2004]
+[87 FR 80016, Dec. 29, 2022]

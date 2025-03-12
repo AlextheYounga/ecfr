@@ -1,5 +1,7 @@
 ##### § 4.1013 How must documents be served? #####
 
+Link to an amendment published at 88 FR 5794, Jan. 30, 2023.
+
 (a) *Filed documents.* Any document related to a case under this subpart must be served at the same time the document is delivered or sent for filing. Copies must be served on each party, using one of the methods of service in paragraph (c) of this section.
 
 (b) *Documents issued by DCHD or the ALJ.* A complete copy of any notice, order, recommended decision, or other document issued by DCHD or the ALJ under this subpart must be served on each party, using one of the methods of service in paragraph (c) of this section.

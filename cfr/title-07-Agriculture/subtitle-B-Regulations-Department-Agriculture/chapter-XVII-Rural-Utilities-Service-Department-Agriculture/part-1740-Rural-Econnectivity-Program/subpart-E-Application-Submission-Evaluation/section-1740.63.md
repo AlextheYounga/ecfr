@@ -1,5 +1,7 @@
 ##### § 1740.63 Financial information. #####
 
+Link to an amendment published at 88 FR 5727, Jan. 30, 2023.
+
 (a) The Applicant must submit financial information acceptable to the Agency that demonstrates that the Applicant has the financial capacity to fulfill the grant, loan, and loan/grant combination requirements in this part and to successfully complete the proposed project.
 
 (1) Applicants must submit unqualified, comparative, audited financial statements for the previous year from the date the application is submitted. If an application is submitted and the most recent year-end audit has not been completed, the applicant can submit the previous unqualified audit that has been completed. If qualified audits containing a disclaimer or adverse opinion are submitted, the application will not be considered.

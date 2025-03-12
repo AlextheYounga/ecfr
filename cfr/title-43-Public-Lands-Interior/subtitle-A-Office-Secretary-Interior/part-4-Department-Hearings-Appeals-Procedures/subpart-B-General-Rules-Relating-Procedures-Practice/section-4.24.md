@@ -1,5 +1,7 @@
 ##### § 4.24 Basis of decision. #####
 
+Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+
 (a) *Record.* (1) The record of a hearing shall consist of the transcript of testimony or summary of testimony and exhibits together with all papers and requests filed in the hearing.
 
 (2) If a hearing has been held on an appeal pursuant to instructions of an Appeals Board, this record shall be the sole basis for decision insofar as the referred issues of fact are involved except to the extent that official notice may be taken of a fact as provided in paragraph (b) of this section.

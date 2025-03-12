@@ -1,10 +1,8 @@
 ##### § 301.32-4 Conditions governing the interstate movement of regulated articles from quarantined areas. #####
 
-Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
+Any regulated article may be moved interstate from a quarantined area1 only if moved under the following conditions:
 
-Any regulated article may be moved interstate from a quarantined area2 only if moved under the following conditions:
-
-2 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
+1 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 
 (a) With a certificate or limited permit issued and attached in accordance with §§ 301.32-5 and 301.32-8;
 
@@ -46,4 +44,4 @@ Any regulated article may be moved interstate from a quarantined area2 only if m
 
 (3) *Packinghouse requirements for Hass avocados packed outside a quarantined area but grown within a quarantined area.* Hass avocados grown in an orchard within a quarantined area but packed in a packinghouse outside the quarantined area must meet the requirements of paragraph (d)(2)(iii) of this section.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0088 and 0579-0336)[73 FR 32432, June 9, 2008, as amended at 74 FR 31159, June 30, 2009; 75 FR 12962, Mar. 18, 2010; 76 FR 43807, July 22, 2011]
+(Approved by the Office of Management and Budget under control numbers 0579-0088 and 0579-0336)[73 FR 32432, June 9, 2008, as amended at 74 FR 31159, June 30, 2009; 75 FR 12962, Mar. 18, 2010; 76 FR 43807, July 22, 2011; 88 FR 80004, Dec. 29, 2022]

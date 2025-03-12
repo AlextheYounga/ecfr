@@ -1,5 +1,7 @@
 ##### § 4.22 Documents. #####
 
+Link to an amendment published at 88 FR 5792, Jan. 30, 2023.
+
 (a) *Filing of documents.* A document is filed in the office where the filing is required only when the document is received in that office during its regular business hours and by a person authorized to receive it. A document received after the office's regular business hours is considered filed on the next business day.
 
 (b) *Service generally.* A copy of each document filed in a proceeding before the Office of Hearings and Appeals must be served by the filing party on the other party or parties in the case, except as otherwise provided by § 4.31. In all cases where a party is represented by an attorney, such attorney will be recognized as fully controlling the case on behalf of his/her client, and service of any document relating to the proceeding shall be made upon such attorney in addition to any other service specifically required by law or by order of a presiding official or an appeals board. Where a party is represented by more than one attorney, service upon one of the attorneys shall be sufficient.

@@ -1,13 +1,11 @@
 ##### § 301.55-2 Regulated articles. #####
 
-Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
+(a) *List of regulated articles.* The Administrator has determined that certain articles present a risk of spreading the South American cactus moth. A list of all such regulated articles is found on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/sa\_insects/south-american-cactus-moth.* Lists of all regulated articles may also be obtained by request from any local office of PPQ; local offices are listed in telephone directories and on the internet at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/sphd.*
 
-The following are regulated articles:
+(b) *Normal process for designating additional regulated articles.* (1) If the Administrator determines that an article not already listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/sa\_insects/south-american-cactus-moth* presents a risk of spreading South American cactus moth, APHIS will publish a notice in the Federal Register proposing to designate the article as a regulated article for South American cactus moth. The notice will provide the basis for this determination, and will request public comment.
 
-(a) The South American cactus moth, in any living stage of its development.2
+(2) If no comments are received on the notice, or if the comments do not change the Administrator's determination, APHIS will publish a second notice in the Federal Register designating the article as a regulated article for South American cactus moth and listing it.
 
-2 Permit and other requirements for the interstate movement of South American cactus moths are contained in part 330 of this chapter.
+(c) *Immediate designation of regulated articles.* An inspector may designate any other product, article, or means of conveyance not listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/sa\_insects/south-american-cactus-moth* as a regulated article if the inspector determines it presents a risk of spreading the South American cactus moth, after the inspector provides written notification to the person in possession of the product, article, or means of conveyance that it is subject to the restrictions of this subpart.
 
-(b) Cactus plants or parts thereof (excluding seeds and canned, preserved, or frozen pads or fruits) of the following genera: *Consolea, Cylindropuntia, Nopalea,* and *Opuntia.*
-
-(c) Any other product, article, or means of conveyance not listed in paragraphs (a) or (b) of this section that an inspector determines presents a risk of spreading the South American cactus moth, after the inspector provides written notification to the person in possession of the product, article, or means of conveyance that it is subject to the restrictions of this subpart.
+[87 FR 80007, Dec. 29, 2022]

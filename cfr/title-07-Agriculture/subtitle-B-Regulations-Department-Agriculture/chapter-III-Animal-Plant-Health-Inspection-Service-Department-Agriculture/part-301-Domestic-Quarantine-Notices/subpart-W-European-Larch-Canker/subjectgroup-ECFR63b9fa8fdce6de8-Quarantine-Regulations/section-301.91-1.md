@@ -24,10 +24,10 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *Plant Protection and Quarantine.* The organizational unit within the Animal and Plant Health Inspection Service, U.S. Department of Agriculture, delegated responsibility for enforcing provisions of the Plant Protection Act and related legislation, quarantines, and regulations.
 
-*Regulated area.* Any State, or any portion thereof, listed in § 301.91-3(c) or otherwise designated as a regulated area in accordance with § 301.91-3(b).
+*Regulated area.* Any State, or any portion thereof, listed in accordance with § 301.91-3.
 
-*Regulated article.* Any article listed in § 301.91-2(a) or otherwise designated as a regulated article in accordance with § 301.91-2(b).
+*Regulated article.* Any article identified as a regulated article under § 301.91-2 as follows: listed as of January 30, 2023, added in accordance with § 301.91-2(b), or otherwise designated in accordance with § 301.91-2(c).
 
 *State.* Each of the several States of the United States, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States and all other Territories and Possessions of the United States.
 
-[49 FR 18992, May 4, 1984, as amended at 66 FR 21053, Apr. 27, 2001]
+[49 FR 18992, May 4, 1984, as amended at 66 FR 21053, Apr. 27, 2001; 87 FR 80017, Dec. 29, 2022]

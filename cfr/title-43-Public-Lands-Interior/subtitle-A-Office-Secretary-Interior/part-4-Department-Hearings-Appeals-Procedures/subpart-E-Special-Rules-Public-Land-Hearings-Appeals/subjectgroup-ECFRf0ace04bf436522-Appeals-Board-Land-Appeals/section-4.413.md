@@ -1,5 +1,7 @@
 ##### § 4.413 Service of notice of appeal. #####
 
+Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
+
 (a) The appellant must serve a copy of the notice of appeal on each person named in the decision from which the appeal is taken and on the Office of the Solicitor as identified in paragraphs (c) and (d) of this section. Service must be accomplished and certified as prescribed in § 4.401(c).
 
 (b) Failure to serve a notice of appeal will subject the appeal to summary dismissal as provided in § 4.402.

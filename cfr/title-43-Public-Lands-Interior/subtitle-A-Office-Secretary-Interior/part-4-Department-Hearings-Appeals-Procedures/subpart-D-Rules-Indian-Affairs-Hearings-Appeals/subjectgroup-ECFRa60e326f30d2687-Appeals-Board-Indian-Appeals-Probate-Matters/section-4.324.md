@@ -1,5 +1,7 @@
 ##### § 4.324 How is the record on appeal prepared? #####
 
+Link to an amendment published at 88 FR 5793, Jan. 30, 2023.
+
 (a) On receiving a copy of the notice of appeal, the judge whose decision is being appealed must notify:
 
 (1) The agency concerned; and

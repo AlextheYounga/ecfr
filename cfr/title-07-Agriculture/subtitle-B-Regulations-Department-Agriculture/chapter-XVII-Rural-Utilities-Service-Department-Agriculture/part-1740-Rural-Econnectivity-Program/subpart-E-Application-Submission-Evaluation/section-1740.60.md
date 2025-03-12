@@ -1,5 +1,7 @@
 ##### § 1740.60 Elements of a complete application. #####
 
+Link to an amendment published at 88 FR 5726, Jan. 30, 2023.
+
 (a) *Online application system.* All applications under this regulation must be submitted through the RUS Online Application System located on the Agency's web page. Additional information can be found in the Application Guide found on the Agency's web page.
 
 (b) *Dun and Bradstreet Universal Numbering System (DUNS) Number.* All applicants must register for a DUNS number, or other Government non-proprietary identifier as part of the application process. The applicant can obtain the DUNS number free of charge by calling Dun and Bradstreet. Go to *https://fedgov.dnb.com/webform* for more information on assignment of a DUNS number or confirmation. DUNS numbers of parent or affiliated operations cannot be substituted for the applicant. If a DUNS number is not provided, the application cannot be considered for an award.
