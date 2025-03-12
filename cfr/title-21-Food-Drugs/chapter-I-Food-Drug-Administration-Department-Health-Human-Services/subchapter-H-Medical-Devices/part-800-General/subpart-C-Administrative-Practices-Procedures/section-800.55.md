@@ -58,9 +58,9 @@
 
 (iii) The last sentence of § 16.24(e) of this chapter, stating that a hearing may not be required to be held at a time less than 2 working days after receipt of the request for a hearing, does not apply to a hearing under this section.
 
-(iv) Paragraph (g)(4) of this section, rather than § 16.42(a) of this chapter, describes the FDA employees, i.e., regional food and drug directors, who preside at hearings under this section.
+(iv) Paragraph (g)(4) of this section, rather than § 16.42(a) of this chapter, describes the FDA employees, *i.e.,* Office of Regulatory Affairs Program Directors or other FDA officials senior to an FDA District Director, who preside at hearings under this section.
 
-(4) The presiding officer of a regulatory hearing on an appeal of a detention order, who also shall decide the appeal, shall be a regional food and drug director (i.e., a director of an FDA regional office listed in part 5, subpart M of this chapter) who is permitted by § 16.42(a) of this chapter to preside over the hearing.
+(4) The presiding officer of a regulatory hearing on an appeal of a detention order, who also shall decide the appeal, shall be an Office of Regulatory Affairs Program Director or another FDA official senior to an FDA District Director who is permitted by § 16.42(a) of this chapter to preside over the hearing.
 
 (5) If the appellant requests a regulatory hearing and requests that the hearing be held within 5 working days after the appeal is filed, the presiding officer shall, within 5 working days, hold the hearing and render a decision affirming or revoking the detention.
 
@@ -98,4 +98,4 @@
 
 (2) Records required under this paragraph shall be maintained for a maximum period of 2 years after the issuance of the detention order or for such other shorter period as FDA directs. When FDA terminates the detention or when the detention period expires, whichever occurs first, FDA will advise all persons required under this paragraph to keep records concerning that detention whether further recordkeeping is required for the remainder of the 2-year, or shorter, period. FDA ordinarily will not require further recordkeeping if the agency determines that the devices are not adulterated or misbranded or that recordkeeping is not necessary to protect the public health, unless the records are required under other regulations in this chapter (e.g., the good manufacturing practice regulation in part 820 of this chapter).
 
-[44 FR 13239, Mar. 9, 1979, as amended at 49 FR 3174, Jan. 26, 1984; 69 FR 17292, Apr. 2, 2004; 79 FR 9412, Feb. 19, 2014]
+[44 FR 13239, Mar. 9, 1979, as amended at 49 FR 3174, Jan. 26, 1984; 69 FR 17292, Apr. 2, 2004; 79 FR 9412, Feb. 19, 2014; 82 FR 14147, Mar. 17, 2017]

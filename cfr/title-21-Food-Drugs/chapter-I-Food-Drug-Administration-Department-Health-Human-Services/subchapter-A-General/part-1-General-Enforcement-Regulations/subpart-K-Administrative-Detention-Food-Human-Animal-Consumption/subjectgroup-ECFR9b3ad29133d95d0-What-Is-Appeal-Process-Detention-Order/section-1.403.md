@@ -12,7 +12,7 @@ If FDA grants a request for an informal hearing on an appeal of a detention orde
 
 (e) Section 1.406, rather than § 16.24(f) of this chapter, describes the statement that will be provided to an appellant where a detention order is based on classified information;
 
-(f) Section 1.404, rather than § 16.42(a) of this chapter, describes the FDA employees, *e.g.*, Regional Food and Drug Directors or other officials senior to a District Director, who preside at hearings under this subpart;
+(f) Section 1.404, rather than § 16.42(a) of this chapter, describes the FDA employees, *i.e.,* Office of Regulatory Affairs Program Directors or other officials senior to a District Director, who preside at hearings under this subpart;
 
 (g) The presiding officer may require that a hearing conducted under this section be completed within 1 calendar day, as appropriate;
 
@@ -23,3 +23,5 @@ If FDA grants a request for an informal hearing on an appeal of a detention orde
 (j) No party shall have the right, under § 16.119 of this chapter to petition the Commissioner of Food and Drugs for reconsideration or a stay of the presiding officer's final agency decision.
 
 (k) If FDA grants a request for an informal hearing on an appeal of a detention order, the hearing must be conducted as a regulatory hearing pursuant to regulation in accordance with part 16 of this chapter, except that § 16.95(b) does not apply to a hearing under this subpart. With respect to a regulatory hearing under this subpart, the administrative record of the hearing specified in §§ 16.80(a)(1), (a)(2), (a)(3), and (a)(5), and 1.403(i) constitutes the exclusive record for the presiding officer's final decision on an administrative detention. For purposes of judicial review under § 10.45 of this chapter, the record of the administrative proceeding consists of the record of the hearing and the presiding officer's final decision.
+
+[69 FR 31701, June 4, 2004, as amended at 82 FR 14144, Mar. 17, 2017]

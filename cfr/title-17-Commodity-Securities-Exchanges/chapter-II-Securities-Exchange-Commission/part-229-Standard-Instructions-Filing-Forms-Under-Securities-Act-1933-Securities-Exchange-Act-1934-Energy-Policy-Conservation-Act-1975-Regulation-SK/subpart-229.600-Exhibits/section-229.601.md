@@ -1,5 +1,7 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
+Link to an amendment published at 82 FR 14141, Mar. 17, 2017.
+
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-32 (§ 240.12b-32 of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table shall be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which shall precede immediately the exhibits filed with such registration statement. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. The exhibit index shall indicate, by handwritten, typed, printed, or other legible form of notation in the manually signed original registration statement or report, the page number in the sequential numbering system where such exhibit can be found. Where exhibits are incorporated by reference, this fact shall be noted in the exhibit index referred to in the preceding sentence. Further, the first page of the manually signed registration statement shall list the page in the filing where the exhibit index is located. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.

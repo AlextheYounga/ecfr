@@ -1,3 +1,5 @@
-##### § 507.75 Presiding officer for an appeal and for an informal hearing. #####
+##### § 507.75 Residing officer for an appeal and for an informal hearing. #####
 
-The presiding officer for an appeal, and for an informal hearing, must be an FDA Regional Food and Drug Director or another FDA official senior to an FDA District Director.
+The presiding officer for an appeal, and for an informal hearing, must be an Office of Regulatory Affairs Program Director or another FDA official senior to an FDA District Director.
+
+[82 FR 14147, Mar. 17, 2017]
