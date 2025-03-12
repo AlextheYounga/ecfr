@@ -1,0 +1,3 @@
+##### § 217.22 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.26, the Holder of the LOA (hereinafter “NPS”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.20(b) by Level B harassment associated with research and monitoring activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

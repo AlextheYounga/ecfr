@@ -1,6 +1,6 @@
 ##### § 210.30 School nutrition program professional standards. #####
 
-Link to an amendment published at 84 FR 6959, Mar. 1, 2019.
+Link to an amendment published at 84 FR 6959, Mar. 1, 2019.Link to a correction published at 84 FR 8247, Mar. 7, 2019.
 
 (a) *General.* School food authorities that operate the National School Lunch Program, or the School Breakfast Program (7 CFR part 220), must establish and implement professional standards for school nutrition program directors, managers, and staff, as defined in § 210.2.
 

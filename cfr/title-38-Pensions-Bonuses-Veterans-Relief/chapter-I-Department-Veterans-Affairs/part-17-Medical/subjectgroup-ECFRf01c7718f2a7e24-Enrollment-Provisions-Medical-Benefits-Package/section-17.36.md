@@ -1,4 +1,4 @@
-##### § 17.36 Enrollment - provision of hospital and outpatient care to veterans. #####
+##### § 17.36 Enrollment—provision of hospital and outpatient care to veterans. #####
 
 (a) *Enrollment requirement for veterans.* (1) Except as otherwise provided in § 17.37, a veteran must be enrolled in the VA healthcare system as a condition for receiving the 'medical benefits package' set forth in § 17.38.
 
@@ -56,7 +56,7 @@ A veteran's enrollment status will be recognized throughout the United States.
 
 (2) Unless changed by a rulemaking document in accordance with paragraph (c)(1) of this section, VA will enroll the priority categories of veterans set forth in § 17.36(b) beginning June 15, 2009, except that those veterans in subcategories (v) and (vi) of priority category 8 are not eligible to be enrolled.
 
-(d) *Enrollment and disenrollment process* - (1) *Application for enrollment.* A veteran who wishes to be enrolled must apply by submitting a VA Form 10-10EZ:
+(d) *Enrollment and disenrollment process*—(1) *Application for enrollment.* A veteran who wishes to be enrolled must apply by submitting a VA Form 10-10EZ:
 
 (i) To a VA medical facility or by mail it to the U.S. Postal address on the form; or
 
