@@ -1,7 +1,5 @@
 ##### § 8.2 Payment of premiums. #####
 
-Link to an amendment published at 87 FR 73653, Dec. 1, 2022.
-
 (a) *What is a premium?* A premium is a payment that a policyholder is required to make for an insurance policy.
 
 (b) *How can policyholders pay premiums?* Premiums can be paid by:
@@ -38,4 +36,6 @@ Link to an amendment published at 87 FR 73653, Dec. 1, 2022.
 |          An error in the check or money order           |                                                      The policyholder has an additional 31 days (same as above).                                                      |
 |                      Lack of funds                      |                                                                  The premium is considered not paid.                                                                  |
 
-[65 FR 7437, Feb. 15, 2000, as amended at 87 FR 35421, June 10, 2022]
+(e) *What happens if a policyholder enrolled in VALife dies, surrenders or cancels coverage during the two-year enrollment period?* If a policyholder enrolls in VALife for an amount less than the statutory maximum and elects to apply for additional coverage at a later date and dies before completing the two-year waiting period for the additional VALife coverage amount, the beneficiary shall be refunded premiums that were paid for the additional VALife coverage, plus interest, in accordance with 38 U.S.C. 1922B(c)(3)(A). If a policyholder surrenders or cancels a VALife policy during the two-year waiting period imposed by 38 U.S.C. 1922B(c)(2) before coverage is in force, the United States shall not return to the policyholder the premiums that were paid to purchase the coverage.
+
+[65 FR 7437, Feb. 15, 2000, as amended at 87 FR 35421, June 10, 2022; 87 FR 73653, Dec. 1, 2022]

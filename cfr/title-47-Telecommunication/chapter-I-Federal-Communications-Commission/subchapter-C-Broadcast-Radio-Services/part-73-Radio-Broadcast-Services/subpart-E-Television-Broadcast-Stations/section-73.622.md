@@ -386,7 +386,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |     Carbondale     |                        \*8                        |   |
 |     Champaign      |                      32, 34                       |   |
 |     Charleston     |                       \*30                        |   |
-|      Chicago       |     12, 19, 22, 23, 24, \*25, 33, 34, S, \*S      |   |
+|      Chicago       |        12, 19, 22, 23, 24, \*25, 33, 34, S        |   |
 |      Decatur       |                      20, 22                       |   |
 |   East St. Louis   |                        28                         |   |
 |      Freeport      |                         9                         |   |

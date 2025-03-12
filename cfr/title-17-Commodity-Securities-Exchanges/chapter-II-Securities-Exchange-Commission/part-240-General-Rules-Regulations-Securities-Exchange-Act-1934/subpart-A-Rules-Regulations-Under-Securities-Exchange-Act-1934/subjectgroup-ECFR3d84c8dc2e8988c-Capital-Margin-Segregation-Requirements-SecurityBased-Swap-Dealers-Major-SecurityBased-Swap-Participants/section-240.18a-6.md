@@ -1,7 +1,5 @@
 ##### § 240.18a-6 Records to be preserved by certain security-based swap dealers and major security-based swap participants. #####
 
-Link to an amendment published at 87 FR 66450, Nov. 3, 2022.
-
 This section applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is not also a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.17a-4 (rather than this section) applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; a security-based swap dealer registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a)(1) Every security-based swap dealer and major security-based swap participant for which there is no prudential regulator must preserve for a period not less than six years, the first two years in an easily accessible place, all records required to be made pursuant to § 240.18a-5(a)(1) through (4).
@@ -106,49 +104,89 @@ This section applies to the following types of entities: A security-based swap d
 
 (iii) A record of the results of each audit required to be performed pursuant to § 240.15Fi-5(c) until three years after the conclusion of the audit.
 
-(e) The records required to be maintained and preserved pursuant to §§ 240.18a-5 and 240.18a-6 may be immediately produced or reproduced by means of an *electronic storage system* (as defined in this paragraph (e)) that meets the conditions set forth in this paragraph (e) and be maintained and preserved for the required time in that form.
+(e) Subject to the conditions set forth in this paragraph (e), the records required to be maintained and preserved pursuant to § 240.18a-5 and this section may be immediately produced or reproduced by means of an electronic recordkeeping system and be maintained and preserved for the required time in that form.
 
-(1) For purposes of this section, the term *electronic storage system* means any digital storage system that meets the applicable conditions set forth in this paragraph (e).
+(1) For purposes of this paragraph (e):
 
-(2) If an electronic storage system is used by a security-based swap dealer or major security-based swap participant, it must:
+(i) The term *electronic recordkeeping system* means a system that preserves records in a digital format in a manner that permits the records to be viewed and downloaded;
 
-(i) Verify automatically the quality and accuracy of the electronic storage system recording process;
+(ii) The term *designated executive officer* means a member of senior management of the security-based swap dealer or major security-based swap participant who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system either directly or through a *designated specialist* who reports directly or indirectly to the designated executive officer;
 
-(ii) If applicable, serialize the original and duplicate units of the storage media, and time-date for the required period of retention the information placed in such electronic storage system; and
+(iii) The term *designated officer* means an employee of the security-based swap dealer or major security-based swap participant who reports directly or indirectly to the designated executive officer and who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system either directly or through a *designated specialist* who reports directly or indirectly to the designated officer;
 
-(iii) Have the capacity to readily download into a readable format indexes and records preserved in the electronic storage system.
+(iv) The term *designated specialist* means an employee of the security-based swap dealer or major security-based swap participant who has access to, and the ability to provide records maintained and preserved on, the electronic recordkeeping system; and
 
-(3) If a security-based swap dealer or major security-based swap participant uses an electronic storage system, it must:
+(v) The term *designated third party* means a person that is not affiliated with the security-based swap dealer or major security-based swap participant who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system.
 
-(i) At all times have available, for examination by the staff of the Commission, facilities for immediate, easily readable projection or production of records or images maintained on the electronic storage system and for producing easily readable representations of those records or images.
+(2) An electronic recordkeeping system of a security-based swap dealer or major security-based swap participant without a prudential regulator must:
 
-(ii) Be ready at all times to immediately provide in a readable format any record or index stored on the electronic storage system which the staff of the Commission may request.
+(i)(A) Preserve a record for the duration of its applicable retention period in a manner that maintains a complete time-stamped audit trail that includes:
 
-(iii) Store separately from the original a duplicate copy of a record stored on the electronic storage system for the time required.
+(*1*) All modifications to and deletions of the record or any part thereof;
 
-(iv) Organize and index accurately all information maintained on both original and any duplicate storage system.
+(*2*) The date and time of actions that create, modify, or delete the record;
 
-(A) At all times, a security-based swap dealer or major security-based swap participant must be able to have such indexes available for examination by the staff of the Commission.
+(*3*) If applicable, the identity of the individual creating, modifying, or deleting the record; and
 
-(B) Each index must be duplicated and the duplicate copies must be stored separately from the original copy of each index.
+(*4*) Any other information needed to maintain an audit trail of the record in a way that maintains security, signatures, and data to ensure the authenticity and reliability of the record and will permit re-creation of the original record if it is modified or deleted; or
 
-(C) Original and duplicate indexes must be preserved for the time required for the indexed records.
+(B) Preserve the records exclusively in a non-rewriteable, non-erasable format;
 
-(v) Have in place an audit system providing for accountability regarding inputting of records required to be maintained and preserved pursuant to §§ 240.18a-5 and 240.18a-6 to the electronic storage system and inputting of any changes made to every original and duplicate record maintained and preserved thereby.
+(ii) Verify automatically the completeness and accuracy of the processes for storing and retaining records electronically;
 
-(A) At all times the security-based swap dealer or major security-based swap participant must be able to have the results of such audit system available for examination by the staff of the Commission.
+(iii) If applicable, serialize the original and duplicate units of the storage media, and time-date the required period of retention for the information placed on such electronic storage media;
+
+(iv) Have the capacity to readily download and transfer copies of a record and its audit trail (if applicable) in both a human readable format and in a reasonably usable electronic format and to readily download and transfer the information needed to locate the electronic record, as required by the staffs of the Commission, or any State regulator having jurisdiction over the security-based swap dealer or major security-based swap participant; and
+
+(v)(A) Include a backup electronic recordkeeping system that meets the other requirements of this paragraph (e) and that retains the records required to be maintained and preserved pursuant to § 240.18a-5 and in accordance with this section in a manner that will serve as a redundant set of records if the original electronic recordkeeping system is temporarily or permanently inaccessible; or
+
+(B) Have other redundancy capabilities that are designed to ensure access to the records required to be maintained and preserved pursuant to § 240.18a-5 and this section.
+
+(3) A security-based swap dealer or major security-based swap participant using an electronic recordkeeping system must:
+
+(i) At all times have available, for examination by the staffs of the Commission or any State regulator having jurisdiction over the security-based swap dealer or major security-based swap participant, facilities for immediately producing the records preserved by means of the electronic recordkeeping system and for producing copies of those records.
+
+(ii) Be ready at all times to provide, and immediately provide, any record stored by means of the electronic recordkeeping system that the staffs of the Commission or any State regulator having jurisdiction over the security-based swap dealer or major security-based swap participant may request.
+
+(iii) For a security-based swap dealer or major security-based swap participant operating pursuant to paragraph (e)(2)(i)(B) of this section, the security-based swap dealer or major security-based swap participant must have in place an audit system providing for accountability regarding inputting of records required to be maintained and preserved pursuant to § 240.18a-5 and this section to the electronic recordkeeping system and inputting of any changes made to every original and duplicate record maintained and preserved thereby.
+
+(A) At all times a security-based swap dealer and major security-based swap participant must be able to have the results of such audit system available for examination by the staff of the Commission.
 
 (B) The audit results must be preserved for the time required for the audited records.
 
-(vi) The security-based swap dealer or major security-based swap participant must maintain, keep current, and provide promptly upon request by the staff of the Commission all information necessary to access records and indexes stored in the electronic storage system; or place in escrow and keep current a copy of the physical and logical file format of the electronic storage system, the field format of all different information types written on the electronic storage system and the source code, together with the appropriate documentation and information necessary to access records and indexes.
+(iv) Organize, maintain, keep current, and provide promptly upon request by the staffs of the Commission or any State regulator having jurisdiction over the security-based swap dealer or major security-based swap participant all information necessary to access and locate records preserved by means of the electronic recordkeeping system.
 
-(f)(1) If the records required to be maintained and preserved pursuant to the provisions of §§ 240.18a-5 and 240.18a-6 are prepared or maintained by a third party on behalf of the security-based swap dealer or major security-based swap participant, the third party must file with the Commission a written undertaking in a form acceptable to the Commission, signed by a duly authorized person, to the effect that such records are the property of the security-based swap dealer or major security-based swap participant and will be surrendered promptly on request of the security-based swap dealer or major security-based swap participant and including the following provision:
+(v)(A) Have at all times filed with the Commission the following undertakings with respect to such records signed by either a designated executive officer or designated third party (hereinafter, the “undersigned”):
+
+The undersigned hereby undertakes to furnish promptly to the U.S. Securities and Exchange Commission (“Commission”) and its designees or representatives, or any State securities regulator having jurisdiction over [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant], upon reasonable request, such information as is deemed necessary by the staff of the Commission or any State regulator having jurisdiction over [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant], to download copies of a record and its audit trail (if applicable) preserved by means of an electronic recordkeeping system of [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant] into both a human readable format and a reasonably usable electronic format in the event of a failure on the part of [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant] to download a requested record or its audit trail (if applicable).
+
+Furthermore, the undersigned hereby undertakes to take reasonable steps to provide access to the information preserved by means of an electronic recordkeeping system of [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant], including, as appropriate, downloading any record required to be maintained and preserved by [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant] pursuant to §§ 240.18a-5 and 240.18a-6 in a format acceptable to the staff of the Commission or any State regulator having jurisdiction over [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant]. Specifically, the undersigned will take reasonable steps to, in the event of a failure on the part of [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant] to download the record into a human readable format or a reasonably usable electronic format and after reasonable notice to [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant], download the record into a human readable format or a reasonably usable electronic format at the request of the staff of the Commission or any State regulator having jurisdiction [Name of the Security-Based Swap Dealer or Major Security-Based Swap Participant].
+
+(B) A designated executive officer who signs the undertaking required pursuant to paragraph (e)(3)(v)(A) of this section may:
+
+(*1*) Appoint in writing up to two designated officers who will take the steps necessary to fulfill the obligations of the designated executive officer set forth in the undertakings in the event the designated executive officer is unable to fulfill those obligations; and
+
+(*2*) Appoint in writing up to three designated specialists.
+
+(C) The appointment of, or reliance on, a designated officer or designated specialist does not relieve the designated executive officer of the obligations set forth in the undertaking.
+
+(f)(1)(i) If the records required to be maintained and preserved pursuant to the provisions of § 240.18a-5 and this section are prepared or maintained by a third party, including by a third party that owns and operates the servers or other storage devices on which the records are preserved or maintained, on behalf of the security-based swap dealer or major security-based swap participant, the third party must file with the Commission a written undertaking in a form acceptable to the Commission, signed by a duly authorized person, to the effect that such records are the property of the security-based swap dealer or major security-based swap participant and will be surrendered promptly on request of the security-based swap dealer or major security-based swap participant and including the following provision:
 
 With respect to any books and records maintained or preserved on behalf of [SBSD or MSBSP], the undersigned hereby undertakes to permit examination of such books and records at any time or from time to time during business hours by representatives or designees of the Securities and Exchange Commission, and to promptly furnish to said Commission or its designee true, correct, complete, and current hard copies of any or all or any part of such books and records.
 
-(2) Agreement with an outside entity will not relieve such security-based swap dealer or major security-based swap participant from the responsibility to prepare and maintain records as specified in this section or in § 240.18a-5.
+(ii)(A) If the records required to be maintained and preserved pursuant to the provisions of § 240.18a-5 and this section are maintained and preserved by means of an electronic recordkeeping system as defined in paragraph (e) of this section utilizing servers or other storage devices that are owned or operated by a third party (including an affiliate) and the security-based swap dealer or major security-based swap participant has *independent access* to the records as defined in paragraph (f)(1)(ii)(B) of this section, the third party may file with the Commission the following undertaking signed by a duly authorized person in lieu of the undertaking required under paragraph (f)(1)(i) of this section:
 
-(g) Every security-based swap dealer and major security-based swap participant subject to this section must furnish promptly to a representative of the Commission legible, true, complete, and current copies of those records of the security-based swap dealer or major security-based swap participant that are required to be preserved under this section, or any other records of the security-based swap dealer or major security-based swap participant subject to examination or required to be made or maintained pursuant to section 15F of the Act that are requested by a representative of the Commission.
+The undersigned hereby acknowledges that the records of [SBSD or MSBSP] are the property of [SBSD or MSBSP] and [SBSD or MSBSP] has represented: one, that it is subject to rules of the Securities and Exchange Commission governing the maintenance and preservation of certain records, two, that it has independent access to the records maintained by [name of third party], and, three, that it consents to [name of third party] fulfilling the obligations set forth in this undertaking. The undersigned undertakes that [name of third party] will facilitate within its ability, and not impede or prevent, the examination, access, download, or transfer of the records by a representative or designee of the Securities and Exchange Commission as permitted under the law.
+
+(B) A security-based swap dealer or major security-based swap participant utilizing servers or other storage devices that are owned or operated by a third party has independent access to records with respect to such third party if it can regularly access the records without the need of any intervention of the third party and through such access:
+
+(*1*) Permit examination of the records at any time or from time to time during business hours by representatives or designees of the Commission; and
+
+(*2*) Promptly furnish to the Commission or its designee a true, correct, complete and current hard copy of any or all or any part of such records.
+
+(2) Agreement with a third party will not relieve such security-based swap dealer or major security-based swap participant from the responsibility to prepare and maintain records as specified in this section or in § 240.18a-5.
+
+(g) Every security-based swap dealer and major security-based swap participant subject to this section must furnish promptly to a representative of the Commission legible, true, complete, and current copies of those records of the security-based swap dealer or major security-based swap participant that are required to be preserved under this section, or any other records of the security-based swap dealer or major security-based swap participant subject to examination or required to be made or maintained pursuant to section 15F of the Act that are requested by a representative of the Commission. The security-based swap dealer and major security-based swap participant must furnish a record and its audit trail (if applicable) preserved on an electronic recordkeeping system pursuant to paragraph (e) of this section in a reasonably usable electronic format, if requested by a representative of the Commission.
 
 (h) When used in this section:
 
@@ -156,4 +194,4 @@ With respect to any books and records maintained or preserved on behalf of [SBSD
 
 (2) The term *associated person* has the meaning set forth in § 240.18a-5(d).
 
-[84 FR 68659, Dec. 16, 2019, as amended at 85 FR 6416, Feb. 4, 2020; 85 FR 33021, June 1, 2020]
+[84 FR 68659, Dec. 16, 2019, as amended at 85 FR 6416, Feb. 4, 2020; 85 FR 33021, June 1, 2020; 87 FR 66450, Nov. 3, 2022]

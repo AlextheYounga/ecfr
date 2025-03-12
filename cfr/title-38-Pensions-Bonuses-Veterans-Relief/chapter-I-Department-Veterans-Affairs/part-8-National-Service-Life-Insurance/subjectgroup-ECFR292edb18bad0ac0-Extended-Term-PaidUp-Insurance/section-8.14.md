@@ -1,6 +1,4 @@
-##### § 8.14 Provision for extended term insurance - other than 5-year level premium term or limited convertible 5-year level premium term policies. #####
-
-Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
+##### § 8.14 Provision for extended term insurance—other than 5-year level premium term or limited convertible 5-year level premium term policies. #####
 
 (a) After the expiration of the first policy year and upon default in the payment of a premium within the grace period, if a permanent plan National Service Life Insurance policy other than the modified life plan has not been surrendered for cash or for paid-up insurance, the policy shall be extended automatically as term insurance. The extended term insurance shall be for an amount of the insurance equal to the face value of the policy less any indebtedness for such time from the due date of the premium in default as the cash value less any indebtedness and a charge for administrative cost for insurance issued under 38 U.S.C. 1925, will purchase when applied as a net single premium at the attained age of the insured. For this purpose the attained age is the age on the birthday anniversary nearest to the effective date of the policy plus the number of years and months from that date to the date the extended term insurance becomes effective. The extended term insurance shall not have a loan value, but shall have a cash value.
 
@@ -12,4 +10,6 @@ Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
 
 (ii) The ultimate face amount of insurance (face amount of policy in force on or after insured's 65th or 70th birthday, depending on the plan of insurance) less any indebtedness, for lapses which occur on or after the insured's 65th or 70th birthday, depending on the plan of insurance. If a modified life plan policy is on extended term insurance at the end of the day preceding the insured's 65th or 70th birthday, depending on the plan of insurance, the amount of extended term insurance in effect under such policy shall be automatically reduced by one-half thereof. If the policy lapsed prior to the end of the first policy year, the extended term insurance shall not have a cash or loan value. If the policy lapsed after the first policy year, the extended term insurance shall not have a loan value, but shall have a cash value.
 
-(Authority: 38 U.S.C. 1906)[30 FR 3647, Mar. 19, 1965, as amended at 47 FR 11658, Mar. 18, 1982. Redesignated at 61 FR 29290, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]
+(d) VALife shall not be extended automatically as term insurance until the insured has paid the required premiums during the two-year waiting period that is imposed by 38 U.S.C. 1922B(c)(2) before VALife coverage is in force.
+
+(Authority: 38 U.S.C. 1906)[30 FR 3647, Mar. 19, 1965, as amended at 47 FR 11658, Mar. 18, 1982. Redesignated at 61 FR 29290, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 87 FR 73654, Dec. 1, 2022]

@@ -1,16 +1,16 @@
 ##### § 485.610 Condition of participation: Status and location. #####
 
-(a) *Standard:* Status. The facility is -
+(a) *Standard:* Status. The facility is—
 
 (1) A currently participating hospital that meets all conditions of participation set forth in this subpart;
 
-(2) A recently closed facility, provided that the facility -
+(2) A recently closed facility, provided that the facility—
 
 (i) Was a hospital that ceased operations on or after the date that is 10 years before November 29, 1999; and
 
 (ii) Meets the criteria for designation under this subpart as of the effective date of its designation; or
 
-(3) A health clinic or a health center (as defined by the State) that -
+(3) A health clinic or a health center (as defined by the State) that—
 
 (i) Is licensed by the State as a health clinic or a health center;
 
@@ -44,7 +44,7 @@
 
 (d) *Standard: Relocation of CAHs with a necessary provider designation.* A CAH that has a necessary provider designation from the State that was in effect prior to January 1, 2006, and relocates its facility after January 1, 2006, can continue to meet the location requirement of paragraph (c) of this section based on the necessary provider designation only if the relocated facility meets the requirements as specified in paragraph (d)(1) of this section.
 
-(1) If a necessary provider CAH relocates its facility and begins providing services in a new location, the CAH can continue to meet the location requirement of paragraph (c) of this section based on the necessary provider designation only if the CAH in its new location -
+(1) If a necessary provider CAH relocates its facility and begins providing services in a new location, the CAH can continue to meet the location requirement of paragraph (c) of this section based on the necessary provider designation only if the CAH in its new location—
 
 (i) Serves at least 75 percent of the same service area that it served prior to its relocation;
 
@@ -58,8 +58,8 @@
 
 (1) If a CAH with a necessary provider designation is co-located (that is, it shares a campus, as defined in § 413.65(a)(2) of this chapter, with another hospital or CAH), the necessary provider CAH can continue to meet the location requirement of paragraph (c) of this section only if the co-location arrangement was in effect before January 1, 2008, and the type and scope of services offered by the facility co-located with the necessary provider CAH do not change. A change of ownership of any of the facilities with a co-location arrangement that was in effect before January 1, 2008, will not be considered to be a new co-location arrangement.
 
-(2) If a CAH or a necessary provider CAH operates an off-campus provider-based location, excluding an RHC as defined in § 405.2401(b) of this chapter, but including a department or remote location, as defined in § 413.65(a)(2) of this chapter, or an off-campus distinct part psychiatric or rehabilitation unit, as defined in § 485.647, that was created or acquired by the CAH on or after January 1, 2008, the CAH can continue to meet the location requirement of paragraph (c) of this section only if the off-campus provider-based location or off-campus distinct part unit is located more than a 35-mile drive (or, in the case of mountainous terrain or in areas with only secondary roads available, a 15-mile drive) from a hospital or another CAH.
+(2) If a CAH or a necessary provider CAH operates an off-campus provider-based location, excluding an RHC as defined in § 405.2401(b) of this chapter, but including a department or remote location, as defined in § 413.65(a)(2) of this chapter, or an off-campus distinct part psychiatric or rehabilitation unit, as defined in § 485.647, that was created or acquired by the CAH on or after January 1, 2008, the CAH can continue to meet the location requirement of paragraph (c) of this section only if the off-campus provider-based location or off-campus distinct part unit is located more than a 35-mile drive on primary roads, as defined in paragraph (c)(2) of this section (or, in the case of mountainous terrain or in areas with only secondary roads available, a 15-mile drive) from a hospital or another CAH.
 
 (3) If either a CAH or a CAH that has been designated as a necessary provider by the State does not meet the requirements in paragraph (e)(1) of this section, by co-locating with another hospital or CAH on or after January 1, 2008, or creates or acquires an off-campus provider-based location or off-campus distinct part unit on or after January 1, 2008, that does not meet the requirements in paragraph (e)(2) of this section, the CAH's provider agreement will be subject to termination in accordance with the provisions of § 489.53(a)(3) of this subchapter, unless the CAH terminates the off-campus arrangement or the co-location arrangement, or both.
 
-[62 FR 46036, Aug. 29, 1997, as amended at 65 FR 47052, Aug. 1, 2000; 66 FR 39938, Aug. 1, 2001; 69 FR 49271, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47490, Aug. 12, 2005; 71 FR 48143, Aug. 18, 2006; 72 FR 66934, Nov. 27, 2007; 73 FR 9862, Feb. 22, 2008; 74 FR 44001, Aug. 27, 2009; 75 FR 50418, Aug. 16, 2010; 79 FR 50359, Aug. 22, 2014; 87 FR 72307, Nov. 23, 2022]
+[62 FR 46036, Aug. 29, 1997, as amended at 65 FR 47052, Aug. 1, 2000; 66 FR 39938, Aug. 1, 2001; 69 FR 49271, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47490, Aug. 12, 2005; 71 FR 48143, Aug. 18, 2006; 72 FR 66934, Nov. 27, 2007; 73 FR 9862, Feb. 22, 2008; 74 FR 44001, Aug. 27, 2009; 75 FR 50418, Aug. 16, 2010; 79 FR 50359, Aug. 22, 2014; 87 FR 72307, Nov. 23, 2022; 88 FR 299, Jan. 4, 2023]

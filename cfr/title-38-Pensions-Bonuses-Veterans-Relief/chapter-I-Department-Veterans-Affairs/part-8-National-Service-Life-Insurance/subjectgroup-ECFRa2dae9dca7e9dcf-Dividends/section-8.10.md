@@ -1,14 +1,12 @@
 ##### § 8.10 How paid. #####
 
-Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
-
 (a) Except as hereinafter provided in this paragraph, a National Service Life Insurance policy shall participate in and receive such dividends from gains and savings as may be determined by the Secretary of Veterans Affairs. Dividends becoming payable after January 1, 1952, shall be payable on the date preceding the anniversary of the policy unless the Secretary shall declare them payable on some other date. Dividends are not payable on insurance:
 
 (1) Issued or reinstated under the provisions of section 602(c)(2) of the National Service Life Insurance Act, as amended, where the requirements of good health were waived at the time of such issue or reinstatement;
 
 (2) Issued under sections 620 and 621 of the National Service Life Insurance Act, as amended;
 
-(3) Issued under sections 1904(c) and 1922(a) of title 38 U.S.C.;
+(3) Issued under sections 1904(c), 1922(a), and 1922B of title 38 U.S.C.
 
 (Authority: 38 U.S.C. 1923(b) and 725)
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
 
 (h) Any insured receiving an annual dividend in cash may return such dividend check or an equivalent amount of money in order to have the dividend retained under the deposit or credit option. The return of such dividend must be made during the lifetime of the insured and before the end of the calendar year during which the dividend was paid. Dividends returned under this provision are not available for the payment of premiums, receipt of interest, or calculation of cash value prior to the postmark date of the returned check.
 
-[17 FR 2362, Mar. 19, 1952, as amended at 18 FR 3715, June 30, 1953; 24 FR 5021, June 20, 1959; 25 FR 7369, Aug. 5, 1960; 28 FR 12545, Nov. 23, 1963; 30 FR 3646, Mar. 19, 1965; 32 FR 13927, Oct. 6, 1967; 37 FR 3352, Feb. 15, 1972; 46 FR 57043, Nov. 20, 1981; 50 FR 12252, Mar. 28, 1985. Redesignated and amended at 61 FR 29290, 29292, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000]
+[17 FR 2362, Mar. 19, 1952, as amended at 18 FR 3715, June 30, 1953; 24 FR 5021, June 20, 1959; 25 FR 7369, Aug. 5, 1960; 28 FR 12545, Nov. 23, 1963; 30 FR 3646, Mar. 19, 1965; 32 FR 13927, Oct. 6, 1967; 37 FR 3352, Feb. 15, 1972; 46 FR 57043, Nov. 20, 1981; 50 FR 12252, Mar. 28, 1985. Redesignated and amended at 61 FR 29290, 29292, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000; 87 FR 73654, Dec. 1, 2022]

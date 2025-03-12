@@ -16,10 +16,10 @@
 
 (6) Appointment under 28 U.S.C. 602 for current and former employees of the Administrative Office of the U.S. Courts;
 
-(7) Reappointment on the basis of having left a term appointment prior to serving the 4-year maximum amount of time allowed under the appointment. Reappointment must be to a position in the same agency appropriate for filling under term appointment and for which the individual qualifies. Combined service under the original term appointment and reappointment must not exceed the 4-year limit; or
+(7) Reappointment on the basis of having left a term appointment prior to serving the 4-year maximum amount of time allowed under the appointment per § 316.301(a), the maximum time allowed for an appointment authorized under this paragraph (b), or the 10-year maximum amount of time allowed under § 316.301(c). Reappointment must be to a position in the same agency for filling under the original term appointment and for which the individual qualifies. Combined service under the original term appointment and reappointment must not exceed the 4-year limit pursuant to § 316.301(a), the maximum time allowed for an appointment authorized under § 316.301(b), or the 10-year limit under § 316.301(c), as appropriate; or
 
 (8) Conversion in the same agency from a current temporary appointment when the employee is or was within reach on a certificate of eligibles for term appointment *at any time during service in the temporary position. Within reach* means that the person could have been selected for the position under competitive hiring procedures, including veterans' preference. The certificate must have been actually used for term appointment. The person must have been continuously employed in the position from the date found within reach to the date converted to a term appointment.
 
 (c) Term employees are eligible for an extension of their appointment in accordance with the time limits in § 316.301 even if their eligibility for noncompetitive appointment expires or is lost during the period they are serving under term employment.
 
-[63 FR 63783, Nov. 17, 1998, as amended at 68 FR 35268, June 13, 2003; 69 FR 33275, June 15, 2004; 73 FR 60611, Oct. 14, 2008; 74 FR 40477, Aug. 12, 2009]
+[63 FR 63783, Nov. 17, 1998, as amended at 68 FR 35268, June 13, 2003; 69 FR 33275, June 15, 2004; 73 FR 60611, Oct. 14, 2008; 74 FR 40477, Aug. 12, 2009; 87 FR 73632, Dec. 1, 2022]

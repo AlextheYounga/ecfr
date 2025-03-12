@@ -1,7 +1,5 @@
 ##### § 240.17a-4 Records to be preserved by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 87 FR 66448, Nov. 3, 2022.
-
 This section applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); a security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.18a-6 (rather than this section) applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a) Every member, broker or dealer subject to § 240.17a-3 must preserve for a period of not less than 6 years, the first two years in an easily accessible place, all records required to be made pursuant to § 240.17a-3(a)(1) through (3), (5), and (21) and (22), and analogous records created pursuant to § 240.17a-3(e).
@@ -108,69 +106,113 @@ This section applies to the following types of entities: A member of a national 
 
 (iii) A record of the results of each audit required to be performed pursuant to § 240.15Fi-5(c) until three years after the conclusion of the audit.
 
-(f) The records required to be maintained and preserved pursuant to §§ 240.17a-3 and 240.17a-4 may be immediately produced or reproduced on “micrographic media” (as defined in this section) or by means of “electronic storage media” (as defined in this section) that meet the conditions set forth in this section and be maintained and preserved for the required time in that form.
+(f) Subject to the conditions set forth in this paragraph (f), the records required to be maintained and preserved pursuant to § 240.17a-3 and this section may be immediately produced or reproduced by means of an electronic recordkeeping system or by means of micrographic media and be maintained and preserved for the required time in that form.
 
-(1) For purposes of this section:
+(1) For purposes of this paragraph (f):
 
-(i) The term *micrographic media* means microfilm or microfiche, or any similar medium; and
+(i) The term *micrographic media* means microfilm or microfiche, or any similar medium;
 
-(ii) The term *electronic storage media* means any digital storage medium or system and, in the case of both paragraphs (f)(1)(i) and (f)(1)(ii) of this section, that meets the applicable conditions set forth in this paragraph (f).
+(ii) The term *electronic recordkeeping system* means a system that preserves records in a digital format in a manner that permits the records to be viewed and downloaded;
 
-(2) If electronic storage media is used by a member, broker, or dealer, it must comply with the following requirements:
+(iii) The term *designated executive officer* means a member of senior management of the member, broker, or dealer who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system either directly or through a *designated specialist* who reports directly or indirectly to the designated executive officer;
 
-(i) The member, broker, or dealer must notify its examining authority designated pursuant to section 17(d) of the Act (15 U.S.C. 78q(d)) prior to employing electronic storage media. If employing any electronic storage media other than optical disk technology (including CD-ROM), the member, broker, or dealer must notify its designated examining authority at least 90 days prior to employing such storage media. In either case, the member, broker, or dealer must provide its own representation or one from the storage medium vendor or other third party with appropriate expertise that the selected storage media meets the conditions set forth in this paragraph (f)(2).
+(iv) The term *designated officer* means an employee of the member, broker, or dealer who reports directly or indirectly to the designated executive officer and who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system either directly or through a *designated specialist* who reports directly or indirectly to the designated officer;
 
-(ii) The electronic storage media must:
+(v) The term *designated specialist* means an employee of the member, broker, or dealer who has access to, and the ability to provide records maintained and preserved on, the electronic recordkeeping system; and
 
-(A) Preserve the records exclusively in a non-rewriteable, non-erasable format;
+(vi) The term *designated third party* means a person that is not affiliated with the member, broker, or dealer who has access to and the ability to provide records maintained and preserved on the electronic recordkeeping system.
 
-(B) Verify automatically the quality and accuracy of the storage media recording process;
+(2) An electronic recordkeeping system must:
 
-(C) Serialize the original and, if applicable, duplicate units of storage media, and time-date for the required period of retention the information placed on such electronic storage media; and
+(i)(A) Preserve a record for the duration of its applicable retention period in a manner that maintains a complete time-stamped audit trail that includes:
 
-(D) Have the capacity to readily download indexes and records preserved on the electronic storage media to any medium acceptable under this paragraph (f) as required by the Commission or the self-regulatory organizations of which the member, broker, or dealer is a member.
+(*1*) All modifications to and deletions of the record or any part thereof;
 
-(3) If a member, broker, or dealer uses micrographic media or electronic storage media, it must:
+(*2*) The date and time of actions that create, modify, or delete the record;
 
-(i) At all times have available, for examination by the staffs of the Commission and self-regulatory organizations of which it is a member, facilities for immediate, easily readable projection or production of micrographic media or electronic storage media images and for producing easily readable images.
+(*3*) If applicable, the identity of the individual creating, modifying, or deleting the record; and
 
-(ii) Be ready at all times to provide, and immediately provide, any facsimile enlargement which the staffs of the Commission, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker or dealer may request.
+(*4*) Any other information needed to maintain an audit trail of the record in a way that maintains security, signatures, and data to ensure the authenticity and reliability of the record and will permit re-creation of the original record if it is modified or deleted; or
 
-(iii) Store separately from the original, a duplicate copy of the record stored on any medium acceptable under § 240.17a-4 for the time required.
+(B) Preserve the records exclusively in a non-rewriteable, non-erasable format;
 
-(iv) Organize and index accurately all information maintained on both original and any duplicate storage media.
+(ii) Verify automatically the completeness and accuracy of the processes for storing and retaining records electronically;
 
-(A) At all times, a member, broker, or dealer must be able to have such indexes available for examination by the staffs of the Commission and the self- regulatory organizations of which the broker or dealer is a member.
+(iii) If applicable, serialize the original and duplicate units of the storage media, and time-date the required period of retention for the information placed on such electronic storage media;
 
-(B) Each index must be duplicated and the duplicate copies must be stored separately from the original copy of the index.
+(iv) Have the capacity to readily download and transfer copies of a record and its audit trail (if applicable) in both a human readable format and in a reasonably usable electronic format and to readily download and transfer the information needed to locate the electronic record, as required by the staffs of the Commission, the self-regulatory organizations of which the member, broker, or dealer is a member, or any State securities regulator having jurisdiction over the member, broker, or dealer; and
 
-(C) Original and duplicate indexes must be preserved for the time required for the indexed records.
+(v)(A) Include a backup electronic recordkeeping system that meets the other requirements of this paragraph (f) and that retains the records required to be maintained and preserved pursuant to § 240.17a-3 and in accordance with this section in a manner that will serve as a redundant set of records if the original electronic recordkeeping system is temporarily or permanently inaccessible; or
 
-(v) The member, broker, or dealer must have in place an audit system providing for accountability regarding inputting of records required to be maintained and preserved pursuant to §§ 240.17a-3 and 240.17a-4 to electronic storage media and inputting of any changes made to every original and duplicate record maintained and preserved thereby.
+(B) Have other redundancy capabilities that are designed to ensure access to the records required to be maintained and preserved pursuant to § 240.17a-3 and this section.
 
-(A) At all times, a member, broker, or dealer must be able to have the results of such audit system available for examination by the staffs of the Commission and the self-regulatory organizations of which the broker or dealer is a member.
+(3) A member, broker, or dealer using an electronic recordkeeping system must:
+
+(i) At all times have available, for examination by the staffs of the Commission, the self-regulatory organizations of which the member, broker, or dealer is a member, or any State securities regulator having jurisdiction over the member, broker, or dealer, facilities for immediately producing the records preserved by means of the electronic recordkeeping system and for producing copies of those records.
+
+(ii) Be ready at all times to provide, and immediately provide, any record stored by means of the electronic recordkeeping system that the staffs of the Commission, the self-regulatory organizations of which the member, broker, or dealer is a member, or any State securities regulator having jurisdiction over the member, broker, or dealer may request.
+
+(iii) For a broker-dealer operating pursuant to paragraph (f)(2)(i)(B) of this section, the member, broker, or dealer must have in place an audit system providing for accountability regarding inputting of records required to be maintained and preserved pursuant to § 240.17a-3 and this section to the electronic recordkeeping system and inputting of any changes made to every original and duplicate record maintained and preserved thereby.
+
+(A) At all times, a member, broker, or dealer must be able to have the results of such audit system available for examination by the staffs of the Commission and the self-regulatory organization of which the broker or dealer is a member.
 
 (B) The audit results must be preserved for the time required for the audited records.
 
-(vi) The member, broker, or dealer must maintain, keep current, and provide promptly upon request by the staffs of the Commission or any self-regulatory organization of which the member, broker, or broker-dealer is a member all information necessary to access records and indexes stored on the electronic storage media; or place in escrow and keep current a copy of the physical and logical file format of the electronic storage media, the field format of all different information types written on the electronic storage media and the source code, together with the appropriate documentation and information necessary to access records and indexes.
+(iv) Organize, maintain, keep current, and provide promptly upon request by the staffs of the Commission, the self-regulatory organizations of which the member, broker, or dealer is a member, or any State securities regulator having jurisdiction over the member, broker, or dealer all information necessary to access and locate records preserved by means of the electronic recordkeeping system.
 
-(vii) For every member, broker or dealer exclusively using electronic storage media for some or all of its record preservation under this section, at least one third party (the undersigned), who has access to and the ability to download information from the member's, broker's or dealer's electronic storage media to any acceptable medium under this section, must file with the designated examining authority for the member, broker or dealer the following undertakings with respect to such records:
+(v)(A) Have at all times filed with the designated examining authority for the member, broker, or dealer the following undertakings with respect to such records signed by either a designated executive officer or designated third party (hereinafter, the “undersigned”):
 
-The undersigned hereby undertakes to furnish promptly to the U.S. Securities and Exchange Commission (“Commission”), its designees or representatives, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker or dealer, upon reasonable request, such information as deemed necessary by the staffs of the Commission, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker or dealer to download information kept on the member's, broker's or dealer's electronic storage media to any medium acceptable under § 240.17a-4. Furthermore, the undersigned hereby undertakes to take reasonable steps to provide access to information contained on the member's, broker's or dealer's electronic storage media, including, as appropriate, arrangements for the downloading of any record required to be maintained and preserved by the member, broker or dealer pursuant to §§ 240.17a-3 and 240.17a-4 in a format acceptable to the staffs of the Commission, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker or dealer. Such arrangements will provide specifically that in the event of a failure on the part of a member, broker or dealer to download the record into a readable format and after reasonable notice to the broker or dealer, upon being provided with the appropriate electronic storage medium, the undersigned will undertake to do so, as the staffs of the Commission, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker or dealer may request.
+The undersigned hereby undertakes to furnish promptly to the U.S. Securities and Exchange Commission (“Commission”), its designees or representatives, any self- regulatory organization of which [Name of the Member, Broker, or Dealer] is a member, or any State securities regulator having jurisdiction over [Name of the Member, Broker, or Dealer], upon reasonable request, such information as is deemed necessary by the staff of the Commission, any self-regulatory organization of which [Name of the Member, Broker, or Dealer] is a member, or any State securities regulator having jurisdiction over [Name of the Member, Broker, or Dealer], and to download copies of a record and its audit trail (if applicable) preserved by means of an electronic recordkeeping system of [Name of the Member, Broker, or Dealer] into both a human readable format and a reasonably usable electronic format in the event of a failure on the part of [Name of the Member, Broker, or Dealer] to download a requested record or its audit trail (if applicable).
+
+Furthermore, the undersigned hereby undertakes to take reasonable steps to provide access to the information preserved by means of an electronic recordkeeping system of [Name of the Member, Broker, or Dealer], including, as appropriate, downloading any record required to be maintained and preserved by [Name of the Member, Broker, or Dealer] pursuant to §§ 240.17a-3 and 240.17a-4 in a format acceptable to the staff of the Commission, any self-regulatory organization of which [Name of the Member, Broker, or Dealer] is a member, or any State securities regulator having jurisdiction over [Name of the Member, Broker, or Dealer]. Specifically, the undersigned will take reasonable steps to, in the event of a failure on the part of [Name of the Member, Broker, or Dealer] to download the record into a human readable format or a reasonably usable electronic format and after reasonable notice to [Name of the Member, Broker, or Dealer], download the record into a human readable format or a reasonably usable electronic format at the request of the staffs of the Commission, any self-regulatory organization of which [Name of the Member, Broker, or Dealer] is a member, or any State securities regulator having jurisdiction over [Name of the Member, Broker, or Dealer].
+
+(B) A designated executive officer who signs the undertaking required pursuant to paragraph (f)(3)(v)(A) of this section may:
+
+(*1*) Appoint in writing up to two designated officers who will take the steps necessary to fulfill the obligations of the designated executive officer set forth in the undertakings in the event the designated executive officer is unable to fulfill those obligations; and
+
+(*2*) Appoint in writing up to three designated specialists.
+
+(C) The appointment of, or reliance on, a designated officer or designated specialist does not relieve the designated executive officer of the obligations set forth in the undertaking.
+
+(4) A broker-dealer using a micrographic media system must:
+
+(i) At all times have available, for examination by the staffs of the Commission, self-regulatory organizations of which it is a member, and any State securities regulator having jurisdiction over the member, broker, or dealer, facilities for immediate, easily readable projection or production of micrographic media and for producing easily readable images;
+
+(ii) Be ready at all times to provide, and immediately provide, any facsimile enlargement which the staffs of the Commission, any self-regulatory organization of which it is a member, or any State securities regulator having jurisdiction over the member, broker, or dealer may request;
+
+(iii) Store, separately from the original, a duplicate copy of the record stored on any medium acceptable under this section for the time required; and
+
+(iv) Organize and index accurately all information maintained on both original and duplicate storage media.
+
+(A) At all times, a member, broker, or dealer must be able to have such indexes available for examination by the staffs of the Commission, the self-regulatory organizations of which the broker or dealer is a member, and any State securities regulator having jurisdiction over the member, broker or, dealer.
+
+(B) Each index must be duplicated and the duplicate copies must be stored separately from the original copy of each index.
+
+(C) Original and duplicate indexes must be preserved for the time required for the indexed records.
 
 (g) If a person who has been subject to § 240.17a-3 ceases to transact a business in securities directly with others than members of a national securities exchange, or ceases to transact a business in securities through the medium of a member of a national securities exchange, or ceases to be registered pursuant to section 15 of the Act (15 U.S.C. 78*o*) such person must, for the remainder of the periods of time specified in this section, continue to preserve the records which it theretofore preserved pursuant to this section.
 
 (h) For purposes of transactions in municipal securities by municipal securities brokers and municipal securities dealers, compliance with Rule G-9 of the Municipal Securities Rulemaking Board or any successor rule will be deemed to be in compliance with this section.
 
-(i)(1) If the records required to be maintained and preserved pursuant to the provisions of §§ 240.17a-3 and 240.17a-4 are prepared or maintained by an outside service bureau, depository, bank which does not operate pursuant to § 240.17a-3(b)(2), or other recordkeeping service on behalf of the member, broker or dealer required to maintain and preserve such records, such outside entity must file with the Commission a written undertaking in form acceptable to the Commission, signed by a duly authorized person, to the effect that such records are the property of the member, broker or dealer required to maintain and preserve such records and will be surrendered promptly on request of the member, broker or dealer and including the following provision:
+(i)(1)(i) If the records required to be maintained and preserved pursuant to the provisions of § 240.17a-3 and this section are prepared or maintained by an outside service bureau, depository, bank, or other recordkeeping service, including a recordkeeping service that owns and operates the servers or other storage devices on which the records are preserved or maintained, (none of which operate pursuant to § 240.17a-3(c)) on behalf of the member, broker, or dealer required to maintain and preserve such records, such outside entity must file with the Commission a written undertaking in a form acceptable to the Commission, signed by a duly authorized person, to the effect that such records are the property of the member, broker, or dealer required to maintain and preserve such records and will be surrendered promptly on request of the member, broker, or dealer and including the following provision:
 
-With respect to any books and records maintained or preserved on behalf of [BD], the undersigned hereby undertakes to permit examination of such books and records at any time or from time to time during business hours by representatives or designees of the Securities and Exchange Commission, and to promptly furnish to said Commission or its designee true, correct, complete and current hard copy of any or all or any part of such books and records.
+With respect to any books and records maintained or preserved on behalf of [Name of the Member, Broker, or Dealer], the undersigned hereby undertakes to permit examination of such books and records at any time or from time to time during business hours by representatives or designees of the Securities and Exchange Commission and to promptly furnish to said Commission or its designee true, correct, complete and current hard copies of any or all or any part of such books and records.
 
-(2) Agreement with an outside entity will not relieve such member, broker or dealer from the responsibility to prepare and maintain records as specified in this section or in § 240.17a-3.
+(ii)(A) If the records required to be maintained and preserved pursuant to the provisions of § 240.17a-3 and this section are maintained and preserved by means of an electronic recordkeeping system as defined in paragraph (f) of this section utilizing servers or other storage devices that are owned or operated by an outside entity (including an affiliate) and the broker, dealer, or member has *independent access* to the records as defined in paragraph (i)(1)(ii)(B) of this section, the outside entity may file with the Commission the following undertaking signed by a duly authorized person in lieu of the undertaking required under paragraph (i)(1)(i) of this section:
 
-(j) Every member, broker and dealer subject to this section must furnish promptly to a representative of the Commission legible, true, complete, and current copies of those records of the member, broker or dealer that are required to be preserved under this section, or any other records of the member, broker or dealer subject to examination under section 17(b) of the Act (15 U.S.C. 78*q*(b)) that are requested by the representative of the Commission.
+The undersigned hereby acknowledges that the records of [name of member, broker, or dealer] are the property of [name of member, broker, or dealer] and [name of member, broker, or dealer] has represented: one, that it is subject to rules of the Securities and Exchange Commission governing the maintenance and preservation of certain records, two, that it has independent access to the records maintained by [name of outside entity], and, three, that it consents to [name of outside entity] fulfilling the obligations set forth in this undertaking. The undersigned undertakes that [name of outside entity] will facilitate within its ability, and not impede or prevent, the examination, access, download, or transfer of the records by a representative or designee of the Securities and Exchange Commission as permitted under the law. Further, the undersigned undertakes to facilitate within its ability, and not impede or prevent, a trustee appointed under the Securities Investor Protection Act of 1970 to liquidate [name of member, broker, or dealer] in accessing, downloading, or transferring the records as permitted under the law.
 
-(k) *Exchanges of futures for physical.* (1) Except as provided in paragraph (k)(2) of this section, upon request of any designee or representative of the Commission or of any self-regulatory organization of which it is a member, every member, broker or dealer subject to this section must request and obtain from its customers documentation regarding an exchange of security futures products for physical securities, including documentation of underlying cash transactions and exchanges. Upon receipt of such documentation, the member, broker or dealer must promptly provide that documentation to the requesting designee or representative.
+(B) A broker, dealer, or member utilizing servers or other storage devices that are owned or operated by an outside entity has independent access to records with respect to such outside entity if it can regularly access the records without the need of any intervention of the outside entity and through such access:
+
+(*1*) Permit examination of the records at any time or from time to time during business hours by representatives or designees of the Commission; and
+
+(*2*) Promptly furnish to the Commission or its designee a true, correct, complete and current hard copy of any or all or any part of such records.
+
+(2) An agreement with an outside entity will not relieve such member, broker, or dealer from the responsibility to prepare and maintain records as specified in this section or in § 240.17a-3.
+
+(j) Every member, broker and dealer subject to this section must furnish promptly to a representative of the Commission legible, true, complete, and current copies of those records of the member, broker, or dealer that are required to be preserved under this section, or any other records of the member, broker, or dealer subject to examination under section 17(b) of the Act (15 U.S.C. 78*q*(b)) that are requested by the representative of the Commission. The member, broker, or dealer must furnish a record and its audit trail (if applicable) preserved on an electronic recordkeeping system pursuant to paragraph (f) of this section in a reasonably usable electronic format, if requested by a representative of the Commission.
+
+(k)(1) Except as provided in paragraph (k)(2) of this section, upon request of any designee or representative of the Commission or of any self-regulatory organization of which it is a member, every member, broker or dealer subject to this section must request and obtain from its customers documentation regarding an exchange of security futures products for physical securities, including documentation of underlying cash transactions and exchanges. Upon receipt of such documentation, the member, broker or dealer must promptly provide that documentation to the requesting designee or representative.
 
 (2) This paragraph (k) does not apply to an underlying cash transaction(s) or exchange(s) that was effected through a member, broker or dealer registered with the Commission and is of a type required to be recorded pursuant to § 240.17a-3.
 

@@ -1,5 +1,7 @@
 ##### § 1111.12 Streamlined market dominance. #####
 
+Link to an amendment published at 88 FR 318, Jan. 4, 2023.
+
 (a) A complainant may elect to pursue the streamlined market dominance approach to market dominance if the challenged movement satisfies the factors listed in paragraphs (a)(1) through (7) of this section. The Board will find a complainant has made a prima facie showing on market dominance when it can demonstrate the following with regard to the traffic subject to the challenged rate:
 
 (1) The movement has an R/VC ratio of 180% or greater;

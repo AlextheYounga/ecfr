@@ -1,7 +1,5 @@
 ##### § 300.61 Definitions. #####
 
-Link to an amendment published at 87 FR 74325, Dec. 5, 2022.
-
 In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
 *Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
@@ -70,6 +68,10 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 (3) The deployment of pot gear as defined in § 679.2 of this title in Commission regulatory areas 4B, 4C, 4D, and 4E and the portion of Area 4A in the Bering Sea Aleutian Islands west of 170°00′ W long.
 
+*Fishing period* means, for purposes of commercial fishing in Commission regulatory Area 2A, dates and/or hours when fishing for Pacific halibut in Area 2A is allowed.
+
+*Fishing period limit* means, for purposes of commercial fishing in Commission regulatory Area 2A, the maximum amount of Pacific halibut that may be retained and landed by a vessel during one fishing period in Area 2A.
+
 *Fishing week,* for purposes of § 300.65(d), means a time period that begins at 0001 hours, A.l.t., Monday morning and ends at 2400 hours, A.l.t., the following Sunday night.
 
 *Guided Angler Fish (GAF)* means halibut transferred within a year from a Commission regulatory area 2C or 3A IFQ permit holder to a GAF permit that is issued to a person holding a charter halibut permit, community charter halibut permit, or military charter halibut permit for the corresponding area.
@@ -91,6 +93,8 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 *Military charter halibut permit* means a permit issued by NMFS to a United States Military Morale, Welfare and Recreation Program pursuant to § 300.67.
 
 *Overall length* of a vessel means the horizontal distance, rounded to the nearest ft/meter, between the foremost part of the stem and the aftermost part of the stern (excluding bowsprits, rudders, outboard motor brackets, and similar fittings or attachments).
+
+*Permit* means, for purposes of commercial fishing in Commission regulatory Area 2A, a Pacific halibut fishing permit for Area 2A issued by NMFS pursuant to § 300.63(f).
 
 *Person* includes an individual, corporation, firm, or association.
 
@@ -125,5 +129,7 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 *Treaty Indian tribes* means the Hoh, Jamestown S'Klallam, Lower Elwha S'Klallam, Lummi, Makah, Port Gamble S'Klallam, Quileute, Quinault, Skokomish, Suquamish, Swinomish, Tulalip, and Nooksack tribes.
 
 *Valid,* with respect to a charter halibut permit for purposes of §§ 300.66 and 300.67, means the charter halibut permit that is currently in effect.
+
+*Vessel class* means, for purposes of commercial fishing in Commission regulatory Area 2A, a group of vessels within a specific range of overall length (in feet) (46 CFR 69.9), as designated by the letters A-H pursuant to § 300.63(g).
 
 [61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

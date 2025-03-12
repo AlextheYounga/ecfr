@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 65667, Nov. 1, 2022.Link to an amendment published at 87 FR 75167, Dec. 7, 2022.Link to an amendment published at 87 FR 77324, Dec. 16, 2022.
+Link to an amendment published at 87 FR 75167, Dec. 7, 2022.Link to an amendment published at 87 FR 77324, Dec. 16, 2022.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -325,7 +325,13 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (s) *Direct Expansion-Dedicated Outdoor Air Systems.* (1) If a basic model includes individual models with components listed at table 1 to § 429.43(a)(3)(i)(A) and DOE is not able to obtain an individual model with the least number (which could be zero) of those components within an otherwise comparable model group (as defined in § 429.43(a)(3)(i)(A)(*1*)), DOE may test any individual model within the otherwise comparable model group.
 
-(2) [Reserved]
+(2) If the manufacturer certified testing in accordance with Option 1 using default VERS exhaust air transfer ratio (EATR) values or Option 2 using default VERS effectiveness and EATR values, DOE may determine the integrated seasonal moisture removal efficiency 2 (ISMRE2) and/or the integrated seasonal coefficient of performance 2 (ISCOP2) using the default values or by conducting testing to determine VERS performance according to the DOE test procedure in appendix B to subpart F of part 431 of this chapter (with the minimum purge angle and zero pressure differential between supply and return air).
+
+(3) If the manufacturer certified testing in accordance with Option 1 using VERS exhaust air transfer ratio (EATR) values or Option 2 using VERS effectiveness and EATR values determined using an analysis tool certified in accordance with the DOE test procedure in appendix B to subpart F of part 431 of this chapter, DOE may conduct its own testing to determine VERS performance in accordance with the DOE test procedure in appendix B to subpart F of part 431 of this chapter.
+
+(i) DOE would use the values of VERS performance certified to DOE (*i.e.* EATR, sensible effectiveness, and latent effectiveness) as the basis for determining the ISMRE2 and/or ISCOP2 of the basic model only if, for Option 1, the certified EATR is found to be no more than one percentage point less than the mean of the measured values (*i.e.* the difference between the measured EATR and the certified EATR is no more than 0.01), or for Option 2, all certified values of sensible effectiveness are found to be no greater than 105 percent of the mean of the measured values (*i.e.* the certified effectiveness divided by the measured effectiveness is no greater than 1.05), all certified values of latent effectiveness are found to be no greater than 107 percent of the mean of the measured values, and the certified EATR is found to be no more than one percentage point less than the mean of the measured values.
+
+(ii) If any of the conditions in paragraph (s)(2)(i) of this section do not hold true, then the mean of the measured values will be used as the basis for determining the ISMRE2 and/or ISCOP2 of the basic model.
 
 (t) *Ceiling Fans* - (1) *Verification of blade span.* DOE will measure the blade span and round the measurement pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented blade span valid only if the rounded measurement(s) (either the rounded measured value for a single unit, or the mean of the rounded measured values for a multiple unit sample, rounded to the nearest inch) is the same as the represented blade span.
 
@@ -399,4 +405,4 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) If the certified harvest rate is found to be invalid, the average measured harvest rate of the units in the sample will be used as the basis for determining the maximum energy use and maximum condenser water use, if applicable, allowed for the basic model.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65899, Nov. 1, 2022]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022]

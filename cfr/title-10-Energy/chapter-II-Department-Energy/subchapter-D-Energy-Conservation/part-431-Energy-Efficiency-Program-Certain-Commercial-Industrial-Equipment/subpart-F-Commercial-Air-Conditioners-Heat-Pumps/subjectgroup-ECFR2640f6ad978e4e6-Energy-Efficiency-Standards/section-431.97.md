@@ -1,12 +1,10 @@
 ##### § 431.97 Energy efficiency standards and their compliance dates. #####
 
-Link to an amendment published at 87 FR 65668, Nov. 1, 2022.
-
 (a) All basic models of commercial package air-conditioning and heating equipment must be tested for performance using the applicable DOE test procedure in § 431.96, be compliant with the applicable standards set forth in paragraphs (b) through (f) of this section, and be certified to the Department under 10 CFR part 429.
 
 (b) Each commercial air conditioner or heat pump (not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, and variable refrigerant flow systems) manufactured starting on the compliance date listed in the corresponding table must meet the applicable minimum energy efficiency standard level(s) set forth in Tables 1 through 6 of this section.
 
-Table 1 to § 431.97 - Minimum Cooling Efficiency Standards for Air Conditioning and Heating Equipment
+Table 1 to § 431.97—Minimum Cooling Efficiency Standards for Air Conditioning and Heating Equipment
 
 [Not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, variable refrigerant flow multi-split air conditioners and heat pumps, and double-duct air-cooled commercial package air conditioning and heating equipment]
 
@@ -52,7 +50,7 @@ Table 1 to § 431.97 - Minimum Cooling Efficiency Standards for Air Conditioning
 
 <sup>3</sup> And manufactured before October 9, 2015. See Table 3 of this section for updated efficiency standards.
 
-Table 2 to § 431.97 - Minimum Heating Efficiency Standards for Air Conditioning and Heating Equipment [Heat Pumps]
+Table 2 to § 431.97—Minimum Heating Efficiency Standards for Air Conditioning and Heating Equipment [Heat Pumps]
 
 [Not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, variable refrigerant flow multi-split air conditioners and heat pumps, and double-duct air-cooled commercial package air conditioning and heating equipment]
 
@@ -71,7 +69,7 @@ Table 2 to § 431.97 - Minimum Heating Efficiency Standards for Air Conditioning
 
 <sup>3</sup> And manufactured before October 9, 2015. See Table 4 of this section for updated heating efficiency standards.
 
-Table 3 to § 431.97 - Updates to the Minimum Cooling Efficiency Standards for Air Conditioning and Heating Equipment
+Table 3 to § 431.97—Updates to the Minimum Cooling Efficiency Standards for Air Conditioning and Heating Equipment
 
 [Not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, variable refrigerant flow multi-split air conditioners and heat pumps, and double-duct air-cooled commercial package air conditioning and heating equipment]
 
@@ -99,7 +97,7 @@ Table 3 to § 431.97 - Updates to the Minimum Cooling Efficiency Standards for A
 
 <sup>1</sup> And manufactured before January 1, 2023.
 
-Table 4 to § 431.97 - Updates to the Minimum Heating Efficiency Standards for Air-Cooled Air Conditioning and Heating Equipment [Heat Pumps]
+Table 4 to § 431.97—Updates to the Minimum Heating Efficiency Standards for Air-Cooled Air Conditioning and Heating Equipment [Heat Pumps]
 
 [Not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, variable refrigerant flow multi-split air conditioners and heat pumps, and double-duct air-cooled commercial package air conditioning and heating equipment]
 
@@ -116,7 +114,7 @@ Table 4 to § 431.97 - Updates to the Minimum Heating Efficiency Standards for A
 
 <sup>2</sup> And manufactured before January 1, 2023.
 
-Table 5 to § 431.97 - Minimum Cooling Efficiency Standards for Double-Duct Air-Conditioning and Heating Equipment
+Table 5 to § 431.97—Minimum Cooling Efficiency Standards for Double-Duct Air-Conditioning and Heating Equipment
 
 |                                        Equipment type                                        |         Cooling capacity         |Subcategory|              Heating type               |Efficiency level|Compliance date: Equipment manufactured starting on . . .|
 |----------------------------------------------------------------------------------------------|----------------------------------|-----------|-----------------------------------------|----------------|---------------------------------------------------------|
@@ -133,7 +131,7 @@ Table 5 to § 431.97 - Minimum Cooling Efficiency Standards for Double-Duct Air-
 |                                                                                              |                                  |    HP     |Electric Resistance Heating or No Heating|   EER = 9.5    |                    January 1, 2010.                     |
 |                                                                                              |                                  |           |       All Other Types of Heating        |   EER = 9.3    |                    January 1, 2010.                     |
 
-Table 6 to § 431.97 - Minimum Heating Efficiency Standards for Double-Duct Air-Cooled Air Conditioning and Heating Equipment
+Table 6 to § 431.97—Minimum Heating Efficiency Standards for Double-Duct Air-Cooled Air Conditioning and Heating Equipment
 
 [Heat pumps]
 
@@ -150,7 +148,7 @@ Table 6 to § 431.97 - Minimum Heating Efficiency Standards for Double-Duct Air-
 
 (c) Each non-standard size packaged terminal air conditioner (PTAC) and packaged terminal heat pump (PTHP) manufactured on or after October 7, 2010 must meet the applicable minimum energy efficiency standard level(s) set forth in Table 7 of this section. Each standard size PTAC manufactured on or after October 8, 2012, and before January 1, 2017 must meet the applicable minimum energy efficiency standard level(s) set forth in Table 7 of this section. Each standard size PTHP manufactured on or after October 8, 2012 must meet the applicable minimum energy efficiency standard level(s) set forth in Table 7 of this section. Each standard size PTAC manufactured on or after January 1, 2017 must meet the applicable minimum energy efficiency standard level(s) set forth in Table 8 of this section.
 
-Table 7 to § 431.97 - Minimum Efficiency Standards for PTAC and PTHP
+Table 7 to § 431.97—Minimum Efficiency Standards for PTAC and PTHP
 
 |Equipment type|    Category     |       Cooling capacity       |                               Efficiency level                               |Compliance date: products  <br/>manufactured on  <br/>and after . . .|
 |--------------|-----------------|------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -171,7 +169,7 @@ Table 7 to § 431.97 - Minimum Efficiency Standards for PTAC and PTHP
 
 <sup>2</sup> And manufactured before January 1, 2017. See Table 8 of this section for updated efficiency standards that apply to this category of equipment manufactured on and after January 1, 2017.
 
-Table 8 to § 431.97 - Updated Minimum Efficiency Standards for PTAC
+Table 8 to § 431.97—Updated Minimum Efficiency Standards for PTAC
 
 |Equipment type|  Category   |       Cooling capacity       |         Efficiency level         |Compliance date: products  <br/>manufactured on  <br/>and after . . .|
 |--------------|-------------|------------------------------|----------------------------------|---------------------------------------------------------------------|
@@ -183,7 +181,7 @@ Table 8 to § 431.97 - Updated Minimum Efficiency Standards for PTAC
 
 (d)(1) Each single package vertical air conditioner and single package vertical heat pump manufactured on or after January 1, 2010, but before October 9, 2015 (for models ≥65,000 Btu/h and \<135,000 Btu/h) or October 9, 2016 (for models ≥135,000 Btu/h and \<240,000 Btu/h), must meet the applicable minimum energy conservation standard level(s) set forth in this section.
 
-Table 9 to § 431.97 - Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
+Table 9 to § 431.97—Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
 
 |                                               Equipment type                                                |         Cooling capacity         |Sub-category|            Efficiency level             |Compliance date: products manufactured on and  <br/>after . . .|
 |-------------------------------------------------------------------------------------------------------------|----------------------------------|------------|-----------------------------------------|---------------------------------------------------------------|
@@ -193,7 +191,7 @@ Table 9 to § 431.97 - Minimum Efficiency Standards for Single Package Vertical 
 
 (2) Each single package vertical air conditioner and single package vertical heat pump manufactured on and after October 9, 2015 (for models ≥65,000 Btu/h and \<135,000 Btu/h) or October 9, 2016 (for models ≥135,000 Btu/h and \<240,000 Btu/h), but before September 23, 2019 must meet the applicable minimum energy conservation standard level(s) set forth in this section.
 
-Table 10 to § 431.97 - Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
+Table 10 to § 431.97—Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
 
 |                                               Equipment type                                                |         Cooling capacity         |Sub-category|             Efficiency level              |Compliance date: Products manufactured on and  <br/>after . . .|
 |-------------------------------------------------------------------------------------------------------------|----------------------------------|------------|-------------------------------------------|---------------------------------------------------------------|
@@ -203,7 +201,7 @@ Table 10 to § 431.97 - Minimum Efficiency Standards for Single Package Vertical
 
 (3) Each single package vertical air conditioner and single package vertical heat pump manufactured on and after September 23, 2019 must meet the applicable minimum energy conservation standard level(s) set forth in this section.
 
-Table 11 to § 431.97 - Updated Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
+Table 11 to § 431.97—Updated Minimum Efficiency Standards for Single Package Vertical Air Conditioners and Single Package Vertical Heat Pumps
 
 |                                               Equipment type                                                |         Cooling capacity         |Sub-category|             Efficiency level              |Compliance date: products manufactured on and  <br/>after . . .|
 |-------------------------------------------------------------------------------------------------------------|----------------------------------|------------|-------------------------------------------|---------------------------------------------------------------|
@@ -213,7 +211,7 @@ Table 11 to § 431.97 - Updated Minimum Efficiency Standards for Single Package 
 
 (e) Each computer room air conditioner with a net sensible cooling capacity less than 65,000 Btu/h manufactured on or after October 29, 2012, and each computer room air conditioner with a net sensible cooling capacity greater than or equal to 65,000 Btu/h manufactured on or after October 29, 2013, must meet the applicable minimum energy efficiency standard level(s) set forth in this section.
 
-Table 12 to § 431.97 - Minimum Efficiency Standards for Computer Room Air Conditioners
+Table 12 to § 431.97—Minimum Efficiency Standards for Computer Room Air Conditioners
 
 |                           Equipment type                           |                                 Net sensible cooling capacity                                 | Minimum SCOP efficiency  |Compliance date: Products manufactured on and after . . .|                                                                 |
 |--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------|-----------------------------------------------------------------|
@@ -229,7 +227,7 @@ Table 12 to § 431.97 - Minimum Efficiency Standards for Computer Room Air Condi
 
 (f) Each variable refrigerant flow air conditioner or heat pump manufactured on or after the compliance date listed in this table must meet the applicable minimum energy efficiency standard level(s) set forth in this section.
 
-Table 13 to § 431.97 - Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps
+Table 13 to § 431.97—Minimum Efficiency Standards for Variable Refrigerant Flow Multi-Split Air Conditioners and Heat Pumps
 
 |                    Equipment type                     |                   Cooling capacity                   |             Heating type<sup>1</sup>              |    Efficiency level    |Compliance date: Products manufactured on and after . . .|
 |-------------------------------------------------------|------------------------------------------------------|---------------------------------------------------|------------------------|---------------------------------------------------------|
@@ -255,4 +253,19 @@ Table 13 to § 431.97 - Minimum Efficiency Standards for Variable Refrigerant Fl
 
 <sup>1</sup> VRF Multi-Split Heat Pumps (Air-Cooled) with heat recovery fall under the category of “All Other Types of Heating” unless they also have electric resistance heating, in which case it falls under the category for “No Heating or Electric Resistance Heating.”
 
-[77 FR 28991, May 16, 2012, as amended at 77 FR 76830, Dec. 31, 2012; 80 FR 42664, July 17, 2015; 80 FR 43212, July 21, 2015; 80 FR 56895, Sept. 21, 2015; 80 FR 57500, Sept. 23, 2015; 81 FR 2529, Jan. 15, 2016; 81 FR 53907, Aug. 15, 2016]
+(g) Each direct expansion-dedicated outdoor air system manufactured on or after the compliance date listed in table 14 to this section must meet the applicable minimum energy efficiency standard level(s) set forth in this section.
+
+Table 14 to § 431.97—Minimum Efficiency Standards for Direct Expansion-Dedicated Outdoor Air Systems
+
+|                Equipment type                |                                 Subcategory                                  |        Efficiency level        |Compliance date: equipment manufactured starting on . . .|
+|----------------------------------------------|------------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------|
+|Direct expansion-dedicated outdoor air systems|         (AC)—Air-cooled without ventilation energy recovery systems          |          ISMRE2 = 3.8          |                      May 1, 2024.                       |
+|                                              |       (AC w/VERS)—Air-cooled with ventilation energy recovery systems        |          ISMRE2 = 5.0          |                      May 1, 2024.                       |
+|                                              |   (ASHP)—Air-source heat pumps without ventilation energy recovery systems   |ISMRE2 = 3.8  <br/>ISCOP2 = 2.05|                      May 1, 2024.                       |
+|                                              | (ASHP w/VERS)—Air-source heat pumps with ventilation energy recovery systems |ISMRE2 = 5.0  <br/>ISCOP2 = 3.20|                      May 1, 2024.                       |
+|                                              |        (WC)—Water-cooled without ventilation energy recovery systems         |          ISMRE2 = 4.7          |                      May 1, 2024.                       |
+|                                              |      (WC w/VERS)—Water-cooled with ventilation energy recovery systems       |          ISMRE2 = 5.1          |                      May 1, 2024.                       |
+|                                              |  (WSHP)—Water-source heat pumps without ventilation energy recovery systems  |ISMRE2 = 3.8  <br/>ISCOP2 = 2.13|                      May 1, 2024.                       |
+|                                              |(WSHP w/VERS)—Water-source heat pumps with ventilation energy recovery systems|ISMRE2 = 4.6  <br/>ISCOP2 = 4.04|                      May 1, 2024.                       |
+
+[77 FR 28991, May 16, 2012, as amended at 77 FR 76830, Dec. 31, 2012; 80 FR 42664, July 17, 2015; 80 FR 43212, July 21, 2015; 80 FR 56895, Sept. 21, 2015; 80 FR 57500, Sept. 23, 2015; 81 FR 2529, Jan. 15, 2016; 81 FR 53907, Aug. 15, 2016; 87 FR 65668, Nov. 1, 2022]

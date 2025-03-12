@@ -1,5 +1,7 @@
 ##### § 1111.11 Meeting to discuss procedural matters. #####
 
+Link to an amendment published at 88 FR 318, Jan. 4, 2023.
+
 (a) *Generally.* In all complaint proceedings, other than those challenging the reasonableness of a rail rate based on stand-alone cost or the simplified standards, the parties shall meet, or discuss by telephone, discovery and procedural matters within 12 days after an answer to a complaint is filed. Within 19 days after an answer to a complaint is filed, the parties, either jointly or separately, shall file a report with the Board setting forth a proposed procedural schedule to govern future activities and deadlines in the case.
 
 (b) *Stand-alone cost or simplified standards complaints.* In complaints challenging the reasonableness of a rail rate based on stand-alone cost or the simplified standards, the parties shall meet, or discuss by telephone or through email, discovery and procedural matters within 7 days after the complaint is filed in stand-alone cost cases, and 7 days after the mediation period ends in simplified standards cases. The parties should inform the Board as soon as possible thereafter whether there are unresolved disputes that require Board intervention and, if so, the nature of such disputes.

@@ -1,7 +1,5 @@
 ##### § 17.47 Special rules - insects. #####
 
-Link to an amendment published at 87 FR 73678, Dec. 1, 2022.
-
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
 (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
@@ -152,4 +150,50 @@ Link to an amendment published at 87 FR 73678, Dec. 1, 2022.
 
 (B) Note: The map of areas exempted from take prohibitions follows:
 
-![](/graphics/er21de21.001.gif)[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021]
+![](/graphics/er21de21.001.gif)
+
+(f) [Reserved]
+
+(g) Puerto Rican harlequin butterfly (*Atlantea tulita*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Puerto Rican harlequin butterfly. Except as provided under paragraph (g)(2) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b).
+
+(ii) Take, as set forth at § 17.21(c)(1).
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1).
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e).
+
+(v) Sale or offer for sale, as set forth at § 17.21(f).
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Normal agricultural practices, including pesticide use, which are carried out in accordance with any existing regulations, permit and label requirements, and best management practices, as long as the practices do not include:
+
+(*1*) Clearing or disturbing forest or prickly bush (*Oplonia spinosa*) to create or expand agricultural areas; or
+
+(*2*) Applying pesticides in or contiguous to habitat known to be occupied by the Puerto Rican harlequin butterfly.
+
+(B) Normal residential and urban activities, such as mowing, weeding, edging, and fertilizing.
+
+(C) Maintenance of recreational trails in Commonwealth Forests by mechanically clearing vegetation, only when approved by or under the auspices of the Puerto Rico Department of Natural and Environmental Resources, or conducted on lands established by private organizations or individuals solely for conservation or recreation.
+
+(D) Habitat management or restoration activities expected to provide a benefit to Puerto Rican harlequin butterfly or other sensitive species, including removal of nonnative, invasive plants. These activities must be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
+
+(E) Projects requiring removal of the host plant to access and remove illicit garbage dumps that are potential sources of intentionally set fires, provided such projects are conducted in coordination with and reported to the Service.
+
+(F) Fruit fly trapping by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service, provided trapping activities do not disturb the host plant.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022]

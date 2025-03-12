@@ -1,3 +1,5 @@
-##### § 8.35 xxx #####
+##### § 8.35 Eligibility for those insured under 38 U.S.C. 1922(a) to purchase insurance under 38 U.S.C. 1922B after December 31, 2025. #####
 
-Link to an amendment published at 87 FR 73654, Dec. 1, 2022.
+An insured under a Legacy Service Disabled Veterans' Insurance policy shall be eligible to purchase VALife coverage after December 31, 2025, upon cancellation of his or her Legacy Service Disabled Veterans' Insurance policy and surrender of any cash value that his or her coverage has accrued in accordance with 38 CFR 8.11. The policyholder must also submit a statement in a form that is prescribed by the Secretary, which clearly indicates that the policyholder desires to terminate his or her existing life insurance coverage in order to apply for VALife and initiate the two-year waiting period imposed by 38 U.S.C. 1922B(c)(2) before such VALife coverage is in force.
+
+(Authority: 38 U.S.C. 501, 1901-1929, 1981-1988)(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0906)[87 FR 73654, Dec. 1, 2022]

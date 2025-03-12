@@ -1,6 +1,6 @@
 ##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment. #####
 
-Link to an amendment published at 87 FR 65667, Nov. 1, 2022.Link to an amendment published at 87 FR 75166, Dec. 7, 2022.Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
+Link to an amendment published at 87 FR 75166, Dec. 7, 2022.Link to an amendment published at 87 FR 77317, Dec. 16, 2022.
 
 (a) Determination of represented values. Manufacturers must determine the represented values, which include the certified ratings, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
@@ -57,7 +57,20 @@ Table 1 to Paragraph (a)(3)(i)(A)
 |    Sound Traps/Sound Attenuators     |An assembly of structures through which the supply air passes before leaving the equipment or through which the return air from the building passes immediately after entering the equipment, for which the sound insertion loss is at least 6 dB for the 125 Hz octave band frequency range.|
 |             VERS Preheat             |                                                                                           Electric resistance, hydronic, or steam heating coils used for preheating outdoor air entering a VERS.                                                                                            |
 
-(B) [Reserved]
+(B) When certifying, the following provisions apply.
+
+(*1*) For ratings based on tested samples, the represented value of moisture removal capacity shall be between 95 and 100 percent of the mean of the moisture removal capacities measured for the units in the sample selected, as described in paragraph (a)(1)(ii) of this section, rounded to the nearest lb/hr multiple specified in table 2 to paragraph (a)(3)(i)(B) of this section.
+
+(*2*) For ratings based on an AEDM, the represented value of moisture removal capacity shall be the moisture removal capacity output simulated by the AEDM, as described in paragraph (a)(2) of this section, rounded to the nearest lb/hr multiple specified in table 2 to paragraph (a)(3)(i)(B) of this section.
+
+Table 2 Paragraph (a)(3)(i)(B) - Rounding Requirements for Rated Moisture Removal Capacity
+
+|Moisture removal capacity (MRC), lb/hr|Rounding multiples,  <br/>lb/hr|
+|--------------------------------------|-------------------------------|
+|            0 \< MRC ≤ 30             |              0.2              |
+|            30 \< MRC ≤ 60            |              0.5              |
+|           60 \< MRC ≤ 180            |               1               |
+|              180 \< MRC              |               2               |
 
 (ii) Variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with cooling capacity less than 65,000 btu/h). When certifying to standards in terms of IEER, the following provisions apply.
 
@@ -75,7 +88,7 @@ Table 1 to Paragraph (a)(3)(i)(A)
 
 (*iii*) Among the group of all indoor models meeting the criteria from paragraphs (a)(3)(ii)(B)(*2*)(*i*) and (*ii*) of this section, has the least number (which could be zero) of components listed in Table 2 to paragraph (a)(3)(ii)(B)(*2*) of this section.
 
-Table 2 to Paragraph (a)(3)(ii)(B)(2) - Specific Components for Variable Refrigerant Flow Multi-Split Systems
+Table 3 to Paragraph (a)(3)(ii)(B)(2) - Specific Components for Variable Refrigerant Flow Multi-Split Systems
 
 |         Component         |                                                                            Description                                                                            |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -184,4 +197,4 @@ Table 2 to Paragraph (a)(3)(ii)(B)(2) - Specific Components for Variable Refrige
 
 (c) Alternative methods for determining efficiency or energy use for commercial HVAC equipment can be found in § 429.70 of this subpart.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022; 87 FR 65667, Nov. 1, 2022]

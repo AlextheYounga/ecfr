@@ -1,5 +1,7 @@
 ##### § 1111.10 Procedural schedule in cases using simplified standards. #####
 
+Link to an amendment published at 88 FR 318, Jan. 4, 2023.
+
 (a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedules will apply in cases using the simplified standards:
 
 (1)(i) In cases relying upon the Simplified-SAC methodology:

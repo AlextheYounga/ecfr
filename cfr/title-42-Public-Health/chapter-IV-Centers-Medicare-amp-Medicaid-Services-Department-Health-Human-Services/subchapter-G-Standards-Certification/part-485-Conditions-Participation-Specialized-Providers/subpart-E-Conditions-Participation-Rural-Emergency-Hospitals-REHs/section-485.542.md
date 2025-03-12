@@ -14,7 +14,7 @@ The REH must comply with all applicable Federal, state, and local emergency prep
 
 (b) *Policies and procedures.* The REH must develop and implement emergency preparedness policies and procedures, based on the emergency plan set forth in paragraph (a) of this section, risk assessment at paragraph (a)(1) of this section, and the communication plan at paragraph (c) of this section. The policies and procedures must be reviewed and updated at least every 2 years. At a minimum, the policies and procedures must address the following:
 
-(1) The provision of subsistence needs for staff and patients, whether they evacuate or shelter in place, include, but are not limited to -
+(1) The provision of subsistence needs for staff and patients, whether they evacuate or shelter in place, include, but are not limited to—
 
 (i) Food, water, medical, and pharmaceutical supplies;
 
@@ -120,15 +120,15 @@ The REH must comply with all applicable Federal, state, and local emergency prep
 
 (iii) Analyze the REH's response to and maintain documentation of all drills, tabletop exercises, and emergency events and revise the REH's emergency plan, as needed.
 
-(e) *Emergency and standby power systems.* The CAH must implement emergency and standby power systems based on the emergency plan set forth in paragraph (a) of this section.
+(e) *Emergency and standby power systems.* The REH must implement emergency and standby power systems based on the emergency plan set forth in paragraph (a) of this section.
 
 (1) *Emergency generator location.* The generator must be located in accordance with the location requirements found in the Health Care Facilities Code (NFPA 99 and Tentative Interim Amendments TIA 12-2, TIA 12-3, TIA 12-4, TIA 12-5, and TIA 12-6), Life Safety Code (NFPA 101 and Tentative Interim Amendments TIA 12-1, TIA 12-2, TIA 12-3, and TIA 12-4), and NFPA 110, when a new structure is built or when an existing structure or building is renovated.
 
-(2) *Emergency generator inspection and testing.* The CAH must implement emergency power system inspection and testing requirements found in the Health Care Facilities Code, NFPA 110, and the Life Safety Code.
+(2) *Emergency generator inspection and testing.* The REH must implement emergency power system inspection and testing requirements found in the Health Care Facilities Code, NFPA 110, and the Life Safety Code.
 
-(3) *Emergency generator fuel*. CAHs that maintain an onsite fuel source to power emergency generators must have a plan for how it will keep emergency power systems operational during the emergency, unless it evacuates.
+(3) *Emergency generator fuel.* REHs that maintain an onsite fuel source to power emergency generators must have a plan for how it will keep emergency power systems operational during the emergency, unless it evacuates.
 
-(f) *Integrated healthcare systems.* If an REH is part of a healthcare system consisting of multiple separately certified healthcare facilities that elects to have a unified and integrated emergency preparedness program, the REH may choose to participate in the healthcare system's coordinated emergency preparedness program. If elected, the unified and integrated emergency preparedness program must -
+(f) *Integrated healthcare systems.* If an REH is part of a healthcare system consisting of multiple separately certified healthcare facilities that elects to have a unified and integrated emergency preparedness program, the REH may choose to participate in the healthcare system's coordinated emergency preparedness program. If elected, the unified and integrated emergency preparedness program must—
 
 (1) Demonstrate that each separately certified facility within the system actively participated in the development of the unified and integrated emergency preparedness program.
 
@@ -173,3 +173,5 @@ The REH must comply with all applicable Federal, state, and local emergency prep
 (xii) NFPA 110, Standard for Emergency and Standby Power Systems, 2010 edition, including TIAs to chapter 7, issued August 6, 2009.
 
 (2) [Reserved]
+
+[87 FR 72293, Nov. 23, 2022; 88 FR 299, Jan. 4, 2023]
