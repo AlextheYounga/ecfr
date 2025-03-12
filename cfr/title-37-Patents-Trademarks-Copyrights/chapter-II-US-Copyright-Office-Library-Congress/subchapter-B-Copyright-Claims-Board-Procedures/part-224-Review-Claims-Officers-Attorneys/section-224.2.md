@@ -1,5 +1,7 @@
 ##### § 224.2 Dismissal for unsuitability. #####
 
+Link to an amendment published at 87 FR 30081, May 17, 2022.
+
 (a) *Review by Copyright Claims Attorney.* During the compliance review under § 224.1, the Copyright Claims Attorney shall review the claim or counterclaim for unsuitability on grounds set forth in 17 U.S.C. 1506(f)(3). If the Copyright Claims Attorney concludes that the claim should be dismissed for unsuitability, the Copyright Claims Attorney shall recommend to the Board that the Board dismiss the claim and shall set forth the basis for that conclusion.
 
 (b) *Dismissal by the Board for unsuitability.* (1) If, upon recommendation by a Copyright Claims Attorney as set forth in paragraph (a) of this section or at any other time in the proceeding upon the request of a party or on its own initiative, the Board determines that a claim or counterclaim should be dismissed for unsuitability under 17 U.S.C. 1506(f)(3), the Board shall issue an order stating its intention to dismiss the claim without prejudice.

@@ -1,5 +1,7 @@
 ##### § 222.3 Initial notice. #####
 
+Link to an amendment published at 87 FR 30077, May 17, 2022.
+
 (a) *Content of initial notice.* The Board shall prepare an *initial notice* for the claimant(s) to serve on each respondent that shall -
 
 (1) Include on the first page a caption that provides the parties' names and includes the docket number assigned by the Board;
