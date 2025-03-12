@@ -28,18 +28,16 @@
 
 (5) The signals for the remote operation center or on-site bridge tender to respond to a sound signal for a bridge opening include:
 
-(i) When the draw can be opened immediately - a sound signal of one prolonged blast followed by one short blast and illumination of a fixed white light not more than 30 seconds after the requesting signal; or
+(i) When the draw can be opened immediately—a sound signal of one prolonged blast followed by one short blast and illumination of a fixed white light not more than 30 seconds after the requesting signal; or
 
-(ii) When the draw cannot be opened immediately - five short blasts sounded in rapid succession and illumination of a fixed red light not more 30 seconds after the vessel's opening signal.
+(ii) When the draw cannot be opened immediately—five short blasts sounded in rapid succession and illumination of a fixed red light not more 30 seconds after the vessel's opening signal.
 
 (6) The signals for the remote operation center or on-site bridge tender to respond to a visual signal for a bridge opening include:
 
-(i) When the draw can be opened immediately - illumination of a fixed white light not more than 30 seconds after the requesting signal; or
+(i) When the draw can be opened immediately—illumination of a fixed white light not more than 30 seconds after the requesting signal; or
 
-(ii) When the draw cannot be opened immediately - illumination of a fixed red light not more 30 seconds after the vessel's opening signal.
+(ii) When the draw cannot be opened immediately—illumination of a fixed red light not more 30 seconds after the vessel's opening signal.
 
 (7) The fixed white light will remain illuminated until the bridge reaches the fully open position. The fixed white and red lights will be positioned on the east (New Jersey) bridge abutment adjacent to the navigation span.
 
-(c) The draw of the SR 413 (Burlington-Bristol) Bridge, mile 117.8, between Burlington, NJ and Bristol, PA, shall open on signal if at least a two-hour notice is given from June 19, 2019, through 7:59 a.m. on September 17, 2019.
-
-[USCG-2016-0257, 83 FR 59311, Nov. 23, 2018, as amended by USCG-2018-0228, 84 FR 22703, May 20, 2019]Effective Date Note:By USCG-2018-0228, 84 FR 22703, May 20, 2019, in § 117.716, paragraph (c) was added, effective until Sept. 17, 2019.
+[USCG-2016-0257, 83 FR 59311, Nov. 23, 2018]

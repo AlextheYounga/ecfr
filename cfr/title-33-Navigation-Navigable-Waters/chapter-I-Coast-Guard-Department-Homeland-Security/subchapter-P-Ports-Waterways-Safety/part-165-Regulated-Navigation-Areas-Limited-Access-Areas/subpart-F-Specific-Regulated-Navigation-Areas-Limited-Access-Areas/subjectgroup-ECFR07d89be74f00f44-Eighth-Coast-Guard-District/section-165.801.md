@@ -1,5 +1,7 @@
 ##### § 165.801 Annual fireworks displays and other events in the Eighth Coast Guard District requiring safety zones. #####
 
+Link to an amendment published at 84 FR 48284, Sept. 13, 2019.
+
 The Coast Guard is establishing safety zones for the annual fireworks displays and other events requiring safety zones listed in the table to § 165.801.
 
 (a) In accordance with the general regulations in § 165 of this part, entry into this zone is prohibited unless authorized by the Captain of the Port or a designated representative.
