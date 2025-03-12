@@ -4,7 +4,7 @@
 
 (1) Experiments that involve the deliberate transfer of, or selection for, a drug resistance trait to select agents that are not known to acquire the trait naturally, if such acquisition could compromise the control of disease agents in humans, veterinary medicine, or agriculture.
 
-(2) Experiments involving the deliberate formation of synthetic or recombinant DNA containing genes for the biosynthesis of select toxins lethal for vertebrates at an LD[50] \<100
+(2) Experiments involving the deliberate formation of synthetic or recombinant DNA containing genes for the biosynthesis of select toxins lethal for vertebrates at an LD[50] \<100 ng/kg body weight.
 
 (b) The HHS Secretary may revoke approval to conduct any of the experiments in paragraph (a) of this section, or revoke or suspend a certificate of registration, if the individual or entity fails to comply with the requirements of this part.
 

@@ -6,7 +6,7 @@
 
 (2) Discharges that meet the criteria for exclusion from site neutral payment rate specified in paragraph (b) of this section are paid based on the standard Federal prospective payment rate established under § 412.523.
 
-(b) *Criteria for exclusion from the site neutral payment rate* - *General criteria* - (i) *Basis and scope.* A discharge that meets the following criteria is excluded from the site neutral payment rate specified under this section.
+(b) *Criteria for exclusion from the site neutral payment rate* - (1) *General criteria* - (i) *Basis and scope.* A discharge that meets the following criteria is excluded from the site neutral payment rate specified under this section.
 
 (A) The discharge from the long-term care hospital does not have a principal diagnosis relating to a psychiatric diagnosis or to rehabilitation based on the LTC-DRG assignment of the discharge under § 412.513; and
 

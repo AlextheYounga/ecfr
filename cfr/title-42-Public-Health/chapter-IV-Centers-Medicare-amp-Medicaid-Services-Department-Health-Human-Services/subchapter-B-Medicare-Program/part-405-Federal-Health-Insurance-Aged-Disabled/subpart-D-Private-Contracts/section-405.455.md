@@ -1,6 +1,6 @@
-##### § 405.455 Application to Medicare + Choice contracts. #####
+##### § 405.455 Application to Medicare Advantage contracts. #####
 
-An organization that has a contract with CMS to provide one or more Medicare Advantage(M + C) plans to beneficiaries (part 422 of this chapter):
+An organization that has a contract with CMS to provide one or more Medicare Advantage (M + C) plans to beneficiaries (part 422 of this chapter):
 
 (a) Must acquire and maintain information from Medicare carriers on physicians and practitioners who have opted-out of Medicare.
 

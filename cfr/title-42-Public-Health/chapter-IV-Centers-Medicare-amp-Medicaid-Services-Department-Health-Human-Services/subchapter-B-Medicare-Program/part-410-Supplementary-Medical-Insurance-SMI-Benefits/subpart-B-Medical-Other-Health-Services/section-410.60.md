@@ -56,4 +56,4 @@
 
 (3) For purposes of applying the limitation, outpatient physical therapy excludes services furnished by a hospital directly or under arrangements.
 
-[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68001, Nov. 13, 2014]
+[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014]

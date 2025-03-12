@@ -102,12 +102,6 @@
 
 (C) A foreign passthru payment subject to withholding under chapter 4.
 
-(A) [Reserved] For further guidance, see § 1.1474-1T(d)(2)(i)(A).
-
-(B) [Reserved] For further guidance, see § 1.1474-1T(d)(2)(i)(B).
-
-(C) [Reserved] For further guidance, see § 1.1474-1T(d)(2)(i)(C).
-
 (ii) *Exception to reporting.* Except as otherwise provided in this paragraph (d)(2)(ii), a chapter 4 reportable amount does not include an amount paid to a U.S. person if the withholding agent treats such U.S. person as a payee for purposes of determining whether withholding is required under §§ 1.1471-2 and 1.1472-1. A chapter 4 reportable amount does, however, include an amount paid to a participating FFI or registered deemed-compliant FFI to the extent allocable to its reporting pool of payees that are U.S. persons as described in paragraph (d)(4)(i)(B) of this section.
 
 (iii) *Coordination with chapter 3.* A payment that is not subject to reporting under this paragraph (d)(2) may be subject to chapter 3 reporting on Form 1042-S to the extent provided on such form and its accompanying instructions or under § 1.1461-1(c)(2). The recipient information and other information required to be reported on Form 1042-S for purposes of chapter 4 shall be in addition to the information required to be provided on Form 1042-S for purposes of chapter 3.

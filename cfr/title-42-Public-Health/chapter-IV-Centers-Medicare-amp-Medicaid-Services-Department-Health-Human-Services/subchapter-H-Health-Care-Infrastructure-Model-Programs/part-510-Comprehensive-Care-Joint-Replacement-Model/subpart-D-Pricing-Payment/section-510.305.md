@@ -1,6 +1,6 @@
 ##### § 510.305 Determination of the NPRA and reconciliation process. #####
 
-Link to an amendment published at 82 FR 613, Jan. 3, 2017.
+Link to an amendment published at 82 FR 613, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.
 
 (a) *General.* Providers and suppliers furnishing items and services included in the episode bill for such items and services in accordance with existing rules and as if this part were not in effect.
 

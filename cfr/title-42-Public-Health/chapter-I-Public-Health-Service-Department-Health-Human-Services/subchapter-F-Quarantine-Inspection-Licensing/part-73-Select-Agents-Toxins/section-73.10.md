@@ -1,6 +1,6 @@
 ##### § 73.10 Restricting access to select agents and toxins; security risk assessments. #####
 
-Link to an amendment published at 82 FR 6293, January 19, 2017.
+Link to an amendment published at 82 FR 6293, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 (a) An individual or entity required to register under this part may not provide an individual access to a select agent or toxin, and an individual may not access a select agent or toxin, unless the individual is approved by the HHS Secretary or Administrator, following a security risk assessment by the Attorney General.
 

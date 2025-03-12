@@ -22,9 +22,9 @@
 
 (2) Administration or validation of consumer or provider surveys of quality of care.
 
-(3) Calculation of performance measures in addition to those reported by an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) and validated by an EQRO in accordance with (b)(2) of this section.
+(3) Calculation of performance measures in addition to those reported by an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) and validated by an EQRO in accordance with paragraph (b)(1)(ii) of this section.
 
-(4) Conduct of performance improvement projects in addition to those conducted by an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) and validated by an EQRO in accordance with (b)(1) of this section.
+(4) Conduct of performance improvement projects in addition to those conducted by an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) and validated by an EQRO in accordance with paragraph (b)(1)(i) of this section.
 
 (5) Conduct of studies on quality that focus on a particular aspect of clinical or nonclinical services at a point in time.
 
@@ -32,4 +32,4 @@
 
 (d) *Technical assistance.* The EQRO may, at the State's direction, provide technical guidance to groups of MCOs, PIHPs, PAHPs, or PCCM entities (described in § 438.310(c)(2)) to assist them in conducting activities related to the mandatory and optional activities described in this section that provide information for the EQR and the resulting EQR technical report.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]Editorial Note:At 82 FR 39, Jan. 3, 2017, § 438.358 was amended; however, the amendments in instructions 8. and 9. could not be incorporated due to inaccurate amendatory instructions.
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 12510, Mar. 6, 2017]

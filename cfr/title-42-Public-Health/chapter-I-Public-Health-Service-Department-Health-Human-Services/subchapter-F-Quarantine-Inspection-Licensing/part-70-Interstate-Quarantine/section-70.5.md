@@ -1,6 +1,6 @@
 ##### § 70.5 Certain communicable diseases; special requirements. #####
 
-Link to an amendment published at 82 FR 6970, January 19, 2017.
+Link to an amendment published at 82 FR 6970, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10719, Feb. 15, 2017.
 
 The following provisions are applicable with respect to any person who is in the communicable period of cholera, plague, smallpox, typhus or yellow fever, or who, having been exposed to any such disease, is in the incubation period thereof:
 

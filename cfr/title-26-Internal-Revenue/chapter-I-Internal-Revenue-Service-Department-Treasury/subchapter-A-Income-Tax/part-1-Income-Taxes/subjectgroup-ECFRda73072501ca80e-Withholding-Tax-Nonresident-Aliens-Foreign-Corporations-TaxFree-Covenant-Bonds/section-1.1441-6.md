@@ -44,6 +44,8 @@ Example 4.[Reserved]. For further guidance, see § 1.1441-6T(b)(2)(iv) *Example 
 
 (ii) *Persons other than individuals.* For a person other than an individual, the documentary evidence referred to in paragraph (c)(1) of this section is any documentation that includes the name of the entity and the address of its principal office in the treaty country, and is an official document issued by an authorized governmental body (e.g., a government or agency thereof, or a municipality).
 
+(5) *Statements regarding entitlement to treaty benefits* -
+
 (i) [Reserved]. For further guidance, see § 1.1441-6T(c)(5)(i).
 
 (ii) *Statement regarding whether the taxpayer derives the income.* A taxpayer that is not an individual must also provide, in addition to the documentary evidence and the statement described in paragraph (c)(5)(i) of this section, a statement that any income for which it intends to claim benefits under an applicable income tax treaty is income that will properly be treated as derived by itself as a resident of the applicable treaty jurisdiction within the meaning of section 894 and the regulations thereunder. This requirement does not apply if the taxpayer furnishes a certificate of residence that certifies that fact.

@@ -44,4 +44,4 @@
 
 (g) *Appeals.* Any OPO or histocompatibility laboratory that disagrees with a contractor's cost determination under this section is entitled to an contractor hearing, in accordance with the procedures contained in §§ 405.1811 through 405.1833, if the amount in controversy is $1,000 or more.
 
-[62 FR 43668, Aug. 15, 1997, as amended at 71 FR 31046, May 31, 2006; 81 FR 57270, Aug. 22, 2016]
+[62 FR 43668, Aug. 15, 1997, as amended at 71 FR 31046, May 31, 2006; 81 FR 57272, Aug. 22, 2016]

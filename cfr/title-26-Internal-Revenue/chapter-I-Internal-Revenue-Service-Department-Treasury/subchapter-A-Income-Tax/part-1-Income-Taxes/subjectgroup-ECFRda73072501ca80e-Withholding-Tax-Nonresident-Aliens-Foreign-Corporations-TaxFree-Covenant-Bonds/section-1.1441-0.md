@@ -356,8 +356,6 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (*8*) Applicability to flow-through entities and certain U.S. branches.
 
-(D) Alternative procedures.
-
 (E) Notice procedures.
 
 (v) Withholding certificate from certain U.S. branches (including territory financial institutions).

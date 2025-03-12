@@ -1,6 +1,6 @@
 ##### § 73.4 Overlap select agents and toxins. #####
 
-Link to an amendment published at 82 FR 6291, January 19, 2017.
+Link to an amendment published at 82 FR 6291, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 (a) Except for exclusions under paragraphs (d) and (e) of this section, the HHS Secretary has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety, to animal health, or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 

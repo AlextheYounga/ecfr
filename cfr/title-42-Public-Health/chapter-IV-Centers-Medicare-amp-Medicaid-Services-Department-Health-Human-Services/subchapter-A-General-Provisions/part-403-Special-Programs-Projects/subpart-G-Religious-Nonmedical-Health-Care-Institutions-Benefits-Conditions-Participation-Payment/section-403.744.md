@@ -2,7 +2,7 @@
 
 (a) *General.* An RNHCI must meet the following conditions:
 
-(1) Except as otherwise provided in this section -
+(1) Except as otherwise provided in this section—
 
 (i) The RNHCI must meet the applicable provisions and must proceed in accordance with the Life Safety Code (NFPA 101 and Tentative Interim Amendments TIA 12-1, TIA 12-2, TIA 12-3, and TIA 12-4).
 
@@ -11,18 +11,6 @@
 (2) The RNHCI must have written fire control plans that contain provisions for prompt reporting of fires; extinguishing fires; protection of patients, staff, and the public; evacuation; and cooperation with fire fighting authorities.
 
 (3) The RNHCI must maintain written evidence of regular inspection and approval by State or local fire control agencies.
-
-(4) Notwithstanding any provisions of the 2000 edition of the Life Safety Code to the contrary, the RNHCI may place alcohol-based hand rub dispensers in its facility if -
-
-(i) Use of alcohol-based hand rub dispensers does not conflict with any State or local codes that prohibit or otherwise restrict the placement of alcohol-based hand rub dispensers in health care facilities;
-
-(ii) The dispensers are installed in a manner that minimizes leaks and spills that could lead to falls;
-
-(iii) The dispensers are installed in a manner that adequately protects against inappropriate access;
-
-(iv) The dispensers are installed in accordance with chapter 18.3.2.7 or chapter 19.3.2.7 of the 2000 edition of the Life Safety Code, as amended by NFPA Temporary Interim Amendment 00-1(101), issued by the Standards Council of the National Fire Protection Association on April 15, 2004. The Director of the Office of the Federal Register has approved NFPA Temporary Interim Amendment 00-1(101) for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. A copy of the amendment is available for inspection at the CMS Information Resource Center, 7500 Security Boulevard, Baltimore, MD and at the Office of the Federal Register, 800 North Capitol Street NW., Suite 700, Washington, DC. Copies may be obtained from the National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02269; and
-
-(v) The dispensers are maintained in accordance with dispenser manufacturer guidelines.
 
 (4) The RNHCI may place alcohol-based hand rub dispensers in its facility if the dispensers are installed in a manner that adequately protects against inappropriate access.
 

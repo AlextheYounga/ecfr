@@ -92,4 +92,4 @@
 
 (g) *CAH units not meeting applicable requirements.* If a psychiatric or rehabilitation unit of a CAH does not meet the requirements of § 485.647 with respect to a cost reporting period, no payment may be made to the CAH for services furnished in that unit for that period. Payment to the CAH for services in the unit may resume only after the start of the first cost reporting period beginning after the unit has demonstrated to CMS that the unit meets the requirements of § 485.647.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39820, Sept. 1, 1992; 58 FR 46337, Sept. 1, 1993; 59 FR 45400, Sept. 1, 1994; 64 FR 41540, July 30, 1999; 66 FR 39933, Aug. 1, 2001; 66 FR 41387, Aug. 7, 2001; 67 FR 50111, Aug. 1, 2002; 68 FR 45469, 45698, Aug. 1, 2003; 69 FR 49241, Aug. 11, 2004; 69 FR 66976, Nov. 15, 2004; 70 FR 47952, Aug. 15, 2005; 71 FR 48137, Aug. 18, 2006; 71 FR 58287, Oct. 3, 2006; 76 FR 47891, Aug. 5, 2011; 78 FR 47934, Aug. 6, 2013]
+[50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

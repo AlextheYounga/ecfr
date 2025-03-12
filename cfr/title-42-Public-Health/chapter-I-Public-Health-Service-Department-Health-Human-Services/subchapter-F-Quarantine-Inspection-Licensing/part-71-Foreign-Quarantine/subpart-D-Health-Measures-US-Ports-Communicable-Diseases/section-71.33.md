@@ -1,6 +1,6 @@
 ##### § 71.33 Persons: Isolation and surveillance. #####
 
-Link to an amendment published at 82 FR 6976, January 19, 2017.
+Link to an amendment published at 82 FR 6976, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10719, Feb. 15, 2017.
 
 (a) Persons held in isolation under this subpart may be held in facilities suitable for isolation and treatment.
 

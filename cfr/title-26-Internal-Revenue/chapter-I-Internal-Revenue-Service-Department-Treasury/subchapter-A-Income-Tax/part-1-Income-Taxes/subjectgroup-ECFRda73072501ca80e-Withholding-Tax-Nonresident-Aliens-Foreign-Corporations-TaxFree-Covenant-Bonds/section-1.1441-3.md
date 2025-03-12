@@ -90,6 +90,4 @@ Example.College X awards a qualified scholarship within the meaning of section 1
 
 (i) *Effective/applicability date.* Except as otherwise provided in paragraphs (g)(2) and (h)(3) of this section, this section applies to payments made on or after January 6, 2017. (For payments made after June 30, 2014, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1, revised April 1, 2016. For payments made after December 31, 2000, see this section as in effect and contained in 26 CFR part 1 as revised April 1, 2013.)
 
-(j) [Reserved] For further guidance, see § 1.1441-3T(j).
-
 [T.D. 6500, 25 FR 12074, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.1441-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

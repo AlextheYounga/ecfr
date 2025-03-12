@@ -1,6 +1,6 @@
 ##### § 73.1 Definitions. #####
 
-Link to an amendment published at 82 FR 6290, January 19, 2017.
+Link to an amendment published at 82 FR 6290, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 For purposes of this part:
 

@@ -1,6 +1,6 @@
 ##### § 510.610 Waiver of SNF 3-day rule. #####
 
-Link to an amendment published at 82 FR 622, Jan. 3, 2017.
+Link to an amendment published at 82 FR 622, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.
 
 (a) *Waiver of the SNF 3-day rule.* For episodes being tested in the CJR model in performance years 2 through 5, CMS waives the SNF 3-day rule for coverage of a SNF stay for a CJR beneficiary following the anchor hospitalization, but only if the SNF is identified on the applicable calendar quarter list of qualified SNFs at the time of CJR beneficiary admission to the SNF.
 

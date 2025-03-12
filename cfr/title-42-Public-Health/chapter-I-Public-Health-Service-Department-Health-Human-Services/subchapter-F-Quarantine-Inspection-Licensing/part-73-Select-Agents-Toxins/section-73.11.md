@@ -1,6 +1,6 @@
 ##### § 73.11 Security. #####
 
-Link to an amendment published at 82 FR 6293, January 19, 2017.
+Link to an amendment published at 82 FR 6293, January 19, 2017.This amendment was delayed until March 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 (a) An individual or entity required to register under this part must develop and implement a written security plan. The security plan must be sufficient to safeguard the select agent or toxin against unauthorized access, theft, loss, or release.
 

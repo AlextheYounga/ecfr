@@ -22,6 +22,4 @@
 
 (2) If a qualified entity voluntarily terminates participation under this subpart, it and its contractors must return to CMS, or destroy, any and all CMS data in its possession within 30 days of notifying CMS of its intent to end its participation.
 
-(7) Fails to ensure authorized users comply with their QE DUAs or analysis use agreements.
-
 [76 FR 76567, Dec. 7, 2011, as amended at 81 FR 44482, July 7, 2016]
