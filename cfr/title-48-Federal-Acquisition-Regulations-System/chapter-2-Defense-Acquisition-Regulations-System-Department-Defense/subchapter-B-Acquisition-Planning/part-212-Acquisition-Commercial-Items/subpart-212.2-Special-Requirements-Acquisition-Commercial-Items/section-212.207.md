@@ -2,7 +2,7 @@
 
 (b) In accordance with section 805 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181), use of time-and-materials and labor-hour contracts for the acquisition of commercial items is authorized only for the following:
 
-(i) Services acquired for support of a commercial item, as described in paragraph (5) of the definition of *commercial item* at FAR 2.101 (41 U.S.C. 103.
+(i) Services acquired for support of a commercial item, as described in paragraph (5) of the definition of *commercial item* at FAR 2.101 (41 U.S.C. 103).
 
 (ii) Emergency repair services.
 
@@ -16,4 +16,4 @@
 
 (D) The use of a time-and-materials or labor-hour contract type is in the best interest of the Government.
 
-[74 FR 34264, July 15, 2009, as amended at 74 FR 35826, July 21, 2009; 76 FR 21812, Apr. 19, 2011; 76 FR 58136, Sept. 20, 2011]
+[74 FR 34264, July 15, 2009, as amended at 74 FR 35826, July 21, 2009; 76 FR 21812, Apr. 19, 2011; 76 FR 58136, Sept. 20, 2011; 87 FR 15817, Mar. 18, 2022]

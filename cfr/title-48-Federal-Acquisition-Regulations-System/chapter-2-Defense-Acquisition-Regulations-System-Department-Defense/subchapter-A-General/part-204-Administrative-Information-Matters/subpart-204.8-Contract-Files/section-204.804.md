@@ -4,13 +4,15 @@
 
 (2) The head of the contracting activity shall assign the highest priority to closeout of contracts awarded for performance in a contingency area. Heads of contracting activities shall monitor and assess on a regular basis the progress of contingency contract closeout activities and take appropriate steps if a backlog occurs. For guidance on the planning and execution of closing out such contracts, see PGI 207.105(b)(20)(C)(*8*) and PGI 225.373(e).
 
-(3)(i) In accordance with section 836 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328) and section 824 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91), contracting officers may close out contracts or groups of contracts through issuance of one or more modifications to such contracts without completing a reconciliation audit or other corrective action in accordance with FAR 4.804-5(a)(3) through (15), as appropriate, if each contract -
+(3)(i) In accordance with section 836 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328), section 824 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91), and section 820 of the National Defense Authorization Act for Fiscal Year 2021 (Pub. L. 116-283), contracting officers may close out contracts or groups of contracts through issuance of one or more modifications to such contracts without completing a reconciliation audit or other corrective action in accordance with FAR 4.804-5(a)(3) through (15), as appropriate, if each contract—
 
-(A) Was entered into on a date that is at least 17 fiscal years before the current fiscal year;
+(A)(*1*) For military construction (as defined at 10 U.S.C. 2801) or shipbuilding, was awarded at least 10 fiscal years before the current fiscal year; or
 
-(B) Has no further supplies or services due under the terms of the contract; and
+(*2*) For all other contracts, was awarded at least 7 fiscal years before the current fiscal year;
 
-(C) Has been determined by a contracting official, at least one level above the contracting officer, to be not otherwise reconcilable, because -
+(B) The performance or delivery was completed at least 4 years prior to the current fiscal year; and
+
+(C) Has been determined by a contracting official, at least one level above the contracting officer, to be not otherwise reconcilable, because—
 
 (*1*) The contract or related payment records have been destroyed or lost; or
 
@@ -22,7 +24,7 @@
 
 (B) For a group of contracts, a bilateral modification of at least one contract shall be made to reflect the negotiated settlement for a group of contracts, and unilateral modifications may be made, as appropriate, to other contracts in the group to reflect the negotiated settlement.
 
-(iii) For contract closeout actions under paragraph (3) of this section, remaining contract balances -
+(iii) For contract closeout actions under paragraph (3) of this section, remaining contract balances—
 
 (A) May be offset with balances in other contract line items within the same contract, regardless of the year or type of appropriation obligated to fund each contract line item and regardless of whether the appropriation obligated to fund such contract line item has closed; and
 
@@ -32,4 +34,4 @@
 
 (4) When using the clause at 252.204-7022, Expediting Contract Closeout, to expedite contract closeout, determine the residual dollar amount upon completion of all applicable closeout requirements of FAR 4.804.
 
-[77 FR 30367, May 22, 2012, as amended at 80 FR 36901, June 26, 2015; 84 FR 18155, Apr. 30, 2019; 86 FR 27277, May 20, 2021]
+[77 FR 30367, May 22, 2012, as amended at 80 FR 36901, June 26, 2015; 84 FR 18155, Apr. 30, 2019; 86 FR 27277, May 20, 2021; 87 FR 15813, Mar. 18, 2022]

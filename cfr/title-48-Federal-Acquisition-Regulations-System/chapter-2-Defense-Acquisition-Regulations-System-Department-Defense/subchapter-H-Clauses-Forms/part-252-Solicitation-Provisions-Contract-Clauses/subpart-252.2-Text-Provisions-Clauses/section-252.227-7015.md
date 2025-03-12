@@ -58,10 +58,10 @@ Technical Data - Commercial Items (FEB 2014)
 
 (End of clause)
 
-*Alternate I* (DEC 2011) As prescribed in 227.7102-4(a)(2), add the following paragraphs (a)(6) and (b)(4) to the basic clause:
+*Alternate I* (MAR 2022) As prescribed in 227.7102-4(a)(2), add the following paragraphs (a)(6) and (b)(4) to the basic clause:
 
-(a)(6) *Vessel design* means the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and the exterior surface shape of all external shipboard equipment and systems. The term includes designs covered by 10 U.S.C. 7317, and designs protectable under 17 U.S.C. 1301, *et seq.*
+(a)(6) *Vessel design* means the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and the exterior surface shape of all external shipboard equipment and systems. The term includes designs covered by 10 U.S.C. 8687, and designs protectable under 17 U.S.C. 1301, *et seq.*
 
 (b)(4) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014]
+[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022]

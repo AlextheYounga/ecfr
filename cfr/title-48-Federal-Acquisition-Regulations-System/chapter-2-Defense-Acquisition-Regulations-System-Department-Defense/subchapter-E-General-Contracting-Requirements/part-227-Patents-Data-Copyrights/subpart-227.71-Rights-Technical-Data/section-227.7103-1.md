@@ -24,6 +24,6 @@
 
 (f) For acquisitions involving major weapon systems or subsystems of major weapon systems, the acquisition plan shall address acquisition strategies that provide for technical data and the associated license rights in accordance with 207.106(S-70).
 
-(g) The Government's rights in a vessel design, and in any useful article embodying a vessel design, must be consistent with the Government's rights in technical data pertaining to the design (10 U.S.C. 7317; 17 U.S.C. 1301(a)(3)).
+(g) The Government's rights in a vessel design, and in any useful article embodying a vessel design, must be consistent with the Government's rights in technical data pertaining to the design (10 U.S.C. 8687; 17 U.S.C. 1301(a)(3)).
 
-[60 FR 33471, June 28, 1995, as amended at 72 FR 51189, Sept. 6, 2007; 74 FR 61044, Nov. 23, 2009]
+[60 FR 33471, June 28, 1995, as amended at 72 FR 51189, Sept. 6, 2007; 74 FR 61044, Nov. 23, 2009; 87 FR 15818, Mar. 18, 2022]

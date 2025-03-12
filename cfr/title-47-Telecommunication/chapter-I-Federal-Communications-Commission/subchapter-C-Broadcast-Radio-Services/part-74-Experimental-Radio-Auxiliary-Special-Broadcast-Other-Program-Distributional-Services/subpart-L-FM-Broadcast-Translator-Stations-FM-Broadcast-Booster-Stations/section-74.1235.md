@@ -1,5 +1,7 @@
 ##### § 74.1235 Power limitations and antenna systems. #####
 
+Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
+
 (a) An application for an FM translator station filed by the licensee or permittee of the primary station to provide fill-in service within the primary station's coverage area will not be accepted for filing if it specifies an effective radiated power (ERP) which exceeds 250 watts.
 
 (b) An application for an FM translator station, other than one for fill-in service which is covered in paragraph (a) of this section, will not be accepted for filing if it specifies an effective radiated power (ERP) which exceeds the maximum ERP (MERP) value determined in accordance with this paragraph. The antenna height above average terrain (HAAT) shall be determined in accordance with § 73.313(d) of this chapter for each of 12 distinct radials, with each radial spaced 30 degrees apart and with the bearing of the first radial bearing true north. Each raidal HAAT value shall be rounded to the nearest meter. For each of the 12 radial directions, the MERP is the value corresponding to the calculated HAAT in the following tables that is appropriate for the location of the translator. For an application specifying a nondirectional transmitting antenna, the specified ERP must not exceed the smallest of the 12 MERP's. For an application specifying a directional transmitting antenna, the ERP in each azimuthal direction must not exceed the MERP for the closest of the 12 radial directions.

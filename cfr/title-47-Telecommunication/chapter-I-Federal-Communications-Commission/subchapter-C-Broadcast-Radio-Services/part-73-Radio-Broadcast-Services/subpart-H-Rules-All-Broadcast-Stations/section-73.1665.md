@@ -1,5 +1,7 @@
 ##### § 73.1665 Main transmitters. #####
 
+Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
+
 (a) Each AM, FM, TV and Class A TV broadcast station must have at least one main transmitter which complies with the provisions of the transmitter technical requirements for the type and class of station. A main transmitter is one which is used for regular program service having power ratings appropriate for the authorized operating power(s).
 
 (b) There is no maximum power rating limit for FM, TV or Class A TV station transmitters, however, the maximum rated transmitter power of a main transmitter stalled at an AM station shall be as follows:

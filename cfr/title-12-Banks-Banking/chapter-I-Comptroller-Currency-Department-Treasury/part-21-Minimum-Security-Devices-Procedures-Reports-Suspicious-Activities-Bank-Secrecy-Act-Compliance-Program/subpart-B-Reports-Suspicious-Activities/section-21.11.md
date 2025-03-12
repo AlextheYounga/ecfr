@@ -1,5 +1,7 @@
 ##### § 21.11 Suspicious Activity Report. #####
 
+Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
+
 (a) *Purpose and scope.* This section ensures that national banks file a Suspicious Activity Report when they detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act. This section applies to all national banks as well as any Federal branches and agencies of foreign banks licensed or chartered by the OCC.
 
 (b) *Definitions.* For the purposes of this section:

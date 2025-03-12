@@ -1,18 +1,18 @@
-##### 252.225-7012 Preference for certain domestic commodities. #####
+##### 252.225-7012 Preference for Certain Domestic Commodities. #####
 
-                                                                                                            As prescribed in 225.7002-3(a), use the following clause:
+                                                                                                                As prescribed in 225.7002-3(a), use the following clause:
 
-                                                                                                            Preference for Certain Domestic Commodities (DEC 2017)
+                                                                                                                Preference for Certain Domestic Commodities (MAR 2022)
 
-                                                                                                            (a) *Definitions.* As used in this clause -
+                                                                                                                (a) *Definitions.* As used in this clause -
 
-                                                                                                            *Component* means any item supplied to the Government as part of an end product or of another component.
+                                                                                                                *Component* means any item supplied to the Government as part of an end product or of another component.
 
-                                                                                                            *End product* means supplies delivered under a line item of this contract.
+                                                                                                                *End product* means supplies delivered under a line item of this contract.
 
-                                                                                                            *Qualifying country* means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries:
+                                                                                                                *Qualifying country* means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries:
 
-                                                                                                            AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGermanyGreeceIsraelItalyJapanLatviaLuxembourgNetherlandsNorway PolandPortugalSloveniaSpainSwedenSwitzerlandTurkeyUnited Kingdom of Great Britain and Northern Ireland.
+                                                                                                                AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGermanyGreeceIsraelItalyJapanLatviaLithuaniaLuxembourgNetherlandsNorway PolandPortugalSloveniaSpainSwedenSwitzerlandTurkeyUnited Kingdom of Great Britain and Northern Ireland.
 
 *Structural component of a tent* -
 
@@ -88,4 +88,4 @@
 
 (2) Any processing or manufacturing of the fish, shellfish, or seafood shall be performed on a U.S.-flag vessel or in the United States.
 
-(End of clause)[67 FR 20698, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 72 FR 2638, Jan. 22, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 75 FR 34945, June 21, 2010; 77 FR 38736, 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 13546, Feb. 28, 2013; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017]
+(End of clause)[67 FR 20698, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 72 FR 2638, Jan. 22, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 75 FR 34945, June 21, 2010; 77 FR 38736, 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 13546, Feb. 28, 2013; 81 FR 50651, Aug. 2, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 15816, Mar. 18, 2022]

@@ -1,5 +1,7 @@
 ##### § 74.1201 Definitions. #####
 
+Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
+
 (a) *FM translator.* A station in the broadcasting service operated for the purpose of retransmitting the signals of an AM or FM radio broadcast station or another FM broadcast translator station without significantly altering any characteristics of the incoming signal other than its frequency and amplitude, in order to provide radio broadcast service to the general public.
 
 (b) *Commercial FM translator.* An FM broadcast translator station which rebroadcasts the signals of a commercial AM or FM radio broadcast station.

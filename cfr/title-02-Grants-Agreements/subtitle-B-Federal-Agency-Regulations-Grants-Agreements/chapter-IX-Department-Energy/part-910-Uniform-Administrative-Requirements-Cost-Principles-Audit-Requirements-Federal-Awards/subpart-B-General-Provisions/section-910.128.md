@@ -16,15 +16,15 @@
 
 (f) *Review on appeal.* (1) The SPE shall have no jurisdiction to review:
 
-(i) Any preaward dispute (except as provided in paragraph (f)(2)(ii) of this section), including use of any special restrictive condition pursuant to 2 CFR 200.207 Specific Conditions ;
+(i) Any preaward dispute (except as provided in paragraph (f)(2)(ii) of this section), including use of any special restrictive condition pursuant to 2 CFR 200.208 Specific Conditions;
 
 (ii) DOE denial of a request for an Exception under 2 CFR 200.102;
 
 (iii) DOE denial of a request for a budget revision or other change in the approved project under 2 CFR 200.308 or 200.403 or under another term or condition of the award;
 
-(iv) Any DOE action authorized under 2 CFR 200.338, Remedies for Noncompliance, or such actions authorized by program rule;
+(iv) Any DOE action authorized under 2 CFR 200.339, Remedies for Noncompliance, or such actions authorized by program rule;
 
-(v) Any DOE decision about an action requiring prior DOE approval under 2 CFR 200.324 or under another term or condition of the award;
+(v) Any DOE decision about an action requiring prior DOE approval under 2 CFR 200.325 or under another term or condition of the award;
 
 (2) In addition to any right of appeal established by program rule, or by the terms and conditions (not inconsistent with paragraph (f)(1) of this section) of an award, the SPE shall have jurisdiction to review:
 
@@ -32,7 +32,7 @@
 
 (ii) A DOE decision not to make a continuation award based on any of the determinations described in paragraph (f)(2)(i) of this section;
 
-(iii) Termination of an award, in whole or in part, by DOE under 2 CFR 200.339 (a)(1)-(2);
+(iii) Termination of an award, in whole or in part, by DOE under 2 CFR 200.340(a)(1) and (2);
 
 (iv) A DOE determination that an award is void or invalid;
 
@@ -43,3 +43,5 @@
 (3) In reviewing disputes authorized under paragraph (f)(2) of this section, the SPE shall be bound by the applicable law, statutes, and rules, including the requirements of this part, and by the terms and conditions of the award.
 
 (4) The decision of the SPE shall be the final decision of DOE.
+
+[79 FR 76024, Dec. 19, 2014, as amended at 87 FR 15320, Mar. 18, 2022]

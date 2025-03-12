@@ -2,7 +2,7 @@
 
 As prescribed in 211.274-6(a)(1), use the following clause:
 
-Item Unique Identification and Valuation (MAR 2016)
+Item Unique Identification and Valuation (MAR 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -18,7 +18,7 @@ Item Unique Identification and Valuation (MAR 2016)
 
 *Data qualifier* means a specified character (or string of characters) that immediately precedes a data field that defines the general category or intended use of the data that follows.
 
-*DoD recognized unique identification equivalent* means a unique identification method that is in commercial use and has been recognized by DoD. All DoD recognized unique identification equivalents are listed at *http://www.acq.osd.mil/dpap/pdi/uid/iuid\_equivalents.html.*
+*DoD recognized unique identification equivalent* means a unique identification method that is in commercial use and has been recognized by DoD. All DoD recognized unique identification equivalents are listed at *https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html.*
 
 *DoD item unique identification* means a system of marking items delivered to DoD with unique item identifiers that have machine-readable data elements to distinguish an item from all other like and unlike items. For items that are serialized within the enterprise identifier, the unique item identifier shall include the data elements of the enterprise identifier and a unique serial number. For items that are serialized within the part, lot, or batch number within the enterprise identifier, the unique item identifier shall include the data elements of the enterprise identifier; the original part, lot, or batch number; and the serial number.
 
@@ -60,7 +60,7 @@ Item Unique Identification and Valuation (MAR 2016)
 
 *Unique item identifier* means a set of data elements marked on items that is globally unique and unambiguous. The term includes a concatenated unique item identifier or a DoD recognized unique identification equivalent.
 
-*Unique item identifier type* means a designator to indicate which method of uniquely identifying a part has been used. The current list of accepted unique item identifier types is maintained at *http://www.acq.osd.mil/dpap/pdi/uid/uii\_types.html.*
+*Unique item identifier type* means a designator to indicate which method of uniquely identifying a part has been used. The current list of accepted unique item identifier types is maintained at *https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html .*
 
 (b) The Contractor shall deliver all items under a contract line, subline, or exhibit line item.
 
@@ -196,4 +196,4 @@ Item Unique Identification and Valuation (MAR 2016)
 
 (g) *Subcontracts.* If the Contractor acquires by contract any items for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial items.
 
-(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016]
+(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016; 87 FR 15818, Mar. 18, 2022]

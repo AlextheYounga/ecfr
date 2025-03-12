@@ -6,6 +6,6 @@
 
 (i) Provisions for the payment of incentive fees to the contractor, based on achievement of design specification requirements for reliability and maintainability of weapons systems under the contract; or
 
-(ii) The imposition of penalties to be paid by the contractor to the Government for faile to achieve such design specification requirements (10 U.S.C. 2443).
+(ii) The imposition of penalties to be paid by the contractor to the Government for failure to achieve such design specification requirements (10 U.S.C. 2443).
 
-[71 FR 39007, July 11, 2006, as amended at 84 FR 58333, Oct. 31, 2019]
+[71 FR 39007, July 11, 2006, as amended at 84 FR 58333, Oct. 31, 2019; 87 FR 15818, Mar. 18, 2022]

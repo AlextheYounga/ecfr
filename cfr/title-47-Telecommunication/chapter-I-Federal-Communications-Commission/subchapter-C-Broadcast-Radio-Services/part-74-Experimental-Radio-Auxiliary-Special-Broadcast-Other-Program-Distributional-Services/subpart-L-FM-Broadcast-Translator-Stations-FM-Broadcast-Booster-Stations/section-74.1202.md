@@ -1,5 +1,7 @@
 ##### § 74.1202 Frequency assignment. #####
 
+Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
+
 (a) An applicant for a new FM broadcast translator station or for changes in the facilities of an authorized translator station shall endeavor to select a channel on which its operation is not likely to cause interference to the reception of other stations. The application must be specific with regard to the frequency requested. Only one output channel will be assigned to each translator station.
 
 (b) Subject to compliance with all the requirements of this subpart, FM broadcast translators may be authorized to operate on the following FM channels, regardless of whether they are assigned for local use in the FM Table of Allotments (§ 73.202(b) of this chapter):

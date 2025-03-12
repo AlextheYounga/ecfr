@@ -1,6 +1,8 @@
 ##### § 910.520 Criteria for a low-risk auditee. #####
 
-(a) An auditee that meets all of the following conditions for each of the preceding two audit periods may qualify as a low-risk auditee and be eligible for reduced audit coverage. Compliance audits were performed on an annual basis in accordance with the provisions of this Subpart, including submitting the data collection form to DOE within the timeframe specified in § 910.512 Report submission. A for-profit entity that has biennial audits does not qualify as a low-risk auditee.
+An auditee that meets all of the following conditions for each of the preceding two audit periods may qualify as a low-risk auditee and be eligible for reduced audit coverage.
+
+(a) Compliance audits were performed on an annual basis in accordance with the provisions of this Subpart, including submitting the data collection form to DOE within the timeframe specified in § 910.512 Report submission. A for-profit entity that has biennial audits does not qualify as a low-risk auditee.
 
 (b) The auditor's opinion on whether the financial statements (if available) were prepared in accordance with GAAP, or a basis of accounting required by state law, and the auditor's in relation to opinion on the schedule of expenditures of DOE awards were unmodified.
 
@@ -15,3 +17,5 @@
 (2) Not applicable.
 
 (3) Not applicable.
+
+[87 FR 15323, Mar. 18, 2022]

@@ -2,11 +2,11 @@
 
 As prescribed in 211.274-6(b), use the following clause:
 
-Reporting of Government-Furnished Property (AUG 2012)
+Reporting of Government-Furnished Property (MAR 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-“Commercial and Government entity (CAGE) code” means -
+“Commercial and Government entity (CAGE) code” means—
 
 (i) A code assigned by the Defense Logistics Agency Logistics Information Service to identify a commercial or Government entity; or
 
@@ -18,7 +18,7 @@ Reporting of Government-Furnished Property (AUG 2012)
 
 “Item unique identification (IUID)” means a system of assigning, reporting, and marking DoD property with unique item identifiers that have machine-readable data elements to distinguish an item from all other like and unlike items.
 
-“IUID Registry” means the DoD data repository that receives input from both industry and Government sources and provides storage of, and access to, data that identifies and describes tangible Government personal property. The IUID Registry is -
+“IUID Registry” means the DoD data repository that receives input from both industry and Government sources and provides storage of, and access to, data that identifies and describes tangible Government personal property. The IUID Registry is—
 
 (i) The authoritative source of Government unit acquisition cost for items with unique item identification (see DFARS 252.211-7003) that were acquired after January 1, 2004;
 
@@ -28,7 +28,7 @@ Reporting of Government-Furnished Property (AUG 2012)
 
 “National stock number (NSN)” means a 13-digit stock number used to identify items of supply. It consists of a four-digit Federal Supply Code and a nine-digit National Item Identification Number.
 
-“Nomenclature” means -
+“Nomenclature” means—
 
 (i) The combination of a Government-assigned type designation and an approved item name;
 
@@ -48,17 +48,17 @@ Reporting of Government-Furnished Property (AUG 2012)
 
 “Unit acquisition cost” has the meaning given in FAR clause 52.245-1.
 
-(b) *Reporting Government-furnished property to the IUID Registry.* Except as provided in paragraph (c) of this clause, the Contractor shall report, in accordance with paragraph (f), Government-furnished property to the IUID Registry as follows: -
+(b) *Reporting Government-furnished property to the IUID Registry.* Except as provided in paragraph (c) of this clause, the Contractor shall report, in accordance with paragraph (f), Government-furnished property to the IUID Registry as follows:—
 
 (1) Up to and including December 31, 2013, report serially managed Government-furnished property with a unit-acquisition cost of $5,000 or greater.
 
-(2) Beginning January 1, 2014, report -
+(2) Beginning January 1, 2014, report—
 
 (i) All serially managed Government-furnished property, regardless of unit-acquisition cost; and
 
 (ii) Contractor receipt of non-serially managed items. Unless tracked as an individual item, the Contractor shall report non-serially managed items to the Registry in the same unit of packaging, e.g., original manufacturer's package, box, or container, as it was received.
 
-(c) *Exceptions.* Paragraph (b) of this clause does not apply to -
+(c) *Exceptions.* Paragraph (b) of this clause does not apply to—
 
 (1) Contractor-acquired property;
 
@@ -106,11 +106,11 @@ Reporting of Government-Furnished Property (AUG 2012)
 
 (e) When Government-furnished property is in the possession of subcontractors, Contractors shall ensure that reporting is accomplished using the data elements required in paragraph (d) of this clause.
 
-(f) *Procedures for reporting of Government-furnished property.* Except as provided in paragraph (c) of this clause, the Contractor shall establish and report to the IUID Registry the information required by FAR clause 52.245-1, paragraphs (e) and (f)(1)(iii), in accordance with the data submission procedures at *http://www.acq.osd.mil/dpap/pdi/uid/data\_submission\_information.html.*
+(f) *Procedures for reporting of Government-furnished property.* Except as provided in paragraph (c) of this clause, the Contractor shall establish and report to the IUID Registry the information required by FAR clause 52.245-1, paragraphs (e) and (f)(1)(iii), in accordance with the data submission procedures at *https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2021-09/GFP%20Reporting%20Guide\_Vendors\_June%202018.pdf .*
 
 (g) *Procedures for updating the IUID Registry.*
 
-(1) Except as provided in paragraph (g)(2), the Contractor shall update the IUID Registry at *https://iuid.logisticsinformationservice.dla.mil/* for changes in status, mark, custody, condition code (for reparables only), or disposition of items that are -
+(1) Except as provided in paragraph (g)(2), the Contractor shall update the IUID Registry at *https://iuid.logisticsinformationservice.dla.mil/* for changes in status, mark, custody, condition code (for reparables only), or disposition of items that are—
 
 (i) Received by the Contractor;
 
@@ -130,4 +130,4 @@ Reporting of Government-Furnished Property (AUG 2012)
 
 (3) The contractor shall update the IUID Registry as transactions occur or as otherwise stated in the Contractor's property management procedure.
 
-(End of clause)[77 FR 52257, Aug. 29, 2012, as amended at 78 FR 13544, Feb. 28, 2013]
+(End of clause)[77 FR 52257, Aug. 29, 2012, as amended at 78 FR 13544, Feb. 28, 2013; 87 FR 15818, Mar. 18, 2022]

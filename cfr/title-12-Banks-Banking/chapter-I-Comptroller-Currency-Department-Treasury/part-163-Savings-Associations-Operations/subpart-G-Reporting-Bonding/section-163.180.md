@@ -1,5 +1,7 @@
 ##### § 163.180 Suspicious Activity Reports and other reports and statements. #####
 
+Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
+
 (a) [Reserved]
 
 (b) *False or misleading statements or omissions.* No savings association or director, officer, agent, employee, affiliated person, or other person participating in the conduct of the affairs of such association nor any person filing or seeking approval of any application shall knowingly:

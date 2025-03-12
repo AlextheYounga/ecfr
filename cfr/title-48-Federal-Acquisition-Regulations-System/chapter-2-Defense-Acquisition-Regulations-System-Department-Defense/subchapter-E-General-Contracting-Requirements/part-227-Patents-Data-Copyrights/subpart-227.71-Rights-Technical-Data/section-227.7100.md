@@ -14,7 +14,7 @@ This subpart -
 
 (5) 10 U.S.C. 2325.
 
-(6) 10 U.S.C. 7317.
+(6) 10 U.S.C. 8687.
 
 (7) 17 U.S.C. 1301, *et seq.*
 
@@ -28,4 +28,4 @@ This subpart -
 
 (2) Releases of technical data to litigation support contractors (see subpart 204.74).
 
-[60 FR 33471, June 28, 1995, as amended at 74 FR 61044, Nov. 23, 2009; 79 FR 11340, Feb. 28, 2014]
+[60 FR 33471, June 28, 1995, as amended at 74 FR 61044, Nov. 23, 2009; 79 FR 11340, Feb. 28, 2014; ]

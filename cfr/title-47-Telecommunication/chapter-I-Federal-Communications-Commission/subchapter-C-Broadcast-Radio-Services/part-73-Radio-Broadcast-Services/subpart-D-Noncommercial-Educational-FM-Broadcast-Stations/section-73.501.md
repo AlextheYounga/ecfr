@@ -1,5 +1,7 @@
 ##### § 73.501 Channels available for assignment. #####
 
+Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
+
 (a) The following frequencies, except as provided in paragraph (b) of this section, are available for noncommercial educational FM broadcasting:
 
 |Frequency (MHz)|  Channel No.   |

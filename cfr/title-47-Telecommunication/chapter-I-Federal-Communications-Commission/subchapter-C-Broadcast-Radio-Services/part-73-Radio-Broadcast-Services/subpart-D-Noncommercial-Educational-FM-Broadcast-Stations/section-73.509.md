@@ -1,5 +1,7 @@
 ##### § 73.509 Prohibited overlap. #####
 
+Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
+
 (a) An application for a new or modified NCE-FM station other than a Class D (secondary) station will not be accepted if the proposed operation would involve overlap of signal strength contours with any other station licensed by the Commission and operating in the reserved band (Channels 200-220, inclusive) as set forth below:
 
 |Frequency separation|      Contour of proposed station       |        Contour of other station        |

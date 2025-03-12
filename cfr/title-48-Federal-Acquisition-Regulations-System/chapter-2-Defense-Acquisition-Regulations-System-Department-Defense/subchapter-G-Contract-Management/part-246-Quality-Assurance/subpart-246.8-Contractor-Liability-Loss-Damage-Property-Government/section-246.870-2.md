@@ -1,8 +1,8 @@
 ##### 246.870-2 Policy. #####
 
-(a) *Sources of electronic parts.* (1) Except as provided in paragraph (a)(2) of this section, the Government requires contractors and subcontractors at all tiers, to -
+(a) *Sources of electronic parts.* (1) Except as provided in paragraph (a)(2) of this section, the Government requires contractors and subcontractors at all tiers, to—
 
-(i) Obtain electronic parts that are in production by the original manufacturer or an authorized aftermarket manufacturer or currently available in stock from -
+(i) Obtain electronic parts that are in production by the original manufacturer or an authorized aftermarket manufacturer or currently available in stock from—
 
 (A) The original manufacturers of the parts;
 
@@ -10,7 +10,7 @@
 
 (C) Suppliers that obtain such parts exclusively from the original manufacturers of the parts or their authorized suppliers; and
 
-(ii) Obtain electronic parts that are not in production by the original manufacturer or an authorized aftermarket manufacturer, and that are not currently available in stock from a source listed in paragraph (a)(1)(i) of this section, from suppliers identified by the Contractor as contractor-approved suppliers, provided that -
+(ii) Obtain electronic parts that are not in production by the original manufacturer or an authorized aftermarket manufacturer, and that are not currently available in stock from a source listed in paragraph (a)(1)(i) of this section, from suppliers identified by the Contractor as contractor-approved suppliers, provided that—
 
 (A) For identifying and approving such contractor-approved suppliers, the contractor uses established counterfeit prevention industry standards and processes (including inspection, testing, and authentication), such as the DoD-adopted standards at *https://assist.dla.mil;*
 
@@ -18,9 +18,9 @@
 
 (C) The selection of such contractor-approved suppliers is subject to review, audit, and approval by the Government, generally in conjunction with a contractor purchasing system review or other surveillance of purchasing practices by the contract administration office, or if the Government obtains credible evidence that a contractor-approved supplier has provided counterfeit parts. The contractor may proceed with the acquisition of electronic parts from a contractor-approved supplier unless otherwise notified by DoD.
 
-(2) The Government requires contractors and subcontractors to comply with the notification, inspection, testing, and authentication requirements of paragraph (b)(3)(ii) through (b)(3)(iv) of the clause at 252.246-7008, Sources of Electronic Parts, if the contractor -
+(2) The Government requires contractors and subcontractors to comply with the notification, inspection, testing, and authentication requirements of paragraph (b)(3)(ii) of the clause at 252.246-7008, Sources of Electronic Parts, if the contractor—
 
-(i) Obtains an electronic part from -
+(i) Obtains an electronic part from—
 
 (A) A source other than any of the sources identified in paragraph (a)(1) of this section, due to nonavailability from such sources; or
 
@@ -28,7 +28,7 @@
 
 (ii) Cannot confirm that an electronic part is new or not previously used and that it has not been comingled in supplier new production or stock with used, refurbished, reclaimed, or returned parts.
 
-(3) Contractors and subcontractors are still required to comply with the requirements of paragraphs (a)(1) or (2) of this section, as applicable, if -
+(3) Contractors and subcontractors are still required to comply with the requirements of paragraphs (a)(1) or (2) of this section, as applicable, if—
 
 (i) Authorized to purchase electronic parts from the Federal Supply Schedule;
 
@@ -38,7 +38,7 @@
 
 (A) The cost of any required inspection, testing, and authentication of such parts may be charged as a direct cost.
 
-(B) The Government is responsible for the authenticity of the requisitioned electronic parts. If any such part is subsequently found to be counterfeit or suspect counterfeit, the Government will -
+(B) The Government is responsible for the authenticity of the requisitioned electronic parts. If any such part is subsequently found to be counterfeit or suspect counterfeit, the Government will—
 
 (*1*) Promptly replace such part at no charge; and
 
@@ -72,4 +72,4 @@
 
 (xii) Control of obsolete electronic parts.
 
-[81 FR 50648, Aug. 2, 2016, as amended at 83 FR 19645, May 4, 2018]Editorial Note:At 81 FR 72738, Oct. 21, 2016, § 246.870-2(a)(2) introductory text was to be amended by removing “(b)(3)(ii) through (b)(3)(iv)” and adding “(b)(3)(ii)” in its place; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[81 FR 50648, Aug. 2, 2016, as amended at 83 FR 19645, May 4, 2018; 87 FR 15818, Mar. 18, 2022]

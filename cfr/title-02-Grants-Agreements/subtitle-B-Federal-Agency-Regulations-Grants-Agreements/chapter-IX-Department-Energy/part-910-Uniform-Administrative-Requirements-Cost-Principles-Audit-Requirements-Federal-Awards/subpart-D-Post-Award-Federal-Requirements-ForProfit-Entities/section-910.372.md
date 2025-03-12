@@ -1,6 +1,6 @@
 ##### § 910.372 Special award conditions. #####
 
-(a) In addition to the requirements of 2 CFR 200.205, the following actions may require the use of Specific Conditions as identified in 2 CFR 200.207:
+(a) In addition to the requirements of 2 CFR 200.206, the following actions may require the use of Specific Conditions as identified in 2 CFR 200.208:
 
 (1) Has not conformed to the terms and conditions of a previous award;
 
@@ -10,4 +10,4 @@
 
 (4) Is not otherwise responsible.
 
-[80 FR 53239, Sept. 3, 2015]
+[80 FR 53239, Sept. 3, 2015, as amended at 87 FR 15320, Mar. 18, 2022]

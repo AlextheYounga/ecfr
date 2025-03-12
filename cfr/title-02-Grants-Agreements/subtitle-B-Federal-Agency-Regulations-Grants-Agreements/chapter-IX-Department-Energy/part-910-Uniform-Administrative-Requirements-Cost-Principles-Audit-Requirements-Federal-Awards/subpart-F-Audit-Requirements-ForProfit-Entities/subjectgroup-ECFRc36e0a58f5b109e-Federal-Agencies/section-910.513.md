@@ -24,13 +24,13 @@
 
 (ix) Not applicable.
 
-(b) Not applicable
+(b) Not applicable.
 
-(1) Not applicable
+(1) Not applicable.
 
-(2) Not applicable
+(2) Not applicable.
 
-(c) *DOE responsibilities.* DOE must perform the following for the awards it makes (See also the requirements of 2 CFR 200.210 Information contained in a Federal award):
+(c) *DOE responsibilities.* DOE must perform the following for the awards it makes (See also the requirements of 2 CFR 200.211 Information contained in a Federal award):
 
 (1) Ensure that audits are completed and reports are received in a timely manner and in accordance with the requirements of this Part.
 
@@ -42,34 +42,36 @@
 
 (ii) Monitor the recipient taking appropriate and timely corrective action;
 
-(iii) Use cooperative audit resolution mechanisms (see 2 CFR 200.25 Cooperative audit resolution) to improve DOE program outcomes through better audit resolution, follow-up, and corrective action; and
+(iii) Use cooperative audit resolution mechanisms (see 2 CFR 200.1, Cooperative audit resolution) to improve DOE program outcomes through better audit resolution, follow-up, and corrective action; and
 
 (iv) Develop a baseline, metrics, and targets to track, over time, the effectiveness of the DOE's process to follow-up on audit findings and on the effectiveness of Compliance Audits in improving non-Federal entity accountability and their use by DOE in making award decisions.
 
 (4) Not applicable.
 
-(5) Not applicable:
+(5) Not applicable.
 
-(i) Not applicable
+(i) Not applicable.
 
-(ii) Not applicable
+(ii) Not applicable.
 
-(6) Not applicable
+(6) Not applicable.
 
-(7) Not applicable
+(7) Not applicable.
 
-(i) Not applicable
+(i) Not applicable.
 
 (ii) Not applicable.
 
 (iii) Not applicable.
 
-(iv) Not applicable
+(iv) Not applicable.
 
-(v) Not applicable
+(v) Not applicable.
 
-(vi) Not applicable
+(vi) Not applicable.
 
 (vii) Not applicable.
 
-(viii) Not applicable
+(viii) Not applicable.
+
+[79 FR 76024, Dec. 19, 2014, as amended at 87 FR 15321, Mar. 18, 2022]

@@ -14,9 +14,9 @@
 
 (c) *Remedies.* If the recipient fails at any time to comply with any of the conditions or requirements of paragraph (b) of this section, then the contracting officer may:
 
-(1) Notify the recipient of noncompliance in accordance with 2 CFR 200.338, which may lead to suspension or termination of the award;
+(1) Notify the recipient of noncompliance in accordance with 2 CFR 200.339, which may lead to suspension or termination of the award;
 
-(2) Impose special award conditions pursuant to 2 CFR 200.205 and 200.207 as amended by 2 CFR 910.372;
+(2) Impose special award conditions pursuant to 2 CFR 200.206 and 200.208 as amended by 910.372;
 
 (3) Issue instructions to the recipient for disposition of the property in accordance with paragraph (g) of this section;
 
@@ -68,4 +68,4 @@
 
 (3) If the contracting officer fails to issue disposition instructions within 120 calendar days of the recipient's request, the recipient must dispose of the real property or equipment through the option described in paragraph (g)(2)(i)(B) of this section.
 
-[80 FR 53237, Sept. 3, 2015]
+[80 FR 53237, Sept. 3, 2015, as amended at 87 FR 15320, Mar. 18, 2022]

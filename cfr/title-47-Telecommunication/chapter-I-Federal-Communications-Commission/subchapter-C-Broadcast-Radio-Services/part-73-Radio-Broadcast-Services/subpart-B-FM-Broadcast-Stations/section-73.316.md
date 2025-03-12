@@ -1,5 +1,7 @@
 ##### § 73.316 FM antenna systems. #####
 
+Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
+
 (a) It shall be standard to employ horizontal polarization; however, circular or elliptical polarization may be employed if desired. Clockwise or counterclockwise rotation may be used. The supplemental vertically polarized effective radiated power required for circular or elliptical polarization shall in no event exceed the effective radiated power authorized.
 
 (b) *Directional antennas.* A directional antenna is an antenna that is designed or altered for the purpose of obtaining a non-circular radiation pattern.

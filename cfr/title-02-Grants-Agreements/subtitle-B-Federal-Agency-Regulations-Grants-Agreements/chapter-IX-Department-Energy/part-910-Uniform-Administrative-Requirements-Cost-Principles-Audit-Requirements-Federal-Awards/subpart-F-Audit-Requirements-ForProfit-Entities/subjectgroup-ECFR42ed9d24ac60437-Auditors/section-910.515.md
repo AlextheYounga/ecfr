@@ -1,6 +1,6 @@
 ##### § 910.515 Audit reporting. #####
 
-The auditor's report(s) may be in the form of either combined or separate reports and may be organized differently from the manner presented in this section. The auditor's report(s) must state that the audit was conducted in accordance with this Part and include the following:
+The auditor's report(s) may be in the form of either combined or separate reports and may be organized differently from the manner presented in this section. The auditor's report(s) must state that the audit was conducted in accordance with this part and include the following:
 
 (a) An opinion (or disclaimer of opinion) as to whether the financial statements (if available) are presented fairly in all material respects in accordance with generally accepted accounting principles and an opinion (or disclaimer of opinion) as to whether the schedule of expenditures of DOE awards is fairly stated in all material respects in relation to the financial statements (if available) as a whole.
 
@@ -12,7 +12,7 @@ The auditor's report(s) may be in the form of either combined or separate report
 
 (1) A summary of the auditor's results, which must include:
 
-(i) The type of report the auditor issued (if applicable)on whether the financial statements (if available) audited were prepared in accordance with GAAP (*i.e.,* unmodified opinion, qualified opinion, adverse opinion, or disclaimer of opinion);
+(i) The type of report the auditor issued (if applicable) on whether the financial statements (if available) audited were prepared in accordance with GAAP (*i.e.,* unmodified opinion, qualified opinion, adverse opinion, or disclaimer of opinion);
 
 (ii) Where applicable, a statement about whether significant deficiencies or material weaknesses in internal control were disclosed by the audit of the financial statements (if available);
 
@@ -22,7 +22,7 @@ The auditor's report(s) may be in the form of either combined or separate report
 
 (v) The type of report the auditor issued on compliance (*i.e.,* unmodified opinion, qualified opinion, adverse opinion, or disclaimer of opinion);
 
-(vi) A statement as to whether the audit disclosed any audit findings that the auditor is required to report under § 910.516 Audit findings paragraph (a);
+(vi) A statement as to whether the audit disclosed any audit findings that the auditor is required to report under § 910.516 Audit findings, paragraph (a);
 
 (vii) Not applicable.
 
@@ -32,8 +32,12 @@ The auditor's report(s) may be in the form of either combined or separate report
 
 (2) Findings relating to the financial Statements (if available) which are required to be reported in accordance with GAGAS.
 
-(i) Findings and questioned costs for DOE awards which must include audit findings as defined in § 910.516 Audit findings, paragraph (a).Audit findings (*e.g.,* internal control findings, compliance findings, questioned costs, or fraud) that relate to the same issue should be presented as a single audit finding.
+(3) Findings and questioned costs for DOE awards which must include audit findings as defined in § 910.516 Audit findings, paragraph (a).
 
-(ii) Audit findings that relate to both the financial statements (if available) and DOE awards, as reported under paragraphs (d)(2) and (d)(3) of this section, respectively, should be reported in both sections of the schedule. However, the reporting in one section of the schedule may be in summary form with a reference to a detailed reporting in the other section of the schedule.
+(i) Audit findings (*e.g.,* internal control findings, compliance findings, questioned costs, or fraud) that relate to the same issue should be presented as a single audit finding.
 
-(e) Nothing in this Part precludes combining of the audit reporting required by this section with the reporting required by § 910.512 Report submission, paragraph (b) Data Collection when allowed by GAGAS.
+(ii) Audit findings that relate to both the financial statements (if available) and DOE awards, as reported under paragraphs (d)(2) and (3) of this section, respectively, should be reported in both sections of the schedule. However, the reporting in one section of the schedule may be in summary form with a reference to a detailed reporting in the other section of the schedule.
+
+(e) Nothing in this part precludes combining of the audit reporting required by this section with the reporting required by § 910.512 Report submission, paragraph (b), when allowed by GAGAS.
+
+[87 FR 15322, Mar. 18, 2022]

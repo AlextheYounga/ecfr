@@ -10,11 +10,9 @@ In addition to the requirements of 2 CFR 200.306 the following requirements appl
 
 (b) A cost share of at least 20 percent of the cost of the activity is required for research and development except where:
 
-(1) A research or development activity of a basic or fundamental nature has been excluded by an appropriate officer of DOE, generally an Under Secretary;
+(1) A research or development activity of a basic or fundamental nature has been excluded by an appropriate officer of DOE, generally an Under Secretary; or
 
-(2) The Secretary has determined it is necessary and appropriate to reduce or eliminate the cost sharing requirement for a research and development activity of an applied nature; or
-
-(3) The research or development activity is to be performed by an institution of higher education or nonprofit institution (as defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703)) during the two-year period ending September 27, 2020.
+(2) The Secretary has determined it is necessary and appropriate to reduce or eliminate the cost sharing requirement for a research and development activity of an applied nature.
 
 (c) A cost share of at least 50 percent of the cost of a demonstration or commercial application activity is required unless the Secretary has determined it is necessary and appropriate to reduce the cost sharing requirements, taking into consideration any technological risk relating to the activity.
 
@@ -28,7 +26,7 @@ In addition to the requirements of 2 CFR 200.306 the following requirements appl
 
 (ii) Personnel costs;
 
-(iii) The value of a service, other resource, or third party in-kind contribution determined in accordance with Subpart E - Cost Principles - of 2 CFR part 200. For recipients that are for-profit organizations as defined by 2 CFR 910.122, the Cost Principles which apply are contained in 48 CFR 31.2. See § 910.352 for further information;
+(iii) The value of a service, other resource, or third party in-kind contribution determined in accordance with Subpart E—Cost Principles—of 2 CFR part 200. For recipients that are for-profit organizations as defined by 2 CFR 910.122, the Cost Principles which apply are contained in 48 CFR 31.2. See § 910.352 for further information;
 
 (iv) Indirect costs or facilities and administrative costs; and/or
 
@@ -48,8 +46,8 @@ In addition to the requirements of 2 CFR 200.306 the following requirements appl
 
 *Demonstration* means a project designed to determine the technical feasibility and economic potential of a technology on either a pilot or prototype scale.
 
-*Development* is defined in 2 CFR 200.87.
+*Development* is defined in 2 CFR 200.1.
 
-*Research* is also defined in 2 CFR 200.87.
+*Research* is also defined in 2 CFR 200.1.
 
-[79 FR 76024, Dec. 19, 2014, as amended at 84 FR 12049, Apr. 1, 2019]
+[79 FR 76024, Dec. 19, 2014, as amended at 84 FR 12049, Apr. 1, 2019; 87 FR 15320, Mar. 18, 2022]

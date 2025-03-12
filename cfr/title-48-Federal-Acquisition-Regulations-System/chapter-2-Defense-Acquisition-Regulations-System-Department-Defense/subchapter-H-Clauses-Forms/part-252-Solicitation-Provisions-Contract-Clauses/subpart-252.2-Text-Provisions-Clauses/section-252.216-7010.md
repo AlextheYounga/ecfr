@@ -1,37 +1,31 @@
-##### 252.216-7010 Requirements. #####
+##### 252.216-7010 Postaward Debriefings for Task Orders and Delivery Orders. #####
 
-*Basic.* As prescribed in 216.506(d) and (d)(1), use the following clause:
+As prescribed at 216.506-70(b), use the following clause:
 
-Requirements - Basic (APR 2014)
+Postaward Debriefings for Task Orders and Delivery Orders (MAR 2022)
 
-(a) This is a requirements contract for the supplies or services specified and effective for the period stated in the Schedule. The quantities of supplies or services specified in the Schedule are estimates only and are not purchased by this contract. Except as this contract may otherwise provide, if the Government's requirements do not result in orders in the quantities described as “estimated” or “maximum” in the Schedule, that fact shall not constitute the basis for an equitable price adjustment.
+(a) *Postaward debriefing.*
 
-(b) Delivery or performance shall be made only as authorized by orders issued in accordance with the Ordering clause. Subject to any limitations in the Order Limitations clause or elsewhere in this contract, the Contractor shall furnish to the Government all supplies or services specified in the Schedule and called for by orders issued in accordance with the Ordering clause. The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
+(1) Upon timely request, the Government will provide a written or oral postaward debriefing for task orders or delivery orders valued at $10 million or more to the Contractor, regardless of whether the Contractor's offer for the task order or delivery order was successful or unsuccessful, while protecting the confidential and proprietary information of other contractors. The request is considered timely if received within 3 days of notification of task order or delivery order award.
 
-(c) Except as this contract otherwise provides, the Government shall order from the Contractor all the supplies or services specified in the Schedule that are required to be purchased by the Government activity or activities specified in the Schedule.
+(2) If a required postaward debriefing is provided -
 
-(d) The Government is not required to purchase from the Contractor requirements in excess of any limit on total orders under this contract.
+(i) The debriefed Contractor may submit additional written questions related to the required and provided debriefing within 2 business days after the date of the debriefing;
 
-(e) If the Government urgently requires delivery of any quantity of an item before the earliest date that delivery may be specified under this contract, and if the Contractor will not accept an order providing for the accelerated delivery, the Government may acquire the urgently required goods or services from another source.
+(ii) The agency will respond in writing to timely submitted additional questions within 5 business days after receipt; and
 
-(f) Orders issued during the effective period of this contract and not completed within that time shall be completed by the Contractor within the time specified in the order. The rights and obligations of the Contractor and the Government for those orders shall be governed by the terms of this contract to the same extent as if completed during the effective period.
+(iii) The postaward debriefing will not be considered to be concluded until the later of -
 
-(End of clause)
+(A) The date that the postaward debriefing is delivered, orally or in writing; or
 
-*Alternate I.* As prescribed in 216.506(d) and (d)(2), use the following clause, which uses a different paragraph (c) than the basic clause:
+(B) If additional written questions related to the debriefing are timely received, the date the agency delivers its written response.
 
-Requirements - Alternate I (APR 2014)
+(b) *Task order or delivery order performance.* The Government may suspend performance of or terminate the awarded task order or delivery order upon notice from the Government Accountability Office of a protest filed within the time periods listed in paragraphs (b)(1) through (3) of this clause, whichever is later:
 
-(a) This is a requirements contract for the supplies or services specified and effective for the period stated in the Schedule. The quantities of supplies or services specified in the Schedule are estimates only and are not purchased by this contract. Except as this contract may otherwise provide, if the Government's requirements do not result in orders in the quantities described as “estimated” or “maximum” in the Schedule, that fact shall not constitute the basis for an equitable price adjustment.
+(1) Within 10 days after the date a task order or delivery order is issued, where the value exceeds $25 million (10 U.S.C. 2304c(e)).
 
-(b) Delivery or performance shall be made only as authorized by orders issued in accordance with the Ordering clause. Subject to any limitations in the Order Limitations clause or elsewhere in this contract, the Contractor shall furnish to the Government all supplies or services specified in the Schedule and called for by orders issued in accordance with the Ordering clause. The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
+(2) Within 5 days after a debriefing date offered to the protestor under a timely debriefing request in accordance with Federal Acquisition Regulation (FAR) 15.506 unless an earlier debriefing date is negotiated as a result.
 
-(c) The Government's requirements for each item or subitem of supplies or services described in the Schedule are being purchased through one non-set-aside contract and one set-aside contract. Therefore, the Government shall order from each Contractor approximately one-half of the total supplies or services specified in the Schedule that are required to be purchased by the specified Government activity or activities. The Government may choose between the set-aside Contractor and the non-set-aside Contractor in placing any particular order. However, the Government shall allocate successive orders, in accordance with its delivery requirements, to maintain as close a ratio as is reasonably practicable between the total quantities ordered from the two Contractors.
+(3) Within 5 days after a postaward debriefing under FAR 15.506 is concluded in accordance with Defense Federal Acquisition Regulation Supplement 215.506-70(b).
 
-(d) The Government is not required to purchase from the Contractor requirements in excess of any limit on total orders under this contract.
-
-(e) If the Government urgently requires delivery of any quantity of an item before the earliest date that delivery may be specified under this contract, and if the Contractor will not accept an order providing for the accelerated delivery, the Government may acquire the urgently required goods or services from another source.
-
-(f) Orders issued during the effective period of this contract and not completed within that time shall be completed by the Contractor within the time specified in the order. The rights and obligations of the Contractor and the Government for those orders shall be governed by the terms of this contract to the same extent as if completed during the effective period.
-
-[79 FR 22038, Apr. 21, 2014, as amended at 80 FR 36898, June 26, 2015]
+(End of clause)[87 FR 15811, Mar. 18, 2022]
