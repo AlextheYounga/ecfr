@@ -1,3 +1,5 @@
-##### § 205.14 xxx #####
+##### § 205.14 Court requests to the Register of Copyrights pursuant to 17 U.S.C. 411(b)(2). #####
 
-Link to an amendment published at 85 FR 10605, Feb. 25, 2020.
+Where there is an allegation that a copyright registration certificate includes inaccurate information with knowledge that it was inaccurate and the inaccuracy of the information, if known, would have caused the Register of Copyrights to refuse registration, pursuant to 17 U.S.C. 411(b)(2), the court shall request the opinion of the Register of Copyrights to advise the court whether the inaccurate information, if known, would have caused the Register of Copyrights to refuse registration. The request should be sent to the General Counsel of the Copyright Office via email to *411filings@copyright.gov*. Attachments to a single email should be no greater than 20 MB in total. If submission of a request via email is not feasible, please contact the Office of the General Counsel by telephone during normal business hours at 202-707-8380.
+
+[85 FR 10605, Feb. 25, 2020]

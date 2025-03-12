@@ -1,5 +1,7 @@
 ##### § 15.403 Definitions. #####
 
+Link to an amendment published at 85 FR 31410, May 26, 2020.
+
 (a) *Access Point (AP).* A U-NII transceiver that operates either as a bridge in a peer-to-peer connection or as a connector between the wired and wireless segments of the network.
 
 (b) *Available Channel.* A radio channel on which a *Channel Availability Check* has not identified the presence of a radar.

@@ -50,7 +50,7 @@ Link to an amendment published at 85 FR 22651, Apr. 23, 2020.
 
 (g) If one or more franchise areas served by a cable system overlaps with one or more franchise areas served by another cable system, television broadcast stations are required to make the same election for both cable systems.
 
-(h)(1) On or before each must-carry/retransmission consent election deadline, each television broadcast station shall place a copy of its election statement, and copies of any election change notices applying to the upcoming carriage cycle, in the station's public file.
+(h)(1) On or before each must carry/retransmission consent election deadline, each television broadcast station shall place a copy of its election statement, and copies of any election change notices applying to the upcoming carriage cycle, in the station's public file if the station is required to maintain a public file.
 
 (2) Each cable operator shall, no later than July 31, 2020, provide an up-to-date email address for carriage election notice submissions with respect to its systems and an up-to-date phone number for carriage-related questions. Each cable operator is responsible for the continuing accuracy and completeness of the information furnished. It must respond to questions from broadcasters as soon as is reasonably possible.
 
@@ -88,4 +88,4 @@ Note 1 to § 76.64:
 
 Section 76.1608 provides notification requirements for a cable system that changes its technical configuration in such a way as to integrate two formerly separate cable systems.
 
-[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020]
+[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020; 85 FR 22651, Apr. 23, 2020]

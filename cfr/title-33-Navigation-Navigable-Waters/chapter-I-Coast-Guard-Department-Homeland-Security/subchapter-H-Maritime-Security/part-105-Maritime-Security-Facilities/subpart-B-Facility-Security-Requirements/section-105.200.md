@@ -2,7 +2,7 @@
 
 (a) Each facility owner or operator must ensure that the facility operates in compliance with the requirements of this part.
 
-(b) For each facility, the facility owner or operator must -
+(b) For each facility, the facility owner or operator must—
 
 (1) Define the organizational structure of the security personnel and provide each person exercising security duties and responsibilities the support needed to fulfill those obligations;
 
@@ -14,7 +14,7 @@
 
 (5) Ensure that the facility operates in compliance with the approved FSP;
 
-(6) Ensure that the Transportation Worker Identification Credential (TWIC) program is properly implemented as set forth in this subchpter, including -
+(6) Ensure that the Transportation Worker Identification Credential (TWIC) program is properly implemented as set forth in this subchapter, including—
 
 (i) Ensuring that only individuals who hold a TWIC and are authorized to be in the secure area in accordance with the FSP are permitted to serve as an escort;
 

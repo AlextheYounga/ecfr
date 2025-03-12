@@ -1,6 +1,6 @@
 ##### § 15.407 General technical requirements. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
+Link to an amendment published at 85 FR 18149, Apr. 1, 2020.Link to an amendment published at 85 FR 31411, May 26, 2020.
 
 (a) *Power limits:*
 

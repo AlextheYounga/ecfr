@@ -1,5 +1,7 @@
 ##### § 165.171 Safety Zones for fireworks displays and swim events held in Coast Guard Sector Northern New England Captain of the Port Zone. #####
 
+Link to an amendment published at 85 FR 31369, May 26, 2020.
+
 The Coast Guard is establishing safety zones for the fireworks displays listed in the Table 1 to § 165.171. These regulations will be enforced for the duration of each event, on or about the dates indicated in the Table 1 to § 165.171. Mariners should consult their Local Notice to Mariners to remain apprised of the specific calendar date upon which the listed event falls for each calendar year and other specific information concerning the event. First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov/.* The Sector Northern New England Marine Events schedule can also be viewed electronically at *www.homeport.uscg.mil.*
 
 Note to introductory text of § 165.171:

@@ -1,3 +1,5 @@
-##### § 205.15 xxx #####
+##### § 205.15 Court notices to the Register of Copyrights pursuant to 17 U.S.C. 508. #####
 
-Link to an amendment published at 85 FR 10605, Feb. 25, 2020.
+Pursuant to 17 U.S.C. 508, within one month after the filing of any action under title 17, notice of the names and addresses of the parties and the title, author, and registration number of each work involved in the action, including any other copyrighted work later included by subsequent amendment, answer, or other pleading, must be served by the clerk of the court on the Register of Copyrights. Further, the clerk of the court must notify the Register within one month after any final order or judgment is issued in the case, sending with the notification a copy of the order or judgment together with the written opinion, if any, of the court. These notices must be sent to the General Counsel of the Copyright Office via email to *508filings@copyright.gov*. Notices must include a fully completed PDF version of the Administrative Office of the U.S. Courts' form AO-121, “Report on the Filing or Determination of an Action or Appeal Regarding a Copyright,” available at the U.S. Courts' website: *https://www.uscourts.gov/forms/other-forms/report-filing-or-determination-action-or-appeal-regarding-copyright*. If submission of a notice via email is not feasible, please contact the Office of the General Counsel by telephone during normal business hours at 202-707-8380.
+
+[85 FR 10605, Feb. 25, 2020]

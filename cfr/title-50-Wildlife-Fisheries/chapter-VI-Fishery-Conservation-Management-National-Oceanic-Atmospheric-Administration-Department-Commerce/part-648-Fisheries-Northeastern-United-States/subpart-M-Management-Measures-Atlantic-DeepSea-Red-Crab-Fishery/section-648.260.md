@@ -1,7 +1,5 @@
 ##### § 648.260 Specifications. #####
 
-(a) *Annual review and specifications process.* The Council, the Red Crab Plan Development Team (PDT), and the Red Crab Advisory Panel shall monitor the status of the red crab fishery and resource.
-
 (a) *Review and specifications process.* The Council, the Red Crab Plan Development Team (PDT), and the Red Crab Advisory Panel shall monitor the status of the red crab fishery and resource.
 
 (1) The Red Crab PDT shall meet at least once every 4 years, or as directed by the Council, to review Stock Assessment reports and generate a Fishery Evaluation (SAFE) Report, described in paragraph (b) of this section, to review the status of the stock and the fishery. Based on such review, the PDT shall provide a report to the Council on any changes or new information about the red crab stock and/or fishery, and it shall recommend whether the specifications for the upcoming year(s) need to be modified. At a minimum, this review shall include a review of at least the following data, if available: Commercial catch data; current estimates of fishing mortality and catch-per-unit-effort (CPUE); discards; stock status; recent estimates of recruitment; virtual population analysis results and other estimates of stock size; sea sampling, port sampling, and survey data or, if sea sampling data are unavailable, length frequency information from port sampling and/or surveys; impact of other fisheries on the mortality of red crabs; and any other relevant information.
@@ -26,4 +24,4 @@
 
 (2) In any year in which a SAFE Report is not completed by the Red Crab PDT, the review process described in paragraph (a) of this section shall be used to recommend any necessary adjustments to specifications and/or management measures in the FMP.
 
-[76 FR 60383, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37198, June 30, 2015; 85 FR 20616, Apr. 14, 2020]
+[76 FR 60383, Sept. 29, 2011, as amended at 76 FR 81850, Dec. 29, 2011; 80 FR 37198, June 30, 2015; 85 FR 20616, Apr. 14, 2020]Effective Date Note:At 85 FR 20616, Apr. 14, 2020, § 640.260 was amended by revising paragraphs (a) introductory text, (1) through (3) and (b), effective May 14, 2020 through Feb. 28, 2021.

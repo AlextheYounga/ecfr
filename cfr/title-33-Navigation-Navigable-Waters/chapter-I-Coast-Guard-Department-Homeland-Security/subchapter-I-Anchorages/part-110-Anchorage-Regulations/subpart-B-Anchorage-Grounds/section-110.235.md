@@ -1,9 +1,9 @@
 ##### § 110.235 Pacific Ocean (Mamala Bay), Honolulu Harbor, Hawaii (Datum: NAD 83). #####
 
-(a) The anchorage grounds - (1) *Anchorage A.* The waters bounded by the arc of a circle with a radius of 350 yards with the center located at:
+(a) *The anchorage grounds*—(1) *Anchorage A.* The waters bounded by the arc of a circle with a radius of 350 yards with the center located at:
 
 | Latitude  | Longitude  |
-|:----------|:-----------|
+|-----------|------------|
 |21°16′57″ N|157°53′12″ W|
 
 (2) *Anchorage B.* The waters bounded by a line connecting the following coordinates:
