@@ -1,0 +1,3 @@
+##### § 490.703 Applicability. #####
+
+The CMAQ Traffic Congestion performance measures are applicable to all urbanized areas that include NHS mileage and with a population over 1 million for the first performance period and in urbanized areas with a population over 200,000 for the second and all other performance periods, that are, in all or part, designated as nonattainment or maintenance areas for ozone (O3), carbon monoxide (CO), or particulate matter (PM10 and PM2.5) National Ambient Air Quality Standards (NAAQS).

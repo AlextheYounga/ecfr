@@ -1,0 +1,15 @@
+##### § 490.411 Establishment of minimum level for condition for bridges. #####
+
+(a) State DOTs will maintain bridges so that the percentage of the deck area of bridges classified as Structurally Deficient does not exceed 10.0 percent. This minimum condition level is applicable to bridges carrying the NHS, which includes on- and off-ramps connected to the NHS within a State, and bridges carrying the NHS that cross a State border.
+
+(b) For the purposes of carrying out this section and § 490.413, a bridge will be classified as Structurally Deficient when one of its NBI Items, 58—Deck, 59—Superstructure, 60—Substructure, or 62—Culverts, is 4 or less, or when one of its NBI Items, 67—Structural Evaluation or 71—Waterway Adequacy, is 2 or less. Beginning with calendar year 2018 and thereafter, a bridge will be classified as Structurally Deficient when one of its NBI Items, 58—Deck, 59—Superstructure, 60—Substructure, or 62—Culverts, is 4 or less.
+
+(c) For all bridges carrying the NHS, which includes on- and off-ramps connected to the NHS and bridges carrying the NHS that cross a State border, FHWA shall calculate a ratio of the total deck area of all bridges classified as Structurally Deficient to the total deck area of all applicable bridges for each State. The percentage of deck area of bridges classified as Structurally Deficient shall be computed by FHWA to the one tenth of a percent as follows:
+
+![](/graphics/er18ja17.025.gif)Where:Structurally Deficient = total number of the applicable bridges, where their classification is Structurally Deficient per this section and § 490.413;SD = a bridge classified as Structurally Deficient per this section and § 490.413;Length = corresponding value of NBI Item 49—Structure Length for every applicable bridge;Width = corresponding value of NBI Item 52—Deck WidthBeginning with calendar year 2018 and thereafter, Width = corresponding value of NBI Item 52—Deck Width or value of Item 32 Approach Roadway Width for culverts where the roadway is on a fill [*i.e.,* traffic does not directly run on the top slab (or wearing surface) of the culvert] and the headwalls do not affect the flow of traffic for every applicable bridge.s = an applicable bridge per this section and § 490.413; andTOTAL = total number of the applicable bridges specified in this section and § 490.413.
+
+(d) The FHWA will annually determine the percentage of the deck area of NHS bridges classified as Structurally Deficient for each State DOT and identify State DOTs that do not meet the minimum level of condition for NHS bridges based on data cleared in the NBI as of June 15 of each year. The FHWA will notify State DOTs of their compliance with 23 U.S.C. 119(f)(2) prior to October 1 of the year in which the determination was made.
+
+(e) For the purposes of carrying out this section, State DOTs will annually submit their most current NBI data on highway bridges to FHWA no later than March 15 of each year.
+
+(f) The NBI Items included in this section are found in the Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges, which is incorporated by reference (see § 490.111).
