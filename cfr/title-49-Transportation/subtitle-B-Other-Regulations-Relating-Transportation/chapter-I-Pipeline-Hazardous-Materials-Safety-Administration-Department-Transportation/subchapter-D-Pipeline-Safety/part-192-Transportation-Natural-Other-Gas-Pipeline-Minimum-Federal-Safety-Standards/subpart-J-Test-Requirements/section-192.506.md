@@ -28,4 +28,4 @@
 
 (8) Evidence of a review of all procedures and assessments by a qualified technical subject matter expert.
 
-[Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]
+[Amdt. 192-125, 84 FR 52245, Oct. 1, 2019]

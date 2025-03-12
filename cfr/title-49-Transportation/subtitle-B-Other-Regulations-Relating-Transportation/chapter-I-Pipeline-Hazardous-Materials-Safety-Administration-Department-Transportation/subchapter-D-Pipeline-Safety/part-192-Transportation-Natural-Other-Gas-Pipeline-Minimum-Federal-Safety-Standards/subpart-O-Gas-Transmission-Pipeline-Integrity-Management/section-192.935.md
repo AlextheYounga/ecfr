@@ -1,8 +1,38 @@
 ##### § 192.935 What additional preventive and mitigative measures must an operator take? #####
 
-Link to an amendment published at 87 FR 52279, Aug. 24, 2022.
+(a) *General requirements.* (1) An operator must take additional measures beyond those already required by this part to prevent a pipeline failure and to mitigate the consequences of a pipeline failure in a high consequence area. Such additional measures must be based on the risk analyses required by § 192.917. Measures that operators must consider in the analysis, if necessary, to prevent or mitigate the consequences of a pipeline failure include, but are not limited to:
 
-(a) *General requirements.* An operator must take additional measures beyond those already required by Part 192 to prevent a pipeline failure and to mitigate the consequences of a pipeline failure in a high consequence area. An operator must base the additional measures on the threats the operator has identified to each pipeline segment. (*See* § 192.917) An operator must conduct, in accordance with one of the risk assessment approaches in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 5, a risk analysis of its pipeline to identify additional measures to protect the high consequence area and enhance public safety. Such additional measures include, but are not limited to, installing Automatic Shut-off Valves or Remote Control Valves, installing computerized monitoring and leak detection systems, replacing pipe segments with pipe of heavier wall thickness, providing additional training to personnel on response procedures, conducting drills with local emergency responders and implementing additional inspection and maintenance programs.
+(i) Correcting the root causes of past incidents to prevent recurrence;
+
+(ii) Establishing and implementing adequate operations and maintenance processes that could increase safety;
+
+(iii) Establishing and deploying adequate resources for the successful execution of preventive and mitigative measures;
+
+(iv) Installing automatic shut-off valves or remote-control valves;
+
+(v) Installing pressure transmitters on both sides of automatic shut-off valves and remote-control valves that communicate with the pipeline control center;
+
+(vi) Installing computerized monitoring and leak detection systems;
+
+(vii) Replacing pipe segments with pipe of heavier wall thickness or higher strength;
+
+(viii) Conducting additional right-of-way patrols;
+
+(ix) Conducting hydrostatic tests in areas where pipe material has quality issues or lost records;
+
+(x) Testing to determine material mechanical and chemical properties for unknown properties that are needed to assure integrity or substantiate MAOP evaluations, including material property tests from removed pipe that is representative of the in-service pipeline;
+
+(xi) Re-coating damaged, poorly performing, or disbonded coatings;
+
+(xii) Performing additional depth-of-cover surveys at roads, streams, and rivers;
+
+(xiii) Remediating inadequate depth-of-cover;
+
+(xiv) Providing additional training to personnel on response procedures and conducting drills with local emergency responders; and
+
+(xv) Implementing additional inspection and maintenance programs.
+
+(2) Operators must document the risk analysis, the preventive and mitigative measures considered, and the basis for implementing or not implementing any preventive and mitigative measures considered, in accordance with § 192.947(d).
 
 (b) Third party damage and outside force damage—
 
@@ -26,10 +56,10 @@ Link to an amendment published at 87 FR 52279, Aug. 24, 2022.
 
 (2) Either monitor excavations near the pipeline, or conduct patrols as required by § 192.705 of the pipeline at bi-monthly intervals. If an operator finds any indication of unreported construction activity, the operator must conduct a follow up investigation to determine if mechanical damage has occurred.
 
-(3) Perform semi-annual leak surveys (quarterly for unprotected pipelines or cathodically protected pipe where electrical surveys are impractical).
+(3) Perform instrumented leak surveys using leak detector equipment at least twice each calendar year, at intervals not exceeding 71/2 months. For unprotected pipelines or cathodically protected pipe where electrical surveys are impractical, instrumented leak surveys must be performed at least four times each calendar year, at intervals not exceeding 41/2 months. Electrical surveys are indirect assessments that include close interval surveys, alternating current voltage gradient surveys, direct current voltage gradient surveys, or their equivalent.
 
 (e) *Plastic transmission pipeline.* An operator of a plastic transmission pipeline must apply the requirements in paragraphs (b)(1)(i), (b)(1)(iii) and (b)(1)(iv) of this section to the covered segments of the pipeline.
 
 (f) *Periodic evaluations.* Risk analyses and assessments conducted under paragraph (c) of this section must be reviewed by the operator and certified by a senior executive of the company, for operational matters that could affect rupture-mitigation processes and procedures. Review and certification must occur once per calendar year, with the period between reviews not to exceed 15 months, and must also occur within 3 months of an incident or safety-related condition, as those terms are defined at §§ 191.3 and 191.23, respectively.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, Jan. 5, 2015; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019; Amdt. 192-130, 87 FR 20986, Apr. 8, 2022]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, Jan. 5, 2015; Amdt. 192-125, 84 FR 52254, Oct. 1, 2019; Amdt. 192-130, 87 FR 20986, Apr. 8, 2022; Amdt. 192-132, 87 FR 52279, Aug. 24, 2022]

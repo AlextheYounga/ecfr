@@ -1,8 +1,6 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 87 FR 52267, Aug. 24, 2022.
-
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. All approved material is available for inspection at Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-4046 *https://www.phmsa.dot.gov/pipeline/regs,* and is available from the sources listed in the remaining paragraphs of this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-4046, *https://www.phmsa.dot.gov/pipeline/regs,* and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.* It is also available from the sources in the following paragraphs of this section.
 
 (b) American Petroleum Institute (API), 200 Massachusetts Ave. NW, Suite 1100, Washington, DC 20001, and phone: 202-682-8000, website: *https://www.api.org/.*
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 52267, Aug. 24, 2022.
 
 (5) ASME/ANSI B31.8-2007, “Gas Transmission and Distribution Piping Systems,” November 30, 2007, (ASME/ANSI B31.8), IBR approved for §§ 192.112(b) and 192.619(a).
 
-(6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” 2004, (ASME/ANSI B31.8S-2004), IBR approved for §§ 192.903 note to *Potential impact radius;* 192.907 introductory text, (b); 192.911 introductory text, (i), (k), (l), (m); 192.913(a), (b), (c); 192.917 (a), (b), (c), (d), (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b), (c); 192.929(b); 192.933(c), (d); 192.935 (a), (b); 192.937(c); 192.939(a); and 192.945(a).
+(6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” approved January 14, 2005, (ASME/ANSI B31.8S), IBR approved for §§ 192.13(d); 192.714(c) and (d); 192.903 note to *potential impact radius;* 192.907 introductory text and (b); 192.911 introductory text, (i), and (k) through (m); 192.913(a) through (c); 192.917(a) through (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b) and (c); 192.929(b); 192.933(c) and (d); 192.935(a) and (b); 192.937(c); 192.939(a); and 192.945(a).
 
 (7) [Reserved]
 
@@ -122,9 +120,13 @@ Link to an amendment published at 87 FR 52267, Aug. 24, 2022.
 
 (h) NACE International (NACE), 1440 South Creek Drive, Houston, TX 77084: phone: 281-228-6223 or 800-797-6223, Web site: *http://www.nace.org/Publications/.*
 
-(1) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” revised June 24, 2010, (NACE SP0502), IBR approved for §§ 192.923(b); 192.925(b); 192.931(d); 192.935(b) and 192.939(a).
+(1) NACE Standard Practice 0102-2010, “In-Line Inspection of Pipelines,” Revised 2010-03-13, (NACE SP0102), IBR approved for §§ 192.150(a) and 192.493.
 
-(2) NACE Standard Practice 0102-2010, “In-Line Inspection of Pipelines,” Revised 2010-03-13, (NACE SP0102), IBR approved for §§ 192.150(a) and 192.493.
+(2) NACE SP0204-2008, Standard Practice, “Stress Corrosion Cracking (SCC) Direct Assessment Methodology,” reaffirmed September 18, 2008, (NACE SP0204); IBR approved for §§ 192.923(b); 192.929(b) introductory text, (b)(1) through (3), (b)(5) introductory text, and (b)(5)(i).
+
+(3) NACE SP0206-2006, Standard Practice, “Internal Corrosion Direct Assessment Methodology for Pipelines Carrying Normally Dry Natural Gas (DG-ICDA),” approved December 1, 2006, (NACE SP0206), IBR approved for §§ 192.923(b); 192.927(b), (c) introductory text, and (c)(1) through (4).
+
+(4) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” revised June 24, 2010, (NACE SP0502), IBR approved for §§ 192.319(f); 192.461(h); 192.923(b); 192.925(b); 192.931(d); 192.935(b); and 192.939(a).
 
 (i) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, Massachusetts 02169, phone: 1 617 984-7275, Web site: *http://www.nfpa.org/.*
 

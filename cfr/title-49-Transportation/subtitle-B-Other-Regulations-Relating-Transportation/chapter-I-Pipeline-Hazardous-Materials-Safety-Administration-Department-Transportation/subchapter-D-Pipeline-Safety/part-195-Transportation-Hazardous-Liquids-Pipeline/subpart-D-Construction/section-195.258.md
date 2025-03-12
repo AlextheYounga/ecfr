@@ -10,4 +10,4 @@
 
 (e) If an operator elects to use alternative equivalent technology in accordance with paragraph (c) or (d) of this section, the operator must notify PHMSA in accordance with § 195.18. The operator must include a technical and safety evaluation in its notice to PHMSA. Valves that are installed as alternative equivalent technology must comply with §§ 195.418, 195.419, and 195.420. An operator requesting use of manual valves as an alternative equivalent technology must also include within the notification submitted to PHMSA a demonstration that installation of an RMV as otherwise required would be economically, technically, or operationally infeasible. An operator may use a manual compressor station valve at a continuously manned station as an alternative equivalent technology. Such a valve used as an alternative equivalent technology would not require a notification to PHMSA in accordance with § 195.18, but it must comply with §§ 195.419 and 195.420.
 
-[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. No. 195-105, 87 FR 20987, Apr. 8, 2022]
+[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. 195-105, 87 FR 20987, Apr. 8, 2022]

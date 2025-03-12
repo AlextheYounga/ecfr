@@ -32,4 +32,4 @@
 
 (i) *Baseline assessments for pipeline segments with a reconfirmed MAOP.* An integrity assessment conducted in accordance with the requirements of § 192.624(c) may be used as a baseline assessment under this section.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18232, Apr. 6, 2004; Amdt. No. 192-125, 84 FR 52253, Oct. 1, 2019]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18232, Apr. 6, 2004; Amdt. 192-125, 84 FR 52253, Oct. 1, 2019]

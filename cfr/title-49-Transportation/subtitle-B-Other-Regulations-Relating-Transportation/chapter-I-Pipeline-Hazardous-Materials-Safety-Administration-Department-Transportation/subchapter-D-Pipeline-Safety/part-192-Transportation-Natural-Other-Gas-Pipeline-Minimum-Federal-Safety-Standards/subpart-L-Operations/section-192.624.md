@@ -66,12 +66,10 @@
 
 (ii) Conduct patrols in accordance with § 192.705 paragraphs (a) and (c) and conduct instrumented leakage surveys in accordance with § 192.706 at intervals not to exceed those in the following table 1 to § 192.624(c)(5)(ii):
 
-Table 1 to § 192.624(c)(5)(ii)
-
-|    Class locations    |                        Patrols                        |                    Leakage surveys                     |
-|-----------------------|-------------------------------------------------------|--------------------------------------------------------|
-|(A) Class 1 and Class 2|31/2 months, but at least four times each calendar year|31/2 months, but at least four times each calendar year.|
-|(B) Class 3 and Class 4|  3 months, but at least six times each calendar year  |  3 months, but at least six times each calendar year.  |
+|    Class locations    |                        Patrols                         |                     Leakage surveys                     |
+|-----------------------|--------------------------------------------------------|---------------------------------------------------------|
+|(A) Class 1 and Class 2|3 1/2 months, but at least four times each calendar year|3 1/2 months, but at least four times each calendar year.|
+|(B) Class 3 and Class 4|  3 months, but at least six times each calendar year   |  3 months, but at least six times each calendar year.   |
 
 (iii) Under Method 5, future uprating of the pipeline segment in accordance with subpart K is allowed.
 
@@ -95,4 +93,4 @@ Table 1 to § 192.624(c)(5)(ii)
 
 (d) *Records.* An operator must retain records of investigations, tests, analyses, assessments, repairs, replacements, alterations, and other actions taken in accordance with the requirements of this section for the life of the pipeline.
 
-[Amdt. No. 192-125, 84 FR 52247, Oct. 1, 2019, as amended by Amdt. No. 192-127, 85 FR 40134, July 6, 2020]
+[Amdt. 192-125, 84 FR 52247, Oct. 1, 2019, as amended by Amdt. 192-127, 85 FR 40134, July 6, 2020]

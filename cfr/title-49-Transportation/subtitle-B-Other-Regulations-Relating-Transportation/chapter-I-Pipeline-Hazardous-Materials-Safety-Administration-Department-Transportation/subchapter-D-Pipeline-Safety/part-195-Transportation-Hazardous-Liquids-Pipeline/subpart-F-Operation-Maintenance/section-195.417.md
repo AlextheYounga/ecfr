@@ -10,4 +10,4 @@
 
 (b) A notification of potential rupture occurs when an operator first receives notice of or observes an event specified in paragraph (a) of this section.
 
-[Amdt. No. 195-105, 87 FR 20989, Apr. 8, 2022]
+[Amdt. 195-105, 87 FR 20989, Apr. 8, 2022]

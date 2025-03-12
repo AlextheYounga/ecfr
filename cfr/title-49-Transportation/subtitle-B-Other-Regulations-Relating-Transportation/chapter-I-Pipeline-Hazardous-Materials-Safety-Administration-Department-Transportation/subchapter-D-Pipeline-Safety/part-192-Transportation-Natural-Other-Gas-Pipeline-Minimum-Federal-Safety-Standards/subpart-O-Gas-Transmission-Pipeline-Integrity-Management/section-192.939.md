@@ -46,4 +46,4 @@ Maximum Reassessment Interval
 
 (\*\*) A low stress reassessment or Confirmatory direct assessment must be conducted by years 7 and 14 of the interval.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, 182, Jan. 5, 2015; Amdt. No. 192-125, 84 FR 52255, Oct. 1, 2019]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, 182, Jan. 5, 2015; Amdt. 192-125, 84 FR 52255, Oct. 1, 2019]

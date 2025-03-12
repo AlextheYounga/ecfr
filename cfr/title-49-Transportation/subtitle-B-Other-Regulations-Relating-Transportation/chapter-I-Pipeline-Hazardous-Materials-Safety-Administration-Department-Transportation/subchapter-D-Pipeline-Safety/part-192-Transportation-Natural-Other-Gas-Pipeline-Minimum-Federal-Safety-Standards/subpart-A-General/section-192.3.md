@@ -1,7 +1,5 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 87 FR 52267, Aug. 24, 2022.Link to a correction published at 87 FR 64384, Oct. 25, 2022.
-
 As used in this part:
 
 *Abandoned* means permanently removed from service.
@@ -12,6 +10,8 @@ As used in this part:
 
 *Alarm* means an audible or visible means of indicating to the controller that equipment or processes are outside operator-defined, safety-related parameters.
 
+*Close interval survey* means a series of closely and properly spaced pipe-to-electrolyte potential measurements taken over the pipe to assess the adequacy of cathodic protection or to identify locations where a current may be leaving the pipeline that may cause corrosion and for the purpose of quantifying voltage (IR) drops other than those across the structure electrolyte boundary, such as when performed as a current interrupted, depolarized, or native survey.
+
 *Composite materials* means materials used to make pipe or components manufactured with a combination of either steel and/or plastic and with a reinforcing material to maintain its circumferential or longitudinal strength.
 
 *Control room* means an operations center staffed by personnel charged with the responsibility for remotely monitoring and controlling a pipeline facility.
@@ -20,7 +20,17 @@ As used in this part:
 
 *Customer meter* means the meter that measures the transfer of gas from an operator to a consumer.
 
+*Distribution center* means the initial point where gas enters piping used primarily to deliver gas to customers who purchase it for consumption, as opposed to customers who purchase it for resale, for example:
+
+(1) At a metering location;
+
+(2) A pressure reduction location; or
+
+(3) Where there is a reduction in the volume of gas, such as a lateral off a transmission line.
+
 *Distribution line* means a pipeline other than a gathering or transmission line.
+
+*Dry gas or dry natural gas* means gas above its dew point and without condensed liquids.
 
 *Electrical survey* means a series of closely spaced pipe-to-soil readings over pipelines which are subsequently analyzed to identify locations where a corrosive current is leaving the pipeline.
 
@@ -36,9 +46,15 @@ As used in this part:
 
 *Gulf of Mexico and its inlets* means the waters from the mean high water mark of the coast of the Gulf of Mexico and its inlets open to the sea (excluding rivers, tidal marshes, lakes, and canals) seaward to include the territorial sea and Outer Continental Shelf to a depth of 15 feet (4.6 meters), as measured from the mean low water.
 
+*Hard spot* means an area on steel pipe material with a minimum dimension greater than two inches (50.8 mm) in any direction and hardness greater than or equal to Rockwell 35 HRC (Brinell 327 HB or Vickers 345 HV10).
+
 *Hazard to navigation* means, for the purposes of this part, a pipeline where the top of the pipe is less than 12 inches (305 millimeters) below the underwater natural bottom (as determined by recognized and generally accepted practices) in waters less than 15 feet (4.6 meters) deep, as measured from the mean low water.
 
 *High-pressure distribution system* means a distribution system in which the gas pressure in the main is higher than the pressure provided to the customer.
+
+*In-line inspection (ILI)* means an inspection of a pipeline from the interior of the pipe using an inspection tool also called *intelligent* or *smart pigging.* This definition includes tethered and self-propelled inspection tools.
+
+*In-line inspection tool* or *instrumented internal inspection device* means an instrumented device or vehicle that uses a non-destructive testing technique to inspect the pipeline from the inside in order to identify and characterize flaws to analyze pipeline integrity; also known as an *intelligent* or *smart pig.*
 
 *Line section* means a continuous run of transmission line between adjacent compressor stations, between a compressor station and storage facilities, between a compressor station and a block valve, or between adjacent block valves.
 
@@ -100,11 +116,17 @@ As used in this part:
 
 *Supervisory Control and Data Acquisition (SCADA) system* means a computer-based system or systems used by a controller in a control room that collects and displays information about a pipeline facility and may have the ability to send commands back to the pipeline facility.
 
-*Transmission line* means a pipeline, other than a gathering line, that: (1) Transports gas from a gathering line or storage facility to a distribution center, storage facility, or large volume customer that is not down-stream from a distribution center; (2) operates at a hoop stress of 20 percent or more of SMYS; or (3) transports gas within a storage field.
+*Transmission line* means a pipeline or connected series of pipelines, other than a gathering line, that:
 
-Note:
+(1) Transports gas from a gathering pipeline or storage facility to a distribution center, storage facility, or large volume customer that is not down-stream from a distribution center;
 
-A large volume customer may receive similar volumes of gas as a distribution center, and includes factories, power plants, and institutional users of gas.
+(2) Has an MAOP of 20 percent or more of SMYS;
+
+(3) Transports gas within a storage field; or
+
+(4) Is voluntarily designated by the operator as a transmission pipeline.
+
+Note 1 to *transmission line.* A large volume customer may receive similar volumes of gas as a distribution center, and includes factories, power plants, and institutional users of gas.
 
 *Transportation of gas* means the gathering, transmission, or distribution of gas by pipeline or the storage of gas, in or affecting interstate or foreign commerce.
 
@@ -123,5 +145,23 @@ A large volume customer may receive similar volumes of gas as a distribution cen
 *Welder* means a person who performs manual or semi-automatic welding.
 
 *Welding operator* means a person who operates machine or automatic welding equipment.
+
+*Wrinkle bend* means a bend in the pipe that:
+
+(1) Was formed in the field during construction such that the inside radius of the bend has one or more ripples with:
+
+(i) An amplitude greater than or equal to 1.5 times the wall thickness of the pipe, measured from peak to valley of the ripple; or
+
+(ii) With ripples less than 1.5 times the wall thickness of the pipe and with a wrinkle length (peak to peak) to wrinkle height (peak to valley) ratio under 12.
+
+(2)(i) If the length of the wrinkle bend cannot be reliably determined, then *wrinkle bend* means a bend in the pipe where (h/D)\*100 exceeds 2 when S is less than 37,000 psi (255 MPa), where (h/D)\*100 exceeds (47000—*S*)/10,000 +1 for psi [324—*S*)/69 +1 for MPa] when S is greater than 37,000 psi (255 MPa) but less than 47,000 psi (324 MPa), and where (h/D)\*100 exceeds 1 when S is 47,000 psi (324 MPa) or more.
+
+(ii) Where:
+
+(A) D = Outside diameter of the pipe, in. (mm);
+
+(B) h = Crest-to-trough height of the ripple, in. (mm); and
+
+(C) S = Maximum operating hoop stress, psi (S/145, MPa).
 
 [Amdt. 192-13, 38 FR 9084, Apr. 10, 1973]Editorial Note:For Federal Register citations affecting § 192.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

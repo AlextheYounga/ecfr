@@ -50,4 +50,4 @@ Each operator of a regulated rural gathering line, as defined in paragraph (a) o
 
 (2) An operator must maintain the records necessary to demonstrate compliance with each requirement in paragraphs (b)(2) through (b)(9), and (b)(11) of this section according to the record retention requirements of the referenced section or subpart.
 
-[73 FR 31644, June 3, 2008, as amended by Amdt. No. 195-105, 87 FR 20987, Apr. 8, 2022]
+[73 FR 31644, June 3, 2008, as amended by Amdt. 195-105, 87 FR 20987, Apr. 8, 2022]

@@ -48,4 +48,4 @@ When an operator conducts an MAOP reconfirmation in accordance with § 192.624(c
 
 (e) *Records.* An operator must retain records of investigations, tests, analyses, assessments, repairs, replacements, alterations, and other actions taken in accordance with the requirements of this section for the life of the pipeline.
 
-[Amdt. No. 192-125, 84 FR 52249, Oct. 1, 2019]
+[Amdt. 192-125, 84 FR 52249, Oct. 1, 2019]

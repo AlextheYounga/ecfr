@@ -32,4 +32,4 @@
 
 (d) An operator must have records that document the current class location of each gas transmission pipeline segment and that demonstrate how the operator determined each current class location in accordance with this section.
 
-[Amdt. 192-78, 61 FR 28783, June 6, 1996; 61 FR 35139, July 5, 1996, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. No. 192-125, 84 FR 52243, Oct. 1, 2019; Amdt. No. 192-127, 85 FR 40134, July 6, 2020]
+[Amdt. 192-78, 61 FR 28783, June 6, 1996; 61 FR 35139, July 5, 1996, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. 192-125, 84 FR 52243, Oct. 1, 2019; Amdt. 192-127, 85 FR 40134, July 6, 2020]

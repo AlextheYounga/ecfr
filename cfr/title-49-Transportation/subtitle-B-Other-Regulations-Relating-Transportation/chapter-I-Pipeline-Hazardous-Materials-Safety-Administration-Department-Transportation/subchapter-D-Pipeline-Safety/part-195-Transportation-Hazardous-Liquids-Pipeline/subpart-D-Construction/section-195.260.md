@@ -26,4 +26,4 @@ A valve must be installed at each of the following locations:
 
 (h) An operator may submit for PHMSA review, in accordance with § 195.18, a notification requesting site-specific exemption from the valve installation requirements or valve spacing requirements of paragraph (c), (e), or (f) of this section and demonstrating such exemption would not adversely affect safety. An operator may also submit for PHMSA review, in accordance with § 195.18, a notification requesting an extension of the compliance deadline requirements for valve installation and spacing of this section because those compliance deadline requirements would be economically, technically, or operationally infeasible for a particular new construction or pipeline replacement project.
 
-[Amdt. No. 195-105, 87 FR 20987, Apr. 8, 2022]
+[Amdt. 195-105, 87 FR 20987, Apr. 8, 2022]

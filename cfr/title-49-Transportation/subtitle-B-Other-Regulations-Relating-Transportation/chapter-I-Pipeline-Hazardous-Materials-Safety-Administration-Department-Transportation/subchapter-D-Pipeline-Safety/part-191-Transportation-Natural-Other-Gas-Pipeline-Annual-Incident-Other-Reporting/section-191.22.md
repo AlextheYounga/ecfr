@@ -34,4 +34,4 @@
 
 (d) *Reporting.* An operator must use the OPID issued by PHMSA for all reporting requirements covered under this subchapter and for submissions to the National Pipeline Mapping System.
 
-[Amdt. No. 191-27, 85 FR 8125, Feb. 12, 2020, as amended by Amdt. No. 191-28, 85 FR 44478, July 23, 2020]
+[Amdt. 191-27, 85 FR 8125, Feb. 12, 2020, as amended by Amdt. 191-28, 85 FR 44478, July 23, 2020]

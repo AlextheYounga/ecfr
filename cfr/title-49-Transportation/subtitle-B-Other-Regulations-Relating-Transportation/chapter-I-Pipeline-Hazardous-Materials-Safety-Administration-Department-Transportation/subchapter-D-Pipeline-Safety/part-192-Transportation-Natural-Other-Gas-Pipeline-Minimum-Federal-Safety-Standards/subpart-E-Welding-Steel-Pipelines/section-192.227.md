@@ -6,4 +6,4 @@
 
 (c) For steel transmission pipe installed after July 1, 2021, records demonstrating each individual welder qualification at the time of construction in accordance with this section must be retained for a minimum of 5 years following construction.
 
-[Amdt. 192-120, 80 FR 12778, Mar. 11, 2015, as amended by Amdt. 192-123, 82 FR 7997, Jan. 23, 2017; Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]
+[Amdt. 192-120, 80 FR 12778, Mar. 11, 2015, as amended by Amdt. 192-123, 82 FR 7997, Jan. 23, 2017; Amdt. 192-125, 84 FR 52245, Oct. 1, 2019]

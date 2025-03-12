@@ -1,22 +1,136 @@
 ##### § 192.917 How does an operator identify potential threats to pipeline integrity and use the threat identification in its integrity program? #####
 
-Link to an amendment published at 87 FR 52273, Aug. 24, 2022.
-
-(a) *Threat identification.* An operator must identify and evaluate all potential threats to each covered pipeline segment. Potential threats that an operator must consider include, but are not limited to, the threats listed in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 2, which are grouped under the following four categories:
+(a) *Threat identification.* An operator must identify and evaluate all potential threats to each covered pipeline segment. Potential threats that an operator must consider include, but are not limited to, the threats listed in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 2, which are grouped under the following four threat categories:
 
 (1) Time dependent threats such as internal corrosion, external corrosion, and stress corrosion cracking;
 
-(2) Static or resident threats, such as fabrication or construction defects;
+(2) Stable threats, such as manufacturing, welding, fabrication, or construction defects;
 
-(3) Time independent threats such as third party damage, mechanical damage, incorrect operational procedure, weather related and outside force damage to include consideration of seismicity, geology, and soil stability of the area; and
+(3) Time independent threats, such as third party damage, mechanical damage, incorrect operational procedure, weather related and outside force damage, to include consideration of seismicity, geology, and soil stability of the area; and
 
-(4) Human error.
+(4) Human error, such as operational or maintenance mishaps, or design and construction mistakes.
 
-(b) *Data gathering and integration.* To identify and evaluate the potential threats to a covered pipeline segment, an operator must gather and integrate existing data and information on the entire pipeline that could be relevant to the covered segment. In performing this data gathering and integration, an operator must follow the requirements in ASME/ANSI B31.8S, section 4. At a minimum, an operator must gather and evaluate the set of data specified in Appendix A to ASME/ANSI B31.8S, and consider both on the covered segment and similar non-covered segments, past incident history, corrosion control records, continuing surveillance records, patrolling records, maintenance history, internal inspection records and all other conditions specific to each pipeline.
+(b) *Data gathering and integration.* To identify and evaluate the potential threats to a covered pipeline segment, an operator must gather and integrate existing data and information on the entire pipeline that could be relevant to the covered segment. In performing data gathering and integration, an operator must follow the requirements in ASME/ANSI B31.8S, section 4.
 
-(c) *Risk assessment.* An operator must conduct a risk assessment that follows ASME/ANSI B31.8S, section 5, and considers the identified threats for each covered segment. An operator must use the risk assessment to prioritize the covered segments for the baseline and continual reassessments (§§ 192.919, 192.921, 192.937), and to determine what additional preventive and mitigative measures are needed (§ 192.935) for the covered segment.
+Operators must begin to integrate all pertinent data elements specified in this section starting on May 24, 2023, with all available attributes integrated by February 26, 2024. An operator may request an extension of up to 1 year by submitting a notification to PHMSA at least 90 days before February 26, 2024, in accordance with § 192.18. The notification must include a reasonable and technically justified basis, an up-to-date plan for completing all actions required by this paragraph (b), the reason for the requested extension, current safety or mitigation status of the pipeline segment, the proposed completion date, and any needed temporary safety measures to mitigate the impact on safety. An operator must gather and evaluate the set of data listed in paragraph (b)(1) of this section. The evaluation must analyze both the covered segment and similar non-covered segments, and it must:
 
-(d) *Plastic transmission pipeline.* An operator of a plastic transmission pipeline must assess the threats to each covered segment using the information in sections 4 and 5 of ASME B31.8S, and consider any threats unique to the integrity of plastic pipe.
+(1) Integrate pertinent information about pipeline attributes to ensure safe operation and pipeline integrity, including information derived from operations and maintenance activities required under this part, and other relevant information, including, but not limited to:
+
+(i) Pipe diameter, wall thickness, seam type, and joint factor;
+
+(ii) Manufacturer and manufacturing date, including manufacturing data and records;
+
+(iii) Material properties including, but not limited to, grade, specified minimum yield strength (SMYS), and ultimate tensile strength;
+
+(iv) Equipment properties;
+
+(v) Year of installation;
+
+(vi) Bending method;
+
+(vii) Joining method, including process and inspection results;
+
+(viii) Depth of cover;
+
+(ix) Crossings, casings (including if shorted), and locations of foreign line crossings and nearby high voltage power lines;
+
+(x) Hydrostatic or other pressure test history, including test pressures and test leaks or failures, failure causes, and repairs;
+
+(xi) Pipe coating methods (both manufactured and field applied), including the method or process used to apply girth weld coating, inspection reports, and coating repairs;
+
+(xii) Soil, backfill;
+
+(xiii) Construction inspection reports, including but not limited to:
+
+(A) Post backfill coating surveys; and
+
+(B) Coating inspection (“jeeping” or “holiday inspection”) reports;
+
+(xiv) Cathodic protection installed, including, but not limited to, type and location;
+
+(xv) Coating type;
+
+(xvi) Gas quality;
+
+(xvii) Flow rate;
+
+(xviii) Normal maximum and minimum operating pressures, including maximum allowable operating pressure (MAOP);
+
+(xix) Class location;
+
+(xx) Leak and failure history, including any in-service ruptures or leaks from incident reports, abnormal operations, safety-related conditions (both reported and unreported) and failure investigations required by § 192.617, and their identified causes and consequences;
+
+(xxi) Coating condition;
+
+(xxii) Cathodic protection (CP) system performance;
+
+(xxiii) Pipe wall temperature;
+
+(xxiv) Pipe operational and maintenance inspection reports, including, but not limited to:
+
+(A) Data gathered through integrity assessments required under this part, including, but not limited to, in-line inspections, pressure tests, direct assessments, guided wave ultrasonic testing, or other methods;
+
+(B) Close interval survey (CIS) and electrical survey results;
+
+(C) CP rectifier readings;
+
+(D) CP test point survey readings and locations;
+
+(E) Alternating current, direct current, and foreign structure interference surveys;
+
+(F) Pipe coating surveys, including surveys to detect coating damage, disbonded coatings, or other conditions that compromise the effectiveness of corrosion protection, including, but not limited to, direct current voltage gradient or alternating current voltage gradient inspections;
+
+(G) Results of examinations of exposed portions of buried pipelines (e.g., pipe and pipe coating condition, *see* § 192.459), including the results of any non-destructive examinations of the pipe, seam, or girth weld (*i.e.* bell hole inspections);
+
+(H) Stress corrosion cracking excavations and findings;
+
+(I) Selective seam weld corrosion excavations and findings;
+
+(J) Any indication of seam cracking; and
+
+(K) Gas stream sampling and internal corrosion monitoring results, including cleaning pig sampling results;
+
+(xxv) External and internal corrosion monitoring;
+
+(xxvi) Operating pressure history and pressure fluctuations, including an analysis of effects of pressure cycling and instances of exceeding MAOP by any amount;
+
+(xxvii) Performance of regulators, relief valves, pressure control devices, or any other device to control or limit operating pressure to less than MAOP;
+
+(xxviii) Encroachments;
+
+(xxix) Repairs;
+
+(xxx) Vandalism;
+
+(xxxi) External forces;
+
+(xxxii) Audits and reviews;
+
+(xxxiii) Industry experience for incident, leak, and failure history;
+
+(xxxiv) Aerial photography; and
+
+(xxxv) Exposure to natural forces in the area of the pipeline, including seismicity, geology, and soil stability of the area.
+
+(2) Use validated information and data as inputs, to the maximum extent practicable. If input is obtained from subject matter experts (SME), an operator must employ adequate control measures to ensure consistency and accuracy of information. Control measures may include training of SMEs or the use of outside technical experts (independent expert reviews) to assess the quality of processes and the judgment of SMEs. An operator must document the names and qualifications of the individuals who approve SME inputs used in the current risk assessment.
+
+(3) Identify and analyze spatial relationships among anomalous information (*e.g.,* corrosion coincident with foreign line crossings or evidence of pipeline damage where overhead imaging shows evidence of encroachment).
+
+(4) Analyze the data for interrelationships among pipeline integrity threats, including combinations of applicable risk factors that increase the likelihood of incidents or increase the potential consequences of incidents.
+
+(c) *Risk assessment.* An operator must conduct a risk assessment that follows ASME/ANSI B31.8S, section 5, and that analyzes the identified threats and potential consequences of an incident for each covered segment. An operator must ensure the validity of the methods used to conduct the risk assessment considering the incident, leak, and failure history of the pipeline segments and other historical information. Such a validation must ensure the risk assessment methods produce a risk characterization that is consistent with the operator's and industry experience, including evaluations of the cause of past incidents, as determined by root cause analysis or other equivalent means, and include sensitivity analysis of the factors used to characterize both the likelihood of loss of pipeline integrity and consequences of the postulated loss of pipeline integrity. An operator must use the risk assessment to determine additional preventive and mitigative measures needed for each covered segment in accordance with § 192.935 and periodically evaluate the integrity of each covered pipeline segment in accordance with § 192.937. Beginning February 26, 2024, the risk assessment must:
+
+(1) Analyze how a potential failure could affect high consequence areas;
+
+(2) Analyze the likelihood of failure due to each individual threat and each unique combination of threats that interact or simultaneously contribute to risk at a common location;
+
+(3) Account for, and compensate for, uncertainties in the model and the data used in the risk assessment; and
+
+(4) Evaluate the potential risk reduction associated with candidate risk reduction activities, such as preventive and mitigative measures, and reduced anomaly remediation and assessment intervals.
+
+(5) In conjunction with § 192.917(b), an operator may request an extension of up to 1 year for the requirements of this paragraph by submitting a notification to PHMSA at least 90 days before February 26, 2024, in accordance with § 192.18. The notification must include a reasonable and technically justified basis, an up-to-date plan for completing all actions required by this paragraph (c)(5), the reason for the requested extension, current safety or mitigation status of the pipeline segment, the proposed completion date, and any needed temporary safety measures to mitigate the impact on safety.
+
+(d) *Plastic transmission pipeline.* An operator of a plastic transmission pipeline must assess the threats to each covered segment using the information in sections 4 and 5 of ASME B31.8S and consider any threats unique to the integrity of plastic pipe, such as poor joint fusion practices, pipe with poor slow crack growth (SCG) resistance, brittle pipe, circumferential cracking, hydrocarbon softening of the pipe, internal and external loads, longitudinal or lateral loads, proximity to elevated heat sources, and point loading.
 
 (e) *Actions to address particular threats.* If an operator identifies any of the following threats, the operator must take the following actions to address the threat.
 
@@ -39,4 +153,4 @@ An operator must also have procedures in its integrity management program addres
 
 (6) *Cracks.* If an operator identifies any crack or crack-like defect (*e.g.,* stress corrosion cracking or other environmentally assisted cracking, seam defects, selective seam weld corrosion, girth weld cracks, hook cracks, and fatigue cracks) on a covered pipeline segment that could adversely affect the integrity of the pipeline, the operator must evaluate, and remediate, as necessary, all pipeline segments (both covered and non-covered) with similar characteristics associated with the crack or crack-like defect. Similar characteristics may include operating and maintenance histories, material properties, and environmental characteristics. An operator must establish a schedule for evaluating, and remediating, as necessary, the similar pipeline segments that is consistent with the operator's established operating and maintenance procedures under this part for testing and repair.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. No. 192-125, 84 FR 52253, Oct. 1, 2019]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. 192-125, 84 FR 52253, Oct. 1, 2019; Amdt. 192-132, 87 FR 52273, Aug. 24, 2022]

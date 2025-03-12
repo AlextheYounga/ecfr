@@ -18,4 +18,4 @@
 
 (b) Each operator must maintain a record of each test required by §§ 192.509, 192.511, and 192.513 for at least 5 years.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-93, 68 FR 53901, Sept. 15, 2003; Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-93, 68 FR 53901, Sept. 15, 2003; Amdt. 192-125, 84 FR 52245, Oct. 1, 2019]

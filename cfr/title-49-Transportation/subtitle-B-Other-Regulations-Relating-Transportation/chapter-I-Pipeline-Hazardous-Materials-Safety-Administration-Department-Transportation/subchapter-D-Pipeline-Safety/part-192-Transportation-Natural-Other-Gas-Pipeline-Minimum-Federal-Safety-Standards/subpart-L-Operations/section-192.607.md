@@ -56,4 +56,4 @@
 
 (g) *Uprating.* The material properties determined from the destructive or nondestructive tests required by this section cannot be used to raise the grade or specification of the material, unless the original grade or specification is unknown and MAOP is based on an assumed yield strength of 24,000 psi in accordance with § 192.107(b)(2).
 
-[Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]
+[Amdt. 192-125, 84 FR 52245, Oct. 1, 2019]

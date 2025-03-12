@@ -18,4 +18,4 @@
 
 (c) *Manual operation upon identification of a rupture.* Operators using a manual valve as an alternative equivalent technology pursuant to paragraph (a) of this section must develop and implement operating procedures and appropriately designate and locate nearby personnel to ensure valve shut-off in accordance with this section and § 195.419. Manual operation of valves must include time for the assembly of necessary operating personnel, the acquisition of necessary tools and equipment, driving time under heavy traffic conditions and at the posted speed limit, walking time to access the valve, and time to manually shut off all valves, not to exceed the response time in § 195.419(b).
 
-[Amdt. No. 195-105, 87 FR 20989, Apr. 8, 2022]
+[Amdt. 195-105, 87 FR 20989, Apr. 8, 2022]

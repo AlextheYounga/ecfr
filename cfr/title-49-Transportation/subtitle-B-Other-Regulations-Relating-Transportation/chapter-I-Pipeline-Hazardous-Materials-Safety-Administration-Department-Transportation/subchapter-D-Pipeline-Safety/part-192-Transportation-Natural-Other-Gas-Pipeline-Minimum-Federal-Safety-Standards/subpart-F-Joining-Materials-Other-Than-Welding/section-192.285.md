@@ -28,4 +28,4 @@
 
 (e) For transmission pipe installed after July 1, 2021, records demonstrating each person's plastic pipe joining qualifications at the time of construction in accordance with this section must be retained for a minimum of 5 years following construction.
 
-[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018; Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019; 86 FR 2240, Jan. 11, 2021]
+[Amdt. 192-34A, 45 FR 9935, Feb. 14, 1980, as amended by Amdt. 192-34B, 46 FR 39, Jan. 2, 1981; Amdt. 192-93, 68 FR 53900, Sept. 15, 2003; Amdt. 192-120, 80 FR 12779, Mar. 11, 2015; Amdt. 192-124, 83 FR 58718, Nov. 20, 2018; Amdt. 192-125, 84 FR 52245, Oct. 1, 2019; 86 FR 2240, Jan. 11, 2021]

@@ -1,18 +1,16 @@
 ##### § 192.9 What requirements apply to gathering pipelines? #####
 
-Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
-
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 
-(b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in §§ 192.150, 192.285(e), 192.493, 192.506, 192.607, 192.619(e), 192.624, 192.710, 192.712, and in subpart O of this part.
+(b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c), 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714 and in subpart O of this part.
 
-(c) *Type A lines.* An operator of a Type A regulated onshore gathering line must comply with the requirements of this part applicable to transmission lines, except the requirements in §§ 192.150, 192.285(e), 192.493, 192.506, 192.607, 192.619(e), 192.624, 192.710, 192.712, and in subpart O of this part. However, operators of Type A regulated onshore gathering lines in a Class 2 location may demonstrate compliance with subpart N by describing the processes it uses to determine the qualification of persons performing operations and maintenance tasks.
+(c) *Type A lines.* An operator of a Type A regulated onshore gathering line must comply with the requirements of this part applicable to transmission lines, except the requirements in §§ 192.13(d), 192.150, 192.285(e), 192.319(d) through (g), 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c) 192.493, 192.506, 192.607, 192.613(c), 192.619(e), 192.624, 192.710, 192.712, and 192.714 and in subpart O of this part. However, an operator of a Type A regulated onshore gathering line in a Class 2 location may demonstrate compliance with subpart N of this part by describing the processes it uses to determine the qualification of persons performing operations and maintenance tasks.
 
 (d) *Type B lines.* An operator of a Type B regulated onshore gathering line must comply with the following requirements:
 
-(1) If a line is new, replaced, relocated, or otherwise changed, the design, installation, construction, initial inspection, and initial testing must be in accordance with requirements of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e), 192.179(f), 192.205, 192.227(c), 192.285(e), 192.506, 192.634, and 192.636 is not required.
+(1) If a line is new, replaced, relocated, or otherwise changed, the design, installation, construction, initial inspection, and initial testing must be in accordance with requirements of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e) and (f), 192.205, 192.227(c), 192.285(e), 192.319(d) through (g), 192.506, 192.634, and 192.636 is not required;
 
-(2) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines except the requirements in § 192.493;
+(2) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines, except the requirements in §§ 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c), and 192.493;
 
 (3) If the pipeline contains plastic pipe or components, the operator must comply with all applicable requirements of this part for plastic pipe components;
 
@@ -30,9 +28,9 @@ Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
 
 (1) An operator of a Type C onshore gathering line with an outside diameter greater than or equal to 8.625 inches must comply with the following requirements:
 
-(i) Except as provided in paragraph (h) of this section for pipe and components made with composite materials, the design, installation, construction, initial inspection, and initial testing of a new, replaced, relocated, or otherwise changed Type C gathering line, must be done in accordance with the requirements in subparts B though G and J of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e), 192.179(f), 192.205, 192.227(c), 192.285(e), 192.506, 192.634, and 192.636 is not required;
+(i) Except as provided in paragraph (h) of this section for pipe and components made with composite materials, the design, installation, construction, initial inspection, and initial testing of a new, replaced, relocated, or otherwise changed Type C gathering line, must be done in accordance with the requirements in subparts B through G and J of this part applicable to transmission lines. Compliance with §§ 192.67, 192.127, 192.179(e) and (f), 192.205, 192.227(c), 192.285(e), 192.319(d) through (g), 192.506, 192.634, and 192.636 is not required;
 
-(ii) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines except for § 192.493;
+(ii) If the pipeline is metallic, control corrosion according to requirements of subpart I of this part applicable to transmission lines, except the requirements in §§ 192.461(f) through (i), 192.465(d) and (f), 192.473(c), 192.478, 192.485(c), and 192.493;
 
 (iii) Carry out a damage prevention program under § 192.614;
 
@@ -117,4 +115,4 @@ Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
 
 (3) Repairs or replacements using materials authorized under this part do not require notification under this section.
 
-[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. No. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021; Amdt. 192-130, 87 FR 20982, Apr. 8, 2022]
+[Amdt. 192-102, 71 FR 13301, Mar. 15, 2006, as amended by Amdt. 192-120, 80 FR 12777, Mar. 11, 2015; Amdt. 192-124, 83 FR 58716, Nov. 20, 2018; Amdt. 192-125, 84 FR 52244, Oct. 1, 2019; Amdt. 192-129, 86 FR 63296, Nov. 15, 2021; Amdt. 192-130, 87 FR 20982, Apr. 8, 2022; Amdt. 192-132, 87 FR 52268, Aug. 24, 2022]

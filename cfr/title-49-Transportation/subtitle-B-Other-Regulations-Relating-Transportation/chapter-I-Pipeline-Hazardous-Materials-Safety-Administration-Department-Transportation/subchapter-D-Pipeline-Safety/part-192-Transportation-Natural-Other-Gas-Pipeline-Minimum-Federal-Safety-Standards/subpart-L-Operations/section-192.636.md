@@ -20,4 +20,4 @@
 
 (g) *Manual valves in non-HCA, Class 1 locations.* For pipeline segments in a Class 1 location that do not meet the definition of a high consequence area (HCA), an operator submitting a notification pursuant to §§ 192.18 and 192.179 for use of manual valves as an alternative equivalent technology may also request an exemption from the requirements of § 192.636(b).
 
-[Amdt. No. 192-130, 87 FR 20985, Apr. 8, 2022]
+[Amdt. 192-130, 87 FR 20985, Apr. 8, 2022]

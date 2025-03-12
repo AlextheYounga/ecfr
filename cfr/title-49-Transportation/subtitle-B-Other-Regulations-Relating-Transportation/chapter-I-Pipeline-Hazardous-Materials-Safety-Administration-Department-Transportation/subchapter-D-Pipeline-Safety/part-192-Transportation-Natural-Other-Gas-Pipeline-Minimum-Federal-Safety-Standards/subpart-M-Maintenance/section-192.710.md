@@ -1,7 +1,5 @@
 ##### § 192.710 Transmission lines: Assessments outside of high consequence areas. #####
 
-Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
-
 (a) *Applicability:* This section applies to onshore steel transmission pipeline segments with a maximum allowable operating pressure of greater than or equal to 30% of the specified minimum yield strength and are located in:
 
 (1) A Class 3 or Class 4 location; or
@@ -38,8 +36,8 @@ Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
 
 (e) *Discovery of condition.* Discovery of a condition occurs when an operator has adequate information about a condition to determine that the condition presents a potential threat to the integrity of the pipeline. An operator must promptly, but no later than 180 days after conducting an integrity assessment, obtain sufficient information about a condition to make that determination, unless the operator demonstrates that 180 days is impracticable.
 
-(f) *Remediation.* An operator must comply with the requirements in §§ 192.485, 192.711, and 192.713, where applicable, if a condition that could adversely affect the safe operation of a pipeline is discovered.
+(f) *Remediation.* An operator must comply with the requirements in §§ 192.485, 192.711, 192.712, 192.713, and 192.714, where applicable, if a condition that could adversely affect the safe operation of a pipeline is discovered.
 
 (g) *Analysis of information.* An operator must analyze and account for all available relevant information about a pipeline in complying with the requirements in paragraphs (a) through (f) of this section.
 
-[Amdt. No. 192-125, 84 FR 52250, Oct. 1, 2019]
+[Amdt. 192-125, 84 FR 52250, Oct. 1, 2019, as amended by Amdt. 192-132, 87 FR 52270, Aug. 24, 2022]

@@ -6,4 +6,4 @@
 
 (c) For steel transmission pipeline segments installed on or before July 1, 2020, if an operator does not have records necessary to establish the MAOP of a pipeline segment, the operator may be subject to the requirements of § 192.624 according to the terms of that section.
 
-[Amdt. No. 192-125, 84 FR 52245, Oct. 1, 2019]
+[Amdt. 192-125, 84 FR 52245, Oct. 1, 2019]

@@ -30,4 +30,4 @@
 
 (d) *MAOP reconfirmation assessments.* An integrity assessment conducted in accordance with the requirements of § 192.624(c) may be used as a reassessment under this section.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-125, 84 FR 52254, Oct. 1, 2019]
