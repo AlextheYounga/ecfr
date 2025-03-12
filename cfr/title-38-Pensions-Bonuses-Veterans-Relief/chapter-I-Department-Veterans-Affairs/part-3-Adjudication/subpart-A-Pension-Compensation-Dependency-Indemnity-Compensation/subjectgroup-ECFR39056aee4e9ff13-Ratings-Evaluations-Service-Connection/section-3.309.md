@@ -194,4 +194,4 @@ For purposes of this section, the term ischemic heart disease does not include h
 
 (8) Bladder cancer.
 
-(Authority: 38 U.S.C. 501(a) and 1112(b))[41 FR 55873, Dec. 23, 1976]Editorial Note:For Federal Register citations affecting § 3.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 38 U.S.C. 501(a) and 1112(b))[41 FR 55873, Dec. 23, 1976]Editorial Note:For Federal Register citations affecting § 3.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

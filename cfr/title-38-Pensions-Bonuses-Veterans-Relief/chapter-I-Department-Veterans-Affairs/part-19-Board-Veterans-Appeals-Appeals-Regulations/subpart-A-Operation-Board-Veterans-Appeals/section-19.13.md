@@ -1,6 +1,6 @@
 ##### § 19.13 Delegation of authority to Chairman and Vice Chairman, Board of Veterans' Appeals. #####
 
-Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 4337, Feb. 15, 2019.
 
 The Chairman and/or Vice Chairman have authority delegated by the Secretary of Veterans Affairs to:
 

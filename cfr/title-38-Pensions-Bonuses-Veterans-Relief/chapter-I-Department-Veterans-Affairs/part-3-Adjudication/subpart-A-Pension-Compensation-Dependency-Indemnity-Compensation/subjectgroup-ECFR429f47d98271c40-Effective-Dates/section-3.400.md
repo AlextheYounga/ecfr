@@ -142,4 +142,4 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (iii) One year prior to date of receipt of reopened claim.
 
-[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

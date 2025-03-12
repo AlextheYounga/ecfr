@@ -2,9 +2,9 @@
 
 As used in this subpart -
 
-*Covered item of supply* means an item of information technology that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system (see section 806(e)(6) of Pub. L. 111-383).
+*Covered item of supply* means an item of information technology that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system (see 10 U.S.C. 2339a).
 
-*Covered system* means a national security system, as that term is defined at 44 U.S.C. 3542(b) (see section 806(e)(5) of Pub. L. 111-38). It is any information system, including any telecommunications system, used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency -
+*Covered system* means a national security system, as that term is defined at 44 U.S.C. 3552(b) (see 10 U.S.C. 2339a). It is any information system, including any telecommunications system, used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency -
 
 (1) The function, operation, or use of which -
 
@@ -32,6 +32,6 @@ As used in this subpart -
 
 (3) The term “information technology” does not include any equipment acquired by a contractor incidental to a contract.
 
-*Supply chain risk* means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a national security system (as that term is defined at 44 U.S.C. 3542(b)) so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
+*Supply chain risk* means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system (see 10 U.S.C. 2339a).
 
-[78 FR 69271, Nov. 18, 2013. Redesignated and amended at 80 FR 67251, Oct. 30, 2015; 83 FR 15995, Apr. 13, 2018]
+[78 FR 69271, Nov. 18, 2013. Redesignated and amended at 80 FR 67251, Oct. 30, 2015; 83 FR 15995, Apr. 13, 2018; 84 FR 4369, Feb. 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 36.4301 Definitions. #####
 
-Link to an amendment published at 83 FR 64468, Dec. 17, 2018.
-
 Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the context otherwise requires, the terms defined in this section shall have the following meaning:
 
 *A period of more than 180 days.* For the purposes of sections 3707 and 3702(a)(2)(C) of title 38 U.S.C., the term a period of more than 180 days shall mean 181 or more calendar days of continuous active duty.
@@ -36,7 +34,7 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 
 *Designated appraiser.* Designated appraiser means a person requested by the Secretary to render an estimate of the reasonable value of a property, or of a specified type of property, within a stated area for the purpose of justifying the extension of credit to an eligible veteran for any of the purposes stated in 38 U.S.C. chapter 37. An appraiser on a fee basis is not an agent of the Secretary.
 
-*Discharge or release.* For purposes of basic eligibility a person will be considered discharged or released if the veteran was issued a discharge certificate under conditions other than dishonorable (38 U.S.C. 3702(c)). The term discharge or release includes -
+*Discharge or release.* For purposes of basic eligibility a person will be considered discharged or released if the veteran was issued a discharge certificate under conditions other than dishonorable (38 U.S.C. 3702(c)). The term discharge or release includes—
 
 (1) Retirement from the active military, naval, or air service, and
 
@@ -85,6 +83,8 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 (Authority: 38 U.S.C. 3714)
 
 *Home.* Home means place of residence.
+
+*Home equity.* Home equity is the difference between the home's reasonable value and the outstanding balance of all liens on the property.
 
 *Improvements.* Any alteration that improves the property for the purpose for which it is occupied.
 
@@ -172,4 +172,4 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 
 *Total indebtedness:* For purposes of 38 U.S.C. 3732(c), the veteran's “total indebtedness” shall be the sum of: the unpaid principal on the loan as of the date of the liquidation sale, accrued unpaid interest permitted by § 36.4324(a) of this part, and allowable advances/other charges permitted to be included in the guaranty claim by § 36.4314 of this part.
 
-(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010]
+(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 83 FR 64468, Dec. 17, 2018]

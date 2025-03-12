@@ -1,6 +1,6 @@
 ##### § 3.2600 Review of benefit claims decisions. #####
 
-Link to an amendment published at 84 FR 172, Jan. 18, 2019.
+Link to an amendment published at 84 FR 172, Jan. 18, 2019.Link to a correction published at 84 FR 4336, Feb. 15, 2019.
 
 (a) A claimant who has filed a Notice of Disagreement submitted in accordance with the provisions of § 20.201 of this chapter, and either § 20.302(a) or § 20.501(a) of this chapter, as applicable, with a decision of an agency of original jurisdiction on a benefit claim has a right to a review of that decision under this section. The review will be conducted by a Veterans Service Center Manager, Pension Management Center Manager, or Decision Review Officer, at VA's discretion. An individual who did not participate in the decision being reviewed will conduct this review. Only a decision that has not yet become final (by appellate decision or failure to timely appeal) may be reviewed. Review under this section will encompass only decisions with which the claimant has expressed disagreement in the Notice of Disagreement. The reviewer will consider all evidence of record and applicable law, and will give no deference to the decision being reviewed.
 

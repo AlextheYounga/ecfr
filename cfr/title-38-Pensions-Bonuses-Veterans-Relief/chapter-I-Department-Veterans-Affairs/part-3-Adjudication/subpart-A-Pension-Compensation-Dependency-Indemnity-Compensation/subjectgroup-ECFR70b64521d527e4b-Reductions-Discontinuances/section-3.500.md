@@ -82,4 +82,4 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 Failure to return questionnaire. See § 3.661(b).
 
-[26 FR 1596, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 1596, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.500, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

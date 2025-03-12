@@ -1,5 +1,7 @@
 ##### § 416.622 Who may not serve as a representative payee? #####
 
+Link to an amendment published at 84 FR 4325, Feb. 15, 2019.
+
 A representative payee applicant may not serve if he/she:
 
 (a) Has been convicted of a violation under section 208, 811 or 1632 of the Social Security Act.

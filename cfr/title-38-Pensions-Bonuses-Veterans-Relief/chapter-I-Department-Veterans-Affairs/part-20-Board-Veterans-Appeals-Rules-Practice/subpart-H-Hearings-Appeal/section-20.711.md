@@ -1,6 +1,6 @@
 ##### § 20.711 Rule 711. Subpoenas. #####
 
-Link to an amendment published at 84 FR 187, Jan. 18, 2019.
+Link to an amendment published at 84 FR 187, Jan. 18, 2019.Link to a correction published at 84 FR 4337, Feb. 15, 2019.
 
 (a) *General.* An appellant, or his or her representative, may arrange for the production of any tangible evidence or the voluntary appearance of any witnesses desired. When necessary evidence cannot be obtained in any other reasonable way, the appellant, or his or her representative, may move that a subpoena be issued to compel the attendance of witnesses residing within 100 miles of the place where a hearing on appeal is to be held and/or to compel the production of tangible evidence. A subpoena will not be issued to compel the attendance of Department of Veterans Affairs adjudicatory personnel.
 

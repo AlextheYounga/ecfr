@@ -1,6 +1,6 @@
 ##### § 19.7 The decision. #####
 
-Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 4337, Feb. 15, 2019.
 
 (a) *Decisions based on entire record.* The appellant will not be presumed to be in agreement with any statement of fact contained in a Statement of the Case to which no exception is taken. Decisions of the Board are based on a review of the entire record.
 

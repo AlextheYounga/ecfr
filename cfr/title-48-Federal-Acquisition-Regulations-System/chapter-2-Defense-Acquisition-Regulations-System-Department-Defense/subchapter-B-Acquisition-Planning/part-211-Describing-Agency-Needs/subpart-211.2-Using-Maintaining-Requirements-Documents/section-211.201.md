@@ -1,5 +1,5 @@
 ##### 211.201 Identification and availability of specifications. #####
 
-Follow the procedures at PGI 211.201 for use of specifications, standards, and data item descriptions.
+Follow the procedures at PGI 211.201 for obtaining specifications, standards, and data item descriptions from the ASSIST database, including DoD adoption notices on voluntary consensus standards.
 
-[71 FR 27641, May 12, 2006]
+[84 FR 4368, Feb. 15, 2019]

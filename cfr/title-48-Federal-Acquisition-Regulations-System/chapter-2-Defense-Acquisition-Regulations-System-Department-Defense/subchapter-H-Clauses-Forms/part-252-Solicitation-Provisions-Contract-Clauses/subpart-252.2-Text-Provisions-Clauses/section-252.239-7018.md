@@ -2,7 +2,7 @@
 
 As prescribed in 239.7306(b), use the following clause:
 
-Supply Chain Risk (OCT 2015)
+Supply Chain Risk (FEB 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -18,12 +18,12 @@ Supply Chain Risk (OCT 2015)
 
 (3) The term “information technology” does not include any equipment acquired by a contractor incidental to a contract.
 
-*Supply chain risk* means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a national security system (as that term is defined at 44 U.S.C. 3542(b)) so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
+*Supply chain risk* means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system (see 10 U.S.C. 2339a).
 
 (b) The Contractor shall mitigate supply chain risk in the provision of supplies and services to the Government.
 
-(c) In order to manage supply chain risk, the Government may use the authorities provided by section 806 of Public Law 111-383. In exercising these authorities, the Government may consider information, public and non-public, including all-source intelligence, relating to a Contractor's supply chain.
+(c) In order to manage supply chain risk, the Government may use the authorities provided by 10 U.S.C. 2339a. In exercising these authorities, the Government may consider information, public and non-public, including all-source intelligence, relating to a Contractor's supply chain.
 
-(d) If the Government exercises the authority provided in section 806 of Public Law 111-383 to limit disclosure of information, no action undertaken by the Government under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court.
+(d) If the Government exercises the authority provided in 10 U.S.C. 2339a to limit disclosure of information, no action undertaken by the Government under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court.
 
-(End of clause)[78 FR 69272, Nov. 18, 2013, as amended at 80 FR 67252, Oct. 30, 2015]
+(End of clause)[78 FR 69272, Nov. 18, 2013, as amended at 80 FR 67252, Oct. 30, 2015; 84 FR 4370, Feb. 15, 2019]

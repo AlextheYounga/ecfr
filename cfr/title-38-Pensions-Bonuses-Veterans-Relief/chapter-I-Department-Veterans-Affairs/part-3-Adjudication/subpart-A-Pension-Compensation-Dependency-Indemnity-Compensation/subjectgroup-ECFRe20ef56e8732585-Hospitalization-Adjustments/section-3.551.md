@@ -80,4 +80,4 @@
 
 Time limits. See § 3.109. Apportionment. See § 3.400(e). Reductions and discontinuances; general. See § 3.500. Incompetents; resumption. See § 3.558.
 
-[27 FR 7677, Aug. 3, 1962]Editorial Note:For Federal Register citations affecting § 3.551, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[27 FR 7677, Aug. 3, 1962]Editorial Note:For Federal Register citations affecting § 3.551, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

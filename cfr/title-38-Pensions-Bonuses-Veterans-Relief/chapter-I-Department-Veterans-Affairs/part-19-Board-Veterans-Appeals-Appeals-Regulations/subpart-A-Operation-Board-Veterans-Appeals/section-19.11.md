@@ -1,6 +1,6 @@
 ##### § 19.11 Reconsideration panel. #####
 
-Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 4337, Feb. 15, 2019.
 
 (a) *Assignment of Members.* When a motion for reconsideration is allowed, the Chairman will assign a panel of three or more Members of the Board, which may include the Chairman, to conduct the reconsideration.
 

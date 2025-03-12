@@ -1,6 +1,6 @@
 ##### § 20.608 Rule 608. Withdrawal of services by a representative. #####
 
-Link to an amendment published at 84 FR 184, Jan. 18, 2019.
+Link to an amendment published at 84 FR 184, Jan. 18, 2019.Link to a correction published at 84 FR 4337, Feb. 15, 2019.
 
 (a) *Withdrawal of services prior to certification of an appeal.* A representative may withdraw services as representative in an appeal at any time prior to certification of the appeal to the Board of Veterans' Appeals by the agency of original jurisdiction by complying with the requirements of § 14.631 of this chapter.
 

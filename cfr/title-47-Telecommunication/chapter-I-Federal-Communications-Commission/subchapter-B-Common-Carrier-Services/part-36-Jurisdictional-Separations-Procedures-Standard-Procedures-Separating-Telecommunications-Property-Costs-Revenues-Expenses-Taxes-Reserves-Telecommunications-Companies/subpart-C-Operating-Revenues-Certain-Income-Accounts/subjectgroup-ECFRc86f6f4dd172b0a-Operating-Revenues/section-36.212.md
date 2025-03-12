@@ -1,10 +1,10 @@
-##### § 36.212 Basic local services revenue - Account 5000. #####
+##### § 36.212 Basic local services revenue—Account 5000. #####
 
 (a) Local private line revenues from broadcast program transmission audio services and broadcast program transmission video services are assigned to the interstate operation.
 
 (b) Revenues that are attributable to the origination or termination of interstate FX or CCSA like services shall be assigned to the interstate jurisdiction.
 
-(c) Wideband Message Service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through December 31, 2018, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
+(c) Wideband Message Service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through December 31, 2024, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
 
 (d) All other revenues in this account are assigned to the exchange operation based on their subsidiary record categories or on the basis of analysis and studies.
 

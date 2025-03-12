@@ -132,4 +132,4 @@ See § 3.1(y)(2)(iii) for applicability of *in line of duty* in determining form
 
 Pension. See § 3.3. Compensation. See § 3.4. Dependency and indemnity compensation. See § 3.5. Preservation of disability ratings. See § 3.951. Service-connection. See § 3.957.
 
-[26 FR 1563, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 1563, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

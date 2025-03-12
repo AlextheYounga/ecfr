@@ -1,5 +1,7 @@
 ##### § 416.624 How do we investigate a representative payee applicant? #####
 
+Link to an amendment published at 84 FR 4326, Feb. 15, 2019.
+
 Before selecting an individual or organization to act as your representative payee, we will perform an investigation.
 
 (a) *Nature of the investigation.* As part of the investigation, we do the following:

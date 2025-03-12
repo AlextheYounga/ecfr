@@ -1,12 +1,12 @@
-##### 252.247-7026 Evaluation Preference for Use of Domestic Shipyards - Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade. #####
+##### 252.247-7026 Evaluation Preference for Use of Domestic Shipyards—Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade. #####
 
-As prescribed in 247.574(e), use the following provision:
+As prescribed in 247.574(d), use the following provision:
 
-Evaluation Preference For Use of Domestic Shipyards - Applicable To Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade (NOV 2008)
+Evaluation Preference For Use of Domestic Shipyards—Applicable To Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade (NOV 2008)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
-*Covered vessel* means a vessel -
+*Covered vessel* means a vessel—
 
 (1) Owned, operated, or controlled by the offeror; and
 
@@ -28,7 +28,7 @@ Evaluation Preference For Use of Domestic Shipyards - Applicable To Acquisition 
 
 (2) Description and cost of qualifying shipyard work performed in U.S. shipyards.
 
-(3) Description and cost of qualifying shipyard work performed in foreign shipyards and whether -
+(3) Description and cost of qualifying shipyard work performed in foreign shipyards and whether—
 
 (i) Such work was performed as emergency repairs in foreign shipyards due to accident, emergency, Act of God, or an infirmity to the vessel, and safety considerations warranted taking the vessel to a foreign shipyard; or
 
@@ -38,7 +38,7 @@ Evaluation Preference For Use of Domestic Shipyards - Applicable To Acquisition 
 
 (5) Inclusive dates of work performed.
 
-(d) Offerors are responsible for submitting accurate information. The Contracting Officer -
+(d) Offerors are responsible for submitting accurate information. The Contracting Officer—
 
 (1) Will use the information to evaluate offers in accordance with the criteria specified in the solicitation; and
 
@@ -46,4 +46,4 @@ Evaluation Preference For Use of Domestic Shipyards - Applicable To Acquisition 
 
 (e) The Department of Defense will provide the information submitted in response to this provision to the congressional defense committees, as required by Section 1017 of Public Law 109-364.
 
-(End of provision)[72 FR 49206, Aug. 28, 2007, as amended at 73 FR 70912, Nov. 24, 2008]
+(End of provision)[72 FR 49206, Aug. 28, 2007, as amended at 73 FR 70912, Nov. 24, 2008; 84 FR 4371, Feb. 15, 2019]

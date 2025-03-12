@@ -64,4 +64,4 @@ All Class IIR (Retroactive) treatment authorized will be completed on a fee basi
 
 (j) *Class VI.* Any veterans scheduled for admission or otherwise receiving care and services under chapter 17 of 38 U.S.C. may receive outpatient dental care which is medically necessary, *i.e.*, is for dental condition clinically determined to be complicating a medical condition currently under treatment.
 
-(Authority: 38 U.S.C. 1712)[20 FR 9505, Dec. 20, 1955]Editorial Note:For Federal Register citations affecting § 17.161, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Authority: 38 U.S.C. 1712)[20 FR 9505, Dec. 20, 1955]Editorial Note:For Federal Register citations affecting § 17.161, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 247.574(b) and (b)(1), use the following clause:
 
-Transportation of Supplies by Sea - Basic (APR 2014)
+Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -102,17 +102,23 @@ Transportation of Supplies by Sea - Basic (APR 2014)
 
 (g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.
 
-(h) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor -
 
-(1) The Contractor shall insert the substance of this clause, including this paragraph (h), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(1) Shall notify the Contracting Officer of that fact; and
 
-(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (h), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(2) Hereby agrees to comply with all the terms and conditions of this clause.
+
+(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+
+(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+
+(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
 (End of clause)
 
 *Alternate I.* As prescribed in 247.574(b) and (b)(2), use the following clause, which uses a different paragraph (b) than the basic clause:
 
-Transportation of Supplies by Sea - Alternate I (APR 2014)
+Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -211,15 +217,21 @@ Transportation of Supplies by Sea - Alternate I (APR 2014)
 
 (g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.
 
-(h) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor -
 
-(1) The Contractor shall insert the substance of this clause, including this paragraph (h), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(1) Shall notify the Contracting Officer of that fact; and
 
-(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (h), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(2) Hereby agrees to comply with all the terms and conditions of this clause.
+
+(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+
+(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+
+(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
 *Alternate II.* As prescribed in 247.574(b) and (b)(3), use the following clause, which uses a different paragraph (b) than the basic clause:
 
-Transportation of Supplies by Sea - Alternate II (APR 2014)
+Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -318,10 +330,12 @@ Transportation of Supplies by Sea - Alternate II (APR 2014)
 
 (g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.
 
-(h) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies, but the contractor learns after the award of the contract that supplies will be transported by sea, the Contractor shall notify the Contracting Officer of that fact.
 
-(1) The Contractor shall insert the substance of this clause, including this paragraph (h), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
 
-(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (h), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
-[56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015]
+(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
+
+[56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015; 84 FR 4371, Feb. 15, 2019]

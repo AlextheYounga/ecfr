@@ -1,10 +1,10 @@
-##### § 36.378 Category 2 - Customer services (revenue accounting). #####
+##### § 36.378 Category 2—Customer services (revenue accounting). #####
 
 (a) The Revenue Accounting proportion of Account 6620 expenses comprise the salaries and other expenses in Account 6620 directly assignable or allocable to the billing of customers and the accounting for revenues, including the supervision of such work.
 
 (b) Revenue Accounting expenses for the study area are separated on the basis of a Job Function analysis into three main classifications: Message processing expense, other billing and collecting expense, and carrier access charge billing and collecting expense.
 
-(1) Effective July 1, 2001, through December 31, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the balance of Account 6620-Services to the classifications, as specified in paragraph (b) of this section, based on the relative percentage assignment of the balance of Account 6620 to those classifications during the twelve-month period ending December 31, 2000.
+(1) Effective July 1, 2001, through December 31, 2024, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the balance of Account 6620-Services to the classifications, as specified in paragraph (b) of this section, based on the relative percentage assignment of the balance of Account 6620 to those classifications during the twelve-month period ending December 31, 2000.
 
 (2) [Reserved]
 
