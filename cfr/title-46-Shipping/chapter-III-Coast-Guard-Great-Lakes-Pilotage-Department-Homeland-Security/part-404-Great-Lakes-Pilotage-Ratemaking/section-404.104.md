@@ -1,7 +1,9 @@
 ##### § 404.104 Ratemaking step 4: Determine target pilot compensation benchmark. #####
 
-Link to an amendment published at 83 FR 26193, June 5, 2018.
+(a) In a full ratemaking year, the Director determines base individual target pilot compensation using a compensation benchmark, set after considering the most relevant currently available non-proprietary information. For supportable circumstances, the Director may make necessary and reasonable adjustments to the benchmark.
 
-At least once every 10 years, the Director will set a base target pilot compensation benchmark using the most relevant available non-proprietary information. In years in which a base compensation benchmark is not set, target pilot compensation will be adjusted for inflation using the CPI for the Midwest region or a published predetermined amount. The Director determines each pilotage association's total target pilot compensation by multiplying individual target pilot compensation by the number of pilots projected under § 404.103(d) of this part.
+(b) In an interim year, the Director adjusts the previous year's individual target pilot compensation level by the Bureau of Labor Statistics' Employment Cost Index for the Transportation and Materials sector, or if that is unavailable, the Federal Open Market Committee median economic projections for Personal Consumption Expenditures inflation.
 
-[USCG-2016-0268, 82 FR 41495, Aug. 31, 2017]
+(c) The Director determines each pilotage association's total target pilot compensation by multiplying individual target pilot compensation computed in paragraph (a) or (b) of this section by the number of pilots projected under § 404.103(d) or § 401.220(a) of this chapter, whichever is lower.
+
+[83 FR 26193, June 5, 2018]

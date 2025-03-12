@@ -1,165 +1,82 @@
 ##### § 165.939 Safety Zones; Annual Events in the Captain of the Port Buffalo Zone. #####
 
-Link to an amendment published at 83 FR 25572, June 4, 2018.
+(a) *Regulations.* (1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within this safety zone is prohibited unless authorized by the Captain of the Port Buffalo or his designated on-scene representative.
 
-(a) *Safety Zones.* The following are designated as safety zones. The enforcement dates and times for each of the safety zones listed in this section are subject to change, but the duration of enforcement would remain the same or nearly the same as the total number of hours as published. In the event of a change, the Captain of the Port Sector Buffalo will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
+(2) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Buffalo or his designated on-scene representative.
 
-(1) *Boldt Castle 4th of July Fireworks, Heart Island, NY.* (i) *Location.* All U.S. waters of the Saint Lawrence River within a 1,120 foot radius of land position 44°20′38.5″ N, 075°55′19.1″ W (NAD 83) at Heart Island, NY.
+(3) The “on-scene representative” of the Captain of the Port Buffalo is any Coast Guard commissioned, warrant or petty officer who has been designated by the Captain of the Port Buffalo to act on his behalf.
 
-(ii) *Enforcement period.* July 4 from 8:30 p.m. to 10:30 p.m. each year.
+(4) Vessel operators desiring to enter or operate within the safety zone must contact the Captain of the Port Buffalo or his on-scene representative to obtain permission to do so. The Captain of the Port Buffalo or his on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Buffalo, or his on-scene representative.
 
-(2) *Clayton Chamber of Commerce Fireworks, Calumet Island, NY.* (i) *Location.* All U.S. waters of the Saint Lawrence River within an 840 foot radius of land position 44°15′04″ N, 076°05′40″ W (NAD 83) at Calumet Island, NY.
-
-(ii) *Enforcement period.* July 3 from 9 p.m. to 11:30 p.m. of each year.
-
-(3) *French Festival Fireworks, Cape Vincent, NY.* (i) *Location.* All U.S. waters of the Saint Lawrence River within an 840 foot radius of land position 44°07′54.6″ N, 076°20′01.3″ W (NAD 83) in Cape Vincent, NY.
-
-(ii) *Enforcement period.* The second weekend of July from 9:15 p.m. to 11 p.m. each year.
-
-(4) *Lyme Community Days, Chaumont, NY.* (i) *Location.* All U.S. waters of Chaumont Bay within a 560 foot radius of position 44°04′06.3″ N, 076°08′56.8″ W (NAD 83) in Chaumont, NY.
-
-(ii) *Enforcement period.* The fourth weekend of July from 8:30 p.m. to 11 p.m. each year.
-
-(5) *Village Fireworks, Sackets Harbor, NY.* (i) *Location.* All U.S. waters of Black River Bay within an 840 foot radius of position 43°56′51.9″ N, 076°07′46.9″ W (NAD 83) in Sackets Harbor, NY.
-
-(ii) *Enforcement period.* July 4 from 8:30 p.m. to 10:30 p.m. each year.
-
-(6) *Can-Am Festival, Sackets Harbor, NY.* (i) *Location.* All U.S. waters of Black River Bay within a 1,120 foot radius of position 43°57′15.9″ N, 076°06′39.2″ W (NAD 83) in Sackets Harbor, NY.
-
-(ii) *Enforcement period. T*he third weekend of July from 9 p.m. to 10:45 p.m. each year.
-
-(7) *Oswego Harborfest, Oswego, NY.* (i) *Location.* All U.S. waters of Lake Ontario within a 1,000 foot radius of position 43°28′10″ N, 076°31′04″ W (NAD 83) in Oswego, NY.
-
-(ii) *Enforcement period.* The last Saturday of July from 9 to 10:30 p.m. each year.
-
-(8) *Brewerton Fireworks, Brewerton, NY.* (i) *Location.* All U.S. waters of Lake Oneida within an 840 foot radius of barge position 43°14′16.4″ N, 076°08′03.6″ W (NAD 83) in Brewerton, NY.
-
-(ii) *Enforcement period.* July 3 from 9 p.m. to 10:30 p.m. each year.
-
-(9) *Celebrate Baldwinsville Fireworks, Baldwinsville, NY.* (i) *Location.* All U.S. waters of the Seneca River within a 700 foot radius of land position 43°09′24.9″ N, 076°20′18.9″ W (NAD 83) in Baldwinsville, NY.
-
-(ii) *Enforcement period.* The first weekend of July from 9 p.m. to 11 p.m. each year.
-
-(10) *Island Festival Fireworks, Baldwinsville, NY.* (i) *Location.* All U.S. waters of the Seneca River within a 1,120 foot radius of land position 43°09′22″ N, 076°20′15″ W (NAD 83) in Baldwinsville, NY.
-
-(ii) *Enforcement period.* The first weekend of July from 9:30 p.m. to 11 p.m. each year.
-
-(11) *Seneca River Days, Baldwinsville, NY.* (i) *Location.* All U.S. waters of the Seneca River within an 840 foot radius of land position 43°09′25″ N, 076°20′21″ W (NAD 83) in Baldwinsville, NY.
-
-(ii) *Enforcement period.* The second weekend of July from 9 p.m. to 10:30 p.m. each year.
-
-(12) *City of Syracuse Fireworks Celebration, Syracuse, NY.* (i) *Location.* All U.S. waters of Onondaga Lake within a 350 foot radius of land position 43°03′37″ N, 076°09′59″ W (NAD 83) in Syracuse, NY.
-
-(ii) *Enforcement period.* The last weekend of June from 9:30 p.m. to 10:30 p.m. each year.
-
-(13) *Tom Graves Memorial Fireworks, Port Bay, NY.* (i) *Location.* All U.S. waters of Port Bay within an 840 foot radius of barge position 43°18′14.8″ N, 076°50′17.3″ W (NAD 83) in Port Bay, NY.
-
-(ii) *Enforcement period.* July 3 from 9 p.m. to 10:30 p.m. of each year.
-
-(14) *Village Fireworks, Sodus Point, NY.* (i) *Location.* All U.S. waters of Sodus Bay within a 1,120 foot radius of land position 43°16′28.7″ N, 076°58′27.5″ W (NAD 83) in Sodus Point, NY.
-
-(ii) *Enforcement period.* July 3 from 9:30 p.m. to 10:30 p.m. each year.
-
-(15) *Rochester Harbor and Carousel Festival, Rochester, NY.* (i) *Location.* All U.S. waters of Lake Ontario within a 1,120 foot radius of land position 43°15′40.2″ N, 077°36′05.1″ W (NAD 83) in Rochester, NY.
-
-(ii) *Enforcement period.* The fourth Monday of June from 8 p.m. to 10 p.m. each year.
-
-(16) *A Salute to our Heroes, Hamlin Beach State Park, NY.* (i) *Location.* All U.S. waters of Lake Ontario within a 560 foot radius of land position 43°21′51.9″ N, 077°56′59.6″ W (NAD 83) in Hamlin, NY.
-
-(ii) *Enforcement period.* The first weekend of July from 9:45 p.m. to 11:30 p.m. each year.
-
-(17) *Olcott Fireworks, Olcott, NY.* (i) *Location.* All U.S. waters of Lake Ontario within a 1,120 foot radius of land position 43°20′23.6″ N, 078°43′09.5″ W (NAD 83) in Olcott, NY.
-
-(ii) *Enforcement period.* July 3 from 9:30 p.m. to 11 p.m. of each year.
-
-(18) *North Tonawanda Fireworks, North Tonawanda, NY.* (i) *Location.* All U.S. waters of the East Niagara River within a 1,400 foot radius of land position 43°01′39.6″ N, 078°53′07.5″ W (NAD 83) in North Tonawanda, NY.
-
-(ii) *Enforcement period.* July 4 from 8:45 p.m. to 10:15 p.m. of each year.
-
-(19) *Tonawanda's Canal Fest Fireworks, Tonawanda, NY.* (i) *Location.* All U.S. waters of the East Niagara River within a 210 foot radius of land position 43°01′17.8″ N, 078°52′40.9″ W (NAD 83) in Tonawanda, NY.
-
-(ii) *Enforcement period.* The fourth Sunday of July from 9 p.m. to 10:30 p.m. each year.
-
-(20) *Celebrate Erie Fireworks, Erie, PA.* (i) *Location.* All U.S. waters of Presque Isle Bay within an 800 foot radius of land position 42°08′19″ N, 080°05′29″ W (NAD 83) in Erie, PA.
-
-(ii) *Enforcement period.* The third weekend of August from 9:45 p.m. to 10:30 p.m. each year.
-
-(21) *Conneaut Fourth of July Fireworks, Conneaut, OH.* (i) *Location.* All U.S. waters of Lake Erie within an 840 foot radius of position 41°58′01.3″ N, 080°33′39.5″ W (NAD 83) in Erie, PA.
-
-(ii) *Enforcement period.* The first Sunday of July from 9 p.m. to 11:30 p.m. each year.
-
-(22) *Fairport Harbor Mardi Gras, Fairport, OH.* (i) *Location.* All U.S. waters of Lake Erie within a 350 foot radius of land position 41°45′30″ N, 081°16′18″ W (NAD 83) east of the harbor entrance at Fairport Harbor Beach, OH.
-
-(ii) *Enforcement period.* The beginning of the second week of July from 9 p.m. to 10:30 p.m. each year.
-
-(23) *Mentor Harbor Yacht Club Fireworks, Mentor Harbor, OH.* (i) *Location.* All U.S. waters of Lake Erie and Mentor Harbor within a 700 foot radius of land position 41°43′36″ N, 081°21′09″ W (NAD 83) in Mentor Harbor, OH.
-
-(ii) *Enforcement period.* July 3 from 9 p.m. to 10:30 p.m. each year.
-
-(24) *Browns Football Halftime Fireworks, Cleveland, OH.* (i) *Location.* All U.S. waters of Cleveland Harbor and Lake Erie encompassed by a line beginning at approximate land position 41°30′49.4″ N, 081°41′37.2″ W (the northwest corner of Burke Lakefront Airport); continuing northwest to 41°31′10.6″ N, 081°41′53.0″ W; then southwest to 41°30′48.6″ N, 081°42′30.9″ W (the northwest corner of dock 28 at the Cleveland Port Authority) then northeast back to the starting point at 41°30′49.4″ N, 081°41′37.2″ W (NAD 83).
-
-(ii) *Enforcement period.* On a Sunday during the second or third Cleveland Browns home game each year. The Captain of the Port will issue a Notice of Enforcement each year for this Browns Football Halftime Fireworks' safety zone.
-
-(25) *City of Cleveland 4th of July, Cleveland, OH.* (i) *Location.* All U.S. waters of Lake Erie and Cleveland Harbor within a 1,000 foot radius of land position 41°30′10″ N, 081°42′36″ W (NAD 83) at Dock 20 in Cleveland, OH.
-
-(ii) *Enforcement period.* July 4 from 9:30 p.m. to 11 p.m. each year.
-
-(26) *Cleveland Yachting Club Fireworks Display, Rocky River, OH.* (i) *Location.* All U.S. waters of the Rocky River and Lake Erie within a 560 foot radius of land position 41°29′25.7″ N, 081°50′18.5″ W (NAD 83), at Sunset Point on the western side of the mouth of the Rocky River in Cleveland, OH.
-
-(ii) *Enforcement period.* The second Thursday of July from 9:15 p.m. to 11 p.m. each year.
-
-(27) *Sheffield Lake Fireworks, Sheffield Lake, OH.* (i) *Location.* All U.S. waters of Lake Erie within a 700 foot radius of land position 41°29′26.2″ N, 082°06′47.7″ W (NAD 83), at the lake front area in Sheffield Lake, OH.
-
-(ii) *Enforcement period.* The second Friday of July from 9:30 p.m. to 11 p.m. each year.
-
-(28) *Lorain 4th of July Celebration Fireworks, Lorain, OH.* (i) *Location.* All U.S. waters of Lorain Harbor within a 1,400 foot radius of land position 41°28′35.5″ N, 082°10′51.3″ W (NAD 83), east of the harbor entrance on the end of the break wall near Spitzer's Marina.
-
-(ii) *Enforcement period.* July 4 from 9:15 p.m. to 11 p.m. each year.
-
-(29) *Lorain Port Fest Fireworks Display, Lorain, OH.* (i) *Location.* All U.S. waters of Lorain Harbor within a 750 foot radius of land position 41°28′02.4″ N, 082°10′21.9″ W (NAD 83) in Lorain, OH.
-
-(ii) *Enforcement period.* The third weekend of July from 9:45 p.m. to 11 p.m. each year.
-
-(30) *Thunder of the Niagara Hydroplane boat races, North Tonawanda, NY.* (i) *Location.* All U.S. waters of Niagara River, near North Tonawanda, NY within 2 miles of the North Grand Island Bridge, encompassed by a line starting at 43°03′32.95″ N, 078°54′46.93″ W to 43°03′14.55″ N, 078°55′15.97″ W then to 43°02′39.72″ N, 078°54′13.05″ W then to 43°02′59.99″ N, 078°53′41.99″ W and returning to the point of origin (NAD 83).
-
-(ii) *Enforcement period.* The second of weekend of August from 9 a.m. to 5 p.m. each year.
-
-(31) *Antique Boat Show Hydroplane boat races, Grand Island, NY.* (i) *Location.* All waters of Niagara River, Grand Island, NY encompassed by a line starting at position 42°59′59″ N, 078°56′22″ W, East to 49°59′54″ N,078°56′14″ W, South to 42°57′54″ N, 078°56′04″ W, West to 42°057′48″ N, 078°56′22″ W and returning to the point of origin (NAD 83)
-
-(ii) *Enforcement period.* The first weekend of September from 9 a.m. to 4 p.m. each year.
-
-(32) *D-Day Conneaut Air Show, Conneaut, OH.* (i) *Location.* All U.S. waters of Conneaut Township Park, Lake Erie, Conneaut, OH encompassed by a line starting at 41°57.71′ N, 080°34.18′ W; to 41°58.36′N, 080°34.17′ W; then to 41°58.53′ N, 080°33.55′ W; to 41°58.03′ N, 080°33.72′W; and returning to the point of origin. (NAD 83).
-
-(ii) *Enforcement period.* The third weekend of August from 1:45 p.m. to 5:30 p.m. each year.
-
-(33) *Bay Swim, Erie, PA.* (i) *Location.* All U.S. waters of Presque Isle Bay, Erie, PA within a 1000 feet of a line starting at Vista 3 in Presque Isle State Park at position 42°07′29.30″ N, 80°08′48.82″ W and ending at to the Erie Yacht Club at position 42°07′21.74″ N, 80°07′58.30″ W (NAD 83).
-
-(ii) *Enforcement period.* The third week in June each year.
-
-(34) *Rover Fest fireworks display, Cleveland, OH.* (i) *Location.* All U.S. waters of Lake Erie, Cleveland, OH within a 280 foot radius from position 41°30′34.23″ N and 081°41′ 55.73″ W (NAD 83).
-
-(ii) *Enforcement period.* The second or third weekend of July each year.
-
-(35) *Cleveland National Air show, Cleveland, OH.* (i) *Location.* The safety zone encompass the portion of Lake Erie and Cleveland Harbor within a line originating near Burke Lakefront Airport from position 41°30′20″ N and 081°42′20″ W to 41°30′50″ N and 081°42′49″ W, to 41°32′09″ N and 081°39′49″ W, to 41°31′53″ N and 081°39′24″ W, then return to the original position (NAD 83).
-
-(ii) *Enforcement period.* On the Friday before Labor Day through the Wednesday following Labor Day with maximum daily times from 8 a.m. to 6 p.m. The daily time period will be reduced as operations permit.
+(5) The enforcement dates and times for each of the safety zones listed in Table 165.939 are subject to change, but the duration of enforcement would remain the same or nearly the same total number of hours as stated in the table. In the event of a change, the Captain of the Port Buffalo will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
 
 (b) *Definitions.* The following definitions apply to this section:
 
-(1) *On-scene Representative* means any Coast Guard commissioned, warrant, or petty officer designated by the Captain of the Port Buffalo to monitor a safety zone, permit entry into the zone, give legally enforceable orders to persons or vessels within the zones, and take other actions authorized by the Captain of the Port.
+(1) *Designated representative* means any Coast Guard commissioned, warrant, or petty officers designated by the Captain of the Port Buffalo to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the Captain of the Port Buffalo.
 
-(2) *Public vessel* means vessels owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
+(2) *Public vessel* means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
 
-(c) *Regulations.* In accordance with the general regulations in § 165.23, entry into, transiting, or anchoring within is the aforementioned safety zones are prohibited unless authorized by the Captain of the Port Buffalo or his designated on-scene representative.
+(3) *Rain date* refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather.
 
-(1) The safety zones described in paragraph (a) of this section are closed to all vessel traffic, except as may be permitted by the Captain of the Port Buffalo or his designated on-scene representative.
+(c) *Suspension of enforcement.* The Captain of the Port Buffalo may suspend enforcement of any of these zones earlier than listed in this section. Should the Captain of the Port suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by his or her designated representative.
 
-(2) Vessel operators desiring to enter or operate within the safety zones described in paragraph (a) of this section must contact the Captain of the Port Buffalo or his on-scene representative to obtain permission to do so. The Captain of the Port Buffalo or his on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in a safety zone must comply with all directions given to them by the Captain of the Port Buffalo, or his on-scene representative.
+(d) *Exemption.* Public vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section.
 
-(d) *Exemption.* Public vessels, as defined in paragraph (c) of this section, are exempt from the requirements in this section.
+(e) *Waiver.* For any vessel, the Captain of the Port Buffalo or his or her designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security.
 
-(e) *Waiver.* For any vessel, the Captain of the Port Buffalo or his designated representative may waive any of the requirements of this section, upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of public or environmental safety.
+Table 165.939
 
-(f) *Notification.* The Captain of the Port Buffalo will notify the public that the safety zones in this section are or will be enforced by all appropriate means to the affected segments of the public through publication in the Federal Register as practicable, in accordance with 33 CFR 165.7(a). Additionally, the enforcement dates and times for each of the safety zones listed above are subject to change, though the duration of enforcement would remain the same or nearly the same total number of hours as stated above. In either event, whether the safety zones occur at the dates and times as stated above, or whether the date or time of a safety zone changes, the Captain of the Port Buffalo will similarly make such notification as described in this paragraph (f). Such means of further notification may also include, but are not limited to Broadcast Notice to Mariners or Local Notice to Mariners. The Captain of the Port will issue a Broadcast Notice to Mariners notifying the public when enforcement of the safety zone is cancelled.
+|                       Event                       |                                                                                                                                                                                                            Location<sup>1</sup>                                                                                                                                                                                                             |      Enforcement date and time<sup>2</sup>      |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+|               (a) June Safety Zones               |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                 |
+|             (1) Festival of the Fish              |                                                                                                                                              Vermillion, OH. All U.S. waters within a 420 foot radius of the fireworks launch site located at position 41°25′45″ N and 082°21′54″ W, (NAD 83)                                                                                                                                               |            The 3rd Saturday in June.            |
+|    (2) City of Syracuse Fireworks Celebration     |                                                                                                                                                   Syracuse, NY. All U.S. waters of Onondaga Lake within a 350 foot radius of land position 43°03′37.0″ N, 076°09′59.0″ W in Syracuse, NY                                                                                                                                                    |            The last weekend of June.            |
+|    (3) Rochester Harbor and Carousel Festival     |                                                                                                                                                  Rochester, NY. All U.S. waters of Lake Ontario within a 1,120 foot radius of land position 43°15′40.2″ N, 077°36′05.1″ W in Rochester, NY                                                                                                                                                  |             The 4th Monday of June.             |
+|               (4) Seneca River Days               |                                                                                                                                            Baldwinsville, NY. All U.S. waters of the Seneca River within an 840 foot radius of land position 43°09′25.0″ N, 076°20′21.0″ W in Baldwinsville, NY                                                                                                                                             |            The 2nd weekend of June.             |
+|   (5) Flagship Niagara Mariner's Ball Fireworks   |                                                                                                                                             Erie, PA. All waters of Presque Isle Bay, Erie, PA within a 350-foot radius from the launch site located at position 42°08′22.5″ N, 080°05′15.6″ W                                                                                                                                              |            The 1st weekend in June.             |
+|(6) Hope Chest Buffalo Niagara Dragon Boat Festival|                                                                      Buffalo, NY. All waters of the Buffalo River, Buffalo, NY starting at position 42°52′12.0″ N, 078°52′17.0″ W then Southeast to 42°52′03.0″ N, 078°52′12.0″ W then East to 42°52′03.0″ N, 078°52′10.0″ W then Northwest to 42°52′13.0″ N, 078°52′16.0″ W and then returning to the point of origin                                                                      |            The 3rd weekend in June.             |
+|               (b) July Safety Zones               |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                 |
+|              (1) Cleveland Triathlon              |                                                                                   Cleveland, OH. All U.S. waters of Lake Erie at North Coast Harbor, Cleveland, OH within 100 feet of a line starting at position 41°30′34.6″ N and 081°41′51.3″ W extending in a straight line to the East Basin Breakwall at position 41°30′51.8″ N and 081°42′08.5″ W                                                                                    |         The 4th or 5th Sunday in July.          |
+|          (2) Roverfest Fireworks Display          |                                                                                                                                                    Cleveland, OH. All U.S. waters of Lake Erie, Cleveland, OH within a 280 foot radius from position 41°30′34.23″ N and 081°08′55.73″ W                                                                                                                                                     |         The 2nd or 3rd weekend in July.         |
+|             (3) High Speed Boat Races             |                                 Fairport, OH. All U.S. waters of Lake Erie, off of Headlands Beach State Park, Fairport, OH inside an area starting on shore at position 41°44′33″ N, 081°19′14″ W extending NW in a straight line to position 41°45′00″ N, 081°19′35″ W, then NE in a straight line to position 41°45′59″ N, 081°17′30″ W, and SE back to the shore at position 41°45′43″ N, 081°17′08″ W                                  |            The 3rd weekend in July.             |
+|(4) Downtown Cleveland Alliance July 4th Fireworks |                                                                                                                                         Cleveland, OH. All U.S. waters of Lake Erie and Cleveland Harbor within a 1,000-foot radius of land position 41°30′10″ N, 081°42′36″ W (NAD 83) at Dock 20                                                                                                                                          |          On or around the 4th of July.          |
+|      (5) Mentor Harbor Yacht Club Fireworks       |                                                                                                                                                       Mentor, OH. All U.S. waters of Lake Erie and Mentor Harbor within a 700 foot radius of land position 41°43′36″ N, 081°21′09″ W                                                                                                                                                        |          On or around the 4th of July.          |
+|               (6) Parade of Lights                |Cleveland, OH. All U.S. waters within 25 feet of the vessels participating in the Cleveland Parade of Lights in the Cuyahoga River. The safety zone will move with participating vessels as they transit from the mouth of the Cuyahoga River in the vicinity of position 41°29′59″ N, 081°43′31″ W, to Merwin's Wharf in the vicinity of 41°29′23″ N, 081°42′16″ W, and returning to the mouth of the Old River at 41°29′55″ N, 081°42′18″ W|         The 3rd or 4th weekend in July.         |
+|      (7) Lorain Independence Day Celebration      |                                                                                                                                                  Lorain, OH. All U.S. waters within a 700 foot radius of the fireworks launch site located at position 41°28′35.42″ N and 082°10′51.28″ W                                                                                                                                                   |          On or around the 4th of July.          |
+|               (8) Conneaut Festival               |                                                                                                                                                 Conneaut, OH. All U.S. waters within a 570 foot radius of the fireworks launch site located at position 41°58′00.43″ N and 080°33′34.93″ W                                                                                                                                                  |          On or around the 4th of July.          |
+|          (9) Fairport Harbor Mardi Gras           |                                                                                                                                                 Fairport, OH. All U.S. waters within a 275 foot radius of the fireworks launch site located at position 41°45′29.55″ N and 081°16′19.97″ W                                                                                                                                                  |          On or around the 4th of July.          |
+|        (10) Sheffield Lake Community Days         |                                                                                                                                           Sheffield Lake, OH. All U.S. waters of Lake Erie and Sheffield Lake Boat ramp within a 350 foot radius of land position 41°29′27.65″ N, 082°6′47.71″ W                                                                                                                                            |            The 2nd weekend in July.             |
+|   (11) Bay Village Independence Day Celebration   |                                                                                                                                                 Bay Village, OH. All U.S. waters within a 560 foot radius of the fireworks launch site located at position 41°29′23.9″ N and 081°55′44.5″ W                                                                                                                                                 |          On or around the 4th of July.          |
+|          (12) Lake Erie Open Water Swim           |                                                                                                                                          Cleveland, OH. All U.S. waters of Lake Erie, south of a line drawn between positions 41°29′30″ N, 081°44′21″ W and 41°29′21″ N, 081°45′04″ W to the shore                                                                                                                                          |         The 2nd or 3rd weekend in July.         |
+|      (13) Boldt Castle 4th of July Fireworks      |                                                                                                                                         Heart Island, NY. All U.S. waters of the Saint Lawrence River within a 1,120 foot radius of land position 44°20′38.5″ N, 075°55′19.1″ W at Heart Island, NY                                                                                                                                         |          On or around the 4th of July.          |
+|    (14) Clayton Chamber of Commerce Fireworks     |                                                                                                                                        Calumet Island, NY. All U.S. waters of the Saint Lawrence River within an 840 foot radius of land position 44°15′04.0″ N, 076°05′40″ W at Calumet Island, NY                                                                                                                                         |          On or around the 4th of July.          |
+|          (15) French Festival Fireworks           |                                                                                                                                        Cape Vincent, NY. All U.S. waters of the Saint Lawrence River within an 840 foot radius of land position 44°07′54.6.0″ N, 076°20′01.3″ W in Cape Vincent, NY                                                                                                                                         |            The 2nd weekend of July.             |
+|             (16) Lyme Community Days              |                                                                                                                                                    Chaumont, NY. All U.S. waters of Chaumont Bay within a 560 foot radius of land position 44°04′06.3″ N, 076°08′56.8″ W in Chaumont, NY                                                                                                                                                    |            The 4th weekend of July.             |
+|              (17) Village Fireworks               |                                                                                                                                            Sackets Harbor, NY. All U.S. waters of Black River Bay within an 840 foot radius of land position 43°56′51.9″ N, 076°07′46.9″ W in Sackets Harbor, NY                                                                                                                                            |          On or around the 4th of July.          |
+|               (18) Can-Am Festival                |                                                                                                                                           Sackets Harbor, NY. All U.S. waters of Black River Bay within a 1,120 foot radius of land position 43°57′15.9″ N, 076°06′39.2″ W in Sackets Harbor, NY                                                                                                                                            |            The 3rd weekend of July.             |
+|             (19) Brewerton Fireworks              |                                                                                                                                               Brewerton, NY. All U.S. waters of Lake Oneida within an 840 foot radius of the barge at position 43°14′16.4″ N, 076°08′03.6″ W in Brewerton, NY                                                                                                                                               |          On or around the 4th of July.          |
+|      (20) Celebrate Baldwinsville Fireworks       |                                                                                                                                             Baldwinsville, NY. All U.S. waters of the Seneca River within a 700 foot radius of land position 43°09′24.9″ N, 076°20′18.9″ W in Baldwinsville, NY                                                                                                                                             |            The 1st weekend of July.             |
+|          (21) Island Festival Fireworks           |                                                                                                                                            Baldwinsville, NY. All U.S. waters of the Seneca River within a 1,120 foot radius of land position 43°09′22.0″ N, 076°20′15.0″ W in Baldwinsville, NY                                                                                                                                            |            The 1st weekend of July.             |
+|              (22) Village Fireworks               |                                                                                                                                                 Sodus Point, NY. All U.S. waters of Sodus Bay within a 1,120 foot radius of land position 43°16′28.7″ N, 076°58′27.5″ W in Sodus Point, NY                                                                                                                                                  |          On or around the 4th of July.          |
+|            (23) A Salute to our Heroes            |                                                                                                                                             Hamlin Beach State Park, NY. All U.S. waters of Lake Ontario within a 560 foot radius of land position 43°21′51.9″ N, 077°56′59.6″ W in Hamlin, NY                                                                                                                                              |            The 1st weekend in July.             |
+|               (24) Olcott Fireworks               |                                                                                                                                                     Olcott, NY. All U.S. waters of Lake Ontario within a 1,120 foot radius of land position 43°20′23.6″ N, 078°43′09.5″ W in Olcott, NY                                                                                                                                                     |          On or around the 4th of July.          |
+|          (25) North Tonawanda Fireworks           |                                                                                                                                       North Tonawanda, NY. All U.S. waters of the East Niagara River within a 1,400 foot radius of land position 43°01′39.6″ N, 078°53′07.5″ W in North Tonawanda, NY                                                                                                                                       |          On or around the 4th of July.          |
+|       (26) Tonawanda's Canal Fest Fireworks       |                                                                                                                                              Tonawanda, NY. All U.S. waters of the East Niagara River within a 210 foot radius of land position 43°01′17.8″ N, 078°52′40.9″ W in Tonawanda, NY                                                                                                                                              |             The 4th Sunday of July.             |
+|        (27) Tom Graves Memorial Fireworks         |                                                                                                                                              Port Bay, NY. All waters of Port Bay, NY, within a 840 foot radius of the barge located in position 43°17′52.4″ N, 076°49′55.7″ W in Port Bay, NY                                                                                                                                              |          On or around the 3rd of July.          |
+|        (28) Oswego Harborfest, Oswego, NY         |                                                                               Oswego, NY. All waters of Oswego Harbor, Oswego, NY contained within a 700 foot radius of position 43°28′06.9″ N, 076°31′08.1″ W along with a 350 foot radius of the breakwall between positions 43°27′53.0″ N, 076°31′25.3″ W then Northeast to 43°27′58.6″ N, 076°31′12.1″ W                                                                                |             The last week of July.              |
+|(29) Oswego Independence Day Celebration Fireworks |                                                                                                                                             Oswego, NY. All waters of Lake Ontario, Oswego, NY within a 490-foot radius from the launch site located at position 43°27′55.8″ N, 076°30′59.0″ W                                                                                                                                              |          On or around the 4th of July.          |
+|              (c) August Safety Zones              |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                 |
+|           (1) Whiskey Island Paddlefest           |                                                  Cleveland, OH. All U.S. waters of Lake Erie; Cleveland Harbor, from 41°29′59.5″ N and 081°42′59.3″ W to 41°30′4.4″ N and 081°42′44.5″ W to 41°30′17.3″ N and 081°43′0.6″ W to 41°30′9.4″ N and 081°43′2.0″ W to 41°29′54.9″ N and 081°43′34.4″ W to 41°30′0.1″ N and 081°43′3.1″ W and back to 41°29′59.5″ N and 081°42′59.3″ W (NAD 83)                                                   |        The 3rd or 4th weekend in August.        |
+|                (2) D-Day Conneaut                 |                                                                                   Conneaut, OH. All U.S. waters of Conneaut Township Park, Lake Erie, within an area starting at 41°57.71′ N, 080°34.18′ W, to 41°58.36′ N, 080°34.17′ W, then to 41°58.53′ N, 080°33.55′ W, to 41°58.03′ N, 080°33.72′ W (NAD 83), and returning to the point of origin                                                                                    |           The 3rd weekend in August.            |
+|           (3) Celebrate Erie Fireworks            |                                                                                                                                                     Erie, PA. All U.S. waters of Presque Isle Bay within an 800 foot radius of land position 42°08′19.0″ N, 080°05′29.0″ W in Erie, PA                                                                                                                                                      |           The 3rd weekend of August.            |
+| (4) Thunder on the Niagara Hydroplane Boat Races  |                                                               North Tonawanda, NY. All U.S. waters of the Niagara River near the North Grand Island Bridge, encompassed by a line starting at 43°03′32.9″ N, 078°54′46.9″ W to 43°03′14.6″ N, 078°55′16.0″ W then to 43°02′39.7″ N, 078°54′13.1″ W then to 43°02′59.9″ N, 078°53′42.0″ W and returning to the point of origin                                                               |           The 2nd weekend of August.            |
+|            (d) September Safety Zones             |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                 |
+|           (1) Madison Light Up the Park           |                                                                                                                                                        Madison Township, OH. All U.S. waters of Lake Erie, within a 210 ft radius of position 41°50′17″ N and 081°02′51″ W (NAD 83)                                                                                                                                                         |          The 1st weekend in September.          |
+|          (2) Cleveland National Airshow           |                                                                         Cleveland, OH. All U.S. waters of Lake Erie and Cleveland Harbor (near Burke Lakefront Airport) from position 41°30′20″ N and 081°42′20″ W to 41°30′50″ N and 081°42′49″ W, to 41°32′09″ N and 081°39′49″ W, to 41°31′53″ N and 081°39′24″ W, then return to the original position (NAD 83)                                                                         |The Wednesday before Labor Day through Labor Day.|
+|             (3) Head of the Cuyahoga              |         Cleveland, OH. All U.S. waters of the Cuyahoga River, between a line drawn perpendicular to the river banks from position 41°29′55″ N, 081°42′23″ W (NAD 83) just past the Detroit-Superior Viaduct bridge at MM 1.42 of the Cuyahoga River south to a line drawn perpendicular to the river banks at position 41°28′32″ N, 081°40′16″ W (NAD 83) just south of the Interstate 490 bridge at MM 4.79 of the Cuyahoga River          |          The 3rd weekend in September.          |
 
-[USCG-2014-0081, 79 FR 36407, June 27, 2014]
+<sup>1</sup> All coordinates listed in Table 165.929 reference Datum NAD 1983.
+
+<sup>2</sup> As noted in paragraph (a)(3) of this section, the enforcement dates and times for each of the listed safety zones are subject to change, and will be published in a Notice of Enforcement prior to the event.
+
+[USCG-2017-1112, 83 FR 25572, June 4, 2018]

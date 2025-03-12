@@ -1,0 +1,47 @@
+##### § 319.56-63 Fresh apricots from continental Spain. #####
+
+Fresh apricots (*Prunus armeniaca* L.) may be imported into the United States from continental Spain (excluding the Balearic Islands and Canary Islands) only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Apiognomonia erythrostoma* (Pers.), a brown rot fungus; *Ceratitis capitata* Wiedemann, the Mediterranean fruit fly; *Cydia funebrana* (Treitschke), the plum fruit moth; and *Monilinia fructigena* Honey, the leaf scorch fungus.
+
+(a) *General requirements.* (1) The national plant protection organization (NPPO) of Spain must provide a bilateral workplan to APHIS that details the activities that the NPPO of Spain will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. APHIS will be directly involved with the NPPO of Spain in monitoring and auditing implementation of the systems approach. The NPPO of Spain must also enter into a trust fund agreement with APHIS in accordance with § 319.56-6.
+
+(2) All places of production and packinghouses that participate in the export program must be registered with the NPPO of Spain.
+
+(3) The fruit must be grown at places of production that meet the requirements of this section.
+
+(4) The fruit must be packed for export to the United States in a packinghouse that meets the requirements of paragraph (i) of this section. The place of production where the apricots were grown must remain identifiable when the fruit leaves the grove, at the packinghouse, and throughout the export process. Safeguarding in accordance with paragraph (h) of this section must be maintained at all times during the movement of the apricot fruit to the United States and must be intact upon arrival of the apricot fruit in the United States.
+
+(b) *Commercial consignments.* Apricots from continental Spain may be imported to the United States in commercial consignments only.
+
+(c) *Monitoring and oversight.* (1) The NPPO of Spain, or an authorized person designated in the workplan, must visit and inspect places of production starting at least 1 month (30 days) before harvest and continuing until the end of the shipping season to verify that growers are complying with the requirements of this section and to follow pest control guidelines, when necessary, to reduce quarantine pest populations. The NPPO of Spain must certify that exporting places of production have fruit fly and moth trapping programs and follow control guidelines, when necessary, to reduce regulated pest populations. Any personnel conducting trapping and pest surveys must be accredited and supervised by the NPPO of Spain. APHIS may monitor the places of production if necessary.
+
+(2) In addition to conducting fruit inspections at the packinghouses, the NPPO of Spain must monitor packinghouse operations to verify that the packinghouses are complying with the requirements of this section.
+
+(3) If the NPPO of Spain finds that a place of production or packinghouse is not complying with the requirements of this section, no fruit from the place of production or packinghouse will be eligible for export to the United States until APHIS and the NPPO of Spain conduct an investigation and implement appropriate remedial actions.
+
+(4) The NPPO of Spain must retain all forms and documents related to export program activities in places of production and packinghouses for at least 1 year and, as requested, provide them to APHIS for review.
+
+(d) *Grove sanitation.* Fruit that has fallen from the trees at each place of production must be removed and destroyed weekly.
+
+(e) *Fungi.* During the growing season, the NPPO of Spain must conduct inspections at intervals specified in the workplan in the place of production for signs of *A. erythrostoma* and *M. fructigena* until harvest is completed. Infected leaves must be removed from places of production to reduce the inoculum potential. Upon detection of these fungal diseases, the NPPO of Spain must notify APHIS, which may prohibit the importation into the United States of apricots from the production site for the season.
+
+(f) *C. funebrana.* The NPPO of Spain must use one of the following two mitigation measures to address the risk potential posed by *C. funebrana.*
+
+(1) *Pest-free area.* Under this mitigation measure, apricots must originate from an area designated as free of *C. funebrana* in accordance with § 319.56-5.
+
+(2) *Area of low pest prevalence and pest management.* Under this mitigation measure, the NPPO of Spain must visit and visually inspect registered places of production during the growing season and harvest period for signs of *C. funebrana* to demonstrate that the places of production have a low prevalence of *C. funebrana* and to verify that the growers are complying with the requirements of this paragraph. The NPPO of Spain must also sample and visually inspect a quantity of fruit specified in the workplan. Trapping must also be conducted in the places of production to demonstrate that the places of production have a low prevalence of *C. funebrana.* If the prevalence of any life stage of *C. funebrana* rises above levels specified in the bilateral workplan, remedial measures approved jointly by APHIS and the NPPO of Spain must be implemented. The NPPO of Spain must keep records of the placement of traps, trap visits, trap counts, and treatments for each registered place of production and make the records available to APHIS upon request.
+
+(g) *C. capitata.* (1) Trapping must be conducted in the places of production to demonstrate that those places of production have a low prevalence of *C. capitata.* Specific trapping requirements are included in the bilateral workplan. If the prevalence rises above levels specified in the bilateral workplan, remedial measures approved jointly by APHIS and the NPPO of Spain must be implemented. The NPPO of Spain must keep records of the placement of traps, trap visits, trap counts, and treatments for each registered place of production and make the records available to APHIS upon request.
+
+(2) All apricots for export from continental Spain to the United States must be treated for *C. capitata* in accordance with part 305 of this chapter.
+
+(h) *Post-harvest procedures.* The apricots must be safeguarded by a pest-proof screen, plastic tarpaulin, or by some other pest-proof barrier while in transit to the packinghouse and while awaiting packing. They must be packed within 24 hours of harvest into pest-proof cartons or containers or covered with pest-proof mesh or a plastic tarpaulin for transport to the United States. These safeguards must remain intact until arrival of the consignment in the United States.
+
+(i) *Packinghouse requirements.* Packing of apricots for export to the United States must be conducted within a packinghouse registered and approved by the NPPO of Spain. Packinghouses in which apricots are packed for export to the United States must be able to exclude quarantine pests. All openings to the outside of the packinghouse must be covered by screening with openings of not more than 1.6 mm or by some other barrier that prevents pests from entering. The packinghouse must have double self-closing doors at the entrance to the facility and at the interior entrance to the area where the apricots are to be packed. During the time registered packinghouses are in use for packing apricots for export to the United States in accordance with the requirements of this section, packing lines must be cleared of all other articles and plant debris prior to packing such apricots, and such apricots must be stored in a room separate from any other fruits or plant articles while the apricots are at the packinghouse.
+
+(j) *Phytosanitary inspection.* (1) A biometric sample of apricot fruit jointly agreed upon by APHIS and the NPPO of Spain must be inspected in Spain by the NPPO of Spain following post-harvest processing. The sample must be visually inspected for the quarantine pests *A. erythrostoma,**C. funebrana,* and *M. fructigena.* A portion of the fruit must be cut open and inspected for *C. capitata.* If any of these quarantine pests are found, the entire consignment of apricot fruit will be prohibited from importation into the United States.
+
+(2) Fruit presented for inspection at a U.S. port of entry must be identified in the shipping documents accompanying each lot of fruit that specify the place of production in which the fruit was produced and the packinghouse in which the fruit was processed. This identification must be maintained until the fruit is released for entry into the United States.
+
+(k) *Phytosanitary certificate.* Each consignment of apricot fruit must be accompanied by a phytosanitary certificate issued by the NPPO of Spain that states that the fruit has been treated for *C. capitata* in accordance with 7 CFR part 305 and includes an additional declaration that the fruit in the consignment was inspected and found free from *A. erythrostoma, C. capitata, C. funebrana,* and *M. fructigena.*
+
+(Approved by the Office of Management and Budget under control number 0579-0402)[78 FR 79578, Dec. 31, 2013]
