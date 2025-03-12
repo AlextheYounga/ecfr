@@ -1,7 +1,5 @@
 ##### § 79.107 User interfaces provided by digital apparatus. #####
 
-Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
-
 (a)(1) A manufacturer of digital apparatus manufactured in or imported for use in the United States and designed to receive or play back video programming transmitted in digital format simultaneously with sound, including apparatus designed to receive or display video programming transmitted in digital format using Internet protocol, must ensure that digital apparatus be designed, developed, and fabricated so that control of appropriate built-in functions included in the digital apparatus are accessible to and usable by individuals who are blind or visually impaired. Digital apparatus do not include navigation devices as defined in § 76.1200 of this chapter. Manufacturers must comply with the provisions of this section only if achievable as defined in § 79.107(c)(2).
 
 Note 1 to paragraph (a)(1):
@@ -32,13 +30,13 @@ This paragraph places no restrictions on the importing, shipping, or sale of dig
 
 (iv) *Display Channel/Program Information.* Function that allows the user to display channel or program information.
 
-(v) *Configuration - Setup.* Function that allows the user to access and change configuration or setup options (e.g., configuration of video display and audio settings, selection of preferred language for onscreen guides or menus, etc.).
+(v) *Configuration—Setup.* Function that allows the user to access and change configuration or setup options (e.g., configuration of video display and audio settings, selection of preferred language for onscreen guides or menus, etc.).
 
-(vi) *Configuration - CC Control.* Function that allows the user to enable or disable the display of closed captioning.
+(vi) *Configuration—CC Control.* Function that allows the user to enable or disable the display of closed captioning.
 
-(vii) *Configuration - CC Options.* Function that allows the user to modify the display of closed caption data (e.g., configuration of the font size, font color, background color, opacity, etc.).
+(vii) *Configuration—CC Options.* Function that allows the user to modify the display of closed caption data (e.g., configuration of the font size, font color, background color, opacity, etc.).
 
-(viii) *Configuration - Video Description Control.* Function that allows the user to enable or disable the output of video description (*i.e.,* allows the user to change from the main audio to the secondary audio stream that contains video description, and from the secondary audio stream back to the main audio).
+(viii) *Configuration—audio description control.* Function that allows the user to enable or disable the output of audio description (*i.e.,* allows the user to change from the main audio to the secondary audio stream that contains audio description, and from the secondary audio stream back to the main audio).
 
 (ix) *Display Configuration Info.* Function that allows the user to display how user preferences are currently configured.
 
@@ -96,4 +94,4 @@ This paragraph places no restrictions on the importing, shipping, or sale of dig
 
 (e) *Notices.* Digital apparatus manufacturers must notify consumers that digital apparatus with the required accessibility features are available to consumers as follows: A digital apparatus manufacturer must provide notice on its official Web site about the availability of accessible digital apparatus. A digital apparatus manufacturer must prominently display information about accessible digital apparatus on its Web site in a way that makes such information available to all consumers. The notice must publicize the availability of accessible devices and the specific person, office or entity who can answer consumer questions about which products contain the required accessibility features. The contact office or person listed on the Web site must be able to answer both general and specific questions about the availability of accessible equipment, including, if necessary, providing information to consumers or directing consumers to a place where they can locate information about how to activate and use accessibility features. All information required by this section must be provided in a Web site format that is accessible to people with disabilities.
 
-[78 FR 77251, Dec. 20, 2013, as amended at 81 FR 5936, Feb. 4, 2016]
+[78 FR 77251, Dec. 20, 2013, as amended at 81 FR 5936, Feb. 4, 2016; 85 FR 76486, Nov. 30, 2020]

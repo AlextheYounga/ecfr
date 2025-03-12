@@ -1,5 +1,7 @@
 ##### § 531.52 General characteristics of “tips.” #####
 
+Link to an amendment published at 85 FR 86789, Dec. 30, 2020.
+
 A tip is a sum presented by a customer as a gift or gratuity in recognition of some service performed for him. It is to be distinguished from payment of a charge, if any, made for the service. Whether a tip is to be given, and its amount, are matters determined solely by the customer, who has the right to determine who shall be the recipient of the gratuity. Tips are the property of the employee whether or not the employer has taken a tip credit under section 3(m) of the FLSA. The employer is prohibited from using an employee's tips, whether or not it has taken a tip credit, for any reason other than that which is statutorily permitted in section 3(m): As a credit against its minimum wage obligations to the employee, or in furtherance of a valid tip pool. Only tips actually received by an employee as money belonging to the employee may be counted in determining whether the person is a “tipped employee” within the meaning of the Act and in applying the provisions of section 3(m) which govern wage credits for tips.
 
 [32 FR 13575, Sept. 28, 1967, as amended at 76 FR 18855, Apr. 5, 2011]

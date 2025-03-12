@@ -1,5 +1,7 @@
 ##### § 516.28 Tipped employees. #####
 
+Link to an amendment published at 85 FR 86788, Dec. 30, 2020.
+
 (a) With respect to each tipped employee whose wages are determined pursuant to section 3(m) of the Act, the employer shall maintain and preserve payroll or other records containing all the information and data required in § 516.2(a) and, in addition, the following:
 
 (1) A symbol, letter or other notation placed on the pay records identifying each employee whose wage is determined in part by tips.

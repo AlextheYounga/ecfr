@@ -18,6 +18,7 @@
 |DO .222|                    SIGTARP Investigative MIS Database.                    |
 |DO .223|                   SIGTARP Investigative Files Database.                   |
 |DO .224|                       SIGTARP Audit Files Database.                       |
+|DO .227|                       CFIUS Case Management System.                       |
 |DO .303|                       TIGTA General Correspondence.                       |
 |DO .307|TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
 |DO .308|                           TIGTA Data Extracts.                            |
@@ -198,7 +199,8 @@
 |DO .222|                    SIGTARP Investigative MIS Database.                    |
 |DO .223|                   SIGTARP Investigative Files Database.                   |
 |DO .224|                       SIGTARP Audit Files Database.                       |
-|DO.225 |               TARP Fraud Investigation Information System.                |
+|DO .225|               TARP Fraud Investigation Information System.                |
+|DO .227|                       CFIUS Case Management System.                       |
 |DO .303|                       TIGTA General Correspondence.                       |
 |DO .307|TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.|
 |DO .308|                           TIGTA Data Extracts.                            |
@@ -422,4 +424,4 @@ Departmental Officers:
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
 
-[77 FR 28479, May 15, 2012, as amended at 77 FR 59548, Sept. 28, 2012; 79 FR 12944, Mar. 7, 2014; 80 FR 13765, Mar. 17, 2015]
+[77 FR 28479, May 15, 2012, as amended at 77 FR 59548, Sept. 28, 2012; 79 FR 12944, Mar. 7, 2014; 80 FR 13765, Mar. 17, 2015; 85 FR 86512, Dec. 30, 2020]

@@ -1,5 +1,7 @@
 ##### § 578.4 Determination of penalty. #####
 
+Link to an amendment published at 85 FR 86791, Dec. 30, 2020.
+
 (a) In determining the amount of penalty to be assessed for any repeated or willful violation of section 6 or section 7 of the Act, the Administrator shall consider the seriousness of the violations and the size of the employer's business.
 
 (b) Where appropriate, the Administrator may also consider other relevant factors in assessing the penalty, including but not limited to the following:

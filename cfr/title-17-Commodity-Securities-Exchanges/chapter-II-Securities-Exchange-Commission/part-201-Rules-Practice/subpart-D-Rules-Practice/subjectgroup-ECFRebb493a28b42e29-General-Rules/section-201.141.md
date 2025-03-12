@@ -1,5 +1,7 @@
 ##### § 201.141 Orders and decisions: Service of orders instituting proceedings and other orders and decisions. #####
 
+Link to an amendment published at 85 FR 86478, Dec. 30, 2020.
+
 (a) *Service of an order instituting proceedings* - (1) *By whom made.* The Secretary, or another duly authorized officer of the Commission, shall serve a copy of an order instituting proceedings on each person named in the order as a party. The Secretary may direct an interested division to assist in making service.
 
 (2) *How made* - (i) *To individuals.* Notice of a proceeding shall be made to an individual by delivering a copy of the order instituting proceedings to the individual or to an agent authorized by appointment or by law to receive such notice. *Delivery* means - handing a copy of the order to the individual; or leaving a copy at the individual's office with a clerk or other person in charge thereof; or leaving a copy at the individual's dwelling house or usual place of abode with some person of suitable age and discretion then residing therein; or sending a copy of the order addressed to the individual by U.S. Postal Service certified, registered or Express Mail and obtaining a confirmation of receipt; or giving confirmed telegraphic notice.

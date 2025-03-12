@@ -1,3 +1,5 @@
 ##### § 580.3 Written notice of determination required. #####
 
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.
+
 Whenever the Administrator determines that there has been a violation by any person of section 12 of the Act relating to child labor or any regulation issued under that section, or determines that there has been a repeated or willful violation by any person of section 6 or section 7 of the Act, and determines that imposition of a civil money penalty for such violation is appropriate, the Administrator shall issue and serve a notice of such penalty on such person in person or by certified mail. Where service by certified mail is not accepted by the party, notice shall be deemed received on the date of attempted delivery. Where service is not accepted, the Administrator may exercise discretion to serve the notice by regular mail.

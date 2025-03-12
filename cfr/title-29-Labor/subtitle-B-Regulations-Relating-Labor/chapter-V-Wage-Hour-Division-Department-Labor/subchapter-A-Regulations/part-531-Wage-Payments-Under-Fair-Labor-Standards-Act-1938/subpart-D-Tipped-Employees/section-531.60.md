@@ -1,5 +1,7 @@
 ##### § 531.60 Overtime payments. #####
 
+Link to an amendment published at 85 FR 86791, Dec. 30, 2020.
+
 When overtime is worked by a tipped employee who is subject to the overtime pay provisions of the Act, the employee's regular rate of pay is determined by dividing the employee's total remuneration for employment (except statutory exclusions) in any workweek by the total number of hours actually worked by the employee in that workweek for which such compensation was paid. (See part 778 of this chapter for a detailed discussion of overtime compensation under the Act.) In accordance with section 3(m), a tipped employee's regular rate of pay includes the amount of tip credit taken by the employer per hour (not in excess of the minimum wage required by section 6(a)(1) minus $2.13), the reasonable cost or fair value of any facilities furnished to the employee by the employer, as authorized under section 3(m) and this part 531, and the cash wages including commissions and certain bonuses paid by the employer. Any tips received by the employee in excess of the tip credit need not be included in the regular rate. Such tips are not payments made by the employer to the employee as remuneration for employment within the meaning of the Act.
 
 [32 FR 13575, Sept. 28, 1967, as amended at 76 FR 18856, Apr. 5, 2011]

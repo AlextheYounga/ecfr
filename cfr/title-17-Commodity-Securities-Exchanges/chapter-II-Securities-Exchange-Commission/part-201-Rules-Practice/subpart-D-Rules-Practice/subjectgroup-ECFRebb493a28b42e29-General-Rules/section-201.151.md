@@ -1,5 +1,7 @@
 ##### § 201.151 Filing of papers with the Commission: Procedure. #####
 
+Link to an amendment published at 85 FR 86478, Dec. 30, 2020.
+
 (a) *When to file.* All papers required to be served by a party upon any person shall be filed contemporaneously with the Commission. Papers required to be filed with the Commission must be received within the time limit, if any, for such filing. Filing with the Commission may be made by facsimile transmission if the party also contemporaneously transmits to the Commission a non-facsimile original with a manual signature. However, any person filing with the Commission by facsimile transmission will be responsible for assuring that the Commission receives a complete and legible filing within the time limit set for such filing.
 
 (b) *Where to file.* Filing of papers with the Commission shall be made by filing them with the Secretary. When a proceeding is assigned to a hearing officer, a person making a filing with the Secretary shall promptly provide to the hearing officer a copy of any such filing, provided, however, that the hearing officer may direct or permit filings to be made with him or her, in which event the hearing officer shall note thereon the filing date and promptly provide the Secretary with either the original or a copy of any such filings.

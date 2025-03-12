@@ -36,32 +36,6 @@ Pursuant to the provisions of Pub. L. No. 100-181, 101 Stat. 1254, 1255 (15 U.S.
 
 (17) With respect to disgorgement and Fair Fund plans established in administrative proceedings instituted by the Commission pursuant to the federal securities laws, to appoint a person as a plan administrator, if that person is included in the Commission's approved pool of administrators, and, for an administrator appointed pursuant to this delegation, to set the amount of or waive for good cause shown, the administrator's bond required by § 201.1105(c) of this chapter.
 
-(18) With respect to enforcement proceedings in Federal court, to:
-
-(i) Dismiss claims against entities that are defunct, the subject of Federal or foreign bankruptcy proceedings, or without material assets; and
-
-(ii) Dismiss claims against persons or entities that duplicate or overlap with other pending claims against those persons or entities, unless the dismissal would involve claims requiring a higher level of intent than that required by the remaining claims, result in a reduction of disgorgement available for the claims in the Commission's complaint, or eliminate the statutory basis for a bar sought in the Commission's complaint.
-
-(19) To file applications in Federal court to seek an order pursuant to section 21(h)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(h)(2)) in connection with investigations pursuant to section 19(c) of the Securities Act of 1933 (15 U.S.C. 77s(c)), section 21(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(b)), section 42(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-42(b)), and section 209(b) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-9(b)).
-
-(20) To institute proceedings pursuant to section 12(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*(j)) with respect to a security based on the issuer's alleged failure to file required periodic reports and, in connection with the institution of such proceedings, issue orders pursuant to section 12(k)(1)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*(k)(1)(A)).
-
-(21) With respect to disgorgement funds and Fair Fund plans established in administrative or cease-and-desist proceedings instituted by the Commission pursuant to the Federal securities laws, to:
-
-(i) Grant extensions of time to submit proposed distribution plans to the Commission;
-
-(ii) Appoint tax administrators, pursuant to a Commission-approved omnibus order;
-
-(iii) Publish notice of proposed plans, including plans that omit elements required by § 201.1101 of this chapter (Rule 1101 of the Rules on Fair Fund and Disgorgement Plans);
-
-(iv) Issue orders adopting plans as to which no negative comments have been received;
-
-(v) Approve disbursements to investors in accordance with the plans;
-
-(vi) Approve payment of the fees and expenses of administration; and
-
-(vii) Approve final fund accountings.
-
 (b) Notwithstanding anything in the foregoing, in any case in which the Director of the Division of Enforcement believes it appropriate, he may submit the matter to the Commission.
 
 [37 FR 16796, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

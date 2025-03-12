@@ -1,5 +1,7 @@
 ##### § 531.54 Tip pooling. #####
 
+Link to an amendment published at 85 FR 86789, Dec. 30, 2020.
+
 Where employees practice tip splitting, as where waiters give a portion of their tips to the busboys, both the amounts retained by the waiters and those given the busboys are considered tips of the individuals who retain them, in applying the provisions of section 3(m) and 3(t). Similarly, where an accounting is made to an employer for his information only or in furtherance of a pooling arrangement whereby the employer redistributes the tips to the employees upon some basis to which they have mutually agreed among themselves, the amounts received and retained by each individual as his own are counted as his tips for purposes of the Act. Section 3(m) does not impose a maximum contribution percentage on valid mandatory tip pools, which can only include those employees who customarily and regularly receive tips. However, an employer must notify its employees of any required tip pool contribution amount, may only take a tip credit for the amount of tips each employee ultimately receives, and may not retain any of the employees' tips for any other purpose.
 
 [32 FR 13575, Sept. 28, 1967, as amended at 76 FR 18856, Apr. 5, 2011]

@@ -1,10 +1,8 @@
-##### § 79.105 Video description and emergency information accessibility requirements for all apparatus. #####
-
-Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+##### § 79.105 Audio description and emergency information accessibility requirements for all apparatus. #####
 
 (a) Effective May 26, 2015, all apparatus that is designed to receive or play back video programming transmitted simultaneously with sound that is provided by entities subject to §§ 79.2 and 79.3, is manufactured in the United States or imported for use in the United States, and uses a picture screen of any size, must have the capability to decode and make available the secondary audio stream if technically feasible, unless otherwise provided in this section, which will facilitate the following services:
 
-(1) The transmission and delivery of video description services as required by § 79.3; and
+(1) The transmission and delivery of audio description services as required by § 79.3; and
 
 (2) Emergency information (as that term is defined in § 79.2) in a manner that is accessible to individuals who are blind or visually impaired.
 
@@ -16,11 +14,11 @@ Note 2 to paragraph (a):
 
 This paragraph places no restrictions on the importing, shipping, or sale of apparatus that were manufactured before May 26, 2015.
 
-(b) *Exempt apparatus* - (1) *Display-only monitors.* Apparatus or class of apparatus that are display-only video monitors with no playback capability are not required to comply with the provisions of this section.
+(b) *Exempt apparatus*—(1) *Display-only monitors.* Apparatus or class of apparatus that are display-only video monitors with no playback capability are not required to comply with the provisions of this section.
 
 (2) *Professional or commercial equipment.* Apparatus or class of apparatus that are professional or commercial equipment not typically used by the public are not required to comply with the provisions of this section.
 
-(3)(i) *Achievable.* Apparatus that use a picture screen of less than 13 inches in size must comply with the provisions of this section only if doing so is achievable as defined in this section. Manufacturers of apparatus that use a picture screen of less than 13 inches in size may petition the Commission for a full or partial exemption from the video description and emergency information requirements of this section pursuant to § 1.41 of this chapter, which the Commission may grant upon a finding that the requirements of this section are not achievable, or may assert that such apparatus is fully or partially exempt as a response to a complaint, which the Commission may dismiss upon a finding that the requirements of this section are not achievable.
+(3)(i) Apparatus that use a picture screen of less than 13 inches in size must comply with the provisions of this section only if doing so is achievable as defined in this section. Manufacturers of apparatus that use a picture screen of less than 13 inches in size may petition the Commission for a full or partial exemption from the audio description and emergency information requirements of this section pursuant to § 1.41 of this chapter, which the Commission may grant upon a finding that the requirements of this section are not achievable, or may assert that such apparatus is fully or partially exempt as a response to a complaint, which the Commission may dismiss upon a finding that the requirements of this section are not achievable.
 
 (ii) The petitioner or respondent must support a petition for exemption or a response to a complaint with sufficient evidence to demonstrate that compliance with the requirements of this section is not “achievable” where “achievable” means with reasonable effort or expense. The Commission will consider the following factors when determining whether the requirements of this section are not “achievable:”
 
@@ -46,4 +44,4 @@ Note to paragraph (d):
 
 This paragraph places no restrictions on the importing, shipping, or sale of navigation devices that were manufactured before December 20, 2016.
 
-[78 FR 31798, May 24, 2013, as amended at 80 FR 39715, July 10, 2015]
+[78 FR 31798, May 24, 2013, as amended at 80 FR 39715, July 10, 2015; 85 FR 76486, Nov. 30, 2020]

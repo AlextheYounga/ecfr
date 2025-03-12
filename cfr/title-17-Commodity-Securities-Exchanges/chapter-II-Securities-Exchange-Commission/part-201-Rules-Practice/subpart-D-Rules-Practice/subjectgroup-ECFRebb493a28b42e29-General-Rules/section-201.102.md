@@ -1,5 +1,7 @@
 ##### § 201.102 Appearance and practice before the Commission. #####
 
+Link to an amendment published at 85 FR 86477, Dec. 30, 2020.
+
 A person shall not be represented before the Commission or a hearing officer except as stated in paragraphs (a) and (b) of this section or as otherwise permitted by the Commission or a hearing officer.
 
 (a) *Representing oneself.* In any proceeding, an individual may appear on his or her own behalf.

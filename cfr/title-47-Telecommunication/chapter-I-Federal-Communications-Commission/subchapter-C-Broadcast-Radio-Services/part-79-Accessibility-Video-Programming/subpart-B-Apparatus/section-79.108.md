@@ -1,7 +1,5 @@
 ##### § 79.108 Video programming guides and menus provided by navigation devices. #####
 
-Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
-
 (a)(1) Manufacturers that place navigation devices, as defined by § 76.1200 of this chapter, into the chain of commerce for purchase by consumers, and multichannel video programming distributors (“MVPDs”) as defined by § 76.1200 of this chapter that lease or sell such devices must ensure that the on-screen text menus and guides provided by navigation devices for the display or selection of multichannel video programming are audibly accessible in real time upon request by individuals who are blind or visually impaired. Manufacturers and MVPDs must comply with the provisions of this section only if doing so is achievable as defined in § 79.108(c)(2).
 
 Note 1 to paragraph (a)(1):
@@ -18,13 +16,13 @@ In determining whether a particular device is considered a “navigation device�
 
 (ii) *Display Channel/Program Information.* Function that allows the user to display channel or program information.
 
-(iii) *Configuration - Setup.* Function that allows the user to access and change configuration or setup options (e.g., configuration of video display and audio settings, selection of preferred language for onscreen guides or menus, etc.).
+(iii) *Configuration—Setup.* Function that allows the user to access and change configuration or setup options (e.g., configuration of video display and audio settings, selection of preferred language for onscreen guides or menus, etc.).
 
-(iv) *Configuration - CC Control.* Function that allows the user to enable or disable the display of closed captioning.
+(iv) *Configuration—CC Control.* Function that allows the user to enable or disable the display of closed captioning.
 
-(v) *Configuration - CC Options.* Function that allows the user to modify the display of closed caption data (e.g., configuration of the font size, font color, background color, opacity, etc.).
+(v) *Configuration—CC Options.* Function that allows the user to modify the display of closed caption data (e.g., configuration of the font size, font color, background color, opacity, etc.).
 
-(vi) *Configuration - Video Description Control.* Function that allows the user to enable or disable the output of video description (*i.e.,* allows the user to change from the main audio to the secondary audio stream that contains video description, and from the secondary audio stream back to the main audio).
+(vi) *Configuration—audio description control.* Function that allows the user to enable or disable the output of audio description (*i.e.,* allows the user to change from the main audio to the secondary audio stream that contains audio description, and from the secondary audio stream back to the main audio).
 
 (vii) *Display Configuration Info.* Function that allows the user to display how user preferences are currently configured.
 
@@ -116,4 +114,4 @@ In determining whether a particular device is considered a “navigation device�
 
 (4) If a consumer with a disability requests an accessible navigation device pursuant to Section 205, this also constitutes a request for a description of the accessibility features of the device and end-user product documentation in accessible formats.
 
-[78 FR 77251, Dec. 20, 2013, as amended at 81 FR 5936, Feb. 4, 2016]
+[78 FR 77251, Dec. 20, 2013, as amended at 81 FR 5936, Feb. 4, 2016; 85 FR 76486, Nov. 30, 2020]

@@ -14,7 +14,7 @@
 
 (2) *Exceptions for subtitle A.* New target and old target are treated as the same corporation for purposes of -
 
-(i) The rules applicable to employee benefit plans (including those plans described in sections 79, 104, 105, 106, 125, 127, 129, 132, 137, and 220), qualified pension, profit-sharing, stock bonus and annuity plans (sections 401(a) and 403(a)), simplified employee pensions (section 408(k)), tax qualified stock option plans (sections 422 and 423), welfare benefit funds (sections 419, 419A, 512(a)(3), and 4976), and voluntary employee benefit associations (section 501(c)(9) and the regulations thereunder);
+(i) The rules applicable to employee benefit plans (including those plans described in sections 79, 104, 105, 106, 125, 127, 129, 132, 137, and 220), qualified pension, profit-sharing, stock bonus and annuity plans (sections 401(a) and 403(a)), simplified employee pensions (section 408(k)), tax qualified stock option plans (sections 422 and 423), welfare benefit funds (sections 419, 419A, 512(a)(3), and 4976), voluntary employee benefit associations (section 501(c)(9) and the regulations thereunder (§§ 1.501(c)(9)-1 through 1.501(c)(9)-8)) and certain excessive employee remuneration (section 162(m) and the regulations thereunder (§§ 1.162-27, 1.162-31, and 1.162-33));
 
 (ii) Sections 1311 through 1314 (relating to the mitigation of the effect of limitations), if a section 338(h)(10) election is not made for target;
 
@@ -48,4 +48,4 @@ Example 1.Prior to a qualified stock purchase under section 338, target transfer
 
 (e) *Effective/applicability date.* Paragraphs (a)(1) and (c)(1) of this section are applicable to any qualified stock disposition for which the disposition date (as defined in § 1.336-1(b)(8)) is on or after May 15, 2013.
 
-[T.D. 8940, 66 FR 9929, Feb. 13, 2001, as amended by T.D. 9002, 67 FR 43540, June 28, 2002; T.D. 9257, 71 FR 18000, Apr. 10, 2006; T.D. 9377, 73 FR 3871, Jan. 23, 2008; T.D. 9446, 74 FR 6957, Feb. 11, 2009; T.D. 9619, 78 FR 28489, May 15, 2013; T.D. 9715, 80 FR 17317, Apr. 1, 2015]
+[T.D. 8940, 66 FR 9929, Feb. 13, 2001, as amended by T.D. 9002, 67 FR 43540, June 28, 2002; T.D. 9257, 71 FR 18000, Apr. 10, 2006; T.D. 9377, 73 FR 3871, Jan. 23, 2008; T.D. 9446, 74 FR 6957, Feb. 11, 2009; T.D. 9619, 78 FR 28489, May 15, 2013; T.D. 9715, 80 FR 17317, Apr. 1, 2015; T.D. 9932, 85 FR 86511, Dec. 30, 2020]

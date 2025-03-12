@@ -1,5 +1,7 @@
 ##### § 201.322 Evidence: Confidential information, protective orders. #####
 
+Link to an amendment published at 85 FR 86480, Dec. 30, 2020.
+
 (a) *Procedure.* In any proceeding as defined in § 201.101(a), a party, any person who is the owner, subject or creator of a document subject to subpoena or which may be introduced as evidence, or any witness who testifies at a hearing may file a motion requesting a protective order to limit from disclosure to other parties or to the public documents or testimony that contain confidential information. The motion should include a general summary or extract of the documents without revealing confidential details. If the movant seeks a protective order against disclosure to other parties as well as the public, copies of the documents shall not be served on other parties. Unless the documents are unavailable, the movant shall file for *in camera* inspection a sealed copy of the documents as to which the order is sought.
 
 (b) *Basis for issuance.* Documents and testimony introduced in a public hearing are presumed to be public. A motion for a protective order shall be granted only upon a finding that the harm resulting from disclosure would outweigh the benefits of disclosure.

@@ -1,5 +1,7 @@
 ##### § 531.56 “More than $30 a month in tips.” #####
 
+Link to an amendment published at 85 FR 86790, Dec. 30, 2020.
+
 (a) *In general.* An employee who receives tips, within the meaning of the Act, is a “tipped employee” under the definition in section 3(t) when, in the occupation in which he is engaged, the amounts he receives as tips customarily and regularly total “more than $30 a month.” An employee employed in an occupation in which the tips he receives meet this minimum standard is a “tipped employee” for whom the wage credit provided by section 3(m) may be taken in computing the compensation due him under the Act for employment in such occupation, whether he is employed in it full time or part time. An employee employed full time or part time in an occupation in which he does not receive more than $30 a month in tips customarily and regularly is not a “tipped employee” within the meaning of the Act and must receive the full compensation required by its provisions in cash or allowable facilities without any deduction for tips received under the provisions of section 3(m).
 
 (b) *Month.* The definition of tipped employee does not require that the calendar month be used in determining whether more than $30 a month is customarily and regularly received as tips. Any appropriate recurring monthly period beginning on the same day of the calendar month may be used.

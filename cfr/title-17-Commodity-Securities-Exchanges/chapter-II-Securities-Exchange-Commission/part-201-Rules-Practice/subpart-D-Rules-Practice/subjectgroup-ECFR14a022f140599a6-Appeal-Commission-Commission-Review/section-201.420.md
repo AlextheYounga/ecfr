@@ -1,5 +1,7 @@
 ##### § 201.420 Appeal of determinations by self-regulatory organizations. #####
 
+Link to an amendment published at 85 FR 86480, Dec. 30, 2020.
+
 (a) *Application for review; when available.* An application for review by the Commission may be filed by any person who is aggrieved by a determination of a self-regulatory organization with respect to any:
 
 (1) Final disciplinary sanction;

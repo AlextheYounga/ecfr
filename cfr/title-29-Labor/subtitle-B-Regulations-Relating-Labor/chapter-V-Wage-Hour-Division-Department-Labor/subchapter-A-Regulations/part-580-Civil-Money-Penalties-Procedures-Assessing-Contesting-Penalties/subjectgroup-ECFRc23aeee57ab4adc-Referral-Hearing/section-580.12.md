@@ -1,5 +1,7 @@
 ##### § 580.12 Decision and Order of Administrative Law Judge. #####
 
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.
+
 (a) The Administrative Law Judge shall render a decision on the issues referred by the Administrator.
 
 (b) The decision of the Administrative Law Judge shall be limited to a determination of whether the respondent has committed a violation of section 12, or a repeated or willful violation of section 6 or section 7 of the Act, and the appropriateness of the penalty assessed by the Administrator. The Administrative Law Judge shall not render determinations on the legality of a regulatory provision or the constitutionality of a statutory provision.

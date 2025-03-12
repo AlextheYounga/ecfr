@@ -1,5 +1,7 @@
 ##### § 201.152 Filing of papers: Form. #####
 
+Link to an amendment published at 85 FR 86478, Dec. 30, 2020.Link to an amendment published at 85 FR 86479, Dec. 30, 2020.
+
 (a) *Specifications.* Papers filed in connection with any proceeding as defined in § 201.101(a) shall:
 
 (1) Be on one grade of unglazed white paper measuring 81/2 × 11 inches, except that, to the extent that the reduction of larger documents would render them illegible, such documents may be filed on larger paper;

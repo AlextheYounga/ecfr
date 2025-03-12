@@ -1,6 +1,6 @@
 ##### § 201.193 Applications by barred individuals for consent to associate. #####
 
-Preliminary note
+Link to an amendment published at 85 FR 86478, Dec. 30, 2020.Preliminary note
 
 This rule governs applications to the Commission by certain persons, barred by Commission order from association with brokers, dealers, municipal securities dealers, government securities brokers, government securities dealers, investment advisers, investment companies or transfer agents, for consent to become so associated. Applications made pursuant to this section must show that the proposed association would be consistent with the public interest. In addition to the information specifically required by the rule, applications should be supplemented, where appropriate, by written statements of individuals (other than the applicant) who are competent to attest to the applicant's character, employment performance, and other relevant information. Intentional misstatements or omissions of fact may constitute criminal violations of 18 U.S.C. 1001 *et seq.* and other provisions of law.
 

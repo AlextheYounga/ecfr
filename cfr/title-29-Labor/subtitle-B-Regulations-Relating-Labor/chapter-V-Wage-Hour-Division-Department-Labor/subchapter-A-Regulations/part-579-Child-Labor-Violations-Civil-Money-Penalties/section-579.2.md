@@ -1,5 +1,7 @@
 ##### § 579.2 Definitions. #####
 
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.
+
 As used in this part and part 580 of this chapter:
 
 *Act* means the Fair Labor Standards Act of 1938, as amended (52 Stat. 1060, as amended; 29 U.S.C. 201, *et seq.).*

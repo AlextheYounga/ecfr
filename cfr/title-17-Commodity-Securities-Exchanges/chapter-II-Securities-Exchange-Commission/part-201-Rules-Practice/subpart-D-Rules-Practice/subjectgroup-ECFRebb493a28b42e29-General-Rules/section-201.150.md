@@ -1,5 +1,7 @@
 ##### § 201.150 Service of papers by parties. #####
 
+Link to an amendment published at 85 FR 86478, Dec. 30, 2020.
+
 (a) *When required.* In every proceeding as defined in § 201.101(a), each paper, including each notice of appearance, written motion, brief, or other written communication, shall be served upon each party in the proceeding in accordance with the provisions of this section; provided, however, that absent an order to the contrary, no service shall be required for motions which may be heard *ex parte.*
 
 (b) *Upon a person represented by counsel.* Whenever service is required to be made upon a person represented by counsel who has filed a notice of appearance pursuant to § 201.102, service shall be made pursuant to paragraph (c) of this section upon counsel, unless service upon the person represented is ordered by the Commission or the hearing officer.

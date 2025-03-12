@@ -1,6 +1,4 @@
-##### § 50.50 Exceptions to the clearing requirement. #####
-
-Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
+##### § 50.50 Non-financial end-user exception to the clearing requirement. #####
 
 (a) *Non-financial entities.* (1) A counterparty to a swap may elect the exception to the clearing requirement under section 2(h)(7)(A) of the Act if the counterparty:
 
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
 
 (*1*) Electing the exception in accordance with section 2(h)(7)(C)(iii) or section 2(h)(7)(D) of the Act; or
 
-(*2*) Exempt from the definition of “financial entity” as described in paragraph (d) of this section;
+(*2*) Exempt from the definition of “financial entity” as described in § 50.53;
 
 (B) Whether the swap or swaps for which the electing counterparty is electing the exception are used by the electing counterparty to hedge or mitigate commercial risk as provided in paragraph (c) of this section;
 
@@ -82,8 +80,4 @@ Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
 
 (ii) Not used to hedge or mitigate the risk of another swap or security-based swap position, unless that other position itself is used to hedge or mitigate commercial risk as defined by this rule or § 240.3a67-4 of this title.
 
-(d) For purposes of section 2(h)(7)(A) of the Act, a person that is a “financial entity” solely because of section 2(h)(7)(C)(i)(VIII) shall be exempt from the definition of “financial entity” if such person:
-
-(1) Is organized as a bank, as defined in section 3(a) of the Federal Deposit Insurance Act, the deposits of which are insured by the Federal Deposit Insurance Corporation; a savings association, as defined in section 3(b) of the Federal Deposit Insurance Act, the deposits of which are insured by the Federal Deposit Insurance Corporation; a farm credit system institution chartered under the Farm Credit Act of 1971; or an insured Federal credit union or State-chartered credit union under the Federal Credit Union Act; and
-
-(2) Has total assets of $10,000,000,000 or less on the last day of such person's most recent fiscal year.
+[77 FR 74337, Dec. 13, 2012, as amended at 85 FR 76448, Nov. 30, 2020]
