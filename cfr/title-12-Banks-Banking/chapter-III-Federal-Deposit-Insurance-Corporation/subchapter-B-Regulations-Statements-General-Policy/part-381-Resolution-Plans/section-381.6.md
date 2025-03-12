@@ -1,17 +1,23 @@
-##### § 381.6 Failure to cure deficiencies on resubmission of a resolution plan. #####
+##### § 381.6 Informational content of a targeted resolution plan. #####
 
-(a) *In general.* The Board and Corporation may jointly determine that a covered company or any subsidiary of a covered company shall be subject to more stringent capital, leverage, or liquidity requirements, or restrictions on the growth, activities, or operations of the covered company or the subsidiary if:
+(a) *In general.* A targeted resolution plan is a subset of a full resolution plan and shall include core elements of a full resolution plan and information concerning key areas of focus as set forth in this section.
 
-(1) The covered company fails to submit a revised resolution plan under § 381.5(c) within the required time period; or
+(b) *Targeted resolution plan content.* Each targeted resolution plan of a covered company shall include:
 
-(2) The Board and the Corporation jointly determine that a revised resolution plan submitted under § 381.5(c) does not adequately remedy the deficiencies jointly identified by the Board and the Corporation under § 381.5(b).
+(1) The core elements;
 
-(b) *Duration of requirements or restrictions.* - Any requirements or restrictions imposed on a covered company or a subsidiary thereof pursuant to paragraph (a) of this section shall cease to apply to the covered company or subsidiary, respectively, on the date that the Board and the Corporation jointly determine the covered company has submitted a revised resolution plan that adequately remedies the deficiencies jointly identified by the Board and the Corporation under § 381.5(b).
+(2) Such targeted information as the Board and Corporation may jointly identify pursuant to paragraph (c) of this section;
 
-(c) *Divestiture.* The Board and Corporation, in consultation with the Council, may jointly, by order, direct the covered company to divest such assets or operations as are jointly identified by the Board and Corporation if:
+(3) A description of each material change experienced by the covered company since the filing of the covered company's previously submitted resolution plan (or affirmation that no such material change has occurred); and
 
-(1) The Board and Corporation have jointly determined that the covered company or a subsidiary thereof shall be subject to requirements or restrictions pursuant to paragraph (a) of this section; and
+(4) A description of changes to the covered company's previously submitted resolution plan resulting from any;
 
-(2) The covered company has failed, within the 2-year period beginning on the date on which the determination to impose such requirements or restrictions under paragraph (a) of this section was made, to submit a revised resolution plan that adequately remedies the deficiencies jointly identified by the Board and the Corporation under § 381.5(b); and
+(i) Change in law or regulation;
 
-(3) The Board and Corporation jointly determine that the divestiture of such assets or operations is necessary to facilitate an orderly resolution of the covered company under the Bankruptcy Code in the event the company was to fail.
+(ii) Guidance or feedback from the Board and the Corporation; or
+
+(iii) Material change described pursuant to paragraph (b)(3) of this section.
+
+(c) *Targeted information requests.* No less than 12 months before the date by which a covered company is required to submit a targeted resolution plan, the Board and Corporation may jointly identify in writing resolution-related key areas of focus, questions, and issues that must also be addressed in the covered company's targeted resolution plan.
+
+(d) *Deemed incorporation by reference.* If a covered company does not include in its targeted resolution plan a description of changes to any information set forth in section 165(d)(1)(A), (B), or (C) of the Dodd-Frank Act (12 U.S.C. 5365(d)(1)(A), (B), or (C)) since its previously submitted resolution plan, such information from its previously submitted resolution plan are incorporated by reference into its targeted resolution plan.

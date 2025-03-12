@@ -24,4 +24,6 @@
 
 (C) Production and deployment phase of a weapon system, including embedded software (10 U.S.C. 2443).
 
-[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015; 84 FR 58333, Oct. 31, 2019]
+(vii) See 226.7202 for an additional evaluation factor required in solicitations when using the Demonstration Project for Contractors Employing Persons with Disabilities.
+
+[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015; 84 FR 58333, Oct. 31, 2019; 84 FR 72560, Dec. 31, 2019]

@@ -1,7 +1,7 @@
-##### § 580.4 Security of title documents and power of attorney forms. #####
+##### § 580.4 Security of physical documents, electronic titles and electronic powers of attorney. #####
 
-Link to an amendment published at 84 FR 52700, Oct. 2, 2019.
+(a) Each physical title shall be set forth by means of a secure printing process or other secure process. Additionally, a physical power of attorney issued pursuant to §§ 580.13 and 580.14 and physical documents, which are used to reassign the title, shall be issued by the jurisdiction and shall be set forth by a secure printing process or other secure process.
 
-Each title shall be set forth by means of a secure printing process or other secure process. In addition, power of attorney forms issued pursuant to §§ 580.13 and 580.14 and documents which are used to reassign the title shall be issued by the State and shall be set forth by a secure process.
+(b) Each electronic title shall be maintained in a secure environment so it is protected from unauthorized modification, alteration or disclosure. In addition, an electronic power of attorney maintained and made available pursuant to §§ 580.13 and 580.14 and shall be maintained by the jurisdiction in a secure environment so that it is protected from unauthorized modification, alteration and disclosure. Any system employed to create, store or maintain the foregoing electronic records shall record the dates and times when the electronic document is created, the odometer disclosures contained within are signed and when the documents are accessed, including the date and time any unauthorized attempt is made to alter or modify the electronic document and any unauthorized alterations or modifications made.
 
-[54 FR 35887, Aug. 30, 1989]
+[84 FR 52700, Oct. 2, 2019]

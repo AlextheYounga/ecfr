@@ -1,6 +1,6 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 84 FR 59263, Nov. 1, 2019.Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendment published at 84 FR 68031, Dec. 13, 2019.
+Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendment published at 84 FR 68031, Dec. 13, 2019.
 
 As used in this part:
 
@@ -53,6 +53,70 @@ As used in this part:
 *Call Report* means Consolidated Reports of Condition and Income.
 
 *Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the national bank or Federal savings association as determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
+
+*Category II national bank or Federal savings association* means:
+
+(1) A national bank or Federal savings association that is a subsidiary of a Category II banking organization, as defined pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable; or
+
+(2) A national bank or Federal savings association that:
+
+(i) Is not a subsidiary of a depository institution holding company; and
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the national bank's or Federal savings association's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $700 billion or more. If the national bank or Federal savings association has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the national bank's or Federal savings association's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, of $100 billion or more but less than $700 billion. If the national bank or Federal savings association has not filed the Call Report for each of the four most recent quarters, total consolidated assets is based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; and
+
+(*2*) Cross-jurisdictional activity, calculated based on the average of its cross-jurisdictional activity for the four most recent calendar quarters, of $75 billion or more. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form.
+
+(iii) After meeting the criteria in paragraph (2)(ii) of this definition, a national bank or Federal savings association continues to be a Category II national bank or Federal savings association until the national bank or Federal savings association has:
+
+(A)(*1*) Less than $700 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; and
+
+(*2*) Less than $75 billion in cross-jurisdictional activity for each of the four most recent calendar quarters. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form; or
+
+(B) Less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters.
+
+*Category III national bank or Federal savings association* means:
+
+(1) A national bank or Federal savings association that is a subsidiary of a Category III banking organization, as defined pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable;
+
+(2) A national bank or Federal savings association that is a subsidiary of a depository institution that meets the criteria in paragraph (3)(ii)(A) or (B) of this definition; or
+
+(3) A national bank or Federal savings association that:
+
+(i) Is not a subsidiary of a depository institution holding company; and
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the depository institution's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $250 billion or more. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the depository institution's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, of $100 billion or more but less than $250 billion. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; and
+
+(*2*) At least one of the following in paragraphs (3)(ii)(B)(*2*)(*i*) through (*iii*) of this definition, each calculated as the average of the four most recent calendar quarters, or if the depository institution has not filed each applicable reporting form for each of the four most recent calendar quarters, for the most recent quarter or quarters, as applicable:
+
+(*i*) Total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP or equivalent reporting form, equal to $75 billion or more;
+
+(*ii*) Off-balance sheet exposure equal to $75 billion or more. Off-balance sheet exposure is a depository institution's total exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the depository institution, as reported on the Call Report; or
+
+(*iii*) Weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, equal to $75 billion or more.
+
+(iii) After meeting the criteria in paragraph (3)(ii) of this definition, a national bank or Federal savings association continues to be a Category III national bank or Federal savings association until the national bank or Federal savings association:
+
+(A) Has:
+
+(*1*) Less than $250 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters;
+
+(*2*) Less than $75 billion in total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP or equivalent reporting form, for each of the four most recent calendar quarters;
+
+(*3*) Less than $75 billion in weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, for each of the four most recent calendar quarters; and
+
+(*4*) Less than $75 billion in off-balance sheet exposure for each of the four most recent calendar quarters. Off-balance sheet exposure is a national bank's or Federal savings association's total exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the national bank or Federal savings association, as reported on the Call Report; or
+
+(B) Has less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; or
+
+(C) Is a Category II national bank or Federal savings association.
 
 *Central counterparty (CCP)* means a counterparty (for example, a clearing house) that facilitates trades between counterparties in one or more financial markets by either guaranteeing trades or novating contracts.
 
@@ -484,6 +548,10 @@ As used in this part:
 
 *Forward agreement* means a legally binding contractual obligation to purchase assets with certain drawdown at a specified future date, not including commitments to make residential mortgage loans or forward foreign exchange contracts.
 
+*FR Y-9LP* means the Parent Company Only Financial Statements for Large Holding Companies.
+
+*FR Y-15* means the Systemic Risk Report.
+
 *GAAP* means generally accepted accounting principles as used in the United States.
 
 *Gain-on-sale* means an increase in the equity capital of a national bank or Federal savings association (as reported on [Schedule RC of the Call Report or Schedule HC of the FR Y-9C]) resulting from a traditional securitization (other than an increase in equity capital resulting from the national bank's or Federal savings association's receipt of cash in connection with the securitization or reporting of a mortgage servicing asset on [Schedule RC of the Call Report or Schedule HC of the FRY-9C]).
@@ -878,4 +946,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019]

@@ -1,0 +1,7 @@
+##### § 238.121 Applicability. #####
+
+(a) *Applicability*—(1) *Initial applicability.* A covered savings and loan holding company must comply with the risk-management and risk-committee requirements set forth in § 238.122 and the liquidity risk-management and liquidity stress test requirements set forth in §§ 238.123 and 238.124 no later than the first day of the fifth quarter following the date on which its average total consolidated assets equal or exceed $100 billion.
+
+(2) *Changes in requirements following a change in category.* A covered savings and loan holding company with average total consolidated assets of $100 billion or more that changes from one category of covered savings and loan holding company described in § 238.10(b) through (d) to another such category must comply with the requirements applicable to the new category no later than on the first day of the second calendar quarter following the change in the covered savings and loan holding company's category.
+
+(b) *Cessation of requirements.* A covered savings and loan holding company is subject to the risk-management and risk committee requirements set forth in § 238.122 and the liquidity risk-management and liquidity stress test requirements set forth in §§ 238.123 and 238.124 until its total consolidated assets are below $100 billion for each of four consecutive calendar quarters.

@@ -1,7 +1,5 @@
 ##### § 324.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 84 FR 59277, Nov. 1, 2019.
-
 (a) *Purpose.* This part 324 establishes minimum capital requirements and overall capital adequacy standards for FDIC-supervised institutions. This part 324 includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part 324.
 
 (b) *Limitation of authority.* Nothing in this part 324 shall be read to limit the authority of the FDIC to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act.
@@ -76,4 +74,6 @@ Link to an amendment published at 84 FR 59277, Nov. 1, 2019.
 
 (3) Beginning on January 1, 2016, and subject to the transition provisions in subpart G of this part, an FDIC-supervised institution is subject to limitations on distributions and discretionary bonus payments with respect to its capital conservation buffer and any applicable countercyclical capital buffer amount, in accordance with subpart B of this part.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57448, Sept. 26, 2014]
+(4) An FDIC-supervised institution that changes from one category of FDIC-supervised institution to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the FDIC-supervised institution's category.
+
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57448, Sept. 26, 2014; 84 FR 59277, Nov. 1, 2019]

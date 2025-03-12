@@ -1,7 +1,5 @@
 ##### § 252.173 Gross credit exposure. #####
 
-Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
-
 (a) *Calculation of gross credit exposure.* The amount of gross credit exposure of a covered foreign entity to a counterparty with respect to a credit transaction is, in the case of:
 
 (1) A deposit of the covered foreign entity held by the counterparty, loan by a covered foreign entity to the counterparty, and lease in which the covered foreign entity is the lessor and the counterparty is the lessee, equal to the amount owed by the counterparty to the covered foreign entity under the transaction.
@@ -46,12 +44,16 @@ Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
 
 (b) *Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not affiliates.* Notwithstanding paragraph (a) of this section.
 
-(1) Unless the Board applies the requirements of § 252.175 to the transaction pursuant to § 252.175(d), a U.S. intermediate holding company that is a covered foreign entity but has less than $250 billion in total consolidated assets must:
+(1) A U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 is not required to comply with paragraph (b)(3) of this section until January 1, 2021.
 
-(A) Calculate pursuant to § 252.173(a) its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity; and
+(2) Until January 1, 2021, unless the Board applies the requirements of § 252.175 to the transaction pursuant to § 252.175(d), a U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 must:
 
-(B) Attribute that gross credit exposure to the securitization vehicle, investment fund, or other special purpose vehicle for purposes of this subpart.
+(i) Calculate pursuant to paragraph (a) of this section its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is in the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity; and
 
-(2) A foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion must calculate pursuant to § 252.175 its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity.
+(ii) Attribute that gross credit exposure to the securitization vehicle, investment fund, or other special purpose vehicle for purposes of this subpart.
+
+(3) Except as provided in paragraph (b)(1) of this section, a covered foreign entity must calculate pursuant to § 252.175 its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity.
 
 (c) *Attribution rule.* Notwithstanding paragraph (a) of this section, a covered foreign entity must treat any transaction with any natural person or entity as a credit transaction with another party, to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, the other party.
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59120, Nov. 1, 2019]

@@ -1,6 +1,6 @@
 ##### § 324.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 84 FR 59279, Nov. 1, 2019.Link to an amendment published at 84 FR 61803, Nov. 13, 2019.Link to an amendment published at 84 FR 35272, July 22, 2019.The effective date of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61803, Nov. 13, 2019.Link to an amendment published at 84 FR 35272, July 22, 2019.The effective date of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
 
 (a) *Regulatory capital deductions from common equity tier 1 capital.* An FDIC-supervised institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
@@ -68,7 +68,11 @@ Link to an amendment published at 84 FR 59279, Nov. 1, 2019.Link to an amendment
 
 (E) Subtract any net unrealized gains and add any net unrealized losses on held-to-maturity securities that are included in AOCI.
 
-(ii) An FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution must make its AOCI opt-out election in its Call Report filed for the first reporting period after the date required for such FDIC-supervised institution to comply with subpart A of this part as set forth in § 324.1(f).
+(ii) An FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution must make its AOCI opt-out election in the Call Report:
+
+(A) If the FDIC-supervised institution is a Category III FDIC-supervised institution or a Category IV FDIC-supervised institution, during the first reporting period after the FDIC-supervised institution meets the definition of a Category III FDIC-supervised institution or a Category IV FDIC-supervised institution in § 324.2; or
+
+(B) If the FDIC-supervised institution is not a Category III FDIC-supervised institution or a Category IV FDIC-supervised institution, during the first reporting period after the FDIC-supervised institution is required to comply with subpart A of this part as set forth in § 324.1(f).
 
 (iii) With respect to an FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Federal Reserve, the FDIC, or the OCC22 must elect the same option as the FDIC-supervised institution pursuant to this paragraph (b)(2).
 
@@ -204,4 +208,4 @@ Link to an amendment published at 84 FR 59279, Nov. 1, 2019.Link to an amendment
 
 (C) A short position in an index that is hedging a long cash or synthetic position in an FDIC-supervised institution's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the FDIC-supervised institution's Call Report, and the hedge is deemed effective by the FDIC-supervised institution's internal control processes, which have not been found to be inadequate by the FDIC.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 83 FR 17740, Apr. 24, 2018; 84 FR 4247, Feb. 14, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 83 FR 17740, Apr. 24, 2018; 84 FR 4247, Feb. 14, 2019; 84 FR 59279, Nov. 1, 2019]

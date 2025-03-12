@@ -1,62 +1,62 @@
 ##### § 249.91 Disclosure requirements. #####
 
-Link to an amendment published at 84 FR 59276, Nov. 1, 2019.
-
 (a) *General.* A covered depository institution holding company or covered nonbank company subject to this subpart must disclose publicly the information required by paragraph (b) of this section in the format provided in the following table.
 
 Table 1 to § 249.91(a) - Disclosure Template
 
-|                                  XX/XX/XXXX to YY/YY/YYYY  <br/>(in millions of U.S. dollars)                                  |Average  <br/>unweighted amount|Average  <br/>weighted amount|
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|
-|                                                  High-Quality Liquid Assets:                                                   |                               |                             |
-|                                 1. Total eligible high-quality liquid assets (HQLA), of which:                                 |                               |                             |
-|                                               2. Eligible level 1 liquid assets                                                |                               |                             |
-|                                               3. Eligible level 2A liquid assets                                               |                               |                             |
-|                                               4. Eligible level 2B liquid assets                                               |                               |                             |
-|                                                     Cash Outflow Amounts:                                                      |                               |                             |
-|                             5. Deposit outflow from retail customers and counterparties, of which:                             |                               |                             |
-|                                                6. Stable retail deposit outflow                                                |                               |                             |
-|                                                7. Other retail funding outflow                                                 |                               |                             |
-|                                                  8. Brokered deposit outflow                                                   |                               |                             |
-|                                       9. Unsecured wholesale funding outflow, of which:                                        |                               |                             |
-|                                                10. Operational deposit outflow                                                 |                               |                             |
-|                                              11. Non-operational funding outflow                                               |                               |                             |
-|                                                   12. Unsecured debt outflow                                                   |                               |                             |
-|                                    13. Secured wholesale funding and asset exchange outflow                                    |                               |                             |
-|                                         14. Additional outflow requirements, of which:                                         |                               |                             |
-|                         15. Outflow related to derivative exposures and other collateral requirements                          |                               |                             |
-|16. Outflow related to credit and liquidity facilities including unconsolidated structured transactions and mortgage commitments|                               |                             |
-|                                        17. Other contractual funding obligation outflow                                        |                               |                             |
-|                                        18. Other contingent funding obligations outflow                                        |                               |                             |
-|                                                     19. Total Cash Outflow                                                     |                               |                             |
-|                                                      Cash Inflow Amounts:                                                      |                               |                             |
-|                                       20. Secured lending and asset exchange cash inflow                                       |                               |                             |
-|                                                     21. Retail cash inflow                                                     |                               |                             |
-|                                              22. Unsecured wholesale cash inflow                                               |                               |                             |
-|                                               23. Other cash inflows, of which:                                                |                               |                             |
-|                                                 24. Net derivative cash inflow                                                 |                               |                             |
-|                                                   25. Securities cash inflow                                                   |                               |                             |
-|                                          26. Broker-dealer segregated account inflow                                           |                               |                             |
-|                                                     27. Other cash inflow                                                      |                               |                             |
-|                                                     28. Total Cash Inflow                                                      |                               |                             |
-|                                                   Average Amount<sup>1</sup>                                                   |                               |                             |
-|                                                        29. HQLA Amount                                                         |                               |                             |
-|                            30. Total Net Cash Outflow Amount Excluding the Maturity Mismatch Add-on                            |                               |                             |
-|                                                  31. Maturity Mismatch Add-on                                                  |                               |                             |
-|                                               32. Total Net Cash Outflow Amount                                                |                               |                             |
-|                                                33. Liquidity Coverage Ratio (%)                                                |                               |                             |
+|                                  XX/XX/XXXX to YY/YY/YYYY  <br/>(In millions of U.S. dollars)                                  |Average  <br/>unweighted  <br/>amount|Average  <br/>weighted  <br/>amount|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------|
+|                                                   High-Quality Liquid Assets                                                   |                                     |                                   |
+|                                 1. Total eligible high-quality liquid assets (HQLA), of which:                                 |                                     |                                   |
+|                                               2. Eligible level 1 liquid assets                                                |                                     |                                   |
+|                                               3. Eligible level 2A liquid assets                                               |                                     |                                   |
+|                                               4. Eligible level 2B liquid assets                                               |                                     |                                   |
+|                                                      Cash Outflow Amounts                                                      |                                     |                                   |
+|                             5. Deposit outflow from retail customers and counterparties, of which:                             |                                     |                                   |
+|                                                6. Stable retail deposit outflow                                                |                                     |                                   |
+|                                                    7. Other retail funding                                                     |                                     |                                   |
+|                                                  8. Brokered deposit outflow                                                   |                                     |                                   |
+|                                       9. Unsecured wholesale funding outflow, of which:                                        |                                     |                                   |
+|                                                10. Operational deposit outflow                                                 |                                     |                                   |
+|                                              11. Non-operational funding outflow                                               |                                     |                                   |
+|                                                   12. Unsecured debt outflow                                                   |                                     |                                   |
+|                                    13. Secured wholesale funding and asset exchange outflow                                    |                                     |                                   |
+|                                         14. Additional outflow requirements, of which:                                         |                                     |                                   |
+|                         15. Outflow related to derivative exposures and other collateral requirements                          |                                     |                                   |
+|16. Outflow related to credit and liquidity facilities including unconsolidated structured transactions and mortgage commitments|                                     |                                   |
+|                                        17. Other contractual funding obligation outflow                                        |                                     |                                   |
+|                                        18. Other contingent funding obligations outflow                                        |                                     |                                   |
+|                                                     19. Total Cash Outflow                                                     |                                     |                                   |
+|                                                      Cash Inflow Amounts                                                       |                                     |                                   |
+|                                       20. Secured lending and asset exchange cash inflow                                       |                                     |                                   |
+|                                                     21. Retail cash inflow                                                     |                                     |                                   |
+|                                              22. Unsecured wholesale cash inflow                                               |                                     |                                   |
+|                                               23. Other cash inflows, of which:                                                |                                     |                                   |
+|                                                 24. Net derivative cash inflow                                                 |                                     |                                   |
+|                                                   25. Securities cash inflow                                                   |                                     |                                   |
+|                                          26. Broker-dealer segregated account inflow                                           |                                     |                                   |
+|                                                     27. Other cash inflow                                                      |                                     |                                   |
+|                                                     28. Total Cash Inflow                                                      |                                     |                                   |
 
-<sup>1</sup> The amounts reported in this column may not equal the calculation of those amounts using component amounts reported in rows 1-28 due to technical factors such as the application of the level 2 liquid asset caps, the total inflow cap, and for depository institution holding companies subject to subpart G, the application of the modification to total net cash outflows.
+|                                                                        |   |Average  <br/>amount<sup>1</sup>|
+|------------------------------------------------------------------------|---|--------------------------------|
+|                            29. HQLA Amount                             |   |                                |
+|30. Total Net Cash Outflow Amount Excluding The Maturity Mismatch Add-On|   |                                |
+|                      31. Maturity Mismatch Add-On                      |   |                                |
+|              32. Total Unadusted Net Cash Outflow Amount               |   |                                |
+|                   33. Outflow Adjustment Percentage                    |   |                                |
+|               34. Total Adjusted Net Cash Outflow Amount               |   |                                |
+|                    35. Liquidity Coverage Ratio (%)                    |   |                                |
+
+<sup>1</sup> The amounts reported in this column may not equal the calculation of those amounts using component amounts reported in rows 1-28 due to technical factors such as the application of the level 2 liquid asset caps and the total inflow cap.
 
 (b) *Calculation of disclosed average amounts* - (1) *General.* (i) A covered depository institution holding company or covered nonbank company subject to this subpart must calculate its disclosed average amounts:
 
 (A) On a consolidated basis and presented in millions of U.S. dollars or as a percentage, as applicable; and
 
-(B) With the exception of amounts disclosed pursuant to paragraphs (c)(1), (c)(5), (c)(9), (c)(14), (c)(19), (c)(23), and (c)(28) of this section, as simple averages of daily amounts over the calendar quarter;
+(B) With the exception of amounts disclosed pursuant to paragraphs (c)(1), (5), (9), (14), (19), (23), and (28) of this section, as simple averages of daily amounts over the calendar quarter.
 
-(ii) A covered depository institution holding company that is required to calculate its liquidity coverage ratio on a monthly basis pursuant to § 249.61 must calculate its disclosed average amounts as provided in paragraph (b)(1)(i), except that those amounts must be calculated as simple averages of monthly amounts over a calendar quarter;
-
-(iii) A covered depository institution holding company or covered nonbank company subject to this subpart must disclose the beginning date and end date for each calendar quarter.
+(ii) A covered depository institution holding company or covered nonbank company subject to this subpart must disclose the beginning date and end date for each calendar quarter.
 
 (2) *Calculation of average unweighted amounts.* (i) A covered depository institution holding company or covered nonbank company subject to this subpart must calculate the average unweighted amount of HQLA as the average amount of eligible HQLA that meet the requirements specified in §§ 249.20 and 249.22 and is calculated prior to applying the haircuts required under § 249.21(b) to the amounts of eligible HQLA.
 
@@ -130,9 +130,13 @@ Table 1 to § 249.91(a) - Disclosure Template
 
 (31) The average amount of the maturity mismatch add-ons as calculated under § 249.30(b) (row 31);
 
-(32) The average amount of the total net cash outflow amounts as calculated under § 249.30 or § 249.63, as applicable (row 32);
+(32) The average amount of the total net cash outflow amount as calculated under § 249.30 prior to the application of the applicable outflow adjustment percentage described in Table 1 to § 249.30(c) (row 32);
 
-(33) The average of the liquidity coverage ratios as calculated under § 249.10(b) (row 33).
+(33) The applicable outflow adjustment percentage described in Table 1 to § 249.30(c) (row 33);
+
+(34) The average amount of the total net cash outflow as calculated under § 249.30 (row 34); and
+
+(35) The average of the liquidity coverage ratios as calculated under § 249.10(b) (row 35).
 
 (d) *Qualitative disclosures.* (1) A covered depository institution holding company or covered nonbank company subject to this subpart must provide a qualitative discussion of the factors that have a significant effect on its liquidity coverage ratio, which may include the following:
 
@@ -151,3 +155,5 @@ Table 1 to § 249.91(a) - Disclosure Template
 (vii) The centralized liquidity management function of the covered depository institution holding company or covered nonbank company and its interaction with other functional areas of the covered depository institution holding company or covered nonbank company.
 
 (2) If a covered depository institution holding company or covered nonbank company subject to this subpart believes that the qualitative discussion required in paragraph (d)(1) of this section would prejudice seriously its position by resulting in public disclosure of specific commercial or financial information that is either proprietary or confidential in nature, the covered depository institution holding company or covered nonbank company is not required to include those specific items in its qualitative discussion, but must provide more general information about the items that had a significant effect on its liquidity coverage ratio, together with the fact that, and the reason why, more specific information was not discussed.
+
+[81 FR 94929, Dec. 27, 2016, as amended at 84 FR 59276, Nov. 1, 2019]

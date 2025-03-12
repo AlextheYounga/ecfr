@@ -1,7 +1,5 @@
 ##### § 238.2 Definitions. #####
 
-Link to an amendment published at 84 FR 59076, Nov. 1, 2019.
-
 As used in this part and in the forms under this part, the following definitions apply, unless the context otherwise requires:
 
 (a) *Affiliate* means any person or company which controls, is controlled by or is under common control with a person, savings association or company.
@@ -99,3 +97,73 @@ As used in this part and in the forms under this part, the following definitions
 (t) *Well managed.* The term “well managed” takes the meaning provided in § 225.2(s) of this chapter except that a “satisfactory rating for management” refers to a management rating, if such rating is given, or otherwise a risk-management rating, if such rating is given.
 
 (u) *Depository institution.* For purposes of this part, the term “depository institution” has the same meaning as in section 3(c) of Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
+
+(v) *Applicable accounting standards* means GAAP, international financial reporting standards, or such other accounting standards that a company uses in the ordinary course of its business in preparing its consolidated financial statements.
+
+(w) *Average cross-jurisdictional activity* means the average of cross-jurisdictional activity for the four most recent calendar quarters or, if the banking organization has not reported cross-jurisdictional activity for each of the four most recent calendar quarters, the cross-jurisdictional activity for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+(x) *Average off-balance sheet exposure* means the average of off-balance sheet exposure for the four most recent calendar quarters or, if the banking organization has not reported total exposure and total consolidated assets for each of the four most recent calendar quarters, the off-balance sheet exposure for the most recent calendar quarter or average of the most recent quarters, as applicable.
+
+(y) *Average total consolidated assets* means the average of total consolidated assets for the four most recent calendar quarters or, if the banking organization has not reported total consolidated assets for each of the four most recent calendar quarters, the total consolidated assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+(z) *Average total nonbank assets* means the average of total nonbank assets for the four most recent calendar quarters or, if the banking organization has not reported total nonbank assets for each of the four most recent calendar quarters, the total nonbank assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+(aa) *Average weighted short-term wholesale funding* means the average of weighted short-term wholesale funding for each of the four most recent calendar quarters or, if the banking organization has not reported weighted short-term wholesale funding for each of the four most recent calendar quarters, the weighted short-term wholesale funding for the most recent quarter or average of the most recent calendar quarters, as applicable.
+
+(bb) *Banking organization.* Banking organization means a covered savings and loan holding company that is:
+
+(1) Incorporated in or organized under the laws of the United States or any State; and
+
+(2) Not a consolidated subsidiary of a covered savings and loan holding company that is incorporated in or organized under the laws of the United States or any State.
+
+(cc) *Category II savings and loan holding company* means a covered savings and loan holding company identified as a Category II banking organization pursuant to § 238.10.
+
+(dd) *Category III savings and loan holding company* means a covered savings and loan holding company identified as a Category III banking organization pursuant to § 238.10.
+
+(ee) *Category IV savings and loan holding company* means a covered savings and loan holding company identified as a Category IV banking organization pursuant to § 238.10.
+
+(ff) *Covered savings and loan holding company* means a savings and loan holding company other than:
+
+(1) A top-tier savings and loan holding company that is:
+
+(i) A grandfathered unitary savings and loan holding company as defined in section 10(c)(9)(C) of the Home Owners' Loan Act (12 U.S.C. 1461 *et seq.*); and
+
+(ii) As of June 30 of the previous calendar year, derived 50 percent or more of its total consolidated assets or 50 percent of its total revenues on an enterprise-wide basis (as calculated under GAAP) from activities that are not financial in nature under section 4(k) of the Bank Holding Company Act (12 U.S.C. 1843(k));
+
+(2) A top-tier depository institution holding company that is an insurance underwriting company; or
+
+(3)(i) A top-tier depository institution holding company that, as of June 30 of the previous calendar year, held 25 percent or more of its total consolidated assets in subsidiaries that are insurance underwriting companies (other than assets associated with insurance for credit risk); and
+
+(ii) For purposes of paragraph (ff)(3)(i) of this section, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board of Governors of the Federal Reserve System.
+
+(gg) *Cross-jurisdictional activity.* The cross-jurisdictional activity of a banking organization is equal to the cross-jurisdictional activity of the banking organization as reported on the FR Y-15.
+
+(hh) *Foreign banking organization* has the same meaning as in § 211.21(o) of this chapter.
+
+(ii) *FR Y-9C* means the Consolidated Financial Statements for Holding Companies reporting form.
+
+(jj) *FR Y-9LP* means the Parent Company Only Financial Statements of Large Holding Companies.
+
+(kk) *FR Y-15* means the Systemic Risk Report.
+
+(ll) *GAAP* means generally accepted accounting principles as used in the United States.
+
+(mm) *Off-balance sheet exposure.* The off-balance sheet exposure of a banking organization is equal to:
+
+(1) The total exposure of the banking organization, as reported by the banking organization on the FR Y-15; minus
+
+(2) The total consolidated assets of the banking organization for the same calendar quarter.
+
+(nn) *State* means any state, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+
+(oo) *Total consolidated assets.* Total consolidated assets of a banking organization are equal to its total consolidated assets calculated based on the average of the balances as of the close of business for each day for the calendar quarter or an average of the balances as of the close of business on each Wednesday during the calendar quarter, as reported on the FR Y-9C.
+
+(pp) *Total nonbank assets.* Total nonbank assets of a banking organization is equal to the total nonbank assets of such banking organization, as reported on the FR Y-9LP.
+
+(qq) *U.S. government agency* means an agency or instrumentality of the United States whose obligations are fully and explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the United States.
+
+(rr) *U.S. government-sponsored enterprise* means an entity originally established or chartered by the U.S. government to serve public purposes specified by the U.S. Congress, but whose obligations are not explicitly guaranteed by the full faith and credit of the United States.
+
+(ss) *Weighted short-term wholesale funding* is equal to the weighted short-term wholesale funding of a banking organization, as reported on the FR Y-15.
+
+[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 59076, Nov. 1, 2019]

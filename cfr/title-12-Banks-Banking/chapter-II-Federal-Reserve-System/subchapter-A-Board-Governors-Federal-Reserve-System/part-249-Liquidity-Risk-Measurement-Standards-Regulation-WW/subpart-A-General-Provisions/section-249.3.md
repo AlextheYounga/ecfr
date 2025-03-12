@@ -1,24 +1,124 @@
 ##### § 249.3 Definitions. #####
 
-Link to an amendment published at 84 FR 59272, Nov. 1, 2019.
-
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to a Board-regulated institution that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the Board-regulated institution is also a consolidated subsidiary.
 
 *Asset exchange* means a transaction in which, as of the calculation date, the counterparties have previously exchanged non-cash assets, and have each agreed to return such assets to each other at a future date. Asset exchanges do not include secured funding and secured lending transactions.
 
+*Average weighted short-term wholesale funding* means the average of the weighted short-term wholesale funding for each of the four most recent calendar quarters as reported quarterly on the FR Y-15 or, if the Board-regulated institution has not filed the FR Y-15 for each of the four most recent calendar quarters, for the most recent quarter or averaged over the most recent quarters, as applicable.
+
 *Bank holding company* is defined in section 2 of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1841 *et seq.*).
 
 *Board* means the Board of Governors of the Federal Reserve System.
 
-*Board-regulated institution* means a state member bank, covered depository institution holding company, or covered nonbank company.
+*Board-regulated institution* means a state member bank, covered depository institution holding company, U.S. intermediate holding company, or covered nonbank company.
 
 *Brokered deposit* means any deposit held at the Board-regulated institution that is obtained, directly or indirectly, from or through the mediation or assistance of a deposit broker as that term is defined in section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)), and includes a reciprocal brokered deposit and a brokered sweep deposit.
 
 *Brokered sweep deposit* means a deposit held at the Board-regulated institution by a customer or counterparty through a contractual feature that automatically transfers to the Board-regulated institution from another regulated financial company at the close of each business day amounts identified under the agreement governing the account from which the amount is being transferred.
 
-*Calculation date* means any date on which a Board-regulated institution calculates its liquidity coverage ratio under § 249.0.
+*Calculation date* means, for purposes of subparts A through J of this part, any date on which a Board-regulated institution calculates its liquidity coverage ratio under § 249.10.
+
+*Call Report* means the Consolidated Reports of Condition and Income.
+
+*Category II Board-regulated institution* means:
+
+(1) A covered depository institution holding company that is identified as a Category II banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10;
+
+(2) A U.S. intermediate holding company that is identified as a Category II banking organization pursuant to 12 CFR 252.5;
+
+(3)(i) A state member bank that:
+
+(A) Is a consolidated subsidiary of:
+
+(*1*) A company described in paragraph (1) or (2) of this definition; or
+
+(*2*) A depository institution that meets the criteria in paragraph (4)(ii)(A) or (B) of this definition; and
+
+(B) That has total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $10 billion or more.
+
+(ii) If the state member bank has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable. After meeting the criteria under this paragraph (3), a state member bank continues to be a Category II Board-regulated institution until the state member bank has less than $10 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters, or the state member bank is no longer a consolidated subsidiary of a company described in paragraph (3)(i)(A)(*1*) or (*2*) of this definition; or
+
+(4) A state member bank that:
+
+(i) Is not a subsidiary of a depository institution holding company; and
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the depository institution's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $700 billion or more. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the depository institution's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, of $100 billion or more but less than $700 billion. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets means its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable; and
+
+(*2*) Cross-jurisdictional activity, calculated based on the average of its cross-jurisdictional activity for the four most recent calendar quarters, of $75 billion or more. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form.
+
+(iii) After meeting the criteria in paragraphs (4)(i) and (ii) of this definition, a state member bank continues to be a Category II Board-regulated institution until the state member bank:
+
+(A)(*1*) Has less than $700 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; and
+
+(*2*) Has less than $75 billion in cross-jurisdictional activity for each of the four most recent calendar quarters. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form;
+
+(B) Has less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; or
+
+(C) Is a GSIB depository institution.
+
+*Category III Board-regulated institution* means:
+
+(1) A covered depository institution holding company that is identified as a Category III banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable;
+
+(2) A U.S. intermediate holding company that is identified as a Category III banking organization pursuant to 12 CFR 252.5;
+
+(3)(i) A state member bank that is:
+
+(A) A consolidated subsidiary of:
+
+(*1*) A company described in paragraph (1) or (2) of this definition; or
+
+(*2*) A depository institution that meets the criteria in paragraph (4)(ii)(A) or (B) of this definition; and
+
+(B) Has total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $10 billion or more.
+
+(ii) If the state member bank has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets means its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable. After meeting the criteria under this paragraph (3), a state member bank continues to be a Category III Board-regulated institution until the state member bank has less than $10 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters, or the state member bank is no longer a consolidated subsidiary of a company described in paragraph (3)(i)(A)(*1*) or (*2*) of this definition; or
+
+(4) A state member bank that:
+
+(i) Is not a depository institution holding company; and
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the depository institution's total consolidated assets in the four most recent quarters as reported on the most recent Call Report, equal to $250 billion or more. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets means its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the depository institution's total consolidated assets in the four most recent calendar quarters as reported on the most recent Call Report, of $100 billion or more but less than $250 billion. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets means its total consolidated assets, as reported on the Call Report, for the most recent quarter or the average of the most recent quarters, as applicable; and
+
+(*2*) At least one of the following in paragraphs (4)(ii)(B)(*2*)(*i*) through (*iii*) of this definition, each measured as the average of the four most recent calendar quarters, or if the depository institution has not filed the FR Y-9LP or equivalent reporting form, Call Report, or FR Y-15 or equivalent reporting form, as applicable, for each of the four most recent calendar quarters, for the most recent quarter or the average of the most recent quarters, as applicable:
+
+(*i*) Total nonbank assets, calculated in accordance with instructions to the FR Y-9LP or equivalent reporting form, equal to $75 billion or more;
+
+(*ii*) Off-balance sheet exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the depository institution, as reported on the Call Report, equal to $75 billion or more; or
+
+(*iii*) Weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, equal to $75 billion or more.
+
+(iii) After meeting the criteria in paragraphs (4)(i) and (ii) of this definition, a state member bank continues to be a Category III Board-regulated institution until the state member bank:
+
+(A)(*1*) Has less than $250 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters;
+
+(*2*) Has less than $75 billion in total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP or equivalent reporting form, for each of the four most recent calendar quarters;
+
+(*3*) Has less than $75 billion in off-balance sheet exposure for each of the four most recent calendar quarters. Off-balance sheet exposure is a state member bank's total exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the state member bank, as reported on the Call Report; and
+
+(*4*) Has less than $75 billion in weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, for each of the four most recent calendar quarters;
+
+(B) Has less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters;
+
+(C) Is a Category II Board-regulated institution; or
+
+(D) Is a GSIB depository institution.
+
+*Category IV Board-regulated institution* means:
+
+(1) A covered depository institution holding company that is identified as a Category IV banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable; or
+
+(2) A U.S. intermediate holding company that is identified as a Category IV banking organization pursuant to 12 CFR 252.5.
 
 *Client pool security* means a security that is owned by a customer of the Board-regulated institution that is not an asset of the Board-regulated institution, regardless of a Board-regulated institution's hypothecation rights with respect to the security.
 
@@ -46,13 +146,15 @@ For the purposes of this part:
 
 (i) A grandfathered unitary savings and loan holding company as defined in section 10(c)(9)(A) of the Home Owners' Loan Act (12 U.S.C. 1461 *et seq.*); and
 
-(ii) As of June 30 of the previous calendar year, derived 50 percent or more of its total consolidated assets or 50 percent of its total revenues on an enterprise-wide basis (as calculated under GAAP) from activities that are not financial in nature under section 4(k) of the Bank Holding Company Act (12 U.S.C. 1842(k));
+(ii) As of June 30 of the previous calendar year, derived 50 percent or more of its total consolidated assets or 50 percent of its total revenues on an enterprise-wide basis (as calculated under GAAP) from activities that are not financial in nature under section 4(k) of the Bank Holding Company Act (12 U.S.C. 1843(k));
 
-(2) A top-tier depository institution holding company that is an insurance underwriting company; or
+(2) A top-tier depository institution holding company that is an insurance underwriting company;
 
 (3)(i) A top-tier depository institution holding company that, as of June 30 of the previous calendar year, held 25 percent or more of its total consolidated assets in subsidiaries that are insurance underwriting companies (other than assets associated with insurance for credit risk); and
 
-(ii) For purposes of paragraph 3(i) of this definition, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board of Governors of the Federal Reserve System.
+(ii) For purposes of paragraph (3)(i) of this definition, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board of Governors of the Federal Reserve System; or
+
+(4) A U.S. intermediate holding company.
 
 *Covered nonbank company* means a designated company that the Board of Governors of the Federal Reserve System has required by rule or order to comply with the requirements of 12 CFR part 249.
 
@@ -82,7 +184,15 @@ For the purposes of this part:
 
 *Foreign withdrawable reserves* means a Board-regulated institution's balances held by or on behalf of the Board-regulated institution at a foreign central bank that are not subject to restrictions on the Board-regulated institution's ability to use the reserves.
 
+*FR Y-9LP* means the Parent Company Only Financial Statements for Large Holding Companies.
+
+*FR Y-15* means the Systemic Risk Report.
+
 *GAAP* means generally accepted accounting principles as used in the United States.
+
+*Global systemically important BHC* means a bank holding company identified as a global systemically important BHC pursuant to 12 CFR 217.402.
+
+*GSIB depository institution* means a depository institution that is a consolidated subsidiary of a global systemically important BHC and has total consolidated assets equal to $10 billion or more, calculated based on the average of the depository institution's total consolidated assets for the four most recent calendar quarters as reported on the Call Report. If the depository institution has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets means its total consolidated assets, as reported on the Call Report, for the most recent calendar quarter or the average of the most recent calendar quarters, as applicable. After meeting the criteria under this definition, a depository institution continues to be a GSIB depository institution until the depository institution has less than $10 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters, or the depository institution is no longer a consolidated subsidiary of a global systemically important BHC.
 
 *High-quality liquid asset (HQLA)* means an asset that is a level 1 liquid asset, level 2A liquid asset, or level 2B liquid asset, in accordance with the criteria set forth in § 249.20.
 
@@ -188,7 +298,7 @@ For the purposes of this part:
 
 (1) A depository institution holding company or designated company;
 
-(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) Web site,2 provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under 12 CFR part 249;
+(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) website,2 provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under this part;
 
 2*http://www.ffiec.gov/nicpubweb/nicweb/NicHome.aspx.*
 
@@ -196,13 +306,15 @@ For the purposes of this part:
 
 (4) An insurance company;
 
-(5) A securities holding company as defined in section 618 of the Dodd-Frank Act (12 U.S.C. 1850a); broker or dealer registered with the SEC under section 15 of the Securities Exchange Act (15 U.S.C. 78o); futures commission merchant as defined in section 1a of the Commodity Exchange Act of 1936 (7 U.S.C. 1 *et seq.*); swap dealer as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a); or security-based swap dealer as defined in section 3 of the Securities Exchange Act (15 U.S.C. 78c);
+(5) A securities holding company as defined in section 618 of the Dodd-Frank Act (12 U.S.C. 1850a); broker or dealer registered with the SEC under section 15 of the Securities Exchange Act (15 U.S.C. 78o); futures commission merchant as defined in section 1a of the Commodity Exchange Act of 1936 (7 U.S.C. 1a); swap dealer as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a); or security-based swap dealer as defined in section 3 of the Securities Exchange Act (15 U.S.C. 78c);
 
-(6) A designated financial market utility, as defined in section 803 of the Dodd-Frank Act (12 U.S.C. 5462); and
+(6) A designated financial market utility, as defined in section 803 of the Dodd-Frank Act (12 U.S.C. 5462);
 
-(7) Any company not domiciled in the United States (or a political subdivision thereof) that is supervised and regulated in a manner similar to entities described in paragraphs (1) through (6) of this definition (e.g., a foreign banking organization, foreign insurance company, foreign securities broker or dealer or foreign financial market utility).
+(7) A U.S. intermediate holding company; and
 
-(8) A regulated financial company does not include:
+(8) Any company not domiciled in the United States (or a political subdivision thereof) that is supervised and regulated in a manner similar to entities described in paragraphs (1) through (7) of this definition (*e.g.,* a foreign banking organization, foreign insurance company, foreign securities broker or dealer or foreign financial market utility).
+
+(9) A regulated financial company does not include:
 
 (i) U.S. government-sponsored enterprises;
 
@@ -270,6 +382,8 @@ For the purposes of this part:
 
 (2) The depositor that holds the account has another established relationship with the Board-regulated institution such as another deposit account, a loan, bill payment services, or any similar service or product provided to the depositor that the Board-regulated institution demonstrates to the satisfaction of the Board would make deposit withdrawal highly unlikely during a liquidity stress event.
 
+*State* means any state, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+
 *State member bank* means a state bank that is a member of the Federal Reserve System.
 
 *Structured security* means a security whose cash flow characteristics depend upon one or more indices or that has embedded forwards, options, or other derivatives or a security where an investor's investment return and the issuer's payment obligations are contingent on, or highly sensitive to, changes in the value of underlying assets, indices, interest rates, or cash flows.
@@ -280,10 +394,12 @@ For the purposes of this part:
 
 *U.S. government-sponsored enterprise* means an entity established or chartered by the Federal government to serve public purposes specified by the United States Congress, but whose debt obligations are not explicitly guaranteed by the full faith and credit of the United States government.
 
+*U.S. intermediate holding company* means a top-tier company that is required to be established pursuant to 12 CFR 252.153.
+
 *Unsecured wholesale funding* means a liability or general obligation of the Board-regulated institution to a wholesale customer or counterparty that is not secured under applicable law by a lien on assets owned by the Board-regulated institution, including a wholesale deposit.
 
 *Wholesale customer or counterparty* means a customer or counterparty that is not a retail customer or counterparty.
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016; 82 FR 42919, Sept. 12, 2017; 83 FR 44455, Aug. 31, 2018]
+[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016; 82 FR 42919, Sept. 12, 2017; 83 FR 44455, Aug. 31, 2018; 84 FR 59272, Nov. 1, 2019]

@@ -1,6 +1,6 @@
 ##### § 324.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 59278, Nov. 1, 2019.Link to an amendment published at 84 FR 61802, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61802, Nov. 13, 2019.
 
 (a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
 
@@ -12,7 +12,7 @@ Link to an amendment published at 84 FR 59278, Nov. 1, 2019.Link to an amendment
 
 (4) A leverage ratio of 4 percent.
 
-(5) For advanced approaches FDIC-supervised institutions, a supplementary leverage ratio of 3 percent.
+(5) For advanced approaches FDIC-supervised institutions or, for Category III FDIC-supervised institutions, a supplementary leverage ratio of 3 percent.
 
 (6) For state savings associations, a tangible capital ratio of 1.5 percent.
 
@@ -30,7 +30,7 @@ Link to an amendment published at 84 FR 59278, Nov. 1, 2019.Link to an amendment
 
 (ii) As of January 1, 2015, a state savings association's tangible capital ratio is the ratio of the state savings association's core capital (tier 1 capital) to total assets. For purposes of this paragraph, the term total assets shall have the meaning provided in § 324.401(g).
 
-(c) *Advanced approaches capital ratio calculations.* An advanced approaches FDIC-supervised institution that has completed the parallel run process and received notification from the FDIC pursuant to § 324.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches FDIC-supervised institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the FDIC-supervised institution meets any of the criteria in § 324.100(b)(1).
+(c) *Advanced approaches and Category III capital ratio calculations.* An advanced approaches FDIC-supervised institution that has completed the parallel run process and received notification from the FDIC pursuant to § 324.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches FDIC-supervised institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the FDIC-supervised institution meets any of the criteria in § 324.100(b)(1). A Category III FDIC-supervised institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the FDIC-supervised institution is identified as a Category III FDIC-supervised institution.
 
 (1) *Common equity tier 1 capital ratio.* The FDIC-supervised institution's common equity tier 1 capital ratio is the lower of:
 
@@ -54,7 +54,7 @@ Link to an amendment published at 84 FR 59278, Nov. 1, 2019.Link to an amendment
 
 (B) An advanced approaches FDIC-supervised institution must add to its total capital any eligible credit reserves that exceed the FDIC-supervised institution's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the FDIC-supervised institution's credit risk-weighted assets.
 
-(4) *Supplementary leverage ratio.* (i) An advanced approaches FDIC-supervised institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
+(4) *Supplementary leverage ratio.* (i) An advanced approaches FDIC-supervised institution's or a Category III FDIC-supervised institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter of which is calculated as the sum of:
 
 (A) The mean of the on-balance sheet assets calculated as of each day of the reporting quarter; and
 
@@ -154,4 +154,4 @@ E\* = max {0, [ΣEi - ΣCi] −}
 
 (B) The FDIC, in its discretion, may approve an application pursuant to the Federal Deposit Insurance Act where it is required to consider the adequacy of capital or the financial resources of the insured depository institution where it finds that the applicant has committed to and is in compliance with a reasonable plan to meet its minimum leverage capital requirements within a reasonable period of time.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 35270, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019]

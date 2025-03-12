@@ -1,6 +1,6 @@
 ##### § 217.2 Definitions. #####
 
-Link to an amendment published at 84 FR 59270, Nov. 1, 2019.Link to an amendment published at 84 FR 68032, Dec. 13, 2019.
+Link to an amendment published at 84 FR 68032, Dec. 13, 2019.
 
 As used in this part:
 
@@ -57,6 +57,80 @@ As used in this part:
 *Call Report* means Consolidated Reports of Condition and Income.
 
 *Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of a Board-regulated institution as determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
+
+*Category II Board-regulated institution* means:
+
+(1) A depository institution holding company that is identified as a Category II banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable;
+
+(2) A U.S. intermediate holding company that is identified as a Category II banking organization pursuant to 12 CFR 252.5;
+
+(3) A state member bank that is a subsidiary of a company identified in paragraph (1) of this definition; or
+
+(4) A state member bank that:
+
+(i) Is not a subsidiary of a depository institution holding company; and
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $700 billion or more. If the state member bank has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, of $100 billion or more but less than $700 billion. If the state member bank has not filed the Call Report for each of the four most recent quarters, total consolidated assets is based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; and
+
+(*2*) Cross-jurisdictional activity, calculated based on the average of its cross-jurisdictional activity for the four most recent calendar quarters, of $75 billion or more. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form.
+
+(iii) After meeting the criteria in paragraph (4)(i) of this section, a state member bank continues to be a Category II Board-regulated institution until the state member bank:
+
+(A) Has:
+
+(*1*) Less than $700 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; and
+
+(*2*) Less than $75 billion in cross-jurisdictional activity for each of the four most recent calendar quarters. Cross-jurisdictional activity is the sum of cross-jurisdictional claims and cross-jurisdictional liabilities, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form; or
+
+(B) Has less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters.
+
+*Category III Board-regulated institution* means:
+
+(1) A depository institution holding company that is identified as a Category III banking organization pursuant to 12 CFR 252.5 or 12 CFR 238.10, as applicable;
+
+(2) A U.S. intermediate holding company that is identified as a Category III banking organization pursuant to 12 CFR 252.5;
+
+(3) A state member bank that is a subsidiary of a company identified in paragraph (1) of this definition;
+
+(4) A depository institution that:
+
+(i) Is not a subsidiary of a depository institution holding company;
+
+(ii)(A) Has total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, equal to $250 billion or more. If the state member bank has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; or
+
+(B) Has:
+
+(*1*) Total consolidated assets, calculated based on the average of the state member bank's total consolidated assets for the four most recent calendar quarters as reported on the Call Report, of $100 billion or more but less than $250 billion. If the state member bank has not filed the Call Report for each of the four most recent calendar quarters, total consolidated assets is calculated based its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters, as applicable; and
+
+(*2*) At least one of the following in paragraphs (4)(i)(B)(*2*)(*i*) through (*iii*) of this definition, each calculated as the average of the four most recent calendar quarters:
+
+(*i*) Total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP or equivalent reporting form, equal to $75 billion or more;
+
+(*ii*) Off-balance sheet exposure equal to $75 billion or more. Off-balance sheet exposure is a state member bank's total exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the state member bank, as reported on the Call Report; or
+
+(*iii*) Weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, equal to $75 billion or more; or
+
+(iii) [Reserved]
+
+(iv) After meeting the criteria in paragraph (4)(ii) of this definition, a state member bank continues to be a Category III Board-regulated institution until the state member bank:
+
+(A) Has:
+
+(*1*) Less than $250 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters;
+
+(*2*) Less than $75 billion in total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP or equivalent reporting form, for each of the four most recent calendar quarters;
+
+(*3*) Less than $75 billion in weighted short-term wholesale funding, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, for each of the four most recent calendar quarters; and
+
+(*4*) Less than $75 billion in off-balance sheet exposure for each of the four most recent calendar quarters. Off-balance sheet exposure is a state member bank's total exposure, calculated in accordance with the instructions to the FR Y-15 or equivalent reporting form, minus the total consolidated assets of the state member bank, as reported on the Call Report; or
+
+(B) Has less than $100 billion in total consolidated assets, as reported on the Call Report, for each of the four most recent calendar quarters; or
+
+(C) Is a Category II Board-regulated institution.
 
 *Central counterparty (CCP)* means a counterparty (for example, a clearing house) that facilitates trades between counterparties in one or more financial markets by either guaranteeing trades or novating contracts.
 
@@ -488,6 +562,10 @@ As used in this part:
 
 *Forward agreement* means a legally binding contractual obligation to purchase assets with certain drawdown at a specified future date, not including commitments to make residential mortgage loans or forward foreign exchange contracts.
 
+*FR Y-9LP* means the Parent Company Only Financial Statements for Large Holding Companies.
+
+*FR Y-15* means the Systemic Risk Report.
+
 *GAAP* means generally accepted accounting principles as used in the United States.
 
 *Gain-on-sale* means an increase in the equity capital of a Board-regulated institution (as reported on [Schedule RC of the Call Report or Schedule HC of the FR Y-9C]) resulting from a traditional securitization (other than an increase in equity capital resulting from the Board-regulated institution's receipt of cash in connection with the securitization or reporting of a mortgage servicing asset on [Schedule RC of the Call Report or Schedule HC of the FRY-9C]).
@@ -898,8 +976,10 @@ As used in this part:
 
 *U.S. Government agency* means an instrumentality of the U.S. Government whose obligations are fully and explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. Government.
 
+*U.S. intermediate holding company* means the company that is required to be established or designated pursuant to 12 CFR 252.153.
+
 *Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more exposures could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 42918, Sept. 12, 2017; 84 FR 4241, Feb. 14, 2019; 84 FR 35259, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 42918, Sept. 12, 2017; 84 FR 4241, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59270, Nov. 1, 2019]

@@ -2,7 +2,7 @@
 
 As prescribed in 211.275-3, use the following clause:
 
-Passive Radio Frequency Identification (MAR 2018)
+Passive Radio Frequency Identification (DEC 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -81,7 +81,7 @@ Passive Radio Frequency Identification (MAR 2018)
 
 (3) Ensure that the passive tag is affixed at the appropriate location on the specific level of packaging, in accordance with MIL-STD-129 (Section 4.9.2) tag placement specifications.
 
-(d) *Data syntax and standards.* The Contractor shall encode an approved RFID tag using the instructions provided in the EPCTM Tag Data Standards in effect at the time of contract award. The EPCTM Tag Data Standards are available at *http://www.epcglobalinc.org/standards/.*
+(d) *Data syntax and standards.* The Contractor shall encode an approved RFID tag using the instructions provided in the EPCTM Tag Data Standards in effect at the time of contract award. The EPCTM Tag Data Standards are available at *http://www.gs1.org/epc-rfid”*.
 
 (1) If the Contractor is an EPCglobalTM subscriber and possesses a unique EPCTM company prefix, the Contractor may use any of the identifiers and encoding instructions described in the most recent EPCTM Tag Data Standards document to encode tags.
 
@@ -91,4 +91,4 @@ Passive Radio Frequency Identification (MAR 2018)
 
 (e) *Advance shipment notice.* The Contractor shall use Wide Area WorkFlow (WAWF), as required by DFARS 252.232-7003, Electronic Submission of Payment Requests, to electronically submit advance shipment notice(s) with the RFID tag ID(s) (specified in paragraph (d) of this clause) in advance of the shipment in accordance with the procedures at *https://wawf.eb.mil/.*
 
-(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016; 82 FR 61481, Dec. 28, 2017; 83 FR 12681, Mar. 23, 2018]
+(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016; 82 FR 61481, Dec. 28, 2017; 83 FR 12681, Mar. 23, 2018; 84 FR 72563, Dec. 31, 2019]

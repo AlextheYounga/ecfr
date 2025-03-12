@@ -1,16 +1,6 @@
 ##### 225.7018-4 Nonavailability determination. #####
 
-(a) *Individual nonavailability determinations.* (1) The following officials are authorized, without power of redelegation, to make a nonavailability determination described in 225.7018-3(d) on an individual basis (*i.e.,* applies to only one contract):
-
-(i) The Under Secretary of Defense (Acquisition and Sustainment).
-
-(ii) The Secretary of the Army.
-
-(iii) The Secretary of the Navy.
-
-(iv) The Secretary of the Air Force.
-
-(v) The Director of the Defense Logistics Agency.
+(a) *Individual nonavailability determinations.*(1) The head of the contracting activity is authorized to make a nonavailability determination described in 225.7018-3(d) on an individual basis (*i.e.,* applies to only one contract).
 
 (2) The supporting documentation for the determination shall include -
 
@@ -18,9 +8,7 @@
 
 (ii) A written certification by the requiring activity that describes, with specificity, why such alternatives are unacceptable.
 
-(3) Defense agencies other than the Defense Logistics Agency shall follow the procedures at PGI 225.7018-4(a)(3) when submitting a request for a nonavailability determination.
-
-(4) Provide to USD(A&S) DASD (Industrial Policy), in accordance with the procedures at PGI 225.7018-4(a)(4) -
+(3) Provide to USD(A&S) DASD (Industrial Policy), in accordance with the procedures at PGI 225.7018-4(a)(3) -
 
 (i) A copy of individual nonavailability determinations with supporting documentation; and
 
@@ -41,3 +29,5 @@
 (ii) May consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information; and
 
 (iii) Will ensure that any such nonavailability determination and the rationale for the determination are made publicly available to the maximum extent consistent with the protection of national security and confidential business information.
+
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019]

@@ -1,6 +1,6 @@
 ##### § 3.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 59264, Nov. 1, 2019.Link to an amendment published at 84 FR 61792, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61792, Nov. 13, 2019.
 
 (a) *Minimum capital requirements.* A national bank or Federal savings association must maintain the following minimum capital ratios:
 
@@ -12,7 +12,7 @@ Link to an amendment published at 84 FR 59264, Nov. 1, 2019.Link to an amendment
 
 (4) A leverage ratio of 4 percent.
 
-(5) For advanced approaches national banks or Federal savings associations, a supplementary leverage ratio of 3 percent.
+(5) For advanced approaches national banks and Federal savings associations, and for Category III national banks and Federal savings associations, a supplementary leverage ratio of 3 percent.
 
 (6) For Federal savings associations, a tangible capital ratio of 1.5 percent.
 
@@ -28,7 +28,7 @@ Link to an amendment published at 84 FR 59264, Nov. 1, 2019.Link to an amendment
 
 (5) *Federal savings association tangible capital ratio.* A Federal savings association's tangible capital ratio is the ratio of the Federal savings association's core capital (tier 1 capital) to average total assets as calculated under this subpart B. For purposes of this paragraph (b)(5), the term “total assets” means “total assets” as defined in part 6, subpart A of this chapter, subject to subpart G of this part.
 
-(c) *Advanced approaches capital ratio calculations.* An advanced approaches national bank or Federal savings association that has completed the parallel run process and received notification from the OCC pursuant to § 3.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches national bank or Federal savings association must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the national bank or Federal savings association meets any of the criteria in § 3.100(b)(1).
+(c) *Advanced approaches and Category III capital ratio calculations.* An advanced approaches national bank or Federal savings association that has completed the parallel run process and received notification from the OCC pursuant to § 3.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches national bank or Federal savings association must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the national bank or Federal savings association institution meets any of the criteria in § 3.100(b)(1). A Category III national bank or Federal savings association must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the national bank or Federal savings association is identified as a Category III national bank or Federal savings association.
 
 (1) *Common equity tier 1 capital ratio.* The national bank's or Federal savings association's common equity tier 1 capital ratio is the lower of:
 
@@ -52,7 +52,7 @@ Link to an amendment published at 84 FR 59264, Nov. 1, 2019.Link to an amendment
 
 (B) An advanced approaches national bank or Federal savings association must add to its total capital any eligible credit reserves that exceed the national bank's or Federal savings association's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the national bank's or Federal savings association's credit risk-weighted assets.
 
-(4) *Supplementary leverage ratio.* (i) An advanced approaches national bank's or Federal savings association's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
+(4) *Supplementary leverage ratio.* (i) An advanced approaches national bank's or Federal savings association's or a Category III national bank's or Federal savings association's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter of which is calculated as the sum of:
 
 (A) The mean of the on-balance sheet assets calculated as of each day of the reporting quarter; and
 
@@ -138,4 +138,4 @@ E\* = max {0, [ΣEi − ΣCi]}
 
 (2) A national bank or Federal savings association must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 35248, July 22, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59264, Nov. 1, 2019]

@@ -1,183 +1,147 @@
-##### § 381.4 Informational content of a resolution plan. #####
+##### § 381.4 Resolution plan required. #####
 
-(a) *In general* (1) *Domestic covered companies.* Except as otherwise provided in paragraph (a)(3) of this section, the resolution plan of a covered company that is organized or incorporated in the United States shall include the information specified in paragraphs (b) through (i) of this section with respect to the subsidiaries and operations that are domiciled in the United States as well as the foreign subsidiaries, offices, and operations of the covered company.
+(a) *Biennial filers*—(1) *Group members.* Biennial filer means:
 
-(2) *Foreign-based covered companies* Except as otherwise provided in paragraph (a)(3) of the section, the resolution plan of a covered company that is organized or incorporated in a jurisdiction other than the United States (other than a bank holding company) or that is a foreign banking organization shall include:
+(i) Any global systemically important BHC; and
 
-(i) The information specified in paragraphs (b) through (i) of this section with respect to the subsidiaries, branches and agencies, and critical operations and core business lines, as applicable, that are domiciled in the United States or conducted in whole or material part in the United States. With respect to the information specified in paragraph (g) of this section, the resolution plan of a foreign-based covered company shall also identify, describe in detail, and map to legal entity the interconnections and interdependencies among the U.S. subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company and any foreign-based affiliate; and
+(ii) Any nonbank financial company supervised by the Board that has not been jointly designated a triennial full filer by the Board and Corporation under paragraph (a)(2) of this section or that has been jointly re-designated a biennial filer by the Board and the Corporation under paragraph (a)(2) of this section.
 
-(ii) A detailed explanation of how resolution planning for the subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company that are domiciled in the United States or conducted in whole or material part in the United States is integrated into the foreign-based covered company's overall resolution or other contingency planning process.
+(2) *Nonbank financial companies.* The Board and the Corporation may jointly designate a nonbank financial company supervised by the Board as a triennial full filer in their discretion, taking into account facts and circumstances that each of the Board and the Corporation in its discretion determines to be relevant. The Board and the Corporation may in their discretion jointly re-designate as a biennial filer a nonbank financial company that the Board and the Corporation had previously designated as a triennial filer, taking into account facts and circumstances that each of the Board and the Corporation in its discretion determines to be relevant.
 
-(3) *Tailored resolution plan* (i) *Eligible covered company.* Paragraph (a)(3)(ii) of this section applies to any covered company that as of December 31 of the calendar year prior to the date its resolution plan is required to be submitted under this part -
+(3) *Frequency of submission.* Biennial filers shall each submit a resolution plan to the Board and the Corporation every two years.
 
-(A) Has less than $100 billion in total nonbank assets (or, in the case of a covered company that is a foreign-based company, in total U.S. nonbank assets); and
+(4) *Submission date.* Biennial filers shall submit their resolution plans on or before July 1 of each year in which a resolution plan is due.
 
-(B) The total insured depository institution assets of which comprise 85 percent or more of the covered company's total consolidated assets (or, in the case of a covered company that is a foreign-based company, the assets of the U.S. insured depository institution operations, branches, and agencies of which comprise 85 percent or more of such covered company's U.S. total consolidated assets).
+(5) *Type of resolution plan required to be submitted.* Biennial filers shall alternate submitting a full resolution plan and a targeted resolution plan.
 
-(ii) *Tailored resolution plan elements.* A covered company described in paragraph (a)(3)(i) of this section may file a resolution plan that is limited to the following items -
+(6) *New covered companies that are biennial filers.* A company that becomes a covered company and a biennial filer after [effective date of final rule] shall submit a full resolution plan on or before the next date by which the other biennial filers are required to submit resolution plans pursuant to paragraph (a)(4) of this section that occurs no earlier than 12 months after the date as of which the company became a covered company. The company's subsequent resolution plans shall be of the type required to be submitted by the other biennial filers.
 
-(A) An executive summary, as specified in paragraph (b) of this section;
+(b) *Triennial full filers*—(1) *Group members.* Triennial full filer means:
 
-(B) The information specified in paragraphs (c) through (f) and paragraph (h) of this section, but only with respect to the covered company and its nonbanking material entities and operations;
+(i) Any category II banking organization;
 
-(C) The information specified in paragraphs (g) and (i) of this section with respect to the covered company and all of its insured depository institutions (or, in the case of a covered company that is a foreign-based company, the U.S. insured depository institutions, branches, and agencies) and nonbank material entities and operations. The interconnections and interdependencies identified pursuant to (g) of this section shall be included in the analysis provided pursuant to paragraph (c) of this section.
+(ii) Any category III banking organization; and
 
-(iii) *Notice.* A covered company that meets the requirements of paragraph (a)(3)(i) of this section and that intends to submit a resolution plan pursuant to this paragraph (a)(3), shall provide the Board and Corporation with written notice of such intent and its eligibility under paragraph (a)(3)(i) no later than 270 days prior to the date on which the covered company is required to submit its resolution plan. Within 90 of receiving such notice, the Board and Corporation may jointly determine that the covered company must submit a resolution plan that meets some or all of the requirements as set forth in paragraph (a)(1) or (2) of this section, as applicable.
+(iii) Any nonbank financial company supervised by the Board that is jointly designated a triennial full filer by the Board and Corporation under paragraph (a)(2) of this section.
 
-(4) *Required and prohibited assumptions.* In preparing its plan for rapid and orderly resolution in the event of material financial distress or failure required by this part, a covered company shall:
+(2) *Frequency of submission.* Triennial full filers shall each submit a resolution plan to the Board and the Corporation every three years.
 
-(i) Take into account that such material financial distress or failure of the covered company may occur under the baseline, adverse and severely adverse economic conditions provided to the covered company by the Board pursuant to 12 U.S.C. 5365(i)(1)(B); provided, however, a covered company may submit its initial resolution plan assuming the baseline conditions only, or, if a baseline scenario is not then available, a reasonable substitute developed by the covered company; and
+(3) *Submission date.* Triennial full filers shall submit their resolution plans on or before July 1 of each year in which a resolution plan is due.
 
-(ii) Not rely on the provision of extraordinary support by the United States or any other government to the covered company or its subsidiaries to prevent the failure of the covered company.
+(4) *Type of resolution plan required to be submitted.* Triennial full filers shall alternate submitting a full resolution plan and a targeted resolution plan.
 
-(b) *Executive summary.* Each resolution plan of a covered company shall include an executive summary describing:
+(5) *New covered companies that are triennial full filers.* A company that becomes a covered company and a triennial full filer after [effective date of final rule] shall submit a full resolution plan on or before the next date by which the other triennial full filers are required to submit resolution plans pursuant to paragraph (b)(3) of this section that occurs no earlier than 12 months after the date as of which the company became a covered company. The company's subsequent resolution plans shall be of the type required to be submitted by the other triennial full filers.
 
-(1) The key elements of the covered company's strategic plan for rapid and orderly resolution in the event of material financial distress at or failure of the covered company.
+(c) *Triennial reduced filers*—(1) *Group members.* Triennial reduced filer means any covered company that is not a global systemically important BHC, nonbank financial company supervised by the Board, category II banking organization, or category III banking organization.
 
-(2) Material changes to the covered company's resolution plan from the company's most recently filed resolution plan (including any notices following a material event or updates to the resolution plan).
+(2) *Frequency of submission.* Triennial reduced filers shall each submit a resolution plan to the Board and the Corporation every three years.
 
-(3) Any actions taken by the covered company since filing of the previous resolution plan to improve the effectiveness of the covered company's resolution plan or remediate or otherwise mitigate any material weaknesses or impediments to effective and timely execution of the resolution plan.
+(3) *Submission date.* Triennial reduced filers shall submit their resolution plans on or before July 1 of each year in which a resolution plan is due.
 
-(c) *Strategic analysis.* Each resolution plan shall include a strategic analysis describing the covered company's plan for rapid and orderly resolution in the event of material financial distress or failure of the covered company. Such analysis shall -
+(4) *Type of resolution plan required to be submitted.* Triennial reduced filers shall submit a reduced resolution plan.
 
-(1) Include detailed descriptions of the -
+(5) *New covered companies that are triennial reduced filers.* A company that becomes a covered company and a triennial reduced filer after December 31, 2019 shall submit a full resolution plan on or before the next date by which the other triennial reduced filers are required to submit resolution plans pursuant to paragraph (c)(3) of this section that occurs no earlier than 12 months after the date as of which the company became a covered company. The company's subsequent resolution plans shall be reduced resolution plans.
 
-(i) Key assumptions and supporting analysis underlying the covered company's resolution plan, including any assumptions made concerning the economic or financial conditions that would be present at the time the covered company sought to implement such plan;
+(d) *General*—(1) *Changing filing groups.* If a covered company that is a member of a filing group specified in paragraphs (a) through (c) of this section (“original group filer”) becomes a member of a different filing group specified in paragraphs (a) through (c) of this section (“new group filer”), then the covered company shall submit its next resolution plan as follows:
 
-(ii) Range of specific actions to be taken by the covered company to facilitate a rapid and orderly resolution of the covered company, its material entities, and its critical operations and core business lines in the event of material financial distress or failure of the covered company;
+(i) If the next date by which the original group filers are required to submit their next resolution plans is the same date by which the other new group filers are required to submit their next resolution plans and:
 
-(iii) Funding, liquidity and capital needs of, and resources available to, the covered company and its material entities, which shall be mapped to its critical operations and core business lines, in the ordinary course of business and in the event of material financial distress at or failure of the covered company;
+(A) That date is less than 12 months after the date as of which the covered company became a new group filer, the covered company shall submit its next resolution plan on or before that date. The resolution plan may be the type of resolution plan that the original group filers are required to submit on or before that date or the type of resolution plan that the other new group filers are required to submit on or before that date.
 
-(iv) Covered company's strategy for maintaining operations of, and funding for, the covered company and its material entities, which shall be mapped to its critical operations and core business lines;
+(B) That date is 12 months or more after the date as of which the covered company became a new group filer, the covered company shall submit on or before that date the type of resolution plan the other new group filers are required to submit on or before that date.
 
-(v) Covered company's strategy in the event of a failure or discontinuation of a material entity, core business line or critical operation, and the actions that will be taken by the covered company to prevent or mitigate any adverse effects of such failure or discontinuation on the financial stability of the United States; provided, however, if any such material entity is subject to an insolvency regime other than the Bankruptcy Code, a covered company may exclude that entity from its strategic analysis unless that entity either has $50 billion or more in total assets or conducts a critical operation; and
+(ii) If the next date by which the original group filers are required to submit their next resolution plans is different from the date by which the new group filers are required to submit their next resolution plans, the covered company shall submit its next resolution plan on or before the next date by which the other new group filers are required to submit a resolution plan that occurs no earlier than 12 months after the date as of which the covered company became a new group filer. The covered company shall submit the type of resolution plan that the other new group filers are required to submit on or before the date the covered company is required to submit its next resolution plan.
 
-(vi) Covered company's strategy for ensuring that any insured depository institution subsidiary of the covered company will be adequately protected from risks arising from the activities of any nonbank subsidiaries of the covered company (other than those that are subsidiaries of an insured depository institution);
+(iii) Notwithstanding paragraph (d)(1)(i) or (ii) of this section, any triennial reduced filer that becomes a biennial filer or a triennial full filer shall submit a full resolution plan on or before the next date by which the other new group filers are required to submit their next resolution plans that occurs no earlier than 12 months after the date as of which the covered company became a new group filer. After submitting a full resolution plan, the covered company shall submit, on or before the next date that the other new group filers are required to submit their next resolution plans, the type of resolution plan the other new group filers are required to submit on or before that date.
 
-(2) Identify the time period(s) the covered company expects would be needed for the covered company to successfully execute each material aspect and step of the covered company's plan;
+(2) *Altering submission dates.* Notwithstanding anything to the contrary in this part, the Board and Corporation may jointly determine that a covered company shall submit its resolution plan on or before a date other than as provided in paragraphs (a) through (c) or paragraph (d)(1) of this section. The Board and the Corporation shall provide a covered company with written notice of a determination under this paragraph (d)(2) no later than 12 months before the date by which the covered company is required to submit the resolution plan.
 
-(3) Identify and describe any potential material weaknesses or impediments to effective and timely execution of the covered company's plan;
+(3) *Authority to require interim updates.* The Board and the Corporation may jointly require that a covered company submit an update to a resolution plan submitted under this part, within a reasonable amount of time, as jointly determined by the Board and Corporation. The Board and the Corporation shall notify the covered company of its requirement to submit an update under this paragraph (d)(3) in writing, and shall specify the portions or aspects of the resolution plan the covered company shall update.
 
-(4) Discuss the actions and steps the covered company has taken or proposes to take to remediate or otherwise mitigate the weaknesses or impediments identified by the covered company, including a timeline for the remedial or other mitigatory action; and
+(4) *Notice of extraordinary events*—(i) *In general.* Each covered company shall provide the Board and the Corporation with a notice no later than 45 days after any material merger, acquisition of assets, or similar transaction or fundamental change to the covered company's resolution strategy. Such notice must describe the event and explain how the event affects the resolvability of the covered company. The covered company shall address any event with respect to which it has provided notice pursuant to this paragraph (d)(4)(i) in the following resolution plan submitted by the covered company.
 
-(5) Provide a detailed description of the processes the covered company employs for:
+(ii) *Exception.* A covered company shall not be required to submit a notice under paragraph (d)(4)(i) of this section if the date by which the covered company would be required to submit the notice under paragraph (d)(4)(i) of this section would be within 90 days before the date by which the covered company is required to submit a resolution plan under this section.
 
-(i) Determining the current market values and marketability of the core business lines, critical operations, and material asset holdings of the covered company;
+(5) *Authority to require a full resolution plan submission.* Notwithstanding anything to the contrary in this part, the Board and Corporation may jointly require a covered company to submit a full resolution plan instead of a targeted resolution plan or a reduced resolution plan that the covered company is otherwise required to submit under this section. The Board and the Corporation shall provide a covered company with written notice of a determination under this paragraph (d)(5) no later than 12 months before the date by which the covered company is required to submit the full resolution plan. The date on or before which a full resolution plan must be submitted under this paragraph (d)(5) will be the date by which the covered company would otherwise be required to submit its upcoming targeted resolution plan or reduced resolution plan under paragraphs (a) through (c), or (d)(1) or (2) of this section. The requirement to submit a full resolution plan under this paragraph (d)(5) does not alter the type of resolution plan the covered company will subsequently be required to submit under this section.
 
-(ii) Assessing the feasibility of the covered company's plans (including timeframes) for executing any sales, divestitures, restructurings, recapitalizations, or other similar actions contemplated in the covered company's resolution plan; and
+(6) *Waivers*—(i) *Authority to waive requirements.* The Board and the Corporation may jointly waive one or more of the resolution plan requirements of § 381.5, § 381.6, or § 381.7 for one or more covered companies for any number of resolution plan submissions. A request pursuant to paragraph (d)(6)(ii) of this section is not required for the Board and Corporation to exercise their authority under this paragraph (d)(6)(i).
 
-(iii) Assessing the impact of any sales, divestitures, restructurings, recapitalizations, or other similar actions on the value, funding, and operations of the covered company, its material entities, critical operations and core business lines.
+(ii) *Waiver requests by covered companies.* In connection with the submission of a full resolution plan, a triennial full filer or triennial reduced filer that has previously submitted a resolution plan under this part may request a waiver of one or more of the informational content requirements of § 381.5 in accordance with this paragraph (d)(6)(ii).
 
-(d) *Corporate governance relating to resolution planning.* Each resolution plan shall:
+(A) A requirement to include any of the following information is not eligible for a waiver at the request of a triennial full filer or triennial reduced filer:
 
-(1) Include a detailed description of:
+(*1*) Information specified in section 165(d)(1)(A) through (C) of the Dodd-Frank Act (12 U.S.C. 5365(d)(1)(A) through (C));
 
-(i) How resolution planning is integrated into the corporate governance structure and processes of the covered company;
+(*2*) Any core element;
 
-(ii) The covered company's policies, procedures, and internal controls governing preparation and approval of the covered company's resolution plan;
+(*3*) Information required to be included in the public section of a full resolution plan under § 381.11(c)(2);
 
-(iii) The identity and position of the senior management official(s) of the covered company that is primarily responsible for overseeing the development, maintenance, implementation, and filing of the covered company's resolution plan and for the covered company's compliance with this part; and
+(*4*) Information about the remediation of any previously identified deficiency or shortcoming unless the Board and the Corporation have jointly determined that the triennial full filer or triennial reduced filer has satisfactorily remedied the deficiency or addressed the shortcoming before its submission of the waiver request; or
 
-(iv) The nature, extent, and frequency of reporting to senior executive officers and the board of directors of the covered company regarding the development, maintenance, and implementation of the covered company's resolution plan;
+(*5*) Information about changes to the triennial full filer or triennial reduced filer's last submitted resolution plan resulting from any:
 
-(2) Describe the nature, extent, and results of any contingency planning or similar exercise conducted by the covered company since the date of the covered company's most recently filed resolution plan to assess the viability of or improve the resolution plan of the covered company; and
+(*i*) Change in law or regulation;
 
-(3) Identify and describe the relevant risk measures used by the covered company to report credit risk exposures both internally to its senior management and board of directors, as well as any relevant risk measures reported externally to investors or to the covered company's appropriate Federal regulator.
+(*ii*) Guidance or feedback from the Board and the Corporation; or
 
-(e) *Organizational structure and related information.* Each resolution plan shall -
+(*iii*) Any material change experienced by the triennial full filer or triennial reduced filer since it submitted that resolution plan.
 
-(1) Provide a detailed description of the covered company's organizational structure, including:
+(B) Each waiver request shall be divided into a public section and a confidential section. A triennial full filer or triennial reduced filer shall segregate and separately identify the public section from the confidential section.
 
-(i) A hierarchical list of all material entities within the covered company's organization (including legal entities that directly or indirectly hold such material entities) that:
+(*1*) The triennial full filer or triennial reduced filer shall include in the confidential section of a waiver request a clear and complete explanation of why:
 
-(A) Identifies the direct holder and the percentage of voting and nonvoting equity of each legal entity and foreign office listed; and
+(*i*) Each requirement sought to be waived is not a requirement described in paragraph (d)(6)(ii)(A) of this section;
 
-(B) The location, jurisdiction of incorporation, licensing, and key management associated with each material legal entity and foreign office identified;
+(*ii*) The information sought to be waived would not be relevant to the Board's and Corporation's review of the triennial full filer or triennial reduced filer's next full resolution plan; and
 
-(ii) A mapping of the covered company's critical operations and core business lines, including material asset holdings and liabilities related to such critical operations and core business lines, to material entities;
+(*iii*) A waiver of each requirement would be appropriate.
 
-(2) Provide an unconsolidated balance sheet for the covered company and a consolidating schedule for all material entities that are subject to consolidation by the covered company;
+(*2*) The triennial full filer or triennial reduced filer shall include in the public section of a waiver request a list of the requirements that it is requesting be waived.
 
-(3) Include a description of the material components of the liabilities of the covered company, its material entities, critical operations and core business lines that, at a minimum, separately identifies types and amounts of the short-term and long-term liabilities, the secured and unsecured liabilities, and subordinated liabilities;
+(C) A triennial full filer or triennial reduced filer may not make more than one waiver request for any full resolution plan submission and any waiver request must be made in writing no later than 18 months before the date by which the triennial full filer or triennial reduced filer is required to submit the full resolution plan.
 
-(4) Identify and describe the processes used by the covered company to:
+(D) The Board and Corporation may jointly approve or deny a waiver request, in whole or in part, in their discretion. Unless the Board and the Corporation have jointly approved a waiver request, the waiver request will be deemed denied on the date that is 12 months before the date by which the triennial full filer or triennial reduced filer is required to submit the full resolution plan to which the waiver request relates.
 
-(i) Determine to whom the covered company has pledged collateral;
+(E) An approved waiver request under this paragraph (d)(6)(ii) is effective for only the full resolution plan that immediately follows submission of the waiver request.
 
-(ii) Identify the person or entity that holds such collateral; and
+(e) *Access to information.* In order to allow evaluation of a resolution plan, each covered company must provide the Board and the Corporation such information and access to personnel of the covered company as the Board and the Corporation jointly determine during the period for reviewing the resolution plan is necessary to assess the credibility of the resolution plan and the ability of the covered company to implement the resolution plan. In order to facilitate review of any waiver request by a covered company under § 381.3(a)(2) or paragraph (d)(6)(ii) of this section, or any joint identification of a critical operation of a covered company under § 381.3(b), each covered company must provide such information and access to personnel of the covered company as the Board and the Corporation jointly determine is necessary to evaluate the waiver request or whether the operation is a critical operation. The Board and the Corporation will rely to the fullest extent possible on examinations conducted by or on behalf of the appropriate Federal banking agency for the relevant company.
 
-(iii) Identify the jurisdiction in which the collateral is located, and, if different, the jurisdiction in which the security interest in the collateral is enforceable against the covered company;
+(f) *Board of directors approval of resolution plan.* Before submission of a resolution plan under paragraphs (a) through (c) of this section, the resolution plan of a covered company shall be approved by:
 
-(5) Describe any material off-balance sheet exposures (including guarantees and contractual obligations) of the covered company and its material entities, including a mapping to its critical operations and core business lines;
+(1) The board of directors of the covered company and noted in the minutes; or
 
-(6) Describe the practices of the covered company, its material entities and its core business lines related to the booking of trading and derivatives activities;
+(2) In the case of a foreign-based covered company only, a delegee acting under the express authority of the board of directors of the covered company to approve the resolution plan.
 
-(7) Identify material hedges of the covered company, its material entities, and its core business lines related to trading and derivative activities, including a mapping to legal entity;
+(g) *Resolution plans provided to the Council.* The Board shall make the resolution plans and updates submitted by the covered company pursuant to this section available to the Council upon request.
 
-(8) Describe the hedging strategies of the covered company;
+(h) *Required and prohibited assumptions.* In preparing its resolution plan, a covered company shall:
 
-(9) Describe the process undertaken by the covered company to establish exposure limits;
+(1) Take into account that the material financial distress or failure of the covered company may occur under the severely adverse economic conditions provided to the covered company by the Board pursuant to 12 U.S.C. 5365(i)(1)(B);
 
-(10) Identify the major counterparties of the covered company and describe the interconnections, interdependencies and relationships with such major counterparties;
+(2) Not rely on the provision of extraordinary support by the United States or any other government to the covered company or its subsidiaries to prevent the failure of the covered company, including any resolution actions taken outside the United States that would eliminate the need for any of a covered company's U.S. subsidiaries to enter into resolution proceedings; and
 
-(11) Analyze whether the failure of each major counterparty would likely have an adverse impact on or result in the material financial distress or failure of the covered company; and
+(3) With respect to foreign banking organizations, not assume that the covered company takes resolution actions outside of the United States that would eliminate the need for any U.S. subsidiaries to enter into resolution proceedings.
 
-(12) Identify each trading, payment, clearing, or settlement system of which the covered company, directly or indirectly, is a member and on which the covered company conducts a material number or value amount of trades or transactions. Map membership in each such system to the covered company's material entities, critical operations and core business lines.
+(i) *Point of contact.* Each covered company shall identify a senior management official at the covered company responsible for serving as a point of contact regarding the resolution plan of the covered company.
 
-(f) *Management information systems.* (1) Each resolution plan shall include -
+(j) *Incorporation of previously submitted resolution plan information by reference.* Any resolution plan submitted by a covered company may incorporate by reference information from a resolution plan previously submitted by the covered company to the Board and the Corporation, provided that:
 
-(i) A detailed inventory and description of the key management information systems and applications, including systems and applications for risk management, accounting, and financial and regulatory reporting, used by the covered company and its material entities. The description of each system or application provided shall identify the legal owner or licensor, the use or function of the system or application, service level agreements related thereto, any software and system licenses, and any intellectual property associated therewith;
+(1) The resolution plan seeking to incorporate information by reference clearly indicates:
 
-(ii) A mapping of the key management information systems and applications to the material entities, critical operations and core business lines of the covered company that use or rely on such systems and applications;
+(i) The information the covered company is incorporating by reference; and
 
-(iii) An identification of the scope, content, and frequency of the key internal reports that senior management of the covered company, its material entities, critical operations and core business lines use to monitor the financial health, risks, and operation of the covered company, its material entities, critical operations and core business lines; and
+(ii) Which of the covered company's previously submitted resolution plan(s) originally contained the information the covered company is incorporating by reference and the specific location of the information in the covered company's previously submitted resolution plan; and
 
-(iv) A description of the process for the appropriate supervisory or regulatory agencies to access the management information systems and applications identified in paragraph (f) of this section; and
+(2) The covered company certifies that the information the covered company is incorporating by reference remains accurate in all respects that are material to the covered company's resolution plan.
 
-(v) A description and analysis of -
+(k) *Initial resolution plans after effective date.* (1) Notwithstanding anything to the contrary in paragraphs (a) through (c) or (d)(1) of this section, each company that is a covered company as of December 31, 2019 is required to submit its initial resolution plan after December 31, 2019, as provided in this paragraph (k). The submission date and resolution plan type for each subsequent resolution plan will be determined pursuant to paragraphs (a) through (d) of this section.
 
-(A) The capabilities of the covered company's management information systems to collect, maintain, and report, in a timely manner to management of the covered company, and to the Board, the information and data underlying the resolution plan; and
+(i) *Biennial filers.* Each covered company that is a biennial filer on October 1, 2020 and remains a biennial filer as of July 1, 2021, is required to submit a targeted resolution plan pursuant to paragraph (a)(4) of this section on or before July 1, 2021.
 
-(B) Any deficiencies, gaps or weaknesses in such capabilities, and a description of the actions the covered company intends to take to promptly address such deficiencies, gaps, or weaknesses, and the time frame for implementing such actions.
+(ii) *Triennial full filers.* Each covered company that is a triennial full filer on October 1, 2020 and remains a triennial full filer as of July 1, 2021 is required to submit a targeted resolution plan pursuant to paragraph (b)(3) of this section on or before July 1, 2021.
 
-(2) The Board will use its examination authority to review the demonstrated capabilities of each covered company to satisfy the requirements of paragraph (f)(1)(v) of this section. The Board will share with the Corporation information regarding the capabilities of the covered company to collect, maintain, and report in a timely manner information and data underlying the resolution plan.
+(iii) *Triennial reduced filers.* Each covered company that is a triennial reduced filer on October 1, 2020 and remains a triennial reduced filer as of July 1, 2022 is required to submit a reduced resolution plan pursuant to paragraph (c)(3) of this section on or before July 1, 2022.
 
-(g) *Interconnections and interdependencies.* To the extent not elsewhere provided, identify and map to the material entities the interconnections and interdependencies among the covered company and its material entities, and among the critical operations and core business lines of the covered company that, if disrupted, would materially affect the funding or operations of the covered company, its material entities, or its critical operations or core business lines. Such interconnections and interdependencies may include:
+(2) With respect to any company that is a covered company as of December 31, 2019, and changes filings groups specified in paragraphs (a) through (c) of this section after October 1, 2020 and before the date by which it would be required to submit a resolution plan under paragraph (k)(1) of this section, the requirements for its initial resolution plan after it changes filing groups will be determined pursuant to paragraph (d)(1) of this section.
 
-(1) Common or shared personnel, facilities, or systems (including information technology platforms, management information systems, risk management systems, and accounting and recordkeeping systems);
-
-(2) Capital, funding, or liquidity arrangements;
-
-(3) Existing or contingent credit exposures;
-
-(4) Cross-guarantee arrangements, cross-collateral arrangements, cross-default provisions, and cross-affiliate netting agreements;
-
-(5) Risk transfers; and
-
-(6) Service level agreements.
-
-(h) *Supervisory and regulatory information.* Each resolution plan shall -
-
-(1) Identify any:
-
-(i) Federal, state, or foreign agency or authority (other than a Federal banking agency) with supervisory authority or responsibility for ensuring the safety and soundness of the covered company, its material entities, critical operations and core business lines; and
-
-(ii) Other Federal, state, or foreign agency or authority (other than a Federal banking agency) with significant supervisory or regulatory authority over the covered company, and its material entities and critical operations and core business lines.
-
-(2) Identify any foreign agency or authority responsible for resolving a foreign-based material entity and critical operations or core business lines of the covered company; and
-
-(3) Include contact information for each agency identified in paragraphs (h)(1) and (2) of this section.
-
-(i) *Contact information.* Each resolution plan shall identify a senior management official at the covered company responsible for serving as a point of contact regarding the resolution plan of the covered company, and include contact information (including phone number, email address, and physical address) for a senior management official of the material entities of the covered company.
-
-(j) *Inclusion of previously submitted resolution plan informational elements by reference.* An annual submission of or update to a resolution plan submitted by a covered company may include by reference informational elements (but not strategic analysis or executive summary elements) from a resolution plan previously submitted by the covered company to the Board and the Corporation, provided that:
-
-(1) The resolution plan seeking to include informational elements by reference clearly indicates:
-
-(i) The informational element the covered company is including by reference; and
-
-(ii) Which of the covered company's previously submitted resolution plan(s) originally contained the information the covered company is including by reference; and
-
-(2) The covered company certifies that the information the covered company is including by reference remains accurate.
-
-(k) *Exemptions.* The Board and the Corporation may jointly exempt a covered company from one or more of the requirements of this section.
+(3) Notwithstanding anything to the contrary in this paragraph (k), a covered company that has been jointly directed by the Board and the Corporation before December 31, 2019, to submit a resolution plan on or before July 1, 2020 describing changes it has made to its most recent resolution plan submission to address each shortcoming the agencies identified in that resolution plan shall submit a responsive resolution plan on or before July 1, 2020 in addition to any resolution plan that such covered company is otherwise required to submit under this section. The requirement to submit such a resolution plan on or before July 1, 2020 does not alter the timing or type of resolution plan any such covered company is required to submit under this section after July 1, 2020.

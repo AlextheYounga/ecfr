@@ -1,14 +1,16 @@
 ##### § 252.172 Credit exposure limits. #####
 
-Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
+(a) *Transition limit on aggregate credit exposure for certain covered foreign entities.* (1) A U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 is not required to comply with paragraph (b)(1) of this section until January 1, 2021.
 
-(a) *General limit on aggregate net credit exposure.* No U.S. intermediate holding company that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the consolidated capital stock and surplus of the U.S. intermediate holding company.
+(2) Until January 1, 2021, no U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 may have an aggregate net credit exposure that exceeds 25 percent of the consolidated capital stock and surplus of the U.S. intermediate holding company.
 
-(b) *Limit on aggregate net credit exposure for U.S. intermediate holding companies with total consolidated assets that equal or exceed $250 billion and foreign banking organizations that are covered foreign entities.* (1) No U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the U.S. intermediate holding company.
+(b) *Limit on aggregate net credit exposure for covered foreign entities.* (1) Except as provided in paragraph (a) of this section, no U.S. intermediate holding company that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the U.S. intermediate holding company.
 
 (2) No foreign banking organization that is a covered foreign entity may permit its combined U.S. operations to have aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the foreign banking organization.
 
-(c) *Limit on aggregate net credit exposure of major U.S. intermediate holding companies and major foreign banking organizations to major counterparties.* (1) No major U.S. intermediate holding company may have aggregate net credit exposure to any major counterparty that exceeds 15 percent of the tier 1 capital of the major U.S. intermediate holding company.
+(c) Limit on aggregate net credit exposure of major foreign banking organizations to major counterparties.
+
+(1) [Reserved]
 
 (2) No major foreign banking organization may permit its combined U.S. operations to have aggregate net credit exposure to any major counterparty that exceeds 15 percent of the tier 1 capital of the major foreign banking organization.
 
@@ -39,3 +41,5 @@ Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
 (ii) [Reserved]
 
 (2) A foreign banking organization that is a covered foreign entity must provide to the Board reports relating to its compliance with the large exposure standards described in paragraph (d)(1) of this section concurrently with filing the FR Y-7Q or any successor report.
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59120, Nov. 1, 2019]

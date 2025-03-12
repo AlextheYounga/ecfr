@@ -1,7 +1,5 @@
 ##### § 324.11 Capital conservation buffer and countercyclical capital buffer amount. #####
 
-Link to an amendment published at 84 FR 59278, Nov. 1, 2019.
-
 (a) *Capital conservation buffer.* (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
@@ -48,11 +46,11 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to an FDIC-supervised institution under 12 CFR 303.241 and subpart H of this part.
 
-(b) *Countercyclical capital buffer amount* - (1) *General.* An advanced approaches FDIC-supervised institution must calculate a countercyclical capital buffer amount in accordance with the following paragraphs for purposes of determining its maximum payout ratio under Table 1 to § 324.11.
+(b) *Countercyclical capital buffer amount* - (1) *General.* An advanced approaches FDIC-supervised institution or a Category III FDIC-supervised institution must calculate a countercyclical capital buffer amount in accordance with paragraph (b) of this section for purposes of determining its maximum payout ratio under Table 1 to this section.
 
 (i) *Extension of capital conservation buffer.* The countercyclical capital buffer amount is an extension of the capital conservation buffer as described in paragraph (a) of this section.
 
-(ii) *Amount.* An advanced approaches FDIC-supervised institution has a countercyclical capital buffer amount determined by calculating the weighted average of the countercyclical capital buffer amounts established for the national jurisdictions where the FDIC-supervised institution's private sector credit exposures are located, as specified in paragraphs (b)(2) and (3) of this section.
+(ii) *Amount.* An advanced approaches FDIC-supervised institution or a Category III FDIC-supervised institution has a countercyclical capital buffer amount determined by calculating the weighted average of the countercyclical capital buffer amounts established for the national jurisdictions where the FDIC-supervised institution's private sector credit exposures are located, as specified in paragraphs (b)(2) and (3) of this section.
 
 (iii) *Weighting.* The weight assigned to a jurisdiction's countercyclical capital buffer amount is calculated by dividing the total risk-weighted assets for the FDIC-supervised institution's private sector credit exposures located in the jurisdiction by the total risk-weighted assets for all of the FDIC-supervised institution's private sector credit exposures. The methodology an FDIC-supervised institution uses for determining risk-weighted assets for purposes of this paragraph (b) must be the methodology that determines its risk-based capital ratios under § 324.10. Notwithstanding the previous sentence, the risk-weighted asset amount for a private sector credit exposure that is a covered position under subpart F of this part is its specific risk add-on as determined under § 324.210 multiplied by 12.5.
 
@@ -80,4 +78,4 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (3) *Countercyclical capital buffer amount for foreign jurisdictions.* The FDIC will adjust the countercyclical capital buffer amount for private sector credit exposures to reflect decisions made by foreign jurisdictions consistent with due process requirements described in paragraph (b)(2) of this section.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35270, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019]

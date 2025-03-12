@@ -1,10 +1,10 @@
 ##### § 252.176 Aggregation of exposures to more than one counterparty due to economic interdependence or control relationships. #####
 
-Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+(a) *In general.* (1) This section applies to a covered foreign entity except as provided in paragraph (a)(1)(i) of this section.
 
-(a) *In general.* (1)(i) Paragraphs (a)(2) through (d) of this section apply only to a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion.
+(i) Until January 1, 2021, paragraphs (a)(2) through (d) of this section do not apply to a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019.
 
-(ii) Paragraph (e) of this section applies to all covered foreign entities.
+(ii) [Reserved]
 
 (2)(i) If a covered foreign entity has an aggregate net credit exposure to any counterparty that exceeds 5 percent of its tier 1 capital, the covered foreign entity must assess its relationship with the counterparty under paragraph (b)(2) of this section to determine whether the counterparty is economically interdependent with one or more other counterparties of the covered foreign entity and under paragraph (c)(1) of this section to determine whether the counterparty is connected by a control relationship with one or more other counterparties.
 
@@ -55,3 +55,5 @@ Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
 (iii) Has the power to exercise a controlling influence over the management or policies of counterparty B.
 
 (e) *Board determinations for aggregation of counterparties to prevent evasion.* Notwithstanding paragraphs (b) and (c) of this section, a covered foreign entity must aggregate its exposures to a counterparty with the covered foreign entity's exposures to another counterparty if the Board determines in writing after notice and opportunity for hearing, that the exposures to the two counterparties must be aggregated to prevent evasions of the purposes of this subpart, including, but not limited to § 252.176 and 12 U.S.C. 5365(e).
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59121, Nov. 1, 2019]

@@ -1,5 +1,7 @@
 ##### 225.7017-3 Exceptions. #####
 
+Link to an amendment published at 84 FR 72247, Dec. 31, 2019.
+
 DoD requires the contractor to utilize domestic photovoltaic devices in covered contracts that exceed the simplified acquisition threshold, with the following exceptions:
 
 (a) *Qualifying country.* Qualifying country photovoltaic devices may be utilized in any covered contract, because 225.103(a)(i)(A) provides an exception to the Buy American statute for products of qualifying countries, as defined in 225.003.

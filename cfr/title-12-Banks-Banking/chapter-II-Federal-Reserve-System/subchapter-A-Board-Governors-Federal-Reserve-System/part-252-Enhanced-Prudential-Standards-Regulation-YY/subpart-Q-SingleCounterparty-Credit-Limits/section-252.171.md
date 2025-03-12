@@ -1,7 +1,5 @@
 ##### § 252.171 Definitions. #####
 
-Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
-
 Unless defined in this section, terms that are set forth in § 252.2 of this part and used in this subpart have the definitions assigned in § 252.2. For purposes of this subpart:
 
 (a) *Adjusted market value* means:
@@ -38,7 +36,13 @@ Unless defined in this section, terms that are set forth in § 252.2 of this par
 
 (f) *Counterparty* means with respect to a credit transaction:
 
-(1) With respect to a natural person, the natural person, and, if the credit exposure of the covered foreign entity to such natural person exceeds 5 percent of its capital stock and surplus in the case of a U.S. intermediate holding company that is a covered foreign entity with total consolidated assets of less than $250 billion, or 5 percent of its tier 1 capital in the case of a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion, the natural person and members of the person's immediate family collectively;
+(1) With respect to a natural person:
+
+(i) The natural person;
+
+(ii) Except as provided in paragraph (f)(1)(iii) of this section, if the credit exposure of the covered foreign entity to such natural person exceeds 5 percent of tier 1 capital, the natural person and members of the person's immediate family collectively; and
+
+(iii) Until January 1, 2021, with respect to a U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019, if the credit exposure of the U.S. intermediate holding company to such natural person exceeds 5 percent of its capital stock and surplus, the natural person and member of the person's immediately family collectively.
 
 (2) With respect to any company that is not an affiliate of the covered foreign entity, the company and its affiliates collectively;
 
@@ -174,33 +178,31 @@ Unless defined in this section, terms that are set forth in § 252.2 of this par
 
 (z) *Major foreign banking organization* is defined in § 252.170(a)(2)(ii) of this subpart.
 
-(aa) *Major U.S. intermediate holding company* is defined in § 252.170(a)(2)(iii) of this subpart.
+(aa) *Multilateral development bank* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
 
-(bb) *Multilateral development bank* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
+(bb) *Net credit exposure* means, with respect to any credit transaction, the gross credit exposure of a covered foreign entity and all of its subsidiaries calculated under § 252.173, as adjusted in accordance with § 252.174.
 
-(cc) *Net credit exposure* means, with respect to any credit transaction, the gross credit exposure of a covered foreign entity and all of its subsidiaries calculated under § 252.173, as adjusted in accordance with § 252.174.
+(cc) *Qualifying central counterparty* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
 
-(dd) *Qualifying central counterparty* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
+(dd) *Qualifying master netting agreement* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
 
-(ee) *Qualifying master netting agreement* has the same meaning as in § 217.2 of the Board's Regulation Q (12 CFR 217.2).
+(ee) *Securities financing transaction* means any repurchase agreement, reverse repurchase agreement, securities borrowing transaction, or securities lending transaction.
 
-(ff) *Securities financing transaction* means any repurchase agreement, reverse repurchase agreement, securities borrowing transaction, or securities lending transaction.
+(ff) *Short sale* means any sale of a security which the seller does not own or any sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller.
 
-(gg) *Short sale* means any sale of a security which the seller does not own or any sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller.
+(gg) *Sovereign entity* means a central national government (including the U.S. government) or an agency, department, ministry, or central bank, but not including any political subdivision such as a state, province, or municipality.
 
-(hh) *Sovereign entity* means a central national government (including the U.S. government) or an agency, department, ministry, or central bank, but not including any political subdivision such as a state, province, or municipality.
-
-(ii) *Subsidiary.* A company is a *subsidiary* of another company if
+(hh) *Subsidiary.* A company is a *subsidiary* of another company if
 
 (1) The company is consolidated by the other company under applicable accounting standards; or
 
 (2) For a company that is not subject to principles or standards referenced in paragraph (ii)(1) of this definition, consolidation would have occurred if such principles or standards had applied.
 
-(jj) *Tier 1 capital* means common equity tier 1 capital and additional tier 1 capital, as defined in subpart O of the Board's Regulation YY(12 CFR part 252, subpart O).
+(ii) *Tier 1 capital* means common equity tier 1 capital and additional tier 1 capital, as defined in subpart O of the Board's Regulation YY(12 CFR part 252, subpart O).
 
-(kk) *Tier 2 capital* means tier 2 capital as defined in subpart O of the Board's Regulation YY (12 CFR part 252, subpart O).
+(jj) *Tier 2 capital* means tier 2 capital as defined in subpart O of the Board's Regulation YY (12 CFR part 252, subpart O).
 
-(ll) *Total consolidated assets.* (1) A foreign banking organization's *total consolidated assets* are determined based on:
+(kk) *Total consolidated assets.* (1) A foreign banking organization's *total consolidated assets* are determined based on:
 
 (i) The average of the foreign banking organization's total consolidated assets in the four most recent consecutive quarters as reported quarterly on the FR Y-7Q; or
 
@@ -215,3 +217,5 @@ Unless defined in this section, terms that are set forth in § 252.2 of this par
 (ii) If the U.S. intermediate holding company has not filed an FR Y-9C for each of the four most recent consecutive quarters, the average of the U.S. intermediate holding company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable; or
 
 (iii) If the U.S. intermediate holding company has not yet filed an FR Y-9C, as determined under applicable accounting standards.
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59120, Nov. 1, 2019]

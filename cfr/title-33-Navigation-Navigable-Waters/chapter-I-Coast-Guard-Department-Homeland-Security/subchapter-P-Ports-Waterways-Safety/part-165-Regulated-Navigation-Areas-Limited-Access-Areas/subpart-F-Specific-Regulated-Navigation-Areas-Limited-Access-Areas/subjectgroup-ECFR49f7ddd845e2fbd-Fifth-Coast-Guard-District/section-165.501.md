@@ -120,7 +120,7 @@
 
 (iv) The designated representative of the Captain of the Port is the Sector Command Center (SCC) - Joint Harbor Operations Center (JHOC) which shall be contacted on VHF-FM channel 12, or by calling (757) 668-5555.
 
-(v) In addition to the authorities listed in this part, this paragraph is promulgated under the authority under 33 U.S.C. 1226.
+(v) In addition to the authorities listed in this part, this paragraph is promulgated under the authority under 46 U.S.C. 70116.
 
 (e) *Waivers.* (1) The Captain of the Port may, upon request, waive any regulation in this section.
 

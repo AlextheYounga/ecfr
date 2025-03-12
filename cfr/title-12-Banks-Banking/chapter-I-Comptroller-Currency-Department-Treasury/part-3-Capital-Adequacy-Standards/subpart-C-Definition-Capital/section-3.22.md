@@ -1,6 +1,6 @@
 ##### § 3.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 84 FR 35250, July 22, 2019.The effective date of this amendment was changed to January 1, 2020, at 84 FR 61807, Nov. 13, 2019.Link to an amendment published at 84 FR 59265, Nov. 1, 2019.Link to an amendment published at 84 FR 61793, Nov. 13, 2019.
+Link to an amendment published at 84 FR 35250, July 22, 2019.The effective date of this amendment was changed to January 1, 2020, at 84 FR 61807, Nov. 13, 2019.Link to an amendment published at 84 FR 61793, Nov. 13, 2019.
 
 (a) *Regulatory capital deductions from common equity tier 1 capital.* A national bank or Federal savings association must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
@@ -66,7 +66,11 @@ Link to an amendment published at 84 FR 35250, July 22, 2019.The effective date 
 
 (E) Subtract any net unrealized gains and add any net unrealized losses on held-to-maturity securities that are included in AOCI.
 
-(ii) A national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association must make its AOCI opt-out election in its Call Report filed for the first regulatory reporting period after the date required for such national bank or Federal savings association to comply with subpart A of this part as set forth in § 3.1(f).
+(ii) A national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association must make its AOCI opt-out election in the Call Report:
+
+(A) If the national bank or Federal savings association is a Category III national bank or Federal savings association, during the first reporting period after the national bank or Federal savings association meets the definition of a Category III national bank or Federal savings association in § 3.2; or
+
+(B) If the national bank or Federal savings association is not a Category III national bank or Federal savings association, during the first reporting period after the national bank or Federal savings association is required to comply with subpart A of this part as set forth in § 3.1(f).
 
 (iii) With respect to a national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Board of Governors of the Federal Reserve, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency21 must elect the same option as the national bank or Federal savings association pursuant to this paragraph (b)(2).
 
@@ -204,4 +208,4 @@ Link to an amendment published at 84 FR 35250, July 22, 2019.The effective date 
 
 (C) A short position in an index that is hedging a long cash or synthetic position in a national bank's or Federal savings association's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the national bank's or Federal savings association's Call Report, and the hedge is deemed effective by the national bank's or Federal savings association's internal control processes, which have not been found to be inadequate by the OCC.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 59265, Nov. 1, 2019]

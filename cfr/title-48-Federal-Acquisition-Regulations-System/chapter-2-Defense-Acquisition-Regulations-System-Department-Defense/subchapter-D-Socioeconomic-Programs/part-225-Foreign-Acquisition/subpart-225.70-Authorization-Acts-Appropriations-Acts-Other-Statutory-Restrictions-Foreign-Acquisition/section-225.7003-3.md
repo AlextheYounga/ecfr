@@ -38,7 +38,7 @@
 
 (4) Items listed in 225.7003-2(a), manufactured in a qualifying country or containing specialty metals melted or produced in a qualifying country.
 
-(5) Specialty metal in any of the items listed in 225.7003-2 if the USD(AT&L), or an official authorized in accordance with paragraph (b)(5)(i) of this subsection, determines that specialty metal melted or produced in the United States cannot be acquired as and when needed at a fair and reasonable price in a satisfactory quality, a sufficient quantity, and the required form (*i.e.,* a domestic nonavailability determination). See guidance in PGI 225.7003-3(b)(5).
+(5) Specialty metal in any of the items listed in 225.7003-2 if the USD(A&S), or an official authorized in accordance with paragraph (b)(5)(i) of this section, determines that specialty metal melted or produced in the United States cannot be acquired as and when needed at a fair and reasonable price in a satisfactory quality, a sufficient quantity, and the required form (*i.e.,* a domestic nonavailability determination). In accordance with 10 U.S.C. 2533b(m)(4), the term “required form” in this section refers to the form of the mill product, such as bar, billet, wire, slab, plate, or sheet, in the grade appropriate for the production of a finished end item to be delivered to the Government under this contract; or a finished component assembled into an end item to be delivered to the Government under the contract. See guidance in PGI 225.7003-3(b)(5).
 
 (i) The Secretary of the military department concerned is authorized, without power of redelegation, to make a domestic nonavailability determination that applies to only one contract.
 
@@ -48,15 +48,15 @@ The supporting documentation for the determination shall include -
 
 (B) Written documentation by the requiring activity, with specificity, why such alternatives are unacceptable.
 
-(ii) A domestic nonavailability determination that applies to more than one contract (*i.e.,* a class domestic nonavailability determination), requires the approval of the USD(AT&L).
+(ii) A domestic nonavailability determination that applies to more than one contract (*i.e.,* a class domestic nonavailability determination), requires the approval of the USD(A&S).
 
-(A) At least 30 days before making a domestic nonavailability determination that would apply to more than one contract, the USD(AT&L) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information -
+(A) At least 30 days before making a domestic nonavailability determination that would apply to more than one contract, the USD(A&S) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information -
 
 (*1*) Publish a notice on the Federal Business Opportunities Web site (*http://www.FedBizOpps.gov* or any successor site) of the intent to make the domestic nonavailability determination; and
 
 (*2*) Solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 
-(B) The USD(AT&L) -
+(B) The USD(A&S) -
 
 (*1*) Will take into consideration all information submitted in response to the notice in making a class domestic nonavailability determination;
 
@@ -70,11 +70,11 @@ The supporting documentation for the determination shall include -
 
 (1) The offeror has certified, and subsequently demonstrates, that the offeror and its subcontractor(s) will individually or collectively enter into a contractual agreement or agreements to purchase a sufficient quantity of domestically melted or produced specialty metal in accordance with the provision at 252.225-7010; and
 
-(2) The USD(AT&L), or the Secretary of the military department concerned, determines that the item is a commercial derivative military article (defense agencies see procedures at PGI 225.7003-3(c)). The contracting officer shall submit the offeror's certification and a request for a determination to the appropriate official, through agency channels, and shall notify the offeror when a decision has been made.
+(2) The USD(A&S), or the Secretary of the military department concerned, determines that the item is a commercial derivative military article (defense agencies see procedures at PGI 225.7003-3(c)). The contracting officer shall submit the offeror's certification and a request for a determination to the appropriate official, through agency channels, and shall notify the offeror when a decision has been made.
 
-(d) *National security waiver.* The USD(AT&L) may waive the restrictions at 225.7003-2 if the USD(AT&L) determines in writing that acceptance of the item is necessary to the national security interests of the United States (*see* procedures at PGI 225.7003-3(d). This authority may not be delegated.
+(d) *National security waiver.* The USD(A&S) may waive the restrictions at 225.7003-2 if the USD(A&S) determines in writing that acceptance of the item is necessary to the national security interests of the United States (*see* procedures at PGI 225.7003-3(d). This authority may not be delegated.
 
-(1) The written determination of the USD(AT&L) -
+(1) The written determination of the USD(A&S) -
 
 (i) Shall specify the quantity of end items to which the national security waiver applies;
 
@@ -82,12 +82,12 @@ The supporting documentation for the determination shall include -
 
 (iii) Shall be provided to the congressional defense committees before the determination is executed, except that in the case of an urgent national security requirement, the determination may be provided to the congressional defense committees up to 7 days after it is executed.
 
-(2) After making such a determination, the USD(AT&L) will -
+(2) After making such a determination, the USD(A&S) will -
 
 (i) Ensure that the contractor or subcontractor responsible for the noncompliant specialty metal develops and implements an effective plan to ensure future compliance; and
 
-(ii) Determine whether or not the noncompliance was knowing and willful. If the USD(AT&L) determines that the noncompliance was knowing and willful, the appropriate debarring and suspending official shall consider suspending or debarring the contractor or subcontractor until such time as the contractor or subcontractor has effectively addressed the issues that led to the noncompliance.
+(ii) Determine whether or not the noncompliance was knowing and willful. If the USD(A&S) determines that the noncompliance was knowing and willful, the appropriate debarring and suspending official shall consider suspending or debarring the contractor or subcontractor until such time as the contractor or subcontractor has effectively addressed the issues that led to the noncompliance.
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019]

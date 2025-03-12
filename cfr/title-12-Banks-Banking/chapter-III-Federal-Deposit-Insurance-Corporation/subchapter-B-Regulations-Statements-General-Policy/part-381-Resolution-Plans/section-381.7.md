@@ -1,7 +1,15 @@
-##### § 381.7 Consultation. #####
+##### § 381.7 Informational content of a reduced resolution plan. #####
 
-Prior to issuing any notice of deficiencies under § 381.5(b), determining to impose requirements or restrictions under § 381.6(a), or issuing a divestiture order pursuant to § 381.6(c) with respect to a covered company that is likely to have a significant impact on a functionally regulated subsidiary or a depository institution subsidiary of the covered company, the Board -
+(a) *Reduced resolution plan content.* Each reduced resolution plan of a covered company shall include:
 
-(a) Shall consult with each Council member that primarily supervises any such subsidiary; and
+(1) A description of each material change experienced by the covered company since the filing of the covered company's previously submitted resolution plan (or affirmation that no such material change has occurred); and
 
-(b) May consult with any other Federal, state, or foreign supervisor as the Board considers appropriate.
+(2) A description of changes to the strategic analysis that was presented in the covered company's previously submitted resolution plan resulting from any:
+
+(i) Change in law or regulation;
+
+(ii) Guidance or feedback from the Board and the Corporation; or
+
+(iii) Material change described pursuant to paragraph (a)(1) of this section.
+
+(b) *Deemed incorporation by reference.* If a covered company does not include in its reduced resolution plan a description of changes to any information set forth in section 165(d)(1)(A), (B), or (C) of the Dodd-Frank Act (12 U.S.C. 5365(d)(1)(A), (B), or (C)) since its previously submitted resolution plan, such information from its previously submitted resolution plan are incorporated by reference into its reduced resolution plan.

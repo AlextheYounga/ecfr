@@ -1,10 +1,8 @@
-##### § 324.173 Disclosures by certain advanced approaches FDIC-supervised institutions. #####
-
-Link to an amendment published at 84 FR 59279, Nov. 1, 2019.
+##### § 324.173 Disclosures by certain advanced approaches FDIC-supervised institutions and Category III FDIC-supervised institutions. #####
 
 (a)(1) An advanced approaches FDIC-supervised institution described in § 324.172(b) must make the disclosures described in Tables 1 through 12 to § 324.173.
 
-(2) An advanced approaches FDIC-supervised institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 324.172(d) must make the disclosures required under Table 13 to § 324.173, unless the FDIC-supervised institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosures requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.
+(2) An advanced approaches FDIC-supervised institution and a Category III FDIC-supervised institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 324.172(d) must make the disclosures required under Table 13 to this section unless the FDIC-supervised institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosure requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.
 
 (3) The disclosures described in Tables 1 through 12 to § 324.173 must be made publicly available for twelve consecutive quarters beginning on January 1, 2014, or a shorter period, as applicable, for the quarters after the FDIC-supervised institution has completed the parallel run process and received notification from the FDIC pursuant to § 324.121(d). The disclosures described in Table 13 to § 324.173 must be made publicly available for twelve consecutive quarters beginning on January 1, 2015, or a shorter period, as applicable, for the quarters after the FDIC-supervised institution becomes subject to the disclosure of the supplementary leverage ratio pursuant to § 324.172(d) and § 324.173(a)(2).
 
@@ -235,4 +233,4 @@ Table 13 to § 324.173 - Supplementary Leverage Ratio
 |                                                                                                                                                                                                         Supplementary leverage ratio                                                                                                                                                                                                          |                           |   |    |   |
 |                                                                                                                                                                                                        22 Supplementary leverage ratio                                                                                                                                                                                                        |       (in percent)        |   |    |   |
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57750, Sept. 26, 2014; 80 FR 41425, July 15, 2015; 84 FR 4247, Feb. 14, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57750, Sept. 26, 2014; 80 FR 41425, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 59279, Nov. 1, 2019]

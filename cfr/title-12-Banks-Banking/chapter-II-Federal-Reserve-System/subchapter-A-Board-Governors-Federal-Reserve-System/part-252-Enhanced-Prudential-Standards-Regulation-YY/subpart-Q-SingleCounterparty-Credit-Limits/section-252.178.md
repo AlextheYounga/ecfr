@@ -1,10 +1,8 @@
 ##### § 252.178 Compliance. #####
 
-Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+(a) *Scope of compliance.* (1) Except as provided in paragraph (a)(2) of this section, using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a covered foreign entity must comply with the requirements of this subpart on a daily basis at the end of each business day.
 
-(a) *Scope of compliance.* (1) Using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion must comply with the requirements of this subpart on a daily basis at the end of each business day.
-
-(2) Using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a U.S. intermediate holding company with less than $250 billion in total consolidated assets must comply with the requirements of this subpart on a quarterly basis, unless the Board determines and notifies the entity in writing that more frequent compliance is required.
+(2) Until December 31, 2020, using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019 must comply with the requirements of this subpart on a quarterly basis, unless the Board determines and notifies the entity in writing that more frequent compliance is required.
 
 (3) A covered foreign entity must report its compliance to the Federal Reserve as of the end of the quarter, unless the Board determines and notifies that entity in writing that more frequent reporting is required.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
 
 (2) A covered foreign entity may request a special temporary credit exposure limit exemption from the Board. The Board may grant approval for such exemption in cases where the Board determines that such credit transactions are necessary or appropriate to preserve the safety and soundness of the covered foreign entity or U.S. financial stability. In acting on a request for an exemption, the Board will consider the following:
 
-(i) A decrease in the covered foreign entity's capital stock and surplus;
+(i) A decrease in the covered foreign entity's capital stock and surplus or tier 1 capital, as applicable;
 
 (ii) The merger of the covered foreign entity with another covered foreign entity;
 
@@ -27,3 +25,5 @@ Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
 (v) Any other factor(s) the Board determines, in its discretion, is appropriate.
 
 (d) *Other measures.* The Board may impose supervisory oversight and additional reporting measures that it determines are appropriate to monitor compliance with this subpart. Covered foreign entities must furnish, in the manner and form prescribed by the Board, such information to monitor compliance with this subpart and the limits therein as the Board may require.
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59121, Nov. 1, 2019]

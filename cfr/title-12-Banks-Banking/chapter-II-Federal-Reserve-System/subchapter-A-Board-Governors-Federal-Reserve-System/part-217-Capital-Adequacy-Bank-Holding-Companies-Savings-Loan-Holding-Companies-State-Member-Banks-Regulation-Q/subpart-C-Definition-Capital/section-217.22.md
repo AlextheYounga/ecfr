@@ -1,6 +1,6 @@
 ##### § 217.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment published at 84 FR 61798, Nov. 13, 2019.Link to an amendment published at 84 FR 35261, July 22, 2019.The effective date of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61798, Nov. 13, 2019.Link to an amendment published at 84 FR 35261, July 22, 2019.The effective date of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
 
 (a) *Regulatory capital deductions from common equity tier 1 capital.* A Board-regulated institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
@@ -44,7 +44,11 @@ Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment
 
 (E) Subtract any net unrealized gains and add any net unrealized losses on held-to-maturity securities that are included in AOCI.
 
-(ii) A Board-regulated institution that is not an advanced approaches Board-regulated institution must make its AOCI opt-out election in the Call Report, for a state member bank, FR Y-9C or FR Y-9SP, as applicable, for bank holding companies or savings and loan holding companies, filed by the Board-regulated institution for the first reporting period after the Board-regulated institution is required to comply with subpart A of this part as set forth in § 217.1(f).
+(ii) A Board-regulated institution that is not an advanced approaches Board-regulated institution must make its AOCI opt-out election in the Call Report, for a state member bank, FR Y-9C, for bank holding companies or savings and loan holding companies:
+
+(A) If the Board-regulated institution is a Category III Board-regulated institution or Category IV Board-regulated institution, during the first reporting period after the Board-regulated institution meets the definition of a Category III Board-regulated institution or Category IV Board-regulated institution in § 217.2; or
+
+(B) If the A Board-regulated institution is not a Category III Board-regulated institution and not a Category IV Board-regulated institution, during the first reporting period after the Board-regulated institution is required to comply with subpart A of this part as set forth in § 217.1(f).
 
 (iii) Each depository institution subsidiary of a Board-regulated institution that is not an advanced approaches Board-regulated institution must elect the same option as the Board-regulated institution pursuant to paragraph (b)(2).
 
@@ -182,4 +186,4 @@ Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment
 
 (C) A short position in an index that is hedging a long cash or synthetic position in a Board-regulated institution's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the Board-regulated institution's Call Report, for a state member bank, or FR Y-9C, for a bank holding company or savings and loan holding company, as applicable, and the hedge is deemed effective by the Board-regulated institution's internal control processes, which have not been found to be inadequate by the Board.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 79 FR 78295, Dec. 30, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 79 FR 78295, Dec. 30, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 59271, Nov. 1, 2019]

@@ -1,12 +1,14 @@
 ##### § 252.175 Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not affiliates of the covered foreign entity. #####
 
-Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+(a) *In general.* (1) This section applies to a covered foreign entity, except as provided in paragraph (a)(1)(i) of this section.
 
-(a) *In general.* (1) This section applies only to a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion, provided that:
+(i) Until January 1, 2021, this section does not apply to a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019, provided that:
 
-(i) In order to avoid evasion of this subpart, the Board may determine, after notice to the covered foreign entity and opportunity for hearing, that a U.S. intermediate holding company with less than $250 billion in total consolidated assets must apply either the approach in paragraph (a) of this section or the look-through approach in paragraph (b) of this section, or must recognize exposures to a third party that has a contractual obligation to provide credit or liquidity support to a securitization vehicle, investment fund, or other special purpose vehicle that is not an affiliate of the covered foreign entity, as provided in paragraph (c) of this section; and
+(A) In order to avoid evasion of this subpart, the Board may determine, after notice to the covered foreign entity and opportunity for hearing, that a U.S. intermediate holding company with less than $250 billion in total consolidated assets must apply either the approach in this paragraph (a) or the look-through approach in paragraph (b) of this section, or must recognize exposures to a third party that has a contractual obligation to provide credit or liquidity support to a securitization vehicle, investment fund, or other special purpose vehicle that is not an affiliate of the covered foreign entity, as provided in paragraph (c) of this section; and
 
-(ii) For purposes of paragraph (a)(1)(i) of this section, the Board, in its discretion and as applicable, may allow a covered foreign entity to measure its capital base using the covered foreign entity's capital stock and surplus rather than its tier 1 capital.
+(B) For purposes of paragraph (a)(1)(i)(A) of this section, the Board, in its discretion and as applicable, may allow a covered foreign entity to measure its capital base using the covered foreign entity's capital stock and surplus rather than its tier 1 capital.
+
+(ii) [Reserved]
 
 (2) For purposes of this section, the following definitions apply:
 
@@ -61,3 +63,5 @@ Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
 (2) The amount of any gross credit exposure that is required to be recognized to a third party under paragraph (c)(1) of this section is equal to the covered foreign entity's SPV exposure, up to the maximum contractual obligation of that third party to the SPV, valued in accordance with § 252.173(a). (This gross credit exposure is in addition to the covered foreign entity's gross credit exposure to the SPV or the issuers of assets of the SPV, calculated in accordance with paragraphs (a) and (b) of this section.)
 
 (3) A covered foreign entity must aggregate the gross credit exposure to a third party recognized in accordance with paragraphs (c)(1) and (2) of this section with its other gross credit exposures to that third party (that are unrelated to the SPV) for purposes of compliance with the limits of § 252.172.
+
+[83 FR 38501, Aug. 6, 2018, as amended at 84 FR 59121, Nov. 1, 2019]

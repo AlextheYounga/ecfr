@@ -2,7 +2,7 @@
 
 As prescribed in 204.7304c, use the following clause:
 
-Safeguarding Covered Defense Information and Cyber Incident Reporting (OCT 2016)
+Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -66,11 +66,11 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (OCT 2016)
 
 (i) Conduct a review for evidence of compromise of covered defense information, including, but not limited to, identifying compromised computers, servers, specific data, and user accounts. This review shall also include analyzing covered contractor information system(s) that were part of the cyber incident, as well as other information systems on the Contractor's network(s), that may have been accessed as a result of the incident in order to identify compromised covered defense information, or that affect the Contractor's ability to provide operationally critical support; and
 
-(ii) Rapidly report cyber incidents to DoD at *http://dibnet.dod.mil.*
+(ii) Rapidly report cyber incidents to DoD at  *https://dibnet.dod.mil.*
 
-(2) *Cyber incident report.* The cyber incident report shall be treated as information created by or for DoD and shall include, at a minimum, the required elements at *http://dibnet.dod.mil.*
+(2) *Cyber incident report.* The cyber incident report shall be treated as information created by or for DoD and shall include, at a minimum, the required elements at *https://dibnet.dod.mil.*
 
-(3) *Medium assurance certificate requirement.* In order to report cyber incidents in accordance with this clause, the Contractor or subcontractor shall have or acquire a DoD-approved medium assurance certificate to report cyber incidents. For information on obtaining a DoD-approved medium assurance certificate, see *http://iase.disa.mil/pki/eca/Pages/index.aspx*.
+(3) *Medium assurance certificate requirement.* In order to report cyber incidents in accordance with this clause, the Contractor or subcontractor shall have or acquire a DoD-approved medium assurance certificate to report cyber incidents. For information on obtaining a DoD-approved medium assurance certificate, see *https://public.cyber.mil/eca/*.
 
 (d) *Malicious software.* When the Contractor or subcontractors discover and isolate malicious software in connection with a reported cyber incident, submit the malicious software to DoD Cyber Crime Center (DC3) in accordance with instructions provided by DC3 or the Contracting Officer. Do not send the malicious software to the Contracting Officer.
 
@@ -110,4 +110,4 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (OCT 2016)
 
 (ii) Provide the incident report number, automatically assigned by DoD, to the prime Contractor (or next higher-tier subcontractor) as soon as practicable, when reporting a cyber incident to DoD as required in paragraph (c) of this clause.
 
-(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016]
+(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016; 84 FR 72563, Dec. 31, 2019]

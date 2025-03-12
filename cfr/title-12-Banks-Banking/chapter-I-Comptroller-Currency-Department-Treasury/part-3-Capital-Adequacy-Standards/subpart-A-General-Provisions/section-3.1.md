@@ -1,6 +1,6 @@
 ##### § 3.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.Link to an amendment published at 84 FR 59263, Nov. 1, 2019.
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
 
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for national banks and Federal savings associations. This part does not apply to Federal branches and agencies of foreign banks. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
@@ -78,4 +78,6 @@ Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date 
 
 (4) No national bank or Federal savings association that is not an advanced approaches bank or advanced approaches savings association is subject to this part 3 until January 1, 2015.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 84 FR 35248, July 22, 2019]
+(5) A national bank or Federal savings association that changes from one category of national bank or Federal savings association to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the national bank's or Federal savings association's category.
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019]

@@ -1,5 +1,7 @@
 ##### 252.225-7018 Photovoltaic Devices - Certificate. #####
 
+Link to an amendment published at 84 FR 72247, Dec. 31, 2019.
+
 As prescribed in 225.7017-4(b), use the following provision:
 
 Photovoltaic Devices - Certificate (DEC 2018)

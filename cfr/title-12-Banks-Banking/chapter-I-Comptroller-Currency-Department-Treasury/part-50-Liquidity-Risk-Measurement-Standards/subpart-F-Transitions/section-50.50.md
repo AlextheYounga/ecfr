@@ -1,23 +1,19 @@
 ##### § 50.50 Transitions. #####
 
-Link to an amendment published at 84 FR 59269, Nov. 1, 2019.
+(a) *No transition for certain national banks and Federal savings association.* A national bank or Federal savings association that is subject to the minimum liquidity standard and other requirements of this part prior to December 31, 2019 must comply with the minimum liquidity standard and other requirements of this part as of December 31, 2019.
 
-(a) Covered depository institution holding companies with $700 billion or more in total consolidated assets or $10 trillion or more in assets under custody. For any depository institution holding company that has total consolidated assets equal to $700 billion or more, as reported on the company's most recent Consolidated Financial Statements for Holding Companies (FR Y-9C), or $10 trillion or more in assets under custody, as reported on the company's most recent Banking Organization Systemic Risk Report (FR Y-15), and any depository institution that is a consolidated subsidiary of such depository institution holding company that has total consolidated assets equal to $10 billion or more, as reported on the most recent year-end Consolidated Report of Condition and Income:
+(b) [Reserved]
 
-(1) Beginning January 1, 2015, through June 30, 2015, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.80.
+(c) *Initial application.* (1) A national bank or Federal savings association that initially becomes subject to the minimum liquidity standard and other requirements of this part under § 50.1(b)(1)(i) must comply with the requirements of this part beginning on the first day of the third calendar quarter after which the national bank or Federal savings association becomes subject to this part, except that a national bank or Federal savings association must:
 
-(2) Beginning July 1, 2015 through December 31, 2015, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.80.
+(i) For the first two calendar quarters after the national bank or Federal savings association begins complying with the minimum liquidity standard and other requirements of this part, calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month; and
 
-(3) Beginning January 1, 2016, through December 31, 2016, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.90.
+(ii) Beginning the first day of the fifth calendar quarter after the national bank or Federal savings association becomes subject to the minimum liquidity standard and other requirements of this part and continuing thereafter, calculate and maintain a liquidity coverage ratio on each calculation date.
 
-(4) On January 1, 2017, and thereafter, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio on each calculation date that is equal to or greater than 1.0.
+(2) A national bank or Federal savings association that becomes subject to the minimum liquidity standard and other requirements of this part under § 50.1(b)(1)(ii), must comply with the requirements of this part subject to a transition period specified by the OCC.
 
-(b) *Other national banks and Federal savings associations.* For any national bank or Federal savings association subject to a minimum liquidity standard under this part not described in paragraph (a) of this section:
+(d) *Transition into a different outflow adjustment percentage.* A national bank or Federal savings association whose outflow adjustment percentage changes is subject to transition periods as set forth in § 50.30(d).
 
-(1) Beginning January 1, 2015, through December 31, 2015, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.80.
+(e) *Compliance date.* The OCC may extend or accelerate any compliance date of this part if the OCC determines that such extension or acceleration is appropriate. In determining whether an extension or acceleration is appropriate, the OCC will consider the effect of the modification on financial stability, the period of time for which the modification would be necessary to facilitate compliance with this part, and the actions the national bank or Federal savings association is taking to come into compliance with this part.
 
-(2) Beginning January 1, 2016, through June 30, 2016, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.90.
-
-(3) Beginning July 1, 2016, through December 31, 2016, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.90.
-
-(4) On January 1, 2017, and thereafter, the national bank or Federal savings association must calculate and maintain a liquidity coverage ratio on each calculation date that is equal to or greater than 1.0.
+[84 FR 59269, Nov. 1, 2019]

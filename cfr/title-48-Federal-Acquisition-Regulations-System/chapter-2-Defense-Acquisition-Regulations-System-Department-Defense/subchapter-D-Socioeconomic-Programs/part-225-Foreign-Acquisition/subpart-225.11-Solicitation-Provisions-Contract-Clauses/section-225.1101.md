@@ -1,5 +1,7 @@
 ##### 225.1101 Acquisition of supplies. #####
 
+Link to an amendment published at 84 FR 72246, Dec. 31, 2019.
+
 (1) Use the basic or the alternate of the provision at 252.225-7000, Buy American - Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7000 in the solicitation.
 
 (i) Use the basic provision when the solicitation includes the basic clause at 252.225-7001.

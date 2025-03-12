@@ -46,4 +46,6 @@
 
 (vii) The contracting officer may consult with the DoD cadre of experts who are available to provide expert advice to the acquisition workforce in assisting with commercial item and price reasonableness determinations. The DoD cadre of experts is identified at PGI 215.404-1(b)(vii).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018]
+(h) *Review and justification of pass-through contracts.* Follow the procedures at PGI 215.404-1(h)(2) when considering alternative approaches or making the determination that the contracting approach selected is in the best interest of the Government, as required by FAR 15.404-1(h)(2).
+
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019]

@@ -1,6 +1,6 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
 
 (a) *Minimum capital requirements.* A Board-regulated institution must maintain the following minimum capital ratios:
 
@@ -12,7 +12,7 @@ Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment
 
 (4) A leverage ratio of 4 percent.
 
-(5) For advanced approaches Board-regulated institutions, a supplementary leverage ratio of 3 percent.
+(5) For advanced approaches Board-regulated institutions or, for Category III Board-regulated institutions, a supplementary leverage ratio of 3 percent.
 
 (b) *Standardized capital ratio calculations.* Other than as provided in paragraph (c) of this section:
 
@@ -24,7 +24,7 @@ Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment
 
 (4) *Leverage ratio.* A Board-regulated institution's leverage ratio is the ratio of the Board-regulated institution's tier 1 capital to the Board-regulated institution's average total consolidated assets as reported on the Board-regulated institution's Call Report, for a state member bank, or the Consolidated Financial Statements for Bank Holding Companies (FR Y-9C), for a bank holding company or savings and loan holding company, as applicable minus amounts deducted from tier 1 capital under § 217.22(a), (c) and (d).
 
-(c) *Advanced approaches capital ratio calculations.* An advanced approaches Board-regulated institution that has completed the parallel run process and received notification from the Board pursuant to § 217.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches Board-regulated institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the Board-regulated institution meets any of the criteria in § 217.100(b)(1).
+(c) *Advanced approaches and Category III capital ratio calculations.* An advanced approaches Board-regulated institution that has completed the parallel run process and received notification from the Board pursuant to § 217.121(d) must determine its regulatory capital ratios as described in paragraphs (c)(1) through (3) of this section. An advanced approaches Board-regulated institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the Board-regulated institution meets any of the criteria in § 217.100(b)(1). A Category III Board-regulated institution must determine its supplementary leverage ratio in accordance with paragraph (c)(4) of this section, beginning with the calendar quarter immediately following the quarter in which the Board-regulated institution is identified as a Category III Board-regulated institution.
 
 (1) *Common equity tier 1 capital ratio.* The Board-regulated institution's common equity tier 1 capital ratio is the lower of:
 
@@ -48,7 +48,7 @@ Link to an amendment published at 84 FR 59271, Nov. 1, 2019.Link to an amendment
 
 (B) An advanced approaches Board-regulated institution must add to its total capital any eligible credit reserves that exceed the Board-regulated institution's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the Board-regulated institution's credit risk-weighted assets.
 
-(4) *Supplementary leverage ratio.* (i) An advanced approaches Board-regulated institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
+(4) *Supplementary leverage ratio.* (i) An advanced approaches Board-regulated institution's or a Category III Board-regulated institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
 
 (A) The mean of the on-balance sheet assets calculated as of each day of the reporting quarter; and
 
@@ -132,4 +132,4 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) A Board-regulated institution must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019]

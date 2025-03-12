@@ -1,7 +1,5 @@
 ##### § 217.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 84 FR 59269, Nov. 1, 2019.
-
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for entities described in paragraph (c)(1) of this section. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the Board to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act, section 8 of the Bank Holding Company Act, or section 10 of the Home Owners' Loan Act.
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 59269, Nov. 1, 2019.
 
 (iii) Each advanced approaches Board-regulated institution must make the public disclosures described in subpart E of this part.
 
-(d) *Reservation of authority.* (1) *Additional capital in the aggregate.* The Board may require a Board-regulated institution to hold an amount of regulatory capital greater than otherwise required under this part if the Board determines that the Board-regulated institution's capital requirements under this part are not commensurate with the Board-regulated institution's credit, market, operational, or other risks.
+(d) *Reservation of authority*—(1) *Additional capital in the aggregate.* The Board may require a Board-regulated institution to hold an amount of regulatory capital greater than otherwise required under this part if the Board determines that the Board-regulated institution's capital requirements under this part are not commensurate with the Board-regulated institution's credit, market, operational, or other risks.
 
 (2) *Regulatory capital elements.* (i) If the Board determines that a particular common equity tier 1, additional tier 1, or tier 2 capital element has characteristics or terms that diminish its ability to absorb losses, or otherwise present safety and soundness concerns, the Board may require the Board-regulated institution to exclude all or a portion of such element from common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, as appropriate.
 
@@ -84,4 +82,6 @@ Link to an amendment published at 84 FR 59269, Nov. 1, 2019.
 
 (4) Beginning Jan. 1, 2018, a global systemically important BHC (as defined in § 217.2) is subject to limitations on distributions and discretionary bonus payments in accordance with the lower of the maximum payout amount as determined under § 217.11(a)(2)(iii) and the maximum leverage payout amount as determined under § 217.11(a)(2)(vi).
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015; 83 FR 44198, Aug. 30, 2018]
+(5) A depository institution holding company, a U.S. intermediate holding company, or a state member bank that changes from one category of Board-regulated institution to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the company's category.
+
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 59269, Nov. 1, 2019]

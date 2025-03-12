@@ -1,23 +1,21 @@
 ##### § 329.50 Transitions. #####
 
-Link to an amendment published at 84 FR 59283, Nov. 1, 2019.
+(a) *No transition for certain FDIC-supervised institutions.* An FDIC-supervised institution that is subject to the minimum liquidity standard and other requirements of this part prior to December 31, 2019 must comply with the minimum liquidity standard and other requirements of this part as of December 31, 2019.
 
-(a) Covered depository institution holding companies with $700 billion or more in total consolidated assets or $10 trillion or more in assets under custody. For any depository institution holding company that has total consolidated assets equal to $700 billion or more, as reported on the company's most recent Consolidated Financial Statements for Holding Companies (FR Y-9C), or $10 trillion or more in assets under custody, as reported on the company's most recent Banking Organization Systemic Risk Report (FR Y-15), and any depository institution that is a consolidated subsidiary of such depository institution holding company that has total consolidated assets equal to $10 billion or more, as reported on the most recent year-end Consolidated Report of Condition and Income:
+(b) [Reserved]
 
-(1) Beginning January 1, 2015, through June 30, 2015, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.80.
+(c) *Initial application.* (1) An FDIC-supervised institution that initially becomes subject to the minimum liquidity standard and other requirements of this part under § 329.1(b)(1)(i) must comply with the requirements of this part beginning on the first day of the third calendar quarter after which the FDIC-supervised institution becomes subject to this part, except that an FDIC-supervised institution must:
 
-(2) Beginning July 1, 2015 through December 31, 2015, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.80.
+(i) For the first two calendar quarters after the FDIC-supervised institution begins complying with the minimum liquidity standard and other requirements of this part, calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month; and
 
-(3) Beginning January 1, 2016, through December 31, 2016, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.90.
+(ii) Beginning the first day of the fifth calendar quarter after the FDIC-supervised institution becomes subject to the minimum liquidity standard and other requirements of this part and continuing thereafter, calculate and maintain a liquidity coverage ratio on each calculation date.
 
-(4) On January 1, 2017, and thereafter, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio on each calculation date that is equal to or greater than 1.0.
+(2) An FDIC-supervised institution that becomes subject to the minimum liquidity standard and other requirements of this part under § 329.1(b)(1)(ii), must comply with the requirements of this part subject to a transition period specified by the FDIC.
 
-(b) *Other FDIC-supervised institution's* For any FDIC-supervised institution subject to a minimum liquidity standard under this part not described in paragraph (a) of this section:
+(d) *Transition into a different outflow adjustment percentage.* (1) An FDIC-supervised institution whose outflow adjustment percentage changes is subject to transition periods as set forth in § 329.30(d).
 
-(1) Beginning January 1, 2015, through December 31, 2015, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.80.
+(2) An FDIC-supervised institution that is no longer subject to the minimum liquidity standard and other requirements of this part pursuant to § 329.1(b)(1)(i) based on the size of total consolidated assets, cross-jurisdictional activity, total nonbank assets, weighted short-term wholesale funding, or off-balance sheet exposure calculated in accordance with the Call Report, the instructions to the FR Y-9LP or the FR Y-15 or equivalent reporting form, as applicable, for each of the four most recent calendar quarters may cease compliance with this part as of the first day of the first quarter after it is no longer subject to § 329.1(b)(1).
 
-(2) Beginning January 1, 2016, through June 30, 2016, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.90.
+(e) *Reservation of authority.* The FDIC may extend or accelerate any compliance date of this part if the FDIC determines that such extension or acceleration is appropriate. In determining whether an extension or acceleration is appropriate, the FDIC will consider the effect of the modification on financial stability, the period of time for which the modification would be necessary to facilitate compliance with this part, and the actions the FDIC-supervised supervised institution is taking to come into compliance with this part.
 
-(3) Beginning July 1, 2016, through December 31, 2016, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio on each calculation date in accordance with this part that is equal to or greater than 0.90.
-
-(4) On January 1, 2017, and thereafter, the FDIC-supervised institution must calculate and maintain a liquidity coverage ratio on each calculation date that is equal to or greater than 1.0.
+[84 FR 59283, Nov. 1, 2019]

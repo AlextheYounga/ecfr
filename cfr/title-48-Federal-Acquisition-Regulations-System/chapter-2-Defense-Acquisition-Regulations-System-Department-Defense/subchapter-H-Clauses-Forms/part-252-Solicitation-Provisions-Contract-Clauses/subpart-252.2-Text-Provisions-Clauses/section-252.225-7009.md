@@ -2,7 +2,7 @@
 
 As prescribed in 225.7003-5(a)(2), use the following clause:
 
-Restriction on Acquisition of Certain Articles Containing Specialty Metals (OCT 2014)
+Restriction on Acquisition of Certain Articles Containing Specialty Metals (DEC 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -49,12 +49,6 @@ Restriction on Acquisition of Certain Articles Containing Specialty Metals (OCT 
 (iii) Final consolidation of non-melt derived metal powders.
 
 *Qualifying country* means any country listed in the definition of “Qualifying country” at 225.003 of the Defense Federal Acquisition Regulation Supplement (DFARS).
-
-*Required form* means in the form of mill product, such as bar, billet, wire, slab, plate, or sheet, and in the grade appropriate for the production of -
-
-(i) A finished end item to be delivered to the Government under this contract; or
-
-(ii) A finished component assembled into an end item to be delivered to the Government under this contract.
 
 *Specialty metal* means -
 
@@ -118,7 +112,7 @@ Restriction on Acquisition of Certain Articles Containing Specialty Metals (OCT 
 
 (ii) A sufficient quantity; and
 
-(iii) The required form.
+(iii) The required form. In accordance with 10 U.S.C. 2533b(m)(4), the term “required form” in this clause refers to the form of the mill product, such as bar, billet, wire, slab, plate, or sheet, in the grade appropriate for the production of a finished end item to be delivered to the Government under this contract; or a finished component assembled into an end item to be delivered to the Government under this contract.
 
 (6) End items containing a minimal amount of otherwise noncompliant specialty metals (*i.e.*, specialty metals not melted or produced in the United States, an outlying area, or a qualifying country, that are not covered by one of the other exceptions in this paragraph (c)), if the total weight of such noncompliant metals does not exceed 2 percent of the total weight of all specialty metals in the end item, as estimated in good faith by the Contractor. This exception does not apply to high performance magnets containing specialty metals.
 
@@ -142,4 +136,4 @@ Restriction on Acquisition of Certain Articles Containing Specialty Metals (OCT 
 
 (ii) Not further alter the clause other than to identify the appropriate parties.
 
-(End of clause)[74 FR 37639, July 29, 2009, as amended at 76 FR 3538, Jan. 20, 2011; 77 FR 35882, June 15, 2012; 78 FR 18879, Mar. 28, 2013; 78 FR 37990, June 25, 2013; 79 FR 61585, Oct. 14, 2014]
+(End of clause)[74 FR 37639, July 29, 2009, as amended at 76 FR 3538, Jan. 20, 2011; 77 FR 35882, June 15, 2012; 78 FR 18879, Mar. 28, 2013; 78 FR 37990, June 25, 2013; 79 FR 61585, Oct. 14, 2014; 84 FR 72244, Dec. 31, 2019]

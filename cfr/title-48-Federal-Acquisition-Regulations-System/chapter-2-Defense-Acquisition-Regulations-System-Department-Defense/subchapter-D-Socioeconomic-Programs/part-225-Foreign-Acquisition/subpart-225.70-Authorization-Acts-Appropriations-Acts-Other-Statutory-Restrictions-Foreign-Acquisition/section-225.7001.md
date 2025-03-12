@@ -2,14 +2,28 @@
 
 As used in this subpart -
 
-(a) *Bearing components* is defined in the clause at 252.225-7016, Restriction on Acquisition of Ball and Roller Bearings.
+*Assembly* means an item forming a portion of a system or subsystem that -
 
-(b) “Component” is defined in the clauses at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals; 252.225-7012, Preference for Certain Domestic Commodities, and 252.225-7016, Restriction on Acquisition of Ball and Roller Bearings, except that for use in 225.7007, the term has the meaning given in the clause at 252.225-7019, Restriction on Acquisition of Anchor and Mooring Chain.
+(1) Can be provisioned and replaced as an entity; and
 
-(c) “End product” is defined in the clause at 252.225-7012, Preference for Certain Domestic Commodities.
+(2) Incorporates multiple, replaceable parts.
 
-(d) *Hand or measuring tools* means those tools listed in Federal supply classifications 51 and 52, respectively.
+*Bearing components* means the bearing element, retainer, inner race, or outer race.
 
-(e) *Structural component of a tent* is defined in the clause at 252.225-7012, Preference for Certain Domestic Commodities.
+*Component* means any item supplied to the Government as part of an end item or of another component except that for use in 225.7007, the term means an article, material, or supply incorporated directly into an end product.
 
-[61 FR 10899, Mar. 18, 1996, as amended at 61 FR 50453, Sept. 26, 1996; 67 FR 20697, Apr. 26, 2002; 71 FR 14111, Mar. 21, 2006; 74 FR 37636, July 29, 2009; 74 FR 68383, Dec. 24, 2009; 77 FR 38736, June 29, 2012]
+*End item,* as used in sections 225.7003 and 225.7018, means the final production product when assembled or completed and ready for delivery under a line item of the contract (10 U.S.C. 2533b(m)).
+
+*End product* means supplies delivered under a line item of the contract.
+
+*Hand or measuring tools* means those tools listed in Federal supply classifications 51 and 52, respectively.
+
+*Structural component of a tent* -
+
+(1) Means a component that contributes to the form and stability of the tent (*e.g.,* poles, frames, flooring, guy ropes, pegs); and
+
+(2) Does not include equipment such as heating, cooling, or lighting.
+
+*Subsystem* means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, altitude control, and propulsion.
+
+[84 FR 72243, Dec. 31, 2019]

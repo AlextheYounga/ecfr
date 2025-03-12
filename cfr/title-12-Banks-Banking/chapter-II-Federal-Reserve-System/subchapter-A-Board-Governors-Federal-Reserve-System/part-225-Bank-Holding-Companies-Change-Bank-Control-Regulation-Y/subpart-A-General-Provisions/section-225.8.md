@@ -1,12 +1,10 @@
 ##### § 225.8 Capital planning. #####
 
-Link to an amendment published at 84 FR 59075, Nov. 1, 2019.
-
 (a) *Purpose.* This section establishes capital planning and prior notice and approval requirements for capital distributions by certain bank holding companies.
 
 (b) *Scope and reservation of authority* - (1) *Applicability.* Except as provided in paragraph (c) of this section, this section applies to:
 
-(i) Any top-tier bank holding company domiciled in the United States with average total consolidated assets of $50 billion or more ($50 billion asset threshold);
+(i) Any top-tier bank holding company domiciled in the United States with average total consolidated assets of $100 billion or more ($100 billion asset threshold);
 
 (ii) Any other bank holding company domiciled in the United States that is made subject to this section, in whole or in part, by order of the Board;
 
@@ -14,29 +12,19 @@ Link to an amendment published at 84 FR 59075, Nov. 1, 2019.
 
 (iv) Any nonbank financial company supervised by the Board that is made subject to this section pursuant to a rule or order of the Board.
 
-(2) *Average total consolidated assets.* For purposes of this section, average total consolidated assets means the average of the total consolidated assets as reported by a bank holding company on its Consolidated Financial Statements for Bank Holding Companies (FR Y-9C) for the four most recent consecutive quarters. If the bank holding company has not filed the FR Y-9C for each of the four most recent consecutive quarters, average total consolidated assets means the average of the company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable. Average total consolidated assets are measured on the as-of date of the most recent FR Y-9C used in the calculation of the average.
+(2) *Average total consolidated assets.* For purposes of this section, average total consolidated assets means the average of the total consolidated assets as reported by a bank holding company on its Consolidated Financial Statements for Holding Companies (FR Y-9C) for the four most recent consecutive quarters. If the bank holding company has not filed the FR Y-9C for each of the four most recent consecutive quarters, average total consolidated assets means the average of the company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable. Average total consolidated assets are measured on the as-of date of the most recent FR Y-9C used in the calculation of the average.
 
-(3) *Ongoing applicability.* A bank holding company (including any successor bank holding company) that is subject to any requirement in this section shall remain subject to such requirements unless and until its total consolidated assets fall below $50 billion for each of four consecutive quarters, as reported on the FR Y-9C and effective on the as-of date of the fourth consecutive FR Y-9C.
+(3) *Ongoing applicability.* A bank holding company (including any successor bank holding company) that is subject to any requirement in this section shall remain subject to such requirements unless and until its total consolidated assets fall below $100 billion for each of four consecutive quarters, as reported on the FR Y-9C and effective on the as-of date of the fourth consecutive FR Y-9C.
 
 (4) *Reservation of authority.* Nothing in this section shall limit the authority of the Federal Reserve to issue a capital directive or take any other supervisory or enforcement action, including an action to address unsafe or unsound practices or conditions or violations of law.
 
 (5) *Rule of construction.* Unless the context otherwise requires, any reference to bank holding company in this section shall include a U.S. intermediate holding company and shall include a nonbank financial company supervised by the Board to the extent this section is made applicable pursuant to a rule or order of the Board.
 
-(c) *Transitional arrangements* - (1) *Transition periods for certain bank holding companies.* (i) A bank holding company that meets the $50 billion asset threshold (as measured under paragraph (b) of this section) on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
+(c) *Transition periods for certain bank holding companies.* (1) A bank holding company that meets the $100 billion asset threshold (as measured under paragraph (b) of this section) on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
 
-(ii) A bank holding company that meets the $50 billion asset threshold after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the bank holding company meets the $50 billion asset threshold, unless that time is extended by the Board in writing.
+(2) A bank holding company that meets the $100 billion asset threshold after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the bank holding company meets the $100 billion asset threshold, unless that time is extended by the Board in writing.
 
-(iii) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(1)(i) or (ii) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
-
-(2) *Transition periods for subsidiaries of certain foreign banking organizations* - (i) *U.S. intermediate holding companies.* (A) A U.S. intermediate holding company required to be established or designated pursuant to 12 CFR 252.153 on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
-
-(B) A U.S. intermediate holding company required to be established or designated pursuant to 12 CFR 252.153 after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the U.S. intermediate holding company is required to be established, unless that time is extended by the Board in writing.
-
-(C) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a U.S. intermediate holding company described in paragraph (c)(2)(i)(A) or (B) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
-
-(ii) *Bank holding company subsidiaries of U.S. intermediate holding companies required to be established by July 1, 2016.* (A) Notwithstanding any other requirement in this section, a bank holding company that is a subsidiary of a U.S. intermediate holding company (or, with the mutual consent of the company and Board, another bank holding company domiciled in the United States) shall remain subject to paragraph (e) of this section until December 31, 2017, and shall remain subject to the requirements of paragraphs (f) and (g) of this section until the Board issues an objection or non-objection to the capital plan of the relevant U.S. intermediate holding company.
-
-(B) After the time periods set forth in paragraph (c)(2)(ii)(A) of this section, this section will cease to apply to a bank holding company that is a subsidiary of a U.S. intermediate holding company, unless otherwise determined by the Board in writing.
+(3) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(1) or (2) of this section to comply with any or all of the requirements in paragraph (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
 
 (d) *Definitions.* For purposes of this section, the following definitions apply:
 
@@ -294,4 +282,4 @@ Link to an amendment published at 84 FR 59075, Nov. 1, 2019.
 
 (D) While the Board's final decision is pending and until such time as the Board or the appropriate Reserve Bank with concurrence of the Board, approves the capital distribution at issue, the bank holding company may not make such capital distribution.
 
-[82 FR 9323, Feb. 3, 2017, as amended at 84 FR 8958, Mar. 13, 2019]
+[82 FR 9323, Feb. 3, 2017, as amended at 84 FR 8958, Mar. 13, 2019; 84 FR 59075, Nov. 1, 2019]

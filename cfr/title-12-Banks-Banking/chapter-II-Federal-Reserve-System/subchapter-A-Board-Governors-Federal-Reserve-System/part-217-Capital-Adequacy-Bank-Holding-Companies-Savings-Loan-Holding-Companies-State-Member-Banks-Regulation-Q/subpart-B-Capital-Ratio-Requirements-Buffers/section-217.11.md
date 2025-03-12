@@ -1,7 +1,5 @@
 ##### § 217.11 Capital conservation buffer, countercyclical capital buffer amount, and GSIB surcharge. #####
 
-Link to an amendment published at 84 FR 59271, Nov. 1, 2019.
-
 (a) *Capital conservation buffer.* (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
@@ -52,11 +50,11 @@ Table 1 to § 217.11 - Calculation of Maximum Payout Amount
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to a Board-regulated institution under 12 CFR 225.4, 12 CFR 225.8, and 12 CFR 263.202.
 
-(b) *Countercyclical capital buffer amount.* (1) *General.* An advanced approaches Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with the following paragraphs for purposes of determining its maximum payout ratio under Table 1 to § 217.11.
+(b) *Countercyclical capital buffer amount.* (1) *General.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with this paragraph (b) for purposes of determining its maximum payout ratio under Table 1 to this section.
 
 (i) *Extension of capital conservation buffer.* The countercyclical capital buffer amount is an extension of the capital conservation buffer as described in paragraph (a) of this section.
 
-(ii) *Amount.* An advanced approaches Board-regulated institution has a countercyclical capital buffer amount determined by calculating the weighted average of the countercyclical capital buffer amounts established for the national jurisdictions where the Board-regulated institution's private sector credit exposures are located, as specified in paragraphs (b)(2) and (3) of this section.
+(ii) *Amount.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution has a countercyclical capital buffer amount determined by calculating the weighted average of the countercyclical capital buffer amounts established for the national jurisdictions where the Board-regulated institution's private sector credit exposures are located, as specified in paragraphs (b)(2) and (3) of this section.
 
 (iii) *Weighting.* The weight assigned to a jurisdiction's countercyclical capital buffer amount is calculated by dividing the total risk-weighted assets for the Board-regulated institution's private sector credit exposures located in the jurisdiction by the total risk-weighted assets for all of the Board-regulated institution's private sector credit exposures. The methodology a Board-regulated institution uses for determining risk-weighted assets for purposes of this paragraph (b) must be the methodology that determines its risk-based capital ratios under § 217.10. Notwithstanding the previous sentence, the risk-weighted asset amount for a private sector credit exposure that is a covered position under subpart F of this part is its specific risk add-on as determined under § 217.210 multiplied by 12.5.
 
@@ -104,4 +102,4 @@ Table 2 to § 217.11 - Calculation of Maximum Leverage Payout Amount
 |Less than or equal to 1.0 percent, and greater than 0.5 percent|                                      20 percent.                                      |
 |               Less than or equal to 0.5 percent               |                                      0 percent.                                       |
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015; 83 FR 705, Jan. 8, 2018; 83 FR 17477, Apr. 20, 2018; 84 FR 35259, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015; 83 FR 705, Jan. 8, 2018; 83 FR 17477, Apr. 20, 2018; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019]

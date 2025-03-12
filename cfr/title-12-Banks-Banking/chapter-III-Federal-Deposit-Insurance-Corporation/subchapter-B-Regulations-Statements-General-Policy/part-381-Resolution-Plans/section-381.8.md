@@ -1,45 +1,19 @@
-##### § 381.8 No limiting effect or private right of action; confidentiality of resolution plans. #####
+##### § 381.8 Review of resolution plans; resubmission of deficient resolution plans. #####
 
-(a) *No limiting effect on bankruptcy or other resolution proceedings.* A resolution plan submitted pursuant to this part shall not have any binding effect on:
+(a) *Review of resolution plans.* The Board and Corporation will seek to coordinate their activities concerning the review of resolution plans, including planning for, reviewing, and assessing the resolution plans, as well as such activities that occur during the periods between resolution plan submissions.
 
-(1) A court or trustee in a proceeding commenced under the Bankruptcy Code;
+(b) *Joint determination regarding deficient resolution plans.* If the Board and Corporation jointly determine that the resolution plan of a covered company submitted under § 381.4 is not credible or would not facilitate an orderly resolution of the covered company under the Bankruptcy Code, the Board and Corporation shall jointly notify the covered company in writing of such determination. Any joint notice provided under this paragraph (b) shall be provided pursuant to paragraph (f) of this section and shall identify the deficiencies identified by the Board and Corporation in the resolution plan. A deficiency is an aspect of a covered company's resolution plan that the Board and Corporation jointly determine presents a weakness that individually or in conjunction with other aspects could undermine the feasibility of the covered company's resolution plan.
 
-(2) A receiver appointed under title II of the Dodd-Frank Act (12 U.S.C. 5381 *et seq.*);
+(c) *Resubmission of a resolution plan.* Within 90 days of receiving a notice of deficiencies issued pursuant to paragraph (b) of this section, or such shorter or longer period as the Board and Corporation may jointly determine, a covered company shall submit a revised resolution plan to the Board and Corporation that addresses the deficiencies jointly identified by the Board and Corporation, and that discusses in detail:
 
-(3) A bridge financial company chartered pursuant to 12 U.S.C. 5390(h); or
+(1) The revisions made by the covered company to address the deficiencies jointly identified by the Board and the Corporation;
 
-(4) Any other authority that is authorized or required to resolve a covered company (including any subsidiary or affiliate thereof) under any other provision of Federal, state, or foreign law.
+(2) Any changes to the covered company's business operations and corporate structure that the covered company proposes to undertake to facilitate implementation of the revised resolution plan (including a timeline for the execution of such planned changes); and
 
-(b) *No private right of action.* Nothing in this part creates or is intended to create a private right of action based on a resolution plan prepared or submitted under this part or based on any action taken by the Board or the Corporation with respect to any resolution plan submitted under this part.
+(3) Why the covered company believes that the revised resolution plan is credible and would result in an orderly resolution of the covered company under the Bankruptcy Code.
 
-(c) *Form of resolution plans.* Each resolution plan of a covered company shall be divided into a public section and a confidential section. Each covered company shall segregate and separately identify the public section from the confidential section. The public section shall consist of an executive summary of the resolution plan that describes the business of the covered company and includes, to the extent material to an understanding of the covered company:
+(d) *Extensions of time.* Upon their own initiative or a written request by a covered company, the Board and Corporation may jointly extend any time period under this section. Each extension request shall be supported by a written statement of the covered company describing the basis and justification for the request.
 
-(1) The names of material entities;
+(e) *Joint determination regarding shortcomings in resolution plans.* The Board and Corporation may also jointly identify one or more shortcomings in a covered company's resolution plan. A shortcoming is a weakness or gap that raises questions about the feasibility of a covered company's resolution plan, but does not rise to the level of a deficiency for both the Board and Corporation. If a shortcoming is not satisfactorily explained or addressed before or in the submission of the covered company's next resolution plan, it may be found to be a deficiency in the covered company's next resolution plan. The Board and the Corporation may identify an aspect of a covered company's resolution plan as a deficiency even if such aspect was not identified as a shortcoming in an earlier resolution plan submission.
 
-(2) A description of core business lines;
-
-(3) Consolidated or segment financial information regarding assets, liabilities, capital and major funding sources;
-
-(4) A description of derivative activities and hedging activities;
-
-(5) A list of memberships in material payment, clearing and settlement systems;
-
-(6) A description of foreign operations;
-
-(7) The identities of material supervisory authorities;
-
-(8) The identities of the principal officers;
-
-(9) A description of the corporate governance structure and processes related to resolution planning;
-
-(10) A description of material management information systems; and
-
-(11) A description, at a high level, of the covered company's resolution strategy, covering such items as the range of potential purchasers of the covered company, its material entities and core business lines.
-
-(d) *Confidential treatment of resolution plans.* (1) The confidentiality of resolution plans and related materials shall be determined in accordance with applicable exemptions under the Freedom of Information Act (5 U.S.C. 552(b)) and the Board's Rules Regarding Availability of Information (12 CFR part 261), and the Corporation's Disclosure of Information Rules (12 CFR part 309).
-
-(2) Any covered company submitting a resolution plan or related materials pursuant to this part that desires confidential treatment of the information under 5 U.S.C. 552(b)(4), the Board's Rules Regarding Availability of Information (12 CFR part 261), and the Corporation's Disclosure of Information Rules (12 CFR part 309) may file a request for confidential treatment in accordance with those rules.
-
-(3) To the extent permitted by law, information comprising the Confidential Section of a resolution plan will be treated as confidential.
-
-(4) To the extent permitted by law, the submission of any nonpublic data or information under this part shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or state law (including the rules of any Federal or state court) to which the data or information is otherwise subject. Privileges that apply to resolution plans and related materials are protected pursuant to Section 18(x) of the FDI Act, 12 U.S.C. 1828(x).
+(f) *Feedback.* Following their review of a resolution plan, the Board and the Corporation will jointly send a notification to each covered company that identifies any deficiencies or shortcomings in the covered company's resolution plan (or confirms that no deficiencies or shortcomings were identified) and provides any feedback on the resolution plan. The Board and the Corporation will jointly send the notification no later than 12 months after the later of the date on which the covered company submitted the resolution plan and the date by which the covered company was required to submit the resolution plan, unless the Board and the Corporation jointly determine in their discretion that extenuating circumstances exist that require delay.

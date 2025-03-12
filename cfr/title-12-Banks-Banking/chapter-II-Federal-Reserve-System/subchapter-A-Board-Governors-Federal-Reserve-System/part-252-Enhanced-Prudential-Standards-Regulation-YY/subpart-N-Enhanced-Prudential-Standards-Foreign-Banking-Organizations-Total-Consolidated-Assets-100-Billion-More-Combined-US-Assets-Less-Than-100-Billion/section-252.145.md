@@ -1,0 +1,7 @@
+##### § 252.145 Liquidity risk-management requirements for foreign banking organizations with total consolidated assets of $250 billion or more and combined U.S. assets of less than $100 billion. #####
+
+(a) A foreign banking organization subject to this subpart with average total consolidated assets of $250 billion or more must report to the Board on an annual basis the results of an internal liquidity stress test for either the consolidated operations of the foreign banking organization or the combined U.S. operations of the foreign banking organization. Such liquidity stress test must be conducted consistent with the Basel Committee principles for liquidity risk management and must incorporate 30-day, 90-day, and one-year stress-test horizons. The “Basel Committee principles for liquidity risk management” means the document titled “Principles for Sound Liquidity Risk Management and Supervision” (September 2008) as published by the Basel Committee on Banking Supervision, as supplemented and revised from time to time.
+
+(b) A foreign banking organization that does not comply with paragraph (a) of this section must limit the net aggregate amount owed by the foreign banking organization's non-U.S. offices and its non-U.S. affiliates to the combined U.S. operations to 25 percent or less of the third party liabilities of its combined U.S. operations, on a daily basis.
+
+[Reg. YY, 79 FR 17324, Mar. 27, 2014, as amended at 84 FR 59111, Nov. 1, 2019]

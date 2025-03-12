@@ -1,5 +1,7 @@
 ##### 225.7503 Contract clauses. #####
 
+Link to an amendment published at 84 FR 72247, Dec. 31, 2019.
+
 Unless the entire acquisition is exempt from the Balance of Payments Program -
 
 (a) Use the basic or an alternate of the clause at 252.225-7044, Balance of Payments Program - Construction Material, in solicitations and contracts for construction to be performed outside the United States, including acquisitions of commercial items or components, with an estimated value greater than the simplified acquisition threshold but less than $6,932,000.
