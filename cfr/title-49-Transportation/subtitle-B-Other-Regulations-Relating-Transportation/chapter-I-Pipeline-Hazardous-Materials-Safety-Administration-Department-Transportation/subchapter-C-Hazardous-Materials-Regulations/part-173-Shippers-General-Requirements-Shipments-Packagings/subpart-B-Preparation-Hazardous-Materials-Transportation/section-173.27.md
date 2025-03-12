@@ -1,6 +1,6 @@
 ##### § 173.27 General requirements for transportation by aircraft. #####
 
-Link to an amendment published at 87 FR 44991, July 26, 2022.
+Link to an amendment published at 87 FR 44991, July 26, 2022.Link to a correction published at 87 FR 50273, Aug. 16, 2022.
 
 (a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft.
 

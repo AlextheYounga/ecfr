@@ -1,5 +1,7 @@
 ##### § 285.6 Administrative offset under reciprocal agreements with states. #####
 
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+
 (a) *Scope.* (1) This section sets forth the rules that apply to the administrative offset of Federal nontax payments to collect delinquent debts owed to States. As set forth in 31 U.S.C. 3716(h), States may participate in administrative offset so long as they meet certain requirements, including entering into reciprocal agreements with the Secretary of the Treasury. Such reciprocal agreements may contain any requirements that the Secretary considers appropriate to facilitate offset. Participation in offset under this section is voluntary for both Fiscal Service and the States. This section prescribes the minimum requirements for such reciprocal agreements, including provisions applicable to the offset of State payments, pursuant to State law, to collect delinquent Federal debts. Such offsets are defined in this section as “State payment offsets.”
 
 (2) This section does not apply to the offset of Federal salary payments, Federal tax refunds (see 31 CFR 285.8), or the collection of past-due support debts (see 31 CFR 285.1 and 285.3).

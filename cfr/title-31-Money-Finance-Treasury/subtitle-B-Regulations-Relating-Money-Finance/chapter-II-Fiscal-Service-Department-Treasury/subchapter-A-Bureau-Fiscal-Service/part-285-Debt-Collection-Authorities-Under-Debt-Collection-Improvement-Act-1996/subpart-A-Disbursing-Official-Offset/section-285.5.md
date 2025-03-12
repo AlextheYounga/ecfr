@@ -1,5 +1,7 @@
 ##### § 285.5 Centralized offset of Federal payments to collect nontax debts owed to the United States. #####
 
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+
 (a) *Scope.* (1) This section governs the centralized offset of Federal payments to collect delinquent, nontax debts owed to Federal agencies in accordance with 31 U.S.C. 3716, 3720A and 26 U.S.C. 6402 and applicable regulations. The Department of the Treasury's Bureau of the Fiscal Service (Fiscal Service) administers centralized offset through the Treasury Offset Program. Offset occurs when the Federal government withholds part or all of a debtor's Federal payment to satisfy the debtor's delinquent debt owed to the government.
 
 (2) Special rules apply to the collection of delinquent, nontax debts through the centralized offset of certain types of Federal payments, including tax refunds (31 CFR 285.2), Federal benefit payments (31 CFR 285.4), and Federal salary payments (31 CFR 285.7). While this rule applies to such payments, nothing in this rule is intended to contradict any provision of those more specific sections. To the extent any provision of this rule is inconsistent with a more specific provision of § 285.2, § 285.4 or § 285.7 of this part, the more specific provision shall apply.

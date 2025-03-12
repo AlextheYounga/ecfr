@@ -1,5 +1,7 @@
 ##### § 285.8 Offset of tax refund payments to collect certain debts owed to States. #####
 
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+
 (a) *Definitions.* For purposes of this section:
 
 *Debt* means past-due, legally enforceable State income tax obligation or unemployment compensation debt unless otherwise indicated.

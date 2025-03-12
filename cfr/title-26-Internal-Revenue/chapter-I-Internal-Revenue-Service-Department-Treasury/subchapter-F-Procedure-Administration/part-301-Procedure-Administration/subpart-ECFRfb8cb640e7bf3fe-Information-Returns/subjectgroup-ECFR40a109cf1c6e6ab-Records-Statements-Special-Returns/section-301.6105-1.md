@@ -1,0 +1,3 @@
+##### § 301.6105-1 Compilation of relief from excess profits tax cases. #####
+
+Pursuant to and in accordance with the provisions of section 6105, the Commissioner shall make and publish in the Federal Register a compilation, for each fiscal year beginning after June 30, 1941, of all cases in which relief under the provisions of section 722 of the Internal Revenue Code of 1939, as amended, has been allowed during such fiscal year by the Commissioner and by the Tax Court of the United States.

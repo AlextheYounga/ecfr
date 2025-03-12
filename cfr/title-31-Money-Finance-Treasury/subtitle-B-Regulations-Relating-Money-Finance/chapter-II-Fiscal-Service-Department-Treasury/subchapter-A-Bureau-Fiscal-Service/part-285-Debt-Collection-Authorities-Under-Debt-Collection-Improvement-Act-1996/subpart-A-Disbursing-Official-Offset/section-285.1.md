@@ -1,5 +1,7 @@
 ##### § 285.1 Collection of past-due support by administrative offset. #####
 
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+
 (a) *Definitions.* For purposes of this section:
 
 *Administrative offset* means withholding funds payable by the United States (including funds payable by the United States on behalf of a State government) to, or held by the United States for, a person to satisfy a debt.

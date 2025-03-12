@@ -1,5 +1,7 @@
 ##### § 285.3 Offset of tax refund payments to collect past-due support. #####
 
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+
 (a) *Definitions.* For purposes of this section:
 
 *Debt* as used in this section is synonymous with the term past-due support unless otherwise indicated.

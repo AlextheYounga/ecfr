@@ -1,5 +1,7 @@
 ##### § 285.12 Transfer of debts to Treasury for collection. #####
 
+Link to an amendment published at 87 FR 50249, Aug. 16, 2022.
+
 (a) *Definitions.* For purposes of this section:
 
 *Agency* means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of the Federal Government, including government corporations.
