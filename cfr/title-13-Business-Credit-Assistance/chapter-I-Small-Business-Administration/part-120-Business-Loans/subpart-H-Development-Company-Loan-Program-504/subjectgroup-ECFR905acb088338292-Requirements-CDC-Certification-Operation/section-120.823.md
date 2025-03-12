@@ -1,8 +1,6 @@
 ##### § 120.823 CDC Board of Directors. #####
 
-Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
-
-(a) The CDC, whether for-profit or nonprofit, must have a Board of Directors with at least nine (9) voting directors. A CDC may request the approval of the D/FA or designee to have a Board with fewer directors than 9 for good cause. SBA recommends that the CDC create a Board with no more than 25 voting directors. The Board must be actively involved in encouraging economic development in the Area of Operations. The initial Board may be created by any method permitted by applicable State law. At a minimum, the Board must have directors with background and expertise in internal controls, financial risk management, commercial lending, legal issues relating to commercial lending, and corporate governance. Directors may be either currently employed or retired. A CDC must have at least one voting director that represents the economic, community or workforce development fields, and at least two voting directors that represent the commercial lending field.
+(a) The CDC, whether for-profit or non-profit, must have a Board of Directors with at least seven (7) voting directors who live or work in the CDC's State of incorporation or in an area that is contiguous to that State that meets the definition of a Local Economic Area for the CDC. The Board must be actively involved in encouraging economic development in the Area of Operations. The initial Board may be created by any method permitted by applicable State law. At a minimum, the Board must have directors with background and expertise in internal controls, financial risk management, commercial lending, legal issues relating to commercial lending, corporate governance, and economic, community or workforce development. Directors may be either currently employed or retired.
 
 (b) At least two voting members of the Board of Directors, other than the CDC manager, must possess commercial lending experience satisfactory to SBA. When the Board votes on SBA loan approval or servicing actions, at least two voting Board members, with such commercial lending experience, other than the CDC manager, must be present and vote.
 
@@ -14,9 +12,7 @@ Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
 
 (3) Attendance at meetings may be through any format permitted by State law;
 
-(4) Directors from the commercial lending fields must comprise less than 50% of the representation on the Board; and
-
-(5) No CDC Board member may serve on the Board of another CDC.
+(4) No CDC Board member may serve on the Board of another CDC.
 
 (d) The Board shall have and exercise all corporate powers and authority and be responsible for all corporate actions and business. There must be no actual or appearance of a conflict of interest with respect to any actions of the Board. The Board is responsible for ensuring that the structure and operation of the CDC, as set forth in the Bylaws, comply with SBA's Loan Program Requirements. The responsibilities of the Board include, but are not limited, to the following:
 
@@ -32,19 +28,19 @@ Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
 
 (A) Be chosen by and from the Board of Directors from the Board; and
 
-(B) Meet the same organizational and representational requirements as the Board of Directors, except that the Executive Committee must have a minimum of five voting members who must be present to conduct business.
+(B) Meet the same organizational and representational requirements as the Board of Directors, except that the Executive Committee must have a minimum of four voting members who must be present to conduct business.
 
 (ii) *Loan Committee.* The Board of Directors may establish a Loan Committee. The Loan Committee may exercise the authority of the Board only as set forth below; however, the delegation of its authority does not relieve the Board of its responsibility imposed by law or Loan Program Requirements. If the Board of Directors chooses to establish a Loan Committee, no CDC staff or manager may serve on the Loan Committee. The Loan Committee must:
 
 (A) Be chosen by the Board of Directors, and consist of individuals with a background in either financial risk management, commercial lending, or legal issues relating to commercial lending who are not associated with another CDC;
 
-(B) Have a Quorum of at least five (5) Loan Committee members authorized to vote;
+(B) Have a Quorum of at least four Loan Committee members authorized to vote;
 
 (C) Have at least two (2) Loan Committee members with commercial lending experience satisfactory to SBA;
 
 (D) Have no actual or appearance of a conflict of interest, including for example, a Loan Committee member participating in deliberations on a loan for which the Third Party Lender is the member's employer or the member is otherwise associated with the Third Party Lender; and
 
-(E) Consist of Loan Committee members who live or work in the Area of Operations of the State where the 504 project they are voting on is located unless the project falls under one of the exceptions listed in § 120.839.
+(E) Consist only of Loan Committee members who live or work in the CDC's State of incorporation or in an area that meets the definition of a Local Economic Area for the CDC, except that, for Projects that are financed under a CDC's Multi-State authority, the CDC must satisfy the requirements of either § 120.835(c)(1) or (2) when voting on that Project.
 
 (5) Ensuring that the CDC's expenses are reasonable and customary;
 
@@ -70,4 +66,4 @@ Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
 
 (e) The Board of Directors shall maintain Directors' and Officers' Liability and Errors and Omissions insurance in amounts established by SBA that are based on the size of the CDC's portfolio and other relevant factors.
 
-[79 FR 15649, Mar. 21, 2014, as amended at 82 FR 39504, Aug. 21, 2017]
+[79 FR 15649, Mar. 21, 2014, as amended at 82 FR 39504, Aug. 21, 2017; 84 FR 66294, Dec. 4, 2019]

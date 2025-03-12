@@ -1,5 +1,7 @@
 ##### § 165.1329 Regulated Navigation Area; Thea Foss and Wheeler-Osgood Waterways EPA Superfund Cleanup Site, Commencement Bay, Tacoma, WA. #####
 
+Link to an amendment published at 85 FR 214, Jan. 3, 2020.
+
 (a) *Regulated areas.* The following areas are regulated navigation areas:
 
 (1) All waters of the Thea Foss Waterway bounded by a line connecting the following points: Point 1: 47°15′43.49″ N, 122°26′23.29″ W; Point 2: 47°15′44.59″ N, 122°26′19.89″ W; Point 3: 47°15′39.01″ N, 122°26′15.99″ W; Point 4: 47°15′37.91″ N, 122°26′19.39″ W. [Datum: NAD 1983].

@@ -1,8 +1,6 @@
-##### § 1.1103 Schedule of charges for equipment approval, experimental radio services (or service). #####
+##### § 1.1103 Schedule of charges for assignment of grantee code, experimental radio services (or service). #####
 
-Link to an amendment published at 84 FR 66079, Dec. 3, 2019.
-
-Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, OET Services, P.O. Box 979095, St. Louis, MO 63197-9000.
+Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees*.
 
 |                                                  Service                                                   |                         FCC Form No.                          |Fee amount|Payment type code|
 |------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------|-----------------|
@@ -28,4 +26,4 @@ Payment can be made electronically using the Commission's electronic filing and 
 |                                       e. Special Temporary Authority                                       |                         Corres & 159                          |  70.00   |       EAE       |
 |f. Additional fee required for any of the above applications that request withholding from public inspection|                         Corres & 159                          |  70.00   |       EAE       |
 
-[83 FR 38046, Aug. 3, 2018]
+[83 FR 38046, Aug. 3, 2018, as amended at 84 FR 66079, Dec. 3, 2019]

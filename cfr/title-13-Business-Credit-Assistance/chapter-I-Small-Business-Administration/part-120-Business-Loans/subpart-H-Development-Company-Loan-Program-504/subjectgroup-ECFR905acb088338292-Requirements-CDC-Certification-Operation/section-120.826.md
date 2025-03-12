@@ -1,7 +1,5 @@
 ##### § 120.826 Basic requirements for operating a CDC. #####
 
-Link to an amendment published at 84 FR 66295, Dec. 4, 2019.
-
 A CDC must operate in accordance with the following requirements:
 
 (a) *In general.* CDCs must meet all 504 Loan Program Requirements. In its Area of Operations, a CDC must market the 504 program, package and process 504 loan applications, close and service 504 loans, and if authorized by SBA, liquidate and litigate 504 loans. It must supply to SBA current and accurate information about all certification and operational requirements, and maintain the records and submit all reports required by SBA.
@@ -24,7 +22,7 @@ A CDC must operate in accordance with the following requirements:
 
 (4) Address other control requirements as may be established by SBA.
 
-(c) *Annual Audited/Reviewed Financial Statements.* Each CDC with a 504 loan portfolio balance of $20 million or more (as calculated by SBA) must have its financial statements audited annually by a certified public accountant that is independent and experienced in auditing financial institutions. The audit must be performed in accordance with generally accepted auditing standards as adopted by the Auditing Standards Board of the American Institute of Certified Public Accountants (AICPA). The auditor must be independent, as defined by the AICPA, of the CDC. Annually, the auditor must issue an opinion as to the fairness of the CDC's financial statements and their compliance with GAAP. For CDCs with a 504 portfolio balance of less than $20 million (as calculated by SBA), the CDC's annual financial statements submitted to SBA must be reviewed by an independent CPA in accordance with GAAP.
+(c) *Annual Audited/Reviewed Financial Statements.* Each CDC with a 504 loan portfolio balance of $30 million or more (as calculated by SBA) must have its financial statements audited annually by a certified public accountant that is independent and experienced in auditing financial institutions. The audit must be performed in accordance with generally accepted auditing standards as adopted by the Auditing Standards Board of the American Institute of Certified Public Accountants (AICPA). The auditor must be independent, as defined by the AICPA, of the CDC. Annually, the auditor must issue an opinion as to the fairness of the CDC's financial statements and their compliance with GAAP. For CDCs with a 504 portfolio balance of less than $30 million (as calculated by SBA), the CDC's annual financial statements submitted to SBA must be reviewed by an independent CPA in accordance with GAAP, except that the D/OCRM may require a CDC with a portfolio balance of less than $30 million to submit an audited financial statement in the event the D/OCRM determines, in his or her discretion, that such audit is necessary or appropriate when the CDC is in material noncompliance with Loan Program Requirements.
 
 (d) *Auditor qualifications.* The audit or review must be conducted by an independent certified public accountant who:
 
@@ -40,4 +38,4 @@ A CDC must operate in accordance with the following requirements:
 
 (5) Is otherwise acceptable to SBA.
 
-[73 FR 75518, Dec. 11, 2008]
+[73 FR 75518, Dec. 11, 2008, as amended at 84 FR 66295, Dec. 4, 2019]
