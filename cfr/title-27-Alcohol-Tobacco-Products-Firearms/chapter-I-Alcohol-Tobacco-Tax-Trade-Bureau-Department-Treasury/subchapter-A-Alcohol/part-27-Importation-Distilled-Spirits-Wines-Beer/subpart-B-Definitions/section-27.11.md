@@ -42,6 +42,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Gallon or wine gallon.* The liquid measure equivalent to the volume of 231 cubic inches. For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
 
+*Hard cider.* A wine that meets the eligibility requirements set forth in § 24.331 for the hard cider tax rate set forth in § 24.270.
+
 *Importer.* Any person who imports distilled spirits, wines, or beer into the United States.
 
 *IRC registry number.* The number assigned by TTB to each distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, bonded wine warehouse, or brewery upon approval of an application made pursuant to Internal Revenue Code of 1986 requirements (26 U.S.C. 5171, 5351-5353, or 5401).

@@ -1,7 +1,5 @@
 ##### § 230.504 Exemption for limited offerings and sales of securities not exceeding $1,000,000. #####
 
-Link to an amendment published at 81 FR 83553, November 21, 2016.
-
 (a) *Exemption.* Offers and sales of securities that satisfy the conditions in paragraph (b) of this § 230.504 by an issuer that is not:
 
 (1) Subject to the reporting requirements of section 13 or 15(d) of the Exchange Act,;
@@ -18,7 +16,13 @@ Link to an amendment published at 81 FR 83553, November 21, 2016.
 
 (iii) Exclusively according to state law exemptions from registration that permit general solicitation and general advertising so long as sales are made only to “accredited investors” as defined in § 230.501(a).
 
-(2) The aggregate offering price for an offering of securities under this § 230.504, as defined in § 230.501(c), shall not exceed $1,000,000, less the aggregate offering price for all securities sold within the twelve months before the start of and during the offering of securities under this § 230.504, in reliance on any exemption under section 3(b), or in violation of section 5(a) of the Securities Act.
+(2) The aggregate offering price for an offering of securities under this § 230.504, as defined in § 230.501(c), shall not exceed $5,000,000, less the aggregate offering price for all securities sold within the twelve months before the start of and during the offering of securities under this § 230.504, in violation of section 5(a) of the Securities Act.
+
+*Instruction to paragraph (b)(2):* If a transaction under § 230.504 fails to meet the limitation on the aggregate offering price, it does not affect the availability of this § 230.504 for the other transactions considered in applying such limitation. For example, if an issuer sold $5,000,000 of its securities on January 1, 2014 under this § 230.504 and an additional $500,000 of its securities on July 1, 2014, this § 230.504 would not be available for the later sale, but would still be applicable to the January 1, 2014 sale.
+
+(3) *Disqualifications.* No exemption under this section shall be available for the securities of any issuer if such issuer would be subject to disqualification under § 230.506(d) on or after January 20, 2017; provided that disclosure of prior “bad actor” events shall be required in accordance with § 230.506(e).
+
+*Instruction to paragraph (b)(3):* For purposes of disclosure of prior “bad actor” events pursuant to § 230.506(e), an issuer shall furnish to each purchaser, a reasonable time prior to sale, a description in writing of any matters that would have triggered disqualification under this paragraph (b)(3) but occurred before January 20, 2017.
 
 Note 1:
 
@@ -30,4 +34,4 @@ Note 2:
 
 If a transaction under § 230.504 fails to meet the limitation on the aggregate offering price, it does not affect the availability of this § 230.504 for the other transactions considered in applying such limitation. For example, if an issuer sold $1,000,000 worth of its securities on January 1, 1988 under this § 230.504 and an additional $500,000 worth on July 1, 1988, this § 230.504 would not be available for the later sale, but would still be applicable to the January 1, 1988 sale.
 
-[57 FR 36473, Aug. 13, 1992, as amended at 61 FR 30402, June 14, 1996; 64 FR 11094, Mar. 8, 1999]
+[57 FR 36473, Aug. 13, 1992, as amended at 61 FR 30402, June 14, 1996; 64 FR 11094, Mar. 8, 1999; 81 FR 83553, Nov. 21, 2016]

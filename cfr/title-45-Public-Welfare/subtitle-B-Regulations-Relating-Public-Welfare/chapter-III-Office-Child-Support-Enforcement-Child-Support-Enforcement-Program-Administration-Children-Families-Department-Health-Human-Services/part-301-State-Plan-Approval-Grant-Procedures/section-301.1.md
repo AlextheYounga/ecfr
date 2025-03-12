@@ -1,7 +1,5 @@
 ##### § 301.1 General definitions. #####
 
-Link to an amendment published at 81 FR 93560, Dec. 20, 2016.
-
 When used in this chapter, unless the context otherwise indicates:
 
 *Act* means the Social Security Act, and the title referred to is title IV-D of that Act.
@@ -58,9 +56,11 @@ When used in this chapter, unless the context otherwise indicates:
 
 *Political subdivision* means a legal entity of the State as defined by the State, including a legal entity of the political subdivision so defined, such as a Prosecuting or District Attorney or a Friend of the Court.
 
-*Procedures* means a written set of instructions which describe in detail the step by step actions to be taken by child support enforcement personnel in the performance of a specific function under the State's IV-D plan. The IV-D agency may issue general instructions on one or more functions, and delegate responsibility for the detailed procedures to the office, agency, or political subdivision actually performing the function.
+*Procedures* means a set of instructions in a record which describe in detail the step by step actions to be taken by child support enforcement personnel in the performance of a specific function under the State's IV-D plan. The IV-D agency may issue general instructions on one or more functions, and delegate responsibility for the detailed procedures to the office, agency, or political subdivision actually performing the function.
 
 *Qualified child,* through September 30, 2007, means a child who is a minor or who, while a minor, was determined to be disabled under title II or XVI of the Act, and for whom a support order is in effect.
+
+*Record* means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
 
 *Regional Office* and *Central Office* refer to the Regional Offices and the Central Office of the Office of Child Support Enforcement, respectively.
 
@@ -80,4 +80,4 @@ The *State plan* means the State plan for child and spousal support under sectio
 
 *Uniform Interstate Family Support Act (UIFSA)* means the model act promulgated by the National Conference of Commissioners on Uniform State Laws (NCCUSL) and mandated by section 466(f) of the Act to be in effect in all States.
 
-[47 FR 57280, Dec. 23, 1982, as amended at 50 FR 19647, May 9, 1985; 50 FR 23958, June 7, 1985; 50 FR 31719, Aug. 6, 1985; 53 FR 5256, Feb. 22, 1988; 54 FR 32308, Aug. 4, 1989; 56 FR 8002, Feb. 26, 1991; 57 FR 30429, July 9, 1992; 58 FR 41437, Aug. 4, 1993; 59 FR 66249, Dec. 23, 1994; 61 FR 67240, Dec. 20, 1996; 64 FR 6247, Feb. 9, 1999; 68 FR 25303, May 12, 2003; 73 FR 74919, Dec. 9, 2008; 75 FR 38641, July 2, 2010; 75 FR 81906, Dec. 29, 2010]
+[47 FR 57280, Dec. 23, 1982, as amended at 50 FR 19647, May 9, 1985; 50 FR 23958, June 7, 1985; 50 FR 31719, Aug. 6, 1985; 53 FR 5256, Feb. 22, 1988; 54 FR 32308, Aug. 4, 1989; 56 FR 8002, Feb. 26, 1991; 57 FR 30429, July 9, 1992; 58 FR 41437, Aug. 4, 1993; 59 FR 66249, Dec. 23, 1994; 61 FR 67240, Dec. 20, 1996; 64 FR 6247, Feb. 9, 1999; 68 FR 25303, May 12, 2003; 73 FR 74919, Dec. 9, 2008; 75 FR 38641, July 2, 2010; 75 FR 81906, Dec. 29, 2010; 81 FR 93560, Dec. 20, 2016]

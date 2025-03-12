@@ -1,5 +1,7 @@
 ##### § 304.9 Fees. #####
 
+Link to an amendment published at 82 FR 7633, Jan. 23, 2017.
+
 (a) *In general.* The agency will charge for processing requests under the FOIA in accordance with paragraph (c) of this section, except where fees are limited under paragraph (d) of this section, where a waiver or reduction of fees is granted under paragraph (k) of this section, or where the agency's FOIA staff waives fees in whole or in part because they are deemed to be inappropriate or unreasonable - and in some cases the agency may seek further information or clarification from the requester for this purpose. The agency ordinarily will collect all applicable fees before sending copies of requested records to a requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States.
 
 (b) *Definitions.* For purposes of this section:

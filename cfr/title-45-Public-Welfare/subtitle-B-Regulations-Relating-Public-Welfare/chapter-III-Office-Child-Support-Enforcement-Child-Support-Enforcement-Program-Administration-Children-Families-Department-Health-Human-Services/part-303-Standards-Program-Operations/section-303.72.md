@@ -1,7 +1,5 @@
 ##### § 303.72 Requests for collection of past-due support by Federal tax refund offset. #####
 
-Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
-
 (a) *Past-due support qualifying for offset.* Past-due support as defined in § 301.1 of this chapter qualifies for offset if:
 
 (1) There has been an assignment of the support rights under section 408(a)(3) of the Act or section 471(a)(17) of the Act to the State making the request for offset or the IV-D agency is providing services under § 302.33 of this chapter.
@@ -54,11 +52,11 @@ Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
 
 (4) If a request cannot be corrected through consultation, the Deputy Director will return it to the State IV-D agency with an explanation of why the request could not be transmitted to the Secretary of the U.S. Treasury.
 
-(d) *Notification of changes in case status.* (1) The State referring past-due support for offset must, in interstate situations, notify any other State involved in enforcing the support order when it submits an interstate case for offset and when it receives the offset amount from the Secretary of the U.S. Treasury.
+(d) *Notification of changes in case status.* (1) The State referring past-due support for offset must, in interstate situations, notify any other State involved in enforcing the support order when it receives the offset amount from the Secretary of the U.S. Treasury.
 
 (2) The State IV-D agency shall, within timeframes established by the Office in instructions, notify the Deputy Director of any deletion of, or any change in, the arrears balance, if the change is significant according to the guidelines developed by the State. The notification shall contain the information specified in paragraph (b) of this section.
 
-(e) *Notices of offset* - (1) *Advance.* The State IV-D agency, or the Office, if the State requests and the Office agrees, shall send a written advance notice to inform a noncustodial parent that the amount of his or her past-due support will be referred to the Secretary of the U.S. Treasury for collection by Federal tax refund offset. The notice must inform noncustodial parents:
+(e) *Notices of offset*—(1) *Advance.* The State IV-D agency, or the Office, if the State requests and the Office agrees, shall send a written advance notice to inform a noncustodial parent that the amount of his or her past-due support will be referred to the Secretary of the U.S. Treasury for collection by Federal tax refund offset. The notice must inform noncustodial parents:
 
 (i) Of their right to contest the State's determination that past-due support is owed or the amount of past-due support;
 
@@ -116,4 +114,4 @@ Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
 
 (j) Each State involved in a referral of past-due support for offset must comply with instructions issued by the Office.
 
-(Approved by the Office of Management and Budget under control number 0960-0385)[50 FR 19651, May 9, 1985; 50 FR 31719, Aug. 6, 1985, as amended at 51 FR 37731, Oct. 24, 1986; 53 FR 47710, Nov. 25, 1988; 54 FR 32312, Aug. 4, 1989; 56 FR 8005, Feb. 26, 1991; 58 FR 41437, Aug. 4, 1993; 64 FR 6251, Feb. 9, 1999; 68 FR 25304, May 12, 2003; 68 FR 37980, June 26, 2003; 68 FR 53052, Sept. 9, 2003; 69 FR 62415, Oct. 26, 2004; 73 FR 74920, Dec. 9, 2008]
+(Approved by the Office of Management and Budget under control number 0960-0385)[50 FR 19651, May 9, 1985; 50 FR 31719, Aug. 6, 1985, as amended at 51 FR 37731, Oct. 24, 1986; 53 FR 47710, Nov. 25, 1988; 54 FR 32312, Aug. 4, 1989; 56 FR 8005, Feb. 26, 1991; 58 FR 41437, Aug. 4, 1993; 64 FR 6251, Feb. 9, 1999; 68 FR 25304, May 12, 2003; 68 FR 37980, June 26, 2003; 68 FR 53052, Sept. 9, 2003; 69 FR 62415, Oct. 26, 2004; 73 FR 74920, Dec. 9, 2008; 81 FR 93566, Dec. 20, 2016]

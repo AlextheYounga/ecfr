@@ -1,5 +1,7 @@
 ##### § 748.13 Granting of exceptions to the support documentation requirements. #####
 
+Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
+
 (a) *Overview.* A request for an exception to obtaining the required support documentation will be considered by BIS; however, an exception will not be granted contrary to the objectives of the U.S. export control program. A request for exception may involve either a single transaction or, where the reason necessitating the request is continuing in nature, multiple transactions. If satisfied by the evidence presented, BIS may waive the support document requirement and accept the license application for processing.
 
 (b) *Procedure for requesting an exception.* The request for an exception must be submitted with the license application to which the request relates, and the reason(s) for requesting the exception must be described in Block 24 or referred to in Block 24. Where the request relates to more than one license application, it should be submitted with the first license application and referred to in Block 24 on any subsequent license application.

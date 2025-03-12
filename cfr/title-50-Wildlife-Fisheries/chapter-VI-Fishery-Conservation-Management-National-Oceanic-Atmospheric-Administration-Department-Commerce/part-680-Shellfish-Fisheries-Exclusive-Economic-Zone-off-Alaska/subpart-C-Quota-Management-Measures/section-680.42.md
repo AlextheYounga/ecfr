@@ -1,7 +1,5 @@
 ##### § 680.42 Limitations on use of QS, PQS, IFQ, and IPQ. #####
 
-Link to an amendment published at 81 FR 92702, Dec. 20, 2016.
-
 (a) *QS and IFQ use caps* - (1) *General.* Separate and distinct QS and IFQ use caps apply to all QS and IFQ categories pertaining to a given crab QS fishery with the following provisions:
 
 (i) A person who receives an initial allocation of QS that exceeds the use cap listed in paragraph (a)(2) of this section may not receive QS by transfer unless and until that person's holdings are reduced to an amount below the use cap.
@@ -146,7 +144,7 @@ Link to an amendment published at 81 FR 92702, Dec. 20, 2016.
 
 (i) That RCR is not affiliated with an IPQ holder who has a 10 percent or greater direct or indirect ownership interest in the shoreside crab processor or stationary floating crab processor where that IPQ crab is processed; and
 
-(ii) The following conditions apply:
+(ii) The IPQ crab meets the conditions in paragraphs (b)(7)(ii)(A) and (B) of this section or the IPQ crab meets the conditions in paragraph (b)(7)(ii)(C) of this section:
 
 (A) The IPQ crab is:
 
@@ -154,25 +152,29 @@ Link to an amendment published at 81 FR 92702, Dec. 20, 2016.
 
 (*2*) EAG IPQ crab;
 
-(*3*) PIK IPQ crab;
+(*3*) EBT IPQ crab;
 
-(*4*) SMB IPQ crab;
+(*4*) PIK IPQ crab;
 
-(*5*) WAG IPQ crab provided that IPQ crab is processed west of 174 degrees west longitude; or
+(*5*) SMB IPQ crab;
 
-(*6*) WAI IPQ crab; and
+(*6*) WAG IPQ crab provided that IPQ crab is processed west of 174 degrees west longitude;
+
+(*7*) WAI IPQ crab; or
+
+(*8*) WBT IPQ crab.
 
 (B) That IPQ crab is processed at:
 
-(*1*) Any shoreside crab processor located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on the effective date of this rule; or
+(*1*) Any shoreside crab processor located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009; or
 
 (*2*) Any stationary floating crab processor that is:
 
-(*i*) Located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on the effective date of this rule;
+(*i*) Located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009;
 
 (*ii*) Moored at a dock, docking facility, or at a permanent mooring buoy, unless that stationary floating crab processor is located within the boundaries of the city of Atka in which case that stationary floating crab processor is not required to be moored at a dock, docking facility, or at a permanent mooring buoy; and
 
-(*iii*) Located within a harbor, unless that stationary floating crab processor is located within the boundaries of the city of Atka on the effective date of this rule in which case that stationary floating crab processor is not required to be located within a harbor; or
+(*iii*) Located within a harbor, unless that stationary floating crab processor is located within the boundaries of the city of Atka on June 29, 2009, in which case that stationary floating crab processor is not required to be located within a harbor.
 
 (C) The IPQ crab is:
 
@@ -222,4 +224,4 @@ Link to an amendment published at 81 FR 92702, Dec. 20, 2016.
 
 (ii) A person that directly or indirectly owns a 10 percent or greater interest in an entity that owns a vessel.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016]
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016; 81 FR 92702, Dec. 20, 2016]

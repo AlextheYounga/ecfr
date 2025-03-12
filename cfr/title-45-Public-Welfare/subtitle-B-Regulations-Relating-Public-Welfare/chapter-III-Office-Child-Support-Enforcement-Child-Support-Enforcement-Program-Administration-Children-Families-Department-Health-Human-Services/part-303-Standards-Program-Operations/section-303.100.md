@@ -1,7 +1,5 @@
 ##### § 303.100 Procedures for income withholding. #####
 
-Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
-
 (a) *General withholding requirements.* (1) The State must ensure that in the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, and is being enforced under the State plan, so much of his or her income as defined in sections 466(b)(1) and (8) of the Act must be withheld, in accordance with this section, as is necessary to comply with the order.
 
 (2) In addition to the amount to be withheld to pay the current month's obligation, the amount to be withheld must include an amount to be applied toward liquidation of overdue support.
@@ -62,7 +60,7 @@ Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
 
 (5) Of the information provided to the employer, pursuant to paragraph (e) of this section.
 
-(e) *Notice to the employer for immediate and initiated withholding.* (1) To initiate withholding, the State must send the noncustodial parent's employer a notice using the standard Federal format which includes the following:
+(e) *Notice to the employer for immediate and initiated withholding.* (1) To initiate withholding, the State must send the noncustodial parent's employer a notice using the required OMB-approved *Income Withholding for Support* form that includes the following:
 
 (i) The amount to be withheld from the noncustodial parent's income, and a statement that the amount actually withheld for support and other purposes, including the fee specified under paragraph (e)(1)(iii) of this section, may not be in excess of the maximum amounts permitted under section 303(b) of the Consumer Credit Protection Act (15 U.S.C. 1673(b));
 
@@ -120,4 +118,8 @@ Link to an amendment published at 81 FR 93566, Dec. 20, 2016.
 
 (g) *Provision for withholding in all child support orders.* Child support orders issued or modified in the State whether or not being enforced under the State IV-D plan must have a provision for withholding of income. This requirement does not alter the requirement governing all IV-D cases in paragraph (a)(4) of this section that enforcement under the State plan must proceed without the need for a withholding provision in the order.
 
-[57 FR 30682, July 10, 1992, as amended at 64 FR 6251, 6252, Feb. 9, 1999; 68 FR 25304, May 12, 2003]
+(h) *Notice to employer in all child support orders.* The notice to employers in all child support orders must be on an OMB-approved *Income Withholding for Support* form.
+
+(i) *Payments sent to the SDU in child support order not enforced under the State IV-D plan.* Income withholding payments made under child support orders initially issued in the State on or after January 1, 1994 that are not being enforced under the State IV-D plan must be sent to the State Disbursement Unit for disbursement to the family in accordance with sections 454B and 466(a)(8) and (b)(5) of the Act and § 302.32(a) of this chapter.
+
+[57 FR 30682, July 10, 1992, as amended at 64 FR 6251, 6252, Feb. 9, 1999; 68 FR 25304, May 12, 2003; 81 FR 93566, Dec. 20, 2016]

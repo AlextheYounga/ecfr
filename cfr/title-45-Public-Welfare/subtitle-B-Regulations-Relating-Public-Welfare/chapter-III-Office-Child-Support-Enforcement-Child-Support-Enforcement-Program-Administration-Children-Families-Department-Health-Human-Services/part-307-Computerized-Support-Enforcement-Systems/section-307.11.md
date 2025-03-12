@@ -1,7 +1,5 @@
 ##### § 307.11 Functional requirements for computerized support enforcement systems in operation by October 1, 2000. #####
 
-Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
-
 At a minimum, each State's computerized support enforcement system established and operated under the title IV-D State plan at § 302.85(a)(2) of this chapter must:
 
 (a) Be planned, designed, developed, installed or enhanced, and operated in accordance with an initial and annually updated APD approved under § 307.15 of this part;
@@ -42,7 +40,11 @@ At a minimum, each State's computerized support enforcement system established a
 
 (2) Ongoing monitoring to promptly identify failures to make timely payment of support; and
 
-(3) Automatic use of enforcement procedures, including procedures under section 466(c) of the Act if payments are not timely;
+(3) Automatic use of enforcement procedures, including those under section 466(c) of the Act if payments are not timely, and the following procedures:
+
+(i) Identify cases which have been previously identified as involving a noncustodial parent who is a recipient of SSI payments or concurrent SSI payments and Social Security Disability Insurance (SSDI) benefits under title II of the Act, to prevent garnishment of these funds from the noncustodial parent's financial account; and
+
+(ii) Return funds to a noncustodial parent, within 5 business days after the agency determines that SSI payments or concurrent SSI payments and SSDI benefits under title II of the Act, in the noncustodial parent's financial account have been incorrectly garnished.
 
 (d) Expedited Administrative Procedures. To the maximum extent feasible, be used to implement the expedited administrative procedures required by section 466(c) of the Act.
 
@@ -146,4 +148,4 @@ At a minimum, each State's computerized support enforcement system established a
 
 (4) Exchanging information with other agencies of the State, and agencies of other States, and interstate information networks, as necessary and appropriate, to assist the State and other States in carrying out the purposes of this chapter.
 
-[63 FR 44815, Aug. 21, 1998]
+[63 FR 44815, Aug. 21, 1998, as amended at 81 FR 93568, Dec. 20, 2016]

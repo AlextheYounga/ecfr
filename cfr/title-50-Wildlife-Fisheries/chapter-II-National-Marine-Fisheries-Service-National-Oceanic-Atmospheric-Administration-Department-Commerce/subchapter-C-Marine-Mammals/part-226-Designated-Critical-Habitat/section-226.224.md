@@ -1,5 +1,7 @@
 ##### § 226.224 Critical habitat for the Puget Sound/Georgia Basin DPS of yelloweye rockfish (Sebastes ruberrimus), canary rockfish (S. pinniger), and bocaccio (S. paucispinus). #####
 
+Link to an amendment published at 82 FR 7720, Jan 23, 2017.
+
 Critical habitat is designated in the following states and counties for the following DPSs as depicted in the maps below and described in paragraphs (a) through (d) of this section. The maps can be viewed or obtained with greater resolution (*http://www.wcr.noaa.gov/*) to enable a more precise inspection of critical habitat for yelloweye rockfish, canary rockfish and bocaccio.
 
 (a) Critical habitat is designated for the following DPSs in the following state and counties:

@@ -1,10 +1,10 @@
-##### § 24.301 Bulk still wine record. #####
+##### § 24.301 Bulk still wine and bulk still hard cider record. #####
 
-A proprietor who produces or receives still wine in bond, (including wine intended for use as distilling material or vinegar stock to which water has not yet been added) shall maintain records of transactions for bulk still wine. Records will be maintained for each tax class of still wine including the date the transaction occurred. The bulk still wine record will contain the following:
+A proprietor who produces or receives still wine or bulk still hard cider in bond, (including wine intended for use as distilling material or vinegar stock to which water has not yet been added) shall maintain records of transactions for bulk still wine or bulk still hard cider. Records will be maintained for each tax class of still wine or for hard cider including the date the transaction occurred. The bulk still wine or for hard cider record will contain the following:
 
 (a) The volume produced by fermentation in wine gallons determined by actual measurement;
 
-(b) The volume received, shipped taxpaid, removed (e.g., taxpaid, in bond, export, family use, samples) and used in sparkling wine production; if a tax credit under 26 U.S.C. 5041(c) may be claimed, the record will be maintained in sufficient detail to insure that such a tax credit is properly claimed;
+(b) The volume received, shipped taxpaid, removed (e.g., taxpaid, in bond, export, family use, samples) and used in sparkling wine or sparkling hard cider production; if a tax credit under 26 U.S.C. 5041(c) may be claimed, the record will be maintained in sufficient detail to insure that such a tax credit is properly claimed;
 
 (c) The specific type of production method used, e.g., natural fermentation, amelioration, sweetening, addition of spirits, blending;
 
@@ -24,4 +24,4 @@ A proprietor who produces or receives still wine in bond, (including wine intend
 
 (k) If the proprietor is an importer of wine to which the provisions of § 27.140 of this chapter apply, any certification or other records required at the time of release from customs custody under that section.
 
-(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-307, 55 FR 52738, Dec. 21, 1990; T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. TTB-31, 70 FR 49483, Aug. 24, 2005]
+(Approved by the Office of Management and Budget under control number 1513-0115)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-307, 55 FR 52738, Dec. 21, 1990; T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. TTB-31, 70 FR 49483, Aug. 24, 2005; T.D. TTB-147, 82 FR 7665, Jan. 23, 2017]

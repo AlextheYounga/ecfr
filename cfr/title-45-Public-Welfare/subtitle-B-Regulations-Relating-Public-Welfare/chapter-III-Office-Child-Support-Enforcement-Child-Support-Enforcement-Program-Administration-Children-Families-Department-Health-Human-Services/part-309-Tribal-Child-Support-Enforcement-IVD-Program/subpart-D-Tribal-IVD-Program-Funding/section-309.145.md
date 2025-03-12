@@ -1,7 +1,5 @@
 ##### § 309.145 What costs are allowable for Tribal IV-D programs carried out under § 309.65(a) of this part? #####
 
-Link to an amendment published at 81 FR 93569, Dec. 20, 2016.
-
 Federal funds are available for costs of operating a Tribal IV-D program under an approved Tribal IV-D application carried out under § 309.65(a) of this part, provided that such costs are determined by the Secretary to be reasonable, necessary, and allocable to the program. Allowable activities and costs include:
 
 (a) Administration of the Tribal IV-D program, including but not limited to the following:
@@ -10,7 +8,7 @@ Federal funds are available for costs of operating a Tribal IV-D program under a
 
 (2) Monitoring the progress of program development and operations, and evaluating the quality, efficiency, effectiveness, and scope of available support enforcement services;
 
-(3) Establishment of all necessary agreements with other Tribal, State, and local agencies or private providers for the provision of child support enforcement services in accordance with Procurement Standards found in 45 CFR part 75. These agreements may include:
+(3) Establishment of all necessary agreements with other Tribal, State, and local agencies or private providers for the provision of child support enforcement services in accordance with Procurement Standards found in 45 CFR 75.326 through 75.340. These agreements may include:
 
 (i) Necessary administrative agreements for support services;
 
@@ -98,4 +96,4 @@ Federal funds are available for costs of operating a Tribal IV-D program under a
 
 (2) A cost is allocable if the goods or services involved are assignable to the grant according to the relative benefit received. Any cost that is allocable to one Federal award may not be charged to other Federal awards to overcome funding deficiencies, or for any other reason.
 
-[69 FR 16672, Mar. 30, 2004, as amended at 75 FR 8520, Feb. 25, 2010; 81 FR 3021, Jan. 20, 2016]
+[69 FR 16672, Mar. 30, 2004, as amended at 75 FR 8520, Feb. 25, 2010; 81 FR 3021, Jan. 20, 2016; 81 FR 93569, Dec. 20, 2016]

@@ -1,7 +1,5 @@
 ##### § 304.12 Incentive payments. #####
 
-Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
-
 (a) *Definitions.* For the purposes of this section:
 
 *Non-title IV-A collections* means support collections, on behalf of individuals receiving services under this title, satisfying a support obligation which has not been assigned under section 408(a)(3) of the Act or section 471(a)(17) of the Act, including collections treated in accordance with paragraph (b)(4)(ii) of this section .
@@ -58,8 +56,4 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (3) Following the end of a fiscal year, the Office will calculate the actual incentive payment the State should have received based on the reports submitted for that fiscal year. If adjustments to the estimate made under paragraph (c)(1) of this section are necessary, the State's IV-A grant award will be reduced or increased because of over- or under-estimates for prior quarters and for other adjustments.
 
-(4) For FY 1985, the Office will calculate a State's incentive payment based on title IV-A collections retained by the State and paid to the family under § 302.51(b)(1) of this chapter.
-
-(5) For FY 1986 and 1987, a State will receive the higher of the amount due it under the incentive system and Federal matching rate in effect as of FY 1986 or 80 percent of what it would have received under the incentive system and Federal matching rate in effect during FY 1985.
-
-[54 FR 32312, Aug. 4, 1989, as amended at 56 FR 8005, Feb. 26, 1991; 64 FR 6252, Feb. 9, 1999]
+[54 FR 32312, Aug. 4, 1989, as amended at 56 FR 8005, Feb. 26, 1991; 64 FR 6252, Feb. 9, 1999; 81 FR 93567, Dec. 20, 2016]

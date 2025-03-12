@@ -1,3 +1,7 @@
-##### § 1351.27 xxx #####
+##### § 1351.27 What are the additional requirements that the Street Outreach Program grantees must meet? #####
 
-Link to an amendment published at 81 FR 93064, December 20, 2016.
+(a) Grantees shall provide services that are designed to assist clients in leaving the streets, making healthy choices, and building trusting relationships in areas where targeted youth congregate.
+
+(b) Grantees shall directly or by referral provide treatment, counseling, prevention, and education services to clients as well as referral for emergency shelter.
+
+(c) Additional requirements included in the funding opportunity announcement.

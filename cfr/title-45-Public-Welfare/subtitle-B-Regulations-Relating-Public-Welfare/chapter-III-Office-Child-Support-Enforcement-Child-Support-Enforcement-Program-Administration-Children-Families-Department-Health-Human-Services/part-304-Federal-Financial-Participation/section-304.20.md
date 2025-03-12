@@ -1,16 +1,14 @@
 ##### § 304.20 Availability and rate of Federal financial participation. #####
 
-Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
-
 (a) Federal financial participation at the applicable matching rate is available for:
 
-(1) Necessary expenditures under the State title IV-D plan for the support enforcement services and activities specified in this section and § 304.21 provided to individuals from whom an assignment of support rights as defined in § 301.1 of this chapter has been obtained;
+(1) Necessary and reasonable expenditures for child support services and activities to carry out the State title IV-D plan;
 
 (2) Parent locator services for individuals eligible pursuant to § 302.33 of this title;
 
 (3) Paternity and support services under the State plan for individuals eligible pursuant to § 302.33 of this chapter.
 
-(b) Services and activities for which Federal financial participation will be available shall be those made pursuant to the approved title IV-D State plan which are determined by the Secretary to be necessary expenditures properly attributable to the Child Support Enforcement program, except any expenditure incurred in providing location services to individuals listed in § 302.35(c)(4) of this title, including the following:
+(b) Services and activities for which Federal financial participation will be available will be those made to carry out the State title IV-D plan, including obtaining child support, locating noncustodial parents, and establishing paternity, that are determined by the Secretary to be necessary and reasonable expenditures properly attributed to the Child Support Enforcement program including, but not limited to the following:
 
 (1) The administration of the State Child Support Enforcement program, including but not limited to the following:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (ii) Monitoring the progress of program development and operations and evaluating the quality, efficiency, effectiveness and scope of support enforcement services available in each political subdivision;
 
-(iii) The establishment of all necessary agreements with other State and local agencies or private providers for the provision of services in support of support enforcement in accordance with the Procurement Standards found in 45 CFR 75.326 through 75.340. These agreements may include:
+(iii) The establishment of all necessary agreements with other Federal, State, and local agencies or private providers to carry out Child Support Enforcement program activities in accordance with Procurement Standards, 45 CFR 75.326 through 75.340. These agreements may include:
 
 (A) Necessary administrative agreements for support services;
 
@@ -34,23 +32,29 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (vii) The financial control of the State plan including the administration of Federal grants pursuant to § 301.15 of this chapter;
 
-(viii) The establishment of agreements with agencies administering the State's title IV-A and IV-E plans in order to establish criteria for:
+(viii) The establishment of agreements with agencies administering the State's title IV-A and IV-E plans including criteria for:
 
-(A) Referral of cases to the IV-D agency;
+(A) Referring cases to and from the IV-D agency;
 
 (B) Reporting on a timely basis information necessary to the determination and redetermination of eligibility and amount of assistance payments;
 
-(C) The procedures to be used to transfer collections from the IV-D agency to the IV-A or IV-E agency before or after the distribution described in § 302.51 or § 302.52, respectively, of this chapter.
+(C) The procedures to be used to transfer collections from the IV-D agency to the IV-A or IV-E agency before or after the distribution described in § 302.51 or § 302.52, respectively, of this chapter;
 
-(ix) The establishment of agreements with Medicaid agencies necessary to carry out required IV-D activities and to establish criteria for:
+(D) The procedures to be used to coordinate services; and
 
-(A) Referring cases to the IV-D agency;
+(E) Agreements to exchange data as authorized by law.
 
-(B) Reporting on a timely basis information necessary for the determination and redetermination of eligibility for Medicaid;
+(ix) The establishment of agreements with State agencies administering Medicaid or CHIP, including appropriate criteria for:
 
-(C) Transferring collections from the IV-D agency to the Medicaid agency in accordance with § 302.51(c) of this chapter.
+(A) Referring cases to and from the IV-D agency;
 
-(2) The establishment of paternity including:
+(B) The procedures to be used to coordinate services;
+
+(C) Agreements to exchange data as authorized by law; and
+
+(D) Transferring collections from the IV-D agency to the Medicaid agency in accordance with § 302.51(c) of this chapter.
+
+(2) The establishment of paternity including, but not limited to:
 
 (i) Reasonable attempts to determine the identity of the child's father such as:
 
@@ -70,11 +74,11 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (vi) Payments up to $20 to hospitals, State birth record agencies, and other entities designated by the State and participating in the State's voluntary paternity establishment program, under § 303.5(g) of this chapter, for each voluntary acknowledgment obtained pursuant to an agreement with the IV-D agency;
 
-(vii) Developing and providing to hospitals, State birth record agencies, and other entities designated by the State and participating in the State's voluntary paternity establishment program, under § 303.5(g) of this chapter, written and audiovisual materials about paternity establishment and forms necessary to voluntarily acknowledge paternity; and
+(vii) Developing and providing to parents and family members, hospitals, State birth records agencies, and other entities designated by the State and participating in the State's voluntary paternity establishment program, under § 303.5(g) of this chapter, educational and outreach activities, written and audiovisual materials about paternity establishment and forms necessary to voluntarily acknowledge paternity; and
 
 (viii) Reasonable and essential short-term training associated with the State's program of voluntary paternity establishment services under § 303.5(g).
 
-(3) The establishment and enforcement of support obligations including:
+(3) The establishment and enforcement of support obligations including, but not limited to:
 
 (i) Investigation, the development of evidence and when appropriate, bringing court actions;
 
@@ -84,7 +88,11 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (iv) Enforcement of a support obligation including those activities associated with collections and the enforcement of court orders, such as contempt citations, issuance of warrants, investigation, income withholding and processing, and the obtaining and enforcing of court-ordered support through civil or criminal proceedings either in the State that granted the order or in another State;
 
-(v) Investigation and prosecution of fraud related to child and spousal support.
+(v) Bus fare or other minor transportation expenses to enable custodial or noncustodial parties to participate in child support proceedings and related activities;
+
+(vi) Services to increase *pro se* access to adjudicative and alternative dispute resolution processes in IV-D cases related to providing child support services; and
+
+(vii) Investigation and prosecution of fraud related to child and spousal support.
 
 (4) The collection and distribution of support payments including:
 
@@ -110,7 +118,7 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (iv) Referral of requests for location of a noncustodial parent to the IV-D agency of another State;
 
-(v) Cooperation with another State in locating a noncustodial parent;
+(v) Cooperation with another State in locating a noncustodial parent.
 
 (6) Activities related to requests for certification of collection of support delinquencies by the Secretary of the Treasury pursuant to § 303.71 of this chapter.
 
@@ -118,14 +126,12 @@ Link to an amendment published at 81 FR 93567, Dec. 20, 2016.
 
 (8) Establishing and maintaining case records as required by § 303.2 of this chapter.
 
-(9) The operation of systems that meet the conditions of § 307.35(a) of this chapter; and
+(9) The operation of systems that meet the conditions of § 307.35(a) of this chapter.
 
 (10) Systems approved in accordance with 45 CFR part 95, subpart F. (See § 307.35(b) of this chapter.)
 
-(11) Required medical support activities as specified in §§ 303.30, 303.31, and 303.32 of this chapter.
+(11) Medical support activities as specified in §§ 303.30, 303.31, and 303.32 of this chapter.
 
-(c) Until September 30, 1997, Federal financial participation is available at the 90 percent rate for the planning design, development, installation and enhancement of computerized support enforcement systems that meet the requirements in § 307.30(a) of this chapter.
+(12) Educational and outreach activities intended to inform the public, parents and family members, and young people who are not yet parents about the Child Support Enforcement program, responsible parenting and co-parenting, family budgeting, and other financial consequences of raising children when the parents are not married to each other.
 
-(d) Federal financial participation at the 90 percent rate is available for laboratory costs incurred in determining paternity on or after October 1, 1988, and until September 30, 2006, including the costs of obtaining and transporting blood and other samples of genetic material, repeated testing when necessary, analysis of test results, and the costs for expert witnesses in a paternity determination proceeding, but only if the expert witness costs are included as part of the genetic testing contract.
-
-[40 FR 27166, June 26, 1975]Editorial Note:For Federal Register citations affecting § 304.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 27166, June 26, 1975]Editorial Note:For Federal Register citations affecting § 304.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

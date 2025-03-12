@@ -1,6 +1,6 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 81 FR 95452, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95452, Dec. 28, 2016.Link to an amendment published at 82 FR 6223, January 19, 2017.
 
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 

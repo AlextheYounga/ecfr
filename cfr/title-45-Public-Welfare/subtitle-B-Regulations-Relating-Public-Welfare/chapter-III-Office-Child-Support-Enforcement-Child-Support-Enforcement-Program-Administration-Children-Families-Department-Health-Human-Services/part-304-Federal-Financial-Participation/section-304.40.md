@@ -1,12 +1,10 @@
 ##### § 304.40 Repayment of Federal funds by installments. #####
 
-Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
-
 (a) *Basic conditions.* When a State has been reimbursed Federal funds for expenditures claimed under title IV-D, which is later determined to be unallowable for Federal financial participation, the State may make repayment of such Federal funds in installments provided:
 
 (1) The amount of the repayment exceeds 21/2 percent of the estimated annual State share of expenditures for the IV-D program as set forth in paragraph (b) of this section; and
 
-(2) The State has notified the OCSE Regional Office in writing of its intent to make installment repayments. Such notice must be given prior to the time repayment of the total was otherwise due.
+(2) The State has notified the OCSE Regional Office in a record of its intent to make installment repayments. Such notice must be given prior to the time repayment of the total was otherwise due.
 
 (b) *Criteria governing installment repayments.* (1) The number of quarters over which the repayment of the total unallowable expenditures will be made will be determined by the percentage the total of such repayment is of the estimated State share of the annual expenditures for the IV-D program as follows:
 
@@ -37,7 +35,7 @@ If the State chooses to repay amounts representing higher percentages during the
 
 (2) The latest required financial reports submitted by the State shall be used to estimatethe State's share of annual expenditures for the IV-D program. That estimated share shall be the sum of the State's share of the estimates for four quarters, beginning with the quarter in which the first installment is to be paid.
 
-(3) In case of termination of the program, the actual State share - rather than the estimate - shall be used for determining whether the amount of the repayment exceeds 21/2 percent of the annual State share for the IV-D program. The annual State share in these cases will be determined using payments computable for Federal funding as reported for the program by the State on its Quarterly Report of Expenditures and Estimates submitted for the last four quarters preceding the date on which the program was terminated.
+(3) In case of termination of the program, the actual State share—rather than the estimate—shall be used for determining whether the amount of the repayment exceeds 21/2 percent of the annual State share for the IV-D program. The annual State share in these cases will be determined using payments computable for Federal funding as reported for the program by the State on its Quarterly Report of Expenditures and Estimates submitted for the last four quarters preceding the date on which the program was terminated.
 
 (4) Repayment shall be accomplished through adjustment in the quarterly grants over the period covered by the repayment schedule.
 
@@ -53,4 +51,4 @@ In these circumstances, the criteria in paragraphs (b) (1) and (2) or (3) of thi
 
 (ii) Continue payments until the reduced amount of its debt (remaining after the offset), has been paid in full. This second option would result in a shorter payment period.
 
-A retroactive claim for the purpose of this regulation is a claim applicable to any period ending 12 months or more prior to the beginning of the quarter in which the payment is to be made by the Service.[42 FR 28885, June 6, 1977, as amended at 52 FR 273, Jan. 5, 1987; 64 FR 6253, Feb. 9, 1999; 68 FR 25305, May 12, 2003]
+A retroactive claim for the purpose of this regulation is a claim applicable to any period ending 12 months or more prior to the beginning of the quarter in which the payment is to be made by the Service.[42 FR 28885, June 6, 1977, as amended at 52 FR 273, Jan. 5, 1987; 64 FR 6253, Feb. 9, 1999; 68 FR 25305, May 12, 2003; 81 FR 93568, Dec. 20, 2016]

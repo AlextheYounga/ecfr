@@ -1,7 +1,5 @@
 ##### § 302.33 Services to individuals not receiving title IV-A assistance. #####
 
-Link to an amendment published at 81 FR 93561, Dec. 20, 2016.
-
 (a) *Availability of Services.* (1) The State plan must provide that the services established under the plan shall be made available to any individual who:
 
 (i) Files an application for the services with the IV-D agency. In an interstate case, only the initiating State may require an application under this section; or
@@ -14,9 +12,11 @@ Link to an amendment published at 81 FR 93561, Dec. 20, 2016.
 
 (3) The State may not charge fees or recover costs from any individual who is eligible to receive services under paragraph (a)(1)(ii) of this section.
 
-(4) Whenever a family is no longer eligible for assistance under the State's title IV-A, IV-E foster care, and Medicaid programs, the IV-D agency must notify the family, within five working days of the notification of ineligibility, that IV-D services will be continued unless the IV-D agency is notified to the contrary by the family. The notice must inform the family of the consequences of continuing to receive IV-D services, including the available services and the State's fees, cost recovery and distribution policies.
+(4) Whenever a family is no longer eligible for assistance under the State's title IV-A and Medicaid programs, the IV-D agency must notify the family, within 5 working days of the notification of ineligibility, that IV-D services will be continued unless the family notifies the IV-D agency that it no longer wants services but instead wants to close the case. This notice must inform the family of the benefits and consequences of continuing to receive IV-D services, including the available services and the State's fees, cost recovery, and distribution policies. This requirement to notify the family that services will be continued, unless the family notifies the IV-D agency to the contrary, also applies when a child is no longer eligible for IV-E foster care, but only in those cases that the IV-D agency determines that such services and notice would be appropriate.
 
 (5) The State must provide all appropriate IV-D services, in addition to IV-D services related to securing medical support, to all individuals who are eligible to receive services under paragraph (a)(1)(ii) of this section unless the individual notifies the State that only IV-D services related to securing medical support are wanted.
+
+(6) The State may elect in its State plan to allow an individual under paragraph (a)(1)(i) of this section who files an application to request paternity-only limited services in an intrastate case. If the State chooses this option, the State must define how this process will be implemented and must establish and use procedures, including domestic violence safeguards, which are reflected in a record, that specify when paternity-only limited services will be available. An application will be considered full-service unless the parent specifically applies for paternity-only limited services in accordance with the State's procedures. If one parent specifically requests paternity-only limited services and the other parent requests full services, the case will automatically receive full services. The State will be required to charge the application and service fees required under paragraphs (c) and (e) of this section for paternity-only limited services, and may recover costs in accordance with paragraph (d) of this section if the State has chosen this option in its State plan. The State must provide the applicant an application form with information on the availability of paternity-only limited services, consequences of selecting this limited service, and an explanation that the case will be closed when the limited service is completed.
 
 (b) *Definitions.* For purposes of this section:
 
@@ -46,7 +46,7 @@ Link to an amendment published at 81 FR 93561, Dec. 20, 2016.
 
 (ii) From the individual who is receiving IV-D services under paragraph (a)(1) (i) or (iii) of this section, either directly or from the support collected on behalf of the individual, but only if the State has in effect a procedure for informing all individuals authorized within the State to establish an obligation for support that the State will recover costs from the individual receiving IV-D services under paragraphs (a)(1) (i) and (iii) of this section.
 
-(2) A State that recovers standardized costs under paragraph (d)(1) of this section shall develop a written methodology to determine standardized costs which are as close to actual costs as is possible. This methodology must be made available to any individual upon request.
+(2) A State that recovers standardized costs under paragraph (d)(1) of this section shall develop a methodology, which is reflected in a record, to determine standardized costs which are as close to actual costs as is possible. This methodology must be made available to any individual upon request.
 
 (3) The IV-D agency shall not treat any amount collected from the individual as a recovery of costs under paragraph (d)(1)(i) of this section except amounts which exceed the current support owed by the individual under the obligation.
 
@@ -82,4 +82,4 @@ Link to an amendment published at 81 FR 93561, Dec. 20, 2016.
 
 (5) State funds used to pay the annual $25 fee shall not be considered administrative costs of the State for the operation of the title IV-D plan, and all annual $25 fees imposed during a Federal fiscal year must be considered income to the program, in accordance with § 304.50 of this chapter.
 
-(Approved by the Office of Management and Budget under control numbers 0960-0253, 0960-0385, 0960-0402, and 0970-0107)[49 FR 36772, Sept. 19, 1984, as amended at 50 FR 19648, May 9, 1985; 51 FR 37731, Oct. 24, 1986; 56 FR 8003, Feb. 26, 1991; 61 FR 67240, Dec. 20, 1996; 73 FR 74919, Dec. 9, 2008]
+(Approved by the Office of Management and Budget under control numbers 0960-0253, 0960-0385, 0960-0402, and 0970-0107)[49 FR 36772, Sept. 19, 1984, as amended at 50 FR 19648, May 9, 1985; 51 FR 37731, Oct. 24, 1986; 56 FR 8003, Feb. 26, 1991; 61 FR 67240, Dec. 20, 1996; 73 FR 74919, Dec. 9, 2008; 81 FR 93561, Dec. 20, 2016]

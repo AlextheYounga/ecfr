@@ -1,5 +1,7 @@
 ##### § 304.6 Responses to requests. #####
 
+Link to an amendment published at 82 FR 7633, Jan. 23, 2017.
+
 (a) *Acknowledgments of requests.* On receipt of a request, if the agency cannot provide the requested information within two business days, then an acknowledgment letter or e-mail message will be sent to the requester that will confirm the requester's agreement to pay fees under § 304.3(c) and will provide a request tracking number for further reference. Requesters may use this tracking number to determine the status of their request - including the date of its receipt and the estimated date on which action on it will be completed - by calling the agency's FOIA Public Liaison at (202) 480-2080. In some cases, the agency may seek further information or clarification from the requester.
 
 (b) *Grants of requests.* Ordinarily, the agency will have twenty business days from when a request is received to determine whether to grant or deny the request. Once the agency makes such a determination, it will immediately notify the requester in writing. The agency will inform the requester in the notice of any fee charged under § 304.9 and will disclose records to the requester promptly upon payment of any applicable fee. Records disclosed in part will be marked or annotated to show the amount of information deleted, unless doing so would harm an interest protected by an applicable exemption. The location of the information deleted also will be indicated on the record, if technically feasible.

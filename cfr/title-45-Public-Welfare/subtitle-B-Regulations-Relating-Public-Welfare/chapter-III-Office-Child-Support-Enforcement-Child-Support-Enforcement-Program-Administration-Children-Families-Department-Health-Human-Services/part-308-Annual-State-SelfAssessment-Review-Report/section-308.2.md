@@ -1,7 +1,5 @@
 ##### § 308.2 Required program compliance criteria. #####
 
-Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
-
 (a) *Case closure.* (1) The State must have and use procedures for case closure pursuant to Sec. 303.11 of this chapter in at least 90 percent of the closed cases reviewed.
 
 (2) If a IV-D case was closed during the review period, the State must determine whether the case met requirements pursuant to § 303.11 of this chapter.
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (i) Opening a case within 20 days pursuant to § 303.2(b) of this chapter;
 
-(ii) If location activities are necessary, using all appropriate sources within 75 days pursuant to § 303.3(b)(3) of this chapter. This includes all the following locate sources as appropriate: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State employment security agency, employment data, Department of Motor Vehicles, and credit bureaus;
+(ii) If location activities are necessary, using all appropriate sources within 75 days according to § 303.3(b)(3) of this chapter. This includes all the following locate sources as appropriate: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State workforce agency, employment data, Department of Motor Vehicles, and credit bureaus;
 
 (iii) Repeating location attempts quarterly and when new information is received in accordance with § 303.3(b)(5) of this chapter;
 
@@ -26,9 +24,10 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (2) If income withholding was not appropriate, and a collection was received during the review period, and the case was submitted for Federal and State income tax refund offset, if appropriate, then the case meets the requirements of § 303.6(c)(3) of this chapter, notwithstanding the timeframes for: establishment of cases in § 303.2(b) of this chapter; provision of services in intergovernmental IV-D cases under § 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; and location and enforcement of support obligations in §§ 303.3(b)(3) and (5), and 303.6 of this chapter.
 
-(3) If an order needed enforcement during the review period, but income was not withheld or other collections were not received (when income withholding could not be implemented), the State must determine the last required action and determine whether the action was taken within the appropriate timeframes. The following is a list of possible last required actions:
+(3) I
+f an order needed enforcement during the review period, but income was not withheld or other collections were not received (when income withholding could not be implemented), the State must determine the last required action and determine whether the action was taken within the appropriate timeframes. The following is a list of possible last required actions:
 
-(i) If location activities are necessary, using all appropriate location sources within 75 days pursuant to Sec. 303.3(b)(3) of this chapter. Location sources include: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State employment security agency, Department of motor vehicles, and credit bureaus;
+(i) If location activities are necessary, using all appropriate location sources within 75 days according to § 303.3(b)(3) of this chapter. Location sources include: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State workforce agency, Department of Motor Vehicles, and credit bureaus;
 
 (ii) Repeating attempts to locate quarterly and when new information is received pursuant to § 303.3(b)(5) of this chapter;
 
@@ -66,7 +65,7 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (2) If a case has not been reviewed, the State must determine the last required action and determine whether the action was taken within the appropriate timeframe. The following is a list of possible last required actions:
 
-(i) If location is necessary to conduct a review, using all appropriate location sources within 75 days of opening the case pursuant to § 303.3(b)(3) of this chapter. Location sources include: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State employment security agency, unemployment data, Department of Motor Vehicles, and credit bureaus;
+(i) If location is necessary to conduct a review, using all appropriate location sources within 75 days of opening the case pursuant to § 303.3(b)(3) of this chapter. Location sources include: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State workforce agency, unemployment data, Department of Motor Vehicles, and credit bureaus;
 
 (ii) Repeating location attempts quarterly and when new information is received pursuant to § 303.3(b)(5) of this chapter;
 
@@ -118,4 +117,4 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (2) States may count as a success for the 6-month standard cases where the IV-D agency uses long-arm jurisdiction and disposition occurs within 12 months of service of process on the alleged father or non-custodial parent.
 
-[65 FR 77750, Dec. 12, 2000, as amended at 73 FR 42442, July 21, 2008; 75 FR 38644, July 2, 2010]
+[65 FR 77750, Dec. 12, 2000, as amended at 73 FR 42442, July 21, 2008; 75 FR 38644, July 2, 2010; 81 FR 93568, Dec. 20, 2016]

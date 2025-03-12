@@ -1,31 +1,31 @@
-##### § 1351.20 What are the additional requirements under a Runaway and Homeless Youth Program grant? #####
+##### § 1351.20 What Government-wide and HHS-wide regulations apply to these programs? #####
 
-Link to an amendment published at 81 FR 93061, December 20, 2016.
+A number of other rules and regulations apply or potentially apply to applicants and grantees. These include:
 
-(a) To improve the administration of the Runaway and Homeless Youth Program by increasing the capability of the runaway and homeless youth service providers to deliver services, HHS will require grantees to accept technical assistance and short-term training as a condition of funding for each budget period.
+(a) 2 CFR part 182—Government-wide Requirements for Drug Free Workplace;
 
-(1) Technical assistance may be provided in, but not limited to, such areas as:
+(b) 2 CFR part 376—Nonprocurement Debarment and Suspension
 
-• Program Management,
+(c) 45 CFR part 16—Procedures of the Departmental Grant Appeals Board;
 
-• Fiscal Management,
+(d) 45 CFR part 30—Claims Collection;
 
-• Development of coordinated networks of private nonprofit agencies to provide services, and
+(e) 45 CFR part 46—Protection of Human Subjects;
 
-• Low cost community alternatives for runaway or otherwise homeless youth.
+(f) 45 CFR part 75—Uniform Administrative Requirements, Cost principles, and Audit Requirements for HHS Awards, including nondiscrimination requirements.
 
-(2) Short-term training may be provided in, but not limited to, such areas as:
+(g) 45 CFR part 80—Nondiscrimination Under Programs Receiving Federal Assistance Through the Department of Health and Human Services Effectuation of Title VI of the Civil Rights Act of 1964;
 
-• Shelter facility staff development,
+(h) 45 CFR part 81—Practice and Procedure for Hearings Under part 80;
 
-• Aftercare services or counseling,
+(i) 45 CFR part 84—Nondiscrimination on the Basis of Handicap in Programs or Activities Receiving Federal Financial Assistance;
 
-• Fund raising techniques,
+(j) 45 CFR part 86—Nondiscrimination on the Basis of Sex in Education Programs or Activities receiving Federal Financial Assistance;
 
-• Youth and Family counseling, and
+(k) 45 CFR part 87—Equal Treatment for Faith Based Organizations;
 
-• Crisis intervention techniques.
+(l) 45 CFR part 91—Nondiscrimination on the Basis of Age in Programs or Activities Receiving Federal Financial Assistance;
 
-(b) Grantees will be required to coordinate their activities with the 24-hour National toll-free communication system which links runaway and homeless youth projects and other service providers with runaway or otherwise homeless youth.
+(m) 45 CFR part 92—Nondiscrimination in Health Programs and Activities; and
 
-(c) Grantees will also be required to submit statistical reports profiling the clients served. The statistical reporting requirements are mandated by the Act which states that “runaway and homeless youth projects shall keep adequate statistical records profiling the children and families which it serves . . .”
+(n) 45 CFR part 93—New Restrictions on Lobbying.

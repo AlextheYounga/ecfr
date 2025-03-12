@@ -6,7 +6,7 @@ Authorization Validated End-User (VEU) permits the export, reexport, and transfe
 
 (1) Requests for authorization must be submitted in the form of an advisory opinion request, as described in § 748.3(c)(2), and should include a list of items (items for purposes of authorization VEU include commodities, software and technology, except as excluded by paragraph (c) of this section), identified by ECCN, that exporters or reexporters intend to export, reexport or transfer to an eligible end-user, once approved. To ensure a thorough review, requests for VEU authorization must include the information described in supplement no. 8 to this part. Requests for authorization will be accepted from exporters, reexporters or end-users. Submit the request to: The Office of Exporter Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Pennsylvania Avenue, NW., Room 2099B, Washington, DC 20230. Mark the package “Request for Authorization Validated End-User.”
 
-(2) In evaluating an end-user for eligibility under authorization VEU, the ERC will consider a range of information, including such factors as: the entity's record of exclusive engagement in civil end-use activities; the entity's compliance with U.S. export controls; the need for an on-site review prior to approval; the entity's capability of complying with the requirements of authorization VEU; the entity's agreement to on-site reviews to ensure adherence to the conditions of the VEU authorization by representatives of the U.S. Government; and the entity's relationships with U.S. and foreign companies. In addition, when evaluating the eligibility of an end-user, the ERC will consider the status of export controls and the support and adherence to multilateral export control regimes of the government of the eligible destination.
+(2) In evaluating an end user for eligibility under authorization VEU, the ERC will consider a range of information, including such factors as: The entity's record of exclusive engagement in appropriate end-use activities; the entity's compliance with U.S. export controls; the need for an on-site review prior to approval; the entity's capability of complying with the requirements of authorization VEU; the entity's agreement to on-site reviews by representatives of the U.S. Government to ensure adherence to the conditions of the VEU authorization; and the entity's relationships with U.S. and foreign companies. In addition, when evaluating the eligibility of an end user, the ERC will consider the status of export controls and the support and adherence to multilateral export control regimes of the government of the eligible destination.
 
 (3) The VEU authorization is subject to revision, suspension or revocation entirely or in part.
 
@@ -20,7 +20,7 @@ Authorization Validated End-User (VEU) permits the export, reexport, and transfe
 
 (c) *Item restrictions.* Items controlled under the EAR for missile technology (MT) and crime control (CC) reasons may not be exported or reexported under this authorization.
 
-(d) *End-use restrictions.* Items obtained under authorization VEU may be used only for civil end-uses and may not be used for any activities described in part 744 of the EAR. Exports, reexports, or transfers made under authorization VEU may only be made to an end-user listed in supplement no. 7 to this part if the items will be consigned to and for use by the validated end-user. Eligible end-users who obtain items under VEU may only:
+(d) *End-use restrictions.* Items obtained under authorization VEU in China may be used only for civil end uses and may not be used for any activities described in part 744 of the EAR. Items obtained under authorization VEU in India may be used for either civil or military end uses and may not be used for any activities described in part 744 of the EAR. Exports, reexports, or transfers made under authorization VEU may be made to an end user listed in Supplement No. 7 to this part only if the items will be consigned to and for use by the validated end user. Eligible end-users who obtain items under VEU may only:
 
 (1) Use such items at the end-user's own facility located in an eligible destination or at a facility located in an eligible destination over which the end-user demonstrates effective control;
 
@@ -34,7 +34,7 @@ Authorizations set forth in supplement no. 7 to this part are country-specific. 
 
 (e) *Certification and recordkeeping.* Prior to an initial export or reexport to a validated end-user under authorization VEU, exporters or reexporters must obtain certifications from the validated end-user regarding end-use and compliance with VEU requirements. Such certifications must include the contents set forth in supplement no. 8 to this part. Certifications and all records relating to VEU must be retained by exporters or reexporters in accordance with the recordkeeping requirements set forth in part 762 of the EAR.
 
-(f) *Reporting and review requirements* - (1)(i) *Reports.* Reexporters who make use of authorization VEU are required to submit annual reports to BIS. These reports must include, for each validated end-user to whom the exporter or reexporter exported or reexported eligible items:
+(f) *Reporting and review requirements*—(1)(i) *Reports.* Reexporters who make use of authorization VEU are required to submit annual reports to BIS. These reports must include, for each validated end-user to whom the exporter or reexporter exported or reexported eligible items:
 
 (A) The name and address of each validated end-user to whom eligible items were reexported;
 
@@ -56,4 +56,4 @@ Authorizations set forth in supplement no. 7 to this part are country-specific. 
 
 (i) *Records.* Records of items that were shipped under Authorization VEU prior to the removal of a license requirement or the availability of a license exception remain subject to the review requirements of paragraph (f)(2) of this section on and after the date that the license requirement was removed or the license exception became applicable.
 
-[72 FR 33660, June 19, 2007, as amended at 72 FR 56011, Oct. 2, 2007; 73 FR 37, Jan. 2, 2008; 77 FR 75013, Dec. 19, 2012; 78 FR 13470, Feb. 28, 2013]
+[72 FR 33660, June 19, 2007, as amended at 72 FR 56011, Oct. 2, 2007; 73 FR 37, Jan. 2, 2008; 77 FR 75013, Dec. 19, 2012; 78 FR 13470, Feb. 28, 2013; 82 FR 6220, Jan. 19, 2017]

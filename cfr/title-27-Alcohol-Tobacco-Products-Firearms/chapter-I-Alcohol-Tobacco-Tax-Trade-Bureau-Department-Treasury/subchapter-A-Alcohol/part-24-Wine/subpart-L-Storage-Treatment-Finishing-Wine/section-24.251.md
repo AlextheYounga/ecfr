@@ -1,0 +1,7 @@
+##### § 24.251 Tolerance for artificially carbonated hard cider and sparkling hard cider. #####
+
+(a) *Tolerance.* A tolerance of not more than 0.009 gram per 100 milliliters to the maximum limitation of carbon dioxide in artificially carbonated hard cider and sparkling hard cider will be allowed where the amount of carbon dioxide in excess of 0.64 gram per 100 milliliters is due to mechanical variations or secondary fermentation variations that cannot be completely controlled under good commercial practice. A tolerance will not be allowed where it is found by the appropriate TTB officer that the proprietor continuously or intentionally exceeds 0.64 gram of carbon dioxide per 100 milliliters of artificially carbonated hard cider or sparkling hard cider or where the variation results from the use of methods or equipment determined by the appropriate TTB officer to be not in accordance with good commercial practice. (See Subpart P of this part for the definition of hard cider for purposes of determining eligibility for the hard cider tax rate.)
+
+(b) *Records.* See § 24.302 of this chapter for recordkeeping requirements.
+
+(Sec. 335, Pub. L. 114-113, 129 Stat. 3109, as amended (26 U.S.C. 5041)[T.D. TTB-147, 82 FR 7663, Jan. 23, 2017]

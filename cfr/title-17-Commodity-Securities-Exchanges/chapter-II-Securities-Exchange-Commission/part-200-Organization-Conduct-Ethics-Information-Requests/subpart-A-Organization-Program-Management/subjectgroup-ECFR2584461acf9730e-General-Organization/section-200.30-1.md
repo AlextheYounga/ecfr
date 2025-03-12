@@ -1,7 +1,5 @@
 ##### § 200.30-1 Delegation of authority to Director of Division of Corporation Finance. #####
 
-Link to an amendment published at 81 FR 83550, November 21, 2016.
-
 Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Corporation Finance, to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to registration of securities pursuant to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), and Regulation C thereunder (§ 230.400 *et seq.* of this chapter):
@@ -28,7 +26,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (ii) To require the filing of other financial statements in addition to, or in substitution for, the statements therein required.
 
-(7) Acting pursuant to section 4(3) of the Act (15 U.S.C. 77d(3)) or Rule 174 thereunder (§ 230.174 of this chapter), to reduce the 40-day period or the 90-day period with respect to transactions referred to in section 4(3)(b) of the Act (15 U.S.C. 77d(3)(B)).
+(7) Acting pursuant to section 4(a)(3) of the Act (15 U.S.C. 77d(3)) or Rule 174 thereunder (§ 230.174 of this chapter), to reduce the 40-day period or the 90-day period with respect to transactions referred to in section 4(a)(3)(B) of the Act (15 U.S.C. 77d(a)(3)(B)).
 
 (8) To act on applications to dispense with any written consents of an expert pursuant to Rule 437 (§ 230.437 of this chapter).
 
@@ -46,7 +44,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (4) To deny a Form 1-Z filing pursuant to Rule 257 (§ 230.257 of this chapter).
 
-(c) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) and Regulation D thereunder (§§ 230.500 through 230.508 of this chapter), to authorize the granting of applications under §§ 230.505(b)(2)(iii)(C), 230.506(d)(2)(ii), and 230.507(b) of this chapter upon the showing of good cause that it is not necessary under the circumstances that the exemption under Regulation D be denied.
+(c) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) and Regulation D thereunder (§§ 230.500 through 230.508 of this chapter), to authorize the granting of applications under §§ 230.504(b)(3), 230.506(d)(2)(ii), and 230.507(b) of this chapter upon the showing of good cause that it is not necessary under the circumstances that the exemption under Regulation D be denied.
 
 (d) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) and §§ 227.100 through 227.503 of this chapter, to authorize the granting of applications under § 227.503(b)(2) of this chapter upon the showing of good cause that it is not necessary under the circumstances that the exemption under Regulation Crowdfunding be denied.
 

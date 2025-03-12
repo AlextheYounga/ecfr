@@ -1,7 +1,5 @@
 ##### § 303.7 Provision of services in intergovernmental IV-D cases. #####
 
-Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
-
 (a) *General responsibilities.* A State IV-D agency must:
 
 (1) Establish and use procedures for managing its intergovernmental IV-D caseload that ensure provision of necessary services as required by this section and include maintenance of necessary records in accordance with § 303.2 of this part;
@@ -60,7 +58,7 @@ Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
 
 (9) Send a request for review of a child support order to another State within 20 calendar days of determining that a request for review of the order should be sent to the other State and of receipt of information from the requestor necessary to conduct the review in accordance with section 466(a)(10) of the Act and § 303.8 of this part;
 
-(10) Distribute and disburse any support collections received in accordance with this section and §§ 302.32, 302.51, and 302.52 of this chapter, sections 454(5), 454B, 457, and 1912 of the Act, and instructions issued by the Office;
+(10) Distribute and disburse any support collections received in accordance with this section and §§ 302.32, 302.38, 302.51, and 302.52 of this chapter, sections 454(5), 454B, 457, and 1912 of the Act, and instructions issued by the Office;
 
 (11) Notify the responding agency within 10 working days of case closure that the initiating State IV-D agency has closed its case pursuant to § 303.11 of this part, and the basis for case closure;
 
@@ -110,10 +108,12 @@ Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
 
 (9) Within 10 working days of receipt of instructions for case closure from an initiating State agency under paragraph (c)(12) of this section, stop the responding State's income withholding order or notice and close the intergovernmental IV-D case, unless the two States reach an alternative agreement on how to proceed; and
 
-(10) Notify the initiating agency when a case is closed pursuant to §§ 303.11(b)(12) through (14) and 303.7(d)(9) of this part.
+(10) Notify the initiating agency when a case is closed pursuant to §§ 303.11(b)(17) through (19) and 303.7(d)(9).
 
 (e) *Payment and recovery of costs in intergovernmental IV-D cases.* (1) The responding IV-D agency must pay the costs it incurs in processing intergovernmental IV-D cases, including the costs of genetic testing. If paternity is established, the responding agency, at its election, may seek a judgment for the costs of testing from the alleged father who denied paternity.
 
 (2) Each State IV-D agency may recover its costs of providing services in intergovernmental non-IV-A cases in accordance with § 302.33(d) of this chapter, except that a IV-D agency may not recover costs from an FRC or from a foreign obligee in that FRC, when providing services under sections 454(32) and 459A of the Act.
 
-[75 FR 38642, July 2, 2010]
+(f) *Imposition and reporting of annual $25 fee in interstate cases.* The title IV-D agency in the initiating State must impose and report the annual $25 fee in accordance with § 302.33(e) of this chapter.
+
+[75 FR 38642, July 2, 2010, as amended at 81 FR 93564, Dec. 20, 2016]

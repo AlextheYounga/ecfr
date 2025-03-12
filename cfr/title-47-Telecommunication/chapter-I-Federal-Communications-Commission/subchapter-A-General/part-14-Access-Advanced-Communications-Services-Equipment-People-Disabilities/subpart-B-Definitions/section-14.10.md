@@ -1,5 +1,7 @@
 ##### § 14.10 Definitions. #####
 
+Link to an amendment published at 82 FR 7707, January 23, 2017.
+
 (a) The term *accessible* shall have the meaning provided in § 14.21(b).
 
 (b) The term *achievable* shall mean with reasonable effort or expense, as determined by the Commission. In making such a determination, the Commission shall consider:

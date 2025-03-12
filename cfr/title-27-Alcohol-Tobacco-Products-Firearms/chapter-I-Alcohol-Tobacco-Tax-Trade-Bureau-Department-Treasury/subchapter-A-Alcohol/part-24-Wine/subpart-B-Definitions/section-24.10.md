@@ -14,7 +14,9 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.24, Delegation of the Administrator's Authorities in 27 CFR Part 24, Wine.
 
-*Artificially carbonated wine.* Effervescent wine artificially charged with carbon dioxide and containing more than 0.392 grams of carbon dioxide per 100 milliliters.
+*Artificially carbonated hard cider.* Hard cider artificially injected with carbon dioxide and containing more than 0.392 but not more than 0.64 gram of carbon dioxide per 100 milliliters.
+
+*Artificially carbonated wine.* Wine (other than hard cider) artificially injected with carbon dioxide and containing more than 0.392 gram of carbon dioxide per 100 milliliters.
 
 *Bonded wine cellar.* Premises established under the provisions of this part. For the purposes of this part a wine premises designated a bonded winery is also a bonded wine cellar. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
@@ -42,7 +44,7 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Chaptalization (Brix adjustment).* The addition of sugar or concentrated juice of the same kind of fruit to juice before or during fermentation to develop alcohol by fermentation.
 
-*Cider.* See definitions for hard cider and tax exempt cider. For a description of an additional product which may be called cider, see § 4.21(e)(5) of this chapter.
+*Cider.* See definitions for hard cider and tax exempt cider. For the labeling of wine that may be designated as “cider” under the Federal Alcohol Administration Act, see § 4.21(e)(5) of this chapter.
 
 *Concentrate plant.* An establishment qualified under part 18 of this chapter for the production of volatile fruit-flavor concentrate.
 
@@ -56,7 +58,7 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *District director.* A district director of internal revenue.
 
-*Effervescent wine.* A wine containing more than 0.392 grams of carbon dioxide per 100 milliliters.
+*Effervescent wine.* A wine containing more than 0.392 gram of carbon dioxide per 100 milliliters, including artificially carbonated hard cider, artificially carbonated wine, sparkling hard cider, and sparkling wine.
 
 *Electronic fund transfer (EFT).* Any transfer of funds effected by a proprietor's financial institution, either directly or through a correspondent banking relationship, via the Federal Reserve Communications System (FRCS) or Fedwire to the Treasury Account at the Federal Reserve Bank.
 
@@ -84,7 +86,7 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Grape wine.* Wine made from the juice of sound, ripe grapes.
 
-*Hard cider.* Still wine derived primarily from apples or apple concentrate and water (apple juice, or the equivalent amount of concentrate reconstituted to the original brix of the juice prior to concentration, must represent more than 50 percent of the volume of the finished product) containing no other fruit product nor any artificial product which imparts a fruit flavor other than apple; containing at least one-half of 1 percent and less than 7 percent alcohol by volume; having the taste, aroma, and characteristics generally attributed to hard cider; and sold or offered for sale as hard cider.
+*Hard cider.* A wine that meets the eligibility requirements set forth in § 24.331 for the hard cider tax rate set forth in § 24.270. See the definitions for artificially carbonated hard cider, sparkling hard cider, and still hard cider.
 
 *Heavy bodied blending wine.* Wine made from fruit without added sugar, with or without added wine spirits, and conforming to the definition of natural wine in all respects except as to maximum total solids content.
 
@@ -133,7 +135,9 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Secretary.* The Secretary of the Treasury or the Secretary's designated delegate.
 
-*Sparkling wine or champagne.* An effervescent wine containing more than 0.392 gram of carbon dioxide per 100 milliliters of wine resulting solely from the secondary fermentation of the wine within a closed container.
+*Sparkling hard cider.* Hard cider containing more than 0.392 but not more than 0.64 gram of carbon dioxide per 100 milliliters of wine, resulting solely from the secondary fermentation of the wine within a closed container.
+
+*Sparkling wine or champagne.* Wine (other than hard cider) containing more than 0.392 gram of carbon dioxide per 100 milliliters of wine resulting solely from the secondary fermentation of the wine within a closed container.
 
 *Special natural wine.* A product produced from a base of natural wine (including heavy bodied blending wine) to which natural flavorings are added, and made pursuant to an approved formula in accordance with subpart H of this part.
 
@@ -143,7 +147,9 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Standard wine.* Natural wine, specially sweetened natural wine, special natural wine, and standard agricultural wine, produced in accordance with subparts F, H, and I of this part.
 
-*Still wine.* Wine containing not more than 0.392 gram of carbon dioxide per 100 milliliters.
+*Still hard cider.* A hard cider containing not more than 0.392 gram of carbon dioxide per 100 milliliters.
+
+*Still wine.* Wine (other than hard cider) containing not more than 0.392 gram of carbon dioxide per 100 milliliters.
 
 *Sugar.* Pure dry sugar, liquid sugar, and invert sugar syrup.
 
@@ -181,4 +187,4 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Wine spirits.* Brandy or wine spirits authorized under 26 U.S.C. 5373 for use in wine production.
 
-[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017]
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017; T.D. TTB-147, 82 FR 7662, Jan. 23, 2017]

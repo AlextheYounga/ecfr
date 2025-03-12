@@ -1,5 +1,7 @@
 ##### § 304.5 Timing of responses to requests. #####
 
+Link to an amendment published at 82 FR 7632, Jan. 23, 2017.
+
 (a) *In general.* The agency ordinarily will respond to requests according to their order of receipt.
 
 (b) *Multi-track processing.* The agency may use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work and/or time needed to process the request, including according to the number of pages involved. If it does so, then it will advise requesters in its slower track(s) of the limits of its faster track(s) and may provide requesters in its slower track(s) with an opportunity to limit the scope of their requests in order to qualify for faster processing within the specified limits of its faster track(s). The agency will contact the requester by telephone, e-mail or letter, whichever is most efficient, in each case.

@@ -1,6 +1,6 @@
 ##### § 307.5 Mandatory computerized support enforcement systems. #####
 
-Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (a) *Basic requirement.* (1) By October 1, 1997, each State must have in effect an operational computerized support enforcement system, which meets Federal requirements under § 302.85(a)(1) of this chapter, OCSE will review each system to certify that these requirements are met; and
 
@@ -14,7 +14,7 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (2) The waiver request meets the criteria set forth in section 1115(c) (1), (2) and (3) of the Act; or
 
-(3) The State provides written assurance that steps will be taken to otherwise improve the State's Child Support Enforcement program.
+(3) The State provides assurance, which is reflected in a record, that steps will be taken to otherwise improve the State's Child Support Enforcement program.
 
 (d) *APD submittal requirements for alternative system configuration.* APDs submitted by States which include requests for waiver for an alternative system configuration must, in addition to meeting conditions of § 307.15(b):
 
@@ -46,4 +46,4 @@ Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
 
 (iii) FFP is not available for developing new systems or making major changes and enhancements to separate automated or manual processes so that alternative system configurations meet conditions for waiver.
 
-[57 FR 47003, Oct. 14, 1992, as amended at 61 FR 67241, Dec. 20, 1996; 63 FR 44814, Aug. 21, 1998]
+[57 FR 47003, Oct. 14, 1992, as amended at 61 FR 67241, Dec. 20, 1996; 63 FR 44814, Aug. 21, 1998; 81 FR 93568, Dec. 20, 2016]

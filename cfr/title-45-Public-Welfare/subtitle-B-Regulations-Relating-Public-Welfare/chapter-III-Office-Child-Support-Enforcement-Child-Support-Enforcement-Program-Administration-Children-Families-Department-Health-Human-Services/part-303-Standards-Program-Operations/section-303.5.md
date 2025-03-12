@@ -1,7 +1,5 @@
 ##### § 303.5 Establishment of paternity. #####
 
-Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
-
 (a) For all cases referred to the IV-D agency or applying for services under § 302.33 of this chapter in which paternity has not been established, the IV-D agency must, as appropriate:
 
 (1) Provide an alleged father the opportunity to voluntarily acknowledge paternity in accordance with § 302.70(a)(5)(iii); and
@@ -76,7 +74,7 @@ Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
 
 (iii) Copies of a written description of the alternatives to, the legal consequences of, and the rights (including any rights, if a parent is a minor, due to minority status) and responsibilities of acknowledging paternity.
 
-(6) The State must provide training, guidance, and written instructions regarding voluntary acknowledgment of paternity, as necessary to operate the voluntary paternity establishment services in the hospitals, State birth record agencies, and other entities designated by the State and participating in the State's voluntary paternity establishment program.
+(6) The State must provide training, guidance, and instructions, which are reflected in a record, regarding voluntary acknowledgment of paternity, as necessary to operate the voluntary paternity establishment services in the hospitals, State birth record agencies, and other entities designated by the State and participating in the State's voluntary paternity establishment program.
 
 (7) The State must assess each hospital, State birth record agency, local birth record agency designated by the State, and other entity participating in the State's voluntary paternity establishment program that are providing voluntary paternity establishment services on at least an annual basis.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 81 FR 93564, Dec. 20, 2016.
 
 (h) In IV-D cases needing paternity establishment, the IV-D agency must determine if identifying information about a voluntary acknowledgment has been recorded in the statewide database in accordance with § 303.5(g)(8).
 
-[40 FR 27164, June 26, 1975, as amended at 50 FR 19650, May 9, 1985; 54 FR 32310, Aug. 4, 1989; 56 FR 22354, May 15, 1991; 59 FR 66250, Dec. 23, 1994; 64 FR 6249, Feb. 9, 1999; 64 FR 11809, Mar. 10, 1999]
+[40 FR 27164, June 26, 1975, as amended at 50 FR 19650, May 9, 1985; 54 FR 32310, Aug. 4, 1989; 56 FR 22354, May 15, 1991; 59 FR 66250, Dec. 23, 1994; 64 FR 6249, Feb. 9, 1999; 64 FR 11809, Mar. 10, 1999; 81 FR 93564, Dec. 20, 2016]

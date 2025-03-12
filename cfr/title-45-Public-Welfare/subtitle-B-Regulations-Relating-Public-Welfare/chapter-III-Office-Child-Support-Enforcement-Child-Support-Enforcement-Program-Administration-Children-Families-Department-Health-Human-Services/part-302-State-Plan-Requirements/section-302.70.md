@@ -1,7 +1,5 @@
 ##### § 302.70 Required State laws. #####
 
-Link to an amendment published at 81 FR 93563, Dec. 20, 2016.
-
 (a) *Required Laws.* The State plan shall provide that, in accordance with sections 454(20) and 466 of the Act and part 303 of this chapter, the State has in effect laws providing for, and has implemented procedures to improve, program effectiveness:
 
 (1) Procedures for carrying out a program of withholding under which new or existing support orders are subject to the State law governing withholding so that a portion of the noncustodial parent's wages may be withheld, in accordance with the requirements set forth in § 303.100 of this chapter;
@@ -26,7 +24,7 @@ Link to an amendment published at 81 FR 93563, Dec. 20, 2016.
 
 (iv) Procedures under which the voluntary acknowledgment of paternity creates a rebuttable or, at the option of the State, conclusive presumption of paternity, and under which such voluntary acknowledgment is admissible as evidence of paternity;
 
-(v) Procedures which provide that any objection to genetic testing results must be made in writing within a specified number of days before any hearing at which such results may be introduced into evidence; and if no objection is made, a written report of the test results is admissible as evidence of paternity without the need for foundation testimony or other proof of authenticity or accuracy;
+(v) Procedures which provide that any objection to genetic testing results must be made in writing within a specified number of days before any hearing at which such results may be introduced into evidence; and if no objection is made, a report of the test results, which is reflected in a record, is admissible as evidence of paternity without the need for foundation testimony or other proof of authenticity or accuracy;
 
 (vi) Procedures which create a rebuttable or, at the option of the State, conclusive presumption of paternity upon genetic testing results indicating a threshold probability of the alleged father being the father of the child;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 93563, Dec. 20, 2016.
 
 (7) Procedures for making information regarding the amount of overdue support owed by a noncustodial parent available to consumer reporting agencies;
 
-(8) Procedures under which all child support orders which are issued or modified in the State will include provision for withholding from income, in order to assure that withholding as a means of collecting child support is available if arrearages occur without the necessity of filing an application for services under § 302.33 of this part, in accordance with § 303.100(i) of this chapter;
+(8) Procedures under which all child support orders which are issued or modified in the State will include provision for withholding from income, in order to assure that withholding as a means of collecting child support is available if arrearages occur without the necessity of filing an application for services under § 302.33, in accordance with § 303.100(g) of this chapter.
 
 (9) Procedures which require that any payment or installment of support under any child support order, whether ordered through the State judicial system or through the expedited processes required by paragraph (a)(2) of this section, is (on and after the date it is due):
 
@@ -58,7 +56,7 @@ Link to an amendment published at 81 FR 93563, Dec. 20, 2016.
 
 (d)(1) *Exemption.* A State may apply for an exemption from any of the requirements of section 466 of the Act by the submittal of a request for exemption to the appropriate Regional Office.
 
-(2) *Basis for granting exemption.* The Secretary will grant a State, or political subdivision in the case of section 466(a)(2) of the Act, an exemption from any of the requirements of paragraph (a) of this section for a period not to exceed three years if the State demonstrates that compliance would not increase the effectiveness and efficiency of its Child Support Enforcement program. Demonstration of the program's efficiency and effectiveness must be shown by actual, or, if actual is not available, estimated data pertaining to caseloads, processing times, administrative costs, and average support collections or such other actual or estimated data as the Office may request. The State must demonstrate to the satisfaction of the Secretary that the program's effectiveness would not improve by using these procedures. Disapproval of a request for exemption is not subject to appeal.
+(2) *Basis for granting exemption.* The Secretary will grant a State, or political subdivision in the case of section 466(a)(2) of the Act, an exemption from any of the requirements of paragraph (a) of this section for a period not to exceed 5 years if the State demonstrates that compliance would not increase the effectiveness and efficiency of its Child Support Enforcement program. Demonstration of the program's efficiency and effectiveness must be shown by actual, or, if actual is not available, estimated data pertaining to caseloads, processing times, administrative costs, and average support collections or such other actual or estimated data as the Office may request. The State must demonstrate to the satisfaction of the Secretary that the program's effectiveness would not improve by using these procedures. Disapproval of a request for exemption is not subject to appeal.
 
 (3) *Review of exemption.* The exemption is subject to continuing review by the Secretary and may be terminated upon a change in circumstances or reduced effectiveness in the State or political subdivision, if the State cannot demonstrate that the changed circumstances continue to warrant an exemption in accordance with this section.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 81 FR 93563, Dec. 20, 2016.
 
 (5) *When an exemption is revoked or an extension is denied.* If the Secretary revokes an exemption or does not grant an extension of an exemption, the State must enact the appropriate laws and procedures to implement the mandatory practice by the beginning of the fourth month after the end of the first regular, special, budget or other session of the State's legislature which ends after the date the exemption is revoked or the extension is denied. If no State law is necessary, the State must establish and be using the procedure by the beginning of the fourth month after the date the exemption is revoked.
 
-(Approved by the Office of Management and Budget under control number 0960-0385)[50 FR 19649, May 9, 1985, as amended at 51 FR 37731, Oct. 24, 1986; 54 FR 15764, Apr. 19, 1989; 56 FR 8004, Feb. 26, 1991; 56 FR 22354, May 15, 1991; 57 FR 30681, July 10, 1992; 57 FR 61581, Dec. 28, 1992; 59 FR 66249, Dec. 23, 1994; 64 FR 6249, Feb. 9, 1999; 64 FR 11809, Mar. 10, 1999; 68 FR 25303, May 12, 2003; 68 FR 53052, Sept. 9, 2003; 73 FR 74920, Dec. 9, 2008]
+(Approved by the Office of Management and Budget under control number 0960-0385)[50 FR 19649, May 9, 1985, as amended at 51 FR 37731, Oct. 24, 1986; 54 FR 15764, Apr. 19, 1989; 56 FR 8004, Feb. 26, 1991; 56 FR 22354, May 15, 1991; 57 FR 30681, July 10, 1992; 57 FR 61581, Dec. 28, 1992; 59 FR 66249, Dec. 23, 1994; 64 FR 6249, Feb. 9, 1999; 64 FR 11809, Mar. 10, 1999; 68 FR 25303, May 12, 2003; 68 FR 53052, Sept. 9, 2003; 73 FR 74920, Dec. 9, 2008; 81 FR 93563, Dec. 20, 2016]

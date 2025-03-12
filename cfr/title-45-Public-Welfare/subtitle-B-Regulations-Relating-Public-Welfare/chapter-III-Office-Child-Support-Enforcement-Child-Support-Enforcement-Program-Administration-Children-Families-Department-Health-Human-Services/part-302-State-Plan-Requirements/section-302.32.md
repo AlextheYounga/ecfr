@@ -1,14 +1,16 @@
-##### § 302.32 Collection and disbursement of support payments by the IV-D Agency. #####
+##### § 302.32 Collection and disbursement of support payments by the IV-D agency. #####
 
-Link to an amendment published at 81 FR 93561, Dec. 20, 2016.
+The State plan shall provide that:
 
-The State plan shall provide that effective October 1, 1998 (or October 1, 1999, for States which paid support through courts on August 22, 1996,):
+(a) The IV-D agency must establish and operate a State Disbursement Unit (SDU) for the collection and disbursement of payments under support orders—
 
-(a) In any case in which support payments are collected for a recipient of aid under the State's title IV-A plan with respect to whom an assignment under section 408(a)(3) of the Act is effective, such payments shall be made to the State disbursement unit and shall not be paid directly to the family.
+(1) In all cases being enforced under the State IV-D plan; and
 
-(b) Timeframes for disbursement of support payments by State disbursement unit (SDU) under section 454B of the Act.
+(2) In all cases not being enforced under the State IV-D plan in which the support order is initially issued in the State on or after January 1, 1994, and in which the income of the noncustodial parent is subject to withholding in accordance with section 466(a)(8)(B) of the Act.
 
-(1) In interstate IV-D cases, amounts collected by the responding State on behalf of the initiating State must be forwarded to the initiating State within 2 business days of the date of receipt by the SDU in the responding State, in accordance with § 303.7(c)(7)(iv).
+(b) Timeframes for disbursement of support payments by SDUs under section 454B of the Act.
+
+(1) In intergovernmental IV-D cases, amounts collected by the responding State on behalf of the initiating agency must be forwarded to the initiating agency within 2 business days of the date of receipt by the SDU in the responding State, in accordance with § 303.7(d)(6)(v) of this chapter.
 
 (2) Amounts collected by the IV-D agency on behalf of recipients of aid under the State's title IV-A or IV-E plan for whom an assignment under sections 408(a)(3) or 471(a)(17) of the Act is effective shall be disbursed by the SDU within the following timeframes:
 
@@ -28,4 +30,4 @@ The State plan shall provide that effective October 1, 1998 (or October 1, 1999,
 
 (B) As provided in § 303.72(h)(5) of this chapter.
 
-[64 FR 6247, Feb. 9, 1999, as amended at 68 FR 25303, May 12, 2003; 73 FR 74919, Dec. 9, 2008]
+[64 FR 6247, Feb. 9, 1999, as amended at 68 FR 25303, May 12, 2003; 73 FR 74919, Dec. 9, 2008; 81 FR 93561, Dec. 20, 2016]

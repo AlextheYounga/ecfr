@@ -1,5 +1,7 @@
 ##### § 748.9 Support documents for evaluation of foreign parties in license applications. #####
 
+Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
+
 (a) *Scope.* License applicants may be required to obtain support documents concerning the foreign parties and the disposition of the items intended for export, reexport, or transfer (in-country). Some support documents are issued by foreign governments, while other support documents are signed and issued by the purchaser and/or ultimate consignee. For support documents issued by foreign governments, any foreign legal restrictions or obligations exercised by the government issuing the support document are in addition to the conditions and restrictions placed on the transaction by BIS. However, the laws and regulations of the United States are in no way modified, changed, or superseded by the issuance of a support document by a foreign government.
 
 (b) *Requirements to obtain support documents for license applications.* Unless an exception in paragraph (c) of this section applies, a support document is required for certain license applications for the People's Republic of China (PRC) (see §§ 748.10 and 748.11(a)(2)), “600 Series Major Defense Equipment” (see § 748.11), and firearms and related commodities to member countries of the Organization of American States (see § 748.12).

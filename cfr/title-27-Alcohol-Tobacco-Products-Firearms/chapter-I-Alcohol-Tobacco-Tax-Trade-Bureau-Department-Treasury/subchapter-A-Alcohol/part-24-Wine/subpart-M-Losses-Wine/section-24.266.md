@@ -6,10 +6,20 @@
 
 (1) Where there are circumstances indicating that all or a part of the wine reported lost was unlawfully removed, or
 
-(2) Where the loss on bonded wine premises during the annual period exceeds three percent of the aggregate volume of wine on-hand at the beginning of the annual period and the volume of wine received in bond during the annual period; or the loss exceeds six percent of the still wine produced by fermentation; or the loss exceeds six percent of the sparkling wine produced by fermentation in bottles; or the loss exceeds three percent of the special natural wine produced under § 24.195 or other wine produced under § 24.218; or the loss exceeds three percent of the artificially carbonated wine produced; or the loss exceeds three percent of the bulk process sparkling wine produced.
+(2)(i)(A) Where the loss of wine on bonded wine premises during the annual period exceeds three percent of the aggregate volume of wine on-hand at the beginning of the annual period and the volume of wine received in bond during the annual period;
 
-The percentage applicable to each tax class of wine will be calculated separately, unless the calculation is impracticable because of the mixture of different tax classes by addition of wine spirits or blending during the annual period, in which case the percentage will be calculated on the aggregate volume. Wine removed immediately after production for use as distilling material and on which the usual racking, clarifying, and filtering losses are not sustained, will not be included in the calculations.
+(B) The loss exceeds six percent of the still wine or still hard cider produced by fermentation;
+
+(C) The loss exceeds six percent of the sparkling wine or sparkling hard cider produced by fermentation in bottles;
+
+(D) The loss exceeds three percent of the special natural wine produced under § 24.195 or other wine produced under § 24.218;
+
+(E) The loss exceeds three percent of the artificially carbonated wine or artificially carbonated hard cider produced; or
+
+(F) The loss exceeds three percent of the bulk process sparkling wine or bulk process sparkling hard cider produced.
+
+(ii) The percentage applicable to each tax class of wine will be calculated separately, unless the calculation is impracticable because of the mixture of different tax classes by addition of wine spirits or blending during the annual period, in which case the percentage will be calculated on the aggregate volume. Wine removed immediately after production for use as distilling material and on which the usual racking, clarifying, and filtering losses are not sustained, will not be included in the calculations.
 
 (c) *Bottle and other container wine losses.* Wine filled into a bottle or other similar containers are not subject to losses due to spillage, leakage, soakage, evaporation, and other losses normally occurring from racking and filtering. In addition, wine that has been filled into a bottle or other similar containers can be accurately accounted for and any unexplained shortage is considered evidence of an unreported removal. Therefore, the proprietor shall pay the tax on any unexplained loss of untaxpaid bottled or packed wine disclosed by inventory or otherwise.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367, 5369, 5370))(Approved by the Office of Management and Budget under control number 1512-0492)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367, 5369, 5370))(Approved by the Office of Management and Budget under control number 1513-0088)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. TTB-147, 82 FR 7664, Jan. 23, 2017]
