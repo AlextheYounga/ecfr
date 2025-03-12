@@ -1,0 +1,3 @@
+##### § 202.4 Status of applicant. #####
+
+The person filing an application shall not be a party to any proceeding which may be instituted under the Act, unless he be permitted by the Secretary or by the Administrative Law Judge to intervene therein. The Director shall not be required to divulge the name of the applicant and such person will have no legal status in the proceeding which may be instituted, except where allowed to intervene or as such person may be called as a witness. At any time after the institution of the proceeding, and before it has been submitted to the Secretary for final consideration, the Secretary or the Administrator, may upon petition in writing and upon good cause shown, permit any person to intervene.

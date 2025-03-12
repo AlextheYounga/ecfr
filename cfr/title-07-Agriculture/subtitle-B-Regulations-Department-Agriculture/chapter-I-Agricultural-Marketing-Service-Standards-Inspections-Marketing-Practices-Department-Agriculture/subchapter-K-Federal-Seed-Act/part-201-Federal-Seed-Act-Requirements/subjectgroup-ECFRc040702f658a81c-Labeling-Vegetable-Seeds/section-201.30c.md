@@ -1,0 +1,5 @@
+##### § 201.30c Noxious-weed seeds of vegetable seed in containers of more than 1 pound. #####
+
+Except for those kinds of noxious-weed seeds shown in § 201.16(b), the names of kinds of noxious-weed seeds and the rate of occurrence of each shall be expressed in the label in accordance with, and the rate shall not exceed the rate permitted by, the law and regulations of the State into which the seed is offered for transportation or is transported. If in the course of such transportation, or thereafter, the seed is diverted to another State of destination, the person or persons responsible for such diversion shall cause the seed to be relabeled with respect to noxious-weed seed content, if necessary, to conform to the laws and regulations of the State into which the seed is diverted.
+
+[85 FR 40580, July 7, 2020]

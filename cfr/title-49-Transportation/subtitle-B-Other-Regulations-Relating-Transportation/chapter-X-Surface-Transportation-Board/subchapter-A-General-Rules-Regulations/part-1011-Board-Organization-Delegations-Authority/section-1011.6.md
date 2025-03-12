@@ -1,5 +1,7 @@
 ##### § 1011.6 Delegations of authority by the Chairman. #####
 
+Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
+
 (a)(1) This section provides for delegations of authority by the Chairman of the Surface Transportation Board to individual Board employees.
 
 (2) The Chairman of the Board may remove for disposition any matter delegated under this section, and any matter delegated under this section may be referred by the Board employee to the Chairman for disposition.

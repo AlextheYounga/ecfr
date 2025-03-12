@@ -1,5 +1,7 @@
 ##### § 1111.9 Procedural schedule in stand-alone cost cases. #####
 
+Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
+
 (a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedule will apply in stand-alone cost cases after the pre-complaint period initiated by the pre-filing notice:
 
 (1) Day 0 - Complaint filed, discovery period begins.

@@ -1,0 +1,5 @@
+##### § 201.11a Hybrid. #####
+
+If any one kind or kind and variety of seed present in excess of 5 percent is “hybrid” seed, it shall be designated “hybrid” on the label. The percentage that is hybrid shall be at least 95 percent of the percentage of pure seed shown unless the percentage of pure seed which is hybrid seed is shown separately. If two or more kinds or varieties are present in excess of 5 percent and are named on the label, each that is hybrid shall be designated as hybrid on the label. Any one kind or kind and variety that has pure seed which is less than 95 percent but more than 75 percent hybrid seed as a result of incompletely controlled pollination in a cross shall be labeled to show (a) the percentage of pure seed that is hybrid seed or (b) a statement such as “Contains from 75 percent to 95 percent hybrid seed.” No one kind or variety of seed shall be labeled as hybrid if the pure seed contains less than 75 percent hybrid seed.
+
+[33 FR 10840, July 31, 1968]
