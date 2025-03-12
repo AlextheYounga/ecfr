@@ -1,5 +1,7 @@
 ##### § 229.407 (Item 407) Corporate governance. #####
 
+Link to an amendment published at 84 FR 2425, Feb. 6, 2019.
+
 (a) *Director independence.* Identify each director and, when the disclosure called for by this paragraph is being presented in a proxy or information statement relating to the election of directors, each nominee for director, that is independent under the independence standards applicable to the registrant under paragraph (a)(1) of this Item. In addition, if such independence standards contain independence requirements for committees of the board of directors, identify each director that is a member of the compensation, nominating or audit committee that is not independent under such committee independence standards. If the registrant does not have a separately designated audit, nominating or compensation committee or committee performing similar functions, the registrant must provide the disclosure of directors that are not independent with respect to all members of the board of directors applying such committee independence standards.
 
 (1) In determining whether or not the director or nominee for director is independent for the purposes of paragraph (a) of this Item, the registrant shall use the applicable definition of independence, as follows:
