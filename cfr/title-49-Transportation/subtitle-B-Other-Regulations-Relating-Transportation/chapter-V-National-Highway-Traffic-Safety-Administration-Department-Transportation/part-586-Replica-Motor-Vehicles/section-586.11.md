@@ -6,4 +6,6 @@ Each replica motor vehicle shall have a temporary label attached to a location o
 
 (b) The label shall include a message area in white with black text in at least 20-point font stating: “This vehicle is a replica motor vehicle and is exempt from complying with all current Federal motor vehicle safety standards that apply to motor vehicles, and with theft prevention and bumper standards in effect on the date of manufacture. [The expression “U.S.” or “U.S.A.” may be inserted before the word “Federal”.] See the certification label for a list of the standards from which this replica motor vehicle is exempt.”
 
-(3) The message area shall be not less than 30 cm2 (4.7 in2).
+(c) The message area shall be not less than 30 cm2 (4.7 in2).
+
+[87 FR 13233, Mar. 9, 2022, as amended at 87 FR 23111, Apr. 19, 2022]

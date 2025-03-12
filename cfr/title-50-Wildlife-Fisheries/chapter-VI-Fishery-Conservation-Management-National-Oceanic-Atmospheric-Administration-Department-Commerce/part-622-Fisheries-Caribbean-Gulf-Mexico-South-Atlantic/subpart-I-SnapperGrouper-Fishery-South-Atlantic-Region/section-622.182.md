@@ -22,21 +22,21 @@
 
 (x) *Betsy Ross Reef* is bounded on the north by 32°03.60′ N. lat.; on the south by 32°02.88′ N. lat.; on the east by 80°24.57′ W. long.; and on the west by 80°25.50′ W. long.
 
-(xi) *Hilton Head Reef/Artificial Reef - T* is bounded on the north by 32°00.71′ N. lat.; on the south by 31°59.42′ N. lat.; on the east by 80°35.23′ W. long.; and on the west by 80°36.37′ W. long.
+(xi) *Hilton Head Reef/Artificial Reef—T* is bounded on the north by 32°00.71′ N. lat.; on the south by 31°59.42′ N. lat.; on the east by 80°35.23′ W. long.; and on the west by 80°36.37′ W. long.
 
-(xii) *Artificial Reef - A* is bounded on the north by 30°57.4′ N. lat.; on the south by 30°55.4′ N. lat.; on the east by 81°13.9′ W. long.; and on the west by 81°16.3′ W. long.
+(xii) *Artificial Reef—A* is bounded on the north by 30°57.4′ N. lat.; on the south by 30°55.4′ N. lat.; on the east by 81°13.9′ W. long.; and on the west by 81°16.3′ W. long.
 
-(xiii) *Artificial Reef - C* is bounded on the north by 30°52.0′ N. lat.; on the south by 30°50.0′ N. lat.; on the east by 81°08.5′ W. long.; and on the west by 81°10.9′ W. long.
+(xiii) *Artificial Reef—C* is bounded on the north by 30°52.0′ N. lat.; on the south by 30°50.0′ N. lat.; on the east by 81°08.5′ W. long.; and on the west by 81°10.9′ W. long.
 
-(xiv) *Artificial Reef - G* is bounded on the north by 31°00.0′ N. lat.; on the south by 30°58.0′ N. lat.; on the east by 80°56.8′ W. long.; and on the west by 80°59.2′ W. long.
+(xiv) *Artificial Reef—G* is bounded on the north by 31°00.0′ N. lat.; on the south by 30°58.0′ N. lat.; on the east by 80°56.8′ W. long.; and on the west by 80°59.2′ W. long.
 
-(xv) *Artificial Reef - F* is bounded on the north by 31°06.8′ N. lat.; on the south by 31°04.8′ N. lat.; on the east by 81°10.5′ W. long.; and on the west by 81°13.4′ W. long.
+(xv) *Artificial Reef—F* is bounded on the north by 31°06.8′ N. lat.; on the south by 31°04.8′ N. lat.; on the east by 81°10.5′ W. long.; and on the west by 81°13.4′ W. long.
 
-(xvi) *Artificial Reef - J* is bounded on the north by 31°36.7′ N. lat.; on the south by 31°34.7′ N. lat.; on the east by 80°47.3′ W. long.; and on the west by 80°50.1′ W. long.
+(xvi) *Artificial Reef—J* is bounded on the north by 31°36.7′ N. lat.; on the south by 31°34.7′ N. lat.; on the east by 80°47.3′ W. long.; and on the west by 80°50.1′ W. long.
 
-(xvii) *Artificial Reef - L* is bounded on the north by 31°46.0′ N. lat.; on the south by 31°44.0′ N. lat.; on the east by 80°34.7′ W. long.; and on the west by 80°37.1′ W. long.
+(xvii) *Artificial Reef—L* is bounded on the north by 31°46.0′ N. lat.; on the south by 31°44.0′ N. lat.; on the east by 80°34.7′ W. long.; and on the west by 80°37.1′ W. long.
 
-(xviii) *Artificial Reef - KC* is bounded on the north by 31°51.2′ N. lat.; on the south by 31°49.2′ N. lat.; on the east by 80°45.3′ W. long.; and on the west by 80°47.7′ W. long.
+(xviii) *Artificial Reef—KC* is bounded on the north by 31°51.2′ N. lat.; on the south by 31°49.2′ N. lat.; on the east by 80°45.3′ W. long.; and on the west by 80°47.7′ W. long.
 
 (xix) *Ft. Pierce Inshore Reef* is bounded on the north by 27°26.8′ N. lat.; on the south by 27°25.8′ N. lat.; on the east by 80°09.24′ W. long.; and on the west by 80°10.36′ W. long.
 
@@ -50,7 +50,7 @@
 |  D  |27°24.85′ |80°00.33′ |
 |  A  |27°23.68′ |80°03.95′ |
 
-(xxi) *Key Biscayne/Artificial Reef - H* is bounded on the north by 25°42.82′ N. lat.; on the south by 25°41.32′ N. lat.; on the east by 80°04.22′ W. long.; and on the west by 80°05.53′ W. long.
+(xxi) *Key Biscayne/Artificial Reef—H* is bounded on the north by 25°42.82′ N. lat.; on the south by 25°41.32′ N. lat.; on the east by 80°04.22′ W. long.; and on the west by 80°05.53′ W. long.
 
 (xxii) *Little River Offshore Reef* is bounded on the north by 33°42.10′ N. lat.; on the south by 33°41.10′ N. lat.; on the east by 78°26.40′ W. long.; and on the west by 78°27.10′ W. long.
 
@@ -88,41 +88,41 @@
 
 (xxxix) *Beaufort 45 Foot Reef* is bounded on the north by 32°07.65′ N. lat.; on the south by 32°06.65′ N. lat.; on the east by 80°28.80′ W. long.; and on the west by 80°29.80′ W. long.
 
-(xl) *Artificial Reef - ALT* is bounded on the north by 31°18.6′ N. lat.; on the south by 31°16.6′ N. lat.; on the east by 81°07.0′ W. long.; and on the west by 81°09.4′ W. long.
+(xl) *Artificial Reef—ALT* is bounded on the north by 31°18.6′ N. lat.; on the south by 31°16.6′ N. lat.; on the east by 81°07.0′ W. long.; and on the west by 81°09.4′ W. long.
 
-(xli) *Artificial Reef - CAT* is bounded on the north by 31°40.2′ N. lat.; on the south by 31°38.2′ N. lat.; on the east by 80°56.2′ W. long.; and on the west by 80°58.6′ W. long.
+(xli) *Artificial Reef—CAT* is bounded on the north by 31°40.2′ N. lat.; on the south by 31°38.2′ N. lat.; on the east by 80°56.2′ W. long.; and on the west by 80°58.6′ W. long.
 
-(xlii) *Artificial Reef - CCA* is bounded on the north by 31°43.7′ N. lat.; on the south by 31°41.7′ N. lat.; on the east by 80°40.0′ W. long.; and on the west by 80°42.3′ W. long.
+(xlii) *Artificial Reef—CCA* is bounded on the north by 31°43.7′ N. lat.; on the south by 31°41.7′ N. lat.; on the east by 80°40.0′ W. long.; and on the west by 80°42.3′ W. long.
 
-(xliii) *Artificial Reef - DRH* is bounded on the north by 31°18.0′ N. lat.; on the south by 31°16.0′ N. lat.; on the east by 80°56.6′ W. long.; and on the west by 80°59.0′ W. long.
+(xliii) *Artificial Reef—DRH* is bounded on the north by 31°18.0′ N. lat.; on the south by 31°16.0′ N. lat.; on the east by 80°56.6′ W. long.; and on the west by 80°59.0′ W. long.
 
-(xliv) *Artificial Reef - DUA* is bounded on the north by 31°47.8′ N. lat.; on the south by 31°45.8′ N. lat.; on the east by 80°52.1′ W. long.; and on the west by 80°54.5′ W. long.
+(xliv) *Artificial Reef—DUA* is bounded on the north by 31°47.8′ N. lat.; on the south by 31°45.8′ N. lat.; on the east by 80°52.1′ W. long.; and on the west by 80°54.5′ W. long.
 
-(xlv) *Artificial Reef - DW* is bounded on the north by 31°22.8′ N. lat.; on the south by 31°20.3′ N. lat.; on the east by 79°49.8′ W. long.; and on the west by 79°51.1′ W. long.
+(xlv) *Artificial Reef—DW* is bounded on the north by 31°22.8′ N. lat.; on the south by 31°20.3′ N. lat.; on the east by 79°49.8′ W. long.; and on the west by 79°51.1′ W. long.
 
-(xlvi) *Artificial Reef - KBY* is bounded on the north by 30°48.6′ N. lat.; on the south by 30°46.6′ N. lat.; on the east by 81°15.0′ W. long.; and on the west by 81°17.4′ W. long.
+(xlvi) *Artificial Reef—KBY* is bounded on the north by 30°48.6′ N. lat.; on the south by 30°46.6′ N. lat.; on the east by 81°15.0′ W. long.; and on the west by 81°17.4′ W. long.
 
-(xlvii) *Artificial Reef - KTK* is bounded on the north by 31°31.3′ N. lat.; on the south by 31°29.3′ N. lat.; on the east by 80°59.1′ W. long.; and on the west by 81°01.5′ W. long.
+(xlvii) *Artificial Reef—KTK* is bounded on the north by 31°31.3′ N. lat.; on the south by 31°29.3′ N. lat.; on the east by 80°59.1′ W. long.; and on the west by 81°01.5′ W. long.
 
-(xlviii) *Artificial Reef - MRY* is bounded on the north by 30°47.5′ N. lat.; on the south by 30°45.5′ N. lat.; on the east by 81°05.5′ W. long.; and on the west by 81°07.8′ W. long.
+(xlviii) *Artificial Reef—MRY* is bounded on the north by 30°47.5′ N. lat.; on the south by 30°45.5′ N. lat.; on the east by 81°05.5′ W. long.; and on the west by 81°07.8′ W. long.
 
-(xlix) *Artificial Reef - SAV* is bounded on the north by 31°55.4′ N. lat.; on the south by 31°53.4′ N. lat.; on the east by 80°45.2′ W. long.; and on the west by 80°47.6′ W. long.
+(xlix) *Artificial Reef—SAV* is bounded on the north by 31°55.4′ N. lat.; on the south by 31°53.4′ N. lat.; on the east by 80°45.2′ W. long.; and on the west by 80°47.6′ W. long.
 
-(l) *Artificial Reef - SFC* is bounded on the north by 31°00.8′ N. lat.; on the south by 30°59.8′ N. lat.; on the east by 81°02.2′ W. long.; and on the west by 81°03.4′ W. long.
+(l) *Artificial Reef—SFC* is bounded on the north by 31°00.8′ N. lat.; on the south by 30°59.8′ N. lat.; on the east by 81°02.2′ W. long.; and on the west by 81°03.4′ W. long.
 
-(li) *Artificial Reef - WW* is bounded on the north by 31°43.5′ N. lat.; on the south by 31°42.2′ N. lat.; on the east by 79°57.7′ W. long.; and on the west by 79°59.3′ W. long.
+(li) *Artificial Reef—WW* is bounded on the north by 31°43.5′ N. lat.; on the south by 31°42.2′ N. lat.; on the east by 79°57.7′ W. long.; and on the west by 79°59.3′ W. long.
 
 (2) To determine what restrictions apply in the SMZs listed in paragraph (a)(1) of this section, follow this table:
 
-|   In SMZs specified in the following paragraphs of this section   |                                                                                                                                                    These restrictions apply                                                                                                                                                    |
-|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|(a)(1)(i) through (x), (a)(1)(xx), and (a)(1)(xxii) through (xxxix)|                                                                                                                            Use of a powerhead to take South Atlantic snapper-grouper is prohibited.                                                                                                                            |
-|                                                                   |Possession of a powerhead and a mutilated South Atlantic snapper-grouper in, or after having fished in, one of these SMZs constitutes prima facie evidence that such fish was taken with a powerhead in the SMZ. Harvest and possession of a South Atlantic snapper-grouper is limited to the bag-limits specified § 622.187(b).|
-|      (a)(1)(i) through (xviii) and (a)(1)(xxii) through (li)      |                                                                                                                       Fishing may only be conducted with handline, rod and reel, and spearfishing gear.                                                                                                                        |
-|                      (a)(1)(i) through (li)                       |                                                                                                                                    Use of a sea bass pot or bottom longline is prohibited.                                                                                                                                     |
-|      (a)(1)(xii) through (xviii) and (a)(1)(xl) through (li)      |                                                                                                  Possession of South Atlantic snapper-grouper taken with a powerhead is limited to the bag limits specified in § 622.187(b).                                                                                                   |
-|                    (a)(1)(xix) and (a)(1)(xx)                     |                                                                                             A hydraulic or electric reel that is permanently affixed to the vessel is prohibited when fishing for South Atlantic snapper-grouper.                                                                                              |
-|                    (a)(1)(xix) and (a)(1)(xxi)                    |                                                                                                                                            Use of spearfishing gear is prohibited.                                                                                                                                             |
+|In SMZs specified in the following paragraphs of this section|                                                                                                                                                     These restrictions apply                                                                                                                                                      |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   (a)(1)(i) through (x) and (a)(1)(xxii) through (xxxix)    |                                                                                                                             Use of a powerhead to take South Atlantic snapper-grouper is prohibited.                                                                                                                              |
+|   (a)(1)(i) through (x) and (a)(1)(xxii) through (xxxix)    |Possession of a powerhead and a mutilated South Atlantic snapper-grouper in, or after having fished in, one of these SMZs constitutes prima facie evidence that such fish was taken with a powerhead in the SMZ. Harvest and possession of a South Atlantic snapper-grouper is limited to the bag limits specified in § 622.187(b).|
+|   (a)(1)(i) through (xviii) and (a)(1)(xxii) through (li)   |                                                                                                                         Fishing may only be conducted with handline, rod and reel, and spearfishing gear.                                                                                                                         |
+|                   (a)(1)(i) through (li)                    |                                                                                                                                      Use of a sea bass pot or bottom longline is prohibited.                                                                                                                                      |
+|   (a)(1)(xii) through (xviii) and (a)(1)(xl) through (li)   |                                                                                                    Possession of South Atlantic snapper-grouper taken with a powerhead is limited to the bag limits specified in § 622.187(b).                                                                                                    |
+|                 (a)(1)(xix) and (a)(1)(xx)                  |                                                                                               A hydraulic or electric reel that is permanently affixed to the vessel is prohibited when fishing for South Atlantic snapper-grouper.                                                                                               |
+|                 (a)(1)(xix) and (a)(1)(xxi)                 |                                                                                                                                              Use of spearfishing gear is prohibited.                                                                                                                                              |
 
 (b) *Longline prohibited areas.* A longline may not be used to fish in the EEZ for South Atlantic snapper-grouper south of 27°10′ N. lat. (due east of the entrance to St. Lucie Inlet, FL); or north of 27°10′ N. lat. where the charted depth is less than 50 fathoms (91.4 m), as shown on the latest edition of the largest scale NOAA chart of the location. A person aboard a vessel with a longline on board that fishes on a trip in the South Atlantic EEZ south of 27°10′ N. lat., or north of 27°10′ N. lat. where the charted depth is less than 50 fathoms (91.4 m), is limited on that trip to the bag limit for South Atlantic snapper-grouper for which a bag limit is specified in § 622.187(b), and to zero for all other South Atlantic snapper-grouper. For the purpose of this paragraph, a vessel is considered to have a longline on board when a power-operated longline hauler, a cable or monofilament of diameter and length suitable for use in the longline fishery, and gangions are on board. Removal of any one of these three elements constitutes removal of a longline.
 
@@ -135,8 +135,6 @@
 (e) *SMZs off North Carolina.* (1) The center of each SMZ in Table 3 to this paragraph (e) is located at the given point with a radius extending the applicable distance in every direction laterally from that point to form a circle around the center point.
 
 (2) Harvest of South Atlantic snapper-grouper while in the SMZs in this paragraph (e) is permitted only by handline, rod and reel, and spearfishing gear. All harvest of South Atlantic snapper-grouper by spearfishing gear in the SMZs in this paragraph (e) is limited to the applicable recreational bag and possession limits in § 622.187.
-
-Table 3 to Paragraph (e)
 
 |Reef name|North lat.|West long.|Radius in ft  <br/>(m)|
 |---------|----------|----------|----------------------|
@@ -175,9 +173,7 @@ Table 3 to Paragraph (e)
 
 (2) Harvest of South Atlantic snapper-grouper while in the SMZs in this paragraph (f) is permitted only by handline, rod and reel, and spearfishing gear (excludes a powerhead). All harvest of South Atlantic snapper-grouper by the allowable gear in the SMZs in this paragraph (f) is limited to the applicable recreational bag and possession limits in § 622.187.
 
-(3) *PA-04 - Ron McManus Memorial Reef.* This SMZ is bounded by lines connecting the following corner points: northwest corner point at 33°46.400′ N, 78°36.200′ W; northeast corner point at 33°46.400′ N, 78°35.600′ W; southeast corner point at 33°45.900′ N, 78°35.600′ W; and southwest corner point at 33°45.900′ N, 78°36.200′ W.
-
-Table 4 to Paragraph (f)
+(3) *PA-04—Ron McManus Memorial Reef.* This SMZ is bounded by lines connecting the following corner points: northwest corner point at 33°46.400′ N, 78°36.200′ W; northeast corner point at 33°46.400′ N, 78°35.600′ W; southeast corner point at 33°45.900′ N, 78°35.600′ W; and southwest corner point at 33°45.900′ N, 78°36.200′ W.
 
 |       Reef name        |North lat.|West long.|Radius in ft  <br/>(m)|
 |------------------------|----------|----------|----------------------|
@@ -185,4 +181,4 @@ Table 4 to Paragraph (f)
 |PA-28 Lowcountry Anglers|32°34.300′|79°55.100′|      600 (183)       |
 |PA-34 CCA-McClellanville|32°51.800′|79°22.500′|      600 (183)       |
 
-[78 FR 22952, Apr. 17, 2013, as amended at 85 FR 36171, June 15, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 85 FR 36171, June 15, 2020; 87 FR 23149, Apr. 19, 2022]
