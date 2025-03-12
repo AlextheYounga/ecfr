@@ -1,5 +1,7 @@
 ##### § 1710.254 Alternative sources of power. #####
 
+Link to an amendment published at 84 FR 32612, July 9, 2019.
+
 (a) *General.* (1) RUS will make loans to finance the construction of generation facilities by distribution or power supply borrowers and transmission facilities by power supply borrowers only under the following conditions if said borrowers do not already own and operate such types of facilities:
 
 (i) Where no adequate and dependable source of power is available to meet the consumers' needs; or

@@ -82,7 +82,7 @@
 
 (ii) *Other park areas.* Demonstrations and special events are not allowed in the following other park areas:
 
-(A) The Washington Monument, which means the area enclosed within the inner circle that surrounds the Monument's base, except for the official annual commemorative Washington birthday ceremony.
+(A) The Washington Monument, which means the area enclosed within the inner circle that surrounds the Monument's base, except for the official annual commemorative Washington birthday ceremony and for the projection of government-selected film footage and associated imagery for an official event commemorating the Apollo 11 Mission.
 
 (B) The Lincoln Memorial, which means that portion of the park area which is on the same level or above the base of the large marble columns surrounding the structure, and the single series of marble stairs immediately adjacent to and below that level, except for the official annual commemorative Lincoln birthday ceremony.
 
@@ -286,4 +286,4 @@
 
 (m) *Information collection.* The information collection requirements contained in this section have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1024-0021. The information is being collected to provide notification to park managers, United States Park Police, Metropolitan Police, and the Secret Service of the plans of organizers of large-scale demonstrations and special events in order to assist in the provision of security and logistical support. This information will be used to further those purposes. The obligation is required to obtain a benefit.
 
-[51 FR 37011, Oct. 17, 1986, as amended at 57 FR 4576, Feb. 6, 1992; 57 FR 29797, July 7, 1992; 60 FR 17649, Apr. 7, 1995; 60 FR 33351, June 28, 1995; 60 FR 55791, Nov. 3, 1995; 62 FR 30234, June 3, 1997; 62 FR 32203, June 13, 1997; 72 FR 54843, Sept. 27, 2007; 73 FR 67744, Nov. 17, 2008; 75 FR 8807, Feb. 26, 2010; 76 FR 17028, Mar. 28, 2011; 78 FR 14678, Mar. 7, 2013]
+[51 FR 37011, Oct. 17, 1986, as amended at 57 FR 4576, Feb. 6, 1992; 57 FR 29797, July 7, 1992; 60 FR 17649, Apr. 7, 1995; 60 FR 33351, June 28, 1995; 60 FR 55791, Nov. 3, 1995; 62 FR 30234, June 3, 1997; 62 FR 32203, June 13, 1997; 72 FR 54843, Sept. 27, 2007; 73 FR 67744, Nov. 17, 2008; 75 FR 8807, Feb. 26, 2010; 76 FR 17028, Mar. 28, 2011; 78 FR 14678, Mar. 7, 2013; 84 FR 32624, July 9, 2019]Effective Date Note:At 84 FR 32624, July 9, 2019, § 7.96(g)(3)(ii)(A) was amended, effective July 12 through July 23, 2019.

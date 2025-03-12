@@ -1,5 +1,7 @@
 ##### § 1710.209 Approval requirements for load forecast work plans. #####
 
+Link to an amendment published at 84 FR 32611, July 9, 2019.
+
 (a) In addition to the approved load forecast required under §§ 1710.202 and 1710.203, any power supply borrower with a total utility plant of $500 million or more and any distribution borrower with a total utility plant of $500 million or more must maintain an approved load forecast work plan. RUS borrowers that are members of a power supply borrower with a total utility plant of $500 million or more must cooperate in the preparation of and submittal of the load forecast work plan of their power supply borrower.
 
 (b) An approved load forecast work plan establishes the process for the preparation and maintenance of a comprehensive database for the development of the borrower's load forecast, and load forecast updates. The approved load forecast work plan is intended to develop and maintain a process that will result in load forecasts that will meet the borrowers' own needs and the requirements of this subpart. An approved work plan represents a commitment by a power supply borrower and its members, or by a large unaffiliated distribution borrower, that all parties concerned will prepare their load forecasts in a timely manner pursuant to the approved load forecast work plan and they will modify the approved load forecast work plan as needed with RUS approval to address changing circumstances or enhance the usefulness of the approved load forecast work plan.

@@ -1,5 +1,7 @@
 ##### § 1724.54 Requirements for RUS approval of plans and specifications. #####
 
+Link to an amendment published at 84 FR 32617, July 9, 2019.
+
 The provisions of this section apply only to RUS financed electric system facilities.
 
 (a) For any contract subject to RUS approval in accordance with part 1726 of this chapter, the borrower shall obtain RUS approval of the plans and specifications, as part of the proposed bid package, prior to requesting bids. RUS may require approval of other plans and specifications on a case by case basis.

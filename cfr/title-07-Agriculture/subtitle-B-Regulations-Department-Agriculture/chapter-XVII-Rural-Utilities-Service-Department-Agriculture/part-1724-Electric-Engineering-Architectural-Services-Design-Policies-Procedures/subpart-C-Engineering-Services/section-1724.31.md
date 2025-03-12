@@ -1,5 +1,7 @@
 ##### § 1724.31 Engineering services contracts. #####
 
+Link to an amendment published at 84 FR 32617, July 9, 2019.
+
 The provisions of this section apply only to RUS financed electric system facilities.
 
 (a) RUS contract forms for engineering services shall be used. Reasonable modifications or additions to the terms and conditions in the RUS contract form may be made to define the exact services needed for a specific undertaking. Any such modifications or additions shall not relieve the engineer or the borrower of the basic responsibilities required by the RUS contract form, and shall not alter any terms and conditions required by law. All substantive changes to the RUS contract form shall be approved by RUS prior to execution of the contract.

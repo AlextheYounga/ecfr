@@ -1,5 +1,7 @@
 ##### § 1721.105 Application documents. #####
 
+Link to an amendment published at 84 FR 32616, July 9, 2019.
+
 (a) *Deferments for financial hardship.* A Borrower requesting a section 12 deferment because of financial hardship must submit the following:
 
 (1) A summary of the financial position of the Borrower, based on the latest information available (usually less than 60 days old).

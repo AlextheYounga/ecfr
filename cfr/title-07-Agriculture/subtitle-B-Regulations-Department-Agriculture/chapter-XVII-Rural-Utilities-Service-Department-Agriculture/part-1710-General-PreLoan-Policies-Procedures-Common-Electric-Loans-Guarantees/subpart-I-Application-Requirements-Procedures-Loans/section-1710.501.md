@@ -1,5 +1,7 @@
 ##### § 1710.501 Loan application documents. #####
 
+Link to an amendment published at 84 FR 32613, July 9, 2019.
+
 (a) *All borrowers.* All applications for electric loans shall include the documents listed in this paragraph. The first page of the application shall be a list of the documents included in the application. The borrower may use RUS Form 726, Checklist for Electric Loan Application, or a computer generated equivalent as this list.
 
 (1) *Transmittal letter.* A letter signed by the borrower's manager indicating the actual corporate name and taxpayer identification number of the borrower and addressing the following items:

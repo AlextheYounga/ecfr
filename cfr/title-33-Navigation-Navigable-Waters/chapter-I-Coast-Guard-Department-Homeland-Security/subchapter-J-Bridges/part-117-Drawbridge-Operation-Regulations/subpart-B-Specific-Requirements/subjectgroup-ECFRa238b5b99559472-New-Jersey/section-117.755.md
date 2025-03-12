@@ -1,5 +1,7 @@
 ##### § 117.755 Shrewsbury River. #####
 
+Link to an amendment published at 84 FR 32622, July 9, 2019.
+
 The draw of the Sea Bright Bridge at mile 4.0, across the Shrewsbury River at Sea Bright, New Jersey, shall operate as follows:
 
 (a) The draw shall open on signal at all times; except that, from May 15 through September 30, on Saturday, Sunday, and holidays, between 9 a.m. and 7 p.m., the draw need open only on the hour and half hour.

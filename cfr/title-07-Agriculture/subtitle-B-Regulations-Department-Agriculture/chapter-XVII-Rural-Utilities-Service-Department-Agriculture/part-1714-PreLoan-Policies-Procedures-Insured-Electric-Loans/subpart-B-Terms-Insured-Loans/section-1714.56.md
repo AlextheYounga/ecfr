@@ -1,5 +1,7 @@
 ##### § 1714.56 Fund advance period. #####
 
+Link to an amendment published at 84 FR 32615, July 9, 2019.
+
 (a) For loans approved on or after February 21, 1995, the fund advance period begins on the date of the loan note and is one year longer than the loan period, but not less than 4 years. For example, the fund advance period for a loan with a 2-year loan period terminates automatically 4 years after the date of the loan note; a loan with a 4-year loan period terminates automatically 5 years after the date of the loan note. The Administrator may extend the fund advance period on any loan if the borrower meets the requirements of paragraph (c) of this section. As defined in 7 CFR 1710.2, the loan period begins on the date shown on page 1 of RUS Form 740c submitted with the loan application.
 
 (b) For loans approved on or after June 1, 1984, and before February 21, 1995, the fund advance period begins on the date of the loan contract, or the most recent amendment thereto, and terminates automatically 4 years from the date of the loan contract, or the most recent amendment thereto, except as provided in paragraph (c) of this section.

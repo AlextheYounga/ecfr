@@ -1,5 +1,7 @@
 ##### § 1724.21 Architectural services contracts. #####
 
+Link to an amendment published at 84 FR 32617, July 9, 2019.
+
 The provisions of this section apply only to RUS financed electric system facilities.
 
 (a) RUS Form 220, Architectural Services Contract, must be used by electric borrowers when obtaining architectural services.

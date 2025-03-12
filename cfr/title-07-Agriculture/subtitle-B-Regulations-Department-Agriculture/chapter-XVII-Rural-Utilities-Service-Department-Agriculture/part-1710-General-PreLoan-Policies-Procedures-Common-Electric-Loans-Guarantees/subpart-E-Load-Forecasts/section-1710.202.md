@@ -1,5 +1,7 @@
 ##### § 1710.202 Requirement to prepare a load forecast - power supply borrowers. #####
 
+Link to an amendment published at 84 FR 32610, July 9, 2019.
+
 (a) A power supply borrower with a total utility plant of $500 million or more must maintain an approved load forecast that meets the requirements of this subpart on an ongoing basis and provide an approved load forecast in support of any request for RUS financial assistance. The borrower must also maintain an approved load forecast work plan. The borrower's approved load forecast must be prepared pursuant to the approved load forecast work plan.
 
 (b) A power supply borrower that is a member of another power supply borrower that has a total utility plant of $500 million or more must maintain an approved load forecast that meets the requirements of this subpart on an ongoing basis and provide an approved load forecast in support of any request for RUS financial assistance. The member power supply borrower may comply with this requirement by participation in and inclusion of its load forecasting information in the approved load forecast of its power supply borrower. The approved load forecasts must be prepared pursuant to the RUS approved load forecast work plan.

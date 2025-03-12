@@ -1,5 +1,7 @@
 ##### § 1710.112 Loan feasibility. #####
 
+Link to an amendment published at 84 FR 32610, July 9, 2019.
+
 (a) RUS will make a loan only if there is reasonable assurance that the loan, together with all outstanding loans and other obligations of the borrower, will be repaid in full as scheduled, in accordance with the mortgage, notes, and loan contracts. The borrower must provide evidence satisfactory to the Administrator that the loan will be repaid in full as scheduled, and that all other obligations of the borrower will be met.
 
 (b) Based on evidence submitted by the borrower and other information, RUS will use the following criteria to evaluate loan feasibility:

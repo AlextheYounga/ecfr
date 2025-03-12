@@ -1,5 +1,7 @@
 ##### § 1717.857 Refinancing of existing secured debt - distribution and power supply borrowers. #####
 
+Link to an amendment published at 84 FR 32616, July 9, 2019.
+
 (a) *Advance approval.* All applications for a lien accommodation or subordination for the refinancing of existing secured debt that meet the qualification criteria of this paragraph, except applications from borrowers in default under their mortgage or loan contract with RUS, are eligible for advance approval. Such lien accommodations and subordinations are deemed to be in the Government's interest, and RUS will approve them once RUS is satisfied that the requirements of this paragraph and paragraph (c) of this section have been met. The qualification criteria are as follows:
 
 (1) The refinancing is a current refunding and does not involve interest rate swaps, forward delivery contracts, or similar features;

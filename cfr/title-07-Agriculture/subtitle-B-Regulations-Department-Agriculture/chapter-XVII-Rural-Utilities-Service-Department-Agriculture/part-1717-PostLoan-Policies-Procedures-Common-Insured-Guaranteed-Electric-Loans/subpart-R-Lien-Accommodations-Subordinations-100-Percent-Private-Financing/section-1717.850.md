@@ -1,5 +1,7 @@
 ##### § 1717.850 General. #####
 
+Link to an amendment published at 84 FR 32616, July 9, 2019.
+
 (a) *Scope and applicability.* (1) This subpart R establishes policies and procedures for the accommodation, subordination or release of the Government's lien on borrower assets, including approvals of supporting documents and related loan security documents, in connection with 100 percent private sector financing of facilities and other purposes. Policies and procedures regarding lien accommodations for concurrent supplemental financing required in connection with an RUS insured loan are set forth in subpart S of this part.
 
 (2) This subpart and subpart S of this part apply only to debt to be secured under the mortgage, the issuance of which is subject to the approval of the Rural Utilities Service (RUS) by the terms of the borrower's mortgage with respect to the issuance of additional debt or the refinancing or refunding of debt. If RUS approval is not required under such terms of the mortgage itself, a lien accommodation is not required. If the loan contract or other agreement between the borrower and RUS requires RUS approval with respect to the issuance of debt or making additions to or extensions of the borrower's system, such required approvals do not by themselves result in the need for a lien accommodation.

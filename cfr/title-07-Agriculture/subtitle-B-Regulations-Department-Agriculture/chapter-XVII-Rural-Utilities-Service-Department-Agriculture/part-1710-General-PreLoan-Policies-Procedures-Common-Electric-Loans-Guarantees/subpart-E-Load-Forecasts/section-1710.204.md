@@ -1,5 +1,7 @@
 ##### § 1710.204 Filing requirements for borrowers that must maintain an approved load forecast on an ongoing basis. #####
 
+Link to an amendment published at 84 FR 32610, July 9, 2019.
+
 (a) *Filing of load forecasts and updates.* A power supply or distribution borrower required to maintain an approved load forecast on an ongoing basis under § 1710.202 or § 1710.203 may elect either of the following two methods of compliance:
 
 (1) Submitting a new load forecast to RUS for review and approval at least every 36 months, and then submitting updates to the load forecast to RUS for review and approval in each intervening year; or

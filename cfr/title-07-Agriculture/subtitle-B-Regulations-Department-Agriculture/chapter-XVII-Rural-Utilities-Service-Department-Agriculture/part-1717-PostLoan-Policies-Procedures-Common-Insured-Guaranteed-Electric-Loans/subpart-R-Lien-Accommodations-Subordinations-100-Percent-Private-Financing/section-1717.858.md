@@ -1,5 +1,7 @@
 ##### § 1717.858 Lien subordination for rural development investments. #####
 
+Link to an amendment published at 84 FR 32616, July 9, 2019.
+
 (a) *Policy.* RUS encourages borrowers to consider investing in financially sound projects that are likely to have a positive effect on economic development and employment in rural areas. In addition to the guidance set forth in § 1717.651, RUS recommends that such investments be made through a subsidiary of the borrower in order to clearly separate the financial risks and the revenues and costs of the rural development enterprise from those of the borrower's electric utility business. This should reduce credit risks to the borrower's primary business, and minimize the possibility of undisclosed cross subsidization of the rural development enterprise by electric rate payers.
 
 (b) *Lien subordination.* RUS will consider subordinating or releasing its lien on the stock held by a borrower in a subsidiary whose primary business directly contributes to or supports economic development and employment in rural areas, as defined in section 13 of the RE Act, when requested by a lender to the subsidiary, other than the borrower. To be eligible for said lien subordination or release:

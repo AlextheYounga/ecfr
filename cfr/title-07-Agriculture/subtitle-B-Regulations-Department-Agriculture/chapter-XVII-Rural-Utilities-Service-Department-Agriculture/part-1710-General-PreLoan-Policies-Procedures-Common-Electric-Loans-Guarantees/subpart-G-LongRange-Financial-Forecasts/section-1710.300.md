@@ -1,5 +1,7 @@
 ##### § 1710.300 General. #####
 
+Link to an amendment published at 84 FR 32612, July 9, 2019.
+
 (a) RUS encourages borrowers to maintain a current long-range financial forecast. The forecast should be used by the board of directors and the manager to guide the system towards its financial goals.
 
 (b) A borrower must prepare, for RUS review and approval, a long-range financial forecast, approved by its board of directors, in support of its loan application. The forecast must demonstrate that the borrower's system is economically viable and that the proposed loan is financially feasible. Loan feasibility will be assessed based on the criteria set forth in § 1710.112.

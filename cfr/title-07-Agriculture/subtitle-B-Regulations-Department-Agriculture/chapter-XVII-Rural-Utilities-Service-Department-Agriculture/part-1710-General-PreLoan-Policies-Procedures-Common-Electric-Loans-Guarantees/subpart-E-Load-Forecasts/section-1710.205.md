@@ -1,5 +1,7 @@
 ##### § 1710.205 Minimum approval requirements for all load forecasts. #####
 
+Link to an amendment published at 84 FR 32610, July 9, 2019.
+
 (a) *Documents required for RUS approval of a borrower's load forecast.* The borrower must provide the following documents to obtain RUS approval for a load forecast:
 
 (1) The load forecast and supporting documentation;

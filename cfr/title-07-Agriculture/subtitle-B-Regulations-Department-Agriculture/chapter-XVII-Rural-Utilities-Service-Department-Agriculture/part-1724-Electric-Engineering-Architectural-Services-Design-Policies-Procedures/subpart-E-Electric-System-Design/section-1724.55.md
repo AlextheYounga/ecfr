@@ -1,5 +1,7 @@
 ##### § 1724.55 Dam safety. #####
 
+Link to an amendment published at 84 FR 32617, July 9, 2019.
+
 (a) The provisions of this section apply only to RUS financed electric system facilities.
 
 (1)(i) Any borrower that owns or operates a RUS financed dam must utilize the“Federal Guidelines for Dam Safety,”(Guidelines), as applicable. A dam, as more fully defined in the Guidelines, is generally any artificial barrier which either:

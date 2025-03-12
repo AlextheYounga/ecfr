@@ -1,5 +1,7 @@
 ##### § 1710.410 Application documents. #####
 
+Link to an amendment published at 84 FR 32613, July 9, 2019.
+
 The required application documentation listed in this section is not all inclusive but is specific to Eligible borrowers requesting a loan under this subpart and in most cases is supplemental to the general requirements for loan applications provided for in this part 1710:
 
 (a) A letter from the Borrower's General Manager requesting a loan under this subpart.
