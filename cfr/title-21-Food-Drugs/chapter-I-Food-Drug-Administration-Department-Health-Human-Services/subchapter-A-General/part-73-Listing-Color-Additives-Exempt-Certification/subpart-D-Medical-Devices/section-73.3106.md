@@ -1,4 +1,4 @@
-##### § 73.3106 1,4-Bis[4-(2-methacryloxyethyl) phenylamino]anthraquinone copolymers. #####
+##### § 73.3106 1,4-Bis[4-(2-methacryloxyethyl)phenylamino]anthraquinone copolymers. #####
 
 (a) *Identity.* The color additives are the copolymers formed as the reaction product of 1,4-bis[4-(2-methacryloxyethyl)phenylamino]anthraquinone (C.I. Reactive Blue 246) (CAS Reg. No. 121888-69-5) with one or more vinyl and/or acrylic monomers to form the contact lens material.
 
