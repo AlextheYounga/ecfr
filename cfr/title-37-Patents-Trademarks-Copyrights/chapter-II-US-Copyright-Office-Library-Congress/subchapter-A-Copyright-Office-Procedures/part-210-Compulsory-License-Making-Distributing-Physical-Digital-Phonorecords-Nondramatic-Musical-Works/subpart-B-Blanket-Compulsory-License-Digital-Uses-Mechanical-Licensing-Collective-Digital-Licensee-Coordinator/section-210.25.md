@@ -1,7 +1,5 @@
 ##### § 210.25 Notices of nonblanket activity. #####
 
-Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
-
 (a) *General.* This section prescribes rules under which a significant nonblanket licensee completes and submits a notice of nonblanket activity to the mechanical licensing collective pursuant to 17 U.S.C. 115(d)(6)(A) for purposes of notifying the mechanical licensing collective that the licensee has been engaging in covered activities.
 
 (b) *Form and content.* A notice of nonblanket activity shall be prepared in accordance with any reasonable formatting instructions established by the mechanical licensing collective, and shall include all of the following information:
@@ -50,7 +48,7 @@ Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
 
 (vi) Any other information the significant nonblanket licensee wishes to provide.
 
-(6) Acknowledgement of whether the significant nonblanket licensee is operating under one or more individual download licenses.
+(6) Acknowledgement of whether the significant nonblanket licensee is operating under authority obtained from licensors of sound recordings to make and distribute permanent downloads of musical works embodied in such sound recordings pursuant to an individual download license or voluntary license. Where such authority does not cover all permanent downloads made available on the service, the significant nonblanket licensee shall maintain with the mechanical licensing collective a list of all sound recordings for which it has obtained such authority from the respective sound recording licensors, or a list of any applicable catalog exclusions where the significant nonblanket licensee indicates that such authority otherwise exists for all permanent downloads.
 
 (7) The date of initial use of musical works pursuant to any covered activity.
 
@@ -77,3 +75,5 @@ Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
 (3) The date of receipt of each notice of nonblanket activity; and
 
 (4) For any amended notice, a clear indication of its amended status and its relationship to other relevant notices.
+
+[85 FR 58143, Sept. 17, 2020, as amended at 86 FR 12826, Mar. 5, 2021]

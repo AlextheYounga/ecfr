@@ -1,7 +1,5 @@
 ##### § 0.291 Authority delegated. #####
 
-Link to an amendment published at 86 FR 12547, Mar. 4, 2021.
-
 The Chief, Wireline Competition Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.91, subject to the following exceptions and limitations.
 
 (a) *Authority concerning applications.* (1) The Chief, Wireline Competition Bureau shall not have authority to act on any formal or informal common carrier applications or section 214 applications for common carrier services which are in hearing status.
@@ -12,7 +10,7 @@ The Chief, Wireline Competition Bureau, is hereby delegated authority to perform
 
 (c) *Authority concerning forfeitures.* The Chief, Wireline Competition Bureau shall not have authority to impose, reduce or cancel forfeitures pursuant to Section 203 or Section 503(b) of the Communications Act of 1934, as amended, in amounts of more than $80,000.
 
-(d) *Authority concerning applications for review.* The Chief, Wireline Competition Bureau shall not have authority to act upon any applications for review of actions taken by the Chief, Wireline Competition Bureau, pursuant to any delegated authority.
+(d) *Authority concerning applications for review.* The Chief, Wireline Competition Bureau, shall not have authority to act upon any applications for review of actions taken by the Chief, Wireline Competition Bureau, pursuant to any delegated authority, except that the Chief of the Wireline Competition Bureau may dismiss any such application that does not contain any statement required under § 1.115(a) or (b) of this chapter, or does not comply with the filing requirements of § 1.115(d) or (f) of this chapter.
 
 (e) Authority concerning rulemaking and investigatory proceedings. The Chief, Wireline Competition Bureau, shall not have authority to issue notices of proposed rulemaking, notices of inquiry, or reports or orders arising from either of the foregoing, except that the Chief, Wireline Competition Bureau, shall have authority, in consultation and coordination with the Chief, International Bureau, to issue and revise a manual on the details of the reporting requirements for international carriers referenced in § 43.61(a)(3) of this chapter.
 

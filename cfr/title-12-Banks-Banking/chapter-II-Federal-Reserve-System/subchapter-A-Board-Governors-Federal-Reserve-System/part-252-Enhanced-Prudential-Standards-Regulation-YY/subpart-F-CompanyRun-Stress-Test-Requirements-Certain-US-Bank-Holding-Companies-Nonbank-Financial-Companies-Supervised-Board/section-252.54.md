@@ -1,7 +1,5 @@
 ##### § 252.54 Stress test. #####
 
-Link to an amendment published at 86 FR 7949, Feb. 3, 2021.
-
 (a) *Stress test* - (1) *In general.* A covered company must conduct a stress test as required under this subpart.
 
 (2) *Frequency* - (i) *General.* Except as provided in paragraph (a)(2)(ii) of this section, a covered company must conduct a stress test according to the frequency in Table 1 to § 252.54(a)(2)(i).
@@ -29,7 +27,7 @@ Table 1 to § 252.54(a)(2)(i)
 
 (A) Aggregate trading assets and liabilities of $50 billion or more, or aggregate trading assets and liabilities equal to 10 percent or more of total consolidated assets;
 
-(B) Is not a large and noncomplex bank holding company as the term is used in 12 CFR 225.8.
+(B) Is not a Category IV bank holding company.
 
 (ii) The Board may require a covered company to include one or more additional components in its severely adverse scenario in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
 
@@ -41,4 +39,4 @@ Table 1 to § 252.54(a)(2)(i)
 
 (iii) *Description of component.* The Board will provide the covered company with a description of any additional component(s) or additional scenario(s) by March 1 of the calendar year in which the stress test is performed pursuant to this section.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 82 FR 9330, Feb. 3, 2017; 84 FR 59108, Nov. 1, 2019; 85 FR 15605, Mar. 18, 2020]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 82 FR 9330, Feb. 3, 2017; 84 FR 59108, Nov. 1, 2019; 85 FR 15605, Mar. 18, 2020; 86 FR 7949, Feb. 3, 2021]

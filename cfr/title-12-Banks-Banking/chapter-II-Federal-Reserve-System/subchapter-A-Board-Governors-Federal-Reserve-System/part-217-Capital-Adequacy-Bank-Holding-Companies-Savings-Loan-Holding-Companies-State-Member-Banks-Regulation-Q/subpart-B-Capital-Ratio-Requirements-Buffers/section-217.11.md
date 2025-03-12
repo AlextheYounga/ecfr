@@ -1,8 +1,6 @@
 ##### § 217.11 Capital conservation buffer, countercyclical capital buffer amount, and GSIB surcharge. #####
 
-Link to an amendment published at 86 FR 7938, Feb. 3, 2021.Link to a correction published at 86 FR 9261, Feb. 12, 2021.
-
-(a) *Capital conservation buffer* - (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
+(a) *Capital conservation buffer*—(1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
@@ -14,15 +12,17 @@ Link to an amendment published at 86 FR 7938, Feb. 3, 2021.Link to a correction 
 
 (ii) *Maximum payout amount.* A Board-regulated institution's maximum payout amount for the current calendar quarter is equal to the Board-regulated institution's eligible retained income, multiplied by its maximum payout ratio.
 
-(iii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that a Board-regulated institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. For a Board-regulated institution that is not subject to 12 CFR 225.8, the maximum payout ratio is determined by the Board-regulated institution's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 217.11(a)(4)(iv). For a Board-regulated institution that is subject to 12 CFR 225.8, the maximum payout ratio is determined under paragraph (c)(1)(ii) of this section.
+(iii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that a Board-regulated institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. For a Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170, the maximum payout ratio is determined by the Board-regulated institution's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to paragraph (a)(4)(iv) of this section. For a Board-regulated institution that is subject to 12 CFR 225.8 or 238.170, the maximum payout ratio is determined under paragraph (c)(1)(ii) of this section.
 
 (iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the European Stability Mechanism, the European Financial Stability Facility, the International Monetary Fund, a MDB, a PSE, or a GSE.
 
 (v) *Leverage buffer requirement.* A bank holding company's leverage buffer requirement is 2.0 percent.
 
-(vi) *Stress capital buffer requirement.* A bank holding company's stress capital buffer requirement is the stress capital buffer requirement determined under 12 CFR 225.8.
+(vi) *Stress capital buffer requirement.* (A) The stress capital buffer requirement for a Board-regulated institution subject to 12 CFR 225.8 or 238.170 is the stress capital buffer requirement determined under 12 CFR 225.8 or 238.170 except as provided in paragraph (a)(2)(vi)(B) of this section.
 
-(3) *Calculation of capital conservation buffer.* (i) A Board-regulated institution that is not subject to 12 CFR 225.8 has a capital conservation buffer equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
+(B) If a Board-regulated institution subject to 12 CFR 225.8 or 238.170 has not yet received a stress capital buffer requirement, its stress capital buffer requirement for purposes of this part is 2.5 percent.
+
+(3) *Calculation of capital conservation buffer.* (i) A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 has a capital conservation buffer equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
 
 (A) The Board-regulated institution's common equity tier 1 capital ratio minus the Board-regulated institution's minimum common equity tier 1 capital ratio requirement under § 217.10;
 
@@ -32,21 +32,21 @@ Link to an amendment published at 86 FR 7938, Feb. 3, 2021.Link to a correction 
 
 (ii) Notwithstanding paragraphs (a)(3)(i)(A) through (C) of this section, if a Board-regulated institution's common equity tier 1, tier 1 or total capital ratio is less than or equal to the Board-regulated institution's minimum common equity tier 1, tier 1 or total capital ratio requirement under § 217.10, respectively, the Board-regulated institution's capital conservation buffer is zero.
 
-(4) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution that is not subject 12 CFR 225.8 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount.
+(4) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution that is not subject 12 CFR 225.8 or 238.170 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount.
 
-(ii) A Board-regulated institution that is not subject 12 CFR 225.8 and that has a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer amount in accordance with paragraph (b) of this section is not subject to a maximum payout amount under paragraph (a)(2)(ii) of this section.
+(ii) A Board-regulated institution that is not subject 12 CFR 225.8 or 238.170 and that has a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer amount in accordance with paragraph (b) of this section is not subject to a maximum payout amount under paragraph (a)(2)(ii) of this section.
 
-(iii) Except as provided in paragraph (a)(4)(iv) of this section, a Board-regulated institution that is not subject to 12 CFR 225.8 may not make distributions or discretionary bonus payments during the current calendar quarter if the Board-regulated institution's:
+(iii) Except as provided in paragraph (a)(4)(iv) of this section, a Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 may not make distributions or discretionary bonus payments during the current calendar quarter if the Board-regulated institution's:
 
 (A) Eligible retained income is negative; and
 
 (B) Capital conservation buffer was less than 2.5 percent as of the end of the previous calendar quarter.
 
-(iv) *Prior approval.* Notwithstanding the limitations in paragraphs (a)(4)(i) through (iii) of this section, the Board may permit a Board-regulated institution that is not subject to 12 CFR 225.8 to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
+(iv) Prior approval—notwithstanding the limitations in paragraphs (a)(4)(i) through (iii) of this section, the Board may permit a Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
 
-Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
+Table 1 to § 217.11(a)(4)(iv)—Calculation of Maximum Payout Amount
 
-|                                                                                                                         Capital conservation buffer                                                                                                                          |       Maximum payout ratio        |
+|                                                                                                                         Capital conservation buffer                                                                                                                          |    Maximum  <br/>payout ratio     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 |                                                                       Greater than 2.5 percent plus 100 percent of the Board-regulated institution's applicable countercyclical capital buffer amount                                                                        |No payout ratio limitation applies.|
 |Less than or equal to 2.5 percent plus 100 percent of the Board-regulated institution's applicable countercyclical capital buffer amount, and greater than 1.875 percent plus 75 percent of the Board-regulated institution's applicable countercyclical capital buffer amount|            60 percent.            |
@@ -54,9 +54,9 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 |Less than or equal to 1.25 percent plus 50 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and greater than 0.625 percent plus 25 percent of the Board-regulated institution's applicable countercyclical capital buffer amount |            20 percent.            |
 |                                                                  Less than or equal to 0.625 percent plus 25 percent of the Board-regulated institution's applicable countercyclical capital buffer amount                                                                   |            0 percent.             |
 
-(v) *Other limitations on distributions.* Additional limitations on distributions may apply under 12 CFR 225.4 and 12 CFR 263.202 to a Board-regulated institution that is not subject to 12 CFR 225.8.
+(v) *Other limitations on distributions.* Additional limitations on distributions may apply under 12 CFR 225.4 and 263.202 to a Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170.
 
-(b) *Countercyclical capital buffer amount* - (1) *General.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with this paragraph (b) for purposes of determining its maximum payout ratio under Table 1 to § 217.11(a)(4)(iv) and, if applicable, Table 2 to § 217.11(c)(4)(iii).
+(b) *Countercyclical capital buffer amount*—(1) *General.* An advanced approaches Board-regulated institution or a Category III Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with this paragraph (b) for purposes of determining its maximum payout ratio under Table 1 to § 217.11(a)(4)(iv) and, if applicable, Table 2 to § 217.11(c)(4)(iii).
 
 (i) *Extension of capital conservation buffer.* The countercyclical capital buffer amount is an extension of the capital conservation buffer as described in paragraph (a) or (c) of this section, as applicable.
 
@@ -70,7 +70,7 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (C) The location of a securitization exposure is the location of the underlying exposures, or, if the underlying exposures are located in more than one national jurisdiction, the national jurisdiction where the underlying exposures with the largest aggregate unpaid principal balance are located. For purposes of this paragraph (b), the location of an underlying exposure shall be the location of the borrower, determined consistent with paragraph (b)(1)(iv)(A) of this section.
 
-(2) *Countercyclical capital buffer amount for credit exposures in the United States* - (i) *Initial countercyclical capital buffer amount with respect to credit exposures in the United States.* The initial countercyclical capital buffer amount in the United States is zero.
+(2) *Countercyclical capital buffer amount for credit exposures in the United States*—(i) *Initial countercyclical capital buffer amount with respect to credit exposures in the United States.* The initial countercyclical capital buffer amount in the United States is zero.
 
 (ii) *Adjustment of the countercyclical capital buffer amount.* The Board will adjust the countercyclical capital buffer amount for credit exposures in the United States in accordance with applicable law.1
 
@@ -80,7 +80,7 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (iv) *Adjustment determination.* The Board will base its decision to adjust the countercyclical capital buffer amount under this section on a range of macroeconomic, financial, and supervisory information indicating an increase in systemic risk including, but not limited to, the ratio of credit to gross domestic product, a variety of asset prices, other factors indicative of relative credit and liquidity expansion or contraction, funding spreads, credit condition surveys, indices based on credit default swap spreads, options implied volatility, and measures of systemic risk.
 
-(v) *Effective date of adjusted countercyclical capital buffer amount* - (A) *Increase adjustment.* A determination by the Board under paragraph (b)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless the Board establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
+(v) *Effective date of adjusted countercyclical capital buffer amount*—(A) *Increase adjustment.* A determination by the Board under paragraph (b)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless the Board establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
 
 (B) *Decrease adjustment.* A determination by the Board to decrease the established countercyclical capital buffer amount under paragraph (b)(2)(ii) of this section will be effective on the day following announcement of the final determination or the earliest date permissible under applicable law or regulation, whichever is later.
 
@@ -88,17 +88,17 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (3) *Countercyclical capital buffer amount for foreign jurisdictions.* The Board will adjust the countercyclical capital buffer amount for private sector credit exposures to reflect decisions made by foreign jurisdictions consistent with due process requirements described in paragraph (b)(2) of this section.
 
-(c) *Calculation of buffers for Board-regulated institutions subject to 12 CFR 225.8* - (1) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution that is subject to 12 CFR 225.8 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount.
+(c) *Calculation of buffers for Board-regulated institutions subject to 12 CFR 225.8 or 238.170*—(1) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount.
 
-(ii) *Maximum payout ratio.* The maximum payout ratio of a Board-regulated institution that is subject to 12 CFR 225.8 is the lowest of the payout ratios determined by its standardized approach capital conservation buffer; if applicable, advanced approaches capital conservation buffer; and, if applicable, leverage buffer; as set forth in Table 2 to § 217.11(c)(4)(iii).
+(ii) *Maximum payout ratio.* The maximum payout ratio of a Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 is the lowest of the payout ratios determined by its standardized approach capital conservation buffer; if applicable, advanced approaches capital conservation buffer; and, if applicable, leverage buffer; as set forth in table 2 to § 217.11(c)(4)(iii).
 
-(iii) *Capital conservation buffer requirements.* A Board-regulated institution that is subject to 12 CFR 225.8 has:
+(iii) *Capital conservation buffer requirements.* A Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 has:
 
 (A) A standardized approach capital conservation buffer requirement equal to its stress capital buffer requirement plus its applicable countercyclical capital buffer amount in accordance with paragraph (b) of this section plus its applicable GSIB surcharge in accordance with paragraph (d) of this section; and
 
 (B) If the Board-regulated institution calculates risk-weighted assets under subpart E of this part, an advanced approaches capital conservation buffer requirement equal to 2.5 percent plus the Board-regulated institution's countercyclical capital buffer amount in accordance with paragraph (b) of this section plus its applicable GSIB surcharge in accordance with paragraph (d) of this section.
 
-(iv) *No maximum payout amount limitation.* A Board-regulated institution that is subject to 12 CFR 225.8 is not subject to a maximum payout amount under paragraph (a)(2)(ii) of this section if it has:
+(iv) *No maximum payout amount limitation.* A Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 is not subject to a maximum payout amount under paragraph (a)(2)(ii) of this section if it has:
 
 (A) A standardized approach capital conservation buffer, calculated under paragraph (c)(2) of this section, that is greater than its standardized approach capital conservation buffer requirement calculated under paragraph (c)(1)(iii)(A) of this section;
 
@@ -106,7 +106,7 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (C) If applicable, a leverage buffer, calculated under paragraph (c)(4) of this section, that is greater than its leverage buffer requirement as calculated under paragraph (a)(2)(v) of this section.
 
-(v) *Negative eligible retained income.* Except as provided in paragraph (c)(1)(vi) of this section, a Board-regulated institution that is subject to 12 CFR 225.8 may not make distributions or discretionary bonus payments during the current calendar quarter if, as of the end of the previous calendar quarter, the Board-regulated institution's:
+(v) *Negative eligible retained income.* Except as provided in paragraph (c)(1)(vi) of this section, a Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 may not make distributions or discretionary bonus payments during the current calendar quarter if, as of the end of the previous calendar quarter, the Board-regulated institution's:
 
 (A) Eligible retained income is negative; and
 
@@ -116,13 +116,13 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (*3*) If applicable, leverage buffer was less than its leverage buffer requirement.
 
-(vi) *Prior approval.* Notwithstanding the limitations in paragraphs (c)(1)(i) through (v) of this section, the Board may permit a Board-regulated institution that is subject to 12 CFR 225.8 to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
+(vi) *Prior approval.* Notwithstanding the limitations in paragraphs (c)(1)(i) through (v) of this section, the Board may permit a Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
 
-(v) *Other limitations on distributions.* Additional limitations on distributions may apply under 12 CFR 225.4, 12 CFR 225.8, 12 CFR 252.63, 12 CFR 252.165, and 12 CFR 263.202 to a Board-regulated institution that is subject to 12 CFR 225.8.
+(vii) *Other limitations on distributions.* Additional limitations on distributions may apply under 12 CFR 225.4, 225.8, 238.170, 252.63, 252.165, and 263.202 to a Board-regulated institution that is subject to 12 CFR 225.8 or 238.170.
 
-(2) *Standardized approach capital conservation buffer.* (i) The standardized approach capital conservation buffer for Board-regulated institutions subject to 12 CFR 225.8 is composed solely of common equity tier 1 capital.
+(2) *Standardized approach capital conservation buffer.* (i) The standardized approach capital conservation buffer for Board-regulated institutions subject to 12 CFR 225.8 or 238.170 is composed solely of common equity tier 1 capital.
 
-(ii) A Board-regulated institution that is subject to 12 CFR 225.8 has a standardized approach capital conservation buffer that is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
+(ii) A Board-regulated institution that is subject to 12 CFR 225.8 or 238.170 has a standardized approach capital conservation buffer that is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
 
 (A) The ratio calculated by the Board-regulated institution under § 217.10(b)(1) or (c)(1)(i), as applicable, minus the Board-regulated institution's minimum common equity tier 1 capital ratio requirement under § 217.10(a);
 
@@ -150,7 +150,7 @@ Table 1 to § 217.11(a)(4)(iv) - Calculation of Maximum Payout Amount
 
 (iii) Notwithstanding paragraph (c)(4)(ii) of this section, if the global systemically important BHC's supplementary leverage ratio is less than or equal to 3 percent, the global systemically important BHC's leverage buffer is zero.
 
-Table 2 to § 217.11(c)(4)(iii) - Calculation of Maximum Payout Ratio
+Table 2 to § 217.11(c)(4)(iii)—Calculation of Maximum Payout Ratio
 
 |                                                                          Capital buffer<sup>1</sup>                                                                          |           Payout ratio            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -166,4 +166,4 @@ Table 2 to § 217.11(c)(4)(iii) - Calculation of Maximum Payout Ratio
 
 (d) *GSIB surcharge.* A global systemically important BHC must use its GSIB surcharge calculated in accordance with subpart H of this part for purposes of determining its maximum payout ratio under Table 2 to § 217.11(c)(4)(iii).
 
-[Reg. Q, 85 FR 15596, Mar. 18, 2020, as amended at 86 FR 3762, Jan. 15, 2021]
+[Reg. Q, 85 FR 15596, Mar. 18, 2020, as amended at 86 FR 3762, Jan. 15, 2021; 86 FR 7938, Feb. 3, 2021; 86 FR 9261, Feb. 12, 2021]

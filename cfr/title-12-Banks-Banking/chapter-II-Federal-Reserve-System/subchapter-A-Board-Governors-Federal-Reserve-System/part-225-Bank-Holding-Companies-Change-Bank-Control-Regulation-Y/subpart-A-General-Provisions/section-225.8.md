@@ -1,10 +1,8 @@
 ##### § 225.8 Capital planning and stress capital buffer requirement. #####
 
-Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
-
 (a) *Purpose.* This section establishes capital planning and prior notice and approval requirements for capital distributions by certain bank holding companies. This section also establishes the Board's process for determining the stress capital buffer requirement applicable to these bank holding companies.
 
-(b) *Scope and reservation of authority* - (1) *Applicability.* Except as provided in paragraph (c) of this section, this section applies to:
+(b) *Scope and reservation of authority*—(1) *Applicability.* Except as provided in paragraph (c) of this section, this section applies to:
 
 (i) Any top-tier bank holding company domiciled in the United States with average total consolidated assets of $100 billion or more ($100 billion asset threshold);
 
@@ -24,9 +22,9 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (6) *Application of this section by order.* The Board may apply this section, in whole or in part, to a bank holding company by order based on the institution's size, level of complexity, risk profile, scope of operations, or financial condition.
 
-(c) *Transition periods for certain bank holding companies.* (1) A bank holding company that meets the $100 billion asset threshold (as measured under paragraph (b) of this section) on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
+(c) *Transition periods for certain bank holding companies.* (1) A bank holding company that meets the $100 billion asset threshold (as measured under paragraph (b) of this section) on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing. Notwithstanding the previous sentence, the Board will not provide a bank holding company with notice of its stress capital buffer requirement until the first year in which the Board conducts an analysis of the bank holding company pursuant to 12 CFR 252.44.
 
-(2) A bank holding company that meets the $100 billion asset threshold after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the bank holding company meets the $100 billion asset threshold, unless that time is extended by the Board in writing.
+(2) A bank holding company that meets the $100 billion asset threshold after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the bank holding company meets the $100 billion asset threshold, unless that time is extended by the Board in writing. Notwithstanding the previous sentence, the Board will not provide a bank holding company with notice of its stress capital buffer requirement until the first year in which the Board conducts an analysis of the bank holding company pursuant to 12 CFR 252.44.
 
 (3) The Board, or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(1) or (2) of this section to comply with any or all of the requirements of this section if the Board, or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
 
@@ -36,55 +34,45 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (2) *Average total nonbank assets* means the average of the total nonbank assets, calculated in accordance with the instructions to the FR Y-9LP, for the four most recent calendar quarters or, if the bank holding company has not filed the FR Y-9LP for each of the four most recent calendar quarters, for the most recent quarter or quarters, as applicable.
 
-(3) *BHC baseline scenario* means a scenario that reflects the bank holding company's expectation of the economic and financial outlook, including expectations related to the bank holding company's capital adequacy and financial condition.
+(3) *Capital action* means any issuance of a debt or equity capital instrument, any capital distribution, and any similar action that the Federal Reserve determines could impact a bank holding company's consolidated capital.
 
-(4) *BHC stress scenario* means a scenario designed by a bank holding company that stresses the specific vulnerabilities of the bank holding company's risk profile and operations, including those related to the bank holding company's capital adequacy and financial condition.
+(4) *Capital distribution* means a redemption or repurchase of any debt or equity capital instrument, a payment of common or preferred stock dividends, a payment that may be temporarily or permanently suspended by the issuer on any instrument that is eligible for inclusion in the numerator of any minimum regulatory capital ratio, and any similar transaction that the Federal Reserve determines to be in substance a distribution of capital.
 
-(5) *Capital action* means any issuance of a debt or equity capital instrument, any capital distribution, and any similar action that the Federal Reserve determines could impact a bank holding company's consolidated capital.
+(5) *Capital plan* means a written presentation of a bank holding company's capital planning strategies and capital adequacy process that includes the mandatory elements set forth in paragraph (e)(2) of this section.
 
-(6) *Capital distribution* means a redemption or repurchase of any debt or equity capital instrument, a payment of common or preferred stock dividends, a payment that may be temporarily or permanently suspended by the issuer on any instrument that is eligible for inclusion in the numerator of any minimum regulatory capital ratio, and any similar transaction that the Federal Reserve determines to be in substance a distribution of capital.
+(6) C*apital plan cycle* means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
 
-(7) *Capital plan* means a written presentation of a bank holding company's capital planning strategies and capital adequacy process that includes the mandatory elements set forth in paragraph (e)(2) of this section.
+(7) *Capital policy* means a bank holding company's written principles and guidelines used for capital planning, capital issuance, capital usage and distributions, including internal capital goals; the quantitative or qualitative guidelines for capital distributions; the strategies for addressing potential capital shortfalls; and the internal governance procedures around capital policy principles and guidelines.
 
-(8) *Capital plan cycle* means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+(8) *Category IV bank holding company* means any bank holding company or U.S. intermediate holding company subject to this section that, as of December 31 of the prior capital plan cycle, is a Category IV banking organization pursuant to 12 CFR 252.5.
 
-(9) *Capital policy* means a bank holding company's written principles and guidelines used for capital planning, capital issuance, capital usage and distributions, including internal capital goals; the quantitative or qualitative guidelines for capital distributions; the strategies for addressing potential capital shortfalls; and the internal governance procedures around capital policy principles and guidelines.
+(9) *Common equity tier 1 capital* has the same meaning as under 12 CFR part 217.
 
-(10) *Common equity tier 1 capital* has the same meaning as under 12 CFR part 217.
+(10) *Effective capital distribution limitations* means any limitations on capital distributions established by the Board by order or regulation, including pursuant to 12 CFR 217.11, 225.4, 252.63, 252.165, and 263.202, provided that, for any limitations based on risk-weighted assets, such limitations must be calculated using the standardized approach, as set forth in 12 CFR part 217, subpart D.
 
-(11) *Effective capital distribution limitations* means any limitations on capital distributions established by the Board by order or regulation, including pursuant to 12 CFR 217.11, 225.4, 252.63, 252.165, and 263.202, provided that, for any limitations based on risk-weighted assets, such limitations must be calculated using the standardized approach, as set forth in 12 CFR part 217, subpart D.
+(11) *Final planned capital distributions* means the planned capital distributions included in a capital plan that include the adjustments made pursuant to paragraph (h) of this section, if any.
 
-(12) *Final planned capital distributions* means the planned capital distributions included in a capital plan that include the adjustments made pursuant to paragraph (h) of this section, if any.
+(12) *GSIB surcharge* has the same meaning as under 12 CFR 217.403.
 
-(13) *Global systemically important BHC* means a bank holding company identified as a global systemically important BHC under 12 CFR 217.402.
+(13) *Internal baseline scenario* means a scenario that reflects the bank holding company's expectation of the economic and financial outlook, including expectations related to the bank holding company's capital adequacy and financial condition.
 
-(14) *GSIB surcharge* has the same meaning as under 12 CFR 217.403.
+(14) *Internal stress scenario* means a scenario designed by a bank holding company that stresses the specific vulnerabilities of the bank holding company's risk profile and operations, including those related to the bank holding company's capital adequacy and financial condition.
 
-(15) *Large and noncomplex bank holding company* means any bank holding company subject to this section that:
+(15) *Nonbank financial company supervised by the Board* means a company that the Financial Stability Oversight Council has determined under section 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5323) shall be supervised by the Board and for which such determination is still in effect.
 
-(i) Has, as of December 31 of the calendar year prior to the capital plan cycle:
+(16) *Planning horizon* means the period of at least nine consecutive quarters, beginning with the quarter preceding the quarter in which the bank holding company submits its capital plan, over which the relevant projections extend.
 
-(A) Average total consolidated assets of less than $250 billion;
+(17) *Regulatory capital ratio* means a capital ratio for which the Board has established minimum requirements for the bank holding company by regulation or order, including, as applicable, the bank holding company's regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12; except that the bank holding company shall not use the advanced approaches to calculate its regulatory capital ratios.
 
-(B) Average total nonbank assets of less than $75 billion; and
+(18) *Severely adverse scenario* has the same meaning as under 12 CFR part 252, subpart E.
 
-(ii) Is not a global systemically important BHC.
+(19) *Stress capital buffer requirement* means the amount calculated under paragraph (f) of this section.
 
-(16) *Nonbank financial company supervised by the Board* means a company that the Financial Stability Oversight Council has determined under section 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5323) shall be supervised by the Board and for which such determination is still in effect.
+(20) *Supervisory stress test* means a stress test conducted using a severely adverse scenario and the assumptions contained in 12 CFR part 252, subpart E.
 
-(17) *Planning horizon* means the period of at least nine consecutive quarters, beginning with the quarter preceding the quarter in which the bank holding company submits its capital plan, over which the relevant projections extend.
+(21) *U.S. intermediate holding company* means the top-tier U.S. company that is required to be established pursuant to 12 CFR 252.153.
 
-(18) *Regulatory capital ratio* means a capital ratio for which the Board has established minimum requirements for the bank holding company by regulation or order, including, as applicable, the bank holding company's regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12; except that the bank holding company shall not use the advanced approaches to calculate its regulatory capital ratios.
-
-(19) *Severely adverse scenario* has the same meaning as under 12 CFR part 252, subpart E.
-
-(20) *Stress capital buffer requirement* means the amount calculated under paragraph (f) of this section.
-
-(21) *Supervisory stress test* means a stress test conducted using a severely adverse scenario and the assumptions contained in 12 CFR part 252, subpart E.
-
-(22) *U.S. intermediate holding company* means the top-tier U.S. company that is required to be established pursuant to 12 CFR 252.153.
-
-(e) *Capital planning requirements and procedures* - (1) *Annual capital planning.* (i) A bank holding company must develop and maintain a capital plan.
+(e) *Capital planning requirements and procedures*—(1) *Annual capital planning.* (i) A bank holding company must develop and maintain a capital plan.
 
 (ii) A bank holding company must submit its complete capital plan to the Board and the appropriate Reserve Bank by April 5 of each calendar year, or such later date as directed by the Board or by the appropriate Reserve Bank with concurrence of the Board.
 
@@ -100,7 +88,11 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (i) An assessment of the expected uses and sources of capital over the planning horizon that reflects the bank holding company's size, complexity, risk profile, and scope of operations, assuming both expected and stressful conditions, including:
 
-(A) Estimates of projected revenues, losses, reserves, and pro forma capital levels, including regulatory capital ratios, and any additional capital measures deemed relevant by the bank holding company, over the planning horizon under a range of scenarios, including any scenarios provided by the Federal Reserve, the BHC baseline scenario, and at least one BHC stress scenario;
+(A) Estimates of projected revenues, losses, reserves, and pro forma capital levels, including regulatory capital ratios, and any additional capital measures deemed relevant by the bank holding company, over the planning horizon under a range of scenarios, including:
+
+(*1*) If the bank holding company is a Category IV bank holding company, the Internal baseline scenario and at least one Internal stress scenario, as well as any additional scenarios, based on financial conditions or the macroeconomic outlook, or based on the bank holding company's financial condition, size, complexity, risk profile, or activities, or risks to the U.S. economy, that the Federal Reserve may provide the bank holding company after giving notice to the bank holding company; or
+
+(*2*) If the bank holding company is not a Category IV bank holding company, any scenarios provided by the Federal Reserve, the Internal baseline scenario, and at least one Internal stress scenario;
 
 (B) A discussion of the results of any stress test required by law or regulation, and an explanation of how the capital plan takes these results into account; and
 
@@ -146,19 +138,15 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (*2*) There has been, or will likely be, a material change in the bank holding company's risk profile (including a material change in its business strategy or any risk exposure), financial condition, or corporate structure;
 
-(*3*) The BHC stress scenario(s) are not appropriate for the bank holding company's business model and portfolios, or changes in financial markets or the macro-economic outlook that could have a material impact on a bank holding company's risk profile and financial condition require the use of updated scenarios; or
+(*3*) The Internal stress scenario(s) are not appropriate for the bank holding company's business model and portfolios, or changes in financial markets or the macro-economic outlook that could have a material impact on a bank holding company's risk profile and financial condition require the use of updated scenarios; or
 
-(*4*) For a bank holding company subject to paragraph (i) of this section, the capital plan or the condition of the bank holding company raise any of the issues described in paragraph (i)(2) of this section.
+(ii) The Board, or the appropriate Reserve Bank with concurrence of the Board, may extend the 30-day period in paragraph (e)(4)(i) of this section for up to an additional 60 calendar days, or such longer period as the Board or the appropriate Reserve Bank, with concurrence of the Board, determines appropriate.
 
-(ii) A bank holding company may resubmit its capital plan to the Federal Reserve if the Board or the appropriate Reserve Bank objects to the capital plan.
-
-(iii) The Board, or the appropriate Reserve Bank with concurrence of the Board, may extend the 30-day period in paragraph (e)(4)(i) of this section for up to an additional 60 calendar days, or such longer period as the Board or the appropriate Reserve Bank, with concurrence of the Board, determines appropriate.
-
-(iv) Any updated capital plan must satisfy all the requirements of this section; however, a bank holding company may continue to rely on information submitted as part of a previously submitted capital plan to the extent that the information remains accurate and appropriate.
+(iii) Any updated capital plan must satisfy all the requirements of this section; however, a bank holding company may continue to rely on information submitted as part of a previously submitted capital plan to the extent that the information remains accurate and appropriate.
 
 (5) *Confidential treatment of information submitted.* The confidentiality of information submitted to the Board under this section and related materials shall be determined in accordance with applicable exemptions under the Freedom of Information Act (5 U.S.C. 552(b)) and the Board's Rules Regarding Availability of Information (12 CFR part 261).
 
-(f) *Calculation of the stress capital buffer requirement* - (1) *General.* The Board will determine the stress capital buffer requirement that applies under 12 CFR 217.11 pursuant to paragraph (f) of this section.
+(f) *Calculation of the stress capital buffer requirement*—(1) *General.* The Board will determine the stress capital buffer requirement that applies under 12 CFR 217.11 pursuant to this paragraph (f). For each bank holding company that is not a Category IV bank holding company, the Board will calculate the bank holding company's stress capital buffer requirement annually. For each Category IV bank holding company, the Board will calculate the bank holding company's stress capital buffer requirement biennially, occurring in each calendar year ending in an even number, and will adjust the bank holding company's stress capital buffer requirement biennially, occurring in each calendar year ending in an odd number. Notwithstanding the previous sentence, the Board will calculate the stress capital buffer requirement of a Category IV bank holding company in a year ending in an odd number with respect to which that company makes an election pursuant to 12 CFR 252.44(d)(2)(ii).
 
 (2) *Stress capital buffer requirement calculation.* A bank holding company's stress capital buffer requirement is equal to the greater of:
 
@@ -178,6 +166,8 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (3) *Recalculation of stress capital buffer requirement.* If a bank holding company resubmits its capital plan pursuant to paragraph (e)(4) of this section, the Board may recalculate the bank holding company's stress capital buffer requirement. The Board will provide notice of whether the bank holding company's stress capital buffer requirement will be recalculated within 75 calendar days after the date on which the capital plan is resubmitted, unless the Board provides notice to the company that it is extending the time period.
 
+(4) *Adjustment of stress capital buffer requirement.* In each calendar year in which the Board does not calculate a Category IV bank holding company's stress capital buffer requirement pursuant to paragraph (f)(1) of this section, the Board will adjust the Category IV bank holding company's stress capital buffer requirement to be equal to the result of the calculation set forth in paragraph (f)(2) of this section, using the same values that were used to calculate the stress capital buffer requirement most recently provided to the bank holding company, except that the value used in paragraph (f)(2)(i)(C)(*1*) of this section will be equal to the bank holding company's planned common stock dividends (expressed as a dollar amount) for each of the fourth through seventh quarters of the planning horizon as set forth in the capital plan submitted by the bank holding company in the calendar year in which the Board adjusts the bank holding company's stress capital buffer requirement.
+
 (g) *Review of capital plans by the Federal Reserve.* The Board, or the appropriate Reserve Bank with concurrence of the Board, will consider the following factors in reviewing a bank holding company's capital plan:
 
 (1) The comprehensiveness of the capital plan, including the extent to which the analysis underlying the capital plan captures and addresses potential risks stemming from activities across the bank holding company and the bank holding company's capital policy;
@@ -192,27 +182,27 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (6) Other information requested or required by the Board or the appropriate Reserve Bank, as well as any other information relevant, or related, to the bank holding company's capital adequacy.
 
-(h) *Federal Reserve notice of stress capital buffer requirement; final planned capital distributions* - (1) *Notice.* The Board will provide a bank holding company with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test. Unless otherwise determined by the Board, notice will be provided by June 30 of the calendar year in which the capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section or within 90 calendar days of receiving notice that the Board will recalculate the bank holding company's stress capital buffer requirement pursuant to paragraph (f)(3) of this section.
+(h) *Federal Reserve notice of stress capital buffer requirement; final planned capital distributions*—(1) *Notice.* The Board will provide a bank holding company with notice of its stress capital buffer requirement and an explanation of the results of the supervisory stress test. Unless otherwise determined by the Board, notice will be provided by June 30 of the calendar year in which the capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section or within 90 calendar days of receiving notice that the Board will recalculate the bank holding company's stress capital buffer requirement pursuant to paragraph (f)(3) of this section.
 
-(2) *Response to notice* - (i) *Request for reconsideration of stress capital buffer requirement.* A bank holding company may request reconsideration of a stress capital buffer requirement provided under paragraph (h)(1) of this section. To request reconsideration of a stress capital buffer requirement, a bank holding company must submit to the Board a request pursuant to paragraph (j) of this section.
+(2) *Response to notice*—(i) *Request for reconsideration of stress capital buffer requirement.* A bank holding company may request reconsideration of a stress capital buffer requirement provided under paragraph (h)(1) of this section. To request reconsideration of a stress capital buffer requirement, a bank holding company must submit to the Board a request pursuant to paragraph (i) of this section.
 
-(ii) *Adjustments to planned capital distributions.* Within two business days of receipt of notice of a stress capital buffer requirement under paragraph (h)(1) or (j)(5) of this section, as applicable, a bank holding company must:
+(ii) *Adjustments to planned capital distributions.* Within two business days of receipt of notice of a stress capital buffer requirement under paragraph (h)(1) or (i)(5) of this section, as applicable, a bank holding company must:
 
-(A) Determine whether the planned capital distributions for the fourth through seventh quarters of the planning horizon under the BHC baseline scenario would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (j)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect; and
+(A) Determine whether the planned capital distributions for the fourth through seventh quarters of the planning horizon under the Internal baseline scenario would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (i)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect; and
 
-(*1*) If the planned capital distributions for the fourth through seventh quarters of the planning horizon under the BHC baseline scenario would not be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (j)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect, the bank holding company must adjust its planned capital distributions such that its planned capital distributions would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (j)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect; or
+(*1*) If the planned capital distributions for the fourth through seventh quarters of the planning horizon under the Internal baseline scenario would not be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (i)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect, the bank holding company must adjust its planned capital distributions such that its planned capital distributions would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (i)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect; or
 
-(*2*) If the planned capital distributions for the fourth through seventh quarters of the planning horizon under the BHC baseline scenario would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (j)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect, the bank holding company may adjust its planned capital distributions. A bank holding company may not adjust its planned capital distributions to be inconsistent with the effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (j)(5) of this section, as applicable; and
+(*2*) If the planned capital distributions for the fourth through seventh quarters of the planning horizon under the Internal baseline scenario would be consistent with effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (i)(5) of this section, as applicable, in place of any stress capital buffer requirement in effect, the bank holding company may adjust its planned capital distributions. A bank holding company may not adjust its planned capital distributions to be inconsistent with the effective capital distribution limitations assuming the stress capital buffer requirement provided by the Board under paragraph (h)(1) or (i)(5) of this section, as applicable; and
 
-(B) Notify the Board of any adjustments made to planned capital distributions for the fourth through seventh quarters of the planning horizon under the BHC baseline scenario.
+(B) Notify the Board of any adjustments made to planned capital distributions for the fourth through seventh quarters of the planning horizon under the Internal baseline scenario.
 
 (3) *Final planned capital distributions.* The Board will consider the planned capital distributions, including any adjustments made pursuant to paragraph (h)(2)(ii) of this section, to be the bank holding company's final planned capital distributions on the later of:
 
-(i) The expiration of the time for requesting reconsideration under paragraph (j) of this section; and
+(i) The expiration of the time for requesting reconsideration under paragraph (i) of this section; and
 
 (ii) The expiration of the time for adjusting planned capital distributions pursuant to paragraph (h)(2)(ii) of this section.
 
-(4) *Effective date of final stress capital buffer requirement.* (i) The Board will provide a bank holding company with its final stress capital buffer requirement and confirmation of the bank holding company's final planned capital distributions by August 31 of the calendar year that a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section, unless otherwise determined by the Board. A stress capital buffer requirement will not be considered final so as to be agency action subject to judicial review under 5 U.S.C. 704 during the pendency of a request for reconsideration made pursuant to paragraph (j) of this section or before the time for requesting reconsideration has expired.
+(4) *Effective date of final stress capital buffer requirement.* (i) The Board will provide a bank holding company with its final stress capital buffer requirement and confirmation of the bank holding company's final planned capital distributions by August 31 of the calendar year that a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section, unless otherwise determined by the Board. A stress capital buffer requirement will not be considered final so as to be agency action subject to judicial review under 5 U.S.C. 704 during the pendency of a request for reconsideration made pursuant to paragraph (i) of this section or before the time for requesting reconsideration has expired.
 
 (ii) Unless otherwise determined by the Board, a bank holding company's final planned capital distributions and final stress capital buffer requirement shall:
 
@@ -222,7 +212,7 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (5) *Publication.* With respect to any bank holding company subject to this section, the Board may disclose publicly any or all of the following:
 
-(i) The stress capital buffer requirement provided to a bank holding company under paragraph (h)(1) or (j)(5) of this section;
+(i) The stress capital buffer requirement provided to a bank holding company under paragraph (h)(1) or (i)(5) of this section;
 
 (ii) Adjustments made pursuant to paragraph (h)(2)(ii);
 
@@ -230,37 +220,13 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (iv) Other information.
 
-(i) *Federal Reserve action on a capital plan* - (1) *Timing of action.* Board or the appropriate Reserve Bank with concurrence of the Board, will object, in whole or in part, to the capital plan or provide the bank holding company with a notice of non-objection to the capital plan:
+(i) *Administrative remedies; request for reconsideration.* The following requirements and procedures apply to any request under this paragraph (i):
 
-(i) By June 30 of the calendar year in which a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section; and
+(1) *General.* To request reconsideration of a stress capital buffer requirement, provided under paragraph (h) of this section, a bank holding company must submit a written request for reconsideration.
 
-(ii) For a capital plan resubmitted pursuant to paragraph (e)(4) of this section, within 75 calendar days after the date on which a capital plan is resubmitted, unless the Board provides notice to the company that it is extending the time period.
+(2) *Timing of request.* A request for reconsideration of a stress capital buffer requirement, provided under paragraph (h) of this section, must be received within 15 calendar days of receipt of a notice of a bank holding company's stress capital buffer requirement.
 
-(2) *Basis for objection to a capital plan.* The Board, or the appropriate Reserve Bank with concurrence of the Board, may object to a capital plan submitted by a bank holding company that is not a large and noncomplex bank holding company if it determines that:
-
-(i) Until January 1, 2021, except as provided in paragraph (i)(2)(ii) of this section, for a bank holding company that was subject to this section as of January 1, 2019, but whose capital plan has not been subject to review and a potential qualitative objection under the criteria listed in paragraph (i)(2)(i)(A) through (C) of this section for any period of four consecutive years:
-
-(A) The bank holding company has material unresolved supervisory issues, including but not limited to issues associated with its capital adequacy process;
-
-(B) The assumptions and analysis underlying the bank holding company's capital plan, or the bank holding company's methodologies and practices that support its capital planning process, are not reasonable or appropriate; or
-
-(C) The bank holding company's capital planning process or proposed capital distributions otherwise constitute an unsafe or unsound practice, or would violate any law, regulation, Board order, directive, or condition imposed by, or written agreement with, the Board or the appropriate Reserve Bank. In determining whether a capital plan or any proposed capital distribution would constitute an unsafe or unsound practice, the Board or the appropriate Reserve Bank would consider whether the bank holding company is and would remain in sound financial condition after giving effect to the capital plan and all proposed capital distributions.
-
-(ii) Notwithstanding paragraph (i)(2)(i) of this section, a bank holding company that was subject to this section as of January 1, 2019, and that receives a qualitative objection in the fourth year of the four-year period described in paragraph (i)(2)(i), pursuant to the criteria in paragraph (i)(2)(i)(A) through (C) of this section, will remain subject to a qualitative objection under this section until January 1 of the year after the first year in which the bank holding company does not receive a qualitative objection.
-
-(3) *Notification of decision.* The Board or the appropriate Reserve Bank will notify the bank holding company in writing of the reasons for a decision to object to a capital plan.
-
-(4) *Publication of summary results.* The Board may disclose publicly its decision to object or not object to a bank holding company's capital plan under this section. Any disclosure under this paragraph (i)(4) will occur by June 30 of the calendar year in which a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section, unless otherwise determined by the Board.
-
-(j) *Administrative remedies; request for reconsideration.* The following requirements and procedures apply to any request under this paragraph (j):
-
-(1) *General.* To request reconsideration of an objection to a capital plan, provided under paragraph (i) of this section, or of a stress capital buffer requirement, provided under paragraph (h) of this section, a bank holding company must submit a written request for reconsideration.
-
-(2) *Timing of request.* (i) A request for reconsideration of an objection to a capital plan, provided under paragraph (i) of this section, must be received within 15 calendar days of receipt of a notice of objection to a capital plan.
-
-(ii) A request for reconsideration of a stress capital buffer requirement, provided under paragraph (h) of this section, must be received within 15 calendar days of receipt of a notice of a bank holding company's stress capital buffer requirement.
-
-(3) *Contents of request.* (i) A request for reconsideration must include a detailed explanation of why reconsideration should be granted (that is, why a stress capital buffer requirement or objection to a capital plan should be reconsidered). With respect to any information that was not previously provided to the Federal Reserve in the bank holding company's capital plan, the request should include an explanation of why the information should be considered.
+(3) *Contents of request.* (i) A request for reconsideration must include a detailed explanation of why reconsideration should be granted (that is, why a stress capital buffer requirement should be reconsidered). With respect to any information that was not previously provided to the Federal Reserve in the bank holding company's capital plan, the request should include an explanation of why the information should be considered.
 
 (ii) A request for reconsideration may include a request for an informal hearing on the bank holding company's request for reconsideration.
 
@@ -268,19 +234,11 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (ii) An informal hearing shall be held within 30 calendar days of a request, if granted, provided that the Board may extend this period upon notice to the requesting party.
 
-(5) *Response to request.* (i) Within 30 calendar days of receipt of the bank holding company's request for reconsideration of an objection to a capital plan submitted under paragraph (j)(2) of this section or within 30 days of the conclusion of an informal hearing conducted under paragraph (j)(4) of this section, the Board will notify the company of its decision to affirm, modify, or withdraw the objection to the bank holding company's capital plan, or a specific capital distribution, provided that the Board may extend this period upon notice to the bank holding company.
+(5) *Response to request.* Within 30 calendar days of receipt of the bank holding company's request for reconsideration of its stress capital buffer requirement submitted under paragraph (i)(2) of this section or within 30 days of the conclusion of an informal hearing conducted under paragraph (i)(4) of this section, the Board will notify the company of its decision to affirm or modify the bank holding company's stress capital buffer requirement, provided that the Board may extend this period upon notice to the bank holding company.
 
-(ii) Within 30 calendar days of receipt of the bank holding company's request for reconsideration of its stress capital buffer requirement submitted under paragraph (j)(2) of this section or within 30 days of the conclusion of an informal hearing conducted under paragraph (j)(4) of this section, the Board will notify the company of its decision to affirm or modify the bank holding company's stress capital buffer requirement, provided that the Board may extend this period upon notice to the bank holding company.
+(6) *Distributions during the pendency of a request for reconsideration.* During the pendency of the Board's decision under paragraph (i)(5) of this section, the bank holding company may make capital distributions that are consistent with effective distribution limitations, unless prior approval is required under paragraph (j)(1) of this section.
 
-(6) *Distributions during the pendency of a request for reconsideration.* During the pendency of the Board's decision under paragraph (j)(5) of this section, the bank holding company may make capital distributions that are consistent with effective distribution limitations, unless prior approval is required under paragraph (k)(1) of this section.
-
-(k) *Approval requirements for certain capital actions* - (1) *Circumstances requiring approval* - (i) *Qualitative objection to and resubmission of a capital plan.* Unless it receives prior approval pursuant to paragraph (k)(3) of this section, a bank holding company may not make a capital distribution (excluding any capital distribution arising from the issuance of a capital instrument eligible for inclusion in the numerator of a regulatory capital ratio) under the following circumstances:
-
-(A) The Board, or the appropriate Reserve Bank with the concurrence of the Board, objects to a capital plan and until such time as the Board, or the appropriate Reserve Bank with concurrence of the Board, issues a non-objection to the bank holding company's capital plan;
-
-(B) The capital distribution would occur after the occurrence of an event requiring resubmission under paragraph (e)(4)(i)(A) or (B) of this section.
-
-(ii) *Transition for certain planned capital actions.* For the period July 1, 2020, to September 30, 2020, a bank holding company is authorized to make capital distributions that do not exceed an amount equal to the average of capital distributions over the four quarters to which the Board or the appropriate Reserve Bank indicated its non-objection for the previous capital plan cycle. A bank holding company may request prior approval to make capital distributions in excess of the amount authorized for the period July 1, 2020, to September 30, 2020, pursuant to paragraph (k)(2) of this section.
+(j) *Approval requirements for certain capital actions*—(1) *Circumstances requiring approval*—*Resubmission of a capital plan.* Unless it receives prior approval pursuant to paragraph (j)(3) of this section, a bank holding company may not make a capital distribution (excluding any capital distribution arising from the issuance of a capital instrument eligible for inclusion in the numerator of a regulatory capital ratio) if the capital distribution would occur after the occurrence of an event requiring resubmission under paragraph (e)(4)(i)(A) or (B) of this section.
 
 (2) *Contents of request.* A request for a capital distribution under this section must contain the following information:
 
@@ -292,9 +250,9 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (iv) Any additional information requested by the Board or the appropriate Reserve Bank (which may include, among other things, an assessment of the bank holding company's capital adequacy under a severely adverse scenario, a revised capital plan, and supporting data).
 
-(3) *Approval of certain capital distributions.* (i) The Board, or the appropriate Reserve Bank with concurrence of the Board, will act on a request for prior approval of a capital distribution within 30 calendar days after the receipt of all the information required under paragraph (k)(2) of this section.
+(3) *Approval of certain capital distributions.* (i) The Board, or the appropriate Reserve Bank with concurrence of the Board, will act on a request for prior approval of a capital distribution within 30 calendar days after the receipt of all the information required under paragraph (j)(2) of this section.
 
-(ii) In acting on a request for prior approval of a capital distribution, the Board, or appropriate Reserve Bank with concurrence of the Board, will apply the considerations and principles in paragraphs (g) and (i) of this section, as appropriate. In addition, the Board, or the appropriate Reserve Bank with concurrence of the Board, may disapprove the transaction if the bank holding company does not provide all of the information required to be submitted under paragraph (k)(2) of this section.
+(ii) In acting on a request for prior approval of a capital distribution, the Board, or appropriate Reserve Bank with concurrence of the Board, will apply the considerations and principles in paragraph (g) of this section, as appropriate. In addition, the Board, or the appropriate Reserve Bank with concurrence of the Board, may disapprove the transaction if the bank holding company does not provide all of the information required to be submitted under paragraph (j)(2) of this section.
 
 (4) *Disapproval and hearing.* (i) The Board, or the appropriate Reserve Bank with concurrence of the Board, will notify the bank holding company in writing of the reasons for a decision to disapprove any proposed capital distribution. Within 15 calendar days after receipt of a disapproval by the Board, the bank holding company may submit a written request for a hearing.
 
@@ -304,10 +262,10 @@ Link to an amendment published at 86 FR 7940, Feb. 3, 2021.
 
 (iv) While the Board's decision is pending and until such time as the Board, or the appropriate Reserve Bank with concurrence of the Board, approves the capital distribution at issue, the bank holding company may not make such capital distribution.
 
-(l) *Post notice requirement.* A bank holding company must notify the Board and the appropriate Reserve Bank within 15 days of making a capital distribution if:
+(k) *Post notice requirement.* A bank holding company must notify the Board and the appropriate Reserve Bank within 15 days of making a capital distribution if:
 
-(1) The capital distribution was approved pursuant to paragraph (k)(3) of this section; or
+(1) The capital distribution was approved pursuant to paragraph (j)(3) of this section; or
 
 (2) The dollar amount of the capital distribution will exceed the dollar amount of the bank holding company's final planned capital distributions, as measured on an aggregate basis beginning in the fourth quarter of the planning horizon through the quarter at issue.
 
-[85 FR 15599, Mar. 18, 2020]
+[85 FR 15599, Mar. 18, 2020, as amended at 86 FR 7940, Feb. 3, 2021]

@@ -1,7 +1,5 @@
 ##### § 0.261 Authority delegated. #####
 
-Link to an amendment published at 86 FR 12546, Mar. 4, 2021.
-
 (a) Subject to the limitations set forth in paragraph (b) of this section, the Chief, International Bureau, is hereby delegated the authority to perform the functions and activities described in § 0.51, including without limitation the following:
 
 (1) To recommend rulemakings, studies, and analyses (legal, engineering, social, and economic) of various petitions for policy or rule changes submitted by industry or the public, and to assist the Commission in conducting the same;
@@ -48,7 +46,7 @@ Link to an amendment published at 86 FR 12546, Mar. 4, 2021.
 
 (2) To issue notices of proposed rulemaking, notices of inquiry, or reports or orders arising from rulemaking or inquiry proceedings;
 
-(3) To act upon any application for review of actions taken by the Chief, International Bureau, pursuant to delegated authority, which application complies with § 1.115 of this chapter;
+(3) To act upon any application for review of actions taken by the Chief, International Bureau, pursuant to delegated authority, except that the Chief of the International Bureau may dismiss any such application that does not contain any statement required under § 1.115(a) or (b) of this chapter, or does not comply with the filing requirements of § 1.115(d) or (f) of this chapter;
 
 (4) To act upon any formal or informal radio application or section 214 application for common carrier services which is in hearing status;
 
@@ -60,4 +58,4 @@ Link to an amendment published at 86 FR 12546, Mar. 4, 2021.
 
 (6) To impose, reduce, or cancel forfeitures pursuant to section 203 or section 503(b) of the Communications Act of 1934, as amended, in amounts of more than $80,000 for common carrier providers and $20,000 for non-common carrier providers.
 
-[60 FR 5324, Jan. 27, 1995, as amended at 60 FR 35506, July 10, 1995; 64 FR 60721, Nov. 8, 1999; 67 FR 13220, Mar. 21, 2002; 75 FR 7972, Feb. 23, 2010; 76 FR 70907, Nov. 16, 2011; 85 FR 76381, Nov. 27, 2020]
+[60 FR 5324, Jan. 27, 1995, as amended at 60 FR 35506, July 10, 1995; 64 FR 60721, Nov. 8, 1999; 67 FR 13220, Mar. 21, 2002; 75 FR 7972, Feb. 23, 2010; 76 FR 70907, Nov. 16, 2011; 85 FR 76381, Nov. 27, 2020; 86 FR 12546, Mar. 4, 2021]

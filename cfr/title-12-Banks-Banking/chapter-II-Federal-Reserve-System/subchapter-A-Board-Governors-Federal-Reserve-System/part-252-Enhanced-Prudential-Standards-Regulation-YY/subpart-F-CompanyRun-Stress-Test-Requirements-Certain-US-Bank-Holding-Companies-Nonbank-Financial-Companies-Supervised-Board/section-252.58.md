@@ -1,8 +1,6 @@
 ##### § 252.58 Disclosure of stress test results. #####
 
-Link to an amendment published at 86 FR 7949, Feb. 3, 2021.
-
-(a) *Public disclosure of results* - (1) *In general.* A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(c), unless that time is extended by the Board in writing.
+(a) *Public disclosure of results*—(1) *In general.* A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(b), unless that time is extended by the Board in writing.
 
 (2) *Disclosure method.* The summary required under this section may be disclosed on the Web site of a covered company, or in any other forum that is reasonably accessible to the public.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 7949, Feb. 3, 2021.
 
 (2) A general description of the methodologies used in the stress test, including those employed to estimate losses, revenues, provision for credit losses, and changes in capital positions over the planning horizon.
 
-(3) Estimates of -
+(3) Estimates of—
 
 (i) Pre-provision net revenue and other revenue;
 
@@ -40,4 +38,4 @@ Link to an amendment published at 86 FR 7949, Feb. 3, 2021.
 
 (2) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9330, Feb. 3, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 59109, Nov. 1, 2019]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9330, Feb. 3, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 59109, Nov. 1, 2019; 86 FR 7949, Feb. 3, 2021]

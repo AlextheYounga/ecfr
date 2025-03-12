@@ -1,7 +1,5 @@
 ##### § 292.202 Definitions. #####
 
-Link to an amendment published at 86 FR 8140, Feb. 4, 2021.
-
 For purposes of this subpart:
 
 (a) *Biomass* means any organic material not derived from fossil fuels;
@@ -54,9 +52,11 @@ For purposes of this subpart:
 
 (1) That is made available to an industrial or commercial process (net of any heat contained in condensate return and/or makeup water);
 
-(2) That is used in a heating application (*e.g.,* space heating, domestic hot water heating); or
+(2) That is used in a heating application (*e.g.,* space heating, domestic hot water heating);
 
-(3) That is used in a space cooling application (*i.e.,* thermal energy used by an absorption chiller).
+(3) That is used in a space cooling application (*i.e.,* thermal energy used by an absorption chiller); or
+
+(4) That is used by a fuel cell system with an integrated steam hydrocarbon reformation process for production of fuel for electricity generation.
 
 (i) *Total energy output* of a topping-cycle cogeneration facility is the sum of the useful power output and useful thermal energy output;
 
@@ -90,4 +90,4 @@ For purposes of this subpart:
 
 (t) *Electrical generating equipment* means all boilers, heat recovery steam generators, prime movers (any mechanical equipment driving an electric generator), electrical generators, photovoltaic solar panels, inverters, fuel cell equipment and/or other primary power generation equipment used in the facility, excluding equipment for gathering energy to be used in the facility.
 
-(Energy Security Act, Pub. L. 96-294, 94 Stat. 611 (1980) Public Utility Regulatory Policies Act of 1978, 16 U.S.C. 2601, *et seq.,* Energy Supply and Environmental Coordination Act, 15 U.S.C. 791 *et seq.,* Federal Power Act, as amended, 16 U.S.C. 792 *et seq.,* Department of Energy Organization Act, 42 U.S.C. 7101 *et seq.,* E.O. 12009, 42 FR 46267)[45 FR 17972, Mar. 20, 1980, as amended at 45 FR 33958, May 21, 1980; 45 FR 66789, Oct. 8, 1980; Order 135, 46 FR 19231, Mar. 30, 1981; 46 FR 32239, June 22, 1981; Order 499, 53 FR 27002, July 18, 1988; Order 575, 60 FR 4857, Jan. 25, 1995; Order 872, 85 FR 54732, Sept. 2, 2020]
+(Energy Security Act, Pub. L. 96-294, 94 Stat. 611 (1980) Public Utility Regulatory Policies Act of 1978, 16 U.S.C. 2601, *et seq.,* Energy Supply and Environmental Coordination Act, 15 U.S.C. 791 *et seq.,* Federal Power Act, as amended, 16 U.S.C. 792 *et seq.,* Department of Energy Organization Act, 42 U.S.C. 7101 *et seq.,* E.O. 12009, 42 FR 46267)[45 FR 17972, Mar. 20, 1980, as amended at 45 FR 33958, May 21, 1980; 45 FR 66789, Oct. 8, 1980; Order 135, 46 FR 19231, Mar. 30, 1981; 46 FR 32239, June 22, 1981; Order 499, 53 FR 27002, July 18, 1988; Order 575, 60 FR 4857, Jan. 25, 1995; Order 872, 85 FR 54732, Sept. 2, 2020; Order 874, 86 FR 8140, Feb. 4, 2021]

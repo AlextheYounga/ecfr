@@ -1,8 +1,8 @@
 ##### § 238.146 Disclosure of stress test results. #####
 
-Link to an amendment published at 86 FR 7943, Feb. 3, 2021.
+(a) *Public disclosure of results*—(1) *In general.* (i) A covered company that is subject to a supervisory stress test under 12 CFR 238.132 must publicly disclose a summary of the results of the stress test required under § 238.143 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 238.134, unless that time is extended by the Board in writing; and
 
-(a) *Public disclosure of results* - (1) *In general.* A covered company must publicly disclose a summary of the results of the stress test required under § 238.143 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 238.134, unless that time is extended by the Board in writing.
+(ii) A covered company that is not subject to a supervisory stress test under § 238.132 must publicly disclose a summary of the results of the stress test required under § 238.143 in the period beginning on June 15 and ending on June 30 in the year in which the stress test is conducted, unless that time is extended by the Board in writing.
 
 (2) *Disclosure method.* The summary required under this section may be disclosed on the website of a covered company, or in any other forum that is reasonably accessible to the public.
 
@@ -12,7 +12,7 @@ Link to an amendment published at 86 FR 7943, Feb. 3, 2021.
 
 (2) A general description of the methodologies used in the stress test, including those employed to estimate losses, revenues, provision for credit losses, and changes in capital positions over the planning horizon;
 
-(3) Estimates of -
+(3) Estimates of—
 
 (i) Pre-provision net revenue and other revenue;
 
@@ -39,3 +39,5 @@ Link to an amendment published at 86 FR 7943, Feb. 3, 2021.
 (iv) Loan losses in the aggregate and by subportfolio.
 
 (2) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
+
+[84 FR 59085, Nov. 1, 2019, as amended at 86 FR 7943, Feb. 3, 2021]
