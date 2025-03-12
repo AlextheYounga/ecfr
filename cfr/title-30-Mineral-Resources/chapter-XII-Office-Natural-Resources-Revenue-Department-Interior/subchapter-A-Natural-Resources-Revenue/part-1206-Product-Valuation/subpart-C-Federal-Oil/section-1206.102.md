@@ -1,6 +1,6 @@
 ##### § 1206.102 How do I value oil not sold under an arm's-length contract? #####
 
-Link to an amendment published at 86 FR 4653, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
+Link to an amendment published at 86 FR 4653, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.
 
 This section explains how to value oil that you may not value under § 1206.101 or that you elect under § 1206.101(c)(1) to value under this section, unless ONRR decides to value your oil under 1206.105. First, determine if paragraph (a), (b), or (c) of this section applies to production from your lease, or if you may apply paragraph (d) or (e) of this section with ONRR's approval.
 

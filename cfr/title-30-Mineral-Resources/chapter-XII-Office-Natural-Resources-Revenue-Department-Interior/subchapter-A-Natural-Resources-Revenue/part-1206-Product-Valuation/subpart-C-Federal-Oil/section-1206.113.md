@@ -10,7 +10,7 @@ This section applies when you use NYMEX prices or ANS spot prices to calculate t
 
 (2) For oil that you transport between your lease and the market center (or between any intermediate points between those locations), you may take an allowance for the cost of transporting that oil between the relevant points, as determined under § 1206.111 or 1206.112, as applicable.
 
-(3) If you transport or exchange at arm's-length (or both transport and exchange) at least 20 percent - but not all - of your oil produced from the lease to a market center, you must determine the adjustment between the lease and the market center for the oil that is not transported or exchanged (or both transported and exchanged) to or through a market center as follows:
+(3) If you transport or exchange at arm's-length (or both transport and exchange) at least 20 percent—but not all—of your oil produced from the lease to a market center, you must determine the adjustment between the lease and the market center for the oil that is not transported or exchanged (or both transported and exchanged) to or through a market center as follows:
 
 (i) Determine the volume-weighted average of the lease-to-market center adjustment calculated under paragraphs (a)(1) and (2) of this section for the oil that you do transport or exchange (or both transport and exchange) from your lease to a market center.
 

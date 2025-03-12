@@ -1,6 +1,6 @@
 ##### § 1206.461 How do I determine a transportation allowance if I have an arm's-length transportation contract or no written arm's-length contract? #####
 
-Link to an amendment published at 86 FR 4659, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
+Link to an amendment published at 86 FR 4659, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.
 
 (a) If you or your affiliate incur(s) transportation costs under an arm's-length transportation contract, you may claim a transportation allowance for the reasonable, actual costs incurred for transporting the coal under that contract.
 
