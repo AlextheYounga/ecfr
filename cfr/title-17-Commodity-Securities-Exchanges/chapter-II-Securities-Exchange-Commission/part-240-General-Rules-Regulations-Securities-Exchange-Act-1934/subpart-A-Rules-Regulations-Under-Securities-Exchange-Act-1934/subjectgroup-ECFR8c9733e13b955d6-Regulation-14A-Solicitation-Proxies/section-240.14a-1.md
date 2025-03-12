@@ -1,5 +1,7 @@
 ##### § 240.14a-1 Definitions. #####
 
+Link to an amendment published at 85 FR 55154, Sept. 3, 2020.
+
 Unless the context otherwise requires, all terms used in this regulation have the same meanings as in the Act or elsewhere in the general rules and regulations thereunder. In addition, the following definitions apply unless the context otherwise requires:
 
 (a) *Associate.* The term “associate,” used to indicate a relationship with any person, means:

@@ -172,7 +172,7 @@
 
 (*C*) *Cost outliers for burn cases.* All cost outliers for DRGs related to burn cases shall be reimbursed the DRG-based amount plus a percentage (as established for the Medicare Prospective Payment System) of all costs exceeding the threshold. The standardized costs and thresholds for these cases shall be calculated in accordance with § 199.14(a)(1)(iii)(E)(*1*)(*ii*)(*A*) and § 199.14(a)(1)(iii)(E)(*1*)(*ii*)(*B*).
 
-(*2*) *Wage adjustment.* CHAMPUS will adjust the labor portion of the standardized amounts according to the hospital's area wage index.
+(*2*) *Wage adjustment.* CHAMPUS will adjust the labor portion of the standardized amounts according to the hospital's area wage index. The wage adjusted DRG payment will also be multiplied by 1.2 for an individual diagnosed with COVID-19 and/or Coronavirus discharged during the Secretary of Health and Human Services' declared public health emergency (PHE).
 
 (*3*) *Indirect medical education adjustment.* The wage adjusted DRG payment will also be multiplied by 1.0 plus the hospital's indirect medical education ratio.
 
@@ -197,6 +197,10 @@
 (*v*) *No update for inflation.* The children's hospital differential, calculated (and later recalculated under the hold harmless provision) for the base period of fiscal year 1988, shall not be updated for subsequent fiscal years.
 
 (*vi*) *Administrative corrections.* In connection with determinations pursuant to paragraph (a)(1)(iii) (E)(*4*)(*iii*) of this section, any children's hospital that believes OCHAMPUS erroneously failed to classify the hospital as a high volume hospital or incorrectly calculated (in the case of a high volume hospital) the hospital's differential may obtain administrative corrections by submitting appropriate documentation to the Director, OCHAMPUS (or a designee).
+
+(*5*) *Additional payment for new medical services and technologies.* TRICARE will, for TRICARE authorized services/supplies, adopt the Medicare New Technology Add On Payments (NTAPs) adjustment to DRGs for new medical services and technologies as implemented under 42 CFR 412.87, when determined by the Assistant Secretary of Defense for Health Affairs (ASD(HA)), as practicable. The Director, Defense Health Agency (DHA), shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
+
+(6) *Hospital Value Based Purchasing.* TRICARE will adopt the Medicare Hospital Value Based Purchasing (HVBP) Program adjustments to DRGs to incentivize hospitals as implemented under 42 CFR 412.160, when determined by the ASD(HA), as practicable. The Director, DHA, shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
 
 (F) *Updating the adjusted standardized amounts.* Beginning in FY 1989, the adjusted standardized amounts will be updated by the Medicare annual update factor, unless the adjusted standardized amounts are recalculated.
 
@@ -443,6 +447,10 @@
 (ii) Policy and procedural instructions implementing the GTMCPA will be issued as deemed appropriate by the Director, TMA, or a designee. As with other discretionary authority under this Part, a decision to allow or deny a GTMCPA to a hospital is not subject to the appeal and hearing procedures of § 199.10.
 
 (9) *Reimbursement for inpatient services provided by a Long Term Care Hospital (LTCH).* (i) In accordance with 10 U.S.C. 1079(i)(2), TRICARE payment methods for institutional care shall be determined, to the extent practicable, in accordance with the same reimbursement rules as those that apply to payments to providers of services of the same type under Medicare. The TRICARE-LTC-DRG reimbursement methodology shall be in accordance with Medicare's Medicare Severity Long Term Care Diagnosis Related Groups (MS-LTC-DRGs) as found in regulation at 42 CFR part 412, subpart O. Inpatient services provided in hospitals subject to the Medicare LTCH Prospective Payment System (PPS) and classified as LTCHs and also as specified in 42 CFR parts 412 and 413 will be paid in accordance with the provisions outlined in sections 1886(d)(1)(B)(IV) and 1886(m)(6) of the Social Security Act and its implementing Medicare regulation (42 CFR parts 412, 413, and 170) to the extent practicable. Under the above governing provisions, TRICARE will recognize, to the extent practicable, in accordance with 10 U.S.C. 1079(i)(2), Medicare's LTCH PPS methodology to include the relative weights, inpatient operating and capital costs of furnishing covered services (including routine and ancillary services), interrupted stay policy, short-stay and high cost outlier payments, site-neutral payments, wage adjustments for variations in labor-related costs across geographical regions, cost-of-living adjustments, payment adjustments associated with the quality reporting program, method of payment for preadmission services, and updates to the system. TRICARE will not be adopting Medicare's 25 percent threshold payment adjustment.
+
+Note to paragraph (a)(9)(i):
+
+LTCH admissions that are in response to the COVID-19 declared PHE and occur during the COVID-19 PHE period will be reimbursed the LTCH PPS standard Federal rate.
 
 (ii) Implementation of the TRICARE LTCH PPS will include a gradual transition to full implementation of the Medicare LTCH PPS rates as follows:
 

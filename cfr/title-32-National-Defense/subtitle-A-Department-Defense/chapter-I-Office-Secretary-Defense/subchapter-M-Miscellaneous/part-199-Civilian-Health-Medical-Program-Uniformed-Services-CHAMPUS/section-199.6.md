@@ -154,6 +154,10 @@ Only the Secretary of Defense, the Secretary of Health and Human Services, or th
 
 (I) Is accredited by the JCAH or meets such other requirements as the Secretary of Health and Human Services, the Secretary of Transportation, or the Secretary of Defense finds necessary in the interest of the health and safety of patients who are admitted to and furnished services in the institution.
 
+Note to paragraph (b)(4)(i)(I):
+
+For the duration of Medicare's “Hospitals without Walls” initiative for the coronavirus disease 2019 (COVID-19) outbreak, certain temporary hospitals and freestanding ambulatory surgical centers (ASCs) that enroll with Medicare as hospitals may be temporarily exempt from certain institutional requirements for acute care hospitals in this paragraph 199.6(b)(4)(i), as determined by the Director, Defense Health Agency (DHA), or designee, to ensure access to acute inpatient care during the COVID-19 outbreak.
+
 (ii) *Organ transplant centers.* To obtain TRICARE approval as an organ transplant center, the center must be a Medicare approved transplant center or meet the criteria as established by the Executive Director, TMA, or a designee.
 
 (iii) *Organ transplant consortia.* TRICARE shall approve individual pediatric organ transplant centers that meet the criteria established by the Executive Director, TMA, or a designee.
@@ -1091,3 +1095,5 @@ No dual status will be recognized by the Office of CHAMPUS. Pastoral counselors 
 (5) *Termination of participation agreement.* A provider may terminate a participation agreement upon 45 days written notice to the Director, OCHAMPUS, or designee, and to the public.
 
 [51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+At 85 FR 54924, Sept. 3, 2020, § 199.6 was amended by amending paragraph (b)(4)(i)(I), effective Sept. 13, 2020. The amendment is in effect through either the end of the President's national emergency Proclamation 9994 published at 85 FR 15337, Mar. 18, 2020, or the end of the declared public health emergency, including any extensions.

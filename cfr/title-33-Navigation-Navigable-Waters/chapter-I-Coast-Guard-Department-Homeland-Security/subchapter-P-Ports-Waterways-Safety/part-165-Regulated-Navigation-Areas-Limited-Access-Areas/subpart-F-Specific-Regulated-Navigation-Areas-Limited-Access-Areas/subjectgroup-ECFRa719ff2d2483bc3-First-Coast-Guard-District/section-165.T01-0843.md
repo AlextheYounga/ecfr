@@ -20,4 +20,4 @@
 
 (4) During periods of enforcement, upon being hailed by a U.S. Coast Guard vessel by siren, radio, flashing lights, or other means, the operator of a vessel within the zone must proceed as directed. Any person or vessel within the safety zone shall exit the zone when directed by the COTP or the COTP's designated representative.
 
-Effective Date Note:By USCG-2018-0843, 83 FR 63061, Dec. 7, 2018, § 165.T01-0843 was added, effective Dec. 7, 2018 through Jan. 31, 2021.
+Effective Date Note:By USCG-2018-0843, 83 FR 63061, Dec. 7, 2018, § 165.T01-0843 was added, effective Dec. 7, 2018, through Jan. 31, 2021.

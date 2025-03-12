@@ -10,4 +10,4 @@
 
 (d) *Enforcement date.* This rule is effective without actual notice from July 18, 2018 through January 31, 2023. For the purposes of enforcement, actual notice will be used from July 11, 2018 through July 18, 2018.
 
-Effective Date Note:By USCG-2017-0914, 83 FR 33844, July 18, 2018, § 165.T08-0914 was added, effective July 18, 2018 through Jan. 31, 2023.
+Effective Date Note:By USCG-2017-0914, 83 FR 33844, July 18, 2018, § 165.T08-0914 was added, effective July 18, 2018, through Jan. 31, 2023.

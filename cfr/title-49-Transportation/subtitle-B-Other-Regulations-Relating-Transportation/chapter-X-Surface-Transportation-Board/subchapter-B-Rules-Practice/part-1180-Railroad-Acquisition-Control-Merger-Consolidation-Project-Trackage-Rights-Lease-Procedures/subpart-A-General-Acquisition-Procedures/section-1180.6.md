@@ -28,7 +28,7 @@
 
 (3) Any other supporting or descriptive statements applicants deem material.
 
-(4) An opinion of applicants' counsel that the transaction meets the requirements of the law and will be legally authorized and valid, if approved by the Board. This should include specific references to any pertinent provisions of applicants' bylaws or charter or articles of incorporation.2
+(4) An opinion of applicants' counsel that the transaction meets the requirements of the law and will be legally authorized and valid, if approved by the Board. This should include specific references to any pertinent provisions of applicants' bylaws or charter or articles of incorporation.2/\>
 
 2 An opinion of counsel is not required in a control transaction for the party sought to be controlled, or in a responsive application for the party against whom relief is sought.
 
@@ -40,7 +40,7 @@
 
 (i) Describe the nature of the transaction (e.g., merger, control, purchase, trackage rights), the significant terms and conditions, and the consideration to be paid (monetary or otherwise).
 
-(ii) Agreement (exhibit 2). Submit a copy of any contract or other written instrument entered into, or proposed to be entered into, pertaining to the proposed transaction.3 In addition, parties to exempt trackage rights agreements and renewal of agreements described at § 1180.2(d)(7) must submit one copy of the executed agreement or renewal agreement with the notice of exemption, or within 10 days of the date that the agreement is executed, whichever is later.
+(ii) Agreement (exhibit 2). Submit a copy of any contract or other written instrument entered into, or proposed to be entered into, pertaining to the proposed transaction.3/\> In addition, parties to exempt trackage rights agreements and renewal of agreements described at § 1180.2(d)(7) must submit one copy of the executed agreement or renewal agreement with the notice of exemption, or within 10 days of the date that the agreement is executed, whichever is later.
 
 3 A final signed contract or agreement need not be filed with a responsive application. However, a draft contract or agreement should be submitted containing the significant terms proposed.
 

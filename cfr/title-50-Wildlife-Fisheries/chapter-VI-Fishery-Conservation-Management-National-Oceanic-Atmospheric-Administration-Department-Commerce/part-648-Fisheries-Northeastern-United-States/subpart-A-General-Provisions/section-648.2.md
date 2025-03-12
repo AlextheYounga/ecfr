@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 85 FR 47109, Aug. 4, 2020.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -16,7 +14,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Atlantic butterfish* or *butterfish* means *Peprilus triacanthus.*
 
-*Atlantic chub mackerel* means *Scomber colias.*
+*Atlantic Chub Mackerel Management Unit* means an area of the Atlantic Ocean in which the United States exercises exclusive jurisdiction over all Atlantic chub mackerel fished for, possessed, caught, or retained in or from that is bounded on the west and north by the coastline of the United States; bounded on the east by the outer limit of the U.S. EEZ; and bounded on the south by a line following the lateral seaward boundary between North Carolina and South Carolina from the coast to the Submerged Lands Act line, approximately 33°48′46.37″ N lat., 78°29′46.46″ W long., and then heading due east along 33°48′46.37″ N lat. to the outer limit of the U.S. Exclusive Economic Zone.
 
 *Atlantic croaker* means *Micropogonias undulatus.*
 
@@ -42,9 +40,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Atlantic herring transfer at-sea* means a transfer from the hold, deck, codend, or purse seine of a vessel issued an Atlantic herring permit to another vessel for personal use as bait, to an Atlantic herring carrier or at-sea processor, to a permitted transshipment vessel, or to another permitted Atlantic herring vessel. Transfers between vessels engaged in pair trawling are not herring transfers at-sea.
 
-*Atlantic mackerel* or *mackerel* means *Scomber scombrus.*
-
-*Atlantic Mackerel, Squid, and Butterfish Monitoring Committee* means the committee made up of staff representatives of the MAFMC and the NEFMC, and the Greater Atlantic Regional Fisheries Office and NEFSC of NMFS. The MAFMC Executive Director or a designee chairs the Committee.
+*Atlantic mackerel* means *Scomber scombrus.*
 
 *Atlantic salmon* means *Salmo salar.*
 
@@ -102,7 +98,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Conger eel* means *Conger oceanicus.*
 
-*Council* means the New England Fishery Management Council (NEFMC) for the Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, NE multispecies, monkfish, and NE skate fisheries; or the Mid-Atlantic Fishery Management Council (MAFMC) for the Atlantic mackerel, squid, and butterfish; Atlantic surfclam and ocean quahog; summer flounder, scup, and black sea bass; spiny dogfish; Atlantic bluefish; and tilefish fisheries.
+*Council* means the New England Fishery Management Council (NEFMC) for the Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, NE multispecies, monkfish, and NE skate fisheries; or the Mid-Atlantic Fishery Management Council (MAFMC) for the Atlantic mackerel, Atlantic chub mackerel, *Illex* squid, longfin squid, and butterfish; Atlantic surfclam and ocean quahog; summer flounder, scup, and black sea bass; spiny dogfish; Atlantic bluefish; and tilefish fisheries.
 
 *Councils* with respect to the monkfish fishery and spiny dogfish fishery means the New England Fishery Management Council (NEFMC) and the Mid-Atlantic Fishery Management Council (MAFMC).
 
@@ -243,6 +239,8 @@ Bay scallop - *Aequipecten irradians.*Blood arc clam - *Anadara ovalis.*Blood wo
 *Longhorn sculpin* means *Myoxocephalus octodecimspinosus.*
 
 *Longline gear* means fishing gear that is or is designed to be set horizontally, either anchored, floating, or attached to a vessel, and that consists of a main or ground line with three or more gangions and hooks.
+
+*Mackerel, Squid, and Butterfish Monitoring Committee* means the committee made up of staff representatives of the MAFMC and the NEFMC, and the Greater Atlantic Regional Fisheries Office and NEFSC of NMFS. The MAFMC Executive Director or a designee chairs the Committee.
 
 *Mahogany Quahog* see *Ocean Quahog*
 
@@ -460,8 +458,6 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 (B) The net is fan-folded (flaked) and bound around its circumference.
 
-*Observer or monitor* means any person certified by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program. Observers or monitors include NMFS-certified fisheries observers, at-sea monitors, portside samplers, and dockside monitors.
-
 (ii) *On-deck stowage.* (A) The net is fan-folded (flaked) and bound around its circumference;
 
 (B) The net is securely fastened to the deck or rail of the vessel; and
@@ -497,6 +493,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 (4) *Sink gillnet gear.* All nets are covered with canvas or other similar material and lashed or otherwise securely fastened to the deck or rail, and all buoys larger than 6 inches (15.24 cm) in diameter, high flyers, and anchors are disconnected.
 
 (5) *Other methods of stowage.* Any other method of stowage authorized in writing by the Regional Administrator and subsequently published in the Federal Register.
+
+*Observer or monitor* means any person certified by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program. Observers or monitors include NMFS-certified fisheries observers, at-sea monitors, portside samplers, and dockside monitors.
 
 *Observer/sea sampler* means any person certified/approved by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program and Northeast At-sea Monitoring Program. Observer/sea samplers are also referred to as fisheries observers, fisheries observers/sea samplers, and NMFS-certified fisheries observers/sea samplers.
 

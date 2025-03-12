@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 85 FR 47112, Aug. 4, 2020.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -84,13 +82,13 @@ Link to an amendment published at 85 FR 47112, Aug. 4, 2020.
 
 (g) *Squid, mackerel, and butterfish* - (1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 
-(i) *Possession and landing.* Take and retain, possess, or land more Atlantic mackerel, squid or butterfish than specified under, or after the effective date of, a notification issued under §§ 648.22 or 648.24(d).
+(i) *Possession and landing.* Take and retain, possess, or land more Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish than specified under, or after the effective date of, a notification issued under §§ 648.22 or 648.24(d).
 
-(ii) *Transfer and purchase.* (A) Purchase or otherwise receive for a commercial purpose; other than solely for transport on land; mackerel, squid, or butterfish caught by a vessel that has not been issued a Federal mackerel, squid, and butterfish vessel permit, unless the vessel fishes exclusively in state waters.
+(ii) *Transfer and purchase.* (A) Purchase or otherwise receive for a commercial purpose; other than solely for transport on land; Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish caught by a vessel that has not been issued a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish vessel permit, unless the vessel fishes exclusively in state waters.
 
 (B) Transfer longfin squid, *Illex* squid, or butterfish within the EEZ, unless the vessels participating in the transfer have been issued the appropriate LOA from the Regional Administrator along with a valid longfin squid, butterfish, or *Illex* squid moratorium permit and are transferring species for which the vessels are permitted, or a valid squid/butterfish incidental catch permit.
 
-(2) *Vessel and operator permit holders.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person owning or operating a vessel issued a valid mackerel, squid, and butterfish fishery permit, or issued an operator's permit, to do any of the following:
+(2) *Vessel and operator permit holders.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person owning or operating a vessel issued a valid Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit, or issued an operator's permit, to do any of the following:
 
 (i) *General requirement.* Fail to comply with any measures implemented pursuant to § 648.22.
 
@@ -98,15 +96,15 @@ Link to an amendment published at 85 FR 47112, Aug. 4, 2020.
 
 (B) Possess more than the incidental catch allowance of *Illex* squid, unless issued an *Illex* squid moratorium permit.
 
-(C) Possess more than the incidental catch allowance of mackerel, unless issued a Limited Access mackerel permit.
+(C) Possess more than the incidental catch allowance of Atlantic mackerel, unless issued a limited access Atlantic mackerel permit.
 
-(D) Take and retain, possess, or land mackerel, squid, or butterfish in excess of a possession limit specified in § 648.26.
+(D) Take and retain, possess, or land Atlantic chub mackerel, Atlantic mackerel, squid, or butterfish in excess of a possession limit specified in § 648.26.
 
 (E) Possess more than 5,000 lb (2.27 mt) of butterfish, unless the vessel meets the minimum mesh requirements specified in § 648.23(a).
 
-(F) Take and retain, possess, or land mackerel after a total closure specified under § 648.24(b)(1).
+(F) Take and retain, possess, or land more than 5,000 lb (2.27 mt) of Atlantic mackerel after a closure of the entire commercial fishery, as specified under § 648.24(b)(1).
 
-(G) Fish for, possess, transfer, receive, or sell; or attempt to fish for, possess, transfer, receive, or sell; more than 20,000 lb (9.08 mt) of mackerel per trip; or land, or attempt to land more than 20,000 lb (9.08 mt) of mackerel per day after 95 percent of the river herring and shad cap has been harvested, if the vessel holds a valid mackerel permit.
+(G) Fish for, possess, transfer, receive, or sell; or attempt to fish for, possess, transfer, receive, or sell; more than 20,000 lb (9.08 mt) of Atlantic mackerel per trip; or land, or attempt to land more than 20,000 lb (9.08 mt) of Atlantic mackerel per day after 95 percent of the river herring and shad cap has been harvested, if the vessel holds a valid Atlantic mackerel permit.
 
 (H) Possess more than the incidental catch allowance of butterfish, unless issued a butterfish moratorium permit.
 
@@ -120,7 +118,7 @@ Link to an amendment published at 85 FR 47112, Aug. 4, 2020.
 
 (iv) *Observer requirements for longfin squid fishery.* Fail to comply with any of the provisions specified in § 648.11.
 
-(v) *VMS reporting requirements in the directed Atlantic mackerel longfin squid, and Illex squid fisheries.* (A) Fail to declare via VMS into the directed mackerel, longfin squid,, or *Illex* squid fisheries by entering the fishery code prior to leaving port at the start of each trip if the vessel will harvest, possess, or land more than an incidental catch of Atlantic mackerel, longfin squid, or *Illex* squid and is issued a Limited Access Atlantic mackerel permit, Tier 1 or Tier 2 longfin squid moratorium permit, or *Illex* squid moratorium permit.
+(v) *VMS reporting requirements in the directed Atlantic mackerel, longfin squid, and Illex squid fisheries.* (A) Fail to declare via VMS into the directed Atlantic mackerel, longfin squid, or *Illex* squid fisheries by entering the fishery code prior to leaving port at the start of each trip if the vessel will harvest, possess, or land more than an incidental catch of Atlantic mackerel, longfin squid, or *Illex* squid and is issued a limited access Atlantic mackerel permit, Tier 1 or Tier 2 longfin squid moratorium permit, or *Illex* squid moratorium permit.
 
 (B) Fail to notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hr prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds, if a vessel has been issued a Limited Access Atlantic mackerel permit, pursuant to § 648.10.
 
@@ -135,15 +133,15 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (x) Fail to report or fail to accurately report a slippage event on the VMS mackerel and longfin squid daily catch report, as required by § 648.11(n)(3)(ii).
 
-(3) *Charter/party restrictions.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for the owner and operator of a party or charter boat issued a mackerel, squid, and butterfish fishery permit (including a moratorium permit), when the boat is carrying passengers for hire, to do any of the following:
+(3) *Charter/party restrictions.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for the owner and operator of a party or charter boat issued an Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit (including a moratorium permit), when the boat is carrying passengers for hire, to do any of the following:
 
 (i) Violate any recreational fishing measures established pursuant to § 648.22(d).
 
-(ii) Sell or transfer mackerel, squid, or butterfish to another person for a commercial purpose.
+(ii) Sell or transfer Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish to another person for a commercial purpose.
 
-(iii) Carry passengers for hire while fishing commercially under a mackerel, squid, and butterfish fishery permit.
+(iii) Carry passengers for hire while fishing commercially under an Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit.
 
-(4) *Presumption.* For purposes of this part, the following presumption applies: All mackerel and butterfish possessed on board a party or charter boat issued a mackerel, squid, and butterfish fishery permit are deemed to have been harvested from the EEZ.
+(4) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic chub mackerel, Atlantic mackerel and butterfish possessed on board a party or charter boat issued a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit are deemed to have been harvested from the EEZ, unless the preponderance of evidence demonstrates that such species were harvested by a vessel without a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish permit and fishing exclusively in state waters or, for Atlantic chub mackerel, outside of the Atlantic Chub Mackerel Management Unit.
 
 (h) *Atlantic salmon.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 
@@ -1303,10 +1301,6 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All skates retained or possessed on a vessel are deemed to have been harvested in or from the Skate Management Unit, unless the preponderance of evidence demonstrates that such skates were harvested by a vessel, that has not been issued a Federal skate permit, fishing exclusively outside of the EEZ portion (such as fishing within the NAFO Regulatory Area under § 648.17(a)(3)) of the skate management unit or only in state waters.
 
-(w) *Mid-Atlantic forage species and Atlantic chub mackerel.* It is unlawful for any person owning or operating a vessel issued a valid commercial permit under this part to do any of the following:
-
-(1) Fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 1,700 lb (771.11 kg) of all Mid-Atlantic forage species combined per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c). A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
-
-(2) Fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 40,000 lb (18.14 mt) of Atlantic chub mackerel per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c), after the annual Atlantic chub mackerel landing limit has been harvested and notice has been provided to the public consistent with the Administrative Procedure Act. A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished in Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
+(w) *Mid-Atlantic forage species.* It is unlawful for any person owning or operating a vessel issued a valid commercial permit under this part to fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 1,700 lb (771.11 kg) of all Mid-Atlantic forage species combined per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(b). A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
 
 [74 FR 20535, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

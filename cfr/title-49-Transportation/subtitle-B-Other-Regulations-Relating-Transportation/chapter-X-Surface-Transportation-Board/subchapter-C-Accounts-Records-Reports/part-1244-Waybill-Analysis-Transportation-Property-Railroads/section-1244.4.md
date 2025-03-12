@@ -1,5 +1,7 @@
 ##### § 1244.4 Sampling of waybills. #####
 
+Link to an amendment published at 85 FR 54941, Sept. 3, 2020.
+
 (a) Subject railroads shall file waybill sample information in one of the following two ways. (1) Authenticated copies of a sample of audited revenue waybills - the manual system (paragraph (b) of this section). (2) A computer tape containing specified information from a sample of waybills - the computerized system (paragraph (c) of this section).
 
 (b) *The Manual System.* (1) The sample of subject waybills shall be as follows:
@@ -22,7 +24,7 @@
 
 (4) If the subject waybills have no waybill numbers or serial numbers, or have seriously flawed waybill or serial numbers, then the subject railroad should serialize those documents in blocks of 1,000 or blocks of multiples of 1,000 (e.g., 1, 2, . . . 1,000; 1, 2, . . .) and use these constructed serial numbers for selection purposes.
 
-(c) *The Computerized System.* (1) The tape shall be required to conform to the standards and format specified in Statement No. 81-1, *Procedure for Sampling Waybill Records by Computer* (2009 edition), issued by the Surface Transportation Board. The Director of the Federal Register has approved this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any editions other than those specified in this section, the STB must publish notice of change in the Federal Register and the material must be available to the public. You may obtain or inspect a copy of these standards from the Surface Transportation Board, 395 E Street, SW., Washington, DC 20423-0001; from the Surface Transportation Board Web site at *www.stb.gov.*or by calling (202) 245-0333. You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to:*http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
+(c) *The Computerized System.* (1) The tape shall be required to conform to the standards and format specified in Statement No. 81-1, *Procedure for Sampling Waybill Records by Computer* (2009 edition), issued by the Surface Transportation Board. The Director of the Federal Register has approved this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any editions other than those specified in this section, the STB must publish notice of change in the Federal Register and the material must be available to the public. You may obtain or inspect a copy of these standards from the Surface Transportation Board, 395 E Street, SW., Washington, DC 20423-0001; from the Surface Transportation Board Web site at *www.stb.gov.*or by calling (202) 245-0333. You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
 
 (2) The sampling rates for the computerized system are as follows:
 

@@ -1,5 +1,7 @@
 ##### § 1244.5 Date of filing. #####
 
+Link to an amendment published at 85 FR 54941, Sept. 3, 2020.
+
 (a) The reporting period for which subject railroads submit waybill sample information shall be the audit (accounting) month except as specified below:
 
 (1) Subject railroads using the computerized system may submit waybill sample information quarterly as specified in Statement 81-1.

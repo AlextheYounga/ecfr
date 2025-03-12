@@ -10,4 +10,4 @@
 
 (d) *Enforcement period.* This section will be enforced from May 4, 2020 to October 30, 2020.
 
-[USCG-2020-0242, 85 FR 28490, May 13, 2020]Effective Date Note:By USCG-2020-0242, 85 FR 28490, May 13, 2020, § 165.T09-0242 was added, effective May 13, 2020 through Oct. 30, 2020.
+[USCG-2020-0242, 85 FR 28490, May 13, 2020]Effective Date Note:By USCG-2020-0242, 85 FR 28490, May 13, 2020, § 165.T09-0242 was added, effective May 13, 2020, through Oct. 30, 2020.

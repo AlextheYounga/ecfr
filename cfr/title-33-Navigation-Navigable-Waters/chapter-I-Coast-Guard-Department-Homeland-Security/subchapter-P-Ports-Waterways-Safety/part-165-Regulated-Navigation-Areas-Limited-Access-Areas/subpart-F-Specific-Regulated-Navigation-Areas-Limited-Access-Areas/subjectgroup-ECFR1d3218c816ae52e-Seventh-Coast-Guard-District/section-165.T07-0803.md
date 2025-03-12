@@ -22,4 +22,4 @@
 
 (8) The inland navigation rules in 33 CFR subchapter E remain in effect within the RNA and must be followed at all times.
 
-Effective Date Note:By USCG-2019-0803, 84 FR 58053, Oct. 30, 2019, § 165.T07-0803 was revised, effective Oct. 30, 2019 through Jan. 29, 2021.
+Effective Date Note:By USCG-2019-0803, 84 FR 58053, Oct. 30, 2019, § 165.T07-0803 was revised, effective Oct. 30, 2019, through Jan. 29, 2021.

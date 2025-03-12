@@ -26,7 +26,7 @@
 
 (c) Notwithstanding paragraph (b) of this section, the Commission, having due regard for the public interest and the protection of investors, may at any time extend the period of exemption of any security by this rule or may sooner terminate the exemption upon notice to the exchange and to the issuer of the extension or termination thereof.
 
-(d) The Exchange shall file with the Commission a notification on Form 261 promptly after taking action to admit any security to trading under this section: *Provided, however,* That no notification need be filed under this section concerning the admission or proposed admission to trading of additional amounts of a class of security admitted to trading on such exchange.
+(d) The Exchange shall file with the Commission a notification on Form 261/\> promptly after taking action to admit any security to trading under this section: *Provided, however,* That no notification need be filed under this section concerning the admission or proposed admission to trading of additional amounts of a class of security admitted to trading on such exchange.
 
 1 Copy filed with the Federal Register Division.
 

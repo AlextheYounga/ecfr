@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 85 FR 47111, Aug. 4, 2020.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -376,9 +374,9 @@ SNE/MA Stock Area 4
 
 (2) A vessel issued a limited access herring permit (*i.e.,* Category A, B, or C) or a Category E Herring Permit or a vessel that declared an Atlantic herring carrier trip via VMS must notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hours prior to landing or, if fishing ends less than 6 hours before landing, as soon as the vessel stops catching fish. The Regional Administrator may adjust the prior notification minimum time through publication of a document in the Federal Register consistent with the Administrative Procedure Act.
 
-(n) *Limited access Atlantic mackerel VMS notification requirements.* (1) A vessel issued a limited access Atlantic mackerel permit intending to declare into the mackerel fishery must notify NMFS by declaring a mackerel trip prior to leaving port at the start of each trip in order to harvest, possess, or land mackerel on that trip.
+(n) *Limited access Atlantic mackerel VMS notification requirements.* (1) A vessel issued a limited access Atlantic mackerel permit intending to declare into the Atlantic mackerel fishery must notify NMFS by declaring an Atlantic mackerel trip prior to leaving port at the start of each trip in order to harvest, possess, or land Atlantic mackerel on that trip.
 
-(2) A vessel issued a limited access Atlantic mackerel permit intending to land more than 20,000 lb (9.07 mt) of mackerel must notify NMFS of the time and place of offloading at least 6 hr prior prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds. The Regional Administrator may adjust the prior notification minimum time through publication in the Federal Register consistent with the Administrative Procedure Act.
+(2) A vessel issued a limited access Atlantic mackerel permit intending to land more than 20,000 lb (9.07 mt) of Atlantic mackerel must notify NMFS of the time and place of offloading at least 6 hr prior prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds. The Regional Administrator may adjust the prior notification minimum time through publication in the Federal Register consistent with the Administrative Procedure Act.
 
 (o) *Longfin squid VMS notification requirement.* A vessel issued a Tier 1 or Tier 2 longfin squid moratorium permit intending to harvest, possess, or land more than 2,500 lb (1.13 mt) of longfin squid on that trip must notify NMFS by declaring a longfin squid trip before leaving port at the start of each trip.
 
