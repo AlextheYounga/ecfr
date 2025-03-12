@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 84 FR 43673, Aug. 22, 2019.Link to an amendment published at 84 FR 52751, Oct. 3, 2019.
+Link to an amendment published at 84 FR 52751, Oct. 3, 2019.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -126,6 +126,8 @@ Amendment Number 1 Effective Date: December 26, 2000.
 
 Amendment Number 2 Effective Date: May 29, 2001.
 
+Amendment Number 3 Effective Date: November 5, 2019.
+
 SAR Submitted by: Holtec International.
 
 SAR Title: Final Safety Analysis Report for the HI-STAR 100 Cask System.
@@ -134,7 +136,7 @@ Docket Number: 72-1008.
 
 Certificate Expiration Date: October 4, 2019.
 
-Model Number: HI-STAR 100.
+Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
 Certificate Number: 1014.
 

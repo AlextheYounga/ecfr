@@ -1,5 +1,7 @@
 ##### § 1.6002 Definitions. #####
 
+Link to an amendment published at 84 FR 59567, November 5, 2019.
+
 Terms not specifically defined in this section or elsewhere in this subpart have the meanings defined in this part and the Communications Act of 1934, 47 U.S.C. 151 *et seq.* Terms used in this subpart have the following meanings:
 
 (a) *Action* or *to act* on a siting application means a siting authority's grant of a siting application or issuance of a written decision denying a siting application.

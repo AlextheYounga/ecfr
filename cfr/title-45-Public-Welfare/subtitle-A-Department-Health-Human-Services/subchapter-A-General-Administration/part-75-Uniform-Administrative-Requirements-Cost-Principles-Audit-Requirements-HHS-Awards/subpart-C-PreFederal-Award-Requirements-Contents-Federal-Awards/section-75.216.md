@@ -2,9 +2,9 @@
 
 (a) This section contains provisions that apply to awards to commercial organizations. These provisions are in addition to other applicable provisions of this part, or they make exceptions from other provisions of this part for awards to commercial organizations.
 
-(b) Prohibition against profit. Except for awards under the Small Business Innovation Research (SBIR) and Small Business Technology Transfer Research (STTR) programs (15 U.S.C. 638), no HHS funds may be paid as profit to any recipient even if the recipient is a commercial organization. Profit is any amount in excess of allowable direct and indirect costs.
+(b) *Prohibition against profit.* Except for awards under the Small Business Innovation Research (SBIR) and Small Business Technology Transfer Research (STTR) programs (15 U.S.C. 638), no HHS funds may be paid as profit to any recipient even if the recipient is a commercial organization. Profit is any amount in excess of allowable direct and indirect costs.
 
-(c) Program Income. Except for grants for research, program income earned by a commercial organization may not be used to further eligible project or program objectives except in the SBIR and STTR programs.
+(c) *Program income.* Except for grants for research, program income earned by a commercial organization may not be used to further eligible project or program objectives except in the SBIR and STTR programs.
 
 (d)(1) Commercial organizations that receive awards (including for-profit hospitals) have two options regarding audits:
 

@@ -1,5 +1,7 @@
 ##### § 1.1312 Facilities for which no preconstruction authorization is required. #####
 
+Link to an amendment published at 84 FR 59567, November 5, 2019.
+
 (a) In the case of facilities for which no Commission authorization prior to construction is required by the Commission's rules and regulations the licensee or applicant shall initially ascertain whether the proposed facility may have a significant environmental impact as defined in § 1.1307 of this part or is categorically excluded from environmental processing under § 1.1306 of this part.
 
 (b) If a facility covered by paragraph (a) of this section may have a significant environmental impact, the information required by § 1.1311 of this part shall be submitted by the licensee or applicant and ruled on by the Commission, and environmental processing (if invoked) shall be completed, see § 1.1308 of this part, prior to the initiation of construction of the facility.
