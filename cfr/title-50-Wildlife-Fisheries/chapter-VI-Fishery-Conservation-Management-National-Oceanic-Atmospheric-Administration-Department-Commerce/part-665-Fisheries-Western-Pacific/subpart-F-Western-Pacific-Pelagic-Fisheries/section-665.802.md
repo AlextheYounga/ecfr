@@ -76,9 +76,9 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (rr) Fail to handle short-tailed albatrosses that are caught by pelagic longline gear in a manner that maximizes the probability of their long-term survival, in violation of § 665.815(b).
 
-(ss) Engage in shallow-setting from a vessel registered for use under a Hawaii longline limited access permit after the shallow-set longline fishery has been closed pursuant to § 665.813(b), in violation of § 665.813(i).
+(ss) Engage in shallow-setting from a vessel registered for use under a Hawaii longline limited access permit after the shallow-set longline fishery has been closed, or upon notice that that the vessel is restricted from fishing, in violation of § 665.813(b) and (i).
 
-(tt) Fail to immediately retrieve longline fishing gear upon receipt of actual notice that the shallow-set longline fishery has been closed pursuant to § 665.813(b), in violation of § 665.813(i).
+(tt) Fail to immediately retrieve longline fishing gear upon notice that the shallow-set longline fishery has been closed, or upon notice that that the vessel is restricted from fishing, in violation of § 665.813(b).
 
 (uu)-(vv) [*Reserved*]
 
@@ -90,4 +90,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (zz) Use a vessel that is greater than 50 ft (15.4 m) LOA to squid jig fish in EEZ waters around American Samoa, CNMI, Guam, Hawaii, or PRIA, without a Western Pacific squid jig fishing permit registered for use with that vessel, in violation of § 665.801(g).
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020]

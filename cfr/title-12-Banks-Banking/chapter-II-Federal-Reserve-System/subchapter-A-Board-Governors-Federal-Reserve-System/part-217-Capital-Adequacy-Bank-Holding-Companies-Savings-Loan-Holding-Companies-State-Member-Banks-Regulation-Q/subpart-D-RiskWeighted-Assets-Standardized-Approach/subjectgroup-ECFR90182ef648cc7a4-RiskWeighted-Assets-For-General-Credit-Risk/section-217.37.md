@@ -40,7 +40,7 @@
 
 (i)(A) For eligible margin loans and repo-style transactions and netting sets thereof, ΣE equals the value of the exposure (the sum of the current fair values of all instruments, gold, and cash the Board-regulated institution has lent, sold subject to repurchase, or posted as collateral to the counterparty under the transaction (or netting set)); and
 
-(B) For collateralized derivative contracts and netting sets thereof, ΣE equals the exposure amount of the OTC derivative contract (or netting set) calculated under § 217.34 (a)(1) or (2).
+(B) For collateralized derivative contracts and netting sets thereof, ΣE equals the exposure amount of the OTC derivative contract (or netting set) calculated under § 217.34(b)(1) or (2).
 
 (ii) ΣC equals the value of the collateral (the sum of the current fair values of all instruments, gold and cash the Board-regulated institution has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction (or netting set));
 
@@ -131,4 +131,4 @@ Table 1 to § 217.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (v) A Board-regulated institution's own estimates of market price and foreign exchange rate volatilities may not take into account the correlations among securities and foreign exchange rates on either the exposure or collateral side of a transaction (or netting set) or the correlations among securities and foreign exchange rates between the exposure and collateral sides of the transaction (or netting set).
 
-[Reg. Q, 78 FR 62157, Oct. 11, 2013, as amended at 84 FR 35266, July 22, 2019; 85 FR 4419, Jan. 24, 2020]
+[Reg. Q, 78 FR 62157, Oct. 11, 2013, as amended at 84 FR 35266, July 22, 2019; 85 FR 4419, Jan. 24, 2020; ; 85 FR 57961, Sept. 17, 2020]

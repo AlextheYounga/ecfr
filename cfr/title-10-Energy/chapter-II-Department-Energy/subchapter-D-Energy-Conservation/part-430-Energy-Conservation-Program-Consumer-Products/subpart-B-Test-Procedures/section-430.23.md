@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 85 FR 50766, Aug. 18, 2020.Link to an amendment published at 85 FR 56494, Sept. 14, 2020.
+Link to an amendment published at 85 FR 56494, Sept. 14, 2020.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -260,37 +260,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (h) *Television sets.* The power consumption of a television set, expressed in watts, including on mode, standby mode, and off mode power consumption values, shall be measured in accordance with sections 7.1, 7.3, and 7.4 of appendix H of this subpart respectively. The annual energy consumption, expressed in kilowatt-hours per year, shall be measured in accordance with section 8 of appendix H of this subpart.
 
-(i) *Cooking products.* (1) Determine the integrated annual electrical energy consumption for conventional electric cooking tops, including any integrated annual electrical energy consumption for combined cooking products according to sections 4.1.2.1.2 and 4.2.2.1 of appendix I to this subpart. For conventional gas cooking tops, the integrated annual electrical energy consumption shall be equal to the sum of the conventional cooking top annual electrical energy consumption, ECCE, as defined in section 4.1.2.2.2 or 4.2.2.2 of appendix I to this subpart, and the conventional cooking top annual combined low-power mode energy consumption, ECTSO, as defined in section 4.1.2.2.3 appendix I to this subpart, or the annual combined low-power mode energy consumption for the conventional cooking top component of a combined cooking product, ECCTLP, as defined in section 4.2.2.2 of appendix I to this subpart.
-
-(2) Determine the annual gas energy consumption for conventional gas cooking tops according to section 4.1.2.2.1 of appendix I to this subpart.
-
-(3) Determine the integrated annual energy consumption for conventional cooking tops according to sections 4.1.2.1.2, 4.1.2.2.2, 4.2.2.1, and 4.2.2.2, respectively, of appendix I to this subpart. Round the integrated annual energy consumption to one significant digit.
-
-(4) The estimated annual operating cost corresponding to the energy consumption of a conventional cooking top, shall be the sum of the following products:
-
-(i) The integrated annual electrical energy consumption for any electric energy usage, in kilowatt-hours (kWh) per year, as determined in accordance with paragraph (i)(1) of this section, times the representative average unit cost for electricity, in dollars per kWh, as provided pursuant to section 323(b)(2) of the Act; plus
-
-(ii) The total annual gas energy consumption for any natural gas usage, in British thermal units (Btu) per year, as determined in accordance with paragraph (i)(2) of this section, times the representative average unit cost for natural gas, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act; plus
-
-(iii) The total annual gas energy consumption for any propane usage, in Btu per year, as determined in accordance with paragraph (i)(2) of this section, times the representative average unit cost for propane, in dollars per Btu, as provided pursuant to section 323(b)(2) of the Act.
-
-(5) Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.3 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
-
-(6) For convertible cooking appliances, there shall be -
-
-(i) An estimated annual operating cost and an integrated annual energy consumption which represent values for the operation of the appliance with natural gas; and
-
-(ii) An estimated annual operating cost and an integrated annual energy consumption which represent values for the operation of the appliance with LP-gas.
-
-(7) Determine the estimated annual operating cost for convertible cooking appliances that represents natural gas usage, as described in paragraph (i)(6)(i) of this section, according to paragraph (i)(4) of this section, using the total annual gas energy consumption for natural gas times the representative average unit cost for natural gas.
-
-(8) Determine the estimated annual operating cost for convertible cooking appliances that represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, according to paragraph (i)(4) of this section, using the representative average unit cost for propane times the total annual energy consumption of the test gas, either propane or natural gas.
-
-(9) Determine the integrated annual energy consumption for convertible cooking appliances that represents natural gas usage, as described in paragraph (i)(6)(i) of this section, according to paragraph (i)(3) of this section, when the appliance is tested with natural gas.
-
-(10) Determine the integrated annual energy consumption for convertible cooking appliances that represents LP-gas usage, as described in paragraph (i)(6)(ii) of this section, according to paragraph (i)(3) of this section, when the appliance is tested with either natural gas or propane.
-
-(11) Other useful measures of energy consumption for conventional cooking tops shall be the measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions and that are derived from the application of appendix I to this subpart.
+(i) *Cooking products.* Determine the standby power for microwave ovens, excluding any microwave oven component of a combined cooking product, according to section 3.2.1 of appendix I to this subpart. Round standby power to the nearest 0.1 watt.
 
 (j) *Clothes washers.* (1) The estimated annual operating cost for automatic and semi-automatic clothes washers must be rounded off to the nearest dollar per year and is defined as follows:
 

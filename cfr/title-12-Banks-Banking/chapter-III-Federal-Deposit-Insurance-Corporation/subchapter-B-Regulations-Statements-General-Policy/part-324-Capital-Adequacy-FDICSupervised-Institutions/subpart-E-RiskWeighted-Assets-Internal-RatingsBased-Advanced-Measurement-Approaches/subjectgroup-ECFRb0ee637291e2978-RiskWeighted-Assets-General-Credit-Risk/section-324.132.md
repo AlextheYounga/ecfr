@@ -211,19 +211,19 @@ Table 1 to § 324.132 - Standard Supervisory Market Price Volatility Haircuts<su
 
 (iii) *Credit derivative contracts and equity derivative contracts.* The hedging set amount of a credit derivative contract hedging set or equity derivative contract hedging set within a netting set is calculated according to the following formula:
 
-![](/graphics/er24ja20.040.gif)Where:*k* is each reference entity within the hedging set.*K* is the number of reference entities within the hedging set.*AddOn*(*Ref*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference reference entity *k*.*ρ*k equals the applicable supervisory correlation factor, as provided in Table 2 to this section.
+![](/graphics/er24ja20.040.gif)Where:*k* is each reference entity within the hedging set.*K* is the number of reference entities within the hedging set.*AddOn*(*Ref*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference reference entity *k*.*ρ*k equals the applicable supervisory correlation factor, as provided in Table 3 to this section.
 
 (iv) *Commodity derivative contracts.* The hedging set amount of a commodity derivative contract hedging set within a netting set is calculated according to the following formula:
 
-![](/graphics/er24ja20.041.gif)Where:*k* is each commodity type within the hedging set.*K* is the number of commodity types within the hedging set.*AddOn*(*Type*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference commodity type *k*.*ρ* equals the applicable supervisory correlation factor, as provided in Table 2 to this section.
+![](/graphics/er24ja20.041.gif)Where:*k* is each commodity type within the hedging set.*K* is the number of commodity types within the hedging set.*AddOn*(*Type*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference commodity type *k*.*ρ* equals the applicable supervisory correlation factor, as provided in Table 3 to this section.
 
 (v) *Basis derivative contracts and volatility derivative contracts.* Notwithstanding paragraphs (c)(8)(i) through (iv) of this section, a FDIC-supervised institution must calculate a separate hedging set amount for each basis derivative contract hedging set and each volatility derivative contract hedging set. A FDIC-supervised institution must calculate such hedging set amounts using one of the formulas under paragraphs (c)(8)(i) through (iv) that corresponds to the primary risk factor of the hedging set being calculated.
 
-(9) *Adjusted derivative contract amount* - (i) *Summary.* To calculate the adjusted derivative contract amount of a derivative contract, a FDIC-supervised institution must determine the adjusted notional amount of derivative contract, pursuant to paragraph (c)(9)(ii) of this section, and multiply the adjusted notional amount by each of the supervisory delta adjustment, pursuant to paragraph (c)(9)(iii) of this section, the maturity factor, pursuant to paragraph (c)(9)(iv) of this section, and the applicable supervisory factor, as provided in Table 2 to this section.
+(9) *Adjusted derivative contract amount* - (i) *Summary.* To calculate the adjusted derivative contract amount of a derivative contract, a FDIC-supervised institution must determine the adjusted notional amount of derivative contract, pursuant to paragraph (c)(9)(ii) of this section, and multiply the adjusted notional amount by each of the supervisory delta adjustment, pursuant to paragraph (c)(9)(iii) of this section, the maturity factor, pursuant to paragraph (c)(9)(iv) of this section, and the applicable supervisory factor, as provided in Table 3 to this section.
 
 (ii) *Adjusted notional amount.* (A)(*1*) For an interest rate derivative contract or a credit derivative contract, the adjusted notional amount equals the product of the notional amount of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation, and the supervisory duration, as calculated by the following formula:
 
-![](/graphics/er24ja20.042.gif)Where:*S* is the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed; and*E* is the number of business days from the present day until the end date of the derivative contract.
+![](/graphics/er17se20.015.gif)Where:S is the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed; andE is the number of business days from the present day until the end date of the derivative contract.
 
 (*2*) For purposes of paragraph (c)(9)(ii)(A)(*1*) of this section:
 
@@ -287,7 +287,7 @@ Where MPOR refers to the period from the most recent exchange of collateral cove
 
 (*iii*) For a derivative contract that is within a netting set that is composed of more than 5,000 derivative contracts that are not cleared transactions, or a netting set that contains one or more trades involving illiquid collateral or a derivative contract that cannot be easily replaced, MPOR cannot be less than twenty business days.
 
-(*3*) Notwithstanding paragraphs (c)(9)(iv)(A)(*1*) and (*2*) of this section, for a netting set subject to two or more outstanding disputes over margin that lasted longer than the MPOR over the previous two quarters, the applicable floor is twice the amount provided in (c)(9)(iv)(A)(*1*) and (*2*) of this section.
+(*3*) Notwithstanding paragraphs (c)(9)(iv)(A)(*1*) and (*2*) of this section, for a netting set subject to more than two outstanding disputes over margin that lasted longer than the MPOR over the previous two quarters, the applicable floor is twice the amount provided in paragraphs (c)(9)(iv)(A)(*1*) and (*2*) of this section.
 
 (B) The maturity factor of a derivative contract that is not subject to a variation margin agreement, or derivative contracts under which the counterparty is not required to post variation margin, is determined by the following formula:
 
@@ -587,4 +587,4 @@ Table 4 to § 324.132 - Assignment of Counterparty Weight
 
 (B) The notional weighted average maturity of all transactions in the netting set.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 80 FR 41424, July 15, 2015; 85 FR 4434, Jan. 24, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 80 FR 41424, July 15, 2015; 85 FR 4434, Jan. 24, 2020; 85 FR 57963, Sept. 17, 2020]

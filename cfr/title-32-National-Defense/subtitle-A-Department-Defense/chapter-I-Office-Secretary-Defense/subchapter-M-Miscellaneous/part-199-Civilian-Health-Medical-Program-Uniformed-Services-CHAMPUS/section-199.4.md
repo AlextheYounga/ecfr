@@ -1755,6 +1755,4 @@ The fact that a physician may prescribe, order, recommend, or approve a service 
 
 (vi) Preadmission authorization was available but not requested, or concurrent review requirements were not followed.
 
-[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 27927, May 12, 2020, paragraph (g)(52) was revised, effective May 12, 2020. The amendment is in effect until the expiration of Proclamation 9994 of Mar. 13, 2020, published at 85 FR 15337, Mar. 18, 2020.
-
-At 85 FR 54923, Sept. 3, 2020, § 199.4 was amended by amending paragraph (b)(3)(xiv) introductory text and amending paragraph (g)(15)(i)(A), effective Sept. 13, 2020. The amendment is in effect through either the end of the President's national emergency Proclamation 9994 published at 85 FR 15337, Mar. 18, 2020, or the end of the declared public health emergency, including any extensions.
+[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

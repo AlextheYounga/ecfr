@@ -1,6 +1,6 @@
 ##### § 3.32 General risk weights. #####
 
-(a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a national bank or Federal savings association must assign a zero percent risk weight to:
+(a) *Sovereign exposures*—(1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a national bank or Federal savings association must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and
 
@@ -11,8 +11,6 @@
 (iii) A national bank or Federal savings association must assign a zero percent risk weight to a Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)).
 
 (2) *Other sovereign exposures.* In accordance with Table 1 to § 3.32, a national bank or Federal savings association must assign a risk weight to a sovereign exposure based on the CRC applicable to the sovereign or the sovereign's OECD membership status if there is no CRC applicable to the sovereign.
-
-Table 1 to § 3.32 - Risk Weights for Sovereign Exposures
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -46,11 +44,9 @@ Table 1 to § 3.32 - Risk Weights for Sovereign Exposures
 
 (2) A national bank or Federal savings association must assign a 100 percent risk weight to preferred stock issued by a GSE.
 
-(d) *Exposures to depository institutions, foreign banks, and credit unions* - (1) *Exposures to U.S. depository institutions and credit unions.* A national bank or Federal savings association must assign a 20 percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided under paragraph (d)(3) of this section.
+(d) *Exposures to depository institutions, foreign banks, and credit unions*—(1) *Exposures to U.S. depository institutions and credit unions.* A national bank or Federal savings association must assign a 20 percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided under paragraph (d)(3) of this section.
 
 (2) *Exposures to foreign banks.* (i) Except as otherwise provided under paragraphs (d)(2)(iii), (d)(2)(v), and (d)(3) of this section, a national bank or Federal savings association must assign a risk weight to an exposure to a foreign bank, in accordance with Table 2 to § 3.32, based on the CRC that corresponds to the foreign bank's home country or the OECD membership status of the foreign bank's home country if there is no CRC applicable to the foreign bank's home country.
-
-Table 2 to § 3.32 - Risk Weights for Exposures to Foreign Banks
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -81,7 +77,7 @@ Table 2 to § 3.32 - Risk Weights for Exposures to Foreign Banks
 
 (iv) Subject to a 150 percent risk weight under paragraph (d)(2)(iv) or Table 2 of paragraph (d)(2) of this section.
 
-(e) *Exposures to public sector entities (PSEs)* - (1) *Exposures to U.S. PSEs.* (i) A national bank or Federal savings association must assign a 20 percent risk weight to a general obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
+(e) *Exposures to public sector entities (PSEs)*—(1) *Exposures to U.S. PSEs.* (i) A national bank or Federal savings association must assign a 20 percent risk weight to a general obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
 
 (ii) A national bank or Federal savings association must assign a 50 percent risk weight to a revenue obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
 
@@ -95,8 +91,6 @@ Table 2 to § 3.32 - Risk Weights for Exposures to Foreign Banks
 
 (ii) The risk weight is not lower than the risk weight that corresponds to the PSE's home country in accordance with Table 1 to § 3.32.
 
-Table 3 to § 3.32 - Risk Weights for Non-U.S. PSE General Obligations
-
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
 |           CRC:            |                              |
@@ -107,8 +101,6 @@ Table 3 to § 3.32 - Risk Weights for Non-U.S. PSE General Obligations
 |  OECD Member with No CRC  |              20              |
 |Non-OECD Member with No CRC|             100              |
 |     Sovereign Default     |             150              |
-
-Table 4 to § 3.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -128,7 +120,7 @@ Table 4 to § 3.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (6) A national bank or Federal savings association must assign a 150 percent risk weight to a PSE exposure immediately upon determining that an event of sovereign default has occurred in a PSE's home country or if an event of sovereign default has occurred in the PSE's home country during the previous five years.
 
-(f) *Corporate exposures.* (1) A national bank or Federal savings association must assign a 100 percent risk weight to all its corporate exposures, except as provided in paragraph (f)(2) of this section.
+(f) *Corporate exposures.* (1) A national bank or Federal savings association must assign a 100 percent risk weight to all its corporate exposures, except as provided in paragraphs (f)(2) and (f)(3) of this section.
 
 (2) A national bank or Federal savings association must assign a 2 percent risk weight to an exposure to a QCCP arising from the national bank or Federal savings association posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 3.35(b)(3)(i)(A) and a 4 percent risk weight to an exposure to a QCCP arising from the national bank or Federal savings association posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 3.35(b)(3)(i)(B).
 
@@ -184,4 +176,4 @@ Table 4 to § 3.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (ii) The risks associated with the asset are substantially similar to the risks of assets that are otherwise assigned to a risk weight category of less than 100 percent under this subpart.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35254, July 22, 2019; 85 FR 4402, Jan. 24, 2020; 85 FR 20393, Apr. 13, 2020]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35254, July 22, 2019; 85 FR 4402, Jan. 24, 2020; 85 FR 20393, Apr. 13, 2020; 85 FR 57959, Sept. 17, 2020]

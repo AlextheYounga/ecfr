@@ -8,7 +8,7 @@
 
 (2) An FDIC-supervised institution may use any approach described in this section that is valid for a particular type of exposure or transaction; however, it must use the same approach for similar exposures or transactions.
 
-(b) *The simple approach* - (1) *General requirements.* (i) An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures any exposure.
+(b) *The simple approach*—(1) *General requirements.* (i) An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures any exposure.
 
 (ii) To qualify for the simple approach, the financial collateral must meet the following requirements:
 
@@ -34,13 +34,13 @@
 
 (B) The financial collateral is an exposure to a sovereign that qualifies for a zero percent risk weight under § 324.32, and the FDIC-supervised institution has discounted the fair value of the collateral by 20 percent.
 
-(c) *Collateral haircut approach* - (1) *General.* An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures an eligible margin loan, repo-style transaction, collateralized derivative contract, or single-product netting set of such transactions, and of any collateral that secures a repo-style transaction that is included in the FDIC-supervised institution's VaR-based measure under subpart F of this part by using the collateral haircut approach in this section. An FDIC-supervised institution may use the standard supervisory haircuts in paragraph (c)(3) of this section or, with prior written approval of the FDIC, its own estimates of haircuts according to paragraph (c)(4) of this section.
+(c) *Collateral haircut approach*—(1) *General.* An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures an eligible margin loan, repo-style transaction, collateralized derivative contract, or single-product netting set of such transactions, and of any collateral that secures a repo-style transaction that is included in the FDIC-supervised institution's VaR-based measure under subpart F of this part by using the collateral haircut approach in this section. An FDIC-supervised institution may use the standard supervisory haircuts in paragraph (c)(3) of this section or, with prior written approval of the FDIC, its own estimates of haircuts according to paragraph (c)(4) of this section.
 
 (2) *Exposure amount equation.* An FDIC-supervised institution must determine the exposure amount for an eligible margin loan, repo-style transaction, collateralized derivative contract, or a single-product netting set of such transactions by setting the exposure amount equal to max {0, [(∑E − ∑C) + ∑(Es × Hs) + ∑(Efx × Hfx)]}, where:
 
 (i)(A) For eligible margin loans and repo-style transactions and netting sets thereof, ∑E equals the value of the exposure (the sum of the current fair values of all instruments, gold, and cash the FDIC-supervised institution has lent, sold subject to repurchase, or posted as collateral to the counterparty under the transaction (or netting set)); and
 
-(B) For collateralized derivative contracts and netting sets thereof, ∑E equals the exposure amount of the OTC derivative contract (or netting set) calculated under § 324.34 (a)(1) or (2).
+(B) For collateralized derivative contracts and netting sets thereof, ∑E equals the exposure amount of the OTC derivative contract (or netting set) calculated under § 324.34(b)(1) or (2).
 
 (ii) ∑C equals the value of the collateral (the sum of the current fair values of all instruments, gold and cash the FDIC-supervised institution has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction (or netting set));
 
@@ -54,24 +54,20 @@
 
 (3) *Standard supervisory haircuts.* (i) An FDIC-supervised institution must use the haircuts for market price volatility (Hs) provided in Table 1 to § 324.37, as adjusted in certain circumstances in accordance with the requirements of paragraphs (c)(3)(iii) and (iv) of this section.
 
-Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup>1</sup>
-
-|                                Residual maturity                                |                Haircut (in percent) assigned based on:                 |Investment grade securitization  <br/>exposures  <br/>(in percent)|    |   |    |    |    |
-|---------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|----|---|----|----|----|
-|Sovereign issuers risk weight  <br/>under § 324.32  <br/>(in percent)<sup>2</sup>|  Non-sovereign issuers risk weight under § 324.32  <br/>(in percent)   |                                                                  |    |   |    |    |    |
-|                                      Zero                                       |                                20 or 50                                |                               100                                | 20 |   |    |    |    |
-|                          Less than or equal to 1 year                           |                                  0.5                                   |                               1.0                                |15.0|1.0|2.0 |4.0 |4.0 |
-|              Greater than 1 year and less than or equal to 5 years              |                                  2.0                                   |                               3.0                                |15.0|4.0|6.0 |8.0 |12.0|
-|                              Greater than 5 years                               |                                  4.0                                   |                               6.0                                |15.0|8.0|12.0|16.0|24.0|
-|           Main index equities (including convertible bonds) and gold            |                                  15.0                                  |                                                                  |    |   |    |    |    |
-|          Other publicly traded equities (including convertible bonds)           |                                  25.0                                  |                                                                  |    |   |    |    |    |
-|                                  Mutual funds                                   |Highest haircut applicable to any security in which the fund can invest.|                                                                  |    |   |    |    |    |
-|                              Cash collateral held                               |                                  Zero                                  |                                                                  |    |   |    |    |    |
-|                              Other exposure types                               |                                  25.0                                  |                                                                  |    |   |    |    |    |
-
-<sup>1</sup> The market price volatility haircuts in Table 1 to § 324.37 are based on a 10 business-day holding period.
-
-<sup>2</sup> Includes a foreign PSE that receives a zero percent risk weight.
+|                                                   Residual maturity                                                   |                Haircut (in percent) assigned based on:                 |Investment grade securitization  <br/>exposures  <br/>(in percent)|    |   |    |    |    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|----|---|----|----|----|
+|                  Sovereign issuers risk weight  <br/>under § 324.32  <br/>(in percent) <sup>2</sup>                   |  Non-sovereign issuers risk weight under § 324.32  <br/>(in percent)   |                                                                  |    |   |    |    |    |
+|                                                         Zero                                                          |                                20 or 50                                |                               100                                | 20 |   |    |    |    |
+|                                             Less than or equal to 1 year                                              |                                  0.5                                   |                               1.0                                |15.0|1.0|2.0 |4.0 |4.0 |
+|                                 Greater than 1 year and less than or equal to 5 years                                 |                                  2.0                                   |                               3.0                                |15.0|4.0|6.0 |8.0 |12.0|
+|                                                 Greater than 5 years                                                  |                                  4.0                                   |                               6.0                                |15.0|8.0|12.0|16.0|24.0|
+|                              Main index equities (including convertible bonds) and gold                               |                                  15.0                                  |                                                                  |    |   |    |    |    |
+|                             Other publicly traded equities (including convertible bonds)                              |                                  25.0                                  |                                                                  |    |   |    |    |    |
+|                                                     Mutual funds                                                      |Highest haircut applicable to any security in which the fund can invest.|                                                                  |    |   |    |    |    |
+|                                                 Cash collateral held                                                  |                                  Zero                                  |                                                                  |    |   |    |    |    |
+|                                                 Other exposure types                                                  |                                  25.0                                  |                                                                  |    |   |    |    |    |
+|<sup>1</sup> The market price volatility haircuts in Table 1 to § 324.37 are based on a 10 business-day holding period.|                                                                        |                                                                  |    |   |    |    |    |
+|                     <sup>2</sup> Includes a foreign PSE that receives a zero percent risk weight.                     |                                                                        |                                                                  |    |   |    |    |    |
 
 (ii) For currency mismatches, an FDIC-supervised institution must use a haircut for foreign exchange rate volatility (Hfx) of 8.0 percent, as adjusted in certain circumstances under paragraphs (c)(3)(iii) and (iv) of this section.
 
@@ -119,4 +115,4 @@ Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (v) An FDIC-supervised institution's own estimates of market price and foreign exchange rate volatilities may not take into account the correlations among securities and foreign exchange rates on either the exposure or collateral side of a transaction (or netting set) or the correlations among securities and foreign exchange rates between the exposure and collateral sides of the transaction (or netting set).
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019; 85 FR 4433, Jan. 24, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019; 85 FR 4433, Jan. 24, 2020; 85 FR 57963, Sept. 17, 2020]

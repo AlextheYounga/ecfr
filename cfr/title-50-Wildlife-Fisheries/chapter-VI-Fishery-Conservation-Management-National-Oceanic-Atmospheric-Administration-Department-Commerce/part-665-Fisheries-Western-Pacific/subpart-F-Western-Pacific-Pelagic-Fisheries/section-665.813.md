@@ -2,13 +2,27 @@
 
 (a) [Reserved]
 
-(b) *Limits on sea turtle interactions.* (1) Maximum annual limits are established on the number of physical interactions that occur each calendar year between leatherback and North Pacific loggerhead sea turtles and vessels registered for use under Hawaii longline limited access permits while shallow-set fishing. The annual limit for leatherback sea turtles (*Dermochelys coriacea*) is 26, and the annual limit for North Pacific loggerhead sea turtles (*Caretta caretta*) is 17.
+(b) *Limits on sea turtle interactions in the shallow-set longline fishery* - (1) *Fleet Limits.* There are limits on the maximum number of allowable physical interactions that occur each year between leatherback sea turtles and vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing.
 
-(2) Upon determination by the Regional Administrator that, based on data from NMFS observers, the fishery has reached either of the two sea turtle interaction limits during a given calendar year:
+(i) The annual fleet limit for leatherback sea turtles (*Dermochelys coriacea*) is 16.
 
-(i) As soon as practicable, the Regional Administrator will file for publication at the Office of the Federal Register a notification that the fishery reached a sea turtle interaction limit. The notification will include an advisement that the shallow-set longline fishery shall be closed, and that shallow-set longline fishing north of the Equator by vessels registered for use under Hawaii longline limited access permits will be prohibited beginning at a specified date until the end of the calendar year in which the sea turtle interaction limit was reached. Coincidental with the filing of the notification, the Regional Administrator will also provide actual notice that the shallow-set longline fishery shall be closed, and that shallow-set longline fishing north of the Equator by vessels registered for use under Hawaii longline limited access permits will be prohibited beginning at a specified date, to all holders of Hawaii longline limited access permits via telephone, satellite telephone, radio, electronic mail, facsimile transmission, or post.
+(ii) Upon determination by the Regional Administrator that the shallow-set fleet has reached the limit during a given calendar year, the Regional Administrator will, as soon as practicable, file for publication at the Office of the Federal Register a notification that the fleet reached the limit, and that shallow-set fishing north of the Equator will be prohibited beginning at a specified date until the end of the calendar year in which the limit was reached.
 
-(ii) Beginning on the fishery closure date indicated by the Regional Administrator in the notification provided to vessel operators and permit holders and published in the Federal Register under paragraph (b)(2)(i) of this section, until the end of the calendar year in which the sea turtle interaction limit was reached, the Hawaii-based shallow-set longline fishery shall be closed.
+(2) *Trip limits.* There are limits on the maximum number of allowable physical interactions that occur during a single fishing trip between leatherback and North Pacific loggerhead sea turtles and individual vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing. For purposes of this section, a shallow-set fishing trip commences when a vessel departs port, and ends when the vessel returns to port, regardless of whether fish are landed. For purposes of this section, a calendar year is the year in which a vessel reaches a trip limit.
+
+(i) The trip limit for leatherback sea turtles is 2, and the trip limit for North Pacific loggerhead sea turtles (*Caretta caretta*) is 5.
+
+(ii) Upon determination by the Regional Administrator that a vessel has reached either sea turtle limit during a single fishing trip, the Regional Administrator will notify the permit holder and the vessel operator that the vessel has reached a trip limit, and that the vessel is required to immediately retrieve all fishing gear and stop fishing.
+
+(iii) Upon notification, the vessel operator shall immediately retrieve all fishing gear, stop fishing, and return to port.
+
+(iv) A vessel that reaches a trip limit for either turtle species during a calendar year shall be prohibited from engaging in shallow-set fishing during the 5 days immediately following the vessel's return to port.
+
+(v) A vessel that reaches a trip limit a second time during a calendar year, for the same turtle species as the first instance, shall be prohibited from engaging in shallow-set fishing for the remainder of that calendar year. Additionally, in the subsequent calendar year, that vessel shall be limited to an annual interaction limit for that species, either 2 leatherback or 5 North Pacific loggerhead sea turtles. If that subsequent annual interaction limit is reached, that vessel shall be prohibited from engaging in shallow-set fishing for the remainder of that calendar year.
+
+(vi) Upon determination by the Regional Administrator that a vessel has reached an annual interaction limit, the Regional Administrator will notify the permit holder and the vessel operator that the vessel has reached the limit, and that the vessel is required to immediately stop fishing and return to port.
+
+(vii) Upon notification, the vessel operator shall immediately retrieve all fishing gear, stop fishing, and return to port.
 
 (c) [Reserved]
 
@@ -22,7 +36,7 @@
 
 (h) Owners and operators of vessels registered for use under a Hawaii longline limited access permit may make sets only of the type (shallow-setting or deep-setting) indicated in the notification to NMFS pursuant to § 665.803(a).
 
-(i) Vessels registered for use under Hawaii longline limited access permits may not be used to engage in shallow-setting north of the Equator (0° lat.) any time during which the shallow-set component of the longline fishery is closed pursuant to paragraph (b)(2)(ii) of this section.
+(i) A vessel registered for use under a Hawaii longline limited access permit may not be used to engage in shallow-setting north of the Equator any time during which shallow-set fishing is prohibited pursuant to paragraphs (b)(1) or (2) of this section.
 
 (j) *Swordfish limits.* When fishing north of the Equator (0° lat.), owners and operators of vessels registered for use under a Hawaii longline limited access permit, on a trip for which the permit holder notified NMFS under § 665.803(a) that the vessel would deep-set, may possess or land no more than the following number of swordfish for such trip:
 
@@ -44,4 +58,4 @@
 
 (5) No more than 10 swordfish may be possessed or landed during a single fishing trip.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018; 85 FR 57997, Sept. 17, 2020]

@@ -252,9 +252,11 @@
 
 (ii) For Group B TRICARE Select enrollees, the enrollment fee, annual deductible for services received while in an outpatient status, catastrophic cap., and cost sharing amounts are as provided in 10 U.S.C. 1075 and as consistent with this section. The cost sharing requirements applicable to services not specifically addressed in 10 U.S.C. 1075 shall be determined by the Director, DHA.
 
-(3) *Special cost-sharing rules.* (A) There is no separate cost-sharing applicable to ancillary health care services obtained in conjunction with an outpatient primary or specialty care visit under TRICARE Prime or from network providers under TRICARE Select.
+(3) *Special cost-sharing rules.* (i) There is no separate cost-sharing applicable to ancillary health care services obtained in conjunction with an outpatient primary or specialty care visit under TRICARE Prime or from network providers under TRICARE Select.
 
-(B) Cost-sharing for maternity care services shall be determined in accordance with § 199.4(e)(16).
+(ii) Cost-sharing for maternity care services shall be determined in accordance with § 199.4(e)(16).
+
+(iii) Cost-sharing and copayments (including deductibles) shall be waived for in-network telehealth services during the national emergency for the global coronavirus 2019 (COVID-19) pandemic.
 
 (4) *Special transition rule for the last quarter of calendar year 2017.* In order to transition enrollment fees, deductibles, and catastrophic caps from a fiscal year basis to a calendar year basis, the following special rules apply for the last quarter of calendar year 2017:
 
@@ -423,4 +425,4 @@
 
 (w) *Administrative procedures.* The Assistant Secretary of Defense (Health Affairs), the Director, and MTF Commanders (or other authorized officials) are authorized to establish administrative requirements and procedures, consistent with this section, this part, and other applicable DoD Directives or Instructions, for the implementation and operation of the TRICARE program.
 
-[82 FR 45448, Sept. 29, 2017, as amended at 84 FR 4333, Feb. 15, 2019]
+[82 FR 45448, Sept. 29, 2017, as amended at 84 FR 4333, Feb. 15, 2019; 85 FR 27927, May 12, 2020]

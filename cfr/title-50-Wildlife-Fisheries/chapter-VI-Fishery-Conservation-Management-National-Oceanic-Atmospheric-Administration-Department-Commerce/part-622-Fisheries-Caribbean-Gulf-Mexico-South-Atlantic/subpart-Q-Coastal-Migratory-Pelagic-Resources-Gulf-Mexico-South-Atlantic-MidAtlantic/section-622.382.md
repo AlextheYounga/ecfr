@@ -8,6 +8,8 @@ Section 622.11(a) provides the general applicability for bag and possession limi
 
 (B) Off Florida - 2, which is the daily bag limit specified by Florida for its waters (Rule 68B-12.004(1), Florida Administrative Code, in effect as of July 15, 1996 (incorporated by reference, see § 622.413). If Florida changes its limit, the bag limit specified in this paragraph (a)(1)(i)(B) will be changed to conform to Florida's limit, provided such limit does not exceed 5.
 
+(C) Mid-Atlantic, South Atlantic, and off Florida - 4.
+
 (ii) Gulf migratory group king mackerel - 3.
 
 (iii) Atlantic migratory group Spanish mackerel - 15.
@@ -20,4 +22,4 @@ Section 622.11(a) provides the general applicability for bag and possession limi
 
 (b) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 17397, Apr. 11, 2017; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 17397, Apr. 11, 2017; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019]Effective Date Note:At 85 FR 57985, Sept. 17, 2020, § 622.328 was amended by suspending paragraphs (a)(1)(i)(A) and (B), and adding paragraph (a)(1)(i)(C), effective Sept. 17, 2020 through Mar. 16, 2021.
