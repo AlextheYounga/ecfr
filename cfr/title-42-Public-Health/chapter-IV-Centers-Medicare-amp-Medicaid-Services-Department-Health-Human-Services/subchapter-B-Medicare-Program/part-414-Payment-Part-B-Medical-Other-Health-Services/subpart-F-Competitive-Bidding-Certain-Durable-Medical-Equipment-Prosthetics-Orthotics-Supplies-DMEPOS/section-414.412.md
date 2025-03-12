@@ -1,5 +1,7 @@
 ##### § 414.412 Submission of bids under a competitive bidding program. #####
 
+Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
+
 (a) *Requirement to submit a bid.* Except as provided under § 414.404(b), in order for a supplier to receive payment for items furnished to beneficiaries under a competitive bidding program, the supplier must submit a bid to furnish those items and be awarded a contract under this subpart.
 
 (b) *Grouping of items into product categories.* (1) Bids are submitted for items grouped into product categories.

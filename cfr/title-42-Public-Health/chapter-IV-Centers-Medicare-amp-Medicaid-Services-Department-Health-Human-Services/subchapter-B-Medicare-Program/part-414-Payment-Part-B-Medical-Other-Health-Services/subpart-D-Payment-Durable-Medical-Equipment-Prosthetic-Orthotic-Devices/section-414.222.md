@@ -1,5 +1,7 @@
 ##### § 414.222 Items requiring frequent and substantial servicing. #####
 
+Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
+
 (a) *Definition.* Items requiring frequent and substantial servicing in order to avoid risk to the beneficiary's health are the following:
 
 (1) Ventilators (except those that are either continuous airway pressure devices or respiratory assist devices with bi-level pressure capability with or without a backup rate, previously referred to as “intermittent assist devices with continuous airway pressure devices”).

@@ -1,5 +1,7 @@
 ##### § 414.416 Determination of competitive bidding payment amounts. #####
 
+Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
+
 (a) *General rule.* CMS establishes a single payment amount for each item furnished under a competitive bidding program.
 
 (b) *Methodology for setting payment amount.* (1) The single payment amount for an item furnished under a competitive bidding program is equal to the median of the bids submitted for that item by suppliers whose composite bids for the product category that includes the item are equal to or below the pivotal bid for that product category. If there is an even number of bids, the single payment amount for the item is equal to the average of the two middle bids.

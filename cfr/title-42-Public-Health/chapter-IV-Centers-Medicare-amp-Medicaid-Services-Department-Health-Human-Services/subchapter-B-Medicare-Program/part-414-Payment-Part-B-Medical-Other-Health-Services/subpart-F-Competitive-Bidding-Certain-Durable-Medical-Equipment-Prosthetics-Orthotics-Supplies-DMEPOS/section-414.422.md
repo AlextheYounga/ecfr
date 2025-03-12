@@ -1,5 +1,7 @@
 ##### § 414.422 Terms of contracts. #####
 
+Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
+
 (a) *Basic rule.* CMS specifies the terms and conditions of the contracts entered into with contract suppliers under this subpart. A contract supplier must comply with all terms of its contract, including any option exercised by CMS, for the full duration of the contract period.
 
 (b) *Recompeting competitive bidding contracts.* CMS recompetes competitive bidding contracts at least once every 3 years.

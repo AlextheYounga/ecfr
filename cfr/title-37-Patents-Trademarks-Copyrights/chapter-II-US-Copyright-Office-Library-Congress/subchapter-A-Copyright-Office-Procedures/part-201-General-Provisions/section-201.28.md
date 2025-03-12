@@ -1,7 +1,5 @@
 ##### § 201.28 Statements of Account for digital audio recording devices or media. #####
 
-Link to an amendment published at 83 FR 51841, October 15, 2018.
-
 (a) *General.* This section prescribes rules pertaining to the filing of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 1003(c) and 1004, in order to import and distribute, or manufacture and distribute, in the United States any digital audio recording device or digital audio recording medium.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -130,7 +128,7 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (g) *Copies of statements of account.* A licensee shall file an original and one copy of the statement of account with the Licensing Division of the Copyright Office.
 
-(h) *Royalty fee payment.* (1) All royalty fees must be paid by a single electronic funds transfer, and must be received in the designated bank by the filing deadline for the relevant accounting period. The following information must be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
+(h) *Royalty fee payment.* (1) All royalty fees must be paid by electronic funds transfer, and must be received in the designated bank by the filing deadline for the relevant accounting period. The following information must be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
 
 (i) Remitter's name and address;
 
@@ -194,4 +192,4 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (m) *Confidentiality of Statements of Account.* Public access to the Copyright Office files of Statements of Account for digital audio recording products shall not be provided. Access will only be granted to interested copyright parties in accordance with regulations prescribed by the Register of Copyrights pursuant to 17 U.S.C. 1003(c).
 
-[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017]
+[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018]

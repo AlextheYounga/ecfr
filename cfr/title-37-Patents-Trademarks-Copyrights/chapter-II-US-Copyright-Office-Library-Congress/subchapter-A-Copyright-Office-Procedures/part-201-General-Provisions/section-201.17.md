@@ -1,7 +1,5 @@
 ##### § 201.17 Statements of Account covering compulsory licenses for secondary transmissions by cable systems. #####
 
-Link to an amendment published at 83 FR 51841, October 15, 2018.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 111(d)(1) in order for secondary transmissions of cable systems to be subject to compulsory licensing.
 
 (b) *Definitions.* (1) *Gross receipts* for the “basic service of providing secondary transmissions of primary broadcast transmitters” include the full amount of monthly (or other periodic) service fees for any and all services or tiers of services which include one or more secondary transmissions of television or radio broadcast signals, for additional set fees, and for converter fees. In no case shall gross receipts be less than the cost of obtaining the signals of primary broadcast transmitters for subsequent retransmission. All such gross receipts shall be aggregated and the distant signal equivalent (DSE) calculations shall be made against the aggregated amount. Gross receipts for secondary transmission services do not include installation (including connection, relocation, disconnection, or reconnection) fees, separate charges for security, alarm or facsimile services, charges for late payments, or charges for pay cable or other program origination services: *Provided* That, the origination services are not offered in combination with secondary transmission service for a single fee.
@@ -281,7 +279,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (4) Multicast streams of digital broadcast programming shall not be subject to the 3.75% fee or the syndicated exclusivity surcharge.
 
-(k) *Royalty fee payment.* (1) All royalty fees must be paid by a single electronic funds transfer, and must be received in the designated bank by the filing deadline for the relevant accounting period. The following information must be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
+(k) *Royalty fee payment.* (1) All royalty fees must be paid by electronic funds transfer, and must be received in the designated bank by the filing deadline for the relevant accounting period. The following information must be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
 
 (i) Remitter's name and address;
 

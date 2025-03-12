@@ -1,5 +1,7 @@
 ##### § 414.210 General payment rules. #####
 
+Link to an amendment published at 83 FR 57070, Nov. 14, 2018.
+
 (a) *General rule.* For items furnished on or after January 1, 1989, except as provided in paragraphs (c), (d), and (g) of this section, Medicare pays for durable medical equipment, prosthetics and orthotics, including a separate payment for maintenance and servicing of the items as described in paragraph (e) of this section, on the basis of 80 percent of the lesser of -
 
 (1) The actual charge for the item;

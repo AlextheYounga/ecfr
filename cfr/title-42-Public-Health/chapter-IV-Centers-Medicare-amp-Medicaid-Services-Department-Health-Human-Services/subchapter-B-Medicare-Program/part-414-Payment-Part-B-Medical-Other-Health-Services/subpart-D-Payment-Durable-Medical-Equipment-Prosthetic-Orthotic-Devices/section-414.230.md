@@ -1,5 +1,7 @@
 ##### § 414.230 Determining a period of continuous use. #####
 
+Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
+
 (a) *Scope.* This section sets forth the rules that apply in determining a period of continuous use for rental of durable medical equipment.
 
 (b) *Continuous use.* (1) A period of continuous use begins with the first month of medical need and lasts until a beneficiary's medical need for a particular item of durable medical equipment ends.

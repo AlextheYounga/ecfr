@@ -1,5 +1,7 @@
 ##### § 414.226 Oxygen and oxygen equipment. #####
 
+Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
+
 (a) *Payment rules* - (1) *Oxygen equipment.* Payment for rental of oxygen equipment is made based on a monthly fee schedule amount during the period of medical need, but for no longer than a period of continuous use of 36 months. A period of continuous use is determined under the provisions in § 414.230.
 
 (2) *Oxygen contents.* Payment for purchase of oxygen contents is made based on a monthly fee schedule amount until medical necessity ends.

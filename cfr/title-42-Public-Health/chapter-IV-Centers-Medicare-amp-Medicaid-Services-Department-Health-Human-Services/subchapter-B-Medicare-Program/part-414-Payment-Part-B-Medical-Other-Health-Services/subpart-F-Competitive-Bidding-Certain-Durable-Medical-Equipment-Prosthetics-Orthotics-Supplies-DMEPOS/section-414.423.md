@@ -1,5 +1,7 @@
 ##### § 414.423 Appeals process for breach of a DMEPOS competitive bidding program contract actions. #####
 
+Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
+
 This section implements an appeals process for suppliers that CMS has determined are in breach of their Medicare DMEPOS Competitive Bidding Program contract and where CMS has issued a notice of breach of contract indicating its intent to take action(s) pursuant to § 414.422(g)(2).
 
 (a) *Breach of contract.* CMS may take one or more of the actions specified in § 414.422(g)(2) as a result of a supplier's breach of their DMEPOS Competitive Bidding Program contract.

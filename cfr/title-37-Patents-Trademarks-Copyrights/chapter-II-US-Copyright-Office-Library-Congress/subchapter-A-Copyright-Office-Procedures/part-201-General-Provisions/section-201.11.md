@@ -1,7 +1,5 @@
 ##### § 201.11 Satellite carrier statements of account covering statutory licenses for secondary transmissions. #####
 
-Link to an amendment published at 83 FR 51841, October 15, 2018.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by the satellite carrier license of 17 U.S.C. 119(b)(1), as amended by Public Law 111-175, in order for certain secondary transmissions by satellite carriers for private home viewing to be subject to statutory licensing.
 
 (b) *Definitions.* (1) The terms *distributor*, *network station*, *private home viewing*, *satellite carrier*, *subscribe*, *subscriber*, *non-network station*, *unserved household*, *primary stream*, and *multicast stream*, have the meanings set forth in 17 U.S.C. 119(d), as amended by Public Law 111-175.
@@ -74,7 +72,7 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (18 U.S.C., section 1001 (1986))
 
-(f) *Royalty fee payment.* (1) All royalty fees shall be paid by a single electronic funds transfer and payment must be received in the designated bank by the filing deadline for the relevant accounting period. The following information shall be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
+(f) *Royalty fee payment.* (1) All royalty fees shall be paid by electronic funds transfer and payment must be received in the designated bank by the filing deadline for the relevant accounting period. The following information shall be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
 
 (i) Remitter's name and address;
 
@@ -138,4 +136,4 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (3) Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
 
-[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017]
+[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018]
