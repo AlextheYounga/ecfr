@@ -1,5 +1,7 @@
 ##### 44.305-3 Withholding or withdrawing approval. #####
 
+Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
+
 (a) The ACO shall withhold or withdraw approval of a contractor's purchasing system when there are major weaknesses or when the contractor is unable to provide sufficient information upon which to make an affirmative determination. The ACO may withdraw approval at any time on the basis of a determination that there has been a deterioration of the contractor's purchasing system or to protect the Government's interest. Approval shall be withheld or withdrawn when there is a recurring noncompliance with requirements, including but not limited to -
 
 (1) Certified cost or pricing data (see 15.403);

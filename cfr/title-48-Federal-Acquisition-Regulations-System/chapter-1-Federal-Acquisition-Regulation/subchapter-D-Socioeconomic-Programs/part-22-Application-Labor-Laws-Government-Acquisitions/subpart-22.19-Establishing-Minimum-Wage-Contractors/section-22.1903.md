@@ -1,5 +1,7 @@
 ##### 22.1903 Applicability. #####
 
+Link to an amendment published at 85 FR 67628, Oct. 23, 2020.
+
 (a) This subpart applies to contracts covered by the Service Contract Labor Standards statute (41 U.S.C. chapter 67, formerly known as the Service Contract Act, subpart 22.10), or the Wage Rate Requirements (Construction) statute (40 U.S.C. chapter 31, Subchapter IV, formerly known as the Davis Bacon Act, subpart 22.4), that require performance in whole or in part within the United States (the 50 states and the District of Columbia). When performance is in part within and in part outside the United States, this subpart applies to the part of the contract that is performed within the United States.
 
 (b)(1) This subpart applies to workers as defined at 22.1901. As provided in that definition -

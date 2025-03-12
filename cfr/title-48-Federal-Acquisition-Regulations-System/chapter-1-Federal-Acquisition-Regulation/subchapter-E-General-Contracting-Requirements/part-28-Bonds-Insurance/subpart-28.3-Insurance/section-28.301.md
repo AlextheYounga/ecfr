@@ -1,5 +1,7 @@
 ##### 28.301 Policy. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 Contractors shall carry insurance under the following circumstances:
 
 (a)(1) The Government requires any contractor subject to Cost Accounting Standard (CAS) 416 (48 CFR 9004.416 (appendix B, FAR loose-leaf edition)) to obtain insurance, by purchase or self-coverage, for the perils to which the contractor is exposed, except when (i) the Government, by providing in the contract in accordance with law, agrees to indemnify the contractor under specified circumstances or (ii) the contract specifically relieves the contractor of liability for loss of or damage to Government property.

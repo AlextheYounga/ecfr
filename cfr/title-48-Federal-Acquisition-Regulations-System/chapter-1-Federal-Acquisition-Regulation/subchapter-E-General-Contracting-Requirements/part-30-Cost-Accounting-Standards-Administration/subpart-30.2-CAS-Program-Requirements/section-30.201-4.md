@@ -1,5 +1,7 @@
 ##### 30.201-4 Contract clauses. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) *Cost Accounting Standards.* (1) The contracting officer shall insert the clause at FAR 52.230-2, Cost Accounting Standards, in negotiated contracts, unless the contract is exempted (see 48 CFR 9903.201-1 (FAR appendix)), the contract is subject to modified coverage (see 48 CFR 9903.201-2 (FAR appendix)), or the clause prescribed in paragraph (c) of this subsection is used.
 
 (2) The clause at FAR 52.230-2 requires the contractor to comply with all CAS specified in 48 CFR part 9904 (FAR appendix), to disclose actual cost accounting practices (applicable to CAS-covered contracts only), and to follow disclosed and established cost accounting practices consistently.

@@ -1,4 +1,4 @@
-##### § 633.23 FTA review of PMP. #####
+##### § 633.23 FTA review of a project management plan. #####
 
 Within 60 days of receipt of a project management plan, the Administrator will notify the recipient that:
 

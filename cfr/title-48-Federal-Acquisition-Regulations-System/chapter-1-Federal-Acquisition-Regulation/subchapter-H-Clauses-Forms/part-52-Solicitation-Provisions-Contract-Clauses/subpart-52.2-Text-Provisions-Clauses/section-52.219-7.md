@@ -1,5 +1,7 @@
 ##### 52.219-7 Notice of Partial Small Business Set-Aside. #####
 
+Link to an amendment published at 85 FR 67617, Oct. 23, 2020.
+
 As prescribed in 19.507(d), insert the following clause:
 
 Notice of Partial Small Business Set-Aside (MAR 2020)

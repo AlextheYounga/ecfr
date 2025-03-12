@@ -72,4 +72,4 @@
 
 (v) Other information reasonably requested by the TRS User Registration Database administrator.
 
-[73 FR 41296, July 18, 2008, as amended at 76 FR 59577, Sept. 27, 2011; 82 FR 17764, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 26371, June 6, 2019]Effective Date Note:At 84 FR 26371, June 6, 2019, § 64.613 was amended by revising paragraphs (a)(1),(2),(4) and adding paragraphs (a)(5) and (c). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[73 FR 41296, July 18, 2008, as amended at 76 FR 59577, Sept. 27, 2011; 82 FR 17764, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 26371, June 6, 2019]

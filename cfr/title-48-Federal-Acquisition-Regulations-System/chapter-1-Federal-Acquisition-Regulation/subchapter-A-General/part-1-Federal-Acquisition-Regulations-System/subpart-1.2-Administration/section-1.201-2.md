@@ -1,5 +1,7 @@
 ##### 1.201-2 FAR Secretariat. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) The General Services Administration is responsible for establishing and operating the FAR Secretariat to print, publish, and distribute the FAR through the Code of Federal Regulations system (including a loose-leaf edition with periodic updates).
 
 (b) Additionally, the FAR Secretariat shall provide the two councils with centralized services for -

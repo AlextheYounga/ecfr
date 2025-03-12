@@ -1,5 +1,7 @@
 ##### 19.101 Definitions. #####
 
+Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
+
 As used in this subpart -
 
 *Affiliates* means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.

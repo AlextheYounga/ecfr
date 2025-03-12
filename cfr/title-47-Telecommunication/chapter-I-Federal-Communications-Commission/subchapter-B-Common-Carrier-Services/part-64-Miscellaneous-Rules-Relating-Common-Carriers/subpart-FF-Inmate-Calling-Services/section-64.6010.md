@@ -1,5 +1,7 @@
 ##### § 64.6010 Inmate Calling Services rate caps. #####
 
+Link to an amendment published at 85 FR 67462, Oct. 23, 2020.
+
 (a) No Provider shall charge, in the Jails it serves, a per-minute rate for Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of:
 
 (1) $0.31 in Jails with an ADP of 0-349;

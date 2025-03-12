@@ -1,5 +1,7 @@
-##### § 633.19 Financing the PMO program. #####
+##### § 633.19 Exclusion from the project management oversight program. #####
 
-(a) FTA is authorized to expend up to1/2 of 1 percent of the funds made available each fiscal year under sections 3, 9, or 18 of the FT Act, 23 U.S.C. 103(e)(4), or section 14(b) of the National Capital Transportation Amendments of 1979 (93 Stat. 1320) to contract with any person or entity to provide a project management oversight service in connection with a major capital project as defined in this part.
+The Administrator may, in compelling circumstances, determine that a project meeting the criteria of § 633.5(e)(1) is not a major capital project because project management oversight under this part will not benefit the Federal government or the recipient. Typically, this means a project that:
 
-(b) A contract entered into between FTA and a person or entity for project management oversight services under this part will provide for the payment by FTA of 100 percent of the cost of carrying out the contract.
+(a) Involves a recipient whose past record indicates the appropriateness of excluding the project from project management oversight under this part; and
+
+(b) Involves such a greater level of financial risk to the recipient than to the Federal government that project management oversight under this part is made less necessary to secure the recipient's diligence.

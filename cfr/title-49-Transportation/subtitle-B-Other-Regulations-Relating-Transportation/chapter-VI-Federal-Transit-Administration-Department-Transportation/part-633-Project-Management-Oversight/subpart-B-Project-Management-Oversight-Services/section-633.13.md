@@ -1,3 +1,3 @@
-##### § 633.13 Initiation of PMO services. #####
+##### § 633.13 Initiation of project management oversight services. #####
 
-PMO services will be initiated as soon as it is practicable, once the agency determines this part applies. In most cases, this means that PMO will begin during the preliminary engineering phase of the project. However, consistent with other provisions in this part, the Administrator may determine that a project is a “major capital project” at any point during its implementation. Should this occur, PMO will begin as soon as practicable after this agency determination.
+Project management oversight services will be initiated as soon as practicable, once the Administrator determines that this part applies. In most cases, this means that project management oversight will begin during the project development phase of the project, generally after the locally preferred alternative has been chosen (if applicable), unless the Administrator determines it more appropriate to begin oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.

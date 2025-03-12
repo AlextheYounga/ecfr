@@ -1,5 +1,7 @@
 ##### 15.404-1 Proposal analysis techniques. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) *General.* The objective of proposal analysis is to ensure that the final agreed-to price is fair and reasonable.
 
 (1) The contracting officer is responsible for evaluating the reasonableness of the offered prices. The analytical techniques and procedures described in this section may be used, singly or in combination with others, to ensure that the final price is fair and reasonable. The complexity and circumstances of each acquisition should determine the level of detail of the analysis required.

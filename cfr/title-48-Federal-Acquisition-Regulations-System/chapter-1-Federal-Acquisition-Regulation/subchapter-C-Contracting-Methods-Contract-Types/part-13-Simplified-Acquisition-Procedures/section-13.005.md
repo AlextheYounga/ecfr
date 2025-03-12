@@ -1,5 +1,7 @@
 ##### 13.005 List of laws inapplicable to contracts and subcontracts at or below the simplified acquisition threshold. #####
 
+Link to an amendment published at 85 FR 67622, Oct. 23, 2020.
+
 (a) The following laws are inapplicable to all contracts and subcontracts (if otherwise applicable to subcontracts) at or below the simplified acquisition threshold pursuant to 41 U.S.C. 1905:
 
 (1) 41 U.S.C. 8102(a)(1) (Drug-Free Workplace), except for individuals.

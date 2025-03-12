@@ -1,5 +1,7 @@
 ##### 22.1901 Definition. #####
 
+Link to an amendment published at 85 FR 67627, Oct. 23, 2020.
+
 *Worker,* as used in this subpart, (in accordance with 29 CFR 10.2) -
 
 (1) Means any person engaged in performing work on, or in connection with, a contract covered by Executive Order 13658, and

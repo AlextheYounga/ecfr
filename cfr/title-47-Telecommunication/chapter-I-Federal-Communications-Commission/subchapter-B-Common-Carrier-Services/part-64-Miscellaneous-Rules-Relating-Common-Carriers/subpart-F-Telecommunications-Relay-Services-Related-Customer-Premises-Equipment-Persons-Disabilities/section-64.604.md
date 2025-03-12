@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 85 FR 27313, May 8, 2020.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
@@ -96,7 +94,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (ii) TRS shall have redundancy features functionally equivalent to the equipment in normal central offices, including uninterruptible power for emergency use.
 
-(iii) A VRS CA may not handle VRS calls from a location primarily used as his or her home unless as part of the voluntary at-home VRS call handling pilot program as provided for by paragraph (b)(8) of this section.
+(iii) A VRS provider shall not allow its CAs to handle VRS calls from a home workstation unless so authorized by the Commission.
 
 (iv) A VRS provider leasing or licensing an automatic call distribution (ACD) platform must have a written lease or license agreement. Such lease or license agreement may not include any revenue sharing agreement or compensation based upon minutes of use. In addition, if any such lease is between two eligible VRS providers, the lessee or licensee must locate the ACD platform on its own premises and must utilize its own employees to manage the ACD platform.
 
@@ -106,101 +104,51 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (7) *STS 711 Calls.* An STS provider shall, at a minimum, employ the same means of enabling an STS user to connect to a CA when dialing 711 that the provider uses for all other forms of TRS. When a CA directly answers an incoming 711 call, the CA shall transfer the STS user to an STS CA without requiring the STS user to take any additional steps. When an interactive voice response (IVR) system answers an incoming 711 call, the IVR system shall allow for an STS user to connect directly to an STS CA using the same level of prompts as the IVR system uses for all other forms of TRS.
 
-(8) *Voluntary at-home VRS call handling pilot program.* Any VRS provider that holds a conditional or full certification to receive compensation from the TRS Fund pursuant to § 64.606 as of March 23, 2017 may participate in the voluntary at-home VRS call handling pilot program. The pilot program shall be in effect for one year, for service provided by participants beginning November 1, 2017, and ending October 31, 2018.
+(8) *At-home VRS call handling* - (i) *Limit on minutes handled.* In any calendar month, a VRS provider authorized by the Commission to employ at-home CAs may be compensated for minutes handled from home workstations up to a maximum of the greater of:
 
-(i) *Notification of intent to participate.* A VRS provider seeking to participate in the pilot program shall notify the Commission of its intent to participate on or before September 1, 2017, and shall include in such notification a detailed plan demonstrating that the VRS provider intends to achieve compliance with the mandatory minimum standards applicable to VRS and with the safeguards enumerated in this paragraph (b)(8). Plans submitted by VRS providers shall specify the following:
+(A) Fifty percent (50%) of a VRS provider's total minutes for which compensation is paid in that month; or
 
-(A) A description of the screening process used to select CAs for the at-home call handling program;
+(B) Fifty percent (50%) of the provider's average projected monthly conversation minutes for the calendar year, according to the projections most recently filed with the TRS Fund administrator.
 
-(B) A description of specific training to be provided for at-home CAs;
+(ii) *Personnel safeguards.* A VRS provider shall:
 
-(C) A description of the protocols and CA expectations developed for the at-home call handling program;
+(A) Allow a CA to work at home only if the CA is a qualified interpreter with at least three years of professional interpreting experience, has the experience, skills, and knowledge necessary to effectively interpret VRS calls without in-person supervision, has learned the provider's protocols for at-home call handling, and understands and follows the TRS mandatory minimum standards set out in this section; and
 
-(D) A description of the grounds for dismissing a CA from the at-home program and the process for such termination in the event that the CA fails to adhere to applicable requirements;
+(B) Provide at-home CAs equivalent support to that provided to CAs working from call centers, including, where appropriate, the opportunity to team-interpret and consult with supervisors, and ensure that supervisors are readily available to resolve problems that may arise during a relay call.
 
-(E) A description of all steps that will be taken to install a workstation in a CA's home, including evaluations that will be performed to ensure all workstations are sufficiently secure and equipped to prevent eavesdropping and outside interruptions;
+(iii) *Technical and environmental safeguards.* A VRS provider shall ensure that each home workstation enables the provision of confidential and uninterrupted service to the same extent as the provider's call centers and is seamlessly integrated into the provider's call routing, distribution, tracking, and support systems. Each home workstation shall:
 
-(F) A description of the monitoring technology to be used by the provider to ensure that off-site supervision approximates the level of supervision at the provider's call center;
+(A) Reside in a separate, secure workspace where access during working hours is restricted solely to the CA;
 
-(G) An explanation of how the provider's workstations will connect to the provider's network, including how they will be integrated into the call center routing, distribution, tracking, and support systems, and how the provider will ensure system redundancy in the event of service disruptions in at-home workstations;
+(B) Allow a CA to use all call-handling technology to the same extent as call-center CAs;
 
-(H) A signed certification by an officer of the provider that the provider will conduct random and unannounced inspections of at least five percent (5%) of all at-home workstations during the pilot program; and
+(C) Be capable of supporting VRS in compliance with the applicable mandatory minimum standards set out in this section to the same degree as at call centers;
 
-(I) A commitment to comply with all other safeguards enumerated in this paragraph (b)(8) and the applicable rules in this chapter governing TRS.
+(D) Be equipped with an effective means to prevent eavesdropping and outside interruptions; and
 
-(ii) *Authorization for at-home VRS call handling.* Upon Commission approval of a VRS provider's plan, the provider may conduct at-home VRS call handling during the period of the pilot program. The Commission may cancel such approval if a VRS provider fails to comply with any of the safeguards enumerated in this paragraph (b)(8) or other applicable mandatory minimum TRS standards. VRS providers may be subject to withholding, forfeitures, and penalties for noncompliant minutes handled by at-home workstations, as is the case for non-compliant minutes handled by call centers.
+(E) Be connected to the provider's network over a secure connection to ensure caller privacy.
 
-(iii) *Limit on minutes handled.* In any month of the program, a VRS provider may be compensated for minutes served by at-home CA workstations up to a maximum of *either* thirty percent (30%) of a VRS provider's total minutes for which compensation is paid in that month *or* thirty percent (30%) of the provider's average monthly minutes for the 12 months ending October 31, 2017, whichever is greater.
+(iv) *Monitoring and oversight obligations.* A VRS provider shall:
 
-(iv) *Personnel safeguards.* Before permitting CAs to handle VRS calls from at-home workstations, VRS providers shall:
+(A) Inspect each home workstation and its home environment to confirm their compliance with paragraph (b)(8)(iii) of this section before activating the workstation for use;
 
-(A) Ensure that each CA handling calls from an at-home workstation has the experience, skills, and knowledge necessary to effectively interpret from these workstations, including a thorough understanding of the TRS mandatory minimum standards and at least three years of experience as a call center CA.
+(B) Assign a unique workstation identification number to each VRS home workstation;
 
-(B) Establish protocols for the handling of calls from at-home workstations (to the extent there are additional protocols that differ from those applicable to the provider's call centers) and provide training to at-home CAs on such protocols, in addition to all applicable training that is required of CAs working from call centers.
+(C) Equip each home workstation with monitoring technology sufficient to ensure that off-site supervision approximates the level of supervision at the provider's call center and regularly analyze the records and data produced by such monitoring to proactively address possible waste, fraud, and abuse;
 
-(C) Provide each CA working from an at-home workstation equivalent support to that provided to CAs working from call centers, as needed to effectively handle calls, including, where appropriate, the opportunity to team interpret and consult with supervisors, and ensure that supervisors are readily available to a CA working from home to resolve problems that may arise during a relay call, such as difficulty in understanding a VRS user's signs, the need for added support for emergency calls, and relieving a CA in the event of the CA's sudden illness.
+(D) Keep all records pertaining to home workstations, except records of the content of interpreted conversations, for a minimum of five years; and
 
-(D) Establish grounds for dismissing a CA from the at-home VRS call handling program (*i.e.,* for noncompliance with the standards and safeguards enumerated in this paragraph (b)(8) and the rules governing TRS), including a process for such termination in the event that the CA fails to adhere to these requirements, and provide such grounds and process in writing to each CA participating in the pilot program.
+(E) Conduct random and unannounced inspections of at least five percent (5%) of all home workstations, including their home environments, in each 12-month period.
 
-(E) Obtain from each CA handling calls from an at-home workstation a certification in writing of the CA's understanding of and commitment to complying with the rules in this chapter governing TRS, including rules governing caller confidentiality and fraud prevention, and the CA's understanding of the reasons and process for dismissal from the at-home VRS call handling program.
+(v) *Commission audits and inspections.* Home workstations and workstation records shall be subject to review, audit, and inspection by the Commission and the TRS Fund administrator and unannounced on-site inspections by the Commission to the same extent as call centers and call center records subject to the rules in this chapter.
 
-(v) *Technical and environmental safeguards.* Participating VRS providers shall ensure that each home environment used for at-home VRS call handling enables the provision of confidential and uninterrupted services to the same extent as the provider's call centers and is seamlessly integrated into the provider's call routing, distribution, tracking, and support systems. VRS providers shall ensure that each at-home workstation:
+(vi) *Monthly reports.* With its monthly requests for compensation, a VRS provider employing at-home CAs shall report the following information to the TRS Fund administrator for each home workstation:
 
-(A) Resides in a separate, secure location in the CA's home, where access is restricted solely to the CA;
+(A) The home workstation identification number and full street address (number, street, city, state, and zip code);
 
-(B) Allows a CA to use all call-handling technology to the same extent as other CAs, including the ability to transition a non-emergency call to an emergency call, engage in virtual teaming with another CA, and allow supervisors to communicate with and oversee calls;
+(B) The CA identification number of each individual handling VRS calls from that home workstation; and
 
-(C) Is capable of supporting VRS in compliance with the applicable mandatory minimum technical and emergency call handling standards to the same degree as these are available at call centers, including the ability to route VRS calls around individual CA workstations in the event the CA experiences a network outage or other service interruption;
-
-(D) Is equipped with an effective means to prevent eavesdropping, such as white noise emitters or soundproofing, and to ensure that interruptions from noises outside the room do not adversely affect a CA's ability to interpret a call accurately and effectively; and
-
-(E) Is connected to the provider's network over a secure connection to ensure caller privacy.
-
-(vi) *Monitoring and oversight obligations.* VRS providers shall:
-
-(A) Inspect and approve each at-home workstation before activating a CA's workstation for use;
-
-(B) Assign a unique call center identification number (ID) to each VRS at-home workstation and use this call center ID to identify all minutes handled from each such workstation in its call detail records submitted monthly to the TRS Fund administrator;
-
-(C) Equip each at-home workstation with monitoring technology sufficient to ensure that off-site supervision approximates the level of supervision at the provider's call center, including the ability to monitor both ends of a call, *i.e.,* video and audio, to the same extent as is possible in a call center, and regularly analyze the records and data produced by such monitoring to proactively address possible waste, fraud, and abuse;
-
-(D) Keep all records pertaining to at-home workstations, including the data produced by any at-home workstation monitoring technology, except for any data that records the content of an interpreted conversation, for a minimum of five years; and
-
-(E) Conduct random and unannounced inspections of at least five percent (5%) of all at-home workstations during the pilot program.
-
-(vii) *Commission audits and inspections.* At-home workstations and workstation records shall be subject to review, audit, and inspection by the Commission and the Fund administrator and unannounced on-site inspections by the Commission to the same extent as other call centers and call center records subject to the rules in this chapter.
-
-(viii) *Monthly reports.* Each participating VRS provider shall report the following information to the TRS Fund administrator with its monthly requests for compensation:
-
-(A) The call center ID and full street address (number, street, city, state, and zip code) for each at-home workstation and the CA ID number for each individual handling VRS calls from that workstation; and
-
-(B) The location and call center IDs of call centers providing supervision for at-home workstations, plus the names of persons at such call centers responsible for oversight of such workstations.
-
-(ix) *Six-month report.* Each participating VRS provider shall submit, no later than seven months after the start of its program, a report covering the first six months of its program, containing the following information:
-
-(A) A description of the actual screening process used to select CAs for the at-home call handling program;
-
-(B) Copies of training materials provided to at-home CAs;
-
-(C) Copies of written protocols used for CAs working from home;
-
-(D) The total number of CAs handling VRS calls from at-home workstations over the first six months of the program;
-
-(E) The number of 911 calls handled by the provider's at-home workstations;
-
-(F) A description and copies of any surveys or evaluations taken of CAs concerning their experience using at-home workstations and participating in an at-home call handling program;
-
-(G) The total number of CAs terminated from the program;
-
-(H) The total number of complaints, if any, submitted to the provider regarding its at-home call handling program or calls handled by at-home CAs;
-
-(I) The total number of on-site inspections conducted of at-home workstations and the date and location of each inspection;
-
-(J) A description of the monitoring technology used to monitor CAs working at home and an analysis of the experience of supervisors overseeing at-home CAs compared to overseeing CAs in a call center;
-
-(K) Copies of any reports produced by tracking software and a description explaining how the provider analyzed the reports for anomalies; and
-
-(L) Detailed documentation of costs incurred in the use of at-home workstations, including any costs associated with CA recruitment, training, and compensation, engineering and technical set-up (including workstation set-up), and administrative and management support (including oversight, evaluation, and recording).
+(C) The call center identification number, street address, and name of supervisor of the call center responsible for oversight of that workstation.
 
 (c) *Functional standards* - (1) *Consumer complaint logs.* (i) States and interstate providers must maintain a log of consumer complaints including all complaints about TRS in the state, whether filed with the TRS provider or the State, and must retain the log until the next application for certification is granted. The log shall include, at a minimum, the date the complaint was filed, the nature of the complaint, the date of resolution, and an explanation of the resolution.
 
@@ -266,7 +214,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (*viii*) Total session minutes;
 
-(*ix*) The call center (by assigned center ID number) that handled the call; and
+(*ix*) The call center (by assigned center ID number) or home workstation (by assigned home workstation identification number) that handled the call; and
 
 (*x*) The URL address through which the call is initiated.
 

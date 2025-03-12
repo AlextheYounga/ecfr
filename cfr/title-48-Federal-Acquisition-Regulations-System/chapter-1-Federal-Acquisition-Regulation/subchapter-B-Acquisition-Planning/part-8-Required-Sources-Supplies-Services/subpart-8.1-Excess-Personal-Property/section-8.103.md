@@ -1,5 +1,7 @@
 ##### 8.103 Information on available excess personal property. #####
 
+Link to an amendment published at 85 FR 67618, Oct. 23, 2020.
+
 Information regarding the availability of excess personal property can be obtained through -
 
 (a) Review of excess personal property catalogs and bulletins issued by the General Services Administration (GSA);

@@ -1,5 +1,7 @@
 ##### 52.222-55 Minimum Wages Under Executive Order 13658. #####
 
+Link to an amendment published at 85 FR 67628, Oct. 23, 2020.
+
 As prescribed in 22.1906, insert the following clause:
 
 Minimum Wages Under Executive Order 13658 (DEC 2015)

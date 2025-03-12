@@ -1,5 +1,7 @@
 ##### 1.201-1 The two councils. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) Subject to the authorities discussed in 1.103, revisions to the FAR will be prepared and issued through the coordinated action of two councils, the Defense Acquisition Regulations Council (DAR Council) and the Civilian Agency Acquisition Council (CAA Council). Members of these councils shall -
 
 (1) Represent their agencies on a full-time basis;

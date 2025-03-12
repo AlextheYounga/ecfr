@@ -1,5 +1,7 @@
 ##### 30.101 Cost Accounting Standards. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) 41 U.S.C. chapter 15, Cost Accounting Standards, requires certain contractors and subcontractors to comply with Cost Accounting Standards (CAS) and to disclose in writing and follow consistently their cost accounting practices.
 
 (b) Contracts that refer to this part 30 for the purpose of applying the policies, procedures, standards and regulations promulgated by the CASB pursuant to 41 U.S.C. chapter 15, shall be deemed to refer to the CAS, and any other regulations promulgated by the CASB (see 48 CFR chapter 99), all of which are hereby incorporated in this part 30.

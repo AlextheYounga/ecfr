@@ -1,5 +1,7 @@
 ##### 1.105-1 Publication and code arrangement. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) The FAR is published in (1) the daily issue of the Federal Register, (2) cumulated form in the Code of Federal Regulations (CFR), and (3) a separate loose-leaf edition.
 
 (b) The FAR is issued as Chapter 1 of Title 48, CFR. Subsequent chapters are reserved for agency acquisition regulations that implement or supplement the FAR (see subpart 1.3). The CFR Staff will assign chapter numbers to requesting agencies.

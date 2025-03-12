@@ -1,5 +1,7 @@
 ##### § 64.6020 Ancillary Service Charge. #####
 
+Link to an amendment published at 85 FR 67462, Oct. 23, 2020.
+
 (a) No Provider shall charge an Ancillary Service Charge other than those permitted charges listed in § 64.6000.
 
 (b) No Provider shall charge a rate for a permitted Ancillary Service Charge in excess of:

@@ -1,5 +1,7 @@
 ##### 52.252-5 Authorized Deviations in Provisions. #####
 
+Link to an amendment published at 85 FR 67629, Oct. 23, 2020.
+
 As prescribed in 52.107(e), insert the following provision in solicitations that include any FAR or supplemental provision with an authorized deviation. Whenever any FAR or supplemental provision is used with an authorized deviation, the contracting officer shall identify it by the same number, title, and date assigned to the provision when it is used without deviation, include regulation name for any supplemental provision, except that the contracting officer shall insert $(*DEVIATION*) after the date of the provision.
 
 Authorized Deviations in Provisions (APR 1984)

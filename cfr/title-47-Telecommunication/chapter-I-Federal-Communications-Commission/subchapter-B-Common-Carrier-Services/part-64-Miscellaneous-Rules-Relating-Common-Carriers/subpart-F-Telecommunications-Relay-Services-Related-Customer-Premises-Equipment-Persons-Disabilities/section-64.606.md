@@ -1,7 +1,5 @@
 ##### § 64.606 Internet-based TRS provider and TRS program certification. #####
 
-Link to an amendment published at 85 FR 27313, May 8, 2020.
-
 (a) *Documentation* - (1) *Certified state program.* Any state, through its office of the governor or other delegated executive office empowered to provide TRS, desiring to establish a state program under this section shall submit, not later than October 1, 1992, documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer & Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “TRS State Certification Application.” All documentation shall be submitted in narrative form, shall clearly describe the state program for implementing intrastate TRS, and the procedures and remedies for enforcing any requirements imposed by the state program. The Commission shall give public notice of states filing for certification including notification in the Federal Register.
 
 (2) *Internet-based TRS provider.* Any entity desiring to provide Internet-based TRS and to receive compensation from the Interstate TRS Fund, shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “Internet-based TRS Certification Application.” The documentation shall include, in narrative form:
@@ -45,6 +43,8 @@ Link to an amendment published at 85 FR 27313, May 8, 2020.
 (v) The chief executive officer (CEO), chief financial officer (CFO), or other senior executive of an applicant for Internet-based TRS certification under this section with first hand knowledge of the accuracy and completeness of the information provided, when submitting an application for certification under paragraph (a)(2) of this section, must certify as follows: I swear under penalty of perjury that I am \_\_\_\_\_\_\_\_(name and title), \_\_\_\_\_\_\_\_an officer of the above-named applicant, and that I have examined the foregoing submissions, and that all information required under the Commission's rules and orders has been provided and all statements of fact, as well as all documentation contained in this submission, are true, accurate, and complete.
 
 (3) *Assessment of internet-based TRS provider certification application.* In order to assess the merits of a certification application submitted by an Internet-based TRS provider, the Commission may conduct one or more on-site visits of the applicant's premises, to which the applicant must consent.
+
+(4) *At-home VRS call handling.* An applicant for initial VRS certification that desires to provide at-home VRS call handling shall include a detailed plan describing how the VRS provider will ensure compliance with the requirements of § 64.604(b)(8).
 
 (b)(1) *Requirements for state certification.* After review of state documentation, the Commission shall certify, by letter, or order, the state program if the Commission determines that the state certification documentation:
 
@@ -102,6 +102,16 @@ I swear under penalty of perjury that I am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 (4) If, at any time, the Commission determines that a VRS provider's compliance plan currently on file is inadequate to prevent waste, fraud, and abuse of the TRS Fund, the Commission shall so notify the provider, shall explain the reasons the plan is inadequate, and shall direct the provider to correct the identified defects and submit an amended compliance plan reflecting such correction within a specified time period not to exceed 60 days. A provider that fails to comply with such directive shall not be entitled to compensation for the provision of VRS during the period of noncompliance. A submitted compliance plan shall not be prima facie evidence of the plan's adequacy; nor shall it be evidence that the provider has fulfilled its obligations under § 64.604(c)(13) of this subpart.
 
+(5) If a VRS provider is authorized to provide at-home call handling, its annual compliance report shall include the following information:
+
+(i) The total number of CAs handling VRS calls from home workstations over the preceding year;
+
+(ii) The number of 911 calls handled by the provider's home workstations;
+
+(iii) The total number of complaints, if any, submitted to the provider regarding its at-home call handling program or calls handled by at-home CAs; and
+
+(iv) A description of any substantive changes in the VRS provider's currently effective at-home call-handling compliance plan.
+
 (h) *Unauthorized service interruptions.* (1) Each certified VRS provider must provide Internet-based TRS without unauthorized voluntary service interruptions.
 
 (2) A VRS provider seeking to voluntarily interrupt service for a period of 30 minutes or more in duration must first obtain Commission authorization by submitting a written request to the Commission's Consumer and Governmental Affairs Bureau (CGB) at least 60 days prior to any planned service interruption, with detailed information of:
@@ -116,4 +126,4 @@ I swear under penalty of perjury that I am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 (4) A VRS provider that fails to obtain prior Commission authorization for a voluntary service interruption or fails to provide written notification after a voluntary service interruption of less than 30 minutes in duration, or an Internet-based TRS provider that fails to provide written notification after the commencement of an unforeseen service interruption due to circumstances beyond the provider's control in accordance with this subsection, may be subject to revocation of certification, suspension of payment from the TRS Fund, or other enforcement action by the Commission, as appropriate.
 
-[70 FR 76215, Dec. 23, 2005. Redesignated at 73 FR 21259, Apr. 21, 2008; 76 FR 24402, May 2, 2011; 76 FR 47474, 47477, Aug. 5, 2011; 76 FR 67073, Oct. 31, 2011;77 FR 33662, June 7, 2012; 78 FR 40608, July 5, 2013; 78 FR 53694, Aug. 30, 2013; 82 FR 39683, Aug. 22, 2017]
+[70 FR 76215, Dec. 23, 2005. Redesignated at 73 FR 21259, Apr. 21, 2008; 76 FR 24402, May 2, 2011; 76 FR 47474, 47477, Aug. 5, 2011; 76 FR 67073, Oct. 31, 2011;77 FR 33662, June 7, 2012; 78 FR 40608, July 5, 2013; 78 FR 53694, Aug. 30, 2013; 82 FR 39683, Aug. 22, 2017; 85 FR 27313, May 8, 2020]

@@ -1,5 +1,7 @@
 ##### 30.602 Materiality. #####
 
+Link to an amendment published at 85 FR 67615, Oct. 23, 2020.
+
 (a) In determining materiality, the CFAO shall use the criteria in 48 CFR 9903.305 (FAR Appendix).
 
 (b) A CFAO determination of materiality -

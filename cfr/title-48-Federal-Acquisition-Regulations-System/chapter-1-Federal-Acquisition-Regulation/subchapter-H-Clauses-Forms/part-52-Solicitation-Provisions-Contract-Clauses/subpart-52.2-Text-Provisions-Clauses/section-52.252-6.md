@@ -1,5 +1,7 @@
 ##### 52.252-6 Authorized Deviations in Clauses. #####
 
+Link to an amendment published at 85 FR 67629, Oct. 23, 2020.
+
 As prescribed in 52.107(f), insert the following clause in solicitations and contracts that include any FAR or supplemental clause with an authorized deviation. Whenever any FAR or supplemental clause is used with an authorized deviation, the contracting officer shall identify it by the same number, title, and date assigned to the clause when it is used without deviation, include regulation name for any supplemental clause, except that the contracting officer shall insert $(*DEVIATION*) after the date of the clause.
 
 Authorized Deviations in Clauses (APR 1984)

@@ -1,5 +1,7 @@
 ##### 30.202-7 Determinations. #####
 
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+
 (a) *Adequacy determination.* (1) As prescribed by 48 CFR 9903.202-6 (FAR Appendix), the auditor shall -
 
 (i) Conduct a review of the Disclosure Statement to ascertain whether it is current, accurate, and complete; and

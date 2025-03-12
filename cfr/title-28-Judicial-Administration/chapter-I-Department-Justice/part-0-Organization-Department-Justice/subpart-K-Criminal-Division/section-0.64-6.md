@@ -1,0 +1,5 @@
+##### § 0.64-6 Designated Authority under executive agreements on access to data by foreign governments. #####
+
+The Assistant Attorney General in charge of the Criminal Division shall have the authority and perform the functions of the “Designated Authority” (or like designation) under executive agreements between the United States of America and other countries regarding access to data by foreign governments, negotiated pursuant to the authority in 18 U.S.C. 2523. This delegation applies to executive agreements that either designate the Attorney General or the Department of Justice as the Designated Authority or authorize the Attorney General to designate a Designated Authority, and for which the Attorney General has designated the Criminal Division as such authority. The Assistant Attorney General in charge of the Criminal Division is authorized to delegate this authority to the Deputy Assistant Attorneys General in the Criminal Division, and to the Director, the Deputy Directors and Associate Directors of the Office of International Affairs.
+
+[AG Order No. 4877-2020, 85 FR 67447, Oct. 23, 2020]

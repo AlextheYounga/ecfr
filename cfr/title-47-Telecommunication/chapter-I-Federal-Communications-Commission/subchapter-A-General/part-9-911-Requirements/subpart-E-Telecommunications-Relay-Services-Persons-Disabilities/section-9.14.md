@@ -18,7 +18,7 @@
 
 (vi) Ensure that information obtained as a result of this section is limited to that needed to facilitate 911 services, is made available only to emergency call handlers and emergency response or law enforcement personnel, and is used for the sole purpose of ascertaining a user's location in an emergency situation or for other emergency or law enforcement purposes.
 
-(c) *E911 Service for VRS and IP Relay before January 6, 2021, for fixed services, and before January 6, 2022,**for non-fixed services* - (1) *Scope.* The following requirements of paragraphs (c)(1) through (4) of this section are only applicable to providers of VRS or IP Relay. Further, these requirements apply only to 911 calls placed by registered users whose Registered Location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
+(c) *E911 Service for VRS and IP Relay before January 6, 2021, for fixed services, and before January 6, 2022,**for non-fixed services*—(1) *Scope.* The following requirements of paragraphs (c)(1) through (4) of this section are only applicable to providers of VRS or IP Relay. Further, these requirements apply only to 911 calls placed by registered users whose Registered Location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
 
 (2) *E911 Service.* VRS or IP Relay providers must, as a condition of providing service to a user:
 
@@ -40,7 +40,7 @@
 
 (ii) If the VRS or IP Relay is capable of being used from more than one location, provide their registered internet-based TRS users one or more methods of updating the user's Registered Location, including at least one option that requires use only of the iTRS access technology necessary to access the VRS or IP Relay. Any method used must allow a registered internet-based TRS user to update the Registered Location at will and in a timely manner.
 
-(d) *E911 Service for VRS and IP Relay on or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services* - (1) *Scope.* The following requirements of paragraphs (d)(1) through (4) of this section are only applicable to providers of VRS or IP Relay. Further, these requirements apply only to 911 calls placed by registered users whose dispatchable location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
+(d) *E911 Service for VRS and IP Relay on or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services*—(1) *Scope.* The following requirements of paragraphs (d)(1) through (4) of this section are only applicable to providers of VRS or IP Relay. Further, these requirements apply only to 911 calls placed by registered users whose dispatchable location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
 
 (2) *E911 Service.* VRS or IP Relay providers must, as a condition of providing service to a user:
 
@@ -82,7 +82,7 @@
 
 (D) Route the caller to a call center.
 
-(e) *E911 Service for IP CTS on or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services* - (1) *Scope.* The following requirements of paragraphs (e)(1) through (4) of this section are only applicable to “covered IP CTS providers,” who are providers of IP CTS to the extent that the IP CTS provider, itself or through an entity with whom the IP CTS provider contracts, places or routes voice calls to the public switched telephone network. Further, these requirements apply only to 911 calls placed by a registered user whose dispatchable location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
+(e) *E911 Service for IP CTS on or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services*—(1) *Scope.* The following requirements of paragraphs (e)(1) through (4) of this section are only applicable to “covered IP CTS providers,” who are providers of IP CTS to the extent that the IP CTS provider, itself or through an entity with whom the IP CTS provider contracts, places or routes voice calls to the public switched telephone network. Further, these requirements apply only to 911 calls placed by a registered user whose dispatchable location is in a geographic area served by a Wireline E911 Network and is available to the provider handling the call.
 
 (2) *E911 Service.* Covered IP CTS providers must, as a condition of providing service to a user:
 
@@ -120,4 +120,4 @@
 
 (D) Route the caller to a call center.
 
-(f) Paragraphs (d)(2)(ii), (iii), and (v), (d)(4), (e)(2)(ii) and (iv), and (e)(4) of this section contain information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 67450, Oct. 23, 2020]

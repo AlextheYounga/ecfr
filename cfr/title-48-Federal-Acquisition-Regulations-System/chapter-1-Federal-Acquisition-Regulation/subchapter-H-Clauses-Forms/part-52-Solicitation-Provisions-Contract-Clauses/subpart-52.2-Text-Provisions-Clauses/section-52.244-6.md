@@ -1,5 +1,7 @@
 ##### 52.244-6 Subcontracts for Commercial Items. #####
 
+Link to an amendment published at 85 FR 67628, Oct. 23, 2020.
+
 As prescribed in 44.403, insert the following clause:
 
 Subcontracts for Commercial Items (OCT 2020)
