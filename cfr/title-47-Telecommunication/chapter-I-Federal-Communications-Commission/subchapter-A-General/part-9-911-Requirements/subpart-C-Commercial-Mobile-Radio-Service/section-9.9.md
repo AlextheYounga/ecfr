@@ -1,5 +1,7 @@
 ##### § 9.9 Definitions. #####
 
+Link to an amendment published at 88 FR 9765, Feb. 15, 2023.
+
 *Interconnection* or *Interconnected.* Direct or indirect connection through automatic or manual means (by wire, microwave, or other technologies such as store and forward) to permit the transmission or reception of messages or signals to or from points in the public switched network.
 
 *Interconnected service.* (1) A service:

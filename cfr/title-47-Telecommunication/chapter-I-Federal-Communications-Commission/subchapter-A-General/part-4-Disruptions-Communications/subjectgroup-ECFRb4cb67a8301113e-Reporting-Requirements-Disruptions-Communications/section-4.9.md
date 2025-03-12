@@ -1,5 +1,7 @@
 ##### § 4.9 Outage reporting requirements - threshold criteria. #####
 
+Link to an amendment published at 88 FR 9764, Feb. 15, 2023.
+
 (a) *Cable.* All cable communications providers shall submit electronically a Notification to the Commission within 120 minutes of discovering that they have experienced on any facilities that they own, operate, lease, or otherwise utilize, an outage of at least 30 minutes duration that:
 
 (1) Potentially affects at least 900,000 user minutes of telephony service;

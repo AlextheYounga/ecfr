@@ -1,5 +1,7 @@
 ##### § 30.60 Dealers or sponsored third-party originators. #####
 
+Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
+
 (a) *General.* The Assistant Secretary for Housing-Federal Housing Commissioner, or his or her designee, may initiate a civil money penalty action against any dealer or sponsored third-party originator that violates section 2(b)(7) of the National Housing Act (12 U.S.C. 1703). Such violations include, but are not limited to:
 
 (1) Falsifying information on an application for dealer approval or reapproval submitted to a lender;

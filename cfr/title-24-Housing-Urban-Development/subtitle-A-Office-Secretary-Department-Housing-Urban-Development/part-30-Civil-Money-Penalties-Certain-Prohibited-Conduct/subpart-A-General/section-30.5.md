@@ -1,5 +1,7 @@
 ##### § 30.5 Effective dates. #####
 
+Link to an amendment published at 88 FR 9748, Feb. 15, 2023.
+
 (a) Under § 30.20, a civil money penalty may be imposed for violations occurring on or after May 22, 1991.
 
 (b) Under §§ 30.25, 30.35, 30.45, 30.50, 30.55, and 30.60, a civil money penalty may be imposed for any violations that occur on or after December 15, 1989.
