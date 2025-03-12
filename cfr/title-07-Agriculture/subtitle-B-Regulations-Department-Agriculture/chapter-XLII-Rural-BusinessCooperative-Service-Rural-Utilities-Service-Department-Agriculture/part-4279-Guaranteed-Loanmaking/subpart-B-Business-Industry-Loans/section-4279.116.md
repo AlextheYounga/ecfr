@@ -22,31 +22,31 @@ This section identifies the provisions specific to guaranteed loans involving pr
 
 (4) For purposes of calculating tangible balance sheet equity, the CDE's or sub-CDE's loan that is subordinated to the guaranteed loan will be considered equity when calculating tangible balance sheet equity. The QALICB's financial statements must be prepared in accordance with GAAP.
 
-(b) *Loan guarantees for the leveraged lender.* The provisions of § 4279.117(s) notwithstanding, a sub-CDE may be an eligible borrower as specified in paragraph (b)(1) of this section. Paragraphs (b)(2) through (13) of this section identify modifications to subpart B of this part that apply when the eligible borrower is a sub-CDE.
+(b) *Loan guarantees for the leveraged lender.* The provisions of § 4279.117(s) notwithstanding, an investor fund entity, such as an investor partnership or investor LLC, may be an eligible borrower as specified in paragraph (b)(1) of this section. Paragraphs (b)(2) through (13) of this section identify modifications to subpart B of this part that apply when the eligible borrower is an investor fund entity.
 
 (1) To be an eligible borrower for a NMTC loan, each of the following conditions must be met:
 
-(i) The sub-CDE must be established for a single specific NMTC investment;
+(i) The investor fund entity must be established for a single specific NMTC investment;
 
-(ii) The lender is not an affiliate of the sub-CDE;
+(ii) The lender is not an affiliate of the investor fund entity;
 
-(iii) One hundred percent of the guaranteed loan funds are or will be loaned by the sub-CDE to the QALICB, as defined by applicable regulations of the Internal Revenue Service and are or will be used by the QALICB in accordance with §§ 4279.113 and 4279.117. All of the B&I guaranteed loan funds must be “passed through” the sub-CDE to the QALICB through a direct tracing method. The QALICB's project must be the ultimate use of the B&I guaranteed loan funds; and
+(iii) One hundred percent of the guaranteed loan funds are or will be invested in one or more sub-CDEs that will then be loaned directly to a Qualified Active Low Income Community Business (QALICB), as defined by applicable regulations of the Internal Revenue Service and are or will be used by the QALICB in accordance with §§ 4279.113 and 4279.117. All of the B&I guaranteed loan funds must be “passed through” the sub-CDE to the QALICB through a direct tracing method. The QALICB's project must be the ultimate use of the B&I guaranteed loan funds; and
 
 (iv) The QALICB meets the requirements of § 4279.108.
 
-(2) The provisions of § 4279.119 apply except that the loan guarantee limits apply to the QALICB and not to the sub-CDE, who would otherwise be understood to be the “borrower.”
+(2) The provisions of § 4279.119 apply except that the loan guarantee limits apply to the QALICB and not to the investor fund entity, who would otherwise be understood to be the “borrower.”
 
-(3) Section 4279.126 applies to both the borrower (sub-CDE) and the QALICB. The terms and payment schedule of the lender's loan to the sub-CDE must be at least equal to the terms and payment schedule of the sub-CDE's loan to the QALICB. An Agency approved unequal or escalating schedule of principal and interest payments may be used for a NMTC loan. The lender may require additional principal repayment by a co-borrower, such as an owner or principal of the QALICB. The lender or sub-CDE may require a debt repayment reserve fund or sinking fund; however, such fund is not in lieu of a principal repayment schedule in accordance with § 4279.126 as amended by this paragraph.
+(3) Section 4279.126 applies to both the borrower (investor fund entity) and the QALICB. The terms and payment schedule of the lender's loan to the investor fund entity must be at least equal to the terms and payment schedule of the sub-CDE's loan to the QALICB. An Agency approved unequal or escalating schedule of principal and interest payments may be used for a NMTC loan. The lender may require additional principal repayment by a co-borrower, such as an owner or principal of the QALICB. The lender or sub-CDE may require a debt repayment reserve fund or sinking fund; however, such fund is not in lieu of a principal repayment schedule in accordance with § 4279.126 as amended by this paragraph.
 
-(4) Except for § 4279.131(b), section 4279.131 applies to both the lender's loan to the sub-CDE and the sub-CDE's loan to the QALICB. Section 4279.131(b) applies only to the sub-CDE's loan to the QALICB. Section 4279.116(a)(4) also applies when calculating tangible balance sheet equity.
+(4) Except for § 4279.131(b), § 4279.131 applies to both the lender's loan to the investor fund entity and the sub-CDE's loan to the QALICB. Section 4279.131(b) applies only to the sub-CDE's loan to the QALICB. Section 4279.116(a)(4) also applies when calculating tangible balance sheet equity.
 
 (5) The personal and corporate guarantee provisions of § 4279.132 and the insurance provisions of § 4279.136 apply only to the QALICB and the sub-CDE's loan to the QALICB.
 
-(6) Section 4279.137 applies to both the borrower (sub-CDE) and the QALICB.
+(6) Section 4279.137 applies to both the borrower (investor fund entity) and the QALICB.
 
 (7) Sections 4279.144 and 4279.150 apply to both the QALICB and the sub-CDE's loan to the QALICB.
 
-(8) Section 4279.161 applies to both the borrower (sub-CDE) and the QALICB. As part of the application completed by the lender in accordance with § 4279.161, the application documentation must include comparable information for the loan (using the B&I guaranteed loan funds) between the sub-CDE and QALICB. The requirements of § 4279.161 apply to the loan application, application analysis and underwriting, and loan documents between the sub-CDE and QALICB. The lender must include these materials in its guaranteed loan application to the Agency.
+(8) Section 4279.161 applies to both the borrower (investor fund entity) and the QALICB. As part of the application completed by the lender in accordance with § 4279.161, the application documentation must include comparable information for the loan (using the B&I guaranteed loan funds) between the sub-CDE and QALICB. The requirements of § 4279.161 apply to the loan application, application analysis and underwriting, and loan documents between the sub-CDE and QALICB. The lender must include these materials in its guaranteed loan application to the Agency.
 
 (9) The environmental requirements specified in § 4279.165(b) apply to both the loan between the sub-CDE and QALICB and the QALICB's project.
 
@@ -54,6 +54,8 @@ This section identifies the provisions specific to guaranteed loans involving pr
 
 (11) When complying with the planning and performing development provisions in § 4279.167, the lender is responsible for ensuring that both the sub-CDE's loan to the QALICB and the QALICB's project comply with the provisions in § 4279.167.
 
-(12) Section 4279.180 applies to both the sub-CDE (borrower) and the QALICB.
+(12) Section 4279.180 applies to both the borrower (investor fund entity) and the QALICB.
 
-(13) Section 4279.181 applies to both the sub-CDE (borrower) and the QALICB.
+(13) Section 4279.181 applies to both the borrower (investor fund entity) and the QALICB.
+
+[81 FR 36005, June 3, 2016, as amended at 82 FR 26335, June 7, 2017]

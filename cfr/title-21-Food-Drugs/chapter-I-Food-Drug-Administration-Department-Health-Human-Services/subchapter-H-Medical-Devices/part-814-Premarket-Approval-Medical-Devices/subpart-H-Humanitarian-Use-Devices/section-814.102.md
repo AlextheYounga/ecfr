@@ -10,7 +10,7 @@
 
 (4) A description of the device and a discussion of the scientific rationale for the use of the device for the rare disease or condition; and
 
-(5) Documentation, with appended authoritative references, to demonstrate that the device is designed to treat or diagnose a disease or condition that affects or is manifested in fewer than 4,000 people in the United States per year. If the device is for diagnostic purposes, the documentation must demonstrate that fewer than 4,000 patients per year would be subjected to diagnosis by the device in the United States. Authoritative references include literature citations in specialized medical journals, textbooks, specialized medical society proceedings, or governmental statistics publications. When no such studies or literature citations exist, the applicant may be able to demonstrate the prevalence of the disease or condition in the United States by providing credible conclusions from appropriate research or surveys.
+(5) Documentation, with appended authoritative references, to demonstrate that the device is designed to treat or diagnose a disease or condition that affects or is manifested in not more than 8,000 people in the United States per year. If the device is for diagnostic purposes, the documentation must demonstrate that not more than 8,000 patients per year would be subjected to diagnosis by the device in the United States. Authoritative references include literature citations in specialized medical journals, textbooks, specialized medical society proceedings, or governmental statistics publications. When no such studies or literature citations exist, the applicant may be able to demonstrate the prevalence of the disease or condition in the United States by providing credible conclusions from appropriate research or surveys.
 
 (b) *FDA action.* Within 45 days of receipt of a request for HUD designation, FDA will take one of the following actions:
 
@@ -20,9 +20,9 @@
 
 (3) Disapprove the request for HUD designation based on a substantive review of the information submitted. FDA may disapprove a request for HUD designation if:
 
-(i) There is insufficient evidence to support the estimate that the disease or condition for which the device is designed to treat or diagnose affects or is manifested in fewer than 4,000 people in the United States per year;
+(i) There is insufficient evidence to support the estimate that the disease or condition for which the device is designed to treat or diagnose affects or is manifested in not more than 8,000 people in the United States per year;
 
-(ii) FDA determines that, for a diagnostic device, 4,000 or more patients in the United States would be subjected to diagnosis using the device per year; or
+(ii) FDA determines that, for a diagnostic device, more than 8,000 patients in the United States would be subjected to diagnosis using the device per year; or
 
 (iii) FDA determines that the patient population defined in the request is not a medically plausible subset of a larger population.
 
@@ -33,3 +33,5 @@
 (2) Based on the evidence available, the device is not eligible for HUD designation.
 
 (d) *Submission.* The applicant shall submit two copies of a completed, dated, and signed request for HUD designation to: Office of Orphan Products Development (HF-35), Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20857.
+
+[61 FR 33244, June 26, 1996, as amended at 82 FR 26349, June 7, 2017]

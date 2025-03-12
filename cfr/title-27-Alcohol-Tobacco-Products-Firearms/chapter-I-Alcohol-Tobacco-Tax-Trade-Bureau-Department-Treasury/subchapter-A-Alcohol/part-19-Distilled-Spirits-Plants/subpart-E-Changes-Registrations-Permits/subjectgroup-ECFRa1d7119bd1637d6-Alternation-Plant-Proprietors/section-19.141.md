@@ -46,4 +46,4 @@
 
 (f) *Records.* Each alternating proprietor must maintain its own records and submit its own reports. Records kept by an outgoing proprietor for spirits, wines, and alcoholic flavoring materials may be used by the incoming proprietor. All transfers of distilling materials, unfinished spirits, spirits, denatured spirits, and wines must be reflected in the records of each proprietor.
 
-(26 U.S.C. 5172, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, T.D. TTB-146, as amended by 82 FR 1120, Jan. 4, 2017]
+(26 U.S.C. 5172, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1120, Jan. 4, 2017]

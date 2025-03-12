@@ -10,7 +10,7 @@
 
 (ii) An update of the information required under § 814.104(b)(2), (b)(3), and (b)(5);
 
-(iii) The number of devices that have been shipped or sold since initial marketing approval under this subpart H and, if the number shipped or sold exceeds 4,000, an explanation and estimate of the number of devices used per patient. If a single device is used on multiple patients, the applicant shall submit an estimate of the number of patients treated or diagnosed using the device together with an explanation of the basis for the estimate;
+(iii) The number of devices that have been shipped or sold since initial marketing approval under this subpart H and, if the number shipped or sold exceeds 8,000, an explanation and estimate of the number of devices used per patient. If a single device is used on multiple patients, the applicant shall submit an estimate of the number of patients treated or diagnosed using the device together with an explanation of the basis for the estimate;
 
 (iv) Information describing the applicant's clinical experience with the device since the HDE was initially approved. This information shall include safety information that is known or reasonably should be known to the applicant, medical device reports made under part 803 of this chapter, any data generated from the postmarketing studies, and information (whether published or unpublished) that is known or reasonably expected to be known by the applicant that may affect an evaluation of the safety of the device or that may affect the statement of contraindications, warnings, precautions, and adverse reactions in the device's labeling; and
 
@@ -18,4 +18,4 @@
 
 (2) *Other.* An HDE holder shall maintain records of the names and addresses of the facilities to which the HUD has been shipped, correspondence with reviewing IRB's, as well as any other information requested by a reviewing IRB or FDA. Such records shall be maintained in accordance with the HDE approval order.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59221, Nov. 3, 1998, 71 FR 16228, Mar. 31, 2006]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59221, Nov. 3, 1998; 71 FR 16228, Mar. 31, 2006; 82 FR 26349, June 7, 2017]

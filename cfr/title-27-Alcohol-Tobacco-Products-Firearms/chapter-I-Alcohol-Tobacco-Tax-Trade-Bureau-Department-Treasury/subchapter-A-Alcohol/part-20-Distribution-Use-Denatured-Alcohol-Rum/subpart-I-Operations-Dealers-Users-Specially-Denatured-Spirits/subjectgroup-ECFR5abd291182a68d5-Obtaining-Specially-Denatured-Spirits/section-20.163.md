@@ -16,4 +16,4 @@
 
 (e) *Losses.* On receipt of specially denatured spirits, the user shall determine and account for any losses in transit in accordance with subpart J of this part.
 
-(Approved by the Office of Management and Budget under control number1513-0062)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985, as amended by T.D. TTB-140, 81 FR 59456, Aug. 30, 2016]
+(Approved by the Office of Management and Budget under control number1513-0062)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985, as amended by T.D. TTB-140, 81 FR 59459, Aug. 30, 2016]

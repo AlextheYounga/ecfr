@@ -1,6 +1,6 @@
 ##### § 20.91 Formula. #####
 
-(a) Each article made with specially denatured spirits shall be made in accordance with (1) an approved formula, Form 5150.19, or (2) an approved general-use formula prescribed in this subpart, approved by the appropriate TTB officer as an alternate method, or published as a TTB ruling on the TTB Web site at *https://www.ttb.gov”.*The manufacturer shall file Form 5150.19, along with the sample(s) required by § 20.92, and obtain an approved formula before manufacturing the article.
+(a) Each article made with specially denatured spirits shall be made in accordance with (1) an approved formula, Form 5150.19, or (2) an approved general-use formula prescribed in this subpart, approved by the appropriate TTB officer as an alternate method, or published as a TTB ruling on the TTB Web site at *https://www.ttb.gov.*The manufacturer shall file Form 5150.19, along with the sample(s) required by § 20.92, and obtain an approved formula before manufacturing the article.
 
 (b) An article made in accordance with a formula on Form 1479-A approved under previous regulations in part 211 of this chapter will be considered to comply with the requirements of this subpart.
 

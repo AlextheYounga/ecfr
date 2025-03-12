@@ -6,4 +6,4 @@
 
 (c) *Unit bond.* A person who does not provide an acceptable superseding unit bond when required to do so under § 19.168 must immediately discontinue the business or distilled spirits operations to which the lapsed bond coverage relates. Upon lapse of the existing bond coverage the person must also pay the tax at the time of withdrawal, except in the case of distilled spirits withdrawn free of tax or withdrawn without payment of tax under 26 U.S.C. 5214 or withdrawn exempt from tax under 26 U.S.C. 7510.
 
-(26 U.S.C. 5173, 5175, 5176)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146,82 FR 1121, Jan. 4, 2017]
+(26 U.S.C. 5173, 5175, 5176)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1121, Jan. 4, 2017]

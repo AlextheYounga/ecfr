@@ -82,26 +82,10 @@
 
 (ii) In addition to the measures specified in paragraph (q)(2)(i) of this section, if red snapper recreational landings, as estimated by the SRD, exceed the total recreational quota specified in § 622.39(a)(2)(i)(A), and red snapper are overfished, based on the most recent Status of U.S. Fisheries Report to Congress, the AA will file a notification with the Office of the Federal Register to reduce the total recreational quota by the amount of the quota overage in the prior fishing year, and reduce the applicable recreational component quota(s) specified in § 622.39(a)(2)(i)(B) and (C) and the applicable recreational component ACT(s) specified in paragraph (q)(2)(iii) of this section (based on the buffer between the total recreational ACT and the total recreational quota specified in the FMP), unless NMFS determines based upon the best scientific information available that a greater, lesser, or no overage adjustment is necessary.
 
-(iii) *Recreational ACT for red snapper* - (A) *Total recreational ACT (Federal charter vessel/headboat and private angling component ACTs combined).* (*1*) For fishing year 2015 - 5.606 million lb (2.543 million kg), round weight.
+(iii) *Recreational ACT for red snapper* - (A) *Total recreational ACT (Federal charter vessel/headboat and private angling component ACTs combined).* The total recreational ACT is 5.386 million lb (2.443 million kg), round weight.
 
-(*2*) For fishing year 2016 - 5.754 million lb (2.610 million kg), round weight.
+(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component ACT is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational ACT, specified in paragraph (q)(2)(iii)(A) of this section, will apply to the recreational sector. The component ACT is 2.278 million lb (1.033 million kg), round weight, for fishing years 2017 through 2022.
 
-(*3*) For fishing year 2017 and subsequent fishing years - 5.661 million lb (2.568 million kg), round weight.
+(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component ACT is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational ACT, specified in paragraph (q)(2)(iii)(A) of this section, will apply to the recreational sector. The component ACT is 3.108 million lb (1.410 million kg), round weight, for fishing years 2017 through 2022.
 
-(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component ACT is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational ACT, specified in paragraph (q)(2)(iii)(A) of this section, will apply to the recreational sector.
-
-(*1*) For fishing year 2015 - 2.371 million lb (1.075 million kg), round weight.
-
-(*2*) For fishing year 2016 - 2.434 million lb (1.104 million kg), round weight.
-
-(*3*) For fishing years 2017 through 2022 - 2.395 million lb (1.086 million kg), round weight.
-
-(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component ACT is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational ACT, specified in paragraph (q)(2)(iii)(A) of this section, will apply to the recreational sector.
-
-(*1*) For fishing year 2015 - 3.234 million lb (1.467 million kg), round weight.
-
-(*2*) For fishing year 2016 - 3.320 million lb (1.506 million kg), round weight.
-
-(*3*) For fishing years 2017 through 2022 - 3.266 million lb (1.481 million kg), round weight.
-
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 40044, July 3, 2013; 78 FR 46822, Aug. 2, 2013; 79 FR 27768, May 15, 2014; 79 FR 72557, Dec. 8, 2014; 80 FR 14331, Mar. 19, 2015; 80 FR 18553, Apr. 7, 2015; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 58219, Sept. 28, 2015; 80 FR 74001, Nov 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 70369, Oct. 12, 2016; 81 FR 86973, Dec. 2, 2016]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 40044, July 3, 2013; 78 FR 46822, Aug. 2, 2013; 79 FR 27768, May 15, 2014; 79 FR 72557, Dec. 8, 2014; 80 FR 14331, Mar. 19, 2015; 80 FR 18553, Apr. 7, 2015; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 58219, Sept. 28, 2015; 80 FR 74001, Nov 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 70369, Oct. 12, 2016; 81 FR 86973, Dec. 2, 2016; 82 FR 26377, June 7, 2017]

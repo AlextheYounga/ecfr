@@ -8,4 +8,4 @@
 
 (d) Samples of specially denatured spirits shall not be used to manufacture articles for commercial sale.
 
-(Approved by the Office of Management and Budget under control number1513-0062)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985; 50 FR 20099, May 14, 1985, as amended by T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-140, 81 FR 59456, Aug. 30, 2016]
+(Approved by the Office of Management and Budget under control number 1513-0062)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985; 50 FR 20099, May 14, 1985, as amended by T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-140, 81 FR 59456, Aug. 30, 2016]

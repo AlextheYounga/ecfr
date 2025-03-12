@@ -4,7 +4,7 @@
 
 (b) *Authorized materials.* Subject to the specifications in paragraph (c) of this section, proprietors are authorized to render spirits unfit for beverage use by adding to each 100 gallons of spirits any of following materials in the quantities specified:
 
-(1) Two gallons or more of -
+(1) Two gallons or more of—
 
 (i) Gasoline or automotive gasoline (for use in engines that require unleaded gasoline, the Environmental Protection Agency and manufacturers specifications may require that unleaded gasoline be used to render spirits unfit for beverage use);
 
@@ -46,4 +46,4 @@
 
 (d) *Published list.* The appropriate TTB officer periodically publishes a list of materials that may be used to make spirits unfit for beverage use in addition to those listed in paragraph (b) of this section. The list can be found at *http://www.ttb.treas.gov.* The list will specify the material name and quantity required to render spirits unfit for beverage use.
 
-(26 U.S.C. 5181)[TD TT-140, 81 FR 59455, Aug. 30, 2016]
+(26 U.S.C. 5181)[T.D. TTB-140, 81 FR 59455, Aug. 30, 2016]

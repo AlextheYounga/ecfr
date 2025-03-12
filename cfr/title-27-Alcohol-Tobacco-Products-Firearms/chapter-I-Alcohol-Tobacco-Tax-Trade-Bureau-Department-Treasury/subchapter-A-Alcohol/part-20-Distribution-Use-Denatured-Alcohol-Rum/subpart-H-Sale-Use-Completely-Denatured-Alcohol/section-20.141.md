@@ -1,6 +1,6 @@
 ##### § 20.141 General. #####
 
-(a) Each formula of completely denatured alcohol may be sold and used for any purpose, subject to the limitations in the formulation prescribed in part 21 of this chapter. For example, formulations of C.D.A. Formula No. 18 or 19 may be used:
+(a) Each formulation of completely denatured alcohol may be sold and used for any purpose, subject to the limitations in the formula prescribed in part 21 of this chapter. For example, formulations of C.D.A. Formula No. 18 or 19 may be used:
 
 (1) In the manufacture of definite chemical substances where the alcohol is changed into some other chemical substance and does not appear in the finished product;
 

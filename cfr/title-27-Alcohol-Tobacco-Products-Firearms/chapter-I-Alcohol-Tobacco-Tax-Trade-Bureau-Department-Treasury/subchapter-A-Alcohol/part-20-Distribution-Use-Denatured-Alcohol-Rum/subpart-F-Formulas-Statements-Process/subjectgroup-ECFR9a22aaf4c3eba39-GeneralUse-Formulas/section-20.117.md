@@ -48,4 +48,4 @@
 
 (iii) Treats the reagent alcohol as S.D.A., not an article.
 
-(Approved by the Office of Management and Budget under control number 1513-0061)[T.D. TTB-, 81 FR 59457, Aug. 30, 2016]
+(Approved by the Office of Management and Budget under control number 1513-0061)[T.D. TTB-140, 81 FR 59457, Aug. 30, 2016]

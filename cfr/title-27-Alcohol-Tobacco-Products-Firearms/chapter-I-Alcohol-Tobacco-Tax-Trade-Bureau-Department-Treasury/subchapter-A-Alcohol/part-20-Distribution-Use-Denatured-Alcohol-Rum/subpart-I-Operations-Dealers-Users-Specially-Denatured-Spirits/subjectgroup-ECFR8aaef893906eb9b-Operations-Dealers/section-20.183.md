@@ -12,4 +12,4 @@
 
 (b) *Exception.* A dealer may not export under paragraph (a) of this section any spirits that conform to Formula No. 3-C, 29, or 38-B.
 
-T.D. TTB-140 81 FR 59459, Aug. 30, 2016]
+[T.D. TTB-140 81 FR 59459, Aug. 30, 2016]

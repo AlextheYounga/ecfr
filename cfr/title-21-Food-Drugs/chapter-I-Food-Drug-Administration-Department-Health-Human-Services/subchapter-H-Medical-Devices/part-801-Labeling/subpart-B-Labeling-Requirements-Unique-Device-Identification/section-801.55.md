@@ -26,4 +26,4 @@
 
 (e) The Center Director may rescind an exception or alternative granted under this section if, after providing an opportunity for an informal hearing as defined in section 201(x) of the Federal Food, Drug, and Cosmetic Act and under part 16 of this chapter, the Center Director determines that the exception or alternative no longer satisfies the criteria described in this paragraph (e) or that any safeguard or condition required under this paragraph (e) has not been met.
 
-[78 FR 58818, Sept. 24, 2013, as amended at 81 FR 11428, Mar. 4, 2016]
+[78 FR 58818, Sept. 24, 2013, as amended at 80 FR 18093, Apr. 3, 2015; 81 FR 11428, Mar. 4, 2016]

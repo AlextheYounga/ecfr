@@ -1,5 +1,7 @@
 ##### § 60.10 Eligibility criteria for Fisher House or other temporary lodging. #####
 
+Link to an amendment published at 82 FR 26594, June 8, 2017.
+
 (a) *General.* While a veteran is undergoing an episode of care, VA may provide either Fisher House or other temporary lodging, as appropriate, if the application meets the requirements of this part 60. These are the only types of lodging provided by VA under this part. Note: Lodging provided for under this part will not be used by a person participating in a VA residential treatment program, or as a substitute for participation in such a program.
 
 (b) *Eligible persons* - (1) *Fisher House.* VA may provide Fisher House lodging to accompanying individual(s) and, in limited circumstances of immediate need and no alternative temporary lodging, to a veteran with one or more accompanying individual(s). Fisher House lodging will not be used to lodge unaccompanied veterans or individuals in need of transitional or permanent housing.

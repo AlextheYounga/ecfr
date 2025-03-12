@@ -4,4 +4,4 @@
 
 Five gallons of toluene or 5 gallons of heptane.
 
-[TD TTB-140, 81 FR 59461, Aug. 31, 2016]
+[T.D. TTB-140, 81 FR 59461, Aug. 31, 2016]

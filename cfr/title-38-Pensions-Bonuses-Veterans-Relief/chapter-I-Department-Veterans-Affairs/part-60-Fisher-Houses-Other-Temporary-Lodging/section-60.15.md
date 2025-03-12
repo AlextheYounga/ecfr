@@ -1,5 +1,7 @@
 ##### § 60.15 Application process. #####
 
+Link to an amendment published at 82 FR 26594, June 8, 2017.
+
 (a) *Obtaining and submitting the application.* VA Form 10-0408A is the application for Fisher House and other temporary lodging. Applications may be submitted by mail, telephone, facsimile, in person, or electronically. VA Form 10-0408A is available from any VA health care facility or may be obtained online at *http://vaww4.va.gov/vaforms/medical/pdf/vha-10-0408A-fill.pdf.* The completed application must be submitted as follows:
 
 (1) For Fisher House lodging, to the Fisher House Manager at the VA health care facility of jurisdiction.

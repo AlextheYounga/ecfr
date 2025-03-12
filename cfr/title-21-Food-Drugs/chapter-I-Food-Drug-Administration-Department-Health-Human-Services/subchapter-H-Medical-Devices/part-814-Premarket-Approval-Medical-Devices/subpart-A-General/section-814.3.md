@@ -28,7 +28,7 @@ For the purposes of this part:
 
 (m) *HDE* means a premarket approval application submitted pursuant to this subpart seeking a humanitarian device exemption from the effectiveness requirements of sections 514 and 515 of the act as authorized by section 520(m)(2) of the act.
 
-(n) *HUD* (*humanitarian use device*) means a medical device intended to benefit patients in the treatment or diagnosis of a disease or condition that affects or is manifested in fewer than 4,000 individuals in the United States per year.
+(n) *HUD* (*humanitarian use device*) means a medical device intended to benefit patients in the treatment or diagnosis of a disease or condition that affects or is manifested in not more than 8,000 individuals in the United States per year.
 
 (o) *Newly acquired information* means data, analyses, or other information not previously submitted to the agency, which may include (but are not limited to) data derived from new clinical studies, reports of adverse events, or new analyses of previously submitted data (e.g., meta-analyses) if the studies, events or analyses reveal risks of a different type or greater severity or frequency than previously included in submissions to FDA.
 
@@ -36,9 +36,9 @@ For the purposes of this part:
 
 (q) *Unique device identifier (UDI)* means an identifier that adequately identifies a device through its distribution and use by meeting the requirements of § 830.20 of this chapter. A unique device identifier is composed of:
 
-(1) A *device identifier* - a mandatory, fixed portion of a UDI that identifies the specific version or model of a device and the labeler of that device; and
+(1) A *device identifier*—a mandatory, fixed portion of a UDI that identifies the specific version or model of a device and the labeler of that device; and
 
-(2) A *production identifier* - a conditional, variable portion of a UDI that identifies one or more of the following when included on the label of the device:
+(2) A *production identifier*—a conditional, variable portion of a UDI that identifies one or more of the following when included on the label of the device:
 
 (i) The lot or batch within which a device was manufactured;
 
@@ -56,4 +56,4 @@ For the purposes of this part:
 
 (t) *Readily available* means available in the public domain through commonly used public resources for conducting biomedical, regulatory, and medical product research.
 
-[51 FR 26364, July 22, 1986, as amended at 61 FR 15190, Apr. 5, 1996; 61 FR 33244, June 26, 1996; 73 FR 49610, Aug. 22, 2008; 78 FR 55821, Sept. 24, 2013; 79 FR 1740, Jan. 10, 2014]
+[51 FR 26364, July 22, 1986, as amended at 61 FR 15190, Apr. 5, 1996; 61 FR 33244, June 26, 1996; 73 FR 49610, Aug. 22, 2008; 78 FR 58821, Sept. 24, 2013; 79 FR 1740, Jan. 10, 2014; 82 FR 26349, June 7, 2017]

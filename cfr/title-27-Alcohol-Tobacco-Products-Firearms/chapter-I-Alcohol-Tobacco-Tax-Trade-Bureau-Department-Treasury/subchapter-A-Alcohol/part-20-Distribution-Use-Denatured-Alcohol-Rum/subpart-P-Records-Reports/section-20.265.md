@@ -10,4 +10,4 @@
 
 (b) The appropriate TTB officer may, on application filed by the permittee, waive the requirements for retaining invoices if the quantity sold to any person during a calendar month does not exceed 25 gallons, and if a waiver will not hinder the effective administration of this part and will not pose a jeopardy to the revenue.
 
-(Approved by the Office of Management and Budget under control number 1512-0336)
+(Approved by the Office of Management and Budget under control number 1513-0061)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985, as amended by T.D. TTB-140, 81 FR 59456, Aug. 30, 2016]

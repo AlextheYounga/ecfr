@@ -14,4 +14,4 @@
 
 (c) All articles for export shall comply with the applicable requirements of the countries to which they are sent.
 
-[TD TTB-140, 81 FR 59460, Aug. 30, 2016]
+[T.D. TTB-140, 81 FR 59460, Aug. 30, 2016]

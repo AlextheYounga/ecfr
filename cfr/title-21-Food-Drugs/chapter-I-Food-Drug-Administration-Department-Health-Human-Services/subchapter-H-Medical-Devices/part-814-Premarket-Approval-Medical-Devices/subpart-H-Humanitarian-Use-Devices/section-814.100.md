@@ -2,7 +2,7 @@
 
 (a) This subpart H implements sections 515A and 520(m) of the act.
 
-(b) The purpose of section 520(m) is, to the extent consistent with the protection of the public health and safety and with ethical standards, to encourage the discovery and use of devices intended to benefit patients in the treatment or diagnosis of diseases or conditions that affect or are manifested in fewer than 4,000 individuals in the United States per year. This subpart provides procedures for obtaining:
+(b) The purpose of section 520(m) is, to the extent consistent with the protection of the public health and safety and with ethical standards, to encourage the discovery and use of devices intended to benefit patients in the treatment or diagnosis of diseases or conditions that affect or are manifested in not more than 8,000individuals in the United States per year. This subpart provides procedures for obtaining:
 
 (1) HUD designation of a medical device; and
 
@@ -26,4 +26,4 @@
 
 (g) FDA may suspend or withdraw approval of an HDE after providing notice and an opportunity for an informal hearing.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 79 FR 1740, Jan. 10, 2014]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 79 FR 1740, Jan. 10, 2014; 82 FR 26349, June 7, 2017]

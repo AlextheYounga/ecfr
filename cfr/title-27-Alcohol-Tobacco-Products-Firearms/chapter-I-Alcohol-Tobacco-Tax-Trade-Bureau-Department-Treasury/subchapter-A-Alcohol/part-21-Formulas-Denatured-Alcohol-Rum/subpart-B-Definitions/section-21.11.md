@@ -42,4 +42,4 @@ When used in this part and in forms prescribed under this part, unless the conte
 
 *U.S.P.* The United States Pharmacopoeia. The latest edition is intended unless otherwise specified. The designations “U.S.P.” and “N.F.” are considered interchangeable when preparations are transferred from one publication to the other. (For incorporation by reference, see § 21.6(a).)
 
-[T.D. ATF-133, 48 FR 24673, June 2, 1983, as amended by T.D. ATF-199, 50 FR 9183, Mar. 6, 1985; T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-44, 71 FR 16936, Apr. 4, 2006; TD TTB-140 81 FR 59460, Aug. 30, 2016]
+[T.D. ATF-133, 48 FR 24673, June 2, 1983, as amended by T.D. ATF-199, 50 FR 9183, Mar. 6, 1985; T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-44, 71 FR 16936, Apr. 4, 2006; T.D.TTB-140 81 FR 59460, Aug. 30, 2016]
