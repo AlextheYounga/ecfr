@@ -14,7 +14,7 @@ Wide Area Workflow Payment Instructions (DEC 2018)
 
 *Payment request* and *receiving report* are defined in the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports.
 
-(b) *Electronic invoicing.* The WAWF system providesthe method to electronically process vendor payment requests and receiving reports, as authorized by Defense Federal Acquisition Regulation System (DFARS) 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports.
+(b) *Electronic invoicing.* The WAWF system provides the method to electronically process vendor payment requests and receiving reports, as authorized by Defense Federal Acquisition Regulation System (DFARS) 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports.
 
 (c) *WAWF access.* To access WAWF, the Contractor shall -
 

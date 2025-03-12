@@ -1,8 +1,8 @@
 ##### 225.772-4 Exception. #####
 
-(a) The prohibitions in 225.772-2(a) and (b) do not apply if -
+(a) The prohibitions in 225.772-2(a) and (b) do not apply if—
 
-(1) The Under Secretary of Defense for Acquisition and Sustainment , or the Under Secretary of Defense for Policy, without power of redelegation, determines that it is in the national security interest of the United States to enter into such contract; and
+(1) The Under Secretary of Defense for Acquisition and Sustainment, or the Under Secretary of Defense for Policy, without power of redelegation, determines that it is in the national security interest of the United States to enter into such contract; and
 
 (2) Not later than seven days before entering into such contract, the Under Secretary of Defense making the determination in paragraph (a)(1) of this section, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment, in accordance with 10 U.S.C. 2279.
 

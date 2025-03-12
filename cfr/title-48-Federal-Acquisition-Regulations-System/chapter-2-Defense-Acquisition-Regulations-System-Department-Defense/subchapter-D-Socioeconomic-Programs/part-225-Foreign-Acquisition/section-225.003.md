@@ -62,9 +62,9 @@
 
 *South Caucasus/Central and South Asian (SC/CASA) state end product* means an article that -
 
-(i) Is wholly the growth, product, or manufacture of an SC/CASA state; or
+(1) Is wholly the growth, product, or manufacture of an SC/CASA state; or
 
-(ii) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product, includes services (except transportation services) incidental to its supply, provided that the value of those incidental services does not exceed the value of the product itself.
+(2) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product, includes services (except transportation services) incidental to its supply, provided that the value of those incidental services does not exceed the value of the product itself.
 
 *United States Munitions List* means the munitions list of the International Traffic in Arms Regulation in 22 CFR part 121.
 
