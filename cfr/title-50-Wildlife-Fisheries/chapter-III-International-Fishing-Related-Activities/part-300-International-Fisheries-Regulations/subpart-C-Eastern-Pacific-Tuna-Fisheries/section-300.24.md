@@ -28,9 +28,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (l) Use a U.S. fishing vessel over 24 meters in overall length to fish with longline gear in the Pacific Ocean both inside and outside the Convention Area on the same fishing trip in contravention of § 300.25(a)(4)(iii).
 
-(m) Fail to stow gear as required in § 300.25(a)(4)(iv) or (e)(7).
+(m) Fail to stow gear as required in § 300.25(a)(4)(iv) or (e)(6).
 
-(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of § 300.25(e)(1), (e)(2), or (e)(5) or (e)(6).
+(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of § 300.25(e)(1), (2), or (5).
 
 (o) Use a U.S. longline or purse seine fishing vessel used to fish for HMS within one nautical mile of an anchored data buoy while the fishing vessel is in the Convention Area in contravention of § 300.25(f)(1).
 
@@ -64,9 +64,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (dd) Fail to handle or release a mobulid ray as required in § 300.27(j).
 
-(ee) Fail to ensure characters of a unique code are marked indelibly on a FAD deployed or modified on or after January 1, 2017, in accordance with § 300.25(h).
+(ee) Fail to ensure characters of a unique code are marked indelibly on a FAD deployed or modified on or after January 1, 2017, in accordance with § 300.28(a)(2).
 
-(ff) Fail to record and report data on interactions or activities on FADs as required in § 300.25(i).
+(ff) Fail to record or report data on FADs as required in § 300.22(a)(3).
 
 (gg) Use a commercial purse seine fishing vessel of the United States to retain on board, transship, store, or land any part or whole carcass of a silky shark (*Carcharhinus falciformis*) in contravention of § 300.27(e).
 
@@ -75,5 +75,17 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 (ii) Fail to handle or release a shark as required in § 300.27(k).
 
 (jj) Use a shark line in contravention of § 300.27(l).
+
+(kk) Activate the transmission equipment attached to a FAD in a location other than on a purse seine vessel at sea as required in § 300.28(b).
+
+(ll) Fail to turn on the tracking equipment for an Active FAD before deploying at sea as required in § 300.28(b).
+
+(mm) Deploy a FAD in the IATTC Convention Area that is not an Active FAD.
+
+(nn) Have more Active FADs than specified in § 300.28(c) in the IATTC Convention Area at any one time.
+
+(oo) Deploy a FAD in the IATTC Convention Area during a period of 15 days prior to the start of the selected closure period in contravention of § 300.28(d)(1).
+
+(pp) Fail to timely remove from the water a number of FADs in the IATTC Convention Area equal to the number of FADs set upon by the vessel during the 15 days prior to the start of the selected closure period as required in § 300.28(d)(2).
 
 [61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -1,6 +1,6 @@
 ##### § 8.13 General pleading requirements. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 21927, May 11, 2018.
 
 (a) *General pleading requirements.* All written submissions, both substantive and procedural, must conform to the following standards:
 

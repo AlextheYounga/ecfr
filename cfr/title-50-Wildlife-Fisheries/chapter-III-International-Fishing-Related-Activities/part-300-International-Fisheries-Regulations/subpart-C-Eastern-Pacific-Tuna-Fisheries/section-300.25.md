@@ -1,10 +1,8 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
+(a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
-(a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for a specific species.
-
-(2) For the calendar year 2017, there is a limit of 500 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length.
+(2) For the calendar years 2018, 2019, 2020, there is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
 
 (3) NMFS will project a date the limit of bigeye tuna established under paragraph (a)(2) of this section will be reached (*i.e.,* a closure date) by monitoring longline landings, data submitted in logbooks, and other available information. NMFS will publish a notice in the Federal Register at least 7 calendar days in advance of that projected closure date announcing that the limit has been reached. The Federal Register notice will specify that the restrictions described in paragraph (a)(4) of this section will be in effect through the end of the calendar year.
 
@@ -22,39 +20,37 @@ Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
 
 (iv) If a fishing vessel of the United States over 24 meters in overall length is used to fish in the Pacific Ocean using longline gear outside the Convention Area and the vessel enters the Convention Area at any time during an effective closure period on the same fishing trip, the longline gear on the fishing vessel must be stowed in a manner so as not to be readily available for fishing. Specifically, the hooks, branch or dropper lines, and floats used to buoy the mainline must be stowed and not available for immediate use, and any power-operated mainline hauler on deck must be covered in such a manner that it is not readily available for use. This provision does not apply to trips in which vessels have made a declaration to NMFS, pursuant to § 665.803(a) of this title, that the trip type is shallow-setting.
 
+(5) If the United States engages in a transfer of a bigeye tuna catch limit with another IATTC member or cooperating non-member, NMFS will publish a notice in the Federal Register announcing the new catch limit that is available to U.S. commercial fishing vessels that are over 24 meters in overall length. All restrictions described in paragraphs (a)(1) and (3) through (4) of this section will continue to apply.
+
 (b) *Use of tender vessels.* No person subject to these regulations may use a tender vessel in the Convention Area.
 
 (c) *Transshipments at sea.* No person subject to these regulations may transship purse seine-caught tuna from one vessel to another vessel at sea within the Convention Area.
 
 (d) [Reserved]
 
-(e) *Purse seine closures* - (1) *Closure periods* - (i) *General rule.* A commercial purse seine fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two closure periods:
+(e) *Purse seine closures* - (1) *72-day closure.* A commercial purse seine fishing vessel of the United States that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days in each of the years 2018, 2019, and 2020 during one of the following two periods:
 
-(A) From 0000 hours Coordinated Universal Time (UTC) July 29, 2017, to 2400 hours UTC October 8, 2017; or,
+(i) From 0000 hours Coordinated Universal Time (UTC) July 29, to 2400 hours UTC October 8, or
 
-(B) From 0000 hours UTC November 9, 2017, to 2400 hours UTC January 19, 2018.
+(ii) From 0000 hours UTC November 9 to 2400 hours UTC January 19 of the following year.
 
-(ii) *Vessels with DMLs.* Notwithstanding paragraph (e)(1)(i) of this section, a purse seine vessel for which a dolphin mortality limit has been assigned may fish during 10 days of the closure period the vessel selected, if the vessel makes no floating object sets during this period. The respective 10-day periods are:
+(2) *Choice of closure period.* A vessel owner, manager, or association representative of a vessel that is subject to the requirements of paragraph (e)(1) of this section must provide written notification to the Regional Administrator declaring to which one of the two closure periods identified in paragraph (e)(1) of this section his or her vessel will adhere in that year. This written notification must be submitted by fax at (562) 980-4047 or email at *RegionalAdministrator.WCRHMS@noaa.gov* and must be received no later than July 1 prior to the first closure period within a calendar year. The written notification must include the vessel name and registration number, the closure dates that will be adhered to by that vessel, and the vessel owner or managing owner's name, signature, business address, and business telephone number.
 
-(A) From 0000 hours UTC September 29, 2017, to 2400 hours UTC October 8, 2017; and,
+(3) *Default closure period.* If written notification is not submitted per paragraph (e)(2) of this section for a vessel subject to the requirements under paragraph (e)(1) of this section, that vessel must adhere to the second closure period under paragraph (e)(1)(ii) of this section.
 
-(B) From 0000 hours UTC November 9, 2017, to 2400 hours UTC November 18, 2017.
-
-(2) A vessel owner, manager, or association representative of a vessel that is subject to the requirements of paragraph (e)(1) of this section must, in 2017, provide written notification to the Regional Administrator declaring to which one of the two closure periods identified in paragraph (e)(1) of this section his or her vessel will adhere in that year. This written notification must be submitted by fax at (562) 980-4047 or email at *RegionalAdministrator.WCRHMS@noaa.gov* and must be received no later than July 1 2017. The written notification must include the vessel name and registration number, the closure dates that will be adhered to by that vessel, and the vessel owner or managing owner's name, signature, business address, and business telephone number.
-
-(3) If written notification is not submitted per paragraph (e)(2) of this section for a vessel subject to the requirements under paragraph (e)(1)(i) of this section, that vessel must adhere to the closure period under paragraph (e)(1)(i)(B) of this section.
-
-(4) *Request for exemption due to force majeure.* A request for exemption due to force majeure must be made to the Sustainable Fisheries Division by fax at (562) 980-4047 or emailed to *RegionalAdministrator.WCRHMS@noaa.gov.* The request must include the name and official number of the vessel, vessel owner or manager's name and signature, and evidence to support the request, which may include but is not limited to photographs, repair bills, certificates of departure from port, and in the case of a marine casualty, a completed copy of the U.S. Coast Guard Form CG-2692A (See 46 CFR 4.05-10).
+(4) *Request for exemption due to force majeure.* A request for exemption due to force majeure must be made to the Sustainable Fisheries Division within 20 calendar days after the vessel has been unable to proceed to sea for 72 days by fax at (562) 980-4047 or emailed to *RegionalAdministrator.WCRHMS@noaa.gov.* The request must include the name and official number of the vessel, vessel owner or manager's name and signature, and evidence to support the request, which may include but is not limited to photographs, repair bills, certificates of departure from port, and in the case of a marine casualty, a completed copy of the U.S. Coast Guard Form CG-2692A (See 46 CFR 4.05-10).
 
 (i) If accepted by the Sustainable Fisheries Division, the request for exemption due to force majeure will be forwarded to the IATTC Director. If declined by the Sustainable Fisheries Division, within 10 days of the date of that rejection, the applicant may give additional information or documentation to the Regional Administrator with a request that the initial decision be reconsidered by fax at (562) 980-4047 or email to *RegionalAdministrator.WCRHMS@noaa.gov;* the Regional Administrator shall respond within 14 business days.
 
-(ii) If the request for an exemption due to force majeure is accepted by the IATTC, the vessel must observe a closure period of 30 consecutive days in the same year during which the force majeure event occurred, in one of the two closure periods described in paragraph (e)(1) of this section.
+(ii) If the request for an exemption due to force majeure is accepted by the IATTC, the vessel must observe a closure period of 40 consecutive days in the same year during which the force majeure event occurred, in one of the two closure periods described in paragraph (e)(1) of this section.
 
-(5) A vessel of class size 4 (182 to 272 metric tons carrying capacity) may make one fishing trip of up to 30 days duration during the specified closure period in paragraph (e)(1) of this section, provided that the vessel carries an observer authorized pursuant to the Agreement on the International Dolphin Conservation Program during the entire fishing trip.
+(iii) If the request for an exemption due to force majeure is accepted by the IATTC and the vessel has already observed a closure period described in paragraph (e)(1) of this section in the same year during which the force majeure event occurred, the vessel must observe a closure period of 40 consecutive days the following year the force majeure event occurred, in one of the two closure periods described in paragraph (e)(1) of this section.
 
-(6) A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on October 9 to 2400 hours on November 8 in 2017 to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W. longitude and bounded at the north and south by 4° N. and 3° S. latitude.
+(iv) Any purse seine vessel, for which a force majeure request is accepted by the IATTC, must carry an observer aboard authorized pursuant to the International Agreement on the International Dolphin Conservation Program.
 
-(7) At all times while a vessel is in a time/area closed period established under paragraphs (e)(1) or (e)(6) of this section, unless fishing under exceptions established under paragraphs (e)(4) or (e)(5) of this section, the fishing gear of the vessel must be stowed in a manner as not to be readily available for fishing. In particular, the boom must be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, must be tied down; and launches must be secured.
+(5) *31-day area closure.* A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on October 9 to 2400 hours on November 8 in 2018, 2019, and 2020 to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W longitude and bounded at the north and south by 4° N and 3° S latitude.
+
+(6) *Requirement to stow gear.* At all times while a vessel is in a time/area closed period established under paragraphs (e)(1) or (5) of this section, unless fishing under the exception under paragraph (e)(4) of this section, the fishing gear of the vessel must be stowed in a manner as not to be readily available for fishing. In particular, the boom must be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, must be tied down; and launches must be secured.
 
 (f) *Restrictions on fishing in proximity to data buoys.* (1) A longline or purse seine fishing vessel of the United States may not be used to fish for HMS within one nautical mile of an anchored data buoy in the Convention Area. The one-nautical-mile distance shall be measured from the data buoy to the nearest portion of the fishing vessel or items associated with the fishing vessel, such as gear or watercraft deployed by the fishing vessel, to the data buoy. This prohibition shall not apply if and when the fishing vessel is operated as part of a scientific research program that has received specific authorization by the IATTC or is conducting work on behalf of the IATTC.
 
@@ -82,10 +78,4 @@ Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
 
 (5) Beginning on the date announced in the fishing closure notice published under paragraph (g)(4) of this section through the end of the calendar year, a commercial fishing vessel of the United States may not be used to target, retain on board, transship, or land Pacific bluefin tuna captured in the Convention Area, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed, to the extent authorized by applicable laws and regulations, provided such Pacific bluefin tuna is landed within 14 days after the effective date published in the fishing closure notice.
 
-(h) *FAD identification requirements for purse seine vessels.* (1) For each FAD deployed or modified on or after January 1, 2017, in the IATTC Convention Area, the vessel owner or operator must either: Obtain a unique code from HMS Branch; or use an existing unique identifier associated with the FAD (*e.g.,* the manufacturer identification code for the attached buoy).
-
-(2) U.S. purse seine vessel owners and operators shall ensure the characters of the unique code or unique identifier be marked indelibly at least five centimeters in height on the upper portion of the attached radio or satellite buoy in a location that does not cover the solar cells used to power the equipment. For FADs without attached radio or satellite buoys, the characters shall be on the uppermost or emergent top portion of the FAD. The vessel owner or operator shall ensure the marking is visible at all times during daylight. In circumstances where the on-board observer is unable to view the code, the captain or crew shall assist the observer (*e.g.,* by providing the FAD identification code to the observer).
-
-(i) *FAD data reporting for purse seine vessels.* U.S. vessel owners and operators must ensure that any interaction or activity with a FAD is reported using a standard format provided by the HMS Branch. The owner and operator shall ensure that the form is submitted to the address specified by the HMS Branch.
-
-[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

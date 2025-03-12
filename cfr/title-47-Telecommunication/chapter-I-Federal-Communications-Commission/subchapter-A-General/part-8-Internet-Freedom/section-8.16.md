@@ -1,6 +1,6 @@
 ##### § 8.16 Confidentiality of proprietary information. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 21927, May 11, 2018.
 
 (a) Any materials generated in the course of a proceeding under this part may be designated as proprietary by either party to the proceeding or a third party if the party believes in good faith that the materials fall within an exemption to disclosure contained in the Freedom of Information Act (FOIA), 5 U.S.C. 552(b) (1) through (9). Any party asserting confidentiality for such materials must:
 

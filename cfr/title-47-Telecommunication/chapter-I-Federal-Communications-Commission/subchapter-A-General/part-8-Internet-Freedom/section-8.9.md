@@ -1,6 +1,6 @@
 ##### § 8.9 No paid prioritization. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 21927, May 11, 2018.
 
 (a) A person engaged in the provision of broadband Internet access service, insofar as such person is so engaged, shall not engage in paid prioritization.
 

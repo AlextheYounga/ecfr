@@ -1,6 +1,6 @@
 ##### § 8.2 Definitions. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 21927, May 11, 2018.
 
 (a) *Broadband Internet access service.* A mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up Internet access service. This term also encompasses any service that the Commission finds to be providing a functional equivalent of the service described in the previous sentence, or that is used to evade the protections set forth in this part.
 

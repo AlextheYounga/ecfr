@@ -1,0 +1,5 @@
+##### § 3419.4 Applications for waivers for both 1890 land-grant institutions and 1862 land-grant institutions in insular areas. #####
+
+Application for waivers for both 1890 land-grant institutions and 1862 land-grant institutions in insular areas. The president of the eligible institution must submit any request for a waiver for matching requirements. A waiver application must include the name of the eligible institution, the type of Federal capacity funds (*i.e.* research, extension, Hatch, etc.), appropriate fiscal year, the basis for the request (*e.g.* one or more of the criteria identified in § 3419.3); current supporting documentation, where current is defined as within the past two years from the date of the letter requesting the waiver; and the amount of the request.
+
+[83 FR 21849, May 11, 2018]

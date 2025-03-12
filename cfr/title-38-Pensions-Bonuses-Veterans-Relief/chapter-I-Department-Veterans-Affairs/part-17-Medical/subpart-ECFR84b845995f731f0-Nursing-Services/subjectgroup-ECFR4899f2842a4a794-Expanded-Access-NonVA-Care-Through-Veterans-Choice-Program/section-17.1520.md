@@ -1,0 +1,9 @@
+##### § 17.1520 Effect on other provisions. #####
+
+(a) *General.* In general, eligibility under the Veterans Choice Program does not affect a veteran's eligibility for hospital care or medical services under the medical benefits package, as defined in § 17.38, or other benefits addressed in this part. Notwithstanding any other provision of this part, VA will pay for and fill prescriptions written by eligible providers under § 17.1530 for eligible veterans under § 17.1510, including prescriptions for drugs, including over-the-counter drugs and medical and surgical supplies available under the VA national formulary system.
+
+(b) *Copayments.* VA will be liable for any deductibles, cost-shares, or copayments required by an eligible veteran's health-care plan for hospital care and medical services furnished under this Program, to the extent that such reimbursement does not result in expenditures by VA for the furnished care or services in excess of the rate established under § 17.1535. Veterans are also liable for a VA copayment for care furnished under this Program, as required by §§ 17.108(b)(4), 17.108(c)(4), 17.110(b)(4), and 17.111(b)(3).
+
+(c) *Beneficiary travel.* For veterans who are eligible for beneficiary travel benefits under part 70 of this chapter, VA will provide beneficiary travel benefits for travel to and from the location of the eligible entity or provider who furnishes hospital care or medical services for an authorized appointment under the Veterans Choice Program without regard to the limitations in § 70.30(b)(2) of this chapter.
+
+(Authority: 38 U.S.C. 111; Sec. 101, Pub. L. 113-146, 128 Stat. 1754)

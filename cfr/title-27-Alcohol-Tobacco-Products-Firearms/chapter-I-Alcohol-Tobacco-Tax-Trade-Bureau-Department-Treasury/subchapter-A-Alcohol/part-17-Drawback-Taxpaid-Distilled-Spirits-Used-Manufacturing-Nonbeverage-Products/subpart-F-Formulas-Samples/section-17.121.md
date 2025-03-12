@@ -8,4 +8,4 @@
 
 (d) *Distribution and retention of approved formulas.* One copy of each approved Form 5154.1 shall be returned to the manufacturer. The formulas returned to manufacturers shall be kept in serial order at the place of manufacture, as provided in § 17.170, and shall be made available to appropriate TTB officers for examination in the investigation of drawback claims.
 
-[T.D. ATF-179, 61 FR 31412, June 20, 1996, as amended by T.D. ATF-436, 66 FR 5471, Jan. 19, 2001]
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. ATF-436, 66 FR 5471, Jan. 19, 2001]

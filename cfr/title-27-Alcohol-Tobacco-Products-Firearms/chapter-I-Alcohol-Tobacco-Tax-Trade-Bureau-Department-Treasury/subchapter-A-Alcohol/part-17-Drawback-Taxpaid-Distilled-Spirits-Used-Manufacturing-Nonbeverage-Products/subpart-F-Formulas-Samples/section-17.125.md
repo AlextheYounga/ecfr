@@ -4,4 +4,4 @@
 
 (b) *Adoption of manufacturer's own formulas from a different location.* A manufacturer's own formulas may be adopted for use at another of the manufacturer's plants. Further, a wholly owned subsidiary may adopt the formulas of the parent company, and vice versa. A letterhead notice must be filed with the appropriate TTB officer and be accompanied by two photocopies of each formula to be adopted. The notice shall list the numbers of all formulas to be adopted and shall indicate the plant where each was originally approved and the plant(s) where each is to be adopted. Some evidence of the relationship between the plants involved in the adoption shall be attached to the notice. The notice shall be referenced in Part IV of the supporting data (TTB Form 5154.2) filed with the first claim relating to the adopted formula(s).
 
-[T.D. ATF-179, 61 FR 31412, June 20, 1996, as amended by T.D. ATF-436, 66 FR 5471, Jan. 19, 2001]
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. ATF-436, 66 FR 5471, Jan. 19, 2001]

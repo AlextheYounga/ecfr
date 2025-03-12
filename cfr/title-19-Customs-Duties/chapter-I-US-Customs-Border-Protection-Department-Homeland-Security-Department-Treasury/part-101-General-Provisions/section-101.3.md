@@ -1,7 +1,5 @@
 ##### § 101.3 Customs service ports and ports of entry. #####
 
-Link to an amendment published at 83 FR 15499, Apr. 11, 2018.
-
 (a) *Designation of Customs field organization.* The Deputy Assistant Secretary (Regulatory, Tariff, and Trade Enforcement), pursuant to authority delegated by the Secretary of the Treasury, is authorized to establish, rearrange or consolidate, and to discontinue Customs ports of entry as the needs of the Customs Service may require.
 
 (b) *List of Ports of Entry and Service Ports.* The following is a list of Customs Ports of Entry and Service Ports. Many of the ports listed were created by the President's message of March 3, 1913, concerning a reorganization of the Customs Service pursuant to the Act of August 24, 1912 (37 Stat. 434; 19 U.S.C. 1). Subsequent orders of the President or of the Secretary of the Treasury which affected these ports, or which created (or subsequently affected) additional ports, are cited following the name of the ports.
@@ -81,7 +79,7 @@ Link to an amendment published at 83 FR 15499, Apr. 11, 2018.
 |                Atlanta                 |                                                                        Including territory described in T.D. 55548.                                                                         |
 |               Brunswick                |                                                                        Including territory described in T.D. 86-162.                                                                        |
 |          Fernandina Beach, FL          |                                                                            Including St. Mary's, GA; T.D. 53033.                                                                            |
-|                Savannah                |                                                            Including territory described in E.O. 8367, Mar. 5, 1940 (5 FR 985).                                                             |
+|                Savannah                |                                                                                       CBP Dec. 18-03.                                                                                       |
 |                 Hawaii                 |                                                                                                                                                                                             |
 |                  Hilo                  |                                                                                         T.D. 95-11.                                                                                         |
 |                Honolulu                |                                                                        Including territory described in T.D. 90-59.                                                                         |
@@ -422,4 +420,4 @@ Link to an amendment published at 83 FR 15499, Apr. 11, 2018.
 |              |    Seattle.     |
 |  Wisconsin   |   Milwaukee.    |
 
-[T.D. 95-77, 60 FR 50011, Sept. 27, 1995]Editorial Note:For Federal Register citations affecting § 101.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 95-77, 60 FR 50011, Sept. 27, 1995]Editorial Note:For Federal Register citations affecting § 101.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

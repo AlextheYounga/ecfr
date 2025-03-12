@@ -1,5 +1,7 @@
 ##### § 984.69 Assessments. #####
 
+Link to an amendment published at 83 FR 21843, May 11, 2018.
+
 (a) *Requirement for payment.* Each handler shall pay the Board, on demand, his pro rata share of the expenses authorized by the Secretary for each marketing year. Each handler's pro rata share shall be the rate of assessment per kernelweight pound of walnuts fixed by the Secretary times the kernelweight of merchantable walnuts he has certified. At any time during or after the marketing year the Secretary may increase the assessment rate as necessary to cover authorized expenses and each handler's pro rata share shall be adjusted accordingly.
 
 (b) *Reserve walnut pool expenses.* The Board is authorized temporary use of funds derived from assessments collected pursuant to paragraph (a) of this section to defray expenses incurred in disposing of reserve walnuts pooled. All such expenses shall be deducted from the proceeds obtained by the Board from the sale or other disposal of pooled reserve walnuts.

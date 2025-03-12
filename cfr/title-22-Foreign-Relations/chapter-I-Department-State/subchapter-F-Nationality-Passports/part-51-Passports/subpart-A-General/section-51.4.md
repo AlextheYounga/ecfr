@@ -18,7 +18,7 @@
 
 (g) *Invalidity.* A United States passport is invalid as soon as:
 
-(1) The Department has sent or personally delivered a written notice to the bearer stating that the passport has been revoked; or
+(1) The Department approves the revocation notification pursuant to § 51.65(a); or
 
 (2) The passport has been reported as lost or stolen to the Department, a U.S. passport agency or a diplomatic or consular post abroad and the Department has recorded the reported loss or theft; or
 
@@ -32,4 +32,6 @@
 
 (7) The Department has sent a written notice to the bearer, directly or through the bearer's employing agency, stating that a special issuance passport has been cancelled by the Department.
 
-[81 FR 67158, Sept. 30, 2016]
+(8) The Department approves a Certificate of Loss of Nationality for the passport holder pursuant to § 50.40 of this chapter and 8 U.S.C. 1481.
+
+[81 FR 67158, Sept. 30, 2016, as amended at 83 FR 21874, May 11, 2018]

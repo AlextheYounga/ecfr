@@ -1,0 +1,3 @@
+##### § 17.800 Purpose. #####
+
+The purpose of the Transitional Housing Loan Program regulations is to establish application provisions and selection criteria for loans to non-profit organizations for use in initial startup costs for transitional housing for veterans who are in (or have recently been in) a program for the treatment of substance abuse. This program is intended to increase the amount of transitional housing available for such veterans who need a period of supportive housing to encourage sobriety maintenance and reestablishment of social and community relationships.

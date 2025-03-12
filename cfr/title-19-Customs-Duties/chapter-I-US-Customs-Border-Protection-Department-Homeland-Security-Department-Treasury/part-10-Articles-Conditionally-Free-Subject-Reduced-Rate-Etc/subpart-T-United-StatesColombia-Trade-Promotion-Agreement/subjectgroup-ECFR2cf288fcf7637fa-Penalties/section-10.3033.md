@@ -12,7 +12,7 @@
 
 (3) In the case of a corrected claim or certification by an importer, accompanied or followed by a tender of any actual loss of duties and merchandise processing fees, if applicable, in accordance with paragraph (d) of this section.
 
-(b) *Exception in cases involving fraud or subsequent incorrect claims* - (1) *Fraud.* Notwithstanding paragraph (a) of this section, a person who acted fraudulently in making an incorrect claim or certification may not make a voluntary correction of that claim or certification. For purposes of this paragraph, the term “fraud” will have the meaning set forth in paragraph (C)(3) of appendix B to Part 171 of this chapter.
+(b) *Exception in cases involving fraud or subsequent incorrect claims*—(1) *Fraud.* Notwithstanding paragraph (a) of this section, a person who acted fraudulently in making an incorrect claim or certification may not make a voluntary correction of that claim or certification. For purposes of this paragraph, the term “fraud” will have the meaning set forth in paragraph (C)(3) of appendix B to part 171 of this chapter.
 
 (2) *Subsequent incorrect claims.* An importer who makes one or more incorrect claims after becoming aware that a claim involving the same merchandise and circumstances is invalid may not make a voluntary correction of the subsequent claims pursuant to paragraph (a) of this section.
 

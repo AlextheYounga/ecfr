@@ -1,5 +1,7 @@
 ##### § 414.414 Conditions for awarding contracts. #####
 
+Link to an amendment published at 83 FR 21925, May 11, 2018.
+
 (a) *General rule.* The rules set forth in this section govern the evaluation and selection of suppliers for contract award purposes under a competitive bidding program.
 
 (b) *Basic supplier eligibility.* (1) Each supplier must meet the enrollment standards specified in § 424.57(c) of this chapter.

@@ -1,6 +1,6 @@
 ##### § 8.17 Review. #####
 
-Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.Link to an amendment published at 83 FR 21927, May 11, 2018.
 
 (a) *Interlocutory review.* (1) Except as provided below, no party may seek review of interlocutory rulings until a decision on the merits has been issued by the Commission's staff, including an administrative law judge.
 
