@@ -1,7 +1,5 @@
 ##### § 1.9005 Included services. #####
 
-Link to an amendment published at 85 FR 22861, Apr. 23, 2020.
-
 The spectrum leasing policies and rules of this subpart apply to the following services, which include Wireless Radio Services in which commercial or private licensees hold exclusive use rights and the Ancillary Terrestrial Component (ATC) of a Mobile Satellite Service:
 
 (a) The Paging and Radiotelephone Service (part 22 of this chapter);
@@ -76,8 +74,10 @@ The spectrum leasing policies and rules of this subpart apply to the following s
 
 (jj) The ATC of a Mobile Satellite Service (part 25 of this chapter);
 
-(kk) The 600 MHz band (part 27 of this chapter); and
+(kk) The 600 MHz band (part 27 of this chapter);
 
-(ll) The Upper Microwave Flexible Use Service (part 30 of this chapter).
+(ll) The Upper Microwave Flexible Use Service (part 30 of this chapter); and
 
-[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016]
+(mm) The 3.7 GHz Service in the 3.7-3.98 GHz band.
+
+[69 FR 77551, Dec. 27, 2004, as amended at 71 FR 29815, May 24, 2006; 72 FR 27708, May 16, 2007; 72 FR 48843, Aug. 24, 2007; 76 FR 31259, May 31, 2011; 79 FR 596, Jan. 6, 2014; 79 FR 48533, Aug. 15, 2014; 81 FR 49065, July 26, 2016; 81 FR 79931, Nov. 14, 2016; 85 FR 22861, Apr. 23, 2020]

@@ -1,7 +1,5 @@
 ##### § 27.5 Frequencies. #####
 
-Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
-
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 
 (1) Two paired channel blocks are available for assignment on a Major Economic Area basis as follows:
@@ -112,4 +110,6 @@ No 125 kHz channels are provided for channels in operation in this service. The 
 
 *Block G:* 647-652 MHz and 693-698 MHz.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(m) *3700-3980 MHz band.* The 3.7 GHz Service is comprised of Block A (3700-3800 MHz); Block B (3800-3900 MHz); and Block C (3900-3980 MHz). These blocks are licensed as 14 individual 20 megahertz sub-blocks available for assignment in the contiguous United States on a Partial Economic Area basis, *see* § 27.6(m), as follows:
+
+![](/graphics/er23ap20.007.gif)[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 300.218 Reporting and recordkeeping requirements. #####
 
+Link to an amendment published at 85 FR 37389, June 22, 2020.
+
 (a) *Fishing reports* - (1) *General.* The owner or operator of any fishing vessel of the United States used for commercial fishing for HMS in the Pacific Ocean must maintain and report to NMFS catch and effort and other operational information for all such fishing activities. The reports must include at a minimum: identification information for the vessel; description of fishing gear used; dates, times and locations of fishing; and species and amounts of fish retained and discarded.
 
 (2) *Reporting options.* Vessel owners and operators shall be deemed to meet the recordkeeping and reporting requirements of paragraph (a)(1) of this section by satisfying all applicable catch and effort reporting requirements as listed below:

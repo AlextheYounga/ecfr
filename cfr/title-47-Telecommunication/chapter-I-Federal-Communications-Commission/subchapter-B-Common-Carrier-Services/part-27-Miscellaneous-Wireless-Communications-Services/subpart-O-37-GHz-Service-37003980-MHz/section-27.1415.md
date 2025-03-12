@@ -1,0 +1,3 @@
+##### § 27.1415 Documentation of expenses. #####
+
+Parties seeking reimbursement of compensable relocation costs must document their actual expenses and the Relocation Payment Clearinghouse, or a third-party on behalf of the Relocation Payment Clearinghouse, may conduct audits of entities that receive reimbursements. Entities receiving reimbursements must make available all relevant documentation upon request from the Relocation Payment Clearinghouse or its contractor.

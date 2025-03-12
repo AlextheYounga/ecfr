@@ -1,5 +1,7 @@
 ##### § 300.223 Purse seine fishing restrictions. #####
 
+Link to an amendment published at 85 FR 37390, June 22, 2020.
+
 None of the requirements of this section apply in the territorial seas or archipelagic waters of the United States or any other nation, as defined by the domestic laws and regulations of that nation and recognized by the United States. All dates used in this section are in Universal Coordinated Time, also known as UTC; for example: the year 2013 starts at 00:00 on January 1, 2013 UTC and ends at 24:00 on December 31, 2013 UTC; and July 1, 2013, begins at 00:00 UTC and ends at 24:00 UTC.
 
 (a) *Fishing effort limits.* This paragraph establishes limits on the number of fishing days that fishing vessels of the United States equipped with purse seine gear may operate in the Convention Area in the area between 20° N latitude and 20° S latitude in a calendar year.

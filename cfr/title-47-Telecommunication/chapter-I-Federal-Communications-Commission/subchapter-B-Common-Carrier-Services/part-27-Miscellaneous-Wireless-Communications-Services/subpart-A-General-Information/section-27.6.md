@@ -1,7 +1,5 @@
 ##### § 27.6 Service areas. #####
 
-Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
-
 (a) WCS service areas include Economic Areas (EAs), Major Economic Areas (MEAs), Regional Economic Area Groupings (REAGs), cellular markets comprising Metropolitan Statistical Areas (MSAs) and Rural Service Areas (RSAs), and a nationwide area. MEAs and REAGs are defined in the Table immediately following paragraph (a)(1) of this section. Both MEAs and REAGs are based on the U.S. Department of Commerce's EAs. *See* 60 FR 13114 (March 10, 1995). In addition, the Commission shall separately license Guam and the Northern Mariana Islands, Puerto Rico and the United States Virgin Islands, American Samoa, and the Gulf of Mexico, which have been assigned Commission-created EA numbers 173-176, respectively. The nationwide area is composed of the contiguous 48 states, Alaska, Hawaii, the Gulf of Mexico, and the U.S. territories. Maps of the EAs, MEAs, MSAs, RSAs, and REAGs and the Federal Register Notice that established the 172 EAs are available for public inspection and copying at the Reference Information Center, Consumer and Governmental Affairs Bureau, Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554.
 
 (1) The 52 MEAs are composed of one or more EAs and the 12 REAGs are composed of one or more MEAs, as defined in the table below:
@@ -141,5 +139,21 @@ Economic Areas are defined by the Regional Economic Analysis Division, Bureau of
 (2) Service areas for Blocks H (1760-1765 MHz and 2160-2165 MHz), I (1765-1770 MHz and 2165-2170 MHz), J (1770-1780 MHz and 2170-2180 MHz), A1 (1695-1700 MHz) and B1 (1700-1710 MHz) are based on Economic Areas (EAs) as defined in paragraph (a) of this section.
 
 (l) *600 MHz band.* Service areas for the 600 MHz band are based on Partial Economic Areas (PEAs) as defined by *Wireless Telecommunications Bureau Provides Details About Partial Economic Areas,* Public Notice, 29 FCC Rcd 6491, App. B (2014). The service areas of PEAs that border the U.S. coastline of the Gulf of Mexico extend 12 nautical miles from the U.S. Gulf coastline. The service area of the Gulf of Mexico PEA (PEA 416) that comprises the water area of the Gulf of Mexico extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf.
+
+(m) *3700-3980 MHz Band.* Service areas in the 3.7 GHz Service are based on Partial Economic Areas (PEAs) as defined by appendix A to this subpart (*see Wireless Telecommunications Bureau Provides Details About Partial Economic Areas,* DA 14-759, Public Notice, released June 2, 2014, for more information). The 3.7 GHz Service will be licensed in the contiguous United States, *i.e.,* the contiguous 48 states and the District of Columbia as defined by Partial Economic Areas Nos. 1-41, 43-211, 213-263, 265-297, 299-359, and 361-411. The service areas of PEAs that border the U.S. coastline of the Gulf of Mexico extend 12 nautical miles from the U.S. Gulf coastline. The 3.7 GHz Service will not be licensed for the following PEAs:
+
+Table 3 to Paragraph (m)
+
+|PEA No.|           PEA name           |
+|-------|------------------------------|
+|  42   |        Honolulu, HI.         |
+|  212  |        Anchorage, AK.        |
+|  264  |         Kodiak, AK.          |
+|  298  |        Fairbanks, AK.        |
+|  360  |         Juneau, AK.          |
+|  412  |         Puerto Rico.         |
+|  413  |Guam-Northern Mariana Islands.|
+|  414  |      US Virgin Islands.      |
+|  415  |       American Samoa.        |
 
 [62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

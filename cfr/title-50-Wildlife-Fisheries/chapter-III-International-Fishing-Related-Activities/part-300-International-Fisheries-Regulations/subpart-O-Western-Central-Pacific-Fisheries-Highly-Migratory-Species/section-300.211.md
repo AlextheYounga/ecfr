@@ -1,5 +1,7 @@
 ##### § 300.211 Definitions. #####
 
+Link to an amendment published at 85 FR 37388, June 22, 2020.
+
 In addition to the terms defined in § 300.2 and those in the Act and in the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, with Annexes (WCPF Convention), which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High-Level Conference on Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, the terms used in this subpart have the following meanings.
 
 *1982 Convention* means the United Nations Convention on the Law of the Sea of 10 December 1982.

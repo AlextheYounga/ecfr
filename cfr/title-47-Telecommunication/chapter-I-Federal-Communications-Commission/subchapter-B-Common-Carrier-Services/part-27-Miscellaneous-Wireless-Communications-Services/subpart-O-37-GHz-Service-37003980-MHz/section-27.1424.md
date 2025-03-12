@@ -1,0 +1,3 @@
+##### § 27.1424 Agreements between 3.7 GHz Service licensees and C-Band earth station operators. #####
+
+The PFD limits in § 27.1423 may be modified by the private agreement of licensees of 3.7 GHz Service and entities operating earth stations in the 4000-4200 MHz band or TT&C operations in the 3700-3980 MHz band. A licensee of the 3.7 GHz Service who is a party to such an agreement must maintain a copy of the agreement in its station files and disclose it, upon request, to prospective license assignees, transferees, or spectrum lessees, and to the Commission.

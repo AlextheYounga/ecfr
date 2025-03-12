@@ -1,7 +1,5 @@
 ##### § 101.803 Frequencies. #####
 
-Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
-
 (a) Frequencies in the following bands are available for assignment to television pickup and television non-broadcast pickup stations in this service:
 
 6,425 to 6,525 MHz. (6)11,700 to 12,200 MHz. (3)13,200 to 13,250 MHz. (1)14,200 to 14,400 MHz. (8)21,200 to 22,000 MHz. (1), (2), (4), (5)22,000 to 23,600 MHz. (1), (2), (5)31,000 to 31,300 MHz. (7)Notes
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 3,700 to 4,200 MHz (1)5,925 to 6,425 MHz (1),(5)10,700 to 11,700 MHz (1),(6)11,700 to 12,100 MHz (3)13,200 to 13,250 MHz (2)21,200 to 22,000 MHz (2),(4),(7),(8)22,000 to 23,600 MHz (2),(6),(8)31,000 to 31,300 MHz (9)Notes
 
-(1) This frequency band is shared with stations in the Point to Point Microwave Radio Service and, in United States Possessions in the Caribbean area, with stations in the International Fixed Radiocommunications Services.
+(1) This frequency band is shared with stations in the Point to Point Microwave Radio Service and, in United States Possessions in the Caribbean area, with stations in the International Fixed Radiocommunications Services. For 3,700-4,200 MHz frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. In the contiguous United States, licensees of existing licenses, as of April 19, 2018, for permanent point-to-point Fixed Service links have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band.
 
 (2) This frequency band is shared with fixed and mobile stations licensed under this and other parts of the Commission's rules.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 (9) As of June 30, 1997, frequencies in this band only are available for assignment to LMDS radio stations, except for non-LMDS stations authorized pursuant to applications refiled no later than June 26, 1998. Stations authorized prior to June 30, 1997, may continue to operate within the existing terms of the outstanding licenses, subject to renewal. Non-LMDS stations authorized pursuant to applications refiled no later than June 26, 1998 shall operate on an unprotected basis and subject to harmful interference from each other or stations licensed prior to June 30, 1997, and on a secondary basis to LMDS radio stations.
 
-(e) *6425 to 6525 MHz - Mobile Only.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or for multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 74 and 78 of this chapter. The following channel plans apply.
+(e) *6425 to 6525 MHz—Mobile Only.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or for multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 74 and 78 of this chapter. The following channel plans apply.
 
 (1) 1 MHz maximum authorized bandwidth channels.
 
@@ -77,4 +75,4 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 (f) The frequency 27.255 MHz in the 27.23-27.28 MHz band is allocated for assignment to microwave auxiliary stations in this service on a shared basis with other radio services. Assignments to stations on this frequency will not be protected from such interference as may be experienced from the emissions of industrial, scientific and medical equipment operating on 27.12 MHz in accordance with § 2.106 of this chapter.
 
-[61 FR 26677, May 28, 1996, as amended at 62 FR 23168, Apr. 29, 1997; 63 FR 9448, Feb. 25, 1998; 63 FR 14039, Mar. 24, 1998; 65 FR 38332, June 20, 2000; 68 FR 4961, Jan. 31, 2003; 68 FR 12777, Mar. 17, 2003; 70 FR 4788, Jan. 31, 2005; 84 FR 63812, Nov. 19, 2019]
+[61 FR 26677, May 28, 1996, as amended at 62 FR 23168, Apr. 29, 1997; 63 FR 9448, Feb. 25, 1998; 63 FR 14039, Mar. 24, 1998; 65 FR 38332, June 20, 2000; 68 FR 4961, Jan. 31, 2003; 68 FR 12777, Mar. 17, 2003; 70 FR 4788, Jan. 31, 2005; 84 FR 63812, Nov. 19, 2019; 85 FR 22890, Apr. 23, 2020]

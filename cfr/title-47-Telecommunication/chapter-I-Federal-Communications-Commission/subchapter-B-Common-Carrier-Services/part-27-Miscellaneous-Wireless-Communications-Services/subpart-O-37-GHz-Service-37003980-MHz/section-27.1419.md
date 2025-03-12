@@ -1,0 +1,3 @@
+##### § 27.1419 Lump sum payment for earth station opt out. #####
+
+The Wireless Telecommunications Bureau shall announce a lump sum that will be available per each incumbent earth station that elects to opt out from the formal relocation process, per § 27.1412(e), as well as the process for electing lump sum payments. Incumbent earth station owners must make the lump sum payment election no later than 30 days after the Bureau announces the lump sum payment amounts, and must indicate whether each incumbent earth station for which it elects the lump sum payment will be transitioned to the upper 200 megahertz in order to maintain C-band services or will discontinue C-band services.

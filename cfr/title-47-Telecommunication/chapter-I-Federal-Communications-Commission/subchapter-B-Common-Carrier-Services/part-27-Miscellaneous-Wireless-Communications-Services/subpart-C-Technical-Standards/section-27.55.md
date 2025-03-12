@@ -1,7 +1,5 @@
 ##### § 27.55 Power strength limits. #####
 
-Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
-
 (a) *Field strength limits.* For the following bands, the predicted or measured median field strength at any location on the geographical border of a licensee's service area shall not exceed the value specified unless the adjacent affected service area licensee(s) agree(s) to a different field strength. This value applies to both the initially offered service areas and to partitioned service areas.
 
 (1) 1995-2000 MHz, 2110-2155, 2155-2180, 2180-2200, 2305-2320, and 2345-2360 MHz bands: 47 dBµV/m.
@@ -22,4 +20,6 @@ Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
 
 (c) *Power flux density limit for stations operating in the 746-757 MHz and 776-787 MHz bands.* For base and fixed stations operating in the 746-757 MHz and 776-787 MHz bands in accordance with the provisions of § 27.50(b)(6), the power flux density that would be produced by such stations through a combination of antenna height and vertical gain pattern must not exceed 3000 microwatts per square meter on the ground over the area extending to 1 km from the base of the antenna mounting structure.
 
-[69 FR 5715, Feb. 6, 2004, as amended at 69 FR 72034, Dec. 10, 2004; 72 FR 27712, May 16, 2007; 72 FR 48852, Aug. 24, 2007; 73 FR 26040, May 8, 2008; 78 FR 8270, Feb. 5, 2013; 78 FR 50256, Aug. 16, 2013; 79 FR 599, Jan. 6, 2014; 79 FR 32413, June 4, 2014; 79 FR 48539, Aug. 15, 2014]
+(d) *Power flux density for stations operating in the 3700-3980 MHz band.* For base and fixed stations operation in the 3700-3980 MHz band in accordance with the provisions of § 27.50(j), the power flux density (PFD) at any location on the geographical border of a licensee's service area shall not exceed −76 dBm/m2/MHz. This power flux density will be measured at 1.5 meters above ground. Licensees in adjacent geographic areas may voluntarily agree to operate under a higher PFD at their common boundary.
+
+[69 FR 5715, Feb. 6, 2004, as amended at 69 FR 72034, Dec. 10, 2004; 72 FR 27712, May 16, 2007; 72 FR 48852, Aug. 24, 2007; 73 FR 26040, May 8, 2008; 78 FR 8270, Feb. 5, 2013; 78 FR 50256, Aug. 16, 2013; 79 FR 599, Jan. 6, 2014; 79 FR 32413, June 4, 2014; 79 FR 48539, Aug. 15, 2014; 85 FR 22882, Apr. 23, 2020]

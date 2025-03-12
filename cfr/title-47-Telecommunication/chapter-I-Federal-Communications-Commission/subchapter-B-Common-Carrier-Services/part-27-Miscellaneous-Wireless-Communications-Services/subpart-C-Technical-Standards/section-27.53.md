@@ -1,7 +1,5 @@
 ##### § 27.53 Emission limits. #####
 
-Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
-
 (a) For operations in the 2305-2320 MHz band and the 2345-2360 MHz band, the power of any emission outside a licensee's frequency band(s) of operation shall be attenuated below the transmitter power P (with averaging performed only during periods of transmission) within the licensed band(s) of operation, in watts, by the following amounts:
 
 (1) For base and fixed stations' operations in the 2305-2320 MHz band and the 2345-2360 MHz band:
@@ -266,7 +264,11 @@ Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
 
 (k) For operations in the 1670-1675 MHz, the power of any emission outside the licensee's frequency band(s) of operation shall be attenuated below the transmitter power (P) by at least 43 + 10 log (P) dB. Compliance with these provisions is based on the procedures described in paragraph (a)(5) of this section.
 
-(l) [Reserved]
+(l) *3.7 GHz Service.* The following emission limits apply to stations transmitting in the 3700-3980 MHz band:
+
+(1) For base station operations in the 3700-3980 MHz band, the conducted power of any emission outside the licensee's authorized bandwidth shall not exceed −13 dBm/MHz. Compliance with this paragraph (l)(1) is based on the use of measurement instrumentation employing a resolution bandwidth of 1 megahertz or greater. However, in the 1 megahertz bands immediately outside and adjacent to the licensee's frequency block, a resolution bandwidth of at least one percent of the emission bandwidth of the fundamental emission of the transmitter may be employed. The emission bandwidth is defined as the width of the signal between two points, one below the carrier center frequency and one above the carrier center frequency, outside of which all emissions are attenuated at least 26 dB below the transmitter power.
+
+(2) For mobile operations in the 3700-3980 MHz band, the conducted power of any emission outside the licensee's authorized bandwidth shall not exceed −13 dBm/MHz. Compliance with this paragraph (l)(2) is based on the use of measurement instrumentation employing a resolution bandwidth of 1 megahertz or greater. However, in the 1 megahertz bands immediately outside and adjacent to the licensee's frequency block, the minimum resolution bandwidth for the measurement shall be either one percent of the emission bandwidth of the fundamental emission of the transmitter or 350 kHz. In the bands between 1 and 5 MHz removed from the licensee's frequency block, the minimum resolution bandwidth for the measurement shall be 500 kHz. The emission bandwidth is defined as the width of the signal between two points, one below the carrier center frequency and one above the carrier center frequency, outside of which all emissions are attenuated at least 26 dB below the transmitter power.
 
 (m) For BRS and EBS stations, the power of any emissions outside the licensee's frequency bands of operation shall be attenuated below the transmitter power (P) measured in watts in accordance with the standards below. If a licensee has multiple contiguous channels, out-of-band emissions shall be measured from the upper and lower edges of the contiguous channels.
 

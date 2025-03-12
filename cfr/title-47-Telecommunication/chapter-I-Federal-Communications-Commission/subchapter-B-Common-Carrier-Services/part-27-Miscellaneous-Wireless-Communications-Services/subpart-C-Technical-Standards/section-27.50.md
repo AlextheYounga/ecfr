@@ -1,7 +1,5 @@
 ##### § 27.50 Power limits and duty cycle. #####
 
-Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
-
 (a) The following power limits and related requirements apply to stations transmitting in the 2305-2320 MHz band or the 2345-2360 MHz band.
 
 (1) *Base and fixed stations.* (i) For base and fixed stations transmitting in the 2305-2315 MHz band or the 2350-2360 MHz band:
@@ -147,6 +145,18 @@ Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
 (4) For main, booster and response stations utilizing digital emissions with non-uniform power spectral density (*e.g.* unfiltered QPSK), the power measured within any 100 kHz resolution bandwidth within the 6 MHz channel occupied by the non-uniform emission cannot exceed the power permitted within any 100 kHz resolution bandwidth within the 6 MHz channel if it were occupied by an emission with uniform power spectral density, *i.e.*, if the maximum permissible power of a station utilizing a perfectly uniform power spectral density across a 6 MHz channel were 2000 watts EIRP, this would result in a maximum permissible power flux density for the station of 2000/60 = 33.3 watts EIRP per 100 kHz bandwidth. If a non-uniform emission were substituted at the station, station power would still be limited to a maximum of 33.3 watts EIRP within any 100 kHz segment of the 6 MHz channel, irrespective of the fact that this would result in a total 6 MHz channel power of less than 2000 watts EIRP.
 
 (i) Peak transmit power shall be measured over any interval of continuous transmission using instrumentation calibrated in terms of rms-equivalent voltage. The measurement results shall be properly adjusted for any instrument limitations, such as detector response times, limited resolution bandwidth capability when compared to the emission bandwidth, etc., so as to obtain a true peak measurement for the emission in question over the full bandwidth of the channel.
+
+(j) The following power requirements apply to stations transmitting in the 3700-3980 MHz band:
+
+(1) The power of each fixed or base station transmitting in the 3700-3980 MHz band and located in any county with population density of 100 or fewer persons per square mile, based upon the most recently available population statistics from the Bureau of the Census, is limited to an equivalent isotropically radiated power (EIRP) of 3280 Watts/MHz. This limit applies to the aggregate power of all antenna elements in any given sector of a base station.
+
+(2) The power of each fixed or base station transmitting in the 3700-3980 MHz band and situated in any geographic location other than that described in paragraph (j)(1) of this section is limited to an EIRP of 1640 Watts/MHz. This limit applies to the aggregate power of all antenna elements in any given sector of a base station.
+
+(3) Mobile and portable stations are limited to 1 Watt EIRP. Mobile and portable stations operating in these bands must employ a means for limiting power to the minimum necessary for successful communications.
+
+(4) Equipment employed must be authorized in accordance with the provisions of § 27.51. Power measurements for transmissions by stations authorized under this section may be made either in accordance with a Commission-approved average power technique or in compliance with paragraph (j)(5) of this section. In measuring transmissions in this band using an average power technique, the peak-to-average ratio (PAR) of the transmission may not exceed 13 dB.
+
+(5) Peak transmit power must be measured over any interval of continuous transmission using instrumentation calibrated in terms of an rms-equivalent voltage. The measurement results shall be properly adjusted for any instrument limitations, such as detector response times, limited resolution bandwidth capability when compared to the emission bandwidth, sensitivity, and any other relevant factors, so as to obtain a true peak measurement for the emission in question over the full bandwidth of the channel.
 
 Table 1 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed Stations in the 757-758 and 775-776 MHz Bands and for Base and Fixed Stations in the 600 MHz, 698-757 MHz, 758-763 MHz, 776-787 MHz and 788-793 MHz Bands Transmitting a Signal With an Emission Bandwidth of 1 MHz or Less
 

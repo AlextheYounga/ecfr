@@ -1,5 +1,7 @@
 ##### § 300.215 Observers. #####
 
+Link to an amendment published at 85 FR 37388, June 22, 2020.
+
 (a) *Applicability.* This section applies to the following categories of fishing vessels:
 
 (1) Any fishing vessel of the United States with a WCPFC Area Endorsement.

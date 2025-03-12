@@ -1,7 +1,5 @@
 ##### § 27.11 Initial authorization. #####
 
-Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
-
 (a) An applicant must file a single application for an initial authorization for all markets won and frequency blocks desired. Initial authorizations shall be granted in accordance with § 27.5. Applications for individual sites are not required and will not be accepted, except where required for environmental assessments, in accordance with §§ 1.1301 through 1.1319 of this chapter.
 
 (b) *2305-2320 MHz and 2345-2360 MHz bands.* Initial authorizations for the 2305-2320 MHz and 2345-2360 MHz bands shall be for 10 megahertz of spectrum in accordance with § 27.5(a).
@@ -62,4 +60,6 @@ Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
 
 (k) *600 MHz band.* Initial authorizations for the 600 MHz band will be based on Partial Economic Areas (PEAs), as specified in § 27.6(1), and, shall be paired channels that each consist of a 5 megahertz channel block in the 600 MHz downlink band (617-652 MHz), paired with a 5 megahertz channel block in the 600 MHz uplink band (663-698 MHz), based on the frequency blocks specified in § 27.5(l).
 
-[62 FR 9658, Mar. 3, 1997, as amended at 63 FR 68954, Dec. 14, 1998; 65 FR 3146, Jan. 20, 2000; 67 FR 5511, Feb. 6, 2002; 67 FR 41854, June 20, 2002; 69 FR 5715, Feb. 6, 2004; 69 FR 39867, July 1, 2004; 69 FR 77950, Dec. 29, 2004; 70 FR 58065, Oct. 5, 2005; 72 FR 48845, Aug. 24, 2007; 79 FR 597, Jan. 6, 2014; 79 FR 32410, June 4, 2014; 79 FR 48536, Aug. 15, 2014; 82 FR 47160, Oct. 11, 2017]
+(l) *3700-3980 MHz band.* Authorizations for licenses in the 3.7 GHz Service will be based on Partial Economic Areas (PEAs), as specified in § 27.6(m), and the frequency sub-blocks specified in § 27.5(m).
+
+[62 FR 9658, Mar. 3, 1997, as amended at 63 FR 68954, Dec. 14, 1998; 65 FR 3146, Jan. 20, 2000; 67 FR 5511, Feb. 6, 2002; 67 FR 41854, June 20, 2002; 69 FR 5715, Feb. 6, 2004; 69 FR 39867, July 1, 2004; 69 FR 77950, Dec. 29, 2004; 70 FR 58065, Oct. 5, 2005; 72 FR 48845, Aug. 24, 2007; 79 FR 597, Jan. 6, 2014; 79 FR 32410, June 4, 2014; 79 FR 48536, Aug. 15, 2014; 82 FR 47160, Oct. 11, 2017; 85 FR 22881, Apr. 23, 2020]

@@ -1,5 +1,7 @@
 ##### § 300.224 Longline fishing restrictions. #####
 
+Link to an amendment published at 85 FR 37390, June 22, 2020.
+
 (a) *Establishment of bigeye tuna catch limits.* (1) There is a limit of 3,554 metric tons of bigeye tuna per calendar year that may be captured in the Convention Area by longline gear and retained on board by fishing vessels of the United States.
 
 (2) [Reserved]

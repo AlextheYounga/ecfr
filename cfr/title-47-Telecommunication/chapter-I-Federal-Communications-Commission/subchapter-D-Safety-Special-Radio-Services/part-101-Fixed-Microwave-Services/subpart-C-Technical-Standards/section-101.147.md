@@ -1,7 +1,5 @@
 ##### § 101.147 Frequency assignments. #####
 
-Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
-
 (a) Frequencies in the following bands are available for assignment for fixed microwave services.
 
 928.0-929.0 MHz (28)932.0-932.5 MHz (27)932.5-935 MHz (17)941.0-941.5 MHz (27)941.5-944 MHz (17) (18)952.0-960.0 MHz (28)1,850-1,990 MHz (20) (22)2,110-2,130 MHz) (1) (3) (7) (20) (23)2,130-2,150 MHz (20) (22)2,160-2,180 MHz (1) (2) (20) (23)2,180-2,200 MHz (20) (22)2,450-2,500 MHz (12)2,650-2,690 MHz3,700-4,200 MHz (8) (14) (25)5,925-6,425 MHz (6) (14) (25)6,425-6,525 MHz (24)6,525-6.875 MHz (14) (33)6,875-7,125 MHz (10), (34)10,550-10,680 MHz (19)10,700-11,700 MHz (8) (9) (19) (25)11,700-12,200 MHz (24)12,200-12,700 MHz (31)12,700-13,200 (22), (34)13,200-13,250 MHz (4) (24) (25)14,200-14,400 MHz (24)17,700-18,820 MHz (5) (10) (15)17,700-18,300 MHz (10) (15)18,820-18,920 MHz (22)18,300-18,580 MHz (5) (10) (15)18,580-19,300 MHz (22) (30)18,920-19,160 MHz (5 (10) (15)19,160-19,260 MHz (22)19,260-19,700 MHz (5) (10) (15)19,300-19,700 MHz (5) (10) (15)21,200-22,000 MHz (4) (11) (12) (13) (24) (25) (26)22,000-23,600 MHz (4) (11) (12) (24) (25) (26)24,250-25,250 MHz29,100-29,250 MHz (5), (16)31,000-31,300 MHz (16)42,000-42,500 MHz71,000-76,000 MHz (5) (17)81,000-86,000 MHz (5) (17)92,000-94,000 MHz (17)94,100-95,000 MHz (17)Notes
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 (7) Frequencies in the band 2110-2120 MHz may be authorized on a case-by-case basis to Government or non-Government space research earth stations for telecommand purposes in connection with deep space research.
 
-(8) This frequency band is shared with station(s) in the Local Television Transmission Service and, in the U.S. Possessions in the Caribbean area, with stations in the International Fixed Public Radiocommunications Services.
+(8) This frequency band is shared with station(s) in the Local Television Transmission Service for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, for permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band. This frequency band is also shared in the U.S. Possessions in the Caribbean area, with stations in the International Fixed Public Radiocommunications Services.
 
 (9) The band segments 10.95-11.2 and 11.45-11.7 GHz are shared with space stations (space to earth) in the fixed-satellite service.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 (13) Frequencies in this band are shared with stations in the earth exploration satellite service (space to earth).
 
-(14) Frequencies in this band are shared with stations in the fixed-satellite service.
+(14) Frequencies in this band are shared with stations in the fixed satellite service. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz.
 
 (15) Stations licensed as of September 9, 1983 to use frequencies in the 17.7-19.7 GHz band may, upon proper application, continue to be authorized for such operation.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 22890, Apr. 23, 2020.
 
 (24) Frequencies in these bands are available for assignment to television pickup and television non-broadcast pickup stations. The maximum power for the local television transmission service in the 14.2-14.4 GHz band is + 45 dBW except that operations are not permitted within 1.5 degrees of the geostationary orbit. Beginning March 1, 2005, no new LTTS operators will be licensed and no existing LTTS licenses shall be issued in the 11.7-12.2 and 14.2-14.4 GHz bands.
 
-(25) Frequencies in these bands are available for assignment to television STL stations.
+(25) Frequencies in these bands are available for assignment to television STL stations. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band.
 
 (26) Frequencies from 21.8-22.0 GHz and 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the provisions of paragraph (s)(8) of this section.
 
@@ -82,7 +80,7 @@ Paragraphs (b)(1) through (b)(5) and Tables 1 through 7 of this section pertain 
 
 (1) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
 
-Table 1 - Paired Frequencies (MHz)
+Table 1—Paired Frequencies (MHz)
 
 [12.5 kHz bandwidth]
 
@@ -130,7 +128,7 @@ Unpaired Frequencies (MHz)
 |956.30625|956.38125|956.44375|
 |956.31875|         |         |
 
-Table 2 - Paired Frequencies (MHz)
+Table 2—Paired Frequencies (MHz)
 
 [25 kHz bandwidth]
 
@@ -162,7 +160,7 @@ Unpaired Frequencies (MHz)
 
 (2) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
 
-Table 3 - Paired Frequencies (MHz)
+Table 3—Paired Frequencies (MHz)
 
 [12.5 kHz bandwidth]
 
@@ -209,7 +207,7 @@ Table 3 - Paired Frequencies (MHz)
 |   928.83125   |   952.83125   |
 |   928.84375   |   952.84375   |
 
-Table 4 - Paired Frequencies (MHz)
+Table 4—Paired Frequencies (MHz)
 
 [25 kHz bandwidth]
 
@@ -238,7 +236,7 @@ Table 4 - Paired Frequencies (MHz)
 
 (3) Frequencies listed in this paragraph are not restricted to private internal use and are licensed by geographic area. Incumbent facilities must be protected.
 
-Table 5 - Paired Frequencies (MHz)
+Table 5—Paired Frequencies (MHz)
 
 [12.5 kHz bandwidth]
 
@@ -257,7 +255,7 @@ Table 5 - Paired Frequencies (MHz)
 |   928.98125   |   959.98125   |
 |   928.99375   |   959.99375   |
 
-Table 6 - Paired Frequencies (MHz)
+Table 6—Paired Frequencies (MHz)
 
 [25 kHz bandwidth]
 
@@ -272,7 +270,7 @@ Table 6 - Paired Frequencies (MHz)
 
 (4) Frequencies listed in this paragraph are licensed by either economic area or on a site-by-site basis.
 
-Table 7 - Paired Frequencies
+Table 7—Paired Frequencies
 
 |                                   Remote transmit                                    |Master transmit|
 |--------------------------------------------------------------------------------------|---------------|
@@ -339,7 +337,7 @@ For mobile operations the maximum ERP is 25 watts (44 dBm).
 
 (6) Fixed point-to-point frequencies.
 
-Table 8 - Paired Frequencies
+Table 8—Paired Frequencies
 
 [All frequencies may be used by Common Carrier Fixed Point-to-Point and Private Operational Fixed Point-to-Point Microwave Service licensees; 25 kHz bandwidth]
 
@@ -360,7 +358,7 @@ Table 8 - Paired Frequencies
 |        934.9625        |        943.9625        |
 |        934.9875        |        943.9875        |
 
-Table 9 - Paired Frequencies
+Table 9—Paired Frequencies
 
 [Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave Service licensees, unless otherwise noted; 50 kHz bandwidth]
 
@@ -397,7 +395,7 @@ Table 9 - Paired Frequencies
 
 <sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.
 
-Table 10 - Paired Frequencies
+Table 10—Paired Frequencies
 
 [Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave licensees, unless otherwise noted; 100 kHz bandwidth]
 
@@ -444,7 +442,7 @@ Table 10 - Paired Frequencies
 
 <sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.
 
-Table 11 - Paired Frequencies
+Table 11—Paired Frequencies
 
 [Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave licensees, unless otherwise noted; (200 kHz bandwidth)]
 
@@ -576,7 +574,7 @@ Paired Frequencies
 
 (g) [Reserved]
 
-(h) *3,700 to 4,200 MHz.* 20 MHz maximum authorized bandwidth.
+(h) *3,700 to 4,200 MHz outside the contiguous United States.* 20 MHz maximum authorized bandwidth.
 
 20 MHz bandwidth channels:
 
@@ -1706,7 +1704,7 @@ Paired Frequencies
 |               11075                |               11565                |
 |               11155                |               11645                |
 
-(p) *12,200 to 13,150 MHz* - (1) *12,000-12,700 MHz.* The Commission has allocated the 12.2-12.7 GHz band for use by the Direct Broadcast Satellite Service (DBS), the Multichannel Video Distribution and Data Service (MVDDS), and the Non-Geostationary Satellite Orbit Fixed Satellite Service (NGSO FSS). MVDDS shall be licensed on a non-harmful interference co-primary basis to existing DBS operations and on a co-primary basis with NGSO FSS stations in this band. MVDDS use can be on a common carrier and/or non-common carrier basis and can use channels of any desired bandwidth up to the maximum of 500 MHz provided the EIRP does not exceed 14 dBm per 24 megahertz. Private operational fixed point-to-point microwave stations authorized after September 9, 1983, are licensed on a non-harmful interference basis to DBS and are required to make any and all adjustments necessary to prevent harmful interference to operating domestic DBS receivers. Incumbent public safety licensees shall be afforded protection from MVDDS and NGSO FSS licensees, however all other private operational fixed licensees shall be secondary to DBS, MVDDS and NGSO FSS licensees. As of May 23, 2002, the Commission no longer accepts applications for new licenses for point-to-point private operational fixed stations in this band, however, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license. Notwithstanding any other provisions, no private operational fixed point-to-point microwave stations are permitted to cause harmful interference to broadcasting-satellite stations of other countries operating in accordance with the Region 2 plan for the Broadcasting-Satellite Service established at the 1983 WARC.
+(p) *12,200 to 13,150 MHz*—(1) *12,000-12,700 MHz.* The Commission has allocated the 12.2-12.7 GHz band for use by the Direct Broadcast Satellite Service (DBS), the Multichannel Video Distribution and Data Service (MVDDS), and the Non-Geostationary Satellite Orbit Fixed Satellite Service (NGSO FSS). MVDDS shall be licensed on a non-harmful interference co-primary basis to existing DBS operations and on a co-primary basis with NGSO FSS stations in this band. MVDDS use can be on a common carrier and/or non-common carrier basis and can use channels of any desired bandwidth up to the maximum of 500 MHz provided the EIRP does not exceed 14 dBm per 24 megahertz. Private operational fixed point-to-point microwave stations authorized after September 9, 1983, are licensed on a non-harmful interference basis to DBS and are required to make any and all adjustments necessary to prevent harmful interference to operating domestic DBS receivers. Incumbent public safety licensees shall be afforded protection from MVDDS and NGSO FSS licensees, however all other private operational fixed licensees shall be secondary to DBS, MVDDS and NGSO FSS licensees. As of May 23, 2002, the Commission no longer accepts applications for new licenses for point-to-point private operational fixed stations in this band, however, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license. Notwithstanding any other provisions, no private operational fixed point-to-point microwave stations are permitted to cause harmful interference to broadcasting-satellite stations of other countries operating in accordance with the Region 2 plan for the Broadcasting-Satellite Service established at the 1983 WARC.
 
 (2) *12,700 to 13,150 MHz.* 50 MHz authorized bandwidth.
 

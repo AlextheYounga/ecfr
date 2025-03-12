@@ -1,5 +1,7 @@
 ##### § 300.226 Oceanic whitetip shark and silky shark. #####
 
+Link to an amendment published at 85 FR 37390, June 22, 2020.
+
 (a) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS cannot retain on board, transship, store, or land any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) or silky shark (*Carcharhinus falciformis*) that is caught in the Convention Area, unless subject to the provisions of paragraph (c) of this section.
 
 (b) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS must release any oceanic whitetip shark or silky shark caught in the Convention Area as soon as possible after the shark is caught and brought alongside the vessel, and take reasonable steps for its safe release, without compromising the safety of any persons, unless subject to the provisions of paragraph (c) of this section.

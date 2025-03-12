@@ -1,7 +1,5 @@
 ##### § 101.3 Definitions. #####
 
-Link to an amendment published at 85 FR 22889, Apr. 23, 2020.
-
 As used in this part:
 
 *24 GHz Service.* A fixed point-to-point, point-to-multipoint, and multipoint-to-multipoint radio system in the 24.25-24.45 GHz band and in the 25.05-25.25 GHz band consisting of a fixed main (nodal) station and a number of fixed user terminals. This service may encompass any digital fixed service.
@@ -37,6 +35,8 @@ As used in this part:
 *Common carrier fixed point-to-point microwave service.* A common carrier public radio service rendered on microwave frequencies by fixed and temporary fixed stations between points that lie within the United States or between points to its possessions or to points in Canada or Mexico.
 
 *Communication common carrier.* Any person engaged in rendering communication service for hire to the public.
+
+*Contiguous United States.* For the 3700-4200 MHz band, the contiguous United States consists of the contiguous 48 states and the District of Columbia as defined by Partial Economic Areas Nos. 1-41, 43-211, 213-263, 265-297, 299-359, and 361-411, which includes areas within 12 nautical miles of the U.S. Gulf coastline (*see* § 27.6(m) of this chapter). In this context, the rest of the United States includes the Honolulu, Anchorage, Kodiak, Fairbanks, Juneau, Puerto Rico, Guam-Northern Mariana Islands, U.S. Virgin Islands, American Samoa, and the Gulf of Mexico PEAs (Nos. 42, 212, 264, 298, 360, 412-416).
 
 *Control point.* An operating position at which an operator responsible for the operation of the transmitter is stationed and which is under the control and supervision of the licensee.
 
@@ -212,4 +212,4 @@ The percentage of the total power outside the occupied bandwidth is represented 
 
 *Video entertainment material.* The transmission of a video signal (*e.g.* United States Standard Monochrome or National Television Systems Committee 525-line television) and an associated audio signal which is designed primarily to amuse or entertain, such as movies and games.
 
-[61 FR 26677, May 28, 1996, as amended at 61 FR 29693, June 12, 1996; 61 FR 31052, June 19, 1996; 61 FR 44181, Aug. 28, 1996; 62 FR 23163, Apr. 29, 1997; 63 FR 68981, Dec. 14, 1998; 65 FR 17448, Apr. 3, 2000; 65 FR 38326, June 20, 2000; 65 FR 59357, Oct. 5, 2000; 67 FR 43037, June 26, 2002; 68 FR 4955, Jan. 31, 2003; 77 FR 54432, Sept. 5, 2012]
+[61 FR 26677, May 28, 1996, as amended at 61 FR 29693, June 12, 1996; 61 FR 31052, June 19, 1996; 61 FR 44181, Aug. 28, 1996; 62 FR 23163, Apr. 29, 1997; 63 FR 68981, Dec. 14, 1998; 65 FR 17448, Apr. 3, 2000; 65 FR 38326, June 20, 2000; 65 FR 59357, Oct. 5, 2000; 67 FR 43037, June 26, 2002; 68 FR 4955, Jan. 31, 2003; 77 FR 54432, Sept. 5, 2012; 85 FR 22889, Apr. 23, 2020]

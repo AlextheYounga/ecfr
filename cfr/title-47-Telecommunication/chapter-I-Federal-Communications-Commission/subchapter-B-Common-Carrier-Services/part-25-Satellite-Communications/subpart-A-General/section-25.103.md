@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 85 FR 22864, Apr. 23, 2020.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -23,6 +21,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 (1) Multiple earth stations in the FSS or MSS, or for SDARS terrestrial repeaters, that may be operated anywhere within a geographic area specified in the license; or
 
 (2) For multiple space stations in non-geostationary-orbit.
+
+*Contiguous United States (CONUS).* For purposes of subparts B and C of this part, the contiguous United States consists of the contiguous 48 states and the District of Columbia as defined by Partial Economic Areas Nos. 1-41, 43-211, 213-263, 265-297, 299-359, and 361-411, which includes areas within 12 nautical miles of the U.S. Gulf coastline. In this context, the rest of the United States includes the Honolulu, Anchorage, Kodiak, Fairbanks, Juneau, Puerto Rico, Guam-Northern Mariana Islands, U.S. Virgin Islands, American Samoa, and the Gulf of Mexico PEAs (Nos. 42, 212, 264, 298, 360, 412-416). *See* § 27.6(m) of this chapter.
 
 *Conventional C-band.* The 3700-4200 MHz (space-to-Earth) and 5925-6425 MHz (Earth-to-space) FSS frequency bands.
 
@@ -132,4 +132,4 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020]

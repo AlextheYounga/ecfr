@@ -80,19 +80,19 @@
 
 (e) *Privilege of communication.* Every detained alien shall be notified that he or she may communicate with the consular or diplomatic officers of the country of his or her nationality in the United States. Existing treaties with the following countries require immediate communication with appropriate consular or diplomatic officers whenever nationals of the following countries are detained in removal proceedings, whether or not requested by the alien and even if the alien requests that no communication be undertaken in his or her behalf. When notifying consular or diplomatic officials, Service officers shall not reveal the fact that any detained alien has applied for asylum or withholding of removal.
 
-Albania1/\>
+Albania1
 
 1 Arrangements with these countries provide that U.S. authorities shall notify responsible representatives within 72 hours of the arrest or detention of one of their nationals.
 
-AntiguaArmeniaAzerbaijanBahamasBarbadosBelarusBelizeBruneiBulgariaChina (People's Republic of)2/\>
+AntiguaArmeniaAzerbaijanBahamasBarbadosBelarusBelizeBruneiBulgariaChina (People's Republic of)2
 
 2 When Taiwan nationals (who carry “Republic of China” passports) are detained, notification should be made to the nearest office of the Taiwan Economic and Cultural Representative's Office, the unofficial entity representing Taiwan's interests in the United States.
 
-Costa RicaCyprusCzech RepublicDominicaFijiGambia, TheGeorgiaGhanaGrenadaGuyanaHungaryJamaicaKazakhstanKiribatiKuwaitKyrgyzstanMalaysiaMaltaMauritiusMoldovaMongoliaNigeriaPhilippinesPolandRomaniaRussian FederationSt. Kitts/NevisSt. LuciaSt. Vincent/GrenadinesSeychellesSierra LeoneSingaporeSlovak RepublicSouth KoreaTajikistanTanzaniaTongaTrinidad/TobagoTurkmenistanTuvaluUkraineUnited Kingdom3/\>
+Costa RicaCyprusCzech RepublicDominicaFijiGambia, TheGeorgiaGhanaGrenadaGuyanaHungaryJamaicaKazakhstanKiribatiKuwaitKyrgyzstanMalaysiaMaltaMauritiusMoldovaMongoliaNigeriaPhilippinesPolandRomaniaRussian FederationSt. Kitts/NevisSt. LuciaSt. Vincent/GrenadinesSeychellesSierra LeoneSingaporeSlovak RepublicSouth KoreaTajikistanTanzaniaTongaTrinidad/TobagoTurkmenistanTuvaluUkraineUnited Kingdom3
 
 3 British dependencies are also covered by this agreement. They are: Anguilla, British Virgin Islands, Hong Kong, Bermuda, Montserrat, and the Turks and Caicos Islands. Their residents carry British passports.
 
-U.S.S.R.4/\>
+U.S.S.R.4
 
 4 All U.S.S.R. successor states are covered by this agreement. They are: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
