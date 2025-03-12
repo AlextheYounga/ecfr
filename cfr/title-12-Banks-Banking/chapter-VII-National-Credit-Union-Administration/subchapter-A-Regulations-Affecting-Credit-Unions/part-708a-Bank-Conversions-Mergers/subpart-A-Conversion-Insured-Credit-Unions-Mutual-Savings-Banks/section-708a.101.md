@@ -1,7 +1,5 @@
 ##### § 708a.101 Definitions. #####
 
-Link to an amendment published at 82 FR 60292, Dec. 20, 2017.
-
 As used in this part:
 
 *Clear and conspicuous* means text in bold type in a font size at least one size larger than any other text used in the document (exclusive of headings), but in no event smaller than 12 point.
@@ -22,10 +20,10 @@ As used in this part:
 
 *Mutual savings bank* and *savings association* have the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
-*Regional Director* means either the director for the NCUA Regional Office for the region where a natural person credit union's main office is located or the director of the NCUA's Office of Consumer Financial Protection and Access. For corporate credit unions and natural person credit unions with $10 billion or more in assets, *Regional Director* means the director of NCUA's Office of National Examinations and Supervision.
+*Regional Director* means either the director for the NCUA Regional Office for the region where a natural person credit union's main office is located or the director of the NCUA's Office of Credit Union Resources and Expansion. For corporate credit unions and natural person credit unions with $10 billion or more in assets, *Regional Director* means the director of NCUA's Office of National Examinations and Supervision.
 
 *Secret ballot* means no credit union employee or official can determine how a particular member voted. Credit union employees and officials are prohibited from assisting members in completing ballots or handling completed ballots.
 
 *Senior management official* means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer as defined by the appropriate federal banking agencies pursuant to section 32(f) of the Federal Deposit Insurance Act.
 
-[71 FR 77167, Dec. 22, 2006. Redesignated and amended at 75 FR 81386, Dec. 28, 2010; 76 FR 13505, Mar. 14, 2011; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016]
+[71 FR 77167, Dec. 22, 2006. Redesignated and amended at 75 FR 81386, Dec. 28, 2010; 76 FR 13505, Mar. 14, 2011; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016; 82 FR 60292, Dec. 20, 2017]

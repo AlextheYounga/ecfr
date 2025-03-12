@@ -28,7 +28,7 @@
 
 (4) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the maximum payout amount or, as applicable, the maximum leverage payout amount.
 
-(ii) A Board-regulated institution that has a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer, in accordance with paragraph (b) of this section, and, if applicable, that has a leverage buffer that is greater than 2.0 percent, in accordance with paragraph (c) of this section, is not subject to a maximum payout amount or maximum leverage payout amount under this section.
+(ii) A Board-regulated institution with a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer in accordance with paragraph (b) of this section, and 100 percent of its applicable GSIB surcharge, in accordance with paragraph (c) of this section, and, if applicable, that has a leverage buffer that is greater than 2.0 percent, in accordance with paragraph (d) of this section, is not subject to a maximum payout amount under this section.
 
 (iii) *Negative eligible retained income.* Except as provided in paragraph (a)(4)(iv) of this section, a Board-regulated institution may not make distributions or discretionary bonus payments during the current calendar quarter if the Board-regulated institution's:
 
@@ -88,4 +88,4 @@ Table 2 to § 217.11 - Calculation of Maximum Leverage Payout Amount
 |Less than or equal to 1.0 percent, and greater than 0.5 percent|                                      20 percent.                                      |
 |               Less than or equal to 0.5 percent               |                                      0 percent.                                       |
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015; 83 FR 705, Jan. 8, 2018]

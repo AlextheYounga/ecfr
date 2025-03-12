@@ -1,7 +1,5 @@
 ##### § 3179.201 Equipment requirements for pneumatic controllers. #####
 
-Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
-
 (a) A pneumatic controller that uses natural gas produced from a Federal or Indian lease, or from a unit or communitized area that includes a Federal or Indian lease, is subject to this section if the pneumatic controller:
 
 (1) Has a continuous bleed rate greater than 6 standard cubic feet (scf) per hour; and
@@ -32,6 +30,8 @@ Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
 
 (ii) The operator's projections of oil prices, oil production volumes, costs, revenues, and royalty payments from the operator's oil and gas operations within the lease over the next 15 years or the life of the operator's lease, unit, or communitized area, whichever is less.
 
-(d) The operator must replace the pneumatic controller(s) no later than 1 year after the effective date of this section as required under paragraph (b) of this section. If, however, the well or facility that the pneumatic controller serves has an estimated remaining productive life of 3 years or less from the effective date of this section, then the operator may notify the BLM through a Sundry Notice and replace the pneumatic controller no later than 3 years from the effective date of this section.
+(d) The operator must replace the pneumatic controller(s) by January 17, 2019, as required under paragraph (b) of this section. If, however, the well or facility that the pneumatic controller serves has an estimated remaining productive life of 3 years or less from January 17, 2017, then the operator may notify the BLM through a Sundry Notice and replace the pneumatic controller no later than 3 years from January 17, 2017.
 
 (e) The operator must ensure pneumatic controllers are functioning within manufacturers' specifications.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 82 FR 58072, Dec. 8, 2017]

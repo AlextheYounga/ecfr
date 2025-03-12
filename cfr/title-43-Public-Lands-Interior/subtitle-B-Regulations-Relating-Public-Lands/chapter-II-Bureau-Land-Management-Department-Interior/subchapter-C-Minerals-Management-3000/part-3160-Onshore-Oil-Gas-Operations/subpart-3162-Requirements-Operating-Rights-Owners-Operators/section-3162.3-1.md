@@ -1,7 +1,5 @@
 ##### § 3162.3-1 Drilling applications and plans. #####
 
-Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
-
 (a) Each well shall be drilled in conformity with an acceptable well-spacing program at a surveyed well location approved or prescribed by the authorized officer after appropriate environmental and technical reviews (see § 3162.5-1 of this title). An acceptable well-spacing program may be either (1) one which conforms with a spacing order or field rule issued by a State Commission or Board and accepted by the authorized officer, or (2) one which is located on a lease committed to a communitized or unitized tract at a location approved by the authorized officer, or (3) any other program established by the authorized officer.
 
 (b) Any well drilled on restricted Indian land shall be subject to the location restrictions specified in the lease and/or Title 25 of the CFR.
@@ -36,7 +34,7 @@ The surface use plan of operations for National Forest System lands shall be app
 
 (i) Approval of the Application for Permit to Drill does not warrant or certify that the applicant holds legal or equitable title to the subject lease(s) which would entitle the applicant to conduct drilling operations.
 
-(j) When submitting an Application for Permit to Drill an oil well, the operator must also submit a plan to minimize waste of natural gas from that well. The waste minimization plan must accompany, but would not be part of, the Application for Permit to Drill. The waste minimization plan must set forth a strategy for how the operator will comply with the requirements of 43 CFR subpart 3179 regarding control of waste from venting and flaring, and must explain how the operator plans to capture associated gas upon the start of oil production, or as soon thereafter as reasonably possible, including an explanation of why any delay in capture of the associated gas would be required. Failure to submit a complete and adequate waste minimization plan is grounds for denying or disapproving an Application for Permit to Drill. The waste minimization plan must include the following information:
+(j) Beginning January 17, 2019, when submitting an Application for Permit to Drill an oil well, the operator must also submit a plan to minimize waste of natural gas from that well. The waste minimization plan must accompany, but would not be part of, the Application for Permit to Drill. The waste minimization plan must set forth a strategy for how the operator will comply with the requirements of 43 CFR subpart 3179 regarding control of waste from venting and flaring, and must explain how the operator plans to capture associated gas upon the start of oil production, or as soon thereafter as reasonably possible, including an explanation of why any delay in capture of the associated gas would be required. Failure to submit a complete and adequate waste minimization plan is grounds for denying or disapproving an Application for Permit to Drill. The waste minimization plan must include the following information:
 
 (1) The anticipated completion date of the proposed well(s);
 
@@ -78,4 +76,4 @@ The surface use plan of operations for National Forest System lands shall be app
 
 (iii) A detailed evaluation, including estimates of costs and returns, of opportunities for on-site capture approaches, such as compression or liquefaction of natural gas, removal of natural gas liquids, or generation of electricity from gas.
 
-[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016]
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016; 82 FR 58072, Dec. 8, 2017]

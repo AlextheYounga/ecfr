@@ -1,7 +1,5 @@
 ##### § 73.14 AM broadcast definitions. #####
 
-Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
-
 *AM broadcast band.* The band of frequencies extending from 535 to 1705 kHz.
 
 *AM broadcast channel.* The band of frequencies occupied by the carrier and the upper and lower sidebands of an AM broadcast signal with the carrier frequency at the center. Channels are designated by their assigned carrier frequencies. The 117 carrier frequencies assigned to AM broadcast stations begin at 540 kHz and progress in 10 kHz steps to 1700 kHz. (See § 73.21 for the classification of AM broadcast channels).
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
 
 *Effective field; Effective field strength.* The root-mean-square (RMS) value of the inverse distance fields at a distance of 1 kilometer from the antenna in all directions in the horizontal plane. The term “field strength” is synonymous with the term “field intensity” as contained elsewhere in this Part.
 
-*Equipment performance measurements.* The measurements performed to determine the overall performance characteristics of a broadcast transmission system from point of program origination at main studio to sampling of signal as radiated. (See § 73.1590)
+*Equipment performance measurements.* The measurements performed to determine the overall performance characteristics of a broadcast transmission system from point of program origination to sampling of signal as radiated. (See § 73.1590)
 
 *Experimental period.* the time between 12 midnight local time and local sunrise, used by AM stations for tests, maintenance and experimentation.
 
@@ -70,11 +68,11 @@ Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
 
 In a positive direction:
 
-M = MAX−C × 100 - - - - -- - -- - c
+M = MAX−C × 100 ————--—--— c
 
 In a negative direction:
 
-M = C−MIN × 100 - - - - - - -- - cWhere:M = Modulation level in percent.MAX = Instantaneous maximum level of the modulated radio frequency envelope.MIN = Instantaneous minimum level of the modulated radio frequency envelope.C = (Carrier) level of radio frequency envelope without modulation.
+M = C−MIN × 100 ————-—--— cWhere:M = Modulation level in percent.MAX = Instantaneous maximum level of the modulated radio frequency envelope.MIN = Instantaneous minimum level of the modulated radio frequency envelope.C = (Carrier) level of radio frequency envelope without modulation.
 
 *Plate modulation.* The modulation produced by introduction of the modulating wave into the plate circuit of any tube in which the carrier frequency wave is present.
 
@@ -96,4 +94,4 @@ M = C−MIN × 100 - - - - - - -- - cWhere:M = Modulation level in percent.MAX =
 
 *White area.* The area or population which does not receive interference-free primary service from an authorized AM station or does not receive a signal strength of at least 1 mV/m from an authorized FM station.
 
-[47 FR 8587, Mar. 1, 1982, as amended at 47 FR 13164, Mar. 29, 1982; 47 FR 13812, Apr. 1, 1982; 50 FR 18821, May 2, 1985; 50 FR 47054, Nov. 14, 1985; 56 FR 64856, Dec. 12, 1991; 62 FR 51058, Sept. 30, 1997; 66 FR 20755, Apr. 25, 2001; 81 FR 2759, Jan. 19, 2016]
+[47 FR 8587, Mar. 1, 1982, as amended at 47 FR 13164, Mar. 29, 1982; 47 FR 13812, Apr. 1, 1982; 50 FR 18821, May 2, 1985; 50 FR 47054, Nov. 14, 1985; 56 FR 64856, Dec. 12, 1991; 62 FR 51058, Sept. 30, 1997; 66 FR 20755, Apr. 25, 2001; 81 FR 2759, Jan. 19, 2016; 82 FR 57882, Dec. 8, 2017]

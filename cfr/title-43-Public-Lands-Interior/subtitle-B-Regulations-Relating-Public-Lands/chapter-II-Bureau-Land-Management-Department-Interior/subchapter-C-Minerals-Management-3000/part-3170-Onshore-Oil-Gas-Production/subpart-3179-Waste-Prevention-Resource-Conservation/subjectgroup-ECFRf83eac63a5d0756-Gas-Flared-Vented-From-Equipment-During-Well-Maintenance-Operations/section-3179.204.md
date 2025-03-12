@@ -1,7 +1,5 @@
 ##### § 3179.204 Downhole well maintenance and liquids unloading. #####
 
-Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
-
 (a) The operator must minimize vented gas and the need for well venting associated with downhole well maintenance and liquids unloading, consistent with safe operations.
 
 (b) For wells equipped with a plunger lift system and/or an automated well control system, minimizing gas venting under paragraph (a) includes optimizing the operation of the system to minimize gas losses to the extent possible consistent with removing liquids that would inhibit proper function of the well.
@@ -27,3 +25,7 @@ Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
 (g) For purposes of this section, “well purging” means blowing accumulated liquids out of a wellbore by reservoir gas pressure, whether manually or by an automatic control system that relies on real-time pressure or flow, timers, or other well data, where the gas is vented to the atmosphere, and it does not apply to wells equipped with a plunger lift system.
 
 (h) Total estimated volumes vented as a result of downhole well maintenance and liquids unloading, including through the operation of plunger lifts and automated well controls, during the production month must be included in volumes reported to ONRR as vented.
+
+(i) The operator must comply with this section beginning January 17, 2019.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 82 FR 58073, Dec. 8, 2017]

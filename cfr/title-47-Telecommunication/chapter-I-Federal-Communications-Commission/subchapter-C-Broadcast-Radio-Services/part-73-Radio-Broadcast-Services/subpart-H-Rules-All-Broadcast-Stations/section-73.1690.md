@@ -1,7 +1,5 @@
 ##### § 73.1690 Modification of transmission systems. #####
 
-Link to an amendment published at 82 FR 57882, Dec. 8, 2017.
-
 The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.
 
 (a) The following changes are prohibited:
@@ -72,19 +70,17 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (iv) The increased ERP will not cause the station to violate the multiple ownership requirements of § 73.3555.
 
-(8) FM commercial stations and FM noncommercial educational stations may decrease ERP on a modification of license application provided that exhibits are included to demonstrate that all six of the following requirements are met:
+(8) FM commercial stations and FM noncommercial educational stations may decrease ERP on a modification of license application provided that exhibits are included to demonstrate that all five of the following requirements are met:
 
 (i) Commercial FM stations must continue to provide a 70 dBu principal community contour over the community of license, as required by § 73.315(a). Noncommercial educational FM stations must continue to provide a 60 dBu contour over at least a portion of the community of license. The 60 and 70 dBu contours must be predicted by use of the standard contour prediction method in § 73.313(b), (c), and (d).
 
-(ii) For both commercial FM and noncommercial educational FM stations, the location of the main studio remains within the 70 dBu principal community contour, as required by § 73.1125, or otherwise complies with that rule. The 70 dBu contour must be predicted by use of the standard contour prediction method in § 73.313(b), (c), and (d).
+(ii) For commercial FM stations only, there is no change in the authorized station class as defined in § 73.211.
 
-(iii) For commercial FM stations only, there is no change in the authorized station class as defined in § 73.211.
+(iii) For commercial FM stations only, the power decrease is not necessary to achieve compliance with the multiple ownership rule, § 73.3555.
 
-(iv) For commercial FM stations only, the power decrease is not necessary to achieve compliance with the multiple ownership rule, § 73.3555.
+(iv) Commercial FM stations, noncommercial educational FM stations on Channels 221 through 300, and noncommercial educational FM stations on Channels 200 through 220 which are located in excess of the distances in Table A of § 73.525 with respect to a Channel 6 TV station, may not use this rule to decrease the horizontally polarized ERP below the value of the vertically polarized ERP.
 
-(v) Commercial FM stations, noncommercial educational FM stations on Channels 221 through 300, and noncommercial educational FM stations on Channels 200 through 220 which are located in excess of the distances in Table A of § 73.525 with respect to a Channel 6 TV station, may not use this rule to decrease the horizontally polarized ERP below the value of the vertically polarized ERP.
-
-(vi) Noncommercial educational FM stations on Channels 201 through 220 which are within the Table A distance separations of § 73.525, or Class D stations on Channel 200, may not use the license modification process to eliminate an authorized horizontally polarized component in favor of vertically polarized-only operation. In addition, noncommercial educational stations operating on Channels 201 through 220, or Class D stations on Channel 200, which employ separate horizontally and vertically polarized antennas mounted at different heights, may not use the license modification process to increase or decrease either the horizontal ERP or vertical ERP without a construction permit.
+(v) Noncommercial educational FM stations on Channels 201 through 220 which are within the Table A distance separations of § 73.525, or Class D stations on Channel 200, may not use the license modification process to eliminate an authorized horizontally polarized component in favor of vertically polarized-only operation. In addition, noncommercial educational stations operating on Channels 201 through 220, or Class D stations on Channel 200, which employ separate horizontally and vertically polarized antennas mounted at different heights, may not use the license modification process to increase or decrease either the horizontal ERP or vertical ERP without a construction permit.
 
 (9) The licensee of an AM, FM, or TV commercial station may propose to change from commercial to noncommercial educational on a modification of license application, provided that the application contains completed Sections II and IV of FCC Form 340. In addition, a noncommercial educational AM licensee, a TV licensee on a channel not reserved for noncommercial educational use, or an FM licensee on Channels 221 to 300 (except Class D FM) on a channel not reserved for noncommercial educational use, may apply to change from educational to commercial via a modification of license application, and no exhibits are required with the application. The change will become effective upon grant of the license application.
 
@@ -94,11 +90,9 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (d) The following changes may be made without authorization from the FCC, however informal notification of the changes must be made according to the rule sections specified:
 
-(1) Change in studio location within the principal community contour. See § 73.1125.
+(1) Commencement of remote control operation pursuant to § 73.1400.
 
-(2) Commencement of remote control operation pursuant to §§ 73.1400 and 73.1410.
-
-(3) Modification of an AM directional antenna sampling system. See § 73.68.
+(2) Modification of an AM directional antenna sampling system. See § 73.68.
 
 (e) Any electrical and mechanical modification to authorized transmitting equipment that is not otherwise restricted by the preceding provisions of this section, may be made without FCC notification or authorization. Equipment performance measurements must be made within ten days after completing the modifications (See § 73.1590). An informal statement, diagram, etc., describing the modification must be retained at the transmitter site for as long as the equipment is in use.
 

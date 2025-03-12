@@ -1,14 +1,12 @@
 ##### § 705.5 Terms and conditions for loans. #####
 
-Link to an amendment published at 82 FR 60292, Dec. 20, 2017.
-
 (a) NCUA may make loans, in such amounts and subject to such terms and conditions as it may determine, from the Fund to Participating Credit Unions.
 
 (b) *Funding Limits.* NCUA will publish any applicable loan funding limits in the applicable Notice of Funding Opportunity.
 
 (c) *Recording of a loan.* At the discretion of NCUA, a loan will be recorded by a Participating Credit Union as either a note payable or a nonmember deposit.
 
-(d) *Interest rate.* The rate of interest on loans is governed by the CDRLF Loan Interest Rate Policy, which can be found on NCUA's Web site or by contacting NCUA's Office of Small Credit Union Initiatives. The specific interest rate for a particular funding will be announced in the related Notice of Funding Opportunity. The Board will announce changes, if any, to the CDRLF Loan Interest Rate Policy and those changes will apply to loans made under future Notices of Funding Opportunities.
+(d) *Interest rate.* The rate of interest on loans is governed by the CDRLF Loan Interest Rate Policy, which can be found on NCUA's Web site or by contacting NCUA's Office of Credit Union Resources and Expansion. The specific interest rate for a particular funding will be announced in the related Notice of Funding Opportunity. The Board will announce changes, if any, to the CDRLF Loan Interest Rate Policy and those changes will apply to loans made under future Notices of Funding Opportunities.
 
 (e) *Repayment and maturity.* (1) Awards made available through loans, whether recorded as a note payable or nonmember deposit, must be repaid to NCUA. All loans will be scheduled for repayment consistent with sound business practices and the objectives of the Program, but in no case will the term exceed five years.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 82 FR 60292, Dec. 20, 2017.
 
 (h) *Other terms and conditions.* Other terms and conditions pertaining to loans, including but not necessarily limited to duration, repayment obligations, security agreements (if any), and covenants, will be specified in the related Notice of Funding Opportunity or applicable loan documents to be signed by the Participating Credit Union.
 
-[76 FR 67587, Nov. 2, 2011, as amended at 81 FR 85112, Nov. 25, 2016]
+[76 FR 67587, Nov. 2, 2011, as amended at 81 FR 85112, Nov. 25, 2016; 82 FR 60292, Dec. 20, 2017]

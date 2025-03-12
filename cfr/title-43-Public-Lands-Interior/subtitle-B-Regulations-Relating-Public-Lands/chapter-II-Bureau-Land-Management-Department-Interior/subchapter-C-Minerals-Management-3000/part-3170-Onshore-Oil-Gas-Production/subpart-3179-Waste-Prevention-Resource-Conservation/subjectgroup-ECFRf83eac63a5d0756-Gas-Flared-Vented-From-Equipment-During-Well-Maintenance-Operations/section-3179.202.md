@@ -1,7 +1,5 @@
 ##### § 3179.202 Requirements for pneumatic diaphragm pumps. #####
 
-Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
-
 (a) A pneumatic diaphragm pump is subject to this section if it:
 
 (1) Uses natural gas produced from a Federal or Indian lease, or from a unit or communitized area that includes a Federal or Indian lease; and
@@ -46,6 +44,8 @@ Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
 
 (ii) The operator's projections of oil prices, oil production volumes, costs, revenues, and royalty payments from the operator's oil and gas operations within the lease over the next 15 years or the life of the operator's lease, unit, or communitized area, whichever is less.
 
-(h) The operator must replace the pneumatic diaphragm pump(s) or route the exhaust gas to capture or to a flare or combustion device no later than 1 year after the effective date of this section, except that if the operator will comply with paragraph (c) of this section by replacing the pneumatic diaphragm pump with a zero-emission pump and the well or facility that the pneumatic diaphragm pump serves has an estimated remaining productive life of 3 years or less from the effective date of this section, the operator must notify the BLM through a Sundry Notice and replace the pneumatic diaphragm pump no later than 3 years from the effective date of this section.
+(h) The operator must replace the pneumatic diaphragm pump(s) or route the exhaust gas to capture or to a flare or combustion device by January 17, 2019, except that if the operator will comply with paragraph (c) of this section by replacing the pneumatic diaphragm pump with a zero-emission pump and the well or facility that the pneumatic diaphragm pump serves has an estimated remaining productive life of 3 years or less from January 17, 2017, the operator must notify the BLM through a Sundry Notice and replace the pneumatic diaphragm pump no later than 3 years from January 17, 2017.
 
 (i) The operator must ensure its pneumatic diaphragm pumps are functioning within manufacturers' specifications.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 82 FR 58073, Dec. 8, 2017]

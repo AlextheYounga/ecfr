@@ -1,16 +1,14 @@
 ##### § 3179.203 Storage vessels. #####
 
-Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
-
 (a) A storage vessel is subject to this section if the vessel:
 
 (1) Contains production from a Federal or Indian lease, or from a unit or communitized area that includes a Federal or Indian lease; and
 
 (2) Is not subject to any of the requirements of 40 CFR part 60, subparts OOOO or OOOOa, but would be subject to one of those subparts if it were a new, modified or reconstructed source.
 
-(b) Within 60 days after the effective date of this section, and within 30 days after any new source of production is added to the storage vessel, the operator must determine, record, and make available to the BLM upon request, whether the storage vessel has the potential for VOC emissions equal to or greater than 6 tpy based on the maximum average daily throughput for a 30-day period of production. The determination may take into account requirements under a legally and practically enforceable limit in an operating permit or other requirement established under a federal, state, local or tribal authority that limit the VOC emissions to less than 6 tpy.
+(b) Beginning January 17, 2019, and within 30 days after any new source of production is added to the storage vessel after January 17, 2019, the operator must determine, record, and make available to the BLM upon request, whether the storage vessel has the potential for VOC emissions equal to or greater than 6 tpy based on the maximum average daily throughput for a 30-day period of production. The determination may take into account requirements under a legally and practically enforceable limit in an operating permit or other requirement established under a Federal, State, local or tribal authority that limit the VOC emissions to less than 6 tpy.
 
-(c) If a storage vessel has the potential for VOC emissions equal to or greater than 6 tpy under paragraph (b) of this section, no later than one year after the effective date of this section, or three years if the operator must and will replace the storage vessel at issue in order to comply with the requirements of this section, the operator must:
+(c) If a storage vessel has the potential for VOC emissions equal to or greater than 6 tpy under paragraph (b) of this section, by January 17, 2019, or by January 17, 2020, if the operator must and will replace the storage vessel at issue in order to comply with the requirements of this section, the operator must:
 
 (1) Route all tank vapor gas from the storage vessel to a sales line;
 
@@ -35,3 +33,5 @@ Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
 (f) Storage vessels subject to this section must be adequately sized to accommodate the operator's production levels and equipped to meet any applicable regulatory requirements regarding tank vapors.
 
 (g) Storage vessels subject to this section may only vent through properly functioning pressure relief devices.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 82 FR 58073, Dec. 8, 2017]

@@ -1,10 +1,8 @@
 ##### § 9.207 Outer Coastal Plain. #####
 
-Link to an amendment published at 82 FR 57659, Dec. 7, 2017.
-
 (a) *Name.* The name of the viticultural area described in this section is “Outer Coastal Plain”. For purposes of part 4 of this chapter, “Outer Coastal Plain” is a term of viticultural significance.
 
-(b) *Approved maps.* The appropriate maps for determining the boundary of the Outer Coastal Plain viticultural area are seven United States Geological Survey topographic maps. They are titled -
+(b) *Approved maps.* The appropriate maps for determining the boundary of the Outer Coastal Plain viticultural area are 10 United States Geological Survey topographic maps. They are titled:
 
 (1) Wilmington, Delaware-New Jersey-Pennsylvania-Maryland, 1984, 1:100,000 scale;
 
@@ -16,9 +14,15 @@ Link to an amendment published at 82 FR 57659, Dec. 7, 2017.
 
 (5) Atlantic City, New Jersey, 1984, 1:100,000 scale;
 
-(6) Cape May, New Jersey, 1981, 1:100,000 scale; and
+(6) Cape May, New Jersey, 1981, 1:100,000 scale;
 
-(7) Dover, Delaware-New Jersey-Maryland, 1984, 1:100,000 scale.
+(7) Dover, Delaware-New Jersey-Maryland, 1984, 1:100,000 scale;
+
+(8) Freehold, New Jersey, 2014, 1:24,000 scale;
+
+(9) Marlboro, New Jersey, 2014, 1:24,000 scale; and
+
+(10) Keyport, New Jersey-New York, 2014, 1:24,000 scale.
 
 (c) *Boundary.* The Outer Coastal Plain viticultural area includes all of Cumberland, Cape May, Atlantic, and Ocean Counties and portions of Salem, Gloucester, Camden, Burlington, and Monmouth Counties in the State of New Jersey. The boundary of the Outer Coastal Plain viticultural area is as described below.
 
@@ -52,18 +56,24 @@ Link to an amendment published at 82 FR 57659, Dec. 7, 2017.
 
 (15) Proceed northeasterly on CR 537, through the village of Jobstown; then
 
-(16) Continue northeasterly on CR 537, through the villages of Smithburg and Freehold, to its intersection with SR 18, east-northeast of Freehold; then
+(16) Continue northeasterly on CR 537, crossing onto the Freehold, New Jersey, map, to the intersection of CR 537 (known locally as W. Main Street) and State Route 79 (known locally as S. Main Street) in Freehold; then
 
-(17) Proceed easterly on SR 18 to its intersection with the Garden State Parkway; then
+(17) Proceed northeasterly, then northerly, along State Route 79, crossing onto the Marlboro, New Jersey, map to the intersection of State Route 79 and Pleasant Valley Road in Wickatunk; then
 
-(18) Proceed north on the Garden State Parkway to its intersection with SR 36 and proceed east along SR 36 onto the Long Branch map; then
+(18) Proceed northeasterly, then southeasterly along Pleasant Valley Road to the road's intersection with Schank Road, south of Pleasant Valley; then
 
-(19) Using the Long Branch map, continue east on SR 36 to where it intersects with Joline Avenue; then
+(19) Proceed easterly along Schank Road to the road's intersection with Holmdel Road; then
 
-(20) Proceed northeasterly on Joline Avenue to the Atlantic Ocean shoreline; then
+(20) Proceed northerly along Holmdel Road, crossing onto the Keyport, New Jersey-New York map, to the road's intersection with the Garden State Parkway, north of Crawford Corners; then
 
-(21) Follow the Atlantic Ocean shoreline south, encompassing all coastal islands, onto the Trenton, Hammonton, Atlantic City, and Cape May maps, to the city of Cape May; then
+(21) Proceed north on the Garden State Parkway to its intersection with SR 36 and proceed east along SR 36 onto the Long Branch map; then
 
-(22) Proceed west, then north, along the eastern bank of the Delaware River, onto the Atlantic City, Dover, and Wilmington maps to the beginning point.
+(22) Using the Long Branch map, continue east on SR 36 to where it intersects with Joline Avenue; then
 
-[T.D. TTB-58, 72 FR 6167, Feb. 9, 2007]
+(23) Proceed northeasterly on Joline Avenue to the Atlantic Ocean shoreline; then
+
+(24) Follow the Atlantic Ocean shoreline south, encompassing all coastal islands, onto the Trenton, Hammonton, Atlantic City, and Cape May maps, to the city of Cape May; then
+
+(25) Proceed west, then north, along the eastern bank of the Delaware River, onto the Atlantic City, Dover, and Wilmington maps to the beginning point.
+
+[T.D. TTB-58, 72 FR 6167, Feb. 9, 2007, as amended by T.D. TTB-148, 82 FR 57659, Dec. 7, 2017]

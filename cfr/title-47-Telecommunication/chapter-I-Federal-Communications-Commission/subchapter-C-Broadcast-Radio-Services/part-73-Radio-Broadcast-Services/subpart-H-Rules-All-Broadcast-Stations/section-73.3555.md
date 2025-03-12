@@ -1,5 +1,7 @@
 ##### § 73.3555 Multiple ownership. #####
 
+Link to an amendment published at 83 FR 755, Jan. 8, 2018.
+
 (a)(1) *Local radio ownership rule.* A person or single entity (or entities under common control) may have a cognizable interest in licenses for AM or FM radio broadcast stations in accordance with the following limits:
 
 (i) In a radio market with 45 or more full-power, commercial and noncommercial radio stations, not more than 8 commercial radio stations in total and not more than 5 commercial stations in the same service (AM or FM);

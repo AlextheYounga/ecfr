@@ -1,7 +1,5 @@
 ##### § 3179.102 Well completion and related operations. #####
 
-Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
-
 (a) Except as provided in § 3179.6, and unless technically infeasible, after a well has been hydraulically fractured or refractured, gas that reaches the surface during well completion, post-completion, and fluid recovery operations must be:
 
 (1) Captured and sold;
@@ -24,4 +22,6 @@ Link to an amendment published at 82 FR 58072, Dec. 8, 2017.
 
 (3) Data that show the costs of compliance with paragraph (a) of this section on the lease; (4) Projected costs of and the combined stream of revenues from both gas and oil production, including: the operator's projections of oil and gas prices, production volumes, quality (*i.e.,* heating value and H2S content), revenues derived from production, and royalty payments on production over the next 15 years or the life of the operator's lease, unit, or communitized area, whichever is less.
 
-[81 FR 83078, Nov. 18, 2016, as amended at 81 FR 88634, Dec. 8, 2016]
+(e) The operator must comply with this section beginning January 17, 2019.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 81 FR 88634, Dec. 8, 2016; 82 FR 58072, Dec. 8, 2017]

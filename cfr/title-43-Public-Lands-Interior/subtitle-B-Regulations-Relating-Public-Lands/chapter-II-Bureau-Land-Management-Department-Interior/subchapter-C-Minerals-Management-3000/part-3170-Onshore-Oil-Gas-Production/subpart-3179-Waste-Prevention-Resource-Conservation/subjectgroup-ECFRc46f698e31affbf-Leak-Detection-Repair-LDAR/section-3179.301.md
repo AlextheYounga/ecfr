@@ -1,7 +1,5 @@
 ##### § 3179.301 Operator responsibility. #####
 
-Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
-
 (a) The requirements of §§ 3179.301 through 3179.305 of this subpart apply to:
 
 (1) A site and all equipment associated with it used to produce, process, compress, treat, store, or measure natural gas (including oil wells that also produce natural gas) from or allocated to a Federal or Indian lease, unit, or communitized area, where the site is upstream of or contains the approved point of royalty measurement; and
@@ -22,11 +20,11 @@ Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
 
 (f) The operator must make the first inspection of each site:
 
-(1) Within one year of January 17, 2017 for sites that have begun production prior to January 17, 2017;
+(1) By January 17, 2019, for all existing sites;
 
-(2) Within 60 days of beginning production for sites that begin production after January 17, 2017; and
+(2) Within 60 days of beginning production for new sites that begin production after January 17, 2019; and
 
-(3) Within 60 days of the date when a site that was out of service is brought back into service and re-pressurized.
+(3) Within 60 days of the date when an existing site that was out of service is brought back into service and re-pressurized after January 17, 2019.
 
 (g) The operator must make subsequent inspections as prescribed in § 3179.303.
 
@@ -43,3 +41,5 @@ Link to an amendment published at 82 FR 58073, Dec. 8, 2017.
 (2) Complying with the requirements of 40 CFR part 60 subpart OOOOa that apply to affected facility fugitive emissions components at a well site (or for compressor stations, that apply to affected facility fugitive emissions components at a compressor station) under 40 CFR part 60, subpart OOOOa; and
 
 (3) Notifying the BLM through a Sundry Notice regarding such compliance.
+
+[81 FR 83078, Nov. 18, 2016, as amended at 82 FR 58073, Dec. 8, 2017]
