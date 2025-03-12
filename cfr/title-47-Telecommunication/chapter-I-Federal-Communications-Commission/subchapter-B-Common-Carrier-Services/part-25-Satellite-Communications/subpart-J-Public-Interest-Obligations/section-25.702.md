@@ -1,6 +1,6 @@
 ##### § 25.702 Other SDARS Public interest obligations. #####
 
-Link to an amendment published at 87 FR 7754, Feb. 10, 2022.
+Link to an amendment published at 87 FR 7754, Feb. 10, 2022.This amendment was made effective July 5, 2022, at 87 FR 33441, June 2, 2022.
 
 (a) *Political broadcasting requirements.* The following political broadcasting rules shall apply to all SDARS licensees: 47 CFR 73.1940 (Legally qualified candidates for public office), 73.1941 (Equal opportunities), 73.1942 (Candidate rates), and 73.1944 (Reasonable access).
 

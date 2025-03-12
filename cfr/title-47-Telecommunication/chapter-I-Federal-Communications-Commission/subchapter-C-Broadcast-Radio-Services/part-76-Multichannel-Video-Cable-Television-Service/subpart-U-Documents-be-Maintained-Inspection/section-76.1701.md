@@ -1,6 +1,6 @@
 ##### § 76.1701 Political file. #####
 
-Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
+Link to an amendment published at 87 FR 7755, Feb. 10, 2022.Link to an amendment published at 87 FR 33441, June 2, 2022.
 
 (a) Every cable television system shall keep and permit public inspection of a complete and orderly record (political file) of all requests for cablecast time made by or on behalf of a candidate for public office, together with an appropriate notation showing the disposition made by the system of such requests, and the charges made, if any, if the request is granted. The “disposition” includes the schedule of time purchased, when spots actually aired, the rates charged, and the classes of time purchased.
 

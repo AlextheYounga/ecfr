@@ -124,10 +124,10 @@
 
 Table 1 to Paragraph (d)(1)(ii)(D)
 
-|     IFQ species      |        Area         |2021 Shorebased  <br/>trawl allocation  <br/>(mt)|2022 Shorebased  <br/>trawl allocation  <br/>(mt)|
+|     IFQ species      |        Area         |2021  <br/>Shorebased trawl allocation  <br/>(mt)|2022  <br/>Shorebased trawl allocation  <br/>(mt)|
 |----------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
-|  Yelloweye Rockfish  |      Coastwide      |                       3.3                       |                       3.4                       |
-| Arrowtooth flounder  |      Coastwide      |                    7,376.02                     |                     5974.77                     |
+|  YELLOWEYE ROCKFISH  |      Coastwide      |                       3.3                       |                       3.4                       |
+| Arrowtooth flounder  |      Coastwide      |                    7,376.02                     |                    5,974.77                     |
 |       Bocaccio       |South of 40°10′ N lat|                     663.75                      |                     654.38                      |
 |   Canary rockfish    |      Coastwide      |                     880.96                      |                     858.56                      |
 |     Chilipepper      |South of 40°10′ N lat|                     1,695.2                     |                      1,621                      |
@@ -141,7 +141,7 @@ Table 1 to Paragraph (d)(1)(ii)(D)
 |     Pacific cod      |      Coastwide      |                    1,039.21                     |                    1,039.21                     |
 |Pacific halibut (IBQ) |North of 40°10′ N lat|                      69.6                       |                      69.6                       |
 | Pacific ocean perch  |North of 40°10′ N lat|                    3,337.74                     |                    3,201.94                     |
-|   Pacific whiting    |      Coastwide      |                     127,682                     |                       TBD                       |
+|   Pacific whiting    |      Coastwide      |                     127,682                     |                     139,202                     |
 |     Petrale sole     |      Coastwide      |                     3,692.9                     |                     3,237.5                     |
 |      Sablefish       | North of 36° N lat  |                    3,139.59                     |                    2,985.42                     |
 |      Sablefish       | South of 36° N lat  |                       786                       |                       748                       |
