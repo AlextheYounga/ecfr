@@ -4,6 +4,6 @@
 
 (Authority: 38 U.S.C. 1524(b)(2)(B)(ii))
 
-(b) *Training costs.* The provisions of § 21.262 of this part pertaining to reimbursement for training costs will be followed to reimburse vendors for servics provided under this temporary program.
+(b) *Training costs.* The provisions of § 21.262 of this part pertaining to reimbursement for training costs will be followed to reimburse vendors for services provided under this temporary program.
 
 (Authority: 38 U.S.C. 1524(d))

@@ -1,6 +1,6 @@
 ##### § 21.6340 Leaves of absence. #####
 
-(a) *General.* VA may approve leaves of absence under vertain conditions. During approved leaves of absence, a ceteran shall be considered to be pursuing training for purposes of computing the duration of a vocational training program under §§ 21.6070 through 21.6074. Leave may only be authorized for a veteran during a period of rehabilitation to the point of employability.
+(a) *General.* VA may approve leaves of absence under certain conditions. During approved leaves of absence, a veteran shall be considered to be pursuing training for purposes of computing the duration of a vocational training program under §§ 21.6070 through 21.6074. Leave may only be authorized for a veteran during a period of rehabilitation to the point of employability.
 
 (Authority: 38 U.S.C. 1524(b))
 

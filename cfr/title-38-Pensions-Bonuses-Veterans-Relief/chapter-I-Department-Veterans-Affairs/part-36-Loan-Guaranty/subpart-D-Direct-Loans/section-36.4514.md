@@ -20,7 +20,7 @@ Prior to making a loan, or a commitment therefor, the Department of Veterans Aff
 
 (1) Neither the applicant nor anyone authorized to act for the applicant, will refuse to sell or rent, after the making of a bonafide offer, or refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny the dwelling or property covered by this loan to any person because of race, color, religion, sex, handicap, familial status, or national origin;
 
-(2) The applicant recognizes that any restrictive convenant on the property relating to race, color, religion, sex, handicap, familial status, or national origin is illegal and void and any such covenant is specifically disclaimed; and
+(2) The applicant recognizes that any restrictive covenant on the property relating to race, color, religion, sex, handicap, familial status, or national origin is illegal and void and any such covenant is specifically disclaimed; and
 
 (3) The applicant understands that civil action for preventive relief may be brought by the Attorney General of the United States in any appropriate U.S. District Court against any person responsible for a violation of the applicable law.
 

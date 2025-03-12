@@ -1,6 +1,6 @@
 ##### § 21.6015 Claims and elections. #####
 
-(a) *Claims by veterans under age 45 for whom participation in an evaluation is required.* A veteran under age 45 who is awarded pension during the program period will be scheduled for an evaluation to determine whether achievement of a vocational goal is reasonably feasible, unless it is determined that the veteran is unable to participate in an evaluation for reasons beyond his or her control. If VA, as a result of the evaluation, determines that achievement of a vocational goal is reasonably feasible, the veteran may elect to pursue a vocational training prgoram. To make this election, the veteran must file a claim, in a form prescribed by VA, for services under this temporary program.
+(a) *Claims by veterans under age 45 for whom participation in an evaluation is required.* A veteran under age 45 who is awarded pension during the program period will be scheduled for an evaluation to determine whether achievement of a vocational goal is reasonably feasible, unless it is determined that the veteran is unable to participate in an evaluation for reasons beyond his or her control. If VA, as a result of the evaluation, determines that achievement of a vocational goal is reasonably feasible, the veteran may elect to pursue a vocational training program. To make this election, the veteran must file a claim, in a form prescribed by VA, for services under this temporary program.
 
 (Authority: 38 U.S.C. 1524(b); Pub. L. 100-687, Pub. L. 100-687, Pub. L. 101-237).
 

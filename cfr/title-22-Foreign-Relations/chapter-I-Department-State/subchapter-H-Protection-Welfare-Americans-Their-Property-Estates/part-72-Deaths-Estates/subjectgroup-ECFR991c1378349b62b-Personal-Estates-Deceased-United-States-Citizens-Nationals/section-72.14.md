@@ -1,6 +1,6 @@
 ##### § 72.14 Nominal possession; property not normally taken into physical possession. #####
 
-(a) When a consular officer take articles of a decedent's personal property from a foreign official or other persons for the explicit purpose of immediate release to the legal representative such acton is not a taking of physical possession by the officer. Before releasing the property, the consular officer must require the legal representative to provide a release on the form prescribed by the Department discharging the consular officer of any responsibility for the articles transferred.
+(a) When a consular officer take articles of a decedent's personal property from a foreign official or other persons for the explicit purpose of immediate release to the legal representative such action is not a taking of physical possession by the officer. Before releasing the property, the consular officer must require the legal representative to provide a release on the form prescribed by the Department discharging the consular officer of any responsibility for the articles transferred.
 
 (b) A consular officer is not normally expected to take physical possession of items of personal property such as:
 

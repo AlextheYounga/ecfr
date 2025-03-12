@@ -1,6 +1,6 @@
 ##### § 21.124 Combination course. #####
 
-(a) *General.* A combination course is a course which combines training on the job with training in school. For the purpose of VA vocational rehabilitation, a course will be considered to be a combination course, if the student spends full-time on the job and one or more times a week also attends school on a part-tme basis. A veteran may pursue the components of a combination course in the following manner:
+(a) *General.* A combination course is a course which combines training on the job with training in school. For the purpose of VA vocational rehabilitation, a course will be considered to be a combination course, if the student spends full-time on the job and one or more times a week also attends school on a part-time basis. A veteran may pursue the components of a combination course in the following manner:
 
 (1) Concurrent school and on-job training;
 

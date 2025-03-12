@@ -1,10 +1,10 @@
 ##### § 21.5296 Extended period of eligibility. #####
 
-(a) *General.* A veteran shall be granted an extension of the applicable delimiting period, as otherwise determined by § 21.5041 provided -
+(a) *General.* A veteran shall be granted an extension of the applicable delimiting period, as otherwise determined by § 21.5041 provided—
 
 (1) The veteran applies for an extension.
 
-(2) The veteran was prevented from initiating or completing the chosen program of education within the otherwise applicable delimiting period because of a physical or metal disability that did not result from the willful misconduct of the veteran. VA will not consider the disabling effects of chronic alcoholism to be the result of willful misconduct.
+(2) The veteran was prevented from initiating or completing the chosen program of education within the otherwise applicable delimiting period because of a physical or mental disability that did not result from the willful misconduct of the veteran. VA will not consider the disabling effects of chronic alcoholism to be the result of willful misconduct.
 
 (Authority: 38 U.S.C. 105, 3232; Pub. L. 99-576, Pub. L. 100-689)
 
@@ -30,7 +30,7 @@
 
 (3) Except as provided in paragraph (c)(4) of this section, a veteran's transfer of entitlement to a spouse or child during a period for which the veteran's disability prevented his or her pursuit of a program of education will not affect the veteran's entitlement to an extension of eligibility under this section.
 
-(4) Since the act of entitlement transfer to a spouse or child indicates that the veteran did not intend to personally use his or her educational assistance during the specified transfer period, a veteran who becomes disabled after transferring entitlement will not be entitled to an extended period of eligibility based on any period of the disability which coincides with the specified transfer period unless -
+(4) Since the act of entitlement transfer to a spouse or child indicates that the veteran did not intend to personally use his or her educational assistance during the specified transfer period, a veteran who becomes disabled after transferring entitlement will not be entitled to an extended period of eligibility based on any period of the disability which coincides with the specified transfer period unless—
 
 (i) The transferee or transferees did not use any entitlement during this period, and
 
@@ -38,7 +38,7 @@
 
 (Authority: 38 U.S.C. 3232; Pub. L. 99-576)
 
-(d) *Commencing date.* The veteran shall elect the commencing date of an extended period of eligibility. The date chosen -
+(d) *Commencing date.* The veteran shall elect the commencing date of an extended period of eligibility. The date chosen—
 
 (1) Must be on or after the original date of expiration of eligibility as determined by § 21.5041 of this part, and
 

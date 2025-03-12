@@ -1,6 +1,6 @@
 ##### § 21.5828 False or misleading statements. #####
 
-(a) *False statements.* An individual who attempts to obtain educational assistance or subsistance allowance or both through submission of false or misleading statements is subject to civil penalties or criminal penalties or both under applicable Federal law.
+(a) *False statements.* An individual who attempts to obtain educational assistance or subsistence allowance or both through submission of false or misleading statements is subject to civil penalties or criminal penalties or both under applicable Federal law.
 
 (Authority: 31 U.S.C. 3729-3731; 18 U.S.C. 1001)
 

@@ -2,7 +2,7 @@
 
 For the purpose of regulations in the §§ 21.5700, 21.5800 and 21.5900 series and payment of benefits under the educational assistance and subsistence allowance program, the following definitions apply:
 
-(a) *Veteran.* This term means a person who -
+(a) *Veteran.* This term means a person who—
 
 (1) Is not on active duty.
 
@@ -14,11 +14,11 @@ For the purpose of regulations in the §§ 21.5700, 21.5800 and 21.5900 series a
 
 (Authority: 10 U.S.C. 2141(a))
 
-(b) *Accredited institution.* This term means a civilian college or university or a trade, technical or vocational school in the United States (including the District of Columbia, the Commonwealth of Puerto Rico, Guam and the U.S. Virgin Islands) that -
+(b) *Accredited institution.* This term means a civilian college or university or a trade, technical or vocational school in the United States (including the District of Columbia, the Commonwealth of Puerto Rico, Guam and the U.S. Virgin Islands) that—
 
 (1) Provides education on a postsecondary level (including accredited programs conducted at overseas locations) and
 
-(2) Is accredited by -
+(2) Is accredited by—
 
 (i) A nationally recognized accrediting agency or association, or
 
@@ -26,13 +26,13 @@ For the purpose of regulations in the §§ 21.5700, 21.5800 and 21.5900 series a
 
 (Authority: 10 U.S.C. 2143(c))
 
-(c) *Dependent child.* This means an unmarried legitimate child (including an adopted child or a stepchild) who either -
+(c) *Dependent child.* This means an unmarried legitimate child (including an adopted child or a stepchild) who either—
 
 (1) Has not passed his or her 21st birthday; or
 
 (2) Is incapable of self-support because of a mental or physical incapacity that existed before his or her 21st birthday and is, or was at the time of the veteran's or servicemember's death, in fact, dependent on him or her for over one-half of his or her support; or
 
-(3) Has not passed his or her 23rd birthday; is enrolled in a full-time course of study in an institution of higher learning aproved by the Secretary of Defense or the Secretary of Education, as the case may be; and is, or was at the time of the veteran's or servicemember's death, in fact, dependent upon him or her for over one half of his or her support.
+(3) Has not passed his or her 23rd birthday; is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense or the Secretary of Education, as the case may be; and is, or was at the time of the veteran's or servicemember's death, in fact, dependent upon him or her for over one half of his or her support.
 
 (Authority: 10 U.S.C. 1072(2)(D), 2147(d)(1))
 
@@ -40,7 +40,7 @@ For the purpose of regulations in the §§ 21.5700, 21.5800 and 21.5900 series a
 
 (Authority: 10 U.S.C. 2147(d)(2))
 
-(e) *Servicemember.* This term means anyone who -
+(e) *Servicemember.* This term means anyone who—
 
 (1) Meets the eligibility requirements for the program, and
 
@@ -74,7 +74,7 @@ For the purpose of regulations in the §§ 21.5700, 21.5800 and 21.5900 series a
 
 (Authority: 10 U.S.C. 2144)
 
-(j) *Enrollment period.* This term means an interval of time during which an eligible individual -
+(j) *Enrollment period.* This term means an interval of time during which an eligible individual—
 
 (1) Is enrolled in an accredited educational institution; and
 

@@ -1,6 +1,6 @@
 ##### § 21.6519 Eligibility of qualified veterans for employment and counseling services. #####
 
-(a) *General.* A qualified veteran for whom vocational rehabilitation and achievenment of a vocational goal are reasonably feasible may be provided the employment and counseling services to which he or she may be entitled under chapter 31. If the qualified veteran is not eligible for such assistance under chapter 31, he or she may be provided, nevertheless, the counseling, placement and postplacement services provided under 38 U.S.C. 3104(a)(2) and (5). The specific services which may be authorized are discussed in §§ 21.100, 21.252 and 21.254(a).
+(a) *General.* A qualified veteran for whom vocational rehabilitation and achievement of a vocational goal are reasonably feasible may be provided the employment and counseling services to which he or she may be entitled under chapter 31. If the qualified veteran is not eligible for such assistance under chapter 31, he or she may be provided, nevertheless, the counseling, placement and postplacement services provided under 38 U.S.C. 3104(a)(2) and (5). The specific services which may be authorized are discussed in §§ 21.100, 21.252 and 21.254(a).
 
 (b) *Services under other VA and non-VA programs.* Veterans being provided counseling, placement and postplacement services under §§ 21.100, 21.252, and 21.254(a) will also be aided in identifying services of other VA and non-VA programs which may be of assistance in securing employment. All elements of a program of these services shall be incorporated in the IEAP.
 

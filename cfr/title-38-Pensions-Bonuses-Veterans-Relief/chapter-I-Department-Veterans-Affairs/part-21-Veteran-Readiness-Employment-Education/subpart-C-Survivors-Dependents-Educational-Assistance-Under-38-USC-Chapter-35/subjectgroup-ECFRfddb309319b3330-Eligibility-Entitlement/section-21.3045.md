@@ -32,7 +32,7 @@ VA will make record-purpose charges against an eligible person's 38 U.S.C. chapt
 
 (Authority: 38 U.S.C. 3511(a), 3533(a); Pub. L. 100-689, Pub. L. 102-127)(Oct. 10, 1991)
 
-(c) *Other courses for which entitlement will be charged.* Except when the requirements of paragraph (d) of this section are met, VA will make a charge against the period of entitlement of -
+(c) *Other courses for which entitlement will be charged.* Except when the requirements of paragraph (d) of this section are met, VA will make a charge against the period of entitlement of—
 
 (1) An eligible person for pursuit of a program of apprenticeship or other on-job training;
 
@@ -42,9 +42,9 @@ VA will make record-purpose charges against an eligible person's 38 U.S.C. chapt
 
 (Authority: 38 U.S.C. 3534)
 
-(d) *Exemption from entitlement charge.* (1) VA will not make a charge against the entitlement of an eligible person for the pursuit of any course or courses when the requirements of paragraphs (d)(1)(i) and (ii) of this section are met, by VA finding that the eligible person -
+(d) *Exemption from entitlement charge.* (1) VA will not make a charge against the entitlement of an eligible person for the pursuit of any course or courses when the requirements of paragraphs (d)(1)(i) and (ii) of this section are met, by VA finding that the eligible person—
 
-(i) Had to discontinue pursuit of the course or courses as a result of being -
+(i) Had to discontinue pursuit of the course or courses as a result of being—
 
 (A) Ordered, in connection with the Persian Gulf War by orders dated before September 11, 2001, to serve on active duty under 10 U.S.C. 688, 12301(a), 12301(d), 12301(g), 12302, or 12304, or under former 10 U.S.C. 672(a), 672(d), 672(g), 673, or 673(b) (redesignated effective December 1, 1994, as 10 U.S.C. 12301(a), 12301(d), 12301(g), 12302, and 12304, respectively);
 
@@ -60,13 +60,13 @@ VA will make record-purpose charges against an eligible person's 38 U.S.C. chapt
 
 (e) *Determining entitlement charge.* The provisions of this paragraph apply to all courses except those courses for which VA is not making a charge against the eligible person's entitlement, apprenticeship or other on-job training, correspondence courses, and courses offered solely through independent study.
 
-(1) After making any adjustments required by paragraph (e)(3) of this section, VA will make a charge against entitlement -
+(1) After making any adjustments required by paragraph (e)(3) of this section, VA will make a charge against entitlement—
 
 (i) On the basis of total elapsed time (one day for each day of pursuit) if the eligible person is pursuing the program of education on a full-time basis,
 
-(ii) On the basis of a proportionate rate of elapsed time, if the eligible person is pursuing a program of education on a three-quarter, one-half or less than one-half time basis. For the purpose of this computation, training time which is less that one-half, but more than one-quarter time, will be treated as though it were one-quarter time training.
+(ii) On the basis of a proportionate rate of elapsed time, if the eligible person is pursuing a program of education on a three-quarter, one-half or less than one-half time basis. For the purpose of this computation, training time which is less than one-half, but more than one-quarter time, will be treated as though it were one-quarter time training.
 
-(2) VA will compute elapsed time from the commencing date of enrollment to date of discontinuance. If the eligible person changes his or her training time after the commencing date of enrollment, VA will -
+(2) VA will compute elapsed time from the commencing date of enrollment to date of discontinuance. If the eligible person changes his or her training time after the commencing date of enrollment, VA will—
 
 (i) Divide the enrollment period into separate periods of time during which the eligible person's training time remains constant; and
 
@@ -110,7 +110,7 @@ VA will make record-purpose charges against an eligible person's 38 U.S.C. chapt
 
 (2) If the overpayment is compromised and the compromise offer is less than the amount of interest, administrative costs of collection, court costs and marshal fees, the charge against entitlement will be at the appropriate rate for the elapsed period covered by the overpayment (exclusive of interest, administrative costs of collection, court costs and marshal fees).
 
-(3) If the overpayment is compromised and the compromise offer is equal to or greater than the amount of interest, administrative costs of collection, court costs and marshal fees, the charge against entitlement will be determined by -
+(3) If the overpayment is compromised and the compromise offer is equal to or greater than the amount of interest, administrative costs of collection, court costs and marshal fees, the charge against entitlement will be determined by—
 
 (i) Subtracting from the sum paid in the compromise offer the amount attributable to interest, administrative costs of collection, court costs and marshal fees,
 
@@ -134,6 +134,6 @@ VA will make record-purpose charges against an eligible person's 38 U.S.C. chapt
 
 (Authority: 38 U.S.C. 3511)
 
-(k) *Education loan after otherwise applicable delimiting date - spouse or surviving spouse.* VA will make a charge against the entitlement of a spouse or surviving spouse who receives an education loan pursuant to § 21.4501(c) at the rate of 1 day for each day of entitlement that would have been used had the spouse or surviving spouse been in receipt of educational assistance allowance for the period for which the loan was granted.
+(k) *Education loan after otherwise applicable delimiting date—spouse or surviving spouse.* VA will make a charge against the entitlement of a spouse or surviving spouse who receives an education loan pursuant to § 21.4501(c) at the rate of 1 day for each day of entitlement that would have been used had the spouse or surviving spouse been in receipt of educational assistance allowance for the period for which the loan was granted.
 
 (Authority: 38 U.S.C. 3512)[55 FR 28024, July 9, 1990, as amended at 57 FR 29799, July 7, 1992; 58 FR 26240, May 3, 1993; 61 FR 26109, May 24, 1996; 62 FR 55760, Oct. 28, 1997; 63 FR 67778, Dec. 9, 1998; 66 FR 32227, June 14, 2001; 68 FR 34320, June 9, 2003; 69 FR 62207, Oct. 25, 2004; 73 FR 2423, Jan. 15, 2008; 73 FR 79647, Dec. 30, 2008]

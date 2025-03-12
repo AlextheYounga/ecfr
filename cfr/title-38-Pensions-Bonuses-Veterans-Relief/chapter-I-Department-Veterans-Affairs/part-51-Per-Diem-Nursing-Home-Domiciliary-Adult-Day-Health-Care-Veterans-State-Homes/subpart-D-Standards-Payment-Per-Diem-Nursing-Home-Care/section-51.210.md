@@ -4,7 +4,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (a) *Governing body.* (1) The State must have a governing body, or designated person functioning as a governing body, that is legally responsible for establishing and implementing policies regarding the management and operation of the facility; and
 
-(2) The governing body or State official with oversight for the facility appoints the administrator who is -
+(2) The governing body or State official with oversight for the facility appoints the administrator who is—
 
 (i) Licensed by the State where licensing is required; and
 
@@ -56,7 +56,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (h) *Use of outside resources.* (1) If the facility does not employ a qualified professional person to furnish a specific service to be provided by the facility, the facility management must have that service furnished to residents by a person or agency outside the facility under a written agreement described in paragraph (h)(2) of this section.
 
-(2) Agreements pertaining to services furnished by outside resources must specify in writing that the facility management assumes responsibility for -
+(2) Agreements pertaining to services furnished by outside resources must specify in writing that the facility management assumes responsibility for—
 
 (i) Obtaining services that meet professional standards and principles that apply to professionals providing services in such a facility; and
 
@@ -66,7 +66,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (i) *Medical director.* (1) The facility management must designate a primary care physician to serve as medical director.
 
-(2) The medical director is responsible for -
+(2) The medical director is responsible for—
 
 (i) Participating in establishing policies, procedures, and guidelines to ensure adequate, comprehensive services;
 
@@ -108,7 +108,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (5) *Required retraining.* If, since an individual's most recent completion of a training and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual provided nursing or nursing-related services for monetary compensation, the individual must complete a new training and competency evaluation program or a new competency evaluation program.
 
-(6) *Regular in-service education.* The facility management must complete a performance review of every nurse aide at least once every 12 months, and must provide regular in-service education based on the outcome of these reviews. The in-service training must -
+(6) *Regular in-service education.* The facility management must complete a performance review of every nurse aide at least once every 12 months, and must provide regular in-service education based on the outcome of these reviews. The in-service training must—
 
 (i) Be sufficient to ensure the continuing competence of nurse aides, but must be no less than 12 hours per year;
 
@@ -124,13 +124,13 @@ A facility must be administered in a manner that enables it to use its resources
 
 (ii) If the facility provides blood bank and transfusion services, it must meet all applicable certification standards, statutes, and regulations.
 
-(iii) If the laboratory chooses to refer specimens for testing to another laboratory, the referral laboratory must be certified in the appropriate specialities and subspecialties of services and meet certification standards, statutes, and regulations.
+(iii) If the laboratory chooses to refer specimens for testing to another laboratory, the referral laboratory must be certified in the appropriate specialties and subspecialties of services and meet certification standards, statutes, and regulations.
 
 (iv) The laboratory performing the testing must have a current, valid CLIA number (Clinical Laboratory Improvement Amendments of 1988). The facility management must provide VA surveyors with the CLIA number and a copy of the results of the last CLIA inspection.
 
 (v) Such services must be available to the resident seven days a week, 24 hours a day.
 
-(2) The facility management must -
+(2) The facility management must—
 
 (i) Provide or obtain laboratory services only when ordered by the primary physician;
 
@@ -148,7 +148,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iii) Radiologic and other diagnostic services must be available 24 hours a day, seven days a week.
 
-(2) The facility must -
+(2) The facility must—
 
 (i) Provide or obtain radiology and other diagnostic services when ordered by the primary physician;
 
@@ -158,7 +158,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iv) File in the resident's clinical record signed and dated reports of x-ray and other diagnostic services.
 
-(o) *Clinical records.* (1) The facility management must maintain clinical records on each resident in accordance with accepted professional standards and practices that are -
+(o) *Clinical records.* (1) The facility management must maintain clinical records on each resident in accordance with accepted professional standards and practices that are—
 
 (i) Complete;
 
@@ -168,7 +168,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iv) Systematically organized.
 
-(2) Clinical records must be retained for -
+(2) Clinical records must be retained for—
 
 (i) The period of time required by State law; or
 
@@ -176,7 +176,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (3) The facility management must safeguard clinical record information against loss, destruction, or unauthorized use;
 
-(4) The facility management must keep confidential all information contained in the resident's records, regardless of the form or storage method of the records, except when release is required by -
+(4) The facility management must keep confidential all information contained in the resident's records, regardless of the form or storage method of the records, except when release is required by—
 
 (i) Transfer to another health care institution;
 
@@ -188,7 +188,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (v) The resident's authorized agent or representative.
 
-(5) The clinical record must contain -
+(5) The clinical record must contain—
 
 (i) Sufficient information to identify the resident;
 
@@ -200,7 +200,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (v) Progress notes.
 
-(p) *Quality assessment and assurance.* (1) Facility management must maintain a quality assessment and assurance committee consisting of -
+(p) *Quality assessment and assurance.* (1) Facility management must maintain a quality assessment and assurance committee consisting of—
 
 (i) The director of nursing services;
 
@@ -208,7 +208,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (iii) At least 3 other members of the facility's staff.
 
-(2) The quality assessment and assurance committee -
+(2) The quality assessment and assurance committee—
 
 (i) Meets at least quarterly to identify issues with respect to which quality assessment and assurance activities are necessary; and
 
@@ -222,7 +222,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (2) The facility management must train all employees in emergency procedures when they begin to work in the facility, periodically review the procedures with existing staff, and carry out unannounced staff drills using those procedures.
 
-(r) *Transfer agreement.* (1) The facility management must have in effect a written transfer agreement with one or more hospitals that reasonably assures that -
+(r) *Transfer agreement.* (1) The facility management must have in effect a written transfer agreement with one or more hospitals that reasonably assures that—
 
 (i) Residents will be transferred from the nursing home to the hospital, and ensured of timely admission to the hospital when transfer is medically appropriate as determined by the primary physician; and
 

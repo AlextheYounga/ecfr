@@ -1,4 +1,4 @@
-##### § 91.1605 Special Federal Aviation Regulation No. 77 - Prohibition Against Certain Flights in the Baghdad Flight Information Region (FIR) (ORBB). #####
+##### § 91.1605 Special Federal Aviation Regulation No. 77—Prohibition Against Certain Flights in the Baghdad Flight Information Region (FIR) (ORBB). #####
 
 (a) *Applicability.* This section applies to the following persons:
 
@@ -14,6 +14,6 @@
 
 (d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of part 119, 121, 125, or 135 of this chapter, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
 
-(e) *Expiration.* This SFAR will remain in effect until October 26, 2022. The FAA may amend, rescind, or extend this SFAR, as necessary.
+(e) *Expiration.* This SFAR will remain in effect until October 26, 2024. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-[Docket No. FAA-2018-0927, Amdt. No. 91-353A, 85 FR 65693, Oct. 16, 2020]
+[Docket No. FAA-2018-0927, Amdt. No. 91-353A, 85 FR 65693, Oct. 16, 2020, as amended by Amdt. No. 91-353B, 87 FR 57390, Sept. 20, 2022]

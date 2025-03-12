@@ -1,5 +1,7 @@
 ##### § 1.948 Assignment of authorization or transfer of control, notification of consummation. #####
 
+Link to an amendment published at 87 FR 57415, Sept. 20, 2022.
+
 (a) *General.* Except as provided in this section, authorizations in the Wireless Radio Services may be assigned by the licensee to another party, voluntarily or involuntarily, directly or indirectly, or the control of a licensee holding such authorizations may be transferred, only upon application to and approval by the Commission.
 
 (b) *Limitations on transfers and assignments.* (1) A change from less than 50% ownership to 50% or more ownership shall always be considered a transfer of control.

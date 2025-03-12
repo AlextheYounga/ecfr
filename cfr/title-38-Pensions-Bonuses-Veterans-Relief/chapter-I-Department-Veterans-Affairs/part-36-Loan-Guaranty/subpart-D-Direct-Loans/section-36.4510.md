@@ -8,7 +8,7 @@
 
 (2) The right of the Department of Veterans Affairs to accelerate the maturity of the entire indebtedness in the event of default.
 
-(3) The right of the Department of Veterans Affairs to foreclose or otherwise proceed toliquidate or acquire property which is the security for the loan in the event of the borrower's delinquency in the repayment of the obligation or in the event of default in any other provisions of the loan contract.
+(3) The right of the Department of Veterans Affairs to foreclose or otherwise proceed to liquidate or acquire property which is the security for the loan in the event of the borrower's delinquency in the repayment of the obligation or in the event of default in any other provisions of the loan contract.
 
 (c) The Department of Veterans Affairs shall have the right to accelerate the entire indebtedness and to foreclose or otherwise proceed to liquidate, or acquire the security for the loan, in the event the veteran is adjudged a bankrupt, or if the property has been abandoned by the borrower or subjected to waste or hazard, or in the event conditions exist which warrant the appointment of a receiver by court.
 

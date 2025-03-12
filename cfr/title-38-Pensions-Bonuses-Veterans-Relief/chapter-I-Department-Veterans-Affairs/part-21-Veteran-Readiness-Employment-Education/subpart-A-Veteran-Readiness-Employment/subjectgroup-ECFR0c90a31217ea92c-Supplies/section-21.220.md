@@ -1,6 +1,6 @@
 ##### § 21.220 Replacement of supplies. #####
 
-(a) *Lost, stolen, misplaced or damaged supples.* VA will replace articles which are necessary to further pursuit of the veteran's program and which are lost, stolen, misplaced, or damaged beyond repair through no fault of the veteran;
+(a) *Lost, stolen, misplaced or damaged supplies.* VA will replace articles which are necessary to further pursuit of the veteran's program and which are lost, stolen, misplaced, or damaged beyond repair through no fault of the veteran;
 
 (1) VA will make an advancement from the Vocational Rehabilitation Revolving Fund to a veteran to replace articles for which VA will not pay, if the veteran is without funds to pay for them;
 

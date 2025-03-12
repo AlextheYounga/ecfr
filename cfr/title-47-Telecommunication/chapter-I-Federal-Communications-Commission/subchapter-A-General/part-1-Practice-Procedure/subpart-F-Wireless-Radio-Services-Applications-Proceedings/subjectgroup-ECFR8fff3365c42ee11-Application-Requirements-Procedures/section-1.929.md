@@ -1,5 +1,7 @@
 ##### § 1.929 Classification of filings as major or minor. #####
 
+Link to an amendment published at 87 FR 57415, Sept. 20, 2022.
+
 Applications and amendments to applications for stations in the wireless radio services are classified as major or minor (see § 1.947). Categories of major and minor filings are listed in § 309 of the Communications Act of 1934.
 
 (a) For all stations in all Wireless Radio Services, whether licensed geographically or on a site-specific basis, the following actions are classified as major:

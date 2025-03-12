@@ -32,7 +32,7 @@
 
 (i) The number of actual months and days of the period during which the veteran will pursue the training program will be counted;
 
-(ii) Days of authorized leave and other periods during which the veteran wlll not be pursuing training, such as periods between terms will also be counted;
+(ii) Days of authorized leave and other periods during which the veteran will not be pursuing training, such as periods between terms will also be counted;
 
 (iii) The period of evaluation prior to determination of reasonable feasibility will be excluded but the actual number of months and days needed to evaluate and improve rehabilitation potential during the training program will be included;
 

@@ -6,9 +6,9 @@
 
 (2) Where the purchaser is not an accredited investor (as defined in Rule 501 (§ 230.501 of this chapter)), the aggregate amount of securities sold to such an investor across all issuers in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) during the 12-month period preceding the date of such transaction, including the securities sold to such investor in such transaction, shall not exceed:
 
-(i) The greater of $2,200, or 5 percent of the greater of the investor's annual income or net worth, if either the investor's annual income or net worth is less than $107,000; or
+(i) The greater of $2,500, or 5 percent of the greater of the investor's annual income or net worth, if either the investor's annual income or net worth is less than $124,000; or
 
-(ii) Ten percent of the greater of the investor's annual income or net worth, not to exceed an amount sold of $107,000, if both the investor's annual income and net worth are equal to or more than $107,000;
+(ii) Ten percent of the greater of the investor's annual income or net worth, not to exceed an amount sold of $124,000, if both the investor's annual income and net worth are equal to or more than $124,000;
 
 *Instruction 1 to paragraph (a)(2).* To determine the investment limit for a natural person, the person's annual income and net worth shall be calculated as those values are calculated for purposes of determining accredited investor status in accordance with § 230.501 of this chapter.
 
@@ -52,4 +52,4 @@
 
 (e) *Integration with other offerings.* To determine whether offers and sales should be integrated, see § 230.152 of this chapter.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2020; 86 FR 3590, Jan. 14, 2021]Effective Date Notes:  At 86 FR 3590, Jan. 14, 2021, § 227.100 was amended by revising paragraph (b)(7), effective Jan. 14, 2021 through Mar. 1, 2023.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2020; 86 FR 3590, Jan. 14, 2021; 87 FR 57398, Sept. 20, 2022]Effective Date Notes:  At 86 FR 3590, Jan. 14, 2021, § 227.100 was amended by revising paragraph (b)(7), effective Jan. 14, 2021 through Mar. 1, 2023.

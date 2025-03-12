@@ -1,10 +1,10 @@
-##### § 21.4203 Reports - requirements. #####
+##### § 21.4203 Reports—requirements. #####
 
 (a) *General.* All the reports required by this paragraph shall be in a form specified by the Secretary.
 
 (1) Except as provided in paragraph (a)(2) of this section each educational institution, veteran and eligible person shall report without delay such information on enrollment, entrance, reentrance, change in the hours of credit or attendance, pursuit, interruption and termination of attendance of each veteran or eligible person enrolled in an approved course as the Secretary may require and using a form specified by the Secretary. See paragraphs (b) through (h) of this section.
 
-(2) An educational institution may delay in reporting the enrollment or reenrollment of a veteran or an eligible person until the end of the term, quarter, or semester when -
+(2) An educational institution may delay in reporting the enrollment or reenrollment of a veteran or an eligible person until the end of the term, quarter, or semester when—
 
 (i) The veteran or eligible person is enrolled in a program of independent study;
 
@@ -18,7 +18,7 @@
 
 (4) An educational institution which, under paragraph (a)(2) of this section, is delaying the reporting of the enrollment or reenrollment of a veteran shall provide the veteran with notice of the delay at the time that the veteran enrolls or reenrolls.
 
-(5) In addition, educational institutions must -
+(5) In addition, educational institutions must—
 
 (Authority: 38 U.S.C. 3685; Pub. L. 99-576)
 
@@ -36,13 +36,13 @@
 
 (2) All educational institutions, regardless of the way in which they are organized, must clearly specify the course in which the veteran or eligible person is enrolled.
 
-(3) Schools organized on a term, quarter or semester basis -
+(3) Schools organized on a term, quarter or semester basis—
 
 (i) May report enrollment for the term, quarter, semester, ordinary school year plus the following summer term.
 
 (ii) May not report enrollment for a period that exceeds the ordinary school year plus the following summer term.
 
-(iii) Must report the dates for the break between terms if -
+(iii) Must report the dates for the break between terms if—
 
 (A) The certification covers two or more terms, and a term ends and the following term does not begin in the same or the next calendar month;
 
@@ -52,7 +52,7 @@
 
 (D) The certification covers at least one summer session and at least one term which is not a standard semester or quarter.
 
-(iv) Must submit a separate enrollment certification for each term, quarter or semester if the student -
+(iv) Must submit a separate enrollment certification for each term, quarter or semester if the student—
 
 (A) Is a veteran or eligible person pursuing a program on a less than half-time basis, or
 
@@ -60,7 +60,7 @@
 
 (Authority: 38 U.S.C. 3684(a); Pub. L. 99-576)
 
-(v) Where a veteran or an eligible person, who is pursing a course leading to a standard college degree, transfers between consecutive school terms from one approved institution to another approved institution, for the purpose of enrolling in, and pursuing, a similar course at the second institution, the veteran or eligible person shall, for the purpose of entitlement to the payment of educational assistance allowance be considered to be enrolled at the first institution during the interval, if the interval does not exceed 30 days, following the termination date of the school term of the first institution.
+(v) Where a veteran or an eligible person, who is pursuing a course leading to a standard college degree, transfers between consecutive school terms from one approved institution to another approved institution, for the purpose of enrolling in, and pursuing, a similar course at the second institution, the veteran or eligible person shall, for the purpose of entitlement to the payment of educational assistance allowance be considered to be enrolled at the first institution during the interval, if the interval does not exceed 30 days, following the termination date of the school term of the first institution.
 
 (Authority: 38 U.S.C. 3680)
 
@@ -88,7 +88,7 @@
 
 (f) *Certification.* All reports required by this paragraph must be in a form specified by the Secretary.
 
-(1) *Courses not leading to a standard college degree.* (i) Except as provided in this paragraph VA requires that a certification of attendance be submitted monthly for each veteran or eligible person enrolled in a course not leading to a standard college degree. The fact that the course may be pursued on a quarter, semester or term basis will not relieve the veteran or eligible person and the school of this requirement. Unless exempted by this paragraph this requirement also applies to courses measured on a credit-hour basis. This requirement does not apply to -
+(1) *Courses not leading to a standard college degree.* (i) Except as provided in this paragraph VA requires that a certification of attendance be submitted monthly for each veteran or eligible person enrolled in a course not leading to a standard college degree. The fact that the course may be pursued on a quarter, semester or term basis will not relieve the veteran or eligible person and the school of this requirement. Unless exempted by this paragraph this requirement also applies to courses measured on a credit-hour basis. This requirement does not apply to—
 
 (A) Courses measured on a credit-hour basis pursuant to footnote 6 of § 21.4270(a),
 

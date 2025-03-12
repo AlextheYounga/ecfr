@@ -20,7 +20,7 @@
 
 (Authority: 38 U.S.C. 3701(a)(2), 3712(c)(4))
 
-(2) For the purpose of obtaining an interest rate reduction refinancing loan purusant to 38 U.S.C. 3712(a)(1)(F), an unmarried surviving spouse who was a co-obligor under an existing Department of Veterans Affairs guaranteed loan shall be considered to be eligible for the 38 U.S.C. 3712(a)(1)(F) benefit.
+(2) For the purpose of obtaining an interest rate reduction refinancing loan pursuant to 38 U.S.C. 3712(a)(1)(F), an unmarried surviving spouse who was a co-obligor under an existing Department of Veterans Affairs guaranteed loan shall be considered to be eligible for the 38 U.S.C. 3712(a)(1)(F) benefit.
 
 (Authority: 38 U.S.C. 3712(a)(4)(C))
 

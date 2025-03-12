@@ -1,6 +1,6 @@
 ##### § 42.32 Location of hearing. #####
 
-(a) The hearing may be held -
+(a) The hearing may be held—
 
 (1) In any judicial district of the United States in which the defendant resides or transacts business;
 
@@ -10,4 +10,4 @@
 
 (b) Each party shall have the opportunity to present argument with respect to the location of the hearing.
 
-(c) The hearing shall be held at a place and time orderd by the ALJ.
+(c) The hearing shall be held at a place and time ordered by the ALJ.

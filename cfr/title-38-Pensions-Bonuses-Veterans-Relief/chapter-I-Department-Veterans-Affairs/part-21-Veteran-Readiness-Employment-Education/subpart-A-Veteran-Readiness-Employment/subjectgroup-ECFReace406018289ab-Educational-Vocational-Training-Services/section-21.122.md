@@ -1,6 +1,6 @@
 ##### § 21.122 School course. #####
 
-(a) *Explanation of terms - schools, educational institution, and institution.* These terms mean any public or private school, secondary school, vocational school, correspondence school, business school, junior college, teacher's college, college, normal school, professional school, university, scientific or technical institution, or other institution funishing education for adults.
+(a) *Explanation of terms—schools, educational institution, and institution.* These terms mean any public or private school, secondary school, vocational school, correspondence school, business school, junior college, teacher's college, college, normal school, professional school, university, scientific or technical institution, or other institution furnishing education for adults.
 
 (Authority: 38 U.S.C. 501(a), 3104)
 

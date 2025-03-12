@@ -22,7 +22,7 @@ Note to paragraph (b)(1)(iv):
 
 The phrase “or as otherwise authorized by U.S. law and regulations” is included because U.S. regulations contain specific exemptions from licensing requirements (e.g., ITAR exemptions, and EAR license exceptions and No License Required designations) and allow for certain amounts of U.S. origin content in foreign made items (see 15 CFR 734).
 
-(2) When exporting items subject to the EARpursuant to a Department of State license or other approval, the U.S. exporter must also provide the end-user and consignees with the appropriate EAR classification information for each item. This includes the Export Control Classification Number (ECCN) or EAR99 designation.
+(2) When exporting items subject to the EAR pursuant to a Department of State license or other approval, the U.S. exporter must also provide the end-user and consignees with the appropriate EAR classification information for each item. This includes the Export Control Classification Number (ECCN) or EAR99 designation.
 
 (c) Any U.S. person or foreign person requesting written approval from the Directorate of Defense Trade Controls for the reexport, retransfer, other disposition, or change in end-use, end-user, or destination of a defense article initially exported or transferred pursuant to a license or other written approval, or an exemption under this subchapter, must submit all the documentation required for a permanent export license (*see* § 123.1 of this subchapter) and shall also submit the following:
 

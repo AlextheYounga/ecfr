@@ -4,7 +4,7 @@ Link to an amendment published at 86 FR 48022, Aug. 27, 2021.
 
 (a)-(b) [Reserved]
 
-Category I - Firearms and Related Articles
+Category I—Firearms and Related Articles
 
 \* (a) Firearms using caseless ammunition.
 
@@ -34,7 +34,7 @@ Integration does not include only attaching to the firearm or rail.
 
 (4) Accessories or attachments specially designed to automatically stabilize aim (other than gun rests) or for automatic targeting, and specially designed parts and components therefor.
 
-(i) Technical data see § 120.33 of this subchapter) and defense services see § 120.32 of this subchapter) directly related to the defense articles described in this category and classified technical data directly related to items controlled in ECCNs 0A501, 0B501, 0D501, and 0E501 and defense services using the classified technical data. See § 125.4 of this subchapter for exemptions.)
+(i) Technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) directly related to the defense articles described in this category and classified technical data directly related to items controlled in ECCNs 0A501, 0B501, 0D501, and 0E501 and defense services using the classified technical data. (See § 125.4 of this subchapter for exemptions.)
 
 (j)-(w) [Reserved]
 
@@ -54,7 +54,7 @@ The following interpretations explain and amplify the terms used in this categor
 
 (3) Caseless ammunition is firearm ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.
 
-Category II - Guns and Armament
+Category II—Guns and Armament
 
 (a) Guns and armament greater than .50 caliber (12.7 mm), as follows:
 
@@ -174,7 +174,7 @@ Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category III - Ammunition and Ordnance
+Category III—Ammunition and Ordnance
 
 (a) Ammunition, as follows:
 
@@ -274,7 +274,7 @@ This paragraph does not control caps or primers of any type in use prior to 1890
 
 (iii) Is being developed using classified information.
 
-(e) Technical data (see § 120.33 of this subchapter) and defense services (*see* § 120.32 of this subchapter) directly related to the defense articles enumerated in paragraphs (a), (b), and (d) of this category and classified technical data directly related to items controlled in ECCNs 0A505, 0B505, 0D505, and 0E505 and defense services using the classified technical data. (See § 125.4 of this subchapter for exemptions.)
+(e) Technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) directly related to the defense articles enumerated in paragraphs (a), (b), and (d) of this category and classified technical data directly related to items controlled in ECCNs 0A505, 0B505, 0D505, and 0E505 and defense services using the classified technical data. (See § 125.4 of this subchapter for exemptions.)
 
 (f)-(w) [Reserved]
 
@@ -296,7 +296,7 @@ Note 3 to Category III:
 
 Grenades containing non-lethal or less lethal projectiles are under the jurisdiction of the Department of Commerce.
 
-Category IV - Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs, and Mines
+Category IV—Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs, and Mines
 
 \* (a) Rockets, space launch vehicles (SLVs), missiles, bombs, torpedoes, depth charges, mines, and grenades, as follows:
 
@@ -490,7 +490,7 @@ Note to Category IV:
 
 If a Missile Technology Control Regime Category I item is included in a system, that system will also be considered as a Category I item, except when the incorporated item cannot be separated, removed, or duplicated.
 
-Category V - Explosives and Energetic Materials, Propellants, Incendiary Agents, and Their Constituents
+Category V—Explosives and Energetic Materials, Propellants, Incendiary Agents, and Their Constituents
 
 \* (a) Explosives, and mixtures thereof, as follows:
 
@@ -916,7 +916,7 @@ This paragraph is applicable only to those contracts and funding authorizations 
 
 (l)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
@@ -934,7 +934,7 @@ Note 3 to USML Category V:
 
 Items controlled in this Category, except for materials described in paragraph (c)(6), (h), or (i), are licensed by the Department of Commerce when incorporated into an item subject to the EAR and classified under ECCN 1C608.
 
-Category VI - Surface Vessels of War and Special Naval Equipment
+Category VI—Surface Vessels of War and Special Naval Equipment
 
 \* (a) Warships and other combatant vessels (*i.e.,* battleships, aircraft carriers, destroyers, frigates, cruisers, corvettes, littoral combat ships, mine sweepers, mine hunters, mine countermeasure ships, dock landing ships, amphibious assault ships), Coast Guard Cutters (with or equivalent to those with U.S. designations WHEC, WMEC, WMSL, or WPB for the purpose of this subchapter), or foreign-origin vessels specially designed to provide functions equivalent to those of the vessels listed above;
 
@@ -1036,7 +1036,7 @@ Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category VII - Ground Vehicles
+Category VII—Ground Vehicles
 
 \* (a) Armored combat ground vehicles as follows:
 
@@ -1050,7 +1050,7 @@ Category VII - Ground Vehicles
 
 Note to paragraph (c):
 
-“Mission systems” are defined as “systems” see § 120.40(h) of this subchapter) that are defense articles that perform specific military functions, such as by providing military communication, target designation, surveillance, target detection, or sensor capabilities.
+“Mission systems” are defined as “systems” (see § 120.40(h) of this subchapter) that are defense articles that perform specific military functions, such as by providing military communication, target designation, surveillance, target detection, or sensor capabilities.
 
 Note to paragraphs (b) and (c):
 
@@ -1138,7 +1138,7 @@ Note 3 to Category VII:
 
 Ground vehicles include any vehicle meeting the definitions or control parameters regardless of the surface (e.g., highway, off-road, rail) upon which the vehicle is designed to operate.
 
-Category VIII - Aircraft and Related Articles
+Category VIII—Aircraft and Related Articles
 
 (a) Aircraft, whether manned, unmanned, remotely piloted, or optionally piloted, as follows (MT if the aircraft, excluding manned aircraft, has a range equal to or greater than 300 km):
 
@@ -1218,7 +1218,7 @@ This paragraph is applicable only to those contracts, other funding authorizatio
 
 Note to paragraph (h)(1):
 
-This paragraph does not control parts, components, accessories, and attachments that are common to aircraft described in paragraph (a) of this category but not identified in paragraph (h)(1), and those identified in paragraph (h)(1). For example, when applying § 120.41(b)(3), a part common to only the F-16 and F-35 is not specially designed for purposes of this paragraph. A part common to only the F-22 and F-35 - two aircraft models identified in paragraph (h)(1) - is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b) of this subchapter.
+This paragraph does not control parts, components, accessories, and attachments that are common to aircraft described in paragraph (a) of this category but not identified in paragraph (h)(1), and those identified in paragraph (h)(1). For example, when applying § 120.41(b)(3), a part common to only the F-16 and F-35 is not specially designed for purposes of this paragraph. A part common to only the F-22 and F-35—two aircraft models identified in paragraph (h)(1)—is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b) of this subchapter.
 
 (2) Rotorcraft gearboxes with internal pitch line velocities exceeding 20,000 feet per minute and able to operate 30 minutes with loss of lubrication without an emergency or auxiliary lubrication system, and specially designed parts and components therefor;
 
@@ -1318,7 +1318,7 @@ Note:
 
 Parts, components, accessories, and attachments in paragraphs (h)(3)-(5), (7), (14), (17), or (19) are licensed by the Department of Commerce when incorporated in an aircraft subject to the EAR and classified under ECCN 9A610. Replacement systems, parts, components, accessories and attachments are subject to the controls of the ITAR.
 
-Category IX - Military Training Equipment and Training
+Category IX—Military Training Equipment and Training
 
 (a) Training equipment, as follows:
 
@@ -1402,7 +1402,7 @@ Training equipment does not include combat games without item signatures or tact
 
 (f)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
@@ -1412,7 +1412,7 @@ Note to USML Category IX:
 
 Parts, components, accessories, or attachments of a simulator in this category that are common to the simulated system or simulated end-item are controlled under the same USML category or CCL ECCN as the parts, components, accessories, and attachments of the simulated system or simulated end-item.
 
-Category X - Personal Protective Equipment
+Category X—Personal Protective Equipment
 
 (a) Personal protective equipment, as follows:
 
@@ -1500,13 +1500,13 @@ See National Institute of Justice Classification, NIJ Standard-0101.06, or natio
 
 (f)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XI - Military Electronics
+Category XI—Military Electronics
 
 (a) Electronic equipment and systems not included in Category XII of the U.S. Munitions List, as follows:
 
@@ -1860,7 +1860,7 @@ Parts and components controlled by this paragraph are limited to those that stor
 
 (e)-(w) [Reserved];
 
-(x) Commodities, software, and technology subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technology subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
@@ -1870,7 +1870,7 @@ Note to Category XI:
 
 Category XI does not control transmit/receive modules, transmit/receive MMICs, transmit modules, or transmit MMICs that incorporate or are MMICs fabricated exclusively with homojunction CMOS silicon-based circuits on silicon substrates, or radars and radar antennas specially designed to use only such modules or MMICs.
 
-Category XII - Fire Control, Laser, Imaging, and Guidance Equipment
+Category XII—Fire Control, Laser, Imaging, and Guidance Equipment
 
 (a) Fire control, aiming, detection, guidance, and tracking systems, as follows:
 
@@ -2212,7 +2212,7 @@ Note to Category XII:
 
 For purposes of paragraphs (b)(6), (c)(1)(iii), (c)(3), (c)(4)(ii), (c)(5), (c)(6)(viii)(b), and (c)(7)(ii) of this category, a “military end user” means the national armed services (army, navy, marine, air force, or coast guard), national guard, national police, government intelligence or reconnaissance organizations, or any person or entity whose actions or functions are intended to support military end uses. A system or end item is not specially designed for a military end user if the item was developed with knowledge that it is or would be for use by both military end users and non-military end users, or if the item was or is being developed with no knowledge of use by a particular end user. For the purpose of conducting a self-determination of jurisdiction, documents contemporaneous with the development must establish such knowledge. For the purpose of a Commodity Jurisdiction determination, the government may base a determination on post-development information that evidences such knowledge or is otherwise consistent with §§ 120.4 and 120.12 of this subchapter.
 
-Category XIII - Materials and Miscellaneous Articles
+Category XIII— Materials and Miscellaneous Articles
 
 (a) [Reserved]
 
@@ -2316,7 +2316,7 @@ Thermal batteries are single use batteries that contain a solid non-conducting i
 
 (5) Signature management technical data, including codes and algorithms for defense articles to reduce detectability or observability;
 
-(6) Signature control design methodology see § 120.43(c) of this subchapter) for defense articles to reduce detectability or observability;
+(6) Signature control design methodology (see § 120.43(c) of this subchapter) for defense articles to reduce detectability or observability;
 
 (7) Technical data for use of micro-encapsulation or micro-spheres to reduce infrared, radar, or visual detection of platforms or equipment;
 
@@ -2340,7 +2340,7 @@ Thermal batteries are single use batteries that contain a solid non-conducting i
 
 (2) Portable platform signature field repair validation equipment (e.g., portable optical interrogator that validates integrity of a repair to a signature reduction structure).
 
-(l) Technical data (see § 120.33 of this subchapter) directly related to the defense articles described in paragraphs (a) through (h), (j), and (k) of this category and defense services (see § 120.32) of this subchapter) directly related to the defense articles described in this category (see also § 120.5(c) of this subchapter for nuclear related controls).
+(l) Technical data (see § 120.33 of this subchapter) directly related to the defense articles described in paragraphs (a) through (h), (j), and (k) of this category and defense services (see § 120.32 of this subchapter) directly related to the defense articles described in this category (see also § 120.5(c) of this subchapter for nuclear related controls). (MT for technical data and defense services related to articles designated as such.)
 
 (m) The following interpretations explain and amplify terms used in this category and elsewhere in this subchapter:
 
@@ -2368,13 +2368,13 @@ Thermal batteries are single use batteries that contain a solid non-conducting i
 
 (n)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XIV - Toxicological Agents, Including Chemical Agents, Biological Agents, and Associated Equipment
+Category XIV—Toxicological Agents, Including Chemical Agents, Biological Agents, and Associated Equipment
 
 \* (a) Chemical agents, as follows:
 
@@ -2766,7 +2766,7 @@ See ECCN 1A607.k for military medical countermeasures such as autoinjectors, com
 
 (j)-(l) [Reserved]
 
-(m) Technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (l) and (n) of this category. (*See* § 125.4 of this subchapter for exemptions.)
+(m) Technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (l) and (n) of this category. (See§ 125.4 of this subchapter for exemptions.)
 
 (n) Developmental countermeasures or sorbents funded by the Department of Defense via contract or other funding authorization;
 
@@ -2790,7 +2790,7 @@ Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles controlled in this category where the purchase documentation includes commodities, software, or technology subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XV - Spacecraft and Related Articles
+Category XV— Spacecraft and Related Articles
 
 (a) Spacecraft, including satellites and space vehicles, whether designated developmental, experimental, research, or scientific, or having a commercial, civil, or military end-use, that:
 
@@ -2998,17 +2998,17 @@ Activities and technology/technical data directly related to or required for the
 
 Note 3 to paragraph (f):
 
-Paragraph (f) and ECCNs 9E001, 9E002 and 9E515 do not control the data transmitted to or from a satellite or spacecraft, whether real or simulated, when limited to information about the health, operational status, or measurements or function of, or raw sensor output from, the spacecraft, spacecraft payload(s), or its associated subsystems or components. Such information is not within the scope of information captured within the definition of technology in the EAR for purposes of Category 9 Product Group E. Examples of such information, which are commonly referred to as “housekeeping data,” include (i) system, hardware, component configuration, and operation status information pertaining to temperatures, pressures, power, currents, voltages, and battery charges; (ii) spacecraft or payload orientation or position information, such as state vector or ephemeris information; (iii) payload raw mission or science output, such as images, spectra, particle measurements, or field measurements; (iv) command responses; (v) accurate timing information; and (vi) link budget data. The act of processing such telemetry data - *i.e.,* converting raw data into engineering units or readable products - or encrypting it does not, in and of itself, cause the telemetry data to become subject to the ITAR or to ECCN 9E515 for purposes of 9A515, or to ECCNs 9E001 or 9E002 for purposes of 9A004. All classified technical data directly related to items controlled in USML Category XV or ECCNs 9A515, and defense services using the classified technical data, remains subject to the ITAR. This note does not affect controls in USML XV(f), ECCN 9D515, or ECCN 9E515 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A515. This note also does not affect controls in ECCNs 9D001, 9D002, 9E001, or 9E002 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A004.
+Paragraph (f) and ECCNs 9E001, 9E002 and 9E515 do not control the data transmitted to or from a satellite or spacecraft, whether real or simulated, when limited to information about the health, operational status, or measurements or function of, or raw sensor output from, the spacecraft, spacecraft payload(s), or its associated subsystems or components. Such information is not within the scope of information captured within the definition of technology in the EAR for purposes of Category 9 Product Group E. Examples of such information, which are commonly referred to as “housekeeping data,” include (i) system, hardware, component configuration, and operation status information pertaining to temperatures, pressures, power, currents, voltages, and battery charges; (ii) spacecraft or payload orientation or position information, such as state vector or ephemeris information; (iii) payload raw mission or science output, such as images, spectra, particle measurements, or field measurements; (iv) command responses; (v) accurate timing information; and (vi) link budget data. The act of processing such telemetry data—*i.e.,* converting raw data into engineering units or readable products—or encrypting it does not, in and of itself, cause the telemetry data to become subject to the ITAR or to ECCN 9E515 for purposes of 9A515, or to ECCNs 9E001 or 9E002 for purposes of 9A004. All classified technical data directly related to items controlled in USML Category XV or ECCNs 9A515, and defense services using the classified technical data, remains subject to the ITAR. This note does not affect controls in USML XV(f), ECCN 9D515, or ECCN 9E515 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A515. This note also does not affect controls in ECCNs 9D001, 9D002, 9E001, or 9E002 on software source code or commands that control a spacecraft, payload, or associated subsystems for purposes of 9A004.
 
 (g)-(w) [Reserved]
 
-(x) Commodities, software, and technology subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technology subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation also includes commodities, software, or technology subject to the EAR (see § 123.21(b) of this subchapter).
 
-Category XVI - Nuclear Weapons Related Articles
+Category XVI—Nuclear Weapons Related Articles
 
 (a) [Reserved]
 
@@ -3022,17 +3022,17 @@ Category XVI - Nuclear Weapons Related Articles
 
 (f)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XVII - Classified Articles, Technical Data, and Defense Services Not Otherwise Enumerated
+Category XVII—Classified Articles, Technical Data, and Defense Services Not Otherwise Enumerated
 
-\* (a) All articles, and technical data (*see* § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) relating thereto, that are classified in the interests of national security and that are not otherwise enumerated on the U.S. Munitions List.
+\* (a) All articles, and technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) relating thereto, that are classified in the interests of national security and that are not otherwise enumerated on the U.S. Munitions List.
 
-Category XVIII - Directed Energy Weapons
+Category XVIII—Directed Energy Weapons
 
 \* (a) Directed energy weapons as follows:
 
@@ -3078,7 +3078,7 @@ Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles controlled in this category where the purchase documentation includes commodities, software, or technology subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XIX - Gas Turbine Engines and Associated Equipment
+Category XIX—Gas Turbine Engines and Associated Equipment
 
 \* (a) Turbofan and Turbojet engines (including those that are technology demonstrators, developmental engines, or variable cycle engines) capable of 15,000 lbf (66.7 kN) of thrust or greater that have any of the following:
 
@@ -3118,7 +3118,7 @@ Digital electronic control systems autonomously control the engine throughout it
 
 Note to paragraph (f)(1):
 
-This paragraph does not control parts, components, accessories, and attachments that are common to engines enumerated in paragraph (a) through (d) of this category but not identified in paragraph (f)(1), and those identified in paragraph (f)(1). For example, a part common to only the F110 and F136 is not specially designed for purposes of this paragraph. A part common to only the F119 and F135 - two engine models identified in paragraph (f)(1) - is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b).
+This paragraph does not control parts, components, accessories, and attachments that are common to engines enumerated in paragraph (a) through (d) of this category but not identified in paragraph (f)(1), and those identified in paragraph (f)(1). For example, a part common to only the F110 and F136 is not specially designed for purposes of this paragraph. A part common to only the F119 and F135—two engine models identified in paragraph (f)(1)—is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b).
 
 \* (2) Hot section components (*i.e.,* combustion chambers and liners; high pressure turbine blades, vanes, disks and related cooled structure; cooled intermediate pressure turbine blades, vanes, disks and related cooled structures; cooled low pressure turbine blades, vanes, disks and related cooled structures; cooled shaft-driving power turbine blades, vanes, disks and related cooled structures; cooled augmenters; and cooled nozzles) specially designed for gas turbine engines controlled in this category;
 
@@ -3158,7 +3158,7 @@ Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles controlled in this category where the purchase documentation includes commodities, software, or technology subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XX - Submersible Vessels and Related Articles
+Category XX—Submersible Vessels and Related Articles
 
 (a) Submersible and semi-submersible vessels that are:
 
@@ -3218,13 +3218,13 @@ Note to paragraph (c):
 
 (e)-(w) [Reserved]
 
-(x) Commodities, software, and technical data subject to the EAR (see § 120.42 of this subchapter) used in or with defense articles.
+(x) Commodities, software, and technical data subject to the EAR used in or with defense articles.
 
 Note to paragraph (x):
 
 Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technical data subject to the EAR (see § 123.1(b) of this subchapter).
 
-Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enumerated
+Category XXI—Articles, Technical Data, and Defense Services Not Otherwise Enumerated
 
 \* (a) Any article not enumerated on the U.S. Munitions List may be included in this category until such time as the appropriate U.S. Munitions List category is amended. The decision on whether any article may be included in this category, and the designation of the defense article as not Significant Military Equipment, shall be made by the Director, Office of Defense Trade Controls Policy.
 

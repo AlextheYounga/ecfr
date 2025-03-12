@@ -38,11 +38,11 @@ Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494
 
 *Electronic filing.* The term *electronic filing* means a document under the federal securities laws that is transmitted or delivered to the Commission in electronic format.
 
-*Emerging growth company.* (1) The term *emerging growth company* means an issuer that had total annual gross revenues of less than $1,070,000,000 during its most recently completed fiscal year.
+*Emerging growth company.* (1) The term *emerging growth company* means an issuer that had total annual gross revenues of less than $1,235,000,000 during its most recently completed fiscal year.
 
 (2) An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of:
 
-(i) The last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,070,000,000 or more;
+(i) The last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,235,000,000 or more;
 
 (ii) The last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933;
 
@@ -298,13 +298,13 @@ For purposes of this definition, the determination of a registrant's assets (inc
 
 (B) It determines that its public float and its annual revenues meet the requirements for subsequent qualification included in the following chart:
 
-|    Prior annual revenues     |                Prior public float                |                                          |
-|------------------------------|--------------------------------------------------|------------------------------------------|
-|None or less than $700 million|               $700 million or more               |                                          |
-|    Less than $100 million    |            Neither threshold exceeded            |Public float - Less than $560 million; and|
-|                              |                                                  |    Revenues - Less than $100 million.    |
-|     $100 million or more     |Public float - None or less than $700 million; and|Public float - Less than $560 million; and|
-|                              |         Revenues - Less than $80 million         |    Revenues - Less than $80 million.     |
+|    Prior annual revenues     |               Prior public float               |                                        |
+|------------------------------|------------------------------------------------|----------------------------------------|
+|None or less than $700 million|              $700 million or more              |                                        |
+|    Less than $100 million    |           Neither threshold exceeded           |Public float—Less than $560 million; and|
+|                              |                                                |    Revenues—Less than $100 million.    |
+|     $100 million or more     |Public float—None or less than $700 million; and|Public float—Less than $560 million; and|
+|                              |         Revenues—Less than $80 million         |    Revenues—Less than $80 million.     |
 
 Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
 

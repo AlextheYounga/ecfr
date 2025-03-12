@@ -48,7 +48,7 @@ Covered Federal action does not include receiving from an agency a commitment pr
 
 (m) *Reasonable compensation* means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-(n) *Reasonable payment* means, with respect to perfessional and other technical services, a payment in an amount that is consistent with the amount normally paid for such services in the private sector.
+(n) *Reasonable payment* means, with respect to professional and other technical services, a payment in an amount that is consistent with the amount normally paid for such services in the private sector.
 
 (o) *Recipient* includes all contractors, subcontractors at any tier, and subgrantees at any tier of the recipient of funds received in connection with a Federal contract, grant, loan, or cooperative agreement. The term excludes an Indian tribe, tribal organization, or any other Indian organization with respect to expenditures specifically permitted by other Federal law.
 

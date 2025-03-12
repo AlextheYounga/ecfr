@@ -44,7 +44,7 @@ As used in this part, the term:
 
 (A) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: Neurological, musculoskeletal; special sense organs including speech organs; respiratory; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine; or
 
-(B) Any mental or psychological discorder, such as mental retardation, organic brain syndrome, emotional or mental illness, and specific learning disabilities.
+(B) Any mental or psychological disorder, such as mental retardation, organic brain syndrome, emotional or mental illness, and specific learning disabilities.
 
 (C) The term *physical or mental impairment* includes, but is not limited to, such diseases and conditions as orthopedic, visual, speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, mental retardation, emotional illness, drug addiction and alcoholism.
 
@@ -88,7 +88,7 @@ As used in this part, the term:
 
 (ii) A local educational agency (as defined in 20 U.S.C. 7801), system of vocational education, or other school system;
 
-(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship -
+(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
 (A) If assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
 

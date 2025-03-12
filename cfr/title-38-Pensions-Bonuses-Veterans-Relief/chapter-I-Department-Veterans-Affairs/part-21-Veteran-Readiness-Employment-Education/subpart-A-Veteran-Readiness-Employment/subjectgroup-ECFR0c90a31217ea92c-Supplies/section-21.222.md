@@ -20,7 +20,7 @@ The value of supplies authorized by VA will be repaid under the provisions of th
 
 (ii) The veteran's failure to complete the program was not his or her fault;
 
-(iii) The veteran was pursuing the program at a facility which recovers nonconsumable supplies from veterans through contractural arrangements with VA, and the veteran returned to the facility all the nonconsumable supplies furnished at VA expense;
+(iii) The veteran was pursuing the program at a facility which recovers nonconsumable supplies from veterans through contractual arrangements with VA, and the veteran returned to the facility all the nonconsumable supplies furnished at VA expense;
 
 (iv) The veteran reenters the Armed Forces or is in the process of reentering the Armed Forces;
 

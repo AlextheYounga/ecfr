@@ -18,7 +18,7 @@
 
 (1) The contribution shall be at least $25 per month but not more than $100 per month.
 
-(2) The contribution shall be evenly divided by five. See § 21.5292 for contributions made furing the 1-year pilot program.
+(2) The contribution shall be evenly divided by five. See § 21.5292 for contributions made during the 1-year pilot program.
 
 (c) *Amount of total contribution.* An individual may contribute for the number of months required to reach a total contribution of $2,700.
 
@@ -48,7 +48,7 @@
 
 (3) If otherwise eligible to make contributions, a participant:
 
-(i) May make a lump-sum contribution to cover any period of his or her active duty. This may entail a retroactive period, including one which -
+(i) May make a lump-sum contribution to cover any period of his or her active duty. This may entail a retroactive period, including one which—
 
 (A) Begins after December 31, 1976, and before October 1, 1980, or
 

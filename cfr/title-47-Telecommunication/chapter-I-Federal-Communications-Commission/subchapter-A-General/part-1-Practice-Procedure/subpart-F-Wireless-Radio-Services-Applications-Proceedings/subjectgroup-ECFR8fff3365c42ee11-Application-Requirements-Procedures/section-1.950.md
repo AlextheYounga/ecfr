@@ -1,5 +1,7 @@
 ##### § 1.950 Geographic partitioning and spectrum disaggregation. #####
 
+Link to an amendment published at 87 FR 57416, Sept. 20, 2022.
+
 (a) *Definitions.* The terms “county and county equivalent,” “geographic partitioning,” and “spectrum disaggregation” as used in this section are defined as follows:
 
 (1) *County and county equivalent.* The terms county and county equivalent as used in this part are defined by Federal Information Processing Standards (FIPS) 6-4, which provides the names and codes that represent the counties and other entities treated as equivalent legal and/or statistical subdivisions of the 50 States, the District of Columbia, and the possessions and freely associated areas of the United States. Counties are the “first-order subdivisions” of each State and statistically equivalent entity, regardless of their local designations (county, parish, borough, etc.). Thus, the following entities are equivalent to counties for legal and/or statistical purposes: The parishes of Louisiana; the boroughs and census areas of Alaska; the District of Columbia; the independent cities of Maryland, Missouri, Nevada, and Virginia; that part of Yellowstone National Park in Montana; and various entities in the possessions and associated areas. The FIPS codes and FIPS code documentation are available online at *http://www.itl.nist.gov/fipspubs/index.htm*.

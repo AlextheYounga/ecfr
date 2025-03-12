@@ -68,7 +68,7 @@ The sale price of a property under any of the restrictions of paragraph (b)(6) o
 
 (ii) By hedges or removable fences belonging to subject or adjoining property.
 
-(iii) Not exceeding 1 foot on adjoining property by driveways belonging to subject property, provided there exists a clearance of at least 8 feet between the buildings on the subject propert and the property line affected by the encroachment.
+(iii) Not exceeding 1 foot on adjoining property by driveways belonging to subject property, provided there exists a clearance of at least 8 feet between the buildings on the subject property and the property line affected by the encroachment.
 
 (6) *Variations of lot lines.* Variations between the length of the subject property lines as shown on the plot plan or other exhibits submitted to the Department of Veterans Affairs and as shown by the record or possession lines, provided such variations do not interfere with the current use of any of the improvements on the subject property including the manufactured home and do not involve a deficiency of more than 2 percent with respect to the length of the front line or more than 5 percent with respect to the length of any other line.
 

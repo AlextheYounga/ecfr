@@ -50,7 +50,7 @@
 
 (Authority: 38 U.S.C. 3108(f))
 
-(f) *Special situtations.* (1) When a chapter 31 participant elects benefits of the kind provided under chapter 30 or chapter 34 as a part of his or her rehabilitation program under chapter 31, the veteran's entitlement usage will be determined by using the entitlement provisions of those programs. Entitlement charges shall be in accordance with § 21.7076 for chapter 30 and § 21.1045 under chapter 34. The entitlement usage computed under these provisions is deducted from the veteran's chapter 31 entitlement. No entitlement charges are made against either chapter 30 or chapter 34.
+(f) *Special situations.* (1) When a chapter 31 participant elects benefits of the kind provided under chapter 30 or chapter 34 as a part of his or her rehabilitation program under chapter 31, the veteran's entitlement usage will be determined by using the entitlement provisions of those programs. Entitlement charges shall be in accordance with § 21.7076 for chapter 30 and § 21.1045 under chapter 34. The entitlement usage computed under these provisions is deducted from the veteran's chapter 31 entitlement. No entitlement charges are made against either chapter 30 or chapter 34.
 
 (Authority: 38 U.S.C. 3108(f))
 

@@ -1,6 +1,6 @@
 ##### § 21.184 “Evaluation and planning” status. #####
 
-(a) *Purpose.* The purpose of *evaluation and planning* status is to identify veterans for whom evaluation and planing services are needed to:
+(a) *Purpose.* The purpose of *evaluation and planning* status is to identify veterans for whom evaluation and planning services are needed to:
 
 (1) Accomplish an initial evaluation as provided in § 21.50;
 

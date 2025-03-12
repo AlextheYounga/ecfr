@@ -28,7 +28,7 @@
 
 (iv) Substantiated complaints are received that the lender misrepresented VA requirements to veterans to the detriment of their interests (e.g., veteran was dissuaded from seeking a lower interest rate based on lender's incorrect advice that such options were precluded by VA requirements);
 
-(v) Closing documentation shows instances of improper charges to the veteran after the impropriety of such charges has been called to the lender's attention by Va, or refusal to refund such charges after notification by VA; or
+(v) Closing documentation shows instances of improper charges to the veteran after the impropriety of such charges has been called to the lender's attention by VA, or refusal to refund such charges after notification by VA; or
 
 (vi) There are other instances of lender actions which are prejudicial to the interests of veterans, such as deliberate delays in scheduling loan closings.
 

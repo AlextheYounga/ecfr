@@ -30,7 +30,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3680(a); Pub. L. 102-127)(Aug. 1, 1990))
 
-(2) If the veteran or servicemember withdraws from all courses with mitigating circumstances or withdraws from all courses such that a punitive grade is or will be assigned for those courses or the veteran withdraws from all courses because he or she is ordered to active duty, VA will terminate educational assistance for -
+(2) If the veteran or servicemember withdraws from all courses with mitigating circumstances or withdraws from all courses such that a punitive grade is or will be assigned for those courses or the veteran withdraws from all courses because he or she is ordered to active duty, VA will terminate educational assistance for—
 
 (i) Residence training: last date of attendance; and
 
@@ -58,11 +58,11 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (ii) A punitive grade is assigned for the part of the course from which the reservist withdraws.
 
-(2) VA will reduce educational assistance effective the first date of the enrollment in which the reduction occurs when -
+(2) VA will reduce educational assistance effective the first date of the enrollment in which the reduction occurs when—
 
 (i) The reduction occurs on the first date of the term; or
 
-(ii) The veteran or servicemember -
+(ii) The veteran or servicemember—
 
 (A) Receives a nonpunitive grade for the part of the course from which he or she withdraws; and
 
@@ -90,7 +90,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3034, 3680; Pub. L. 98-525)
 
-(i) *Discontinued by VA.* If VA discontinues payment to a veteran or servicemember following the procedures stated in §§ 21.4215(d) and 21.4216, the date of discontinuance of payment of educational assistance will be -
+(i) *Discontinued by VA.* If VA discontinues payment to a veteran or servicemember following the procedures stated in §§ 21.4215(d) and 21.4216, the date of discontinuance of payment of educational assistance will be—
 
 (1) Date on which payments first were suspended by the Director of a VA facility as provided in § 21.4210, if the discontinuance was preceded by such a suspension.
 
@@ -98,7 +98,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3034, 3680; Pub. L. 98-525)
 
-(j) *Disapproval by State approving agency.* If a State approving agency disapproves a course in which a veteran or servicemember is enrolled, the date of discontinuance of payment of educational assistance will be -
+(j) *Disapproval by State approving agency.* If a State approving agency disapproves a course in which a veteran or servicemember is enrolled, the date of discontinuance of payment of educational assistance will be—
 
 (1) Date on which payments first were suspended by the Director of a VA Regional Processing Office as provided in § 21.4210, if disapproval was preceded by such a suspension.
 
@@ -106,7 +106,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3034, 3672(a), 3690; Pub. L. 98-525)
 
-(k) *Disapproval by VA.* If VA disapproves a course in which a veteran or servicemember is enrolled, the effective date of discontinuance of payment of educational assistance will be -
+(k) *Disapproval by VA.* If VA disapproves a course in which a veteran or servicemember is enrolled, the effective date of discontinuance of payment of educational assistance will be—
 
 (1) The date on which the Director of a VA Regional Processing Office first suspended payments, as provided in § 21.4210, if such a suspension preceded the disapproval.
 
@@ -142,7 +142,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (ii) The date the veteran or servicemember is incarcerated in prison or penal institution, or
 
-(iii) The comencing date of the award as determined by § 21.7131.
+(iii) The commencing date of the award as determined by § 21.7131.
 
 (Authority: 38 U.S.C. 3034, 3482(g); Pub. L. 98-525)
 
@@ -180,7 +180,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 5112(b), 5113)
 
-(w) *Forfeiture for fraud.* If a veteran's or servicemember's educational assistance must be forfeited due to fraud, the effective date of discontinuance shall be the later of -
+(w) *Forfeiture for fraud.* If a veteran's or servicemember's educational assistance must be forfeited due to fraud, the effective date of discontinuance shall be the later of—
 
 (1) The effective date of the award, or
 
@@ -188,7 +188,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 6103; Pub. L. 98-525)
 
-(x) *Forfeiture for treasonable acts or subversive activities.* If a veteran's or servicemember's educational assistance must be forfeited due to treasonable acts or subversive activities, the effective date of discontinuance shall be the later of -
+(x) *Forfeiture for treasonable acts or subversive activities.* If a veteran's or servicemember's educational assistance must be forfeited due to treasonable acts or subversive activities, the effective date of discontinuance shall be the later of—
 
 (1) The effective date of the award, or
 
@@ -204,13 +204,13 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3014, 3034, 3676, 3680A(a))
 
-(aa) *Fugitive felons.* (1) VA will not award educational assistance allowance to an otherwise eligible veteran for any period after December 26, 2001, during which the veteran is a fugitive felon. The date of discontinuance of an award of educational assistance allowance to a veteran who is a fugitive felon is the later of -
+(aa) *Fugitive felons.* (1) VA will not award educational assistance allowance to an otherwise eligible veteran for any period after December 26, 2001, during which the veteran is a fugitive felon. The date of discontinuance of an award of educational assistance allowance to a veteran who is a fugitive felon is the later of—
 
 (i) The date of the warrant for the arrest of the felon; or
 
 (ii) December 27, 2001.
 
-(2) VA will not award educational assistance allowance to a dependent who is otherwise eligible to transferred entitlement if the dependent is a fugitive felon or if the veteran who transferred the entitlement is a fugitive felon. The date of discontinuance of an award of educational assistance allowance to a dependent is the later of -
+(2) VA will not award educational assistance allowance to a dependent who is otherwise eligible to transferred entitlement if the dependent is a fugitive felon or if the veteran who transferred the entitlement is a fugitive felon. The date of discontinuance of an award of educational assistance allowance to a dependent is the later of—
 
 (i) The date of the warrant; or
 
@@ -234,7 +234,7 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (Authority: 38 U.S.C. 3020)
 
-(ff) *Transferor fails to complete additional active duty service requirement.* VA will discontinue each award of educational assistance given to a dependent, effective the first date of each such award when -
+(ff) *Transferor fails to complete additional active duty service requirement.* VA will discontinue each award of educational assistance given to a dependent, effective the first date of each such award when—
 
 (1) The transferor fails to complete the additional active duty service requirement that afforded him or her the opportunity to transfer entitlement to educational assistance; and
 
@@ -252,4 +252,4 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (ii) *Stepchild eligible for transferred entitlement no longer member of transferor's household.* If a stepchild eligible for transferred entitlement ceases to be a member of the transferor's household, the date of discontinuance is the date the stepchild was no longer a member of the transferor's household. See § 21.7080(c)(4).
 
-(Authority: 38 U.S.C. 101(4), 3020)[53 FR 1757, Jan. 22, 1988, as amended at 55 FR 28386, July 11, 1990; 57 FR 15024, Apr. 24, 1992; 58 FR 26242, May 3, 1993; 61 FR 6788, Feb. 22, 1996; 61 FR 26116, May 24, 1996; 62 FR 55519, Oct. 27, 1997; 63 FR 35837, July 1, 1998; 64 FR 38577, July 19, 1999; 64 FR 51901, Sept. 27, 1999; 66 FR 38939, July 26, 2001; 66 FR 42586, Aug. 13, 2001; 70 FR 25787, May 16, 2005; 71 FR 75677, Dec. 18, 2006; 72 FR 16981, Apr. 5, 2007]
+(Authority: 38 U.S.C. 101(4), 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7135, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

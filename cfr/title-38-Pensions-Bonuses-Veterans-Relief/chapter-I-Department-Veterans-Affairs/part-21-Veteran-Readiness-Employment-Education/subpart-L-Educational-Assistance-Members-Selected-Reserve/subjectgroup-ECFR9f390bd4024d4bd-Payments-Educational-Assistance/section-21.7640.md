@@ -8,7 +8,7 @@
 
 (i) The educational institution has certified his or her enrollment in the form prescribed by the Secretary of Veterans Affairs; and
 
-(ii) VA has received a report by the reservist, which report is endorsed by the educational institution, of -
+(ii) VA has received a report by the reservist, which report is endorsed by the educational institution, of—
 
 (A) Each day of absence that occurred before December 18, 1989; or
 
@@ -38,7 +38,7 @@
 
 (Authority: 10 U.S.C. 16136(b), 38 U.S.C. 3680)
 
-(c) *Payee.* (1) VA will make payment to the reservist or to a duly appointed fudiciary. VA will make direct payment to the reservist even if he or she is a minor.
+(c) *Payee.* (1) VA will make payment to the reservist or to a duly appointed fiduciary. VA will make direct payment to the reservist even if he or she is a minor.
 
 (2) The assignment of educational assistance is prohibited. In administering this provision, VA will apply the provisions of § 21.4146 (a), (b), (c) and (e) of this part to 10 U.S.C. chapter 1606 in a manner not inconsistent with the way in which they are applied in the administration of 38 U.S.C. chapters 34 and 36.
 

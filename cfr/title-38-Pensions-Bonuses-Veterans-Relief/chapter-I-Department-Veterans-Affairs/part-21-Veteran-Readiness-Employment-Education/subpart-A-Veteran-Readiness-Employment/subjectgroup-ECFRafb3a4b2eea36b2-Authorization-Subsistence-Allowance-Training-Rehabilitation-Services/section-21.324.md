@@ -1,6 +1,6 @@
 ##### § 21.324 Reduction or termination dates of subsistence allowance. #####
 
-(a) *General.* The effective date of the reduction of the amount paid or termination of payment of subsistance allowance will be the earliest of the dates specified in this section. If an award is reduced, the reduced rate will be effective the day following the date of termination of the greater benefit.
+(a) *General.* The effective date of the reduction of the amount paid or termination of payment of subsistence allowance will be the earliest of the dates specified in this section. If an award is reduced, the reduced rate will be effective the day following the date of termination of the greater benefit.
 
 (b) *Death of a veteran.* Date of death, if death occurs while the veteran is in attendance or authorized leave status; otherwise date of last attendance.
 
@@ -12,7 +12,7 @@
 
 (Authority: 38 U.S.C. 5112(b), 5113)
 
-(d) *Divorce* - (1) *Before October 1, 1982.* Last day of the calendar year in which divorce occurs, unless the veteran's program is terminated earlier under other provisions.
+(d) *Divorce*—(1) *Before October 1, 1982.* Last day of the calendar year in which divorce occurs, unless the veteran's program is terminated earlier under other provisions.
 
 (Authority: 38 U.S.C. 5113)
 
@@ -20,7 +20,7 @@
 
 (Authority: 38 U.S.C. 5112(b), 5113)
 
-(e) *Child* - (1) *Marriage* - (i) *Before October 1, 1982.* Last day of the month in which the marriage occurs, unless the veteran's program is terminated earlier under other provisions.
+(e) *Child*—(1) *Marriage*—(i) *Before October 1, 1982.* Last day of the month in which the marriage occurs, unless the veteran's program is terminated earlier under other provisions.
 
 (Authority: 38 U.S.C. 5113)
 
@@ -104,7 +104,7 @@
 
 (Authority: 38 U.S.C. 6103(a))
 
-(l) *Error* - (1) *Payee error.* Effective date of the award of subsistence allowance or day preceding the act, whichever is later, but not prior to the date the veteran's entitlement ceases, on an erroneous award based on an act of commission or omission by a payee with his or her knowledge.
+(l) *Error*—(1) *Payee error.* Effective date of the award of subsistence allowance or day preceding the act, whichever is later, but not prior to the date the veteran's entitlement ceases, on an erroneous award based on an act of commission or omission by a payee with his or her knowledge.
 
 (2) *Administrative error.* Except as provided in paragraph (j) of this section, date of last payment on an erroneous award based solely on administrative error or an error in judgment by a VA employee.
 
@@ -116,7 +116,7 @@
 
 (Authority: 38 U.S.C. 5113)
 
-(n) *Incarceration in prison or jail* - (1) *Felony conviction.* If a veteran's subsistence allowance must be reduced because of incarceration for a felony conviction under provisions of § 21.276, his or her rate of payment will be reduced the later of:
+(n) *Incarceration in prison or jail*—(1) *Felony conviction.* If a veteran's subsistence allowance must be reduced because of incarceration for a felony conviction under provisions of § 21.276, his or her rate of payment will be reduced the later of:
 
 (i) The date of his or her incarceration in a prison or jail; or
 

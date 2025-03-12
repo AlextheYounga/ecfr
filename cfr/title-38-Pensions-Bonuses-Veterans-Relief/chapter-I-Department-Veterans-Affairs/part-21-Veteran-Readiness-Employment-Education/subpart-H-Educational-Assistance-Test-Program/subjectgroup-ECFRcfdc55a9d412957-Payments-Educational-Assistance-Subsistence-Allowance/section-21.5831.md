@@ -30,6 +30,6 @@ The commencing date of an award or increased award of subsistence allowance will
 
 (Authority: 10 U.S.C. 2144)
 
-(g) *Correction of military records.* When a veteran becomes eligible following corection or modification of military records under 10 U.S.C. 1552 or change, correction or modification of a discharge or dismissal under 10 U.S.C. 1553; or other competent military authority, the commencing date of subsistence allowance will be in accordance with the facts found, but not earlier than the date the change, correction or modification was made by the service department.
+(g) *Correction of military records.* When a veteran becomes eligible following correction or modification of military records under 10 U.S.C. 1552 or change, correction or modification of a discharge or dismissal under 10 U.S.C. 1553; or other competent military authority, the commencing date of subsistence allowance will be in accordance with the facts found, but not earlier than the date the change, correction or modification was made by the service department.
 
 (Authority: 10 U.S.C. 2142)

@@ -26,7 +26,7 @@
 
 (i) If the notification does not contain all the information required by paragraph (c)(2) of this section, a full disclosure must be submitted within 60 calendar days of the notification, or the Directorate of Defense Trade Controls will not deem the notification to qualify as a voluntary disclosure.
 
-(ii) If the person is unable to provide a full disclosure within the 60 calendar day deadline, an empowered official (see § 120.67 of this subchapter) or a senior officer may request an extension of time in writing. A request for an extension must specify what information required by paragraph (c)(2), of this section could not be immediately provided and the reasons why.
+(ii) If the person is unable to provide a full disclosure within the 60 calendar day deadline, an empowered official (see § 120.67 of this subchapter) or a senior officer may request an extension of time in writing. A request for an extension must specify what information required by paragraph (c)(2) of this section could not be immediately provided and the reasons why.
 
 (iii) Before approving an extension of time to provide the full disclosure, the Directorate of Defense Trade Controls may require the requester to certify in writing that they will provide the full disclosure within a specific time period.
 
@@ -64,4 +64,4 @@
 
 (g) Send voluntary disclosures to the Office of Defense Trade Controls Compliance, Directorate of Defense Trade Controls. Consult the Directorate of Defense Trade Controls Web site at *http://www.pmddtc.state.gov* for the appropriate street address.
 
-[58 FR 39316, July 22, 1993, as amended at 70 FR 34655, June 15, 2005; 71 FR 20550, Apr. 21, 2006; 72 FR 70778, Dec. 13, 2007; 77 FR 16642, Mar. 21, 2012]
+[58 FR 39316, July 22, 1993, as amended at 70 FR 34655, June 15, 2005; 71 FR 20550, Apr. 21, 2006; 72 FR 70778, Dec. 13, 2007; 77 FR 16642, Mar. 21, 2012; 87 FR 16425, Mar. 23, 2022]

@@ -4,6 +4,6 @@
 
 (Authority: 10 U.S.C. 2143)
 
-(b) *Subsistance allowance.* The effective date of a reduction or discontinuance of subsistence allowance will be as specified in § 21.5835. If more than one type of discontinuance is involved, the earliest date will control.
+(b) *Subsistence allowance.* The effective date of a reduction or discontinuance of subsistence allowance will be as specified in § 21.5835. If more than one type of discontinuance is involved, the earliest date will control.
 
 (Authority: 10 U.S.C. 2144)

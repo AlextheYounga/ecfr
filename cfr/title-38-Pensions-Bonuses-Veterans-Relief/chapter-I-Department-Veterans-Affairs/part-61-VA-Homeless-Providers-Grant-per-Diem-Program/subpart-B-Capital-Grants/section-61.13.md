@@ -1,4 +1,4 @@
-##### § 61.13 Capital grant application packages - rating criteria. #####
+##### § 61.13 Capital grant application packages—rating criteria. #####
 
 (a) *General.* Applicants that meet the threshold requirements in § 61.12 will be rated using the selection criteria listed in this section. To be eligible for a capital grant, an applicant must receive at least 750 points (out of a possible 1000) and must receive points under each of the following paragraphs (b), (c), (d), (e), (f), and (g) of this section.
 
@@ -16,7 +16,7 @@
 
 (6) The supportive services that will be provided and by whom to help participants achieve residential stability, increase skill level and/or income, and become involved in making life decisions that will increase self-determination.
 
-(7) The measureable objectives that will be used to determine success of the supportive services.
+(7) The measurable objectives that will be used to determine success of the supportive services.
 
 (8) How the success of the program will be evaluated on an ongoing basis.
 
