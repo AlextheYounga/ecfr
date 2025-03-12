@@ -28,7 +28,7 @@
 
 (d) *Categories of actions for which a project or case file and decision memo are not required.* A supporting record and a decision memo are not required, but at the discretion of the responsible official, may be prepared for the following categories:
 
-(1) Orders issued pursuant to 36 CFR part 261 - Prohibitions to provide short-term resource protection or to protect public health and safety. Examples include but are not limited to:
+(1) Orders issued pursuant to 36 CFR part 261—Prohibitions to provide short-term resource protection or to protect public health and safety. Examples include but are not limited to:
 
 (i) Closing a road to protect bighorn sheep during lambing season, and
 
@@ -112,13 +112,29 @@
 
 (iii) Issuing a new permit under the National Forest Ski Area Permit Act of 1986 to the holder of a permit issued under the Term Permit and Organic Acts, where there are no changes in the type or scope of activities authorized and no other changes in the master development plan.
 
-(10) Amendment to or replacement of an existing special use authorization that involves only administrative changes and does not involve changes in the authorized facilities or increase in the scope or intensity of authorized activities, or extensions to the term of authorization, when the applicant or holder is in full compliance with the terms and conditions of the special use authorization. Examples include, but are not limited to:
+(10) [Reserved]
 
-(i) Amending a special use authorization to reflect administrative changes such as adjustment to the land use fees, inclusion of non-discretionary environmental standards or updating a special use authorization to bring it into conformance with current laws or regulations (for example, new monitoring required by water quality standards), and
+(11) Issuance of a new special use authorization to replace an existing or expired special use authorization, when such issuance is to account only for administrative changes, such as a change in ownership of authorized improvements or expiration of the current authorization, and where there are no changes to the authorized facilities or increases in the scope or magnitude of authorized activities. The applicant or holder must be in compliance with all the terms and conditions of the existing or expired special use authorization. Subject to the foregoing conditions, examples include but are not limited to:
 
-(ii) Issuance of a new special use authorization to reflect administrative changes such as, a change of ownership or control of previously authorized facilities or activities, or conversion of the existing special use authorization to a new type of special use authorization (for example, converting a permit to a lease or easement).
+(i) Issuing a new authorization to replace a powerline facility authorization that is at the end of its term;
 
-(e) *Categories of actions for which a project or case file and decision memo are required.* A supporting record is required and the decision to proceed must be documented in a decision memo for the categories of action in paragraphs (e)(1) through (17) of this section. As a minimum, the project or case file should include any records prepared, such as: The names of interested and affected people, groups, and agencies contacted; the determination that no extraordinary circumstances exist; a copy of the decision memo; and a list of the people notified of the decision. If the proposed action is approval of a land management plan, plan amendment, or plan revision, the plan approval document required by 36 CFR part 219 satisfies the decision memo requirements of this section.
+(ii) Issuing a new permit to replace an expired permit for a road that continues to be used as access to non-NFS lands; and
+
+(iii) Converting a transitional priority use outfitting and guiding permit to a priority use outfitting and guiding permit.
+
+(12) Issuance of a new authorization or amendment of an existing authorization for recreation special uses that occur on existing roads or trails, in existing facilities, in existing recreation sites, or in areas where such activities are allowed. Subject to the foregoing condition, examples include but are not limited to:
+
+(i) Issuance of an outfitting and guiding permit for mountain biking on NFS trails that are not closed to mountain biking;
+
+(ii) Issuance of a permit to host a competitive motorcycle event;
+
+(iii) Issuance of an outfitting and guiding permit for backcountry skiing;
+
+(iv) Issuance of a permit for a one-time use of existing facilities for other recreational events; and
+
+(v) Issuance of a campground concession permit for an existing campground that has previously been operated by the Forest Service.
+
+(e) *Categories of actions for which a project or case file and decision memo are required.* A supporting record is required and the decision to proceed must be documented in a decision memo for the categories of action in paragraphs (e)(1) through (25) of this section. As a minimum, the project or case file should include any records prepared, such as: The names of interested and affected people, groups, and agencies contacted; the determination that no extraordinary circumstances exist; a copy of the decision memo; and a list of the people notified of the decision. If the proposed action is approval of a land management plan, plan amendment, or plan revision, the plan approval document required by 36 CFR part 219 satisfies the decision memo requirements of this section.
 
 (1) Construction and reconstruction of trails. Examples include, but are not limited to:
 
@@ -132,7 +148,7 @@
 
 (ii) Reconstructing a power line by replacing poles and wires.
 
-(3) Approval, modification, or continuation of minor special uses of NFS lands that require less than five contiguous acres of land. Examples include, but are not limited to:
+(3) Approval, modification, or continuation of special uses that require less than 20 acres of NFS lands. Subject to the preceding condition, examples include but are not limited to:
 
 (i) Approving the construction of a meteorological sampling site;
 
@@ -140,15 +156,11 @@
 
 (iii) Approving the construction of temporary facilities for filming of staged or natural events or studies of natural or cultural history;
 
-(iv) Approving the use of land for a 40-foot utility corridor that crosses one mile of a national forest;
+(iv) Approving the use of land for a utility corridor that crosses a national forest;
 
-(v) Approving the installation of a driveway, mailbox, or other facilities incidental to use of a residence;
+(v) Approving the installation of a driveway or other facilities incidental to use of a private residence; and
 
-(vi) Approving an additional telecommunication use at a site already used for such purposes;
-
-(vii) Approving the removal of mineral materials from an existing community pit or common-use area; and
-
-(viii) Approving the continued use of land where such use has not changed since authorized and no change in the physical environment or facilities are proposed.
+(vi) Approving new or additional communication facilities, associated improvements, or communication uses at a site already identified as available for these purposes.
 
 (4) [Reserved]
 
@@ -200,21 +212,7 @@
 
 (iii) Spot seeding native species of grass or applying lime to maintain forage condition.
 
-(10) Hazardous fuels reduction activities using prescribed fire, not to exceed 4,500 acres; and mechanical methods for crushing, piling, thinning, pruning, cutting, chipping, mulching, and mowing, not to exceed 1,000 acres. Such activities:
-
-(i) Shall be limited to areas:
-
-(A) In the wildland-urban interface; or
-
-(B) Condition Classes 2 or 3 in Fire Regime Groups I, II, or III, outside the wildland-urban interface.
-
-(ii) Shall be identified through a collaborative framework as described in “A Collaborative Approach for Reducing Wildland Fire Risks to Communities and Environment 10-Year Comprehensive Strategy Implementation Plan”;
-
-(iii) Shall be conducted consistent with Agency and Departmental procedures and applicable land and resource management plans;
-
-(iv) Shall not be conducted in wilderness areas or impair the suitability of wilderness study areas for preservation as wilderness; and
-
-(v) Shall not include the use of herbicides or pesticides or the construction of new permanent roads or other new permanent infrastructure; and may include the sale of vegetative material if the primary purpose of the activity is hazardous fuels reduction.
+(10) [Reserved]
 
 (11) Post-fire rehabilitation activities, not to exceed 4,200 acres (such as tree planting, fence replacement, habitat restoration, heritage site restoration, repair of roads and trails, and repair of damage to minor facilities such as campgrounds), to repair or improve lands unlikely to recover to a management approved condition from wildland fire damage, or to repair or replace minor facilities damaged by fire. Such activities:
 
@@ -242,7 +240,7 @@
 
 (ii) Removal and/or destruction of infested trees affected by a new exotic insect or disease, such as emerald ash borer, Asian long horned beetle, and sudden oak death pathogen.
 
-(15) Issuance of a new special use authorization for a new term to replace an existing or expired special use authorization when the only changes are administrative, there are not changes to the authorized facilities or increases in the scope or intensity of authorized activities, and the applicant or holder is in full compliance with the terms and conditions of the special use authorization.
+(15) [Reserved]
 
 (16) Land management plans, plan amendments, and plan revisions developed in accordance with 36 CFR part 219 *et seq.* that provide broad guidance and information for project and activity decisionmaking in a NFS unit. Proposals for actions that approve projects and activities, or that command anyone to refrain from undertaking projects and activities, or that grant, withhold or modify contracts, permits or other formal legal instruments, are outside the scope of this category and shall be considered separately under Forest Service NEPA procedures.
 
@@ -274,11 +272,89 @@
 
 (iii) Stabilizing stream banks and associated stabilization structures to reduce erosion through bioengineering techniques following a flood event, including the use of living and nonliving plant materials in combination with natural and synthetic support materials, such as rocks, riprap, geo-textiles, for slope stabilization, erosion reduction, and vegetative establishment and establishment of appropriate plant communities (bank shaping and planting, brush mattresses, log, root wad, and boulder stabilization methods).
 
-(20) Activities that restore, rehabilitate, or stabilize lands occupied by roads and trails, excluding National Forest System Roads and National Forest System Trails, to a more natural condition that may include removing, replacing, or modifying drainage structures and ditches, reestablishing vegetation, reshaping natural contours and slopes, reestablishing drainage-ways, or other activities that would restore site productivity and reduce environmental impacts. Examples include but are not limited to:
+(20) Activities that restore, rehabilitate, or stabilize lands occupied by roads and trails, including unauthorized roads and trails and National Forest System roads and National Forest System trails, to a more natural condition that may include removing, replacing, or modifying drainage structures and ditches, reestablishing vegetation, reshaping natural contours and slopes, reestablishing drainage-ways, or other activities that would restore site productivity and reduce environmental impacts. Examples include but are not limited to:
 
-(i) Decommissioning a road that is no longer a National Forest System Road to a more natural state by restoring natural contours and removing construction fills, loosening compacted soils, revegetating the roadbed and removing ditches and culverts to reestablish natural drainage patterns; (ii) Restoring an unauthorized trail to a natural state by reestablishing natural drainage patterns, stabilizing slopes, reestablishing vegetation, and installing water bars; and
+(i) Decommissioning a road to a more natural state by restoring natural contours and removing construction fills, loosening compacted soils, revegetating the roadbed and removing ditches and culverts to reestablish natural drainage patterns;
 
-(ii) Installing boulders, logs, and berms on an unauthorized road segment to promote naturally regenerated grass, shrub, and tree growth.
+(ii) Restoring a trail to a natural state by reestablishing natural drainage patterns, stabilizing slopes, reestablishing vegetation, and installing water bars; and
+
+(iii) Installing boulders, logs, and berms on a road segment to promote naturally regenerated grass, shrub, and tree growth.
+
+(21) Construction, reconstruction, decommissioning, relocation, or disposal of buildings, infrastructure, or other improvements at an existing administrative site, as that term is defined in section 502(1) of Public Law 109-54 (119 Stat. 559; 16 U.S.C. 580d note). Examples include but are not limited to:
+
+(i) Relocating an administrative facility to another existing administrative site;
+
+(ii) Construction, reconstruction, or expansion of an office, a warehouse, a lab, a greenhouse, or a fire-fighting facility;
+
+(iii) Surface or underground installation or decommissioning of water or waste disposal system infrastructure;
+
+(iv) Disposal of an administrative building; and
+
+(v) Construction or reconstruction of communications infrastructure.
+
+(22) Construction, reconstruction, decommissioning, or disposal of buildings, infrastructure, or improvements at an existing recreation site, including infrastructure or improvements that are adjacent or connected to an existing recreation site and provide access or utilities for that site. Recreation sites include but are not limited to campgrounds and camping areas, picnic areas, day use areas, fishing sites, interpretive sites, visitor centers, trailheads, ski areas, and observation sites. Activities within this category are intended to apply to facilities located at recreation sites managed by the Forest Service and those managed by concessioners under a special use authorization. Examples include but are not limited to:
+
+(i) Constructing, reconstructing, or expanding a toilet or shower facility;
+
+(ii) Constructing or reconstructing a fishing pier, wildlife viewing platform, dock, or other constructed feature at a recreation site;
+
+(iii) Installing or reconstructing a water or waste disposal system;
+
+(iv) Constructing or reconstructing campsites;
+
+(v) Disposal of facilities at a recreation site;
+
+(vi) Constructing or reconstructing a boat landing;
+
+(vii) Replacing a chair lift at a ski area;
+
+(viii) Constructing or reconstructing a parking area or trailhead; and
+
+(ix) Reconstructing or expanding a recreation rental cabin.
+
+(23) Road management activities on up to 8 miles of NFS roads and associated parking areas. Activities under this category cannot include construction or realignment. Examples include but are not limited to:
+
+(i) Rehabilitating an NFS road or parking area where management activities go beyond repair and maintenance;
+
+(ii) Shoulder-widening or other safety improvements within the right-of-way for an NFS road; and
+
+(iii) Replacing a bridge along an NFS road.
+
+(24) Construction and realignment of up to 2 miles of NFS roads and associated parking areas. Examples include but are not limited to:
+
+(i) Constructing an NFS road to improve access to a trailhead or parking area;
+
+(ii) Rerouting an NFS road to minimize resource impacts; and
+
+(iii) Improving or upgrading the surface of an NFS road to expand its capacity.
+
+(25) Forest and grassland management activities with a primary purpose of meeting restoration objectives or increasing resilience. Activities to improve ecosystem health, resilience, and other watershed and habitat conditions may not exceed 2,800 acres.
+
+(i) Activities to meet restoration and resilience objectives may include, but are not limited to:
+
+(A) Stream restoration, aquatic organism passage rehabilitation, or erosion control;
+
+(B) Invasive species control and reestablishment of native species;
+
+(C) Prescribed burning;
+
+(D) Reforestation;
+
+(E) Road and/or trail decommissioning (system and non-system);
+
+(F) Pruning;
+
+(G) Vegetation thinning; and
+
+(H) Timber harvesting.
+
+(ii) The following requirements or limitations apply to this category:
+
+(A) Projects shall be developed or refined through a collaborative process that includes multiple interested persons representing diverse interests;
+
+(B) Vegetation thinning or timber harvesting activities shall be designed to achieve ecological restoration objectives, but shall not include salvage harvesting as defined in Agency policy; and
+
+(C) Construction and reconstruction of permanent roads is limited to 0.5 miles. Construction of temporary roads is limited to 2.5 miles, and all temporary roads shall be decommissioned no later than 3 years after the date the project is completed. Projects may include repair and maintenance of NFS roads and trails to prevent or address resource impacts; repair and maintenance of NFS roads and trails is not subject to the above mileage limits.
 
 (f) *Decision memos.* The responsible official shall notify interested or affected parties of the availability of the decision memo as soon as practical after signing. While sections may be combined or rearranged in the interest of clarity and brevity, decision memos must include the following content:
 
@@ -312,4 +388,4 @@
 
 (8) The responsible official's signature and date when the decision is made.
 
-[73 FR 43093, July 24, 2008, as amended at 78 FR 56163, Sept. 12, 2013]
+[73 FR 43093, July 24, 2008, as amended at 78 FR 56163, Sept. 12, 2013; 85 FR 73631, Nov. 19, 2020]

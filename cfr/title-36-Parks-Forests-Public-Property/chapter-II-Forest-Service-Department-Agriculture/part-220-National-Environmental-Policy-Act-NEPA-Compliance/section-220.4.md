@@ -45,3 +45,25 @@
 (h) *Incorporation by reference.* Material may be incorporated by reference into any environmental or decision document. This material must be reasonably available to the public and its contents briefly described in the environmental or decision document. (40 CFR 1502.21)
 
 (i) *Applicants.* The responsible official shall make policies or staff available to advise potential applicants of studies or other information foreseeably required for acceptance of their applications. Upon acceptance of an application as provided by 36 CFR 251.54(g) the responsible official shall initiate the NEPA process.
+
+(j) *Determination of NEPA Adequacy (DNA).* (1) An existing environmental analysis prepared pursuant to NEPA and the Council on Environmental Quality regulations may be used in its entirety for a new proposed action if the Responsible Official determines that the existing NEPA analysis adequately assesses the environmental effects of the proposed action and reasonable alternatives. The responsible official must determine and document that each of the following elements is met:
+
+(i) The new proposed action is substantially the same as a previously analyzed proposed action or alternative analyzed in detail in the existing NEPA analysis.
+
+(ii) The range of alternatives analyzed in the existing NEPA document(s) is appropriate with respect to the new proposed action.
+
+(iii) Any new information or circumstances relevant to environmental concerns would not substantially change the analysis in an existing NEPA document(s).
+
+(iv) The environmental effects that would result from implementation of the new proposed action are similar to those analyzed in the existing NEPA document(s).
+
+(2) A DNA for a new proposed action shall be included in the project record for the new proposed action. Proposed actions undergoing a DNA review shall:
+
+(i) Be included on the SOPA;
+
+(ii) Be subject to scoping;
+
+(iii) Be subject to pre-decisional administrative review, if applicable; and
+
+(iv) Include issuance of a new decision document (decision memo, decision notice, or record of decision) when approved.
+
+[73 FR 43093, July 24, 2008, as amended at 85 FR 73630, Nov. 19, 2020]

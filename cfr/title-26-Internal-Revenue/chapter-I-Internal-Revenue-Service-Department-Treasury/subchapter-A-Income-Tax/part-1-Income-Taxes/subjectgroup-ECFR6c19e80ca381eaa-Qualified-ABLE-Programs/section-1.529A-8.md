@@ -1,0 +1,13 @@
+##### § 1.529A-8 Applicability dates and transition relief. #####
+
+(a) *Applicability dates.* Except as otherwise provided in paragraph (b) of this section, §§ 1.529A-1 through 1.529A-4 apply for calendar years beginning on or after January 1, 2021, §§ 1.529A-5 and 1.529A-6 apply to information returns required to be filed, and payee statements required to be furnished, after December 31, 2020, and § 1.529A-7 applies to statements required to be furnished after December 31, 2020.
+
+(b) *Transition relief*—(1) *In general.* Any program purporting to be a qualified ABLE program will not be disqualified during the transition period set forth in paragraph (b)(2) of this section (transition period) solely because of noncompliance with one or more provisions of §§ 1.529A-1 through 1.529A-7, provided that the program is established and operated in accordance with a reasonable, good faith interpretation of section 529A. Similarly, no ABLE account established and maintained under a program that meets the requirements of this paragraph will fail to qualify as an ABLE account during the transition period. However, to be a qualified ABLE program and an ABLE account under such a program after the transition period, the program and each account established and maintained under the program must be in compliance with §§ 1.529A-1 through 1.529A-7 by the end of the transition period. In no event, however, will a complete failure to file and furnish reports, information returns and payee statements required under section 529A(d)(1) for any accounts established and maintained under the program (including for calendar years beginning prior to January 1, 2021), be deemed to be due to reasonable cause for purposes of avoiding penalties imposed under section 6693.
+
+(2) *Transition period.* For purposes of paragraph (b)(1) of this section, the transition period begins with the establishment of the program purporting to be a qualified ABLE program and continues through the later of—
+
+(i) November 21, 2022; or
+
+(ii) The day immediately preceding the first day of the qualified ABLE program's first taxable year beginning after the close of the first regular session of the State legislature that begins after November 19, 2020. If a State has a two-year legislative session, each calendar year of such session will be deemed to be a separate regular session of the State legislature for purposes of this paragraph.
+
+(3) *Compliance after transition period.* After the transition period, a program and an account established and maintained under that program must be in compliance with §§ 1.529A-1 through 1.529A-7.

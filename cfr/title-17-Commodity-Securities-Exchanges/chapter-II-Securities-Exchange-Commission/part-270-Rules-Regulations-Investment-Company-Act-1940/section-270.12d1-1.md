@@ -1,5 +1,7 @@
 ##### § 270.12d1-1 Exemptions for investments in money market funds. #####
 
+Link to an amendment published at 85 FR 74005, Nov. 19, 2020.
+
 (a) *Exemptions for acquisition of money market fund shares.* If the conditions of paragraph (b) of this section are satisfied, notwithstanding sections 12(d)(1)(A), 12(d)(1)(B), 17(a), and 57 of the Act (15 U.S.C. 80a-12(d)(1)(A), 80a-12(d)(1)(B), 80a-17(a), and 80a-56), and § 270.17d-1:
 
 (1) An investment company (“acquiring fund”) may purchase and redeem shares issued by a money market fund; and

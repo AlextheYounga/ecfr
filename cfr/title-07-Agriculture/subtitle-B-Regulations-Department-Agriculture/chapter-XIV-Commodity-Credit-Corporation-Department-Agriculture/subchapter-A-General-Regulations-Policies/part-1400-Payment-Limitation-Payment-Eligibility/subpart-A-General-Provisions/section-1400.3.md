@@ -26,31 +26,9 @@
 
 (ii) Acquiring and purchasing crop inputs;
 
-(iii) Managing crops (that is, whatever managerial decisions are needed with respect to keeping the growing crops living and healthy - soil fertility and fertilization, weed control, insect control, irrigation if applicable) and making harvest decisions; and
+(iii) Managing crops (that is, whatever managerial decisions are needed with respect to keeping the growing crops living and healthy—soil fertility and fertilization, weed control, insect control, irrigation if applicable) and making harvest decisions; and
 
 (iv) Pricing and marketing of crop production.
-
-*Active personal management* means personally providing and participating in:
-
-(1) The general supervision and direction of activities and labor involved in the farming operation; or
-
-(2) Services (whether performed on-site or off-site) reasonably related and necessary to the farming operation, including:
-
-(i) Supervision of activities necessary in the farming operation, including activities involved in land preparation, planting, cultivating, harvesting, and marketing of agricultural commodities, as well as activities required to establish and maintain conserving cover crops on CRP acreage and activities required in livestock operations;
-
-(ii) Business-related actions, which include discretionary decision making;
-
-(iii) Evaluation of the financial condition and needs of the farming operation;
-
-(iv) Assistance in the structuring or preparation of financial reports or analyses for the farming operation;
-
-(v) Consultations in or structuring of business-related financing arrangements for the farming operation;
-
-(vi) Marketing and promotion of agricultural commodities produced by the farming operation;
-
-(vii) Acquiring technical information used in the farming operation; and
-
-(viii) Any other management function reasonably necessary to conduct the farming operation and for which service the farming operation would ordinarily be charged a fee.
 
 *Administrator* means the Administrator of the Farm Service Agency including any designee of the Administrator.
 
@@ -140,66 +118,29 @@
 
 *Secretary* means the Secretary of the United States Department of Agriculture.
 
-*Sharecropper* means a person who performs work in connection with the production of the crop under the supervision of the operator and who receives a share of the crop in return for.work
+*Sharecropper* means a person who performs work in connection with the production of the crop under the supervision of the operator and who receives a share of the crop in return for work.
 
 *Significant contribution* means the provision of the following to a farming operation:
 
-(1) Land, capital, or equipment:
+(i)(A) For land, capital, or equipment contributed independently by a person or legal entity, a contribution that has a value at least equal to 50 percent of the person's or legal entity's commensurate share of the total:
 
-(i) For land, capital, or equipment contributed independently by a person or legal entity, a contribution that has a value at least equal to 50 percent of the person's or legal entity's commensurate share of the total:
+(*1*) Value of the capital necessary to conduct the farming operation;
 
-(A) Value of the capital necessary to conduct the farming operation;
+(*2*) Rental value of the land necessary to conduct the farming operation; or
 
-(B) Rental value of the land necessary to conduct the farming operation; or
+(*3*) Rental value of the equipment necessary to conduct the farming operation; or
 
-(C) Rental value of the equipment necessary to conduct the farming operation; or
+(B) If the contribution by a person or legal entity consists of any combination of land, capital, and equipment, such combined contribution must have a value at least equal to 30 percent of the person's or legal entity's commensurate share of the total value of the farming operation;
 
-(ii) If the contribution by a person or legal entity consists of any combination of land, capital, and equipment, the combined contribution must have a value at least equal to 30 percent of the person's or legal entity's commensurate share of the total value of the farming operation.
+(ii) For active personal labor, an amount contributed by a person to the farming operation that is described by the smaller of the following:
 
-(2) For active personal labor, an amount contributed by a person or members, stockholders, or partners of a legal entity to the farming operation that is described by the smaller of the following:
+(A) 1,000 hours per calendar year; or
 
-(i) 1,000 hours per calendar year; or
+(B) 50 percent of the total hours that would be necessary to conduct a farming operation that is comparable in size to such person's or legal entity's commensurate share in the farming operation;
 
-(ii) 50 percent of the total hours that would be necessary to conduct a farming operation that is comparable in size to the person's or legal entity's commensurate share in the farming operation.
+(iii) With respect to active personal management, activities that are critical to the profitability of the farming operation, taking into consideration the person's or legal entity's commensurate share in the farming operation; and
 
-(3) For active personal management, includes activities performed by a person, with a direct or indirect ownership interest in the farming operation or a legal entity, on a regular, continuous, and substantial basis to the farming operation and meets at least one of the following to be considered significant:
-
-(i) Performs at least 25 percent of the total management hours required for the farming operation on an annual basis; or
-
-(ii) Performs at least 500 hours of management annually for the farming operation.
-
-(4) With respect to a combination of active personal labor and active personal management, when neither contribution by itself meets the requirement of paragraphs (2) and (3) of this definition, a combination of active personal labor and active personal management that, when made together:
-
-(i) Is critical to the profitability of the farming operation;
-
-(ii) Is performed on a regular, continuous, and substantial basis; and
-
-(iii) Meets the following required number of hours:
-
-Table 1 to Paragraph (4)(iii) of the Definition of Significant Contribution
-
-|Combination of active personal labor and active personal management minimum requirement for a significant contribution|                           |                                                                  |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------------------------------|
-|                                           Management contribution in hours                                           |Labor contribution in hours|Meets the minimum threshold for significant contribution, in hours|
-|                                                         475                                                          |            75             |                               550                                |
-|                                                         450                                                          |            100            |                               550                                |
-|                                                         425                                                          |            225            |                               650                                |
-|                                                         400                                                          |            250            |                               650                                |
-|                                                         375                                                          |            375            |                               750                                |
-|                                                         350                                                          |            400            |                               750                                |
-|                                                         325                                                          |            425            |                               750                                |
-|                                                         300                                                          |            550            |                               850                                |
-|                                                         275                                                          |            575            |                               850                                |
-|                                                         250                                                          |            600            |                               850                                |
-|                                                         225                                                          |            625            |                               850                                |
-|                                                         200                                                          |            650            |                               850                                |
-|                                                         175                                                          |            675            |                               850                                |
-|                                                         150                                                          |            800            |                               950                                |
-|                                                         125                                                          |            825            |                               950                                |
-|                                                         100                                                          |            850            |                               950                                |
-|                                                          75                                                          |            875            |                               950                                |
-|                                                          50                                                          |            900            |                               950                                |
-|                                                          25                                                          |            925            |                               950                                |
+(iv) With respect to a combination of active personal labor and active personal management, when neither contribution by itself meets the requirement of paragraphs (ii) and (iii) of this definition, a combination of active personal labor and active personal management that, when made together, results in a critical impact on the profitability of the farming operation in an amount at least equal to either the significant contribution of active personal labor or active personal management as defined in paragraphs (ii) and (iii) of this definition.
 
 *Substantial amount of active personal labor* means the provision of active personal labor to a farming operation in an amount described by the smaller of the following:
 
@@ -209,4 +150,4 @@ Table 1 to Paragraph (4)(iii) of the Definition of Significant Contribution
 
 *Total value of the farming operation* means the total of the costs, excluding the value of active personal labor and active personal management contributed by a person who is a member of the farming operation, needed to carry out the farming operation for the year for which the determination is made.
 
-[73 FR 79273, Dec. 29, 2008, as amended at 79 FR 21097, Apr. 14, 2014; 85 FR 52037, Aug. 24, 2020]
+[73 FR 79273, Dec. 29, 2008, as amended at 79 FR 21097, Apr. 14, 2014; 85 FR 52037, Aug. 24, 2020; 85 FR 73602, Nov. 19, 2020]

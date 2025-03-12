@@ -18,7 +18,9 @@
 
 (b) The prohibited transactions enumerated in section 503(b) are in addition to and not in limitation of the restrictions contained in section 501(c) (3), (17), or (18) or section 401(a). Even though an organization has not engaged in any of the prohibited transactions referred to in section 503(b), it still may not qualify for tax exemptions in view of the general provisions of section 501(c) (3), (17), or (18) or section 401(a). Thus, if a trustee or other fiduciary of the organization (whether or not he is also a creater or such organization) enters into a transaction with the organization, such transaction will be closely scrutinized in the light of the fiduciary principle requiring undivided loyalty to ascertain whether the organization is in fact being operated for the stated exempt purpose.
 
-(c) An organization - (1) Described in section 501(c)(3) which after July 1, 1950, but before January 1, 1970, has engaged in any prohibited transaction as defined in section 503(b), unless it is excepted by the provisions of paragraph (a)(1) of this section;
+(c) An organization—
+
+(1) Described in section 501(c)(3) which after July 1, 1950, but before January 1, 1970, has engaged in any prohibited transaction as defined in section 503(b), unless it is excepted by the provisions of paragraph (a)(1) of this section;
 
 (2) Described in section 401(a) and referred to in section 4975(g) (2) or (3) which after March 1, 1954, has engaged in any prohibited transaction as defined in section 503(b);
 
