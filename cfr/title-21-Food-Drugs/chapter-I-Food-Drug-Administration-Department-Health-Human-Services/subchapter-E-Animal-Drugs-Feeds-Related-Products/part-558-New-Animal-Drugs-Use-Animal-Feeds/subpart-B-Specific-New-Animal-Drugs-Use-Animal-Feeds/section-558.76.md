@@ -12,23 +12,24 @@
 
 (c) *Related tolerances.* See § 556.70 of this chapter.
 
-(d) *Conditions of use* - (1) *Chickens* -
+(d) *Conditions of use*—(1) *Chickens*—
 
 |Bacitracin in  <br/>grams per ton|                                                                           Indications for use                                                                            |                                                                                                                          Limitations                                                                                                                          |      Sponsor      |
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 |           (i) 4 to 50           |                                     Broiler and replacement chickens: For increased rate of weight gain and improved feed efficiency                                     |                                                                                                               Feed continuously as sole ration                                                                                                                |054771  <br/>069254|
 |          (ii) 10 to 25          |                                                  Laying hens: For increased egg production and improved feed efficiency                                                  |                                                                                           Feed continuously as sole ration for the first 7 months of egg production                                                                                           |      054771       |
 |            (iii) 50             |Broiler and replacement chickens: As an aid in the prevention of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin|                                                                                                               Feed continuously as sole ration                                                                                                                |      054771       |
-|         (iv) 100 to 200         | Broiler and replacement chickens: As an aid in the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin  |Feed continuously as sole ration. Start at first clinical signs of disease. Vary dosage based on severity of infection. Administer continuously for 5 to 7 days or as long as clinical signs persist, then reduce medication to prevention level (50 grams/ton)|      054771       |
+|             (iv) 50             |                  Broiler and replacement chickens: For the prevention of mortality caused by necrotic enteritis associated with Clostridium perfringens                  |                                                                               Feed as the sole ration for 28 to 35 days, starting from the time chicks are placed for brooding                                                                                |      069254       |
+|         (v) 100 to 200          | Broiler and replacement chickens: As an aid in the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin  |Feed continuously as sole ration. Start at first clinical signs of disease. Vary dosage based on severity of infection. Administer continuously for 5 to 7 days or as long as clinical signs persist, then reduce medication to prevention level (50 grams/ton)|      054771       |
 
-(2) *Turkeys* -
+(2) *Turkeys*—
 
 |Bacitracin in  <br/>grams per ton|                                                             Indications for use                                                             |            Limitations             |      Sponsor      |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------------|
 |           (i) 4 to 50           |                               Growing turkeys: For increased rate of weight gain and improved feed efficiency                               |  Feed continuously as sole ration  |054771  <br/>069254|
 |            (ii) 200             |Growing turkeys: As an aid in the control of transmissible enteritis complicated by organisms susceptible to bacitracin methylenedisalicylate|Feed continuously as the sole ration|      054771       |
 
-(3) *Swine* -
+(3) *Swine*—
 
 |Bacitracin in  <br/>grams per ton|                                                                  Indications for use                                                                   |                                                                                                                                                     Limitations                                                                                                                                                     |Sponsor|
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -36,14 +37,14 @@
 |            (ii) 250             |Growing and finishing swine: For control of swine dysentery (bloody scours) associated with Brachyspira hyodysenteriae in pigs up to 250 lbs body weight|Feed as the sole ration. Feed 250 grams per ton of complete feed on premises with a history of swine dysentery, but where signs of the disease have not yet occurred or following an approved treatment of the disease condition. Diagnosis should be confirmed by a veterinarian a when results are not satisfactory|054771 |
 |            (iii) 250            |                       Pregnant sows: For control of clostridial enteritis caused by Clostridium perfringens in suckling piglets                        |                                              As the sole ration. Feed to sows from 14 days before through 21 days after farrowing on premises with a history of clostridial scours. Diagnosis should be confirmed by a veterinarian when results are not satisfactory                                               |054771 |
 
-(4) *Cattle* -
+(4) *Cattle*—
 
 |  Bacitracin  <br/>amount   |                                                     Indications for use                                                     |                                                      Limitations                                                       |      Sponsor      |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------|
 | (i) 70 mg per head per day |Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses|                                 Administer continuously throughout the feeding period                                  |054771  <br/>069254|
 |(ii) 250 mg per head per day|Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses|Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period|054771  <br/>069254|
 
-(5) *Game birds* -
+(5) *Game birds*—
 
 |Bacitracin in  <br/>grams per ton|                                                                 Indications for use                                                                 |                           Limitations                           |      Sponsor      |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
@@ -89,4 +90,4 @@
 
 (xviii) Zoalene as in § 558.680.
 
-[41 FR 10993, Mar. 15, 1976]Editorial Notes1. For Federal Register citations affecting § 558.76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[41 FR 10993, Mar. 15, 1976]Editorial NoteFor Federal Register citations affecting § 558.76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

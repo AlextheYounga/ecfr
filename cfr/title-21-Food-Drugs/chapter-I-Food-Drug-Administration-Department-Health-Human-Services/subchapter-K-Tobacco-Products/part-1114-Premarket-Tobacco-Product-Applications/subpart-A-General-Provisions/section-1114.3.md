@@ -108,7 +108,7 @@ For purposes of this part:
 
 *Submission tracking number* or *STN* means the number that FDA assigns to submissions that are received from an applicant, such as a PMTA and a supplemental PMTA.
 
-*Tobacco product* means any product made or derived from tobacco that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product). The term “tobacco product” does not mean an article that under the Federal Food, Drug, and Cosmetic Act is a drug (section 201(g)(1)), a device (section 201(h)), or a combination product (section 503(g)).
+*Tobacco product* means any product made or derived from tobacco, or containing nicotine from any source, that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product). The term “tobacco product” does not mean an article that under the Federal Food, Drug, and Cosmetic Act is: a drug (section 201(g)(1)); a device (section 201(h)); a combination product (section 503(g)); or a food (section 201(f)) if such article contains no nicotine or no more than trace amounts of naturally occurring nicotine.
 
 *Tobacco product manufacturer* means any person, including a repacker or relabeler, who:
 
@@ -125,3 +125,5 @@ For purposes of this part:
 (3) The results of nonclinical investigations.
 
 *Vulnerable populations* means groups that are susceptible to tobacco product risk and harm due to disproportionate rates of tobacco product initiation, use, burden of tobacco-related diseases, or decreased cessation. Vulnerable populations can include, but are not limited to, youth and young adults, those with lower socioeconomic status, certain races or ethnicities, sexual or gender minorities, underserved rural populations, those pregnant or trying to become pregnant, those in the military or veterans, and those with mental health conditions or substance use disorders.
+
+[86 FR 55412, Oct. 4, 2021, as amended at 88 FR 16553, Mar. 20, 2023]

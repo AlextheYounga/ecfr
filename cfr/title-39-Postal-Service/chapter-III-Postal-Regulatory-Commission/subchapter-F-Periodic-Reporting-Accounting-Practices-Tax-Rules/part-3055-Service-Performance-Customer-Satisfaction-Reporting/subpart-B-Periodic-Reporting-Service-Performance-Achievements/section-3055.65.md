@@ -1,20 +1,16 @@
 ##### § 3055.65 Special Services. #####
 
-Link to an amendment published at 88 FR 10042, Feb. 16, 2023.
-
 (a) For each product within the Special Services group, report the percentage of time (rounded to one decimal place) that each product meets or exceeds its service standard, provided at the National level.
 
 (b) *Additional reporting for Ancillary Services.* For the Certified Mail, electronic Return Receipt, Delivery Confirmation, Insurance, and an aggregation of all other services within the Ancillary Services product, individually report the percentage of time (rounded to one decimal place) that each service meets or exceeds its service standard. For green card Return Receipt report:
 
-(1) The number of EXFC seed mailpieces sent;
+(1) The percentage of green cards properly completed and returned;
 
-(2) The percentage of green cards properly completed and returned;
+(2) The percentage of green cards not properly completed, but returned;
 
-(3) The percentage of green cards not properly completed, but returned;
+(3) The percentage of mailpieces returned without a green card signature; and
 
-(4) The percentage of mailpieces returned without a green card signature; and
-
-(5) The percentage of the time the service meets or exceeds its overall service standard.
+(4) The percentage of the time the service meets or exceeds its overall service standard.
 
 (c) *Additional reporting for Post Office Box Service.* For Post Office Box Service, report the percentage of time (rounded to one decimal place) that the product meets or exceeds its service standard, provided at the District and Postal Administrative Area levels.
 
@@ -24,4 +20,4 @@ Link to an amendment published at 88 FR 10042, Feb. 16, 2023.
 
 (2) The service variance (as a percentage rounded to one decimal place) for orders fulfilled within +1 day, +2 days, and +3 days of their applicable service standard, disaggregated by customer order entry method.
 
-[75 FR 38742, July 6, 2010, as amended at 76 FR 70656, Nov. 15, 2011]
+[75 FR 38742, July 6, 2010, as amended at 76 FR 70656, Nov. 15, 2011; 88 FR 10042, Feb. 16, 2023]

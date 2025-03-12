@@ -1,0 +1,3 @@
+##### § 2500.056 Civil rights. #####
+
+Awardees must comply with the civil rights requirements of 7 CFR part 15, subpart A—USDA implementation of Title VI of the Civil Rights Act of 1964, as amended. In accordance, no person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity for which the recipient receives Federal financial assistance and will immediately take any measures necessary to effectuate this agreement.

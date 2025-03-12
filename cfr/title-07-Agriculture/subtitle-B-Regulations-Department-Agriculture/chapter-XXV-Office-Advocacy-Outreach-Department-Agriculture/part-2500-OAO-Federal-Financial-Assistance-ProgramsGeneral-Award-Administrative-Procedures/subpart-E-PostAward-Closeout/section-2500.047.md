@@ -1,0 +1,3 @@
+##### § 2500.047 Project meetings. #####
+
+In addition to reviewing and monitoring the status of progress and final technical reports and financial reports, OAO Project Officers may use regular and periodic conference calls to monitor the awardee's performance as well as conferences, workshops, meetings, and symposia to not only monitor the awards, but to facilitate communication and the sharing of project results. These opportunities also serve to eliminate or minimize OAO funding of unneeded duplicative project activities. Required attendance at these conference calls, conferences, workshops, meetings, and symposia will be identified in the RFP or award document.

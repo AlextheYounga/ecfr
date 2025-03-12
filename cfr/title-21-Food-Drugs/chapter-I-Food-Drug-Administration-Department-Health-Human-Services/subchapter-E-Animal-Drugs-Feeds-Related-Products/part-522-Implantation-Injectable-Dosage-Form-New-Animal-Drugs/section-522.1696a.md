@@ -12,7 +12,7 @@
 
 (c) *Related tolerances.* See § 556.510 of this chapter.
 
-(d) *Conditions of use* - (1) *Horses, dogs, and beef cattle* - (i) *Amount* - (A) *Beef cattle.* 2 milliliters per 150 pounds of body weight intramuscularly or subcutaneously. Repeat dosage in 48 hours.
+(d) *Conditions of use*—(1) *Horses, dogs, and beef cattle*—(i) *Amount*—(A) *Beef cattle.* 2 milliliters per 150 pounds of body weight intramuscularly or subcutaneously. Repeat dosage in 48 hours.
 
 (B) *Horses.* 2 milliliters per 150 pounds of body weight intramuscularly. Repeat dosage in 48 hours.
 
@@ -22,12 +22,12 @@
 
 (iii) *Limitations.* Not for use in beef cattle within 30 days of slaughter. Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) *Beef cattle* - (i) *Amount.* 2 milliliters per 150 pounds of body weight subcutaneously. Repeat dosage in 48 hours.
+(2) *Beef cattle*—(i) *Amount.* 2 milliliters per 150 pounds of body weight subcutaneously. Repeat dosage in 48 hours.
 
 (ii) *Indications for use.* (A) Treatment of bacterial pneumonia (*Streptococcus* spp., *Actinomyces pyogenes*, *Staphylococcus aureus*); upper respiratory infections such as rhinitis or pharyngitis (*A. pyogenes*); blackleg (*Clostridium chauvoei*).
 
 (B) As in paragraph (d)(2)(ii)(A) of this section; and prophylaxis of bovine shipping fever in 300- to 500-pound beef calves.
 
-(iii) *Limitations.* Not for use within 30 days of slaughter. For No. 016592: A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
+(iii) *Limitations.* Not for use within 30 days of slaughter. For No. 016592: A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal. For No. 016592: Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[66 FR 711, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 70 FR 21947, Apr. 28, 2005; 70 FR 50182, Aug. 26, 2005; 73 FR 16754, Mar. 31, 2008; 75 FR 54017, Sept. 3, 2010; 77 FR 4897, Feb. 1, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 86 FR 14820, Mar. 19, 2021; 86 FR 57997, Oct. 20, 2021]
+[66 FR 711, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 70 FR 21947, Apr. 28, 2005; 70 FR 50182, Aug. 26, 2005; 73 FR 16754, Mar. 31, 2008; 75 FR 54017, Sept. 3, 2010; 77 FR 4897, Feb. 1, 2012; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 88 FR 16548, Mar. 20, 2023]

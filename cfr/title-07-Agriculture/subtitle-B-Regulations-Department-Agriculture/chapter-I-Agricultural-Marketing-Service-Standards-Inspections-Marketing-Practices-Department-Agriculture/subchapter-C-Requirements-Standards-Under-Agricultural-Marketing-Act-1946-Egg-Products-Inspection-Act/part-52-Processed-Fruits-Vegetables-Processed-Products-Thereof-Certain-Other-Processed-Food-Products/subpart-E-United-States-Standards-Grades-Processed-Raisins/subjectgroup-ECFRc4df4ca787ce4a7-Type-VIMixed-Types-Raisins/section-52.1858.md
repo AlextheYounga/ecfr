@@ -1,0 +1,3 @@
+##### § 52.1858 Grades of mixed types or varieties of raisins. #####
+
+The grade of a lot of mixed types of processed raisins shall be the lower (or lowest) grade of any varietal type in the mixture based on the respective requirements for each type, except for moisture, in accordance with this subpart. Mixed types of processed raisins of U.S. Grade A, U.S. Grade B, or U.S. Grade C may contain not more than 18 percent, by weight, of moisture. Mixed types of processed raisins that as a mixture exceed 18 percent, by weight, of moisture are “Substandard.”

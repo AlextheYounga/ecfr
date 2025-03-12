@@ -1,0 +1,13 @@
+##### § 1956.85 Payments and receipts. #####
+
+(a) *Servicing office handling.* (1) An application with which the debtor offers a lump-sum payment in compromise, or with which the debtor offers an initial payment on an adjustment offer, will be accompanied by the payments required at the time such application is filed in the servicing office.
+
+(2) [Reserved]
+
+(3) Checks or check transmittal letter containing restrictive notations such as “Settlement in full” or “Payment in full,” or in those exceptional instances when the debtor refuses to sign the Form FmHA or its successor agency under Public Law 103-354 1956-1 in connection with a compromise offer, will be forwarded to the State Office where they will be retained until approval or rejection of the offer. The use of restrictive notations will be discouraged to the fullest extent possible.
+
+(b) *Finance Office handling.* (1) All payments evidenced by Form FmHA or its successor agency under Public Law 103-354 451-2, “Schedule of Remittances,” bearing the legend “Compromise Offer—FmHA or its successor agency under Public Law 103-354” or “Adjustment Offer—FmHA or its successor agency under Public Law 103-354,” will be held in the Deposits Fund Account by the Finance Office until notification is received from the State Office of the approval or rejection of the offer. In cases of approved offers, remittances will be applied in accordance with established policies, beginning with the oldest loan included in the settlement, except that when the request for settlement includes loans made from different revolving funds the Finance Office will prorate the amount received, on the basis of the total principal balance due the respective revolving funds. Upon notification of a rejection of a debtor's offer and receipt of a request from the State Director for a refund, the Finance Office will refund to the debtor, in care of the employee in charge of the account, the amount held in the Deposits Fund Account representing a rejected compromise or adjustment offer.
+
+(2) When a debtor's adjustment offer is approved, the accounts involved will not be adjusted in the records of the Finance Office until all payments have been made. Form FmHA or its successor agency under Public Law 103-354 1956-1 will be held in a suspense file pending payment of the full amount of the approved offer. The original Form FmHA or its successor agency under Public Law 103-354 1956-1 in approved cases will be retained in the Finance Office.
+
+[56 FR 10147, Mar. 11, 1991, as amended at 58 FR 21345, Apr. 21, 1993; 68 FR 61332, Oct. 28, 2003; 69 FR 69106, Nov. 26, 2004]

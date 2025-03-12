@@ -1,5 +1,7 @@
 ##### § 502.602 Definitions. #####
 
+Link to an amendment published at 88 FR 16574, Mar. 20, 2023.
+
 For the purposes of this subpart:
 
 (a) *Assessment* means the imposition of a civil penalty by order of the Commission after a formal docketed proceeding.

@@ -1,0 +1,13 @@
+##### § 250.68 Nutrition Services Incentive Program (NSIP). #####
+
+(a) *Distribution of donated foods in NSIP.* The Department provides donated foods in NSIP to State Units on Aging and their selected elderly nutrition projects for use in providing meals to elderly persons. NSIP is administered at the Federal level by DHHS' Administration for Community Living (ACL), which provides an NSIP grant each year to State Units on Aging. The State agencies may choose to receive all, or part, of the grant as donated foods, on behalf of its elderly nutrition projects. The Department is responsible for the purchase of the donated foods and their delivery to State Units on Aging. ACL is responsible for transferring funds to the Department for the cost of donated food purchases and for expenses related to such purchases.
+
+(b) *Types and quantities of donated foods distributed.* Each State Unit on Aging, and its elderly nutrition projects, may receive any types of donated foods available in food distribution or child nutrition programs, to the extent that such foods may be distributed cost-effectively. Each State Unit on Aging may receive donated foods with a value equal to its NSIP grant. Each State Unit on Aging and elderly nutrition project may also receive donated foods under Section 32, Section 416, and Section 709, as available, and under Section 14 (42 U.S.C. 1762(a)).
+
+(c) *Role of distributing agency.* The Department delivers NSIP donated foods to distributing agencies, which distribute them to elderly nutrition projects selected by each State Unit on Aging. The distributing agency may only distribute donated foods to elderly nutrition projects with which they have signed agreements. The agreements must contain provisions that describe the roles of each party in ensuring that the desired donated foods are ordered, stored, and distributed in an effective manner.
+
+(d) *Donated food values used in crediting a State Unit on Aging's NSIP grant.* FNS uses the average price (cost per pound) for USDA purchases of a donated food made in a contract period in crediting a State Unit on Aging's NSIP grant.
+
+(e) *Coordination between FNS and ACL.* FNS and ACL coordinate their respective roles in NSIP through the execution of annual agreements. The agreement ensures that ACL transfers funds to FNS sufficient to purchase the donated foods requested by State Units on Aging, and to meet expenses related to such purchases. The agreement also authorizes FNS to carry over any such funds that are not used in the current fiscal year to make purchases of donated foods for the appropriate State Units on Aging in the following fiscal year.
+
+[81 FR 23113, Apr. 19, 2016]

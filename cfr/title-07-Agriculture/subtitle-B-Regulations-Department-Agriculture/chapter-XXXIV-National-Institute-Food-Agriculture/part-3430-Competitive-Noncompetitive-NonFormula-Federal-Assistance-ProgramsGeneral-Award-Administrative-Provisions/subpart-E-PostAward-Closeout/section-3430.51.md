@@ -1,0 +1,5 @@
+##### § 3430.51 Payment. #####
+
+(a) *General.* All payments will be made in advance unless a deviation is accepted (see § 3430.3) or as specified in paragraph (b) of this section. All payments to the awardee shall be made via the U.S. Department of Health and Human Services' Payment Management System (DHHS-PMS), U.S. Department of the Treasury's Automated Standard Application for Payments (ASAP) system, or another electronic funds transfer (EFT) method, except for awards to other Federal agencies. Awardees are expected to request funds via DHHS-PMS, ASAP, or other electronic payment system for reimbursement basis in a timely manner.
+
+(b) *Reimbursement method.* NIFA shall use the reimbursement method if it determines that advance payment is not feasible and that the awardee does not maintain or demonstrate the willingness to maintain written procedures that minimize the time elapsing between the transfer of funds and disbursement by the awardee, and financial management systems that meet the standards for fund control and accountability.

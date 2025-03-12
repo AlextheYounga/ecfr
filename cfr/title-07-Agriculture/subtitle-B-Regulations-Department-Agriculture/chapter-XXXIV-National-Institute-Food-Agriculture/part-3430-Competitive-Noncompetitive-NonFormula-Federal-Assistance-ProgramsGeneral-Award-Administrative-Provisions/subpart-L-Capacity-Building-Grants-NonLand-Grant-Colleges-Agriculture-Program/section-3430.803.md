@@ -1,0 +1,5 @@
+##### § 3430.803 Eligibility. #####
+
+(a) *Institution eligibility.* Applications may only be submitted by a NLGCA institution. For the purposes of this program, the individual branches of a State college or university that are separately accredited as degree-granting institutions are treated as separate institutions, and are therefore eligible to apply for NLGCA Program awards. Separate branches or campuses of a college or university that are not individually accredited as degree-granting institutions are not treated as separate institutions, and are therefore not eligible to submit an application. Accreditation must be conferred by an agency or association recognized by the Secretary of the U.S. Department of Education.
+
+(b) *Teacher or student eligibility.* A teacher or student recipient receiving Federal funds from this grants program must be an *eligible participant.* Where eligibility is claimed under 8 U.S.C. 1101(a)(22), documentary evidence from the Immigration and Naturalization Service as to such eligibility must be made available to NIFA upon request.

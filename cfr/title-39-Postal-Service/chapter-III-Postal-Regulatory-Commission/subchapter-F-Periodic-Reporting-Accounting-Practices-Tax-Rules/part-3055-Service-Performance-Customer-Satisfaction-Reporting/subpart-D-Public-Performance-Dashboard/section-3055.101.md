@@ -1,0 +1,3 @@
+##### § 3055.101 Public Performance Dashboard. #####
+
+The Postal Service shall develop and maintain a publicly available website with an interactive web-tool that provides performance information for Market Dominant products. This website shall be updated on a weekly basis, no later than one month from the date of data collection. The website shall include, at a minimum, the reporting requirements specified in § 3055.102 and adhere to the formatting requirements specified in § 3055.103.

@@ -1,85 +1,93 @@
 ##### § 328.3 Definitions. #####
 
-Link to an amendment published at 88 FR 3142, Jan. 18, 2023.
-
 For the purpose of this regulation these terms are defined as follows:
 
-(a) *Jurisdictional waters.* For purposes of the Clean Water Act, 33 U.S.C. 1251 *et seq.* and its implementing regulations, subject to the exclusions in paragraph (b) of this section, the term “waters of the United States” means:
+(a) *Waters of the United States* means:
 
-(1) The territorial seas, and waters which are currently used, or were used in the past, or may be susceptible to use in interstate or foreign commerce, including waters which are subject to the ebb and flow of the tide;
+(1) Waters which are:
 
-(2) Tributaries;
+(i) Currently used, or were used in the past, or may be susceptible to use in interstate or foreign commerce, including all waters which are subject to the ebb and flow of the tide;
 
-(3) Lakes and ponds, and impoundments of jurisdictional waters; and
+(ii) The territorial seas; or
 
-(4) Adjacent wetlands.
+(iii) Interstate waters, including interstate wetlands;
 
-(b) *Non-jurisdictional waters.* The following are not “waters of the United States”:
+(2) Impoundments of waters otherwise defined as waters of the United States under this definition, other than impoundments of waters identified under paragraph (a)(5) of this section;
 
-(1) Waters or water features that are not identified in paragraph (a)(1), (2), (3), or (4) of this section;
+(3) Tributaries of waters identified in paragraph (a)(1) or (2) of this section:
 
-(2) Groundwater, including groundwater drained through subsurface drainage systems;
+(i) That are relatively permanent, standing or continuously flowing bodies of water; or
 
-(3) Ephemeral features, including ephemeral streams, swales, gullies, rills, and pools;
+(ii) That either alone or in combination with similarly situated waters in the region, significantly affect the chemical, physical, or biological integrity of waters identified in paragraph (a)(1) of this section;
 
-(4) Diffuse stormwater run-off and directional sheet flow over upland;
+(4) Wetlands adjacent to the following waters:
 
-(5) Ditches that are not waters identified in paragraph (a)(1) or (2) of this section, and those portions of ditches constructed in waters identified in paragraph (a)(4) of this section that do not satisfy the conditions of paragraph (c)(1) of this section;
+(i) Waters identified in paragraph (a)(1) of this section; or
 
-(6) Prior converted cropland;
+(ii) Relatively permanent, standing or continuously flowing bodies of water identified in paragraph (a)(2) or (a)(3)(i) of this section and with a continuous surface connection to those waters; or
 
-(7) Artificially irrigated areas, including fields flooded for agricultural production, that would revert to upland should application of irrigation water to that area cease;
+(iii) Waters identified in paragraph (a)(2) or (3) of this section when the wetlands either alone or in combination with similarly situated waters in the region, significantly affect the chemical, physical, or biological integrity of waters identified in paragraph (a)(1) of this section;
 
-(8) Artificial lakes and ponds, including water storage reservoirs and farm, irrigation, stock watering, and log cleaning ponds, constructed or excavated in upland or in non-jurisdictional waters, so long as those artificial lakes and ponds are not impoundments of jurisdictional waters that meet the conditions of paragraph (c)(6) of this section;
+(5) Intrastate lakes and ponds, streams, or wetlands not identified in paragraphs (a)(1) through (4) of this section:
 
-(9) Water-filled depressions constructed or excavated in upland or in non-jurisdictional waters incidental to mining or construction activity, and pits excavated in upland or in non-jurisdictional waters for the purpose of obtaining fill, sand, or gravel;
+(i) That are relatively permanent, standing or continuously flowing bodies of water with a continuous surface connection to the waters identified in paragraph (a)(1) or (a)(3)(i) of this section; or
 
-(10) Stormwater control features constructed or excavated in upland or in non-jurisdictional waters to convey, treat, infiltrate, or store stormwater run-off;
+(ii) That either alone or in combination with similarly situated waters in the region, significantly affect the chemical, physical, or biological integrity of waters identified in paragraph (a)(1) of this section.
 
-(11) Groundwater recharge, water reuse, and wastewater recycling structures, including detention, retention, and infiltration basins and ponds, constructed or excavated in upland or in non-jurisdictional waters; and
+(b) The following are not “waters of the United States” even where they otherwise meet the terms of paragraphs (a)(2) through (5) of this section:
 
-(12) Waste treatment systems.
+(1) Waste treatment systems, including treatment ponds or lagoons, designed to meet the requirements of the Clean Water Act;
 
-(c) *Definitions.* In this section, the following definitions apply:
+(2) Prior converted cropland designated by the Secretary of Agriculture. The exclusion would cease upon a change of use, which means that the area is no longer available for the production of agricultural commodities. Notwithstanding the determination of an area's status as prior converted cropland by any other Federal agency, for the purposes of the Clean Water Act, the final authority regarding Clean Water Act jurisdiction remains with EPA;
 
-(1) *Adjacent wetlands.* The term *adjacent wetlands* means wetlands that:
+(3) Ditches (including roadside ditches) excavated wholly in and draining only dry land and that do not carry a relatively permanent flow of water;
 
-(i) Abut, meaning to touch at least at one point or side of, a water identified in paragraph (a)(1), (2), or (3) of this section;
+(4) Artificially irrigated areas that would revert to dry land if the irrigation ceased;
 
-(ii) Are inundated by flooding from a water identified in paragraph (a)(1), (2), or (3) of this section in a typical year;
+(5) Artificial lakes or ponds created by excavating or diking dry land to collect and retain water and which are used exclusively for such purposes as stock watering, irrigation, settling basins, or rice growing;
 
-(iii) Are physically separated from a water identified in paragraph (a)(1), (2), or (3) of this section only by a natural berm, bank, dune, or similar natural feature; or
+(6) Artificial reflecting or swimming pools or other small ornamental bodies of water created by excavating or diking dry land to retain water for primarily aesthetic reasons;
 
-(iv) Are physically separated from a water identified in paragraph (a)(1), (2), or (3) of this section only by an artificial dike, barrier, or similar artificial structure so long as that structure allows for a direct hydrologic surface connection between the wetlands and the water identified in paragraph (a)(1), (2), or (3) of this section in a typical year, such as through a culvert, flood or tide gate, pump, or similar artificial feature. An adjacent wetland is jurisdictional in its entirety when a road or similar artificial structure divides the wetland, as long as the structure allows for a direct hydrologic surface connection through or over that structure in a typical year.
+(7) Waterfilled depressions created in dry land incidental to construction activity and pits excavated in dry land for the purpose of obtaining fill, sand, or gravel unless and until the construction or excavation operation is abandoned and the resulting body of water meets the definition of waters of the United States; and
 
-(2) *Ditch.* The term *ditch* means a constructed or excavated channel used to convey water.
+(8) Swales and erosional features (*e.g.,* gullies, small washes) characterized by low volume, infrequent, or short duration flow.
 
-(3) *Ephemeral.* The term *ephemeral* means surface water flowing or pooling only in direct response to precipitation (*e.g.,* rain or snow fall).
+(c) In this section, the following definitions apply:
 
-(4) *High tide line.* The term *high tide line* means the line of intersection of the land with the water's surface at the maximum height reached by a rising tide. The high tide line may be determined, in the absence of actual data, by a line of oil or scum along shore objects, a more or less continuous deposit of fine shell or debris on the foreshore or berm, other physical markings or characteristics, vegetation lines, tidal gages, or other suitable means that delineate the general height reached by a rising tide. The line encompasses spring high tides and other high tides that occur with periodic frequency but does not include storm surges in which there is a departure from the normal or predicted reach of the tide due to the piling up of water against a coast by strong winds, such as those accompanying a hurricane or other intense storm.
+(1) *Wetlands* means those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
 
-(5) *Intermittent.* The term *intermittent* means surface water flowing continuously during certain times of the year and more than in direct response to precipitation (*e.g.,* seasonally when the groundwater table is elevated or when snowpack melts).
+(2) *Adjacent* means bordering, contiguous, or neighboring. Wetlands separated from other waters of the United States by man-made dikes or barriers, natural river berms, beach dunes, and the like are “adjacent wetlands.”
 
-(6) *Lakes and ponds, and impoundments of jurisdictional waters.* The term *lakes and ponds, and impoundments of jurisdictional waters* means standing bodies of open water that contribute surface water flow to a water identified in paragraph (a)(1) of this section in a typical year either directly or through one or more waters identified in paragraph (a)(2), (3), or (4) of this section. A lake, pond, or impoundment of a jurisdictional water does not lose its jurisdictional status if it contributes surface water flow to a downstream jurisdictional water in a typical year through a channelized non-jurisdictional surface water feature, through a culvert, dike, spillway, or similar artificial feature, or through a debris pile, boulder field, or similar natural feature. A lake or pond, or impoundment of a jurisdictional water is also jurisdictional if it is inundated by flooding from a water identified in paragraph (a)(1), (2), or (3) of this section in a typical year.
+(3) *High tide line* means the line of intersection of the land with the water's surface at the maximum height reached by a rising tide. The high tide line may be determined, in the absence of actual data, by a line of oil or scum along shore objects, a more or less continuous deposit of fine shell or debris on the foreshore or berm, other physical markings or characteristics, vegetation lines, tidal gages, or other suitable means that delineate the general height reached by a rising tide. The line encompasses spring high tides and other high tides that occur with periodic frequency but does not include storm surges in which there is a departure from the normal or predicted reach of the tide due to the piling up of water against a coast by strong winds such as those accompanying a hurricane or other intense storm.
 
-(7) *Ordinary high water mark.* The term *ordinary high water mark* means that line on the shore established by the fluctuations of water and indicated by physical characteristics such as a clear, natural line impressed on the bank, shelving, changes in the character of soil, destruction of terrestrial vegetation, the presence of litter and debris, or other appropriate means that consider the characteristics of the surrounding areas.
+(4) *Ordinary high water mark* means that line on the shore established by the fluctuations of water and indicated by physical characteristics such as clear, natural line impressed on the bank, shelving, changes in the character of soil, destruction of terrestrial vegetation, the presence of litter and debris, or other appropriate means that consider the characteristics of the surrounding areas.
 
-(8) *Perennial.* The term *perennial* means surface water flowing continuously year-round.
+(5) *Tidal waters* means those waters that rise and fall in a predictable and measurable rhythm or cycle due to the gravitational pulls of the moon and sun. Tidal waters end where the rise and fall of the water surface can no longer be practically measured in a predictable rhythm due to masking by hydrologic, wind, or other effects.
 
-(9) *Prior converted cropland.* The term *prior converted cropland* means any area that, prior to December 23, 1985, was drained or otherwise manipulated for the purpose, or having the effect, of making production of an agricultural product possible. EPA and the Corps will recognize designations of prior converted cropland made by the Secretary of Agriculture. An area is no longer considered *prior converted cropland* for purposes of the Clean Water Act when the area is abandoned and has reverted to wetlands, as defined in paragraph (c)(16) of this section. Abandonment occurs when prior converted cropland is not used for, or in support of, agricultural purposes at least once in the immediately preceding five years. For the purposes of the Clean Water Act, the EPA Administrator shall have the final authority to determine whether prior converted cropland has been abandoned.
+(6) *Significantly affect* means a material influence on the chemical, physical, or biological integrity of waters identified in paragraph (a)(1) of this section. To determine whether waters, either alone or in combination with similarly situated waters in the region, have a material influence on the chemical, physical, or biological integrity of waters identified in paragraph (a)(1) of this section, the functions identified in paragraph (c)(6)(i) of this section will be assessed and the factors identified in paragraph (c)(6)(ii) of this section will be considered:
 
-(10) *Snowpack.* The term *snowpack* means layers of snow that accumulate over extended periods of time in certain geographic regions or at high elevation (*e.g.,* in northern climes or mountainous regions).
+(i) Functions to be assessed:
 
-(11) *Tidal waters* and *waters subject to the ebb and flow of the tide.* The terms *tidal waters* and *waters subject to the ebb and flow of the tide* mean those waters that rise and fall in a predictable and measurable rhythm or cycle due to the gravitational pulls of the moon and sun. Tidal waters and waters subject to the ebb and flow of the tide end where the rise and fall of the water surface can no longer be practically measured in a predictable rhythm due to masking by hydrologic, wind, or other effects.
+(A) Contribution of flow;
 
-(12) *Tributary.* The term *tributary* means a river, stream, or similar naturally occurring surface water channel that contributes surface water flow to a water identified in paragraph (a)(1) of this section in a typical year either directly or through one or more waters identified in paragraph (a)(2), (3), or (4) of this section. A tributary must be perennial or intermittent in a typical year. The alteration or relocation of a tributary does not modify its jurisdictional status as long as it continues to satisfy the flow conditions of this definition. A tributary does not lose its jurisdictional status if it contributes surface water flow to a downstream jurisdictional water in a typical year through a channelized non-jurisdictional surface water feature, through a subterranean river, through a culvert, dam, tunnel, or similar artificial feature, or through a debris pile, boulder field, or similar natural feature. The term *tributary* includes a ditch that either relocates a tributary, is constructed in a tributary, or is constructed in an adjacent wetland as long as the ditch satisfies the flow conditions of this definition.
+(B) Trapping, transformation, filtering, and transport of materials (including nutrients, sediment, and other pollutants);
 
-(13) *Typical year.* The term *typical year* means when precipitation and other climatic variables are within the normal periodic range (*e.g.,* seasonally, annually) for the geographic area of the applicable aquatic resource based on a rolling thirty-year period.
+(C) Retention and attenuation of floodwaters and runoff;
 
-(14) *Upland.* The term *upland* means any land area that under normal circumstances does not satisfy all three wetland factors (*i.e.,* hydrology, hydrophytic vegetation, hydric soils) identified in paragraph (c)(16) of this section, and does not lie below the ordinary high water mark or the high tide line of a jurisdictional water.
+(D) Modulation of temperature in waters identified in paragraph (a)(1) of this section; or
 
-(15) *Waste treatment system.* The term *waste treatment system* includes all components, including lagoons and treatment ponds (such as settling or cooling ponds), designed to either convey or retain, concentrate, settle, reduce, or remove pollutants, either actively or passively, from wastewater prior to discharge (or eliminating any such discharge).
+(E) Provision of habitat and food resources for aquatic species located in waters identified in paragraph (a)(1) of this section;
 
-(16) *Wetlands.* The term *wetlands* means areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+(ii) Factors to be considered:
 
-[51 FR 41250, Nov. 13, 1986, as amended at 58 FR 45036, Aug. 25, 1993; 80 FR 37104, June 29, 2015; 83 FR 5208, Feb. 6, 2018; 84 FR 56667, Oct. 22, 2019; 85 FR 22338, Apr. 21, 2020]
+(A) The distance from a water identified in paragraph (a)(1) of this section;
+
+(B) Hydrologic factors, such as the frequency, duration, magnitude, timing, and rate of hydrologic connections, including shallow subsurface flow;
+
+(C) The size, density, or number of waters that have been determined to be similarly situated;
+
+(D) Landscape position and geomorphology; and
+
+(E) Climatological variables such as temperature, rainfall, and snowpack.
+
+[88 FR 3142, Jan. 18, 2023]

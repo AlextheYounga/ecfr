@@ -1,0 +1,5 @@
+##### § 250.63 Commodity Supplemental Food Program (CSFP). #####
+
+(a) *Distribution of donated foods in CSFP.* The Department provides donated foods in CSFP to the distributing agency (*i.e.,* the State agency, in accordance with 7 CFR part 247) for further distribution in the State, in accordance with 7 CFR part 247. State agencies and recipient agencies (*i.e.,* local agencies in 7 CFR part 247) must comply with the requirements of this part in the distribution, control, and use of donated foods in CSFP, to the extent that such requirements are not inconsistent with the requirements in 7 CFR part 247.
+
+(b) *Types of donated foods distributed.* Donated foods distributed in CSFP include Section 4(a) foods, and donated foods provided under Section 32, Section 416, or Section 709, as available.

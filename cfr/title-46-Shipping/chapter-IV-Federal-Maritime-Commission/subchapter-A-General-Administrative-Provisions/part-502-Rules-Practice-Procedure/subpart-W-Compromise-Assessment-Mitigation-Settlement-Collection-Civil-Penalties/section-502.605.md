@@ -1,5 +1,7 @@
 ##### § 502.605 Payment of penalty: Method; default. #####
 
+Link to an amendment published at 88 FR 16574, Mar. 20, 2023.
+
 (a) *Method.* Payment of penalties by the respondent is to be made by bank cashier's check or other instrument acceptable to the Commission.
 
 (b) All checks or other instruments submitted in payment of claims shall be made payable to the Federal Maritime Commission.

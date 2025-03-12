@@ -1,7 +1,5 @@
 ##### § 205.2 Terms defined. #####
 
-Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
-
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 
 *Act.* The Organic Foods Production Act of 1990, as amended (7 U.S.C. 6501 *et seq.*).
@@ -9,6 +7,8 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 *Action level.* The limit at or above which the Food and Drug Administration will take legal action against a product to remove it from the market. Action levels are based on unavoidability of the poisonous or deleterious substances and do not represent permissible levels of contamination where it is avoidable.
 
 *Administrator.* The Administrator for the Agricultural Marketing Service, United States Departure of Agriculture, or the representative to whom authority has been delegated to act in the stead of the Administrator.
+
+*Adverse action.* A noncompliance decision that adversely affects certification, accreditation, or a person subject to the Act, including a proposed suspension or revocation; a denial of certification, accreditation, or reinstatement; a cease and desist notice; or a civil penalty.
 
 *Agricultural inputs.* All substances or materials used in the production or handling of organic agricultural products.
 
@@ -46,7 +46,13 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *Bulk.* The presentation to consumers at retail sale of an agricultural product in unpackaged, loose form, enabling the consumer to determine the individual pieces, amount, or volume of the product purchased.
 
+*Certification activity.* Any business conducted by a certifying agent, or by a person acting on behalf of a certifying agent, including but not limited to: certification management; administration; application review; inspection planning; inspections; sampling; inspection report review; material review; label review; records retention; compliance review; investigating complaints and taking adverse actions; certification decisions; and issuing transaction certificates.
+
+*Certification office.* Any site or facility where certification activities are conducted, except for certification activities that occur at certified operations or applicants for certification, such as inspections and sampling.
+
 *Certification or certified.* A determination made by a certifying agent that a production or handling operation is in compliance with the Act and the regulations in this part, which is documented by a certificate of organic operation.
+
+*Certification review.* The act of reviewing and evaluating a certified operation or applicant for certification and determining compliance or ability to comply with the USDA organic regulations. This does not include performing an inspection.
 
 *Certified operation.* A crop or livestock production, wild-crop harvesting or handling operation, or portion of such operation that is certified by an accredited certifying agent as utilizing a system of organic production or handling as described by the Act and the regulations in this part.
 
@@ -63,6 +69,8 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 *Commingling.* Physical contact between unpackaged organically produced and nonorganically produced agricultural products during production, processing, transportation, storage or handling, other than during the manufacture of a multiingredient product containing both types of ingredients.
 
 *Compost.* The product of a managed process through which microorganisms break down plant and animal materials into more available forms suitable for application to the soil. Compost must be produced through a process that combines plant and animal materials with an initial C:N ratio of between 25:1 and 40:1. Producers using an in-vessel or static aerated pile system must maintain the composting materials at a temperature between 131 °F and 170 °F for 3 days. Producers using a windrow system must maintain the composting materials at a temperature between 131 °F and 170 °F for 15 days, during which time, the materials must be turned a minimum of five times.
+
+*Conformity assessment system.* All activities, including oversight, accreditation, compliance review, and enforcement, undertaken by a government to ensure that the applicable technical requirements for the production and handling of organic agricultural products are fully and consistently applied.
 
 *Control.* Any method that reduces or limits damage by populations of pests, weeds, or diseases to levels that do not significantly reduce productivity.
 
@@ -130,11 +138,11 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *Grazing season.* The period of time when pasture is available for grazing, due to natural precipitation or irrigation. Grazing season dates may vary because of mid-summer heat/humidity, significant precipitation events, floods, hurricanes, droughts or winter weather events. Grazing season may be extended by the grazing of residual forage as agreed in the operation's organic system plan. Due to weather, season, or climate, the grazing season may or may not be continuous. Grazing season may range from 120 days to 365 days, but not less than 120 days per year.
 
-*Handle.* To sell, process, or package agricultural products, except such term shall not include the sale, transportation, or delivery of crops or livestock by the producer thereof to a handler.
+*Handle.* To sell, process, or package agricultural products, including but not limited to trading, facilitating sale or trade on behalf of a seller or oneself, importing to the United States, exporting for sale in the United States, combining, aggregating, culling, conditioning, treating, packing, containerizing, repackaging, labeling, storing, receiving, or loading.
 
-*Handler.* Any person engaged in the business of handling agricultural products, including producers who handle crops or livestock of their own production, except such term shall not include final retailers of agricultural products that do not process agricultural products.
+*Handler.* Any person that handles agricultural products, except final retailers of agricultural products that do not process agricultural products.
 
-*Handling operation.* Any operation or portion of an operation (except final retailers of agricultural products that do not process agricultural products) that receives or otherwise acquires agricultural products and processes, packages, or stores such products.
+*Handling operation.* Any operation that handles agricultural products, except final retailers of agricultural products that do not process agricultural products.
 
 *Immediate family.* The spouse, minor children, or blood relatives who reside in the immediate household of a certifying agent or an employee, inspector, contractor, or other personnel of the certifying agent. For the purpose of this part, the interest of a spouse, minor child, or blood relative who is a resident of the immediate household of a certifying agent or an employee, inspector, contractor, or other personnel of the certifying agent shall be considered to be an interest of the certifying agent or an employee, inspector, contractor, or other personnel of the certifying agent.
 
@@ -151,6 +159,8 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 *Inspection.* The act of examining and evaluating the production or handling operation of an applicant for certification or certified operation to determine compliance with the Act and the regulations in this part.
 
 *Inspector.* Any person retained or used by a certifying agent to conduct inspections of certification applicants or certified production or handling operations.
+
+*Internal control system.* An internal quality management system that establishes and governs the review, monitoring, training, and inspection of the producer group operation, and the procurement and distribution of shared production and handling inputs and resources, to maintain compliance with the USDA organic regulations.
 
 *Label.* A display of written, printed, or graphic material on the immediate container of an agricultural product or any such material affixed to any agricultural product or affixed to a bulk container containing an agricultural product, except for package liners or a display of written, printed, or graphic material which contains only information about the weight of the product.
 
@@ -185,6 +195,14 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 *Nontoxic.* Not known to cause any adverse physiological effects in animals, plants, humans, or the environment.
 
 *Organic.* A labeling term that refers to an agricultural product produced in accordance with the Act and the regulations in this part.
+
+*Organic exporter.* The final certified exporter of the organic agricultural product, who facilitates the trade of, consigns, or arranges for the transport/shipping of the organic agricultural product from a foreign country to the United States.
+
+*Organic fraud.* Deceptive representation, sale, or labeling of nonorganic agricultural products or ingredients as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s)).”
+
+*Organic importer.* The operation responsible for accepting imported organic agricultural products within the United States and ensuring NOP Import Certificate data are entered into the U.S. Customs and Border Protection import system of record.
+
+*Organic Integrity Database.* The National Organic Program's electronic, web-based reporting tool for the submission of data, completion of certificates of organic operation, and other information, or the tool's successors.
 
 *Organic management.* Management of a production or handling operation in compliance with all applicable provisions under this part.
 
@@ -224,6 +242,12 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *Producer.* A person who engages in the business of growing or producing food, fiber, feed, and other agricultural-based consumer products.
 
+*Producer group member.* An individual engaged in the activity of producing or harvesting agricultural products as a member of a producer group operation.
+
+*Producer group operation.* A producer, organized as a person, consisting of producer group members and production units in geographic proximity governed by an internal control system under one organic system plan and certification.
+
+*Producer group production unit.* A defined subgroup of producer group members in geographic proximity within a single producer group operation that use shared practices and resources to produce similar agricultural products.
+
 *Production lot number/identifier.* Identification of a product based on the production sequence of the product showing the date, time, and place of production used for quality control purposes.
 
 *Prohibited substance.* A substance the use of which in any aspect of organic production or handling is prohibited or not provided for in the Act or the regulations of this part.
@@ -236,7 +260,7 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *Responsibly connected.* Any person who is a partner, officer, director, holder, manager, or owner of 10 percent or more of the voting stock of an applicant or a recipient of certification or accreditation.
 
-*Retail food establishment.* A restaurant; delicatessen; bakery; grocery store; or any retail outlet with an in-store restaurant, delicatessen, bakery, salad bar, or other eat-in or carry-out service of processed or prepared raw and ready-to-eat-food.
+*Retail establishment.* Restaurants, delicatessens, bakeries, grocery stores, or any retail business with a restaurant, delicatessen, bakery, salad bar, bulk food self-service station, or other eat-in, carry-out, mail-order, or delivery service of raw or processed agricultural products.
 
 *Routine use of parasiticide.* The regular, planned, or periodic use of parasiticides.
 
@@ -262,7 +286,11 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *State organic program's governing State official.* The chief executive official of a State or, in the case of a State that provides for the statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official who administers a State organic certification program.
 
+*Supply chain traceability audit.* The process of identifying and tracking the movement, sale, custody, handling, and organic status of an agricultural product along a supply chain to verify the agricultural product's compliance with this part.
+
 *Synthetic.* A substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
+
+*Technical requirements.* A system of relevant laws, regulations, regulatory practices, standards, policies, and procedures that address the certification, production, and handling of organic agricultural products.
 
 *Temporary and Temporarily.* Occurring for a limited time only (e.g., overnight, throughout a storm, during a period of illness, the period of time specified by the Administrator when granting a temporary variance), not permanent or lasting.
 
@@ -274,10 +302,12 @@ Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
 
 *Transplant.* A seedling which has been removed from its original place of production, transported, and replanted.
 
+*Unannounced inspection.* The act of examining and evaluating all or a portion of the production or handling activities of a certified operation without advance notice to determine compliance with the Act and the regulations in this part.
+
 *Unavoidable residual environmental contamination (UREC).* Background levels of naturally occurring or synthetic chemicals that are present in the soil or present in organically produced agricultural products that are below established tolerances.
 
 *Wild crop.* Any plant or portion of a plant that is collected or harvested from a site that is not maintained under cultivation or other agricultural management.
 
 *Yards/Feeding pad.* An area for feeding, exercising, and outdoor access for livestock during the non-grazing season and a high traffic area where animals may receive supplemental feeding during the grazing season.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022; 87 FR 68027, Nov. 14, 2022]
+[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022; 87 FR 68027, Nov. 14, 2022; 88 FR 3620, Jan. 19, 2023]

@@ -1,14 +1,20 @@
 ##### § 205.665 Noncompliance procedure for certifying agents. #####
 
-Link to an amendment published at 88 FR 3626, Jan. 19, 2023.
+(a) *Notification.* (1) A written notification of noncompliance will be sent to the certifying agent when:
 
-(a) *Notification.* When an inspection, review, or investigation of an accredited certifying agent by the Program Manager reveals any noncompliance with the Act or regulations in this part, a written notification of noncompliance shall be sent to the certifying agent. Such notification shall provide:
+(i) An inspection, review, or investigation of an accredited certifying agent by the Program Manager reveals any noncompliance with the Act or regulations in this part; or
 
-(1) A description of each noncompliance;
+(ii) The Program Manager determines that the certification activities of the certifying agent, or any person performing certification activities on behalf of the certifying agent, are not compliant with the Act or the regulations in this part; or
 
-(2) The facts upon which the notification of noncompliance is based; and
+(iii) The Program Manager determines that the certification activities at a certification office, and/in specific countries, are not compliant with the Act or the regulations in this part.
 
-(3) The date by which the certifying agent must rebut or correct each noncompliance and submit supporting documentation of each correction when correction is possible.
+(2) Such notification must provide:
+
+(i) A description of each noncompliance;
+
+(ii) The facts upon which the notification of noncompliance is based; and
+
+(iii) The date by which the certifying agent must rebut or correct each noncompliance and submit supporting documentation of each correction when correction is possible.
 
 (b) *Resolution.* When the certifying agent demonstrates that each noncompliance has been resolved, the Program Manager shall send the certifying agent a written notification of noncompliance resolution.
 
@@ -35,3 +41,5 @@ Link to an amendment published at 88 FR 3626, Jan. 19, 2023.
 (g) *Eligibility.* (1) A certifying agent whose accreditation is suspended by the Secretary under this section may at any time, unless otherwise stated in the notification of suspension, submit a request to the Secretary for reinstatement of its accreditation. The request must be accompanied by evidence demonstrating correction of each noncompliance and corrective actions taken to comply with and remain in compliance with the Act and the regulations in this part.
 
 (2) A certifying agent whose accreditation is revoked by the Secretary shall be ineligible to be accredited as a certifying agent under the Act and the regulations in this part for a period of not less than 3 years following the date of such revocation.
+
+[65 FR 80637, Dec. 21, 2000, as amended at 88 FR 3626, Jan. 19, 2023]

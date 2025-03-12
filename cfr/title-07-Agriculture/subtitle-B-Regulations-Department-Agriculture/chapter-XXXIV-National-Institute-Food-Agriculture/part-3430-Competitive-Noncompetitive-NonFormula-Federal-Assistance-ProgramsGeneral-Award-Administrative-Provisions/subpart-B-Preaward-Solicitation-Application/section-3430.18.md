@@ -1,0 +1,7 @@
+##### § 3430.18 Submission of an application. #####
+
+(a) *When to submit.* The RFA will provide deadlines for the submission of letters of intent, if requested and required, and applications. NIFA may issue separate RFAs and/or establish separate deadlines for different types of applications, different award instruments, or different topics or phases of the Federal assistance programs. If applications are not received by applicable deadlines, they will not be considered for funding. Exceptions will be considered only when extenuating circumstances exist, as determined by NIFA, and justification and supporting documentation are provided to NIFA.
+
+(b) *What to submit.* The contents of the applicable application package, as well as any other information, are to be submitted by the due date.
+
+(c) *Where to submit.* The RFA will provide addresses for submission of letters of intent, if requested or required, and applications. It also will indicate permissible methods of submission (*i.e.,* electronic, e-mail, hand-delivery, U.S. Postal Service, courier). Conformance with preparation and submission instructions is required and will be strictly enforced unless a deviation had been approved. NIFA may establish additional requirements. NIFA may return without review applications that are not consistent with the RFA instructions.

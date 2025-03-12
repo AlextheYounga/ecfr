@@ -1,0 +1,3 @@
+##### § 1734.12 Expedited telecommunications loans #####
+
+RUS will expedite consideration and determination of an application submitted by an RUS telecommunications borrower for a loan under the Act or an advance of such loan funds to be used in conjunction with financial assistance under subparts B, C, or D of this part. See 7 CFR part 1737 for loans and 7 CFR part 1744 for advances under this section.

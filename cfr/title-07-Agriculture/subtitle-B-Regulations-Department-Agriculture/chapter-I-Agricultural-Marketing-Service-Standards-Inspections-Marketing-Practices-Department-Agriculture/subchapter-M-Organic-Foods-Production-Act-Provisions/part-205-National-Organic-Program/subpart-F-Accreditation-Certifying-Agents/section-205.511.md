@@ -1,3 +1,13 @@
-##### § 205.511 xxx #####
+##### § 205.511 Accepting foreign conformity assessment systems. #####
 
-Link to an amendment published at 88 FR 3625, Jan. 19, 2023.
+(a) Foreign product may be certified under the USDA organic regulations by a USDA-accredited certifying agent and imported for sale in the United States. Foreign product that is produced and handled under another country's organic certification program may be sold, labeled, or represented in the United States as organically produced if the U.S. Government determines that such country's organic certification program provides technical requirements and a conformity assessment system governing the production and handling of such products that are at least equivalent to the requirements of the Act and the regulations in this part.
+
+(b) Countries desiring to establish eligibility of product certified under that country's organic certification program to be sold, labeled, or represented in the United States as organically produced may request equivalence determinations from AMS. A foreign government must maintain compliance and enforcement mechanisms to ensure that its organic certification program is fully meeting the terms and conditions of any equivalence determination provided by the U.S. Government pursuant to this section. To request an equivalence determination, the requesting country must submit documentation that fully describes its technical requirements and conformity assessment system. If the U.S. Government determines it can proceed, AMS will assess the country's organic certification program to evaluate if it is equivalent.
+
+(c) USDA, working with other Federal agencies, will describe the scope of an equivalence determination.
+
+(d) AMS will conduct regular reviews and reassessments of countries deemed equivalent to verify that the foreign government's technical requirements and conformity assessment system continue to be at least equivalent to the requirements of the Act and the regulations of this part, and will determine if the equivalence determination should be continued, amended, or terminated. AMS will determine the timing and scope of reviews and re-assessments based on, but not limited to, factors such as: the terms of the equivalence determination, changes to the foreign country's technical requirements or conformity assessment system, the results of previous reviews and re-assessments, instances of suspected or verified noncompliance issues, the volume of trade, and other factors contributing to the risk level of the equivalence determination.
+
+(e) The U.S. Government may terminate an equivalence determination if the terms or conditions established under the equivalence determination are not met; if AMS determines that the country's technical requirements and/or conformity assessment program are no longer equivalent; if AMS determines that the foreign government's organic control system is inadequate to ensure that the country's organic certification program is fully meeting the terms and conditions under the equivalence determination; or for other good cause.
+
+[88 FR 3625, Jan. 19, 2023]

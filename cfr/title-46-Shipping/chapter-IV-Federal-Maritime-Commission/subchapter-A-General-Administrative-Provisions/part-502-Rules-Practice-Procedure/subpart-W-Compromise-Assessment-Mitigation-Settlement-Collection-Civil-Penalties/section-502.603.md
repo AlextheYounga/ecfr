@@ -1,5 +1,7 @@
 ##### § 502.603 Assessment of civil penalties: Procedure; criteria for determining amount; limitations; relation to compromise. #####
 
+Link to an amendment published at 88 FR 16574, Mar. 20, 2023.
+
 (a) *Procedure for assessment of penalty.* The Commission may assess a civil penalty only after notice and opportunity for hearing. Civil penalty assessment proceedings, including settlement negotiations, shall be governed by the Commission's Rules of Practice and Procedure in this part. All settlements must be approved by the Presiding Officer. The full text of any settlement must be included in the final order of the Commission.
 
 (b) *Criteria for determining amount of penalty.* In determining the amount of any penalties assessed, the Commission shall take into account the nature, circumstances, extent and gravity of the violation committed and the policies for deterrence and future compliance with the Commission's rules and regulations and the applicable statutes. The Commission shall also consider the respondent's degree of culpability, history of prior offenses, ability to pay and such other matters as justice requires.

@@ -1,0 +1,3 @@
+##### § 3430.32 Preliminary application review. #####
+
+Prior to technical examination, a preliminary review will be made of all applications for responsiveness to the administrative requirements set forth in the RFA. Applications that do not meet the administrative requirements may be eliminated from program competition. However, NIFA retains the right to conduct discussions with applicants to resolve technical and/or budget issues, as deemed necessary by NIFA.

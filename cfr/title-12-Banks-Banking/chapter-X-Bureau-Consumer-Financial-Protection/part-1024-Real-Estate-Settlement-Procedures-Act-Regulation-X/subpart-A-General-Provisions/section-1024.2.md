@@ -1,5 +1,7 @@
 ##### § 1024.2 Definitions. #####
 
+Link to an amendment published at 88 FR 16542, Mar. 20, 2023.
+
 (a) *Statutory terms.* All terms defined in RESPA (12 U.S.C. 2602) are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section or elsewhere in this part.
 
 (b) *Other terms.* As used in this part:

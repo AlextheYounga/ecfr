@@ -1,7 +1,5 @@
 ##### § 205.301 Product composition. #####
 
-Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
-
 (a) *Products sold, labeled, or represented as “100 percent organic.”* A raw or processed agricultural product sold, labeled, or represented as “100 percent organic” must contain (by weight or fluid volume, excluding water and salt) 100 percent organically produced ingredients. If labeled as organically produced, such product must be labeled pursuant to § 205.303.
 
 (b) *Products sold, labeled, or represented as “organic.”* A raw or processed agricultural product sold, labeled, or represented as “organic” must contain (by weight or fluid volume, excluding water and salt) not less than 95 percent organically produced raw or processed agricultural products. Any remaining product ingredients must be organically produced, unless not commercially available in organic form, or must be nonagricultural substances or nonorganically produced agricultural products produced consistent with the National List in subpart G of this part. If labeled as organically produced, such product must be labeled pursuant to § 205.303.
@@ -18,9 +16,9 @@ Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
 
 (1) Be produced using excluded methods, pursuant to § 205.105(e);
 
-(2) Be produced using ionizing radiation, pursuant to § 205.105(f);
+(2) Be processed using ionizing radiation, pursuant to § 205.105(f);
 
-(3) Be processed using sewage sludge, pursuant to § 205.105(g);
+(3) Be produced using sewage sludge, pursuant to § 205.105(g);
 
 (4) Be processed using processing aids not approved on the National List of Allowed and Prohibited Substances in subpart G of this part: Except, That, products labeled as “100 percent organic,” if processed, must be processed using organically produced processing aids;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
 
 (7) Include organic and nonorganic forms of the same ingredient.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 80 FR 6429, Feb. 5, 2015]
+[65 FR 80637, Dec. 21, 2000, as amended at 80 FR 6429, Feb. 5, 2015; 88 FR 3621, Jan. 19, 2023]

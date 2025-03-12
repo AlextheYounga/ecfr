@@ -1,0 +1,5 @@
+##### § 1956.96 Delinquent adjustment agreements. #####
+
+A 90-day extension for making the payments may be given by the Agency when the circumstances of the case justify an extension. A decision not to extend the time for making payments is not appealable. If the debtor is delinquent under the terms of the adjustment agreement and is likely to be financially unable to meet the terms of the agreement, the Agency may cancel the existing agreement and process a different type of settlement more consistent with the debtor's repayment ability, provided the facts in the case justify such action. The cancellation of an adjustment agreement is appealable. If an agreement is cancelled, any payments received shall be retained as payments on the debt owed at the time of the adjustment agreement.
+
+[68 FR 7700, Feb. 18, 2003]

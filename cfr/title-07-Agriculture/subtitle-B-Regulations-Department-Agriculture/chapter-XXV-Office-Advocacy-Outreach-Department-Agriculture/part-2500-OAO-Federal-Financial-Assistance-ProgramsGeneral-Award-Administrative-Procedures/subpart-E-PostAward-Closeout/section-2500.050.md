@@ -1,0 +1,7 @@
+##### § 2500.050 Suspension, termination, and withholding of support. #####
+
+(a) *General.* If an awardee has failed to materially comply with the terms and conditions of the award, OAO may take certain enforcement actions, including, but not limited to, suspending the award pending corrective action and terminating the award for cause.
+
+(b) *Suspension.* OAO generally will suspend (rather than immediately terminate) an award to allow the awardee an opportunity to take appropriate corrective action before OAO makes a termination decision. OAO may decide to terminate the award if the awardee does not take appropriate corrective action during the period of suspension. OAO may terminate, without first suspending, the award if the deficiency is so serious as to warrant immediate termination. Termination for cause may be appealed under the terms and conditions identified in the OAO award agreement.
+
+(c) *Termination.* An award also may be terminated, partially or wholly, by the awardee or by OAO with the consent of the awardee. If the awardee decides to terminate a portion of the award, OAO may determine that the remaining portion of the award will not accomplish the purposes for which the award was originally made. In any such case, OAO will advise the awardee of the possibility of termination of the entire award and allow the awardee to withdraw its termination request. If the awardee does not withdraw its request for partial termination, OAO may initiate procedures to terminate the entire award for cause.

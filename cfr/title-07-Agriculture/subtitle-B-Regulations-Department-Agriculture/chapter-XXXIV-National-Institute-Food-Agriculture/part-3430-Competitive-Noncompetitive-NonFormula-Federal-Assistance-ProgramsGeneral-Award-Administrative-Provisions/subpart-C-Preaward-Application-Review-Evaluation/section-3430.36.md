@@ -1,0 +1,3 @@
+##### § 3430.36 Procedures to minimize or eliminate duplication of effort. #####
+
+NIFA may implement appropriate business processes to minimize or eliminate the awarding of NIFA Federal assistance that unnecessarily duplicates activities already being sponsored under other awards, including awards made by other Federal agencies. Business processes may include the review of the Current and Pending Support Form; documented CRIS searches prior to award; the conduct of PD workshops, conferences, meetings, and symposia; and agency participation in Federal Government-wide and other committees, taskforces, or groups that seek to solve problems related to agricultural research, education, and extension and other activities delegated to the NIFA Director.

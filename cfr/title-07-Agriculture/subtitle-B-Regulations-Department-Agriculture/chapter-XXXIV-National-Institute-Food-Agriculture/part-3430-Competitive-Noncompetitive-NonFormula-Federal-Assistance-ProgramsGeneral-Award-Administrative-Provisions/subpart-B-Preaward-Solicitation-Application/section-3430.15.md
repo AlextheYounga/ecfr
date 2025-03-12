@@ -1,0 +1,3 @@
+##### § 3430.15 Stakeholder input. #####
+
+Section 103(c)(2) of the Agricultural Research, Extension, and Education Reform Act of 1998 (AREERA) (7 U.S.C. 7613(c)(2)) requires the Secretary to solicit and consider input on each program RFA from persons who conduct agricultural research, education, and extension for use in formulating future RFAs for competitive programs. NIFA will provide instructions for submission of stakeholder input in the RFA. NIFA will consider any comments received within the specified timeframe in the development of the future RFAs for the program.

@@ -1,7 +1,5 @@
 ##### § 205.405 Denial of certification. #####
 
-Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
-
 (a) When the certifying agent has reason to believe, based on a review of the information specified in § 205.402 or § 205.404, that an applicant for certification is not able to comply or is not in compliance with the requirements of this part, the certifying agent must provide a written notification of noncompliance to the applicant. When correction of a noncompliance is not possible, a notification of noncompliance and a notification of denial of certification may be combined in one notification. The notification of noncompliance shall provide:
 
 (1) A description of each noncompliance;
@@ -28,8 +26,6 @@ Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
 
 (2) Issue a written notice of denial of certification to an applicant who fails to respond to the notification of noncompliance.
 
-(3) Provide notice of approval or denial to the Administrator, pursuant to § 205.501(a)(14).
-
 (d) A notice of denial of certification must state the reason(s) for denial and the applicant's right to:
 
 (1) Reapply for certification pursuant to §§ 205.401 and 205.405(e);
@@ -43,3 +39,5 @@ Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
 (f) A certifying agent who receives a new application for certification, which includes a notification of noncompliance or a notice of denial of certification, must treat the application as a new application and begin a new application process pursuant to § 205.402.
 
 (g) Notwithstanding paragraph (a) of this section, if a certifying agent has reason to believe that an applicant for certification has willfully made a false statement or otherwise purposefully misrepresented the applicant's operation or its compliance with the certification requirements pursuant to this part, the certifying agent may deny certification pursuant to paragraph (c)(1)(ii) of this section without first issuing a notification of noncompliance.
+
+[65 FR 80637, Dec. 21, 2000, as amended at 88 FR 3624, Jan. 19, 2023]

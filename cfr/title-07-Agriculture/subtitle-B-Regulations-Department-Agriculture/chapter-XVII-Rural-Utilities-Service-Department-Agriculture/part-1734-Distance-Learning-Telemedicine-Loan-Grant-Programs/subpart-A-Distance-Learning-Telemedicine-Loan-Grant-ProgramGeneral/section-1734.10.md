@@ -1,0 +1,3 @@
+##### § 1734.10 Changes in project objectives or scope. #####
+
+The recipient shall obtain prior written approval by RUS for any material change to the scope or objectives of the project, including any changes to the scope of work or the budget submitted to RUS. Any material change shall be contained in a revised scope of work plan to be prepared by the recipient, submitted to, and approved by RUS in writing. If RUS does not approve the change and the awardee is unable to fulfill the original purposes of the award, the awardee will work with RUS to return or rescind the financial assistance.

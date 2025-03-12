@@ -1,0 +1,3 @@
+##### § 3430.203 Eligibility. #####
+
+Eligible applicants for the grant program implemented under this subpart include: Federal agencies, national laboratories; colleges and universities (offering associate's or higher degrees); research institutions and organizations; private organizations or corporations; State agricultural experiment stations; individuals; and groups consisting of 2 or more entities identified in this sentence.

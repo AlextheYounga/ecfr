@@ -1,0 +1,3 @@
+##### § 3430.57 Project meetings. #####
+
+In addition to reviewing (and monitoring the status of) progress and final technical reports and financial reports, NIFA Program Officers may use regular and periodic conference calls to monitor the awardee's performance as well as PD conferences, workshops, meetings, and symposia to not only monitor the awards, but to facilitate communication and the sharing of project results. These opportunities also serve to eliminate or minimize NIFA funding unneeded duplicative project activities. Required attendance at these conference calls, conferences, workshops, meetings, and symposia will be identified in the RFA and the awardee should develop a proposal accordingly.

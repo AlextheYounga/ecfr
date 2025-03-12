@@ -1,0 +1,3 @@
+##### § 3430.3 Deviations. #####
+
+Any request by the applicant or awardee for a waiver of or deviation from any provision of this part shall be submitted to the ADO identified in the agency specific requirements. NIFA shall review the request and notify the applicant/awardee, within 30 calendar days from the date of receipt of the deviation request, whether the request to deviate has been approved. If the deviation request is still under consideration at the end of 30 calendar days, NIFA shall inform the applicant/awardee in writing of the date when the applicant/awardee may expect the decision.

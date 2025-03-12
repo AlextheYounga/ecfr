@@ -1,0 +1,5 @@
+##### § 400.208 Term of the contract. #####
+
+(a) The term of the Contract shall commence on July 1 or when signed. The contract will continue from year to year with an annual renewal date of July 1 for each succeeding year unless the Corporation or the Contractor gives at least ninety (90) days advance notice in writing to the other party that the contract is not to be renewed. Any breach of the contract, or failure to comply with these Standards, by the Contractor, may result in termination of the contract by the Corporation upon written notice of termination to the Contractor. That termination will be effective thirty (30) days after mailing of the notice and termination to the Contractor.
+
+(b) A Contractor who elects to continue under the Contract for a subsequent year must, prior to the month of June, submit a completed Plan of Operation which includes the Certifications as required by § 400.203 of this subpart. The Contractor may not perform under the contract until the Plan of Operation is approved by the Corporation.

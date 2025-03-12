@@ -1,6 +1,8 @@
 ##### § 1002.9 Notifications. #####
 
-(a) *Notification of action taken, ECOA notice, and statement of specific reasons* - (1) *When notification is required.* A creditor shall notify an applicant of action taken within:
+Link to an amendment published at 88 FR 16537, Mar. 20, 2023.
+
+(a) *Notification of action taken, ECOA notice, and statement of specific reasons*—(1) *When notification is required.* A creditor shall notify an applicant of action taken within:
 
 (i) 30 days after receiving a completed application concerning the creditor's approval of, counteroffer to, or adverse action on the application;
 
@@ -32,11 +34,11 @@
 
 (B) Provide a written statement of the reasons for adverse action and the ECOA notice specified in paragraph (b)(1) of this section if the applicant makes a written request for the reasons within 60 days of the creditor's notification.
 
-(b) *Form of ECOA notice and statement of specific reasons* - (1) *ECOA notice.* To satisfy the disclosure requirements of paragraph (a)(2) of this section regarding section 701(a) of the Act, the creditor shall provide a notice that is substantially similar to the following: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is [name and address as specified by the appropriate agency or agencies listed in appendix A of this part]. Until January 1, 2013, a creditor may comply with this paragraph (b)(1) and paragraph (a)(2) of this section by including in the notice the name and address as specified by the appropriate agency in appendix A to 12 CFR part 202, as in effect on October 1, 2011.
+(b) *Form of ECOA notice and statement of specific reasons*—(1) *ECOA notice.* To satisfy the disclosure requirements of paragraph (a)(2) of this section regarding section 701(a) of the Act, the creditor shall provide a notice that is substantially similar to the following: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is [name and address as specified by the appropriate agency or agencies listed in appendix A of this part]. Until January 1, 2013, a creditor may comply with this paragraph (b)(1) and paragraph (a)(2) of this section by including in the notice the name and address as specified by the appropriate agency in appendix A to 12 CFR part 202, as in effect on October 1, 2011.
 
 (2) *Statement of specific reasons.* The statement of reasons for adverse action required by paragraph (a)(2)(i) of this section must be specific and indicate the principal reason(s) for the adverse action. Statements that the adverse action was based on the creditor's internal standards or policies or that the applicant, joint applicant, or similar party failed to achieve a qualifying score on the creditor's credit scoring system are insufficient.
 
-(c) *Incomplete applications* - (1) *Notice alternatives.* Within 30 days after receiving an application that is incomplete regarding matters that an applicant can complete, the creditor shall notify the applicant either:
+(c) *Incomplete applications*—(1) *Notice alternatives.* Within 30 days after receiving an application that is incomplete regarding matters that an applicant can complete, the creditor shall notify the applicant either:
 
 (i) Of action taken, in accordance with paragraph (a) of this section; or
 

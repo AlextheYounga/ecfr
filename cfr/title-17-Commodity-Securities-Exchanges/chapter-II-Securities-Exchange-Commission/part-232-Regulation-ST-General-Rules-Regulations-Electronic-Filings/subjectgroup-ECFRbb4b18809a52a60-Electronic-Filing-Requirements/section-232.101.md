@@ -1,6 +1,6 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 87 FR 78807, Dec. 22, 2022.Link to an amendment published at 88 FR 12209, Feb. 27, 2023.Link to an amendment published at 88 FR 13951, Mar. 6, 2023.
+Link to an amendment published at 87 FR 78807, Dec. 22, 2022.Link to an amendment published at 88 FR 13951, Mar. 6, 2023.
 
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
@@ -64,7 +64,7 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 
 (xxvi) Form 11-K (§ 249.311 of this chapter);
 
-(xxvii) Form 144 (§ 239.144 of this chapter), where the issuer of the securities is subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78o(d), respectively);
+(xxvii) Form 144 (§ 239.144 of this chapter), where the issuer of the securities is, and has been for a period of at least 90 days immediately before the sale, subject to the reporting requirements of section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78*o*(d), respectively);
 
 (xxviii) Periodic reports and reports with respect to distributions of primary obligations filed by:
 
@@ -114,7 +114,7 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (5) Applications for exemptive relief filed pursuant to Sections 304 and 310 of the Trust Indenture Act;
 
-(6) [Reserved]
+(6) Filings on Form 144 (§ 239.144 of this chapter) where the issuer of the securities is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 78*o*(d), respectively);
 
 (7) Promotional and sales material submitted pursuant to Securities Act Industry Guide 5 (§ 229.801(e) of this chapter) or otherwise supplementally furnished for review by the staff of the Division of Corporation Finance;
 

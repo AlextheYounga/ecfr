@@ -1,0 +1,5 @@
+##### § 15.6 Complaints. #####
+
+Any person who believes himself/herself or any specific class of individuals to be subjected to discrimination prohibited by the regulations in this part may by himself/herself or by an authorized representative file with the Secretary or any Agency a written complaint. A complaint must be filed not later than 180 days from the date of the alleged discrimination, unless the time for filing is extended by the Agency or by the Secretary. Such complaint shall be promptly referred to the Assistant Secretary for Civil Rights. The complaint shall be investigated in the manner determined by the Assistant Secretary for Civil Rights and such further action taken by the Agency or the Secretary as may be warranted.
+
+[50 FR 25687, June 21, 1985, as amended at 68 FR 27449, May 20, 2003]

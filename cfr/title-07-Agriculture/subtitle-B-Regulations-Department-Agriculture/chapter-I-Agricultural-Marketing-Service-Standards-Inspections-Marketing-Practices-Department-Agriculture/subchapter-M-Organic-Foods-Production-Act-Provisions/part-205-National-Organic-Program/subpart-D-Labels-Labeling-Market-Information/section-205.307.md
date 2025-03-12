@@ -1,19 +1,15 @@
-##### § 205.307 Labeling of nonretail containers used for only shipping or storage of raw or processed agricultural products labeled as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s)).” #####
+##### § 205.307 Labeling of nonretail containers. #####
 
-Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
+(a) Nonretail containers used to ship or store certified organic agricultural products must display:
 
-(a) Nonretail containers used only to ship or store raw or processed agricultural product labeled as containing organic ingredients may display the following terms or marks:
+(1) Identification of the product as organic; and
 
-(1) The name and contact information of the certifying agent which certified the handler which assembled the final product;
+(2) The production lot number, shipping identification, or other unique information that links the container to audit trail documentation.
 
-(2) Identification of the product as organic;
+(b) Audit trail documentation for nonretail containers must identify the last certified operation that handled the agricultural product.
 
-(3) Special handling instructions needed to maintain the organic integrity of the product;
+(c) Paragraph (a)(1) of this section does not apply to nonretail containers used to ship or store agricultural products packaged for retail sale with organic identification visible on the retail label.
 
-(4) The USDA seal;
+(d) Shipping containers of domestically produced product labeled as organic intended for export to international markets may be labeled in accordance with any shipping container labeling requirements of the foreign country of destination or the container labeling specifications of a foreign contract buyer: Provided, that, the shipping containers and shipping documents accompanying such organic products are clearly marked “For Export Only” and: Provided further, that proof of such container marking and export must be maintained by the handler in accordance with recordkeeping requirements for exempt operations under § 205.101.
 
-(5) The seal, logo, or other identifying mark of the certifying agent that certified the organic production or handling operation that produced or handled the finished product.
-
-(b) Nonretail containers used to ship or store raw or processed agricultural product labeled as containing organic ingredients must display the production lot number of the product if applicable.
-
-(c) Shipping containers of domestically produced product labeled as organic intended for export to international markets may be labeled in accordance with any shipping container labeling requirements of the foreign country of destination or the container labeling specifications of a foreign contract buyer: *Provided,* That, the shipping containers and shipping documents accompanying such organic products are clearly marked “For Export Only” and: *Provided further,* That, proof of such container marking and export must be maintained by the handler in accordance with recordkeeping requirements for exempt and excluded operations under § 205.101.
+[88 FR 3622, Jan. 19, 2023]

@@ -1,0 +1,9 @@
+##### § 2045.1754 Scope of gratuitous services performed. #####
+
+(a) Gratuitous services accepted in accordance with this subpart may be utilized to perform any function performed by regular FmHA or its successor agency under Public Law 103-354 employees (excluding Committee members). Such services must not result in the displacement of employees. Most of the gratuitous services should be performed at the County Office level and conform to a standard FmHA or its successor agency under Public Law 103-354 position description. A nonstandard position description may be developed and used, depending on current agency needs in a particular office and gratuitous skills available.
+
+(b) Orientation and other training will be provided by FmHA or its successor agency under Public Law 103-354 so that gratuitous services may be performed in accordance with current FmHA or its successor agency under Public Law 103-354 procedure.
+
+(c) Persons performing authorized gratuitous services will be held to the same standard as regular FmHA or its successor agency under Public Law 103-354 employees performing similar duties. The issuance of, and accountability for, identification cards and clearance of employee accountability will be as prescribed in FmHA or its successor agency under Public Law 103-354 Instruction 2024-B which is available in all FmHA or its successor agency under Public Law 103-354 Offices. Such persons, except Construction Inspectors may, when under direct supervision of County Supervisors, act as Collection Officers and be allowed to use receipt books.
+
+[43 FR 3694, Jan. 27, 1978, as amended at 68 FR 61333, Oct. 28, 2003]

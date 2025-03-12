@@ -1,0 +1,3 @@
+##### § 3430.1008 Sun Grant Information Analysis Center. #####
+
+The Centers and Subcenter shall maintain, at the North-Central Center, a Sun Grant Information Analysis Center to provide the Centers and Subcenter with analysis and data management support. Each Center and Subcenter shall allocate a portion of the funds available for administrative or indirect costs under § 3430.1005 to maintain the Sun Grant Information Analysis Center.

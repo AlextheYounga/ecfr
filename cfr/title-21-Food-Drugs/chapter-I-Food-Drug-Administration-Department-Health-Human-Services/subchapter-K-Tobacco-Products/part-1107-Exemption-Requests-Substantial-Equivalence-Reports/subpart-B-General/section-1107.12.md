@@ -98,10 +98,12 @@ For purposes of this part:
 
 *Substantial equivalence report* or *SE Report* means a submission under section 905(j)(1)(A)(i) of the Federal Food, Drug, and Cosmetic Act that includes the basis for the applicant's determination that a new tobacco product is substantially equivalent to a predicate tobacco product. This term includes the initial substantial equivalence report and all subsequent amendments.
 
-*Tobacco product* means any product made or derived from tobacco that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product). The term “tobacco product” does not mean an article that under the Federal Food, Drug, and Cosmetic Act is a drug (section 201(g)(1)), a device (section 201(h)), or a combination product (section 503(g)).
+*Tobacco product* means any product made or derived from tobacco, or containing nicotine from any source, that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product). The term “tobacco product” does not mean an article that under the Federal Food, Drug, and Cosmetic Act is: a drug (section 201(g)(1)); a device (section 201(h)); a combination product (section 503(g)); or a food (section 201(f)) if such article contains no nicotine or no more than trace amounts of naturally occurring nicotine.
 
 *Tobacco product manufacturer* means any person, including a repacker or relabeler, who:
 
 (1) Manufactures, fabricates, assembles, processes, or labels a tobacco product, or
 
 (2) Imports a finished tobacco product for sale or distribution in the United States.
+
+[86 FR 55275, Oct. 4, 2021, as amended at 88 FR 16552, Mar. 20, 2023]

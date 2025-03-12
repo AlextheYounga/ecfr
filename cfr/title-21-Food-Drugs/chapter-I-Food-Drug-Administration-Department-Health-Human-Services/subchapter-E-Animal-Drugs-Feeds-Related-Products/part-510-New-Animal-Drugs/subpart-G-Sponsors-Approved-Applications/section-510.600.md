@@ -50,6 +50,7 @@
 |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                        |     016592      |
 |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                            |     000115      |
 |                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                                                   |     000061      |
+|                                                  Ishihara Sangyo Kaisha, Ltd., 3-15, Edobori 1-chome, Nishi-ku, Osaka 550-0002, Japan                                                  |     064642      |
 |                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155                                                           |     086064      |
 |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104                                                         |     086149      |
 |                                                           Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia                                                            |     049480      |
@@ -97,6 +98,7 @@
 |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616                                                                   |     086113      |
 |                                                        Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                                                        |     053923      |
 |                                                                   Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007                                                                    |     054771      |
+|                                                             ZyVet Animal Health, Inc., 73 Route 31N, Pennington, NJ 08534                                                              |     086117      |
 
 (2) Numerical Listing of Sponsors
 
@@ -165,6 +167,7 @@
 |     063075      |                                                        Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964.                                                        |
 |     063286      |                                                Mylan Institutional LLC, a Viatris Company, 3711 Collins Ferry Rd., Morgantown, WV 26505.                                                |
 |     063604      |                                                               Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                                                                |
+|     064642      |                                                  Ishihara Sangyo Kaisha, Ltd., 3-15, Edobori 1-chome, Nishi-ku, Osaka 550-0002, Japan.                                                  |
 |     065085      |                                     Piramal Pharma Ltd., Ground Floor, Piramal Ananta, Agastya Corporate Park, Mumbai, Maharashtra, 400070, India.                                      |
 |     066104      |                                   Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666.                                   |
 |     066794      |                                                         Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                                                         |
@@ -186,6 +189,7 @@
 |     086101      |                                                       Felix Pharmaceuticals Pvt. Ltd., 25-28 North Wall Quay, Dublin 1, Ireland.                                                        |
 |     086106      |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                                 |
 |     086113      |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616.                                                                   |
+|     086117      |                                                             ZyVet Animal Health, Inc., 73 Route 31N, Pennington, NJ 08534.                                                              |
 |     086121      |                                                          Anivive Lifesciences, Inc., 3777 Worsham Ave., Long Beach, CA 90808.                                                           |
 |     086132      |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                              |
 |     086134      |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                                |

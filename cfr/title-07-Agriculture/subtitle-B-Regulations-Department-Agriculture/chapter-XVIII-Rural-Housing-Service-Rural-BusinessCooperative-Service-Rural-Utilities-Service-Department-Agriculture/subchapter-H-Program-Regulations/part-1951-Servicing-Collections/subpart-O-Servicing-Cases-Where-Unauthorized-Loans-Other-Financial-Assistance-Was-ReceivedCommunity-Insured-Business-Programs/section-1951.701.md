@@ -1,0 +1,5 @@
+##### § 1951.701 Purpose. #####
+
+This subpart prescribes the policies and procedures for servicing Community and Business Program loans and/or grants made by Rural Development when it is determined that the borrower or grantee was not eligible for all or part of the financial assistance received in the form of a loan, grant, or subsidy granted, or any other direct financial assistance. It does not apply to guaranteed loans. Loans sold without insurance by Rural Development to the private sector will be serviced in the private sector and will not be serviced under this subpart. The provisions of this subpart are not applicable to such loans. Future changes to this subpart will not be made applicable to such loans. This subpart does not apply to Water and Waste Programs of the Rural Utilities Service, Watershed loans, and Resource Conservation and Development Loans, which are serviced under part 1782 of this title.
+
+[72 FR 55018, Sept. 28, 2007]

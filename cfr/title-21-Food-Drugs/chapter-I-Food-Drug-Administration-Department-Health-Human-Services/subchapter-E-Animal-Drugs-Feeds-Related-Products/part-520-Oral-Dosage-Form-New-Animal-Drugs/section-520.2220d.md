@@ -6,10 +6,10 @@
 
 (c) *Related tolerances.* See § 556.640 of this chapter.
 
-(d) *Conditions of use in cattle* - (1) *Amount.* Administer 2.5 grams per 100 pounds body weight for 1 day followed by 1.25 grams per 100 pounds body weight per day; treat for 4 to 5 days.
+(d) *Conditions of use in cattle*—(1) *Amount.* Administer 2.5 grams per 100 pounds body weight for 1 day followed by 1.25 grams per 100 pounds body weight per day; treat for 4 to 5 days.
 
 (2) *Indications for use.* For the treatment of shipping fever complex and bacterial pneumonia associated with *Pasteurella* spp. sensitive to sulfadimethoxine; and calf diphtheria and foot rot associated with *Fusobacterium necrophorum* sensitive to sulfadimethoxine.
 
-(3) *Limitations.* Do not administer within 7 days of slaughter; milk that has been taken from animals during treatment and 60 hours (5 milkings) after the latest treatment must not be used for food. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(3) *Limitations.* Do not administer within 7 days of slaughter. Milk that has been taken from animals during treatment and 60 hours (five milkings) after the latest treatment must not be used for food. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 28829, May 20, 2014]
+[79 FR 28829, May 20, 2014, as amended at 88 FR 16547, Mar. 20, 2023]

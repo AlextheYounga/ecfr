@@ -1,0 +1,3 @@
+##### § 2500.101 Applicability of regulations. #####
+
+The regulations in this subpart apply to the Outreach and Assistance for Socially Disadvantaged Farmers and Ranchers (OASDFR) Program authorized under section 2501 of the Food, Agriculture, Conservation and Trade Act of 1990 (7 U.S.C. 2279), as amended. Unless otherwise specified in this subpart, the requirements of 7 CFR part 2500 subparts A through E will apply in addition to the requirements discussed in this subpart.

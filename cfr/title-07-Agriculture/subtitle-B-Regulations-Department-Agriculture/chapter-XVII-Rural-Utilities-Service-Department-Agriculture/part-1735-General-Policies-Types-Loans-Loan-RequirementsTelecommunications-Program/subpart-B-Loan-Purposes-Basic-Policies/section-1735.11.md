@@ -1,0 +1,3 @@
+##### § 1735.11 Area coverage. #####
+
+Borrowers must make adequate telephone service available to the widest practical number of rural subscribers during the life of the loan. Both the nature of the service area and the cost per subscriber must be fully considered. The borrower must seek to provide service to all interested potential subscribers in the service area. Borrowers are not required to extend service in situations where the costs would be exorbitant. The loan contract shall contain appropriate provisions to effect this requirement. See 7 CFR 1737.11(a), Preapplication Determinations: Area to be Served.
