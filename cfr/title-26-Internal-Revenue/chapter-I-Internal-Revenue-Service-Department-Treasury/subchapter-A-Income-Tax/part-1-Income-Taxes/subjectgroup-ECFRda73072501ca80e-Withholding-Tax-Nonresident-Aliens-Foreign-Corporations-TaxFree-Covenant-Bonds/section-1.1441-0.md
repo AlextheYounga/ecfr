@@ -428,7 +428,9 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) Status of payee as an intermediary or as a person acting for its own account.
 
-(ix) Certificates to furnished for each obligation unless exception applies.
+(C) Reliance on a prior version of a withholding certificate.
+
+(ix) Certificates to be furnished to withholding agent for each obligation unless exception applies.
 
 (A) Exception for certain branch or account systems or system maintained by agent.
 
@@ -462,7 +464,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (v) Withholding statement.
 
-(A) General rule.
+(A) In general.
 
 (B) Content of withholding statement.
 
@@ -478,15 +480,11 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (6) Qualified derivatives dealers.
 
-(f) Effective date.
+(f) Effective/applicability date.
 
 (1) In general.
 
-(2) Transition rules.
-
-(i) Special rules for existing documentation.
-
-(ii) Lack of documentation for past years.
+(2) Lack of documentation for past years.
 
 (3) Section 871(m) transactions.
 
@@ -1054,4 +1052,4 @@ Settlements.
 
 (e) Effective date.
 
-[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9808, 82 FR 2056, Jan. 6, 2017]Editorial Note:By T.D. 9808, 82 FR 2056, Jan. 6, 2017, § 1.1441-0 was amended; however, portions of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9808, 82 FR 2056, Jan. 6, 2017; 82 FR 29720, June 30, 2017]

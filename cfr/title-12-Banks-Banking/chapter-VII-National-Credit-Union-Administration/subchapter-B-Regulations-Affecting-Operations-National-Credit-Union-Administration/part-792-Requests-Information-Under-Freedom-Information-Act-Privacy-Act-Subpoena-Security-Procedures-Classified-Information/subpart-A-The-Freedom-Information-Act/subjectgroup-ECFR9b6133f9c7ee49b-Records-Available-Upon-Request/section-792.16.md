@@ -10,6 +10,6 @@
 
 (b) If you, or you and a group of others acting in concert, submit multiple requests that NCUA believes actually constitute a single request, which would otherwise satisfy the unusual circumstances criteria specified in this section, and the requests involve related matters, then NCUA may aggregate those requests and the provisions of § 792.15(b) will apply.
 
-(c) If NCUA sends you an extension notice, it will also advise you that you can either limit the scope of your request so that it can be processed within the statutory time limit or agree to an alternative time frame for processing your request. In such cases, NCUA will make available its FOIA Public Liaison and notify the requester of the right to seek dispute resolution services from the Office of Government Information Services.
+(c) If NCUA sends you an extension notice, it will also advise you that you can either limit the scope of your request so that it can be processed within the statutory time limit or agree to an alternative time frame for processing your request. In such cases, NCUA will make available its FOIA Public Liaison and notify you of the right to seek dispute resolution services from the Office of Government Information Services.
 
-[63 FR 14338, Mar. 25, 1998, as amended at 73 FR 30478, May 28, 2008; 81 FR 93794, Dec. 21, 2016]
+[63 FR 14338, Mar. 25, 1998, as amended at 73 FR 30478, May 28, 2008; 81 FR 93794, Dec. 22, 2016; 82 FR 29713, June 30, 2017]

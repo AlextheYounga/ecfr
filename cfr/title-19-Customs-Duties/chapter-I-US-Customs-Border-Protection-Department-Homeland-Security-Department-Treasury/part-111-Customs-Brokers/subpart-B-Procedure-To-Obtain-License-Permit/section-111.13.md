@@ -1,5 +1,7 @@
 ##### § 111.13 Written examination for individual license. #####
 
+Link to an amendment published at 82 FR 29718, June 30, 2017.
+
 (a) *Scope of examination.* The written examination for an individual broker's license will be designed to determine the individual's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters necessary to render valuable service to importers and exporters. The examination will be prepared and graded at Customs and Border Protection (CBP) Headquarters, Washington, DC.
 
 (b) *Basic requirements, date, and place of examination.* In order to be eligible to take the written examination, an individual must on the date of examination be a citizen of the United States who has attained the age of 18 years and who is not an officer or employee of the United States Government. Written examinations will be given on the first Monday in April and October unless the regularly scheduled examination date conflicts with a national holiday, religious observance, or other foreseeable event and the agency publishes in the Federal Register an appropriate notice of a change in the examination date. An individual who intends to take the written examination must so advise the port director in writing at least 30 calendar days prior to the scheduled examination date and must remit the $200 examination fee prescribed in § 111.96(a) at that time. The port director will give notice of the exact time and place for the examination.

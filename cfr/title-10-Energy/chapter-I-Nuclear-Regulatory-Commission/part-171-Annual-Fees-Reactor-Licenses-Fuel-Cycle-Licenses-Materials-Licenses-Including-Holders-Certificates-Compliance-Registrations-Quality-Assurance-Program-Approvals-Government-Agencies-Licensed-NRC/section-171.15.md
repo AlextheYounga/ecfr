@@ -1,5 +1,7 @@
 ##### § 171.15 Annual fees: Reactor licenses and independent spent fuel storage licenses. #####
 
+Link to an amendment published at 82 FR 30704, June 30, 2017.
+
 (a) Each person holding an operating license for a power, test, or research reactor; each person holding a combined license under part 52 of this chapter after the Commission has made the finding under 10 CFR 52.103(g); each person holding a part 50 or part 52 power reactor license that is in decommissioning or possession only status, except those that have no spent fuel onsite; and each person holding a part 72 license who does not hold a part 50 or part 52 license and provides notification in accordance with 10 CFR 72.80(g), shall pay the annual fee for each license held during the Federal fiscal year in which the fee is due. This paragraph does not apply to test or research reactors exempted under § 171.11(a).
 
 (b)(1) The FY 2016 annual fee for each operating power reactor which must be collected by September 30, 2016, is $4,856,000.

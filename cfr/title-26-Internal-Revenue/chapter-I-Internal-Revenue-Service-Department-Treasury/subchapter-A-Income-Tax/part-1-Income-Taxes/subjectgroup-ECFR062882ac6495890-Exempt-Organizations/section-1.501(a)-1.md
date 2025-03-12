@@ -2,15 +2,21 @@
 
 (a) *In general; proof of exemption.* (1) Section 501(a) provides an exemption from income taxes for organizations which are described in section 501 (c) or (d) and section 401(a), unless such organization is a *feeder organization* (see section 502), or unless it engages in a transaction described in section 503. However, the exemption does not extend to *unrelated business taxable income* of such an organization (see part III (Section 511 and following), subchapter F, chapter 1 of the Code).
 
-(2) [Reserved] For further guidance, see § 1.501(a)-1T(a)(2).
+(2) An organization, other than an employees' trust described in section 401(a), is not exempt from tax merely because it is not organized and operated for profit. In order to establish its exemption, it is necessary that every such organization claiming exemption file an application form as set forth below with the appropriate office as designated by the Commissioner in guidance published in the Internal Revenue Bulletin, forms, or instructions to the applicable forms. Subject only to the Commissioner's inherent power to revoke rulings, including with retroactive effect as permitted under section 7805(b), because of a change in the law or regulations or for other good cause, an organization that has been determined by the Commissioner (or previously by a district director) to be exempt under section 501(a) or the corresponding provision of prior law may rely upon such determination so long as there are no substantial changes in the organization's character, purposes, or methods of operation. An organization that has been determined to be exempt under the provisions of the Internal Revenue Code of 1939 or prior law is not required to secure a new determination of exemption merely because of the enactment of the Internal Revenue Code of 1954 unless affected by substantive changes in law made by such Code.
 
 (3) An organization claiming exemption under section 501(a) and described in any paragraph of section 501(c) (other than section 501(c)(1) shall file the form of application prescribed by the Commissioner and shall include thereon such information as required by such form and the instructions issued with respect thereto. For rules relating to the obtaining of a determination of exempt status by an employees' trust described in section 401(a), see the regulations under section 401.
 
-(b) *Additional proof by particular classes of organizations.* (1) [Reserved] For further guidance, see § 1.501(a)-1T(b)(1).
+(b) *Additional proof by particular classes of organizations.* (1) Unless otherwise prescribed by applicable regulations or other guidance published in the Internal Revenue Bulletin, organizations mentioned below shall submit with and as a part of their applications the following information:
+
+(i) Mutual insurance companies shall submit copies of the policies or certificates of membership issued by them.
+
+(ii) In the case of title holding companies described in section 501(c)(2), if the organization for which title is held has not been specifically notified in writing by the Internal Revenue Service that it is held to be exempt under section 501(a), the title holding company shall submit the information indicated herein as necessary for a determination of the status of the organization for which title is held.
+
+(iii) An organization described in section 501(c)(3) shall submit with, and as a part of, an application filed after July 26, 1959, a detailed statement of its proposed activities.
 
 (2) In addition to the information specifically called for by this section, the Commissioner may require any additional information deemed necessary for a proper determination of whether a particular organization is exempt under section 501(a), and when deemed advisable in the interest of an efficient administration of the internal revenue laws, he may in the cases of particular types of organizations prescribe the form in which the proof of exemption shall be furnished.
 
-(3) [Reserved] For further guidance, see § 1.501(a)-1T(b)(3).
+(3) An organization claiming to be specifically exempted by section 6033(a) from filing annual returns shall submit with and as a part of its application (or in such other manner as is prescribed in guidance published in the Internal Revenue Bulletin) a statement of all the facts on which it bases its claim.
 
 (c) *Private shareholder or individual defined.* The words *private shareholder or individual* in section 501 refer to persons having a personal and private interest in the activities of the organization.
 
@@ -18,6 +24,6 @@
 
 (e) *Certain Puerto Rican pension, etc., trusts.* Effective for taxable years beginning after December 31, 1973, section 1022(i)(1) of the Employee Retirement Income Security Act of 1974 (ERISA) (88 Stat. 942) provides that trusts under certain Puerto Rican pension, etc., plans (as defined under P.R. Laws Ann. tit. 13, section 3165, and the articles thereunder), all of the participants of which are residents of the Commonwealth of Puerto Rico, are to be treated only for purposes of section 501(a) as trusts described in section 401(a). The practical effect of section 1022(i)(1) is to exempt these trusts from U.S. income tax on income from their U.S. investments. For purposes of section 1022(i)(1), the term *residents of the Commonwealth of Puerto Rico* means bona fide residents of Puerto Rico, and persons who perform labor or services primarily within the Commonwealth of Puerto Rico, regardless of residence for other purposes, and the term *participants* is restricted to current employees who are not excluded under the eligibility provisions of the plan.
 
-(f) [Reserved] For further guidance, see § 1.501(a)-1T(f).
+(f) *Effective/applicability date.* Paragraphs (a)(2), (b)(1), and (b)(3) of this section apply on and after July 1, 2014.
 
-[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 7428, 41 FR 34619, Aug. 16, 1976; T.D. 7859, 47 FR 54298, Dec. 2, 1982; T.D. 9674, 79 FR 37631, July 2, 2014]
+[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 7428, 41 FR 34619, Aug. 16, 1976; T.D. 7859, 47 FR 54298, Dec. 2, 1982; T.D. 9674, 79 FR 37631, July 2, 2014; T.D. 9819, 82 FR 29732, June 30, 2017]

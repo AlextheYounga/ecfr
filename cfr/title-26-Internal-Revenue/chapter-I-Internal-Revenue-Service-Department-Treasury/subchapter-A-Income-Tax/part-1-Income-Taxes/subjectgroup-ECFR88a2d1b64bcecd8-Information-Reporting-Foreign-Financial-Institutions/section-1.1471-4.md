@@ -240,7 +240,7 @@ Example 1. Aggregation rules applicable to preexisting individual accounts.U, a 
 
 (D) The payments made with respect to the account, as described in paragraph (d)(4)(iv) of this section, during the calendar year; and
 
-(E) [Reserved] For further guidance, see § 1.1471-4T(d)(3)(ii)(E).
+(E) Such other information as is otherwise required to be reported under this paragraph (d)(3) or in the form described in paragraph (d)(3)(v) of this section and its accompanying instructions.
 
 (iii) *Accounts held by U.S. owned foreign entities.* With respect to each U.S. account described in paragraph (d)(3)(i) of this section that is held by a passive NFFE that is a U.S. owned foreign entity, a participating FFI is required to report under this paragraph (d)(3)(iii) -
 
@@ -380,7 +380,7 @@ Example 1. Aggregation rules applicable to preexisting individual accounts.U, a 
 
 (vii) *Record retention requirements.* A participating FFI that produces, in the ordinary course of its business, account statements that summarize the activity (including withdrawals, transfers, and closures) of an account held by a recalcitrant account holder described in paragraph (d)(6)(i)(B) of this section for any calendar year in which the account was required to be reported under paragraph (d)(6) of this section must retain a record of such account statements. Such record must be retained for the longer of six years or the retention period under the FFI's normal business procedures. A participating FFI may be required to extend the six year retention period if the IRS requests such an extension prior to the expiration of the six year period.
 
-(7) [Reserved] For further guidance, see § 1.1471-4T(d)(7).
+(7) *Special reporting rules with respect to the 2014 and 2015 calendar years.* [Reserved] For further guidance, see § 1.1471-4T(d)(7).
 
 (i) *In general.* If the effective date of the FFI agreement of a participating FFI is on or before December 31, 2015, the participating FFI is required to report U.S. accounts and accounts held by owner-documented FFIs that it maintained (or that it is otherwise required to report under paragraph (d)(2)(ii) of this section) during the 2014 and 2015 calendar years in accordance with paragraph (d)(7)(ii) or (iii) of this section.
 
@@ -606,4 +606,4 @@ Example 1.*Financial institution required to report U.S. account.* PFFI1, a part
 
 (2) [Reserved]. For further guidance, see § 1.1471-4T(j)(2).
 
-[T.D. 9610, 78 FR 5942, Jan. 28, 2013; 78 FR 55205, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12843, Mar. 6, 2014; 79 FR 37178, July 1, 2014; T.D. 9809, 82 FR 2167, Jan. 6, 2017]Editorial Note:By T.D. 9809, 82 FR 2167, Jan. 6, 2017, § 1.1471-4 was amended; however, portions of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 9610, 78 FR 5942, Jan. 28, 2013; 78 FR 55205, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12843, Mar. 6, 2014; 79 FR 37178, July 1, 2014; T.D. 9809, 82 FR 2167, Jan. 6, 2017; 82 FR 29729, June 30, 2017]

@@ -1,5 +1,7 @@
 ##### § 111.96 Fees. #####
 
+Link to an amendment published at 82 FR 29719, June 30, 2017.
+
 (a) *License fee; examination fee; fingerprint fee.* Each applicant for a broker's license pursuant to § 111.12 must pay a fee of $200 to defray the costs to Customs in processing the application. Each individual who intends to take the written examination provided for in § 111.13 must pay a $200 examination fee before taking the examination. An individual who submits an application for a license must also pay a fingerprint check and processing fee; the port director will inform the applicant of the current Federal Bureau of Investigation fee for conducting fingerprint checks and the Customs fingerprint processing fee, the total of which must be paid to Customs before further processing of the application will occur.
 
 (b) *Permit fee.* A fee of $100 must be paid in connection with each permit application under § 111.19 to defray the costs of processing the application, including an application for reinstatement of a permit that was revoked by operation of law or otherwise.

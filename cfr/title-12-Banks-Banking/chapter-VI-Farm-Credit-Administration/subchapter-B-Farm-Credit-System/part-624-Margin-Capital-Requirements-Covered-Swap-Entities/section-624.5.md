@@ -1,4 +1,4 @@
-##### § 624.5 Netting arrangements, minimum transfer amount, and satisfaction of collecting and posting requirements. #####
+##### § 624.5 Netting arrangements, minimum transfer amount and satisfaction of collecting and posting requirements. #####
 
 (a) *Netting arrangements.* (1) For purposes of calculating and complying with the initial margin requirements of § 624.3 using an initial margin model as described in § 624.8, or with the variation margin requirements of § 624.4, a covered swap entity may net non-cleared swaps or non-cleared security-based swaps in accordance with this subsection.
 

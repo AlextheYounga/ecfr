@@ -54,7 +54,7 @@
 
 (e) *Corporate debt obligation subsector limits.* In addition to the limitations in paragraph (d)(1)(viii) of this section, a corporate credit union must not exceed the lower of 200 percent of total capital or 10 percent of assets in any single North American Industry Classification System (NAICS) industry sector based on the value recorded on the books of the corporate credit union. If a corporation in which a corporate credit union is interested in investing does not have a readily ascertainable NAICS classification, a corporate credit union will use its reasonable judgment in assigning such a classification. NCUA may direct, however, that the corporate credit union change the classification.
 
-(f) *Credit ratings* - (1) Before purchasing an investment, a corporate credit union must conduct and document an analysis that reasonably concludes the investment has no more than a minimal amount of credit risk.
+(f) *Credit ratings.* (1) Before purchasing an investment, a corporate credit union must conduct and document an analysis that reasonably concludes the investment has no more than a minimal amount of credit risk.
 
 (2) A corporate credit union must identify and monitor any changes in credit quality of the investment and retain appropriate supporting documentation as long as the corporate owns the investment.
 

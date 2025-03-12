@@ -1,6 +1,6 @@
 ##### § 741.2 Maximum borrowing authority. #####
 
-(a)Any credit union which makes application for insurance of its accounts pursuant to title II of the Act, or any insured credit union, must not borrow, from any source, an aggregate amount in excess of 50 per centum of its paid-in and unimpaired capital and surplus (shares and undivided earnings, plus net income or minus net loss).
+(a) Any credit union which makes application for insurance of its accounts pursuant to title II of the Act, or any insured credit union, must not borrow, from any source, an aggregate amount in excess of 50 per centum of its paid-in and unimpaired capital and surplus (shares and undivided earnings, plus net income or minus net loss).
 
 (b) A federally insured state-chartered credit union may apply to the regional director for a waiver of paragraph (a) of this section up to the amount permitted under the applicable state law or by the state regulator. The waiver request must include:
 

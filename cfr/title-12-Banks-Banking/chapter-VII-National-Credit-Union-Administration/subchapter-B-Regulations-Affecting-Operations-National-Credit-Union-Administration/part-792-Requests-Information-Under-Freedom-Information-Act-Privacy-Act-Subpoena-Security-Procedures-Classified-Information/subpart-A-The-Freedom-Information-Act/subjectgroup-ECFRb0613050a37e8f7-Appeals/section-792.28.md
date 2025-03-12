@@ -8,4 +8,4 @@ If you are not satisfied with NCUA's response to your request, you can seek disp
 
 (c) All appeals should be addressed to the General Counsel in the Central Office and should be clearly identified as such on the envelope and in the letter of appeal by using the indicator “FOIA-APPEAL.” Failure to address an appeal properly may delay commencement of the time limitation stated in paragraph (a)(1) of this section, to take account of the time reasonably required to forward the appeal to the Office of General Counsel.
 
-[63 FR 14338, Mar. 25, 1998, as amended at 68 FR 61737, Oct. 30, 2003; 73 FR 30478, May 28, 2008; 73 FR 56938, Oct. 1, 2008; 81 FR 93795, Dec. 21, 2016]
+[63 FR 14338, Mar. 25, 1998, as amended at 68 FR 61737, Oct. 30, 2003; 73 FR 30478, May 28, 2008; 73 FR 56938, Oct. 1, 2008; 81 FR 93795, Dec. 22, 2016; 82 FR 29713, June 30, 2017]

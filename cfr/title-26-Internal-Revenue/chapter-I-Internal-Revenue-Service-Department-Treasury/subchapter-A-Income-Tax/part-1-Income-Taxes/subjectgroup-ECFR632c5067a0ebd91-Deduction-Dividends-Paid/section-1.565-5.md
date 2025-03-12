@@ -12,4 +12,8 @@
 
 (5) A draft on a domestic bank or a foreign bank maintaining a United States agency or branch and payable in United States funds.
 
-The amount of such payment shall be credited against the tax imposed on the shareholder.[T.D. 8244, 54 FR 10540, Mar. 14, 1989]
+The amount of such payment shall be credited against the tax imposed on the shareholder.
+
+(b) [Reserved]
+
+[T.D. 8244, 54 FR 10540, Mar. 14, 1989]

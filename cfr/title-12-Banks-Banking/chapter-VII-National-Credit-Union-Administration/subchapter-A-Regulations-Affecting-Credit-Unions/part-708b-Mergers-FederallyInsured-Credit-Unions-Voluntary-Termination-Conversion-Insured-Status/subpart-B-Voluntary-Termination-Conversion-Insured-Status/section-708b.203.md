@@ -18,6 +18,6 @@
 
 (g) Generally, the NCUA will conditionally approve or disapprove the conversion in writing within 14 days after receiving the certification of the vote. The credit union must complete the conversion within six months of the date of conditional approval. If a credit union fails to complete the conversion within six months the Regional Director will disapprove the conversion. The credit union's board of directors, if it still wishes to convert, must then adopt a new conversion proposal and solicit another member vote.
 
-(h) For conversions by merger, the merging credit unions must follow the procedures specified in subparts A and B of this part and use the forms specified in subpart C of this part. In the event the procedures of Subpart A and B conflict, the credit union must follow subpart B.
+(h) For conversions by merger, the merging credit unions must follow the procedures specified in subparts A and B of this part and use the forms specified in subpart C of this part. In the event the procedures of subpart A and B conflict, the credit union must follow subpart B.
 
 [70 FR 3288, Jan. 24, 2005, as amended at 73 FR 30477, May 28, 2008; 75 FR 81394, Dec. 28, 2010]

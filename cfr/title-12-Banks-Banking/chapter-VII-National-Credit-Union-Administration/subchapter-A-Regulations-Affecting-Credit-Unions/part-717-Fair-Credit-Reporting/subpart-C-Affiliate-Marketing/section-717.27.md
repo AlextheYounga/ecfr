@@ -32,7 +32,7 @@
 
 (8) A reasonable and simple method for the consumer to opt out.
 
-(c) *Timing of the renewal notice.* (1) *In general.* A renewal notice may be provided to the consumer either -
+(c) *Timing of the renewal notice* - (1) *In general.* A renewal notice may be provided to the consumer either -
 
 (i) A reasonable period of time before the expiration of the opt-out period; or
 

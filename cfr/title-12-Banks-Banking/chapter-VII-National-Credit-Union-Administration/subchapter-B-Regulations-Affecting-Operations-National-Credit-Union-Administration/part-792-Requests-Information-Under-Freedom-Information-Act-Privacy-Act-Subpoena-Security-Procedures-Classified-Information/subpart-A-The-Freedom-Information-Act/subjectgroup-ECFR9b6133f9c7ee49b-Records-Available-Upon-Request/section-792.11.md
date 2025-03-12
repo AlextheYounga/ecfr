@@ -12,7 +12,7 @@
 
 (5) Inter-agency or intra-agency memoranda or letters which would not be available by law to a private party in litigation with NCUA. This exemption preserves the existing freedom of NCUA officials and employees to engage in full and frank written or taped communications with each other and with officials and employees of other agencies. It includes, but is not limited to, inter-agency and intra-agency reports, memoranda, letters, correspondence, work papers, and minutes of meetings, as well as staff papers prepared for use within NCUA or in concert with other governmental agencies. In applying this exemption, the NCUA will not withhold records based on the deliberative process privilege if the records were created 25 years or more before the date on which the records were requested.
 
-(6) Personnel, medical, and similar files (including financial files) pertaining to another person, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy without the subject person's written consent or proof of death. Written consent consists of a written statement by the subject person, authorizing the release of the information to you, and including either the subject person's notarized signature or a declaration made under penalty of perjury that the statement is true and correct. Proof of death consists of evidence that the subject of your request is deceased - such as a death certificate, a newspaper obituary, or some comparable proof of death. Files exempt from disclosure include, but are not limited to:
+(6) Personnel, medical, and similar files (including financial files) pertaining to another person, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy without the subject person's written consent or proof of death. Written consent consists of a written statement by the subject person, authorizing the release of the information to you, and including either the subject person's notarized signature or a declaration made under penalty of perjury that the statement is true and correct. Proof of death consists of evidence that the subject of your request is deceased—such as a death certificate, a newspaper obituary, or some comparable proof of death. Files exempt from disclosure include, but are not limited to:
 
 (i) The personnel records of the NCUA;
 
@@ -38,4 +38,4 @@
 
 (b) We will provide any reasonably segregable portion of a requested record after deleting those portions that are exempt from disclosure under this section.
 
-[63 FR 14338, Mar. 25, 1998, as amended at 73 FR 56937, Oct. 1, 2008; 81 FR 93794, Dec. 21, 2016]
+[63 FR 14338, Mar. 25, 1998, as amended at 73 FR 56937, Oct. 1, 2008; 81 FR 93794, Dec. 22, 2016; 82 FR 29712, June 30, 2017]

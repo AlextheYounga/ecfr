@@ -8,8 +8,8 @@
 
 (d) The Information Center will normally process requests in the order they are received in the separate processing tracks. However, in NCUA's discretion, a particular request may be processed out of turn.
 
-(e) Upon a determination by the appropriate Information Center to comply with your initial request for records, the records will be made promptly available to you. NCUA will also advise the requester of the right to seek assistance from the FOIA Public Liaison. If we notify you of a denial of your request, we will include the reason for the denial. NCUA will also advise the requester of the right to utilize dispute resolution services offered by the FOIA Public Liaison and the Office of Government Information Services.
+(e) Upon a determination by the appropriate Information Center to comply with your initial request for records, the records will be made promptly available to you. NCUA will also advise you of the right to seek assistance from the FOIA Public Liaison. If we notify you of a denial of your request, we will include the reason for the denial. NCUA will also advise you of the right to utilize dispute resolution services offered by the FOIA Public Liaison and the Office of Government Information Services.
 
 (f) The Information Center will search for records responsive to your request and will generally include all records in existence at the time the search begins. If we use a different search cut-off date, we will inform you of that date.
 
-[63 FR 14338, Mar. 25, 1998, as amended at 68 FR 61737, Oct. 30, 2003; 73 FR 30478, May 28, 2008; 73 FR 56937, Oct. 1, 2008; 81 FR 93794, Dec. 21, 2016]
+[63 FR 14338, Mar. 25, 1998, as amended at 68 FR 61737, Oct. 30, 2003; 73 FR 30478, May 28, 2008; 73 FR 56937, Oct. 1, 2008; 81 FR 93794, Dec. 22, 2016; 82 FR 29712, June 30, 2017]

@@ -1,5 +1,7 @@
 ##### § 111.11 Basic requirements for a license. #####
 
+Link to an amendment published at 82 FR 29718, June 30, 2017.
+
 (a) *Individual.* In order to obtain a broker's license, an individual must:
 
 (1) Be a citizen of the United States on the date of submission of the application referred to in § 111.12(a) and not an officer or employee of the United States Government;

@@ -12,4 +12,4 @@ Except for records that are exempt from public disclosure under FOIA as amended 
 
 (e) Indices of the documents referred to in this paragraph.
 
-[63 FR 14338, Mar. 25, 1998, as amended at 81 FR 93794, Dec. 22, 2016]
+[63 FR 14338, Mar. 25, 1998, as amended at 81 FR 93794, Dec. 22, 2016; 82 FR 29712, June 30, 2017]

@@ -4,7 +4,7 @@ Link to an amendment published at 80 FR 66723, Oct. 29, 2015.
 
 (a) *Purpose.* This part is intended to accomplish two broad objectives. First, it sets out policy and program responsibilities that a federally insured credit union must adopt and implement as part of a safe and sound commercial lending program. Second, it incorporates the statutory limit on the aggregate amount of member business loans that a federally insured credit union may make pursuant to Section 107A of the Federal Credit Union Act. The rule distinguishes between these two distinct objectives.
 
-(b) *Credit unions and loans covered by this part.* (1) This part applies to federally insured natural person credit unions. However, a federally insured natural person credit union is not subject to § 723.3 and § 723.4 of this part if it meets all of the following conditions:
+(b) *Credit unions and loans covered by this part.* (1) This part applies to federally insured natural person credit unions. However, a federally insured natural person credit union is not subject to §§ 723.3 and 723.4 of this part if it meets all of the following conditions:
 
 (i) The credit union's total assets are less than $250 million.
 

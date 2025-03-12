@@ -10,7 +10,7 @@
 
 (3) The date by which the corporate credit union must file a written response to the notice (including a request for a hearing), which date will be no less than 14 calendar days from the date of service of the notice unless the Board determines that a shorter period is appropriate in light of the financial condition of the corporate credit union or other relevant circumstances; and
 
-(4) That a corporate credit union which fails to -
+(4) That a corporate credit union which fails to —
 
 (i) File a written response to the notice of reclassification, within the specified time period, will be deemed to have waived the opportunity to respond, and to have consented to reclassification;
 
@@ -30,7 +30,7 @@
 
 (d) *Order to hold informal hearing.* Upon timely receipt of a written response that includes a request for a hearing, the Board will issue an order commencing an informal hearing no later than 30 days after receipt of the request, unless the corporate credit union requests a later date. The hearing will be held in Alexandria, Virginia, or at such other place as may be designated by the Board, before a presiding officer designated by the Board to conduct the hearing and to recommend a decision.
 
-(e) *Procedures for informal hearing* - (1) The corporate credit union may appear at the hearing through a representative or through counsel. The corporate credit union will have the right to introduce relevant documents and to present oral argument at the hearing. The corporate credit union may introduce witness testimony only if expressly authorized by the Board or the presiding officer. Neither the provisions of the Administrative Procedure Act (5 U.S.C. 554-557) governing adjudications required by statute to be determined on the record nor the Uniform Rules of Practice and Procedure (12 CFR part 747) will apply to an informal hearing under this section unless the Board orders otherwise.
+(e) *Procedures for informal hearing.* (1) The corporate credit union may appear at the hearing through a representative or through counsel. The corporate credit union will have the right to introduce relevant documents and to present oral argument at the hearing. The corporate credit union may introduce witness testimony only if expressly authorized by the Board or the presiding officer. Neither the provisions of the Administrative Procedure Act (5 U.S.C. 554-557) governing adjudications required by statute to be determined on the record nor the Uniform Rules of Practice and Procedure (12 CFR part 747) will apply to an informal hearing under this section unless the Board orders otherwise.
 
 (2) The informal hearing will be recorded, and a transcript will be furnished to the corporate credit union upon request and payment of the cost thereof. Witnesses need not be sworn, unless specifically requested by a party or by the presiding officer. The presiding officer may ask questions of any witness.
 

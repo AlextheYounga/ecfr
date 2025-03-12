@@ -12,7 +12,7 @@
 
 (3) *Eligibility information.* The term “eligibility information” means any information the communication of which would be a consumer report if the exclusions from the definition of “consumer report” in section 603(d)(2)(A) of the Act did not apply. Eligibility information does not include aggregate or blind data that does not contain personal identifiers such as account numbers, names, or addresses.
 
-(4) *Pre-existing business relationship.* (i) *In general.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on -
+(4) *Pre-existing business relationship* - (i) *In general.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on -
 
 (A) A financial contract between the person and the consumer which is in force on the date on which the consumer is sent a solicitation covered by this subpart;
 
@@ -40,7 +40,7 @@
 
 (C) If a consumer makes a telephone call to a federal credit union in response to an advertisement that offers a free promotional item to consumers who call a toll-free number, but the advertisement does not indicate that the federal credit union's products or services will be marketed to consumers who call in response, the call does not create a pre-existing business relationship between the consumer and the federal credit union because the consumer has not made an inquiry about a product or service offered by the institution, but has merely responded to an offer for a free promotional item.
 
-(5) *Solicitation.* (i) *In general.* The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is -
+(5) *Solicitation* - (i) *In general.* The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is -
 
 (A) Based on eligibility information communicated to that person by its affiliate as described in this subpart; and
 

@@ -104,13 +104,13 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
 
 (*8*) The Federal credit union includes, in its written lending policies, a limit on the aggregate dollar amount of loans made under this section of a maximum of 20% of net worth and implements appropriate underwriting guidelines to minimize risk; for example, requiring a borrower to verify employment by producing at least two recent pay stubs.
 
-(B) *PAL Loan Program Guidance and Best Practices.* In developing a successful PAL loan program, a Federal credit union should consider how the program will help benefit a member's financial well-being while considering the higher degree of risk associated with this type of lending. The guidance and best practices are intended to help Federal credit unions minimize risk and develop a successful program, but are not an exhaustive checklist and do not guarantee a successful program with a low degree of risk.
+(B) *PAL Loan Program guidance and best practices.* In developing a successful PAL loan program, a Federal credit union should consider how the program will help benefit a member's financial well-being while considering the higher degree of risk associated with this type of lending. The guidance and best practices are intended to help Federal credit unions minimize risk and develop a successful program, but are not an exhaustive checklist and do not guarantee a successful program with a low degree of risk.
 
-(*1*) *Program Features.* Several features that may increase the success of a PAL loan program and enhance member benefit include adding a savings component, financial education, reporting of members' payment of PAL loans to credit bureaus, or electronic loan transactions as part of a PAL program. In addition, although a Federal credit union cannot require members to authorize a payroll deduction, a Federal credit union should encourage or incentivize members to utilize payroll deduction.
+(*1*) *Program features.* Several features that may increase the success of a PAL loan program and enhance member benefit include adding a savings component, financial education, reporting of members' payment of PAL loans to credit bureaus, or electronic loan transactions as part of a PAL program. In addition, although a Federal credit union cannot require members to authorize a payroll deduction, a Federal credit union should encourage or incentivize members to utilize payroll deduction.
 
 (*2*) *Underwriting.* Federal credit unions need to develop minimum underwriting standards that account for a member's need for quickly available funds, while adhering to principles of responsible lending. Underwriting standards should address required documentation for proof of employment or income, including at least two recent paycheck stubs. FCUs should be able to use a borrower's proof of recurring income as the key criterion in developing standards for maturity lengths and loan amounts so a borrower can manage repayment of the loan. For members with established accounts, FCUs should only need to review a member's account records and proof of recurring income or employment.
 
-(*3*) *Risk Avoidance.* Federal credit unions need to consider risk avoidance strategies, including: requiring members to participate in direct deposit and conducting a thorough evaluation of the Federal credit union's resources and ability to engage in a PAL loan program.
+(*3*) *Risk avoidance.* Federal credit unions need to consider risk avoidance strategies, including: requiring members to participate in direct deposit and conducting a thorough evaluation of the Federal credit union's resources and ability to engage in a PAL loan program.
 
 (8)(i) Except as otherwise provided herein, no official or employee of a Federal credit union, or immediate family member of an official or employee of a Federal credit union, may receive, directly or indirectly, any commission, fee, or other compensation in connection with any loan made by the credit union.
 
@@ -262,9 +262,7 @@ shall not be more favorable than the rates, terms and conditions for comparable 
 
 (iv) The term “net worth” means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2(f) of this chapter.
 
-(i) *Put option purchases in managing increased interest-rate risk for real estate loans produced for sale on the secondary market* -
-
-(1) *Definitions.* For purposes of § 701.21(i):
+(i) *Put option purchases in managing increased interest-rate risk for real estate loans produced for sale on the secondary market* - (1) *Definitions.* For purposes of § 701.21(i):
 
 (i) *Financial options contract* means an agreement to make or take delivery of a standardized financial instrument upon demand by the holder of the contract at any time prior to the expiration date specified in the agreement, under terms and conditions established either by:
 

@@ -40,7 +40,7 @@
 
 (A) through (F) [Reserved]. For further guidance, see § 1.1471-4(d)(2)(ii)(A) through (F).
 
-(G) *Combined reporting on Form 8966 following merger or bulk acquisition.* If a participating FFI (successor) acquires accounts of another participating FFI (predecessor) in a merger or bulk acquisition of accounts, the successor may assume the predecessor's obligations to report the acquired accounts under paragraph (d) of this section with respect the calendar year in which the merger or acquisition occurs (acquisition year), provided that the requirements in paragraphs (d)(2)(ii)(G)(*1*) through (*6*) of this section are satisfied. If the requirements of paragraphs (d)(2)(ii)(G)(*1*) through (*6*) of this section are not satisfied, both the predecessor and the successor are required to report the acquired accounts for the portion of the acquisition year that it maintains the account.
+(G) *Combined reporting on Form 8966 following merger or bulk acquisition.* If a participating FFI (successor) acquires accounts of another participating FFI (predecessor) in a merger or bulk acquisition of accounts, the successor may assume the predecessor's obligations to report the acquired accounts under paragraph (d) of this section with respect the calendar year in which the merger or acquisition occurs (acquisition year), provided that the requirements in paragraphs (d)(2)(ii)(G)(*1*) through (*4*) of this section are satisfied. If the requirements of paragraphs (d)(2)(ii)(G)(*1*) through (*4*) of this section are not satisfied, both the predecessor and the successor are required to report the acquired accounts for the portion of the acquisition year that it maintains the account.
 
 (*1*) The successor must acquire substantially all of the accounts maintained by the predecessor, or substantially all of the accounts maintained at a branch of the predecessor, in a merger or bulk acquisition of accounts for value.
 
@@ -84,4 +84,4 @@
 
 (k) *Expiration date.* The applicability of this section expires on December 30, 2019.
 
-[T.D. 9809, 82 FR 2176, Jan. 6, 2017]
+[T.D. 9809, 82 FR 2176, Jan. 6, 2017, as amended at 82 FR 29729, June 30, 2017]

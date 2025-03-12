@@ -128,6 +128,6 @@ Example 2.The facts are the same as in Example 1 except B will receive a final p
 
 (g) *Effective/applicability date.* This section applies to payments made on or after January 6, 2017. (For payments made after June 30, 2014, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1, revised April 1, 2016. For payments made after December 31, 2000, see this section as in effect and contained in 26 CFR part 1 revised April 1, 2013.)
 
-(h) [Reserved] For further guidance, see § 1.1441-4T(h).
+(h) [Reserved]
 
-[T.D. 6500, 25 FR 12075, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.1441-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 6500, 25 FR 12075, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.1441-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

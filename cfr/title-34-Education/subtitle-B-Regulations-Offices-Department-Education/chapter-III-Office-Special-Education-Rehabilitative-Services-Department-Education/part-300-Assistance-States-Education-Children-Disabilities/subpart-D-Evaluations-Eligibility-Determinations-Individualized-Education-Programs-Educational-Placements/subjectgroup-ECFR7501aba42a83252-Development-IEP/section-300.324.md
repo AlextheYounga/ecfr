@@ -1,6 +1,6 @@
 ##### § 300.324 Development, review, and revision of IEP. #####
 
-(a) *Development of IEP* - (1) *General.* In developing each child's IEP, the IEP Team must consider -
+(a) *Development of IEP*—(1) *General.* In developing each child's IEP, the IEP Team must consider—
 
 (i) The strengths of the child;
 
@@ -10,7 +10,7 @@
 
 (iv) The academic, developmental, and functional needs of the child.
 
-(2) *Consideration of special factors.* The IEP Team must -
+(2) *Consideration of special factors.* The IEP Team must—
 
 (i) In the case of a child whose behavior impedes the child's learning or that of others, consider the use of positive behavioral interventions and supports, and other strategies, to address that behavior;
 
@@ -22,7 +22,7 @@
 
 (v) Consider whether the child needs assistive technology devices and services.
 
-(3) *Requirement with respect to regular education teacher.* A regular education teacher of a child with a disability, as a member of the IEP Team, must, to the extent appropriate, participate in the development of the IEP of the child, including the determination of -
+(3) *Requirement with respect to regular education teacher.* A regular education teacher of a child with a disability, as a member of the IEP Team, must, to the extent appropriate, participate in the development of the IEP of the child, including the determination of—
 
 (i) Appropriate positive behavioral interventions and supports and other strategies for the child; and
 
@@ -36,11 +36,11 @@
 
 (6) *Amendments.* Changes to the IEP may be made either by the entire IEP Team at an IEP Team meeting, or as provided in paragraph (a)(4) of this section, by amending the IEP rather than by redrafting the entire IEP. Upon request, a parent must be provided with a revised copy of the IEP with the amendments incorporated.
 
-(b) *Review and revision of IEPs* - (1) *General.* Each public agency must ensure that, subject to paragraphs (b)(2) and (b)(3) of this section, the IEP Team -
+(b) *Review and revision of IEPs*—(1) *General.* Each public agency must ensure that, subject to paragraphs (b)(2) and (b)(3) of this section, the IEP Team—
 
 (i) Reviews the child's IEP periodically, but not less than annually, to determine whether the annual goals for the child are being achieved; and
 
-(ii) Revises the IEP, as appropriate, to address -
+(ii) Revises the IEP, as appropriate, to address—
 
 (A) Any lack of expected progress toward the annual goals described in § 300.320(a)(2), and in the general education curriculum, if appropriate;
 
@@ -56,11 +56,11 @@
 
 (3) *Requirement with respect to regular education teacher.* A regular education teacher of the child, as a member of the IEP Team, must, consistent with paragraph (a)(3) of this section, participate in the review and revision of the IEP of the child.
 
-(c) *Failure to meet transition objectives* - (1) *Participating agency failure.* If a participating agency, other than the public agency, fails to provide the transition services described in the IEP in accordance with § 300.320(b), the public agency must reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
+(c) *Failure to meet transition objectives*—(1) *Participating agency failure.* If a participating agency, other than the public agency, fails to provide the transition services described in the IEP in accordance with § 300.320(b), the public agency must reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
 
 (2) *Construction.* Nothing in this part relieves any participating agency, including a State vocational rehabilitation agency, of the responsibility to provide or pay for any transition service that the agency would otherwise provide to children with disabilities who meet the eligibility criteria of that agency.
 
-(d) *Children with disabilities in adult prisons* - (1) *Requirements that do not apply.* The following requirements do not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
+(d) *Children with disabilities in adult prisons*—(1) *Requirements that do not apply.* The following requirements do not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
 
 (i) The requirements contained in section 612(a)(16) of the Act and § 300.320(a)(6) (relating to participation of children with disabilities in general assessments).
 
@@ -68,6 +68,6 @@
 
 (2) *Modifications of IEP or placement.* (i) Subject to paragraph (d)(2)(ii) of this section, the IEP Team of a child with a disability who is convicted as an adult under State law and incarcerated in an adult prison may modify the child's IEP or placement if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
-(ii) The requirements of §§ 300.320 (relating to IEPs), and 300.112 (relating to LRE), do not apply with respect to the modifications described in paragraph (d)(2)(i) of this section.
+(ii) The requirements of §§ 300.320 (relating to IEPs), and 300.114 (relating to LRE), do not apply with respect to the modifications described in paragraph (d)(2)(i) of this section.
 
-(Authority: 20 U.S.C. 1412(a)(1), 1412(a)(12)(A)(i), 1414(d)(3), (4)(B), and (7); and 1414(e))
+(Authority: 20 U.S.C. 1412(a)(1), 1412(a)(12)(A)(i), 1414(d)(3), (4)(B), and (7); and 1414(e))[71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29761, June 30, 2017]

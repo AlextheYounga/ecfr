@@ -488,6 +488,8 @@ Example 1. Investment advisor.Fund Manager is an investment entity within the me
 
 (*vii*) Performs the verification procedures required under paragraphs (j) and (k) of this section; and
 
+(*viii*) Has not had its status as a sponsoring entity revoked.
+
 (*4*) The IRS may revoke a sponsoring entity's status as a sponsor with respect to all sponsored FFIs if there is a material failure by the sponsoring entity to comply with its obligations under paragraph (f)(1)(i)(F)(*3*) of this section with respect to any sponsored FFI.
 
 (*5*) A sponsoring entity is not liable for any failure to comply with the obligations contained in paragraph (f)(1)(i)(F)(*3*) of this section unless the sponsoring entity is a withholding agent that is separately liable for the failure to withhold on or report with respect to a payment made by the sponsoring entity on behalf of the sponsored FFI. A sponsored FFI will remain liable for any failure of its sponsoring entity to comply with the obligations contained in paragraph (f)(1)(i)(F)(*3*) of this section that the sponsoring entity has agreed to undertake on behalf of the FFI, even if the sponsoring entity is also a withholding agent and is itself separately liable for the failure to withhold on or report with respect to a payment made by the sponsoring entity on behalf of the sponsored FFI. The same tax, interest, or penalties, however, shall not be collected more than once.
@@ -538,7 +540,7 @@ Example 1. Investment advisor.Fund Manager is an investment entity within the me
 
 (B) A participating FFI, reporting Model 1 FFI, or U.S. financial institution agrees to fulfill all due diligence, withholding, and reporting responsibilities that the FFI would have assumed if it were a participating FFI.
 
-(C) Twenty or fewer individuals own all of the debt and equity interests in the FFI (disregarding debt interests owned by U.S. financial institutions, participating FFIs, registered deemed-compliant FFIs, and certified deemed-compliant FFIs and equity interests owned by an entity if that entity owns 100 percent of the equity interests in the FFI and is itself a sponsored FFI under this paragraph (f)(2)(iii).
+(C) Twenty or fewer individuals own all of the debt and equity interests in the FFI (disregarding debt interests owned by U.S. financial institutions, participating FFIs, registered deemed-compliant FFIs, and certified deemed-compliant FFIs and equity interests owned by an entity if that entity owns 100 percent of the equity interests in the FFI and is itself a sponsored FFI under this paragraph (f)(2)(iii)).
 
 (D) The sponsoring entity complies with the following requirements -
 
@@ -692,4 +694,4 @@ Example 1. Investment advisor.Fund Manager is an investment entity within the me
 
 (l) *Effective/applicability date.* This section applies on January 6, 2017. However, taxpayers may apply these provisions as of January 28, 2013. (For the rules that apply beginning on January 28, 2013, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1 revised April 1, 2016.)
 
-[T.D. 9610, 78 FR 5961, Jan. 28, 2013; 78 FR 55207, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12849, Mar. 6, 2014; T.D. 9809, 82 FR 2177, Jan. 6, 2017]Editorial Note:By T.D. 9809, 82 FR 2177, Jan. 6, 2017, § 1.1471-5 was amended; however, portions of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 9610, 78 FR 5961, Jan. 28, 2013; 78 FR 55207, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12849, Mar. 6, 2014; T.D. 9809, 82 FR 2177, Jan. 6, 2017; 82 FR 29729, June 30, 2017]

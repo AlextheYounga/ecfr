@@ -1,6 +1,6 @@
 ##### § 1.508-1 Notices. #####
 
-(a) *New organizations must notify the Commissioner that they are applying for recognition of section 501(c)(3) status* - (1) *In general.* Except as provided in subparagraph (3) of this paragraph, an organization that is organized after October 9, 1969, will not be treated as described in section 501(c)(3):
+(a) *New organizations must notify the Commissioner that they are applying for recognition of section 501(c)(3) status*—(1) *In general.* Except as provided in subparagraph (3) of this paragraph, an organization that is organized after October 9, 1969, will not be treated as described in section 501(c)(3):
 
 (i) Unless such organization has given the Commissioner notice in the manner prescribed in subparagraph (2) of this paragraph; or
 
@@ -8,9 +8,9 @@
 
 No organization shall be exempt from taxation under section 501(a) by reason of being described in section 501(c)(3) whenever such organization is not treated as described in section 501(c)(3) by reason of section 508(a) and this paragraph. See section 508(d)(2)(B) and § 1.508-2(b) regarding the deductibility of charitable contributions to an organization during the period such organization is not exempt under section 501(a) as an organization described in section 501(c)(3) by reason of failing to file a notice under section 508(a) and this subparagraph. See also § 1.508-2(b)(1)(viii) regarding the deductibility of charitable contributions to trusts described in section 4947(a)(1).
 
-(2) *Filing of notice.* (i) [Reserved] For further guidance, see § 1.508-1T(a)(2)(i).
+(2) *Filing of notice.* (i) For purposes of paragraph (a)(1) of this section, except as provided in paragraph (a)(3) of this section, an organization seeking exemption under section 501(c)(3) must file the notice described in section 508(a) within 15 months from the end of the month in which the organization was organized. Such notice is filed by submitting a properly completed and executed Form 1023 (or, if applicable, Form 1023-EZ) exemption application. Notice should be filed with the appropriate office as designated by the Commissioner in guidance published in the Internal Revenue Bulletin, forms, or instructions to the applicable forms. A request for extension of time for the filing of such notice should be submitted to such appropriate office. Such request may be granted if it demonstrates that additional time is required.
 
-(ii) [Reserved] For further guidance, see § 1.508-1T(a)(2)(ii).
+(ii) Although the information required by either Form 1023 or Form 1023-EZ must be submitted to satisfy the notice required by this section, the failure to supply, within the required time, all of the information required to complete such form is not alone sufficient to deny exemption from the date of organization to the date such complete information for such form is submitted by the organization. If the information that is submitted within the required time is incomplete, and the organization supplies the necessary additional information requested by the Commissioner within the additional time period allowed, the original notice will be considered timely.
 
 (iii) For purposes of subdivision (i) of this subparagraph and paragraph (b)(2)(i) of this section, an organization shall be considered *organized* on the date it becomes an organization described in section 501(c)(3) (determined without regard to section 508(a)).
 
@@ -46,7 +46,7 @@ If an organization fails to meet the requirements of (*a*), (*b*), or (*c*) of t
 
 (4) *Voluntary filings by new organizations excepted from filing notice.* Any organization excepted from the requirement of filing notice under section 508(a) will be exempt from taxation under section 501(c)(3) if it meets the requirements of that section, whether or not it files such notice. However, in order to establish its exemption with the Internal Revenue Service and receive a ruling or determination letter recognizing its exempt status, an organization excepted from the notice requirement by reason of subparagraph (3) of this paragraph should file proof of its exemption in the manner prescribed in § 1.501(a)-1.
 
-(b) *Presumption that old and new organizations are private foundations* - (1) *In general.* Except as provided in subparagraph (7) of this paragraph, any organization (including an organization in existence on October 9, 1969) which is described in section 501(c)(3), and which does not notify the Commissioner within the time and in the manner prescribed in subparagraph (2) that it is not a private foundation, will be presumed to be a private foundation.
+(b) *Presumption that old and new organizations are private foundations*—(1) *In general.* Except as provided in subparagraph (7) of this paragraph, any organization (including an organization in existence on October 9, 1969) which is described in section 501(c)(3), and which does not notify the Commissioner within the time and in the manner prescribed in subparagraph (2) that it is not a private foundation, will be presumed to be a private foundation.
 
 (2) *Filing of notice.* (i) Except as provided in subparagraph (7) of this paragraph, an organization must file the notice described in section 508(b) and subparagraph (1) of this paragraph within 15 months from the end of the month in which such organization was organized, or before March 22, 1973, whichever comes later. See paragraph (a)(2)(iii) of this section, for rules pertaining to when an organization is *organized.*
 
@@ -54,9 +54,9 @@ If an organization fails to meet the requirements of (*a*), (*b*), or (*c*) of t
 
 (iii) The financial schedule on Form 4653 need be completed only if the organization is, or thinks it might be, described in section 170(b)(1)(A) (iv) or (vi) or section 509(a)(2).
 
-(iv) [Reserved] For further guidance, see § 1.508-1T(b)(2)(iv).
+(iv) Any organization filing notice under this paragraph (b)(2)(iv) shall file its notice by submitting a properly completed and executed Form 1023 (or, if applicable, Form 1023-EZ) and providing information that it is not a private foundation. The organization shall also submit all information required by the regulations under section 170 or 509 (whichever is applicable) necessary to establish recognition of its classification as an organization described in section 509(a)(1), (2), (3), or (4). The notice required by this paragraph (b)(2)(iv) should be filed with the appropriate office as designated by the Commissioner in guidance published in the Internal Revenue Bulletin, forms, or instructions to the applicable forms.
 
-(v) [Reserved] For further guidance, see § 1.508-1T(b)(2)(v).
+(v) An extension of time for the filing of a notice under this paragraph (b)(2) may be granted by the office with which the notice is filed upon timely request by the organization, if the organization demonstrates that additional time is required.
 
 (3) *Effect of notice upon the filing organization.* (i) The notice filed under this paragraph may not be relied upon by the organization so filing unless and until the Internal Revenue Service notifies the organization that it is an organization described in paragraph (1), (2), (3), or (4), of section 509(a). For purposes of the preceding sentence, an organization that has filed notice under section 508(b), and has previously received a ruling that it is an organization described in section 170(b)(1)(A) (other than clauses (vii) and (viii) thereof), will be considered to have been notified by the Internal Revenue Service that it is an organization described in paragraph (1) of section 509(a) if (*a*) the facts and circumstances forming the basis for the issuance of such ruling have not substantially changed, and (*b*) the ruling issued under that section has not been revoked expressly or by a subsequent change of the law or regulations under which the ruling was issued.
 
@@ -100,6 +100,6 @@ If an organization fails to meet the requirements of (*a*), (*b*), or (*c*) of t
 
 (8) *Voluntary filings by organizations excepted from filing notice.* Any organization excepted from the requirement of filing notice under section 508(b) by reason of subdivisions (i), (ii), and (v) of subparagraph (7) of this paragraph may receive the benefits of subparagraph (4) of this paragraph by filing such notice.
 
-(c) [Reserved] For further guidance, see § 1.508-1T(c).
+(c) *Effective/applicability date.* Paragraphs (a)(2)(i), (a)(2)(ii), (b)(2)(iv), and (b)(2)(v) of this section apply on and after July 1, 2014.
 
-(Secs. 508 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805))[T.D. 7232, 37 FR 28289, Dec. 22, 1972, as amended by T.D. 7342, 40 FR 1237, Jan. 7, 1975; T.D. 7395, 41 FR 1063, Jan. 6, 1976; T.D. 8640, 60 FR 65552, Dec. 20, 1995; T.D. 9674, 79 FR 37632, July 2, 2014]
+(Secs. 508 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805))[T.D. 7232, 37 FR 28289, Dec. 22, 1972, as amended by T.D. 7342, 40 FR 1237, Jan. 7, 1975; T.D. 7395, 41 FR 1063, Jan. 6, 1976; T.D. 8640, 60 FR 65552, Dec. 20, 1995; T.D. 9674, 79 FR 37632, July 2, 2014; T.D. 9819, 82 FR 29733, June 30, 2017]
