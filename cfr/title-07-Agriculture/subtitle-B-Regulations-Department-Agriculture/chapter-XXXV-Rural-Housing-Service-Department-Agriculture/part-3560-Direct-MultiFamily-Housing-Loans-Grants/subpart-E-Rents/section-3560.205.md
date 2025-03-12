@@ -1,7 +1,5 @@
 ##### § 3560.205 Rent and utility allowance changes. #####
 
-Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
-
 (a) *General.* Borrowers must fully document that changes to rents and utility allowances are necessary to cover housing or utility costs allowed under the approved budget for the housing. Any changes must apply to all similar units in the housing project.
 
 (b) *Agency approval.* Borrowers must submit a fully documented request to the Agency to effect any rent or utility allowance change.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 
 (2) Borrowers must deliver the proposed rent or utility allowance change request notice to each tenant and post at least one copy of the notice at the housing project site in a visible location frequented by tenants.
 
-(e) *Approval.* If the Agency approves a rent or utility allowance increase request on which the comments were solicited, the borrower will deliver a notice announcing the rent or utility allowance change to the tenants to be effective 30 calendar days from the date of the notification.
+(e) *Approval.* If the Agency approves a rent or utility allowance increase request on which the comments were solicited, tenants or members receiving notice of a proposed rent or utility allowance change in accordance with paragraph (d)(2) of this section shall be notified of the rent or utility allowance change to be effective, at least 30 calendar days from the date of the notification.
 
 (f) *Denial of change request.* The Agency may deny a rent or utility allowance increase request in the following circumstances.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 (3) Sufficient funds are being collected under existing rents to meet approved expenses.
 
 (g) *Notice of denial.* If the rent change will not be approved as requested, the Agency will notify the borrower of the denial in accordance with § 3560.303(d).
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022]

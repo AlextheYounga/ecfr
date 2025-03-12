@@ -1,7 +1,7 @@
 ##### § 3560.258 Terms of agreement. #####
 
-Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
+(a) *Term of agreement.* Rental assistance agreements will have a term of the later of 12 months from the first disbursement of the obligation or when funds under the agreement are exhausted.
 
-(a) *Term of agreement.* Rental assistance agreements will be consistent with available funding. Rental assistance agreements expire when the funds obligated for rental assistance units are fully disbursed in accordance with the conditions of the agreement.
+(b) *Replacing expiring obligations.* Rental assistance agreements may be renewed in accordance with § 3560.255(a)(1).
 
-(b) *Replacing expiring obligations.* To the extent funds are available for replacement units, the Agency will renew rental assistance agreements.
+[87 FR 11283, Mar. 1, 2022]

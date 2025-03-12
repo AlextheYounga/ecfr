@@ -1,7 +1,5 @@
 ##### § 3560.302 Accounting, bookkeeping, budgeting, and financial management systems. #####
 
-Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
-
 (a) *General.* Borrowers must establish the accounting, bookkeeping, budgeting and financial management procedures necessary to conduct housing project operations in a financially safe and sound manner. Borrowers must maintain records in a manner suitable for an audit, and must be able to report accurate operational results to the Agency from these accounts and records.
 
 (b) *Acceptable methods of accounting.*(1) Borrowers are required to use the accrual method of accounting in preparing annual financial reports, as identified in § 3560.308.
@@ -18,9 +16,9 @@ Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
 
 (i) General operating account;
 
-(ii) Real estate tax and insurance account (if not part of the general operating account);
+(ii) Real estate tax and insurance account (if not part of the general operating account or unless escrowed by the Agency);
 
-(iii) Reserve account;
+(iii) Reserve account (unless escrowed by the Agency in accordance with § 3560.65);
 
 (iv) Tenant security deposit account;
 
@@ -32,13 +30,13 @@ Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
 
 (5) Regardless of the number or types of accounts established, the borrower must meet the following requirements:
 
-(i) All housing project funds must be held only in financial institution accounts insured by an agency of the Federal Government, backed by collateral provided by the bank, or held in securities meeting the conditions in this subpart.
+(i) All housing project funds must be held only in financial institution accounts insured by an agency of the Federal Government or held in securities meeting the conditions in this subpart.
 
-(ii) Funds maintained in an institution may not exceed the limit established for Federal deposit insurance. If funds exceed the amount covered by Federal deposit insurance, borrowers must obtain a collateral pledge from the institution to cover all funds or must move funds to an institution that will insure the funds.
+(ii) Funds maintained in an institution may not exceed the limit established for Federal deposit insurance. Funds exceeding the Federally insured limit under a Tax ID Number must be moved to a different qualified banking institution that will ensure the funds unless the current financial institution provides additional surety such as a collateral pledge that may already be in place.
 
 (iii) All funds and proceeds in any account must be used only for authorized purposes as described in Agency's regulations, loan or grant documents. Use of funds for non-program purposes constitutes non-monetary default as described in § 3560.452(c).
 
-(iv) All funds received and held in any account, except the tenant security deposit, membership fee, and patron capital accounts, must be held in trust by the borrower for the loan obligation until used and serve as security for the Agency loan or grant.
+(iv) All funds received and held in any account, except the tenant security deposit, membership fee, and patron capital accounts, are considered assets of the property and must be held in trust by the borrower for the loan obligations until used and serve as security, through transfers or assumptions for the Agency loan or grant until all outstanding balances are satisfied.
 
 (v) Borrowers must be able to account for housing project funds with accounting methods or practices that maintain the proprietary identity of the funds for each project. A borrower may operate one account for multiple projects as long as the funds for each project themselves are accounted for separately.
 
@@ -78,4 +76,4 @@ Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
 
 (g) *Farm Labor Housing.* Borrowers with on-farm labor housing units will be considered in compliance with this section by virtue of completing the record keeping and reporting requirements outlined in subpart M of this part.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49285, Oct. 25, 2017]
+[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49285, Oct. 25, 2017; 87 FR 11283, Mar. 1, 2022]

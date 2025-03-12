@@ -1,7 +1,5 @@
 ##### § 3560.72 Loan closing. #####
 
-Link to an amendment published at 87 FR 11280, Mar. 1, 2022.
-
 (a) *Requirements.* Loans will be closed in accordance with 7 CFR part 1927, subpart B and any state supplements. In all cases, the borrower must:
 
 (1) Provide evidence that an Agency-approved accounting system is in place;
@@ -28,6 +26,8 @@ Link to an amendment published at 87 FR 11280, Mar. 1, 2022.
 
 (10) Attend a pre-occupancy conference with the Agency.
 
-(b) *Cost certification.* In all cases, the borrower must report actual construction costs. Whenever the State Director determines it appropriate, and in all situations where there is an identity of interest as defined in 7 CFR 1924.4 (i), the borrower, contractor and any subcontractor, material supplier, or equipment lessor having an identity of interest must each provide certification as to the actual cost of the work performed in connection with the construction contract in accordance with 7 CFR part 1924, subpart A. The construction costs must also be audited in accordance with Governmental Auditing Standards, by a Certified Public Accountant (CPA). In some cases, the Agency will contract directly with a CPA for the cost certification. Funds that were included in the loan for cost certification and which are ultimately not needed because Agency contracts for the cost certification will be returned on the loan. Agency personnel will utilize exhibit M of 7 CFR part 1924, subpart A to assist in the evaluation of the cost certification process.
+(b) *Cost certification.* In all cases, the borrower must report actual construction costs. Whenever the Leadership Designee determines it appropriate, and in all situations where there is an identity of interest as defined in 7 CFR 1924.4 (i), the borrower, contractor and any subcontractor, material supplier, or equipment lessor having an identity of interest must each provide certification as to the actual cost of the work performed in connection with the construction contract in accordance with 7 CFR part 1924, subpart A. The construction costs must also be audited in accordance with Governmental Auditing Standards, by a Certified Public Accountant (CPA). In some cases, the Agency will contract directly with a CPA for the cost certification. Funds that were included in the loan for cost certification and which are ultimately not needed because Agency contracts for the cost certification will be returned on the loan. Agency personnel will utilize exhibit M of 7 CFR part 1924, subpart A to assist in the evaluation of the cost certification process.
 
 (c) *Notification of loan cancellation.* Loans may be canceled after approval and before loan closing. The Agency will notify all parties of the cancellation and the reasons for the cancellation in accordance with 7 CFR part 1927, subpart B.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11280, Mar. 1, 2022]

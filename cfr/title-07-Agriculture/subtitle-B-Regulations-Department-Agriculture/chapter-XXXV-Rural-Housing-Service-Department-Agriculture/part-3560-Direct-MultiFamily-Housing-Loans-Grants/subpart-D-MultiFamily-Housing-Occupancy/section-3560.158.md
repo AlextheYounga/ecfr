@@ -1,7 +1,5 @@
 ##### § 3560.158 Changes in tenant eligibility. #####
 
-Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
-
 (a) *General requirements.* Tenants must continue to meet the requirements of § 3560.152 to remain eligible for occupancy.
 
 (b) *Tenants no longer eligible.* Tenants who are no longer eligible for occupancy under the housing project's occupancy rules or do not meet the criteria set forth in § 3560.155(c) and (e) must vacate the property within 30 days of being notified by the borrower that they are no longer eligible for occupancy or at the expiration of their lease, whichever is greater, unless the conditions specified in paragraph (c) of this section exist.
@@ -24,8 +22,10 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 
 (2) Surviving or remaining members of the household may remain in the housing project, taking into consideration the conditions of paragraph (d)(1) of this section, but must move to a suitably sized rental unit within 30 days of its availability.
 
-(3) After the death of a tenant or co-tenant in elderly housing, the surviving members of the household, regardless of age but taking into consideration the conditions of paragraph (d)(1) of this section, may remain in the rental unit in which they were residing at the time of the tenant's or co-tenant's death, even if the household is over housed according to the housing project's occupancy rules as follows:
+(3) After the death of a tenant or co-tenant in elderly housing, the surviving members of the household, regardless of age but taking into consideration the conditions of paragraph (d)(1) of this section, may remain in the rental unit in which they were residing at the time of the tenant's or co-tenant's death, even if the household is over housed according to the housing project's occupancy rules except as follows:
 
 (i) Continued occupancy of the rental unit will not be allowed when in either situation of paragraph (d)(1) or (d)(3) of this section, the rental unit has accessibility features for individuals with disabilities, the household no longer has a need for such accessibility features, and the housing project has a tenant application from an individual with a need for the accessibility features;
 
 (ii) If the housing project does not have a tenant application from an individual with a need for the accessibility features, the household may remain in the rental unit with such features until the housing project receives an application from an individual with a need for accessibility features. The household in the unit with accessibility features will be required to move within 30 days of the housing project's receipt of a tenant application requiring accessibility features if another suitably sized unit without accessibility features is available in the project. If a suitably sized unit is not available in the project within 30 days, the tenant may remain in the unit with accessibility features until the first available unit in the project becomes available and then must move within 30 days.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022]

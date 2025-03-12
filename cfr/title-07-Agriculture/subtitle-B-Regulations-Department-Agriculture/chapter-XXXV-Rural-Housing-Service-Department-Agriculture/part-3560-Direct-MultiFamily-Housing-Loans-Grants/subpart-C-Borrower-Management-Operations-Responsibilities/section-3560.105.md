@@ -1,7 +1,5 @@
 ##### § 3560.105 Insurance and taxes. #####
 
-Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
-
 (a) *General.* Borrowers must purchase and maintain property insurance on all buildings included as security for an Agency loan. Also, borrowers must furnish fidelity coverage, liability insurance, and any other insurance coverage required by the Agency in accordance with this paragraph to protect the security of the asset. Failure to maintain adequate insurance coverage or pay taxes may lead to a non-monetary default under § 3560.452(c).
 
 (b) *General insurance requirements.* All insurance policies must meet the requirements established by the loan documents and this section.
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (3) If insurance that meets the Agency's specified requirements is not available (e.g., flood or hurricane insurance), the Agency may accept the insurance policy that most nearly conforms to established requirements.
 
-(4) If the best insurance policy a borrower can obtain at the time the borrower receives the loan or grant contains a loss deductible clause greater than that allowed by paragraph (f)(8) of this section, the insurance policy and an explanation of the reasons why more adequate insurance is not available must be submitted to the Agency prior to loan or grant approval.
+(4) If the best insurance policy a borrower can obtain at the time the borrower receives the loan or grant contains a loss deductible clause greater than that allowed by paragraph (f)(9) of this section, the insurance policy and an explanation of the reasons why more adequate insurance is not available must be submitted to the Agency prior to loan or grant approval.
 
 (d) *Credits, refunds, or rebates.* Borrowers must credit any refund or rebate from an insurance company to the project's general operating account or reserve account.
 
@@ -92,7 +90,7 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (v) *Sinkhole Insurance or Mine Subsidence Insurance.* The deductible for sinkhole insurance or mine subsidence insurance should be similar to what would be required for earthquake insurance.
 
-(10) Deductible amounts (excluding flood, windstorm, earthquake and sinkhole insurance or mine subsidence insurance) must be accounted for in the replacement reserve account. Borrowers who wish to increase the deductible amount must deposit an additional amount to the reserve account equal to the difference between the Agency's maximum deductible and the requested new deductible. The Borrower will be required to maintain this additional amount so long as the higher deductible is in force.
+(10) Deductible amounts (excluding flood, windstorm, earthquake and sinkhole insurance, or mine subsidence insurance) must be accounted for in the replacement reserve account, unless the deductible does not exceed the maximum deductible allowable as indicated in paragraph (f)(9)(i) of this section. Borrowers who wish to increase the deductible amount must deposit an additional amount to the reserve account equal to the difference between the Agency's maximum deductible and the requested new deductible. The Borrower will be required to maintain this additional amount so long as the higher deductible is in force.
 
 (g) *Liability insurance.* The borrower must carry comprehensive general liability insurance with coverage amounts that meet or exceed Agency requirements. This coverage must insure all common areas, commercial space, and public ways in the security premises. Coverage may also include borrower exposure to certain risks such as errors and omissions, environmental damages, or protection against discrimination claims. The insurer's limit of liability per occurrence for personal injury, bodily injury, or property damage under the terms of coverage must be at least $1 million.
 
@@ -143,3 +141,5 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 (2) Failure to pay taxes and assessments when due will be considered a default. If a borrower fails to pay outstanding taxes and assessments, the Agency will pay the outstanding balance and charge the tax or assessment amount, assessed penalties, and any additional incurred costs to the borrower's Agency account.
 
 (3) The Agency will require borrowers who have demonstrated an inability to pay taxes in a timely manner to escrow amounts sufficient to pay taxes.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]

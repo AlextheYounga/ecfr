@@ -1,7 +1,5 @@
 ##### § 3560.154 Tenant selection. #####
 
-Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
-
 (a) *Application for occupancy.* Borrowers must use tenant application forms that collect sufficient information to properly determine household eligibility and to enable the Agency to monitor compliance with the Fair Housing Act, section 504 of the Rehabilitation Act of 1973, and title VI of the Civil Rights Act of 1964 during compliance reviews. At a minimum, borrowers must use application forms that collect the following information:
 
 (1) Name of the applicant and present address;
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (8) Signature of the applicant and date;
 
-(9) Race, ethnicity, and sex designation. The following disclosure notice shall be used:
+(9) Race, ethnicity, and gender designation. The following disclosure notice shall be used:
 
 “The information regarding race, ethnicity, and sex designation solicited on this application is requested in order to assure the Federal Government, acting through the Rural Housing Service, that the Federal laws prohibiting discrimination against tenant applications on the basis of race, color, national origin, religion, sex, familial status, age, and disability are complied with. You are not required to furnish this information, but are encouraged to do so. This information will not be used in evaluating your application or to discriminate against you in any way. However, if you choose not to furnish it, the owner is required to note the race, ethnicity, and sex of individual applicants on the basis of visual observation or surname,” and
 
@@ -72,6 +70,6 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (i) *Purging waiting list.* Procedures used by borrowers to purge waiting list must be documented in the project's management plan and must be based on the length of the waiting list or the extent of time an applicant will be expected to wait for housing. At a minimum, borrowers must document removal of any names from the waiting list with the time and date of the removal. If an electronic waiting list is used, borrowers must periodically print out electronic waiting lists or preserve backup copies showing how the waiting list appeared before and after the removal of each name.
 
-(j) *Criminal activity.* Borrowers may deny admission for criminal activity or alcohol abuse by household members in accordance with the provisions of 24 CFR 5.854, 5.855, 5.856, and 5.857.
+(j) *Criminal activity.* Borrowers will deny admission for criminal activity or alcohol abuse by household members in accordance with the provisions of 24 CFR 5.854, 5.855, 5.856, and 5.857.
 
-Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.154(a)(7), implementation of the words “\* \* \* and a certification that the applicant is a U.S. citizen or a qualified alien as defined in § 3560.11 \* \* \*” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.154(a)(7), implementation of the words “\* \* \* and a certification that the applicant is a U.S. citizen or a qualified alien as defined in § 3560.11 \* \* \*” was delayed indefinitely.

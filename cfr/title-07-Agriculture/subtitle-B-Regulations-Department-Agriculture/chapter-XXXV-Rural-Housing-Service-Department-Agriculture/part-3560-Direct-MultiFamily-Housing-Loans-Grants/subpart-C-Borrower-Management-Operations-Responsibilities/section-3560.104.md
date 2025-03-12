@@ -1,10 +1,8 @@
 ##### § 3560.104 Fair housing. #####
 
-Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
-
 (a) *General.* Borrowers must comply with the requirements of the Fair Housing Amendments Act of 1988, and this section to meet their fair housing responsibilities.
 
-(b) *Affirmative Fair Housing Marketing Plan* - (1) Borrowers with housing projects that have four or more rental units must prepare and maintain an Affirmative Fair Housing Marketing Plan (AFHMP) as defined in 24 CFR part 200, subpart M.
+(b) *Affirmative Fair Housing Marketing Plan.* (1) Borrowers with housing projects that have five or more rental units must prepare and maintain an Affirmative Fair Housing Marketing Plan (AFHMP) as defined in 24 CFR part 200, subpart M.
 
 (2) Loan or grant applicants must submit an AFHMP for Agency approval prior to loan closing or grant approval. Plans must be updated by the borrower whenever components of the plan change.
 
@@ -65,3 +63,5 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 (2) Accessible parking spaces must be reserved for individuals with disabilities by a sign showing the international symbol of accessibility. The sign must be mounted on a post at a height that is readily visible from an occupied vehicle. In snow areas, the sign must be visible above piled snow. If there is an office, the designated parking space must be van accessible.
 
 (3) When the continuous unobstructed ingress or egress disabled accessibility route to a primary building entrance is other than the usual or obvious route, the alternate route for disabled accessibility must be clearly marked with international accessibility symbols and directional signs to aid a disabled person's ingress or egress to the building, through an accessible entrance, and to the accessible common use and public and living areas.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]

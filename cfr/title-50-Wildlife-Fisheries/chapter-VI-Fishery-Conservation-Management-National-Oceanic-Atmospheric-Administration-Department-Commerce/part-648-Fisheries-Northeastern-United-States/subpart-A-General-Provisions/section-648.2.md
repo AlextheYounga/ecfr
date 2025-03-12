@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 87 FR 1696, Jan. 12, 2022.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -506,7 +504,7 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Offload* or *offloading* means to begin to remove, to remove, to pass over the rail, or otherwise take away fish from any vessel. For purposes of the surfclam and ocean quahog fishery, it means to separate physically a cage from a vessel, such as by removing the sling or wire used to remove the cage from the harvesting vessel.
 
-*Open areas,* with respect to the Atlantic sea scallop fishery, means any area that is not subject to restrictions of the Sea Scallop Rotational Areas specified in §§ 648.59 and 648.60, the Northern Gulf of Maine Management Area specified in § 648.62, EFH Closed Areas specified in §§ 648.61 and 648.370, Dedicated Habitat Research areas specified in § 648.371, or the Frank R. Lautenberg Deep-Sea Coral Protection Area described in § 648.372.
+*Open areas,* with respect to the Atlantic sea scallop fishery, means any area that is not subject to restrictions of the Scallop Access Area Program specified in §§ 648.59 and 648.60, the Northern Gulf of Maine Management Area specified in § 648.62, Habitat Management Areas specified in § 648.370, Dedicated Habitat Research areas specified in § 648.371, the Frank R. Lautenberg Deep-Sea Coral Protection Area described in § 648.372, or the New England Deep-Sea Coral Protection Area in § 648.373.
 
 *Operational discards in the Atlantic herring fishery* means small amounts of fish that cannot be pumped on board and remain in the codend or seine at the end of pumping operations. Leaving small amounts of fish in the codend or seine at the end of pumping operations is operationally discarding catch.
 

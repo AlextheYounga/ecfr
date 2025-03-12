@@ -1,7 +1,5 @@
 ##### § 3560.152 Tenant eligibility. #####
 
-Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
-
 (a) *General requirements.* Except as specified in paragraph (b) of this section, a tenant eligible for occupancy in Agency-financed housing must either:
 
 (1) Be a United States citizen or qualified alien, and
@@ -12,9 +10,9 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (b) *Exception.* Households with incomes above the moderate-income level may occupy housing projects with an Agency loan approved prior to 1968 with a loan agreement that does not restrict occupancy by income.
 
-(c) *Requirements for elderly housing, elderly units in mixed housing, congregate housing, and group homes.* In addition to the requirements of paragraph (a) of this section, the following occupancy requirements apply to elderly housing, elderly units in mixed housing, and congregate housing or group homes:
+(c) *Requirements for elderly housing, congregate housing, and group homes.* In addition to the requirements of paragraph (a) of this section, the following occupancy requirements apply to elderly housing and congregate housing or group homes:
 
-(1) For elderly housing, elderly units in mixed housing, and congregate housing the following provisions apply:
+(1) For elderly housing and congregate housing, the following provisions apply:
 
 (i) Households must meet the definition of an elderly household in § 3560.11 to be eligible for occupancy in elderly or congregate housing.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (iii) Borrowers must submit initial or updated tenant certification forms to the Agency within 10 days of the effective date of an initial certification or any changes in a tenant's status. The effective date of an initial or updated tenant certification form will always be a first day of the month.
 
-(iv) Since tenant certifications are used to document interest credit and rental assistance eligibility and are a basic responsibility of the borrower under the loan documents, borrowers who fail to submit annual or updated tenant certification forms within the time period specified in paragraph (e)(2)(iii) of this section will be charged overage, as specified in § 3560.203(c). Unauthorized assistance, if any, will be handled in accordance with subpart O of this part.
+(iv) Since tenant certifications are used to document interest credit and rental assistance eligibility and are a basic responsibility of the borrower under the loan documents, borrowers who fail to submit annual or updated tenant certification forms within the time period specified in paragraph (e)(2)(iii) of this section will be charged overage, as specified in § 3560.203(c) and lost rental assistance. Unauthorized assistance, if any, will be handled in accordance with subpart O of this part.
 
 (v) Borrowers must submit tenant certification forms to the Agency using a format approved by the Agency.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
 
 (3) The Agency maintains the right to independently verify tenant eligibility information.
 
-Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.152(a)(1), implementation of the words “Be a United States citizen or qualified alien, and” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.152(a)(1), implementation of the words “Be a United States citizen or qualified alien, and” was delayed indefinitely.

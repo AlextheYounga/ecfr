@@ -1,7 +1,5 @@
 ##### § 3560.11 Definitions. #####
 
-Link to an amendment published at 87 FR 11279, Mar. 1, 2022.
-
 Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Administrator.* The head of the Rural Housing Service who reports directly to the Under Secretary for Rural Development in the U.S. Department of Agriculture.
@@ -22,7 +20,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Capital Needs Assessment.* A Capital Needs Assessment is designed to capture and report on the immediate and the long-range capital needs of an individual property. It includes attention to site features, mechanical and electrical systems, building exterior and common area systems, and dwelling unit interiors.
 
-*Caretaker.* An individual employed by a borrower or a management agent to handle routine interior and exterior maintenance and upkeep of a MFHMFH project.
+*Caretaker.* An individual employed by a borrower or a management agent to handle routine interior and exterior maintenance and upkeep of a MFH project.
 
 *Congregate housing.* A housing program authorized by section 515 of the Housing Act of 1949 which provides housing for elderly persons, individuals with disabilities, and families who require some supervision and central services but are otherwise able to care for themselves. Such housing does not include any licensed healthcare facility.
 
@@ -66,7 +64,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Disabled domestic farm laborer.* An individual with a disability as separately defined in this paragraph and who was a domestic farm laborer at the time of becoming disabled.
 
-*Domestic farm laborer.* A person who, consistent with the requirements in § 3560.576(b)(2), receives a substantial portion of his or her income from farm labor employment (not self-employed) in the United States, Puerto Rico, or the Virgin Islands and either is a citizen of the United States or resides in the United States, Puerto Rico or the Virgin Islands after being legally admitted for permanent residence. This definition may include the immediate family members residing with such a person.
+*Domestic farm laborer.* A person who, consistent with the requirements in § 3560.576(b)(2), receives a substantial portion of his or her income from farm labor employment (not self-employed) in the United States, Puerto Rico, or the Virgin Islands and either is a citizen of the United States or resides in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence, or a person legally admitted to the United States and authorized to work in agriculture. This definition may include the immediate family members residing with such a person.
 
 *Due diligence on hazardous substances.* Due diligence is the process of inquiring into the environmental conditions of real estate, in the context of a real estate transaction to determine the presence of contamination from hazardous substances, and to determine the impact such contamination may have on the market value of the property.
 
@@ -90,7 +88,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Farm labor.* Services in connection with cultivating the soil, raising or harvesting any agriculture or aquaculture commodity; or in catching, netting, handling, planting, drying, packing, grading, storing, or preserving in the unprocessed stage, without respect to the source of employment (but not self-employed), any agriculture or aquaculture commodity; or delivering to storage, market, or a carrier for transportation to market or to processing any agricultural or aquacultural commodity in its unprocessed stage.
 
-*Farm labor contractor.* A person - other than an agricultural employer, a member of an agricultural association, or an employee of an agricultural employer or agricultural association - who recruits, solicits, hires, employs, furnishes, or transports any year-round or seasonal migrant farm laborer for money or other valuable consideration.
+*Farm labor contractor.* A person—other than an agricultural employer, a member of an agricultural association, or an employee of an agricultural employer or agricultural association—who recruits, solicits, hires, employs, furnishes, or transports any year-round or seasonal migrant farm laborer for money or other valuable consideration.
 
 *Farm labor housing.* On-farm or off-farm housing for farm laborers authorized by section 514 and section 516 of the Housing Act of 1949.
 
@@ -154,9 +152,9 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Management agent.* A firm or individual employed or designated by a borrower to act on the borrower's behalf in accordance with a written management agreement.
 
-*Management agreement.* A written agreement between a borrower and a management agent setting forth the management agent's responsibilities and fees for management services.
+*Management agreement.* A written agreement between a borrower and an identity-of-interest (IOI) management agent or independent fee management agent setting forth the management agent's responsibilities and fees for management services.
 
-*Management fee.* The compensation provided to a management agent for services provided in accordance with a management agreement.
+*Management fee.* The compensation provided to a management agent for services provided in accordance with an approved management certification, Form RD 3560-13, “Multi-Family Project Borrower's/Management Agent's Management Certification.”
 
 *Management plan.* A detailed description of the policies and procedures to be followed by the borrower in managing a MFH project.
 
@@ -166,7 +164,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Market rent.* The most probable rent that a property should bring in a competitive and open market reflecting all conditions and restrictions of the specified lease agreement, including term, rental adjustment and revaluation, permitted uses, use restrictions, and expense obligations; the lessee and lessor each acting prudently and knowledgeably, and assuming consummation of a lease contract as a specified date and the passing of the leasehold from lessor to lessee.
 
-*Maximum debt limit.* The maximum amount that the Agency will lend or grant for a MFHMFH project based on the appraised value or total development cost excluding costs ineligible for payment from loan or grant funds, whichever is less, reduced by all funding available to the borrower from sources other than the Agency, multiplied by 95, 97, or 102 percent depending upon the applicant entity and their use of the low-income housing tax credit, in accordance with § 3560.63(b).
+*Maximum debt limit.* The maximum amount that the Agency will lend or grant for a MFH project based on the appraised value or total development cost excluding costs ineligible for payment from loan or grant funds, whichever is less, reduced by all funding available to the borrower from sources other than the Agency, multiplied by 95, 97, or 102 percent depending upon the applicant entity and their use of the low-income housing tax credit, in accordance with § 3560.63(b).
 
 *Member or co-member.* A stockholder or other person who has executed documents or stock pertaining to a cooperative housing type of living arrangement and has made a commitment to upholding the cooperative concept.
 
@@ -180,7 +178,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Net recovery value.* The value realized from the Government's acquisition of security property in a default situation after subtracting all costs, actual or anticipated, from acquiring, holding, and disposing of the security property.
 
-*New construction.* A MFHMFH project being constructed to be occupied for the first time.
+*New construction.* A MFH project being constructed to be occupied for the first time.
 
 *Nonprofit organization.* A private organization that:
 
@@ -218,7 +216,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Prepayment.* Payment in full of the outstanding balance on an Agency loan prior to the note's originally scheduled maturity date.
 
-*Program requirements.* All provisions related to MFHMFH contained in the loan document, grant agreement, statute, regulation, handbook, or administrative notice.
+*Program requirements.* All provisions related to MFH contained in the loan document, grant agreement, statute, regulation, handbook, or administrative notice.
 
 *Promissory note.* A legal document containing conditions (interest rate and timing) for repayment of indebtedness.
 
@@ -226,7 +224,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Rehabilitation.* Rehabilitation is when the remodeling of a property is of a complex nature involving structural repairs or when two or more of the life cycle cost components are included in the remodeling of a property.
 
-*Related facilities.* Facilities in a MFHMFH project that are related to the housing and are in addition to rental units, (e.g., community rooms or buildings, cafeterias, dining halls, infirmaries, child care facilities, assembly halls, and essential service facilities such as central heating, sewerage, lighting systems, clothes washing facilities, trash disposal and safe domestic water supply).
+*Related facilities.* Facilities in a MFH project that are related to the housing and are in addition to rental units, (e.g., community rooms or buildings, cafeterias, dining halls, infirmaries, child care facilities, assembly halls, and essential service facilities such as central heating, sewerage, lighting systems, clothes washing facilities, trash disposal and safe domestic water supply).
 
 *Rent.* The amount established as a charge for occupancy in a rental unit of Agency-financed MFH. Rents must be established at the same rate for all similar units in the housing project. The following terms are used to describe rents for various program purposes.
 
@@ -242,11 +240,11 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Rental assistance units.* Dwelling units in a MFH project qualified for rental assistance. There are three types of rental assistance units.
 
-(1) New construction units are units provided in conjunction with initial loans for construction or substantial rehabilitation of the MFHMFH projects.
+(1) New construction units are units provided in conjunction with initial loans for construction or substantial rehabilitation of the MFH projects.
 
 (2) Replacement units are Agency-funded rental assistance units which replace units with expiring rental assistance agreements or which replace Section 8 units which have expired under the Section 8 contract.
 
-(3) Servicing units are units provided to an operational MFHMFH project as a part of the Agency's general loan servicing or preservation activities.
+(3) Servicing units are units provided to an operational MFH project as a part of the Agency's general loan servicing or preservation activities.
 
 *Repair and replacement.* Repair and replacement is the restoration of minor building materials, elements, components, equipment and fixtures. Examples include: Painting, carpeting, appliances, cabinets, and other fixtures.
 
@@ -270,7 +268,7 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Rural area.* An area classified as a rural area prior to October 1, 1990, (even if within a Metropolitan Statistical Area), and any area deemed to be a `rural area' under any other provision of law at any time during the period beginning January 1, 2000, and ending December 31, 2010, shall continue to be so classified until the receipt of data from the decennial census in the year 2020 if such area has a population exceeding 10,000, but not in excess of 35,000, is rural in character, and has a serious lack of mortgage credit for low- and moderate-income families.
 
-*Rural Cooperative Housing (RCH).* A housing program authorized under section 515 of the Housing Act of 1949, in which a consumer cooperative, organized and operating on a nonprofit basis, may own and operate a MFHMFH development.
+*Rural Cooperative Housing (RCH).* A housing program authorized under section 515 of the Housing Act of 1949, in which a consumer cooperative, organized and operating on a nonprofit basis, may own and operate a MFH development.
 
 *Rural Housing Service (RHS).* The Agency within the Rural Development mission area of the U.S. Department of Agriculture or its successor agency which administers programs authorized by sections 514, 515, 516, and 521 of the Housing Act of 1949, as amended.
 
@@ -308,4 +306,4 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Workout agreement.* An agreement between a borrower and the Agency listing actions to be taken over a period of time to prevent or correct a compliance violation or to cure a monetary or non-monetary default.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 9912, Feb. 24, 2015; 82 FR 49285, Oct. 25, 2017]
+[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 9912, Feb. 24, 2015; 82 FR 49285, Oct. 25, 2017; 87 FR 11279, Mar. 1, 2022]

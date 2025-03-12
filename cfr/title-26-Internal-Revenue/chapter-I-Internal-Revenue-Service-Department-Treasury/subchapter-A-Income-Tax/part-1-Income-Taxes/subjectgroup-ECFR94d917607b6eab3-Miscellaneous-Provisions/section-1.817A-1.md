@@ -1,6 +1,6 @@
 ##### § 1.817A-1 Certain modified guaranteed contracts. #####
 
-(a) *Definitions* - (1) *Modified guaranteed contract.* The term *modified guaranteed contract* (MGC) is defined in section 817A(d) as an annuity, life insurance, or pension plan contract (other than a variable contract described in section 817) under which all or parts of the amounts received under the contract are allocated to a segregated account. Assets and reserves in this segregated account must be valued from time to time with reference to market values for annual statement purposes. Further, an MGC must provide either for a net surrender value or for a policyholder's fund (as defined in section 807(e)(1)). If only a portion of a contract is not described in section 817, such portion is treated as a separate contract for purposes of applying section 817A.
+(a) *Definitions*—(1) *Modified guaranteed contract.* The term *modified guaranteed contract* (MGC) is defined in section 817A(d) as an annuity, life insurance, or pension plan contract (other than a variable contract described in section 817) under which all or parts of the amounts received under the contract are allocated to a segregated account. Assets and reserves in this segregated account must be valued from time to time with reference to market values for annual statement purposes. Further, an MGC must provide either for a net surrender value or for a policyholder's fund (as defined in section 807(e)(1)). If only a portion of a contract is not described in section 817, such portion is treated as a separate contract for purposes of applying section 817A.
 
 (2) *Temporary guarantee period.* An MGC may temporarily guarantee a return other than the permanently guaranteed crediting rate for a period specified in the contract (the *temporary guarantee period*). During the temporary guarantee period, the amount paid to the policyholder upon surrender is usually increased or decreased by a market value adjustment, which is determined by a formula set forth under the terms of the MGC.
 
@@ -10,4 +10,6 @@
 
 (b) *Waiver of section 811(d) for certain non-equity-indexed modified guaranteed contracts.* Section 811(d) is waived during the temporary guarantee period when applied to non-equity-indexed MGCs.
 
-[T.D. 9058, 68 FR 24350, May 7, 2003]
+(c) *Applicability dates.* Paragraph (b) of this section applies to taxable years beginning after *October 13, 2020.* However, a taxpayer may choose to apply the rules of paragraph (b) of this section for a taxable year beginning after December 31, 2017, the effective date of the revision of section 807 by Public Law 115-97, and on or before *October 13, 2020,* provided the taxpayer consistently applies the rules of paragraph (b) of this section to that taxable year and all subsequent taxable years. *See* section 7805(b)(7). For taxable years beginning on or before *October 13, 2020, see* paragraph (b) of this section as contained in 26 CFR part 1 revised as of April 1, 2020.
+
+[T.D. 9058, 68 FR 24350, May 7, 2003, as amended by T.D. 9911, 85 FR 64394, Oct. 13, 2020]

@@ -1,7 +1,5 @@
 ##### § 3560.156 Lease requirements. #####
 
-Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
-
 (a) *Agency approval.* Borrowers must use a lease approved by the Agency. The lease must be consistent with Agency requirements and the requirements of all programs participating in the housing project. Prior to submitting the lease to the Agency for approval, borrowers must have their attorney certify that the lease complies with state and local laws, Agency requirements, and the requirements of all programs participating in the housing project. If there are conflicting requirements the borrower shall notify the Agency of the conflict and request guidance. Borrowers must execute their Agency approved lease with each tenant household prior to tenant occupancy of a rental unit.
 
 (b) *Lease requirements.* (1) All leases must be in writing.
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 
 (6) Leases must include a statement of the terms and conditions for modifying the lease.
 
-(c) *Required items and provisions.* (1) Leases for tenants who hold a Letter of Priority Entitlement (LOPE) issued according to § 3560.655(d) and are temporarily occupying a unit for which they are not eligible must include a clause establishing the tenant's responsibility to move when a suitable unit becomes available in the housing project.
+(c) *Required items and provisions.* (1) Leases for tenants who hold a Letter of Priority Entitlement (LOPE) issued according to § 3560.660(c) and are temporarily occupying a unit for which they are not eligible must include a clause establishing the tenant's responsibility to move when a suitable unit becomes available in the housing project.
 
 (2) Leases must contain a clause permitting escalation in the tenant contribution when there is an Agency-approved change in basic or note rate rents prior to the expiration of the lease. The escalation clause also must specify that the tenant contribution may be changed prior to expiration of the lease if the change is due to changes in tenant status, as documented on the tenant certification form, or the tenant's failure to properly recertify.
 
@@ -32,9 +30,11 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 
 (ii) Title VIII of the Fair Housing Act;
 
-(iii) Section 504 of the Rehabilitation Act of 1973; and
+(iii) Section 504 of the Rehabilitation Act of 1973;
 
-(iv) The Age Discrimination Act of 1975.
+(iv) The Age Discrimination Act of 1975; and
+
+(v) The Violence Against Women Reauthorization Act of 2013 and any amendments thereto.
 
 (7) Leases must establish the tenant's responsibility according to the housing project's occupancy rules to move to the next available appropriately sized rental unit if the household becomes over housed or under housed in the unit they occupy.
 
@@ -54,17 +54,19 @@ Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
 
 (15) Leases, including renewals, must include the following language:
 
-“It is understood that the use, or possession, manufacture, sale, or distribution of an illegal controlled substance (as defined by local, State, or federal law) while in or on any part of this apartment complex or cooperative is an illegal act. It is further understood that such action is a material lease violation. Such violations (hereafter called a “drug violation”) may be evidenced upon the admission to or conviction of the use, possession, manufacture, sale, or distribution of a controlled substance (as defined by local, state, or Federal law) in any local, state, or Federal court.
+“It is understood that the use, or possession, manufacture, sale, or distribution of an illegal controlled substance (as defined by local, State, Tribal or Federal law) while in or on any part of this apartment complex premises or cooperative is an illegal act. It is further understood that such action is a material lease violation. Such violations (hereafter called a “drug violation”) may be evidenced upon the admission to or conviction of the use, possession, manufacture, sale, or distribution of a controlled substance (as defined by local, State, Tribal, or Federal law) in any local, State, Tribal or Federal court.
 
 The landlord may require any lessee or other adult member of the tenant household occupying the unit (or other adult or non-adult person outside the tenant household who is using the unit) who commits a drug violation to vacate the leased unit permanently, within timeframes set by the landlord, and not thereafter to enter upon the landlord's premises or the lessee's unit without the landlord's prior consent as a condition for continued occupancy by the remaining members of the tenant's household. The landlord may deny consent for entry unless the person agrees to not commit a drug violation in the future and is either actively participating in a counseling or recovery program, complying with court orders related to a drug violation, or has successfully completed a counseling or recovery program.
 
-The landlord may require any lessee to show evidence that any non-adult member of the tenant household occupying the unit, who committed a drug violation, agrees not to commit a drug violation in the future, and to show evidence that the person is either actively seeking or receiving assistance through a counseling or recovery program, complying with court orders related to a drug violation, or has successfully completed a counseling or recovery program within timeframes specified by the landlord as a condition for continued occupancy in the unit. Should a further drug violation be committed by any non-adult person occupying the unit the landlord may require the person to be severed from tenancy as a condition for continued occupancy by the lessee.
+The landlord may require any lessee to show evidence that any non-adult member of the tenant household occupying the unit, who committed a drug violation, agrees not to commit a drug violation in the future, and to show evidence that the person is either actively seeking or receiving assistance through a counseling or recovery program, complying with court orders related to a drug violation, or has successfully completed a counseling or recovery program within timeframes specified by the landlord as a condition for continued occupancy in the unit.
+
+Should a further drug violation be committed by any non-adult person occupying the unit the landlord may require the person to be severed from tenancy as a condition for continued occupancy by the lessee.
 
 If a person vacating the unit, as a result of the above policies, is one of the lessees, the person shall be severed from the tenancy and the lease shall continue among any other remaining lessees and the landlord. The landlord may also, at the option of the landlord, permit another adult member of the household to be a lessee.
 
 Should any of the above provisions governing a drug violation be found to violate any of the laws of the land the remaining enforceable provisions shall remain in effect. The provisions set out above do not supplant any rights of tenants afforded by law.”
 
-(16) Leases for rental units accessible to individuals with disabilities occupied by those not needing the accessibility features must establish the tenant's responsibility to move to another unit when an appropriate unit becomes available or when the unit is needed by an eligible individual with disabilities. Additionally, the lease clause must require the borrower to provide tenants written notification of the date by which they must move to another unit in the project.
+(16) Leases for rental units accessible to individuals with disabilities occupied by those not needing the accessibility features must establish the tenant's responsibility to move to another unit within 30-days of written notification that the unit is needed by an eligible qualified person with disabilities who requires the accessibility features of the unit. Additionally, the lease clause must ensure that the household may remain in the rental unit with accessibility features until an appropriately sized vacant unit within the project becomes available and then must move or vacate within 30 days of notification from borrower.
 
 (17) If loan prepayment occurs and the housing project is subject to restrictive use provisions, leases and renewals must be amended to include a clause specifying the tenant protections required under subpart N of this part.
 
@@ -148,4 +150,4 @@ Should any of the above provisions governing a drug violation be found to violat
 
 (2) Leases must include a procedure for handling tenant's abandoned property, as provided by state or local law.
 
-Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.

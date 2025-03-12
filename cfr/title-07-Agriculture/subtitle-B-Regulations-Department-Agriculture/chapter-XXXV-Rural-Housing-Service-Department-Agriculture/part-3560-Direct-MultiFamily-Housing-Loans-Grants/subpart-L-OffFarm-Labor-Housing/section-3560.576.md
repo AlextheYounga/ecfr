@@ -1,7 +1,5 @@
 ##### § 3560.576 Occupancy restrictions. #####
 
-Link to an amendment published at 87 FR 11286, Mar. 1, 2022.
-
 (a) *Restrictions on conditions of occupancy.* (1) No borrower or grantee will be permitted to require that an occupant work on any particular farm or for any particular owner or interest as a condition of occupancy of the housing.
 
 (2) Tenant selection should be in accordance with the loan agreement, subpart D of this part and § 3560.577.
@@ -32,4 +30,6 @@ Link to an amendment published at 87 FR 11286, Mar. 1, 2022.
 
 (d) *Ineligible tenants.* Tenants who, at any time, fail to meet all the requirements in paragraph (b) of this section will be deemed ineligible for occupancy in off-farm labor housing. Ineligible tenants in off-farm labor housing will be addressed in accordance with the requirements of § 3560.158.
 
-(e) *Non-farm laborer tenants.* When there is a diminished need for housing for persons or families in the above categories, units in off-farm labor housing complexes may be made available to persons or families eligible for occupancy under § 3560.152. Eligible tenants under this section may occupy the labor housing until such time the units are again needed by persons or families eligible under paragraph (b) of this section. As the basis for Agency approval or disapproval of the borrower's determination of diminished need, the borrower must submit a current analysis of need and demand to the Agency, identical to the market analysis that is required of loan applicants in the loan origination process. The borrower's determination and the State Director's recommendation should be forwarded to the National Office for concurrence. The procedures specified in § 3560.158 shall be followed when tenants are required to vacate housing to allow for occupancy by persons eligible under paragraph (b) of this section.
+(e) *Non-farm laborer tenants.* When there is a diminished need for housing for persons or families in the above categories, units in off-farm labor housing complexes may be made available to persons or families eligible for occupancy under § 3560.152. Eligible tenants under this section may occupy the labor housing until such time the units are again needed by persons or families eligible under paragraph (b) of this section. As the basis for Agency approval or disapproval of the borrower's determination of diminished need, the borrower must submit a current analysis of need and demand to the Agency, identical to the market analysis that is required of loan applicants in the loan origination process. The borrower's determination and the MFH Leadership Designee's recommendation should be forwarded to the National Office for concurrence. The procedures specified in § 3560.158 shall be followed when tenants are required to vacate housing to allow for occupancy by persons eligible under paragraph (b) of this section.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11286, Mar. 1, 2022]
