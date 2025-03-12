@@ -1,7 +1,5 @@
 ##### § 1904.4 Recording criteria. #####
 
-Link to an amendment published at 81 FR 91809, Dec. 19, 2016.
-
 (a) *Basic requirement.* Each employer required by this part to keep records of fatalities, injuries, and illnesses must record each fatality, injury and illness that:
 
 (1) Is work-related; and
@@ -10,7 +8,7 @@ Link to an amendment published at 81 FR 91809, Dec. 19, 2016.
 
 (3) Meets one or more of the general recording criteria of § 1904.7 or the application to specific cases of §§ 1904.8 through 1904.12.
 
-(b) *Implementation* - (1) *What sections of this rule describe recording criteria for recording work-related injuries and illnesses?* The table below indicates which sections of the rule address each topic.
+(b) *Implementation*—(1) *What sections of this rule describe recording criteria for recording work-related injuries and illnesses?* The table below indicates which sections of the rule address each topic.
 
 (i) Determination of work-relatedness. See § 1904.5.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 81 FR 91809, Dec. 19, 2016.
 
 (2) *How do I decide whether a particular injury or illness is recordable?* The decision tree for recording work-related injuries and illnesses below shows the steps involved in making this determination.
 
-![](/graphics/er19ja01.098.gif)
+![](/graphics/er19ja01.098.gif)[66 FR 6122, Jan. 19, 2001, as amended at 81 FR 91809, Dec. 19, 2016; 82 FR 20548, May 3, 2017]

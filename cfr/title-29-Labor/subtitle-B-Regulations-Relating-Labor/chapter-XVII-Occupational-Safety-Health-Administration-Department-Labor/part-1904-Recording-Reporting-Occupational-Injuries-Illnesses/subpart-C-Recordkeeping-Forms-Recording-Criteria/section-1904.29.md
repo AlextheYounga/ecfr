@@ -1,10 +1,8 @@
 ##### § 1904.29 Forms. #####
 
-Link to an amendment published at 81 FR 91809, Dec. 19, 2016.
-
 (a) *Basic requirement.* You must use OSHA 300, 300-A, and 301 forms, or equivalent forms, for recordable injuries and illnesses. The OSHA 300 form is called the Log of Work-Related Injuries and Illnesses, the 300-A is the Summary of Work-Related Injuries and Illnesses, and the OSHA 301 form is called the Injury and Illness Incident Report.
 
-(b) *Implementation* - (1) *What do I need to do to complete the OSHA 300 Log?* You must enter information about your business at the top of the OSHA 300 Log, enter a one or two line description for each recordable injury or illness, and summarize this information on the OSHA 300-A at the end of the year.
+(b) *Implementation*—(1) *What do I need to do to complete the OSHA 300 Log?* You must enter information about your business at the top of the OSHA 300 Log, enter a one or two line description for each recordable injury or illness, and summarize this information on the OSHA 300-A at the end of the year.
 
 (2) *What do I need to do to complete the OSHA 301 Incident Report?* You must complete an OSHA 301 Incident Report form, or an equivalent form, for each recordable injury or illness entered on the OSHA 300 Log.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 81 FR 91809, Dec. 19, 2016.
 
 (iii) to a public health authority or law enforcement agency for uses and disclosures for which consent, an authorization, or opportunity to agree or object is not required under Department of Health and Human Services Standards for Privacy of Individually Identifiable Health Information, 45 CFR 164.512.
 
-[66 FR 6122, Jan. 19, 2001, as amended at 66 FR 52034, Oct. 12, 2001; 67 FR 77170, Dec. 17, 2002; 68 FR 38607, June 30, 2003]
+[66 FR 6122, Jan. 19, 2001, as amended at 66 FR 52034, Oct. 12, 2001; 67 FR 77170, Dec. 17, 2002; 68 FR 38607, June 30, 2003; 81 FR 91809, Dec. 19, 2016; 82 FR 20548, May 3, 2017]

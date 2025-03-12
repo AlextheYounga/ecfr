@@ -1,5 +1,7 @@
 ##### § 243.105 Optional model program development. #####
 
+Link to an amendment published at 82 FR 20552, May 3, 2017.
+
 (a) Any organization, business, or association may develop and submit one or more model training programs to FRA for review and approval so that the model program(s) may be used by multiple employers.
 
 (1) Any such model program should be submitted with a unique identifier associated with the program, or FRA will assign a unique identifier.

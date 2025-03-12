@@ -4,9 +4,9 @@
 
 (b) *Substitution of Commission for other agencies in court proceedings.* Pursuant to section 705(e) of the DOE Act, the Commission authorizes the Solicitor of the Commission to file the appropriate pleadings to substitute the Commission for the Interstate Commerce Commission or the Federal Power Commission as necessary in any pending court litigation, responsibility for which is transferred to the Commission.
 
-Appendix to § 375.104PART 1000 - TRANSFER OF PROCEEDINGS TO THE SECRETARY OF ENERGY AND THE FEDERAL ENERGY REGULATORY COMMISSION§ 1000.1 Transfer of proceedings.
+Appendix to § 375.104PART 1000—TRANSFER OF PROCEEDINGS TO THE SECRETARY OF ENERGY AND THE FEDERAL ENERGY REGULATORY COMMISSION§ 1000.1 Transfer of proceedings.
 
-(a)*Scope.* This part establishes the transfer of proceedings pending with regard to those functions of various agencies which have been consolidated in the Department of Energy and identifies those proceedings which are transferred into the jurisdiction of the Secretary and those which are transferred into the jurisdiction of the Federal Energy Regulatory Commission.
+(a) *Scope.*This part establishes the transfer of proceedings pending with regard to those functions of various agencies which have been consolidated in the Department of Energy and identifies those proceedings which are transferred into the jurisdiction of the Secretary and those which are transferred into the jurisdiction of the Federal Energy Regulatory Commission.
 
 (b) *Proceedings transferred to the Secretary.* The following proceedings are transferred to the Secretary:
 
@@ -46,7 +46,7 @@ For a document relating to procedures for natural gas import and export proceedi
 
 (15) From the Interstate Commerce Commission:
 
-(i) Ex Parte No. 308 (Sub-No. 1) - Investigation of Common Carrier Pipelines.
+(i) Ex Parte No. 308 (Sub-No. 1)—Investigation of Common Carrier Pipelines.
 
 (16) From the Federal Power Commission:
 
@@ -82,15 +82,15 @@ For a document relating to procedures for natural gas import and export proceedi
 
 (G) Bonneville Power Administration, Docket No. IT-5959, (ERA Docket No. PP-10).
 
-(H) EPR - Oregon (Geothermal Steam Leases).
+(H) EPR—Oregon (Geothermal Steam Leases).
 
-(I) EPR - Utah (Geothermal Steam Leases).
+(I) EPR—Utah (Geothermal Steam Leases).
 
-(J) EPR - Idaho (Geothermal Steam Leases).
+(J) EPR—Idaho (Geothermal Steam Leases).
 
-(K) EPR - Oregon (Geothermal Steam Leases).
+(K) EPR—Oregon (Geothermal Steam Leases).
 
-(L) EPR - Idaho (Geothermal Steam Leases).
+(L) EPR—Idaho (Geothermal Steam Leases).
 
 (iii) Rulemakings:
 
@@ -128,81 +128,81 @@ For a document relating to procedures for natural gas import and export proceedi
 
 (iv) Project withdrawals and power site revocations:
 
-(A) Project 1021, 1226, 1606, and 1772 - (Wyoming) - U.S. Forest Service (Applicant).
+(A) Project 1021, 1226, 1606, and 1772—(Wyoming)—U.S. Forest Service (Applicant).
 
-(B) Project Nos. 1021, 1226, 1606, and 1772 - (Wyoming) - U.S. Forest Service (Applicant).
+(B) Project Nos. 1021, 1226, 1606, and 1772—(Wyoming)—U.S. Forest Service (Applicant).
 
-(C) Project Nos. 220 and 691 - (Wyoming) - Cliff Gold Mining Co. (Applicant for P-691) The Colowyo Gold Mining Co. (Applicant for P-220).
+(C) Project Nos. 220 and 691—(Wyoming)—Cliff Gold Mining Co. (Applicant for P-691) The Colowyo Gold Mining Co. (Applicant for P-220).
 
-(D) Project No. 1203 - (Wyoming) - F. D. Foster (Applicant).
+(D) Project No. 1203—(Wyoming)—F. D. Foster (Applicant).
 
-(E) Project No. 1241 - (Wyoming) - F. B. Hommel (Applicant).
+(E) Project No. 1241—(Wyoming)—F. B. Hommel (Applicant).
 
-(F) Project No. 847 - (Oregon) - H. L. Vorse (Applicant).
+(F) Project No. 847—(Oregon)—H. L. Vorse (Applicant).
 
-(G) Project No. 907 - (Colorado) - S. B. Collins (Applicant).
+(G) Project No. 907—(Colorado)—S. B. Collins (Applicant).
 
-(H) Project No. 941 - (Colorado) - Marian Mining Company (Applicant).
+(H) Project No. 941—(Colorado)—Marian Mining Company (Applicant).
 
-(I) Project Nos. 347 and 418 - (Colorado) - Jones Brothers (Applicant for P-347) Frank Gay et al. (Applicant for P-418).
+(I) Project Nos. 347 and 418—(Colorado)—Jones Brothers (Applicant for P-347) Frank Gay et al. (Applicant for P-418).
 
-(J) Project Nos. 373, 521, 937, 1024, 1415, 1546, 1547, and 1025 - ( ) - U.S. Forest (Applicant).
+(J) Project Nos. 373, 521, 937, 1024, 1415, 1546, 1547, and 1025—( )—U.S. Forest (Applicant).
 
-(K) Project No. 163 - (Colorado) - James F. Meyser and Edward E. Drach (Applicants).
+(K) Project No. 163—(Colorado)—James F. Meyser and Edward E. Drach (Applicants).
 
-(L) Project Nos. 385, 445, 506, 519, 1220, 1296, 1418, 1519, 1576, 1615, 1616, 1618, 1678, 1682, and 1750 - (Colorado) - U.S. Forest Service (Applicant).
+(L) Project Nos. 385, 445, 506, 519, 1220, 1296, 1418, 1519, 1576, 1615, 1616, 1618, 1678, 1682, and 1750—(Colorado)—U.S. Forest Service (Applicant).
 
-(M) DA-117 - (Alaska) - Bureau of Land Management (Applicant).
+(M) DA-117—(Alaska)—Bureau of Land Management (Applicant).
 
-(N) Project No. 114 - (Alaska) - Elizabeth H. Graff et al. (Applicant).
+(N) Project No. 114—(Alaska)—Elizabeth H. Graff et al. (Applicant).
 
-(O) DA-222 - (Washington) - Bureau of Land Management (Applicant).
+(O) DA-222—(Washington)—Bureau of Land Management (Applicant).
 
-(P) DA-562 - (Oregon) - U.S. Geological Survey (Applicant).
+(P) DA-562—(Oregon)—U.S. Geological Survey (Applicant).
 
-(Q) DA-601 - (Idaho) - Bureau of Land Management (Applicant).
+(Q) DA-601—(Idaho)—Bureau of Land Management (Applicant).
 
-(R) DA-509 - (Colorado) - Fed. Highway Admin. (Applicant).
+(R) DA-509—(Colorado)—Fed. Highway Admin. (Applicant).
 
-(S) DA-616 - (Idaho) - U.S. Forest Service (Applicant).
+(S) DA-616—(Idaho)—U.S. Forest Service (Applicant).
 
-(T) DA-1 - (South Carolina) - U.S. Forest Service (Applicant).
+(T) DA-1—(South Carolina)—U.S. Forest Service (Applicant).
 
-(U) DA-1116 - (California) - U.S. Geological Survey (Applicant).
+(U) DA-1116—(California)—U.S. Geological Survey (Applicant).
 
-(V) DA-154 - (Arizona) - U.S. Geological Survey (Applicant).
+(V) DA-154—(Arizona)—U.S. Geological Survey (Applicant).
 
-(W) DA-1098 - (California) - Merced Irrigation District (Applicant).
+(W) DA-1098—(California)—Merced Irrigation District (Applicant).
 
 (c) *Proceedings transferred to the Commission.* There are hereby transferred to the jurisdiction of the Federal Energy Regulatory Commission the following proceedings:
 
 (1) From the Interstate Commerce Commission:
 
-(i) Ex Parte No. 308 - Valuation of Common Carrier Pipelines.
+(i) Ex Parte No. 308—Valuation of Common Carrier Pipelines.
 
-(ii) I&S 9164 - Trans Alaska Pipeline System - Rate Filings (including I&S 9164 (Sub-No. 1), NOR 36611, NOR 36611 (Sub-No. 1). NOR 36611 (Sub-No. 2), NOR 36611 (Sub-No. 3), NOR 36611 (Sub-No. 4)).
+(ii) I&S 9164—Trans Alaska Pipeline System—Rate Filings (including I&S 9164 (Sub-No. 1), NOR 36611, NOR 36611 (Sub-No. 1). NOR 36611 (Sub-No. 2), NOR 36611 (Sub-No. 3), NOR 36611 (Sub-No. 4)).
 
-(iii) I&S 9089 - General Increase, December 1975, Williams Pipeline Company.
+(iii) I&S 9089—General Increase, December 1975, Williams Pipeline Company.
 
-(iv) I&S 9128 - Anhydrous Ammonia, Gulf Central Pipeline Company.
+(iv) I&S 9128—Anhydrous Ammonia, Gulf Central Pipeline Company.
 
-(v) NOR 35533 (Sub-No. 3) - Petroleum Products, Southwest & Midwest Williams Pipeline.
+(v) NOR 35533 (Sub-No. 3)—Petroleum Products, Southwest & Midwest Williams Pipeline.
 
-(vi) NOR 35794 - Northville Dock Pipeline Corp. et al.
+(vi) NOR 35794—Northville Dock Pipeline Corp. et al.
 
-(vii) NOR 35895 - Inexco Oil Company v. Belle Fourche Pipeline Co. et al.
+(vii) NOR 35895—Inexco Oil Company v. Belle Fourche Pipeline Co. et al.
 
-(viii) NOR 36217 - Department of Defense v. Interstate Storage & Pipeline Corp.
+(viii) NOR 36217—Department of Defense v. Interstate Storage & Pipeline Corp.
 
-(ix) NOR 36423 - Petroleum Products Southwest to Midwest Points.
+(ix) NOR 36423—Petroleum Products Southwest to Midwest Points.
 
-(x) NOR 36520 - Williams Pipeline Company - Petroleum Products Midwest.
+(x) NOR 36520—Williams Pipeline Company—Petroleum Products Midwest.
 
-(xi) NOR 36553 - Kerr-McGee Refining Corporation v. Texoma Pipeline Co.
+(xi) NOR 36553—Kerr-McGee Refining Corporation v. Texoma Pipeline Co.
 
-(xii) Suspension Docket 67124 - Williams Pipeline Co. - General Increase.
+(xii) Suspension Docket 67124—Williams Pipeline Co.—General Increase.
 
-(xiii) Valuation Docket 1423 - Williams Pipeline Company (1971-1974 inclusive).
+(xiii) Valuation Docket 1423—Williams Pipeline Company (1971-1974 inclusive).
 
 (2) To remain with the Commission until forwarding to the Secretary:
 

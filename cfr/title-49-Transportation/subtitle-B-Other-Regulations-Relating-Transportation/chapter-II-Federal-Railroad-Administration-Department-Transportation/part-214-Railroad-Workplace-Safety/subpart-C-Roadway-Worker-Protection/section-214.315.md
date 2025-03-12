@@ -20,16 +20,4 @@
 
 (e) Each lone worker shall communicate at the beginning of each duty period with a supervisor or another designated employee to receive an on-track safety job briefing and to advise of his or her planned itinerary and the procedures that he or she intends to use for on-track safety. When communication channels are disabled, the job briefing shall be conducted as soon as possible after the beginning of the work period when communications are restored.
 
-[61 FR 65976, Dec. 16, 1996, as amended at 76 FR 74614, Nov. 30, 2011; 81 FR 37885, June 10, 2016]Effective Date Note:At 76 FR 74614, Nov. 30, 2011, § 214.315 is amended by revising paragraph (a), effective May 1, 2012. At 77 FR 13978, Mar. 8, 2012, the effective date was delayed until July 1, 2013. At 78 FR 33754, June 5, 2013, it was further delayed until July 1, 2014. For the convenience of the user, the new text is set forth as follows:
-
-##### § 214.315 Supervision and communication. #####
-
-(a) When an employer assigns a duty to a roadway worker that calls for that employee to foul a track, the employer shall provide the employee with an on-track safety job briefing that, at a minimum, includes the following:
-
-(1) Information on the means by which on-track safety is to be provided for each track identified to be fouled;
-
-(2) Instruction on each on-track safety procedure to be followed;
-
-(3) Information about any adjacent tracks, on-track safety for such tracks, if required by this subpart or deemed necessary by the roadway worker in charge, and identification of any roadway maintenance machines that will foul such tracks; and
-
-(4) A discussion of the nature of the work to be performed and the characteristics of the work location to ensure compliance with this subpart.
+[61 FR 65976, Dec. 16, 1996, as amended at 76 FR 74614, Nov. 30, 2011; 81 FR 37885, June 10, 2016]
