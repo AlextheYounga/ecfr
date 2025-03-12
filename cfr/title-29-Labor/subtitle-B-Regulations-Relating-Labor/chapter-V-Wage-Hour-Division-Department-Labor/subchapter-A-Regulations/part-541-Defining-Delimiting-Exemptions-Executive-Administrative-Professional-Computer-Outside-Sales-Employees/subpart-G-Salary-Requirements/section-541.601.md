@@ -1,5 +1,7 @@
 ##### § 541.601 Highly compensated employees. #####
 
+Link to an amendment published at 84 FR 51307, Sept. 27, 2019.
+
 (a) An employee shall be exempt under section 13(a)(1) of the Act if:
 
 (1) The employee receives total annual compensation of at least the annualized earnings amount of the 90th percentile of full-time nonhourly workers nationally; and

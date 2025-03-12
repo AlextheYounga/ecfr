@@ -178,6 +178,7 @@ Table 1 to Paragraph (b)
 |      NEBRASKA      |                         |
 |       Bayard       |          251A           |
 |       NEVADA       |                         |
+|      Caliente      |          264A           |
 |       Owyhee       |          247C3          |
 |   Silver Springs   |          273C           |
 |      Tonopah       |          224A           |

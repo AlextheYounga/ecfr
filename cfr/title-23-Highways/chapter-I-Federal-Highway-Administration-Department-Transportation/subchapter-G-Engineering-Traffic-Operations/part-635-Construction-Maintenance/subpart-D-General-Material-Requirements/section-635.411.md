@@ -1,5 +1,7 @@
 ##### § 635.411 Material or product selection. #####
 
+Link to an amendment published at 84 FR 51028, Sept. 27, 2019.
+
 (a) Federal funds shall not participate, directly or indirectly, in payment for any premium or royalty on any patented or proprietary material, specification, or process specifically set forth in the plans and specifications for a project, unless:
 
 (1) Such patented or proprietary item is purchased or obtained through competitive bidding with equally suitable unpatented items; or

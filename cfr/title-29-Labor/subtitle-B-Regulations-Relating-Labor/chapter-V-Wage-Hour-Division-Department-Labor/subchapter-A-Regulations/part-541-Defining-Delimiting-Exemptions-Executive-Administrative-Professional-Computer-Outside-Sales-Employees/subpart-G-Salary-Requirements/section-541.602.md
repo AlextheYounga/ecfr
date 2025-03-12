@@ -1,5 +1,7 @@
 ##### § 541.602 Salary basis. #####
 
+Link to an amendment published at 84 FR 51307, Sept. 27, 2019.
+
 (a) *General rule.* An employee will be considered to be paid on a “salary basis” within the meaning of this part if the employee regularly receives each pay period on a weekly, or less frequent basis, a predetermined amount constituting all or part of the employee's compensation, which amount is not subject to reduction because of variations in the quality or quantity of the work performed.
 
 (1) Subject to the exceptions provided in paragraph (b) of this section, an exempt employee must receive the full salary for any week in which the employee performs any work without regard to the number of days or hours worked. Exempt employees need not be paid for any workweek in which they perform no work.

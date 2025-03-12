@@ -1,5 +1,7 @@
 ##### § 541.204 Educational establishments. #####
 
+Link to an amendment published at 84 FR 51306, Sept. 27, 2019.
+
 (a) The term “employee employed in a bona fide administrative capacity” in section 13(a)(1) of the Act also includes employees:
 
 (1) Compensated on a salary or fee basis pursuant to § 541.600 at a rate per week of not less than the 40th percentile of weekly earnings of full-time nonhourly workers in the lowest-wage Census Region (or 84 percent of that amount per week, if employed in American Samoa by employers other than the Federal government), exclusive of board, lodging or other facilities; or on a salary basis which is at least equal to the entrance salary for teachers in the educational establishment by which employed. Beginning January 1, 2020, and every three years thereafter, the Secretary shall update the required salary amount pursuant to § 541.607; and

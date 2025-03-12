@@ -1,5 +1,7 @@
 ##### § 41.25 Additional conditions for trading for security futures products. #####
 
+Link to an amendment published at 84 FR 51021, Sept. 27, 2019.
+
 (a) *Common provisions* - (1) *Reporting of data.* The designated contract market shall comply with part 16 of this chapter requiring the daily reporting of market data.
 
 (2) *Regulatory trading halts.* The rules of a designated contract market that lists or trades one or more security futures products must include the following provisions:
