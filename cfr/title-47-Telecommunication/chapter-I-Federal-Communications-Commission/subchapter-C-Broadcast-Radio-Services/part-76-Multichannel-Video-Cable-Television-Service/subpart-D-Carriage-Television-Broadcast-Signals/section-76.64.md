@@ -1,10 +1,8 @@
 ##### § 76.64 Retransmission consent. #####
 
-Link to an amendment published at 86 FR 26186, May 13, 2021.
-
 (a) No multichannel video programming distributor shall retransmit the signal of any commercial broadcasting station without the express authority of the originating station, except as provided in paragraph (b) of this section.
 
-(b) A commercial broadcast signal may be retransmitted without express authority of the originating station if -
+(b) A commercial broadcast signal may be retransmitted without express authority of the originating station if—
 
 (1) The distributor is a cable system and the signal is that of a commercial television station (including a low-power television station) that is being carried pursuant to the Commission's must-carry rules set forth in § 76.56;
 
@@ -82,7 +80,7 @@ Link to an amendment published at 86 FR 26186, May 13, 2021.
 
 (k) A cable system commencing new operation is required to notify all local commercial and noncommercial broadcast stations of its intent to commence service. The cable operator must send such notification, by certified mail except as provided in this paragraph (k), at least 60 days prior to commencing cable service. After July 31, 2020, the cable operator must send such notification by electronic delivery in accordance with § 76.1600. Commercial broadcast stations must notify the cable system within 30 days of the receipt of such notice of their election for either must-carry or retransmission consent with respect to such new cable system. If the commercial broadcast station elects must-carry, it must also indicate its channel position in its election statement to the cable system. Such election shall remain valid for the remainder of any three-year election interval, as established in paragraph (f)(2) of this section. Noncommercial educational broadcast stations should notify the cable operator of their request for carriage and their channel position. The new cable system must notify each station if its signal quality does not meet the standards for carriage and if any copyright liability would be incurred for the carriage of such signal. Pursuant to § 76.57(e), a commercial broadcast station which fails to respond to such a notice shall be deemed to be a must-carry station for the remainder of the current three-year election period.
 
-(l) Exclusive retransmission consent agreements are prohibited. No television broadcast station shall make or negotiate any agreement with one multichannel video programming distributor for carriage to the exclusion of other multichannel video programming distributors. This paragraph shall terminate at midnight on January 1, 2020, provided that if Congress further extends this date, the rules remain in effect until the statutory authorization expires.
+(l) Exclusive retransmission consent agreements are prohibited. No television broadcast station shall make or negotiate any agreement with one multichannel video programming distributor for carriage to the exclusion of other multichannel video programming distributors.
 
 (m) A multichannel video programming distributor providing an all-band FM radio broadcast service (a service that does not involve the individual processing of specific broadcast signals) shall obtain retransmission consents from all FM radio broadcast stations that are included on the service that have transmitters located within 92 kilometers (57 miles) of the receiving antenna for such service. Stations outside of this 92 kilometer (57 miles) radius shall be presumed not to be carried in an all-band reception mode but may affirmatively assert retransmission consent rights by providing 30 days advance notice to the distributor.
 
@@ -90,4 +88,4 @@ Note 1 to § 76.64:
 
 Section 76.1608 provides notification requirements for a cable system that changes its technical configuration in such a way as to integrate two formerly separate cable systems.
 
-[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020; 85 FR 22651, Apr. 23, 2020; 85 FR 44217, July 22, 2020]
+[58 FR 17363, Apr. 2, 1993, as amended at 59 FR 62345, Dec. 5, 1994; 65 FR 15575, Mar. 23, 2000; 65 FR 53615, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 67 FR 17015, Apr. 9, 2002; 69 FR 72045, Dec. 10, 2004; 70 FR 40224, July 13, 2005; 74 FR 69286, Dec. 31, 2009; 80 FR 11330, Mar. 3, 2015; 83 FR 7626, Feb. 22, 2018; 84 FR 45669, Aug. 30, 2019; 85 FR 16005, Mar. 19, 2020; 85 FR 22651, Apr. 23, 2020; 85 FR 44217, July 22, 2020; 86 FR 26186, May 13, 2021]

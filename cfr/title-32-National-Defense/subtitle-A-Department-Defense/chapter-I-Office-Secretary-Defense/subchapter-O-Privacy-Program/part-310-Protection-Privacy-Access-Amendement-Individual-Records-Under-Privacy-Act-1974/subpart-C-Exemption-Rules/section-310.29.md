@@ -1,6 +1,6 @@
 ##### § 310.29 Office of the Secretary of Defense (OSD) exemptions. #####
 
-Link to an amendment published at 86 FR 26672, May 17, 2021.
+Link to an amendment published at 86 FR 26672, May 17, 2021.Link to an amendment published at 86 FR 31431, June 14, 2021.
 
 (a) *General information.* The Secretary of Defense designates those Office of the Secretary of Defense (OSD) systems of records which will be exempt from certain provisions of the Privacy Act. There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a system of records from all but a few requirements of the Act. The specific exemption authorizes exemption of a system of records or portion thereof, from only a few specific requirements. If an OSD Component originates a new system of records for which it proposes an exemption, or if it proposes an additional or new exemption for an existing system of records, it shall submit the recommended exemption with the records system notice as outlined in § 311.6. No exemption of a system of records shall be considered automatic for all records in the system. The systems manager shall review each requested record and apply the exemptions only when this will serve significant and legitimate Government purpose.
 

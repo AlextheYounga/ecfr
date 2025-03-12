@@ -1,5 +1,7 @@
 ##### § 310.16 Department of the Navy exemptions. #####
 
+Link to an amendment published at 86 FR 31431, June 14, 2021.
+
 (a) All systems of records maintained by the DON shall be exempt from the requirements of the access provision of the Privacy Act (5 U.S.C. 552a(d)) under the (k)(1) exemption, to the extent that the system contains information properly classified under E.O. 12958 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein that contain isolated items of properly classified information.
 
 (1) *System identifier and name.* N01070-9, White House Support Program.

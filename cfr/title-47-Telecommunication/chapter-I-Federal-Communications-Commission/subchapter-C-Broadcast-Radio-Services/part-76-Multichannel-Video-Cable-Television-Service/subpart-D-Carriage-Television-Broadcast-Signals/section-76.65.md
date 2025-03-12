@@ -1,14 +1,12 @@
 ##### § 76.65 Good faith and exclusive retransmission consent complaints. #####
 
-Link to an amendment published at 86 FR 26186, May 13, 2021.
-
 (a) *Duty to negotiate in good faith.* Television broadcast stations and multichannel video programming distributors shall negotiate in good faith the terms and conditions of retransmission consent agreements to fulfill the duties established by section 325(b)(3)(C) of the Act; provided, however, that it shall not be a failure to negotiate in good faith if:
 
 (1) The television broadcast station proposes or enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; or
 
 (2) The multichannel video programming distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations. If a television broadcast station or multichannel video programming distributor negotiates in accordance with the rules and procedures set forth in this section, failure to reach an agreement is not an indication of a failure to negotiate in good faith.
 
-(b) *Good faith negotiation* - (1) *Standards.* The following actions or practices violate a broadcast television station's or multichannel video programming distributor's (the “Negotiating Entity”) duty to negotiate retransmission consent agreements in good faith:
+(b) *Good faith negotiation*—(1) *Standards.* The following actions or practices violate a broadcast television station's or multichannel video programming distributor's (the “Negotiating Entity”) duty to negotiate retransmission consent agreements in good faith:
 
 (i) Refusal by a Negotiating Entity to negotiate retransmission consent;
 
@@ -34,21 +32,21 @@ Link to an amendment published at 86 FR 26186, May 13, 2021.
 
 (iii) A large station group has an obligation to negotiate in good faith for retransmission consent with a qualified MVPD buying group.
 
-(A) “Qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent -
+(A) “Qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent—
 
-(*1*) Negotiates on behalf of two or more multichannel video programming distributors -
+(*1*) Negotiates on behalf of two or more multichannel video programming distributors—
 
 (*i*) None of which is a multichannel video programming distributor that serves more than 500,000 subscribers nationally; and
 
 (*ii*) That do not collectively serve more than 25 percent of all households served by multichannel video programming distributors in any single local market in which the applicable large station group operates; and
 
-(*2*) Negotiates agreements for such retransmission consent -
+(*2*) Negotiates agreements for such retransmission consent—
 
 (*i*) That contain standardized contract provisions, including billing structures and technical quality standards, for each multichannel video programming distributor on behalf of which the entity negotiates; and
 
 (*ii*) Under which the entity assumes liability to remit to the applicable large station group all fees received from the multichannel video programming distributors on behalf of which the entity negotiates.
 
-(B) “Large station group” means a group of television broadcast stations that -
+(B) “Large station group” means a group of television broadcast stations that—
 
 (*1*) Are directly or indirectly under common de jure control permitted by the regulations of the Commission;
 
@@ -76,6 +74,4 @@ Link to an amendment published at 86 FR 26186, May 13, 2021.
 
 (3) The television broadcast station or multichannel video programming distributor has denied, unreasonably delayed, or failed to acknowledge a request to negotiate retransmission consent in violation of one or more of the rules contained in this subpart.
 
-(f) *Termination of rules.* This section shall terminate at midnight on January 1, 2020, provided that if Congress further extends this date, the rules remain in effect until the statutory authorization expires.
-
-[70 FR 40224, July 13, 2005, as amended at 74 FR 69286, Dec. 31, 2009; 79 FR 28630, May 19, 2014; 80 FR 11330, Mar. 3, 2015; 85 FR 36801, June 18, 2020; 85 FR 81812, Dec. 17, 2020]
+[70 FR 40224, July 13, 2005, as amended at 74 FR 69286, Dec. 31, 2009; 79 FR 28630, May 19, 2014; 80 FR 11330, Mar. 3, 2015; 85 FR 36801, June 18, 2020; 85 FR 81812, Dec. 17, 2020; 86 FR 26186, May 13, 2021]

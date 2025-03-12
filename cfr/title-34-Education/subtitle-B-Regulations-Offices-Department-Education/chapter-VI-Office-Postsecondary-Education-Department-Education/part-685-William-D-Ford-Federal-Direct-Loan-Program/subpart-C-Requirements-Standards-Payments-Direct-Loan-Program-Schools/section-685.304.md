@@ -1,5 +1,7 @@
 ##### § 685.304 Counseling borrowers. #####
 
+Link to an amendment published at 86 FR 31438, June 14, 2021.
+
 (a) *Entrance counseling.* (1) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each Direct Subsidized Loan or Direct Unsubsidized Loan student borrower prior to making the first disbursement of the proceeds of a loan to a student borrower unless the student borrower has received a prior Direct Subsidized Loan, Direct Unsubsidized Loan, Subsidized or Unsubsidized Federal Stafford Loan, or Federal SLS Loan.
 
 (2) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each graduate or professional student Direct PLUS Loan borrower prior to making the first disbursement of the loan unless the student borrower has received a prior student Direct PLUS Loan or student Federal PLUS Loan.

@@ -1,7 +1,5 @@
 ##### § 200.30-5 Delegation of authority to Director of Division of Investment Management. #####
 
-Link to an amendment published at 85 FR 57107, Sept. 15, 2020.
-
 Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
@@ -44,6 +42,8 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 (A) The prohibitions arise under section 9(a)(3) of the Act solely because the applicant employs a person who is disqualified under section 9(a) (1) or (2) of the Act; and
 
 (B) Applicant meets the requirements of paragraphs (a)(8)(i) (A) and (C) of this section.
+
+(9) To notify an applicant under 17 CFR 270.0-5(f)(1)(ii) that an application pursuant to the Act (15 U.S.C. 80a-1 *et seq.*) is not eligible for expedited review under 17 CFR 270.0-5.
 
 (b) With respect to matters pertaining to investment companies registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), pooled investment funds or accounts, and the general assets or separate accounts of insurance companies, all arising under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), and the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the same functions as are delegated to the Director of the Division of Corporation Finance in regard to companies other than such investment companies in paragraphs (a), (e), and (f) of § 200.30-1.
 

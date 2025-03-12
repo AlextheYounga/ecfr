@@ -1,5 +1,7 @@
 ##### § 310.20 Defense Intelligence Agency (DIA) exemptions. #####
 
+Link to an amendment published at 86 FR 31431, June 14, 2021.
+
 (a) All systems of records maintained by the Director Intelligence Agency shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive order to be kept secret in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not specifically designated for exemption may contain isolated information which has been properly classified.
 
 (b) The Director, Defense Intelligence Agency, designated the systems of records listed below for exemptions under the specified provisions of the Privacy Act of 1974, as amended (Pub. L. 93-579).
