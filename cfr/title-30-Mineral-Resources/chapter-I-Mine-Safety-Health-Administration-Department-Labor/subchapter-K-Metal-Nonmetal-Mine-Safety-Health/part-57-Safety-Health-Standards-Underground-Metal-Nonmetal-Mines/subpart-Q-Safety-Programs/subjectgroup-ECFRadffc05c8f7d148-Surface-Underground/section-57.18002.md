@@ -12,4 +12,4 @@
 
 (d) The operator shall maintain the examination records for at least one year, make the records available for inspection by authorized representatives of the Secretary and the representatives of miners, and provide these representatives a copy on request.
 
-[82 FR 7695, Jan. 23, 2017]
+[82 FR 7695, Jan. 23, 2017]Effective Date Note:At 82 FR 46412, Oct. 5, 2017, effective Oct. 5, 2017, § 57.18002 was stayed until June 2, 2018.

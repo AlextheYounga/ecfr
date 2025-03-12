@@ -40,7 +40,7 @@
 
 (2) The PSH and PSL sensors in flowlines from wells.
 
-(c) When pressure or atmospheric vessels are isolated from production facilities (*e.g.,* inlet valve locked closed or inlet blind-flanged) and are to remain isolated for an extended period of time, safety device testing in accordance with API RP 14C (incorporated by reference as specified in § 250.198), or this subpart is not required, with the exception of the PSV, unless the vessel is open to the atmosphere.
+(c) When pressure or atmospheric vessels are isolated from production facilities (e.g., inlet valve locked closed or inlet blind-flanged) and are to remain isolated for an extended period of time, safety device testing in accordance with API RP 14C (incorporated by reference as specified in § 250.198), or this subpart is not required, with the exception of the PSV, unless the vessel is open to the atmosphere.
 
 (d) All open-ended lines connected to producing facilities and wells must be plugged or blind-flanged, except those lines designed to be open-ended such as flare or vent lines.
 

@@ -20,4 +20,4 @@
 
 (d) BSEE may issue orders to ensure compliance with this part, including, but not limited to, orders to produce and submit records and to inspect, repair, and/or replace equipment. BSEE may also issue orders to shut-in operations of a component or facility because of a threat of serious, irreparable, or immediate harm to health, safety, property, or the environment posed by those operations or because the operations violate law, including a regulation, order, or provision of a lease, plan, or permit.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26014, Apr. 29, 2016; 81 FR 61015, Sept. 7, 2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26014, Apr. 29, 2016; 81 FR 61915, Sept. 7, 2016]

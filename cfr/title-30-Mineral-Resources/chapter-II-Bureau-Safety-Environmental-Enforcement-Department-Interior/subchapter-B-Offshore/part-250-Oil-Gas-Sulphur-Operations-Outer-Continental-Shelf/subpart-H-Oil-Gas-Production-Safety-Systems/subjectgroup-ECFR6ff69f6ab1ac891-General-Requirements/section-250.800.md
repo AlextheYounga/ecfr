@@ -4,7 +4,7 @@
 
 (b) For all new production systems on fixed leg platforms, you must comply with API RP 14J (incorporated by reference as specified in § 250.198);
 
-(c) For all new floating production systems (FPSs) (*e.g.,* column-stabilized-units (CSUs); floating production, storage and offloading facilities (FPSOs); tension-leg platforms (TLPs); and spars), you must:
+(c) For all new floating production systems (FPSs) (e.g., column-stabilized-units (CSUs); floating production, storage and offloading facilities (FPSOs); tension-leg platforms (TLPs); and spars), you must:
 
 (1) Comply with API RP 14J;
 

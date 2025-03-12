@@ -1,7 +1,5 @@
 ##### § 41.2 Exemption or waiver by Secretary of State and Secretary of Homeland Security of passport and/or visa requirements for certain categories of nonimmigrants. #####
 
-Link to an amendment published at 82 FR 41885, Sept. 5, 2017.
-
 Pursuant to the authority of the Secretary of State and the Secretary of Homeland Security under the INA, as amended, a passport and/or visa is not required for the following categories of nonimmigrants:
 
 (a) *Canadian citizens.* A visa is not required for an American Indian born in Canada having at least 50 percentum of blood of the American Indian race. A visa is not required for other Canadian citizens except for those who apply for admission in E, K, V, or S nonimmigrant classifications as provided in paragraphs (k) and (m) of this section and 8 CFR 212.1. A passport is required for Canadian citizens applying for admission to the United States, except when one of the following exceptions applies:
@@ -66,7 +64,7 @@ Pursuant to the authority of the Secretary of State and the Secretary of Homelan
 
 (h) [Reserved]
 
-(i) Except as provided in paragraphs (a) through (i) and (k) through (m) of this section, all aliens are required to present a valid, unexpired visa and passport upon arrival in the United States. An alien may apply for a waiver of the visa and passport requirement if, either prior to the alien's embarkation abroad or upon arrival at a port of entry, the responsible district director of the Department of Homeland Security (DHS) in charge of the port of entry concludes that the alien is unable to present the required documents because of an unforeseen emergency. The DHS district director may grant a waiver of the visa or passport requirement pursuant to INA 212(d)(4)(A), without the prior concurrence of the Department of State, if the district director concludes that the alien's claim of emergency circumstances is legitimate and that approval of the waiver would be appropriate under all of the attendant facts and circumstances.
+(i) *Individual cases of unforeseen emergencies.* Except as provided in paragraphs (a) through (h) and (j) through (l) of this section, all nonimmigrants are required to present a valid, unexpired visa and passport upon arrival in the United States. A nonimmigrant may apply for a waiver of the visa and passport requirement if, either prior to the nonimmigrant's embarkation abroad or upon arrival at a port of entry, the Department of Homeland Security (DHS), U.S. Customs and Border Protection (CBP) district director concludes that the nonimmigrant is unable to present the required documents because of an unforeseen emergency. The CBP district director may grant a waiver of the visa or passport requirement pursuant to INA 212(d)(4)(A), without the prior concurrence of the Department of State, if the CBP district director concludes that the nonimmigrant's claim of emergency circumstances is legitimate and that approval of the waiver would be appropriate under all of the attendant facts and circumstances.
 
 (j) *Fiance(e) of a U.S. citizen.* Notwithstanding the provisions of paragraphs (a) through (h) of this section, a visa is required of an alien described in such paragraphs who is classified, or who seeks classification, under INA 101(a)(15)(K).
 

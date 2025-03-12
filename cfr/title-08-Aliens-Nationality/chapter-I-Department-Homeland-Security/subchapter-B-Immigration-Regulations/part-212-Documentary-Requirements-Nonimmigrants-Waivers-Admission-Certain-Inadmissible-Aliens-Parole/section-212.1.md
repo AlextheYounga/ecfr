@@ -1,7 +1,5 @@
 ##### § 212.1 Documentary requirements for nonimmigrants. #####
 
-Link to an amendment published at 82 FR 41873, Sept. 5, 2017.
-
 A valid unexpired visa that meets the requirements of part 215, subpart B, of this chapter, if applicable, and an unexpired passport, shall be presented by each arriving nonimmigrant alien except that the passport validity period for an applicant for admission who is a member of a class described in section 102 of the Act is not required to extend beyond the date of his application for admission if so admitted, and except as otherwise provided in the Act, this chapter, and for the following classes:
 
 (a) *Citizens of Canada or Bermuda, Bahamian nationals or British subjects resident in certain islands.* (1) *Canadian citizens.* A visa is generally not required for Canadian citizens, except those Canadians that fall under nonimmigrant visa categories E, K, S, or V as provided in paragraphs (h), (l), and (m) of this section and 22 CFR 41.2. A valid unexpired passport is required for Canadian citizens arriving in the United States, except when meeting one of the following requirements:
@@ -136,7 +134,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (3) *Foreign government officials in transit.* If an alien is of the class described in section 212(d)(8) of the Act, only a valid unexpired visa and a travel document valid for entry into a foreign country for at least 30 days from the date of admission to the United States are required.
 
-(g) *Unforeseen emergency.* A nonimmigrant seeking admission to the United States must present an unexpired visa and passport valid for the amount of time set forth in section 212(a)(7)(B) of the Act, 8 U.S.C. 1182(a)(7), or a valid biometric border crossing card, issued by the DOS on Form DSP-150, at the time of application for admission, unless the nonimmigrant satisfies the requirements described in one or more of the paragraphs (a) through (f) or (i), (o), or (p) of this section. Upon a nonimmigrant's application on Form I-193, “Application for Waiver of Passport and/or Visa,” a district director may, in the exercise of his or her discretion, on a case-by-case basis, waive the documentary requirements, if satisfied that the nonimmigrant cannot present the required documents because of an unforeseen emergency. The district director may at any time revoke a waiver previously authorized pursuant to this paragraph and notify the nonimmigrant in writing to that effect.
+(g) *Unforeseen emergency.* A nonimmigrant seeking admission to the United States must present an unexpired visa and passport valid for the amount of time set forth in section 212(a)(7)(B)(i) of the Act, 8 U.S.C. 1182(a)(7)(B)(i), or a valid biometric border crossing card issued by the DOS on Form DSP-150, at the time of application for admission, unless the nonimmigrant satisfies the requirements described in one or more of paragraphs (a) through (f) or (i), (o), or (p) of this section. Upon a nonimmigrant's application on Form I-193, or successor form, “Application for Waiver of Passport and/or Visa,” a district director may, in the exercise of its discretion, on a case-by-case basis, waive either or both of the documentary requirements of section 212(a)(7)(B)(i) if satisfied that the nonimmigrant cannot present the required documents because of an unforeseen emergency. The district director may at any time revoke a waiver previously authorized pursuant to this paragraph and notify the nonimmigrant in writing to that effect.
 
 (h) *Nonimmigrant spouses, fiancées, fiancés, and children of U.S. citizens.* Notwithstanding any of the provisions of this part, an alien seeking admission as a spouse, fiancée, fiancé, or child of a U.S. citizen, or as a child of the spouse, fiané, or finacée of a U.S. citizen, pursuant to section 101(a)(15)(K) of the Act shall be in possession of an unexpired nonimmigrant visa issued by an American consular officer classifying the alien under that section, or be inadmissible under section 212(a)(7)(B) of the Act.
 
@@ -158,7 +156,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (p) *Alien in U-1 through U-5 classification.* Individuals seeking U-1 through U-5 nonimmigrant status may avail themselves of the provisions of paragraph (g) of this section, except that the authority to waive documentary requirements resides with the director of the USCIS office having jurisdiction over the adjudication of Form I-918, “Petition for U Nonimmigrant Status.”
 
-(q) *Aliens admissible under the Guam-CNMI Visa Waiver Program.* (1) *Eligibility for Program.* In accordance with Public Law 110-229, beginning November 28, 2009, the Secretary, in consultation with the Secretaries of the Departments of Interior and State, may waive the visa requirement in the case of a nonimmigrant alien who seeks admission to Guam or to the Commonwealth of the Northern Mariana Islands (CNMI) under the Guam-CNMI Visa Waiver Program. To be admissible under the Guam-CNMI Visa Waiver Program, prior to embarking on a carrier for travel to Guam or the CNMI, each nonimmigrant alien must:
+(q) *Aliens admissible under the Guam-CNMI Visa Waiver Program* - (1) *Eligibility for Program.* In accordance with Public Law 110-229, beginning November 28, 2009, the Secretary, in consultation with the Secretaries of the Departments of Interior and State, may waive the visa requirement in the case of a nonimmigrant alien who seeks admission to Guam or to the Commonwealth of the Northern Mariana Islands (CNMI) under the Guam-CNMI Visa Waiver Program. To be admissible under the Guam-CNMI Visa Waiver Program, prior to embarking on a carrier for travel to Guam or the CNMI, each nonimmigrant alien must:
 
 (i) Be a national of a country or geographic area listed in paragraph (q)(2) of this section;
 
@@ -182,9 +180,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (xi) If a resident of Taiwan, possess a Taiwan National Identity Card and a valid Taiwan passport with a valid re-entry permit issued by the Taiwan Ministry of Foreign Affairs.
 
-(2) *Program Countries and Geographic Areas.* (i) General Eligibility Criteria.
-
-(A) A country or geographic area may not participate in the Guam-CNMI Visa Waiver Program if the country or geographic area poses a threat to the welfare, safety or security of the United States, its territories, or commonwealths;
+(2) *Program Countries and Geographic Areas* - (i) *General Eligibility Criteria.* (A) A country or geographic area may not participate in the Guam-CNMI Visa Waiver Program if the country or geographic area poses a threat to the welfare, safety or security of the United States, its territories, or commonwealths;
 
 (B) A country or geographic area may not participate in the Guam-CNMI Visa Waiver Program if it has been designated a Country of Particular Concern under the International Religious Freedom Act of 1998 by the Department of State, or identified by the Department of State as a source country of refugees designated of special humanitarian concern to the United States;
 
@@ -250,4 +246,4 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (iii) *Removal of inadmissible aliens who arrived by air or sea.* Removal of an alien from Guam or the CNMI under this section may be effected using the return portion of the round trip passage presented by the alien at the time of entry to Guam and the CNMI. Such removal shall be on the first available means of transportation to the alien's point of embarkation to Guam or the CNMI. Nothing in this part absolves the carrier of the responsibility to remove any inadmissible or deportable alien at carrier expense, as provided in the carrier agreement.
 
-[26 FR 12066, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 212.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 12066, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 212.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

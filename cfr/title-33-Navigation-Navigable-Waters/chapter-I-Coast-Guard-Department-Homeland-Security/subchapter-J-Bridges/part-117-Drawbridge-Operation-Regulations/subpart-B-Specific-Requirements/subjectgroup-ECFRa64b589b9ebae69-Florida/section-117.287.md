@@ -1,7 +1,5 @@
 ##### § 117.287 Gulf Intracoastal Waterway. #####
 
-Link to an amendment published at 82 FR 41893, Sept. 5, 2017.
-
 (a) Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (a-1) The draw of the Boca Grande Swingbridge, mile 34.3, shall open on signal; except that, from 7 a.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need open only on the hour and half hour. On Saturday, Sunday and Federal holidays, from 7 a.m. to 6 p.m., the draw need open only on the hour, quarter hour, half hour and three quarter hour.
@@ -10,15 +8,13 @@ Link to an amendment published at 82 FR 41893, Sept. 5, 2017.
 
 (b) The draw of the Hatchett Creek (US-41) bridge, mile 56.9 at Venice, shall open on signal, except that, from 7 a.m. to 4:20 p.m., Monday through Friday except Federal holidays, the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour and except between 4:25 p.m. and 5:25 p.m. when the draw need not open. On Saturdays, Sundays, and Federal holidays from 7:30 a.m. to 6 p.m. the draw need open only on the hour, quarter-hour, half-hour, and three quarter-hour. This bridge need not open to navigation on the second Sunday of November annually, from 9 a.m. to 5 p.m., to facilitate the Iron Man Triathlon event.
 
-(c) The draw of the Siesta Drive Bridge, mile 71.6 at Sarasota, Florida shall open on signal, except that from 7 a.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need open only on the hour, twenty minutes past the hour and forty minutes past the hour. On weekends and Federal holidays, from 11 a.m. to 6 p.m., the draw need open only on the hour, twenty minutes past the hour and forty minutes past the hour.
+(c)(1) The Stickney Point Bridge, mile 68.6, at South Sarasota, Florida shall open on signal, except that from 6 a.m. to 7 p.m. daily, the draw need only open on the hour and half hour.
 
-(d)(1) Cortez (SR 684) Bridge, mile 87.4. The draw shall open on signal, except that from 6 a.m. to 7 p.m., the draw need only open on the hour, 20 minutes after the hour, and 40 minutes after the hour. From January 15 to May 15, from 6 a.m. to 7 p.m., the draw need only open on the hour and half hour.
+(2) The draw of the Siesta Drive Bridge, mile 71.6, at Sarasota, Florida shall open on signal, except that from 6 a.m. to 7 p.m. daily, the draw need only open on the hour and half hour.
 
-(2) Anna Maria (SR 64) (Manatee Avenue West) Bridge, mile 89.2. The draw shall open on signal, except that from 6 a.m. to 7 p.m., the draw need only open on the hour, 20 minutes after the hour, and 40 minutes after the hour. From January 15 to May 15, from 6 a.m. to 7 p.m., the draw need only open on the hour and half hour.
+(d)(1) The draw of the Cortez (SR 684) Bridge, mile 87.4, at Bradenton Beach, Florida shall open on signal, except that from 6 a.m. to 7 p.m. daily, the draw need only open on the quarter hour and three quarter hour.
 
-(3) [Reserved]
-
-(4) Pinellas Bayway Structure “E” (SR 679) bridge, mile 113.0 at St. Petersburg Beach. The draw shall open on signal, except that from 7 a.m. to 9 p.m. the draw need open only on the hour and 30 minutes past the hour.
+(2) The draw of the Anna Maria (SR 64) (Manatee Avenue West) Bridge, mile 89.2, at Bradenton Beach, Florida shall open on signal, except that from 6 a.m. to 7 p.m. daily, the draw need only open on the quarter hour and three quarter hour.
 
 (e) [Reserved]
 
