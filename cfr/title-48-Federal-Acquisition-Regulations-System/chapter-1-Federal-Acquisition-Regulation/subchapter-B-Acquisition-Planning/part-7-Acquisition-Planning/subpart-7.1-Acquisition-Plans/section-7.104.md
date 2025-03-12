@@ -1,5 +1,7 @@
 ##### 7.104 General procedures. #####
 
+Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
+
 (a) Acquisition planning should begin as soon as the agency need is identified, preferably well in advance of the fiscal year in which contract award or order placement is necessary. In developing the plan, the planner shall form a team consisting of all those who will be responsible for significant aspects of the acquisition, such as contracting, small business, fiscal, legal, and technical personnel. If contract performance is to be in a designated operational area or supporting a diplomatic or consular mission, the planner shall also consider inclusion of the combatant commander or chief of mission, as appropriate. The planner should review previous plans for similar acquisitions and discuss them with the key personnel involved in those acquisitions. At key dates specified in the plan or whenever significant changes occur, and no less often than annually, the planner shall review the plan and, if appropriate, revise it.
 
 (b) Requirements and logistics personnel should avoid issuing requirements on an urgent basis or with unrealistic delivery or performance schedules, since it generally restricts competition and increases prices. Early in the planning process, the planner should consult with requirements and logistics personnel who determine type, quality, quantity, and delivery requirements.

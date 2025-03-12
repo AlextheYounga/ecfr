@@ -1,5 +1,7 @@
 ##### 19.601 General. #####
 
+Link to an amendment published at 85 FR 11764, Feb. 27, 2020.
+
 (a) A Certificate of Competency (COC) is the certificate issued by the Small Business Administration (SBA) stating that the holder is responsible (with respect to all elements of responsibility, including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, tenacity, and limitations on subcontracting) for the purpose of receiving and performing a specific Government contract.
 
 (b) The COC program empowers the Small Business Administration (SBA) to certify to Government contracting officers as to all elements of responsibility of any small business concern to receive and perform a specific Government contract. The COC program does not extend to questions concerning regulatory requirements imposed and enforced by other Federal agencies.

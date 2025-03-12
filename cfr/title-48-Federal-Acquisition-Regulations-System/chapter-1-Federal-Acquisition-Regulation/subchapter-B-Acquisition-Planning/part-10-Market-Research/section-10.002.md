@@ -1,5 +1,7 @@
 ##### 10.002 Procedures. #####
 
+Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
+
 (a) Acquisitions begin with a description of the Government's needs stated in terms sufficient to allow conduct of market research.
 
 (b) Market research is then conducted to determine if commercial items or nondevelopmental items are available to meet the Government's needs or could be modified to meet the Government's needs.

@@ -1,5 +1,7 @@
 ##### 19.503 Setting aside a class of acquisitions for small business. #####
 
+Link to an amendment published at 85 FR 11762, Feb. 27, 2020.
+
 (a) A class of acquisitions of selected products or services, or a portion of the acquisitions, may be set aside for exclusive participation by small business concerns if individual acquisitions in the class will meet the criteria in 19.502-1, 19.502-2, or 19.502-3(a). The determination to make a class small business set-aside shall not depend on the existence of a current acquisition if future acquisitions can be clearly foreseen.
 
 (b) The determination to set aside a class of acquisitions for small business may be either unilateral or joint.

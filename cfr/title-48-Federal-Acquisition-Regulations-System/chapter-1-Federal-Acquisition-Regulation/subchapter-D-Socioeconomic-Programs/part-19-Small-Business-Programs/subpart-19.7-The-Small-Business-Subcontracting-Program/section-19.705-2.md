@@ -1,5 +1,7 @@
 ##### 19.705-2 Determining the need for a subcontracting plan. #####
 
+Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
+
 The contracting officer shall take the following actions to determine whether a proposed contractual action requires a subcontracting plan:
 
 (a)(1) Determine whether the proposed total contract-dollars will exceed the subcontracting plan threshold in 19.702(a).

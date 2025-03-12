@@ -1,5 +1,7 @@
 ##### 19.502-3 Partial set-asides. #####
 
+Link to an amendment published at 85 FR 11761, Feb. 27, 2020.
+
 (a) The contracting officer shall set aside a portion of an acquisition, except for construction, for exclusive small business participation when -
 
 (1) A total set-aside is not appropriate (see 19.502-2);

@@ -1,4 +1,7 @@
-##### 19.202-4 Solicitation. #####
+##### 19.202-4 Solicitation.
+- #####
+
+Link to an amendment published at 85 FR 11759, Feb. 27, 2020.
 
 The contracting officer must encourage maximum response to solicitations by small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns by taking the following actions:
 

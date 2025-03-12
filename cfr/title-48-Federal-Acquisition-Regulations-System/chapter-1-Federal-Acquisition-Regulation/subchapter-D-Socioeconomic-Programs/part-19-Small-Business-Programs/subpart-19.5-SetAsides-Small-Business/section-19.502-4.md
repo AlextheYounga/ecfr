@@ -1,5 +1,7 @@
 ##### 19.502-4 Multiple-award contracts and small business set-asides. #####
 
+Link to an amendment published at 85 FR 11761, Feb. 27, 2020.
+
 In accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r)) contracting officers may, at their discretion -
 
 (a) When conducting multiple-award procurements using full and open competition, reserve one or more contract awards for any of the small business concerns identified in 19.000(a)(3). The specific program eligibility requirements identified in this part apply;

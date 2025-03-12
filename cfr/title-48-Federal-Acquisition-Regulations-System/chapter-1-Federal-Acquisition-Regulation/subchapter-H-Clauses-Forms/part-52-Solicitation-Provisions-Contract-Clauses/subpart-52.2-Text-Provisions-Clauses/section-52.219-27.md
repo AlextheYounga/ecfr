@@ -1,5 +1,7 @@
 ##### 52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside. #####
 
+Link to an amendment published at 85 FR 11771, Feb. 27, 2020.
+
 As prescribed in 19.1407, insert the following clause:
 
 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2019)

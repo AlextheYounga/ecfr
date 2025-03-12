@@ -1,5 +1,7 @@
 ##### 19.1503 Status. #####
 
+Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
+
 (a) Status as an EDWOSB concern or WOSB concern eligible under the WOSB Program is determined in accordance with 13 CFR part 127.
 
 (b) The contracting officer shall verify that the offeror -

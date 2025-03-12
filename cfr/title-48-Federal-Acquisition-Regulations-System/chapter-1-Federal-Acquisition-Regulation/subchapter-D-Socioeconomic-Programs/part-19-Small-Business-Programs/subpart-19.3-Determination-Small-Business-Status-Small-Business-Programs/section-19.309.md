@@ -1,5 +1,7 @@
 ##### 19.309 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+
 (a)(1) Insert the provision at 52.219-1, Small Business Program Representations, in solicitations exceeding the micro-purchase threshold when the contract will be performed in the United States or its outlying areas.
 
 (2) Use the provision with its Alternate I in solicitations issued by DoD, NASA, or the Coast Guard.

@@ -1,5 +1,7 @@
 ##### 19.402 Small Business Administration procurement center representatives. #####
 
+Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+
 (a)(1) The SBA may assign one or more procurement center representatives to any contracting activity or contract administration office to carry out SBA policies and programs. Assigned SBA procurement center representatives are required to comply with the contracting agency's directives governing the conduct of contracting personnel and the release of contract information. The SBA must obtain for its procurement center representatives security clearances required by the contracting agency.
 
 (2) If a SBA procurement center representative is not assigned to the procuring activity or contract administration office, contact the SBA Office of Government Contracting Area Office serving the area in which the procuring activity is located for assistance in carrying out SBA policies and programs. See *http://www.sba.gov/content/procurement-center-representatives* for the location of the SBA office servicing the activity.

@@ -1,5 +1,7 @@
 ##### 52.219-13 Notice of Set-Aside of Orders. #####
 
+Link to an amendment published at 85 FR 11770, Feb. 27, 2020.
+
 As prescribed in 19.508(f), insert the following clause:
 
 Notice of Set-Aside of Orders (NOV 2011)

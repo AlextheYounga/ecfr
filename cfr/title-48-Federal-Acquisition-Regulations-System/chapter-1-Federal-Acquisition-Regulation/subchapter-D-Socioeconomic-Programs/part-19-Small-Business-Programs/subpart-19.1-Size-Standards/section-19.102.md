@@ -1,5 +1,7 @@
 ##### 19.102 Size standards. #####
 
+Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
+
 (a)(1) The SBA establishes small business size standards on an industry-by-industry basis. (See 13 CFR Part 121). Small business size standards matched to industry NAICS codes are published by the Small Business Administration and are available at *http://www.sba.gov/content/table-small-business-size-standards.*
 
 (2) NAICS codes are updated by the Office of Management and Budget through its Economic Classification Policy Committee every five years. New NAICS codes are not available for use in Federal contracting until the Small Business Administration publishes corresponding industry size standards (see 19.102(a)(1)).

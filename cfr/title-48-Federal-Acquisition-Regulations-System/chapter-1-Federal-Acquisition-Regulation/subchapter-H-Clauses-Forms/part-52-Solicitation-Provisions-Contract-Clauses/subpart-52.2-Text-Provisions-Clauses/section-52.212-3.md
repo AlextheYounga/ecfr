@@ -1,5 +1,7 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
+Link to an amendment published at 85 FR 11768, Feb. 27, 2020.
+
 As prescribed in 12.301(b)(2), insert the following provision:
 
 Offeror Representations and Certifications - Commercial Items (DEC 2019)

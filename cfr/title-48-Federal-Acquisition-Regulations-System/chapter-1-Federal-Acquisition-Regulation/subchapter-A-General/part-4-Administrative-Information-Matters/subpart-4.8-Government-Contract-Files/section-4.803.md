@@ -1,5 +1,7 @@
 ##### 4.803 Contents of contract files. #####
 
+Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
+
 The following are examples of the records normally contained, if applicable, in contract files:
 
 (a) *Contracting office contract file.* (1) Purchase request, acquisition planning information, and other presolicitation documents.

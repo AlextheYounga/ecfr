@@ -1,5 +1,7 @@
 ##### 19.202-6 Determination of fair market price. #####
 
+Link to an amendment published at 85 FR 11759, Feb. 27, 2020.
+
 (a) The fair market price shall be the price achieved in accordance with the reasonable price guidelines in 15.404-1(b) for -
 
 (1) Total and partial small business set-asides (see subpart 19.5);

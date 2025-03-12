@@ -1,5 +1,7 @@
 ##### 19.502-1 Requirements for setting aside acquisitions. #####
 
+Link to an amendment published at 85 FR 11761, Feb. 27, 2020.
+
 (a) The contracting officer shall set aside an individual acquisition or class of acquisitions for competition among small businesses when -
 
 (1) It is determined to be in the interest of maintaining or mobilizing the Nations full productive capacity, war or national defense programs; or

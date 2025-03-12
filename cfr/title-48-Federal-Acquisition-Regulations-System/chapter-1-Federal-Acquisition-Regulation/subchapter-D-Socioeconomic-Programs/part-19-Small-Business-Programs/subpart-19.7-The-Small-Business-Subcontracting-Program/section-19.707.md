@@ -1,5 +1,7 @@
 ##### 19.707 The Small Business Administration's role in carrying out the program. #####
 
+Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
+
 (a) Under the program, the SBA may -
 
 (1) Assist both Government agencies and contractors in carrying out their responsibilities with regard to subcontracting plans;

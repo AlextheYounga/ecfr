@@ -1,5 +1,7 @@
 ##### 19.505 Rejecting Small Business Administration recommendations. #####
 
+Link to an amendment published at 85 FR 11762, Feb. 27, 2020.Link to an amendment published at 85 FR 11763, Feb. 27, 2020.
+
 (a) If the contracting officer rejects a recommendation of the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) or breakout procurement center representative, written notice shall be furnished to the appropriate SBA representative within 5 working days of the contracting officer's receipt of the recommendation.
 
 (b) The SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) may appeal the contracting officer's rejection to the head of the contracting activity (or designee) within 2 working days after receiving the notice. The head of the contracting activity (or designee) shall render a decision in writing, and provide it to the SBA representative within 7 working days. Pending issuance of a decision to the SBA representative, the contracting officer shall suspend action on the acquisition.

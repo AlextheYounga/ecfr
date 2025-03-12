@@ -1,5 +1,7 @@
 ##### 16.500 Scope of subpart. #####
 
+Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
+
 (a) This subpart prescribes policies and procedures for making awards of indefinite-delivery contracts and establishes a preference for making multiple awards of indefinite-quantity contracts.
 
 (b) This subpart does not limit the use of other than competitive procedures authorized by part 6.

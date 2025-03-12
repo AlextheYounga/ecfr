@@ -1,5 +1,7 @@
 ##### 19.708 Contract clauses. #####
 
+Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
+
 (a) Insert the clause at 52.219-8, Utilization of Small Business Concerns, in solicitations and contracts when the contract amount is expected to exceed the simplified acquisition threshold unless -
 
 (1) A personal services contract is contemplated (see 37.104); or

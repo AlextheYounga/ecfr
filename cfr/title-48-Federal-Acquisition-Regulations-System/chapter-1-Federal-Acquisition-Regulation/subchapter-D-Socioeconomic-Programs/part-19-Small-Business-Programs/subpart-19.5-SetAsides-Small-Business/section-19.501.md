@@ -1,5 +1,7 @@
 ##### 19.501 General. #####
 
+Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+
 (a) The purpose of small business set-asides is to award certain acquisitions exclusively to small business concerns. A “set-aside for small business” is the reserving of an acquisition exclusively for participation by small business concerns. A small business set-aside may be open to all small businesses. A small business set-aside of a single acquisition or a class of acquisitions may be total or partial.
 
 (b) The determination to make a small business set-aside may be unilateral or joint. A unilateral determination is one that is made by the contracting officer. A joint determination is one that is recommended by the Small Business Administration (SBA) procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) and concurred in by the contracting officer.

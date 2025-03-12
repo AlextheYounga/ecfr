@@ -1,5 +1,7 @@
 ##### 19.602-3 Resolving differences between the agency and the Small Business Administration. #####
 
+Link to an amendment published at 85 FR 11764, Feb. 27, 2020.
+
 (a) *COCs valued between $100,000 and $25,000,000.* (1) When disagreements arise about a concern's ability to perform, the contracting officer and the SBA shall make every effort to reach a resolution before the SBA takes final action on a COC. This shall be done through the complete exchange of information and in accordance with agency procedures. If agreement cannot be reached between the contracting officer and the SBA Area Office, the contracting officer shall request that the Area Office suspend action and refer the matter to SBA Headquarters for review. The SBA Area Office shall honor the request for a review if the contracting officer agrees to withhold award until the review process is concluded. Without an agreement to withhold award, the SBA Area Office will issue the COC in accordance with applicable SBA regulations.
 
 (2) SBA Headquarters will furnish written notice to the procuring agency's Director, Office of Small and Disadvantaged Business Utilization (OSDBU) or other designated official (with a copy to the contracting officer) that the case file has been received and that an appeal decision may be requested by an authorized official.

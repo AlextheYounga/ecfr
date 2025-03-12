@@ -1,5 +1,7 @@
 ##### 19.1309 Contract clauses. #####
 
+Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
+
 (a) The contracting officer shall insert the clause 52.219-3, Notice of HUBZone Set-Aside or Sole Source Award, in solicitations and contracts for acquisitions that are set aside, or reserved for, or awarded on a sole source basis to, HUBZone small business concerns under 19.1305 or 19.1306. This includes multiple-award contracts when orders may be set aside for HUBZone small business concerns as described in 8.405-5 and 16.505(b)(2)(i)(F).
 
 (1) The contracting officer shall use the clause with its Alternate I to waive the 50 percent requirement if the conditions at 19.1308(b) apply.

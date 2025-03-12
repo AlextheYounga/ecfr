@@ -1,5 +1,7 @@
 ##### 19.1307 Price evaluation preference for HUBZone small business concerns. #####
 
+Link to an amendment published at 85 FR 11766, Feb. 27, 2020.
+
 (a) The price evaluation preference for HUBZone small business concerns shall be used in acquisitions conducted using full and open competition. The preference shall not be used -
 
 (1) Where price is not a selection factor so that a price evaluation preference would not be considered (e.g., Architect/Engineer acquisitions); or

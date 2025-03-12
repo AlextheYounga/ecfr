@@ -1,5 +1,7 @@
 ##### 19.202-5 Data collection and reporting requirements. #####
 
+Link to an amendment published at 85 FR 11759, Feb. 27, 2020.
+
 Agencies must measure the extent of small business participation in their acquisition programs by taking the following actions:
 
 (a) Require each prospective contractor to represent whether it is a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, women-owned small business, EDWOSB concern, or WOSB concern eligible under the WOSB Program (see the provision at 52.219-1, Small Business Program Representations).

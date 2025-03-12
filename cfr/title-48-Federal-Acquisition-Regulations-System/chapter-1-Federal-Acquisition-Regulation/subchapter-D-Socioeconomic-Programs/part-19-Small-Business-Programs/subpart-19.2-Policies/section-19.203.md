@@ -1,5 +1,7 @@
 ##### 19.203 Relationship among small business programs. #####
 
+Link to an amendment published at 85 FR 11759, Feb. 27, 2020.
+
 (a) There is no order of precedence among the 8(a) Program (subpart 19.8), HUBZone Program (subpart 19.13), Service-Disabled Veteran-Owned Small Business (SDVOSB) Procurement Program (subpart 19.14), or the Women-Owned Small Business (WOSB) Program (subpart 19.15).
 
 (b) *At or below the simplified acquisition threshold.* For acquisitions of supplies or services that have an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)), but not exceeding $150,000 ($750,000 for acquisitions described in paragraph (1)(i) of the simplified acquisition threshold definition at 2.101), the requirement at 19.502-2(a) to exclusively reserve acquisitions for small business concerns does not preclude the contracting officer from awarding a contract to a small business under the 8(a) Program, HUBZone Program, SDVOSB Program, or WOSB Program.

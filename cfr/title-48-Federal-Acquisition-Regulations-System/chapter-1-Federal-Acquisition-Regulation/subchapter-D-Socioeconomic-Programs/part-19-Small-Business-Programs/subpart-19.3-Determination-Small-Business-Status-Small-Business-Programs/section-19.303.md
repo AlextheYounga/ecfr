@@ -1,5 +1,7 @@
 ##### 19.303 Determining North American Industry Classification System codes and size standards. #####
 
+Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+
 (a)(1) The contracting officer shall determine the appropriate North American Industry Classification System (NAICS) code and related small business size standard and include them in solicitations above the micro-purchase threshold. For information on size standards matched to industry NAICS codes, including the use of new NAICS codes, see also 19.102(a).
 
 (2) The contracting officer shall select the NAICS code which best describes the principal purpose of the product or service being acquired. Primary consideration is given to the industry descriptions in the U.S. NAICS Manual, the product or service description in the solicitation and any attachments to it, the relative value and importance of the components of the procurement making up the end item being procured, and the function of the goods or services being purchased. A procurement is usually classified according to the component which accounts for the greatest percentage of contract value. A concern that submits an offer or quote for a contract where the NAICS code assigned to the contract is one for supplies, and furnishes a product it did not itself manufacture or produce, is categorized as a nonmanufacturer and deemed small if it meets the requirements of 19.102(f).

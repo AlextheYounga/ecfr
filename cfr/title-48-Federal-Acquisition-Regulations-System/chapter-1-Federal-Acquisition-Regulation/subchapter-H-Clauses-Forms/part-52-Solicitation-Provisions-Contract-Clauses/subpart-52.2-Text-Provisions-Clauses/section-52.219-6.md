@@ -1,5 +1,7 @@
 ##### 52.219-6 Notice of Total Small Business Set-Aside. #####
 
+Link to an amendment published at 85 FR 11770, Feb. 27, 2020.
+
 As prescribed in 19.508(c), insert the following clause:
 
 Notice of Total Small Business Set-Aside (NOV 2011)

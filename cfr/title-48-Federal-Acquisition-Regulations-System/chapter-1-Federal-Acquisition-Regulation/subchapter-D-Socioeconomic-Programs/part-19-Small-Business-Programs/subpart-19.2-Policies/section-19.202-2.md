@@ -1,5 +1,7 @@
 ##### 19.202-2 Locating small business sources. #####
 
+Link to an amendment published at 85 FR 11759, Feb. 27, 2020.
+
 The contracting officer must, to the extent practicable, encourage maximum participation by small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns in acquisitions by taking the following actions:
 
 (a) Before issuing solicitations, make every reasonable effort to find additional small business concerns, unless lists are already excessively long and only some of the concerns on the list will be solicited. This effort should include contacting the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)).

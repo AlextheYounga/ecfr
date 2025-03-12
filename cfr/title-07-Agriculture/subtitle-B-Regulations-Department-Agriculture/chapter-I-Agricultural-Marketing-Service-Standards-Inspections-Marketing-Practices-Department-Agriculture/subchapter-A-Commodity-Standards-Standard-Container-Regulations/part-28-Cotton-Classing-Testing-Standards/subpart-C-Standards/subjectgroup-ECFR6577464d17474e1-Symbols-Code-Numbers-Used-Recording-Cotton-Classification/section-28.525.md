@@ -76,38 +76,38 @@ For administrative convenience, the symbols and code numbers prescribed in this 
 
 (e) *Code numbers for Length of Staple Designations.*
 
-|Length of staple—inches|Code No.|
-|-----------------------|--------|
-|      Below 13/16      |   24   |
-|         13/16         |   26   |
-|          7/8          |   28   |
-|         29/32         |   29   |
-|         15/16         |   30   |
-|         31/32         |   31   |
-|           1           |   32   |
-|         11/32         |   33   |
-|         11/16         |   34   |
-|         13/32         |   35   |
-|         11/8          |   36   |
-|         15/32         |   37   |
-|         13/16         |   38   |
-|         17/32         |   39   |
-|         11/4          |   40   |
-|         19/32         |   41   |
-|         15/16         |   42   |
-|        111/32         |   43   |
-|         13/8          |   44   |
-|        113/32         |   45   |
-|         17/16         |   46   |
-|        115/32         |   47   |
-|         11/2          |   48   |
-|        117/32         |   49   |
-|         19/16         |   50   |
-|        119/32         |   51   |
-|         15/8          |   52   |
-|        121/32         |   53   |
-|        111/16         |   54   |
-|        123/32         |   55   |
-|         13/4          |   56   |
+|     Length of staple—inches     |Code No.|
+|---------------------------------|--------|
+|Below <sup>13</sup>⁄<sub>16</sub>|   24   |
+|   <sup>13</sup>⁄<sub>16</sub>   |   26   |
+|    <sup>7</sup>⁄<sub>8</sub>    |   28   |
+|   <sup>29</sup>⁄<sub>32</sub>   |   29   |
+|   <sup>15</sup>⁄<sub>16</sub>   |   30   |
+|   <sup>31</sup>⁄<sub>32</sub>   |   31   |
+|                1                |   32   |
+|   1<sup>1</sup>⁄<sub>32</sub>   |   33   |
+|   1<sup>1</sup>⁄<sub>16</sub>   |   34   |
+|   1<sup>3</sup>⁄<sub>32</sub>   |   35   |
+|   1<sup>1</sup>⁄<sub>8</sub>    |   36   |
+|   1<sup>5</sup>⁄<sub>32</sub>   |   37   |
+|   1<sup>3</sup>⁄<sub>16</sub>   |   38   |
+|   1<sup>7</sup>⁄<sub>32</sub>   |   39   |
+|   1<sup>1</sup>⁄<sub>4</sub>    |   40   |
+|   1<sup>9</sup>⁄<sub>32</sub>   |   41   |
+|   1<sup>5</sup>⁄<sub>16</sub>   |   42   |
+|  1<sup>11</sup>⁄<sub>32</sub>   |   43   |
+|   1<sup>3</sup>⁄<sub>8</sub>    |   44   |
+|  1<sup>13</sup>⁄<sub>32</sub>   |   45   |
+|   1<sup>7</sup>⁄<sub>16</sub>   |   46   |
+|  1<sup>15</sup>⁄<sub>32</sub>   |   47   |
+|   1<sup>1</sup>⁄<sub>2</sub>    |   48   |
+|  1<sup>17</sup>⁄<sub>32</sub>   |   49   |
+|   1<sup>9</sup>⁄<sub>16</sub>   |   50   |
+|  1<sup>19</sup>⁄<sub>32</sub>   |   51   |
+|   1<sup>5</sup>⁄<sub>8</sub>    |   52   |
+|  1<sup>21</sup>⁄<sub>32</sub>   |   53   |
+|  1<sup>11</sup>⁄<sub>16</sub>   |   54   |
+|  1<sup>23</sup>⁄<sub>32</sub>   |   55   |
+|   1<sup>3</sup>⁄<sub>4</sub>    |   56   |
 
 [32 FR 8760, June 20, 1967, as amended at 50 FR 25198, June 18, 1985; 51 FR 23039, June 25, 1986; 57 FR 34499, Aug. 5, 1992; 65 FR 36601, June 9, 2000]

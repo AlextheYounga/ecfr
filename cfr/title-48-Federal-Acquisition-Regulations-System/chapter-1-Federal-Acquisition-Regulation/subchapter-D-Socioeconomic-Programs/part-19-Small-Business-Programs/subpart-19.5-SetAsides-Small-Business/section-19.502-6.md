@@ -1,5 +1,7 @@
 ##### 19.502-6 Insufficient causes for not setting aside an acquisition. #####
 
+Link to an amendment published at 85 FR 11762, Feb. 27, 2020.
+
 None of the following is, in itself, sufficient cause for not setting aside an acquisition:
 
 (a) A large percentage of previous contracts for the required item(s) has been placed with small business concerns.

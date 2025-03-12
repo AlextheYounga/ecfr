@@ -1,5 +1,7 @@
 ##### 19.508 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 85 FR 11764, Feb. 27, 2020.
+
 (a)-(b) [Reserved]
 
 (c) The contracting officer shall insert the clause at 52.219-6, Notice of Total Small Business Set-Aside, in solicitations and contracts involving total small business set-asides or reserves. This includes multiple-award contracts when orders may be set aside for any of the small business concerns identified in 19.000(a)(3), as described in 8.405-5 and 16.505(b)(2)(i)(F). The clause at 52.219-6 with its Alternate I will be used when the acquisition is for a product in a class for which the Small Business Administration has waived the nonmanufacturer rule (see 19.102(f)(4) and (5)). Use the clause at 52.219-6 with its Alternate II when including FPI in the competition in accordance with 19.504.

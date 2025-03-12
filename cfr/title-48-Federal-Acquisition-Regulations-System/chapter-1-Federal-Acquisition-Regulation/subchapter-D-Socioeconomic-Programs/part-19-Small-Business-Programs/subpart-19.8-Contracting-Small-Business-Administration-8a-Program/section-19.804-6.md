@@ -1,5 +1,7 @@
 ##### 19.804-6 Indefinite-delivery contracts. #####
 
+Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
+
 (a) Separate offers and acceptances are not required for individual orders under multiple-award contracts (including the Federal Supply Schedules managed by GSA, multi-agency contracts or Governmentwide acquisition contracts, or indefinite-delivery, indefinite-quantity (IDIQ) contracts) that have been set aside for exclusive competition among 8(a) contractors. SBA's acceptance of the original contract is valid for the term of the contract. Offers and acceptances are required for individual orders under multiple-award contracts that have not been set aside for exclusive competition among 8(a) contractors.
 
 (b) An 8(a) contractor may continue to accept new orders under the contract, even if it exits the 8(a) program, or becomes other than small for the NAICS code assigned to the contract.

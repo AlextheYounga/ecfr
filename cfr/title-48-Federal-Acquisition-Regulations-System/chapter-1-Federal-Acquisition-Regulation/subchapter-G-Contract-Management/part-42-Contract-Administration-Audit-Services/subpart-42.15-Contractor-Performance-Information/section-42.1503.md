@@ -1,5 +1,7 @@
 ##### 42.1503 Procedures. #####
 
+Link to an amendment published at 85 FR 11768, Feb. 27, 2020.
+
 (a)(1) Agencies shall assign responsibility and management accountability for the completeness of past performance submissions. Agency procedures for the past performance evaluation system shall -
 
 (i) Generally provide for input to the evaluations from the technical office, contracting office, program management office, and, where appropriate, quality assurance and end users of the product or service;

@@ -1,5 +1,7 @@
 ##### 19.705-5 Awards involving subcontracting plans. #####
 
+Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
+
 (a) In making an award that requires a subcontracting plan, the contracting officer shall be responsible for the following:
 
 (1) Consider the contractor's compliance with the subcontracting plans submitted on previous contracts as a factor in determining contractor responsibility.

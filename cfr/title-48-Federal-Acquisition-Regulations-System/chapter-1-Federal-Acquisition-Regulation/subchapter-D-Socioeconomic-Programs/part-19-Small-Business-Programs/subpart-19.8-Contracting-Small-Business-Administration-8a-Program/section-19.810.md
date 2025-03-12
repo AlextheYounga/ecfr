@@ -1,5 +1,7 @@
 ##### 19.810 SBA appeals. #####
 
+Link to an amendment published at 85 FR 11766, Feb. 27, 2020.
+
 (a) The SBA Administrator may submit the following matters for determination to the agency head if the SBA and the contracting officer fail to agree on them:
 
 (1) The decision not to make a particular acquisition available for award under the 8(a) Program.
