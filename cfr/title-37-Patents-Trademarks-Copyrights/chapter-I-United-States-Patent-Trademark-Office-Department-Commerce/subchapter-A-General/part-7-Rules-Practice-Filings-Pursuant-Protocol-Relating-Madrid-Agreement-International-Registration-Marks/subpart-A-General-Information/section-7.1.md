@@ -1,6 +1,6 @@
 ##### § 7.1 Definitions of terms as used in this part. #####
 
-Link to an amendment published at 84 FR 31511, July 2, 2019.
+Link to an amendment published at 84 FR 37098, July 31, 2019.
 
 (a) *the Act* means the Trademark Act of 1946, 60 Stat. 427, as amended, codified in 15 U.S.C. 1051 *et seq.*
 
@@ -12,6 +12,6 @@ Link to an amendment published at 84 FR 31511, July 2, 2019.
 
 (e) All references to sections in this part refer to 37 Code of Federal Regulations, except as otherwise stated.
 
-(f) The definitions specified in § 2.2(k) and (n) of this chapter apply to this part.
+(f) The definitions specified in § 2.2 of this chapter apply to this part.
 
-[68 FR 55769, Sept. 26, 2003, as amended at 80 FR 33190, June 11, 2015]
+[68 FR 55769, Sept. 26, 2003, as amended at 80 FR 33190, June 11, 2015; 84 FR 31511, July 2, 2019]

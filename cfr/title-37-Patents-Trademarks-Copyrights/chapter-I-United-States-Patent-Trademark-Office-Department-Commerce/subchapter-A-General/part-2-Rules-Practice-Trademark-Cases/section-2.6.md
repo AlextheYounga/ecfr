@@ -1,5 +1,7 @@
 ##### § 2.6 Trademark fees. #####
 
+Link to an amendment published at 84 FR 37093, July 31, 2019.
+
 (a) *Trademark process fees* - (1) *Application filing fees*. (i) For filing an application on paper, per class - $600.00
 
 (ii) For filing an application through TEAS, per class - $400.00

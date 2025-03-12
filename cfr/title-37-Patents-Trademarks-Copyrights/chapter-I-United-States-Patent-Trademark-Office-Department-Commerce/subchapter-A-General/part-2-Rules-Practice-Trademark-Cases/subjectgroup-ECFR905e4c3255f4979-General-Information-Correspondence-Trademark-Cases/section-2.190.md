@@ -1,5 +1,7 @@
 ##### § 2.190 Addresses for trademark correspondence with the United States Patent and Trademark Office. #####
 
+Link to an amendment published at 84 FR 37096, July 31, 2019.
+
 (a) *Trademark correspondence - in general.* All trademark-related documents filed on paper, except documents sent to the Assignment Recordation Branch for recordation; requests for copies of trademark documents; and certain documents filed under the Madrid Protocol as specified in paragraph (e) of this section, should be addressed to: Commissioner for Trademarks, P.O. Box 1451, Alexandria, VA 22313-1451. All trademark-related documents may be delivered by hand, during the hours the Office is open to receive correspondence, to the Trademark Assistance Center, James Madison Building - East Wing, Concourse Level, 600 Dulany Street, Alexandria, Virginia 22314.
 
 (b) *Electronic trademark documents.* An applicant may transmit a trademark document through TEAS, at *http://www.uspto.gov.* Documents that relate to proceedings before the Trademark Trial and Appeal Board shall be filed directly with the Board electronically through ESTTA, at *http://estta.uspto.gov.*

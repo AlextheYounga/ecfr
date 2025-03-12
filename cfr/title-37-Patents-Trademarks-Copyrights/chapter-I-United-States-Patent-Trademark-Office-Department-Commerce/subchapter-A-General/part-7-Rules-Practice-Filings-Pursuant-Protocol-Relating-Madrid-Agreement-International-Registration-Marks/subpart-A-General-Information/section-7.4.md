@@ -1,5 +1,7 @@
 ##### § 7.4 Receipt of correspondence. #####
 
+Link to an amendment published at 84 FR 37098, July 31, 2019.
+
 (a) *Correspondence Filed Through TEAS.* Correspondence relating to international applications and registrations and requests for extension of protection submitted through TEAS will be accorded the date and time on which the complete transmission is received in the Office based on Eastern Time. Eastern Time means eastern standard time or eastern daylight time, as appropriate.
 
 (b) *Correspondence Filed By Mail.* International applications under § 7.11, subsequent designations under § 7.21, responses to notices of irregularity under § 7.14, requests to record changes in the International Register under § 7.23 and § 7.24, requests to note replacement under § 7.28, requests for transformation under § 7.31, and petitions to the Director to review an action of the Office's Madrid Processing Unit, when filed by mail, must be addressed to: Madrid Processing Unit, 600 Dulany Street, MDE-7B87, Alexandria, VA 22314-5793.

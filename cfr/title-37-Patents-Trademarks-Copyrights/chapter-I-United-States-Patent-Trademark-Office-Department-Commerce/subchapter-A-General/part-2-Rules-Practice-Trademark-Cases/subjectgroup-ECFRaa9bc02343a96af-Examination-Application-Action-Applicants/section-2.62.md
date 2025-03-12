@@ -1,5 +1,7 @@
 ##### § 2.62 Procedure for filing response. #####
 
+Link to an amendment published at 84 FR 37095, July 31, 2019.
+
 (a) *Deadline.* The applicant's response to an Office action must be received within six months from the date of issuance.
 
 (b) *Signature.* The response must be signed by the applicant, someone with legal authority to bind the applicant (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the requirements of § 2.193(e)(2).

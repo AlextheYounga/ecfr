@@ -1,5 +1,7 @@
 ##### § 2.18 Correspondence, with whom held. #####
 
+Link to an amendment published at 84 FR 37093, July 31, 2019.
+
 (a) *Establishing the correspondence address.* (1) If a written power of attorney that meets the requirements of § 2.17 is filed, the Office will send correspondence to the practitioner designated in the power.
 
 (2) If a practitioner qualified under § 11.14 of this chapter transmits a document(s) on behalf of an applicant, registrant, or party to a proceeding who is not already represented by another qualified practitioner from a different firm, the Office will send correspondence to the practitioner transmitting the documents.

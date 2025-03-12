@@ -1,5 +1,7 @@
 ##### § 2.56 Specimens. #####
 
+Link to an amendment published at 84 FR 37095, July 31, 2019.
+
 (a) An application under section 1(a) of the Act, an amendment to allege use under § 2.76, and a statement of use under § 2.88 must each include one specimen per class showing the mark as used on or in connection with the goods or services. When requested by the Office as reasonably necessary to proper examination, additional specimens must be provided.
 
 (b)(1) A trademark specimen is a label, tag, or container for the goods, or a display associated with the goods. The Office may accept another document related to the goods or the sale of the goods when it is impracticable to place the mark on the goods, packaging for the goods, or displays associated with the goods.

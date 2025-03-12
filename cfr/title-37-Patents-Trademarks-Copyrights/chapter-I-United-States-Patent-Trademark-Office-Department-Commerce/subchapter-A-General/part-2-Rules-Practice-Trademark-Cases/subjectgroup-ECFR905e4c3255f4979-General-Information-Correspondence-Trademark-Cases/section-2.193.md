@@ -1,5 +1,7 @@
 ##### § 2.193 Trademark correspondence and signature requirements. #####
 
+Link to an amendment published at 84 FR 37096, July 31, 2019.
+
 (a) *Signature required.* Each piece of correspondence that requires a signature must bear:
 
 (1) A handwritten signature personally signed in permanent ink by the person named as the signatory, or a true copy thereof; or

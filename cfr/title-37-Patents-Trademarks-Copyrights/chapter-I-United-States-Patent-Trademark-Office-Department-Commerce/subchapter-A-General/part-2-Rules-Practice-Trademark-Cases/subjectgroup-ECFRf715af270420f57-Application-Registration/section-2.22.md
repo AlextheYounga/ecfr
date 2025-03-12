@@ -1,10 +1,10 @@
 ##### § 2.22 Requirements for a TEAS Plus application. #####
 
-Link to an amendment published at 84 FR 31511, July 2, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.
 
 (a) A trademark/service mark application for registration on the Principal Register under section 1 and/or section 44 of the Act will be entitled to a reduced filing fee under § 2.6(a)(1)(iv) if it is filed through TEAS and includes:
 
-(1) The applicant's name and address;
+(1) The applicant's name and domicile address;
 
 (2) The applicant's legal entity;
 
@@ -40,9 +40,11 @@ Link to an amendment published at 84 FR 31511, July 2, 2019.
 
 (18) If the mark includes an individual's name or portrait, either (i) a statement that identifies the living individual whose name or likeness the mark comprises and written consent of the individual, or (ii) a statement that the name or portrait does not identify a living individual (*see* section 2(c) of the Act);
 
-(19) If the applicant owns one or more registrations for the same mark, and the owner(s) last listed in Office records of the prior registration(s) for the same mark differs from the owner(s) listed in the application, a claim of ownership of the registration(s) identified by the registration number(s), pursuant to § 2.36; and
+(19) If the applicant owns one or more registrations for the same mark, and the owner(s) last listed in Office records of the prior registration(s) for the same mark differs from the owner(s) listed in the application, a claim of ownership of the registration(s) identified by the registration number(s), pursuant to § 2.36;
 
-(20) If the application is a concurrent use application, compliance with § 2.42.
+(20) If the application is a concurrent use application, compliance with § 2.42; and
+
+(21) An applicant whose domicile is not located within the United States or its territories must designate an attorney as the applicant's representative, pursuant to § 2.11(a), and include the attorney's name, postal address, email address, and bar information.
 
 (b) In addition to the filing requirements under paragraph (a) of this section, the applicant must:
 
@@ -78,4 +80,4 @@ Link to an amendment published at 84 FR 31511, July 2, 2019.
 
 (4) Applications for registration on the Supplemental Register (see § 2.47).
 
-[70 FR 38773, July 6, 2005, as amended at 74 FR 54907, Oct. 26, 2009; 79 FR 74638, Dec. 16, 2014; 80 FR 2310, Jan. 16, 2015; 80 FR 33178, June 11, 2015]
+[70 FR 38773, July 6, 2005, as amended at 74 FR 54907, Oct. 26, 2009; 79 FR 74638, Dec. 16, 2014; 80 FR 2310, Jan. 16, 2015; 80 FR 33178, June 11, 2015; 84 FR 31511, July 2, 2019]

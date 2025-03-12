@@ -1,5 +1,7 @@
 ##### § 2.198 Filing of correspondence by Priority Mail Express®. #####
 
+Link to an amendment published at 84 FR 37098, July 31, 2019.
+
 (a)(1) Except for documents listed in paragraphs (a)(1)(i) through (vii) of this section, any correspondence received by the Office that was delivered by the Priority Mail Express® Post Office to Addressee service of the United States Postal Service (USPS) will be considered filed with the Office on the date of deposit with the USPS. The Priority Mail Express® procedure does not apply to:
 
 (i) Applications for registration of marks;

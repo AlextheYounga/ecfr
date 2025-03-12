@@ -1,5 +1,7 @@
 ##### § 2.146 Petitions to the Director. #####
 
+Link to an amendment published at 84 FR 37095, July 31, 2019.
+
 (a) Petition may be taken to the Director:
 
 (1) From any repeated or final formal requirement of the examiner in the ex parte prosecution of an application if permitted by § 2.63(a) and (b);

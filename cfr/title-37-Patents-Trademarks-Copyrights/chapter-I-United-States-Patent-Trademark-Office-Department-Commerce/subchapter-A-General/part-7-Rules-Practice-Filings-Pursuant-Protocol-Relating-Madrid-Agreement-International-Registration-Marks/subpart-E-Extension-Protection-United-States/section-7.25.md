@@ -1,5 +1,7 @@
 ##### § 7.25 Sections of part 2 applicable to extension of protection. #####
 
+Link to an amendment published at 84 FR 37099, July 31, 2019.
+
 (a) Except for §§ 2.21 through 2.23, 2.76, 2.88, 2.89, 2.130, 2.131, 2.160 through 2.166, 2.168, 2.173, 2.175, 2.181 through 2.186, and 2.197, all sections in parts 2 and 11 of this chapter shall apply to an extension of protection of an international registration to the United States, including sections related to proceedings before the Trademark Trial and Appeal Board, unless otherwise stated.
 
 (b) The Office will refer to a request for an extension of protection to the United States as an application under section 66(a) of the Act, and references to applications and registrations in part 2 of this chapter include extensions of protection to the United States.

@@ -1,6 +1,6 @@
 ##### § 2.2 Definitions. #####
 
-Link to an amendment published at 84 FR 31510, July 2, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.
 
 (a) *The Act* as used in this part means the Trademark Act of 1946, 60 Stat. 427, as amended, codified in 15 U.S.C. 1051 *et seq.*
 
@@ -44,4 +44,8 @@ Link to an amendment published at 84 FR 31510, July 2, 2019.
 
 (n) The term *verified statement,* and the terms *verify, verified,* or *verification* as used in this part refers to a statement that is sworn to, made under oath or in an affidavit, or supported by a declaration under § 2.20 or 28 U.S.C. 1746, and signed in accordance with the requirements of § 2.193.
 
-[54 FR 37588, Sept. 11, 1989, as amended at 68 FR 48289, Aug. 13, 2003; 68 FR 55762, Sept. 26, 2003; 73 FR 47685, Aug. 14, 2008; 78 FR 20197, Apr. 3, 2013; 80 FR 33178, June 11, 2015]
+(o) The term *domicile* as used in this part means the permanent legal place of residence of a natural person or the principal place of business of a juristic entity.
+
+(p) The term *principal place of business* as used in this part means the location of a juristic entity's headquarters where the entity's senior executives or officers ordinarily direct and control the entity's activities and is usually the center from where other locations are controlled.
+
+[54 FR 37588, Sept. 11, 1989, as amended at 68 FR 48289, Aug. 13, 2003; 68 FR 55762, Sept. 26, 2003; 73 FR 47685, Aug. 14, 2008; 78 FR 20197, Apr. 3, 2013; 80 FR 33178, June 11, 2015; 84 FR 31510, July 2, 2019]

@@ -1,5 +1,7 @@
 ##### § 7.11 Requirements for international application originating from the United States. #####
 
+Link to an amendment published at 84 FR 37098, July 31, 2019.
+
 (a) The Office will grant a date of receipt to an international application That is either filed through TEAS, or typed on the official paper form issued by the International Bureau. The international application must include all of the following:
 
 (1) The filing date and serial number of the basic application and/or the registration date and registration number of the basic registration;

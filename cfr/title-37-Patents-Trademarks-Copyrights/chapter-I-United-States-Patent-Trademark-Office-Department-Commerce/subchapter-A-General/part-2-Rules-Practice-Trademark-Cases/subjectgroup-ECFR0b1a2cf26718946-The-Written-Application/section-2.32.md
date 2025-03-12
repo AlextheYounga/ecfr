@@ -1,12 +1,12 @@
 ##### § 2.32 Requirements for a complete trademark or service mark application. #####
 
-Link to an amendment published at 84 FR 31511, July 2, 2019.
+Link to an amendment published at 84 FR 37094, July 31, 2019.
 
 (a) The application must be in English and include the following:
 
 (1) A request for registration;
 
-(2) The name of the applicant(s);
+(2) The name and domicile address of each applicant;
 
 (3)(i) The citizenship of the applicant(s); or
 
@@ -16,7 +16,7 @@ Link to an amendment published at 84 FR 31511, July 2, 2019.
 
 (iv) If the applicant is a domestic joint venture, the names and citizenship of the active members of the joint venture;
 
-(4) The address of the applicant;
+(4) When the applicant is, or must be, represented by an attorney, as defined in § 11.1 of this chapter, who is qualified to practice under § 11.14 of this chapter, the attorney's name, postal address, email address, and bar information;
 
 (5) One or more bases, as required by § 2.34(a);
 
@@ -42,4 +42,4 @@ Link to an amendment published at 84 FR 31511, July 2, 2019.
 
 (g) For the requirements of a certification mark application, see § 2.45.
 
-[64 FR 48918, Sept. 8, 1999, as amended at 73 FR 13784, Mar. 14, 2008; 73 FR 67768, Nov. 17, 2008; 80 FR 33178, June 11, 2015]
+[64 FR 48918, Sept. 8, 1999, as amended at 73 FR 13784, Mar. 14, 2008; 73 FR 67768, Nov. 17, 2008; 80 FR 33178, June 11, 2015; 84 FR 31511, July 2, 2019]

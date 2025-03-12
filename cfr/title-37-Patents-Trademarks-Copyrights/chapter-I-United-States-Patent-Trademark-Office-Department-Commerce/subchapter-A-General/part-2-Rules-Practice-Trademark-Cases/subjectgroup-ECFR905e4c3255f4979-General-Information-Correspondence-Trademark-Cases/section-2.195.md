@@ -1,5 +1,7 @@
 ##### § 2.195 Receipt of trademark correspondence. #####
 
+Link to an amendment published at 84 FR 37097, July 31, 2019.
+
 (a) *Date of receipt and Priority Mail Express® date of deposit.* Trademark correspondence received in the Office is given a filing date as of the date of receipt except as follows:
 
 (1) The Office is not open for the filing of correspondence on any day that is a Saturday, Sunday, or Federal holiday within the District of Columbia. Except for correspondence transmitted electronically under paragraph (a)(2) of this section or transmitted by facsimile under paragraph (a)(3) of this section, no correspondence is received in the Office on Saturdays, Sundays, or Federal holidays within the District of Columbia.

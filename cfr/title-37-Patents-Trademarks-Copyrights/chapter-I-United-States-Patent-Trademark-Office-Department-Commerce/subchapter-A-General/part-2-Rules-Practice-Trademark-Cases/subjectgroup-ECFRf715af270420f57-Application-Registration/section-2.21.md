@@ -1,5 +1,7 @@
 ##### § 2.21 Requirements for receiving a filing date. #####
 
+Link to an amendment published at 84 FR 37093, July 31, 2019.
+
 (a) The Office will grant a filing date to an application under section 1 or section 44 of the Act that is in the English language and contains all of the following:
 
 (1) The name of the applicant;
