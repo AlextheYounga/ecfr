@@ -1,7 +1,5 @@
 ##### § 46.46 Statutory trust. #####
 
-Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
-
 (a) *Definitions.* (1) “Received” means the time when the buyer, receiver, or agent gains ownership, control, or possession of the perishable agricultural commodities: *Provided,* That when perishable agricultural commodities have not been received as described above, and where there is a rejection without reasonable cause as provided in § 46.2(bb) and (cc), the goods will be considered to have been received when proffered.
 
 (2) “Dissipation” means any act or failure to act which could result in the diversion of trust assets or which could prejudice or impair the ability of unpaid suppliers, sellers, or agents to recover money owed in connection with produce transactions.
@@ -18,9 +16,11 @@ Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
 
 (2) Any licensee, or person subject to license, who has a fiduciary duty to collect funds resulting from the sale or consignment of produce, and remit such funds to its principal, also has the duty to preserve its principal's rights to trust benefits in accordance with paragraph (f) of this section. The responsibility for filing the notice to preserve the principal's rights is obligatory and cannot be avoided by the agent by means of a contract provision. Persons acting as agents also have the responsibility to negotiate contracts which entitle their principals to the protection of the trust provisions: *Provided,* That a principal may elect to waive its right to trust protection. To be effective, the waiver must be in writing and separate and distinct from any agency contract, must be signed by the principal prior to the time affected transactions occur, must clearly state the principal's intent to waive its right to become a trust beneficiary on a given transaction, or a series of transactions, and must include the date the agent's authority to act on the principal's behalf expires. In the event an agent having a fiduciary duty to collect funds resulting from the sale or consignment of produce and remit such funds to its principal fails to perform the duty of preserving its principal's rights to trust benefits, it may be held liable to the principal for damages. A principal employing a collect and remit agent must preserve its rights to trust benefits against such agent by filing appropriate notices with the agent.
 
-(d) *Trust maintenance.* (1) Commission merchants, dealers and brokers are required to maintain trust assets in a manner that such assets are freely available to satisfy outstanding obligations to sellers of perishable agricultural commodities. Any act or omission which is inconsistent with this responsibility, including dissipation of trust assets, is unlawful and in violation of section 2 of the Act, (7 U.S.C. 499b).
+(d) *Trust maintenance.* (1) Licensees and persons subject to license are required to maintain trust assets in a manner so that the trust assets are freely available to satisfy outstanding obligations to sellers of perishable agricultural commodities. Any act or omission which is inconsistent with this responsibility, including dissipation of trust assets, is unlawful and in violation of section 2 of the Act (7 U.S.C. 499b). Growers, licensees, and persons subject to license may file trust actions against licensees and persons operating subject to license. Licensees and persons subject to license are bound by the trust provisions of the Act (7 U.S.C. 499(e)).
 
-(2) Agents who sell perishable agricultural commodities on behalf of a principal are required to preserve the principal's rights as a trust beneficiary as set forth in § 46.2(z), (aa) and paragraphs (d), (f), and (g) of this section. Any act or omission which is inconsistent with this responsibility, including failure to give timely notice of intent to preserve trust benefits, is unlawful and in violation of section 2 of the Act, (7 U.S.C. 499b).
+(2) Principals, including growers, who employ agents to sell perishable agricultural commodities on their behalf are “suppliers” and/or “sellers” as those words are used in section 5(c)(2) and (3) of the Act (7 U.S.C. 499e(c)(2) and (3)), and therefore must preserve their trust rights against their agents by filing a notice of intent to preserve trust rights with their agents as set forth in paragraph (f) of this section.
+
+(3) Agents who sell perishable agricultural commodities on behalf of their principals must preserve their principals' trust benefits against the buyers by filing a notice of intent to preserve trust rights with the buyers. Any act or omission which is inconsistent with this responsibility, including failure to give timely notice of intent to preserve trust benefits, is unlawful and in violation of section 2 of the Act (7 U.S.C. 499b).
 
 (e) *Prompt payment and eligibility for trust benefits.* (1) The times for prompt accounting and prompt payment are set out in § 46.2(z) and (aa). Parties who elect to use different times for payment must reduce their agreement to writing before entering into the transaction and maintain a copy of their agreement in their records, and the times of payment must be disclosed on invoices, accountings, and other documents relating to the transaction.
 
@@ -40,7 +40,7 @@ Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
 
 (iii) The date of receipt of notice that a payment instrument has been dishonored (if appropriate), and
 
-(iv) The amount past due and unpaid.
+(iv) The amount past due and unpaid; except that if a supplier, seller or agent engages a commission merchant or growers' agent to sell or market their produce, the supplier, seller or agent that has not received a final accounting from the commission merchant or growers' agent shall only be required to provide information in sufficient detail to identify the transaction subject to the trust.
 
 (2) Timely filing of a notice of intent to preserve benefits under the trust will be considered to have been made if written notice is given to the debtor within 30 calendar days:
 
@@ -60,4 +60,4 @@ Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
 
 (5) If a buyer conducts its transactions in perishable agricultural commodities using an electronic system, the buyer or its third party electronic vendor must allow sufficient space for the seller to include the required trust statement of intent to preserve trust benefits in the buyer's electronic invoices or other billing statement forms. A buyer or its designated third party electronic vendor must accept a seller's notice of intent to preserve benefits under the trust using the required trust statement, whether in documentary or electronic form, as set forth in paragraphs (d) and (f) of this section. Any act or omission which is inconsistent with this responsibility is unlawful and in violation of Section 2 of the Act (7 U.S.C. 499b).
 
-(Sec. 1, 46 Stat. 531, as amended; 7 U.S.C. 499a *et seq.)*[49 FR 45740, Nov. 20, 1984, as amended at 62 FR 15088, Mar. 31, 1997; 62 FR 60999, Nov. 14, 1997; 72 FR 29838, May 30, 2007; 76 FR 20220, Apr. 12, 2011]
+(Sec. 1, 46 Stat. 531, as amended; 7 U.S.C. 499a *et seq.)*[49 FR 45740, Nov. 20, 1984, as amended at 62 FR 15088, Mar. 31, 1997; 62 FR 60999, Nov. 14, 1997; 72 FR 29838, May 30, 2007; 76 FR 20220, Apr. 12, 2011; 83 FR 5178, Feb. 6, 2018]
