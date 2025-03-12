@@ -1,5 +1,7 @@
 ##### § 304-6.6 How do we determine the value of payments in kind that are to be reported on Standard Form (SF) 326? #####
 
+Link to an amendment published at 84 FR 55249, Oct. 16, 2019.
+
 The following should be used in the determination of the value of payments in kind for reporting on SF 326:
 
 (a) For conference, training, or similar fees waived or paid by a non-Federal source, you must report the amount charged other participants.

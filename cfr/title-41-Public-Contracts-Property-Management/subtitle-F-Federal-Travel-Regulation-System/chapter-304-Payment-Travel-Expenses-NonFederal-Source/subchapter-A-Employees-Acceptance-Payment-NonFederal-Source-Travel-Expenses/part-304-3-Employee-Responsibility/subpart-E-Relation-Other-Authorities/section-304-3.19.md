@@ -1,5 +1,7 @@
 ##### § 304-3.19 Are there other situations when I may accept payment from a non-Federal source for my travel expenses? #####
 
+Link to an amendment published at 84 FR 55248, Oct. 16, 2019.
+
 Yes, you may also accept payment of travel expenses from a non-Federal source under the following authorities, in addition to this part:
 
 (a) Under 5 U.S.C. 4111 for acceptance of contributions, awards, and other payments from tax-exempt entities for non-Government sponsored training or meetings (see regulations issued by the Office of Personnel Management at 5 CFR part 410).
