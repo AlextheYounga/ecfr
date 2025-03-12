@@ -1,7 +1,5 @@
 ##### § 1003.63 Applications. #####
 
-Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
-
 (a) *Generally.* To be included on the List, any organization, pro bono referral service, or attorney that is eligible under § 1003.62 to apply to be included on the List must file an application with the Director. Applications must be received by the Director at least 60 days in advance of the quarterly update in order to be considered. The application must:
 
 (1) Establish by clear and convincing evidence that the applicant qualifies to be on the List pursuant to § 1003.61(c);
@@ -48,8 +46,8 @@ Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
 
 (e) *Applications approved before* November 30, 2015. Providers whose applications to be included on the List were approved before November 30, 2015 must file an application under this section as follows: Organizations and pro bono referral services, within one year of November 30, 2015; attorneys, within six months of November 30, 2015. The names of providers who do not file an application as required by this paragraph shall be removed from the List following expiration of the application time period, the removal of which will be reflected no later than in the next quarterly update.
 
-(f) *Notice and comments* - (1) *Public notice and comment.* The names of the applicants, whether organizations, pro bono referral services, or individuals, meeting the regulatory requirements to be included on the List shall be publicly posted for 15 days after review of the applications by the Director, and upon request a copy of each application shall be made available for public review. Any individual may forward to the Director comments or a recommendation for approval or disapproval of an application within 30 days from the first date the name of the applicant is publicly posted. The commenting party shall include his or her name and address. A comment or recommendation may be sent to the Director electronically, in which case the Director shall transmit the comment or recommendation to the applicant. A comment or recommendation not sent to the Director electronically must include proof of service on the applicant, in accordance with the definition of “service” set forth in § 1003.13.
+(f) *Notice and comments*—(1) *Public notice and comment.* The names of the applicants, whether organizations, pro bono referral services, or individuals, meeting the regulatory requirements to be included on the List shall be publicly posted for 15 days after review of the applications by the Director, and upon request a copy of each application shall be made available for public review. Any individual may forward to the Director comments or a recommendation for approval or disapproval of an application within 30 days from the first date the name of the applicant is publicly posted. The commenting party shall include his or her name and address. A comment or recommendation may be sent to the Director electronically, in which case the Director shall transmit the comment or recommendation to the applicant. A comment or recommendation not sent to the Director electronically must include proof of service on the applicant.
 
-(2) *Response.* The applicant has 15 days to respond from the date the applicant was served with, or notified by the Director of, the comment. All responses must be filed with the Director and include proof of service of a copy of such response on the commenting party, in accordance with the definition of “service” set forth in § 1003.13.
+(2) *Response.* The applicant has 15 days to respond from the date the applicant was served with, or notified by the Director of, the comment. All responses must be filed with the Director and include proof of service of a copy of such response on the commenting party.
 
-[80 FR 59511, Oct. 1, 2015]
+[80 FR 59511, Oct. 1, 2015, as amended at 86 FR 70723, Dec. 13, 2021]

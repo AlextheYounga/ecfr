@@ -162,48 +162,6 @@ S4 *Definitions.*
 
 S5 *References to SAE publications.* Each required lamp, reflective device, and item of associated equipment must be designed to conform to the requirements of applicable SAE publications as referenced and subreferenced in this standard. The words “it is recommended that,” “recommendations,” or “should be” appearing in any SAE publication referenced or subreferenced in this standard must be read as setting forth mandatory requirements.
 
-S5.1 Each required lamp, reflective device, and item of associated equipment must be designed to conform to the requirements of applicable SAE publications as referenced and subreferenced in this standard. The words “it is recommended that,” “recommendations,” or “should be” appearing in any SAE publication referenced or subreferenced in this standard must be read as setting forth mandatory requirements.
-
-S5.2 *Incorporation by reference.* The Director of the Federal Register approves the incorporation by reference of the following material in accordance with 5 U.S.C. 552(a) and 1 CFR Part 51. All material is available for inspection at the NHTSA Reading Room, 1200 New Jersey Avenue, SE., Washington, DC 20590, or at NARA. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
-
-The material is also available at the publisher whose name and address follow the standard number:
-
-1. Society of Automotive Engineers (SAE) Standard J602, revised AUG 1963, “Headlamp Aiming Device for Mechanically Aimable Sealed Beam Headlamp Units.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-2. Society of Automotive Engineers (SAE) Standard J941b, revised FEB 1969, “Motor Vehicle Driver's Eye Range.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-3. Society of Automotive Engineers (SAE) Standard J602, revised OCT 1980, “Headlamp Aiming Device for Mechanically Aimable Sealed Beam Headlamp Units.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-4. Society of Automotive Engineers (SAE) Standard J2009, revised FEB 1993, “Forward Discharge Lighting Systems.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-5. Society of Automotive Engineers (SAE) Standard J573d, revised DEC 1968, “Lamp Bulbs and Sealed Units.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-6. Society of Automotive Engineers (SAE) Standard J567b, revised APR 1964, “Bulb Sockets.” Society of Automotive Engineers, Inc., 400 Commonwealth Drive, Warrendale, PA 15096.
-
-7. International Commission on Illumination (C.I.E.) 1931 Chromaticity Diagram. CIE Central Bureau, Kegelgasse 27, A-1030 Vienna, Austria.
-
-8. General Services Administration (GSA) Federal Specification L-S-300, approved September 1965, “Sheeting and Tape, Reflective: Nonexposed Lens, Adhesive Backing.” Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402, telephone 202-512-1800.
-
-9. American Society for Testing and Materials (ASTM) D4956-90, published December 1990, “Standard Specification for Retroreflective Sheeting for Traffic Control.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-10. ECE 48 E/ECE/324-E/ECE/TRANS/505, Rev.1/ADD.47/Rev.1/Corr.2, 26 February 1996, “Uniform Provisions Concerning the Approval of Vehicles with Regard to the Installation of Lighting and Light-Signaling Devices.” United Nations, Conference Services Division, Distribution and Sales Section, Office C.115-1, Palais des Nations, CH-1211, Geneva 10, *http://www.unece.org/trans/main/wp29/wp29regs.html.*
-
-11. American Society for Testing and Materials (ASTM) D1003-92, published December 1992, “Standard Test Method for Haze and Luminous Transmittance of Transparent Plastics.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-12. American Society for Testing and Materials (ASTM) E308-66, reapproved 1981, “Standard Practice for Spectrophotometry and Description of Color in CIE 1931 System.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-13. American Society for Testing and Materials (ASTM) B117-73, reapproved 1979, “Standard Method of Salt Spray (Fog) Testing.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-14. American Society for Testing and Materials (ASTM) Co. 05.04 1985, “Annual Book of ASTM Standards: Test Methods for Rating Motor, Diesel, Aviation Fuels,” Section I, parts A2.3.2, A2.3.3, and A2.7 in Annex 2. ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-15. American Society for Testing and Materials (ASTM) D362-84, published March 1984, “Standard Specification for Industrial Grade Toluene.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-16. American Society for Testing and Materials (ASTM) C150-77, published April 1977, “Standard Specification for Portland Cement.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-17. American Society for Testing and Materials (ASTM) C150-56, published 1956, “Standard Specifications for Portland Cement.” ASTM International, 100 Barr Harbor Drive, PO Box C700, Conshohocken, PA 19428-2959.
-
-18. Illuminating Engineering Society of North America (IES) LM 45, approved April 1980, “IES Approved Method for Electrical and Photometric Measurements of General Service Incandescent Filament Lamps.” Illuminating Engineering Society of North America, 345 East 47th St., New York, NY 10017.
-
 S6 *Vehicle requirements.*
 
 S6.1 *Required lamps, reflective devices, and associated equipment by vehicle type.*

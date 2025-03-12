@@ -1,5 +1,7 @@
 ##### § 117.391 Chicago River. #####
 
+Link to an amendment published at 87 FR 7946, Feb. 11, 2022.
+
 The draws of the bridges operated by the City of Chicago over the Main Branch of Chicago River, the bridges on the North Branch of Chicago River from the Main Branch to North Halsted Street, mile 2.65, and bridges on the South Branch of Chicago River from the Main Branch to South Ashland Avenue, mile 4.47, shall operate as follows:
 
 (a) For commercial vessels, all bridges shall open on signal if at least 12-hours advance notice is provided to the Chicago City Bridge Desk prior to the intended time of passage; except that, from Monday through Friday between the hours of 7 a.m. and 9:30 a.m., and between the hours of 4 p.m. and 6:30 p.m., except for Federal holidays, the draws need not open for the passage of vessels.

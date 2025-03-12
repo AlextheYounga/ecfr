@@ -1,10 +1,8 @@
 ##### § 1003.24 Fees pertaining to matters within the jurisdiction of an immigration judge. #####
 
-Link to an amendment published at 86 FR 70722, Dec. 13, 2021.
-
 (a) *Generally.* All fees for the filing of motions and applications in connection with proceedings before the immigration judges are paid to the Department of Homeland Security in accordance with 8 CFR 103.7 and 8 CFR part 106, including fees for applications published by the Executive Office for Immigration Review. The immigration court does not collect fees.
 
-(b) *Motions to reopen or reconsider* - (1) *When a fee is required.* Except as provided in paragraph (b)(2) of this section, a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (d) of this section, is required in connection with the filing of a motion to reopen or a motion to reconsider.
+(b) *Motions to reopen or reconsider*—(1) *When a fee is required.* Except as provided in paragraph (b)(2) of this section, a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (d) of this section, is required in connection with the filing of a motion to reopen or a motion to reconsider.
 
 (2) *When a fee is not required.* A filing fee is not required in the following instances:
 
@@ -24,10 +22,10 @@ Link to an amendment published at 86 FR 70722, Dec. 13, 2021.
 
 (viii) A motion filed under a law, regulation, or directive that specifically does not require a filing fee.
 
-(c) *Applications for relief* - (1) *When filed during proceedings.* When an application for relief is filed during the course of proceedings, the fee for that application must be paid in advance to the Department of Homeland Security in accordance with 8 CFR 103.7 and 8 CFR part 106. The fee receipt must accompany the application when it is filed with the immigration court except as provided by 8 CFR 1208.4(d)(3).
+(c) *Applications for relief*—(1) *When filed during proceedings.* When an application for relief is filed during the course of proceedings, the fee for that application must be paid in advance to the Department of Homeland Security in accordance with 8 CFR 103.7 and 8 CFR part 106. The fee receipt must accompany the application when it is filed with the immigration court except as provided by 8 CFR 1208.4(d)(3).
 
 (2) *When submitted with a motion to reopen.* When a motion to reopen is based upon an application for relief, the fee for the motion to reopen shall be paid to the Department of Homeland Security and the fee receipt shall accompany the motion. Payment of the fee for the application for relief must be paid to the Department of Homeland Security within the time specified by the immigration judge.
 
-(d) *Fee waivers.* The immigration judge has the discretion to waive a fee for a motion or application for relief upon a showing that the filing party is unable to pay the fee. The request for a fee waiver must be accompanied by a properly executed affidavit or unsworn declaration made pursuant to 28 U.S.C. 1746 substantiating the filing party's inability to pay the fee. If the request for a fee waiver is denied, the application or motion will not be deemed properly filed.
+(d) *Fee waivers.* The immigration judge has the discretion to waive a fee for a motion or application for relief upon a showing that the filing party is unable to pay the fee. The request for a fee waiver must be accompanied by a properly executed affidavit or unsworn declaration made pursuant to 28 U.S.C. 1746 substantiating the filing party's inability to pay the fee. If the request for a fee waiver is denied, the application or motion will not be deemed properly filed, provided the immigration judge grants 15 days to re-file the rejected document with the filing fee or new fee waiver request and tolls any applicable filing deadline during the 15-day cure period.
 
-[69 FR 44906, July 28, 2004, as amended at 85 FR 81750, Dec. 16, 2020; 85 FR 82793, Dec. 18, 2020]
+[69 FR 44906, July 28, 2004, as amended at 85 FR 81750, Dec. 16, 2020; 85 FR 82793, Dec. 18, 2020; 86 FR 70722, Dec. 13, 2021]

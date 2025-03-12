@@ -1,7 +1,5 @@
 ##### § 1001.1 Definitions. #####
 
-Link to an amendment published at 86 FR 70719, Dec. 13, 2021.
-
 As used in this chapter:
 
 (a) The terms defined in section 101 of the Immigration and Nationality Act (66 Stat. 163) shall have the meanings ascribed to them in that section and as supplemented, explained, and further defined in this chapter.
@@ -40,7 +38,7 @@ As used in this chapter:
 
 (r) The term *respondent* means a person named in a Notice to Appear issued in accordance with section 239(a) of the Act, or in an Order to Show Cause issued in accordance with § 242.1 of 8 CFR chapter I as it existed prior to April 1, 1997.
 
-(s) The terms *government counsel* or *Service counsel*, in the context of proceedings in which the Department of Homeland Security has appeared, mean any officer assigned to represent the Department of Homeland Security in any proceeding before an immigration judge or the Board of Immigration Appeals.
+(s) The terms *government counsel* or *DHS counsel,* in the context of proceedings in which DHS has appeared, mean any officer assigned to represent DHS in any proceeding before an immigration judge or the Board of Immigration Appeals.
 
 (t) The term *aggravated felony* means a crime (or a conspiracy or attempt to commit a crime) described in section 101(a)(43) of the Act. This definition is applicable to any proceeding, application, custody determination, or adjudication pending on or after September 30, 1996, but shall apply under section 276(b) of the Act only to violations of section 276(a) of the Act occurring on or after that date.
 
@@ -53,5 +51,11 @@ As used in this chapter:
 (x)-(aa) [Reserved]
 
 (bb) The term *transition program effective date* as used with respect to extending the immigration laws to the Commonwealth of the Northern Mariana Islands means November 28, 2009.
+
+(cc) The term *case eligible for electronic filing* means any case that DHS seeks to bring before an immigration court after EOIR has formally established an electronic filing system for that court, or any case before an immigration court or the Board of Immigration Appeals that has an electronic record of proceeding. Any reference to a record of proceeding in this chapter shall include an electronic record of proceeding.
+
+(dd) The term *filing* means the actual receipt of a document by the appropriate immigration court or the Board of Immigration Appeals. An electronic filing that is accepted by the Board or an immigration court will be deemed filed on the date it was submitted. A paper filing that is accepted by the Board or an immigration court will be deemed filed on the date it was received by the Board or the immigration court. A filing that is rejected by the Board or the immigration court as an improper filing will not be deemed filed on the date it was submitted or received.
+
+(ee) The term *service* means physically presenting, mailing, or electronically providing a document to the appropriate party or parties; except that an Order to Show Cause or Notice of Deportation Hearing shall be served in person to the alien, or by certified mail to the alien or the alien's attorney, and a Notice to Appear shall be served to the alien in person, or if personal service is not practicable, shall be served by regular mail to the alien or the alien's attorney of record.
 
 [23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

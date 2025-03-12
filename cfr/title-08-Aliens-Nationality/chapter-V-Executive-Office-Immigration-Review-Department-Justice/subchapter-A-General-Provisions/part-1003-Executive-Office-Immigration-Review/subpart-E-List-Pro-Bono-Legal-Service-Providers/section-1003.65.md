@@ -1,7 +1,5 @@
 ##### § 1003.65 Removal of a provider from the List. #####
 
-Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
-
 (a) *Automatic removal.* If the Director determines that an attorney on the List is the subject of a final order of disbarment under § 1003.101(a)(1), or an order of suspension under § 1003.101(a)(2), then the Director shall:
 
 (1) Remove the name of the attorney from the List no later than at the next quarterly update; and
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
 
 (2) *Notice.* If the Director determines that a provider falls within one or more of the enumerated grounds under paragraph (d)(1) of this section, the Director shall promptly notify the provider in writing, at the address last provided to the Director by the provider or electronically, of the Director's intention to remove the name of the provider from the List.
 
-(3) *Response.* The provider may submit a written answer within 30 days from the date the notice is served, as described in § 1003.13, or is sent to the provider electronically. The provider must establish by clear and convincing evidence that the provider continues to meet the qualifications for inclusion on the List, by declaration under penalty of perjury as to the provider's continued compliance with eligibility requirements under this subchapter, which must include alien registration numbers of clients in whose cases the provider rendered pro bono legal services under § 1003.62(a)(1), (b)(2), or (d)(2), representing at least 50 hours of pro bono legal services each year since the provider's most recent declaration under § 1003.64(b)(2), or since the provider was included on the List, whichever was more recent.
+(3) *Response.* The provider may submit a written answer within 30 days from the date the notice is served or is sent to the provider electronically. The provider must establish by clear and convincing evidence that the provider continues to meet the qualifications for inclusion on the List, by declaration under penalty of perjury as to the provider's continued compliance with eligibility requirements under this subchapter, which must include alien registration numbers of clients in whose cases the provider rendered pro bono legal services under § 1003.62(a)(1), (b)(2), or (d)(2), representing at least 50 hours of pro bono legal services each year since the provider's most recent declaration under § 1003.64(b)(2), or since the provider was included on the List, whichever was more recent.
 
 (4) *Decision.* If, after consideration of any response submitted by the provider, the Director determines that the provider is no longer qualified to remain on the List, the Director shall:
 
@@ -38,4 +36,4 @@ Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
 
 (5) *Disciplinary Action.* Removal from the List pursuant to § 1003.65(a), (b), (c), or (d) shall be without prejudice to the authority to discipline a practitioner under EOIR's rules and procedures for professional conduct for practitioners listed in 8 CFR part 1003, subpart G.
 
-[80 FR 59512, Oct. 1, 2015]
+[80 FR 59512, Oct. 1, 2015, as amended at 86 FR 70723, Dec. 13, 2021]

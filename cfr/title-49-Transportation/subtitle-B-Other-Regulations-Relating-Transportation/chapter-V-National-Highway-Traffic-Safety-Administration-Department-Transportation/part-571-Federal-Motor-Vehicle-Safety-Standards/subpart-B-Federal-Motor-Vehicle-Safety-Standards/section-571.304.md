@@ -1,5 +1,7 @@
 ##### § 571.304 Standard No. 304; Compressed natural gas fuel container integrity. #####
 
+Link to an amendment published at 87 FR 7964, Feb. 11, 2022.
+
 S1. *Scope.* This standard specifies requirements for the integrity of compressed natural gas (CNG), motor vehicle fuel containers.
 
 S2. *Purpose.* The purpose of this standard is to reduce deaths and injuries occurring from fires that result from fuel leakage during and after motor vehicle crashes.

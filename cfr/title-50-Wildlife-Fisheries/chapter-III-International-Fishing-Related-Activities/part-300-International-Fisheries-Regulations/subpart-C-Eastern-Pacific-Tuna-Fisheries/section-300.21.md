@@ -70,6 +70,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Tuna* means any fish of the genus Thunnus and the species *Katsuwonus pelamis.*
 
+*Vessel monitoring system (VMS)* means an automated, remote system that provides information about a vessel's identity, location and activity, for the purposes of routine monitoring, control, surveillance and enforcement of area and time restrictions and other fishery management measures.
+
 *VMS unit,* sometimes known as a “mobile transmitting unit,” means a transceiver or communications device, including all hardware and software that is carried and operated on a vessel as part of a VMS.
 
 [61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 1292.1 Representation of others. #####
 
-Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
-
 (a) A person entitled to representation may be represented by any of the following:
 
 (1) *Attorneys in the United States.* Any attorney as defined in § 1001.1(f) of this chapter and who, once the registration requirements in paragraph (f) of this section have taken effect, is registered to practice with the Executive Office for Immigration Review.
@@ -10,11 +8,13 @@ Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
 
 (i) He or she is appearing at the request of the person entitled to representation;
 
-(ii) In the case of a law student, he or she has filed a statement that he or she is participating, under the direct supervision of a faculty member, licensed attorney, or accredited representative, in a legal aid program or clinic conducted by a law school or non-profit organization, and that he or she is appearing without direct or indirect remuneration from the alien he or she represents;
+(ii) In the case of a law student, he or she has filed a statement that he or she is participating, under the direct supervision of an EOIR-registered licensed attorney or accredited representative, in a legal aid program or clinic conducted by a law school or non-profit organization, and that he or she is without direct or indirect remuneration from the alien he or she represents;
 
-(iii) In the case of a law graduate, he or she has filed a statement that he or she is appearing under the supervision of a licensed attorney or accredited representative and that he or she is appearing without direct or indirect remuneration from the alien he or she represents; and
+(iii) In the case of a law graduate, he or she has filed a statement that he or she is appearing under the supervision of an EOIR-registered licensed attorney or accredited representative and that he or she is appearing without direct or indirect remuneration from the alien he or she represents;
 
-(iv) The law student's or law graduate's appearance is permitted by the official before whom he or she wishes to appear (namely an immigration judge, district director, officer-in-charge, regional director, the Commissioner, or the Board). The official or officials may require that a law student be accompanied by the supervising faculty member, attorney, or accredited representative.
+(iv) When the law student or law graduate appears before the immigration court or the Board of Immigration Appeals, the law student or law graduate is supervised by an attorney or accredited representative who must appear simultaneously at the same hearing. The accompanying attorney or accredited representative must be authorized to practice before EOIR and be prepared to proceed with the case at all times; and
+
+(v) All filings by law students and law graduates are made through an EOIR-registered attorney or accredited representative.
 
 (3) *Reputable individuals.* Any reputable individual of good moral character, provided that:
 
@@ -40,4 +40,4 @@ Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
 
 (f) *Registration requirement for attorneys and accredited representatives.* The Director or his designee is authorized to register, and establish procedures for registering, attorneys and accredited representatives, specified in paragraph (a) of this section, as a condition of practice before immigration judges or the Board of Immigration Appeals. Such registration procedures will include a requirement for electronic registration and that each registrant validate his or her identity by presenting photo identification. The Director or his designee may administratively suspend from practice before the immigration judges and the Board any attorney or accredited representative who fails to provide the following required registration information: name, business address(es), business telephone number(s), date of birth, email address, bar admission information (if applicable), and recognized organization (if applicable), or who, after having provided that information, fails to present photo identification or comply with any other validation requirements implemented by the Director. After such a system has been established, an immigration judge may, under extraordinary and rare circumstances, permit an unregistered attorney or accredited representative to appear at one hearing if the immigration judge first acquires from the attorney or accredited representative, on the record, the required registration information. An unregistered attorney or accredited representative who is permitted to appear at a hearing in such circumstances must complete the electronic registration process without delay after the hearing at which he or she is permitted to appear.
 
-[40 FR 23271, May 29, 1975, as amended at 53 FR 7728, Mar. 10, 1988; 55 FR 49251, Nov. 27, 1990; 61 FR 53610, Oct. 15, 1996; 62 FR 23635, May 1, 1997; 73 FR 76927, Dec. 18, 2008; 78 FR 19408, Apr. 1, 2013; 81 FR 92367, Dec. 19, 2016]
+[40 FR 23271, May 29, 1975, as amended at 53 FR 7728, Mar. 10, 1988; 55 FR 49251, Nov. 27, 1990; 61 FR 53610, Oct. 15, 1996; 62 FR 23635, May 1, 1997; 73 FR 76927, Dec. 18, 2008; 78 FR 19408, Apr. 1, 2013; 81 FR 92367, Dec. 19, 2016; 86 FR 70725, Dec. 13, 2021]

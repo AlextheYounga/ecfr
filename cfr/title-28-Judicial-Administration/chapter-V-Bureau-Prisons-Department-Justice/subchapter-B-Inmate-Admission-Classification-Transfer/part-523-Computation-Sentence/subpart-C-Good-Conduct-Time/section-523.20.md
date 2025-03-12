@@ -1,5 +1,7 @@
 ##### § 523.20 Good conduct time. #####
 
+Link to an amendment published at 87 FR 7943, Feb. 11, 2022.
+
 (a) For inmates serving a sentence for offenses committed on or after November 1, 1987, but before September 13, 1994, the Bureau will award 54 days credit toward service of sentence (good conduct time credit) for each year served. This amount is prorated when the time served by the inmate for the sentence during the year is less than a full year.
 
 (b) For inmates serving a sentence for offenses committed on or after September 13, 1994, but before April 26, 1996, all yearly awards of good conduct time will vest for inmates who have earned, or are making satisfactory progress (see § 544.73(b) of this chapter) toward earning a General Educational Development (GED) credential.
