@@ -1,5 +1,7 @@
 ##### § 319.40-3 General permits; articles that may be imported without a specific permit; articles that may be imported without either a specific permit or an importer document. #####
 
+Link to an amendment published at 85 FR 61809, Oct. 1, 2020.
+
 (a) *Canada and Mexico.* (1) The following articles may be imported into the United States under general permit:
 
 (i) From Canada: Regulated articles, other than the following:

@@ -1,0 +1,3 @@
+##### § 29.929 How will the Department communicate its decision following a hearing on a termination decision? #####
+
+After the hearing or any post-hearing briefing schedule established by the Department's Office of Hearings, the administrative law judge must send the Department and the Tribe the decision by any method that provides a receipt. The decision must contain the administrative law judge's findings of fact and conclusions of law on all the issues.

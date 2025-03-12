@@ -1,21 +1,15 @@
-##### § 71.30 General Caregivers. #####
+##### § 71.30 Reassessment of Eligible Veterans and Family Caregivers. #####
 
-Link to an amendment published at 85 FR 46296, July 31, 2020.
+(a) Except as provided in paragraphs (b) and (c) of this section, the eligible veteran and Family Caregiver will be reassessed by VA (in collaboration with the primary care team to the maximum extent practicable) on an annual basis to determine their continued eligibility for participation in PCAFC under this part. Reassessments will include consideration of whether the eligible veteran is unable to self-sustain in the community for purposes of the monthly stipend rate under § 71.40(c)(4)(i)(A). Reassessment may include a visit to the eligible veteran's home.
 
-(a) A General Caregiver is a person who:
+(b) Reassessments may occur more frequently than annually if a determination is made and documented by VA that more frequent reassessment is appropriate.
 
-(1) Is not a Primary or Secondary Family Caregiver; and
+(c) Reassessments may occur on a less than annual basis if a determination is made and documented by VA that an annual reassessment is unnecessary.
 
-(2) Provides personal care services to a covered veteran under this section, even if the individual does not reside with the veteran.
+(d) Failure of the eligible veteran or Family Caregiver to participate in any reassessment pursuant to this section will result in revocation pursuant to § 71.45, Revocation and Discharge of Family Caregivers.
 
-(b) A covered veteran, for purposes of this section, is a veteran who is enrolled in the VA health care system and needs personal care services because the veteran either:
+(e)(1) If the eligible veteran meets the requirements of § 71.20(b) or (c) (*i.e.,* is a legacy participant or a legacy applicant), the eligible veteran and Family Caregiver will be reassessed by VA (in collaboration with the primary care team to the maximum extent practicable) within the one-year period beginning on October 1, 2020 to determine whether the eligible veteran meets the requirements of § 71.20(a). This reassessment may include a visit to the eligible veteran's home. If the eligible veteran meets the requirements of § 71.20(a), the reassessment will consider whether the eligible veteran is unable to self-sustain in the community for purposes of the monthly stipend rate under § 71.40(c)(4)(i)(A).
 
-(1) Is unable to perform an activity of daily living; or
+(2) Notwithstanding paragraph (e)(1) of this section, a reassessment will not be completed under paragraph (e)(1) if at some point before a reassessment is completed during the one-year period beginning on October 1, 2020 the individual no longer meets the requirements of § 71.20(b) or (c).
 
-(2) Needs supervision or protection based on symptoms or residuals of neurological or other impairment or injury.
-
-(c) No application or clinical evaluation is required to obtain benefits as a General Caregiver. Veterans or General Caregivers may request any of the benefits listed in § 71.40(a) as needed, from the appropriate VA clinicians and staff at their local VA facilities.
-
-(d) A veteran is not required to meet the eligibility requirements in § 71.20 to be considered a covered veteran.
-
-(Authority: 38 U.S.C. 501, 1720G(b)(1), (2))[76 FR 26172, May 5, 2011, as amended at 80 FR 1377, Jan. 9, 2015]
+[85 FR 46296, July 31, 2020]

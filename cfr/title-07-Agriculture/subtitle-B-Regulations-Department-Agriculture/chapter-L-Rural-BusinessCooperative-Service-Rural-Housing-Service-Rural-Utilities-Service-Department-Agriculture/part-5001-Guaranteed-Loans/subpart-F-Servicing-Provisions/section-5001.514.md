@@ -1,0 +1,13 @@
+##### § 5001.514 Lender failure. #####
+
+(a) *General.* In the event a lender fails or ceases to service a guaranteed loan, the Agency will make the successor lending entity aware of the statutory and regulatory requirements and will provide instruction to the successor lending entity on a case-by-case basis. Such instructions may include the Agency's determination that the Agency will service the entire loan or the guaranteed portion of the loan.
+
+(1) Any successor lender must take such action that a reasonable lender would take if it did not have a loan note guarantee to protect the lender and Agency's mutual interest.
+
+(2) A successor entity approved by the Agency as a lender will be afforded the benefits of the loan note guarantee in the sharing of any loss and eligible expenses subject to the limits that are set forth in the regulations governing the loan guarantee.
+
+(b) *Non-regulated lender.* If the successor lending entity is a non-regulated lender, the lending entity is prohibited from making changes to the lender's agreement and related documents on the guaranteed loan. The successor lending entity must comply with the provisions of this part, including promptly applying to become a lender if not already an eligible lender. If the successor lending entity is not or fails to become a lender as set forth in § 5001.130 of this part within 60 calendar days, the loan note guarantee will not be enforceable.
+
+(c) *Regulated lender.* Where the failed lending entity is an FDIC regulated lender, the FDIC and the Agency will enter into an Inter-Agency Agreement regarding the FDIC's role as the successor lending entity, and all parties are to abide by this agreement or successor document(s). This agreement sets forth the duties and responsibilities of each Agency when a lender fails. When the FDIC is not the successor to a failed regulated lender, the regulatory agency serving as the successor lending entity and the Agency will abide by terms of the lender's agreement as executed by the originating lender. The Agency reserves the right to request a meeting with the successor lending entity to further define the duties and responsibilities of each agency when a lender fails.
+
+(d) *No successor entity.* In the event no successor lending entity can be determined, the Agency reserves the right to enforce the provisions of the loan documents on behalf of the lender or to purchase the lender's interest in the loan.

@@ -1,0 +1,3 @@
+##### § 29.513 How long must a Tribe keep and make available records? #####
+
+A Tribe must keep books, documents, papers, and records of funding, grants, and State-provided funds for 3 years from the date of submission of the Single Audit Act audit report and provide the Department or the Comptroller General access to such records for audit and examination related to compacts, funding agreements, grants, contracts, subcontracts, sub-grants, or other arrangements under the Program.

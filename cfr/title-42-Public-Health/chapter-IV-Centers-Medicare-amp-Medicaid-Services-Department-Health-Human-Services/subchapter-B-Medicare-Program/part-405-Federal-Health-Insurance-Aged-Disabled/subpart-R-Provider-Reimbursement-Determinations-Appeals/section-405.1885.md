@@ -1,7 +1,5 @@
 ##### § 405.1885 Reopening a contractor determination or reviewing entity decision. #####
 
-Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
-
 (a) *General.* (1) A Secretary determination, a contractor determination, or a decision by a reviewing entity (as described in § 405.1801(a)) may be reopened, with respect to specific findings on matters at issue in a determination or decision, by CMS (with respect to Secretary determinations), by the contractor (with respect to contractor determinations), or by the reviewing entity that made the decision (as described in paragraph (c) of this section).
 
 (i) A specific finding on a matter at issue may be legal or factual in nature or a mixed matter of both law and fact.
@@ -22,9 +20,9 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (6) A determination or decision to reopen or not to reopen a determination or decision is not a final determination or decision within the meaning of this subpart and is not subject to further administrative review or judicial review.
 
-(b) *Time limits* - (1) *Own motion reopening of a determination not procured by fraud or similar fault.* An own motion reopening is timely only if the notice of intent to reopen (as described in § 405.1887 of this subpart) is mailed no later than 3 years after the date of the determination or decision that is the subject of the reopening. The date the notice is mailed is presumed to be the date indicated on the notice unless it is shown by a preponderance of the evidence that the notice was mailed on a later date.
+(b) *Time limits*—(1) *Own motion reopening of a determination not procured by fraud or similar fault.* An own motion reopening is timely only if the notice of intent to reopen (as described in § 405.1887) is sent no later than 3 years after the date of the determination or decision that is the subject of the reopening. The date the notice is sent is presumed to be the date indicated on the notice unless it is shown by a preponderance of the evidence that the notice was sent on a later date.
 
-(2) *Request for reopening of a determination not based on fraud or similar fault.* (i) A reopening made upon request is timely only if the request to reopen is received by CMS, the contractor, or reviewing entity, as appropriate, no later than 3 years after the date of the determination or decision that is the subject of the requested reopening. The date of receipt by CMS, the contractor, or the reviewing entity of the request to reopen is conclusively presumed to be the date of delivery by a nationally-recognized next-day courier, or the date stamped “Received” by CMS, the contractor or the reviewing entity (where a nationally-recognized next-day courier is not employed), unless it is shown by clear and convincing evidence that CMS, the contractor, or the reviewing entity received the request on an earlier date.
+(2) *Request for reopening of a determination not based on fraud or similar fault.* (i) A reopening made upon request is timely only if the request to reopen is received by CMS, the contractor, or reviewing entity, as appropriate, no later than 3 years after the date of the determination or decision that is the subject of the requested reopening. The date of receipt by CMS, the contractor, or the reviewing entity of the request to reopen is determined by applying the date of receipt presumption criteria for reviewing entities defined in § 405.1801(a), unless it is shown by clear and convincing evidence that CMS, the contractor, or the reviewing entity received the request on an earlier date.
 
 (ii) A request to reopen does not toll the time in which to appeal an otherwise appealable determination or decision.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (4) *Reopening of determination within the time for appealing that determination to the Board.* CMS or a contractor may reopen, on its own motion or on request of the provider(s), a Secretary or contractor determination for which no appeal was taken to the Board, but for which the time to appeal to the Board has not yet expired, by sending the notice specified in § 405.1887(a) of this subpart.
 
-[73 FR 30265, May 23, 2008, as amended at 78 FR 75195, Dec. 10, 2013]
+[73 FR 30265, May 23, 2008, as amended at 78 FR 75195, Dec. 10, 2013; 85 FR 59019, Sept. 18, 2020]

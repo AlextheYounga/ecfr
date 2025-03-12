@@ -1,8 +1,6 @@
 ##### § 412.523 Methodology for calculating the Federal prospective payment rates. #####
 
-Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
-
-(a) *Data used.* To calculate the initial prospective payment rates for inpatient hospital services furnished by long-term care hospitals, CMS uses -
+(a) *Data used.* To calculate the initial prospective payment rates for inpatient hospital services furnished by long-term care hospitals, CMS uses—
 
 (1) The best Medicare data available; and
 
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
 
 (b) *Determining the average costs per discharge for FY 2003.* CMS determines the average inpatient operating and capital-related costs per discharge for which payment is made to each inpatient long-term care hospital using the available data under paragraph (a)(1) of this section. The cost per discharge is adjusted to FY 2003 by a rate of increase factor, described in paragraph (a)(2) of this section, under the update methodology described in section 1886(b)(3)(B)(ii) of the Act for each year.
 
-(c) *Determining the Federal prospective payment rates* - (1) *General.* The Federal prospective payment rates will be established using a standard payment amount referred to as the standard Federal rate. The standard Federal rate is a standardized payment amount based on average costs from a base year that reflects the combined aggregate effects of the weighting factors and other adjustments.
+(c) *Determining the Federal prospective payment rates*—(1) *General.* The Federal prospective payment rates will be established using a standard payment amount referred to as the standard Federal rate. The standard Federal rate is a standardized payment amount based on average costs from a base year that reflects the combined aggregate effects of the weighting factors and other adjustments.
 
 (2) *Update the cost per discharge.* CMS applies the increase factor described in paragraph (a)(2) of this section to each hospital's cost per discharge determined under paragraph (b) of this section to compute the cost per discharge for FY 2003. Based on the updated cost per discharge, CMS estimates the payments that would have been made to each hospital for FY 2003 under Part 413 of this chapter without regard to the prospective payment system implemented under this subpart.
 
@@ -54,7 +52,9 @@ Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
 
 (xvi) *For long-term care prospective payment system fiscal year beginning October 1, 2019, and ending September 30, 2020.* The long-term care hospital prospective payment system standard Federal payment rate for the long-term care hospital prospective payment system beginning October 1, 2019 and ending September 30, 2020 is the standard Federal payment rate for the previous long-term care prospective payment system fiscal year updated by 2.5 percent and further adjusted, as appropriate, as described in paragraph (d) of this section.
 
-(4) *For fiscal year 2014 and subsequent fiscal years* -
+(xvii) *For long-term care prospective payment system fiscal year 2021 and subsequent fiscal years.* The long-term care hospital prospective payment system standard Federal payment rate for a long-term care hospital prospective payment system fiscal year is the standard Federal payment rate for the previous long-term care prospective payment system fiscal year updated by the percentage increase in the market basket index (as determined by CMS) less a multifactor productivity adjustment (as determined by CMS), and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
+(4) *For fiscal year 2014 and subsequent fiscal years*—
 
 (i) In the case of a long-term care hospital that does not submit quality reporting data to CMS in the form and manner and at a time specified by the Secretary, the annual update to the standard Federal rate specified in paragraph (c)(3) of this section is further reduced by 2.0 percentage points.
 
@@ -62,7 +62,7 @@ Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
 
 (5) *Determining the Federal prospective payment rate for each LTC-DRG.* The Federal prospective payment rate for each LTC-DRG is the product of the weighting factors described in § 412.515 and the standard Federal rate described in paragraph (c)(3) of this section.
 
-(d) *Adjustments to the standard Federal rate.* The standard Federal rate described in paragraph (c)(3) of this section will be adjusted for -
+(d) *Adjustments to the standard Federal rate.* The standard Federal rate described in paragraph (c)(3) of this section will be adjusted for—
 
 (1) *Outlier payments.* CMS adjusts the LTCH PPS standard Federal payment rate by a reduction factor of 8 percent, the estimated proportion of outlier payments under § 412.525(a) payable for discharges described in § 412.522(a)(2) (notwithstanding the provisions of § 412.525(a)(2)(ii) for FY 2018 and subsequent years.
 

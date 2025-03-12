@@ -1,0 +1,3 @@
+##### § 29.516 Do Federal laws and regulations apply to a Tribe's contractors or subcontractors? #####
+
+A Tribe's contractors or subcontractors are responsible for complying with Federal laws and regulations. Contracts between a Tribe and its contractors should inform contractors that the contract is carried out using funds included in a funding agreement, and that the contractors and its subcontractors are responsible for identifying and ensuring compliance with applicable Federal laws and regulations. The Department and the Tribe may, through negotiation, identify all or a portion of such requirements in the funding agreement and, if so identified, these requirements should be identified in the contracts the Tribe awards using funds included in a funding agreement.

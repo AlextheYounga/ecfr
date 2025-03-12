@@ -1,8 +1,12 @@
 ##### § 412.104 Special treatment: Hospitals with high percentage of ESRD discharges. #####
 
-Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
+(a) *Criteria for classification.* CMS provides an additional payment to a hospital for inpatient services provided to ESRD beneficiaries who receive a dialysis treatment during a hospital stay, if the hospital has established that ESRD beneficiary discharges, excluding discharges classified into any of the following MS-DRGs, where the beneficiary received dialysis services during the inpatient stay, constitute 10 percent or more of its total Medicare discharges:
 
-(a) *Criteria for classification.* CMS provides an additional payment to a hospital for inpatient services provided to ESRD beneficiaries who receive a dialysis treatment during a hospital stay, if the hospital has established that ESRD beneficiary discharges, excluding discharges classified into MS-DRG 652 (Renal Failure), MS-DRG 682 (Renal Failure with MCC), MS-DRG 683 (Renal Failure with CC), MS-DRG 684 (Renal Failure without CC/MCC) and MS-DRG 685 (Admit for Renal Dialysis), where the beneficiary received dialysis services during the inpatient stay, constitute 10 percent or more of its total Medicare discharges.
+(1) MS-DRG 019 (Simultaneous Pancreas/Kidney Transplant with Hemodialysis).
+
+(2) MS-DRGs 650 and 651 (Kidney Transplant with Hemodialysis with MCC, without MCC, respectively).
+
+(3) MS-DRGs 682, 683, and 684 (Renal Failure with MCC, with CC, without CC/MCC, respectively).
 
 (b) *Additional payment.* A hospital that meets the criteria of paragraph (a) of this section is paid an additional payment for each ESRD beneficiary discharge except those excluded under paragraph (a) of this section.
 
@@ -16,4 +20,4 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (5) The payment to a hospital equals the average length of stay of ESRD beneficiaries in the hospital, expressed as a ratio to one week, times the estimated weekly cost of dialysis multiplied by the number of ESRD beneficiary discharges except for those excluded under paragraph (a) of this section. This payment is made only on the Federal portion of the payment rate.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39824, Sept. 1, 1992; 69 FR 49244, Aug. 11, 2004; 73 FR 48755, Aug. 19, 2008]
+[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39824, Sept. 1, 1992; 69 FR 49244, Aug. 11, 2004; 73 FR 48755, Aug. 19, 2008; 85 FR 59021, Sept. 18, 2020]

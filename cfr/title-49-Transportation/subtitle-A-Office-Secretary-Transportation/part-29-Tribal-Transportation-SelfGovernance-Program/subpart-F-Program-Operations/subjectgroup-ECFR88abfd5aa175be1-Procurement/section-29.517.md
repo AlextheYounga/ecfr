@@ -1,0 +1,3 @@
+##### § 29.517 Can a Tribe use Federal supply sources in the performance of a compact and funding agreement? #####
+
+A Tribe and its employees may use Federal supply sources (including lodging, airline, interagency motor pool vehicles, and other means of transportation) in the performance of a compact and funding agreement to the same extent as if the Tribe were a Federal agency. The Department will assist the Tribes, to the extent feasible, to resolve any barriers to full implementation.

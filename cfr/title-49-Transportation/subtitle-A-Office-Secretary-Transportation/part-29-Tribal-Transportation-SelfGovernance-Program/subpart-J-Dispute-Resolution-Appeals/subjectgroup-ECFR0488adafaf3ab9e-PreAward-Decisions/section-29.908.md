@@ -1,0 +1,3 @@
+##### § 29.908 May a Tribe request an extension of time to file an administrative appeal? #####
+
+If a Tribe needs additional time, it may request an extension of time to file an appeal of a pre-award decision. Within 30 days of receiving a decision, a Tribe must request the extension from the Office of the General Counsel, which has the discretion to grant the extension, and notify the Self-Governance Official of the request. The request must be in writing and give a reason for not filing its administrative appeal within the 30-day period. The Department may accept an appeal after the 30-day period for good cause.

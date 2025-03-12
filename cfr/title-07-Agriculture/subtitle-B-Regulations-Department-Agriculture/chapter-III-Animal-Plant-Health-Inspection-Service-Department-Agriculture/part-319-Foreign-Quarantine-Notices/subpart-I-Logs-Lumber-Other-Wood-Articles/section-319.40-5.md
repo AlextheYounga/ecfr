@@ -1,5 +1,7 @@
 ##### § 319.40-5 Importation and entry requirements for specified articles. #####
 
+Link to an amendment published at 85 FR 61809, Oct. 1, 2020.
+
 (a) *Bamboo timber.* Bamboo timber consisting of whole culms or canes may be imported into Guam or the Northern Mariana Islands subject to inspection and other requirements of § 319.40-9. Bamboo timber consisting of whole culms or canes that are completely dry as evidenced by lack of moisture in node tissue may be imported into any part of the United States subject to inspection and other requirements of § 319.40-9.
 
 (b) *Monterey pine logs and lumber from Chile and New Zealand; Douglas-fir logs and lumber from New Zealand* - (1) Logs - (i) *Requirements prior to importation.* Monterey or Radiata pine (*Pinus radiata*) logs from Chile or New Zealand and Douglas-fir (*Pseudotsuga menziesii*) logs from New Zealand that are accompanied by a certificate stating that the logs meet the requirements of paragraph (b)(1)(i) (A) through (D) of this section, and that are consigned to a facility in the United States that operates in accordance with § 319.40-8, may be imported in accordance with paragraphs (b)(1)(i)(A) through (b)(1)(iii) of this section.

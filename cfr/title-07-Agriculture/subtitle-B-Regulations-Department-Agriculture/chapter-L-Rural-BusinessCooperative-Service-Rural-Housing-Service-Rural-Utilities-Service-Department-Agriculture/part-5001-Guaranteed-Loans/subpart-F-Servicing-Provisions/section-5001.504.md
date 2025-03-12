@@ -1,0 +1,13 @@
+##### § 5001.504 Financial reports. #####
+
+(a) The lender must obtain the borrower's and any guarantor's financial statements required by this part and the loan agreement. The Agency may require an annual audited financial statement based on a project's circumstances. States, local government, Indian tribes, institution of higher education, and nonprofit organization borrowers who meet the Federal awards expended threshold established in 2 CFR part 200, subpart F, “Audit Requirements,” during their fiscal year must submit an audit conducted in accordance with 2 CFR part 200, subpart F.
+
+(b) The lender must submit financial statements obtained under this section to the Agency within 120 days of the end of the borrower's fiscal year. When the borrower's audit is conducted in accordance with 2 CFR part 200, subpart F, audits must be submitted no later than nine months after the end of the borrower's fiscal year or 30 days after the borrower's receipt of the auditor's report, whichever is earlier. If a lender makes reasonable documented attempts to obtain financial statements but is unable to obtain the borrower's (or guarantor's) cooperation, the failure to obtain financial statements does not impair the validity of the loan note guarantee.
+
+(c) Annual financial statements must be in accordance with accounting practices acceptable to the Agency as prescribed in § 5001.9 for all borrowers with a guaranteed loan balance in excess of $600,000. The lender may determine the type and frequency of financial statements for borrowers with a total guaranteed loan balance below $600,000 upon notification and justification to the Agency. This section does not supersede the borrower financial statement requirements of 2 CFR part 200, subpart F.
+
+(d) The lender must analyze the financial statements obtained under paragraph (a) of this section and provide the Agency with a financial analysis including a credit evaluation of trends, strength and weaknesses, ratio analysis, and conclusions, plus any extraordinary transactions; borrower violations of loan covenants and covenant waivers proposed by the lender, any routine servicing actions performed; and other indications of the financial condition of the borrower.
+
+(e) Following the Agency's review of the lender's financial analysis, the Agency will notify the lender in writing of any concerns. The lender must address each concern identified in the Agency's findings by the due date stated in the correspondence.
+
+(f) The lender should routinely confirm the outstanding principal balance of a guarantee held by a holder to avoid any discrepancy and delay in reconciliation in the event of a lender or Agency repurchase of the guaranteed loan from a holder in accordance with § 5001.511.

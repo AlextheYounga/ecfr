@@ -1,0 +1,41 @@
+##### § 630.1705 Work obligation. #####
+
+(a) *Advance agreement.* An employee may not use paid parental leave in connection with a birth or placement unless the employee agrees (in writing), before the commencement of such leave, to work for the applicable employing agency for not less than 12 weeks beginning on the employee's first scheduled workday after such leave concludes. (See special rules governing cases of incapacitation in § 630.1706.)
+
+(b) *Interpretation.* For the purpose of applying paragraph (a) of this section—
+
+(1) The term “in writing” means an agreement with the employee's handwritten signature or an acceptable electronic signature, consistent with the requirements in 5 CFR 850.106, and also is deemed to include an agreement documented in an email or text message from the employee, as long as the employee, within 24 hours, supplies the required signature;
+
+(2) The term “work” means a period during which the employee is in duty status, excluding any periods (paid or unpaid) of leave, time off (including holiday time off), or other nonduty status (including furlough or AWOL status). Such excluded periods will not count toward completion of the 12-week work obligation.
+
+(3) The term “applicable employing agency” means the agency employing the employee at the time use of paid parental leave concludes; and
+
+(4) The date paid parental leave concludes is—
+
+(i) The workday on which an employee finishes using 12 administrative workweeks of paid parental leave during the 12-month period that began on the date of birth or placement; or
+
+(ii) If the employee does not use 12 administrative workweeks of paid parental leave during the 12-month period that began on the date of birth or placement, the day that is the last workday on which an employee used paid parental leave.
+
+(c) *Conversion of weeks to hours.* For employees who are charged leave on an hourly basis (including fractions of an hour), the 12-week work obligation must be converted to hours based on the number of hours in the employee's scheduled tour of duty, consistent with the rules in § 630.1703(c). If an employee's scheduled tour of duty changes before the employee completes the 12-week obligation, the agency must recalculate the balance of work hours owed, consistent with the rules in § 630.1703(e). An acceptable alternative approach is to express each period of work as a fraction or percentage of the average weekly scheduled tour of duty hours in the affected biweekly pay period and to sum those fractions or percentages until the 12-week obligation is completed.
+
+(d) *Conversion of weeks to days.* For employees who are charged leave on a daily basis, the days equivalent of 12 weeks must be derived based on the average number of workdays in the employee's established tour of duty over a biweekly pay period, consistent with the rules in § 630.1703(d).
+
+(e) *Agreement to make reimbursement when applicable.* In the written agreement described in paragraph (a) of this section, the employee must attest that, in the event the employee does not complete the 12-week work obligation, he or she agrees, pursuant to paragraph (f), to make reimbursement unless the affected employing agency (or agencies) determines (determine) that the reimbursement provision will not be applied.
+
+(f) *Application of reimbursement requirement.* (1) If an employee fails to return for the required 12 weeks of work with the applicable employing agency after paid parental leave concludes (as described in paragraphs (a) and (b) of this section), an agency may require that the employee make a reimbursement equal to the total amount of any Government contributions paid by the agency on behalf of the employee to maintain the employee's health insurance coverage under the Federal Employees Health Benefits Program established under 5 U.S.C. chapter 89 during the period(s) when paid parental leave was used. An employee who separates from the applicable employing agency before completing the required 12 weeks of work is considered to have failed to return to duty under this paragraph. For the purpose of the preceding sentence, an intra-agency reassignment without a break in service will not be considered a separation.
+
+(2) The determination to impose the reimbursement requirement is at the agency's sole and exclusive discretion, except that an agency may not impose the requirement if, in the agency's judgment, the employee is unable to return to work for the required 12 weeks because of—
+
+(i) The continuation, recurrence, or onset of a serious health condition (including mental health) of the employee or the child whose birth or placement was the basis for the paid parental leave, but, in the case of the employee's serious health condition, only if the condition is related to the applicable birth or placement; or
+
+(ii) Any other circumstance beyond the employee's control, subject to paragraph (h) of this section.
+
+(g) *Medical certification.* An agency's determination not to apply the reimbursement requirement may be conditioned upon the employee's supplying of a health care provider certification supporting the employee's claim that a serious health condition described in paragraph (f)(2)(i) is causing the employee to be unable return to work for the required 12 weeks. In cases where an agency's determination regarding whether to apply the reimbursement requirement relies on a health condition that is not related to the applicable birth or placement or that applies to a person not covered by paragraph (f)(2)(i) of this section, the agency may also require a medical certification. An agency may require additional examinations and certification from other health care providers if it deems it necessary, but any such additional examinations must be at the agency's expense.
+
+(h) *Circumstances beyond employee's control.* The circumstances beyond the employee's control referenced in paragraph (f)(2)(ii) of this section must be ones that truly preclude an employee from returning to work with the employing agency. Examples of situations beyond the employee's control include such situations as where a parent chooses to stay home because a child has a serious health condition or an employee moves because the employee's spouse is unexpectedly transferred to a job location more than 75 miles from the employee's worksite. Matters of employee preference or convenience will not suffice. For example, a situation where an employee chooses not to return to work to stay home with a well, newborn child would not constitute a circumstance beyond the employee's control for purposes of this exception.
+
+(i) *Multiple agencies involved.* If an employee does not complete the 12-week work obligation and if more than one agency provided Government contributions on behalf of an employee for that employee's health insurance coverage during a period of paid parental leave, each agency is responsible for making a determination regarding whether to apply the reimbursement requirement described in paragraph (f) of this section with respect to periods of paid parental leave during employment with the agency. The employing agency that employed the employee at the time use of paid parental leave concluded is responsible for informing any other affected agency of the employee's failure to complete the required 12 weeks of work and of its determination regarding application of the reimbursement requirement. Any other affected agency will make its own determination regarding application of the reimbursement requirement associated with agency employment.
+
+(j) *Agency policies on applying the reimbursement requirement.* Each agency is responsible for adopting its own set of policies governing when it will or will not apply the reimbursement requirement described in paragraph (f) of this section. A single agency-wide set of policies should be in place so that employees within an agency are treated consistently.
+
+(k) *Collection of reimbursement.* The reimbursement requirement described in paragraph (f) of this section, if imposed, is subject to collection as a debt owed to the affected agency. (See the Federal Claims Collection Standards in 31 CFR parts 900 through 904.)

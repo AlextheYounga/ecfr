@@ -1,7 +1,5 @@
 ##### § 1309.21 Persons required to register. #####
 
-Link to an amendment published at 85 FR 44734, July 24, 2020.
-
 (a) Unless exempted by law or under §§ 1309.24 through 1309.26 or §§ 1310.12 through 1310.13 of this chapter, the following persons must annually obtain a registration specific to the List I chemicals to be handled:
 
 (1) Every person who manufactures or imports or proposes to manufacture or import a List I chemical or a drug product containing ephedrine, pseudoephedrine, or phenylpropanolamine.
@@ -12,17 +10,11 @@ Link to an amendment published at 85 FR 44734, July 24, 2020.
 
 (c) The registration requirements are summarized in the following table:
 
-Summary of Registration Requirements and Limitations
+|Business activity|                                      Chemicals                                       |        DEA forms         |Application fee|Registration period  <br/>(years)|                                              Coincident activities allowed                                              |
+|-----------------|--------------------------------------------------------------------------------------|--------------------------|---------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|(1) Manufacturing|List I,  <br/>Drug products containing ephedrine, pseudoephedrine, phenylpropanolamine|New-510  <br/>Renewal-510a|     3,699     |                1                |May distribute that chemical for which registration was issued; may not distribute any chemical for which not registered.|
+|(2) Distributing |                   List I,  <br/>Scheduled listed chemical products                   |New-510  <br/>Renewal-510a|     1,850     |                1                |                                                                                                                         |
+|  (3) Importing  |List I,  <br/>Drug Products containing ephedrine, pseudoephedrine, phenylpropanolamine|New-510  <br/>Renewal-510a|     1,850     |                1                |May distribute that chemical for which registration was issued; may not distribute any chemical for which not registered.|
+|  (4) Exporting  |                   List I,  <br/>Scheduled listed chemical products                   |New-510  <br/>Renewal-510a|     1,850     |                1                |                                                                                                                         |
 
-|Business  <br/>activity|                               Chemicals                                | DEA Forms  |Application fee|Registration period  <br/>(years)|                                              Coincident activities allowed                                              |
-|-----------------------|------------------------------------------------------------------------|------------|---------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-|     Manufacturing     |                                 List I                                 |  New-510   |    $3,047     |                1                |May distribute that chemical for which registration was issued; may not distribute any chemical for which not registered.|
-|                       |Drug products containing ephedrine, pseudoephedrine, phenylpropanolamine|Renewal-510a|     3,047     |                                 |                                                                                                                         |
-|     Distributing      |                                 List I                                 |  New-510   |     1,523     |                1                |                                                                                                                         |
-|                       |                   Scheduled listed chemical products                   |Renewal-510a|     1,523     |                                 |                                                                                                                         |
-|       Importing       |                                 List I                                 |  New-510   |     1,523     |                1                |May distribute that chemical for which registration was issued; may not distribute any chemical for which not registered.|
-|                       |Drug Products containing ephedrine, pseudoephedrine, phenylpropanolamine|Renewal-510a|     1,523     |                                 |                                                                                                                         |
-|       Exporting       |                                 List I                                 |  New-510   |     1,523     |                1                |                                                                                                                         |
-|                       |                   Scheduled listed chemical products                   |Renewal-510a|     1,523     |                                 |                                                                                                                         |
-
-[75 FR 4980, Feb. 1, 2010, as amended at 77 FR 4236, Jan. 27, 2012; 77 FR 15250, Mar. 15, 2012]
+[75 FR 4980, Feb. 1, 2010, as amended at 77 FR 4236, Jan. 27, 2012; 77 FR 15250, Mar. 15, 2012; 85 FR 44734, July 24, 2020]

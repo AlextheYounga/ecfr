@@ -1,0 +1,3 @@
+##### § 29.213 If a Tribe appeals a final offer, do the remaining provisions of the compact, funding agreement, or amendment not in dispute go into effect? #####
+
+If a Tribe appeals the rejection of a final offer, the Department and the Tribe may execute and make effective any non-disputed, severable provisions of the compact, funding agreement, or amendment that are not already executed and are not subject to appeal.

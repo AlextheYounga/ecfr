@@ -1,3 +1,13 @@
-##### § 1206.106 What are my responsibilities to place production into marketable condition and to market production? #####
+##### § 1206.106 What records must I keep to support my calculations of value under this subpart? #####
 
-You must place oil in marketable condition and market the oil for the mutual benefit of the lessee and the lessor at no cost to the Federal Government. If you use gross proceeds under an arm's-length contract in determining value, you must increase those gross proceeds to the extent that the purchaser, or any other person, provides certain services that the seller normally would be responsible to perform to place the oil in marketable condition or to market the oil.
+If you determine the value of your oil under this subpart, you must retain all data relevant to the determination of royalty value.
+
+(a) You must show both of the following:
+
+(1) How you calculated the value that you reported, including all adjustments for location, quality, and transportation.
+
+(2) How you complied with these rules.
+
+(b) You can find recordkeeping requirements in parts 1207 and 1212 of this chapter.
+
+(c) ONRR may review and audit your data, and ONRR will direct you to use a different value if we determine that the reported value is inconsistent with the requirements of this subpart.

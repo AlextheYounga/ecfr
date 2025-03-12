@@ -1,0 +1,3 @@
+##### § 29.603 How are funds distributed when a Tribe fully or partially withdraws from a compact and funding agreement administered by a consortium serving more than one Tribe, and the withdrawing Tribe elects not to or is ineligible to enter into a compact and funding agreement? #####
+
+Unless otherwise agreed to by the consortium and the withdrawing Tribe, the consortium must return to the Department all funds not obligated and expended by the consortium associated with the withdrawing Tribe when the withdrawing Tribe elects not to or is ineligible to enter into a compact and funding agreement.

@@ -1,7 +1,5 @@
 ##### § 71.40 Caregiver benefits. #####
 
-Link to an amendment published at 85 FR 46296, July 31, 2020.
-
 (a) *General Caregiver benefits.* VA will provide to General Caregivers all of the benefits listed in paragraphs (a)(1) through (4) of this section.
 
 (1) Continued instruction, preparation, training, and technical support. Caregivers will have access to each of the following services, which may be provided through:
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 46296, July 31, 2020.
 
 (1) General Caregiver benefits described in paragraph (a) of this section, except that respite care under paragraph (a)(4) is limited to veterans enrolled in the VA health care system. Respite care may be provided during a Family Caregiver's training, as described under § 71.25(d).
 
-(2) The primary care team will maintain the eligible veteran's treatment plan and collaborate with clinical staff making home visits to monitor the eligible veteran's well-being, adequacy of care and supervision being provided. This monitoring will occur no less often than every 90 days, unless otherwise clinically indicated, and will include an evaluation of the overall health and well-being of the eligible veteran.
+(2) Wellness contacts to review the eligible veteran's well-being, adequacy of personal care services being provided by the Family Caregiver(s), and the well-being of the Family Caregiver(s). This wellness contact will occur, in general, at a minimum of once every 120 days, and at least one visit must occur in the eligible veteran's home on an annual basis. Failure of the eligible veteran and Family Caregiver to participate in any wellness contacts pursuant to this paragraph will result in revocation pursuant to § 71.45, Revocation and Discharge of Family Caregivers.
 
 (3) Continuing instruction, preparation, and training to maintain or improve the personal care services provided to the eligible veteran.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 46296, July 31, 2020.
 
 (6) Primary and Secondary Family Caregivers are eligible for beneficiary travel under 38 CFR part 70 if the eligible veteran is eligible for beneficiary travel under 38 CFR part 70.
 
-(c) *Primary Family Caregiver benefits.* VA will provide to Primary Family Caregivers all of the benefits listed in paragraphs (c)(1) through (4) of this section.
+(c) *Primary Family Caregiver benefits.* VA will provide to Primary Family Caregivers all of the benefits listed in paragraphs (c)(1) through (6) of this section.
 
 (1) Secondary Family Caregiver benefits, as listed under paragraph (b) of this section.
 
@@ -40,30 +38,72 @@ Link to an amendment published at 85 FR 46296, July 31, 2020.
 
 (3) Primary Family Caregivers are eligible for enrollment in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) pursuant to 38 U.S.C. 1781, unless they are entitled to care or services under a health-plan contract (as defined in 38 U.S.C. 1725(f)).
 
-(4) Primary Family Caregivers will receive a monthly stipend for each prior month's participation as a Primary Family caregiver. To determine the stipend amount, VA first will determine the eligible veteran's level of dependency based on the degree to which the eligible veteran is unable to perform one or more activities of daily living (ADLs), or the degree to which the eligible veteran is in need of supervision or protection based on symptoms or residuals of neurological or other impairment or injury, as follows:
+(4) Primary Family Caregivers will receive a monthly stipend for each month's participation as a Primary Family Caregiver.
 
-(i) VA will clinically rate the eligible veteran's inability to perform each of the seven ADLs listed in the definition of that term in § 71.15.
+(i) *Stipend amount.* (A) Except as provided in paragraph (c)(4)(i)(C) of this section, if the eligible veteran meets the requirements of § 71.20(a), the Primary Family Caregiver's monthly stipend is the amount set forth in paragraph (c)(4)(i)(A)(*1*) or (*2*) of this section.
 
-(ii) VA will clinically rate the eligible veteran's need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury using the seven impairments listed in the definition of that term in § 71.15.
+(*1*) The Primary Family Caregiver's monthly stipend is calculated by multiplying the monthly stipend rate by 0.625.
 
-(iii) Clinical ratings under paragraphs (c)(4)(i) and (ii) of this section will be scored as follows: VA will assign a zero if the eligible veteran completes the task/activity without assistance; one if the eligible veteran requires minimal assistance (can complete 75 percent or more of the task without supervision or assistance); two if the eligible veteran requires moderate assistance (can complete 50 percent to 74 percent of the task without assistance); three if the eligible veteran requires maximal assistance (can complete 25 percent to 49 percent of the task without assistance); or four if the eligible veteran requires total assistance (can complete less than 25 percent of the task or is unable to do the task without assistance).
+(*2*) If VA determines that the eligible veteran is unable to self-sustain in the community, the Primary Family Caregiver's monthly stipend is calculated by multiplying the monthly stipend rate by 1.00.
 
-(iv) If the sum of all of the ratings assigned is:
+(B) Except as provided in paragraph (c)(4)(i)(C) of this section, for one year beginning on October 1, 2020, if the eligible veteran meets the requirements of § 71.20(b) or (c), (*i.e.,* is a legacy participant or a legacy applicant), the Primary Family Caregiver's monthly stipend is calculated based on the clinical rating in 38 CFR 71.40(c)(4)(i) through (iii) (2019) and the definitions applicable to such paragraphs under 38 CFR 71.15 (2019). If the sum of all of the ratings assigned is:
 
-(A) 21 or higher, then the caregiver will receive a stipend equivalent to the eligible veteran requiring 40 hours per week of caregiverassistance.
+(*1*) 21 or higher, then the Primary Family Caregiver's monthly stipend is calculated by multiplying the monthly stipend rate by 1.00.
 
-(B) 13 to 20, then the caregiver will receive a stipend equivalent to the eligible veteran requiring 25 hours per week of caregiver assistance.
+(*2*) 13 to 20, then the Primary Family Caregiver's monthly stipend is calculated by multiplying the monthly stipend rate by 0.625.
 
-(C) 1 to 12, then the caregiver will receive a stipend equivalent to the eligible veteran requiring 10 hours per week of caregiver assistance.
+(*3*) 1 to 12, then the Primary Family Caregiver's monthly stipend is calculated by multiplying the monthly stipend rate by 0.25.
 
-(v) The monthly stipend payment will be calculated by multiplying the combined rate by the number of weekly hours of caregiverassistance required under paragraph (c)(4)(iv) of this section. This product will then be multiplied by 4.35.
+(C) For one year beginning on October 1, 2020, if the eligible veteran meets the requirements of § 71.20(a) and (b) or (c), the Primary Family Caregiver's monthly stipend is the amount the Primary Family Caregiver is eligible to receive under paragraph (c)(4)(i)(A) or (B) of this section, whichever is higher. If the higher monthly stipend rate is the amount the Primary Family Caregiver is eligible to receive under paragraph (c)(4)(i)(A) of this section, the stipend rate will be adjusted and paid in accordance with paragraph (c)(4)(ii)(C)(*2*)(*i*) of this section.
 
-(vi) Stipend payments for the first month will be adjusted based on the number of days remaining in the month. Stipend payments will also be prorated where a Primary Family Caregiver's status is revoked and/or a new Primary Family Caregiver is designated prior to the end of a month. *See* § 71.45, Revocation.
+(D) Notwithstanding paragraphs (c)(4)(i)(A) through (C) of this section, for one year beginning on October 1, 2020, if the eligible veteran meets the requirements of § 71.20(b), the Primary Family Caregiver's monthly stipend is not less than the amount the Primary Family Caregiver was eligible to receive as of the day before October 1, 2020 (based on the eligible veteran's address on record with the Program of Comprehensive Assistance for Family Caregivers on such date) so long as the eligible veteran resides at the same address on record with the Program of Comprehensive Assistance for Family Caregivers as of the day before October 1, 2020. If the eligible veteran relocates to a different address, the stipend amount thereafter is determined pursuant to paragraph (c)(4)(i)(A), (B), or (C) of this section and adjusted in accordance with paragraph (c)(4)(ii)(B) of this section.
 
-(vii) Nothing in this section shall be construed to create an employment relationship between the Secretary and an individual in receipt of assistance or support under this part.
+(ii) *Adjustments to stipend payments.* (A) Adjustments to stipend payments that result from OPM's updates to the General Schedule (GS) Annual Rate for grade 4, step 1 for the locality pay area in which the eligible veteran resides take effect prospectively following the date the update to such rate is made effective by OPM.
 
-(d) *Effective date and payment date of benefits* - (1) *Effective date.* Caregiver benefits are effective as of the date that the signed joint application is received by VA or the date on which the eligible veteran begins receiving care at home, whichever is later. However, benefits will not be provided until the individual is designated as a Family Caregiver. Individuals who apply to be Family Caregivers must complete all necessary education, instruction, and training so that VA can complete the designation process no later than 45 days after the date that the joint application was submitted or, if the application has been placed on hold for a GAF assessment, 45 days after the hold has been lifted, or a new joint application will be required to serve as the date of application for payment purposes. VA may extend the 45-day period for up to 90 days after the date the joint application was submitted or, if the application has been placed on hold for a GAF assessment, for up to 90 days after the hold has been lifted. Such an extension may either be based on training identified under § 71.25(d) that is still pending completion, or hospitalization of the eligible veteran.
+(B) Adjustments to stipend payments that result from the eligible veteran relocating to a new address are effective the first of the month following the month in which VA is notified that the eligible veteran has relocated to a new address. VA must receive notification within 30 days from the date of relocation. If VA does not receive notification within 30 days from the date of relocation, VA will seek to recover overpayments of benefits under this paragraph (c)(4) back to the latest date on which the adjustment would have been effective if VA had been notified within 30 days from the date of relocation, as provided in § 71.47.
 
-(2) *Payment date.* The stipend is paid monthly for personal care services that the Primary Family Caregiver provided in the prior month. Benefits due prior to such designation, based on the date of application, will be paid retroactive to the date that the joint application is received by VA or the date on which the eligible veteran begins receiving care at home, whichever is later.
+(C) The Primary Family Caregiver's monthly stipend may be adjusted pursuant to the reassessment conducted by VA under § 71.30.
 
-(Authority: 38 U.S.C. 111(e), 501, 1720B, 1720G, 1782)[76 FR 26172, May 5, 2011, as amended at 80 FR 1377, Jan. 9, 2015]
+(*1*) If the eligible veteran meets the requirements of § 71.20(a) only (and does not meet the requirements of § 71.20(b) or (c)), the Primary Family Caregiver's monthly stipend is adjusted as follows:
+
+(*i*) In the case of a reassessment that results in an increase in the monthly stipend payment, the increase takes effect as of the date of the reassessment.
+
+(*ii*) In the case of a reassessment that results in a decrease in the monthly stipend payment, the decrease takes effect as of the effective date provided in VA's final notice of such decrease to the eligible veteran and Primary Family Caregiver. The effective date of the decrease will be no earlier than 60 days after VA provides advanced notice of its findings to the eligible veteran and Primary Family Caregiver.
+
+(*2*) If the eligible veteran meets the requirements of § 71.20(b) or (c), the Primary Family Caregiver's monthly stipend may be adjusted as follows:
+
+(*i*) In the case of a reassessment that results in an increase in the monthly stipend payment, the increase takes effect as of the date of the reassessment. The Primary Family Caregiver will also be paid the difference between the amount under paragraph (c)(4)(i)(A) of this section that the Primary Family Caregiver is eligible to receive and the amount the Primary Family Caregiver was eligible to receive under paragraph (c)(4)(i)(B) or (D) of this section, whichever the Primary Family Caregiver received for the time period beginning on October 1, 2020 up to the date of the reassessment, based on the eligible veteran's address on record with the Program of Comprehensive Assistance for Family Caregivers on the date of the reassessment and the monthly stipend rate on such date. If there is more than one reassessment for an eligible veteran during the one-year period beginning on October 1, 2020, the retroactive payment described in the previous sentence applies only if the first reassessment during the one-year period beginning on October 1, 2020 results in an increase in the monthly stipend payment, and only as the result of the first reassessment during the one-year period.
+
+(*ii*) In the case of a reassessment that results in a decrease in the monthly stipend payment and the eligible veteran meets the requirements of § 71.20(a), the new stipend amount under paragraph (c)(4)(i)(A) of this section takes effect as of the effective date provided in VA's final notice of such decrease to the eligible veteran and Primary Family Caregiver. The effective date of the decrease will be no earlier than 60 days after the date that is one year after October 1, 2020. On the date that is one year after October 1, 2020, VA will provide advanced notice of its findings to the eligible veteran and Primary Family Caregiver.
+
+Note to paragraph (c)(4)(ii)(C)(*2*):
+
+If an eligible veteran who meets the requirements of § 71.20(b) or (c) is determined, pursuant to a reassessment conducted by VA under § 71.30, to not meet the requirements of § 71.20(a), the monthly stipend payment will not be increased under paragraph (c)(4)(ii)(C)(*2*)(*i*) of this section or decreased under paragraph (c)(4)(ii)(C)(*2*)(*ii*) of this section. Unless the Family Caregiver is revoked or discharged under § 71.45 before the date that is 60 days after the date that is one year after October 1, 2020, the effective date for discharge of the Family Caregiver of a legacy participant or legacy applicant under § 71.45(b)(1)(ii) will be no earlier than 60 days after the date that is one year after October 1, 2020. On the date that is one year after October 1, 2020, VA will provide advanced notice of its findings to the eligible veteran and Family Caregiver.
+
+(D) Adjustments to stipend payments for the first month will take effect on the date specified in paragraph (d) of this section. Stipend payments for the last month will end on the date specified in § 71.45.
+
+(iii) *No employment relationship.* Nothing in this section shall be construed to create an employment relationship between the Secretary and an individual in receipt of assistance or support under this part.
+
+(iv) *Periodic assessment.* In consultation with other appropriate agencies of the Federal government, VA shall periodically assess whether the monthly stipend rate meets the requirements of 38 U.S.C. 1720G(a)(3)(C)(ii) and (iv). If VA determines that adjustments to the monthly stipend rate are necessary, VA shall make such adjustments through future rulemaking.
+
+(5) Primary Family Caregivers are eligible for financial planning services as that term is defined in § 71.15. Such services will be provided by entities authorized pursuant to any contract entered into between VA and such entities.
+
+(6) Primary Family Caregivers are eligible for legal services as that term is defined in § 71.15. Such services will be provided by entities authorized pursuant to any contract entered into between VA and such entities.
+
+(d) *Effective date of benefits under the Program of Comprehensive Assistance for Family Caregivers.* Except for paragraphs (b)(6) and (c)(3) and (4) of this section, caregiver benefits under paragraphs (b) and (c) of this section are effective upon approval and designation under § 71.25(f). Caregiver benefits under paragraphs (b)(6) and (c)(3) and (4) are effective on the latest of the following dates:
+
+(1) The date the joint application that resulted in approval and designation of the Family Caregiver is received by VA.
+
+(2) The date the eligible veteran begins receiving care at home.
+
+(3) The date the Family Caregiver begins providing personal care services to the eligible veteran at home.
+
+(4) In the case of a new Family Caregiver applying to be the Primary Family Caregiver for an eligible veteran, the day after the effective date of revocation or discharge of the previous Primary Family Caregiver for the eligible veteran (such that there is only one Primary Family Caregiver designated for an eligible veteran at one time).
+
+(5) In the case of a new Family Caregiver applying to be a Secondary Family Caregiver for an eligible veteran who already has two Secondary Family Caregivers approved and designated by VA, the day after the effective date of revocation or discharge of a previous Secondary Family Caregiver for the eligible veteran (such that there are no more than two Secondary Family Caregivers designated for an eligible veteran at one time).
+
+(6) In the case of a current or previous Family Caregiver reapplying with the same eligible veteran, the day after the date of revocation or discharge under § 71.45, or in the case of extended benefits under § 71.45(b)(1)(iii), (b)(2)(iii), (b)(3)(iii)(A) or (B), and (b)(4)(iv), the day after the last date on which such Family Caregiver received caregiver benefits.
+
+(7) The day after the date a joint application is denied.
+
+[76 FR 26172, May 5, 2011, as amended at 80 FR 1377, Jan. 9, 2015; 85 FR 46296, July 31, 2020]

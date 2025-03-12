@@ -1,14 +1,12 @@
 ##### 217.172 Multiyear contracts for supplies. #####
 
-Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
-
 (a) This section applies to all multiyear contracts for supplies, including weapon systems and other multiyear acquisitions specifically authorized by law (10 U.S.C. 2306b).
 
 (b) The head of the agency may enter into a multiyear contract for supplies if, in addition to the conditions listed in FAR 17.105-1(b), the use of such a contract will promote the national security of the United States (10 U.S.C. 2306b(a)(6)).
 
-(c) Multiyear contracts in amounts exceeding $678.5 million must be specifically authorized by law in an act other than an appropriations act (10 U.S.C. 2306b(i)(1)).
+(c) Multiyear contracts in amounts exceeding $750 million must be specifically authorized by law in an act other than an appropriations act (10 U.S.C. 2306b(i)(1)).
 
-(d) The head of the agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $678.5 million unless authority for the contract is specifically provided in an appropriations act (10 U.S.C. 2306b(l)(3)).
+(d) The head of the agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $750 million unless authority for the contract is specifically provided in an appropriations act (10 U.S.C. 2306b(l)(3)).
 
 (e) The head of the agency shall not enter into a multiyear contract unless -
 
@@ -22,9 +20,9 @@ Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
 
 (5) The contract does not provide for a price adjustment based on a failure to award a follow-on contract (section 8010 of Division C, Title VIII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and similar sections in subsequent DoD appropriations acts).
 
-(f)(1) The head of the agency must not enter into or extend a multiyear contract that exceeds $678.5 million (when entered into or extended) until the Secretary of Defense identifies the contract and any extension in a report submitted to the congressional defense committees (10 U.S.C. 2306b(l)(5)).
+(f)(1) The head of the agency must not enter into or extend a multiyear contract that exceeds $750 million (when entered into or extended) until the Secretary of Defense identifies the contract and any extension in a report submitted to the congressional defense committees (10 U.S.C. 2306b(l)(5)).
 
-(2) In addition, for contracts equal to or greater than $678.5 million, the head of the contracting activity must determine that the conditions required by paragraph (h)(2)(i) through (vii) of this section will be met by such contract, in accordance with the Secretary's certification and determination required by paragraph (h)(2) of this section .
+(2) In addition, for contracts equal to or greater than $750 million, the head of the contracting activity must determine that the conditions required by paragraph (h)(2)(i) through (vii) of this section will be met by such contract, in accordance with the Secretary's certification and determination required by paragraph (h)(2) of this section .
 
 (g) The head of the agency may enter into a multiyear contract for -
 
@@ -86,4 +84,4 @@ Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
 
 (j) Any requests for increased funding or reprogramming for procurement of a major system under a multiyear contract shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary of Defense under 217.172(h)(2) (10 U.S.C. 2306b(m)).
 
-[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016]
+[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020]

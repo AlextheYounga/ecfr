@@ -1,0 +1,3 @@
+##### § 29.308 May the funding agreement include additional terms from title I of the Indian Self-Determination and Education Assistance Act? #####
+
+At a Tribe's request, the Department and the Tribe may incorporate into a compact or funding agreement any other provision of title I of the Indian Self-Determination and Education Assistance Act, unless the Department determines there is a conflict between the provision and 23 U.S.C. 207. The Department will make the determination consistent with 23 U.S.C. 207(j).

@@ -1,16 +1,14 @@
 ##### § 413.114 Payment for posthospital SNF care furnished by a swing-bed hospital. #####
 
-Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
-
 (a) *Purpose and basis.* This section implements section 1883 of the Act, which provides for payment for posthospital SNF care furnished by rural hospitals and CAHs having a swing-bed approval.
 
 (1) *Services furnished in cost reporting periods beginning prior to July 1, 2002.* Posthospital SNF care furnished in general routine inpatient beds in rural hospitals and CAHs is paid in accordance with the special rules in paragraph (c) of this section for determining the reasonable cost of this care. When furnished by rural and CAH swing-bed hospitals approved after March 31, 1988 with more than 49 beds (but fewer than 100), these services must also meet the additional payment requirements set forth in paragraph (d) of this section.
 
 (2) *Services furnished in cost reporting periods beginning on and after July 1, 2002.* Posthospital SNF care furnished in general routine inpatient beds in rural hospitals (other than CAHs) is paid in accordance with the provisions of the prospective payment system for SNFs described in subpart J of this part, except that for purposes of this paragraph, the requirements of § 413.343(a) must be met using the specific assessment instrument and data designated by CMS for this purpose. Posthospital SNF care furnished in general routine inpatient beds in CAHs is paid based on reasonable cost for cost reporting periods beginning on and after July l, 2002 and before January 1, 2004, and is paid based on 101 percent of reasonable cost for cost reporting periods beginning on and after January 1, 2004, in accordance with the provisions of subparts A through G of this part (other than paragraphs (c) and (d) of this section).
 
-(b) *Definitions.* For purposes of this section -
+(b) *Definitions.* For purposes of this section—
 
-*Availability date* means with respect to a posthospital SNF care patient in a swing-bed hospital, the later of -
+*Availability date* means with respect to a posthospital SNF care patient in a swing-bed hospital, the later of—
 
 (i) Any date on which a bed is available for the patient in a Medicare-participating SNF located within the hospital's geographic region;
 
@@ -26,9 +24,9 @@ Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
 
 (1) The reasonable cost of routine SNF services is based on the average Medicare rate per patient day for routine services provided in freestanding SNFs in the region where the swing-bed hospital is located. The rates are calculated using the regions as defined in section 1886(d)(2)(D) of the Social Security Act. The rates are based on the most recent year for which settled cost reporting period data are available, increased in a compounded manner, using the increase applicable to the SNF routine cost limits, up to and including the calendar year for which the rates are in effect. If the current Medicare swing-bed rate for routine extended care services furnished by a swing-bed hospital during a calendar year is less than the rate for the prior calendar year, payment is made based on the prior calendar year's rate.
 
-(2) The reasonable cost of ancillary services furnished as posthospital SNF care is determined in the same manner as the reasonable cost of other ancillary services furnished by the hospital in accordance with § 413.55(a)(1).
+(2) The reasonable cost of ancillary services furnished as posthospital SNF care is determined in the same manner as the reasonable cost of other ancillary services furnished by the hospital in accordance with § 413.53(a)(1).
 
-(d) *Additional requirements* - (1) *General rule.* For services furnished in cost reporting periods beginning prior to July 1, 2002, in order for Medicare payment to be made to a swing-bed hospital with more than 49 beds (but fewer than 100), the following payment requirements must be met:
+(d) *Additional requirements*—(1) *General rule.* For services furnished in cost reporting periods beginning prior to July 1, 2002, in order for Medicare payment to be made to a swing-bed hospital with more than 49 beds (but fewer than 100), the following payment requirements must be met:
 
 (i) If there is an available SNF bed in the geographic region, a posthospital SNF care patient must be transferred within 5 days (excluding weekends and holidays) of the availability date, unless the patient's physician certifies within the 5-day period that transfer is not medically appropriate.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
 
 (3) *Payment exception.* Payment will continue to be made during the cost reporting period in which the 15 percent limit specified in paragraph (d)(1)(ii) of this section is reached for those patients who are receiving posthospital SNF care at the time the hospital reaches the limit.
 
-[51 FR 34793, Sept. 30, 1986, as amended at 54 FR 37274, Sept. 7, 1989; 56 FR 54545, Oct. 22, 1991; 58 FR 30671, May 26, 1993; 61 FR 51616, Oct. 3, 1996; 62 FR 46037, Aug. 29, 1997; 66 FR 39600, July 31, 2001; 69 FR 49265, Aug. 11, 2004; 79 FR 27153, May 12, 2014]
+[51 FR 34793, Sept. 30, 1986, as amended at 54 FR 37274, Sept. 7, 1989; 56 FR 54545, Oct. 22, 1991; 58 FR 30671, May 26, 1993; 61 FR 51616, Oct. 3, 1996; 62 FR 46037, Aug. 29, 1997; 66 FR 39600, July 31, 2001; 69 FR 49265, Aug. 11, 2004; 79 FR 27153, May 12, 2014; 85 FR 47633, Aug. 5, 2020]

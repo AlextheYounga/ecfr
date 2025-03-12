@@ -1,19 +1,11 @@
-##### § 1206.261 Transportation allowances - general. #####
+##### § 1206.261 How do I determine a transportation allowance if I have an arm's-length transportation contract or no written arm's-length contract? #####
 
-(a) For ad valorem leases subject to § 1206.257 of this subpart, where the value for royalty purposes has been determined at a point remote from the lease or mine, ONRR shall, as authorized by this section, allow a deduction in determining value for royalty purposes for the reasonable, actual costs incurred to:
+(a) If you or your affiliate incur(s) transportation costs under an arm's-length transportation contract, you may claim a transportation allowance for the reasonable, actual costs incurred for transporting the coal under that contract.
 
-(1) Transport the coal from a Federal lease to a sales point which is remote from both the lease and mine; or
+(b) You must be able to demonstrate that your or your affiliate's contract is at arm's-length.
 
-(2) Transport the coal from a Federal lease to a wash plant when that plant is remote from both the lease and mine and, if applicable, from the wash plant to a remote sales point. In-mine transportation costs shall not be included in the transportation allowance.
+(c) If you have no written contract for the arm's-length transportation of coal, then ONRR will determine your transportation allowance under § 1206.254. You may not use this paragraph (c) if you or your affiliate perform(s) your own transportation.
 
-(b) Under no circumstances will the authorized washing allowance and the transportation allowance reduce the value for royalty purposes to zero.
+(1) You must propose to ONRR a method to determine the allowance using the procedures in § 1206.258(a).
 
-(c)(1) When coal transported from a mine to a wash plant is eligible for a transportation allowance in accordance with this section, the lessee is not required to allocate transportation costs between the quantity of clean coal output and the rejected waste material. The transportation allowance shall be authorized for the total production which is transported. Transportation allowances shall be expressed as a cost per ton of cleaned coal transported.
-
-(2) For coal that is not washed at a wash plant, the transportation allowance shall be authorized for the total production which is transported. Transportation allowances shall be expressed as a cost per ton of coal transported.
-
-(3) Transportation costs shall only be recognized as allowances when the transported coal is sold and royalties are reported and paid.
-
-(d) If, after a review and/or audit, ONRR determines that a lessee has improperly determined a transportation allowance authorized by this section, then the lessee shall pay any additional royalties, plus interest, determined in accordance with § 1218.202 of this chapter, or shall be entitled to a credit, without interest.
-
-(e) Lessees shall not disproportionately allocate transportation costs to Federal leases.
+(2) You may use that method to determine your allowance until ONRR issues a determination.

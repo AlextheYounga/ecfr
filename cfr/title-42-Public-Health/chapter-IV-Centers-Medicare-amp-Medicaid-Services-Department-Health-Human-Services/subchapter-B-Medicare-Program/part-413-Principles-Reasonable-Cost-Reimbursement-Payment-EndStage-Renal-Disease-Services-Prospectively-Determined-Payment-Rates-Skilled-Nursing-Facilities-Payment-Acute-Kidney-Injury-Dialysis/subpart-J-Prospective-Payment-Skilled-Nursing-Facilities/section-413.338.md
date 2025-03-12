@@ -1,7 +1,5 @@
 ##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
-Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on the SNF readmission measure during the baseline period for a fiscal year.
@@ -20,11 +18,11 @@ Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
 
 (8) *Performance period* means the time period during which performance on the SNF readmission measure is calculated for a fiscal year.
 
-(9) *Performance standards* are the levels of performance that SNFs must meet or exceed to earn points under the SNF VBP Program for a fiscal year, and are announced no later than 60 days prior to the start of the performance period that applies to the SNF readmission measure for that fiscal year.
+(9) *Performance standards* are the levels of performance that SNFs must meet or exceed to earn points under the SNF VBP Program for a fiscal year, and are announced no later than 60 days prior to the start of the performance period that applies to the SNF readmission measure for that fiscal year. Beginning with the performance standards that apply to FY 2021, if CMS discovers an error in the performance standard calculations subsequent to publishing their numerical values for a fiscal year, CMS will update the numerical values to correct the error. If CMS subsequently discovers one or more other errors with respect to the same fiscal year, CMS will not further update the numerical values for that fiscal year.
 
 (10) *Ranking* means the ordering of SNFs based on each SNF's performance score under the SNF VBP Program for a fiscal year.
 
-(11) *SNF readmission measure* means, for a fiscal year, the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (SNFPPR) specified by CMS for application in the SNF Value-Based Purchasing Program.
+(11) *SNF readmission measure* means, prior to October 1, 2019, the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (SNFPPR) specified by CMS for application in the SNF Value-Based Purchasing Program. Beginning October 1, 2019, the term *SNF readmission measure* means the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (Skilled Nursing Facility Potentially Preventable Readmissions after Hospital Discharge measure) specified by CMS for application in the SNF Value-Based Purchasing Program.
 
 (12) *Performance score* means the numeric score ranging from 0 to 100 awarded to each SNF based on its performance under the SNF VBP Program for a fiscal year.
 
@@ -74,11 +72,19 @@ Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
 
 (v) CMS will calculate a SNF performance score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on the SNF readmission measure during the calendar months affected by the extraordinary circumstance.
 
-(e) *Confidential feedback reports and public reporting.* (1) Beginning October 1, 2016, CMS will provide quarterly confidential feedback reports to SNFs on their performance on the SNF readmission measure. SNFs will have the opportunity to review and submit corrections for this data by March 31st following the date that CMS provides the reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
+(e) *Confidential feedback reports and public reporting.*
+
+(1) Beginning October 1, 2016, CMS will provide quarterly confidential feedback reports to SNFs on their performance on the SNF readmission measure. SNFs will have the opportunity to review and submit corrections for these data by March 31st following the date that CMS provides the reports, for reports issued prior to October 1, 2019. Beginning with the performance period quality measure quarterly report issued on or after October 1, 2019 that contains the performance period measure rate and all of the underlying claim information used to calculate the measure rate that applies for the fiscal year, SNFs will have 30 days following the date that CMS provides these reports to review and submit corrections for the data contained in these reports. Beginning with the baseline period quality measure quarterly report issued on or after October 1, 2020 that contains the baseline period measure rate and all of the underlying claim information used to calculate the measure rate that applies for the fiscal year, SNFs will have 30 days following the date that CMS provides these reports to review and submit corrections for the data contained in these reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
 
 (2) Beginning not later than 60 days prior to each fiscal year, CMS will provide SNF performance score reports to SNFs on their performance under the SNF VBP Program for a fiscal year. SNFs will have the opportunity to review and submit corrections to their SNF performance scores and ranking contained in these reports for 30 days following the date that CMS provides the reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
 
-(3) CMS will publicly report the information described in paragraphs (e)(1) and (2) of this section on the Nursing Home Compare Web site.
+(3) CMS will publicly report the information described in paragraphs (e)(1) and (2) of this section on the Nursing Home Compare website or a successor website. Beginning with information publicly reported on or after October 1, 2019, the following exceptions apply:
+
+(i) If CMS determines that a SNF has fewer than 25 eligible stays during the baseline period for a fiscal year but has 25 or more eligible stays during the performance period for that fiscal year, CMS will not publicly report the SNF's baseline period SNF readmission measure rate and improvement score for that fiscal year;
+
+(ii) If CMS determines that a SNF is a low-volume SNF with respect to a fiscal year and assigns a performance score to the SNF under paragraph (d)(3) of this section, CMS will not publicly report the SNF's performance period SNF readmission measure rate, achievement score or improvement score for the fiscal year; and
+
+(iii) If CMS determines that a SNF has zero eligible cases during the performance period with respect to a fiscal year, CMS will not publicly report any information for that SNF for that fiscal year.
 
 (f) *Limitations on review.* There is no administrative or judicial review of the following:
 
@@ -92,4 +98,4 @@ Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
 
 (5) The ranking determinations under section 1888(h)(4)(B) of the Act.
 
-[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018]
+[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020]

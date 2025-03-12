@@ -1,10 +1,8 @@
 ##### § 405.1868 Board actions in response to failure to follow Board rules. #####
 
-Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
-
 (a) The Board has full power and authority to make rules and establish procedures, not inconsistent with the law, regulations, and CMS Rulings, that are necessary or appropriate to carry out the provisions of section 1878 of the Act and of the regulations in this subpart. The Board's powers include the authority to take appropriate actions in response to the failure of a party to a Board appeal to comply with Board rules and orders or for inappropriate conduct during proceedings in the appeal.
 
-(b) If a provider fails to meet a filing deadline or other requirement established by the Board in a rule or order, the Board may -
+(b) If a provider fails to meet a filing deadline or other requirement established by the Board in a rule or order, the Board may—
 
 (1) Dismiss the appeal with prejudice;
 
@@ -12,9 +10,9 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (3) Take any other remedial action it considers appropriate.
 
-(c) If a contractor fails to meet a filing deadline or other requirement established by the Board, the Board may -
+(c) If a contractor fails to meet a filing deadline or other requirement established by the Board, the Board may—
 
-(1) Take other actions that it considers appropriate, such as -
+(1) Take other actions that it considers appropriate, such as—
 
 (i) Issuing a decision based on the written record submitted to that point; or
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (2) Not use its authority to take an action such as, a sanction, reversing or modifying the contractor's or Secretary's determination for the cost reporting period under appeal, or ruling against the contractor on a disputed issue of law or fact in the appeal.
 
-(d)(1) If the Board dismisses the appeal with prejudice under this section, it must issue a dismissal decision dismissing the appeal. The decision by the Board must be in writing and include an explanation of the reason for the dismissal. A copy of the Board's dismissal decision must be mailed promptly to each party to the appeal (as described in § 405.1843 of this subpart).
+(d)(1) If the Board dismisses the appeal with prejudice under this section, it must issue a dismissal decision dismissing the appeal. The decision by the Board must be in writing and include an explanation of the reason for the dismissal. A copy of the Board's dismissal decision must be sent promptly to each party to the appeal (as described in § 405.1843 of this subpart).
 
 (2) A dismissal decision by the Board is final and binding on the parties unless the decision is reversed, affirmed, modified, or remanded by the Administrator under § 405.1875(a)(2)(ii), and § 405.1875(e) or § 405.1875(f) of this part, no later than 60 days after the date of receipt by the provider of the Board's decision.
 
@@ -36,10 +34,10 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (f) *Ex parte* communications with Board staff concerning procedural matters are not prohibited.
 
-(g) Upon receipt of a credible allegation that a party's representative has divulged to that party, or to the Board, information that was obtained during the course of the representative's relationship (such as legal counsel or employee) with an opposing party and that was intended by that party to be kept confidential, the Board -
+(g) Upon receipt of a credible allegation that a party's representative has divulged to that party, or to the Board, information that was obtained during the course of the representative's relationship (such as legal counsel or employee) with an opposing party and that was intended by that party to be kept confidential, the Board—
 
 (1) Investigates the allegation; and
 
 (2) May take remedial action when it determines that it is appropriate to do so, against the party or the representative (such as prohibiting the representative from appearing before it, excluding such information from the record, or if the overall fairness of the hearing has been compromised, dismissing the case).
 
-[73 FR 30260, May 23, 2008; 73 FR 49356, Aug. 21, 2008]
+[73 FR 30260, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 85 FR 59019, Sept. 18, 2020]

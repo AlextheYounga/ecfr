@@ -1,6 +1,6 @@
 ##### § 1206.267 What general washing allowance requirements apply to me? #####
 
-(a)(1) If you determine the value of your coal under § 1206.252, you may take a washing allowance for the reasonable, actual costs to wash the coal. The allowance is a deduction when determining coal royalty value for the costs that you incur to wash coal.
+(a)(1) If you determine the value of your coal under § 1206.252 of this subpart, you may take a washing allowance for the reasonable, actual costs to wash the coal. The allowance is a deduction when determining coal royalty value for the costs that you incur to wash coal.
 
 (2) You do not need ONRR's approval before reporting a washing allowance.
 
@@ -18,7 +18,7 @@
 
 (1) There is misconduct by or between the contracting parties;
 
-(2) ONRR determines that the consideration that you or your affiliate paid under an arm's-length washing contract does not reflect the reasonable cost of the washing because you breached your duty to market the coal for the mutual benefit of yourself and the lessor by washing your coal at a cost that is unreasonably high. We may consider a washing allowance unreasonably high if it is 10 percent higher than the highest other reasonable measures of washing, including, but not limited to, washing allowances reported to ONRR and costs for coal washed in the same plant or other plants in the region; or
+(2) ONRR determines that the consideration that you or your affiliate paid under an arm's-length washing contract does not reflect the reasonable cost of the washing because you breached your duty to market the coal for the mutual benefit of yourself and the lessor by washing your coal at a cost that is unreasonably high. We may consider a washing allowance unreasonably high if it is 10 percent higher than the highest other reasonable measures of washing, including, but not limited to, washing allowances reported to ONRR and costs for coal washed in the same plant or other plants in the region;or
 
 (3) ONRR cannot determine if you properly calculated a washing allowance under §§ 1206.267 through 1206.269 for any reason, including, but not limited to, your or your affiliate's failure to provide documents that ONRR requests under 30 CFR part 1212, subpart E.
 

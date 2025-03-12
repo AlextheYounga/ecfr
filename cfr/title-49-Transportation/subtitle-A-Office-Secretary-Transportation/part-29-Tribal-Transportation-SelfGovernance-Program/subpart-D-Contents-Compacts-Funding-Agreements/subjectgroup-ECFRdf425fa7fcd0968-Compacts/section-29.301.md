@@ -1,0 +1,3 @@
+##### § 29.301 Is a compact required to participate in the Program? #####
+
+A Tribe must have a compact in place to participate in the Program. A compact must be in effect between the Department and the Tribe before the Tribe may enter into a funding agreement with the Department. The Tribe may negotiate a compact at the same time it is negotiating a funding agreement, so long as the compact is executed prior to or concurrent with the funding agreement.

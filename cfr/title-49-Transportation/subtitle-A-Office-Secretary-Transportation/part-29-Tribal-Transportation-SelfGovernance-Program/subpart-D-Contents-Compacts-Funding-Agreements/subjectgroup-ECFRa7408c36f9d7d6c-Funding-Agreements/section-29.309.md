@@ -1,0 +1,3 @@
+##### § 29.309 Will a funding agreement include provisions pertaining to flexible or innovative financing? #####
+
+If the Department and a Tribe agree, a funding agreement will include provisions pertaining to flexible financing and innovative financing. In that event, the Department and the Tribe will establish terms and conditions relating to the flexible and innovative financing provisions that are consistent with 23 U.S.C. 207(d)(2)(C).

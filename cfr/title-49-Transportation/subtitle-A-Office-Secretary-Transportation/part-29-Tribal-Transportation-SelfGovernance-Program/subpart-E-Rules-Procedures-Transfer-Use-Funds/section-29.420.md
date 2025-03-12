@@ -1,0 +1,3 @@
+##### § 29.420 Is a Tribe entitled to enter into facility leases from the Department and to receive facility support costs? #####
+
+A Tribe is not entitled to enter into facility leases with the Department and receive facility support costs. A funding agreement will not provide additional funds for facility leases and facility support costs to carry out PSFAs. However, facility leases and facility support costs may be an eligible and allowable use of funds a Tribe receives under a funding agreement.

@@ -24,27 +24,27 @@
 
 (d) If you do not sell under an arm's-length contract, you may elect to value your residue gas and NGLs under this paragraph (d). You may not change your election more often than once every two years.
 
-(1)(i) If you can only transport residue gas to one index pricing point published in an ONRR-approved publication available at *www.onrr.gov,* your value, for royalty purposes, is the highest reported monthly bidweek price for that index pricing point for the production month.
+(1)(i) If you can only transport residue gas to one index pricing point published in an ONRR-approved publication available at *www.onrr.gov*, your value, for royalty purposes, is the highest reported monthly bidweek price for that index pricing point for the production month.
 
-(ii) If you can transport residue gas to more than one index pricing point published in an ONRR-approved publication available at *www.onrr.gov,* your value, for royalty purposes, is the highest reported monthly bidweek price for the index pricing points to which your gas could be transported for the production month, whether or not there are constraints, for the production month.
+(ii) If you can transport residue gas to more than one index pricing point published in an ONRR-approved publication available at *www.onrr.gov*, your value, for royalty purposes, is the highest reported monthly bidweek price for the index pricing points to which your gas could be transported for the production month, whether or not there are constraints, for the production month.
 
 (iii) If there are sequential index pricing points on a pipeline, you must use the first index pricing point at or after your residue gas enters the pipeline.
 
 (iv) You must reduce the number calculated under paragraphs (d)(1)(i) and (ii) of this section by 5 percent for sales from the OCS Gulf of Mexico and by 10 percent for sales from all other areas, but not by less than 10 cents per MMBtu or more than 30 cents per MMBtu.
 
-(v) After you select an ONRR-approved publication available at *www.onrr.gov,* you may not select a different publication more often than once every two years.
+(v) After you select an ONRR-approved publication available at *www.onrr.gov*, you may not select a different publication more often than once every two years.
 
-(vi) ONRR may exclude an individual index pricing point found in an ONRR-approved publication if ONRR determines that the index pricing point does not accurately reflect the values of production. ONRR will publish a list of excluded index pricing points on *www.onrr.gov.*
+(vi) ONRR may exclude an individual index pricing point found in an ONRR-approved publication if ONRR determines that the index pricing point does not accurately reflect the values of production. ONRR will publish a list of excluded index pricing points on *www.onrr.gov*.
 
-(2)(i) If you sell NGLs in an area with one or more ONRR-approved commercial price bulletins available at *www.onrr.gov,* you must choose one bulletin, and your value, for royalty purposes, is the monthly average price for that bulletin for the production month.
+(2)(i) If you sell NGLs in an area with one or more ONRR-approved commercial price bulletins available at *www.onrr.gov*, you must choose one bulletin, and your value, for royalty purposes, is the monthly average price for that bulletin for the production month.
 
 (ii) You must reduce the number calculated under paragraph (d)(2)(i) of this section by the amounts that ONRR posts at *www.onrr.gov* for the geographic location of your lease. The methodology that ONRR will use to calculate the amounts is set forth in the preamble to this regulation. This methodology is binding on you and ONRR. ONRR will update the amounts periodically using this methodology.
 
-(iii) After you select an ONRR-approved commercial price bulletin available at *www.onrr.gov,* you may not select a different commercial price bulletin more often than once every two years.
+(iii) After you select an ONRR-approved commercial price bulletin available at *www.onrr.gov*, you may not select a different commercial price bulletin more often than once every two years.
 
 (3) You may not take any other deductions from the value calculated under this paragraph (d).
 
-(4) ONRR will post changes to any of the rates in this paragraph (d) on its Web site.
+(4) ONRR will post changes to any of the rates in this paragraph (d) on its website.
 
 (e) If some of your gas or gas plant products are used, lost, unaccounted for, or retained as a fee under the terms of a sales or service agreement, that gas will be valued for royalty purposes using the same royalty valuation method for valuing the rest of the gas or gas plant products that you do sell.
 

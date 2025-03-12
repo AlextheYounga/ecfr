@@ -1,7 +1,5 @@
 ##### § 412.64 Federal rates for inpatient operating costs for Federal fiscal year 2005 and subsequent fiscal years. #####
 
-Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
-
 (a) *General rule.* CMS determines a national adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge in Federal fiscal year 2005 and subsequent fiscal years involving inpatient hospital services of a hospital in the United States subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
@@ -121,6 +119,8 @@ Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
 (B) From October 1, 2009 through September 30, 2010, the wage index is a blend of 50 percent of a wage index with a statewide adjustment and 50 percent of a wage index with a nationwide adjustment.
 
 (ii) Beginning October 1, 2010, such adjustment is a full nationwide adjustment.
+
+(5) CMS makes an adjustment to the standardized amount to ensure that the reasonable cost based payments for allogeneic hematopoietic stem cell acquisition costs are made in a manner so that aggregate payments to hospitals are not affected.
 
 (f) *Adjustment for outlier payments.* CMS reduces the adjusted average standardized amount determined under paragraph (c) through (e) of this section by a proportion equal to the proportion (estimated by CMS) to the total amount of payments based on DRG prospective payment rates that are additional payments for outlier cases under subpart F of this part.
 

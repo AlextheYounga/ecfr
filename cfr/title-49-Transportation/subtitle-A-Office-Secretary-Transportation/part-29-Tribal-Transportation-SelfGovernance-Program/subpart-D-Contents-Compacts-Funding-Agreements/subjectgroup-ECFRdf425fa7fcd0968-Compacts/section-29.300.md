@@ -1,0 +1,3 @@
+##### § 29.300 What is included in a compact? #####
+
+A compact only includes the general terms that govern a Tribe's participation in the Program and such other terms as the Department and the Tribe mutually agree that will continue to apply from year to year, and affirms the government-to-government relationship between the Department and the Tribe. Such terms include the authority, purpose, and obligations of the Department and the Tribe. The written compact memorializes matters on which the Department and the Tribe agree. The compact will not include language not agreed to by the Department and the Tribe.

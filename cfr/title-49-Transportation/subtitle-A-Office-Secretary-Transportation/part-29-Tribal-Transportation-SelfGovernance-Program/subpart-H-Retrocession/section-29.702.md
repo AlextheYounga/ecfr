@@ -1,0 +1,3 @@
+##### § 29.702 What happens if the Department of the Interior determines that it provides the transportation services the Tribe intends to retrocede? #####
+
+If the Department of the Interior determines that it provides the transportation services the Tribe intends to retrocede, the Department will notify the Tribe. The Tribe must return all remaining funds, less closeout costs, associated with those transportation services to the Department for transfer to the Department of the Interior.

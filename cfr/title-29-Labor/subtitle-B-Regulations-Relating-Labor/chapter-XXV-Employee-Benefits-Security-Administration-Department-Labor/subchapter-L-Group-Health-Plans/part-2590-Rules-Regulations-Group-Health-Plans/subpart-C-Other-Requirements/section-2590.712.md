@@ -163,7 +163,7 @@ Example 7.(i) *Facts.* Same facts as *Example 6,* but for purposes of determinin
 
 (ii) *Conclusion.* In this *Example 7,* the division of outpatient, in-network benefits into any sub-classifications other than office visits and all other outpatient items and services violates the requirements of paragraph (c)(3)(iii)(C) of this section.
 
-(v) *No separate cumulative financial requirements or cumulative quantitative treatment limitations* - (A) A group health plan (or health insurance coverage offered in connection with a group health plan) may not apply any cumulative financial requirement or cumulative quantitative treatment limitation for mental health or substance use disorder benefits in a classification that accumulates separately from any established for medical/surgical benefits in the same classification.
+(v) *No separate cumulative financial requirements or cumulative quantitative treatment limitations.* (A) A group health plan (or health insurance coverage offered in connection with a group health plan) may not apply any cumulative financial requirement or cumulative quantitative treatment limitation for mental health or substance use disorder benefits in a classification that accumulates separately from any established for medical/surgical benefits in the same classification.
 
 (B) The rules of this paragraph (c)(3)(v) are illustrated by the following examples:
 

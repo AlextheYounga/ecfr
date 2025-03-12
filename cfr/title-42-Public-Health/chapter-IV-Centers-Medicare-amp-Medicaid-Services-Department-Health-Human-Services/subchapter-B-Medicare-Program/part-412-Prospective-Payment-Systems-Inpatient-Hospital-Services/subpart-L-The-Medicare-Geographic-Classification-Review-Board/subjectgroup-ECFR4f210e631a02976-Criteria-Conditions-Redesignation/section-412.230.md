@@ -1,7 +1,5 @@
 ##### § 412.230 Criteria for an individual hospital seeking redesignation to another rural area or an urban area. #####
 
-Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
-
 (a) *General* - (1) *Purposes.* Except as specified in paragraph (a)(5) -
 
 (i) For fiscal years prior to fiscal year 2005, an individual hospital may be redesignated from a rural area to an urban area, from a rural area to another rural area, or from an urban area to another urban area for the purposes of using the other area's standardized amount for inpatient operating costs, the wage index value, or both.
@@ -78,7 +76,11 @@ Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
 
 (ii) For redesignations effective beginning FY 2003:
 
-(A) For hospital-specific data, the hospital must provide a weighted 3-year average of its average hourly wages using data from the CMS hospital wage survey used to construct the wage index in effect for prospective payment purposes. However, for the limited purpose of qualifying for geographic reclassification based on wage data from cost reporting periods beginning prior to FY 2000, a hospital may request that its wage data be revised if the hospital is in an urban area that was subject to the rural floor for the period during which the wage data the hospital wishes to revise were used to calculate its wage index.
+(A) For hospital-specific data, the hospital must provide a weighted 3-year average of its average hourly wages using data from the CMS hospital wage survey used to construct the wage index in effect for prospective payment purposes.
+
+(*1*) For the limited purpose of qualifying for geographic reclassification based on wage data from cost reporting periods beginning prior to FY 2000, a hospital may request that its wage data be revised if the hospital is in an urban area that was subject to the rural floor for the period during which the wage data the hospital wishes to revise were used to calculate its wage index.
+
+(*2*) Once a hospital has accumulated at least 1 year of wage data in the applicable 3-year average hourly wage period used by the MGCRB, the hospital is eligible to apply for reclassification based on those data.
 
 (B) For data for other hospitals, the hospital must provide a weighted 3-year average of the average hourly wage in the area in which the hospital is located and a weighted 3-year average of the average hourly wage in the area to which the hospital seeks reclassification. The wage data are taken from the CMS hospital wage survey used to construct the wage index in effect for prospective payment purposes.
 

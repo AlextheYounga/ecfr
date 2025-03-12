@@ -1,0 +1,3 @@
+##### § 25.22 Retail domestic deposit data collection for small and intermediate banks evaluated under the small and intermediate bank performance standards in § 25.14. #####
+
+A small or intermediate bank evaluated under the small and intermediate bank performance standards in § 25.14 must collect and maintain data on the value of each retail domestic deposit account and the physical address of each depositor as of the close of business on the last day of each quarter during the examination period until the completion of its next CRA evaluation.

@@ -1,0 +1,3 @@
+##### § 29.407 Does the award of funds for discretionary or competitive grants entitle the Tribe to receive contract support costs? #####
+
+Receipt of discretionary or competitive grant awards does not entitle the Tribe to receive contract support costs or any other amounts identified in 25 U.S.C. 5325. However, a Tribe may use grant awards to cover overhead and administrative expenses associated with operation of the grant, as provided in the grant award.

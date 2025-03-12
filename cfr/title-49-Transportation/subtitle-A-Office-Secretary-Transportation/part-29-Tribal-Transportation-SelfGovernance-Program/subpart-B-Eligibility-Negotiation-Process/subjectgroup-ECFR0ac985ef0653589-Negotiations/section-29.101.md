@@ -1,0 +1,3 @@
+##### § 29.101 How does a Tribe commence negotiations for a compact, funding agreement, or amendment? #####
+
+After the Department notifies a Tribe in writing that it is eligible to participate in the Program pursuant to § 29.100, the Tribe must submit a written request to the Self-Governance Official to begin negotiating a compact and funding agreement. A Tribe participating in the Program may submit a written request to the Self-Governance Official at any time to begin negotiating an amendment. A Tribe may send the request to *ttsgp@dot.gov* or use any other method that provides receipt.

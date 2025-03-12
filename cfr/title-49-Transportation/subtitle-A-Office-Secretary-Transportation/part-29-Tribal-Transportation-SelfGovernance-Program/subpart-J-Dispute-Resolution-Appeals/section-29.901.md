@@ -1,0 +1,3 @@
+##### § 29.901 Can the Department and a Tribe resolve disputes using alternative dispute resolution processes? #####
+
+At any time, the Department or a Tribe may request an informal process or an alternate dispute resolution procedure, such as mediation, conciliation, or arbitration, to resolve disputes. The goal of any such process (which may involve a third party) is to provide an inexpensive and expeditious mechanism to resolve disputes by mutual agreement instead of an administrative or judicial proceeding. The Department and the Tribe should resolve disputes at the lowest possible organizational level whenever possible.

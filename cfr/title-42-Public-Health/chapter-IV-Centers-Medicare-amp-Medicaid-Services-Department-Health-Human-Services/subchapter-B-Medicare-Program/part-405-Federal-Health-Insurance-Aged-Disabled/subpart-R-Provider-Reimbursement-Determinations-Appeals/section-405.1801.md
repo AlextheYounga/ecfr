@@ -1,7 +1,5 @@
 ##### § 405.1801 Introduction. #####
 
-Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
-
 (a) *Definitions.* As used in this subpart:
 
 *Administrator* means the Administrator or Deputy Administrator of CMS.
@@ -36,15 +34,17 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (i) As applied to a party or an affected nonparty, the phrase “date of receipt” in this definition is synonymous with the term “notice,” as that term is used in section 1878 of the Act and in this subpart.
 
-(ii) For purposes of a contractor hearing, if no contractor hearing officer is appointed (or none is currently presiding), the date of receipt of materials sent to the contractor hearing officer is presumed to be the date that the contractor stamps “Received” on the materials.
+(ii) For purposes of a contractor hearing, if no contractor hearing officer is appointed (or none is currently presiding), the date of receipt of materials sent to the contractor hearing officer (as permitted under paragraph (d) of this section) is presumed to be, as applicable, the date that the contractor stamps “Received” on the materials, or the date of electronic delivery.
 
 (iii) The date of receipt by a party or affected nonparty of documents involved in proceedings before a reviewing entity is presumed to be 5 days after the date of issuance of a contractor notice or a reviewing entity document. This presumption, which is otherwise conclusive, may be overcome if it is established by a preponderance of the evidence that such materials were actually received on a later date.
 
-(2) *A reviewing entity.* For purposes of this definition, a reviewing entity is deemed to include the Office of the Attorney Advisor. The determination as to the date of receipt by the reviewing entity to which the document or other material was submitted is final and binding as to all parties to the appeal. The date of receipt of documents by a reviewing entity is presumed to be the date -
+(2) *A reviewing entity.* For purposes of this definition, a reviewing entity is deemed to include the Office of the Attorney Advisor. The determination as to the date of receipt by the reviewing entity to which the document or other material was submitted (as permitted under paragraph (d) of this section) is final and binding as to all parties to the appeal. The date of receipt of documents by a reviewing entity is presumed to be, as applicable, one of the following dates:
 
-(i) Of delivery where the document or material is transmitted by a nationally-recognized next-day courier (such as the United States Postal Service's Express Mail, Federal Express, UPS, DHL, etc.); or
+(i) Of delivery where the document or material is transmitted by a nationally-recognized next-day courier (such as the United States Postal Service's Express Mail, Federal Express, UPS, DHL, etc.).
 
 (ii) Stamped “Received” by the reviewing entity on the document or other submitted material (where a nationally-recognized next-day courier is not employed). This presumption, which is otherwise conclusive, may be overcome if it is established by clear and convincing evidence that the document or other material was actually received on a different date.
+
+(iii) Of electronic delivery. *In writing* or *written* means a hard copy or electronic submission (subject to the restrictions in paragraph (d) of this section), as applicable throughout this subpart.
 
 *Reviewing entity* means the contractor hearing officer(s), a CMS reviewing official, the Board, or the Administrator.
 
@@ -64,7 +64,7 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (3) With respect to hospitals under the prospective payment system (see part 412 of this chapter), the appeals procedures in §§ 405.1811 to 405.1877 that apply become applicable with the hospital's first cost reporting period beginning on or after October 1, 1983.
 
-(d) *Calculating time periods and deadlines.* In computing any period of time or deadline prescribed or allowed under this subpart or authorized by a reviewing entity the following principles are applicable:
+(d) *Method for submissions and calculating time periods and deadlines.* Except for subpoena requests being sent to a nonparty under § 405.1857(c), the reviewing entity may prescribe the method(s) by which a party must make a submission, including the requirement to use an electronic filing system for submission of documents. Such methods or instructions apply to any period of time or deadline prescribed or allowed under this subpart (for example, requests for appeal under §§ 405.1811(b), 405.1835(b), and 405.1837(c) and (e)) or authorized by a reviewing entity. In computing any period of time or deadline prescribed or allowed under this subpart or authorized by a reviewing entity the following principles are applicable:
 
 (1) The day of the act, event, or default from which the designated time period begins to run is not included.
 
@@ -78,4 +78,4 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (ii) The Office of the Attorney Advisor.
 
-[39 FR 34515, Sept. 26, 1974. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 48 FR 39834, Sept. 1, 1983; 48 FR 45773, Oct. 7, 1983; 49 FR 322, Jan. 3, 1984; 49 FR 23013, June 1, 1984; 51 FR 34793, Sept. 30, 1986; 61 FR 63749, Dec. 2, 1996; 73 FR 30243, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 80 FR 70597, Nov. 13, 2015]
+[39 FR 34515, Sept. 26, 1974. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 48 FR 39834, Sept. 1, 1983; 48 FR 45773, Oct. 7, 1983; 49 FR 322, Jan. 3, 1984; 49 FR 23013, June 1, 1984; 51 FR 34793, Sept. 30, 1986; 61 FR 63749, Dec. 2, 1996; 73 FR 30243, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 80 FR 70597, Nov. 13, 2015; 85 FR 59018, Sept. 18, 2020]

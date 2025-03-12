@@ -1,7 +1,5 @@
 ##### § 412.92 Special treatment: Sole community hospitals. #####
 
-Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
-
 (a) *Criteria for classification as a sole community hospital.* CMS classifies a hospital as a sole community hospital if it is located more than 35 miles from other like hospitals, or it is located in a rural area (as defined in § 412.64) and meets one of the following conditions:
 
 (1) The hospital is located between 25 and 35 miles from other like hospitals and meets one of the following criteria:
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (4) For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, combined data from the main campus and its remote location(s) are required to demonstrate that the criteria specified in paragraphs (a)(1)(i) and (ii) of this section are met. For the mileage and rural location criteria in paragraph (a) of this section and the mileage, accessibility, and travel time criteria specified in paragraphs (a)(1) through (3) of this section, the hospital must demonstrate that the main campus and its remote location(s) each independently satisfy those requirements.
 
-(b) *Classification procedures* - (1) *Request for classification as sole community hospital.* (i) The hospital must make its request to its MAC.
+(b) *Classification procedures*—(1) *Request for classification as sole community hospital.* (i) The hospital must make its request to its MAC.
 
 (ii) If a hospital is seeking sole community hospital classification under paragraph (a)(1)(i) or (a)(1)(ii) of this section, the hospital must include the following information with its request:
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (iv) For applications received on or before September 30, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after 30 days after the date of CMS' approval of the classification. For applications received on or after October 1, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after the date the MAC receives the complete application.
 
-(v) If a hospital that is classified as an MDH under § 412.108 applies for classification as a sole community hospital because its status under the MDH program expires with the expiration of the MDH program, and that hospital's sole community hospital status is approved, the effective date of approval of sole community hospital status is the day following the expiration date of the MDH program if the hospital -
+(v) If a hospital that is classified as an MDH under § 412.108 applies for classification as a sole community hospital because its status under the MDH program expires with the expiration of the MDH program, and that hospital's sole community hospital status is approved, the effective date of approval of sole community hospital status is the day following the expiration date of the MDH program if the hospital—
 
 (A) Applies for classification as a sole community hospital prior to 30 days before the expiration of the MDH program; and
 
@@ -88,15 +86,15 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (5) *Automatic classification as a sole community hospital.* A hospital that has been granted an exemption from the hospital cost limits before October 1, 1983, or whose request for the exemption was received by the appropriate intermediary before October 1, 1983, and was subsequently approved, is automatically classified as a sole community hospital unless that classification has been cancelled under paragraph (b)(3) of this section, or there is a change in the circumstances under which the classification was approved.
 
-(c) *Terminology.* As used in this section -
+(c) *Terminology.* As used in this section—
 
 (1) The term *miles* means the shortest distance in miles measured over improved roads. An improved road for this purpose is any road that is maintained by a local, State, or Federal government entity and is available for use by the general public. An improved road includes the paved surface up to the front entrance of the hospital.
 
 (2) The term *like hospital* means a hospital furnishing short-term, acute care. Effective with cost reporting periods beginning on or after October 1, 2002, for purposes of a hospital seeking sole community hospital designation, CMS will not consider the nearby hospital to be a like hospital if the total inpatient days attributable to units of the nearby hospital that provides a level of care characteristic of the level of care payable under the acute care hospital inpatient prospective payment system are less than or equal to 8 percent of the similarly calculated total inpatient days of the hospital seeking sole community hospital designation.
 
-(3) The term *service area* means the area from which a hospital draws at least 75 percent of its inpatients during the most recent 12-month cost reporting period ending before it applies for classification as a sole community hospital.
+(3) The term *service area* means the area from which a hospital draws at least 75 percent of its inpatients during the most recent 12-month cost reporting period ending before it applies for classification as a sole community hospital. If the most recent cost reporting period ending before the hospital applies for classification as a sole community hospital is for less than 12 months, the hospital's most recent 12-month or longer cost reporting period before the short period is used.
 
-(d) *Determining prospective payment rates for inpatient operating costs for sole community hospitals* - (1) *General rule.* For cost reporting periods beginning on or after April 1, 1990, a sole community hospital is paid based on whichever of the following amounts yields the greatest aggregate payment for the cost reporting period:
+(d) *Determining prospective payment rates for inpatient operating costs for sole community hospitals*—(1) *General rule.* For cost reporting periods beginning on or after April 1, 1990, a sole community hospital is paid based on whichever of the following amounts yields the greatest aggregate payment for the cost reporting period:
 
 (i) The Federal payment rate applicable to the hospitals as determined under subpart D of this part.
 
@@ -122,7 +120,7 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (e) *Additional payments to sole community hospitals experiencing a significant volume decrease.* (1) For cost reporting periods beginning on or after October 1, 1983, the MAC provides for a payment adjustment for a sole community hospital for any cost reporting period during which the hospital experiences, due to circumstances as described in paragraph (e)(2) of this section a more than five percent decrease in its total discharges of inpatients as compared to its immediately preceding cost reporting period. If either the cost reporting period in question or the immediately preceding cost reporting period is other than a 12-month cost reporting period, the MAC must convert the discharges to a monthly figure and multiply this figure by 12 to estimate the total number of discharges for a 12-month cost reporting period.
 
-(2) To qualify for a payment adjustment on the basis of a decrease in discharges, a sole community hospital must submit its request no later than 180 days after the date on the MAC's Notice of Amount of Program Reimbursement -
+(2) To qualify for a payment adjustment on the basis of a decrease in discharges, a sole community hospital must submit its request no later than 180 days after the date on the MAC's Notice of Amount of Program Reimbursement—
 
 (i) Submit to the MAC documentation demonstrating the size of the decrease in discharges, and the resulting effect on per discharge costs; and
 
@@ -130,7 +128,7 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 
 (3) Effective for cost reporting periods beginning before October 1, 2017, the MAC determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105). Effective for cost reporting periods beginning on or after October 1, 2017, the MAC determines a lump sum adjustment amount equal to the difference between the hospital's fixed Medicare inpatient operating costs and the hospital's total MS-DRG revenue based on MS-DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105) multiplied by the ratio of the hospital's fixed inpatient operating costs to its total inpatient operating costs.
 
-(i) In determining the adjustment amount, the MAC considers -
+(i) In determining the adjustment amount, the MAC considers—
 
 (A) The individual hospital's needs and circumstances, including the reasonable cost of maintaining necessary core staff and services in view of minimum staffing requirements imposed by State agencies;
 

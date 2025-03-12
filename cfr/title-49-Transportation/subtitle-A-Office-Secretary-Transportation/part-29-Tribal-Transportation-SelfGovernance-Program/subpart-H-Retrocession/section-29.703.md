@@ -1,0 +1,3 @@
+##### § 29.703 What happens if the Department of the Interior determines that it does not provide the transportation services the Tribe intends to retrocede? #####
+
+If the Department of the Interior determines that it does not provide the transportation services the Tribe intends to retrocede, the Tribe may withdraw its notice to retrocede or return all remaining funds, less closeout costs, associated with the retroceded PSFA, and the Department will distribute those funds in accordance with applicable law.

@@ -1,7 +1,5 @@
 ##### § 412.96 Special treatment: Referral centers. #####
 
-Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
-
 (a) *Criteria for classification as a referral center: Basic rule.* CMS classifies a hospital as a referral center only if the hospital is a Medicare participating acute care hospital and meets the applicable criteria of paragraph (b) or (c) of this section.
 
 (b) *Criteria for cost reporting periods beginning on or after October 1, 1983.* The hospital meets either of the following criteria:
@@ -39,6 +37,8 @@ Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
 (B) For hospitals applying for rural referral center status for cost reporting periods beginning on or after October 1, 1986, 5,000 discharges or, if less, the median number of discharges for urban hospitals located in each region.
 
 (ii) For cost reporting periods beginning on or after January 1, 1986, an osteopathic hospital, recognized by the American Osteopathic Healthcare Association (or any successor organization), that is located in a rural area must have at least 3,000 discharges during its cost reporting period that began during the same fiscal year as the cost reporting periods used to compute the regional median discharges under paragraph (i) of this section to meet the number of discharges criterion.
+
+(iii) If the hospital's cost reporting period that began during the same fiscal year as the cost reporting periods used to compute the regional median discharges under paragraph (i) of this section is for less than 12 months or longer than 12 months, the hospital's number of discharges for that cost reporting period will be annualized to estimate the total number of discharges for a 12-month cost reporting period.
 
 (3) *Medical staff.* More than 50 percent of the hospital's active medical staff are specialists who meet one of the following conditions:
 

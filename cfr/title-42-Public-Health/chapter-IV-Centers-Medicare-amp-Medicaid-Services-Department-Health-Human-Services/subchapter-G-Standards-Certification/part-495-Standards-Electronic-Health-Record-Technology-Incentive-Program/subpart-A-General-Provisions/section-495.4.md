@@ -1,7 +1,5 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
-
 In this part, unless otherwise indicated -
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
@@ -362,6 +360,12 @@ In this part, unless otherwise indicated -
 
 (B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2021 and applies for the FY 2023 payment adjustment year.
 
+(vi) The following are applicable for 2022:
+
+(A) If an eligible hospital has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2023 and 2024 payment adjustment years. For the FY 2023 payment adjustment year, the EHR reporting period must end before and the eligible hospital must successfully register for and attest to meaningful use no later than October 1, 2022.
+
+(B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2024 payment adjustment year.
+
 (3) For a CAH -
 
 (i) The following are applicable before 2015:
@@ -415,6 +419,12 @@ In this part, unless otherwise indicated -
 (A) If a CAH has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2021 and applies for the FY 2021 payment adjustment year.
 
 (B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2021 and applies for the FY 2021 payment adjustment year.
+
+(vi) The following are applicable for 2022:
+
+(A) If a CAH has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2022 payment adjustment year.
+
+(B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2022 payment adjustment year.
 
 *Eligible hospital* means an eligible hospital as defined under § 495.100 or Medicaid eligible hospital under subpart D of this part.
 
@@ -476,4 +486,4 @@ In this part, unless otherwise indicated -
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42615, Aug. 16, 2019]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42615, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020]

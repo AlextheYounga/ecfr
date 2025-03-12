@@ -34,9 +34,9 @@
 
 (d) Guidance that ONRR issues is not binding on ONRR, delegated States, or you with respect to the specific situation addressed in the guidance.
 
-(1) Guidance and ONRR's decision whether or not to issue guidance or to request an Assistant Secretary determination, or neither, under paragraph (b) of this section, are not appealable decisions or orders under 30 CFR part 1290.
+(1) Guidance and ONRR's decision whether or not to issue guidance or to request an Assistant Secretary determination, or neither, under paragraph (b) of this section, are not appealable decisions or orders under part 1290 of this title.
 
-(2) If you receive an order requiring you to pay royalty on the same basis as the guidance, you may appeal that order under 30 CFR part 1290.
+(2) If you receive an order requiring you to pay royalty on the same basis as the guidance, you may appeal that order under part 1290 of this title.
 
 (e) ONRR or the Assistant Secretary may use any of the applicable criteria in this subpart to provide guidance or to make a determination.
 

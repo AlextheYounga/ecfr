@@ -1,7 +1,29 @@
-##### § 1206.253 Coal subject to royalties - general provisions. #####
+##### § 1206.253 How will ONRR determine if my royalty payments are correct? #####
 
-(a) All coal (except coal unavoidably lost as determined by BLM under 43 CFR part 3400) from a Federal lease subject to this part is subject to royalty. This includes coal used, sold, or otherwise disposed of by the lessee on or off the lease.
+(a)(1) ONRR may monitor, review, and audit the royalties that you report. If ONRR determines that your reported value is inconsistent with the requirements of this subpart, ONRR will direct you to use a different measure of royalty value, or decide your value, under § 1206.254.
 
-(b) If a lessee receives compensation for unavoidably lost coal through insurance coverage or other arrangements, royalties at the rate specified in the lease are to be paid on the amount of compensation received for the coal. No royalty is due on insurance compensation received by the lessee for other losses.
+(2) If ONRR directs you to use a different royalty value, you must either pay any underpaid royalties due, plus late payment interest calculated under § 1218.202 of this chapter, or report a credit for - or request a refund of - any overpaid royalties.
 
-(c) If waste piles or slurry ponds are reworked to recover coal, the lessee shall pay royalty at the rate specified in the lease at the time the recovered coal is used, sold, or otherwise finally disposed of. The royalty rate shall be that rate applicable to the production method used to initially mine coal in the waste pile or slurry pond; *i.e.,* underground mining method or surface mining method. Coal in waste pits or slurry ponds initially mined from Federal leases shall be allocated to such leases regardless of whether it is stored on Federal lands. The lessee shall maintain accurate records to determine to which individual Federal lease coal in the waste pit or slurry pond should be allocated. However, nothing in this section requires payment of a royalty on coal for which a royalty has already been paid.
+(b) When the provisions in this subpart refer to gross proceeds, in conducting reviews and audits, ONRR will examine if your or your affiliate's contract reflects the total consideration that is actually transferred, either directly or indirectly, from the buyer to you or your affiliate for the coal. If ONRR determines that a contract does not reflect the total consideration, ONRR may decide your value under § 1206.254.
+
+(c) ONRR may decide to value your coal under § 1206.254 if ONRR determines that the gross proceeds accruing to you or your affiliate under a contract do not reflect reasonable consideration because:
+
+(1) There is misconduct by or between the contracting parties;
+
+(2) You breached your duty to market the coal for the mutual benefit of yourself and the lessor by selling your coal at a value that is unreasonably low. ONRR may consider a sales price unreasonably low if it is 10 percent less than the lowest other reasonable measures of market price, including, but not limited to, prices reported to ONRR for like-quality coal; or
+
+(3) ONRR cannot determine if you properly valued your coal under § 1206.252 for any reason, including, but not limited to, your or your affiliate's failure to provide documents to ONRR under 30 CFR part 1212, subpart E.
+
+(d) You have the burden of demonstrating that your or your affiliate's contract is arm's-length.
+
+(e) ONRR may require you to certify that the provisions in your or your affiliate's contract include(s) all of the consideration that the buyer paid to you or your affiliate, either directly or indirectly, for the coal.
+
+(f)(1) Absent any contract revisions or amendments, if you or your affiliate fail(s) to take proper or timely action to receive prices or benefits to which you or your affiliate are entitled, you must pay royalty based upon that obtainable price or benefit.
+
+(2) If you or your affiliate apply in a timely manner for a price increase or benefit allowed under your or your affiliate's contract, but the purchaser refuses, and you or your affiliate take reasonable, documented measures to force purchaser compliance, you will not owe additional royalties unless or until you or your affiliate receive additional monies or consideration resulting from the price increase. You may not construe this paragraph to permit you to avoid your royalty payment obligation in situations where a purchaser fails to pay in whole or in part, or in a timely manner, for a quantity of coal.
+
+(g)(1) You or your affiliate must make all contracts, contract revisions, or amendments in writing, and all parties to the contract must sign the contract, contract revisions, or amendments.
+
+(2) If you or your affiliate fail(s) to comply with paragraph (g)(1) of this section, ONRR may decide to value your coal under § 1206.254.
+
+(3) This provision applies notwithstanding any other provisions in this title 30 to the contrary.

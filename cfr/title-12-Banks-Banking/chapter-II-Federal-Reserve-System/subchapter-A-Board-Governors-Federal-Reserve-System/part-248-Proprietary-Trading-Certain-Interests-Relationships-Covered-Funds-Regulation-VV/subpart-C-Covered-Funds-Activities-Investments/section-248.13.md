@@ -1,7 +1,5 @@
 ##### § 248.13 Other permitted covered fund activities and investments. #####
 
-Link to an amendment published at 85 FR 46508, July 31, 2020.
-
 (a) *Permitted risk-mitigating hedging activities.* (1) The prohibition contained in § 248.10(a) does not apply with respect to an ownership interest in a covered fund acquired or retained by a banking entity that is designed to reduce or otherwise significantly mitigate the specific, identifiable risks to the banking entity in connection with:
 
 (i) A compensation arrangement with an employee of the banking entity or an affiliate thereof that directly provides investment advisory, commodity trading advisory or other services to the covered fund; or
@@ -76,4 +74,24 @@ Link to an amendment published at 85 FR 46508, July 31, 2020.
 
 (3) The appropriate Federal banking agencies, after consultation with the Financial Stability Oversight Council and the relevant insurance commissioners of the States and foreign jurisdictions, as appropriate, have not jointly determined, after notice and comment, that a particular law or regulation described in paragraph (c)(2) of this section is insufficient to protect the safety and soundness of the banking entity, or the financial stability of the United States.
 
-[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 62136, Nov. 14, 2019]
+(d) *Permitted covered fund activities and investments of qualifying foreign excluded funds.* (1) The prohibition contained in § 248.10(a) does not apply to a qualifying foreign excluded fund.
+
+(2) For purposes of this paragraph (d), a qualifying foreign excluded fund means a banking entity that:
+
+(i) Is organized or established outside the United States, and the ownership interests of which are offered and sold solely outside the United States;
+
+(ii)(A) Would be a covered fund if the entity were organized or established in the United States, or
+
+(B) Is, or holds itself out as being, an entity or arrangement that raises money from investors primarily for the purpose of investing in financial instruments for resale or other disposition or otherwise trading in financial instruments;
+
+(iii) Would not otherwise be a banking entity except by virtue of the acquisition or retention of an ownership interest in, sponsorship of, or relationship with the entity, by another banking entity that meets the following:
+
+(A) The banking entity is not organized, or directly or indirectly controlled by a banking entity that is organized, under the laws of the United States or of any State; and
+
+(B) The banking entity's acquisition of an ownership interest in or sponsorship of the fund by the foreign banking entity meets the requirements for permitted covered fund activities and investments solely outside the United States, as provided in § 248.13(b);
+
+(iv) Is established and operated as part of a bona fide asset management business; and
+
+(v) Is not operated in a manner that enables the banking entity that sponsors or controls the qualifying foreign excluded fund, or any of its affiliates, to evade the requirements of section 13 of the BHC Act or this part.
+
+[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 62136, Nov. 14, 2019; 85 FR 46508, July 31, 2020]

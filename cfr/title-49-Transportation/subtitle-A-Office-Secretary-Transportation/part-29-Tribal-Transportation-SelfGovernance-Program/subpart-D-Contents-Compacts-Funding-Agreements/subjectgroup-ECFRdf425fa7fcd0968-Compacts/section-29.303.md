@@ -1,0 +1,3 @@
+##### § 29.303 May more than one Tribe enter into a single compact and funding agreement? #####
+
+A consortium of two or more Tribes may participate in the Program by entering into a single compact and funding agreement on the same basis as an individual Tribe. A consortium may comprise a combination of one or more Tribes that may or may not be independently eligible under § 29.100, so long as the consortium is eligible.

@@ -1,0 +1,3 @@
+##### § 5001.407 Percentage of loan guarantee. #####
+
+The percent of loan guaranteed may vary from program to program. The maximum guarantee is 90 percent of eligible guaranteed loan loss The Agency will set annually a guarantee percentage by program that will apply to loans guaranteed within each program. The annual guarantee percentage will take current Federal credit policy into consideration and may be set at or below the maximum allowed authorized by statute. The Agency will announce annual guarantee percentages each fiscal year by publishing a document in the Federal Register in accordance with § 5001.10.

@@ -1,0 +1,3 @@
+##### § 29.5 Who is responsible for carrying out the functions connected with the Program? #####
+
+The Department will carry out the Program, including making eligibility determinations; negotiating compacts and funding agreements with Tribes; overseeing compliance with Department requirements; and otherwise administering and implementing the Program consistent with this part. As provided in § 29.402, a Tribe is responsible for day-to-day management of the Tribe's PSFAs consistent with the compact and funding agreement.

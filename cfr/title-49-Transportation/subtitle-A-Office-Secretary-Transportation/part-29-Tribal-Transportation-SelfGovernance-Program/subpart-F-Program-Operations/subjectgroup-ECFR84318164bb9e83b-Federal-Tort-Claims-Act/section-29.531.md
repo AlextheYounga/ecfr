@@ -1,0 +1,3 @@
+##### § 29.531 Does FTCA cover employees of the Tribe who are paid by the Tribe from funds other than those provided through the compact and funding agreement? #####
+
+Subject to FTCA limitations, the FTCA covers employees of the Tribe who are not paid from compact and funding agreement funds as long as the services out of which the claim arose were performed in carrying out a compact and funding agreement.

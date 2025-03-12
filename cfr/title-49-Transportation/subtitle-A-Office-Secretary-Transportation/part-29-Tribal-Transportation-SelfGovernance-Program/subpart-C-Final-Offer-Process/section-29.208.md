@@ -1,0 +1,3 @@
+##### § 29.208 What happens once the Department accepts the Tribe's final offer or the final offer is accepted by operation of law? #####
+
+Once the Department accepts the Tribe's final offer or the final offer is accepted by operation of law, the Department must add the terms of the Tribe's accepted final offer to the compact, funding agreement, or amendment, and transfer funds consistent with §§ 29.403 through 29.405.

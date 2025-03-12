@@ -1,10 +1,8 @@
 ##### § 495.20 Meaningful use objectives and measures for EPs, eligible hospitals, and CAHs before 2015. #####
 
-Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
-
 The following criteria are applicable before 2015:
 
-(a) *Stage 1 criteria for EPs* - (1) *General rule regarding Stage 1 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (a)(3) of this section, EPs must meet all objectives and associated measures of the Stage 1 criteria specified in paragraph (d) of this section and five objectives of the EP's choice from paragraph (e) of this section to meet the definition of a meaningful EHR user.
+(a) *Stage 1 criteria for EPs*—(1) *General rule regarding Stage 1 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (a)(3) of this section, EPs must meet all objectives and associated measures of the Stage 1 criteria specified in paragraph (d) of this section and five objectives of the EP's choice from paragraph (e) of this section to meet the definition of a meaningful EHR user.
 
 (2) *Exclusion for non-applicable objectives.* (i) An EP may exclude a particular objective contained in paragraphs (d) or (e) of this section, if the EP meets all of the following requirements:
 
@@ -20,7 +18,7 @@ The following criteria are applicable before 2015:
 
 (3) *Exception for Medicaid EPs who adopt, implement or upgrade in their first payment year.* For Medicaid EPs who adopt, implement, or upgrade certified EHR technology in their first payment year, the meaningful use objectives and associated measures of the Stage 1 criteria specified in paragraphs (d) and (e) apply beginning with the second payment year, and do not apply to the first payment year.
 
-(4) *Flexible options for using certified EHR technology in 2014.* For an EHR reporting period in 2014, if an EP could not fully implement 2014 Edition certified EHR technology due to delays in availability and uses -
+(4) *Flexible options for using certified EHR technology in 2014.* For an EHR reporting period in 2014, if an EP could not fully implement 2014 Edition certified EHR technology due to delays in availability and uses—
 
 (i) Only 2011 Edition certified EHR technology, the EP must satisfy the objectives and associated measures of the Stage 1 criteria that were applicable for 2013; or
 
@@ -32,7 +30,7 @@ The following criteria are applicable before 2015:
 
 (C) If the EP is scheduled to begin Stage 2 in 2014, the Stage 2 criteria.
 
-(b) *Stage 1 criteria for eligible hospitals and CAHs* - (1) *General rule regarding Stage 1 criteria for meaningful use for eligible hospitals or CAHs.* Except as specified in paragraphs (b)(2) and (b)(3) of this section, eligible hospitals and CAHs must meet all objectives and associated measures of the Stage 1 criteria specified in paragraph (f) of this section and five objectives of the eligible hospital's or CAH's choice from paragraph (g) of this section to meet the definition of a meaningful EHR user.
+(b) *Stage 1 criteria for eligible hospitals and CAHs*—(1) *General rule regarding Stage 1 criteria for meaningful use for eligible hospitals or CAHs.* Except as specified in paragraphs (b)(2) and (b)(3) of this section, eligible hospitals and CAHs must meet all objectives and associated measures of the Stage 1 criteria specified in paragraph (f) of this section and five objectives of the eligible hospital's or CAH's choice from paragraph (g) of this section to meet the definition of a meaningful EHR user.
 
 (2) *Exclusions for nonapplicable objectives.* (i) An eligible hospital or CAH may exclude a particular objective that includes an option for exclusion contained in paragraphs (f) or (g) of this section, if the hospital meets all of the following requirements:
 
@@ -46,7 +44,7 @@ The following criteria are applicable before 2015:
 
 (3) *Exception for Medicaid eligible hospitals that adopt, implement or upgrade in their first payment year.* For Medicaid eligible hospitals that adopt, implement, or upgrade certified EHR technology in their first payment year, the meaningful use objectives and associated measures of the Stage 1 criteria specified in paragraphs (f) and (g) of this section apply beginning with the second payment year, and do not apply to the first payment year.
 
-(4) *Flexible options for using certified EHR technology in 2014.* For an EHR reporting period in 2014, if an eligible hospital or CAH could not fully implement 2014 Edition certified EHR technology due to delays in availability and uses -
+(4) *Flexible options for using certified EHR technology in 2014.* For an EHR reporting period in 2014, if an eligible hospital or CAH could not fully implement 2014 Edition certified EHR technology due to delays in availability and uses—
 
 (i) Only 2011 Edition certified EHR technology, the eligible hospital or CAH must satisfy the objectives and associated measures of the Stage 1 criteria that were applicable for 2013;
 
@@ -130,7 +128,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measure.* (A) Subject to paragraph (c) of this section, more than 50 percent of all unique patients age 2 and over seen by the EP, height, weight and blood pressure are recorded as structured data.
 
-(B) For 2013 - (*1*) Subject to paragraph (c) of this section, more than 50 percent of all unique patients seen by the EP during the EHR reporting period have blood pressure (for patients age 3 and over only) and height/length and weight (for all ages) recorded as structured data; or
+(B) For 2013—(*1*) Subject to paragraph (c) of this section, more than 50 percent of all unique patients seen by the EP during the EHR reporting period have blood pressure (for patients age 3 and over only) and height/length and weight (for all ages) recorded as structured data; or
 
 (*2*) The measure specified in paragraph (d)(8)(ii)(A) of this section.
 
@@ -142,7 +140,7 @@ The following criteria are applicable before 2015:
 
 (*1*) The exclusion specified in paragraph (d)(8)(iii)(A) of this section.
 
-(*2*) The exclusion for an EP who -
+(*2*) The exclusion for an EP who—
 
 (*i*) Sees no patients 3 years or older is excluded from recording blood pressure;
 
@@ -234,7 +232,7 @@ The following criteria are applicable before 2015:
 
 (B) Beginning 2014, this measure is no longer included in the menu set.
 
-(iii) *Exclusion in accordance with paragraph (a)(2) of this section.* Any EP that neither orders nor creates any of the information listed at 45 CFR 170.304(g) during the EHR reporting period.
+(iii) *Exclusion in accordance with paragraph (a)(2) of this section.* Any EP that neither orders nor creates any of the information listed at 45 CFR 170.314(g) during the EHR reporting period.
 
 (6)(i) *Objective.* Use certified EHR technology to identify patient-specific education resources and provide those resources to the patient if appropriate.
 
@@ -326,7 +324,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measure.* (A) Subject to paragraph (c) of this section, for more than 50 percent of all unique patients age 2 and over admitted to the eligible hospital's or CAH's inpatient or emergency department (POS 21 or 23), height, weight, and blood pressure are recorded as structured data.
 
-(B) For 2013 -
+(B) For 2013—
 
 (*1*) Subject to paragraph (c) of this section, more than 50 percent of all unique patients admitted to the eligible hospital's or CAH's inpatient or emergency department (POS 21 or 23) during the EHR reporting period have blood pressure (for patients age 3 and over only) and height/length and weight (for all ages) recorded as structured data; or
 
@@ -442,7 +440,7 @@ The following criteria are applicable before 2015:
 
 (iii) *Exclusion in accordance with paragraph (a)(2) of this section.* No public health agency to which the eligible hospital or CAH submits information has the capacity to receive the information electronically.
 
-(h) *Stage 2 criteria for EPs* - (1) *General rule regarding Stage 2 criteria for meaningful use for EPs.* Except as specified in paragraph (h)(2) of this section, EPs must meet all objectives and associated measures of the Stage 2 criteria specified in paragraph (j) of this section and 3 objectives of the EP's choice from paragraph (k) of this section to meet the definition of a meaningful EHR user.
+(h) *Stage 2 criteria for EPs*—(1) *General rule regarding Stage 2 criteria for meaningful use for EPs.* Except as specified in paragraph (h)(2) of this section, EPs must meet all objectives and associated measures of the Stage 2 criteria specified in paragraph (j) of this section and 3 objectives of the EP's choice from paragraph (k) of this section to meet the definition of a meaningful EHR user.
 
 (2) *Exclusion for nonapplicable objectives.* (i) An EP may exclude a particular objective contained in paragraph (j) or (k) of this section, if the EP meets all of the following requirements:
 
@@ -458,7 +456,7 @@ The following criteria are applicable before 2015:
 
 (3) *Flexible options for using certified EHR technology in 2014.* For an EHR reporting period in 2014, if an EP is scheduled to begin Stage 2 in 2014, but is unable to fully implement all the functions of 2014 Edition certified EHR technology required for the objectives and associated measures of the Stage 2 criteria due to delays in availability, the EP may choose to satisfy the objectives and associated measures of the Stage 1 criteria that are applicable beginning 2014 using 2014 Edition certified EHR technology.
 
-(i) *Stage 2 criteria for eligible hospitals and CAHs* - (1) *General rule regarding Stage 2 criteria for meaningful use for eligible hospitals or CAHs.* Except as specified in paragraph (i)(2) of this section, eligible hospitals and CAHs must meet all objectives and associated measures of the Stage 2 criteria specified in paragraph (l) of this section and three objectives of the eligible hospital's or CAH's choice from paragraph (m) of this section to meet the definition of a meaningful EHR user.
+(i) *Stage 2 criteria for eligible hospitals and CAHs*—(1) *General rule regarding Stage 2 criteria for meaningful use for eligible hospitals or CAHs.* Except as specified in paragraph (i)(2) of this section, eligible hospitals and CAHs must meet all objectives and associated measures of the Stage 2 criteria specified in paragraph (l) of this section and three objectives of the eligible hospital's or CAH's choice from paragraph (m) of this section to meet the definition of a meaningful EHR user.
 
 (2) *Exclusions for nonapplicable objectives.* (i) An eligible hospital or CAH may exclude a particular objective that includes an option for exclusion contained in paragraphs (l) or (m) of this section, if the hospital meets all of the following requirements:
 
@@ -476,7 +474,7 @@ The following criteria are applicable before 2015:
 
 (1)(i) *Objective.* Use computerized provider order entry for medication, laboratory, and radiology orders directly entered by any licensed healthcare professional who can enter orders into the medical record per State, local, and professional guidelines.
 
-(ii) *Measures.* Subject to paragraph (c) of this section -
+(ii) *Measures.* Subject to paragraph (c) of this section—
 
 (A) More than 60 percent of medication orders created by the EP during the EHR reporting period are recorded using computerized provider order entry;
 
@@ -494,7 +492,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measure.* Subject to paragraph (c) of this section, more than 50 percent of all permissible prescriptions, or all prescriptions, written by the EP are queried for a drug formulary and transmitted electronically using Certified EHR Technology.
 
-(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who -
+(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who—
 
 (A) Writes fewer than 100 permissible prescriptions during the EHR reporting period; or (B) Does not have a pharmacy within their organization and there are no pharmacies that accept electronic prescriptions within 10 miles of the EP's practice location at the start of his or her EHR reporting period.
 
@@ -526,7 +524,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measure.* Subject to paragraph (c) of this section, more than 80 percent of all unique patients seen by the EP during the EHR reporting period have blood pressure (for patients age 3 and over only) and height/length and weight (for all ages) recorded as structured data.
 
-(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who -
+(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who—
 
 (A) Sees no patients 3 years or older is excluded from recording blood pressure;
 
@@ -572,7 +570,7 @@ The following criteria are applicable before 2015:
 
 (B) More than 5 percent of all unique patients seen by the EP during the EHR reporting period (or their authorized representatives) view, download or transmit to a third party their health information.
 
-(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who -
+(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who—
 
 (A) Neither orders nor creates any of the information listed for inclusion as part of the measures in paragraphs (j)(10)(ii)(A) and (B) of this section, except for “Patient name” and “Provider's name and office contact information,” is excluded from both paragraphs (j)(10)(ii)(A) and (B) of this section; or
 
@@ -600,7 +598,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measures.* (A) Subject to paragraph (c) of this section, the EP that transitions or refers their patient to another setting of care or provider of care provides a summary of care record for more than 50 percent of transitions of care and referrals;
 
-(B) Subject to paragraph (c) of this section, the EP that transitions or refers their patient to another setting of care or provider of care provides a summary of care record for more than 10 percent of such transitions and referrals either -
+(B) Subject to paragraph (c) of this section, the EP that transitions or refers their patient to another setting of care or provider of care provides a summary of care record for more than 10 percent of such transitions and referrals either—
 
 (*1*) Electronically transmitted using Certified EHR Technology to a beneficiary; or
 
@@ -678,7 +676,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measure.* Successful ongoing submission of cancer case information from Certified EHR Technology to a public health central cancer registry for the entire EHR reporting period.
 
-(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who meets one or more of the following -
+(iii) *Exclusion in accordance with paragraph (h)(2) of this section.* Any EP who meets one or more of the following—
 
 (A) Does not diagnose or directly treat cancer.
 
@@ -710,7 +708,7 @@ The following criteria are applicable before 2015:
 
 (1)(i) *Objective.* Use computerized provider order entry for medication, laboratory, and radiology orders directly entered by any licensed healthcare professional who can enter orders into the medical record per State, local, and professional guidelines.
 
-(ii) *Measures.* Subject to paragraph (c) of this section, more than -
+(ii) *Measures.* Subject to paragraph (c) of this section, more than—
 
 (A) Sixty percent of medication orders created by authorized providers of the eligible hospital's or CAH's inpatient or emergency department (POS 21 or 23) during the EHR reporting period are recorded using computerized provider order entry,
 
@@ -788,7 +786,7 @@ The following criteria are applicable before 2015:
 
 (ii) *Measures.* (A) Subject to paragraph (c) in this section, the eligible hospital or CAH that transitions or refers their patient to another setting of care or provider of care provides a summary of care record for more than 50 percent of transitions of care and referrals,
 
-(B) Subject to paragraph (c) in this section, the eligible hospital or CAH that transitions their patient to another setting of care or provider of care provides a summary of care record for more than 10 percent of such transitions and referrals either -
+(B) Subject to paragraph (c) in this section, the eligible hospital or CAH that transitions their patient to another setting of care or provider of care provides a summary of care record for more than 10 percent of such transitions and referrals either—
 
 (*1*) Electronically transmitted using Certified EHR Technology to a beneficiary; or
 
@@ -796,7 +794,7 @@ The following criteria are applicable before 2015:
 
 (C) Subject to paragraph (c) of this section an eligible hospital or CAH must satisfy one of the following:
 
-(*1*) Conducts one or more successful electronic exchanges of a summary of care record meeting the measure specified in paragraph (l)(11)(ii)(B) of this section with a beneficiary using technology to receive the summary of care record that was designed by a different EHR developer than the sender's EHR technology certified at 45 CFR 107.314(b)(2); or
+(*1*) Conducts one or more successful electronic exchanges of a summary of care record meeting the measure specified in paragraph (l)(11)(ii)(B) of this section with a beneficiary using technology to receive the summary of care record that was designed by a different EHR developer than the sender's EHR technology certified at 45 CFR 170.314(b)(2); or
 
 (*2*) Conducts one or more successful tests with the CMS designated test EHR during the EHR reporting period.
 
@@ -878,10 +876,10 @@ The following criteria are applicable before 2015:
 
 (6)(i) *Objective.* Provide structured electronic lab results to ambulatory providers.
 
-(ii) *Measures.* Hospital labs send structured electronic clinical lab results to the ordering provider for more than 20 percent of -
+(ii) *Measures.* Hospital labs send structured electronic clinical lab results to the ordering provider for more than 20 percent of—
 
 (A) The electronic lab orders received; or
 
 (B) The lab orders received.
 
-[75 FR 44565, July 28, 2010, as amended at 75 FR 81887, Dec. 29, 2010; 77 FR 54149, Sept. 4, 2012; 77 FR 64758, Oct. 23, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 52932, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, Oct. 16, 2015]
+[75 FR 44565, July 28, 2010, as amended at 75 FR 81887, Dec. 29, 2010; 77 FR 54149, Sept. 4, 2012; 77 FR 64758, Oct. 23, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 52932, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, Oct. 16, 2015; 85 FR 59026, Sept. 18, 2020]

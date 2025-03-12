@@ -1,7 +1,5 @@
 ##### § 412.152 Definitions for the Hospital Readmissions Reduction Program. #####
 
-Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
-
 As used in this section and in § 412.154, the following definitions apply:
 
 *Aggregate payments for all discharges* is, for a hospital for the applicable period, the sum of the base operating DRG payment amounts for all discharges for all conditions from such hospital for such applicable period.
@@ -16,9 +14,9 @@ As used in this section and in § 412.154, the following definitions apply:
 
 (4) The neutrality modifier, a multiplicative factor that equates total Medicare savings under the current stratified methodology to the previous non-stratified methodology.
 
-*Applicable condition* is a condition or procedure selected by the Secretary -
+*Applicable condition* is a condition or procedure selected by the Secretary—
 
-(1) Among the conditions and procedures for which -
+(1) Among the conditions and procedures for which—
 
 (i) Readmissions represent conditions or procedures that are high volume or high expenditures; and
 
@@ -28,11 +26,15 @@ As used in this section and in § 412.154, the following definitions apply:
 
 *Applicable period* is, with respect to a fiscal year, the 3-year period (specified by the Secretary) from which data are collected in order to calculate excess readmission ratios and adjustments under the Hospital Readmissions Reduction Program.
 
-*Applicable period for dual-eligibility* is the 3-year data period corresponding to the applicable period as established by the Secretary for the Hospital Readmissions Reduction Program.
+(1) The applicable period for FY 2022 is the 3-year period from July 1, 2017 through June 30, 2020; and
+
+(2) Beginning with the FY 2023 program year, the applicable period is the 3-year period advanced by 1-year from the prior year's period from which data are collected in order to calculate excess readmission ratios and adjustments under the Hospital Readmissions Reduction Program, unless otherwise specified by the Secretary.
+
+*Applicable period for dual eligibility* is the 3-year data period corresponding to the applicable period for the Hospital Readmissions Reduction Program, unless otherwise established by the Secretary.
 
 *Base operating DRG payment amount* is the wage-adjusted DRG operating payment plus any applicable new technology add-on payments under subpart F of this part. This amount is determined without regard to any payment adjustments under the Hospital Value-Based Purchasing Program, as specified under § 412.162. This amount does not include any additional payments for indirect medical education under § 412.105, the treatment of a disproportionate share of low-income patients under § 412.106, outliers under subpart F of this part, and a low volume of discharges under § 412.101. With respect to a sole community hospital that receives payments under § 412.92(d) this amount also does not include the difference between the hospital-specific payment rate and the Federal payment rate determined under subpart D of this part. With respect to a Medicare-dependent, small rural hospital that receives payments under § 412.108(c), this amount includes the difference between the hospital-specific payment rate and the Federal payment rate determined under subpart D of this part. With respect to a hospital that is paid under section 1814(b)(3) of the Act, this amount is an amount equal to the wage-adjusted DRG payment amount plus new technology payments that would be paid to such hospitals, absent the provisions of section 1814(b)(3) of the Act.
 
-*Dual-eligible* - (1) For payment adjustment factor calculations prior to the FY 2021 program year, is a patient beneficiary who has been identified as having full benefit status in both the Medicare and Medicaid programs in the State Medicare Authorization Act (MMA) files for the month the beneficiary was discharged from the hospital; and
+*Dual-eligible*—(1) For payment adjustment factor calculations prior to the FY 2021 program year, is a patient beneficiary who has been identified as having full benefit status in both the Medicare and Medicaid programs in the State Medicare Authorization Act (MMA) files for the month the beneficiary was discharged from the hospital; and
 
 (2) For payment adjustment factor calculations beginning in the FY 2021 program year, is a patient beneficiary who has been identified as having full benefit status in both the Medicare and Medicaid programs in data sourced from the State MMA files for the month the beneficiary was discharged from the hospital, except for those patient beneficiaries who die in the month of discharge, which will be identified using the previous month's data as sourced from the State MMA files.
 
@@ -52,4 +54,4 @@ As used in this section and in § 412.154, the following definitions apply:
 
 *Wage-adjusted DRG operating payment* is the applicable average standardized amount adjusted for resource utilization by the applicable MS-DRG relative weight and adjusted for differences in geographic costs by the applicable area wage index (and by the applicable cost-of-living adjustment for hospitals located in Alaska and Hawaii). This amount includes an applicable payment adjustment for transfers under § 412.4(f).
 
-[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 83 FR 41704, Aug. 17, 2018; 84 FR 42613, Aug. 16, 2019]
+[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 83 FR 41704, Aug. 17, 2018; 84 FR 42613, Aug. 16, 2019l 85 FR 59022, Sept. 18, 2020]

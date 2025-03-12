@@ -1,8 +1,6 @@
 ##### § 248.20 Program for compliance; reporting. #####
 
-Link to an amendment published at 85 FR 46509, July 31, 2020.Link to a correction published at 85 FR 60355, Sept. 25, 2020.
-
-(a) *Program requirement.* Each banking entity (other than a banking entity with limited trading assets and liabilities) shall develop and provide for the continued administration of a compliance program reasonably designed to ensure and monitor compliance with the prohibitions and restrictions on proprietary trading and covered fund activities and investments set forth in section 13 of the BHC Act and this part. The terms, scope, and detail of the compliance program shall be appropriate for the types, size, scope, and complexity of activities and business structure of the banking entity.
+(a) *Program requirement.* Each banking entity (other than a banking entity with limited trading assets and liabilities or a qualifying foreign excluded fund under § 248.6(f) or § 248.13(d)) shall develop and provide for the continued administration of a compliance program reasonably designed to ensure and monitor compliance with the prohibitions and restrictions on proprietary trading and covered fund activities and investments set forth in section 13 of the BHC Act and this part. The terms, scope, and detail of the compliance program shall be appropriate for the types, size, scope, and complexity of activities and business structure of the banking entity.
 
 (b) *Banking entities with significant trading assets and liabilities.* With respect to a banking entity with significant trading assets and liabilities, the compliance program required by paragraph (a) of this section, at a minimum, shall include:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 46509, July 31, 2020.Link to a correctio
 
 (c) *CEO attestation.* The CEO of a banking entity that has significant trading assets and liabilities must, based on a review by the CEO of the banking entity, attest in writing to the Board, each year no later than March 31, that the banking entity has in place processes to establish, maintain, enforce, review, test and modify the compliance program required by paragraph (b) of this section in a manner reasonably designed to achieve compliance with section 13 of the BHC Act and this part. In the case of a U.S. branch or agency of a foreign banking entity, the attestation may be provided for the entire U.S. operations of the foreign banking entity by the senior management officer of the U.S. operations of the foreign banking entity who is located in the United States.
 
-(d) *Reporting requirements under appendix A to this part.* (1) A banking entity engaged in proprietary trading activity permitted under subpart B shall comply with the reporting requirements described in appendix A to this part, if:
+(d) *Reporting requirements under appendix A to this part.* (1) A banking entity (other than a qualifying foreign excluded fund under section 248.6(f) or 248.13(d)) engaged in proprietary trading activity permitted under subpart B shall comply with the reporting requirements described in appendix A to this part, if:
 
 (i) The banking entity has significant trading assets and liabilities; or
 
@@ -28,11 +26,11 @@ Link to an amendment published at 85 FR 46509, July 31, 2020.Link to a correctio
 
 (2) Frequency of reporting: Unless the Board notifies the banking entity in writing that it must report on a different basis, a banking entity subject to appendix A to this part shall report the information required by appendix A for each quarter within 30 days of the end of the quarter.
 
-(e) *Additional documentation for covered funds.* A banking entity with significant trading assets and liabilities shall maintain records that include:
+(e) *Additional documentation for covered funds.* A banking entity with significant trading assets and liabilities (other than a qualifying foreign excluded fund under section 248.6(f) or 248.13(d)) shall maintain records that include:
 
 (1) Documentation of the exclusions or exemptions other than sections 3(c)(1) and 3(c)(7) of the Investment Company Act of 1940 relied on by each fund sponsored by the banking entity (including all subsidiaries and affiliates) in determining that such fund is not a covered fund;
 
-(2) For each fund sponsored by the banking entity (including all subsidiaries and affiliates) for which the banking entity relies on one or more of the exclusions from the definition of covered fund provided by §§ 248.10(c)(1), 248.10(c)(5), 248.10(c)(8), 248.10(c)(9), or 248.10(c)(10) of subpart C, documentation supporting the banking entity's determination that the fund is not a covered fund pursuant to one or more of those exclusions;
+(2) For each fund sponsored by the banking entity (including all subsidiaries and affiliates) for which the banking entity relies on one or more of the exclusions from the definition of covered fund provided by § 248.10(c)(1), 248.10(c)(5), 248.10(c)(8), 248.10(c)(9), or 248.10(c)(10) of subpart C, documentation supporting the banking entity's determination that the fund is not a covered fund pursuant to one or more of those exclusions;
 
 (3) For each seeding vehicle described in § 248.10(c)(12)(i) or (iii) of subpart C that will become a registered investment company or SEC-regulated business development company, a written plan documenting the banking entity's determination that the seeding vehicle will become a registered investment company or SEC-regulated business development company; the period of time during which the vehicle will operate as a seeding vehicle; and the banking entity's plan to market the vehicle to third-party investors and convert it into a registered investment company or SEC-regulated business development company within the time period specified in § 248.12(a)(2)(i)(B) of subpart C;
 
@@ -40,17 +38,17 @@ Link to an amendment published at 85 FR 46509, July 31, 2020.Link to a correctio
 
 (5) For purposes of paragraph (e)(4) of this section, a U.S. branch, agency, or subsidiary of a foreign banking entity is located in the United States; however, the foreign bank that operates or controls that branch, agency, or subsidiary is not considered to be located in the United States solely by virtue of operating or controlling the U.S. branch, agency, or subsidiary.
 
-(f) *Simplified programs for less active banking entities* - (1) *Banking entities with no covered activities.* A banking entity that does not engage in activities or investments pursuant to subpart B or subpart C (other than trading activities permitted pursuant to § 248.6(a) of subpart B) may satisfy the requirements of this section by establishing the required compliance program prior to becoming engaged in such activities or making such investments (other than trading activities permitted pursuant to § 248.6(a) of subpart B).
+(f) *Simplified programs for less active banking entities*—(1) *Banking entities with no covered activities.* A banking entity that does not engage in activities or investments pursuant to subpart B or subpart C (other than trading activities permitted pursuant to § 248.6(a) of subpart B) may satisfy the requirements of this section by establishing the required compliance program prior to becoming engaged in such activities or making such investments (other than trading activities permitted pursuant to § 248.6(a) of subpart B).
 
 (2) *Banking entities with moderate trading assets and liabilities.* A banking entity with moderate trading assets and liabilities may satisfy the requirements of this section by including in its existing compliance policies and procedures appropriate references to the requirements of section 13 of the BHC Act and this part and adjustments as appropriate given the activities, size, scope, and complexity of the banking entity.
 
-(g) *Rebuttable presumption of compliance for banking entities with limited trading assets and liabilities* - (1) *Rebuttable presumption.* Except as otherwise provided in this paragraph, a banking entity with limited trading assets and liabilities shall be presumed to be compliant with subpart B and subpart C of this part and shall have no obligation to demonstrate compliance with this part on an ongoing basis.
+(g) *Rebuttable presumption of compliance for banking entities with limited trading assets and liabilities*—(1) *Rebuttable presumption.* Except as otherwise provided in this paragraph, a banking entity with limited trading assets and liabilities shall be presumed to be compliant with subpart B and subpart C of this part and shall have no obligation to demonstrate compliance with this part on an ongoing basis.
 
 (2) *Rebuttal of presumption.* If upon examination or audit, the Board determines that the banking entity has engaged in proprietary trading or covered fund activities that are otherwise prohibited under subpart B or subpart C of this part, the Board may require the banking entity to be treated under this part as if it did not have limited trading assets and liabilities. The Board's rebuttal of the presumption in this paragraph must be made in accordance with the notice and response procedures in paragraph (i) of this section.
 
 (h) *Reservation of authority.* Notwithstanding any other provision of this part, the Board retains its authority to require a banking entity without significant trading assets and liabilities to apply any requirements of this part that would otherwise apply if the banking entity had significant or moderate trading assets and liabilities if the Board determines that the size or complexity of the banking entity's trading or investment activities, or the risk of evasion of subpart B or subpart C of this part, does not warrant a presumption of compliance under paragraph (g) of this section or treatment as a banking entity with moderate trading assets and liabilities, as applicable. The Board's exercise of this reservation of authority must be made in accordance with the notice and response procedures in paragraph (i) of this section.
 
-(i) *Notice and response procedures* - (1) *Notice.* The Board will notify the banking entity in writing of any determination requiring notice under this part and will provide an explanation of the determination.
+(i) *Notice and response procedures*—(1) *Notice.* The Board will notify the banking entity in writing of any determination requiring notice under this part and will provide an explanation of the determination.
 
 (2) *Response.* The banking entity may respond to any or all items in the notice described in paragraph (i)(1) of this section. The response should include any matters that the banking entity would have the Board consider in deciding whether to make the determination. The response must be in writing and delivered to the designated Board official within 30 days after the date on which the banking entity received the notice. The Board may shorten the time period when, in the opinion of the Board, the activities or condition of the banking entity so requires, provided that the banking entity is informed of the time period at the time of notice, or with the consent of the banking entity. In its discretion, the Board may extend the time period for good cause.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 85 FR 46509, July 31, 2020.Link to a correctio
 
 (4) *Decision.* The Board will notify the banking entity of the decision in writing. The notice will include an explanation of the decision.
 
-[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 62137, Nov. 14, 2019]
+[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 62137, Nov. 14, 2019; 85 FR 46509, July 31, 2020]

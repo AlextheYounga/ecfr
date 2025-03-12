@@ -1,7 +1,5 @@
 ##### § 412.113 Other payments. #####
 
-Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
-
 (a) *Capital-related costs* - (1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
 
 (2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by -
@@ -45,5 +43,29 @@ Link to an amendment published at 85 FR 59022, Sept. 18, 2020.
 (iv) For administrative purposes for the calendar years after 1990, the volume of surgical procedures for the immediately preceding year is the sum of the surgical procedures for the nine month period ending September 30, annualized for the twelve month period.
 
 (d) *Organ acquisition.* Payment for organ acquisition costs incurred by hospitals with approved transplantation centers is made on a reasonable cost basis. The term “Organs” is defined in § 486.302 of this chapter.
+
+(e) *Allogeneic hematopoietic stem cell acquisition.* For cost reporting periods beginning on or after October 1, 2020, in the case of a subsection (d) hospital that furnishes an allogeneic hematopoietic stem cell transplant to an individual, payment to such hospital for hematopoietic stem cell acquisition costs is made on a reasonable cost basis.
+
+(1) An allogeneic hematopoietic stem cell transplant is the intravenous infusion of hematopoietic cells derived from bone marrow, peripheral blood stem cells, or cord blood, but not including embryonic stem cells, of a donor to an individual that are or may be used to restore hematopoietic function in such individual having an inherited or acquired deficiency or defect.
+
+(2) Allogeneic hematopoietic stem cell acquisition costs recognized under this paragraph (e) are costs of acquiring hematopoietic stem cells from a donor. These costs are as follows:
+
+(i) Registry fees from a national donor registry described in 42 U.S.C. 274k, if applicable, for stem cells from an unrelated donor.
+
+(ii) Tissue typing of donor and recipient.
+
+(iii) Donor evaluation.
+
+(iv) Physician pre-admission/pre-procedure donor evaluation services.
+
+(v) Costs associated with the collection procedure (for example, general routine and special care services, procedure/operating room and other ancillary services, apheresis services), and transportation costs of stem cells if the recipient hospital incurred or paid such costs.
+
+(vi) Post-operative/post-procedure evaluation of donor.
+
+(vii) Preparation and processing of stem cells derived from bone marrow, peripheral blood stem cells, or cord blood (but not including embryonic stem cells).
+
+(3) A subsection (d) hospital that furnishes inpatient allogeneic hematopoietic stem cell transplants is required to hold all allogeneic hematopoietic stem cell acquisition charges and bill them to Medicare using the appropriate revenue code, when the transplant occurs.
+
+(4) A subsection (d) hospital must maintain an itemized statement that identifies, for all costs defined in paragraph (e)(2) of this section, the services furnished in collecting hematopoietic stem cells including all invoices or statements for purchased services for all donors and their service charges. Records must be for the person receiving the services (donor or recipient; for all donor sources, the hospital must identify the prospective recipient), and the recipient's Medicare beneficiary identification number.
 
 [50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.113, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

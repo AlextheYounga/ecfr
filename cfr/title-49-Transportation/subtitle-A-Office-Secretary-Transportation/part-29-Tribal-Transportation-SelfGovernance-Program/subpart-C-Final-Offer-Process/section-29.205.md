@@ -1,0 +1,3 @@
+##### § 29.205 How does the Department acknowledge receipt of a final offer? #####
+
+Within 10 days of the Self-Governance Official receiving the final offer, the Department will send the Tribe an acknowledgement of the final offer, together with documentation that indicates the date on which the Self-Governance Official received the final offer. The Department's failure to send the acknowledgement does not constitute approval of the final offer.

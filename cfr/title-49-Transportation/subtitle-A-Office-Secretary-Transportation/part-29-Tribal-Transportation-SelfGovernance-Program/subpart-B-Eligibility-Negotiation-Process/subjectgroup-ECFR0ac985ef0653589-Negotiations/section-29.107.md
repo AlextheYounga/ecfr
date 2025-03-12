@@ -1,0 +1,3 @@
+##### § 29.107 What recourse does the Department or the Tribe have if the negotiations reach an impasse? #####
+
+The Department and the Tribe should resolve disagreements informally and by mutual agreement whenever possible. If the Department and the Tribe are unable to reach agreement by the agreed upon date for completing negotiations, the Tribe may request to participate in an alternative dispute resolution process pursuant to § 29.901, or it may submit a final offer to the Self-Governance Official in accordance with subpart C of this part.

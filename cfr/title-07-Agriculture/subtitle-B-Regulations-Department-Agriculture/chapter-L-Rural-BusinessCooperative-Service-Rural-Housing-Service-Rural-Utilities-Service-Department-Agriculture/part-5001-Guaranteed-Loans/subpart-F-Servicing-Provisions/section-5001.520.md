@@ -1,0 +1,5 @@
+##### § 5001.520 Litigation. #####
+
+(a) In all litigation proceedings involving the borrower, the lender is responsible for protecting the rights of the lender and the Agency with respect to the loan and keeping the Agency adequately and regularly informed, in writing, of all aspects of the proceedings. If the Agency determines that the lender is not adequately protecting the rights of the lender or the Agency with respect to the loan, the Agency reserves the right to take any legal action the Agency determines necessary to protect the rights of the lender and Agency, on behalf of the lender or the Agency. If the Agency exercises this right, the lender must cooperate with the Agency. The Agency will assess against the lender any cost the Agency incurs with such action.
+
+(b) Notwithstanding any other provision of this part, the Agency reserves the right to be represented by the U.S. Department of Justice in any litigation where the Agency is named as a party.

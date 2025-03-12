@@ -1,14 +1,12 @@
 ##### § 412.29 Classification criteria for payment under the inpatient rehabilitation facility prospective payment system. #####
 
-Link to an amendment published at 85 FR 48462, Aug. 10, 2020.
-
 To be excluded from the prospective payment systems described in § 412.1(a)(1) and to be paid under the prospective payment system specified in § 412.1(a)(3), an inpatient rehabilitation hospital or an inpatient rehabilitation unit of a hospital (otherwise referred to as an IRF) must meet the following requirements:
 
 (a) Have (or be part of a hospital that has) a provider agreement under part 489 of this chapter to participate as a hospital.
 
 (b) Except in the case of a “new” IRF or “new” IRF beds, as defined in paragraph (c) of this section, an IRF must show that, during its most recent, consecutive, and appropriate 12-month time period (as defined by CMS or the Medicare contractor), it served an inpatient population that meets the following criteria:
 
-(1) For cost reporting periods beginning on or after July 1, 2004, and before July 1, 2005, the IRF served an inpatient population of whom at least 50 percent, and for cost reporting periods beginning on or after July 1, 2005, the IRF served an inpatient population of whom at least 60 percent required intensive rehabilitation services for treatment of one or more of the conditions specified at paragraph (b)(2) of this section. A patient with a comorbidity, as defined at § 412.602 of this part, may be included in the inpatient population that counts toward the required applicable percentage if -
+(1) For cost reporting periods beginning on or after July 1, 2004, and before July 1, 2005, the IRF served an inpatient population of whom at least 50 percent, and for cost reporting periods beginning on or after July 1, 2005, the IRF served an inpatient population of whom at least 60 percent required intensive rehabilitation services for treatment of one or more of the conditions specified at paragraph (b)(2) of this section. A patient with a comorbidity, as defined at § 412.602 of this part, may be included in the inpatient population that counts toward the required applicable percentage if—
 
 (i) The patient is admitted for inpatient rehabilitation for a condition that is not one of the conditions specified in paragraph (b)(2) of this section;
 
@@ -62,11 +60,11 @@ To be excluded from the prospective payment systems described in § 412.1(a)(1) 
 
 (d) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge, as defined in § 412.622 of this chapter, during the Public Health Emergency, as defined in § 400.200 of this chapter, have in effect a preadmission screening procedure under which each prospective patient's condition and medical history are reviewed to determine whether the patient is likely to benefit significantly from an intensive inpatient hospital program. This procedure must ensure that the preadmission screening for each Medicare Part A fee-for-Service patient is reviewed and approved by a rehabilitation physician prior to the patient's admission to the IRF.
 
-(e) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge, as defined in § 412.622 of this chapter, during the Public Health Emergency, as defined in § 400.200 of this chapter, have in effect a procedure to ensure that patients receive close medical supervision, as evidenced by at least 3 face-to-face visits per week by a licensed physician with specialized training and experience in inpatient rehabilitation to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process except that during the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act).
+(e) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge, as defined in § 412.622, during the Public Health Emergency, as defined in § 400.200 of this chapter, have in effect a procedure to ensure that patients receive close medical supervision, as evidenced by at least 3 face-to-face visits per week by a licensed physician with specialized training and experience in inpatient rehabilitation to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process except that during the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act). Beginning with the second week, as defined in § 412.622, of admission to the IRF, a non-physician practitioner who is determined by the IRF to have specialized training and experience in inpatient rehabilitation may conduct 1 of the 3 required face-to-face visits with the patient per week, provided that such duties are within the non-physician practitioner's scope of practice under applicable state law.
 
 (f) Furnish, through the use of qualified personnel, rehabilitation nursing, physical therapy, and occupational therapy, plus, as needed, speech-language pathology, social services, psychological services (including neuropsychological services), and orthotic and prosthetic services.
 
-(g) Have a director of rehabilitation who -
+(g) Have a director of rehabilitation who—
 
 (1) Provides services to the IRF hospital and its inpatients on a full-time basis or, in the case of a rehabilitation unit, at least 20 hours per week;
 
@@ -82,4 +80,4 @@ To be excluded from the prospective payment systems described in § 412.1(a)(1) 
 
 (j) *Retroactive adjustments.* If a new IRF (or new beds that are added to an existing IRF) are excluded from the prospective payment systems specified in § 412.1(a)(1) and paid under the prospective payment system specified in § 412.1(a)(3) for a cost reporting period under paragraph (c) of this section, but the inpatient population actually treated during that period does not meet the requirements of paragraph (b) of this section, we adjust payments to the IRF retroactively in accordance with the provisions in § 412.130.
 
-[76 FR 47891, Aug. 5, 2011, as amended at 78 FR 47934, Aug. 6, 2013; 85 FR 19287, Apr. 6, 2020; 85 FR 27621, May 8, 2020]
+[76 FR 47891, Aug. 5, 2011, as amended at 78 FR 47934, Aug. 6, 2013; 85 FR 19287, Apr. 6, 2020; 85 FR 27621, May 8, 2020; 85 FR 48462, Aug. 10, 2020]

@@ -1,0 +1,3 @@
+##### § 29.203 What must a final offer contain? #####
+
+A final offer must contain a description of the disagreement between the Department and the Tribe, the Tribe's final proposal to resolve the disagreement, including any draft proposed terms to be included in a compact, funding agreement, or amendment, and the name and contact information for the person authorized to act on behalf of the Tribe. If the final offer is insufficient for the Department to make a decision, the Department will notify the Tribe and request additional information. A request for more information has no effect on deadlines for response.

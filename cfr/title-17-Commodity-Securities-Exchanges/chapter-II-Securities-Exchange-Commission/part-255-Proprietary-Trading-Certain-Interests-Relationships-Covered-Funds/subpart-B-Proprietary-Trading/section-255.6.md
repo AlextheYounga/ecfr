@@ -1,7 +1,5 @@
 ##### § 255.6 Other permitted proprietary trading activities. #####
 
-Link to an amendment published at 85 FR 46522, July 31, 2020.
-
 (a) *Permitted trading in domestic government obligations.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale by a banking entity of a financial instrument that is:
 
 (1) An obligation of, or issued or guaranteed by, the United States;
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 46522, July 31, 2020.
 
 (4) An obligation of the FDIC, or any entity formed by or on behalf of the FDIC for purpose of facilitating the disposal of assets acquired or held by the FDIC in its corporate capacity or as conservator or receiver under the Federal Deposit Insurance Act or Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
 
-(b) *Permitted trading in foreign government obligations* - (1) *Affiliates of foreign banking entities in the United States.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale of a financial instrument that is an obligation of, or issued or guaranteed by, a foreign sovereign (including any multinational central bank of which the foreign sovereign is a member), or any agency or political subdivision of such foreign sovereign, by a banking entity, so long as:
+(b) *Permitted trading in foreign government obligations*—(1) *Affiliates of foreign banking entities in the United States.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale of a financial instrument that is an obligation of, or issued or guaranteed by, a foreign sovereign (including any multinational central bank of which the foreign sovereign is a member), or any agency or political subdivision of such foreign sovereign, by a banking entity, so long as:
 
 (i) The banking entity is organized under or is directly or indirectly controlled by a banking entity that is organized under the laws of a foreign sovereign and is not directly or indirectly controlled by a top-tier banking entity that is organized under the laws of the United States;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 46522, July 31, 2020.
 
 (iii) The financial instrument is owned by the foreign entity and is not financed by an affiliate that is located in the United States or organized under the laws of the United States or of any State.
 
-(c) *Permitted trading on behalf of customers* - (1) *Fiduciary transactions.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale of financial instruments by a banking entity acting as trustee or in a similar fiduciary capacity, so long as:
+(c) *Permitted trading on behalf of customers*—(1) *Fiduciary transactions.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale of financial instruments by a banking entity acting as trustee or in a similar fiduciary capacity, so long as:
 
 (i) The transaction is conducted for the account of, or on behalf of, a customer; and
 
@@ -80,4 +78,22 @@ Link to an amendment published at 85 FR 46522, July 31, 2020.
 
 (4) For purposes of this paragraph (e), a U.S. branch, agency, or subsidiary of a foreign banking entity is considered to be located in the United States; however, the foreign bank that operates or controls that branch, agency, or subsidiary is not considered to be located in the United States solely by virtue of operating or controlling the U.S. branch, agency, or subsidiary.
 
-[79 FR 5779, 5805, Jan. 31, 2014, as amended at 84 FR 62244, Nov. 14, 2019]
+(f) *Permitted trading activities of qualifying foreign excluded funds.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale of a financial instrument by a qualifying foreign excluded fund. For purposes of this paragraph (f), a qualifying foreign excluded fund means a banking entity that:
+
+(1) Is organized or established outside the United States, and the ownership interests of which are offered and sold solely outside the United States;
+
+(2)(i) Would be a covered fund if the entity were organized or established in the United States, or
+
+(ii) Is, or holds itself out as being, an entity or arrangement that raises money from investors primarily for the purpose of investing in financial instruments for resale or other disposition or otherwise trading in financial instruments;
+
+(3) Would not otherwise be a banking entity except by virtue of the acquisition or retention of an ownership interest in, sponsorship of, or relationship with the entity, by another banking entity that meets the following:
+
+(i) The banking entity is not organized, or directly or indirectly controlled by a banking entity that is organized, under the laws of the United States or of any State; and
+
+(ii) The banking entity's acquisition or retention of an ownership interest in or sponsorship of the fund meets the requirements for permitted covered fund activities and investments solely outside the United States, as provided in § 255.13(b);
+
+(4) Is established and operated as part of a bona fide asset management business; and
+
+(5) Is not operated in a manner that enables the banking entity that sponsors or controls the qualifying foreign excluded fund, or any of its affiliates, to evade the requirements of section 13 of the BHC Act or this part.
+
+[79 FR 5779, 5805, Jan. 31, 2014, as amended at 84 FR 62244, Nov. 14, 2019; 85 FR 46522, July 31, 2020]

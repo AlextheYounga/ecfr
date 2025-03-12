@@ -1,0 +1,3 @@
+##### § 29.404 When must the Department transfer funds that were not paid as part of the initial lump sum payment (or initial periodic payment)? #####
+
+The Department must transfer any funds that were not paid in the initial lump sum payment (or initial periodic payment) within 10 days after the apportionment of such funds by the Office of Management and Budget to the Department, unless the funding agreement provides otherwise. Consistent with the Prompt Payment Act, the Department is not responsible for any interest penalty if the Department makes the transfer within 30 days.

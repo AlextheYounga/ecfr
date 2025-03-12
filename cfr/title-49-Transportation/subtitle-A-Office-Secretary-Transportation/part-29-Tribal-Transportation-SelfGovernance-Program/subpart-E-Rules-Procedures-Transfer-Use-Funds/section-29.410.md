@@ -1,0 +1,3 @@
+##### § 29.410 May a Tribe use remaining funds from a discretionary or competitive grant included in a funding agreement? #####
+
+A Tribe may use remaining funds from a discretionary or competitive grant included in a funding agreement, but only with written approval from the Department. The Department must determine that the use of such funds is consistent with the statutory requirements of the grant program, including purpose and time, and is for the project for which the grant was provided.

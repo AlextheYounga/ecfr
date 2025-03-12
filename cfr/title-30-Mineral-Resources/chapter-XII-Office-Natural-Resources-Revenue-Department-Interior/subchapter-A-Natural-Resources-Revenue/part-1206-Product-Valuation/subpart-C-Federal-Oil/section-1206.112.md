@@ -1,41 +1,91 @@
-##### § 1206.112 What adjustments and transportation allowances apply when I value oil production from my lease using NYMEX prices or ANS spot prices? #####
+##### § 1206.112 How do I determine a transportation allowance if I do not have an arm's-length transportation contract? #####
 
-This section applies when you use NYMEX prices or ANS spot prices to calculate the value of production under § 1206.103. As specified in this section, adjust the NYMEX price to reflect the difference in value between your lease and Cushing, Oklahoma, or adjust the ANS spot price to reflect the difference in value between your lease and the appropriate ONRR-recognized market center at which the ANS spot price is published (for example, Long Beach, California, or San Francisco, California). Paragraph (a) of this section explains how you adjust the value between the lease and the market center, and paragraph (b) of this section explains how you adjust the value between the market center and Cushing when you use NYMEX prices. Paragraph (c) of this section explains how adjustments may be made for quality differentials that are not accounted for through exchange agreements. Paragraph (d) of this section gives some examples. References in this section to “you” include your affiliates as applicable.
+(a) This section applies if you or your affiliate do(es) not have an arm's-length transportation contract, including situations where you or your affiliate provide your own transportation services. You must calculate your transportation allowance based on your or your affiliate's reasonable, actual costs for transportation during the reporting period using the procedures prescribed in this section.
 
-(a) To adjust the value between the lease and the market center:
+(b) Your or your affiliate's actual costs may include the following:
 
-(1)(i) For oil that you exchange at arm's length between your lease and the market center (or between any intermediate points between those locations), you must calculate a lease-to-market center differential by the applicable location and quality differentials derived from your arm's-length exchange agreement applicable to production during the production month.
+(1) Capital costs and operating and maintenance expenses under paragraphs (e), (f), and (g) of this section.
 
-(ii) For oil that you exchange between your lease and the market center (or between any intermediate points between those locations) under an exchange agreement that is not at arm's length, you must obtain approval from ONRR for a location and quality differential. Until you obtain such approval, you may use the location and quality differential derived from that exchange agreement applicable to production during the production month. If ONRR prescribes a different differential, you must apply ONRR's differential to all periods for which you used your proposed differential. You must pay any additional royalties owed resulting from using ONRR's differential plus late payment interest from the original royalty due date, or you may report a credit for any overpaid royalties plus interest under 30 U.S.C. 1721(h).
+(2) Overhead under paragraph (h) of this section.
 
-(2) For oil that you transport between your lease and the market center (or between any intermediate points between those locations), you may take an allowance for the cost of transporting that oil between the relevant points as determined under § 1206.110 or § 1206.111, as applicable.
+(3)(i) Depreciation and a return on undepreciated capital investment under paragraph (i)(1) of this section, or you may elect to use a cost equal to a return on the initial depreciable capital investment in the transportation system under paragraph (i)(2) of this section. After you have elected to use either method for a transportation system, you may not later elect to change to the other alternative without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
 
-(3) If you transport or exchange at arm's length (or both transport and exchange) at least 20 percent, but not all, of your oil produced from the lease to a market center, determine the adjustment between the lease and the market center for the oil that is not transported or exchanged (or both transported and exchanged) to or through a market center as follows:
+(ii) A return on the reasonable salvage value under paragraph (i)(1)(iii) of this section after you have depreciated the transportation system to its reasonable salvage value.
 
-(i) Determine the volume-weighted average of the lease-to-market center adjustment calculated under paragraphs (a)(1) and (2) of this section for the oil that you do transport or exchange (or both transport and exchange) from your lease to a market center.
+(c) To the extent not included in costs identified in paragraphs (e) through (h) of this section.
 
-(ii) Use that volume-weighted average lease-to-market center adjustment as the adjustment for the oil that you do not transport or exchange (or both transport and exchange) from your lease to a market center.
+(1) If you or your affiliate incur(s) the following actual costs under your or your affiliate's non-arm's-length contract, you may include these costs in your calculations under this section:
 
-(4) If you transport or exchange (or both transport and exchange) less than 20 percent of the crude oil produced from your lease between the lease and a market center, you must propose to ONRR an adjustment between the lease and the market center for the portion of the oil that you do not transport or exchange (or both transport and exchange) to a market center. Until you obtain such approval, you may use your proposed adjustment. If ONRR prescribes a different adjustment, you must apply ONRR's adjustment to all periods for which you used your proposed adjustment. You must pay any additional royalties owed resulting from using ONRR's adjustment plus late payment interest from the original royalty due date, or you may report a credit for any overpaid royalties plus interest under 30 U.S.C. 1721(h).
+(i) Fees paid to a non-affiliated terminal operator for loading and unloading of crude oil into or from a vessel, vehicle, pipeline, or other conveyance
 
-(5) You may not both take a transportation allowance and use a location and quality adjustment or exchange differential for the same oil between the same points.
+(ii) Transfer fees paid to a hub operator associated with physical movement of crude oil through the hub when you do not sell the oil at the hub; these fees do not include title transfer fees
 
-(b) For oil that you value using NYMEX prices, adjust the value between the market center and Cushing, Oklahoma, as follows:
+(iii) A volumetric deduction to cover shrinkage when high-gravity petroleum (generally in excess of 51 degrees API) is mixed with lower gravity crude oil for transportation
 
-(1) If you have arm's-length exchange agreements between the market center and Cushing under which you exchange to Cushing at least 20 percent of all the oil you own at the market center during the production month, you must use the volume-weighted average of the location and quality differentials from those agreements as the adjustment between the market center and Cushing for all the oil that you produce from the leases during that production month for which that market center is used.
+(iv) Fees paid to a non-affiliated quality bank administrator for administration of a quality bank
 
-(2) If paragraph (b)(1) of this section does not apply, you must use the WTI differential published in an ONRR-approved publication for the market center nearest your lease, for crude oil most similar in quality to your production, as the adjustment between the market center and Cushing. (For example, for light sweet crude oil produced offshore of Louisiana, use the WTI differential for Light Louisiana Sweet crude oil at St. James, Louisiana.) After you select an ONRR-approved publication, you may not select a different publication more often than once every 2 years, unless the publication you use is no longer published or ONRR revokes its approval of the publication. If you are required to change publications, you must begin a new 2-year period.
+(v) The cost of carrying on your books as inventory a volume of oil that the pipeline operator requires you, as a shipper, to maintain—and that you do maintain—in the line as line fill; you must calculate this cost as follows:
 
-(3) If neither paragraph (b)(1) nor (b)(2) of this section applies, you may propose an alternative differential to ONRR. Until you obtain such approval, you may use your proposed differential. If ONRR prescribes a different differential, you must apply ONRR's differential to all periods for which you used your proposed differential. You must pay any additional royalties owed resulting from using ONRR's differential plus late payment interest from the original royalty due date, or you may report a credit for any overpaid royalties plus interest under 30 U.S.C. 1721(h).
+(A) First, multiply the volume that the pipeline requires you to maintain—and that you do maintain—in the pipeline by the value of that volume for the current month calculated under § 1206.101 or § 1206.102, as applicable.
 
-(c)(1) If you adjust for location and quality differentials or for transportation costs under paragraphs (a) and (b) of this section, also adjust the NYMEX price or ANS spot price for quality based on premiums or penalties determined by pipeline quality bank specifications at intermediate commingling points or at the market center if those points are downstream of the royalty measurement point approved by BSEE or BLM, as applicable. Make this adjustment only if and to the extent that such adjustments were not already included in the location and quality differentials determined from your arm's-length exchange agreements.
+(B) Second, multiply the value calculated under paragraph (c)(1)(v)(A) of this section by the monthly rate of return, calculated by dividing the rate of return specified in paragraph (i)(3) of this section by 12.
 
-(2) If the quality of your oil as adjusted is still different from the quality of the representative crude oil at the market center after making the quality adjustments described in paragraphs (a), (b), and (c)(1) of this section, you may make further gravity adjustments using posted price gravity tables. If quality bank adjustments do not incorporate or provide for adjustments for sulfur content, you may make sulfur adjustments, based on the quality of the representative crude oil at the market center, of 5.0 cents per one-tenth percent difference in sulfur content, unless ONRR approves a higher adjustment.
+(2) You may not include in your transportation allowance:
 
-(d) The examples in this paragraph illustrate how to apply the requirement of this section.
+(i) Any of the costs identified under § 1206.111(c); and/or
 
-(1) *Example.* Assume that a Federal lessee produces crude oil from a lease near Artesia, New Mexico. Further, assume that the lessee transports the oil to Roswell, New Mexico, and then exchanges the oil to Midland, Texas. Assume the lessee refines the oil received in exchange at Midland. Assume that the NYMEX price is $30.00/bbl, adjusted for the roll; that the WTI differential (Cushing to Midland) is −$.10/bbl; that the lessee's exchange agreement between Roswell and Midland results in a location and quality differential of −$.08/bbl; and that the lessee's actual cost of transporting the oil from Artesia to Roswell is $.40/bbl. In this example, the royalty value of the oil is $30.00−$.10−$.08 - $.40 = $29.42/bbl.
+(ii) Fees paid (either in volume or in value) for actual or theoretical line losses.
 
-(2) *Example.* Assume the same facts as in the example in paragraph (d)(1) of this section, except that the lessee transports and exchanges to Midland 40 percent of the production from the lease near Artesia, and transports the remaining 60 percent directly to its own refinery in Ohio. In this example, the 40 percent of the production would be valued at $29.42/bbl, as explained in the previous example. In this example, the other 60 percent also would be valued at $29.42/bbl.
+(d) You may not use any cost as a deduction that duplicates all or part of any other cost that you use under this section.
 
-(3) *Example.* Assume that a Federal lessee produces crude oil from a lease near Bakersfield, California. Further, assume that the lessee transports the oil to Hynes Station, and then exchanges the oil to Cushing which it further exchanges with oil it refines. Assume that the ANS spot price is $20.00/bbl, and that the lessee's actual cost of transporting the oil from Bakersfield to Hynes Station is $.28/bbl. The lessee must request approval from ONRR for a location and quality adjustment between Hynes Station and Long Beach. For example, the lessee likely would propose using the tariff on Line 63 from Hynes Station to Long Beach as the adjustment between those points. Assume that adjustment to be $.72, including the sulfur and gravity bank adjustments, and that ONRR approves the lessee's request. In this example, the preliminary (because the location and quality adjustment is subject to ONRR review) royalty value of the oil is $20.00−$.72−$.28 = $19.00/bbl. The fact that oil was exchanged to Cushing does not change use of ANS spot prices for royalty valuation.
+(e) Allowable capital investment costs are generally those for depreciable fixed assets (including the costs of delivery and installation of capital equipment) that are an integral part of the transportation system.
+
+(f) Allowable operating expenses include the following:
+
+(1) Operations supervision and engineering
+
+(2) Operations labor
+
+(3) Fuel
+
+(4) Utilities
+
+(5) Materials
+
+(6) Ad valorem property taxes
+
+(7) Rent
+
+(8) Supplies
+
+(9) Any other directly allocable and attributable operating expense that you can document
+
+(g) Allowable maintenance expenses include the following:
+
+(1) Maintenance of the transportation system
+
+(2) Maintenance of equipment
+
+(3) Maintenance labor
+
+(4) Other directly allocable and attributable maintenance expenses that you can document
+
+(h) Overhead, directly attributable and allocable to the operation and maintenance of the transportation system, is an allowable expense. State and Federal income taxes and severance taxes and other fees, including royalties, are not allowable expenses.
+
+(i)(1) To calculate depreciation and a return on undepreciated capital investment, you may elect to use either a straight-line depreciation method (based on the life of equipment or on the life of the reserves that the transportation system services), or you may elect to use a unit-of-production method. After you make an election, you may not change methods without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
+
+(i) A change in ownership of a transportation system will not alter the depreciation schedule that the original transporter/lessee established for purposes of the allowance calculation.
+
+(ii) You may depreciate a transportation system, with or without a change in ownership, only once.
+
+(iii)(A) To calculate the return on undepreciated capital investment, you may use an amount equal to the undepreciated capital investment in the transportation system multiplied by the rate of return that you determine under paragraph (i)(3) of this section.
+
+(B) After you have depreciated a transportation system to the reasonable salvage value, you may continue to include in the allowance calculation a cost equal to the reasonable salvage value multiplied by a rate of return under paragraph (i)(3) of this section.
+
+(2) As an alternative to using depreciation and a return on undepreciated capital investment, as provided under paragraph (b)(3) of this section, you may use as a cost an amount equal to the allowable initial capital investment in the transportation system multiplied by the rate of return determined under paragraph (i)(3) of this section. You may not include depreciation in your allowance.
+
+(3) The rate of return is the industrial rate associated with Standard & Poor's BBB rating.
+
+(i) You must use the monthly average BBB rate that Standard & Poor's publishes for the first month for which the allowance is applicable.
+
+(ii) You must re-determine the rate at the beginning of each subsequent calendar year.

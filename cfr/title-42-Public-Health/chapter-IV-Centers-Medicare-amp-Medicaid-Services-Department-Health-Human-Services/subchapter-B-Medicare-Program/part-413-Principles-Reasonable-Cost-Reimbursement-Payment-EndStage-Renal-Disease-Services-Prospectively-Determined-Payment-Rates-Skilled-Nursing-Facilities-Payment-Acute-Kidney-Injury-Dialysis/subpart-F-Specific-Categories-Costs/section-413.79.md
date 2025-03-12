@@ -1,7 +1,5 @@
 ##### § 413.79 Direct GME payments: Determination of the weighted number of FTE residents. #####
 
-Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
-
 Subject to the provisions in § 413.80, CMS determines a hospital's number of FTE residents by applying a weighting factor to each resident and then summing the resulting numbers that represent each resident. The weighting factor is determined as follows:
 
 (a) *Initial residency period.* Generally, for purposes of this section, effective July 1, 1995, an initial residency period is defined as the minimum number of years required for board eligibility.
@@ -225,6 +223,18 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 (i) *Closure of a hospital* means the hospital terminates its Medicare agreement under the provisions of § 489.52 of this chapter.
 
 (ii) *Closure of a hospital residency training program* means the hospital ceases to offer training for residents in a particular approved medical residency training program.
+
+(iii) *Displaced resident* means a resident who -
+
+(A) Leaves a program after the hospital or program closure is publicly announced, but before the actual hospital or program closure;
+
+(B) Is assigned to and training at planned rotations at another hospital who will be unable to return to his/her rotation at the closing hospital or program;
+
+(C) Is accepted into a GME program at the closing hospital or program but has not yet started training at the closing hospital or program;
+
+(D) Is physically training in the hospital on the day prior to or day of program or hospital closure; or
+
+(E) Is on approved leave at the time of the announcement of closure or actual closure, and therefore, cannot return to his/her rotation at the closing hospital or program.
 
 (2) *Closure of a hospital.* A hospital may receive a temporary adjustment to its FTE cap to reflect residents added because of another hospital's closure if the hospital meets the following criteria:
 

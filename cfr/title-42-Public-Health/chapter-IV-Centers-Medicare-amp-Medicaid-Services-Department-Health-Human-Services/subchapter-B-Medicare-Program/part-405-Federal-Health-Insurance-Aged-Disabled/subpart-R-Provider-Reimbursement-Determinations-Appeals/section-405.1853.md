@@ -1,8 +1,6 @@
 ##### § 405.1853 Board proceedings prior to any hearing; discovery. #####
 
-Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
-
-(a) *Preliminary narrowing of the issues.* Upon receiving notification that a request for a Board hearing is submitted, the contractor must -
+(a) *Preliminary narrowing of the issues.* Upon receiving notification that a request for a Board hearing is submitted, the contractor must—
 
 (1) Promptly review both the materials submitted with the provider hearing request, and the information underlying each contractor or Secretary determination for each cost reporting period under appeal.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (xi) Other matters that the Board deems necessary and appropriate. The Board may issue any orders at the conference found necessary and appropriate to narrow the issues further and expedite further proceedings in the appeal.
 
-(3) After the status conference, the Board may -
+(3) After the status conference, the Board may—
 
 (i) Issue in writing a report and order specifying what transpired and formalizing any orders issued at the conference; and
 
@@ -50,7 +48,7 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (d) *Further status conferences.* Upon a party's request, or on its own motion, the Board may conduct further status conferences where it finds the proceedings necessary and appropriate.
 
-(e) *Discovery* - (1) *General rules.* (i) Discovery is limited in Board proceedings.
+(e) *Discovery*—(1) *General rules.* (i) Discovery is limited in Board proceedings.
 
 (ii) The Board may permit discovery of a matter that is relevant to the specific subject matter of the Board hearing, provided the matter is not privileged or otherwise protected from disclosure and the discovery request is not unreasonable, unduly burdensome or expensive, or otherwise inappropriate.
 
@@ -98,9 +96,9 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (v) The Board must decide any motion in accordance with this section and any prior discovery ruling.
 
-(vi)(A) The Board must issue and mail to each party and any affected nonparty a discovery ruling that grants or denies, in whole or in part, the motion to compel or the motion for a protective order, if applicable.
+(vi)(A) The Board must issue and send to each party and any affected nonparty a discovery ruling that grants or denies, in whole or in part, the motion to compel or the motion for a protective order, if applicable.
 
-(B) The discovery ruling must -
+(B) The discovery ruling must—
 
 (*1*) Specifically identify any part of the disputed discovery request upheld and any part rejected, and
 
@@ -108,18 +106,18 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (vii) Nothing in this section authorizes the Board to compel any action from the Secretary or CMS.
 
-(6) *Reviewability of discovery and disclosure rulings* - (i) *General rule.* A Board discovery ruling, or a Board disclosure ruling, such as one issued at a hearing, is not subject to immediate review by the Administrator (as described in § 405.1875(a)(3) of this subpart). The ruling may be reviewed solely during the course of Administrator review of one of the Board decisions specified as final or deemed to be final, by the Administrator, under § 405.1875(a)(2)of this subpart, or of judicial review of a final agency decision as described in § 405.1877(a) and (c)(3) of this subpart, as applicable.
+(6) *Reviewability of discovery and disclosure rulings*—(i) *General rule.* A Board discovery ruling, or a Board disclosure ruling, such as one issued at a hearing, is not subject to immediate review by the Administrator (as described in § 405.1875(a)(3) of this subpart). The ruling may be reviewed solely during the course of Administrator review of one of the Board decisions specified as final or deemed to be final, by the Administrator, under § 405.1875(a)(2)of this subpart, or of judicial review of a final agency decision as described in § 405.1877(a) and (c)(3) of this subpart, as applicable.
 
-(ii) *Exception.* To the extent a ruling authorizes discovery or disclosure of a matter for which an objection based on privilege, or other protection from disclosure such as case preparation, confidentiality, or undue burden, was made before the Board, that portion of the discovery or disclosure ruling may be reviewed immediately by the Administrator in accordance with § 405.1875(a)(3)(i) of this subpart. Upon notice to the Board that a party or nonparty, as applicable, intends to seek Administrator review of the ruling, -
+(ii) *Exception.* To the extent a ruling authorizes discovery or disclosure of a matter for which an objection based on privilege, or other protection from disclosure such as case preparation, confidentiality, or undue burden, was made before the Board, that portion of the discovery or disclosure ruling may be reviewed immediately by the Administrator in accordance with § 405.1875(a)(3)(i) of this subpart. Upon notice to the Board that a party or nonparty, as applicable, intends to seek Administrator review of the ruling,—
 
 (A)(*1*) The Board must stay all proceedings affected by the ruling.
 
 (*2*) The Board determines the length of the stay under the circumstances of a given case, but in no event may the length of the stay be less than 15 days after the day on which the Board received notice of the party or nonparty's intent to seek Administrator review.
 
-(B) If the Administrator -
+(B) If the Administrator—
 
 (*1*) Grants a request for review, or takes own motion review, of a ruling, the ruling is stayed until the time the Administrator issues a written decision that affirms, reverses, modifies, or remands the Board's ruling.
 
 (*2*) Does not grant a request or take own motion review within the time allotted for the stay, the stay is lifted and the ruling is not subject to immediate review.
 
-[73 FR 30257, May 23, 2008; 73 FR 49356, Aug. 21, 2008]
+[73 FR 30257, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 85 FR 59019, Sept. 18, 2020]

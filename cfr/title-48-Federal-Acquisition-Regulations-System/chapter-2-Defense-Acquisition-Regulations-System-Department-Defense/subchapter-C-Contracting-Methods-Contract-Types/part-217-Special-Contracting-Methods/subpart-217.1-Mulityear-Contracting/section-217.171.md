@@ -1,7 +1,5 @@
 ##### 217.171 Multiyear contracts for services. #####
 
-Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
-
 (a) The head of the agency may enter into a multiyear contract for a period of not more than 5 years for the following types of services (and items of supply relating to such services), even though funds are limited by statute to obligation only during the fiscal year for which they were appropriated (10 U.S.C. 2306c(a)) . Covered services are -
 
 (1) Operation, maintenance, and support of facilities and installations;
@@ -40,6 +38,6 @@ Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
 
 (3) Using a multiyear contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operations (10 U.S.C. 2306c(a)).
 
-(d) The head of an agency may not initiate a multiyear contract for services if the value of the multiyear contract exceeds $678.5 million unless a law specifically provides authority for the contract (10 U.S.C. 2306c(d)(2))().
+(d) The head of an agency may not initiate a multiyear contract for services if the value of the multiyear contract exceeds $750 million unless a law specifically provides authority for the contract (10 U.S.C. 2306c(d)(2))().
 
-[66 FR 63337, Dec. 6, 2001, as amended at 68 FR 43333, July 22, 2003; 70 FR 24324, May 9, 2005; 71 FR 75892, Dec. 19, 2006; 75 FR 45073, Aug. 2, 2010; 76 FR 58153, Sept. 20, 2011; 76 FR 76319, Dec. 7, 2011; 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015]
+[66 FR 63337, Dec. 6, 2001, as amended at 68 FR 43333, July 22, 2003; 70 FR 24324, May 9, 2005; 71 FR 75892, Dec. 19, 2006; 75 FR 45073, Aug. 2, 2010; 76 FR 58153, Sept. 20, 2011; 76 FR 76319, Dec. 7, 2011; 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 85 FR 61504, Sept. 29, 2020]

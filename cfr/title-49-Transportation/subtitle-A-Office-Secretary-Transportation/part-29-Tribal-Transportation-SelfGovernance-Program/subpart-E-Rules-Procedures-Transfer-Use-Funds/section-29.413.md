@@ -1,0 +1,3 @@
+##### § 29.413 How will the Department assist a Tribe with its credit requests? #####
+
+At the request of a Tribe that has applied for a loan or other credit assistance from a State infrastructure bank or other financial institution to complete an eligible transportation-related project with funds included in a funding agreement, the Department will provide documentation in its possession or control to assist the Tribe.

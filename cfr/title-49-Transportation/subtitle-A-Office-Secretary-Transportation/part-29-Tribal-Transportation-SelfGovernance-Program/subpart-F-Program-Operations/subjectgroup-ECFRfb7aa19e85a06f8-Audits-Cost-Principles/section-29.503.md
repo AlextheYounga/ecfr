@@ -1,0 +1,9 @@
+##### § 29.503 How may the Federal Government make a claim against a Tribe relating to any disallowance of costs based on an audit conducted under this part? #####
+
+(a) *Disallowance of costs.* Any claim by the Federal Government against a Tribe relating to funds included in a funding agreement based on any audit conducted pursuant to this part is subject to 25 U.S.C. 5325(f).
+
+(1) Any right of action or other remedy (other than those relating to a criminal offense) relating to any disallowance of costs is barred unless the Department provides notice of such a disallowance within 365 days from receiving any required annual audit report. The notice must set forth the Tribe's appeal and hearing rights in accordance with §§ 29.912 through 29.923.
+
+(2) To calculate the 365-day period, an audit report is deemed received by the Department on the date of electronic submission to the Federal Audit Clearinghouse. The Department has 60 days after receiving the audit report to give notice to the Tribe of its determination to reject an audit report as insufficient due to non-compliance with the applicable provisions of 2 CFR part 200 or any applicable statute.
+
+(b) *Criminal penalties.* Any person, officer, director, agent, employee, or person otherwise connected with a recipient of a contract, subcontract, grant, or sub-grant under a compact or funding agreement who embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds, assets, or property provided to the recipient will be fined not more than $10,000 or imprisoned for not more than 2 years, or both. If the amount of funds in question does not exceed $100, then the fine will be no more than $1,000 and imprisonment not more than 1 year, or both.

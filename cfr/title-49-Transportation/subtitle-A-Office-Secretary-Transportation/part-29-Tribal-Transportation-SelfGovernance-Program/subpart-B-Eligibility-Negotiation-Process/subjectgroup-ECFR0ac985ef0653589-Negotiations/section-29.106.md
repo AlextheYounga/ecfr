@@ -1,0 +1,7 @@
+##### § 29.106 What are best practices to pursue negotiations? #####
+
+(a) The Department and the Tribe should collaborate and provide a clear explanation of their positions and interests. Each party should provide timely and specific responses to proposals presented during negotiations in order to conclude negotiations as soon as possible within the period provided in § 29.105.
+
+(b) In negotiating the applicable construction, design, monitoring, or health and safety requirements that apply to the PSFAs the Tribe carries out using funds included in a funding agreement, along with the other terms set forth in § 29.307, the Department and the Tribe should cooperate and the Department will prioritize the reduction of administrative requirements on the Tribe when negotiating the terms of the compact, funding agreement, or amendment to effectuate Tribal self-governance.
+
+(c) The Department and the Tribe should conduct the negotiations in order to reach agreement on as many items as possible, and to refine unresolved issues in order to avoid disputed terms. The negotiations should conclude with mutually agreed upon terms and conditions. If any unresolved issues remain, the Tribe may submit a final offer to the Department under subpart C of this part.

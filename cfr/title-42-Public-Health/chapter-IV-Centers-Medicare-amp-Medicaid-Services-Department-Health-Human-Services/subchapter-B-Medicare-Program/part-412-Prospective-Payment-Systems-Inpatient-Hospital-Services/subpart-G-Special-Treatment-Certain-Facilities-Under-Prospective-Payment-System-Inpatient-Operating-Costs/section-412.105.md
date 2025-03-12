@@ -1,7 +1,5 @@
 ##### § 412.105 Special treatment: Hospitals that incur indirect costs for graduate medical education programs. #####
 
-Link to an amendment published at 85 FR 59021, Sept. 18, 2020.
-
 CMS makes an additional payment to hospitals for indirect medical education costs using the following procedures:
 
 (a) *Basic data.* CMS determines the following for each hospital:
@@ -152,7 +150,7 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (viii) A hospital that began construction of its facility prior to August 5, 1997, and sponsored new medical residency training programs on or after January 1, 1995 and on or before August 5, 1997, that either received initial accreditation by the appropriate accrediting body or temporarily trained residents at another hospital(s) until the facility was completed, may receive an adjustment to its full-time equivalent cap in accordance with the provisions of § 413.79(g) of this subchapter.
 
-(ix)(A) A hospital may receive a temporary adjustment to its FTE resident cap to reflect residents added because of another hospital's closure if the hospital meets the criteria specified in §§ 413.79(h)(1) and (h)(2) of this subchapter. If a hospital that closes its residency training program agrees to temporarily reduce its FTE resident cap according to the criteria specified in §§ 413.79(h)(1) and (h)(3)(ii) of this subchapter, another hospital(s) may receive a temporary adjustment to its FTE resident cap to reflect residents added because of the closure of the residency training program if the criteria specified in §§ 413.79(h)(1) and (h)(3)(i) of this subchapter are met.
+(ix)(A) A hospital may receive a temporary adjustment to its FTE resident cap to reflect displaced residents added because of another hospital's closure if the hospital meets the criteria specified in § 413.79(h)(1) and (2) of this subchapter. If a hospital that closes its residency training program agrees to temporarily reduce its FTE resident cap according to the criteria specified in § 413.79(h)(1) and (h)(3)(ii)of this subchapter, another hospital(s) may receive a temporary adjustment to its FTE resident cap to reflect displaced residents added because of the closure of the residency training program if the criteria specified in § 413.79(h)(1) and (h)(3)(i) of this subchapter are met.
 
 (B) A hospital may receive a permanent adjustment to its FTE resident cap as a result of slots that were redistributed from a closed hospital, as defined at § 413.79(h)(1)(i) of this subchapter, if the hospital meets the requirements at § 413.79(o) of this subchapter.
 

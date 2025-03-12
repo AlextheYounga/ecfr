@@ -1,0 +1,5 @@
+##### § 29.528 Is the Federal Tort Claims Act applicable to a Tribe when carrying out a compact and funding agreement? #####
+
+(a) Section 314 of Public Law 101-512 and 25 U.S.C. 5396(a) incorporated by 23 U.S.C. 207(*l*)(8) make the Federal Tort Claims Act (FTCA), 28 U.S.C. 1346(b), 2401, 2671-2680, applicable to a Tribe carrying out a compact and funding agreement.
+
+(b) Contractors, subcontractors, or sub-recipients of a Tribe are not subject to the terms and conditions of the FTCA. The Tribe may use the regulations set forth in 25 CFR part 900, subpart M, as guidance on the Tribe's rights and responsibilities under the FTCA. Accordingly, the Tribe must include, in any contract entered into with funds provided under a compact and funding agreement, a requirement that contractors, sub-contractors, or sub-recipients maintain applicable insurance coverage, such as workers compensation, auto, and general liability insurance, consistent with statutory minimums and local industry standards.

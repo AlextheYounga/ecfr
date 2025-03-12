@@ -18,33 +18,33 @@
 
 (e) Allowable operating expenses include the following:
 
-(1) Operations supervision and engineering.
+(1) Operations supervision and engineering
 
-(2) Operations labor.
+(2) Operations labor
 
-(3) Fuel.
+(3) Fuel
 
-(4) Utilities.
+(4) Utilities
 
-(5) Materials.
+(5) Materials
 
-(6) Ad valorem property taxes.
+(6) Ad valorem property taxes
 
-(7) Rent.
+(7) Rent
 
-(8) Supplies.
+(8) Supplies
 
-(9) Any other directly allocable and attributable operating expense that you can document.
+(9) Any other directly allocable and attributable operating expense that you can document
 
 (f) Allowable maintenance expenses may include the following:
 
-(1) Maintenance of the processing plant.
+(1) Maintenance of the processing plant
 
-(2) Maintenance of equipment.
+(2) Maintenance of equipment
 
-(3) Maintenance labor.
+(3) Maintenance labor
 
-(4) Other directly allocable and attributable maintenance expenses that you can document.
+(4) Other directly allocable and attributable maintenance expenses that you can document
 
 (g) Overhead, directly attributable and allocable to the operation and maintenance of the processing plant, is an allowable expense. State and Federal income taxes and severance taxes and other fees, including royalties, are not allowable expenses.
 

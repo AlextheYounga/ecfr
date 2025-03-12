@@ -1,7 +1,5 @@
 ##### § 417.536 Cost payment principles. #####
 
-Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
-
 (a) *Applicability.* Unless otherwise specified in this subpart, the principles set forth in parts 412 and 413 of this chapter are applicable to the costs incurred by an HMO or CMP or by providers and other facilities owned or operated by the HMO or CMP or related to it by common ownership or control. The most common examples of these costs are set forth in this section.
 
 (b) *Depreciation.* An appropriate allowance for depreciation on buildings and equipment is an allowable cost, in accordance with §§ 413.134, 413.144, and 413.149 of this chapter.
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
 
 (3) Any bad debt related to a service furnished to a Medicare enrollee of the HMO or CMP, and claimed on a cost report submitted for payment by a provider or other facility reimbursed on a cost basis, may not be claimed as a bad debt by the HMO or CMP.
 
-(g) *Charity and courtesy allowances.* As specified in § 413.80 of this chapter, charity and courtesy allowances are deductions from revenue and may not be included as allowable costs.
+(g) *Charity and courtesy allowances.* As specified in § 413.89 of this chapter, charity and courtesy allowances are deductions from revenue and may not be included as allowable costs.
 
 (h) *Research costs.* As specified in § 413.90 of this chapter, costs incurred for research purposes, over and above patient care, are not allowable costs.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
 
 (k) *Cost to related entities.* (1) The costs of services, facilities, or supplies furnished to an HMO or CMP by a related entity are allowable at the cost to the related entity in accordance with § 413.17 of this chapter.
 
-(2) An entity is not considered related to the HMO or CMP merely because -
+(2) An entity is not considered related to the HMO or CMP merely because—
 
 (i) It has a risk or incentive agreement under which the HMO or CMP reimburses or compensates the entity for services it furnishes to the HMOs' or CMPs' enrollees; or
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 59025, Sept. 18, 2020.
 
 (5) The limitation to the lesser of reasonable cost or customary charges, as set forth in § 413.13 of this chapter.
 
-[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 51 FR 34832, Sept. 30, 1986; 51 FR 37398, Oct. 22, 1986; 58 FR 38080, July 15, 1993; 60 FR 46230, Sept. 6, 1995; 77 FR 67531, Nov. 9, 2012]
+[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 51 FR 34832, Sept. 30, 1986; 51 FR 37398, Oct. 22, 1986; 58 FR 38080, July 15, 1993; 60 FR 46230, Sept. 6, 1995; 77 FR 67531, Nov. 9, 2012; 85 FR 59025, Sept. 18, 2020]

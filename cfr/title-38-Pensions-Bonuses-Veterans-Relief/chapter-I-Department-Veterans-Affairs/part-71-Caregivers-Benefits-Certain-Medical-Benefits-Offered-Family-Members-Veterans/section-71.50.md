@@ -1,7 +1,5 @@
 ##### § 71.50 Provision of certain counseling, training, and mental health services to certain family members of veterans. #####
 
-Link to an amendment published at 85 FR 46300, July 31, 2020.
-
 (a) *Benefits provided under this section.* VA will provide consultation, professional counseling, marriage and family counseling, training, and mental health services to a family member when necessary in connection with the treatment of a disability for which the veteran is receiving treatment through VA. For the purposes of this section, provision of a benefit is “in connection with the treatment” of a veteran's disability if, in the clinical judgment of a VA medical professional who is providing treatment to the veteran, the provision of the benefit to the family member would further the objectives of the veteran's medical treatment plan. The listed benefits provided under this section are to be provided within the following guidelines:
 
 (1) All benefits will consist of psychotherapy, counseling, training, or education; VA will not provide prescriptions or medications to family members. VA also will not provide inpatient services under this section.
@@ -22,4 +20,4 @@ Link to an amendment published at 85 FR 46300, July 31, 2020.
 
 (c) *Family members or caregivers who need treatment not related to the treatment of the veteran.* Where a VA clinician believes that medical care or services are needed for a family member but cannot provide benefits under this section because such need is not necessary in connection with the treatment of the veteran, VA may refer such family member to an appropriate provider in the community, so that the family member may obtain care through other health coverage including care to which a Primary or Secondary Family Caregiver may be eligible under this part.
 
-(Authority: 38 U.S.C. 1720G, 1782)
+[76 FR 26172, May 5, 2011, as amended at 85 FR 46300, July 31, 2020]

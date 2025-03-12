@@ -1,9 +1,7 @@
-##### § 1309.11 Fee amounts. #####
+##### § 1309.11 Fee Amounts. #####
 
-Link to an amendment published at 85 FR 44734, July 24, 2020.
+(a) For each application for registration or reregistration to manufacture for distribution the applicant shall pay an annual fee of $3,699.
 
-(a) For each application for registration or reregistration to manufacture the applicant shall pay an annual fee of $3,047.
+(b) For each application for registration or reregistration to distribute (either retail distribution or non-retail distribution), import, or export a list I chemical, the applicant shall pay an annual fee of $1,850.
 
-(b) For each application for registration or reregistration to distribute, import, or export a List I chemical, the applicant shall pay an annual fee of $1,523.
-
-[77 FR 15250, Mar. 15, 2012]
+[85 FR 44734, July 24, 2020]

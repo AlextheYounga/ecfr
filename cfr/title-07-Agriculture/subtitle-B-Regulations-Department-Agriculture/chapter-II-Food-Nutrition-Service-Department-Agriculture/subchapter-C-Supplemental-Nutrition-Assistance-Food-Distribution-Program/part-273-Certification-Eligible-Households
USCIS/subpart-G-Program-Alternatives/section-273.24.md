@@ -1,7 +1,5 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-Link to an amendment published at 84 FR 66811, Dec. 5, 2019.
-
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
 (1) *Fulfilling the work requirement* means:
@@ -172,16 +170,16 @@ Link to an amendment published at 84 FR 66811, Dec. 5, 2019.
 
 (h) *Adjustments.* FNS will make adjustments as follows:
 
-(1) *Caseload adjustments.* FNS will adjust the number of exemptions estimated for a State agency under paragraph (g)(2) of this section during a fiscal year if the number of SNAP recipients in the State varies from the State's caseload by more than 10 percent, as estimated by FNS.
+(1) *Caseload adjustments.* FNS will adjust the number of exemptions estimated for a State agency under paragraph (g)(3) of this section during a fiscal year if the number of SNAP participants in the State varies from the State's caseload by more than 10 percent, as estimated by FNS.
 
-(2) *Exemption adjustments.* During each fiscal year, FNS will adjust the number of exemptions allocated to a State agency based on the number of exemptions in effect in the State for the preceding fiscal year.
+(2) *Exemption adjustments.* During each fiscal year, FNS will adjust the number of exemptions available to a State agency based on the number of exemptions in effect in the State for the preceding fiscal year. In doing so, FNS will determine the State's exemption balance for the fiscal year (the total number of exemptions available to the State for the fiscal year).
 
-(i) If the State agency does not use all of its exemptions by the end of the fiscal year, FNS will increase the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the remaining balance.
+(i) If the State agency did not use all of its exemption balance for the preceding fiscal year, FNS will add to the State agency's exemption balance a portion of the unused exemptions not to exceed 12 percent of the covered individuals in the State estimated by FNS for the preceding fiscal year.
 
-(ii) If the State agency exceeds its exemptions by the end of the fiscal year, FNS will reduce the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the corresponding number.
+(ii) If the State agency used more than its exemption balance for the preceding fiscal year, FNS will decrease the State agency's exemption balance by the corresponding number. If this decrease results in a negative exemption balance, the State agency must offset the negative balance using the new exemptions estimated by FNS for the subsequent fiscal year. If the negative exemption balance is not fully offset, FNS will hold the State liable for the remaining negative balance.
 
 (i) *Reporting requirement.* The State agency will track the number of exemptions used each month and report this number to the regional office on a quarterly basis as an addendum to the quarterly Employment and Training Report (Form FNS-583) required by § 273.7(c)(8).
 
 (j) *Other Program rules.* Nothing in this section will make an individual eligible for SNAP benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food and Nutrition Act of 2008.
 
-[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019]
+[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020]

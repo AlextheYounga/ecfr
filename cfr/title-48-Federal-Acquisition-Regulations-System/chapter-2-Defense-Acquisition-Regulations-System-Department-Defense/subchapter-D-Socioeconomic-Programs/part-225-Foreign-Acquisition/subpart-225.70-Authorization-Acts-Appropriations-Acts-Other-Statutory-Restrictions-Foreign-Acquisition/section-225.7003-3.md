@@ -1,7 +1,5 @@
 ##### 225.7003-3 Exceptions. #####
 
-Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
-
 (a) Acquisitions in the following categories are not subject to the restrictions in 225.7003-2:
 
 (1) Acquisitions at or below the simplified acquisition threshold.
@@ -42,13 +40,7 @@ Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
 
 (5) Specialty metal in any of the items listed in 225.7003-2 if the USD(A&S), or an official authorized in accordance with paragraph (b)(5)(i) of this section, determines that specialty metal melted or produced in the United States cannot be acquired as and when needed at a fair and reasonable price in a satisfactory quality, a sufficient quantity, and the required form (*i.e.,* a domestic nonavailability determination). In accordance with 10 U.S.C. 2533b(m)(4), the term “required form” in this section refers to the form of the mill product, such as bar, billet, wire, slab, plate, or sheet, in the grade appropriate for the production of a finished end item to be delivered to the Government under this contract; or a finished component assembled into an end item to be delivered to the Government under the contract. See guidance in PGI 225.7003-3(b)(5).
 
-(i) The Secretary of the military department concerned is authorized, without power of redelegation, to make a domestic nonavailability determination that applies to only one contract.
-
-The supporting documentation for the determination shall include -
-
-(A) An analysis of alternatives that would not require a domestic nonavailability determination; and
-
-(B) Written documentation by the requiring activity, with specificity, why such alternatives are unacceptable.
+(i) The Secretary of the military department concerned is authorized, without power of redelegation, to make a domestic nonavailability determination that applies to only one contract. The supporting documentation for the determination shall include an analysis and written documentation by the requiring activity, with specificity, why alternatives that would not require a domestic nonavailability determination are unacceptable.
 
 (ii) A domestic nonavailability determination that applies to more than one contract (*i.e.,* a class domestic nonavailability determination), requires the approval of the USD(A&S).
 
@@ -92,4 +84,4 @@ The supporting documentation for the determination shall include -
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]

@@ -1,10 +1,8 @@
 ##### § 412.278 Administrator's review. #####
 
-Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
-
 (a) *Hospitals requests for review.* A hospital or group of hospitals dissatisfied with the MGCRB's decision regarding its geographic designation may request the Administrator to review the MGCRB decision. (A hospital or group of hospitals may also request that the Administrator review the MGCRB's dismissal of an application as untimely filed or incomplete, as provided in § 412.256(d).)
 
-(b) *Procedures for hospital's request for review.* (1) The hospital's request for review must be in writing and sent to the Administrator, in care of the Office of the Attorney Advisor. The request must be received by the Administrator within 15 days after the date the MGCRB issues its decision. A request for Administrator review filed by facsimile (FAX) or other electronic means will not be accepted. The hospital must also mail a copy of its request for review to CMS's Hospital and Ambulatory Policy Group.
+(b) *Procedures for hospital's request for review.*(1) The hospital's request for review must be in writing and sent to the Administrator, in care of the Office of the Attorney Advisor. The request must be received by the Administrator within 15 days after the date the MGCRB issues its decision. The hospital must also submit an electronic copy of its request for review to CMS's Hospital and Ambulatory Policy Group.
 
 (2) The request for review may contain proposed findings of fact and conclusions of law, exceptions to the MGCRB's decision, and supporting reasons therefor.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
 
 (2) *Discretionary review by the Administrator.* Within 15 days following the issuance of the Administrator's decision, the Administrator, at his or her discretion, may amend the decision to correct mathematical or computational errors, or to correct the decision if the evidence that was considered in making the decision clearly shows on its face that an error was made. The Administrator's amended decision is final and is not subject to judicial review.
 
-[55 FR 36766, Sept. 6, 1990, as amended at 56 FR 25489, June 4, 1991; 57 FR 39826, Sept. 1, 1992; 68 FR 45471, Aug. 1, 2003; 70 FR 47487, Aug. 12, 2005]
+[55 FR 36766, Sept. 6, 1990, as amended at 56 FR 25489, June 4, 1991; 57 FR 39826, Sept. 1, 1992; 68 FR 45471, Aug. 1, 2003; 70 FR 47487, Aug. 12, 2005; 85 FR 59023, Sept. 18, 2020]

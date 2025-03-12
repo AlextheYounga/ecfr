@@ -1,0 +1,3 @@
+##### § 29.7 What is the effect of this Program on existing Tribal Transportation Program agreements? #####
+
+This Program does not terminate existing authority for a Tribe to enter into agreements with the Federal Highway Administration, or contracts or agreements with the Department of the Interior, for the Tribal Transportation Program. A Tribe may maintain its current contracts or agreements, or include Tribal Transportation Program funds in a funding agreement under this Program. A Tribe may only have one agreement at a time for the same funds.

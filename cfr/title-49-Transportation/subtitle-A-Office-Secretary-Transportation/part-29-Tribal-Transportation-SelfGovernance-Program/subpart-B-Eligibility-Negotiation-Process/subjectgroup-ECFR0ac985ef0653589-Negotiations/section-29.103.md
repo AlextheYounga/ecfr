@@ -1,0 +1,3 @@
+##### § 29.103 How will the Department respond to a Tribe's written request? #####
+
+Within 15 days of receipt of a Tribe's written request, the Department will notify the Tribe in writing of the identity of the designated representative(s) of the Department who will conduct the negotiation and, to the extent feasible, will provide to the Tribe the information requested by the Tribe consistent with § 29.102(d).

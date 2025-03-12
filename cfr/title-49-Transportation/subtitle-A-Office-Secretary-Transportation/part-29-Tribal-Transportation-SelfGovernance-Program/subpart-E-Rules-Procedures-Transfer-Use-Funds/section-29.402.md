@@ -1,0 +1,3 @@
+##### § 29.402 Is the Tribe responsible for the funds included in a funding agreement? #####
+
+The Tribe is responsible for implementing the Tribe's PSFAs using the funds included in a funding agreement and for administering the funds in accordance with this part. In addition, the Tribe must carry out its PSFAs in accordance with the funding agreement, and all applicable statutes and regulations identified in the funding agreement.

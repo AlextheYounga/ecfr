@@ -1,7 +1,5 @@
 ##### § 495.104 Incentive payments to eligible hospitals. #####
 
-Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
-
 (a) *General rule.* A qualifying hospital (as defined in this subpart) must receive the special incentive payment as determined under the formulas described in paragraph (c) of this section for the period specified in paragraph (b) of this section.
 
 (b) *Transition periods.* Subject to paragraph (d) of this section and the payment formula specified in paragraph (c) of this section, qualifying hospitals may receive incentive payments during transition periods which comprise the following fiscal years:
@@ -44,19 +42,19 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (iii) For each hospital with more than 23,000 acute care inpatient discharges, $6,370,200.
 
-(4) *Medicare share fraction* - (i) *General.* (A) CMS determines the Medicare share fraction for an eligible hospital by using the number of Medicare Part A, Medicare Part C, and total acute care inpatient-bed-days using data from the Medicare cost report as specified by CMS.
+(4) *Medicare share fraction*—(i) *General.* (A) CMS determines the Medicare share fraction for an eligible hospital by using the number of Medicare Part A, Medicare Part C, and total acute care inpatient-bed-days using data from the Medicare cost report as specified by CMS.
 
 (B) CMS computes the denominator of the Medicare share fraction using the charity care charges reported on the hospital's Medicare cost report.
 
-(ii) The Medicare share fraction is the ratio of -
+(ii) The Medicare share fraction is the ratio of—
 
-(A) A numerator which is the sum of -
+(A) A numerator which is the sum of—
 
 (*1*) The number of inpatient-bed-days which are attributable to individuals with respect to whom payment may be made under Part A, including individuals enrolled in section 1876 Medicare cost plans; and
 
 (*2*) The number of inpatient-bed-days which are attributable to individuals who are enrolled with a Medicare Advantage organization (as defined in § 422.2 of this chapter).
 
-(B) A denominator which is the product of -
+(B) A denominator which is the product of—
 
 (*1*) The total number of acute care inpatient-bed-days; and
 
@@ -64,7 +62,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (5) *Transition factor.* For purposes of the payment formula, the transition factor is as follows:
 
-(i) For hospitals whose first payment year is FY 2011 -
+(i) For hospitals whose first payment year is FY 2011—
 
 (A) 1 for FY 2011;
 
@@ -74,7 +72,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (D)1/4 for FY 2014.
 
-(ii) For hospitals whose first payment year is FY 2012 -
+(ii) For hospitals whose first payment year is FY 2012—
 
 (A) 1 for FY 2012;
 
@@ -84,7 +82,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (D)1/4 for FY 2015;
 
-(iii) For hospitals whose first payment year is FY 2013 -
+(iii) For hospitals whose first payment year is FY 2013—
 
 (A) 1 for FY 2013;
 
@@ -94,7 +92,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (D)1/4 for FY 2016.
 
-(iv) For hospitals whose first payment year is FY 2014 -
+(iv) For hospitals whose first payment year is FY 2014—
 
 (A)3/4 for FY 2014;
 
@@ -102,13 +100,13 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (C)1/4 for FY 2016.
 
-(v) For hospitals whose first payment year is FY 2015 -
+(v) For hospitals whose first payment year is FY 2015—
 
 (A)1/2 for FY 2015; and
 
 (B)1/4 for FY 2016.
 
-(vi) For Puerto Rico eligible hospitals whose first payment year is FY 2016 -
+(vi) For Puerto Rico eligible hospitals whose first payment year is FY 2016—
 
 (A) 1 for FY 2016;
 
@@ -118,7 +116,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (D)1/4 for FY 2019.
 
-(vii) For Puerto Rico eligible hospitals whose first payment year is FY 2017 -
+(vii) For Puerto Rico eligible hospitals whose first payment year is FY 2017—
 
 (A) 1 for FY 2017;
 
@@ -128,17 +126,17 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (D)1/4 for FY 2020;
 
-(viii) For Puerto Rico eligible hospitals whose first payment year is FY 2018 -
+(viii) For Puerto Rico eligible hospitals whose first payment year is FY 2018—
 
 (A) 1 for FY 2018;
 
-(B)3/4 for FY 2018;
+(B)3/4 for FY 2019;
 
-(C)1/2 for FY 2019; and
+(C)1/2 for FY 2020; and
 
-(D)1/4 for FY 2020.
+(D)1/4 for FY 2021.
 
-(ix) For Puerto Rico eligible hospitals whose first payment year is FY 2019 -
+(ix) For Puerto Rico eligible hospitals whose first payment year is FY 2019—
 
 (A)3/4 for FY 2019;
 
@@ -146,7 +144,7 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (C)1/4 for FY 2021.
 
-(x) For Puerto Rico eligible hospitals whose first payment year is FY 2020 -
+(x) For Puerto Rico eligible hospitals whose first payment year is FY 2020—
 
 (A)1/2 for FY 2020; and
 
@@ -154,4 +152,4 @@ Link to an amendment published at 85 FR 59027, Sept. 18, 2020.
 
 (d) No incentive payment for nonqualifying hospitals. After the first payment year, an eligible hospital will not receive an incentive payment for any payment year during which it is not a qualifying hospital.
 
-[75 FR 44565, July 28, 2010, as amended at 78 FR 75200, Dec. 10, 2013; 83 FR 41710, Aug. 17, 2018]
+[75 FR 44565, July 28, 2010, as amended at 78 FR 75200, Dec. 10, 2013; 83 FR 41710, Aug. 17, 2018; 85 FR 59027, Sept. 18, 2020]

@@ -1,0 +1,3 @@
+##### § 29.906 Must a Tribe exhaust its administrative remedies before initiating a civil action against the Department in the U.S. District Courts for a pre-award decision? #####
+
+A Tribe must exhaust its administrative remedies before initiating a civil action against the Department in the U.S. District Courts, except a Tribe may appeal the rejection of a final offer directly to the U.S. District Courts in lieu of an administrative appeal.

@@ -1,0 +1,3 @@
+##### § 5001.201 General origination requirements. #####
+
+The lender is responsible for originating a guaranteed loan in accordance with the requirements of this part and in accordance with its internal origination policies and procedures to the extent they do not conflict with the requirements of this part. For each application, the lender must prepare a credit evaluation that is consistent with Agency standards found in this part. The Agency reserves the right to review the lender's credit evaluation and request additional information. Lender approval does not constitute Agency approval.

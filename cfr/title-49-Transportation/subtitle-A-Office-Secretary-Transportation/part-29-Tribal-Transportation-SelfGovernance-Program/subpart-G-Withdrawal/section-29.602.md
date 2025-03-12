@@ -1,0 +1,3 @@
+##### § 29.602 How are funds redistributed when a Tribe fully or partially withdraws from a compact and funding agreement administered by a consortium serving more than one Tribe and elects to enter into a compact and funding agreement with the Department? #####
+
+A withdrawing Tribe that is eligible for the Program under 23 U.S.C. 207(b) and § 29.100 may negotiate and enter into a compact and funding agreement for its share of funds supporting those PSFAs that the Tribe will carry out. The share of funds is calculated on the same basis as the funds were initially allocated in the funding agreement of the consortium, unless otherwise agreed to by the consortium and the Tribe.

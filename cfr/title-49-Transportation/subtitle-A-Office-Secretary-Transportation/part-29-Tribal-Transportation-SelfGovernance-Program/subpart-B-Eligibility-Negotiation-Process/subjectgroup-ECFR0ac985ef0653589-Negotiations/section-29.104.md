@@ -1,0 +1,3 @@
+##### § 29.104 Must the Department and a Tribe follow a specific process when negotiating compacts, funding agreements, and amendments? #####
+
+The Department and a Tribe do not have to follow a specific process when negotiating compacts, funding agreements, and amendments. The Department and the Tribe should cooperate to develop a plan to address each issue subject to negotiation and provide the representatives an opportunity to address the Tribal proposals, legal or program issues of concern, the time needed to complete the negotiations, and the development of a term sheet.

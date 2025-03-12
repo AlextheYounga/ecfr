@@ -1,0 +1,3 @@
+##### § 29.403 When must the Department transfer to a Tribe the funds identified in a funding agreement? #####
+
+When a funding agreement requires an annual transfer of funds to be made by the Department at the beginning of a fiscal year, or requires semiannual or other periodic transfers of funds to be made to a Tribe, the Department will make the first transfer no later than 10 days after the apportionment of such funds by the Office of Management and Budget to the Department, unless the funding agreement provides otherwise. Consistent with the Prompt Payment Act, the Department is not responsible for any interest penalty if the Department makes the transfer within 30 days.

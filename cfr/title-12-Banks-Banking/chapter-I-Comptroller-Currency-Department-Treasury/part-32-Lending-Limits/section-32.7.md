@@ -6,6 +6,10 @@
 
 (3) In addition to the amount that a national bank or savings association may lend to one borrower under § 32.3, an eligible national bank or eligible savings association may make loans or extensions of credit to small farms to one borrower in the lesser of the following two amounts: 10 percent of its capital and surplus; or the percent of its capital and surplus, in excess of 15 percent, that a State bank or savings association is permitted to lend under the State lending limit that is available for loans or extensions of credit to small farms or unsecured loans in the State where the main office of the national bank or savings association is located.
 
+(4) The total outstanding amount of a national bank's or savings association's loans and extensions of credit to one borrower made under § 32.3(a) and (b), together with loans and extensions of credit to the borrower made pursuant to paragraphs (a)(1), (2), and (3) of this section, shall not exceed 25 percent of the bank's or savings association's capital and surplus.
+
+(5) The total outstanding amount of a national bank's or savings association's loans and extensions of credit to all of its borrowers made pursuant to the supplemental lending limits provided in paragraphs (a)(1), (2), and (3) of this section may not exceed 100 percent of the bank's or saving association's capital and surplus.
+
 (b) *Application process.* An eligible national bank or eligible savings association must submit an application to, and receive approval from, its supervisory office before using the supplemental lending limits in paragraphs (a)(1), (2), and (3) of this section. The supervisory office may approve a completed application if it finds that approval is consistent with safety and soundness. To be deemed complete, the application must include:
 
 (1) Certification that the bank or savings association is an “eligible bank” or “eligible savings association”;
@@ -22,4 +26,4 @@
 
 (e) *Existing loans.* Any loans or extensions of credit made by a bank or savings association under the supplemental lending limits in paragraphs (a)(1), (2), and (3) of this section, that were in compliance with this section when made, will not be deemed a lending limit violation and will not be treated as nonconforming under § 32.6.
 
-[66 FR 31120, June 11, 2001, as amended at 69 FR 32436, June 10, 2004; 69 FR 51357, Aug. 19, 2004; 72 FR 31444, June 7, 2007; 77 FR 37279, June 21, 2012; 80 FR 28479, May 18, 2015; 85 FR 42642, July 14, 2020]
+[66 FR 31120, June 11, 2001, as amended at 69 FR 32436, June 10, 2004; 69 FR 51357, Aug. 19, 2004; 72 FR 31444, June 7, 2007; 77 FR 37279, June 21, 2012; 80 FR 28479, May 18, 2015; 85 FR 42642, July 14, 2020; 85 FR 61810, Oct. 1, 2020]

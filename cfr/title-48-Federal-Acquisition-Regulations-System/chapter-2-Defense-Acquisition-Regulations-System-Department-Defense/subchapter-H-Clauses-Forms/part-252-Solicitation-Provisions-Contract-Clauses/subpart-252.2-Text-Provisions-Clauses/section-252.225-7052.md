@@ -1,8 +1,6 @@
-##### 252.225-7052 Restriction on the Acquisition of Certain Magnets and Tungsten. #####
+##### 252.225-7052 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten. #####
 
-As prescribed in 225.7018-5, use the following clause:
-
-Restriction on the Acquisition of Certain Magnets and Tungsten (DEC 2019)
+Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Oct 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -42,9 +40,11 @@ Restriction on the Acquisition of Certain Magnets and Tungsten (DEC 2019)
 
 (2) Neodymium-iron-boron magnets;
 
-(3) Tungsten metal powder; and
+(3) Tantalum metal and alloys;
 
-(4) Tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
+(4) Tungsten metal powder; and
+
+(5) Tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
 
 *Electronic device* means an item that operates by controlling the flow of electrons or other electrically charged particles in circuits, using interconnections such as resistors, inductors, capacitors, diodes, switches, transistors, or integrated circuits.
 
@@ -68,7 +68,9 @@ Restriction on the Acquisition of Certain Magnets and Tungsten (DEC 2019)
 
 (ii) The restriction on melting and producing of samarium-cobalt magnets is in addition to any applicable restrictions on melting of specialty metals if the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals, is included in the contract.
 
-(3) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
+(3) For production of tantalum metal and alloys, this restriction includes the reduction of tantalum chemicals such as oxides, chlorides, or potassium salts, to metal powder and all subsequent phases of production of tantalum metal and alloys, such as consolidation of metal powders.
+
+(4) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
 
 (i) Atomization;
 
@@ -86,7 +88,7 @@ Restriction on the Acquisition of Certain Magnets and Tungsten (DEC 2019)
 
 (A) A commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
 
-(B) A tungsten heavy alloy mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
+(B) A tantalum metal, tantalum alloy, or tungsten heavy alloy mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
 
 (ii) An electronic device, unless otherwise specified in the contract; or
 
@@ -94,10 +96,10 @@ Restriction on the Acquisition of Certain Magnets and Tungsten (DEC 2019)
 
 (2) If the authorized agency official concerned has made a nonavailability determination, in accordance with section 225.7018-4 of the Defense Federal Acquisition Regulation Supplement, that compliant covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price.
 
-(i) For tungsten heavy alloy, the term “required form” refers to the form of the mill product, such as bar, billet, wire, slab, plate, or sheet, in the grade appropriate for the production of a finished end item to be delivered to the Government under this contract; or a finished component assembled into an end item to be delivered to the Government under the contract.
+(i) For tantalum metal, tantalum alloy, or tungsten heavy alloy, the term “required form” refers to the form of the mill product, such as bar, billet, wire, slab, plate, or sheet, in the grade appropriate for the production of a finished end item to be delivered to the Government under this contract; or a finished component assembled into an end item to be delivered to the Government under the contract.
 
 (ii) For samarium-cobalt magnets or neodymium-iron-boron magnets, the term “required form” refers to the form and properties of the magnets.
 
-(d) The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial items, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
+(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial items, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019]
+(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]

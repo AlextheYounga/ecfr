@@ -1,23 +1,49 @@
-##### § 1206.154 Determination of quantities and qualities for computing royalties. #####
+##### § 1206.154 How do I determine a transportation allowance if I have a non-arm's-length transportation contract? #####
 
-(a)(1) Royalties shall be computed on the basis of the quantity and quality of unprocessed gas at the point of royalty settlement approved by BLM or BSEE for onshore and OCS leases, respectively.
+(a) This section applies if you or your affiliate do(es) not have an arm's-length transportation contract, including situations where you or your affiliate provide your own transportation services. You must calculate your transportation allowance based on your or your affiliate's reasonable, actual costs for transportation during the reporting period using the procedures prescribed in this section.
 
-(2) If the value of gas determined pursuant to § 1206.152 of this subpart is based upon a quantity and/or quality that is different from the quantity and/or quality at the point of royalty settlement, as approved by BLM or BSEE, that value shall be adjusted for the differences in quantity and/or quality.
+(b) Your or your affiliate's actual costs may include:
 
-(b)(1) For residue gas and gas plant products, the quantity basis for computing royalties due is the monthly net output of the plant even though residue gas and/or gas plant products may be in temporary storage.
+(1) Capital costs and operating and maintenance expenses under paragraphs (e), (f), and (g) of this section.
 
-(2) If the value of residue gas and/or gas plant products determined pursuant to § 1206.153 of this subpart is based upon a quantity and/or quality of residue gas and/or gas plant products that is different from that which is attributable to a lease, determined in accordance with paragraph (c) of this section, that value shall be adjusted for the differences in quantity and/or quality.
+(2) Overhead under paragraph (h) of this section.
 
-(c) The quantity of the residue gas and gas plant products attributable to a lease shall be determined according to the following procedure:
+(3) Depreciation and a return on undepreciated capital investment under paragraph (i)(1) of this section, or you may elect to use a cost equal to a return on the initial depreciable capital investment in the transportation system under paragraph (i)(2) of this section. After you have elected to use either method for a transportation system, you may not later elect to change to the other alternative without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
 
-(1) When the net output of the processing plant is derived from gas obtained from only one lease, the quantity of the residue gas and gas plant products on which computations of royalty are based is the net output of the plant.
+(4) A return on the reasonable salvage value under paragraph (i)(1)(iii) of this section, after you have depreciated the transportation system to its reasonable salvage value.
 
-(2) When the net output of a processing plant is derived from gas obtained from more than one lease producing gas of uniform content, the quantity of the residue gas and gas plant products allocable to each lease shall be in the same proportions as the ratios obtained by dividing the amount of gas delivered to the plant from each lease by the total amount of gas delivered from all leases.
+(c)(1) To the extent not included in costs identified in paragraphs (e) through (g) of this section, if you or your affiliate incur(s) the actual transportation costs listed under § 1206.153(b)(2), (5), and (6) of this subpart under your or your affiliate's non-arm's-length contract, you may include those costs in your calculations under this section. You may not include any of the other costs identified under § 1206.153(b).
 
-(3) When the net output of a processing plant is derived from gas obtained from more than one lease producing gas of nonuniform content, the quantity of the residue gas allocable to each lease will be determined by multiplying the amount of gas delivered to the plant from the lease by the residue gas content of the gas, and dividing the arithmetical product thus obtained by the sum of the similar arithmetical products separately obtained for all leases from which gas is delivered to the plant, and then multiplying the net output of the residue gas by the arithmetic quotient obtained. The net output of gas plant products allocable to each lease will be determined by multiplying the amount of gas delivered to the plant from the lease by the gas plant product content of the gas, and dividing the arithmetical product thus obtained by the sum of the similar arithmetical products separately obtained for all leases from which gas is delivered to the plant, and then multiplying the net output of each gas plant product by the arithmetic quotient obtained.
+(2) You may not include in your calculations under this section any of the non-allowable costs listed under § 1206.153(c).
 
-(4) A lessee may request ONRR approval of other methods for determining the quantity of residue gas and gas plant products allocable to each lease. If approved, such method will be applicable to all gas production from Federal leases that is processed in the same plant.
+(d) You may not use any cost as a deduction that duplicates all or part of any other cost that you use under this section.
 
-(d)(1) No deductions may be made from the royalty volume or royalty value for actual or theoretical losses. Any actual loss of unprocessed gas that may be sustained prior to the royalty settlement metering or measurement point will not be subject to royalty provided that such loss is determined to have been unavoidable by BLM or BSEE, as appropriate.
+(e) Allowable capital investment costs are generally those for depreciable fixed assets (including costs of delivery and installation of capital equipment) that are an integral part of the transportation system.
 
-(2) Except as provided in paragraph (d)(1) of this section and § 1202.151(c), royalties are due on 100 percent of the volume determined in accordance with paragraphs (a) through (c) of this section. There can be no reduction in that determined volume for actual losses after the quantity basis has been determined or for theoretical losses that are claimed to have taken place. Royalties are due on 100 percent of the value of the unprocessed gas, residue gas, and/or gas plant products as provided in this subpart, less applicable allowances. There can be no deduction from the value of the unprocessed gas, residue gas, and/or gas plant products to compensate for actual losses after the quantity basis has been determined, or for theoretical losses that are claimed to have taken place.
+(f) Allowable operating expenses include the following:
+
+(1) Operations supervision and engineering(2) Operations labor(3) Fuel(4) Utilities(5) Materials(6) Ad valorem property taxes(7) Rent(8) Supplies(9) Any other directly allocable and attributable operating expense that you can document
+
+(g) Allowable maintenance expenses include the following:
+
+(i) Maintenance of the transportation system(ii) Maintenance of equipment(iii) Maintenance labor(iv) Other directly allocable and attributable maintenance expenses that you can document
+
+(h) Overhead, directly attributable and allocable to the operation and maintenance of the transportation system, is an allowable expense. State and Federal income taxes and severance taxes and other fees, including royalties, are not allowable expenses.
+
+(i)(1) To calculate depreciation and a return on undepreciated capital investment, you may elect to use either a straight-line depreciation method based on the life of equipment or on the life of the reserves that the transportation system services, or you may elect to use a unit-of-production method. After you make an election, you may not change methods without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
+
+(i) A change in ownership of a transportation system will not alter the depreciation schedule that the original transporter/lessee established for the purposes of the allowance calculation.
+
+(ii) You may depreciate a transportation system only once with or without a change in ownership.
+
+(iii)(A) To calculate the return on undepreciated capital investment, you may use an amount equal to the undepreciated capital investment in the transportation system multiplied by the rate of return that you determine under paragraph (i)(3) of this section.
+
+(B) After you have depreciated a transportation system to the reasonable salvage value, you may continue to include in the allowance calculation a cost equal to the reasonable salvage value multiplied by a rate of return under paragraph (i)(3) of this section.
+
+(2) As an alternative to using depreciation and a return on undepreciated capital investment, as provided under paragraph (b)(3) of this section, you may use as a cost an amount equal to the allowable initial capital investment in the transportation system multiplied by the rate of return determined under paragraph (i)(3) of this section. You may not include depreciation in your allowance.
+
+(3) The rate of return is the industrial rate associated with Standard & Poor's BBB rating.
+
+(i) You must use the monthly average BBB rate that Standard & Poor's publishes for the first month for which the allowance is applicable.
+
+(ii) You must re-determine the rate at the beginning of each subsequent calendar year.

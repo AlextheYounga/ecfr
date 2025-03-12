@@ -1,7 +1,5 @@
 ##### § 495.24 Stage 3 meaningful use objectives and measures for EPs, eligible hospitals and CAHs for 2019 and subsequent years. #####
 
-Link to an amendment published at 85 FR 59026, Sept. 18, 2020.
-
 The criteria specified in paragraphs (c) and (d) of this section are optional for 2017 and 2018 for EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year. The criteria specified in paragraph (d) of this section are applicable for all EPs for 2019 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid Promoting Interoperability Program for 2019 and subsequent years. The criteria specified in paragraph (e) of this section are applicable for eligible hospitals and CAHs attesting to CMS for 2019 and subsequent years.
 
 (a) *Stage 3 criteria for EPs* - (1) *General rule regarding Stage 3 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (3) of this section, EPs must meet all objectives and associated measures of the Stage 3 criteria specified in paragraph (d) of this section to meet the definition of a meaningful EHR user.
@@ -536,7 +534,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (iii) *Measures* - (A) *e-Prescribing measure.* Subject to paragraph (e)(3) of this section, at least one hospital discharge medication order for permissible prescriptions (for new and changed prescriptions) is queried for a drug formulary and transmitted electronically using CEHRT. This measure is worth up to 10 points in CY 2019 and subsequent years.
 
-(B) *Query of prescription drug monitoring program (PDMP) measure.* Subject to paragraph (e)(3) of this section, for at least one Schedule II opioid electronically prescribed using CEHRT during the EHR reporting period, the eligible hospital or CAH uses data from CEHRT to conduct a query of a Prescription Drug Monitoring Program (PDMP) for prescription drug history, except where prohibited and in accordance with applicable law. This measure is worth 5 bonus points in CY 2019 and CY 2020.
+(B) *Query of prescription drug monitoring program (PDMP) measure.* Subject to paragraph (e)(3) of this section, for at least one Schedule II opioid electronically prescribed using CEHRT during the EHR reporting period, the eligible hospital or CAH uses data from CEHRT to conduct a query of a Prescription Drug Monitoring Program (PDMP) for prescription drug history, except where prohibited and in accordance with applicable law. This measure is worth 5 bonus points in CYs 2019, 2020, and 2021.
 
 (C) *Verify opioid treatment agreement measure.* Subject to paragraph (e)(3) of this section, for at least one unique patient for whom a Schedule II opioid was electronically prescribed by the eligible hospital or CAH using CEHRT during the EHR reporting period, if the total duration of the patient's Schedule II opioid prescriptions is at least 30 cumulative days within a 6-month look-back period, the eligible hospital or CAH seeks to identify the existence of a signed opioid treatment agreement and incorporates it into the patient's electronic health record using CEHRT. This measure is worth 5 bonus points in CY 2019.
 
@@ -554,7 +552,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*2*) Electronically exchanges the summary of care record.
 
-(B) *Support electronic referral loops by receiving and incorporating health information measure.* Subject to paragraph (e)(3) of this section, for at least one electronic summary of care record received using CEHRT for patient encounters during the EHR reporting period for which an eligible hospital or CAH was the receiving party of a transition of care or referral, or for patient encounters during the EHR reporting period in which the eligible hospital or CAH has never before encountered the patient, the eligible hospital or CAH conducts clinical information reconciliation for medication, medication allergy, and current problem list using CEHRT.
+(B) *Support electronic referral loops by receiving and reconciling health information measure.* Subject to paragraph (e)(3) of this section, for at least one electronic summary of care record received using CEHRT for patient encounters during the EHR reporting period for which an eligible hospital or CAH was the receiving party of a transition of care or referral, or for patient encounters during the EHR reporting period in which the eligible hospital or CAH has never before encountered the patient, the eligible hospital or CAH conducts clinical information reconciliation for medication, medication allergy, and current problem list using CEHRT.
 
 (iii) *Exclusions in accordance with paragraph (e)(2) of this section.* Any eligible hospital or CAH that is unable to implement the support electronic referral loops by receiving and incorporating health information measure under paragraph (e)(6)(ii)(B) of this section for an EHR reporting period in 2019 may be excluded from that measure. Claiming the exclusion will redistribute 20 points to the support electronic referral loops by sending health information measure under paragraph (e)(6)(ii)(A) of this section.
 
@@ -632,4 +630,4 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*3*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from an eligible hospital or CAH as of 6 months prior to the start of the EHR reporting period.
 
-[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42616, Aug. 16, 2019]
+[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42616, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020]

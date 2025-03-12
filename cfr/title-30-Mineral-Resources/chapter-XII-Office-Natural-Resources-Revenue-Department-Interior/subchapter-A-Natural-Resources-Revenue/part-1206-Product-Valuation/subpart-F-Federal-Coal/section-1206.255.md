@@ -1,7 +1,11 @@
-##### § 1206.255 Point of royalty determination. #####
+##### § 1206.255 What records must I keep in order to support my calculations of royalty under this subpart? #####
 
-(a) For all leases subject to this subpart, royalty shall be computed on the basis of the quantity and quality of Federal coal in marketable condition measured at the point of royalty measurement as determined jointly by BLM and ONRR.
+If you value your coal under this subpart, you must retain all data relevant to the determination of the royalty that you paid. You can find recordkeeping requirements in parts 1207 and 1212 of this chapter.
 
-(b) Coal produced and added to stockpiles or inventory does not require payment of royalty until such coal is later used, sold, or otherwise finally disposed of. ONRR may ask BLM to increase the lease bond to protect the lessor's interest when BLM determines that stockpiles or inventory become excessive so as to increase the risk of degradation of the resource.
+(a) You must show:
 
-(c) The lessee shall pay royalty at a rate specified in the lease at the time the coal is used, sold, or otherwise finally disposed of, unless otherwise provided for at § 1206.256(d) of this subpart.
+(1) How you calculated the royalty value, including all allowable deductions; and
+
+(2) How you complied with this subpart.
+
+(b) Upon request, you must submit all data to ONRR. You must comply with any such requirement within the time that ONRR specifies.

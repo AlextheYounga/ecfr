@@ -1,0 +1,3 @@
+##### § 29.502 Who is responsible for compiling, copying, and paying for materials for any audit or examination? #####
+
+The agency or entity undertaking the examination or audit will be responsible for all costs associated with an audit or examination of Tribal records. A Tribe is responsible for making records available during regular business hours, and may prevent removal of the records from Tribal offices. If an agency or entity undertaking the examination or audit requests that the Tribe make copies of records for its use, the Tribe must do so, but may charge the examining agency reasonable per-page fees for photocopying or scanning of documents and records.

@@ -1,0 +1,3 @@
+##### § 143.14 State enforcement of use prohibitions. #####
+
+As a condition of receiving a full allotment of Public Water System Supervision grants under section 1443(a) of the Safe Drinking Water Act, States must enforce the requirements of section 1417(a)(1) of the Safe Drinking Water Act and § 143.13 through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.

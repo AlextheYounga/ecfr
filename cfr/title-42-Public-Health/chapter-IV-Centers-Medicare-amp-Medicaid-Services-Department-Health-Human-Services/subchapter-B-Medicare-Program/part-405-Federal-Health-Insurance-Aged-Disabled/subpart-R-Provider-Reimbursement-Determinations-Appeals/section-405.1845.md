@@ -1,7 +1,5 @@
 ##### § 405.1845 Composition of Board; hearings, decisions, and remands. #####
 
-Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
-
 (a) The Board will consist of five members appointed by the Secretary. All shall be knowledgeable in the field of cost reimbursement. At least one shall be a certified public accountant. Two Board members shall be representative of providers of services.
 
 (b) The term of office for Board members shall be 3 years, except that initial appointments may be for such shorter terms as the Secretary may designate to permit staggered terms of office. No member shall serve more than two consecutive 3-year terms of office. The Secretary shall have the authority to terminate a Board member's term of office for good cause.
@@ -24,14 +22,14 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (h) *Remands.* (1) Except as provided in paragraph (h)(3) of this section, a Board remand order may be reviewed solely during the course of Administrator review of one of the Board decisions specified in § 405.1875(a)(2) of this subpart), or of judicial review of a final agency decision as described in § 405.1877(a) and (c)(3) of this part, as applicable.
 
-(2) The Board may order a remand requiring specific actions of a party to the appeal. In ordering a remand, the Board must -
+(2) The Board may order a remand requiring specific actions of a party to the appeal. In ordering a remand, the Board must—
 
 (i) Specify any actions required of the party and explain the factual and legal basis for ordering a remand;
 
 (ii) Issue the remand order in writing; and
 
-(iii) Mail the remand order promptly to the parties and any affected nonparty, such as CMS, to the appeal.
+(iii) Send the remand order promptly to the parties and any affected nonparty, such as CMS, to the appeal.
 
 (3) A Board remand order is not subject to immediate Administrator review unless the Administrator determines that the remand order might otherwise evade his or her review (as described in § 405.1875(a)(2)(iv) of this subpart).
 
-[39 FR 34515, Sept. 26, 1974, as amended at 41 FR 52051, Nov. 26, 1976. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 73 FR 30256, May 23, 2008]
+[39 FR 34515, Sept. 26, 1974, as amended at 41 FR 52051, Nov. 26, 1976. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 73 FR 30256, May 23, 2008; 85 FR 59019, Sept. 18, 2020]

@@ -1,6 +1,6 @@
 ##### § 1206.271 What are my reporting requirements under a non-arm's-length washing contract? #####
 
-(a) You must use a separate entry on Form ONRR-4430 to notify ONRR of an allowance based on non-arm's-length washing costs that you or your affiliate incur(s).
+(a) You must use a separate entry on form ONRR-4430 to notify ONRR of an allowance based on non-arm's-length washing costs that you or your affiliate incur(s).
 
 (b)(1) For new non-arm's-length washing facilities or arrangements, you must base your initial deduction on estimates of allowable washing costs for the applicable period.
 

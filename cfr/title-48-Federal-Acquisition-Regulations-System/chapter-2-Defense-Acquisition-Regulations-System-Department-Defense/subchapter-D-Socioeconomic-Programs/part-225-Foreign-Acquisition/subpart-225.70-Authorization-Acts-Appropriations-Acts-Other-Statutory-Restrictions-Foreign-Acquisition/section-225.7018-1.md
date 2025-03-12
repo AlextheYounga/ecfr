@@ -1,7 +1,5 @@
 ##### 225.7018-1 Definitions. #####
 
-Link to an amendment published at 85 FR 61502, Sept. 29, 2020.
-
 As used in this section -
 
 *Covered country* means -
@@ -20,9 +18,11 @@ As used in this section -
 
 (2) Neodymium-iron-boron magnets;
 
-(3) Tungsten metal powder; and
+(3) Tantalum metal and alloys;
 
-(4) Tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
+(4) Tungsten metal powder; and
+
+(5) Tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
 
 *Electronic device* means an item that operates by controlling the flow of electrons or other electrically charged particles in circuits, using interconnections such as resistors, inductors, capacitors, diodes, switches, transistors, or integrated circuits.
 
@@ -32,4 +32,4 @@ As used in this section -
 
 (2) Contains at least 90 percent tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has density of at least 16.5 g/cm3).
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]

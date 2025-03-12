@@ -1,0 +1,3 @@
+##### § 25.20 State/multistate metropolitan statistical area assigned rating. #####
+
+For a bank evaluated under § 25.13 with interstate branches, the OCC will assign a rating for each state where the bank has a facility-based assessment area and each multistate metropolitan statistical area where the bank has a main office, branch, or non-branch deposit-taking facility in two or more states in the multistate metropolitan statistical area. The state or multistate metropolitan statistical area assigned rating for that state or multistate metropolitan statistical area is based on the ratings assigned to its assessment areas within that state or multistate metropolitan statistical area.

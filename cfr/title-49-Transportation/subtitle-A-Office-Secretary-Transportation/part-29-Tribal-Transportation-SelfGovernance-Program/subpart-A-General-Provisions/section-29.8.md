@@ -1,0 +1,3 @@
+##### § 29.8 What happens if more than one party purports to be the authorized representative of a Tribe? #####
+
+If more than one party purports to be the authorized representative of a Tribe during the negotiation of a compact, funding agreement, or amendment, the Department will notify the parties, consult with the Department of the Interior, defer negotiation or execution of any documents, if necessary, until such authority is clarified, and provide written notice to the parties of the Department's decision to defer.

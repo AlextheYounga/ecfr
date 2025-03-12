@@ -1,0 +1,3 @@
+##### § 29.411 Are funds included in a compact and funding agreement non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program? #####
+
+Notwithstanding any other provision of law, pursuant to 25 U.S.C. 5325(j), funds included in a compact and funding agreement are considered non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.

@@ -1,0 +1,3 @@
+##### § 29.419 Does the award of formula funds entitle a Tribe to receipt of contract support costs? #####
+
+The award of formula funds does not entitle a Tribe to receive contract support costs under 25 U.S.C. 5325(a). A funding agreement will not provide additional funds for contract support costs to carry out PSFAs. While a Tribe is not entitled to additional funds for contract support costs, a Tribe may use a portion of its formula funds (§ 29.400(a) and (b)) for overhead and administrative expenses if such costs are reasonable, allowable, and allocable in accordance with 2 CFR part 200 and the statutory and regulatory requirements applicable to the funding source.

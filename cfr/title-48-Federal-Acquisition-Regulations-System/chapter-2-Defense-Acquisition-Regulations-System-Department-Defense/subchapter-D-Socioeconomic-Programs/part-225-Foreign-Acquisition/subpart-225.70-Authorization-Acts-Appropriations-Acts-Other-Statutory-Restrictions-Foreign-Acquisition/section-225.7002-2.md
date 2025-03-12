@@ -1,7 +1,5 @@
 ##### 225.7002-2 Exceptions. #####
 
-Link to an amendment published at 85 FR 61501, Sept. 29, 2020.
-
 Acquisitions in the following categories are not subject to the restrictions in 225.7002-1:
 
 (a) Acquisitions at or below the simplified acquisition threshold, except for athletic footwear purchased by DoD for use by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the Armed Forces (section 817 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328)).
@@ -20,11 +18,7 @@ Acquisitions in the following categories are not subject to the restrictions in 
 
 (v) The Director of the Defense Logistics Agency.
 
-(2) The supporting documentation for the determination shall include -
-
-(i) An analysis of alternatives that would not require a domestic nonavailability determination; and
-
-(ii) A written certification by the requiring activity, with specificity, why such alternatives are unacceptable.
+(2) The supporting documentation for the determination shall include an analysis and written certification by the requiring activity, with specificity, why alternatives that would not require a domestic nonavailability determination are unacceptable.
 
 (3) Defense agencies other than the Defense Logistics Agency shall follow the procedures at PGI 225.7002-2(b)(3) when submitting a request for a domestic nonavailability determination.
 
@@ -74,4 +68,4 @@ Acquisitions in the following categories are not subject to the restrictions in 
 
 (o) Acquisitions that are interagency, State, or local purchases that are executed by DoD as a result of the transfer of contracts from the General Services Administration or for which DoD serves as an item manager for products on behalf of the General Services Administration. According to section 897 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), such contracts shall not be subject to requirements under chapter 148 of title 10, United States Code (including 10 U.S.C. 2533a), to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.
 
-[67 FR 20697, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 70 FR 43073, July 26, 2005; 71 FR 34833, June 16, 2006; 71 FR 58537, Oct. 4, 2006; 72 FR 20765, Apr. 26, 2007; 72 FR 63123, Nov. 8, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 74 FR 37636, July 29, 2009; 74 FR 52896, Oct. 15, 2009; 75 FR 34945, June 21, 2010; 76 FR 14589, Mar. 17, 2011; 76 FR 52133, \>Aug. 19, 2011; 80 FR 36718, June 26, 2015; 80 FR 51749, Aug. 26, 2015; 81 FR 42562, June 30, 2016; 83 FR 65562, Dec. 21, 2018]
+[67 FR 20697, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 70 FR 43073, July 26, 2005; 71 FR 34833, June 16, 2006; 71 FR 58537, Oct. 4, 2006; 72 FR 20765, Apr. 26, 2007; 72 FR 63123, Nov. 8, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 74 FR 37636, July 29, 2009; 74 FR 52896, Oct. 15, 2009; 75 FR 34945, June 21, 2010; 76 FR 14589, Mar. 17, 2011; 76 FR 52133, \>Aug. 19, 2011; 80 FR 36718, June 26, 2015; 80 FR 51749, Aug. 26, 2015; 81 FR 42562, June 30, 2016; 83 FR 65562, Dec. 21, 2018; 85 FR 61501, Sept. 29, 2020]

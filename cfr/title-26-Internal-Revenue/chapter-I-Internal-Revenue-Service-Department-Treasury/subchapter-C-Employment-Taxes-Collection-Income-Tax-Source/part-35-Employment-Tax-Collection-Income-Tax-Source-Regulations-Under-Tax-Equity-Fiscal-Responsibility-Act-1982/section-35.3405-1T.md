@@ -52,11 +52,7 @@ A. The amount to be withheld by any payor (or, in certain cases, a plan administ
 
 A. A periodic payment is an annuity or similar periodic payment whether paid by a licensed life insurance company, a financial institution, or a plan. The term “annuity” means a series of payments payable over a period greater than one year and taxable under section 72 as amounts received as an annuity, whether or not the payments are variable in amount.
 
-*a-10. Q. How will federal income tax be withheld from a periodic payment?*
-
-A. In the case of a periodic payment, amounts are withheld as if the payment were a payment of wages by an employer to the employee for the appropriate payroll period. If the payee has not filed a withholding certificate, the amount to be withheld is calculated by treating the payee as a married individual claiming three withholding allowances.
-
-For additional questions and answers concerning periodic payments, see part b.
+*a-10.* [Reserved]
 
 *a-11. Q. How will Federal income tax be withheld from a “qualified total distribution?”*
 
@@ -194,13 +190,9 @@ A. No. Although the payor must withhold from any periodic payment the amount tha
 
 A. Yes. Withholding on a periodic payment is accomplished by treating the payment as if it were wages. Therefore, unless the employee has elected not to have withholding apply, any method of withholding that is an appropriate method for withholding on wages is also an appropriate method for withholding on periodic payments. Refer to the Employer's Tax Guide (Circular E) and Publication 493, Alternative Tax Withholding Methods and Tables for the general procedures on withholding, deposit, payment, and reporting of Federal income tax withheld. Note, however, that any specific procedures contained in this regulation take precedence over any contrary rules in Circular E and Publication 493.
 
-*b-3. Q. Do rules similar to those for wage withholding applly to the filing of a withholding certificate for periodic payments?*
+*b-3.* [Reserved]
 
-A. Yes. Unless the rules of section 3405 specifically conflict with the rules of section 3402, the rules for withholding on periodic payments will parallel the rules for wage withholding. Thus, if a withholding certificate is filed by a payee, it will generally take effect as provided in section 3402(f)(3) for certificates filed to replace existing certificates. If a withholding certificate is furnished by a payee on or before the date on which payments commence, it takes effect with respect to payments made more than 30 days after the certificate is furnished, unless the payor elects to make it effective at an earlier date. If a withholding certificate is furnished by a payee after the date on which payments commence, it takes effect with respect to payments made on or after the status determination date (January 1, May 1, July 1, or October 1) that is at least 30 days after the date the certificate is filed, unless the payor elects to make it effective at an earlier date. If no withholding certificate is filed, the amount withheld is determined as if the payee were a married person claiming three withholding allowances.
-
-*b-4. Q. If no withholding certificate has been filed and the payor is aware that the payee is single, is it still appropriate to base withholding on a married individual claiming three allowances?*
-
-A. Yes. If no withholding certificate is filed, the payor is not required or permitted to base withholding on the amount of allowances the payee actually is entitled to claim. Thus, the payor must base withholding on the rates for a married person with three withholding allowances.
+*b-4.* [Reserved]
 
 *b-5. Q. May a payor determine whether payments to an individual are subject to withholding based on the amount of the first periodic payment for the year?*
 
@@ -566,10 +558,10 @@ The effect of these alternatives is illustrated by the following example:
 
 An individual receives within one taxable year the balance to his credit under a plan described in section 401(a) or 403(a). The balance to his credit is paid in three installments of $1,000, $10,000, and $60,000. The amount of tax to be withheld from the installments may be calculated under Option 1 or Option 2.
 
-Option 1 - Withholding on each installment computed by finding tax under qualified total distribution tables on the cumulative amount of the distribution and subtracting the tax already withheld.
+Option 1—Withholding on each installment computed by finding tax under qualified total distribution tables on the cumulative amount of the distribution and subtracting the tax already withheld.
 
 |                         I.:                          |      |
-|:-----------------------------------------------------|-----:|
+|------------------------------------------------------|------|
 |              1. Amount of installment 1              |$1,000|
 |      2. Withholding obligation on installment 1      |  50  |
 |                         II.:                         |      |
@@ -584,10 +576,10 @@ Option 1 - Withholding on each installment computed by finding tax under qualifi
 |4. Withholding obligation on installment 3 (2 minus 3)|9,030 |
 |             Total withholding obligation             |9,580 |
 
-Option 2 - Withholding computed by withholding at 10 percent rate for all but the final installment. Withholding on the final installment computed by finding tax under qualified total distribution table for the cumulative amount of the distribution and subtracting the amount of tax already withheld:
+Option 2—Withholding computed by withholding at 10 percent rate for all but the final installment. Withholding on the final installment computed by finding tax under qualified total distribution table for the cumulative amount of the distribution and subtracting the amount of tax already withheld:
 
 |                         I.:                          |      |
-|:-----------------------------------------------------|-----:|
+|------------------------------------------------------|------|
 |              1. Amount of installment 1              |$1,000|
 |      2. Withholding obligation on installment 1      | 100  |
 |                         II.:                         |      |
@@ -824,4 +816,4 @@ A. Yes. In order to be entitled to a delay, payors and plan adminstrators must f
 
 A. In the case of the exchange or complete or partial surrender of a commercial annuity under which the recipient had not irrevocably chosen, prior to January 1, 1984, to receive payments in the form of an annuity, the application of the notice and withholding provisions of this section may be delayed, so long as undue hardship exists, up to January 1, 1984. Prior approval from the Internal Revenue Service is not required for such delay, and should not be requested. For purposes of this delay, undue hardship will be presumed to exist, in the absence of bad faith, so long as the payor can establish that at least one of the conditions in question g-6 is present. The payor should prepare and retain a statement of undue hardship as described in question g-9 and should maintain any documents necessary to support the representations made in that statement.
 
-[T.D. 7839, 47 FR 45868, Oct. 14, 1982; 47 FR 47241, Oct. 25, 1982, as amended by T.D. 7858, 47 FR 54066, Dec. 1, 1982; 47 FR 57021, Dec. 22, 1982; T.D. 7904, 48 FR 35091, Aug. 3, 1983; 48 FR 36449, Aug. 11, 1983. Redesignated by T.D. 8873, 65 FR 6007, Feb. 8, 2000, as amended by T.D. 8952, 66 FR 33832, June 26, 2001]
+[T.D. 7839, 47 FR 45868, Oct. 14, 1982; 47 FR 47241, Oct. 25, 1982, as amended by T.D. 7858, 47 FR 54066, Dec. 1, 1982; 47 FR 57021, Dec. 22, 1982; T.D. 7904, 48 FR 35091, Aug. 3, 1983; 48 FR 36449, Aug. 11, 1983. Redesignated by T.D. 8873, 65 FR 6007, Feb. 8, 2000, as amended by T.D. 8952, 66 FR 33832, June 26, 2001; T.D. 9920, 85 FR 61816, Oct. 1, 2020]

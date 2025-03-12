@@ -1,7 +1,5 @@
 ##### § 413.20 Financial data and reports. #####
 
-Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
-
 (a) *General.* The principles of cost reimbursement require that providers maintain sufficient financial records and statistical data for proper determination of costs payable under the program. Standardized definitions, accounting, statistics, and reporting practices that are widely accepted in the hospital and related fields are followed. Changes in these practices and systems will not be required in order to determine costs payable under the principles of reimbursement. Essentially the methods of determining costs payable under Medicare involve making use of data available from the institution's basis accounts, as usually maintained, to arrive at equitable and proper payment for services to beneficiaries.
 
 (b) *Frequency of cost reports.* Cost reports are required from providers on an annual basis with reporting periods based on the provider's accounting year. In the interpretation and application of the principles of reimbursement, the fiscal contractors will be an important source of consultative assistance to providers and will be available to deal with questions and problems on a day-to-day basis.
@@ -40,8 +38,14 @@ Link to an amendment published at 85 FR 59023, Sept. 18, 2020.
 
 (ix) Flow of funds and working capital.
 
-(3) The provider, upon request, must furnish the contractor copies of patient service charge schedules and changes thereto as they are put into effect. The contractor will evaluate such charge schedules to determine the extent to which they may be used for determining program payment.
+(3)(i) The provider must furnish the contractor -
+
+(A) Upon request, copies of patient service charge schedules and changes thereto as they are put into effect; and
+
+(B) Its median payer-specific negotiated charge by MS-DRG for payers that are Medicare Advantage (MA) organizations, as applicable, and changes thereto as they are put into effect.
+
+(ii) The contractor evaluates the charge schedules as specified in paragraph (d)(3)(i) of this section to determine the extent to which they may be used for determining program payment.
 
 (e) *Suspension of program payments to a provider.* If an contractor determines that a provider does not maintain or no longer maintains adequate records for the determination of reasonable cost under the Medicare program, payments to such provider will be suspended until the contractor is assured that adequate records are maintained. Before suspending payments to a provider, the contractor will, in accordance with the provisions in § 405.372(a) of this chapter, send written notice to such provider of its intent to suspend payments. The notice will explain the basis for the contractor's determination with respect to the provider's records and will identify the provider's recordkeeping deficiencies. The provider must be given the opportunity, in accordance with § 405.372(b) of this chapter, to submit a statement (including any pertinent evidence) as to why the suspension must not be put into effect.
 
-[51 FR 34793, Sept. 30, 1986, as amended at 61 FR 63749, Dec. 2, 1996]
+[51 FR 34793, Sept. 30, 1986, as amended at 61 FR 63749, Dec. 2, 1996; 85 FR 59023, Sept. 18, 2020]

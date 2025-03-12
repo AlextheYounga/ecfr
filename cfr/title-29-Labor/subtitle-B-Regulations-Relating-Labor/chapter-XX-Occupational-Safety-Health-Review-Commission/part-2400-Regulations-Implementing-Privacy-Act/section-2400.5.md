@@ -36,7 +36,7 @@
 
 (b) *Notification of disclosure.* OSHRC shall make reasonable efforts to serve notice on an individual before any record pertaining to the individual is made available to any person under compulsory legal process when such process becomes a matter of public record.
 
-(c) *Notification of amendment* - (1) OSHRC shall inform any person or other agency about any correction or notation of dispute made by OSHRC to any record that has been disclosed to the person or agency, if the correction or notation was made pursuant to § 2400.8, and an accounting of the disclosure was made pursuant to § 2400.4(c).
+(c) *Notification of amendment.* (1) OSHRC shall inform any person or other agency about any correction or notation of dispute made by OSHRC to any record that has been disclosed to the person or agency, if the correction or notation was made pursuant to § 2400.8, and an accounting of the disclosure was made pursuant to § 2400.4(c).
 
 (2) In any disclosure to a person or other agency containing information about which the individual has filed a statement of disagreement and occurring after the statement was filed, OSHRC shall clearly note any portion of the record which is disputed and provide copies of the statement and, if OSHRC deems appropriate, copies of a concise statement of OSHRC's reasons for not making the requested amendments.
 

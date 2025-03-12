@@ -1,7 +1,5 @@
 ##### § 405.1814 Contractor hearing officer jurisdiction. #####
 
-Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
-
 (a) *General rules.* (1) After a request for a contractor hearing is filed under § 405.1811 of this subpart, the contractor hearing officer(s) must do the following:
 
 (i) Determine in accordance with paragraph (b) of this section whether or not it has jurisdiction to grant a hearing on each of the specific matters at issue in the hearing request.
@@ -30,10 +28,10 @@ Link to an amendment published at 85 FR 59019, Sept. 18, 2020.
 
 (c) *Final jurisdictional findings, and jurisdictional dismissal decisions by contractor hearing officer(s).* (1) In issuing a hearing decision under § 405.1831 of this subpart, the contractor hearing officer(s) must make a final determination of its jurisdiction, or lack thereof, for each specific matter at issue in the hearing decision. Each contractor hearing decision must include specific findings of fact and conclusions of law as to the jurisdiction of the hearing officer(s), or lack thereof, to grant a hearing on each matter at issue in the appeal.
 
-(2) If the hearing officer(s) finally determines it lacks jurisdiction to grant a hearing for every specific matter at issue in an appeal, it must issue a jurisdictional dismissal decision. Each jurisdictional dismissal decision by the hearing officer(s) must include specific findings of fact and conclusions of law explaining the determination that there is no jurisdiction to grant a hearing on each matter at issue in the appeal. A copy of the jurisdictional dismissal decision must be mailed promptly to each party to the appeal.
+(2) If the hearing officer(s) finally determines it lacks jurisdiction to grant a hearing for every specific matter at issue in an appeal, it must issue a jurisdictional dismissal decision. Each jurisdictional dismissal decision by the hearing officer(s) must include specific findings of fact and conclusions of law explaining the determination that there is no jurisdiction to grant a hearing on each matter at issue in the appeal. A copy of the jurisdictional dismissal decision must be sent promptly to each party to the appeal.
 
 (3) A jurisdictional dismissal decision by the contractor hearing officer(s) under paragraph (c)(2) of this section is final and binding on the parties, unless the decision is reviewed by a CMS reviewing official in accordance with § 405.1834 of this subpart or reopened and revised by the contractor hearing officer(s) in accordance with § 405.1885 through § 405.1889 of this subpart.
 
 (d) *CMS reviewing official review.* Any finding by the contractor hearing officer as to whether it has jurisdiction to grant a hearing on a specific matter at issue in an appeal is not subject to further administrative review, except as provided in this paragraph. The contractor hearing officer's jurisdictional findings as to specific matters at issue in an appeal may be reviewed solely during the course of CMS reviewing official review of one of the contractor hearing officer decisions specified in § 405.1834(b)(2) of this subpart.
 
-[73 FR 30245, May 23, 2008, as amended at 80 FR 70598, Nov. 13, 2015]
+[73 FR 30245, May 23, 2008, as amended at 80 FR 70598, Nov. 13, 2015; 85 FR 59019, Sept. 18, 2020]

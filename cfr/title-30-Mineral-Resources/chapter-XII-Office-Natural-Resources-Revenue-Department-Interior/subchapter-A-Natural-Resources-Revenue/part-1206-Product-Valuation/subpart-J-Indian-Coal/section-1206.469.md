@@ -1,4 +1,4 @@
-##### § 1206.469 How do I determine washing allowances if I do not have an arm's-length washing contract? #####
+##### § 1206.469 How do I determine washing allowances if I do not have an non-arm's-length washing contract? #####
 
 (a) This section applies if you or your affiliate do(es) not have an arm's-length washing contract, including situations where you or your affiliate provides your own washing services. Calculate your washing allowance based on your or your affiliate's reasonable, actual costs for washing during the reporting period using the procedures prescribed in this section.
 
@@ -16,37 +16,15 @@
 
 (e) Allowable operating expenses include the following:
 
-(1) Operations supervision and engineering.
-
-(2) Operations labor.
-
-(3) Fuel.
-
-(4) Utilities.
-
-(5) Materials.
-
-(6) Ad valorem property taxes.
-
-(7) Rent.
-
-(8) Supplies.
-
-(9) Any other directly allocable and attributable operating expenses that you can document.
+(1) Operations supervision and engineering(2) Operations labor(3) Fuel(4) Utilities(5) Materials(6) Ad valorem property taxes(7) Rent(8) Supplies(9) Any other directly allocable and attributable operating expenses that you can document
 
 (f) Allowable maintenance expenses include the following:
 
-(1) Maintenance of the wash plant.
-
-(2) Maintenance of equipment.
-
-(3) Maintenance labor.
-
-(4) Other directly allocable and attributable maintenance expenses that you can document.
+(1) Maintenance of the wash plant(2) Maintenance of equipment(3) Maintenance labor(4) Other directly allocable and attributable maintenance expenses that you can document
 
 (g) Overhead, directly attributable and allocable to the operation and maintenance of the wash plant is an allowable expense. State and Federal income taxes and Indian Tribal severance taxes and other fees, including royalties, are not allowable expenses.
 
-(h)(1) To calculate depreciation, you may elect to use either a straight-line depreciation method based on the life of the wash plant or the life of the reserves that the wash plant services, or you may elect to use a unit-of-production method. After you make an election, you may not change methods without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
+(h)(1) To calculate depreciation, you may elect to use either (i) a straight-line depreciation method based on the life of the wash plant or the life of the reserves that the wash plant services, or you may elect to use (ii) a unit-of-production method. After you make an election, you may not change methods without ONRR's approval. If ONRR accepts your request to change methods, you may use your changed method beginning with the production month following the month when ONRR received your change request.
 
 (2) A change in ownership of a wash plant will not alter the depreciation schedule that the original washer/lessee established for the purposes of the allowance calculation.
 

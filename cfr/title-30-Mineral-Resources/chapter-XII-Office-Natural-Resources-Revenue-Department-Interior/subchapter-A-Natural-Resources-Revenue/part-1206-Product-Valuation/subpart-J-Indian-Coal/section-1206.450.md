@@ -1,9 +1,11 @@
-##### § 1206.450 Purpose and scope. #####
+##### § 1206.450 What is the purpose and scope of this subpart? #####
 
-(a) This subpart prescribes the procedures to establish the value, for royalty purposes, of all coal from Indian Tribal and allotted leases (except leases on the Osage Indian Reservation, Osage County, Oklahoma).
+(a) This subpart applies to all coal produced from Indian Tribal coal leases and coal leases on land held by individual Indian mineral owners. It explains how you, as the lessee, must calculate the value of production for royalty purposes consistent with the mineral leasing laws, other applicable laws, and lease terms (except leases on the Osage Indian Reservation, Osage County, Oklahoma).
 
-(b) If the specific provisions of any statute, treaty, or settlement agreement between the Indian lessor and a lessee resulting from administrative or judicial litigation, or any coal lease subject to the requirements of this subpart, are inconsistent with any regulation in this subpart, then the statute, treaty, lease provision, or settlement shall govern to the extent of that inconsistency.
+(b) The terms “you” and “your” in this subpart refer to the lessee.
 
-(c) All royalty payments are subject to later audit and adjustment.
+(c) If the regulations in this subpart are inconsistent with a(an): Federal statute; settlement agreement between the United States and a lessee resulting from administrative or judicial litigation; written agreement between the lessee and ONRR's Director establishing a method to determine the value of production from any lease that ONRR expects, at least, would approximate the value established under this subpart; or express provision of a coal lease subject to this subpart, then the statute, settlement agreement, written agreement, or lease provision will govern to the extent of the inconsistency.
 
-(d) The regulations in this subpart are intended to ensure that the trust responsibilities of the United States with respect to the administration of Indian coal leases are discharged in accordance with the requirements of the governing mineral leasing laws, treaties, and lease terms.
+(d) ONRR may audit and order you to adjust all royalty payments.
+
+(e) The regulations in this subpart, intended to ensure that the trust responsibilities of the United States with respect to the administration of Indian coal leases, are discharged under the requirements of the governing mineral leasing laws, treaties, and lease terms.

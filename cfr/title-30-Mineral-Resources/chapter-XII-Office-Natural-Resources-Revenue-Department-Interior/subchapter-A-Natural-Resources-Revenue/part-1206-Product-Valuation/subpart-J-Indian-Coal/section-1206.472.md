@@ -4,4 +4,4 @@
 
 (2) If you understated your washing allowance, you may be entitled to a credit without interest.
 
-(b) If you improperly net a washing allowance against the sales value of the coal instead of reporting the allowance as a separate entry on Form ONRR-4430, ONRR may assess a civil penalty under 30 CFR part 1241.
+(b) If you improperly net a washing allowance against the sales value of the coal instead of reporting the allowance as a separate entry on form ONRR-4430, ONRR may assess a civil penalty under 30 CFR part 1241.

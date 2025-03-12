@@ -1,0 +1,3 @@
+##### § 5001.10 Federal Register notices and amendments. #####
+
+Rural Development will issue annual Federal Register notices each year specifying the amount of funds available under this part for OneRD guarantees. Notices may also include the following information applicable to projects specifically funded under a particular notice: Maximum loan amounts, fees, and priority scoring for discretionary points.

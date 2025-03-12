@@ -1,5 +1,7 @@
 ##### § 1.74 Human drugs. #####
 
+Link to an amendment published at 85 FR 62125, Oct. 1, 2020.
+
 In addition to the data required to be submitted in § 1.72, an ACE filer must submit the following information at the time of filing entry in ACE for drugs, including biological products, intended for human use that are regulated by the FDA Center for Drug Evaluation and Research.
 
 (a) *Registration and listing.* For a drug intended for human use, the Drug Registration Number and the Drug Listing Number if the foreign establishment where the human drug was manufactured, prepared, propagated, compounded, or processed before being imported or offered for import into the United States is required to register and list the drug under part 207 of this chapter. For the purposes of this section, the Drug Registration Number that must be submitted at the time of entry in ACE is the unique facility identifier of the foreign establishment where the human drug was manufactured, prepared, propagated, compounded, or processed before being imported or offered for import into the United States. The unique facility identifier is the identifier submitted by a registrant in accordance with the system specified under section 510(b) of the Federal Food, Drug, and Cosmetic Act. For the purposes of this section, the Drug Listing Number is the National Drug Code number of the human drug article being imported or offered for import.

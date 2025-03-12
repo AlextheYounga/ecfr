@@ -1,7 +1,5 @@
 ##### 212.102 Applicability. #####
 
-Link to an amendment published at 85 FR 60921, Sept. 29, 2020.
-
 (a)(i) *Commercial item determination.* When using FAR part 12 procedures for acquisitions exceeding $1 million in value, except for acquisitions made pursuant to FAR 12.102(f)(1), the contracting officer shall -
 
 (A) Determine in writing that the acquisition meets the commercial item definition in FAR 2.101;
@@ -22,6 +20,12 @@ Link to an amendment published at 85 FR 60921, Sept. 29, 2020.
 
 (*2*) Issue a determination that the prior use of FAR part 12 procedures was improper or that it is no longer appropriate to acquire the item using FAR part 12 procedures, with a written explanation of the basis for the determination (see 212.70).
 
-(iii) *Nontraditional defense contractors.* In accordance with 10 U.S.C. 2380a, contracting officers may treat supplies and services provided by nontraditional defense contractors as commercial items. This permissive authority is intended to enhance defense innovation and investment, enable DoD to acquire items that otherwise might not have been available, and create incentives for nontraditional defense contractors to do business with DoD. It is not intended to recategorize current noncommercial items, however, when appropriate, contracting officers may consider applying commercial item procedures to the procurement of supplies and services from business segments that meet the definition of “nontraditional defense contractor” even though they have been established under traditional defense contractors. The decision to apply commercial item procedures to the procurement of supplies and services from nontraditional defense contractors does not require a commercial item determination and does not mean the item is commercial.
+(iii) *Nontraditional defense contractors.* In accordance with 10 U.S.C. 2380a, contracting officers -
 
-[77 FR 14480, Mar. 12, 2012, as amended at 80 FR 10390, Feb. 26, 2015; 81 FR 65563, Sept. 23, 2016; 83 FR 4442, Jan. 31, 2018]
+(A) Except as provided in paragraph (a)(iii)(B) of this section, may treat supplies and services provided by nontraditional defense contractors as commercial items. This permissive authority is intended to enhance defense innovation and investment, enable DoD to acquire items that otherwise might not have been available, and create incentives for nontraditional defense contractors to do business with DoD. It is not intended to recategorize current noncommercial items; however, when appropriate, contracting officers may consider applying commercial item procedures to the procurement of supplies and services from business segments that meet the definition of “nontraditional defense contractor” even though they have been established under traditional defense contractors. The decision to apply commercial item procedures to the procurement of supplies and services from nontraditional defense contractors does not require a commercial item determination and does not mean the item is commercial;
+
+(B) Shall treat services provided by a business unit that is a nontraditional defense contractor as commercial items, to the extent that such services use the same pool of employees as used for commercial customers and are priced using methodology similar to methodology used for commercial pricing; and
+
+(C) Shall document the file when treating supplies or services from a nontraditional defense contractor as commercial items in accordance with paragraph (a)(iii)(A) or (B) of this section.
+
+[77 FR 14480, Mar. 12, 2012, as amended at 80 FR 10390, Feb. 26, 2015; 81 FR 65563, Sept. 23, 2016; 83 FR 4442, Jan. 31, 2018; 85 FR 60921, Sept. 29, 2020]

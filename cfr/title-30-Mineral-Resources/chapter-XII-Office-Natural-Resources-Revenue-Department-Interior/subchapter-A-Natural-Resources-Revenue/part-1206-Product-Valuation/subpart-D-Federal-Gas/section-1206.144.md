@@ -8,7 +8,7 @@ If ONRR decides to value your gas, residue gas, or gas plant products for royalt
 
 (c) Public sources of price or market information that ONRR deems to be reliable.
 
-(d) Information available or reported to ONRR, including, but not limited to, on Form ONRR-2014 and Form ONRR-4054.
+(d) Information available or reported to ONRR, including, but not limited to, on form ONRR-2014 and form ONRR-4054.
 
 (e) Costs of transportation or processing if ONRR determines that they are applicable.
 

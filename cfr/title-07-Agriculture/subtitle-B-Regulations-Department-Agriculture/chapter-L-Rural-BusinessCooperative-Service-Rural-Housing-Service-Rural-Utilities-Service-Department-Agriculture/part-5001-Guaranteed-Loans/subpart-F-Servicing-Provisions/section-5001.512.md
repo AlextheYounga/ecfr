@@ -1,0 +1,3 @@
+##### § 5001.512 Additional expenditures and loans. #####
+
+The lender shall not make additional expenditures on behalf of, or provide new loans to, the borrower without notification to the Agency even though such expenditures or loans will not be guaranteed. The lender shall not approve additional expenditures or new loans where the expenditure or loan will violate, or cause a violation of, any of the loan covenants in the borrower's loan agreement.

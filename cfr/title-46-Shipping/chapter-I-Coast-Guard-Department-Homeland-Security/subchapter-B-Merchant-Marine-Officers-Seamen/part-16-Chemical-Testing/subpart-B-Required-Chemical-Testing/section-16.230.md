@@ -38,7 +38,7 @@
 
 (i) If a given covered crewmember is subject to random drug testing under the drug testing rules of more than one DOT agency for the same marine employer, the crewmember shall be subject to random drug testing at the percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the crewmember's function.
 
-(j) If a marine employer is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the marine employer may -
+(j) If a marine employer is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the marine employer may—
 
 (1) Establish separate pools for random selection, with each pool containing the covered crewmembers who are subject to testing at the same required rate; or
 
@@ -46,4 +46,4 @@
 
 (k) An individual may not be engaged or employed, including self-employment, on a vessel in a position as master, operator, or person in charge for which a credential is required by law or regulation unless all crewmembers covered by this section are subject to the random testing requirements of this section.
 
-[CGD 90-014, 56 FR 31034, July 8, 1991, as amended by 59 FR 62227, Dec. 2, 1994; USCG-2006-24371, 74 FR 11264, Mar. 16, 2009]Editorial Note:At 74 FR 11264, Mar. 16, 2009, § 16.230 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[CGD 90-014, 56 FR 31034, July 8, 1991, as amended by 59 FR 62227, Dec. 2, 1994; USCG-2006-24371, 74 FR 11264, Mar. 16, 2009]

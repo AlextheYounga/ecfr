@@ -1,0 +1,3 @@
+##### § 29.514 When procuring property or services with funds included in a funding agreement, can a Tribe follow its own procurement standards? #####
+
+When procuring property or services with funds included in a funding agreement, a Tribe must have standards that conform to the procurement standards in this subpart. If a Tribe relies upon procurement standards different than those described in § 29.515, it must identify the standards it will use in in the initial negotiation of a funding agreement or as a waiver request to an existing funding agreement. The Tribe must submit the request to the Department in accordance with § 29.534.

@@ -1,7 +1,5 @@
 ##### § 412.2 Basis of payment. #####
 
-Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
-
 (a) *Payment on a per discharge basis.* Under both the inpatient operating and inpatient capital-related prospective payment systems, hospitals are paid a predetermined amount per discharge for inpatient hospital services furnished to Medicare beneficiaries. The prospective payment rate for each discharge (as defined in § 412.4) is determined according to the methodology described in subpart D, E, or G of this part, as appropriate, for operating costs, and according to the methodology described in subpart M of this part for capital-related costs. An additional payment is made for both inpatient operating and inpatient capital-related costs, in accordance with subpart F of this part, for cases that are extraordinarily costly to treat.
 
 (b) *Payment in full.* (1) The prospective payment amount paid for inpatient hospital services is the total Medicare payment for the inpatient operating costs (as described in paragraph (c) of this section) and the inpatient capital-related costs (as described in paragraph (d) of this section) incurred in furnishing services covered by the Medicare program.
@@ -51,6 +49,8 @@ Link to an amendment published at 85 FR 59020, Sept. 18, 2020.
 (4) The acquisition costs of hearts, kidneys, livers, lungs, pancreas, and intestines (or multivisceral organs) incurred by approved transplantation centers.
 
 (5) The costs of qualified nonphysician anesthetists' services, as described in § 412.113(c).
+
+(6) For cost reporting periods beginning on or after October 1, 2020, the costs of allogenic hematopoietic stem cell acquisition, as described in § 412.113(e), for the purpose of an allogeneic hematopoietic stem cell transplant.
 
 (f) *Additional payments to hospitals.* In addition to payments based on the prospective payment system rates for inpatient operating and inpatient capital-related costs, hospitals receive payments for the following:
 

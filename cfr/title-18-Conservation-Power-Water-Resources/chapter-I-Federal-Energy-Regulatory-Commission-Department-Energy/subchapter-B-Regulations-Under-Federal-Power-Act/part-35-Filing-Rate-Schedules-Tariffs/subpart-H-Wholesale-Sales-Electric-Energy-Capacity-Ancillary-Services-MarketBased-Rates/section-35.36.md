@@ -1,7 +1,5 @@
 ##### § 35.36 Generally. #####
 
-Link to an amendment published at 84 FR 36428, July 26, 2019.
-
 (a) For purposes of this subpart:
 
 (1) *Seller* means any person that has authorization to or seeks authorization to engage in sales for resale of electric energy, capacity or ancillary services at market-based rates under section 205 of the Federal Power Act.
@@ -42,6 +40,8 @@ Link to an amendment published at 84 FR 36428, July 26, 2019.
 
 (v) For purposes of paragraph (a)(9), owning, controlling or holding with power to vote, less than 10 percent of the outstanding voting securities of a specified company creates a rebuttable presumption of lack of control.
 
+(10) *Ultimate upstream affiliate means* the furthest upstream affiliate(s) in the ownership chain. The term “upstream affiliate” means any entity described in § 35.36(a)(9)(i).
+
 (b) The provisions of this subpart apply to all Sellers authorized, or seeking authorization, to make sales for resale of electric energy, capacity or ancillary services at market-based rates unless otherwise ordered by the Commission.
 
-[Order 697, 72 FR 40038, July 20, 2007, as amended by Order 697-A, 73 FR 25912, May 7, 2008; Order 697-B, 73 FR 79627, Dec. 30, 2008; Order 816, 80 FR 67108, Oct. 30, 2015; Order 816-A, 81 FR 33383, May 26, 2016]
+[Order 697, 72 FR 40038, July 20, 2007, as amended by Order 697-A, 73 FR 25912, May 7, 2008; Order 697-B, 73 FR 79627, Dec. 30, 2008; Order 816, 80 FR 67108, Oct. 30, 2015; Order 816-A, 81 FR 33383, May 26, 2016; Order 860, 84 FR 36428, July 26, 2019]

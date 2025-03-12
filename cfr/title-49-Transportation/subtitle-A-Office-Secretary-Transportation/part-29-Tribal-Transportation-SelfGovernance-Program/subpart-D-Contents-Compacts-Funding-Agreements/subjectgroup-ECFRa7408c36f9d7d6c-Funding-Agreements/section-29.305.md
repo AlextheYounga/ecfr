@@ -1,0 +1,3 @@
+##### § 29.305 When can a Tribe initiate negotiation of a funding agreement? #####
+
+Concurrent with or after a Tribe has entered into a compact with the Department, the Department and the Tribe will negotiate a funding agreement, consistent with §§ 29.101 through 29.109. The funding agreement is the legally binding written agreement that identifies the funds the Tribe will use to carry out its PSFAs, and sets forth the terms and conditions under which the Tribe will receive the funds.

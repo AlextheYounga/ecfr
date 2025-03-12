@@ -1,8 +1,6 @@
 ##### § 405.1811 Right to contractor hearing; contents of, and adding issues to, hearing request. #####
 
-Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
-
-(a) *Right to hearing on final contractor determination.* A provider (but no other individual, entity, or party) has a right to a contractor hearing, as a single provider appeal, with respect to a final contractor or Secretary determination for the provider's cost reporting period, if -
+(a) *Right to hearing on final contractor determination.* A provider (but no other individual, entity, or party) has a right to a contractor hearing, as a single provider appeal, with respect to a final contractor or Secretary determination for the provider's cost reporting period, if—
 
 (1) The provider is dissatisfied with the contractor's final determination of the total amount of reimbursement due the provider, as set forth in the contractor's written notice pursuant to § 405.1803. Exception: If a final contractor determination is reopened under § 405.1885, any review by the contractor hearing officer must be limited solely to those matters that are specifically revised in the contractor's revised final determination (§§ 405.1887(d), 405.1889(b), and the “Exception” in § 405.1832(c)(2)(i)).
 
@@ -24,9 +22,9 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (3) A copy of the final contractor or Secretary determination under appeal and any other documentary evidence the provider considers necessary to satisfy the hearing request requirements of paragraphs (b)(1) and (b)(2) of this section.
 
-(c) *Right to hearing based on untimely contractor determination.* Notwithstanding the provisions of paragraph (a) of this section, a provider (but no other individual, entity, or party) has a right to a contractor hearing, as a single provider appeal, for specific items for a cost reporting period if -
+(c) *Right to hearing based on untimely contractor determination.* Notwithstanding the provisions of paragraph (a) of this section, a provider (but no other individual, entity, or party) has a right to a contractor hearing, as a single provider appeal, for specific items for a cost reporting period if—
 
-(1) A final contractor determination for the provider's cost reporting period is not issued (through no fault of the provider) within 12 months after the date of receipt by the contractor of the provider's perfected cost report or amended cost report (as specified in § 413.24(f) of this chapter). The date of receipt by the contractor of the provider's perfected cost report or amended cost report is presumed to be the date the contractor stamped “Received” on such cost report unless it is shown by a preponderance of the evidence that the contractor received the cost report on an earlier date.
+(1) A final contractor determination for the provider's cost reporting period is not issued (through no fault of the provider) within 12 months after the date of receipt by the contractor of the provider's perfected cost report or amended cost report (as specified in § 413.24(f) of this chapter). The date of receipt by the contractor of the provider's perfected cost report or amended cost report is presumed to be the date of electronic delivery, or the date the contractor stamped “Received” on such cost report unless it is shown by a preponderance of the evidence that the contractor received the cost report on an earlier date.
 
 (2) Unless the provider qualifies for a good cause extension under § 405.1813, the date of receipt by the contractor of the provider's hearing request is no later than 180 days after the expiration of the 12 month period for issuance of the final contractor determination (as determined in accordance with paragraph (c)(1) of this section); and
 
@@ -46,7 +44,7 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (3) A copy of any documentary evidence the provider considers necessary to satisfy the hearing request requirements of paragraphs (d)(1) and (d)(2) of this section.
 
-(e) *Adding issues to the hearing request.* After filing a hearing request in accordance with paragraphs (a) and (b), or paragraphs (c) and (d), of this section, a provider may add specific Medicare payment issues to the original hearing request by submitting a written request to the contractor hearing officer, only if -
+(e) *Adding issues to the hearing request.* After filing a hearing request in accordance with paragraphs (a) and (b), or paragraphs (c) and (d), of this section, a provider may add specific Medicare payment issues to the original hearing request by submitting a written request to the contractor hearing officer, only if—
 
 (1) The request to add issues complies with the requirements of paragraphs (a) and (b), or paragraphs (c) and (d), of this section as to each new specific item at issue.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 85 FR 59018, Sept. 18, 2020.
 
 (3) The contractor hearing officer receives the provider's request to add issues no later than 60 days after the expiration of the applicable 180-day period prescribed in paragraph (a)(3) or paragraph (c)(2) of this section.
 
-[73 FR 30244, May 23, 2008, as amended at 79 FR 50349, Aug. 22, 2014; 79 FR 59680, Oct. 3, 2014; 80 FR 70597, Nov. 13, 2015]
+[73 FR 30244, May 23, 2008, as amended at 79 FR 50349, Aug. 22, 2014; 79 FR 59680, Oct. 3, 2014; 80 FR 70597, Nov. 13, 2015; 85 FR 59018, Sept. 18, 2020]

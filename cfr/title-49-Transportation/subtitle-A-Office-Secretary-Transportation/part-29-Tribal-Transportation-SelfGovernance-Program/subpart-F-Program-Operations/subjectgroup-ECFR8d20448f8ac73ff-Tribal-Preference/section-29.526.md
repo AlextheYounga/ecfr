@@ -1,0 +1,3 @@
+##### § 29.526 When do Tribal employment law and contract preference laws govern? #####
+
+To the extent provided in applicable Federal law, Tribal law governs Indian preference policies in the performance of a compact and funding agreement. When a compact or funding agreement is intended to benefit one Tribe, the Tribal employment or contract preference laws adopted by such Tribe will govern with respect to the administration of the compact and funding agreement.

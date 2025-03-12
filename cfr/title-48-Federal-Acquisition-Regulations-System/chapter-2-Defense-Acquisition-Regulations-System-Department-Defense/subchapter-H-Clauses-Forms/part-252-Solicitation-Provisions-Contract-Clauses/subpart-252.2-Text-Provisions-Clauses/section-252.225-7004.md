@@ -1,22 +1,20 @@
-##### 252.225-7004 Report of Intended Performance Outside the United States and Canada - Submission after Award. #####
-
-Link to an amendment published at 85 FR 61504, Sept. 29, 2020.
+##### 252.225-7004 Report of Intended Performance Outside the United States and Canada—Submission after Award. #####
 
 As prescribed in 225.7204(b), use the following clause:
 
-Report of Intended Performance Outside the United States and Canada - Submission After Award (MAY 2019)
+Report of Intended Performance Outside the United States and Canada—Submission After Award (OCT 2020)
 
-(a) *Definition.* As used in this clause -
+(a) *Definition.* As used in this clause—
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-(b) *Reporting requirement.* The Contractor shall submit a report in accordance with this clause, if the Contractor or a first-tier subcontractor will perform any part of this contract outside the United States and Canada that -
+(b) *Reporting requirement.* The Contractor shall submit a report in accordance with this clause, if the Contractor or a first-tier subcontractor will perform any part of this contract outside the United States and Canada that—
 
-(1) Exceeds the threshold specified in Defense Federal Acquisition Regulation Supplement 225.870-4(c)(2)(i)(A)(*1*) on the date of award of this contract; and
+(1) Exceeds the threshold specified in Defense Federal Acquisition Regulation Supplement 225.7201(a) on the date of award of this contract; and
 
 (2) Could be performed inside the United States or Canada.
 
-(c) *Submission of reports.* The Contractor -
+(c) *Submission of reports.* The Contractor—
 
 (1) Shall submit a report as soon as practical after the information is known;
 
@@ -26,16 +24,16 @@ Report of Intended Performance Outside the United States and Canada - Submission
 
 (4) Shall submit all reports to the Contracting Officer; and
 
-(5) Shall submit a copy of each report to: Deputy Director of Defense Procurement and Acquisition Policy (Contract Policy and International Contracting), OUSD(AT&L) DPAP/CPIC, Washington, DC 20301-3060.
+(5) Shall submit a copy of each report to: Principal Director, Defense Pricing and Contracting (Contract Policy), Washington, DC 20301-3060.
 
-(d) *Report format.* The Contractor -
+(d) *Report format.* The Contractor—
 
-(1) Shall submit reports using -
+(1) Shall submit reports using—
 
 (i) DD Form 2139, Report of Contract Performance Outside the United States; or
 
 (ii) A computer-generated report that contains all information required by DD Form 2139; and
 
-(2) May obtain copies of DD Form 2139 from the Contracting Officer or via the Internet at *http://www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm.*
+(2) May obtain copies of DD Form 2139 from the Contracting Officer or via the Internet at *https://www.esd.whs.mil/Directives/forms/.*
 
-(End of clause)[70 FR 20839, Apr. 22, 2005, as amended at 70 FR 35546, June 21, 2005; 71 FR 75893, Dec. 19, 2006; 72 FR 30278, May 31, 2007; 75 FR 45074, Aug. 2, 2010; 78 FR 73450, Dec. 6, 2013; 80 FR 36905, June 26, 2015; 84 FR 25188, May 31, 2019]Editorial Note:At 79 FR 11342, Feb. 28, 2014, § 252.225-7004 was amended by revising the clause date and amending paragraph (a); however, the amendments could not be incorporated as indicated.
+(End of clause)[70 FR 20839, Apr. 22, 2005, as amended at 70 FR 35546, June 21, 2005; 71 FR 75893, Dec. 19, 2006; 72 FR 30278, May 31, 2007; 75 FR 45074, Aug. 2, 2010; 78 FR 73450, Dec. 6, 2013; 80 FR 36905, June 26, 2015; 84 FR 25188, May 31, 2019; 85 FR 61504, Sept. 29, 2020]Editorial Note:At 79 FR 11342, Feb. 28, 2014, § 252.225-7004 was amended by revising the clause date and amending paragraph (a); however, the amendments could not be incorporated as indicated.

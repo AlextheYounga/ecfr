@@ -1,0 +1,3 @@
+##### § 29.105 Will negotiations commence or conclude within a specified time period? #####
+
+Unless the Department and the Tribe agree otherwise, negotiations will commence within 60 days of the Department's receipt of the Tribe's written request to negotiate a compact, funding agreement, or amendment. The Department and the Tribe should make every effort to conclude negotiations within 90 days from the date on which negotiations commence, unless they agree to extend the time period for negotiations. Negotiations may proceed by electronic mail, teleconferences, or in-person meetings.

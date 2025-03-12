@@ -1,0 +1,3 @@
+##### § 29.210 How does the Department reject a final offer? #####
+
+The Department must reject a final offer by providing written notice to the Tribe based on the criteria in § 29.209 no more than 45 days after receipt of a final offer by the Self-Governance Official, or within a longer time period as agreed to by the Department and the Tribe consistent with this subpart. The notice must explain the basis for the rejection of the final offer.

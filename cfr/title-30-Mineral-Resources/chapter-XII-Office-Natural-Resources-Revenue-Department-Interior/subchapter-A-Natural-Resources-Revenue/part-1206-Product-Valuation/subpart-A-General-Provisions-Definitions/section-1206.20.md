@@ -8,15 +8,15 @@
 
 (2) If there is ownership or common ownership of 10 through 50 percent of the voting securities or instruments of ownership, or other forms of ownership, of another person, ONRR will consider each of the following factors to determine if there is control under the circumstances of a particular case:
 
-(i) The extent to which there are common officers or directors
+(i) The extent to which there are common officers or directors.
 
-(ii) With respect to the voting securities, or instruments of ownership or other forms of ownership: the percentage of ownership or common ownership, the relative percentage of ownership or common ownership compared to the percentage(s) of ownership by other persons, if a person is the greatest single owner, or if there is an opposing voting bloc of greater ownership
+(ii) With respect to the voting securities, or instruments of ownership or other forms of ownership: The percentage of ownership or common ownership, the relative percentage of ownership or common ownership compared to the percentage(s) of ownership by other persons, if a person is the greatest single owner, or if there is an opposing voting bloc of greater ownership.
 
-(iii) Operation of a lease, plant, pipeline, or other facility
+(iii) Operation of a lease, plant, pipeline, or other facility.
 
-(iv) The extent of others owners' participation in operations and day-to-day management of a lease, plant, or other facility
+(iv) The extent of others owners' participation in operations and day-to-day management of a lease, plant, or other facility.
 
-(v) Other evidence of power to exercise control over or common control with another person
+(v) Other evidence of power to exercise control over or common control with another person.
 
 (3) Regardless of any percentage of ownership or common ownership, relatives, either by blood or marriage, are affiliates.
 
@@ -56,7 +56,7 @@
 
 *FERC* means Federal Energy Regulatory Commission.
 
-*Field* means a geographic region situated over one or more subsurface oil and gas reservoirs and encompassing at least the outermost boundaries of all oil and gas accumulations known within those reservoirs, vertically projected to the land surface. State oil and gas regulatory agencies usually name onshore fields and designate their official boundaries. BOEM names and designates boundaries of OCS fields.
+*Field* mean*s* a geographic region situated over one or more subsurface oil and gas reservoirs and encompassing at least the outermost boundaries of all oil and gas accumulations known within those reservoirs, vertically projected to the land surface. State oil and gas regulatory agencies usually name onshore fields and designate their official boundaries. BOEM names and designates boundaries of OCS fields.
 
 *Gas* means any fluid, either combustible or non-combustible, hydrocarbon or non-hydrocarbon, which is extracted from a reservoir and which has neither independent shape nor volume, but tends to expand indefinitely. It is a substance that exists in a gaseous or rarefied state under standard temperature and pressure conditions.
 
@@ -70,37 +70,15 @@
 
 (1) *Oil.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government
-
-(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf
-
-(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements
-
-(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
-
-(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs
-
-(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts
+(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts
 
 (2) *Gas, residue gas, and gas plant products.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government
-
-(ii) Reimbursements for royalties, fees, and any other reimbursements
-
-(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
-
-(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
+(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government(ii) Reimbursements for royalties, fees, and any other reimbursements(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
 
 (3) *Coal.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as crushing, sizing, screening, storing, mixing, loading, treatment with substances including chemicals or oil, and other preparation of the coal that the lessee must perform at no cost to the Federal Government or Indian lessor
-
-(ii) Reimbursements for royalties, fees, and any other reimbursements
-
-(iii) Tax reimbursements even though the Federal or Indian royalty interest may be exempt from taxation
-
-(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
+(i) Payments for services such as crushing, sizing, screening, storing, mixing, loading, treatment with substances including chemicals or oil, and other preparation of the coal that the lessee must perform at no cost to the Federal Government or Indian lessor(ii) Reimbursements for royalties, fees, and any other reimbursements(iii) Tax reimbursements even though the Federal or Indian royalty interest may be exempt from taxation(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
 
 *Index* means:
 
@@ -188,7 +166,7 @@
 
 *Rocky Mountain Region* means the States of Colorado, Montana, North Dakota, South Dakota, Utah, and Wyoming, except for those portions of the San Juan Basin and other oil-producing fields in the “Four Corners” area that lie within Colorado and Utah.
 
-*Roll* means an adjustment to the NYMEX price that is calculated as follows: Roll = .6667 × (P0−P1) + .3333 × (P0−P2), where: P0= the average of the daily NYMEX settlement prices for deliveries during the prompt month that is the same as the month of production, as published for each day during the trading month for which the month of production is the prompt month; P1 = the average of the daily NYMEX settlement prices for deliveries during the month following the month of production, published for each day during the trading month for which the month of production is the prompt month; and P2 = the average of the daily NYMEX settlement prices for deliveries during the second month following the month of production, as published for each day during the trading month for which the month of production is the prompt month. Calculate the average of the daily NYMEX settlement prices using only the days on which such prices are published (excluding weekends and holidays).
+*Roll* means an adjustment to the NYMEX price that is calculated as follows: Roll = .6667 × (P0−P1) + .3333 × (P0−P2), where: P0 = the average of the daily NYMEX settlement prices for deliveries during the prompt month that is the same as the month of production, as published for each day during the trading month for which the month of production is the prompt month; P1 = the average of the daily NYMEX settlement prices for deliveries during the month following the month of production, published for each day during the trading month for which the month of production is the prompt month; and P2 = the average of the daily NYMEX settlement prices for deliveries during the second month following the month of production, as published for each day during the trading month for which the month of production is the prompt month. Calculate the average of the daily NYMEX settlement prices using only the days on which such prices are published (excluding weekends and holidays).
 
 (1) *Example 1. Prices in Out Months are Lower Going Forward:* The month of production for which you must determine royalty value is December. December was the prompt month (for year 2011) from October 21 through November 18. January was the first month following the month of production, and February was the second month following the month of production. P0, therefore, is the average of the daily NYMEX settlement prices for deliveries during December published for each business day between October 21 and November 18. P1 is the average of the daily NYMEX settlement prices for deliveries during January published for each business day between October 21 and November 18. P2 is the average of the daily NYMEX settlement prices for deliveries during February published for each business day between October 21 and November 18. In this example, assume that P0 = $95.08 per bbl, P1 = $95.03 per bbl, and P2 = $94.93 per bbl. In this example (a declining market), Roll = .6667 × ($95.08−$95.03) + .3333 × ($95.08−$94.93) = $0.03 + $0.05 = $0.08. You add this number to the NYMEX price.
 
@@ -196,7 +174,7 @@
 
 *Sale* means a contract between two persons where:
 
-(1) The seller unconditionally transfers title to the oil, gas, gas plant product, or coal to the buyer and does not retain any related rights, such as the right to buy back similar quantities of oil, gas, gas plant product, or coal from the buyer elsewhere;
+(1) The seller unconditionally transfers title to the oil, gas, gas plant product, or coal to the buyer and does not retain any related rights, such as the right to buy back similar quantities of oil, gas, gas plant product, or coal from the buyer elsewhere; and
 
 (2) The buyer pays money or other consideration for the oil, gas, gas plant product, or coal; and
 
@@ -216,7 +194,7 @@
 
 *Tonnage* means tons of coal measured in short tons.
 
-*Trading month* means the period extending from the second business day before the 25th day of the second calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the second business day before the last business day preceding the 25th day of that month) through the third business day before the 25th day of the calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the third business day before the last business day preceding the 25th day of that month), unless the NYMEX publishes a different definition or different dates on its official Web site, *www.cmegroup.com,* in which case, the NYMEX definition will apply.
+*Trading month* means the period extending from the second business day before the 25th day of the second calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the second business day before the last business day preceding the 25th day of that month) through the third business day before the 25th day of the calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the third business day before the last business day preceding the 25th day of that month), unless the NYMEX publishes a different definition or different dates on its official website, *www.cmegroup.com*, in which case, the NYMEX definition will apply.
 
 *Transportation allowance* means a deduction in determining royalty value for the reasonable, actual costs that the lessee incurs for moving:
 

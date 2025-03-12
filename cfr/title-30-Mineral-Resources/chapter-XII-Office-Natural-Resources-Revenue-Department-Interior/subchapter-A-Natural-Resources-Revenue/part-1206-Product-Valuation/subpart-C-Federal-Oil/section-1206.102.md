@@ -1,49 +1,37 @@
-##### § 1206.102 How do I calculate royalty value for oil that I or my affiliate sell(s) under an arm's-length contract? #####
+##### § 1206.102 How do I value oil not sold under an arm's-length contract? #####
 
-(a) The value of oil under this section is the gross proceeds accruing to the seller under the arm's-length contract, less applicable allowances determined under § 1206.110 or § 1206.111. This value does not apply if you exercise an option to use a different value provided in paragraph (d)(1) or (d)(2)(i) of this section, or if one of the exceptions in paragraph (c) of this section applies. Use this paragraph (a) to value oil that:
+This section explains how to value oil that you may not value under § 1206.101 or that you elect under § 1206.101(c)(1) to value under this section, unless ONRR decides to value your oil under 1206.105. First, determine if paragraph (a), (b), or (c) of this section applies to production from your lease, or if you may apply paragraph (d) or (e) of this section with ONRR's approval.
 
-(1) You sell under an arm's-length sales contract; or
+(a) *Production from leases in California or Alaska.* Value is the average of the daily mean ANS spot prices published in any ONRR-approved publication during the trading month most concurrent with the production month. For example, if the production month is June, calculate the average of the daily mean prices using the daily ANS spot prices published in the ONRR-approved publication for all of the business days in June.
 
-(2) You sell or transfer to your affiliate or another person under a non-arm's-length contract and that affiliate or person, or another affiliate of either of them, then sells the oil under an arm's-length contract, unless you exercise the option provided in paragraph (d)(2)(i) of this section.
+(1) To calculate the daily mean spot price, you must average the daily high and low prices for the month in the selected publication.
 
-(b) If you have multiple arm's-length contracts to sell oil produced from a lease that is valued under paragraph (a) of this section, the value of the oil is the volume-weighted average of the values established under this section for each contract for the sale of oil produced from that lease.
+(2) You must use only the days and corresponding spot prices for which such prices are published.
 
-(c) This paragraph contains exceptions to the valuation rule in paragraph (a) of this section. Apply these exceptions on an individual contract basis.
+(3) You must adjust the value for applicable location and quality differentials, and you may adjust it for transportation costs, under § 1206.111.
 
-(1) In conducting reviews and audits, if ONRR determines that any arm's-length sales contract does not reflect the total consideration actually transferred either directly or indirectly from the buyer to the seller, ONRR may require that you value the oil sold under that contract either under § 1206.103 or at the total consideration received.
+(4) After you select an ONRR-approved publication, you may not select a different publication more often than once every two years, unless the publication you use is no longer published or ONRR revokes its approval of the publication. If you must change publications, you must begin a new two-year period.
 
-(2) You must value the oil under § 1206.103 if ONRR determines that the value under paragraph (a) of this section does not reflect the reasonable value of the production due to either:
+(b) *Production from leases in the Rocky Mountain Region.* This paragraph provides methods and options for valuing your production under different factual situations. You must consistently apply paragraph (b)(2) or (3) of this section to value all of your production from the same unit, communitization agreement, or lease (if the lease or a portion of the lease is not part of a unit or communitization agreement) that you cannot value under § 1206.101 or that you elect under § 1206.101(c)(1) to value under this section.
 
-(i) Misconduct by or between the parties to the arm's-length contract; or
+(1) You may elect to value your oil under either paragraph (b)(2) or (3) of this section. After you select either paragraph (b)(2) or (3) of this section, you may not change to the other method more often than once every two years, unless the method you have been using is no longer applicable and you must apply the other paragraph. If you change methods, you must begin a new two-year period.
 
-(ii) Breach of your duty to market the oil for the mutual benefit of yourself and the lessor.
+(2) Value is the volume-weighted average of the gross proceeds accruing to the seller under your or your affiliate's arm's-length contracts for the purchase or sale of production from the field or area during the production month.
 
-(A) ONRR will not use this provision to simply substitute its judgment of the market value of the oil for the proceeds received by the seller under an arm's-length sales contract.
+(i) The total volume purchased or sold under those contracts must exceed 50 percent of your and your affiliate's production from both Federal and non-Federal leases in the same field or area during that month.
 
-(B) The fact that the price received by the seller under an arm's-length contract is less than other measures of market price, such as index prices, is insufficient to establish breach of the duty to market unless ONRR finds additional evidence that the seller acted unreasonably or in bad faith in the sale of oil from the lease.
+(ii) Before calculating the volume-weighted average, you must normalize the quality of the oil in your or your affiliate's arm's-length purchases or sales to the same gravity as that of the oil produced from the lease.
 
-(d)(1) If you enter into an arm's-length exchange agreement, or multiple sequential arm's-length exchange agreements, and following the exchange(s) you or your affiliate sell(s) the oil received in the exchange(s) under an arm's-length contract, then you may use either § 1206.102(a) or § 1206.103 to value your production for royalty purposes.
+(3) Value is the NYMEX price (without the roll), adjusted for applicable location and quality differentials and transportation costs under § 1206.113.
 
-(i) If you use § 1206.102(a), your gross proceeds are the gross proceeds under your or your affiliate's arm's-length sales contract after the exchange(s) occur(s). You must adjust your gross proceeds for any location or quality differential, or other adjustments, you received or paid under the arm's-length exchange agreement(s). If ONRR determines that any arm's-length exchange agreement does not reflect reasonable location or quality differentials, ONRR may require you to value the oil under § 1206.103. You may not otherwise use the price or differential specified in an arm's-length exchange agreement to value your production.
+(4) If you demonstrate to ONRR's satisfaction that paragraphs (b)(2) through (3) of this section result in an unreasonable value for your production as a result of circumstances regarding that production, ONRR's Director may establish an alternative valuation method.
 
-(ii) When you elect under § 1206.102(d)(1) to use § 1206.102(a) or § 1206.103, you must make the same election for all of your production from the same unit, communitization agreement, or lease (if the lease is not part of a unit or communitization agreement) sold under arm's-length contracts following arm's-length exchange agreements. You may not change your election more often than once every 2 years.
+(c) *Production from leases not located in California, Alaska, or the Rocky Mountain Region.*
 
-(2)(i) If you sell or transfer your oil production to your affiliate and that affiliate or another affiliate then sells the oil under an arm's-length contract, you may use either § 1206.102(a) or § 1206.103 to value your production for royalty purposes.
+(1) Value is the NYMEX price, plus the roll, adjusted for applicable location and quality differentials and transportation costs under § 1206.113.
 
-(ii) When you elect under § 1206.102(d)(2)(i) to use § 1206.102(a) or § 1206.103, you must make the same election for all of your production from the same unit, communitization agreement, or lease (if the lease is not part of a unit or communitization agreement) that your affiliates resell at arm's length. You may not change your election more often than once every 2 years.
+(2) If ONRR's Director determines that the use of the roll no longer reflects prevailing industry practice in crude oil sales contracts or that the most common formula that industry uses to calculate the roll changes, ONRR may terminate or modify the use of the roll under paragraph (c)(1) of this section at the end of each two-year period as of January 1, 2017, through a notice published in the Federal Register not later than 60 days before the end of the two-year period. ONRR will explain the rationale for terminating or modifying the use of the roll in this notice.
 
-(e) If you value oil under paragraph (a) of this section:
+(d) *Unreasonable value.* If ONRR determines that the NYMEX price or ANS spot price does not represent a reasonable royalty value in any particular case, ONRR may decide to value your oil under § 1206.105.
 
-(1) ONRR may require you to certify that your or your affiliate's arm's-length contract provisions include all of the consideration the buyer must pay, either directly or indirectly, for the oil.
-
-(2) You must base value on the highest price the seller can receive through legally enforceable claims under the contract.
-
-(i) If the seller fails to take proper or timely action to receive prices or benefits it is entitled to, you must pay royalty at a value based upon that obtainable price or benefit. But you will owe no additional royalties unless or until the seller receives monies or consideration resulting from the price increase or additional benefits, if:
-
-(A) The seller makes timely application for a price increase or benefit allowed under the contract;
-
-(B) The purchaser refuses to comply; and
-
-(C) The seller takes reasonable documented measures to force purchaser compliance.
-
-(ii) Paragraph (e)(2)(i) of this section will not permit you to avoid your royalty payment obligation where a purchaser fails to pay, pays only in part, or pays late. Any contract revisions or amendments that reduce prices or benefits to which the seller is entitled must be in writing and signed by all parties to the arm's-length contract.
+(e) *Production delivered to your refinery and the NYMEX price or ANS spot price is an unreasonable value.* If ONRR determines that the NYMEX price or ANS spot price does not represent a reasonable royalty value in any particular case, ONRR may decide to value your oil under § 1206.105.

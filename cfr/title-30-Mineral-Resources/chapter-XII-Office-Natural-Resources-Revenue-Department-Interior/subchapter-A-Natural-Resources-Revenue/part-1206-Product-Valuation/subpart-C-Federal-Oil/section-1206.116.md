@@ -1,5 +1,13 @@
-##### § 1206.116 What interest applies if I improperly report a transportation allowance? #####
+##### § 1206.116 What are my reporting requirements under a non-arm's-length transportation contract? #####
 
-(a) If you or your affiliate deducts a transportation allowance on form ONRR-2014 that exceeds 50 percent of the value of the oil transported without obtaining ONRR's prior approval under § 1206.109, you must pay interest on the excess allowance amount taken from the date that amount is taken to the date you or your affiliate files an exception request that ONRR approves. If you do not file an exception request, or if ONRR does not approve your request, you must pay interest on the excess allowance amount taken from the date that amount is taken until the date you pay the additional royalties owed.
+(a) You must use a separate entry on form ONRR-2014 to notify ONRR of an allowance based on transportation costs that you or your affiliate incur(s).
 
-(b) If you or your affiliate takes a deduction for transportation on form ONRR-2014 by improperly netting an allowance against the oil instead of reporting the allowance as a separate entry, ONRR may assess a civil penalty under 30 CFR part 1241.
+(b)(1) For new non-arm's-length transportation facilities or arrangements, you must base your initial deduction on estimates of allowable transportation costs for the applicable period.
+
+(2) You must use your or your affiliate's most recently available operations data for the transportation system as your estimate, if available. If such data is not available, you must use estimates based on data for similar transportation systems.
+
+(3) Section 1206.118 applies when you amend your report based on the actual costs.
+
+(c) ONRR may require you or your affiliate to submit all data used to calculate the allowance deduction. You may find recordkeeping requirements in parts 1207 and 1212 of this chapter.
+
+(d) If you are authorized under § 1206.112(j) to use an exception to the requirement to calculate your actual transportation costs, you must follow the reporting requirements of § 1206.115.

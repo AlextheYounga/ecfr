@@ -1,0 +1,3 @@
+##### § 29.206 May the Department request and obtain an extension of time of the 45-day review period? #####
+
+The Department may request an extension of time before the expiration of the 45-day review period. The Tribe may either grant or deny the Department's request for an extension. Any grant of extension of time must be in writing and signed by a person authorized by the Tribe to grant the extension before the expiration of the 45-day review period.

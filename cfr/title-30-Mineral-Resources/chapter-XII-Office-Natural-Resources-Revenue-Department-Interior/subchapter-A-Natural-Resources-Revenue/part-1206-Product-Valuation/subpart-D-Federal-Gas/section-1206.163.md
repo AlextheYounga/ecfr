@@ -1,6 +1,6 @@
 ##### § 1206.163 What are my reporting requirements under a non-arm's-length processing contract? #####
 
-(a) You must use a separate entry on Form ONRR-2014 to notify ONRR of an allowance based on non-arm's-length processing costs that you or your affiliate incur(s).
+(a) You must use a separate entry on form ONRR-2014 to notify ONRR of an allowance based on non-arm's-length processing costs that you or your affiliate incur(s).
 
 (b)(1) For new non-arm's-length processing facilities or arrangements, you must base your initial deduction on estimates of allowable gas processing costs for the applicable period.
 

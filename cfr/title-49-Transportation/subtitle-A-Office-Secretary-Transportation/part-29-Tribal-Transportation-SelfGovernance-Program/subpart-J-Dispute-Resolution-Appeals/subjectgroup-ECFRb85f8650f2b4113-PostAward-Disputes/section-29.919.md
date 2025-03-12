@@ -1,0 +1,7 @@
+##### § 29.919 When must the Self-Governance Official issue a written decision on the claim? #####
+
+(a) If the claim is for less than $100,000, the Tribe may request that the Self-Governance Official issue a decision within 60 days of the date of receipt of the claim. If the Tribe does not request that the Self-Governance Official issue a decision within 60 days of the date of receipt of the claim, the Self-Governance Official must issue a decision within a reasonable time, which will depend on the size and complexity of the claim and the adequacy of the information provided in support of the claim. The Tribe must request a decision by the Self-Governance Official before seeking an appeal in accordance with paragraph (c) of this section.
+
+(b) If the claim is for more than $100,000, the Self-Governance Official must issue a decision within 60 days of the date of receipt of the claim or notify the Tribe of the time within which the Self-Governance Official will issue a decision. Such time frame must be reasonable, which will depend on the size and complexity of the claim and the adequacy of the information provided in support of the claim.
+
+(c) If the Self-Governance Official does not issue a decision within these time frames, a Tribe may treat the delay as a denial of its claim and appeal the decision in accordance with § 29.921.

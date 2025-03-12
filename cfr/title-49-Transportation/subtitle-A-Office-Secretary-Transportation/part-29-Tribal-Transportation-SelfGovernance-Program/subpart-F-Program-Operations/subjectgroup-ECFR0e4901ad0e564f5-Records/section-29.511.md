@@ -1,0 +1,5 @@
+##### § 29.511 Are Tribal records subject to the Freedom of Information Act and Federal Privacy Act? #####
+
+(a) Except to the extent that a Tribe specifies otherwise in its compact or funding agreement, the records of the Tribe retained by the Tribe will not be considered Federal records for purposes of chapter 5 of title 5 of the U.S. Code.
+
+(b) Tribal records submitted to the Department are considered Federal records for the purposes of the Freedom of Information Act (FOIA) and Federal Privacy Act. If a Tribe provides information to the Department that the Tribe considers to be trade secret, or confidential commercial or financial information, the Tribe must identify it as such. The Department will not disclose the information to the public, except to the extent required by law. In the event the Department receives a FOIA request for such information, the Department will follow the procedures described in its FOIA regulations at 49 CFR part 7.

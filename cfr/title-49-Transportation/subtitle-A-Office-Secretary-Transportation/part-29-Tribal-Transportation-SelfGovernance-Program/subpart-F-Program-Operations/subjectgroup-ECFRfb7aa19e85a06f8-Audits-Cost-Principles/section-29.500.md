@@ -1,0 +1,3 @@
+##### § 29.500 Must a Tribe undertake an annual audit? #####
+
+A Tribe that meets the applicable thresholds under 2 CFR 200.501 must undertake an annual audit pursuant to the regulations set forth in 2 CFR part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, except to the extent that part 200 exempts a Tribe from complying with the audit requirements.
