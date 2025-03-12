@@ -1,5 +1,7 @@
 ##### § 1.707-5 Disguised sales of property to partnership; special rules relating to liabilities. #####
 
+Link to an amendment published at 84 FR 54028, Oct. 9, 2019.
+
 (a) *Liability assumed or taken subject to by partnership* - (1) *In general.* For purposes of this section and §§ 1.707-3 and 1.707-4, if a partnership assumes or takes property subject to a qualified liability (as defined in paragraph (a)(6) of this section) of a partner, the partnership is treated as transferring consideration to the partner only to the extent provided in paragraph (a)(5) of this section. By contrast, if the partnership assumes or takes property subject to a liability of the partner other than a qualified liability, the partnership is treated as transferring consideration to the partner to the extent that the amount of the liability exceeds the partner's share of that liability immediately after the partnership assumes or takes subject to the liability as provided in paragraphs (a) (2), (3) and (4) of this section.
 
 (2) [Reserved]. For further guidance, see § 1.707-5T(a)(2).

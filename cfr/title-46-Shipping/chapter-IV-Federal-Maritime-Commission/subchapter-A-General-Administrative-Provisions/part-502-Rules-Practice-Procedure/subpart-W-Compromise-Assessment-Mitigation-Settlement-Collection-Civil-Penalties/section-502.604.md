@@ -1,5 +1,7 @@
 ##### § 502.604 Compromise of penalties: Relation to assessment proceedings. #####
 
+Link to an amendment published at 84 FR 54040, Oct. 9, 2019.
+
 (a) *Scope.* Except in pending civil penalty assessment proceedings provided for in § 502.603, the Commission, when it has reason to believe a violation has occurred, may invoke the informal compromise procedures of this section.
 
 (b) *Notice.* When the Commission considers it appropriate to afford an opportunity for the compromise of a civil penalty, it will, except when otherwise authorized by the Commission, or where circumstances render it unnecessary, send a Notice and Demand Letter (“NDL”) to the respondent, by registered or certified mail, or by other means reasonably calculated to give notice. The NDL will describe specific violation(s) on which the claim is based, including the particular facts, dates and other elements necessary for the respondent to identify the specific conduct constituting the alleged violation; the amount of the penalty demanded; the availability of alternative dispute resolution, including mediation, through the Commission's Office of Consumer Affairs and Dispute Resolution Services; and the names of Commission personnel with whom the demand may be discussed, if the person desires to compromise the penalty. The NDL also will state the deadlines for the institution and completion of compromise negotiations and the consequences of failure to compromise.

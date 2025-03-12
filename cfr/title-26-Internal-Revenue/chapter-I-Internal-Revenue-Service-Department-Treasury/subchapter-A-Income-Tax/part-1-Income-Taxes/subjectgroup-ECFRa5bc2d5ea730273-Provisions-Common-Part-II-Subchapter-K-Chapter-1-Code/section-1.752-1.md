@@ -8,7 +8,7 @@
 
 (3) *Related person.* Related person means a person having a relationship to a partner that is described in § 1.752-4(b).
 
-(4) *Liability defined* - (i) *In general.* An obligation is a liability for purposes of section 752 and the regulations thereunder (§ 1.752-1 liability), only if, when, and to the extent that incurring the obligation -
+(4) *Liability defined*—(i) *In general.* An obligation is a liability for purposes of section 752 and the regulations thereunder (§ 1.752-1 liability), only if, when, and to the extent that incurring the obligation—
 
 (A) Creates or increases the basis of any of the obligor's assets (including cash);
 
@@ -26,11 +26,13 @@
 
 (c) *Decrease in partner's share of liabilities.* Any decrease in a partner's share of partnership liabilities, or any decrease in a partner's individual liabilities by reason of the partnership's assumption of the individual liabilities of the partner, is treated as a distribution of money by the partnership to that partner.
 
-(d) *Assumption of liability.* Except as otherwise provided in paragraph (e) of this section, a person is considered to assume a liability only to the extent that:
+(d) *Assumption of liability.*-(1) *In general.* Except as otherwise provided in paragraph (e) of this section, a person is considered to assume a liability only to the extent that:
 
-(1) The assuming person is personally obligated to pay the liability; and
+(i) The assuming person is personally obligated to pay the liability; and
 
-(2) If a partner or related person assumes a partnership liability, the person to whom the liability is owed knows of the assumption and can directly enforce the partner's or related person's obligation for the liability, and no other partner or person that is a related person to another partner would bear the economic risk of loss for the liability immediately after the assumption.
+(ii) If a partner or related person assumes a partnership liability, the person to whom the liability is owed knows of the assumption and can directly enforce the partner's or related person's obligation for the liability, and no other partner or person that is a related person to another partner would bear the economic risk of loss for the liability under § 1.752-2 immediately after the assumption.
+
+(2) *Applicability date.* Paragraph (d)(1)(ii) of this section applies to liabilities incurred or assumed by a partnership on or after October 9, 2019. The rules applicable to liabilities incurred or assumed prior to October 9, 2019, are contained in § 1.752-1 in effect prior to October 9, 2019, (see 26 CFR part 1 revised as of April 1, 2019).
 
 (e) *Property subject to a liability.* If property is contributed by a partner to the partnership or distributed by the partnership to a partner and the property is subject to a liability of the transferor, the transferee is treated as having assumed the liability, to the extent that the amount of the liability does not exceed the fair market value of the property at the time of the contribution or distribution.
 
@@ -48,4 +50,4 @@ Example 1. Property contributed subject to a liability; netting of increase and 
 
 (i) *Bifurcation of partnership liabilities.* If one or more partners bears the economic risk of loss as to part, but not all, of a partnership liability represented by a single contractual obligation, that liability is treated as two or more separate liabilities for purposes of section 752. The portion of the liability as to which one or more partners bear the economic risk of loss is a recourse liability and the remainder of the liability, if any, is a nonrecourse liability.
 
-[T.D. 8380, 56 FR 66351, Dec. 23, 1991, as amended by T.D. 8925, 66 FR 723, Jan. 4, 2001; T.D. 9207, 70 FR 30343, May 26, 2005]
+[T.D. 8380, 56 FR 66351, Dec. 23, 1991, as amended by T.D. 8925, 66 FR 723, Jan. 4, 2001; T.D. 9207, 70 FR 30343, May 26, 2005; T.D. 9877, 84 FR 54022, Oct. 9, 2019]

@@ -1,7 +1,5 @@
 ##### § 225.62 Definitions. #####
 
-Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
-
 (a) *Appraisal* means a written statement independently and impartially prepared by a qualified appraiser setting forth an opinion as to the market value of an adequately described property as of a specific date(s), supported by the presentation and analysis of relevant market information.
 
 (b) *Appraisal Foundation* means the Appraisal Foundation established on November 30, 1987, as a not-for-profit corporation under the laws of Illinois.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
 
 (e) *Commercial real estate transaction* means a real estate-related financial transaction that is not secured by a single 1-to-4 family residential property.
 
-(f) *Complex 1-to-4 family residential property appraisal* means one in which the property to be appraised, the form of ownership, or market conditions are atypical.
+(f) Complex appraisal for a residential real estate transaction means one in which the property to be appraised, the form of ownership, or market conditions are atypical.
 
 (g) *Federally related transaction* means any real estate-related financial transaction entered into on or after August 9, 1990, that:
 
@@ -42,13 +40,15 @@ Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
 
 (3) The use of real property or interests in property as security for a loan or investment, including mortgage-backed securities.
 
-(k) *State certified appraiser* means any individual who has satisfied the requirements for certification in a State or territory whose criteria for certification as a real estate appraiser currently meet or exceed the minimum criteria for certification issued by the Appraiser Qualifications Board of the Appraisal Foundation. No individual shall be a State certified appraiser unless such individual has achieved a passing grade upon a suitable examination administered by a State or territory that is consistent with and equivalent to the Uniform State Certification Examination issued or endorsed by the Appraiser Qualifications Board of the Appraisal Foundation. In addition, the Appraisal Subcommittee must not have issued a finding that the policies, practices, or procedures of the State or territory are inconsistent with title XI of FIRREA. The Board may, from time to time, impose additional qualification criteria for certified appraisers performing appraisals in connection with federally related transactions within its jurisdiction.
+(k) Residential real estate transaction means a real estate-related financial transaction that is secured by a single 1-to-4 family residential property.
 
-(l) *State licensed appraiser* means any individual who has satisfied the requirements for licensing in a State or territory where the licensing procedures comply with title XI of FIRREA and where the Appraisal Subcommittee has not issued a finding that the policies, practices, or procedures of the State or territory are inconsistent with title XI. The Board may, from time to time, impose additional qualification criteria for licensed appraisers performing appraisals in connection with federally related transactions within the Board's jurisdiction.
+(l) *State certified appraiser* means any individual who has satisfied the requirements for certification in a State or territory whose criteria for certification as a real estate appraiser currently meet or exceed the minimum criteria for certification issued by the Appraiser Qualifications Board of the Appraisal Foundation. No individual shall be a State certified appraiser unless such individual has achieved a passing grade upon a suitable examination administered by a State or territory that is consistent with and equivalent to the Uniform State Certification Examination issued or endorsed by the Appraiser Qualifications Board of the Appraisal Foundation. In addition, the Appraisal Subcommittee must not have issued a finding that the policies, practices, or procedures of the State or territory are inconsistent with title XI of FIRREA. The Board may, from time to time, impose additional qualification criteria for certified appraisers performing appraisals in connection with federally related transactions within its jurisdiction.
 
-(m) *Tract development* means a project of five units or more that is constructed or is to be constructed as a single development.
+(m) *State licensed appraiser* means any individual who has satisfied the requirements for licensing in a State or territory where the licensing procedures comply with title XI of FIRREA and where the Appraisal Subcommittee has not issued a finding that the policies, practices, or procedures of the State or territory are inconsistent with title XI. The Board may, from time to time, impose additional qualification criteria for licensed appraisers performing appraisals in connection with federally related transactions within the Board's jurisdiction.
 
-(n) *Transaction value* means:
+(n) *Tract development* means a project of five units or more that is constructed or is to be constructed as a single development.
+
+(o) *Transaction value* means:
 
 (1) For loans or other extensions of credit, the amount of the loan or extension of credit;
 
@@ -56,4 +56,4 @@ Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
 
 (3) For the pooling of loans or interests in real property for resale or purchase, the amount of the loan or the market value of the real property calculated with respect to each such loan or interest in real property.
 
-[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 59 FR 29500, June 7, 1994; 83 FR 15035, Apr. 9, 2018]
+[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 59 FR 29500, June 7, 1994; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019]

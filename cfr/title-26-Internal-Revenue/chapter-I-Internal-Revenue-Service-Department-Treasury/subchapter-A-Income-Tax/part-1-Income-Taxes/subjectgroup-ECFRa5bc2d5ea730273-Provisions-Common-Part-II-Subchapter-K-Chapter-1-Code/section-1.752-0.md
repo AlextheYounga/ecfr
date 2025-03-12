@@ -28,6 +28,10 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (d) Assumption of liability.
 
+(1) In general.
+
+(2) Applicability date.
+
 (e) Property subject to a liability.
 
 (f) Netting of increases and decreases in liabilities resulting from same transaction.
@@ -49,6 +53,26 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 (2) Treatment upon deemed disposition.
 
 (3) Obligations recognized.
+
+(i) In general.
+
+(ii) Special rules for bottom dollar payment obligations.
+
+(A) In general.
+
+(B) Exception.
+
+(C) Definition of bottom dollar payment obligation.
+
+(*1*) In general.
+
+(*2*) Exceptions.
+
+(*3*) Benefited party defined.
+
+(D) Disclosure of bottom dollar payment obligations.
+
+(iii) Special rule for indemnities and reimbursement agreements.
 
 (4) Contingent obligations.
 
@@ -108,9 +132,29 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (2) Arrangements tantamount to a guarantee.
 
+(i) In general.
+
+(ii) Economic risk of loss.
+
+(3) Plan to circumvent or avoid an obligation.
+
+(i) General rule.
+
+(ii) Factors indicating plan to circumvent or avoid an obligation.
+
+(4) Example.
+
+(k) No reasonable expectation of payment.
+
+(1) In general.
+
+(2) Examples.
+
 (3) Plan to circumvent or avoid the regulations.
 
 (4) Examples.
+
+(l) Applicability dates.
 
 § 1.752-3 Partner's share of nonrecourse liabilities.
 
@@ -320,4 +364,4 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (iv) Time for making election.
 
-[T.D. 8380, 56 FR 66350, Dec. 23, 1991, as amended by T.D. 9207, 70 FR 30342, May 26, 2005]
+[T.D. 8380, 56 FR 66350, Dec. 23, 1991, as amended by T.D. 9207, 70 FR 30342, May 26, 2005; T.D. 9877, 84 FR 54022, Oct. 9, 2019]
