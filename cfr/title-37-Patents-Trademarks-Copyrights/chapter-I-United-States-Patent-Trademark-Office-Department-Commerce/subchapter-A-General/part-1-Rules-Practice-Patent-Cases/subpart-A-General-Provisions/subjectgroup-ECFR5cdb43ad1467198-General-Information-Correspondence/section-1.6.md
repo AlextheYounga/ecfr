@@ -16,7 +16,7 @@
 
 (d) *Facsimile transmission.* Except in the cases enumerated below, correspondence, including authorizations to charge a deposit account, may be transmitted by facsimile. The receipt date accorded to the correspondence will be the date on which the complete transmission is received in the United States Patent and Trademark Office, unless that date is a Saturday, Sunday, or Federal holiday within the District of Columbia. See paragraph (a)(3) of this section. To facilitate proper processing, each transmission session should be limited to correspondence to be filed in a single application or other proceeding before the United States Patent and Trademark Office. The application number of a patent application, the control number of a reexamination or supplemental examination proceeding, the interference number of an interference proceeding, the trial number of a trial proceeding before the Board, or the patent number of a patent should be entered as a part of the sender's identification on a facsimile cover sheet. Facsimile transmissions are not permitted and, if submitted, will not be accorded a date of receipt in the following situations:
 
-(1) Correspondence as specified in § 1.4(e), requiring an original signature;
+(1) [Reserved]
 
 (2) Certified documents as specified in § 1.4(f);
 
@@ -58,4 +58,4 @@
 
 (2) The Office may require additional evidence to determine if the national stage correspondence was submitted to the Office on the date in question.
 
-[58 FR 54501, Oct. 22, 1993; 58 FR 64154, Dec. 6, 1993; 61 FR 56447, Nov. 1, 1996; 62 FR 53180, Oct. 10, 1997; 64 FR 48917, Sept. 8, 1999; 65 FR 54657, Sept. 8, 2000; 65 FR 76772, Dec. 7, 2000; 68 FR 14336, Mar. 25, 2003; 68 FR 48288, Aug. 13, 2003; 69 FR 49997, Aug. 12, 2004; 69 FR 56536, Sept. 21, 2004; 72 FR 2775, Jan. 23, 2007; 77 FR 42173, July 17, 2012; 77 FR 46624, Aug. 6, 2012; 78 FR 62394, Oct. 21, 2013; 79 FR 63039, Oct. 22, 2014; 80 FR 17952, Apr. 2, 2015]
+[58 FR 54501, Oct. 22, 1993; 58 FR 64154, Dec. 6, 1993; 61 FR 56447, Nov. 1, 1996; 62 FR 53180, Oct. 10, 1997; 64 FR 48917, Sept. 8, 1999; 65 FR 54657, Sept. 8, 2000; 65 FR 76772, Dec. 7, 2000; 68 FR 14336, Mar. 25, 2003; 68 FR 48288, Aug. 13, 2003; 69 FR 49997, Aug. 12, 2004; 69 FR 56536, Sept. 21, 2004; 72 FR 2775, Jan. 23, 2007; 77 FR 42173, July 17, 2012; 77 FR 46624, Aug. 6, 2012; 78 FR 62394, Oct. 21, 2013; 79 FR 63039, Oct. 22, 2014; 80 FR 17952, Apr. 2, 2015; 86 FR 35229, July 2, 2021]

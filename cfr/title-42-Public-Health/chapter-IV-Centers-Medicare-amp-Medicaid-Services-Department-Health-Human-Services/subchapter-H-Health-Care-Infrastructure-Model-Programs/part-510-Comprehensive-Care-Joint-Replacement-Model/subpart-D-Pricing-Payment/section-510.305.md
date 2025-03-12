@@ -1,30 +1,32 @@
 ##### § 510.305 Determination of the NPRA and reconciliation process. #####
 
-Link to an amendment published at 86 FR 23572, May 3, 2021.
-
 (a) *General.* Providers and suppliers furnishing items and services included in the episode bill for such items and services in accordance with existing rules and as if this part were not in effect.
 
-(b) *Reconciliation.* CMS uses a series of reconciliation processes, which CMS performs as described in paragraphs (d) and (f) of this section, after the end of each performance year 1 through 4 to establish final payment amounts to participant hospitals for CJR episodes for a given performance year. Following the end of each performance year 1 through 4, CMS determines actual episode payments for each episode for the performance year (other than episodes that have been canceled in accordance with § 510.210(b)), and determines the amount of a reconciliation payment or repayment amount. Within performance year 5, CMS separately performs the reconciliation processes described in paragraphs (d) and (f) of this section for performance year subsets 5.1 and 5.2 and following the end of each performance year subset 5.1 and 5.2, CMS separately determines the actual episode payment for each episode for the subset of the performance year (other than episodes that have been canceled in accordance with § 510.210(b)) and determines the amount of a reconciliation payment or repayment for each of performance year subsets 5.1 and 5.2.
+(b) *Reconciliation.* (1) For performance years 1 through 4 and for each subset of performance year 5, CMS uses a series of reconciliation processes, which CMS performs as described in paragraphs (d) and (f) of this section after the end of each performance year, to establish final payment amounts to participant hospitals for CJR model episodes for a given performance year.
+
+(2) For performance years 6 through 8, CMS conducts one reconciliation process, which CMS performs as described in paragraphs (l) and (m) of this section after the end of each performance year, to establish final payment amounts to participant hospitals for CJR model episodes for a given performance year.
+
+(3) Following the end of each performance year, for performance years 1 through 4 and for performance year 5, each subset thereof, CMS determines actual episode payments for each episode for the performance year (other than episodes that have been canceled in accordance with § 510.210(b)) and determines the amount of a reconciliation payment or repayment amount.
 
 (c) *Data used.* CMS uses the most recent claims data available to perform each reconciliation calculation.
 
-(d) *Annual reconciliation.* (1) Beginning 2 months after the end of each of performance years 1 through 4 and performance year subset 5.1 and 5 months after the end of performance year subset 5.2, CMS does all of the following:
+(d) *Annual reconciliation for performance years 1 through 5.* (1) Beginning 2 months after the end of each of performance years 1 through 4 and performance year subset 5.1 and 5 months after the end of performance year subset 5.2, CMS does all of the following:
 
 (i) Performs a reconciliation calculation to establish an NPRA for each participant hospital.
 
-(ii) For participant hospitals that experience a reorganization event in which one or more hospitals reorganize under the CCN of a participant hospital performs -
+(ii) For participant hospitals that experience a reorganization event in which one or more hospitals reorganize under the CCN of a participant hospital performs—
 
 (A) Separate reconciliation calculations (during both initial and subsequent reconciliations for a performance year) for each predecessor participant hospital for episodes where anchor hospitalization admission occurred before the effective date of the reorganization event; and
 
 (B) Reconciliation calculations (during both initial and subsequent reconciliations for a performance year) for each new or surviving participant hospital for episodes where the anchor hospitalization admission occurred on or after the effective date of the reorganization event.
 
-(2) CMS -
+(2) CMS—
 
 (i) Calculates the NPRA for each participant hospital in accordance with paragraph (e) of this section including the adjustments provided for in paragraph (e)(1)(iv) of this section; and
 
 (ii) Assesses whether hospitals meet specified quality requirements under § 510.315.
 
-(e) *Calculation of the NPRA.* By comparing the quality-adjusted target prices described in § 510.300 and the participant hospital's actual episode spending for each of performance years 1 through 4 and each of performance year subsets 5.1 and 5.2 and applying the adjustments in paragraph (e)(1)(v) of this section, CMS establishes an NPRA for each participant hospital for each such performance year or performance year subset.
+(e) *Calculation of the NPRA for performance years 1 through 5.* By comparing the quality-adjusted target prices described in § 510.300 and the participant hospital's actual episode spending for each of performance years 1 through 4, and for performance year 5, each subset thereof, and applying the adjustments in paragraph (e)(1)(v) of this section, CMS establishes an NPRA for each participant hospital for each of performance years 1 through 4 and for performance year 5, each subset thereof.
 
 (1) *Initial calculation.* In calculating the NPRA for each participant hospital for each of performance years 1 through 4 and each of performance year subsets 5.1 and 5.2, CMS does the following:
 
@@ -64,11 +66,17 @@ Link to an amendment published at 86 FR 23572, May 3, 2021.
 
 (C) *Financial loss limits for rural hospitals, SCHs, MDHs, and RRCs.* If a participant hospital is a rural hospital, SCH, MDH, or RRC, then for performance year 2, the total repayment amount for which the participant hospital is responsible due to the NPRA and subsequent reconciliation calculation cannot exceed 3 percent of the amount calculated in paragraph (e)(1)(iii) of this section. For performance years 3 and 4 and for performance year subsets 5.1 and 5.2, the amount cannot exceed 5 percent of the amount calculated in paragraph (e)(1)(iii) of this section.
 
-(f) *Determination of reconciliation or repayment amount* - (1) *Determination of the reconciliation or repayment amount.* (i) Subject to paragraph (f)(1)(iii) of this section, for performance year 1, the reconciliation payment (if any) is equal to the NPRA.
+(f) *Determination of reconciliation or repayment amount*—(1) *Determination of the reconciliation or repayment amount.* (i) Subject to paragraph (f)(1)(iii) of this section, for performance year 1, the reconciliation payment (if any) is equal to the NPRA.
 
 (ii) Subject to paragraph (f)(1)(iii) of this section, for performance years 2 through 4 and for each of performance year subsets 5.1 and 5.2, results from the subsequent reconciliation calculation for a prior year's reconciliation as described in paragraph (i) of this section and the post-episode spending and ACO overlap calculations as described in paragraph (j) of this section are added to the current year's NPRA in order to determine the reconciliation payment or repayment amount.
 
 (iii) The reconciliation or repayment amount may be adjusted as provided in § 510.410(b).
+
+(iv) Results from the performance year 6 reconciliation and post-episode spending calculations as described in paragraph (m) of this section are added together in order to determine the reconciliation payment or repayment amount for performance year 6.
+
+(v) Results from the performance year 7 reconciliation and post-episode spending calculations as described in paragraph (m) of this section are added together in order to determine the reconciliation payment or repayment amount for performance year 7.
+
+(vi) Results from the performance year 8 reconciliation and post-episode spending calculations as described in paragraph (m) of this section are added together in order to determine the reconciliation payment or repayment amount for performance year 8.
 
 (2) *Reconciliation payment.* If the amount described in paragraph (f)(1) of this section is positive and the composite quality score described in § 510.315 is acceptable (defined as greater than or equal to 5.00 and less than 6.9), good (defined as greater than or equal to 6.9 and less than or equal to 15.0), or excellent (defined as greater than 15.0), Medicare pays the participant hospital a reconciliation payment in an amount equal to the amount described in paragraph (f)(1) of this section.
 
@@ -100,7 +108,7 @@ Link to an amendment published at 86 FR 23572, May 3, 2021.
 
 (i) *Subsequent reconciliation calculation.* (1) Fourteen months after the end of each of performance years 1 through 4 and performance year subset 5.1 and seventeen months after the end of performance year subset 5.2, CMS performs an additional calculation, using claims data available at that time, to account for final claims run-out and any additional episode cancelations due to overlap between the CJR model and other CMS models and programs, or for other reasons as specified in § 510.210(b).
 
-(2) The subsequent calculation for each of performance years 1 through 4 and performance year subset 5.1 occurs concurrently with the first reconciliation process for the following performance year (or in the case of performance year subset 5.1, with the first reconciliation of performance year subset 5.2) . If the result of the subsequent calculation is different than zero, CMS applies the stop-loss and stop-gain limits in paragraph (e) of this section to the aggregate calculation of the amounts described in paragraphs (e)(1)(iv) and (i)(1) of this section for that performance year or performance year subset (the initial reconciliation and the subsequent reconciliation calculation) to ensure such amount does not exceed the applicable stop-loss or stop-gain limits. The subsequent reconciliation calculation for performance year subset 5.2 will occur independently in 2023.
+(2) The subsequent calculation for each of performance years 1 through 4 and performance year subset 5.1 occurs concurrently with the first reconciliation process for the following performance year (or in the case of performance year subset 5.1, with the first reconciliation of performance year subset 5.2). If the result of the subsequent calculation is different than zero, CMS applies the stop-loss and stop-gain limits in paragraph (e) of this section to the aggregate calculation of the amounts described in paragraphs (e)(1)(iv) and (i)(1) of this section for that performance year or performance year subset (the initial reconciliation and the subsequent reconciliation calculation) to ensure such amount does not exceed the applicable stop-loss or stop-gain limits. The subsequent reconciliation calculation for performance year subset 5.2 will occur independently in 2023.
 
 (j) *Additional adjustments to the reconciliation payment or repayment amount.* (1) In order to account for shared savings payments, CMS will reduce the reconciliation payment or increase the repayment amount for the subsequent performance year (for performance years 1 through 4 and performance year subset 5.1) by the amount of the participant hospital's discount percentage that is paid to the ACO in the prior performance year as shared savings. (This amount will be assessed independently for performance year subset 5.2 in 2023.) This adjustment is made only when the participant hospital is a participant or provider/supplier in the ACO and the beneficiary in the CJR episode is assigned to one of the following ACO models or programs:
 
@@ -132,4 +140,46 @@ Link to an amendment published at 86 FR 23572, May 3, 2021.
 
 (4) For a fracture or non-fracture episode with a date of admission to the anchor hospitalization that is on or within 30 days before the date that the emergency period (as defined in section 1135(g) of the Act) begins or that occurs on or before March 31, 2021 or the last day of such emergency period, whichever is earlier, actual episode payments are capped at the quality adjusted target price determined for that episode under § 510.300.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020; 85 FR 71199, Nov. 6, 2020]
+(l) *Annual reconciliation for performance years 6 through 8.* (1) Beginning 6 months after the end of each of performance years 6 through 8, CMS does all of the following:
+
+(i) Performs a reconciliation calculation to establish an NPRA for each participant hospital.
+
+(ii) For participant hospitals that experience a reorganization event in which one or more hospitals reorganize under the CCN of a participant hospital, performs—
+
+(A) Separate reconciliation calculations for each predecessor participant hospital for episodes where the anchor hospitalization admission or the anchor procedure occurred before the effective date of the reorganization event; and
+
+(B) Reconciliation calculations for each new or surviving participant hospital for episodes where the anchor hospitalization admission or anchor procedure occurred on or after the effective date of the reorganization event.
+
+(2) CMS—
+
+(i) Calculates the NPRA for each participant hospital in accordance with paragraph (m) of this section including the adjustments provided for in paragraph (m)(1)(vii) of this section; and
+
+(ii) Assesses whether participant hospitals meet specified quality requirements under § 510.315.
+
+(m) *Calculation of the NPRA for performance years 6 through 8.* By comparing the reconciliation target prices described in § 510.301 and the participant hospital's actual episode spending for the performance year and applying the adjustments in paragraph (m)(1)(vii) of this section, CMS establishes an NPRA for each participant hospital for each of performance years 6 through 8.
+
+(1) In calculating the NPRA for each participant hospital for each performance year, CMS does the following:
+
+(i) Determines actual episode payments for each episode included in the performance year (other than episodes that have been canceled in accordance with § 510.210(b)) using claims data that is available 6 months after the end of the performance year. Actual episode payments are capped at the amount determined in accordance with § 510.300(b)(5)(ii) for the performance year, the amount determined in paragraph (k) of this section for episodes affected by extreme and uncontrollable circumstances, or the target price determined for that episode under § 510.300 for episodes that contain a COVID-19 Diagnosis Code as defined in § 510.2.
+
+(ii) Multiplies each episode reconciliation target price by the number of episodes included in the performance year (other than episodes that have been canceled in accordance with § 510.210(b)) to which that episode reconciliation target price applies.
+
+(iii) Aggregates the amounts computed in paragraph (m)(1)(ii) of this section for all episodes included in the performance year (other than episodes that have been canceled in accordance with § 510.210(b)).
+
+(iv) Subtracts the amount determined under paragraph (m)(1)(i) of this section from the amount determined under paragraph (m)(1)(iii) of this section.
+
+(v) Performs an additional calculation using claims data available at that time, to account for any episode cancelations due to overlap between the CJR model and other CMS models and programs, or for other reasons as specified in § 510.210(b).
+
+(vi) Conducts a post-episode spending calculation as follows: If the average post-episode Medicare Parts A and B payments for a participant hospital in the performance year being reconciled is greater than 3 standard deviations above the regional average post-episode payments for that same performance year, then the spending amount exceeding 3 standard deviations above the regional average post-episode payments for the same performance year is subtracted from the net reconciliation or added to the repayment for that performance year.
+
+(vii) Applies the following prior to determination of the reconciliation payment or repayment amount:
+
+(A) *Limitation on loss.* Except as provided in paragraph (m)(1)(vii)(C) of this section, the total amount of the NPRA for a performance year cannot exceed 20 percent of the amount calculated in paragraph (m)(1)(iii) of this section for the performance year. The post-episode spending calculation amount in paragraph (m)(vi) of this section is not subject to the limitation on loss.
+
+(B) *Limitation on gain.* The total amount of the NPRA for a performance year cannot exceed 20 percent of the amount calculated in paragraph (m)(1)(iii) of this section for the performance year. The post-episode spending calculation amount in paragraph (m)(vi) of this section are not subject to the limitation on gain.
+
+(C) *Limitation on loss for certain providers.* Financial loss limits for rural hospitals, SCHs, MDHs, and RRCs for performance years 6 through 8. If a participant hospital is a rural hospital, SCH, MDH, or RRC, the amount cannot exceed 5 percent of the amount calculated in paragraph (m)(1)(iii) of this section.
+
+(2) [Reserved]
+
+[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020; 85 FR 71199, Nov. 6, 2020; 86 FR 23572, May 3, 2021]Editorial Note:At 86 FR 23572, May 3, 2021, § 510.305 was amended in part by revising paragraph (i); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

@@ -1,6 +1,6 @@
 ##### § 1.1 Addresses for non-trademark correspondence with the United States Patent and Trademark Office. #####
 
-(a) *In general.* Except as provided in paragraphs (a)(3)(i), (a)(3)(ii), and (d)(1) of this section, all correspondence intended for the United States Patent and Trademark Office must be addressed to either “Director of the United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450” or to specific areas within the Office as set out in paragraphs (a)(1), and (a)(3)(iii) of this section. When appropriate, correspondence should also be marked for the attention of a particular office or individual.
+(a) *In general.* Except as provided in paragraphs (a)(3)(i) and (a)(3)(ii) of this section, all correspondence intended for the United States Patent and Trademark Office must be addressed to either “Director of the United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450” or to specific areas within the Office as set out in paragraphs (a)(1) and (a)(3)(iii) of this section. When appropriate, correspondence should also be marked for the attention of a particular office or individual.
 
 (1) *Patent correspondence* - (i) *In general.* All correspondence concerning patent matters processed by organizations reporting to the Commissioner for Patents should be addressed to: Commissioner for Patents, PO Box 1450, Alexandria, Virginia 22313-1450.
 
@@ -34,10 +34,10 @@
 
 (4) All correspondence concerning a reexamination proceeding ordered as a result of a supplemental reexamination proceeding, other than correspondence to the Office of the General Counsel pursuant to § 1.1(a)(3) and § 102.4 of this chapter should be additionally marked “Mail Stop *Ex Parte* Reexam.”
 
-(d) Payments of maintenance fees in patents not submitted electronically over the Internet, and correspondence related to maintenance fees may be addressed to: Director of the United States Patent and Trademark Office, Attn: Maintenance Fee, 2051 Jamieson Avenue, Suite 300, Alexandria, Virginia 22314.
+(d) *Payments of patent maintenance fees.* Payments of patent maintenance fees that are not submitted electronically and correspondence related to maintenance fees may be addressed to: Mail Stop Maintenance Fee, Director of the United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450.
 
 (e) *Patent term extension.* All applications for extension of patent term under 35 U.S.C. 156 and any communications relating thereto intended for the United States Patent and Trademark Office should be additionally marked “Mail Stop Hatch-Waxman PTE.” When appropriate, the communication should also be marked to the attention of a particular individual, as where a decision has been rendered.
 
 (f) [Reserved]
 
-[68 FR 14335, Mar. 25, 2003; 68 FR 19371, Apr. 21, 2003, as amended at 68 FR 48287, Aug. 13, 2003; 68 FR 71006, Dec. 22, 2003; 69 FR 29877, May 26, 2004; 69 FR 35451, June 24, 2004; 69 FR 49997, Aug. 12, 2004; 72 FR 18904, Apr. 16, 2007; 73 FR 47540, Aug. 14, 2008; 75 FR 36295, June 25, 2010; 77 FR 46624, Aug. 6, 2012; 77 FR 48811, Aug. 14, 2012; 78 FR 62393, Oct. 21, 2013]
+[68 FR 14335, Mar. 25, 2003; 68 FR 19371, Apr. 21, 2003, as amended at 68 FR 48287, Aug. 13, 2003; 68 FR 71006, Dec. 22, 2003; 69 FR 29877, May 26, 2004; 69 FR 35451, June 24, 2004; 69 FR 49997, Aug. 12, 2004; 72 FR 18904, Apr. 16, 2007; 73 FR 47540, Aug. 14, 2008; 75 FR 36295, June 25, 2010; 77 FR 46624, Aug. 6, 2012; 77 FR 48811, Aug. 14, 2012; 78 FR 62393, Oct. 21, 2013; 86 FR 35230, July 2, 2021]

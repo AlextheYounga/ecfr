@@ -1,12 +1,12 @@
 ##### § 510.105 Geographic areas. #####
 
-Link to an amendment published at 86 FR 23570, May 3, 2021.
-
 (a) *General.* The geographic areas for inclusion in the CJR model are obtained based on a stratified random sampling of certain MSAs in the United States.
 
 (1) All counties within each of the selected MSAs are selected for inclusion in the CJR model.
 
 (2) Beginning with performance year 3, the selected MSAs are designated as either mandatory participation MSAs or voluntary participation MSAs.
+
+(3) Beginning with performance year 6, only the 34 MSAs designated as mandatory participation MSAs as of performance year 3.
 
 (b) *Stratification criteria.* Geographic areas in the United States are stratified according to the characteristics that CMS determines are necessary to ensure that the model is tested on a broad range of different types of hospitals that may face different obstacles and incentives for improving quality and controlling costs.
 
@@ -24,4 +24,4 @@ Link to an amendment published at 86 FR 23570, May 3, 2021.
 
 (4) For MSAs including both Maryland and non-Maryland counties, more than 50 percent of eligible episodes were initiated at a Maryland hospital.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 57103, Dec. 1, 2017]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 57103, Dec. 1, 2017; 86 FR 23570, May 3, 2021]

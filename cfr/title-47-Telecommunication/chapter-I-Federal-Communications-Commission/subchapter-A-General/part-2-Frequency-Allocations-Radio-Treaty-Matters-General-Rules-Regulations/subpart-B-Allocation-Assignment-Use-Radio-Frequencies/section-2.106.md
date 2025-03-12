@@ -2601,7 +2601,7 @@ NG155 The bands 159.500-159.675 MHz and 161.375-161.550 MHz are allocated to the
 
 NG159 In the band 698-806 MHz, stations authorized under 47 CFR part 74, subparts F and G may continue to operate indefinitely on a secondary basis to all other stations operating in that band.
 
-NG160 In the band 5850-5925 MHz, the use of the non-Federal mobile service is limited to Dedicated Short Range Communications operating in the Intelligent Transportation System radio service.
+NG160 In the band 5895-5925 MHz, the use of the non-federal mobile service is limited to operations in the Intelligent Transportation Systems radio service.
 
 NG163 The use of the band 17.3-17.7 GHz by the broadcasting-satellite service is limited to geostationary satellites.
 

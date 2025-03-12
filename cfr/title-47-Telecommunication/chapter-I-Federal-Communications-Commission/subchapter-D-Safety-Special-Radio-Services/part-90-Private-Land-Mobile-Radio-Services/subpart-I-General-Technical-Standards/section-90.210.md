@@ -1,7 +1,5 @@
 ##### § 90.210 Emission masks. #####
 
-Link to an amendment published at 86 FR 23297, May 3, 2021.
-
 Except as indicated elsewhere in this part, transmitters used in the radio services governed by this part must comply with the emission masks outlined in this section. Unless otherwise stated, per paragraphs (d)(4), (e)(4), and (o) of this section, measurements of emission power can be expressed in either peak or average values provided that emission powers are expressed with the same parameters used to specify the unmodulated transmitter carrier power. For transmitters that do not produce a full power unmodulated carrier, reference to the unmodulated transmitter carrier power refers to the total power contained in the channel bandwidth. Unless indicated elsewhere in this part, the table in this section specifies the emission masks for equipment operating under this part.
 
 (a) *Emission Mask A.* For transmitters utilizing J3E emission, the carrier must be at least 40 dB below the peak envelope power and the power of emissions must be reduced below the output power (P in watts) of the transmitter as follows:
@@ -34,7 +32,7 @@ Except as indicated elsewhere in this part, transmitters used in the radio servi
 
 (ii) For stations in the mobile service: −60 dBW/27 MHz.
 
-(d) *Emission Mask D - 12.5 kHz channel bandwidth equipment.* For transmitters designed to operate with a 12.5 kHz channel bandwidth, any emission must be attenuated below the power (P) of the highest emission contained within the authorized bandwidth as follows:
+(d) *Emission Mask D—12.5 kHz channel bandwidth equipment.* For transmitters designed to operate with a 12.5 kHz channel bandwidth, any emission must be attenuated below the power (P) of the highest emission contained within the authorized bandwidth as follows:
 
 (1) On any frequency from the center of the authorized bandwidth f0 to 5.625 kHz removed from f0: Zero dB.
 
@@ -44,7 +42,7 @@ Except as indicated elsewhere in this part, transmitters used in the radio servi
 
 (4) The reference level for showing compliance with the emission mask shall be established using a resolution bandwidth sufficiently wide (usually two or three times the channel bandwidth) to capture the true peak emission of the equipment under test. In order to show compliance with the emission mask up to and including 50 kHz removed from the edge of the authorized bandwidth, adjust the resolution bandwidth to 100 Hz with the measuring instrument in a peak hold mode. A sufficient number of sweeps must be measured to insure that the emission profile is developed. If video filtering is used, its bandwidth must not be less than the instrument resolution bandwidth. For emissions beyond 50 kHz from the edge of the authorized bandwidth, see paragraph (o) of this section. If it can be shown that use of the above instrumentation settings do not accurately represent the true interference potential of the equipment under test, an alternate procedure may be used provided prior Commission approval is obtained.
 
-(e) *Emission Mask E - 6.25 kHz or less channel bandwidth equipment.* For transmitters designed to operate with a 6.25 kHz or less bandwidth, any emission must be attenuated below the power (P) of the highest emission contained within the authorized bandwidth as follows:
+(e) *Emission Mask E—6.25 kHz or less channel bandwidth equipment.* For transmitters designed to operate with a 6.25 kHz or less bandwidth, any emission must be attenuated below the power (P) of the highest emission contained within the authorized bandwidth as follows:
 
 (1) On any frequency from the center of the authorized bandwidth f0 to 3.0 kHz removed from f0: Zero dB.
 
@@ -96,7 +94,7 @@ Except as indicated elsewhere in this part, transmitters used in the radio servi
 
 (3) On any frequency removed from the center of the authorized bandwidth by a displacement frequency (fd in kHz) of more than 9.5 kHz: At least 157 log (fd/5.3) dB, or 50 + 10 log (P) dB or 70 dB, whichever is the lesser attenuation.
 
-(k) *Emission Mask K* - (1) *Wideband multilateration transmitters.* For transmitters authorized under subpart M to provide forward or reverse links in a multilateration system in the subbands 904-909.75 MHz, 921.75-927.25 MHz and 919.75-921.75 MHz, and which transmit an emission occupying more than 50 kHz bandwidth: in any 100 kHz band, the center frequency of which is removed from the center of authorized sub-band(s) by more than 50 percent of the authorized bandwidth, the power of emissions shall be attenuated below the transmitter output power, as specified by the following equation, but in no case less than 31 dB:
+(k) *Emission Mask K*—(1) *Wideband multilateration transmitters.* For transmitters authorized under subpart M to provide forward or reverse links in a multilateration system in the subbands 904-909.75 MHz, 921.75-927.25 MHz and 919.75-921.75 MHz, and which transmit an emission occupying more than 50 kHz bandwidth: in any 100 kHz band, the center frequency of which is removed from the center of authorized sub-band(s) by more than 50 percent of the authorized bandwidth, the power of emissions shall be attenuated below the transmitter output power, as specified by the following equation, but in no case less than 31 dB:
 
 A = 16 + 0.4 (D−50) + 10 log B (attenuation greater than 66 dB is not required)Where:A = attenuation (in decibels) below the maximum permitted output power levelD = displacement of the center frequency of the measurement bandwidth from the center frequency of the authorized sub-band, expressed as a percentage of the authorized bandwidth BB = authorized bandwidth in megahertz.
 
@@ -156,7 +154,7 @@ Low power devices may as an option, comply with paragraph (m).
 
 (o) *Instrumentation.* The reference level for showing compliance with the emission mask shall be established, except as indicated in §§ 90.210 (d), (e), and (k), using standard engineering practices for the modulation characteristic used by the equipment under test. When measuring emissions in the 150-174 MHz and 421-512 MHz bands the following procedures will apply. A sufficient number of sweeps must be measured to insure that the emission profile is developed. If video filtering is used, its bandwidth must not be less than the instrument resolution bandwidth. For frequencies more than 50 kHz removed from the edge of the authorized bandwidth a resolution of at least 100 kHz must be used for frequencies below 1000 MHz. Above 1000 MHz the resolution bandwidth of the instrumentation must be at least 1 MHz. If it can be shown that use of the above instrumentation settings do not accurately represent the true interference potential of the equipment under test, then an alternate procedure may be used provided prior Commission approval is obtained.
 
-Table 1 to § 90.210 - Applicable Emission Masks
+Table 1 to § 90.210—Applicable Emission Masks
 
 |         Frequency band (MHz)          |Mask for equipment  <br/>with audio low  <br/>pass filter|Mask for equipment  <br/>without audio low  <br/>pass filter|
 |---------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
@@ -174,7 +172,7 @@ Table 1 to § 90.210 - Applicable Emission Masks
 |                902-928                |                            K                            |                             K                              |
 |                929-930                |                            B                            |                             G                              |
 |             4940-4990 MHz             |                         L or M                          |                           L or M                           |
-|         5850-5925<sup>4</sup>         |                                                         |                                                            |
+|         5895-5925<sup>4</sup>         |                                                         |                                                            |
 |            All other bands            |                            B                            |                             C                              |
 
 <sup>1</sup> Equipment using single sideband J3E emission must meet the requirements of Emission Mask A. Equipment using other emissions must meet the requirements of Emission Mask B or C, as applicable.
@@ -183,7 +181,7 @@ Table 1 to § 90.210 - Applicable Emission Masks
 
 <sup>3</sup> Equipment used in this licensed to EA or non-EA systems shall comply with the emission mask provisions of § 90.691 of this chapter.
 
-<sup>4</sup> DSRCS Roadside Units equipment in the 5850-5925 MHz band is governed under subpart M of this part.
+<sup>4</sup> DSRCS Roadside Units in the 5895-5925 MHz band are governed under subpart M of this part.
 
 <sup>5</sup> Equipment designed to operate on 25 kilohertz bandwidth channels must meet the requirements of either Emission Mask B or G, whichever is applicable, while equipment designed to operate on 12.5 kilohertz bandwidth channels must meet the requirements of Emission Mask D. Equipment designed to operate on 25 kilohertz bandwidth channels may alternatively meet the Adjacent Channel Power limits of § 90.221.
 

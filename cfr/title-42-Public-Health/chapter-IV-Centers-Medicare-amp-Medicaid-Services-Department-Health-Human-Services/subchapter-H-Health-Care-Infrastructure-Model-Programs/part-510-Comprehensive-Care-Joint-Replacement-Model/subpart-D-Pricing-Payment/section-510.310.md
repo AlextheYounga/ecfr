@@ -1,7 +1,5 @@
 ##### § 510.310 Appeals process. #####
 
-Link to an amendment published at 86 FR 23573, May 3, 2021.
-
 (a) *Notice of calculation error (first level of appeal).* Subject to the limitations on review in subpart D of this part, if a participant hospital wishes to dispute calculations involving a matter related to payment, reconciliation amounts, repayment amounts, the use of quality measure results in determining the composite quality score, or the application of the composite quality score during reconciliation, the participant hospital is required to provide written notice of the calculation error, in a form and manner specified by CMS.
 
 (1) Unless the participant hospital provides such notice, CMS deems final the CJR reconciliation report 45 calendar days after it is issued and proceeds with the payment or repayment processes as applicable.
@@ -20,19 +18,15 @@ Link to an amendment published at 86 FR 23573, May 3, 2021.
 
 (4) A CMS reconsideration official notifies the participant hospital in writing within 15 calendar days of receiving the participant hospital's review request of the following:
 
-(i) The date, time, and location of the review.
+(i) The issues in dispute.
 
-(ii) The issues in dispute.
+(ii) The review procedures.
 
-(iii) The review procedures.
+(iii) The procedures (including format and deadlines) for submission of briefs and evidence.
 
-(iv) The procedures (including format and deadlines) for submission of evidence.
+(5) The provisions at § 425.804(b), (c), and (e) of this chapter are applicable to reviews conducted in accordance with the reconsideration review process for CJR.
 
-(5) The CMS reconsideration official takes all reasonable efforts to schedule the review to occur no later than 30 days after the date of receipt of the notification.
-
-(6) The provisions at § 425.804(b), (c), and (e) of this chapter are applicable to reviews conducted in accordance with the reconsideration review process for CJR.
-
-(7) The CMS reconsideration official issues a written determination within 30 days of the review. The determination is final and binding.
+(6) The CMS reconsideration official makes all reasonable efforts to issue a written determination within 30 days of the deadline for submission of briefs and evidence. The determination is final and binding.
 
 (c) *Exception to the process.* If the participant hospital contests a matter that does not involve an issue contained in, or a calculation that contributes to, a CJR reconciliation report, a notice of calculation error is not required. In these instances, if CMS does not receive a request for reconsideration from the participant hospital within 10 calendar days of the notice of the initial determination, the initial determination is deemed final and CMS proceeds with action indicated in the initial determination. This does not apply to the limitations on review in paragraph (e) of this section.
 
@@ -52,4 +46,4 @@ Link to an amendment published at 86 FR 23573, May 3, 2021.
 
 (6) Decisions about expansion of the duration and scope of a model under section 1115A(c) of the Act, including the determination that a model is not expected to meet criteria described in section 1115A(c)(1) or (2) of the Act.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 86 FR 23573, May 3, 2021]

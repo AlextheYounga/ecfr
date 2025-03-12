@@ -1,7 +1,5 @@
 ##### § 510.2 Definitions. #####
 
-Link to an amendment published at 86 FR 23569, May 3, 2021.
-
 For the purposes of this part, the following definitions are applicable unless otherwise stated:
 
 *ACO* means an accountable care organization, as defined at § 425.20 of this chapter, that participates in the Shared Savings Program and is not in Track 3.
@@ -12,15 +10,21 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Actual episode payment* means the sum of standardized Medicare claims payments for the items and services that are included in the episode in accordance with § 510.200(b), excluding the items and services described in § 510.200(d).
 
+*Age bracket risk adjustment factor* means the coefficient of risk associated with a patient's age bracket, calculated as described in § 510.301(a)(1).
+
 *Alignment payment* means a payment from a CJR collaborator to a participant hospital under a sharing arrangement, for the sole purpose of sharing the participant hospital's responsibility for making repayments to Medicare.
 
-*Anchor hospitalization* means the initial hospital stay upon admission for a lower extremity joint replacement.
+*Anchor hospitalization* means the initial hospital stay upon admission for a lower extremity joint replacement, for which the institutional claim is billed through the IPPS. Anchor hospitalization also includes an inpatient hospital admission within 3 days after an outpatient Total Knee Arthroplasty (TKA) or Total Hip Arthroplasty (THA).
+
+*Anchor procedure* means a TKA or THA procedure that is permitted and paid for by Medicare when performed in a hospital outpatient department (HOPD) and billed through the OPPS, except when the beneficiary is admitted to an inpatient hospital stay within 3 days after the TKA or THA.
 
 *Applicable discount factor* means the discount percentage established by the participant hospital's quality category as determined in § 510.315 and that is applied to the episode benchmark price for purposes of determining a participant hospital's Medicare repayment in performance years 2 and 3.
 
 *Area* means, as defined in § 400.200 of this chapter, the geographical area within the boundaries of a State, or a State or other jurisdiction, designated as constituting an area with respect to which a Professional Standards Review Organization or a Utilization and Quality Control Peer Review Organization has been or may be designated.
 
 *BPCI* stands for the Bundled Payment for Care Improvement initiative.
+
+*BPCI Advanced* stands for the Bundled Payments for Care Improvement Advanced Model.
 
 *CCN* stands for CMS certification number.
 
@@ -60,6 +64,8 @@ For the purposes of this part, the following definitions are applicable unless o
 
 (14) Therapy Group Practice (TGP).
 
+*CJR-HCC condition count risk adjustment factor* means the coefficient of risk associated with a patient's total number of CMS Hierarchical Condition Categories, calculated as described in § 510.301(a)(1).
+
 *CJR reconciliation report* means the report prepared after each reconciliation that CMS provides to each participant hospital notifying the participant hospital of the outcome of the reconciliation.
 
 *Collaboration agent* means an individual or entity that is not a CJR collaborator and that is either of the following:
@@ -96,11 +102,17 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Downstream distribution payment* means a payment from a collaboration agent that is both a PGP, NPPGP, or TGP and an ACO participant to a downstream collaboration agent, under a downstream distribution arrangement, composed only of distribution payments.
 
+*Dual-eligibility risk adjustment factor* means the coefficient of risk associated with beneficiaries that are eligible for full Medicaid benefits or beneficiaries that are not eligible for full Medicaid benefits, calculated as described in § 510.301(a)(1).
+
 *EFT* stands for electronic funds transfer.
 
 *Episode benchmark price* means a dollar amount assigned to CJR episodes based on historical episode payment data (3 years of historical Medicare payment data grouped into CJR episodes according to the episode definition as described in § 510.200(b)) prior to the application of the effective discount factor or applicable discount factor, as described in § 510.300(c).
 
-*Episode of care* (or *Episode*) means all Medicare Part A and B items and services described in § 510.200(b) (and excluding the items and services described in § 510.200(d)) that are furnished to a beneficiary described in § 510.205 during the time period that begins with the beneficiary's admission to an anchor hospitalization and ends on the 90th day after the date of discharge from the anchor hospitalization, with the day of discharge itself being counted as the first day of the 90-day post-discharge period.
+*Episode of care (or Episode)* means all Medicare Part A and B items and services described in § 510.200(b) (and excluding the items and services described in § 510.200(d)) that are furnished to a beneficiary described in § 510.205 during the time period that begins with the beneficiary's admission to an anchor hospitalization or, on or after July 4, 2021, the date of admission to an anchor hospitalization or the date of the anchor procedure, as applicable, and ends on the 90th day after the following, as applicable:
+
+(1) The date of discharge from the anchor hospitalization (with the day of discharge itself being counted as the first day of the 90-day post-discharge period); or
+
+(2) The date of service for the anchor procedure.
 
 *ESRD* stands for end stage renal disease*.*
 
@@ -146,7 +158,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Metropolitan Statistical Area (MSA)* means a core-based statistical area associated with at least one urbanized area that has a population of at least 50,000.
 
-*Net payment reconciliation amount (NPRA)* means the amount determined in accordance with § 510.305(e).
+*Net payment reconciliation amount (NPRA)* means the amount determined in accordance with § 510.305(e) or (m).
 
 *Nonphysician practitioner* means (except for purposes of subpart G of this part) one of the following:
 
@@ -168,13 +180,17 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *OIG* stands for the Department of Health and Human Services Office of the Inspector General.
 
+*OP THA/OP TKA* means a total hip arthroplasty or total knee arthroplasty, respectively, for which the institutional claim is billed by the hospital through the OPPS.
+
+*OPPS* stands for the outpatient prospective payment system.
+
 *PAC* stands for post-acute care.
 
 *Participant hospital* means one of the following:
 
 (1) During performance years 1 and 2 of the CJR model and the period from January 1, 2018 to January 31, 2018 of performance year 3, a hospital (other than a hospital excepted under § 510.100(b)) with a CCN primary address located in one of the geographic areas selected for participation in the CJR model in accordance with § 510.105.
 
-(2) Beginning February 1, 2018, a hospital (other than a hospital excepted under § 510.100(b)) that is one of the following:
+(2) Between February 1, 2018 and September 30, 2021 a hospital (other than a hospital excepted under § 510.100(b)) that is one of the following:
 
 (i) A hospital with a CCN primary address located in a mandatory MSA as of February 1, 2018 that is not a rural hospital or a low-volume hospital on that date.
 
@@ -182,9 +198,11 @@ For the purposes of this part, the following definitions are applicable unless o
 
 (iii) A hospital with a CCN primary address located in a voluntary MSA that makes an election to participate in the CJR model in accordance with § 510.115.
 
+(3) Beginning October 1, 2021, a hospital that is not a rural hospital or a low-volume hospital as defined in § 510.2, as of July 4, 2021 (based on the date of the CMS notification letter and not the effective date of the rural reclassification, if applicable) with a CCN primary address located in a mandatory MSA.
+
 *PBPM* stands for per-beneficiary-per-month.
 
-*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exceptions of performance year 1, which is April 1, 2016 through December 31, 2016 and performance year 5, which is January 1, 2020 through September 30, 2021. For reconciliation purposes, performance year 5 is divided into two subsets, performance year subset 5.1 (January 1, 2020 through December 31, 2020) and performance year subset 5.2 (January 1, 2021 through September 30, 2021).
+*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exceptions of performance year 1, which is April 1, 2016 through December 31, 2016, performance year 5, which is January 1, 2020 through September 30, 2021, and performance year 6 which is October 1, 2021 through December 31, 2022. For reconciliation purposes, performance year 5 is divided into two subsets, performance year subset 5.1 (January 1, 2020 through December 31, 2020) and performance year subset 5.2 (January 1, 2021 through September 30, 2021).
 
 *PGP* stands for physician group practice.
 
@@ -202,11 +220,13 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Quality-adjusted target price* means the dollar amount assigned to CJR episodes as the result of adjusting the episode benchmark price by the participant hospital's effective discount factor or applicable discount factor based on the participant hospital's quality category, as described in §§ 510.300(c) and 510.315(f).
 
-*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure for performance years 2 through 4 and for performance year subsets 5.1 and 5.2, increases from the previous performance year or performance year subset by at least 2 deciles on the performance percentile scale, as described in § 510.315(d). For performance year 1, CMS adds quality improvement points to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d).
+*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure for performance years 2 through 4 and 6 through 8, or for performance year subsets of performance year 5, increases from the previous performance year or performance year subset by at least 2 deciles on the performance percentile scale, as described in § 510.315(d). For performance year 1, CMS adds quality improvement points to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d).
 
 *Quality performance points* are points that CMS adds to a participant hospital's composite quality score for a measure based on the performance percentile scale and for successful data submission of patient-reported outcomes.
 
-*Reconciliation payment* means a payment made by CMS to a CJR participant hospital as determined in accordance with § 510.305(f).
+*Reconciliation payment* means a payment made by CMS to a CJR participant hospital as determined in accordance with § 510.305(f) or (l).
+
+*Reconciliation target price* means, for performance years 6 through 8, the target price applied to an episode at reconciliation, as determined in accordance with § 510.301.
 
 *Region* means one of the nine U.S. census divisions, as defined by the U.S. Census Bureau.
 
@@ -238,7 +258,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 (3) Speech-language pathologist.
 
-*Therapist in private practice* means a therapist that -
+*Therapist in private practice* means a therapist that—
 
 (1) Complies with the special provisions for physical therapists in private practice in § 410.60(c) of this chapter;
 
@@ -252,4 +272,4 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Voluntary MSA* means an MSA designated by CMS as a voluntary participation MSA in accordance with § 510.105(a).
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020; 85 FR 71198, Nov. 6, 2020]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020; 85 FR 71198, Nov. 6, 2020; 86 FR 23569, May 3, 2021]

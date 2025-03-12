@@ -1,8 +1,6 @@
 ##### § 510.120 CJR participant hospital CEHRT track requirements. #####
 
-Link to an amendment published at 86 FR 23570, May 3, 2021.
-
-(a) *CJR CEHRT use.* For performance years 2 through 5, CJR participant hospitals choose either of the following:
+(a) *CJR CEHRT use.* For performance years 2 through 8, CJR participant hospitals choose either of the following:
 
 (1) *CEHRT use.* Participant hospitals attest in a form and manner specified by CMS to their use of CEHRT as defined in § 414.1305 of this chapter to document and communicate clinical care with patients and other health professionals.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 23570, May 3, 2021.
 
 (ii) The start date and, if applicable, end date, for the distribution arrangement between the CJR collaborator and the collaboration agent.
 
-(3) *Downstream collaboration agents.* For each physician, nonphysician practitioner, or therapist who is a downstream collaboration agent during the period of the CJR performance year specified by CMS -
+(3) *Downstream collaboration agents.* For each physician, nonphysician practitioner, or therapist who is a downstream collaboration agent during the period of the CJR performance year specified by CMS—
 
 (i) The name and TIN of the CJR collaborator and the name and TIN of the collaboration agent and the name, TIN, and NPI of the downstream collaboration agent.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 86 FR 23570, May 3, 2021.
 
 (2) The participant hospital must retain and provide access to the required documentation in accordance with § 510.110.
 
-[82 FR 612, Jan. 3, 2017, as amended at 82 FR 57103, Dec. 1, 2017]
+[82 FR 612, Jan. 3, 2017, as amended at 82 FR 57103, Dec. 1, 2017; 86 FR 23570, May 3, 2021]

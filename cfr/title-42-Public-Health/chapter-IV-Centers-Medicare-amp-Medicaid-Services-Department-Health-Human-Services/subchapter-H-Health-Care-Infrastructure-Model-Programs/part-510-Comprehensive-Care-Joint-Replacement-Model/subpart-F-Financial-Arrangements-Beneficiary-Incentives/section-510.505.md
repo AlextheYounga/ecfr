@@ -1,7 +1,5 @@
 ##### § 510.505 Distribution arrangements. #####
 
-Link to an amendment published at 86 FR 23575, May 3, 2021.
-
 (a) *General.* (1) An ACO, PGP, NPPGP, or TGP that has entered into a sharing arrangement with a participant hospital may distribute all or a portion of any gainsharing payment it receives from the participant hospital only in accordance with a distribution arrangement.
 
 (2) All distribution arrangements must comply with the provisions of this section and all other applicable laws and regulations, including the fraud and abuse laws.
@@ -22,9 +20,9 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (8) Except for a distribution payment from a PGP to a PGP member that complies with § 411.352(g) of this chapter, the total amount of distribution payments for a performance year paid to a collaboration agent must not exceed the following:
 
-(i) In the case of a collaboration agent that is a physician or nonphysician practitioner, 50 percent of the total Medicare-approved amounts under the PFS for items and services furnished by the collaboration agent to the participant hospital's CJR beneficiaries during CJR episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being distributed.
+(i) For episodes beginning on or after April 1, 2016 and ending on or before September 30, 2021, in the case of a collaboration agent that is a physician or non-physician practitioner, 50 percent of the total Medicare-approved amounts under the PFS for items and services furnished by the collaboration agent to the participant hospital's CJR beneficiaries during CJR model episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being distributed.
 
-(ii) In the case of a collaboration agent that is a PGP or NPPGP, 50 percent of the total Medicare-approved amounts under the PFS for items and services billed by that PGP or NPPGP for items and services furnished by PGP members or NPPGP member respectively to the participant hospital's CJR beneficiaries during CJR episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being distributed.
+(ii) For episodes beginning on or after April 1, 2016 and ending on or before September 30, 2021, in the case of a collaboration agent that is a PGP or NPPGP, 50 percent of the total Medicare-approved amounts under the PFS for items and services billed by that PGP or NPPGP for items and services furnished by PGP members or NPPGP member respectively to the participant hospital's CJR beneficiaries during CJR model episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being distributed.
 
 (9) With respect to the distribution of any gainsharing payment received by an ACO, PGP, NPPGP, or TGP, the total amount of all distribution payments must not exceed the amount of the gainsharing payment received by the CJR collaborator from the participant hospital.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (11) The collaboration agent must retain the ability to make decisions in the best interests of the patient, including the selection of devices, supplies, and treatments.
 
-(12) The distribution arrangement must not -
+(12) The distribution arrangement must not—
 
 (i) Induce the collaboration agent to reduce or limit medically necessary items and services to any Medicare beneficiary; or
 
@@ -52,4 +50,4 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (15) The CJR collaborator must retain and provide access to, and must require collaboration agents to retain and provide access to, the required documentation in accordance with § 510.110.
 
-[82 FR 620, Jan. 3, 2017]
+[82 FR 620, Jan. 3, 2017, as amended at 86 FR 23575, May 3, 2021]

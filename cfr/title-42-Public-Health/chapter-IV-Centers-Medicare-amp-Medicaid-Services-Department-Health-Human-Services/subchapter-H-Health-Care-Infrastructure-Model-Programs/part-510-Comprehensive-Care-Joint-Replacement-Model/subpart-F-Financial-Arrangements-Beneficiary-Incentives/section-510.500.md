@@ -1,7 +1,5 @@
 ##### § 510.500 Sharing arrangements under the CJR model. #####
 
-Link to an amendment published at 86 FR 23575, May 3, 2021.
-
 (a) *General.* (1) A participant hospital may enter into a sharing arrangement with a CJR collaborator to make a gainsharing payment, or to receive an alignment payment, or both. A participant hospital must not make a gainsharing payment or receive an alignment payment except in accordance with a sharing arrangement.
 
 (2) A sharing arrangement must comply with the provisions of this section and all other applicable laws and regulations, including the applicable fraud and abuse laws and all applicable payment and coverage requirements.
@@ -46,13 +44,13 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (D) Methodology and accounting formula for determining the amount of a gainsharing payment or alignment payment.
 
-(8) The sharing arrangement must not -
+(8) The sharing arrangement must not—
 
 (i) Induce the participant hospital, CJR collaborator, or any employees, contractors, or subcontractors of the participant hospital or CJR collaborator to reduce or limit medically necessary services to any Medicare beneficiary; or
 
 (ii) Restrict the ability of a CJR collaborator to make decisions in the best interests of its patients, including the selection of devices, supplies, and treatments.
 
-(c) *Gainsharing payment, alignment payment, and internal cost savings conditions and restrictions.* (1) Gainsharing payments, if any, must -
+(c) *Gainsharing payment, alignment payment, and internal cost savings conditions and restrictions.* (1) Gainsharing payments, if any, must—
 
 (i) Be derived solely from reconciliation payments, or internal cost savings, or both;
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (A) The PGP, NPPGP, or TGP must have billed for an item or service that was rendered by one or more PGP member, NPPGP member, or TGP member respectively to a CJR beneficiary during a CJR episode that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed a repayment amount.
 
-(B) The PGP, NPPGP, or TGP must have contributed to CJR activities and been clinically involved in the care of CJR beneficiaries during the same performance year for which the CJR participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed a repayment amount. For example, a PGP, NPPGP, or TGP might have been clinically involved in the care of CJR beneficiaries by -
+(B) The PGP, NPPGP, or TGP must have contributed to CJR activities and been clinically involved in the care of CJR beneficiaries during the same performance year for which the CJR participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed a repayment amount. For example, a PGP, NPPGP, or TGP might have been clinically involved in the care of CJR beneficiaries by—
 
 (*1*) Providing care coordination services to beneficiaries during and/or after inpatient admission;
 
@@ -82,7 +80,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (A) The ACO must have had an ACO provider/supplier that directly furnished, or an ACO participant that billed for, an item or service that was rendered to a CJR beneficiary during a CJR episode that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed a repayment amount; and
 
-(B) The ACO must have contributed to CJR activities and been clinically involved in the care of CJR beneficiaries during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed the repayment amount. For example, an ACO might be have been clinically involved in the care of CJR beneficiaries by -
+(B) The ACO must have contributed to CJR activities and been clinically involved in the care of CJR beneficiaries during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment or was assessed the repayment amount. For example, an ACO might be have been clinically involved in the care of CJR beneficiaries by—
 
 (*1*) Providing care coordination services to CJR beneficiaries during and/or after inpatient admission;
 
@@ -92,7 +90,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (3)(i) The methodology for accruing, calculating and verifying internal cost savings must be transparent, measurable, and verifiable in accordance with generally accepted accounting principles (GAAP) and Government Auditing Standards (The Yellow Book).
 
-(ii) The methodology used to calculate internal cost savings must reflect the actual, internal cost savings achieved by the participant hospital through the documented implementation of CJR activities identified by the participant hospital and must exclude -
+(ii) The methodology used to calculate internal cost savings must reflect the actual, internal cost savings achieved by the participant hospital through the documented implementation of CJR activities identified by the participant hospital and must exclude—
 
 (A) Any savings realized by any individual or entity that is not the participant hospital; and
 
@@ -100,9 +98,9 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (4) The total amount of a gainsharing payment for a performance year paid to a CJR collaborator must not exceed the following:
 
-(i) In the case of a CJR collaborator who is a physician or nonphysician practitioner, 50 percent of the Medicare-approved amounts under the PFS for items and services furnished by that physician or nonphysician practitioner to the participant hospital's CJR beneficiaries during CJR episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being made.
+(i) For episodes beginning on or after April 1, 2016 and ending on or before September 30, 2021, in the case of a CJR collaborator who is a physician or non-physician practitioner, 50 percent of the Medicare-approved amounts under the PFS for items and services furnished by that physician or non-physician practitioner to the participant hospital's CJR beneficiaries during CJR model episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being made.
 
-(ii) In the case of a CJR collaborator that is a PGP or NPPGP, 50 percent of the Medicare-approved amounts under the PFS for items and services billed by that PGP or NPPGP and furnished to the participant hospital's CJR beneficiaries by the PGP members or NPPGP members respectively during CJR episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being made.
+(ii) For episodes beginning on or after April 1, 2016 and ending on or before September 30, 2021, in the case of a CJR collaborator that is a PGP or NPPGP, 50 percent of the Medicare-approved amounts under the PFS for items and services billed by that PGP or NPPGP and furnished to the participant hospital's CJR beneficiaries by the PGP members or NPPGP members respectively during CJR model episodes that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment being made.
 
 (5) The amount of any gainsharing payments must be determined in accordance with a methodology that is substantially based on quality of care and the provision of CJR activities. The methodology may take into account the amount of such CJR activities provided by a CJR collaborator relative to other CJR collaborators.
 
@@ -114,7 +112,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (9) The sharing arrangement must require the participant hospital to recoup any gainsharing payment that contained funds derived from a CMS overpayment on a reconciliation report or was based on the submission of false or fraudulent data.
 
-(10) Alignment payments from a CJR collaborator to a participant hospital may be made at any interval that is agreed upon by both parties, and must not be -
+(10) Alignment payments from a CJR collaborator to a participant hospital may be made at any interval that is agreed upon by both parties, and must not be—
 
 (i) Issued, distributed, or paid prior to the calculation by CMS of a repayment amount reflected in a reconciliation report;
 
@@ -126,7 +124,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (12) For a performance year, the aggregate amount of all alignment payments received by the participant hospital must not exceed 50 percent of the participant hospital's repayment amount.
 
-(13) The aggregate amount of all alignment payments from a CJR collaborator to the participant hospital may not be greater than -
+(13) The aggregate amount of all alignment payments from a CJR collaborator to the participant hospital may not be greater than—
 
 (i) With respect to a CJR collaborator other than an ACO, 25 percent of the participant hospital's repayment amount.
 
@@ -138,9 +136,9 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (16) All gainsharing payments and alignment payments must be made by check, electronic funds transfer, or another traceable cash transaction.
 
-(d) *Documentation requirements.* (1) Participant hospitals must - (i) Document the sharing arrangement contemporaneously with the establishment of the arrangement;
+(d) *Documentation requirements.* (1) Participant hospitals must—(i) Document the sharing arrangement contemporaneously with the establishment of the arrangement;
 
-(ii) Publicly post (and update on at least a quarterly basis) on a Web page on the CJR participant hospital's Web site -
+(ii) Publicly post (and update on at least a quarterly basis) on a Web page on the CJR participant hospital's Web site—
 
 (A) Accurate current and historical lists of all CJR collaborators, including CJR collaborator names and addresses.
 
@@ -174,4 +172,4 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (3) The participant hospital must retain and provide access to, and must require each CJR collaborator to retain and provide access to, the required documentation in accordance with § 510.110.
 
-[82 FR 617, Jan. 3, 2017]
+[82 FR 617, Jan. 3, 2017, as amended at 86 FR 23575, May 3, 2021]

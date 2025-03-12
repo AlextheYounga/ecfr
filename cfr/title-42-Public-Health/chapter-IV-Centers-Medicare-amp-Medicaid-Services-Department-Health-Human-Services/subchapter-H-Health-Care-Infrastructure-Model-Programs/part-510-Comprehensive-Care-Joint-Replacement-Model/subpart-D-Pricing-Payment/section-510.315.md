@@ -1,7 +1,5 @@
 ##### § 510.315 Composite quality scores for determining reconciliation payment eligibility and quality incentive payments. #####
 
-Link to an amendment published at 86 FR 23573, May 3, 2021.
-
 (a) *General.* A participant hospital's eligibility for a reconciliation payment under § 510.305(g), and the determination of quality incentive payments under paragraph (f) of this section, for a performance year or performance year subset depend on the hospital's composite quality score (including any quality performance points and quality improvement points earned) for that performance year or performance year subset.
 
 (b) *Composite quality score.* CMS calculates a composite quality score for each participant hospital for each performance year or performance year subset which equals the sum of the following:
@@ -52,11 +50,13 @@ Link to an amendment published at 86 FR 23573, May 3, 2021.
 
 (viii) 0.0 points for \<30th.
 
-(d) *Quality improvement points.* For performance year 1, if a participant hospital's quality performance percentile on an individual measure described in § 510.400(a) increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, then the hospital is eligible to receive quality improvement points equal to 10 percent of the total available point for that individual measure up to a maximum composite quality score of 20 points. For each of performance years 2 through 4 and for each of performance year subsets 5.1 and 5.2, if a participant hospital's quality performance percentile on an individual measure described in § 510.400(a) increases from the previous performance year or performance year subset by at least 2 deciles on the performance percentile scale, then the hospitals is eligible to receive quality improvement points equal to 10 percent of the total available point for that individual measure up to a maximum composite quality score of 20 points.
+(d) *Quality improvement points.* (1) For performance year 1, if a participant hospital's quality performance percentile on an individual measure described in § 510.400(a) increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, then the hospitals is eligible to receive quality improvement points equal to 10 percent of the total available point for that individual measure up to a maximum composite quality score of 20 points.
+
+(2) For each of performance years 2 through 4, each of performance year subsets 5.1 and 5.2, and each of performance years 6 through 8, if a participant hospital's quality performance percentile on an individual measure described in § 510.400(a) increases from the previous performance year or performance year subset by at least 2 deciles on the performance percentile scale, then the hospital is eligible to receive quality improvement points equal to 10 percent of the total available point for that individual measure up to a maximum composite quality score of 20 points.
 
 (e) *Exception for hospitals without a measure value.* In the case of a participant hospital without a measure value that would allow CMS to assign quality performance points for that quality measure, CMS assigns the 50th percentile quality performance points to the hospital for the individual measure.
 
-(1) A participant hospital will not have a measure value for the -
+(1) A participant hospital will not have a measure value for the—
 
 (i) Hospital-level risk-standardized complication rate following elective primary total hip arthroplasty and/or total knee arthroplasty measure (NQF #1550) described in § 510.400(a)(1) if the hospital does not meet the minimum 25 case count; or
 
@@ -66,8 +66,16 @@ Link to an amendment published at 86 FR 23573, May 3, 2021.
 
 (f) *Quality incentive payments.* CMS provides incentive payments to participant hospitals that demonstrate good or excellent quality performance on the composite quality scores described in paragraph (b) of this section. These incentive payments are implemented in the form of the following reductions to the effective discount factors or applicable discount factors described in § 510.300(c):
 
-(1) A 1.0 percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with good quality performance, defined as composite quality scores that are greater than or equal to 6.9 and less than or equal to 15.0.
+(1) *Performance years 1 through 5.* For performance years 1 through 5—
 
-(2) A 1.5 percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with excellent quality performance, defined as composite quality scores that are greater than 15.0.
+(i) A 1.0 percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with good quality performance, defined as composite quality scores that are greater than or equal to 6.9 and less than or equal to 15.0; or
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 85 FR 71201, Nov. 6, 2020]
+(ii) A 1.5 percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with excellent quality performance, defined as composite quality scores that are greater than 15.0.
+
+(2) *Performance years 6 through 8.* For performance years 6 through 8—
+
+(i) A 1.5-percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with good quality performance, defined as composite quality scores that are greater than or equal to 6.9 and less than or equal to 15.0; or
+
+(ii) A 3-percentage point reduction to the effective discount factor or applicable discount factor for participant hospitals with excellent quality performance, defined as composite quality scores that are greater than 15.0.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 85 FR 71201, Nov. 6, 2020; 86 FR 23573, May 3, 2021]

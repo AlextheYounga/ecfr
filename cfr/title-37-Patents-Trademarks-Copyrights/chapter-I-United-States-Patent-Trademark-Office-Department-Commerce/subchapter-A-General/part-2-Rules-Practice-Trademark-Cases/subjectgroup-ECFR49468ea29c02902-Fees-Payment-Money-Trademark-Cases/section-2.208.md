@@ -18,6 +18,6 @@
 
 (2) A payment to replenish a deposit account may be submitted by electronic funds transfer over the Office's Internet Web site (*www.uspto.gov*).
 
-(3) A payment to replenish a deposit account may be addressed to: Director of the United States Patent and Trademark Office, Attn: Deposit Accounts, 2051 Jamieson Avenue, Suite 300, Alexandria, Virginia 22314.
+(3) A payment to replenish a deposit account may be addressed to: Mail Stop Deposit Accounts, Director of the United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450.
 
-[68 FR 48292, Aug. 13, 2003, as amended at 69 FR 43752, July 22, 2004; 70 FR 56128, Sept. 26, 2005; 73 FR 67775, Nov. 17, 2008; 81 FR 72707, Oct. 21, 2016]
+[68 FR 48292, Aug. 13, 2003, as amended at 69 FR 43752, July 22, 2004; 70 FR 56128, Sept. 26, 2005; 73 FR 67775, Nov. 17, 2008; 81 FR 72707, Oct. 21, 2016; 86 FR 35231, July 2, 2021]

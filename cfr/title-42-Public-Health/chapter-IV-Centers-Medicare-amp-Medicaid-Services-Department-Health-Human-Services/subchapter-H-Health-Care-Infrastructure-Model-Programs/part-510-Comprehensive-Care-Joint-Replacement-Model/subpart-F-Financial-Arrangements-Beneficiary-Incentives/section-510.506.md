@@ -1,7 +1,5 @@
 ##### § 510.506 Downstream distribution arrangements. #####
 
-Link to an amendment published at 86 FR 23575, May 3, 2021.
-
 (a) *General.* (1) An ACO participant that is a PGP, NPPGP, or TGP and that has entered into a distribution arrangement with a CJR collaborator that is an ACO may distribute all or a portion of any distribution payment it receives from the CJR collaborator only in accordance with downstream distribution arrangement.
 
 (2) All downstream distribution arrangements must comply with the provisions of this section and all applicable laws and regulations, including the fraud and abuse laws.
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (7) Except for a downstream distribution payment from a PGP to a PGP member that complies with § 411.352(g) of this chapter, a downstream collaboration agent is eligible to receive a downstream distribution payment only if the downstream collaboration agent furnished an item or service by the downstream collaboration agent to a CJR beneficiary during a CJR episode that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the gainsharing payment from which the ACO made the distribution payment to the PGP, NPPGP, or TGP that is an ACO participant.
 
-(8) Except for a downstream distribution payment from a PGP to a PGP member that complies with § 411.352(g) of this chapter, the total amount of downstream distribution payments for a performance year paid to a downstream collaboration agent who is a physician or nonphysician practitioner and is either a member of a PGP or a member of an NPPGP must not exceed 50 percent of the total Medicare-approved amounts under the PFS for items and services furnished by the downstream collaboration agent to the participant hospital's CJR beneficiaries during a CJR episode that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the distribution payment being distributed.
+(8) Except for a downstream distribution payment from a PGP to a PGP member that complies with § 411.352(g) of this chapter, for episodes beginning on or after April 1, 2016 and ending on or before September 30, 2021 the total amount of downstream distribution payments for a performance year paid to a downstream collaboration agent who is a physician or non-physician practitioner and is either a member of a PGP or a member of an NPPGP must not exceed 50 percent of the total Medicare-approved amounts under the PFS for items and services furnished by the downstream collaboration agent to the participant hospital's CJR beneficiaries during a CJR model episode that occurred during the same performance year for which the participant hospital accrued the internal cost savings or earned the reconciliation payment that comprises the distribution payment being distributed.
 
 (9) The total amount of all downstream distribution payments made to downstream collaboration agents must not exceed the amount of the distribution payment received by the PGP, NPPGP, or TGP from the ACO.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (11) The downstream collaboration agent must retain his or her ability to make decisions in the best interests of the patient, including the selection of devices, supplies, and treatments.
 
-(12) The downstream distribution arrangement must not -
+(12) The downstream distribution arrangement must not—
 
 (i) Induce the downstream collaboration agent to reduce or limit medically necessary services to any Medicare beneficiary; or
 
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (iv) A description of the methodology and accounting formula for determining the amount of any downstream distribution payment.
 
-(14) The PGP, NPPGP, or TGP may not enter into a downstream distribution arrangement with any PGP member, NPPGP member, or TGP member who has -
+(14) The PGP, NPPGP, or TGP may not enter into a downstream distribution arrangement with any PGP member, NPPGP member, or TGP member who has—
 
 (i) A sharing arrangement with a participant hospital.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 86 FR 23575, May 3, 2021.
 
 (15) The PGP, NPPGP, or TGP must retain and provide access to, and must require downstream collaboration agents to retain and provide access to, the required documentation in accordance with § 510.110.
 
-[82 FR 621, Jan. 3, 2017]
+[82 FR 621, Jan. 3, 2017, as amended at 86 FR 23575, May 3, 2021]

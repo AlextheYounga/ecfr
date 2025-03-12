@@ -1,7 +1,5 @@
 ##### § 90.205 Power and antenna height limits. #####
 
-Link to an amendment published at 86 FR 23297, May 3, 2021.
-
 Applicants for licenses must request and use no more power than the actual power necessary for satisfactory operation. Except where otherwise specifically provided for, the maximum power that will be authorized to applicants whose license applications for new stations are filed after August 18, 1995 is as follows:
 
 (a) *Below 25 MHz.* For single sideband operations (J3E emission), the maximum transmitter peak envelope power is 1000 watts.
@@ -16,21 +14,15 @@ Applicants for licenses must request and use no more power than the actual power
 
 (3) An applicant for a station with a service area radius greater than 40 km (25 mi) must justify the requested service area radius, which will be authorized only in accordance with table 1, note 4. For base stations with service areas greater than 80 km, all operations 80 km or less from the base station will be on a primary basis and all operations outside of 80 km from the base station will be on a secondary basis and will be entitled to no protection from primary operations.
 
-Table 1 - 150-174MHz - Maximum ERP/Reference HAAT for a Specific Service Area Radius
-
-|                                    |Service area radius (km)|   |   |                |                |                |              |                |                |                |
-|------------------------------------|------------------------|---|---|----------------|----------------|----------------|--------------|----------------|----------------|----------------|
-|                 3                  |           8            |13 |16 |       24       |       32       |       40       |48<sup>4</sup>| 64<sup>4</sup> | 80<sup>4</sup> |                |
-|    Maximum ERP (w)<sup>1</sup>     |           1            |28 |178|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|     500      |<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|
-|Up to reference HAAT (m)<sup>3</sup>|           15           |15 |15 |       15       |       33       |       65       |     110      |      160       |      380       |      670       |
-
-<sup>1</sup> Maximum ERP indicated provides for a 37 dBu signal strength at the edge of the service area per FCC Report R-6602, Fig. 19 (See § 73.699, Fig. 10).
-
-<sup>2</sup> Maximum ERP of 500 watts allowed. Signal strength at the service area contour may be less than 37 dBu.
-
-<sup>3</sup> When the actual antenna HAAT is greater than the reference HAAT, the allowable ERP will be reduced in accordance with the following equation: ERPallow = ERPmax × (HAATref / HAATactual)<sup>2</sup>.
-
-<sup>4</sup> Applications for this service area radius may be granted upon specific request with justification and must include a technical demonstration that the signal strength at the edge of the service area does not exceed 37 dBu.
+|                                                                                                                                                                                                                                                               |Service area radius (km)|   |   |                |                |                |               |                |                |                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---|---|----------------|----------------|----------------|---------------|----------------|----------------|----------------|
+|                                                                                                                               3                                                                                                                               |           8            |13 |16 |       24       |       32       |       40       |48 <sup>4</sup>|64 <sup>4</sup> |80 <sup>4</sup> |                |
+|                                                                                                                 Maximum ERP (w) <sup>1</sup>                                                                                                                  |           1            |28 |178|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|      500      |<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|
+|                                                                                                             Up to reference HAAT (m) <sup>3</sup>                                                                                                             |           15           |15 |15 |       15       |       33       |       65       |      110      |      160       |      380       |      670       |
+|                                               <sup>1</sup> Maximum ERP indicated provides for a 37 dBu signal strength at the edge of the service area per FCC Report R-6602, Fig. 19 (See § 73.699, Fig. 10).                                                |                        |   |   |                |                |                |               |                |                |                |
+|                                                                      <sup>2</sup> Maximum ERP of 500 watts allowed. Signal strength at the service area contour may be less than 37 dBu.                                                                      |                        |   |   |                |                |                |               |                |                |                |
+|<sup>3</sup> When the actual antenna HAAT is greater than the reference HAAT, the allowable ERP will be reduced in accordance with the following equation: ERP<sub>allow</sub> = ERP<sub>max</sub> × (HAAT<sub>ref</sub> / HAAT<sub>actual</sub>) <sup>2</sup>.|                        |   |   |                |                |                |               |                |                |                |
+|          <sup>4</sup> Applications for this service area radius may be granted upon specific request with justification and must include a technical demonstration that the signal strength at the edge of the service area does not exceed 37 dBu.           |                        |   |   |                |                |                |               |                |                |                |
 
 (e) *217-220 MHz.* Limitations on power and antenna heights are specified in § 90.259.
 
@@ -44,21 +36,15 @@ Table 1 - 150-174MHz - Maximum ERP/Reference HAAT for a Specific Service Area Ra
 
 (3) An applicant for a station with a service area radius greater than 32 km (20 mi) must justify the requested service area radius, which may be authorized only in accordance with table 2, note 4. For base stations with service areas greater than 80 km, all operations 80 km or less from the base station will be on a primary basis and all operations outside of 80 km from the base station will be on a secondary basis and will be entitled to no protection from primary operations.
 
-Table 2 - 450-470 MHz - Maximum ERP/Reference HAAT for a Specific Service Area Radius
-
-|                                    |Service area radius (km)|   |                |                |                |                |                |                |                |                |
-|------------------------------------|------------------------|---|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-|                 3                  |           8            |13 |       16       |       24       |       32       | 40<sup>4</sup> | 48<sup>4</sup> | 64<sup>4</sup> | 80<sup>4</sup> |                |
-|    Maximum ERP (w)<sup>1</sup>     |           2            |100|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|
-|Up to reference HAAT (m)<sup>3</sup>|           15           |15 |       15       |       27       |       63       |      125       |      250       |      410       |      950       |      2700      |
-
-<sup>1</sup> Maximum ERP indicated provides for a 39 dBu signal strength at the edge of the service area per FCC Report R-6602, Fig. 29 (See § 73.699, Fig. 10 b).
-
-<sup>2</sup> Maximum ERP of 500 watts allowed. Signal strength at the service area contour may be less than 39 dBu.
-
-<sup>3</sup> When the actual antenna HAAT is greater than the reference HAAT, the allowable ERP will be reduced in accordance with the following equation: ERPallow = ERPmax × (HAATref / HAATactual)<sup>2</sup>.
-
-<sup>4</sup> Applications for this service area radius may be granted upon specific request with justification and must include a technical demonstration that the signal strength at the edge of the service area does not exceed 39 dBu.
+|                                                                                                                                                                                                                                                               |Service area radius (km)|   |                |                |                |                |                |                |                |                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+|                                                                                                                               3                                                                                                                               |           8            |13 |       16       |       24       |       32       |40 <sup>4</sup> |48 <sup>4</sup> |64 <sup>4</sup> |80 <sup>4</sup> |                |
+|                                                                                                                 Maximum ERP (w) <sup>1</sup>                                                                                                                  |           2            |100|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|<sup>2</sup> 500|
+|                                                                                                             Up to reference HAAT (m) <sup>3</sup>                                                                                                             |           15           |15 |       15       |       27       |       63       |      125       |      250       |      410       |      950       |      2700      |
+|                                              <sup>1</sup> Maximum ERP indicated provides for a 39 dBu signal strength at the edge of the service area per FCC Report R-6602, Fig. 29 (See § 73.699, Fig. 10 b).                                               |                        |   |                |                |                |                |                |                |                |                |
+|                                                                      <sup>2</sup> Maximum ERP of 500 watts allowed. Signal strength at the service area contour may be less than 39 dBu.                                                                      |                        |   |                |                |                |                |                |                |                |                |
+|<sup>3</sup> When the actual antenna HAAT is greater than the reference HAAT, the allowable ERP will be reduced in accordance with the following equation: ERP<sub>allow</sub> = ERP<sub>max</sub> × (HAAT<sub>ref</sub> / HAAT<sub>actual</sub>) <sup>2</sup>.|                        |   |                |                |                |                |                |                |                |                |
+|          <sup>4</sup> Applications for this service area radius may be granted upon specific request with justification and must include a technical demonstration that the signal strength at the edge of the service area does not exceed 39 dBu.           |                        |   |                |                |                |                |                |                |                |                |
 
 (i) *470-512 MHz.* Power and height limitations are specified in §§ 90.307 and 90.309.
 
@@ -76,10 +62,10 @@ Table 2 - 450-470 MHz - Maximum ERP/Reference HAAT for a Specific Service Area R
 
 (p) *4940-4990 MHz.* Limitations on power are specified in § 90.1215.
 
-(q) *5850-5925 MHz.* Power and height limitations are specified in subpart M of this part.
+(q) *5895-5925 MHz.* Power and height limitations are specified in subpart M of this part.
 
 (r) *All other frequency bands.* Requested transmitter power will be considered and authorized on a case by case basis.
 
 (s) The output power shall not exceed by more than 20 percent either the output power shown in the Radio Equipment List [available in accordance with § 90.203(a)(1)] for transmitters included in this list or when not so listed, the manufacturer's rated output power for the particular transmitter specifically listed on the authorization.
 
-[60 FR 37262, July 19, 1995, as amended at 62 FR 2039, Jan. 15, 1997; 63 FR 58651, Nov. 2, 1998; 64 FR 66409, Nov. 26, 1999; 67 FR 41860, June 20, 2002; 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 72 FR 48860, Aug. 24, 2007; 79 FR 600, Jan. 6, 2014; 85 FR 43138, July 15, 2020]
+[60 FR 37262, July 19, 1995, as amended at 62 FR 2039, Jan. 15, 1997; 63 FR 58651, Nov. 2, 1998; 64 FR 66409, Nov. 26, 1999; 67 FR 41860, June 20, 2002; 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 72 FR 48860, Aug. 24, 2007; 79 FR 600, Jan. 6, 2014; 85 FR 43138, July 15, 2020; 86 FR 23297, May 3, 2021]

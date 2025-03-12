@@ -1,12 +1,12 @@
 ##### § 90.203 Certification required. #####
 
-Link to an amendment published at 86 FR 23297, May 3, 2021.
-
 (a) Except as specified in paragraphs (b) and (l) of this section, each transmitter utilized for operation under this part and each transmitter marketed as set forth in § 2.803 of this chapter must be of a type which has been certified for use under this part.
 
 (1) Effective October 16, 2002, except in the 1427-1432 MHz band, an equipment approval may no longer be obtained for in-hospital medical telemetry equipment operating under the provisions of this part. The requirements for obtaining an approval for medical telemetry equipment after this date are found in subpart H of part 95 of this chapter.
 
-(2) Any manufacturer of radio transmitting equipment (including signal boosters) to be used in these services may request certification for such equipment following the procedures set forth in subpart J of part 2 of this chapter. Certification for an individual transmitter or signal booster also may be requested by an applicant for a station authorization by following the procedure set forth in part 2 of this chapter. Such equipment if approved will be individually enumerated on the station authorization.
+(2) Effective July 5, 2022, an equipment approval may no longer be obtained for DSRCS equipment (RSUs and OBUs) operating under the provisions of this part.
+
+(3) Any manufacturer of radio transmitting equipment (including signal boosters) to be used in these services may request certification for such equipment following the procedures set forth in subpart J of part 2 of this chapter. Certification for an individual transmitter or signal booster also may be requested by an applicant for a station authorization by following the procedure set forth in part 2 of this chapter. Such equipment if approved will be individually enumerated on the station authorization.
 
 (b) Certification is not required for the following:
 

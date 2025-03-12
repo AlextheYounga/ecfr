@@ -36,11 +36,7 @@
 
 (5) *Forms.* The Office provides forms for the public to use in certain situations to assist in the filing of correspondence for a certain purpose and to meet certain requirements for patent applications and proceedings. Use of the forms for purposes for which they were not designed is prohibited. No changes to certification statements on the Office forms (*e.g.,* oath or declaration forms, terminal disclaimer forms, petition forms, and nonpublication request forms) may be made. The existing text of a form, other than a certification statement, may be modified, deleted, or added to, if all text identifying the form as an Office form is removed. The presentation to the Office (whether by signing, filing, submitting, or later advocating) of any Office form with text identifying the form as an Office form by a party, whether a practitioner or non-practitioner, constitutes a certification under § 11.18(b) of this chapter that the existing text and any certification statements on the form have not been altered other than permitted by EFS-Web customization.
 
-(e) The following correspondence must be submitted with an original handwritten signature personally signed in permanent dark ink or its equivalent:
-
-(1) Correspondence requiring a person's signature and relating to registration to practice before the Patent and Trademark Office in patent cases, enrollment and disciplinary investigations, or disciplinary proceedings; and
-
-(2) Payments by credit cards where the payment is not being made via the Office's electronic filing systems.
+(e) [Reserved]
 
 (f) When a document that is required by statute to be certified must be filed, a copy, including a photocopy or facsimile transmission, of the certification is not acceptable.
 

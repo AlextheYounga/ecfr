@@ -1,7 +1,5 @@
 ##### § 90.35 Industrial/Business Pool. #####
 
-Link to an amendment published at 86 FR 23296, May 3, 2021.
-
 (a) *Eligibility.* Persons primarily engaged in any of the following activities are eligible to hold authorizations in the Industrial/Business Pool to provide commercial mobile radio service as defined in part 20 of this chapter or to operate stations for transmission of communications necessary to such activities of the licensee:
 
 (1) The operation of a commercial activity;
@@ -26,11 +24,9 @@ Link to an amendment published at 86 FR 23296, May 3, 2021.
 
 (iv) The letter symbols listed in the Coordinator column of the frequency table in paragraph (b)(3) of this section refer to specific frequency coordinators as follows:
 
-IP - Petroleum CoordinatorIW - Power CoordinatorLR - Railroad CoordinatorLA - Automobile Emergency Coordinator
+IP—Petroleum CoordinatorIW—Power CoordinatorLR—Railroad CoordinatorLA—Automobile Emergency Coordinator
 
 (3) *Frequencies.*
-
-Industrial/Business Pool Frequency Table
 
 |Frequency or band|       Class of station(s)        |    Limitations    |  Coordinator  |
 |-----------------|----------------------------------|-------------------|---------------|
@@ -2967,7 +2963,7 @@ Industrial/Business Pool Frequency Table
 |   935 to 940    |          Base or mobile          |        71.        |               |
 |  1427 to 1432   |Base, mobile or operational fixed.|        55         |               |
 | 2,450 to 2,500  |          Base or mobile          |        74.        |               |
-|    5850-5925    |             .....do              |      90, 91       |Not applicable.|
+|    5895-5925    |             ......do             |      90, 91       |Not applicable.|
 |10,550 to 10, 680|             ......do             |        76.        |               |
 
 (c) Explanation of assignment limitations appearing in the frequency table of paragraph (b)(3) of this section:
@@ -3146,26 +3142,25 @@ Industrial/Business Pool Frequency Table
 
 (iii) For mobile relay operations under paragraph (c)(60)(i) of this section, frequency pairing is as follows:
 
-|Mobile relay (MHz)<sup>1</sup>|Mobile (MHz)|
-|------------------------------|------------|
-|           457.525            |  467.750   |
-|          457.53125           | 467.75625  |
-|           457.5375           |  467.7625  |
-|          457.54375           | 467.76875  |
-|           457.550            |  467.775   |
-|          457.55625           | 467.78125  |
-|           457.5625           |  467.7875  |
-|          457.56875           | 467.79375  |
-|           457.575            |  467.800   |
-|          457.58125           | 467.80625  |
-|           457.5875           |  467.8125  |
-|          457.59375           | 467.81875  |
-|           457.600            |  467.825   |
-|          457.60625           | 467.83125  |
-|           457.6125           |            |
-|          457.61875           |            |
-
-<sup>1</sup> The mobile relay frequencies may also be used for single frequency simplex.
+|                            Mobile relay (MHz) <sup>1</sup>                             |Mobile (MHz)|
+|----------------------------------------------------------------------------------------|------------|
+|                                        457.525                                         |  467.750   |
+|                                       457.53125                                        | 467.75625  |
+|                                        457.5375                                        |  467.7625  |
+|                                       457.54375                                        | 467.76875  |
+|                                        457.550                                         |  467.775   |
+|                                       457.55625                                        | 467.78125  |
+|                                        457.5625                                        |  467.7875  |
+|                                       457.56875                                        | 467.79375  |
+|                                        457.575                                         |  467.800   |
+|                                       457.58125                                        | 467.80625  |
+|                                        457.5875                                        |  467.8125  |
+|                                       457.59375                                        | 467.81875  |
+|                                        457.600                                         |  467.825   |
+|                                       457.60625                                        | 467.83125  |
+|                                        457.6125                                        |            |
+|                                       457.61875                                        |            |
+|<sup>1</sup> The mobile relay frequencies may also be used for single frequency simplex.|            |
 
 (61) This frequency is available for assignment as follows:
 
@@ -3451,8 +3446,7 @@ Industrial/Business Pool Frequency Table
 |                    Wilmington, DE: New Castle (ILG)                     |     39°40′43.4″     | 75°36′23.5″  |
 |                 Worcester, MA: Worcester Regional (ORH)                 |     42°16′02.4″     | 71°52′32.6″  |
 |       Youngstown-Warren, OH-PA: Youngstown-Warren Regional (YNG)        |     41°15′38.7″     | 80°40′44.8″  |
-
-Coordinates followed by an “E” are east longitude.
+|           Coordinates followed by an “E” are east longitude.            |                     |              |
 
 (62) This frequency may be assigned to fixed stations in the Industrial/Business Pool in accordance with the provisions of § 90.261.
 
