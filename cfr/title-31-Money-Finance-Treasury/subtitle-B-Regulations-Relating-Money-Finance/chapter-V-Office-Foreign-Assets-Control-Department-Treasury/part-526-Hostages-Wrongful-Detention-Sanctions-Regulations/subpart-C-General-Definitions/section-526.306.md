@@ -1,0 +1,3 @@
+##### § 526.306 Hostage-taking. #####
+
+The term *hostage-taking* has the same meaning as provided in Presidential Policy Directive 30 of June 24, 2015 (“U.S. Nationals Taken Hostage Abroad and Personnel Recovery Efforts”), which is the unlawful abduction or holding of a person or persons against their will in order to compel a third person or governmental organization to do or to abstain from doing any act as a condition for the release of the person detained.

@@ -1,6 +1,6 @@
 ##### § 25.1447 Equipment standards for oxygen dispensing units. #####
 
-Link to an amendment published at 88 FR 39161, June 15, 2023.
+Link to an amendment published at 88 FR 39161, June 15, 2023.Link to a correction of the above amendment published at 88 FR 44032, July 11, 2023.
 
 If oxygen dispensing units are installed, the following apply:
 

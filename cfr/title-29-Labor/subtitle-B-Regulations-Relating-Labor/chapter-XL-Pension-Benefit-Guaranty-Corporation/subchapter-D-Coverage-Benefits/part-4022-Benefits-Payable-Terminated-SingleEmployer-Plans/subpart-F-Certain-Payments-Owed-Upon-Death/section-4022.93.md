@@ -1,5 +1,7 @@
 ##### § 4022.93 Who will get benefits the PBGC may owe me at the time of my death? #####
 
+Link to an amendment published at 88 FR 44052, July 11, 2023.
+
 (a) *In general.* Except as provided in paragraphs (b) and (c) of this section (which explain what happens if you die before the date we take over your plan or within 180 days after the date we take over your plan), we will pay any benefits we owe you at the time of your death to the person(s) surviving you in the following order—
 
 (1) *Designee with the PBGC.* The person(s) you designated with us to get any benefits we may owe you at the time of your death. See § 4022.94 for information on designating with us.

@@ -1,5 +1,7 @@
 ##### § 4022.9 Time of payment; benefit applications. #####
 
+Link to an amendment published at 88 FR 44052, July 11, 2023.
+
 (a) *Time of payment.* A participant may start receiving an annuity benefit from the PBGC (subject to the PBGC's rules for starting benefit payments) on his or her Earliest PBGC Retirement Date as determined under § 4022.10 of this subchapter or, if later, the plan's termination date.
 
 (b) *Elections and consents.* The PBGC may prescribe the time and manner for benefit elections to be made and spousal consents to be provided.

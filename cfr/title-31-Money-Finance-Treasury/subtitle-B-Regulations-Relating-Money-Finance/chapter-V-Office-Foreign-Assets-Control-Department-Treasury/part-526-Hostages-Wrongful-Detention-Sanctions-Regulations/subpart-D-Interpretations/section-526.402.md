@@ -1,0 +1,3 @@
+##### § 526.402 Effect of amendment. #####
+
+Unless otherwise specifically provided, any amendment, modification, or revocation of any provision in or appendix to this part or chapter or of any regulation, ruling, instruction, order, directive, or license issued by OFAC does not affect any act done or omitted, or any civil or criminal proceeding commenced or pending, prior to such amendment, modification, or revocation. All penalties, forfeitures, and liabilities under any such regulation, ruling, instruction, order, directive, or license continue and may be enforced as if such amendment, modification, or revocation had not been made.

@@ -1,5 +1,7 @@
 ##### § 4022.8 Form of payment. #####
 
+Link to an amendment published at 88 FR 44052, July 11, 2023.
+
 (a) *In general.* This section applies where benefits are not already in pay status. Except as provided in § 4022.7 (relating to the payment of lump sums), the PBGC will pay benefits—
 
 (1) In the automatic PBGC form described in paragraph (b) of this section; or

@@ -1,5 +1,7 @@
 ##### § 4062.4 Determinations of net worth and collective net worth. #####
 
+Link to an amendment published at 88 FR 44052, July 11, 2023.
+
 (a) *General rules.* When a contributing sponsor, or member(s) of a contributing sponsor's controlled group, notifies and submits information to the PBGC in accordance with § 4062.6, the PBGC shall determine the net worth, as of the net worth record date, of that contributing sponsor and any members of its controlled group based on the factors set forth in paragraph (c) of this section and shall include the value of any assets that it determines, pursuant to paragraph (d) of this section, have been improperly transferred. In making such determinations, the PBGC will consider information submitted pursuant to § 4062.6. The PBGC shall then determine the collective net worth of persons subject to liability in connection with a plan termination.
 
 (b) *Partnerships and sole proprietorships.* In the case of a person that is a partnership or a sole proprietorship, net worth does not include the personal assets and liabilities of the partners or sole proprietor, except for the assets included pursuant to paragraph (d) of this section. As used in this paragraph, “personal assets” are those assets which do not produce income for the business being valued or are not used in the business.

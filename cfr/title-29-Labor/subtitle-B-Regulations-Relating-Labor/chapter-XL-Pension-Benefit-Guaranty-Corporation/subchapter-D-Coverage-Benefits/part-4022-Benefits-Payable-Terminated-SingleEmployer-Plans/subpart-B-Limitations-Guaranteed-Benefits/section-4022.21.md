@@ -1,5 +1,7 @@
 ##### § 4022.21 Limitations; in general. #####
 
+Link to an amendment published at 88 FR 44052, July 11, 2023.
+
 (a)(1) Subject to paragraphs (b), (c), (d), and (e) of this section, the PBGC will not guarantee that part of an installment payment that exceeds the dollar amount payable as a straight life annuity commencing at normal retirement age, or thereafter, to which a participant would have been entitled under the provisions of the plan in effect on the termination date, on the basis of his credited service to such date. If the plan does not provide a straight life annuity either as its normal form of retirement benefit or as an option to the normal form, the PBGC will for purposes of this paragraph convert the plan's normal form benefit to a straight life annuity of equal actuarial value as determined by the PBGC.
 
 (2) The limitation of paragraph (a)(1) of this section shall not apply to:
