@@ -1,5 +1,7 @@
 ##### § 11.480 Radar observer. #####
 
+Link to an amendment published at 84 FR 26592, June 7, 2019.
+
 (a) This section contains the requirements that an applicant must meet to qualify as a radar observer.
 
 (b) If an applicant meets the requirements of this section, one of the following radar observer endorsements will be added to his or her MMC:

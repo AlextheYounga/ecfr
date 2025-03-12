@@ -1,5 +1,7 @@
 ##### § 15.815 Radar observers. #####
 
+Link to an amendment published at 84 FR 26592, June 7, 2019.
+
 (a) Each person in the required complement of deck officers, including the master, on inspected vessels of 300 GRT or over which are radar equipped, must hold an endorsement as radar observer.
 
 (b) Each person who is employed or serves as pilot in accordance with Federal law onboard radar-equipped vessels of 300 GRT or over must hold an endorsement as radar observer.

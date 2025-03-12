@@ -1,6 +1,6 @@
 ##### § 422.561 Definitions. #####
 
-Link to an amendment published at 84 FR 15833, April 16, 2019.
+Link to an amendment published at 84 FR 15833, April 16, 2019.Link to a correction of the above amendment published at 84 FR 26579, June 7, 2019.
 
 As used in this subpart, unless the context indicates otherwise -
 

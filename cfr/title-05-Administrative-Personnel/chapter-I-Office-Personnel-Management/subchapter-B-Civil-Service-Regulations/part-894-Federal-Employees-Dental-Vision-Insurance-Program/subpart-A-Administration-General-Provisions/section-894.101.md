@@ -72,7 +72,7 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 *Regular parent-child relationship* means that the enrollee is exercising parental authority, responsibility, and control over the child; is caring for, supporting the child; and is making the decisions about the child's education and medical care.
 
-*Sponsor* generally means the individual who is eligible for medical or dental benefits under 10 U.S.C. chapter 55 based on his or her direct affiliation with the uniformed services (including military members of the National Guard and Reserves), in accordance with § 894.804.
+*Sponsor* generally means the individual who is eligible for medical or dental benefits under 10 U.S.C. chapter 55 based on his or her direct affiliation with the uniformed services (including members of the National Guard and Reserves), in accordance with § 894.804.
 
 *Stepchild* means:
 
@@ -104,4 +104,4 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 (3) Self and family.
 
-[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018; 84 FR 1599, Feb. 5, 2019]
+[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018; 84 FR 1599, Feb. 5, 2019; 84 FR 26544, June 7, 2019]

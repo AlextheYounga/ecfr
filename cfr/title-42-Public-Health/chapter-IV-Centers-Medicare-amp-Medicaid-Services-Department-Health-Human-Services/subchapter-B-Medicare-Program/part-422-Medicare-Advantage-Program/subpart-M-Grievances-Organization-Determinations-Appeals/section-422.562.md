@@ -1,6 +1,6 @@
 ##### § 422.562 General provisions. #####
 
-Link to an amendment published at 84 FR 15834, April 16, 2019.
+Link to an amendment published at 84 FR 15834, April 16, 2019.Link to a correction of the above amendment published at 84 FR 26579, June 7, 2019.
 
 (a) *Responsibilities of the MA organization.* (1) An MA organization, with respect to each MA plan that it offers, must establish and maintain -
 

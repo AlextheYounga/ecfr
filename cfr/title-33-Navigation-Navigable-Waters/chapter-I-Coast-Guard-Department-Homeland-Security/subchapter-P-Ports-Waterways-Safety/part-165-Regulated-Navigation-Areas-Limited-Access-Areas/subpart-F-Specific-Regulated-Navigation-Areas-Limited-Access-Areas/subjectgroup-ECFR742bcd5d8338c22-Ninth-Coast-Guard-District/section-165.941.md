@@ -1,397 +1,82 @@
 ##### § 165.941 Safety Zones; Annual Events in the Captain of the Port Detroit Zone. #####
 
-Link to an amendment published at 84 FR 20031, May 8, 2019.
+(a) Regulations. The following regulations apply to the safety zones listed in Table 1 to § 165.941 of this section, coordinates listed in table are North American Datum of 1983 (NAD 83).
 
-(a) *Safety Zones.* The following areas are designated Safety zones: (1) Roostertail Fireworks (barge), Detroit, MI:
+(1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within any of the safety zones listed in this section is prohibited unless authorized by the Captain of the Port Detroit or a designated representative.
 
-(i) *Location:* All waters of the Detroit River within a 300-foot radius of the fireworks launch site located at position 42°21′16.67″ N, 082°58′20.41″ W. (NAD 83). This area is located between Detroit and Belle Isle near the Roostertail restaurant.
+(2) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Detroit or his designated on-scene representative.
 
-(ii) *Expected date:* One evening during the third week in July. The exact dates and times for this event will be determined annually.
+(3) Vessel operators desiring to enter or operate within the safety zone must contact the Captain of the Port Detroit or an on-scene representative to obtain permission to do so. The Captain of the Port Detroit or an on-scene representative may be contacted via VHF Channel 16. Vessel operators given permission to enter or operate in the safety zone must comply with all directions given to them by the Captain of the Port Detroit, or an on-scene representative.
 
-(2) Washington Township Summerfest Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Ottawa River within a 600-foot radius of the fireworks launch site located at position 41°43′29″ N, 083°28′47″ W (NAD 83). This area is located at the Fred C. Young Bridge, Toledo, OH.
-
-(ii) *Expected date:* One evening during the last week in June or the first week in July. The exact dates and times for this event will be determined annually.
-
-(3) Au Gres City Fireworks, Au Gres, MI:
-
-(i) *Location:* All waters of Saginaw Bay within a 700-foot radius of the fireworks launch site located at position 44°1.4′ N, 083°40.4′ W (NAD 83). This area is located at the end of the pier near the end of Riverside Drive in Au Gres, MI.
-
-(ii) *Expected date:* One evening during the last week in June or the first week in July. The exact dates and times for this event will be determined annually.
-
-(4) The Old Club Fireworks, Harsens Island, MI:
-
-(i) *Location:* All waters of Lake St. Clair within an 850-foot radius of the fireworks launch site located at position 42°32.4′ N, 082°40.1′ W (NAD 83). This area is located near the southern end of Harsens Island, MI.
-
-(ii) *Expected date:* One evening during the last week of June or the first week of July. The exact dates and times for this event will be determined annually.
-
-(5) Put-In-Bay Fourth of July Fireworks, Put-In-Bay, OH:
-
-(i) *Location:* All waters of Lake Erie within a 1000-foot radius of the fireworks launch site located at position 41°39.7′ N, 082°48.0′ W (NAD 83). This area is located in Put-In-Bay Harbor.
-
-(ii) *Expected date:* One evening during the first week of July. The exact dates and times for this event will be determined annually.
-
-(6) Gatzeros Fireworks, Grosse Pointe Park, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 300-foot radius of the fireworks launch site located at position 42°22.6′ N, 082°54.8′ W (NAD 83). This area is located near Grosse Pointe Park, MI.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(7) Harrisville Fireworks, Harrisville, MI:
-
-(i) *Location:* All waters of Lake Huron within a 450-foot radius of the fireworks launch site located at position 44°39.7′ N, 083°17.0′ W (NAD 83). This area is located at the end of the break wall at the Harrisville harbor in Harrisville, MI.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(8) Harbor Beach Fireworks, Harbor Beach, MI:
-
-(i) *Location:* All waters of Lake Huron within a 700-foot radius of the fireworks launch site located at position 43°50.8′ N, 082°38.6′ W (NAD 83). This area is located at the end of the railroad pier east of the end of State Street in Harbor Beach, MI.
-
-(ii) *Expected date:* One evening during the second week in July. The exact dates and times for this event will be determined annually.
-
-(9) Trenton Rotary Roar on the River Fireworks, Trenton, MI:
-
-(i) *Location:* All waters of the Detroit River within a 420-foot radius of the fireworks launch site located at position 42°7.8′ N, 083°10.4 ′ W (NAD 83). This area is located between Grosse Ile and Elizabeth Park in Trenton, MI.
-
-(ii) *Expected date:* One evening during the third week in July. The exact dates and times for this event will be determined annually.
-
-(10) Nautical Mile Venetian Festival Fireworks, St. Clair Shores, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 210-foot radius of the fireworks launch site located at position 42°28.2′ N, 082°52.5′ W (NAD 83). This area is located near Jefferson Beach Marina in St. Clair Shores, MI.
-
-(ii) *Expected date:* One evening during the second week in August. The exact dates and times for this event will be determined annually.
-
-(11) Cheeseburger Festival Fireworks, Caseville, MI:
-
-(i) *Location:* All waters of Lake Huron within a 300-foot radius of the fireworks launch site located at position 43°56.9′ N, 083°17.2′ W (NAD 83). This area is located near the break wall located at Caseville County Park, Caseville, MI.
-
-(ii) *Expected date:* One evening during the second week in August. The exact dates and times for this event will be determined annually.
-
-(12) Detroit International Jazz Festival Fireworks, Detroit, MI:
-
-(i) *Location:* All waters of the Detroit River within a 560-foot radius of the fireworks launch site located at position 42°19.6′ N, 83°2.6′ W (NAD 83). This area is located in the Detroit River between Cobo Hall and the GM Headquarters in Detroit, MI.
-
-(ii) *Expected date:* One evening during the last week in August or the first week in September. The exact dates and times for this event will be determined annually.
-
-(13) Marine City Maritime Festival Fireworks, Marine City, MI:
-
-(i) *Location:* All waters of the St. Clair River within an 840-foot radius of the fireworks launch site located at position 42°42.9′ N, 082°29.1′ W (NAD 83). This area is located east of Marine City.
-
-(ii) *Expected date:* One evening during the third week in September. The exact dates and times for this event will be determined annually.
-
-(14) Schoenith Family Foundation Fireworks, Detroit, MI:
-
-(i) *Location:* All waters of the Detroit River, within a 210-foot radius of the fireworks launch site located at position 42°21.2′ N, 82°58.4′ W. (NAD 83). This area is located between Detroit and Belle Isle.
-
-(ii) *Expected date:* One evening during the third week in September. The exact dates and times for this event will be determined annually.
-
-(15) Toledo Country Club Memorial Celebration and Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River, within a 250-yard radius of the fireworks launch site located on shore at position 41°35′12.58″ N, 83°36′16.58″ W. (NAD 83). This area is located at the Toledo Country Club's 18th Green and encompasses the fireworks launch site.
-
-(ii) *Expected date:* One evening during the last week in May. The exact dates and times for this event will be determined annually.
-
-(16) Luna Pier Fireworks Show, Luna Pier, MI:
-
-(i) *Location:* All waters of Lake Erie, within a 300-yard radius of the fireworks launch site located at position 41°48′32″ N, 83°26′23″ W. (NAD 83). This area is located at the Clyde E. Evens Municipal Pier.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(17) Toledo Country Club 4th of July Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River, within a 250-yard radius of the fireworks launch site located on shore at position 41°35′12.58″ N, 83°36′16.58″ W. (NAD 83). This area is located at the Toledo Country Club's 18th Green and encompasses the fireworks launch site.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(18) Pharm Lights Up The Night Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River, within a 300-yard radius of the fireworks launch site located at position 41°38′35″ N, 83°31′54″ W. (NAD 83). This position is located at the bow of the museum ship SS WILLIS B. BOYER.
-
-(ii) *Expected date:* One day evening during the first or second weeks in July. The exact dates and times for this event will be determined annually.
-
-(19) Perrysburg/Maumee 4th of July Fireworks, Perrysburg, OH:
-
-(i) *Location:* All waters of the Maumee River, within an 850-foot radius of the fireworks launch site located at position 41°33′27″ N, 83°38′59″ W. (NAD 83). This position is located at the Perrysburg/Maumee Hwy 20 Bridge.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(20) Lakeside July 4th Fireworks, Lakeside, OH:
-
-(i) *Location:* All waters of Lake Erie, within a 560-foot radius of the fireworks launch site located at position 41°32′52″ N, 82°45′03″ W. (NAD 83). This position is located at the Lakeside Association Dock.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(21) Catawba Island Club Fireworks, Catawba Island, OH:
-
-(i) *Location:* All waters of Lake Erie, within a 300-yard radius of the fireworks launch site located at position 41°34′20″ N, 82°51′18″ W. (NAD 83). This position is located at the northwest end of the Catawba Cliffs Harbor Light Pier.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(22) Red, White and Blues Bang Fireworks, Huron, OH:
-
-(i) *Location:* All waters of the Huron River, within a 300-yard radius of the fireworks launch site located at position 41°23′29″ N, 82°32′55″ W. (NAD 83). This position is located at the Huron Ore Docks in Huron, OH.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(23) Huron Riverfest Fireworks, Huron, OH:
-
-(i) *Location:* All waters of Huron Harbor, within a 350-foot radius of the fireworks launch site located at the Huron Ore Docks at position 41°23′38″ N, 82°32′59″ W. (NAD 83).
-
-(ii) *Expected date:* One evening during the second week in July. The exact dates and times for this event will be determined annually.
-
-(24) Kelleys Island, Island Fest Fireworks, Kelleys Island, OH:
-
-(i) *Location:* All waters of Lake Erie, within a 300-yard radius of the fireworks launch site located at position 41°35′43″ N, 82°43′30″ W. (NAD 83). This position is located at the old Neuman Boat Line Dock.
-
-(ii) *Expected date:* One evening during the third or fourth weeks in July. The exact dates and times for this event will be determined annually.
-
-(25) Riverfest at the International Docks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River, extending from the bow of the museum ship SS WILLIS B. BOYER (41°38′35″ N, 83°31′54″ W), then north/north-east to the south end of the City of Toledo Street (41°38′51″ N, 83°31′50″ W), then south-west to the red nun buoy #64 (41°38′48″ N, 83°31′58″), then south/south-east back to the point of origin at the bow of the museum ship SS WILLIS B. BOYER. (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in September. The exact dates and times for this event will be determined annually.
-
-(26) Rossford Labor Day Fireworks, Rossford, OH:
-
-(i) *Location:* All waters of the Maumee River, within a 350-yard radius of the fireworks launch site located at position 41°36′58″ N, 83°33′56″ W. (NAD 83). This position is located at Veterans Memorial Park.
-
-(ii) *Expected date:* One evening during the first week in September. The exact dates and times for this event will be determined annually.
-
-(27) Lakeside Labor Day Fireworks, Lakeside, OH:
-
-(i) *Location:* All waters of Lake Erie, within a 560-foot radius of the fireworks launch site located at position 41°32′52″ N, 82°45′03″ W. (NAD 83). This position is located at the Lakeside Association Dock.
-
-(ii) *Expected date:* One evening during the first week in September. The exact dates and times for this event will be determined annually.
-
-(28) Catawba Island Club Fireworks, Catawba Island, OH:
-
-(i) *Location:* All waters of Lake Erie, within a 300-yard radius of the fireworks launch site located at position 41°34′20″ N, 82°51′18″ W. (NAD 83). This position is located at the northwest end of the Catawba Cliffs Harbor Light Pier.
-
-(ii) *Expected date:* One evening during the first week in September. The exact dates and times for this event will be determined annually.
-
-(29) Bay-Rama Fishfly Festival Fireworks, New Baltimore, MI:
-
-(i) *Location:* All waters of Lake St. Clair-Anchor Bay, off New Baltimore City Park, within a 300-yard radius of the fireworks launch site located at position 42°41′ N, 082°44′ W (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in June. The exact dates and times for this event will be determined annually.
-
-(30) Lake Erie Metropark Fireworks, Gibraltar, MI:
-
-(i) *Location:* All waters of Lake Erie, off Lake Erie Metro Park, within a 300-yard radius of the fireworks launch site located at position 42°03′ N, 083°11′W (NAD 83). This position is located off the Brownstown Wave pool area.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(31) City of St. Clair Fireworks, St. Clair, MI:
-
-(i) *Location:* All waters off the St. Clair River near St. Clair City Park, within a 300-yard radius of the fireworks launch site located at position 42°49′ N, 082°29′ W (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(32) Oscoda Township Fireworks, Oscoda, MI:
-
-(i) *Location:* All waters of Lake Huron, off the DNR Boat Launch near the mouth of the Au Sable River within a 300-yard radius of the fireworks launch site located at position 44°19′ N, 083°25′ W (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(33) Port Austin Fireworks, Port Austin, MI:
-
-(i) *Location:* All waters of Lake Huron, off the Port Austin break wall within a 300-yard radius of the fireworks launch site located at position 42°03′ N, 082°40′ W. (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(34) City of Wyandotte Fireworks, Wyandotte, MI:
-
-(i) *Location:* All waters of the Detroit River, off the break wall between Oak and Van Alstyne St., within a 300-yard radius of the fireworks launch site located at position 42°12′ N, 083°09′ W. (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(35) Grosse Pointe Farms Fireworks, Grosse Pointe Farms, MI:
-
-(i) *Location:* All waters of Lake St. Clair, within a 300-yard radius of the fireworks barge located at position 42°23′ N, 082°52′ W. (NAD 83). This position is located 300 yards east of Grosse Pointe Farms, MI.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(36) Caseville Fireworks, Caseville, MI:
-
-(i) *Location:* All waters of Saginaw Bay, within a 300-yard radius of the fireworks launch site located at position 43°56.9′ N, 083°17.2′ W. (NAD 83). This position is located off the Caseville break wall.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(37) Algonac Pickerel Tournament Fireworks, Algonac, MI:
-
-(i) *Location:* All waters of the St. Clair River, within a 300-yard radius of the fireworks barge located at position 41°37′ N, 082°32′ W. (NAD 83). This position is located between Algonac and Russell Island, St. Clair River-North Channel.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(38) Port Sanilac Fireworks, Port Sanilac, MI:
-
-(i) *Location:* All waters of Lake Huron within a 300-yard radius of the fireworks launch site located at position 43°25′ N, 082°31′ W. (NAD 83). This position is located at the South Harbor Break wall in Port Sanilac.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(39) St. Clair Shores Fireworks, St. Clair Shores, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 300-yard radius of the fireworks barge located at position 42°32′ N, 082°51′ W. (NAD 83). This position is located 1000 yards east of Veteran's Memorial Park, St. Clair Shores.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(40) Port Huron 4th of July Fireworks, Port Huron, MI:
-
-(i) *Location:* All waters of the Black River within a 300-yard radius of the fireworks barge located at position 42°58′ N, 082°25′ W. (NAD 83). This position is located 300 yards east of 223 Huron Ave., Black River.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(41) Grosse Pointe Yacht Club 4th of July Fireworks, Grosse Pointe Shores, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 300-yard radius of the fireworks barge located at position 42°25′ N, 082°52′ W. (NAD 83). This position is located 400 yards east of the Grosse Pointe Yacht Club seawall, Lake St. Clair.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(42) Lexington Independence Festival Fireworks, Lexington, MI:
-
-(i) *Location:* All waters of Lake Huron within a 300-yard radius of the fireworks barge located at position 43°13′ N, 082°30′ W. (NAD 83). This position is located 300 yards east of the Lexington break wall, Lake Huron.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(43) City of Ecorse Water Festival Fireworks, Ecorse, MI:
-
-(i) *Location:* All waters of the Detroit River within a 300-yard radius of the fireworks barge located at position 41°14′ N, 083°09′ W. (NAD 83). This position is located in the Ecorse Channel at the northern end of Mud Island.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(44) Grosse Ile Yacht Club Fireworks, Grosse Ile, MI:
-
-(i) *Location:* All waters of the Detroit River within a 300-yard radius of the fireworks launch site located at position 42°05′ N, 083°09′ W. (NAD 83). This position is located in front of the Grosse Ile Yacht Club.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(45) Trenton Fireworks, Trenton, MI:
-
-(i) *Location:* All waters of the Detroit River within a 300-yard radius of the fireworks barge located at position 42°09′ N, 083°10′ W. (NAD 83). This position is located 200 yards east of Trenton in the Trenton Channel near Trenton, MI.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(46) Belle Maer Harbor 4th of July Fireworks, Harrison Township, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 300-yard radius of the fireworks barge located at position 42°36′ N, 082°47′ W. (NAD 83). This position is located 400 yards east of Belle Maer Harbor, Lake St. Clair.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(47) Tawas City 4th of July Fireworks, Tawas, MI:
-
-(i) *Location:* All waters of Lake Huron within a 300-yard radius of the fireworks launch site located at position 44°13′ N, 083°30′ W. (NAD 83). This position is located off the Tawas City Pier.
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(48) Venetian Festival Boat Parade and Fireworks, St. Clair Shores, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 300-yard radius of the fireworks barge located at position 42°28′ N, 082°52′ W. (NAD 83). This position is located 600 yards off Jefferson Beach Marina, Lake St, Clair.
-
-(ii) *Expected date:* One evening during the second week in August. The exact dates and times for this event will be determined annually.
-
-(49) Celebrate America Fireworks, Grosse Pointe Farms, MI:
-
-(i) *Location:* All waters of Lake St. Clair within a 500-foot radius of the fireworks launch site located at position 42°22′58″ N, 082°53′46″ W. (NAD 83). This area is located southeast of the Grosse Pointe Yacht Club.
-
-(ii) *Expected date:* One evening during the third week in June. The exact dates and times for this event will be determined annually.
-
-(50) Target Fireworks, Detroit, MI:
-
-(i) *Location:* The following three areas are safety zones:
-
-(A) The first safety zone area will encompass all waters of the Detroit River bounded by the arc of a circle with a 900-foot radius with its center in position 42°19′23″ N, 083°04′34″ W.
-
-(B) The second safety zone area will encompass a portion of the Detroit River bounded on the South by the International Boundary line, on the West by 083°03′30″ W, on the North by the City of Detroit shoreline and on the East by 083°01′15″ W.
-
-(C) The third safety zone will encompass a portion of the Detroit River bounded on the South by the International Boundary line, on the West by the Ambassador Bridge, on the North by the City of Detroit shoreline, and on the East by the downstream end of Belle Isle. The Captain of the Port Detroit has determined that vessels below 65 feet in length may enter this zone.
-
-(ii) *Expected date:* One evening during the last week in June. The exact dates and times for this event will be determined annually.
-
-(51) Sigma Gamma Association Fireworks, Grosse Pointe Farms, MI:
-
-(i) *Location:* All waters of Lake St. Clair, within a 300-yard radius of the fireworks launch site located at position 42°27′ N, 082°52′ W (NAD 83) This position is located in the vicinity of Ford's Cove.
-
-(ii) *Expected date:* One evening during the last week in June. The exact dates and times for this event will be determined annually.
-
-(52) Southside Summer Fireworks, Port Huron, MI:
-
-(i) *Location:* All waters of St. Clair River within a 300 yard radius of position 42°57′55″ N, 082°25′20″ W. This position is located on the shore of the St. Clair River in the vicinity of Oak and 3rd Street, Port Huron, MI. All geographic coordinates are North American Datum of 1983 (NAD 83).
-
-(ii) *Expected date:* One evening during the last week in June. The exact dates and times for this event will be determined annually.
-
-(53) Bay City Fireworks Festival, Bay City, MI:
-
-(i) *Location:* All waters of the Saginaw River near Bay City, MI, from the Veteran's Memorial Bridge, located at position 43°35.8′ N; 083°53.6′ W, south approximately 1000 yards to the River Walk Pier, located at position 43°35.3′ N; 083°53.8′ W. All geographic coordinates are North American Datum of 1983 (NAD 83).
-
-(ii) *Expected date:* Three evenings during the first week in July. The exact dates and times for this event will be determined annually.
-
-(54) Toledo 4th of July Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River within a 300-yard radius of the fireworks launch site located at position 41°38′35″ N, 083°31′54″ W. All geographic coordinates are North American Datum of 1983 (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in July. The exact dates and times for this event will be determined annually.
-
-(55) Toledo Labor Day Fireworks, Toledo, OH:
-
-(i) *Location:* All waters of the Maumee River within a 300-yard radius of the fireworks launch site located at position 41°38′35″ N, 083°31′54″ W. All geographic coordinates are North American Datum of 1983 (NAD 83).
-
-(ii) *Expected date:* One evening during the first week in September. The exact dates and times for this event will be determined annually.
-
-(56) Catawba Island Club Fireworks; Catawba Island, OH:
-
-(i) *Location.* All waters of Lake Erie within a 250-yard radius of the fireworks launch site located at position 41-34′-18.10″ N, 082-51′-18.70″ W (NAD 83).
-
-(ii) *Expected date.* This safety zone will be enforced one evening during the last week in May.
-
-(57) Put-In-Bay Chamber of Commerce Fireworks, Put-In-Bay, OH:
-
-(i) *Location.* All waters of Lake Erie within a 1,000-foot radius of the fireworks launch site located at position 41-39′-19″ N, 082-48′-57″ W (NAD 83). This area is located in the Put-In-Bay Harbor.
-
-(ii) *Expected dates.* This safety zone will be enforced one evening during the third week in June, one evening during the last week in June, one evening during the first week in September, and one evening during the second week in September.
-
-(58) Bay Point Fireworks Display, Marblehead, OH:
-
-(i) *Location.* All waters of Lake Erie within a 250-yard radius of the fireworks launch site located at position 41-30′-29.23″ N, 082-43′-8.45″ W (NAD 83).
-
-(ii) *Expected date.* This safety zone will be enforced one evening during the first week in July.
-
-(59) Marysville Days Fireworks, Marysville, MI:
-
-(i) *Location.* All waters of the St. Clair River within a 600 foot radius of the fireworks launch site located on land at position 42-54′-25″ N, 082-27′-58″ W (NAD 83).
-
-(ii) *Expected date.* This safety zone will be enforced one evening during the last week in June.
-
-(60) *Revolution 3 Triathlon, Lake Erie, Sandusky Bay, Cedar Point, OH* -
-
-(i) *Locations.* All waters of Lake Erie within positions 41-29′-00.04″ N 082-40′-48.16″ W to 41-29′-19.28″ N 082-40′-38.97″ W to 41-29′-02.51″ N 082-40′-20.82″ W to 41-28′-45.52″ N 082-40′-35.75″ W then following the shoreline to the point of origin. In the event that weather requires triathlon organizers to change the locations of the swimming leg, the safety zones will alternatively encompass all waters of Lake Erie, Sandusky Bay, Cedar Point, OH extending outward 100 yards on either side of a line running between 41-28′-38.59″ N 082-41′-10.51″ W and 41-28′-17.25″ N 082-40′-54.09″ W (NAD 83) running adjacent to the Cedar Point Marina.
-
-(ii) *Enforcement period:* Two consecutive mornings during the first or second weekend in September. Exact dates and times will be determined annually and the Captain of the Port will publish a Notice of Enforcement to inform the public.
+(4) The enforcement dates and times for each of the safety zones listed in Table 1 to § 165.941 are subject to change, but the duration of enforcement would remain the same or nearly the same total number of hours as stated in the table. In the event of a change, the Captain of the Port Detroit will provide notice to the public by publishing a Notice of Enforcement in the Federal Register, as well as, issuing a Broadcast Notice to Mariners.
 
 (b) *Definitions.* The following definitions apply to this section:
 
-(1) Designated Representative means any Coast Guard commissioned, warrant, or petty officer designated by the Captain of the Port Detroit to monitor a safety zone, permit entry into the zone, give legally enforceable orders to persons or vessels within the zones, and take other actions authorized by the Captain of the Port.
+(1) Designated or on scene representative means any Coast Guard commissioned, warrant, or petty officers designated by the Captain of the Port Detroit to monitor a safety zone, permit entry into a safety zone, give legally enforceable orders to persons or vessels within a safety zone, and take other actions authorized by the Captain of the Port Detroit.
 
-(2) Public vessel means vessels owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
+(2) Public vessel means a vessel that is owned, chartered, or operated by the United States, or by a State or political subdivision thereof.
 
-(c) *Regulations.* (1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within this safety zone is prohibited unless authorized by the Captain of the Port Detroit, or his designated representative.
+(3) Rain date refers to an alternate date and/or time in which the safety zone would be enforced in the event of inclement weather.
 
-(2)(i) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Detroit or his designated representative.
-
-(ii) All persons and vessels must comply with the instructions of the Coast Guard Captain of the Port or his designated representative.
-
-(iii) Upon being hailed by the U.S. Coast Guard by siren, radio, flashing light or other means, the operator of a vessel shall proceed as directed.
-
-(3)(i) All vessels must obtain permission from the Captain of the Port or his designated representative to enter, move within, or exit the safety zone established in this section when this safety zone is enforced.
-
-(ii) Vessels and persons granted permission to enter the safety zone must obey all lawful orders or directions of the Captain of the Port or a designated representative.
-
-(iii) While within a safety zone, all vessels must operate at the minimum speed necessary to maintain a safe course.
+(c) *Suspension of enforcement.* The Captain of the Port Detroit may suspend enforcement of any of these zones earlier than listed in this section. Should the Captain of the Port suspend any of these zones earlier than the listed duration in this section, he or she may make the public aware of this suspension by Broadcast Notice to Mariners and/or on-scene notice by a designated representative.
 
 (d) *Exemption.* Public vessels, as defined in paragraph (b) of this section, are exempt from the requirements in this section.
 
-(e) *Waiver.* For any vessel, the Captain of the Port Detroit or his designated representative may waive any of the requirements of this section, upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of public or environmental safety.
+(e) *Waiver.* For any vessel, the Captain of the Port Detroit or a designated representative may waive any of the requirements of this section upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or security.
 
-(f) *Notification.* The Captain of the Port Detroit will notify the public that the safety zones in this section are or will be enforced by all appropriate means to the affected segments of the public including publication in the Federal Register as practicable, in accordance with 33 CFR 165.7(a). Such means of notification may also include, but are not limited to Broadcast Notice to Mariners or Local Notice to Mariners. The Captain of the Port may issue a Broadcast Notice to Mariners notifying the public when enforcement of the safety zone established by this section is cancelled if deemed necessary.
+|                                         Event                                          |                                                                                                                                                                                                                                                                                                                                                                                                              Sector Detroit safety zones                                                                                                                                                                                                                                                                                                                                                                                                               |                                                       Date                                                       |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+|               (1) Shoreline Surrounding Belle Isle Auto Race Detroit, MI               |                                                                                                                  All waters of the Detroit River near Belle Isle, bounded by a line extending from a point of land on the southern shore of Belle Isle located at the Dossin Museum at position 42°20.06′ N, 082°59.14′ W, to 50 yards offshore at position 42°20.04′ N, 082°59.13′ W, and continuing around the downstream (western) end of Belle Isle, maintaining a constant distance of 50 yards from the shoreline to position 42°20.25′ N, 083°00.04′ W, 50 yards NNW of the Lake Tacoma outlet on the northern side of Belle Isle, before returning to a point on shore and terminating at position 42°20.23′ N; 083°00.03′ W                                                                                                                   |                                Three consecutive days between May 15 and June 15.                                |
+|(2) Grosse Point War Memorial Red, White and Blue Gala Fireworks Grosse Pointe Farms, MI|                                                                                                                                                                                                                                                                                                                            All waters of Lake St. Clair, within a 200-yard radius of the fireworks launch site located on a barge offshore of Grosse Pointe War Memorial at approximate position 42°23.13′ N, 082°53.74′ W                                                                                                                                                                                                                                                                                                                             |                                               One evening in May.                                                |
+|               (3) Bay-Rama Fish Fly Festival Fireworks New Baltimore, MI               |                                                                                                                                                                                                                                                                                                                         All waters of Anchor Bay, Lake St. Clair, within a 300-yard radius of the fireworks launch site located on a barge offshore of New Baltimore City Park at approximate position 42°40.6′ N, 082°43.9′ W                                                                                                                                                                                                                                                                                                                         |                                               One evening in June.                                               |
+|                   (4) Sigma Gamma Fireworks Grosse Pointe Farms, MI                    |                                                                                                                                                                                                                                                                                                                                      All waters of Lake St. Clair, within a 200-yard radius of the fireworks launch site located on a barge anchored offshore of Ford's Cove at position 42°27.2′ N, 082°51.9′ W                                                                                                                                                                                                                                                                                                                                       |                                     One evening between June 15 and July 15.                                     |
+|                           (5) River Days Airshow Detroit, MI                           |                                                                                                                                                                                                                                                   All waters of the Detroit River between the following two lines extending from 70 feet off the bank to the US/Canadian demarcation line: the first line is drawn directly across the channel at position 42°19.444′ N, 083° 03.114′ W; the second line, to the north, is drawn directly across the channel at position 42°19.860′ N, 083°01.683′ W                                                                                                                                                                                                                                                   |                                      Four consecutive days in June or July.                                      |
+|                           (6) Detroit Fireworks Detroit, MI                            |The following three areas are safety zones: (A) All U.S. waters of the Detroit River a 300-yard radius centered on a point on shore adjacent to West Riverfront Park, Detroit, MI at position 42°19.38′ N, 083°03.43′ W. (B) The second safety zone area will encompass a portion of the Detroit River bounded on the South by the International Boundary line, on the West by 083°03′ W, on the North by the City of Detroit shoreline and on the East by 083°01′ W. (C) The third safety zone will encompass a portion of the Detroit River bounded on the South by the International Boundary line, on the West by the Ambassador Bridge, on the North by the City of Detroit shoreline, and on the East by the downstream end of Belle Isle. The Captain of the Port Detroit has determined that vessels below 65 feet in length may enter this zone|                                    Three consecutive days beginning in June.                                     |
+|                           (7) Algonac Fireworks Algonac, MI                            |                                                                                                                                                                                                                                                                                                                             All waters of the St. Clair River, within a 250-yard radius of the fireworks launch site located on a barge anchored mid-channel, off of Algonac City Park at position 42°37.1′ N, 082°31.3′ W                                                                                                                                                                                                                                                                                                                             |                               Two consecutive evening between June 15 and July 15.                               |
+|                          (8) Bay City Festival, Bay City, MI                           |                                                                                                                                                                                                                                                                                                            All waters of the Saginaw River from the Veterans Memorial Bridge, Bay City, MI, located at position 43°35.9′ N, 083°53.6′ W; south approximately 1100 yards to the River Walk Pier, located at position 43°35.3′ N, 083°53.8′ W                                                                                                                                                                                                                                                                                                            |                             Three consecutive evenings between June 15 and July 15.                              |
+|                         (9) Caseville Fireworks Caseville, MI                          |                                                                                                                                                                                                                                                                                                                                          All waters of Saginaw Bay, within a 200-yard radius of the fireworks launch site located at the end of the Caseville break wall at position 43°56.86′ N, 083°17.1′ W                                                                                                                                                                                                                                                                                                                                          |                                     One evening between June 15 and July 15.                                     |
+|                            (10) Ecorse Fireworks Ecorse, MI                            |                                                                                                                                                                                                                                                                                                                                      All waters of the Detroit River, within a 200-yard radius of the fireworks launch site located at the north end of the Trenton Channel at position 42°14.53′ N, 083°08.48′ W                                                                                                                                                                                                                                                                                                                                      |                                     One evening between June 15 and July 15.                                     |
+|                        (11) Grosse Ile Fireworks Grosse Ile, MI                        |                                                                                                                                                                                                                                                                                                                                   All waters of the Detroit River within a 100-yard radius of the fireworks launch site located on the outer pier of the Grosse Ile Yacht Club at position 42°05.39′ N, 083°09.06′ W                                                                                                                                                                                                                                                                                                                                   |                                     One evening between June 15 and July 15.                                     |
+|               (12) Grosse Pointe Farms Fireworks Grosse Pointe Farms, MI               |                                                                                                                                                                                                                                                                                                                                   All waters of Lake St. Clair, within a 200-yard radius of the fireworks launch site located on shore at the southern point of a private park at position 42°23.84′ N, 082°53.25′ W                                                                                                                                                                                                                                                                                                                                   |                                     One evening between June 15 and July 15.                                     |
+|            (13) Grosse Point Yacht Club Fireworks Grosse Pointe Shores, MI             |                                                                                                                                                                                                                                                                                                                            All waters of Lake St. Clair within a 200-yard radius of the fireworks launch site located on a barge offshore of the Grosse Pointe Yacht Club break wall at position 42°26.05′ N, 082°52.05′ W                                                                                                                                                                                                                                                                                                                             |                                     One evening between June 15 and July 15.                                     |
+|                      (14) Harbor Beach Fireworks Harbor Beach, MI                      |                                                                                                                                                                                                                                                                                                                                        All waters of Lake Huron within a 200-yard radius of the fireworks launch site located on shore at the end of the DTE Power Plant at position 43°50.77′ N, 082°38.63′ W                                                                                                                                                                                                                                                                                                                                         |                                           One evening in June or July.                                           |
+|                   (15) Belle Maer Harbor Fireworks Harrison Twp, MI                    |                                                                                                                                                                                                                                                                                                                                All waters of Lake St. Clair within a 300-yard radius of the fireworks launch site located on a barge offshore of the Belle Maer Harbor break wall at position 42°36.55′ N, 082°47.55′ W                                                                                                                                                                                                                                                                                                                                |                                     One evening between June 15 and July 15.                                     |
+|                       (16) Harrisville Fireworks Harrisville, MI                       |                                                                                                                                                                                                                                                                                                                                      All waters of Lake Huron within a 200-yard radius of the fireworks launch site located at the end of the Harrisville Harbor break wall at position 44°39.40′ N, 083°17.03′ W                                                                                                                                                                                                                                                                                                                                      |                                     One evening between June 15 and July 15.                                     |
+|                         (17) Lexington Fireworks Lexington, MI                         |                                                                                                                                                                                                                                                                                                                                          All waters of Lake Huron within a 200-yard radius of the fireworks launch site located at the end of the Lexington break wall at position 43°16.00′ N, 082°31.36′ W                                                                                                                                                                                                                                                                                                                                           |                                     One evening between June 15 and July 15.                                     |
+|                            (18) Oscoda Fireworks Oscoda, MI                            |                                                                                                                                                                                                                                                                                                                                         All waters of Lake Huron within a 200-yard radius of the fireworks launch site located at the end of the Oscoda Beach Park pier at position 44°25.27′ N, 083°19.48′ W                                                                                                                                                                                                                                                                                                                                          |                                     One evening between June 15 and July 15.                                     |
+|                       (19) Port Austin Fireworks Port Austin, MI                       |                                                                                                                                                                                                                                                                                                                                               All waters of Lake Huron within a 200-yard radius of the fireworks launch site located on the Port Austin break wall at position 44°03.08′ N, 082°59.40′ W                                                                                                                                                                                                                                                                                                                                               |                                     One evening between June 15 and July 15.                                     |
+|                      (20) Port Sanilac Fireworks Port Sanilac, MI                      |                                                                                                                                                                                                                                                                                                                                      All waters of Lake Huron within a 200-yard radius of the fireworks launch site located on the south break wall of Port Sanilac Harbor at position 43°25.84′ N, 082°32.15′ W                                                                                                                                                                                                                                                                                                                                       |                                     One evening between June 15 and July 15.                                     |
+|                         (21) St. Clair Fireworks St. Clair, MI                         |                                                                                                                                                                                                                                                                                                                                      All waters of the St. Clair River, within a 200-yard radius of the fireworks launch site located on a barge offshore of St. Clair, MI, at position 42°49.38′ N, 082°29.0′ W                                                                                                                                                                                                                                                                                                                                       |                                     One evening between June 15 and July 15.                                     |
+|                  (22) St. Clair Shores Fireworks St. Clair Shores, MI                  |                                                                                                                                                                                                                                                                                                                           All waters of Lake St. Clair within a 250-yard radius of the fireworks launch site located on a barge anchored offshore of Veterans Memorial Park at approximate position 42°31.6′ N, 082°52.0′ W                                                                                                                                                                                                                                                                                                                            |                                     One evening between June 15 and July 15.                                     |
+|                             (23) Tawas Fireworks Tawas, MI                             |                                                                                                                                                                                                                                                                                                                                   All waters of Lake Huron within a 200-yard radius of the fireworks launch site located on a barge offshore of East Tawas City Park at approximate position 44°16.4′ N, 083°29.7′ W                                                                                                                                                                                                                                                                                                                                   |                                     One evening between June 15 and July 15.                                     |
+|                           (24) Arenac Fireworks, Au Gres, MI                           |                                                                                                                                                                                                                                                                                                                 All waters of Saginaw Bay within a 700-foot radius of the fireworks launch site located at position 44°1.4′ N, 083°40.4′ W. This area is located at the end of the pier near the end of Riverside Drive in Au Gres, MI                                                                                                                                                                                                                                                                                                                 |                                     One evening between June 15 and July 15.                                     |
+|                        (25) Port Huron Fireworks Port Huron, MI                        |                                                                                                                                                                                                                                                                                                                             All waters of the Black River within a 300-yard radius of the fireworks barge located at position 42°58′ N, 082°25′ W. This position is located 300 yards east of 223 Huron Ave., Black River                                                                                                                                                                                                                                                                                                                              |                                     One evening between June 15 and July 15.                                     |
+|                      (26) Old Club Fireworks, Harsens Island, MI                       |                                                                                                                                                                                                                                                                                                                           All waters of Lake St. Clair within an 850-foot radius of the fireworks launch site located at position 42°32.4′ N, 082°40.1′ W. This area is located near the southern end of Harsens Island, MI                                                                                                                                                                                                                                                                                                                            |                                     One evening between June 15 and July 15.                                     |
+|              (27) Port Huron Blue Water Festival Fireworks Port Huron, MI              |                                                                                                                                                                                                                                                                                                                            All waters of the St. Clair River within a 200-yard radius of the fireworks launch site located on shore at the northern point of Kiefer Park at approximate position 42°58.84′ N, 082°25.20′ W                                                                                                                                                                                                                                                                                                                             |                                               One evening in July.                                               |
+|           (28) Detroit Symphony Orchestra Fireworks Grosse Pointe Shores, MI           |                                                                                                                                                                                                                                                                                                                                     All waters of Lake St. Clair, within a 200-yard radius of the fireworks launch site located on a barge anchored offshore of Ford's Cove at position 42°27.25′ N, 082°51.95′ W                                                                                                                                                                                                                                                                                                                                      |                               Two consecutive evenings between July 1 and July 31.                               |
+|                           (29) Trenton Fireworks Trenton, MI                           |                                                                                                                                                                                                                                                                                                                  All waters of the Detroit River within a 300-yard radius of the fireworks barge located at position 42°09′ N, 083°10′ W. This position is located 200 yards east of Trenton in the Trenton Channel near Trenton, MI                                                                                                                                                                                                                                                                                                                   |                                     One evening between July 1 and July 31.                                      |
+|                            (30) Venetian Festival Fireworks                            |                                                                                                                                                                                                                                                                                                                          All waters of Lake St. Clair within a 300-yard radius of the fireworks barge located at position 42°28′ N, 082°52′ W. This position is located 600 yards off Jefferson Beach Marina, Lake St, Clair                                                                                                                                                                                                                                                                                                                           |                                              One evening in August.                                              |
+|                  (31) Cheeseburger Festival Fireworks, Caseville, MI                   |                                                                                                                                                                                                                                                                                                                  All waters of Lake Huron within a 300-foot radius of the fireworks launch site located at position 43°56.9′ N, 083°17.2′ W. This area is located near the break wall located at Caseville County Park, Caseville, MI                                                                                                                                                                                                                                                                                                                  |                                              One evening in August.                                              |
+|                         (32) Roostertail Fireworks Detroit, MI                         |                                                                                                                                                                                                                                                                                                                                    All waters of the Detroit River within a 200-yard radius of the fireworks launch site located on a barge anchored offshore of Roostertail at position 42°21.27′ N, 082°58.36′ W                                                                                                                                                                                                                                                                                                                                     |                            Three separate evenings between June 15 and September 31.                             |
+|                (33) Marine City Maritime Days Fireworks Marine City, MI                |                                                                                                                                                                                                                                                                                                                                      All waters of the St. Clair River within a 200-yard radius of the fireworks launch site located on a barge offshore of Marine City Park at position 42°43.15′ N, 082°29.2′ W                                                                                                                                                                                                                                                                                                                                      |                                    One evening between July 15 and August 15.                                    |
+|             (34) Detroit International Jazz Festival Fireworks Detroit, MI             |                                                                                                                                                                                                                                                                                                                                     All waters of the St. Clair River within a 100 yard radius of the fireworks launch site located at position 42°42.9′ N, 082°29.1′ W. This area is located east of Marine City                                                                                                                                                                                                                                                                                                                                      |                                 One evening between August 15 and September 15.                                  |
+|                                         Event                                          |                                                                                                                                                                                                                                                                                                                                                                                                         Marine Safety Unit Toledo Safety Zones                                                                                                                                                                                                                                                                                                                                                                                                         |                                                       Date                                                       |
+|                (35) Washington Township Summerfest Fireworks Toledo, OH                |                                                                                                                                                                                                                                                                                                                                             All waters of the Ottawa River within a 600-foot radius of the fireworks launch site located on the Fred C. Young bridge at position 41°43.29′ N, 083°28.47′ W                                                                                                                                                                                                                                                                                                                                             |                                     One evening between June 15 and July 15.                                     |
+|                  (36) Put-In-Bay 4th of July Fireworks Put-In-Bay, OH                  |                                                                                                                                                                                                                                                                                                                                                    All waters of Lake Erie within a 1000-foot radius of the fireworks launch site located in Put-In-Bay Harbor at position 41°39.7′ N, 082°48.0′ W                                                                                                                                                                                                                                                                                                                                                     |                                     One evening between June 15 and July 15.                                     |
+|         (37) Toledo Country Club Memorial Celebration and Fireworks Toledo, OH         |                                                                                                                                                                                                                                                                                                                                   All waters of the Maumee River within a 250-yard radius of the fireworks launch site located on shore on the Toledo Country Club's 18th Green at position 41°35.37′ N, 083°35.5′ W                                                                                                                                                                                                                                                                                                                                   |                                      One evening between May 15 and May 31.                                      |
+|                          (38) Freedom Festival Luna Pier, MI                           |                                                                                                                                                                                                                                                                                                                                            All waters of Lake Erie within a 300-yard radius of the fireworks launch site located on the Clyde E. Evens Municipal Pier at position 41°48.39′ N, 083°26.20′ W                                                                                                                                                                                                                                                                                                                                            |                                     One evening between June 15 and July 15.                                     |
+|               (39) Toledo Country Club 4th of July Fireworks Toledo, OH                |                                                                                                                                                                                                                                                                                                                                   All waters of the Maumee River within a 250-yard radius of the fireworks launch site located on shore on the Toledo Country Club's 18th Green at position 41°35.37′ N, 083°35.5′ W                                                                                                                                                                                                                                                                                                                                   |                                     One evening between June 15 and July 15.                                     |
+|                     (40) Lakeside July 4th Fireworks Lakeside, OH                      |                                                                                                                                                                                                                                                                                                                                              All waters of Lake Erie within a 200-yard radius of the fireworks launch site located on the Lakeside Association Dock at position 41°32.52′ N, 082°45.03′ W                                                                                                                                                                                                                                                                                                                                              |                                     One evening between June 15 and July 15.                                     |
+|                 (41) Catawba Island Club Fireworks Catawba Island, OH                  |                                                                                                                                                                                                                                                                                                                                All waters of Lake Erie within a 300-yard radius of the fireworks launch site located on the northwest end of the Catawba Cliffs Harbor Light Pier at position 41°34.18′ N, 082°51.18′ W                                                                                                                                                                                                                                                                                                                                |                                     One evening between June 15 and July 15.                                     |
+|                   (42) Red, White and Blues Bang Fireworks Huron, OH                   |                                                                                                                                                                                                                                                                                                                                                All waters of the Huron River within a 300-yard radius of the fireworks launch site located on the Huron Ore Docks at position 41°23.29′ N, 082°32.55′ W                                                                                                                                                                                                                                                                                                                                                |                                               One evening in July.                                               |
+|                        (43) Huron Riverfest Fireworks Huron, OH                        |                                                                                                                                                                                                                                                                                                                                                All waters of the Huron River within a 350-yard radius of the fireworks launch site located on the Huron Ore Docks at position 41°23.38′ N, 082°32.59′ W                                                                                                                                                                                                                                                                                                                                                |                                               One evening in July.                                               |
+|                       (44) End of Season Fireworks Lakeside, OH                        |                                                                                                                                                                                                                                                                                                                                              All waters of Lake Erie within a 200-yard radius of the fireworks launch site located on the Lakeside Association Dock at position 41°32.52′ N, 082°45.03′ W                                                                                                                                                                                                                                                                                                                                              |                                One evening between September 1 and September 15.                                 |
+|            (45) Annual Labor Day Weekend Fireworks Show Catawba Island, OH             |                                                                                                                                                                                                                                                                                                                                 All waters of Lake Erie within a 300-yard radius of the fireworks launch site located on the northwest end of the Catawba Cliffs Harbor Light Pier at position 41°34.3′ N, 082°51.3′ W                                                                                                                                                                                                                                                                                                                                 |                                One evening between September 1 and September 15.                                 |
+|                       (46) Toledo July 4th Fireworks Toledo, OH                        |                                                                                                                                                                                                                                                                                                                                         All waters of the Maumee River within a 300-yard radius of the fireworks launch site located in International Park, Toledo, OH, at position 41°38.44′ N, 083°31.49′ W                                                                                                                                                                                                                                                                                                                                          |                                     One evening between June 15 and July 15.                                     |
+|              (47) Memorial Day Weekend Fireworks Show Catawba Island, OH               |                                                                                                                                                                                                                                                                                                                                All waters of Lake Erie within a 300-yard radius of the fireworks launch site located on the northwest end of the Catawba Cliffs Harbor Light Pier at position 41°34.18′ N, 082°51.18′ W                                                                                                                                                                                                                                                                                                                                |                                      One evening between May 15 and May 31.                                      |
+|              (48) Put-In-Bay Chamber of Commerce Fireworks Put-In-Bay, OH              |                                                                                                                                                                                                                                                                                                                                                     All waters of Lake Erie within a 350-yard radius of the fireworks launch site located in Put-In-Bay Harbor at position 41°39.3′ N, 082°49.0′ W                                                                                                                                                                                                                                                                                                                                                     |Two separate evenings between June 15 and June 31, and two separate evenings between September 1 and September 15.|
+|                    (49) Bay Point Fireworks Display Marblehead, OH                     |                                                                                                                                                                                                                                                                                                                                    All waters of Lake Erie within a 250-yard radius of the fireworks launch site located on shore in the vicinity of Bay Point, Marblehead, OH, at position 41°30.3′ N, 082°43.1′ W                                                                                                                                                                                                                                                                                                                                    |                                     One evening between June 15 and July 15.                                     |
+|                       (50) LAZ Trommler Fireworks Marblehead, OH                       |                                                                                                                                                                                                                                                                                                                                                           All waters of the Sandusky Bay within a 500 foot radius of the fireworks launch site located at position 41°30′16″ N, 083°48′08″ W                                                                                                                                                                                                                                                                                                                                                           |                                     One evening between June 15 and July 15.                                     |
+|                     (51) Downtown Sandusky Fireworks Sandusky, OH                      |                                                                                                                                                                                                                                                                                                                                                       All waters of the Sandusky Bay within a 280-foot radius of the fireworks launch site located at position 41°27′32.74″ N, 082°42′ 52.02″ W                                                                                                                                                                                                                                                                                                                                                        |                                  One evening between December 31 and January 1.                                  |
 
-[USCG-2008-0218, 73 FR 46197, Aug. 8, 2008, as amended by USCG-2010-0126, 75 FR 32668, June 9, 2010; USCG-2012-0306, 77 FR 37315, June 21, 2012; USCG-2012-0313, 77 FR 42178, July 18, 2012; USCG-2012-0730, 79 FR 16677, Mar. 26, 2014]
+[USCG-2019-0132, 84 FR 20031, May 8, 2019]

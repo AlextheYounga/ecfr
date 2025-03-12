@@ -1,5 +1,7 @@
 ##### § 10.232 Sea service. #####
 
+Link to an amendment published at 84 FR 26591, June 7, 2019.
+
 (a) *Documenting sea service.* (1) Sea service may be documented in various forms such as certificates of discharge, pilotage service and billing forms, and service letters or other official documents from marine companies signed by the owner, operator, master, or chief engineer of the vessel. The Coast Guard must be satisfied as to the authenticity and acceptability of all evidence of experience or training presented.
 
 (2) Documentary evidence produced by the applicant, unless in the form of a Certificate of Discharge conforming to § 14.307 of this subchapter, must contain all of the following information:

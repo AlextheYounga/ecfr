@@ -1,6 +1,6 @@
 ##### § 422.107 Special needs plans and dual-eligibles: Contract with State Medicaid Agency. #####
 
-Link to an amendment published at 84 FR 15828, April 16, 2019.
+Link to an amendment published at 84 FR 15828, April 16, 2019.Link to a correction of the above amendment published at 84 FR 26579, June 7, 2019.
 
 (a) *Definition.* For the purpose of this section, a contract with a State Medicaid agency means a formal written agreement between an MA organization and the State Medicaid agency documenting each entity's roles and responsibilities with regard to dual-eligible individuals.
 
