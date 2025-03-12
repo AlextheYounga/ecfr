@@ -4,6 +4,4 @@
 
 (b) The Chair may suspend fingerprint card processing for a tribe that has a bill remaining unpaid for more than forty-five (45) days.
 
-(c) Fingerprint fees shall be sent to the following address: NIGC Attn: Comptroller, C/O Department of the Interior, 1849 C Street NW., Mail Stop #1621, Washington, DC 20240. Checks should be made payable to the National Indian Gaming Commission (do not remit cash).
-
-[77 FR 5181, Feb. 2, 2012, as amended at 80 FR 31994, June 5, 2015]
+(c) Remittances and other communications about fingerprint processing fees shall be sent to the Commission by the methods provided for in the rates of fees notice published in the Federal Register.

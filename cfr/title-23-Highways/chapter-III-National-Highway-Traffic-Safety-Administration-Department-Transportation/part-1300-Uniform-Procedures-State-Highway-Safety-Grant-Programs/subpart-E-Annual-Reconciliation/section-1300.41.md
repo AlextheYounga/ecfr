@@ -1,10 +1,6 @@
 ##### § 1300.41 Disposition of unexpended balances. #####
 
-(a) *Carry-forward balances.* Except as provided in paragraph (b) of this section, grant funds that remain unexpended at the end of a fiscal year and the expiration of a Highway Safety Plan shall be credited to the State's highway safety account for the new fiscal year, and made immediately available for use by the State, provided the following requirements are met:
-
-(1) The State's new Highway Safety Plan has been approved by the Regional Administrator pursuant to § 1300.14 of this part, including any amendments to the HSP pursuant to § 1300.32; and
-
-(2) The State has assigned all available 23 U.S.C. Chapter 4 and Section 1906 funds to specific project agreements, including project numbers.
+(a) *Carry-forward balances.* Except as provided in paragraph (b) of this section, grant funds that remain unexpended at the end of a fiscal year and the expiration of an HSP shall be credited to the State's highway safety account for the new fiscal year, and made immediately available for use by the State, provided the State's new HSP has been approved by the Regional Administrator pursuant to § 1300.14 of this part, including any amendments to the HSP pursuant to § 1300.32.
 
 (b) *Deobligation of funds.* (1) Except as provided in paragraph (b)(2) of this section, unexpended grant funds shall not be available for expenditure beyond the period of three years after the last day of the fiscal year of apportionment or allocation.
 

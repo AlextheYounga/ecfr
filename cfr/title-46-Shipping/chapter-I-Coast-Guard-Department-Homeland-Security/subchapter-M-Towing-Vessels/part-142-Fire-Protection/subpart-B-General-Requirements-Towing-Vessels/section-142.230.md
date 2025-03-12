@@ -1,5 +1,7 @@
 ##### § 142.230 Hand-portable fire extinguishers and semi-portable fire-extinguishing systems. #####
 
+Link to an amendment published at 83 FR 8180, Feb. 26, 2018.
+
 (a) Hand-portable fire extinguishers and semi-portable fire-extinguishing systems are classified by a combination letter and Roman numeral. The letter indicates the type of fire which the unit could be expected to extinguish, and the Roman numeral indicates the relative size of the unit.
 
 (b) For the purpose of this subchapter, all required hand-portable fire extinguishers and semi-portable fire-extinguishing systems must include Type B classification, suitable for extinguishing fires involving flammable liquids, grease, etc.

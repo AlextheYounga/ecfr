@@ -6,4 +6,4 @@
 
 (c) Funds distributed under paragraph (a) or (b) of this section shall be available for expenditure by the States to satisfy the Federal share of expenses under the approved Highway Safety Plan, and shall constitute a contractual obligation of the Federal Government, subject to any conditions or limitations identified in the distributing document. Such funds shall be available for expenditure by the States as provided in § 1300.41(b), after which the funds shall lapse.
 
-(d) Notwithstanding the provisions of paragraph (c) of this section, reimbursement of State expenses or advance payment of 23 U.S.C. Chapter 4 and Section 1906 funds shall be contingent upon the State's submission of up-to-date and approved projects in the HSP, in accordance with §§ 1300.11(d) and 1300.32.
+(d) Notwithstanding the provisions of paragraph (c) of this section, payment of State expenses of 23 U.S.C. Chapter 4 or Section 1906 funds shall be contingent upon the State's submission of up-to-date information about approved projects in the HSP, in accordance with §§ 1300.11(d) and 1300.32.

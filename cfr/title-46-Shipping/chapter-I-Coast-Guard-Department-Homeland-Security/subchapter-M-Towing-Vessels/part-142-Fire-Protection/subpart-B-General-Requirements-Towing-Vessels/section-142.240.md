@@ -1,5 +1,7 @@
 ##### § 142.240 Inspection, testing, maintenance, and records. #####
 
+Link to an amendment published at 83 FR 8181, Feb. 26, 2018.
+
 (a) *Inspection and testing.* All hand-portable fire extinguishers, semi-portable fire-extinguishing systems, fire-detection systems, and fixed fire-extinguishing systems, including ventilation, machinery shutdowns, and fixed fire-extinguishing system pressure-operated dampers onboard the vessel, must be inspected or tested at least once every 12 months, as prescribed in paragraphs (a)(1) through (8) of this section, or more frequently if otherwise required by the TSMS applicable to the vessel.
 
 (1) Portable fire extinguishers must be tested in accordance with the inspection, maintenance procedures and hydrostatic pressure tests required by Chapters 7 and 8 of NFPA 10, Portable Fire Extinguishers (incorporated by reference, see § 136.112 of this subchapter), with the frequency as specified by NFPA 10. In addition, carbon dioxide and Halocarbon portable fire extinguishers must be refilled when the net content weight loss exceeds that specified for fixed systems in Table 142.240 of this section.

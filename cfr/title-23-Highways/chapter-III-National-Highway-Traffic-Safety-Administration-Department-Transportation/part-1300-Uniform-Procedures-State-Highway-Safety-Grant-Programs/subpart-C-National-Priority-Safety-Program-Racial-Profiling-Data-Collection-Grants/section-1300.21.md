@@ -1,6 +1,6 @@
 ##### § 1300.21 Occupant protection grants. #####
 
-(a) *Purpose.* This section establishes criteria, in accordance with 23 U.S.C. 405(b), for awarding grants to States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or in properly restrained in motor vehicles.
+(a) *Purpose.* This section establishes criteria, in accordance with 23 U.S.C. 405(b), for awarding grants to States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles.
 
 (b) *Definitions.* As used in this section -
 
@@ -16,19 +16,19 @@
 
 (d) *Qualification criteria for a high seat belt use rate State.* To qualify for an Occupant Protection Grant in a fiscal year, a high seat belt use rate State (as determined by NHTSA) shall submit as part of its HSP the following documentation, in accordance with Part 1 of Appendix B:
 
-(1) *Occupant protection plan.* State occupant protection program area plan that identifies the safety problems to be addressed, performance measures and targets, and the countermeasure strategies and projects the State will implement to address those problems, at the level of detail required under § 1300.11(c) and (d).
+(1) *Occupant protection plan.* State occupant protection program area plan that identifies the safety problems to be addressed, performance measures and targets, and the countermeasure strategies and planned activities the State will implement to address those problems, at the level of detail required under § 1300.11(c) and (d).
 
-(2) *Participation in Click-it-or-Ticket national mobilization.* Description of the State's planned participation in the Click it or Ticket national mobilization, including a list of participating agencies, during the fiscal year of the grant, as required under § 1300.11(d)(6);
+(2) *Participation in Click-it-or-Ticket national mobilization.* Description of the State's planned participation in the Click it or Ticket national mobilization, including a list of participating agencies during the fiscal year of the grant, as required under § 1300.11(d)(6);
 
-(3) *Child restraint inspection stations.* (i) Table in the HSP that documents an active network of child passenger safety inspection stations and/or inspection events, including:
+(3) *Child restraint inspection stations.* (i) Countermeasure strategies and planned activities, at the level of detail required under § 1300.11(d), demonstrating an active network of child passenger safety inspection stations and/or inspection events based on the State's problem identification. The description must include estimates for the following requirements in the upcoming fiscal year:
 
-(A) The total number of inspection stations/events in the State; and
+(A) The total number of planned inspection stations and/or events in the State; and
 
-(B) The total number of inspection stations and/or inspection events that service rural and urban areas and at-risk populations (e.g., low income, minority); and
+(B) Within the total in paragraph (d)(3)(i)(A) of this section, the number of planned inspection stations and/or inspection events serving each of the following population categories: urban, rural, and at-risk.
 
 (ii) Certification, signed by the Governor's Representative for Highway Safety, that the inspection stations/events are staffed with at least one current nationally Certified Child Passenger Safety Technician.
 
-(4) *Child passenger safety technicians.* Table in the HSP that identifies the number of classes to be held, location of classes, and estimated number of students needed to ensure coverage of child passenger safety inspection stations and inspection events by nationally Certified Child Passenger Safety Technicians.
+(4) *Child passenger safety technicians.* Countermeasure strategies and planned activities, at the level of detail required under § 1300.11(d), for recruiting, training and maintaining a sufficient number of child passenger safety technicians based on the State's problem identification. The description must include, at a minimum, an estimate of the total number of classes and the estimated total number of technicians to be trained in the upcoming fiscal year to ensure coverage of child passenger safety inspection stations and inspection events by nationally Certified Child Passenger Safety Technicians.
 
 (5) *Maintenance of effort.* The assurance in Part 1 of Appendix B that the lead State agency responsible for occupant protection programs shall maintain its aggregate expenditures for occupant protection programs at or above the average level of such expenditures in fiscal years 2014 and 2015.
 
@@ -46,7 +46,7 @@
 
 (C) A minimum fine of $25 per unrestrained occupant for a violation of the occupant protection statutes described in paragraph (e)(2)(i) of this section.
 
-(ii) Notwithstanding paragraph (e)(2)(i), permit no exception from coverage except for -
+(ii) Notwithstanding paragraph (e)(2)(i) of this section, permit no exception from coverage except for -
 
 (A) Drivers, but not passengers, of postal, utility, and commercial vehicles that make frequent stops in the course of their business;
 
@@ -60,9 +60,9 @@
 
 (F) Passengers in public and livery conveyances.
 
-(3) *Seat belt enforcement.* The State shall identify the countermeasure strategies and projects demonstrating that the State conducts sustained enforcement (*i.e.,* a program of recurring efforts throughout the fiscal year of the grant to promote seat belt and child restraint enforcement), at the level of detail required under § 1300.11(d)(5), that based on the State's problem identification, involves law enforcement agencies responsible for seat belt enforcement in geographic areas in which at least 70 percent of the State's unrestrained passenger vehicle occupant fatalities occurred.
+(3) *Seat belt enforcement.* The State shall identify the countermeasure strategies and planned activities, at the level of detail required under § 1300.11(d)(5), demonstrating that the State conducts sustained enforcement (*i.e.,* a program of recurring efforts throughout the fiscal year of the grant to promote seat belt and child restraint enforcement), and that based on the State's problem identification, involves law enforcement agencies responsible for seat belt enforcement in geographic areas in which at least 70 percent of either the State's unrestrained passenger vehicle occupant fatalities occurred or combined fatalities and serious injuries occurred.
 
-(4) *High risk population countermeasure programs.* The State shall identify the countermeasure strategies and projects, at the level of detail required under § 1300.11(d), demonstrating that the State will implement data-driven programs to improve seat belt and child restraint use for at least two of the following at-risk populations:
+(4) *High risk population countermeasure programs.* The State shall identify the countermeasure strategies and planned activities, at the level of detail required under § 1300.11(d), demonstrating that the State will implement data-driven programs to improve seat belt and child restraint use for at least two of the following at-risk populations:
 
 (i) Drivers on rural roadways;
 
@@ -70,21 +70,21 @@
 
 (iii) Teenage drivers;
 
-(iv) Other high-risk populations identified in the occupant protection program area required under paragraph (d)(1) of this section.
+(iv) Other high-risk populations identified in the occupant protection program area plan required under paragraph (d)(1) of this section.
 
 (5) *Comprehensive occupant protection program.* The State shall submit the following:
 
-(i) Date of NHTSA-facilitated program assessment that was conducted within five years prior to the application due date that evaluates the occupant protection program for elements designed to increase seat belt usage in the State;
+(i) Date of NHTSA-facilitated program assessment that was conducted within five years prior to the application due date that evaluates the occupant protection program for elements designed to increase seat belt use in the State;
 
 (ii) Multi-year strategic plan based on input from Statewide stakeholders (task force) under which the State developed -
 
-(A) *Data-driven performance targets* to improve occupant protection in the State, at the level of detail required under § 1300.11(c);
+(A) *Data-driven performance**targets* to improve occupant protection in the State, at the level of detail required under § 1300.11(c);
 
 (B) *Countermeasure strategies* (such as enforcement, education, communication, policies/legislation, partnerships/outreach) designed to achieve the performance targets of the strategic plan, at the level of detail required under § 1300.11(d);
 
-(C) *A program management strategy* that provides leadership and indicates who is responsible for implementing various aspects of the multi-year strategic plan; and
+(C) *A program management strategy* that provides leadership and identifies the State official responsible for implementing various aspects of the multi-year strategic plan; and
 
-(D) *An enforcement strategy* that includes activities such as encouraging seat belt use policies for law enforcement agencies, vigorous enforcement of seat belt and child safety seat statutes, and accurate reporting of occupant protection system information on police accident report forms, at the level of detail required under § 1300.11(d)(5).
+(D) *An enforcement**strategy* that includes activities such as encouraging seat belt use policies for law enforcement agencies, vigorous enforcement of seat belt and child safety seat statutes, and accurate reporting of occupant protection system information on police accident report forms, at the level of detail required under § 1300.11(d)(5).
 
 (iii) The name and title of the State's designated occupant protection coordinator responsible for managing the occupant protection program in the State, including developing the occupant protection program area of the HSP and overseeing the execution of the projects designated in the HSP; and
 

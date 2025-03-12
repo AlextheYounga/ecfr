@@ -18,7 +18,7 @@
 
 (2) The Regional Administrator shall issue disposition instructions within 120 calendar days after the equipment is determined to be no longer needed for highway safety purposes, in the absence of which the State shall follow the applicable procedures in 2 CFR parts 200 and 1201.
 
-(f) *Federally-owned equipment.* In the event a State or its subrecipient is provided Federally-owned equipment:
+(f) *Federally-owned equipment.* In the event a State or its subrecipient is provided federally-owned equipment:
 
 (1) Title shall remain vested in the Federal Government;
 

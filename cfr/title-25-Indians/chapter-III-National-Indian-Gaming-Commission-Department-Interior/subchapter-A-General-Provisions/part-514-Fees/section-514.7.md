@@ -1,3 +1,5 @@
-##### § 514.7 What should a tribe do if it changes its fiscal year? #####
+##### § 514.7 What should a gaming operation do if it changes its fiscal year or ceases operations? #####
 
-If a gaming operation changes its fiscal year, it shall notify the Commission of the change within thirty (30) days. The Commission may request that the tribe prepare and submit to the Commission the fees and statements required by this subsection for the stub period from the end of the previous fiscal year to the beginning of the new fiscal year. The submission must be sent to the Commission within ninety (90) days of its request.
+(a) If a gaming operation changes its fiscal year, it shall notify the Commission of the change within thirty (30) days. The Commission may request that the gaming operation prepare and submit to the Commission fees and statements for the period from the end of the previous fiscal year to the beginning of the new fiscal year. The submission must be sent to the Commission within ninety (90) days of its request.
+
+(b) If a gaming operation ceases operations, it shall notify the Commission within (30) days. The Commission may request that the gaming operation, using the most recent rates of fees adopted by the Commission, prepare and submit to the Commission fees and statements for the period from the end of the most recent quarter for which fees have been paid to the date operations ceased. The submission must be sent to the Commission within (90) days of its request.

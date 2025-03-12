@@ -1,5 +1,5 @@
-##### § 514.2 When will the annual rates be published? #####
+##### § 514.2 When will the annual rates of fees be published? #####
 
-(a) The Commission shall adopt preliminary rates for each calendar year no later than March 1st of each year, and, if considered necessary, shall modify those rates no later than June 1st of that year.
+(a) The Commission shall adopt the rates of fees no later than November 1st of each year.
 
 (b) The Commission shall publish the rates of fees in a notice in the Federal Register.

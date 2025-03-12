@@ -1,5 +1,7 @@
 ##### § 136.112 Incorporation by reference. #####
 
+Link to an amendment published at 83 FR 8180, Feb. 26, 2018.
+
 (a) Certain material is incorporated by reference into this subchapter with the approval of the Director of the Federal Register under 5 U.S.C 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the U.S. Coast Guard, Office of Design and Engineering Standards (CG-ENG), 2703 Martin Luther King Jr. Avenue SE., Stop 7509, Washington, DC 20593-7509, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal\_register/code\_of\_federalregulations/ibr\_locations.html*.
 
 (b) American Boat and Yacht Council (ABYC), 613 Third Street, Suite 10, Annapolis, MD 21403, 410-990-4460, *http://www.abycinc.org/*.

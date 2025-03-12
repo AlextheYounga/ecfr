@@ -1,5 +1,7 @@
 ##### § 142.315 Additional fire-extinguishing equipment requirements. #####
 
+Link to an amendment published at 83 FR 8181, Feb. 26, 2018.
+
 (a) A towing vessel that is:
 
 (1) Certificated for rivers, lakes, bays, and sounds, less than 3 nautical miles from shore on the Great Lakes; or

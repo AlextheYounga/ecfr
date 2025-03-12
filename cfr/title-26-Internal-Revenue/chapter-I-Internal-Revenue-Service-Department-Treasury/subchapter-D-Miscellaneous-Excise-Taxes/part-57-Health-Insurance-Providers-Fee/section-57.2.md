@@ -2,11 +2,11 @@
 
 (a) *In general.* This section explains the terms used in this part 57 for purposes of the fee.
 
-(b) *Covered entity* - (1) *In general.* Except as provided in paragraph (b)(2) of this section, the term *covered entity* means any entity with net premiums written for health insurance for United States health risks in the fee year if the entity is -
+(b) *Covered entity*—(1) *In general.* Except as provided in paragraph (b)(2) of this section, the term *covered entity* means any entity with net premiums written for health insurance for United States health risks in the fee year if the entity is—
 
 (i) A health insurance issuer within the meaning of section 9832(b)(2), defined in section 9832(b)(2) as an insurance company, insurance service, or insurance organization that is licensed to engage in the business of insurance in a State and that is subject to State law that regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 (ERISA));
 
-(ii) A health maintenance organization within the meaning of section 9832(b)(3), defined in section 9832(b)(3) as -
+(ii) A health maintenance organization within the meaning of section 9832(b)(3), defined in section 9832(b)(3) as—
 
 (A) A Federally qualified health maintenance organization (as defined in section 1301(a) of the Public Health Service Act);
 
@@ -20,9 +20,9 @@
 
 (v) A multiple employer welfare arrangement (MEWA), within the meaning of section 3(40) of ERISA, to the extent not fully insured, provided that for this purpose a covered entity does not include a MEWA that with respect to the plan year ending with or within the section 9010 data year satisfies the requirements to be exempt from reporting under 29 CFR 2520.101-2(c)(2)(ii)(A), (B), or (C).
 
-(2) *Exclusions* - (i) *Self-insured employer.* The term *covered entity* does not include any entity (including a voluntary employees' beneficiary association under section 501(c)(9) (VEBA)) that is part of a self-insured employer plan to the extent that such entity self-insures its employees' health risks. The term *self-insured employer* means an employer that sponsors a self-insured medical reimbursement plan within the meaning of § 1.105-11(b)(1)(i) of this chapter. Self-insured medical reimbursement plans include plans that do not involve shifting risk to an unrelated third party as described in § 1.105-11(b)(1)(ii) of this chapter. A self-insured medical reimbursement plan may use an insurance company or other third party to provide administrative or bookkeeping functions. For purposes of this section, the term *self-insured employer* does not include a MEWA.
+(2) *Exclusions*—(i) *Self-insured employer.* The term *covered entity* does not include any entity (including a voluntary employees' beneficiary association under section 501(c)(9) (VEBA)) that is part of a self-insured employer plan to the extent that such entity self-insures its employees' health risks. The term *self-insured employer* means an employer that sponsors a self-insured medical reimbursement plan within the meaning of § 1.105-11(b)(1)(i) of this chapter. Self-insured medical reimbursement plans include plans that do not involve shifting risk to an unrelated third party as described in § 1.105-11(b)(1)(ii) of this chapter. A self-insured medical reimbursement plan may use an insurance company or other third party to provide administrative or bookkeeping functions. For purposes of this section, the term *self-insured employer* does not include a MEWA.
 
-(ii) *Governmental entity.* The term *covered entity* does not include any governmental entity. For this purpose, the term *governmental entity* means -
+(ii) *Governmental entity.* The term *covered entity* does not include any governmental entity. For this purpose, the term *governmental entity* means—
 
 (A) The government of the United States;
 
@@ -32,7 +32,7 @@
 
 (D) Any agency or instrumentality of any of the foregoing.
 
-(iii) *Certain nonprofit corporations.* The term *covered entity* does not include any entity -
+(iii) *Certain nonprofit corporations.* The term *covered entity* does not include any entity—
 
 (A) That is incorporated as a nonprofit corporation under a State law;
 
@@ -46,23 +46,27 @@
 
 (iv) *Certain voluntary employees' beneficiary associations (VEBAs).* The term *covered entity* does not include any entity that is described in section 501(c)(9) that is established by an entity (other than by an employer or employers) for purposes of providing health care benefits. This exclusion applies to a VEBA that is established by a union or established pursuant to a collective bargaining agreement and having a joint board of trustees (such as in the case of a multiemployer plan within the meaning of section 3(37) of ERISA or a single-employer plan described in section 302(c)(5) of the Labor Management Relations Act, 29 U.S.C. 186(c)(5)). This exclusion does not apply to a MEWA.
 
-(3) [Reserved]. For further guidance, see § 57.2T(b)(3).
+(3) *Application of exclusions*—(i) *Test year.* An entity qualifies for an exclusion described in paragraphs (b)(2)(i) through (iv) of this section if it so qualifies in its test year. The term *test year* means either the entire data year or the entire fee year.
+
+(ii) *Consistency rule.* For purposes of paragraph (b)(3)(i) of this section, an entity must use the same test year as it used in its first fee year beginning after December 31, 2014, and in each subsequent fee year. Thus, for example, if an entity used the 2014 data year as its test year for the 2015 fee year, that entity must use the data year as its test year for each subsequent fee year.
+
+(iii) *Special rule for fee year as test year.* For purposes of paragraph (b)(3) of this section, any entity that uses the fee year as its test year but ultimately does not qualify for an exclusion described in paragraphs (b)(2)(i) through (iv) of this section for that entire fee year must use the data year as its test year for each subsequent fee year.
 
 (4) *State.* Solely for purposes of paragraph (b) of this section, the term *State* means any of the 50 States, the District of Columbia, or any of the possessions of the United States, including American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands.
 
-(c) *Controlled groups* - (1) *In general.* The term *controlled group* means a group of two or more persons, including at least one person that is a covered entity, that is treated as a single employer under section 52(a), 52(b), 414(m), or 414(o).
+(c) *Controlled groups*—(1) *In general.* The term *controlled group* means a group of two or more persons, including at least one person that is a covered entity, that is treated as a single employer under section 52(a), 52(b), 414(m), or 414(o).
 
 (2) *Treatment of controlled group.* A controlled group (as defined in paragraph (c)(1) of this section) is treated as a single covered entity for purposes of the fee.
 
-(3) *Special rules.* For purposes of paragraph (c)(1) of this section (related to controlled groups) -
+(3) *Special rules.* For purposes of paragraph (c)(1) of this section (related to controlled groups)—
 
 (i) A foreign entity subject to tax under section 881 is included within a controlled group under section 52(a) or (b); and
 
-(ii) [Reserved]. For further guidance see § 57.2T(c)(3)(ii).
+(ii) A person is treated as being a member of the controlled group if it is a member of the group at the end of the day on December 31st of the data year. However, a person's net premiums written are included in net premiums written for the controlled group only if the person would qualify as a covered entity in the fee year if the person were not a member of the controlled group.
 
 (d) *Data year.* The term *data year* means the calendar year immediately before the fee year. Thus, for example, 2013 is the data year for fee year 2014.
 
-(e) *Designated entity* - (1) *In general.* The term *designated entity* means the person within a controlled group that is designated to act on behalf of the controlled group regarding the fee with respect to -
+(e) *Designated entity*—(1) *In general.* The term *designated entity* means the person within a controlled group that is designated to act on behalf of the controlled group regarding the fee with respect to—
 
 (i) Filing Form 8963, “Report of Health Insurance Provider Information”;
 
@@ -72,7 +76,7 @@
 
 (iv) Paying the fee for the group to the government.
 
-(2) *Selection of designated entity* - (i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, each controlled group must select a designated entity by having that entity file the Form 8963 in accordance with the form instructions. The designated entity must state under penalties of perjury that all persons that provide health insurance for United States health risks that are members of the group have consented to the selection of the designated entity. Each member of a controlled group must maintain a record of its consent to the controlled group's selection of the designated entity. The designated entity must maintain a record of all member consents.
+(2) *Selection of designated entity*—(i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, each controlled group must select a designated entity by having that entity file the Form 8963 in accordance with the form instructions. The designated entity must state under penalties of perjury that all persons that provide health insurance for United States health risks that are members of the group have consented to the selection of the designated entity. Each member of a controlled group must maintain a record of its consent to the controlled group's selection of the designated entity. The designated entity must maintain a record of all member consents.
 
 (ii) *Requirement for consolidated groups; common parent.* If a controlled group, without regard to foreign corporations included under section 9010(c)(3)(B), is also an affiliated group the common parent of which files a consolidated return for Federal income tax purposes, the designated entity is the agent for the group (within the meaning of § 1.1502-77 of this chapter) for the data year.
 
@@ -82,9 +86,9 @@
 
 (g) *Fee year.* The term *fee year* means the calendar year in which the fee must be paid to the government. The first fee year is 2014.
 
-(h) *Health insurance* - (1) *In general.* Except as provided in paragraph (h)(2) of this section, the term *health insurance* generally has the same meaning as the term *health insurance coverage* in section 9832(b)(1)(A), defined to mean benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract, when these benefits are offered by an entity that is one of the types of entities described in paragraph (b)(1)(i) through (b)(1)(v) of this section. The term *health insurance* includes limited scope dental and vision benefits under section 9832(c)(2)(A) and retiree-only health insurance.
+(h) *Health insurance*—(1) *In general.* Except as provided in paragraph (h)(2) of this section, the term *health insurance* generally has the same meaning as the term *health insurance coverage* in section 9832(b)(1)(A), defined to mean benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract, when these benefits are offered by an entity that is one of the types of entities described in paragraph (b)(1)(i) through (b)(1)(v) of this section. The term *health insurance* includes limited scope dental and vision benefits under section 9832(c)(2)(A) and retiree-only health insurance.
 
-(2) *Exclusions.* The term *health insurance* does not include -
+(2) *Exclusions.* The term *health insurance* does not include—
 
 (i) Coverage only for accident, or disability income insurance, or any combination thereof, within the meaning of section 9832(c)(1)(A);
 
@@ -122,7 +126,7 @@
 
 (4) *Travel insurance.* For purposes of paragraph (h)(2)(xv) of this section, the term *travel insurance* means insurance coverage for personal risks incident to planned travel, which may include, but is not limited to, interruption or cancellation of trip or event, loss of baggage or personal effects, damages to accommodations or rental vehicles, and sickness, accident, disability, or death occurring during travel, provided that the health benefits are not offered on a stand-alone basis and are incidental to other coverage. For this purpose, the term *travel insurance* does not include major medical plans that provide comprehensive medical protection for travelers with trips lasting 6 months or longer, including, for example, those working overseas as an expatriate or military personnel being deployed.
 
-(5) *Reinsurance* - (i) *Indemnity reinsurance.* For purposes of paragraphs (h)(2)(xvi) and (k) of this section, the term *indemnity reinsurance* means an agreement between one or more reinsuring companies and a covered entity under which -
+(5) *Reinsurance*—(i) *Indemnity reinsurance.* For purposes of paragraphs (h)(2)(xvi) and (k) of this section, the term *indemnity reinsurance* means an agreement between one or more reinsuring companies and a covered entity under which—
 
 (A) The reinsuring company agrees to accept, and to indemnify the issuing company for, all or part of the risk of loss under policies specified in the agreement; and
 
@@ -134,13 +138,13 @@
 
 (j) *NAIC.* The term *NAIC* means the National Association of Insurance Commissioners.
 
-(k) *Net premiums written* - The term *net premiums written* means premiums written, including reinsurance premiums written, reduced by reinsurance ceded, and reduced by ceding commissions and medical loss ratio (MLR) rebates with respect to the data year. For this purpose, MLR rebates are computed on an accrual basis in determining net premiums written. Because indemnity reinsurance within the meaning of paragraph (h)(5)(i) of this section is not health insurance under paragraph (h)(1) of this section, the term *net premiums written* does not include premiums written for indemnity reinsurance and is not reduced by indemnity reinsurance ceded. However, in the case of assumption reinsurance within the meaning of paragraph (h)(5)(ii) of this section, the term *net premiums written* does include premiums written for assumption reinsurance and is reduced by assumption reinsurance premiums ceded.
+(k) *Net premiums written*—The term *net premiums written* means premiums written, including reinsurance premiums written, reduced by reinsurance ceded, and reduced by ceding commissions and medical loss ratio (MLR) rebates with respect to the data year. For this purpose, MLR rebates are computed on an accrual basis in determining net premiums written. Because indemnity reinsurance within the meaning of paragraph (h)(5)(i) of this section is not health insurance under paragraph (h)(1) of this section, the term *net premiums written* does not include premiums written for indemnity reinsurance and is not reduced by indemnity reinsurance ceded. However, in the case of assumption reinsurance within the meaning of paragraph (h)(5)(ii) of this section, the term *net premiums written* does include premiums written for assumption reinsurance and is reduced by assumption reinsurance premiums ceded.
 
 (l) *SHCE.* The term *SHCE* means the Supplemental Health Care Exhibit. The SHCE is a form published by the NAIC that most covered entities are required to file annually under State law.
 
 (m) *United States.* For purposes of paragraph (i) of this section, the term *United States* means the 50 States, the District of Columbia, and any possession of the United States, including American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands.
 
-(n) *United States health risk.* The term *United States health risk* means the health risk of any individual who is -
+(n) *United States health risk.* The term *United States health risk* means the health risk of any individual who is—
 
 (1) A United States citizen;
 
@@ -148,4 +152,4 @@
 
 (3) Located in the United States (within the meaning of paragraph (i) of this section) during the period such individual is so located.
 
-[T.D. 9643, 78 FR 71487, Nov. 29, 2013, as amended by T.D. 9711, 80 FR 10334, Feb. 26, 2015]
+[T.D. 9643, 78 FR 71487, Nov. 29, 2013, as amended by T.D. 9711, 80 FR 10334, Feb. 26, 2015; T.D. 9830, 83 FR 8174, Feb. 26, 2018]

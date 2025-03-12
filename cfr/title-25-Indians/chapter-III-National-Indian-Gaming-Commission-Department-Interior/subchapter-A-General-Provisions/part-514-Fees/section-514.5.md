@@ -1,9 +1,5 @@
-##### § 514.5 When must a tribe pay its annual fees? #####
+##### § 514.5 When must a gaming operation pay its annual fees? #####
 
-Each gaming operation shall calculate the amount of fees to be paid and remit them with the quarterly statement required in § 514.6. The fees payable shall be computed using:
+(a) Annual fees are payable to the Commission on a quarterly basis. The annual fee payable to the Commission optionally may be paid in full in the first quarterly payment.
 
-(a) The most recent rates of fees adopted by the Commission pursuant to § 514.2,
-
-(b) The assessable gross revenues for the previous fiscal year as calculated using § 514.4, and
-
-(c) The amounts paid and credits received during the fiscal year, if applicable.
+(b) Each gaming operation shall calculate the amount of fees to be paid, if any, and remit them with the quarterly statement required in § 514.6 within three (3) months, six (6) months, nine (9) months, and twelve (12) months of the end of the gaming operation's fiscal year.

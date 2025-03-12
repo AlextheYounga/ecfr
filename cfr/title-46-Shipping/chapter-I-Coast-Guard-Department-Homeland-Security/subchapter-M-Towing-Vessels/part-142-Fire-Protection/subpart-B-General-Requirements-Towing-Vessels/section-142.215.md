@@ -1,5 +1,7 @@
 ##### § 142.215 Approved equipment. #####
 
+Link to an amendment published at 83 FR 8180, Feb. 26, 2018.
+
 (a) All hand-portable fire extinguishers, semi-portable fire-extinguishing systems, and fixed fire-extinguishing systems required by this part must be approved by the Commandant (CG-ENG). Where other equipment in this part is required to be approved, such equipment requires the specific approval of the Commandant.
 
 (b) A listing of approved equipment and materials may be found online at *https://cgmix.uscg.mil/equipment*. Each cognizant OCMI may be contacted for information concerning approved equipment and materials.
