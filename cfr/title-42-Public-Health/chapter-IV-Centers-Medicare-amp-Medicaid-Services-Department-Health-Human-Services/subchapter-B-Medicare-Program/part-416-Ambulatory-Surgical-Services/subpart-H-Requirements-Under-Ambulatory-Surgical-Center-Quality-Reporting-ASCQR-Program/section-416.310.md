@@ -1,6 +1,6 @@
 ##### § 416.310 Data collection and submission requirements under the ASCQR Program. #####
 
-Link to an amendment published at 82 FR 52636, Nov. 13, 2017.
+Link to an amendment published at 82 FR 52636, Nov. 13, 2017.Link to republication published at 82 FR 59496, Dec. 14, 2017.
 
 (a) *Requirements for claims-based measures using quality data codes (QDCs).* (1) ASCs must submit complete data on individual claims-based quality measures through a claims-based reporting mechanism by submitting the appropriate QDCs on the ASC's Medicare claims.
 

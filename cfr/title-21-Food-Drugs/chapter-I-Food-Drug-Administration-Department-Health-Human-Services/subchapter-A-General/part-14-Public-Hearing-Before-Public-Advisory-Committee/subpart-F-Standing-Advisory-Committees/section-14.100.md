@@ -2,7 +2,7 @@
 
 Standing advisory committees and the dates of their establishment are as follows:
 
-(a) *Office of the Commissioner* -
+(a) *Office of the Commissioner*—
 
 (1) *Board of Tea Experts.*
 
@@ -34,7 +34,7 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: The committee reviews and evaluates safety, dependence, and health issues relating to tobacco products and provides appropriate advice, information, and recommendations to the Commissioner of Food and Drugs. Specifically, the committee will submit reports and recommendations on tobacco-related topics, including: The impact of the use of menthol in cigarettes on the public health, including such use among children, African Americans, Hispanics and other racial and ethnic minorities; the nature and impact of the use of dissolvable tobacco products on the public health, including such use on children; the effects of the alteration of nicotine yields from tobacco products and whether there is a threshold level below which nicotine yields do not produce dependence on the tobacco product involved; and any application submitted by a manufacturer for a modified risk tobacco product. The committee may provide recommendations to the Secretary of Health and Human Services regarding any regulations to be issued under the Federal Food, Drug, and Cosmetic Act and may review any applications for new tobacco products or petitions for exemption under section 906(e) of the Family Smoking Prevention and Tobacco Control Act. The committee may consider and provide recommendations on any other matter as provided in the Family Smoking Prevention and Tobacco Control Act.
 
-(b) *Center for Biologics Evaluation and Research* -
+(b) *Center for Biologics Evaluation and Research*—
 
 (1) *Allergenic Products Advisory Committee.*
 
@@ -54,13 +54,13 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Reviews and evaluates data on the safety and effectiveness, and appropriate use of blood products intended for use in the diagnosis, prevention, or treatment of human diseases.
 
-(4) *Vaccines and Related Biological Products Advisory Committee* -
+(4) *Vaccines and Related Biological Products Advisory Committee*—
 
 (i) Date established: December 31, 1979.
 
 (ii) Function: Reviews and evaluates data on the safety and effectiveness of vaccines intended for use in the diagnosis, prevention, or treatment of human diseases.
 
-(c) *Center for Drug Evaluation and Research* -
+(c) *Center for Drug Evaluation and Research*—
 
 (1) *Anesthetic and Analgesic Drug Products Advisory Committee.*
 
@@ -104,11 +104,11 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Reviews and evaluates data on the safety and effectiveness of marketed and investigational human drugs for use in endocrine and metabolic disorders.
 
-(8) *Bone, Reproductive and Urologic Drugs Advisory Committee.*
+(8) *Obstetrics, Reproductive and Urologic Drugs Advisory Committee.*
 
 (i) Date established: March 23, 1978.
 
-(ii) Function: Advises the Commissioner or designee in discharging responsibilities as they relate to helping to ensure safe and effective drugs for human use and, as required, any other product for which the Food and Drug Administration has regulatory responsibility.
+(ii) Function: The committee reviews and evaluates data on the safety and effectiveness of marketed and investigational human drug products for use in the practice of obstetrics, gynecology, urology and related specialties, and makes appropriate recommendations to the Commissioner of Food and Drugs.
 
 (9) *Gastrointestinal Drugs Advisory Committee.*
 
@@ -164,7 +164,7 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Provides advice on scientific, technical, and medical issues concerning drug compounding under sections 503A and 503B of the Federal Food, Drug, and Cosmetic Act and, as required, any other product for which the Food and Drug Administration has regulatory responsibility, and makes appropriate recommendations to the Commissioner of Food and Drugs.
 
-(d) *Center for Devices and Radiological Health* -
+(d) *Center for Devices and Radiological Health*—
 
 (1) *Medical Devices Advisory Committee.*
 
@@ -196,16 +196,10 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Provides advice to the Commissioner on complex issues relating to medical devices, the regulation of devices, and their use by patients. Agency guidance and policies, clinical trial or registry design, patient preference study design, benefit-risk determinations, device labeling, unmet clinical needs, available alternatives, patient reported outcomes, and device-related quality of life or health status issues are among the topics that may be considered by the Committee. The Committee provides relevant skills and perspectives in order to improve communication of benefits, risks, and clinical outcomes, and increase integration of patient perspectives into the regulatory process for medical devices. It performs its duties by identifying new approaches, promoting innovation, recognizing unforeseen risks or barriers, and identifying unintended consequences that could result from FDA policy.
 
-(e) *National Center for Toxicological Research* - *Science Advisory Board.*
+(e) *National Center for Toxicological Research*—*Science Advisory Board.*
 
 (1) Date established: June 2, 1973.
 
 (2) Function: Advises on establishment and implementation of a research program that will assist the Commissioner of Food and Drugs to fulfill regulatory responsibilities.
 
-(f) *Center for Food Safety and Applied Nutrition - Food Advisory Committee.*
-
-(1) Date established: December 15, 1991.
-
-(2) Function: The committee provides advice on emerging food safety, food science, and nutrition issues that FDA considers of primary importance in the next decade.
-
-[54 FR 9036, Mar. 3, 1989]Editorial Note:For Federal Register citations affecting § 14.100, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 9036, Mar. 3, 1989]Editorial Note:For Federal Register citations affecting § 14.100, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

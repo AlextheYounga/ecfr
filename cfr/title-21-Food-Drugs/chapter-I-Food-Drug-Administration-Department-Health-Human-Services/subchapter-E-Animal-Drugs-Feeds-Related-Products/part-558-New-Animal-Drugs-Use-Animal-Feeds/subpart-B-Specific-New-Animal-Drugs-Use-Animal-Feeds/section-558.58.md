@@ -31,8 +31,4 @@
 
 (3) Chlortetracycline as in § 558.128.
 
-(4) Lincomycin as in § 558.325.
-
-(5) Virginiamycin as in § 558.635.
-
 [41 FR 10990, Mar. 15, 1976]Editorial Note:For Federal Register citations affecting § 558.58, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

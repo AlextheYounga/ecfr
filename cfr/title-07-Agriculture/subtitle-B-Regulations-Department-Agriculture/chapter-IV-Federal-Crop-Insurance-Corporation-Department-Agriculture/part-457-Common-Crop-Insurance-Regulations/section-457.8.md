@@ -30,7 +30,7 @@
 
 Department of AgricultureFederal Crop Insurance Corporation[or policy issuing company name]Common Crop Insurance Policy(This is a continuous policy. Refer to section 2.)FCIC Policies
 
-This is an insurance policy issued by the Federal Crop Insurance Corporation (FCIC), a United States government agency. The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. Procedures (handbooks, manuals, memoranda, and bulletins), issued by us and published on the RMA's Web site at *http://www.rma.usda.gov/* or a successor Web site will be used in the administration of this policy, including the adjustment of any loss or claim submitted hereunder.
+This is an insurance policy issued by the Federal Crop Insurance Corporation (FCIC), a United States government agency. The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. Procedures (handbooks, manuals, memoranda, and bulletins), issued by us and published on the RMA's website at *http://www.rma.usda.gov/* or a successor website will be used in the administration of this policy, including the adjustment of any loss or claim submitted hereunder.
 
 Throughout this policy, “you” and “your” refer to the named insured shown on the accepted application and “we,” “us,” and “our” refer to the Federal Crop Insurance Corporation. Unless the context indicates otherwise, use of the plural form of a word includes the singular and use of the singular form of the word includes the plural.
 
@@ -38,7 +38,7 @@ AGREEMENT TO INSURE: In return for the payment of the premium, and subject to al
 
 Reinsured Policies
 
-This insurance policy is reinsured by the Federal Crop Insurance Corporation (FCIC) under the provisions of the Federal Crop Insurance Act (Act) (7 U.S.C. 1501 *et seq.*). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. We will use the procedures (handbooks, manuals, memoranda and bulletins), as issued by FCIC and published on the RMA's Web site at *http://www.rma.usda.gov/* or a successor Web site, in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, your claim will be settled in accordance with the provisions of this policy and FCIC will be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
+This insurance policy is reinsured by the Federal Crop Insurance Corporation (FCIC) under the provisions of the Federal Crop Insurance Act (Act) (7 U.S.C. 1501 *et seq.*). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours or any employee of USDA unless the policy specifically authorizes a waiver or modification by written agreement. We will use the procedures (handbooks, manuals, memoranda and bulletins), as issued by FCIC and published on the RMA's website at *http://www.rma.usda.gov/* or a successor website, in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, your claim will be settled in accordance with the provisions of this policy and FCIC will be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
 
 Throughout this policy, “you” and “your” refer to the named insured shown on the accepted application and “we,” “us,” and “our” refer to the insurance company providing insurance. Unless the context indicates otherwise, use of the plural form of a word includes the singular and use of the singular form of the word includes the plural.
 
@@ -58,7 +58,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Actual yield.* The yield per acre for a crop year calculated from the production records or claims for indemnities. The actual yield is determined by dividing total production (which includes harvested and appraised production) by planted acres.
 
-*Actuarial documents.* The information for the crop year which is available for public inspection in your agent's office and published on RMA's Web site and which shows available crop insurance policies, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, practices, particular types or varieties of the insurable crop, insurable acreage, and other related information regarding crop insurance in the county.
+*Actuarial documents.* The information for the crop year which is available for public inspection in your agent's office and published on RMA's website and which shows available crop insurance policies, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, practices, particular types or varieties of the insurable crop, insurable acreage, and other related information regarding crop insurance in the county.
 
 *Additional coverage.* A level of coverage greater than catastrophic risk protection.
 
@@ -102,7 +102,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Claim for indemnity.* A claim made on our form that contains the information necessary to pay the indemnity, as specified in the applicable FCIC issued procedures, and complies with the requirements in section 14.
 
-*Code of Federal Regulations (CFR).* The codification of general and permanent rules published in the Federal Register by the Executive departments and agencies of the Federal Government. Rules published in the Federal Register by FCIC are contained in 7 CFR chapter IV. The full text of the CFR is available in electronic format at *http://www.access.gpo.gov/* or a successor Web site.
+*Code of Federal Regulations (CFR).* The codification of general and permanent rules published in the Federal Register by the Executive departments and agencies of the Federal Government. Rules published in the Federal Register by FCIC are contained in 7 CFR chapter IV. The full text of the CFR is available in electronic format at *http://www.access.gpo.gov/* or a successor website.
 
 *Commodity Exchange Price Provisions (CEPP).* A part of the policy that is used for all crops for which revenue protection is available, regardless of whether you elect revenue protection or yield protection for such crops. This document includes the information necessary to derive the projected price and the harvest price for the insured crop, as applicable.
 
@@ -186,7 +186,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Liability.* Your total amount of insurance, value of your production guarantee, or revenue protection guarantee for the unit determined in accordance with the Settlement of Claim provisions of the applicable Crop Provisions.
 
-*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or successor Web site.
+*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or successor website.
 
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
 
@@ -252,7 +252,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Revenue protection guarantee (per acre).* For revenue protection only, the amount determined by multiplying the production guarantee (per acre) by the greater of your projected price or your harvest price. If the harvest price exclusion is elected, the production guarantee (per acre) is only multiplied by your projected price.
 
-*RMA's Web site.* A Web site hosted by RMA and located at *http://www.rma.usda.gov/or* a successor Web site.
+*RMA's website.* A website hosted by RMA and located at *http://www.rma.usda.gov/or* a successor website.
 
 *Sales closing date.* A date contained in the Special Provisions by which an application must be filed. The last date by which you may change your crop insurance coverage for a crop year.
 
@@ -544,7 +544,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (A) Revenue protection will not be provided and you will automatically be covered under the yield protection plan of insurance for the current crop year unless you cancel your coverage by the cancellation date or change your plan of insurance by the sales closing date;
 
-(B) Notice will be provided on RMA's Web site by the date specified in the applicable projected price definition contained in the Commodity Exchange Price Provisions;
+(B) Notice will be provided on RMA's website by the date specified in the applicable projected price definition contained in the Commodity Exchange Price Provisions;
 
 (C) The projected price will be determined by FCIC and will be released by the date specified in the applicable projected price definition contained in the Commodity Exchange Price Provisions; and
 
@@ -648,7 +648,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (a) We may change the terms of your coverage under this policy from year to year.
 
-(b) Any changes in policy provisions, amounts of insurance, premium rates, program dates, price elections or the Commodity Exchange Price Provisions, if applicable, can be viewed on RMA's Web site not later than the contract change date contained in the Crop Provisions (except as allowed herein or as specified in section 3). We may only revise this information after the contract change date to correct clear errors (*e.g.,* the price for oats was announced at $25.00 per bushel instead of $2.50 per bushel or the final planting date should be May 10 but the final planting date in the Special Provisions states August 10).
+(b) Any changes in policy provisions, amounts of insurance, premium rates, program dates, price elections or the Commodity Exchange Price Provisions, if applicable, can be viewed on RMA's website not later than the contract change date contained in the Crop Provisions (except as allowed herein or as specified in section 3). We may only revise this information after the contract change date to correct clear errors (*e.g.,* the price for oats was announced at $25.00 per bushel instead of $2.50 per bushel or the final planting date should be May 10 but the final planting date in the Special Provisions states August 10).
 
 (c) After the contract change date, all changes specified in section 4(b) will also be available upon request from your crop insurance agent. You will be provided, in writing, a copy of the changes to the Basic Provisions, Crop Provisions, Commodity Exchange Price Provisions, if applicable, and Special Provisions not later than 30 days prior to the cancellation date for the insured crop. If available from us, you may elect to receive these documents and changes electronically. Acceptance of the changes will be conclusively presumed in the absence of notice from you to change or cancel your insurance coverage.
 

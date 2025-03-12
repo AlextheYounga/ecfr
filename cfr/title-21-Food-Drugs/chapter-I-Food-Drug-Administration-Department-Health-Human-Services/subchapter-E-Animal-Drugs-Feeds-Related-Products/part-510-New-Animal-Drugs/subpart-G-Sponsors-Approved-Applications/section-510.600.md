@@ -65,6 +65,7 @@
 |                             Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861                              |     054925      |
 |                          Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258                          |     099207      |
 |                            Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640                            |     050604      |
+|                         Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186                          |     015914      |
 |                          Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478                          |     051079      |
 |                               Mylan Institutional LLC, 4901 Hiawatha Dr., Rockford, IL 61103                               |     063286      |
 |                            Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120                            |     049968      |
@@ -126,6 +127,7 @@
 |     013744      |                       Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                       |
 |     015331      |                             Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway.                             |
 |     015565      |                           Fleming Laboratories, Inc., P.O. Box 34384, Charlotte, NC 28234.                           |
+|     015914      |                      Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186.                      |
 |     016592      |                      Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria.                       |
 |     016729      |                       Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703.                       |
 |     017030      |                          Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137.                          |

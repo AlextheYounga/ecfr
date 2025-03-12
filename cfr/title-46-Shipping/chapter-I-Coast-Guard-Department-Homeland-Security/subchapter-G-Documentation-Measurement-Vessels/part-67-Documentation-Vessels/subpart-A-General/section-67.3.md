@@ -8,7 +8,7 @@ The following definitions are for terms used in this part.
 
 (2) An acknowledgment or notarization before a notary or other official authorized to take acknowledgments of deeds by the law of a foreign nation which is a party to the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, 1961, provided that the acknowledgment or notarization is accompanied by the certificate described in Article 4 of that Convention; or
 
-(c) Any attestation which is substantially in the following form:
+(3) Any attestation which is substantially in the following form:
 
 State:County:
 
@@ -82,4 +82,4 @@ Rulings and interpretations concerning what activities constitute coastwise trad
 
 (2) Has undergone, in a shipyard in the United States or its possessions, repairs equaling three times the appraised salved value of the vessel.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 95-014, 60 FR 31603, June 15, 1995; CGD 94-070, 60 FR 40241, Aug. 7, 1995; CGD 95-012, 60 FR 48050, Sept. 18, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2001-8825, 69 FR 5400, Feb. 4, 2004; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004; USCG-2005-20258, 71 FR 61417, Oct. 18, 2006; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012; USCG-2016-0531, 82 FR 43863, Sept. 20, 2017]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 95-014, 60 FR 31603, June 15, 1995; CGD 94-070, 60 FR 40241, Aug. 7, 1995; CGD 95-012, 60 FR 48050, Sept. 18, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2001-8825, 69 FR 5400, Feb. 4, 2004; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004; USCG-2005-20258, 71 FR 61417, Oct. 18, 2006; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012; USCG-2016-0531, 82 FR 43863, Sept. 20, 2017; 82 FR 58749, Dec. 14, 2017]

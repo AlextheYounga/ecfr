@@ -6,7 +6,7 @@ This insurance is available for the 2017 and succeeding years.
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
-This is an insurance policy issued by the FCIC, a United States government agency, under the provisions of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA. Procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), issued by us and published on the Risk Management Agency's (RMA) Web site at *http://www.rma.usda.gov/* or a successor Web site, will be used in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to FCIC. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
+This is an insurance policy issued by the FCIC, a United States government agency, under the provisions of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or modified in any way by us, your insurance agent or any employee of USDA. Procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), issued by us and published on the Risk Management Agency's (RMA) website at *http://www.rma.usda.gov/* or a successor website, will be used in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to FCIC. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
 
 AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject to all of the provisions of this policy, we agree with you to provide the insurance as stated in this policy. If there is a conflict among the Act, the regulations published at 7 CFR chapter IV, and the procedures as issued by us, the order of priority is: (1) the Act; (2) the regulations; and (3) the procedures as issued by us, with (1) controlling (2), etc. If there is a conflict between the policy provisions published at 7 CFR part 407 and the administrative regulations published at 7 CFR part 400, the policy provisions published at 7 CFR part 407 control. The order of priority among the policy is: (1) the Catastrophic Risk Protection Endorsement, as applicable; (2) Special Provisions; (3) actuarial documents; (4) the applicable Commodity Exchange Price Provisions; (5) the Crop Provisions; and (6) these Basic Provisions, with (1) controlling (2), etc.
 
@@ -14,7 +14,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and not receive an indemnity under ARPI.
 
-This insurance policy is reinsured by the FCIC under the provisions of Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours or any employee of USDA. We will use the procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), as issued by FCIC and published on the Risk Management Agency (RMA's) Web site at *http://www.rma.usda.gov/* or a successor Web site, in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, FCIC will become your insurer, make all decisions in accordance with the provisions of this policy, including any loss payments, and be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
+This insurance policy is reinsured by the FCIC under the provisions of Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524) (Act). All provisions of the policy and rights and responsibilities of the parties are specifically subject to the Act. The provisions of the policy may not be waived or varied in any way by us, our insurance agent or any other contractor or employee of ours or any employee of USDA. We will use the procedures (handbooks, underwriting rules, manuals, memoranda, and bulletins), as issued by FCIC and published on the Risk Management Agency (RMA's) website at *http://www.rma.usda.gov/* or a successor website, in the administration of this policy, including the adjustment of any loss or claim submitted hereunder. In the event that we cannot pay your loss because we are insolvent or are otherwise unable to perform our duties under our reinsurance agreement with FCIC, FCIC will become your insurer, make all decisions in accordance with the provisions of this policy, including any loss payments, and be responsible for any amounts owed. No state guarantee fund will be liable for your loss.
 
 Throughout this policy, “you” and “your” refer to the insured shown on the accepted application and “we,” “us,” and “our” refer to the insurance provider providing insurance. Unless the context indicates otherwise, the use of the plural form of a word includes the singular and the singular form of the word includes the plural.
 
@@ -30,7 +30,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Act.* Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524).
 
-*Actuarial documents.* The part of the policy that contains information for the crop year which is available for public inspection in your agent's office and published on RMA's Web site, *http://www.rma.usda.gov/*, and which shows available plans of insurance, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, type (commodity types, classes, subclasses, intended uses), practice (irrigated practices, cropping practices, organic practices, intervals), insurable acreage, and other related information regarding crop insurance in the county.
+*Actuarial documents.* The part of the policy that contains information for the crop year which is available for public inspection in your agent's office and published on RMA's Website, *http://www.rma.usda.gov/*, and which shows available plans of insurance, coverage levels, information needed to determine amounts of insurance, prices, premium rates, premium adjustment percentages, type (commodity types, classes, subclasses, intended uses), practice (irrigated practices, cropping practices, organic practices, intervals), insurable acreage, and other related information regarding crop insurance in the county.
 
 *Additional coverage.* A level of coverage greater than catastrophic risk protection.
 
@@ -154,7 +154,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Liability.* (See “Policy protection.”)
 
-*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or a successor Web site.
+*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx.*
 
 *Loss limit factor.* Unless otherwise specified in the Special Provisions a factor of .18 is used to calculate the payment factor. This factor represents the percentage of the expected county yield or expected county revenue at which no additional indemnity amount is payable. For example, if the expected county yield is 100 bushels and the final county yield is 18 bushels, then no additional indemnity is due even if the yield falls below 18 bushels. The total indemnity will never be more than 100 percent of the final policy protection.
 
@@ -206,7 +206,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *RMA.* Risk Management Agency, an agency within USDA.
 
-*RMA's Web site.* A Web site hosted by RMA and located at *http://www.rma.usda.gov/* or a successor Web site.
+*RMA's website.* A website hosted by RMA and located at *http://www.rma.usda.gov/* or a successor website.
 
 *Sales closing date.* The date contained in the actuarial documents by which an application must be filed and the last date by which you may change your crop insurance coverage for a crop year.
 
@@ -214,7 +214,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Share.* Your insurable interest in the insured crop as an owner, operator, or tenant.
 
-*Special Provisions.* The part of the policy that contains specific provisions of insurance for each insured crop that may vary by geographic area, and is available for public inspection in your agent's office and published on RMA's Web site.
+*Special Provisions.* The part of the policy that contains specific provisions of insurance for each insured crop that may vary by geographic area, and is available for public inspection in your agent's office and published on RMA's website.
 
 *State.* The state shown on your accepted application.
 
@@ -478,7 +478,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (a) We may change the terms and conditions of this policy from year to year.
 
-(b) Any changes in policy provisions, the CEPP, amounts of insurance, expected county yields, premium rates, and program dates can be viewed on RMA's Web site not later than the contract change date contained in the Crop Provisions. We may only revise this information after the contract change date to correct obvious errors (e.g., the expected county revenue for a county was announced at $2,500 per acre instead of $250 per acre).
+(b) Any changes in policy provisions, the CEPP, amounts of insurance, expected county yields, premium rates, and program dates can be viewed on RMA's website not later than the contract change date contained in the Crop Provisions. We may only revise this information after the contract change date to correct obvious errors (e.g., the expected county revenue for a county was announced at $2,500 per acre instead of $250 per acre).
 
 (c) After the contract change date, all changes specified in section 3(b) will also be available upon request from your crop insurance agent.
 
@@ -610,7 +610,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (1) Area Revenue Protection and Area Revenue Protection with the Harvest Price Exclusion will not be provided and you will automatically be covered under the Area Yield Protection plan of insurance for the current crop year unless you cancel your coverage by the cancellation date or change your plan of insurance by the sales closing date;
 
-(2) Notice of availability of the projected price will be provided on RMA's Web site by the date specified in the applicable projected price definition contained in the CEPP;
+(2) Notice of availability of the projected price will be provided on RMA's website by the date specified in the applicable projected price definition contained in the CEPP;
 
 (3) The projected price will be determined by FCIC and will be released by the date specified in the applicable projected price definition contained in the CEPP; and
 
@@ -1140,7 +1140,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Your only remedy is judicial review but if you want to seek judicial review of any determination by us that is a matter of general applicability, you must request a determination of non-appealability from the Director of the National Appeals Division in accordance with 7 CFR 11.6 before seeking judicial review.
 
-(3) The timeframe to request a determination of non-appealability from the Director of the National Appeals Division is not later than 30 days after the date the yields are published on the RMA Web site.
+(3) The timeframe to request a determination of non-appealability from the Director of the National Appeals Division is not later than 30 days after the date the yields are published on the RMA website.
 
 (b) If you disagree with our determinations:
 
@@ -1166,7 +1166,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (2) Your only remedy is judicial review but if you want to seek judicial review of any FCIC determination that is a matter of general applicability, you must request a determination of non-appealability from the Director of the National Appeals Division in accordance with 7 CFR 11.6 before seeking judicial review.
 
-(3) The timeframe to request a determination of non-appealability from the Director of the National Appeals Division is not later than 30 days after the date the yields are published on RMA's Web site.
+(3) The timeframe to request a determination of non-appealability from the Director of the National Appeals Division is not later than 30 days after the date the yields are published on RMA's website.
 
 (b) With respect to good farming practices:
 
@@ -1210,7 +1210,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (ii) Failure to obtain any required interpretation from FCIC will result in the nullification of any agreement or award.
 
-(iii) An interpretation by FCIC of a policy provision is considered a determination that is a matter of general applicability. However, before such interpretation may be challenged in the courts, you must request a determination of non-appealability from the Director of the National Appeals Division not later than 30 days after the date the interpretation was published on RMA's Web site.
+(iii) An interpretation by FCIC of a policy provision is considered a determination that is a matter of general applicability. However, before such interpretation may be challenged in the courts, you must request a determination of non-appealability from the Director of the National Appeals Division not later than 30 days after the date the interpretation was published on RMA's website.
 
 (4) Unless the dispute is resolved through mediation, the arbitrator must provide to you and us a written statement describing the issues in dispute, the factual findings, the determinations and the amount and basis for any award and breakdown by claim for any award.
 
@@ -1344,4 +1344,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017]
