@@ -1,3 +1,5 @@
-##### § 385.205 How can a person who has lost his or her certification be re-certified? #####
+##### § 385.205 How can an individual who has lost certification to perform a safety audit or investigation, including review, be re-certified? #####
 
-He or she must successfully complete the requirements of § 385.203(a) and (b).
+The individual must successfully complete the requirements of § 385.203(a) and (b).
+
+[86 FR 48044, Aug. 27, 2021]

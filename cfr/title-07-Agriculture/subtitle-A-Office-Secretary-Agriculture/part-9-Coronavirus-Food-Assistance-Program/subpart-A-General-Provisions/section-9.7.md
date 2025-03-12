@@ -1,8 +1,12 @@
 ##### § 9.7 Miscellaneous provisions. #####
 
-(a) If a CFAP payment resulted from erroneous information provided by a participant, or any person acting on their behalf, the payment will be recalculated and the participant must refund any excess payment with interest calculated from the date of the disbursement of the payment. Any required refunds must be resolved in accordance with part 3 of this title.
+(a) If a CFAP payment resulted from erroneous information provided by a participant, or any person acting on their behalf, the payment will be recalculated and the participant must refund any excess payment with interest calculated from the date of the disbursement of the payment.
 
-(b) The regulations in parts 11 and 780 of this title apply to determinations made under this part.
+(1) If FSA determines that the applicant intentionally misrepresented either the total amount or applicant's share of the commodities, acres, sales, or revenue on their application, the application will be disapproved and the applicant must refund the full payment to FSA with interest from the date of disbursement.
+
+(2) Any required refunds must be resolved in accordance with part 3 of this title.
+
+(b) The regulations in part 718, subpart D, and parts 11 and 780 of this title apply to determinations made under this part.
 
 (c) Any payment under this part will be made without regard to questions of title under State law and without regard to any claim or lien against the commodity or proceeds from the sale of the commodity. The regulations governing offsets in part 3 of this title do not apply to payments made under this part.
 
@@ -28,4 +32,4 @@
 
 (h) This part applies to applications submitted under CFAP through the applicable date in § 9.4(a), or until funds made available for CFAP are exhausted.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020; 85 FR 59385, Sept. 22, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020; 85 FR 59385, Sept. 22, 2020; 86 FR 48017, Aug. 27, 2021]

@@ -4,6 +4,8 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Aquaculture* means any species of aquatic organisms grown as food for human consumption, fish raised as feed for fish that are consumed by humans, ornamental fish propagated and reared in an aquatic medium. Eligible aquacultural species must be raised by a commercial operator and in water in a controlled environment.
 
+*Average revenue loss level* means the average percentage of revenue loss for contract producers determined by USDA for a geographic area based on the best available data including, but not limited to, losses reported by contract producers for the same area and type of livestock or poultry.
+
 *Breeding stock* means:
 
 (1) For cattle, bulls and cows;
@@ -20,7 +22,9 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Eggs* means dried, frozen, liquid, and shell eggs.
 
-*Eligible revenue* means the revenue received by a contract producer for contract production of broilers, pullets, layers, chicken eggs, turkeys, hogs, or pigs, as reported on Internal Revenue Service Form 1099.
+*Eligible contract livestock or poultry* means broilers, pullets, layers, poultry eggs, turkeys, ducks, geese, pheasants, quail, hogs, pigs, and other livestock or poultry types determined eligible and announced by USDA, including breeding stock of those eligible livestock and poultry types.
+
+*Eligible revenue* means the revenue received by a contract producer for contract production of eligible contract livestock or poultry, as reported on Internal Revenue Service Form 1099.
 
 *Experimental* means a crop for which all of the following apply:
 
@@ -40,7 +44,7 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Horticulture* means any of the following horticulture: Anise, basil, cassava, chervil (Fresh parsley), chia, chicory (radicchio), cilantro, cinnamon, curry leaves, galanga, ginger, ginseng, guayule, herbs, hops, lotus root, marjoram, meadowfoam, mint, moringa, niger seed, oregano, parsley, pennycress, peppermint, pohole, psyllium, rosemary, sage, savory, shrubs (forbs), sorrel, spearmint, tangos, tea, thyme, turmeric, vanilla, wasabi, water cress, and yu cha.
 
-*Ineligible commodities* for CFAP 2 means any of the following commodities: Birdsfoot and trefoil, clover, cover crop, fallow, forage soybeans, forage sorghum, gardens (commercial and home), grass, kochia (prostrata), lespedeza, milkweed, mixed forage, pelts (excluding mink), perennial peanuts, pollinators, sunn hemp, vetch, and seed of ineligible crops.
+*Ineligible commodities* for CFAP 2 means any of the following commodities: Birdsfoot and trefoil, clover, cover crop, fallow, forage soybeans, forage sorghum, gardens (commercial and home), grass, kochia (prostrata), lespedeza, milkweed, mixed forage, pelts (excluding mink), perennial peanuts, pollinators, sunn hemp, vetch, and seed of ineligible crops other than grass seed.
 
 *Layer* means a chicken producing table or commercial type shell eggs.
 
@@ -58,18 +62,20 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Price trigger livestock and products* means any of the following livestock and products: Beef cattle, broilers, dairy (cow milk), eggs, lambs, sheep, hogs, and pigs; excluding breeding stock.
 
-*Producer* means a person or legal entity who shares in the risk of producing a commodity. Producers who are not in the business of farming at the time of application are not considered eligible producers.
+*Producer* means a person or legal entity who shares in the risk of producing a commodity. Except for contract producers, producers who are not in the business of farming at the time of application are not considered eligible producers.
 
 *Pullet* means a young female chicken that has not laid an egg.
 
-*Sales-based commodities* means, as defined in this section, aquaculture, sales-based crops, nursery crops and floriculture, other livestock, and the following commodities: Goat milk, mink (including pelts); mohair wool, and turfgrass sod.
+*Sales-based commodities* means, as defined in this section, aquaculture, sales-based crops, nursery crops and floriculture, other livestock, and the following commodities: Goat milk, grass seed, mink (including pelts), mohair wool, and turfgrass sod.
 
 *Sales-based crops* means ambrosia, arundo, camelina, cactus, cardoon, fruits, honey, horticulture, maple sap, tobacco, tree nuts, and vegetables. Fruits, horticulture, tree nuts, and vegetables are defined in this section. The term excludes crops with an intended use of grazing, green manure, or left standing.
 
 *Tree nuts* means any of the following tree nuts: Almonds, carob, cashew, chestnuts, coffee, hazel nuts, jojoba, macadamia nuts, pecans, pine nuts, pistachios, and walnuts.
 
+*Turn* means a group of eligible contract livestock or poultry that is delivered to a contract producer who provides labor and equipment to produce the livestock or poultry for the integrator or owner.
+
 *Vegetables* means any of the following vegetables: Alfalfa sprouts, aloe vera, artichokes, arugula (greens), asparagus, bamboo shoots, batatas, bean sprouts, beans (including dry edible), beets, bok choy, broccoflower, broccoli, broccolini, broccolo-cavalo, Brussel sprouts, cabbage, calaloo, carrots, cauliflower, celeriac, celery, chickpea (see beans, garbanzo), chives, collard greens, coriander, corn, sweet, cucumbers, daikon, dandelion greens, dasheen (taro root, malanga), dill, eggplant, endive, escarole, frisee, gailon (gai lein, Chinese broccoli), garlic, gourds, greens, horseradish, Jerusalem artichokes (sunchoke), kale, kohlrabi, leeks, lentils, lettuce, melongene, mesculin mix, microgreens, mushrooms, okra, onions, parsnip, peas (including dry edible), pejibaye (heart of palm), peppers, potatoes, potatoes sweet, pumpkins, radicchio, radishes, rhubarb, rutabaga, salsify (oyster plant), scallions, seed - vegetable, shallots, spinach, squash, swiss chard, tannier, taro, tomatillos, tomatoes, truffles, turnip top (greens), turnips, yam, and yautia (malanga);
 
 *WHIP+* means the Wildfires and Hurricanes Indemnity Program Plus (WHIP+) under part 760, subpart O, of this title.
 
-[85 FR 59386, Sept. 22, 2020, as amended at 86 FR 4882, Jan. 19, 2021]
+[85 FR 59386, Sept. 22, 2020, as amended at 86 FR 4882, Jan. 19, 2021; 86 FR 48017, Aug. 27, 2021]

@@ -1,0 +1,3 @@
+##### § 273.30 Transitional benefit alternative change reporting requirements. #####
+
+If the household does report changes in its circumstances during the transitional period, the State agency may make the change effective the month following the last month of the transitional period or invite the household to reapply and be certified to receive benefits. However, in order to prevent duplicate participation, the State agency must act to change the household's transitional benefit when a household member moves out of the household and either reapplies as a new household or is reported as a new member of another household. Moreover, the State agency must remove any income, resources and deductible expenses clearly attributable to the departing member.

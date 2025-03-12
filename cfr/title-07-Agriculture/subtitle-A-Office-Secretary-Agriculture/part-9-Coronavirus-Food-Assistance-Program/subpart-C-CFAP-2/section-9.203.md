@@ -46,9 +46,21 @@
 
 (2) Payments for egg producers who began farming in 2020 and had no production in 2019 will be calculated as provided in paragraph (h)(1) of this section, except that the payments will be based on the producer's actual 2020 egg production as of the date the producer submits an application for payment under this part.
 
-(i)(1) Payments for sales commodities will be equal to the sum of the results for the following calculation for each 2019 sales range in Table 2 of paragraph (j) of this section: The sum of the amount of the producer's eligible sales for the sales commodities in calendar year 2019 and the producer's crop insurance indemnities and NAP and WHIP+ payments for the sales commodities for the 2019 crop year within the specified range, multiplied by the payment rate for that range in Table 2 of paragraph (j) of this section. Eligible sales only includes sales of raw commodities grown by the producer; the portion of sales derived from adding value to the commodity, such as processing and packaging, and from sales of products purchased for resale is not included in the payment calculation unless determined eligible by the Secretary.
+(i) Payments for sales-based commodities will be:
 
-(2) Payments for producers of sales commodities who began farming in 2020 and had no sales in 2019 will be calculated as provided in paragraph (i)(1) of this section, except that the payments will be based on the producer's actual 2020 sales, without crop insurance indemnities and NAP and WHIP+ payments, as of the date the producer submits an application for payment under this section.
+(1) Based on one of the following as elected by the producer:
+
+(i) The producer's sales for calendar year 2018 and crop insurance indemnities and NAP and WHIP+ payments for the 2018 crop year for all sales-based commodities; or
+
+(ii) The producer's sales for calendar year 2019 and crop insurance indemnities and NAP and WHIP+ payments for the 2019 crop year for all sales-based commodities.
+
+(2) Equal to the sum of the results for the following calculation for each sales range in Table 2 of paragraph (j) of this section:
+
+(i) The sum of the amount of the producer's eligible sales for the sales-based commodities in the applicable calendar year and the producer's crop insurance indemnities and NAP and WHIP+ payments for the sales commodities for the applicable crop year within the specified range, multiplied by the payment rate for that range in Table 2 of paragraph (j) of this section.
+
+(ii) Eligible sales only includes sales of raw commodities grown by the producer; the portion of sales derived from adding value to the commodity, such as processing and packaging, and from sales of products purchased for resale is not included in the payment calculation unless determined eligible by the Secretary.
+
+(3) Payments for producers of sales commodities who began farming in 2020 and had no sales in 2019, calculated as provided in paragraph (i)(2) of this section, except that the payments will be based on the producer's actual 2020 sales, without crop insurance indemnities, NAP or WHIP+ payments, as of the date the producer submits an application for payment under this section.
 
 (j) The payment rates in Tables 1 and 2 of this paragraph (j) will be used to calculate CFAP payments:
 
@@ -70,22 +82,50 @@ Table 1 to Paragraph (j) - Payment Rates for Price Trigger Crops and Eggs
 
 Table 2 to Paragraph (j) - Payment Rates for Sales Commodities
 
-|2019 Sales range (including crop insurance indemnities and NAP and WHIP+ payments)|Percent  <br/>payment  <br/>factor|
-|----------------------------------------------------------------------------------|----------------------------------|
-|                                  Up to $49,999                                   |               10.6               |
-|                                 $50,000-$99,999                                  |               9.9                |
-|                                $100,000-$499,999                                 |               9.7                |
-|                                $500,000-$999,999                                 |               9.0                |
-|                            All sales over $1 million                             |               8.8                |
+|2018 or 2019 Sales range  <br/>(including crop insurance indemnities and NAP and WHIP+ payments)|Percent payment factor|
+|------------------------------------------------------------------------------------------------|----------------------|
+|                                         Up to $49,999                                          |         10.6         |
+|                                        $50,000-$99,999                                         |         9.9          |
+|                                       $100,000-$499,999                                        |         9.7          |
+|                                       $500,000-$999,999                                        |         9.0          |
+|                                   All sales over $1 million                                    |         8.8          |
 
 (k) CFAP 2 payments will not be calculated or issued for ineligible commodities.
 
-(l) For eligible contract producers of broilers, pullets, layers, chicken eggs, turkeys, hogs, or pigs, if eligible revenue for the period from January 1, 2020, through December 27, 2020, decreased compared to eligible revenue for the period from January 1, 2019, through December 27, 2019, then payments will be equal to:
+(l) For eligible contract producers, if eligible revenue for the period from January 1, 2020, through December 27, 2020, decreased compared to eligible revenue for the period from January 1, 2018, through December 27, 2018, or the period from January 1, 2019, through December 27, 2019, then payments will be equal to:
 
-(1) Eligible revenue received from January 1, 2019, through December 27, 2019, minus eligible revenue received from January 1, 2020, through December 27, 2020; multiplied by
+(1) Eligible revenue received from January 1, 2018, through December 27, 2018, or from January 1, 2019, through December 27, 2019; minus
 
-(2) 80 percent.
+(2) Eligible revenue received from January 1, 2020, through December 27, 2020; multiplied by
 
-(3) This calculation is subject to the availability of funds and will be factored, if needed.
+(3) 80 percent.
 
-[85 FR 59386, Sept. 22, 2020, as amended at 86 FR 4883, Jan. 19, 2021]
+(4) USDA will adjust the eligible revenue based on information certified by the contract producer on form AD-3117B for contract producers who did not have a full period of revenue from January 1 to December 27 for either 2018 or 2019, or who increased their operation size in 2020. Information required to calculate these adjustments may include a contract producer's square footage increase to the operation in 2020, or a contract producer's production or number of turns for 2018, 2019, or 2020, as applicable.
+
+(m) For eligible contract producers who did not receive eligible revenue from January 1 through December 27 in 2018 or 2019, but received eligible revenue for the period from January 1, 2020, through December 27, 2020:
+
+(1) FSA will divide the eligible revenue received from January 1, 2020, through December 27, 2020, by the result of 1 minus the average revenue loss level, determined by USDA for a geographic area based on the best available data including, but not limited to, losses reported by other contract producers for the same area and type of livestock or poultry; and
+
+(2) The payment will be equal to:
+
+(i) The result of the calculation in paragraph (m)(1) of this section minus the contract producer's eligible revenue received from January 1, 2020, through December 27, 2020; multiplied by
+
+(ii) 80 percent.
+
+(n) Payments under paragraphs (l) and (m) of this section and the average revenue loss levels under paragraph (m)(1) of this section will be calculated separately for the following categories:
+
+(1) Chickens - broilers, pullets, and layers;
+
+(2) Chicken eggs;
+
+(3) Turkeys;
+
+(4) Hogs and pigs;
+
+(5) Ducks, geese, pheasants, quail; and
+
+(6) All other eligible poultry eggs.
+
+(o) The calculations in paragraphs (l) and (m) of this section are subject to the availability of funds and will be factored, if needed.
+
+[85 FR 59386, Sept. 22, 2020. Redesignated and amended at 86 FR 4882, 4883, Jan. 19, 2021; 86 FR 48017, Aug. 27 2021]
