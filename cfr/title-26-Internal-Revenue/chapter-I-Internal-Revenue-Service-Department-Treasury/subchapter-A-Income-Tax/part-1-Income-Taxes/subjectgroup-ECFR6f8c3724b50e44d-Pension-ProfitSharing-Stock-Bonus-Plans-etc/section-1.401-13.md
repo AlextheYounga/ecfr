@@ -46,7 +46,7 @@
 
 (ii) The notice described in subdivision (i) of this subparagraph shall not be mailed prior to the time that the amount of the tax under chapter 1 of the Code of the owner-employee to whom the excess contribution is to be repaid has been finally determined for his taxable year in which such excess contribution was made. For purposes of this subdivision, a final determination of the amount of tax liability of the owner-employee includes -
 
-(A)1 A decision by the Tax Court of the United States, or a judgment, decree, or other order by any court of competent jurisdiction, which has become final;
+(A) 1 A decision by the Tax Court of the United States, or a judgment, decree, or other order by any court of competent jurisdiction, which has become final;
 
 (B) A closing agreement authorized by section 7121; or
 

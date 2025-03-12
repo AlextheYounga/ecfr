@@ -20,7 +20,7 @@
 
 (2) For cost sharing imposed for non-preferred drugs under § 447.53 and for non-emergency services provided in a hospital emergency department under § 447.54, the agency may target cost sharing to specified groups of individuals regardless of income.
 
-(e) *Denial of service for nonpayment.* (1) The agency may permit a provider, including a pharmacy or hospital, to require an individual to pay cost sharing as a condition for receiving the item or service if -
+(e) *Denial of service for nonpayment.* (1) The agency may permit a provider, including a pharmacy or hospital, to require an individual to pay cost sharing as a condition for receiving the item or service if—
 
 (i) The individual has family income above 100 percent of the FPL,
 
@@ -38,15 +38,15 @@
 
 (h) *Services furnished by a managed care organization (MCO).* Contracts with MCOs must provide that any cost-sharing charges the MCO imposes on Medicaid enrollees are in accordance with the cost sharing specified in the state plan and the requirements set forth in §§ 447.50 through 447.57.
 
-(i) *State Plan Specifications.* For each cost sharing charge imposed under this part, the state plan must specify -
+(i) *State Plan Specifications.* For each cost sharing charge imposed under this part, the state plan must specify—
 
 (1) The service for which the charge is made;
 
 (2) The group or groups of individuals that may be subject to the charge;
 
-(3)The amount of the charge;
+(3) The amount of the charge;
 
-(4) The process used by the state to -
+(4) The process used by the state to—
 
 (i) Ensure individuals exempt from cost sharing are not charged,
 

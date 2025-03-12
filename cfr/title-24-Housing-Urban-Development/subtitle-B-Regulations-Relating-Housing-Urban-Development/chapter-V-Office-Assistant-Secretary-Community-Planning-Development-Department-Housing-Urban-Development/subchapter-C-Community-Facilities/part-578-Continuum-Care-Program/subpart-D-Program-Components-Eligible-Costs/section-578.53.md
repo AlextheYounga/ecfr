@@ -86,7 +86,7 @@
 
 (C) The payment of rental application fees.
 
-(iii) Housing counseling, as defined in § 5.100, that is funded with or provided in connection with grant funds must be carried out in accordance with § 5.111. When recipients or subrecipients provide housing services to eligible persons that are incidental to a larger set of holistic case management services, these services do not meet the definition of Housing counseling, as defined in § 5.100, and therefore are not required to be carried out in accordance with the certification requirements of § 5.111
+(iii) Housing counseling, as defined in § 5.100, that is funded with or provided in connection with grant funds must be carried out in accordance with § 5.111. When recipients or subrecipients provide housing services to eligible persons that are incidental to a larger set of holistic case management services, these services do not meet the definition of Housing counseling, as defined in § 5.100, and therefore are not required to be carried out in accordance with the certification requirements of § 5.111.
 
 (9) *Legal services.* Eligible costs are the fees charged by licensed attorneys and by person(s) under the supervision of licensed attorneys, for advice and representation in matters that interfere with the homeless individual or family's ability to obtain and retain housing.
 

@@ -1,5 +1,7 @@
 ##### § 155.400 Enrollment of qualified individuals into QHPs. #####
 
+Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
+
 (a) *General requirements.* The Exchange must accept a QHP selection from an applicant who is determined eligible for enrollment in a QHP in accordance with subpart D, and must -
 
 (1) Notify the issuer of the applicant's selected QHP; and

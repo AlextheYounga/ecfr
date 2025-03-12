@@ -1,5 +1,7 @@
 ##### § 155.410 Initial and annual open enrollment periods. #####
 
+Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
+
 (a) *General requirements.* (1) The Exchange must provide an initial open enrollment period and annual open enrollment periods consistent with this section, during which qualified individuals may enroll in a QHP and enrollees may change QHPs.
 
 (2) The Exchange may only permit a qualified individual to enroll in a QHP or an enrollee to change QHPs during the initial open enrollment period specified in paragraph (b) of this section, the annual open enrollment period specified in paragraph (e) of this section, or a special enrollment period described in § 155.420 of this subpart for which the qualified individual has been determined eligible.

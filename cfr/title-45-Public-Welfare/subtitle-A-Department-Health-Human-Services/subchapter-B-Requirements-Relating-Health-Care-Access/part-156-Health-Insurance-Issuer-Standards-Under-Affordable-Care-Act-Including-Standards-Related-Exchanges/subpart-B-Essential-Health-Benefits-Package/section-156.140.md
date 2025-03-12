@@ -1,5 +1,7 @@
 ##### § 156.140 Levels of coverage. #####
 
+Link to an amendment published at 82 FR 18382, Apr. 18, 2017.
+
 (a) *General requirement for levels of coverage.* AV, calculated as described in § 156.135 of this subpart, and within a de minimis variation as defined in paragraph (c) of this section, determines whether a health plan offers a bronze, silver, gold, or platinum level of coverage.
 
 (b) *The levels of coverage* are:

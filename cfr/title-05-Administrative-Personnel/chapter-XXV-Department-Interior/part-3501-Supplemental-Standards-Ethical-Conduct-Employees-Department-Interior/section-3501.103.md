@@ -1,8 +1,6 @@
 ##### § 3501.103 Prohibited interests in Federal lands. #####
 
-Link to an amendment published at 81 FR 76290, November 2, 2016.
-
-(a) *Cross-references to statutory prohibitions* - (1) *Prohibited purchases of public land by Bureau of Land Management employees.* As set forth in 43 CFR 20.401, the officers, clerks, and employees in the Bureau of Land Management are prohibited by 43 U.S.C. 11 from directly or indirectly purchasing or becoming interested in the purchase of any of the public lands.
+(a) *Cross-references to statutory prohibitions*—(1) *Prohibited purchases of public land by Bureau of Land Management employees.* As set forth in 43 CFR 20.401, the officers, clerks, and employees in the Bureau of Land Management are prohibited by 43 U.S.C. 11 from directly or indirectly purchasing or becoming interested in the purchase of any of the public lands.
 
 (2) *Prohibited interests in the lands or mineral wealth of the region under survey for U.S. Geological Survey employees.* As set forth in 43 CFR 20.401, the Director and members of the U.S. Geological Survey are prohibited by 43 U.S.C. 31(a) from having any personal or private interests in the lands or mineral wealth of the region under survey.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 81 FR 76290, November 2, 2016.
 
 (i) All employees of the Bureau of Ocean Energy Management, Bureau of Safety and Environmental Enforcement, and Office of Natural Resources Revenue; and
 
-(ii) The Secretary and employees of the Office of the Secretary and other Departmental offices reporting directly to a Secretarial officer who are in positions classified at GS-15 and above. As used in this section, “Office of the Secretary and other Departmental Offices reporting directly to a Secretarial officer” means the Immediate Office of the Secretary; Office of the Solicitor; Office of the Inspector General; Office of Communications; Office of Congressional and Legislative Affairs; all Assistant Secretaries, their immediate Office staff and heads of bureaus which are subordinate to an Assistant Secretary. This includes the following offices under the Office of the Assistant Secretary - Policy, Management and Budget: Office of Budget, Office of Hearings and Appeals, Office of Acquisition & Property Management, Office of Environmental Policy and Compliance, Office of Policy Analysis, Office of Financial Management, and Office of Information Resources Management.
+(ii) The Secretary and employees of the Office of the Secretary and other Departmental offices reporting directly to a Secretarial officer who are in positions classified at GS-15 and above. As used in this section, “Office of the Secretary and other Departmental Offices reporting directly to a Secretarial officer” means the Immediate Office of the Secretary; Office of the Solicitor; Office of the Inspector General; Office of Communications; Office of Congressional and Legislative Affairs; all Assistant Secretaries, their immediate Office staff and heads of bureaus which are subordinate to an Assistant Secretary. This includes the following offices under the Office of the Assistant Secretary—Policy, Management and Budget: Office of Budget, Office of Hearings and Appeals, Office of Acquisition & Property Management, Office of Environmental Policy and Compliance, Office of Policy Analysis, Office of Financial Management, and Office of Information Resources Management.
 
 (2) *Exceptions.* The prohibition in paragraph (b)(1) of this section does not apply to:
 
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 76290, November 2, 2016.
 
 (2) *Exceptions.* (i) Nothing in paragraph (c)(1) of this section prohibits the recreational or other personal and noncommercial use of Federal lands by an employee, or the employee's spouse or minor child, on the same terms as use of Federal lands is available to the general public.
 
-(ii) Unless otherwise prohibited by law, employees in the Office of the Assistant Secretary - Indian Affairs, or in the Bureau of Indian Affairs, and the spouses and minor children of such employees, are not prohibited by paragraph (c)(1) of this section from acquiring or retaining rights in Federal lands controlled by the Department for the benefit of Indians or Alaska Natives.
+(ii) Unless otherwise prohibited by law, employees in the Office of the Assistant Secretary—Indian Affairs, or in the Bureau of Indian Affairs, and the spouses and minor children of such employees, are not prohibited by paragraph (c)(1) of this section from acquiring or retaining rights in Federal lands controlled by the Department for the benefit of Indians or Alaska Natives.
 
 (d) *Divestiture.* The Designated Agency Ethics Official may require an employee to divest an interest the employee is otherwise authorized to retain under an exception listed in this section, based on a determination of substantial conflict under § 2635.403(b) of this title.
 

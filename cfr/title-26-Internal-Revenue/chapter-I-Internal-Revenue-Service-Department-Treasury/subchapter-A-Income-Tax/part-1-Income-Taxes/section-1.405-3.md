@@ -14,7 +14,7 @@
 
 (3)(i) Except as provided in subdivision (ii) of this subparagraph, for purposes of determining the basis of retirement bonds purchased for an individual while he was a self-employed individual, all such bonds redeemed during a taxable year shall be considered in the aggregate as a single retirement bond. The basis of such retirement bonds shall be the difference between the aggregate of their face amounts and the lesser of:
 
-(A)1 One-half the aggregate of their face amounts, or
+(A) 1 One-half the aggregate of their face amounts, or
 
 (B) The aggregate of the unused amounts allowed as a deduction at the end of the taxable year (as determined in subparagraph (4) of this paragraph).
 
