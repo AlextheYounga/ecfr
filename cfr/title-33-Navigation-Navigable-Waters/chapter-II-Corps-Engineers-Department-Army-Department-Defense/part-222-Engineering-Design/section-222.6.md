@@ -42,7 +42,7 @@
 
 (4) Encourage the States to establish effective dam safety programs for non-Federal dams by 30 September 1981 and assist the States in the development of the technical capability to carry out such a program.
 
-(g) *Program execution* - (1) *Responsibilities.* (i) The owner has the basic legal responsibility for potential hazards created by their dam(s). Phase II studies, as described in Chapter 4, Appendix D, and remedial actions are the owner's responsibility.
+(g) *Program execution*—(1) *Responsibilities.* (i) The owner has the basic legal responsibility for potential hazards created by their dam(s). Phase II studies, as described in Chapter 4, Appendix D, and remedial actions are the owner's responsibility.
 
 (ii) The State has the basic responsibility for the protection of the life and property of its citizens. Once a dam has been determined to be unsafe, it is the State's responsibility to see that timely remedial actions are taken.
 
@@ -62,7 +62,7 @@
 
 (G) Responding to Congressional, media, scientific and engineering organization and general public inquiries.
 
-Division and District offices are responsible for executing the program at the State level. Assignment of Division reponsibilities for States is shown in appendix A.
+Division and District offices are responsible for executing the program at the State level. Assignment of Division responsibilities for States is shown in appendix A.
 
 (2) *State participation.* Where State capability exists, every effort should be made to encourage the State to execute the inspection program either with State personnel or with Architect-Engineer (A-E) contracts under State supervision. If the State does not have the capability to carry out the inspection program, the program will be managed by the Corps of Engineers utilizing Corps employees or contracts with A-E firm.
 
@@ -73,8 +73,6 @@ Division and District offices are responsible for executing the program at the S
 (2) Inventory data for all dams shall be provided in accordance with appendix B.
 
 (3) The hazard potential classification shall be in accordance with paragraph 2.1.2 *Hazard Potential* of the Recommended Guideline for Safety Inspection of Dams (Appendix D to this section).
-
-Table 2 - Hazard Potential Classification
 
 | Category  |                             Urban development                              |                        Economic loss                         |
 |-----------|----------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -114,7 +112,7 @@ Table 2 - Hazard Potential Classification
 
 (i) *Inspection guidelines.* The inspection should be conducted in accordance with the Recommended Guidelines for Safety Inspection of Dams (Appendix D to this section). Expanded Guidance for Hydrologic and Hydraulic Assessment of Dams is provided in appendix C. The criteria in the recommended guidelines are screening criteria to be used only for initial determinations of the adequacy of the dam. Conditions found during the investigation which do not meet the guideline recommendations should be assessed as to their importance from the standpoint of the degree of risk involved.
 
-(ii) *Coordinators.* Experience has shown that coordination and communications among technical disciplines, Public Affairs Office, emergency officials, training officers, operations personnel, State representatives and A-E firms has been best in those districts where one person was delegated the responsiblity for coordinating the actions of all involved elements. Each district should evaluate its overall coordination procedures to insure that all involved elements have the best possible access to necessary data.
+(ii) *Coordinators.* Experience has shown that coordination and communications among technical disciplines, Public Affairs Office, emergency officials, training officers, operations personnel, State representatives and A-E firms has been best in those districts where one person was delegated the responsibility for coordinating the actions of all involved elements. Each district should evaluate its overall coordination procedures to insure that all involved elements have the best possible access to necessary data.
 
 (iii) Field investigations should be carried out in a systematic manner. A detailed checklist or inspection form should be developed and used for each dam inspection and appended to the inspection report. The size of the field inspection team should be as small as practicable, generally consisting of only one representative of each required discipline in order to control the costs of the inspection without sacrificing the quality of the inspection. The inspection team for the smaller less complex dams should be limited to two or three representatives from appropriate technical areas with additional specialists used only as special conditions warrant. The larger more complex projects may require inspection teams of three or four specialists. Performance of overly detailed and precise surveys and mapping should be avoided. Necessary measurement of spillway, dam slopes, etc. can generally be made with measuring tapes and hand levels.
 
@@ -134,7 +132,7 @@ Classification of dams with seriously inadequate spillways as “unsafe, non-eme
 
 (vi) All inspection reports will receive one level of independent review by the Corps. If the reports are prepared by the Corps, the independent review may be performed internally within the district office. However, in cases which involve significant economic, social or political impacts and technical uncertainties in evaluating the dams, advice may be obtained from the staffs of the Division Engineer and the Office, Chief of Engineers.
 
-(3) *Reports* - (i) *Preparation.* A written report on the condition of each dam should be prepared as soon as possible after the completion of the field inspection and assessment. A suggested report format is attached as appendix E. It is important that the inspection report be completed in a timely manner. For inspections being done by Corps employees, it is suggested that once an inspection team has been assigned to a dam inspection it be allowed to complete the inspection and report without interruption by other work.
+(3) *Reports*—(i) *Preparation.* A written report on the condition of each dam should be prepared as soon as possible after the completion of the field inspection and assessment. A suggested report format is attached as appendix E. It is important that the inspection report be completed in a timely manner. For inspections being done by Corps employees, it is suggested that once an inspection team has been assigned to a dam inspection it be allowed to complete the inspection and report without interruption by other work.
 
 (ii) *Review and approval.* The coordinating engineer should determine which disciplines should review the report and establish a procedure to accomplish the review in a timely manner. A review panel, made up of the appropriate Division and Branch Chiefs has worked well in some districts. Use of a review panel should be seriously considered by all districts. All inspection reports shall be approved by the District Engineer who will maintain a complete file of final approved reports. Any State or Federal agency having jurisdiction over the dam or the land on which the dam is built should be given the opportunity to review and comment on the report prior to submission to the Governor or dam owner. The District Engineer will transmit final approved reports to the Governor of the State and the dam owner (or the Governor only, when requested in writing by State officials). If the report is initially furnished to the Governor only, a period of up to ten days may be allowed before the report is furnished to the dam owner. If the Governor or the owner indicates additional technical information is available that might affect the assessment of the dam's condition, the District Engineer will furnish the proposed final report to the Governor and the owner and establish a definite time period for comments to be furnished to the District Engineer prior to report approval.
 
@@ -148,7 +146,7 @@ Classification of dams with seriously inadequate spillways as “unsafe, non-eme
 
 (k) *Progress reports.* Progress reports should be submitted monthly by the Division Engineer to WRSC. The reports shall include progress through the last Saturday of the month and should be mailed by the following Monday. The reports shall contain the information and be typewritten in the format shown in appendix G. Copies of Unsafe Dam Data Sheets will be submitted with the progress report. Copies of the completed inspection report for Dams in the Unsafe-Emergency category will be submitted also. (RCS-DAEN-CWE-19)
 
-(l) *Contracts* - (1) *Corps of Engineers supervision.* Contracts for performing inventory and inspection activities under supervision of the Corps of Engineers shall be Fixed-Price Architect Engineer Contracts for Services. A sample scope of work setting forth requirements is provided in appendix H. Experience has shown that costs for individual dam inspection have been lower when multiple inspections are included in one contract. Therefore, each A-E contract should include multiple dam inspections where practicable. Corps participation in A-E inspections should be held to a minimum. Corps representatives should participate in only enough A-E inspections to assure the equality of the inspections.
+(l) *Contracts*—(1) *Corps of Engineers supervision.* Contracts for performing inventory and inspection activities under supervision of the Corps of Engineers shall be Fixed-Price Architect Engineer Contracts for Services. A sample scope of work setting forth requirements is provided in appendix H. Experience has shown that costs for individual dam inspection have been lower when multiple inspections are included in one contract. Therefore, each A-E contract should include multiple dam inspections where practicable. Corps participation in A-E inspections should be held to a minimum. Corps representatives should participate in only enough A-E inspections to assure the equality of the inspections.
 
 (2) *State supervision.* Contracts with States for performing inventory and inspection activities under State supervision may be either a Cost-Reimbursement type A-E Contract for Services or a Fixed-Price type contract. The selection of Architect-Engineers by the State should require approval of the Corps of Engineers Contracting Officer. The negotiated price for A-E services under cost-reimbursement type contracts with States will also require approval by the Contracting Officer. Contracts with States should require *timely* submission of the inspection reports to the District Engineer for review and approval. The contract provisions should also prevent public release of or public comment on the inspection report until the District Engineer has reviewed and approved the report. Corps of Engineers participation in State inspections should be limited to occasional selected inspections to assure the quality of the State program.
 
@@ -166,11 +164,11 @@ Classification of dams with seriously inadequate spillways as “unsafe, non-eme
 
 (6) Training by participation in actual dam inspections and/or management of the inspection program should be encouraged.
 
-Appendix A to § 222.6 - Division Assignments
+Appendix A to § 222.6—Division Assignments
 
 To facilitate better coordination with the States, the Division Engineers are responsible for the dam inspection program by States as follows:
 
-*New England Division:* Maine, Rhode Island, Connecticut, Vermont, New Hampshire, Massachusetts*North Atlantic Division:* New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, District of Columbia*Ohio River Division:* West Virginia, Ohio, Kentucky, Tennessee, Indiana*South Atlantic Division:* North Carolina, South Carolina, Georgia, Florida, Alabama, Puerto Rico, Virgin Islands*Lower Mississippi Valley Division:* Mississippi, Louisiana, Missouri*North Central Division:* Michigan, Wisconsin, Illinois, Minnesota, Iowa*Southwestern Division:* Arkansas, Oklahoma, Texas, New Mexico*Missouri River Division:* Kansas, Nebraska, South Dakota, North Dakota, Wyoming, Colorado*North Pacific Division:* Oregon, Idaho, Montana, Washington, Alaska*South Pacific Division:* Utah, California, Arizona, Nevada*Pacific Ocean Division:* Hawaii, Trust Territories, American SamoaAppendix B to § 222.6 - Inventory of Dams(RCS-DAEN-CWE-17 and OMB No. 49-RO421)
+*New England Division:* Maine, Rhode Island, Connecticut, Vermont, New Hampshire, Massachusetts*North Atlantic Division:* New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, District of Columbia*Ohio River Division:* West Virginia, Ohio, Kentucky, Tennessee, Indiana*South Atlantic Division:* North Carolina, South Carolina, Georgia, Florida, Alabama, Puerto Rico, Virgin Islands*Lower Mississippi Valley Division:* Mississippi, Louisiana, Missouri*North Central Division:* Michigan, Wisconsin, Illinois, Minnesota, Iowa*Southwestern Division:* Arkansas, Oklahoma, Texas, New Mexico*Missouri River Division:* Kansas, Nebraska, South Dakota, North Dakota, Wyoming, Colorado*North Pacific Division:* Oregon, Idaho, Montana, Washington, Alaska*South Pacific Division:* Utah, California, Arizona, Nevada*Pacific Ocean Division:* Hawaii, Trust Territories, American SamoaAppendix B to § 222.6—Inventory of Dams(RCS-DAEN-CWE-17 and OMB No. 49-RO421)
 
 1. The updating of the inventory will include the completion of all items of data for all dams now included in the inventory, verification of the data now included in the inventory, and inclusion of complete data for all appropriate existing dams not previously listed. Data completion, verification and updating will be scheduled over a three year period.
 
@@ -268,7 +266,7 @@ b. *To Delete an Item.* Submit a change card that contains the identification as
 
 c. *To Delete the Entire Data for a Dam from the Master File.* Submit a zero (0) card punched as follows:
 
-Columns 1 thru 7 - Item 1 identification assigned to the damColumns 8 thru 10 - Item 2, Division CodeColumns 11 thru 16 - The word DELETEColumns 17 thru 79 - Blank SpacesColumn 80 - A zero
+Columns 1 thru 7—Item 1 identification assigned to the damColumns 8 thru 10—Item 2, Division CodeColumns 11 thru 16—The word DELETEColumns 17 thru 79—Blank SpacesColumn 80—A zero
 
 8. *Keypunch Instructions and Punched Card Formats.*
 
@@ -278,7 +276,7 @@ b. Exhibit 1 is the EDPC keypunch instructions and punch card formats defining t
 
 c. Exhibit 2 are prints of Engr. Forms 4474 and 4474A which are laid out in punch card format to facilitate punching cards directly from the completed forms.
 
-![](/graphics/ec31oc91.000.gif)![](/graphics/ec31oc91.001.gif)![](/graphics/ec31oc91.002.gif)![](/graphics/ec31oc91.003.gif)![](/graphics/ec31oc91.004.gif)![](/graphics/ec31oc91.005.gif)![](/graphics/ec31oc91.006.gif)![](/graphics/ec31oc91.007.gif)![](/graphics/ec31oc91.008.gif)![](/graphics/ec31oc91.009.gif)![](/graphics/ec31oc91.010.gif)![](/graphics/ec31oc91.011.gif)Appendix C to § 222.6 - Hydrologic and Hydraulic Assessment of Dams
+![](/graphics/ec31oc91.000.gif)![](/graphics/ec31oc91.001.gif)![](/graphics/ec31oc91.002.gif)![](/graphics/ec31oc91.003.gif)![](/graphics/ec31oc91.004.gif)![](/graphics/ec31oc91.005.gif)![](/graphics/ec31oc91.006.gif)![](/graphics/ec31oc91.007.gif)![](/graphics/ec31oc91.008.gif)![](/graphics/ec31oc91.009.gif)![](/graphics/ec31oc91.010.gif)![](/graphics/ec31oc91.011.gif)Appendix C to § 222.6—Hydrologic and Hydraulic Assessment of Dams
 
 1. Phase I inspections are not intended to provide detailed hydrologic and hydraulic analyses of dam and reservoir capabilities. However, when such analyses are available, they should be evaluated for reliability and completeness. If a project's ability to pass the appropriate flood (see Table 3, page D-12 of Recommended Guidelines) can be determined from available information of a brief study, such an assessment should be made. It should be noted that hydrologic and hydraulic analyses connected with the Phase I inspections should be based on approximate methods or systematized computer programs that take minimal effort. The Hydrologic Engineering Center (HEC) has developed a special computer program for hydrologic and hydraulic analyses to be used with the Phase I inspection program. Other Field Operating Agencies have developed similar computer programs or generalized procedures which are acceptable for use. All such efforts should be completed with minimum resources.
 
@@ -311,8 +309,6 @@ c. Purchase downstream land that would be adversely impacted by dam failure and 
 d. Enhance the stability of the dam to permit overtopping by the probable maximum flood without failure.
 
 e. Provide a highly reliable flood warning system (generally does not prevent damage but avoids loss of life).
-
-Table 1 - Storms With Rainfall ≥150% of PMP, U.S. East of the 105th Meridian (for 10 mi<sup>2</sup>, 6 Hours; 200 mi<sup>2</sup>, 24 Hours and/or 1,000 mi<sup>2</sup>, 48 Hours)
 
 |     Storm date      |Index No.|Corps assignment No. (if available)|   Storm center    |Latitude|Longitude|       |
 |---------------------|---------|-----------------------------------|-------------------|--------|---------|-------|
@@ -383,8 +379,6 @@ Table 1 - Storms With Rainfall ≥150% of PMP, U.S. East of the 105th Meridian (
 |  Sept. 10-12, 1972  |   64    |                                   |      Harlan       |   IA   | 41°43′  |95°15′ |
 |  Oct. 10-11, 1973   |   65    |                                   |       Enid        |   OK   | 36°25′  |97°52′ |
 
-Table 2 - Storms With Rainfall ≥50% of PMP, U.S. West of Continental Divide (for 10 mi<sup>2</sup> 6 Hours or 1,000 mi<sup>2</sup> for One Duration Between 6 and 72 Hours)
-
 |        Storm date        |Index No.| Storm center  |Latitude|Longitude|Duration for 1,000 mi<sup>2</sup>|   |
 |--------------------------|---------|---------------|--------|---------|---------------------------------|---|
 |           Town           |  State  |               |        |         |                                 |   |
@@ -420,7 +414,7 @@ Table 2 - Storms With Rainfall ≥50% of PMP, U.S. West of Continental Divide (f
 |       June 7, 1972       |   30    |  Bakersfield  |   CA   | 35°25′  |             119°03′             |   |
 |     Dec. 9-12, 1937      |   31    |               |   CA   | 39°45′  |             121°30′             |48 |
 
-![](/graphics/ec31oc91.012.gif)![](/graphics/ec31oc91.013.gif)![](/graphics/ec31oc91.014.gif)![](/graphics/ec31oc91.015.gif)![](/graphics/ec31oc91.016.gif)Appendix D to § 222.6 - Recommended Guidelines for Safety Inspection of DamsDepartment of the Army - Office of the Chief of EngineersPreface
+![](/graphics/ec31oc91.012.gif)![](/graphics/ec31oc91.013.gif)![](/graphics/ec31oc91.014.gif)![](/graphics/ec31oc91.015.gif)![](/graphics/ec31oc91.016.gif)Appendix D to § 222.6—Recommended Guidelines for Safety Inspection of DamsDepartment of the Army—Office of the Chief of EngineersPreface
 
 The recommended guidelines for the safety inspection of dams were prepared to outline principal factors to be weighed in the determination of existing or potential hazards and to define the scope of activities to be undertaken in the safety inspection of dams. The establishment of rigid criteria or standards is not intended. Safety must be evaluated in the light of peculiarities and local conditions at a particular dam and in recognition of the many factors involved, some of which may not be precisely known. This can only be done by competent, experienced engineering judgment, which the guidelines are intended to supplement and not supplant. The guidelines are intended to be flexible, and the proper flexibility must be achieved through the employment of experienced engineering personnel.
 
@@ -432,7 +426,7 @@ It is recognized that some States may have established or will adopt inspection 
 
 The guidelines were developed with the help of several Federal agencies and many State agencies, professional engineering organizations, and private engineers. In reviewing two drafts of the guidelines they have contributed many helpful suggestions. Their contributions are deeply appreciated and have made it possible to evolve a document representing a consensus of the engineering fraternity. As experience is gained with use of the guidelines, suggestions for future revisions will be generated. All such suggestions should be directed to the Chief of Engineers, U.S. Army, DAEN-CWE-D, Washington, D.C. 20314.
 
-Recommended Guidelines for Safety Inspection of DamsTable of ContentsPrefaceChapter 1 - IntroductionPara.1.1 Purpose.1.2 Applicability.1.3 Authority.Chapter 2 - General Requirements2.1 Classification of dams.2.1.1 Size.2.1.2 Hazard potential.2.2 Selection of dams to be investigated.2.3 Technical investigations.2.4 Qualifications of investigators.2.5 Reports.Chapter 3 - Phase I Investigation3.1 Purpose.3.2 Scope.3.3 Engineering data.3.4 Field inspections.3.5 Evaluation of hydraulic and hydrologic features.3.5.1 Design data.3.5.2 Experience data.3.6 Evaluation of structural stability.3.6.1 Design and construction data.3.6.2 Operating records.3.6.3 Post contruction changes.3.6.4 Seismic stability.Chapter 4 - Phase II Investigation4.1 Purpose.4.2 Scope.4.3 Hydraulic and hydrologic analysis.4.3.1 Maximum water surface based on SDF peak inflow.4.3.1.1 Peak for 100-year flood.4.3.1.2 Peak for PMF or fraction thereof.4.3.2 Maximum water surface based on SDF hydrograph.4.3.3 Acceptable procedures.4.3.4 Freeboard allowances.4.4 Stability investigations.4.4.1 Foundation and material investigations.4.4.2 Stability assessment.4.4.2.1 Seismic stability.4.4.2.2 Clay shale foundation.4.4.3 Embankment dams.4.4.3.1 Liquefaction.4.4.3.2 Shear failure.4.4.3.3 Loading conditions.4.4.3.4 Safety factors.4.4.3.5 Seepage failure.4.4.3.6 Seepage analyses.4.4.4 Concrete dams and appurtenant structures.4.4.4.1 Requirements for stability.4.4.4.2 Loads.4.4.4.3 Stresses.4.4.4.4 Overturning.4.4.4.5 Sliding.4.4.4.5.1 Sliding resistance.4.4.4.5.2 Downstream resistance.4.4.4.5.3 Safety factor.Chapter 5 - Reports5.1 General.5.2 Preparation of report.5.2.1 Phase I reports.5.2.2 Phase II reports.TablesTable1 Size classification.2 Hazard potential classification.3 Hydrologic evaluation guidelines.4 Factors of safety (embankment dams).FiguresFig.1 Seismic zone map of contiguous States.2 Seismic zone map of California, Nevada and Arizona.3 Seismic zone map of Alaska.4 Seismic zone map of Hawaii.5 Design envelope for Case I (Table 4).6 Design envelope for Cases II and III (Table 4).AppendixesAppendix I to App. D - Engineering dataAppendix II to App. D - Inspection itemsAppendix III to App. D - Pub. L. 92-367Chapter 1 - Introduction
+Recommended Guidelines for Safety Inspection of DamsTable of ContentsPrefaceChapter 1—IntroductionPara.1.1 Purpose.1.2 Applicability.1.3 Authority.Chapter 2—General Requirements2.1 Classification of dams.2.1.1 Size.2.1.2 Hazard potential.2.2 Selection of dams to be investigated.2.3 Technical investigations.2.4 Qualifications of investigators.2.5 Reports.Chapter 3—Phase I Investigation3.1 Purpose.3.2 Scope.3.3 Engineering data.3.4 Field inspections.3.5 Evaluation of hydraulic and hydrologic features.3.5.1 Design data.3.5.2 Experience data.3.6 Evaluation of structural stability.3.6.1 Design and construction data.3.6.2 Operating records.3.6.3 Post contruction changes.3.6.4 Seismic stability.Chapter 4—Phase II Investigation4.1 Purpose.4.2 Scope.4.3 Hydraulic and hydrologic analysis.4.3.1 Maximum water surface based on SDF peak inflow.4.3.1.1 Peak for 100-year flood.4.3.1.2 Peak for PMF or fraction thereof.4.3.2 Maximum water surface based on SDF hydrograph.4.3.3 Acceptable procedures.4.3.4 Freeboard allowances.4.4 Stability investigations.4.4.1 Foundation and material investigations.4.4.2 Stability assessment.4.4.2.1 Seismic stability.4.4.2.2 Clay shale foundation.4.4.3 Embankment dams.4.4.3.1 Liquefaction.4.4.3.2 Shear failure.4.4.3.3 Loading conditions.4.4.3.4 Safety factors.4.4.3.5 Seepage failure.4.4.3.6 Seepage analyses.4.4.4 Concrete dams and appurtenant structures.4.4.4.1 Requirements for stability.4.4.4.2 Loads.4.4.4.3 Stresses.4.4.4.4 Overturning.4.4.4.5 Sliding.4.4.4.5.1 Sliding resistance.4.4.4.5.2 Downstream resistance.4.4.4.5.3 Safety factor.Chapter 5—Reports5.1 General.5.2 Preparation of report.5.2.1 Phase I reports.5.2.2 Phase II reports.TablesTable1 Size classification.2 Hazard potential classification.3 Hydrologic evaluation guidelines.4 Factors of safety (embankment dams).FiguresFig.1 Seismic zone map of contiguous States.2 Seismic zone map of California, Nevada and Arizona.3 Seismic zone map of Alaska.4 Seismic zone map of Hawaii.5 Design envelope for Case I (Table 4).6 Design envelope for Cases II and III (Table 4).AppendixesAppendix I to App. D—Engineering dataAppendix II to App. D—Inspection itemsAppendix III to App. D—Pub. L. 92-367Chapter 1—Introduction
 
 1.1. *Purpose.* This document provides recommended guidelines for the inspection and evaluation of dams to determine if they constitute hazards to human life or property.
 
@@ -440,13 +434,11 @@ Recommended Guidelines for Safety Inspection of DamsTable of ContentsPrefaceChap
 
 1.3. *Authority.* The Dam Inspection Act, Public Law 92-367 (Appendix III), authorized the Secretary of the Army, through the Corps of Engineers, to initiate a program of safety inspection of dams throughout the United States. The Chief of Engineers issues these guidelines pursuant to that authority.
 
-Chapter 2 - General Requirements
+Chapter 2—General Requirements
 
 2.1. *Classification of dams.* Dams should be classified in accordance with size and hazard potential in order to formulate a priority basis for selecting dams to be included in the inspection program and also to provide compatibility between guideline requirements and involved risks. When possible the initial classifications should be based upon information listed in the National Inventory of Dams with respect to size, impoundment capacity and hazard potential. It may be necessary to reclassify dams when additional information becomes available.
 
 2.1.1. *Size.* The classification for size based on the height of the dam and storage capacity should be in accordance with Table 1. The height of the dam is established with respect to the maximum storage potential measured from the natural bed of the stream or watercourse at the downstream toe of the barrier, or if it is not across a stream or watercourse, the height from the lowest elevation of the outside limit of the barrier, to the maximum water storage elevation. For the purpose of determining project size, the maximum storage elevation may be considered equal to the top of dam elevation. Size classification may be determined by either storage or height, whichever gives the larger size category.
-
-Table 1 - Size Classification
 
 |   Category    |    Impoundment    |              |
 |---------------|-------------------|--------------|
@@ -456,8 +448,6 @@ Table 1 - Size Classification
 |     Large     |      ≥50,000      |    ≥100.     |
 
 2.1.2. *Hazard Potential.* The classification for potential hazards should be in accordance with Table 2. The hazards pertain to potential loss of human life or property damage in the area downstream of the dam in event of failure or misoperation of the dam or appurtenant facilities. Dams conforming to criteria for the low hazard potential category generally will be located in rural or agricultural areas where failure may damage farm buildings, limited agricultural land, or township and country roads. Significant hazard potential category structures will be those located in predominantly rural or agricultural areas where failure may damage isolated homes, secondary highways or minor railroads or cause interruption of use or service of relatively important public utilities. Dams in the high hazard potential category will be those located where failure may cause serious damage to homes, extensive agricultural, industrial and commercial facilities, important public utilities, main highways, or railroads.
-
-Table 2 - Hazard Potential Classification
 
 | Category  |                        Loss of life (extent of development)                         |            Economic loss (extent of development)             |
 |-----------|-------------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -471,7 +461,7 @@ Table 2 - Hazard Potential Classification
 
 2.4. *Qualifications of investigators.* The technical investigations should be conducted under the direction of licensed professional engineers experienced in the investigation, design, construction and operation of dams, applying the disciplines of hydrologic, hydraulic, soils and structural engineering and engineering geology. All field inspections should be conducted by qualified engineers, engineering geologists and other specialists, including experts on mechanical and electrical operation of gates and controls, knowledgeable in the investigation, design, construction and operation of dams.
 
-Chapter 3 - Phase I Investigation
+Chapter 3—Phase I Investigation
 
 3.1. *Purpose.* The primary purpose of the Phase I investigation program is to identify expeditiously those dams which may pose hazards to human life or property.
 
@@ -491,23 +481,18 @@ Chapter 3 - Phase I Investigation
 
 3.5.1. *Design data.* Original hydraulic and hydrologic design assumptions obtained from the project records should be assessed to determine their acceptability in evaluating the safety of the dam. All constraints on water control such as blocked entrances, restrictions on operation of spillway and outlet gates, inadequate energy dissipators or restrictive channel conditions, significant reduction in reservoir capacity by sediment deposits and other factors should be considered in evaluating the validity of discharge ratings, storage capacity, hydrographs, routings and regulation plans. The discharge capacity and/or storage capacity should be capable of safely handling the recommended spillway design flood for the size and hazard potential classification of the dam as indicated in Table 3. The hydraulic and hydrologic determinations for design as obtained from project records will be acceptable if conventional techniques similar to the procedures outlined in paragraph 4.3. were used in obtaining the data. When the project design flood actually used exceeds the recommended spillway design flood, from Table 3, the project design flood will be acceptable in evaluating the safety of the dam.
 
-Table 3 - Hydrologic Evaluation Guidelines
-
-[Recommended spillway design floods]
-
-|  Hazard   |    Size    |Spillway design flood (SDF)<sup>1</sup>|
-|-----------|------------|---------------------------------------|
-|    Low    |   Small    |        50 to 100-yr frequency.        |
-|           |Intermediate|           100-yr to1/2 PMF.           |
-|           |   Large    |            1/2 PMF to PMF.            |
-|Significant|   Small    |           100-yr to1/2 PMF.           |
-|           |Intermediate|            1/2 PMF to PMF.            |
-|           |   Large    |                 PMF.                  |
-|   High    |   Small    |            1/2 PMF to PMF.            |
-|           |Intermediate|                 PMF.                  |
-|           |   Large    |                 PMF.                  |
-
-<sup>1</sup> The recommended design floods in this column represent the magnitude of the spillway design flood (SDF), which is intended to represent the largest flood that need be considered in the evaluation of a given project, regardless of whether a spillway is provided; i.e., a given project should be capable of safely passing the appropriate SDF. Where a range of SDF is indicated, the magnitude that most closely relates to the involved risk should be selected.
+|                                                                                                                                                                                                                                       Hazard                                                                                                                                                                                                                                        |    Size    |Spillway design flood (SDF) <sup>1</sup>|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
+|                                                                                                                                                                                                                                         Low                                                                                                                                                                                                                                         |   Small    |        50 to 100-yr frequency.         |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |Intermediate|           100-yr to 1/2 PMF.           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   Large    |            1/2 PMF to PMF.             |
+|                                                                                                                                                                                                                                     Significant                                                                                                                                                                                                                                     |   Small    |           100-yr to 1/2 PMF.           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |Intermediate|            1/2 PMF to PMF.             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   Large    |                  PMF.                  |
+|                                                                                                                                                                                                                                        High                                                                                                                                                                                                                                         |   Small    |            1/2 PMF to PMF.             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |Intermediate|                  PMF.                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   Large    |                  PMF.                  |
+|<sup>1</sup> The recommended design floods in this column represent the magnitude of the spillway design flood (SDF), which is intended to represent the largest flood that need be considered in the evaluation of a given project, regardless of whether a spillway is provided; i.e., a given project should be capable of safely passing the appropriate SDF. Where a range of SDF is indicated, the magnitude that most closely relates to the involved risk should be selected.|            |                                        |
 
 1000-yr = 100-Year Exceedence Interval. The flood magnitude expected to be exceeded, on the average, of once in 100 years. It may also be expressed as an exceedence frequency with a one-percent chance of being exceeded in any given year.PMF = Probable Maximum Flood. The flood that may be expected from the most severe combination of critical meteorologic and hydrologic conditions that are reasonably possible in the region. The PMF is derived from probable maximum precipitation (PMP), which information is generally available from the National Weather Service, NOAA. Most Federal agencies apply reduction factors to the PMP when appropriate. Reductions may be applied because rainfall isohyetals are unlikely to conform to the exact shape of the drainage basin and/or the storm is not likely to center exactly over the drainage basin. In some cases local topography will cause changes from the generalized PMP values, therefore it may be advisable to contact Federal construction agencies to obtain the prevailing practice in specific areas.
 
@@ -523,7 +508,7 @@ Table 3 - Hydrologic Evaluation Guidelines
 
 3.6.4. *Seismic stability.* An assessment should be made of the potential vulnerability of the dam to seismic events and a recommendation developed with regard to the need for additional seismic investigation. In general, projects located in Seismic Zones 0, 1 and 2 may be assumed to present no hazard from earthquake provided static stability conditions are satisfactory and conventional safety margins exist. Dams in Zones 3 and 4 should, as a minimum, have on record suitable analyses made by conventional equivalent static load methods. The seismic zones together with appropriate coefficients for use in such analyses are shown in Figures 1 through 4. Boundary lines are approximate and in the event of doubt about the proper zone, the higher zone should be used. All high hazard category dams in Zone 4 and high hazard dams of the hydraulic fill type in Zone 3 should have a stability assessment based upon knowledge of regional and local geology, engineering seismology, in situ properties of materials and appropriate dynamic analytical and testing procedures. The assessment should include the possibility of physical displacement of the structures due to movements along active faults. Departure from this general guidance should be made whenever in the judgment of the investigating engineer different seismic stability requirements are warranted because of local geological conditions or other reasons.
 
-Chapter 4 - Phase II Investigation
+Chapter 4—Phase II Investigation
 
 4.1. *Purpose.* The Phase II investigation will be supplementary to Phase I and should be conducted when the results of the Phase I investigation indicate the need for additional in-depth studies, investigations or analyses.
 
@@ -535,7 +520,7 @@ Chapter 4 - Phase II Investigation
 
 4.3.1.1. *Peak for 100-year flood.* When the 100-year flood is applicable under the provisions of Table 3 and data are available, the spillway design flood peak inflow may be determined by use of “A Uniform Technique for Determining Flood Frequencies,” Water Resources Council (WRC), Hydrology Committee, Bulletin 15, December 1967. Flow frequency information from regional analysis is generally preferred over single station results when available and appropriate. Rainfall-runoff techniques may be necessary when there are inadequate runoff data available to make a reasonable estimate of flow frequency.
 
-4.3.1.2. *Peak for PMF or fraction thereof.* When either the Probable Maximum Flood peak or a fraction thereof is applicable under the provisions of Table 3, the unit hydrograph - infiltration loss technique is generally the most expeditious method of computing the spillway design flood peak for most projects. This technique is discussed in the following paragraph.
+4.3.1.2. *Peak for PMF or fraction thereof.* When either the Probable Maximum Flood peak or a fraction thereof is applicable under the provisions of Table 3, the unit hydrograph—infiltration loss technique is generally the most expeditious method of computing the spillway design flood peak for most projects. This technique is discussed in the following paragraph.
 
 4.3.2. *Maximum water surface based on SDF hydrograph.* Both peak and volume are required in this analysis. Where surcharge storage is significant, or where there is insufficient discharge capability at maximum pool to pass the peak inflow of the SDF, considering all possible operational constraints, a flood hydrograph is required. When there are upstream hazard areas that would be imperiled by fast rising reservoirs levels, SDF hydrographs should be routed to ascertain available time for warning and escape. Determination of probable maximum precipitation or 100-year precipitation, which ever is applicable, and unit hydrographs or runoff models will be required, followed by the determination of the PMF or 100-year flood. Conservative loss rates (significantly reduced by antecedent rainfall conditions where appropriate) should be estimated for computing the rainfall excess to be utilized with unit hydrographs. Rainfall values are usually arranged with gradually ascending and descending rates with the maximum rate late in the storm. When applicable, conservatively high snowmelt runoff rates and appropriate releases from upstream projects should be assumed. The PMP may be obtained from National Weather Service (NWS) publications such as Hydrometeorological Report (HMR) 33. Special NWS publications for particular areas should be used when available. Rainfall for the 100-year frequency flood can be obtained from the NWS publication “Rainfall Frequency Atlas of the United States,” Technical Paper No. 40; Atlas 2, “Precipitation Frequency Atlas of Western United States;” or other NWS publications. The maximum water surface elevation and spillway design flood outflow are then determined by routing the inflow hydrograph through the reservoir surcharge storage, assuming a starting water surface at the bottom of surcharge storage, or lower when appropriate. For projects where the bottom of surcharge space is not distinct, or the flood control storage space (exclusive of surcharge) is appreciable, it may be appropriate to select starting water surface elevations below the top of the flood control storage for routings. Conservatively high starting levels should be estimated on the basis of hydrometeorological conditions reasonably characteristic for the region and flood release capability of the project. Necessary adjustment of reservoir storage capacity due to existing or future sediment or other encroachment may be approximated when accurate determination of deposition is not practicable.
 
@@ -555,30 +540,23 @@ Chapter 4 - Phase II Investigation
 
 4.4.3. *Embankment dams.*
 
-4.4.3.1. *Liquefaction.* The phenomenon of liquefaction of loose, saturated sands and silts may occur when such materials are subjected to shear deformation or earthquake shocks. The possibility of liquefaction must presently be evaluated on the basis of empirical knowledge supplemented by special laboratory tests and engineering judgment. The possiblitity of liquefaction in sands diminishes as the relative density increases above approximately 70 percent. Hydraulic fill dams in Seismic Zones 3 and 4 should receive particular attention since such dams are susceptible to liquefaction under earthquake shocks.
+4.4.3.1. *Liquefaction.* The phenomenon of liquefaction of loose, saturated sands and silts may occur when such materials are subjected to shear deformation or earthquake shocks. The possibility of liquefaction must presently be evaluated on the basis of empirical knowledge supplemented by special laboratory tests and engineering judgment. The possibility of liquefaction in sands diminishes as the relative density increases above approximately 70 percent. Hydraulic fill dams in Seismic Zones 3 and 4 should receive particular attention since such dams are susceptible to liquefaction under earthquake shocks.
 
 4.4.3.2. *Shear failure.* Shear failure is one in which a portion of an embankment or of an embankment and foundation moves by sliding or rotating relative to the remainder of the mass. It is conventionally represented as occurring along a surface and is so assumed in stability analyses, although shearing may occur in a zone of substantial thickness. The circular arc or the sliding wedge method of analyzing stability, as pertinent, should be used. The circular arc method is generally applicable to essentially homogeneous embankments and to soil foundations consisting of thick deposits of fine-grained soil containing no layers significantly weaker than other strata in the foundation. The wedge method is generally applicable to rockfill dams and to earth dams on foundations containing weak layers. Other methods of analysis such as those employing complex shear surfaces may be appropriate depending on the soil and rock in the dam and foundation. Such methods should be in reputable usage in the engineering profession.
 
 4.4.3.3. *Loading conditions.* The loading conditions for which the embankment structures should be investigated are (I) Sudden drawdown from spillway crest elevation or top of gates, (II) Partial pool, (III) Steady state seepage from spillway crest elevation or top of gate elevation, and (IV) Earthquake. Cases I and II apply to upstream slopes only; slopes; and Case IV applies to both upstream and downstream Case III applies to downstream slopes. A summary of suggested strengths and safety factors are shown in Table 4.
 
-Table 4 - Factors of Safety<sup>1</sup>
-
-|                               Case and loading condition                                |Factor of safety|                Shear<sup>2</sup> strength                |                                                                                           Remarks                                                                                            |
-|-----------------------------------------------------------------------------------------|----------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   I Sudden drawdown from spillway crest or top of gates to minimum drawdown elevation   |<sup>3</sup> 1.2|Minimum composite of R and S shear strengths. See Figure 5|Within the drawdown zone submerged unit weights of materials are used for computing forces resisting sliding and saturated unit weights are used for computing forces contributing to sliding.|
-|            II Partial pool with assumed horizontal steady seepage saturation            |      1.5       |            R + S/2 for R\<S  <br/>S for R\>S             |                                                       Composite intermediate envelope of R and  <br/> S shear strengths. See Figure 6.                                                       |
-|III Steady seepage from spillway crest or top of gates with Kh/Kv = 9 assumed<sup>4</sup>|      1.5       |                     Same as Case II                      |                                                                                                                                                                                              |
-|                  IV Earthquake (Cases II and III with seismic loading)                  |      1.0       |                     (<sup>5</sup> )                      |                                                                      See Figures 1 through 4 for Seismic Coefficients.                                                                       |
-
-<sup>1</sup> Not applicable to embankments on clay shale foundation. Experience has indicated special problems in determination of design shear strengths for clay shale foundations and acceptable safety factors should be compatible with the confidence level in shear strength assumptions.
-
-<sup>2</sup> Other strength assumptions may be used if in common usage in the engineering profession.
-
-<sup>3</sup> The safety factor should not be less than 1.5 when drawdown rate and pore water pressure developed from flow nets are used in stability analyses.
-
-<sup>4</sup> Kh/Kv is the ratio of horizontal to vertical permeability. A minimum of 9 is suggested for use in compacted embankments and alluvial sediments.
-
-<sup>5</sup> Use shear strength for case analyzed without earthquake. It is not necessary to analyze sudden drawdown for earthquake loading. Shear strength tests are classified according to the controlled drainage conditions maintained during the test. R tests are those in which specimen drainage is allowed during consolidation (or swelling) under initial stress conditions, but specimen drainage is not allowed during application of shearing stresses. S tests allow full drainage during initial stress application and shearing is at a slow rate so that complete specimen drainage is permitted during the complete test.
+|                                                                                                                                                                                                                                                                                                         Case and loading condition                                                                                                                                                                                                                                                                                                          |Factor of safety|               Shear <sup>2</sup> strength                |                                                                                           Remarks                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                             I Sudden drawdown from spillway crest or top of gates to minimum drawdown elevation                                                                                                                                                                                                                                                                             |<sup>3</sup> 1.2|Minimum composite of R and S shear strengths. See Figure 5|Within the drawdown zone submerged unit weights of materials are used for computing forces resisting sliding and saturated unit weights are used for computing forces contributing to sliding.|
+|                                                                                                                                                                                                                                                                                      II Partial pool with assumed horizontal steady seepage saturation                                                                                                                                                                                                                                                                                      |      1.5       |            R + S/2 for R\<S  <br/>S for R\>S             |                                                       Composite intermediate envelope of R and  <br/> S shear strengths. See Figure 6.                                                       |
+|                                                                                                                                                                                                                                                              III Steady seepage from spillway crest or top of gates with K<sub>h</sub>/K<sub>v</sub> = 9 assumed <sup>4</sup>                                                                                                                                                                                                                                                               |      1.5       |                     Same as Case II                      |                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                            IV Earthquake (Cases II and III with seismic loading)                                                                                                                                                                                                                                                                                            |      1.0       |                     (<sup>5</sup> )                      |                                                                      See Figures 1 through 4 for Seismic Coefficients.                                                                       |
+|                                                                                                                                                                      <sup>1</sup> Not applicable to embankments on clay shale foundation. Experience has indicated special problems in determination of design shear strengths for clay shale foundations and acceptable safety factors should be compatible with the confidence level in shear strength assumptions.                                                                                                                                                                       |                |                                                          |                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                    <sup>2</sup> Other strength assumptions may be used if in common usage in the engineering profession.                                                                                                                                                                                                                                                                    |                |                                                          |                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                       <sup>3</sup> The safety factor should not be less than 1.5 when drawdown rate and pore water pressure developed from flow nets are used in stability analyses.                                                                                                                                                                                                                                        |                |                                                          |                                                                                                                                                                                              |
+|                                                                                                                                                                                                                             <sup>4</sup> K<sub>h</sub>/K<sub>v</sub> is the ratio of horizontal to vertical permeability. A minimum of 9 is suggested for use in compacted embankments and alluvial sediments.                                                                                                                                                                                                                              |                |                                                          |                                                                                                                                                                                              |
+|<sup>5</sup> Use shear strength for case analyzed without earthquake. It is not necessary to analyze sudden drawdown for earthquake loading. Shear strength tests are classified according to the controlled drainage conditions maintained during the test. R tests are those in which specimen drainage is allowed during consolidation (or swelling) under initial stress conditions, but specimen drainage is not allowed during application of shearing stresses. S tests allow full drainage during initial stress application and shearing is at a slow rate so that complete specimen drainage is permitted during the complete test.|                |                                                          |                                                                                                                                                                                              |
 
 4.4.3.4. *Safety factors.* Safety factors for embankment dam stability studies should be based on the ratio of available shear strength to developed shear strength, SD:
 
@@ -618,7 +596,7 @@ When the plane of investigation is horizontal, and the angle α is zero and Equa
 
 ![](/graphics/ec15no91.004.gif)
 
-4.4.4.5.2. *Downstream esistance.* When the base of a concrete structure is embedded in rock or the potential failure plane lies below the base, the passive resistance of the downstream layer of rock may sometimes be utilized for sliding resistance. Rock that may be subjected to high velocity water scouring should not be used. The magnitude of the downstream resistance is the lesser of (a) the shearing resistance along the continuation of the potential sliding plane until it daylights or (b) the resistance available from the downstream rock wedge along an inclined plane. The theoretical resistance offered by the passive wedge can be computed by a formula equivalent to formula (3):
+4.4.4.5.2. *Downstream resistance.* When the base of a concrete structure is embedded in rock or the potential failure plane lies below the base, the passive resistance of the downstream layer of rock may sometimes be utilized for sliding resistance. Rock that may be subjected to high velocity water scouring should not be used. The magnitude of the downstream resistance is the lesser of (a) the shearing resistance along the continuation of the potential sliding plane until it daylights or (b) the resistance available from the downstream rock wedge along an inclined plane. The theoretical resistance offered by the passive wedge can be computed by a formula equivalent to formula (3):
 
 ![](/graphics/ec15no91.005.gif)Where:Pp = Passive resistance of rock wedgeW = Weight (buoyant weight if applicable) of downstream rock wedge above inclined plane of resistance, plus any superimposed loadsφ = Angle of internal friction or, if applicable, angle of sliding frictionα = Angle between inclined failure plane and horizontalc = Unit shearing strength at zero normal load along failure planeA = Area of inclined plane of resistance
 
@@ -636,7 +614,7 @@ When the downstream passive wedge contributes to the sliding resistance, the she
 
 The above direct superimposition of passive wedge resistance is valid only if shearing rigidities of the foundation components are similar. Also, the compressive strength and buckling resistance of the downstream rock layer must be sufficient to develop the wedge resistance. For example, a foundation with closely spaced, near horizontal, relatively weak seams might not contain sufficient buckling strength to develop the magnitude of wedge resistance computed from the cross-bed shear strength. In this case wedge resistance should not be assumed without resorting to special treatment (such as installing foundation anchors). Computed sliding safety factors approximating 3 or more for all loading conditions without earthquake, and 1.5 including earthquake, should indicate satisfactory stability, depending upon the reliability of the strength parameters used in the analyses. In some cases when the results of comprehensive foundation studies are available, smaller safety factors may be acceptable. The selection of shear strength parameters should be fully substantiated. The bases for any assumptions; the results of applicable testing, studies and investigations; and all pre-existing, pertinent data should be reported and evaluated.
 
-Chapter 5 - Reports
+Chapter 5—Reports
 
 5.1. *General.* This chapter outlines the procedures for reporting the results of the technical investigations. Hazardous conditions should be reported immediately upon detection to the owner of the dam, the Governor of the State in which the dam is located and the appropriate regulatory agency without delay for preparation of the formal report.
 
@@ -666,11 +644,11 @@ Chapter 5 - Reports
 
 5.2.2.2. Results of all additional studies, investigations, and analyses performed.
 
-5.2.2.3. Technical assessment of dam safety including deficiences and hazardous conditions found to exist.
+5.2.2.3. Technical assessment of dam safety including deficiencies and hazardous conditions found to exist.
 
 5.2.2.4. Indicate alternative possible remedial measures or revision in maintenance and operating procedures which may (subject to further evaluation) correct deficiencies and hazardous conditions found during the investigation.
 
-![](/graphics/ec31oc91.017.gif)![](/graphics/ec31oc91.018.gif)![](/graphics/ec31oc91.019.gif)![](/graphics/ec31oc91.020.gif)![](/graphics/ec31oc91.021.gif)Appendix I to App. D to § 222.6 - Engineering Data
+![](/graphics/ec31oc91.017.gif)![](/graphics/ec31oc91.018.gif)![](/graphics/ec31oc91.019.gif)![](/graphics/ec31oc91.020.gif)![](/graphics/ec31oc91.021.gif)Appendix I to App. D to § 222.6—Engineering Data
 
 This appendix lists engineering data which should be collected from project records and, to the extent available, included in the Phase I investigation report. The list is intended to serve as a checklist and not to establish rigid data requirements. Such a compilation should also facilitate future inspections and investigations. Only data readily available will be included in Phase I reports, but data lacking and deemed necessary for an adequate safety evaluation should be identified.
 
@@ -706,7 +684,7 @@ k. Type, location, entrance and exit inverts of outlet works and emergency drawd
 
 l. Location, crest elevation, description of invert and abutments (concrete, rock, grass, earth) and length of limited service and emergency spillways.
 
-m. Location and dscription of flashboards and fuse plugs, including hydraulic head (pool elevation) and other conditions required for breaching, along with the assumed results of breaching.
+m. Location and description of flashboards and fuse plugs, including hydraulic head (pool elevation) and other conditions required for breaching, along with the assumed results of breaching.
 
 n. Location and top elevation of dikes and floodwalls (overflow and non-overflow) affected by reservoir. Include information on low reaches of reservoir rim.
 
@@ -746,25 +724,25 @@ a. *Hydrologic and Hydraulic Determinations.*
 
 (1) Quantity, time and area distribution, and reference source of depth-area-duration data of spillway design storm precipitation (point precipitation if applicable).
 
-(2) Maximum design flood inflow hydrograph including loss rates (initial and average for design flood conditions) and time of runoff concentration of reservior watershed (peak inflow only when applicable).
+(2) Maximum design flood inflow hydrograph including loss rates (initial and average for design flood conditions) and time of runoff concentration of reservoir watershed (peak inflow only when applicable).
 
 (3) Maximum design flood outflow hydrograph (maximum outflow only when applicable).
 
 (4) Discharge-frequency relationship, preferably at damsite, including estimated frequency of spillway design flood for small dams, when appropriate.
 
-(5) Reservior area and storage capacity versus water surface elevation (table or curves).
+(5) Reservoir area and storage capacity versus water surface elevation (table or curves).
 
 (6) Rating curves (free flow and partial gate openings) for all discharge facilities contributing to the maximum design flood outflow hydrograph. Also a composite-rating of all contributing facilities, if appropriate.
 
 (7) Tailwater rating curve immediately below damsite including elevation corresponding to maximum design flood discharge and approximate nondamaging channel capacity.
 
-(8) Hydrologic map of watershed above damsite including reservior area, watercourse, elevation contours, and principal stream-flow and precipitation gaging stations.
+(8) Hydrologic map of watershed above damsite including reservoir area, watercourse, elevation contours, and principal stream-flow and precipitation gaging stations.
 
 b. *Stability and Stress Analysis* of the dam, spillway and appurtenant structures and features including the assumed properties of materials and all pertinent applied loads.
 
 c. *Seepage and Settlement Analyses.* The determination of distribution, direction and magnitude of seepage forces and the design and construction measures for their control. Settlement estimates and steps adopted to compensate for total settlement and to minimize differential settlements.
 
-Appendix II to App. D to § 222.6 - Inspection Items
+Appendix II to App. D to § 222.6—Inspection Items
 
 This appendix provides guidance for performing field inspections and may serve as the basis for developing a detailed checklist for each dam.
 
@@ -774,17 +752,17 @@ a. *Concrete Surfaces.* The condition of the concrete surfaces should be examine
 
 b. *Structural Cracking.* Concrete structures should be examined for structural cracking resulting from overstress due to applied loads, shrinkage and temperature effects or differential movements.
 
-c. *Movement - Horizontal and Vertical Alignment.* Concrete structures should be examined for evidence of any abnormal settlements, heaving, deflections, or lateral movements.
+c. *Movement—Horizontal and Vertical Alignment.* Concrete structures should be examined for evidence of any abnormal settlements, heaving, deflections, or lateral movements.
 
 d. *Junctions.* The conditions at the junctions of the structure with abutments or embankments should be determined.
 
-e. *Drains - Foundation, Joint, Face.* All drains should be examined to determine that they are capable of performing their design function.
+e. *Drains—Foundation, Joint, Face.* All drains should be examined to determine that they are capable of performing their design function.
 
 f. *Water Passages.* All water passages and other concrete surfaces subject to running water should be examined for erosion, cavitation, obstructions, leakage or significant structural cracks.
 
 g. *Seepage or Leakage.* The faces, abutments and toes of the concrete structures should be examined for evidence of seepage or abnormal leakage, and records of flow of downstream springs reviewed for variation with reservoir pool level. The sources of seepage should be determined if possible.
 
-h. *Monolith Joints - Construction Joints.* All monolith and construction joints should be examined to determine the condition of the joint and filler material, any movement of joints, or any indication of distress or leakage.
+h. *Monolith Joints—Construction Joints.* All monolith and construction joints should be examined to determine the condition of the joint and filler material, any movement of joints, or any indication of distress or leakage.
 
 i. *Foundation.* Foundation should be examined for damage or possible undermining of the downstream toe.
 
@@ -796,7 +774,7 @@ a. *Settlement.* The embankments and downstream toe areas should be examined for
 
 b. *Slope Stability.* Embankment slopes should be examined for irregularities in alignment and variances from smooth uniform slopes, unusual changes from original crest alignment and elevation, evidence of movement at or beyond the toe, and surface cracks which indicate movement.
 
-c. *Seepage.* The downstream face of abutments, embankment slopes and toes, embankment - structure contacts, and the downstream valley areas should be examined for evidence of existing or past seepage. The sources of seepage should be investigated to determine cause and potential severity to dam safety under all operating conditions. The presence of animal burrows and tree growth on slopes which might cause detrimental seepage should be examined.
+c. *Seepage.* The downstream face of abutments, embankment slopes and toes, embankment—structure contacts, and the downstream valley areas should be examined for evidence of existing or past seepage. The sources of seepage should be investigated to determine cause and potential severity to dam safety under all operating conditions. The presence of animal burrows and tree growth on slopes which might cause detrimental seepage should be examined.
 
 d. *Drainage Systems.* All drainage systems should be examined to determine whether the systems can freely pass discharge and that the discharge water is not carrying embankment or foundation material. Systems used to monitor drainage should be examined to assure they are operational and functioning properly.
 
@@ -858,7 +836,7 @@ a. *Reservoir Regulation Plan.* The actual practices in regulating the reservoir
 
 b. *Maintenance.* The maintenance of the operating facilities and features that pertain to the safety of the dam should be examined to determine the adequacy and quality of the maintenance procedures followed in maintaining the dam and facilities in safe operating condition.
 
-Appendix III to App. D to § 222.6 - Pub. L. 92-367![](/graphics/ec31oc91.022.gif)![](/graphics/ec31oc91.023.gif)Appendix E to § 222.6 - Suggested OutlineInspection Report - National Dam Inspection Program (RCS-DAEN-CWE-17 and OMB No. 49-R0421)Title Sheet
+Appendix III to App. D to § 222.6—Pub. L. 92-367![](/graphics/ec31oc91.022.gif)![](/graphics/ec31oc91.023.gif)Appendix E to § 222.6—Suggested OutlineInspection Report—National Dam Inspection Program (RCS-DAEN-CWE-17 and OMB No. 49-R0421)Title Sheet
 
 Name of Dam
 
@@ -890,7 +868,7 @@ b. Purpose and Scope of Inspection
 
 a. Site Information
 
-b. Description of Structures - Dam, Outlet, Spillway and other principal features.
+b. Description of Structures—Dam, Outlet, Spillway and other principal features.
 
 c. Purpose of Dam
 
@@ -908,13 +886,13 @@ a. Structural and Geotechnical
 
 (2) Embankment and/or Foundation Condition
 
-(3) Stability - Briefly discuss pertinent information such as design, construction and operating records. Assess stability under maximum loading on basis of the record data, together with observations of field inspection and results of any additional, brief calculations performed by inspectors. If additional, detailed stability analyses are considered necessary, recommend that the owner engage a qualified engineer or firm to provide the analysis.
+(3) Stability—Briefly discuss pertinent information such as design, construction and operating records. Assess stability under maximum loading on basis of the record data, together with observations of field inspection and results of any additional, brief calculations performed by inspectors. If additional, detailed stability analyses are considered necessary, recommend that the owner engage a qualified engineer or firm to provide the analysis.
 
 b. Hydrologic and Hydraulic
 
-(1) Spillway Adequacy - Briefly describe pertinent record information such as hydrologic and hydraulic design data, flood of record, and previous analyses. Describe any hydraulic and hydrologic analyses made for this inspection. Present conclusion with respect to adequacy of spillway to pass the recommended spillway design flood without overtopping dam. If overtopping would occur, and if available from the type of analysis used, give maximum depth over top of dam and duration of overtopping, assuming the dam does not fail. Also indicate the largest flood, as a percentage of the probable maximum flood which can be passed without overtopping.
+(1) Spillway Adequacy—Briefly describe pertinent record information such as hydrologic and hydraulic design data, flood of record, and previous analyses. Describe any hydraulic and hydrologic analyses made for this inspection. Present conclusion with respect to adequacy of spillway to pass the recommended spillway design flood without overtopping dam. If overtopping would occur, and if available from the type of analysis used, give maximum depth over top of dam and duration of overtopping, assuming the dam does not fail. Also indicate the largest flood, as a percentage of the probable maximum flood which can be passed without overtopping.
 
-(2) Effects of overtopping - If dam is overtopped by the recommended spillway design flood, provide assessment as to whether or not dam would likely fail, and if, in case of failure, the hazard to loss of life downstream of the dam would be substantially increased over that which would exist without failure. If information upon which to base a reasonable assessment is insufficient, so state and describe the needed data, and recommend that the necessary studies be performed by engineers engaged by the owner.
+(2) Effects of overtopping—If dam is overtopped by the recommended spillway design flood, provide assessment as to whether or not dam would likely fail, and if, in case of failure, the hazard to loss of life downstream of the dam would be substantially increased over that which would exist without failure. If information upon which to base a reasonable assessment is insufficient, so state and describe the needed data, and recommend that the necessary studies be performed by engineers engaged by the owner.
 
 c. Operation and Maintenance
 
@@ -934,7 +912,7 @@ a. Inspection Checklist (if available)
 
 b. Other Illustrations as follows:
 
-(1) Include a map showing location of the dam. Usually a portion of a USGS quadrangle sheet can be used which will show the topography of the area, location of the dam, exent of the lake and drainage basin, and perhaps indicate the downstream development.
+(1) Include a map showing location of the dam. Usually a portion of a USGS quadrangle sheet can be used which will show the topography of the area, location of the dam, extent of the lake and drainage basin, and perhaps indicate the downstream development.
 
 (2) If available, include a plan and section of the dam.
 
@@ -948,37 +926,37 @@ Appendix F to § 222.6Instructions for Unsafe Dam Data Sheet (RCS-DAEN-CWE-17 an
 
 The indicated information shall be provided in the format shown on Pg F-3 for each dam assessed to be unsafe during the reporting period. A separate data sheet should be provided for each unsafe dam. The information supplied should conform to the following.
 
-a. *Name* - Name of dam.
+a. *Name*—Name of dam.
 
-b. *Id. No.* - Dam inventory identity number.
+b. *Id. No.*—Dam inventory identity number.
 
-c. *Location* - List state county, river or stream and nearest D/S city or town where the dam is located.
+c. *Location*—List state county, river or stream and nearest D/S city or town where the dam is located.
 
-d. *Height* - Maximum hydraulic height of dam.
+d. *Height*—Maximum hydraulic height of dam.
 
-e. *Maximum Impoundment Capacity* - List the capacity of the reservior at maximum attainable water surface elevation including any surcharge loading.
+e. *Maximum Impoundment Capacity*—List the capacity of the reservior at maximum attainable water surface elevation including any surcharge loading.
 
-f. *Type* - Type of dam, *i.e.,* earth, rockfill, gravity, combination earth-gravity, etc.
+f. *Type*—Type of dam, *i.e.,* earth, rockfill, gravity, combination earth-gravity, etc.
 
-g. *Owner* - Owner of dam.
+g. *Owner*—Owner of dam.
 
-h. *Date Governor Notified of Unsafe Condition* - The date and method of notification, such as, by telegram, letter, report, etc.
+h. *Date Governor Notified of Unsafe Condition*—The date and method of notification, such as, by telegram, letter, report, etc.
 
-i. *Condition of Dam Resulting in Unsafe Assessment* - Brief description of the deficiencies discovered which resulted in the unsafe assessment.
+i. *Condition of Dam Resulting in Unsafe Assessment*—Brief description of the deficiencies discovered which resulted in the unsafe assessment.
 
-j. *Description of Danger Involved* - Downstream (D/S) hazard potential category and a brief description of the danger involved.
+j. *Description of Danger Involved*—Downstream (D/S) hazard potential category and a brief description of the danger involved.
 
-k. *Recommendations Given to Governor* - Brief description of the actions recommended to Governor at time of notification of unsafe condition to eliminate or reduce the danger.
+k. *Recommendations Given to Governor*—Brief description of the actions recommended to Governor at time of notification of unsafe condition to eliminate or reduce the danger.
 
-l. *Urgency Category* - State whether the unsafe condition of the dam is an emergency or non-emergency situation. An emergency situation should be considered to exist if the failure of the dam is judged to be imminent and requires immediate action to eliminate or reduce the danger.
+l. *Urgency Category*—State whether the unsafe condition of the dam is an emergency or non-emergency situation. An emergency situation should be considered to exist if the failure of the dam is judged to be imminent and requires immediate action to eliminate or reduce the danger.
 
-m. *Emergency Actions Taken* - In case of an emergency situation, list the actions taken. For non-emergency situation, put NA for “not applicable.”
+m. *Emergency Actions Taken*—In case of an emergency situation, list the actions taken. For non-emergency situation, put NA for “not applicable.”
 
-n. *Remedial Action Taken* - For non-emergency situations list remedial actions taken.
+n. *Remedial Action Taken*—For non-emergency situations list remedial actions taken.
 
-o. *Remarks* - For other pertinent information.
+o. *Remarks*—For other pertinent information.
 
-Format for Unsafe Dam Data Sheet (RCS-DAEN-CWE-17 and OMB No. 49-R0421National Program of Inspection of Non-Federal Dams - Unsafe Dam Data Sheet
+Format for Unsafe Dam Data Sheet (RCS-DAEN-CWE-17 and OMB No. 49-R0421National Program of Inspection of Non-Federal Dams—Unsafe Dam Data Sheet
 
 a. *Name:*
 
@@ -1012,7 +990,7 @@ l. *Emergency Actions Taken:*
 
 m. *Remarks:*
 
-Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Monthly Progress Report (RCS-DAEN-CWE-19)I. *Instructions for Monthly Progress Report.* The indicated information shall be provided in the format shown on page G-2.
+Appendix G to § 222.6National Program for Inspection of Non-Federal Dams—Monthly Progress Report (RCS-DAEN-CWE-19)I. *Instructions for Monthly Progress Report.* The indicated information shall be provided in the format shown on page G-2.
 
 1. Division Reporting:
 
@@ -1020,13 +998,13 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Mont
 
 3. Information Required for Each State Regarding Total Number of Inspections Performed (AE Inspections included) (Cumulative):
 
-3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records.1/\>
+3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records.1
 
 1 Each of the initiated inspections reported should be planned for completion within a reasonable period of time (30 days.)
 
 3.2. Number of Inspections Competed (The number of inspection reports which have been submitted to the District Engineer for review and approval).
 
-3.3 Number of Dams Reported to the Governor as Unsafe.2/\>
+3.3 Number of Dams Reported to the Governor as Unsafe.2
 
 2 An unsafe dam is defined as a dam with deficiencies of such a nature that if not corrected could result in the failure of the dam with subsequent loss of lives or substantial property damage.
 
@@ -1036,7 +1014,7 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Mont
 
 4.1. Number of Dams Contracted for Inspection by AE's with State or Corps.
 
-4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records.1/\>
+4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records.1
 
 1 See footnote on previous page.
 
@@ -1044,7 +1022,7 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Mont
 
 4.4. Number of Approved Inspection Reports Prepared by AE's Submitted to the Governor.
 
-II. *Formation for Monthly Progress Report.*National Program for Inspection of Non-Federal Dams - Monthly Progress Report
+II. *Formation for Monthly Progress Report.*National Program for Inspection of Non-Federal Dams—Monthly Progress Report
 
 1. Division Reporting:
 
@@ -1110,7 +1088,7 @@ d. *Preparation of Report.* A formal report shall be prepared for each dam inspe
 
 4. *Supervision and Approval of Work.* All work performed under this contract shall be subject to the review and approval of the Contracting Officer or his designee. Meetings will be held on a regular basis in the District office, during which the progress of inspections will be discussed and questions relating to inspection reports previously received by the Contracting Officer will be addressed. Reports will be revised as necessary when required by the Contracting Officer.
 
-5. *Coordination.* During the progress of work, the AE shall maintain liaison with the \*/\>\_\_\_\_ and other local authorities through the Contracting Officer as required to assure the orderly progression of the inspection. Copies of all correspondence with such authorities shall be provided to the Contracting Officer.
+5. *Coordination.* During the progress of work, the AE shall maintain liaison with the \*\_\_\_\_ and other local authorities through the Contracting Officer as required to assure the orderly progression of the inspection. Copies of all correspondence with such authorities shall be provided to the Contracting Officer.
 
 \* Note: Write in the designated State Authority.
 
@@ -1179,4 +1157,4 @@ c. Divisions/Districts are responsible for:
 
 9. *Points of Contact.* The points of contact in the Regional Centers for this program are as follows:
 
-Name, Office Symbol, and TelephoneJim Cook - DAEN-ORNED, (615) 251-7366; FTS 852-7366.Jack Erlandson - DAEN-NPSEN, (206) 764-3535; FTS 399-3535.[44 FR 55336, Sept. 26, 1979, as amended at 45 FR 18925, Mar. 24, 1980. Redesignated at 60 FR 19851, Apr. 21, 1995]
+Name, Office Symbol, and TelephoneJim Cook—DAEN-ORNED, (615) 251-7366; FTS 852-7366.Jack Erlandson—DAEN-NPSEN, (206) 764-3535; FTS 399-3535.[44 FR 55336, Sept. 26, 1979, as amended at 45 FR 18925, Mar. 24, 1980. Redesignated at 60 FR 19851, Apr. 21, 1995]

@@ -1,7 +1,5 @@
 ##### § 171.16 Annual fees: Materials licensees, holders of certificates of compliance, holders of sealed source and device registrations, holders of quality assurance program approvals, and government agencies licensed by the NRC. #####
 
-Link to an amendment published at 87 FR 8946, Feb. 17, 2022.
-
 (a)(1) The provisions of this section apply to person(s) who are authorized to conduct activities under -
 
 (i) 10 CFR part 30 for byproduct material;
@@ -24,27 +22,27 @@ Link to an amendment published at 87 FR 8946, Feb. 17, 2022.
 
 (2) Other safety, environmental, and safeguards activities for materials licenses, except costs for licensing and inspection activities that are recovered under Part 170 of this chapter.
 
-(c) A licensee who is required to pay an annual fee under this section, in addition to 10 CFR part 72 licenses, may qualify as a small entity. If a licensee qualifies as a small entity and provides the Commission with the proper certification along with its annual fee payment, the licensee may pay reduced annual fees as shown in Table 1 to this paragraph (c). Failure to file a small entity certification in a timely manner could result in the receipt of a delinquent invoice requesting the outstanding balance due and/or denial of any refund that might otherwise be due. The small entity fees are as follows:
+(c) A licensee who is required to pay an annual fee under this section, in addition to 10 CFR part 72 licenses, may qualify as a small entity. If a licensee qualifies as a small entity and provides the Commission with the proper certification along with its annual fee payment, the licensee may pay reduced annual fees as shown in table 1 to this paragraph (c). Failure to file a small entity certification in a timely manner could result in the receipt of a delinquent invoice requesting the outstanding balance due and/or denial of any refund that might otherwise be due. The small entity fees are as follows:
 
 Table 1 to Paragraph (c)
 
-|                                     NRC small entity classification                                      |Maximum  <br/>annual fee  <br/>per licensed  <br/>category|
-|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-|Small Businesses Not Engaged in Manufacturing (Average gross receipts over last 3 completed fiscal years):|                                                          |
-|                                          $485,000 to $7 million                                          |                          $4,900                          |
-|                                            Less than $485,000                                            |                          1,000                           |
-|                       Small Not-For-Profit Organizations (Annual Gross Receipts):                        |                                                          |
-|                                          $485,000 to $7 million                                          |                          4,900                           |
-|                                            Less than $485,000                                            |                          1,000                           |
-|                  Manufacturing Entities that Have An Average of 500 Employees or Fewer:                  |                                                          |
-|                                           35 to 500 employees                                            |                          4,900                           |
-|                                         Fewer than 35 employees                                          |                          1,000                           |
-|  Small Governmental Jurisdictions (Including publicly supported educational institutions) (Population):  |                                                          |
-|                                             20,000 to 49,999                                             |                          4,900                           |
-|                                            Fewer than 20,000                                             |                          1,000                           |
-|   Educational Institutions that are not State or Publicly Supported, and have 500 Employees or Fewer:    |                                                          |
-|                                           35 to 500 employees                                            |                          4,900                           |
-|                                         Fewer than 35 employees                                          |                          1,000                           |
+|                                       NRC small entity classification                                        |Maximum  <br/>annual fee  <br/>per licensed  <br/>category|
+|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+|Small Businesses Not Engaged in Manufacturing (Average gross receipts over the last 5 completed fiscal years):|                                                          |
+|                                            $555,000 to $8 million                                            |                          $4,900                          |
+|                                              Less than $555,000                                              |                          1,000                           |
+|                         Small Not-For-Profit Organizations (Annual Gross Receipts):                          |                                                          |
+|                                            $555,000 to $8 million                                            |                          4,900                           |
+|                                              Less than $555,000                                              |                          1,000                           |
+|                    Manufacturing Entities that Have An Average of 500 Employees or Fewer:                    |                                                          |
+|                                             35 to 500 employees                                              |                          4,900                           |
+|                                           Fewer than 35 employees                                            |                          1,000                           |
+|    Small Governmental Jurisdictions (Including publicly supported educational institutions) (Population):    |                                                          |
+|                                               20,000 to 49,999                                               |                          4,900                           |
+|                                              Fewer than 20,000                                               |                          1,000                           |
+|     Educational Institutions that are not State or Publicly Supported, and have 500 Employees or Fewer:      |                                                          |
+|                                             35 to 500 employees                                              |                          4,900                           |
+|                                           Fewer than 35 employees                                            |                          1,000                           |
 
 (d) The FY 2021 annual fees for materials licensees and holders of certificates, registrations, or approvals subject to fees under this section are shown table 2 to this paragraph (d):
 

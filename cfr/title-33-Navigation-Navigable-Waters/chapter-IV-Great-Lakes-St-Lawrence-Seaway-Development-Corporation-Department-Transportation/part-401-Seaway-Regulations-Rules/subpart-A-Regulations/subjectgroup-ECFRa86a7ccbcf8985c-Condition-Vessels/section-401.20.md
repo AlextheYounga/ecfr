@@ -1,7 +1,5 @@
 ##### § 401.20 Automatic Identification System. #####
 
-Link to an amendment published at 87 FR 12591, Mar. 7, 2022.
-
 (a) Each of the following vessels must use an Automatic Identification System (AIS) transponder to transit the Seaway:
 
 (1) Each commercial vessel that requires pre-clearance in accordance with § 401.22 and has a 300 gross tonnage or greater, has a Length Over All (LOA) over 20 meters, or carries more than 50 passengers for hire; and
@@ -20,10 +18,10 @@ Link to an amendment published at 87 FR 12591, Mar. 7, 2022.
 
 (5) The Minimum Keyboard Display (MKD) shall be located as close as possible to the primary conning position and be visible;
 
-(6) Computation of AIS position reports using differential GPS corrections from Canadian Coast Guard's maritime Differential Global Position System (DGPS) radio beacon services or Wide Area Augmentation System (WAAS); or
+(6) Computation of AIS position reports using differential GPS corrections from Canadian Coast Guard's maritime Differential Global Position System (DGPS) radio beacon services or Satellite Based Augmentation System (SBAS); or
 
 (7) The use of a temporary unit meeting the requirements of paragraphs (b)(1) through (5) of this section is permissible; or
 
 (8) For each vessel with LOA less than 30 meters, the use of portable AIS compatible with the requirements of paragraphs (b)(1) through (3) and paragraph (5) of this section is permissible.
 
-[68 FR 9551, Feb. 28, 2003; 68 FR 11974, Mar. 13, 2003, as amended at 70 FR 12972, Mar. 17, 2005; 86 FR 15412, Mar. 23, 2021]
+[68 FR 9551, Feb. 28, 2003; 68 FR 11974, Mar. 13, 2003, as amended at 70 FR 12972, Mar. 17, 2005; 86 FR 15412, Mar. 23, 2021; 87 FR 12591, Mar. 7, 2022]

@@ -612,4 +612,44 @@ Native, and
 
 (vii) Conduct activities to remove toxicants and other chemicals consistent with conservation strategies for coastal marten. Such activities include management or cleanup activities that remove toxicants and other chemicals from forested areas, for which the Service has determined that such activities to remove toxicants and other chemicals would be consistent with conservation strategies for coastal marten. Cleanup of these sites may involve activities that may cause localized, short-term disturbance to coastal martens, as well as require limited removal of some habitat structures valuable to coastal martens (e.g., hazard trees that may be a suitable den site).
 
+(t) Stephens' kangaroo rat (*Dipodomys stephensi*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Stephens' kangaroo rat. Except as provided under paragraph (t)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to Stephens' kangaroo rat, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Implement livestock grazing in the course of habitat management and restoration to benefit Stephens' kangaroo rat or other native species in the grassland habitat as approved by the Service.
+
+(vi) Conduct the following wildfire suppression activities:
+
+(A) Activities necessary to maintain the minimum clearance (defensible space) requirement from any occupied dwelling, occupied structure, or to the property line, whichever is nearer, to provide reasonable fire safety and to reduce wildfire risks consistent with the State of California fire codes or local fire codes/ordinances.
+
+(B) Fire management actions (*e.g.,* prescribed burns, hazardous fuel reduction activities) on protected/preserve lands to maintain, protect, or enhance habitat occupied by Stephens' kangaroo rat. These activities are to be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
+
+(C) Maintenance of existing fuel breaks.
+
+(D) Firefighting activities associated with actively burning wildfires to reduce risk to life or property.
+
+(vii) Remove nonnative, invasive, or noxious plants for the purpose of Stephens' kangaroo rat conservation as approved by the Service. This includes noxious weed control and other vegetation reduction in the course of habitat management and restoration to benefit Stephens' kangaroo rat, including mechanical and chemical control, provided that these activities are conducted in a manner consistent with Federal and applicable State laws, including Environmental Protection Agency label restrictions for herbicide application.
+
+(viii) Implement activities conducted as part of a plan developed in coordination with the Service or the California Department of Fish and Wildlife that are for the purpose of Stephens' kangaroo rat conservation.
+
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

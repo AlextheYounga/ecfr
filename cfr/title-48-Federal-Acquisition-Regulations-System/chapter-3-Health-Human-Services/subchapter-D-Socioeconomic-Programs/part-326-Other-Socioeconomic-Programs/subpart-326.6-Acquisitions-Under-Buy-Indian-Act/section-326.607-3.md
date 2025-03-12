@@ -10,8 +10,4 @@
 
 (c) If a timely challenge on representation is filed with the CO and received before award in response to a specific offer and solicitation, the CO must notify eligible offerors within one day that the award will be withheld. The CO also may ask eligible offerors to extend the period for acceptance of their proposals.
 
-(d) If a challenge on representation is filed with the CO and received after award in response to a specific offer and solicitation, the CO need not suspend contract performance or terminate the awarded contract unless the CO believes that an award may be invalidated and a delay would prejudice the Government's interest. However, if contract performance is to be suspended, the CO would follow those guidelines as outlined in FAR Part 49.TNO\>326.607-4
-
-##### 326.607-3 Challenge Not Timely. #####
-
-If a CO receives an untimely filed challenge of a representation, the CO must notify the challenger that the challenge cannot be considered on the instant acquisition but will be considered in any future actions. However, the CO may question at any time, before or after award, the representation of an IEE.
+(d) If a challenge on representation is filed with the CO and received after award in response to a specific offer and solicitation, the CO need not suspend contract performance or terminate the awarded contract unless the CO believes that an award may be invalidated and a delay would prejudice the Government's interest. However, if contract performance is to be suspended, the CO would follow those guidelines as outlined in FAR Part 49.

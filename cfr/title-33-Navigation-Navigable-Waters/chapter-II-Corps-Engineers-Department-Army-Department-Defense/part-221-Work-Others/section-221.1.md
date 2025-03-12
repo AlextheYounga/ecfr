@@ -1,6 +1,6 @@
 ##### § 221.1 Investigation and supervision of hydropower projects under the Federal Power Act (ER 1140-2-4). #####
 
-(a) *Purpose.* This regulation1/\> establishes procedures for executing Corps of Engineers functions under the authority of the Federal Power Act (FPA) administered by the Department of Energy, Federal Energy Regulatory Commission (FERC), formerly Federal Power Commission. Based on a specific request from FERC, these functions include:
+(a) *Purpose.* This regulation1 establishes procedures for executing Corps of Engineers functions under the authority of the Federal Power Act (FPA) administered by the Department of Energy, Federal Energy Regulatory Commission (FERC), formerly Federal Power Commission. Based on a specific request from FERC, these functions include:
 
 1 This regulation supersedes ER 1140-2-4, 8 December 1967, and ER 1140-2-2, 10 September 1965.
 
@@ -16,13 +16,13 @@
 
 (2) Code of Federal Regulations, Title 18, part 1 to 149 relating to FERC General Rules and Regulations, available at the U.S. Government Printing Office, Washington, D.C. 20402.
 
-(3) ER 1145-2-303 (33 CFR 209.120),2/\> Permits for Activities in Navigable Waters or Ocean Waters.
+(3) ER 1145-2-303 (33 CFR 209.120),2 Permits for Activities in Navigable Waters or Ocean Waters.
 
 2 33 CFR 209.120 was removed at 42 FR 37133, July 19, 1977.
 
 (4) ER 1140-2-1, Submission of Data for Headwater Benefits Determination.
 
-(d) *Definitions* - (1) *Licensed project.* A non-Federal hydroelectric project for which the FERC has issued a license granting authority for either construction, in the case of a proposed project, or for continued operation and maintenance of an existing project.
+(d) *Definitions*—(1) *Licensed project.* A non-Federal hydroelectric project for which the FERC has issued a license granting authority for either construction, in the case of a proposed project, or for continued operation and maintenance of an existing project.
 
 (2) *Major projects.* Hydroelectric projects with more than 2,000 horsepower installed capacity.
 
@@ -78,15 +78,15 @@ Terms and Conditions of License for Constructed Major Project Affecting Navigabl
 
 Terms and Conditions of License for Unconstructed Major Project Affecting Navigable Waters of the United States.
 
-Any special terms and conditions pertaining to the Corps of Engineers responsibilities, in addition to those identifed in appendix B should be tailored to suit the situation involved. Appendix B also provides a list of other FERC standard articles Forms that could be obtained from FERC offices.
+Any special terms and conditions pertaining to the Corps of Engineers responsibilities, in addition to those identified in appendix B should be tailored to suit the situation involved. Appendix B also provides a list of other FERC standard articles Forms that could be obtained from FERC offices.
 
 (i) *Distinction between Corps of Engineers and FERC jurisdiction with respect to non-Federal Hydroelectric projects.* (1) The following procedures are currently being followed in connection with Department of Army permit responsibilities involving pre-1920 legislation:
 
 (i) In regard to FERC licensing of projects, Corps responsibilities under section 10 of the River and Harbor Act of 1899, for power related activities, may normally be met through the FERC licensing procedure including insertion of terms and conditions in the license of the interest of navigation. Section 4(e) of the Federal Power Act provides for approval of plans of project works by the Chief of Engineers and Secretary of the Army from the standpoint of interests of navigation. The consideration for our approval under section 4(e) will be limited to effects of project power related activities on navigation.
 
-(ii) Applications to Corps Divsion or District Engineers for approval of repairs, maintenance or modification of non-Federal water power projects authorized under River and Harbor Acts as well as special Acts of Congress prior to 1920, or requests for advice with respect thereto should be referred to the FERC for consideration in accordance with the provisions of the Federal Power Act. The permittee should be advised that the application is being referred to the FERC for consideration and that if a FERC license is required Corps recommendations will be furnished to the FERC.
+(ii) Applications to Corps Division or District Engineers for approval of repairs, maintenance or modification of non-Federal water power projects authorized under River and Harbor Acts as well as special Acts of Congress prior to 1920, or requests for advice with respect thereto should be referred to the FERC for consideration in accordance with the provisions of the Federal Power Act. The permittee should be advised that the application is being referred to the FERC for consideration and that if a FERC license is required Corps recommendations will be furnished to the FERC.
 
-(2) Responsibilities under section 404 of the Federal Water Pollution Control Act as amended in 1972 (33 U.S.C. 1151) pertinent to discharge of dredged or fill material into the navigble waters at specified disposal sites will be met only through the Department of Army permit procedures as specified in ER 1145-2-303. In regard to FERC cases involving section 404, our report to the FERC through (DAEN-CWE-HY) will specify the need for a Department of Army permit (section 404) if, on the basis of the Division and District Engineers' reports, such permit is deemed necessary. A Department of the Army permit will be required for any portion of a proposed project which involves the discharge of dredged or fill material into the waters of the United States. This includes the placement of fill necessary for construction of a project's dam and appurtenant structures.
+(2) Responsibilities under section 404 of the Federal Water Pollution Control Act as amended in 1972 (33 U.S.C. 1151) pertinent to discharge of dredged or fill material into the navigable waters at specified disposal sites will be met only through the Department of Army permit procedures as specified in ER 1145-2-303. In regard to FERC cases involving section 404, our report to the FERC through (DAEN-CWE-HY) will specify the need for a Department of Army permit (section 404) if, on the basis of the Division and District Engineers' reports, such permit is deemed necessary. A Department of the Army permit will be required for any portion of a proposed project which involves the discharge of dredged or fill material into the waters of the United States. This includes the placement of fill necessary for construction of a project's dam and appurtenant structures.
 
 (3) When applicable, FERC will be advised that the requirement for Department of the Army permit pursuant to section 103 of the Marine Protection, Research and Sanctuaries Act of 1972 for the transport of dredged material from the project site for the purpose of dumping it into the ocean waters will be met only through the Department of the Army permit program.
 

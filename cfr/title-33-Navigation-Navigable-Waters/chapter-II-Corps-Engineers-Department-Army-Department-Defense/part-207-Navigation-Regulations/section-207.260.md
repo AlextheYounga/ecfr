@@ -1,6 +1,6 @@
 ##### § 207.260 Yazoo Diversion Canal, Vicksburg, Miss., from its mouth at Kleinston Landing to Fisher Street; navigation. #####
 
-(a) *Signals.* Vessels navigating the canal will be governed by the Pilot Rules for Western Rivers (rivers emptying into the Gulf of Mexico and their tributaries) prescribed by the U.S. Coast Guard. (See part 95 of this title.)1/\>
+(a) *Signals.* Vessels navigating the canal will be governed by the Pilot Rules for Western Rivers (rivers emptying into the Gulf of Mexico and their tributaries) prescribed by the U.S. Coast Guard. (See part 95 of this title.)1
 
 1 Part 95 was removed by CGD 82-029, 47 FR 19519, May 6, 1982.
 

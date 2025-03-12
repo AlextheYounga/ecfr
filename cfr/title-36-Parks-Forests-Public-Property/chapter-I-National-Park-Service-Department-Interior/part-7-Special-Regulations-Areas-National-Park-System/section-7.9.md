@@ -1,6 +1,4 @@
-##### § 7.9 St. Croix National Scenic Rivers. #####
-
-Link to an amendment published at 87 FR 8952, Feb. 17, 2022.
+##### § 7.9 St. Croix National Scenic Riverway. #####
 
 (a) *Snowmobiles.* After consideration of existing special situations, i.e., depth of snow or thickness of ice, and depending on local weather conditions, the superintendent may allow the use of snowmobiles on the frozen surface of the Saint Croix River on those sections normally used by motor boats during other seasons, between the Boomsite and Highway 243 near Osceola, Wisconsin, and Saint Croix Falls to Riverside, Wisconsin, and in those areas where county or other established snowmobile trails need to cross the riverway or riverway lands to connect with other established snowmobile trails.
 
@@ -20,4 +18,10 @@ Link to an amendment published at 87 FR 8952, Feb. 17, 2022.
 
 (2) The term vessel means every type or description of craft on the water used or capable of being used as a means of transportation, including seaplanes, when on the water, and buoyant devises permitting or capable of free flotation.
 
-[47 FR 55918, Dec. 14, 1982, as amended at 49 FR 18450, Apr. 30, 1984; 51 FR 8493, Mar. 12, 1986; 62 FR 33751, June 23, 1997]
+(g) *Bicycle Use.* (1) The Superintendent may designate all or a portion of the Cable Connector Trail (full length of the trail approximately 0.25 miles) as open to bicycle use.
+
+(2) A map showing trails open to bicycle use will be available at Riverway visitor centers and posted on the Riverway website. The Superintendent will provide notice of all trails designated for bicycle use in accordance with § 1.7 of this chapter.
+
+(3) The Superintendent may limit, restrict, or impose conditions on bicycle use, or close any trail to bicycle use, or terminate such conditions, closures, limits, or restrictions in accordance with § 4.30 of this chapter. A violation of any such condition, closure, limit, or restriction is prohibited.
+
+[47 FR 55918, Dec. 14, 1982, as amended at 49 FR 18450, Apr. 30, 1984; 51 FR 8493, Mar. 12, 1986; 62 FR 33751, June 23, 1997; 87 FR 8952, Feb. 17, 2022]
