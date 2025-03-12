@@ -1,5 +1,7 @@
 ##### § 117.287 Gulf Intracoastal Waterway. #####
 
+Link to an amendment published at 82 FR 41893, Sept. 5, 2017.
+
 (a) Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (a-1) The draw of the Boca Grande Swingbridge, mile 34.3, shall open on signal; except that, from 7 a.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need open only on the hour and half hour. On Saturday, Sunday and Federal holidays, from 7 a.m. to 6 p.m., the draw need open only on the hour, quarter hour, half hour and three quarter hour.

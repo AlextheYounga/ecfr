@@ -44,7 +44,7 @@
 
 (v) An allocation with respect to the exercise of a noncompensatory option described in § 1.704-1(b)(2)(iv)(*s*); and
 
-(vi) An allocation of partnership level ordinary income or loss described in § 1.751-1(a)(3).
+(vi) An allocation of partnership level ordinary income or loss described in § 1.751-1(b)(3).
 
 (11) *Related foreign person.* A related foreign person is, with respect to a U.S. transferor, a related person (other than a partnership) that is not a U.S. person.
 
@@ -86,4 +86,4 @@
 
 (f) *Expiration date.* The applicability of this section expires on January 17, 2020.
 
-[T.D. 9814, 82 FR 7599, Jan. 19, 2017]
+[T.D. 9814, 82 FR 7599, Jan. 19, 2017; 82 FR 41885, Sept. 5, 2017]

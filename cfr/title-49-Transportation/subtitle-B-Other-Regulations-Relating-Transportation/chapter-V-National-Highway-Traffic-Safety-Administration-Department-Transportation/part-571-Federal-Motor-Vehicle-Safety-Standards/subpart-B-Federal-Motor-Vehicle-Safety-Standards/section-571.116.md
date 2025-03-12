@@ -66,11 +66,9 @@ S5.1.5.1 *High-temperature stability.* When brake fluid is tested according to S
 
 S5.1.5.2 *Chemical stability.* When brake fluid, except DOT 5 SBBF, is tested according to S6.5.4, the change in temperature of the refluxing fluid mixture shall not exceed 3.0 °C (5.4 °F.) plus 0.05° for each degree that the ERBP of the fluid exceeds 225 °C (437 °F.).
 
-S5.1.6 *Corrosion.* When brake fluid is tested according to S6.6 -
+S5.1.6 *Corrosion.* When brake fluid is tested according to S6.6—
 
 (a) The metal test strips shall not show weight changes exceeding the limits stated in Table I.
-
-Table I
 
 |     Test strip material     |Maximum permissible weight change, mg./sq. cm. of surface|
 |-----------------------------|---------------------------------------------------------|
@@ -94,15 +92,13 @@ Table I
 
 (i) The base diameter of the cups shall not increase by more than 1.4 mm. (0.055 inch).
 
-S5.1.7 *Fluidity and appearance at low temperature.* When brake fluid is tested according to S6.7, at the storage temperature and for the storage times given in Table II -
+S5.1.7 *Fluidity and appearance at low temperature.* When brake fluid is tested according to S6.7, at the storage temperature and for the storage times given in Table II—
 
 (a) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 
 (b) Upon inversion of the sample bottle, the time required for the air bubble to travel to the top of the fluid shall not exceed the bubble flow times shown in Table II; and
 
 (c) On warming to room temperature, the fluid shall resume the appearance and fluidity that it had before chilling.
-
-Table II - Fluidity and Appearance at Low Temperatures
 
 |        Storage temperature        |Storage time (hours)|Maximum bubble flow time (seconds)|
 |-----------------------------------|--------------------|----------------------------------|
@@ -111,7 +107,7 @@ Table II - Fluidity and Appearance at Low Temperatures
 
 S5.1.8 [Reserved]
 
-S5.1.9 *Water tolerance.* (a) *At low temperature.* When brake fluid is tested according to S6.9.3(a) -
+S5.1.9 *Water tolerance.* (a) *At low temperature.* When brake fluid is tested according to S6.9.3(a)—
 
 (1) The fluid shall show no sludging, sedimentation, crystallization, or stratification;
 
@@ -119,7 +115,7 @@ S5.1.9 *Water tolerance.* (a) *At low temperature.* When brake fluid is tested a
 
 (3) If cloudiness has developed, the wet fluid shall regain its original clarity and fluidity when warmed to room temperature; and
 
-(b) *At 60* °*C. (140* °*F.).* When brake fluid is tested according to S6.9.3(b) -
+(b) *At 60* °*C. (140* °*F.).* When brake fluid is tested according to S6.9.3(b)—
 
 (1) The fluid shall show no stratification; and
 
@@ -129,13 +125,13 @@ S5.1.10 *Compatibility.*
 
 (a) *At low temperature.* When brake fluid is tested according to S6.10.3(a), the test specimen shall show no sludging, sedimentation, or crystallization. In addition, fluids, except DOT 5 SBBF, shall show no stratification.
 
-(b) *At 60 °C.* (*140 °F.*). When brake fluid is tested according to S6.10.3(b) -
+(b) *At 60 °C.* (*140 °F.*). When brake fluid is tested according to S6.10.3(b)—
 
 (1) Sedimentation shall not exceed 0.05 percent by volume after centrifuging; and
 
 (2) Fluids, except DOT 5 SBBF, shall show no stratification.
 
-S5.1.11 *Resistance to oxidation.* When brake fluid is tested according to S6.11 -
+S5.1.11 *Resistance to oxidation.* When brake fluid is tested according to S6.11—
 
 (a) The metal test strips outside the areas in contact with the tinfoil shall not show pitting or etching to an extent discernible without magnification;
 
@@ -145,7 +141,7 @@ S5.1.11 *Resistance to oxidation.* When brake fluid is tested according to S6.11
 
 (d) The cast iron strips shall not change in weight by more than 0.3 mg./sq. cm.
 
-S5.1.12 *Effects on cups.* When brake cups are subjected to brake fluid in accordance with S6.12 -
+S5.1.12 *Effects on cups.* When brake cups are subjected to brake fluid in accordance with S6.12—
 
 (a) The increase in the diameter of the base of the cups shall be not less than 0.15 mm. (0.006 inch) or more than 1.40 mm. (0.055 inch);
 
@@ -153,7 +149,7 @@ S5.1.12 *Effects on cups.* When brake cups are subjected to brake fluid in accor
 
 (c) The cups shall show no disintegration as evidenced by stickiness, blisters, or sloughing.
 
-S5.1.13 *Stroking properties.* When brake fluid is tested according to S6.13 -
+S5.1.13 *Stroking properties.* When brake fluid is tested according to S6.13—
 
 (a) Metal parts of the test system shall show no pitting or etching to an extent discernible without magnification;
 
@@ -181,7 +177,7 @@ S5.1.13 *Stroking properties.* When brake fluid is tested according to S6.13 -
 
 S5.1.14 *Fluid color.* Brake fluid and hydraulic system mineral oil shall be of the color indicated:
 
-DOT 3, DOT 4, and DOT 5.1 non-SBBF - colorless to amber.DOT 5 SBBF - purple.Hydraulic system mineral oil - green.
+DOT 3, DOT 4, and DOT 5.1 non-SBBF—colorless to amber.DOT 5 SBBF—purple.Hydraulic system mineral oil—green.
 
 S5.2 *Packaging and labeling requirements for motor vehicle brake fluids.*
 
@@ -209,7 +205,7 @@ S5.2.2.2 Each packager of brake fluid shall furnish the information specified in
 
 (d) A serial number identifying the packaged lot and date of packaging.
 
-(e) Designation of the contents as “DOT - MOTOR VEHICLE BRAKE FLUID” (Fill in DOT 3, DOT 4, DOT 5 SILICONE BASE, or DOT 5.1 NON-SILICONE BASE as applicable).
+(e) Designation of the contents as “DOT—MOTOR VEHICLE BRAKE FLUID” (Fill in DOT 3, DOT 4, DOT 5 SILICONE BASE, or DOT 5.1 NON-SILICONE BASE as applicable).
 
 (f) The minimum wet boiling point in Fahrenheit of the DOT brake fluid in the container.
 
@@ -253,7 +249,7 @@ S6.1 *Equilibrium reflux boiling point.* Determine the ERBP of a brake fluid by 
 
 S6.1.1 *Summary of procedure.* Sixty milliliters (ml.) of brake fluid are boiled under specified equilibrium conditions (reflux) at atmospheric pressure in a 100-ml. flask. The average temperature of the boiling fluid at the end of the reflux period, corrected for variations in barometric pressure if necessary, is the ERBP.
 
-S6.1.2 *Apparatus.* (See Figure 1) The test apparatus shall consist of -
+S6.1.2 *Apparatus.* (See Figure 1) The test apparatus shall consist of—
 
 (a) *Flask.* (See Figure 2) A 100-ml. round-bottom, short-neck heat-resistant glass flask having a neck with a19/38 standard taper, female ground-glass joint and a side-entering tube, with an outside diameter of 10 millimeters (mm.), which centers the thermometer bulb in the flask 6.5 mm. from the bottom;
 
@@ -265,7 +261,7 @@ S6.1.2 *Apparatus.* (See Figure 1) The test apparatus shall consist of -
 
 (e) *Heat source.* Variable autotransformer-controlled heating mantle designed to fit the flask, or an electric heater with rheostat heat control.
 
-![](/graphics/ec01au91.043.gif)Fig. 1 - Boiling Point Test Apparatus![](/graphics/ec01au91.044.gif)Fig. 2 - Detail of 100 ml Short-Neck Flask
+![](/graphics/ec01au91.043.gif)Fig. 1—Boiling Point Test Apparatus![](/graphics/ec01au91.044.gif)Fig. 2—Detail of 100 ml Short-Neck Flask
 
 S6.1.3 *Preparation of apparatus.* (a) Thoroughly clean and dry all glassware.
 
@@ -281,15 +277,12 @@ S6.1.5 *Calculation.* (a) *Thermometer inaccuracy.* Correct the observed ERBP by
 
 (b) *Variation from standard barometric pressure.* Apply the factor shown in Table III to calculate the barometric pressure correction to the ERBP.
 
-Table III - Correction for Barometric Pressure
-
-|Observed ERBP corrected for thermometer inaccuracy|Correction per 1 mm difference in pressure<sup>a</sup>|      |
-|--------------------------------------------------|------------------------------------------------------|------|
-|                       °C.                        |                        (°F.)                         |      |
-|      100 °C. (212 °F.) to 190 °C. (374 °F.)      |                        0.039                         |(0.07)|
-|              Over 190 °C. (374 °F.)              |                         0.04                         |(0.08)|
-
-<sup>a</sup> To be added in case barometric pressure is below 760 mm.; to be subtracted in case barometric pressure is above 670 mm.
+|                                         Observed ERBP corrected for thermometer inaccuracy                                         |Correction per 1 mm difference in pressure <sup>a</sup>|      |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------|
+|                                                                °C.                                                                 |                         (°F.)                         |      |
+|                                               100 °C. (212 °F.) to 190 °C. (374 °F.)                                               |                         0.039                         |(0.07)|
+|                                                       Over 190 °C. (374 °F.)                                                       |                         0.04                          |(0.08)|
+|<sup>a</sup> To be added in case barometric pressure is below 760 mm.; to be subtracted in case barometric pressure is above 670 mm.|                                                       |      |
 
 (c) If the two corrected observed ERBP's agree within 2 °C. (4 °C. for brake fluids having an ERBP over 230 °C./446 °F.) average the duplicate runs as the ERBP; otherwise, repeat the entire test, averaging the four corrected observed values to determine the original ERBP.
 
@@ -299,7 +292,7 @@ S6.2.1. *Summary of procedure.* A 350 ml. sample of the brake fluid is humidifie
 
 S6.2.2 *Apparatus for humidification.* (See Figure 3).
 
-Test apparatus shall consist of -
+Test apparatus shall consist of—
 
 (a) *Glass jars.* Four SAE RM-49 corrosion test jars or equivalent screwtop, straight-sided, round glass jars each having a capacity of about 475 ml. and approximate inner dimensions of 100 mm. in height by 75 mm. in diameter, with matching lids having new, clean inserts providing water-vapor-proof seals;
 
@@ -330,8 +323,6 @@ S6.3.2 *Apparatus.*
 (c) *Viscometer bath.* A transparent liquid bath of sufficient depth such that at no time during the measurement will any portion of the sample in the viscometer be less than 2 cm. below the surface or less than 2 cm. above the bottom. The bath shall be cylindrical in shape, with turbulent agitation sufficient to meet the temperature control requirements. For measurements within 15° to 100 °C. (60° to 212 °F.) the temperature of the bath medium shall not vary by more than 0.01 °C. (0.02 °F.) over the length of the viscometers, or between the positions of the viscometers, or at the locations of the thermometers. Outside this range, the variation shall not exceed 0.03 °C. (0.05 °F.).
 
 (d) *Thermometers.* Liquid-in-Glass Kinematic Viscosity Test Thermometers, covering the range of test temperatures indicated in Table IV and conforming to ASTM E1-68 (incorporated by reference, see § 571.5), and in the IP requirements for IP Standard Thermometers. Use two standardized thermometers in the bath.
-
-Table IV - Kinematic Viscosity Thermometers
 
 |   Temperature range    |      For tests at      |Subdivisions|Thermometer number|    |   |    |           |
 |------------------------|------------------------|------------|------------------|----|---|----|-----------|
@@ -480,13 +471,13 @@ S6.6.4 *Preparation.*
 
 (a) *Corrosion test strips.* Except for the tinned iron strips, abrade corrosion test strips on all surface areas with 320A silicon carbide paper wet with ethanol (isopropanol when testing DOT 5 SBBF fluids) until all surface scratches, cuts and pits visible to an observer having corrected visual acuity of 20/40 (Snellen ratio) at a distance of 300 mm (11.8 inches) are removed. Use a new piece of paper for each different type of metal. Except for the tinned iron strips, further abrade the test strips on all surface areas with 1200 silicon carbide paper wet with ethanol (isopropanol when testing DOT 5 SBBF fluids), again using a new piece of paper for each different type of metal. Handle the strips with forceps after polishing. Weigh and record the weight of each strip to the nearest 0.1 mg. Assemble the strips on a clean dry machine screw, with matching plain nut, in the order of tinned iron, steel, aluminum, cast iron, brass, and copper. Bend the strips, other than the cast iron, so that there is a separation of 3 ±1/2 mm. (1/8 ±1/64 inch) between adjacent strips for a distance of about 5 cm. (2 inches) from the free end of the strips. (See Figure 4.) Tighten the screw on each test strip assembly so that the strips are in electrolytic contact, and can be lifted by either of the outer strips (tinned iron or copper) without any of the strips moving relative to the others when held horizontally. Immerse the strip assemblies in 90 percent ethyl alcohol. Dry with dried filtered compressed air, then desiccate at least 1 hour before use.
 
-![](/graphics/ec01au91.046.gif)Fig. 4 - Corrosion Strip Assembly
+![](/graphics/ec01au91.046.gif)Fig. 4—Corrosion Strip Assembly
 
 (b) *SBR WC cups.* Measure the base diameters of the two standard SBR cups, using an optical comparator or micrometer, to the nearest 0.02 mm. (0.001 inch) along the centerline of the SAE and rubber-type identifications and at right angles to this centerline. Take the measurements at least 0.4 mm. (0.015 inch) above the bottom edge and parallel to the base of the cup. Discard any cup if the two measured diameters differ by more than 0.08 mm. (0.003 inch). Average the two readings on each cup. Determine the hardness of the cups according to S7.4.
 
 S6.6.5 *Procedure.* Rinse the cups in ethanol (isopropanol when testing DOT 5 SBBF fluids) for not more than 30 seconds and wipe dry with a clean lint-free cloth. Place one cup with lip edge facing up, in each jar. Insert a metal strip assembly inside each cup with the fastened end down and the free end extending upward. (See Figure 5.) When testing brake fluids, except DOT 5 SBBF, mix 760 ml. of brake fluid with 40 ml. of distilled water. When testing DOT 5 SBBF's, humidify 800 ml. of brake fluid in accordance with S6.2, eliminating determination of the ERBP. Using this water-wet mixture, cover each strip assembly to a minimum depth of 10 mm. above the tops of the strips. Tighten the lids and place the jars for 120 ±2 hours in an oven maintained at 100° ±2 °C. (212° ±3.6 °F.). Allow the jars to cool at 23° ±5 °C. (73.4° ±9 °F.) for 60 to 90 minutes. Immediately remove the strips from the jars using forceps, agitating the strip assembly in the fluid to remove loose adhering sediment. Examine the test strips and jars for adhering crystalline deposits. Disassemble the metal strips, and remove adhering fluid by flushing with water; clean each strip by wiping with a clean cloth wetted with ethanol (isopropanol when testing DOT 5 fluids). Examine the strips for evidence of corrosion and pitting. Disregard staining or discoloration. Place the strips in a desiccator containing silica gel or other suitable desiccant, maintained at 23° ±5 °C. (73.4° ±9 °F.), for at least 1 hour. Weigh each strip to the nearest 0.1 mg. Determine the change in weight of each metal strip. Average the results for the two strips of each type of metal. Immediately following the cooling period, remove the cups from the jars with forceps. Remove loose adhering sediment by agitation of the cups in the mixture. Rinse the cups in ethanol (isopropanol when testing DOT 5 fluids) and air-dry. Examine the cups for evidence of sloughing, blisters, and other forms of disintegration. Measure the base diameter and hardness of each cup within 15 minutes after removal from the mixture. Examine the mixture for gelling. Agitate the mixture to suspend and uniformly disperse sediment. From each jar, transfer a 100 ml. portion of the mixture to an ASTM cone-shaped centrifuge tube. Determine the percent sediment after centrifuging as described in S7.5. Measure the pH value of the corrosion text fluid according to S6.4.6. Measure the pH value of the test mixture according to S6.4.6.
 
-![](/graphics/ec01au91.047.gif)Fig. 5 - Corrosion Test Apparatus
+![](/graphics/ec01au91.047.gif)Fig. 5—Corrosion Test Apparatus
 
 S6.6.6 *Calculation.* (a) Measure the area of each type of test strip to the nearest square centimeter. Divide the average change in mass for each type by the area of that type.
 
@@ -704,9 +695,7 @@ S7.5.1 *Apparatus.*
 
 (a) *Centrifuge tube.* Cone-shaped centrifuge tubes conforming to the dimensions given in Figure 6, and made of thoroughly annealed glass. The graduations shall be numbered as shown in Figure 6, and shall be clear and distinct. Scale-error tolerances and smallest graduations between various calibration marks are given in Table V and apply to calibrations made with air-free water at 20 °C. (68 °F.).
 
-![](/graphics/ec01au91.048.gif)Fig. 6 - ASTM 8-in. Centrifuge Tube
-
-Table V - Calibration Tolerances for 8-Inch Centrifuge Tube
+![](/graphics/ec01au91.048.gif)Fig. 6—ASTM 8-in. Centrifuge Tube
 
 |   Range, ml    |Subdivision, ml|Volume tolerance, ml|
 |----------------|---------------|--------------------|
@@ -727,16 +716,13 @@ r.p.m. = 265[√25.4 × r.c.f./d]Where:r.c.f. = Relative centrifugal force, andd
 
 Table VI shows the relationship between diameter, swing, relative centrifugal force (r.c.f.), and revolutions per minute.
 
-Table VI - Rotation Speeds for Centrifuges of Various Diameters
-
-|Diameter of swing in millimeters<sup>a</sup>|r.p.m. at 600 r.c.f|r.p.m. at 700 r.c.f.|
-|--------------------------------------------|-------------------|--------------------|
-|                    483                     |       1490        |        1610        |
-|                    508                     |       1450        |        1570        |
-|                    533                     |       1420        |        1530        |
-|                    559                     |       1390        |        1500        |
-
-<sup>a</sup> Measured in millimeters between tips of opposite tubes when in rotating position.
+|                        Diameter of swing in millimeters <sup>a</sup>                         |r.p.m. at 600 r.c.f|r.p.m. at 700 r.c.f.|
+|----------------------------------------------------------------------------------------------|-------------------|--------------------|
+|                                             483                                              |       1490        |        1610        |
+|                                             508                                              |       1450        |        1570        |
+|                                             533                                              |       1420        |        1530        |
+|                                             559                                              |       1390        |        1500        |
+|<sup>a</sup> Measured in millimeters between tips of opposite tubes when in rotating position.|                   |                    |
 
 S7.5.2 *Procedure.* Balance the corked centrifuge tubes with their respective trunnion cups in pairs by weight on a scale, according to the centrifuge manufacturer's instructions, and place them on opposite sides of the centrifuge head. Use a dummy assembly when one sample is tested. Then whirl them for 10 minutes, at a rate sufficient to produce a r.c.f. between 600 and 700 at the tips of the whirling tubes. Repeat until the volume of sediment in each tube remains constant for three consecutive readings.
 
@@ -744,28 +730,23 @@ S7.5.3 *Calculation.* Read the volume of the solid sediment at the bottom of the
 
 S7.6 *Standard styrene-butadiene rubber* (*SBR*) *brake cups.* SBR brake cups for testing motor vehicle brake fluids shall be manufactured using the following formulation:
 
-Formulation of Rubber Compound
+|                                                          Ingredient                                                           |Parts by weight|
+|-------------------------------------------------------------------------------------------------------------------------------|---------------|
+|                                                  SBR type 1503 <sup>a</sup>                                                   |      100      |
+|                                                  Oil furnace black (NBS 378)                                                  |      40       |
+|                                                     Zinc oxide (NBS 370)                                                      |       5       |
+|                                                       Sulfur (NBS 371)                                                        |     0.25      |
+|                                                    Stearic Acid (NBS 372)                                                     |       1       |
+|                                    n-tertiary butyl-2-benzothiazole sulfenamide (NBS 384)                                     |       1       |
+|                                         Symmetrical dibetanaphthyl-p-phenylenediamine                                         |      1.5      |
+|                          Dicumyl peroxide (40 percent on precipitated CaCO<sub>3</sub>) <sup>b</sup>                          |      4.5      |
+|                                                             Total                                                             |    153.25     |
+|                                     <sup>a</sup> Philprene 1503 has been found suitable.                                      |               |
+|              <sup>b</sup> Use only within 90 days of manufacture and store at temperature below 27 °C. (80 °F.).              |               |
+|**Note:** The ingredients labeled (NBS) must have properties identical with those supplied by the National Bureau of Standards.|               |
 
-|                          Ingredient                           |Parts by weight|
-|---------------------------------------------------------------|---------------|
-|                   SBR type 1503<sup>a</sup>                   |      100      |
-|                  Oil furnace black (NBS 378)                  |      40       |
-|                     Zinc oxide (NBS 370)                      |       5       |
-|                       Sulfur (NBS 371)                        |     0.25      |
-|                    Stearic Acid (NBS 372)                     |       1       |
-|    n-tertiary butyl-2-benzothiazole sulfenamide (NBS 384)     |       1       |
-|         Symmetrical dibetanaphthyl-p-phenylenediamine         |      1.5      |
-|Dicumyl peroxide (40 percent on precipitated CaCO3)<sup>b</sup>|      4.5      |
-|                             Total                             |    153.25     |
-
-<sup>a</sup> Philprene 1503 has been found suitable.
-
-<sup>b</sup> Use only within 90 days of manufacture and store at temperature below 27 °C. (80 °F.).
-
-Note: The ingredients labeled (NBS) must have properties identical with those supplied by the National Bureau of Standards.
-
-Compounding, vulcanization, physical properties, size of the finished cups, and other details shall be as specified in appendix B of SAE Standard J1703b (1970) (incorporated by reference, see § 571.5). The cups shall be used in testing brake fluids either within 6 months from date of manufacture when stored at room temperature below 30 °C. (86 °F.) or within 36 months from date of manufacture when stored at temperatures below minus 15 °C. ( + 5 °F.). After removal of cups from refrigeration they shall be conditioned base down on a flat surface for at least 12 hours at room temperature in order to allow cups to reach their true configuration before measurement.
+Compounding, vulcanization, physical properties, size of the finished cups, and other details shall be as specified in appendix B of SAE Standard J1703b (1970) (incorporated by reference, see § 571.5). The cups shall be used in testing brake fluids either within 6 months from date of manufacture when stored at room temperature below 30 °C. (86 °F.) or within 36 months from date of manufacture when stored at temperatures below minus 15 °C. (+5 °F.). After removal of cups from refrigeration they shall be conditioned base down on a flat surface for at least 12 hours at room temperature in order to allow cups to reach their true configuration before measurement.
 
 S7.7 *Isopropanol.* ACS or reagent grade.
 
-[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.116, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.116, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

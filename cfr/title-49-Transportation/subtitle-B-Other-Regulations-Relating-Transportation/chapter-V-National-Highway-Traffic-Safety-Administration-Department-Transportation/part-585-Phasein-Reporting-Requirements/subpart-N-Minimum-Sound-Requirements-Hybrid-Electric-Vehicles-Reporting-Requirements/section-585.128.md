@@ -1,0 +1,3 @@
+##### § 585.128 Scope. #####
+
+This subpart establishes requirements for manufacturers of hybrid and electric passenger cars, trucks, buses, multipurpose passenger vehicles, and low-speed vehicles to submit a report, and maintain records related to the report, concerning the number of such vehicles that meet minimum sound requirements of Standard No. 141, Minimum Sound Requirements for Hybrid and Electric Vehicles (49 CFR 571.141).

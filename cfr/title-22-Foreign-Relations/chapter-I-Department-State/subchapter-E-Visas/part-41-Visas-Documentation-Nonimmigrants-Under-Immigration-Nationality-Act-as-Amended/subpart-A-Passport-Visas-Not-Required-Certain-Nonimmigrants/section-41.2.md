@@ -1,5 +1,7 @@
 ##### § 41.2 Exemption or waiver by Secretary of State and Secretary of Homeland Security of passport and/or visa requirements for certain categories of nonimmigrants. #####
 
+Link to an amendment published at 82 FR 41885, Sept. 5, 2017.
+
 Pursuant to the authority of the Secretary of State and the Secretary of Homeland Security under the INA, as amended, a passport and/or visa is not required for the following categories of nonimmigrants:
 
 (a) *Canadian citizens.* A visa is not required for an American Indian born in Canada having at least 50 percentum of blood of the American Indian race. A visa is not required for other Canadian citizens except for those who apply for admission in E, K, V, or S nonimmigrant classifications as provided in paragraphs (k) and (m) of this section and 8 CFR 212.1. A passport is required for Canadian citizens applying for admission to the United States, except when one of the following exceptions applies:

@@ -1,14 +1,12 @@
 ##### § 571.500 Standard No. 500; Low-speed vehicles. #####
 
-Link to an amendment published at 81 FR 90521, Dec. 14, 2016.This amendment was delayed until Mar. 21, 2017, at 81 FR 9366, Feb. 6, 2017.This amendment was further delayed until May 22, 2017, at 82 FR 14477, Mar. 21, 2017.This amendment was further delayed until June 5, 2017, at 82 FR 23150, May 22, 2017.This amendment was further delayed until Sept. 5, 2017, at 82 FR 26360, June 7, 2017.
-
 S1. *Scope.* This standard specifies requirements for low-speed vehicles.
 
 S2. *Purpose.* The purpose of this standard is to ensure that low-speed vehicles operated on the public streets, roads, and highways are equipped with the minimum motor vehicle equipment appropriate for motor vehicle safety.
 
 S3. *Applicability.* This standard applies to low-speed vehicles.
 
-S4. [Reserved.]
+S4. [Reserved]
 
 S5. *Requirements.*
 
@@ -37,6 +35,8 @@ S5. *Requirements.*
 (10) A Type 1 or Type 2 seat belt assembly conforming to Sec. 571.209 of this part, Federal Motor Vehicle Safety Standard No. 209, *Seat belt assemblies,* installed at each designated seating position.
 
 (11) Low-speed vehicles shall comply with the rear visibility requirements specified in paragraphs S6.2 of FMVSS No. 111.
+
+(12) An alert sound as required by § 571.141.
 
 S6. *General test conditions.* Each vehicle must meet the performance limit specified in S5(a) under the following test conditions.
 
@@ -70,4 +70,4 @@ S6.3.6. *Battery powered vehicles.* Prior to beginning the performance tests, pr
 
 S7. *Test procedure.* Each vehicle must meet the performance limit specified in S5(a) under the following test procedure. The maximum speed performance is determined by measuring the maximum attainable vehicle speed at any point in a distance of 1.6 km (1.0 mile) from a standing start and repeated in the opposite direction within 30 minutes.
 
-[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014]
+[63 FR 33216, June 17, 1998, as amended at 68 FR 43972, July 25, 2003; 79 FR 19249, Apr. 7, 2014; 81 FR 50521, Dec. 14, 2016]

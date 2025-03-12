@@ -1,7 +1,5 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 81 FR 90514, Dec. 14, 2016.This amendment was delayed until Mar. 21, 2017, at 81 FR 9366, Feb. 6, 2017.This amendment was further delayed until May 22, 2017, at 82 FR 14477, Mar. 21, 2017.This amendment was further delayed until June 5, 2017, at 82 FR 23150, May 22, 2017.This amendment was further delayed until Sept. 5, 2017, at 82 FR 26360, June 7, 2017.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at NHTSA, 1200 New Jersey Avenue SE., Washington, DC 20590, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NHTSA, or if you experience difficulty obtaining the standards referenced below, contact NHTSA Office of Technical Information Services, phone number (202) 366-2588. For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *http://www.aatcc.org.*
@@ -12,13 +10,15 @@ Link to an amendment published at 81 FR 90514, Dec. 14, 2016.This amendment was 
 
 (c) American National Standards Institute (ANSI), 1899 L St., NW., 11th floor, Washington, DC 20036. Telephone: (202) 293-8020; Fax: (202) 293-9287; Web site: *http://www.ansi.org.* Copies of ANSI/RESNA Standard WC/Vol.1-1998 Section 13 may also be obtained from Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), 1700 North Moore St., Suite 1540, Arlington, VA 22209-1903. Telephone: (703) 524-6686; Web site *http://www.resna.org.*
 
-(1) ANSI Z26.1-1977, “Safety Code for Safety Glazing Materials for Glazing Motor Vehicles Operating on Land Highways,” approved January 26, 1977, into § 571.205(a).
+(1) ANSI S1.11-2004, “Specification for Octave-Band and Fractional-Octave-Band Analog and Digital Filters,” approved February 19, 2004, into § 571.141.
 
-(2) ANSI Z26.1a-1980, “Safety Code for Safety Glazing Materials for Glazing Motor Vehicles Operating on Land Highways,” approved July 3, 1980, into § 571.205(a).
+(2) ANSI Z26.1-1977, “Safety Code for Safety Glazing Materials for Glazing Motor Vehicles Operating on Land Highways,” approved January 26, 1977, into § 571.205(a).
 
-(3) ANSI/SAE Z26.1-1996, “American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways-Safety Standard,” approved August 11, 1997, into § 571.205.
+(3) ANSI Z26.1a-1980, “Safety Code for Safety Glazing Materials for Glazing Motor Vehicles Operating on Land Highways,” approved July 3, 1980, into § 571.205(a).
 
-(4) ANSI/RESNA Standard WC/Vol. 1-1998, Section 13, “Wheelchairs: Determination of Coefficient of Friction of Test Surfaces,” into § 571.403.
+(4) ANSI/SAE Z26.1-1996, “American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways-Safety Standard,” approved August 11, 1997, into § 571.205.
+
+(5) ANSI/RESNA Standard WC/Vol. 1-1998, Section 13, “Wheelchairs: Determination of Coefficient of Friction of Test Surfaces,” into § 571.403.
 
 (d) ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. Telephone: (610) 832-9500; Fax (610) 832-9555; Web site: *http://www.astm.org.*
 
@@ -128,7 +128,11 @@ Link to an amendment published at 81 FR 90514, Dec. 14, 2016.This amendment was 
 
 (1) ISO 7117:1995(E), “Motorcycles - Measurement of maximum speed,” Second edition, March 1, 1995, into § 571.122.
 
-(2) [*Reserved*]
+(2) ISO 10844:1994(E) “Acoustics - Test Surface for Road Vehicle Noise Measurements,” First edition, 1994-09-01, into § 571.141.
+
+(3) ISO 10844: 2011(E) “Acoustics - Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Second edition, 2011-02-01 into § 571.141.
+
+(4) ISO 10844: 2014(E) “Acoustics - Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Third edition, 2014-05-15 into § 571.141.
 
 (j) National Center for Health Statistics, Centers for Disease Control (CDC), National Division for Health Statistics, Division of Data Services, Hyattsville, MD 20782. Telephone: 1 (800) 232-4636. Web site: *http://www.cdc.gov/nchs.*
 
@@ -244,7 +248,9 @@ Link to an amendment published at 81 FR 90514, Dec. 14, 2016.This amendment was 
 
 (48) SAE Recommended Practice J2009, “Discharge Forward Lighting Systems,” revised February 1993, into § 571.108.
 
-(49) SAE Aerospace-Automotive Drawing Standards, issued September 1963, into §§ 571.104; 571.202.
+(49) SAE Standard J2889-1, “Measurement of Minimum Noise Emitted by Road Vehicles,” December 2014 into § 571.141.
+
+(50) SAE Aerospace-Automotive Drawing Standards, issued September 1963, into §§ 571.104; 571.202.
 
 (m) United Nations Economic Commission for Europe (UNECE), United Nations, Conference Services Division, Distribution and Sales Section, Office C.115-1, Palais des Nations, CH-1211, Geneva 10, Switzerland. Web site: *www.unece.org/trans/main/wp29/wp29regs.html.*
 
@@ -252,4 +258,4 @@ Link to an amendment published at 81 FR 90514, Dec. 14, 2016.This amendment was 
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016]

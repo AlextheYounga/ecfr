@@ -70,7 +70,7 @@
 
 (d) *Reporting and procedural requirements of a section 721(c) partnership with a section 6031 filing obligation* - (1) *Waiver of treaty benefits.* A section 721(c) partnership with a return filing obligation under section 6031 must include its waiver of treaty benefits described in paragraph (c)(1) of this section with its tax return for the taxable year that includes the date of the gain deferral contribution.
 
-(2) *Information on Schedule K-1.* A section 721(c) partnership with a return filing obligation under section 6031 must provide the relevant information necessary for the U.S. transferor to comply with the requirements in paragraphs (b)(2) and (3) of this section with the U.S. transferor's Schedule K-1 (Form 1065), Partner's Share of Income, Deductions, Credits, etc. The partnership must also attach to its Form 1065 a Schedule K-1 (Form 1065) for each partner that is a related foreign person with respect to the U.S. transferor.
+(2) *Information on Schedule K-1.* A section 721(c) partnership with a return filing obligation under section 6031 must provide the relevant information necessary for the U.S. transferor to comply with the requirements in paragraphs (b)(2) and (3) of this section with the U.S. transferor's Schedule K-1 (Form 1065), Partner's Share of Income, Deductions, Credits, etc. The partnership must also attach to its Form 1065 a Schedule K-1 (Form 1065) for each direct or indirect partner that is a related foreign person with respect to the U.S. transferor.
 
 (e) *Signatory.* The statements required in this section must be signed under penalties of perjury by an agent of the U.S. transferor, the related foreign person that is a direct or indirect partner in the section 721(c) partnership, or the section 721(c) partnership, as applicable, that is authorized to sign under a general or specific power of attorney, or by an appropriate party. For the U.S. transferor, an appropriate party is a person described in § 1.367(a)-8(e)(1). For a partnership with a section 6031 filing obligation, an appropriate party is any party authorized to sign Form 1065.
 
@@ -88,4 +88,4 @@
 
 (h) *Expiration date.* The applicability of this section expires on January 17, 2020.
 
-[T.D. 9814, 82 FR 7606, Jan. 19, 2017]
+[T.D. 9814, 82 FR 7606, Jan. 19, 2017; 82 FR 41885, Sept. 5, 2017]
