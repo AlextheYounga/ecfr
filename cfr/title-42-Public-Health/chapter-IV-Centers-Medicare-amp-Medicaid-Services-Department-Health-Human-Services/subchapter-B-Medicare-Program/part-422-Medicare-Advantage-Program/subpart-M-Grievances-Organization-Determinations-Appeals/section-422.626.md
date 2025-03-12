@@ -1,7 +1,5 @@
 ##### § 422.626 Fast-track appeals of service terminations to independent review entities (IREs). #####
 
-Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
-
 (a) *Enrollee's right to a fast-track appeal of an MA organization's termination decision.* An enrollee of an MA organization has a right to a fast-track appeal of an MA organization's decision to terminate provider services.
 
 (1) An enrollee who desires a fast-track appeal must submit a request for an appeal to an IRE under contract with CMS, in writing or by telephone, by noon of the first day after the day of delivery of the termination notice. If, due to an emergency, the IRE is closed and unable to accept the enrollee's request for a fast-track appeal, the enrollee must file a request by noon of the next day that the IRE is open for business.
@@ -54,8 +52,8 @@ Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
 
 (2) The IRE must issue its reconsidered determination as expeditiously as the enrollee's health condition requires but no later than within 14 days of receipt of the enrollee's request for a reconsideration.
 
-(3) If the IRE reaffirms its decision, in whole or in part, the enrollee may appeal the IRE's reconsidered determination to an ALJ, the MAC, or a Federal court, as provided for under this subpart.
+(3) If the IRE reaffirms its decision, in whole or in part, the enrollee may appeal the IRE's reconsidered determination to OMHA for an ALJ hearing, the Council, or a Federal court, as provided for under this subpart.
 
 (4) If on reconsideration the IRE determines that coverage of provider services should terminate on a given date, the enrollee is liable for the costs of continued services after that date unless the IRE's decision is reversed on appeal. If the IRE's decision is reversed on appeal, the MA organization must reimburse the enrollee, consistent with the appealed decision, for the costs of any covered services for which the enrollee has already paid the MA organization or provider.
 
-[68 FR 16667, Apr. 4, 2003, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011]
+[68 FR 16667, Apr. 4, 2003, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 82 FR 5125, Jan. 17, 2017]

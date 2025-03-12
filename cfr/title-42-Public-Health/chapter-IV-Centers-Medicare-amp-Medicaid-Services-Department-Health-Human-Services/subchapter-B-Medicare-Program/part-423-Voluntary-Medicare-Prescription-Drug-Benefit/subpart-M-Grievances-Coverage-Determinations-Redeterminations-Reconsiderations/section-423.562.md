@@ -1,7 +1,5 @@
 ##### § 423.562 General provisions. #####
 
-Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
-
 (a) *Responsibilities of the Part D plan sponsor.* A Part D plan sponsor must meet all of the following requirements.
 
 (1) A Part D plan sponsor, for each Part D plan that it offers, must establish and maintain -
@@ -44,12 +42,12 @@ Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
 
 (iv) If the IRE affirms the plan's adverse coverage determination, in whole or in part, the right to an ALJ hearing if the amount in controversy meets the requirements in § 423.1970.
 
-(v) If the ALJ affirms the IRE's adverse coverage determination, in whole or in part, the right to request MAC review of the ALJ hearing decision, as specified in § 423.1974.
+(v) If the ALJ or attorney adjudicator affirms the IRE's adverse coverage determination, in whole or in part, the right to request Council review of the ALJ's or attorney adjudicator's decision, as specified in § 423.1974.
 
-(vi) If the MAC affirms the ALJ's adverse coverage determination, in whole or in part, the right to judicial review of the hearing decision if the amount in controversy meets the requirements in § 423.1976.
+(vi) If the Council affirms the ALJ's or attorney adjudicator's adverse coverage determination, in whole or in part, the right to judicial review of the decision if the amount in controversy meets the requirements in § 423.1976.
 
 (c) *When other regulations apply.* Unless this subpart provides otherwise, the regulations in part 422, subpart M of this chapter (concerning the administrative review and hearing processes under titles II and XVIII, and representation of parties under title XVIII of the Act) and any interpretive rules or CMS rulings issued under these regulations, apply under this subpart to the extent they are appropriate.
 
 (d) *Relation to ERISA Requirements.* Consistent with section 1860D-22(b) of the Act, provisions of this subpart may, to the extent applicable under the regulations adopted by the Secretary of Labor, apply to claims for benefits under group health plans subject to the Employee Retirement Income Security Act.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009; 76 FR 21575, Apr. 15, 2011; 80 FR 7965, Feb. 12, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009; 76 FR 21575, Apr. 15, 2011; 80 FR 7965, Feb. 12, 2015; 82 FR 5125, Jan. 17, 2017]

@@ -1,10 +1,8 @@
 ##### § 405.968 Conduct of a reconsideration. #####
 
-Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
-
 (a) *General rules.* (1) A reconsideration consists of an independent, on-the-record review of an initial determination, including the redetermination and all issues related to payment of the claim. In conducting a reconsideration, the QIC reviews the evidence and findings upon which the initial determination, including the redetermination, was based, and any additional evidence the parties submit or that the QIC obtains on its own. If the initial determination involves a finding on whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1862(a)(1)(A) of the Act), a QIC's reconsideration must involve consideration by a panel of physicians or other appropriate health care professionals, and be based on clinical experience, the patient's medical records, and medical, technical, and scientific evidence of record to the extent applicable.
 
-(b) *Authority of the QIC.* (1) National coverage determinations (NCDs), CMS Rulings, and applicable laws and regulations are binding on the QIC.
+(b) *Authority of the QIC.* (1) National coverage determinations (NCDs), CMS Rulings, Council decisions designated by the Chair of the Departmental Appeals Board as having precedential effect under § 401.109 of this chapter, and applicable laws and regulations are binding on the QIC.
 
 (2) QICs are not bound by LCDs, LMRPs, or CMS program guidance, such as program memoranda and manual instructions, but give substantial deference to these policies if they are applicable to a particular case. A QIC may decline to follow a policy, if the QIC determines, either at a party's request or at its own discretion, that the policy does not apply to the facts of the particular case.
 
@@ -20,8 +18,10 @@ Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
 
 (3) Where a claim pertains to the furnishing of treatment by a physician, or the provision of items or services by a physician, a reviewing professional must be a physician.
 
-(d) *Disqualification of a QIC panel member.* No physician or health care professional employed by or otherwise working for a QIC may review determinations regarding -
+(d) *Disqualification of a QIC panel member.* No physician or health care professional employed by or otherwise working for a QIC may review determinations regarding—
 
 (1) Health care services furnished to a patient if that physician or health care professional was directly responsible for furnishing those services; or
 
 (2) Health care services provided in or by an institution, organization, or agency, if that physician or health care professional or any member of the physician's family or health care professional's family has, directly or indirectly, a significant financial interest in that institution, organization, or agency (see the term family member as defined in § 405.902).
+
+[70 FR 11472, Mar. 8, 2005, as amended at 82 FR 5107, Jan. 17, 2017]

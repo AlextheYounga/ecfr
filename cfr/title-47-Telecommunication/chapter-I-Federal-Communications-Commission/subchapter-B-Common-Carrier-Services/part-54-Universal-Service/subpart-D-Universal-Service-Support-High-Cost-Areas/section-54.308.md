@@ -42,7 +42,7 @@
 
 (iii) *Restrictions on deployment obligations.* (A) No rate-of-return carrier shall deploy terrestrial wireline technology in any census block if doing so would result in total support per line in the study area to exceed the $250 per-line per-month cap in § 54.302.
 
-(B) No rate-of-return carrier shall deploy terrestrial wireline technology to unserved locations to meet this obligation if that would exceed the $10,000 per location/per project capital investment allowance set forth in § 54.303.
+(B) No rate-of-return carrier shall deploy terrestrial wireline technology to unserved locations to meet this obligation if that would exceed the per location/per project capital investment allowance set forth in § 54.303(f)(1).
 
 (iv) *Future deployment obligations.* Prior to publishing the deployment obligations for subsequent five-year periods, the Administrator shall update the unseparated average cost per loop amounts for carriers with 95 percent or greater deployment of the then-current standard, based on the then-current NECA cost data, and the Wireline Competition Bureau shall examine the density groupings and make any necessary adjustments based on then-current U.S. Census data.
 
@@ -56,4 +56,4 @@
 
 (2) Offered for the same or a lower rate than the matching plan in the CMA for Anchorage.
 
-[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016]
+[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016; 82 FR 14339, Mar. 20, 2017]

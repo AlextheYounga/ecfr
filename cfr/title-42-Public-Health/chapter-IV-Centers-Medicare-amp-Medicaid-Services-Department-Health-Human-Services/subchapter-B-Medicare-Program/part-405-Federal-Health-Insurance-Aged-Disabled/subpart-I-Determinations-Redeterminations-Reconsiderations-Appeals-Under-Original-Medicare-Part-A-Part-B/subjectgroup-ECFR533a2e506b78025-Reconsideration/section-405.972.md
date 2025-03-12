@@ -1,6 +1,4 @@
-##### § 405.972 Withdrawal or dismissal of a request for a reconsideration. #####
-
-Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
+##### § 405.972 Withdrawal or dismissal of a request for reconsideration or review of a contractor's dismissal of a request for redetermination. #####
 
 (a) *Withdrawing a request.* An appellant that files a request for reconsideration may withdraw its request by filing a written and signed request for withdrawal. The request for withdrawal must -
 
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
 
 (2) When the QIC determines that the party failed to make out a valid request for reconsideration that substantially complies with § 405.964(a) and (b);
 
-(3) When the party fails to file the reconsideration request in accordance with the timeframes established in § 405.962, or fails to file the request for reconsideration of a contractor's dismissal of a redetermination request in accordance with the timeframes established in § 405.974(b)(1);
+(3) When the party fails to file the reconsideration request in accordance with the timeframes established in § 405.962, or fails to file the request for review of a contractor's dismissal of a redetermination request in accordance with the timeframes established in § 405.974(b)(1);
 
 (4) When a beneficiary or the beneficiary's representative files a request for reconsideration, but the beneficiary dies while the request is pending, and all of the following criteria apply:
 
@@ -32,6 +30,6 @@ Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
 
 (d) *Vacating a dismissal.* If good and sufficient cause is established, a QIC may vacate its dismissal of a request for reconsideration within 6 months of the date of the notice of dismissal.
 
-(e) *Effect of dismissal.* The dismissal of a request for reconsideration is binding unless it is modified or reversed by an ALJ under § 405.1004 or vacated under paragraph (d) of this section. The dismissal of a request for reconsideration of a contractor's dismissal of a redetermination request is binding and not subject to further review unless vacated under paragraph (d) of this section.
+(e) *Effect of dismissal.* The dismissal of a request for reconsideration is binding unless it is modified or reversed by an ALJ or attorney adjudicator under § 405.1004 or vacated under paragraph (d) of this section. The dismissal of a request for review of a contractor's dismissal of a redetermination request is binding and not subject to further review unless vacated under paragraph (d) of this section.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65334, Dec. 9, 2009]
+[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65334, Dec. 9, 2009; 82 FR 5107, Jan. 17, 2017]

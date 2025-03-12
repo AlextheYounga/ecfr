@@ -1,7 +1,5 @@
 ##### § 405.1204 Expedited reconsiderations. #####
 
-Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
-
 (a) *Beneficiary's right to an expedited reconsideration.* A beneficiary who is dissatisfied with a QIO's expedited determination may request an expedited reconsideration by the appropriate QIC.
 
 (b) *Requesting an expedited reconsideration.* (1) A beneficiary who wishes to obtain an expedited reconsideration must submit a request for the reconsideration to the appropriate QIC, in writing or by telephone, by no later than noon of the calendar day following initial notification (whether by telephone or in writing) receipt of the QIO's determination. If the QIC is unable to accept the beneficiary's request, the beneficiary must submit the request by noon of the next day the QIC is available to accept a request.
@@ -24,9 +22,9 @@ Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
 
 (ii) An explanation of the Medicare payment consequences of the determination and the beneficiary's date of liability; and
 
-(iii) Information about the beneficiary's right to appeal the QIC's reconsideration decision to an ALJ, including how to request an appeal and the time period for doing so.
+(iii) Information about the beneficiary's right to appeal the QIC's reconsideration decision to OMHA for an ALJ hearing in accordance with subpart I of this part, including how to request an appeal and the time period for doing so.
 
-(5) Unless the beneficiary requests an extension in accordance with paragraph (c)(6) of this section, if the QIC does not issue a decision within 72 hours of receipt of the request, the QIC must notify the beneficiary of his or her right to have the case escalated to the ALJ hearing level if the amount remaining in controversy after the QIO determination is $100 or more.
+(5) Unless the beneficiary requests an extension in accordance with paragraph (c)(6) of this section, if the QIC does not issue a decision within 72 hours of receipt of the request, the QIC must notify the beneficiary of his or her right to have the case escalated to OMHA for an ALJ hearing in accordance with subpart I of this part, if the amount remaining in controversy after the QIO determination meets the requirements for an ALJ hearing under § 405.1006.
 
 (6) A beneficiary requesting an expedited reconsideration under this section may request (either in writing or orally) that the QIC grant such additional time as the beneficiary specifies (not to exceed 14 days) for the reconsideration. If an extension is granted, the deadlines in paragraph (c)(3) of this section do not apply.
 
@@ -37,3 +35,5 @@ Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
 (e) *Responsibilities of the provider.* A provider may, but is not required to, submit evidence to be considered by a QIC in making its decision. If a provider fails to comply with a QIC's request for additional information beyond that furnished to the QIO for purposes of the expedited determination, the QIC makes its reconsideration decision based on the information available.
 
 (f) *Coverage during QIC reconsideration process.* When a beneficiary requests an expedited reconsideration in accordance with the deadline specified in (b)(1) of this section, the provider may not bill the beneficiary for any disputed services until the QIC makes its determination.
+
+[69 FR 69624, Nov. 26, 2004, as amended at 82 FR 5124, Jan. 17, 2017]

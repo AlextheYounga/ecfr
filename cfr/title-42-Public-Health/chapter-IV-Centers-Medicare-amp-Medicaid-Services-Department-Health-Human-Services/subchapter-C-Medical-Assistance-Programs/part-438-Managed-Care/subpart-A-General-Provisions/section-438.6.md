@@ -1,7 +1,5 @@
 ##### § 438.6 Special contract provisions related to payment. #####
 
-Link to an amendment published at 82 FR 5428, Jan. 18, 2017.
-
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
 *Base amount* is the starting amount, calculated according to paragraph (d)(2) of this section, available for pass-through payments to hospitals in a given contract year subject to the schedule in paragraph (d)(3) of this section.
@@ -78,7 +76,15 @@ Link to an amendment published at 82 FR 5428, Jan. 18, 2017.
 
 (D) Does not allow the State to recoup any unspent funds allocated for these arrangements from the MCO, PIHP, or PAHP.
 
-(d) *Pass-through payments under MCO, PIHP, and PAHP contracts.* (1) States may require MCOs, PIHPs, and PAHPs to make pass-through payments (as defined in paragraph (a) of this section) to network providers that are hospitals, physicians, and nursing facilities under the contract subject to the requirements of this paragraph (d). States may not require MCOs, PIHPs, and PAHPs to make pass-through payments other than those permitted under this paragraph.
+(d) *Pass-through payments under MCO, PIHP, and PAHP contracts* - (1) *General rule.* States may continue to require MCOs, PIHPs, and PAHPs to make pass-through payments (as defined in paragraph (a) of this section) to network providers that are hospitals, physicians, or nursing facilities under the contract, provided the requirements of this paragraph (d) are met. States may not require MCOs, PIHPs, and PAHPs to make pass-through payments other than those permitted under this paragraph (d).
+
+(i) In order to use a transition period described in this paragraph (d), a State must demonstrate that it had pass-through payments for hospitals, physicians, or nursing facilities in:
+
+(A) Managed care contract(s) and rate certification(s) for the rating period that includes July 5, 2016, and were submitted for CMS review and approval on or before July 5, 2016; or
+
+(B) If the managed care contract(s) and rate certification(s) for the rating period that includes July 5, 2016 had not been submitted to CMS on or before July 5, 2016, the managed care contract(s) and rate certification(s) for a rating period before July 5, 2016 that had been most recently submitted for CMS review and approval as of July 5, 2016.
+
+(ii) CMS will not approve a retroactive adjustment or amendment, notwithstanding the adjustments to the base amount permitted in paragraph (d)(2) of this section, to managed care contract(s) and rate certification(s) to add new pass-through payments or increase existing pass-through payments defined in paragraph (a) of this section.
 
 (2) *Calculation of the base amount.* The base amount of pass-through payments is the sum of the results of paragraphs (d)(2)(i) and (ii) of this section.
 
@@ -98,7 +104,11 @@ Link to an amendment published at 82 FR 5428, Jan. 18, 2017.
 
 (iv) States may calculate reasonable estimates of the aggregate differences in paragraphs (d)(2)(i) and (ii) of this section in accordance with the upper payment limit requirements in 42 CFR part 447.
 
-(3) *Schedule for the reduction of the base amount of pass-through payments for hospitals under the MCO, PIHP, or PAHP contract.* Pass-through payments for hospitals may be required under the contract but must be phased out no longer than on the 10-year schedule, beginning with contracts that start on or after July 1, 2017. Pass-through payments may not exceed a percentage of the base amount, beginning with 100 percent for contracts starting on or after July 1, 2017, and decreasing by 10 percentage points each successive year. For contracts beginning on or after July 1, 2027, the State cannot require pass-through payments for hospitals under a MCO, PIHP, or PAHP contract.
+(3) *Schedule for the reduction of the base amount of pass-through payments for hospitals under the MCO, PIHP, or PAHP contract and maximum amount of permitted pass-through payments for each year of the transition period.* For States that meet the requirement in paragraph (d)(1)(i) of this section, pass-through payments for hospitals may continue to be required under the contract but must be phased out no longer than on the 10-year schedule, beginning with rating periods for contract(s) that start on or after July 1, 2017. For rating periods for contract(s) beginning on or after July 1, 2027, the State cannot require pass-through payments for hospitals under a MCO, PIHP, or PAHP contract. Until July 1, 2027, the total dollar amount of pass-through payments to hospitals may not exceed the lesser of:
+
+(i) A percentage of the base amount, beginning with 100 percent for rating periods for contract(s) beginning on or after July 1, 2017, and decreasing by 10 percentage points each successive year; or
+
+(ii) The total dollar amount of pass-through payments to hospitals identified in the managed care contract(s) and rate certification(s) used to meet the requirement of paragraph (d)(1)(i) of this section.
 
 (4) *Documentation of the base amount for pass-through payments to hospitals.* All contract arrangements that direct pass-through payments under the MCO's, PIHP's or PAHP's contract for hospitals must document the calculation of the base amount in the rate certification required in § 438.7. The documentation must include the following:
 
@@ -108,8 +118,8 @@ Link to an amendment published at 82 FR 5428, Jan. 18, 2017.
 
 (iii) The calculation of the applicable percentage of the base amount available for pass-through payments under the schedule in paragraph (d)(3) of this section.
 
-(5) *Pass-through payments to physicians or nursing facilities.* For contracts starting on or after July 1, 2017 through contracts beginning on or after July 1, 2021, the State may require pass-through payments to physicians and nursing facilities under the MCO, PIHP, or PAHP contract. For contracts beginning on or after July 1, 2022, the State cannot require pass-through payments for physicians or nursing facilities under a MCO, PIHP, or PAHP contract.
+(5) *Pass-through payments to physicians or nursing facilities.* For States that meet the requirement in paragraph (d)(1)(i) of this section, rating periods for contract(s) beginning on or after July 1, 2017 through rating periods for contract(s) beginning on or after July 1, 2021, may continue to require pass-through payments to physicians or nursing facilities under the MCO, PIHP, or PAHP contract of no more than the total dollar amount of pass-through payments to physicians or nursing facilities, respectively, identified in the managed care contract(s) and rate certification(s) used to meet the requirement of paragraph (d)(1)(i) of this section. For rating periods for contract(s) beginning on or after July 1, 2022, the State cannot require pass-through payments for physicians or nursing facilities under a MCO, PIHP, or PAHP contract.
 
 (e) *Payments to MCOs and PIHPs for enrollees that are a patient in an institution for mental disease.* The State may make a monthly capitation payment to an MCO or PIHP for an enrollee aged 21-64 receiving inpatient treatment in an Institution for Mental Diseases, as defined in § 435.1010 of this chapter, so long as the facility is a hospital providing psychiatric or substance use disorder inpatient care or a sub-acute facility providing psychiatric or substance use disorder crisis residential services, and length of stay in the IMD is for a short term stay of no more than 15 days during the period of the monthly capitation payment. The provision of inpatient psychiatric or substance use disorder treatment in an IMD must meet the requirements for in lieu of services at § 438.3(e)(2)(i) through (iii). For purposes of rate setting, the state may use the utilization of services provided to an enrollee under this section when developing the inpatient psychiatric or substance use disorder component of the capitation rate, but must price utilization at the cost of the same services through providers included under the State plan.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 5428, Jan. 18, 2017]

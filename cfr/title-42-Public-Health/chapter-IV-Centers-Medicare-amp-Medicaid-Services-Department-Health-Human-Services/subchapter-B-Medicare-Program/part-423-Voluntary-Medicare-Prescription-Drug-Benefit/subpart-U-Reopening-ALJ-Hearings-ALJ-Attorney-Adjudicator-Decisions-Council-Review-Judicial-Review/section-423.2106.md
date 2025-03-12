@@ -1,0 +1,5 @@
+##### § 423.2106 Where a request for review may be filed. #####
+
+When a request for a Council review is filed after an ALJ or attorney adjudicator has issued a written decision or dismissal, the request for review must be submitted to the entity specified in the notice of the ALJ's or attorney adjudicator's action. If the request for review is timely filed with an entity other than the entity specified in the notice of the ALJ's or attorney adjudicator's action, the Council's adjudication period to conduct a review begins on the date the request for review is received by the entity specified in the notice of the ALJ's or attorney adjudicator's action. Upon receipt of a request for review from an entity other than the entity specified in the notice of the ALJ's or attorney adjudicator's action, the Council sends written notice to the enrollee of the date of receipt of the request and commencement of the adjudication timeframe.
+
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5137, Jan. 17, 2017]

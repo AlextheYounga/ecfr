@@ -1,7 +1,5 @@
 ##### § 405.906 Parties to the initial determinations, redeterminations, reconsiderations, hearings, and reviews. #####
 
-Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
-
 (a) *Parties to the initial determination.* The parties to the initial determination are the following individuals and entities:
 
 (1) A beneficiary who files a claim for payment under Medicare Part A or Part B or has had a claim for payment filed on his or her behalf, or in the case of a deceased beneficiary, when there is no estate, any person obligated to make or entitled to receive payment in accordance with part 424, subpart E of this chapter. Payment by a third party payer does not entitle that entity to party status.
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (4) An applicable plan for an initial determination under § 405.924(b)(16) where Medicare is pursuing recovery directly from the applicable plan. The applicable plan is the sole party to an initial determination under § 405.924(b)(16) (that is, where Medicare is pursuing recovery directly from the applicable plan).
 
-(b) *Parties to the redetermination, reconsideration, hearing and MAC.* The parties to the redetermination, reconsideration, hearing, and MAC review are -
+(b) *Parties to the redetermination, reconsideration, proceedings on a request for hearing, and Council review.* The parties to the redetermination, reconsideration, proceedings on a request for hearing, and Council review are—
 
 (1) The parties to the initial determination in accordance with paragraph (a) of this section, except under paragraph (a)(1) of this section where a beneficiary has assigned appeal rights under § 405.912;
 
@@ -26,4 +24,4 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (c) *Appeals by providers and suppliers when there is no other party available.* If a provider or supplier is not already a party to the proceeding in accordance with paragraphs (a) and (b) of this section, a provider of services or supplier may appeal an initial determination relating to services it rendered to a beneficiary who subsequently dies if there is no other party available to appeal the determination. This paragraph (c) does not apply to an initial determination with respect to an applicable plan under § 405.924(b)(16).
 
-[70 FR 11472, Mar. 8, 2005, as amended at 80 FR 10617, Feb. 27, 2015]
+[70 FR 11472, Mar. 8, 2005, as amended at 80 FR 10617, Feb. 27, 2015; 82 FR 5106, Jan. 17, 2017]

@@ -1,32 +1,52 @@
 ##### § 405.1020 Time and place for a hearing before an ALJ. #####
 
-Link to an amendment published at 82 FR 5114, Jan. 17, 2017.
-
 (a) *General.* The ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
-(b) *Determining how appearances are made.* The ALJ will direct that the appearance of an individual be conducted by videoteleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance. The ALJ may also offer to conduct a hearing by telephone if the request for hearing or administrative record suggests that a telephone hearing may be more convenient for one or more of the parties. The ALJ, with the concurrence of the Managing Field Office ALJ, may determine that an in-person hearing should be conducted if -
+(b) *Determining how appearances are made* - (1) *Appearances by unrepresented beneficiaries.* The ALJ will direct that the appearance of an unrepresented beneficiary who filed a request for hearing be conducted by video-teleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance, unless the ALJ find good cause for an in-person appearance.
 
-(1) VTC technology is not available; or
+(i) The ALJ may also offer to conduct a hearing by telephone if the request for hearing or administrative record suggests that a telephone hearing may be more convenient for the unrepresented beneficiary.
 
-(2) Special or extraordinary circumstances exist.
+(ii) The ALJ, with the concurrence of the Chief ALJ or designee, may find good cause that an in-person hearing should be conducted if -
 
-(c) *Notice of hearing.* (1) The ALJ sends a notice of hearing to all parties that filed an appeal or participated in the reconsideration, any party who was found liable for the services at issue subsequent to the initial determination, and the QIC that issued the reconsideration, advising them of the proposed time and place of the hearing.
+(A) VTC or telephone technology is not available; or
 
-(2) The notice of hearing will require all parties to the ALJ hearing (and any potential participant from CMS or its contractor who wishes to attend the hearing) to reply to the notice by:
+(B) Special or extraordinary circumstances exist.
 
-(i) Acknowledging whether they plan to attend the hearing at the time and place proposed in the notice of hearing; or
+(2) *Appearances by individuals other than unrepresented beneficiaries.* The ALJ will direct that the appearance of an individual, other than an unrepresented beneficiary who filed a request for hearing, be conducted by telephone, unless the ALJ finds good cause for an appearance by other means.
 
-(ii) Objecting to the proposed time and/or place of the hearing.
+(i) The ALJ may find good cause for an appearance by VTC if he or she determines that VTC is necessary to examine the facts or issues involved in the appeal.
 
-(d) *A party's right to waive a hearing.* A party may also waive the right to a hearing and request that the ALJ issue a decision based on the written evidence in the record. As provided in § 405.1000, the ALJ may require the parties to attend a hearing if it is necessary to decide the case. If the ALJ determines that it is necessary to obtain testimony from a non-party, he or she may still hold a hearing to obtain that testimony, even if all of the parties have waived the right to appear. In those cases, the ALJ will give the parties the opportunity to appear when the testimony is given but may hold the hearing even if none of the parties decide to appear.
+(ii) The ALJ, with the concurrence of the Chief ALJ or designee, also may find good cause that an in-person hearing should be conducted if -
+
+(A) VTC and telephone technology are not available; or
+
+(B) Special or extraordinary circumstances exist.
+
+(c) *Notice of hearing.* (1) A notice of hearing is sent to all parties that filed an appeal or participated in the reconsideration, any party who was found liable for the services at issue subsequent to the initial determination or may be found liable based on a review of the record, the QIC that issued the reconsideration, and CMS or a contractor that elected to participate in the proceedings in accordance with § 405.1010(b) or that the ALJ believes would be beneficial to the hearing, advising them of the proposed time and place of the hearing.
+
+(2) The notice of hearing will require all parties to the ALJ hearing to reply to the notice by:
+
+(i) Acknowledging whether they plan to attend the hearing at the time and place proposed in the notice of hearing, or whether they object to the proposed time and/or place of the hearing;
+
+(ii) If the party or representative is an entity or organization, specifying who from the entity or organization plans to attend the hearing, if anyone, and in what capacity, in addition to the individual who filed the request for hearing; and
+
+(iii) Listing the witnesses who will be providing testimony at the hearing.
+
+(3) The notice of hearing will require CMS or a contractor that wishes to attend the hearing as a participant to reply to the notice by:
+
+(i) Acknowledging whether it plans to attend the hearing at the time and place proposed in the notice of hearing; and
+
+(ii) Specifying who from the entity plans to attend the hearing.
+
+(d) *A party's right to waive a hearing.* A party may also waive the right to a hearing and request a decision based on the written evidence in the record in accordance with § 405.1038(b). As provided in § 405.1000, an ALJ may require the parties to attend a hearing if it is necessary to decide the case. If an ALJ determines that it is necessary to obtain testimony from a non-party, he or she may still hold a hearing to obtain that testimony, even if all of the parties have waived the right to appear. In those cases, the ALJ will give the parties the opportunity to appear when the testimony is given but may hold the hearing even if none of the parties decide to appear.
 
 (e) *A party's objection to time and place of hearing.* (1) If a party objects to the time and place of the hearing, the party must notify the ALJ at the earliest possible opportunity before the time set for the hearing.
 
 (2) The party must state the reason for the objection and state the time and place he or she wants the hearing to be held.
 
-(3) The request must be in writing.
+(3) The request must be in writing, except that a party may orally request that a hearing be rescheduled in an emergency circumstance the day prior to or day of the hearing. The ALJ must document all oral requests for a rescheduled hearing in writing and maintain the documentation in the administrative record.
 
-(4) The ALJ may change the time or place of the hearing if the party has good cause. (Section 405.1052(a)(2) provides the procedures the ALJ follows when a party does not respond to a notice of hearing and fails to appear at the time and place of the hearing.)
+(4) The ALJ may change the time or place of the hearing if the party has good cause.
 
 (f) *Good cause for changing the time or place.* The ALJ can find good cause for changing the time or place of the scheduled hearing and reschedule the hearing if the information available to the ALJ supports the party's contention that -
 
@@ -54,16 +74,22 @@ Link to an amendment published at 82 FR 5114, Jan. 17, 2017.
 
 (vi) The party is unrepresented, and is unable to respond to the notice of hearing because of any physical, mental, educational, or linguistic limitations (including any lack of facility with the English language) that he or she has.
 
-(h) *Effect of rescheduling hearing.* If a hearing is postponed at the request of the appellant for any of the above reasons, the time between the originally scheduled hearing date and the new hearing date is not counted toward the adjudication deadline specified in § 405.1016.
+(vii) The party or representative has a prior commitment that cannot be changed without significant expense.
 
-(i) *A party's request for an in-person hearing.* (1) If a party objects to a VTC hearing or to the ALJ's offer to conduct a hearing by telephone, the party must notify the ALJ at the earliest possible opportunity before the time set for the hearing and request an in-person hearing.
+(viii) The party or representative asserts that he or she did not receive the notice of hearing and is unable to appear at the scheduled time and place.
 
-(2) The party must state the reason for the objection and state the time or place he or she wants the hearing to be held.
+(h) *Effect of rescheduling hearing.* If a hearing is postponed at the request of the appellant for any of the above reasons, the time between the originally scheduled hearing date and the new hearing date is not counted toward the adjudication period specified in § 405.1016.
+
+(i) *A party's request for an in-person or VTC hearing.* (1) If an unrepresented beneficiary who filed the request for hearing objects to a VTC hearing or to the ALJ's offer to conduct a hearing by telephone, or if a party other than an unrepresented beneficiary who filed the request for hearing objects to a telephone or VTC hearing, the party must notify the ALJ at the earliest possible opportunity before the time set for the hearing and request a VTC or an in-person hearing.
+
+(2) The party must state the reason for the objection and state the time and/or place he or she wants an in-person or VTC hearing to be held.
 
 (3) The request must be in writing.
 
-(4) When a party's request for an in-person hearing as specified under paragraph (i)(1) of this section is granted, the ALJ must issue a decision within the adjudication timeframe specified in § 405.1016 (including any applicable extensions provided in this subpart) unless the party requesting the hearing agrees to waive such adjudication timeframe in writing.
+(4) When a party's request for an in-person or VTC hearing as specified under paragraph (i)(1) of this section is granted and an adjudication time frame applies in accordance with § 405.1016, the ALJ issues a decision, dismissal, or remand to the QIC within the adjudication time frame specified in § 405.1016 (including any applicable extensions provided in this subpart) unless the party requesting the hearing agrees to waive such adjudication time frame in writing.
 
-(5) The ALJ may grant the request, with the concurrence of the Managing Field Office ALJ, upon a finding of good cause and will reschedule the hearing for a time and place when the party may appear in person before the ALJ.
+(5) The ALJ may grant the request, with the concurrence of the Chief ALJ or designee, upon a finding of good cause and will reschedule the hearing for a time and place when the party may appear in person or by VTC before the ALJ.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65335, Dec. 9, 2009]
+(j) *Amended notice of hearing.* If the ALJ changes or will change the time and/or place of the hearing, an amended notice of hearing must be sent to all of the parties who were sent a copy of the notice of hearing and CMS or its contractors that elected to be a participant or party to the hearing in accordance with § 405.1022(a).
+
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65335, Dec. 9, 2009; 82 FR 5114, Jan. 17, 2017]

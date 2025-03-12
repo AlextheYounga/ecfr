@@ -1,7 +1,5 @@
 ##### § 405.926 Actions that are not initial determinations. #####
 
-Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
-
 Actions that are not initial determinations and are not appealable under this subpart include, but are not limited to the following:
 
 (a) Any determination for which CMS has sole responsibility, for example one of the following:
@@ -32,9 +30,9 @@ Actions that are not initial determinations and are not appealable under this su
 
 (k) Except as specified in § 405.924(b)(16), determinations under the Medicare Secondary Payer provisions of section 1862(b) of the Act that Medicare has a recovery against an entity that was or is required or responsible (directly, as an insurer or self-insurer; as a third party administrator; as an employer that sponsors, contributes to or facilitates a group health plan or a large group health plan; or otherwise) to make payment for services or items that were already reimbursed by the Medicare program.
 
-(l) A contractor's, QIC's, ALJ's, or MAC's determination or decision to reopen or not to reopen an initial determination, redetermination, reconsideration, hearing decision, or review decision.
+(l) A contractor's, QIC's, ALJ's or attorney adjudicator's, or Council's determination or decision to reopen or not to reopen an initial determination, redetermination, reconsideration, decision, or review decision.
 
-(m) Determinations that CMS or its contractors may participate in or act as parties in an ALJ hearing or MAC review.
+(m) Determinations that CMS or its contractors may participate in the proceedings on a request for an ALJ hearing or act as parties in an ALJ hearing or Council review.
 
 (n) Determinations that a provider or supplier failed to submit a claim timely or failed to submit a timely claim despite being requested to do so by the beneficiary or the beneficiary's subrogee.
 
@@ -52,4 +50,4 @@ Actions that are not initial determinations and are not appealable under this su
 
 (u) Issuance of notice to an individual entitled to Medicare benefits under Title XVIII of the Act when such individual received observation services as an outpatient for more than 24 hours, as specified under § 489.20(y) of this chapter.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 80 FR 10618, Feb. 27, 2015; 80 FR 81706, Dec. 30, 2015; 81 FR 57267, Aug. 22, 2016; 81 FR 68847, Oct. 4, 2016]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 80 FR 10618, Feb. 27, 2015; 80 FR 81706, Dec. 30, 2015; 81 FR 57267, Aug. 22, 2016; 81 FR 68847, Oct. 4, 2016; 82 FR 5107, Jan. 17, 2017]

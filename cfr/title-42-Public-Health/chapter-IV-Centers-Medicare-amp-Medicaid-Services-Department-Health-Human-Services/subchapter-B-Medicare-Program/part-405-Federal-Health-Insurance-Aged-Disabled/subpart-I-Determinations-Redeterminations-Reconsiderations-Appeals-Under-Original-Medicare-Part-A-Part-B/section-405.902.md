@@ -1,7 +1,5 @@
 ##### § 405.902 Definitions. #####
 
-Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
-
 For the purposes of this subpart, the term -
 
 *ALJ* means an Administrative Law Judge of the Department of Health and Human Services.
@@ -24,6 +22,8 @@ For the purposes of this subpart, the term -
 
 *Assignor* means a beneficiary whose provider of services or supplier has taken assignment of a claim or an appeal of a claim.
 
+*Attorney Adjudicator* means a licensed attorney employed by OMHA with knowledge of Medicare coverage and payment laws and guidance, and authorized to take the actions provided for in this subpart on requests for ALJ hearing and requests for reviews of QIC dismissals.
+
 *Authorized representative* means an individual authorized under State or other applicable law to act on behalf of a beneficiary or other party involved in the appeal. The authorized representative will have all of the rights and responsibilities of a beneficiary or party, as applicable, throughout the appeals process.
 
 *Beneficiary* means an individual who is enrolled to receive benefits under Medicare Part A or Part B.
@@ -33,6 +33,8 @@ For the purposes of this subpart, the term -
 *Clean claim* means a claim that has no defect or impropriety (including any lack of required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under title XVIII within the time periods specified in sections 1816(c) and 1842(c) of the Act.
 
 *Contractor* means an entity that contracts with the Federal government to review and/or adjudicate claims, determinations and/or decisions.
+
+*Council* stands for the Medicare Appeals Council within the Departmental Appeals Board of the U.S. Department of Health and Human Services.
 
 *Family member* means for purposes of the QIC reconsideration panel under § 405.968 the following persons as they relate to the physician or healthcare provider.
 
@@ -48,7 +50,7 @@ For the purposes of this subpart, the term -
 
 *Fiscal Intermediary* means an organization that has entered into a contract with CMS in accordance with section 1816 of the Act and is authorized to make determinations and payments for Part A of title XVIII of the Act, and Part B provider services as specified in § 421.5(c) of this chapter.
 
-*MAC* stands for the Medicare Appeals Council within the Departmental Appeals Board of the U.S. Department of Health and Human Services.
+*OMHA* stands for the Office of Medicare Hearings and Appeals within the U.S. Department of Health and Human Services, which administers the ALJ hearing process in accordance with section 1869(b)(1) of the Act.
 
 *Party* means an individual or entity listed in § 405.906 that has standing to appeal an initial determination and/or a subsequent administrative appeal determination.
 
@@ -68,4 +70,4 @@ For the purposes of this subpart, the term -
 
 *Vacate* means to set aside a previous action.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 80 FR 10617, Feb. 27, 2015]
+[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 80 FR 10617, Feb. 27, 2015; 82 FR 5106, Jan. 17, 2017]

@@ -1,7 +1,5 @@
 ##### § 405.910 Appointed representatives. #####
 
-Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
-
 (a) *Scope of representation.* An appointed representative may act on behalf of an individual or entity in exercising his or her right to an initial determination or appeal. Appointed representatives do not have party status and may take action only on behalf of the individual or entity that they represent.
 
 (b) *Persons not qualified.* A party may not name as an appointed representative, an individual who is disqualified, suspended, or otherwise prohibited by law from acting as a representative in any proceedings before DHHS, or in entitlement appeals, before SSA.
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (4) Contain both the party's and appointed representative's name, phone number, and address;
 
-(5) Identify the beneficiary's Medicare health insurance claim number when the beneficiary is the party appointing a representative;
+(5) Identify the beneficiary's Medicare health insurance claim number when the beneficiary is the party appointing a representative, or identify the Medicare National Provider Identifier number of the provider or supplier that furnished the item or service when the provider or supplier is the party appointing a representative;
 
 (6) Include the appointed representative's professional status or relationship to the party;
 
@@ -26,6 +24,8 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (2) Unless the defect is cured, the prospective appointed representative lacks the authority to act on behalf of the party, and is not entitled to obtain or receive any information related to the appeal, including the appeal decision.
 
+(3) If an adjudication time frame applies, the time from the later of the date that a defective appointment of representative was filed or the current appeal request was filed by the prospective appointed representative, to the date when the defect was cured or the party notifies the adjudicator that he or she will proceed with the appeal without a representative does not count towards the adjudication time frame.
+
 (e) *Duration of appointment.* (1) Unless revoked, an appointment is considered valid for 1 year from the date that the Appointment of Representative (AOR) form or other conforming written instrument contains the signatures of both the party and the appointed representative.
 
 (2) To initiate an appeal within the 1-year time frame, the representative must file a copy of the AOR form, or other conforming written instrument, with the appeal request. Unless revoked, the representation is valid for the duration of an individual's appeal of an initial determination.
@@ -34,7 +34,7 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (4) For an initial determination of a Medicare Secondary Payer recovery claim, an appointment signed by an applicable plan which has party status in accordance with § 405.906(a)(1)(iv) is valid from the date that appointment is signed for the duration of any subsequent appeal, unless the appointment is specifically revoked.
 
-(f) *Appointed representative fees* - (1) *General rule.* An appointed representative for a beneficiary who wishes to charge a fee for services rendered in connection with an appeal before the Secretary must obtain approval of the fee from the Secretary. Services rendered below the ALJ level are not considered proceedings before the Secretary.
+(f) *Appointed representative fees* - (1) *General rule.* An appointed representative for a beneficiary who wishes to charge a fee for services rendered in connection with an appeal before the Secretary must obtain approval of the fee from the Secretary. Services rendered below the OMHA level are not considered proceedings before the Secretary.
 
 (2) *No fees or costs against trust funds.* No award of attorney or any other representative's fees or any costs in connection with an appeal may be made against the Medicare trust funds.
 
@@ -70,9 +70,9 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (i) *Notice or request to an appointed representative* - (1) *Initial determinations.* When a contractor takes an action or issues an initial determination, it sends the action or notice to the party.
 
-(2) *Appeals.* When a contractor, QIC, ALJ, or the MAC takes an action or issues a redetermination, reconsideration, or appeal decision, in connection with an initial determination, it sends notice of the action to the appointed representative.
+(2) *Appeals.* When a contractor, QIC, ALJ or attorney adjudicator, or the Council takes an action or issues a redetermination, reconsideration, or appeal decision, in connection with an initial determination, it sends notice of the action to the appointed representative.
 
-(3) The contractor, QIC, ALJ or MAC sends any requests for information or evidence regarding a claim that is appealed to the appointed representative. The contractor sends any requests for information or evidence regarding an initial determination to the party.
+(3) The contractor, QIC, ALJ or attorney adjudicator, or Council sends any requests for information or evidence regarding a claim that is appealed to the appointed representative. The contractor sends any requests for information or evidence regarding an initial determination to the party.
 
 (4) For initial determinations and appeals involving Medicare Secondary Payer recovery claims where the beneficiary is a party, the adjudicator sends notices and requests to both the beneficiary and the beneficiary's representative, if the beneficiary has a representative.
 
@@ -80,15 +80,15 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (k) *Information available to the appointed representative.* An appointed representative may obtain any and all appeals information applicable to the claim at issue that is available to the party.
 
-(l) *Delegation of appointment by appointed representative.* An appointed representative may not designate another individual to act as the appointed representative of the party unless -
+(l) *Delegation of appointment by appointed representative.* (1) An appointed representative may not designate another individual to act as the appointed representative of the party unless -
 
-(1) The appointed representative provides written notice to the party of the appointed representative's intent to delegate to another individual. The notice must include:
+(i) The appointed representative provides written notice to the party of the appointed representative's intent to delegate to another individual, which contains the name of the designee and the designee's acceptance to be obligated by and comply with the requirements of representation under this subpart; and
 
-(i) The name of the designee; and
+(ii) The party accepts the designation as evidenced by a written statement signed by the party. The written statement signed by the party is not required when the appointed representative and designee are attorneys in the same law firm or organization and the notice described in paragraph (l)(1)(i) of this section so indicates.
 
-(ii) The designee's acceptance to be obligated and comply with the requirements of representation under this subpart.
+(2) A delegation is not effective until the adjudicator receives a copy of the acceptance described in paragraph (l)(1)(ii) of this section, unless the appointed representative and designee are attorneys in the same law firm or organization, in which case the notice described in paragraph (l)(1)(i) of this section may be submitted even though the acceptance described in paragraph (l)(1)(ii) of this section is not required.
 
-(2) The party accepts the designation as evidenced by a written statement signed by the party. This signed statement is not required when the appointed representative and designee are attorneys in the same law firm or organization.
+(3) A party's or representative's failure to notify the adjudicator that an appointment of representative has been delegated is not good cause for missing a deadline or not appearing at a hearing.
 
 (m) *Revoking the appointment of representative.* (1) A party may revoke an appointment of representative without cause at any time.
 
@@ -98,4 +98,6 @@ Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
 
 (ii) A party's death does not terminate an appeal that is in progress if another individual or entity may be entitled to receive or obligated to make payment for the items or services that are the subject of the appeal. The appointment of representative remains in effect for the duration of the appeal except for MSP recovery claims.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 80 FR 10617, Feb. 27, 2015]
+(4) A party's or representative's failure to notify the adjudicator that an appointment of representative has been revoked is not good cause for missing a deadline or not appearing at a hearing.
+
+[70 FR 11472, Mar. 8, 2005, as amended at 80 FR 10617, Feb. 27, 2015; 82 FR 5106, Jan. 17, 2017]

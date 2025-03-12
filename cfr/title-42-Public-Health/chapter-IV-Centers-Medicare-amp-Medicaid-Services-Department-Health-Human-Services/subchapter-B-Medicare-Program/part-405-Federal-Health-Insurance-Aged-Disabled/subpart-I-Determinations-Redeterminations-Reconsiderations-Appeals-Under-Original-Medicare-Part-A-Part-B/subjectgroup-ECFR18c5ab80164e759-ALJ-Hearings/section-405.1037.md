@@ -1,8 +1,6 @@
 ##### § 405.1037 Discovery. #####
 
-Link to an amendment published at 82 FR 5117, Jan. 17, 2017.
-
-(a) *General rules.* (1) Discovery is permissible only when CMS or its contractor elects to participate in an ALJ hearing as a party.
+(a) *General rules.* (1) Discovery is permissible only when CMS or its contractor elects to be a party to an ALJ hearing, in accordance with § 405.1012.
 
 (2) The ALJ may permit discovery of a matter that is relevant to the specific subject matter of the ALJ hearing, provided the matter is not privileged or otherwise protected from disclosure and the ALJ determines that the discovery request is not unreasonable, unduly burdensome or expensive, or otherwise inappropriate.
 
@@ -36,20 +34,20 @@ Link to an amendment published at 82 FR 5117, Jan. 17, 2017.
 
 (5) The ALJ must issue and mail to each party a discovery ruling that grants or denies the motion to compel or for protective order in whole or in part; if applicable, the discovery ruling must specifically identify any part of the disputed discovery request upheld and any part rejected, and impose any limits on discovery the ALJ finds necessary and appropriate.
 
-(e) *Reviewability of discovery and disclosure rulings* - (1) *General rule.* An ALJ discovery ruling, or an ALJ disclosure ruling such as one issued at a hearing is not subject to immediate review by the MAC. The ruling may be reviewed solely during the course of the MAC's review specified in § 405.1100, § 405.1102, § 405.1104, or § 405.1110, as applicable.
+(e) *Reviewability of discovery and disclosure rulings*—(1) *General rule.* An ALJ discovery ruling, or an ALJ disclosure ruling such as one issued at a hearing is not subject to immediate review by the Council. The ruling may be reviewed solely during the course of the Council's review specified in § 405.1016(e) and (f), § 405.1100, § 405.1102, or § 405.1110, as applicable.
 
-(2) *Exception.* To the extent a ruling authorizes discovery or disclosure of a matter for which an objection based on privilege, or other protection from disclosure such as case preparation, confidentiality, or undue burden, was made before the ALJ, the MAC may review that portion of the discovery or disclosure ruling immediately.
+(2) *Exception.* To the extent a ruling authorizes discovery or disclosure of a matter for which an objection based on privilege, or other protection from disclosure such as case preparation, confidentiality, or undue burden, was made before the ALJ, the Council may review that portion of the discovery or disclosure ruling immediately.
 
-(i) Where CMS objects to a discovery ruling, the MAC must take review and the discovery ruling at issue is automatically stayed pending the MAC's order.
+(i) Where CMS objects to a discovery ruling, the Council must take review and the discovery ruling at issue is automatically stayed pending the Council's order.
 
-(ii) Upon notice to the ALJ that a party intends to seek MAC review of the ruling, the ALJ must stay all proceedings affected by the ruling.
+(ii) Upon notice to the ALJ that a party intends to seek Council review of the ruling, the ALJ must stay all proceedings affected by the ruling.
 
-(iii) The ALJ determines the length of the stay under the circumstances of a given case, but in no event must the length of the stay be less than 15 calendar days beginning after the day on which the ALJ received notice of the party or non-party's intent to seek MAC review.
+(iii) The ALJ determines the length of the stay under the circumstances of a given case, but in no event must the length of the stay be less than 15 calendar days beginning after the day on which the ALJ received notice of the party or non-party's intent to seek Council review.
 
-(iv) Where CMS requests the MAC to take review of a discovery ruling or where the MAC grants a request, made by a party other than CMS, to review a discovery ruling, the ruling is stayed until the time the MAC issues a written decision that affirms, reverses, modifies, or remands the ALJ's ruling.
+(iv) Where CMS requests the Council to take review of a discovery ruling or where the Council grants a request, made by a party other than CMS, to review a discovery ruling, the ruling is stayed until the time the Council issues a written decision that affirms, reverses, modifies, or remands the ALJ's ruling.
 
-(v) With respect to a request from a party, other than CMS, for review of a discovery ruling, if the MAC does not grant review or take own motion review within the time allotted for the stay, the stay is lifted and the ruling stands.
+(v) With respect to a request from a party, other than CMS, for review of a discovery ruling, if the Council does not grant review or take own motion review within the time allotted for the stay, the stay is lifted and the ruling stands.
 
-(f) *Adjudication time frames.* If a party requests discovery from another party to the ALJ hearing, the ALJ adjudication time frame specified in § 405.1016 is tolled until the discovery dispute is resolved.
+(f) *Adjudication period.* If an adjudication period applies to the appeal in accordance with § 405.1016, and a party requests discovery from another party to the hearing, the adjudication period is extended for the duration of discovery, from the date a discovery request is granted until the date specified for ending discovery.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65336, Dec. 9, 2009]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65336, Dec. 9, 2009; 82 FR 5117, Jan. 17, 2017]

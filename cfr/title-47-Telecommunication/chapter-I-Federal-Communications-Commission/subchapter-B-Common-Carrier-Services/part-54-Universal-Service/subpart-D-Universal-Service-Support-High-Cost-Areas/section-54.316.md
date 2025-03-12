@@ -44,7 +44,7 @@
 
 (1) Price cap carriers that accepted Phase II model-based support and rate-of-return carriers must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
 
-(i) An eligible telecommunications carrier that files after the March 1 deadline, but by March 9, will have its support reduced in an amount equivalent to seven days in support;
+(i) An eligible telecommunications carrier that files after the March 1 deadline, but by March 8, will have its support reduced in an amount equivalent to seven days in support;
 
 (ii) An eligible telecommunications carrier that files on or after March 9 will have its support reduced on a pro-rata daily basis equivalent to the period of non-compliance, plus the minimum seven-day reduction;
 
@@ -58,4 +58,4 @@
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016]Effective Date Note:At 81 FR 69713, Oct. 7, 2016, § 54.316 was amended by revising paragraph (a)(1) and adding paragraphs (a)(5) and (6) and (b)(6) These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017]Effective Date Note:At 81 FR 69713, Oct. 7, 2016, § 54.316 was amended by revising paragraph (a)(1) and adding paragraphs (a)(5) and (6) and (b)(6) These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

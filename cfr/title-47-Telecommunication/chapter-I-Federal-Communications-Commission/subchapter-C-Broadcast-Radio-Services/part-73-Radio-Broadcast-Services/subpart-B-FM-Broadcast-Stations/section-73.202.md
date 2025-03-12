@@ -1,6 +1,6 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 82 FR 10867, Fwb. 6, 2017.Link to an amendment published at 78 FR 25591, May 2, 2013.Link to an amendment published at 82 FR 12922, Mar. 8, 2017.
+Link to an amendment published at 78 FR 25591, May 2, 2013.Link to an amendment published at 82 FR 12922, Mar. 8, 2017.
 
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
@@ -259,8 +259,8 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |  Roaring Springs   |  227A, 249C3   |
 |        Roby        |      249A      |
 |    Rocksprings     |      291A      |
-|        Roma        |      278A      |
 |        Rule        |      253A      |
+|     San Isidro     |      278A      |
 |     Sanderson      |  274C1, 286C2  |
 |      Seymour       |     222C2      |
 |     Sheffield      |     224C2      |

@@ -1,7 +1,5 @@
 ##### § 478.14 Applicability. #####
 
-Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
-
 (a) *Basic provision.* This subpart applies to reconsiderations and hearings of a QIO initial denial determination involving the following issues:
 
 (1) Reasonableness of services.
@@ -14,6 +12,6 @@ Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
 
 (c) *Nonapplicability of rules to related determinations.* (1) A QIO may not reconsider its decision whether to grant grace days.
 
-(2) Limitation of liability determinations on excluded coverage of certain services are made under section 1879 of the Act. Initial determinations under section 1879 and further appeals are governed by the reconsideration and appeal procedures in part 405, subpart G of this chapter for determinations under Medicare Part A, and part 405, subpart H of this chapter for determinations under Medicare Part B. References in those subparts to initial and reconsidered determinations made by an intermediary, carrier or CMS should be read to mean initial and reconsidered determinations made by a QIO.
+(2) Limitation of liability determinations on excluded coverage of certain services are made under section 1879 of the Act. Initial determinations under section 1879 and further appeals are governed by the reconsideration and appeal procedures in part 405, subpart I of this chapter for determinations under Medicare Part A and Part B. References in those subparts to initial and reconsidered determinations made by an intermediary, carrier or CMS should be read to mean initial and reconsidered determinations made by a QIO.
 
-[50 FR 15372, Apr. 17, 1985; 50 FR 41887, Oct. 16, 1985. Redesignated at 64 FR 66279, Nov. 24, 1999]
+[50 FR 15372, Apr. 17, 1985; 50 FR 41887, Oct. 16, 1985. Redesignated at 64 FR 66279, Nov. 24, 1999; 82 FR 5139, Jan. 17, 2017]

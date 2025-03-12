@@ -20,7 +20,7 @@
 
 (1) The actual average monthly per-loop corporate operations expense; or
 
-(2) The portion of the monthly per-loop amount computed pursuant to § 54.1308(a)(4)(iii) that would be allocated to the Interstate Common Line Revenue Requirement or Consumer Broadband-only Loop Revenue Requirement pursuant to § 69.409 of this chapter.
+(2) The portion of the monthly per-loop amount computed pursuant to § 54.1308(a)(4)(ii) that would be allocated to the Interstate Common Line Revenue Requirement or Consumer Broadband-only Loop Revenue Requirement pursuant to § 69.409 of this chapter.
 
 (d) In calculating support pursuant to paragraph (a) of this section for periods prior to when the tariff charge described in § 69.132 of this chapter becomes effective, only Interstate Common Line Revenue Requirement and Interstate Common line revenues shall be included.
 
@@ -44,4 +44,4 @@
 
 (g) For purposes of this subpart and consistent with § 69.132 of this chapter, a consumer broadband-only loop is a line provided by a rate-of-return incumbent local exchange carrier to a customer without regulated local exchange voice service, for use in connection with fixed Broadband Internet access service, as defined in § 8.2 of this chapter.
 
-[81 FR 24342, Apr. 25, 2016]
+[81 FR 24342, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017]

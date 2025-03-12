@@ -1,0 +1,5 @@
+##### § 423.2120 Filing briefs with the Council. #####
+
+Upon request, the Council will give the enrollee requesting review a reasonable opportunity to file a brief or other written statement about the facts and law relevant to the case. Unless the enrollee requesting review files the brief or other statement with the request for review, the time beginning with the date of receipt of the request to submit the brief and ending with the date the brief is received by the Council will not be counted toward the adjudication timeframe set forth in § 423.2100. The Council may also request, but not require, CMS, the IRE, and/or the Part D plan sponsor to file a brief or position paper if the Council determines that it is necessary to resolve the issues in the case. The Council cannot draw any adverse inference if CMS, the IRE, and/or the Part D plan sponsor either participates, or decides not to participate in Council review.
+
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5138, Jan. 17, 2017]

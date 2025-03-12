@@ -1,39 +1,53 @@
-##### § 405.1052 Dismissal of a request for a hearing before an ALJ. #####
+##### § 405.1052 Dismissal of a request for a hearing before an ALJ or request for review of a QIC dismissal. #####
 
-Link to an amendment published at 82 FR 5119, Jan. 17, 2017.
+(a) *Dismissal of request for hearing.* An ALJ dismisses a request for a hearing under any of the following conditions:
 
-Dismissal of a request for a hearing is in accordance with the following:
+(1) Neither the party that requested the hearing nor the party's representative appears at the time and place set for the hearing, if -
 
-(a) An ALJ dismisses a request for a hearing under any of the following conditions:
+(i) The party was notified before the time set for the hearing that the request for hearing might be dismissed for failure to appear, the record contains documentation that the party acknowledged the notice of hearing, and the party does not contact the ALJ within 10 calendar days after the hearing, or does contact the ALJ but the ALJ determines the party did not demonstrate good cause for not appearing; or
 
-(1) At any time before notice of the hearing decision is mailed, if only one party requested the hearing and that party asks to withdraw the request. This request may be submitted in writing to the ALJ or made orally at the hearing. The request for withdrawal must include a clear statement that the appellant is withdrawing the request for hearing and does not intend to further proceed with the appeal. If an attorney, or other legal professional on behalf of a beneficiary or other appellant files the request for withdrawal, the ALJ may presume that the representative has advised the appellant of the consequences of the withdrawal and dismissal.
+(ii) The record does not contain documentation that the party acknowledged the notice of hearing, the ALJ sends a notice to the party at the last known address asking why the party did not appear, and the party does not respond to the ALJ's notice within 10 calendar days after receiving the notice or does contact the ALJ but the ALJ determines the party did not demonstrate good cause for not appearing.
 
-(2) Neither the party that requested the hearing nor the party's representative appears at the time and place set for the hearing, if -
+(iii) In determining whether good cause exists under paragraphs (a)(1)(i) and (ii) of this section, the ALJ considers any physical, mental, educational, or linguistic limitations (including any lack of facility with the English language), that the party may have.
 
-(i) The party was notified before the time set for the hearing that the request for hearing might be dismissed without further notice for failure to appear;
+(2) The person or entity requesting a hearing has no right to it under § 405.1002.
 
-(ii) The party did not appear at the time and place of hearing and does not contact the ALJ hearing office within 10 calendar days and provide good cause for not appearing; or
+(3) The party did not request a hearing within the stated time period and the ALJ or attorney adjudicator has not found good cause for extending the deadline, as provided in § 405.1014(e).
 
-(iii) The ALJ sends a notice to the party asking why the party did not appear; and the party does not respond to the ALJ's notice within 10 calendar days or does not provide good cause for the failure to appear.
+(4) The beneficiary whose claim is being appealed died while the request for hearing is pending and all of the following criteria apply:
 
-(iv) In determining whether good cause exists under this paragraph (a)(2), the ALJ considers any physical, mental, educational, or linguistic limitations (including any lack of facility with the English language), that the party may have.
-
-(3) The person or entity requesting a hearing has no right to it under § 405.1002.
-
-(4) The party did not request a hearing within the stated time period and the ALJ has not found good cause for extending the deadline, as provided in § 405.1014(c).
-
-(5) The beneficiary whose claim is being appealed died while the request for hearing is pending and all of the following criteria apply:
-
-(i) The request for hearing was filed by the beneficiary or the beneficiary's representative, and the beneficiary's surviving spouse or estate has no remaining financial interest in the case. In deciding this issue, the ALJ considers if the surviving spouse or estate remains liable for the services that were denied or a Medicare contractor held the beneficiary liable for subsequent similar services under the limitation of liability provisions based on the denial of the services at issue.
+(i) The request for hearing was filed by the beneficiary or the beneficiary's representative, and the beneficiary's surviving spouse or estate has no remaining financial interest in the case. In deciding this issue, the ALJ or attorney adjudicator considers if the surviving spouse or estate remains liable for the services that were denied or a Medicare contractor held the beneficiary liable for subsequent similar services under the limitation of liability provisions based on the denial of the services at issue.
 
 (ii) No other individuals or entities that have a financial interest in the case wish to pursue an appeal under § 405.1002.
 
 (iii) No other individual or entity filed a valid and timely request for an ALJ hearing in accordance to § 405.1014.
 
-(6) The ALJ dismisses a hearing request entirely or refuses to consider any one or more of the issues because a QIC, an ALJ or the MAC has made a previous determination or decision under this subpart about the appellant's rights on the same facts and on the same issue(s) or claim(s), and this previous determination or decision has become binding by either administrative or judicial action.
+(5) The ALJ or attorney adjudicator dismisses a hearing request entirely or refuses to consider any one or more of the issues because a QIC, an ALJ or attorney adjudicator, or the Council has made a previous determination or decision under this subpart about the appellant's rights on the same facts and on the same issue(s) or claim(s), and this previous determination or decision has become binding by either administrative or judicial action.
 
-(7) The appellant abandons the request for hearing. An ALJ may conclude that an appellant has abandoned a request for hearing when the ALJ hearing office attempts to schedule a hearing and is unable to contact the appellant after making reasonable efforts to do so.
+(6) The appellant abandons the request for hearing. An ALJ or attorney adjudicator may conclude that an appellant has abandoned a request for hearing when OMHA attempts to schedule a hearing and is unable to contact the appellant after making reasonable efforts to do so.
 
-(b) *Notice of dismissal.* The ALJ mails a written notice of the dismissal of the hearing request to all parties at their last known address. The notice states that there is a right to request that the MAC vacate the dismissal action.
+(7) The appellant's request is not complete in accordance with § 405.1014(a)(1) or the appellant, other than an unrepresented beneficiary, did not send a copy of its request to the other parties in accordance with § 405.1014(d), after the appellant is provided with an opportunity to complete the request and/or send a copy of the request to the other parties.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65336, Dec. 9, 2009]
+(b) *Dismissal of request for review of a QIC dismissal.* An ALJ or attorney adjudicator dismisses a request for review of a QIC dismissal under any of the following conditions:
+
+(1) The person or entity requesting a review of a dismissal has no right to it under § 405.1004.
+
+(2) The party did not request a review within the stated time period and the ALJ or attorney adjudicator has not found good cause for extending the deadline, as provided in § 405.1014(e).
+
+(3) The beneficiary whose claim is being appealed died while the request for review is pending and all of the following criteria apply:
+
+(i) The request for review was filed by the beneficiary or the beneficiary's representative, and the beneficiary's surviving spouse or estate has no remaining financial interest in the case. In deciding this issue, the ALJ or attorney adjudicator considers if the surviving spouse or estate remains liable for the services that were denied or a Medicare contractor held the beneficiary liable for subsequent similar services under the limitation of liability provisions based on the denial of the services at issue.
+
+(ii) No other individuals or entities that have a financial interest in the case wish to pursue an appeal under § 405.1004.
+
+(iii) No other individual or entity filed a valid and timely request for a review of the QIC dismissal in accordance to § 405.1014.
+
+(4) The appellant's request is not complete in accordance with § 405.1014(a)(1) or the appellant, other than an unrepresented beneficiary, did not send a copy of its request to the other parties in accordance with § 405.1014(d), after the appellant is provided with an opportunity to complete the request and/or send a copy of the request to the other parties.
+
+(c) *Withdrawal of request.* At any time before notice of the decision, dismissal, or remand is mailed, if only one party requested the hearing or review of the QIC dismissal and that party asks to withdraw the request, an ALJ or attorney adjudicator may dismiss the request for hearing or request for review of a QIC dismissal. This request for withdrawal may be submitted in writing, or a request to withdraw a request for hearing may be made orally at a hearing before the ALJ. The request for withdrawal must include a clear statement that the appellant is withdrawing the request for hearing or review of the QIC dismissal and does not intend to further proceed with the appeal. If an attorney or other legal professional on behalf of a beneficiary or other appellant files the request for withdrawal, the ALJ or attorney adjudicator may presume that the representative has advised the appellant of the consequences of the withdrawal and dismissal.
+
+(d) *Notice of dismissal.* OMHA mails or otherwise transmits a written notice of the dismissal of the hearing or review request to all parties who were sent a copy of the request for hearing or review at their last known address. The notice states that there is a right to request that the ALJ or attorney adjudicator vacate the dismissal action. The appeal will proceed with respect to any other parties who filed a valid request for hearing or review regarding the same claim or disputed matter.
+
+(e) *Vacating a dismissal.* If good and sufficient cause is established, the ALJ or attorney adjudicator may vacate his or her dismissal of a request for hearing or review within 6 months of the date of the notice of dismissal.
+
+[82 FR 5119, Jan. 17, 2017]

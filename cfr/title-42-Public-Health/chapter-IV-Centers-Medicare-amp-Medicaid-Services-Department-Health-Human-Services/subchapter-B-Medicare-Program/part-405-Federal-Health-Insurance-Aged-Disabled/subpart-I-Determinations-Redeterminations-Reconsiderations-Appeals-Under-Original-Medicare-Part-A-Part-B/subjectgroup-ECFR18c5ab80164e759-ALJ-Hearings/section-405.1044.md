@@ -1,15 +1,23 @@
-##### § 405.1044 Consolidated hearing before an ALJ. #####
+##### § 405.1044 Consolidated proceedings. #####
 
-Link to an amendment published at 82 FR 5118, Jan. 17, 2017.
+(a) *Consolidated hearing.* (1) A consolidated hearing may be held if one or more of the issues to be considered at the hearing are the same issues that are involved in one or more other appeals pending before the same ALJ.
 
-(a) A consolidated hearing may be held if one or more of the issues to be considered at the hearing are the same issues that are involved in another request for hearing or hearings pending before the same ALJ.
+(2) It is within the discretion of the ALJ to grant or deny an appellant's request for consolidation. In considering an appellant's request, the ALJ may consider factors such as whether the claims at issue may be more efficiently decided if the appeals are consolidated for hearing. In considering the appellant's request for consolidation, the ALJ must take into account any adjudication deadlines for each appeal and may require an appellant to waive the adjudication deadline associated with one or more appeals if consolidation otherwise prevents the ALJ from deciding all of the appeals at issue within their respective deadlines.
 
-(b) It is within the discretion of the ALJ to grant or deny an appellant's request for consolidation. In considering an appellant's request, the ALJ may consider factors such as whether the claims at issue may be more efficiently decided if the requests for hearing are combined. In considering the appellant's request for consolidation, the ALJ must take into account the adjudication deadlines for each case and may require an appellant to waive the adjudication deadline associated with one or more cases if consolidation otherwise prevents the ALJ from deciding all of the appeals at issue within their respective deadlines.
+(3) The ALJ may also propose on his or her own motion to consolidate two or more appeals in one hearing for administrative efficiency, but may not require an appellant to waive the adjudication deadline for any of the consolidated cases.
 
-(c) The ALJ may also propose on his or her own motion to consolidate two or more cases in one hearing for administrative efficiency, but may not require an appellant to waive the adjudication deadline for any of the consolidated cases.
+(4) Notice of a consolidated hearing must be included in the notice of hearing issued in accordance with §§ 405.1020 and 405.1022.
 
-(d) Before consolidating a hearing, the ALJ must notify CMS of his or her intention to do so, and CMS may then elect to participate in the consolidated hearing, as a party, by sending written notice to the ALJ within 10 calendar days after receipt of the ALJ's notice of the consolidation.
+(b) *Consolidated or separate decision and record.* (1) If the ALJ decides to hold a consolidated hearing, he or she may make either—
 
-(e) If the ALJ decides to hold a consolidated hearing, he or she may make either a consolidated decision and record or a separate decision and record on each claim. The ALJ ensures that any evidence that is common to all claims and material to the common issue to be decided is included in the consolidated record or each individual record, as applicable.
+(i) A consolidated decision and record; or
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65336, Dec. 9, 2009]
+(ii) A separate decision and record on each appeal.
+
+(2) If a separate decision and record on each appeal is made, the ALJ is responsible for making sure that any evidence that is common to all appeals and material to the common issue to be decided, and audio recordings of any conferences that were conducted and the consolidated hearing are included in each individual administrative record, as applicable.
+
+(3) If a hearing will not be conducted for multiple appeals that are before the same ALJ or attorney adjudicator, and the appeals involve one or more of the same issues, the ALJ or attorney adjudicator may make a consolidated decision and record at the request of the appellant or on the ALJ's or attorney adjudicator's own motion.
+
+(c) *Limitation on consolidated proceedings.* Consolidated proceedings may only be conducted for appeals filed by the same appellant, unless multiple appellants aggregated claims to meet the amount in controversy requirement in accordance with § 405.1006 and the beneficiaries whose claims are at issue have all authorized disclosure of their protected information to the other parties and any participants.
+
+[82 FR 5118, Jan. 17, 2017]

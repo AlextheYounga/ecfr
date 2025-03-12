@@ -1,7 +1,5 @@
 ##### § 422.622 Requesting immediate QIO review of the decision to discharge from the inpatient hospital. #####
 
-Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
-
 (a) *Enrollee's right to an immediate QIO review.* An enrollee has a right to request an immediate review by the QIO when an MA organization or hospital (acting directly or through its utilization committee), with physician concurrence determines that inpatient care is no longer necessary.
 
 (b) *Requesting an immediate QIO review.* (1) An enrollee who wishes to exercise the right to an immediate review must submit a request to the QIO that has an agreement with the hospital as specified in § 476.78 of this chapter. The request must be made no later than the day of discharge and may be in writing or by telephone.
@@ -64,7 +62,7 @@ Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
 
 (i) If the MA organization authorized coverage of the inpatient admission directly or by delegation (or the admission constitutes emergency or urgently needed care, as described in §§ 422.2 and 422.112(c)), the MA organization continues to be financially responsible for the costs of the hospital stay when an appeal is filed under paragraph (a)(1) of this section until noon of the day after the QIO notifies the enrollee of its review determination, except as provided in paragraph (b)(5) of this section. If coverage of the hospital admission was never approved by the MA organization or the admission does not constitute emergency or urgently needed care as described in §§ 422.2 and 422.112(c), the MA organization is liable for the hospital costs only if it is determined on appeal that the hospital stay should have been covered under the MA plan.
 
-(ii) The hospital may not charge the MA organization (or the enrollee) if -
+(ii) The hospital may not charge the MA organization (or the enrollee) if—
 
 (A) It was the hospital (acting on behalf of the enrollee) that filed the request for immediate QIO review; and
 
@@ -78,6 +76,6 @@ Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
 
 (1) *Right to request a reconsideration.* If the enrollee is still an inpatient in the hospital and is dissatisfied with the determination, he or she may request a reconsideration according to the procedures described in § 422.626(g).
 
-(2) *Right to pursue the standard appeal process.* If the enrollee is no longer an inpatient in the hospital and is dissatisfied with this determination, the enrollee may appeal to an ALJ, the MAC, or a federal court, as provided for under this subpart.
+(2) *Right to pursue the standard appeal process.* If the enrollee is no longer an inpatient in the hospital and is dissatisfied with this determination, the enrollee may appeal to OMHA for an ALJ hearing, the Council, or a Federal court, as provided for under this subpart.
 
-[71 FR 68723, Nov. 27, 2006, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011]
+[71 FR 68723, Nov. 27, 2006, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 82 FR 5125, Jan. 17, 2017]
