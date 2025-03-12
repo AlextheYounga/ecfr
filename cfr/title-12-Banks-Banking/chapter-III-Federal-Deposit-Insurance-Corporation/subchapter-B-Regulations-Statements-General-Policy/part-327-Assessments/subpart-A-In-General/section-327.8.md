@@ -1,7 +1,5 @@
 ##### § 327.8 Definitions. #####
 
-Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
-
 For the purpose of this part 327:
 
 (a) *Deposits.* The term *deposit* has the meaning specified in section 3(*l*) of the Federal Deposit Insurance Act.
@@ -64,7 +62,7 @@ For the purpose of this part 327:
 
 (p) *Long-term unsecured debt* - For purposes of the unsecured debt adjustment as set forth in §§ 327.9(d)(1) and 327.16(e)(1)and the depository institution debt adjustment as set forth in §§ 327.9(d)(2) and 327.16(e)(2), long-term unsecured debt shall be unsecured debt with at least one year remaining until maturity; however, any such debt where the holder of the debt has a redemption option that is exercisable within one year of the reporting date shall not be deemed long-term unsecured debt.
 
-(q) *Reciprocal deposits* - Deposits that an insured depository institution receives through a deposit placement network on a reciprocal basis, such that: (1) for any deposit received, the institution (as agent for depositors) places the same amount with other insured depository institutions through the network; and (2) each member of the network sets the interest rate to be paid on the entire amount of funds it places with other network members.
+(q) *Brokered reciprocal deposits.* Reciprocal deposits as defined in § 337.6(e)(2)(v) that are not excepted from the institution's brokered deposits pursuant to § 337.6(e).
 
 (r) *Parent holding company* - A parent holding company has the same meaning as “depository institution holding company,” as defined in § 3(w) of the FDI Act.
 
@@ -84,4 +82,4 @@ For the purpose of this part 327:
 
 (z) *Well capitalized, adequately capitalized and undercapitalized.* For any insured depository institution other than an insured branch of a foreign bank, Well Capitalized, Adequately Capitalized and Undercapitalized have the same meaning as in: 12 CFR 6.4 (for national banks and federal savings associations), as either may be amended from time to time, except that 12 CFR 6.4(c)(1)(v) and (e), as they may be amended from time to time, shall not apply; 12 CFR 208.43 (for state member institutions), as either may be amended from time to time, except that 12 CFR 208.43(b)(1)(v) and (c), as they may be amended from time to time, shall not apply; and 12 CFR 324.403 (for state nonmember institutions and state savings associations), as either may be amended from time to time, except that 12 CFR 324.403(b)(1)(v) and (d), as they may be amended from time to time, shall not apply.
 
-[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016; 83 FR 14568, Apr. 5, 2018]
+[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016; 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019]

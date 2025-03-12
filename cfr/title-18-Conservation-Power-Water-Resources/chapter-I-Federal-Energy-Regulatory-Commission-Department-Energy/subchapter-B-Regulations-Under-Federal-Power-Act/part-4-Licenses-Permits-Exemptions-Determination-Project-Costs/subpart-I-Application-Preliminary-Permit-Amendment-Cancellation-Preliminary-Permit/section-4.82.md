@@ -1,5 +1,7 @@
 ##### § 4.82 Amendments. #####
 
+Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
+
 (a) Any permittee may file an application for amendment of its permit, including any extension of the term of the permit that would not cause the total term to exceed five years. (Transfer of a permit is prohibited by section 5 of the Federal Power Act.) Each application for amendment of a permit must conform to any relevant requirements of § 4.81 (b), (c), and (d).
 
 (b) If an application for amendment of a preliminary permit requests any material change in the proposed project, public notice of the application will be issued as required in § 4.32(d)(2)(i).

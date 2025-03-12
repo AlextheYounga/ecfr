@@ -1,5 +1,7 @@
 ##### § 11.1 Costs of administration. #####
 
+Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
+
 (a) *Authority.* Pursuant to section 10(e) of the Federal Power Act and section 3401 of the Omnibus Budget Reconciliation Act of 1986, the Commission will assess reasonable annual charges against licensees and exemptees to reimburse the United States for the costs of administration of the Commission's hydropower regulatory program.
 
 (b) *Scope.* The annual charges under this section will be charged to and allocated among:

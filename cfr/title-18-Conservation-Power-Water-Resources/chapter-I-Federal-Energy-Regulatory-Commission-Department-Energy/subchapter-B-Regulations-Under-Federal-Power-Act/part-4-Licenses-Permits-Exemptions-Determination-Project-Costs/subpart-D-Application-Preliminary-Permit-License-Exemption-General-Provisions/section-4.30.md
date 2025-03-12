@@ -1,5 +1,7 @@
 ##### § 4.30 Applicability and definitions. #####
 
+Link to an amendment published at 84 FR 7991, Mar. 6, 2019.
+
 (a) (1) This subpart applies to applications for preliminary permit, license, or exemption from licensing.
 
 (2) Any potential applicant for an original license for which prefiling consultation begins on or after July 23, 2005 and which wishes to develop and file its application pursuant to this part, must seek Commission authorization to do so pursuant to the provisions of part 5 of this chapter.

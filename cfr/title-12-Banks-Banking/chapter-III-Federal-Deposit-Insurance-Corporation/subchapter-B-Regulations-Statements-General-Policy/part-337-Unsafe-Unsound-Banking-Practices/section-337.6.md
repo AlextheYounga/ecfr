@@ -1,7 +1,5 @@
 ##### § 337.6 Brokered deposits. #####
 
-Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
-
 (a) *Definitions.* For the purposes of this § 337.6, the following definitions apply:
 
 (1) *Appropriate Federal banking agency* has the same meaning as provided under section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
@@ -68,7 +66,7 @@ Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
 
 (2)(i) An adequately capitalized insured depository institution may not accept, renew or roll over any brokered deposit unless it has applied for and been granted a waiver of this prohibition by the FDIC in accordance with the provisions of this section.
 
-(ii) Any adequately capitalized insured depository institution that has been granted a waiver to accept, renew or roll over a brokered deposit may not pay an effective yield on any such deposit which, at the time that such deposit is accepted, renewed or rolled over, exceeds by more than 75 basis points:
+(ii) Any adequately capitalized insured depository institution that has been granted a waiver to accept, renew or roll over a brokered deposit, or is an agent institution that receives a reciprocal deposit (under § 337.6(e)(2)(i)(C)), may not pay an effective yield on any such deposit which, at the time that such deposit is accepted, renewed or rolled over, exceeds by more than 75 basis points:
 
 (A) The effective yield paid on deposits of comparable size and maturity in such institution's normal market area for deposits accepted from within its normal market area; or
 
@@ -82,7 +80,35 @@ Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
 
 (d) *Exclusion for institutions in FDIC conservatorship.* No insured depository institution for which the FDIC has been appointed conservator shall be subject to the prohibition on the acceptance, renewal or rollover of brokered deposits contained in this § 337.6 or section 29 of the Federal Deposit Insurance Act for 90 days after the date on which the institution was placed in conservatorship. During this 90-day period, the institution shall, nevertheless, be subject to the restriction on the payment of interest contained in paragraph (b)(2)(ii) of the section. After such 90-day period, the institution may not accept, renew or roll over any brokered deposit.
 
-(e) A market is any readily defined geographical area in which the rates offered by any one insured depository institution soliciting deposits in that area may affect the rates offered by other insured depository institutions operating in the same area. The effective yield on a deposit with an odd maturity shall be determined by interpolating between the yields offered by other insured depository institutions on deposits of the next longer and shorter maturities offered in the market. For purposes of this § 337.6, a presumption shall exist that the prevailing rate or effective yield in the relevant market is the national rate as defined in paragraph (b)(2)(ii)(B) of this section unless the FDIC determines, in its sole discretion based on available evidence, that the effective yield in that market differs from the national rate. Evidence of the effective yield in a particular market may include (but is not limited to) the following:
+(e) *Limited exception for reciprocal deposits* - (1) *Limited exception.* Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of:
+
+(i) $5,000,000,000; or
+
+(ii) An amount equal to 20 percent of the total liabilities of the agent institution.
+
+(2) *Additional definitions that apply to the limited exception for reciprocal deposits.* (i) *Agent institution* means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution:
+
+(A)(*1*) When most recently examined under section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) was found to have a composite condition of outstanding or good; and
+
+(*2*) Is well capitalized;
+
+(B) Has obtained a waiver pursuant to paragraph (c) of this section; or
+
+(C) Does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the four calendar quarters preceding the calendar quarter in which the agent institution was found not to have a composite condition of outstanding or good or was determined to be not well capitalized.
+
+(ii) *Covered deposit* means a deposit that:
+
+(A) Is submitted for placement through a deposit placement network by an agent institution; and
+
+(B) Does not consist of funds that were obtained for the agent institution, directly or indirectly, by or through a deposit broker before submission for placement through a deposit placement network.
+
+(iii) *Deposit placement network* means a network in which an insured depository institution participates, together with other insured depository institutions, for the processing and receipt of reciprocal deposits.
+
+(iv) *Network member bank* means an insured depository institution that is a member of a deposit placement network.
+
+(v) *Reciprocal deposits* means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
+
+(f) A market is any readily defined geographical area in which the rates offered by any one insured depository institution soliciting deposits in that area may affect the rates offered by other insured depository institutions operating in the same area. The effective yield on a deposit with an odd maturity shall be determined by interpolating between the yields offered by other insured depository institutions on deposits of the next longer and shorter maturities offered in the market. For purposes of this § 337.6, a presumption shall exist that the prevailing rate or effective yield in the relevant market is the national rate as defined in paragraph (b)(2)(ii)(B) of this section unless the FDIC determines, in its sole discretion based on available evidence, that the effective yield in that market differs from the national rate. Evidence of the effective yield in a particular market may include (but is not limited to) the following:
 
 (1) Evidence as to the rates paid by other insured depository institutions in the same State, county or metropolitan statistical area (though the FDIC shall not be obligated to recognize each State, county or metropolitan statistical area as a separate market area);
 
@@ -90,4 +116,4 @@ Link to an amendment published at 84 FR 1353, Feb. 4, 2019.
 
 (3) Evidence as to the different rates paid on different deposit products in the same market area (though the FDIC shall not be obligated to recognize all alleged distinctions among various deposit products). (*Example:* For a particular market, evidence exists that the rates on money market deposit accounts (MMDAs) differ from the rates on negotiable order of withdrawal (NOW) accounts. MMDAs are distinguishable from NOW accounts in that the two types of accounts are subject to different legal requirements. Under these circumstances, for this market, the FDIC could recognize that the prevailing rate on MMDAs is different than the prevailing rate on NOW accounts.)
 
-[57 FR 23941, June 5, 1992, as amended at 58 FR 54935, Oct. 25, 1993; 60 FR 31384, June 15, 1995; 63 FR 44750, Aug. 20, 1998; 66 FR 17622, Apr. 3, 2001; 74 FR 27683, June 11, 2009; 78 FR 55595, Sept. 10, 2013; 83 FR 17740, Apr. 24, 2018]
+[57 FR 23941, June 5, 1992, as amended at 58 FR 54935, Oct. 25, 1993; 60 FR 31384, June 15, 1995; 63 FR 44750, Aug. 20, 1998; 66 FR 17622, Apr. 3, 2001; 74 FR 27683, June 11, 2009; 78 FR 55595, Sept. 10, 2013; 83 FR 17740, Apr. 24, 2018; 84 FR 1353, Feb. 4, 2019]

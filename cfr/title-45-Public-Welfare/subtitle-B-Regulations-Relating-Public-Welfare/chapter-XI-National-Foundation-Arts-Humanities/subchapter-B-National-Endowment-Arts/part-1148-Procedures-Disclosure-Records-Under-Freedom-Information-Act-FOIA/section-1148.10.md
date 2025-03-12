@@ -6,7 +6,7 @@
 
 (ii) Non-commercial scientific or educational institutions or news media requesters; and
 
-(ii) All other requesters.
+(iii) All other requesters.
 
 (2) Different fees are assessed depending on the category. Requesters may seek a fee waiver. The Arts Endowment will consider requests for fee waiver in accordance with the requirements in paragraph (k) of this section. To resolve any fee issues that arise under this section, the Arts Endowment may contact a requester for additional information. The Arts Endowment will ensure that searches, review, and duplication are conducted in the most efficient and the least expensive manner. The Arts Endowment ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States, or by another method as determined by the Arts Endowment.
 
@@ -20,7 +20,11 @@
 
 (4) *Educational institution* is any school that operates a program of scholarly research. A requester in this fee category must show that the request is made in connection with his or her role at the educational institution. The Arts Endowment may seek verification from the requester that the request is in furtherance of scholarly research and the Arts Endowment will advise requesters of their placement in this category.
 
-(i) Example 1.A request from a professor of architecture at a university for records relating to Arts Endowment grants related to architecture, written on letterhead of the Department of Geology, would be presumed to be from an educational institution.(ii) Example 2.A request from the same professor of architecture seeking translation grant information from the Arts Endowment in furtherance of a murder mystery he is writing would not be presumed to be an institutional request, regardless of whether it was written on institutional stationery.(iii) Example 3.A student who makes a request in furtherance of their coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request, would qualify as part of this fee category.
+(i) *Example 1.* A request from a professor of architecture at a university for records relating to Arts Endowment grants related to architecture, written on letterhead of the Department of Geology, would be presumed to be from an educational institution.
+
+(ii) *Example 2.* A request from the same professor of architecture seeking translation grant information from the Arts Endowment in furtherance of a murder mystery he is writing would not be presumed to be an institutional request, regardless of whether it was written on institutional stationery.
+
+(iii) *Example 3.* A student who makes a request in furtherance of their coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request, would qualify as part of this fee category.
 
 (5) *Noncommercial scientific institution* is an institution that is not operated on a “commercial” basis, as defined in paragraph (b)(1) of this section and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use. The Arts Endowment will advise requesters of their placement in this category.
 
@@ -124,4 +128,4 @@
 
 (4) Requests for a waiver or reduction of fees should be made when the request is first submitted to the Arts Endowment and should address the criteria referenced in paragraphs (k)(1) through (3) of this section. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester must pay any costs incurred up to the date the fee waiver request was received.
 
-Editorial Note:At 84 FR 6345, Feb. 27, 2019, part 1148 was added and § 1148.10 was set out with two paragraphs designated (a)(1)(ii).
+[84 FR 6345, Feb. 27, 2019; 84 FR 8003, Mar. 6, 2019]

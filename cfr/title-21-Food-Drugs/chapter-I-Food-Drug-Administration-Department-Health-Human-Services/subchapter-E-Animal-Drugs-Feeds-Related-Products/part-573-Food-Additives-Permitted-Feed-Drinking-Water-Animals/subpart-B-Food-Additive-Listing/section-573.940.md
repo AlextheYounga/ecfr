@@ -19,10 +19,11 @@ The food additive silicon dioxide may be safely used in animal feed in accordanc
 
 (d) It is used or intended for use in feed components, as a carrier as follows:
 
-|Feed component|Limitations  <br/>(percent)|
-|--------------|---------------------------|
-|   Flavors    |            50             |
+|         Feed component          |Limitations  <br/>(percent)|
+|---------------------------------|---------------------------|
+|             Flavors             |            50             |
+|Selenomethionine hydroxy analogue|            95             |
 
 (e) To ensure safe use of the additive, silicon dioxide is to be used in an amount not to exceed that reasonably required to accomplish its intended effect, and silicon dioxide from all sources cannot exceed 2 percent by weight of the complete feed.
 
-[41 FR 38652, Sept. 10, 1976, as amended at 83 FR 8930, Mar. 2, 2018]
+[41 FR 38652, Sept. 10, 1976, as amended at 83 FR 8930, Mar. 2, 2018; 84 FR 7993, Mar. 6, 2019]
