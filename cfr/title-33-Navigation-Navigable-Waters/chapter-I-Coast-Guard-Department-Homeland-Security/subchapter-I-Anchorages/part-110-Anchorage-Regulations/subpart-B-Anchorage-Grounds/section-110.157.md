@@ -1,8 +1,6 @@
 ##### § 110.157 Delaware Bay and River. #####
 
-Link to an amendment published at 87 FR 41250, July 12, 2022.
-
-(a) *The anchorage grounds* - (1) *Anchorage A off the entrance to the Mispillion River.* In Delaware Bay southwest of Brandywine Channel beginning at latitude 38°53′57″ N., longitude 75°08′00″ W., thence northwesterly to latitude 39°01′22″ N., longitude 75°13′25″ W., thence southwesterly to latitude 39°00′49″ N., longitude 75°14′57″ W., thence southeasterly to latitude 38°53′22″ N., longitude 75°09′26″ W., thence northeasterly to the point of beginning. Supervision over the anchoring of vessels and over all cargo transfer operations in Anchorage A is exercised by the Captain of the Port, Philadelphia. The regulations of paragraphs (b)(1) and (b)(2) of this section do not apply to this anchorage.
+(a) *The anchorage grounds*—(1) *Anchorage A off the entrance to the Mispillion River.* In Delaware Bay southwest of Brandywine Channel beginning at latitude 38°53′57″ N., longitude 75°08′00″ W., thence northwesterly to latitude 39°01′22″ N., longitude 75°13′25″ W., thence southwesterly to latitude 39°00′49″ N., longitude 75°14′57″ W., thence southeasterly to latitude 38°53′22″ N., longitude 75°09′26″ W., thence northeasterly to the point of beginning. Supervision over the anchoring of vessels and over all cargo transfer operations in Anchorage A is exercised by the Captain of the Port, Philadelphia. The regulations of paragraphs (b)(1) and (b)(2) of this section do not apply to this anchorage.
 
 (2) *Anchorage 1 off Bombay Hook Point.* On the southwest side of the channel along Liston Range, in the waters bounded by a line connecting the following points:
 
@@ -133,6 +131,31 @@ Link to an amendment published at 87 FR 41250, July 12, 2022.
 
 (17) *Anchorage 16 between Port Richmond and Five Mile Point.* On the northwest side of the channel, bounded as follows: Beginning at a point on the northwest edge of the channel at longitude 75°05′35″; thence northeasterly along the edge of the channel to longitude 75°04′20″; thence 328°, 125 yards; thence 243°, 450 yards; thence 251°, 475 yards; thence 257°, 1,042 yards; thence 174°30′, 122 yards, to the point of beginning. When necessary, this anchorage will be reserved for vessels under the custody of the United States, at which time other vessels may be required by the Captain of the Port to shift position.
 
+(18) [Reserved]
+
+(19) *Anchorage C—Cape Henlopen.* All waters bound by the following points:
+
+|   Latitude   |   Longitude   |
+|--------------|---------------|
+|38°40′54.00″ N|74°52′00.00″ W |
+|38°40′56.08″ N|74°48′51.34″ W |
+|38°37'36.00″ N|74°'48′30.00″ W|
+
+(DATUM: NAD 83)
+
+(20) *Anchorage D—Indian River.* All waters bound by the following points:
+
+|   Latitude   |  Longitude   |
+|--------------|--------------|
+|38°34′56.25″ N|74°52′19.12″ W|
+|38°33′40.91″ N|74°54′41.50″ W|
+|38°31′31.08″ N|74°55′27.96″ W|
+|38°29′07.35″ N|74°53′29.25″ W|
+|38°28′56.87″ N|74°50′28.69″ W|
+|38°30′07.37″ N|74°48′08.38″ W|
+
+(DATUM: NAD 83)
+
 (b) *General regulations.* (1) Except in cases of great emergency, no vessel shall be anchored in Delaware Bay and River between Ship John Light and The Pennsylvania Railroad Company bridge at Delair, New Jersey, outside of the anchorage areas established in this section, or within a cable or pipe line area shown on a Government chart, or be moored, anchored, or tied up to any pier, wharf, or other vessel in such manner as to obstruct or endanger the passage of any vessel. When an emergent condition exists due to congestion in the prescribed anchorage areas in the Delaware River, the Captain of the Port may authorize the anchorage of vessels in locations other than the prescribed areas. Vessels so anchored must not be anchored within the channel limits. Any vessel anchored outside of the prescribed anchorage limits must move to a prescribed anchorage area when space becomes available.
 
 (2) No vessel shall occupy any prescribed anchorage for a longer period than 48 hours without a permit from the Captain of the Port. Vessels expecting to be at anchor for more than 48 hours shall obtain a permit from the Captain of the Port for that purpose. No vessel in such condition that it is likely to sink or otherwise become a menace or obstruction to navigation or anchorage of other vessels shall occupy an anchorage except in an emergency, and then only for such period as may be permitted by the Captain of the Port.
@@ -181,6 +204,6 @@ Link to an amendment published at 87 FR 41250, July 12, 2022.
 
 (6) Vessels carrying explosives or on which explosives are to be loaded, within the weight limit specified in paragraph (c)(1) of this section, shall comply with the general regulations in paragraph (b) of this section when applicable.
 
-(7) Nothing in this section shall be construed as relieving any vessel or the owner or person-in-charge of any vessel, and all others concerned, of the duties and responsibilities imposed upon them to comply with the regulations governing the handling, loading or discharging of explosives entitled “Subchapter C - Hazardous Materials Regulations” (49 CFR Parts 171 through 177).
+(7) Nothing in this section shall be construed as relieving any vessel or the owner or person-in-charge of any vessel, and all others concerned, of the duties and responsibilities imposed upon them to comply with the regulations governing the handling, loading or discharging of explosives entitled “Subchapter C—Hazardous Materials Regulations” (49 CFR Parts 171 through 177).
 
 [CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.157, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
