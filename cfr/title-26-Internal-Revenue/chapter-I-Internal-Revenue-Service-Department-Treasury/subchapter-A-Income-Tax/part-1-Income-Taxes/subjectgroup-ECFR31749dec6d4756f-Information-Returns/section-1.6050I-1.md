@@ -8,7 +8,7 @@
 
 (3) *Cash received by agents*—(i) *General rule.* Except as provided in paragraph (a)(3)(ii) of this section, a person who in the course of a trade or business acts as an agent (or in some other similar capacity) and receives cash in excess of $10,000 from a principal, must report the receipt of cash under this section.
 
-(ii) *Exception.* An agent who receives cash from a principal and uses all of the cash within 15 days in a cash transaction (second cash transaction) which is reportable under section 6050I or section 5331 of title 31 of the United States Code and the corresponding regulations (31 CFR Chapter X), and who discloses the name, address, and taxpayer identification number of the principal to the recipient in the second cash transaction need not report the initial receipt of cash under this section.
+(ii) *Exception.* An agent who receives cash from a principal and uses all of the cash within 15 days in a cash transaction (second cash transaction) which is reportable under section 6050I or section 5331 of title 31 of the United States Code and the corresponding regulations (31 CFR Chapter X), and who discloses the name, address, and taxpayer identification number of the principal to the recipient in the second cash transaction need not report the initial receipt of cash under this section. An agent will be deemed to have met the disclosure requirements of this paragraph (a)(3)(ii) if the agent discloses only the name of the principal and the agent knows that the recipient has the principal's address and taxpayer identification number.
 
 (iii) *Example.* The following example illustrates the application of the rules in paragraphs (a)(3) (i) and (ii) of this section:
 
@@ -48,7 +48,7 @@ Example.On January 10, 1991, M receives an initial cash payment of $11,000 with 
 
 (C) A travel or entertainment activity.
 
-(iv) *Exception for certain loans.* A cashier's check, bank draft, traveler's check, or money order received in a designated reporting transaction is not treated as cash pursuant to paragraph (c)(1)(ii)(B)(*1*) of this section if the instrument constitutes the proceeds of a loan from a bank (as that term is defined in 31 CFR Chapter X).
+(iv) *Exception for certain loans.* A cashier's check, bank draft, traveler's check, or money order received in a designated reporting transaction is not treated as cash pursuant to paragraph (c)(1)(ii)(B)(*1*) of this section if the instrument constitutes the proceeds of a loan from a bank (as that term is defined in 31 CFR Chapter X). The recipient may rely on a copy of the loan document, a written statement from the bank, or similar documentation (such as a written lien instruction from the issuer of the instrument) to substantiate that the instrument constitutes loan proceeds.
 
 (v) *Exception for certain installment sales.* A cashier's check, bank draft, traveler's check, or money order received in a designated reporting transaction is not treated as cash pursuant to paragraph (c)(1)(ii)(B)(*1*) of this section if the instrument is received in payment on a promissory note or an installment sales contract (including a lease that is considered to be a sale for Federal income tax purposes). However, the preceding sentence applies only if—
 
@@ -145,4 +145,4 @@ Example.W, an individual engaged in the trade or business of selling aircraft, r
 
 (h) *Applicability date.* The rules of this section apply for returns required to be filed during calendar years beginning after December 31, 2023.
 
-[T.D. 8098, 51 FR 31611, Sept. 4, 1986; 51 FR 33033, Sept. 18, 1986, as amended by T.D. 8373, 56 FR 57976, 57977, Nov. 15, 1991; 58 FR 16496, Mar. 29, 1993; T.D. 8479, 58 FR 33764, June 21, 1993; T.D. 8974, 66 FR 67687, Dec. 31, 2001; T.D. 9972, 88 FR 11764, Feb. 23, 2023]
+[T.D. 8098, 51 FR 31611, Sept. 4, 1986; 51 FR 33033, Sept. 18, 1986, as amended by T.D. 8373, 56 FR 57976, 57977, Nov. 15, 1991; 58 FR 16496, Mar. 29, 1993; T.D. 8479, 58 FR 33764, June 21, 1993; T.D. 8974, 66 FR 67687, Dec. 31, 2001; T.D. 9972, 88 FR 11764, Feb. 23, 2023; 88 FR 41500, June 27, 2023]
