@@ -1,5 +1,7 @@
 ##### § 230.262 Disqualification provisions. #####
 
+Link to an amendment published at 86 FR 3597, Jan. 14, 2021.
+
 (a) *Disqualification events*. No exemption under this Regulation A shall be available for a sale of securities if the issuer; any predecessor of the issuer; any affiliated issuer; any director, executive officer, other officer participating in the offering, general partner or managing member of the issuer; any beneficial owner of 20% or more of the issuer's outstanding voting equity securities, calculated on the basis of voting power; any promoter connected with the issuer in any capacity at the time of filing, any offer after qualification, or such sale; any person that has been or will be paid (directly or indirectly) remuneration for solicitation of purchasers in connection with such sale of securities; any general partner or managing member of any such solicitor; or any director, executive officer or other officer participating in the offering of any such solicitor or general partner or managing member of such solicitor:
 
 (1) Has been convicted, within ten years before the filing of the offering statement (or five years, in the case of issuers, their predecessors and affiliated issuers), of any felony or misdemeanor:

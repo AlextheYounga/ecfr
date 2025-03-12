@@ -1,28 +1,26 @@
 ##### § 242.103 Approval of design of individual railroad programs by FRA. #####
 
-Link to an amendment published at 85 FR 81324, Dec. 15, 2020.
-
 (a) Each railroad shall submit its written certification program and request for approval in accordance with the procedures contained in appendix B of this part according to the following schedule:
 
 (1) A Class I railroad (including the National Railroad Passenger Corporation), Class II railroad, or railroad providing commuter service shall submit a program no later than September 30, 2012; and
 
 (2) A Class III railroad (including a switching and terminal or other railroad not otherwise classified) shall submit a program no later than January 31, 2013.
 
-(b) A railroad commencing operations after the pertinent date specified in paragraph (a) of this section shall submit its written certification program and request for approval in accordance with the procedures contained in appendix B to this part at least 60 days prior to commencing operations.
+(b) A railroad commencing operations after the pertinent date specified in paragraph (a) of this section shall submit its written certification program and request for approval in accordance with the procedures contained in appendix B to this part at least 60 days prior to commencing operations. The primary method for a railroad's submission is by email to *FRAOPCERTPROG@dot.gov.* For those railroads that are unable to send the program by email, the program may be sent to the Associate Administrator for Railroad Safety/Chief Safety Officer, Federal Railroad Administration, 1200 New Jersey Avenue SE, Washington, DC 20590.
 
 (c) Each railroad shall:
 
-(1) Simultaneous with its filing with the FRA, serve a copy of the submission filed pursuant to paragraph (a) or (b) of this section, a resubmission filed pursuant to paragraph (h) of this section, or a material modification filed pursuant to paragraph (i) of this section on the president of each labor organization that represents the railroad's employees subject to this part; and
+(1) Simultaneous with its filing with FRA, provide a copy of the submission filed pursuant to paragraph (a) or (b) of this section, a resubmission filed pursuant to paragraph (h) of this section, or a material modification filed pursuant to paragraph (i) of this section to the president of each labor organization that represents the railroad's employees subject to this part; and
 
-(2) Include in its submission filed pursuant to paragraph (a) or (b) of this section, a resubmission filed pursuant to paragraph (h) of this section, or a material modification filed pursuant to paragraph (i) of this section a statement affirming that the railroad has served a copy on the president of each labor organization that represents the railroad's employees subject to this part, together with a list of the names and addresses of persons served.
+(2) Include in its submission filed pursuant to paragraph (a) or (b) of this section, a resubmission filed pursuant to paragraph (h) of this section, or a material modification filed pursuant to paragraph (i) of this section a statement affirming that the railroad has provided a copy to the president of each labor organization that represents the railroad's employees subject to this part, together with a list of the names and addresses of persons provided a copy.
 
 (d) Not later than 45 days from the date of filing a submission pursuant to paragraph (a) or (b) of this section, a resubmission pursuant to paragraph (h) of this section, or a material modification pursuant to paragraph (i) of this section, any designated representative of railroad employees subject to this part may comment on the submission, resubmission, or material modification:
 
 (1) Each comment shall set forth specifically the basis upon which it is made, and contain a concise statement of the interest of the commenter in the proceeding;
 
-(2) Each comment shall be submitted to the Associate Administrator for Railroad Safety/Chief Safety Officer, FRA, 1200 New Jersey Avenue SE., Washington, DC 20590; and
+(2) Each comment shall be submitted by email to *FRAOPCERTPROG@dot.gov* or by mail to the Associate Administrator for Railroad Safety/Chief Safety Officer, FRA, 1200 New Jersey Avenue SE, Washington, DC 20590; and
 
-(3) The commenter shall certify that a copy of the comment was served on the railroad.
+(3) The commenter shall affirm that a copy of the comment was provided to the railroad.
 
 (e) The submission required by paragraph (a) or (b) of this section shall state the railroad's election either:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 81324, Dec. 15, 2020.
 
 (3) The modification submission will be handled in accordance with the procedures of paragraphs (g) and (h) of this section as though it were a new program.
 
-[76 FR 69841, Nov. 9, 2011, as amended at 77 FR 6491, Feb. 8, 2012]
+[76 FR 69841, Nov. 9, 2011, as amended at 77 FR 6491, Feb. 8, 2012; 85 FR 81324, Dec. 15, 2020]

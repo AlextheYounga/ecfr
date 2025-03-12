@@ -1,7 +1,5 @@
 ##### § 242.503 Petition requirements. #####
 
-Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
-
 (a) To obtain review of a railroad's decision to deny certification, deny recertification, or revoke certification, a person shall file a petition for review that complies with this section.
 
 (b) Each petition shall:
@@ -34,8 +32,10 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 
 (c) A petition seeking review of a railroad's decision to deny certification or recertification or revoke certification in accordance with the procedures required by § 242.407 filed with FRA more than 120 days after the date the railroad's denial or revocation decision was served on the petitioner will be denied as untimely except that the Operating Crew Review Board for cause shown may extend the petition filing period at any time in its discretion:
 
-(1) Provided the request for extension is filed before the expiration of the period provided in this paragraph; or
+(1) Provided that the request for extension is filed before the expiration of the period provided in this paragraph (c); or
 
-(2) Provided that the failure to timely file was the result of excusable neglect.
+(2) Provided that the failure to file timely was the result of excusable neglect.
 
 (d) A party aggrieved by a Board decision to deny a petition as untimely or not in compliance with the requirements of this section may file an appeal with the Administrator in accordance with § 242.511.
+
+[76 FR 69841, Nov. 9, 2011, as amended at 85 FR 81325, Dec. 15, 2020]

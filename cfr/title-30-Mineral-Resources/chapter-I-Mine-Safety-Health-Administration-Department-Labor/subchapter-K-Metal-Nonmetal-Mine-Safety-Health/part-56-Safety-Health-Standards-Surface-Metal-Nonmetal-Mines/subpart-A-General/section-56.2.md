@@ -56,11 +56,11 @@ The following definitions apply in this part. In addition definitions contained 
 
 *Combustible liquids* means liquids having a flash point at or above 100 °F (37.8 °C). They are divided into the following classes:
 
-(1) Class II liquids - those having flash points at or above 100 °F (37.8 °C) and below 140 °F (60 °C).
+(1) Class II liquids—those having flash points at or above 100 °F (37.8 °C) and below 140 °F (60 °C).
 
-(2) Class IIIA liquids - those having flash points at or above 140 °F (60 °C) and below 200 °F (93.4 °C).
+(2) Class IIIA liquids—those having flash points at or above 140 °F (60 °C) and below 200 °F (93.4 °C).
 
-(3) Class IIIB liquids - those having flash points at or above 200 °F (93.4 °C).
+(3) Class IIIB liquids—those having flash points at or above 200 °F (93.4 °C).
 
 *Combustible material* means a material that, in the form in which it is used and under the conditions anticipated, will ignite, burn, support combustion, or release flammable vapors when subjected to fire or heat. Wood, paper, rubber, and plastics are examples of combustible materials.
 
@@ -116,7 +116,7 @@ The following definitions apply in this part. In addition definitions contained 
 
 *Insulation* means a dielectric substance offering a high resistance to the passage of current and to a disruptive discharge through the substance.
 
-*Laminated partition* means a partition composed of the following material and minimum nominal dimensions:1/2-inch-thick plywood,1/2-inch-thick gypsum wallboard,1/8-inch-thick low carbon steel, and1/4-inch-thick plywood, bonded together in that order (IME-22 Box). A laminated partition also includes alternative construction materials described in the Institute of Makers of Explosives (IME) Safety Library Publication No. 22, “Recommendations for the Safe Transportation of Detonators in a Vehicle with Other Explosive Materials” (May 1993), and the “Generic Loading Guide for the IME-22 Container” (October 1993). The IME is located at 1120 19th Street NW., Suite 310, Washington, DC 20036-3605; 202-429-9280; *https://www.ime.org.* This incorporation by reference has been approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available at MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; and at all Metal and Nonmetal Mine Safety and Health District Offices, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
+*Laminated partition* means a partition composed of the following material and minimum nominal dimensions:1/2-inch-thick plywood,1/2-inch-thick gypsum wallboard,1/8-inch-thick low carbon steel, and1/4-inch-thick plywood, bonded together in that order (IME-22 Box). A laminated partition also includes alternative construction materials described in the Institute of Makers of Explosives (IME) Safety Library Publication No. 22, “Recommendations for the Safe Transportation of Detonators in a Vehicle with Other Explosive Materials” (May 1993), and the “Generic Loading Guide for the IME-22 Container” (October 1993). The IME is located at 1120 19th Street NW., Suite 310, Washington, DC 20036-3605; 202-429-9280; *https://www.ime.org.* This incorporation by reference has been approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available at MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; and at all Metal and Nonmetal Mine Safety and Health District Offices, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 *Lay* means the distance parallel to the axis of the rope in which a strand makes one complete turn about the axis of the rope.
 

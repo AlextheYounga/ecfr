@@ -1,5 +1,7 @@
 ##### § 150.1 Definitions. #####
 
+Link to an amendment published at 86 FR 3463, Jan. 14, 2021.
+
 As used in this part -
 
 (a) *Spot month* means the futures contract next to expire during that period of time beginning at the close of trading on the trading day preceding the first day on which delivery notices can be issued to the clearing organization of a contract market.

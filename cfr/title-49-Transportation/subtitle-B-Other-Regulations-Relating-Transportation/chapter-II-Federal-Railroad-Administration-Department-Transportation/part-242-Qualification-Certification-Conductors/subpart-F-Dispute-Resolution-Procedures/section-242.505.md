@@ -1,7 +1,5 @@
 ##### § 242.505 Processing certification review petitions. #####
 
-Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
-
 (a) Each petition shall be acknowledged in writing by FRA. The acknowledgment shall contain the docket number assigned to the petition and a statement of FRA's intention that the Board will attempt to render a decision on this petition within 180 days from the date that the railroad's response is received or from the date upon which the railroad's response period has lapsed pursuant to paragraph (c) of this section.
 
 (b) Upon receipt of the petition, FRA will notify the railroad that it has received the petition and where the petition may be accessed.
@@ -22,16 +20,18 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 
 (g) If the Board finds that there is insufficient basis for granting or denying the petition, the Board shall issue an order affording the parties an opportunity to provide additional information or argument consistent with its findings.
 
-(h) Standard of review for factual issues: When considering factual issues, the Board will determine whether there is substantial evidence to support the railroad's decision, and a negative finding is grounds for granting the petition.
+(h) When considering factual issues, the Board will determine whether there is substantial evidence to support the railroad's decision, and a negative finding is grounds for granting the petition.
 
-(i) Standard of review for procedural issues: When considering procedural issues, the Board will determine whether substantial harm was caused the petitioner by virtue of the failure to adhere to the dictated procedures for making the railroad's decision. A finding of substantial harm is grounds for reversing the railroad's decision. To establish grounds upon which the Board may grant relief, Petitioner must show:
+(i) When considering procedural issues, the Board will determine whether the petitioner suffered substantial harm that was caused by the failure to adhere to the dictated procedures for making the railroad's decision. A finding of substantial harm is grounds for reversing the railroad's decision. To establish grounds upon which the Board may grant relief, Petitioner must show:
 
 (1) That procedural error occurred, and
 
 (2) The procedural error caused substantial harm.
 
-(j) Standard of review for legal issues: Pursuant to its reviewing role, the Board will consider whether the railroad's legal interpretations are correct based on a *de novo* review.
+(j) Pursuant to its reviewing role, the Board will consider whether the railroad's legal interpretations are correct based on a *de novo* review.
 
-(k) The Board will determine whether the denial or revocation of certification or recertification was improper under this regulation (*i.e.,* based on an incorrect determination that the person failed to meet the certification requirements of this regulation) and grant or deny the petition accordingly. The Board will not otherwise consider the propriety of a railroad's decision, *i.e.,* it will not consider whether the railroad properly applied its own more stringent requirements.
+(k) The Board will determine whether the denial or revocation of certification or recertification was improper under this part (*i.e.,* based on an incorrect determination that the person failed to meet the certification requirements of this part) and grant or deny the petition accordingly. The Board will not otherwise consider the propriety of a railroad's decision, *i.e.,* it will not consider whether the railroad properly applied its own more stringent requirements.
 
 (l) The Board's written decision shall be served on the petitioner, including the petitioner's representative, if any, and the railroad.
+
+[76 FR 69841, Nov. 9, 2011, as amended at 85 FR 81325, Dec. 15, 2020]

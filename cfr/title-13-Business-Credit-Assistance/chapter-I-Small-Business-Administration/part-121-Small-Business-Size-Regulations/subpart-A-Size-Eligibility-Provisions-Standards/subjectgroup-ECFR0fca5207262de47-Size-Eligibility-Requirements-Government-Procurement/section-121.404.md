@@ -1,6 +1,8 @@
 ##### § 121.404 When is the size status of a business concern determined? #####
 
-(a) *Time of size* - (1) *Multiple award contracts.* With respect to Multiple Award Contracts, orders issued against a Multiple Award Contract, and Blanket Purchase Agreements issued against a Multiple Award Contract:
+(a) *Time of size.* SBA determines the size status of a concern, including its affiliates, as of the date the concern submits a written self-certification that it is small to the procuring activity as part of its initial offer or response which includes price.
+
+(1) *Multiple award contracts.* With respect to Multiple Award Contracts, orders issued against a Multiple Award Contract, and Blanket Purchase Agreements issued against a Multiple Award Contract:
 
 (i) *Single NAICS.* If a single NAICS code is assigned as set forth in § 121.402(c)(1)(i), SBA determines size status for the underlying Multiple Award Contract at the time of initial offer (or other formal response to a solicitation), which includes price, based upon the size standard set forth in the solicitation for the Multiple Award Contract, unless the concern was required to recertify under paragraph (g)(1), (2), or (3) of this section.
 
@@ -66,4 +68,4 @@
 
 (h) *Follow-on contracts.* A follow-on or renewal contract is a new contracting action. As such, size is determined as of the date the concern submits a written self-certification that it is small to the procuring agency as part of its initial offer including price for the follow-on or renewal contract.
 
-[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016; 83 FR 12851, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65661, Nov. 29, 2019; 85 FR 66180, Oct. 16, 2020; 85 FR 72917, Nov. 16, 2020]
+[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016; 83 FR 12851, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65661, Nov. 29, 2019; 85 FR 66180, Oct. 16, 2020; 85 FR 72917, Nov. 16, 2020; 86 FR 2959, Jan. 14, 2021]

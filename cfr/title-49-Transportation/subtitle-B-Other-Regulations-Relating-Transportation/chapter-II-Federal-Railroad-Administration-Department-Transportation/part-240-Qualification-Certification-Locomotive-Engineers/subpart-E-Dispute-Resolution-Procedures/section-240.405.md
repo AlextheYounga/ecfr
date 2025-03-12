@@ -1,25 +1,37 @@
-##### § 240.405 Processing qualification review petitions. #####
+##### § 240.405 Processing certification review petitions. #####
 
-Link to an amendment published at 85 FR 81318, Dec. 15, 2020.
+(a) Each petition shall be acknowledged in writing by FRA. The acknowledgment shall contain the docket number assigned to the petition and a statement of FRA's intention that the Board will attempt to render a decision on this petition within 180 days from the date that the railroad's response is received or from the date upon which the railroad's response period has lapsed pursuant to paragraph (c) of this section.
 
-(a) Each petition shall be acknowledged in writing by FRA. The acknowledgment shall contain the docket number assigned to the petition and a statement of FRA's intention that the Board will render a decision on this petition within 180 days from the date that the railroad's response is received or from the date upon which the railroad's response period has lapsed pursuant to paragraph (c) of this section.
+(b) Upon receipt of the petition, FRA will notify the railroad that it has received the petition and where the petition may be accessed.
 
-(b) Upon receipt of the petition, FRA will notify the railroad that it has received the petition and provide the railroad with a copy of the petition.
-
-(c) The railroad will be given a period of not to exceed 60 days to submit to FRA any information that the railroad considers pertinent to the petition. Late filings will only be considered to the extent practicable.
+(c) Within 60 days from the date of the notification provided in paragraph (b) of this section, the railroad may submit to FRA any information that the railroad considers pertinent to the petition. Late filings will only be considered to the extent practicable.
 
 (d) A railroad that submits such information shall:
 
-(1) Identify the petitioner by name and the docket number of the review proceeding;
+(1) Identify the petitioner by name and the docket number of the review proceeding and provide the railroad's email address (if available);
 
-(2) Provide a copy of the information being submitted to FRA to the petitioner.
+(2) Serve a copy of the information being submitted to FRA to the petitioner and petitioner's representative, if any; and
 
-(3) Submit the information in triplicate to the Docket Clerk, Federal Railroad Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590;
+(3) File the information with the Docket Clerk, U.S. Department of Transportation, Docket Operations (M-30), West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590. The form of such information may be in written or electronic form consistent with the standards and requirements established by the Federal Docket Management System and posted on its website at *http://www.regulations.gov.*
 
-(e) Each petition will then be referred to the Locomotive Engineer Review Board for a decision.
+(e) Each petition will then be referred to the Operating Crew Review Board for a decision.
 
-(f) The Board will determine whether the denial or revocation of certification or recertification was improper under this regulation (*i.e.,* based on an incorrect determination that the person failed to meet the qualification requirements of this regulation) and grant or deny the petition accordingly. The Board will not otherwise consider the propriety of a railroad's decision, *i.e.,* it will not consider whether the railroad properly applied its own more stringent requirements.
+(f) Based on the record, the Board shall have the authority to grant, deny, dismiss, or remand the petition.
 
-(g) Notice of that decision will be provided in writing to both the petitioner and the railroad. The decision will include findings of fact on which it is based.
+(g) If the Board finds that there is insufficient basis for granting or denying the petition, the Board shall issue an order affording the parties an opportunity to provide additional information or argument consistent with its findings.
 
-[56 FR 28254, June 19, 1991, as amended at 64 FR 60995, Nov. 8, 1999; 74 FR 25175, May 27, 2009]
+(h) When considering factual issues, the Board will determine whether there is substantial evidence to support the railroad's decision, and a negative finding is grounds for granting the petition.
+
+(i) When considering procedural issues, the Board will determine whether the petitioner suffered substantial harm that was caused by the failure to adhere to the dictated procedures for making the railroad's decision. A finding of substantial harm is grounds for reversing the railroad's decision. To establish grounds upon which the Board may grant relief, Petitioner must show:
+
+(1) That procedural error occurred; and
+
+(2) The procedural error caused substantial harm.
+
+(j) Pursuant to its reviewing role, the Board will consider whether the railroad's legal interpretations are correct based on a *de novo* review.
+
+(k) The Board will determine whether the denial or revocation of certification or recertification was improper under this part (*i.e.,* based on an incorrect determination that the person failed to meet the certification requirements of this part) and grant or deny the petition accordingly. The Board will not otherwise consider the propriety of a railroad's decision, *i.e.,* it will not consider whether the railroad properly applied its own more stringent requirements.
+
+(l) The Board's written decision shall be served on the petitioner, including the petitioner's representative, if any, and the railroad.
+
+[85 FR 81318, Dec. 15, 2020]

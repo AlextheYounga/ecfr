@@ -1,9 +1,7 @@
 ##### § 219.25 Previous employer drug and alcohol checks. #####
 
-Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
-
 (a) As required by § 219.701(a) and (b), a railroad must conduct drug or alcohol testing under this part in compliance with part 40 of this title (except for post-accident toxicological testing under subpart C of this part). A railroad must therefore comply with § 40.25 of this title by checking the alcohol and drug testing record of any direct regulated employee (a regulated employee who is not employed by a contractor to the railroad) it intends to use for regulated service before the employee performs such service for the first time. A railroad is not required to check the alcohol and drug testing record of contractor employees performing regulated service on its behalf (the alcohol and drug testing record of those contractor employees must be checked by their direct employers).
 
-(b) When determining whether a person may become or remain certified as a locomotive engineer or a conductor, a railroad must comply with the requirements in § 240.119(c) (for engineers) or § 242.115(e) (for conductors) of this chapter regarding the consideration of Federal alcohol and drug violations that occurred within a period of 60 consecutive months before the review of the person's records.
+(b) When determining whether a person may become or remain certified as a locomotive engineer or a conductor, a railroad must comply with the requirements in § 240.119(e) (for engineers) or § 242.115(e) (for conductors) of this chapter regarding the consideration of Federal alcohol and drug violations that occurred within a period of 60 consecutive months before the review of the person's records.
 
-[81 FR 37928, June 10, 2016]
+[81 FR 37928, June 10, 2016, as amended at 85 FR 81307, Dec. 15, 2020]

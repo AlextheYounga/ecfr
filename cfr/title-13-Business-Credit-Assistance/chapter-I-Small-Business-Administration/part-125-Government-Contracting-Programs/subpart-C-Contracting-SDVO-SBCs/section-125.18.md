@@ -60,7 +60,7 @@
 
 (ii) The parties will perform the contract in compliance with the joint venture agreement and with the performance of work requirements set forth in paragraph (b)(3) of this section.
 
-(5) *Past performance and experience.* When evaluating the past performance and experience of an entity submitting an offer for an SDVO contract as a joint venture established pursuant to this section, a procuring activity must consider work done individually by each partner to the joint venture as well as any work done by the joint venture itself previously.
+(5) *Capabilities, past performance, and experience.* When evaluating the capabilities, past performance, experience, business systems, and certifications of an entity submitting an offer for an SDVO contract as a joint venture established pursuant to this section, a procuring activity must consider work done and qualifications held individually by each partner to the joint venture as well as any work done by the joint venture itself previously. A procuring activity may not require the SDVO SBC to individually meet the same evaluation or responsibility criteria as that required of other offerors generally. The partners to the joint venture in the aggregate must demonstrate the past performance, experience, business systems, and certifications necessary to perform the contract.
 
 (6) *Contract execution.* The procuring activity will execute an SDVO contract in the name of the joint venture entity or the SDVO SBC, but in either case will identify the award as one to an SDVO joint venture or an SDVO mentor-protégé joint venture, as appropriate.
 
@@ -127,4 +127,4 @@ If the business is unable to recertify its SDVO status, the procuring agency may
 
 (2) SBA will find that a prime SDVO contractor is performing the primary and vital requirements of a contract or order and is not unduly reliant on one or more non-similarly situated subcontracts where the prime contractor can demonstrate that it, together with any similarly situated entity, will meet the limitations on subcontracting provisions set forth in § 125.6.
 
-[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65664, Nov. 29, 2019; 85 FR 27660, May 11, 2020; 85 FR 66196, Oct. 16, 2020]
+[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65664, Nov. 29, 2019; 85 FR 27660, May 11, 2020; 85 FR 66196, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]

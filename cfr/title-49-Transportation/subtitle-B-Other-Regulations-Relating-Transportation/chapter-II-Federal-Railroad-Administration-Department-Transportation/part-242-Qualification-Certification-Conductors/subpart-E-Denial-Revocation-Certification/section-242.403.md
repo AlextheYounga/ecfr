@@ -1,7 +1,5 @@
 ##### § 242.403 Criteria for revoking certification. #####
 
-Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
-
 (a) Each railroad shall adopt and comply with a program which meets the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of a program which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) It shall be unlawful to fail to comply with any of the railroad rules and practices described in paragraph (e) of this section.
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 
 (3) A certified conductor who is called by a railroad to perform the duty of a train crew member other than that of conductor or locomotive engineer shall not have his or her certification revoked based on actions taken or not taken while performing that duty.
 
-(d) Limitations on consideration of prior operating rule compliance data: In determining whether a person may be or remain certified as a conductor, a railroad shall consider as operating rule compliance data only conduct described in paragraphs (e)(1) through (e)(11) of this section that occurred within a period of 36 consecutive months prior to the determination. A review of an existing certification shall be initiated promptly upon the occurrence and documentation of any conduct described in this section.
+(d) In determining whether a person may be or remain certified as a conductor, a railroad shall consider as operating rule compliance data only conduct described in paragraphs (e)(1) through (11) of this section that occurred within a period of 36 consecutive months prior to the determination. A review of an existing certification shall be initiated promptly upon the occurrence and documentation of any conduct described in this section.
 
 (e) A railroad shall only consider violations of its operating rules and practices that involve:
 
@@ -51,3 +49,5 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 (3) An operational test that is not conducted in compliance with this part, a railroad's operating rules, or a railroad's program under § 217.9 of this chapter, will not be considered a legitimate test of operational skill or knowledge, and will not be considered for certification, recertification or revocation purposes.
 
 (4) A railroad shall not be permitted to deny or revoke an employee's certification based upon additional conditions or operational restrictions imposed pursuant to § 242.107(d).
+
+[76 FR 69841, Nov. 9, 2011, as amended at 85 FR 81325, Dec. 15, 2020]

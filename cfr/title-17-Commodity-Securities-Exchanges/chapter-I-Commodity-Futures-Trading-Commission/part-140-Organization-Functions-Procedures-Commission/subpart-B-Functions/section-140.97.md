@@ -1,5 +1,7 @@
 ##### § 140.97 Delegation of authority regarding requests for classification of positions as bona fide hedging. #####
 
+Link to an amendment published at 86 FR 3463, Jan. 14, 2021.
+
 (a) The Commodity Futures Trading Commission hereby delegates, until such time as the Commission orders otherwise, to the Director of the Division of Enforcement, or such other employee or employees as the Director may designate from time to time, all functions reserved to the Commission in §§ 1.47 and 1.48 of this chapter.
 
 (b) The Director of the Division of Enforcement may submit any matter which has been delegated to the Director under paragraph (a) of this section to the Commission for its consideration.

@@ -1,5 +1,7 @@
 ##### § 230.155 Integration of abandoned offerings. #####
 
+Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
+
 Compliance with paragraph (b) or (c) of this section provides a non-exclusive safe harbor from integration of private and registered offerings. Because of the objectives of Rule 155 and the policies underlying the Act, Rule 155 is not available to any issuer for any transaction or series of transactions that, although in technical compliance with the rule, is part of a plan or scheme to evade the registration requirements of the Act.
 
 (a) *Definition of terms.* For the purposes of this section only, a *private offering* means an unregistered offering of securities that is exempt from registration under Section 4(a)(2) or 4(5) of the Act (15 U.S.C. 77d(2) and 77d(5)) or Rule 506 of Regulation D (§ 230.506).

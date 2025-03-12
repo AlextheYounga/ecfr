@@ -12,7 +12,7 @@
 
 International Organization for Standardization, ISO Central Secretariat, 1, ch. de la Voie-Creuse, Case Postale 56, CH-1211 GENEVA 20, Switzerland. *http://www.standardsinfo.net.*
 
-(3) Persons may inspect a copy at MSHA, Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
+(3) Persons may inspect a copy at MSHA, Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) *Quality management audits.* Upon request, applicants or approval holders must allow NIOSH to inspect the quality management procedures and records, and to interview any employees who may be knowledgeable of quality management processes associated with the production of the CPDM. Audits may be conducted either on an occasional or periodic basis or in response to quality-related complaints or concerns.
 

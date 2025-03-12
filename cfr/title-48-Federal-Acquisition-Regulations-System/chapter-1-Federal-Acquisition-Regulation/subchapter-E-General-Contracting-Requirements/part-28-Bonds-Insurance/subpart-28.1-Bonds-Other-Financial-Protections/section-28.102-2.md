@@ -1,5 +1,7 @@
 ##### 28.102-2 Amount required. #####
 
+Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
+
 (a) *Definition.* As used in this subsection -
 
 *Original contract price* means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award.

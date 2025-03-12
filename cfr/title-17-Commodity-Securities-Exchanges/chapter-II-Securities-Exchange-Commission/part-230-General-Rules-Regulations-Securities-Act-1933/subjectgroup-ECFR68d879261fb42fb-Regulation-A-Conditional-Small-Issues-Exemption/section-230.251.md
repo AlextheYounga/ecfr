@@ -1,5 +1,7 @@
 ##### § 230.251 Scope of exemption. #####
 
+Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
+
 (a) *Tier 1 and Tier 2.* A public offer or sale of eligible securities, as defined in Rule 261 (§ 230.261), pursuant to Regulation A shall be exempt under section 3(b) from the registration requirements of the Securities Act of 1933 (the “Securities Act”) (15 U.S.C. 77a *et seq.*).
 
 (1) *Tier 1.* Offerings pursuant to Regulation A in which the sum of all cash and other consideration to be received for the securities being offered (“aggregate offering price”) plus the gross proceeds for all securities sold pursuant to other offering statements within the 12 months before the start of and during the current offering of securities (“aggregate sales”) does not exceed $20,000,000, including not more than $6,000,000 offered by all selling securityholders that are affiliates of the issuer (“Tier 1 offerings”).

@@ -1,0 +1,13 @@
+##### § 3030.162 Calculation of density rate authority. #####
+
+(a) *Formulas.* (1) The formula for calculating the amount of density rate authority, in conformance with paragraph (b)(1) of this section, is as follows:
+
+![](/graphics/er15de20.001.gif)Where:T = most recently completed fiscal year.T-1 = fiscal year prior to fiscal year T.ICT = institutional cost in fiscal year T.TCT = total cost in fiscal year T.%ΔD[T-1,T] = Percentage change in density from fiscal year T-1 to fiscal year T.
+
+(2) The formula for calculating the percentage change in density, in conformance with paragraph (b)(2) of this section, is as follows:
+
+![](/graphics/er15de20.002.gif)Where:T = most recently completed fiscal year.T-1 = fiscal year prior to fiscal year T.VT = volume in fiscal year T (either market dominant volume or total volume as discussed in paragraph (b)(2) of this section).DPT = delivery points in fiscal year T.
+
+(b) *Calculation.* (1) The amount of density rate authority available under this section shall be calculated in three steps. First, the percentage change in density during the most recently completed fiscal year shall be calculated using the formula in paragraph (a)(2) of this section as described in paragraph (b)(2) of this section. Second, this percentage change shall be multiplied by the institutional cost ratio, which is calculated as institutional costs for the most recently completed fiscal year divided by total costs for that fiscal year. Finally, this product shall be multiplied by negative 1 so that declines in density correspond to a positive increase in rates. If the result of this calculation is less than 0, the amount of additional rate authority shall be 0.
+
+(2) The percentage change in density from the prior fiscal year shall be calculated as the ratio of volume to delivery points for the most recently completed fiscal year, divided by the same ratio for the prior fiscal year, and subtracting 1 from the quotient. The result is expressed as a percentage, rounded to three decimal places. To ensure that decreases in competitive product volume will not result in the Postal Service receiving greater additional rate adjustment authority under this subpart, the percentage change in density shall be calculated two ways: Using market dominant volume and using total volume. The greater of the two results (not using absolute value) shall be used as the percentage change in density from the prior fiscal year.

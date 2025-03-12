@@ -1,5 +1,7 @@
 ##### 53.228 Bonds and insurance. #####
 
+Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
+
 The following standard forms are prescribed for use for bond and insurance requirements, as specified in part 28. These forms can be found at the GSA Forms Library at *https://www.gsa.gov/forms.* All the following forms are authorized for local reproduction, except for SF 25B.
 
 (a) SF 24 (Rev. 8/2016) Bid Bond. (See 28.106-1.)

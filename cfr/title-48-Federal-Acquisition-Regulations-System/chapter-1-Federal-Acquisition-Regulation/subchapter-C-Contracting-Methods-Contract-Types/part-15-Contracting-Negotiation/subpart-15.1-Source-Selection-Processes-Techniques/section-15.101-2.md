@@ -1,5 +1,7 @@
 ##### 15.101-2 Lowest price technically acceptable source selection process. #####
 
+Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
+
 (a) The lowest price technically acceptable source selection process is appropriate when best value is expected to result from selection of the technically acceptable proposal with the lowest evaluated price.
 
 (b) When using the lowest price technically acceptable process, the following apply:

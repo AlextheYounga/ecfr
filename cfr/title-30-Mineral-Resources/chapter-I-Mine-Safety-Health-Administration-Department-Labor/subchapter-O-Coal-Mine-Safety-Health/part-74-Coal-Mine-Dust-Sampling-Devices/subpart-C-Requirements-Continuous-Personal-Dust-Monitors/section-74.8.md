@@ -20,6 +20,6 @@
 
 (1) Persons must proceed in accordance with NIOSH testing procedure “Continuous Personal Dust Monitor Accuracy Testing,” June 23, 2008. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Persons may obtain a copy at the address below: NIOSH-Publications Dissemination, 4676 Columbia Parkway, Cincinnati, OH 45226. *http://www.cdc.gov/niosh/mining.*
 
-(2) Persons may inspect a copy at MSHA, Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
+(2) Persons may inspect a copy at MSHA, Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5452; 202-693-9440; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 [75 FR 17523, Apr. 6, 2010, as amended at 80 FR 52990, Sept. 2, 2015]

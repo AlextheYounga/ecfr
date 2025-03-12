@@ -1,5 +1,7 @@
 ##### § 15.01 Persons required to report. #####
 
+Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
+
 Pursuant to the provisions of the Act, the following persons shall file reports with the Commission with respect to such commodities, on such forms, at such time, and in accordance with such directions as are hereinafter set forth:
 
 (a) Reporting markets - as specified in parts 16, 17, and 21 of this chapter.

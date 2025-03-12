@@ -1,5 +1,7 @@
 ##### 52.229-12 Tax on Certain Foreign Procurements. #####
 
+Link to an amendment published at 86 FR 3689, Jan. 14, 2021.
+
 As prescribed in 29.402-3(b), insert the following clause:
 
 Tax on Certain Foreign Procurements (JUN 2020)

@@ -1,8 +1,6 @@
 ##### § 240.409 Hearings. #####
 
-Link to an amendment published at 85 FR 81319, Dec. 15, 2020.
-
-(a) An administrative hearing for a locomotive engineer qualification petition shall be conducted by a presiding officer, who can be any person authorized by the Administrator, including an administrative law judge.
+(a) An administrative hearing for a locomotive engineer certification petition shall be conducted by a presiding officer, who can be any person authorized by the Administrator, including an administrative law judge.
 
 (b) The presiding officer may exercise the powers of the Administrator to regulate the conduct of the hearing for the purpose of achieving a prompt and fair determination of all material issues in controversy.
 
@@ -44,9 +42,9 @@ Link to an amendment published at 85 FR 81319, Dec. 15, 2020.
 
 (6) Take any other action authorized by or consistent with the provisions of this part and permitted by law that may expedite the hearing or aid in the disposition of the proceeding.
 
-(p) The petitioner before the Locomotive Engineer Review Board, the railroad involved in taking the certification action, and FRA shall be parties at the hearing. All parties may participate in the hearing and may appear and be heard on their own behalf or through designated representatives. All parties may offer relevant evidence, including testimony, and may conduct such cross-examination of witnesses as may be required to make a record of the relevant facts.
+(p) The petitioner before the Operating Crew Review Board, the railroad involved in taking the certification action, and FRA shall be parties at the hearing. All parties may participate in the hearing and may appear and be heard on their own behalf or through designated representatives. All parties may offer relevant evidence, including testimony, and may conduct such cross-examination of witnesses as may be required to make a record of the relevant facts.
 
-(q) The party requesting the administrative hearing shall be the “hearing petitioner.” The hearing petitioner shall have the burden of proving its case by a preponderance of the evidence. Hence, if the hearing petitioner is the railroad involved in taking the certification action, that railroad will have the burden of proving that its decision to deny certification, deny recertification, or revoke certification was correct. Conversely, if the petitioner before the Locomotive Engineer Review Board is the hearing petitioner, that person will have the burden of proving that the railroad's decision to deny certification, deny recertification, or revoke certification was incorrect. Between the petitioner before the Locomotive Engineer Review Board and the railroad involved in taking the certification action, the party who is not the hearing petitioner will be a respondent.
+(q) The party requesting the administrative hearing shall be the “hearing petitioner.” The hearing petitioner shall have the burden of proving its case by a preponderance of the evidence. Hence, if the hearing petitioner is the railroad involved in taking the certification action, that railroad will have the burden of proving that its decision to deny certification, deny recertification, or revoke certification was correct. Conversely, if the petitioner before the Operating Crew Review Board is the hearing petitioner, that person will have the burden of proving that the railroad's decision to deny certification, deny recertification, or revoke certification was incorrect. Between the petitioner before the Operating Crew Review Board and the railroad involved in taking the certification action, the party who is not the hearing petitioner will be a respondent.
 
 (r) FRA will be a mandatory party to the administrative hearing. At the start of each proceeding, FRA will be a respondent.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 85 FR 81319, Dec. 15, 2020.
 
 (5) Is not precedential.
 
-[60 FR 53137, Oct. 12, 1995]
+[60 FR 53137, Oct. 12, 1995, as amended at 85 FR 81319, Dec. 15, 2020]

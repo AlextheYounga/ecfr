@@ -1,6 +1,4 @@
-##### § 240.107 Criteria for designation of classes of service. #####
-
-Link to an amendment published at 85 FR 81309, Dec. 15, 2020.
+##### § 240.107 Types of service. #####
 
 (a) Each railroad's program shall state which of the three classes of service, provided for in paragraph (b) of this section, that it will cover.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 81309, Dec. 15, 2020.
 
 (e) A railroad shall not reclassify the certification of any type of certified engineer to a more restrictive class of certificate or a student engineer certificate during the period in which the certification is otherwise valid.
 
-[56 FR 28254, June 19, 1991, as amended at 74 FR 68182, Dec. 23, 2009]
+[56 FR 28254, June 19, 1991, as amended at 74 FR 68182, Dec. 23, 2009; 85 FR 81309, Dec. 15, 2020]

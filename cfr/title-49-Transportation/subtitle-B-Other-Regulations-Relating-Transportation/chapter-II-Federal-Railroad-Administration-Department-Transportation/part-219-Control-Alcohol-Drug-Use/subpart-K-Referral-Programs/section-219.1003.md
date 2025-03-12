@@ -1,7 +1,5 @@
 ##### § 219.1003 Referral program conditions. #####
 
-Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
-
 (a) *General.* A referral program must specify the allowances, conditions, and procedures under which a self-referral, co-worker referral, and, if adopted, a non-peer referral, can occur, as follows:
 
 (1) For a self-referral, a railroad must identify one or more designated DAC contacts (including telephone number and email (if available)) and any expectations regarding when the referral is allowed to take place (such as during non-duty hours, or while the employee is unimpaired, or both, as § 219.1005 permits);
@@ -38,12 +36,14 @@ Link to an amendment published at 85 FR 81307, Dec. 15, 2020.
 
 (4) A railroad must return an employee to regulated service within five working days of the DAC's notification to the railroad that the employee is fit to return to regulated service, unless the employee has a disqualifying medical condition. (*i.e.,* the employee is at a low risk to return to drug or alcohol abuse).
 
-(i) *Rehabilitation plan.* No person - whether an employing railroad, managed care provider, service agent, individual, or any person other than the DAC who conducted the initial evaluation - may change in any way the DAC's evaluation or recommendations for assistance. The DAC who made the initial evaluation may modify the employee's initial evaluation and follow-up recommendation(s) based on new or additional information.
+(i) *Rehabilitation plan.* No person—whether an employing railroad, managed care provider, service agent, individual, or any person other than the DAC who conducted the initial evaluation—may change in any way the DAC's evaluation or recommendations for assistance. The DAC who made the initial evaluation may modify the employee's initial evaluation and follow-up recommendation(s) based on new or additional information.
 
-(j) *Locomotive engineers and conductors.* Consistent with §§ 240.119(e) and 242.115(g) of this chapter, for a certified locomotive engineer, certified conductor, or a candidate for engineer or conductor certification, the referral program must state that confidentiality is waived (to the extent the railroad receives from a DAC official notice of the active drug abuse disorder and suspends or revokes the certification, as appropriate) if the employee at any time refuses to cooperate in a recommended course of counseling or treatment.
+(j) *Locomotive engineers and conductors.* Consistent with §§ 240.119(g) and 242.115(g) of this chapter, for a certified locomotive engineer, certified conductor, or a candidate for engineer or conductor certification, the referral program must state that confidentiality is waived (to the extent the railroad receives from a DAC official notice of the active drug abuse disorder and suspends or revokes the certification, as appropriate) if the employee at any time refuses to cooperate in a recommended course of counseling or treatment.
 
 (k) *Contacting a DAC.* If a regulated employee does not contact a DAC within the railroad's specified time limits, the railroad may begin an investigation to assess the employee's cooperation and compliance with its referral program.
 
 (l) *Time requirements for DAC evaluations.* Once a regulated employee has contacted the designated DAC, the DAC's evaluation must be completed within 10 working days. If the employee needs more than one evaluation, the evaluations must be completed within 20 working days.
 
 (m) *Time limitations on follow-up treatment, care, or testing.* Any follow-up treatment, care, or testing established under a referral program must not exceed 24 months beyond an regulated employee's initial removal from regulated service, unless the regulated employee's entry into the program involved a substantiated part 219 violation.
+
+[81 FR 37942, June 10, 2016, as amended at 85 FR 81307, Dec. 15, 2020]

@@ -1,12 +1,10 @@
 ##### § 3040.132 Supporting justification. #####
 
-Link to an amendment published at 85 FR 81138, Dec. 15, 2020.
-
 Supporting justification shall be in the form of a statement from one or more knowledgeable Postal Service official(s) who sponsors the request and attests to the accuracy of the information contained within the statement. The justification shall:
 
-(a) Demonstrate why the change is in accordance with the policies and the applicable criteria of chapter 36 of title 39 of the United States Code;
+(a) Explain the reason for initiating the docket and explain why the change is not inconsistent with the applicable requirements of this part and any applicable Commission directives and orders;
 
-(b) Explain why, as to market dominant products, the change is not inconsistent with each requirement of 39 U.S.C. 3622(d), and that it advances the objectives of 39 U.S.C. 3622(b), taking into account the factors of 39 U.S.C. 3622(c);
+(b) Explain why, as to market dominant products, the change is not inconsistent with the policies and the applicable criteria of chapter 36 of title 39 of the United States Code;
 
 (c) Explain why, as to competitive products, the addition, deletion, or transfer will not result in the violation of any of the standards of 39 U.S.C. 3633;
 
@@ -30,4 +28,4 @@ Supporting justification shall be in the form of a statement from one or more kn
 
 (i) Include such information and data, and such statements of reasons and bases, as are necessary and appropriate to fully inform the Commission of the nature, scope, significance, and impact of the proposed modification.
 
-[72 FR 63698, Nov. 9, 2007. Redesignated at 85 FR 9615, Feb. 19, 2020]
+[72 FR 63698, Nov. 9, 2007. Redesignated at 85 FR 9615, Feb. 19, 2020, as amended at 85 FR 81138, Dec. 15, 2020]

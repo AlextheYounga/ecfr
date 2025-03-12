@@ -1,5 +1,7 @@
 ##### § 230.500 Use of Regulation D. #####
 
+Link to an amendment published at 86 FR 3597, Jan. 14, 2021.
+
 Users of Regulation D (§§ 230.500 *et seq.*) should note the following:
 
 (a) Regulation D relates to transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 (the Act) (15 U.S.C.77a *et seq.,* as amended). Such transactions are not exempt from the antifraud, civil liability, or other provisions of the federal securities laws. Issuers are reminded of their obligation to provide such further material information, if any, as may be necessary to make the information required under Regulation D, in light of the circumstances under which it is furnished, not misleading.

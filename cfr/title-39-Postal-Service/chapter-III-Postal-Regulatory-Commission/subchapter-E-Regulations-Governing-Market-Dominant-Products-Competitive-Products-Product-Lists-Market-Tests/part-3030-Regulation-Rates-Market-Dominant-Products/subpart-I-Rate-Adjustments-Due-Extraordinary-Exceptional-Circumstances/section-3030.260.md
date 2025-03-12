@@ -1,0 +1,3 @@
+##### § 3030.260 General. #####
+
+The Postal Service may request to adjust rates for market dominant products due to extraordinary or exceptional circumstances pursuant to 39 U.S.C. 3622(d)(1)(E). The rate adjustments are not subject to rate adjustment limitations or the restrictions on the use of unused rate adjustment authority. The rate adjustment request may not include material classification changes. The request is subject to public participation and Commission review within 90 days.

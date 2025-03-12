@@ -1,0 +1,3 @@
+##### § 3030.266 Deadline for Commission decision. #####
+
+Requests under this subpart seek rate relief required by extraordinary or exceptional circumstances and will be treated with expedition at every stage. It is Commission policy to provide appropriate relief as quickly as possible consistent with statutory requirements and procedural fairness. The Commission will act expeditiously on the Postal Service's request, taking into account all written comments. In every instance, a Commission decision will be issued within 90 days of the filing of an exigent request.

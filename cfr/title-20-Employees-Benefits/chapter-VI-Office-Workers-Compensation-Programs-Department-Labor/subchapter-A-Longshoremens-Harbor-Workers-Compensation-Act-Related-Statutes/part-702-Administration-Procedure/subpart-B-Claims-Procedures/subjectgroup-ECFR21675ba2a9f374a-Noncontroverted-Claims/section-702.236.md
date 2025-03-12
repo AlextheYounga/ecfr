@@ -1,6 +1,6 @@
 ##### § 702.236 Penalty for failure to report termination of payments. #####
 
-Link to an amendment published at 85 FR 80612, Dec. 14, 2020.
+Link to an amendment published at 85 FR 80612, Dec. 14, 2020.Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 Any employer failing to notify the district director that the final payment of compensation has been made as required by § 702.235 shall be assessed a civil penalty in the amount of $297 for any violation for which penalties are assessed after January 15, 2020. The district director has the authority and responsibility for assessing a civil penalty under this section.
 

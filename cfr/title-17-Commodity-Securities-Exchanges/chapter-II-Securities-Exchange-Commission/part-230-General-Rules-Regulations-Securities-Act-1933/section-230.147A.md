@@ -1,5 +1,7 @@
 ##### § 230.147A Intrastate sales exemption. #####
 
+Link to an amendment published at 86 FR 3594, Jan. 14, 2021.
+
 (a) *Scope of the exemption.* Offers and sales by or on behalf of an issuer of its securities made in accordance with this section (§ 230.147A) are exempt from section 5 of the Act (15 U.S.C. 77e). This exemption is not available to an issuer that is an investment company registered or required to be registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
 
 (b) *Manner of offers and sales.* An issuer, or any person acting on behalf of the issuer, may rely on this exemption to make offers and sales using any form of general solicitation and general advertising, so long as the issuer complies with the provisions of paragraphs (c), (d), and (f) through (h) of this section.

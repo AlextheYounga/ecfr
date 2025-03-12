@@ -1,0 +1,3 @@
+##### § 3030.280 Applicability. #####
+
+This subpart is applicable whenever the Postal Service proposes to adjust a rate associated with a workshare discount. For the purpose of this subpart, the cost avoided by the Postal Service for not providing the applicable service refers to the amount identified in the most recently applicable Annual Compliance Determination, unless the Commission otherwise provides.

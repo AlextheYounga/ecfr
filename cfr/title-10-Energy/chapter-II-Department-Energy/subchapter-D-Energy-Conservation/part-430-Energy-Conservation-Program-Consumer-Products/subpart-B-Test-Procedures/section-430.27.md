@@ -1,7 +1,5 @@
 ##### § 430.27 Petitions for waiver and interim waiver. #####
 
-Link to an amendment published at 85 FR 79820, Dec. 11, 2020.
-
 (a) *General information.* This section provides a means for seeking waivers of the test procedure requirements of this subpart for basic models that meet the requirements of paragraph (a)(1) of this section. In granting a waiver or interim waiver, DOE will not change the energy use or efficiency metric that the manufacturer must use to certify compliance with the applicable energy conservation standard and to make representations about the energy use or efficiency of the covered product. The granting of a waiver or interim waiver by DOE does not exempt such basic models from any other regulatory requirement contained in this part or the certification and compliance requirements of 10 CFR part 429 and specifies an alternative method for testing the basic models addressed in the waiver.
 
 (1) Any interested person may submit a petition to waive for a particular basic model any requirements of § 430.23 or of any appendix to this subpart, upon the grounds that the basic model contains one or more design characteristics which either prevent testing of the basic model according to the prescribed test procedures or cause the prescribed test procedures to evaluate the basic model in a manner so unrepresentative of its true energy and/or water consumption characteristics as to provide materially inaccurate comparative data.
@@ -32,7 +30,11 @@ Link to an amendment published at 85 FR 79820, Dec. 11, 2020.
 
 (3) A petitioner may, within 10 working days of the close of the comment period specified in the Federal Register, submit a rebuttal statement to DOE. A petitioner may rebut more than one comment in a single rebuttal statement.
 
-(e) *Provisions specific to interim waivers* - (1) *Disposition of application.* If administratively feasible, DOE will notify the applicant in writing of the disposition of the petition for interim waiver within 30 business days of receipt of the application. Notice of DOE's determination on the petition for interim waiver will be published in the Federal Register.
+(e) *Provisions specific to interim waivers* - (1) *Disposition of petition.* (i) Within 5 business days of receipt of a petition for an interim waiver, DOE will post that petition for an interim waiver on its website.
+
+(ii) In those cases where DOE receives a petition for an interim waiver in conjunction with a petition for waiver, DOE will review the petition for interim waiver within 45 business days of receipt of the petition. Where the manufacturer does not specify any alternate test procedure, or otherwise fails to satisfy the other required criteria specified under paragraph (b)(2) of this section, DOE will deny the petition for interim waiver. In such case, DOE will notify the applicant of the denial within the 45-day review period and process the request for waiver in accordance with this section. If DOE does not notify the applicant of the disposition of the petition for interim waiver, in writing, within 45 business days of receipt of the petition, the interim waiver is granted utilizing the alternate test procedure requested in the petition. Notice of DOE's determination on the petition for interim waiver will be posted on the Department's website not later than 5 business days after the end of the review period. Such determination will also be submitted for publication in the Federal Register.
+
+(iii) A petition submitted under this paragraph (whether for an interim waiver or waiver) is considered “received” on the date it is received by the Department through the Department's established email box for receipt of waiver petitions or, if delivered by mail, on the date the waiver petition is stamped as received by the Department.
 
 (2) Criteria for granting. DOE will grant an interim waiver from the test procedure requirements if it appears likely that the petition for waiver will be granted and/or if DOE determines that it would be desirable for public policy reasons to grant immediate relief pending a determination on the petition for waiver.
 
@@ -42,15 +44,17 @@ Link to an amendment published at 85 FR 79820, Dec. 11, 2020.
 
 (g) *Extension to additional basic models.* A petitioner may request that DOE extend the scope of a waiver or an interim waiver to include additional basic models employing the same technology as the basic model(s) set forth in the original petition. DOE will publish any such extension in the Federal Register.
 
-(h) *Duration.* (1) Within one year of issuance of an interim waiver, DOE will either:
+(h) *Duration.* (1) Interim waivers remain in effect until the earlier of the following:
 
-(i) Publish in the Federal Register a determination on the petition for waiver; or
+(i) DOE publishes a decision and order on a petition for waiver in the Federal Register pursuant to paragraph (f) of this section; or
 
-(ii) Publish in the Federal Register a new or amended test procedure that addresses the issues presented in the waiver.
+(ii) DOE publishes in the Federal Register a new or amended test procedure that addresses the issue(s) presented in the waiver.
 
-(2) When DOE amends the test procedure to address the issues presented in a waiver, the waiver will automatically terminate on the date on which use of that test procedure is required to demonstrate compliance.
+(2) Within one year of a determination to grant an interim waiver, DOE will complete either paragraph (h)(1)(i) or (ii) of this section as specified in this section.
 
-(i) *Compliance certification.* (1) If the alternate test procedure specified in the interim waiver differs from the alternate test procedure specified by DOE in a subsequent decision and order granting the petition for waiver, a manufacturer who has already certified basic models using the procedure permitted in DOE's grant of an interim test procedure waiver is not required to re-test and re-rate those basic models so long as: The manufacturer used that alternative procedure to certify the compliance of the basic model after DOE granted the company's interim waiver request; changes have not been made to those basic models that would cause them to use more energy or otherwise be less energy efficient; and the manufacturer does not modify the certified rating. However, if the alternate test procedure specified in the interim waiver differs from the alternate test procedure specified by DOE in a subsequent decision and order granting the petition for waiver and if specified by DOE in the decision and order, the manufacturer must re-test and re-certify compliance using the procedure specified by DOE in the decision and order by the time of the next annual certification.
+(3) When DOE amends the test procedure to address the issues presented in a waiver, the waiver will automatically terminate on the date on which use of that test procedure is required to demonstrate compliance.
+
+(i) *Compliance certification.* (1) If the alternate test procedure specified in the interim waiver differs from the alternate test procedure specified by DOE in a subsequent decision and order granting the petition for waiver, a manufacturer who has already certified basic models using the procedure permitted in DOE's grant of an interim test procedure waiver is not required to re-test and re-rate those basic models so long as: The manufacturer used that alternative procedure to certify the compliance of the basic model after DOE granted the company's interim waiver request; changes have not been made to those basic models that would cause them to use more energy or otherwise be less energy efficient; and the manufacturer does not modify the certified rating. However, if DOE ultimately denies the petition of waiver or the alternate test procedure specified in the interim waiver differs from the alternate test procedure specified by DOE in a subsequent decision and order granting the petition for waiver, DOE will provide a period of 180 days before the manufacturer is required to use the DOE test procedure or the alternate test procedure specified in the decision and order to make representations of energy efficiency.
 
 (2) After DOE publishes a decision and order in the Federal Register, a manufacturer must use the test procedure contained in that notice to rate any basic models covered by the waiver that have not yet been certified to DOE and for any future testing in support of the certification for the basic model(s) while the waiver is valid.
 
@@ -70,4 +74,4 @@ Link to an amendment published at 85 FR 79820, Dec. 11, 2020.
 
 (m) To exhaust administrative remedies, any person aggrieved by an action under this section must file an appeal with the DOE's Office of Hearings and Appeals as provided in 10 CFR part 1003, subpart C.
 
-[79 FR 26599, May 9, 2014]
+[79 FR 26599, May 9, 2014, as amended at 85 FR 79820, Dec. 11, 2020]

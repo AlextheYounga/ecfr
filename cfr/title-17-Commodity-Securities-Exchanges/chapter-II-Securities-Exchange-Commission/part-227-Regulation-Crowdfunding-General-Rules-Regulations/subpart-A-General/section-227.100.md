@@ -1,5 +1,7 @@
 ##### § 227.100 Crowdfunding exemption and requirements. #####
 
+Link to an amendment published at 86 FR 3590, Jan. 14, 2021.
+
 (a) *Exemption.* An issuer may offer or sell securities in reliance on section 4(a)(6) of the Securities Act of 1933 (the “Securities Act”) (15 U.S.C. 77d(a)(6)), provided that:
 
 (1) The aggregate amount of securities sold to all investors by the issuer in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) during the 12-month period preceding the date of such offer or sale, including the securities offered in such transaction, shall not exceed $1,070,000;
@@ -38,7 +40,7 @@
 
 (6) Has no specific business plan or has indicated that its business plan is to engage in a merger or acquisition with an unidentified company or companies.
 
-(7) Seeks to rely on § 227.201(z) to conduct an offering on an expedited basis due to circumstances relating to coronavirus disease 2019 (COVID-19), where such offering is initiated between May 4, 2020, and February 28, 2021, and:
+(7) Seeks to rely on § 227.201(aa) to conduct an offering on an expedited basis due to circumstances relating to coronavirus disease 2019 (COVID-19), where such offering is initiated between May 4, 2020, and February 28, 2021, or seeks to rely on § 227.201(bb), where such offering is initiated between March 1, 2021, and August 28, 2022, and:
 
 (i) Was organized and had operations less than six months prior to the commencement of the offering; or
 
@@ -50,4 +52,6 @@
 
 (d) *Investor.* For purposes of this part, *investor* means any investor or any potential investor, as the context requires.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020]Effective Date Note:At 85 FR 27131, May 7, 2020, § 227.100 was amended by adding paragraph (b)(7), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.100, was amended by amending paragraph (b)(7) introductory text by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, Jan. 14, 2020]Effective Date Notes:At 85 FR 27131, May 7, 2020, § 227.100 was amended by adding paragraph (b)(7), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.100, was amended by amending paragraph (b)(7) introductory text by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
+
+2. At 86 FR 3590, Jan. 14, 2021, § 227.100 was amended by revising paragraph (b)(7), effective Jan. 14, 2021 through Mar. 1, 2023.

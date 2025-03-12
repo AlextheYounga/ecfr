@@ -38,7 +38,7 @@
 
 (h) *Automobile fuel economy.* (1) A person that violates 49 U.S.C. 32911(a) is liable to the United States Government for a civil penalty of not more than $43,280 for each violation. A separate violation occurs for each day the violation continues.
 
-(2) Except as provided in 49 U.S.C. 32912(c), a manufacturer that violates a standard prescribed for a model year under 49 U.S.C. 32902 is liable to the United States Government for a civil penalty of $5.50 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy -
+(2) Except as provided in 49 U.S.C. 32912(c), beginning with model year 2022, a manufacturer that violates a standard prescribed for a model year under 49 U.S.C. 32902 is liable to the United States Government for a civil penalty of $14, plus any adjustments for inflation that occurred or may occur (for model years before model year 2022), multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy -
 
 (i) Calculated under 49 U.S.C. 32904(a)(1)(A) or (B) for automobiles to which the standard applies manufactured by the manufacturer during the model year;
 
@@ -46,6 +46,8 @@
 
 (iii) Reduced by the credits available to the manufacturer under 49 U.S.C. 32903 for the model year.
 
+*Note 1 to paragraph (h)(2):* If the August 31, 2020 decision of the United States Court of Appeals for the Second Circuit in Case No. 19-2395 is vacated, 49 CFR 578.6(h)(2), revised October 1, 2019, would apply to all model years, instead of paragraph (h)(2) of this section. In such instance, NHTSA would amend this section in accordance with such vacatur.
+
 (i) *Medium- and heavy-duty vehicle fuel efficiency.* The maximum civil penalty for a violation of the fuel consumption standards of 49 CFR part 535 is not more than $42,621 per vehicle or engine. The maximum civil penalty for a related series of violations shall be determined by multiplying $42,621 times the vehicle or engine production volume for the model year in question within the regulatory averaging set.
 
-[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 36034, July 26, 2019; 84 FR 37078, July 31, 2019; 86 FR 1763, Jan. 11, 2021]
+[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 36034, July 26, 2019; 84 FR 37078, July 31, 2019; 86 FR 1763, Jan. 11, 2021; 86 FR 3026, Jan. 14, 2021]

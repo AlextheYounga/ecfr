@@ -1,5 +1,7 @@
 ##### 37.103 Contracting officer responsibility. #####
 
+Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
+
 (a) The contracting officer is responsible for ensuring that a proposed contract for services is proper. For this purpose the contracting officer shall -
 
 (1) Determine whether the proposed service is for a personal or nonpersonal services contract using the definitions at 2.101 and 37.101 and the guidelines in 37.104;

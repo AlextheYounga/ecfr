@@ -1,5 +1,7 @@
 ##### 28.106-1 Bonds and bond related forms. #####
 
+Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
+
 The following Standard Forms (SF's) and Optional Forms (OF's) shall be used, except in foreign countries, when a bid bond, performance or payment bond, or an individual surety is required. The bond forms shall be used as indicated in the instruction portion of each form.
 
 (a) SF 24, Bid Bond (see 28.101).

@@ -1,5 +1,7 @@
 ##### § 240.12g-6 Exemption for securities issued pursuant to section 4(a)(6) of the Securities Act of 1933. #####
 
+Link to an amendment published at 86 FR 3601, Jan. 14, 2021.
+
 (a) For purposes of determining whether an issuer is required to register a security with the Commission pursuant to Section 12(g)(1) of the Act (15 U.S.C. 78l(g)(1)), the definition of held of record shall not include securities issued pursuant to the offering exemption under section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) by an issuer that:
 
 (1) Is current in filing its ongoing annual reports required pursuant to § 227.202 of this chapter;

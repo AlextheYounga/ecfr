@@ -1,0 +1,7 @@
+##### § 3030.182 Retirement obligation data sources. #####
+
+(a) The amounts of the amortization payments needed for the calculation of retirement obligation rate adjustment authority in § 3030.183 shall be obtained from notifications to the Postal Service by the Office of Personnel Management of annual determinations of the funding amounts specific to payments at the end of each fiscal year for Retiree Health Benefits as computed under 5 U.S.C. 8909a(d)(2)(B) and (d)(3)(B)(ii); the Civil Service Retirement System as computed under 5 U.S.C. 8348(h)(2)(B); and the Federal Employees Retirement System as computed under 5 U.S.C. 8423(b)(1)(B), (b)(2), and (b)(3)(B), filed with the Postal Service's section 3652 report.
+
+(b) The values for market dominant revenue, total revenue and market dominant volumes needed for the calculation of retirement obligation rate authority in § 3030.183 shall be obtained from values reported in the Revenue, Pieces, and Weight report, filed by the Postal Service under § 3050.25 of this chapter.
+
+(c) The values for additional rate authority previously provided under this subpart, if any, needed for the calculation of retirement obligation rate authority in § 3030.183 and the calculation of required minimum remittances under § 3030.184 shall be obtained from the Commission's prior determinations.

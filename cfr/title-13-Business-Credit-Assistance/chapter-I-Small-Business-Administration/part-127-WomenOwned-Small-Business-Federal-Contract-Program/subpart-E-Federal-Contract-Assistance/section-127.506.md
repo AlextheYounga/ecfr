@@ -54,7 +54,7 @@ A joint venture, including those between a protégé and a mentor under § 125.9
 
 (ii) The parties will perform the contract in compliance with the joint venture agreement and with the performance of work requirements set forth in paragraph (d) of this section.
 
-(f) *Past performance and experience.* When evaluating the past performance and experience of an entity submitting an offer for a WOSB Program contract as a joint venture established pursuant to this section, a procuring activity must consider work done individually by each partner to the joint venture as well as any work done by the joint venture itself previously.
+(f) *Capabilities, past performance, and experience.* When evaluating the capabilities, past performance, experience, business systems, and certifications of an entity submitting an offer for an EDWOSB or WOSB contract as a joint venture established pursuant to this section, a procuring activity must consider work done and qualifications held individually by each partner to the joint venture as well as any work done by the joint venture itself previously. A procuring activity may not require the EDWOSB or WOSB small business concern to individually meet the same evaluation or responsibility criteria as that required of other offerors generally. The partners to the joint venture in the aggregate must demonstrate the past performance, experience, business systems, and certifications necessary to perform the contract.
 
 (g) *Contract execution.* The procuring activity will execute a WOSB Program contract in the name of the joint venture entity or the WOSB, but in either case will identify the award as one to a WOSB Program joint venture or a WOSB Program mentor-protégé joint venture, as appropriate.
 
@@ -78,4 +78,4 @@ A joint venture, including those between a protégé and a mentor under § 125.9
 
 (l) Any person with information concerning a joint venture's compliance with the performance of work requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013; 81 FR 34265, May 31, 2016; 81 FR 48593, July 25, 2016; 81 FR 94942, Dec. 27, 2016; 85 FR 66199, Oct. 16, 2020]
+[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013; 81 FR 34265, May 31, 2016; 81 FR 48593, July 25, 2016; 81 FR 94942, Dec. 27, 2016; 85 FR 66199, Oct. 16, 2020; 86 FR 2960, Jan. 14, 2021]

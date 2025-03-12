@@ -1,5 +1,7 @@
 ##### § 655.810 What remedies may be ordered if violations are found? #####
 
+Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
+
 (a) Upon determining that an employer has failed to pay wages or provide fringe benefits as required by § 655.731 and § 655.732, the Administrator shall assess and oversee the payment of back wages or fringe benefits to any H-1B nonimmigrant who has not been paid or provided fringe benefits as required. The back wages or fringe benefits shall be equal to the difference between the amount that should have been paid and the amount that actually was paid to (or with respect to) such nonimmigrant(s).
 
 (b) *Civil money penalties.* The Administrator may assess civil money penalties for violations as follows:

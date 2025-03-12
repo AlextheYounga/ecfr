@@ -1,5 +1,7 @@
 ##### 9.407-2 Causes for suspension. #####
 
+Link to an amendment published at 86 FR 3679, Jan. 14, 2021.
+
 (a) The suspending official may suspend a contractor suspected, upon adequate evidence, of -
 
 (1) Commission of fraud or a criminal offense in connection with -

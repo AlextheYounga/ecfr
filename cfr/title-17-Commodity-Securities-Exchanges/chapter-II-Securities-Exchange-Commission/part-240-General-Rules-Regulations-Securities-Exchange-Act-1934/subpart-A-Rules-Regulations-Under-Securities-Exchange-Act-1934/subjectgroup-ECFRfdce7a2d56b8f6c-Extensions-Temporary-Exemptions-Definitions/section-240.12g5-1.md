@@ -1,5 +1,7 @@
 ##### § 240.12g5-1 Definition of securities “held of record”. #####
 
+Link to an amendment published at 86 FR 3601, Jan. 14, 2021.
+
 (a) For the purpose of determining whether an issuer is subject to the provisions of sections 12(g) and 15(d) of the Act, securities shall be deemed to be “held of record” by each person who is identified as the owner of such securities on records of security holders maintained by or on behalf of the issuer, subject to the following:
 
 (1) In any case where the records of security holders have not been maintained in accordance with accepted practice, any additional person who would be identified as such an owner on such records if they had been maintained in accordance with accepted practice shall be included as a holder of record.

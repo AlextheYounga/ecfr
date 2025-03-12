@@ -1,5 +1,7 @@
 ##### 19.602-1 Referral. #####
 
+Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
+
 (a) Upon determining and documenting that an apparent successful small business offeror lacks certain elements of responsibility (including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, tenacity, and limitations on subcontracting but for sureties see 28.101-3(f) and 28.203(c)), the contracting officer shall -
 
 (1) Withhold contract award (see 19.602-3); and

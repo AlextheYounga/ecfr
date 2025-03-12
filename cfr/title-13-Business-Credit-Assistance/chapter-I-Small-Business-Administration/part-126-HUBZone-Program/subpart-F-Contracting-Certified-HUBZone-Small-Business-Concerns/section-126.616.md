@@ -62,7 +62,7 @@
 
 (ii) The parties will perform the contract in compliance with the joint venture agreement.
 
-(f) *Past performance and experience.* When evaluating the past performance and experience of an entity submitting an offer for a HUBZone contract as a joint venture established pursuant to this section, a procuring activity must consider work done individually by each partner to the joint venture as well as any work done by the joint venture itself previously.
+(f) *Capabilities, past performance, and experience.* When evaluating the capabilities, past performance, experience, business systems, and certifications of an entity submitting an offer for a HUBZone contract as a joint venture established pursuant to this section, a procuring activity must consider work done and qualifications held individually by each partner to the joint venture as well as any work done by the joint venture itself previously. A procuring activity may not require the HUBZone small business concern to individually meet the same evaluation or responsibility criteria as that required of other offerors generally. The partners to the joint venture in the aggregate must demonstrate the past performance, experience, business systems, and certifications necessary to perform the contract.
 
 (g) *Contract execution.* The procuring activity will execute a HUBZone contract in the name of the joint venture entity or the certified HUBZone small business concern, but in either case will identify the award as one to a HUBZone joint venture or a HUBZone mentor-protégé joint venture, as appropriate.
 
@@ -84,4 +84,4 @@
 
 (k) Any person with information concerning a joint venture's compliance with the limitations on subcontracting requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020]
+[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]

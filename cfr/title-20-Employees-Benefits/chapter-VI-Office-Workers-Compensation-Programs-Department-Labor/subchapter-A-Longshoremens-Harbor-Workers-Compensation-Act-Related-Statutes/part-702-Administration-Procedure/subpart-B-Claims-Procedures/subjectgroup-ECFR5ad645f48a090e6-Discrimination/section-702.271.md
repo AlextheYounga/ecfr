@@ -1,6 +1,6 @@
 ##### § 702.271 Discrimination; against employees who bring proceedings, prohibition and penalty. #####
 
-Link to an amendment published at 85 FR 80614, Dec. 14, 2020.
+Link to an amendment published at 85 FR 80614, Dec. 14, 2020.Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 (a)(1) No employer or its duly authorized agent may discharge or in any manner discriminate against an employee as to his/her employment because that employee: (i) Has claimed or attempted to claim compensation under this Act; or (ii) has testified or is about to testify in a proceeding under this Act. To discharge or refuse to employ a person who has been adjudicated to have filed a fraudulent claim for compensation or otherwise made a false statement or misrepresentation under section 31(a)(1) of the Act, 33 U.S.C. 931(a)(1), is not a violation of this section.
 

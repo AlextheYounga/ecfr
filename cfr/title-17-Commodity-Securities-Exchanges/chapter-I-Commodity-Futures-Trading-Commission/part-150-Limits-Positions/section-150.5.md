@@ -1,5 +1,7 @@
 ##### § 150.5 Exchange-set speculative position limits. #####
 
+Link to an amendment published at 86 FR 3470, Jan. 14, 2021.
+
 (a) *Exchange limits.* Each contract market as a condition of designation under part 5, appendix A, of this chapter shall be bylaw, rule, regulation, or resolution limit the maximum number of contracts a person may hold or control, separately or in combination, net long or net short, for the purchase or sale of a commodity for future delivery or, on a futures-equivalent basis, options thereon. This section shall not apply to a contract market for which position limits are set forth in § 150.2 of this part or for a futures or option contract market on a major foreign currency, for which there is no legal impediment to delivery and for which there exists a highly liquid cash market. Nothing in this section shall be construed to prohibit a contract market from fixing different and separate position limits for different types of futures contracts based on the same commodity, or from fixing different position limits for different futures or for different delivery months, or from exempting positions which are normally known in the trade as “spreads, straddles, or arbitrage,” of from fixing limits which apply to such positions which are different from limits fixed for other positions.
 
 (b) *Levels at designation.* At the time of its initial designation, a contract market must provide for speculative position limit levels as follows:

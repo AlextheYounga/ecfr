@@ -1,5 +1,7 @@
 ##### § 230.255 Solicitations of interest and other communications. #####
 
+Link to an amendment published at 86 FR 3596, Jan. 14, 2021.
+
 (a) *Solicitation of interest.* At any time before the qualification of an offering statement, including before the non-public submission or public filing of such offering statement, an issuer or any person authorized to act on behalf of an issuer may communicate orally or in writing to determine whether there is any interest in a contemplated securities offering. Such communications are deemed to be an offer of a security for sale for purposes of the antifraud provisions of the federal securities laws. No solicitation or acceptance of money or other consideration, nor of any commitment, binding or otherwise, from any person is permitted until qualification of the offering statement.
 
 (b) *Conditions.* The communications must:

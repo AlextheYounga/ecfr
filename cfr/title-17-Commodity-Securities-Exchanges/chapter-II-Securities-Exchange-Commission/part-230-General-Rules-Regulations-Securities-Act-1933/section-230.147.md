@@ -1,5 +1,7 @@
 ##### § 230.147 Intrastate offers and sales. #####
 
+Link to an amendment published at 86 FR 3594, Jan. 14, 2021.
+
 (a) This section shall not raise any presumption that the exemption provided by section 3(a)(11) of the Act (15 U.S.C. 77c(a)(11)) is not available for transactions by an issuer which do not satisfy all of the provisions of this section.
 
 (b) *Manner of offers and sales.* An issuer, or any person acting on behalf of the issuer, shall be deemed to conduct an offering in compliance with section 3(a)(11) of the Act (15 U.S.C. 77c(a)(11)), where offers and sales are made only to persons resident within the same state or territory in which the issuer is resident and doing business, within the meaning of section 3(a)(11) of the Act, so long as the issuer complies with the provisions of paragraphs (c), (d), and (f) through (h) of this section.

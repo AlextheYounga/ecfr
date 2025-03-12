@@ -1,5 +1,7 @@
 ##### § 230.506 Exemption for limited offers and sales without regard to dollar amount of offering. #####
 
+Link to an amendment published at 86 FR 3598, Jan. 14, 2021.
+
 (a) *Exemption.* Offers and sales of securities by an issuer that satisfy the conditions in paragraph (b) or (c) of this section shall be deemed to be transactions not involving any public offering within the meaning of section 4(a)(2) of the Act.
 
 (b) *Conditions to be met in offerings subject to limitation on manner of offering* - (1) *General conditions.* To qualify for an exemption under this section, offers and sales must satisfy all the terms and conditions of §§ 230.501 and 230.502.

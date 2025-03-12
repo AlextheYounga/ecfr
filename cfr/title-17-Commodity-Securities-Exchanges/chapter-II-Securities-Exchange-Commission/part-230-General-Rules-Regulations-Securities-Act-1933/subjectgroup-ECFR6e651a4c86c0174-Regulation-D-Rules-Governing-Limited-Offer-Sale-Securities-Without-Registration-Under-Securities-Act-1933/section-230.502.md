@@ -1,5 +1,7 @@
 ##### § 230.502 General conditions to be met. #####
 
+Link to an amendment published at 86 FR 3598, Jan. 14, 2021.
+
 The following conditions shall be applicable to offers and sales made under Regulation D (§ 230.500 *et seq.* of this chapter):
 
 (a) *Integration.* All sales that are part of the same Regulation D offering must meet all of the terms and conditions of Regulation D. Offers and sales that are made more than six months before the start of a Regulation D offering or are made more than six months after completion of a Regulation D offering will not be considered part of that Regulation D offering, so long as during those six month periods there are no offers or sales of securities by or for the issuer that are of the same or a similar class as those offered or sold under Regulation D, other than those offers or sales of securities under an employee benefit plan as defined in rule 405 under the Act (17 CFR 230.405).

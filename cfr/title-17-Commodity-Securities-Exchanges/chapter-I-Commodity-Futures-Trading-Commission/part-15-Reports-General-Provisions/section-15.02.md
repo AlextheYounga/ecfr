@@ -1,5 +1,7 @@
 ##### § 15.02 Reporting forms. #####
 
+Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
+
 Forms on which to report may be obtained from any office of the Commission or via the Internet (*http://www.cftc.gov*). Forms to be used for the filing of reports follow, and persons required to file these forms may be determined by referring to the rule listed in the column opposite the form number.
 
 |Form No.|                                         Title                                          |Rule |

@@ -1,5 +1,7 @@
 ##### 52.225-6 Trade Agreements Certificate. #####
 
+Link to an amendment published at 86 FR 3689, Jan. 14, 2021.
+
 As prescribed in 25.1101(c)(2), insert the following provision:
 
 Trade Agreements Certificate (MAY 2014)

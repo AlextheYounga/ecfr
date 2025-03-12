@@ -1,18 +1,16 @@
 ##### § 240.117 Criteria for consideration of operating rules compliance data. #####
 
-Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
-
-(a) Each railroad's program shall include criteria and procedures for implementing this section.
+(a) Each railroad shall adopt and comply with a program which meets the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of a program that complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) A person who has demonstrated a failure to comply, as described in paragraph (e) of this section, with railroad rules and practices for the safe operation of trains shall not be currently certified as a locomotive engineer.
 
-(c)(1) A certified engineer who has demonstrated a failure to comply, as described in paragraph (e) of this section, with railroad rules and practices for the safe operation of trains shall have his or her certification revoked.
+(c)(1) A certified locomotive engineer who has demonstrated a failure to comply with railroad rules and practices described in paragraph (e) of this section shall have his or her certification revoked.
 
 (2) A Designated Supervisor of Locomotive Engineers, a certified locomotive engineer pilot or an instructor engineer who is monitoring, piloting or instructing a locomotive engineer and fails to take appropriate action to prevent a violation of paragraph (e) of this section, shall have his or her certification revoked. Appropriate action does not mean that a supervisor, pilot or instructor must prevent a violation from occurring at all costs; the duty may be met by warning an engineer of a potential or foreseeable violation. A Designated Supervisor of Locomotive Engineers will not be held culpable under this section when this monitoring event is conducted as part of the railroad's operational compliance tests as defined in §§ 217.9 and 240.303 of this chapter.
 
-(3) A person who is a certified locomotive engineer but is called by a railroad to perform the duty of a train crew member other than that of locomotive engineer, and is performing such other duty, shall not have his or her certification revoked based on actions taken or not taken while performing that duty.
+(3) A certified locomotive engineer who is called by a railroad to perform the duty of a train crew member other than that of locomotive engineer or conductor shall not have his or her certification revoked based on actions taken or not taken while performing that duty.
 
-(d) Limitations on consideration of prior operating rule compliance data. Except as provided for in paragraph (i) of this section, in determining whether a person may be or remain certified as a locomotive engineer, a railroad shall consider as operating rule compliance data only conduct described in paragraphs (e)(1) through (e)(5) of this section that occurred within a period of 36 consecutive months prior to the determination. A review of an existing certification shall be initiated promptly upon the occurrence and documentation of any conduct described in this section.
+(d) In determining whether a person may be or remain certified as a locomotive engineer, a railroad shall consider as operating rule compliance data only conduct described in paragraphs (e)(1) through (5) of this section that occurred within a period of 36 consecutive months prior to the determination. A review of an existing certification shall be initiated promptly upon the occurrence and documentation of any conduct described in this section.
 
 (e) A railroad shall only consider violations of its operating rules and practices that involve:
 
@@ -24,15 +22,17 @@ Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
 
 (4) Occupying main track or a segment of main track without proper authority or permission;
 
-(5) Failure to comply with prohibitions against tampering with locomotive mounted safety devices, or knowingly operating or permitting to be operated a train with an unauthorized disabled safety device in the controlling locomotive. (See 49 CFR part 218, subpart D and appendix C to part 218);
+(5) Failure to comply with prohibitions against tampering with locomotive mounted safety devices, or knowingly operating or permitting to be operated a train with an unauthorized disabled safety device in the controlling locomotive. (*See* 49 CFR part 218, subpart D, and appendix C to part 218); or
 
-(6) Incidents of noncompliance with § 219.101 of this chapter; however such incidents shall be considered as a violation only for the purposes of paragraphs (g)(2) and (3) of this section;
+(6) Incidents of noncompliance with § 219.101 of this chapter; however, such incidents shall be considered as a violation only for the purposes of paragraphs (g)(2) and (3) of this section.
 
 (f)(1) If in any single incident the person's conduct contravened more than one operating rule or practice, that event shall be treated as a single violation for the purposes of this section.
 
 (2) A violation of one or more operating rules or practices described in paragraph (e)(1) through (e)(5) of this section that occurs during a properly conducted operational compliance test subject to the provisions of this chapter shall be counted in determining the periods of ineligibility described in paragraph (g) of this section.
 
 (3) An operational test that is not conducted in compliance with this part, a railroad's operating rules, or a railroad's program under § 217.9 of this chapter, will not be considered a legitimate test of operational skill or knowledge, and will not be considered for certification, recertification or revocation purposes.
+
+(4) A railroad shall not be permitted to deny or revoke an employee's certification based upon additional conditions or operational restrictions imposed pursuant to § 240.107(d).
 
 (g) A period of ineligibility described in this paragraph shall:
 
@@ -42,9 +42,9 @@ Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
 
 (3) Be determined according to the following standards:
 
-(i) In the case of a single incident involving violation of one or more of the operating rules or practices described in paragraphs (e)(1) through (e)(5) of this section, the person shall have his or her certificate revoked for a period of one month.
+(i) In the case of a single incident involving violation of one or more of the operating rules or practices described in paragraphs (e)(1) through (5) of this section, the person shall have his or her certificate revoked for a period of 30 calendar days.
 
-(ii) In the case of two separate incidents involving a violation of one or more of the operating rules or practices described in paragraphs (e)(1) through (e)(5) of this section, that occurred within 24 months of each other, the person shall have his or her certificate revoked for a period of six months.
+(ii) In the case of two separate incidents involving a violation of one or more of the operating rules or practices described in paragraphs (e)(1) through (5) of this section, that occurred within 24 months of each other, the person shall have his or her certificate revoked for a period of 180 calendar days.
 
 (iii) In the case of three separate incidents involving violations of one or more of the operating rules or practices, described in paragraphs (e)(1) through (e)(6) of this section, that occurred within 36 months of each other, the person shall have his or her certificate revoked for a period of one year.
 
@@ -52,7 +52,9 @@ Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
 
 (v) Where, based on the occurrence of violations described in paragraph (e)(6) of this section, different periods of ineligibility may result under the provisions of this section and § 240.119, the longest period of revocation shall control.
 
-(h) Future eligibility to hold certificate. A person whose certification has been denied or revoked shall be eligible for grant or reinstatement of the certificate prior to the expiration of the initial period of revocation only if:
+(h) Any or all periods of revocation provided in this section may consist of training.
+
+(i) Future eligibility to hold certificate. A person whose certification has been denied or revoked shall be eligible for grant or reinstatement of the certificate prior to the expiration of the initial period of revocation only if:
 
 (1) The denial or revocation of certification in accordance with the provisions of paragraph (g)(3) of this section is for a period of one year or less;
 
@@ -64,4 +66,4 @@ Link to an amendment published at 85 FR 81311, Dec. 15, 2020.
 
 (5) At least one half the pertinent period of ineligibility specified in paragraph (g)(3) of this section has elapsed.
 
-[64 FR 60990, Nov. 8, 1999, as amended at 68 FR 10139, Mar. 3, 2003; 74 FR 68182, Dec. 23, 2009]
+[64 FR 60990, Nov. 8, 1999, as amended at 68 FR 10139, Mar. 3, 2003; 74 FR 68182, Dec. 23, 2009; 85 FR 81311, Dec. 15, 2020]

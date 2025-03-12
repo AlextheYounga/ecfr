@@ -1,12 +1,10 @@
 ##### § 3055.2 Contents of the annual report of service performance achievements. #####
 
-Link to an amendment published at 85 FR 81141, Dec. 15, 2020.
-
 (a) The items in paragraphs (b) through (k) of this section shall be included in the annual report of service performance achievements.
 
 (b) The class or group-specific reporting requirements specified in §§ 3055.20 through 3055.25.
 
-(c) The applicable service standard(s) for each product.
+(c) The applicable service standard(s) for each product. If there has been a change to a service standard(s) since the previous report, a description of and reason for the change shall be provided. If there have been no changes to service standard(s) since the previous report, a certification stating this fact shall be provided.
 
 (d) The applicable service goal(s) for each product.
 
@@ -33,3 +31,5 @@ Link to an amendment published at 85 FR 81141, Dec. 15, 2020.
 (j) Documentation showing how data reported at a given level of aggregation were derived from data reported at greater levels of disaggregation. Such documentation shall be in electronic format with all data links preserved. It shall show all formulas used, including volumes and other weighting factors.
 
 (k) For each product, documentation showing how the reports required by subpart A of this part were derived from the reports required by subpart B of this part. Such documentation shall be in electronic format with all data links preserved. It shall show all formulas used, including volumes and other weighting factors.
+
+[75 FR 38742, July 6, 2010, as amended at 85 FR 81141, Dec. 15, 2020]

@@ -1,0 +1,3 @@
+##### § 3040.220 General. #####
+
+This subpart imposes additional requirements whenever there is a request to add a negotiated service agreement to the market dominant product list. The additional supporting justification appearing in § 3040.221 also should be provided whenever the Postal Service proposes to modify the terms of an existing market dominant negotiated service agreement. Commission findings that the addition of a special classification is not inconsistent with 39 U.S.C. 3622 are provisional and subject to subsequent review. No rate(s) shall take effect until 45 days after the Postal Service files a request for review of a notice of a new rate or rate(s) adjustment specifying the rate(s) and the effective date.

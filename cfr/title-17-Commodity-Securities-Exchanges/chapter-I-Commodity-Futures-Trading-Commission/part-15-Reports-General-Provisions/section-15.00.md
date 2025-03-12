@@ -1,5 +1,7 @@
 ##### § 15.00 Definitions of terms used in parts 15 to 19, and 21 of this chapter. #####
 
+Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
+
 As used in parts 15 to 19, and 21 of this chapter:
 
 (a) *Cash or Spot,* when used in connection with any commodity, means the actual commodity as distinguished from a futures or options contract in such commodity.

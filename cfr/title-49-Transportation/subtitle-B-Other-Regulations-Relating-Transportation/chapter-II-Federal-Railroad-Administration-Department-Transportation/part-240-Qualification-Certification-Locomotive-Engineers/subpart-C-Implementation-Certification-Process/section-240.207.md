@@ -1,16 +1,14 @@
 ##### § 240.207 Procedures for making the determination on vision and hearing acuity. #####
 
-Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
-
 (a) Each railroad, prior to initially certifying or recertifying any person as an engineer for any class of service, shall determine that the person meets the standards for visual acuity and hearing acuity prescribed in § 240.121.
 
 (b) In order to make the determination required under paragraph (a), a railroad shall have on file either:
 
 (1) A medical examiner's certificate that the individual has been medically examined and meets these acuity standards; or
 
-(2) A written document from its medical examiner documenting his or her professional opinion that the person does not meet one or both acuity standards and stating the basis for his or her determination that
+(2) A written document from its medical examiner documenting his or her professional opinion that the person does not meet one or both acuity standards and stating the basis for his or her determination that:
 
-(i) The person can nevertheless be certified under certain conditions or
+(i) The person can nevertheless be certified under certain conditions; or
 
 (ii) The person's acuity is such that he or she cannot safely operate a locomotive even with conditions attached.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 81314, Dec. 15, 2020.
 
 (e) Any person with such a certificate notation shall use the relevant corrective device(s) while operating a locomotive in locomotive or train service unless the railroad's medical examiner subsequently determines in writing that the person can safely operate without using the device.
 
-[56 FR 28254, June 19, 1991, as amended at 74 FR 68184, Dec. 23, 2009]
+[56 FR 28254, June 19, 1991, as amended at 74 FR 68184, Dec. 23, 2009; 85 FR 81314, Dec. 15, 2020]

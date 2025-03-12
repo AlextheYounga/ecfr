@@ -1,0 +1,13 @@
+##### § 3030.244 Calculation of unused rate adjustment authority for rate adjustments that only include rate decreases. #####
+
+(a) For rate adjustment filings that only include rate decreases, unused rate adjustment authority for a class is calculated in two steps. First, the difference between the maximum rate adjustment authority as summarized by § 3030.127 and calculated pursuant to subparts C through G of this part and this subpart, as appropriate, for the most recent rate adjustment that involves a rate increase and the percentage change in rates for the class calculated pursuant to § 3030.128(d) is calculated. Second, the unused rate adjustment authority generated in the most recent rate adjustment that involves a rate increase is subtracted from that result.
+
+(b) Unused rate adjustment authority generated under paragraph (a) of this section for a class shall be added to the unused rate adjustment authority generated in the most recent rate adjustment that involves a rate increase on the schedule maintained under § 3030.241. For purposes of this section, the unused rate adjustment authority generated under paragraph (a) of this section for a class shall be deemed to have been added to the schedule maintained under § 3030.241 on the same date as the most recent rate adjustment filing that involves a rate increase.
+
+(c) For rate adjustment filings that only include rate decreases, the sum of unused rate adjustment authority generated under paragraph (a) of this section and the unused rate adjustment authority generated in the most recent rate adjustment that involves a rate increase cannot exceed the unused portion of rate adjustment authority calculated pursuant to subparts C and D of this part and § 3030.222 in the most recent rate adjustment that involves a rate increase.
+
+(d) Unused rate adjustment authority generated under paragraph (a) of this section shall be subject to the limitation under § 3030.245, regardless of whether it is used alone or in combination with other existing unused rate adjustment authority.
+
+(e) For rate adjustment filings that only include rate decreases, unused rate adjustment authority generated under this section lapses 5 years from the date of filing of the most recent rate adjustment filing that involves a rate increase.
+
+(f) A rate adjustment filing that only includes rate decreases that is filed immediately after a rate adjustment due to extraordinary or exceptional circumstances (*i.e.,* without an intervening rate adjustment involving a rate increase) may not generate unused rate adjustment authority.

@@ -1,5 +1,7 @@
 ##### 9.109-4 Certification by the offeror. #####
 
+Link to an amendment published at 86 FR 3678, Jan. 14, 2021.
+
 (a) In order to be eligible for contract award, an offeror is required to -
 
 (1)(i) Certify that it does not engage and has not engaged in any activity that contributed to or was a significant factor in the President's or Secretary of State's determination that a foreign country is in violation of its obligations undertaken in any arms control, nonproliferation, or disarmament agreement to which the United States is a party, or is not adhering to its arms control, nonproliferation, or disarmament commitments in which the United States is a participating state. The determinations are described in the most recent unclassified annual report provided to Congress pursuant to section 403 of the Arms Control and Disarmament Act (22 U.S.C. 2593a). The report is available via the internet at *https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-arms-control-verification-and-compliance/”*; and

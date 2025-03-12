@@ -1,5 +1,7 @@
 ##### § 1.3 Definitions. #####
 
+Link to an amendment published at 86 FR 3454, Jan. 14, 2021.
+
 Words used in the singular form in the rules and regulations in this chapter shall be deemed to import the plural and vice versa, as the context may require. The following terms, as used in the Commodity Exchange Act, or in the rules and regulations in this chapter, shall have the meanings hereby assigned to them, unless the context otherwise requires:
 
 *Agricultural commodity.* This term means:

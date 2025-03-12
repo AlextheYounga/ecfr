@@ -1,8 +1,6 @@
 ##### § 242.7 Definitions. #####
 
-Link to an amendment published at 85 FR 81324, Dec. 15, 2020.
-
-As used in this part -
+As used in this part—
 
 *Administrator* means the Administrator of the FRA or the Administrator's delegate.
 
@@ -28,7 +26,7 @@ As used in this part -
 
 *Job aid* means information regarding *other than main track physical characteristics* that supplements the operating instructions of the territory over which the locomotive or train movement will occur. See definitions of “main track” and “physical characteristics” in this section. A *job aid* may consist of training on the territory pursuant to § 242.119, maps, charts or visual aids of the territory, or a person or persons to contact who are qualified on the territory and who can describe the physical characteristics of the territory. At a minimum, a *job aid* must cover characteristics of a territory including: permanent close clearances, location of permanent derails and switches, assigned radio frequencies in use and special instructions required for movement, if any, and railroad-identified unique operating conditions.
 
-*Joint operations* means rail operations conducted by more than one railroad on the same track regardless of whether such operations are the result of -
+*Joint operations* means rail operations conducted by more than one railroad on the same track regardless of whether such operations are the result of—
 
 (1) Contractual arrangement between the railroads,
 
@@ -54,7 +52,7 @@ As used in this part -
 
 *Locomotive engineer certificate* means a certificate issued pursuant to part 240 of this chapter.
 
-*Main track* means a track upon which the operation of trains is governed by one or more of the following methods of operation: timetable; mandatory directive; signal indication; positive train control as defined in part 236 of this chapter; or any form of absolute or manual block system.
+*Main track* means a track upon which the operation of trains is governed by one or more of the following methods of operation: Timetable; mandatory directive; signal indication; or any form of absolute or manual block system.
 
 *Medical examiner* means a person licensed as a doctor of medicine or doctor of osteopathy. A medical examiner can be a qualified full-time salaried employee of a railroad, a qualified practitioner who contracts with the railroad on a fee-for-service or other basis, or a qualified practitioner designated by the railroad to perform functions in connection with medical evaluations of employees. As used in this rule, the medical examiner owes a duty to make an honest and fully informed evaluation of the condition of an employee.
 
@@ -98,10 +96,12 @@ If a railroad does not have designated employee representation, then a person em
 
 *Specialized roadway maintenance equipment* is roadway maintenance equipment that does not have the capability to move railroad rolling stock. Any alteration of such equipment that enables it to move railroad rolling stock will require that the equipment be treated as a dual purpose vehicle.
 
-*Substance abuse disorder* refers to a psychological or physical dependence on alcohol or a drug, or another identifiable and treatable mental or physical disorder involving the abuse of alcohol or drugs as a primary manifestation. A substance abuse disorder is “active” within the meaning of this part if the person is currently using alcohol or other drugs, except under medical supervision consistent with the restrictions described in § 219.103 of this chapter or has failed to successfully complete primary treatment or successfully participate in aftercare as directed by a DAC or SAP.
+*Substance abuse disorder* refers to a psychological or physical dependence on alcohol or a drug, or another identifiable and treatable mental or physical disorder involving the abuse of alcohol or drugs as a primary manifestation. A substance abuse disorder is “active” within the meaning of this part if the person is currently using alcohol or other drugs, except under medical supervision consistent with the restrictions described in § 219.103 of this chapter or has failed to complete primary treatment successfully or participate in aftercare successfully as directed by a DAC or SAP.
 
 *Substance Abuse Professional (SAP)* means a person who meets the qualifications of a substance abuse professional, as provided in part 40 of this title.
 
 *Territorial qualifications* means possessing the necessary knowledge concerning a railroad's operating rules and timetable special instructions including familiarity with applicable *main track and other than main track physical characteristics* of the territory over which the locomotive or train movement will occur.
 
 *Tourist, scenic, historic, or excursion operations that are not part of the general railroad system of transportation* means a tourist, scenic, historic, or excursion operation conducted only on track used exclusively for that purpose (*i.e.,* there is no freight, intercity passenger, or commuter passenger railroad operation on the track).
+
+[76 FR 69841, Nov. 9, 2011, as amended at 85 FR 81324, Dec. 15, 2020]

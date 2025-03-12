@@ -1,5 +1,7 @@
 ##### 52.225-9 Buy American - Construction Materials. #####
 
+Link to an amendment published at 86 FR 3689, Jan. 14, 2021.
+
 As prescribed in 25.1102(a), insert the following clause:
 
 Buy American - Construction Materials (MAY 2014)

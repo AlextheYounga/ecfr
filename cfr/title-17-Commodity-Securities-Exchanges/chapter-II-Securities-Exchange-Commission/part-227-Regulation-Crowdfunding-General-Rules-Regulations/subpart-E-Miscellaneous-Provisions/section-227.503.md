@@ -1,5 +1,7 @@
 ##### § 227.503 Disqualification provisions. #####
 
+Link to an amendment published at 86 FR 3592, Jan. 14, 2021.
+
 (a) *Disqualification events.* No exemption under this section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) shall be available for a sale of securities if the issuer; any predecessor of the issuer; any affiliated issuer; any director, officer, general partner or managing member of the issuer; any beneficial owner of 20 percent or more of the issuer's outstanding voting equity securities, calculated on the basis of voting power; any promoter connected with the issuer in any capacity at the time of such sale; any person that has been or will be paid (directly or indirectly) remuneration for solicitation of purchasers in connection with such sale of securities; or any general partner, director, officer or managing member of any such solicitor:
 
 (1) Has been convicted, within 10 years before the filing of the offering statement (or five years, in the case of issuers, their predecessors and affiliated issuers), of any felony or misdemeanor:

@@ -40,10 +40,12 @@
 
 (2) If an issuer has received aggregate investment commitments for which the right to cancel pursuant to paragraph (e)(1) has lapsed covering the target offering amount prior to the deadline identified in its offering materials pursuant to § 227.201(g), the issuer may close the offering on a date earlier than the deadline identified in its offering materials pursuant to § 227.201(g), *provided that:*
 
-(i) The issuer has complied with § 227.201(z);
+(i) The issuer has complied with § 227.201(aa);
 
 (ii) The intermediary provides notice to any potential investors, and gives or sends notice to investors that have made investment commitments in the offering, that the target offering amount has been met; and
 
 (iii) At the time of the closing of the offering, the issuer continues to meet or exceed the target offering amount.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 85 FR 27132, May 7, 2020; 85 FR 54490, Sept. 2, 2020]Effective Date Note:At 85 FR 27132, May 7, 2019, § 227.304 was amended by adding paragraph (e), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.304, paragraph (e) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
+[80 FR 71537, Nov. 16, 2015, as amended at 85 FR 27132, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3592, Jan. 14, 2021]Effective Date Notes:1. At 85 FR 27132, May 7, 2019, § 227.304 was amended by adding paragraph (e), effective May 4, 2020, through Sept. 1, 2021. At 85 FR 54490, Sept. 2, 2020, § 227.304, paragraph (e) introductory text was amended by removing the date “August 31, 2020” and adding in its place the date “February 28, 2021”, effective Aug. 31, 2020 through Sept. 1, 2021.
+
+2. At 86 FR 3592, Jan. 14, 2021, § 227.304 was amended in paragraph (e)(2)(i) by removing “§ 227.201(z)” adding in its place “§ 227.201(aa)” effective Jan. 14, 2021 through Sept. 1, 2021.

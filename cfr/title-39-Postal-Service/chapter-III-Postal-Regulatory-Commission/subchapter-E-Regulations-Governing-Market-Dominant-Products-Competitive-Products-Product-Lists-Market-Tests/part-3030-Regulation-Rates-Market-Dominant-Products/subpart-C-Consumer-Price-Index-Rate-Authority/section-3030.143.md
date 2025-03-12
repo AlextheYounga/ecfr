@@ -1,0 +1,7 @@
+##### § 3030.143 CPI-U rate authority when rate adjustment filings are less than 12 months apart. #####
+
+(a) If a rate adjustment filing involving a rate increase is filed less than 12 months after the most recent rate adjustment filing involving a rate increase, then the annual limitation for the class (partial year limitation) will recognize the rate increases that have occurred during the preceding 12 months. When the effects of those increases are removed, the remaining partial year limitation is the applicable restriction on rate increases.
+
+(b) The applicable partial year limitation is calculated in two steps. First, a simple average CPI-U index is calculated by summing the 12 most recently available monthly CPI-U values from the date of the rate adjustment filing and dividing the sum by 12 (Recent Average). Second, the partial year limitation is then calculated by dividing the Recent Average by the Recent Average from the most recent previous rate adjustment filing (Previous Recent Average) applicable to each affected class of mail and subtracting 1 from the quotient. The result is expressed as a percentage, rounded to three decimal places.
+
+(c) The formula for calculating the partial year limitation for a rate adjustment filing filed less than 12 months after the last rate adjustment filing is as follows: Partial Year Limitation = (Recent Average/Previous Recent Average)−1.

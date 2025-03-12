@@ -1,5 +1,7 @@
 ##### § 150.2 Position limits. #####
 
+Link to an amendment published at 86 FR 3465, Jan. 14, 2021.
+
 No person may hold or control positions, separately or in combination, net long or net short, for the purchase or sale of a commodity for future delivery or, on a futures-equivalent basis, options thereon, in excess of the following:
 
 Speculative Position Limits

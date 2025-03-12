@@ -1,5 +1,7 @@
 ##### 28.202 Acceptability of corporate sureties. #####
 
+Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
+
 (a)(1) Corporate sureties offered for bonds furnished with contracts performed in the United States or its outlying areas must appear on the list contained in the Department of the Treasury Circular 570, “Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and Acceptable Reinsuring Companies.”
 
 (2) The penal amount of the bond should not exceed the surety's underwriting limit stated in the Department of the Treasury circular. If the penal amount exceeds the underwriting limit, the bond will be acceptable only if (i) the amount which exceeds the specified limit is coinsured or reinsured and (ii) the amount of coinsurance or reinsurance does not exceed the underwriting limit of each coinsurer or reinsurer.

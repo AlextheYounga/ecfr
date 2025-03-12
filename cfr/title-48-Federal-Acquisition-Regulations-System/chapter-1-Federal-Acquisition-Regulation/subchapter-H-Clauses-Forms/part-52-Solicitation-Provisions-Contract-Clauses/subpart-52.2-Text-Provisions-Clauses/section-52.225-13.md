@@ -1,5 +1,7 @@
 ##### 52.225-13 Restrictions on Certain Foreign Purchases. #####
 
+Link to an amendment published at 86 FR 3689, Jan. 14, 2021.
+
 As prescribed in 25.1103(a), insert the following clause:
 
 Restrictions on Certain Foreign Purchases (JUN 2008)

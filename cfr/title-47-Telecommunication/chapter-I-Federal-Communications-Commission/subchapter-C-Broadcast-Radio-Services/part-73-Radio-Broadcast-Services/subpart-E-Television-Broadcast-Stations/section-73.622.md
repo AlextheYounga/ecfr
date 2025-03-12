@@ -1656,7 +1656,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Duluth       |                \*8, 10, 17, 27, 33                |
 |      Hibbing       |                     13, \*31                      |
 |      Mankato       |                        12                         |
-|    Minneapolis     |               9, 11, 22, 29, 32, 45               |
+|    Minneapolis     |               9, 22, 29, 31, 32, 45               |
 |   Redwood Falls    |                        27                         |
 |     Rochester      |                      10, 46                       |
 |     St. Cloud      |                        40                         |

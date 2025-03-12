@@ -1,7 +1,5 @@
 ##### § 242.213 Multiple certifications. #####
 
-Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
-
 (a) A person may hold certification for multiple types of conductor service.
 
 (b) A person may hold both conductor and locomotive engineer certification.
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 
 (2) Accompanied by a person certified as a conductor under this part but who will be attached to the crew in a manner similar to that of an independent assignment.
 
-(e) Passenger railroad operations: If the conductor is removed from a train for a medical, police or other such emergency after the train departs from an initial terminal, the train may proceed to the first location where the conductor can be replaced without incurring undue delay without the locomotive engineer being a certified conductor. However, an assistant conductor or brakeman must be on the train and the locomotive engineer must be informed that there is no certified conductor on the train prior to any movement.
+(e) If the conductor is removed from a passenger train for a medical, police or other such emergency after the train departs from an initial terminal, the train may proceed to the first location where the conductor can be replaced without incurring undue delay without the locomotive engineer being a certified conductor. However, an assistant conductor or brakeman must be on the train and the locomotive engineer must be informed that there is no certified conductor on the train prior to any movement.
 
 (f) During the duration of any certification interval, a person who holds a current conductor and/or locomotive engineer certificate from more than one railroad shall immediately notify the other certifying railroad(s) if he or she is denied conductor or locomotive engineer recertification under § 242.401 or § 240.219 of this chapter or has his or her conductor or locomotive engineer certification revoked under § 242.407 or § 240.307 of this chapter by another railroad.
 
@@ -37,3 +35,5 @@ Link to an amendment published at 85 FR 81325, Dec. 15, 2020.
 (n) In lieu of issuing multiple certificates, a railroad may issue one certificate to a person who is certified to perform multiple types of conductor service or is certified as a conductor and a locomotive engineer. The certificate must comply with § 240.223 of this chapter and § 242.207.
 
 (o) A person who holds a current conductor and locomotive engineer certificate and who is involved in a revocable event under § 242.407 or § 240.307 of this chapter may only have one certificate revoked for that event. The determination by the railroad as to which certificate to revoke for the revocable event must be based on the work the person was performing at the time the event occurred.
+
+[76 FR 69841, Nov. 9, 2011, as amended at 85 FR 81325, Dec. 15, 2020]

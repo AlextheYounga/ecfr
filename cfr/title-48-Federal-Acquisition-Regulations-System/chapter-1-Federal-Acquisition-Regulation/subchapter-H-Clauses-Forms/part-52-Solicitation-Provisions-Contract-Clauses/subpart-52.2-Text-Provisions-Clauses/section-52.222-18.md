@@ -1,5 +1,7 @@
 ##### 52.222-18 Certification Regarding Knowledge of Child Labor for Listed End Products. #####
 
+Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
+
 As prescribed in 22.1505(a), insert the following provision:
 
 Certification Regarding Knowledge of Child Labor for Listed End Products (FEB 2001)

@@ -1,5 +1,7 @@
 ##### § 230.504 Exemption for limited offerings and sales of securities not exceeding $5,000,000. #####
 
+Link to an amendment published at 86 FR 3598, Jan. 14, 2021.
+
 (a) *Exemption.* Offers and sales of securities that satisfy the conditions in paragraph (b) of this § 230.504 by an issuer that is not:
 
 (1) Subject to the reporting requirements of section 13 or 15(d) of the Exchange Act,;

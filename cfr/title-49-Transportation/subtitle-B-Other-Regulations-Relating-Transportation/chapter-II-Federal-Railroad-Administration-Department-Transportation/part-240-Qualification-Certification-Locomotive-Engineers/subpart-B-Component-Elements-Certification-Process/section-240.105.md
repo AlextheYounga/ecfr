@@ -1,7 +1,5 @@
 ##### § 240.105 Criteria for selection of designated supervisors of locomotive engineers. #####
 
-Link to an amendment published at 85 FR 81309, Dec. 15, 2020.
-
 (a) Each railroad's program shall include criteria and procedures for implementing this section.
 
 (b) The railroad shall examine any person it is considering for qualification as a supervisor of locomotive engineers to determine that he or she:
@@ -16,4 +14,6 @@ Link to an amendment published at 85 FR 81309, Dec. 15, 2020.
 
 (c) If a railroad does not have any Designated Supervisors of Locomotive Engineers, and wishes to hire one, the chief operating officer of the railroad shall make a determination in writing that the Designated Supervisor of Locomotive Engineers designate possesses the necessary performance skills in accordance with § 240.127. This determination shall take into account any special operating characteristics which are unique to that railroad.
 
-[56 FR 28254, June 19, 1991, as amended at 64 FR 60990, Nov. 8, 1999]
+(d) Each railroad is authorized to designate a person as a designated supervisor of locomotive engineers with additional conditions or operational restrictions on the service the person may perform.
+
+[56 FR 28254, June 19, 1991, as amended at 64 FR 60990, Nov. 8, 1999; 85 FR 81309, Dec. 15, 2020]

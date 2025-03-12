@@ -1,0 +1,3 @@
+##### § 3030.140 Applicability. #####
+
+The Postal Service may adjust rates based upon changes in the Consumer Price Index for all Urban Consumers (CPI-U) identified in § 3030.141. If rate adjustment filings involving rate increases are filed 12 or more months apart, rate adjustments are subject to a full year limitation calculated pursuant to § 3030.142. If rate adjustment filings involving rate increases are filed less than 12 months apart, rate adjustments are subject to a partial year limitation calculated pursuant to § 3030.143.

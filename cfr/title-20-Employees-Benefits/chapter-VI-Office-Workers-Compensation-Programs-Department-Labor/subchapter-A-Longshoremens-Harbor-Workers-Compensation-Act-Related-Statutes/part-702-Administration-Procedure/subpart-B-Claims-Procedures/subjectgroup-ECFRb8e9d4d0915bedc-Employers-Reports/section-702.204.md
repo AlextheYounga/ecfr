@@ -1,6 +1,6 @@
 ##### § 702.204 Employer's report; penalty for failure to furnish and or falsifying. #####
 
-Link to an amendment published at 85 FR 80612, Dec. 14, 2020.
+Link to an amendment published at 85 FR 80612, Dec. 14, 2020.Link to an amendment published at 86 FR 2967, Jan. 14, 2021.
 
 Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by § 702.201, or who knowingly or willfully makes a false statement or misrepresentation in any report, shall be subject to a civil penalty not to exceed $24,441 for each such failure, refusal, false statement, or misrepresentation for which penalties are assessed after January 15, 2020. The district director has the authority and responsibility for assessing a civil penalty under this section.
 

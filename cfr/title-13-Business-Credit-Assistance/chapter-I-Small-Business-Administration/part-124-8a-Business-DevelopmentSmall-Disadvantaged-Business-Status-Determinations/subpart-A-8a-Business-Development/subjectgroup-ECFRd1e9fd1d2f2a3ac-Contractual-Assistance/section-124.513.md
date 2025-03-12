@@ -1,8 +1,8 @@
 ##### § 124.513 Under what circumstances can a joint venture be awarded an 8(a) contract? #####
 
-(a) *General.* (1) If approved by SBA, a Participant may enter into a joint venture agreement with one or more other small business concerns, whether or not 8(a) Participants, for the purpose of performing one or more specific 8(a) contracts.
+(a) *General.*(1) A Participant may enter into a joint venture agreement with one or more other small business concerns, whether or not 8(a) Participants, for the purpose of performing one or more specific 8(a) contracts.
 
-(2) A joint venture agreement is permissible only where an 8(a) concern lacks the necessary capacity to perform the contract on its own, and the agreement is fair and equitable and will be of substantial benefit to the 8(a) concern. However, where SBA concludes that an 8(a) concern brings very little to the joint venture relationship in terms of resources and expertise other than its 8(a) status, SBA will not approve the joint venture arrangement.
+(2) A joint venture agreement is permissible only where an 8(a) concern lacks the necessary capacity to perform the contract on its own, and the agreement is fair and equitable and will be of substantial benefit to the 8(a) concern. However, where SBA concludes that an 8(a) Participant brings very little to the joint venture relationship in terms of resources and expertise other than its 8(a) status, SBA will not approve the joint venture to receive an 8(a) sole source contract award and will find the joint venture to be ineligible for a competitive 8(a) award if it is determined to be the apparent successful offeror.
 
 (b) *Size of concerns to an 8(a) joint venture.* (1) A joint venture of at least one 8(a) Participant and one or more other business concerns may submit an offer as a small business for a competitive 8(a) procurement, or be awarded a sole source 8(a) procurement, so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement.
 
@@ -55,21 +55,21 @@ All payments due the joint venture for performance on an 8(a) contract will be d
 
 (2) Where a joint venture has been established for one 8(a) contract, the joint venture may receive additional 8(a) contracts provided the parties create an addendum to the joint venture agreement setting forth the performance requirements for each additional award (and provided any contract is awarded within two years of the first award as set forth in § 121.103(h)). If an additional 8(a) contract is a sole source award, SBA must also approve the addendum prior to contract award.
 
-(f) *Past performance and experience.* When evaluating the past performance and experience of an entity submitting an offer for an 8(a) contract as a joint venture approved by SBA pursuant to this section, a procuring activity must consider work done individually by each partner to the joint venture as well as any work done by the joint venture itself previously.
+(f) *Capabilities, past performance, and experience.* When evaluating the capabilities, past performance, experience, business systems, and certifications of an entity submitting an offer for an 8(a) contract as a joint venture established pursuant to this section, a procuring activity must consider work done and qualifications held individually by each partner to the joint venture as well as any work done by the joint venture itself previously. A procuring activity may not require the 8(a) Participant to individually meet the same evaluation or responsibility criteria as that required of other offerors generally. The partners to the joint venture in the aggregate must demonstrate the past performance, experience, business systems, and certifications necessary to perform the contract.
 
-(g) *Contract execution.* Where SBA has approved a joint venture, the procuring activity will execute an 8(a) contract in the name of the joint venture entity or the 8(a) Participant, but in either case will identify the award as one to an 8(a) joint venture or an 8(a) mentor-protégé joint venture, as appropriate.
+(g) *Contract execution.* Where an 8(a) award will be made to a joint venture, the procuring activity will execute an 8(a) contract in the name of the joint venture entity or the 8(a) Participant, but in either case will identify the award as one to an 8(a) joint venture or an 8(a) mentor-protege joint venture, as appropriate.
 
-(h) *Amendments to joint venture agreement.* All amendments to the joint venture agreement must be approved by SBA.
+(h) *Amendments to joint venture agreement.* Where SBA has approved a joint venture for a sole source 8(a) contract, all amendments to the joint venture agreement must be approved by SBA.
 
 (i) *Inspection of records.* The joint venture partners must allow SBA's authorized representatives, including representatives authorized by the SBA Inspector General, during normal business hours, access to its files to inspect and copy all records and documents relating to the joint venture.
 
 (j) *Certification of compliance.* Prior to the performance of any 8(a) contract by a joint venture, the 8(a) BD Participant to the joint venture must submit a written certification to the contracting officer and SBA, signed by an authorized official of each partner to the joint venture, stating as follows:
 
-(i) The parties have entered into a joint venture agreement that fully complies with paragraph (c) of this section;
+(1) The parties have entered into a joint venture agreement that fully complies with paragraph (c) of this section; and
 
-(ii) The parties will perform the contract in compliance with the joint venture agreement and with the performance of work requirements set forth in paragraph (d) of this section.
+(2) The parties will perform the contract in compliance with the joint venture agreement and with the performance of work requirements set forth in paragraph (d) of this section.
 
-(iii) The parties have obtained SBA's approval of the joint venture agreement and any addendum to that agreement and that there have been no modifications to the agreement that SBA has not approved.
+(3) For a sole source 8(a) contract, the parties have obtained SBA's approval of the joint venture agreement and any addendum to that agreement and that there have been no modifications to the agreement that SBA has not approved.
 
 (k) *Performance of work reports.* An 8(a) Participant to a joint venture must describe how it is meeting or has met the applicable performance of work requirements for each 8(a) contract it performs as a joint venture.
 
@@ -85,4 +85,4 @@ All payments due the joint venture for performance on an 8(a) contract will be d
 
 (3) Failure to submit the certification required by paragraph (e) of this section or comply with paragraph (i) of this section.
 
-[63 FR 35739, June 30, 1998, as amended at 69 FR 29208, May 21, 2004; 76 FR 8261, Feb. 11, 2011; 77 FR 28238, May 14, 2012; 81 FR 34261, May 31, 2016; 81 FR 48582, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66190, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 69 FR 29208, May 21, 2004; 76 FR 8261, Feb. 11, 2011; 77 FR 28238, May 14, 2012; 81 FR 34261, May 31, 2016; 81 FR 48582, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66190, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]

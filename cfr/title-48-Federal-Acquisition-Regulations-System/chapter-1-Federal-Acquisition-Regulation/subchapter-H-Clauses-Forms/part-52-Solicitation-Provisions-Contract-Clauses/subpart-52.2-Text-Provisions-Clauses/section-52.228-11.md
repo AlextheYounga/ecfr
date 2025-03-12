@@ -1,5 +1,7 @@
 ##### 52.228-11 Pledges of Assets. #####
 
+Link to an amendment published at 86 FR 3686, Jan. 14, 2021.
+
 As prescribed in 28.203-6, insert the following clause:
 
 Pledges of Assets (AUG 2018)

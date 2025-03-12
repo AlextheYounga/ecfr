@@ -1,5 +1,7 @@
 ##### § 405.201 Scope of subpart and definitions. #####
 
+Link to an amendment published at 86 FR 3009, Jan. 14, 2021.
+
 (a) *Scope.* This subpart establishes that -
 
 (1) CMS uses the FDA categorization of a device as a factor in making Medicare coverage decisions; and

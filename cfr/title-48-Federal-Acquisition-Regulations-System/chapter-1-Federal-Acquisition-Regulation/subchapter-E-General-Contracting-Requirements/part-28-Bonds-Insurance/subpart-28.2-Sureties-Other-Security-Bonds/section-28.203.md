@@ -1,5 +1,7 @@
 ##### 28.203 Acceptability of individual sureties. #####
 
+Link to an amendment published at 86 FR 3685, Jan. 14, 2021.
+
 (a) An individual surety is acceptable for all types of bonds except position schedule bonds. The contracting officer shall determine the acceptability of individuals proposed as sureties, and shall ensure that the surety's pledged assets are sufficient to cover the bond obligation. (See 28.203-7 for information on excluded individual sureties.)
 
 (b) An individual surety must execute the bond, and the unencumbered value of the assets (exclusive of all outstanding pledges for other bond obligations) pledged by the individual surety, must equal or exceed the penal amount of each bond. The individual surety shall execute the Standard Form 28 and provide a security interest in accordance with 28.203-1. One individual surety is adequate support for a bond, provided the unencumbered value of the assets pledged by that individual surety equal or exceed the amount of the bond. An offeror may submit up to three individual sureties for each bond, in which case the pledged assets, when combined, must equal or exceed the penal amount of the bond. Each individual surety must accept both joint and several liability to the extent of the penal amount of the bond.

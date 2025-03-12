@@ -34,7 +34,7 @@
 
 (j) Any person or entity that misrepresents its status as a “small business concern owned and controlled by socially and economically disadvantaged individuals” in order to obtain any 8(a) contracting opportunity will be subject to possible criminal, civil and administrative penalties, including those imposed by section 16(d) of the Small Business Act, 15 U.S.C. 645(d).
 
-(k) In order to be awarded a sole source or competitive 8(a) construction contract, a Participant must have a bona fide place of business within the applicable geographic location determined by SBA. This will generally be the geographic area serviced by the SBA district office, a Metropolitan Statistical Area (MSA), or a contiguous county to (whether in the same or different state) where the work will be performed. SBA may determine that a Participant with a bona fide place of business anywhere within the state (if the state is serviced by more than one SBA district office), one or more other SBA district offices (in the same or another state), or another nearby area is eligible for the award of an 8(a) construction contract.
+(k) In order to be awarded a sole source or competitive 8(a) construction contract, a Participant must have a bona fide place of business within the applicable geographic location determined by SBA. This will generally be the geographic area serviced by the SBA district office, a Metropolitan Statistical Area (MSA), a contiguous county (whether in the same or different state), or the geographical area serviced by a contiguous SBA district office to where the work will be performed. SBA may determine that a Participant with a bona fide place of business anywhere within the state (if the state is serviced by more than one SBA district office), one or more other SBA district offices (in the same or another state), or another nearby area is eligible for the award of an 8(a) construction contract.
 
 (1) A Participant may have bona fide places of business in more than one location.
 
@@ -56,4 +56,4 @@
 
 (5) Once a Participant has established a bona fide place of business, the Participant may change the location of the recognized office without prior SBA approval. However, the Participant must notify SBA and provide documentation demonstrating an office at that new location within 30 days after the move. Failure to timely notify SBA will render the Participant ineligible for new 8(a) construction procurements limited to that geographic area.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8259, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 48582, July 25, 2016; 85 FR 66186, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8259, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 48582, July 25, 2016; 85 FR 66186, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021]

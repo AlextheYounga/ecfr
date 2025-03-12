@@ -1,0 +1,3 @@
+##### § 3030.220 Applicability. #####
+
+This subpart is applicable to a class or product where the attributable cost for that class or product exceeded the revenue from that class or product as determined by the Commission. Section 3030.221 is applicable where the attributable cost for a product within a class exceeded the revenue from that particular product where the product is classified within a class where the overall class revenue exceeded the attributable cost for that class. Section 3030.222 is applicable where the attributable cost for an entire class exceeded the revenue from that class.

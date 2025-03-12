@@ -1,0 +1,3 @@
+##### § 3030.262 Supplemental information. #####
+
+The Commission may require the Postal Service to provide clarification of its request or to provide additional information in order to gain a better understanding of the circumstances leading to the request or the justification for the specific rate adjustments requested. The Postal Service shall include within its request the identification of one or more knowledgeable Postal Service official(s) who will be available to provide prompt responses to Commission requests for clarification or additional information.

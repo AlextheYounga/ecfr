@@ -1,5 +1,7 @@
 ##### § 227.203 Filing requirements and form. #####
 
+Link to an amendment published at 86 FR 3591, Jan. 14, 2021.
+
 (a) *Form C - Offering statement and amendments* (§ 239.900 of this chapter).
 
 (1) *Offering statement.* An issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) and in accordance with section 4A of the Securities Act (15 U.S.C. 77d-1) and this part must file with the Commission and provide to investors and the relevant intermediary a Form C: Offering Statement (Form C) (§ 239.900 of this chapter) prior to the commencement of the offering of securities. The Form C must include the information required by § 227.201.

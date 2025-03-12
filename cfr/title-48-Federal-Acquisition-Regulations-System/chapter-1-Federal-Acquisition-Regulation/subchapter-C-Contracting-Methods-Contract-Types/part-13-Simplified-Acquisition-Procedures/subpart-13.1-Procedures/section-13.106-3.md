@@ -1,5 +1,7 @@
 ##### 13.106-3 Award and documentation. #####
 
+Link to an amendment published at 86 FR 3681, Jan. 14, 2021.
+
 (a) *Basis for award.* Before making award, the contracting officer must determine that the proposed price is fair and reasonable.
 
 (1) Whenever possible, base price reasonableness on competitive quotations or offers.

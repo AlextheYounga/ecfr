@@ -1,5 +1,7 @@
 ##### § 227.204 Advertising. #####
 
+Link to an amendment published at 86 FR 3592, Jan. 14, 2021.
+
 (a) An issuer may not, directly or indirectly, advertise the terms of an offering made in reliance on section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)), except for notices that meet the requirements of paragraph (b) of this section.
 
 *Instruction to paragraph (a).* For purposes of this paragraph (a), *issuer* includes persons acting on behalf of the issuer.

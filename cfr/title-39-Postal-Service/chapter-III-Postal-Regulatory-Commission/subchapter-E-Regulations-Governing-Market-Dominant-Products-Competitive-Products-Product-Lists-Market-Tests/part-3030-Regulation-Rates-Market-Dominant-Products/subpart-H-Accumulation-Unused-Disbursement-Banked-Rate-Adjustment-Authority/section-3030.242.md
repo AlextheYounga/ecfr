@@ -1,0 +1,5 @@
+##### § 3030.242 Calculation of unused rate adjustment authority for rate adjustments that involve a rate increase which are filed 12 months apart or less. #####
+
+(a) When rate adjustment filings that involve a rate increase are filed 12 months apart or less, unused rate adjustment authority for a class is equal to the difference between the maximum rate adjustment authority as summarized by § 3030.127 and calculated pursuant to subparts C through G of this part and this subpart, as appropriate, and the percentage change in rates for the class calculated pursuant to § 3030.128, subject to the limitations described in paragraph (b) of this section.
+
+(b) For rate adjustment filings that involve a rate increase, unused rate adjustment authority cannot exceed the unused portion of rate authority calculated pursuant to subparts C and D of this part and § 3030.222.
