@@ -1,6 +1,6 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 87 FR 72753, Nov. 25, 2022.
+Link to an amendment published at 87 FR 72753, Nov. 25, 2022.Link to an amendment published at 87 FR 73971, Dec. 2, 2022.
 
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 

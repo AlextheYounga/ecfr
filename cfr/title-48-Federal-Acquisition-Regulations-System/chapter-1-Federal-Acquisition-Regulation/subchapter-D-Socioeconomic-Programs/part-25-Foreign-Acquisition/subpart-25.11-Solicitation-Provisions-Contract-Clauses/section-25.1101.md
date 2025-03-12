@@ -2,9 +2,9 @@
 
 Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
-(a)(1) Insert the clause at 52.225-1, Buy American - Supplies, in solicitations and contracts with a value exceeding the micro-purchase threshold but not exceeding $25,000; and in solicitations and contracts with a value exceeding $25,000, if none of the clauses prescribed in paragraphs (b) and (c) of this section apply, except if -
+The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
 
-(i)The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
+(a)(1)(i) Insert the clause at 52.225-1, Buy American - Supplies, in solicitations and contracts with a value exceeding the micro-purchase threshold but not exceeding $25,000; and in solicitations and contracts with a value exceeding $25,000, if none of the clauses prescribed in paragraphs (b) and (c) of this section apply, except if -
 
 (A) The solicitation is restricted to domestic end products in accordance with subpart 6.3;
 
@@ -54,4 +54,4 @@ Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
 (f) Insert the provision at 52.225-18, Place of Manufacture, in solicitations that are predominantly for the acquisition of manufactured end products, (*i.e.*, the estimated value of the manufactured end products exceeds the estimated value of other items to be acquired as a result of the solicitation).
 
-[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 22.1101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 25.1101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

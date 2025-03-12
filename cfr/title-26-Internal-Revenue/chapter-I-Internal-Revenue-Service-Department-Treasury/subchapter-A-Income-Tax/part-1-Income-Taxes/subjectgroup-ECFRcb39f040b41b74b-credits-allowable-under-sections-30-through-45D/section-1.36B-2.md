@@ -1,6 +1,6 @@
 ##### § 1.36B-2 Eligibility for premium tax credit. #####
 
-Link to an amendment published at 87 FR 62001, Oct. 13, 2022.
+Link to an amendment published at 87 FR 62001, Oct. 13, 2022.Link to an amendment published at 87 FR 73937, Dec. 2, 2022.
 
 (a) *In general.* An applicable taxpayer (within the meaning of paragraph (b) of this section) is allowed a premium assistance amount only for any month that one or more members of the applicable taxpayer's family (the applicable taxpayer or the applicable taxpayer's spouse or dependent) -
 

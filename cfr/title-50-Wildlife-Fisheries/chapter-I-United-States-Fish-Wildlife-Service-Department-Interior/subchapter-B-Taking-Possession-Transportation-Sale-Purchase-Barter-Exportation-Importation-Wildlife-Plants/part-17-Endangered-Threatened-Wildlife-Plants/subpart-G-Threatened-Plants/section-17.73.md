@@ -1,6 +1,6 @@
 ##### § 17.73 Special rules - flowering plants. #####
 
-Link to an amendment published at 87 FR 66607, Nov. 4, 2022.
+Link to an amendment published at 87 FR 66607, Nov. 4, 2022.Link to an amendment published at 87 FR 74012, Dec. 2, 2022.
 
 (a) *Graptopetalum bartramii* (Bartram's stonecrop) - (1) *Prohibitions.* The following prohibitions apply to *Graptopetalum bartramii,* except as provided under paragraph (a)(2) of this section:
 

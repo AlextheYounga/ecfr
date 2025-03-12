@@ -1,10 +1,10 @@
 ##### § 380.10 Royalty fees for the public performance of sound recordings and the making of ephemeral recordings. #####
 
-(a) *Royalty fees.* For the year 2022, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
+(a) *Royalty fees.* For the year 2023, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
 
-(1) *Commercial webcasters:* $0.0028 per Performance for subscription services and $0.0022 per Performance for nonsubscription services.
+(1) *Commercial webcasters:* $0.0030 per Performance for subscription services and $0.0024 per Performance for nonsubscription services.
 
-(2) *Noncommercial webcasters:* $1,000 per year for each channel or station and $0.0022 per Performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
+(2) *Noncommercial webcasters:* $1,000 per year for each channel or station and $0.0024 per Performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
 
 (b) *Minimum fee.* Licensees must pay the Collective a minimum fee of $1,000 each year for each channel or station. The Collective must apply the fee to the Licensee's account as credit towards any additional royalty fees that Licensees may incur in the same year. The fee is payable for each individual channel and each individual station maintained or operated by the Licensee and making Eligible Transmissions during each calendar year or part of a calendar year during which it is a Licensee. The maximum aggregate minimum fee in any calendar year that a Commercial Webcaster must pay is $100,000. The minimum fee is nonrefundable.
 
@@ -12,4 +12,4 @@
 
 (d) *Ephemeral recordings royalty fees; allocation between ephemeral recordings and performance royalty fees.* The Collective must credit 5% of all royalty payments as payment for Ephemeral Recordings and credit the remaining 95% to section 114 royalties. All Ephemeral Recordings that a Licensee makes which are necessary and commercially reasonable for making noninteractive digital transmissions are included in the 5%.
 
-[86 FR 59593, Oct. 27, 2021, as amended at 86 FR 68150, Dec. 1, 2021]
+[86 FR 59593, Oct. 27, 2021, as amended at 86 FR 68150, Dec. 1, 2021; 87 FR 73940, Dec. 2, 2022]
