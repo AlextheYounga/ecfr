@@ -58,6 +58,10 @@ As used in this part -
 
 (2) For components manufactured by the contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the end product.
 
+*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at 25.105.
+
+*Critical item* means a domestic construction material or domestic end product that is deemed critical to the U.S. supply chain. The list of critical items is at 25.105.
+
 *Designated country* means any of the following countries:
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu” (Chinese Taipei)), Ukraine, or United Kingdom);
@@ -80,7 +84,7 @@ As used in this part -
 
 (B) A construction material manufactured in the United States, if -
 
-(*1*) The cost of the components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(*1*) The cost of the components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029 (unless an alternate percentage is established for a contract in accordance with FAR 25.201(c)). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (*2*) The construction material is a commercially available off-the-shelf (COTS) item; or
 
@@ -96,7 +100,7 @@ As used in this part -
 
 (ii) An end product manufactured in the United States, if -
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029 (unless an alternate percentage is established for a contract in accordance with FAR 25.101(d)). Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
 
 (B) The end product is a COTS item; or
 

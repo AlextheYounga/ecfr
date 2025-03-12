@@ -1,5 +1,7 @@
 ##### § 429.158 Product determined noncompliant with regional standards. #####
 
+Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
+
 (a) If DOE determines a model of outdoor unit fails to meet the applicable regional standard(s) when tested in a combination certified by the same manufacturer, then the outdoor unit basic model will be deemed noncompliant with the regional standard(s). In accordance with § 429.102(c), the outdoor unit manufacturer and/or private labeler is liable for distribution of noncompliant units in commerce.
 
 (b) If DOE determines a combination fails to meet the applicable regional standard(s) when tested in a combination certified by a manufacturer other than the outdoor unit manufacturer (e.g., ICM), then that combination is deemed noncompliant with the regional standard(s). In accordance with § 429.102(c), the certifying manufacturer is liable for distribution of noncompliant units in commerce.

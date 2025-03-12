@@ -1,10 +1,10 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 87 FR 12796, Mar. 7, 2022.Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.
+Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JAN 2022)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (OCT 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -94,11 +94,15 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii) 52.225-1, Buy American - Supplies (NOV 2021) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
+(xvii)(A) 52.225-1, Buy American - Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
 
-(A) Is set aside for small business concerns; or
+(*1*) Is set aside for small business concerns; or
 
-(B) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $25,000).
+(*2*) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $25,000).
+
+(B) *Alternate I* (OCT 2022) (Applies if the Contracting Officer has filled in the domestic content threshold below, which will apply to the entire contract period of performance. Substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic end product* in paragraph (a) of 52.225-1:
+
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage per instructions at 13.302-5(d)(4).*])
 
 (xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
 

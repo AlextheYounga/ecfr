@@ -1,18 +1,16 @@
 ##### § 54.9816-6T Methodology for calculating qualifying payment amount (temporary). #####
 
-Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Contracted rate* means the total amount (including cost sharing) that a group health plan has contractually agreed to pay a participating provider, facility, or provider of air ambulance services for covered items and services, whether directly or indirectly, including through a third-party administrator or pharmacy benefit manager. Solely for purposes of this definition, a single case agreement, letter of agreement, or other similar arrangement between a provider, facility, or air ambulance provider and a plan, used to supplement the network of the plan for a specific participant or beneficiary in unique circumstances, does not constitute a contract.
 
 (2) *Derived amount* has the meaning given the term in § 54.9815-2715A1.
 
-(3) *Eligible database* means -
+(3) *Eligible database* means—
 
 (i) A State all-payer claims database; or
 
-(ii) Any third-party database which -
+(ii) Any third-party database which—
 
 (A) Is not affiliated with, or owned or controlled by, any health insurance issuer, or a health care provider, facility, or provider of air ambulance services (or any member of the same controlled group as, or under common control with, such an entity). For purposes of this paragraph (a)(3)(ii)(A), the term controlled group means a group of two or more persons that is treated as a single employer under sections 52(a), 52(b), 414(m), or 414(o) of the Internal Revenue Code of 1986, as amended;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (C) Has the ability to distinguish amounts paid to participating providers and facilities by commercial payers, such as group health plans and health insurance issuers offering group or individual health insurance coverage, from all other claims data, such as amounts billed by nonparticipating providers or facilities and amounts paid by public payers, including the Medicare program under title XVIII of the Social Security Act, the Medicaid program under title XIX of the Social Security Act (or a demonstration project under title XI of the Social Security Act), or the Children's Health Insurance Program under title XXI of the Social Security Act.
 
-(4) *Facility of the same or similar facility type* means, with respect to emergency services, either -
+(4) *Facility of the same or similar facility type* means, with respect to emergency services, either—
 
 (i) An emergency department of a hospital; or
 
@@ -28,15 +26,15 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (5) *First coverage year* means, with respect to an item or service for which coverage is not offered in 2019 under a group health plan, the first year after 2019 for which coverage for such item or service is offered under that plan.
 
-(6) *First sufficient information year* means, with respect to a group health plan -
+(6) *First sufficient information year* means, with respect to a group health plan—
 
 (i) In the case of an item or service for which the plan does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section in 2019, the first year after 2022 for which the plan has sufficient information to calculate the median of such contracted rates in the year immediately preceding that first year after 2022; and
 
 (ii) In the case of a newly covered item or service, the first year after the first coverage year for such item or service with respect to such plan for which the plan has sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section in the year immediately preceding that first year.
 
-(7) *Geographic region* means -
+(7) *Geographic region* means—
 
-(i) For items and services other than air ambulance services -
+(i) For items and services other than air ambulance services—
 
 (A) Subject to paragraphs (a)(7)(i)(B) and (C) of this section, one region for each metropolitan statistical area, as described by the U.S. Office of Management and Budget and published by the U.S. Census Bureau, in a State, and one region consisting of all other portions of the State.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (C) If a plan does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section for an item or service provided in a geographic region described in paragraph (a)(7)(i)(B) of this section, one region consisting of all metropolitan statistical areas, as described by the U.S. Office of Management and Budget and published by the U.S. Census Bureau, in each Census division and one region consisting of all other portions of the Census division, as described by the U.S. Census Bureau.
 
-(ii) For air ambulance services -
+(ii) For air ambulance services—
 
 (A) Subject to paragraph (a)(7)(ii)(B) of this section, one region consisting of all metropolitan statistical areas, as described by the U.S. Office of Management and Budget and published by the U.S. Census Bureau, in the State, and one region consisting of all other portions of the State, determined based on the point of pick-up (as defined in 42 CFR 414.605).
 
@@ -72,11 +70,11 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (14) *Service code* means the code that describes an item or service using the Current Procedural Terminology (CPT) code, Healthcare Common Procedure Coding System (HCPCS), or Diagnosis-Related Group (DRG) codes.
 
-(15) *Sufficient information* means, for purposes of determining whether a group health plan has sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section -
+(15) *Sufficient information* means, for purposes of determining whether a group health plan has sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section—
 
 (i) The plan has at least three contracted rates on January 31, 2019, to calculate the median of the contracted rates in accordance with paragraph (b) of this section; or
 
-(ii) For an item or service furnished during a year after 2022 that is used to determine the first sufficient information year -
+(ii) For an item or service furnished during a year after 2022 that is used to determine the first sufficient information year—
 
 (A) The plan has at least three contracted rates on January 31 of the year immediately preceding that year to calculate the median of the contracted rates in accordance with paragraph (b) of this section; and
 
@@ -86,13 +84,15 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (17) *Underlying fee schedule rate* means the rate for a covered item or service from a particular participating provider, providers, or facility that a group health plan uses to determine a participant's or beneficiary's cost-sharing liability for the item or service, when that rate is different from the contracted rate.
 
-(b) *Methodology for calculation of median contracted rate* - (1) *In general.* The median contracted rate for an item or service is calculated by arranging in order from least to greatest the contracted rates of all group health plans of the plan sponsor (or the administering entity as provided in paragraph (a)(8)(iv) of this section, if applicable) in the same insurance market for the same or similar item or service that is provided by a provider in the same or similar specialty or facility of the same or similar facility type and provided in the geographic region in which the item or service is furnished and selecting the middle number. If there are an even number of contracted rates, the median contracted rate is the average of the middle two contracted rates. In determining the median contracted rate, the amount negotiated under each contract is treated as a separate amount. If a plan or issuer has a contract with a provider group or facility, the rate negotiated with that provider group or facility under the contract is treated as a single contracted rate if the same amount applies with respect to all providers of such provider group or facility under the single contract. However, if a plan or issuer has a contract with multiple providers, with separate negotiated rates with each particular provider, each unique contracted rate with an individual provider constitutes a single contracted rate. Further, if a plan or issuer has separate contracts with individual providers, the contracted rate under each such contract constitutes a single contracted rate (even if the same amount is paid to multiple providers under separate contracts).
+(18) For further guidance see § 54.9816-6(a)(18).
+
+(b) *Methodology for calculation of median contracted rate*—(1) *In general.* The median contracted rate for an item or service is calculated by arranging in order from least to greatest the contracted rates of all group health plans of the plan sponsor (or the administering entity as provided in paragraph (a)(8)(iv) of this section, if applicable) in the same insurance market for the same or similar item or service that is provided by a provider in the same or similar specialty or facility of the same or similar facility type and provided in the geographic region in which the item or service is furnished and selecting the middle number. If there are an even number of contracted rates, the median contracted rate is the average of the middle two contracted rates. In determining the median contracted rate, the amount negotiated under each contract is treated as a separate amount. If a plan or issuer has a contract with a provider group or facility, the rate negotiated with that provider group or facility under the contract is treated as a single contracted rate if the same amount applies with respect to all providers of such provider group or facility under the single contract. However, if a plan or issuer has a contract with multiple providers, with separate negotiated rates with each particular provider, each unique contracted rate with an individual provider constitutes a single contracted rate. Further, if a plan or issuer has separate contracts with individual providers, the contracted rate under each such contract constitutes a single contracted rate (even if the same amount is paid to multiple providers under separate contracts).
 
 (2) *Calculation rules.* In calculating the median contracted rate, a plan must:
 
 (i) Calculate the median contracted rate with respect to all plans of such sponsor (or the administering entity as provided in paragraph (a)(8)(iv) of this section, if applicable) that are offered in the same insurance market;
 
-(ii) Calculate the median contracted rate using the full contracted rate applicable to the service code, except that the plan must -
+(ii) Calculate the median contracted rate using the full contracted rate applicable to the service code, except that the plan must—
 
 (A) Calculate separate median contracted rates for CPT code modifiers “26” (professional component) and “TC” (technical component);
 
@@ -110,7 +110,7 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (ii) If a plan has contracted rates for emergency services that vary based on facility type for a service code, the median contracted rate is calculated separately for each facility of the same or similar facility type.
 
-(c) *Methodology for calculation of the qualifying payment amount* - (1) *In general.* (i) For an item or service (other than items or services described in paragraphs (c)(1)(iii) through (vii) of this section) furnished during 2022, the plan must calculate the qualifying payment amount by increasing the median contracted rate (as determined in accordance with paragraph (b) of this section) for the same or similar item or service under such plans, on January 31, 2019, by the combined percentage increase as published by the Department of the Treasury and the Internal Revenue Service to reflect the percentage increase in the CPI-U over 2019, such percentage increase over 2020, and such percentage increase over 2021.
+(c) *Methodology for calculation of the qualifying payment amount*—(1) *In general.* (i) For an item or service (other than items or services described in paragraphs (c)(1)(iii) through (vii) of this section) furnished during 2022, the plan must calculate the qualifying payment amount by increasing the median contracted rate (as determined in accordance with paragraph (b) of this section) for the same or similar item or service under such plans, on January 31, 2019, by the combined percentage increase as published by the Department of the Treasury and the Internal Revenue Service to reflect the percentage increase in the CPI-U over 2019, such percentage increase over 2020, and such percentage increase over 2021.
 
 (A) The combined percentage increase for 2019, 2020, and 2021 will be published in guidance by the Internal Revenue Service. The Department of the Treasury and the Internal Revenue Service will calculate the percentage increase using the CPI-U published by the Bureau of Labor Statistics of the Department of Labor.
 
@@ -152,9 +152,9 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (vii) For any other items or services for which a plan generally determines payment for the same or similar items or services by multiplying a contracted rate by another unit value, the plan must calculate the qualifying payment amount using a methodology that is similar to the methodology required under paragraphs (c)(1)(iii) through (vi) of this section and reasonably reflects the payment methodology for same or similar items or services.
 
-(2) *New plans.* With respect to a sponsor of a group health plan in a geographic region in which the sponsor did not offer any group health plan during 2019 -
+(2) *New plans.* With respect to a sponsor of a group health plan in a geographic region in which the sponsor did not offer any group health plan during 2019—
 
-(i) For the first year in which the group health plan is offered in such region -
+(i) For the first year in which the group health plan is offered in such region—
 
 (A) If the plan has sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section, the plan must calculate the qualifying payment amount in accordance with paragraph (c)(1) of this section for items and services that are covered by the plan and furnished during the first year; and
 
@@ -162,19 +162,19 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (ii) For each subsequent year the group health plan is offered in the region, the plan must calculate the qualifying payment amount by increasing the qualifying payment amount determined under this paragraph (c)(2) for the items and services furnished in the immediately preceding year, in accordance with paragraph (c)(1)(ii), (iv), or (vi) of this section, as applicable.
 
-(3) *Insufficient information; newly covered items and services.* In the case of a plan that does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section in 2019 (or, in the case of a newly covered item or service, in the first coverage year for such item or service with respect to such plan or coverage if the plan does not have sufficient information) for an item or service provided in a geographic region -
+(3) *Insufficient information; newly covered items and services.* In the case of a plan that does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section in 2019 (or, in the case of a newly covered item or service, in the first coverage year for such item or service with respect to such plan or coverage if the plan does not have sufficient information) for an item or service provided in a geographic region—
 
 (i) For an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for the item or service with respect to the plan or coverage), the plan must calculate the qualifying payment amount by first identifying the rate that is equal to the median of the in-network allowed amounts for the same or similar item or service provided in the geographic region in the year immediately preceding the year in which the item or service is furnished (or, in the case of a newly covered item or service, the year immediately preceding such first coverage year) determined by the plan through use of any eligible database, and then increasing that rate by the percentage increase in the CPI-U over such preceding year. For purposes of this section, in cases in which an eligible database is used to determine the qualifying payment amount with respect to an item or service furnished during a calendar year, the plan must use the same database for determining the qualifying payment amount for that item or service furnished through the last day of the calendar year, and if a different database is selected for some items or services, the basis for that selection must be one or more factors not directly related to the rate of those items or services (such as sufficiency of data for those items or services).
 
 (ii) For an item or service furnished in a subsequent year (before the first sufficient information year for such item or service with respect to such plan), the plan must calculate the qualifying payment amount by increasing the qualifying payment amount determined under paragraph (c)(3)(i) of this section or this paragraph (c)(3)(ii), as applicable, for such item or service for the year immediately preceding such subsequent year, by the percentage increase in CPI-U over such preceding year;
 
-(iii) For an item or service furnished in the first sufficient information year for such item or service with respect to such plan, the plan must calculate the qualifying payment amount in accordance with paragraph (c)(1)(i), (iii), or (v) of this section, as applicable, except that in applying such paragraph to such item or service, the reference to `furnished during 2022' is treated as a reference to furnished during such first sufficient information year, the reference to `in 2019' is treated as a reference to such sufficient information year, and the increase described in such paragraph is not applied; and
+(iii) For an item or service furnished in the first sufficient information year for such item or service with respect to such plan, the plan must calculate the qualifying payment amount in accordance with paragraph (c)(1)(i), (iii), or (v) of this section, as applicable, except that in applying such paragraph to such item or service, the reference to 'furnished during 2022' is treated as a reference to furnished during such first sufficient information year, the reference to 'in 2019' is treated as a reference to such sufficient information year, and the increase described in such paragraph is not applied; and
 
-(iv) For an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan, the plan must calculate the qualifying payment amount in accordance with paragraph (c)(1)(ii), (iv), or (vi) of this section, as applicable, except that in applying such paragraph to such item or service, the reference to `furnished during 2023 or a subsequent year' is treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
+(iv) For an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan, the plan must calculate the qualifying payment amount in accordance with paragraph (c)(1)(ii), (iv), or (vi) of this section, as applicable, except that in applying such paragraph to such item or service, the reference to 'furnished during 2023 or a subsequent year' is treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
 
-(4) *New service codes.* In the case of a plan that does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section and determine the qualifying payment amount under paragraphs (c)(1) through (3) of this section because the item or service furnished is billed under a new service code -
+(4) *New service codes.* In the case of a plan that does not have sufficient information to calculate the median of the contracted rates described in paragraph (b) of this section and determine the qualifying payment amount under paragraphs (c)(1) through (3) of this section because the item or service furnished is billed under a new service code—
 
-(i) For an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for the item or service with respect to the plan), the plan must identify a reasonably related service code that existed in the immediately preceding year and -
+(i) For an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for the item or service with respect to the plan), the plan must identify a reasonably related service code that existed in the immediately preceding year and—
 
 (A) If the Centers for Medicare & Medicaid Services has established a Medicare payment rate for the item or service billed under the new service code, the plan must calculate the qualifying payment amount by first calculating the ratio of the rate that Medicare pays for the item or service billed under the new service code compared to the rate that Medicare pays for the item or service billed under the related service code, and then multiplying the ratio by the qualifying payment amount for an item or service billed under the related service code for the year in which the item or service is furnished.
 
@@ -184,21 +184,23 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (iii) For an item or service furnished in the first sufficient information year for such item or service with respect to such plan or the first year for which an eligible database has sufficient information to calculate a rate under paragraph (c)(3)(i) of this section in the immediately preceding year, the plan or issuer must calculate the qualifying payment amount in accordance with paragraph (c)(3) of this section.
 
-(d) *Information to be shared about qualifying payment amount.* In cases in which the recognized amount with respect to an item or service furnished by a nonparticipating provider, nonparticipating emergency facility, or nonparticipating provider of air ambulance services is the qualifying payment amount, the plan must provide in writing, in paper or electronic form, to the provider or facility, as applicable -
+(d) *Information to be shared about qualifying payment amount.* In cases in which the recognized amount with respect to an item or service furnished by a nonparticipating provider, nonparticipating emergency facility, or nonparticipating provider of air ambulance services is the qualifying payment amount, the plan must provide in writing, in paper or electronic form, to the provider or facility, as applicable—
 
 (1) With an initial payment or notice of denial of payment under § 54.9816-4T, § 54.9816-5T, or § 54.9817-1T:
 
 (i) The qualifying payment amount for each item or service involved;
 
-(ii) A statement to certify that, based on the determination of the plan -
+(ii) For further guidance see § 54.9816-6(d)(1)(ii);
+
+(iii) A statement to certify that, based on the determination of the plan—
 
 (A) The qualifying payment amount applies for purposes of the recognized amount (or, in the case of air ambulance services, for calculating the participant's, beneficiary's, or enrollee's cost sharing); and
 
 (B) Each qualifying payment amount shared with the provider or facility was determined in compliance with this section;
 
-(iii) A statement that if the provider or facility, as applicable, wishes to initiate a 30-day open negotiation period for purposes of determining the amount of total payment, the provider or facility may contact the appropriate person or office to initiate open negotiation, and that if the 30-day negotiation period does not result in a determination, generally, the provider or facility may initiate the independent dispute resolution process within 4 days after the end of the open negotiation period; and
+(iv) A statement that if the provider or facility, as applicable, wishes to initiate a 30-day open negotiation period for purposes of determining the amount of total payment, the provider or facility may contact the appropriate person or office to initiate open negotiation, and that if the 30-day negotiation period does not result in a determination, generally, the provider or facility may initiate the independent dispute resolution process within 4 days after the end of the open negotiation period; and
 
-(iv) Contact information, including a telephone number and email address, for the appropriate person or office to initiate open negotiations for purposes of determining an amount of payment (including cost sharing) for such item or service.
+(v) Contact information, including a telephone number and email address, for the appropriate person or office to initiate open negotiations for purposes of determining an amount of payment (including cost sharing) for such item or service.
 
 (2) In a timely manner upon request of the provider or facility:
 
@@ -216,4 +218,4 @@ Link to an amendment published at 87 FR 52645, Aug. 26, 2022.
 
 (g) *Applicability date.* The provisions of this section are applicable with respect to plan years beginning on or after January 1, 2022.
 
-[T.D. 9951, 86 FR 36950, July 13, 2021]
+[T.D. 9951, 86 FR 36950, July 13, 2021, as amended by T.D. 9965, 87 FR 52645, Aug. 26, 2022]

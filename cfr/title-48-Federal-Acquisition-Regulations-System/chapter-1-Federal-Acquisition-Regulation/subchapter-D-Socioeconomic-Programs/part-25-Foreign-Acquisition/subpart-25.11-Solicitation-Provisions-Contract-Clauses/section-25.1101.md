@@ -1,16 +1,16 @@
 ##### 25.1101 Acquisition of supplies. #####
 
-Link to an amendment published at 87 FR 12794, Mar. 7, 2022.
-
-The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
-
 (a)(1) Insert the clause at 52.225-1, Buy American - Supplies, in solicitations and contracts with a value exceeding the micro-purchase threshold but not exceeding $25,000; and in solicitations and contracts with a value exceeding $25,000, if none of the clauses prescribed in paragraphs (b) and (c) of this section apply, except if -
 
-(i) The solicitation is restricted to domestic end products in accordance with subpart 6.3;
+(i)The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
 
-(ii) The acquisition is for supplies for use within the United States and an exception to the Buy American statute applies (*e.g.*, nonavailability, public interest, or information technology that is a commercial product); or
+(A) The solicitation is restricted to domestic end products in accordance with subpart 6.3;
 
-(iii) The acquisition is for supplies for use outside the United States.
+(B) The acquisition is for supplies for use within the United States and an exception to the Buy American statute applies (*e.g.*, nonavailability, public interest, or information technology that is a commercial product); or
+
+(C) The acquisition is for supplies for use outside the United States.
+
+(ii) The contracting officer shall use the clause with its Alternate I to reflect the domestic content threshold that will apply to the entire period of performance, when the senior procurement executive allows for application of an alternate domestic content test for the contract in accordance with 25.101(d). For contracts that the contracting officer estimates will be awarded in calendar year 2022 or 2023, the contracting officer shall insert “60” in paragraph (1)(ii)(A) of the definition of “domestic end product.” For contracts that the contracting officer estimates will be awarded in calendar year 2024, 2025, 2026, 2027, or 2028, the contracting officer shall insert “65”. For contracts that the contracting officer estimates will be awarded after calendar year 2028 the contracting officer shall insert “75”.
 
 (2) Insert the provision at 52.225-2, Buy American Certificate, in solicitations containing the clause at 52.225-1.
 
@@ -27,6 +27,8 @@ The following provisions and clauses apply to the acquisition of supplies and th
 (iii) If the acquisition value is $50,000 or more but is less than $92,319, use the clause with its *Alternate II.*
 
 (iv) If the acquisition value is $92,319 or more but is less than $100,000, use the clause with its Alternate III.
+
+(v) The contracting officer shall use the clause with its Alternate IV to reflect the domestic content threshold that will apply to the entire period of performance, when the senior procurement executive allows for application of an alternate domestic content test for the contract in accordance with 25.102(d). For contracts that the contracting officer estimates will be awarded in calendar year 2022 or 2023, the contracting officer shall insert “60” in paragraph (1)(ii)(A) of the definition of “domestic end product.” For contracts that the contracting officer estimates will be awarded in calendar year 2024, 2025, 2026, 2027, or 2028, the contracting officer shall insert “65”. For contracts that the contracting officer estimates will be awarded after calendar year 2028 the contracting officer shall insert “75”.
 
 (2)(i) Insert the provision at 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate, in solicitations containing the clause at 52.225-3.
 

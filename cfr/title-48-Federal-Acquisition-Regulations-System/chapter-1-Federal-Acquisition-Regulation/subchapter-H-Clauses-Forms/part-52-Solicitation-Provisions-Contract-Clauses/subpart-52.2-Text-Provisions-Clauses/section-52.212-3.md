@@ -1,10 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 12795, Mar. 7, 2022.Link to a correction published at 87 FR 62999, Oct. 18, 2022.Link to an amendment published at 87 FR 58224, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
+Link to an amendment published at 87 FR 58224, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Products and Commercial Services (MAY 2022)
+Offeror Representations and Certifications - Commercial Products and Commercial Services (OCT 2022)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -192,29 +192,37 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (f) *Buy American Certificate.* (Applies only if the clause at Federal Acquisition Regulation (FAR) 52.225-1, Buy American - Supplies, is included in this solicitation.)
 
-(1)(i) The Offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product.
+(1)(i) The Offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product and that each domestic end product listed in paragraph (f)(3) of this provision contains a critical component.
 
-(ii) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
+(ii) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
 
-(iii) The terms “domestic end product,” “end product,” “foreign end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American-Supplies.”
+(iii) The Offeror shall separately list the line item numbers of domestic end products that contain a critical component (see FAR 25.105).
+
+(iv) The terms “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American-Supplies.”
 
 (2) Foreign End Products:
 
-|Line item No.|Country of origin|
-|-------------|-----------------|
-|             |                 |
-|             |                 |
-|             |                 |
+|Line Item No.|Country of origin|Exceeds 55% domestic content  <br/>(yes/no)|
+|-------------|-----------------|-------------------------------------------|
+|             |                 |                                           |
+|             |                 |                                           |
+|             |                 |                                           |
 
 [List as necessary]
 
-(3) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25.
+(3) Domestic end products containing a critical component:
+
+Line Item No. \_\_\_\_\_\_
+
+[List as necessary]
+
+(4) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
 (g)(1) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate.* (Applies only if the clause at FAR 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, is included in this solicitation.)
 
-(i)(A) The Offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (iii) of this provision, is a domestic end product.
+(i)(A) The Offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (iii) of this provision, is a domestic end product and that each domestic end product listed in paragraph (g)(1)(iv) of this provision contains a critical component.
 
-(B) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
+(B) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
 
 (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
 
@@ -228,19 +236,25 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Oman
 
 [List as necessary]
 
-(iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
+(iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
 
 Other Foreign End Products:
 
-|Line item No.|Country of origin|
-|-------------|-----------------|
-|             |                 |
-|             |                 |
-|             |                 |
+|Line Item No.|Country of origin|Exceeds 55% domestic content  <br/>(yes/no)|
+|-------------|-----------------|-------------------------------------------|
+|             |                 |                                           |
+|             |                 |                                           |
+|             |                 |                                           |
 
 [List as necessary]
 
-(iv) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25.
+(iv) The Offeror shall list the line item numbers of domestic end products that contain a critical component (see FAR 25.105).
+
+Line Item No. \_\_\_\_\_\_
+
+[List as necessary]
+
+(v) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
 (2) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate I.* If *Alternate I* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 

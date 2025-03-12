@@ -1,6 +1,6 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 87 FR 52267, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52267, Aug. 24, 2022.Link to a correction published at 87 FR 64384, Oct. 25, 2022.
 
 As used in this part:
 

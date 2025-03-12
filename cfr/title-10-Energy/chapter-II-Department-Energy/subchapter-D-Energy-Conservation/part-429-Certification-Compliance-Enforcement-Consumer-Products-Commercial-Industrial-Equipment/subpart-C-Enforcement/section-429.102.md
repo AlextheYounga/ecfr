@@ -1,5 +1,7 @@
 ##### § 429.102 Prohibited acts subjecting persons to enforcement action. #####
 
+Link to an amendment published at 87 FR 64586, Oct. 25, 2022.
+
 (a) Each of the following actions is prohibited:
 
 (1) Failure of a manufacturer to provide, maintain, permit access to, or copying of records required to be supplied under the Act and this part or failure to make reports or provide other information required to be supplied under the Act and this part, including but not limited to failure to properly certify covered products and covered equipment in accordance with § 429.12 and §§ 429.14 through 429.66;

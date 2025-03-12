@@ -1,26 +1,14 @@
 ##### § 54.9817-2T Independent dispute resolution process for air ambulance services (temporary). #####
 
-Link to an amendment published at 87 FR 52648, Aug. 26, 2022.
-
 (a) *Definitions.* Unless otherwise stated, the definitions in § 54.9816-3T apply.
 
-(b) *Determination of out-of-network rates to be paid by group health plans; independent dispute resolution process* - (1) *In general.* Except as provided in paragraphs (b)(2) and (3) of this section, in determining the out-of-network rate to be paid by group health plans for out-of-network air ambulance services, plans must comply with the requirements of § 54.9816-8T, except that references in § 54.9816-8T to the additional circumstances in § 54.9816-8T(c)(4)(iii)(C) shall be understood to refer to § 54.9817-2T(b)(2).
+(b) *Determination of out-of-network rates to be paid by group health plans; independent dispute resolution process.* (1) For further guidance see § 54.9817-2(b)(1).
 
-(2) *Additional information.* Additional information submitted by a party, provided the information is credible, relates to the circumstances described in paragraphs (b)(2)(i) through (vi) of this section, with respect to a qualified IDR service of a nonparticipating provider of air ambulance services or group health plan that is the subject of a payment determination. This information must also clearly demonstrate that the qualifying payment amount is materially different from the appropriate out-of-network rate.
+(2) For further guidance see § 54.9817-2(b)(2).
 
-(i) The quality and outcomes measurements of the provider that furnished the services.
+(3) For further guidance see § 54.9817-2(b)(3).
 
-(ii) The acuity of the condition of the participant or beneficiary receiving the service, or the complexity of furnishing the service to the participant or beneficiary.
-
-(iii) The training, experience, and quality of the medical personnel that furnished the air ambulance services.
-
-(iv) Ambulance vehicle type, including the clinical capability level of the vehicle.
-
-(v) Population density of the point of pick-up (as defined in 42 CFR 414.605) for the air ambulance (such as urban, suburban, rural, or frontier).
-
-(vi) Demonstrations of good faith efforts (or lack thereof) made by the nonparticipating provider of air ambulance services or the plan to enter into network agreements with each other and, if applicable, contracted rates between the provider of air ambulance services and the plan during the previous 4 plan years.
-
-(3) *Reporting of information relating to the IDR process.* In applying the requirements of § 54.9816-8T(f), within 30 business days of the close of each month, for services furnished on or after January 1, 2022, the information the certified IDR entity must report, in a form and manner specified by the Secretary, with respect to the Federal IDR process involving air ambulance services is:
+(4) *Reporting of information relating to the IDR process.* In applying the requirements of § 54.9816-8T(f), within 30 business days of the close of each month, for services furnished on or after January 1, 2022, the information the certified IDR entity must report, in a form and manner specified by the Secretary, with respect to the Federal IDR process involving air ambulance services is:
 
 (i) The number of notices of IDR initiation submitted under the Federal IDR process to the certified IDR entity that pertain to air ambulance services during the immediately preceding month;
 
@@ -40,7 +28,7 @@ Link to an amendment published at 87 FR 52648, Aug. 26, 2022.
 
 (E) The amount of the selected offer expressed as a dollar amount and as a percentage of the qualifying payment amount;
 
-(F) The rationale for the certified IDR entity's decision, including the extent to which the decision relied on the criteria in paragraph (b)(2) of this section;
+(F) For further guidance see § 54.9817-2(b)(4)(iv)(F);
 
 (G) Air ambulance vehicle type, including the clinical capability level of such vehicle (to the extent this information has been provided to the certified IDR entity);
 
@@ -50,6 +38,6 @@ Link to an amendment published at 87 FR 52648, Aug. 26, 2022.
 
 (v) The total amount of certified IDR entity fees paid to the certified IDR entity under paragraph § 54.9816-8T(d)(1) (as applied by paragraph (b)(1) of this section) during the month for determinations involving air ambulance services.
 
-(c) *Applicability date.* The provisions of this section are applicable with respect to plan years beginning on or after January 1, 2022.
+(c) *Applicability date.* The provisions of this section are applicable with respect to plan years beginning on or after January 1, 2022, except that paragraphs (b)(1), (2), and (3) and (b)(4)(iv)(F) of this section regarding payment determinations are applicable with respect to services provided or furnished on or after October 25, 2022, for plan years beginning on or after January 1, 2022.
 
-[T.D. 9955, 86 FR 56109, Oct. 7, 2021]
+[T.D. 9955, 86 FR 56109, Oct. 7, 2021, as amended by T.D. 9965, 87 FR 52648, Aug. 26, 2022]

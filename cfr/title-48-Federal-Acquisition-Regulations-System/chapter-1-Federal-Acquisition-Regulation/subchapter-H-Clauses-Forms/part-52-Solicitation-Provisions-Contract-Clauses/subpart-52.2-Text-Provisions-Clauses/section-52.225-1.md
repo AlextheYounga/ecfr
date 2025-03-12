@@ -1,14 +1,12 @@
-##### 52.225-1 Buy American - Supplies. #####
-
-Link to an amendment published at 87 FR 12796, Mar. 7, 2022.
+##### 52.225-1 Buy American—Supplies. #####
 
 As prescribed in 25.1101(a)(1), insert the following clause:
 
-Buy American - Supplies (NOV 2021)
+Buy American—Supplies (OCT 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
+*Commercially available off-the-shelf (COTS) item*—(1) Means any item of supply (including construction material) that is—
 
 (i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
@@ -20,21 +18,23 @@ Buy American - Supplies (NOV 2021)
 
 *Component* means an article, material, or supply incorporated directly into an end product.
 
-*Cost of components means* -
+*Cost of components means*—
 
 (1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
 
 (2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the end product.
 
-*Domestic end product* means -
+*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at FAR 25.105.
 
-(1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
+*Domestic end product* means—
+
+(1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both—
 
 (i) An unmanufactured end product mined or produced in the United States;
 
-(ii) An end product manufactured in the United States, if -
+(ii) An end product manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
 
 (B) The end product is a COTS item; or
 
@@ -60,4 +60,10 @@ Buy American - Supplies (NOV 2021)
 
 (d) The Contractor shall deliver only domestic end products except to the extent that it specified delivery of foreign end products in the provision of the solicitation entitled “Buy American Certificate.”
 
-(End of clause)[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014; 86 FR 6190, Jan. 19, 2021; 86 FR 61035, Nov. 4, 2021]
+(End of clause)
+
+*Alternate I* (OCT 2022). As prescribed in 25.1101(a)(1)(ii) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of “domestic end product” in paragraph (a):
+
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage.*]
+
+[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014; 86 FR 6190, Jan. 19, 2021; 86 FR 61035, Nov. 4, 2021; 87 FR 12796, Mar. 7, 2022]

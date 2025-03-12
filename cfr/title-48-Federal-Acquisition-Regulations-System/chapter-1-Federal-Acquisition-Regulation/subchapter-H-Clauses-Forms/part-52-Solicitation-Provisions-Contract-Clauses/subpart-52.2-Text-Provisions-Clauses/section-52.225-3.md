@@ -1,10 +1,8 @@
 ##### 52.225-3 Buy American - Free Trade Agreements - Israeli Trade Act. #####
 
-Link to an amendment published at 87 FR 12796, Mar. 7, 2022.
-
 As prescribed in 25.1101(b)(1)(i), insert the following clause:
 
-Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021)
+Buy American - Free Trade Agreements - Israeli Trade Act (OCT 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -32,6 +30,8 @@ Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021)
 
 (2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the end product.
 
+*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at FAR 25.105.
+
 *Domestic end product* means -
 
 (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
@@ -40,7 +40,7 @@ Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021)
 
 (ii) An end product manufactured in the United States, if -
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
 
 (B) The end product is a COTS item; or
 
@@ -109,5 +109,9 @@ Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021)
 (2) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Korea (Republic of), Morocco, Oman, Panama, or Peru into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product includes services (except transportation services) incidental to the article, provided that the value of those incidental services does not exceed that of the article itself.
 
 (c) *Delivery of end products.* 41 U.S.C. chapter 83 provides a preference for domestic end products for supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for an end product that is a COTS item (see 12.505(a)(1)), except that for an end product that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the end product, excluding COTS fasteners. In addition, the Contracting Officer has determined that FTAs (except the Bahrain, Korea (Republic of), Morocco, Oman, Panama, and Peru FTAs) and the Israeli Trade Act apply to this acquisition. Unless otherwise specified, these trade agreements apply to all items in the Schedule. The Contractor shall deliver under this contract only domestic end products except to the extent that, in its offer, it specified delivery of foreign end products in the provision entitled “Buy American - Free Trade Agreements - Israeli Trade Act Certificate.” If the Contractor specified in its offer that the Contractor would supply a Free Trade Agreement country end product (other than a Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end product) or an Israeli end product, then the Contractor shall supply a Free Trade Agreement country end product (other than a Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end product), an Israeli end product or, at the Contractor's option, a domestic end product.
+
+*Alternate IV* (OCT 2022). As prescribed in 25.1101(b)(1)(v) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic end product* in paragraph (a):
+
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage.*]
 
 [64 FR 72434, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 52.225-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

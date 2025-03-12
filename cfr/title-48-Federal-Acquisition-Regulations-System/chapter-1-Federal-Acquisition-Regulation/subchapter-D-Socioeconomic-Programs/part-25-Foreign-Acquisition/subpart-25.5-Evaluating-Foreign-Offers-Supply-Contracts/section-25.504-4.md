@@ -1,7 +1,5 @@
 ##### 25.504-4 Group award basis. #####
 
-Link to an amendment published at 87 FR 12793, Mar. 7, 2022.
-
 (a) *Example 1.*
 
 |Item |   Offers   |            |             |
@@ -32,17 +30,16 @@ Link to an amendment published at 87 FR 12793, Mar. 7, 2022.
 
 *STEP 2:* Evaluate Offer C against the tentative award pattern for Offers A and B:
 
-|  Item   |                  Offers                  |              |                |
-|---------|------------------------------------------|--------------|----------------|
-|Low offer|Tentative award  <br/>pattern from A and B|      C       |                |
-|    1    |                    A                     | DO = $55,000 |\* NEL = $60,000|
-|    2    |                    B                     | EL = 10,000  |  EL = 13,000   |
-|    3    |                    B                     | DO = 12,000  |  DO = 10,000   |
-|    4    |                    A                     | NEL = 24,000 |  NEL = 22,000  |
-|    5    |                    B                     |\*NEL = 12,000|  DO = 14,000   |
-|  Total  |                                          |   113,000    |    119,000     |
-
-\* Offer + 20 percent.
+|         Item         |                  Offers                  |              |                |
+|----------------------|------------------------------------------|--------------|----------------|
+|      Low offer       |Tentative award  <br/>pattern from A and B|      C       |                |
+|          1           |                    A                     | DO = $55,000 |\* NEL = $60,000|
+|          2           |                    B                     | EL = 10,000  |  EL = 13,000   |
+|          3           |                    B                     | DO = 12,000  |  DO = 10,000   |
+|          4           |                    A                     | NEL = 24,000 |  NEL = 22,000  |
+|          5           |                    B                     |\*NEL = 12,000|  DO = 14,000   |
+|        Total         |                                          |   113,000    |    119,000     |
+|\* Offer + 20 percent.|                                          |              |                |
 
 On a line item basis, apply a factor to any noneligible offer if the other offer for that line item is domestic.
 
@@ -83,4 +80,47 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 
 *STEP 3:* Determine whether to apply an evaluation factor (see 25.503(c)(3)). The low offer (Offer C) is a foreign offer. There is no eligible offer lower than the domestic offer. Therefore, apply the factor to the low offer. Addition of the 20 percent factor (use 30 percent if Offer A is a small business) to Offer C yields an evaluated price of $108,960 ($90,800 + 20 percent). Award on Offer A (see 25.502(c)(4)(ii)). Note that, if Offer A were greater than Offer B, an evaluation factor would not be applied, and award would be on Offer C (see 25.502(c)(3)).
 
-[64 FR 72419, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000; 69 FR 77875, Dec. 28, 2004; 79 FR 24209, Apr. 29, 2014; 86 FR 6188, Jan. 19, 2021]
+(c) *Example 3.*
+
+|                                  Item                                  |       Offers       |                    |                     |
+|------------------------------------------------------------------------|--------------------|--------------------|---------------------|
+|                                   A                                    |         B          |         C          |                     |
+|                                   1                                    |    DO = $17,800    |FO (\>55%) = $16,000|FO (\<55%) = $11,200.|
+|                                   2                                    |FO (\>55%) = $9,000 |FO (\>55%) = $8,500 |    DO = $10,200.    |
+|                                   3                                    |FO (\<55%) = $11,200|FO (\>55%) = $12,000|FO (\<55%) = $11,000.|
+|                                   4                                    |    DO = $10,000    |    DO = $9,000     |FO (\<55%) = $6,400. |
+|                                 Total                                  |      $48,000       |      $45,500       |      $38,800.       |
+|                                  Key:                                  |                    |                    |                     |
+|DO = Domestic end product (complies with the required domestic content).|                    |                    |                     |
+|  FO \> 55% = Foreign end product with domestic content exceeding 55%.  |                    |                    |                     |
+| FO \< 55% = Foreign end product with domestic content of 55% or less.  |                    |                    |                     |
+
+*Problem:* The solicitation specifies award on a group basis. Assume only the Buy American statute applies (*i.e.,* no trade agreements apply) and the acquisition cannot be set aside for small business concerns. All offerors are large businesses.
+
+*Analysis:* (see 25.503(d))
+
+*STEP 1:* Determine which of the offers are domestic (see 25.503(d)(1)):
+
+|   |                                  Domestic  <br/>(percent)                                   |Determination|
+|---|---------------------------------------------------------------------------------------------|-------------|
+| A |$17,800 (Offer A1) + $10,000 (Offer A4) = $27,800  <br/>$27,800/$48,000 (Offer A Total) = 58%|  Domestic.  |
+| B |                      $9,000 (Offer B4)/$45,500 (Offer B Total) = 19.8%                      |  Foreign.   |
+| C |                     $10,200 (Offer C2)/$38,800 (Offer C Total) = 26.3%                      |  Foreign.   |
+
+*STEP 2:* Determine which offer, domestic or foreign, is the low offer. If the low offer is a foreign offer, apply the evaluation factor (see 25.503(d)(2)). The low offer (Offer C) is a foreign offer. Therefore, apply the factor to the low offer. Addition of the 20 percent factor (use 30 percent if Offer A is a small business) to Offer C yields an evaluated price of $46,560 ($38,800 + 20 percent). Offer C remains the low offer.
+
+*STEP 3:* Determine if there is a foreign offer that could be treated as a domestic offer (see 25.106(b)(2) and 25.503(d)(2)).
+
+|   |             Amount of domestic content  <br/>(percent)              |       Determination       |
+|---|---------------------------------------------------------------------|---------------------------|
+| A |                                 N/A                                 |           N/A.            |
+| B |   $9,000 (Offer B4)/$45,500 (Offer B Total) $ = 19.8% is domestic   |Can be treated as domestic.|
+|   |                                 AND                                 |                           |
+|   |$16,000 (Offer B1) + $8,500 (Offer B2) + $12,000 (Offer B3) = $36,500|                           |
+|   | $36,500/$45,500 (Offer B Total) = 80.2% can be treated as domestic  |                           |
+|   |   19.8% + 80.2% = 100% is domestic or can be treated as domestic    |                           |
+| C |   $10,200 (Offer C2)/$38,800 (Offer C Total) = 26.3% is domestic    |         Foreign.          |
+
+*STEP 4:* If there is a foreign offer that could be treated as a domestic offer, compare the evaluated price of the low offer to the price of the offer treated as domestic (*see* 25.503(d)(3)). Offer B can be treated as a domestic offer ($45,500). The evaluated price of the low offer (Offer C) is $46,560. Award on Offer B.
+
+[64 FR 72419, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000; 69 FR 77875, Dec. 28, 2004; 79 FR 24209, Apr. 29, 2014; 86 FR 6188, Jan. 19, 2021; 87 FR 12793, Mar. 7, 2022]

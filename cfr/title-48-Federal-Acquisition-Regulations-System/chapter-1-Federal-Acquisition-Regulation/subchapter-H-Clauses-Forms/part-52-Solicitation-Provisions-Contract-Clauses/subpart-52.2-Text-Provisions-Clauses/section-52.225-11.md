@@ -1,10 +1,8 @@
 ##### 52.225-11 Buy American - Construction Materials Under Trade Agreements. #####
 
-Link to an amendment published at 87 FR 12797, Mar. 7, 2022.
-
 As prescribed in 25.1102(c), insert the following clause:
 
-Buy American - Construction Materials Under Trade Agreements (NOV 2021)
+Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -34,6 +32,10 @@ Buy American - Construction Materials Under Trade Agreements (NOV 2021)
 
 (2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
 
+*Critical component* means a component that is mined, produced, or manufactured in the United States and deemed critical to the U.S. supply chain. The list of critical components is at FAR 25.105.
+
+*Critical item* means a domestic construction material or domestic end product that is deemed critical to U.S. supply chain resiliency. The list of critical items is at FAR 25.105.
+
 *Designated country* means any of the following countries:
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
@@ -54,7 +56,7 @@ Buy American - Construction Materials Under Trade Agreements (NOV 2021)
 
 (ii) A construction material manufactured in the United States, if -
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -100,7 +102,19 @@ Buy American - Construction Materials Under Trade Agreements (NOV 2021)
 
 (4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that -
 
-(i) The cost of domestic construction material would be unreasonable. The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent;
+(i) The cost of domestic construction material would be unreasonable.
+
+(A) *For domestic construction material that is not a critical item or does not contain critical components.* (*1*) The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent;
+
+(*2*) For construction material that is not a COTS item and does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(A)(*1*) of this clause.
+
+(*3*) The procedures in paragraph (b)(4)(i)(A)(*2*) of this clause will no longer apply as of January 1, 2030.
+
+(B) *For domestic construction material that is a critical item or contains critical components.* (*1*) The cost of a particular domestic construction material that is a critical item or contains critical components, subject to the requirements of the Buy American statute, is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent plus the additional preference factor identified for the critical item or construction material containing critical components listed at FAR 25.105.
+
+(*2*) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both, if the cost of a particular domestic construction material is determined to be unreasonable or there is no domestic offer received, and the low offer is for foreign construction material that does not exceed 55 percent domestic content, the Contracting Officer will treat the lowest offer of foreign construction material that is manufactured in the United States and exceeds 55 percent domestic content as a domestic offer, and determine whether the cost of that offer is unreasonable by applying the evaluation factor listed in paragraph (b)(4)(i)(B)(*1*) of this clause.
+
+(*3*) The procedures in paragraph (b)(4)(i)(B)(*2*) of this clause will no longer apply as of January 1, 2030.
 
 (ii) The application of the restriction of the Buy American statute to a particular construction material would be impracticable or inconsistent with the public interest; or
 
@@ -166,5 +180,9 @@ Foreign and Domestic Construction Materials Price Comparison
 (b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, NAFTA, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
 
 (2) The Contractor shall use only domestic or designated country construction material other than Bahrainian, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
+
+*Alternate II* (OCT 2022). As prescribed in 25.1102(c)(4) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic construction material* in paragraph (a):
+
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage.*]
 
 [64 FR 72438, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 52.225-11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

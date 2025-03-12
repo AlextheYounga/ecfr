@@ -1,10 +1,10 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 12795, Mar. 7, 2022.Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
+Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58236, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (MAY 2022)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (OCT 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -150,15 +150,19 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
 
-\_\_ (48) 52.225-1, Buy American - Supplies (NOV 2021)) (41 U.S.C. chapter 83).
+\_\_ (48)(i) 52.225-1, Buy American - Supplies (OCT 2022)) (41 U.S.C. chapter 83).
 
-\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (ii) Alternate I (OCT 2022) of 52.225-1.
+
+\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (OCT 2022) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
 \_\_ (ii) Alternate I (JAN 2021) of 52.225-3.
 
 \_\_ (iii) Alternate II (JAN 2021) of 52.225-3.
 
 \_\_ (iv) Alternate III (JAN 2021) of 52.225-3.
+
+\_\_ (v) Alternate IV (OCT 2022) of 52.225-3.
 
 \_\_ (50) 52.225-5, Trade Agreements (OCT 2019) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
