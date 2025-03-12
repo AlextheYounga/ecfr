@@ -1,5 +1,7 @@
 ##### § 530.14 Implementation. #####
 
+Link to an amendment published at 86 FR 21662, Apr. 23, 2021.
+
 (a) *Generally.* Performance under an original service contract may not begin before the day it is effective and filed with the Commission. Performance under a service contract amendment may not begin until the day it is effective, provided that the amendment is filed with the Commission no later than thirty (30) calendar days after the effective date.
 
 (b) *Prohibition or suspension.* When the filing parties receive notice that an initial or amended service contract has been prohibited under section 9(d) (46 U.S.C. 40704) or suspended under section 11 of the Act (46 U.S.C. 41301-41302, 41305-41307(a)):

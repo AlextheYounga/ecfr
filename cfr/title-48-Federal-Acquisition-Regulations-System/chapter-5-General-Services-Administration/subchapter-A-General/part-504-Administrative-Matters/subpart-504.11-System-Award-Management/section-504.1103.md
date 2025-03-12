@@ -1,5 +1,7 @@
 ##### 504.1103 Procedures. #####
 
+Link to an amendment published at 86 FR 21665, Apr. 23, 2021.
+
 In addition to the requirements found in FAR 4.1103, prior to awarding a contractual instrument the contracting officer must -
 
 (a) Verify that the prospective contractor's legal business name, Doing-Business-As (DBA) name (if any), physical street address, andunique entity identifier, as found in the System for Award Management (SAM), match the information that will be included in the contract, order, or agreement resulting from the vendor's quote or proposal. Correct any mismatches by having the vendor amend the information in the SAM and/or the quote or proposal.

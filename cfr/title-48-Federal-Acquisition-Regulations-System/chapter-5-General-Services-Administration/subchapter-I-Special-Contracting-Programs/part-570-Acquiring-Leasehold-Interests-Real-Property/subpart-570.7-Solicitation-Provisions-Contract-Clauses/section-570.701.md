@@ -1,5 +1,7 @@
 ##### 570.701 FAR provisions and clauses. #####
 
+Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
+
 Include provisions or clauses substantially the same as the FAR provisions and clauses listed below.
 
 |                                                                                                                                                                                  If . . .                                                                                                                                                                                  |                                                                               Then include . . .                                                                               |

@@ -1,5 +1,7 @@
 ##### 509.406-3 Procedures. #####
 
+Link to an amendment published at 86 FR 21666, Apr. 23, 2021.
+
 (a) *Investigation and referral.* (1) Refer to the Suspension and Debarment Official matters involving serious contract improprieties or performance deficiencies. Performance deficiencies that continue over a period of time or apply to more than one contract may warrant debarment consideration.
 
 (2) Refer possible criminal or fraudulent activities to the Office of the Inspector General (OIG). See 5 CFR 6701.107, Reporting Waste, Fraud, Abuse, and Corruption. If, after investigation, the OIG believes a cause for debarment exists, it will refer the matter to the Suspension and Debarment Official for consideration of debarment action.

@@ -1689,7 +1689,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |   Cape Girardeau   |                      12, 22                       |
 |      Columbia      |                      17, 27                       |
 |      Hannibal      |                         7                         |
-|   Jefferson City   |                      12, 20                       |
+|   Jefferson City   |                      20, 29                       |
 |       Joplin       |                   \*25, 43, 46                    |
 |    Kansas City     |         \*18, 24, 29, 30, 31, 34, 42, 47          |
 |     Kirksville     |                        33                         |
@@ -1985,7 +1985,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Bryan        |                      28, 50                       |
 |  College Station   |                       \*12                        |
 |       Conroe       |                      32, 42                       |
-|   Corpus Christi   |              8, 10, 13, \*23, 27, 38              |
+|   Corpus Christi   |              8, 10, \*23, 26, 27, 38              |
 |       Dallas       |            8, \*14, 32, 35, 36, 40, 45            |
 |      Decatur       |                        30                         |
 |      Del Rio       |                        28                         |

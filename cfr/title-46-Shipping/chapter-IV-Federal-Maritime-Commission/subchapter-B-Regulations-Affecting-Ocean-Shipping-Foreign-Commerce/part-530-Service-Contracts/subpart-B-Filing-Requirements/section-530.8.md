@@ -1,5 +1,7 @@
 ##### § 530.8 Service Contracts. #####
 
+Link to an amendment published at 86 FR 21661, Apr. 23, 2021.
+
 (a) Authorized persons shall file with BTA, in the manner set forth in appendix A of this part, a true and complete copy of:
 
 (1) Every service contract before any cargo moves pursuant to that service contract; and

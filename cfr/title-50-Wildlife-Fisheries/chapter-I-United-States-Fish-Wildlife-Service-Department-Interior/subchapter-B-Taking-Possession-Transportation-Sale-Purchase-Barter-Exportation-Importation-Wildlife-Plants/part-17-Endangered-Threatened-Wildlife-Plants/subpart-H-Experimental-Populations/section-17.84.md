@@ -1,7 +1,5 @@
 ##### § 17.84 Special rules - vertebrates. #####
 
-Link to an amendment published at 86 FR 15621, Mar. 24, 2021.
-
 (a) [Reserved]
 
 (b) Colorado squawfish (*Ptychocheilus lucius*) and woundfin (*Plagopterus* argentissimus). (1) The Colorado squawfish and woundfin populations identified in paragraph (b)(6) of this section, are experimental, nonessential populations.
@@ -330,7 +328,67 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (11) The Service will reevaluate the status of the experimental populations periodically to determine future management needs. This review will take into account the reproductive success and movement patterns of the individuals released within the experimental population areas.
 
-(i) [Reserved]
+(i) California condor (*Gymnogyps californianus*). (1) *Where is the California condor designated as a nonessential experimental population (NEP)?* The NEP area for the California condor is within the species' historical range in northern California, northwestern Nevada, and Oregon.
+
+(i) The western boundary of the NEP is the Submerged Lands Act boundary line along the Pacific coast. The southern boundary of the NEP is formed by: An east-west line from California's Submerged Lands Act boundary to Hare Creek; Hare Creek from the Pacific Ocean to its junction with California State Route 1; north to the junction of State Route 1 and State Route 20; east along California State Route 20 to where it meets Interstate 80; and Interstate 80 from its intersection with California State Route 20 to U.S. Route 95 in Nevada. The eastern boundary of the NEP is U.S. Route 95 in Nevada to the State boundary of Oregon and then east and north along Oregon's southern and eastern boundaries, respectively. The northern boundary of the NEP is the State boundary between Oregon and Washington. All highway boundaries are inclusive of the entire highway right of way.
+
+(ii) Map follows:
+
+![](/graphics/er24mr21.003.gif)
+
+(iii) We are designating the experimental population area to accommodate the potential future movements of a wild population of California condors. The released population is expected to remain in the experimental area for the foreseeable future (approximately 20 years) due to the geographic extent of the designation.
+
+(iv) We do not intend to change the status of this nonessential population unless:
+
+(A) The California condor is recovered and subsequently removed from the list in § 17.11(h) in accordance with the Act; or
+
+(B) The reintroduction is not successful and the regulations in this paragraph (i) are revoked.
+
+(v) Legal actions or other circumstances may compel a change in this nonessential experimental population's legal status to essential, threatened, or endangered, or compel the Service to designate critical habitat for the California condors within the experimental population area defined in this rule. If this happens, all California condors will be removed from the area and this experimental population rule will be withdrawn, unless the participating parties in the reintroduction effort agree that the condors should remain in the wild. Changes in the legal status and/or removal of this population of California condors will be made in compliance with any applicable Federal rulemaking and other procedures.
+
+(vi) We will not designate critical habitat for this NEP, as provided by 16 U.S.C. 1539(j)(2)(C)(ii).
+
+(2) *What take of the California condor is allowed in the NEP area?* (i) Throughout the California condor NEP, you will not be in violation of the Act if you unavoidably and unintentionally take a California condor (except as noted in paragraph (i)(3)(ii) of this section), provided such take is non-negligent, incidental to a lawful activity (*i.e.,* not done on purpose), and you report the take as soon as possible as provided under paragraph (i)(2)(iii) of this section. The phrase “unavoidably and unintentionally” means take that occurs despite the exertion of reasonable care to avoid take. Examples of activities that will not violate the take prohibitions of this section include, but are not limited to: Legal hunting of species other than condors; recreational shooting; ranching; farming; existing authorized uses of private and public lands; driving; recreational activities; and administrative and emergency functions carried out by local, State, or Federal government agencies.
+
+(ii) Any person with a valid permit issued by the Service under § 17.32 may take California condors in the wild in the experimental population area, pursuant to the terms of the permit. Additionally, any employee or agent of the Service, National Park Service, Yurok Tribe Natural Resource Division, California Department of Parks and Recreation, California Department of Fish and Wildlife, Nevada Department of Wildlife, or Oregon Department of Fish and Wildlife who is designated and trained for such purposes, when acting in the course of official duties, may take a California condor within the NEP area if such action is necessary:
+
+(A) For scientific purposes;
+
+(B) To relocate or haze California condors within the experimental population area to improve California condor survival or recovery;
+
+(C) To relocate California condors that have moved outside the experimental population area;
+
+(D) To transport California condors to and from veterinary facilities or captive-breeding facilities;
+
+(E) To address conflicts with ongoing or proposed activities in an attempt to improve California condor survival;
+
+(F) To aid a sick, injured, or orphaned California condor;
+
+(G) To salvage a dead specimen that may be useful for scientific study;
+
+(H) To dispose of a dead specimen; or
+
+(I) To aid in law enforcement investigations involving the California condor.
+
+(iii) Any take pursuant to paragraphs (i)(2)(i), (i)(2)(ii)(F), (i)(2)(ii)(G), or (i)(2)(ii)(H) of this section must be reported as soon as possible to the California Condor Field Coordinator, California Condor Recovery Office, 2493 Portola Road, Suite A, Ventura, California 93003, (805/644-5185), who will determine the disposition of any live or dead specimens.
+
+(3) *What take of the California condor is not allowed in the NEP area?* For the purposes of this rule, an occupied California condor nest is defined as a nest that is attended by a breeding pair of condors, occupied by a condor egg, or occupied or attended by a condor less than 1 year of age.
+
+(i) Except as expressly allowed in paragraph (i)(2) of this section, all of the provisions of § 17.31(a) and (b) apply to the California condor in areas identified in paragraph (i)(1) of this section, and any manner of take not described under paragraph (i)(2) of this section is prohibited in the NEP.
+
+(ii) Habitat alteration (*e.g.,* removing trees, erecting structures, altering the nest structure or perches near the nest) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies.
+
+(iii) Significant visual or noise disturbance (*e.g.,* tree felling, chainsaws, helicopter overflights, concrete cutters, fireworks, explosives) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies. Activities such as ranching and use of existing roads and trails would not be considered a significant visual or noise disturbance.
+
+(iv) You must not possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any California condor or part thereof from the experimental population taken in violation of this paragraph (i) or in violation of applicable tribal or State laws or regulations or the Act.
+
+(v) It is unlawful for you to attempt to commit, solicit another to commit, or cause to be committed, any take of the California condor, except as expressly allowed in paragraph (i)(2) of this section.
+
+(4) *How will the effectiveness of this reintroduction be monitored?* The status of the reintroduction project will receive an informal review on an annual basis, and we will evaluate the reintroduction program to determine whether to continue or terminate reintroductions every 5 years as part of our 5-year status review for the species.
+
+(i) This evaluation will include, but will not be limited to: A review of management issues; California condor movements and post-release behavior; assessment of food resources and dependence of California condors on supplemental food; fecundity of the population; causes and rates of mortality; project costs; public acceptance; and progress toward establishing a self-sustaining population.
+
+(ii) If a formal evaluation indicates the project is experiencing a 40 percent or greater mortality rate over multiple years or released California condors are not finding food on their own, serious consideration will be given to terminating the project.
 
 (j) California condor (*Gymnogyps californianus*). (1) The California condor (*Gymnogyps californianus*) population identified in paragraph (j)(8) of this section is a nonessential experimental population, and the release of such population will further the conservation of the species.
 

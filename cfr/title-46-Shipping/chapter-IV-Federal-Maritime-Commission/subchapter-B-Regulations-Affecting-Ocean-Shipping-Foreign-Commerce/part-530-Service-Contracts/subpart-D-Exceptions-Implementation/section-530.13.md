@@ -1,5 +1,7 @@
 ##### § 530.13 Exceptions and exemptions. #####
 
+Link to an amendment published at 86 FR 21662, Apr. 23, 2021.
+
 (a) *Statutory exceptions.* Service contracts for the movement of the following, as defined in section 3 of the Act (46 U.S.C. 40102), § 530.3 or § 520.2 of this chapter, are excepted by section 8(c) of the Act (46 U.S.C. 40502) from the requirements of that section, and are therefore not subject to the requirements of this part:
 
 (1) Bulk cargo;
