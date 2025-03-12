@@ -8,7 +8,7 @@
 
 (3) Sausage.
 
-(4) Meat food products\*.
+(4) Meat food products\*/\>.
 
 \* “Meat food products” means processed foods containing meat in substantial proportion and other listed ingredients including seasoning, e.g., frankfurters, coldcuts. Whole or prefabricated meats, e.g., pork chops, hamburger, are considered meats, not meat food products.
 

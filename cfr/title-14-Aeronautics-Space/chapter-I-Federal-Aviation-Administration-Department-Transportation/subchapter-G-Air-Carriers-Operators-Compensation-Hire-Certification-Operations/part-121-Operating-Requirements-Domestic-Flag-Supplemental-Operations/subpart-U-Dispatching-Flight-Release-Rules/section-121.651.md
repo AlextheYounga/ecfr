@@ -1,20 +1,18 @@
 ##### § 121.651 Takeoff and landing weather minimums: IFR: All certificate holders. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.
-
-(a) Notwithstanding any clearance from ATC, no pilot may begin a takeoff in an airplane under IFR when the weather conditions reported by the U.S. National Weather Service, a source approved by that Service, or a source approved by the Administrator, are less than those specified in -
+(a) Notwithstanding any clearance from ATC, no pilot may begin a takeoff in an airplane under IFR when the weather conditions reported by the U.S. National Weather Service, a source approved by that Service, or a source approved by the Administrator, are less than those specified in—
 
 (1) The certificate holder's operations specifications; or
 
 (2) Parts 91 and 97 of this chapter, if the certificate holder's operations specifications do not specify takeoff minimums for the airport.
 
-(b) Except as provided in paragraphs (d) and (e) of this section, no pilot may continue an approach past the final approach fix, or where a final approach fix is not used, begin the final approach segment of an instrument approach procedure -
+(b) Except as provided in paragraphs (d) and (e) of this section, no pilot may continue an approach past the final approach fix, or where a final approach fix is not used, begin the final approach segment of an instrument approach procedure—
 
 (1) At any airport, unless the U.S. National Weather Service, a source approved by that Service, or a source approved by the Administrator, issues a weather report for that airport; and
 
 (2) At airports within the United States and its territories or at U.S. military airports, unless the latest weather report for that airport issued by the U.S. National Weather Service, a source approved by that Service, or a source approved by the Administrator, reports the visibility to be equal to or more than the visibility minimums prescribed for that procedure. For the purpose of this section, the term “U.S. military airports” means airports in foreign countries where flight operations are under the control of U.S. military authority.
 
-(c) A pilot who has begun the final approach segment of an instrument approach procedure in accordance with paragraph (b) of this section, and after that receives a later weather report indicating below-minimum conditions, may continue the approach to DA/DH or MDA. Upon reaching DA/DH or at MDA, and at any time before the missed approach point, the pilot may continue the approach below DA/DH or MDA if either the requirements of § 91.175(l) or § 91.176 of this chapter, or the following requirements are met:
+(c) A pilot who has begun the final approach segment of an instrument approach procedure in accordance with paragraph (b) of this section, and after that receives a later weather report indicating below-minimum conditions, may continue the approach to DA/DH or MDA. Upon reaching DA/DH or at MDA, and at any time before the missed approach point, the pilot may continue the approach below DA/DH or MDA if either the requirements of § 91.176 of this chapter, or the following requirements are met:
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and where that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -44,7 +42,7 @@ Link to an amendment published at 81 FR 90175, Dec. 13, 2016.
 
 (4) When the aircraft is on a straight-in nonprecision approach procedure which incorporates a visual descent point, the aircraft has reached the visual descent point, except where the aircraft is not equipped for or capable of establishing that point, or a descent to the runway cannot be made using normal procedures or rates of descent if descent is delayed until reaching that point.
 
-(d) A pilot may begin the final approach segment of an instrument approach procedure other than a Category II or Category III procedure at an airport when the visibility is less than the visibility minimums prescribed for that procedure if the airport is served by an operative ILS and an operative PAR, and both are used by the pilot. However, no pilot may continue an approach below the authorized DA/DH unless the requirements of § 91.175(l) or § 91.176 of this chapter, or the following requirements are met:
+(d) A pilot may begin the final approach segment of an instrument approach procedure other than a Category II or Category III procedure at an airport when the visibility is less than the visibility minimums prescribed for that procedure if the airport is served by an operative ILS and an operative PAR, and both are used by the pilot. However, no pilot may continue an approach below the authorized DA/DH unless the requirements of § 91.176 of this chapter, or the following requirements are met:
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers and where such a descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 

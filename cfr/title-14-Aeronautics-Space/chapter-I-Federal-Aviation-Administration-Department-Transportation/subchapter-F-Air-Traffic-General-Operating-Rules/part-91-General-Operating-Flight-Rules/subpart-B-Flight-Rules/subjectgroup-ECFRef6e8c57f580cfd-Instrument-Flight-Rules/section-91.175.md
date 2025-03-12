@@ -1,7 +1,5 @@
 ##### § 91.175 Takeoff and landing under IFR. #####
 
-Link to an amendment published at 81 FR 90172, Dec. 13, 2016.Link to an amendment published at 83 FR 10568, Mar. 12, 2018.
-
 (a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
 
 (b) *Authorized DA/DH or MDA.* For the purpose of this section, when the approach procedure being used provides for and requires the use of a DA/DH or MDA, the authorized DA/DH or MDA is the highest of the following:
@@ -12,7 +10,7 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.Link to an amendmen
 
 (3) The DA/DH or MDA appropriate for the aircraft equipment available and used during the approach.
 
-(c) *Operation below DA/DH or MDA.* Except as provided in paragraph (l) of this section or § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
+(c) *Operation below DA/DH or MDA.* Except as provided in § 91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless -
 
 (1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under part 121 or part 135 unless that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -42,15 +40,13 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.Link to an amendmen
 
 (d) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when -
 
-(1) For operations conducted under paragraph (l) of this section, the requirements of (l)(4) of this section are not met; or
+(1) For operations conducted under § 91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
 
-(2) For operations conducted under § 91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
-
-(3) For all other operations under this part and parts 121, 125, 129, and 135, the flight visibility is less than the visibility prescribed in the standard instrument approach procedure being used.
+(2) For all other operations under this part and parts 121, 125, 129, and 135, the flight visibility is less than the visibility prescribed in the standard instrument approach procedure being used.
 
 (e) *Missed approach procedures.* Each pilot operating an aircraft, except a military aircraft of the United States, shall immediately execute an appropriate missed approach procedure when either of the following conditions exist:
 
-(1) Whenever operating an aircraft pursuant to paragraph (c) or (l) of this section or § 91.176 of this chapter, and the requirements of that paragraph or section are not met at either of the following times:
+(1) Whenever operating an aircraft pursuant to paragraph (c) of this section or § 91.176 of this part, and the requirements of that paragraph or section are not met at either of the following times:
 
 (i) When the aircraft is being operated below MDA; or
 
@@ -97,71 +93,5 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.Link to an amendmen
 (j) *Limitation on procedure turns.* In the case of a radar vector to a final approach course or fix, a timed approach from a holding fix, or an approach for which the procedure specifies “No PT,” no pilot may make a procedure turn unless cleared to do so by ATC.
 
 (k) *ILS components.* The basic components of an ILS are the localizer, glide slope, and outer marker, and, when installed for use with Category II or Category III instrument approach procedures, an inner marker. The following means may be used to substitute for the outer marker: Compass locator; precision approach radar (PAR) or airport surveillance radar (ASR); DME, VOR, or nondirectional beacon fixes authorized in the standard instrument approach procedure; or a suitable RNAV system in conjunction with a fix identified in the standard instrument approach procedure. Applicability of, and substitution for, the inner marker for a Category II or III approach is determined by the appropriate 14 CFR part 97 approach procedure, letter of authorization, or operations specifications issued to an operator.
-
-(l) *Approach to straight-in landing operations below DH, or MDA using an enhanced flight vision system (EFVS).* For straight-in instrument approach procedures other than Category II or Category III, no pilot operating under this section or §§ 121.651, 125.381, and 135.225 of this chapter may operate an aircraft at any airport below the authorized MDA or continue an approach below the authorized DH and land unless -
-
-(1) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and, for operations conducted under part 121 or part 135 of this chapter, the descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
-
-(2) The pilot determines that the enhanced flight visibility observed by use of a certified enhanced flight vision system is not less than the visibility prescribed in the standard instrument approach procedure being used;
-
-(3) The following visual references for the intended runway are distinctly visible and identifiable to the pilot using the enhanced flight vision system:
-
-(i) The approach light system (if installed); or
-
-(ii) The following visual references in both paragraphs (l)(3)(ii)(A) and (B) of this section:
-
-(A) The runway threshold, identified by at least one of the following:
-
-(*1*) The beginning of the runway landing surface;
-
-(*2*) The threshold lights; or
-
-(*3*) The runway end identifier lights.
-
-(B) The touchdown zone, identified by at least one of the following:
-
-(*1*) The runway touchdown zone landing surface;
-
-(*2*) The touchdown zone lights;
-
-(*3*) The touchdown zone markings; or
-
-(*4*) The runway lights.
-
-(4) At 100 feet above the touchdown zone elevation of the runway of intended landing and below that altitude, the flight visibility must be sufficient for the following to be distinctly visible and identifiable to the pilot without reliance on the enhanced flight vision system to continue to a landing:
-
-(i) The lights or markings of the threshold; or
-
-(ii) The lights or markings of the touchdown zone;
-
-(5) The pilot(s) is qualified to use an EFVS as follows -
-
-(i) For parts 119 and 125 certificate holders, the applicable training, testing and qualification provisions of parts 121, 125, and 135 of this chapter;
-
-(ii) For foreign persons, in accordance with the requirements of the civil aviation authority of the State of the operator; or
-
-(iii) For persons conducting any other operation, in accordance with the applicable currency and proficiency requirements of part 61 of this chapter;
-
-(6) For parts 119 and 125 certificate holders, and part 129 operations specifications holders, their operations specifications authorize use of EFVS; and
-
-(7) The aircraft is equipped with, and the pilot uses, an enhanced flight vision system, the display of which is suitable for maneuvering the aircraft and has either an FAA type design approval or, for a foreign-registered aircraft, the EFVS complies with all of the EFVS requirements of this chapter.
-
-(m) For purposes of this section, “enhanced flight vision system” (EFVS) is an installed airborne system comprised of the following features and characteristics:
-
-(1) An electronic means to provide a display of the forward external scene topography (the natural or manmade features of a place or region especially in a way to show their relative positions and elevation) through the use of imaging sensors, such as a forward-looking infrared, millimeter wave radiometry, millimeter wave radar, and low-light level image intensifying;
-
-(2) The EFVS sensor imagery and aircraft flight symbology (*i.e.,* at least airspeed, vertical speed, aircraft attitude, heading, altitude, command guidance as appropriate for the approach to be flown, path deviation indications, and flight path vector, and flight path angle reference cue) are presented on a head-up display, or an equivalent display, so that they are clearly visible to the pilot flying in his or her normal position and line of vision and looking forward along the flight path, to include:
-
-(i) The displayed EFVS imagery, attitude symbology, flight path vector, and flight path angle reference cue, and other cues, which are referenced to this imagery and external scene topography, must be presented so that they are aligned with and scaled to the external view; and
-
-(ii) The flight path angle reference cue must be displayed with the pitch scale, selectable by the pilot to the desired descent angle for the approach, and suitable for monitoring the vertical flight path of the aircraft on approaches without vertical guidance; and
-
-(iii) The displayed imagery and aircraft flight symbology do not adversely obscure the pilot's outside view or field of view through the cockpit window;
-
-(3) The EFVS includes the display element, sensors, computers and power supplies, indications, and controls. It may receive inputs from an airborne navigation system or flight guidance system; and
-
-(4) The display characteristics and dynamics are suitable for manual control of the aircraft.
-
-(n) Before March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with either the requirements of paragraphs (l) and (m) of this section or with the requirements of § 91.176(b) of this part. Beginning on March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with the requirements of § 91.176(b) of this part. The requirements of paragraphs (l) and (m) of this section will expire on March 13, 2018.
 
 [Doc. No. 18334, 54 FR 34294, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-281, 69 FR 1640, Jan. 9, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-306, 74 FR 20205, May 1, 2009; Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90172, Dec. 13, 2016; Amdt. 91-345B, 83 FR 10568, Mar. 12, 2018]

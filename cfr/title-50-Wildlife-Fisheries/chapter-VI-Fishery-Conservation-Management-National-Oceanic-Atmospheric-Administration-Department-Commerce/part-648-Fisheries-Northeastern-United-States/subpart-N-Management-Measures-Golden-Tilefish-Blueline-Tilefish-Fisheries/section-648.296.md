@@ -1,5 +1,7 @@
 ##### § 648.296 Tilefish recreational possession limits. #####
 
+Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
+
 (a) *Golden tilefish.* Any person fishing from a vessel that is not fishing under a tilefish commercial vessel permit issued pursuant to § 648.4(a)(12), may land up to eight golden tilefish per trip. Anglers fishing onboard a charter/party vessel shall observe the recreational possession limit.
 
 (b) *Blueline tilefish* - (1) *Private recreational vessels.* Any person fishing from a vessel that is not fishing under a tilefish commercial or charter/party vessel permit issued pursuant to § 648.4(a)(12), may land up to three blueline tilefish per trip.

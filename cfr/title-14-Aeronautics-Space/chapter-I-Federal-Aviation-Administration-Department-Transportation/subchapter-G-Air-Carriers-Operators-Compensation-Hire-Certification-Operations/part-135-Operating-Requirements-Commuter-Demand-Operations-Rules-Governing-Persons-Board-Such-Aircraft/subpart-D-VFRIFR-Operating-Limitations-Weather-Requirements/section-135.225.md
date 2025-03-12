@@ -1,14 +1,12 @@
 ##### § 135.225 IFR: Takeoff, approach and landing minimums. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
-
-(a) Except to the extent permitted by paragraphs (b) and (j) of this section, no pilot may begin an instrument approach procedure to an airport unless -
+(a) Except to the extent permitted by paragraphs (b) and (j) of this section, no pilot may begin an instrument approach procedure to an airport unless—
 
 (1) That airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by U.S. National Weather Service, or a source approved by the Administrator; and
 
 (2) The latest weather report issued by that weather reporting facility indicates that weather conditions are at or above the authorized IFR landing minimums for that airport.
 
-(b) A pilot conducting an eligible on-demand operation may begin and conduct an instrument approach procedure to an airport that does not have a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator if -
+(b) A pilot conducting an eligible on-demand operation may begin and conduct an instrument approach procedure to an airport that does not have a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator if—
 
 (1) The alternate airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator; and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (c) Except as provided in paragraph (j) of this section, no pilot may begin the final approach segment of an instrument approach procedure to an airport unless the latest weather reported by the facility described in paragraph (a)(1) of this section indicates that weather conditions are at or above the authorized IFR landing minimums for that procedure.
 
-(d) A pilot who has begun the final approach segment of an instrument approach to an airport under paragraph (c) of this section, and receives a later weather report indicating that conditions have worsened to below the minimum requirements, may continue the approach only if the requirements of § 91.175(l) of this chapter, paragraph (j) of this section, or both of the following conditions are met -
+(d) Except as provided in paragraph (j) of this section, a pilot who has begun the final approach segment of an instrument approach to an airport under paragraph (c) of this section, and receives a later weather report indicating that conditions have worsened to below the minimum requirements, may continue the approach only if the following conditions are met—
 
 (1) The later weather report is received when the aircraft is in one of the following approach phases:
 
@@ -24,7 +22,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (ii) The aircraft is on an ASR or PAR final approach and has been turned over to the final approach controller; or
 
-(iii) The aircraft is on a non-precision final approach and the aircraft -
+(iii) The aircraft is on a non-precision final approach and the aircraft—
 
 (A) Has passed the appropriate facility or final approach fix; or
 
@@ -34,7 +32,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (e) The MDA or DA/DH and visibility landing minimums prescribed in part 97 of this chapter or in the operator's operations specifications are increased by 100 feet and1/2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered airplane who has not served at least 100 hours as pilot in command in that type of airplane.
 
-(f) Each pilot making an IFR takeoff or approach and landing at a military or foreign airport shall comply with applicable instrument approach procedures and weather minimums prescribed by the authority having jurisdiction over that airport. In addition, unless authorized by the certificate holder's operations specifications, no pilot may, at that airport -
+(f) Each pilot making an IFR takeoff or approach and landing at a military or foreign airport shall comply with applicable instrument approach procedures and weather minimums prescribed by the authority having jurisdiction over that airport. In addition, unless authorized by the certificate holder's operations specifications, no pilot may, at that airport—
 
 (1) Take off under IFR when the visibility is less than 1 mile; or
 
@@ -44,7 +42,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (h) Except as provided in paragraph (i) of this section, if takeoff minimums are not prescribed in part 97 of this chapter for the takeoff airport, no pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are less than that prescribed in part 91 of this chapter or in the certificate holder's operations specifications.
 
-(i) At airports where straight-in instrument approach procedures are authorized, a pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are equal to or better than the lowest straight-in landing minimums, unless otherwise restricted, if -
+(i) At airports where straight-in instrument approach procedures are authorized, a pilot may takeoff an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are equal to or better than the lowest straight-in landing minimums, unless otherwise restricted, if—
 
 (1) The wind direction and velocity at the time of takeoff are such that a straight-in instrument approach can be made to the runway served by the instrument approach;
 

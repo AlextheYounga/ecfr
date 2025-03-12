@@ -1,8 +1,6 @@
 ##### § 61.66 Enhanced Flight Vision System Pilot Requirements. #####
 
-Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
-
-(a) *Ground training.* (1) Except as provided under paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation conducted under § 91.176(a) or (b) of this chapter, or serve as a required pilot flightcrew member during an EFVS operation conducted under § 91.176(a) of this chapter, unless that person -
+(a) *Ground training.* (1) Except as provided under paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation conducted under § 91.176(a) or (b) of this chapter, or serve as a required pilot flightcrew member during an EFVS operation conducted under § 91.176(a) of this chapter, unless that person—
 
 (i) Receives and logs ground training under a training program approved by the Administrator; and
 
@@ -26,7 +24,7 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (viii) Interpretation of approach and runway lighting systems and their display characteristics when using an EFVS.
 
-(b) *Flight training.* (1) Except as provided under paragraph (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation under § 91.176(a) or (b) of this chapter unless that person -
+(b) *Flight training.* (1) Except as provided under paragraph (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation under § 91.176(a) or (b) of this chapter unless that person—
 
 (i) Receives and logs flight training for the EFVS operation under a training program approved by the Administrator; and
 
@@ -50,7 +48,7 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (viii) Normal, abnormal, emergency, and crew coordination procedures when using an EFVS.
 
-(c) *Supplementary EFVS training.* A person qualified to conduct an EFVS operation under § 91.176(a) or (b) of this chapter who seeks to conduct an additional EFVS operation for which that person has not received training must -
+(c) *Supplementary EFVS training.* A person qualified to conduct an EFVS operation under § 91.176(a) or (b) of this chapter who seeks to conduct an additional EFVS operation for which that person has not received training must—
 
 (1) Receive and log the ground and flight training required by paragraphs (a) and (b) of this section, under a training program approved by the Administrator, appropriate to the additional EFVS operation to be conducted; and
 
@@ -100,6 +98,4 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (4) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting EFVS operations under § 91.176(b) of this chapter and that person documents that prior to March 13, 2018, that person satisfactorily completed ground and flight training on EFVS operations to 100 feet above the touchdown zone elevation.
 
-(5) The requirements specified in this section do not apply if a person is conducting an EFVS operation to 100 feet above the touchdown zone elevation in accordance with the requirements of § 91.175(l) and (m) of this chapter prior to March 13, 2018.
-
-[Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90170, Dec. 13, 2016]
+[Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90170, Dec. 13, 2016, as amended by Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90172, Dec. 13, 2016]

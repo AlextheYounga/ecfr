@@ -660,7 +660,7 @@ Example.SCO is a U.S. securities clearing organization that provides clearing se
 
 (B) Agree to assume the primary withholding and reporting responsibilities, including the documentation provisions under chapters 3, 4, and 61, and section 3406, the regulations under those provisions, and other provisions of the Internal Revenue Code, for payments made as a qualified derivatives dealer with respect to potential section 871(m) transactions. For this purpose, a qualified derivatives dealer is required to obtain a withholding certificate or other appropriate documentation from each counterparty to whom the qualified derivatives dealer makes a reportable payment (including a dividend equivalent payment within the meaning of § 1.871-15(i)). The qualified derivatives dealer is also required to determine whether any payment it makes with respect to a potential section 871(m) transaction is, in whole or in part, a dividend equivalent;
 
-(C) Agree to remain liable for tax under section 881, if any, on any payment with respect to a potential section 871(m) transaction (including a dividend equivalent payment within the meaning of § 1.871-15(i)) and underlying securities (including dividends) it receives as a qualified derivatives dealer, or in the case of dividend equivalents received in its equity derivatives dealer capacity, the taxes required pursuant to § 1.871-15(q);
+(C) Agree to remain liable for tax under section 881, if any, on any payment with respect to a potential section 871(m) transaction (including a dividend equivalent payment within the meaning of § 1.871-15(i)) and underlying securities as defined in § 1.871-15(a)(15) (including dividends) it receives as a qualified derivatives dealer, or in the case of dividend equivalents received in its equity derivatives dealer capacity, the taxes required pursuant to § 1.871-15(q);
 
 (D) Comply with the compliance review procedures applicable to a qualified intermediary that acts as a qualified derivatives dealer under the qualified intermediary withholding agreement, which will specify the time and manner in which a qualified derivatives dealer must:
 
@@ -700,4 +700,4 @@ Example.SCO is a U.S. securities clearing organization that provides clearing se
 
 (5) *Effective/applicability date.* Paragraphs (e)(5)(ii)(C) and (e)(5)(v)(B)(*4*) of this section apply to payments made on or after on January 19, 2017.
 
-[T.D. 8734, 62 FR 53424, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[T.D. 8734, 62 FR 53424, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

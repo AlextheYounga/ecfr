@@ -1,10 +1,8 @@
 ##### § 9.24 Petition for stay pending review. #####
 
-Link to an amendment published at 83 FR 1548, January 12, 2018.
-
 (a) *Time to file.* (1) Within ten days after the notice of the disciplinary or access denial action has been delivered in accordance with § 9.11 to a person disciplined or denied access, that person may petition the Commission to stay the disciplinary or access denial action pending consideration by the Commission of the notice of appeal and, if granted, the appeal underlying the notice of appeal. The petition for stay must be accompanied by the notice of appeal.
 
-(2) Within ten days after a notice of summary action has been delivered in accordance with § 9.12(b) to a person who is the subject of a summary action authorized by § 8.25 of this chapter, that person may petition the Commission to stay the effectiveness of the summary action pending completion of the exchange proceeding conducted as authorized by § 8.26 of this chapter.
+(2) Within ten days after a notice of summary action has been delivered in accordance with § 9.12(b) to a person who is the subject of a summary action permitted by part 37, appendix B, Core Principle 2, paragraph (a)(14) of this chapter or part 38, appendix B, Core Principle 13, paragraph (a)(7) of this chapter (emergency disciplinary actions), that person may petition the Commission to stay the effectiveness of the summary action pending completion of the exchange proceeding.
 
 (3) The Commission may deny any petition for stay which is not timely filed or which is not otherwise in accord with these rules.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 83 FR 1548, January 12, 2018.
 
 (3) Clearly establishes by affidavit that immediate and irreparable injury, loss or damage will result to the petitioner before the exchange can be heard in opposition.
 
-Any order granting a stay prior to the filing of the exchange's reply will expire by its terms within such time after service of the Commission's ruling on the petition, not to exceed ten days, as the Commission fixes, unless within the time so fixed the order, for good cause shown, is extended for a like period or unless the exchange consents that it may be extended for a longer period. In any case, the exchange may move for dissolution or modification of the stay, and the Commission will proceed to determine such motion as expeditiously as the ends of justice require.[52 FR 25366, July 7, 1987; 52 FR 27286, July 20, 1987]
+Any order granting a stay prior to the filing of the exchange's reply will expire by its terms within such time after service of the Commission's ruling on the petition, not to exceed ten days, as the Commission fixes, unless within the time so fixed the order, for good cause shown, is extended for a like period or unless the exchange consents that it may be extended for a longer period. In any case, the exchange may move for dissolution or modification of the stay, and the Commission will proceed to determine such motion as expeditiously as the ends of justice require.[52 FR 25366, July 7, 1987, as amended at 52 FR 27286, July 20, 1987; 83 FR 1548, Jan. 12, 2018]

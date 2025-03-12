@@ -1,8 +1,6 @@
 ##### § 125.381 Takeoff and landing weather minimums: IFR. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
-
-(a) Regardless of any clearance from ATC, if the reported weather conditions are less than that specified in the certificate holder's operations specifications, no pilot may -
+(a) Regardless of any clearance from ATC, if the reported weather conditions are less than that specified in the certificate holder's operations specifications, no pilot may—
 
 (1) Take off an airplane under IFR; or
 
@@ -10,7 +8,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (b) Except as provided in paragraphs (c) and (d) of this section, no pilot may execute an instrument approach procedure if the latest reported visibility is less than the landing minimums specified in the certificate holder's operations specifications.
 
-(c) A pilot who initiates an instrument approach procedure based on a weather report that indicates that the specified visibility minimums exist and subsequently receives another weather report that indicates that conditions are below the minimum requirements, may continue the approach only if the requirements of § 91.175(l) or § 91.176 of this chapter, or both of the following conditions are met -
+(c) A pilot who initiates an instrument approach procedure based on a weather report that indicates that the specified visibility minimums exist and subsequently receives another weather report that indicates that conditions are below the minimum requirements, may continue the approach only if either the requirements of § 91.176 of this chapter, or the following conditions are met—
 
 (1) The later weather report is received when the airplane is in one of the following approach phases:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 81 FR 90177, Dec. 13, 2016.
 
 (ii) The airplane is on an ASR or PAR final approach and has been turned over to the final approach controller; or
 
-(iii) The airplane is on a nonprecision final approach and the airplane -
+(iii) The airplane is on a nonprecision final approach and the airplane—
 
 (A) Has passed the appropriate facility or final approach fix; or
 

@@ -1,6 +1,6 @@
 ##### 828.306 Insurance under fixed-price contracts. #####
 
-Link to an amendment published at 83 FR 7404, Feb. 21, 2018.
+Link to an amendment published at 83 FR 7404, Feb. 21, 2018.Link to an amendment published at 83 FR 10801, Mar. 13, 2018.
 
 (a) Term contracts, or contracts of a continuing nature, for ambulance, automobile and aircraft service, must contain the provision in 852.228-71, Indemnification and insurance.
 
