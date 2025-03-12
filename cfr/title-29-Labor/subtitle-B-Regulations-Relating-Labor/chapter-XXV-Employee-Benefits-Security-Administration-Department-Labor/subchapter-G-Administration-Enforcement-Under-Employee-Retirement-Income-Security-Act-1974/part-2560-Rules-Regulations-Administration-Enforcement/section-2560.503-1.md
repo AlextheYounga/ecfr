@@ -1,7 +1,5 @@
 ##### § 2560.503-1 Claims procedure. #####
 
-Link to an amendment published at 85 FR 31924, May 27, 2020.Link to an amendment published at 85 FR 39831, July 2, 2020.
-
 (a) *Scope and purpose.* In accordance with the authority of sections 503 and 505 of the Employee Retirement Income Security Act of 1974 (ERISA or the Act), 29 U.S.C. 1133, 1135, this section sets forth minimum requirements for employee benefit plan procedures pertaining to claims for benefits by participants and beneficiaries (hereinafter referred to as claimants). Except as otherwise specifically provided in this section, these requirements apply to every employee benefit plan described in section 4(a) and not exempted under section 4(b) of the Act.
 
 (b) *Obligation to establish and maintain reasonable claims procedures.* Every employee benefit plan shall establish and maintain reasonable procedures governing the filing of benefit claims, notification of benefit determinations, and appeal of adverse benefit determinations (hereinafter collectively referred to as claims procedures). The claims procedures for a plan will be deemed to be reasonable only if -
@@ -88,7 +86,7 @@ Link to an amendment published at 85 FR 31924, May 27, 2020.Link to an amendment
 
 (4) *Calculating time periods.* For purposes of paragraph (f) of this section, the period of time within which a benefit determination is required to be made shall begin at the time a claim is filed in accordance with the reasonable procedures of a plan, without regard to whether all the information necessary to make a benefit determination accompanies the filing. In the event that a period of time is extended as permitted pursuant to paragraph (f)(2)(iii) or (f)(3) of this section due to a claimant's failure to submit information necessary to decide a claim, the period for making the benefit determination shall be tolled from the date on which the notification of the extension is sent to the claimant until the date on which the claimant responds to the request for additional information.
 
-(g) *Manner and content of notification of benefit determination.* (1) Except as provided in paragraph (g)(2) of this section, the plan administrator shall provide a claimant with written or electronic notification of any adverse benefit determination. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv). The notification shall set forth, in a manner calculated to be understood by the claimant -
+(g) *Manner and content of notification of benefit determination.* (1) Except as provided in paragraph (g)(2) of this section, the plan administrator shall provide a claimant with written or electronic notification of any adverse benefit determination. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans). The notification shall set forth, in a manner calculated to be understood by the claimant -
 
 (i) The specific reason or reasons for the adverse determination;
 
@@ -184,7 +182,7 @@ Link to an amendment published at 85 FR 31924, May 27, 2020.Link to an amendment
 
 (5) *Furnishing documents.* In the case of an adverse benefit determination on review, the plan administrator shall provide such access to, and copies of, documents, records, and other information described in paragraphs (j)(3), (j)(4), and (j)(5) of this section as is appropriate.
 
-(j) *Manner and content of notification of benefit determination on review.* The plan administrator shall provide a claimant with written or electronic notification of a plan's benefit determination on review. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv). In the case of an adverse benefit determination, the notification shall set forth, in a manner calculated to be understood by the claimant -
+(j) *Manner and content of notification of benefit determination on review.* The plan administrator shall provide a claimant with written or electronic notification of a plan's benefit determination on review. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans).In the case of an adverse benefit determination, the notification shall set forth, in a manner calculated to be understood by the claimant -
 
 (1) The specific reason or reasons for the adverse determination;
 
@@ -298,4 +296,4 @@ Link to an amendment published at 85 FR 31924, May 27, 2020.Link to an amendment
 
 (ii) The claims procedures of a plan providing disability benefits will not, with respect to claims for such benefits, be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless the claims procedures comply with the requirements of paragraphs (h)(2)(ii) through (iv) and (h)(3)(i) through (v) of this section.
 
-[65 FR 70265, Nov. 21, 2000, as amended at 66 FR 35887, July 9, 2001; 81 FR 92341, Dec. 19, 2016; 82 FR 56566, Nov. 29, 2017]
+[65 FR 70265, Nov. 21, 2000, as amended at 66 FR 35887, July 9, 2001; 81 FR 92341, Dec. 19, 2016; 82 FR 56566, Nov. 29, 2017; 85 FR 31924, May 27, 2020; 85 FR 39831, July 2, 2020]

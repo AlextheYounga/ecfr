@@ -1,7 +1,5 @@
 ##### § 0.241 Authority delegated. #####
 
-Link to an amendment published at 85 FR 31410, May 26, 2020.
-
 (a) The performance of functions and activities described in § 0.31 is delegated to the Chief of the Office of Engineering and Technology: *Provided,* that the following matters shall be referred to the Commission en banc for disposition:
 
 (1) Notice of proposed rulemaking and of inquiry and final orders in rulemaking proceedings, inquiry proceedings and non-editorial orders making changes, except that:
@@ -42,4 +40,6 @@ Link to an amendment published at 85 FR 31410, May 26, 2020.
 
 (j) The Chief of the Office of Engineering and Technology is delegated authority jointly with the Chief of the Wireless Telecommunications Bureau to administer the Spectrum Access System (SAS) and SAS Administrator functions set forth in part 96 of this chapter. The Chief is delegated authority to develop specific methods that will be used to designate SAS Administrators; to designate SAS Administrators; to develop procedures that these SAS Administrators will use to ensure compliance with the requirements for SAS operation; to make determinations regarding the continued acceptability of individual SAS Administrators; and to perform other functions as needed for the administration of the SAS. The Chief is delegated the authority to perform these same functions with regard to the Environmental Sensing Capability.
 
-[51 FR 41106, Nov. 13, 1986, as amended at 57 FR 18088, Apr. 29, 1992; 60 FR 5324, Jan. 27, 1995; 60 FR 32119, June 20, 1995; 61 FR 4918, Feb. 9, 1996; 61 FR 31045, June 19, 1996; 62 FR 48952, Sept. 18, 1997; 64 FR 4995, Feb. 2, 1999; 67 FR 13220, Mar. 21, 2002; 69 FR 70337, Dec. 3, 2004; 73 FR 9463, Feb. 21, 2008; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 80 FR 33438, June 12, 2015; 80 FR 36217, June 23, 2015]
+(k) The Chief of the Office of Engineering and Technology is delegated authority to administer the Automated Frequency Coordination (AFC) system and AFC system operator functions set forth in subpart E of part 15 of this chapter. The Chief is delegated authority to develop specific methods that will be used to designate AFC system operators; to designate AFC system operators; to develop procedures that these AFC system operators will use to ensure compliance with the requirements for AFC system operations; to make determinations regarding the continued acceptability of individual AFC system operators; and to perform other functions as needed for the administration of the AFC systems.
+
+[51 FR 41106, Nov. 13, 1986, as amended at 57 FR 18088, Apr. 29, 1992; 60 FR 5324, Jan. 27, 1995; 60 FR 32119, June 20, 1995; 61 FR 4918, Feb. 9, 1996; 61 FR 31045, June 19, 1996; 62 FR 48952, Sept. 18, 1997; 64 FR 4995, Feb. 2, 1999; 67 FR 13220, Mar. 21, 2002; 69 FR 70337, Dec. 3, 2004; 73 FR 9463, Feb. 21, 2008; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 80 FR 33438, June 12, 2015; 80 FR 36217, June 23, 2015; 85 FR 31410, May 26, 2020]

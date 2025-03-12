@@ -1,6 +1,6 @@
 ##### § 95.2309 WMTS frequency coordination. #####
 
-Link to an amendment published at 84 FR 34799, July 19, 2019.Link to an amendment published at 85 FR 38740, June 26, 2020.
+Link to an amendment published at 84 FR 34799, July 19, 2019.
 
 Operation of WMTS devices is subject to the frequency coordination procedures in this section.
 
@@ -69,6 +69,8 @@ Operation of WMTS devices is subject to the frequency coordination procedures in
 |  Mauna Kea, HI  |19°-49′|155°-28′|
 |   Hancock, NH   |42°-56′|71°-59′ |
 
-(3) The National Science Foundation point of contact for coordination is: Spectrum Manager, Division of Astronomical Sciences, NSF Room 1045, 4201 Wilson Blvd., Arlington, VA 22230; telephone: 703-292-8820.
+(3) The National Science Foundation (NSF) point of contact for coordination is: Division of Astronomical Sciences, Electromagnetic Spectrum Management Unit, 2415 Eisenhower Avenue, Alexandria, VA 22314; Email: *esm@nsf.gov.*
 
 (g) *Specific requirements for WMTS devices in the 1395-1400 and 1427-1432 MHz bands.* Due to the critical nature of communications transmitted under this part, the frequency coordinator in consultation with the National Telecommunications and Information Administration will determine whether there are any Federal Government systems whose operations could affect, or could be affected by, proposed WMTS operations in the 1395-1400 MHz and 1427-1432 MHz bands. The locations of government systems in these bands are specified in footnotes US351 and US352 of § 2.106 of this chapter.
+
+[82 FR 41104, Aug. 29, 2017, as amended at 85 FR 38740, June 26, 2020]

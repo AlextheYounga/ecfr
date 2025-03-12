@@ -1,7 +1,5 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 85 FR 38333, June 26, 2020.
-
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 38333, June 26, 2020.
 
 (3) Violated any provision of section 317(c) or 508(a) of the Communications Act;
 
-(4) Violated any provision of section 227(e) of the Communications Act or of the rules issued by the Commission under section 227(e) of that Act; or
+(4) Violated any provision of sections 227(b) or (e) of the Communications Act or of the rules issued by the Commission under sections 227(b) or (e) of that Act; or
 
 (5) Violated any provision of section 1304, 1343, or 1464 of Title 18, United States Code.
 
@@ -28,13 +26,15 @@ A forfeiture penalty assessed under this section is in addition to any other pen
 
 (4) Any person determined to have violated section 227(e) of the Communications Act or the rules issued by the Commission under section 227(e) of the Communications Act shall be liable to the United States for a forfeiture penalty of not more than $10,000 for each violation or three times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,025,000 for any single act or failure to act. Such penalty shall be in addition to any other forfeiture penalty provided for by the Communications Act.
 
-(5) If a violator who is granted access to the Do-Not-Call registry of public safety answering points discloses or disseminates any registered telephone number without authorization, in violation of section 6507(b)(4) of the Middle Class Tax Relief and Job Creation Act of 2012 or the Commission's implementing rules, the monetary penalty for such unauthorized disclosure or dissemination of a telephone number from the registry shall be not less than $100,000 per incident nor more than $1,000,000 per incident depending upon whether the conduct leading to the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offense.
+(5) Any person determined to have violated section 227(b)(4)(B) of the Communications Act or the rules issued by the Commission under section 227(b)(4)(B) of the Communications Act shall be liable to the United States for a forfeiture penalty determined in accordance with paragraphs (A)-(F) of section 503(b)(2) plus an additional penalty not to exceed $10,000.
 
-(6) If a violator uses automatic dialing equipment to contact a telephone number on the Do-Not-Call registry of public safety answering points, in violation of section 6507(b)(5) of the Middle Class Tax Relief and Job Creation Act of 2012 or the Commission's implementing rules, the monetary penalty for contacting such a telephone number shall be not less than $10,000 per call nor more than $100,000 per call depending on whether the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offense.
+(6) If a violator who is granted access to the Do-Not-Call registry of public safety answering points discloses or disseminates any registered telephone number without authorization, in violation of section 6507(b)(4) of the Middle Class Tax Relief and Job Creation Act of 2012 or the Commission's implementing rules, the monetary penalty for such unauthorized disclosure or dissemination of a telephone number from the registry shall be not less than $100,000 per incident nor more than $1,000,000 per incident depending upon whether the conduct leading to the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offense.
 
-(7) In any case not covered in paragraphs (b)(1) through (b)(6) of this section, the amount of any forfeiture penalty determined under this section shall not exceed $16,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $122,500 for any single act or failure to act described in paragraph (a) of this section.
+(7) If a violator uses automatic dialing equipment to contact a telephone number on the Do-Not-Call registry of public safety answering points, in violation of section 6507(b)(5) of the Middle Class Tax Relief and Job Creation Act of 2012 or the Commission's implementing rules, the monetary penalty for contacting such a telephone number shall be not less than $10,000 per call nor more than $100,000 per call depending on whether the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offense.
 
-(8) *Factors considered in determining the amount of the forfeiture penalty.* In determining the amount of the forfeiture penalty, the Commission or its designee will take into account the nature, circumstances, extent and gravity of the violations and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+(8) In any case not covered in paragraphs (b)(1) through (b)(6) of this section, the amount of any forfeiture penalty determined under this section shall not exceed $16,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $122,500 for any single act or failure to act described in paragraph (a) of this section.
+
+(9) *Factors considered in determining the amount of the forfeiture penalty.* In determining the amount of the forfeiture penalty, the Commission or its designee will take into account the nature, circumstances, extent and gravity of the violations and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
 Note to paragraph (b)(8):
 
@@ -145,7 +145,7 @@ Unlike section 503 of the Act, which establishes maximum forfeiture amounts, oth
 |       Sec. 386(b) Forfeitures (Ships)       |                                                  $2,050 (vessel master).                                                  |
 |             Sec. 634 Cable EEO              |                                                         $908/day.                                                         |
 
-(9) *Inflation adjustments to the maximum forfeiture amount.* (i) Pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Public Law 114-74 (129 Stat. 599-600), which amends the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, Public Law 101-410 (104 Stat. 890; 28 U.S.C. 2461 note), the statutory maximum amount of a forfeiture penalty assessed under this section shall be adjusted annually for inflation by order published no later than January 15 each year. Annual inflation adjustments will be based on the percentage (if any) by which the Consumer Price Index for all Urban Consumers (CPI-U) for October preceding the date of the adjustment exceeds the prior year's CPI-U for October. The Office of Management and Budget (OMB) will issue adjustment rate guidance no later than December 15 each year to adjust for inflation in the CPI-U as of the most recent October.
+(10) *Inflation adjustments to the maximum forfeiture amount.* (i) Pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Public Law 114-74 (129 Stat. 599-600), which amends the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, Public Law 101-410 (104 Stat. 890; 28 U.S.C. 2461 note), the statutory maximum amount of a forfeiture penalty assessed under this section shall be adjusted annually for inflation by order published no later than January 15 each year. Annual inflation adjustments will be based on the percentage (if any) by which the Consumer Price Index for all Urban Consumers (CPI-U) for October preceding the date of the adjustment exceeds the prior year's CPI-U for October. The Office of Management and Budget (OMB) will issue adjustment rate guidance no later than December 15 each year to adjust for inflation in the CPI-U as of the most recent October.
 
 (ii) The application of the annual inflation adjustment required by the foregoing Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 results in the following adjusted statutory maximum forfeitures authorized by the Communications Act:
 
@@ -191,11 +191,13 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (2) In the case of a forfeiture imposed against a carrier under sections 202(c), 203(e), and 220(d), no forfeiture will be imposed if the violation occurred more than 5 years prior to the issuance of a notice of apparent liability.
 
-(3) In the case of a forfeiture imposed under section 227(e), no forfeiture will be imposed if the violation occurred more than 2 years prior to the date on which the appropriate notice is issued.
+(3) In the case of a forfeiture imposed under section 227(e), no forfeiture will be imposed if the violation occurred more than 4 years prior to the date on which the appropriate notice was issued.
 
-(4) In all other cases, no penalty shall be imposed if the violation occurred more than 1 year prior to the date on which the appropriate notice is issued.
+(4) In the case of a forfeiture imposed under section 227(b)(4)(B), no forfeiture will be imposed if the violation occurred more than 4 years prior to the date on which the appropriate notice is issued.
 
-(d) *Preliminary procedure in some cases; citations.* Except for a forfeiture imposed under subsection 227(e)(5) of the Act, no forfeiture penalty shall be imposed upon any person under this section of the Act if such person does not hold a license, permit, certificate, or other authorization issued by the Commission, and if such person is not an applicant for a license, permit, certificate, or other authorization issued by the Commission, unless, prior to the issuance of the appropriate notice, such person:
+(5) In all other cases, no penalty shall be imposed if the violation occurred more than 1 year prior to the date on which the appropriate notice is issued.
+
+(d) *Preliminary procedure in some cases; citations.* Except for a forfeiture imposed under sections 227(b) and 227(e)(5) of the Act, no forfeiture penalty shall be imposed upon any person under this section of the Act if such person does not hold a license, permit, certificate, or other authorization issued by the Commission, and if such person is not an applicant for a license, permit, certificate, or other authorization issued by the Commission, unless, prior to the issuance of the appropriate notice, such person:
 
 (1) Is sent a citation reciting the violation charged;
 
@@ -239,4 +241,4 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (j) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020; 85 FR 38333, June 26, 2020]

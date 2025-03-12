@@ -1,10 +1,8 @@
 ##### § 2520.101-3 Notice of blackout periods under individual account plans. #####
 
-Link to an amendment published at 85 FR 31922, May 27, 2020.
-
 (a) *In general.* In accordance with section 101(i) of the Act, the administrator of an individual account plan, within the meaning of paragraph (d)(2) of this section, shall provide notice of any blackout period, within the meaning of paragraph (d)(1) of this section, to all participants and beneficiaries whose rights under the plan will be temporarily suspended, limited, or restricted by the blackout period (the “affected participants and beneficiaries”) and to issuers of employer securities subject to such blackout period in accordance with this section.
 
-(b) *Notice to participants and beneficiaries* - (1) *Content.* The notice required by paragraph (a) of this section shall be written in a manner calculated to be understood by the average plan participant and shall include -
+(b) *Notice to participants and beneficiaries*—(1) *Content.* The notice required by paragraph (a) of this section shall be written in a manner calculated to be understood by the average plan participant and shall include—
 
 (i) The reasons for the blackout period;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 31922, May 27, 2020.
 
 (2) *Timing.* (i) The notice described in paragraph (a) of this section shall be furnished to all affected participants and beneficiaries at least 30 days, but not more than 60 days, in advance of the last date on which such participants and beneficiaries could exercise the affected rights immediately before the commencement of any blackout period.
 
-(ii) The requirement to give at least 30 days advance notice contained in paragraph (b)(2)(i) of this section shall not apply in any case in which -
+(ii) The requirement to give at least 30 days advance notice contained in paragraph (b)(2)(i) of this section shall not apply in any case in which—
 
 (A) A deferral of the blackout period in order to comply with paragraph (b)(2)(i) of this section would result in a violation of the requirements of section 404(a)(1)(A) or (B) of the Act, and a fiduciary of the plan reasonably so determines in writing;
 
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 31922, May 27, 2020.
 
 (iv) Determinations under paragraph (b)(2)(ii)(A) and (B) of this section must be dated and signed by the fiduciary.
 
-(3) *Form and manner of furnishing notice.* The notice required by paragraph (a) of this section shall be in writing and furnished to affected participants and beneficiaries in any manner consistent with the requirements of § 2520.104b-1 of this chapter, including paragraph (c) of that section relating to the use of electronic media.
+(3) *Form and manner of furnishing notice.* The notice required by paragraph (a) of this section shall be in writing and furnished to affected participants and beneficiaries in any manner consistent with the requirements of § 2520.104b-1 of this chapter, including § 2520.104b-1(c) or § 2520.104b-31 of this chapter relating to the use of electronic media.
 
 (4) *Changes in length of blackout period.* If, following the furnishing of a notice pursuant to this section, there is a change in the length of the blackout period (specified in such notice pursuant to paragraph (b)(1)(iii) of this section), the administrator shall furnish all affected participants and beneficiaries an updated notice explaining the reasons for the change and identifying all material changes in the information contained in the prior notice. Such notice shall be furnished to all affected participants and beneficiaries as soon as reasonably possible, unless such notice in advance of the termination of the blackout period is impracticable.
 
@@ -50,11 +48,11 @@ Link to an amendment published at 85 FR 31922, May 27, 2020.
 
 (3) If the issuer designates the plan administrator as the person for service of notice pursuant to paragraph (c)(2) of this section, the issuer shall be deemed to have been furnished notice on the same date as notice is furnished to affected participants and beneficiaries pursuant to paragraph (b) of this section.
 
-(d) *Definitions.* For purposes of this section -
+(d) *Definitions.* For purposes of this section—
 
-(1) *Blackout period* - (i) *General.* The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, or restricted, if such suspension, limitation, or restriction is for any period of more than three consecutive business days.
+(1) *Blackout period*—(i) *General.* The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, or restricted, if such suspension, limitation, or restriction is for any period of more than three consecutive business days.
 
-(ii) *Exclusions.* The term “blackout period” does not include a suspension, limitation, or restriction -
+(ii) *Exclusions.* The term “blackout period” does not include a suspension, limitation, or restriction—
 
 (A) Which occurs by reason of the application of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934);
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 31922, May 27, 2020.
 
 (5) *Calendar week.* For purposes of paragraph (b)(1)(iii)(B), the term “calendar week” means a seven day period beginning on Sunday and ending on Saturday.
 
-(e) *Model notice* - (1) *General.* The model notice set forth in paragraph (e)(2) of this section is intended to assist plan administrators in discharging their notice obligations under this section. Use of the model notice is not mandatory. However, a notice that uses the statements provided in paragraphs 4. and 5.(A) of the model notice will be deemed to satisfy the notice content requirements of paragraph (b)(1)(iv) and (b)(1)(v)(A), respectively, of this section. With regard to all other information required by paragraph (b)(1) of this section, compliance with the notice content requirements will depend on the facts and circumstances pertaining to the particular blackout period and plan.
+(e) *Model notice*—(1) *General.* The model notice set forth in paragraph (e)(2) of this section is intended to assist plan administrators in discharging their notice obligations under this section. Use of the model notice is not mandatory. However, a notice that uses the statements provided in paragraphs 4. and 5.(A) of the model notice will be deemed to satisfy the notice content requirements of paragraph (b)(1)(iv) and (b)(1)(v)(A), respectively, of this section. With regard to all other information required by paragraph (b)(1) of this section, compliance with the notice content requirements will depend on the facts and circumstances pertaining to the particular blackout period and plan.
 
 (2) *Form and content of model notice.*
 
@@ -92,4 +90,4 @@ Important Notice Concerning Your RightsUnder The [Enter Name of Individual Accou
 
 (f) *Effective date.* This section shall be effective and shall apply to any blackout period commencing on or after January 26, 2003. For the period January 26, 2003 to February 25, 2003, plan administrators shall furnish notice as soon as reasonably possible.
 
-[68 FR 3727, Jan. 24, 2003]
+[68 FR 3727, Jan. 24, 2003, as amended at 85 FR 31922, May 27, 2020]

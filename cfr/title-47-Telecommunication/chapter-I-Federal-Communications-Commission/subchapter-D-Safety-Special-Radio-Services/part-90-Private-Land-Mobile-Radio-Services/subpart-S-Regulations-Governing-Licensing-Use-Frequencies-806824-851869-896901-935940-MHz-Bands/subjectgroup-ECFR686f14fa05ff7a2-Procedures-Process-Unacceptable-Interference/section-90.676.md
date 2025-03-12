@@ -1,7 +1,5 @@
 ##### § 90.676 Transition administrator for reconfiguration of the 806-824/851-869 MHz band in order to separate cellular systems from non-cellular systems. #####
 
-Link to an amendment published at 85 FR 38091, June 25, 2020.
-
 The Transition Administrator will be an independent party with no financial interest in any 800 MHz licensee; and will be selected by a committee representative of 800 MHz licensees. The Transition Administrator will serve both a ministerial role and a function similar to a special master in a judicial proceeding.
 
 (a) The duties of the Transition Administrator will include, but not be limited to:
@@ -24,7 +22,7 @@ The Transition Administrator will be an independent party with no financial inte
 
 (3) Provide quarterly progress reports to the Commission in such detail as the Commission may require and include, with such reports, certifications by Nextel and the relevant licensees that relocation has been completed and that both parties agree on the amount received from the letter of credit proceeds in connection with relocation of the licensees' facilities. The report shall include description of any disputes that have arisen and the manner in which they were resolved. These quarterly reports need not be audited. The Transition Administrator may select the dates for filing the quarterly progress reports;
 
-(4) Provide the Chief, Public Safety and Homeland Security Bureau, with an annual audited statement of relocation funds expended to date, including salaries and expenses of Transition Administrator. The Transition Administrator may select the date for filing the annual audited statement;
+(4) [Reserved]
 
 (5) Facilitate resolution of disputes by mediation; or referral of the parties to alternative dispute resolution services as described in § 90.677(d).
 
@@ -32,4 +30,4 @@ The Transition Administrator will be an independent party with no financial inte
 
 (c) The Transition Administrator may not serve as the repository of funds used in band reconfiguration, excepting such sums as Nextel may pay for the Transition Administrator's services. Moreover, the Transition Administrator will not be certified by the Commission as a frequency coordinator.
 
-[69 FR 67849, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76711, Dec. 28, 2005; 71 FR 69038, Nov. 29, 2006]
+[69 FR 67849, Nov. 22, 2004, as amended at 70 FR 6760, Feb. 8, 2005; 70 FR 76711, Dec. 28, 2005; 71 FR 69038, Nov. 29, 2006; 85 FR 38091, June 25, 2020]

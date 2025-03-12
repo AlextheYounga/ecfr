@@ -1,7 +1,5 @@
 ##### 570.306 Evaluating offers. #####
 
-Link to an amendment published at 85 FR 38337, June 26, 2020.
-
 (a) The contracting officer must evaluate offers solely in accordance with the factors and subfactors stated in the SFO.
 
 (b) Evaluate prices and document the lease file to demonstrate that the proposed contract price is fair and reasonable. The contracting officer must review the elements of the offeror's proposed rent to analyze whether the individual elements are realistic and reflect the offeror's clear understanding of the work to be performed. The contracting officer must discuss any inconsistencies with the offeror. If the offeror refuses to support or make any changes to the rent proposed, consider the risk to the Government prior to making any lease award.
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 38337, June 26, 2020.
 
 (3) Other sources; or
 
-(4) Past performance information collected under FAR 42.15 and available through the Past Performance Information Retrieval System (PPIRS) at *http://www.ppirs.gov.*
+(4) Past performance information collected under FAR 42.15 and available through the Contractor Performance Assessment Reporting System at *https://www.cpars.gov/,* or successor system.
 
 (d) The contracting officer may obtain information to evaluate an offeror's past performance on subcontracting plan goals and small disadvantaged business participation, monetary targets, and notifications under FAR 19.1202-4(b) from the following sources:
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 38337, June 26, 2020.
 
 (f) Also see the requirements in 570.108, 570.109 and 570.111.
 
-[64 FR 37265, July 9, 1999, as amended at 76 FR 30851, May 27, 2011]
+[64 FR 37265, July 9, 1999, as amended at 76 FR 30851, May 27, 2011; 85 FR 38337, June 26, 2020]

@@ -1,7 +1,5 @@
 ##### § 2.100 International regulations in force. #####
 
-Link to an amendment published at 85 FR 38632, June 26, 2020.
+The Radio Regulations of the International Telecommunication Union (Radio Regulations) (Edition of 2012) have been incorporated to the extent practicable in this part, except that the International Table within § 2.106 has been updated to reflect the Radio Regulations (Edition of 2016).
 
-The ITU *Radio Regulations,* Edition of 2012, have been incorporated to the extent practicable in this part.
-
-[82 FR 27185, June 14, 2017]
+[85 FR 38632, June 26, 2020]

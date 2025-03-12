@@ -1,6 +1,6 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
-Link to an amendment published at 85 FR 18142, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.Link to an amendment published at 85 FR 38632, June 26, 2020.
+Link to an amendment published at 85 FR 18142, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.
 
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
@@ -85,7 +85,7 @@ Table 1 - Transmitters, Facilities and Operations Subject to Routine Environment
 
 (2)(i) Mobile and portable transmitting devices that operate in the Commercial Mobile Radio Services pursuant to part 20 of this chapter; the Cellular Radiotelephone Service pursuant to part 22 of this chapter; the Personal Communications Services (PCS) pursuant to part 24 of this chapter; the Satellite Communications Services pursuant to part 25 of this chapter; the Miscellaneous Wireless Communications Services pursuant to part 27 of this chapter; the Upper Microwave Flexible User Service pursuant to part 30 of this chapter; the Maritime Services (ship earth stations only) pursuant to part 80 of this chapter; the Specialized Mobile Radio Service, the 4.9 GHz Band Service, and the 3650 MHz Wireless Broadband Service pursuant to part 90 of this chapter; the Wireless Medical Telemetry Service (WMTS), the Medical Device Radiocommunication Service (MedRadio), and the 76-81 GHz Band Radar Service pursuant to part 95 of this chapter; and the Citizens Broadband Radio Service pursuant to part 96 of this chapter are subject to routine environmental evaluation for RF exposure prior to equipment authorization or use, as specified in §§ 2.1091 and 2.1093 of this chapter.
 
-(ii) Unlicensed PCS, unlicensed NII, and millimeter-wave devices are also subject to routine environmental evaluation for RF exposure prior to equipment authorization or use, as specified in §§ 15.255(g), 15.257(g), 15.319(i), and 15.407(f) of this chapter.
+(ii) Unlicensed PCS, unlicensed NII, and millimeter-wave devices are also subject to routine environmental evaluation for RF exposure prior to equipment authorization or use, as specified in §§ 15.255(f), 15.257(g), 15.319(i), and 15.407(f) of this chapter.
 
 (iii) Portable transmitting equipment for use in the Wireless Medical Telemetry Service (WMTS) is subject to routine environmental evaluation as specified in §§ 2.1093 and 95.2385 of this chapter.
 

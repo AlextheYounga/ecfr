@@ -1,6 +1,6 @@
 ##### § 230.497 Filing of investment company prospectuses - number of copies. #####
 
-Link to an amendment published at 85 FR 33356, June 1, 2020.
+Link to an amendment published at 85 FR 33356, June 1, 2020.Link to a correction published at 85 FR 45092, July 27, 2020.
 
 (a) Five copies of every form of prospectus sent or given to any person prior to the effective date of the registration statement that varies from the form or forms of prospectus included in the registration statement filed pursuant to § 230.402(a) shall be filed as part of the registration statement not later than the date that form of prospectus is first sent or given to any person, except that an investment company advertisement under § 230.482 shall be filed under this paragraph (a) (but not as part of the registration statement) unless filed under paragraph (i) of this section.
 
