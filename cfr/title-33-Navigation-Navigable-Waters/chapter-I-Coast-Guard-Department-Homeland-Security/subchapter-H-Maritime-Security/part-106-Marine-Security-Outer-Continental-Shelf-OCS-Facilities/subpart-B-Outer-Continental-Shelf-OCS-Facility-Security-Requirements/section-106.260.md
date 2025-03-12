@@ -1,7 +1,5 @@
 ##### § 106.260 Security measures for access control. #####
 
-Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
-
 (a) *General.* The OCS facility owner or operator must ensure the implementation of security measures to:
 
 (1) Deter the unauthorized introduction of dangerous substances and devices, including any device intended to damage or destroy persons, vessels, or the OCS facility;
@@ -22,39 +20,11 @@ Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
 
 (4) Procedures for identifying authorized and unauthorized persons at any MARSEC level.
 
-(c) The OCS facility owner or operator must ensure that a TWIC program is implemented as follows:
+(c) The OCS facility owner or operator must establish in the approved Facility Security Plan (FSP) the frequency of application of any access controls, particularly if they are to be applied on a random or occasional basis.
 
-(1) All persons seeking unescorted access to secure areas must present their TWIC for inspection before being allowed unescorted access, in accordance with § 101.514 of this subchapter. Inspection must include:
+(d) *MARSEC Level 1.* The OCS facility owner or operator must ensure the following security measures are implemented at the facility:
 
-(i) A match of the photo on the TWIC to the individual presenting the TWIC;
-
-(ii) Verification that the TWIC has not expired; and
-
-(iii) A visual check of the various security features present on the card to determine whether the TWIC has been tampered with or forged.
-
-(2) If an individual cannot present a TWIC because it has been lost, damaged or stolen, and he or she has previously been granted unescorted access to the facility and is known to have had a valid TWIC, the individual may be given unescorted access to secure areas for a period of no longer than seven consecutive calendar days if:
-
-(i) The individual has reported the TWIC as lost, damaged or stolen to TSA as required in 49 CFR 1572.19(f);
-
-(ii) The individual can present another identification credential that meets the requirements of § 101.515 of this subchapter; and
-
-(iii) There are no other suspicious circumstances associated with the individual's claim of loss or theft.
-
-(3) If an individual cannot present his or her TWIC for any other reason than outlined in paragraph (c)(2) of this section, he or she may not be granted unescorted access to the secure area. The individual must be under escort, as that term is defined in part 101 of this subchapter, at all times when inside of a secure area.
-
-(4) With the exception of persons granted access according to paragraph (c)(2) of this section, all persons granted unescorted access to secure areas of the facility must be able to produce his or her TWIC upon request.
-
-(5) There must be disciplinary measures in place to prevent fraud and abuse.
-
-(6) The facility's TWIC program should be coordinated, when practicable, with identification and TWIC access control measures of vessels or other transportation conveyances that use the facility.
-
-(d) If the OCS facility owner or operator uses a separate identification system, ensure that it is coordinated with identification and TWIC systems in place on vessels conducting operations with the OCS facility.
-
-(e) The OCS facility owner or operator must establish in the approved Facility Security Plan (FSP) the frequency of application of any access controls, particularly if they are to be applied on a random or occasional basis.
-
-(f) *MARSEC Level 1.* The OCS facility owner or operator must ensure the following security measures are implemented at the facility:
-
-(1) Implement TWIC as set out in paragraph (c) of this section.
+(1) Implement TWIC as set out in subpart E of part 101 of this subchapter and in accordance with the OCS facility's assigned Risk Group, as set out in § 106.258.
 
 (2) Screen persons and personal effects going aboard the OCS facility for dangerous substances and devices at the rate specified in the approved FSP;
 
@@ -80,17 +50,19 @@ Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
 
 (11) Respond to the presence of unauthorized persons on board.
 
-(g) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the OCS facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in the approved FSP. These additional security measures may include:
+(e) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the OCS facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in the approved FSP. These additional security measures may include:
 
 (1) Increasing the frequency and detail of screening of people and personal effects embarking onto the OCS facility as specified for MARSEC Level 2 in the approved FSP;
 
 (2) Assigning additional personnel to patrol deck areas during periods of reduced OCS facility operations to deter unauthorized access;
 
-(3) Limiting the number of access points to the OCS facility by closing and securing some access points; or
+(3) Limiting the number of access points to the OCS facility by closing and securing some access points;
 
-(4) Deterring waterside access to the OCS facility, which may include, providing boat patrols.
+(4) Deterring waterside access to the OCS facility, which may include, providing boat patrols; or
 
-(h) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, at MARSEC level 3, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in their approved FSP. The additional security measures may include:
+(5) Implementing additional electronic TWIC inspection requirements, as required by § 106.258, and by subpart E of part 101 of this subchapter.
+
+(f) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, at MARSEC level 3, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in their approved FSP. The additional security measures may include:
 
 (1) Screening all persons and personal effects for dangerous substances and devices;
 
@@ -104,8 +76,10 @@ Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
 
 (6) Suspending the loading of stores or industrial supplies;
 
-(7) Evacuating the OCS facility; or
+(7) Evacuating the OCS facility;
 
-(8) Preparing for a full or partial search of the OCS facility.
+(8) Preparing for a full or partial search of the OCS facility; or
 
-[USCG-2006-24196, 72 FR 3586, Jan. 25, 2007]
+(9) Implementing additional electronic TWIC inspection requirements, as required by § 106.258, and by subpart E of part 101 of this subchapter.
+
+[USCG-2006-24196, 72 FR 3586, Jan. 25, 2007, as amended by USCG-2007-28915, 81 FR 57713, Aug. 23, 2016]

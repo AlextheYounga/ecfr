@@ -1,8 +1,6 @@
 ##### § 105.257 Security measures for newly-hired employees. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
-
-(a) Newly-hired facility employees may be granted entry to secure areas of the facility for up to 30 consecutive calendar days prior to receiving their TWIC provided all of the requirements in paragraph (b) of this section are met, and provided that the new hire is accompanied by an individual with a TWIC while within the secure areas of the facility. If TSA does not act upon a TWIC application within 30 days, the cognizant Coast Guard COTP may further extend access to secure areas for another 30 days. The Coast Guard will determine whether, in particular circumstances, certain practices meet the condition of a new hire being accompanied by another individual with a TWIC. The Coast Guard will issue guidance for use in making these determinations.
+(a) Newly-hired facility employees may be granted entry to secure areas of the facility for up to 30 consecutive calendar days prior to receiving their TWIC provided all of the requirements in paragraph (b) of this section are met, and provided that the new hire is accompanied by an individual with a TWIC while within the secure areas of the facility. If TSA does not act upon a TWIC application within 30 days, the cognizant Coast Guard COTP may further extend access to secure areas for another 30 days. The Coast Guard will determine whether, in particular circumstances, certain practices meet the condition of a new hire being accompanied by another individual with a TWIC.
 
 (b) Newly-hired facility employees may be granted the access provided for in paragraph (a) of this section if:
 
@@ -30,4 +28,4 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (d) The new hire may not begin working at the facility under the provisions of this section until the owner, operator, or FSO receives notification, via Homeport or some other means, the new hire has passed an initial name check.
 
-[USCG-2006-24196, 72 FR 3584, Jan. 25, 2007, as amended by USCG-2013-0397, 78 FR 39173, July 1, 2013; 78 FR 41305, July 10, 2013]
+[USCG-2006-24196, 72 FR 3584, Jan. 25, 2007, as amended by USCG-2013-0397, 78 FR 39173, July 1, 2013; 78 FR 41305, July 10, 2013; USCG-2007-28915, 81 FR 57712, Aug. 23, 2016]

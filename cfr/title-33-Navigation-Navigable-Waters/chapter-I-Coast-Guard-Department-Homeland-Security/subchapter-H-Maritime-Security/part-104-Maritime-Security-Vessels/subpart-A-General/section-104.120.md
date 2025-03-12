@@ -1,8 +1,6 @@
 ##### § 104.120 Compliance documentation. #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
-(a) Each vessel owner or operator subject to this part must ensure, on or before July 1, 2004, that copies of the following documents are carried on board the vessel and are made available to the Coast Guard upon request:
+(a) Each vessel owner or operator subject to this part must ensure that copies of the following documents are carried on board the vessel and are made available to the Coast Guard upon request:
 
 (1) The approved Vessel Security Plan (VSP) and any approved revisions or amendments thereto, and a letter of approval from the Commanding Officer, Marine Safety Center (MSC);
 
@@ -16,4 +14,4 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (c) Each vessel owner or operator who designates a passenger or employee access area (as those terms are defined in §§ 104.106 and 104.107 of this part) on their vessel must keep on board the vessel with their approved VSP a clear, visual representation (such as a vessel schematic) of where those designated areas fall. This need not be submitted to the Coast Guard for approval until incorporated into the VSP at the next VSP submittal (either renewal or amendment), but must be made available to the Coast Guard upon request.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2004-18057, 69 FR 34925, June 23, 2004; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007]
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2004-18057, 69 FR 34925, June 23, 2004; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]

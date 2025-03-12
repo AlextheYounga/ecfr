@@ -1,7 +1,5 @@
 ##### § 104.235 Vessel recordkeeping requirements. #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
 (a) Unless otherwise specified in this section, the Vessel Security Officer must keep records of the activities as set out in paragraph (b) of this section for at least 2 years and make them available to the Coast Guard upon request.
 
 (b) Records required by this section may be kept in electronic format. If kept in an electronic format, they must be protected against unauthorized deletion, destruction, or amendment. The following records must be kept:
@@ -18,10 +16,12 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (6) *Security threats.* Date and time of occurrence, how the threat was communicated, who received or identified the threat, description of threat, to whom it was reported, and description of the response;
 
-(7) *Declaration of Security (DoS).* Manned vessels must keep on board a copy of the last 10 DoSs and a copy of each continuing DoS for at least 90 days after the end of its effective period; and
+(7) *Declaration of Security (DoS).* Manned vessels must keep on board a copy of the last 10 DoSs and a copy of each continuing DoS for at least 90 days after the end of its effective period;
 
-(8) *Annual audit of the VSP.* For each annual audit, a letter certified by the Company Security Officer or the VSO stating the date the audit was completed.
+(8) *Annual audit of the VSP.* For each annual audit, a letter certified by the Company Security Officer or the VSO stating the date the audit was completed; and
 
-(c) Any records required by this part must be protected from unauthorized access or disclosure.
+(9) *Electronic Reader/Physical Access Control System (PACS).* For each individual granted unescorted access to a secure area, the: FASC-N; date and time that unescorted access was granted; and, if captured, the individual's name. Additionally, documentation to demonstrate that the owner or operator has updated the Canceled Card List with the frequency required in § 101.525 of this subchapter.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60514, Oct. 22, 2003]
+(c) Any records required by this part must be protected from unauthorized access or disclosure. TWIC reader records and similar records in a PACS are sensitive security information and must be protected in accordance with 49 CFR part 1520.
+
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60514, Oct. 22, 2003; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]

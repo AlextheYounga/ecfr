@@ -1,7 +1,5 @@
 ##### § 104.105 Applicability. #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
 (a) This part applies to the owner or operator of any:
 
 (1) Mobile Offshore Drilling Unit (MODU), cargo, or passenger vessel subject to the International Convention for Safety of Life at Sea, 1974, (SOLAS), Chapter XI-1 or Chapter XI-2;
@@ -24,7 +22,7 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (10) Tankship subject to 46 CFR chapter I, subchapters D or O; and
 
-(11) Towing vessel greater than eight meters in registered length that is engaged in towing a barge or barges subject to this part, except a towing vessel that -
+(11) Towing vessel greater than eight meters in registered length that is engaged in towing a barge or barges subject to this part, except a towing vessel that—
 
 (i) Temporarily assists another vessel engaged in towing a barge or barges subject to this part;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (c) Foreign Vessels that have on board a valid International Ship Security Certificate that certifies that the verifications required by part A, Section 19.1, of the International Ship and Port Facility Security (ISPS) Code (Incorporated by reference, see § 101.115 of this subchapter) have been completed will be deemed in compliance with this part, except for §§ 104.240, 104.255, 104.292, and 104.295, as appropriate. This includes ensuring that the vessel meets the applicable requirements of SOLAS Chapter XI-2 (Incorporated by reference, see § 101.115 of this subchapter) and the ISPS Code, part A, having taken into account the relevant provisions of the ISPS Code, part B, and that the vessel is provided with an approved security plan.
 
-(d) The TWIC requirements found in this part do not apply to foreign vessels.
+(d) The TWIC requirements found in parts 101 and 104 of this subchapter do not apply to foreign vessels.
 
 (e) The TWIC requirements found in this part do not apply to mariners employed aboard vessels moored at U.S. facilities only when they are working immediately adjacent to their vessels in the conduct of vessel activities.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (2) Transit through the navigable waters of the U.S. that form a part of an international strait.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2004-18057, 69 FR 34925, June 23, 2004; USCG-2004-19963, 70 FR 74669, Dec. 16, 2005; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007]
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2004-18057, 69 FR 34925, June 23, 2004; USCG-2004-19963, 70 FR 74669, Dec. 16, 2005; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]

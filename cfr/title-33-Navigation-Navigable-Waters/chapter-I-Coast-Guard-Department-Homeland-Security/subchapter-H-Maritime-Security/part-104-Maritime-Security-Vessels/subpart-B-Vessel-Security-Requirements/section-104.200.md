@@ -1,7 +1,5 @@
 ##### § 104.200 Owner or operator. #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
 (a) Each vessel owner or operator must ensure that the vessel operates in compliance with the requirements of this part.
 
 (b) For each vessel, the vessel owner or operator must:
@@ -28,7 +26,7 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (11) Ensure that vessel access, including the embarkation of persons and their effects, is controlled;
 
-(12) Ensure that TWIC procedures are implemented as set forth in this part, including;
+(12) Ensure that TWIC procedures are implemented as set forth in this subchapter, including;
 
 (i) Ensuring that only individuals who hold a TWIC and are authorized to be in secure areas are permitted to escort;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (13) Ensure that restricted areas are controlled and TWIC provisions are coordinated, if applied to such restricted areas;
 
-(14) Ensure that protocols consistent with § 104.265(c) of this part, for dealing with individuals requiring access who report a lost, damaged, or stolen TWIC, or who have applied for and not yet received a TWIC, are in place;
+(14) Ensure that protocols consistent with § 101.550(a) of this subchapter, for dealing with individuals requiring access who report a lost, damaged, or stolen TWIC, or who have applied for and not yet received a TWIC, are in place;
 
 (15) Ensure that cargo and vessel stores and bunkers are handled in compliance with this part;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (19) If applicable, ensure that protocols consistent with § 104.267 of this part, for dealing with newly hired employees who have applied for and not yet received a TWIC, are in place.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended by USCG-2003-14749, 68 FR 60513, Oct. 22, 2003; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007; USCG-2013-0397, 78 FR 39173, July 1, 2013]
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended by USCG-2003-14749, 68 FR 60513, Oct. 22, 2003; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007; USCG-2013-0397, 78 FR 39173, July 1, 2013; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]

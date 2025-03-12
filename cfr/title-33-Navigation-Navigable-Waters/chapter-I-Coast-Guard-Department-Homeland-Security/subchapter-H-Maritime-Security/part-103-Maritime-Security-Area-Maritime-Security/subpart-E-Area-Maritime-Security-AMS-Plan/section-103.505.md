@@ -1,7 +1,5 @@
 ##### § 103.505 Elements of the Area Maritime Security (AMS) Plan. #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
 The AMS Plan should address the following elements, as applicable:
 
 (a) Details of both operational and physical measures that are in place in the port at MARSEC Level 1;
@@ -14,7 +12,7 @@ The AMS Plan should address the following elements, as applicable:
 
 (e) Measures to prevent the introduction of dangerous substances and devices into designated restricted areas within the port;
 
-(f) Measures to prevent unauthorized access to designated restricted areas within the port (e.g., TWIC);
+(f) Measures to prevent unauthorized access to designated restricted areas within the port;
 
 (g) Procedures and expected timeframes for responding to security threats or breaches of security, including provisions for maintaining infrastructure and operations in the port;
 
@@ -50,4 +48,4 @@ The AMS Plan should address the following elements, as applicable:
 
 (w) Identification of any facility otherwise subject to part 105 of this subchapter that the COTP has designated as a public access facility within the area, the security measures that must be implemented at the various MARSEC Levels, and who is responsible for implementing those measures.
 
-[USCG-2003-14733, 68 FR 39290, July 1, 2003, as amended at 68 FR 60482, Oct. 22, 2003; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007]
+[USCG-2003-14733, 68 FR 39290, July 1, 2003, as amended at 68 FR 60482, Oct. 22, 2003; USCG-2006-24196, 72 FR 3579, Jan. 25, 2007; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]

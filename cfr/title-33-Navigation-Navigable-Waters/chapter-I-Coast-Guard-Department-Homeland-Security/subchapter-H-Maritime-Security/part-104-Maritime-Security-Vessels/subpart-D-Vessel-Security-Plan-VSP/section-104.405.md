@@ -1,7 +1,5 @@
 ##### § 104.405 Format of the Vessel Security Plan (VSP). #####
 
-Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
-
 (a) A vessel owner or operator must ensure that the VSP consists of the individual sections listed in this paragraph (a). If the VSP does not follow the order as it appears in the list, the vessel owner or operator must ensure that the VSP contains an index identifying the location of each of the following sections:
 
 (1) Security organization of the vessel;
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (9) Security systems and equipment maintenance;
 
-(10) Security measures for access control, including designated passenger access areas and employee access areas;
+(10) Security measures for access control, including the vessel's TWIC Program, designated passenger access areas and employee access areas;
 
 (11) Security measures for restricted areas;
 
@@ -38,6 +36,6 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (17) Vessel Security Assessment (VSA) Report.
 
-(b) The VSP must describe in detail how the requirements of subpart B of this part will be met. VSPs that have been approved by the Coast Guard prior to March 26, 2007, do not need to be amended to describe their TWIC procedures until the next regularly scheduled resubmission of the VSP.
+(b) The VSP must describe in detail how the requirements of subpart B of this part will be met.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended by USCG-2006-24196, 72 FR 3582, Jan. 25, 2007]
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended by USCG-2006-24196, 72 FR 3582, Jan. 25, 2007; USCG-2007-28915, 81 FR 57711, Aug. 23, 2016]

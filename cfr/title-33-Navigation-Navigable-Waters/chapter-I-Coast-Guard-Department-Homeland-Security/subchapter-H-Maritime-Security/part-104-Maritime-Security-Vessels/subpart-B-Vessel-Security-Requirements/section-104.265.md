@@ -1,7 +1,5 @@
 ##### § 104.265 Security measures for access control. #####
 
-Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
-
 (a) *General.* The vessel owner or operator must ensure the implementation of security measures to:
 
 (1) Deter the unauthorized introduction of dangerous substances and devices, including any device intended to damage or destroy persons, vessels, facilities, or ports;
@@ -10,7 +8,7 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (3) Control access to the vessel; and
 
-(4) Prevent an unescorted individual from entering an area of the vessel that is designated as a secure area unless the individual holds a duly issued TWIC and is authorized to be in the area.
+(4) Prevent an unescorted individual from entering an area of the vessel that is designated as a secure area unless the individual holds a duly issued TWIC and is authorized to be in the area. Individuals seeking unescorted access to a secure area on a vessel in Risk Group A must pass electronic TWIC inspection and those seeking unescorted access to a secure area on a vessel not in Risk Group A must pass either electronic TWIC inspection or visual TWIC inspection.
 
 (b) The vessel owner or operator must ensure that the following are specified:
 
@@ -34,39 +32,11 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (4) Procedures for identifying authorized and unauthorized persons at any MARSEC level.
 
-(c) The vessel owner or operator must ensure that a TWIC program is implemented as follows:
+(c) The vessel owner or operator must establish in the approved VSP the frequency of application of any security measures for access control, particularly if these security measures are applied on a random or occasional basis.
 
-(1) All persons seeking unescorted access to secure areas must present their TWIC for inspection before being allowed unescorted access, in accordance with § 101.514 of this subchapter. Inspection must include:
+(d) *MARSEC Level 1.* The vessel owner or operator must ensure security measures in this paragraph are implemented to:
 
-(i) A match of the photo on the TWIC to the individual presenting the TWIC;
-
-(ii) Verification that the TWIC has not expired; and
-
-(iii) A visual check of the various security features present on the card to determine whether the TWIC has been tampered with or forged.
-
-(2) If an individual cannot present a TWIC because it has been lost, damaged or stolen, and he or she has previously been granted unescorted access to the vessel and is known to have had a valid TWIC, the individual may be given unescorted access to secure areas for a period of no longer than seven consecutive calendar days provided that:
-
-(i) The individual has reported the TWIC as lost, damaged, or stolen to TSA as required in 49 CFR 1572.19(f);
-
-(ii) The individual can present another identification credential that meets the requirements of § 101.515 of this subchapter; and
-
-(iii) There are no other suspicious circumstances associated with the individual's claim of loss or theft.
-
-(3) If an individual cannot present his or her TWIC for any other reason than outlined in paragraph (2) of this section, he or she may not be granted unescorted access to the secure area. The individual must be under escort, as that term is defined in part 101 of this subchapter, at all times when inside a secure area.
-
-(4) With the exception of persons granted access according to paragraph (2) of this section, all persons granted unescorted access to secure areas of the vessel must be able to produce his or her TWIC upon request.
-
-(5) There must be disciplinary measures in place to prevent fraud and abuse.
-
-(6) The vessel's TWIC program should be coordinated, when practicable, with identification and TWIC access control measures of facilities or other transportation conveyances that interface with the vessel.
-
-(d) If the vessel owner or operator uses a separate identification system, ensure that it complies and is coordinated with TWIC provisions in this part.
-
-(e) The vessel owner or operator must establish in the approved VSP the frequency of application of any security measures for access control, particularly if these security measures are applied on a random or occasional basis.
-
-(f) *MARSEC Level 1.* The vessel owner or operator must ensure security measures in this paragraph are implemented to:
-
-(1) Employ TWIC as set out in paragraph (c) of this section.
+(1) Implement a TWIC Program as set out in subpart E of part 101 of this subchapter, as applicable, and in accordance with the vessel's assigned Risk Group, as set out in § 104.263;
 
 (2) Screen persons, baggage (including carry-on items), personal effects, and vehicles for dangerous substances and devices at the rate specified in the approved VSP, except for government-owned vehicles on official business when government personnel present identification credentials for entry;
 
@@ -116,7 +86,7 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (17) Respond to the presence of unauthorized persons on board, including repelling unauthorized boarders.
 
-(g) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the vessel owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in the approved VSP. These additional security measures may include:
+(e) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the vessel owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in the approved VSP. These additional security measures may include:
 
 (1) Increasing the frequency and detail of screening of people, personal effects, and vehicles being embarked or loaded onto the vessel as specified for MARSEC Level 2 in the approved VSP, except for government-owned vehicles on official business when government personnel present identification credentials for entry;
 
@@ -128,11 +98,13 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (5) Denying access to visitors who do not have a verified destination;
 
-(6) Deterring waterside access to the vessel, which may include, in liaison with the facility, providing boat patrols; and
+(6) Deterring waterside access to the vessel, which may include, in liaison with the facility, providing boat patrols;
 
-(7) Establishing a restricted area on the shore side of the vessel, in close cooperation with the facility.
+(7) Establishing a restricted area on the shore side of the vessel, in close cooperation with the facility; or
 
-(h) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, the vessel owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in the approved VSP. The additional security measures may include:
+(8) Implementing additional electronic TWIC inspection requirements, as required by § 104.263, and by subpart E of part 101 of this subchapter, if relevant.
+
+(f) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, the vessel owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in the approved VSP. The additional security measures may include:
 
 (1) Screening all persons, baggage, and personal effects for dangerous substances and devices;
 
@@ -156,8 +128,10 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (8) Evacuating the vessel;
 
-(9) Moving the vessel; or
+(9) Moving the vessel;
 
-(10) Preparing for a full or partial search of the vessel.
+(10) Preparing for a full or partial search of the vessel; or
 
-[USCG-2006-24196, 72 FR 3580, Jan. 25, 2007]
+(11) Implementing additional electronic TWIC inspection requirements, as required by § 104.263, and by subchapter E of part 101 of this subchapter, if relevant.
+
+[USCG-2006-24196, 72 FR 3580, Jan. 25, 2007, as amended by USCG-2007-28915, 81 FR 57711, Aug. 23, 2016]

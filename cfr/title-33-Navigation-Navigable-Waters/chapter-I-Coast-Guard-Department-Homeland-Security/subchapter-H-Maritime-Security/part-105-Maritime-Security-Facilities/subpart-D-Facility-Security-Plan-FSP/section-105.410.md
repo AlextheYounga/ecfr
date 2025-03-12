@@ -1,14 +1,12 @@
 ##### § 105.410 Submission and approval. #####
 
-Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
-
-(a) On or before December 31, 2003, the owner or operator of each facility currently in operation must either:
+(a) The owner or operator of each facility currently in operation must either:
 
 (1) Submit one copy of their Facility Security Plan (FSP) for review and approval to the cognizant COTP and a letter certifying that the FSP meets applicable requirements of this part; or
 
 (2) If intending to operate under an Approved Alternative Security Program, a letter signed by the facility owner or operator stating which approved Alternative Security Program the owner or operator intends to use.
 
-(b) Owners or operators of facilities not in service on or before December 31, 2003, must comply with the requirements in paragraph (a) of this section 60 days prior to beginning operations or by December 31, 2003, whichever is later.
+(b) Owners or operators of facilities not in service on or before December 31, 2003, must comply with the requirements in paragraph (a) of this section 60 days prior to beginning operations.
 
 (c) The cognizant COTP will examine each submission for compliance with this part and either:
 
@@ -24,4 +22,4 @@ Link to an amendment published at 81 FR 57713, Aug. 23, 2016.
 
 (f) A FSP that is approved by the cognizant COTP is valid for five years from the date of its approval.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003; 68 FR 41916, July 16, 2003, as amended at 68 FR 60542, Oct. 22, 2003; USCG-2004-19963, 70 FR 74669, Dec. 16, 2005; USCG-2013-0397, 78 FR 39173, July 1, 2013]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003; 68 FR 41916, July 16, 2003, as amended at 68 FR 60542, Oct. 22, 2003; USCG-2004-19963, 70 FR 74669, Dec. 16, 2005; USCG-2013-0397, 78 FR 39173, July 1, 2013; USCG-2007-28915, 81 FR 57713, Aug. 23, 2016]

@@ -1,7 +1,5 @@
 ##### § 105.255 Security measures for access control. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
-
 (a) *General.* The facility owner or operator must ensure the implementation of security measures to:
 
 (1) Deter the unauthorized introduction of dangerous substances and devices, including any device intended to damage or destroy persons, vessels, facilities, or ports;
@@ -10,7 +8,7 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (3) Control access to the facility; and
 
-(4) Prevent an unescorted individual from entering an area of the facility that is designated as a secure area unless the individual holds a duly issued TWIC and is authorized to be in the area.
+(4) Prevent an unescorted individual from entering an area of the facility that is designated as a secure area unless the individual holds a duly issued TWIC and is authorized to be in the area. Individuals seeking unescorted access to a secure area in a facility in Risk Group A must pass electronic TWIC inspection and those seeking unescorted access to a secure area in a facility not in Risk Group A must pass either electronic TWIC inspection or visual TWIC inspection.
 
 (b) The facility owner or operator must ensure that the following are specified:
 
@@ -24,39 +22,11 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (5) The locations where persons, personal effects and vehicle screenings are to be conducted. The designated screening areas should be covered to provide for continuous operations regardless of the weather conditions.
 
-(c) The facility owner or operator must ensure that a TWIC program is implemented as follows:
+(c) The facility owner or operator must establish in the approved Facility Security Plan (FSP) the frequency of application of any access controls, particularly if they are to be applied on a random or occasional basis.
 
-(1) All persons seeking unescorted access to secure areas must present their TWIC for inspection before being allowed unescorted access, in accordance with § 101.514 of this subchapter. Inspection must include:
+(d) *MARSEC Level 1.* The facility owner or operator must ensure the following security measures are implemented at the facility:
 
-(i) A match of the photo on the TWIC to the individual presenting the TWIC;
-
-(ii) Verification that the TWIC has not expired; and
-
-(iii) A visual check of the various security features present on the card to determine whether the TWIC has been tampered with or forged.
-
-(2) If an individual cannot present a TWIC because it has been lost, damaged or stolen, and he or she has previously been granted unescorted access to the facility and is known to have had a valid TWIC, the individual may be given unescorted access to secure areas for a period of no longer than 7 consecutive calendar days if:
-
-(i) The individual has reported the TWIC as lost, damaged, or stolen to TSA as required in 49 CFR 1572.19(f);
-
-(ii) The individual can present another identification credential that meets the requirements of § 101.515 of this subchapter; and
-
-(iii) There are no other suspicious circumstances associated with the individual's claim of loss or theft.
-
-(3) If an individual cannot present his or her TWIC for any other reason than outlined in paragraph (c)(2) of this section, he or she may not be granted unescorted access to the secure area. The individual must be under escort, as that term is defined in part 101 of this subchapter, at all times when inside of a secure area.
-
-(4) With the exception of persons granted access according to paragraph (c)(2) of this section, all persons granted unescorted access to secure areas of the facility must be able to produce his or her TWIC upon request.
-
-(5) There must be disciplinary measures in place to prevent fraud and abuse.
-
-(6) The facility's TWIC program should be coordinated, when practicable, with identification and TWIC access control measures of vessels or other transportation conveyances that use the facility.
-
-(d) If the facility owner or operator uses a separate identification system, ensure that it complies and is coordinated with TWIC provisions in this part.
-
-(e) The facility owner or operator must establish in the approved Facility Security Plan (FSP) the frequency of application of any access controls, particularly if they are to be applied on a random or occasional basis.
-
-(f) *MARSEC Level 1.* The facility owner or operator must ensure the following security measures are implemented at the facility:
-
-(1) Implement TWIC as set out in paragraph (c) of this section.
+(1) Implement a TWIC Program as set out in subpart E of part 101 of this subchapter, as applicable, and in accordance with the facility's assigned Risk Group, as set out in § 105.253.
 
 (2) Screen persons, baggage (including carry-on items), personal effects, and vehicles, for dangerous substances and devices at the rate specified in the approved FSP, excluding government-owned vehicles on official business when government personnel present identification credentials for entry;
 
@@ -66,7 +36,7 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (ii) Failure to consent or submit to screening or inspection will result in denial or revocation of authorization to enter.
 
-(4) Check the identification of any person not holding a TWIC and seeking entry to the facility, including vessel passengers, vendors, personnel duly authorized by the cognizant government authorities, and visitors. This check shall include confirming the reason for boarding by examining at least one of the following:
+(4) Check the identification of any person not holding a TWIC and seeking entry to the facility, including vessel passengers, vendors, personnel duly authorized by the cognizant government authorities, and visitors. This check must include confirming the reason for boarding by examining at least one of the following:
 
 (i) Joining instructions;
 
@@ -78,7 +48,7 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (v) Government identification; or
 
-(vi) Visitor badges issued in accordance with an identification system implemented under paragraph (d) of this section.
+(vi) Visitor badges issued in accordance with an identification system implemented under subpart E of part 101 of this subchapter.
 
 (5) Deny or revoke a person's authorization to be on the facility if the person is unable or unwilling, upon the request of facility personnel or a law enforcement officer, to establish his or her identity in accordance with this part or to account for his or her presence. Any such incident must be reported in compliance with this part;
 
@@ -92,7 +62,7 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (10) Secure unaccompanied baggage after screening in a designated restricted area and maintain security control during transfers between the facility and a vessel.
 
-(g) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in their approved FSP. These additional security measures may include:
+(e) *MARSEC Level 2.* In addition to the security measures required for MARSEC Level 1 in this section, at MARSEC Level 2, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 2 in their approved FSP. These additional security measures may include:
 
 (1) Increasing the frequency and detail of the screening of persons, baggage, and personal effects for dangerous substances and devices entering the facility;
 
@@ -104,11 +74,13 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (5) Denying access to visitors who do not have a verified destination;
 
-(6) Deterring waterside access to the facility, which may include, using waterborne patrols to enhance security around the facility; or
+(6) Deterring waterside access to the facility, which may include, using waterborne patrols to enhance security around the facility;
 
-(7) Except for government-owned vehicles on official business when government personnel present identification credentials for entry, screening vehicles and their contents for dangerous substances and devices at the rate specified for MARSEC Level 2 in the approved FSP.
+(7) Except for government-owned vehicles on official business when government personnel present identification credentials for entry, screening vehicles and their contents for dangerous substances and devices at the rate specified for MARSEC Level 2 in the approved FSP; or
 
-(h) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, at MARSEC level 3, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in their approved FSP. These additional security measures may include:
+(8) Implementing additional electronic TWIC inspection requirements, as required by § 105.253, and by subpart E of part 101 of this subchapter, if relevant.
+
+(f) *MARSEC Level 3.* In addition to the security measures required for MARSEC Level 1 and MARSEC Level 2, at MARSEC level 3, the facility owner or operator must ensure the implementation of additional security measures, as specified for MARSEC Level 3 in their approved FSP. These additional security measures may include:
 
 (1) Screening all persons, baggage, and personal effects for dangerous substances and devices;
 
@@ -130,8 +102,10 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (7) Evacuating the facility;
 
-(8) Restricting pedestrian or vehicular movement on the grounds of the facility; or
+(8) Restricting pedestrian or vehicular movement on the grounds of the facility;
 
-(9) Increasing security patrols within the facility.
+(9) Increasing security patrols within the facility; or
 
-[USCG-2006-24196, 72 FR 3583, Jan. 25, 2007]
+(10) Implementing additional electronic TWIC inspection requirements, as required by § 105.253, and by subchapter E of part 101 of this subchapter, if relevant.
+
+[USCG-2006-24196, 72 FR 3583, Jan. 25, 2007, as amended by USCG-2007-28915, 81 FR 57712, Aug. 23, 2016]

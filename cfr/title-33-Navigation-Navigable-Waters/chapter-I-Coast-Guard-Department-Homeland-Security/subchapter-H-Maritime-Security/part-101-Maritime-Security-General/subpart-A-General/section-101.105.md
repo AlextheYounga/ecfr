@@ -1,7 +1,5 @@
 ##### § 101.105 Definitions. #####
 
-Link to an amendment published at 81 FR 57707, Aug. 23, 2016.
-
 Unless otherwise specified, as used in this subchapter:
 
 *Alternative Security Program* means a third-party or industry organization developed standard that the Commandant has determined provides an equivalent level of security to that established by this subchapter.
@@ -22,13 +20,21 @@ Unless otherwise specified, as used in this subchapter:
 
 *Barge fleeting facility* means a commercial area, subject to permitting by the Army Corps of Engineers, as provided in 33 CFR part 322, part 330, or pursuant to a regional general permit the purpose of which is for the making up, breaking down, or staging of barge tows.
 
+*Biometric match* means a confirmation that: One of the two biometric templates stored in the Transportation Worker Identification Credential (TWIC) matches the scanned biometric template of the person presenting the TWIC; or the alternate biometric stored in a Physical Access Control System (PACS) matches the corresponding biometric of the person.
+
 *Breach of security* means an incident that has not resulted in a transportation security incident, in which security measures have been circumvented, eluded, or violated.
 
-*Bulk* or *in bulk* means a commodity that is loaded or carried on board a vessel without containers or labels, and that is received and handled without mark or count.
+*Bulk* or *in bulk* means a commodity that is loaded or carried without containers or labels, and that is received and handled without mark or count. This includes cargo transferred using hoses, conveyors, or vacuum systems.
 
 *Bunkers* means a vessel's fuel supply.
 
+*Canceled Card List (CCL)* is a list of Federal Agency Smart Credential-Numbers (FASC-Ns) that have been invalidated or revoked because TSA has determined that the TWIC-holder may pose a security threat, or the card has been reported lost, stolen, or damaged.
+
 *Captain of the Port (COTP)* means the local officer exercising authority for the COTP zones described in 33 CFR part 3. The COTP is the Federal Maritime Security Coordinator described in 46 U.S.C. 70103(a)(2)(G) and also the Port Facility Security Officer as described in the ISPS Code, part A.
+
+*Card Holder Unique Identifier (CHUID)* means the standardized data object comprised of the FASC-N, globally unique identifier, expiration date, and certificate used to validate the data integrity of other data objects on the credential.
+
+*Card validity check* means electronic verification that the TWIC has not been invalidated or revoked by checking the TWIC against the TSA-supplied list of cancelled TWICs or, for vessels and facilities not in Risk Group A, by verifying that the expiration date on the face of the TWIC has not passed.
 
 *Cargo* means any goods, wares, or merchandise carried, or to be carried, for consideration, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person interested in the vessel, facility, or OCS facility, except dredge spoils.
 
@@ -60,11 +66,15 @@ Unless otherwise specified, as used in this subchapter:
 
 *Declaration of Security (DoS)* means an agreement executed between the responsible Vessel and Facility Security Officer, or between Vessel Security Officers in the case of a vessel-to-vessel activity, that provides a means for ensuring that all shared security concerns are properly addressed and security will remain in place throughout the time a vessel is moored to the facility or for the duration of the vessel-to-vessel activity, respectively.
 
+*Designated Recurring Access Area (DRAA)* means an area designated under § 101.555 where persons are permitted recurring access to a secure area of a vessel or facility.
+
 *Disembark* means any time that the crew or passengers leave the ship.
 
 *District Commander* means the U.S. Coast Guard officer designated by the Commandant to command a Coast Guard District described in 33 CFR part 3.
 
 *Drill* means a training event that tests at least one component of the AMS, vessel, or facility security plan and is used to maintain a high level of security readiness.
+
+*Electronic TWIC inspection* means the process by which the TWIC is authenticated, validated, and the individual presenting the TWIC is matched to the stored biometric template.
 
 *Embark* means any time that crew or passengers board the ship, including re-boarding at ports of call.
 
@@ -100,6 +110,8 @@ Unless otherwise specified, as used in this subchapter:
 
 *High seas* means the waters defined in § 2.32(d) of this chapter.
 
+*Identity verification* means the process by which an individual presenting a TWIC is verified as the owner of the TWIC.
+
 *Infrastructure* means facilities, structures, systems, assets, or services so vital to the port and its economy that their disruption, incapacity, or destruction would have a debilitating impact on defense, security, the environment, long-term economic prosperity, public health or safety of the port.
 
 *International voyage* means a voyage between a country to which SOLAS applies and a port outside that country. A country, as used in this definition, includes every territory for the internal relations of which a contracting government to the convention is responsible or for which the United Nations is the administering authority. For the U.S., the term “territory” includes the Commonwealth of Puerto Rico, all possessions of the United States, and all lands held by the U.S. under a protectorate or mandate. For the purposes of this subchapter, vessels solely navigating the Great Lakes and the St. Lawrence River as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian, are considered on an “international voyage” when on a voyage between a U.S. port and a Canadian port.
@@ -120,7 +132,13 @@ Unless otherwise specified, as used in this subchapter:
 
 *Merchant mariner credential or MMC* means the credential issued by the Coast Guard under 46 CFR part 10. It combines the individual merchant mariner's document, license, and certificate of registry enumerated in 46 U.S.C. subtitle II part E as well as the STCW endorsement into a single credential that serves as the mariner's qualification document, certificate of identification, and certificate of service.
 
+*Mobile Offshore Drilling Unit (MODU)* means the same as defined in 33 CFR 140.10.
+
+*Non-TWIC visual identity verification* means the process by which an individual who is known to have been granted unescorted access to a secure area on a vessel or facility is matched to the picture on the facility's PACS card or a government-issued identification card.
+
 *OCS Facility* means any artificial island, installation, or other complex of one or more structures permanently or temporarily attached to the subsoil or seabed of the OCS, erected for the purpose of exploring for, developing or producing oil, natural gas or mineral resources. This definition includes all mobile offshore drilling units (MODUs) not covered under part 104 of this subchapter, when attached to the subsoil or seabed of offshore locations, but does not include deepwater ports, as defined by 33 U.S.C. 1502, or pipelines.
+
+*Offshore Supply Vessel (OSV)* means the same as defined in 46 CFR 125.160.
 
 *Operator, Uninspected Towing Vessel* means an individual who holds a merchant mariner credential or license described in 46 CFR 15.805(a)(5) or 46 CFR 15.810(d).
 
@@ -146,6 +164,8 @@ Unless otherwise specified, as used in this subchapter:
 
 *Personal Identification Number* (PIN) means a personally selected number stored electronically on the individual's TWIC.
 
+*Physical Access Control System (PACS)* means a system that includes devices, personnel, and policies, that controls access to and within a facility or vessel.
+
 *Port of call* means a U.S. port where a cruise ship makes a scheduled or unscheduled stop in the course of its voyage and passengers are allowed to embark and disembark the vessel or its tenders.
 
 *Public access facility* means a facility -
@@ -166,13 +186,17 @@ Unless otherwise specified, as used in this subchapter:
 
 (C) Passenger vessels subject to SOLAS Chapter XI-1 or SOLAS Chapter XI-2.
 
-*Recurring unescorted access* means authorization to enter a vessel on a continual basis after an initial personal identity and credential verification.
+*Qualified Reader* means an electronic device listed on TSA's Qualified Technology List that is capable of reading a TWIC.
+
+*Recurring unescorted access* refers to special access procedures within a DRAA where a person may enter a secure area without passing an electronic TWIC inspection prior to each entry into the secure area.
 
 *Registered length* means the registered length as defined in 46 CFR part 69.
 
 *Restricted areas* mean the infrastructures or locations identified in an area, vessel, or facility security assessment or by the operator that require limited access and a higher degree of security protection. The entire facility may be designated the restricted area, as long as the entire facility is provided the appropriate level of security.
 
 *Review and approval* means the process whereby Coast Guard officials evaluate a plan or proposal to determine if it complies with this subchapter and/or provides an equivalent level of security.
+
+*Risk Group* means the risk ranking assigned to a vessel, facility, or OCS facility according to § 104.263, § 105.253, or § 106.258 of this subchapter, for the purpose of TWIC requirements in this subchapter.
 
 *Screener* means an individual who is trained and authorized to screen or inspect persons, baggage (including carry-on items), personal effects, and vehicles for the presence of dangerous substances and devices, and other items listed in the vessel security plan (VSP) or facility security plan (FSP).
 
@@ -192,11 +216,15 @@ Unless otherwise specified, as used in this subchapter:
 
 *Terminal screening program or TSP* means a written program developed for a cruise ship terminal that documents methods used to screen persons, baggage, and carry-on items for the presence of dangerous substances and devices to ensure compliance with this part.
 
+*Transparent Reader* means a device capable of reading the information from a TWIC or individual seeking access and transmitting it to a system capable of conducting electronic TWIC inspection.
+
 *Transportation security incident (TSI)* means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area.
 
 *TWIC* means a valid, non-revoked transportation worker identification credential, as defined and explained in 49 CFR part 1572.
 
-*TWIC Program* means those procedures and systems that a vessel, facility, or outer continental shelf facility (OCS) must implement in order to assess and validate TWICs when maintaining access control.
+*TWIC Program* means those procedures and systems that a vessel, facility, or outer continental shelf (OCS) facility must implement in order to assess and validate TWICs when maintaining access control.
+
+*TWIC reader* means a device capable of conducting an electronic TWIC inspection.
 
 *Unaccompanied baggage* means any baggage, including personal effects, that is not being brought on board on behalf of a person who is boarding the vessel.
 
@@ -219,6 +247,8 @@ Unless otherwise specified, as used in this subchapter:
 (2) Materials for the safety or comfort of the vessel's passengers or crew, including any provisions for the vessel's passengers or crew.
 
 *Vessel-to-vessel activity* means any activity not related to a facility or port that involves the transfer of cargo, vessel stores, or persons from one vessel to another.
+
+*Visual TWIC inspection* means the process by which the TWIC is authenticated, validated, and the individual presenting the TWIC is matched to the photograph on the face of the TWIC.
 
 *Waters subject to the jurisdiction of the U.S.,* for purposes of this subchapter, includes all waters described in section 2.36(a) of this chapter; the Exclusive Economic Zone, in respect to the living and non-living resources therein; and, in respect to facilities located on the Outer Continental Shelf of the U.S., the waters superjacent thereto.
 

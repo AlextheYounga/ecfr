@@ -1,10 +1,8 @@
 ##### § 105.200 Owner or operator. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
-
 (a) Each facility owner or operator must ensure that the facility operates in compliance with the requirements of this part.
 
-(b) For each facility, the facility owner or operator must:
+(b) For each facility, the facility owner or operator must -
 
 (1) Define the security organizational structure and provide each person exercising security duties and responsibilities within that structure the support needed to fulfill those obligations;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (5) Ensure that the facility operates in compliance with the approved FSP;
 
-(6) Ensure that the TWIC program is properly implemented as set forth in this part, including:
+(6) Ensure that the TWIC Program is properly implemented as set forth in this subchpter, including -
 
 (i) Ensuring that only individuals who hold a TWIC and are authorized to be in the secure area in accordance with the FSP are permitted to escort;
 
@@ -40,8 +38,8 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (14) Inform facility personnel of their responsibility to apply for and maintain a TWIC, including the deadlines and methods for such applications, and of their obligation to inform TSA of any event that would render them ineligible for a TWIC, or which would invalidate their existing TWIC;
 
-(15) Ensure that protocols consistent with section 105.255(c) of this part, for dealing with individuals requiring access who report a lost, damaged, or stolen TWIC, or who have applied for and not yet received a TWIC, are in place; and
+(15) Ensure that protocols consistent with § 101.550 of this subchapter, for dealing with individuals requiring access who report a lost, damaged, or stolen TWIC, or who have applied for and not yet received a TWIC, are in place; and
 
-(16) If applicable, ensure that protocols consistent with § 105.257 of this part, for dealing with newly hired employees who have applied for and not yet received a TWIC, are in place.
+(16) If applicable, ensure that protocols consistent with § 105.257, for dealing with newly hired employees who have applied for and not yet received a TWIC, are in place.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60541, Oct. 22, 2003; USCG-2006-24196, 72 FR 3582, Jan. 25, 2007; USCG-2013-0397, 78 FR 39173, July 1, 2013]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60541, Oct. 22, 2003; USCG-2006-24196, 72 FR 3582, Jan. 25, 2007; USCG-2013-0397, 78 FR 39173, July 1, 2013; USCG-2007-28915, 81 FR 57712, Aug. 23, 2016]

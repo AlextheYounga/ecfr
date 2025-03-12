@@ -1,7 +1,5 @@
 ##### § 104.215 Vessel Security Officer (VSO). #####
 
-Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
-
 (a) *General.* (1) A VSO may perform other duties within the owner's or operator's organization, provided he or she is able to perform the duties and responsibilities required of the VSO for each such vessel.
 
 (2) For manned vessels, the VSO must be the Master or a member of the crew.
@@ -24,11 +22,11 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (4) Crowd management and control techniques;
 
-(5) Operations of security equipment and systems; and
+(5) Operations of security equipment and systems;
 
-(6) Testing and calibration of security equipment and systems, and their maintenance while at sea.
+(6) Testing and calibration of security equipment and systems, and their maintenance while at sea; and
 
-(7) TWIC
+(7) TWIC.
 
 (c) *Certification required.* After July 1, 2009, persons performing duties as VSO on-board a seagoing vessel subject to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended, must hold a valid Coast Guard-issued credential with a Vessel Security Officer endorsement. The Coast Guard will issue this endorsement only if the person meets the requirements in paragraph (d) of this section. This endorsement serves as proof that the person meets the ship security officer requirements of Regulation VI/5 of the STCW.
 
@@ -134,4 +132,4 @@ Link to an amendment published at 81 FR 57710, Aug. 23, 2016.
 
 (12) Ensure TWIC programs are in place and implemented appropriately.
 
-[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2006-24196, 72 FR 3580, Jan. 25, 2007; USCG-2008-0028, 73 FR 29070, May 20, 2008; 73 FR 34191, June 17, 2008]
+[USCG-2003-14749, 68 FR 39302, July 1, 2003, as amended at 68 FR 60513, Oct. 22, 2003; USCG-2006-24196, 72 FR 3580, Jan. 25, 2007; USCG-2008-0028, 73 FR 29070, May 20, 2008; 73 FR 34191, June 17, 2008; USCG-2007-28915, 81 FR 57710, Aug. 23, 2016]
