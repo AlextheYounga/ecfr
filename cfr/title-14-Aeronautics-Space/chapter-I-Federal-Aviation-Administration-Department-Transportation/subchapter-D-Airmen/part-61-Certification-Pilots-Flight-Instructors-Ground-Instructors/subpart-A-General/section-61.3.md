@@ -1,7 +1,5 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations. #####
 
-Link to an amendment published at 83 FR 30276, June 27, 2018.
-
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
 (1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization -
@@ -12,9 +10,13 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (iii) A temporary certificate issued under § 61.17;
 
-(iv) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under § 61.29(e); or
+(iv) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under § 61.29(e);
 
-(v) When operating an aircraft within a foreign country, a pilot license issued by that country may be used.
+(v) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 or 135 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan;
+
+(vi) When engaged in a flight operation within the United States for a fractional ownership program manager authorized to conduct operations under part 91, subpart K, of this chapter, a temporary document provided by that program manager under an approved certificate verification plan; or
+
+(vii) When operating an aircraft within a foreign country, a pilot license issued by that country may be used.
 
 (2) Has a photo identification that is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization. The photo identification must be a:
 
@@ -188,7 +190,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (k) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with § 61.77 of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization.
 
-(l) *Inspection of certificate.* Each person who holds an airman certificate, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
+(l) *Inspection of certificate.* Each person who holds an airman certificate, temporary document in accordance with paragraph (a)(1)(v) or (vi) of this section, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
 
 (1) The Administrator;
 
@@ -198,4 +200,4 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (4) An authorized representative of the Transportation Security Administration.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018]

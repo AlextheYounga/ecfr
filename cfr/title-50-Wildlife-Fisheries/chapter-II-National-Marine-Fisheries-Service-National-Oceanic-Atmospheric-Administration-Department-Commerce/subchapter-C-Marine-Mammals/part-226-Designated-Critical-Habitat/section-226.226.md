@@ -22,4 +22,4 @@ Critical habitat is designated for main Hawaiian Islands insular false killer wh
 
 (d) *Maps of main Hawaiian Islands insular false killer whale critical habitat.*
 
-![](/graphics/er24jy18.000.gif)![](/graphics/er24jy18.001.gif)![](/graphics/er24jy18.002.gif)![](/graphics/er24jy18.003.gif)![](/graphics/er24jy18.004.gif)[83 FR 35091, July24, 2018]
+![](/graphics/er24jy18.000.gif)![](/graphics/er24jy18.001.gif)![](/graphics/er24jy18.002.gif)![](/graphics/er24jy18.003.gif)![](/graphics/er24jy18.004.gif)[83 FR 35092, July 24, 2018]

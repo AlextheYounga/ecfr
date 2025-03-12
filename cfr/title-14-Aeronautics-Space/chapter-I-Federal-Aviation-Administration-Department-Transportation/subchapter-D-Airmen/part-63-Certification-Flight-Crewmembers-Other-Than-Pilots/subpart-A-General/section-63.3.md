@@ -1,11 +1,19 @@
 ##### § 63.3 Certificates and ratings required. #####
 
-Link to an amendment published at 83 FR 30280, June 27, 2018.
+(a) Except as provided in paragraph (c) of this section, no person may act as a flight engineer of a civil aircraft of U.S. registry unless that person has in his or her physical possession or readily accessible in the aircraft:
 
-(a) No person may act as a flight engineer of a civil aircraft of U.S. registry unless he has in his personal possession a current flight engineer certificate with appropriate ratings issued to him under this part and a second-class (or higher) medical certificate issued to him under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight engineer certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used. Also, in the case of a flight engineer certificate issued under § 63.42, evidence of current medical qualification accepted for the issue of that certificate is used in place of a medical certificate.
+(1) A current flight engineer certificate with appropriate ratings issued to that person under this part;
 
-(b) No person may act as a flight navigator of a civil aircraft of U.S. registry unless he has in his personal possession a current flight navigator certificate issued to him under this part and a second-class (or higher) medical certificate issued to him under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight navigator certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used.
+(2) A document conveying temporary authority to exercise certificate privileges issued by the Airman Certification Branch under § 63.16(f); or
 
-(c) Each person who holds a flight engineer or flight navigator certificate, or medical certificate, shall present either or both for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
+(3) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan.
 
-(Secs. 3, 6, 9, 80 Stat. 931, 49 U.S.C. 1652, 1655, 1657)[Doc. No. 1179, 27 FR 7969, Aug. 10, 1962, as amended by Amdt. 63-1, 27 FR 10410, Oct. 25, 1962; Amdt. 63-3, 30 FR 14559, Nov. 23, 1965; Amdt. 63-7, 31 FR 13523, Oct. 20, 1966; Doc. No. 8084, 32 FR 5769, Apr. 11, 1967; Amdt. 63-9, 33 FR 18613, Dec. 17, 1968; Amdt. 63-11, 35 FR 5320, Mar. 31, 1970]
+(b) A person may act as a flight engineer of an aircraft only if that person holds a current second-class (or higher) medical certificate issued to that person under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft.
+
+(c) When the aircraft is operated within a foreign country, a current flight engineer certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used. Also, in the case of a flight engineer certificate issued under § 63.42, evidence of current medical qualification accepted for the issue of that certificate is used in place of a medical certificate.
+
+(d) No person may act as a flight navigator of a civil aircraft of U.S. registry unless that person has in his or her physical possession a current flight navigator certificate issued to him or her under this part and a second-class (or higher) medical certificate issued to him or her under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight navigator certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used.
+
+(e) Each person who holds a flight engineer or flight navigator certificate, medical certificate, or temporary document in accordance with paragraph (a)(3) of this section shall present it for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
+
+[Amdt. 60-6, 83 FR 30280, June 27, 2018]

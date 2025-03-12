@@ -1753,4 +1753,4 @@ The fact that a physician may prescribe, order, recommend, or approve a service 
 
 (vi) Preadmission authorization was available but not requested, or concurrent review requirements were not followed.
 
-[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
