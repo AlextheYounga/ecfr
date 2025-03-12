@@ -1,8 +1,8 @@
 ##### § 35.37 Market power analysis required. #####
 
-Link to an amendment published at 84 FR 36386, July 26, 2019.Link to an amendment published at 84 FR 36428, July 26, 2019.
+Link to an amendment published at 84 FR 36428, July 26, 2019.
 
-(a) (1) In addition to other requirements in subparts A and B, a Seller must submit a market power analysis in the following circumstances: when seeking market-based rate authority; for Category 2 Sellers, every three years, according to the schedule posted on the Commission's Web site; or any other time the Commission directs a Seller to submit one. Failure to timely file an updated market power analysis will constitute a violation of Seller's market-based rate tariff.
+(a)(1) In addition to other requirements in subparts A and B, a Seller must submit a market power analysis in the following circumstances: when seeking market-based rate authority; for Category 2 Sellers, every three years, according to the schedule posted on the Commission's Web site; or any other time the Commission directs a Seller to submit one. Failure to timely file an updated market power analysis will constitute a violation of Seller's market-based rate tariff.
 
 (2) When submitting a market power analysis, whether as part of an initial application or an update, a Seller must include an appendix of assets, in the form provided in appendix B of this subpart, and an organizational chart. The organizational chart must depict the Seller's current corporate structure indicating all affiliates.
 
@@ -16,7 +16,11 @@ Link to an amendment published at 84 FR 36386, July 26, 2019.Link to an amendmen
 
 (4) When submitting the indicative screens, a Seller must use the format provided in appendix A of this subpart and file the indicative screens in an electronic spreadsheet format. A Seller must include all supporting materials referenced in the indicative screens.
 
-(5) Sellers submitting simultaneous transmission import limit studies must file Submittal 1, and, if applicable, Submittal 2, in the electronic spreadsheet format provided on the Commission's Web site.
+(5) In lieu of submitting the indicative market power screens, Sellers studying regional transmission organization (RTO) or independent system operator (ISO) markets that operate RTO/ISO-administered energy, ancillary services, and capacity markets may state that they are relying on Commission-approved market monitoring and mitigation to address potential horizontal market power Sellers may have in those markets.
+
+(6) In lieu of submitting the indicative market power screens, Sellers studying RTO or ISO markets that operate RTO/ISO-administered energy and ancillary services markets, but not capacity markets, may state that they are relying on Commission-approved market monitoring and mitigation to address potential horizontal market power that Sellers may have in energy and ancillary services. However, Sellers studying such RTOs/ISOs would need to submit indicative market power screens if they wish to obtain market-based rate authority for wholesale sales of capacity in these markets.
+
+(7) Sellers submitting simultaneous transmission import limit studies must file Submittal 1, and, if applicable, Submittal 2, in the electronic spreadsheet format provided on the Commission's Web site.
 
 (d) To demonstrate a lack of vertical market power, a Seller that owns, operates or controls transmission facilities, or whose affiliates own, operate or control transmission facilities, must have on file with the Commission an Open Access Transmission Tariff, as described in § 35.28; provided, however, that a Seller whose foreign affiliate(s) own, operate or control transmission facilities outside of the United States that can be used by competitors of the Seller to reach United States markets must demonstrate that such affiliate either has adopted and is implementing an Open Access Transmission Tariff as described in § 35.28, or otherwise offers comparable, non-discriminatory access to such transmission facilities.
 
@@ -30,4 +34,4 @@ Link to an amendment published at 84 FR 36386, July 26, 2019.Link to an amendmen
 
 (f) If the Seller seeks to protect any portion of a filing from public disclosure, the Seller must make its filing in accordance with the Commission's instructions for filing privileged materials and critical energy infrastructure information in § 388.112 of this chapter.
 
-[Order 697, 72 FR 40038, July 20, 2007, as amended by Order 697-B, 73 FR 79627, Dec. 30, 2008; Order 769, 77 FR 65475, Oct. 29, 2012; Order 784, 78 FR 46209, July 30, 2013; Order 816, 80 FR 67108, Oct. 30, 2015; Order 819, 80 FR 73977, Nov. 27, 2015]
+[Order 697, 72 FR 40038, July 20, 2007, as amended by Order 697-B, 73 FR 79627, Dec. 30, 2008; Order 769, 77 FR 65475, Oct. 29, 2012; Order 784, 78 FR 46209, July 30, 2013; Order 816, 80 FR 67108, Oct. 30, 2015; Order 819, 80 FR 73977, Nov. 27, 2015; Order 861, 84 FR 36386, July 26, 2019]

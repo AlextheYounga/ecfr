@@ -1,5 +1,7 @@
 ##### § 70.35 Rejection of application. #####
 
+Link to an amendment published at 84 FR 49643, Sept. 23, 2019.
+
 (a) Any application for grading service may be rejected by the Administrator:
 
 (1) Whenever the applicant fails to meet the requirements of the regulations prescribing the conditions under which the service is made available;

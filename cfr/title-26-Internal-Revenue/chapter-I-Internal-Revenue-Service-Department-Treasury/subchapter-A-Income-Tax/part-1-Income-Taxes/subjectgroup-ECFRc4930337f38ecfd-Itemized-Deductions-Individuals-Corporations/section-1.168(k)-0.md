@@ -1,6 +1,6 @@
 ##### § 1.168(k)-0 Table of contents. #####
 
-This section lists the headings that appear in § 1.168(k)-1.
+This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k)-2.
 
 § 1.168(k)-1 Additional first year depreciation deduction.
 
@@ -258,4 +258,310 @@ This section lists the headings that appear in § 1.168(k)-1.
 
 (6) Rehabilitation credit.
 
-[T.D. 9091, 68 FR 52991, Sept. 8, 2003. Redesignated and amended by T.D. 9283, 71 FR 51738, Aug. 31, 2006]
+§ 1.168(k)-2 Additional first year depreciation deduction for property acquired and placed in service after September 27, 2017.
+
+(a) Scope and definitions.
+
+(1) Scope.
+
+(2) Definitions.
+
+(b) Qualified property.
+
+(1) In general.
+
+(2) Description of qualified property.
+
+(i) In general.
+
+(ii) Property not eligible for additional first year depreciation deduction.
+
+(iii) Examples.
+
+(3) Original use or used property acquisition requirements.
+
+(i) In general.
+
+(ii) Original use.
+
+(A) In general.
+
+(B) Conversion to business or income-producing use.
+
+(C) Fractional interests in property.
+
+(iii) Used property acquisition requirements.
+
+(A) In general.
+
+(B) Property was not used by the taxpayer at any time prior to acquisition.
+
+(C) [Reserved]
+
+(iv) Application to partnerships.
+
+(A) Section 704(c) remedial allocations.
+
+(B) Basis determined under section 732.
+
+(C) Section 734(b) adjustments.
+
+(D) Section 743(b) adjustments.
+
+(v) [Reserved]
+
+(vi) Syndication transaction.
+
+(vii) Examples.
+
+(4) Placed-in-service date.
+
+(i) In general.
+
+(ii) Specified plant.
+
+(iii) Qualified film, television, or live theatrical production.
+
+(A) Qualified film or television production.
+
+(B) Qualified live theatrical production.
+
+(iv) Syndication transaction.
+
+(v) Technical termination of a partnership.
+
+(vi) Section 168(i)(7) transactions.
+
+(5) Acquisition of property.
+
+(i) In general.
+
+(ii) Acquisition date.
+
+(A) In general.
+
+(B) Determination of acquisition date for property acquired pursuant to a written binding contract.
+
+(iii) Definition of binding contract.
+
+(A) In general.
+
+(B) Conditions.
+
+(C) Options.
+
+(D) Letter of intent.
+
+(E) Supply agreements.
+
+(F) Components.
+
+(G) [Reserved]
+
+(iv) Self-constructed property.
+
+(A) In general.
+
+(B) When does manufacture, construction, or production begin.
+
+(C) Components of self-constructed property.
+
+(v) [Reserved]
+
+(vi) Qualified film, television, or live theatrical production.
+
+(A) Qualified film or television production.
+
+(B) Qualified live theatrical production.
+
+(vii) Specified plant.
+
+(viii) Examples.
+
+(c) [Reserved]
+
+(d) Property described in section 168(k)(2)(B) or (C).
+
+(1) In general.
+
+(2) Definition of binding contract.
+
+(3) Self-constructed property.
+
+(i) In general.
+
+(ii) When does manufacture, construction, or production begin.
+
+(A) In general.
+
+(B) Safe harbor.
+
+(iii) Components of self-constructed property.
+
+(A) Acquired components.
+
+(B) Self-constructed components.
+
+(iv) Examples.
+
+(e) Computation of depreciation deduction for qualified property.
+
+(1) Additional first year depreciation deduction.
+
+(i) Allowable taxable year.
+
+(ii) Computation.
+
+(iii) Property described in section 168(k)(2)(B).
+
+(iv) Alternative minimum tax.
+
+(A) In general.
+
+(B) Special rules.
+
+(2) Otherwise allowable depreciation deduction.
+
+(i) In general.
+
+(ii) Alternative minimum tax.
+
+(3) Examples.
+
+(f) Elections under section 168(k).
+
+(1) Election not to deduct additional first year depreciation.
+
+(i) In general.
+
+(ii) Definition of class of property.
+
+(iii) Time and manner for making election.
+
+(A) Time for making election.
+
+(B) Manner of making election.
+
+(iv) Failure to make election.
+
+(2) Election to apply section 168(k)(5) for specified plants.
+
+(i) In general.
+
+(ii) Time and manner for making election.
+
+(A) Time for making election.
+
+(B) Manner of making election.
+
+(iii) Failure to make election.
+
+(3) Election for qualified property placed in service during the 2017 taxable year.
+
+(i) In general.
+
+(ii) Time and manner for making election.
+
+(A) Time for making election.
+
+(B) Manner of making election.
+
+(iii) Failure to make election.
+
+(4) Alternative minimum tax.
+
+(5) Revocation of election.
+
+(i) In general.
+
+(ii) Automatic 6-month extension.
+
+(6) Special rules for 2016 and 2017 returns.
+
+(g) Special rules.
+
+(1) Property placed in service and disposed of in the same taxable year.
+
+(i) In general.
+
+(ii) Technical termination of a partnership.
+
+(iii) Section 168(i)(7) transactions.
+
+(iv) Examples.
+
+(2) Redetermination of basis.
+
+(i) Increase in basis.
+
+(ii) Decrease in basis.
+
+(iii) Definitions.
+
+(iv) Examples.
+
+(3) Sections 1245 and 1250 depreciation recapture.
+
+(4) Coordination with section 169.
+
+(5) Like-kind exchanges and involuntary conversions.
+
+(i) Scope.
+
+(ii) Definitions.
+
+(iii) Computation.
+
+(A) In general.
+
+(B) Year of disposition and year of replacement.
+
+(C) Property described in section 168(k)(2)(B).
+
+(D) Effect of § 1.168(i)-6(i)(1) election.
+
+(E) Alternative minimum tax.
+
+(iv) Replacement MACRS property or replacement computer software that is acquired and placed in service before disposition of relinquished MACRS property or relinquished computer software.
+
+(v) Examples.
+
+(6) Change in use.
+
+(i) Change in use of MACRS property.
+
+(ii) Conversion to personal use.
+
+(iii) Conversion to business or income-producing use.
+
+(A) During the same taxable year.
+
+(B) Subsequent to the acquisition year.
+
+(iv) Depreciable property changes use subsequent to the placed-in-service year.
+
+(v) Examples.
+
+(7) Earnings and profits.
+
+(8) Limitation of amount of depreciation for certain passenger automobiles.
+
+(9) Coordination with section 47.
+
+(i) In general.
+
+(ii) Example.
+
+(10) Coordination with section 514(a)(3).
+
+(11) [Reserved]
+
+(h) Applicability dates.
+
+(1) In general.
+
+(2) Early application of this section.
+
+(3) Early application of regulation project REG-104397-18.
+
+[T.D. 9091, 68 FR 52991, Sept. 8, 2003. Redesignated and amended by T.D. 9283, 71 FR 51738, Aug. 31, 2006; T.D. 9874, 84 FR 50128, Sept. 24, 2019]

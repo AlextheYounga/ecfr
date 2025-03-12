@@ -46,7 +46,7 @@
 
 (i) Fishing for “other flatfish” is permitted within the CCAs under the following conditions: When using no more than 12 hooks, “Number 2” or smaller, which measure no more than 11 mm (0.44 inches) point to shank, and up to two 1-lb (0.45 kg) weights per line; and provided a valid declaration report as required at § 660.13(d), subpart C, has been filed with NMFS OLE.
 
-(ii) Fishing for rockfish and lingcod is permitted shoreward of the 40 fm (73 m) depth contour within the CCAs when trip limits authorize such fishing and provided a valid declaration report as required at § 660.13(d) has been filed with NMFS OLE.
+(ii) Fishing for rockfish and lingcod is permitted shoreward of the boundary line approximating the 40 fm (73 m) depth contour within the CCAs when trip limits authorize such fishing and provided a valid declaration report as required at § 660.13(d) has been filed with NMFS OLE. Coordinates for the boundary line approximating the 40 fm (73 m) depth contour are listed in § 660.71.
 
 (11) *Nontrawl Rockfish Conservation Areas (RCA).* The nontrawl RCAs are closed areas, defined by specific latitude and longitude coordinates (specified at §§ 660.70 through 660.74, subpart C) designed to approximate specific depth contours, where fishing for groundfish with nontrawl gear is prohibited. Boundaries for the nontrawl RCA throughout the year are provided in the header to Table 2 (North) and Table 2 (South) of this subpart and may be modified by NMFS inseason pursuant to § 660.60(c), subpart C.
 
@@ -68,4 +68,4 @@
 
 (f) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9662, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 64006, Dec. 12, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9662, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 64006, Dec. 12, 2018; 84 FR 49962, Sept. 24, 2019]

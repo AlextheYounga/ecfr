@@ -1,5 +1,7 @@
 ##### § 54.1 Meaning of words and terms defined. #####
 
+Link to an amendment published at 84 FR 49640, Sept. 23, 2019.
+
 Words used in this subpart in the singular form shall be deemed to import the plural, and vice versa, as the case may demand. For the purposes of such regulations, unless the context otherwise requires, the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Agricultural Marketing Service (AMS), or any officer or employee of the AMS to whom authority has been or may be delegated to act in the Administrator's stead.

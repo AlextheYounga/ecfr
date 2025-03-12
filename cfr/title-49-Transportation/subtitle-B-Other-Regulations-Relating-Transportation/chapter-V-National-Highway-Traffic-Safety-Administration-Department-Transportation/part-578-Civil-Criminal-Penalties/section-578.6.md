@@ -1,7 +1,5 @@
 ##### § 578.6 Civil penalties for violations of specified provisions of Title 49 of the United States Code. #####
 
-Link to an amendment published at 84 FR 36034, July 29, 2019.
-
 (a) *Motor vehicle safety* - (1) *In general.* A person who violates any of sections 30112, 30115, 30117 through 30122, 30123(a), 30125(c), 30127, or 30141 through 30147 of Title 49 of the United States Code or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $22,329 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum civil penalty under this paragraph for a related series of violations is $111,642,265.
 
 (2) *School buses.* (i) Notwithstanding paragraph (a)(1) of this section, a person who:
@@ -38,9 +36,9 @@ Link to an amendment published at 84 FR 36034, July 29, 2019.
 
 (2) A person that violates 49 U.S.C. 33114(a)(5) is liable to the United States Government for a civil penalty of not more than $178,338 a day for each violation.
 
-(h) *Automobile fuel economy.* (1) A person that violates 49 U.S.C. 32911(a) is liable to the United States Government for a civil penalty of not more than $40,000 for each violation. A separate violation occurs for each day the violation continues.
+(h) *Automobile fuel economy.* (1) A person that violates 49 U.S.C. 32911(a) is liable to the United States Government for a civil penalty of not more than $42,530 for each violation. A separate violation occurs for each day the violation continues.
 
-(2) Except as provided in 49 U.S.C. 32912(c), a manufacturer that violates a standard prescribed for a model year under 49 U.S.C. 32902 is liable to the United States Government for a civil penalty of $14 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy -
+(2) Except as provided in 49 U.S.C. 32912(c), a manufacturer that violates a standard prescribed for a model year under 49 U.S.C. 32902 is liable to the United States Government for a civil penalty of $5.50 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy -
 
 (i) Calculated under 49 U.S.C. 32904(a)(1)(A) or (B) for automobiles to which the standard applies manufactured by the manufacturer during the model year;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 84 FR 36034, July 29, 2019.
 
 (i) *Medium- and heavy-duty vehicle fuel efficiency.* The maximum civil penalty for a violation of the fuel consumption standards of 49 CFR part 535 is not more than $41,882 per vehicle or engine. The maximum civil penalty for a related series of violations shall be determined by multiplying $41,882 times the vehicle or engine production volume for the model year in question within the regulatory averaging set.
 
-[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 37078, July 31, 2019]
+[81 FR 43528, July 5, 2016, as amended at 83 FR 60753, Nov. 27, 2018; 84 FR 37078, July 31, 2019; 84 FR 36034, July 26, 2019]

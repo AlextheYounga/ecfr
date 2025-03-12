@@ -1,5 +1,7 @@
 ##### § 655.152 Advertising requirements. #####
 
+Link to an amendment published at 84 FR 49457, Sept. 20, 2019.
+
 All advertising conducted to satisfy the required recruitment activities under § 655.151 must meet the requirements set forth in this section and must contain terms and conditions of employment which are not less favorable than those offered to the H-2A workers. All advertising must contain the following information:
 
 (a) The employer's name, or in the event that a master application will be filed by an association, a statement indicating that the name and location of each member of the association can be obtained from the SWA of the State in which the advertisement is run;

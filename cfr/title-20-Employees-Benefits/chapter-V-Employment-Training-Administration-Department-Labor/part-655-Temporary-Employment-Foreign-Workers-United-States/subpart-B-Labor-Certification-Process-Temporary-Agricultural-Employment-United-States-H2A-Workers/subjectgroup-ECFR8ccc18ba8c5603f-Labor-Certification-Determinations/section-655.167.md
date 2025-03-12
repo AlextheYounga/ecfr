@@ -1,5 +1,7 @@
 ##### § 655.167 Document retention requirements. #####
 
+Link to an amendment published at 84 FR 49457, Sept. 20, 2019.
+
 (a) *Entities required to retain documents.* All employers filing an *Application for Temporary Employment Certification* requesting H-2A agricultural workers under this subpart are required to retain the documents and records proving compliance with this subpart.
 
 (b) *Period of required retention.* Records and documents must be retained for a period of 3 years from the date of certification of the *Application for Temporary Employment Certification* or from the date of determination if the *Application for Temporary Employment Certification* is denied or withdrawn.

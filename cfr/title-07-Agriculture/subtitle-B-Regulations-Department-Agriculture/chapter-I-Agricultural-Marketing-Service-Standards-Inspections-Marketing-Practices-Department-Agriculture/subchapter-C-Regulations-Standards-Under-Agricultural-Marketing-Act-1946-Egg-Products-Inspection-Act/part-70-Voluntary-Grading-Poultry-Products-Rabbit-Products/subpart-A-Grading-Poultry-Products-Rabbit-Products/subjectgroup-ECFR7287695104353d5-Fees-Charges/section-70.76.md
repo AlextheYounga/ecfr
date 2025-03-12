@@ -1,5 +1,7 @@
 ##### § 70.76 Charges for continuous poultry grading performed on a nonresident basis. #####
 
+Link to an amendment published at 84 FR 49644, Sept. 23, 2019.
+
 Fees to be charged and collected for grading service on a nonresident grading basis shall be based on the formulas provided in this part. The fees to be charged for any appeal grading shall be as provided in § 70.72.
 
 (a) *Charges.* The charges for the grading of poultry and edible products thereof shall be paid by the applicant for the service and shall include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to the AMS. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills will be rendered by the 10th day following the end of the billing period in which the service was rendered and are payable upon receipt.

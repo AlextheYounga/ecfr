@@ -1,5 +1,7 @@
 ##### § 54.6 How to obtain service. #####
 
+Link to an amendment published at 84 FR 49640, Sept. 23, 2019.
+
 (a) *Application.* Any person may apply for service with respect to products in which he or she has a financial interest by completing the required application for service. In any case in which the service is intended to be furnished at an establishment not operated by the applicant, the application shall be approved by the operator of such establishment and such approval shall constitute an authorization for any employee of the Department to enter the establishment for the purpose of performing his or her functions under the regulations. The application shall include:
 
 (1) Name and address of the establishment at which service is desired;

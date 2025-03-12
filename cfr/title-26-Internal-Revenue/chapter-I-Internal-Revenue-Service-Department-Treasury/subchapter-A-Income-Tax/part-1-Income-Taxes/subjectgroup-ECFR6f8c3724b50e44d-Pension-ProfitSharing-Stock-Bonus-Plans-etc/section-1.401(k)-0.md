@@ -136,33 +136,31 @@ List of Sections§ 1.401(k)-1 Certain cash or deferred arrangements.§ 1.401(k)-
 
 (i) Distribution must be on account of hardship.
 
-(ii) Limit on maximum distributable amount.
-
-(A) General rule.
-
-(B) Grandfathered amounts.
-
-(iii) Immediate and heavy financial need.
+(ii) Immediate and heavy financial need.
 
 (A) In general.
 
 (B) Deemed immediate and heavy financial need.
 
-(iv) Distribution necessary to satisfy financial need.
+(C) Primary beneficiary under the plan.
+
+(iii) Distribution necessary to satisfy financial need.
 
 (A) Distribution may not exceed amount of need.
 
-(B) No alternative means available.
+(B) No alternative means reasonably available.
 
-(C) Employer reliance on employee representation.
+(C) Additional conditions.
 
-(D) Employee need not take counterproductive actions.
+(iv) Commissioner may expand standards.
 
-(E) Distribution deemed necessary to satisfy immediate and heavy financial need.
+(v) Applicability date.
 
-(F) Definition of other plans.
+(A) General rule.
 
-(v) Commissioner may expand standards.
+(B) Options for earlier application.
+
+(C) Certain rules optional in 2019.
 
 (4) Rules applicable to distributions upon plan termination.
 
@@ -674,4 +672,4 @@ List of Sections§ 1.401(k)-1 Certain cash or deferred arrangements.§ 1.401(k)-
 
 (h) Other rules.
 
-§ 1.401(k)-5 Special Rules for Mergers, Acquisitions and Similar Events. [Reserved]§ 1.401(k)-6 Definitions.[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 9 Jan. 3, 2006; T.D. 9324, 72 FR 21109, Apr. 30, 2007; T.D. 9447, 74 FR 8207, Feb. 24, 2009; T.D. 9641, 78 FR 68737, Nov. 15, 2013]
+§ 1.401(k)-5 Special Rules for Mergers, Acquisitions and Similar Events. [Reserved]§ 1.401(k)-6 Definitions.[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 9 Jan. 3, 2006; T.D. 9324, 72 FR 21109, Apr. 30, 2007; T.D. 9447, 74 FR 8207, Feb. 24, 2009; T.D. 9641, 78 FR 68737, Nov. 15, 2013; T.D. 9875, 84 FR 49657, Sept. 23, 2019]

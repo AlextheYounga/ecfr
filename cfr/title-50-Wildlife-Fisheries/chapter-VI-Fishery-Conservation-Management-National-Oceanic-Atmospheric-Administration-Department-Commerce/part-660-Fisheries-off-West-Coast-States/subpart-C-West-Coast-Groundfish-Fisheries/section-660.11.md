@@ -200,6 +200,14 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (C) Between 46°16′ N lat. and 42° N lat. (Oregon): Black rockfish, *S. melanops,* blue rockfish, *S. mystinus,* and deacon rockfish, *S. diaconus.*
 
+(D) South of 40°10′ N lat. (Southern California): Nearshore rockfish are divided into three management categories:
+
+(*1*) Shallow nearshore rockfish consists of black and yellow rockfish, S. chrysomelas; China rockfish, S. nebulosus; gopher rockfish, S. carnatus; grass rockfish, S. rastrelliger; kelp rockfish, S. atrovirens.
+
+(*2*) Deeper nearshore rockfish consists of black rockfish, S. melanops; blue rockfish, S. mystinus; brown rockfish, S. auriculatus; calico rockfish, S. dalli; copper rockfish, S. caurinus; deacon rockfish, S. diaconus; olive rockfish, S. serranoides; quillback rockfish, S. maliger; treefish, S. serriceps.
+
+(*3*) California scorpionfish, Scorpaena guttata.
+
 (ii) *Shelf rockfish* includes bocaccio, *Sebastes paucispinis;* canary rockfish, *S. pinniger;* chilipepper, *S. goodei;* cowcod, *S. levis;* shortbelly rockfish, *S. jordani;* widow rockfish, *S. entomelas;* yelloweye rockfish, *S. ruberrimus;* yellowtail rockfish, *S. flavidus* and the following shelf rockfish species managed in “minor rockfish” complexes:
 
 (A) *Shelf Rockfish North of 40°10′ N. lat.:* Bronzespotted rockfish, *S. gilli;* bocaccio, *S. paucispinis;* chameleon rockfish, *S. phillipsi;* chilipepper, *S. goodei;* cowcod, *S. levis;* dusky rockfish, *S. ciliatus;* dwarf-red rockfish, *S. rufianus;* flag rockfish, *S. rubrivinctus;* freckled rockfish, *S. lentiginosus;* greenblotched rockfish, *S. rosenblatti;* greenspotted rockfish, *S. chlorostictus;* greenstriped rockfish, *S. elongatus;* halfbanded rockfish, *S. semicinctus;* harlequin rockfish, *S. variegatus;* honeycomb rockfish, *S. umbrosus;* Mexican rockfish, *S. macdonaldi;* pink rockfish, *S. eos;* pinkrose rockfish, *S. simulator;* pygmy rockfish, *S. wilsoni;* redstripe rockfish, *S. proriger;* rosethorn rockfish, *S. helvomaculatus;* rosy rockfish, *S. rosaceus;* silvergray rockfish, *S. brevispinis;* speckled rockfish, *S. ovalis;* squarespot rockfish, *S. hopkinsi;* starry rockfish, *S. constellatus;* stripetail rockfish, *S. saxicola;* sunset rockfish, *S. crocotulus;* swordspine rockfish, *S. ensifer;* tiger rockfish, *S. nigrocinctus;* vermilion rockfish, *S. miniatus.*
@@ -495,4 +503,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019]

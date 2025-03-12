@@ -12,14 +12,14 @@
 
 (c) For tolerances see § 51.1861.
 
-|                                                                      Size designation                                                                       |           Inches            |      |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------|
-|                                                                Minimum diameter <sup>1</sup>                                                                |Maximum diameter <sup>2</sup>|      |
-|                                                                            Small                                                                            |            24/32            |29/32 |
-|                                                                           Medium                                                                            |            28/32            |217/32|
-|                                                                            Large                                                                            |           216/32            |225/32|
-|                                                                         Extra large                                                                         |           224/32            |      |
-|<sup>1</sup> Will not pass through a round opening of the designated diameter when tomato is placed with the greatest transverse diameter across the opening.|                             |      |
-|                                 <sup>2</sup> Will pass through a round opening of the designated diameter in any position.                                  |                             |      |
+|                                                                      Size designation                                                                       |           Inches            |                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------------------------|
+|                                                                Minimum diameter <sup>1</sup>                                                                |Maximum diameter <sup>2</sup>|                            |
+|                                                                            Small                                                                            | 2<sup>4</sup>⁄<sub>32</sub> |2<sup>9</sup>⁄<sub>32</sub> |
+|                                                                           Medium                                                                            | 2<sup>8</sup>⁄<sub>32</sub> |2<sup>17</sup>⁄<sub>32</sub>|
+|                                                                            Large                                                                            |2<sup>16</sup>⁄<sub>32</sub> |2<sup>25</sup>⁄<sub>32</sub>|
+|                                                                         Extra large                                                                         |2<sup>24</sup>⁄<sub>32</sub> |                            |
+|<sup>1</sup> Will not pass through a round opening of the designated diameter when tomato is placed with the greatest transverse diameter across the opening.|                             |                            |
+|                                 <sup>2</sup> Will pass through a round opening of the designated diameter in any position.                                  |                             |                            |
 
 [56 FR 21915, May 13, 1991; 56 FR 32474, July 16, 1991]

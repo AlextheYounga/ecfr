@@ -18,4 +18,4 @@
 
 (d) For proposed actions listed in § 1970.151 and to ensure Agency compliance with the conflict of interest provisions in 40 CFR 1506.5(c), the Agency is responsible for selecting any third-party EIS contractor and participating in the EIS preparation. For more information regarding acquisition of professional services and funding of a third-party contractor, refer to § 1970.152.
 
-[81 FR 11032, Mar. 2, 2016, as amended at 83 FR 59271, Nov. 23, 2018]
+[81 FR 11032, Mar. 2, 2016, as amended at 83 FR 59271, Nov. 23, 2018; 84 FR 49648, Sept. 23, 2019]

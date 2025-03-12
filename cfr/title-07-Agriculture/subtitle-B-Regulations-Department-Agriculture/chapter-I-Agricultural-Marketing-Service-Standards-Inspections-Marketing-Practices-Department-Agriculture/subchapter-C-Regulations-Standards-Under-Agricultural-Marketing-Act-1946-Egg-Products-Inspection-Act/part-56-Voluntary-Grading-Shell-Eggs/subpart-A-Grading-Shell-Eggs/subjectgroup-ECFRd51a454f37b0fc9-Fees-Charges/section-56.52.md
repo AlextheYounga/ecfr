@@ -1,5 +1,7 @@
 ##### § 56.52 Charges for continuous grading performed on a resident basis. #####
 
+Link to an amendment published at 84 FR 49642, Sept. 23, 2019.
+
 Fees to be charged and collected for any grading service, other than for an appeal grading, on a resident grading basis, shall be calculated as described in this part. The fees to be charged for any appeal grading shall be as provided in § 56.47.
 
 (a) *Charges.* The charges for the grading of shell eggs shall be paid by the applicant for the service and shall include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to AMS. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills will be rendered by the 10th day following the end of the period in which the service was rendered and are payable upon receipt.

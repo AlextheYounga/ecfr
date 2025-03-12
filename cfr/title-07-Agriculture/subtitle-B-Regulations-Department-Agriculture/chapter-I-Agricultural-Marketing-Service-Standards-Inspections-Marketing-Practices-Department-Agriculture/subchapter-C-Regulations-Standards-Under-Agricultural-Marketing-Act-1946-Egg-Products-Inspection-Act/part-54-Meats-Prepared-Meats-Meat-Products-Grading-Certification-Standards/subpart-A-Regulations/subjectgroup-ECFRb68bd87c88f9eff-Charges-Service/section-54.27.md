@@ -1,5 +1,7 @@
 ##### § 54.27 Fees and other charges for service. #####
 
+Link to an amendment published at 84 FR 49641, Sept. 23, 2019.
+
 (a) Fees and other charges equal as nearly as may be to the cost of the services rendered shall be assessed and collected from applicants in accordance with the following provisions unless otherwise provided in the cooperative agreement under which the services are furnished, or as provided in § 54.6. For each calendar year, AMS will calculate the rate for inspection, grading, or certification services, per hour per program employee using the following formulas:
 
 (1) *Regular rate.* The total AMS grading, inspection, or certification program personnel direct pay divided by direct hours, which is then multiplied by the next year's percentage of cost of living increase, plus the benefits rate, plus the operating rate, plus the allowance for bad debt rate. If applicable, travel expenses may also be added to the cost of providing the service.

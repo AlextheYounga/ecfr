@@ -1,5 +1,7 @@
 ##### § 1130.2 Definitions. #####
 
+Link to an amendment published at 84 FR 49950, Sept. 24, 2019.
+
 In addition to the definitions given in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052), the following definitions apply:
 
 (a) *Durable infant or toddler product* means the following products, including combinations thereof:

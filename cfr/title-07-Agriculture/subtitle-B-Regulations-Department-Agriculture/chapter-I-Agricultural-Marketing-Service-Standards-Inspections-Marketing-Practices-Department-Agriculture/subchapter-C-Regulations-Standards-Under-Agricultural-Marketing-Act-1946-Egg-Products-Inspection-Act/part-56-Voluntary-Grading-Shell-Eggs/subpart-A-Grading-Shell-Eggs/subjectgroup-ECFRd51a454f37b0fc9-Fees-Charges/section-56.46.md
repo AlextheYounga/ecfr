@@ -1,5 +1,7 @@
 ##### § 56.46 On a fee basis. #####
 
+Link to an amendment published at 84 FR 49642, Sept. 23, 2019.
+
 (a) Unless otherwise provided in this part, the fees to be charged and collected for any service performed, in accordance with this part, on a fee basis shall be based on the applicable formulas specified in this section. For each calendar year or crop year, AMS will calculate the rate for grading or audit services, per hour per program employee using the following formulas:
 
 (1) *Regular rate.* The total AMS grading or audit program personnel direct pay divided by direct hours, which is then multiplied by the next year's percentage of cost of living increase, plus the benefits rate, plus the operating rate, plus the allowance for bad debt rate. If applicable, travel expenses may also be added to the cost of providing the service.

@@ -1,5 +1,7 @@
 ##### § 70.31 How application for service may be made; conditions of service. #####
 
+Link to an amendment published at 84 FR 49643, Sept. 23, 2019.
+
 (a) *Noncontinuous grading service on a fee basis.* An application for any noncontinuous grading service on a fee basis shall be made in any office of grading or with any grader at or nearest the place where the service is desired. Such application may be made orally (in person or by telephone), in writing, or by any electronic means. If the application for grading service is made orally, the office of grading or the grader with whom such application is made or the Administrator may require that the application be confirmed in writing.
 
 (b) *Continuous grading service on a resident basis or continuous grading service on a nonresident basis.* An application for continuous grading service on a resident basis or for continuous grading service on a nonresident basis must be made in writing on forms approved by the Administrator and filed with the Administrator. Such forms may be obtained at the national, regional, or State grading office. In making application, the applicant agrees to comply with the terms and conditions of the regulations (including, but not being limited to, such instructions governing grading of products as may be issued from time to time by the Administrator). No member of or Delegate to Congress or Resident Commissioner shall be admitted to any benefit that may arise from such service unless derived through service rendered a corporation for its general benefit.

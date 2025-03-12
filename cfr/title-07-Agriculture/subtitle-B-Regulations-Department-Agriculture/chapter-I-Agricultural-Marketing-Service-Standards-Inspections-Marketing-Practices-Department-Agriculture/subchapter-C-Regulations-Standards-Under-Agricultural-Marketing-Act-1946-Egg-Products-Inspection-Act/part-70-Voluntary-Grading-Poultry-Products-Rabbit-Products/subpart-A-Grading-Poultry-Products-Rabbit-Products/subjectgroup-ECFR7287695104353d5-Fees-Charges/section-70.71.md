@@ -1,5 +1,7 @@
 ##### § 70.71 On a fee basis. #####
 
+Link to an amendment published at 84 FR 49644, Sept. 23, 2019.
+
 Unless otherwise provided in this part, the fees to be charged and collected for any grading or audit service performed in accordance with this part, on a fee basis shall be based on the applicable formulas specified in this section.
 
 (a) For each calendar year, AMS will calculate the rate for grading and audit services, per hour per program employee using the following formulas:

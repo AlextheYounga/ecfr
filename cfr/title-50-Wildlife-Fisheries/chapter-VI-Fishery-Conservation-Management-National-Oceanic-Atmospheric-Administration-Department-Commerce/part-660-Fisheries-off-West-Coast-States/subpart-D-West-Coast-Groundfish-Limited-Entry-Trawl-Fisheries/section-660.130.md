@@ -24,7 +24,7 @@
 
 (ii) *Salmon bycatch mitigation restrictions.* The use of small footrope trawl, other than selective flatfish trawl gear, is prohibited between 42° North latitude and 40°10′ North latitude.
 
-(iii) *Salmon conservation area restrictions.* The use of small footrope trawl, other than of selective flatfish trawl gear, is required inside the Klamath River Salmon Conservation Zone (defined at § 660.131(c)(1)) and the Columbia River Salmon Conservation Zone (defined at § 660.131(c)(2)).
+(iii) *Salmon conservation area restrictions.* The use of small footrope trawl, other than selective flatfish trawl gear, is prohibited inside the Klamath River Salmon Conservation Zone (defined at § 660.131(c)(1)) and the Columbia River Salmon Conservation Zone (defined at § 660.131(c)(2)).
 
 (3) *Fishing with midwater groundfish trawl gear.* (i) North of 40°10′ N. lat., midwater groundfish trawl gear is required for Pacific whiting fishery vessels; midwater groundfish trawl gear is allowed for vessels targeting non-whiting species during the Pacific whiting primary season for the Pacific whiting IFQ fishery. Also see restrictions on the use of midwater groundfish trawl gear within the RCAs north of 40°10′ N. lat. at § 660.130(e)(4)(i).
 
@@ -112,4 +112,4 @@
 
 (ii) *Columbia River Salmon Conservation Zone.* The ocean area surrounding the Columbia River mouth bounded by a line extending for 6 nm due west from North Head along 46°18′ N lat. to 124°13.30′ W long., then southerly along a line of 167 True to 46°11.10′ N lat. and 124°11′ W long. (Columbia River Buoy), then northeast along Red Buoy Line to the tip of the south jetty.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015; 82 FR 9658, Feb. 7, 2017; 83 FR 62276, Dec. 3, 2018; 83 FR 64002, Dec. 12, 2018; 83 FR 66638, Dec. 27, 2018; 84 FR 31159, June 28, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015; 82 FR 9658, Feb. 7, 2017; 83 FR 62276, Dec. 3, 2018; 83 FR 64002, Dec. 12, 2018; 83 FR 66638, Dec. 27, 2018; 84 FR 31159, June 28, 2019; 84 FR 49962, Sept. 24, 2019]

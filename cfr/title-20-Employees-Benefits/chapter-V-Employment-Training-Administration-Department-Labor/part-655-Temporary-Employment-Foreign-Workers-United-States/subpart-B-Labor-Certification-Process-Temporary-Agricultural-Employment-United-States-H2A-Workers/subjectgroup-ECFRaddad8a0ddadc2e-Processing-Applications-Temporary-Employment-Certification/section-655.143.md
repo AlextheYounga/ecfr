@@ -1,5 +1,7 @@
 ##### § 655.143 Notice of acceptance. #####
 
+Link to an amendment published at 84 FR 49456, Sept. 20, 2019.
+
 (a) *Notification timeline.* When the CO determines the *Application for Temporary Employment Certification* and job order are complete and meet the requirements set forth in this subpart, the CO will notify the employer within 7 calendar days of the CO's receipt of the *Application for Temporary Employment Certification.* A copy will be sent to the SWA serving the area of intended employment.
 
 (b) *Notice content.* The notice must:

@@ -1,5 +1,7 @@
 ##### § 1130.1 Purpose, scope, and effective date. #####
 
+Link to an amendment published at 84 FR 49949, Sept. 24, 2019.
+
 (a) *Purpose.* This part prescribes a consumer product safety rule establishing requirements for consumer registration of durable infant or toddler products. These requirements are intended to improve the effectiveness of recalls of, and safety alerts regarding, such products.
 
 (b) *Scope.* Part 1130 applies to manufacturers, including importers, of durable infant or toddler products, as defined in § 1130.2(a). It does not apply to infant or child restraint systems intended for use in automobiles that are covered by the registration program of the National Highway Traffic and Safety Administration (NHTSA) at 49 CFR 571.213, or to products that comprise a travel system, and are sold with a child restraint system that is covered by the NHTSA registration program at 49 CFR 571.213.

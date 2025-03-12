@@ -1,5 +1,7 @@
 ##### § 655.225 Post-acceptance requirements for herding and range livestock. #####
 
+Link to an amendment published at 84 FR 49457, Sept. 20, 2019.
+
 (a) Unless otherwise specified in this section, the requirements for recruiting U.S. workers by the employer and SWA must be satisfied, as specified in §§ 655.150-655.158.
 
 (b) *Interstate clearance of job order.* Pursuant to § 655.150(b), where a single job order is approved for an association of agricultural employers filing as a joint employer on behalf of its employer-members with different start dates of need, each of the SWAs to which the Form ETA-790 was transmitted by the CO or the SWA having jurisdiction over the location of the association must keep the job order on its active file until 50 percent of the period of the work contract has elapsed for all employer-members identified on the job order, and must refer to the association each qualified U.S. worker who applies (or on whose behalf an application is made) for the job opportunity.
