@@ -1,5 +1,7 @@
 ##### § 270.107 Consultation requirements. #####
 
+Link to an amendment published at 85 FR 12847, Mar. 4, 2020.
+
 (a) *General duty.* (1) Each railroad required to establish a system safety program under this part shall in good faith consult with, and use its best efforts to reach agreement with, all of its directly affected employees, including any non-profit labor organization representing a class or craft of directly affected employees, on the contents of the SSP plan.
 
 (2) A railroad that consults with such a non-profit employee labor organization as required by paragraph (a)(1) of this section is considered to have consulted with the directly affected employees represented by that organization. If a railroad contracts out significant portions of its operations, the contractor and the contractor's employees performing the railroad's operations shall be considered directly affected employees for the purposes of this part.

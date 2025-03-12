@@ -1,5 +1,7 @@
 ##### § 1039.11 Miscellaneous commodities exemptions. #####
 
+Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
+
 (a) *Commodities exempted.* Except as indicated in paragraph (b) of this section, the rail transportation of the commodities listed below is exempt from the provisions of 49 U.S.C. subtitle IV. The Standard Transportation Commodity Code (STCC) numbers that identify the exempted commodities are those in effect on the effective date of the tariff cited, and shall embrace all commodities assigned additional digits.
 
 |  STCC No.  |    STCC tariff     |                                                                                                  Commodity                                                                                                  |

@@ -1,5 +1,7 @@
 ##### § 270.201 Filing and approval. #####
 
+Link to an amendment published at 85 FR 12848, Mar. 4, 2020.
+
 (a) *Filing.* (1) Each railroad to which this part applies shall submit one copy of its SSP plan to the FRA Associate Administrator for Railroad Safety and Chief Safety Officer, Mail Stop 25, 1200 New Jersey Avenue SE., Washington, DC 20590, no later than February 8, 2018 or not less than 90 days before commencing operations, whichever is later.
 
 (2) The railroad shall not include in its SSP plan the risk-based hazard analysis conducted pursuant to § 270.103(q). The railroad shall make the results of any risk-based hazard analysis available upon request to representatives of FRA and States participating under part 212 of this chapter.

@@ -1,0 +1,3 @@
+##### § 102-82.15 Who must comply with the provisions of this part? #####
+
+All Executive agencies procuring, managing, or supplying utility services under Title 40 of the United States Code, including GSA's Public Buildings Service (PBS), Department of Defense, Department of Energy, and those agencies operating under, or subject to, the authorities of the Administrator of General Services must comply with the provisions of this part. For information on a utility services delegation of authority, refer to § 102-72.100 of this chapter.

@@ -1,0 +1,3 @@
+##### § 102-82.40 What are Executive agencies' rate intervention responsibilities? #####
+
+Unless otherwise authorized by law, absent a delegation from GSA, Executive agencies must not engage in the types of representation referenced at 40 U.S.C. 501(c), Services for Executive agencies. The Secretary of Defense is independently authorized to take such actions without a delegation from GSA, when the Secretary determines such actions to be in the best interests of national security. Refer to part 102-71 of this chapter for definitions of Executive agencies and state. For information on delegation of authority refer to part 102-72 of this chapter.

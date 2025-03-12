@@ -1,3 +1,3 @@
-##### § 102-82.5 What is the scope of this part? #####
+##### § 102-82.5 What does this part cover? #####
 
-The real property policies contained in this part apply to Federal agencies, including GSA's Public Buildings Service (PBS), operating under, or subject to, the authorities of the Administrator of General Services.
+This part covers the procurement and management of public utility services. It does not cover utilities that are provided as part of a lease. For more information on the procurement of utility services refer to Federal Acquisition Regulation (FAR) in 48 CFR part 41. For more information on the management of Utility Services, refer to 40 U.S.C. 501.

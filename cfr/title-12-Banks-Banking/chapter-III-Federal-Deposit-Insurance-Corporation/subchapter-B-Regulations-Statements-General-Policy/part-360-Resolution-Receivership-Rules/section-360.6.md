@@ -1,5 +1,7 @@
 ##### § 360.6 Treatment of financial assets transferred in connection with a securitization or participation. #####
 
+Link to an amendment published at 85 FR 12731, Mar. 4, 2020.
+
 (a) *Definitions -*
 
 (1) *Applicable compliance date* means, with respect to a securitization, the date on which compliance with Section 15G of the Securities Exchange Act, 15 U.S.C. 78a *et seq.,* added by Section 941(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is required with respect to that securitization.

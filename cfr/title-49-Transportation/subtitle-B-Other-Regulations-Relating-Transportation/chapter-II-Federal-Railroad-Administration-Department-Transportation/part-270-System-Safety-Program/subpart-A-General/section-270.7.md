@@ -1,5 +1,7 @@
 ##### § 270.7 Penalties and responsibility for compliance. #####
 
+Link to an amendment published at 85 FR 12843, Mar. 4, 2020.
+
 (a) Any person who violates any requirement of this part or causes the violation of any such requirement is subject to a civil penalty of at least $892 and not more than $29,192 per violation, except that: Penalties may be assessed against individuals only for willful violations, and, where a grossly negligent violation or a pattern of repeated violation has created an imminent hazard of death or injury to persons, or has caused death or injury, a penalty not to exceed $116,766 per violation may be assessed. Each day a violation continues shall constitute a separate offense. Any person who knowingly and willfully falsifies a record or report required by this part may be subject to criminal penalties under 49 U.S.C. 21311 (formerly codified in 45 U.S.C. 438(e)). FRA's website at *www.fra.dot.gov* contains a schedule of civil penalty amounts used in connection with this part.
 
 (b) Although the requirements of this part are stated in terms of the duty of a railroad, when any person, including a contractor or subcontractor to a railroad, performs any function covered by this part, that person (whether or not a railroad) shall perform that function in accordance with this part.

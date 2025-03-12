@@ -1,5 +1,7 @@
 ##### § 1039.10 Exemption of agricultural commodities except grain, soybeans, and sunflower seeds. #####
 
+Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
+
 The rail transportation of the commodities listed below is exempt from the provisions of subtitle IV of title 49, except that carriers must continue to comply with Board accounting and reporting requirements, including a brief statement in their annual reports of operations under this exemption, and must maintain copies of rates, charges, rules or regulations, for traffic moved under this exemption, at their principal office, subject to inspection, and send a letter of notification to the docket [Ex Parte No. 346 (Sub-No. 14)], within 30 days, of the fact that they are using the exemption. All tariffs pertaining to the transportation of these miscellaneous commodities will no longer apply except to the extent adopted by carrier quotations. The categories of commodities which are exempt under this decision, by Standard Transportation Commodity Code (STCC) number are:
 
 |   01    |Farm products, with the exception of grain (STCC No. 0113), soybeans (STCC No. 01144), and sunflower seeds (STCC No. 0114940).|

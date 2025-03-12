@@ -1,5 +1,7 @@
 ##### § 270.105 Discovery and admission as evidence of certain information. #####
 
+Link to an amendment published at 85 FR 12847, Mar. 4, 2020.
+
 (a) *Protected information.* Any information compiled or collected after August 14, 2017, solely for the purpose of planning, implementing, or evaluating a system safety program under this part shall not be subject to discovery, admitted into evidence, or considered for other purposes in a Federal or State court proceedings for damages involving personal injury, wrongful death, or property damage. For purposes of this section -
 
 (1) “Information” includes plans, reports, documents, surveys, schedules, lists, or data, and specifically includes a railroad's analysis of its safety risks under § 270.103(q)(1) and a railroad's statement of mitigation measures under § 270.103(q)(2); and

@@ -1,5 +1,7 @@
 ##### § 270.303 Internal system safety program assessment. #####
 
+Link to an amendment published at 85 FR 12849, Mar. 4, 2020.
+
 (a) Following FRA's initial approval of the railroad's SSP plan pursuant to § 270.201, the railroad shall annually conduct an assessment of the extent to which:
 
 (1) The system safety program is fully implemented;

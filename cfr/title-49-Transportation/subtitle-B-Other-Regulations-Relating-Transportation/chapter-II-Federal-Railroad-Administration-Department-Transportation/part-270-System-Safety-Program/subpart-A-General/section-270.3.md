@@ -1,5 +1,7 @@
 ##### § 270.3 Application. #####
 
+Link to an amendment published at 85 FR 12843, Mar. 4, 2020.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to all -
 
 (1) Railroads that operate intercity or commuter passenger train service on the general railroad system of transportation; and

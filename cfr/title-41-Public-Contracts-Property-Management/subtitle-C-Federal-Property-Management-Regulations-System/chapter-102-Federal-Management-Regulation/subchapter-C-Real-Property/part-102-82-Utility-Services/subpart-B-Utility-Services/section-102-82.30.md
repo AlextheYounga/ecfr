@@ -1,0 +1,3 @@
+##### § 102-82.30 What authority must my agency have in order to procure utility service(s)? #####
+
+If you do not have a delegation of authority issued by GSA to procure utility services, or independent authority for such procurements, you cannot procure utility services. The Secretary of Defense is independently authorized to take such actions without a delegation from GSA, when the Secretary determines such actions to be in the best interests of national security. For more information on a utility services delegation of authority refer to §§ 102-72.100 and 102-72.105 of this chapter.

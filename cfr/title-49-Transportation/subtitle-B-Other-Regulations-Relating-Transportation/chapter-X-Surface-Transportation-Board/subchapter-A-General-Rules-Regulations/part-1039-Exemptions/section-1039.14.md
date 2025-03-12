@@ -1,5 +1,7 @@
 ##### § 1039.14 Boxcar transportation exemptions and rules. #####
 
+Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
+
 (a) The Rail transportation of all commodities in boxcars is exempt from the provisions of 49 U.S.C. subtitle IV except as otherwise provided in this section.
 
 (b) The Board retains jurisdiction in the following areas:
