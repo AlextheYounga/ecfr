@@ -18,6 +18,6 @@ c. Failure to so identify a proxy statement, form of proxy and other soliciting 
 
 d. Claims made prior to a meeting regarding the results of a solicitation.
 
-e. Failure to disclose material information regarding proxy voting advice covered by § 240.14a-1(l)(1)(iii)(A), such as the proxy voting advice business's methodology, sources of information, or conflicts of interest
+e. Failure to disclose material information regarding proxy voting advice covered by § 240.14a-1(l)(1)(iii)(A), such as the proxy voting advice business's methodology, sources of information, or conflicts of interest.
 
 [31 FR 212, Jan. 7, 1966, as amended at 41 FR 19933, May 14, 1976; 44 FR 38815, July 2, 1979; 44 FR 68456, Nov. 29, 1979; 75 FR 56782, Sept. 16, 2010; 85 FR 55155, Sept. 3, 2020]

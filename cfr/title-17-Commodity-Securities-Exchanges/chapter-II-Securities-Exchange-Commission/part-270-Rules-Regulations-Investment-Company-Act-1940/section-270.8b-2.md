@@ -1,6 +1,6 @@
 ##### § 270.8b-2 Definitions. #####
 
-Unless the context otherwise requires, the terms in paragraphs (a) through (m) of this section, when used in the rules contained in §§ 270.8b-1 through 270.8b-32, in the rules under section 30(a) or (b) of the Act or in the forms for registration statements and reports pursuant to section 8 or 30(a) or (b) of the Act, shall have the respective meanings indicated in this section. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in part 232 of this chapter (Regulation S-T - General Rules for Electronic Filings).
+Unless the context otherwise requires, the terms in paragraphs (a) through (m) of this section, when used in the rules contained in §§ 270.8b-1 through 270.8b-32, in the rules under section 30(a) or (b) of the Act or in the forms for registration statements and reports pursuant to section 8 or 30(a) or (b) of the Act, shall have the respective meanings indicated in this section. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in part 232 of this chapter (Regulation S-T—General Rules for Electronic Filings).
 
 (a) *Amount.* The term “amount”, when used in regard to securities, means the principal amount if relating to evidences of indebtedness, the number of shares if relating to shares, and the number of units if relating to any other kind of security.
 
@@ -36,4 +36,4 @@ Unless the context otherwise requires, the terms in paragraphs (a) through (m) o
 
 (m) *Totally-held subsidiary.* The term “totally-held subsidiary” means a subsidiary (1) substantially all of whose outstanding securities are owned by its parent and/or the parent's other totally-held subsidiaries, and (2) which is not indebted to any person other than its parent and/or the parent's other totally-held subsidiaries in an amount which is material in relation to the particular subsidiary, excepting indebtedness incurred in the ordinary course of business which is not over-due and which matures within one year from the date of its creation, whether evidenced by securities or not.
 
-[18 FR 8575, Dec. 19, 1953, as amended at 19 FR 2779, May 14, 1954; 58 FR 14860, Mar. 18, 1993; 65 FR 24802, Apr. 27, 2000; 70 FR 6572, Feb. 8, 2005; 83 FR 40878, Aug. 16, 2018]
+[18 FR 8575, Dec. 19, 1953, as amended at 19 FR 2779, May 14, 1954; 58 FR 14860, Mar. 18, 1993; 65 FR 24802, Apr. 27, 2000; 70 FR 6572, Feb. 8, 2005; 83 FR 40878, Aug. 16, 2018; 85 FR 54073, Aug. 31, 2020]

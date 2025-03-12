@@ -142,7 +142,7 @@
 
 (iii) *Permitted securities.* Notwithstanding paragraph (c)(8)(ii)(A) of this section, the issuing entity may hold securities, other than debt securities permitted under paragraph (c)(8)(i)(E) of this section, if those securities are:
 
-(A) Cash equivalents - which, for the purposes of this paragraph, means high quality, highly liquid investments whose maturity corresponds to the securitization's expected or potential need for funds and whose currency corresponds to either the underlying loans or the asset-backed securities - for purposes of the rights and assets in paragraph (c)(8)(i)(B) of this section; or
+(A) Cash equivalents—which, for the purposes of this paragraph, means high quality, highly liquid investments whose maturity corresponds to the securitization's expected or potential need for funds and whose currency corresponds to either the underlying loans or the asset-backed securities—for purposes of the rights and assets in paragraph (c)(8)(i)(B) of this section; or
 
 (B) Securities received in lieu of debts previously contracted with respect to the loans supporting the asset-backed securities.
 
@@ -186,7 +186,7 @@
 
 (E) The United States or a foreign sovereign.
 
-(10) *Qualifying covered bonds.* (i) *Scope.* An entity owning or holding a dynamic or fixed pool of loans or other assets as provided in paragraph (c)(8) of this section for the benefit of the holders of covered bonds, provided that the assets in the pool are composed solely of assets that meet the conditions in paragraph (c)(8)(i) of this section.
+(10) *Qualifying covered bonds*—(i) *Scope.* An entity owning or holding a dynamic or fixed pool of loans or other assets as provided in paragraph (c)(8) of this section for the benefit of the holders of covered bonds, provided that the assets in the pool are composed solely of assets that meet the conditions in paragraph (c)(8)(i) of this section.
 
 (ii) *Covered bond.* For purposes of this paragraph (c)(10), a covered bond means:
 

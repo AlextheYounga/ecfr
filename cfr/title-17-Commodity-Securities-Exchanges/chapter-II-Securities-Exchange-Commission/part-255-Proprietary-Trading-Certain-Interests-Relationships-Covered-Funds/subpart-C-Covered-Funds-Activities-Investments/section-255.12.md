@@ -6,7 +6,7 @@
 
 (ii) *De minimis investment.* Making and retaining an investment in the covered fund subject to the limits contained in paragraphs (a)(2)(ii) and (iii) of this section.
 
-(2) *Investment limits* - (i) *Seeding period.* With respect to an investment in any covered fund made or held pursuant to paragraph (a)(1)(i) of this section, the banking entity and its affiliates:
+(2) *Investment limits*—(i) *Seeding period.* With respect to an investment in any covered fund made or held pursuant to paragraph (a)(1)(i) of this section, the banking entity and its affiliates:
 
 (A) Must actively seek unaffiliated investors to reduce, through redemption, sale, dilution, or other methods, the aggregate amount of all ownership interests of the banking entity in the covered fund to the amount permitted in paragraph (a)(2)(i)(B) of this section; and
 
@@ -24,7 +24,7 @@
 
 (B) *Issuing entities of asset-backed securities.* In the case of an issuing entity of asset-backed securities, the date on which the assets are initially transferred into the issuing entity of asset-backed securities.
 
-(b) *Rules of construction* - (1) *Attribution of ownership interests to a covered banking entity.* (i) For purposes of paragraph (a)(2) of this section, the amount and value of a banking entity's permitted investment in any single covered fund shall include any ownership interest held under § 255\_.12 directly by the banking entity, including any affiliate of the banking entity.
+(b) *Rules of construction*—(1) *Attribution of ownership interests to a covered banking entity.* (i) For purposes of paragraph (a)(2) of this section, the amount and value of a banking entity's permitted investment in any single covered fund shall include any ownership interest held under § 255.12 directly by the banking entity, including any affiliate of the banking entity.
 
 (ii) *Treatment of registered investment companies, SEC-regulated business development companies, and foreign public funds.* For purposes of paragraph (b)(1)(i) of this section, a registered investment company, SEC-regulated business development companies, or foreign public fund as described in § 255.10(c)(1) will not be considered to be an affiliate of the banking entity so long as:
 
@@ -54,7 +54,7 @@
 
 (iv) For purposes of the calculation under paragraph (b)(3)(iii) of this section, the valuation methodology used to calculate the fair market value of the ownership interests must be the same for both the ownership interests held by a banking entity and the ownership interests held by all others in the covered fund in the same manner and according to the same standards.
 
-(4) *Multi-tier fund investments.* (i) *Master-feeder fund investments.* If the principal investment strategy of a covered fund (the “feeder fund”) is to invest substantially all of its assets in another single covered fund (the “master fund”), then for purposes of the investment limitations in paragraphs (a)(2)(i)(B) and (a)(2)(ii) of this section, the banking entity's permitted investment in such funds shall be measured only by reference to the value of the master fund. The banking entity's permitted investment in the master fund shall include any investment by the banking entity in the master fund, as well as the banking entity's pro-rata share of any ownership interest in the master fund that is held through the feeder fund; and
+(4) *Multi-tier fund investments*—(i) *Master-feeder fund investments.* If the principal investment strategy of a covered fund (the “feeder fund”) is to invest substantially all of its assets in another single covered fund (the “master fund”), then for purposes of the investment limitations in paragraphs (a)(2)(i)(B) and (a)(2)(ii) of this section, the banking entity's permitted investment in such funds shall be measured only by reference to the value of the master fund. The banking entity's permitted investment in the master fund shall include any investment by the banking entity in the master fund, as well as the banking entity's pro-rata share of any ownership interest in the master fund that is held through the feeder fund; and
 
 (ii) *Fund-of-funds investments.* If a banking entity organizes and offers a covered fund pursuant to § 255.11 for the purpose of investing in other covered funds (a “fund of funds”) and that fund of funds itself invests in another covered fund that the banking entity is permitted to own, then the banking entity's permitted investment in that other fund shall include any investment by the banking entity in that other fund, as well as the banking entity's pro-rata share of any ownership interest in the fund that is held through the fund of funds. The investment of the banking entity may not represent more than 3 percent of the amount or value of any single covered fund.
 
@@ -80,7 +80,7 @@
 
 (*2*) *Other holding companies and any subsidiary or affiliate thereof.* If the banking entity is not a subsidiary of a bank holding company or a company that is treated as a bank holding company, be equal to the total amount of shareholders' equity of the top-tier affiliate within such organization as of the last day of the most recent calendar quarter that has ended, as determined under applicable accounting standards.
 
-(iii) *Treatment of foreign banking entities* - (A) *Foreign banking entities.* Except as provided in paragraph (c)(2)(iii)(B) of this section, with respect to a banking entity that is not itself, and is not controlled directly or indirectly by, a banking entity that is located or organized under the laws of the United States or of any State, the tier 1 capital of the banking entity shall be the consolidated tier 1 capital of the entity as calculated under applicable home country standards.
+(iii) *Treatment of foreign banking entities*—(A) *Foreign banking entities.* Except as provided in paragraph (c)(2)(iii)(B) of this section, with respect to a banking entity that is not itself, and is not controlled directly or indirectly by, a banking entity that is located or organized under the laws of the United States or of any State, the tier 1 capital of the banking entity shall be the consolidated tier 1 capital of the entity as calculated under applicable home country standards.
 
 (B) *U.S. affiliates of foreign banking entities.* With respect to a banking entity that is located or organized under the laws of the United States or of any State and is controlled by a foreign banking entity identified under paragraph (c)(2)(iii)(A) of this section, the banking entity's tier 1 capital shall be as calculated under paragraphs (c)(2)(i) or (ii) of this section.
 

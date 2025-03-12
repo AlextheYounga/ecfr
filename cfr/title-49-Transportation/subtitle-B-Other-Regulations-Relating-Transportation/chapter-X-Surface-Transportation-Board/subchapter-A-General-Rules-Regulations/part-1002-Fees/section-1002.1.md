@@ -1,5 +1,7 @@
 ##### § 1002.1 Fees for records search, review, copying, certification, and related services. #####
 
+Link to an amendment published at 86 FR 44282, Aug. 12, 2021.
+
 Certifications and copies of such tariffs, reports and other public records and documents on file with the Surface Transportation Board as may be practicable to furnish, as well as searches and copying of records not considered public under the Freedom of Information Act (5 U.S.C. 552), will be furnished on the following basis:
 
 (a) Certificate of the Records Officer, $22.00.
