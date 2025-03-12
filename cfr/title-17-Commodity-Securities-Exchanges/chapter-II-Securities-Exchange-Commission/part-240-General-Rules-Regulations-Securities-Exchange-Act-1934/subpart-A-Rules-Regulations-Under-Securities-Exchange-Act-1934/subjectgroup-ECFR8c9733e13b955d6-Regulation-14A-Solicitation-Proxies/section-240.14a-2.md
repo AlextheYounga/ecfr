@@ -1,5 +1,7 @@
 ##### § 240.14a-2 Solicitations to which § 240.14a-3 to § 240.14a-15 apply. #####
 
+Link to an amendment published at 87 FR 43196, July 19, 2022.
+
 Sections 240.14a-3 to 240.14a-15, except as specified, apply to every solicitation of a proxy with respect to securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*), whether or not trading in such securities has been suspended. To the extent specified below, certain of these sections also apply to roll-up transactions that do not involve an entity with securities registered pursuant to section 12 of the Act.
 
 (a) Sections 240.14a-3 to 240.14a-15 do not apply to the following:
