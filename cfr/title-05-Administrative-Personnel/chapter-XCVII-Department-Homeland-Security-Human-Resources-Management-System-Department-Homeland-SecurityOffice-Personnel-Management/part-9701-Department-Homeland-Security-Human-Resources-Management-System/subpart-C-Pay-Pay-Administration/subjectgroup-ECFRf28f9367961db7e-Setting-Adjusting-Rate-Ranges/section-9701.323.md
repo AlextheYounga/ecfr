@@ -1,0 +1,7 @@
+##### § 9701.323 Eligibility for pay increase associated with a rate range adjustment. #####
+
+(a) When a band rate range is adjusted under § 9701.322, employees covered by that band are eligible for an individual pay increase. An employee who meets or exceeds performance expectations (*i.e.,* has a rating of record above the unacceptable performance level for the most recently completed appraisal period) must receive an increase in basic pay equal to the percentage value of any increase in the minimum rate of the employee's band resulting from a rate range adjustment under § 9701.322. The pay increase takes effect at the same time as the corresponding rate range adjustment, except as provided in §§ 9701.324 and 9701.325. For an employee receiving a retained rate, the amount of the increase under this paragraph is determined under § 9701.356.
+
+(b) If an employee does not have a rating of record for the most recently completed appraisal period, he or she must be treated in the same manner as an employee who meets or exceeds performance expectations and is entitled to receive an increase based on the rate range adjustment, as provided in paragraph (a) of this section.
+
+(c) An employee whose rating of record is unacceptable is prohibited from receiving a pay increase as a result of a rate range adjustment, except as provided by §§ 9701.324 and 9701.325. Because the employee's pay remains unchanged, failure to receive a pay increase is not considered an adverse action under subpart F of this part.

@@ -1,0 +1,3 @@
+##### § 80.92 How long are funds available for a Federal obligation? #####
+
+Funds are available for a Federal obligation during the fiscal year for which they are apportioned and until the close of the following fiscal year except for funds in the Enhanced Hunter Education and Safety program and the Recreational Boating Access subprogram. See §§ 80.60 and 80.61 for the length of time that funds are available in this program and subprogram.

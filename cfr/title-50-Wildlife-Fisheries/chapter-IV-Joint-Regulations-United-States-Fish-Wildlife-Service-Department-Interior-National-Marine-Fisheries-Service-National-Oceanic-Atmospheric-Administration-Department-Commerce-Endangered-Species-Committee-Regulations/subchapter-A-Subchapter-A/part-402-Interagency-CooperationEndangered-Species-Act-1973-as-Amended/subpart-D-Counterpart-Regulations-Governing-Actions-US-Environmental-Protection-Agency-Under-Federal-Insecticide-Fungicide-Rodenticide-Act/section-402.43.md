@@ -1,0 +1,3 @@
+##### § 402.43 Interagency exchanges of information. #####
+
+EPA may convey to the Service a written request for a list of any listed species or critical habitat that may be present in any area that may be affected by a FIFRA action. Within 30 days of receipt of such a request the Service shall advise EPA in writing whether, based on the best scientific and commercial data available, any listed species or critical habitat may be present in any such area. EPA may thereafter request the Service to provide available information (or references thereto) describing the applicable environmental baseline for each species or habitat that EPA determines may be affected by a FIFRA action, and the Service shall provide such information within 30 days of the request.

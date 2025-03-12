@@ -1,0 +1,3 @@
+##### § 85.44 Fee charges for use of facilities. #####
+
+A maximum of a $5.00 fee may be charged, with no justification, for use of pumpout facilities constructed, operated or maintained with grant funds. If higher fees are charged, they must be justified before the proposal can be approved. Such proceeds shall be retained, accounted for, and used by the operator to defray operation and maintenance costs as long as the facility is needed and it serves its intended purpose. The maximum fee shall be evaluated for inflation, etc., each year.

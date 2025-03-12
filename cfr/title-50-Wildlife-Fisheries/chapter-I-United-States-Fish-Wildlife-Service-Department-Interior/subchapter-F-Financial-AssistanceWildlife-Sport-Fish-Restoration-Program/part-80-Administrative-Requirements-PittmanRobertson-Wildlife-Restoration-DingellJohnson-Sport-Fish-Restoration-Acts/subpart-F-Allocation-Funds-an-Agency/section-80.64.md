@@ -1,0 +1,3 @@
+##### § 80.64 How does an agency allocate costs in multipurpose projects and facilities? #####
+
+A State fish and wildlife agency must allocate costs in multipurpose projects based on the uses or benefits for each purpose that will result from the completed project or facility. The agency must describe the method used to allocate costs in multipurpose projects or facilities in the project statement included in the grant application.

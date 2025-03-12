@@ -1,0 +1,3 @@
+##### § 84.10 What is the purpose and scope of this rule? #####
+
+The regulations in this part establish the requirements for coastal State participation in the National Coastal Wetlands Conservation Grant Program authorized by Section 305 of the Coastal Wetlands Planning, Protection and Restoration Act (Pub L. 101-646, title III; 16 U.S.C. 3954). The primary goal of the National Coastal Wetlands Conservation Grant Program is the long-term conservation of coastal wetlands ecosystems. It accomplishes this by helping States protect, restore, and enhance their coastal habitats through a competitive grants program. Results are measured in acres protected, restored, and enhanced.

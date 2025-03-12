@@ -1,0 +1,3 @@
+##### § 178.105 Basis of claim settlements. #####
+
+The burden is upon the claimant to establish the timeliness of the claim, the liability of the United States, and the claimant's right to payment. The settlement of claims is based upon the written record only, which will include the submissions by the claimant and the agency. OPM will accept the facts asserted by the agency, absent clear and convincing evidence to the contrary.

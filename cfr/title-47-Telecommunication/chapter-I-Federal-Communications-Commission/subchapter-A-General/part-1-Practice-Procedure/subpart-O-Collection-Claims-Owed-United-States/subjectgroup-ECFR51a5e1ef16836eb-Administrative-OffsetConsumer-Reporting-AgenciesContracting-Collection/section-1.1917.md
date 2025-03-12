@@ -1,0 +1,9 @@
+##### § 1.1917 Referrals to the Department of Justice and transfer of delinquent debt to the Secretary of Treasury. #####
+
+(a) Referrals to the Department of Justice shall be made in accordance with the standards set forth in part 904 of the Federal Claims Collection Standards (31 CFR part 904).
+
+(b) The DCIA includes separate provisions governing the requirements that the Commission transfer delinquent debts to Treasury for general collection purposes (cross-servicing) in accordance with 31 U.S.C. 3711(g)(1) and (2), and notify Treasury of delinquent debts for the purpose of administrative offset in accordance with 31 U.S.C. 3716(c)(6). Title 31, U.S.C. 3711(g)(1) requires the Commission to transfer to Treasury all collection activity for a given debt. Under section 3711(g), Treasury will use all appropriate debt collection tools to collect the debt, including referral to a designated debt collection center or private collection agency, and administrative offset. Once a debt has been transferred to Treasury pursuant to the procedures at 31 CFR 285.12, the Commission will cease all collection activity related to that debt.
+
+(c) All non-tax debts of claims owed to the Commission that have been delinquent for a period of 120 days shall be transferred to the Secretary of the Treasury. Debts which are less than 120 days delinquent may also be referred to the Treasury. Upon such transfer the Secretary of the Treasury shall take appropriate action to collect or terminate collection actions on the debt or claim. A debt is past-due if it has not been paid by the date specified in the Commission's initial written demand for payment or applicable agreement or instrument (including a post-delinquency payment agreement) unless other satisfactory payment arrangements have been made.
+
+[69 FR 27848, May 17, 2004, as amended at 80 FR 43031, July 21, 2015]

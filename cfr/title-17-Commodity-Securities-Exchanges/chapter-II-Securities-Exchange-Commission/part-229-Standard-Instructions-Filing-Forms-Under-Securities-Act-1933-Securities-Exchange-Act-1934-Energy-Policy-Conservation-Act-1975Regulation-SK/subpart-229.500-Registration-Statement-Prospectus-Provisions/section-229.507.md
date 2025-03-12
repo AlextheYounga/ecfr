@@ -1,0 +1,3 @@
+##### § 229.507 (Item 507) Selling security holders. #####
+
+If any of the securities to be registered are to be offered for the account of security holders, name each such security holder, indicate the nature of any position, office, or other material relationship which the selling security holder has had within the past three years with the registrant or any of its predecessors or affiliates, and state the amount of securities of the class owned by such security holder prior to the offering, the amount to be offered for the security holder's account, the amount and (if one percent or more) the percentage of the class to be owned by such security holder after completion of the offering.

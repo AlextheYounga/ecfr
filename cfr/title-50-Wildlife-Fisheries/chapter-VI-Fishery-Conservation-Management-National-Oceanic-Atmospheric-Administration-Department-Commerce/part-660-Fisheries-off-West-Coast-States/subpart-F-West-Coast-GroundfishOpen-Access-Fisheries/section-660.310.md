@@ -1,0 +1,3 @@
+##### § 660.310 Purpose and scope. #####
+
+This subpart covers the Pacific Coast Groundfish open access fishery. The open access fishery, as defined at § 660.11, Subpart C, is the fishery composed of commercial vessels using open access gear fished pursuant to the harvest guidelines, quotas, and other management measures specified for the harvest of open access allocations or governing the fishing activities of open access vessels.

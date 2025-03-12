@@ -1,0 +1,3 @@
+##### § 95.7 Time limit for claiming payment for expenditures made after September 30, 1979. #####
+
+Under the programs listed in § 95.1, we will pay a State for a State agency expenditure made after September 30, 1979, only if the State files a claim with us for that expenditure within 2 years after the calendar quarter in which the State agency made the expenditure. Section 95.19 lists the exceptions to this rule.

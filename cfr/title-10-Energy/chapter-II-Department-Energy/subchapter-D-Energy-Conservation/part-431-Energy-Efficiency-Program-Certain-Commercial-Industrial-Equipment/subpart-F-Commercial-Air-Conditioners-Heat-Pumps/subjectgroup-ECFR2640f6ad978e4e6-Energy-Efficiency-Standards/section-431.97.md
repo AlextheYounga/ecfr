@@ -1,5 +1,7 @@
 ##### § 431.97 Energy efficiency standards and their compliance dates. #####
 
+Link to an amendment published at 88 FR 18982, Mar. 30, 2023.
+
 (a) All basic models of commercial package air-conditioning and heating equipment must be tested for performance using the applicable DOE test procedure in § 431.96, be compliant with the applicable standards set forth in paragraphs (b) through (f) of this section, and be certified to the Department under 10 CFR part 429.
 
 (b) Each commercial air conditioner or heat pump (not including single package vertical air conditioners and single package vertical heat pumps, packaged terminal air conditioners and packaged terminal heat pumps, computer room air conditioners, and variable refrigerant flow systems) manufactured starting on the compliance date listed in the corresponding table must meet the applicable minimum energy efficiency standard level(s) set forth in Tables 1 through 6 of this section.

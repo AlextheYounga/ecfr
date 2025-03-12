@@ -1,0 +1,5 @@
+##### § 160.315 Crewmember identification requirement. #####
+
+(a) A crewmember subject to this subpart must carry and present on demand an acceptable identification. An operator subject to this subpart must ensure that every crewmember on the vessel has an acceptable identification in his or her possession when the vessel is in the navigable waters of the United States. For purposes of this section, a crewmember may secure his or her acceptable identification with the vessel's master, so long as the identification can be presented on demand.
+
+(b) Compliance with the requirements in this section does not relieve vessel crewmembers and operators of any requirements under the Immigration and Nationality Act (INA) or INA implementing regulations. Likewise, compliance with INA requirements does not relieve vessel crewmembers and operators of the requirements in this section.

@@ -1,0 +1,3 @@
+##### § 9701.346 Pay progression for new supervisors. #####
+
+DHS will issue implementing directives requiring an employee newly appointed to or selected for a supervisory position to meet certain assessment or certification points as part of a formal training/developmental program. In administering performance pay increases for these employees under § 9701.342, DHS may take into account the employee's success in completing a formal training/developmental program, as well as his or her performance.

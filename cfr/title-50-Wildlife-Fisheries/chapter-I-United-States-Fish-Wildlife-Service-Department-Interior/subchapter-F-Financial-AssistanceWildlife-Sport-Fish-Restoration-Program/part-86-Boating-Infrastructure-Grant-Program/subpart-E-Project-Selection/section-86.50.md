@@ -1,0 +1,3 @@
+##### § 86.50 Who ranks BIG Tier 2—National grant applications? #####
+
+We assemble a panel of our professional staff to review, rank, and recommend grant applications for funding to the Director. This panel may include representatives of our Regional Offices, with Headquarters staff overseeing the review, ranking, and recommendation process. Following the requirements of the Federal Advisory Committee Act (5 U.S.C. Appendix), the Director may invite nongovernmental organizations and other non-Federal entities to take part in an advisory panel to make recommendations to the Director.

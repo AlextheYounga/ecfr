@@ -1,0 +1,7 @@
+##### § 8.10 Investigations. #####
+
+(a) *Making the investigation.* The responsible Department official or his designee will make a prompt investigation whenever a compliance review, report, complaint, or any other information indicates a possible failure to comply with this part. The investigation shall include, where appropriate, a review of the pertinent practices and policies of the recipient or other party subject to this part, the circumstances under which the possible noncompliance with this part occurred, and other factors relevant to a determination as to whether there has been a failure to comply with this part.
+
+(b) *Resolution of matters.* (1) If an investigation pursuant to paragraph (a) of this section indicates a failure to comply with this part, the responsible Department official will so inform the recipient or other party subject to this part and the matter will be resolved by informal means whenever possible. If it has been determined that the matter cannot be resolved by informal means, action will be taken as provided for in § 8.11.
+
+(2) If an investigation does not warrant action pursuant to paragraph (b)(1) of this section, the responsible Department official will so inform the recipient or other party subject to this part and the complainant, if any, in writing.

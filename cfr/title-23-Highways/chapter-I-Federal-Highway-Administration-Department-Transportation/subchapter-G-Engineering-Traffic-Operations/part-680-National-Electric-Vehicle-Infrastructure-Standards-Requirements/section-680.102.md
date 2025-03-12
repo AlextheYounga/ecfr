@@ -1,0 +1,3 @@
+##### § 680.102 Applicability. #####
+
+Except where noted, these regulations apply to all NEVI Formula Program projects as well as projects for the construction of publicly accessible EV chargers that are funded with funds made available under Title 23, United States Code, including any EV charging infrastructure project funded with Federal funds that is treated as a project on a Federal-aid highway.

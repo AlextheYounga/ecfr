@@ -1,0 +1,3 @@
+##### § 9701.345 Developmental pay adjustments. #####
+
+DHS will issue implementing directives regarding pay adjustments within the Entry/Developmental band. These directives may require employees to meet certain standardized assessment or certification points as part of a formal training/developmental program. In administering Entry/Developmental band pay progression plans, DHS may link pay progression to the demonstration of required knowledge, skills, and abilities (KSAs)/competencies. DHS may set standard timeframes for progression through an Entry/Developmental band while allowing an employee to progress at a slower or faster rate based on his or her performance, demonstration of required competencies, and/or other factors.

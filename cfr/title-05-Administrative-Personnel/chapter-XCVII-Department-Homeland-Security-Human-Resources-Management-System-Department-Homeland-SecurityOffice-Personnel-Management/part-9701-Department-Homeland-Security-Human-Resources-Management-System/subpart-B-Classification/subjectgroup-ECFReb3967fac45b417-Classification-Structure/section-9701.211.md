@@ -1,0 +1,3 @@
+##### § 9701.211 Occupational clusters. #####
+
+For the purpose of classifying positions, DHS may, after coordination with OPM, establish occupational clusters based on factors such as mission or function; nature of work; qualifications or competencies; career or pay progression patterns; relevant labor-market features; and other characteristics of those occupations or positions. DHS must document in implementing directives the criteria and rationale for grouping occupations or positions into occupational clusters.

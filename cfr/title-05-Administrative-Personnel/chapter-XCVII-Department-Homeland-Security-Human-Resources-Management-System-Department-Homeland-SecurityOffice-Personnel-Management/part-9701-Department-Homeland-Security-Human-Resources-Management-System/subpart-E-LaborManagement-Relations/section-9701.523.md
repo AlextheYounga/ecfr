@@ -1,0 +1,9 @@
+##### § 9701.523 Official time. #####
+
+(a) Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this subpart must be authorized official time for such purposes, including attendance at impasse proceedings, during the time the employee otherwise would be in a duty status. The number of employees for whom official time is authorized under this section may not exceed the number of individuals designated as representing the Department for such purposes.
+
+(b) Any activities performed by any employee relating to the internal business of the labor organization, including but not limited to the solicitation of membership, elections of labor organization officials, and collection of dues, must be performed during the time the employee is in a nonduty status.
+
+(c) Except as provided in paragraph (a) of this section, the Authority or the HSLRB, as appropriate, will determine whether an employee participating for, or on behalf of, a labor organization in any phase of proceedings before the Authority or the HSLRB will be authorized official time for such purpose during the time the employee would otherwise be in a duty status.
+
+(d) Except as provided in the preceding paragraphs of this section, any employee representing an exclusive representative or, in connection with any other matter covered by this subpart, any employee in an appropriate unit represented by an exclusive representative, must be granted official time in any amount the Department and the exclusive representative involved agree to be reasonable, necessary, and in the public interest.

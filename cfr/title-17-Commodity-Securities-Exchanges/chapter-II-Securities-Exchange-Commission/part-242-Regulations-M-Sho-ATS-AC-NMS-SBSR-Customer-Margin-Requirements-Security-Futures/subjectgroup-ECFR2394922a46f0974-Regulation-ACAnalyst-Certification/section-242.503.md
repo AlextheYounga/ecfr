@@ -1,0 +1,3 @@
+##### § 242.503 Certain foreign research reports. #####
+
+A foreign person, located outside the United States and not associated with a registered broker or dealer, who prepares a research report concerning a foreign security and provides it to a U.S. person in the United States in accordance with the provisions of § 240.15a-6(a)(2) of this chapter shall be exempt from the requirements of this regulation.

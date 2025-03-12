@@ -1,8 +1,6 @@
 ##### § 90.155 Time in which station must be placed in operation. #####
 
-Link to an amendment published at 88 FR 12570, Feb. 28, 2023.
-
-(a) All stations authorized under this part, except as provided in §§ 90.528, 90.529, 90.629, 90.631(f), 90.665, 90.685, and 90.1209, must be placed in operation within twelve (12) months from the date of grant or the authorization cancels automatically and must be returned to the Commission.
+(a) All stations authorized under this part, except as provided in §§ 90.528, 90.529, 90.629, 90.631(f), 90.665, and 90.685 must be placed in operation within twelve (12) months from the date of grant or the authorization cancels automatically and must be returned to the Commission.
 
 (b) A local government entity in the Public Safety Pool, applying for any frequency in this part, may also seek extended implementation authorization pursuant to § 90.629.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 12570, Feb. 28, 2023.
 
 (i) DSRCS Roadside Units (RSUs) under subpart M of this part in the 5895-5925 MHz band must be placed in operation within 12 months from the effective date of registration (see § 90.375) or the authority to operate the RSUs cancels automatically (see § 1.955 of this chapter). Such registration date(s) do not change the overall renewal period of the single license. Licensees must notify the Commission in accordance with § 1.946 of this chapter when registered units are placed in operation within their construction period.
 
-[65 FR 60875, Oct. 13, 2000, as amended at 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 69 FR 75172, Dec. 15, 2004; 71 FR 52749, Sept. 7, 2006; 72 FR 48859, Aug. 24, 2007; 86 FR 23296, May 3, 2021]
+[65 FR 60875, Oct. 13, 2000, as amended at 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 69 FR 75172, Dec. 15, 2004; 71 FR 52749, Sept. 7, 2006; 72 FR 48859, Aug. 24, 2007; 86 FR 23296, May 3, 2021; 88 FR 12570, Feb. 28, 2023]

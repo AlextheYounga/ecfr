@@ -1,0 +1,5 @@
+##### § 81.3 Cooperative Agreement. #####
+
+Upon determination by the Secretary that a State program is adequate and active and complies with § 81.2, the Secretary shall enter into an Agreement with the State. A Cooperative Agreement is necessary before a Project Agreement can be approved for endangered or threatened species projects. A cooperative agreement under § 81.2 must be reconfirmed annually to reflect new laws, species lists, rules and regulations, and programs, and to demonstrate that the program is still active and adequate. The Secretary, in determining which species are most urgently in need of a conservation program as provided for in § 81.2(e), shall apply the following criteria: (1) The degree of threat to the continued existence of the species; (2) the recovery potential of the species; (3) the taxonomic status, e.g., giving full species priority over subspecies or populations; and (4) such other relevent biological factors as determined appropriate.
+
+[41 FR 15016, Apr. 9, 1976, as amended at 44 FR 31580, May 31, 1979]

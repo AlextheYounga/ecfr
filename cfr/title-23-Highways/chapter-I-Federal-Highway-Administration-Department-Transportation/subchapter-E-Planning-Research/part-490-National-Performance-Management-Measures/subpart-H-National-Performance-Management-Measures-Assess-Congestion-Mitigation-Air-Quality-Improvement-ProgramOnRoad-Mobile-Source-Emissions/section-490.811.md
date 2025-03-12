@@ -1,0 +1,7 @@
+##### § 490.811 Calculation of Total Emissions Reduction measure. #####
+
+(a) The Total Emission Reductions performance measure specified in § 490.807 shall be calculated in accordance with this section by State DOTs and MPOs to carry out CMAQ on-road mobile source emissions performance-related requirements of this part.
+
+(b) The Total Emission Reductions measure for each of the criteria pollutant or applicable precursor for all projects reported to the CMAQ Public Access System shall be calculated to the nearest one thousandths, as follows:
+
+![](/graphics/er18ja17.038.gif)Where:i = applicable projects reported in the CMAQ Public Access System for the first 2 Federal fiscal years of a performance period and for the entire performance period, as described in in § 490.105(e)(4)(i)(B);p = criteria pollutant or applicable precursor: PM2.5, PM10, CO, VOC, or NOx;Daily Kilograms of Emission Reductionsp,i = total daily kilograms, to the nearest one thousandths, of reduced emissions for a criteria pollutant or an applicable precursor “p” in the in the first year the project is obligated;T = total number of applicable projects reported to the CMAQ Public Access System for the first 2 Federal fiscal years of a performance period and for the entire performance period, as described in § 490.105(e)(4)(i)(B); andTotal Emission Reductionp = cumulative reductions in emissions over 2 and 4 Federal fiscal years, total daily kilograms, to the nearest one thousandths, of reduced emissions for criteria pollutant or precursor “p.”

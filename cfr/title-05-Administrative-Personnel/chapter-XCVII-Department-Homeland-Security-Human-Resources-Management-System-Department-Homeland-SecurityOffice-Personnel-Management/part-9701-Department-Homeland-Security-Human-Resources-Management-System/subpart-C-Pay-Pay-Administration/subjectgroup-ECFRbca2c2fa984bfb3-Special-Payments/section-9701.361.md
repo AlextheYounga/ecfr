@@ -1,0 +1,3 @@
+##### § 9701.361 Special skills payments. #####
+
+DHS will issue implementing directives regarding additional payments for specializations for which the incumbent is trained and ready to perform at all times. DHS may determine the amount of the payments and the conditions for eligibility, including any performance or service agreement requirements. Payments may be made at the same time as basic pay or in periodic lump-sum payments. Special skills payments are not basic pay for any purpose and may be terminated or reduced at any time without triggering pay retention or adverse action procedures.

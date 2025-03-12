@@ -1,0 +1,3 @@
+##### § 10.520 How does OWCP determine compensation after an employee completes a vocational rehabilitation program? #####
+
+After completion of a vocational rehabilitation program, OWCP may adjust compensation to reflect the injured worker's wage-earning capacity. Actual earnings will be used if they fairly and reasonably reflect the earning capacity. The position determined to be the goal of a training plan is assumed to represent the employee's earning capacity if it is suitable and performed in sufficient numbers so as to be reasonably available, whether or not the employee is placed in such a position.

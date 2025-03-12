@@ -1,0 +1,9 @@
+##### § 842.804 Evidence. #####
+
+(a) An agency head's determination under § 842.803(a) (finding that a position is a rigorous position) must be based solely on the official position description of the position in question and any other official description of duties and qualifications. The official documentation for the position should, as soon as is reasonably possible, establish that the primary duties of the position are so rigorous that the agency does not allow individuals to enter the position if they are over a certain age or if they fail to meet certain physical qualifications (that is, physical requirements and/or medical standards), as determined by the employing agency head based on the personnel management needs of the agency for the positions in question.
+
+(b) A determination under §§ 842.803 (b) or (c) must be based on the official position description and any other evidence deemed appropriate by the agency head for making the determination.
+
+(c) If an employee is in a position not subject to the one-half percent higher withholding rate of 5 U.S.C. 8422(a)(2)(B), and the employee does not, within 6 months after entering the position or after any significant change in the position, formally and in writing seek a determination from the employing agency that his position is properly covered by the higher withholding rate, the agency head's determination that the service was not so covered at the time of the service is presumed to be correct. This presumption may be rebutted by a preponderance of the evidence that the employee was unaware of his or her status or was prevented by cause beyond his or her control from requesting that the official status be changed at the time the service was performed.
+
+[52 FR 2069, Jan. 16, 1987, as amended at 57 FR 32690, July 23, 1992]

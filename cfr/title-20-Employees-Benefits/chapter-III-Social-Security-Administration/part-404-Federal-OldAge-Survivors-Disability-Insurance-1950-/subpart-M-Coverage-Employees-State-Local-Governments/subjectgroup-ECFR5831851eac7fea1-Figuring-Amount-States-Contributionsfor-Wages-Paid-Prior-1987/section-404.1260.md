@@ -1,0 +1,3 @@
+##### § 404.1260 Amount of contributions—for wages paid prior to 1987. #####
+
+The State's contributions are equal to the product of the applicable contribution rate (which is equivalent to both the tax rates imposed under sections 3101 and 3111 of the Internal Revenue Code) times the amount of wages actually or constructively paid for covered services each year (subject to the wage limitations in § 404.1047) to the employee.

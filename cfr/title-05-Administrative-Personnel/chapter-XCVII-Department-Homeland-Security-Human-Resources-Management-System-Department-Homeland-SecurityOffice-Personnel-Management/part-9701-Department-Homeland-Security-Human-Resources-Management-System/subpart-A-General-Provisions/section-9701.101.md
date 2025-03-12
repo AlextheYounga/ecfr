@@ -1,0 +1,5 @@
+##### § 9701.101 Purpose. #####
+
+(a) This part contains regulations governing the establishment of a new human resources management system within the Department of Homeland Security (DHS), as authorized by 5 U.S.C. 9701. As permitted by section 9701, these regulations waive and replace various statutory provisions that would otherwise be applicable to affected DHS employees. These regulations are issued jointly by the Secretary of Homeland Security and the Director of the Office of Personnel Management (OPM).
+
+(b) The system established under this part is designed to be mission-centered, performance-focused, flexible, contemporary, and excellent; to generate respect and trust through employee involvement; to be based on the principles of merit and fairness embodied in the statutory merit system principles; and to comply with all other applicable provisions of law.

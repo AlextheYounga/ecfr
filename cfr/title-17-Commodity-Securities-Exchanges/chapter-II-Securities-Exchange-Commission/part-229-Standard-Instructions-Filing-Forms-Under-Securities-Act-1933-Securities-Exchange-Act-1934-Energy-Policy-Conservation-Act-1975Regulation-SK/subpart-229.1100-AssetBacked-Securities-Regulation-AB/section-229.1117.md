@@ -1,0 +1,3 @@
+##### § 229.1117 (Item 1117) Legal proceedings. #####
+
+Describe briefly any legal proceedings pending against the sponsor, depositor, trustee, issuing entity, servicer contemplated by Item 1108(a)(3) of this Regulation AB, originator contemplated by Item 1110(b) of this Regulation AB, or other party contemplated by Item 1100(d)(1) of this Regulation AB, or of which any property of the foregoing is the subject, that is material to security holders. Include similar information as to any such proceedings known to be contemplated by governmental authorities.

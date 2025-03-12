@@ -1,0 +1,3 @@
+##### § 844.305 Redetermination of disability annuity at age 62. #####
+
+Effective on and after the annuitant's 62nd birthday, the rate of annuity payable to a disability annuitant will be the amount of an annuity computed with respect to the annuitant under 5 U.S.C. 8415 (including subsection (g) of that section), including credit for all periods before the annuitant's 62nd birthday during which he or she was entitled to an annuity under this part. The average pay used in computing the annuity under 5 U.S.C. 8415 is adjusted by all cost-of-living increases effective under 5 U.S.C. 8462(b) during the period the annuitant was receiving the disability annuity under this part.

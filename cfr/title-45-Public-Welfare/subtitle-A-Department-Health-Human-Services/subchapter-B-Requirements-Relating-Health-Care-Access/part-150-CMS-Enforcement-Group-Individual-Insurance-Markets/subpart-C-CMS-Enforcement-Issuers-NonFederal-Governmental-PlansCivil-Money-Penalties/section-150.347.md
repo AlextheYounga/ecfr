@@ -1,0 +1,3 @@
+##### § 150.347 Failure to request a hearing. #####
+
+If the responsible entity does not request a hearing within 30 days of the issuance of the notice described in § 150.343, CMS may assess the proposed civil money penalty, a less severe penalty, or a more severe penalty. CMS notifies the responsible entity in writing of any penalty that has been assessed and of the means by which the responsible entity may satisfy the judgment. The responsible entity has no right to appeal a penalty with respect to which it has not requested a hearing in accordance with § 150.405 unless the responsible entity can show good cause, as determined under § 150.405(b), for failing to timely exercise its right to a hearing.

@@ -1,0 +1,11 @@
+##### § 1301.90 Employee screening procedures. #####
+
+It is the position of DEA that the obtaining of certain information by non-practitioners is vital to fairly assess the likelihood of an employee committing a drug security breach. The need to know this information is a matter of business necessity, essential to overall controlled substances security. In this regard, it is believed that conviction of crimes and unauthorized use of controlled substances are activities that are proper subjects for inquiry. It is, therefore, assumed that the following questions will become a part of an employer's comprehensive employee screening program:
+
+*Question.* Within the past five years, have you been convicted of a felony, or within the past two years, of any misdemeanor or are you presently formally charged with committing a criminal offense? (Do not include any traffic violations, juvenile offenses or military convictions, except by general court-martial.) If the answer is yes, furnish details of conviction, offense, location, date and sentence.
+
+*Question.* In the past three years, have you ever knowingly used any narcotics, amphetamines or barbiturates, other than those prescribed to you by a physician? If the answer is yes, furnish details.
+
+*Advice.* An authorization, in writing, that allows inquiries to be made of courts and law enforcement agencies for possible pending charges or convictions must be executed by a person who is allowed to work in an area where access to controlled substances clearly exists. A person must be advised that any false information or omission of information will jeopardize his or her position with respect to employment. The application for employment should inform a person that information furnished or recovered as a result of any inquiry will not necessarily preclude employment, but will be considered as part of an overall evaluation of the person's qualifications. The maintaining of fair employment practices, the protection of the person's right of privacy, and the assurance that the results of such inquiries will be treated by the employer in confidence will be explained to the employee.
+
+[40 FR 17143, Apr. 17, 1975]

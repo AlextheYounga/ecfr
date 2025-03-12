@@ -1,0 +1,5 @@
+##### § 846.725 Appeal to the Merit Systems Protection Board. #####
+
+(a) A person whose rights or interests under this part are affected by an agency decision that an employee is not eligible to elect FERS coverage or an agency refusal to accept a belated election under § 846.724, or an OPM decision denying an extension or waiver under § 846.722, may request the Merit Systems Protection Board (MSPB) to review such decision in accord with procedures prescribed by MSPB. MSPB regulations relating to appeals are contained in chapter II of this title.
+
+(b) Paragraph (a) of this section is the exclusive remedy for review of agency decisions concerning eligibility to make an election under this subpart. An agency decision must not allow review under any employee grievance procedures, including those established by chapter 71 of title 5, United States Code, and 5 CFR part 771.

@@ -1,0 +1,9 @@
+##### § 242.607 Customer account statements. #####
+
+(a) No broker or dealer acting as agent for a customer may effect any transaction in, induce or attempt to induce the purchase or sale of, or direct orders for purchase or sale of, any NMS stock or a security authorized for quotation on an automated inter-dealer quotation system that has the characteristics set forth in section 17B of the Act (15 U.S.C. 78q-2), unless such broker or dealer informs such customer, in writing, upon opening a new account and on an annual basis thereafter, of the following:
+
+(1) The broker's or dealer's policies regarding receipt of payment for order flow from any broker or dealer, national securities exchange, national securities association, or exchange member to which it routes customers' orders for execution, including a statement as to whether any payment for order flow is received for routing customer orders and a detailed description of the nature of the compensation received; and
+
+(2) The broker's or dealer's policies for determining where to route customer orders that are the subject of payment for order flow absent specific instructions from customers, including a description of the extent to which orders can be executed at prices superior to the national best bid and national best offer.
+
+(b) *Exemptions.* The Commission, upon request or upon its own motion, may exempt by rule or by order, any broker or dealer or any class of brokers or dealers, security or class of securities from the requirements of paragraph (a) of this section with respect to any transaction or class of transactions, either unconditionally or on specified terms and conditions, if the Commission determines that such exemption is consistent with the public interest and the protection of investors.

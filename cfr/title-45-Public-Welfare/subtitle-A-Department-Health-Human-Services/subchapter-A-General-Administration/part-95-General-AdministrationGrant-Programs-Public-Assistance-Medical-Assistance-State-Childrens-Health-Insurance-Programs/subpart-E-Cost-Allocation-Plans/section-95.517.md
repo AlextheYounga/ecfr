@@ -1,0 +1,3 @@
+##### § 95.517 Claims for Federal financial participation. #####
+
+(a) A State must claim FFP for costs associated with a program only in accordance with its approved cost allocation plan. However, if a State has submitted a plan or plan amendment for a State agency, it may, at its option claim FFP based on the proposed plan or plan amendment, unless otherwise advised by the DCA. However, where a State has claimed costs based on a proposed plan or plan amendment the State, if necessary, shall retroactively adjust its claims in accordance with the plan or amendment as subsequently approved by the Director, DCA. The State may also continue to claim FFP under its existing approved cost allocation plan for all costs not affected by the proposed amendment.

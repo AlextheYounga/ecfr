@@ -1,0 +1,3 @@
+##### § 680.100 Purpose. #####
+
+The purpose of this part is to prescribe minimum standards and requirements for projects funded under the National Electric Vehicle Infrastructure (NEVI) Formula Program and projects for the construction of publicly accessible electric vehicle (EV) chargers that are funded with funds made available under Title 23, United States Code, including any EV charging infrastructure project funded with Federal funds that is treated as a project on a Federal-aid highway.

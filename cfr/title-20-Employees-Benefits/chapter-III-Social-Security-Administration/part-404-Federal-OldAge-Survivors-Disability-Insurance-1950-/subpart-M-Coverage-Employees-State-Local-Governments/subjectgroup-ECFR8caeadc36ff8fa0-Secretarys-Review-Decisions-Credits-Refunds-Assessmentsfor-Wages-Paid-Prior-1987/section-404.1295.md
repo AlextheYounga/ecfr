@@ -1,0 +1,3 @@
+##### § 404.1295 Commissioner's review—for wages paid prior to 1987. #####
+
+Upon request by the State, the Commissioner will review the reconsidered determination (or the assessment, allowance or disallowance as initially issued if reconsideration is waived under § 404.1291). If necessary, the Commissioner may request the State to furnish additional evidence. Based upon the evidence considered in connection with the assessment, allowance or disallowance and any additional evidence submitted by the State or otherwise obtained by the Commissioner, the Commissioner affirms, modifies, or reverses the assessment, allowance or disallowance.

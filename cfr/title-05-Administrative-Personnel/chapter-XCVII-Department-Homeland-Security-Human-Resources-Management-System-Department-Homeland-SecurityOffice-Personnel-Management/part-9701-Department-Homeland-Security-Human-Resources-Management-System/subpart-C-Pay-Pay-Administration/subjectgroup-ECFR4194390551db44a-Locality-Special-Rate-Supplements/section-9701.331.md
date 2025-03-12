@@ -1,0 +1,3 @@
+##### § 9701.331 General. #####
+
+The basic pay ranges established under §§ 9701.321 through 9701.323 may be supplemented in appropriate circumstances by locality or special rate supplements, as described in §§ 9701.332 through 9701.335. These supplements are expressed as a percentage of basic pay and are set and adjusted as described in § 9701.334. As authorized by § 9701.356, DHS implementing directives will determine the extent to which §§ 9701.331 through 9701.337 apply to employees receiving a retained rate.

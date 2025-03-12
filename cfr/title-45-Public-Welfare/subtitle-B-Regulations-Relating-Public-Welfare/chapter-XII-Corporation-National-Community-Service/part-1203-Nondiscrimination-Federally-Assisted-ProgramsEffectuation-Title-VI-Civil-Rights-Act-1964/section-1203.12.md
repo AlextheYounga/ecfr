@@ -1,0 +1,13 @@
+##### § 1203.12 Effect on other regulations, forms, and instructions. #####
+
+(a) *Effect on other regulations.* Regulations, orders, or like directions issued before the effective date of this part by ACTION which impose requirements designed to prohibit discrimination against individuals on the ground of race, color, or national origin to which this part applies, and which authorizes the suspension or termination of or refusal to grant or to continue Federal financial assistance to an applicant for or recipient of assistance under a program for failure to comply with the requirements, are superseded to the extent that discrimination is prohibited by this part, except that nothing in this part relieves a person of an obligation assumed or imposed under a superseded regulation, order, instruction, or like direction, before the effective date of this part. This part does not supersede any of the following (including future amendments thereof):
+
+(1) Executive Order 11246 (3 CFR, 1965 Supp.) and regulations issued there under or
+
+(2) Any other orders, regulations, or instructions, insofar as these orders, regulations, or instructions prohibit discrimination on the ground of race, color, or national origin in a program or situation to which this part is inapplicable, or prohibit discrimination on any other ground.
+
+(b) *Forms and instructions.* ACTION shall issue and promptly make available to all interested persons forms and detailed instructions and procedures for effectuating this part as applied to programs to which this part applies, and for which it is responsible.
+
+(c) *Supervision and coordination.* ACTION may from time to time assign to officials of ACTION, or to officials of other departments or agencies of the Government with the consent of the departments or agencies, responsibilities in connection with the effectuation of the purposes of title VI and this part (other than responsibilities for final decision as provided in § 1203.10), including the achievement of effective coordination and maximum uniformity within ACTION and within the executive branch in the application of title VI and this part to similar programs and in similar situations. An action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this paragraph shall have the same effect as though the action had been taken by ACTION.
+
+[39 FR 27322, July 26, 1974, as amended at 68 FR 51387, Aug. 26, 2003]

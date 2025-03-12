@@ -1,0 +1,3 @@
+##### § 80.79 Inspection of ship station by a foreign Government. #####
+
+The Governments or appropriate administrations of countries which a ship visits may require the license of the ship station or ship earth station to be produced for examination. When the license cannot be produced without delay or when irregularities are observed, Governments or administrations may inspect the radio installations to satisfy themselves that the installation conforms to the conditions imposed by the Radio Regulations.

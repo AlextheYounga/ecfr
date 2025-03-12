@@ -1,0 +1,19 @@
+##### § 230.500 Use of Regulation D. #####
+
+Users of Regulation D (§§ 230.500 *et seq.*) should note the following:
+
+(a) Regulation D relates to transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 (the Act) (15 U.S.C.77a *et seq.,* as amended). Such transactions are not exempt from the antifraud, civil liability, or other provisions of the federal securities laws. Issuers are reminded of their obligation to provide such further material information, if any, as may be necessary to make the information required under Regulation D, in light of the circumstances under which it is furnished, not misleading.
+
+(b) Nothing in Regulation D obviates the need to comply with any applicable state law relating to the offer and sale of securities. Regulation D is intended to be a basic element in a uniform system of federal-state limited offering exemptions consistent with the provisions of sections 18 and 19(c) of the Act (15 U.S.C. 77r and 77(s)(c)). In those states that have adopted Regulation D, or any version of Regulation D, special attention should be directed to the applicable state laws and regulations, including those relating to registration of persons who receive remuneration in connection with the offer and sale of securities, to disqualification of issuers and other persons associated with offerings based on state administrative orders or judgments, and to requirements for filings of notices of sales.
+
+(c) Attempted compliance with any rule in Regulation D does not act as an exclusive election; the issuer can also claim the availability of any other applicable exemption. For instance, an issuer's failure to satisfy all the terms and conditions of rule 506(b) (§ 230.506(b)) shall not raise any presumption that the exemption provided by section 4(a)(2) of the Act (15 U.S.C. 77d(2)) is not available.
+
+(d) Regulation D is available only to the issuer of the securities and not to any affiliate of that issuer or to any other person for resales of the issuer's securities. Regulation D provides an exemption only for the transactions in which the securities are offered or sold by the issuer, not for the securities themselves.
+
+(e) Regulation D may be used for business combinations that involve sales by virtue of rule 145(a) (§ 230.145(a)) or otherwise.
+
+(f) In view of the objectives of Regulation D and the policies underlying the Act, Regulation D is not available to any issuer for any transaction or chain of transactions that, although in technical compliance with Regulation D, is part of a plan or scheme to evade the registration provisions of the Act. In such cases, registration under the Act is required.
+
+(g) Securities offered and sold outside the United States in accordance with §§ 230.901 through 230.905 (Regulation S) need not be registered under the Act. See Release No. 33-6863. Regulation S may be relied on for such offers and sales even if coincident offers and sales are made in accordance with Regulation D inside the United States. See § 230.152(b)(2). Thus, for example, persons who are offered and sold securities in accordance with Regulation S would not be counted in the calculation of the number of purchasers under Regulation D. Similarly, proceeds from such sales would not be included in the aggregate offering price. The provisions of this paragraph (g), however, do not apply if the issuer elects to rely solely on Regulation D for offers or sales to persons made outside the United States. See §§ 230.502(a) and 230.152.
+
+[77 FR 18684, Mar. 28, 2012, as amended at 78 FR 44804, July 24, 2013; 86 FR 3597, Jan. 14, 2021]

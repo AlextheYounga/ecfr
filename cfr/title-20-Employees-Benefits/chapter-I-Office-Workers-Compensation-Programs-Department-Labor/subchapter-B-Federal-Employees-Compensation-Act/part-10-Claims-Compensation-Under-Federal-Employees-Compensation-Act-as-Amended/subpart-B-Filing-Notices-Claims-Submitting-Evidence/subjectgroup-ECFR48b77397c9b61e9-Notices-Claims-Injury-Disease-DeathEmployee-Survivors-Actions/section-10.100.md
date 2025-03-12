@@ -1,0 +1,13 @@
+##### § 10.100 How and when is a notice of traumatic injury filed? #####
+
+(a) To claim benefits under the FECA, an employee who sustains a work-related traumatic injury must give notice of the injury in writing on Form CA-1, which may be obtained from the employer or from the Internet at *www.dol.gov* under forms. The employee must forward this notice to the employer. Another person, including the employer, may give notice of injury on the employee's behalf. The person submitting a notice shall include the Social Security Number (SSN) of the injured employee. All such notices should be submitted electronically wherever feasible to facilitate processing of such claims. All employers that currently do not have such capability should create such a method by December 31, 2012.
+
+(b) For injuries sustained on or after September 7, 1974, a notice of injury must be filed within three years of the injury. (The form contains the necessary words of claim.) The requirements for filing notice are further described in 5 U.S.C. 8119. Also see § 10.205 concerning time requirements for filing claims for continuation of pay.
+
+(1) If the claim is not filed within three years, compensation may still be allowed if notice of injury was given within 30 days or the employer had actual knowledge of the injury or death within 30 days after occurrence. This knowledge may consist of written records or verbal notification. An entry into an employee's medical record may also satisfy this requirement if it is sufficient to place the employer on notice of a possible work-related injury or disease.
+
+(2) OWCP may excuse failure to comply with the three-year time requirement because of truly exceptional circumstances (for example, being held prisoner of war).
+
+(3) The claimant may withdraw his or her claim (but not the notice of injury) by so requesting in writing to OWCP at any time before OWCP determines eligibility for benefits. Any continuation of pay (COP) granted to an employee after a claim is withdrawn must be charged to sick or annual leave, or considered an overpayment of pay consistent with 5 U.S.C. 5584, at the employee's option.
+
+(c) However, in cases of latent disability, the time for filing claim does not begin to run until the employee has a compensable disability and is aware, or reasonably should have been aware, of the causal relationship between the disability and the employment (see 5 U.S.C. 8122(b)).

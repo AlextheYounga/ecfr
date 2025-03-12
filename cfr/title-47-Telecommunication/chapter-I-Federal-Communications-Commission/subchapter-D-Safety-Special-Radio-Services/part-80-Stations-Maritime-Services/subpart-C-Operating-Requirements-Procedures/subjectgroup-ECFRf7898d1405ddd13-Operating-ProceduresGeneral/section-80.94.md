@@ -1,0 +1,3 @@
+##### § 80.94 Control by coast or Government station. #####
+
+When communicating with a coast station or any Government station in the maritime mobile service, ship stations must comply with the instruction given by the coast station or Government station relative to the order and time of transmission, the choice of frequency, the suspension of communication and the permissible type of message traffic that may be transmitted. This provision does not apply in the event of distress.

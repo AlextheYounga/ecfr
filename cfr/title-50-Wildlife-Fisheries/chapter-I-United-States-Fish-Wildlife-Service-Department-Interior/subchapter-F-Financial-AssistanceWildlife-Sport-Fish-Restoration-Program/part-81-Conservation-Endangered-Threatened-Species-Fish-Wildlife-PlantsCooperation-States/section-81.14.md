@@ -1,0 +1,3 @@
+##### § 81.14 Comprehensive plan alternative. #####
+
+In the event that the State elects to operate under a comprehensive fish and wildlife resource planning system, the Cooperative Agreement will be an attachment to the plan. No Application for Federal Assistance will be required since the documentation will be incorporated in the plan. However, the continued existence of the comprehensive plan, and Federal financing thereunder, will be contingent upon the continued existence of the Cooperative Agreement described in § 81.3, above.

@@ -1,0 +1,3 @@
+##### § 404.1291 Reconsideration—for wages paid prior to 1987. #####
+
+After the State requests review of the assessment or allowance or disallowance of a credit or refund, and prior to the Commissioner's review, that decision may be reconsidered, and affirmed, modified, or reversed. We notify the State of the reconsidered determination and the basis for it. The State may request the Commissioner to review this reconsidered determination under § 404.1294(b). In limited situations, SSA and the State may agree that the reconsideration process should be waived, e.g., where major policy is at issue.

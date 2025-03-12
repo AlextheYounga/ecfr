@@ -1,0 +1,3 @@
+##### § 84.41 Who prepares a grant agreement? What needs to be included? #####
+
+The coastal State and the Fish and Wildlife Service work together to develop a Grant Agreement (Form 3-1552) upon completion of the review by the Regional Director to determine compliance with applicable Federal laws and regulations. The Grant Agreement includes the grant title, the grant cost distribution, the agreement period, other grant provisions, and special grant conditions. If a Coastal Barrier Unit is affected, the Service must conduct internal consultations pursuant to Section 6 of the Coastal Barrier Resources Act, as amended by the Coastal Barrier Improvement Act, prior to providing any grant monies to that State.

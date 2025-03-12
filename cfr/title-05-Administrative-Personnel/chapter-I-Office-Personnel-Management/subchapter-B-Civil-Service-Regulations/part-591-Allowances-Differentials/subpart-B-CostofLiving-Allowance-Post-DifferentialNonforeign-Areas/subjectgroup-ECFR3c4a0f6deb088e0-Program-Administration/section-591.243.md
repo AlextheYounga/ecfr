@@ -1,0 +1,3 @@
+##### § 591.243 How many members are on each COLA Advisory Committee? #####
+
+A COLA Advisory Committee has up to 12 members composed of OPM representatives and other agency and employee representatives, unless OPM determines that the committee should be larger. In determining the number of committee members, OPM considers the amount of work the committee is likely to be requested to do (based on the size and complexity of the local living-cost survey) and the availability of employee and agency representatives to participate as committee members.

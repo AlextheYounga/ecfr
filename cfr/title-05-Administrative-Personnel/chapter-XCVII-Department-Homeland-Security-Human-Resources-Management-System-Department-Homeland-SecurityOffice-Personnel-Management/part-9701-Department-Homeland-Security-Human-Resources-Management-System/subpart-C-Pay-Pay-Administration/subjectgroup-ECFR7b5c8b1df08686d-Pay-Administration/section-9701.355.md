@@ -1,0 +1,3 @@
+##### § 9701.355 Setting pay upon movement to a different occupational cluster. #####
+
+DHS will issue implementing directives regarding how to set an employee's pay when he or she moves voluntarily or involuntarily to a position in a different occupational cluster, including rules for determining whether such a movement is to a higher or lower band for the purpose of setting pay upon promotion or demotion under §§ 9701.353 and 9701.354, respectively.

@@ -1,0 +1,11 @@
+##### § 230.236 Exemption of shares offered in connection with certain transactions. #####
+
+Shares of stock or similar security offered to provide funds to be distributed to shareholders of the issuer of such securities in lieu of issuing fractional shares, script certificates or order forms, in connection with a stock dividend, stock split, reverse stock split, conversion, merger or similar transaction, shall be exempt from registration under the Act if the following conditions are met:
+
+(a) The issuer of such shares is required to file and has filed reports with the Commission pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+(b) The aggregate gross proceeds from the sale of all shares offered in connection with the transaction for the purpose of providing such funds does not exceed $300,000.
+
+(c) At least ten days prior to the offering of the shares, the issuer shall furnish to the Commission in writing the following information: (1) That it proposes to offer shares in reliance upon the exemption provided by this rule; (2) the estimated number of shares to be so offered; (3) the aggregate market value of such shares as of the latest practicable date; and (4) a brief description of the transaction in connection with which the shares are to be offered.
+
+(Secs. 3, 4, and 19, 48 Stat. 75, 77, 85, as amended; 15 U.S.C. 77c, 77d, 77s; secs. 3(b), 4(l), 19(a), 48 Stat. 75, 77, 85; secs. 209, 48 Stat. 908; 59 Stat. 167; sec. 12, 78 Stat. 580; 84 Stat. 1480; sec. 308(a)(2), 90 Stat. 57; sec. 18, 92 Stat. 275; sec. 2, 92 Stat. 962; sec. 301, 94 Stat. 2291, 2294; secs. 12(a), 12(h), 12(i), 16(a), 23(a), 48 Stat. 892, 896, 901; sec. 203a, 49 Stat. 704; sec. 8, 49 Stat. 1379, secs. 3, 8, 78 Stat. 565-568, 579; sec. 1, 82 Stat. 454; sec. 105(b), 88 Stat. 1503; sec. 18, 89 Stat. 155; 15 U.S.C. 77c(b), 77d(l), 77s(a), 78*l*(a), 78*l*(h), 78*l*(i), 78p(a), 78w(a))[27 FR 3289, Apr. 6, 1962, as amended at 37 FR 22978, Oct. 27, 1972; 47 FR 29652, July 8, 1982; 61 FR 49959, Sept. 24, 1996]

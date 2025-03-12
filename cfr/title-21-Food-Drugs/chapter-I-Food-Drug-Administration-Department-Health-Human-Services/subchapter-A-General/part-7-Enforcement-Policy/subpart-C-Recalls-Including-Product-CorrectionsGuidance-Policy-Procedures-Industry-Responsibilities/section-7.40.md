@@ -1,0 +1,9 @@
+##### § 7.40 Recall policy. #####
+
+(a) Recall is an effective method of removing or correcting consumer products that are in violation of laws administered by the Food and Drug Administration. Recall is a voluntary action that takes place because manufacturers and distributors carry out their responsibility to protect the public health and well-being from products that present a risk of injury or gross deception or are otherwise defective. This section and §§ 7.41 through 7.59 recognize the voluntary nature of recall by providing guidance so that responsible firms may effectively discharge their recall responsibilities. These sections also recognize that recall is an alternative to a Food and Drug Administration-initiated court action for removing or correcting violative, distributed products by setting forth specific recall procedures for the Food and Drug Administration to monitor recalls and assess the adequacy of a firm's efforts in recall.
+
+(b) Recall may be undertaken voluntarily and at any time by manufacturers and distributors, or at the request of the Food and Drug Administration. A request by the Food and Drug Administration that a firm recall a product is reserved for urgent situations and is to be directed to the firm that has primary responsibility for the manufacture and marketing of the product that is to be recalled.
+
+(c) Recall is generally more appropriate and affords better protection for consumers than seizure, when many lots of product have been widely distributed. Seizure, multiple seizure, or other court action is indicated when a firm refuses to undertake a recall requested by the Food and Drug Administration, or where the agency has reason to believe that a recall would not be effective, determines that a recall is ineffective, or discovers that a violation is continuing.
+
+[43 FR 26218, June 16, 1978, as amended at 65 FR 56476, Sept. 19, 2000]

@@ -1,0 +1,9 @@
+##### § 50.2 Exchange Visitor Waiver Review Board. #####
+
+(a) *Establishment.* The Exchange Visitor Waiver Review Board is established to carry out the Department's responsibilities under the Exchange Visitor Program.
+
+(b) *Functions.* The Exchange Visitor Waiver Review Board is responsible for making thorough and equitable evaluations of applications submitted by institutions, acting on behalf of Exchange Visitors, to HHS for a favorable recommendation to the Department of State that the two-year foreign residence requirement for Exchange Visitors under the Exchange Visitor Program be waived.
+
+(c) *Membership.* The Exchange Visitor Waiver Review Board consists of no fewer than three members and two alternates, of whom no fewer than three will consider any particular application. The Director of the Office of Global Health Affairs, Office of the Secretary, is an ex officio member of the Board and serves as its Chairman. The Director may designate a staff member of the Office of the Secretary to serve as member and Chairman of the Board in the Director's absence. The Assistant Secretary for Health appoints two regularly assigned members and two alternates to consider applications concerning health, biomedical research, and related fields. The Chairman may request the heads of operating divisions of the Department to appoint additional members to consider applications in other fields of interest to the Department. The Board may obtain expert advisory opinions from other sources. The Board may establish a workgroup from the operating divisions of the Department to consider applications for waivers based on the need for the delivery of health care services to underserved populations.
+
+[49 FR 9900, Mar. 16, 1984, as amended at 67 FR 77695, Dec. 19, 2002]

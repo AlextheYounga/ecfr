@@ -1,0 +1,3 @@
+##### § 95.34 The decision to waive the time limit for good cause. #####
+
+The Secretary will make a decision after reviewing the State's request for waiver. If the Secretary decides that good cause exists, the State will be notified of the extended due date. If the Secretary decides that good cause does not exist or that the request for waiver does not provide enough information to make a decision, the State will be so advised.

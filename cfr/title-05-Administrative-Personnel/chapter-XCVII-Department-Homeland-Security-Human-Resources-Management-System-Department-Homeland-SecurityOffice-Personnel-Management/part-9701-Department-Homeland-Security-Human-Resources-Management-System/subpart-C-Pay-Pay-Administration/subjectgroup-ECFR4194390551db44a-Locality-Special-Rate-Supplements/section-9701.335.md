@@ -1,0 +1,7 @@
+##### § 9701.335 Eligibility for pay increase associated with a supplement adjustment. #####
+
+(a) When a locality or special rate supplement is adjusted under § 9701.334, an employee to whom the supplement applies is entitled to the pay increase resulting from that adjustment if the employee meets or exceeds performance expectations (*i.e.*, has a rating of record above the unacceptable performance level for the most recently completed appraisal period). This includes an increase resulting from the initial establishment and setting of a special rate supplement. The pay increase takes effect at the same time as the applicable supplement is set or adjusted, except as provided in §§ 9701.336 and 9701.337.
+
+(b) If an employee does not have a rating of record for the most recently completed appraisal period, he or she must be treated in the same manner as an employee who meets or exceeds performance expectations and is entitled to any pay increase associated with a supplement adjustment, as provided in paragraph (a) of this section.
+
+(c) An employee who has an unacceptable rating of record is prohibited from receiving a pay increase as a result of an increase in an applicable locality or special rate supplement, except as provided by §§ 9701.336 and 9701.337. Because the employee's pay remains unchanged, failure to receive a pay increase is not considered an adverse action under subpart F of this part.

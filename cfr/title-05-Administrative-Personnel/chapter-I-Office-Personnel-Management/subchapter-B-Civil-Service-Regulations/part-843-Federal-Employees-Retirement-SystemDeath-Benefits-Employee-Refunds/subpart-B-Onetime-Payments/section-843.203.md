@@ -1,0 +1,7 @@
+##### § 843.203 Eligibility for a one-time payment upon death of an employee, separated employee, or retiree if no one is eligible for an annuity. #####
+
+(a) If there is no survivor who is entitled to monthly survivor annuity benefits on the death of an employee, separated employee, retiree, or survivor annuitant, the unexpended balance is payable, except as provided in section 3716 of title 31, United States Code, on administrative offset for Government claims, to the person(s) entitled in the normal order of precedence described in section 8424 of title 5, United States Code.
+
+(b) If a deceased employee, separated employee, retiree or Member provided in a valid designation of beneficiary that the lump sum proceeds shall be payable to the deceased's estate, or to the Executor, Administrator, or other representative of the deceased's estate, or if the proceeds would otherwise be properly payable to the duly appointed representative of the deceased's estate under the order of precedence specified in 5 U.S.C. 8424(d), payment of the proceeds to the duly appointed representative of the deceased's estate will bar recovery by any other person.
+
+[52 FR 2074, Jan. 16, 1987, as amended at 57 FR 29784, July 7, 1992]

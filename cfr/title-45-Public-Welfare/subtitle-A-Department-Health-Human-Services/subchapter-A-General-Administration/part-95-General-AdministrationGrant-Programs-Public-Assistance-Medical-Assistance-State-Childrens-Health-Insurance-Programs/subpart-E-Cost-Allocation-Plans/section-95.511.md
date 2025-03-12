@@ -1,0 +1,5 @@
+##### § 95.511 Approval of the cost allocation plan or plan amendment. #####
+
+(a) The Director, DCA, after consulting with the affected Operating Divisions, shall notify the State in writing of his/her findings. This notification will be made within 60 days after receipt of the proposed plan or amendment and shall either: (1) Advise the State that the plan or plan amendment is approved or disapproved, (2) advise the State of the changes required to make the plan or amendment acceptable, or (3) request the State to provide additional information needed to evaluate the proposed plan or amendment. If the DCA cannot make a determination within the 60-day period, it shall so advise the State.
+
+(b) For purpose of this subpart, State agency cost allocation plans which have been approved by an authorized official of the Department of HHS prior to the effective date of this regulation are considered approved until such time as a new plan or plan amendment is required by § 95.509(a).

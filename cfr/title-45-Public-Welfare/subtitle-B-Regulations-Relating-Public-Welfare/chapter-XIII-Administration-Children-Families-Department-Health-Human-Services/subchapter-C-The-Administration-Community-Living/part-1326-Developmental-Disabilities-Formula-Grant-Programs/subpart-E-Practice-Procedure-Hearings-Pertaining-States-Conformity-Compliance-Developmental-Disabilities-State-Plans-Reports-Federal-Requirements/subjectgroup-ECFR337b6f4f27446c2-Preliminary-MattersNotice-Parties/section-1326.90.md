@@ -1,0 +1,3 @@
+##### § 1326.90 Notice of hearing or opportunity for hearing. #####
+
+Proceedings are commenced by mailing a notice of hearing or opportunity for hearing from the Secretary, or his or her designee, to the State Council on Developmental Disabilities and the Designated State Agency, or to the State Protection and Advocacy System or designating official. The notice must state the time and place for the hearing and the issues that will be considered. The notice must be published in the Federal Register.

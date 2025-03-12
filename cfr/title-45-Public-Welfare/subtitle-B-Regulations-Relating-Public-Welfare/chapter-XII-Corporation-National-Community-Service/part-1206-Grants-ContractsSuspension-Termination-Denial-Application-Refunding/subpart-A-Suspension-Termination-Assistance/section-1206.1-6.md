@@ -1,0 +1,3 @@
+##### § 1206.1-6 Time and place of termination hearings. #####
+
+The termination hearing shall be held in Washington, DC, or in the appropriate Service Center or Corporation State Office, at a time and place fixed by the responsible Corporation official unless he determines that for the convenience of the Corporation, or of the parties or their representatives, requires that another place be selected.

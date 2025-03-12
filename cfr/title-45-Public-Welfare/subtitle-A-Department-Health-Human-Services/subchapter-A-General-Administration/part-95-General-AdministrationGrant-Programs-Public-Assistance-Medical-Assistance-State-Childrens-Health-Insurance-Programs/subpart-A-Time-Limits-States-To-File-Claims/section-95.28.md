@@ -1,0 +1,3 @@
+##### § 95.28 What a waiver request for good cause must include. #####
+
+The State's request for waiver must include a specific explanation, justification or documentation of why the claim is or will be late. This request must establish that the lateness in filing the claim is for good cause as defined in § 95.22 and not due to neglect or administrative inadequacy. If the claim has not been filed, the State must also tell us when the claim will be filed.

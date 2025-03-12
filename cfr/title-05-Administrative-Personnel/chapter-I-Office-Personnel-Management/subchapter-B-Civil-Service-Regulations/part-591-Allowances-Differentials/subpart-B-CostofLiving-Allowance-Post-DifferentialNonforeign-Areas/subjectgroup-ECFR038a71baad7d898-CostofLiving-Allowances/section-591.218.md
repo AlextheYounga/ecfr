@@ -1,0 +1,3 @@
+##### § 591.218 How does OPM compute price indexes? #####
+
+Except for shelter and energy utilities, OPM averages by item the prices collected in each survey area. For the Washington, DC, area, OPM computes a simple average for each item based on the average prices from each DC survey area. On an item-by-item basis, OPM divides the COLA survey area average price by the DC average price and produces a price index.

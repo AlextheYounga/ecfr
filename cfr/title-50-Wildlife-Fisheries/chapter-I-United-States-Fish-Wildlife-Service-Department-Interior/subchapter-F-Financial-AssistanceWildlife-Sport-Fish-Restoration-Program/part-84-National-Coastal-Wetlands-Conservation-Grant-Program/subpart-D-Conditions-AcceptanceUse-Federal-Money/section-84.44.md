@@ -1,0 +1,3 @@
+##### § 84.44 What is the timetable for the use of grant money? #####
+
+Once money is granted to the coastal States, the money is available to those States for the time designated in the grant agreement. If a State needs more time, the State must apply for an extension of time by amending the grant agreement. If the Service does not extend the time, the unobligated monies return to the Service for expenditure on future grants. Also, if a State cannot spend the money on the approved project, the State must notify the appropriate Regional Director as soon as possible so that the money can revert back to the Service for future grants.

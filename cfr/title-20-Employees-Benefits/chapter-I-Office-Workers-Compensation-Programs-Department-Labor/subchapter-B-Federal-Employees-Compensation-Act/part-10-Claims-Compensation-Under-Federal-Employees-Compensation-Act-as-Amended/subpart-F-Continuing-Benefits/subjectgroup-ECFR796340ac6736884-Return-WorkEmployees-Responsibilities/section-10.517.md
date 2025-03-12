@@ -1,0 +1,5 @@
+##### § 10.517 What are the penalties for refusing to accept a suitable job offer? #####
+
+(a) 5 U.S.C. 8106(c) provides that a partially disabled employee who refuses to seek suitable work, or refuses to or neglects to work after suitable work is offered to or arranged for him or her, is not entitled to compensation. An employee who refuses or neglects to work after suitable work has been offered or secured for him or her has the burden to show that this refusal or failure to work was reasonable or justified.
+
+(b) After providing the two notices described in § 10.516, OWCP will terminate the employee's entitlement to further compensation under 5 U.S.C. 8105, 8106, and 8107 on all claims where the injury occurred prior to the termination decision, as provided by 5 U.S.C. 8106(c)(2). However, the employee remains entitled to medical benefits as provided by 5 U.S.C. 8103.

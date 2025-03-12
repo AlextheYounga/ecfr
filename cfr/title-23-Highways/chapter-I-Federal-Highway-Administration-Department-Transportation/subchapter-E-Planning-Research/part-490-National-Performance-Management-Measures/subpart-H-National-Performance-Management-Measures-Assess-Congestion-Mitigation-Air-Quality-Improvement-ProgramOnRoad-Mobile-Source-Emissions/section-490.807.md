@@ -1,0 +1,3 @@
+##### § 490.807 National performance management measure for assessing on-road mobile source emissions for the purposes of the Congestion Mitigation and Air Quality Improvement Program. #####
+
+The performance measure for the purpose of carrying out the CMAQ Program and for State DOTs to use to assess on-road mobile source emissions is “Total Emissions Reduction,” which is the 2-year and 4-year cumulative reported emission reductions, for all projects funded by CMAQ funds, of each criteria pollutant and applicable precursors (PM2.5, PM10, CO, VOC, and NOx) under the CMAQ program for which the area is designated nonattainment or maintenance.

@@ -1,0 +1,3 @@
+##### § 200.3 Application of this part. #####
+
+The provisions of this part are applicable to all elements of FHWA and provide requirements and guidelines for State highway agencies to implement the Title VI Program requirements. The related civil rights laws and regulations are listed under § 200.5(p) of this part. Title VI requirements for 23 U.S.C. 402 will be covered under a joint FHWA/NHTSA agreement.

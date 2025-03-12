@@ -1,0 +1,7 @@
+##### § 160.210 Methods for submitting an NOA. #####
+
+(a) *National Vessel Movement Center (NVMC).* Except as otherwise provided in this paragraph or paragraph (b) of this section, vessels must submit NOA information required by § 160.206 to the NVMC using methods currently specified at *www.nvmc.uscg.gov,* which includes submission through the NVMC electronic Notice of Arrival and Departure (eNOAD) World Wide Web site, and XML, which includes the Excel Workbook format. These data may also be submitted using other methods that may be added as future options on *www.nvmc.uscg.gov.* XML spreadsheets may be submitted via email to *enoad@nvmc.uscg.gov.* If a vessel operator must submit an NOA or an update, for a vessel in an area without internet access or when experiencing technical difficulties with an onboard computer, and he or she has no shore-side support available, the vessel operator may fax or phone the submission to the NVMC. Fax at 1-800-547-8724 or 304-264-2684. Workbook available at *www.nvmc.uscg.gov;* or, telephone at 1-800-708-9823 or 304-264-2502.
+
+(b) *Saint Lawrence Seaway.* Those vessels transiting the Saint Lawrence Seaway inbound, bound for a port or place in the United States, may meet the submission requirements of paragraph (a) of this section by submitting the required information to the Saint Lawrence Seaway Development Corporation and the Saint Lawrence Seaway Management Corporation of Canada using methods specified at *www.nvmc.uscg.gov.*
+
+[USCG-2005-21869, 80 FR 5333, Jan. 30, 2015]

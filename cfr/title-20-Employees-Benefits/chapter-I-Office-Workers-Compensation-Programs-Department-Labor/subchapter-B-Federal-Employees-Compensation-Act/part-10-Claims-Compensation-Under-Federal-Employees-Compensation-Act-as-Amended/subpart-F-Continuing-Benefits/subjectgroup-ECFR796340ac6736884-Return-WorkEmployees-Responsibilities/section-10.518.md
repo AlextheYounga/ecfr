@@ -1,0 +1,3 @@
+##### § 10.518 Does OWCP provide services to help employees return to work? #####
+
+OWCP may, in its discretion, provide vocational rehabilitation services as authorized by 5 U.S.C. 8104. Vocational rehabilitation services may include vocational evaluation, testing, training, and placement services with either the original employer or a new employer, when the injured employee cannot return to the job held at the time of injury. These services also include functional capacity evaluations, which help to tailor individual rehabilitation programs to employees' physical reconditioning and behavioral modification needs, and help employees to meet the demands of current or potential jobs.

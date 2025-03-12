@@ -1,0 +1,5 @@
+##### § 150.341 Limitations on penalties. #####
+
+(a) *Circumstances under which a civil money penalty is not imposed.* CMS does not impose any civil money penalty on any failure for the period of time during which none of the responsible entities knew, or exercising reasonable diligence would have known, of the failure. CMS also does not impose a civil money penalty for the period of time after any of the responsible entities knew, or exercising reasonable diligence would have known of the failure, if the failure was due to reasonable cause and not due to willful neglect and the failure was corrected within 30 days of the first day that any of the entities against whom the penalty would be imposed knew, or exercising reasonable diligence would have known, that the failure existed.
+
+(b) *Burden of establishing knowledge.* The burden is on the responsible entity or entities to establish to CMS's satisfaction that no responsible entity knew, or exercising reasonable diligence would have known, that the failure existed.

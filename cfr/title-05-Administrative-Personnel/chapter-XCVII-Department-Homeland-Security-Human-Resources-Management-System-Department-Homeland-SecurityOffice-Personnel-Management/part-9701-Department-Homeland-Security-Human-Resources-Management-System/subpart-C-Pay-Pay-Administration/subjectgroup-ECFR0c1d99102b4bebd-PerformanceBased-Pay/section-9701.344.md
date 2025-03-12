@@ -1,0 +1,3 @@
+##### § 9701.344 Special within-band increases. #####
+
+DHS may issue implementing directives regarding special within-band basic pay increases for employees within a Full Performance or higher band established under § 9701.212 who possess exceptional skills in critical areas or who make exceptional contributions to mission accomplishment or in other circumstances determined by DHS. Increases under this section are in addition to any performance pay increases made under § 9701.342 and may be made effective at any time. Special within-band increases may not be based on length of service.

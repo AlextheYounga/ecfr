@@ -1,0 +1,3 @@
+##### § 843.210 Transfers between retirement systems. #####
+
+Transfers of employees' contributions between the Civil Service Retirement Fund and other retirement systems for Federal or District of Columbia employees when made in accordance with Federal statute for the purpose of transferring retirement service credit to the other retirement system are not subject to the notice requirements of this subpart.

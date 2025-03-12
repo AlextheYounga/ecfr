@@ -1,0 +1,3 @@
+##### § 80.53 Are costs of State central services eligible for funding? #####
+
+Administrative costs in the form of overhead or indirect costs for State central services outside of the State fish and wildlife agency are eligible for funding under the Acts and must follow an approved cost allocation plan. These expenses must not exceed 3 percent of the funds apportioned annually to the State under the Acts.

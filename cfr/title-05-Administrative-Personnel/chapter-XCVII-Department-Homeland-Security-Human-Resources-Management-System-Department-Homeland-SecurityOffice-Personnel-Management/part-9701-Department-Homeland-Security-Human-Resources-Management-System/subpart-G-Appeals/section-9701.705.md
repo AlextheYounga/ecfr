@@ -1,0 +1,3 @@
+##### § 9701.705 Alternative dispute resolution. #####
+
+The Department and OPM recognize the value of using alternative dispute resolution methods such as mediation, an ombudsman, or interest-based negotiation to address employee-employer disputes arising in the workplace, including those which may involve disciplinary actions. Such methods can result in more efficient and more effective outcomes than traditional, adversarial methods of dispute resolution. The Department will use alternative dispute resolution methods where appropriate. Such methods will be subject to collective bargaining to the extent permitted by subpart E of this part.

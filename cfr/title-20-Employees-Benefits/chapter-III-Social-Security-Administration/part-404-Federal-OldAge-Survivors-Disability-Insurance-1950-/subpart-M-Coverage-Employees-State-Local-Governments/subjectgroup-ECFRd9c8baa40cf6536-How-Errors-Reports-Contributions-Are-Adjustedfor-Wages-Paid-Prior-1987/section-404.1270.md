@@ -1,0 +1,3 @@
+##### § 404.1270 Adjustments in general—for wages paid prior to 1987. #####
+
+States have the opportunity to adjust errors in the payment of contributions. A State but not its political subdivisions is authorized to adjust errors in the underpayment of contributions. Similarly, the State shall file all claims for credits or refunds and SSA makes the credits and refunds only to the State. Generally, we do not refund contributions in cash to a State unless the State is not expected to have future liability for contributions under section 218 of the Act.

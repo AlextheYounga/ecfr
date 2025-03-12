@@ -1,0 +1,3 @@
+##### § 80.100 Morse code requirement. #####
+
+The code employed for telegraphy must be the Morse code specified in the Telegraph Regulations annexed to the International Telecommunication Convention. Pertinent extracts from the Telegraph Regulations are contained in the “Manual for Use by the Maritime Mobile and Maritime Mobile-Satellite Services” published by the International Telecommunication Union.

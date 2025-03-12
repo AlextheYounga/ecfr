@@ -1,0 +1,3 @@
+##### § 82.1 Scope of regulations. #####
+
+The regulations in this part are issued, pursuant to the authority of the Secretary in section 1380 of the Marine Mammal Protection Act, 16 U.S.C. 1361-1407 (Supp. II 1972), to provide procedures for the submission and review of applications and the award and administration of research grants, or other forms of financial assistance, to Federal or state agencies, public or private institutions, or other persons including any foreign governments for research relevant to the protection and conservation of marine mammals.

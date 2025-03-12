@@ -1,0 +1,3 @@
+##### § 9701.336 Treatment of employees whose pay does not fall below the minimum adjusted rate of their band. #####
+
+An employee who does not receive a pay increase under § 9701.335 because of an unacceptable rating of record and whose rate of basic pay (including a locality or special rate supplement) does not fall below the minimum adjusted rate of his or her band as a result of that rating will receive such an increase if he or she demonstrates performance that meets or exceeds performance expectations, as reflected by a new rating of record issued under § 9701.409(b). Such an increase will be made effective on the first day of the first pay period beginning on or after the date the new rating of record is issued.

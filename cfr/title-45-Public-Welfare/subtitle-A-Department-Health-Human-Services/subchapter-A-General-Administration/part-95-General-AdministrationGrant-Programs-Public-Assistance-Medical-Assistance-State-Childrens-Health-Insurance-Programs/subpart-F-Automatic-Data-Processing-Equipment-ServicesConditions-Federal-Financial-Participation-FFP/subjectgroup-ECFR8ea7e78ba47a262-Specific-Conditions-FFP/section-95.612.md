@@ -1,0 +1,5 @@
+##### § 95.612 Disallowance of Federal Financial Participation (FFP). #####
+
+If the Department finds that any ADP acquisition approved or modified under the provisions of § 95.611 fails to comply with the criteria, requirements, and other activities described in the approved APD to the detriment of the proper, efficient, economical and effective operation of the affected program, payment of FFP may be disallowed. In the case of a suspension of the approval of a Child Support APD for enhanced funding, *see* § 307.40(a). In the case of a suspension of the approval of an APD for a Comprehensive Child Welfare Information System (CCWIS) project and, if applicable the transitional project that preceded it, *see* § 1355.58 of this title.
+
+[75 FR 66339, Oct. 28, 2010, as amended at 81 FR 35479, June 2, 2016]

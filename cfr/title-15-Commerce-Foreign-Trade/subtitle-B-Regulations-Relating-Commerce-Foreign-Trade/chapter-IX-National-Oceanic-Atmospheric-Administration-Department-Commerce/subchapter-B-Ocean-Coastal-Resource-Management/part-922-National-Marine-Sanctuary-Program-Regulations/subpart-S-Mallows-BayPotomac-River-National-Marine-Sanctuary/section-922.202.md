@@ -1,0 +1,3 @@
+##### § 922.202 Joint management. #####
+
+NOAA has primary responsibility for the management of the Sanctuary pursuant to the Act. However, NOAA shall co-manage the Sanctuary in collaboration with the State of Maryland and Charles County. The Director shall enter into a Memorandum of Agreement regarding this collaboration that shall address, but not be limited to, such aspects as areas of mutual concern, including Sanctuary programs, permitting, activities, development, and threats to Sanctuary resources.

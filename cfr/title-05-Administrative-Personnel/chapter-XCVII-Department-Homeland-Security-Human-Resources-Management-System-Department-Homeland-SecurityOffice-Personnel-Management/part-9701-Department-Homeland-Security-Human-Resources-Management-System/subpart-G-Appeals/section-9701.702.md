@@ -1,0 +1,3 @@
+##### § 9701.702 Waivers. #####
+
+When a specified category of employees is covered by an appeals system established under this subpart, the provisions of 5 U.S.C. 7701 are waived with respect to that category of employees to the extent they are inconsistent with the provisions of this subpart. The provisions of 5 U.S.C. 7702 are modified as provided in § 9701.709 to use “MSPB or MRP” wherever the terms “Merit Systems Protection Board” or “Board” occur. The appellate procedures specified herein supersede those of MSPB to the extent MSPB regulations are inconsistent with this subpart. MSPB must follow the provisions in this subpart until conforming regulations are issued by MSPB.

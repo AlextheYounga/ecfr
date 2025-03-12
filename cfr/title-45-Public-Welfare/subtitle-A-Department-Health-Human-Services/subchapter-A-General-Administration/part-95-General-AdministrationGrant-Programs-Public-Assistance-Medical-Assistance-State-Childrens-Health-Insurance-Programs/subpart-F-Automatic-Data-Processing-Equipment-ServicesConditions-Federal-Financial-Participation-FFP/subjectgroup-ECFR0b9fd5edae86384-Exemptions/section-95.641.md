@@ -1,0 +1,3 @@
+##### § 95.641 Applicability of rules for charging equipment in subpart G of this part. #####
+
+ADP equipment, as well as other equipment acquired under public assistance programs, is subject to subpart G of this part. Among other things, subpart G provides that a State may charge only depreciation or use allowances for equipment with unit acquisition cost of over $25,000. However, for ADP equipment HHS will consider requests for waivers of that restriction. If the acquisition of the equipment is part of an APD that is subject to the prior approval requirements of subpart F, the State may submit the request for a waiver as part of the APD.

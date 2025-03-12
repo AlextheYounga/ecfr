@@ -1,0 +1,5 @@
+##### § 178.101 Scope of subpart. #####
+
+(a) *Claims covered.* This subpart prescribes general procedures applicable to claims against the United States that may be settled by the Director of the Office of Personnel Management pursuant to 31 U.S.C. 3702, 5 U.S.C. 5583 and 38 U.S.C. 5122. In general, these claims involve Federal employees' compensation and leave and claims for proceeds of canceled checks for veterans' benefits payable to deceased beneficiaries.
+
+(b) *Claims not covered.* This subpart does not apply to claims that are under the exclusive jurisdiction of administrative agencies pursuant to specific statutory authority or claims concerning matters that are subject to negotiated grievance procedures under collective bargaining agreements entered into pursuant to 5 U.S.C. 7121(a). Also, these procedures do not apply to claims under the Fair Labor Standards Act (FLSA). Procedures for FLSA claims are set out in part 551 of this chapter.
