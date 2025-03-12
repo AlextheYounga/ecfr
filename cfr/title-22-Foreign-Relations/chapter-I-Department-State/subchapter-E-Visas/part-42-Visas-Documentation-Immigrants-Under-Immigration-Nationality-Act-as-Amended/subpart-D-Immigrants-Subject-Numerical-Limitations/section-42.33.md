@@ -1,6 +1,6 @@
 ##### § 42.33 Diversity immigrants. #####
 
-(a) *General* - (1) *Eligibility to compete for consideration under section 203(c).* An alien will be eligible to compete for consideration for visa issuance under INA 203(c) during a fiscal year only if he or she is a native of a low-admission foreign state, as determined by the Secretary of Homeland Security pursuant to INA 203(c)(1)(E), with respect to the fiscal year in question; and if he or she has at least a high school education or its equivalent or, within the five years preceding the date of application for a visa, has two years of work experience in an occupation requiring at least two years training or experience. The eligibility for a visa under INA 203(c) ceases at the end of the fiscal year in question. Under no circumstances may a consular officer issue a visa or other documentation to an alien after the end of the fiscal year during which an alien possesses diversity visa eligibility.
+(a) *General*—(1) *Eligibility to compete for consideration under section 203(c).* An alien will be eligible to compete for consideration for visa issuance under INA 203(c) during a fiscal year only if he or she is a native of a low-admission foreign state, as determined by the Secretary of Homeland Security pursuant to INA 203(c)(1)(E), with respect to the fiscal year in question; and if he or she has at least a high school education or its equivalent or, within the five years preceding the date of application for a visa, has two years of work experience in an occupation requiring at least two years training or experience. The eligibility for a visa under INA 203(c) ceases at the end of the fiscal year in question. Under no circumstances may a consular officer issue a visa or other documentation to an alien after the end of the fiscal year during which an alien possesses diversity visa eligibility.
 
 (2) *Definition of high school education or its equivalent.* For the purposes of this section, the phrase high school education or its equivalent means the successful completion of a twelve-year course of elementary and secondary education in the United States or successful completion in another country of a formal course of elementary and secondary education comparable to completion of twelve years' elementary and secondary education in the United States.
 
@@ -26,11 +26,7 @@
 
 (vi) A current mailing address for the petitioner;
 
-(vii) The location of the consular office nearest to the petitioner's current residence or, if in the United States, nearest to the petitioner's last foreign residence prior to entry into the United States;
-
-(viii) The unique serial or issuance number associated with the petitioner's valid, unexpired passport, country or authority of passport issuance, and expiration date, unless the petitioner would be exempt from the passport requirement pursuant to 22 CFR 42.2(d), (e), or (g)(2).
-
-(ix) Failure to accurately include any information or documents required by paragraphs (b)(1)(i) through (viii) or paragraph (b)(2) of this section will result in disqualification of the entry for that fiscal year.
+(vii) The location of the consular office nearest to the petitioner's current residence or, if in the United States, nearest to the petitioner's last foreign residence prior to entry into the United States.
 
 (2) *Requirements for photographs.* The petition will also require inclusion of a photograph of the petitioner and of his or her spouse and all unmarried children under the age of 21 years. The photographs must meet the following specifications:
 
@@ -82,4 +78,4 @@
 
 (i) *Diversity Visa Lottery fee.* Consular officers shall collect, or ensure the collection of, the Diversity Visa Lottery fee from those persons who apply for a diversity immigrant visa, described in INA 203(c), after being selected by the diversity visa lottery program. The Diversity Visa Lottery fee, as prescribed by the Secretary of State, is set forth in the Schedule of Fees, 22 CFR 22.1.
 
-[68 FR 49355, Aug. 18, 2003, as amended at 73 FR 7670, Feb. 11, 2008; 77 FR 18914, Mar. 29, 2012; 81 FR 63695, Sept. 16, 2016; 84 FR 25991, June 5, 2019]
+[68 FR 49355, Aug. 18, 2003, as amended at 73 FR 7670, Feb. 11, 2008; 77 FR 18914, Mar. 29, 2012; 81 FR 63695, Sept. 16, 2016; 84 FR 25991, June 5, 2019; 87 FR 35415, June 10, 2022]

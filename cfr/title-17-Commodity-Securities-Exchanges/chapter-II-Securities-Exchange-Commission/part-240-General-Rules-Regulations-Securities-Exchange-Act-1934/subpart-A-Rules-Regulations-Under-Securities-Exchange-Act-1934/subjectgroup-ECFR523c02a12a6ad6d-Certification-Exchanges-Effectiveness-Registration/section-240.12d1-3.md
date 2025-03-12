@@ -1,5 +1,7 @@
 ##### § 240.12d1-3 Requirements as to certification. #####
 
+Link to an amendment published at 87 FR 35413, June 10, 2022.
+
 (a) Certification that a security has been approved by an exchange for listing and registration pursuant to section 12(d) of the act and § 240.12d1-1 shall be made by the governing committee or other corresponding authority of the exchange.
 
 (b) The certification shall specify (1) the approval of the exchange for listing and registration; (2) the title of the security so approved; (3) the date of filing with the exchange of the application for registration and of any amendments thereto; and (4) any conditions imposed on such certification. The exchange shall promptly notify the Commission of the partial or complete satisfaction of any such conditions.

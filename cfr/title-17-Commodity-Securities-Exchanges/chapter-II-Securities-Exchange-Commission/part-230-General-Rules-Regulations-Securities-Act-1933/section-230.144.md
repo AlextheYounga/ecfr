@@ -1,6 +1,6 @@
 ##### § 230.144 Persons deemed not to be engaged in a distribution and therefore not underwriters. #####
 
-Preliminary Note:
+Link to an amendment published at 87 FR 35409, June 10, 2022.Preliminary Note:
 
 Certain basic principles are essential to an understanding of the registration requirements in the Securities Act of 1933 (the Act or the Securities Act) and the purposes underlying Rule 144:
 

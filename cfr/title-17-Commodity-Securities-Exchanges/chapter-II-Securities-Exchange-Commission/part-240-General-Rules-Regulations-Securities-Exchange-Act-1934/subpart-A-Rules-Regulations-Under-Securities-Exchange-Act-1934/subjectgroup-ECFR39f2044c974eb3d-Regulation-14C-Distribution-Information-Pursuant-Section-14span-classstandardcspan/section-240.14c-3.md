@@ -1,5 +1,7 @@
 ##### § 240.14c-3 Annual report to be furnished security holders. #####
 
+Link to an amendment published at 87 FR 35413, June 10, 2022.
+
 (a) If the information statement relates to an annual (or special meeting in lieu of the annual) meeting, or written consent in lieu of such meeting, of security holders at which directors of the registrant, other than an investment company registered under the Investment Company Act of 1940, are to be elected, it shall be accompanied or preceded by an annual report to security holders:
 
 (1) The annual report to security holders shall contain the information specified in paragraphs (b)(1) through (b)(11) of § 240.14a-3.

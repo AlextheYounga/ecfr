@@ -1,6 +1,6 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 86 FR 4844, Jan. 15, 2021.Link to an amendment published at 86 FR 67360, Nov. 26, 2021.
+Link to an amendment published at 87 FR 35456, June 10, 2022.
 
 (a) *Flowering plants.*
 
@@ -338,7 +338,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.154.gif)Family Asteraceae: *Ambrosia pumila* (San Diego ambrosia).
+![](/graphics/ec01jn91.154.gif)Family Asteraceae: *Ambrosia pumila* (San Diego ambrosia)
 
 (1) Critical habitat units are depicted for Riverside and San Diego Counties, California, on the maps below.
 
@@ -860,7 +860,7 @@ From USGS 1:24,000 scale quadrangle map Casmalia.
 
 (i) From USGS 1:24,000 quadrangle maps Santa Rosa Hills and Sacate, lands bounded by the following UTM zone 10 NAD83 coordinates (E,N): 747710, 3821530; 747708, 3821520; 747676, 3821490; 747651, 3821470; 747601, 3821430; 747545, 3821390; 747491, 3821350; 747409, 3821330; 747383, 3821320; 747323, 3821300; 747288, 3821300; 747240, 3821300; 747204, 3821310; 747150, 3821330; 747123, 3821340; 747104, 3821350; 747051, 3821380; 747023, 3821380; 746956, 3821370; 746929, 3821340; 746918, 3821330; 746903, 3821290; 746900, 3821270; 746909, 3821240; 746925, 3821220; 746945, 3821200; 746980, 3821180; 746998, 3821150; 747011, 3821140; 747023, 3821130; 747042, 3821120; 747072, 3821090; 747081, 3821080; 747092, 3821050; 747102, 3820980; 747108, 3820960; 747124, 3820950; 747134, 3820940; 747194, 3820930; 747216, 3820900; 747220, 3820890; 747230, 3820860; 747231, 3820820; 747257, 3820730; 747344, 3820660; 747492, 3820540; 747783, 3820400; 747831, 3820350; 747902, 3820290; 747931, 3820270; 747964, 3820290; 748102, 3820440; 748147, 3820460; 748170, 3820470; 748195, 3820490; 748232, 3820520; 748257, 3820540; 748280, 3820550; 748291, 3820550; 748302, 3820560; 748327, 3820560; 748414, 3820560; 748453, 3820560; 748519, 3820590; 748575, 3820620; 748619, 3820630; 748688, 3820640; 748735, 3820650; 748763, 3820670; 748818, 3820700; 748851, 3820700; 748954, 3820700; 749061, 3820700; 749095, 3820700; 749112, 3820710; 749147, 3820720; 749226, 3820770; 749243, 3820780; 749266, 3820790; 749372, 3820810; 749400, 3820820; 749469, 3820860; 749504, 3820870; 749523, 3820880; 749552, 3820880; 749571, 3820870; 749603, 3820870; 749628, 3820870; 749660, 3820880; 749701, 3820900; 749744, 3820910; 749769, 3820910; 749821, 3820900; 749835, 3820900; 749872, 3820910; 749904, 3820930; 749930, 3820930; 749955, 3820930; 749978, 3820930; 749993, 3820920; 750000, 3820910; 750004, 3820890; 749997, 3820860; 749973, 3820830; 749923, 3820800; 749904, 3820790; 749855, 3820770; 749775, 3820760; 749715, 3820760; 749636, 3820760; 749603, 3820750; 749530, 3820730; 749517, 3820720; 749505, 3820710; 749493, 3820690; 749501, 3820660; 749503, 3820630; 749496, 3820600; 749487, 3820570; 749462, 3820540; 749453, 3820540; 749438, 3820530; 749461, 3820510; 749484, 3820500; 749507, 3820490; 749537, 3820490; 749572, 3820500; 749579, 3820500; 749796, 3820530; 749832, 3820540; 749862, 3820550; 749929, 3820570; 749949, 3820570; 749966, 3820580; 749989, 3820580; 750012, 3820590; 750089, 3820610; 750158, 3820640; 750184, 3820650; 750247, 3820680; 750281, 3820680; 750303, 3820680; 750372, 3820690; 750384, 3820700; 750439, 3820700; 750562, 3820750; 750616, 3820770; 750713, 3820810; 750817, 3820820; 750846, 3820830; 750863, 3820840; 750913, 3820880; 750979, 3820920; 751051, 3820980; 751112, 3820970; 751231, 3820960; 751357, 3820950; 751454, 3820940; 751527, 3820930; 751526, 3820920; 751511, 3820900; 751475, 3820850; 751439, 3820820; 751394, 3820800; 751365, 3820770; 751308, 3820700; 751281, 3820680; 751240, 3820660; 751221, 3820640; 751199, 3820600; 751187, 3820590; 751180, 3820580; 751160, 3820570; 751128, 3820570; 751117, 3820570; 751117, 3820580; 751132, 3820620; 751136, 3820650; 751136, 3820670; 751128, 3820700; 751110, 3820720; 751088, 3820720; 751079, 3820720; 751072, 3820710; 751063, 3820700; 751051, 3820680; 751045, 3820630; 751037, 3820610; 751020, 3820580; 750988, 3820520; 750974, 3820490; 750963, 3820490; 750862, 3820490; 750796, 3820490; 750753, 3820470; 750731, 3820450; 750710, 3820430; 750682, 3820410; 750664, 3820400; 750627, 3820400; 750555, 3820400; 750536, 3820390; 750509, 3820360; 750492, 3820350; 750473, 3820350; 750447, 3820340; 750440, 3820340; 750379, 3820330; 750282, 3820340; 750250, 3820340; 750223, 3820330; 750193, 3820310; 750158, 3820280; 750133, 3820270; 750092, 3820250; 750071, 3820240; 750048, 3820240; 750041, 3820230; 750006, 3820230; 749986, 3820230; 749952, 3820230; 749894, 3820250; 749817, 3820250; 749801, 3820250; 749762, 3820230; 749707, 3820230; 749675, 3820230; 749618, 3820240; 749569, 3820240; 749519, 3820240; 749496, 3820230; 749437, 3820200; 749399, 3820190; 749341, 3820180; 749290, 3820160; 749260, 3820150; 749099, 3820140; 749049, 3820130; 749011, 3820120; 748982, 3820110; 748938, 3820100; 748865, 3820100; 748821, 3820100; 748769, 3820120; 748730, 3820130; 748701, 3820140; 748687, 3820130; 748627, 3820110; 748581, 3820090; 748546, 3820080; 748405, 3820070; 748383, 3820080; 748312, 3820060; 748253, 3820050; 748154, 3820000; 748104, 3819990; 748028, 3819980; 747992, 3819970; 747956, 3819940; 747893, 3819900; 747769, 3819840; 747743, 3819840; 747709, 3819860; 747678, 3819920; 747637, 3820020; 747587, 3820130; 747517, 3820240; 747435, 3820300; 747375, 3820310; 747303, 3820310; 747192, 3820300; 747186, 3820290; 747106, 3820280; 747099, 3820280; 747069, 3820270; 746957, 3820260; 746946, 3820250; 746934, 3820240; 746925, 3820220; 746929, 3820190; 746939, 3820150; 746934, 3820120; 746913, 3820090; 746895, 3820080; 746824, 3820060; 746808, 3820060; 746784, 3820010; 746775, 3820000; 746766, 3820000; 746732, 3819990; 746725, 3819990; 746679, 3819980; 746663, 3819990; 746615, 3819980; 746602, 3819980; 746588, 3819980; 746575, 3819990; 746548, 3820010; 746512, 3820040; 746477, 3820040; 746431, 3820030; 746422, 3820030; 746369, 3820010; 746299, 3820000; 746264, 3820010; 746246, 3820010; 746218, 3820020; 746211, 3820020; 746163, 3820020; 746149, 3820020; 746133, 3820010; 746095, 3819970; 746083, 3819960; 746061, 3819960; 746055, 3819950; 746026, 3819960; 746009, 3819960; 745999, 3819970; 745982, 3819990; 745948, 3820070; 745937, 3820100; 745935, 3820120; 745945, 3820160; 745956, 3820170; 745993, 3820210; 746037, 3820230; 746052, 3820240; 746062, 3820250; 746133, 3820300; 746166, 3820310; 746196, 3820330; 746236, 3820330; 746263, 3820330; 746287, 3820330; 746322, 3820320; 746393, 3820310; 746405, 3820310; 746414, 3820320; 746424, 3820330; 746428, 3820340; 746430, 3820400; 746426, 3820400; 746417, 3820430; 746397, 3820460; 746372, 3820490; 746349, 3820500; 746332, 3820510; 746312, 3820530; 746274, 3820570; 746248, 3820590; 746230, 3820610; 746212, 3820620; 746163, 3820630; 746109, 3820630; 746091, 3820630; 746076, 3820620; 746053, 3820600; 746002, 3820540; 745988, 3820530; 745975, 3820520; 745909, 3820500; 745788, 3820490; 745755, 3820480; 745708, 3820450; 745610, 3820390; 745574, 3820360; 745531, 3820330; 745439, 3820290; 745426, 3820280; 745412, 3820260; 745398, 3820220; 745385, 3820200; 745359, 3820160; 745342, 3820150; 745264, 3820110; 745221, 3820080; 745194, 3820060; 745171, 3820050; 745162, 3820050; 745084, 3820060; 745047, 3820050; 744936, 3819990; 744905, 3819980; 744861, 3819950; 744835, 3819950; 744777, 3819920; 744735, 3819900; 744710, 3819900; 744657, 3819880; 744623, 3819860; 744601, 3819850; 744571, 3819840; 744564, 3819840; 744491, 3819840; 744417, 3819840; 744390, 3819830; 744322, 3819810; 744251, 3819800; 744196, 3819800; 744182, 3819790; 744151, 3819780; 744114, 3819780; 744079, 3819790; 744047, 3819800; 743990, 3819800; 743937, 3819800; 743889, 3819860; 743826, 3819960; 743779, 3819990; 743727, 3820040; 743686, 3820090; 743644, 3820130; 743636, 3820170; 743695, 3820200; 743722, 3820210; 743728, 3820210; 743765, 3820220; 743789, 3820230; 743915, 3820270; 744011, 3820290; 744069, 3820310; 744084, 3820320; 744211, 3820370; 744227, 3820370; 744261, 3820370; 744279, 3820360; 744312, 3820350; 744385, 3820310; 744408, 3820300; 744427, 3820300; 744509, 3820310; 744566, 3820300; 744600, 3820310; 744613, 3820310; 744626, 3820330; 744623, 3820390; 744627, 3820410; 744637, 3820420; 744670, 3820450; 744685, 3820460; 744716, 3820490; 744745, 3820510; 744777, 3820530; 744799, 3820510; 744804, 3820500; 744807, 3820480; 744803, 3820460; 744790, 3820430; 744779, 3820420; 744770, 3820390; 744779, 3820370; 744801, 3820350; 744864, 3820330; 744905, 3820320; 744972, 3820320; 745028, 3820310; 745135, 3820280; 745158, 3820280; 745180, 3820290; 745194, 3820300; 745217, 3820360; 745251, 3820400; 745255, 3820430; 745259, 3820490; 745268, 3820560; 745286, 3820620; 745283, 3820650; 745271, 3820660; 745253, 3820660; 745226, 3820650; 745142, 3820600; 745123, 3820590; 745100, 3820590; 745073, 3820580; 745063, 3820580; 745049, 3820590; 745051, 3820620; 745062, 3820630; 745084, 3820650; 745133, 3820660; 745150, 3820670; 745182, 3820700; 745208, 3820710; 745288, 3820720; 745325, 3820730; 745336, 3820730; 745364, 3820740; 745403, 3820770; 745431, 3820790; 745449, 3820800; 745496, 3820810; 745511, 3820820; 745534, 3820840; 745548, 3820860; 745578, 3820870; 745751, 3820870; 745803, 3820880; 745829, 3820890; 745845, 3820910; 745858, 3820940; 745863, 3820960; 745890, 3821020; 745916, 3821060; 745944, 3821080; 746103, 3821120; 746154, 3821140; 746180, 3821160; 746198, 3821230; 746218, 3821250; 746237, 3821260; 746278, 3821260; 746308, 3821270; 746324, 3821270; 746375, 3821270; 746457, 3821250; 746488, 3821240; 746514, 3821230; 746519, 3821230; 746536, 3821220; 746550, 3821230; 746591, 3821270; 746623, 3821290; 746636, 3821300; 746665, 3821310; 746691, 3821330; 746719, 3821370; 746733, 3821390; 746772, 3821460; 746857, 3821540; 746868, 3821540; 746894, 3821550; 746969, 3821550; 746986, 3821550; 747014, 3821560; 747062, 3821580; 747092, 3821600; 747145, 3821600; 747181, 3821600; 747194, 3821590; 747266, 3821540; 747285, 3821530; 747315, 3821530; 747344, 3821530; 747377, 3821530; 747397, 3821550; 747399, 3821550; 747428, 3821590; 747710, 3821530.
 
-Family Asteraceae: *Enceliopsis nudicaulis* var. *corrugata* (Ash Meadows sunray).
+Family Asteraceae: *Enceliopsis nudicaulis* var. *corrugata* (Ash Meadows sunray)
 
 Nevada, Nye County, Ash Meadows: SW1/4SE1/4 sec. 15, SW1/4NE1/4 and W1/2SE1/4 sec. 21, NW1/4NE1/4 sec. 22, E1/2SE1/4 sec. 34, SW1/4NE1/4, S1/2NW1/4, SW1/4, and W1/2SE1/4 sec. 35, T17S R50E. SE1/4 sec. 20, T17S, R51E. NW1/4, SW1/4, and W1/2SE1/4 sec. 1, E1/2NE1/4, SW1/4NW1/4, NW1/4SW1/4, and E1/2SE1/4 sec. 2, NE1/4NW1/4S. 12, E1/2SW1/4 and W1/2SE1/4 sec. 13, T18S, R50E. SW1/4SE1/4 sec. 7, NW1/4NE1/4 and SE1/4SW1/4 sec. 18, T18S, R51E.
 
@@ -868,9 +868,9 @@ Known primary constituent elements include dry washes or whitish saline soil ass
 
 Note:
 
-NOTE: Map provided is for informational purposes only. Map follows:
+Map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.155.gif)Family Asteraceae: *Erigeron decumbens* var. *decumbens* (Willamette daisy).
+![](/graphics/ec01jn91.155.gif)Family Asteraceae: *Erigeron decumbens* var. *decumbens* (Willamette daisy)
 
 (1) Critical habitat units are depicted for Benton, Lane, Linn, Marion, and Polk Counties, Oregon, on the maps below.
 
@@ -1030,7 +1030,7 @@ NOTE: Map provided is for informational purposes only. Map follows:
 
 (xxvii) Note:*Erigeron parishii* map follows.
 
-![](/graphics/er24de02.001.gif)Family Asteraceae: *Grindelia fraxino-pratensis* (Ash Meadows gumplant).
+![](/graphics/er24de02.001.gif)Family Asteraceae: *Grindelia fraxino-pratensis* (Ash Meadows gumplant)
 
 California, Inyo County, Ash Meadows: NE1/4, E1/2NW1/4, SW1/4NW1/4, N1/2SW1/4, and NW1/4SE1/4 sec. 30, T26N, R6E.
 
@@ -1332,7 +1332,7 @@ From USGS 1:24,000 quadrangle map Soquel. Lands bounded by the following UTM zon
 
 (iii) Note: Unit 8 (Map 5) follows:
 
-![](/graphics/er10fe06.054.gif)Family Asteraceae: *Packera franciscana* (San Francisco Peaks ragwort).
+![](/graphics/er10fe06.054.gif)Family Asteraceae: *Packera franciscana* (San Francisco Peaks ragwort)
 
 *Arizona:* Coconino County; Coconino National Forest, Agassiz Peak and Humphreys Peak, T22N, R7E, N1/2 of NW1/4 Sec. 5; T23N, R7E, W1/2 Section 32 and W1/2 Section 29. Primary constituent elements are the loose cinder talus slopes of the alpine tundra system of the San Francisco Peaks and absence of disturbance and damage from hikers.
 
@@ -1490,7 +1490,7 @@ The reference to “groundsel” on the map is equivalent to “ragwort.” Map 
 
 (ii) Unit 7 for *Pentachaeta lyonii* is depicted on Map 3, which follows:
 
-![](/graphics/er14no06.002.gif)Family Asteraceae: *Stephanomeria malheurensis* (Malheur wire-lettuce).
+![](/graphics/er14no06.002.gif)Family Asteraceae: *Stephanomeria malheurensis* (Malheur wire-lettuce)
 
 Oregon, Harney County; the lands west of State Highway 205 within the SE1/4 of the NE1/4 and the NE1/4 of the SE1/4, Section 11; and the W1/2 of the SW1/4 of the NW1/4, and the SW1/4 of the NE1/4 of the SW1/4, and the NW1/4 of the SW1/4, Section 12, T27S, R30E, Willamette Meridian.
 
@@ -1628,9 +1628,7 @@ Family Asteraceae: *Yermo xanthocephalus* (Desert yellowhead)
 
 (iii) Note: Map of Unit 1 follows:
 
-![](/graphics/er13fe08.000.gif)
-
-Family Boraginaceae: *Amsinckia grandiflora* (large-flowered fiddleneck)
+![](/graphics/er13fe08.000.gif)Family Boraginaceae: *Amsinckia grandiflora* (large-flowered fiddleneck)
 
 California, San Joaquin County, Mount Diablo Meridian, T3S R4E Section 28 W1/2 NW1/4 and W1/2 SW1/4.
 
@@ -2876,7 +2874,7 @@ Family Cactaceae: *Harrisia aboriginum* (aboriginal prickly-apple)
 
 Pursuant to section 4(b)(2) of the Act, we have excluded all areas determined to meet the definition of critical habitat under section 3(5)(A) of the Act for *Atriplex coronata* var. *notatior.* Therefore, no specific areas are designated as critical habitat for this species.
 
-Family Chenopodiaceae: *Nitrophila mohavensis* (Amargosa niterwort).
+Family Chenopodiaceae: *Nitrophila mohavensis* (Amargosa niterwort)
 
 California, Inyo County, Ash Meadows: W1/2 sec. 5, E1/2 sec. 6, NE1/4 and E1/2NW1/4 sec. 7, NW1/4 sec. 8, T25N, R6E.
 
@@ -4130,9 +4128,9 @@ Map provided is for informational purposes only. Map follows:
 
 Primary constituent elements of critical habitat are appropriate soil type, climate, protection from grazing damage, protection from aggressive exotic weeds, and presence of suitable pollinators.
 
-Family Malvaceae: *Sidalcea keckii* (Keck's checkermallow). The maps provided are for informational purposes only.
+Family Malvaceae: *Sidalcea keckii* (Keck's checkermallow)
 
-(1) Critical habitat units are depicted for Fresno and Tulare Counties, California, on the maps below.
+(1) Critical habitat units are depicted for Fresno and Tulare Counties, California, on the maps below. The maps provided are for informational purposes only.
 
 (2) The primary constituent elements of critical habitat for *Sidalcea keckii* are the habitat components that provide:
 
@@ -4170,7 +4168,7 @@ Family Malvaceae: *Sidalcea keckii* (Keck's checkermallow). The maps provided ar
 
 (ii) Note: Unit 3 map follows:
 
-![](/graphics/er18mr03.111.gif)Family Malvaceae: *Sidalcea oregana* var. *calva* (Wenatchee Mountains checker-mallow).
+![](/graphics/er18mr03.111.gif)Family Malvaceae: *Sidalcea oregana* var. *calva* (Wenatchee Mountains checker-mallow)
 
 (1) Critical habitat unit is depicted for Chelan County, Washington, on the map below. The map provided is for informational purposes only.
 
@@ -4446,9 +4444,7 @@ Map provided is for informational purposes only. Map follows:
 
 (v) Note: Map of Units CACI 21, CACI 22, CACI 23, and CACI 24 (Map 11) follows:
 
-![](/graphics/er26de07.020.gif)
-
-Family Phrymaceae: *Diplacus vandenbergensis* (Vandenberg monkeyflower)
+![](/graphics/er26de07.020.gif)Family Phrymaceae: *Diplacus vandenbergensis* (Vandenberg monkeyflower)
 
 (1) Critical habitat units are depicted for Santa Barbara County, California, on the maps below.
 
@@ -4884,7 +4880,7 @@ Map follows:
 
 (ii) Unit 15 for *Poa atropurpurea* is depicted on the map in paragraph (12)(ii) of this entry.
 
-Family Poaceae: *Tuctoria greenei* (Greene's Tuctoria).
+Family Poaceae: *Tuctoria greenei* (Greene's Tuctoria)
 
 (1) Critical habitat units are depicted for Butte, Madera, Mariposa, Merced, Shasta, Stanislaus, Tehama, and Tuolumne counties, California, on the map below.
 
@@ -4954,7 +4950,7 @@ Family Poaceae: *Tuctoria greenei* (Greene's Tuctoria).
 
 Texas, Hays County; Spring Lake and its outflow, the San Marcos River, downstream to its confluence with the Blanco River.
 
-\>NOTE:
+NOTE:
 
 The map provided is for informational purposes only. Map follows:
 
@@ -5750,7 +5746,7 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map 6 - Units L3 and L4 for *Delphinium luteum* follows:
 
-![](/graphics/er18mr03.095.gif)Family Rhamnaceae: *Ceanothus ophiochilus* (Vail Lake ceanothus).
+![](/graphics/er18mr03.095.gif)Family Rhamnaceae: *Ceanothus ophiochilus* (Vail Lake ceanothus)
 
 (1) Critical habitat units are depicted for Riverside County, California, on the maps below.
 
@@ -6062,7 +6058,7 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 5 for *Cordylanthus mollis* ssp. *mollis* (Map 5) follows:
 
-![](/graphics/er12ap07.006.gif)Family Sterculiaceae: *Fremontodendron mexicanum* (Mexican flannelbush).
+![](/graphics/er12ap07.006.gif)Family Sterculiaceae: *Fremontodendron mexicanum* (Mexican flannelbush)
 
 (1) Critical habitat units are depicted for San Diego County, California, on the maps below.
 

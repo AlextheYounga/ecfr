@@ -1,5 +1,7 @@
 ##### § 232.311 Documents submitted in paper under cover of Form SE. #####
 
+Link to an amendment published at 87 FR 35410, June 10, 2022.
+
 Form SE (§§ 239.64, 249.444, 259.603, 269.8, and 274.403 of this chapter) shall be filed as a paper cover sheet to the following documents submitted to the Commission in paper:
 
 (a) Exhibits filed in paper pursuant to a hardship exemption shall be filed under cover of Form SE. See Rules 201 and 202 of Regulation S-T (§§ 232.201 and 232.202).

@@ -1,5 +1,7 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
+Link to an amendment published at 87 FR 35409, June 10, 2022.
+
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
 (i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Sections 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78*l*(b) or (g));

@@ -1,5 +1,7 @@
 ##### § 230.158 Definitions of certain terms in the last paragraph of section 11(a). #####
 
+Link to an amendment published at 87 FR 35409, June 10, 2022.
+
 (a) An “earning statement” made generally available to securityholders of the registrant pursuant to the last paragraph of section 11(a) of the Act shall be sufficient for the purposes of such paragraph if:
 
 (1) There is included the information required for statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X of this chapter) contained either:

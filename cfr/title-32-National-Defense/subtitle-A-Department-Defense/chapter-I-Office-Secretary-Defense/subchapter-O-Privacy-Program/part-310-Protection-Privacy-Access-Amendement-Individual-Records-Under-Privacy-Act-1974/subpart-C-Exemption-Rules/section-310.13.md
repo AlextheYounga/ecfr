@@ -1,6 +1,6 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 87 FR 28775, May 11, 2022.Link to an amendment published at 87 FR 30417, May 19, 2022.
+Link to an amendment published at 87 FR 30417, May 19, 2022.
 
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
@@ -104,7 +104,41 @@ Link to an amendment published at 87 FR 28775, May 11, 2022.Link to an amendment
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-(5) [Reserved]
+(5) *System identifier and name.* DoD-0006, “Military Justice and Civilian Criminal Case Records.”
+
+(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3) and (4); (d)(1), (2), (3), and (4); (e)(1); (e)(2); (e)(3); (e)(4)(G), (H), and (I); (e)(5); (e)(8); (f); and (g) of the Privacy Act to the extent the records are subject to exemption pursuant to 5 U.S.C. 552a(j)(2). This system of records is exempt from 5 U.S.C. 552a(c)(3); (d)(1), (2), (3), and (4); (e)(1); (e)(4)(G), (H), and (I); and (f) of the Privacy Act to the extent the records are subject to exemption pursuant to 5 U.S.C. 552a(k)(1) and (k)(2).
+
+(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), and (k)(2).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections is justified for the following reasons:
+
+(A) *Subsection (c)(3), (d)(1), and (d)(2)* - (*1*) *Exemption (j)(2).* Records in this system of records may contain investigatory material compiled for criminal law enforcement purposes to include information identifying criminal offenders and alleged offenders, information compiled for the purpose of criminal investigation, or reports compiled during criminal law enforcement proceedings. Application of exemption (j)(2) may be necessary because access to, amendment of, or release of the accounting of disclosures of such records could inform the record subject of an investigation of the existence, nature, or scope of an actual or potential law enforcement or disciplinary investigation, and thereby seriously impede law enforcement or prosecutorial efforts by permitting the record subject and other persons to whom he might disclose the records to avoid criminal penalties or disciplinary measures; reveal confidential sources who might not have otherwise come forward to assist in an investigation and thereby hinder DoD's ability to obtain information from future confidential sources and result in an unwarranted invasion of the privacy of others.
+
+(*2*) *Exemption (k)(1).* Records in this system of records may contain information that is properly classified pursuant to executive order. Application of exemption (k)(1) may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security.
+
+(*3*) *Exemption (k)(2).* Records in this system of records may contain investigatory material compiled for law enforcement purposes other than material within the scope of 5 U.S.C. 552a(j)(2). Application of exemption (k)(2) may be necessary because access to, amendment of, or release of the accounting of disclosures of such records could inform the record subject of an investigation of the existence, nature, or scope of an actual or potential law enforcement or disciplinary investigation, and thereby seriously impede law enforcement or prosecutorial efforts by permitting the record subject and other persons to whom he might disclose the records or the accounting of records to avoid criminal penalties, civil remedies, or disciplinary measures; interfere with a civil or administrative action or investigation which may impede those actions or investigations; reveal confidential sources who might not have otherwise come forward to assist in an investigation and thereby hinder DoD's ability to obtain information from future confidential sources; and result in an unwarranted invasion of the privacy of others.
+
+(B) *Subsection (c)(4), (d)(3) and (4).* These subsections are inapplicable to the extent that an exemption is being claimed from subsections (d)(1) and (2).
+
+(C) *Subsection (e)(1).* In the collection of information for investigatory or law enforcement purposes, it is not always possible to conclusively determine the relevance and necessity of particular information in the early stages of the investigation or adjudication. In some instances, it will be only after the collected information is evaluated in light of other information that its relevance and necessity for effective investigation and adjudication can be assessed. Collection of such information permits more informed decision-making by the Department when making required disciplinary and prosecutorial determinations. Additionally, records within this system may be properly classified pursuant to executive order. Accordingly, application of exemptions (j)(2), (k)(1) and (k)(2) may be necessary.
+
+(D) *Subsection (e)(2).* To collect information from the subject individual could serve notice that he or she is the subject of a criminal investigation and thereby present a serious impediment to such investigations. Collection of information only from the individual accused of criminal activity or misconduct could also subvert discovery of relevant evidence and subvert the course of justice. Accordingly, application of exemption (j)(2) may be necessary.
+
+(E) *Subsection (e)(3).* To inform individuals as required by this subsection could reveal the existence of a criminal investigation and compromise investigative efforts. Accordingly, application of exemption (j)(2) may be necessary.
+
+(F) *Subsections (e)(4)(G) and (H).* These subsections are inapplicable to the extent an exemption is claimed from subsections (d)(1) and (2).
+
+(G) *Subsection (e)(4)(I).* To the extent that this provision is construed to require more detailed disclosure than the broad, generic information currently published in the system notice, an exemption from this provision is necessary to protect the confidentiality of sources of information and to protect the privacy and physical safety of witnesses and informants. Accordingly, application of exemptions (j)(2), (k)(1), and (k)(2) may be necessary.
+
+(H) *Subsection (e)(5).* It is often impossible to determine in advance if investigatory records contained in this system are accurate, relevant, timely and complete, but, in the interests of effective law enforcement, it is necessary to retain this information to maintain an accurate record of the investigatory activity to preserve the integrity of the investigation and satisfy various Constitutional and evidentiary requirements, such as mandatory disclosure of potentially exculpatory information in the investigative file to a defendant. It is also necessary to retain this information to aid in establishing patterns of activity and provide investigative leads. With the passage of time, seemingly irrelevant or untimely information may acquire new significance as further investigation brings new details to light and the accuracy of such information can only be determined through judicial processes. Accordingly, application of exemption (j)(2) may be necessary.
+
+(I) *Subsection (e)(8).* To serve notice could give persons sufficient warning to evade investigative efforts. Accordingly, application of exemption (j)(2) may be necessary.
+
+(J) *Subsection (f).* The agency's rules are inapplicable to those portions of the system that are exempt. Accordingly, application of exemptions (j)(2), (k)(1), and (k)(2) may be necessary.
+
+(K) *Subsection (g).* This subsection is inapplicable to the extent that the system is exempt from other specific subsections of the Privacy Act.
+
+(iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
 (6) *System identifier and name.* DoD 0007, “Defense Reasonable Accommodation and Assistive Technology Records.”
 
@@ -124,4 +158,4 @@ Link to an amendment published at 87 FR 28775, May 11, 2022.Link to an amendment
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022]

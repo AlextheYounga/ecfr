@@ -1,5 +1,7 @@
 ##### § 232.306 Foreign language documents and symbols. #####
 
+Link to an amendment published at 87 FR 35410, June 10, 2022.
+
 (a) All electronic filings and submissions must be in the English language, except as otherwise provided by paragraph (d) of this section. If a filing or submission requires the inclusion of a document that is in a foreign language, a party must submit instead a fair and accurate English translation of the foreign language document in accordance with § 230.403(c) or § 240.12b-12(d) of this chapter, except as otherwise provided by paragraph (c) of this section. Alternatively, if the foreign language document is an exhibit or attachment to a filing or submission subject to review by the Division of Corporation Finance, a party may provide a fair and accurate English summary of the foreign language document if permitted by § 230.403(c)(3) or § 240.12b-12(d)(3) of this chapter.
 
 (b) When including an English summary or English translation of a foreign language document in an electronic filing or submission, a party may also submit a copy of the unabridged foreign language document in paper under cover of Form SE (§§ 239.64, 249.444, 269.8, and 274.403 of this chapter) in accordance with § 232.311 of this chapter. A filer must provide a copy of any foreign language document upon the request of Commission staff.
