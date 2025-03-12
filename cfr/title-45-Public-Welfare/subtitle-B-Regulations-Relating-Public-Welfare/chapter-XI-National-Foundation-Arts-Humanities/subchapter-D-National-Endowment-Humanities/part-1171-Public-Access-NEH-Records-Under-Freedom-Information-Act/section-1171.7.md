@@ -1,5 +1,7 @@
 ##### § 1171.7 Timing of responses to requests. #####
 
+Link to an amendment published at 82 FR 45, Jan. 3, 2017.
+
 (a) *In general.* The NEH customarily will respond to requests according to their order of receipt. In determining which records are responsive to a request, the NEH will include only those records in its possession as of the date it begins its search for records. If any other date is used, the NEH will inform the requester of that date.
 
 (b) *Timing for initial response.* Ordinarily, the NEH will determine whether to grant or deny a request for records within twenty (20) days (weekends and Federal holidays excluded) of when the NEH receives a request.

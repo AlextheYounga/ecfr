@@ -1,5 +1,7 @@
 ##### § 1171.8 Responses to requests. #####
 
+Link to an amendment published at 82 FR 45, Jan. 3, 2017.
+
 (a) *Acknowledgment of requests.* Upon receipt of a request that will take longer than ten (10) days to process, the NEH will send the requester an acknowledgment letter that assigns the request an individualized tracking number.
 
 (b) *Grants of requests.* If the NEH makes a determination to grant a request in whole or in part, it will notify the requester in writing. The NEH will inform the requester of any applicable fees and will disclose records to the requester promptly on payment of any applicable fees. The NEH will mark or annotate records disclosed in part to show the amount of information deleted pursuant to a FOIA exemption, unless doing so would harm an interest protected by an applicable FOIA exemption. If technically feasible, the NEH will also indicate, on the agency record(s) it provides, the location of the information deleted.

@@ -1,5 +1,7 @@
 ##### § 1171.11 Fees. #####
 
+Link to an amendment published at 82 FR 46, Jan. 3, 2017.
+
 (a) *In general.* The NEH will assess fees for processing FOIA requests in accordance with this section and with the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget at 52 FR 10012 (Mar. 27, 1987). In order to resolve any fee issues that arise under this section, the NEH may contact a requester for additional information. The NEH ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States.
 
 (b) *Definitions.* For purposes of this section:

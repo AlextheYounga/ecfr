@@ -1,5 +1,7 @@
 ##### § 1171.4 Public availability of records. #####
 
+Link to an amendment published at 82 FR 45, Jan. 3, 2017.
+
 (a) In accordance with 5 U.S.C. 552(a)(2), the NEH will make the following records available for public inspection and copying (unless they are published and copies are offered for sale) without a FOIA request:
 
 (1) Final opinions, including concurring and dissenting opinions, as well as orders made in the adjudication of cases,
