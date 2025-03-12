@@ -1,8 +1,6 @@
 ##### § 1005.32 Estimates. #####
 
-Link to an amendment published at 85 FR 34904, June 5, 2020.
-
-(a) *Temporary exception for insured institutions* - (1) *General.* For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if:
+(a) *Temporary exception for insured institutions*—(1) *General.* For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if:
 
 (i) A remittance transfer provider cannot determine the exact amounts for reasons beyond its control;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (3) *Insured institution.* For purposes of this section, the term “insured institution” means insured depository institutions (which includes uninsured U.S. branches and agencies of foreign depository institutions) as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), and insured credit unions as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
 
-(b) *Permanent exceptions* - (1) *Permanent exception for transfers to certain countries* - (i) *General.* For disclosures described in §§ 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (b)(1)(vii), if a remittance transfer provider cannot determine the exact amounts when the disclosure is required because:
+(b) *Permanent exceptions*—(1) *Permanent exception for transfers to certain countries*—(i) *General.* For disclosures described in §§ 1005.31(b)(1) through (b)(3) and 1005.36(a)(1) and (a)(2), estimates may be provided for transfers to certain countries in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (b)(1)(vii), if a remittance transfer provider cannot determine the exact amounts when the disclosure is required because:
 
 (A) The laws of the recipient country do not permit such a determination, or
 
@@ -30,7 +28,31 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (3) *Permanent exception for optional disclosure of non-covered third-party fees and taxes collected by a person other than the provider.* For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for applicable non-covered third-party fees and taxes collected on the remittance transfer by a person other than the provider, which are permitted to be disclosed under § 1005.31(b)(1)(viii), provided such estimates are based on reasonable sources of information.
 
-(c) *Bases for estimates generally.* Estimates provided pursuant to the exceptions in paragraph (a) or (b)(1) of this section must be based on the below-listed approach or approaches, except as otherwise permitted by this paragraph. If a remittance transfer provider bases an estimate on an approach that is not listed in this paragraph, the provider is deemed to be in compliance with this paragraph so long as the designated recipient receives the same, or greater, amount of funds than the remittance transfer provider disclosed under § 1005.31(b)(1)(vii).
+(4) *Permanent exception for estimation of the exchange rate by an insured institution.* (i) Except as provided in paragraph (b)(4)(ii) of this section, for disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for a remittance transfer to a particular country in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if the designated recipient of the remittance transfer will receive funds in the country's local currency and all of the following conditions are met:
+
+(A) The remittance transfer provider is an insured institution as defined in paragraph (a)(3) of this section;
+
+(B) At the time the insured institution must provide, as applicable, the disclosure required by § 1005.31(b)(1) through (3) or § 1005.36(a)(1) or (2), the insured institution cannot determine the exact exchange rate required to be disclosed under § 1005.31(b)(1)(iv) for that remittance transfer;
+
+(C) The insured institution made 1,000 or fewer remittance transfers in the prior calendar year to the particular country for which the designated recipients of those transfers received funds in the country's local currency; and
+
+(D) The remittance transfer is sent from the sender's account with the insured institution; provided however, for the purposes of this paragraph, a sender's account does not include a prepaid account, unless the prepaid account is a payroll card account or a government benefit account.
+
+(ii) The disclosures in § 1005.31(b)(1)(v) through (vii) may be estimated under paragraph (b)(4)(i) of this section only if the exchange rate is permitted to be estimated under paragraph (b)(4)(i) of this section and the estimated exchange rate affects the amount of such disclosures.
+
+(5) *Permanent exception for estimation of covered third-party fees by an insured institution.* (i) Except as provided in paragraph (b)(5)(ii) of this section, for disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided for a remittance transfer to a particular designated recipient's institution in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(vi) through (vii), if all of the following conditions are met:
+
+(A) The remittance transfer provider is an insured institution as defined in paragraph (a)(3) of this section;
+
+(B) At the time the insured institution must provide, as applicable, the disclosure required by § 1005.31(b)(1) through (3) or § 1005.36(a)(1) or (2), the insured institution cannot determine the exact covered third-party fees required to be disclosed under § 1005.31(b)(1)(vi) for that remittance transfer;
+
+(C) The insured institution made 500 or fewer remittance transfers in the prior calendar year to that designated recipient's institution, or a United States Federal statute or regulation prohibits the insured institution from being able to determine the exact covered third-party fees required to be disclosed under § 1005.31(b)(1)(vi) for that remittance transfer; and
+
+(D) The remittance transfer is sent from the sender's account with the insured institution; provided however, for the purposes of this paragraph, a sender's account does not include a prepaid account, unless the prepaid account is a payroll card account or a government benefit account.
+
+(ii) The disclosure in § 1005.31(b)(1)(vii) may be estimated under paragraph (b)(5)(i) of this section only if covered third-party fees are permitted to be estimated under paragraph (b)(5)(i) of this section and the estimated covered third-party fees affect the amount of such disclosure.
+
+(c) *Bases for estimates generally.* Estimates provided pursuant to the exceptions in paragraph (a) or (b)(1), (4), or (5) of this section must be based on the below-listed approach or approaches, except as otherwise permitted by this paragraph. If a remittance transfer provider bases an estimate on an approach that is not listed in this paragraph, the provider is deemed to be in compliance with this paragraph so long as the designated recipient receives the same, or greater, amount of funds than the remittance transfer provider disclosed under § 1005.31(b)(1)(vii).
 
 (1) *Exchange rate.* In disclosing the exchange rate as required under § 1005.31(b)(1)(iv), an estimate must be based on one of the following:
 
@@ -42,7 +64,7 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (2) *Transfer amount in the currency in which the funds will be received by the designated recipient.* In disclosing the transfer amount in the currency in which the funds will be received by the designated recipient, as required under § 1005.31(b)(1)(v), an estimate must be based on the estimated exchange rate provided in accordance with paragraph (c)(1) of this section, prior to any rounding of the estimated exchange rate.
 
-(3) *Covered third-party fees* - (i) *Imposed as percentage of amount transferred.* In disclosing covered third-party fees, as described under § 1005.31(b)(1)(vi), that are a percentage of the amount transferred to the designated recipient, an estimated exchange rate must be based on the estimated exchange rate provided in accordance with paragraph (c)(1) of this section, prior to any rounding of the estimated exchange rate.
+(3) *Covered third-party fees*—(i) *Imposed as percentage of amount transferred.* In disclosing covered third-party fees, as described under § 1005.31(b)(1)(vi), that are a percentage of the amount transferred to the designated recipient, an estimated exchange rate must be based on the estimated exchange rate provided in accordance with paragraph (c)(1) of this section, prior to any rounding of the estimated exchange rate.
 
 (ii) *Imposed by the intermediary or final institution.* In disclosing covered third-party fees pursuant to § 1005.31(b)(1)(vi), an estimate must be based on one of the following:
 
@@ -50,8 +72,8 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (B) A representative transmittal route identified by the remittance transfer provider.
 
-(4) Amount of currency that will be received by the designated recipient. In disclosing the amount of currency that will be received by the designated recipient as required under § 1005.31(b)(1)(vii), an estimate must be based on the information provided in accordance with paragraphs (c)(1) through (3) of this section, as applicable.
+(4) *Amount of currency that will be received by the designated recipient.* In disclosing the amount of currency that will be received by the designated recipient as required under § 1005.31(b)(1)(vii), an estimate must be based on the information provided in accordance with paragraphs (c)(1) through (3) of this section, as applicable.
 
 (d) *Bases for estimates for transfers scheduled before the date of transfer.* Estimates provided pursuant to paragraph (b)(2) of this section must be based on the exchange rate or, where applicable, the estimated exchange rate based on an estimation methodology permitted under paragraph (c) of this section that the provider would have used or did use that day in providing disclosures to a sender requesting such a remittance transfer to be made on the same day. If, in accordance with this paragraph, a remittance transfer provider uses a basis described in paragraph (c) of this section but not listed in paragraph (c)(1) of this section, the provider is deemed to be in compliance with this paragraph regardless of the amount received by the designated recipient, so long as the estimation methodology is the same that the provider would have used or did use in providing disclosures to a sender requesting such a remittance transfer to be made on the same day.
 
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50283, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 79 FR 55991, Sept. 18, 2014; 81 FR 84338, Nov. 22, 2016]
+[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50283, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 79 FR 55991, Sept. 18, 2014; 81 FR 84338, Nov. 22, 2016; 85 FR 34904, June 5, 2020]

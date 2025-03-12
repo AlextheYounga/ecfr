@@ -1,6 +1,6 @@
 ##### § 622.374 Recordkeeping and reporting. #####
 
-Link to an amendment published at 85 FR 10340, Feb. 24, 2020.
+Link to an amendment published at 85 FR 10340, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.Link to an amendment published at 85 FR 44019, July 21, 2020.
 
 (a) *Commercial vessel owners and operators.* The owner or operator of a vessel that fishes for or lands coastal migratory pelagic fish for sale in or from the Gulf, Mid-Atlantic, or South Atlantic EEZ or adjoining state waters, or whose vessel is issued a commercial permit for king or Spanish mackerel, as required under § 622.370(a)(1) or (3), respectively, who is selected to report by the SRD, must maintain a fishing record on a form available from the SRD. These completed fishing records must be submitted to the SRD postmarked not later than 7 days after the end of each fishing trip. If no fishing occurred during a calendar month, a report so stating must be submitted on one of the forms postmarked not later than 7 days after the end of that month. Information to be reported is indicated on the form and its accompanying instructions.
 

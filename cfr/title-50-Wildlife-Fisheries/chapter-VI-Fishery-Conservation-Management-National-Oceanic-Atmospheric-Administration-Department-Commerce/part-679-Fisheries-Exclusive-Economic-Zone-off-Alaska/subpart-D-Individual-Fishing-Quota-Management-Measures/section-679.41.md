@@ -1,5 +1,7 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
+Link to an amendment published at 85 FR 44024, July 21, 2020.
+
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
 (2) Transactions requiring IFQ permits to be issued in the name of a hired master employed by an individual or a corporation are not transfers of QS or IFQ.

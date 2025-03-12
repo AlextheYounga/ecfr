@@ -1,5 +1,7 @@
 ##### § 622.373 Limited access system for charter vessel/headboat permits for Gulf coastal migratory pelagic fish. #####
 
+Link to an amendment published at 85 FR 44019, July 21, 2020.
+
 (a) *General.* No applications for additional charter vessel/headboat permits for Gulf coastal migratory pelagic fish will be accepted. Existing permits may be renewed, are subject to the restrictions on transfer in paragraph (b) of this section, and are subject to the renewal requirements in paragraph (c) of this section. An eligible charter vessel/headboat permit with a historical captain endorsement may be converted to a charter vessel/headboat permit without a historical captain endorsement, per procedures at paragraph (f) of this section.
 
 (b) *Transfer of permits* - (1) *Permits without a historical captain endorsement.* A charter vessel/headboat permit for Gulf coastal migratory pelagic fish that does not have a historical captain endorsement is fully transferable, with or without sale of the permitted vessel.

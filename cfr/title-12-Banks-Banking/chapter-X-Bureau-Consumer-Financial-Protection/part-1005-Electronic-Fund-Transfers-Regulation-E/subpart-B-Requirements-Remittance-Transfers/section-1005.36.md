@@ -1,7 +1,5 @@
 ##### § 1005.36 Transfers scheduled before the date of transfer. #####
 
-Link to an amendment published at 85 FR 34904, June 5, 2020.
-
 (a) *Timing.* (1) For a one-time transfer scheduled five or more business days before the date of transfer or for the first in a series of preauthorized remittance transfers, the remittance transfer provider must:
 
 (i) Provide either the pre-payment disclosure described in § 1005.31(b)(1) and the receipt described in § 1005.31(b)(2) or the combined disclosure described in § 1005.31(b)(3), in accordance with the timing requirements set forth in § 1005.31(e); and
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (ii) To the extent estimates are permitted by § 1005.32.
 
-(3) Disclosures provided pursuant to paragraph (a)(1)(ii) or (a)(2)(ii) of this section must be accurate as of when the remittance transfer to which it pertains is made, except to the extent estimates are permitted by § 1005.32(a) or (b)(1).
+(3) Disclosures provided pursuant to paragraph (a)(1)(ii) or (a)(2)(ii) of this section must be accurate as of when the remittance transfer to which it pertains is made, except to the extent estimates are permitted by § 1005.32(a) or (b)(1), (4), or (5).
 
 (c) *Cancellation.* For any remittance transfer scheduled by the sender at least three business days before the date of the transfer, a remittance transfer provider shall comply with any oral or written request to cancel the remittance transfer from the sender if the request to cancel:
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (2) Is received by the provider at least three business days before the scheduled date of the remittance transfer.
 
-(d) *Additional requirements for subsequent preauthorized remittance transfers* - (1) *Disclosure requirement.* (i) For any subsequent transfer in a series of preauthorized remittance transfers, the remittance transfer provider must disclose to the sender:
+(d) *Additional requirements for subsequent preauthorized remittance transfers*—(1) *Disclosure requirement.* (i) For any subsequent transfer in a series of preauthorized remittance transfers, the remittance transfer provider must disclose to the sender:
 
 (A) The date the provider will make the subsequent transfer, using the term “Future Transfer Date,” or a substantially similar term;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 34904, June 5, 2020.
 
 (4) *Accuracy.* Any disclosure required by paragraph (d)(1) of this section must be accurate as of the date the preauthorized remittance transfer to which it pertains is made.
 
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 50284, Aug. 20, 2012]
+[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 50284, Aug. 20, 2012; 85 FR 34904, June 5, 2020]
