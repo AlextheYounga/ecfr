@@ -1,5 +1,7 @@
 ##### 814.201-6 Solicitation provisions. #####
 
+Link to an amendment published at 83 FR 16209, Apr. 16, 2018.
+
 (a) The contracting officer must place the provision entitled “Caution to Bidders-Bid Envelopes,” as set forth in 852.214-70, in all invitations for bids where bid submissions are by other than electronic means.
 
 (b) In an invitation for bid for supplies, equipment, or services (other than construction), the contracting officer must define the extent to which VA will authorize and consider alternate bids. VA will consider for acceptance an alternate specified on construction projects only as a part of the basic item.

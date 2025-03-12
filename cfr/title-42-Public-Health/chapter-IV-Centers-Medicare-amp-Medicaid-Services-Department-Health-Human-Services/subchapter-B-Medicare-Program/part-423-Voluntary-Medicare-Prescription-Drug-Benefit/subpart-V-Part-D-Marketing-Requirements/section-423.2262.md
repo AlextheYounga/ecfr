@@ -1,5 +1,7 @@
 ##### § 423.2262 Review and distribution of marketing materials. #####
 
+Link to an amendment published at 83 FR 16755, April 16, 2018.
+
 (a) *CMS review of marketing materials.* (1) Except as provided in paragraph (a)(2) of this section, a Part D plan may not distribute any marketing materials (as defined in § 423.2260 of this Part), or enrollment forms, or make such materials or forms available to Part D eligible individuals unless -
 
 (i) At least 45 days (or 10 days if using certain types of marketing materials that use, without modification, proposed model language and format, including standardized language and formatting, as specified by CMS) before the date of distribution, the Part D sponsor submits the material or form to CMS for review under the guidelines in § 423.2264 of this subpart; and

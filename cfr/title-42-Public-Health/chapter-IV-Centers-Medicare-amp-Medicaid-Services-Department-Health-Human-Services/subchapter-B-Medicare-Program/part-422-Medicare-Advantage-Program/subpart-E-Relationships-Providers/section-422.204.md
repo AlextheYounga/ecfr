@@ -1,5 +1,7 @@
 ##### § 422.204 Provider selection and credentialing. #####
 
+Link to an amendment published at 83 FR 16731, April 16, 2018.
+
 (a) *General rule.* An MA organization must have written policies and procedures for the selection and evaluation of providers. These policies must conform with the credential and recredentialing requirements set forth in paragraph (b) of this section and with the antidiscrimination provisions set forth in § 422.205.
 
 (b) *Basic requirements.* An MA organization must follow a documented process with respect to providers and suppliers who have signed contracts or participation agreements that -

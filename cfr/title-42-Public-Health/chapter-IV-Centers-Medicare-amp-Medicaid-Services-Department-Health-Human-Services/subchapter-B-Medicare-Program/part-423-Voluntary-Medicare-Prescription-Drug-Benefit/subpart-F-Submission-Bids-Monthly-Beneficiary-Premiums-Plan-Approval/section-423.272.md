@@ -1,5 +1,7 @@
 ##### § 423.272 Review and negotiation of bid and approval of plans submitted by potential Part D sponsors. #####
 
+Link to an amendment published at 83 FR 16749, April 16, 2018.
+
 (a) *Review and negotiation regarding information, terms and conditions.* CMS reviews the information filed under § 423.265(c) in order to conduct negotiations regarding the terms and conditions of the proposed bid and benefit plan. In addition to its general negotiating authority under section 1860D-11(d)(2)(A) of the Act, CMS has authority similar to that of the Director of the Office of Personnel Management for health benefit plans under Chapter 89 of title 5, U.S.C.
 
 (b) *Approval of proposed plans.* CMS approves the Part D plan only if the plan and the Part D sponsor offering the plan comply with all applicable CMS Part D requirements, including those related to the provision of qualified prescription drug coverage and actuarial determinations.

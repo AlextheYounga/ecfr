@@ -1,5 +1,7 @@
 ##### § 422.2268 Standards for MA organization marketing. #####
 
+Link to an amendment published at 83 FR 16735, April 16, 2018.
+
 In conducting marketing activities, MA organizations may not -
 
 (a) Provide cash or other monetary rebates as an inducement for enrollment or otherwise.

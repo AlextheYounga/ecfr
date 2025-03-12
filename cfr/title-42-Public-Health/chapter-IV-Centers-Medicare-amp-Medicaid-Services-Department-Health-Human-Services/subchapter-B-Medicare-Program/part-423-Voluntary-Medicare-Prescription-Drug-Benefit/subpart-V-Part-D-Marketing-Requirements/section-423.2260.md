@@ -1,5 +1,7 @@
 ##### § 423.2260 Definitions concerning marketing materials. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 As used in this subpart -
 
 *Marketing materials.* Marketing Materials include any informational materials targeted to Medicare beneficiaries which -

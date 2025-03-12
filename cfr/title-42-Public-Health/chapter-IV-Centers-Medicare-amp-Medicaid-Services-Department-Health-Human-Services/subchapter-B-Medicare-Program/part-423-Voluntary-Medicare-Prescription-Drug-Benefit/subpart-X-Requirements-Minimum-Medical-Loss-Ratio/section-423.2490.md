@@ -1,5 +1,7 @@
 ##### § 423.2490 Release of Part D MLR data. #####
 
+Link to an amendment published at 83 FR 16756, April 16, 2018.
+
 (a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part D MLR data consists of the information contained in reports submitted under § 423.2460.
 
 (b) *Exclusions from Part D MLR data.* For the purpose of this section, the following items are excluded from Part D MLR data:

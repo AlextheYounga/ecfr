@@ -1,5 +1,7 @@
 ##### § 423.2264 Guidelines for CMS review. #####
 
+Link to an amendment published at 83 FR 16755, April 16, 2018.
+
 In reviewing marketing material or enrollment forms under § 423.2262, CMS determines (unless otherwise specified in additional guidance) that the marketing materials -
 
 (a) Provide, in a format (and, where appropriate, print size), and using standard terminology that may be specified by CMS, the following information to Medicare beneficiaries interested in enrolling:

@@ -1,5 +1,7 @@
 ##### 803.204 Treatment of violations. #####
 
+Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
+
 In providing the notice and hearing required by FAR 3.204, the SPE may make the determinations required by FAR 3.204. This authority is further delegated to the DSPE. The DSPE shall use the following procedures to determine whether or not a violation of the Gratuities clause has occurred:
 
 (a) Upon receipt of an allegation or evidence of a violation of the Gratuities clause, the DSPE shall refer the matter to the D&S Committee to conduct a fact-finding. Upon completion of the fact-finding, the D&S Committee shall present the facts and recommendations for further action to the DSPE.

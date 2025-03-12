@@ -1,5 +1,7 @@
 ##### 852.214-74 Bid samples. #####
 
+Link to an amendment published at 83 FR 16210, Apr. 16, 2018.
+
 As prescribed in 814.201-6(c), insert the following provision:
 
 Bid Samples (JAN 2008)

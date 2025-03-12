@@ -1,5 +1,7 @@
 ##### § 387.7 Financial responsibility required. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) No motor carrier shall operate a motor vehicle until the motor carrier has obtained and has in effect the minimum levels of financial responsibility as set forth in § 387.9 of this subpart.
 
 (b)(1) Policies of insurance, surety bonds, and endorsements required under this section shall remain in effect continuously until terminated. Cancellation may be effected by the insurer or the insured motor carrier giving 35 days' notice in writing to the other. The 35 days' notice shall commence to run from the date the notice is mailed. Proof of mailing shall be sufficient proof of notice.

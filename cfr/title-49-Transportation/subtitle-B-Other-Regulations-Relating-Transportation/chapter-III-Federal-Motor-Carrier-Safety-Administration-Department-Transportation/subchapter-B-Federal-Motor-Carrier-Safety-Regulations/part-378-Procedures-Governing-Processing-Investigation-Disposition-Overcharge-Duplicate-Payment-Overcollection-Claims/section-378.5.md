@@ -1,5 +1,7 @@
 ##### § 378.5 Investigation of claims. #####
 
+Link to an amendment published at 83 FR 16225, Apr. 16, 2018.
+
 (a) Upon receipt of a claim, whether written or otherwise, the processing carrier shall promptly initiate an investigation and establish a file, as required by § 378.6.
 
 (b) If a carrier discovers an overcharge, duplicate payment, or overcollection which has not been the subject of a claim, it shall promptly initiate an investigation and comply with the provisions in § 378.9.

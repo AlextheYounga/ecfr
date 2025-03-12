@@ -1,5 +1,7 @@
 ##### § 390.7 Rules of construction. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) In part 325 of subchapter A and in this subchapter, unless the context requires otherwise:
 
 (1) Words imparting the singular include the plural;

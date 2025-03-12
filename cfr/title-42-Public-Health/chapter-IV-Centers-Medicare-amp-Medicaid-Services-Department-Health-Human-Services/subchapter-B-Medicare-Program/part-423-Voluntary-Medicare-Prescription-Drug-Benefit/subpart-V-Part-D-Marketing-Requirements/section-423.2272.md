@@ -1,5 +1,7 @@
 ##### § 423.2272 Licensing of marketing representatives and confirmation of marketing resources. #####
 
+Link to an amendment published at 83 FR 16755, April 16, 2018.
+
 In its marketing, the Part D organization must -
 
 (a) Demonstrate to CMS's satisfaction that marketing resources are allocated to marketing to the disabled Medicare population as well as beneficiaries age 65 and over.

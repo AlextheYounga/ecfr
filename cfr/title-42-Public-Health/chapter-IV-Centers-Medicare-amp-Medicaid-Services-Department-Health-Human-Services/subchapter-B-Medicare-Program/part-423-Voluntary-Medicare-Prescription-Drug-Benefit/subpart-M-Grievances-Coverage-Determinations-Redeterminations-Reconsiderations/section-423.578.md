@@ -1,5 +1,7 @@
 ##### § 423.578 Exceptions process. #####
 
+Link to an amendment published at 83 FR 16751, April 16, 2018.
+
 (a) *Requests for exceptions to a plan's tiered cost-sharing structure.* Each Part D plan sponsor that provides prescription drug benefits for Part D drugs and manages this benefit through the use of a tiered formulary must establish and maintain reasonable and complete exceptions procedures subject to CMS' approval for this type of coverage determination. The Part D plan sponsor grants an exception whenever it determines that the non-preferred drug for treatment of the enrollee's condition is medically necessary, consistent with the physician's or other prescriber's statement under paragraph (a)(4) of this section.
 
 (1) The exceptions procedures must address situations where a formulary's tiering structure changes during the year and an enrollee is using a drug affected by the change.

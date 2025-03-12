@@ -1,5 +1,7 @@
 ##### § 422.256 Review, negotiation, and approval of bids. #####
 
+Link to an amendment published at 83 FR 16733, April 16, 2018.
+
 (a) *Authority.* Subject to paragraphs (a)(2), (d), and (e) of this section, CMS has the authority to review the aggregate bid amounts submitted under § 422.252 and conduct negotiations with MA organizations regarding these bids (including the supplemental benefits) and the proportions of the aggregate bid attributable to basic benefits, supplemental benefits, and prescription drug benefits and may decline to approve a bid if the plan sponsor proposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 (1) When negotiating bid amounts and proportions, CMS has authority similar to that provided the Director of the Office of Personnel Management for negotiating health benefits plans under 5 U.S.C. chapter 89.

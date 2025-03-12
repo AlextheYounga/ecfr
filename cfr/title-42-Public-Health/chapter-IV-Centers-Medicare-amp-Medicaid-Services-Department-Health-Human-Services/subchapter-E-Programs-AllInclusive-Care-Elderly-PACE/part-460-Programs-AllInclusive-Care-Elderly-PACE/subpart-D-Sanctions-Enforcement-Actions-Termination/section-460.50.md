@@ -1,5 +1,7 @@
 ##### § 460.50 Termination of PACE program agreement. #####
 
+Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
+
 (a) *Termination of agreement by CMS or State.* CMS or a State administering agency may terminate at any time a PACE program agreement for cause, including, but not limited to the circumstances in paragraphs (b) or (c) of this section.
 
 (b) *Termination due to uncorrected deficiencies.* CMS or the State administering agency may terminate a PACE program agreement if CMS or the State administering agency determines that both of the following circumstances exist:

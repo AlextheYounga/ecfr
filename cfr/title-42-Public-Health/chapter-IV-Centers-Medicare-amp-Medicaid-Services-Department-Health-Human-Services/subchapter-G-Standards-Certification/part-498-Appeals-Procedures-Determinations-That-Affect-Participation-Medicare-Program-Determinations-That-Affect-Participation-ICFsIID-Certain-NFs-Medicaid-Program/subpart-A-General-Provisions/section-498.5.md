@@ -1,5 +1,7 @@
 ##### § 498.5 Appeal rights. #####
 
+Link to an amendment published at 83 FR 16757, Apr. 16, 2018.
+
 (a) *Appeal rights of prospective providers.* (1) Any prospective provider dissatisfied with an initial determination or revised initial determination that it does not qualify as a provider may request reconsideration in accordance with § 498.22(a).
 
 (2) Any prospective provider dissatisfied with a reconsidered determination under paragraph (a)(1) of this section, or a revised reconsidered determination under § 498.30, is entitled to a hearing before an ALJ.

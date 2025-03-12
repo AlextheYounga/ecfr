@@ -1,5 +1,7 @@
 ##### § 423.504 General provisions. #####
 
+Link to an amendment published at 83 FR 16750, April 16, 2018.
+
 (a) *General rule.* Subject to the provisions at § 423.265 of this part concerning submission of bids, to enroll beneficiaries in any Part D drug plan it offers and be paid on behalf of Part D eligible individuals enrolled in those plans, a Part D plan sponsor must enter into a contract with CMS. The contract may cover more than one Part D plan.
 
 (b) *Conditions necessary to contract as a Part D plan sponsor.* Any entity seeking to contract as a Part D plan sponsor must -

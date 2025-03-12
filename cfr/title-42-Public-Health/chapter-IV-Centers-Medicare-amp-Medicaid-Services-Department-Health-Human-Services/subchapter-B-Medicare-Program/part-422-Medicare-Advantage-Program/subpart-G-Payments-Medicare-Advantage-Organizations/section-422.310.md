@@ -1,5 +1,7 @@
 ##### § 422.310 Risk adjustment data. #####
 
+Link to an amendment published at 83 FR 16733, April 16, 2018.
+
 (a) *Definition of risk adjustment data.* Risk adjustment data are all data that are used in the development and application of a risk adjustment payment model.
 
 (b) *Data collection: Basic rule.* Each MA organization must submit to CMS (in accordance with CMS instructions) the data necessary to characterize the context and purposes of each item and service provided to a Medicare enrollee by a provider, supplier, physician, or other practitioner. CMS may also collect data necessary to characterize the functional limitations of enrollees of each MA organization.

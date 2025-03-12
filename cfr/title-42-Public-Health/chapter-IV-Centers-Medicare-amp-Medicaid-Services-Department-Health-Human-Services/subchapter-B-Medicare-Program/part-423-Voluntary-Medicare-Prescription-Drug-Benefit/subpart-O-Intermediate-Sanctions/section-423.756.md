@@ -1,5 +1,7 @@
 ##### § 423.756 Procedures for imposing intermediate sanctions and civil money penalties. #####
 
+Link to an amendment published at 83 FR 16753, April 16, 2018.
+
 (a) *Notice of intermediate sanction and opportunity to respond* - (1) *Notice of intent.* Before imposing the intermediate sanctions, CMS -
 
 (i) Sends a written notice to the Part D plan sponsor stating the nature and basis of the proposed intermediate sanction, and the Part D plan sponsor's right to a hearing as specified in paragraph (b) of this section; and

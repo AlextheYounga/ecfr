@@ -1,5 +1,7 @@
 ##### 814.201 Preparation of invitations for bids. #####
 
+Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
+
 (a) An invitation for bids for supplies, equipment, and services must be serially numbered at the time of issue. Numbers assigned locally must consist of the facility or VA National Acquisition Center division number, the serial number of the invitation, and the fiscal year in which the VA facility issues the invitation, e.g., 533-24-07 for the 24th invitation issued by VA facility 533 in Fiscal Year 2007. A series beginning with the number 1 must be started each fiscal year. Numbers assigned from a national register may be sequential, without regard to year, and use whatever numbering system assigned by the national system or VA's Electronic Contract Management System (eCMS). VHA shall use eCMS for all solicitation numbering.
 
 (1) An invitation for bid for supplies, equipment, and services that is numbered locally must be numbered in the series of the year in which it is issued, will be accepted, and will become a contract in the same fiscal year but, because of procurement lead time, will not be performed until the next fiscal year.

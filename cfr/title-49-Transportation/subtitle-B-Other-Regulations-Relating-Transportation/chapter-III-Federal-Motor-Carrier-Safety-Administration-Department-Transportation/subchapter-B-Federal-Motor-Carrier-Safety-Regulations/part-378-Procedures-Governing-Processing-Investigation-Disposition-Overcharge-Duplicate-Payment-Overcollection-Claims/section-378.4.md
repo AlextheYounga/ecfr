@@ -1,5 +1,7 @@
 ##### § 378.4 Documentation of claims. #####
 
+Link to an amendment published at 83 FR 16225, Apr. 16, 2018.
+
 (a) Claims for overcharge, duplicate payment, or overcollection shall be accompanied by sufficient information to allow the carriers to conduct an investigation and pay or decline the claim within the time limitations set forth in § 378.8. Claims shall include the name of the claimant, its file number, if any, and the amount of the refund sought to be recovered, if known.
 
 (b) Except when the original freight bill is not a paper document but is electronically transmitted, claims for overcharge shall be accompanied by the original freight bill. Additional information may include, but is not limited to, the following:

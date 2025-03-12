@@ -1,5 +1,7 @@
 ##### § 417.484 Requirement applicable to related entities. #####
 
+Link to an amendment published at 83 FR 16721, April 16, 2018.
+
 (a) *Definition.* As used in this section, *related entity* means any entity that is related to the HMO or CMP by common ownership or control and -
 
 (1) Performs some of the HMO's or CMP's management functions under contract or delegation;

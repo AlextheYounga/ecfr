@@ -1,5 +1,7 @@
 ##### § 422.2262 Review and distribution of marketing materials. #####
 
+Link to an amendment published at 83 FR 16735, April 16, 2018.
+
 (a) *CMS review of marketing materials.* (1) Except as provided in paragraph (b) of this section, an MA organization may not distribute any marketing materials (as defined in § 422.2260 of this subpart), or election forms, or make such materials or forms available to individuals eligible to elect an MA organization unless -
 
 (i) At least 45 days (or 10 days if using certain types of marketing materials that use, without modification, proposed model language and format, including standardized language and formatting, as specified by CMS) before the date of distribution the MA organization has submitted the material or form to CMS for review under the guidelines in § 422.2264 of this subpart; and

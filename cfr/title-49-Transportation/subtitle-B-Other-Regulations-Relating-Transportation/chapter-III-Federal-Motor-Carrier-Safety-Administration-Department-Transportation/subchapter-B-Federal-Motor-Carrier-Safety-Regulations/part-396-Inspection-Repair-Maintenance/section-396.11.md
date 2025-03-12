@@ -1,5 +1,7 @@
 ##### § 396.11 Driver vehicle inspection report(s). #####
 
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+
 (a) *Equipment provided by motor carrier.* (1) *Report required.* Every motor carrier shall require its drivers to report, and every driver shall prepare a report in writing at the completion of each day's work on each vehicle operated, except for intermodal equipment tendered by an intermodal equipment provider. The report shall cover at least the following parts and accessories:
 
 (i) Service brakes including trailer brake connections;

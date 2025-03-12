@@ -1,5 +1,7 @@
 ##### § 417.478 Requirements of other laws and regulations. #####
 
+Link to an amendment published at 83 FR 16721, April 16, 2018.
+
 The contract must provide that the HMO or CMP agrees to comply with -
 
 (a) The requirements for QIO review of services furnished to Medicare enrollees as set forth in subchapter D of this chapter;

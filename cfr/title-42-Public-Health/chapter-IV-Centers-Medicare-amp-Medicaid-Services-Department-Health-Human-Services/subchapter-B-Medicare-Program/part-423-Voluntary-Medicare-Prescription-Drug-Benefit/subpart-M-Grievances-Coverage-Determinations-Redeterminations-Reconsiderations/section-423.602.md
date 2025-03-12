@@ -1,5 +1,7 @@
 ##### § 423.602 Notice of reconsideration determination by the independent review entity. #####
 
+Link to an amendment published at 83 FR 16752, April 16, 2018.
+
 (a) *Responsibility for the notice.* When the IRE makes its reconsideration determination, it is responsible for mailing a notice of its determination to the enrollee and the Part D plan sponsor, and for sending a copy to CMS. When the prescribing physician or other prescriber requests the reconsideration on behalf of the enrollee, the IRE is also responsible for notifying the prescribing physician or other prescriber of its decision.
 
 (b) *Content of the notice.* The notice must -

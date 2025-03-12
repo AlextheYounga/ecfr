@@ -1,5 +1,7 @@
 ##### § 423.153 Drug utilization management, quality assurance, and medication therapy management programs (MTMPs). #####
 
+Link to an amendment published at 83 FR 16739, April 16, 2018.
+
 (a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTMP as described in paragraphs (b), (c), and (d) of this section.
 
 (b) *Drug utilization management.* A Part D sponsor must have established a reasonable and appropriate drug utilization management program that address all of the following:

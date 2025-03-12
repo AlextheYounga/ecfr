@@ -1,5 +1,7 @@
 ##### § 395.8 Driver's record of duty status. #####
 
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+
 (a)(1) Except for a private motor carrier of passengers (nonbusiness), as defined in § 390.5 of this subchapter, a motor carrier subject to the requirements of this part must require each driver used by the motor carrier to record the driver's duty status for each 24-hour period using the method prescribed in paragraphs (a)(1)(i) through (iv) of this section, as applicable.
 
 (i) Subject to paragraphs (a)(1)(ii) and (iii) of this section, a motor carrier operating commercial motor vehicles must install and require each of its drivers to use an ELD to record the driver's duty status in accordance with subpart B of this part no later than December 18, 2017.

@@ -1,5 +1,7 @@
 ##### § 376.11 General leasing requirements. #####
 
+Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
+
 Other than through the interchange of equipment as set forth in § 376.31, and under the exemptions set forth in subpart C of these regulations, the authorized carrier may perform authorized transportation in equipment it does not own only under the following conditions:
 
 (a) *Lease.* There shall be a written lease granting the use of the equipment and meeting the requirements contained in § 376.12.

@@ -1,5 +1,7 @@
 ##### § 382.601 Employer obligation to promulgate a policy on the misuse of alcohol and use of controlled substances. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) *General requirements.* Each employer shall provide educational materials that explain the requirements of this part and the employer's policies and procedures with respect to meeting these requirements.
 
 (1) The employer shall ensure that a copy of these materials is distributed to each driver prior to the start of alcohol and controlled substances testing under this part and to each driver subsequently hired or transferred into a position requiring driving a commercial motor vehicle.

@@ -1,5 +1,7 @@
 ##### § 423.2022 Notice of a hearing before an ALJ. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 (a) *Issuing the notice.* (1) After the ALJ sets the time and place of the hearing, the notice of the hearing will be mailed or otherwise transmitted in accordance with OMHA procedures to the enrollee and other potential participants, as provided in § 423.2020(c) at their last known addresses, or given by personal service, except to an enrollee or other potential participant who indicates in writing that he or she does not wish to receive this notice.
 
 (2) The notice is mailed, transmitted, or served at least 20 calendar days before the hearing, except for expedited hearings where written notice is mailed, transmitted, or served at least 3 calendar days before the hearing, unless the enrollee or other potential participant agrees in writing to the notice being mailed, transmitted, or served fewer than 20 calendar days before the non-expedited hearing or 3 calendar days before the expedited hearing. For expedited hearings, the ALJ may orally provide notice of the hearing to the enrollee and other potential participants but oral notice must be followed by an equivalent written notice within 1 calendar day of the oral notice.

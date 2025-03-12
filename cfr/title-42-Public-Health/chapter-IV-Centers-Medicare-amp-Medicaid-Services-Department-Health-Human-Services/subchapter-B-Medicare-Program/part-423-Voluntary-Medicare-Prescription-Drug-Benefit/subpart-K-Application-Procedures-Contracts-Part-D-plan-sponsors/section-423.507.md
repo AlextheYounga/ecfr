@@ -1,5 +1,7 @@
 ##### § 423.507 Nonrenewal of contract. #####
 
+Link to an amendment published at 83 FR 16750, April 16, 2018.
+
 (a) *Nonrenewal by a Part D plan sponsor.* (1) Except for fallback entities, a Part D plan sponsor may elect not to renew its contract with CMS, effective at the end of the term of the contract for any reason provided it meets the timeframes for doing so set forth in paragraphs (a)(2) and (a)(3) of this section.
 
 (2) If a Part D plan sponsor does not intend to renew its contract, it must notify -

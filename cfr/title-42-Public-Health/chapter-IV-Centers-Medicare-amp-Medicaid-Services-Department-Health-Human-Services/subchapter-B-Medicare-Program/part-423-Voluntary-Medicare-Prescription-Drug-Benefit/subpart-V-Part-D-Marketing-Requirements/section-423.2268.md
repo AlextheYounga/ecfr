@@ -1,5 +1,7 @@
 ##### § 423.2268 Standards for Part D marketing. #####
 
+Link to an amendment published at 83 FR 16755, April 16, 2018.
+
 In conducting marketing activities, a Part D plan may not -
 
 (a) Provide cash or other remuneration as an inducement for enrollment or otherwise.

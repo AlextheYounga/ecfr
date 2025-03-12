@@ -1,5 +1,7 @@
 ##### § 423.2038 Deciding a case without a hearing before an ALJ. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 (a) *Decision fully favorable.* If the evidence in the administrative record supports a finding fully in favor of the enrollee(s) on every issue, the ALJ or attorney adjudicator may issue a decision without giving the enrollee(s) prior notice and without an ALJ conducting a hearing. The notice of the decision informs the enrollee(s) that he or she has the right to a hearing and a right to examine the evidence on which the decision is based.
 
 (b) *Enrollee does not wish to appear.* (1) The ALJ or attorney adjudicator may decide a case on the record and without an ALJ conducting a hearing if -

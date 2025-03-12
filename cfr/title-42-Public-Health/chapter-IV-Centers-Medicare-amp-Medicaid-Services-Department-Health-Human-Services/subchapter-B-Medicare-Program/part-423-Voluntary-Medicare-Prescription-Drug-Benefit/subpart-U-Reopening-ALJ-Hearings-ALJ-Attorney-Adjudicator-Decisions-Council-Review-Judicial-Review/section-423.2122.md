@@ -1,5 +1,7 @@
 ##### § 423.2122 What evidence may be submitted to the Council. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 (a) *Appeal before the Council on request for review of ALJ's or attorney adjudicator's decision.* (1) If the Council is reviewing an ALJ's or attorney adjudicator's decision, the Council will consider the evidence contained in the record of the proceedings before the ALJ or attorney adjudicator, and any new evidence that relates to the period before the coverage determination. If the ALJ's or attorney adjudicator's decision decides a new issue that the enrollee was not afforded an opportunity to address at the OMHA level, the Council considers any evidence related to that issue that is submitted with the request for review.
 
 (2) If the Council determines that additional evidence is needed to resolve the issues in the case and the administrative record indicates that the previous decision-makers have not attempted to obtain the evidence, the Council may remand the case to an ALJ or attorney adjudicator to obtain the evidence and issue a new decision.

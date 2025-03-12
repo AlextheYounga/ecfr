@@ -1,5 +1,7 @@
 ##### § 396.12 Procedures for intermodal equipment providers to accept reports required by § 390.42(b) of this chapter. #####
 
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+
 (a) *System for reports.* Each intermodal equipment provider must establish a system for motor carriers and drivers to report to it any damage, defects, or deficiencies of intermodal equipment discovered by, or reported to, the motor carrier or driver which would -
 
 (1) Affect the safety of operation of the intermodal equipment, or

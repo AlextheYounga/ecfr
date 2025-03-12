@@ -1,5 +1,7 @@
 ##### § 398.3 Qualifications of drivers or operators. #####
 
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+
 (a) *Compliance required.* Every motor carrier, and its officers, agents, representatives and employees who drive motor vehicles or are responsible for the hiring, supervision, training, assignment or dispatching of drivers shall comply and be conversant with the requirements of this part.
 
 (b) *Minimum physical requirements.* No person shall drive, nor shall any motor carrier require or permit any person to drive, any motor vehicle unless such person possesses the following minimum qualifications:

@@ -1,5 +1,7 @@
 ##### § 422.750 Types of intermediate sanctions and civil money penalties. #####
 
+Link to an amendment published at 83 FR 16734, April 16, 2018.
+
 (a) The following intermediate sanctions may be imposed and will continue in effect until CMS is satisfied that the deficiencies that are the basis for the sanction determination have been corrected and are not likely to recur:
 
 (1) Suspension of the MA organization's enrollment of Medicare beneficiaries.

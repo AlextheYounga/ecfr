@@ -1,5 +1,7 @@
 ##### § 375.213 What information must I provide to a prospective individual shipper? #####
 
+Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
+
 (a) When you provide the written estimate to a prospective individual shipper, you must also provide the individual shipper with a copy of Department of Transportation publication FMCSA-ESA-03-005 (or its successor publication) entitled “Ready to Move? - Tips for a Successful Interstate Move.” You may provide the individual shipper with a paper copy or you may provide a hyperlink on your Internet Web site to the FMCSA Web site containing the information in FMCSA's publication “Ready to Move? - Tips for a Successful Interstate Move.”
 
 (b) Before you execute an order for service for a shipment of household goods, you must furnish to your prospective individual shipper all five of the following documents:

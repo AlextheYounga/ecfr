@@ -1,5 +1,7 @@
 ##### 814.204 Records of invitations for bids and records of bids. #####
 
+Link to an amendment published at 83 FR 16209, Apr. 16, 2018.
+
 (a) The issuing office must establish and maintain a single register on a fiscal year basis for all solicitations. For each invitation to bid or request for proposal, the register must include the following:
 
 (1) Bid or proposal number.

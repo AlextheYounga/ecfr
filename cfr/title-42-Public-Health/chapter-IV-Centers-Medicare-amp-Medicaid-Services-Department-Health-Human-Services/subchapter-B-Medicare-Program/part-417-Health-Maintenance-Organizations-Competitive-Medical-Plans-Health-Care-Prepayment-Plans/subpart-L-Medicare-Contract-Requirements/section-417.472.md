@@ -1,5 +1,7 @@
 ##### § 417.472 Basic contract requirements. #####
 
+Link to an amendment published at 83 FR 16721, April 16, 2018.
+
 (a) *Submittal of contract.* An HMO or CMP that wishes to contract with CMS to furnish services to Medicare beneficiaries must submit a signed contract that meets the requirements of this subpart and any other requirements established by CMS.
 
 (b) *Agreement to comply with regulations and instructions.* The contract must provide that the HMO or CMP agrees to comply with all the applicable requirements and conditions set forth in this subpart and in general instructions issued by CMS.

@@ -1,5 +1,7 @@
 ##### § 387.31 Financial responsibility required. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) No motor carrier shall operate a motor vehicle transporting passengers until the motor carrier has obtained and has in effect the minimum levels of financial responsibility as set forth in § 387.33 of this subpart.
 
 (b) Policies of insurance, surety bonds, and endorsements required under this section shall remain in effect continuously until terminated.

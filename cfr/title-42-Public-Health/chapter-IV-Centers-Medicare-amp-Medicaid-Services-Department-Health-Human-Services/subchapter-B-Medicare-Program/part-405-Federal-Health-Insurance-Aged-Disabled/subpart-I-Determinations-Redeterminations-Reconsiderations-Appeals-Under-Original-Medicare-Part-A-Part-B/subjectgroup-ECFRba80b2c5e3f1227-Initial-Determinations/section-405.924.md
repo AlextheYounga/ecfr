@@ -1,5 +1,7 @@
 ##### § 405.924 Actions that are initial determinations. #####
 
+Link to an amendment published at 83 FR 16721, Apr. 16, 2018.
+
 (a) *Applications and entitlement of individuals.* SSA makes initial determinations and processes reconsiderations with respect to an individual on the following:
 
 (1) A determination with respect to entitlement to hospital insurance or supplementary medical insurance under Medicare.

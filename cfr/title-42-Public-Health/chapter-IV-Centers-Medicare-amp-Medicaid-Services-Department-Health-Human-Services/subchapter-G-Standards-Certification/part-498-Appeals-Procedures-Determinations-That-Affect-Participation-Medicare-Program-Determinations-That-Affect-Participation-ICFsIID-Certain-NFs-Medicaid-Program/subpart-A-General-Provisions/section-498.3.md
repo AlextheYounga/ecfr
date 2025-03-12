@@ -1,5 +1,7 @@
 ##### § 498.3 Scope and applicability. #####
 
+Link to an amendment published at 83 FR 16757, Apr. 16, 2018.
+
 (a) *Scope.* (1) This part sets forth procedures for reviewing initial determinations that CMS makes with respect to the matters specified in paragraph (b) of this section, and that the OIG makes with respect to the matters specified in paragraph (c) of this section. It also specifies, in paragraph (d) of this section, administrative actions that are not subject to appeal under this part.
 
 (2) The determinations listed in this section affect participation in the Medicare program. Many of the procedures of this part also apply to other determinations that do not affect participation in Medicare. Some examples follow:

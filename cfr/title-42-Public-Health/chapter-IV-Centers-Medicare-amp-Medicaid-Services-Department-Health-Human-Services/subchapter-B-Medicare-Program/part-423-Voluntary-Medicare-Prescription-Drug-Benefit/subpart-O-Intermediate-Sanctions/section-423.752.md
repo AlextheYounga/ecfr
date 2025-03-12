@@ -1,5 +1,7 @@
 ##### § 423.752 Basis for imposing intermediate sanctions and civil money penalties. #####
 
+Link to an amendment published at 83 FR 16753, April 16, 2018.
+
 (a) *All intermediate sanctions.* For the violations listed in this paragraph (a), CMS may impose one or more of the sanctions specified in § 423.750(a) of this subpart on any Part D plan sponsor with a contract. The Part D plan sponsor may also be subject to other remedies authorized under law.
 
 (1) Fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has the substantial likelihood of adversely affecting) the individual.

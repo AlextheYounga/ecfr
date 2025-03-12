@@ -1,5 +1,7 @@
 ##### § 391.55 LCV Driver-Instructor qualification files. #####
 
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+
 (a) Each motor carrier must maintain a qualification file for each LCV driver-instructor it employs or uses. The LCV driver-instructor qualification file may be combined with his/her personnel file.
 
 (b) The LCV driver-instructor qualification file must include the information in paragraphs (b)(1) and (b)(2) of this section for a skills instructor or the information in paragraph (b)(1) of this section for a classroom instructor, as follows:

@@ -1,5 +1,7 @@
 ##### § 423.100 Definitions. #####
 
+Link to an amendment published at 83 FR 16737, April 16, 2018.
+
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).

@@ -1,5 +1,7 @@
 ##### § 422.2490 Release of Part C MLR data. #####
 
+Link to an amendment published at 83 FR 16736, April 16, 2018.
+
 (a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part C MLR data consists of the information contained in reports submitted under § 422.2460.
 
 (b) *Exclusions from Part C MLR data.* For the purpose of this section, the following items are excluded from Part C MLR data:

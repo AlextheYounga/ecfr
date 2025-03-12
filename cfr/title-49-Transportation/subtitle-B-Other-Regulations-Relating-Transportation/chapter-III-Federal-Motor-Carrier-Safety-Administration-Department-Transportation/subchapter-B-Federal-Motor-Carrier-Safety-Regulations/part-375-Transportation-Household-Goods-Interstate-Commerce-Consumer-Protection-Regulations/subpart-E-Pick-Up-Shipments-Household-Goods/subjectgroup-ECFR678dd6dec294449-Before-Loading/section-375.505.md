@@ -1,5 +1,7 @@
 ##### § 375.505 Must I write up a bill of lading? #####
 
+Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
+
 (a) You must issue a bill of lading. The bill of lading must contain the terms and conditions of the contract. A bill of lading may be combined with an order for service to include all the items required by § 375.501 of this subpart. You must furnish a partially complete copy of the bill of lading to the individual shipper before the vehicle leaves the residence at origin. The partially complete bill of lading must contain all relevant shipment information, except the actual shipment weight and any other information necessary to determine the final charges for all services performed.
 
 (b) On a bill of lading, you must include the following 14 items:

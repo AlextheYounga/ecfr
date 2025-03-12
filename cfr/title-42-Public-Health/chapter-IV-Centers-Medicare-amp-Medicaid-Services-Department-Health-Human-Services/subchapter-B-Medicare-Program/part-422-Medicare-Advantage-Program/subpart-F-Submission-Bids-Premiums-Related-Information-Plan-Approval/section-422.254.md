@@ -1,5 +1,7 @@
 ##### § 422.254 Submission of bids. #####
 
+Link to an amendment published at 83 FR 16733, April 16, 2018.
+
 (a) *General rules.* (1) Not later than the first Monday in June, each MA organization must submit to CMS an aggregate monthly bid amount for each MA plan (other than an MSA plan) the organization intends to offer in the upcoming year in the service area (or segment of such an area if permitted under § 422.262(c)(2)) that meets the requirements in paragraph (b) of this section. With each bid submitted, the MA organization must provide the information required in paragraph (c) of this section and, for plans with rebates as described at § 422.266(a), the MA organization must provide the information required in paragraph (d) of this section.
 
 (2) CMS has the authority to determine whether and when it is appropriate to apply the bidding methodology described in this section to ESRD MA enrollees.

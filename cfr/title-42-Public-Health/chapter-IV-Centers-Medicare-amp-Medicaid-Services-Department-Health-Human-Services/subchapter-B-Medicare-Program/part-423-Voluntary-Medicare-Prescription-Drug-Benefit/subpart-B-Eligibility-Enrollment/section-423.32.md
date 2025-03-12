@@ -1,5 +1,7 @@
 ##### § 423.32 Enrollment process. #####
 
+Link to an amendment published at 83 FR 16736, April 16, 2018.
+
 (a) *General rule.* A Part D eligible individual who wishes to enroll in a PDP may enroll during the enrollment periods specified in § 423.38, by filing the appropriate enrollment form with the PDP or through other mechanisms CMS determines are appropriate.
 
 (b) *Enrollment form or CMS-approved enrollment mechanism.* The enrollment form or CMS-approved enrollment mechanism must comply with CMS instructions regarding content and format and must have been approved by CMS as described in § 423.50.

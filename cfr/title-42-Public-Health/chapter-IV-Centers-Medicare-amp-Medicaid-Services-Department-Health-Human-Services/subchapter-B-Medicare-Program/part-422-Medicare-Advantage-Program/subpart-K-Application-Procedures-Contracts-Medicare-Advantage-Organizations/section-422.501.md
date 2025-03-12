@@ -1,5 +1,7 @@
 ##### § 422.501 Application requirements. #####
 
+Link to an amendment published at 83 FR 16733, April 16, 2018.
+
 (a) *Scope.* This section sets forth application requirements for entities that seek a contract as an MA organization offering an MA plan and additional application requirements for MA organizations seeking to offer a Specialized MA Plan for Special Needs Individuals.
 
 (b) *Completion of a notice of intent to apply.* (1) An organization submitting an application under this section for a particular contract year must first submit a completed Notice of Intent to Apply by the date established by CMS. CMS will not accept applications from organizations that do not first submit a timely Notice of Intent to Apply.

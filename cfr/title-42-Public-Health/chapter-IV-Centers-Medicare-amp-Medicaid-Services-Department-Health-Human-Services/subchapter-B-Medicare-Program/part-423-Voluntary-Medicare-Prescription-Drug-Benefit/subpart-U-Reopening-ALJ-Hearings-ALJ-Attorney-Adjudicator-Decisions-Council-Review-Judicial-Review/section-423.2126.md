@@ -1,5 +1,7 @@
 ##### § 423.2126 Case remanded by the Council. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 (a) *When the Council may remand a case to the ALJ or attorney adjudicator.* (1) The Council may remand a case in which additional evidence is needed or additional action by the ALJ or attorney adjudicator is required. The Council will designate in its remand order whether the ALJ or attorney adjudicator will issue a decision or a recommended decision on remand.
 
 (2) *Action by ALJ or attorney adjudicator on remand.* The ALJ or attorney adjudicator will take any action that is ordered by the Council and may take any additional action that is not inconsistent with the Council's remand order.

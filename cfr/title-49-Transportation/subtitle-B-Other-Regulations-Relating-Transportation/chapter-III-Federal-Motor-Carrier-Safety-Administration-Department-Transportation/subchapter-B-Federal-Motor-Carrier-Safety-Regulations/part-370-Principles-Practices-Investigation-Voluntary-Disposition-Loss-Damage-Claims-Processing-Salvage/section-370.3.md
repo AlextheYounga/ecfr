@@ -1,5 +1,7 @@
 ##### § 370.3 Filing of claims. #####
 
+Link to an amendment published at 83 FR 16223, Apr. 16, 2018.
+
 (a) *Compliance with regulations.* A claim for loss or damage to baggage or for loss, damage, injury, or delay to cargo, shall not be voluntarily paid by a carrier unless filed, as provided in paragraph (b) of this section, with the receiving or delivering carrier, or carrier issuing the bill of lading, receipt, ticket, or baggage check, or carrier on whose line the alleged loss, damage, injury, or delay occurred, within the specified time limits applicable thereto and as otherwise may be required by law, the terms of the bill of lading or other contract of carriage, and all tariff provisions applicable thereto.
 
 (b) *Minimum filing requirements.* A written or electronic communication (when agreed to by the carrier and shipper or receiver involved) from a claimant, filed with a proper carrier within the time limits specified in the bill of lading or contract of carriage or transportation and:

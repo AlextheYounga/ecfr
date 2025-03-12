@@ -1,5 +1,7 @@
 ##### § 422.2410 General requirements. #####
 
+Link to an amendment published at 83 FR 16736, April 16, 2018.
+
 (a) For contracts beginning in 2014 or later, an MA organization (defined at § 422.2) is required to report an MLR for each contract under this part for each contract year.
 
 (b) *MLR requirement.* If CMS determines for a contract year that an MA organization has an MLR for a contract that is less than 0.85, the MA organization has not met the MLR requirement and must remit to CMS an amount equal to the product of the following:

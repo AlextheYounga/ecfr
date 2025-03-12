@@ -1,5 +1,7 @@
 ##### § 422.2430 Activities that improve health care quality. #####
 
+Link to an amendment published at 83 FR 16736, April 16, 2018.
+
 (a) *Activity requirements.* Activities conducted by an MA organization to improve quality must fall into one of the categories in paragraph (a)(1) of this section and meet all of the requirements in paragraph (a)(2) of this section.
 
 (1) *Categories of quality improving activities.* The activity must be designed to achieve one or more of the following:

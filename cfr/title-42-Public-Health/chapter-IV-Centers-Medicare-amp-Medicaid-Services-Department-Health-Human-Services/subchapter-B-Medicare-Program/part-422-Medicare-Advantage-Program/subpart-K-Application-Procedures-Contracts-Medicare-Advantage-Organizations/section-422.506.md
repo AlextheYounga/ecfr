@@ -1,5 +1,7 @@
 ##### § 422.506 Nonrenewal of contract. #####
 
+Link to an amendment published at 83 FR 16734, April 16, 2018.
+
 (a) *Nonrenewal by an MA organization.* (1) An MA organization may elect not to renew its contract with CMS as of the end of the term of the contract for any reason provided it meets the timeframes for doing so set forth in paragraphs (a)(2) and (a)(3) of this section.
 
 (2) If an MA organization does not intend to renew its contract, it must notify -

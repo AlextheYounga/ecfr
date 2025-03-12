@@ -1,5 +1,7 @@
 ##### § 423.503 Evaluation and determination procedures for applications to be determined qualified to act as a sponsor. #####
 
+Link to an amendment published at 83 FR 16750, April 16, 2018.
+
 (a) *Basis for evaluation and determination.* (1) With the exception of evaluations conducted under paragraph (b) of this section, CMS evaluates an entity's application solely on the basis of information contained in the application itself and any additional information that CMS obtains through on-site visits and any essential operations test.
 
 (2) After evaluating all relevant information, CMS determines whether the application meets all the requirements described in this part.

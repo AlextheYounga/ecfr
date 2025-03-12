@@ -1,5 +1,7 @@
 ##### § 423.38 Enrollment periods. #####
 
+Link to an amendment published at 83 FR 16737, April 16, 2018.
+
 (a) *Initial enrollment period for Part D - Basic rule.* The initial enrollment period is the period during which an individual is first eligible to enroll in a Part D plan.
 
 (1) *In 2005.* An individual who is first eligible to enroll in a Part D plan on or prior to January 31, 2006, has an initial enrollment period from November 15, 2005 through May 15, 2006.

@@ -1,5 +1,7 @@
 ##### 852.214-70 Caution to bidders - bid envelopes. #####
 
+Link to an amendment published at 83 FR 16210, Apr. 16, 2018.
+
 As provided in 814.201-6(a), the following provision will be included in all invitations for bid:
 
 Caution to Bidders - Bid Envelopes (JAN 2008)

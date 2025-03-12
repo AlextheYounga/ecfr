@@ -1,5 +1,7 @@
 ##### § 422.2 Definitions. #####
 
+Link to an amendment published at 83 FR 16722, April 16, 2018.
+
 As used in this part -
 
 *Arrangement* means a written agreement between an MA organization and a provider or provider network, under which -

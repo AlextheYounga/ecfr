@@ -1,14 +1,12 @@
 ##### § 64.1310 Payphone compensation procedures. #####
 
-Link to an amendment published at 83 FR 11428, Mar. 15, 2018.
-
 (a) Unless the payphone service provider consents to an alternative compensation arrangement, each Completing Carrier identified in § 64.1300(a) shall compensate the payphone service provider in accordance with paragraphs (a)(1) through (a)(4) of this section. A payphone service provider may not unreasonably withhold its consent to an alternative compensation arrangement.
 
 (1) Each Completing Carrier shall establish a call tracking system that accurately tracks coinless access code or subscriber toll-free payphone calls to completion.
 
 (2) Each Completing Carrier shall pay compensation to payphone service providers on a quarterly basis for each completed payphone call identified in the Completing Carrier's quarterly report required by paragraph (a)(4) of this section.
 
-(3) When payphone compensation is tendered for a quarter, the chief financial officer of the Completing Carrier shall submit to each payphone service provider to which compensation is tendered a sworn statement that the payment amount for that quarter is accurate and is based on 100% of all completed calls that originated from that payphone service provider's payphones. Instead of transmitting individualized statements to each payphone service provider, a Completing Carrier may provide a single, blanket sworn statement addressed to all payphone service providers to which compensation is tendered for that quarter and may notify the payphone service providers of the sworn statement through any electronic method, including transmitting the sworn statement with the § 64.1310(a)(4) quarterly report, or posting the sworn statement on the Completing Carrier or clearinghouse website. If a Completing Carrier chooses to post the sworn statement on its website, the Completing Carrier shall state in its § 64.1310(a)(4) quarterly report the web address of the sworn statement.
+(3) When payphone compensation is tendered for a quarter, a company official with the authority to bind the Completing Carrier shall submit to each payphone service provider to which compensation is tendered a sworn statement that the payment amount for that quarter is accurate and is based on 100% of all completed calls that originated from that payphone service provider's payphones. Instead of transmitting individualized statements to each payphone service provider, a Completing Carrier may provide a single, blanket sworn statement addressed to all payphone service providers to which compensation is tendered for that quarter and may notify the payphone service providers of the sworn statement through any electronic method, including transmitting the sworn statement with the § 64.1310(a)(4) quarterly report, or posting the sworn statement on the Completing Carrier or clearinghouse website. If a Completing Carrier chooses to post the sworn statement on its website, the Completing Carrier shall state in its § 64.1310(a)(4) quarterly report the web address of the sworn statement.
 
 (4) At the conclusion of each quarter, the Completing Carrier shall submit to the payphone service provider, in computer readable format, a report on that quarter that includes:
 
@@ -44,4 +42,4 @@ Link to an amendment published at 83 FR 11428, Mar. 15, 2018.
 
 (g) Each Completing Carrier and each Intermediate Carrier must maintain verification data to support the quarterly reports submitted pursuant to paragraphs (a)(4) and (c) of this section for 27 months after the close of that quarter. This data must include the time and date that each call identified in paragraphs (a)(4) and (c) of this section was made. This data must be provided to the payphone service provider upon request.
 
-[68 FR 62755, Nov. 6, 2003, as amended at 70 FR 722, Jan. 5, 2005]
+[68 FR 62755, Nov. 6, 2003, as amended at 70 FR 722, Jan. 5, 2005]Effective Date Note:At 83 FR 11428, Mar. 15, 2018, § 64.1310 was amended by revising paragraph (a)(3). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

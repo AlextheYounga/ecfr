@@ -1,5 +1,7 @@
 ##### § 422.222 Enrollment of MA organization network providers and suppliers; first-tier, downstream, and related entities (FDRs); cost HMO or CMP, and demonstration and pilot programs. #####
 
+Link to an amendment published at 83 FR 16733, April 16, 2018.
+
 (a) Providers or suppliers that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, must be enrolled in Medicare and be in an approved status in Medicare in order to provide health care items or services to a Medicare enrollee who receives his or her Medicare benefit through an MA organization. This requirement applies to all of the following providers and suppliers:
 
 (1) Network providers and suppliers.

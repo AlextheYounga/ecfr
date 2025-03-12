@@ -1,5 +1,7 @@
 ##### 802.101 Definitions. #####
 
+Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
+
 *A/E* means architect/engineer.
 
 *Chief Acquisition Officer* means the Assistant Secretary for Management.

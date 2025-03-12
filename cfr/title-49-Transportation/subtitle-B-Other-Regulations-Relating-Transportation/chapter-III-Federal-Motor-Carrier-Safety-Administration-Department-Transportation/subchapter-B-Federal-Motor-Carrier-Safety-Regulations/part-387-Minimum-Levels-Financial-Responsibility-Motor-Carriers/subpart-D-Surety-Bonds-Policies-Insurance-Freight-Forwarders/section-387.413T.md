@@ -1,5 +1,7 @@
 ##### § 387.413T Forms and procedures. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) *Forms.* Endorsements for policies of insurance, surety bonds, certificates of insurance, applications to qualify as a self-insurer or for approval of other securities or agreements, and notices of cancellation must be in the form prescribed at subpart C of this part.
 
 (b) *Procedure.* Certificates of insurance, surety bonds, and notices of cancellation must be filed with the FMCSA in triplicate.

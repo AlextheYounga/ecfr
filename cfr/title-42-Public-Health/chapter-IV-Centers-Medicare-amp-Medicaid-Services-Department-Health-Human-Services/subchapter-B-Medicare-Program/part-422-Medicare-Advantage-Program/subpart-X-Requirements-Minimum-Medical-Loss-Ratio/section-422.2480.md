@@ -1,5 +1,7 @@
 ##### § 422.2480 MLR review and non-compliance. #####
 
+Link to an amendment published at 83 FR 16736, April 16, 2018.
+
 To ensure the accuracy of MLR reporting, CMS conducts selected reviews of reports submitted under § 422.2460 to determine that that the MLRs and remittance amounts under § 422.2410(b) and sanctions under § 422.2410(c) and (d), were accurately calculated, reported, and applied.
 
 (a) The reviews include a validation of amounts included in both the numerator and denominator of the MLR calculation reported to CMS.

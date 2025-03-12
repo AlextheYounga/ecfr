@@ -1,5 +1,7 @@
 ##### § 378.3 Filing and processing claims. #####
 
+Link to an amendment published at 83 FR 16225, Apr. 16, 2018.
+
 (a) A claim for overcharge, duplicate payment, or overcollection shall not be paid unless filed in writing or electronically communicated (when agreed to by the carrier and shipper or receiver involved) with the carrier that collected the transportation charges. The collecting carrier shall be the carrier to process all such claims. When a claim is filed with another carrier that participated in the transportation, that carrier shall transmit the claim to the collecting carrier within 15 days after receipt of the claim. If the collecting carrier is unable to dispose of the claim for any reason, the claim may be filed with or transferred to any participating carrier for final disposition.
 
 (b) A single claim may include more than one shipment provided the claim on each shipment involves:

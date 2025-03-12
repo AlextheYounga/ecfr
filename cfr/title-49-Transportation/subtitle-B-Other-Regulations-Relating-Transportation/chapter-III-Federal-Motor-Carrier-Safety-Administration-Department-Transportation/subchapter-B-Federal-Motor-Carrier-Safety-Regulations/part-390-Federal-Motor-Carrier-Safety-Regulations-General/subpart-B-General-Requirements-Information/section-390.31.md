@@ -1,5 +1,7 @@
 ##### § 390.31 Copies of records or documents. #####
 
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+
 (a) All records and documents required to be maintained under this subchapter must be preserved in their original form for the periods specified, unless the records and documents are suitably photographed and the microfilm is retained in lieu of the original record for the required retention period.
 
 (b) To be acceptable in lieu of original records, photographic copies of records must meet the following minimum requirements:

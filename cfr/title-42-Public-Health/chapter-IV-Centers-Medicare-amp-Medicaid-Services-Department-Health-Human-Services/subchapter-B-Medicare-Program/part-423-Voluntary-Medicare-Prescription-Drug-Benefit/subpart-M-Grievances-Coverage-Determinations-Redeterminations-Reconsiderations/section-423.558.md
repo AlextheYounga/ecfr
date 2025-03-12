@@ -1,5 +1,7 @@
 ##### § 423.558 Scope. #####
 
+Link to an amendment published at 83 FR 16750, April 16, 2018.
+
 (a) This subpart sets forth the requirements relating to the following:
 
 (1) Part D plan sponsors with respect to grievances, coverage determinations, and redeterminations.

@@ -1,5 +1,7 @@
 ##### § 423.40 Effective dates. #####
 
+Link to an amendment published at 83 FR 16737, April 16, 2018.
+
 (a) *Initial enrollment period.* (1) An enrollment made prior to the month of entitlement to Part A or enrollment in Part B is effective the first day of the month the individual is entitled to or enrolled in Part A or enrolled in Part B.
 
 (2) Except as otherwise provided under § 423.34(f), an enrollment made during or after the month of entitlement to Part A or enrollment in Part B is effective the first day of the calendar month following the month in which the enrollment in Part D is made.

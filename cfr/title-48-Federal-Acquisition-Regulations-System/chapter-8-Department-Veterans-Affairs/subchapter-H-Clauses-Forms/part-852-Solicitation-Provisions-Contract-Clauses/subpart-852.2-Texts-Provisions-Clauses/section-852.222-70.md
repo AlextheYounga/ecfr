@@ -1,5 +1,7 @@
 ##### 852.222-70 Contract Work Hours and Safety Standards Act - nursing home care contract supplement. #####
 
+Link to an amendment published at 83 FR 16210, Apr. 16, 2018.
+
 As prescribed in 822.305, for nursing home care requirements, insert the following clause:
 
 Contract Work Hours and Safety Standards Act - Nursing Home Care Contract Supplement (JAN 2008)

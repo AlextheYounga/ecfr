@@ -1,5 +1,7 @@
 ##### 852.203-71 Display of Department of Veterans Affairs hotline poster. #####
 
+Link to an amendment published at 83 FR 16210, Apr. 16, 2018.
+
 As prescribed in 803.7001, insert the following clause:
 
 Display of Department of Veterans Affairs Hotline Poster (DEC 1992)

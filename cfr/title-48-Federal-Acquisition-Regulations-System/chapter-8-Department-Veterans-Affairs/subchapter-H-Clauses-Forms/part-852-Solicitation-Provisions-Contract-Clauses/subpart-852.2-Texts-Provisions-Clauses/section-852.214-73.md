@@ -1,5 +1,7 @@
 ##### 852.214-73 Alternate packaging and packing. #####
 
+Link to an amendment published at 83 FR 16210, Apr. 16, 2018.
+
 As prescribed in 814.201-6(b)(3), insert the following provision:
 
 Alternate Packaging and Packing (JAN 2008)

@@ -1,5 +1,7 @@
 ##### § 423.2018 Submitting evidence. #####
 
+Link to an amendment published at 83 FR 16754, April 16, 2018.
+
 (a) *All appeals.* An enrollee must submit any written or other evidence that he or she wishes to have considered.
 
 (1) An ALJ or attorney adjudicator will not consider any evidence submitted regarding a change in condition of an enrollee after the appealed coverage determination was made.

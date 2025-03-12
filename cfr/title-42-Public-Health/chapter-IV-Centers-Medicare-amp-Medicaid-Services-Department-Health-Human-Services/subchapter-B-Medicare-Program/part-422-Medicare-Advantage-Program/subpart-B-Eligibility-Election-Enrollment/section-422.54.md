@@ -1,5 +1,7 @@
 ##### § 422.54 Continuation of enrollment for MA local plans. #####
 
+Link to an amendment published at 83 FR 16722, April 16, 2018.
+
 (a) *Definition. Continuation area* means an additional area (outside the service area) within which the MA organization offering a local plan furnishes or arranges to furnish services to its continuation-of-enrollment enrollees. Enrollees must reside in a continuation area on a permanent basis. A continuation area does not expand the service area of any MA local plan.
 
 (b) *Basic rule.* An MA organization may offer a continuation of enrollment option to MA local plan enrollees when they no longer reside in the service area of a plan and permanently move into the geographic area designated by the MA organization as a continuation area. The intent to no longer reside in an area and permanently live in another area is verified through documentation that establishes residency, such as a driver's license or voter registration card.

@@ -1,5 +1,7 @@
 ##### § 423.782 Cost-sharing subsidy. #####
 
+Link to an amendment published at 83 FR 16753, April 16, 2018.
+
 (a) *Full subsidy eligible individuals.* Full subsidy eligible individuals are entitled to the following:
 
 (1) Elimination of the annual deductible under § 423.104(d)(1).

@@ -1,5 +1,7 @@
 ##### § 422.206 Interference with health care professionals' advice to enrollees prohibited. #####
 
+Link to an amendment published at 83 FR 16731, April 16, 2018.
+
 (a) *General rule.* (1) An MA organization may not prohibit or otherwise restrict a health care professional, acting within the lawful scope of practice, from advising, or advocating on behalf of, an individual who is a patient and enrolled under an MA plan about -
 
 (i) The patient's health status, medical care, or treatment options (including any alternative treatments that may be self-administered), including the provision of sufficient information to the individual to provide an opportunity to decide among all relevant treatment options;

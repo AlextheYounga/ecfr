@@ -1,5 +1,7 @@
 ##### § 423.564 Grievance procedures. #####
 
+Link to an amendment published at 83 FR 16751, April 16, 2018.
+
 (a) *General rule.* Each Part D plan sponsor must provide meaningful procedures for timely hearing and resolving grievances between enrollees and the Part D plan sponsor or any other entity or individual through whom the Part D plan sponsor provides covered benefits under any Part D plan it offers.
 
 (b) *Distinguished from appeals.* Grievance procedures are separate and distinct from appeal procedures, which address coverage determinations as defined in § 423.566(b). Upon receiving a complaint, a Part D plan sponsor must promptly determine and inform the enrollee whether the complaint is subject to its grievance procedures or its appeal procedures.
