@@ -6,7 +6,7 @@
 
 (2) Any property, funds, securities, papers, or other articles or documents, or any vessel, together with its tackle, apparel, furniture, and equipment, concerned in a violation of TWEA may upon conviction be forfeited to the United States Government.
 
-(3) The Secretary of the Treasury may impose a civil penalty of not more than $90,743per violation on any person who violates any license, order, or regulation issued under TWEA.
+(3) The Secretary of the Treasury may impose a civil penalty of not more than $90,743 per violation on any person who violates any license, order, or regulation issued under TWEA.
 
 Note to paragraph (a)(3):
 

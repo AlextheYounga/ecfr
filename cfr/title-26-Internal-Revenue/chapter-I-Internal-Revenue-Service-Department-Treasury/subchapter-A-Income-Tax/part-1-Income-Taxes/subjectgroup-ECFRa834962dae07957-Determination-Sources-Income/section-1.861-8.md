@@ -378,6 +378,6 @@ Table 8 to Paragraph (g)(26)(ii)(B)(2)
 
 (B) *Apportionment.* The deduction of $14,000x for income taxes of states B and C is apportioned in the same manner as in paragraph (g)(26) of this section (*Example 26*). As a result, $5,250x of the $14,000x of state B and state C income taxes is apportioned to foreign source foreign branch category income ($14,000x × $150,000x/$400,000x), and $8,750x ($14,000x × $250,000x/$400,000x) of the $14,000x of state B and state C income taxes is apportioned to U.S. source income.
 
-(h) *Applicability date.* This section applies to taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
+(h) *Applicability date.* Except as provided in this paragraph (h), this section applies to taxable years that both begin after December 31, 2017 and end on or after December 4, 2018. The last sentence of paragraph (d)(2)(ii)(C)(*1*) of this section, and paragraph (f)(1)(vi)(N) of this section, apply to taxable years beginning on or after January 1, 2021.
 
 [T.D. 7456, 42 FR 1195, Jan. 6, 1977]Editorial Note:For Federal Register citations affecting § 1.861-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

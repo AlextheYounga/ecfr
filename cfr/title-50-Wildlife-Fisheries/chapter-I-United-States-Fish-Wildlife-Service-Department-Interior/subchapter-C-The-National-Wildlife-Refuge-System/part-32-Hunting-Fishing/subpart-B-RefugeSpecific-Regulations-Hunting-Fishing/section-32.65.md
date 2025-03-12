@@ -35,8 +35,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (b) *Chincoteague National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and rail on designated areas of the refuge subject to the following conditions:
 
 (i) You must obtain and possess a signed refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) while hunting on the refuge.
-
-(ii) You may only access hunting areas by boat.
+P\>(ii) You may only access hunting areas by boat.
 
 (iii) We prohibit hunting on Assawoman and Metompkin Islands' beach and dune habitats beginning March 15.
 

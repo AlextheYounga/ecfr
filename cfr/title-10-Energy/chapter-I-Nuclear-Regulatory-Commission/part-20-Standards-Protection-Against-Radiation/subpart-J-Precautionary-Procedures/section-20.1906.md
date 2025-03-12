@@ -1,6 +1,6 @@
 ##### § 20.1906 Procedures for receiving and opening packages. #####
 
-Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
+Link to an amendment published at 85 FR 65661, Oct. 16, 2020.Link to a correction of the above amendment published at 85 FR 68243, Oct. 28, 2020.
 
 (a) Each licensee who expects to receive a package containing quantities of radioactive material in excess of a Type A quantity, as defined in § 71.4 and appendix A to part 71 of this chapter, shall make arrangements to receive -
 

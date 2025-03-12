@@ -19,4 +19,4 @@ Table 1 of § 1010.821 - Penalty Adjustment Table
 |    31 U.S.C. 5321(a)(7)     |Violation of Certain Due Diligence Requirements, Prohibition on Correspondent Accounts for Shell Banks, and Special Measures|                1,000,000                 |                                                         1,448,191                                                          |
 |      31 U.S.C. 5330(e)      |                            Civil Penalty for Failure to Register as Money Transmitting Business                            |                  5,000                   |                                                           8,606                                                            |
 
-[81 FR 42505, June 30, 2016, as amended at 82 FR 10439, Feb. 10, 2017; 83 FR 11881, Mar. 19, 2018; 84 FR 51974, Oct. 1, 2019; 84 FR 53053, Oct. 4, 2019; 84 FR 54495, Oct. 10, 2019; 85 FR 9371, Feb. 19, 2020]
+[81 FR 42505, June 30, 2016, as amended at 82 FR 10439, Feb. 10, 2017; 83 FR 11881, Mar. 19, 2018; 85 FR 9371, Feb. 19, 2020]

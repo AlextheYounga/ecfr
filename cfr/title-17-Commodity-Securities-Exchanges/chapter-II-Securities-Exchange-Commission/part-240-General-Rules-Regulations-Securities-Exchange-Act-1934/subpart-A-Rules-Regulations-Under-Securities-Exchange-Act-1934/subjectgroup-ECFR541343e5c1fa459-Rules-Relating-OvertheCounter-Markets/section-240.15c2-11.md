@@ -1,6 +1,6 @@
 ##### § 240.15c2-11 Initiation or resumption of quotations without specific information. #####
 
-Preliminary Note:
+Link to an amendment published at 85 FR 68203, Oct. 27, 2020.Preliminary Note:
 
 Brokers and dealers may wish to refer to Securities Exchange Act Release No. 29094 (April 17, 1991), for a discussion of procedures for gathering and reviewing the information required by this rule and the requirement that a broker or dealer have a reasonable basis for believing that the information is accurate and obtained from reliable sources.
 

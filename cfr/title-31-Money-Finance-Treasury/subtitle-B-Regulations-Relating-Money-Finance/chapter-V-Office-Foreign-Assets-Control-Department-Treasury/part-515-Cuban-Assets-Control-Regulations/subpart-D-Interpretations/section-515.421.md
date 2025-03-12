@@ -1,5 +1,7 @@
 ##### § 515.421 Transactions ordinarily incident to a licensed transaction. #####
 
+Link to an amendment published at 85 FR 67989, Oct. 27, 2020.
+
 (a) Any transaction ordinarily incident to a licensed transaction and necessary to give effect thereto is also authorized, except:
 
 (1) A transaction by or with a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338, where the terms of the applicable general or specific license expressly exclude transactions with such persons;

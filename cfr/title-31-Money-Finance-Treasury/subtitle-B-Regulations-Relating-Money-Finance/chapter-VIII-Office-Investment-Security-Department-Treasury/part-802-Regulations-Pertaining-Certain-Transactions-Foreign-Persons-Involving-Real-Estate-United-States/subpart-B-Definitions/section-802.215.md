@@ -72,4 +72,4 @@ Note 1 to § 802.215:
 
 See § 802.501(c)(2) regarding an agency notice where a foreign person is not an excepted real estate investor solely due to paragraph (d) of this section.
 
-[85 FR 3166, Jan. 17, 2020; 85 FR 8746, Feb. 18, 2020]
+[85 FR 3166, Jan. 17, 2020; 85 FR 8747, Feb. 18, 2020]

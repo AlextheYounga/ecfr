@@ -22,6 +22,6 @@
 
 (10) With respect to the prohibition set forth in § 510.210(c), April 18, 2020. The effective date of a prohibition or strict condition imposed pursuant to § 510.210(c) on the opening or maintaining of a correspondent account or a payable-through account in the United States by a U.S. financial institution for a particular foreign financial institution is the earlier of the date the U.S. financial institution receives actual or constructive notice of such prohibition or condition.
 
-(b) For the purposes of this section, *constructive notice* is the date that a notice of the blocking of the relevant person's property and interests in property is published in the Federal Register.
+(b) For the purposes of this section, *constructive notice* is the date that a notice of the blocking of the relevant person's property and interests in property, or a notice of the imposition of a prohibition or strict condition pursuant to § 510.210, is published in the Federal Register.
 
 [83 FR 9187, Mar. 5, 2018, as amended at 85 FR 20162, Apr. 10, 2020]

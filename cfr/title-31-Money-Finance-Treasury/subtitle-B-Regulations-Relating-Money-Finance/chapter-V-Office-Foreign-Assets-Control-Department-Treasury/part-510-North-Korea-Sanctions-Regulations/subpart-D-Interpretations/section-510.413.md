@@ -22,4 +22,4 @@ In determining, for purposes of §§ 510.201(a) and 510.210, whether an activity
 
 (g) *Other relevant factors.* Such other factors that the Department of the Treasury deems relevant on a case-by-case basis in determining the significance of an activity or activities, transaction(s), or financial service(s).
 
-[; 85 FR 20162, Apr. 10, 2020]
+[85 FR 20162, Apr. 10, 2020]

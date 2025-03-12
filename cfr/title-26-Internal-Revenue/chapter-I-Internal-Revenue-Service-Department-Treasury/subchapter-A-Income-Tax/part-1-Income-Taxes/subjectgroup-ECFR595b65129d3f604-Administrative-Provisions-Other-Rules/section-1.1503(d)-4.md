@@ -1,5 +1,7 @@
 ##### § 1.1503(d)-4 Domestic use limitation and related operating rules. #####
 
+Link to an amendment published at 85 FR 67988, Oct. 27, 2020.
+
 (a) *Scope.* This section prescribes rules that apply when the general limitation on the domestic use of a dual consolidated loss under paragraph (b) of this section applies. Thus, the rules of this section do not apply when an exception to the domestic use limitation applies (for example, as a result of a domestic use election under § 1.1503(d)-6(d)). In general, when the domestic use limitation applies, the dual consolidated loss of a dual resident corporation or separate unit is subject to the separate return limitation year (SRLY) provisions of § 1.1502-21(c), as modified under this section. Paragraph (c) of this section provides rules that determine the effect of a dual consolidated loss on a consolidated group, an unaffiliated dual resident corporation, or an unaffiliated domestic owner. Paragraph (d) of this section provides rules that eliminate dual consolidated losses following certain transactions or events. Paragraph (e) of this section contains provisions that prevent dual consolidated losses from offsetting tainted income. Finally, paragraph (f) of this section provides rules for computing foreign tax credits.
 
 (b) *Limitation on domestic use of a dual consolidated loss.* Except as provided in § 1.1503(d)-6, the domestic use of a dual consolidated loss is not permitted. See § 1.1503(d)-2 for the definition of a domestic use. See also § 1.1503(d)-7(c) *Examples 2* through *4.*

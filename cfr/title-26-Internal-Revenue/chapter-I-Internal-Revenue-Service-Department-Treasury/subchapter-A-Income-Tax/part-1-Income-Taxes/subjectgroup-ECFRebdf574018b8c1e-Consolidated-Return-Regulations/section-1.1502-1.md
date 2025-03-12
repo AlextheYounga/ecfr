@@ -1,5 +1,7 @@
 ##### § 1.1502-1 Definitions. #####
 
+Link to an amendment published at 85 FR 67974, Oct. 27, 2020.
+
 (a) *Group.* The term *group* means an affiliated group of corporations as defined in section 1504. See § 1.1502-75(d) as to when a group remains in existence. Except as the context otherwise requires, references to a group are references to a consolidated group (as defined in paragraph (h) of this section).
 
 (b) *Member.* The term *member* means a corporation (including the common parent) that is included in the group, or as the context may require, a corporation that is included in a subgroup.

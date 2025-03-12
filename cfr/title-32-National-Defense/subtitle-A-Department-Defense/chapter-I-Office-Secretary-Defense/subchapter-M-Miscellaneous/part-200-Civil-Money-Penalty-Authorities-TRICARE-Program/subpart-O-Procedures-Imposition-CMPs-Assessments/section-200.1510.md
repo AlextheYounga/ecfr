@@ -1,0 +1,3 @@
+##### § 200.1510 Failure to request a hearing. #####
+
+If the respondent does not request a hearing within 60 days after the notice prescribed by § 200.1500(a) is received, as determined by § 200.2002(c), by the respondent, the DHA may impose the proposed penalty and assessment, or any less severe penalty and assessment. The DHA shall notify the respondent in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure of any penalty and assessment that have been imposed and of the means by which the respondent may satisfy the judgment. The respondent has no right to appeal a penalty, an assessment with respect to which he or she has not made a timely request for a hearing under § 200.2002.

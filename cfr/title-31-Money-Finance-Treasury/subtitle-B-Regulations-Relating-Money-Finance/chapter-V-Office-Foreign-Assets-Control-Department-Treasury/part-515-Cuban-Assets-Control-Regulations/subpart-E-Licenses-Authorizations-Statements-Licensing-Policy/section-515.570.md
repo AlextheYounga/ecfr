@@ -1,5 +1,7 @@
 ##### § 515.570 Remittances. #####
 
+Link to an amendment published at 85 FR 67989, Oct. 27, 2020.
+
 (a) *Family remittances authorized.* Persons subject to the jurisdiction of the United States who are 18 years of age or older are authorized to make remittances to nationals of Cuba who are close relatives, as defined in § 515.339 of this part, of the remitter, provided that:
 
 (1) The remitter's total remittances pursuant to paragraph (a) of this section to any one Cuban national do not exceed $1,000 in any consecutive three-month period;
@@ -54,4 +56,4 @@ Note 2 to § 515.570:
 
 For the rules relating to the carrying of remittances to Cuba, see § 515.560(c)(4). See § 515.572 for an authorization related to the collection, forwarding, or receipt of certain remittances to or from Cuba.
 
-[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47123, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020]
+[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47122, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020]

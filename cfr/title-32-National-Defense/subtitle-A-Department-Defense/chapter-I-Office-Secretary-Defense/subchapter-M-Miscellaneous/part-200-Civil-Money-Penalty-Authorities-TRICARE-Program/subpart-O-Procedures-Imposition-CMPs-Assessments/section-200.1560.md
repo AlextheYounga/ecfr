@@ -1,0 +1,3 @@
+##### § 200.1560 Notice to other agencies. #####
+
+Whenever a penalty and/or an assessment becomes final, the following organizations and entities will be notified about such action and the reasons for it: Department of Health and Human Service (HHS) Office of Inspector General, the appropriate State or local medical or professional association; the appropriate quality improvement organization; as appropriate, the State agency that administers each State health care program; the appropriate TRICARE Contractor; the appropriate State or local licensing agency or organization (including the Medicare and Medicaid State survey agencies); and the long-term-care ombudsman.

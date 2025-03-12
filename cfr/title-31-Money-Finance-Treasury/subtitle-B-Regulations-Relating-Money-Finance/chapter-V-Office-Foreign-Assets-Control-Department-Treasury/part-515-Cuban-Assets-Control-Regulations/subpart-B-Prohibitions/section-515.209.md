@@ -1,5 +1,7 @@
 ##### § 515.209 Restrictions on direct financial transactions with certain entities and subentities. #####
 
+Link to an amendment published at 85 FR 67989, Oct. 27, 2020.
+
 (a) Except as otherwise authorized pursuant to this part, no person subject to U.S. jurisdiction may engage in a direct financial transaction with any person that the Secretary of State has identified as an entity or subentity that is under the control of, or acts for or on behalf of, the Cuban military, intelligence, or security services or personnel and with which direct financial transactions would disproportionately benefit such services or personnel at the expense of the Cuban people or private enterprise in Cuba. For purposes of this prohibition, a person engages in a direct financial transaction by acting as the originator on a transfer of funds whose ultimate beneficiary is an entity or subentity on the State Department's List of Restricted Entities and Subentities Associated with Cuba (“Cuba Restricted List”) or as the ultimate beneficiary on a transfer of funds whose originator is an entity or subentity on the Cuba Restricted List, including a transaction by wire transfer, credit card, check, or payment of cash. This prohibition does not apply to certain transactions set forth in paragraphs (b) and (c) of this section.
 
 Note to paragraph (a):

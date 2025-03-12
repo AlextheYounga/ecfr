@@ -18,4 +18,4 @@ The term *arms and related materiel* means arms or related materiel of all types
 
 (d) Supplies of arms and related materiel, training, and technical assistance intended solely for support of or use by the European Union force deployed to support MONUC.
 
-{74 FR 25441, May 28, 2009, as amended at 83 FR 57312, Nov. 15, 2018]
+[74 FR 25441, May 28, 2009, as amended at 83 FR 57312, Nov. 15, 2018]
